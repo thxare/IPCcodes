@@ -1,0 +1,192 @@
+[
+  {
+    "code": "B01",
+    "description": "PROCEDIMIENTOS O APARATOS FISICOS O QUIMICOS EN GENERAL",
+    "category": "SEPARACION; MEZCLA"
+  },
+  {
+    "code": "B02",
+    "description": "TRITURACION, REDUCCION A POLVO O DESINTEGRACION; TRATAMIENTO PREPARATORIO DE LOS GRANOS PARA LA MOLIENDA",
+    "category": "SEPARACION; MEZCLA"
+  },
+  {
+    "code": "B03",
+    "description": "SEPARACION DE SOLIDOS POR UTILIZACION DE LIQUIDOS O POR UTILIZACION DE MESAS O CRIBAS DE PISTON NEUMATICO; SEPARACION MAGNETICA O ELECTROSTATICA DE MATERIALES SOLIDOS A PARTIR DE MATERIALES SOLIDOS O DE FLUIDOS; SEPARACION POR CAMPOS ELECTRICOS DE ALTA TENSION [5]",
+    "category": "SEPARACION; MEZCLA"
+  },
+  {
+    "code": "B04",
+    "description": "APARATOS O MAQUINAS CENTRIFUGAS UTILIZADAS PARA LOS PROCEDIMIENTOS FISICOS O QUIMICOS",
+    "category": "SEPARACION; MEZCLA"
+  },
+  {
+    "code": "B05",
+    "description": "PULVERIZACION O ATOMIZACION EN GENERAL; APLICACION DE MATERIALES FLUIDOS A SUPERFICIES, EN GENERAL [2]",
+    "category": "SEPARACION; MEZCLA"
+  },
+  {
+    "code": "B06",
+    "description": "PRODUCCION O TRANSMISION DE VIBRACIONES MECANICAS, EN GENERAL",
+    "category": "SEPARACION; MEZCLA"
+  },
+  {
+    "code": "B07",
+    "description": "SEPARACION DE SOLIDOS; CLASIFICACION",
+    "category": "SEPARACION; MEZCLA"
+  },
+  {
+    "code": "B08",
+    "description": "LIMPIEZA",
+    "category": "SEPARACION; MEZCLA"
+  },
+  {
+    "code": "B09",
+    "description": "ELIMINACION DE DESECHOS SOLIDOS; REGENERACION DE SUELOS CONTAMINADOS 6 href=# oncontextmenu=return false; onclick=return false;>[6]",
+    "category": "SEPARACION; MEZCLA"
+  },
+  {
+    "code": "B21",
+    "description": "TRABAJO MECANICO DE LOS METALES SIN ARRANQUE SUSTANCIAL DE MATERIAL; CORTE DEL METAL POR PUNZONADO",
+    "category": "CONFORMACION"
+  },
+  {
+    "code": "B22",
+    "description": "FUNDICION; METALURGIA DE POLVOS METALICOS",
+    "category": "CONFORMACION"
+  },
+  {
+    "code": "B23",
+    "description": "MAQUINAS-HERRAMIENTAS; TRABAJO DE METALES NO PREVISTO EN OTRO LUGAR",
+    "category": "CONFORMACION"
+  },
+  {
+    "code": "B24",
+    "description": "TRABAJO CON MUELA; PULIDO",
+    "category": "CONFORMACION"
+  },
+  {
+    "code": "B25",
+    "description": "HERRAMIENTAS MANUALES; HERRAMIENTAS DE MOTOR PORTATILES; MANGOS PARA UTENSILIOS MANUALES; UTILLAJE DE TALLER; MANIPULADORES",
+    "category": "CONFORMACION"
+  },
+  {
+    "code": "B26",
+    "description": "HERRAMIENTAS MANUALES DE CORTE; CORTE; SEPARACION",
+    "category": "CONFORMACION"
+  },
+  {
+    "code": "B27",
+    "description": "TRABAJO O CONSERVACION DE LA MADERA O DE MATERIALES SIMILARES; MAQUINAS PARA CLAVAR, GRAPAR O COSER EN GENERAL",
+    "category": "CONFORMACION"
+  },
+  {
+    "code": "B28",
+    "description": "TRABAJO DEL CEMENTO, DE LA ARCILLA O LA PIEDRA",
+    "category": "CONFORMACION"
+  },
+  {
+    "code": "B29",
+    "description": "TRABAJO DE LAS MATERIAS PLASTICAS; TRABAJO DE SUSTANCIAS EN ESTADO PLASTICO EN GENERAL",
+    "category": "CONFORMACION"
+  },
+  {
+    "code": "B30",
+    "description": "PRENSAS",
+    "category": "CONFORMACION"
+  },
+  {
+    "code": "B31",
+    "description": "FABRICACION DE ARTICULOS DE PAPEL, DE CARTON O DE MATERIAL TRABAJADO DE FORMA ANÁLOGA AL PAPEL; TRABAJO DEL PAPEL, DELCARTON O DE MATERIAL TRABAJADO DE FORMA ANÁLOGA AL PAPEL",
+    "category": "CONFORMACION"
+  },
+  {
+    "code": "B32",
+    "description": "PRODUCTOS ESTRATIFICADOS",
+    "category": "CONFORMACION"
+  },
+  {
+    "code": "B33",
+    "description": "TECNOLOGIA DE FABRICACION ADITIVA [2015.01]",
+    "category": "CONFORMACION"
+  },
+  {
+    "code": "B41",
+    "description": "IMPRENTA; MAQUINAS COMPONEDORAS DE LINEAS; MAQUINAS DE ESCRIBIR; SELLOS [4]",
+    "category": "IMPRENTA"
+  },
+  {
+    "code": "B42",
+    "description": "ENCUADERNACION; ALBUMES; CLASIFICADORES; IMPRESOS ESPECIALES",
+    "category": "IMPRENTA"
+  },
+  {
+    "code": "B43",
+    "description": "MATERIAL PARA ESCRIBIR O DIBUJAR; ACCESORIOS DE OFICINA",
+    "category": "IMPRENTA"
+  },
+  {
+    "code": "B44",
+    "description": "ARTES DECORATIVAS",
+    "category": "IMPRENTA"
+  },
+  {
+    "code": "B60",
+    "description": "VEHICULOS EN GENERAL",
+    "category": "TRANSPORTES O MANUTENCION"
+  },
+  {
+    "code": "B61",
+    "description": "FERROCARRILES",
+    "category": "TRANSPORTES O MANUTENCION"
+  },
+  {
+    "code": "B62",
+    "description": "VEHICULOS TERRESTRES QUE SE DESPLAZAN DE OTRO MODO QUE POR RAILES",
+    "category": "TRANSPORTES O MANUTENCION"
+  },
+  {
+    "code": "B63",
+    "description": "BUQUES U OTRAS EMBARCACIONES FLOTANTES; SUS EQUIPOS",
+    "category": "TRANSPORTES O MANUTENCION"
+  },
+  {
+    "code": "B64",
+    "description": "AERONAVES; AVIACION; ASTRONAUTICA",
+    "category": "TRANSPORTES O MANUTENCION"
+  },
+  {
+    "code": "B65",
+    "description": "TRANSPORTE; EMBALAJE; ALMACENADO; MANIPULACION DE MATERIALES DELGADOS O FILIFORMES",
+    "category": "TRANSPORTES O MANUTENCION"
+  },
+  {
+    "code": "B66",
+    "description": "ELEVACION; LEVANTAMIENTO; REMOLCADO",
+    "category": "TRANSPORTES O MANUTENCION"
+  },
+  {
+    "code": "B67",
+    "description": "APERTURA Y CIERRE DE BOTELLAS, TARROS O RECIPIENTES ANALOGOS; MANIPULACION DE LIQUIDOS",
+    "category": "TRANSPORTES O MANUTENCION"
+  },
+  {
+    "code": "B68",
+    "description": "GUARNICIONERIA; TAPICERIA",
+    "category": "TRANSPORTES O MANUTENCION"
+  },
+  {
+    "code": "B81",
+    "description": "TECNOLOGIA DE LAS MICROESTRUCTURAS [7]",
+    "category": "TECNOLOGIA DE LAS MICROESTRUCTURAS; NANOTECNOLOGIA"
+  },
+  {
+    "code": "B82",
+    "description": "NANOTECNOLOGIA [7]",
+    "category": "TECNOLOGIA DE LAS MICROESTRUCTURAS; NANOTECNOLOGIA"
+  },
+  {
+    "code": "B99",
+    "description": "MATERIA NO PREVISTA EN OTRO LUGAR DE ESTA SECCION [2006.01]",
+    "category": "TECNOLOGIA DE LAS MICROESTRUCTURAS; NANOTECNOLOGIA"
+  }
+]
