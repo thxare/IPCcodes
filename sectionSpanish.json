@@ -1,0 +1,640 @@
+[
+  {
+    "code": "A01",
+    "description": "AGRICULTURA; SILVICULTURA; CRIA; CAZA; CAPTURA; PESCA",
+    "category": "ACTIVIDADES RURALES"
+  },
+  {
+    "code": "A21",
+    "description": "COCCION EN HORNO; EQUIPAMIENTO PARA LA PREPARACION O EL TRATAMIENTO DE LA MASA; MASAS PARA COCER EN HORNO [2006.01]",
+    "category": "ALIMENTACI0N; TABACO"
+  },
+  {
+    "code": "A22",
+    "description": "CARNICERIA; TRATAMIENTO DE LA CARNE; TRATAMIENTO DE LAS AVES DE CORRAL O DEL PESCADO",
+    "category": "ALIMENTACI0N; TABACO"
+  },
+  {
+    "code": "A23",
+    "description": "ALIMENTOS O PRODUCTOS ALIMENTICIOS; SU TRATAMIENTO, NO CUBIERTO POR OTRAS CLASES",
+    "category": "ALIMENTACI0N; TABACO"
+  },
+  {
+    "code": "A24",
+    "description": "TABACO; PUROS; CIGARRILLOS; DISPOSITIVOS PARA SIMULAR LA ACCIÓN DE FUMAR; ARTICULOS PARA FUMADORES",
+    "category": "ALIMENTACI0N; TABACO"
+  },
+  {
+    "code": "A41",
+    "description": "VESTIMENTA",
+    "category": "OBJETOS PERSONALES O DOMESTICOS"
+  },
+  {
+    "code": "A42",
+    "description": "SOMBRERERIA",
+    "category": "OBJETOS PERSONALES O DOMESTICOS"
+  },
+  {
+    "code": "A43",
+    "description": "CALZADOS",
+    "category": "OBJETOS PERSONALES O DOMESTICOS"
+  },
+  {
+    "code": "A44",
+    "description": "MERCERIA; JOYERIA",
+    "category": "OBJETOS PERSONALES O DOMESTICOS"
+  },
+  {
+    "code": "A45",
+    "description": "OBJETOS DE USO PERSONAL O ARTICULOS DE VIAJE",
+    "category": "OBJETOS PERSONALES O DOMESTICOS"
+  },
+  {
+    "code": "A46",
+    "description": "CEPILLERIA",
+    "category": "OBJETOS PERSONALES O DOMESTICOS"
+  },
+  {
+    "code": "A47",
+    "description": "MOBILIARIO; ARTICULOS O APARATOS DE USO DOMESTICO; MOLINILLOS DE CAFE; MOLINILLOS DE ESPECIAS; ASPIRADORES EN GENERAL",
+    "category": "OBJETOS PERSONALES O DOMESTICOS"
+  },
+  {
+    "code": "A61",
+    "description": "CIENCIAS MEDICAS O VETERINARIAS; HIGIENE",
+    "category": "SALUD; SALVAMENTO; DIVERSIONES"
+  },
+  {
+    "code": "A62",
+    "description": "SALVAMENTO; LUCHA CONTRA INCENDIOS",
+    "category": "SALUD; SALVAMENTO; DIVERSIONES"
+  },
+  {
+    "code": "A63",
+    "description": "DEPORTES; JUEGOS; DISTRACCIONES",
+    "category": "SALUD; SALVAMENTO; DIVERSIONES"
+  },
+  {
+    "code": "A99",
+    "description": "MATERIA NO PREVISTA EN OTRO LUGAR DE ESTA SECCION [2006.01]",
+    "category": "SALUD; SALVAMENTO; DIVERSIONES"
+  },
+  {
+    "code": "B01",
+    "description": "PROCEDIMIENTOS O APARATOS FISICOS O QUIMICOS EN GENERAL",
+    "category": "SEPARACION; MEZCLA"
+  },
+  {
+    "code": "B02",
+    "description": "TRITURACION, REDUCCION A POLVO O DESINTEGRACION; TRATAMIENTO PREPARATORIO DE LOS GRANOS PARA LA MOLIENDA",
+    "category": "SEPARACION; MEZCLA"
+  },
+  {
+    "code": "B03",
+    "description": "SEPARACION DE SOLIDOS POR UTILIZACION DE LIQUIDOS O POR UTILIZACION DE MESAS O CRIBAS DE PISTON NEUMATICO; SEPARACION MAGNETICA O ELECTROSTATICA DE MATERIALES SOLIDOS A PARTIR DE MATERIALES SOLIDOS O DE FLUIDOS; SEPARACION POR CAMPOS ELECTRICOS DE ALTA TENSION [5]",
+    "category": "SEPARACION; MEZCLA"
+  },
+  {
+    "code": "B04",
+    "description": "APARATOS O MAQUINAS CENTRIFUGAS UTILIZADAS PARA LOS PROCEDIMIENTOS FISICOS O QUIMICOS",
+    "category": "SEPARACION; MEZCLA"
+  },
+  {
+    "code": "B05",
+    "description": "PULVERIZACION O ATOMIZACION EN GENERAL; APLICACION DE MATERIALES FLUIDOS A SUPERFICIES, EN GENERAL [2]",
+    "category": "SEPARACION; MEZCLA"
+  },
+  {
+    "code": "B06",
+    "description": "PRODUCCION O TRANSMISION DE VIBRACIONES MECANICAS, EN GENERAL",
+    "category": "SEPARACION; MEZCLA"
+  },
+  {
+    "code": "B07",
+    "description": "SEPARACION DE SOLIDOS; CLASIFICACION",
+    "category": "SEPARACION; MEZCLA"
+  },
+  {
+    "code": "B08",
+    "description": "LIMPIEZA",
+    "category": "SEPARACION; MEZCLA"
+  },
+  {
+    "code": "B09",
+    "description": "ELIMINACION DE DESECHOS SOLIDOS; REGENERACION DE SUELOS CONTAMINADOS 6 href=# oncontextmenu=return false; onclick=return false;>[6]",
+    "category": "SEPARACION; MEZCLA"
+  },
+  {
+    "code": "B21",
+    "description": "TRABAJO MECANICO DE LOS METALES SIN ARRANQUE SUSTANCIAL DE MATERIAL; CORTE DEL METAL POR PUNZONADO",
+    "category": "CONFORMACION"
+  },
+  {
+    "code": "B22",
+    "description": "FUNDICION; METALURGIA DE POLVOS METALICOS",
+    "category": "CONFORMACION"
+  },
+  {
+    "code": "B23",
+    "description": "MAQUINAS-HERRAMIENTAS; TRABAJO DE METALES NO PREVISTO EN OTRO LUGAR",
+    "category": "CONFORMACION"
+  },
+  {
+    "code": "B24",
+    "description": "TRABAJO CON MUELA; PULIDO",
+    "category": "CONFORMACION"
+  },
+  {
+    "code": "B25",
+    "description": "HERRAMIENTAS MANUALES; HERRAMIENTAS DE MOTOR PORTATILES; MANGOS PARA UTENSILIOS MANUALES; UTILLAJE DE TALLER; MANIPULADORES",
+    "category": "CONFORMACION"
+  },
+  {
+    "code": "B26",
+    "description": "HERRAMIENTAS MANUALES DE CORTE; CORTE; SEPARACION",
+    "category": "CONFORMACION"
+  },
+  {
+    "code": "B27",
+    "description": "TRABAJO O CONSERVACION DE LA MADERA O DE MATERIALES SIMILARES; MAQUINAS PARA CLAVAR, GRAPAR O COSER EN GENERAL",
+    "category": "CONFORMACION"
+  },
+  {
+    "code": "B28",
+    "description": "TRABAJO DEL CEMENTO, DE LA ARCILLA O LA PIEDRA",
+    "category": "CONFORMACION"
+  },
+  {
+    "code": "B29",
+    "description": "TRABAJO DE LAS MATERIAS PLASTICAS; TRABAJO DE SUSTANCIAS EN ESTADO PLASTICO EN GENERAL",
+    "category": "CONFORMACION"
+  },
+  {
+    "code": "B30",
+    "description": "PRENSAS",
+    "category": "CONFORMACION"
+  },
+  {
+    "code": "B31",
+    "description": "FABRICACION DE ARTICULOS DE PAPEL, DE CARTON O DE MATERIAL TRABAJADO DE FORMA ANÁLOGA AL PAPEL; TRABAJO DEL PAPEL, DELCARTON O DE MATERIAL TRABAJADO DE FORMA ANÁLOGA AL PAPEL",
+    "category": "CONFORMACION"
+  },
+  {
+    "code": "B32",
+    "description": "PRODUCTOS ESTRATIFICADOS",
+    "category": "CONFORMACION"
+  },
+  {
+    "code": "B33",
+    "description": "TECNOLOGIA DE FABRICACION ADITIVA [2015.01]",
+    "category": "CONFORMACION"
+  },
+  {
+    "code": "B41",
+    "description": "IMPRENTA; MAQUINAS COMPONEDORAS DE LINEAS; MAQUINAS DE ESCRIBIR; SELLOS [4]",
+    "category": "IMPRENTA"
+  },
+  {
+    "code": "B42",
+    "description": "ENCUADERNACION; ALBUMES; CLASIFICADORES; IMPRESOS ESPECIALES",
+    "category": "IMPRENTA"
+  },
+  {
+    "code": "B43",
+    "description": "MATERIAL PARA ESCRIBIR O DIBUJAR; ACCESORIOS DE OFICINA",
+    "category": "IMPRENTA"
+  },
+  {
+    "code": "B44",
+    "description": "ARTES DECORATIVAS",
+    "category": "IMPRENTA"
+  },
+  {
+    "code": "B60",
+    "description": "VEHICULOS EN GENERAL",
+    "category": "TRANSPORTES O MANUTENCION"
+  },
+  {
+    "code": "B61",
+    "description": "FERROCARRILES",
+    "category": "TRANSPORTES O MANUTENCION"
+  },
+  {
+    "code": "B62",
+    "description": "VEHICULOS TERRESTRES QUE SE DESPLAZAN DE OTRO MODO QUE POR RAILES",
+    "category": "TRANSPORTES O MANUTENCION"
+  },
+  {
+    "code": "B63",
+    "description": "BUQUES U OTRAS EMBARCACIONES FLOTANTES; SUS EQUIPOS",
+    "category": "TRANSPORTES O MANUTENCION"
+  },
+  {
+    "code": "B64",
+    "description": "AERONAVES; AVIACION; ASTRONAUTICA",
+    "category": "TRANSPORTES O MANUTENCION"
+  },
+  {
+    "code": "B65",
+    "description": "TRANSPORTE; EMBALAJE; ALMACENADO; MANIPULACION DE MATERIALES DELGADOS O FILIFORMES",
+    "category": "TRANSPORTES O MANUTENCION"
+  },
+  {
+    "code": "B66",
+    "description": "ELEVACION; LEVANTAMIENTO; REMOLCADO",
+    "category": "TRANSPORTES O MANUTENCION"
+  },
+  {
+    "code": "B67",
+    "description": "APERTURA Y CIERRE DE BOTELLAS, TARROS O RECIPIENTES ANALOGOS; MANIPULACION DE LIQUIDOS",
+    "category": "TRANSPORTES O MANUTENCION"
+  },
+  {
+    "code": "B68",
+    "description": "GUARNICIONERIA; TAPICERIA",
+    "category": "TRANSPORTES O MANUTENCION"
+  },
+  {
+    "code": "B81",
+    "description": "TECNOLOGIA DE LAS MICROESTRUCTURAS [7]",
+    "category": "TECNOLOGIA DE LAS MICROESTRUCTURAS; NANOTECNOLOGIA"
+  },
+  {
+    "code": "B82",
+    "description": "NANOTECNOLOGIA [7]",
+    "category": "TECNOLOGIA DE LAS MICROESTRUCTURAS; NANOTECNOLOGIA"
+  },
+  {
+    "code": "B99",
+    "description": "MATERIA NO PREVISTA EN OTRO LUGAR DE ESTA SECCION [2006.01]",
+    "category": "TECNOLOGIA DE LAS MICROESTRUCTURAS; NANOTECNOLOGIA"
+  },
+  {
+    "code": "C01",
+    "description": "QUIMICA INORGANICA",
+    "category": "QUIMICA"
+  },
+  {
+    "code": "C02",
+    "description": "TRATAMIENTO DEL AGUA, AGUA RESIDUAL, DE ALCANTARILLA O FANGOS",
+    "category": "QUIMICA"
+  },
+  {
+    "code": "C03",
+    "description": "VIDRIO; LANA MINERAL O DE ESCORIA",
+    "category": "QUIMICA"
+  },
+  {
+    "code": "C04",
+    "description": "CEMENTOS; HORMIGON; PIEDRA ARTIFICIAL; CERAMICAS; REFRACTARIOS [4]",
+    "category": "QUIMICA"
+  },
+  {
+    "code": "C05",
+    "description": "FERTILIZANTES; SU FABRICACION [4]",
+    "category": "QUIMICA"
+  },
+  {
+    "code": "C06",
+    "description": "EXPLOSIVOS; CERILLAS",
+    "category": "QUIMICA"
+  },
+  {
+    "code": "C07",
+    "description": "QUIMICA ORGANICA [2]",
+    "category": "QUIMICA"
+  },
+  {
+    "code": "C08",
+    "description": "COMPUESTOS MACROMOLECULARES ORGANICOS; SU PREPARACION O PRODUCCION QUIMICA; COMPOSICIONES BASADAS EN COMPUESTOS MACROMOLECULARES",
+    "category": "QUIMICA"
+  },
+  {
+    "code": "C09",
+    "description": "COLORANTES; PINTURAS; PULIMENTOS; RESINAS NATURALES; ADHESIVOS; COMPOSICIONES NO PREVISTAS EN OTRO LUGAR; APLICACIONES DE LOS MATERIALES NO PREVISTAS EN OTRO LUGAR",
+    "category": "QUIMICA"
+  },
+  {
+    "code": "C10",
+    "description": "INDUSTRIAS DEL PETROLEO, GAS O COQUE; GAS DE SINTESIS QUE CONTIENE MONOXIDO DE CARBONO; COMBUSTIBLES; LUBRICANTES; TURBA",
+    "category": "QUIMICA"
+  },
+  {
+    "code": "C11",
+    "description": "ACEITES, GRASAS, MATERIAS GRASAS O CERAS ANIMALES O VEGETALES; SUS ACIDOS GRASOS; DETERGENTES; VELAS",
+    "category": "QUIMICA"
+  },
+  {
+    "code": "C12",
+    "description": "BIOQUIMICA; CERVEZA; BEBIDAS ALCOHOLICAS; VINO; VINAGRE; MICROBIOLOGIA; ENZIMOLOGIA; TECNICAS DE MUTACION O DE GENETICA",
+    "category": "QUIMICA"
+  },
+  {
+    "code": "C13",
+    "description": "INDUSTRIA DEL AZUCAR [4]",
+    "category": "QUIMICA"
+  },
+  {
+    "code": "C14",
+    "description": "PIELES; PIELES SIN CURTIR; CUEROS",
+    "category": "QUIMICA"
+  },
+  {
+    "code": "C21",
+    "description": "METALURGIA DEL HIERRO",
+    "category": "METALURGIA"
+  },
+  {
+    "code": "C22",
+    "description": "METALURGIA; ALEACIONES FERROSAS O NO FERROSAS; TRATAMIENTO DE ALEACIONES O METALES NO FERROSOS",
+    "category": "METALURGIA"
+  },
+  {
+    "code": "C23",
+    "description": "REVESTIMIENTO DE MATERIALES METALICOS; REVESTIMIENTO DE MATERIALES CON MATERIALES METALICOS; TRATAMIENTO QUIMICO DE LA SUPERFICIE; TRATAMIENTO DE DIFUSION DE MATERIALES METALICOS; REVESTIMIENTO POR EVAPORACION EN VACIO, POR PULVERIZACION CATODICA, POR IMPLANTACION DE IONES O POR DEPOSICION QUIMICA EN FASE VAPOR, EN GENERAL; MEDIOS PARA IMPEDIR LA CORROSION DE MATERIALES METALICOS, LAS INCRUSTACIONES, EN GENERAL [2]",
+    "category": "METALURGIA"
+  },
+  {
+    "code": "C25",
+    "description": "PROCESOS ELECTROLITICOS O ELECTROFORETICOS; SUS APARATOS [4]",
+    "category": "METALURGIA"
+  },
+  {
+    "code": "C30",
+    "description": "CRECIMIENTO DE CRISTALES [3]",
+    "category": "METALURGIA"
+  },
+  {
+    "code": "C40",
+    "description": "TECNOLOGIA COMBINATORIA [2006.01]",
+    "category": "TECNOLOGIA COMBINATORIA [2006.01]"
+  },
+  {
+    "code": "C99",
+    "description": "MATERIA NO PREVISTA EN OTRO LUGAR DE ESTA SECCION [2006.01]",
+    "category": "TECNOLOGIA COMBINATORIA [2006.01]"
+  },
+  {
+    "code": "D01",
+    "description": "FIBRAS O HILOS NATURALES O FABRICADOS POR EL HOMBRE; HILATURA",
+    "category": "TEXTILES O MATERIALES FLEXIBLES NO PREVISTOS EN OTRO LUGAR"
+  },
+  {
+    "code": "D02",
+    "description": "HILOS; ACABADO MECANICO DE HILOS O CUERDAS; URDIDO O PLEGADO",
+    "category": "TEXTILES O MATERIALES FLEXIBLES NO PREVISTOS EN OTRO LUGAR"
+  },
+  {
+    "code": "D03",
+    "description": "TEJIDO",
+    "category": "TEXTILES O MATERIALES FLEXIBLES NO PREVISTOS EN OTRO LUGAR"
+  },
+  {
+    "code": "D04",
+    "description": "TRENZADO; FABRICACION DEL ENCAJE; TRICOTADO; PASAMANERIA; NO TEJIDOS",
+    "category": "TEXTILES O MATERIALES FLEXIBLES NO PREVISTOS EN OTRO LUGAR"
+  },
+  {
+    "code": "D05",
+    "description": "COSTURA; BORDADO; IMPLANTACION DE PELOS O MECHONES POR PICADO",
+    "category": "TEXTILES O MATERIALES FLEXIBLES NO PREVISTOS EN OTRO LUGAR"
+  },
+  {
+    "code": "D06",
+    "description": "TRATAMIENTO DE TEXTILES O SIMILARES; LAVANDERIA; MATERIALES FLEXIBLES NO PREVISTOS EN OTRO LUGAR",
+    "category": "TEXTILES O MATERIALES FLEXIBLES NO PREVISTOS EN OTRO LUGAR"
+  },
+  {
+    "code": "D07",
+    "description": "CUERDAS; CABLES DISTINTOS DE LOS CABLES ELECTRICOS",
+    "category": "TEXTILES O MATERIALES FLEXIBLES NO PREVISTOS EN OTRO LUGAR"
+  },
+  {
+    "code": "D21",
+    "description": "FABRICACION DEL PAPEL; PRODUCCION DE LA CELULOSA",
+    "category": "PAPEL"
+  },
+  {
+    "code": "D99",
+    "description": "MATERIA NO PREVISTA EN OTRO LUGAR DE ESTA SECCION [2006.01]",
+    "category": "PAPEL"
+  },
+  {
+    "code": "E01",
+    "description": "CONSTRUCCION DE CARRETERAS, VIAS FERREAS O PUENTES",
+    "category": "EDIFICIOS"
+  },
+  {
+    "code": "E02",
+    "description": "HIDRAULICA; CIMENTACIONES; MOVIMIENTO DE TIERRAS",
+    "category": "EDIFICIOS"
+  },
+  {
+    "code": "E03",
+    "description": "SUMINISTROS DE AGUA; EVACUACION DE AGUAS",
+    "category": "EDIFICIOS"
+  },
+  {
+    "code": "E04",
+    "description": "EDIFICIOS",
+    "category": "EDIFICIOS"
+  },
+  {
+    "code": "E05",
+    "description": "CERRADURAS; LLAVES; ACCESORIOS DE PUERTAS O VENTANAS; CAJAS FUERTES",
+    "category": "EDIFICIOS"
+  },
+  {
+    "code": "E06",
+    "description": "PUERTAS, VENTANAS, POSTIGOS O CORTINAS METALICAS ENROLLABLES, EN GENERAL; ESCALERAS",
+    "category": "EDIFICIOS"
+  },
+  {
+    "code": "E21",
+    "description": "PERFORACION DEL SUELO O DE LA ROCA; EXPLOTACION MINERA",
+    "category": "PERFORACION DEL SUELO O DE LA ROCA; EXPLOTACION MINERA"
+  },
+  {
+    "code": "E99",
+    "description": "MATERIA NO PREVISTA EN NINGUN OTRO LUGAR DE ESTA SECCION [2006.01]",
+    "category": "PERFORACION DEL SUELO O DE LA ROCA; EXPLOTACION MINERA"
+  },
+  {
+    "code": "F01",
+    "description": "MAQUINAS O MOTORES EN GENERAL; PLANTAS MOTRICES EN GENERAL; MAQUINAS DE VAPOR",
+    "category": "MOTORES O BOMBAS"
+  },
+  {
+    "code": "F02",
+    "description": "MOTORES DE COMBUSTION; PLANTAS MOTRICES DE GASES CALIENTES O DE PRODUCTOS DE COMBUSTION",
+    "category": "MOTORES O BOMBAS"
+  },
+  {
+    "code": "F03",
+    "description": "MAQUINAS O MOTORES DE LIQUIDOS; MOTORES DE VIENTO, DE RESORTES, O DE PESOS; PRODUCCION DE ENERGIA MECANICA O DE EMPUJE PROPULSIVO O POR REACCION, NO PREVISTA EN OTRO LUGAR",
+    "category": "MOTORES O BOMBAS"
+  },
+  {
+    "code": "F04",
+    "description": "MAQUINAS DE LIQUIDOS DE DESPLAZAMIENTO POSITIVO; BOMBAS PARA LIQUIDOS O PARA FLUIDOS COMPRESIBLES",
+    "category": "MOTORES O BOMBAS"
+  },
+  {
+    "code": "F15",
+    "description": "DISPOSITIVOS ACCIONADORES POR PRESION DE UN FLUIDO; HIDRAULICA O NEUMATICA EN GENERAL",
+    "category": "TECNOLOGIA EN GENERAL"
+  },
+  {
+    "code": "F16",
+    "description": "ELEMENTOS O CONJUNTOS DE TECNOLOGIA; MEDIDAS GENERALES PARA ASEGURAR EL BUEN FUNCIONAMIENTO DE LAS MAQUINAS O INSTALACIONES; AISLAMIENTO TERMICO EN GENERAL",
+    "category": "TECNOLOGIA EN GENERAL"
+  },
+  {
+    "code": "F17",
+    "description": "ALMACENAMIENTO O DISTRIBUCION DE GASES O LIQUIDOS",
+    "category": "TECNOLOGIA EN GENERAL"
+  },
+  {
+    "code": "F21",
+    "description": "ILUMINACION",
+    "category": "ILUMINACION; CALENTAMIENTO"
+  },
+  {
+    "code": "F22",
+    "description": "PRODUCCION DE VAPOR",
+    "category": "ILUMINACION; CALENTAMIENTO"
+  },
+  {
+    "code": "F23",
+    "description": "APARATOS DE COMBUSTION; PROCESOS DE COMBUSTION",
+    "category": "ILUMINACION; CALENTAMIENTO"
+  },
+  {
+    "code": "F24",
+    "description": "CALEFACCION; HORNILLAS; VENTILACION",
+    "category": "ILUMINACION; CALENTAMIENTO"
+  },
+  {
+    "code": "F25",
+    "description": "REFRIGERACION O ENFRIAMIENTO; SISTEMAS COMBINADOS DE CALEFACCION Y DE REFRIGERACION; SISTEMAS DE BOMBA DE CALOR; FABRICACION O ALMACENAMIENTO DEL HIELO; LICUEFACCION O SOLIDIFICACION DE GASES",
+    "category": "ILUMINACION; CALENTAMIENTO"
+  },
+  {
+    "code": "F26",
+    "description": "SECADO",
+    "category": "ILUMINACION; CALENTAMIENTO"
+  },
+  {
+    "code": "F27",
+    "description": "HORNOS; APARATOS DE DESTILACIÓN [4]",
+    "category": "ILUMINACION; CALENTAMIENTO"
+  },
+  {
+    "code": "F28",
+    "description": "INTERCAMBIO DE CALOR EN GENERAL",
+    "category": "ILUMINACION; CALENTAMIENTO"
+  },
+  {
+    "code": "F41",
+    "description": "ARMAS",
+    "category": "ARMAMENTO; VOLADURA"
+  },
+  {
+    "code": "F42",
+    "description": "MUNICIONES; VOLADURA",
+    "category": "ARMAMENTO; VOLADURA"
+  },
+  {
+    "code": "F99",
+    "description": "MATERIA NO PREVISTA EN OTRO LUGAR DE ESTA SECCION [2006.01]",
+    "category": "ARMAMENTO; VOLADURA"
+  },
+  {
+    "code": "G01",
+    "description": "METROLOGIA; ENSAYOS"
+  },
+  {
+    "code": "G02",
+    "description": "OPTICA"
+  },
+  {
+    "code": "G03",
+    "description": "FOTOGRAFIA; CINEMATOGRAFIA; TECNICAS ANALOGAS QUE UTILIZAN ONDAS DISTINTAS DE LAS ONDAS OPTICAS; ELECTROGRAFIA; HOLOGRAFIA [4]"
+  },
+  {
+    "code": "G04",
+    "description": "HOROMETRIA"
+  },
+  {
+    "code": "G05",
+    "description": "CONTROL; REGULACION"
+  },
+  {
+    "code": "G06",
+    "description": "CALCULO; CONTEO"
+  },
+  {
+    "code": "G07",
+    "description": "DISPOSITIVOS DE CONTROL"
+  },
+  {
+    "code": "G08",
+    "description": "SEÑALIZACION"
+  },
+  {
+    "code": "G09",
+    "description": "ENSEÑANZA; CRIPTOGRAFIA; PRESENTACION; PUBLICIDAD; PRECINTOS"
+  },
+  {
+    "code": "G10",
+    "description": "INSTRUMENTOS MUSICALES; ACUSTICA"
+  },
+  {
+    "code": "G11",
+    "description": "REGISTRO DE LA INFORMACION"
+  },
+  {
+    "code": "G12",
+    "description": "DETALLES O PARTES CONSTITUTIVAS DE INSTRUMENTOS"
+  },
+  {
+    "code": "G16",
+    "description": "TECNOLOGÍAS DE LA INFORMACIÓN Y DE LA COMUNICACIÓN [TIC] ESPECIALMENTE ADAPTADAS PARA ÁREAS DE APLICACIÓN ESPECÍFICAS [2018.01]"
+  },
+  {
+    "code": "G21",
+    "description": "FISICA NUCLEAR; TECNICA NUCLEAR"
+  },
+  {
+    "code": "G99",
+    "description": "MATERIA NO PREVISTA EN OTRO LUGAR DE ESTA SECCION [2006.01]"
+  },
+  {
+    "code": "H01",
+    "description": "ELEMENTOS ELÉCTRICOS"
+  },
+  {
+    "code": "H02",
+    "description": "PRODUCCION, CONVERSION O DISTRIBUCION DE LA ENERGIA ELECTRICA"
+  },
+  {
+    "code": "H03",
+    "description": "CIRCUITO ELECTRÓNICO"
+  },
+  {
+    "code": "H04",
+    "description": "TECNICA DE LAS COMUNICACIONES ELECTRICAS"
+  },
+  {
+    "code": "H05",
+    "description": "TECNICAS ELECTRICAS NO PREVISTAS EN OTRO LUGAR"
+  },
+  {
+    "code": "H10",
+    "description": "DISPOSITIVOS SEMICONDUCTORES; DISPOSITIVOS ELÉCTRICOS DE ESTADO SÓLIDO NO PREVISTOS EN OTRO LUGAR [2023.01]"
+  },
+  {
+    "code": "H99",
+    "description": "MATERIA NO PREVISTA EN OTRO LUGAR DE ESTA SECCION [2006.01]"
+  }
+]

@@ -532,17 +532,17 @@ export const cleanedSections = [
               },
             ],
           },
-        ],
-      },
-      {
-        classContCode: "A99",
-        classContDescription:
-          "SUBJECT MATTER NOT OTHERWISE PROVIDED FOR IN THIS SECTION [2006.01]",
-        classContChildren: [
           {
-            classCode: "A99Z",
+            classCode: "A99",
             classDescription:
               "SUBJECT MATTER NOT OTHERWISE PROVIDED FOR IN THIS SECTION [2006.01]",
+            classChildren: [
+              {
+                subClassCode: "A99Z",
+                subClassDescription:
+                  "SUBJECT MATTER NOT OTHERWISE PROVIDED FOR IN THIS SECTION [2006.01]",
+              },
+            ],
           },
         ],
       },
@@ -1097,19 +1097,20 @@ export const cleanedSections = [
               },
             ],
           },
-        ],
-      },
-      {
-        classContCode: "B33",
-        classContDescription: "ADDITIVE MANUFACTURING TECHNOLOGY [2015.01]",
-        classContChildren: [
           {
-            classCode: "B33Y",
-            classDescription:
-              "ADDITIVE MANUFACTURING, i.e. MANUFACTURING OF THREE-DIMENSIONAL [3D] OBJECTS BY ADDITIVE DEPOSITION, ADDITIVE AGGLOMERATION OR ADDITIVE LAYERING, e.g. BY 3D PRINTING, STEREOLITHOGRAPHY OR SELECTIVE LASER SINTERING [2015.01]",
+            classCode: "B33",
+            classDescription: "ADDITIVE MANUFACTURING TECHNOLOGY [2015.01]",
+            classChildren: [
+              {
+                subClassCode: "B33Y",
+                subClassDescription:
+                  "ADDITIVE MANUFACTURING, i.e. MANUFACTURING OF THREE-DIMENSIONAL [3D] OBJECTS BY ADDITIVE DEPOSITION, ADDITIVE AGGLOMERATION OR ADDITIVE LAYERING, e.g. BY 3D PRINTING, STEREOLITHOGRAPHY OR SELECTIVE LASER SINTERING [2015.01]",
+              },
+            ],
           },
         ],
       },
+
       {
         classContCode: "B41",
         classContDescription: "PRINTING",
@@ -1571,55 +1572,56 @@ export const cleanedSections = [
               },
             ],
           },
+          {
+            classCode: "B67",
+            classDescription:
+              "OPENING OR CLOSING BOTTLES, JARS OR SIMILAR CONTAINERS; LIQUID HANDLING",
+            classChildren: [
+              {
+                subClassCode: "B67B",
+                subClassDescription:
+                  "APPLYING CLOSURE MEMBERS TO BOTTLES, JARS, OR SIMILAR CONTAINERS; OPENING CLOSED CONTAINERS (opening or closing devices attached to, or incorporated in, containers or container closures  B65D)",
+              },
+              {
+                subClassCode: "B67C",
+                subClassDescription:
+                  "FILLING WITH LIQUIDS OR SEMILIQUIDS, OR EMPTYING, OF BOTTLES, JARS, CANS, CASKS, BARRELS, OR SIMILAR CONTAINERS, NOT OTHERWISE PROVIDED FOR; FUNNELS",
+              },
+              {
+                subClassCode: "B67D",
+                subClassDescription:
+                  "DISPENSING, DELIVERING, OR TRANSFERRING LIQUIDS, NOT OTHERWISE PROVIDED FOR (cleaning pipes or tubes or systems of pipes or tubes  B08B 9/02; emptying or filling of bottles, jars, cans, casks, barrels, or similar containers, not otherwise provided for  B67C; water supply  E03; pipe systems  F17D; domestic hot-water supply systems  F24D; measuring volume, volume flow, mass flow or liquid level, metering by volume  G01F; coin-freed or like apparatus  G07F) [5]",
+              },
+            ],
+          },
+          {
+            classCode: "B68",
+            classDescription: "SADDLERY; UPHOLSTERY",
+            classChildren: [
+              {
+                subClassCode: "B68B",
+                subClassDescription:
+                  "HARNESS; DEVICES USED IN CONNECTION THEREWITH; WHIPS OR THE LIKE",
+              },
+              {
+                subClassCode: "B68C",
+                subClassDescription: "SADDLES; STIRRUPS",
+              },
+              {
+                subClassCode: "B68F",
+                subClassDescription:
+                  "MAKING ARTICLES FROM LEATHER, CANVAS, OR THE LIKE",
+              },
+              {
+                subClassCode: "B68G",
+                subClassDescription:
+                  "METHODS, EQUIPMENT, OR MACHINES FOR USE IN UPHOLSTERING; UPHOLSTERY NOT OTHERWISE PROVIDED FOR",
+              },
+            ],
+          },
         ],
       },
-      {
-        classContCode: "B67",
-        classContDescription:
-          "OPENING OR CLOSING BOTTLES, JARS OR SIMILAR CONTAINERS; LIQUID HANDLING",
-        classContChildren: [
-          {
-            classCode: "B67B",
-            classDescription:
-              "APPLYING CLOSURE MEMBERS TO BOTTLES, JARS, OR SIMILAR CONTAINERS; OPENING CLOSED CONTAINERS (opening or closing devices attached to, or incorporated in, containers or container closures  B65D)",
-          },
-          {
-            classCode: "B67C",
-            classDescription:
-              "FILLING WITH LIQUIDS OR SEMILIQUIDS, OR EMPTYING, OF BOTTLES, JARS, CANS, CASKS, BARRELS, OR SIMILAR CONTAINERS, NOT OTHERWISE PROVIDED FOR; FUNNELS",
-          },
-          {
-            classCode: "B67D",
-            classDescription:
-              "DISPENSING, DELIVERING, OR TRANSFERRING LIQUIDS, NOT OTHERWISE PROVIDED FOR (cleaning pipes or tubes or systems of pipes or tubes  B08B 9/02; emptying or filling of bottles, jars, cans, casks, barrels, or similar containers, not otherwise provided for  B67C; water supply  E03; pipe systems  F17D; domestic hot-water supply systems  F24D; measuring volume, volume flow, mass flow or liquid level, metering by volume  G01F; coin-freed or like apparatus  G07F) [5]",
-          },
-        ],
-      },
-      {
-        classContCode: "B68",
-        classContDescription: "SADDLERY; UPHOLSTERY",
-        classContChildren: [
-          {
-            classCode: "B68B",
-            classDescription:
-              "HARNESS; DEVICES USED IN CONNECTION THEREWITH; WHIPS OR THE LIKE",
-          },
-          {
-            classCode: "B68C",
-            classDescription: "SADDLES; STIRRUPS",
-          },
-          {
-            classCode: "B68F",
-            classDescription:
-              "MAKING ARTICLES FROM LEATHER, CANVAS, OR THE LIKE",
-          },
-          {
-            classCode: "B68G",
-            classDescription:
-              "METHODS, EQUIPMENT, OR MACHINES FOR USE IN UPHOLSTERING; UPHOLSTERY NOT OTHERWISE PROVIDED FOR",
-          },
-        ],
-      },
+
       {
         classContCode: "B81",
         classContDescription: "MICROSTRUCTURAL TECHNOLOGY; NANOTECHNOLOGY",
@@ -1656,17 +1658,17 @@ export const cleanedSections = [
               },
             ],
           },
-        ],
-      },
-      {
-        classContCode: "B99",
-        classContDescription:
-          "SUBJECT MATTER NOT OTHERWISE PROVIDED FOR IN THIS SECTION [2006.01]",
-        classContChildren: [
           {
-            classCode: "B99Z",
+            classCode: "B99",
             classDescription:
               "SUBJECT MATTER NOT OTHERWISE PROVIDED FOR IN THIS SECTION [2006.01]",
+            classChildren: [
+              {
+                subClassCode: "B99Z",
+                subClassDescription:
+                  "SUBJECT MATTER NOT OTHERWISE PROVIDED FOR IN THIS SECTION [2006.01]",
+              },
+            ],
           },
         ],
       },
@@ -2251,17 +2253,17 @@ export const cleanedSections = [
               },
             ],
           },
-        ],
-      },
-      {
-        classContCode: "C99",
-        classContDescription:
-          "SUBJECT MATTER NOT OTHERWISE PROVIDED FOR IN THIS SECTION [2006.01]",
-        classContChildren: [
           {
-            classCode: "C99Z",
+            classCode: "C99",
             classDescription:
               "SUBJECT MATTER NOT OTHERWISE PROVIDED FOR IN THIS SECTION [2006.01]",
+            classChildren: [
+              {
+                subClassCode: "C99Z",
+                subClassDescription:
+                  "SUBJECT MATTER NOT OTHERWISE PROVIDED FOR IN THIS SECTION [2006.01]",
+              },
+            ],
           },
         ],
       },
@@ -2520,17 +2522,17 @@ export const cleanedSections = [
               },
             ],
           },
-        ],
-      },
-      {
-        classContCode: "D99",
-        classContDescription:
-          "SUBJECT MATTER NOT OTHERWISE PROVIDED FOR IN THIS SECTION [2006.01]",
-        classContChildren: [
           {
-            classCode: "D99Z",
+            classCode: "D99",
             classDescription:
               "SUBJECT MATTER NOT OTHERWISE PROVIDED FOR IN THIS SECTION [2006.01]",
+            classChildren: [
+              {
+                subClassCode: "D99Z",
+                subClassDescription:
+                  "SUBJECT MATTER NOT OTHERWISE PROVIDED FOR IN THIS SECTION [2006.01]",
+              },
+            ],
           },
         ],
       },
@@ -2740,17 +2742,17 @@ export const cleanedSections = [
               },
             ],
           },
-        ],
-      },
-      {
-        classContCode: "E99",
-        classContDescription:
-          "SUBJECT MATTER NOT OTHERWISE PROVIDED FOR IN THIS SECTION [2006.01]",
-        classContChildren: [
           {
-            classCode: "E99Z",
+            classCode: "E99",
             classDescription:
               "SUBJECT MATTER NOT OTHERWISE PROVIDED FOR IN THIS SECTION [2006.01]",
+            classChildren: [
+              {
+                subClassCode: "E99Z",
+                classDescription:
+                  "SUBJECT MATTER NOT OTHERWISE PROVIDED FOR IN THIS SECTION [2006.01]",
+              },
+            ],
           },
         ],
       },
@@ -3375,17 +3377,17 @@ export const cleanedSections = [
               },
             ],
           },
-        ],
-      },
-      {
-        classContCode: "F99",
-        classContDescription:
-          "SUBJECT MATTER NOT OTHERWISE PROVIDED FOR IN THIS SECTION [2006.01]",
-        classContChildren: [
           {
-            classCode: "F99Z",
+            classCode: "F99",
             classDescription:
               "SUBJECT MATTER NOT OTHERWISE PROVIDED FOR IN THIS SECTION [2006.01]",
+            classChildren: [
+              {
+                subClassCode: "F99Z",
+                subClassDescription:
+                  "SUBJECT MATTER NOT OTHERWISE PROVIDED FOR IN THIS SECTION [2006.01]",
+              },
+            ],
           },
         ],
       },
