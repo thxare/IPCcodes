@@ -1,0 +1,26 @@
+[
+  {
+    "code": "G04B",
+    "description": "RELOJES DE PARED O DE BOLSILLO ACCIONADOS MECANICAMENTE; PIEZAS MECANICAS DE RELOJES DE PARED O BOLSILLO EN GENERAL; APARATOS PARA EVALUAR EL TIEMPO POR MEDIO DE LA POSICION DEL SOL, DE LA LUNA O DE LAS ESTRELLAS (mecanismos de resorte o accionados por pesas en general F03G; relojes de pared o de bolsillo electromecánicos G04C; relojes de pared electromecánicos con medios anejos o incorporados que permiten hacer funcionar un dispositivo cualquiera en los momentos elegidos de antemano o después de intervalos de tiempo predeterminados G04C 23/00; relojes de pared o de bolsillo con dispositivos de parada G04F 7/08; detalles estructurales o carcasas adaptadas especialmente para relojes electrónicos sin partes móviles G04G 17/00)"
+  },
+  {
+    "code": "G04C",
+    "description": "RELOJES DE PARED O DE BOLSILLO ELECTROMECANICOS (piezas mecánicas de relojes de pared o de relojes de bolsillo en general G04B; relojes electrónicos sin partes móviles, circuitos electrónicos para producir impulsos de cadencia G04G)"
+  },
+  {
+    "code": "G04D",
+    "description": "MAQUINAS O HERRAMIENTAS CONCEBIDAS ESPECIALMENTE PARA LA FABRICACION O EL MANTENIMIENTO DE RELOJES DE PARED O DE BOLSILLO"
+  },
+  {
+    "code": "G04F",
+    "description": "MEDIDA DE INTERVALOS DE TIEMPO (medida de las características de los impulsos G01R, p. ej. G01R 29/02; en los radares o sistemas similares G01S) [2]"
+  },
+  {
+    "code": "G04G",
+    "description": "RELOJES ELECTRONICOS [3]"
+  },
+  {
+    "code": "G04R",
+    "description": "RADIO-CONTROL POR RELOJ [2013.01]"
+  }
+]

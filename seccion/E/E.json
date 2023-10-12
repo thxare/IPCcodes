@@ -1,0 +1,42 @@
+[
+  {
+    "code": "E01",
+    "description": "CONSTRUCCION DE CARRETERAS, VIAS FERREAS O PUENTES",
+    "category": "EDIFICIOS"
+  },
+  {
+    "code": "E02",
+    "description": "HIDRAULICA; CIMENTACIONES; MOVIMIENTO DE TIERRAS",
+    "category": "EDIFICIOS"
+  },
+  {
+    "code": "E03",
+    "description": "SUMINISTROS DE AGUA; EVACUACION DE AGUAS",
+    "category": "EDIFICIOS"
+  },
+  {
+    "code": "E04",
+    "description": "EDIFICIOS",
+    "category": "EDIFICIOS"
+  },
+  {
+    "code": "E05",
+    "description": "CERRADURAS; LLAVES; ACCESORIOS DE PUERTAS O VENTANAS; CAJAS FUERTES",
+    "category": "EDIFICIOS"
+  },
+  {
+    "code": "E06",
+    "description": "PUERTAS, VENTANAS, POSTIGOS O CORTINAS METALICAS ENROLLABLES, EN GENERAL; ESCALERAS",
+    "category": "EDIFICIOS"
+  },
+  {
+    "code": "E21",
+    "description": "PERFORACION DEL SUELO O DE LA ROCA; EXPLOTACION MINERA",
+    "category": "PERFORACION DEL SUELO O DE LA ROCA; EXPLOTACION MINERA"
+  },
+  {
+    "code": "E99",
+    "description": "MATERIA NO PREVISTA EN NINGUN OTRO LUGAR DE ESTA SECCION [2006.01]",
+    "category": "PERFORACION DEL SUELO O DE LA ROCA; EXPLOTACION MINERA"
+  }
+]

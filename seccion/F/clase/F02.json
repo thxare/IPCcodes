@@ -1,0 +1,38 @@
+[
+  {
+    "code": "F02B",
+    "description": "MOTORES DE COMBUSTION INTERNA DE PISTONES; MOTORES DE COMBUSTION EN GENERAL (plantas de turbinas de gas F02C; plantas de motores de desplazamiento positivo de gas caliente o de productos de combustión F02G)"
+  },
+  {
+    "code": "F02C",
+    "description": "PLANTAS MOTRICES DE TURBINAS DE GAS; TOMAS DE AIRE PARA PLANTAS DE PROPULSION A REACCION; CONTROL DE LA ALIMENTACION DE COMBUSTIBLE EN PLANTAS DE PROPULSION A REACCION QUE CONSUMEN AIRE (estructura de turbinas F01D; plantas de propulsión a reacción F02K; estructura de compresores o ventiladores F04; aparatos de combustión en los que la combustión tiene lugar en un lecho fluidizado de combustible u otras partículas F23C 10/00; elaboración de productos de combustión a alta presión o gran velocidad F23R; utilización de turbinas de gas en plantas de refrigeración por compresión F25B 11/00; utilización de turbinas de gas en vehículos, véanse las clases apropiadas relativas a vehículos)"
+  },
+  {
+    "code": "F02D",
+    "description": "CONTROL DE LOS MOTORES DE COMBUSTION (accesorios para el control automático de la velocidad en vehículos, que actúan sobre una sola subunidad del vehículo B60K 31/00; control conjunto de subunidades del vehículo de diferente tipo o diferente función, sistemas de control de la propulsión de vehículos de carretera para propósitos distintos que el control de una sola subunidad B60W) 2006.01 href=# oncontextmenu=return false; onclick=return false;>[2006.01]"
+  },
+  {
+    "code": "F02F",
+    "description": "CILINDROS, PISTONES O CARCASAS PARA MOTORES DE COMBUSTION; DISPOSITIVOS DE ESTANQUEIDAD EN LOS MOTORES DE COMBUSTION [2]"
+  },
+  {
+    "code": "F02G",
+    "description": "PLANTAS MOTRICES DE DESPLAZAMIENTO POSITIVO DE GASES CALIENTES O PRODUCTOS DE COMBUSTION (plantas motrices de vapor, plantas motrices de vapor especial, plantas motrices que funcionan o con gases calientes o con productos de combustión junto con otro fluido F01K; plantas motrices de turbina de gas F02C; plantas motrices de propulsión a reacción F02K); UTILIZACION DEL CALOR PERDIDO EN LOS MOTORES DE COMBUSTION, NO PREVISTA EN OTRO LUGAR"
+  },
+  {
+    "code": "F02K",
+    "description": "PLANTAS MOTRICES DE PROPULSION A REACCION (instalaciones de propulsión a reacción en vehículos terrestres o vehículos en general B60K; instalaciones de propulsión a reacción en embarcaciones acuáticas B63H; control de la actitud, de la dirección de vuelo o de la altitud de las aeronaves por reacción a chorro B64C 15/00, B64U 50/10; instalaciones de propulsión a reacción en las aeronaves B64D 27/00, B64U 50/10; instalaciones caracterizadas por el reparto de la potencia del fluido de trabajo entre la propulsión a chorro y otra forma de propulsión, p. ej. hélices, F02B, F02C; características de las instalaciones de propulsión a reacción comunes a las plantas de turbinas de gas o control de la alimentación de combustible en las instalaciones de propulsión a reacción que consumen aire F02C)"
+  },
+  {
+    "code": "F02M",
+    "description": "ALIMENTACION EN GENERAL DE LOS MOTORES DE COMBUSTION CON MEZCLAS COMBUSTIBLES O CONSTITUYENTES DE LAS MISMAS"
+  },
+  {
+    "code": "F02N",
+    "description": "ARRANQUE DE LOS MOTORES DE COMBUSTION; MEDIOS O ACCESORIOS PARA EL ARRANQUE DE ESTOS MOTORES, NO PREVISTOS EN OTRO LUGAR"
+  },
+  {
+    "code": "F02P",
+    "description": "ENCENDIDO DE MOTORES DE COMBUSTION INTERNA DIFERENTE AL ENCENDIDO POR COMPRESION; ENSAYO DE LA REGULACION DEL ENCENDIDO EN MOTORES DE ENCENDIDO POR COMPRESION (especialmente adaptados a motores de pistón rotativo u oscilante F02B 53/12; encendido de aparatos de combustión en general, bujías incandescentes F23Q; medida de variables físicas en general G01; control en general G05; tratamiento de datos en general G06; componentes eléctricos en general, ver la sección H; bujías de chispa H01T)"
+  }
+]

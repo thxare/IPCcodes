@@ -1,0 +1,38 @@
+[
+  {
+    "code": "B23B",
+    "description": "TORNEADO; TALADRADO (usando un electrodo en lugar de una herramienta B23H, p.ej. haciendo agujeros B23H 9/14; trabajando con un haz de laser B23K 26/00; dispositivos para copiar o controlar B23Q)"
+  },
+  {
+    "code": "B23C",
+    "description": "FRESADO (brochado B23D; para la fabricación de engranajes B23F; dispositivos para copiar o controlar B23Q)"
+  },
+  {
+    "code": "B23D",
+    "description": "CEPILLADO; MORTAJADO; CIZALLADO; BROCHADO; ASERRADO; LIMADO; RASPADO; OPERACIONES ANALOGAS NO PREVISTAS EN OTRO LUGAR, PARA EL TRABAJO DE METALES CON ARRANQUE DE MATERIAL (fabricación de ruedas dentadas o de órganos similares B23F; corte del metal por calentamiento localizado B23K; dispositivos para copiar o controlar B23Q)"
+  },
+  {
+    "code": "B23F",
+    "description": "FABRICACION DE ENGRANAJES O DE CREMALLERAS (por estampado B21D; por laminado B21H; por forja o prensado B21K; por moldeo B22; dispositivos para copiar o controlar B23Q; máquinas o dispositivos para trabajar con muela o pulir en general B24B)"
+  },
+  {
+    "code": "B23G",
+    "description": "FILETEADO; TRABAJO MECANICO DE TORNILLOS, CABEZAS DE TORNILLOS O TUERCAS, EN COMBINACION CON EL FILETEADO (formación de roscas por ondulación de tubos B21D 15/04; por laminado B21H 3/02; por forjado, prensado o martillado B21K 1/56; fabricación de ranuras helicoidales por torneado B23B 5/48; por fresado B23C 3/32; por trabajo con muela B24B 19/02; dispositivos para copiar o controlar  B23Q)"
+  },
+  {
+    "code": "B23H",
+    "description": "TRABAJO DEL METAL POR ACCION DE UNA ALTA CONCENTRACION DE CORRIENTE ELECTRICA, SOBRE LA PIEZA DE TRABAJO UTILIZANDO UN ELECTRODO EN LUGAR DE UNA HERRAMIENTA; UTILIZACION COMBINADA DE ESTA FORMA DE TRABAJO CON OTRAS FORMAS DE TRABAJO DEL METAL (procesos para producción electrolítica o electroforética de revestimientos, galvanoplastia, aparatos a este efecto C25D; procedimientos para retirar electrolíticamente material de los objetos C25F; fabricación de circuitos impresos utilizando técnicas de precipitación para aplicar el material conductor de manera que forme el diseño del conductor deseado H05K 3/18) [4]"
+  },
+  {
+    "code": "B23K",
+    "description": "SOLDADURA SIN FUSION O DESOLDEO; SOLDADURA; REVESTIMIENTO O CHAPADO POR SOLDADURA O SOLDADURA SIN FUSION; CORTE POR CALENTAMIENTO LOCALIZADO, p. ej. CORTE CON SOPLETE; TRABAJO POR RAYOS LASER (fabricación de productos revestidos de metal por extrusión de metales B21C 23/22; realización de guarniciones o recubrimientos por moldeo B22D 19/08; moldeo por inmersión B22D 23/04; fabricación de capas compuestas por sinterización de polvos metálicos B22F 7/00; disposiciones sobre las máquinas para copiar o controlar B23Q; recubrimiento de metales o recubrimiento de materiales con metales, no previsto en otro lugar C23C; quemadores F23D)"
+  },
+  {
+    "code": "B23P",
+    "description": "OTROS PROCEDIMIENTOS PARA EL TRABAJO DEL METAL NO PREVISTOS EN OTRO LUGAR; OPERACIONES MIXTAS; MAQUINAS HERRAMIENTAS UNIVERSALES (dispositivos para el copiado o el control B23Q)"
+  },
+  {
+    "code": "B23Q",
+    "description": "PARTES CONSTITUTIVAS, DISPOSITIVOS O ACCESORIOS DE MAQUINAS HERRAMIENTAS, p. ej. DISPOSITIVOS PARA COPIAR O CONTROLAR (herramientas del tipo utilizado en tornos o máquinas de agujerear B23B 27/00); MAQUINAS HERRAMIENTAS DE UTILIZACION GENERAL, CARACTERIZADAS POR LA ESTRUCTURA DE CIERTAS PARTES CONSTITUTIVAS O DISPOSITIVOS; COMBINACIONES O ASOCIACIONES DE MAQUINAS PARA TRABAJAR EL METAL NO DESTINADAS A UN TRABAJO EN PARTICULAR"
+  }
+]

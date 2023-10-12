@@ -1,0 +1,18 @@
+[
+  {
+    "code": "G05B",
+    "description": "SISTEMAS DE CONTROL O DE REGULACION EN GENERAL; ELEMENTOS FUNCIONALES DE TALES SISTEMAS; DISPOSITIVOS DE MONITORIZACION O ENSAYOS DE TALES SISTEMAS O ELEMENTOS (dispositivos de maniobra por presión de fluido o sistemas que funcionan por medio de fluidos en general F15B; dispositivos obturadores en sí\n\t\t\t\t\t\t\t\tF16K; caracterizados por particularidades mecánicas solamente G05G; elementos sensibles, ver las subclases apropiadas, p. ej. G12B, las subclases de G01, H01; elementos de corrección, ver las subclases apropiadas, p. ej. H02K)"
+  },
+  {
+    "code": "G05D",
+    "description": "SISTEMAS DE CONTROL O DE REGULACION DE VARIABLES NO ELECTRICAS"
+  },
+  {
+    "code": "G05F",
+    "description": "SISTEMAS DE REGULACION DE VARIABLES ELECTRICAS O MAGNETICAS (regulación de la distribución en el tiempo o de la periodicidad de impulsos en los sistemas de radar o de radionavegación G01S; regulación de la corriente o de la tensión, especialmente adaptada para su uso en relojes electrónicos G04G 19/02; sistemas que funcionan en bucle cerrado para regular variables no eléctricas por medios eléctricos G05D; control de la alimentación de energía eléctrica a los computadores digitales G06F 1/26; para obtener las características de funcionamiento deseadas de electroimanes con armadura H01F 7/18; regulación de redes de distribución de energía eléctrica H02J; regulación de la carga de baterías H02J 7/00; regulación del valor de salida de convertidores estáticos, p. ej. reguladores de conmutación, H02M; regulación del valor de salida de generadores eléctricos H02N, H02P 9/00; control de transformadores, reactancias o bobinas de choque H02P 13/00; regulación de la respuesta de frecuencia, ganancia, potencia de salida máxima, amplitud o ancho de banda de amplificadores H03G; regulación de la sintonización de circuitos resonantes H03J; control de generadores de oscilaciones o de impulsos electrónicos H03L; regulación de las características de líneas de transmisión H04B; control de fuentes eléctricas de luz H05B 39/04, H05B 41/36, H05B 45/10, H05B 45/20, H05B 47/10; control eléctrico de aparatos de rayos X H05G 1/30) 5 href=# oncontextmenu=return false; onclick=return false;>[5]"
+  },
+  {
+    "code": "G05G",
+    "description": "DISPOSITIVOS O SISTEMAS DE CONTROL EN LA MEDIDA EN QUE SUS CARACTERISTICAS SON UNICAMENTE MECANICAS (mecanismos Bowden o similares F16C 1/10; engranajes o mecanismos no especializados con este fin F16H; mecanismos de cambio de velocidad o de inversión para transmisiones que transmiten movimientos rotativos F16H 59/00-F16H 63/00)"
+  }
+]

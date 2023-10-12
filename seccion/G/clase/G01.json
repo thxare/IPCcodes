@@ -1,0 +1,74 @@
+[
+  {
+    "code": "G01B",
+    "description": "MEDIDA DE LA LONGITUD, ESPESOR O DIMENSIONES LINEALES ANALOGAS; MEDIDA DE ANGULOS; MEDIDA DE AREAS; MEDIDA DE IRREGULARIDADES DE SUPERFICIES O CONTORNOS"
+  },
+  {
+    "code": "G01C",
+    "description": "MEDIDA DE DISTANCIAS, NIVELES O RUMBOS; TOPOGRAFIA; NAVEGACION; INSTRUMENTOS GIROSCOPICOS; FOTOGRAMETRIA O VIDEOGRAMETRIA (medida del nivel de líquidos G01F; radio navegación, determinación de la distancia o velocidad mediante la utilización de efectos de propagación, p. ej. efecto Doppler, tiempo de propagación, de ondas de radio, disposiciones análogas que utilicen otras ondas G01S)"
+  },
+  {
+    "code": "G01D",
+    "description": "MEDIDAS NO ESPECIALMENTE ADAPTADAS A UNA VARIABLE PARTICULAR; DISPOSICIONES PARA LA MEDIDA DE DOS O MAS VARIABLES NO CUBIERTAS POR OTRA UNICA SUBCLASE; APARATOS CONTADORES DE TARIFA; DISPOSICIONES PARA TRANSFERENCIA O TRANSDUCTORES NO ESPECIALMENTE ADAPTADAS A UNA VARIABLE PARTICULAR; MEDIDAS O ENSAYOS NO PREVISTOS EN OTRO LUGAR"
+  },
+  {
+    "code": "G01F",
+    "description": "MEDIDA DEL VOLUMEN, FLUJO VOLUMETRICO, FLUJO MASICO O NIVEL DE LIQUIDOS; DOSIFICACION VOLUMETRICA 5 href=# oncontextmenu=return false; onclick=return false;>[5]"
+  },
+  {
+    "code": "G01G",
+    "description": "DETERMINACION DEL PESO"
+  },
+  {
+    "code": "G01H",
+    "description": "MEDIDA DE VIBRACIONES MECANICAS O DE ONDAS ULTRASONORAS, SONORAS O INFRASONORAS [4]"
+  },
+  {
+    "code": "G01J",
+    "description": "MEDIDA DE LA INTENSIDAD, DE LA VELOCIDAD, DEL ESPECTRO, DE LA POLARIZACION, DE LA FASE O DE CARACTERISTICAS DE IMPULSOS DE LA LUZ INFRARROJA, VISIBLE O ULTRAVIOLETA; COLORIMETRIA; PIROMETRIA DE RADIACIONES [2]"
+  },
+  {
+    "code": "G01K",
+    "description": "MEDIDA DE TEMPERATURAS; MEDIDA DE CANTIDADES DE CALOR; ELEMENTOS TERMOSENSIBLES NO PREVISTOS EN OTRO LUGAR (pirometría de las radiaciones G01J 5/00)"
+  },
+  {
+    "code": "G01L",
+    "description": "MEDIDA DE FUERZAS, TENSIONES, PARES, TRABAJO, POTENCIA MECANICA, RENDIMIENTO MECANICO O DE LA PRESION DE LOS FLUIDOS (pesado G01G) [4]"
+  },
+  {
+    "code": "G01M",
+    "description": "ENSAYO DEL EQUILIBRADO ESTATICO O DINAMICO DE MAQUINAS O ESTRUCTURAS; ENSAYO DE ESTRUCTURAS O APARATOS, NO PREVISTOS EN OTRO LUGAR"
+  },
+  {
+    "code": "G01N",
+    "description": "INVESTIGACION O ANALISIS DE MATERIALES POR DETERMINACION DE SUS PROPIEDADES QUIMICAS O FISICAS (procedimientos de medida, de investigación o de análisis diferentes de los ensayos inmunológicos, en los que intervienen enzimas o microorganismos C12M, C12Q)"
+  },
+  {
+    "code": "G01P",
+    "description": "MEDIDA DE VELOCIDADES LINEALES O ANGULARES, DE LA ACELERACION, DECELERACION O DE CHOQUES; INDICACION DE LA PRESENCIA, AUSENCIA DE MOVIMIENTO; INDICACION DE DIRECCIÓN DE MOVIMIENTO (midiendo la velocidad angular utilizando efectos giroscópicos G01C 19/00; dispositivos de medida combinados para medir dos o más variables de un movimiento G01C 23/00; medida de la velocidad del sonido G01H 5/00; medida de la velocidad de la luz G01J 7/00; medida de la dirección o de la velocidad de objetos sólidos por reflexión o reradiación de ondas radio u otras ondas basada en los efectos de propagación, p. ej. el efecto Doppler, el tiempo de propagación, la dirección de propagación, G01S; medida de la velocidad de radiaciones nucleares G01T)"
+  },
+  {
+    "code": "G01Q",
+    "description": "TECNICAS O APARATOS DE SONDA DE BARRIDO; APLICACIONES DE TECNICAS DE SONDA DE BARRIDO, p. ej. MICROSCOPIA POR SONDA DE BARRIDO [SMP] [2010.01]"
+  },
+  {
+    "code": "G01R",
+    "description": "MEDIDA DE VARIABLES ELECTRICAS; MEDIDA DE VARIABLES MAGNETICAS (indicación de la sintonización de circuitos resonantes H03J 3/12)"
+  },
+  {
+    "code": "G01S",
+    "description": "LOCALIZACION DE LA DIRECCION POR RADIO; RADIONAVEGACION; DETERMINACION DE LA DISTANCIA O DE LA VELOCIDAD MEDIANTE EL USO DE ONDAS DE RADIO; LOCALIZACION O DETECCION DE PRESENCIA MEDIANTE EL USO DE LA REFLEXION O RERRADIACION DE ONDAS DE RADIO; DISPOSICIONES ANALOGAS QUE UTILIZAN OTRAS ONDAS"
+  },
+  {
+    "code": "G01T",
+    "description": "MEDIDA DE RADIACIONES NUCLEARES O DE RAYOS X (análisis de materiales por radiaciones, espectrometría de masas G01N 23/00; tubos para determinar la presencia, intensidad, densidad o energía de una radiación o de partículas H01J 47/00)"
+  },
+  {
+    "code": "G01V",
+    "description": "GEOFISICA; MEDIDA DE LA GRAVITACION; DETECCION DE MASAS U OBJETOS; MARCAS O ETIQUETAS DE IDENTIFICACION (medios para indicar dónde se encuentran personas sepultadas accidentalmente, p. ej. por la nieve A63B 29/02) 6 href=# oncontextmenu=return false; onclick=return false;>[6]"
+  },
+  {
+    "code": "G01W",
+    "description": "METEOROLOGIA (radar, sonar, lidar o sistemas análogos, previstos para uso meteorológico G01S 13/95, G01S 15/88, G01S 17/95)"
+  }
+]

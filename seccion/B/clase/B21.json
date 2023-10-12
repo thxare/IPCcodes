@@ -1,0 +1,38 @@
+[
+  {
+    "code": "B21B",
+    "description": "LAMINADO DE METALES (operaciones auxiliares en relación con el trabajo de los metales previstos en la clase B21, ver\n\t\t\t\t\t\t\t\tB21C; curvado por pasado entre rodillos B21D; fabricación de objetos particulares, p. ej. tornillos, ruedas, anillos, cilindros o bolas, por laminado B21H; soldadura por presión por medio de un laminado B23K 20/04)"
+  },
+  {
+    "code": "B21C",
+    "description": "FABRICACION DE CHAPAS, ALAMBRES, BARRAS, TUBOS, PERFILES METALICO O PRODUCTOS ANALOGOS SEMIACABADOS POR PROCEDIMIENTOS DISTINTOS AL LAMINADO; OPERACIONES AUXILIARES RELACIONADAS CON EL TRABAJO DE METALES SIN ARRANQUE SUSTANCIAL DE MATERIA"
+  },
+  {
+    "code": "B21D",
+    "description": "TRABAJO MECANICO O TRATAMIENTO DE CHAPAS, TUBOS, BARRAS O PERFILES METALICOS SIN ARRANQUE SUSTANCIAL DE MATERIAL; CORTE DE METALES POR PUNZONADO (trabajo mecánico o tratamiento de alambre B21F)"
+  },
+  {
+    "code": "B21F",
+    "description": "TRABAJO MECANICO O TRATAMIENTO DE ALAMBRE METÁLICO (laminado de metales B21B; por estirado, operaciones auxiliares en relación con el trabajo del metal sin desprendimiento sustancial de materia B21C; atado de objetos en paquetes B65B 13/00)"
+  },
+  {
+    "code": "B21G",
+    "description": "FABRICACION DE AGUJAS, ALFILERES O CLAVOS METÁLICOS"
+  },
+  {
+    "code": "B21H",
+    "description": "FABRICACION DE ARTICULOS METALICOS ESPECIALES POR LAMINADO, p. ej. TORNILLOS, RUEDAS, ANILLOS, CILINDROS, BOLAS (principalmente a partir de chapas B21D)"
+  },
+  {
+    "code": "B21J",
+    "description": "FORJADO; MARTILLADO; PRENSADO DE METALES; REMACHADO; HORNOS DE FORJA (laminado de metales B21B; fabricación de productos particulares por forjado o prensado B21K; chapeado B23K; tratamiento o acabado de superficies por martillado B23P 9/04; aumento de la compacidad de superficies por chorro de materiales en partículas B24C 1/10; características generales de las prensas, prensas para compactar los residuos B30B; hornos en general F27)"
+  },
+  {
+    "code": "B21K",
+    "description": "FABRICACION DE ARTICULOS METÁLICOS FORJADOS O PRENSADOS, p. ej. HERRADURAS, REMACHES, BULONES O RUEDAS (fabricación de artículos especiales por trabajo de las hojas metálicas sin arranque sustancial de material B21D; Trabajo de alambre B21F; fabricación de alfileres, agujas o clavos B21G; fabricación de artículos especiales por laminado B21H; máquinas de forjar, prensar, martillar en general B21J; fabricación de cadenas B21L; chapado B23K)"
+  },
+  {
+    "code": "B21L",
+    "description": "FABRICACION DE CADENAS METÁLICAS (fabricación de cadenas o eslabones de cadenas por colada B22D 25/02; cadenas en sí F16G)"
+  }
+]

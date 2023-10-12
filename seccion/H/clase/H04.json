@@ -1,0 +1,46 @@
+[
+  {
+    "code": "H04B",
+    "description": "TRANSMISION [4]"
+  },
+  {
+    "code": "H04H",
+    "description": "DIFUSION (BROADCAST) (comunicación multiplex H04J; aspectos de transmisión de imágenesde sistemas de difusión H04N)"
+  },
+  {
+    "code": "H04J",
+    "description": "COMUNICACIONES MULTIPLEX (peculiar de la transmisión de información digital H04L 5/00; sistemas para transmitir las señales de televisión simultánea o secuencialmente H04N 7/08; en las centrales H04Q 11/00)"
+  },
+  {
+    "code": "H04K",
+    "description": "COMUNICACIONES SECRETAS; PERTURBACION DE LAS COMUNICACIONES"
+  },
+  {
+    "code": "H04L",
+    "description": "TRANSMISION DE INFORMACION DIGITAL, p. ej. COMUNICACION TELEGRAFICA (disposiciones comunes a las comunicaciones telegráficas y telefónicas H04M) [4]"
+  },
+  {
+    "code": "H04M",
+    "description": "COMUNICACIONES TELEFONICAS (circuitos para el control de otros aparatos vía cable telefónico y que no implican aparatos de conmutación telefónica G08)"
+  },
+  {
+    "code": "H04N",
+    "description": "TRANSMISION DE IMAGENES, p. ej. TELEVISION [4]"
+  },
+  {
+    "code": "H04Q",
+    "description": "SELECCION (conmutadores, relés, selectores H01H; redes de comunicación inalámbricas H04W) 2009.01 href=# oncontextmenu=return false; onclick=return false;>[2009.01]"
+  },
+  {
+    "code": "H04R",
+    "description": "ALTAVOCES, MICROFONOS, CABEZAS DE LECTURA PARA GRAMOFONOS O TRANSDUCTORES ACUSTICOS ELECTROMECANICOS ANALOGOS; APARATOS PARA SORDOS; SISTEMAS PARA ANUNCIOS EN PUBLICO (producción de sonidos cuya frecuencia no está determinada por la frecuencia de alimentación G10K) [6]"
+  },
+  {
+    "code": "H04S",
+    "description": "SISTEMAS ESTEREOFONICOS [3]"
+  },
+  {
+    "code": "H04W",
+    "description": "REDES DE COMUNICACION INALAMBRICAS (difusión H04H; sistemas de comunicación que utilizan enlaces inalámbricos para comunicación no selectiva, p. ej. extensiones inalámbricas H04M 1/72) [2009.01]"
+  }
+]

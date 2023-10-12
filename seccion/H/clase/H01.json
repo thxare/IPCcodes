@@ -1,0 +1,58 @@
+[
+  {
+    "code": "H01B",
+    "description": "CABLES; CONDUCTORES; AISLADORES; ,o EMPLEO DE MATERIALES ESPECIFICOS POR SUS PROPIEDADES CONDUCTORAS, AISLANTES O DIELECTRICAS (empleo por las propiedades magnéticas H01F 1/00; guías de ondas H01P)"
+  },
+  {
+    "code": "H01C",
+    "description": "RESISTENCIAS"
+  },
+  {
+    "code": "H01F",
+    "description": "IMANES; INDUCTANCIAS; TRANSFORMADORES; EMPLEO DE MATERIALES ESPECIFICOS POR SUS PROPIEDADES MAGNETICAS [2]"
+  },
+  {
+    "code": "H01G",
+    "description": "CONDENSADORES; CONDENSADORES, RECTIFICADORES, DETECTORES, CONMUTADORES O DISPOSITIVOS FOTOSENSIBLES O SENSIBLES A LA TEMPERATURA, DEL TIPO ELECTROLITICO (empleo de materiales especificados por sus propiedades dieléctricas H01B 3/00; condensadores con una barrera de potencial o una barrera de superficie H01L 29/00)"
+  },
+  {
+    "code": "H01H",
+    "description": "INTERRUPTORES ELECTRICOS; RELES; SELECTORES; DISPOSITIVOS DE PROTECCION DE EMERGENCIA (cables de contacto H01B 7/10; interruptores automáticos de tipo electrolítico H01G 9/18; circuitos de protección, de seguridad H02H; conmutación por medios electrónicos sin cierre de contactos H03K 17/00)"
+  },
+  {
+    "code": "H01J",
+    "description": "TUBOS DE DESCARGA ELECTRICA O LAMPARAS DE DESCARGA ELECTRICA (espinterómetros H01T; lámparas de arco, con electrodos consumibles H05B; aceleradores de partículas H05H)"
+  },
+  {
+    "code": "H01K",
+    "description": "LAMPARAS ELECTRICAS DE INCANDESCENCIA (detalles, aparatos o procedimientos para la fabricación, aplicables a la vez a los dispositivos de descarga y a las lámparas de incandescencia H01J; fuentes de luz que utilizan una combinación del tipo de incandescencia y de otros tipos de producción de luz H01J 61/96, H05B 35/00)"
+  },
+  {
+    "code": "H01L",
+    "description": "DISPOSITIVOS SEMICONDUCTORES NO CUBIERTOS POR LA CLASE H10 (empleo de dispositivos semiconductores para medición G01; resistencias en general H01C; imanes, inductancias o transformadores H01F; condensadores en general H01G; dispositivos electrolíticos H01G 9/00; pilas o acumuladores H01M; guías de ondas, resonadores o líneas del tipo guía de ondas H01P; conectadores de líneas o colectores de corriente H01R; dispositivos de emisión estimulada H01S; resonadores electromecánicos H03H; altavoces, micrófonos, cabezas de lectura para gramófonos o transductores acústicos electromecánicos análogos H04R; fuentes de luz eléctricas en general H05B; circuitos impresos, circuitos híbridos, envolturas o detalles de construcción de aparatos eléctricos, fabricación de conjuntos de componentes eléctricos H05K; empleo de dispositivos semiconductores en circuitos que tienen una aplicación particular, ver la subclase relativa a la aplicación) [2]"
+  },
+  {
+    "code": "H01M",
+    "description": "PROCEDIMIENTOS O MEDIOS, p. ej. BATERÍAS, PARA LA CONVERSION DIRECTA DE LA ENERGIA QUIMICA EN ENERGIA ELECTRICA [2]"
+  },
+  {
+    "code": "H01P",
+    "description": "GUIAS DE ONDAS; RESONADORES, LINEAS, U OTROS DISPOSITIVOS DEL TIPO DE GUIA DE ONDAS (que funcionan con frecuencias ópticas G02B)"
+  },
+  {
+    "code": "H01Q",
+    "description": "ANTENAS, es decir, ANTENAS DE RADIO (elementos radiantes o antenas para el calentamiento por microondas H05B 6/72)"
+  },
+  {
+    "code": "H01R",
+    "description": "CONEXIONES CONDUCTORAS DE ELECTRICIDAD; ASOCIACION ESTRUCTURAL DE UNA PLURALIDAD DE ELEMENTOS DE CONEXION ELECTRICA AISLADOS UNOS DE OTROS; DISPOSITIVOS DE ACOPLAMIENTO; COLECTORES DE CORRIENTE"
+  },
+  {
+    "code": "H01S",
+    "description": "DISPOSITIVOS QUE UTILIZAN EL PROCESO DE AMPLIFICACION DE LUZ MEDIANTE EMISION ESTIMULADA DE RADIACIÓN [LASER] PARA AMPLIFICAR O GENERAR LUZ; DISPOSITIVOS QUE UTILIZAN EMISION ESTIMULADA DE RADIACION ELECTROMAGNETICA EN RANGOS DE ONDA DISTINTOS DEL ÓPTICO"
+  },
+  {
+    "code": "H01T",
+    "description": "ESPINTEROMETROS; LIMITADORES DE SOBRETENSION QUE UTILIZAN ESPINTEROMETROS; BUJIAS DE ENCENDIDO; DISPOSITIVOS DE EFECTO CORONA; PRODUCCION DE IONES PARA SER INTRODUCIDOS EN GASES EN ESTADO LIBRE (circuitos contra la sobretensión H02H)"
+  }
+]

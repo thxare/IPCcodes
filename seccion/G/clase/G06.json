@@ -1,0 +1,50 @@
+[
+  {
+    "code": "G06C",
+    "description": "COMPUTADORES DIGITALES EN LOS QUE TODO EL CALCULO SE EFECTUA MECANICAMENTE (marcadores totalizadores computerizados para juegos de cartas A63F 1/18) [4]"
+  },
+  {
+    "code": "G06D",
+    "description": "DISPOSITIVOS DE CALCULO DIGITAL POR PRESION DE FLUIDOS"
+  },
+  {
+    "code": "G06E",
+    "description": "DISPOSITIVOS DE CALCULO OPTICO (almacenamiento digital que utilizan elementos ópticos G11C 13/04) [5]"
+  },
+  {
+    "code": "G06F",
+    "description": "PROCESAMIENTO ELECTRICO DE DATOS DIGITALES (sistemas de computadores basados en modelos de cálculo específicos G06N)"
+  },
+  {
+    "code": "G06G",
+    "description": "COMPUTADORES ANALOGICOS (dispositivos de cálculo óptico analógico G06E 3/00; sistemas de computadores basados en modelos de cálculo específicos G06N)"
+  },
+  {
+    "code": "G06J",
+    "description": "DISPOSICIONES DE CALCULO HIBRIDO (dispositivos de cálculo óptico híbrido G06E 3/00; sistemas de computadores basados en modelos de cálculo específicos G06N; redes neuronales para el tratamiento de datos de imagen G06T; conversión analógico/digital en general H03M 1/00)"
+  },
+  {
+    "code": "G06K",
+    "description": "LECTURA DE DATOS GRÁFICOS (reconocimiento o comprensión de imágenes o vídeos G06V); PRESENTACIÓN DE DATOS; PORTADORES DE GRABACIÓN; MANIPULACIÓN DE PORTADORES DE GRABACIÓN"
+  },
+  {
+    "code": "G06M",
+    "description": "MECANISMOS CONTADORES; COMPUTO DE OBJETOS NO PREVISTOS EN OTRO LUGAR (cómputo por medida del volumen o del peso de artículos a contar G01F, G01G; adaptación de contadores a contadores de electricidad en el sentido de disposiciones electromecánicas para la medida de la integral en el tiempo de una potencia o de una corriente eléctricas G01R 11/16; computadores G06C-G06J; cómputo de impulsiones eléctricas H03K; cómputo de caracteres, palabras o mensajes durante la conmutación de redes para la transmisión de información digital H04L 12/08; disposiciones de cómputo en los sistemas telefónicos H04M 15/00)"
+  },
+  {
+    "code": "G06N",
+    "description": "COMPUTADORES BASADOS EN MODELOS DE CALCULO ESPECIFICOS [7]"
+  },
+  {
+    "code": "G06Q",
+    "description": "TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIÓN [TIC] ESPECIALMENTE ADAPTADOS PARA FINES ADMINISTRATIVOS, COMERCIALES, FINANCIEROS, DE GESTION O DE SUPERVISION; MÉTODOS O SISTEMAS ESPECIALMENTE ADAPTADOS PARA FINES ADMINISTRATIVOS, COMERCIALES, FINANCIEROS, DE GESTION O DE SUPERVISION, NO PREVISTOS EN OTRO LUGAR [2006.01]"
+  },
+  {
+    "code": "G06T",
+    "description": "TRATAMIENTO O GENERACIÓN DE DATOS DE IMAGEN, EN GENERAL 2006.01 href=# oncontextmenu=return false; onclick=return false;>[2006.01]"
+  },
+  {
+    "code": "G06V",
+    "description": "RECONOCIMIENTO O COMPRENSIÓN DE IMÁGENES O VÍDEOS [2022.01]"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "code": "B61B",
+    "description": "SISTEMAS FERROVIARIOS; EQUIPAMIENTOS A ESTE EFECTO NO PREVISTOS EN OTRO LUGAR (ascensores o montacargas, elevadores, escaleras o aceras mecánicas B66B) [4]"
+  },
+  {
+    "code": "B61C",
+    "description": "LOCOMOTORAS; AUTOMOTORES (vehículos en general B60; chasis o bogies B61F; equipo especial de la vía férrea para las locomotoras B61J, B61K)"
+  },
+  {
+    "code": "B61D",
+    "description": "PARTES CONSTITUTIVAS  O TIPOS DE VEHICULOS FERROVIARIOS (vehículos en general B60; adaptación de vehículos a sistemas ferroviarios especiales B61B; chasis B61F)"
+  },
+  {
+    "code": "B61F",
+    "description": "SUSPENSIONES DE VEHICULOS FERROVIARIOS, p. ej. CHASIS, BOGIES O DISPOSICIONES DE EJES DE RUEDAS; VEHICULOS FERROVIARIOS UTILIZABLES SOBRE VIAS DE DISTINTA ANCHURA; PREVENCION DE DESCARRILAMIENTOS DE VEHÍCULOS FERROVIARIOS; GUARDARRUEDAS, ELIMINADORES DE OBSTACULOS O DISPOSITIVOS SIMILARES PARA VEHÍCULOS FERROVIARIOS (para vehículos en general B60; ejes o ruedas B60B; neumáticos para vehículos B60C)"
+  },
+  {
+    "code": "B61G",
+    "description": "ACOPLAMIENTOS ESPECIALMENTE ADAPTADOS PARA VEHICULOS FERROVIARIOS; ORGANOS DE TRACCION O DE ABSORCION DE CHOQUES ESPECIALMENTE ADAPTADOS PARA VEHICULOS FERROVIARIOS"
+  },
+  {
+    "code": "B61H",
+    "description": "FRENOS U OTROS DISPOSITIVOS DE DISMINUCION DE LA MARCHA ESPECIALMENTE ADAPTADOS A LOS VEHICULOS FERROVIARIOS; INSTALACION O DISPOSICION DE LOS MISMOS SOBRE LOS VEHICULOS FERROVIARIOS (frenado electrodinámico de vehículos B60L, en general H02K; disposiciones sobre los vehículos ferroviarios para adaptar la fuerza de frenado a las condiciones variables del vehículo o de la vía B60T 8/00; transmisión de la acción de frenado entre el órgano de ataque y los órganos terminales de acción con potencia de frenado asistida o de relé de potencia, o sistemas de frenado que tienen esos medios de transmisión, p. ej. sistemas de frenado de presión de aire B60T 13/00; estructura, disposición o funcionamiento de válvulas incorporadas en los sistemas de control de frenos asistidos o de relé de potencia B60T 15/00; elementos, partes constitutivas o accesorios de sistemas de frenos B60T 17/00; frenos en sí F16D)"
+  },
+  {
+    "code": "B61J",
+    "description": "TRANSBORDO O CLASIFICACION DE VEHICULOS FERROVIARIOS (transferencia de vehículos en general B60S; sistemas de clasificación B61B)"
+  },
+  {
+    "code": "B61K",
+    "description": "EQUIPOS AUXILIARES ESPECIALMENTE ADAPTADOS PARA FERROCARRILES, NO PREVISTOS EN OTRO LUGAR (frenos acumuladores de la energía B61H; protección de la vía contra los agentes atmosféricos E01B; limpieza de raíles, quitanieves E01H)"
+  },
+  {
+    "code": "B61L",
+    "description": "CONTROL DE TRAFICO FERROVIARIO; SEGURIDAD DEL TRAFICO FERROVIARIO (frenos o equipos auxiliares B61H, B61K; estructura de sistemas de agujas E01B)"
+  }
+]

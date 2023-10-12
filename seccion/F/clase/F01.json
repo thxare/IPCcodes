@@ -1,0 +1,34 @@
+[
+  {
+    "code": "F01B",
+    "description": "MAQUINAS O MOTORES, EN GENERAL O DEL TIPO DE DESPLAZAMIENTO POSITIVO, p. ej. MAQUINAS DE VAPOR (del tipo con pistón rotativo u oscilante F01C; de desplazamiento no positivo F01D; motores de combustión F02; aspectos de la combustión interna de los motores con pistones alternativos F02B 57/00, F02B 59/00; máquinas de líquidos F03, F04; cigüeñales, cabezas de biela, bielas F16C; volantes F16F; órganos de transmisión para convertir un movimiento de rotación en movimiento alternativo, en general F16H; pistones, bulones de pistón, cilindros, para motores en general F16J)"
+  },
+  {
+    "code": "F01C",
+    "description": "MAQUINAS O MOTORES DE PISTON ROTATIVO U OSCILANTE (motores de combustíon F02; aspectos de la combustión interna F02B 53/00, F02B 55/00; máquinas de líquidos F03, F04)"
+  },
+  {
+    "code": "F01D",
+    "description": "MAQUINAS O MOTORES DE DESPLAZAMIENTO NO POSITIVO, p. ej., TURBINAS DE VAPOR (motores de combustión F02; máquinas o motores de líquidos F03, F04; bombas de desplazamiento no positivo F04D)"
+  },
+  {
+    "code": "F01K",
+    "description": "PLANTAS MOTRICES A VAPOR; ACUMULADORES DE VAPOR; PLANTAS MOTRICES NO PREVISTAS EN OTRO LUGAR; MOTORES QUE UTILIZAN CICLOS O FLUIDOS DE TRABAJO ESPECIALES (plantas de turbinas de gas o de propulsión a reacción F02; producción de vapor F22; plantas de energía nuclear, disposición de motores en ellas G21D)"
+  },
+  {
+    "code": "F01L",
+    "description": "VÁLVULAS DE FUNCIONAMIENTO CÍCLICO PARA MÁQUINAS O MOTORES"
+  },
+  {
+    "code": "F01M",
+    "description": "LUBRIFICACION DE MAQUINAS O MOTORES EN GENERAL; LUBRIFICACION DE LOS MOTORES DE COMBUSTION INTERNA; VENTILACION DEL CARTER [2]"
+  },
+  {
+    "code": "F01N",
+    "description": "SILENCIADORES O DISPOSITIVOS DE ESCAPE PARA MAQUINAS O MOTORES EN GENERAL; SILENCIADORES O DISPOSITIVOS DE ESCAPE PARA MOTORES DE COMBUSTION INTERNA (disposiciones de conjuntos de propulsión relativas al escape de gases B60K 13/00; silenciadores de admisión de aire especialmente adaptados para motores de combustión interna, o con dispositivos para estos motores F02M 35/00; protección contra ruidos en general o amortiguamiento de los mismos G10K 11/16)"
+  },
+  {
+    "code": "F01P",
+    "description": "REFRIGERACION DE MAQUINAS O MOTORES EN GENERAL; REFRIGERACION DE MOTORES DE COMBUSTION INTERNA (disposiciones de conjuntos de propulsión relativas a la refrigeración B60K 11/00; sustancias para la transferencia, intercambio o almacenamiento de calor C09K 5/00; intercambio de calor en general, radiadores F28)"
+  }
+]

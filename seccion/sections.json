@@ -1,0 +1,13 @@
+[
+  { "code": "A", "description": "NECESIDADES CORRIENTES DE LA VIDA" },
+  { "code": "B", "description": "TECNICAS INDUSTRIALES DIVERSAS; TRANSPORTES" },
+  { "code": "C", "description": "QUIMICA; METALURGIA" },
+  { "code": "D", "description": "TEXTILES; PAPEL" },
+  { "code": "E", "description": "CONSTRUCCIONES FIJAS" },
+  {
+    "code": "F",
+    "description": "MECANICA; ILUMINACION; CALEFACCION; ARMAMENTO; VOLADURA"
+  },
+  { "code": "G", "description": "FISICA" },
+  { "code": "H", "description": "ELECTRICIDAD" }
+]

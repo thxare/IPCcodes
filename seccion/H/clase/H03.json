@@ -1,0 +1,42 @@
+[
+  {
+    "code": "H03B",
+    "description": "GENERACION DE OSCILACIONES, DIRECTAMENTE O POR CAMBIO DE FRECUENCIA, CON LA AYUDA DE CIRCUITOS QUE UTILIZAN ELEMENTOS ACTIVOS QUE FUNCIONAN DE MANERA NO CONMUTATIVA; GENERACION DE RUIDO POR DICHOS CIRCUITOS (generadores especialmente adaptados a los instrumentos de música electrofónica G10H; máser o  láseres H01S; generación de oscilaciones en los plasmas H05H)"
+  },
+  {
+    "code": "H03C",
+    "description": "MODULACION (másers o lásers H01S; codificación, decodificación o conversión de código H03M)"
+  },
+  {
+    "code": "H03D",
+    "description": "DEMODULACION O TRANSFERENCIA DE MODULACION DE UNA ONDA PORTADORA A OTRA (másers, lásers H01S; circuitos capaces de funcionar como moduladores y demoduladores H03C ej.moduladores balanceados H03C 1/54; detalles aplicables a los moduladores y a los cambiadores de frecuencia H03C; demodulación de impulsos que han sido modulada con una señal de variación continua H03K 9/00; transformación de tipos de modulación de impulsos H03K 11/00; sistemas relés, ej. estaciones repetidoras H04B 7/14; demoduladores adaptados a los sistemas de portadora modulada digitalmente H04L 27/00; demoduladores síncronos adaptados a la televisión en color H04N 9/66)"
+  },
+  {
+    "code": "H03F",
+    "description": "AMPLIFICADORES (medidas, ensayos G01R; amplificadores ópticos paramétricos G02F; circuitos con tubos de emisión secundaria H01J 43/30; másers, lásers H01S; amplificadores dinamoeléctricos H02K; control de la amplificación H03G; dispositivos para el acoplamiento independientes de la naturaleza del amplificador, divisores de tensión H03H; amplificadores destinados únicamente al tratamiento de impulsos H03K; circuitos repetidores en las líneas de transmisión H04B 3/36, H04B 3/58; aplicaciones de amplificadores de voz a las comunicaciones telefónicas H04M 1/60, H04M 3/40)"
+  },
+  {
+    "code": "H03G",
+    "description": "CONTROL DE LA AMPLIFICACION (redes de impedancia, p. ej. atenuadores H03H; control de la transmisión en líneas H04B 3/04)"
+  },
+  {
+    "code": "H03H",
+    "description": "REDES DE IMPEDANCIA, p. ej. CIRCUITOS RESONANTES; RESONADORES (medidas, ensayos G01R; disposiciones para producir una reverberación sonora o un eco G10K 15/08; redes de impedancia o resonadores que se componen de impedancias distribuidas, p. ej. del tipo guía de ondas, H01P; control de la amplificación, p. ej. control del ancho de banda de los amplificadores, H03G; sintonización de circuitos resonantes, p. ej. sintonización de circuitos resonantes acoplados, H03J; redes para modificar las características de frecuencia de sistemas de comunicación H04B)"
+  },
+  {
+    "code": "H03J",
+    "description": "SINTONIZACION DE CIRCUITOS RESONANTES; SELECCION DE CIRCUITOS RESONANTES"
+  },
+  {
+    "code": "H03K",
+    "description": "TECNICA DE IMPULSO (medida de las características de los impulsos G01R; modulación de oscilaciones sinusoidales por impulsos H03C; transmisión de información digital , H04L; circuitos discriminadores de detección de diferencia de fase entre dos señales de conteo o integración de ciclos de oscilación H03D 3/04; control automático, arranque, sincronización o estabilización de generadores de oscilaciones o de impulsos electrónicos donde el tipo de generador es irrelevante o esta sin especificar H03L; codificación, decodificación o conversión de código, en general H03M) [4]"
+  },
+  {
+    "code": "H03L",
+    "description": "CONTROL AUTOMATICO, ARRANQUE, SINCRONIZACION O ESTABILIZACION DE GENERADORES DE OSCILACIONES O DE IMPULSOS ELECTRONICOS (de generadores dinamoeléctricos H02P) [3]"
+  },
+  {
+    "code": "H03M",
+    "description": "CODIFICACION, DECODIFICACION O CONVERSION DE CODIGO, EN GENERAL (por medio de fluidos F15C 4/00; convertidores ópticos analógico/digitales G02F 7/00; codificación, decodificación o conversión de código especialmente adaptada a aplicaciones particulares, ver las subclases apropiadas, p. ej. G01D, G01R, G06F, G06T, G09G, G10L, G11B, G11C, H04B, H04L, H04M, H04N; cifrado o descifrado para la criptografía o para otros fines que implican la necesidad de secreto G09C) [4]"
+  }
+]
