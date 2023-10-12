@@ -1,0 +1,646 @@
+[
+  {
+    "code": "B05B 1/00",
+    "description": "Boquillas, cabezas de pulverización u otros dispositivos de salida, con o sin dispositivos auxiliares tales como válvulas, medios de calentado (B05B 3/00, B05B 5/00, B05B 7/00 tienen prioridad; dispositivos para aplicar por contacto líquidos u otros materiales fluidos sobre una superficie B05C; boquillas para mecanismos de impresión por proyección de tinta B41J 2/135; boquillas para distribuir líquidos, p. ej. en las estaciones de servicio para vehículos, B67D 7/42) [2006.01]"
+  },
+  {
+    "code": "B05B 1/02",
+    "description": "••dispuestos para producir un chorro, un pulverizado o cualquier otra descarga de forma o naturaleza particular, p. ej. en forma de gotas independientes (B05B 1/26, B05B 1/28, B05B 1/34 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "B05B 1/04",
+    "description": "••••de forma plana, p. ej. en forma de abanico, en forma de lámina [2006.01]"
+  },
+  {
+    "code": "B05B 1/06",
+    "description": "••••de forma anular, tubular o cónica hueca [2006.01]"
+  },
+  {
+    "code": "B05B 1/08",
+    "description": "••••de naturaleza pulsatoria, p. ej. descargando un líquido en cantidades sucesivas separadas [2006.01]"
+  },
+  {
+    "code": "B05B 1/10",
+    "description": "••••en forma de un chorro fino, p. ej. para el limpiaparabrisas de automóviles [2006.01]"
+  },
+  {
+    "code": "B05B 1/12",
+    "description": "••capaces de producir diferentes tipos de descarga, p. ej. en forma de chorro o pulverizado (que tienen salidas regulables selectivamente B05B 1/16) [2006.01]"
+  },
+  {
+    "code": "B05B 1/14",
+    "description": "••con orificios de salida múltiples (B05B 1/02, B05B 1/26 tienen prioridad); con filtros situados en el orificio de salida o en su exterior [2006.01]"
+  },
+  {
+    "code": "B05B 1/16",
+    "description": "••••dotados de salidas de sección regulable [2006.01]"
+  },
+  {
+    "code": "B05B 1/18",
+    "description": "••••Alcachofas de rociado; Alcachofas de ducha [2006.01]"
+  },
+  {
+    "code": "B05B 1/20",
+    "description": "••••Tubos o canalones perforados, p. ej. aletas de pulverización; Elementos de salida para estos dispositivos [2006.01]"
+  },
+  {
+    "code": "B05B 1/22",
+    "description": "••Boquillas (dispositivos moderadores de chorro para grifos E03C 1/08) [2006.01]"
+  },
+  {
+    "code": "B05B 1/24",
+    "description": "••con medios para calentar el líquido u otro material fluido, p. ej. eléctricamente [2006.01]"
+  },
+  {
+    "code": "B05B 1/26",
+    "description": "••con medios para moderar o derivar mecánicamente el chorro a la salida, p. ej. deflectores fijos; Dispersión del líquido u otro material fluido saliente con la ayuda de chorros de impacto [2006.01]"
+  },
+  {
+    "code": "B05B 1/28",
+    "description": "••con medios incorporados para proteger al líquido u otro material fluido saliente, p. ej. para limitar el área de pulverización; con medios para impedir el goteo o para recoger el exceso de líquido u otro material fluido [2006.01]"
+  },
+  {
+    "code": "B05B 1/30",
+    "description": "••dispuestos para controlar el caudal, p. ej. con la ayuda de conductos de sección regulable [2006.01]"
+  },
+  {
+    "code": "B05B 1/32",
+    "description": "••••en las que un elemento de la válvula forma parte del orificio de salida [2006.01]"
+  },
+  {
+    "code": "B05B 1/34",
+    "description": "••dispuestos para influir en la forma del flujo del líquido, p. ej. para producir una turbulencia (dispuestos para controlar un caudal B05B 1/30) [2006.01]"
+  },
+  {
+    "code": "B05B 1/36",
+    "description": "••Salidas para descargado por sobrecarga [2006.01]"
+  },
+  {
+    "code": "B05B 3/00",
+    "description": "Aparatos de pulverización o de aspersión con elementos móviles deflectores o de salida [2006.01]"
+  },
+  {
+    "code": "B05B 3/02",
+    "description": "••con elementos rotativos (aparatos eléctricos de pulverización caracterizados por tener elementos rotativos deflectores o de salida B05B 5/04) [2006.01]"
+  },
+  {
+    "code": "B05B 3/04",
+    "description": "••••accionados por el líquido o fluido vertido, p. ej. el líquido acciona un motor antes de su llegada al orificio de salida [2006.01]"
+  },
+  {
+    "code": "B05B 3/06",
+    "description": "••••••con propulsión por reacción [2006.01]"
+  },
+  {
+    "code": "B05B 3/08",
+    "description": "••••en asociación con elementos de salida o deflectores fijos [2006.01]"
+  },
+  {
+    "code": "B05B 3/10",
+    "description": "••••con evacuación sobre la casi totalidad de la periferia del elemento rotativo [2006.01]"
+  },
+  {
+    "code": "B05B 3/12",
+    "description": "••••con aletas de pulverización o elementos análogos propulsados que giran alrededor de un eje por medios independientes del líquido o de otro material fluido refluido [2006.01]"
+  },
+  {
+    "code": "B05B 3/14",
+    "description": "••con elementos oscilantes; de acción intermitente [2006.01]"
+  },
+  {
+    "code": "B05B 3/16",
+    "description": "••••accionados o controlados por el líquido o fluido vertido, p. ej. el líquido acciona un motor antes de su llegada al orificio de salida [2006.01]"
+  },
+  {
+    "code": "B05B 3/18",
+    "description": "••con elementos dotados de movimiento rectilíneo, p. ej. a lo largo de una vía; Dispositivos aspersores móviles [2006.01]"
+  },
+  {
+    "code": "B05B 5/00",
+    "description": "Pulverización electrostática; Dispositivos de pulverización dotados de medios para cargar eléctricamente el pulverizado; Pulverización de líquidos u otros materiales fluidos por vías eléctricas [2006.01]"
+  },
+  {
+    "code": "B05B 5/025",
+    "description": "••Equipos para descargar el material, p. ej. pistolas de pulverización electrostática [2006.01]"
+  },
+  {
+    "code": "B05B 5/03",
+    "description": "••••caracterizados por la utilización de gas [2006.01]"
+  },
+  {
+    "code": "B05B 5/035",
+    "description": "••••caracterizados por una pulverización sin utilización de gas [2006.01]"
+  },
+  {
+    "code": "B05B 5/04",
+    "description": "••••caracterizados por incluir una salida rotativa o elementos deflectores [2006.01]"
+  },
+  {
+    "code": "B05B 5/043",
+    "description": "••••que utilizan carga inductiva [2006.01]"
+  },
+  {
+    "code": "B05B 5/047",
+    "description": "••••que utilizan carga por fricción [2006.01]"
+  },
+  {
+    "code": "B05B 5/053",
+    "description": "••••Disposiciones para la alimentación de energía, p. ej. de energía para la carga [2006.01]"
+  },
+  {
+    "code": "B05B 5/057",
+    "description": "••••Disposiciones para descargar líquidos u otros materiales fluidos sin utilizar ni pistola ni boquilla [2006.01]"
+  },
+  {
+    "code": "B05B 5/06",
+    "description": "••que utilizan un arco eléctrico [2006.01]"
+  },
+  {
+    "code": "B05B 5/08",
+    "description": "••Instalaciones para aplicar líquidos u otros materiales fluidos a objetos [2006.01]"
+  },
+  {
+    "code": "B05B 5/10",
+    "description": "••••Disposiciones para la alimentación de energía, p. ej. de energía para la carga (en aparatos de descarga  B05B 5/053) [2006.01]"
+  },
+  {
+    "code": "B05B 5/12",
+    "description": "••••especialmente adaptadas para revestir el interior de cuerpos huecos [2006.01]"
+  },
+  {
+    "code": "B05B 5/14",
+    "description": "••••especialmente adaptadas para revestir cuerpos alargados que se desplazan de forma continua, p. ej. hilos metálicos, bandas, tubos [2006.01]"
+  },
+  {
+    "code": "B05B 5/16",
+    "description": "••Disposiciones para la alimentación de líquidos o de otros materiales fluidos [2006.01]"
+  },
+  {
+    "code": "B05B 7/00",
+    "description": "Aparatos de pulverización para descargar líquidos u otros materiales fluidos procedentes de varias fuentes, p. ej. líquido y aire, polvo y gas (B05B 3/00, B05B 5/00 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "B05B 7/02",
+    "description": "••Pistolas pulverizadoras; Aparatos para la descarga (para pulverizar el material en partículas B05B 7/14; con medios para calentar el material que va a ser pulverizado B05B 7/16; con medios para suministrar material fluido en un dispositivo de descarga B05B 7/24) [2006.01]"
+  },
+  {
+    "code": "B05B 7/04",
+    "description": "••••con dispositivos que permitan la mezcla de líquidos u otros materiales fluidos con anterioridad a la descarga [2006.01]"
+  },
+  {
+    "code": "B05B 7/06",
+    "description": "••••con un orificio de salida que envuelve a otro situado aproximadamente en el mismo plano (B05B 7/10 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B05B 7/08",
+    "description": "••••con orificios de salida separados, p. ej. para formar chorros paralelos, para formar chorros cruzados [2006.01]"
+  },
+  {
+    "code": "B05B 7/10",
+    "description": "••••que producen una turbulencia a la salida [2006.01]"
+  },
+  {
+    "code": "B05B 7/12",
+    "description": "••••dispuestos para controlar el volumen descargado, p. ej. con la ayuda de pasos regulables [2006.01]"
+  },
+  {
+    "code": "B05B 7/14",
+    "description": "••dispuestos para proyectar materiales en partículas (B05B 7/16 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B05B 7/16",
+    "description": "••dotados de medios para calentar la materia que va a ser proyectada [2006.01]"
+  },
+  {
+    "code": "B05B 7/18",
+    "description": "••••la materia tiene originariamente la forma de un hilo, de una varita o una forma análoga [2006.01]"
+  },
+  {
+    "code": "B05B 7/20",
+    "description": "••••bajo la acción de una llama o por combustión [2006.01]"
+  },
+  {
+    "code": "B05B 7/22",
+    "description": "••••por vía eléctrica, p. ej. por un arco [2006.01]"
+  },
+  {
+    "code": "B05B 7/24",
+    "description": "••con medios, p. ej. recipiente, para alimentar de líquido u otro material fluido un dispositivo de descarga (B05B 7/14, B05B 7/16, B05B 11/00 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "B05B 7/26",
+    "description": "••••Aparatos en los que los líquidos u otros materiales fluidos procedentes de diferentes fuentes se mezclan antes de penetrar en el dispositivo de evacuación [2006.01]"
+  },
+  {
+    "code": "B05B 7/28",
+    "description": "••••••en los cuales un fluido u otro material fluido es introducido o atraído, al pasar por un orificio, en una corriente de fluido portador [2006.01]"
+  },
+  {
+    "code": "B05B 7/30",
+    "description": "••••••••el primer líquido u otro material fluido es introducido por gravedad o aspirado en el fluido portador [2006.01]"
+  },
+  {
+    "code": "B05B 7/32",
+    "description": "••••••••el líquido u otro material fluido es introducido bajo presión [2006.01]"
+  },
+  {
+    "code": "B05B 9/00",
+    "description": "Aparatos de pulverización para descargar líquidos u otros materiales fluidos, que no implican mezcla con gases o vapores (B05B 11/00 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B05B 9/01",
+    "description": "••Pistolas pulverizadoras (B05B 9/03 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B05B 9/03",
+    "description": "••caracterizadas por los medios de alimentación del líquido o de otro material fluido [2006.01]"
+  },
+  {
+    "code": "B05B 9/04",
+    "description": "••••dotadas de un depósito bajo presión o comprimible (depósitos para aerosoles B65D 83/14); dotadas de una bomba [2006.01]"
+  },
+  {
+    "code": "B05B 9/043",
+    "description": "••••••dotadas de una bomba fácilmente separable del depósito [2006.01]"
+  },
+  {
+    "code": "B05B 9/047",
+    "description": "••••••siendo alimentadas por un elemento auxiliar situado en el depósito, p. ej. por una membrana o un pistón flotante [2006.01]"
+  },
+  {
+    "code": "B05B 9/06",
+    "description": "••••••estando la descarga en función del movimiento de un vehículo, p. ej. con una bomba accionada por la rueda de un vehículo [2006.01]"
+  },
+  {
+    "code": "B05B 9/08",
+    "description": "••••••Aparatos para ser llevados por una persona, p. ej. de tipo dorsal [2006.01]"
+  },
+  {
+    "code": "B05B 11/00",
+    "description": "Aparatos manuales monobloque en los que el flujo se produce por la fuerza muscular del operador en el momento de la utilización [2023.01]"
+  },
+  {
+    "code": "B05B 11/01",
+    "description": "••caracterizados por los medios que producen el flujo [2023.01]"
+  },
+  {
+    "code": "B05B 11/02",
+    "description": "••••Membranas o pistones que actúan sobre el contenido de un recipiente, p. ej. pistones flotantes [2023.01]"
+  },
+  {
+    "code": "B05B 11/04",
+    "description": "••••Recipientes deformables cuya deformación produce el flujo, p. ej. botellas exprimibles [2006.01]"
+  },
+  {
+    "code": "B05B 11/06",
+    "description": "••••donde un gas o un vapor inducen el flujo, p. ej. desde una pera compresible o desde una bomba de aire [2006.01]"
+  },
+  {
+    "code": "B05B 11/10",
+    "description": "••••Sistemas de bombeo para transferir el contenido del recipiente a una cámara de bombeo mediante un efecto de succión y forzar la salida del contenido a través de la boquilla dispensadora [2023.01]"
+  },
+  {
+    "code": "B05B 12/00",
+    "description": "Disposiciones para controlar la distribución; Disposiciones para controlar la zona de pulverización [2018.01]"
+  },
+  {
+    "code": "B05B 12/02",
+    "description": "••para el control de la duración o de la sucesión de distribuciones [2006.01]"
+  },
+  {
+    "code": "B05B 12/04",
+    "description": "••••en el caso de operaciones sucesivas o de varios orificios de salida [2006.01]"
+  },
+  {
+    "code": "B05B 12/06",
+    "description": "••••para realizar una salida pulsatoria [2006.01]"
+  },
+  {
+    "code": "B05B 12/08",
+    "description": "••sensibles al estado del líquido u otro material fluido expulsado, del medio ambiente o del blanco [2006.01]"
+  },
+  {
+    "code": "B05B 12/10",
+    "description": "••••sensibles a la temperatura o a la viscosidad del líquido u otro material fluido expulsado [2006.01]"
+  },
+  {
+    "code": "B05B 12/12",
+    "description": "••••sensibles al estado del medio ambiente o del blanco, p. ej. a la humedad, a la temperatura [2006.01]"
+  },
+  {
+    "code": "B05B 12/14",
+    "description": "••para suministrar a un orificio de pulverización único, un líquido u otro material fluido elegido entre varios [2006.01]"
+  },
+  {
+    "code": "B05B 12/16",
+    "description": "••para controlar la zona de pulverización (B05B 3/00 tiene prioridad) [2018.01]"
+  },
+  {
+    "code": "B05B 12/18",
+    "description": "••••utilizando fluidos, p. ej. corrientes de gas [2018.01]"
+  },
+  {
+    "code": "B05B 12/20",
+    "description": "••••Elementos de enmascaramiento, es decir, elementos que definen zonas sin recubrimiento en un objeto que se va a recubrir [2018.01]"
+  },
+  {
+    "code": "B05B 12/22",
+    "description": "••••••movibles con relación a la zona de pulverización [2018.01]"
+  },
+  {
+    "code": "B05B 12/24",
+    "description": "••••••fabricados al menos parcialmente de material flexible, p. ej. hojas de papel o tejido [2018.01]"
+  },
+  {
+    "code": "B05B 12/26",
+    "description": "••••••para enmascarar cavidades [2018.01]"
+  },
+  {
+    "code": "B05B 12/28",
+    "description": "••••••para definir zonas sin recubrimiento que no están rodeadas por zonas recubiertas o a la inversa, p. ej. para definir líneas de borde en forma de U [2018.01]"
+  },
+  {
+    "code": "B05B 12/30",
+    "description": "••••••especialmente adaptados para vehículos [2018.01]"
+  },
+  {
+    "code": "B05B 12/32",
+    "description": "••••Elementos de protección, es decir, elementos que evitan que el exceso de pulverización llegue a zonas distintas al objeto que se va a pulverizar (boquillas con elementos de protección integrados B05B 1/28) [2018.01]"
+  },
+  {
+    "code": "B05B 12/34",
+    "description": "••••••movibles con relación a la zona de pulverización [2018.01]"
+  },
+  {
+    "code": "B05B 12/36",
+    "description": "••••••Protecciones laterales, es decir, protecciones que se prolongan en un sentido sustancialmente paralelo al del chorro de pulverización [2018.01]"
+  },
+  {
+    "code": "B05B 13/00",
+    "description": "Máquinas o instalaciones para aplicar líquidos u otras materias fluidas sobre la superficie de objetos o de materiales por pulverización, no cubiertas por los grupos B05B 1/00-B05B 11/00 (procedimientos para aplicar líquidos u otras materias fluidas a las superficies en general B05D; medios para suministrar o refluir un líquido u otro material fluido con este fin, ver el apropiado de entre los grupos B05B 1/00-B05B 12/00) [2006.01]"
+  },
+  {
+    "code": "B05B 13/02",
+    "description": "••Medios para soportar la pieza; Disposición o montaje de cabezas de pulverización; Adaptación o disposición de los medios para mover las piezas (B05B 13/06 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B05B 13/04",
+    "description": "••••las cabezas de pulverización se desplazan en el curso de la operación [2006.01]"
+  },
+  {
+    "code": "B05B 13/06",
+    "description": "••concebidas especialmente para tratar el interior de cuerpos huecos (cabezas de pulverización B05B 1/00-B05B 7/00) [2006.01]"
+  },
+  {
+    "code": "B05B 14/00",
+    "description": "Disposiciones para recoger, reutilizar o eliminar el exceso de material de pulverizado (disposiciones integradas con boquillas B05B 1/28) [2018.01]"
+  },
+  {
+    "code": "B05B 14/10",
+    "description": "••siendo el material en exceso partículas (para cabinas de pulverización  B05B 14/48) [2018.01]"
+  },
+  {
+    "code": "B05B 14/20",
+    "description": "••de cintas en movimiento, p. ej. cintas de filtrado o cintas transportadoras [2018.01]"
+  },
+  {
+    "code": "B05B 14/30",
+    "description": "••que comprenden recintos próximos a, o en contacto con, el objeto que se va a pulverizar y que rodean o confinan el chorro descargado pero no el objeto que se va a pulverizar [2018.01]"
+  },
+  {
+    "code": "B05B 14/40",
+    "description": "••para su utilización en cabinas de pulverizado [2018.01]"
+  },
+  {
+    "code": "B05B 14/41",
+    "description": "••••mediante la limpieza de las paredes de la cabina [2018.01]"
+  },
+  {
+    "code": "B05B 14/42",
+    "description": "••••utilizando medios electrostáticos [2018.01]"
+  },
+  {
+    "code": "B05B 14/43",
+    "description": "••••mediante el filtrado del aire cargado con el material sobrante [2018.01]"
+  },
+  {
+    "code": "B05B 14/435",
+    "description": "••••••con medios para limpiar los filtros mediante un flujo de gas, p. ej. chorros de aire [2018.01]"
+  },
+  {
+    "code": "B05B 14/44",
+    "description": "••••utilizando paredes especialmente adaptadas para promover la separación del material sobrante del aire, p. ej. placas deflectoras (utilizando paredes humedecidas B05B 14/465) [2018.01]"
+  },
+  {
+    "code": "B05B 14/45",
+    "description": "••••utilizando separadores ciclónicos [2018.01]"
+  },
+  {
+    "code": "B05B 14/46",
+    "description": "••••lavando el aire cargado con el material sobrante [2018.01]"
+  },
+  {
+    "code": "B05B 14/462",
+    "description": "••••••y separando el material sobrante del liquido de lavado, p. ej. para su recuperación [2018.01]"
+  },
+  {
+    "code": "B05B 14/465",
+    "description": "••••••utilizando cortinas de líquido sustancialmente verticales o paredes humedecidas por detrás el objeto que se va a pulverizar [2018.01]"
+  },
+  {
+    "code": "B05B 14/468",
+    "description": "••••••con medios de raspado por debajo del suelo de la cabina [2018.01]"
+  },
+  {
+    "code": "B05B 14/48",
+    "description": "••••especialmente adaptados para material particulado [2018.01]"
+  },
+  {
+    "code": "B05B 14/49",
+    "description": "••••especialmente adaptados para disolventes [2018.01]"
+  },
+  {
+    "code": "B05B 15/00",
+    "description": "Partes constitutivas de instalaciones o de aparatos de pulverización no previstas en otro lugar; Accesorios [2018.01]"
+  },
+  {
+    "code": "B05B 15/14",
+    "description": "••Disposiciones para evitar o controlar el daño estructural a aparatos de pulverización o sus salidas, p. ej. para su ruptura en puntos designados; Disposiciones para manipular o sustituir piezas dañadas [2018.01]"
+  },
+  {
+    "code": "B05B 15/16",
+    "description": "••••para evitar un contacto imprevisto entre los cabezales o boquillas de pulverización y cuerpos extraños, p. ej. protectores de boquillas [2018.01]"
+  },
+  {
+    "code": "B05B 15/18",
+    "description": "••••para mejorar la resistencia al desgaste, p. ej. insertos o recubrimientos; para indicar el desgaste; para manipular o sustituir piezas desgastadas [2018.01]"
+  },
+  {
+    "code": "B05B 15/20",
+    "description": "••Disposiciones para agitar el material que se va a pulverizar, p. ej. para remover, mezclar u homogeneizar [2018.01]"
+  },
+  {
+    "code": "B05B 15/25",
+    "description": "••••utilizando elementos móviles, p. ej. palas giratorias [2018.01]"
+  },
+  {
+    "code": "B05B 15/30",
+    "description": "••Tubos de inmersión [2018.01]"
+  },
+  {
+    "code": "B05B 15/33",
+    "description": "••••lastrados [2018.01]"
+  },
+  {
+    "code": "B05B 15/37",
+    "description": "••••con elementos decorativos [2018.01]"
+  },
+  {
+    "code": "B05B 15/40",
+    "description": "••Filtros situados aguas arriba de las salidas de pulverización [2018.01]"
+  },
+  {
+    "code": "B05B 15/50",
+    "description": "••Disposiciones para la limpieza; Disposiciones para evitar la formación de depósitos, el secado o las obstrucciones; Disposiciones para detectar una descarga inadecuada provocada por la presencia de material extraño [2018.01]"
+  },
+  {
+    "code": "B05B 15/52",
+    "description": "••••para eliminar partículas causantes de obstrucción [2018.01]"
+  },
+  {
+    "code": "B05B 15/522",
+    "description": "••••••utilizando elementos de limpieza que penetran en las aberturas de descarga [2018.01]"
+  },
+  {
+    "code": "B05B 15/525",
+    "description": "••••••aumentando la sección transversal de las aberturas de descarga [2018.01]"
+  },
+  {
+    "code": "B05B 15/528",
+    "description": "••••••mediante la deformación elástica de la boquilla [2018.01]"
+  },
+  {
+    "code": "B05B 15/531",
+    "description": "••••••utilizando reflujo [2018.01]"
+  },
+  {
+    "code": "B05B 15/534",
+    "description": "••••••••invirtiendo la boquilla con respecto al conducto de suministro [2018.01]"
+  },
+  {
+    "code": "B05B 15/55",
+    "description": "••••utilizando fluidos de limpieza [2018.01]"
+  },
+  {
+    "code": "B05B 15/555",
+    "description": "••••••descargados por boquillas de limpieza [2018.01]"
+  },
+  {
+    "code": "B05B 15/58",
+    "description": "••••evitando la formación de depósitos, el secado o las obstrucciones mediante la recirculación del fluido que se va a pulverizar desde la zona aguas arriba de la abertura de descarga de nuevo hasta los medios de suministro [2018.01]"
+  },
+  {
+    "code": "B05B 15/60",
+    "description": "••Disposiciones para montar, soportar o sostener aparatos de pulverización [2018.01]"
+  },
+  {
+    "code": "B05B 15/62",
+    "description": "••••Disposiciones para soportar los aparatos de pulverización, p. ej. ventosas [2018.01]"
+  },
+  {
+    "code": "B05B 15/622",
+    "description": "••••••que penetran en el suelo [2018.01]"
+  },
+  {
+    "code": "B05B 15/625",
+    "description": "••••••diseñadas para colocarse sobre el suelo [2018.01]"
+  },
+  {
+    "code": "B05B 15/628",
+    "description": "••••••de longitud variable [2018.01]"
+  },
+  {
+    "code": "B05B 15/63",
+    "description": "••••Empuñaduras [2018.01]"
+  },
+  {
+    "code": "B05B 15/65",
+    "description": "••••Disposiciones de montaje para la conexión de fluidos en los aparatos de pulverización o sus salidas a los conductos de flujo [2018.01]"
+  },
+  {
+    "code": "B05B 15/652",
+    "description": "••••••en las que el chorro es orientable [2018.01]"
+  },
+  {
+    "code": "B05B 15/654",
+    "description": "••••••••utilizando juntas cardán [2018.01]"
+  },
+  {
+    "code": "B05B 15/656",
+    "description": "••••••en las que la longitud del conducto de flujo es modificable [2018.01]"
+  },
+  {
+    "code": "B05B 15/658",
+    "description": "••••••siendo el aparato de pulverización o su eje de salida perpendiculares al conducto de flujo [2018.01]"
+  },
+  {
+    "code": "B05B 15/68",
+    "description": "••••Disposiciones para ajustar la posición de los cabezales de pulverización (B05B 15/628, B05B 15/652, B05B 15/656 tienen prioridad) [2018.01]"
+  },
+  {
+    "code": "B05B 15/70",
+    "description": "••Disposiciones para mover los cabezales de pulverización automáticamente hacia o desde la posición de trabajo [2018.01]"
+  },
+  {
+    "code": "B05B 15/72",
+    "description": "••••utilizando medios hidráulicos o neumáticos [2018.01]"
+  },
+  {
+    "code": "B05B 15/74",
+    "description": "••••••accionados por el fluido de descarga [2018.01]"
+  },
+  {
+    "code": "B05B 15/80",
+    "description": "••Disposiciones en las que la zona de pulverización no está cerrada, p. ej. mesas de pulverización [2018.01]"
+  },
+  {
+    "code": "B05B 16/00",
+    "description": "Cabinas de pulverización (disposiciones para recoger, reutilizar o eliminar el material de pulverización sobrante en cabinas de pulverización B05B 14/40) [2018.01]"
+  },
+  {
+    "code": "B05B 16/20",
+    "description": "••Disposiciones para pulverizar en combinación con otras operaciones, p. ej. secado; Disposiciones que permiten una combinación de operaciones de pulverización [2018.01]"
+  },
+  {
+    "code": "B05B 16/25",
+    "description": "••••tanto para pulverización automática como manual [2018.01]"
+  },
+  {
+    "code": "B05B 16/40",
+    "description": "••Elementos constructivos especialmente adaptados para las mismas, p. ej. suelos, paredes o techos (elementos de techo que filtran un flujo de entrada de aire a la cabina B05B 16/60; paredes especialmente adaptadas para promover la separación del material sobrante B05B 14/44) [2018.01]"
+  },
+  {
+    "code": "B05B 16/60",
+    "description": "••Disposiciones de ventilación especialmente adaptadas para las mismas [2018.01]"
+  },
+  {
+    "code": "B05B 16/80",
+    "description": "••Cabinas de pulverización móviles [2018.01]"
+  },
+  {
+    "code": "B05B 17/00",
+    "description": "Aparatos de pulverización o de atomización de líquidos o de otros materiales fluidos, no cubiertos por ningún grupo de esta subclase (soltado o largado en vuelo de materia polvorienta, líquida o gaseosa B64D 1/16) [2006.01]"
+  },
+  {
+    "code": "B05B 17/04",
+    "description": "••que operan siguiendo procedimientos especiales [2006.01]"
+  },
+  {
+    "code": "B05B 17/06",
+    "description": "••••que utilizan vibraciones ultrasónicas [2006.01]"
+  },
+  {
+    "code": "B05B 17/08",
+    "description": "••Fuentes (fuentes para beber E03B 9/20; fuentes para lavar E03C 1/16) [2006.01]"
+  }
+]

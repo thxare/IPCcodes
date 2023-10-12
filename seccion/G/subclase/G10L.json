@@ -1,0 +1,622 @@
+[
+  {
+    "code": "G10L 13/00",
+    "description": "Síntesis de la voz; Sistemas de síntesis de la voz a partir de texto [2006.01]"
+  },
+  {
+    "code": "G10L 13/02",
+    "description": "••Métodos de producción de voz sintética; Sintetizadores de voz [2013.01]"
+  },
+  {
+    "code": "G10L 13/027",
+    "description": "••••Conceptos para sintetizadores de voz; Generación de frases en lenguaje natural a partir de conceptos basados en lenguaje máquina (generación de parámetros para síntesis de voz a partir de texto G10L 13/08) [2013.01]"
+  },
+  {
+    "code": "G10L 13/033",
+    "description": "••••Edición de voz, p. ej. transformación de la voz del sintetizador [2013.01]"
+  },
+  {
+    "code": "G10L 13/04",
+    "description": "••••Detalles de sistemas de síntesis de voz, p. ej. estructura del sintetizador o gestión de memoria [2013.01]"
+  },
+  {
+    "code": "G10L 13/047",
+    "description": "••••••Arquitectura de los sintetizadores de voz [2013.01]"
+  },
+  {
+    "code": "G10L 13/06",
+    "description": "••Unidades de voz elementales utilizadas en sintetizadores de voz; reglas de concatenación [2013.01]"
+  },
+  {
+    "code": "G10L 13/07",
+    "description": "••••Reglas de concatenación [2013.01]"
+  },
+  {
+    "code": "G10L 13/08",
+    "description": "••Análisis de texto o generación de parámetros para la síntesis de la voz a partir de texto, p. ej. conversión grafema-fonema, generación de métrica o determinación de la entonación o de la acentuación [2013.01]"
+  },
+  {
+    "code": "G10L 13/10",
+    "description": "••••Reglas de prosodia derivadas del texto; Acento o entonación [2013.01]"
+  },
+  {
+    "code": "G10L 15/00",
+    "description": "Reconocimiento de la voz (G10L 17/00 tiene prioridad) [2013.01]"
+  },
+  {
+    "code": "G10L 15/01",
+    "description": "••Valoración o evaluación de los sistemas de reconocimiento de voz [2013.01]"
+  },
+  {
+    "code": "G10L 15/02",
+    "description": "••Extracción de características para el reconocimiento de la voz; Selección de la unidad de reconocimiento [2006.01]"
+  },
+  {
+    "code": "G10L 15/04",
+    "description": "••Segmentación o detección de los límites de las palabras; Word boundary detection [2013.01]"
+  },
+  {
+    "code": "G10L 15/05",
+    "description": "••••Detección de los límites de las palabras [2013.01]"
+  },
+  {
+    "code": "G10L 15/06",
+    "description": "••Creación de plantillas de referencia; Entrenamiento de sistemas de reconocimiento de la voz, p. ej. adaptación a las características de la voz de la persona que habla (G10L 15/14 tiene prioridad) [2013.01]"
+  },
+  {
+    "code": "G10L 15/065",
+    "description": "••••Adaptación [2013.01]"
+  },
+  {
+    "code": "G10L 15/07",
+    "description": "••••••a la persona que habla [2013.01]"
+  },
+  {
+    "code": "G10L 15/08",
+    "description": "••Búsqueda o clasificación de la voz [2006.01]"
+  },
+  {
+    "code": "G10L 15/10",
+    "description": "••••utilizando medidas de distorsión o distancia entre la voz desconocida y las plantillas de referencia [2006.01]"
+  },
+  {
+    "code": "G10L 15/12",
+    "description": "••••utilizando técnicas de programación dinámica, p. ej. normalización temporal por comparación dinámica [DTW] [2006.01]"
+  },
+  {
+    "code": "G10L 15/14",
+    "description": "••••utilizando técnicas de programación dinámica, p. ej. normalización temporal por comparación dinámica [DTW] (G10L 15/18 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G10L 15/16",
+    "description": "••••utilizando redes neuronales artificiales [2006.01]"
+  },
+  {
+    "code": "G10L 15/18",
+    "description": "••••utilizando una modelización del lenguaje natural [2013.01]"
+  },
+  {
+    "code": "G10L 15/183",
+    "description": "••••••utilizando dependencias del contexto, p. ej. modelos del lenguaje [2013.01]"
+  },
+  {
+    "code": "G10L 15/187",
+    "description": "••••••••Contextos fonémicos, p. ej. reglas de pronunciación, impedimentos fonotácticos, n-grama de fonemas [2013.01]"
+  },
+  {
+    "code": "G10L 15/19",
+    "description": "••••••••Contexto gramatical, p. ej. desambiguación de las hipótesis de reconocimiento basadas en reglas de secuencias de palabras [2013.01]"
+  },
+  {
+    "code": "G10L 15/193",
+    "description": "••••••••••Gramática formal, p. ej. autómatas finitos, gramática libre de contexto o cadenas de palabras [2013.01]"
+  },
+  {
+    "code": "G10L 15/197",
+    "description": "••••••••••Gramática probabilística, p. ej. n-gramas de palabras [2013.01]"
+  },
+  {
+    "code": "G10L 15/20",
+    "description": "••Técnicas de reconocimiento de la voz especialmente adaptadas para trabajar en ambientes adversos, p. ej. en presencia de ruido o para voz emitida en situaciones de estrés (G10L 21/02 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G10L 15/22",
+    "description": "••Procedimientos utilizados durante el proceso de reconocimiento de la voz, p. ej. diálogo hombre-máquina [2006.01]"
+  },
+  {
+    "code": "G10L 15/24",
+    "description": "••Reconocimiento de la voz mediante la utilización de medios no acústicos [2013.01]"
+  },
+  {
+    "code": "G10L 15/25",
+    "description": "••••utilizando la posición de los labios, el movimiento de los labios o el análisis del rostro [2013.01]"
+  },
+  {
+    "code": "G10L 15/26",
+    "description": "••Sistemas de síntesis de texto a partir de la voz (G10L 15/08 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G10L 15/28",
+    "description": "••Detalles estructurales de sistemas de reconocimiento de la voz [2013.01]"
+  },
+  {
+    "code": "G10L 15/30",
+    "description": "••••Reconocimiento distribuido, p. ej. en sistemas cliente-servidor, para teléfonos móviles o aplicaciones en red [2013.01]"
+  },
+  {
+    "code": "G10L 15/32",
+    "description": "••••Reconocedores múltiples usados en serie o en paralelo; Basados en sistemas de puntuaciones combinadas, p. ej. sistemas de voto. [2013.01]"
+  },
+  {
+    "code": "G10L 15/34",
+    "description": "••••Adaptación de un reconocedor individual a un procesamiento en paralelo, p. ej. usando procesadores múltiples o computación en la nube (cloud computing). [2013.01]"
+  },
+  {
+    "code": "G10L 17/00",
+    "description": "Identificación o verificación de la persona que habla [2013.01]"
+  },
+  {
+    "code": "G10L 17/02",
+    "description": "••Operaciones anteriores al procesamiento, p. ej. elección del segmento; Representación o modelado de patrones, p. ej. basados en Análisis Discriminante Linear (LDA) o componentes principales; Elección o extracción de características [2013.01]"
+  },
+  {
+    "code": "G10L 17/04",
+    "description": "••Entrenamiento, registro o construcción de modelos [2013.01]"
+  },
+  {
+    "code": "G10L 17/06",
+    "description": "••Técnicas de toma de decisiones; Estrategia de ajuste de patrones [2013.01]"
+  },
+  {
+    "code": "G10L 17/08",
+    "description": "••••Utilización de métricas de distorsión o una distancia concreta entre el patrón sonda y las plantillas de referencia [2013.01]"
+  },
+  {
+    "code": "G10L 17/10",
+    "description": "••••Sistemas multimodales, p. ej. basados en la integración de múltiples motores de reconocimiento o la fusión de sistemas expertos [2013.01]"
+  },
+  {
+    "code": "G10L 17/12",
+    "description": "••••Normalización de la puntuación [2013.01]"
+  },
+  {
+    "code": "G10L 17/14",
+    "description": "••••Utilización de la categorización fonémica o el reconocimiento de la voz antes del reconocimiento de la persona que habla o su verificación [2013.01]"
+  },
+  {
+    "code": "G10L 17/16",
+    "description": "••Modelos ocultos de Márkov [HMM] [2013.01]"
+  },
+  {
+    "code": "G10L 17/18",
+    "description": "••Redes neuronales artificiales; Enfoque conexionista [2013.01]"
+  },
+  {
+    "code": "G10L 17/20",
+    "description": "••Transformación de patrones  operaciones dirigidas al incremento de la robustez del sistema, p. ej. contra el ruido del canal o las diferentes condiciones de trabajo [2013.01]"
+  },
+  {
+    "code": "G10L 17/22",
+    "description": "••Procedimientos interactivos; Interfaces hombre-máquina [2013.01]"
+  },
+  {
+    "code": "G10L 17/24",
+    "description": "••••haciendo que el usuario pronuncie una contraseña o una frase predefinida [2013.01]"
+  },
+  {
+    "code": "G10L 17/26",
+    "description": "••Reconocimiento de características especiales de la voz, p. ej. para utilizaciñón en detectores de mentiras; Reconocimiento de voces de animales [2013.01]"
+  },
+  {
+    "code": "G10L 19/00",
+    "description": "Técnicas de análisis-síntesis de la voz o de señales de audio para la reducción de la redundancia, p. ej. en codificadores vocales; Codificación o decodificación de la voz o de señales de audio, utilizando modelos filtro-fuente o el análisis psicoacústico (en instrumentos musicales G10H) [2013.01]"
+  },
+  {
+    "code": "G10L 19/002",
+    "description": "••Distribución dinámica de bits (para codificadores de audio perceptuales G10L 19/032) [2013.01]"
+  },
+  {
+    "code": "G10L 19/005",
+    "description": "••Corrección de errores producidos por el canal de transmisión, si se refieren al algoritmo de codificación [2013.01]"
+  },
+  {
+    "code": "G10L 19/008",
+    "description": "••Codificación de señales de audio multicanalde o de decodificación mediante la correlación entre canales para reducir la redundancia, p. ej. estéreo conjunto, codificación de la intensidad o matrizado [2013.01]"
+  },
+  {
+    "code": "G10L 19/012",
+    "description": "••Codificación del ruido de confort o el silencio [2013.01]"
+  },
+  {
+    "code": "G10L 19/018",
+    "description": "••Marcado digital del audio, p. ej. integrando datos inaudibles en la señal de audio [2013.01]"
+  },
+  {
+    "code": "G10L 19/02",
+    "description": "••utilizando análisis espectrales, p. ej. codificadores vocales de transformación o codificadores vocales subbanda [2013.01]"
+  },
+  {
+    "code": "G10L 19/022",
+    "description": "••••Bloqueo, p. ej. agrupación de muestras en el tiempo; Elección de las ventanas de análisis; Factorización de interferencias [2013.01]"
+  },
+  {
+    "code": "G10L 19/025",
+    "description": "••••••Detección de transitorios o accesos para la conmutación de la resolución de tiempo y frecuencia [2013.01]"
+  },
+  {
+    "code": "G10L 19/028",
+    "description": "••••Sustitución del ruido, p. ej. Sustituyendo componentes espectrales no tonales por fuentes de ruido (ruido de confort para transmisiones de voz discontinua G10L 19/012) [2013.01]"
+  },
+  {
+    "code": "G10L 19/03",
+    "description": "••••Predicción espectral para prevenir el preeco; Conformación temporal del ruido (temporary noise shaping)[TNS], p. ej. en MPEG2 o MPEG4 [2013.01]"
+  },
+  {
+    "code": "G10L 19/032",
+    "description": "••••Cuantificación o descuantificación de componentes espectrales [2013.01]"
+  },
+  {
+    "code": "G10L 19/035",
+    "description": "••••••Cuantificación logarítmica o escalar [2013.01]"
+  },
+  {
+    "code": "G10L 19/038",
+    "description": "••••••Cuantificación vectorial, p. ej. audio TwinVQ [2013.01]"
+  },
+  {
+    "code": "G10L 19/04",
+    "description": "••utilizando técnicas de predicción [2013.01]"
+  },
+  {
+    "code": "G10L 19/06",
+    "description": "••••Determinación o codificación de las características del espectro, p. ej. de los coeficientes de predicción a corto plazo [2013.01]"
+  },
+  {
+    "code": "G10L 19/07",
+    "description": "••••••Codificadores vocales de par de espectro de líneas (line spectrum pair) [LSP] [2013.01]"
+  },
+  {
+    "code": "G10L 19/08",
+    "description": "••••Determinación o codificación de la función de excitación; Determinación de los parámetros de predicción a largo plazo [2013.01]"
+  },
+  {
+    "code": "G10L 19/083",
+    "description": "••••••siendo la función de excitación un incremento de excitación (G10L 25/90 tiene prioridad) [2013.01]"
+  },
+  {
+    "code": "G10L 19/087",
+    "description": "••••••Utilizando modelos de excitación mixtos, p. ej. MELP, MBE, split band LPC o HVXC [2013.01]"
+  },
+  {
+    "code": "G10L 19/09",
+    "description": "••••••Predicción a largo plazo, p. ej. Eliminando redundancias periódicas, p. ej.  utilizando un libro de códigos adaptable o predictor del tono [2013.01]"
+  },
+  {
+    "code": "G10L 19/093",
+    "description": "••••••usando modelos de excitación sinusoidales [2013.01]"
+  },
+  {
+    "code": "G10L 19/097",
+    "description": "••••••utilizando la descomposición en forma de ondas prototipo o codificadores interpoladores de formas de onda prototipos [PWI] [2013.01]"
+  },
+  {
+    "code": "G10L 19/10",
+    "description": "••••••siendo la función de excitación una excitación de impulsos múltiples [2013.01]"
+  },
+  {
+    "code": "G10L 19/107",
+    "description": "••••••••Excitación de pulsaciones débiles, p. ej. utilizando libros de códigos algebraico [2013.01]"
+  },
+  {
+    "code": "G10L 19/113",
+    "description": "••••••••Excitación de pulsaciones normales [2013.01]"
+  },
+  {
+    "code": "G10L 19/12",
+    "description": "••••••Determinación o codificación de una excitación de código, p. ej. en codificadores vocales de predicción lineal excitados por código [CELP] [2013.01]"
+  },
+  {
+    "code": "G10L 19/125",
+    "description": "••••••••Excitación del tono, p. ej. innovación síncronizada del tono CELP [PSI-CELP] [2013.01]"
+  },
+  {
+    "code": "G10L 19/13",
+    "description": "••••••••Predicción lineal de excitación residual [RELP] [2013.01]"
+  },
+  {
+    "code": "G10L 19/135",
+    "description": "••••••••Predicción lineal de excitación de suma vectorial [VSELP] [2013.01]"
+  },
+  {
+    "code": "G10L 19/16",
+    "description": "••••Estructura de codificadores de voz [2013.01]"
+  },
+  {
+    "code": "G10L 19/18",
+    "description": "••••••Codificadores de voz que utilizan modos múltiples [2013.01]"
+  },
+  {
+    "code": "G10L 19/20",
+    "description": "••••••••utilizando codificación específica de clase de sonido, codificadores híbridos o codificación basada en objeto [2013.01]"
+  },
+  {
+    "code": "G10L 19/22",
+    "description": "••••••••Decisión del modo, p. ej. basado en el contenido de la señal de audio frente a parámetros externos [2013.01]"
+  },
+  {
+    "code": "G10L 19/24",
+    "description": "••••••••Codecs de frecuencia variable, p. ej. para generar diferentes calidades utilizando una representación escalable como una codificación jerárquica o en capas [2013.01]"
+  },
+  {
+    "code": "G10L 19/26",
+    "description": "••••prefiltrado o postfiltrado [2013.01]"
+  },
+  {
+    "code": "G10L 21/00",
+    "description": "Tratamiento de la señal de la voz para producir otra señal audible o no audible, p. ej. visual o táctil, con el fin de modificar su calidad o su inteligibilidad (G10L 19/00 tiene prioridad) [2013.01]"
+  },
+  {
+    "code": "G10L 21/003",
+    "description": "••Cambio de la calidad de la voz, p. ej. tono o formantos [2013.01]"
+  },
+  {
+    "code": "G10L 21/007",
+    "description": "••••caracterizada por el proceso utilizado [2013.01]"
+  },
+  {
+    "code": "G10L 21/01",
+    "description": "••••••Corrección del eje de tiempos [2013.01]"
+  },
+  {
+    "code": "G10L 21/013",
+    "description": "••••••Adaptación al tono objetivo [2013.01]"
+  },
+  {
+    "code": "G10L 21/02",
+    "description": "••Mejora de la inteligibilidad de la voz, p. ej. reducción de ruido o eliminación de ecos (reducción de efectos de eco en los sistemas de transmisión en línea H04B 3/20; supresión de eco en teléfonos de manos libres H04M 9/08) [2013.01]"
+  },
+  {
+    "code": "G10L 21/0208",
+    "description": "••••Filtración del ruido [2013.01]"
+  },
+  {
+    "code": "G10L 21/0216",
+    "description": "••••••caracterizado por el método utilizado para la estimacion del ruido [2013.01]"
+  },
+  {
+    "code": "G10L 21/0224",
+    "description": "••••••••Procesado en el dominio del tiempo [2013.01]"
+  },
+  {
+    "code": "G10L 21/0232",
+    "description": "••••••••Procesado en el dominio de la frecuencia [2013.01]"
+  },
+  {
+    "code": "G10L 21/0264",
+    "description": "••••••caracterizado por el tipo de medición de parámetros, p. ej. técnicas de correlación, técnicas zero crossing o técnicas predictivas [2013.01]"
+  },
+  {
+    "code": "G10L 21/0272",
+    "description": "••••Separación de la señal de voz [2013.01]"
+  },
+  {
+    "code": "G10L 21/028",
+    "description": "••••••utilizando las propiedades de la fuente de sonido [2013.01]"
+  },
+  {
+    "code": "G10L 21/0308",
+    "description": "••••••caracterizado por el tipo de medición de parámetros, p. ej. técnicas de correlación, técnicas zero crossing o técnicas predictivas [2013.01]"
+  },
+  {
+    "code": "G10L 21/0316",
+    "description": "••••cambiando la amplitud [2013.01]"
+  },
+  {
+    "code": "G10L 21/0324",
+    "description": "••••••Detalles de su proceso [2013.01]"
+  },
+  {
+    "code": "G10L 21/0332",
+    "description": "••••••••implicando la modificación de las formas de onda [2013.01]"
+  },
+  {
+    "code": "G10L 21/034",
+    "description": "••••••••Ajuste automático [2013.01]"
+  },
+  {
+    "code": "G10L 21/0356",
+    "description": "••••••para sincronzación con otras señales, p. ej. señales de vídeo [2013.01]"
+  },
+  {
+    "code": "G10L 21/0364",
+    "description": "••••••para mejorar la intelegibilidad [2013.01]"
+  },
+  {
+    "code": "G10L 21/038",
+    "description": "••••utilizando técnicas de extensión de banda [2013.01]"
+  },
+  {
+    "code": "G10L 21/0388",
+    "description": "••••••Detalles de su proceso [2013.01]"
+  },
+  {
+    "code": "G10L 21/04",
+    "description": "••Compresión o expansión temporales [2013.01]"
+  },
+  {
+    "code": "G10L 21/043",
+    "description": "••••cambiando la velocidad [2013.01]"
+  },
+  {
+    "code": "G10L 21/045",
+    "description": "••••••utilizando dispersión o inserción de una forma de onda [2013.01]"
+  },
+  {
+    "code": "G10L 21/047",
+    "description": "••••••••caracterizado por el tipo de forma de onda a ser dispersada o insertada [2013.01]"
+  },
+  {
+    "code": "G10L 21/049",
+    "description": "••••••••caracterizado por la interconexión de las formas de onda [2013.01]"
+  },
+  {
+    "code": "G10L 21/055",
+    "description": "••••por sincronizar con otras señales, p. ej. señales de vídeo [2013.01]"
+  },
+  {
+    "code": "G10L 21/057",
+    "description": "••••para mejorar la intelegibilidad [2013.01]"
+  },
+  {
+    "code": "G10L 21/06",
+    "description": "••Transformación de la voz en una representación no audible, p. ej. visualización de la voz o tratamiento de la voz para ayudas táctiles (G10L 15/26 tiene prioridad) [2013.01]"
+  },
+  {
+    "code": "G10L 21/10",
+    "description": "••••Transformando en información visible [2013.01]"
+  },
+  {
+    "code": "G10L 21/12",
+    "description": "••••••mostrando la información en el dominio del tiempo [2013.01]"
+  },
+  {
+    "code": "G10L 21/14",
+    "description": "••••••mostrando la información en el dominio de la frecuencia [2013.01]"
+  },
+  {
+    "code": "G10L 21/16",
+    "description": "••••Transformando en una representación no visible (dispositivos o métodos para habilitar los oídos de los pacientes para sustituir una percepción auditiva directa por otro tipo de percepción A61F 11/04) [2013.01]"
+  },
+  {
+    "code": "G10L 21/18",
+    "description": "••••Detalles del proceso de transformacíon [2013.01]"
+  },
+  {
+    "code": "G10L 25/00",
+    "description": "Técnicas de análisis del habla o voz no restringidos a un solo de los grupos G10L 15/00-G10L 21/00 (silenciar los amplificadores basados en semiconductores, cuando algunas de las características especiales de una señal son detectadas por un detector de voz, p. ej. detectar cuando no hay ninguna señal,  H03G 3/34) [2013.01]"
+  },
+  {
+    "code": "G10L 25/03",
+    "description": "••caractericada por el tipo de parámetros extraídos [2013.01]"
+  },
+  {
+    "code": "G10L 25/06",
+    "description": "••••siendo los parámetros extraídos coeficientes de correlación [2013.01]"
+  },
+  {
+    "code": "G10L 25/09",
+    "description": "••••siendo los parámetros extraídos los ratios de cruce por cero [2013.01]"
+  },
+  {
+    "code": "G10L 25/12",
+    "description": "••••siendo los parámetros extraidos coeficientes de predicción [2013.01]"
+  },
+  {
+    "code": "G10L 25/15",
+    "description": "••••siendo los parámetros estraídos información de la estructura de la formación del habla [2013.01]"
+  },
+  {
+    "code": "G10L 25/18",
+    "description": "••••siendo los parámetros extraídos información espectral de cada una de las subbandas [2013.01]"
+  },
+  {
+    "code": "G10L 25/21",
+    "description": "••••siendo los parámetros estraídos información de potencia [2013.01]"
+  },
+  {
+    "code": "G10L 25/24",
+    "description": "••••siendo los parámetros extraídos el cepstrum [2013.01]"
+  },
+  {
+    "code": "G10L 25/27",
+    "description": "••caracterizadas por la técnica de análisis [2013.01]"
+  },
+  {
+    "code": "G10L 25/30",
+    "description": "••••utilizando redes neuronales [2013.01]"
+  },
+  {
+    "code": "G10L 25/33",
+    "description": "••••utilizando lógica difusa [2013.01]"
+  },
+  {
+    "code": "G10L 25/36",
+    "description": "••••utilizando teoría del caos [2013.01]"
+  },
+  {
+    "code": "G10L 25/39",
+    "description": "••••utilizando algoritmos genéticos [2013.01]"
+  },
+  {
+    "code": "G10L 25/45",
+    "description": "••caractericadas por el tipo de ventana de análisis [2013.01]"
+  },
+  {
+    "code": "G10L 25/48",
+    "description": "••espedialmente adaptadas para uso particular [2013.01]"
+  },
+  {
+    "code": "G10L 25/51",
+    "description": "••••para comparación o discriminación [2013.01]"
+  },
+  {
+    "code": "G10L 25/54",
+    "description": "••••••para recuperación [2013.01]"
+  },
+  {
+    "code": "G10L 25/57",
+    "description": "••••••para procesar las señales de vídeo [2013.01]"
+  },
+  {
+    "code": "G10L 25/60",
+    "description": "••••••para medir la calidad de las señales de voz [2013.01]"
+  },
+  {
+    "code": "G10L 25/63",
+    "description": "••••••para estimar un estado emocional [2013.01]"
+  },
+  {
+    "code": "G10L 25/66",
+    "description": "••••••para extraer parámetros relacionados con cuestiones de salud (detección y medidas para diagnóstico A61B 5/00) [2013.01]"
+  },
+  {
+    "code": "G10L 25/69",
+    "description": "••••para evaluar señales de voz sintéticas o decodificadas [2013.01]"
+  },
+  {
+    "code": "G10L 25/72",
+    "description": "••••para transmitir los resultados de los análisis [2013.01]"
+  },
+  {
+    "code": "G10L 25/75",
+    "description": "••para modelar parámetros de la cavidad vocal [2013.01]"
+  },
+  {
+    "code": "G10L 25/78",
+    "description": "••Detección de presencia o ausencia de señales de voz (con conmutación de dirección de transmisión por frecuencia vocal en sistemas telefónicas bidireccionales de altavoz H04M 9/10) [2013.01]"
+  },
+  {
+    "code": "G10L 25/81",
+    "description": "••••para discriminar voz de música [2013.01]"
+  },
+  {
+    "code": "G10L 25/84",
+    "description": "••••para discriminar voz de ruido [2013.01]"
+  },
+  {
+    "code": "G10L 25/87",
+    "description": "••••Detección de puntos discretos dentro de una señal de voz [2013.01]"
+  },
+  {
+    "code": "G10L 25/90",
+    "description": "••Detección del tono de una señal de habla [2013.01]"
+  },
+  {
+    "code": "G10L 25/93",
+    "description": "••Disciminación entre las partes con voz y sin voz de una señal de habla (G10L 25/90  tiene prioridad) [2013.01]"
+  },
+  {
+    "code": "G10L 99/00",
+    "description": "Materia no prevista en otros grupos de esta subclase [2013.01]"
+  }
+]

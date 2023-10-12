@@ -1,0 +1,782 @@
+[
+  {
+    "code": "B60T 1/00",
+    "description": "Instalaciones de los elementos de frenado, es decir, de partes de éstos en las que se produce el efecto de frenado [2006.01]"
+  },
+  {
+    "code": "B60T 1/02",
+    "description": "••actuando por ruedas retrasadoras [2006.01]"
+  },
+  {
+    "code": "B60T 1/04",
+    "description": "••••por acción directa sobre la banda de rodadura [2006.01]"
+  },
+  {
+    "code": "B60T 1/06",
+    "description": "••••por una acción que no sea sobre la banda de rodadura, p. ej. por acción sobre una llanta, un tambor, un disco o sobre la transmisión [2006.01]"
+  },
+  {
+    "code": "B60T 1/08",
+    "description": "••••por utilización de un fluido o de un agente pulverulento [2006.01]"
+  },
+  {
+    "code": "B60T 1/087",
+    "description": "••••••en retardadores hidrodinámicos, es decir, de desplazamiento no positivo [2006.01]"
+  },
+  {
+    "code": "B60T 1/093",
+    "description": "••••••en retardadores hidrostáticos, es decir, de desplazamiento positivo [2006.01]"
+  },
+  {
+    "code": "B60T 1/10",
+    "description": "••••por utilización del movimiento de ruedas para acumular la energía, p. ej. accionando compresores de aire (utilizando la instalación de propulsión como medio de frenado, ver la clase correspondiente) [2006.01]"
+  },
+  {
+    "code": "B60T 1/12",
+    "description": "••por acción que no sea retardando las ruedas, p. ej. reacción [2006.01]"
+  },
+  {
+    "code": "B60T 1/14",
+    "description": "••••por acción directa sobre la carretera (dispositivos portátiles, p. ej. tacos B60T 3/00) [2006.01]"
+  },
+  {
+    "code": "B60T 1/16",
+    "description": "••••por aumento de la resistencia del aire, p. ej. por flaps [2006.01]"
+  },
+  {
+    "code": "B60T 3/00",
+    "description": "Dispositivos portátiles para impedir el movimiento no deseado de un vehículo, p. ej. tacos [2006.01]"
+  },
+  {
+    "code": "B60T 5/00",
+    "description": "Modificaciones introducidas en los vehículos para facilitar la refrigeración de frenos [2006.01]"
+  },
+  {
+    "code": "B60T 7/00",
+    "description": "Organos de iniciación de la acción de los frenos [2006.01]"
+  },
+  {
+    "code": "B60T 7/02",
+    "description": "••por la acción de una persona [2006.01]"
+  },
+  {
+    "code": "B60T 7/04",
+    "description": "••••accionados con el pie [2006.01]"
+  },
+  {
+    "code": "B60T 7/06",
+    "description": "••••••Disposición del pedal [2006.01]"
+  },
+  {
+    "code": "B60T 7/08",
+    "description": "••••accionados a mano [2006.01]"
+  },
+  {
+    "code": "B60T 7/10",
+    "description": "••••••Disposición del mango de control [2006.01]"
+  },
+  {
+    "code": "B60T 7/12",
+    "description": "••por desencadenamiento automático; por desencadenamiento no sometido a la voluntad del conductor o del pasajero [2006.01]"
+  },
+  {
+    "code": "B60T 7/14",
+    "description": "••••provocados por desmayo del conductor [2006.01]"
+  },
+  {
+    "code": "B60T 7/16",
+    "description": "••••provocados por un control a distancia, es decir, medios de iniciación no montados sobre el vehículo [2006.01]"
+  },
+  {
+    "code": "B60T 7/18",
+    "description": "••••••accionados por un aparato sobre el borde de la carretera [2006.01]"
+  },
+  {
+    "code": "B60T 7/20",
+    "description": "••••especialmente para remolques, p. ej. en el caso de un desenganche (frenos de sobrevelocidad desencadenados por inercia B60T 13/08) [2006.01]"
+  },
+  {
+    "code": "B60T 7/22",
+    "description": "••••desencadenados por el contacto del vehículo, p. ej. del parachoques, con un obstáculo exterior, p. ej. otro vehículo [2006.01]"
+  },
+  {
+    "code": "B60T 8/00",
+    "description": "Disposiciones para adaptar la fuerza de frenado sobre la rueda a las condiciones propias del vehículo o al estado del suelo, p. ej. por limitación o variación de la fuerza de frenado (cambiando el número de cilindros de freno en acción en el sistema de frenado B60T 17/10) [2006.01]"
+  },
+  {
+    "code": "B60T 8/17",
+    "description": "••Utilización de medios de regulación eléctricos o electrónicos para el control de la frenada [2006.01]"
+  },
+  {
+    "code": "B60T 8/171",
+    "description": "••••Detección de parámetros utilizados en la regulación; Medición de valores utilizados en la regulación [2006.01]"
+  },
+  {
+    "code": "B60T 8/172",
+    "description": "••••Determinación de los parámetros de control utilizados para la regulación, p.ej. por cálculos que implican parámetros medidos o detectados [2006.01]"
+  },
+  {
+    "code": "B60T 8/173",
+    "description": "••••Eliminación o reducción del efecto de señales indeseadas, p.ej. debidas a ruidos eléctricos o a vibraciones [2006.01]"
+  },
+  {
+    "code": "B60T 8/174",
+    "description": "••••caracterizados por la utilización de lógicas particulares de control, p.ej. lógica difusa [2006.01]"
+  },
+  {
+    "code": "B60T 8/175",
+    "description": "••••Regulación de los frenos especialmente adaptada para prevenir el patinado excesivo de las ruedas durante la aceleración del vehículo, p.ej. por el control de la tracción [2006.01]"
+  },
+  {
+    "code": "B60T 8/1755",
+    "description": "••••Regulación de los frenos especialmente adaptada para el control de la estabilidad del vehículo, p.ej. teniendo en cuenta el ángulo de oscilación o la aceleración transversal al tomar una curva (sistemas de control de la estabilidad dinámica de los vehículos por otra forma que controlando una subunidad particular B60W 30/02) [2006.01]"
+  },
+  {
+    "code": "B60T 8/176",
+    "description": "••••Regulación de los frenos especialmente adaptada para prevención de un derrapaje excesivo de la rueda durante la deceleración, p.ej. ABS (B60T 8/1755 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B60T 8/1761",
+    "description": "••••••en función de la dinámica de la rueda o del freno, p.ej. del derrapaje de la rueda, de la aceleración de la rueda o de la tasa de variación de la presión del fluido de frenos [2006.01]"
+  },
+  {
+    "code": "B60T 8/1763",
+    "description": "••••••en función del coeficiente de rozamiento entre las ruedas y el suelo (B60T 8/1764 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B60T 8/1764",
+    "description": "••••••Regulación durante el desplazamiento sobre una superficie con varios coeficientes de rozamiento, p.ej. muy diferente entre el lado derecho e izquierdo [2006.01]"
+  },
+  {
+    "code": "B60T 8/1766",
+    "description": "••••••Ajuste de las fuerzas de frenado en función de las cargas sobre el eje del vehículo, p.ej. de delante a atrás del vehículo [2006.01]"
+  },
+  {
+    "code": "B60T 8/1769",
+    "description": "••••••especialmente adaptado para vehículos con más de un eje motriz, p.ej. vehículos con tracción a las cuatro ruedas [2006.01]"
+  },
+  {
+    "code": "B60T 8/18",
+    "description": "••que responden a la carga o peso del vehículo, p. ej. repartición de la carga (B60T 8/30 tiene prioridad; que responden a unas condiciones de peso y velocidad B60T 8/58) [2006.01]"
+  },
+  {
+    "code": "B60T 8/20",
+    "description": "••••con acción por etapas del control [2006.01]"
+  },
+  {
+    "code": "B60T 8/22",
+    "description": "••••con acción continua del control [2006.01]"
+  },
+  {
+    "code": "B60T 8/24",
+    "description": "••que responden a la inclinación del vehículo o su cambio de dirección, p. ej. en un viraje [2006.01]"
+  },
+  {
+    "code": "B60T 8/26",
+    "description": "••caracterizadas por una fuerza de frenado diferencial entre las ruedas delanteras y traseras [2006.01]"
+  },
+  {
+    "code": "B60T 8/28",
+    "description": "••••según la deceleración [2006.01]"
+  },
+  {
+    "code": "B60T 8/30",
+    "description": "••••según la carga [2006.01]"
+  },
+  {
+    "code": "B60T 8/32",
+    "description": "••que responden a una condición de velocidad, p. ej. aceleración o deceleración (B60T 8/28 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B60T 8/34",
+    "description": "••••teniendo un regulador de presión fluido que responde a una condición de velocidad [2006.01]"
+  },
+  {
+    "code": "B60T 8/36",
+    "description": "••••••teniendo una válvula piloto que responde a una fuerza electromagnética [2006.01]"
+  },
+  {
+    "code": "B60T 8/38",
+    "description": "••••••teniendo válvulas del tipo controladas por un relé o asistidas [2006.01]"
+  },
+  {
+    "code": "B60T 8/40",
+    "description": "••••••teniendo un circuito de fluido adicional que incluye medios de presurización del fluido para modificar la presión del fluido de frenado, p. ej. teniendo bombas accionadas por las ruedas para detectar una condición relativa a la velocidad, o de bombas controladas por medios independientes al sistema de frenado [2006.01]"
+  },
+  {
+    "code": "B60T 8/42",
+    "description": "••••••teniendo cámaras de expansión para controlar la presión [2006.01]"
+  },
+  {
+    "code": "B60T 8/44",
+    "description": "••••••que cooperan con un servomotor asociado a un cilindro maestro para controlar la liberación o reaplicación de la presión de frenado por una interacción con el servomotor [2006.01]"
+  },
+  {
+    "code": "B60T 8/46",
+    "description": "••••••Siendo la presión reducida por la evacuación de fluido [2006.01]"
+  },
+  {
+    "code": "B60T 8/48",
+    "description": "••••••poniendo en comunicación el órgano de acción de frenado con una fuente de presión adicional o alternativa [2006.01]"
+  },
+  {
+    "code": "B60T 8/50",
+    "description": "••••••teniendo medios para controlar el valor al cual se reaplica la presión al freno [2006.01]"
+  },
+  {
+    "code": "B60T 8/52",
+    "description": "••••Detección del par, es decir, que la fuerza de frenado se controla por las fuerzas que provocan o susceptibles de provocar un movimiento de torsión o de rotación sobre un elemento rotativo frenado [2006.01]"
+  },
+  {
+    "code": "B60T 8/54",
+    "description": "••••por medios mecánicos [2006.01]"
+  },
+  {
+    "code": "B60T 8/56",
+    "description": "••••teniendo medios para cambiar el coeficiente de fricción [2006.01]"
+  },
+  {
+    "code": "B60T 8/58",
+    "description": "••••que responden a una condición de velocidad y otra condición, o según varias condiciones de velocidad [2006.01]"
+  },
+  {
+    "code": "B60T 8/60",
+    "description": "••••••utilizando un circuito eléctrico para controlar la acción de frenado, el circuito genera una función de control relativa a la dinámica de la rueda o de los vehículos frenados [2006.01]"
+  },
+  {
+    "code": "B60T 8/62",
+    "description": "••••••••Las ruedas individuales del vehículo tienen (i) sistemas de frenado autónomos que actúan sobre las ruedas individuales según su estado dinámico o (ii) una unidad central de proceso que recibe señales de entrada de las ruedas individuales o de los grupos de ruedas que producen unas señales de control para accionar separadamente las ruedas o los grupos de ruedas [2006.01]"
+  },
+  {
+    "code": "B60T 8/64",
+    "description": "••••••••La acción de control de frenado se caracteriza por la forma en que la presión del fluido de frenado se reduce o se reaplica [2006.01]"
+  },
+  {
+    "code": "B60T 8/66",
+    "description": "••••••••La acción de frenado responde a la diferencia entre una velocidad teórica computada y la velocidad real de la rueda [2006.01]"
+  },
+  {
+    "code": "B60T 8/68",
+    "description": "••••••••••La acción de frenado está controlada por la diferencia entre la tasa de variación de la velocidad del vehículo y la de la rueda [2006.01]"
+  },
+  {
+    "code": "B60T 8/70",
+    "description": "••••••••••detectando a la vez la aceleración y la deceleración del vehículo o de la rueda [2006.01]"
+  },
+  {
+    "code": "B60T 8/72",
+    "description": "••••que responde a la diferencia entre una condición de velocidad, p. ej. deceleración, y a una referencia fija (B60T 8/66 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B60T 8/74",
+    "description": "••••••detectando una tasa de variación de velocidad [2006.01]"
+  },
+  {
+    "code": "B60T 8/76",
+    "description": "••••••dos o más medios de detección sobre ruedas diferentes indican el mismo tipo de condición de velocidad [2006.01]"
+  },
+  {
+    "code": "B60T 8/78",
+    "description": "••••••utilizando un circuito eléctrico para controlar la acción de frenado, el circuito genera una función de control relativa a la dinámica de la rueda o del vehículo frenado [2006.01]"
+  },
+  {
+    "code": "B60T 8/80",
+    "description": "••••••••medios que detectan una tasa de variación de velocidad [2006.01]"
+  },
+  {
+    "code": "B60T 8/82",
+    "description": "••••••••dos o más medios de detección sobre ruedas diferentes indican el mismo tipo de condición de velocidad [2006.01]"
+  },
+  {
+    "code": "B60T 8/84",
+    "description": "••••••••dos ruedas o grupos de ruedas se controlan en función del comportamiento de una rueda o grupo de ruedas, con medios para cambiar la rueda de referencia, p. ej. operación \"select high, select low\" [2006.01]"
+  },
+  {
+    "code": "B60T 8/86",
+    "description": "••••Los frenos se aplican automáticamente según una condición de velocidad y teniendo medios para sobrepasar el dispositivo de frenado automático en caso de patinado [2006.01]"
+  },
+  {
+    "code": "B60T 8/88",
+    "description": "••••con medios que responden a un fallo, es decir medios para detectar o indicar un funcionamiento defectuoso de los medios de control que responden a la condición de velocidad [2006.01]"
+  },
+  {
+    "code": "B60T 8/90",
+    "description": "••••••utilizando una señal de velocidad simulada para verificar los medios de control que responden a la velocidad [2006.01]"
+  },
+  {
+    "code": "B60T 8/92",
+    "description": "••••••con acción correctiva automática [2006.01]"
+  },
+  {
+    "code": "B60T 8/94",
+    "description": "••••••••sobre un regulador de presión de fluido [2006.01]"
+  },
+  {
+    "code": "B60T 8/96",
+    "description": "••••••••sobre medios de control que responden a la velocidad [2006.01]"
+  },
+  {
+    "code": "B60T 10/00",
+    "description": "Control o regulación de ralentizadores que utilizan un fluido o un agente pulverulento, p. ej. para utilizarse en el descenso de una pendiente larga [2006.01]"
+  },
+  {
+    "code": "B60T 10/02",
+    "description": "••con freno hidrodinámico [2006.01]"
+  },
+  {
+    "code": "B60T 10/04",
+    "description": "••con freno hidrostático [2006.01]"
+  },
+  {
+    "code": "B60T 11/00",
+    "description": "Transmisión de la acción de frenado entre el órgano de iniciación y los órganos terminales de acción, en la cual la transmisión no es ni asistida ni mediante relé de potencia, o en la cual tal asistencia o tal relé no son esenciales [2006.01]"
+  },
+  {
+    "code": "B60T 11/04",
+    "description": "••mecánico [2006.01]"
+  },
+  {
+    "code": "B60T 11/06",
+    "description": "••••Dispositivos de repartición [2006.01]"
+  },
+  {
+    "code": "B60T 11/08",
+    "description": "••••por medio de un sistema de palancas variables [2006.01]"
+  },
+  {
+    "code": "B60T 11/10",
+    "description": "••Transmisión por fluido, p. ej. hidráulico [2006.01]"
+  },
+  {
+    "code": "B60T 11/12",
+    "description": "••••en la que la fuerza transmitida varía (B60T 11/16-B60T 11/28 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "B60T 11/14",
+    "description": "••••quedando la fuerza transmitida sensiblemente constante [2006.01]"
+  },
+  {
+    "code": "B60T 11/16",
+    "description": "••••Control principal, p. ej. cilindros principales [2006.01]"
+  },
+  {
+    "code": "B60T 11/18",
+    "description": "••••••Su conexión con el órgano de iniciación [2006.01]"
+  },
+  {
+    "code": "B60T 11/20",
+    "description": "••••••Cilindros principales en tándem, codo a codo, o dispuestos de otro modo [2006.01]"
+  },
+  {
+    "code": "B60T 11/21",
+    "description": "••••••••de dos pedales actuando sobre circuitos respectivos, en los cuales las presiones se igualan cuando los dos pedales son accionados conjuntamente, p. ej. para controles de dirección [2006.01]"
+  },
+  {
+    "code": "B60T 11/22",
+    "description": "••••••caracterizada por su integración al depósito [2006.01]"
+  },
+  {
+    "code": "B60T 11/224",
+    "description": "••••••con medios para hacer variar la presión, p. ej. por un funcionamiento en dos etapas obtenido mediante la utilización de diferentes diámetros de pistón, o por la utilización de una variación continua de diámetro de pistón [2006.01]"
+  },
+  {
+    "code": "B60T 11/228",
+    "description": "••••••Disposiciones para mantener la presión, p. ej. para el llenado de la cámara del cilindro maestro con el fluido procedente de un depósito (B60T 11/232 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B60T 11/232",
+    "description": "••••••Válvulas de recuperación [2006.01]"
+  },
+  {
+    "code": "B60T 11/236",
+    "description": "••••••Disposiciones para la estanqueidad del pistón [2006.01]"
+  },
+  {
+    "code": "B60T 11/24",
+    "description": "••••Organo único de iniciación que actúa sobre más de un circuito, p. ej. sobre un circuito doble (cilindros principales múltiples B60T 11/20) [2006.01]"
+  },
+  {
+    "code": "B60T 11/26",
+    "description": "••••Depósitos (integrados al control principal B60T 11/22) [2006.01]"
+  },
+  {
+    "code": "B60T 11/28",
+    "description": "••••Válvulas especialmente adaptadas a este efecto (válvulas de recuperación B60T 11/232) [2006.01]"
+  },
+  {
+    "code": "B60T 11/30",
+    "description": "••••••Válvulas de purga para sistemas de frenos hidráulicos [2006.01]"
+  },
+  {
+    "code": "B60T 11/32",
+    "description": "••••••Válvulas automáticas de corte en caso de fallos de tuberías [2006.01]"
+  },
+  {
+    "code": "B60T 11/34",
+    "description": "••••••Válvulas que reducen o limitan la presión [2006.01]"
+  },
+  {
+    "code": "B60T 13/00",
+    "description": "Transmisión de la acción de frenado entre el órgano de iniciación y los órganos terminales de acción, con potencia de frenado asistida o con relé de potencia; Sistemas de frenos que incluyen esos medios de transmisión, p. ej. sistemas de frenado de presión de aire [2006.01]"
+  },
+  {
+    "code": "B60T 13/02",
+    "description": "••con asistencia o accionamiento mecánico [2006.01]"
+  },
+  {
+    "code": "B60T 13/04",
+    "description": "••••por resorte o por peso (desencadenamiento por fluido B60T 13/10) [2006.01]"
+  },
+  {
+    "code": "B60T 13/06",
+    "description": "••••por inercia, p. ej. por volante [2006.01]"
+  },
+  {
+    "code": "B60T 13/08",
+    "description": "••••••Frenos de embalamiento [2006.01]"
+  },
+  {
+    "code": "B60T 13/10",
+    "description": "••con asistencia, accionamiento o desencadenamiento por fluido [2006.01]"
+  },
+  {
+    "code": "B60T 13/12",
+    "description": "••••siendo el fluido un líquido [2006.01]"
+  },
+  {
+    "code": "B60T 13/122",
+    "description": "••••••Sistemas que usan un cilindro principal y una válvula distribuidora; Asociación estructural de un cilindro principal con una válvula distribuidora [2006.01]"
+  },
+  {
+    "code": "B60T 13/125",
+    "description": "••••••Sistemas que usan una válvula reguladora de la presión del freno sin un cilindro principal [2006.01]"
+  },
+  {
+    "code": "B60T 13/128",
+    "description": "••••••Sistemas que usan una bomba hidráulica combinada con un cilindro principal [2006.01]"
+  },
+  {
+    "code": "B60T 13/13",
+    "description": "••••••••con potencia hidráulica adicional directa desde la bomba hasta el circuito del freno [2006.01]"
+  },
+  {
+    "code": "B60T 13/132",
+    "description": "••••••Sistemas que usan una bomba accionada por energía mecánica, p. ej. cilindro principal [2006.01]"
+  },
+  {
+    "code": "B60T 13/135",
+    "description": "••••••bombas caracterizadas por una válvula de control en el pistón [2006.01]"
+  },
+  {
+    "code": "B60T 13/138",
+    "description": "••••••Medios de presión accesorios [2006.01]"
+  },
+  {
+    "code": "B60T 13/14",
+    "description": "••••••••que utilizan acumuladores o depósitos [2006.01]"
+  },
+  {
+    "code": "B60T 13/16",
+    "description": "••••••••que utilizan directamente bombas, es decir, sin interposición de acumuladores o de depósitos [2006.01]"
+  },
+  {
+    "code": "B60T 13/18",
+    "description": "••••••••••con control del flujo de salida de las bombas [2006.01]"
+  },
+  {
+    "code": "B60T 13/20",
+    "description": "••••••••••con control de los medios de accionamiento de las bombas [2006.01]"
+  },
+  {
+    "code": "B60T 13/22",
+    "description": "••••••Frenos aplicados por resortes o pesos y desencadenadas hidráulicamente [2006.01]"
+  },
+  {
+    "code": "B60T 13/24",
+    "description": "••••siendo el fluido un gas [2006.01]"
+  },
+  {
+    "code": "B60T 13/26",
+    "description": "••••••Sistemas de aire comprimido [2006.01]"
+  },
+  {
+    "code": "B60T 13/36",
+    "description": "••••••••directos, es decir, frenos accionados directamente por el aire comprimido [2006.01]"
+  },
+  {
+    "code": "B60T 13/38",
+    "description": "••••••••en los que los frenos accionados por resortes o pesos son desencadenados por aire comprimido [2006.01]"
+  },
+  {
+    "code": "B60T 13/40",
+    "description": "••••••••indirectos, es decir, amplificadores de aire comprimido [2006.01]"
+  },
+  {
+    "code": "B60T 13/44",
+    "description": "••••••••••con amplificadores de dos cámaras [2006.01]"
+  },
+  {
+    "code": "B60T 13/45",
+    "description": "••••••••••con varios amplificadores, p. ej. amplificadores en tándem [2006.01]"
+  },
+  {
+    "code": "B60T 13/46",
+    "description": "••••••Sistemas de vacío [2006.01]"
+  },
+  {
+    "code": "B60T 13/48",
+    "description": "••••••••directos, es decir, frenos accionados directamente por el vacío [2006.01]"
+  },
+  {
+    "code": "B60T 13/50",
+    "description": "••••••••en los que los frenos accionados por resortes o pesos son desencadenados por el vacío [2006.01]"
+  },
+  {
+    "code": "B60T 13/52",
+    "description": "••••••••indirectos, es decir, amplificadores de vacío [2006.01]"
+  },
+  {
+    "code": "B60T 13/56",
+    "description": "••••••••••con amplificadores de dos cámaras [2006.01]"
+  },
+  {
+    "code": "B60T 13/563",
+    "description": "••••••••••con varios amplificadores, p. ej. amplificadores en tándem [2006.01]"
+  },
+  {
+    "code": "B60T 13/565",
+    "description": "••••••••••caracterizados por el hecho de estar asociados a los cilindros maestros, p. ej. formados de una sola pieza [2006.01]"
+  },
+  {
+    "code": "B60T 13/567",
+    "description": "••••••••••caracterizados por particularidades de la estructura de la caja o por sus disposiciones de refuerzo o de montaje [2006.01]"
+  },
+  {
+    "code": "B60T 13/569",
+    "description": "••••••••••caracterizados por detalles del pistón, p. ej. estructura, montaje del diafragma [2006.01]"
+  },
+  {
+    "code": "B60T 13/57",
+    "description": "••••••••••caracterizados por particularidades de la estructura de las válvulas de control [2006.01]"
+  },
+  {
+    "code": "B60T 13/573",
+    "description": "••••••••••caracterizados por dispositivos de reacción [2006.01]"
+  },
+  {
+    "code": "B60T 13/575",
+    "description": "••••••••••••utilizando discos o cojinetes elásticos [2006.01]"
+  },
+  {
+    "code": "B60T 13/577",
+    "description": "••••••••••••utilizando palancas [2006.01]"
+  },
+  {
+    "code": "B60T 13/58",
+    "description": "••••Sistemas combinados o transformables [2006.01]"
+  },
+  {
+    "code": "B60T 13/60",
+    "description": "••••••que utilizan a la vez un fluido bajo presión y el vacío [2006.01]"
+  },
+  {
+    "code": "B60T 13/62",
+    "description": "••••••a la vez directos e indirectos [2006.01]"
+  },
+  {
+    "code": "B60T 13/64",
+    "description": "••••••a la vez de una y de varias cámaras, p. ej. de una cámara y en tándem [2006.01]"
+  },
+  {
+    "code": "B60T 13/66",
+    "description": "••••Control eléctrico de los sistemas de frenos de fluido bajo presión [2006.01]"
+  },
+  {
+    "code": "B60T 13/68",
+    "description": "••••••por válvulas controladas eléctricamente [2006.01]"
+  },
+  {
+    "code": "B60T 13/70",
+    "description": "••••••por interruptores controlados por un fluido [2006.01]"
+  },
+  {
+    "code": "B60T 13/72",
+    "description": "••••••en sistemas que utilizan el vacío [2006.01]"
+  },
+  {
+    "code": "B60T 13/74",
+    "description": "••con accionamiento o asistencia eléctrica [2006.01]"
+  },
+  {
+    "code": "B60T 15/00",
+    "description": "Estructura, disposición o funcionamiento de válvulas incorporadas en los sistemas de frenos asistidos y no cubiertos por los grupos B60T 11/00o B60T 13/00 (válvulas que responden a una condición de velocidad B60T 8/34) [2006.01]"
+  },
+  {
+    "code": "B60T 15/02",
+    "description": "••Válvulas de aplicación y de soltado de frenos [2006.01]"
+  },
+  {
+    "code": "B60T 15/04",
+    "description": "••••Válvulas accionadas por el conductor [2006.01]"
+  },
+  {
+    "code": "B60T 15/06",
+    "description": "••••••Válvula accionada por el conductor única para frenos de presión sin control automático [2006.01]"
+  },
+  {
+    "code": "B60T 15/08",
+    "description": "••••••Válvula accionada por el conductor para frenos de presión que tienen un control automático [2006.01]"
+  },
+  {
+    "code": "B60T 15/10",
+    "description": "••••••para frenos que utilizan el vacío [2006.01]"
+  },
+  {
+    "code": "B60T 15/12",
+    "description": "••••••combinadas con válvulas-relé o similares [2006.01]"
+  },
+  {
+    "code": "B60T 15/14",
+    "description": "••••••que actúan sobre dispositivos de control eléctrico [2006.01]"
+  },
+  {
+    "code": "B60T 15/16",
+    "description": "••••••Instalaciones que permiten a los sistemas ser controlados desde dos o más lugares [2006.01]"
+  },
+  {
+    "code": "B60T 15/18",
+    "description": "••••Válvulas-relé triples u otras que permiten la aplicación o el soltado por etapas y que son accionadas por la variación de presión en la tubería de freno que enlaza los cilindros de freno u órganos equivalentes a la fuente de aire comprimido, al vacío o a la atmósfera [2006.01]"
+  },
+  {
+    "code": "B60T 15/20",
+    "description": "••••••controladas por dos presiones de fluido [2006.01]"
+  },
+  {
+    "code": "B60T 15/22",
+    "description": "••••••••con una o varias válvulas auxiliares, por frenado, soltado, llenado de depósitos [2006.01]"
+  },
+  {
+    "code": "B60T 15/24",
+    "description": "••••••controladas por tres presiones de fluido [2006.01]"
+  },
+  {
+    "code": "B60T 15/26",
+    "description": "••••••••sin acción de frenado brusco [2006.01]"
+  },
+  {
+    "code": "B60T 15/28",
+    "description": "••••••••••y que tienen válvulas auxiliares [2006.01]"
+  },
+  {
+    "code": "B60T 15/30",
+    "description": "••••••••con una brusca acción de frenado [2006.01]"
+  },
+  {
+    "code": "B60T 15/32",
+    "description": "••••••••••y que tienen válvulas auxiliares [2006.01]"
+  },
+  {
+    "code": "B60T 15/34",
+    "description": "••••••controladas alternativamente por dos o tres presiones de fluido [2006.01]"
+  },
+  {
+    "code": "B60T 15/36",
+    "description": "••••Otros dispositivos de controles o válvulas caracterizadas por funciones definidas [2006.01]"
+  },
+  {
+    "code": "B60T 15/38",
+    "description": "••••••para arranque rápido y frenado potente, p. ej. con depósitos auxiliares para evitar los tiempos muertos [2006.01]"
+  },
+  {
+    "code": "B60T 15/40",
+    "description": "••••••••con cilindros separados de cebado y de aplicación [2006.01]"
+  },
+  {
+    "code": "B60T 15/42",
+    "description": "••••••con acción de frenado rápido, es decir, con válvulas de aceleración accionadas por la variación de presión en la tubería de freno [2006.01]"
+  },
+  {
+    "code": "B60T 15/44",
+    "description": "••••••••y que actúan independientemente del dispositivo principal de control [2006.01]"
+  },
+  {
+    "code": "B60T 15/46",
+    "description": "••••••que retardan la acción de frenado para impedir a los vehículos traseros de un remolque que sobrepasen a los de cabeza [2006.01]"
+  },
+  {
+    "code": "B60T 15/48",
+    "description": "••••••para llenado de depósitos [2006.01]"
+  },
+  {
+    "code": "B60T 15/50",
+    "description": "••••••••con medios de limitar o reducir la presión en los depósitos [2006.01]"
+  },
+  {
+    "code": "B60T 15/52",
+    "description": "••••••para desencadenado rápido de frenos, p. ej. influyendo sobre la contrapresión en la válvula triple o reenviando el aire del depósito o del cilindro de freno a la tubería de freno [2006.01]"
+  },
+  {
+    "code": "B60T 15/54",
+    "description": "••••••para control del escape de la válvula triple o del cilindro de freno [2006.01]"
+  },
+  {
+    "code": "B60T 15/56",
+    "description": "••••••para llenado de los depósitos por medio de una tubería secundaria de alimentación [2006.01]"
+  },
+  {
+    "code": "B60T 15/58",
+    "description": "••••••para dar impulsos de control con ayuda de una tubería de aire secundario [2006.01]"
+  },
+  {
+    "code": "B60T 15/60",
+    "description": "••••••para soltar o aplicar los frenos cuando los vehículos de un tren de vehículos son desenganchados [2006.01]"
+  },
+  {
+    "code": "B60T 17/00",
+    "description": "Elementos, partes constitutivas o accesorios de sistemas de frenos no cubiertos por los grupos B60T 8/00, B60T 13/00o B60T 15/00, o que presentan otras características interesantes [2006.01]"
+  },
+  {
+    "code": "B60T 17/02",
+    "description": "••Disposición de bombas, compresores o de sus dispositivos de control [2006.01]"
+  },
+  {
+    "code": "B60T 17/04",
+    "description": "••Disposición de tuberías, válvulas de tuberías, p. ej. válvulas de corte, acoplamiento de tubos flexibles [2006.01]"
+  },
+  {
+    "code": "B60T 17/06",
+    "description": "••Empleo o disposición de depósitos [2006.01]"
+  },
+  {
+    "code": "B60T 17/08",
+    "description": "••Cilindros de frenos diferentes de los cilindros de acción terminal [2006.01]"
+  },
+  {
+    "code": "B60T 17/10",
+    "description": "••••Dos o más cilindros que actúan sobre el mismo freno con dispositivos que permiten ponerlos selectivamente o sucesivamente en servicio, siendo variable el número de cilindros en servicio [2006.01]"
+  },
+  {
+    "code": "B60T 17/12",
+    "description": "••••••según el peso del vehículo [2006.01]"
+  },
+  {
+    "code": "B60T 17/14",
+    "description": "••••••según la velocidad del vehículo [2006.01]"
+  },
+  {
+    "code": "B60T 17/16",
+    "description": "••••Cierre de los cilindros de freno [2006.01]"
+  },
+  {
+    "code": "B60T 17/18",
+    "description": "••Dispositivos de seguridad; Vigilancia [2006.01]"
+  },
+  {
+    "code": "B60T 17/20",
+    "description": "••••Dispositivos de seguridad que pueden ser accionados por pasajeros que no sean el conductor [2006.01]"
+  },
+  {
+    "code": "B60T 17/22",
+    "description": "••••Dispositivos para vigilar o verificar los sistemas de frenos; Dispositivos de señalización [2006.01]"
+  }
+]

@@ -1,0 +1,582 @@
+[
+  {
+    "code": "G01L 1/00",
+    "description": "Medida de fuerzas o tensiones, en general (medida de la fuerza producida por un choque G01L 5/00) [2006.01]"
+  },
+  {
+    "code": "G01L 1/02",
+    "description": "••por medios hidráulicos o neumáticos [2006.01]"
+  },
+  {
+    "code": "G01L 1/04",
+    "description": "••midiendo la deformación elástica de calibres, p. ej. de resortes [2006.01]"
+  },
+  {
+    "code": "G01L 1/06",
+    "description": "••midiendo la deformación permanente de calibres, p. ej. de cuerpos comprimidos [2006.01]"
+  },
+  {
+    "code": "G01L 1/08",
+    "description": "••por el empleo de fuerzas de equilibrio [2006.01]"
+  },
+  {
+    "code": "G01L 1/10",
+    "description": "••midiendo las variaciones de frecuencia de elementos vibrantes sometidos a una tensión, p. ej. cuerdas en tensión (utilizando calibres de sujeción de resistencia G01L 1/22) [2006.01]"
+  },
+  {
+    "code": "G01L 1/12",
+    "description": "••midiendo las variaciones de las propiedades magnéticas de un material, que resultan de la aplicación de un esfuerzo [2006.01]"
+  },
+  {
+    "code": "G01L 1/14",
+    "description": "••midiendo las variaciones de la capacidad o de la inductancia de los elementos eléctricos, p. ej. midiendo las variaciones de frecuencia de los osciladores eléctricos [2006.01]"
+  },
+  {
+    "code": "G01L 1/16",
+    "description": "••utilizando las propiedades de los dispositivos piezoeléctricos [2006.01]"
+  },
+  {
+    "code": "G01L 1/18",
+    "description": "••utilizando las propiedades de los materiales piezorresistentes, es decir, de los materiales cuya resistencia óhmica varía siguiendo las modificaciones de la amplitud o de la dirección de la fuerza aplicada al material [2006.01]"
+  },
+  {
+    "code": "G01L 1/20",
+    "description": "••midiendo las variaciones de la resistencia óhmica de materiales sólidos o fluidos conductores de electricidad (de materiales piezorresistentes G01L 1/18); haciendo uso de células electrocinéticas, es decir, células que contienen un líquido en las que un potencial eléctrico es producido o modificado por la aplicación de una incitación [2006.01]"
+  },
+  {
+    "code": "G01L 1/22",
+    "description": "••••utilizando calibres de sujeción de resistencia [2006.01]"
+  },
+  {
+    "code": "G01L 1/24",
+    "description": "••midiendo las variaciones de las propiedades ópticas del material cuando está sometido a una sujeción, p. ej. por el análisis de la incitación por fotoelasticidad [2006.01]"
+  },
+  {
+    "code": "G01L 1/25",
+    "description": "••por utilización de radiaciones (ondas o partículas), p. ej. rayos X, neutrones (G01L 1/24 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01L 1/26",
+    "description": "••Medidas auxiliares tomadas, dispositivos utilizados en relación con la medida de fuerzas, p. ej. para impedir la influencia de las componentes transversales de la fuerza, para impedir la sobrecarga [2006.01]"
+  },
+  {
+    "code": "G01L 3/00",
+    "description": "Medida del par, del trabajo, de la potencia o del rendimiento mecánico en general [2006.01]"
+  },
+  {
+    "code": "G01L 3/02",
+    "description": "••Dinamómetros de transmisión rotativos [2006.01]"
+  },
+  {
+    "code": "G01L 3/04",
+    "description": "••••en los cuales el elemento que transmite el par contiene un árbol elástico en torsión [2006.01]"
+  },
+  {
+    "code": "G01L 3/06",
+    "description": "••••••que implican medios mecánicos de indicación [2006.01]"
+  },
+  {
+    "code": "G01L 3/08",
+    "description": "••••••que implican medios ópticos de indicación [2006.01]"
+  },
+  {
+    "code": "G01L 3/10",
+    "description": "••••••que implican medios eléctricos o magnéticos de indicación [2006.01]"
+  },
+  {
+    "code": "G01L 3/12",
+    "description": "••••••••que implican medios fotoeléctricos [2006.01]"
+  },
+  {
+    "code": "G01L 3/14",
+    "description": "••••en los cuales el elemento transmisor del par es distinto a un árbol elástico en torsión [2006.01]"
+  },
+  {
+    "code": "G01L 3/16",
+    "description": "••Dinamómetros de absorción rotativos, p. ej. del tipo freno [2006.01]"
+  },
+  {
+    "code": "G01L 3/18",
+    "description": "••••accionados mecánicamente [2006.01]"
+  },
+  {
+    "code": "G01L 3/20",
+    "description": "••••accionados por un fluido [2006.01]"
+  },
+  {
+    "code": "G01L 3/22",
+    "description": "••••accionados eléctricamente o magnéticamente [2006.01]"
+  },
+  {
+    "code": "G01L 3/24",
+    "description": "••Dispositivos para determinar el valor de la potencia, p. ej. midiendo y multiplicando simultáneamente los valores del par por el número de vueltas por unidad de tiempos, multiplicando los valores de la fuerza de tracción o propulsiva por la velocidad [2006.01]"
+  },
+  {
+    "code": "G01L 3/26",
+    "description": "••Dispositivos para medir el rendimiento, es decir, la relación de la potencia de salida a la potencia de entrada [2006.01]"
+  },
+  {
+    "code": "G01L 5/00",
+    "description": "Aparatos o métodos para la medida de fuerzas, del trabajo, de la potencia mecánica o del par, especialmente adaptados a fines específicos [2006.01]"
+  },
+  {
+    "code": "G01L 5/03",
+    "description": "••para medir la fuerza de desenganche de las ataduras de seguridad de los esquíes [2006.01]"
+  },
+  {
+    "code": "G01L 5/04",
+    "description": "••para medir la tensión en los cordajes, cables, hilos metálicos, correas o bandas [2006.01]"
+  },
+  {
+    "code": "G01L 5/06",
+    "description": "••••utilizando medios mecánicos [2006.01]"
+  },
+  {
+    "code": "G01L 5/08",
+    "description": "••••utilizando medios hidráulicos [2006.01]"
+  },
+  {
+    "code": "G01L 5/10",
+    "description": "••••que usan medios eléctricos [2020.01]"
+  },
+  {
+    "code": "G01L 5/101",
+    "description": "••••••que usan sensores insertados en el miembro flexible [2020.01]"
+  },
+  {
+    "code": "G01L 5/102",
+    "description": "••••••que usan sensores ubicados en una parte no interrumpida del miembro flexible [2020.01]"
+  },
+  {
+    "code": "G01L 5/103",
+    "description": "••••••que usan sensores fijados en un extremo del miembro flexible [2020.01]"
+  },
+  {
+    "code": "G01L 5/105",
+    "description": "••••••que usan medios electroópticos [2020.01]"
+  },
+  {
+    "code": "G01L 5/106",
+    "description": "••••••para medir una fuerza de reacción aplicada en una viga en voladizo [2020.01]"
+  },
+  {
+    "code": "G01L 5/107",
+    "description": "••••••para medir una fuerza de reacción aplicada sobre un elemento dispuesto entre dos soportes, p.ej. en una pluralidad de rodillos o planeadores [2020.01]"
+  },
+  {
+    "code": "G01L 5/108",
+    "description": "••••••para medir una fuerza de reacción aplicada en un solo soporte, p.ej. un planeador [2020.01]"
+  },
+  {
+    "code": "G01L 5/12",
+    "description": "••para la medida del empuje axial de un eje que gira, p. ej. de equipos de propulsión [2006.01]"
+  },
+  {
+    "code": "G01L 5/13",
+    "description": "••para la medida de la potencia de tracción o propulsiva de vehículos [2006.01]"
+  },
+  {
+    "code": "G01L 5/14",
+    "description": "••para la medida de la fuerza de las explosiones; para la medida de la energía de los proyectiles [2006.01]"
+  },
+  {
+    "code": "G01L 5/16",
+    "description": "••para la medida de varios componentes de la fuerza [2020.01]"
+  },
+  {
+    "code": "G01L 5/161",
+    "description": "••••que usan variaciones en la resistencia óhmica [2020.01]"
+  },
+  {
+    "code": "G01L 5/162",
+    "description": "••••••de piezoresistores [2020.01]"
+  },
+  {
+    "code": "G01L 5/1623",
+    "description": "••••••de conductores sensibles a la presión (que usan piezoresistores G01L 5/162) [2020.01]"
+  },
+  {
+    "code": "G01L 5/1627",
+    "description": "••••••de galgas extensométricas (que usan piezoresistores G01L 5/162) [2020.01]"
+  },
+  {
+    "code": "G01L 5/163",
+    "description": "••••••de potenciómetros [2020.01]"
+  },
+  {
+    "code": "G01L 5/164",
+    "description": "••••que usan variaciones en inductancia [2020.01]"
+  },
+  {
+    "code": "G01L 5/165",
+    "description": "••••que usan variaciones en capacitancia [2020.01]"
+  },
+  {
+    "code": "G01L 5/166",
+    "description": "••••que usan medios fotoeléctricos [2020.01]"
+  },
+  {
+    "code": "G01L 5/167",
+    "description": "••••que usan medios piezoeléctricos [2020.01]"
+  },
+  {
+    "code": "G01L 5/168",
+    "description": "••••que usan fuerzas de contrapeso [2020.01]"
+  },
+  {
+    "code": "G01L 5/169",
+    "description": "••••que usan medios magnéticos [2020.01]"
+  },
+  {
+    "code": "G01L 5/171",
+    "description": "••••que usan medios fluidos [2020.01]"
+  },
+  {
+    "code": "G01L 5/173",
+    "description": "••••que usan medios acústicos [2020.01]"
+  },
+  {
+    "code": "G01L 5/18",
+    "description": "••para la medida de relaciones de fuerza [2006.01]"
+  },
+  {
+    "code": "G01L 5/20",
+    "description": "••para la medida del empuje lateral de las ruedas [2006.01]"
+  },
+  {
+    "code": "G01L 5/22",
+    "description": "••para la medida de la fuerza aplicada a los órganos de control, p. ej. órganos de control de vehículos, gatillos [2006.01]"
+  },
+  {
+    "code": "G01L 5/24",
+    "description": "••para determinar el valor del par o del momento de torsión para el apretado de una tuerca o de otro órgano sometido a una tensión análoga [2006.01]"
+  },
+  {
+    "code": "G01L 5/26",
+    "description": "••para determinar la característica del par en función del número de revoluciones por unidad de tiempo [2006.01]"
+  },
+  {
+    "code": "G01L 5/28",
+    "description": "••para el ensayo de los frenos [2006.01]"
+  },
+  {
+    "code": "G01L 7/00",
+    "description": "Medida de la presión permanente o cuasi-permanente de un fluido o de un material sólido fluyente por elementos mecánicos o hidráulicos sensibles a la presións (transmisión o indicación por medios eléctricos o magnéticos del desplazamiento de los elementos mecánicos sensibles a la presión G01L 9/00; medida de las diferencias entre dos o más valores de la presión G01L 13/00; medida simultánea de dos o más valores de la presión G01L 15/00) [2006.01]"
+  },
+  {
+    "code": "G01L 7/02",
+    "description": "••bajo forma de calibres, elásticamente deformables [2006.01]"
+  },
+  {
+    "code": "G01L 7/04",
+    "description": "••••bajo forma de tubos elásticos, deformables, p. ej. manómetros de Bourdon [2006.01]"
+  },
+  {
+    "code": "G01L 7/06",
+    "description": "••••del tipo de fuelles [2006.01]"
+  },
+  {
+    "code": "G01L 7/08",
+    "description": "••••del tipo de diafragma elástico [2006.01]"
+  },
+  {
+    "code": "G01L 7/10",
+    "description": "••••del tipo de cápsula [2006.01]"
+  },
+  {
+    "code": "G01L 7/12",
+    "description": "••••••con una cámara de vacío; Barómetros aneroides [2006.01]"
+  },
+  {
+    "code": "G01L 7/14",
+    "description": "••••••••con medios de puesta a cero [2006.01]"
+  },
+  {
+    "code": "G01L 7/16",
+    "description": "••bajo forma de pistones [2006.01]"
+  },
+  {
+    "code": "G01L 7/18",
+    "description": "••utilizando un líquido como medio sensible a la presión, p. ej. calibres de columna de agua [2006.01]"
+  },
+  {
+    "code": "G01L 7/20",
+    "description": "••••incluyendo una cámara cerrada por debajo del nivel de líquido, estando esta cámara bajo vacío o conteniendo un gas a baja presión; Barómetros de líquido [2006.01]"
+  },
+  {
+    "code": "G01L 7/22",
+    "description": "••••incluyendo flotadores, p. ej. campanas flotantes [2006.01]"
+  },
+  {
+    "code": "G01L 7/24",
+    "description": "••••incluyendo balanzas bajo forma de anillos parcialmente llenos de líquido [2006.01]"
+  },
+  {
+    "code": "G01L 9/00",
+    "description": "Medida de la presión permanente, o cuasi-permanente de un fluido o de un material sólido fluyente por elementos eléctricos o magnéticos sensibles a la presión; Transmisión o indicación por medios eléctricos o magnéticos del desplazamiento de los elementos mecánicos sensibles a la presión, utilizados para medir la presión permanente o cuasi-permanente de un fluido o de un material sólido fluyente (medida de las diferencias entre dos o más valores de la presión G01L 13/00; medida simultánea de dos o más valores de la presión G01L 15/00) [2006.01]"
+  },
+  {
+    "code": "G01L 9/02",
+    "description": "••haciendo uso de las variaciones de una resistencia óhmica, p. ej. potenciómetro [2006.01]"
+  },
+  {
+    "code": "G01L 9/04",
+    "description": "••••de calibres de incitación de resistencia [2006.01]"
+  },
+  {
+    "code": "G01L 9/06",
+    "description": "••••de dispositivos piezorresistentes [2006.01]"
+  },
+  {
+    "code": "G01L 9/08",
+    "description": "••haciendo uso de dispositivos piezoeléctricos [2006.01]"
+  },
+  {
+    "code": "G01L 9/10",
+    "description": "••haciendo uso de las variaciones de inductancia [2006.01]"
+  },
+  {
+    "code": "G01L 9/12",
+    "description": "••haciendo uso de las variaciones de capacidad [2006.01]"
+  },
+  {
+    "code": "G01L 9/14",
+    "description": "••implicando el desplazamiento de imanes, p. ej. de electroimanes [2006.01]"
+  },
+  {
+    "code": "G01L 9/16",
+    "description": "••haciendo uso de variaciones en las propiedades magnéticas del material, resultando de la aplicación de la incitación [2006.01]"
+  },
+  {
+    "code": "G01L 9/18",
+    "description": "••haciendo uso de células electrocinéticas, es decir, de células que contienen un líquido en las cuales un potencial eléctrico se produce o modifica por la aplicación de la incitación [2006.01]"
+  },
+  {
+    "code": "G01L 11/00",
+    "description": "Medida de la presión permanente, o cuasi-permanente de un fluido o de un material sólido fluyente por medios no previstos en los grupos G01L 7/00 ó G01L 9/00 [2006.01]"
+  },
+  {
+    "code": "G01L 11/02",
+    "description": "••por medios ópticos [2006.01]"
+  },
+  {
+    "code": "G01L 11/04",
+    "description": "••por medios acústicos [2006.01]"
+  },
+  {
+    "code": "G01L 11/06",
+    "description": "••••medios ultrasonoros [2006.01]"
+  },
+  {
+    "code": "G01L 13/00",
+    "description": "Dispositivos o aparatos para la medida de diferencias entre dos o más valores de la presión de fluidos [2006.01]"
+  },
+  {
+    "code": "G01L 13/02",
+    "description": "••utilizando órganos o pistones elásticamente deformables como elementos sensibles [2006.01]"
+  },
+  {
+    "code": "G01L 13/04",
+    "description": "••utilizando flotadores o líquidos como elementos sensibles [2006.01]"
+  },
+  {
+    "code": "G01L 13/06",
+    "description": "••utilizando elementos eléctricos o magnéticos sensibles a la presión [2006.01]"
+  },
+  {
+    "code": "G01L 15/00",
+    "description": "Dispositivos o aparatos para la medida simultánea de dos o más valores de la presión de fluidos [2006.01]"
+  },
+  {
+    "code": "G01L 17/00",
+    "description": "Dispositivos o aparatos para medir la presión de neumáticos o la presión en otros cuerpos hinchables [2006.01]"
+  },
+  {
+    "code": "G01L 19/00",
+    "description": "Detalles o accesorios de aparatos para la medida de la presión permanente o cuasi-permanente de un medio fluyente en la medida en que estos detalles o accesorios no son especiales de los tipos particulares de manómetros [2006.01]"
+  },
+  {
+    "code": "G01L 19/02",
+    "description": "••Dispositivos para impedir o para compensar los efectos de inclinaciones o de la aceleración del dispositivo de medida; Medios de puesta a cero (para los barómetros aneroides G01L 7/14) [2006.01]"
+  },
+  {
+    "code": "G01L 19/04",
+    "description": "••Medios para compensar los efectos de las variaciones de temperatura [2006.01]"
+  },
+  {
+    "code": "G01L 19/06",
+    "description": "••Medios para impedir la sobrecarga o la influencia dañina del medio a medir sobre el dispositivo de medida o viceversa [2006.01]"
+  },
+  {
+    "code": "G01L 19/08",
+    "description": "••Medios para la indicación o el registro, p. ej. para la indicación a distancia [2006.01]"
+  },
+  {
+    "code": "G01L 19/10",
+    "description": "••••mecánicos [2006.01]"
+  },
+  {
+    "code": "G01L 19/12",
+    "description": "••••Dispositivos de alarma o señales [2006.01]"
+  },
+  {
+    "code": "G01L 19/14",
+    "description": "••Carcasas [2006.01]"
+  },
+  {
+    "code": "G01L 19/16",
+    "description": "••Cuadrantes; Montaje de cuadrantes [2006.01]"
+  },
+  {
+    "code": "G01L 21/00",
+    "description": "Indicadores de vacío [2006.01]"
+  },
+  {
+    "code": "G01L 21/02",
+    "description": "••que tienen una cámara de compresión en la cual el gas, del que debe medirse la presión, está comprimido [2006.01]"
+  },
+  {
+    "code": "G01L 21/04",
+    "description": "••••en los cuales la cámara está cerrada por un líquido; Indicadores de vacío del tipo Mac-Leod [2006.01]"
+  },
+  {
+    "code": "G01L 21/06",
+    "description": "••••••accionados haciendo girar o volcando el dispositivo de medida [2006.01]"
+  },
+  {
+    "code": "G01L 21/08",
+    "description": "••midiendo las variaciones de la transmisión de ondas acústicas a través del medio del que se debe medir la presión [2006.01]"
+  },
+  {
+    "code": "G01L 21/10",
+    "description": "••midiendo las variaciones de la conductividad calorífica del medio del que se debe medir la presión [2006.01]"
+  },
+  {
+    "code": "G01L 21/12",
+    "description": "••••medida de las modificaciones de la resistencia eléctrica de los órganos de medida, p. ej. filamentos; Indicadores de vacío del tipo Pirani [2006.01]"
+  },
+  {
+    "code": "G01L 21/14",
+    "description": "••••utilizando termopares [2006.01]"
+  },
+  {
+    "code": "G01L 21/16",
+    "description": "••midiendo la variación de la resistencia de fricción de los gases [2006.01]"
+  },
+  {
+    "code": "G01L 21/18",
+    "description": "••••utilizando un péndulo [2006.01]"
+  },
+  {
+    "code": "G01L 21/20",
+    "description": "••••utilizando órganos que oscilan alrededor de un eje vertical [2006.01]"
+  },
+  {
+    "code": "G01L 21/22",
+    "description": "••••utilizando los efectos de resonancia de un cuerpo vibrante; Indicadores de vacío del tipo Klumb [2006.01]"
+  },
+  {
+    "code": "G01L 21/24",
+    "description": "••••utilizando órganos giratorios; Indicadores de vacío del tipo Langmuir [2006.01]"
+  },
+  {
+    "code": "G01L 21/26",
+    "description": "••haciendo uso de una acción de radiómetro, es decir, de la presión producida por la impulsión de moléculas que pasan de un elemento caliente a un elemento frío; Indicadores de vacío del tipo Knudsen [2006.01]"
+  },
+  {
+    "code": "G01L 21/28",
+    "description": "••••utilizando órganos de medida rotativos de torsión [2006.01]"
+  },
+  {
+    "code": "G01L 21/30",
+    "description": "••haciendo uso de los efectos de ionización [2006.01]"
+  },
+  {
+    "code": "G01L 21/32",
+    "description": "••••utilizando tubos eléctricos de descarga de cátodos termoiónicos [2006.01]"
+  },
+  {
+    "code": "G01L 21/34",
+    "description": "••••utilizando tubos eléctricos de descarga de cátodos fríos [2006.01]"
+  },
+  {
+    "code": "G01L 21/36",
+    "description": "••••utilizando sustancias radiactivas [2006.01]"
+  },
+  {
+    "code": "G01L 23/02",
+    "description": "••que indican o registran mecánicamente y que incluyen resortes cargados o resortes de retorno [2006.01]"
+  },
+  {
+    "code": "G01L 23/04",
+    "description": "••que incluyen medios sometidos a una presión que actúa en sentido inverso conocido [2006.01]"
+  },
+  {
+    "code": "G01L 23/06",
+    "description": "••Indicación o registro por medios ópticos [2006.01]"
+  },
+  {
+    "code": "G01L 23/08",
+    "description": "••accionados eléctricamente [2006.01]"
+  },
+  {
+    "code": "G01L 23/10",
+    "description": "••••por órganos sensibles a la presión del tipo piezoeléctrico [2006.01]"
+  },
+  {
+    "code": "G01L 23/12",
+    "description": "••••por modificación de la capacidad o de la inductancia [2006.01]"
+  },
+  {
+    "code": "G01L 23/14",
+    "description": "••••por elementos electromagnéticos [2006.01]"
+  },
+  {
+    "code": "G01L 23/16",
+    "description": "••••por medios fotoeléctricos [2006.01]"
+  },
+  {
+    "code": "G01L 23/18",
+    "description": "••••por calibres de incitación de resistencia [2006.01]"
+  },
+  {
+    "code": "G01L 23/20",
+    "description": "••combinados con planímetros o integradores [2006.01]"
+  },
+  {
+    "code": "G01L 23/22",
+    "description": "••para detectar o indicar las sacudidas en los motores de combustión interna; Unidades que comprenden órganos sensibles a la presión combinados con dispositivos de encendido para el encendido de los motores de combustión interna [2006.01]"
+  },
+  {
+    "code": "G01L 23/24",
+    "description": "••para medir la presión en los colectores de admisión o de escape de los motores de combustión interna [2006.01]"
+  },
+  {
+    "code": "G01L 23/26",
+    "description": "••Detalles o accesorios [2006.01]"
+  },
+  {
+    "code": "G01L 23/28",
+    "description": "••••Medios de refrigeración [2006.01]"
+  },
+  {
+    "code": "G01L 23/30",
+    "description": "••••Medios para indicar consecutivamente las posiciones de los pistones o de las manivelas de los motores de combustión interna en combinación con indicadores de presión [2006.01]"
+  },
+  {
+    "code": "G01L 23/32",
+    "description": "••••Aparatos especialmente adaptados para registrar las variaciones de presión medidas por los indicadores [2006.01]"
+  },
+  {
+    "code": "G01L 25/00",
+    "description": "Ensayo o calibrado de los aparatos para la medida de fuerzas, par, trabajo, potencia o rendimiento mecánico [2006.01]"
+  },
+  {
+    "code": "G01L 27/00",
+    "description": "Ensayo o calibrado de los aparatos para la medida de la presión de los fluidos [2006.01]"
+  },
+  {
+    "code": "G01L 27/02",
+    "description": "••de los aparatos indicadores [2006.01]"
+  }
+]

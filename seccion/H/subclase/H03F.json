@@ -1,0 +1,414 @@
+[
+  {
+    "code": "H03F 1/00",
+    "description": "Detalles de amplificadores que tienen como elementos de amplificación solamente tubos de descarga, solamente dispositivos semiconductores o solamente componentes no especificados [2006.01]"
+  },
+  {
+    "code": "H03F 1/02",
+    "description": "••Modificaciones de los amplificadores para aumentar su rendimiento, p. ej. etapas clase A de pendiente deslizante, utilización de una oscilación auxiliar [2006.01]"
+  },
+  {
+    "code": "H03F 1/04",
+    "description": "••••en los amplificadores de tubos de descarga [2006.01]"
+  },
+  {
+    "code": "H03F 1/06",
+    "description": "••••••para aumentar el rendimiento de la amplificación de ondas moduladas de frecuencia radioeléctrica; para aumentar el rendimiento de los amplificadores que funcionan también como moduladores [2006.01]"
+  },
+  {
+    "code": "H03F 1/07",
+    "description": "••••••••Amplificadores de tipo Doherty [2006.01]"
+  },
+  {
+    "code": "H03F 1/08",
+    "description": "••Modificaciones de los amplificadores para reducir la influencia de la impedancia interna de los elementos amplificadores (amplificadores de banda amplia con redes de acoplamiento entre etapas incorporando esas impedancias H03F 1/42; eliminación del efecto del tiempo de tránsito en los tubos de vacío H01J 21/34) [2006.01]"
+  },
+  {
+    "code": "H03F 1/10",
+    "description": "••••por utilización de elementos amplificadores con conexiones de electrodos múltiples [2006.01]"
+  },
+  {
+    "code": "H03F 1/12",
+    "description": "••••por utilización de medios de amortiguamiento [2006.01]"
+  },
+  {
+    "code": "H03F 1/13",
+    "description": "••••••en los amplificadores con tubo de descarga [2006.01]"
+  },
+  {
+    "code": "H03F 1/14",
+    "description": "••••por utilización de medios de neutralización [2006.01]"
+  },
+  {
+    "code": "H03F 1/16",
+    "description": "••••••en los amplificadores con tubos de descarga [2006.01]"
+  },
+  {
+    "code": "H03F 1/18",
+    "description": "••••por utilización de acoplamiento distribuido [2006.01]"
+  },
+  {
+    "code": "H03F 1/20",
+    "description": "••••••en los amplificadores con tubos de descarga [2006.01]"
+  },
+  {
+    "code": "H03F 1/22",
+    "description": "••••por utilización de acoplamiento llamado \"cascode\", es decir, etapa con cátodo o emisor a masa seguida de una etapa con rejilla o base a masa respectivamente [2006.01]"
+  },
+  {
+    "code": "H03F 1/24",
+    "description": "••••••en los amplificadores con tubo de descarga [2006.01]"
+  },
+  {
+    "code": "H03F 1/26",
+    "description": "••Modificaciones de los amplificadores para reducir la influencia del ruido provocado por los elementos amplificadores [2006.01]"
+  },
+  {
+    "code": "H03F 1/28",
+    "description": "••••en los amplificadores con tubo de descarga [2006.01]"
+  },
+  {
+    "code": "H03F 1/30",
+    "description": "••Modificaciones de los amplificadores para reducir la influencia de las variaciones de temperatura o de la tensión de alimentación [2006.01]"
+  },
+  {
+    "code": "H03F 1/32",
+    "description": "••Modificaciones de los amplificadores para reducir la distorsión no lineal (por realimentación negativa H03F 1/34) [2006.01]"
+  },
+  {
+    "code": "H03F 1/33",
+    "description": "••••en los amplificadores con tubo de descarga [2006.01]"
+  },
+  {
+    "code": "H03F 1/34",
+    "description": "••Circuitos de realimentación negativa con o sin realimentación positiva (H03F 1/02-H03F 1/30, H03F 1/38-H03F 1/50, H03F 3/50 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H03F 1/36",
+    "description": "••••en los amplificadores con tubos de descarga [2006.01]"
+  },
+  {
+    "code": "H03F 1/38",
+    "description": "••Circuitos de realimentación positiva sin realimentación negativa [2006.01]"
+  },
+  {
+    "code": "H03F 1/40",
+    "description": "••••en los amplificadores con tubos de descarga [2006.01]"
+  },
+  {
+    "code": "H03F 1/42",
+    "description": "••Modificaciones de los amplificadores para aumentar el ancho de banda [2006.01]"
+  },
+  {
+    "code": "H03F 1/44",
+    "description": "••••de los amplificadores sintonizados [2006.01]"
+  },
+  {
+    "code": "H03F 1/46",
+    "description": "••••••con tubos únicamente [2006.01]"
+  },
+  {
+    "code": "H03F 1/48",
+    "description": "••••de los amplificadores aperiódicos [2006.01]"
+  },
+  {
+    "code": "H03F 1/50",
+    "description": "••••••con tubos únicamente [2006.01]"
+  },
+  {
+    "code": "H03F 1/52",
+    "description": "••Circuitos para la protección de estos amplificadores [2006.01]"
+  },
+  {
+    "code": "H03F 1/54",
+    "description": "••••con tubos únicamente [2006.01]"
+  },
+  {
+    "code": "H03F 1/56",
+    "description": "••Modificaciones de las impedancias de entrada o de salida, no previstas en otro lugar [2006.01]"
+  },
+  {
+    "code": "H03F 3/00",
+    "description": "Amplificadores que tienen como elementos de amplificación solamente tubos de descarga o solamente dispositivos de semiconductores [2006.01]"
+  },
+  {
+    "code": "H03F 3/02",
+    "description": "••con tubos únicamente (los subgrupos siguientes tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H03F 3/04",
+    "description": "••con dispositivos de semiconductores únicamente (los subgrupos siguientes tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H03F 3/06",
+    "description": "••••utilizando un efecto de acumulación de huecos [2006.01]"
+  },
+  {
+    "code": "H03F 3/08",
+    "description": "••••controlados por la luz [2006.01]"
+  },
+  {
+    "code": "H03F 3/10",
+    "description": "••••con diodos [2006.01]"
+  },
+  {
+    "code": "H03F 3/12",
+    "description": "••••••con diodos Esaki [2006.01]"
+  },
+  {
+    "code": "H03F 3/14",
+    "description": "••••con dispositivos amplificadores que tienen más de tres electrodos o más de dos uniones PN [2006.01]"
+  },
+  {
+    "code": "H03F 3/16",
+    "description": "••••con dispositivos de efecto de campo [2006.01]"
+  },
+  {
+    "code": "H03F 3/18",
+    "description": "••con dispositivos de semiconductores de tipos complementarios (los subgrupos siguientes tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H03F 3/181",
+    "description": "••Amplificadores de baja frecuencia, p. ej. preamplificadores de audio [2006.01]"
+  },
+  {
+    "code": "H03F 3/183",
+    "description": "••••únicamente con dispositivos de semiconductores [2006.01]"
+  },
+  {
+    "code": "H03F 3/185",
+    "description": "••••••con dispositivos de efecto de campo (H03F 3/187 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H03F 3/187",
+    "description": "••••••en circuitos integrados [2006.01]"
+  },
+  {
+    "code": "H03F 3/189",
+    "description": "••Amplificadores de alta frecuencia, p. ej. amplificadores de radiofrecuencia [2006.01]"
+  },
+  {
+    "code": "H03F 3/19",
+    "description": "••••únicamente con dispositivos de semiconductores [2006.01]"
+  },
+  {
+    "code": "H03F 3/191",
+    "description": "••••••Amplificadores sintonizados (H03F 3/193, H03F 3/195 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H03F 3/193",
+    "description": "••••••con dispositivos de efecto de campo (H03F 3/195 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H03F 3/195",
+    "description": "••••••en circuitos integrados [2006.01]"
+  },
+  {
+    "code": "H03F 3/20",
+    "description": "••Amplificadores de potencia, p. ej. amplificador de clase B, de clase C (H03F 3/26-H03F 3/30 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H03F 3/21",
+    "description": "••••únicamente con dispositivos semiconductores [2006.01]"
+  },
+  {
+    "code": "H03F 3/213",
+    "description": "••••••en circuitos integrados [2006.01]"
+  },
+  {
+    "code": "H03F 3/217",
+    "description": "••••••Amplificadores de potencia de clase D; Amplificadores de conmutación [2006.01]"
+  },
+  {
+    "code": "H03F 3/22",
+    "description": "••••con tubos únicamente (H03F 3/24 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H03F 3/24",
+    "description": "••••de etapas transmisoras de salida [2006.01]"
+  },
+  {
+    "code": "H03F 3/26",
+    "description": "••Amplificadores push-pull; Desfasadores para ellos (disposiciones dobles push-pull de salida única o desfasadores para ellos H03F 3/30) [2006.01]"
+  },
+  {
+    "code": "H03F 3/28",
+    "description": "••••con tubos únicamente [2006.01]"
+  },
+  {
+    "code": "H03F 3/30",
+    "description": "••Amplificadores push-pull de salida única; Desfasadores para ellos [2006.01]"
+  },
+  {
+    "code": "H03F 3/32",
+    "description": "••••con tubos únicamente [2006.01]"
+  },
+  {
+    "code": "H03F 3/34",
+    "description": "••Amplificadores de corriente continua en los que todas las etapas están acopladas en corriente continua (H03F 3/45 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H03F 3/343",
+    "description": "••••únicamente con dispositivos semiconductores [2006.01]"
+  },
+  {
+    "code": "H03F 3/345",
+    "description": "••••••con dispositivos de efecto de campo (H03F 3/347 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H03F 3/347",
+    "description": "••••••en circuitos integrados [2006.01]"
+  },
+  {
+    "code": "H03F 3/36",
+    "description": "••••con tubos únicamente [2006.01]"
+  },
+  {
+    "code": "H03F 3/38",
+    "description": "••Amplificadores de corriente continua, con un modulador en la entrada y un demodulador en la salida; Moduladores o demoduladores especialmente concebidos para ser utilizados en tales amplificadores (moduladores en general H03C; demoduladores en general H03D; modulación de la amplitud de impulsos en general H03K 7/02; demodulación de la amplitud de impulsos en general H03K 9/02) [2006.01]"
+  },
+  {
+    "code": "H03F 3/387",
+    "description": "••••únicamente con dispositivos semiconductores [2006.01]"
+  },
+  {
+    "code": "H03F 3/393",
+    "description": "••••••con dispositivos de efecto de campo [2006.01]"
+  },
+  {
+    "code": "H03F 3/40",
+    "description": "••••con tubos únicamente [2006.01]"
+  },
+  {
+    "code": "H03F 3/42",
+    "description": "••Amplificadores con dos o más elementos amplificadores que tienen sus circuitos de corriente continua en serie con la carga, estando el electrodo de control de cada elemento excitado por al menos una parte de la señal de entrada, p. ej. amplificadores llamados \"totem-pole\" [2006.01]"
+  },
+  {
+    "code": "H03F 3/44",
+    "description": "••••con tubos únicamente [2006.01]"
+  },
+  {
+    "code": "H03F 3/45",
+    "description": "••Amplificadores diferenciales [2006.01]"
+  },
+  {
+    "code": "H03F 3/46",
+    "description": "••Amplificadores reflex [2006.01]"
+  },
+  {
+    "code": "H03F 3/48",
+    "description": "••••con tubos únicamente [2006.01]"
+  },
+  {
+    "code": "H03F 3/50",
+    "description": "••Amplificadores en los cuales la señal de entrada es aplicada o la señal de salida es derivada sobre una impedancia común a los circuitos de entrada y de salida del elemento amplificador, p. ej. amplificadores llamados \"cathodynes\" [2006.01]"
+  },
+  {
+    "code": "H03F 3/52",
+    "description": "••••con tubos únicamente [2006.01]"
+  },
+  {
+    "code": "H03F 3/54",
+    "description": "••Amplificadores que utilizan el efecto de tiempo de tránsito en los tubos o dispositivos semiconductores (amplificadores paramétricos H03F 7/00; dispositivos de estado sólido utilizados como dispositivos de ondas progresivas H10N 70/10) [2006.01]"
+  },
+  {
+    "code": "H03F 3/55",
+    "description": "••••únicamente con dispositivos semiconductores [2006.01]"
+  },
+  {
+    "code": "H03F 3/56",
+    "description": "••••utilizando klistrones [2006.01]"
+  },
+  {
+    "code": "H03F 3/58",
+    "description": "••••utilizando tubos de ondas progresivas [2006.01]"
+  },
+  {
+    "code": "H03F 3/60",
+    "description": "••Amplificadores en los cuales las redes de acoplamiento tienen constantes distribuidas, p. ej. con resonadores de guías de ondas (H03F 3/54 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H03F 3/62",
+    "description": "••Amplificadores bidireccionales [2006.01]"
+  },
+  {
+    "code": "H03F 3/64",
+    "description": "••••con tubos únicamente [2006.01]"
+  },
+  {
+    "code": "H03F 3/66",
+    "description": "••Amplificadores que producen oscilaciones de una frecuencia y amplifican al mismo tiempo señales de otra frecuencia [2006.01]"
+  },
+  {
+    "code": "H03F 3/68",
+    "description": "••Combinaciones de amplificadores, p. ej. amplificadores de varios canales para estereofonía [2006.01]"
+  },
+  {
+    "code": "H03F 3/70",
+    "description": "••Amplificadores de carga [2006.01]"
+  },
+  {
+    "code": "H03F 3/72",
+    "description": "••Amplificadores controlados, es decir, amplificadores puestos en servicio o fuera de servicio por medio de una señal de control [2006.01]"
+  },
+  {
+    "code": "H03F 5/00",
+    "description": "Amplificadores que tienen como elementos de amplificación tubos de descarga y dispositivos semiconductores a la vez [2006.01]"
+  },
+  {
+    "code": "H03F 7/00",
+    "description": "Amplificadores paramétricos (dispositivos o sistemas para la generación o amplificación paramétrica de la luz, de los infrarrojos o de los ultravioletas G02F 1/39) [2006.01]"
+  },
+  {
+    "code": "H03F 7/02",
+    "description": "••utilizando un elemento de inductancia variable; utilizando un elemento de permeabilidad variable [2006.01]"
+  },
+  {
+    "code": "H03F 7/04",
+    "description": "••utilizando un elemento de capacidad variable; utilizando un elemento de permitividad variable [2006.01]"
+  },
+  {
+    "code": "H03F 7/06",
+    "description": "••con tubo de haz electrónico [2006.01]"
+  },
+  {
+    "code": "H03F 9/00",
+    "description": "Amplificadores magnéticos [2006.01]"
+  },
+  {
+    "code": "H03F 9/02",
+    "description": "••de corriente controlada, es decir, la corriente de carga circula en las dos direcciones a través de una bobina principal [2006.01]"
+  },
+  {
+    "code": "H03F 9/04",
+    "description": "••de tensión controlada, es decir, la corriente de carga solamente circula en una dirección a través de una bobina principal, p. ej. circuitos Logan (H03F 9/06 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H03F 9/06",
+    "description": "••control por la integración en el tiempo de la tensión, es decir, la corriente de carga circula solamente en una dirección a través de una bobina principal, pudiendo el arrollamiento de la bobina principal ser tambión utilizado como arrollamiento de control, p. ej. circuitos Ramey [2006.01]"
+  },
+  {
+    "code": "H03F 11/00",
+    "description": "Amplificadores dieléctricos [2006.01]"
+  },
+  {
+    "code": "H03F 13/00",
+    "description": "Amplificadores que utilizan un elemento amplificador que consiste en dos transductores acoplados mecánica o acústicamente, p. ej. amplificador teléfono-micrófono [2006.01]"
+  },
+  {
+    "code": "H03F 15/00",
+    "description": "Amplificadores que utilizan efectos galvanomagnéticos que no Implican el movimiento mecánico, p. ej. utilizando el efecto Hall [2006.01]"
+  },
+  {
+    "code": "H03F 17/00",
+    "description": "Amplificadores que utilizan un elemento electroluminiscente o una célula fotoeléctrica [2006.01]"
+  },
+  {
+    "code": "H03F 19/00",
+    "description": "Amplificadores que utilizan efectos de superconductividad [2006.01]"
+  },
+  {
+    "code": "H03F 99/00",
+    "description": "Materia no prevista en otros grupos de esta subclase [2009.01]"
+  }
+]

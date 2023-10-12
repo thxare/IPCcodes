@@ -1,0 +1,894 @@
+[
+  {
+    "code": "A01B 1/00",
+    "description": "Herramientas manuales (corta bordes para césped A01G 3/06) [2006.01]"
+  },
+  {
+    "code": "A01B 1/02",
+    "description": "••Layas; Palas [2006.01]"
+  },
+  {
+    "code": "A01B 1/04",
+    "description": "••••con dientes [2006.01]"
+  },
+  {
+    "code": "A01B 1/06",
+    "description": "••Azadas; Excavadoras manuales (binadoras) [2006.01]"
+  },
+  {
+    "code": "A01B 1/08",
+    "description": "••••con hoja única [2006.01]"
+  },
+  {
+    "code": "A01B 1/10",
+    "description": "••••con dos o varias hojas [2006.01]"
+  },
+  {
+    "code": "A01B 1/12",
+    "description": "••••con hojas dentadas [2006.01]"
+  },
+  {
+    "code": "A01B 1/14",
+    "description": "••••sólo con dientes [2006.01]"
+  },
+  {
+    "code": "A01B 1/16",
+    "description": "••Escardillos (amocafres) [2006.01]"
+  },
+  {
+    "code": "A01B 1/18",
+    "description": "••••Herramientas en forma de pinzas [2006.01]"
+  },
+  {
+    "code": "A01B 1/20",
+    "description": "••Combinaciones de diferentes clases de herramientas manuales [2006.01]"
+  },
+  {
+    "code": "A01B 1/22",
+    "description": "••Fijación a los mangos de las hojas o similares (mangos para herramientas o su fijación, en general B25G); Hojas intercambiables o ajustables [2006.01]"
+  },
+  {
+    "code": "A01B 1/24",
+    "description": "••para el tratamiento de praderas o céspedes [2006.01]"
+  },
+  {
+    "code": "A01B 3/00",
+    "description": "Arados de reja fija [2006.01]"
+  },
+  {
+    "code": "A01B 3/02",
+    "description": "••Arados de tracción humana [2006.01]"
+  },
+  {
+    "code": "A01B 3/04",
+    "description": "••Arados de tracción animal [2006.01]"
+  },
+  {
+    "code": "A01B 3/06",
+    "description": "••••no reversibles, es decir, incapaces de hacer un surco adyacente en el viaje de retorno (labor en plancha) [2006.01]"
+  },
+  {
+    "code": "A01B 3/08",
+    "description": "••••••Arados [2006.01]"
+  },
+  {
+    "code": "A01B 3/10",
+    "description": "••••••Arados con juego delantero; Arados de rueda única [2006.01]"
+  },
+  {
+    "code": "A01B 3/12",
+    "description": "••••••Arados de dos ruedas [2006.01]"
+  },
+  {
+    "code": "A01B 3/14",
+    "description": "••••••Arados de soporte [2006.01]"
+  },
+  {
+    "code": "A01B 3/16",
+    "description": "••••Arados reversibles, es decir, capaces de hacer un surco adyacente en el trayecto de retorno (labor en plano) [2006.01]"
+  },
+  {
+    "code": "A01B 3/18",
+    "description": "••••••Arados de torsión [2006.01]"
+  },
+  {
+    "code": "A01B 3/20",
+    "description": "••••••Arados basculantes [2006.01]"
+  },
+  {
+    "code": "A01B 3/22",
+    "description": "••••••con elementos de laboreo paralelos que trabajan alternativamente (arados \"tilburg\" dobles) [2006.01]"
+  },
+  {
+    "code": "A01B 3/24",
+    "description": "••Arados tirados por tractor (A01B 3/04 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "A01B 3/26",
+    "description": "••••no reversibles [2006.01]"
+  },
+  {
+    "code": "A01B 3/28",
+    "description": "••••Arados reversibles [2006.01]"
+  },
+  {
+    "code": "A01B 3/30",
+    "description": "••••••Arados de torsión [2006.01]"
+  },
+  {
+    "code": "A01B 3/32",
+    "description": "••••••Arados basculantes [2006.01]"
+  },
+  {
+    "code": "A01B 3/34",
+    "description": "••••••Arados con elementos de laboreo paralelos que trabajan alternativamente (arados \"tilburg\" dobles) [2006.01]"
+  },
+  {
+    "code": "A01B 3/36",
+    "description": "••Arados transportados [2006.01]"
+  },
+  {
+    "code": "A01B 3/38",
+    "description": "••••Arados no reversibles [2006.01]"
+  },
+  {
+    "code": "A01B 3/40",
+    "description": "••••Arados reversibles [2006.01]"
+  },
+  {
+    "code": "A01B 3/42",
+    "description": "••••••Arados de torsión [2006.01]"
+  },
+  {
+    "code": "A01B 3/421",
+    "description": "••••••••con soporte de enganche de una pieza [2006.01]"
+  },
+  {
+    "code": "A01B 3/426",
+    "description": "••••••••con soporte de enganche de varias partes [2006.01]"
+  },
+  {
+    "code": "A01B 3/44",
+    "description": "••••••con elementos de laboreo paralelos que trabajan alternativamente (arados \"tilburg\" dobles) [2006.01]"
+  },
+  {
+    "code": "A01B 3/46",
+    "description": "••Arados semitransportados [2006.01]"
+  },
+  {
+    "code": "A01B 3/50",
+    "description": "••Arados automotrices [2006.01]"
+  },
+  {
+    "code": "A01B 3/52",
+    "description": "••••con tres ruedas o más, o con cadenas [2006.01]"
+  },
+  {
+    "code": "A01B 3/54",
+    "description": "••••••no reversibles [2006.01]"
+  },
+  {
+    "code": "A01B 3/56",
+    "description": "••••••Arados reversibles [2006.01]"
+  },
+  {
+    "code": "A01B 3/58",
+    "description": "••••con dos ruedas [2006.01]"
+  },
+  {
+    "code": "A01B 3/60",
+    "description": "••••••Arados reversibles [2006.01]"
+  },
+  {
+    "code": "A01B 3/62",
+    "description": "••••••••Arados basculantes [2006.01]"
+  },
+  {
+    "code": "A01B 3/64",
+    "description": "••Arados de cable; Dispositivos indicadores o de señales para sistemas de arados de cable [2006.01]"
+  },
+  {
+    "code": "A01B 3/66",
+    "description": "••••con sistema mecánico de enrollamiento montado sobre el arado [2006.01]"
+  },
+  {
+    "code": "A01B 3/68",
+    "description": "••••Sistemas de cable con uno o dos motores [2006.01]"
+  },
+  {
+    "code": "A01B 3/70",
+    "description": "••••••Sistemas con motor único para trabajar sobre pendientes [2006.01]"
+  },
+  {
+    "code": "A01B 3/72",
+    "description": "••••Medios de enganche de los cables [2006.01]"
+  },
+  {
+    "code": "A01B 3/74",
+    "description": "••Utilización de la energía eléctrica para la tracción de arados (colectores de corriente eléctrica B60L 5/00) [2006.01]"
+  },
+  {
+    "code": "A01B 5/00",
+    "description": "Arados con herramientas rotativas no accionados, p. ej. discos (con herramientas giratorias arrastradas A01B 9/00) [2006.01]"
+  },
+  {
+    "code": "A01B 5/02",
+    "description": "••de tracción animal [2006.01]"
+  },
+  {
+    "code": "A01B 5/04",
+    "description": "••de tracción mecánica [2006.01]"
+  },
+  {
+    "code": "A01B 5/06",
+    "description": "••••no reversibles [2006.01]"
+  },
+  {
+    "code": "A01B 5/08",
+    "description": "••••Arados reversibles [2006.01]"
+  },
+  {
+    "code": "A01B 5/10",
+    "description": "••transportados o semitransportados [2006.01]"
+  },
+  {
+    "code": "A01B 5/12",
+    "description": "••••no reversibles [2006.01]"
+  },
+  {
+    "code": "A01B 5/14",
+    "description": "••••Arados reversibles [2006.01]"
+  },
+  {
+    "code": "A01B 5/16",
+    "description": "••Arados automotrices con discos o similares [2006.01]"
+  },
+  {
+    "code": "A01B 7/00",
+    "description": "Instrumentos de discos o similares, para el trabajo de la tierra, utilizables ya sea como arados, ya sea como rastrillos, ya sea como instrumentos similares [2006.01]"
+  },
+  {
+    "code": "A01B 9/00",
+    "description": "Arados con herramientas giratorias accionadas (instrumentos para mullir la tierra con herramientas giratorias arrastradas A01B 33/00) [2006.01]"
+  },
+  {
+    "code": "A01B 11/00",
+    "description": "Arados dotados de herramientas capaces de oscilar, excavar u horadar [2006.01]"
+  },
+  {
+    "code": "A01B 13/00",
+    "description": "Arados o máquinas similares para trabajos especiales (para drenaje E02B 11/02) [2006.01]"
+  },
+  {
+    "code": "A01B 13/02",
+    "description": "••para aporcar, es decir, dotados de vertederas simétricas (aporcadoras) [2006.01]"
+  },
+  {
+    "code": "A01B 13/04",
+    "description": "••para el laboreo de viñas, huertos o similares (viñedos) [2006.01]"
+  },
+  {
+    "code": "A01B 13/06",
+    "description": "••••Dispositivos para prevenir el dañado de las cepas o de troncos similares [2006.01]"
+  },
+  {
+    "code": "A01B 13/08",
+    "description": "••para el trabajo del subsuelo [2006.01]"
+  },
+  {
+    "code": "A01B 13/10",
+    "description": "••••Instrumentos especiales para la rotura de las capas del subsuelo [2006.01]"
+  },
+  {
+    "code": "A01B 13/12",
+    "description": "••••••Dispositivos para esparcir las capas del subsuelo sobre la superficie [2006.01]"
+  },
+  {
+    "code": "A01B 13/14",
+    "description": "••para el trabajo de la tierra en dos o más capas [2006.01]"
+  },
+  {
+    "code": "A01B 13/16",
+    "description": "••Máquinas para evitar la erosión, p. ej. para excavar zanjas, para construir fosas [2006.01]"
+  },
+  {
+    "code": "A01B 15/00",
+    "description": "Elementos, herramientas o partes constitutivas de los arados [2006.01]"
+  },
+  {
+    "code": "A01B 15/02",
+    "description": "••Hojas de arados; Su fijación [2006.01]"
+  },
+  {
+    "code": "A01B 15/04",
+    "description": "••••Rejas [2006.01]"
+  },
+  {
+    "code": "A01B 15/06",
+    "description": "••••••Rejas intercambiables o regulables [2006.01]"
+  },
+  {
+    "code": "A01B 15/08",
+    "description": "••••Vertederas [2006.01]"
+  },
+  {
+    "code": "A01B 15/10",
+    "description": "••••••Vertederas intercambiables o regulables [2006.01]"
+  },
+  {
+    "code": "A01B 15/12",
+    "description": "••Camas de arados; Esteras o manceras del arado (empuñaduras para herramientas o su fijación en general B25G) [2006.01]"
+  },
+  {
+    "code": "A01B 15/14",
+    "description": "••Bastidores (medios o disposiciones para facilitar el transporte A01B 73/00) [2006.01]"
+  },
+  {
+    "code": "A01B 15/16",
+    "description": "••Discos (sus rodamientos A01B 71/04); Raspadores para la limpieza de los discos; Piezas accesorias para el afilado (afilado en sí B24) [2006.01]"
+  },
+  {
+    "code": "A01B 15/18",
+    "description": "••Rejas de arado [2006.01]"
+  },
+  {
+    "code": "A01B 15/20",
+    "description": "••Dispositivos particulares de regulación para herramientas de arados remolcados o montados sobre tractores, para el trabajo sobre pendientes y laderas [2006.01]"
+  },
+  {
+    "code": "A01B 17/00",
+    "description": "Arados dotados de dispositivos accesorios especiales, p. ej. para enterrar el estiércol o romper los terrones de tierra (A01B 49/00 tiene prioridad; arados para trabajar el subsuelo A01B 13/08) [2006.01]"
+  },
+  {
+    "code": "A01B 19/00",
+    "description": "Rastrillos dotados de herramientas no giratorias (rastrillos de tiro) [2006.01]"
+  },
+  {
+    "code": "A01B 19/02",
+    "description": "••con herramientas fijadas rígida o elásticamente a un bastidor portaherramientas [2006.01]"
+  },
+  {
+    "code": "A01B 19/04",
+    "description": "••••con dos o más portaherramientas [2006.01]"
+  },
+  {
+    "code": "A01B 19/06",
+    "description": "••••con herramientas o bastidor portaherramientas movidos mecánicamente en vaivén [2006.01]"
+  },
+  {
+    "code": "A01B 19/08",
+    "description": "••constituidos por una red de cadenas portadoras de dientes o elementos similares [2006.01]"
+  },
+  {
+    "code": "A01B 19/10",
+    "description": "••Dispositivos para la recogida o la limpieza [2006.01]"
+  },
+  {
+    "code": "A01B 21/00",
+    "description": "Rastrillos con herramientas giratorias no accionadas (instrumentos para mullir la tierra con herramientas rotativas accionadas A01B 33/00) [2006.01]"
+  },
+  {
+    "code": "A01B 21/02",
+    "description": "••con dientes o herramientas similares [2006.01]"
+  },
+  {
+    "code": "A01B 21/04",
+    "description": "••••con ejes horizontales [2006.01]"
+  },
+  {
+    "code": "A01B 21/06",
+    "description": "••••con ejes verticales [2006.01]"
+  },
+  {
+    "code": "A01B 21/08",
+    "description": "••con discos o herramientas similares (pulverizadores) [2006.01]"
+  },
+  {
+    "code": "A01B 23/00",
+    "description": "Elementos, herramientas o partes constitutivas de los rastrillos [2006.01]"
+  },
+  {
+    "code": "A01B 23/02",
+    "description": "••Dientes; Su fijación [2006.01]"
+  },
+  {
+    "code": "A01B 23/04",
+    "description": "••Bastidores (medios o disposiciones para facilitar el transporte A01B 73/00); Dispositivos de tracción [2006.01]"
+  },
+  {
+    "code": "A01B 23/06",
+    "description": "••Discos (A01B 15/16 tiene prioridad; sus rodamientos A01B 71/04); Raspadores de limpieza de discos; Piezas accesorias para el afilado (afilado en sí B24) [2006.01]"
+  },
+  {
+    "code": "A01B 25/00",
+    "description": "Rastrillos dotados de dispositivos accesorios especiales, p. ej. distribuidores de fertilizantes; Rastrillos para trabajos especiales (A01B 39/00 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "A01B 27/00",
+    "description": "Desterronadoras [2006.01]"
+  },
+  {
+    "code": "A01B 29/00",
+    "description": "Rodillos [2006.01]"
+  },
+  {
+    "code": "A01B 29/02",
+    "description": "••de superficie lisa [2006.01]"
+  },
+  {
+    "code": "A01B 29/04",
+    "description": "••de superficie no lisa constituida a base de anillos o discos rotativos libres, o con resaltes o nervios insertados en el cuerpo del rodillo; Rodillos para apisonar [2006.01]"
+  },
+  {
+    "code": "A01B 29/06",
+    "description": "••dotados de dispositivos accesorios especiales [2006.01]"
+  },
+  {
+    "code": "A01B 31/00",
+    "description": "Planchas arrastradas (niveladoras) [2006.01]"
+  },
+  {
+    "code": "A01B 33/00",
+    "description": "Instrumentos dotados de herramientas rotativas accionadas para mullir la tierra [2006.01]"
+  },
+  {
+    "code": "A01B 33/02",
+    "description": "••con las herramientas montadas sobre un árbol horizontal, perpendicular al sentido de la marcha [2006.01]"
+  },
+  {
+    "code": "A01B 33/04",
+    "description": "••con las herramientas montadas sobre un árbol horizontal paralelo al sentido de la marcha [2006.01]"
+  },
+  {
+    "code": "A01B 33/06",
+    "description": "••con las herramientas montadas sobre un árbol vertical o casi vertical [2006.01]"
+  },
+  {
+    "code": "A01B 33/08",
+    "description": "••Herramientas; Detalles, p. ej. adaptación de los órganos de enganche [2006.01]"
+  },
+  {
+    "code": "A01B 33/10",
+    "description": "••••Características estructurales o de funcionamiento de las herramientas [2006.01]"
+  },
+  {
+    "code": "A01B 33/12",
+    "description": "••••Colocación de las herramientas; Pantallas de protección de las herramientas [2006.01]"
+  },
+  {
+    "code": "A01B 33/14",
+    "description": "••••Fijación de las herramientas al árbol de arrastre, p. ej. adaptación elástica de las herramientas [2006.01]"
+  },
+  {
+    "code": "A01B 33/16",
+    "description": "••con dispositivos especiales suplementarios (A01B 49/00 tiene prioridad; para sembrar o esparcir fertilizantes A01B 49/06) [2006.01]"
+  },
+  {
+    "code": "A01B 35/00",
+    "description": "Otras máquinas para el trabajo de la tierra (A01B 37/00, A01B 39/00, A01B 77/00 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "A01B 35/02",
+    "description": "••con herramientas no giratorias [2006.01]"
+  },
+  {
+    "code": "A01B 35/04",
+    "description": "••••con tracción animal o mecánica [2006.01]"
+  },
+  {
+    "code": "A01B 35/06",
+    "description": "••••••con herramientas flexibles [2006.01]"
+  },
+  {
+    "code": "A01B 35/08",
+    "description": "••••••con herramientas rígidas [2006.01]"
+  },
+  {
+    "code": "A01B 35/10",
+    "description": "••••montados sobre tractores [2006.01]"
+  },
+  {
+    "code": "A01B 35/12",
+    "description": "••••••con herramientas flexibles [2006.01]"
+  },
+  {
+    "code": "A01B 35/14",
+    "description": "••••••con herramientas rígidas [2006.01]"
+  },
+  {
+    "code": "A01B 35/16",
+    "description": "••con herramientas giratorias o rodantes no accionadas [2006.01]"
+  },
+  {
+    "code": "A01B 35/18",
+    "description": "••dotadas de herramientas giratorias y de herramientas no giratorias [2006.01]"
+  },
+  {
+    "code": "A01B 35/20",
+    "description": "••Herramientas; Detalles [2006.01]"
+  },
+  {
+    "code": "A01B 35/22",
+    "description": "••••Herramientas no giratorias; Su montaje [2006.01]"
+  },
+  {
+    "code": "A01B 35/24",
+    "description": "••••••Herramientas flexibles [2006.01]"
+  },
+  {
+    "code": "A01B 35/26",
+    "description": "••••••Herramientas rígidas [2006.01]"
+  },
+  {
+    "code": "A01B 35/28",
+    "description": "••••Herramientas giratorias; Su montaje [2006.01]"
+  },
+  {
+    "code": "A01B 35/30",
+    "description": "••••Chasis (A01B 23/04 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "A01B 35/32",
+    "description": "••con dispositivos especiales suplementarios [2006.01]"
+  },
+  {
+    "code": "A01B 37/00",
+    "description": "Dispositivos para mullir el suelo endurecido por ruedas o causas similares [2006.01]"
+  },
+  {
+    "code": "A01B 39/00",
+    "description": "Otras máquinas especialmente destinadas al trabajo de tierras cultivadas [2006.01]"
+  },
+  {
+    "code": "A01B 39/02",
+    "description": "••con herramientas no giratorias [2006.01]"
+  },
+  {
+    "code": "A01B 39/04",
+    "description": "••••con tracción animal o mecánica [2006.01]"
+  },
+  {
+    "code": "A01B 39/06",
+    "description": "••••Máquinas automotrices [2006.01]"
+  },
+  {
+    "code": "A01B 39/08",
+    "description": "••con herramientas giratorias [2006.01]"
+  },
+  {
+    "code": "A01B 39/10",
+    "description": "••con herramientas oscilantes [2006.01]"
+  },
+  {
+    "code": "A01B 39/12",
+    "description": "••con función especial [2006.01]"
+  },
+  {
+    "code": "A01B 39/14",
+    "description": "••••para aporcar [2006.01]"
+  },
+  {
+    "code": "A01B 39/16",
+    "description": "••••para el trabajo en viñedos, huertos o similares [2006.01]"
+  },
+  {
+    "code": "A01B 39/18",
+    "description": "••••para escardar [2006.01]"
+  },
+  {
+    "code": "A01B 39/19",
+    "description": "••••••Escardadoras de vástago, es decir, escardadoras con vástagos rotativos arrastrados bajo la superficie del suelo [2006.01]"
+  },
+  {
+    "code": "A01B 39/20",
+    "description": "••Herramientas; Detalles [2006.01]"
+  },
+  {
+    "code": "A01B 39/22",
+    "description": "••••Herramientas; Su montaje [2006.01]"
+  },
+  {
+    "code": "A01B 39/24",
+    "description": "••••Chasis (A01B 23/04 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "A01B 39/26",
+    "description": "••••Disposición para proteger las plantas [2006.01]"
+  },
+  {
+    "code": "A01B 39/28",
+    "description": "••con dispositivos especiales suplementarios (A01B 49/00 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "A01B 41/00",
+    "description": "Máquinas para entresacar las plantas [2006.01]"
+  },
+  {
+    "code": "A01B 41/02",
+    "description": "••con herramientas oscilantes [2006.01]"
+  },
+  {
+    "code": "A01B 41/04",
+    "description": "••con herramientas giratorias [2006.01]"
+  },
+  {
+    "code": "A01B 41/06",
+    "description": "••de mando eléctrico, p. ej. con control fotoeléctrico, de las operaciones de entresacado [2006.01]"
+  },
+  {
+    "code": "A01B 43/00",
+    "description": "Máquinas para recoger del suelo piedras, raíces indeseables o residuos similares, p. ej. rastrillos tirados por tractor [2006.01]"
+  },
+  {
+    "code": "A01B 45/00",
+    "description": "Máquinas para el tratamiento de praderas o de zonas de césped [2006.01]"
+  },
+  {
+    "code": "A01B 45/02",
+    "description": "••para airear [2006.01]"
+  },
+  {
+    "code": "A01B 47/00",
+    "description": "Trabajo de la tierra por aplicación de una diferencia de potencial eléctrico entre las herramientas y el suelo [2006.01]"
+  },
+  {
+    "code": "A01B 49/00",
+    "description": "Máquinas combinadas (dispositivos auxiliares incorporados a máquinas de otro género, p. ej. rastrillos incorporados a arados, ver los grupos relativos a estas máquinas) [2006.01]"
+  },
+  {
+    "code": "A01B 49/02",
+    "description": "••con dos o más herramientas de trabajo de la tierra de naturaleza diferente [2006.01]"
+  },
+  {
+    "code": "A01B 49/04",
+    "description": "••Combinaciones de herramientas de trabajo de la tierra y de herramientas no destinadas al trabajo de la tierra, tales como herramientas de plantación [2006.01]"
+  },
+  {
+    "code": "A01B 49/06",
+    "description": "••••para sembrar o esparcir fertilizantes [2006.01]"
+  },
+  {
+    "code": "A01B 51/00",
+    "description": "Chasis especialmente preparados para el montaje en ellos de diferentes clases de herramientas o máquinas agrícolas (bajo los aspectos generales de vehículo, ver las subclases apropiadas de las clases B60o B62) [2006.01]"
+  },
+  {
+    "code": "A01B 51/02",
+    "description": "••arrastrados por motor [2006.01]"
+  },
+  {
+    "code": "A01B 51/04",
+    "description": "••a tracción animal o mecánica [2006.01]"
+  },
+  {
+    "code": "A01B 59/00",
+    "description": "Dispositivos especiales para el enganche de animales o de tractores a las máquinas o instrumentos agrícolas (A01B 63/00 tiene prioridad; enganche de vehículos, en general B60D; enganches de vehículos de tracción animal, en general B62C 5/00) [2006.01]"
+  },
+  {
+    "code": "A01B 59/02",
+    "description": "••para máquinas de tracción animal [2006.01]"
+  },
+  {
+    "code": "A01B 59/04",
+    "description": "••para máquinas tiradas o empujadas por tractores [2006.01]"
+  },
+  {
+    "code": "A01B 59/041",
+    "description": "••••con prevención o limitación de la holgura de los instrumentos (prevención del exceso de tensión A01B 61/00) [2006.01]"
+  },
+  {
+    "code": "A01B 59/042",
+    "description": "••••con los medios de tracción colocados en la parte trasera del tractor [2006.01]"
+  },
+  {
+    "code": "A01B 59/043",
+    "description": "••••••con tres puntos de fijación, p. ej. por acoplamiento con desarticulación rápida (A01B 59/06 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "A01B 59/044",
+    "description": "••••con los sistemas de tracción colocados en la parte central del tractor [2006.01]"
+  },
+  {
+    "code": "A01B 59/046",
+    "description": "••••con los sistemas de tracción o de empuje situados sobre el costado del tractor [2006.01]"
+  },
+  {
+    "code": "A01B 59/048",
+    "description": "••••con los sistemas de tracción o de empuje colocados en la delantera del tractor [2006.01]"
+  },
+  {
+    "code": "A01B 59/06",
+    "description": "••para máquinas montadas sobre tractores [2006.01]"
+  },
+  {
+    "code": "A01B 61/00",
+    "description": "Dispositivos o piezas de máquinas o instrumentos agrícolas para evitar un esfuerzo excesivo (limitador de esfuerzo para enganche de vehículos, en general B60D; limitadores de esfuerzo de acoplamiento en sí\n\t\t\t\t\t\t\t\t\tF16D) [2006.01]"
+  },
+  {
+    "code": "A01B 61/02",
+    "description": "••sistemas de acoplamiento de tractores a las máquinas [2006.01]"
+  },
+  {
+    "code": "A01B 61/04",
+    "description": "••puntos de fijación de las herramientas de trabajo a las lengüetas o soportes [2006.01]"
+  },
+  {
+    "code": "A01B 63/00",
+    "description": "Dispositivos o disposiciones de elevación o reglaje para máquinas o instrumentos agrícolas (mecanismos de elevación de la barra de corte de una segadora A01D 34/24; dispositivos de reglaje de la barra de corte de una segadora A01D 34/28; características estructurales de los dispositivos de elevación en sí\n\t\t\t\t\t\t\t\t\tB66F) [2006.01]"
+  },
+  {
+    "code": "A01B 63/02",
+    "description": "••para instrumentos montados sobre tractores [2006.01]"
+  },
+  {
+    "code": "A01B 63/04",
+    "description": "••••Dispositivos manuales; Dispositivos con compensadores mecánicos, p. ej. muelles [2006.01]"
+  },
+  {
+    "code": "A01B 63/06",
+    "description": "••••maniobrados mecánicamente por el motor del tractor [2006.01]"
+  },
+  {
+    "code": "A01B 63/08",
+    "description": "••••maniobrados por el desplazamiento del tractor [2006.01]"
+  },
+  {
+    "code": "A01B 63/10",
+    "description": "••••maniobrados por medios hidráulicos o neumáticos [2006.01]"
+  },
+  {
+    "code": "A01B 63/102",
+    "description": "••••••caracterizado por la posición del montaje sobre el tractor, p. ej. sobre la parte trasera [2006.01]"
+  },
+  {
+    "code": "A01B 63/104",
+    "description": "••••••••sobre la parte central, es decir, entre las ruedas delanteras y traseras [2006.01]"
+  },
+  {
+    "code": "A01B 63/106",
+    "description": "••••••••sobre el costado [2006.01]"
+  },
+  {
+    "code": "A01B 63/108",
+    "description": "••••••••sobre la parte delantera [2006.01]"
+  },
+  {
+    "code": "A01B 63/11",
+    "description": "••••••reglaje de la repartición del peso entre los instrumentos y las ruedas del tractor [2006.01]"
+  },
+  {
+    "code": "A01B 63/111",
+    "description": "••••••Reglaje de la profundidad de trabajo de los instrumentos [2006.01]"
+  },
+  {
+    "code": "A01B 63/112",
+    "description": "••••••••por el control de la fuerza de tracción [2006.01]"
+  },
+  {
+    "code": "A01B 63/114",
+    "description": "••••••••Para obtener una profundidad de trabajo constante [2006.01]"
+  },
+  {
+    "code": "A01B 63/118",
+    "description": "••••••Montaje de los instrumentos sobre los ensamblajes de elevación (A01B 59/043 tiene prioridad; prevención o limitación de la holgura de los instrumentos A01B 59/041; prevención del exceso de tensión A01B 61/00) [2006.01]"
+  },
+  {
+    "code": "A01B 63/12",
+    "description": "••••con accionador eléctrico [2006.01]"
+  },
+  {
+    "code": "A01B 63/14",
+    "description": "••por instrumentos de tracción animal o mecánica [2006.01]"
+  },
+  {
+    "code": "A01B 63/16",
+    "description": "••••con ruedas regulables con relación al bastidor [2006.01]"
+  },
+  {
+    "code": "A01B 63/18",
+    "description": "••••••por embragado entre el eje a bayoneta y la rueda [2006.01]"
+  },
+  {
+    "code": "A01B 63/20",
+    "description": "••••••con engranajes de cremallera [2006.01]"
+  },
+  {
+    "code": "A01B 63/22",
+    "description": "••••••con mando hidráulico o neumático [2006.01]"
+  },
+  {
+    "code": "A01B 63/24",
+    "description": "••••Herramientas o soportes de herramientas regulables en posición con relación al bastidor [2006.01]"
+  },
+  {
+    "code": "A01B 63/26",
+    "description": "••••••manuales [2006.01]"
+  },
+  {
+    "code": "A01B 63/28",
+    "description": "••••••por acción de la máquina o del instrumento [2006.01]"
+  },
+  {
+    "code": "A01B 63/30",
+    "description": "••••••por la acción del motor transmitida mecánicamente [2006.01]"
+  },
+  {
+    "code": "A01B 63/32",
+    "description": "••••••por medios hidráulicos o neumáticos [2006.01]"
+  },
+  {
+    "code": "A01B 67/00",
+    "description": "Dispositivos para ajustar el motor del tractor a la resistencia de las herramientas de trabajo (limitadores de esfuerzos A01B 61/00) [2006.01]"
+  },
+  {
+    "code": "A01B 69/00",
+    "description": "Dirección de máquinas o instrumentos agrícolas; Guía de máquinas o instrumentos agrícolas según un recorrido determinado [2006.01]"
+  },
+  {
+    "code": "A01B 69/02",
+    "description": "••Trazadores de surcos o dispositivos similares; Hilos de alineamiento; Accesorios con estos fines [2006.01]"
+  },
+  {
+    "code": "A01B 69/04",
+    "description": "••Adaptaciones especiales de la conducta automática del tractor, p. ej. sistemas eléctricos para el laboreo según las curvas de nivel [2006.01]"
+  },
+  {
+    "code": "A01B 69/06",
+    "description": "••Desplazamiento lateral de las máquinas por medio de un conductor auxiliar [2006.01]"
+  },
+  {
+    "code": "A01B 69/08",
+    "description": "••Desplazamiento lateral de las máquinas derivado del movimiento lateral del tractor [2006.01]"
+  },
+  {
+    "code": "A01B 71/00",
+    "description": "Estructura o disposición de los mecanismos de regulación o ajuste, del accionamiento o del desenganche de los instrumentos o herramientas; Protección de las piezas contra el polvo, o materia molesta similar; Adaptación de elementos de máquinas con o para fines agrícolas [2006.01]"
+  },
+  {
+    "code": "A01B 71/02",
+    "description": "••Mecanismos de regulación o de ajuste [2006.01]"
+  },
+  {
+    "code": "A01B 71/04",
+    "description": "••Cojinetes de las piezas giratorias, p. ej. para discos de trabajo de la tierra (cojinetes en general F16C) [2006.01]"
+  },
+  {
+    "code": "A01B 71/06",
+    "description": "••Adaptaciones especiales de sistemas de acoplamiento entre la pieza de desenganche y el árbol de transmisión al instrumento o a la máquina (acoplamientos en general F16D) [2006.01]"
+  },
+  {
+    "code": "A01B 71/08",
+    "description": "••Medios de protección contra el polvo, o materia molesta similar, o medios para la limpieza de instrumentos de cultivo (A01B 15/16, A01B 19/10, A01B 23/06 tienen prioridad; pantallas de protección de las herramientas para mullir con accionamiento rotativo A01B 33/12; pantallas de protección para piezas rotativas en general F16P 1/00) [2006.01]"
+  },
+  {
+    "code": "A01B 73/00",
+    "description": "Medios o disposiciones para facilitar el transporte de máquinas o instrumentos agrícolas, p. ej. bastidores plegables que reducen la anchura total (disposiciones de elevación para instrumentos de trabajo de la tierra A01B 63/00; vehículos adaptados al transporte de cargas o para transportar, llevar o conducir cargas u objetos especiales B60P; vehículos a motor, remolques B62D) [2006.01]"
+  },
+  {
+    "code": "A01B 73/02",
+    "description": "••Bastidores plegables [2006.01]"
+  },
+  {
+    "code": "A01B 73/04",
+    "description": "••••plegables alrededor de un eje horizontal [2006.01]"
+  },
+  {
+    "code": "A01B 73/06",
+    "description": "••••plegables alrededor de un eje vertical [2006.01]"
+  },
+  {
+    "code": "A01B 75/00",
+    "description": "Transportadores de personas durante su trabajo en los campos, p. ej. durante el entresacado de la remolacha [2006.01]"
+  },
+  {
+    "code": "A01B 77/00",
+    "description": "Máquinas para levantar y tratar la tierra (biocidas, productos que atraen o rechazan los animales perjudiciales, reguladores del crecimiento de los vegetales A01N 25/00-A01N 65/00; abonado C05; composiciones para acondicionar o para estabilizar los suelos C09K 17/00) [2006.01]"
+  },
+  {
+    "code": "A01B 79/00",
+    "description": "Métodos para trabajar la tierra (requiriendo esencialmente el empleo de máquinas particulares, ver los grupos relativos a estas máquinas) [2006.01]"
+  },
+  {
+    "code": "A01B 79/02",
+    "description": "••en combinación con otras operaciones agrícolas, p. ej. fertilización, plantación [2006.01]"
+  }
+]

@@ -1,0 +1,2310 @@
+[
+  {
+    "code": "G01N 1/00",
+    "description": "Muestreo; Preparación de muestras para la investigación (manipulación de materiales para un análisis automático G01N 35/00) [2006.01]"
+  },
+  {
+    "code": "G01N 1/02",
+    "description": "••Dispositivos para tomar muestras [2006.01]"
+  },
+  {
+    "code": "G01N 1/04",
+    "description": "••••en estado sólido, p. ej. por corte con herramienta [2006.01]"
+  },
+  {
+    "code": "G01N 1/06",
+    "description": "••••••que proporcionan una fina rodaja, p. ej. microtomo [2006.01]"
+  },
+  {
+    "code": "G01N 1/08",
+    "description": "••••••que implican una herramienta de extracción, p. ej. barrena hueca cilíndrica o trépano sacamuestras [2006.01]"
+  },
+  {
+    "code": "G01N 1/10",
+    "description": "••••en estado líquido o fluido [2006.01]"
+  },
+  {
+    "code": "G01N 1/12",
+    "description": "••••••Palas excavadoras; Dragas [2006.01]"
+  },
+  {
+    "code": "G01N 1/14",
+    "description": "••••••Dispositivos de aspiración, p. ej. bombas; Dispositivos de inyección [2006.01]"
+  },
+  {
+    "code": "G01N 1/16",
+    "description": "••••••con provisión para aspiración a varios niveles (G01N 1/12, G01N 1/14 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G01N 1/18",
+    "description": "••••••con provisión para dividir las muestras en varias partes (G01N 1/12, G01N 1/14 tienen prioridad; aparatos colectores de fracciones para la cromatografía B01D 15/08) [2006.01]"
+  },
+  {
+    "code": "G01N 1/20",
+    "description": "••••••para material fluyente o que se desploma (G01N 1/12, G01N 1/14 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G01N 1/22",
+    "description": "••••en estado gaseoso [2006.01]"
+  },
+  {
+    "code": "G01N 1/24",
+    "description": "••••••Dispositivos de aspiración [2006.01]"
+  },
+  {
+    "code": "G01N 1/26",
+    "description": "••••••con medidas tomadas por aspiración a partir de varios emplazamientos [2006.01]"
+  },
+  {
+    "code": "G01N 1/28",
+    "description": "••Preparación de muestras para el análisis (montaje de muestras sobre las placas del microscopio G02B 21/34; medios de soporte para los objetos o para los materiales a examinar en un microscopio electrónico H01J 37/20) [2006.01]"
+  },
+  {
+    "code": "G01N 1/30",
+    "description": "••••Tintura; Impregnación [2006.01]"
+  },
+  {
+    "code": "G01N 1/31",
+    "description": "••••••Aparatos a este efecto [2006.01]"
+  },
+  {
+    "code": "G01N 1/32",
+    "description": "••••Pulido; Decapado [2006.01]"
+  },
+  {
+    "code": "G01N 1/34",
+    "description": "••••Purificación; Limpieza [2006.01]"
+  },
+  {
+    "code": "G01N 1/36",
+    "description": "••••Inclusión o montajes análogos de muestras [2006.01]"
+  },
+  {
+    "code": "G01N 1/38",
+    "description": "••••Disolución, dispersión o mezcla de muestras [2006.01]"
+  },
+  {
+    "code": "G01N 1/40",
+    "description": "••••Concentración de muestras [2006.01]"
+  },
+  {
+    "code": "G01N 1/42",
+    "description": "••••Tratamiento a baja temperatura de muestras, p. ej. criofijación [2006.01]"
+  },
+  {
+    "code": "G01N 1/44",
+    "description": "••••Tratamiento de muestras que implica una radiación, p. ej. calor [2006.01]"
+  },
+  {
+    "code": "G01N 3/00",
+    "description": "Investigación de las propiedades mecánicas de los materiales sólidos por aplicación de una incitación mecánica [2006.01]"
+  },
+  {
+    "code": "G01N 3/02",
+    "description": "••Partes constitutivas [2006.01]"
+  },
+  {
+    "code": "G01N 3/04",
+    "description": "••••Mandriles [2006.01]"
+  },
+  {
+    "code": "G01N 3/06",
+    "description": "••••Adaptaciones especiales de los medios de indicación o de registro [2006.01]"
+  },
+  {
+    "code": "G01N 3/08",
+    "description": "••por aplicación de esfuerzos permanentes de tracción o de compresión (G01N 3/28 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01N 3/10",
+    "description": "••••engendrados por presión neumática o hidráulica (G01N 3/18 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01N 3/12",
+    "description": "••••••Ensayo de presión [2006.01]"
+  },
+  {
+    "code": "G01N 3/14",
+    "description": "••••engendrados por pesos muertos, p. ej. péndulo; engendrados por la tensión de un resorte (G01N 3/18 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01N 3/16",
+    "description": "••••aplicados por un mecanismo (G01N 3/18 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01N 3/18",
+    "description": "••••Realización de ensayos a altas o bajas temperaturas [2006.01]"
+  },
+  {
+    "code": "G01N 3/20",
+    "description": "••aplicando esfuerzos permanentes de flexión (G01N 3/26, G01N 3/28 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G01N 3/22",
+    "description": "••aplicando esfuerzos permanentes de torsión (G01N 3/26, G01N 3/28 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G01N 3/24",
+    "description": "••aplicando esfuerzos permanentes de cizalladura (G01N 3/26, G01N 3/28 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G01N 3/26",
+    "description": "••Investigación de las propiedades de torsión o de enrollamiento [2006.01]"
+  },
+  {
+    "code": "G01N 3/28",
+    "description": "••Investigación de la ductilidad, p. ej. de la aptitud de las chapas metálicas para la embutición o hilatura [2006.01]"
+  },
+  {
+    "code": "G01N 3/30",
+    "description": "••aplicando una fuerza única y breve (investigación de la dureza dejando huellas con una carga impulsiva mediante dispositivos de penetración G01N 3/48) [2006.01]"
+  },
+  {
+    "code": "G01N 3/303",
+    "description": "••••generada por un peso que cae libremente [2006.01]"
+  },
+  {
+    "code": "G01N 3/307",
+    "description": "••••generada por un resorte comprimido o extendido; generada por medios neumáticos o hidráulicos [2006.01]"
+  },
+  {
+    "code": "G01N 3/31",
+    "description": "••••generada por un volante de inercia [2006.01]"
+  },
+  {
+    "code": "G01N 3/313",
+    "description": "••••generada por explosivos [2006.01]"
+  },
+  {
+    "code": "G01N 3/317",
+    "description": "••••generada por medios electromagnéticos [2006.01]"
+  },
+  {
+    "code": "G01N 3/32",
+    "description": "••aplicando esfuerzos repetidos o pulsatorios [2006.01]"
+  },
+  {
+    "code": "G01N 3/34",
+    "description": "••••engendrados por medios mecánicos, p. ej. golpes de martillo [2006.01]"
+  },
+  {
+    "code": "G01N 3/36",
+    "description": "••••engendrados por medios neumáticos o hidráulicos [2006.01]"
+  },
+  {
+    "code": "G01N 3/38",
+    "description": "••••engendrados por medios electromagnéticos [2006.01]"
+  },
+  {
+    "code": "G01N 3/40",
+    "description": "••Investigación de la dureza o de la dureza al rebote [2006.01]"
+  },
+  {
+    "code": "G01N 3/42",
+    "description": "••••efectuando huellas bajo una carga permanente por dispositivos de penetración, p. ej. esfera, pirámide (G01N 3/54 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01N 3/44",
+    "description": "••••••estando colocados los dispositivos de penetración bajo una carga inicial débil, después bajo una carga importante, es decir, el ensayo Rockwell [2006.01]"
+  },
+  {
+    "code": "G01N 3/46",
+    "description": "••••••efectuando los dispositivos de penetración un movimiento de rayado [2006.01]"
+  },
+  {
+    "code": "G01N 3/48",
+    "description": "••••dejando huellas con una carga impulsiva mediante dispositivos de penetración, p. ej. caída de una bola (G01N 3/54 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01N 3/50",
+    "description": "••••midiendo la fricción de rodadura, p. ej. por péndulo oscilante (G01N 3/54 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01N 3/52",
+    "description": "••••midiendo la altura de rebote de un cuerpo (G01N 3/54 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01N 3/54",
+    "description": "••••Realización del ensayo a altas o bajas temperaturas [2006.01]"
+  },
+  {
+    "code": "G01N 3/56",
+    "description": "••Investigación de la resistencia al desgaste o a la abrasión [2006.01]"
+  },
+  {
+    "code": "G01N 3/58",
+    "description": "••Investigación de la mecanizabilidad por herramientas de corte; Investigación de la aptitud al corte de herramientas [2006.01]"
+  },
+  {
+    "code": "G01N 3/60",
+    "description": "••Investigación de la resistencia de materiales, p. ej. de materiales refractarios, a las variaciones rápidas de temperatura [2006.01]"
+  },
+  {
+    "code": "G01N 3/62",
+    "description": "••Fabricación, calibrado o reparación de los dispositivos utilizados en las investigaciones comprendidas en los subgrupos precedentes [2006.01]"
+  },
+  {
+    "code": "G01N 5/00",
+    "description": "Análisis de materiales por pesada, p. ej. pesada de finas partículas separadas de un gas o un líquido (G01N 9/00 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01N 5/02",
+    "description": "••absorbiendo o adsorbiendo los constituyentes de un material y determinando la variación de peso del adsorbente, p. ej. determinando el contenido en agua [2006.01]"
+  },
+  {
+    "code": "G01N 5/04",
+    "description": "••eliminando un constituyente, p. ej. por evaporación, pesando el resto [2006.01]"
+  },
+  {
+    "code": "G01N 7/00",
+    "description": "Análisis de materiales midiendo la presión o el volumen de un gas o de un vapor [2006.01]"
+  },
+  {
+    "code": "G01N 7/02",
+    "description": "••por absorción, adsorción o combustión de los constituyentes y medida de la variación de presión o de volumen del resto [2006.01]"
+  },
+  {
+    "code": "G01N 7/04",
+    "description": "••••por absorción o adsorción solas [2006.01]"
+  },
+  {
+    "code": "G01N 7/06",
+    "description": "••••por combustión solo [2006.01]"
+  },
+  {
+    "code": "G01N 7/08",
+    "description": "••••por combustión seguida de absorción o de adsorción de los productos de la combustión [2006.01]"
+  },
+  {
+    "code": "G01N 7/10",
+    "description": "••permitiendo la difusión de los constituyentes a través de una membrana porosa y midiendo la diferencia de presión o de volumen [2006.01]"
+  },
+  {
+    "code": "G01N 7/12",
+    "description": "••••siguiendo la difusión una combustión u oxidación catalítica [2006.01]"
+  },
+  {
+    "code": "G01N 7/14",
+    "description": "••permitiendo al material emitir un gas o un vapor, p. ej. vapor de agua, y midiendo una diferencia de presión o de volumen [2006.01]"
+  },
+  {
+    "code": "G01N 7/16",
+    "description": "••••calentando el material [2006.01]"
+  },
+  {
+    "code": "G01N 7/18",
+    "description": "••••permitiendo al material reaccionar [2006.01]"
+  },
+  {
+    "code": "G01N 7/20",
+    "description": "••••••siendo la reacción una fermentación [2006.01]"
+  },
+  {
+    "code": "G01N 7/22",
+    "description": "••••••••de pasta [2006.01]"
+  },
+  {
+    "code": "G01N 9/00",
+    "description": "Investigación del peso específico o de la densidad de los materiales; Análisis de los materiales determinando el peso específico o la densidad [2006.01]"
+  },
+  {
+    "code": "G01N 9/02",
+    "description": "••midiendo el peso de un volumen conocido [2006.01]"
+  },
+  {
+    "code": "G01N 9/04",
+    "description": "••••de fluidos [2006.01]"
+  },
+  {
+    "code": "G01N 9/06",
+    "description": "••••••con circulación continua a través de un elemento soportado por un pivote [2006.01]"
+  },
+  {
+    "code": "G01N 9/08",
+    "description": "••midiendo la fuerza de flotación de materiales sólidos y pesándolos a la vez en el aire y en un líquido [2006.01]"
+  },
+  {
+    "code": "G01N 9/10",
+    "description": "••observando cuerpos completos o parcialmente sumergidos en materiales fluidos [2006.01]"
+  },
+  {
+    "code": "G01N 9/12",
+    "description": "••••observando la profundidad de inmersión de los cuerpos, p. ej. densímetros [2006.01]"
+  },
+  {
+    "code": "G01N 9/14",
+    "description": "••••••estando situado el cuerpo en un recipiente [2006.01]"
+  },
+  {
+    "code": "G01N 9/16",
+    "description": "••••••estando el cuerpo pivotado [2006.01]"
+  },
+  {
+    "code": "G01N 9/18",
+    "description": "••••••Adaptaciones especiales para la indicación, el registro o el control [2006.01]"
+  },
+  {
+    "code": "G01N 9/20",
+    "description": "••••equilibrando el peso de los cuerpos [2006.01]"
+  },
+  {
+    "code": "G01N 9/22",
+    "description": "••••••con circulación continua de fluido [2006.01]"
+  },
+  {
+    "code": "G01N 9/24",
+    "description": "••observando la propagación de la onda o de la radiación de partículas a través del material [2006.01]"
+  },
+  {
+    "code": "G01N 9/26",
+    "description": "••midiendo diferencias de presión [2006.01]"
+  },
+  {
+    "code": "G01N 9/28",
+    "description": "••••midiendo la presión de soplado de las burbujas de gas que se escapan de orificios situados a diferentes profundidades en un líquido [2006.01]"
+  },
+  {
+    "code": "G01N 9/30",
+    "description": "••utilizando efectos centrífugos [2006.01]"
+  },
+  {
+    "code": "G01N 9/32",
+    "description": "••utilizando las propiedades de flujo de fluidos, p. ej. flujo a través de tubos o de aberturas [2006.01]"
+  },
+  {
+    "code": "G01N 9/34",
+    "description": "••••utilizando elementos que se desplazan a través del fluido, p. ej. molinete (o aleta, o álabe) [2006.01]"
+  },
+  {
+    "code": "G01N 9/36",
+    "description": "••Análisis de materiales midiendo el peso específico o la densidad, p. ej. determinación de la cantidad de humedad (métodos de medida G01N 9/02-G01N 9/32) [2006.01]"
+  },
+  {
+    "code": "G01N 11/00",
+    "description": "Investigación de las propiedades de flujo de materiales, p. ej. viscosidad o plasticidad; Análisis de materiales mediante la determinación de las propiedades de flujo [2006.01]"
+  },
+  {
+    "code": "G01N 11/02",
+    "description": "••midiendo el flujo del material [2006.01]"
+  },
+  {
+    "code": "G01N 11/04",
+    "description": "••••a través de un paso estrecho, p. ej. un tubo, una abertura [2006.01]"
+  },
+  {
+    "code": "G01N 11/06",
+    "description": "••••••cronometrando el flujo de una cantidad conocida hacia el exterior [2006.01]"
+  },
+  {
+    "code": "G01N 11/08",
+    "description": "••••••midiendo la presión necesaria para la producción de un flujo conocido [2006.01]"
+  },
+  {
+    "code": "G01N 11/10",
+    "description": "••desplazando un cuerpo en el interior del material [2006.01]"
+  },
+  {
+    "code": "G01N 11/12",
+    "description": "••••midiendo la velocidad de subida o de caída de cuerpos; midiendo la penetración de calibres biselados (G01N 11/16 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01N 11/14",
+    "description": "••••utilizando cuerpos en rotación, p. ej. álabes (G01N 11/16 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01N 11/16",
+    "description": "••••midiendo el efecto de amortiguación sobre un cuerpo oscilante [2006.01]"
+  },
+  {
+    "code": "G01N 13/00",
+    "description": "Investigación de los efectos de superficie o de capa límite, p. ej. poder de mojado; Investigación de los efectos de difusión; Análisis de materiales mediante la caracterización de efectos de superficie, capa límite o difusión (técnicas o aparatos de sonda de barrido G01Q) [2006.01]"
+  },
+  {
+    "code": "G01N 13/02",
+    "description": "••Investigación de la tensión superficial de los líquidos [2006.01]"
+  },
+  {
+    "code": "G01N 13/04",
+    "description": "••Investigación de los efectos osmóticos [2006.01]"
+  },
+  {
+    "code": "G01N 15/00",
+    "description": "Investigación de características de partículas; Investigación de la permeabilidad, del volumen de los poros o del área superficial efectiva de los materiales porosos (identificación de microorganismos C12Q) [2006.01]"
+  },
+  {
+    "code": "G01N 15/02",
+    "description": "••Investigación de la dimensión o de la distribución de dimensiones de partículas (G01N 15/04, G01N 15/10 tienen prioridad; por medida de la presión osmótica G01N 7/10) [2006.01]"
+  },
+  {
+    "code": "G01N 15/04",
+    "description": "••Investigación de la sedimentación de suspensiones de partículas [2006.01]"
+  },
+  {
+    "code": "G01N 15/05",
+    "description": "••••en la sangre [2006.01]"
+  },
+  {
+    "code": "G01N 15/06",
+    "description": "••Investigación de la concentración de suspensiones de partículas (G01N 15/04, G01N 15/10 tienen prioridad; por pesada G01N 5/00) [2006.01]"
+  },
+  {
+    "code": "G01N 15/08",
+    "description": "••Investigación de la permeabilidad, del volumen de los poros o del área superficial de los materiales porosos [2006.01]"
+  },
+  {
+    "code": "G01N 15/10",
+    "description": "••Investigación de partículas individuales [2006.01]"
+  },
+  {
+    "code": "G01N 15/12",
+    "description": "••••Contadores del tipo Coulter [2006.01]"
+  },
+  {
+    "code": "G01N 15/14",
+    "description": "••••Investigación por medios electroópticos [2006.01]"
+  },
+  {
+    "code": "G01N 17/00",
+    "description": "Investigación de la resistencia de materiales a la intemperie, a la corrosión o a la luz [2006.01]"
+  },
+  {
+    "code": "G01N 17/02",
+    "description": "••Sistemas de medida electroquímica de la acción de la intemperie, de la corrosión o de la protección contra la corrosión (G01N 17/04 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01N 17/04",
+    "description": "••Sondas de corrosión [2006.01]"
+  },
+  {
+    "code": "G01N 19/00",
+    "description": "Investigación sobre los materiales por procedimientos mecánicos (G01N 3/00-G01N 17/00 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G01N 19/02",
+    "description": "••Medida del coeficiente de fricción entre materiales [2006.01]"
+  },
+  {
+    "code": "G01N 19/04",
+    "description": "••Medida de la fuerza de adherencia entre materiales, p. ej. de la cinta adhesiva, de un revestimiento [2006.01]"
+  },
+  {
+    "code": "G01N 19/06",
+    "description": "••Investigación por retirada de materia, p. ej. ensayo del centelleo [2006.01]"
+  },
+  {
+    "code": "G01N 19/08",
+    "description": "••Detección de la presencia de grietas o de irregularidades [2006.01]"
+  },
+  {
+    "code": "G01N 19/10",
+    "description": "••Medida del contenido en agua, p. ej. por medida de la variación de la longitud de un filamento higroscópico; Higrómetros [2006.01]"
+  },
+  {
+    "code": "G01N 21/00",
+    "description": "Investigación o análisis de los materiales por la utilización de medios ópticos, es decir, utilizando rayos infrarrojos, visibles o ultravioletas (G01N 3/00-G01N 19/00  tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G01N 21/01",
+    "description": "••Dispositivos o aparatos para facilitar la investigación óptica [2006.01]"
+  },
+  {
+    "code": "G01N 21/03",
+    "description": "••••Detalles estructurales de las cubetas [2006.01]"
+  },
+  {
+    "code": "G01N 21/05",
+    "description": "••••••Cubetas con circulación de fluidos (G01N 21/09  tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01N 21/07",
+    "description": "••••••Cubetas de tipo centrífugo (G01N 21/09  tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01N 21/09",
+    "description": "••••••adaptadas para resistir a un medio hostil o a materiales corrosivos o abrasivos [2006.01]"
+  },
+  {
+    "code": "G01N 21/11",
+    "description": "••••Llenado o vaciado de cubetas [2006.01]"
+  },
+  {
+    "code": "G01N 21/13",
+    "description": "••••Transporte de cubetas o de muestras sólidas hacia o a partir del emplazamiento de investigación [2006.01]"
+  },
+  {
+    "code": "G01N 21/15",
+    "description": "••••Prevención de la contaminación de elementos del sistema óptico o de la obstrucción del recorrido luminoso [2006.01]"
+  },
+  {
+    "code": "G01N 21/17",
+    "description": "••Sistemas en los que la luz incidente es modificada con arreglo a las propiedades del material examinado (en los que el material examinado es ópticamente excitado para producir un cambio de la longitud de onda de la luz incidente G01N 21/63) [2006.01]"
+  },
+  {
+    "code": "G01N 21/19",
+    "description": "••••Dicroísmo [2006.01]"
+  },
+  {
+    "code": "G01N 21/21",
+    "description": "••••Propiedades que afectan a la polarización (G01N 21/19  tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01N 21/23",
+    "description": "••••••Birrefracción [2006.01]"
+  },
+  {
+    "code": "G01N 21/25",
+    "description": "••••Color; Propiedades espectrales, es decir, comparación del efecto del material sobre la luz para varias longitudes de ondas o varias bandas de longitudes de ondas diferentes [2006.01]"
+  },
+  {
+    "code": "G01N 21/27",
+    "description": "••••••utilizando la detección fotoeléctrica (G01N 21/31  tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01N 21/29",
+    "description": "••••••utilizando la detección visual (G01N 21/31  tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01N 21/31",
+    "description": "••••••investigando el efecto relativo del material para las longitudes de ondas características de elementos o de moléculas específicas, p. ej. espectrometría de absorción atómica [2006.01]"
+  },
+  {
+    "code": "G01N 21/33",
+    "description": "••••••••utilizando la luz ultravioleta (G01N 21/39  tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01N 21/35",
+    "description": "••••••••utilizando luz infrarroja (G01N 21/39 tiene prioridad) [2014.01]"
+  },
+  {
+    "code": "G01N 21/3504",
+    "description": "••••••••••para análisis de gases, p. ej. análisis multi-gas [2014.01]"
+  },
+  {
+    "code": "G01N 21/3518",
+    "description": "••••••••••••Dispositivos que utilizan técnicas de correlación de filtro de gas; Dispositivos que utilizan técnicas de modulación de presión de gas [2014.01]"
+  },
+  {
+    "code": "G01N 21/3554",
+    "description": "••••••••••para determinar el contenido de humedad [2014.01]"
+  },
+  {
+    "code": "G01N 21/3559",
+    "description": "••••••••••••en hojas, p. ej. en papel [2014.01]"
+  },
+  {
+    "code": "G01N 21/3563",
+    "description": "••••••••••para el análisis de sólidos; Preparación de muestras para ello [2014.01]"
+  },
+  {
+    "code": "G01N 21/3577",
+    "description": "••••••••••para el análisis de líquidos, p. ej. agua contaminada [2014.01]"
+  },
+  {
+    "code": "G01N 21/3581",
+    "description": "••••••••••utilizando luz en el infrarrojo lejano; utilizando radiacion en teraherzios [2014.01]"
+  },
+  {
+    "code": "G01N 21/3586",
+    "description": "••••••••••••por espectroscopia de terahercios dentro del dominio de tiempo [THz-TDS] [2014.01]"
+  },
+  {
+    "code": "G01N 21/359",
+    "description": "••••••••••utilizando luz en el infrarrojo cercano [2014.01]"
+  },
+  {
+    "code": "G01N 21/37",
+    "description": "••••••••••utilizando la detección neumática [2006.01]"
+  },
+  {
+    "code": "G01N 21/39",
+    "description": "••••••••utilizando lasers con longitud de onda regulable [2006.01]"
+  },
+  {
+    "code": "G01N 21/41",
+    "description": "••••Refracción; Propiedades ligadas a la fase, p. ej. longitud del recorrido óptico (G01N 21/21  tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01N 21/43",
+    "description": "••••••midiendo el ángulo crítico [2006.01]"
+  },
+  {
+    "code": "G01N 21/45",
+    "description": "••••••utilizando métodos interferométricos; utilizando los métodos de Schlieren [2006.01]"
+  },
+  {
+    "code": "G01N 21/47",
+    "description": "••••Dispersión, es decir, reflexión difusa (G01N 21/25, G01N 21/41  tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G01N 21/49",
+    "description": "••••••en un cuerpo o en un líquido [2006.01]"
+  },
+  {
+    "code": "G01N 21/51",
+    "description": "••••••••en el interior de un recipiente, p. ej. en una ampolla (G01N 21/53  tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01N 21/53",
+    "description": "••••••••en una corriente de fluido, p. ej. en el humo [2006.01]"
+  },
+  {
+    "code": "G01N 21/55",
+    "description": "••••Reflexión especular [2014.01]"
+  },
+  {
+    "code": "G01N 21/552",
+    "description": "••••••Atenuación de la reflexión total [2014.01]"
+  },
+  {
+    "code": "G01N 21/57",
+    "description": "••••••midiendo el brillo [2006.01]"
+  },
+  {
+    "code": "G01N 21/59",
+    "description": "••••Transmisibilidad (G01N 21/25  tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01N 21/61",
+    "description": "••••••Analizadores de gas no dispersivo [2006.01]"
+  },
+  {
+    "code": "G01N 21/62",
+    "description": "••Sistemas en los cuales el material analizado se excita de forma que emita luz o produzca un cambio de la longitud de onda de la luz incidente [2006.01]"
+  },
+  {
+    "code": "G01N 21/63",
+    "description": "••••excitado ópticamente [2006.01]"
+  },
+  {
+    "code": "G01N 21/64",
+    "description": "••••••Fluorescencia; Fosforescencia [2006.01]"
+  },
+  {
+    "code": "G01N 21/65",
+    "description": "••••••Difusión de Raman [2006.01]"
+  },
+  {
+    "code": "G01N 21/66",
+    "description": "••••excitado eléctricamente, p. ej. por electroluminiscencia [2006.01]"
+  },
+  {
+    "code": "G01N 21/67",
+    "description": "••••••utilizando arcos eléctricos o descargas eléctricas [2006.01]"
+  },
+  {
+    "code": "G01N 21/68",
+    "description": "••••••utilizando campos eléctricos de alta frecuencia [2006.01]"
+  },
+  {
+    "code": "G01N 21/69",
+    "description": "••••••especialmente adaptados para los fluidos [2006.01]"
+  },
+  {
+    "code": "G01N 21/70",
+    "description": "••••excitado mecánicamente, p. ej. por triboluminiscencia [2006.01]"
+  },
+  {
+    "code": "G01N 21/71",
+    "description": "••••excitado térmicamente [2006.01]"
+  },
+  {
+    "code": "G01N 21/72",
+    "description": "••••••utilizando quemadores de llama [2006.01]"
+  },
+  {
+    "code": "G01N 21/73",
+    "description": "••••••utilizando quemadores o antorchas de plasma [2006.01]"
+  },
+  {
+    "code": "G01N 21/74",
+    "description": "••••••utilizando una atomización sin llama, p. ej. hornos de grafito [2006.01]"
+  },
+  {
+    "code": "G01N 21/75",
+    "description": "••Sistemas en los cuales el material se somete a una reacción química, siendo analizado la mejora o el resultado de la reacción (sistemas en los cuales el material se quema con llama o plasma G01N 21/72, G01N 21/73) [2006.01]"
+  },
+  {
+    "code": "G01N 21/76",
+    "description": "••••Quimicoluminiscencia; Bioluminiscencia [2006.01]"
+  },
+  {
+    "code": "G01N 21/77",
+    "description": "••••observando el efecto sobre un reactivo químico [2006.01]"
+  },
+  {
+    "code": "G01N 21/78",
+    "description": "••••••produciendo un cambio de color [2006.01]"
+  },
+  {
+    "code": "G01N 21/79",
+    "description": "••••••••Valoración fotométrica [2006.01]"
+  },
+  {
+    "code": "G01N 21/80",
+    "description": "••••••••Indicación del valor del pH [2006.01]"
+  },
+  {
+    "code": "G01N 21/81",
+    "description": "••••••••Indicación de la humedad [2006.01]"
+  },
+  {
+    "code": "G01N 21/82",
+    "description": "••••••produciendo un precipitado o una turbulencia [2006.01]"
+  },
+  {
+    "code": "G01N 21/83",
+    "description": "••••••••Valoración turbidimétrica [2006.01]"
+  },
+  {
+    "code": "G01N 21/84",
+    "description": "••Sistemas especialmente adaptados a aplicaciones particulares [2006.01]"
+  },
+  {
+    "code": "G01N 21/85",
+    "description": "••••Análisis de fluidos o sólidos granulados en movimiento [2006.01]"
+  },
+  {
+    "code": "G01N 21/86",
+    "description": "••••Análisis de hojas móviles (G01N 21/89  tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01N 21/87",
+    "description": "••••Análisis de piedras preciosas (G01N 21/88  tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01N 21/88",
+    "description": "••••Investigación de la presencia de grietas, de defectos o de manchas [2006.01]"
+  },
+  {
+    "code": "G01N 21/89",
+    "description": "••••••en un material móvil, p. ej. del papel, de tejidos (G01N 21/90, G01N 21/91, G01N 21/94  tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G01N 21/892",
+    "description": "••••••••caracterizada por la grieta, el defecto o la característica del objeto que se examina [2006.01]"
+  },
+  {
+    "code": "G01N 21/894",
+    "description": "••••••••••Poros [2006.01]"
+  },
+  {
+    "code": "G01N 21/896",
+    "description": "••••••••••Defectos ópticos en o sobre materiales transparentes, p. ej. distorsiones, grietas superficiales [2006.01]"
+  },
+  {
+    "code": "G01N 21/898",
+    "description": "••••••••••Irregularidades en superficies texturadas o estructuradas, p. ej. tejidos, madera [2006.01]"
+  },
+  {
+    "code": "G01N 21/90",
+    "description": "••••••en un recipiente o en su contenido (G01N 21/91  tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01N 21/91",
+    "description": "••••••utilizando la penetración de colorantes, p. ej. de tinta fluorescente [2006.01]"
+  },
+  {
+    "code": "G01N 21/93",
+    "description": "••••••Patrones de detección; Calibración [2006.01]"
+  },
+  {
+    "code": "G01N 21/94",
+    "description": "••••••Investigación del ensuciamiento, p. ej. por polvo (G01N 21/85  tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01N 21/95",
+    "description": "••••••caracterizada por el material o la forma del objeto que se va a examinar (G01N 21/89-G01N 21/91, G01N 21/94  tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01N 21/952",
+    "description": "••••••••Inspección de la superficie exterior de cuerpos cilíndricos o de hilos (G01N 21/956  tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01N 21/954",
+    "description": "••••••••Inspección de la superficie interna de cuerpos huecos, p. ej. de taladros [2006.01]"
+  },
+  {
+    "code": "G01N 21/956",
+    "description": "••••••••Inspección de motivos sobre la superfice de objetos [2006.01]"
+  },
+  {
+    "code": "G01N 21/958",
+    "description": "••••••••Inspección de materiales transparentes [2006.01]"
+  },
+  {
+    "code": "G01N 22/00",
+    "description": "Investigación o análisis de materiales por la utilización de microondas (G01N 3/00-G01N 17/00, G01N 24/00 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G01N 22/02",
+    "description": "••Investigación de la presencia de grietas [2006.01]"
+  },
+  {
+    "code": "G01N 22/04",
+    "description": "••Investigación del contenido de agua [2006.01]"
+  },
+  {
+    "code": "G01N 23/00",
+    "description": "Investigación o análisis de materiales mediante la utilización de radiaciones de ondas o partículas, p. ej. rayos X o neutrones, no cubiertos por los grupos G01N 3/00-G01N 17/00, G01N 21/00 o G01N 22/00 [2006.01]"
+  },
+  {
+    "code": "G01N 23/02",
+    "description": "••transmitiendo la radiación a través del material [2006.01]"
+  },
+  {
+    "code": "G01N 23/04",
+    "description": "••••y formando imágenes del material [2018.01]"
+  },
+  {
+    "code": "G01N 23/041",
+    "description": "••••••Obtención de imágenes por contraste de fase, p. ej. utilizando interferómetros de rejilla [2018.01]"
+  },
+  {
+    "code": "G01N 23/044",
+    "description": "••••••utilizando laminografía o tomosíntesis [2018.01]"
+  },
+  {
+    "code": "G01N 23/046",
+    "description": "••••••utilizando tomografía, p. ej. tomografía computarizada [CT] [2018.01]"
+  },
+  {
+    "code": "G01N 23/05",
+    "description": "••••••utilizando neutrones [2006.01]"
+  },
+  {
+    "code": "G01N 23/06",
+    "description": "••••y midiendo la absorción [2018.01]"
+  },
+  {
+    "code": "G01N 23/083",
+    "description": "••••••consistiendo la radiación en rayos X [2018.01]"
+  },
+  {
+    "code": "G01N 23/085",
+    "description": "••••••••Absorción de rayos-X en estructura fina [XAFS], p. ej. absorción de rayos X en la región extendida [EXAFS] [2018.01]"
+  },
+  {
+    "code": "G01N 23/087",
+    "description": "••••••••utilizando rayos X polienergéticos [2018.01]"
+  },
+  {
+    "code": "G01N 23/09",
+    "description": "••••••consistiendo la radiación en neutrones [2018.01]"
+  },
+  {
+    "code": "G01N 23/095",
+    "description": "••••••Absorción de resonancia de rayos gamma, p. ej. utilizando el efecto Mössbauer [2018.01]"
+  },
+  {
+    "code": "G01N 23/10",
+    "description": "••••••estando el material confinado en un recipiente, p. ej. en analizadores de equipaje por rayos X [2018.01]"
+  },
+  {
+    "code": "G01N 23/12",
+    "description": "••••••siendo el material un líquido o un sólido granulado fluyente [2018.01]"
+  },
+  {
+    "code": "G01N 23/16",
+    "description": "••••••siendo el material una hoja móvil o una película [2018.01]"
+  },
+  {
+    "code": "G01N 23/18",
+    "description": "••••••Investigación de la presencia de defectos o de material extraño [2018.01]"
+  },
+  {
+    "code": "G01N 23/20",
+    "description": "••utilizando la difracción de la radiación por los materiales, p. ej. para investigar la estructura cristalina; utilizando la dispersión de la radiación por los materiales, p. ej. para la investigación de materiales no cristalinos; utilizando la reflexión de la radiación por los materiales [2018.01]"
+  },
+  {
+    "code": "G01N 23/20008",
+    "description": "••••Partes constructivas de los analizadores, p. ej. caracterizados por la fuente de rayos X, el detector o el sistema óptico; Accesorios para los mismos; Preparación de muestras para los mismos (monocromadores para rayos X que utilizan cristales G21K 1/06) [2018.01]"
+  },
+  {
+    "code": "G01N 23/20016",
+    "description": "••••••Goniómetros [2018.01]"
+  },
+  {
+    "code": "G01N 23/20025",
+    "description": "••••••Portamuestras o soportes para los mismos [2018.01]"
+  },
+  {
+    "code": "G01N 23/20033",
+    "description": "••••••••provistos de medios de calentamiento o de control de temperatura [2018.01]"
+  },
+  {
+    "code": "G01N 23/20041",
+    "description": "••••••••para pruebas a alta presión, p. ej. celdas de yunque [2018.01]"
+  },
+  {
+    "code": "G01N 23/2005",
+    "description": "••••••Preparación de muestras en polvo para los mismos [2018.01]"
+  },
+  {
+    "code": "G01N 23/20058",
+    "description": "••••Medición de la difracción de electrones, p. ej. por el procedimiento de difracción de electrones de baja energía [LEED] o por el procedimiento de difracción por reflexión de electrones de alta energía [RHEED] [2018.01]"
+  },
+  {
+    "code": "G01N 23/20066",
+    "description": "••••Medición de la dispersión inelástica de rayos gamma, p. ej. por efecto Compton [2018.01]"
+  },
+  {
+    "code": "G01N 23/20091",
+    "description": "••••Medición del espectro de dispersión de energía [EDS] de la radiación difractada [2018.01]"
+  },
+  {
+    "code": "G01N 23/201",
+    "description": "••••Medición de la dispersión bajo un pequeño ángulo, p. ej. dispersión de rayos X bajo un pequeño ángulo [SAXS] [2018.01]"
+  },
+  {
+    "code": "G01N 23/202",
+    "description": "••••••utilizando neutrones [2006.01]"
+  },
+  {
+    "code": "G01N 23/203",
+    "description": "••••Medición de la retrodispersión [2006.01]"
+  },
+  {
+    "code": "G01N 23/204",
+    "description": "••••••utilizando neutrones [2006.01]"
+  },
+  {
+    "code": "G01N 23/205",
+    "description": "••••utilizando cámaras de difracción [2018.01]"
+  },
+  {
+    "code": "G01N 23/2055",
+    "description": "••••Análisis de los patrones de difracción [2018.01]"
+  },
+  {
+    "code": "G01N 23/207",
+    "description": "••••Difractometría, p. ej. utilizando una sonda en posición central y uno o varios detectores móviles dispuestos en círculo [2018.01]"
+  },
+  {
+    "code": "G01N 23/22",
+    "description": "••midiendo la emisión secundaria del material [2018.01]"
+  },
+  {
+    "code": "G01N 23/2202",
+    "description": "••••Preparación de muestras para los mismos [2018.01]"
+  },
+  {
+    "code": "G01N 23/2204",
+    "description": "••••Soportes de muestras para los mismos; Medios de transporte de las muestras para los mismos [2018.01]"
+  },
+  {
+    "code": "G01N 23/2206",
+    "description": "••••Combinación de dos o mas mediciones, siendo al menos una de las mediciones la emisión secundaria, p. ej. combinación de medición de electrones secundarios [SE] y medición de electrones retrodispersados [BSE] [2018.01]"
+  },
+  {
+    "code": "G01N 23/2208",
+    "description": "••••••siendo todas las mediciones de emisión secundaria, p. ej. una combinación de medición SE y una medición de rayos X característicos [2018.01]"
+  },
+  {
+    "code": "G01N 23/2209",
+    "description": "••••utilizando espectroscopía por dispersión de longitud de onda [WDS] [2018.01]"
+  },
+  {
+    "code": "G01N 23/221",
+    "description": "••••utilizando el análisis por activación [2006.01]"
+  },
+  {
+    "code": "G01N 23/222",
+    "description": "••••••utilizando análisis por activación de neutrones [NAA] [2006.01]"
+  },
+  {
+    "code": "G01N 23/223",
+    "description": "••••irradiando la muestra con rayos X o rayos gamma y midiendo la fluorescencia de rayos X [2006.01]"
+  },
+  {
+    "code": "G01N 23/225",
+    "description": "••••utilizando microsondas electrónicas o iónicas [2018.01]"
+  },
+  {
+    "code": "G01N 23/2251",
+    "description": "••••••utilizando haces de electrones incidentes, p. ej. microscopía electrónica de barrido [SEM] [2018.01]"
+  },
+  {
+    "code": "G01N 23/2252",
+    "description": "••••••••Medición de rayos X emitidos, p. ej. análisis por microsonda electrónica [EPMA] [2018.01]"
+  },
+  {
+    "code": "G01N 23/2254",
+    "description": "••••••••Medición de catodoluminiscencia [2018.01]"
+  },
+  {
+    "code": "G01N 23/2255",
+    "description": "••••••utilizando haces de iones incidentes, p. ej. haces de protones [2018.01]"
+  },
+  {
+    "code": "G01N 23/2257",
+    "description": "••••••••Medición de rayos X excitados, es decir, emisión de rayos X inducida por partículas [PIXE] [2018.01]"
+  },
+  {
+    "code": "G01N 23/2258",
+    "description": "••••••••Medición de emisión de iones secundarios, p. ej. espectrometría de masas de iones secundarios [SIMS] (aspectos del análisis de la relación masa/carga de SIMS para el análisis de materiales G01N 27/62) [2018.01]"
+  },
+  {
+    "code": "G01N 23/227",
+    "description": "••••Medición del efecto fotoeléctrico, p. ej. microscopía de emisión de fotoelectrones [PEEM] [2018.01]"
+  },
+  {
+    "code": "G01N 23/2273",
+    "description": "••••••Medición del espectro de fotoelectrones, p. ej. espectroscopia de electrones para análisis químico [ESCA] o espectroscopia fotoelectrónica por rayos X [XPS] [2018.01]"
+  },
+  {
+    "code": "G01N 23/2276",
+    "description": "••••••utilizando el efecto Auger, p. ej. espectroscopia de electrones Auger [AES] [2018.01]"
+  },
+  {
+    "code": "G01N 24/00",
+    "description": "Investigación o análisis de materiales por utilización de la resonancia magnética nuclear, de la resonancia paramagnética electrónica o de otros efectos de spin [2006.01]"
+  },
+  {
+    "code": "G01N 24/08",
+    "description": "••utilizando la resonancia magnética nuclear (G01N 24/12 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01N 24/10",
+    "description": "••utilizando la resonancia paramagnética electrónica (G01N 24/12 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01N 24/12",
+    "description": "••utilizando la resonancia doble [2006.01]"
+  },
+  {
+    "code": "G01N 24/14",
+    "description": "••utilizando la resonancia ciclotrón [2006.01]"
+  },
+  {
+    "code": "G01N 25/00",
+    "description": "Investigación o análisis de materiales mediante la utilización de medios térmicos (G01N 3/00-G01N 23/00 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G01N 25/02",
+    "description": "••investigando los cambios de estado o de fase; investigando la sinterización [2006.01]"
+  },
+  {
+    "code": "G01N 25/04",
+    "description": "••••del punto de fusión; del punto de congelación; del punto de ablandamiento [2006.01]"
+  },
+  {
+    "code": "G01N 25/06",
+    "description": "••••••Análisis midiendo la variación del punto de congelación [2006.01]"
+  },
+  {
+    "code": "G01N 25/08",
+    "description": "••••del punto de ebullición [2006.01]"
+  },
+  {
+    "code": "G01N 25/10",
+    "description": "••••••Análisis midiendo la variación del punto de ebullición [2006.01]"
+  },
+  {
+    "code": "G01N 25/12",
+    "description": "••••del punto crítico; de otro cambio de fase [2006.01]"
+  },
+  {
+    "code": "G01N 25/14",
+    "description": "••utilizando la destilación, la extracción, la sublimación, la condensación, la congelación o la cristalización (G01N 25/02 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01N 25/16",
+    "description": "••investigando el coeficiente de dilatación térmica [2006.01]"
+  },
+  {
+    "code": "G01N 25/18",
+    "description": "••investigando la conductividad térmica (por calorimetría G01N 25/20; midiendo la variación de resistencia de un cuerpo calentado eléctricamente G01N 27/18) [2006.01]"
+  },
+  {
+    "code": "G01N 25/20",
+    "description": "••investigando la producción de cantidades de calor, es decir, la calorimetría, p. ej. midiendo el calor específico, midiendo la conductividad térmica [2006.01]"
+  },
+  {
+    "code": "G01N 25/22",
+    "description": "••••en la oxidación por combustión o por catálisis, p. ej. de componentes de mezclas gaseosas [2006.01]"
+  },
+  {
+    "code": "G01N 25/24",
+    "description": "••••••utilizando tubos de combustión, p. ej. para los microanálisis [2006.01]"
+  },
+  {
+    "code": "G01N 25/26",
+    "description": "••••••utilizando la combustión con oxígeno bajo presión, p. ej. en las bombas calorimétricas [2006.01]"
+  },
+  {
+    "code": "G01N 25/28",
+    "description": "••••••estando medida directamente la elevación de temperatura de los gases resultantes de la combustión [2006.01]"
+  },
+  {
+    "code": "G01N 25/30",
+    "description": "••••••••Utilización de elementos eléctricos que reaccionan al calor [2006.01]"
+  },
+  {
+    "code": "G01N 25/32",
+    "description": "••••••••••Utilización de elementos termoeléctricos [2006.01]"
+  },
+  {
+    "code": "G01N 25/34",
+    "description": "••••••••Utilización de elementos mecánicos que reaccionan al calor, p. ej. bimetales [2006.01]"
+  },
+  {
+    "code": "G01N 25/36",
+    "description": "••••••••••para investigar la composición de mezclas gaseosas [2006.01]"
+  },
+  {
+    "code": "G01N 25/38",
+    "description": "••••••••Utilización de la fusión o la combustión de un sólido [2006.01]"
+  },
+  {
+    "code": "G01N 25/40",
+    "description": "••••••transmitiendo el calor suministrado a un fluido en circulación [2006.01]"
+  },
+  {
+    "code": "G01N 25/42",
+    "description": "••••••••sin interrupción [2006.01]"
+  },
+  {
+    "code": "G01N 25/44",
+    "description": "••••••transmitiendo el calor producido a una cantidad determinada de fluido [2006.01]"
+  },
+  {
+    "code": "G01N 25/46",
+    "description": "••••••••para investigar la composición de mezclas gaseosas [2006.01]"
+  },
+  {
+    "code": "G01N 25/48",
+    "description": "••••sobre una solución, sorción o reacción química que no implica una oxidación por combustión o catálisis [2006.01]"
+  },
+  {
+    "code": "G01N 25/50",
+    "description": "••investigando el punto de inflamación; investigando la aptitud a la explosión [2006.01]"
+  },
+  {
+    "code": "G01N 25/52",
+    "description": "••••determinando el punto de inflamación de líquidos [2006.01]"
+  },
+  {
+    "code": "G01N 25/54",
+    "description": "••••determinando la aptitud a la explosión [2006.01]"
+  },
+  {
+    "code": "G01N 25/56",
+    "description": "••investigando el contenido en agua [2006.01]"
+  },
+  {
+    "code": "G01N 25/58",
+    "description": "••••midiendo los cambios de propiedades del material producidos por el calor, el frío o la expansión [2006.01]"
+  },
+  {
+    "code": "G01N 25/60",
+    "description": "••••••para determinar la humedad del vapor [2006.01]"
+  },
+  {
+    "code": "G01N 25/62",
+    "description": "••••por medios psicrométricos, p. ej. termómetros de bulbo seco y húmedo [2006.01]"
+  },
+  {
+    "code": "G01N 25/64",
+    "description": "••••••Utilización de elementos eléctricos que reaccionan al calor [2006.01]"
+  },
+  {
+    "code": "G01N 25/66",
+    "description": "••••investigando el punto de rocío [2006.01]"
+  },
+  {
+    "code": "G01N 25/68",
+    "description": "••••••por variación de la temperatura de una superficie de condensación [2006.01]"
+  },
+  {
+    "code": "G01N 25/70",
+    "description": "••••••haciendo variar la temperatura del material, p. ej. por compresión, por expansión [2006.01]"
+  },
+  {
+    "code": "G01N 25/72",
+    "description": "••Investigación de la presencia de grietas [2006.01]"
+  },
+  {
+    "code": "G01N 27/00",
+    "description": "Investigación o análisis de materiales mediante el empleo de medios eléctricos, electroquímicos o magnéticos (G01N 3/00-G01N 25/00 tienen prioridad; medida o ensayo de variables eléctricas o magnéticas o de las propiedades eléctricas o magnéticas de los materiales G01R) [2006.01]"
+  },
+  {
+    "code": "G01N 27/02",
+    "description": "••investigando la impedancia [2006.01]"
+  },
+  {
+    "code": "G01N 27/04",
+    "description": "••••investigando la resistencia [2006.01]"
+  },
+  {
+    "code": "G01N 27/06",
+    "description": "••••••de un líquido (implicando electrólisis G01N 27/26) [2006.01]"
+  },
+  {
+    "code": "G01N 27/07",
+    "description": "••••••••Estructura de los recipientes de medida; Electrodos para estos recipientes [2006.01]"
+  },
+  {
+    "code": "G01N 27/08",
+    "description": "••••••••que fluye sin interrupción [2006.01]"
+  },
+  {
+    "code": "G01N 27/10",
+    "description": "••••••••••Investigación o análisis especialmente adaptado para las operaciones de control o de monitorización o para la señalización [2006.01]"
+  },
+  {
+    "code": "G01N 27/12",
+    "description": "••••••de un cuerpo sólido que depende de la absorción de un fluido; de un cuerpo sólido que depende de la reacción con un fluido [2006.01]"
+  },
+  {
+    "code": "G01N 27/14",
+    "description": "••••••de un cuerpo calentado eléctricamente que depende de las variaciones de temperatura [2006.01]"
+  },
+  {
+    "code": "G01N 27/16",
+    "description": "••••••••producida por la oxidación por combustión o catálisis de un material del espacio circundante a ensayar, p. ej. de un gas [2006.01]"
+  },
+  {
+    "code": "G01N 27/18",
+    "description": "••••••••producida por variaciones de la conductividad térmica de un material del espacio circundante a ensayar (G01N 27/20 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01N 27/20",
+    "description": "••••••Investigación de la presencia de grietas [2006.01]"
+  },
+  {
+    "code": "G01N 27/22",
+    "description": "••••investigando la capacidad [2006.01]"
+  },
+  {
+    "code": "G01N 27/24",
+    "description": "••••••Investigación de la presencia de grietas [2006.01]"
+  },
+  {
+    "code": "G01N 27/26",
+    "description": "••investigando variables electroquímicas; utilizando la electrólisis o la electroforesis [2006.01]"
+  },
+  {
+    "code": "G01N 27/27",
+    "description": "••••Asociación de varios sistemas o células de medida, midiendo cada uno un parámetro diferente, en la cual los resultados de las medidas pueden ser o utilizados independientemente, estando físicamente asociados los sistemas o las células, o combinados para producir un valor representativo de otro parámetro [2006.01]"
+  },
+  {
+    "code": "G01N 27/28",
+    "description": "••••Componentes de células electrolíticas. [2006.01]"
+  },
+  {
+    "code": "G01N 27/30",
+    "description": "••••••Electrodos, p. ej. electrodos para el análisis; Semicélulas (G01N 27/414 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01N 27/31",
+    "description": "••••••••Semicélulas con membranas permeables, p. ej. membranas semiporosas o de permeabilidad selectiva [2006.01]"
+  },
+  {
+    "code": "G01N 27/32",
+    "description": "••••••••Electrodos de calomelano [2006.01]"
+  },
+  {
+    "code": "G01N 27/327",
+    "description": "••••••••Electrodos bioquímicos [2006.01]"
+  },
+  {
+    "code": "G01N 27/333",
+    "description": "••••••••Electrodos o membranas selectivas frente a iones (electrodos de vidrio G01N 27/36) [2006.01]"
+  },
+  {
+    "code": "G01N 27/34",
+    "description": "••••••••Electrodos de gota de mercurio [2006.01]"
+  },
+  {
+    "code": "G01N 27/36",
+    "description": "••••••••Electrodos de vidrio [2006.01]"
+  },
+  {
+    "code": "G01N 27/38",
+    "description": "••••••••Limpieza de electrodos [2006.01]"
+  },
+  {
+    "code": "G01N 27/40",
+    "description": "••••••Membranas o paredes semi-permeables [2006.01]"
+  },
+  {
+    "code": "G01N 27/401",
+    "description": "••••••Puentes salinos; Uniones líquidas [2006.01]"
+  },
+  {
+    "code": "G01N 27/403",
+    "description": "••••Conjuntos de células y de electrodos [2006.01]"
+  },
+  {
+    "code": "G01N 27/404",
+    "description": "••••••Células con el ánodo, el cátodo y el electrólito de la célula en el mismo lado de una membrana permeable que los separa del líquido de la muestra [2006.01]"
+  },
+  {
+    "code": "G01N 27/406",
+    "description": "••••••Células y sondas con electrólitos sólidos [2006.01]"
+  },
+  {
+    "code": "G01N 27/407",
+    "description": "••••••••para la investigación o el análisis de gases [2006.01]"
+  },
+  {
+    "code": "G01N 27/409",
+    "description": "••••••••••Células de concentración de oxígeno [2006.01]"
+  },
+  {
+    "code": "G01N 27/41",
+    "description": "••••••••••Células de bombeo de oxígeno [2006.01]"
+  },
+  {
+    "code": "G01N 27/411",
+    "description": "••••••••para la investigación o el análisis de metales líquidos [2006.01]"
+  },
+  {
+    "code": "G01N 27/413",
+    "description": "••••••Células de concentración que utilizan electrólitos líquidos [2006.01]"
+  },
+  {
+    "code": "G01N 27/414",
+    "description": "••••••Transistores de efecto de campo sensibles a los iones o a los agentes químicos, es decir ISFETS o CHEMFETS [2006.01]"
+  },
+  {
+    "code": "G01N 27/416",
+    "description": "••••Sistemas (G01N 27/27 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01N 27/417",
+    "description": "••••••utilizando células y sondas de electrólito sólido [2006.01]"
+  },
+  {
+    "code": "G01N 27/419",
+    "description": "••••••••Medida de tensiones o de corrientes mediante una combinación de células de concentración de oxígeno y células de bombeo de oxígeno [2006.01]"
+  },
+  {
+    "code": "G01N 27/42",
+    "description": "••••••Medida del depósito o de la liberación de materiales de un electrólito; Medida de la capacidad, es decir, medida del equivalente de Coulomb del material en un electrólito [2006.01]"
+  },
+  {
+    "code": "G01N 27/44",
+    "description": "••••••••utilizando la electrólisis para engendrar un reactivo, p. ej. para una dosificación [2006.01]"
+  },
+  {
+    "code": "G01N 27/447",
+    "description": "••••••utilizando la electroforesis [2006.01]"
+  },
+  {
+    "code": "G01N 27/453",
+    "description": "••••••••Células a este efecto [2006.01]"
+  },
+  {
+    "code": "G01N 27/48",
+    "description": "••••••utilizando la polarografía, es decir la medida de las vibraciones de intensidad bajo una tensión que varía lentamente [2006.01]"
+  },
+  {
+    "code": "G01N 27/49",
+    "description": "••••••Sistemas que implican la fijación de la corriente en un valor único específico, o en un pequeño margen de valores, para una tensión aplicada, con el fin de producir la medida selectiva de una o varias especies iónicas particulares [2006.01]"
+  },
+  {
+    "code": "G01N 27/60",
+    "description": "••investigando las variables electrostáticas [2006.01]"
+  },
+  {
+    "code": "G01N 27/61",
+    "description": "••••Investigación de la presencia de grietas [2006.01]"
+  },
+  {
+    "code": "G01N 27/62",
+    "description": "••investigando la ionización del gas, p. ej. aerosoles; investigando la descarga eléctrica, p. ej. la emisión catódica [2021.01]"
+  },
+  {
+    "code": "G01N 27/622",
+    "description": "••••Espectrometría de movilidad iónica [2021.01]"
+  },
+  {
+    "code": "G01N 27/623",
+    "description": "••••••combinada con espectrometría de masas [2021.01]"
+  },
+  {
+    "code": "G01N 27/624",
+    "description": "••••••Espectrometría de movilidad diferencial [DMS]; Espectrometría de movilidad iónica de campo de onda asimétrica [FAIMS] [2021.01]"
+  },
+  {
+    "code": "G01N 27/626",
+    "description": "••••utilizando calor para ionizar un gas [2021.01]"
+  },
+  {
+    "code": "G01N 27/64",
+    "description": "••••Utilización de ondas o de radiaciones de partículas para ionizar un gas, p. ej. en una cámara de ionización [2006.01]"
+  },
+  {
+    "code": "G01N 27/66",
+    "description": "••••••y medida de la intensidad o de la tensión eléctrica [2006.01]"
+  },
+  {
+    "code": "G01N 27/68",
+    "description": "••••Utilización de la descarga eléctrica para ionizar un gas [2006.01]"
+  },
+  {
+    "code": "G01N 27/70",
+    "description": "••••••y medida de la intensidad o de la tensión eléctrica [2006.01]"
+  },
+  {
+    "code": "G01N 27/72",
+    "description": "••investigando variables magnéticas [2006.01]"
+  },
+  {
+    "code": "G01N 27/74",
+    "description": "••••de fluidos (G01N 24/00 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01N 27/76",
+    "description": "••••••por investigación de la susceptibilidad [2006.01]"
+  },
+  {
+    "code": "G01N 27/80",
+    "description": "••••para investigar la dureza mecánica, p. ej. investigando la saturación o la remanencia de un material ferromagnético [2006.01]"
+  },
+  {
+    "code": "G01N 27/82",
+    "description": "••••para investigar la presencia de grietas [2006.01]"
+  },
+  {
+    "code": "G01N 27/83",
+    "description": "••••••estudiando los campos magnéticos de dispersión [2006.01]"
+  },
+  {
+    "code": "G01N 27/84",
+    "description": "••••••••aplicando un polvo magnético o una tinta magnética [2006.01]"
+  },
+  {
+    "code": "G01N 27/85",
+    "description": "••••••••utilizando métodos magnetográficos [2006.01]"
+  },
+  {
+    "code": "G01N 27/87",
+    "description": "••••••••utilizando sondas [2006.01]"
+  },
+  {
+    "code": "G01N 27/90",
+    "description": "••••••utilizando corrientes de Foucault [2021.01]"
+  },
+  {
+    "code": "G01N 27/9013",
+    "description": "••••••••Disposiciones para escanear [2021.01]"
+  },
+  {
+    "code": "G01N 27/904",
+    "description": "••••••••con dos o más sensores [2021.01]"
+  },
+  {
+    "code": "G01N 27/9093",
+    "description": "••••••••Disposiciones para soportar el sensor; Combinaciones de sensores inductivos de Foucault y disposiciones auxiliares para marcar o rechazar [2021.01]"
+  },
+  {
+    "code": "G01N 27/92",
+    "description": "••investigando la tensión disruptiva (G01N 27/60, G01N 27/62 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G01N 29/00",
+    "description": "Investigación o análisis de materiales por el empleo de ondas ultrasonoras, sonoras o infrasonoras; Visualización del interior de objetos por transmisión de ondas ultrasonoras o sonoras a través del objeto (G01N 3/00-G01N 27/00 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G01N 29/02",
+    "description": "••Análisis de fluidos (utilizando técnicas de emisión acústica G01N 29/14) [2006.01]"
+  },
+  {
+    "code": "G01N 29/024",
+    "description": "••••mediante la medida de la velocidad de propagación o del tiempo de propagación de ondas acústicas [2006.01]"
+  },
+  {
+    "code": "G01N 29/028",
+    "description": "••••Mediante la medida de la impedancia mecánica o acústica [2006.01]"
+  },
+  {
+    "code": "G01N 29/032",
+    "description": "••••mediante la medida de la atenuación de ondas acústicas [2006.01]"
+  },
+  {
+    "code": "G01N 29/036",
+    "description": "••••mediante la medida de la frecuencia o resonancia de ondas acústicas [2006.01]"
+  },
+  {
+    "code": "G01N 29/04",
+    "description": "••Análisis de sólidos (utilizando técnicas de emisión acústica G01N 29/14) [2006.01]"
+  },
+  {
+    "code": "G01N 29/06",
+    "description": "••••Visualización del interior, p. ej. microscopía acústica [2006.01]"
+  },
+  {
+    "code": "G01N 29/07",
+    "description": "••••mediante la medida de la velocidad de propagación o del tiempo de propagación de ondas acústicas [2006.01]"
+  },
+  {
+    "code": "G01N 29/09",
+    "description": "••••Mediante la medida de la impedancia mecánica o acústica [2006.01]"
+  },
+  {
+    "code": "G01N 29/11",
+    "description": "••••mediante la medida de la atenuación de ondas acústicas [2006.01]"
+  },
+  {
+    "code": "G01N 29/12",
+    "description": "••••mediante la medida de la frecuencia o resonancia de ondas acústicas [2006.01]"
+  },
+  {
+    "code": "G01N 29/14",
+    "description": "••utilizando técnicas de emisión acústica [2006.01]"
+  },
+  {
+    "code": "G01N 29/22",
+    "description": "••Detalles [2006.01]"
+  },
+  {
+    "code": "G01N 29/24",
+    "description": "••••Sondas [2006.01]"
+  },
+  {
+    "code": "G01N 29/26",
+    "description": "••••Disposiciones para la orientación o el barrido [2006.01]"
+  },
+  {
+    "code": "G01N 29/265",
+    "description": "••••••mediante el movimiento relativo del sensor respecto a un material estacionario [2006.01]"
+  },
+  {
+    "code": "G01N 29/27",
+    "description": "••••••mediante el movimiento relativo del material respecto a un sensor estacionario [2006.01]"
+  },
+  {
+    "code": "G01N 29/275",
+    "description": "••••••mediante el movimiento tanto del sensor como del material [2006.01]"
+  },
+  {
+    "code": "G01N 29/28",
+    "description": "••••para establecer el acoplamiento acústico [2006.01]"
+  },
+  {
+    "code": "G01N 29/30",
+    "description": "••••Disposiciones para la calibración o la comparación, p. ej. con objetos estándares [2006.01]"
+  },
+  {
+    "code": "G01N 29/32",
+    "description": "••••Disposiciones para la supresión de influencias indeseadas, p. ej. variaciones de temperatura o presión [2006.01]"
+  },
+  {
+    "code": "G01N 29/34",
+    "description": "••Generación de las ondas ultrasónicas, sónicas o infrasónicas [2006.01]"
+  },
+  {
+    "code": "G01N 29/36",
+    "description": "••Detección de la señal de respuesta [2006.01]"
+  },
+  {
+    "code": "G01N 29/38",
+    "description": "••••mediante el filtrado en el tiempo, p. ej. utilizando puertas temporales (\"time gates\") [2006.01]"
+  },
+  {
+    "code": "G01N 29/40",
+    "description": "••••mediante el filtrado en amplitud, p. ej. mediante la aplicación de un valor umbral [2006.01]"
+  },
+  {
+    "code": "G01N 29/42",
+    "description": "••••mediante el filtrado en frecuencia [2006.01]"
+  },
+  {
+    "code": "G01N 29/44",
+    "description": "••Procesamiento de la señal de respuesta detectada [2006.01]"
+  },
+  {
+    "code": "G01N 29/46",
+    "description": "••••mediante análisis espectral, p. ej. análisis de Fourier [2006.01]"
+  },
+  {
+    "code": "G01N 29/48",
+    "description": "••••mediante la comparación de amplitud [2006.01]"
+  },
+  {
+    "code": "G01N 29/50",
+    "description": "••••utilizando técnicas de autocorrelación o de correlación cruzada [2006.01]"
+  },
+  {
+    "code": "G01N 29/52",
+    "description": "••••utilizando métodos de inversión diferentes al análisis espectral, p. ej. inversión de gradiente conjugado [2006.01]"
+  },
+  {
+    "code": "G01N 30/00",
+    "description": "Investigación o análisis de materiales por separación en constituyentes utilizando la adsorción, la absorción o fenómenos similares o utilizando el intercambio iónico, p. ej. la cromatografía (G01N 3/00-G01N 29/00 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G01N 30/02",
+    "description": "••Cromatografía sobre columna [2006.01]"
+  },
+  {
+    "code": "G01N 30/04",
+    "description": "••••Preparación o inyección de la muestra a analizar [2006.01]"
+  },
+  {
+    "code": "G01N 30/06",
+    "description": "••••••Preparación [2006.01]"
+  },
+  {
+    "code": "G01N 30/08",
+    "description": "••••••••por enriquecimiento [2006.01]"
+  },
+  {
+    "code": "G01N 30/10",
+    "description": "••••••••utilizando un separador de flujo [2006.01]"
+  },
+  {
+    "code": "G01N 30/12",
+    "description": "••••••••por evaporación [2006.01]"
+  },
+  {
+    "code": "G01N 30/14",
+    "description": "••••••••por eliminación de ciertos componentes [2006.01]"
+  },
+  {
+    "code": "G01N 30/16",
+    "description": "••••••Inyección (G01N 30/24 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01N 30/18",
+    "description": "••••••••utilizando un diafragma o una microjeringa [2006.01]"
+  },
+  {
+    "code": "G01N 30/20",
+    "description": "••••••••utilizando una válvula de preparación de muestras [2006.01]"
+  },
+  {
+    "code": "G01N 30/22",
+    "description": "••••••••en sistemas líquidos de alta presión [2006.01]"
+  },
+  {
+    "code": "G01N 30/24",
+    "description": "••••••Sistemas automáticos de inyección [2006.01]"
+  },
+  {
+    "code": "G01N 30/26",
+    "description": "••••Acondicionamiento del fluido portador; Modelos de flujo [2006.01]"
+  },
+  {
+    "code": "G01N 30/28",
+    "description": "••••••Control de parámetros físicos del fluido portador [2006.01]"
+  },
+  {
+    "code": "G01N 30/30",
+    "description": "••••••••de la temperatura [2006.01]"
+  },
+  {
+    "code": "G01N 30/32",
+    "description": "••••••••de la presión o de la velocidad (G01N 30/36 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01N 30/34",
+    "description": "••••••••de la composición del fluido, p. ej. del gradiente (G01N 30/36 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01N 30/36",
+    "description": "••••••••en los sistemas líquidos de alta presión [2006.01]"
+  },
+  {
+    "code": "G01N 30/38",
+    "description": "••••••Modelos de flujo [2006.01]"
+  },
+  {
+    "code": "G01N 30/40",
+    "description": "••••••••invirtiendo el sentido de la circulación [2006.01]"
+  },
+  {
+    "code": "G01N 30/42",
+    "description": "••••••••utilizando una circulación en contracorriente [2006.01]"
+  },
+  {
+    "code": "G01N 30/44",
+    "description": "••••••••reciclando una parte de las fracciones elegidas [2006.01]"
+  },
+  {
+    "code": "G01N 30/46",
+    "description": "••••••••utilizando más de una columna [2006.01]"
+  },
+  {
+    "code": "G01N 30/50",
+    "description": "••••Acondicionamiento del absorbente o del adsorbente o de la fase líquida estacionaria [2006.01]"
+  },
+  {
+    "code": "G01N 30/52",
+    "description": "••••••Parámetros físicos [2006.01]"
+  },
+  {
+    "code": "G01N 30/54",
+    "description": "••••••••Temperatura [2006.01]"
+  },
+  {
+    "code": "G01N 30/56",
+    "description": "••••••Métodos de llenado o de revestimiento [2006.01]"
+  },
+  {
+    "code": "G01N 30/58",
+    "description": "••••••el absorbente o adsorbente se desplazan en su totalidad [2006.01]"
+  },
+  {
+    "code": "G01N 30/60",
+    "description": "••••Preparación de la columna [2006.01]"
+  },
+  {
+    "code": "G01N 30/62",
+    "description": "••••Detectores especialmente adaptados a este efecto [2006.01]"
+  },
+  {
+    "code": "G01N 30/64",
+    "description": "••••••Detectores eléctricos [2006.01]"
+  },
+  {
+    "code": "G01N 30/66",
+    "description": "••••••••de conductibilidad térmica [2006.01]"
+  },
+  {
+    "code": "G01N 30/68",
+    "description": "••••••••de ionización de llama [2006.01]"
+  },
+  {
+    "code": "G01N 30/70",
+    "description": "••••••••de captura de electrones (G01N 30/68 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01N 30/72",
+    "description": "••••••Espectrómetros de masa [2006.01]"
+  },
+  {
+    "code": "G01N 30/74",
+    "description": "••••••Detectores ópticos [2006.01]"
+  },
+  {
+    "code": "G01N 30/76",
+    "description": "••••••Detectores acústicos [2006.01]"
+  },
+  {
+    "code": "G01N 30/78",
+    "description": "••••••utilizando más de un detector [2006.01]"
+  },
+  {
+    "code": "G01N 30/80",
+    "description": "••••Colectores de fracciones [2006.01]"
+  },
+  {
+    "code": "G01N 30/82",
+    "description": "••••••Sistemas automáticos a este efecto [2006.01]"
+  },
+  {
+    "code": "G01N 30/84",
+    "description": "••••Preparación de las fracciones a separar [2006.01]"
+  },
+  {
+    "code": "G01N 30/86",
+    "description": "••••Análisis de las señales [2006.01]"
+  },
+  {
+    "code": "G01N 30/88",
+    "description": "••••Sistemas integrados de análisis, especialmente adaptados a este efecto, no cubiertos por uno solo de los grupos G01N 30/04-G01N 30/86 [2006.01]"
+  },
+  {
+    "code": "G01N 30/89",
+    "description": "••cromatografía inversa, p. ej. con el analíto en fase estacionaria [2006.01]"
+  },
+  {
+    "code": "G01N 30/90",
+    "description": "••Cromatografía sobre placa, p. ej. cromatografía en capa fina o cromatografía sobre papel [2006.01]"
+  },
+  {
+    "code": "G01N 30/91",
+    "description": "••••Aplicación de la muestra [2006.01]"
+  },
+  {
+    "code": "G01N 30/92",
+    "description": "••••Preparación de la placa [2006.01]"
+  },
+  {
+    "code": "G01N 30/93",
+    "description": "••••••Aplicación de la capa absorbente o adsorbente [2006.01]"
+  },
+  {
+    "code": "G01N 30/94",
+    "description": "••••Revelado [2006.01]"
+  },
+  {
+    "code": "G01N 30/95",
+    "description": "••••Detectores especialmente adaptados a este efecto; Análisis de las señales [2006.01]"
+  },
+  {
+    "code": "G01N 30/96",
+    "description": "••que utilizan el intercambio iónico (G01N 30/02, G01N 30/90 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G01N 31/00",
+    "description": "Investigación o análisis de materiales no biológicos mediante el empleo de los métodos químicos especificados en los subgrupos; Aparatos especialmente adaptados a tales métodos [2006.01]"
+  },
+  {
+    "code": "G01N 31/02",
+    "description": "••Utilización de la precipitación [2006.01]"
+  },
+  {
+    "code": "G01N 31/10",
+    "description": "••Utilización de la catálisis [2006.01]"
+  },
+  {
+    "code": "G01N 31/12",
+    "description": "••Utilización de la combustión (G01N 25/20 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01N 31/16",
+    "description": "••Utilización de la dosificación [2006.01]"
+  },
+  {
+    "code": "G01N 31/18",
+    "description": "••••Probetas especialmente adaptadas para la dosificación [2006.01]"
+  },
+  {
+    "code": "G01N 31/20",
+    "description": "••Utilización de microanálisis, es decir, la reacción de la gota [2006.01]"
+  },
+  {
+    "code": "G01N 31/22",
+    "description": "••Utilización de reactivos químicos (G01N 31/02 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01N 33/00",
+    "description": "Investigación o análisis de materiales por métodos específicos no cubiertos por los grupos G01N 1/00-G01N 31/00 [2006.01]"
+  },
+  {
+    "code": "G01N 33/02",
+    "description": "••alimentación [2006.01]"
+  },
+  {
+    "code": "G01N 33/03",
+    "description": "••••aceites o grasas comestibles [2006.01]"
+  },
+  {
+    "code": "G01N 33/04",
+    "description": "••••productos lácteos [2006.01]"
+  },
+  {
+    "code": "G01N 33/06",
+    "description": "••••••Determinación del contenido en grasas, p. ej. por el butirómetro [2006.01]"
+  },
+  {
+    "code": "G01N 33/08",
+    "description": "••••huevos, p. ej. por mirada al trasluz [2006.01]"
+  },
+  {
+    "code": "G01N 33/10",
+    "description": "••••sustancias que contienen féculas, p. ej. la pasta [2006.01]"
+  },
+  {
+    "code": "G01N 33/12",
+    "description": "••••Carne; Pescado [2006.01]"
+  },
+  {
+    "code": "G01N 33/14",
+    "description": "••••bebidas [2006.01]"
+  },
+  {
+    "code": "G01N 33/15",
+    "description": "••preparaciones medicinales [2006.01]"
+  },
+  {
+    "code": "G01N 33/18",
+    "description": "••agua [2006.01]"
+  },
+  {
+    "code": "G01N 33/20",
+    "description": "••Metales [2019.01]"
+  },
+  {
+    "code": "G01N 33/202",
+    "description": "••••Sus componentes [2019.01]"
+  },
+  {
+    "code": "G01N 33/2022",
+    "description": "••••••Componentes no metálicos [2019.01]"
+  },
+  {
+    "code": "G01N 33/2025",
+    "description": "••••••••Componentes gaseosos [2019.01]"
+  },
+  {
+    "code": "G01N 33/2028",
+    "description": "••••••Componentes metálicos [2019.01]"
+  },
+  {
+    "code": "G01N 33/204",
+    "description": "••••Su estructura, p. ej. estructura cristalina [2019.01]"
+  },
+  {
+    "code": "G01N 33/2045",
+    "description": "••••••Defectos [2019.01]"
+  },
+  {
+    "code": "G01N 33/205",
+    "description": "••••en estado líquido, p. ej. metales fundidos [2019.01]"
+  },
+  {
+    "code": "G01N 33/207",
+    "description": "••••Soldaduras o juntas soldadas; Soldabilidad [2019.01]"
+  },
+  {
+    "code": "G01N 33/208",
+    "description": "••••Recubrimientos, p. ej. enchapado [2019.01]"
+  },
+  {
+    "code": "G01N 33/22",
+    "description": "••Combustibles; Explosivos [2006.01]"
+  },
+  {
+    "code": "G01N 33/24",
+    "description": "••materiales de la tierra (G01N 33/42 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01N 33/26",
+    "description": "••Aceites; Líquidos viscosos; Pinturas; Tintas (G01N 33/22 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01N 33/28",
+    "description": "••••aceites (aceites o grasas comestibles G01N 33/03) [2006.01]"
+  },
+  {
+    "code": "G01N 33/30",
+    "description": "••••••para propiedades lubricantes [2006.01]"
+  },
+  {
+    "code": "G01N 33/32",
+    "description": "••••Pinturas; Tintas [2006.01]"
+  },
+  {
+    "code": "G01N 33/34",
+    "description": "••papel [2006.01]"
+  },
+  {
+    "code": "G01N 33/36",
+    "description": "••textiles [2006.01]"
+  },
+  {
+    "code": "G01N 33/38",
+    "description": "••Cemento; Cal; Mortero; Yeso; Ladrillos; Productos cerámicos; Vidrio [2006.01]"
+  },
+  {
+    "code": "G01N 33/40",
+    "description": "••materiales de abrasión [2006.01]"
+  },
+  {
+    "code": "G01N 33/42",
+    "description": "••materiales para carreteras (G01N 33/38 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01N 33/44",
+    "description": "••Resinas; Materias plásticas; Caucho; Cuero [2006.01]"
+  },
+  {
+    "code": "G01N 33/46",
+    "description": "••madera [2006.01]"
+  },
+  {
+    "code": "G01N 33/48",
+    "description": "••Material biológico, p. ej. sangre, orina (G01N 33/02, G01N 33/26, G01N 33/44, G01N 33/46 tienen prioridad); Hemocitómetros (cómputo de glóbulos repartidos sobre una superficie por barrido óptico de la superficie G06M 11/02) [2006.01]"
+  },
+  {
+    "code": "G01N 33/483",
+    "description": "••••Análisis físico de material biológico [2006.01]"
+  },
+  {
+    "code": "G01N 33/487",
+    "description": "••••••de material biológico líquido [2006.01]"
+  },
+  {
+    "code": "G01N 33/49",
+    "description": "••••••••de sangre [2006.01]"
+  },
+  {
+    "code": "G01N 33/493",
+    "description": "••••••••de orina [2006.01]"
+  },
+  {
+    "code": "G01N 33/497",
+    "description": "••••••de material biológico gaseoso, p. ej. del aliento [2006.01]"
+  },
+  {
+    "code": "G01N 33/50",
+    "description": "••••Análisis químico de material biológico, p. ej. de sangre o de orina; Ensayos mediante métodos en los que interviene la formación de uniones bioespecíficas con grupos coordinadores; Ensayos inmunológicos (procedimientos de medida o ensayos diferentes de los procedimientos inmunológicos en los que intervienen enzimas o microorganismos, composiciones o papeles reactivos a este efecto, procedimientos para preparar estas composiciones, procedimientos de control sensibles a las condiciones del medio en los procedimientos microbiológicos o enzimáticos C12Q) [2006.01]"
+  },
+  {
+    "code": "G01N 33/52",
+    "description": "••••••Utilización de compuestos o de composiciones para investigaciones colorimétricas, espectrofotométricas o fluorométricas, p. ej. utilización de cintas de papel indicador [2006.01]"
+  },
+  {
+    "code": "G01N 33/53",
+    "description": "••••••Ensayos inmunológicos; Ensayos en los que interviene la formación de uniones bioespecíficas; Materiales a este efecto [2006.01]"
+  },
+  {
+    "code": "G01N 33/531",
+    "description": "••••••••Producción de materiales de investigación o de análisis inmunoquímicos [2006.01]"
+  },
+  {
+    "code": "G01N 33/532",
+    "description": "••••••••••Producción de compuestos inmunoquímicos marcados [2006.01]"
+  },
+  {
+    "code": "G01N 33/533",
+    "description": "••••••••••••con un marcador fluorescente [2006.01]"
+  },
+  {
+    "code": "G01N 33/534",
+    "description": "••••••••••••con un marcador radiactivo [2006.01]"
+  },
+  {
+    "code": "G01N 33/535",
+    "description": "••••••••••••con un marcador enzimático [2006.01]"
+  },
+  {
+    "code": "G01N 33/536",
+    "description": "••••••••con formación de un complejo inmunológico en fase líquida [2006.01]"
+  },
+  {
+    "code": "G01N 33/537",
+    "description": "••••••••••con separación del complejo inmunológico del antígeno o del anticuerpo no ligados [2006.01]"
+  },
+  {
+    "code": "G01N 33/538",
+    "description": "••••••••••••por columna, partículas o banda de resina sintética absorbentes o adsorbentes [2006.01]"
+  },
+  {
+    "code": "G01N 33/539",
+    "description": "••••••••••••en los que interviene un reactivo de precipitación [2006.01]"
+  },
+  {
+    "code": "G01N 33/541",
+    "description": "••••••••••••••en los que interviene un doble o un segundo anticuerpo [2006.01]"
+  },
+  {
+    "code": "G01N 33/542",
+    "description": "••••••••••con inhibición estérica o modificación de la señal, p. ej. extinción de fluorescencia [2006.01]"
+  },
+  {
+    "code": "G01N 33/543",
+    "description": "••••••••con un soporte insoluble para la inmovilización de compuestos inmunoquímicos [2006.01]"
+  },
+  {
+    "code": "G01N 33/544",
+    "description": "••••••••••Soporte orgánico [2006.01]"
+  },
+  {
+    "code": "G01N 33/545",
+    "description": "••••••••••••Resina sintética [2006.01]"
+  },
+  {
+    "code": "G01N 33/546",
+    "description": "••••••••••••••bajo forma de partículas que pueden ser puestas en suspensión en el agua [2006.01]"
+  },
+  {
+    "code": "G01N 33/547",
+    "description": "••••••••••••••con un antígeno o un anticuerpo ligados al soporte vía un agente de puenteado [2006.01]"
+  },
+  {
+    "code": "G01N 33/548",
+    "description": "••••••••••••Hidratos de carbono, p. ej. dextrano [2006.01]"
+  },
+  {
+    "code": "G01N 33/549",
+    "description": "••••••••••••con un antígeno o un anticuerpo aprisionados en el soporte [2006.01]"
+  },
+  {
+    "code": "G01N 33/551",
+    "description": "••••••••••Soporte inorgánico [2006.01]"
+  },
+  {
+    "code": "G01N 33/552",
+    "description": "••••••••••••Vidrio o sílice [2006.01]"
+  },
+  {
+    "code": "G01N 33/553",
+    "description": "••••••••••••Soporte metálico o recubierto de un metal [2006.01]"
+  },
+  {
+    "code": "G01N 33/554",
+    "description": "••••••••••siendo el soporte una célula o un fragmento de célula biológica, p. ej. células de bacterias, de levadura [2006.01]"
+  },
+  {
+    "code": "G01N 33/555",
+    "description": "••••••••••••Glóbulo rojo [2006.01]"
+  },
+  {
+    "code": "G01N 33/556",
+    "description": "••••••••••••••Glóbulo rojo fijado o estabilizado [2006.01]"
+  },
+  {
+    "code": "G01N 33/557",
+    "description": "••••••••utilizando medidas cinéticas, es decir medida de la evolución en función del tiempo de interacción antígeno-anticuerpo [2006.01]"
+  },
+  {
+    "code": "G01N 33/558",
+    "description": "••••••••utilizando la difusión o la migración del anticuerpo o del antígeno [2006.01]"
+  },
+  {
+    "code": "G01N 33/559",
+    "description": "••••••••••en un gel, p. ej. técnica de Ouchterlony. [2006.01]"
+  },
+  {
+    "code": "G01N 33/561",
+    "description": "••••••••••Inmunoelectroforesis [2006.01]"
+  },
+  {
+    "code": "G01N 33/563",
+    "description": "••••••••en los que interviene fragmentos de anticuerpos [2006.01]"
+  },
+  {
+    "code": "G01N 33/564",
+    "description": "••••••••para complejos inmunológicos preexistentes o enfermedades autoinmunes [2006.01]"
+  },
+  {
+    "code": "G01N 33/566",
+    "description": "••••••••utilizando un soporte específico o proteínas receptoras como reactivos para la formación de uniones por ligando [2006.01]"
+  },
+  {
+    "code": "G01N 33/567",
+    "description": "••••••••••utilizando un extracto de tejido o de órgano como agente de unión [2006.01]"
+  },
+  {
+    "code": "G01N 33/569",
+    "description": "••••••••para microorganismos, p. ej. protozoarios, bacterias, virus [2006.01]"
+  },
+  {
+    "code": "G01N 33/571",
+    "description": "••••••••••para enfermedades venéreas, p. ej. sífilis, gonorrea, herpes [2006.01]"
+  },
+  {
+    "code": "G01N 33/573",
+    "description": "••••••••para enzimas o isoenzimas [2006.01]"
+  },
+  {
+    "code": "G01N 33/574",
+    "description": "••••••••para el cáncer [2006.01]"
+  },
+  {
+    "code": "G01N 33/576",
+    "description": "••••••••para la hepatitis [2006.01]"
+  },
+  {
+    "code": "G01N 33/577",
+    "description": "••••••••en los que interviene anticuerpos monoclonados [2006.01]"
+  },
+  {
+    "code": "G01N 33/579",
+    "description": "••••••en los que interviene un lisado de limulus [2006.01]"
+  },
+  {
+    "code": "G01N 33/58",
+    "description": "••••••en los que intervienen sustancias marcadas (G01N 33/53 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01N 33/60",
+    "description": "••••••••en los que intervienen sustancias marcadas radioactivas [2006.01]"
+  },
+  {
+    "code": "G01N 33/62",
+    "description": "••••••en los que interviene urea [2006.01]"
+  },
+  {
+    "code": "G01N 33/64",
+    "description": "••••••en los que intervienen cetonas [2006.01]"
+  },
+  {
+    "code": "G01N 33/66",
+    "description": "••••••en los que intervienen azúcares de la sangre, p. ej. la galactosa [2006.01]"
+  },
+  {
+    "code": "G01N 33/68",
+    "description": "••••••en los que intervienen proteínas, péptidos o aminoácidos [2006.01]"
+  },
+  {
+    "code": "G01N 33/70",
+    "description": "••••••en los que intervienen la creatina o la creatinina [2006.01]"
+  },
+  {
+    "code": "G01N 33/72",
+    "description": "••••••en los que intervienen pigmentos de la sangre, p. ej. la hemoglobina, la bilirrubina [2006.01]"
+  },
+  {
+    "code": "G01N 33/74",
+    "description": "••••••en los que intervienen hormonas [2006.01]"
+  },
+  {
+    "code": "G01N 33/76",
+    "description": "••••••••Gonadotropina coriónica humana [2006.01]"
+  },
+  {
+    "code": "G01N 33/78",
+    "description": "••••••••Hormonas de la glándula tiroides [2006.01]"
+  },
+  {
+    "code": "G01N 33/80",
+    "description": "••••••en los que intervienen grupos o tipos sanguíneos [2006.01]"
+  },
+  {
+    "code": "G01N 33/82",
+    "description": "••••••en los que intervienen vitaminas [2006.01]"
+  },
+  {
+    "code": "G01N 33/84",
+    "description": "••••••en los que intervienen compuestos inorgánicos o el pH [2006.01]"
+  },
+  {
+    "code": "G01N 33/86",
+    "description": "••••••en los que interviene el tiempo de coagulación de la sangre [2006.01]"
+  },
+  {
+    "code": "G01N 33/88",
+    "description": "••••••en los que intervienen prostaglandinas [2006.01]"
+  },
+  {
+    "code": "G01N 33/90",
+    "description": "••••••en los que interviene la capacidad de unión hierro-sangre [2006.01]"
+  },
+  {
+    "code": "G01N 33/92",
+    "description": "••••••en los que intervienen lípidos, p. ej. colesterol [2006.01]"
+  },
+  {
+    "code": "G01N 33/94",
+    "description": "••••••en los que intervienen narcóticos [2006.01]"
+  },
+  {
+    "code": "G01N 33/96",
+    "description": "••••••en los que interviene un patrón de control de la sangre o del suero [2006.01]"
+  },
+  {
+    "code": "G01N 33/98",
+    "description": "••••••en los que interviene alcohol, p. ej. etanol en el aliento [2006.01]"
+  },
+  {
+    "code": "G01N 35/00",
+    "description": "Análisis automático no limitado a procedimientos o a materiales tratados en uno sólo de los grupos G01N 1/00-G01N 33/00; Manipulación de materiales a este efecto [2006.01]"
+  },
+  {
+    "code": "G01N 35/02",
+    "description": "••utilizando una serie de recipientes con muestras desplazadas por un transportador que pasa delante de uno o más puestos de tratamiento o análisis [2006.01]"
+  },
+  {
+    "code": "G01N 35/04",
+    "description": "••••Detalles del transportador [2006.01]"
+  },
+  {
+    "code": "G01N 35/08",
+    "description": "••utilizando una corriente de muestras discretas circulando por una canalización, p. ej. análisis de inyección en flujo [2006.01]"
+  },
+  {
+    "code": "G01N 35/10",
+    "description": "••Dispositivos para transferir las muestras hacia, en, o desde el aparato de análisis, p. ej. dispositivos de aspiración, dispositivos de inyección [2006.01]"
+  },
+  {
+    "code": "G01N 37/00",
+    "description": "Detalles no cubiertos por ningún grupo de esta subclase [2006.01]"
+  }
+]

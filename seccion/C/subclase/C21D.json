@@ -1,0 +1,518 @@
+[
+  {
+    "code": "C21D 1/00",
+    "description": "Métodos o dispositivos generales para tratamientos térmicos, p. ej. recocido, endurecido, temple o revenido [2006.01]"
+  },
+  {
+    "code": "C21D 1/02",
+    "description": "••Endurecimiento de artículos o materiales formados por forjado o laminado, sin más calentamiento que el preciso para dar la forma [2006.01]"
+  },
+  {
+    "code": "C21D 1/04",
+    "description": "••con aplicación simultánea de ondas supersónicas, campos eléctricos o magnéticos [2006.01]"
+  },
+  {
+    "code": "C21D 1/06",
+    "description": "••Endurecido de la superficie [2006.01]"
+  },
+  {
+    "code": "C21D 1/08",
+    "description": "••••con llamas [2006.01]"
+  },
+  {
+    "code": "C21D 1/09",
+    "description": "••••por aplicación directa de energía eléctrica u ondulatoria; por radiación particular [2006.01]"
+  },
+  {
+    "code": "C21D 1/10",
+    "description": "••••••por inducción eléctrica [2006.01]"
+  },
+  {
+    "code": "C21D 1/18",
+    "description": "••Endurecido (C21D 1/02  tiene prioridad); Temple con o sin revenido ulterior (dispositivos para el temple C21D 1/62) [2006.01]"
+  },
+  {
+    "code": "C21D 1/19",
+    "description": "••••por temple interrumpido [2006.01]"
+  },
+  {
+    "code": "C21D 1/20",
+    "description": "••••••Temple isotérmico, p. ej. endurecido bainítico [2006.01]"
+  },
+  {
+    "code": "C21D 1/22",
+    "description": "••••••Temple martensítico [2006.01]"
+  },
+  {
+    "code": "C21D 1/25",
+    "description": "••••Endurecido combinado con un recocido entre 300°  C y 600°  C, es decir, afinado en caliente llamado \"Vergüten\" [2006.01]"
+  },
+  {
+    "code": "C21D 1/26",
+    "description": "••Métodos de recocido [2006.01]"
+  },
+  {
+    "code": "C21D 1/28",
+    "description": "••••Normalización [2006.01]"
+  },
+  {
+    "code": "C21D 1/30",
+    "description": "••••Reducción de tensiones internas [2006.01]"
+  },
+  {
+    "code": "C21D 1/32",
+    "description": "••••Recocido suave, p. ej. esferoidización [2006.01]"
+  },
+  {
+    "code": "C21D 1/34",
+    "description": "••Métodos de calentamiento (C21D 1/06  tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "C21D 1/38",
+    "description": "••••Calentamiento por descargas catódicas [2006.01]"
+  },
+  {
+    "code": "C21D 1/40",
+    "description": "••••Calentamiento directo por resistencia [2006.01]"
+  },
+  {
+    "code": "C21D 1/42",
+    "description": "••••Calentamiento por inducción [2006.01]"
+  },
+  {
+    "code": "C21D 1/44",
+    "description": "••••en baños de tratamiento térmico [2006.01]"
+  },
+  {
+    "code": "C21D 1/46",
+    "description": "••••••Baños de sales [2006.01]"
+  },
+  {
+    "code": "C21D 1/48",
+    "description": "••••••Baños de metal [2006.01]"
+  },
+  {
+    "code": "C21D 1/50",
+    "description": "••••••Baños de aceite [2006.01]"
+  },
+  {
+    "code": "C21D 1/52",
+    "description": "••••con llamas [2006.01]"
+  },
+  {
+    "code": "C21D 1/53",
+    "description": "••••Calentamiento en lechos fluidizados [2006.01]"
+  },
+  {
+    "code": "C21D 1/54",
+    "description": "••Determinación de la llegada a la temperatura de endurecimiento por medida de las propiedades eléctricas o magnéticas [2006.01]"
+  },
+  {
+    "code": "C21D 1/55",
+    "description": "••Ensayos de templabilidad, p. ej. determinación de la profundidad del temple [2006.01]"
+  },
+  {
+    "code": "C21D 1/56",
+    "description": "••caracterizados por los agentes de temple [2006.01]"
+  },
+  {
+    "code": "C21D 1/58",
+    "description": "••••Aceites [2006.01]"
+  },
+  {
+    "code": "C21D 1/60",
+    "description": "••••Agentes acuosos [2006.01]"
+  },
+  {
+    "code": "C21D 1/607",
+    "description": "••••Sales fundidas [2006.01]"
+  },
+  {
+    "code": "C21D 1/613",
+    "description": "••••Gases; Productos normalmente gaseosos en estado líquido o sólido [2006.01]"
+  },
+  {
+    "code": "C21D 1/62",
+    "description": "••Dispositivos para temple [2006.01]"
+  },
+  {
+    "code": "C21D 1/63",
+    "description": "••••para baños de temple [2006.01]"
+  },
+  {
+    "code": "C21D 1/64",
+    "description": "••••••con circulación de líquidos [2006.01]"
+  },
+  {
+    "code": "C21D 1/667",
+    "description": "••••para el temple por pulverización [2006.01]"
+  },
+  {
+    "code": "C21D 1/673",
+    "description": "••••para el temple en concha [2006.01]"
+  },
+  {
+    "code": "C21D 1/68",
+    "description": "••Revestimientos provisionales o materiales de carga aplicados antes o durante el tratamiento térmico [2006.01]"
+  },
+  {
+    "code": "C21D 1/70",
+    "description": "••••durante el calentamiento o temple [2006.01]"
+  },
+  {
+    "code": "C21D 1/72",
+    "description": "••••en el curso del cambio químico de las superficies [2006.01]"
+  },
+  {
+    "code": "C21D 1/74",
+    "description": "••Métodos de tratamiento en gas inerte, atmósfera controlada, vacío o material pulverulento [2006.01]"
+  },
+  {
+    "code": "C21D 1/76",
+    "description": "••••Regulando la composición de la atmósfera [2006.01]"
+  },
+  {
+    "code": "C21D 1/767",
+    "description": "••••con circulación forzada de gas; Su recalentamiento [2006.01]"
+  },
+  {
+    "code": "C21D 1/773",
+    "description": "••••a presión reducida o vacío [2006.01]"
+  },
+  {
+    "code": "C21D 1/78",
+    "description": "••Tratamientos térmicos combinados no previstos anteriormente [2006.01]"
+  },
+  {
+    "code": "C21D 1/82",
+    "description": "••Decapado por acción térmica (mecánicamente B21, B23; químicamente C23; electrolíticamente C25F 1/00) [2006.01]"
+  },
+  {
+    "code": "C21D 1/84",
+    "description": "••Enfriamiento lento dirigido (lechos de enfriamiento asociados a los laminadores B21B 43/00) [2006.01]"
+  },
+  {
+    "code": "C21D 3/00",
+    "description": "Procesos de difusión para extracción de elementos no metálicos; Sus hornos (revestimientos protectores locales C21D 1/72) [2006.01]"
+  },
+  {
+    "code": "C21D 3/02",
+    "description": "••Extracción de elementos no metálicos [2006.01]"
+  },
+  {
+    "code": "C21D 3/04",
+    "description": "••••Descarburación [2006.01]"
+  },
+  {
+    "code": "C21D 3/06",
+    "description": "••••Extracción del hidrógeno [2006.01]"
+  },
+  {
+    "code": "C21D 3/08",
+    "description": "••••Extracción del nitrógeno [2006.01]"
+  },
+  {
+    "code": "C21D 3/10",
+    "description": "••Sus hornos [2006.01]"
+  },
+  {
+    "code": "C21D 5/00",
+    "description": "Tratamientos térmicos del hierro colado [2006.01]"
+  },
+  {
+    "code": "C21D 5/02",
+    "description": "••para mejorar la maleabilidad de la fundición gris [2006.01]"
+  },
+  {
+    "code": "C21D 5/04",
+    "description": "••de la fundición blanca [2006.01]"
+  },
+  {
+    "code": "C21D 5/06",
+    "description": "••••maleabilización [2006.01]"
+  },
+  {
+    "code": "C21D 5/08",
+    "description": "••••••con oxidación de carbono [2006.01]"
+  },
+  {
+    "code": "C21D 5/10",
+    "description": "••••••••en agentes gaseosos [2006.01]"
+  },
+  {
+    "code": "C21D 5/12",
+    "description": "••••••••en agentes sólidos [2006.01]"
+  },
+  {
+    "code": "C21D 5/14",
+    "description": "••••••Grafitado [2006.01]"
+  },
+  {
+    "code": "C21D 5/16",
+    "description": "••••••••Agentes de carga [2006.01]"
+  },
+  {
+    "code": "C21D 6/00",
+    "description": "Tratamiento térmico de aleaciones ferrosas [2006.01]"
+  },
+  {
+    "code": "C21D 6/02",
+    "description": "••Endurecimiento por precipitación [2006.01]"
+  },
+  {
+    "code": "C21D 6/04",
+    "description": "••Endurecimiento por enfriado por debajo de 0° C [2006.01]"
+  },
+  {
+    "code": "C21D 7/00",
+    "description": "Modificación de las propiedades físicas del hierro o el acero por deformación (aparatos para el trabajo mecánico de metales B21, B23, B24) [2006.01]"
+  },
+  {
+    "code": "C21D 7/02",
+    "description": "••por trabajo en frío [2006.01]"
+  },
+  {
+    "code": "C21D 7/04",
+    "description": "••••de la superficie [2006.01]"
+  },
+  {
+    "code": "C21D 7/06",
+    "description": "••••••por chorreado o similares [2006.01]"
+  },
+  {
+    "code": "C21D 7/08",
+    "description": "••••••por bruñido o similares [2006.01]"
+  },
+  {
+    "code": "C21D 7/10",
+    "description": "••••de toda la sección transversal, p. ej. de barras, de refuerzo de hormigón [2006.01]"
+  },
+  {
+    "code": "C21D 7/12",
+    "description": "••••••por dilatación de cuerpos tubulares [2006.01]"
+  },
+  {
+    "code": "C21D 7/13",
+    "description": "••por trabajo en caliente [2006.01]"
+  },
+  {
+    "code": "C21D 8/00",
+    "description": "Modificación de las propiedades físicas por deformación en combinación con, o seguida por, un tratamiento térmico (endurecido de objetos o de materiales formados por forja o laminado sin otro calentamiento que el necesario para dar la forma C21D 1/02) [2006.01]"
+  },
+  {
+    "code": "C21D 8/02",
+    "description": "••durante la fabricación de productos planos o de bandas (C21D 8/12 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "C21D 8/04",
+    "description": "••••para producir productos planos o bandas para repujado profundo [2006.01]"
+  },
+  {
+    "code": "C21D 8/06",
+    "description": "••durante la fabricación de barras o de hilos [2006.01]"
+  },
+  {
+    "code": "C21D 8/08",
+    "description": "••••para hierro de hormigón [2006.01]"
+  },
+  {
+    "code": "C21D 8/10",
+    "description": "••durante la fabricación de cuerpos tubulares [2006.01]"
+  },
+  {
+    "code": "C21D 8/12",
+    "description": "••durante la fabricación de objetos con propiedades electromagnéticas particulares [2006.01]"
+  },
+  {
+    "code": "C21D 9/00",
+    "description": "Tratamiento térmico, p. ej. recocido, endurecido, revenido, temple, adaptado para artículos particulares; Sus hornos [2006.01]"
+  },
+  {
+    "code": "C21D 9/02",
+    "description": "••para resortes [2006.01]"
+  },
+  {
+    "code": "C21D 9/04",
+    "description": "••para raíles [2006.01]"
+  },
+  {
+    "code": "C21D 9/06",
+    "description": "••••a fin de disminuir la tendencia a la ondulación [2006.01]"
+  },
+  {
+    "code": "C21D 9/08",
+    "description": "••para cuerpos tubulares o tuberías [2006.01]"
+  },
+  {
+    "code": "C21D 9/10",
+    "description": "••••cañones de escopeta [2006.01]"
+  },
+  {
+    "code": "C21D 9/12",
+    "description": "••••tubos de cañones de artillería [2006.01]"
+  },
+  {
+    "code": "C21D 9/14",
+    "description": "••••tuberías resistentes al uso o a la presión [2006.01]"
+  },
+  {
+    "code": "C21D 9/16",
+    "description": "••para granadas explosivas [2006.01]"
+  },
+  {
+    "code": "C21D 9/18",
+    "description": "••para cuchillos, guadañas, tijeras o herramientas manuales de corte similares [2006.01]"
+  },
+  {
+    "code": "C21D 9/20",
+    "description": "••para hojas de patines [2006.01]"
+  },
+  {
+    "code": "C21D 9/22",
+    "description": "••para brocas; fresas; para máquinas herramientas de corte [2006.01]"
+  },
+  {
+    "code": "C21D 9/24",
+    "description": "••para hojas de sierra [2006.01]"
+  },
+  {
+    "code": "C21D 9/26",
+    "description": "••para agujas; para dientes de carda [2006.01]"
+  },
+  {
+    "code": "C21D 9/28",
+    "description": "••para árboles o ejes lisos [2006.01]"
+  },
+  {
+    "code": "C21D 9/30",
+    "description": "••para cigüeñal; árbol de levas [2006.01]"
+  },
+  {
+    "code": "C21D 9/32",
+    "description": "••para ruedas de engranaje, para ruedas helicoidales o similares [2006.01]"
+  },
+  {
+    "code": "C21D 9/34",
+    "description": "••para cubiertas; llantas [2006.01]"
+  },
+  {
+    "code": "C21D 9/36",
+    "description": "••para bolas; para rodillos [2006.01]"
+  },
+  {
+    "code": "C21D 9/38",
+    "description": "••para cuerpos cilíndricos [2006.01]"
+  },
+  {
+    "code": "C21D 9/40",
+    "description": "••para anillos; para cojinetes [2006.01]"
+  },
+  {
+    "code": "C21D 9/42",
+    "description": "••para placas de armadura [2006.01]"
+  },
+  {
+    "code": "C21D 9/44",
+    "description": "••para equipado para revestimiento de minas, p. ej. segmentos, anillos o puntales [2006.01]"
+  },
+  {
+    "code": "C21D 9/46",
+    "description": "••para láminas metálicas [2006.01]"
+  },
+  {
+    "code": "C21D 9/48",
+    "description": "••••láminas embutidas [2006.01]"
+  },
+  {
+    "code": "C21D 9/50",
+    "description": "••para juntas de soldadura [2006.01]"
+  },
+  {
+    "code": "C21D 9/52",
+    "description": "••para alambres; para bandas metálicas [2006.01]"
+  },
+  {
+    "code": "C21D 9/54",
+    "description": "••••Hornos para el tratamiento de bandas o hilos metálicos [2006.01]"
+  },
+  {
+    "code": "C21D 9/56",
+    "description": "••••••Hornos continuos para bandas o alambres [2006.01]"
+  },
+  {
+    "code": "C21D 9/567",
+    "description": "••••••••con calentamiento en lechos fluidizados [2006.01]"
+  },
+  {
+    "code": "C21D 9/573",
+    "description": "••••••••con enfriamiento [2006.01]"
+  },
+  {
+    "code": "C21D 9/58",
+    "description": "••••••••con calentamiento por baños [2006.01]"
+  },
+  {
+    "code": "C21D 9/60",
+    "description": "••••••••con calentamiento por inducción [2006.01]"
+  },
+  {
+    "code": "C21D 9/62",
+    "description": "••••••••con calentamiento directo por resistencia [2006.01]"
+  },
+  {
+    "code": "C21D 9/63",
+    "description": "••••••••estando sujeta la banda por un soporte de gas [2006.01]"
+  },
+  {
+    "code": "C21D 9/64",
+    "description": "••••••Hornos abiertos [2006.01]"
+  },
+  {
+    "code": "C21D 9/66",
+    "description": "••••••Hornos del tipo de torre [2006.01]"
+  },
+  {
+    "code": "C21D 9/663",
+    "description": "••••••Hornos de campana [2006.01]"
+  },
+  {
+    "code": "C21D 9/665",
+    "description": "••••••••invertidos o colocados sobre un lado [2006.01]"
+  },
+  {
+    "code": "C21D 9/667",
+    "description": "••••••••Hornos de varias posiciones [2006.01]"
+  },
+  {
+    "code": "C21D 9/67",
+    "description": "••••••••••adaptados al tratamiento de la carga en vacío o en una atmósfera particular [2006.01]"
+  },
+  {
+    "code": "C21D 9/673",
+    "description": "••••••••Partes constitutivas, accesorios o equipo particular de los hornos de campana [2006.01]"
+  },
+  {
+    "code": "C21D 9/675",
+    "description": "••••••••Preparación de los dispositivos de carga o descarga [2006.01]"
+  },
+  {
+    "code": "C21D 9/677",
+    "description": "••••••••Preparación de los dispositivos de calefacción [2006.01]"
+  },
+  {
+    "code": "C21D 9/68",
+    "description": "••••••Hornos de bobinado; Bobinadores calientes (bobinadores en frío B21C 47/00) [2006.01]"
+  },
+  {
+    "code": "C21D 9/70",
+    "description": "••Hornos para lingotes, es decir, fosas de recalentamiento [2006.01]"
+  },
+  {
+    "code": "C21D 10/00",
+    "description": "Modificación de las propiedades físicas de forma distinta que por tratamiento térmico o deformación [2006.01]"
+  },
+  {
+    "code": "C21D 11/00",
+    "description": "Control o regulación del proceso durante los tratamientos térmicos [2006.01]"
+  }
+]

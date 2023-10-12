@@ -1,0 +1,254 @@
+[
+  {
+    "code": "H03G 1/00",
+    "description": "Detalles de disposiciones para el control de la amplificación [2006.01]"
+  },
+  {
+    "code": "H03G 1/02",
+    "description": "••Control a distancia de amplificación, tonalidad o ancho de banda (control a distancia en general G05, G08; combinado con sintonización o selección a distancia de circuitos resonantes H03J) [2006.01]"
+  },
+  {
+    "code": "H03G 1/04",
+    "description": "••Modificaciones del circuito de control para reducir la distorsión producida por el control (modificaciones para reducir la influencia de las variaciones de la impedancia interna de los elementos amplificadores producidas por el control H03F 1/08) [2006.01]"
+  },
+  {
+    "code": "H03G 3/00",
+    "description": "Control de la ganancia en los amplificadores o cambiadores de frecuencia (amplificadores controlados H03F 3/72; específicamente para los receptores de televisión H04N) [2006.01]"
+  },
+  {
+    "code": "H03G 3/02",
+    "description": "••Control accionado manualmente [2006.01]"
+  },
+  {
+    "code": "H03G 3/04",
+    "description": "••••en los amplificadores no sintonizados [2006.01]"
+  },
+  {
+    "code": "H03G 3/06",
+    "description": "••••••teniendo tubos de descarga [2006.01]"
+  },
+  {
+    "code": "H03G 3/08",
+    "description": "••••••••teniendo realimentación negativa [2006.01]"
+  },
+  {
+    "code": "H03G 3/10",
+    "description": "••••••teniendo dispositivos semiconductores [2006.01]"
+  },
+  {
+    "code": "H03G 3/12",
+    "description": "••••••••teniendo realimentación negativa [2006.01]"
+  },
+  {
+    "code": "H03G 3/14",
+    "description": "••••en los amplificadores selectivos de frecuencia [2006.01]"
+  },
+  {
+    "code": "H03G 3/16",
+    "description": "••••••teniendo tubos de descarga [2006.01]"
+  },
+  {
+    "code": "H03G 3/18",
+    "description": "••••••teniendo dispositivos semiconductores [2006.01]"
+  },
+  {
+    "code": "H03G 3/20",
+    "description": "••Control automático (combinado con la compresión o expansión de volumen H03G 7/00) [2006.01]"
+  },
+  {
+    "code": "H03G 3/22",
+    "description": "••••en los amplificadores que tienen tubos de descarga [2006.01]"
+  },
+  {
+    "code": "H03G 3/24",
+    "description": "••••••Control dependiente del nivel de ruido ambiente o del nivel sonoro ambiente [2006.01]"
+  },
+  {
+    "code": "H03G 3/26",
+    "description": "••••••amplificador silenciado cuando no hay señal presente [2006.01]"
+  },
+  {
+    "code": "H03G 3/28",
+    "description": "••••••••en los receptores de modulación de frecuencia [2006.01]"
+  },
+  {
+    "code": "H03G 3/30",
+    "description": "••••en los amplificadores que tienen dispositivos semiconductores [2006.01]"
+  },
+  {
+    "code": "H03G 3/32",
+    "description": "••••••dependiendo el control del nivel de ruido ambiente o del nivel sonoro ambiental [2006.01]"
+  },
+  {
+    "code": "H03G 3/34",
+    "description": "••••••silenciando el amplificador cuando no hay señal presente [2006.01]"
+  },
+  {
+    "code": "H03G 5/00",
+    "description": "Control de tono o control del ancho de banda de los amplificadores [2006.01]"
+  },
+  {
+    "code": "H03G 5/02",
+    "description": "••Control accionado manualmente (filtros pasabanda o filtros de banda eliminada con lo ancho de la banda regulable H03H 7/12) [2006.01]"
+  },
+  {
+    "code": "H03G 5/04",
+    "description": "••••en los amplificadores no sintonizados [2006.01]"
+  },
+  {
+    "code": "H03G 5/06",
+    "description": "••••••teniendo tubos de descarga [2006.01]"
+  },
+  {
+    "code": "H03G 5/08",
+    "description": "••••••••incorporando realimentación negativa [2006.01]"
+  },
+  {
+    "code": "H03G 5/10",
+    "description": "••••••teniendo dispositivos semiconductores [2006.01]"
+  },
+  {
+    "code": "H03G 5/12",
+    "description": "••••••••incorporando realimentación negativa [2006.01]"
+  },
+  {
+    "code": "H03G 5/14",
+    "description": "••••en los amplificadores selectivos de frecuencia [2006.01]"
+  },
+  {
+    "code": "H03G 5/16",
+    "description": "••Control automático [2006.01]"
+  },
+  {
+    "code": "H03G 5/18",
+    "description": "••••en los amplificadores no sintonizados [2006.01]"
+  },
+  {
+    "code": "H03G 5/20",
+    "description": "••••••teniendo tubos de descarga [2006.01]"
+  },
+  {
+    "code": "H03G 5/22",
+    "description": "••••••teniendo dispositivos semiconductores [2006.01]"
+  },
+  {
+    "code": "H03G 5/24",
+    "description": "••••en amplificadores selectivos de frecuencia [2006.01]"
+  },
+  {
+    "code": "H03G 5/26",
+    "description": "••••••teniendo tubos de descarga [2006.01]"
+  },
+  {
+    "code": "H03G 5/28",
+    "description": "••••••teniendo dispositivos semiconductores [2006.01]"
+  },
+  {
+    "code": "H03G 7/00",
+    "description": "Compresión o expansión de volumen en los amplificadores [2006.01]"
+  },
+  {
+    "code": "H03G 7/02",
+    "description": "••teniendo tubos de descarga [2006.01]"
+  },
+  {
+    "code": "H03G 7/04",
+    "description": "••••incorporando realimentación negativa [2006.01]"
+  },
+  {
+    "code": "H03G 7/06",
+    "description": "••teniendo dispositivos semiconductores [2006.01]"
+  },
+  {
+    "code": "H03G 7/08",
+    "description": "••••incorporando realimentación negativa [2006.01]"
+  },
+  {
+    "code": "H03G 9/00",
+    "description": "Combinaciones de dos o más tipos de control, p. ej. control de ganancia y control de tono [2006.01]"
+  },
+  {
+    "code": "H03G 9/02",
+    "description": "••en amplificadores no sintonizados (controles de tono combinados para altas y bajas frecuencias H03G 5/00) [2006.01]"
+  },
+  {
+    "code": "H03G 9/04",
+    "description": "••••teniendo tubos de descarga [2006.01]"
+  },
+  {
+    "code": "H03G 9/06",
+    "description": "••••••para control de ganancia y control de tono [2006.01]"
+  },
+  {
+    "code": "H03G 9/08",
+    "description": "••••••••incorporando realimentación negativa [2006.01]"
+  },
+  {
+    "code": "H03G 9/10",
+    "description": "••••••para control de tono y expansión o compresión de volumen [2006.01]"
+  },
+  {
+    "code": "H03G 9/12",
+    "description": "••••teniendo dispositivos semiconductores [2006.01]"
+  },
+  {
+    "code": "H03G 9/14",
+    "description": "••••••para control de ganancia y control de tono [2006.01]"
+  },
+  {
+    "code": "H03G 9/16",
+    "description": "••••••••incorporando realimentación negativa [2006.01]"
+  },
+  {
+    "code": "H03G 9/18",
+    "description": "••••••para control de tono y expansión o compresión de volumen [2006.01]"
+  },
+  {
+    "code": "H03G 9/20",
+    "description": "••en los amplificadores selectivos de frecuencia [2006.01]"
+  },
+  {
+    "code": "H03G 9/22",
+    "description": "••••teniendo tubos de descarga [2006.01]"
+  },
+  {
+    "code": "H03G 9/24",
+    "description": "••••teniendo dispositivos semiconductores [2006.01]"
+  },
+  {
+    "code": "H03G 9/26",
+    "description": "••en las etapas amplificadoras no sintonizadas así como en las etapas amplificadoras selectivas de frecuencia (control de ganancia en las dos etapas H03G 3/00; control de tono o control de ancho de banda H03G 5/00) [2006.01]"
+  },
+  {
+    "code": "H03G 9/28",
+    "description": "••••todas las etapas amplificadoras tienen tubos de descarga [2006.01]"
+  },
+  {
+    "code": "H03G 9/30",
+    "description": "••••todas las etapas amplificadoras tienen dispositivos semiconductores [2006.01]"
+  },
+  {
+    "code": "H03G 11/00",
+    "description": "Limitación de amplitud; Limitación de la tasa de variación de amplitud [2006.01]"
+  },
+  {
+    "code": "H03G 11/02",
+    "description": "••por medio de diodos (H03G 11/04, H03G 11/06, H03G 11/08 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H03G 11/04",
+    "description": "••Nivel de limitación dependiente de la intensidad de la señal; Nivel de limitación dependiente de la intensidad de la portadora sobre la cual es modulada la señal [2006.01]"
+  },
+  {
+    "code": "H03G 11/06",
+    "description": "••Limitadores de señales moduladas en ángulo; Limitadores de tal tipo combinados con discriminadores (discriminadores que tienen una acción intrínseca de limitación H03D 3/00) [2006.01]"
+  },
+  {
+    "code": "H03G 11/08",
+    "description": "••Limitación de la tasa de variación de la amplitud [2006.01]"
+  },
+  {
+    "code": "H03G 99/00",
+    "description": "Materia no prevista en otros grupos de esta subclase [2006.01]"
+  }
+]

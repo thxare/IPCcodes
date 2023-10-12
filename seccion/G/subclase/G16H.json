@@ -1,0 +1,142 @@
+[
+  {
+    "code": "G16H 10/00",
+    "description": "TIC especialmente adaptadas para el tratamiento o procesamiento de datos médicos relacionados con pacientes o datos de la asistencia sanitaria (para informes médicos G16H 15/00; para terapias o planes para mejorar la salud G16H 20/00; para el tratamiento o procesamiento de imágenes médicas G16H 30/00) [2018.01]"
+  },
+  {
+    "code": "G16H 10/20",
+    "description": "••para ensayos o cuestionarios clínicos electrónicos [2018.01]"
+  },
+  {
+    "code": "G16H 10/40",
+    "description": "••para los datos relacionados con análisis de laboratorio, p. ej. los análisis de muestras de pacientes [2018.01]"
+  },
+  {
+    "code": "G16H 10/60",
+    "description": "••para los datos específicos de los pacientes, p. ej. para los registros electrónicos de los pacientes [2018.01]"
+  },
+  {
+    "code": "G16H 10/65",
+    "description": "••••almacenados sobre soportes de registros transportables, p. ej. sobre tarjetas inteligentes, etiquetas de identificación por radiofrecuencia RFID o discos compactos CDs [2018.01]"
+  },
+  {
+    "code": "G16H 15/00",
+    "description": "TIC especialmente adaptadas para informes médicos, p. ej. su generación o transmisión [2018.01]"
+  },
+  {
+    "code": "G16H 20/00",
+    "description": "TIC especialmente adaptadas a las terapias o a los planes para mejorar la salud, p. ej. para gestionar las prescripciones, orientar la terapia o monitorizar el cumplimiento de la misma por parte de los pacientes [2018.01]"
+  },
+  {
+    "code": "G16H 20/10",
+    "description": "••en relación con los medicamentos o con la medicación, p. ej. para asegurar una administración correcta a los pacientes [2018.01]"
+  },
+  {
+    "code": "G16H 20/13",
+    "description": "••••administrados con dispensadores [2018.01]"
+  },
+  {
+    "code": "G16H 20/17",
+    "description": "••••administrados vía infusión o inyección [2018.01]"
+  },
+  {
+    "code": "G16H 20/30",
+    "description": "••en relación con las terapias físicas o actividades, p. ej. fisioterapia, digitopuntura o ejercicios [2018.01]"
+  },
+  {
+    "code": "G16H 20/40",
+    "description": "••en relación con las terapias mecánicas, la radioterapia o las terapias invasivas, p. ej. la cirugía, la terapia láser, la diálisis o la acupuntura [2018.01]"
+  },
+  {
+    "code": "G16H 20/60",
+    "description": "••en relación con el control de la nutrición, p. ej. las dietas [2018.01]"
+  },
+  {
+    "code": "G16H 20/70",
+    "description": "••en relación con las terapias mentales, p. ej. la terapia psicológica o el entrenamiento autógeno [2018.01]"
+  },
+  {
+    "code": "G16H 20/90",
+    "description": "••en relación con las medicinas alternativas, p. ej. la homeopatía o las medicinas orientales [2018.01]"
+  },
+  {
+    "code": "G16H 30/00",
+    "description": "TIC especialmente adaptadas para el tratamiento o procesamiento de imágenes médicas (tomografía computerizada A61B 6/03) [2018.01]"
+  },
+  {
+    "code": "G16H 30/20",
+    "description": "••para el tratamiento de las imágenes médicas, p. ej. DICOM, HL7 o PACS [2018.01]"
+  },
+  {
+    "code": "G16H 30/40",
+    "description": "••para el procesamiento de imágenes médicas, p. ej. la edición [2018.01]"
+  },
+  {
+    "code": "G16H 40/00",
+    "description": "TIC especialmente adaptadas para la gestión o la administración de los recursos o las instalaciones de la asistencia sanitaria; TIC especialmente adaptada para la gestión o el funcionamiento de los equipos o los dispositivos médicos [2018.01]"
+  },
+  {
+    "code": "G16H 40/20",
+    "description": "••para la gestión o la administración de los recursos o instalaciones de la asistencia sanitaria, p. ej. la gestión del personal del hospital o de los quirófanos [2018.01]"
+  },
+  {
+    "code": "G16H 40/40",
+    "description": "••para la gestión de equipos o de dispositivos médicos, p. ej.  para la planificación del mantenimiento o las actualizaciones [2018.01]"
+  },
+  {
+    "code": "G16H 40/60",
+    "description": "••para el funcionamiento de equipos o dispositivos médicos [2018.01]"
+  },
+  {
+    "code": "G16H 40/63",
+    "description": "••••para el funcionamiento local [2018.01]"
+  },
+  {
+    "code": "G16H 40/67",
+    "description": "••••para el funcionamiento remoto [2018.01]"
+  },
+  {
+    "code": "G16H 50/00",
+    "description": "TIC especialmente adaptadas para el diágnostico médico, la simulación médica o la minería de datos médicos; TIC especialmente adaptadas para la detección, monitorización o modelación de las epidemias o de las pandemias [2018.01]"
+  },
+  {
+    "code": "G16H 50/20",
+    "description": "••para el diagnóstico asistido por ordenador, p.ej. basado en los sistemas expertos médicos [2018.01]"
+  },
+  {
+    "code": "G16H 50/30",
+    "description": "••para el cálculo de los índices de la salud; para la evaluación de los riesgos de la salud de una persona [2018.01]"
+  },
+  {
+    "code": "G16H 50/50",
+    "description": "••para la simulación o la modelización de los desórdenes médicos [2018.01]"
+  },
+  {
+    "code": "G16H 50/70",
+    "description": "••para la minería de datos, p. ej. para analizar los casos previos de otros pacientes [2018.01]"
+  },
+  {
+    "code": "G16H 50/80",
+    "description": "••para detectar, monitorizar o modelizar las epidemias o las pandemias, p. ej. la gripe [2018.01]"
+  },
+  {
+    "code": "G16H 70/00",
+    "description": "TIC especialmente adaptadas para el tratamiento o procesamiento de referencias médicas [2018.01]"
+  },
+  {
+    "code": "G16H 70/20",
+    "description": "••en relación a las prácticas o a las directrices [2018.01]"
+  },
+  {
+    "code": "G16H 70/40",
+    "description": "••en relación a los medicamentos, p. ej. sus efectos laterales o su uso uso previsto [2018.01]"
+  },
+  {
+    "code": "G16H 70/60",
+    "description": "••en relación a las patologías [2018.01]"
+  },
+  {
+    "code": "G16H 80/00",
+    "description": "TIC especialmente adaptadas para facilitar la comunicación entre los profesionales médicos o los pacientes, p. ej. diagnóstico colaborativo, terapia colaborativa o monitorización colaborativa del estado de salud [2018.01]"
+  }
+]

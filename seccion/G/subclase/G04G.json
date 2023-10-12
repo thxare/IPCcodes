@@ -1,0 +1,146 @@
+[
+  {
+    "code": "G04G 3/00",
+    "description": "Generación de impulsos de cadencia (circuitos de control para motores paso a paso G04C 3/14; producción de intervalos de tiempo predeterminados utilizados como patrones G04F 5/00; técnica de impulsos en general H03K; control, sincronización o estabilización de generadores en general H03L) [2006.01]"
+  },
+  {
+    "code": "G04G 3/02",
+    "description": "••Circuitos para obtener impulsos de cadencia de baja frecuencia a partir de impulsos de frecuencia más elevada (divisores de frecuencia de impulsos en general H03K 23/00-H03K 29/00) [2006.01]"
+  },
+  {
+    "code": "G04G 3/04",
+    "description": "••Disposiciones de compensación de temperatura [2006.01]"
+  },
+  {
+    "code": "G04G 5/00",
+    "description": "Puesta en hora, es decir, corrección o cambio de la indicación de la hora (controlado por radio relojes G04R) [2013.01]"
+  },
+  {
+    "code": "G04G 5/02",
+    "description": "••cambiando momentáneamente el número de impulsos por unidad de tiempo, p. ej. método de alimentación rápida [2006.01]"
+  },
+  {
+    "code": "G04G 5/04",
+    "description": "••regulando cada uno de los valores mostrados, p. ej. la fecha, la hora, de manera independiente [2006.01]"
+  },
+  {
+    "code": "G04G 7/00",
+    "description": "Sincronización (controlado por radio relojes G04R) [2006.01]"
+  },
+  {
+    "code": "G04G 9/00",
+    "description": "Medios visuales de indicación de la hora o de la fecha [2006.01]"
+  },
+  {
+    "code": "G04G 9/02",
+    "description": "••eligiendo los caracteres deseados entre una serie de caracteres o eligiendo elementos indicadores cuya posición representa la hora, p. ej. utilizando técnicas de multiplexado [2006.01]"
+  },
+  {
+    "code": "G04G 9/04",
+    "description": "••••controlando las fuentes de luz, p. ej. diodos electroluminiscentes [2006.01]"
+  },
+  {
+    "code": "G04G 9/06",
+    "description": "••••utilizando válvulas de luz, p. ej. cristales líquidos [2006.01]"
+  },
+  {
+    "code": "G04G 9/08",
+    "description": "••constituyendo los caracteres por combinación de elementos indicadores, p. ej. utilizando técnicas de multiplexado [2006.01]"
+  },
+  {
+    "code": "G04G 9/10",
+    "description": "••••controlando las fuentes de luz, p. ej. diodos electroluminiscentes [2006.01]"
+  },
+  {
+    "code": "G04G 9/12",
+    "description": "••••utilizando válvulas de luz, p. ej. cristales líquidos [2006.01]"
+  },
+  {
+    "code": "G04G 11/00",
+    "description": "Producción de señales ópticas en momentos predeterminados [2006.01]"
+  },
+  {
+    "code": "G04G 13/00",
+    "description": "Producción de señales horarias acústicas [2006.01]"
+  },
+  {
+    "code": "G04G 13/02",
+    "description": "••en momentos elegidos de antemano, p. ej. para despertadores [2006.01]"
+  },
+  {
+    "code": "G04G 15/00",
+    "description": "Relojes electrónicos que constan de medios que deben ser accionados en momentos elegidos de antemano o después de intervalos de tiempo predeterminados (G04G 11/00, G04G 13/00 tienen prioridad; circuitos de retardo para impulsos H03K 5/13; conmutadores electrónicos con efecto de retardo H03K 17/28; conmutadores electrónicos de programa que se paran automáticamente cuando el programa se ha realizado H03K 17/296; programación horaria para grabar la señal de televisión H04N 5/761) [2006.01]"
+  },
+  {
+    "code": "G04G 17/00",
+    "description": "Detalles estructurales; Cajas (detalles de construcción de control de radio relojes, p. ej. antenas G04R 60/00) [2013.01]"
+  },
+  {
+    "code": "G04G 17/02",
+    "description": "••Ensamblado de componentes [2006.01]"
+  },
+  {
+    "code": "G04G 17/04",
+    "description": "••••Montaje de componentes electrónicos [2006.01]"
+  },
+  {
+    "code": "G04G 17/06",
+    "description": "••••Conectores eléctricos, p. ej. elastómetros conductores [2006.01]"
+  },
+  {
+    "code": "G04G 17/08",
+    "description": "••Cajas [2006.01]"
+  },
+  {
+    "code": "G04G 19/00",
+    "description": "Circuitos de alimentación de energía eléctrica especialmente adaptados para su utilización en relojes electrónicos [2006.01]"
+  },
+  {
+    "code": "G04G 19/02",
+    "description": "••Transformación o regulación de la corriente o de la tensión [2006.01]"
+  },
+  {
+    "code": "G04G 19/04",
+    "description": "••••División o multiplicación capacitivas de la tensión [2006.01]"
+  },
+  {
+    "code": "G04G 19/06",
+    "description": "••••Regulación [2006.01]"
+  },
+  {
+    "code": "G04G 19/08",
+    "description": "••Disposiciones para impedir una caída de tensión causada por una sobrecarga de la alimentación [2006.01]"
+  },
+  {
+    "code": "G04G 19/10",
+    "description": "••Disposiciones para suministrar una alimentación de emergencia [2006.01]"
+  },
+  {
+    "code": "G04G 19/12",
+    "description": "••Disposiciones para reducir el consumo de potencia durante el almacenamiento [2006.01]"
+  },
+  {
+    "code": "G04G 21/00",
+    "description": "Dispositivos de entrada o salida integrados en relojes [2010.01]"
+  },
+  {
+    "code": "G04G 21/02",
+    "description": "••Detectores de valores físicos externos, p. ej. temperatura [2010.01]"
+  },
+  {
+    "code": "G04G 21/04",
+    "description": "••usando ondas de radio (controlado por radio relojes G04R) [2013.01]"
+  },
+  {
+    "code": "G04G 21/06",
+    "description": "••usando la voz [2010.01]"
+  },
+  {
+    "code": "G04G 21/08",
+    "description": "••Conmutadores de contacto especialmente adaptados a los relojes [2010.01]"
+  },
+  {
+    "code": "G04G 99/00",
+    "description": "Materia no prevista en otros grupos de esta subclase [2010.01]"
+  }
+]

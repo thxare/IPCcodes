@@ -1,0 +1,186 @@
+[
+  {
+    "code": "G08C 13/00",
+    "description": "Disposiciones para influenciar la relación entre las señales de entrada y las de salida, p. ej. diferenciación, retardo [2006.01]"
+  },
+  {
+    "code": "G08C 13/02",
+    "description": "••para dar una señal que sea una función de dos o más señales, p. ej. la suma, el producto [2006.01]"
+  },
+  {
+    "code": "G08C 15/00",
+    "description": "Disposiciones caracterizadas por la utilización del multiplexado para la transmisión de varias señales por una vía común [2006.01]"
+  },
+  {
+    "code": "G08C 15/02",
+    "description": "••simultáneamente, es decir, utilizando división de frecuencia [2006.01]"
+  },
+  {
+    "code": "G08C 15/04",
+    "description": "••••estando las señales moduladas por frecuencias portadoras [2006.01]"
+  },
+  {
+    "code": "G08C 15/06",
+    "description": "••sucesivamente, es decir utilizando división de tiempos [2006.01]"
+  },
+  {
+    "code": "G08C 15/08",
+    "description": "••••estando las señales representadas por la amplitud de corriente o de tensión en la vía de transmisión [2006.01]"
+  },
+  {
+    "code": "G08C 15/10",
+    "description": "••••estando las señales representadas por la frecuencia o la fase de corriente o de tensión en la vía de transmisión [2006.01]"
+  },
+  {
+    "code": "G08C 15/12",
+    "description": "••••estando las señales representadas por características de impulsos en la vía de transmisión [2006.01]"
+  },
+  {
+    "code": "G08C 17/00",
+    "description": "Disposiciones para transmitir señales caracterizadas por la utilización de una vía eléctrica sin hilo [2006.01]"
+  },
+  {
+    "code": "G08C 17/02",
+    "description": "••que utilizan una vía radio [2006.01]"
+  },
+  {
+    "code": "G08C 17/04",
+    "description": "••que utilizan dispositivos acoplados magnéticamente [2006.01]"
+  },
+  {
+    "code": "G08C 17/06",
+    "description": "••que utilizan un acoplamiento capacitivo [2006.01]"
+  },
+  {
+    "code": "G08C 19/00",
+    "description": "Sistemas de transmisión de señales eléctricas (G08C 17/00 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G08C 19/02",
+    "description": "••en los que la señal transmitida es la amplitud de una corriente o de una tensión (G08C 19/36, G08C 19/38 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G08C 19/04",
+    "description": "••••que utilizan una resistencia variable [2006.01]"
+  },
+  {
+    "code": "G08C 19/06",
+    "description": "••••que utilizan una inductancia variable [2006.01]"
+  },
+  {
+    "code": "G08C 19/08",
+    "description": "••••••que influencian diferencialmente dos bobinas [2006.01]"
+  },
+  {
+    "code": "G08C 19/10",
+    "description": "••••que utilizan una capacidad variable [2006.01]"
+  },
+  {
+    "code": "G08C 19/12",
+    "description": "••en los que la señal transmitida es la frecuencia o la fase de una corriente alterna [2006.01]"
+  },
+  {
+    "code": "G08C 19/14",
+    "description": "••••que utilizan una combinación de frecuencias fijas [2006.01]"
+  },
+  {
+    "code": "G08C 19/16",
+    "description": "••en las que la transmisión es por impulsos [2006.01]"
+  },
+  {
+    "code": "G08C 19/18",
+    "description": "••••que utilizan un número variable de impulsos en un tren [2006.01]"
+  },
+  {
+    "code": "G08C 19/20",
+    "description": "••••••que actúan sobre dispositivos dinamoeléctricos, p. ej. motor paso a paso [2006.01]"
+  },
+  {
+    "code": "G08C 19/22",
+    "description": "••••por variación de la duración de impulsos individuales [2006.01]"
+  },
+  {
+    "code": "G08C 19/24",
+    "description": "••••que utilizan el desplazamiento en el tiempo de impulsos [2006.01]"
+  },
+  {
+    "code": "G08C 19/26",
+    "description": "••••por variación de la frecuencia de repetición de impulsos [2006.01]"
+  },
+  {
+    "code": "G08C 19/28",
+    "description": "••••que utilizan un código de impulsos [2006.01]"
+  },
+  {
+    "code": "G08C 19/30",
+    "description": "••en los que la transmisión se hace por la selección de uno o más conductores o canales entre varios conductores o canales (G08C 19/38 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G08C 19/32",
+    "description": "••••de un conductor o canal [2006.01]"
+  },
+  {
+    "code": "G08C 19/34",
+    "description": "••••de una combinación de conductores o canales [2006.01]"
+  },
+  {
+    "code": "G08C 19/36",
+    "description": "••que utilizan medios ópticos para convertir la señal de entrada [2006.01]"
+  },
+  {
+    "code": "G08C 19/38",
+    "description": "••que utilizan dispositivos dinamoeléctricos (accionados por impulsos G08C 19/20) [2006.01]"
+  },
+  {
+    "code": "G08C 19/40",
+    "description": "••••en las que sólo el rotor o el estator lleva un arrollamiento al que una señal es aplicada, p. ej. utilizando un motor paso a paso [2006.01]"
+  },
+  {
+    "code": "G08C 19/42",
+    "description": "••••••que tienen tres polos de estator [2006.01]"
+  },
+  {
+    "code": "G08C 19/44",
+    "description": "••••••que tienen más de tres polos de estator [2006.01]"
+  },
+  {
+    "code": "G08C 19/46",
+    "description": "••••en los que tanto el rotor como el estator llevan enrollamientos (que tienen un rotor de jaula de ardilla G08C 19/40) [2006.01]"
+  },
+  {
+    "code": "G08C 19/48",
+    "description": "••••••siendo del tipo de estator trifásico y de motor alimentado en corriente alterna de frecuencia constante, p. ej. selsyn, magslip [2006.01]"
+  },
+  {
+    "code": "G08C 21/00",
+    "description": "Sistemas de transmisión de la posición de un objeto en relación a un sistema de referencia predeterminado, p. ej. sistema teleautográfic [2006.01]"
+  },
+  {
+    "code": "G08C 23/00",
+    "description": "Sistemas de transmisión de señales no eléctricas, p. ej. sistemas ópticos [2006.01]"
+  },
+  {
+    "code": "G08C 23/02",
+    "description": "••que utilizan ondas acústicas [2006.01]"
+  },
+  {
+    "code": "G08C 23/04",
+    "description": "••que utilizan ondas luminosas, p. ej. infrarrojos [2006.01]"
+  },
+  {
+    "code": "G08C 23/06",
+    "description": "••••a través de guías de luz, p. ej. fibras ópticas [2006.01]"
+  },
+  {
+    "code": "G08C 25/00",
+    "description": "Disposiciones para prevenir o corregir los errores; Disposiciones de control [2006.01]"
+  },
+  {
+    "code": "G08C 25/02",
+    "description": "••por señalización en retorno desde la estación receptora a la estación emisora [2006.01]"
+  },
+  {
+    "code": "G08C 25/04",
+    "description": "••por registro de señales transmitidas [2006.01]"
+  }
+]

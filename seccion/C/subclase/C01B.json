@@ -1,0 +1,1766 @@
+[
+  {
+    "code": "C01B 3/00",
+    "description": "Hidrógeno; Mezclas gaseosas que contienen hidrógeno; Separación del hidrógeno a partir de mezclas que lo contienen; Purificación del hidrógeno (producción de gas de agua o gas de síntesis a partir de materias carbonosas sólidas C10J) [2006.01]"
+  },
+  {
+    "code": "C01B 3/02",
+    "description": "••Producción de hidrógeno o de mezclas gaseosas que contienen hidrógeno [2006.01]"
+  },
+  {
+    "code": "C01B 3/04",
+    "description": "••••por descomposición de compuestos inorgánicos, p. ej. de amoniaco [2006.01]"
+  },
+  {
+    "code": "C01B 3/06",
+    "description": "••••por reacción de compuestos inorgánicos que tienen un hidrógeno enlazado electropositivamente, p. ej. de agua, ácidos, bases, amoniaco, con agentes reductores inorgánicos (por electrólisis del agua C25B 1/04) [2006.01]"
+  },
+  {
+    "code": "C01B 3/08",
+    "description": "••••••con metales [2006.01]"
+  },
+  {
+    "code": "C01B 3/10",
+    "description": "••••••••por reacción de vapor de agua con metales [2006.01]"
+  },
+  {
+    "code": "C01B 3/12",
+    "description": "••••••por reacción de vapor de agua con monóxido de carbono [2006.01]"
+  },
+  {
+    "code": "C01B 3/14",
+    "description": "••••••••Aporte de calor y de vapor [2006.01]"
+  },
+  {
+    "code": "C01B 3/16",
+    "description": "••••••••con catalizadores [2006.01]"
+  },
+  {
+    "code": "C01B 3/18",
+    "description": "••••••••con partículas sólidas móviles [2006.01]"
+  },
+  {
+    "code": "C01B 3/20",
+    "description": "••••••por reacción de hidróxidos metálicos con monóxido de carbono [2006.01]"
+  },
+  {
+    "code": "C01B 3/22",
+    "description": "••••por descomposición de compuestos orgánicos gaseosos o líquidos [2006.01]"
+  },
+  {
+    "code": "C01B 3/24",
+    "description": "••••••de hidrocarburos [2006.01]"
+  },
+  {
+    "code": "C01B 3/26",
+    "description": "••••••••con catalizadores [2006.01]"
+  },
+  {
+    "code": "C01B 3/28",
+    "description": "••••••••con partículas sólidas móviles [2006.01]"
+  },
+  {
+    "code": "C01B 3/30",
+    "description": "••••••••••utilizando la técnica del lecho fluidizado [2006.01]"
+  },
+  {
+    "code": "C01B 3/32",
+    "description": "••••por reacción de compuestos orgánicos gaseosos o líquidos con agentes gasificantes, p. ej. agua, dióxido de carbono, aire [2006.01]"
+  },
+  {
+    "code": "C01B 3/34",
+    "description": "••••••por reacción de hidrocarburos con agentes gasificantes [2006.01]"
+  },
+  {
+    "code": "C01B 3/36",
+    "description": "••••••••con oxígeno o mezclas que contienen oxígeno como agentes gasificantes [2006.01]"
+  },
+  {
+    "code": "C01B 3/38",
+    "description": "••••••••con catalizadores [2006.01]"
+  },
+  {
+    "code": "C01B 3/40",
+    "description": "••••••••••caracterizada por el catalizador [2006.01]"
+  },
+  {
+    "code": "C01B 3/42",
+    "description": "••••••••••con partículas sólidas móviles [2006.01]"
+  },
+  {
+    "code": "C01B 3/44",
+    "description": "••••••••••••utilizando la técnica del lecho fluidizado [2006.01]"
+  },
+  {
+    "code": "C01B 3/46",
+    "description": "••••••••con materiales sólidos fijos precalentados en discontinuo, p. ej. ventilación y tiro [2006.01]"
+  },
+  {
+    "code": "C01B 3/48",
+    "description": "••••••••seguida por una reacción de vapor de agua con monóxido de carbono [2006.01]"
+  },
+  {
+    "code": "C01B 3/50",
+    "description": "••Separación del hidrógeno o de los gases que lo contienen a partir de mezclas gaseosas, p. ej. purificación (C01B 3/14 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "C01B 3/52",
+    "description": "••••por contacto con líquidos; Regeneración de los líquidos usados [2006.01]"
+  },
+  {
+    "code": "C01B 3/54",
+    "description": "••••••implicando una reacción catalítica [2006.01]"
+  },
+  {
+    "code": "C01B 3/56",
+    "description": "••••por contacto con sólidos; Regeneración de los sólidos usados [2006.01]"
+  },
+  {
+    "code": "C01B 3/58",
+    "description": "••••••implicando una reacción catalítica [2006.01]"
+  },
+  {
+    "code": "C01B 4/00",
+    "description": "Isótopos de hidrógeno; Sus compuestos inorgánicos preparados por cambio de isótopo, p. ej. NH3 + D2 → NH2D + HD [2006.01]"
+  },
+  {
+    "code": "C01B 5/00",
+    "description": "Agua [2006.01]"
+  },
+  {
+    "code": "C01B 5/02",
+    "description": "••Agua pesada; Preparación por reacción química de isótopos de hidrógeno o sus compuestos, p. ej. 4ND3+7O2 → 4NO2+6D2O, 2D2+O2 → 2D2O [2006.01]"
+  },
+  {
+    "code": "C01B 6/00",
+    "description": "Hidruros de metales; Monoborano o diborano; Sus complejos de adición [2006.01]"
+  },
+  {
+    "code": "C01B 6/02",
+    "description": "••Hidruros de los elementos de transición; Sus complejos de adición [2006.01]"
+  },
+  {
+    "code": "C01B 6/04",
+    "description": "••Hidruros de los metales alcalinos, metales alcalinotérreos, berilio o magnesio; Sus complejos de adición [2006.01]"
+  },
+  {
+    "code": "C01B 6/06",
+    "description": "••Hidruros de aluminio, galio, indio, talio, germanio, estaño, plomo, arsénico, antimonio, bismuto o polonio; Monoborano; Diborano; Sus complejos de adición [2006.01]"
+  },
+  {
+    "code": "C01B 6/10",
+    "description": "••••Monoborano; Diborano; Sus complejos de adición [2006.01]"
+  },
+  {
+    "code": "C01B 6/11",
+    "description": "••••••Preparación a partir de boro o compuestos inorgánicos que contienen boro y oxígeno [2006.01]"
+  },
+  {
+    "code": "C01B 6/13",
+    "description": "••••••Complejos de adición del monoborano o diborano, p. ej. con fosfina, arsina hidrazina [2006.01]"
+  },
+  {
+    "code": "C01B 6/15",
+    "description": "••••••••Borohidruros metálicos; Sus complejos de adición [2006.01]"
+  },
+  {
+    "code": "C01B 6/17",
+    "description": "••••••••••Preparación a partir de boro o compuestos inorgánicos que contienen boro y oxígeno [2006.01]"
+  },
+  {
+    "code": "C01B 6/19",
+    "description": "••••••••••Preparación a partir de otros compuestos de boro [2006.01]"
+  },
+  {
+    "code": "C01B 6/21",
+    "description": "••••••••••••Preparación de borohidruros de metales alcalinos, metales alcalinotérreos, magnesio o berilio; Sus complejos de adición, p. ej. LiBH4.2N2H4, NaB2H7 [2006.01]"
+  },
+  {
+    "code": "C01B 6/23",
+    "description": "••••••••••••Preparación de borohidruros de otros metales, p. ej. borohidruros de aluminio; Sus complejos de adición, p. ej. Li[Al(BH4)3H] [2006.01]"
+  },
+  {
+    "code": "C01B 6/24",
+    "description": "••Hidruros que contienen al menos dos metales, p. ej. Li(AlH4); Sus complejos de adición (C01B 6/13-C01B 6/23 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "C01B 6/26",
+    "description": "••••Preparación a partir del metal con la más alta valencia o a partir de sus óxidos o sales de sus oxácidos [2006.01]"
+  },
+  {
+    "code": "C01B 6/34",
+    "description": "••Purificación; Estabilización [2006.01]"
+  },
+  {
+    "code": "C01B 7/00",
+    "description": "Halógenos; Acidos de los halógenos [2006.01]"
+  },
+  {
+    "code": "C01B 7/01",
+    "description": "••Cloro; Acido clorhídrico [2006.01]"
+  },
+  {
+    "code": "C01B 7/03",
+    "description": "••••Preparación a partir de cloruros [2006.01]"
+  },
+  {
+    "code": "C01B 7/04",
+    "description": "••••••Preparación del cloro a partir del ácido clorhídrico [2006.01]"
+  },
+  {
+    "code": "C01B 7/05",
+    "description": "••••••Preparación a partir de cloruro amónico [2006.01]"
+  },
+  {
+    "code": "C01B 7/07",
+    "description": "••••Purificación [2006.01]"
+  },
+  {
+    "code": "C01B 7/075",
+    "description": "••••••del cloro líquido [2006.01]"
+  },
+  {
+    "code": "C01B 7/09",
+    "description": "••Bromo; Acido bromhídrico [2006.01]"
+  },
+  {
+    "code": "C01B 7/13",
+    "description": "••Yodo; Acido yodhídrico [2006.01]"
+  },
+  {
+    "code": "C01B 7/14",
+    "description": "••••Yodo [2006.01]"
+  },
+  {
+    "code": "C01B 7/16",
+    "description": "••••••Preparación a partir de algas [2006.01]"
+  },
+  {
+    "code": "C01B 7/19",
+    "description": "••Flúor; Acido fluorhídrico [2006.01]"
+  },
+  {
+    "code": "C01B 7/20",
+    "description": "••••Flúor [2006.01]"
+  },
+  {
+    "code": "C01B 7/24",
+    "description": "••Compuestos interhalogenados [2006.01]"
+  },
+  {
+    "code": "C01B 9/00",
+    "description": "Métodos generales de preparación de haluros (haluros particulares considerados aisladamente, ver los grupos apropiados de C01B-C01G siguiendo el elemento combinado con el halógeno; producción electrolítica de compuestos inorgánicos C25B) [2006.01]"
+  },
+  {
+    "code": "C01B 9/02",
+    "description": "••Cloruros [2006.01]"
+  },
+  {
+    "code": "C01B 9/04",
+    "description": "••Bromuros [2006.01]"
+  },
+  {
+    "code": "C01B 9/06",
+    "description": "••Ioduros [2006.01]"
+  },
+  {
+    "code": "C01B 9/08",
+    "description": "••Fluoruros [2006.01]"
+  },
+  {
+    "code": "C01B 11/00",
+    "description": "Oxidos u oxácidos de halógenos; Sus sales [2006.01]"
+  },
+  {
+    "code": "C01B 11/02",
+    "description": "••Oxidos de cloro [2006.01]"
+  },
+  {
+    "code": "C01B 11/04",
+    "description": "••Acido hipocloroso [2006.01]"
+  },
+  {
+    "code": "C01B 11/06",
+    "description": "••••Hipocloritos, p. ej. cal clorada [2006.01]"
+  },
+  {
+    "code": "C01B 11/08",
+    "description": "••Acido cloroso [2006.01]"
+  },
+  {
+    "code": "C01B 11/10",
+    "description": "••••Cloritos [2006.01]"
+  },
+  {
+    "code": "C01B 11/12",
+    "description": "••Acido clórico [2006.01]"
+  },
+  {
+    "code": "C01B 11/14",
+    "description": "••••Cloratos [2006.01]"
+  },
+  {
+    "code": "C01B 11/16",
+    "description": "••Acido perclórico [2006.01]"
+  },
+  {
+    "code": "C01B 11/18",
+    "description": "••••Percloratos [2006.01]"
+  },
+  {
+    "code": "C01B 11/20",
+    "description": "••Compuestos oxigenados del bromo [2006.01]"
+  },
+  {
+    "code": "C01B 11/22",
+    "description": "••Compuestos oxigenados del yodo [2006.01]"
+  },
+  {
+    "code": "C01B 11/24",
+    "description": "••Compuestos oxigenados del flúor [2006.01]"
+  },
+  {
+    "code": "C01B 13/00",
+    "description": "Oxígeno; Ozono; Oxidos o hidróxidos en general [2006.01]"
+  },
+  {
+    "code": "C01B 13/02",
+    "description": "••Preparación del oxígeno (por licuefacción F25J) [2006.01]"
+  },
+  {
+    "code": "C01B 13/08",
+    "description": "••••a partir del aire con ayuda de óxidos metálicos, p. ej. óxido de bario, óxido de manganeso [2006.01]"
+  },
+  {
+    "code": "C01B 13/10",
+    "description": "••Preparación del ozono [2006.01]"
+  },
+  {
+    "code": "C01B 13/11",
+    "description": "••••por descarga eléctrica [2006.01]"
+  },
+  {
+    "code": "C01B 13/14",
+    "description": "••Métodos para preparar óxidos o hidróxidos en general (óxidos o hidróxidos particulares considerados aisladamente, ver los grupos relevantes de las subclases C01B-C01G o C25B, según el elemento combinado con el oxígeno o el hidroxilo) [2006.01]"
+  },
+  {
+    "code": "C01B 13/16",
+    "description": "••••Purificación [2006.01]"
+  },
+  {
+    "code": "C01B 13/18",
+    "description": "••••por descomposición térmica de compuestos, p. ej. de sales o de hidróxidos [2006.01]"
+  },
+  {
+    "code": "C01B 13/20",
+    "description": "••••por oxidación de elementos en estado gaseoso; por oxidación o hidrólisis de compuestos en estado gaseoso [2006.01]"
+  },
+  {
+    "code": "C01B 13/22",
+    "description": "••••••de haluros o de oxihaluros [2006.01]"
+  },
+  {
+    "code": "C01B 13/24",
+    "description": "••••••••en presencia de gases de combustión calientes [2006.01]"
+  },
+  {
+    "code": "C01B 13/26",
+    "description": "••••••••en presencia de un lecho fluidizado [2006.01]"
+  },
+  {
+    "code": "C01B 13/28",
+    "description": "••••••••utilizando un plasma o una descarga eléctrica [2006.01]"
+  },
+  {
+    "code": "C01B 13/30",
+    "description": "••••••••Evacuación y enfriamiento de la suspensión que contiene el óxido [2006.01]"
+  },
+  {
+    "code": "C01B 13/32",
+    "description": "••••por oxidación o hidrólisis de elementos o compuestos en estado líquido o sólido [2006.01]"
+  },
+  {
+    "code": "C01B 13/34",
+    "description": "••••por oxidación o hidrólisis de soluciones pulverizadas o atomizadas [2006.01]"
+  },
+  {
+    "code": "C01B 13/36",
+    "description": "••••por reacción de precipitación en solución [2006.01]"
+  },
+  {
+    "code": "C01B 15/00",
+    "description": "Peróxidos; Peroxihidratos; Perácidos o sus sales; Superóxidos; Ozónidos [2006.01]"
+  },
+  {
+    "code": "C01B 15/01",
+    "description": "••Peróxido de hidrógeno, es decir, agua oxigenada [2006.01]"
+  },
+  {
+    "code": "C01B 15/013",
+    "description": "••••Separación; Purificación; Concentración [2006.01]"
+  },
+  {
+    "code": "C01B 15/017",
+    "description": "••••••Peróxido de hidrógeno anhidro; Soluciones o mezclas gaseosas anhidras conteniendo peróxido de hidrógeno [2006.01]"
+  },
+  {
+    "code": "C01B 15/022",
+    "description": "••••Preparación a partir de compuestos orgánicos [2006.01]"
+  },
+  {
+    "code": "C01B 15/023",
+    "description": "••••••por el proceso que utiliza una alquilantraquinona [2006.01]"
+  },
+  {
+    "code": "C01B 15/024",
+    "description": "••••••a partir de hidrocarburos [2006.01]"
+  },
+  {
+    "code": "C01B 15/026",
+    "description": "••••••a partir de alcoholes [2006.01]"
+  },
+  {
+    "code": "C01B 15/027",
+    "description": "••••Preparación a partir de agua [2006.01]"
+  },
+  {
+    "code": "C01B 15/029",
+    "description": "••••Preparación a partir de hidrógeno y oxígeno [2006.01]"
+  },
+  {
+    "code": "C01B 15/03",
+    "description": "••••Preparación a partir de peroxicompuestos inorgánicos, p. ej. a partir de peroxisulfatos [2006.01]"
+  },
+  {
+    "code": "C01B 15/032",
+    "description": "••••••a partir de peróxidos metálicos [2006.01]"
+  },
+  {
+    "code": "C01B 15/037",
+    "description": "••••Estabilización con aditivos [2006.01]"
+  },
+  {
+    "code": "C01B 15/04",
+    "description": "••Peróxidos metálicos o sus peroxihidratos; Superóxidos; Ozónidos [2006.01]"
+  },
+  {
+    "code": "C01B 15/043",
+    "description": "••••de metales alcalinos, alcalinotérreos o de magnesio [2006.01]"
+  },
+  {
+    "code": "C01B 15/047",
+    "description": "••••de metales pesados [2006.01]"
+  },
+  {
+    "code": "C01B 15/055",
+    "description": "••Peroxihidratos (C01B 15/04 tiene prioridad); Perácidos o sus sales [2006.01]"
+  },
+  {
+    "code": "C01B 15/06",
+    "description": "••••que contienen azufre [2006.01]"
+  },
+  {
+    "code": "C01B 15/08",
+    "description": "••••••Peroxisulfatos [2006.01]"
+  },
+  {
+    "code": "C01B 15/10",
+    "description": "••••que contienen carbono [2006.01]"
+  },
+  {
+    "code": "C01B 15/12",
+    "description": "••••que contienen boro [2006.01]"
+  },
+  {
+    "code": "C01B 15/14",
+    "description": "••••que contienen silicio [2006.01]"
+  },
+  {
+    "code": "C01B 15/16",
+    "description": "••••que contienen fósforo [2006.01]"
+  },
+  {
+    "code": "C01B 17/02",
+    "description": "••Preparación del azufre; Purificación [2006.01]"
+  },
+  {
+    "code": "C01B 17/027",
+    "description": "••••Recuperación del azufre a partir de productos que contienen azufre elemental, p. ej. masas de depuración del gas del alumbrado; Purificación [2006.01]"
+  },
+  {
+    "code": "C01B 17/033",
+    "description": "••••••utilizando un agente de extracción líquido [2006.01]"
+  },
+  {
+    "code": "C01B 17/04",
+    "description": "••••a partir de compuestos sulfurados gaseosos, incluyendo los sulfuros gaseosos [2006.01]"
+  },
+  {
+    "code": "C01B 17/05",
+    "description": "••••••por procedimientos húmedos [2006.01]"
+  },
+  {
+    "code": "C01B 17/06",
+    "description": "••••a partir de sulfuros no gaseosos o de materias que contienen tales sulfuros, p. ej. minerales [2006.01]"
+  },
+  {
+    "code": "C01B 17/10",
+    "description": "••••Azufre finamente dividido, p. ej. azufre sublimado, flor de azufre [2006.01]"
+  },
+  {
+    "code": "C01B 17/12",
+    "description": "••••Azufre insoluble (azufre mu) [2006.01]"
+  },
+  {
+    "code": "C01B 17/16",
+    "description": "••Sulfuros de hidrógeno [2006.01]"
+  },
+  {
+    "code": "C01B 17/18",
+    "description": "••••Polisulfuros de hidrógeno [2006.01]"
+  },
+  {
+    "code": "C01B 17/20",
+    "description": "••Métodos para preparar sulfuros o polisulfuros en general (sulfuros o polisulfuros de amonio C01C; sulfuros o polisulfuros de metales, diferentes a los metales alcalinos, magnesio, calcio, estroncio y bario, ver los grupos relevantes de las subclases C01F o C01G, de acuerdo con el metal) [2006.01]"
+  },
+  {
+    "code": "C01B 17/22",
+    "description": "••Sulfuros o polisulfuros de metales alcalinos [2006.01]"
+  },
+  {
+    "code": "C01B 17/24",
+    "description": "••••Preparación por reducción [2006.01]"
+  },
+  {
+    "code": "C01B 17/26",
+    "description": "••••••con carbono [2006.01]"
+  },
+  {
+    "code": "C01B 17/28",
+    "description": "••••••con gases reductores [2006.01]"
+  },
+  {
+    "code": "C01B 17/30",
+    "description": "••••Preparación a partir de las amalgamas de sodio o potasio con azufre o sulfuros [2006.01]"
+  },
+  {
+    "code": "C01B 17/32",
+    "description": "••••Hidrosulfuros de sodio o potasio [2006.01]"
+  },
+  {
+    "code": "C01B 17/34",
+    "description": "••••Polisulfuros de sodio o potasio [2006.01]"
+  },
+  {
+    "code": "C01B 17/36",
+    "description": "••••Purificación [2006.01]"
+  },
+  {
+    "code": "C01B 17/38",
+    "description": "••••Deshidratación [2006.01]"
+  },
+  {
+    "code": "C01B 17/40",
+    "description": "••••Fabricación de productos de forma determinada, p. ej. gránulos [2006.01]"
+  },
+  {
+    "code": "C01B 17/42",
+    "description": "••Sulfuros o polisulfuros de magnesio, calcio, estroncio o bario [2006.01]"
+  },
+  {
+    "code": "C01B 17/43",
+    "description": "••••a partir de óxidos o hidróxidos con azufre o sulfuro de hidrógeno [2006.01]"
+  },
+  {
+    "code": "C01B 17/44",
+    "description": "••••por reducción de sulfatos [2006.01]"
+  },
+  {
+    "code": "C01B 17/45",
+    "description": "••Compuestos que contienen azufre y halógeno con o sin oxígeno [2006.01]"
+  },
+  {
+    "code": "C01B 17/46",
+    "description": "••Compuestos que contienen azufre, halógeno, hidrógeno y oxígeno [2006.01]"
+  },
+  {
+    "code": "C01B 17/48",
+    "description": "••Dióxido de azufre; Acido sulfuroso [2006.01]"
+  },
+  {
+    "code": "C01B 17/50",
+    "description": "••••Preparación de dióxido de azufre [2006.01]"
+  },
+  {
+    "code": "C01B 17/52",
+    "description": "••••••por tostación de sulfuros (tratamiento preliminar de minerales o fragmentos C22B 1/00) [2006.01]"
+  },
+  {
+    "code": "C01B 17/54",
+    "description": "••••••por quemado de azufre elemental [2006.01]"
+  },
+  {
+    "code": "C01B 17/56",
+    "description": "••••••Separación; Purificación [2006.01]"
+  },
+  {
+    "code": "C01B 17/58",
+    "description": "••••••Recuperación de dióxido de azufre a partir de alquitrán ácido o productos semejantes [2006.01]"
+  },
+  {
+    "code": "C01B 17/60",
+    "description": "••••••Aislamiento de dióxido de azufre a partir de mezclas gaseosas [2006.01]"
+  },
+  {
+    "code": "C01B 17/62",
+    "description": "••Métodos de preparación de sulfitos en general (sulfitos particulares considerados aisladamente, ver los grupos correspondientes de las subclases C01B-C01G, de acuerdo con el catión) [2006.01]"
+  },
+  {
+    "code": "C01B 17/64",
+    "description": "••Tiosulfatos; Ditionitos o hiposulfitos; Politionatos [2006.01]"
+  },
+  {
+    "code": "C01B 17/66",
+    "description": "••••Hiposulfitos o ditionitos [2006.01]"
+  },
+  {
+    "code": "C01B 17/69",
+    "description": "••Anhídrido sulfúrico; Acido sulfúrico [2006.01]"
+  },
+  {
+    "code": "C01B 17/70",
+    "description": "••••Estabilización de la forma gamma del anhídrido sulfúrico [2006.01]"
+  },
+  {
+    "code": "C01B 17/74",
+    "description": "••••Preparación [2006.01]"
+  },
+  {
+    "code": "C01B 17/76",
+    "description": "••••••por procedimientos de contacto [2006.01]"
+  },
+  {
+    "code": "C01B 17/765",
+    "description": "••••••••Conversión de SO3-en varias etapas [2006.01]"
+  },
+  {
+    "code": "C01B 17/77",
+    "description": "••••••••Procedimientos que utilizan lecho fluidizado [2006.01]"
+  },
+  {
+    "code": "C01B 17/775",
+    "description": "••••••••Procedimientos por contacto de fases líquidas o procedimientos por catálisis húmeda [2006.01]"
+  },
+  {
+    "code": "C01B 17/78",
+    "description": "••••••••caracterizados por el catalizador utilizado [2006.01]"
+  },
+  {
+    "code": "C01B 17/79",
+    "description": "••••••••••que contiene vanadio [2006.01]"
+  },
+  {
+    "code": "C01B 17/80",
+    "description": "••••••••Aparatos [2006.01]"
+  },
+  {
+    "code": "C01B 17/82",
+    "description": "••••••de ácido sulfúrico por el procedimiento de los óxidos de nitrógeno [2006.01]"
+  },
+  {
+    "code": "C01B 17/84",
+    "description": "••••••••Proceso de cámaras [2006.01]"
+  },
+  {
+    "code": "C01B 17/86",
+    "description": "••••••••Proceso de torres [2006.01]"
+  },
+  {
+    "code": "C01B 17/88",
+    "description": "••••Concentración del ácido sulfúrico [2006.01]"
+  },
+  {
+    "code": "C01B 17/90",
+    "description": "••••Separación; Purificación [2006.01]"
+  },
+  {
+    "code": "C01B 17/92",
+    "description": "••••••Recuperación a partir de alquitrán ácido o productos semejantes [2006.01]"
+  },
+  {
+    "code": "C01B 17/94",
+    "description": "••••••Recuperación a partir de los ácidos de nitración [2006.01]"
+  },
+  {
+    "code": "C01B 17/96",
+    "description": "••Métodos para la preparación de sulfatos en general (sulfatos particulares considerados individualmente, ver los grupos correspondientes de C01B-C01G, de acuerdo con el catión) [2006.01]"
+  },
+  {
+    "code": "C01B 17/98",
+    "description": "••Otros compuestos que contienen azufre y oxígeno (ácidos persulfúricos C01B 15/06; persulfatos C01B 15/08) [2006.01]"
+  },
+  {
+    "code": "C01B 19/00",
+    "description": "Selenio; Teluro; Sus compuestos [2006.01]"
+  },
+  {
+    "code": "C01B 19/02",
+    "description": "••Selenio o teluro elemental [2006.01]"
+  },
+  {
+    "code": "C01B 19/04",
+    "description": "••Compuestos binarios [2006.01]"
+  },
+  {
+    "code": "C01B 21/00",
+    "description": "Nitrógeno; Sus compuestos [2006.01]"
+  },
+  {
+    "code": "C01B 21/02",
+    "description": "••Preparación del nitrógeno (por descomposición del amioniaco C01B 3/04) [2006.01]"
+  },
+  {
+    "code": "C01B 21/04",
+    "description": "••Purificación o separación del nitrógeno (por licuefacción F25J) [2006.01]"
+  },
+  {
+    "code": "C01B 21/06",
+    "description": "••Compuestos binarios del nitrógeno con metales, silicio o boro [2006.01]"
+  },
+  {
+    "code": "C01B 21/064",
+    "description": "••••con boro [2006.01]"
+  },
+  {
+    "code": "C01B 21/068",
+    "description": "••••con silicio [2006.01]"
+  },
+  {
+    "code": "C01B 21/072",
+    "description": "••••con aluminio [2006.01]"
+  },
+  {
+    "code": "C01B 21/076",
+    "description": "••••con titanio o circonio [2006.01]"
+  },
+  {
+    "code": "C01B 21/08",
+    "description": "••Acido hidrazoico; Azidas; Azidas halogenadas [2006.01]"
+  },
+  {
+    "code": "C01B 21/082",
+    "description": "••Compuestos que contienen nitrógeno y no metales (C01B 21/06, C01B 21/08 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "C01B 21/083",
+    "description": "••••que contienen uno o varios átomos de halógeno [2006.01]"
+  },
+  {
+    "code": "C01B 21/084",
+    "description": "••••••que contienen además uno o varios átomos de oxígeno, p. ej. haluros de nitrosilo [2006.01]"
+  },
+  {
+    "code": "C01B 21/086",
+    "description": "••••que contienen uno o varios átomos de azufre [2006.01]"
+  },
+  {
+    "code": "C01B 21/087",
+    "description": "••••que contienen uno o varios átomos de hidrógeno [2006.01]"
+  },
+  {
+    "code": "C01B 21/088",
+    "description": "••••••que contienen además uno o varios átomos de halógeno [2006.01]"
+  },
+  {
+    "code": "C01B 21/09",
+    "description": "••••••••Aminas halogenadas, p. ej. cloramina [2006.01]"
+  },
+  {
+    "code": "C01B 21/092",
+    "description": "••••••que contienen además uno o varios átomos de metal [2006.01]"
+  },
+  {
+    "code": "C01B 21/093",
+    "description": "••••••que contienen además uno o varios átomos de azufre [2006.01]"
+  },
+  {
+    "code": "C01B 21/094",
+    "description": "••••••••Acidos que contienen radicales nitrosilo [2006.01]"
+  },
+  {
+    "code": "C01B 21/096",
+    "description": "••••••••Acido amidosulfónico; Sus sales [2006.01]"
+  },
+  {
+    "code": "C01B 21/097",
+    "description": "••••que contienen uno o varios átomos de fósforo [2006.01]"
+  },
+  {
+    "code": "C01B 21/098",
+    "description": "••••••Dihaluros fosfonitrílicos; Sus polímeros [2006.01]"
+  },
+  {
+    "code": "C01B 21/12",
+    "description": "••••Acido carbámico; Sus sales [2006.01]"
+  },
+  {
+    "code": "C01B 21/14",
+    "description": "••••Hidroxilamina; Sus sales [2006.01]"
+  },
+  {
+    "code": "C01B 21/16",
+    "description": "••••Hidrazina; Sus sales [2006.01]"
+  },
+  {
+    "code": "C01B 21/20",
+    "description": "••Oxidos de nitrógeno; Oxácidos de nitrógeno; Sus sales [2006.01]"
+  },
+  {
+    "code": "C01B 21/22",
+    "description": "••••Oxido nitroso (N2O) [2006.01]"
+  },
+  {
+    "code": "C01B 21/24",
+    "description": "••••Oxido nítrico (NO) [2006.01]"
+  },
+  {
+    "code": "C01B 21/26",
+    "description": "••••••Preparación por oxidación catalítica del amoniaco [2006.01]"
+  },
+  {
+    "code": "C01B 21/28",
+    "description": "••••••••Aparatos [2006.01]"
+  },
+  {
+    "code": "C01B 21/30",
+    "description": "••••••Preparación por oxidación del nitrógeno [2006.01]"
+  },
+  {
+    "code": "C01B 21/32",
+    "description": "••••••••Aparatos [2006.01]"
+  },
+  {
+    "code": "C01B 21/34",
+    "description": "••••Trióxido de nitrógeno (N2O3) [2006.01]"
+  },
+  {
+    "code": "C01B 21/36",
+    "description": "••••Dióxido de nitrógeno (NO2, N2O4) (C01B 21/26, C01B 21/30 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "C01B 21/38",
+    "description": "••••Acido nítrico [2006.01]"
+  },
+  {
+    "code": "C01B 21/40",
+    "description": "••••••Preparación por absorción de óxidos de nitrógeno [2006.01]"
+  },
+  {
+    "code": "C01B 21/42",
+    "description": "••••••Preparación a partir de nitratos [2006.01]"
+  },
+  {
+    "code": "C01B 21/44",
+    "description": "••••••Concentración [2006.01]"
+  },
+  {
+    "code": "C01B 21/46",
+    "description": "••••••Purificación; Separación [2006.01]"
+  },
+  {
+    "code": "C01B 21/48",
+    "description": "••••Métodos para la preparación de nitratos en general (nitratos particulares considerados individualmente, ver los grupos pertinentes de C01B-C01G, de acuerdo con el catión) [2006.01]"
+  },
+  {
+    "code": "C01B 21/50",
+    "description": "••••Acido nitroso; Sus sales [2006.01]"
+  },
+  {
+    "code": "C01B 23/00",
+    "description": "Gases nobles; Sus compuestos (licuefacción F25J) [2006.01]"
+  },
+  {
+    "code": "C01B 25/00",
+    "description": "Fósforo; Sus compuestos (C01B 21/00, C01B 23/00 tienen prioridad; perfosfatos C01B 15/16) [2006.01]"
+  },
+  {
+    "code": "C01B 25/01",
+    "description": "••Tratamiento de minerales fosfatados u otras materias primas fosfatadas para obtener fósforo o compuestos de fósforo [2006.01]"
+  },
+  {
+    "code": "C01B 25/02",
+    "description": "••Preparación del fósforo [2006.01]"
+  },
+  {
+    "code": "C01B 25/023",
+    "description": "••••de fósforo rojo [2006.01]"
+  },
+  {
+    "code": "C01B 25/027",
+    "description": "••••de fósforo amarillo [2006.01]"
+  },
+  {
+    "code": "C01B 25/04",
+    "description": "••Purificación del fósforo [2006.01]"
+  },
+  {
+    "code": "C01B 25/043",
+    "description": "••••de fósforo rojo [2006.01]"
+  },
+  {
+    "code": "C01B 25/047",
+    "description": "••••de fósforo amarillo [2006.01]"
+  },
+  {
+    "code": "C01B 25/06",
+    "description": "••Fosfuros de hidrógeno [2006.01]"
+  },
+  {
+    "code": "C01B 25/08",
+    "description": "••Otros fosfuros [2006.01]"
+  },
+  {
+    "code": "C01B 25/10",
+    "description": "••Haluros u oxihaluros de fósforo [2006.01]"
+  },
+  {
+    "code": "C01B 25/12",
+    "description": "••Oxidos de fósforo [2006.01]"
+  },
+  {
+    "code": "C01B 25/14",
+    "description": "••Compuestos de fósforo y de azufre, selenio o teluro [2006.01]"
+  },
+  {
+    "code": "C01B 25/16",
+    "description": "••Oxácidos de fósforo; Sus sales (perácidos o sus sales C01B 15/00) [2006.01]"
+  },
+  {
+    "code": "C01B 25/163",
+    "description": "••••Acido fosforoso; Sus sales [2006.01]"
+  },
+  {
+    "code": "C01B 25/165",
+    "description": "••••Acido hipofosforoso; Sus sales [2006.01]"
+  },
+  {
+    "code": "C01B 25/168",
+    "description": "••••Acido pirofosforoso; Sus sales [2006.01]"
+  },
+  {
+    "code": "C01B 25/18",
+    "description": "••••Acido fosfórico [2006.01]"
+  },
+  {
+    "code": "C01B 25/20",
+    "description": "••••••Preparación a partir de fósforo elemental o de anhídrido fosfórico [2006.01]"
+  },
+  {
+    "code": "C01B 25/22",
+    "description": "••••••Preparación por reacción de productos que contienen un fosfato con un ácido, p. ej. procedimiento por vía húmeda [2006.01]"
+  },
+  {
+    "code": "C01B 25/222",
+    "description": "••••••••con ácido sulfúrico, con una mezcla de ácidos que consiste principalmente en ácido sulfúrico o una mezcla de compuestos que forman ácido sulfúrico in situ, p. ej. con una mezcla de anhídrido sulfuroso, agua y oxígeno [2006.01]"
+  },
+  {
+    "code": "C01B 25/223",
+    "description": "••••••••••obteniéndose una sola forma de sulfato de calcio [2006.01]"
+  },
+  {
+    "code": "C01B 25/225",
+    "description": "••••••••••••Procedimiento al dihidrato [2006.01]"
+  },
+  {
+    "code": "C01B 25/226",
+    "description": "••••••••••••Procedimiento al hemihidrato [2006.01]"
+  },
+  {
+    "code": "C01B 25/228",
+    "description": "••••••••••obteniéndose una forma de sulfato de calcio que se convierte a continuación en otra forma [2006.01]"
+  },
+  {
+    "code": "C01B 25/229",
+    "description": "••••••••••••Procedimiento del tipo hemihidrato-dihidrato [2006.01]"
+  },
+  {
+    "code": "C01B 25/231",
+    "description": "••••••••••••Procedimiento del tipo dihidrato-hemihidrato [2006.01]"
+  },
+  {
+    "code": "C01B 25/232",
+    "description": "••••••••••Preparación por reacción de productos que contienen un fosfato con ácido sulfúrico concentrado seguido de una lixiviación de la masa obtenida, p. ej. procedimiento al clinker [2006.01]"
+  },
+  {
+    "code": "C01B 25/234",
+    "description": "••••••Purificación; Estabilización; Concentración (purificación y preparación simultáneas C01B 25/22; preparación que comporta una extracción líquido-líquido C01B 25/46) [2006.01]"
+  },
+  {
+    "code": "C01B 25/235",
+    "description": "••••••••Clarificación; Estabilización para impedir la precipitación ulterior de impurezas disueltas [2006.01]"
+  },
+  {
+    "code": "C01B 25/237",
+    "description": "••••••••Eliminación selectiva de impurezas [2006.01]"
+  },
+  {
+    "code": "C01B 25/238",
+    "description": "••••••••••Impurezas catiónicas [2006.01]"
+  },
+  {
+    "code": "C01B 25/24",
+    "description": "••••Acidos fosfóricos condensados [2006.01]"
+  },
+  {
+    "code": "C01B 25/26",
+    "description": "••••Fosfatos (perfosfatos C01B 15/16) [2006.01]"
+  },
+  {
+    "code": "C01B 25/28",
+    "description": "••••••Fosfatos de amonio [2006.01]"
+  },
+  {
+    "code": "C01B 25/30",
+    "description": "••••••Fosfatos alcalinos [2006.01]"
+  },
+  {
+    "code": "C01B 25/32",
+    "description": "••••••Fosfatos de magnesio, calcio, estroncio o bario [2006.01]"
+  },
+  {
+    "code": "C01B 25/34",
+    "description": "••••••••Fosfatos de magnesio [2006.01]"
+  },
+  {
+    "code": "C01B 25/36",
+    "description": "••••••Fosfatos de aluminio [2006.01]"
+  },
+  {
+    "code": "C01B 25/37",
+    "description": "••••••Fosfatos de metales pesados [2006.01]"
+  },
+  {
+    "code": "C01B 25/38",
+    "description": "••••••Fosfatos condensados [2006.01]"
+  },
+  {
+    "code": "C01B 25/39",
+    "description": "••••••••de metales alcalinos [2006.01]"
+  },
+  {
+    "code": "C01B 25/40",
+    "description": "••••••••Polifosfatos [2006.01]"
+  },
+  {
+    "code": "C01B 25/41",
+    "description": "••••••••••de metales alcalinos [2006.01]"
+  },
+  {
+    "code": "C01B 25/42",
+    "description": "••••••••Pirofosfatos [2006.01]"
+  },
+  {
+    "code": "C01B 25/44",
+    "description": "••••••••Metafosfatos [2006.01]"
+  },
+  {
+    "code": "C01B 25/445",
+    "description": "••••••••••de metales alcalinos [2006.01]"
+  },
+  {
+    "code": "C01B 25/45",
+    "description": "••••••que contienen varios metales o un metal y amonio [2006.01]"
+  },
+  {
+    "code": "C01B 25/455",
+    "description": "••••••halogenados [2006.01]"
+  },
+  {
+    "code": "C01B 25/46",
+    "description": "••••Preparación incluyendo extracción solvente-solvente [2006.01]"
+  },
+  {
+    "code": "C01B 32/00",
+    "description": "Carbono; Sus compuestos (C01B 21/00, C01B 23/00 tienen prioridad; percarbonatos C01B 15/10; negro de carbón C09C 1/48) [2017.01]"
+  },
+  {
+    "code": "C01B 32/05",
+    "description": "••Preparación o purificación de carbono no cubierta por los grupos C01B 32/15, C01B 32/20, C01B 32/25, C01B 32/30 [2017.01]"
+  },
+  {
+    "code": "C01B 32/10",
+    "description": "••Fluoruros de carbono, p. ej. [CF]n o [C2F]n (su intercalación con grafito C01B 32/22) [2017.01]"
+  },
+  {
+    "code": "C01B 32/15",
+    "description": "••Materiales de carbono nanométricos [2017.01]"
+  },
+  {
+    "code": "C01B 32/152",
+    "description": "••••Fulerenos [2017.01]"
+  },
+  {
+    "code": "C01B 32/154",
+    "description": "••••••Preparación [2017.01]"
+  },
+  {
+    "code": "C01B 32/156",
+    "description": "••••••Tratamiento posterior [2017.01]"
+  },
+  {
+    "code": "C01B 32/158",
+    "description": "••••Nanotubos de carbono [2017.01]"
+  },
+  {
+    "code": "C01B 32/159",
+    "description": "••••••de pared sencilla [2017.01]"
+  },
+  {
+    "code": "C01B 32/16",
+    "description": "••••••Preparación [2017.01]"
+  },
+  {
+    "code": "C01B 32/162",
+    "description": "••••••••caracterizada por los catalizadores [2017.01]"
+  },
+  {
+    "code": "C01B 32/164",
+    "description": "••••••••implicando procesos continuos [2017.01]"
+  },
+  {
+    "code": "C01B 32/166",
+    "description": "••••••••en fase líquida [2017.01]"
+  },
+  {
+    "code": "C01B 32/168",
+    "description": "••••••Tratamiento posterior [2017.01]"
+  },
+  {
+    "code": "C01B 32/17",
+    "description": "••••••••Purificación [2017.01]"
+  },
+  {
+    "code": "C01B 32/172",
+    "description": "••••••••Clasificación [2017.01]"
+  },
+  {
+    "code": "C01B 32/174",
+    "description": "••••••••Derivatización; Solubilización; Dispersión en disolventes [2017.01]"
+  },
+  {
+    "code": "C01B 32/176",
+    "description": "••••••••Corte [2017.01]"
+  },
+  {
+    "code": "C01B 32/178",
+    "description": "••••••••Apertura; Llenado [2017.01]"
+  },
+  {
+    "code": "C01B 32/18",
+    "description": "••••Nanocebollas; Nanorollos; Nanocuernos; Nanoconos; Nanoparedes [2017.01]"
+  },
+  {
+    "code": "C01B 32/182",
+    "description": "••••Grafeno [2017.01]"
+  },
+  {
+    "code": "C01B 32/184",
+    "description": "••••••Preparación [2017.01]"
+  },
+  {
+    "code": "C01B 32/186",
+    "description": "••••••••mediante deposición química en fase vapor [CVD] [2017.01]"
+  },
+  {
+    "code": "C01B 32/188",
+    "description": "••••••••mediante crecimiento epitaxial [2017.01]"
+  },
+  {
+    "code": "C01B 32/19",
+    "description": "••••••••mediante exfoliación [2017.01]"
+  },
+  {
+    "code": "C01B 32/192",
+    "description": "••••••••••a partir de óxidos grafíticos [2017.01]"
+  },
+  {
+    "code": "C01B 32/194",
+    "description": "••••••Tratamiento posterior [2017.01]"
+  },
+  {
+    "code": "C01B 32/196",
+    "description": "••••••••Purificación [2017.01]"
+  },
+  {
+    "code": "C01B 32/198",
+    "description": "••••••Óxido de grafeno [2017.01]"
+  },
+  {
+    "code": "C01B 32/20",
+    "description": "••Grafito [2017.01]"
+  },
+  {
+    "code": "C01B 32/205",
+    "description": "••••Preparación [2017.01]"
+  },
+  {
+    "code": "C01B 32/21",
+    "description": "••••Tratamiento posterior [2017.01]"
+  },
+  {
+    "code": "C01B 32/215",
+    "description": "••••••Purificación; Recuperación o purificación de grafito formado en los procesos de producción del hierro, por ej. grafito kish [2017.01]"
+  },
+  {
+    "code": "C01B 32/22",
+    "description": "••••••Intercalación [2017.01]"
+  },
+  {
+    "code": "C01B 32/225",
+    "description": "••••••••Expansión; Exfoliación [2017.01]"
+  },
+  {
+    "code": "C01B 32/23",
+    "description": "••••••Oxidación [2017.01]"
+  },
+  {
+    "code": "C01B 32/25",
+    "description": "••Diamante [2017.01]"
+  },
+  {
+    "code": "C01B 32/26",
+    "description": "••••Preparación (mediante utilización de presión ultra-alta B01J 3/06; por crecimiento de cristal C30B 29/04) [2017.01]"
+  },
+  {
+    "code": "C01B 32/28",
+    "description": "••••Tratamiento posterior, por ejemplo, purificación, irradiación, separación o recuperación [2017.01]"
+  },
+  {
+    "code": "C01B 32/30",
+    "description": "••Carbón activo [2017.01]"
+  },
+  {
+    "code": "C01B 32/306",
+    "description": "••••con propiedades de tamiz molecular [2017.01]"
+  },
+  {
+    "code": "C01B 32/312",
+    "description": "••••Preparación [2017.01]"
+  },
+  {
+    "code": "C01B 32/318",
+    "description": "••••••caracterizada por los materiales de partida [2017.01]"
+  },
+  {
+    "code": "C01B 32/324",
+    "description": "••••••••a partir de materiales residuales, por ejemplo, ruedas o licor de pulpa de sulfito usado [2017.01]"
+  },
+  {
+    "code": "C01B 32/33",
+    "description": "••••••••a partir de residuos de la destilación de carbón o petróleo; a partir de lodos ácidos  del petróleo [2017.01]"
+  },
+  {
+    "code": "C01B 32/336",
+    "description": "••••••caracterizados por agentes de activación gaseosos [2017.01]"
+  },
+  {
+    "code": "C01B 32/342",
+    "description": "••••••caracterizados por agentes de activación no gaseosos [2017.01]"
+  },
+  {
+    "code": "C01B 32/348",
+    "description": "••••••••Compuestos metálicos [2017.01]"
+  },
+  {
+    "code": "C01B 32/354",
+    "description": "••••Tratamiento posterior [2017.01]"
+  },
+  {
+    "code": "C01B 32/36",
+    "description": "••••••Reactivación o regeneración [2017.01]"
+  },
+  {
+    "code": "C01B 32/366",
+    "description": "••••••••mediante procesos físicos, por ejemplo, por irradiación, mediante el paso de corriente eléctrica a través de una fuente carbonosa o mediante cuerpos de calentamiento inertes reciclables [2017.01]"
+  },
+  {
+    "code": "C01B 32/372",
+    "description": "••••••Recubrimiento; Injerto; Microencapsulación [2017.01]"
+  },
+  {
+    "code": "C01B 32/378",
+    "description": "••••••Purificación [2017.01]"
+  },
+  {
+    "code": "C01B 32/384",
+    "description": "••••••Granulación [2017.01]"
+  },
+  {
+    "code": "C01B 32/39",
+    "description": "••••Aparatos para su preparación [2017.01]"
+  },
+  {
+    "code": "C01B 32/40",
+    "description": "••Monóxido de carbono [2017.01]"
+  },
+  {
+    "code": "C01B 32/50",
+    "description": "••Dióxido de carbono [2017.01]"
+  },
+  {
+    "code": "C01B 32/55",
+    "description": "••••Solidificación [2017.01]"
+  },
+  {
+    "code": "C01B 32/60",
+    "description": "••Preparación de carbonatos y bicarbonatos en general (de percarbonatos C01B 15/10; de carbonatos específicos o bicarbonatos de acuerdo al catión C01B-C01G) [2017.01]"
+  },
+  {
+    "code": "C01B 32/70",
+    "description": "••Compuestos que contienen carbono y azufre, por ejemplo tiofosgeno [2017.01]"
+  },
+  {
+    "code": "C01B 32/72",
+    "description": "••••Disulfuro de carbono [2017.01]"
+  },
+  {
+    "code": "C01B 32/75",
+    "description": "••••••Preparación mediante la reacción de azufre o sus compuestos con hidrocarburos [2017.01]"
+  },
+  {
+    "code": "C01B 32/77",
+    "description": "••••Oxisulfuro de carbono [2017.01]"
+  },
+  {
+    "code": "C01B 32/80",
+    "description": "••Fosgeno [2017.01]"
+  },
+  {
+    "code": "C01B 32/90",
+    "description": "••Carburos [2017.01]"
+  },
+  {
+    "code": "C01B 32/907",
+    "description": "••••Oxicarburos; Sulfocarburos; Mezcla de carburos [2017.01]"
+  },
+  {
+    "code": "C01B 32/914",
+    "description": "••••Carburos de elementos sencillos [2017.01]"
+  },
+  {
+    "code": "C01B 32/921",
+    "description": "••••••Carburo de titanio [2017.01]"
+  },
+  {
+    "code": "C01B 32/928",
+    "description": "••••••Carburos de actínidos [2017.01]"
+  },
+  {
+    "code": "C01B 32/935",
+    "description": "••••••Carburos de metales alcalinos, estroncio, bario o magnesio [2017.01]"
+  },
+  {
+    "code": "C01B 32/942",
+    "description": "••••••Carburo de calcio [2017.01]"
+  },
+  {
+    "code": "C01B 32/949",
+    "description": "••••••Carburo de tungsteno o de molibdeno [2017.01]"
+  },
+  {
+    "code": "C01B 32/956",
+    "description": "••••••Carburo de silicio [2017.01]"
+  },
+  {
+    "code": "C01B 32/963",
+    "description": "••••••••Preparación a partir de compuestos que contienen silicio [2017.01]"
+  },
+  {
+    "code": "C01B 32/97",
+    "description": "••••••••••Preparación a partir de SiO o SiO2  [2017.01]"
+  },
+  {
+    "code": "C01B 32/977",
+    "description": "••••••••••Preparación a partir de compuestos orgánicos que contienen silicio [2017.01]"
+  },
+  {
+    "code": "C01B 32/984",
+    "description": "••••••••••Preparación a partir de silicio elemental [2017.01]"
+  },
+  {
+    "code": "C01B 32/991",
+    "description": "••••••Carburo de boro [2017.01]"
+  },
+  {
+    "code": "C01B 33/00",
+    "description": "Silicio; Sus compuestos (C01B 21/00, C01B 23/00 tienen prioridad; persilicatos C01B 15/14; carburos C01B 32/956) [2006.01]"
+  },
+  {
+    "code": "C01B 33/02",
+    "description": "••Silicio (formación de monocristales o de materiales policristalinos homogéneos de estructura determinada C30B) [2006.01]"
+  },
+  {
+    "code": "C01B 33/021",
+    "description": "••••Preparación (revestimiento químico en fase vapor C23C 16/00) [2006.01]"
+  },
+  {
+    "code": "C01B 33/023",
+    "description": "••••••por reducción de sílice o de un material que contiene sílice [2006.01]"
+  },
+  {
+    "code": "C01B 33/025",
+    "description": "••••••••con carbono o un material carbonado sólido, es decir, proceso carbotérmico [2006.01]"
+  },
+  {
+    "code": "C01B 33/027",
+    "description": "••••••por descomposición o reducción de compuestos de silicio gaseoso o vaporizados distintos de sílice o un material que contiene sílice [2006.01]"
+  },
+  {
+    "code": "C01B 33/029",
+    "description": "••••••••por descomposición de monosilano [2006.01]"
+  },
+  {
+    "code": "C01B 33/03",
+    "description": "••••••••por descomposición de haluros de silicio o de silanos halogenados o reducción de éstos con hidrógeno como único agente reductor [2006.01]"
+  },
+  {
+    "code": "C01B 33/031",
+    "description": "••••••••••por descomposición de tetrayoduro de silicio [2006.01]"
+  },
+  {
+    "code": "C01B 33/033",
+    "description": "••••••••por reducción de haluros de silicio o de silanos halogenados con un metal o una aleación metálica como únicos agentes reductores [2006.01]"
+  },
+  {
+    "code": "C01B 33/035",
+    "description": "••••••••por descomposición o reducción de compuestos de silicio gaseosos o vaporizados en presencia de filamentos calientes de silicio, de carbono o de un metal refractario, p. ej. tántalo o tungsteno, o en presencia de varillas de silicio calientes sobre las cuales el silicio formado se deposita con obtención de una varilla de silicio, p. ej. proceso Siemens [2006.01]"
+  },
+  {
+    "code": "C01B 33/037",
+    "description": "••••Purificación (por fusión de zona C30B 13/00) [2006.01]"
+  },
+  {
+    "code": "C01B 33/039",
+    "description": "••••••por conversión del silicio en un compuesto, purificación eventual del compuesto y reconversión en silicio [2006.01]"
+  },
+  {
+    "code": "C01B 33/04",
+    "description": "••Hidruros de silicio [2006.01]"
+  },
+  {
+    "code": "C01B 33/06",
+    "description": "••Siliciuros metálicos [2006.01]"
+  },
+  {
+    "code": "C01B 33/08",
+    "description": "••Compuestos halogenados [2006.01]"
+  },
+  {
+    "code": "C01B 33/10",
+    "description": "••••Compuestos que contienen silicio, flúor y otros elementos [2006.01]"
+  },
+  {
+    "code": "C01B 33/107",
+    "description": "••••Silanos halogenados [2006.01]"
+  },
+  {
+    "code": "C01B 33/113",
+    "description": "••Oxidos de silicio; Sus hidratos [2006.01]"
+  },
+  {
+    "code": "C01B 33/12",
+    "description": "••••Sílice; Sus hidratos, p. ej. ácido silícico lepidoico [2006.01]"
+  },
+  {
+    "code": "C01B 33/14",
+    "description": "••••••Sílice coloidal, p. ej. en forma de dispersiones, geles, soles [2006.01]"
+  },
+  {
+    "code": "C01B 33/141",
+    "description": "••••••••Preparación de hidrosoles o de dispersiones acuosas [2006.01]"
+  },
+  {
+    "code": "C01B 33/142",
+    "description": "••••••••••por tratamiento ácido de silicatos [2006.01]"
+  },
+  {
+    "code": "C01B 33/143",
+    "description": "••••••••••••de soluciones acuosas de silicatos [2006.01]"
+  },
+  {
+    "code": "C01B 33/145",
+    "description": "••••••••Preparación de hidro-organosoles, de organosoles o de dispersiones en un medio orgánico [2006.01]"
+  },
+  {
+    "code": "C01B 33/146",
+    "description": "••••••••Tratamiento posterior de soles (preparación de hidro-organosoles, de organosoles o dispersiones en un medio orgánico a partir de hidrosoles C01B 33/145) [2006.01]"
+  },
+  {
+    "code": "C01B 33/148",
+    "description": "••••••••••Concentración; Secado; Deshidratación; Estabilización; Purificación [2006.01]"
+  },
+  {
+    "code": "C01B 33/149",
+    "description": "••••••••••Revestimiento [2006.01]"
+  },
+  {
+    "code": "C01B 33/151",
+    "description": "••••••••••por adición progresiva de un sol a un sol diferente, es decir, \"crecimiento\" de partículas utilizando un \"pie de cuba\" [2006.01]"
+  },
+  {
+    "code": "C01B 33/152",
+    "description": "••••••••Preparación de hidrogeles [2006.01]"
+  },
+  {
+    "code": "C01B 33/154",
+    "description": "••••••••••por tratamiento ácido de soluciones acuosas de silicatos [2006.01]"
+  },
+  {
+    "code": "C01B 33/155",
+    "description": "••••••••Preparación de hidro-organogeles o de organogeles [2006.01]"
+  },
+  {
+    "code": "C01B 33/157",
+    "description": "••••••••Tratamiento posterior de geles [2006.01]"
+  },
+  {
+    "code": "C01B 33/158",
+    "description": "••••••••••Purificación; Secado; Deshidratación [2006.01]"
+  },
+  {
+    "code": "C01B 33/159",
+    "description": "••••••••••Revestimiento o hidrofobización [2006.01]"
+  },
+  {
+    "code": "C01B 33/16",
+    "description": "••••••Preparación de xerogeles de sílice [2006.01]"
+  },
+  {
+    "code": "C01B 33/18",
+    "description": "••••••Preparación de sílice finamente dividida ni bajo forma de sol ni bajo forma de gel; Tratamiento posterior de esta sílice (tratamiento para mejorar las propiedades de pigmentación o carga C09C) [2006.01]"
+  },
+  {
+    "code": "C01B 33/187",
+    "description": "••••••••por tratamiento ácido de silicatos [2006.01]"
+  },
+  {
+    "code": "C01B 33/193",
+    "description": "••••••••••de soluciones acuosas de silicatos [2006.01]"
+  },
+  {
+    "code": "C01B 33/20",
+    "description": "••Silicatos (persilicatos C01B 15/14) [2006.01]"
+  },
+  {
+    "code": "C01B 33/22",
+    "description": "••••Silicatos de magnesio [2006.01]"
+  },
+  {
+    "code": "C01B 33/24",
+    "description": "••••Silicatos de metales alcalinotérreos [2006.01]"
+  },
+  {
+    "code": "C01B 33/26",
+    "description": "••••Aluminosilicatos [2006.01]"
+  },
+  {
+    "code": "C01B 33/32",
+    "description": "••••Silicatos de metales alcalinos (C01B 33/26 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "C01B 33/36",
+    "description": "••••que tienen propiedades de cambiadores de base, pero no tienen propiedades de tamices moleculares [2006.01]"
+  },
+  {
+    "code": "C01B 33/38",
+    "description": "••••••Silicatos cambiadores de base en capas, p. ej. arcillas, micas o silicatos de metales alcalinos del tipo kenyaita o magadiita [2006.01]"
+  },
+  {
+    "code": "C01B 33/40",
+    "description": "••••••••Arcillas [2006.01]"
+  },
+  {
+    "code": "C01B 33/42",
+    "description": "••••••••Micas [2006.01]"
+  },
+  {
+    "code": "C01B 33/44",
+    "description": "••••••••Productos obtenidos a partir de silicatos cambiadores de base, en capas, por cambio de iones con compuestos orgánicos tales como compuestos amonio, fosfonio o sulfonio o por inserción de compuestos orgánicos, p. ej. materiales organoarcillosos [2006.01]"
+  },
+  {
+    "code": "C01B 33/46",
+    "description": "••••••Silicatos amorfos, p. ej. zeolitas llamadas \"amorfas\" [2006.01]"
+  },
+  {
+    "code": "C01B 35/00",
+    "description": "Boro; Sus compuestos (monoborano, diborano, borohidruros metálicos o sus complejos de adición C01B 6/00; perboratos C01B 15/12; compuestos binarios con nitrógeno C01B 21/06; fosfuros C01B 25/08; carburos C01B 32/991) [2006.01]"
+  },
+  {
+    "code": "C01B 35/02",
+    "description": "••Boro; Boruros [2006.01]"
+  },
+  {
+    "code": "C01B 35/04",
+    "description": "••••Boruros metálicos [2006.01]"
+  },
+  {
+    "code": "C01B 35/06",
+    "description": "••Compuestos halogenados del boro [2006.01]"
+  },
+  {
+    "code": "C01B 35/08",
+    "description": "••Compuestos que contienen boro y nitrógeno, fósforo, oxígeno, azufre, selenio o teluro [2006.01]"
+  },
+  {
+    "code": "C01B 35/10",
+    "description": "••••Compuestos que contienen boro y oxígeno (C01B 35/06 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "C01B 35/12",
+    "description": "••••••Boratos [2006.01]"
+  },
+  {
+    "code": "C01B 35/14",
+    "description": "••••Compuestos que contienen boro y nitrógeno, fósforo, azufre, selenio o teluro [2006.01]"
+  },
+  {
+    "code": "C01B 35/16",
+    "description": "••Compuestos que contienen un enlace entre dos átomos de boro, p. ej. Cl2B—BCl2 [2006.01]"
+  },
+  {
+    "code": "C01B 35/18",
+    "description": "••Compuestos que contienen tres o más átomos de boro, p. ej. NaB3H8, MgB10Br10 (borazoles C01B 35/14) [2006.01]"
+  },
+  {
+    "code": "C01B 37/00",
+    "description": "Compuestos que tienen propiedades de tamices moleculares pero que no tienen propiedades de cambiadores de base [2006.01]"
+  },
+  {
+    "code": "C01B 37/02",
+    "description": "••Polimorfos de sílice cristalinos, p. ej. silicalitas [2006.01]"
+  },
+  {
+    "code": "C01B 37/04",
+    "description": "••Aluminofosfatos (compuestos APO) [2006.01]"
+  },
+  {
+    "code": "C01B 37/06",
+    "description": "••Aluminofosfatos que comprenden otros elementos, p. ej. metales, boro [2006.01]"
+  },
+  {
+    "code": "C01B 37/08",
+    "description": "••••Silico-aluminofosfatos (compuestos SAPO) [2006.01]"
+  },
+  {
+    "code": "C01B 39/00",
+    "description": "Compuestos que tienen propiedades de tamices moleculares y de cambiadores de base, p. ej. zeolitas cristalinas; Su preparación; Tratamiento posterior, p. ej. cambio de iones o extracción del aluminio (tratamiento para modificar las propiedades de adsorción o de absorción, p. ej. conformación utilizando un ligante, B01J 20/10; tratamiento para modificar las propiedades catalíticas, p. ej. combinación de tratamientos para hacer a las zeolitas apropiadas para su utilización como catalizador, B01J 29/04; tratamiento para mejorar las propiedades de cambiadores de iones B01J 39/14) [2006.01]"
+  },
+  {
+    "code": "C01B 39/02",
+    "description": "••Zeolitas aluminosilicato cristalinas; Sus compuestos isomorfos; Su preparación directa; Su preparación a partir de una mezcla de reacción que contiene una zeolita cristalina de otro tipo, o a partir de reactantes preformados; Su tratamiento posterior [2006.01]"
+  },
+  {
+    "code": "C01B 39/04",
+    "description": "••••utilizando al menos un agente estructurante orgánico, p. ej. un compuesto de amonio cuaternario iónico o un compuesto aminado [2006.01]"
+  },
+  {
+    "code": "C01B 39/06",
+    "description": "••••Preparación de zeolitas isomorfas caracterizada por las medidas tomadas para sustituir los átomos de aluminio o de silicio en el entramado de la malla por átomos de otros elementos [2006.01]"
+  },
+  {
+    "code": "C01B 39/08",
+    "description": "••••••estando los átomos de aluminio totalmente sustituidos [2006.01]"
+  },
+  {
+    "code": "C01B 39/10",
+    "description": "••••••siendo los átomos de sustitución átomos de fósforo [2006.01]"
+  },
+  {
+    "code": "C01B 39/12",
+    "description": "••••••siendo los átomos de sustitución átomos de boro [2006.01]"
+  },
+  {
+    "code": "C01B 39/14",
+    "description": "••••Tipo A [2006.01]"
+  },
+  {
+    "code": "C01B 39/16",
+    "description": "••••••a partir de soluciones acuosas de un aluminato de metal alcalino y un silicato de metal alcalino excluyendo cualquier otra fuente de alúmina o de sílice excepto los núcleos [2006.01]"
+  },
+  {
+    "code": "C01B 39/18",
+    "description": "••••••a partir de una mezcla de reacción que contiene al menos un silicato de aluminio o un aluminosilicato de tipo arcilla, p. ej. caolín o metacaolín o su modificación exotérmica o alofana [2006.01]"
+  },
+  {
+    "code": "C01B 39/20",
+    "description": "••••Tipo fanjasita, p. ej. tipo X ó Y [2006.01]"
+  },
+  {
+    "code": "C01B 39/22",
+    "description": "••••••Tipo X [2006.01]"
+  },
+  {
+    "code": "C01B 39/24",
+    "description": "••••••Tipo Y [2006.01]"
+  },
+  {
+    "code": "C01B 39/26",
+    "description": "••••Tipo mordenita [2006.01]"
+  },
+  {
+    "code": "C01B 39/28",
+    "description": "••••Tipo filipsita o harmótorna, p. ej. tipo B, como se ilustra en el documento de patente US A 3.008.803 [2006.01]"
+  },
+  {
+    "code": "C01B 39/30",
+    "description": "••••Tipo erionita u offretita, p. ej. zeolita T [2006.01]"
+  },
+  {
+    "code": "C01B 39/32",
+    "description": "••••Tipo L [2006.01]"
+  },
+  {
+    "code": "C01B 39/34",
+    "description": "••••Tipo ZSM-4 o tipoΩ [2006.01]"
+  },
+  {
+    "code": "C01B 39/36",
+    "description": "••••Tipo pentasil, p. ej. tipos ZSM-5, ZSM-8 ó ZSM-11 [2006.01]"
+  },
+  {
+    "code": "C01B 39/38",
+    "description": "••••••Tipo ZSM-5 [2006.01]"
+  },
+  {
+    "code": "C01B 39/40",
+    "description": "••••••••utilizando al menos un agente estructurante orgánico [2006.01]"
+  },
+  {
+    "code": "C01B 39/42",
+    "description": "••••Tipo ZSM-12 [2006.01]"
+  },
+  {
+    "code": "C01B 39/44",
+    "description": "••••Tipo ferrierita, p. ej. tipos ZSM-21, ZSM-35 o ZSM-38 [2006.01]"
+  },
+  {
+    "code": "C01B 39/46",
+    "description": "••••Otros tipos caracterizados por su diagrama de difracción de rayos X y por su composición definida [2006.01]"
+  },
+  {
+    "code": "C01B 39/48",
+    "description": "••••••utilizando al menos un agente estructurante orgánico [2006.01]"
+  },
+  {
+    "code": "C01B 39/50",
+    "description": "••Zeolitas en las que las bases o sales inorgánicas ocluyen los canales en el entramado de la malla, p. ej. sodalita, cancrinita, noseana, hauynita [2006.01]"
+  },
+  {
+    "code": "C01B 39/52",
+    "description": "••••Sodalitas [2006.01]"
+  },
+  {
+    "code": "C01B 39/54",
+    "description": "••Fosfatos, p. ej. compuestos APO ó SAPO [2006.01]"
+  }
+]

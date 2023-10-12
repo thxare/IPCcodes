@@ -1,0 +1,306 @@
+[
+  {
+    "code": "G10K 1/00",
+    "description": "Dispositivos en los que el sonido es producido golpeando un cuerpo que resuena, p. ej. campanas, timbres o gongs (instrumentos de música de sonidos múltiples G10D 13/08; carillones automáticos G10F 1/10) [2006.01]"
+  },
+  {
+    "code": "G10K 1/06",
+    "description": "••el dispositivo que resuena tiene la forma de campana, placa barra o tubo (campanas para torres G10K 1/28) [2006.01]"
+  },
+  {
+    "code": "G10K 1/062",
+    "description": "••••accionados eléctricamente [2006.01]"
+  },
+  {
+    "code": "G10K 1/063",
+    "description": "••••••siendo el órgano sonoro una campana [2006.01]"
+  },
+  {
+    "code": "G10K 1/064",
+    "description": "••••••••Mecanismos de accionamiento o de golpe con este fin [2006.01]"
+  },
+  {
+    "code": "G10K 1/065",
+    "description": "••••••••••para accionamiento a horas fijas o de repetición [2006.01]"
+  },
+  {
+    "code": "G10K 1/066",
+    "description": "••••••siendo el órgano sonoro un tubo, una placa o una barra [2006.01]"
+  },
+  {
+    "code": "G10K 1/067",
+    "description": "••••••••Mecanismos de accionamiento o de golpe con este fin [2006.01]"
+  },
+  {
+    "code": "G10K 1/068",
+    "description": "••••accionados hidráulicamente; accionados neumáticamente [2006.01]"
+  },
+  {
+    "code": "G10K 1/07",
+    "description": "••••accionados mecánicamente; Campanas de mano; Campanas para animales [2006.01]"
+  },
+  {
+    "code": "G10K 1/071",
+    "description": "••••••Campanas de mano; Campanas para animales [2006.01]"
+  },
+  {
+    "code": "G10K 1/072",
+    "description": "••••••Mecanismos de accionamiento o de golpe con este fin [2006.01]"
+  },
+  {
+    "code": "G10K 1/074",
+    "description": "••••••••con martillos o conchas giratorias [2006.01]"
+  },
+  {
+    "code": "G10K 1/076",
+    "description": "••••••••para accionamiento a horas fijas o de repetición [2006.01]"
+  },
+  {
+    "code": "G10K 1/08",
+    "description": "••••Partes constitutivas o accesorios de aplicación general [2006.01]"
+  },
+  {
+    "code": "G10K 1/10",
+    "description": "••••••Organos sonoros; Su montaje; Badajos u otras partes que golpean [2006.01]"
+  },
+  {
+    "code": "G10K 1/26",
+    "description": "••••••Montajes; Guarniciones [2006.01]"
+  },
+  {
+    "code": "G10K 1/28",
+    "description": "••Campanas para torres o similares [2006.01]"
+  },
+  {
+    "code": "G10K 1/30",
+    "description": "••••Partes constitutivas o accesorios [2006.01]"
+  },
+  {
+    "code": "G10K 1/32",
+    "description": "••••••Organos sonoros; Badajos u otras partes que golpean [2006.01]"
+  },
+  {
+    "code": "G10K 1/34",
+    "description": "••••••Mecanismos de accionamiento [2006.01]"
+  },
+  {
+    "code": "G10K 1/36",
+    "description": "••••••Medios para amortiguar o atenuar los sonidos [2006.01]"
+  },
+  {
+    "code": "G10K 1/38",
+    "description": "••••••Soportes; Montajes [2006.01]"
+  },
+  {
+    "code": "G10K 3/00",
+    "description": "Carracas o dispositivos productores de ruidos similares [2006.01]"
+  },
+  {
+    "code": "G10K 5/00",
+    "description": "Silbatos [2006.01]"
+  },
+  {
+    "code": "G10K 5/02",
+    "description": "••Silbatos de ultrasonidos [2006.01]"
+  },
+  {
+    "code": "G10K 7/00",
+    "description": "Sirenas [2006.01]"
+  },
+  {
+    "code": "G10K 7/02",
+    "description": "••en los que el órgano productor de sonido es puesto en rotación a mano o por un motor (G10K 7/06 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G10K 7/04",
+    "description": "••••por un motor eléctrico [2006.01]"
+  },
+  {
+    "code": "G10K 7/06",
+    "description": "••en los que el órgano productor de sonido es movido por un fluido, p. ej. por un gas comprimido [2006.01]"
+  },
+  {
+    "code": "G10K 9/00",
+    "description": "Dispositivos en los que el sonido es producido por la vibración de un diafragma o de un elemento análogo, p. ej. cuernos de bruma, alarmas de coches o vibradores (altavoces o transductores acústicos electromecánicos similares H04R) [2006.01]"
+  },
+  {
+    "code": "G10K 9/02",
+    "description": "••accionados por un gas, p. ej. que funcionan por aspiración [2006.01]"
+  },
+  {
+    "code": "G10K 9/04",
+    "description": "••••por gases comprimidos, p. ej. aire comprimido [2006.01]"
+  },
+  {
+    "code": "G10K 9/06",
+    "description": "••••producidos por una explosión [2006.01]"
+  },
+  {
+    "code": "G10K 9/08",
+    "description": "••accionados por el agua o por otros líquidos [2006.01]"
+  },
+  {
+    "code": "G10K 9/10",
+    "description": "••accionados por medios mecánicos solamente [2006.01]"
+  },
+  {
+    "code": "G10K 9/12",
+    "description": "••que funcionan eléctricamente [2006.01]"
+  },
+  {
+    "code": "G10K 9/122",
+    "description": "••••que utilizan medios de accionamiento piezoeléctricos [2006.01]"
+  },
+  {
+    "code": "G10K 9/125",
+    "description": "••••••con una pluralidad de elementos activos [2006.01]"
+  },
+  {
+    "code": "G10K 9/128",
+    "description": "••••que utilizan medios de accionamiento magnetoestrictivos [2006.01]"
+  },
+  {
+    "code": "G10K 9/13",
+    "description": "••••que utilizan medios de accionamiento electromagnéticos [2006.01]"
+  },
+  {
+    "code": "G10K 9/15",
+    "description": "••••••Dispositivos autointerruptores [2006.01]"
+  },
+  {
+    "code": "G10K 9/16",
+    "description": "••••con medios para producir la corriente por la fuerza muscular [2006.01]"
+  },
+  {
+    "code": "G10K 9/18",
+    "description": "••Partes constitutivas, p. ej. peras, bombas, pistones, conmutadores o guarniciones [2006.01]"
+  },
+  {
+    "code": "G10K 9/20",
+    "description": "••••Organos sonoros [2006.01]"
+  },
+  {
+    "code": "G10K 9/22",
+    "description": "••••Montajes; Guarniciones [2006.01]"
+  },
+  {
+    "code": "G10K 11/00",
+    "description": "Métodos o dispositivos para transmitir, conducir o dirigir el sonido en general; Métodos o dispositivos de protección contra el ruido u otras ondas acústicas en general, o para amortiguarlas [2006.01]"
+  },
+  {
+    "code": "G10K 11/02",
+    "description": "••Impedancias acústicas mecánicas; Adaptación de la impedancia, p. ej. por medio de trompas; Resonadores acústicos [2006.01]"
+  },
+  {
+    "code": "G10K 11/04",
+    "description": "••••Filtros acústicos [2006.01]"
+  },
+  {
+    "code": "G10K 11/08",
+    "description": "••Dispositivos amplificadores no eléctricos del sonido, p. ej. megáfonos no eléctricos (amplificadores por trompas en sí G10K 11/02; amplificación por focalización en sí G10K 11/26) [2006.01]"
+  },
+  {
+    "code": "G10K 11/16",
+    "description": "••Métodos o dispositivos de protección contra, o para amortiguar, el ruido u otras ondas acústicas en general (G10K 11/36 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G10K 11/162",
+    "description": "••••Selección de materiales [2006.01]"
+  },
+  {
+    "code": "G10K 11/165",
+    "description": "••••••Partículas en una matriz [2006.01]"
+  },
+  {
+    "code": "G10K 11/168",
+    "description": "••••••Varias capas de materiales diferentes, p. ej. sandwiches [2006.01]"
+  },
+  {
+    "code": "G10K 11/172",
+    "description": "••••que utilizan efectos de resonancia [2006.01]"
+  },
+  {
+    "code": "G10K 11/175",
+    "description": "••••que utilizan efectos de interferencia; Enmascaramiento del sonido [2006.01]"
+  },
+  {
+    "code": "G10K 11/178",
+    "description": "••••••por regeneración electroacústica en antifase de las ondas acústicas originales [2006.01]"
+  },
+  {
+    "code": "G10K 11/18",
+    "description": "••Procedimientos o dispositivos para transmitir, conducir o dirigir el sonido (G10K 11/02, G10K 11/36 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G10K 11/20",
+    "description": "••••Disposiciones para reflejar el sonido (G10K 11/28 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G10K 11/22",
+    "description": "••••para conducir el sonido por tubos, p. ej. tubos acústicos [2006.01]"
+  },
+  {
+    "code": "G10K 11/24",
+    "description": "••••para conducir el sonido a través de cuerpos sólidos, p. ej. hilos metálicos [2006.01]"
+  },
+  {
+    "code": "G10K 11/26",
+    "description": "••••para enfocar o para dirigir el sonido, p. ej. barrido [2006.01]"
+  },
+  {
+    "code": "G10K 11/28",
+    "description": "••••••que utilizan la reflexión, p. ej. reflectores parabólicos [2006.01]"
+  },
+  {
+    "code": "G10K 11/30",
+    "description": "••••••que utilizan la refracción, p. ej. lentillas acústicas [2006.01]"
+  },
+  {
+    "code": "G10K 11/32",
+    "description": "••••••caracterizado por la forma de la fuente [2006.01]"
+  },
+  {
+    "code": "G10K 11/34",
+    "description": "••••••por control eléctrico de sistemas de transductores, p. ej. dirigiendo un haz acústico [2006.01]"
+  },
+  {
+    "code": "G10K 11/35",
+    "description": "••••••por control mecánico de transductores [2006.01]"
+  },
+  {
+    "code": "G10K 11/36",
+    "description": "••Dispositivos para transformar las ondas acústicas de superficie (amplificadores electroacústicos H03F 13/00; redes con dispositivos electroacústicos H03H 9/00) [2006.01]"
+  },
+  {
+    "code": "G10K 13/00",
+    "description": "Conos, membranas u objetos similares para emitir o recibir sonidos en general (para los transductores electromecánicos H04R 7/00) [2006.01]"
+  },
+  {
+    "code": "G10K 15/00",
+    "description": "Acústica no prevista en otro lugar [2006.01]"
+  },
+  {
+    "code": "G10K 15/02",
+    "description": "••Síntesis de ondas sonoras (síntesis de la voz G10L 13/00) [2006.01]"
+  },
+  {
+    "code": "G10K 15/04",
+    "description": "••Dispositivos de producción de sonidos (G10K 15/02 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G10K 15/06",
+    "description": "••••utilizando descargas eléctricas [2006.01]"
+  },
+  {
+    "code": "G10K 15/08",
+    "description": "••Disposiciones para producir una reverberación sonora o un eco [2006.01]"
+  },
+  {
+    "code": "G10K 15/10",
+    "description": "••••utilizando redes retardadoras que comporten dispositivos electromecánicos o electroacústicos [2006.01]"
+  },
+  {
+    "code": "G10K 15/12",
+    "description": "••••utilizando redes retardadoras electrónicas [2006.01]"
+  }
+]

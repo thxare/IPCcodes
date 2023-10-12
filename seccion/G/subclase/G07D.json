@@ -1,0 +1,354 @@
+[
+  {
+    "code": "G07D 1/00",
+    "description": "Distribuidores de monedas [2006.01]"
+  },
+  {
+    "code": "G07D 1/02",
+    "description": "••que dan cambio [2006.01]"
+  },
+  {
+    "code": "G07D 1/04",
+    "description": "••••entregando el cambio por un total igual a una suma depositada [2006.01]"
+  },
+  {
+    "code": "G07D 1/06",
+    "description": "••••entregando la diferencia entre una suma pagada y una suma a pagar [2006.01]"
+  },
+  {
+    "code": "G07D 1/08",
+    "description": "••••accionados a mano [2006.01]"
+  },
+  {
+    "code": "G07D 3/00",
+    "description": "Dispositivos o aparatos que separan según su valor monedas diversas a granel [2006.01]"
+  },
+  {
+    "code": "G07D 3/02",
+    "description": "••que hacen la selección por medio de orificios calibrados [2006.01]"
+  },
+  {
+    "code": "G07D 3/04",
+    "description": "••••instalados sobre una guía inclinada [2006.01]"
+  },
+  {
+    "code": "G07D 3/06",
+    "description": "••••instalados a lo largo de una pista circular [2006.01]"
+  },
+  {
+    "code": "G07D 3/08",
+    "description": "••••instalados sobre una pista helicoidal [2006.01]"
+  },
+  {
+    "code": "G07D 3/10",
+    "description": "••••constituidos por cribas dispuestas en ristra [2006.01]"
+  },
+  {
+    "code": "G07D 3/12",
+    "description": "••que hacen la selección por medio de deflectores escalonados [2006.01]"
+  },
+  {
+    "code": "G07D 3/14",
+    "description": "••movidos bajo la acción de elementos que tocan las monedas [2006.01]"
+  },
+  {
+    "code": "G07D 3/16",
+    "description": "••combinados con aparatos que cuentan las monedas [2006.01]"
+  },
+  {
+    "code": "G07D 5/00",
+    "description": "Verificación especialmente adaptada a la determinación de la identidad o la autenticidad de monedas, p. ej. para separar monedas que son inaceptables o que son moneda extranjera [2006.01]"
+  },
+  {
+    "code": "G07D 5/02",
+    "description": "••Verificación de las dimensiones, p. ej. del espesor, del diámetro; Verificación de la deformación [2006.01]"
+  },
+  {
+    "code": "G07D 5/04",
+    "description": "••Verificación del peso [2006.01]"
+  },
+  {
+    "code": "G07D 5/06",
+    "description": "••Verificación de la dureza o de la elasticidad [2006.01]"
+  },
+  {
+    "code": "G07D 5/08",
+    "description": "••Verificación de las propiedades magnéticas o eléctricas [2006.01]"
+  },
+  {
+    "code": "G07D 5/10",
+    "description": "••Verificación del canto, p. ej. acanaladuras del canto [2006.01]"
+  },
+  {
+    "code": "G07D 7/00",
+    "description": "Verificación especialmente adaptada a la determinación de la identidad o la autenticidad de papeles de valor o para separar aquellos que son inaceptables, p. ej. billetes o papel moneda extranjeros [2016.01]"
+  },
+  {
+    "code": "G07D 7/004",
+    "description": "••utilizando elementos de seguridad digitales, p. ej. información codificada en un hilo o banda magnética [2016.01]"
+  },
+  {
+    "code": "G07D 7/0043",
+    "description": "••••utilizando códigos de barras [2016.01]"
+  },
+  {
+    "code": "G07D 7/0047",
+    "description": "••••utilizando códigos de control, p. ej. números codificados derivados del número de serie y  la denominación [2016.01]"
+  },
+  {
+    "code": "G07D 7/005",
+    "description": "••Verificación de marcas de seguridad invisibles a simple vista, p. ej. verificación de líneas engrosadas o marcas o alteraciones imperceptibles [2016.01]"
+  },
+  {
+    "code": "G07D 7/01",
+    "description": "••Verificación de circuitos electrónicos integrados [2016.01]"
+  },
+  {
+    "code": "G07D 7/02",
+    "description": "••Verificación de las propiedades eléctricas de sus materiales (G07D 7/01 tiene prioridad) [2016.01]"
+  },
+  {
+    "code": "G07D 7/023",
+    "description": "••••Medición de la conductividad por contacto directo [2016.01]"
+  },
+  {
+    "code": "G07D 7/026",
+    "description": "••••utilizando sensores capacitivos [2016.01]"
+  },
+  {
+    "code": "G07D 7/04",
+    "description": "••Verificación de las propiedades magnéticas de sus materiales, p. ej. mediante la detección de huella magnética (G07D 7/01 tiene prioridad) [2016.01]"
+  },
+  {
+    "code": "G07D 7/06",
+    "description": "••utilizando radiaciones ondulatorias o corpusculares [2006.01]"
+  },
+  {
+    "code": "G07D 7/08",
+    "description": "••••Ondas acústicas [2006.01]"
+  },
+  {
+    "code": "G07D 7/10",
+    "description": "••••Microondas [2006.01]"
+  },
+  {
+    "code": "G07D 7/12",
+    "description": "••••Luz visible, radiación infrarroja o ultravioleta [2016.01]"
+  },
+  {
+    "code": "G07D 7/1205",
+    "description": "••••••Verificación de las propiedades espectrales [2016.01]"
+  },
+  {
+    "code": "G07D 7/121",
+    "description": "••••••Aparato caracterizado por los detalles del sensor [2016.01]"
+  },
+  {
+    "code": "G07D 7/128",
+    "description": "••••••Dispositivos de visualización [2016.01]"
+  },
+  {
+    "code": "G07D 7/14",
+    "description": "••que utilizan medios químicos [2006.01]"
+  },
+  {
+    "code": "G07D 7/15",
+    "description": "••que utilizan medios de calentamiento [2016.01]"
+  },
+  {
+    "code": "G07D 7/16",
+    "description": "••Verificación de las dimensiones [2016.01]"
+  },
+  {
+    "code": "G07D 7/162",
+    "description": "••••Longitud o anchura [2016.01]"
+  },
+  {
+    "code": "G07D 7/164",
+    "description": "••••Espesor [2016.01]"
+  },
+  {
+    "code": "G07D 7/17",
+    "description": "••Aparatos caracterizados por los medios de posicionamiento o por medios sensibles a la posición [2016.01]"
+  },
+  {
+    "code": "G07D 7/181",
+    "description": "••Verificación de propiedades mecánicas o verificación de estado, p. ej. desgaste o rotura (G07D 7/16 tiene prioridad) [2016.01]"
+  },
+  {
+    "code": "G07D 7/182",
+    "description": "••••Verificación de la rigidez [2016.01]"
+  },
+  {
+    "code": "G07D 7/183",
+    "description": "••••Detección de pliegues o dobleces [2016.01]"
+  },
+  {
+    "code": "G07D 7/185",
+    "description": "••••Detección de agujeros o poros [2016.01]"
+  },
+  {
+    "code": "G07D 7/187",
+    "description": "••••Detección de deterioro o contaminación, p. ej. suciedad [2016.01]"
+  },
+  {
+    "code": "G07D 7/189",
+    "description": "••••Detección de objetos adheridos, p. ej. cintas o clips (G07D 7/187 tiene prioridad) [2016.01]"
+  },
+  {
+    "code": "G07D 7/20",
+    "description": "••Verificación de patrones (G07D 7/004, G07D 7/005 tiene prioridad) [2016.01]"
+  },
+  {
+    "code": "G07D 7/202",
+    "description": "••••utilizando la correspondencia con patrones [2016.01]"
+  },
+  {
+    "code": "G07D 7/2033",
+    "description": "••••••Haciendo corresponder patrones únicos, es decir, patrones que son únicos para cada papel particular [2016.01]"
+  },
+  {
+    "code": "G07D 7/206",
+    "description": "••••••Haciendo corresponder patrones plantilla [2016.01]"
+  },
+  {
+    "code": "G07D 7/207",
+    "description": "••••••Haciendo corresponder patrones creados por la interacción de dos o más capas, p. ej. patrones de Moiré [2016.01]"
+  },
+  {
+    "code": "G07D 9/00",
+    "description": "Cómputo de monedas (en combinación con monedas de clasificación. G07D 3/16); Manipulación de monedas no previstas en los grupos de esta subclase [2006.01]"
+  },
+  {
+    "code": "G07D 9/02",
+    "description": "••Platillos para dar el cambio [2006.01]"
+  },
+  {
+    "code": "G07D 9/04",
+    "description": "••Dispositivos, movidos a mano o por motor, para contar monedas [2006.01]"
+  },
+  {
+    "code": "G07D 9/06",
+    "description": "••Dispositivos para apilar o disponer de cualquier otro modo las monedas sobre un soporte, p. ej. plato de orificios utilizables para contar monedas [2006.01]"
+  },
+  {
+    "code": "G07D 11/00",
+    "description": "Dispositivos que aceptan monedas; Dispositivos que aceptan, dispensan, clasifican o cuentan papeles de valor [2019.01]"
+  },
+  {
+    "code": "G07D 11/10",
+    "description": "••Detalles mecánicos [2019.01]"
+  },
+  {
+    "code": "G07D 11/12",
+    "description": "••••Recipientes para papeles de valor [2019.01]"
+  },
+  {
+    "code": "G07D 11/125",
+    "description": "••••••Recipientes de seguridad [2019.01]"
+  },
+  {
+    "code": "G07D 11/13",
+    "description": "••••••con medios internos para la manipulación de papeles de valor [2019.01]"
+  },
+  {
+    "code": "G07D 11/14",
+    "description": "••••Orificios de entrada o de salida [2019.01]"
+  },
+  {
+    "code": "G07D 11/16",
+    "description": "••••Manipulación de papeles de valor (dentro de contenedores G07D 11/13) [2019.01]"
+  },
+  {
+    "code": "G07D 11/165",
+    "description": "••••••Recogida [2019.01]"
+  },
+  {
+    "code": "G07D 11/17",
+    "description": "••••••Alineación [2019.01]"
+  },
+  {
+    "code": "G07D 11/175",
+    "description": "••••••Aplanamiento, p. ej. estiramiento de pliegues [2019.01]"
+  },
+  {
+    "code": "G07D 11/18",
+    "description": "••••••Desviar hacia diferentes caminos o recipientes [2019.01]"
+  },
+  {
+    "code": "G07D 11/20",
+    "description": "••Control o supervisión del funcionamiento de los dispositivos; Tratamiento de datos [2019.01]"
+  },
+  {
+    "code": "G07D 11/22",
+    "description": "••••Medios de medida o de detección [2019.01]"
+  },
+  {
+    "code": "G07D 11/225",
+    "description": "••••••para detectar o indicar que hay manipulación o alteración [2019.01]"
+  },
+  {
+    "code": "G07D 11/23",
+    "description": "••••••para medir la cantidad de papeles de valor en los recipientes [2019.01]"
+  },
+  {
+    "code": "G07D 11/235",
+    "description": "••••••para supervisar o indicar las condiciones de funcionamiento; para detectar disfunciones o averías [2019.01]"
+  },
+  {
+    "code": "G07D 11/237",
+    "description": "••••••••para detectar disfunciones, p. ej. atascos o bloqueos del papel [2019.01]"
+  },
+  {
+    "code": "G07D 11/24",
+    "description": "••••Gestión del stock de los papeles de valor [2019.01]"
+  },
+  {
+    "code": "G07D 11/245",
+    "description": "••••••Reposición [2019.01]"
+  },
+  {
+    "code": "G07D 11/25",
+    "description": "••••••Reubicación de los papeles de valor dentro de los dispositivos [2019.01]"
+  },
+  {
+    "code": "G07D 11/26",
+    "description": "••••Mantenimiento, reparación o tratamiento de las anomalías, p. ej. corte eléctrico o vandalismo [2019.01]"
+  },
+  {
+    "code": "G07D 11/28",
+    "description": "••••Ajuste de parámetros; Actualizaciones de software [2019.01]"
+  },
+  {
+    "code": "G07D 11/30",
+    "description": "••••Seguimiento o rastreo de papeles de valor o \"cassettes\" [2019.01]"
+  },
+  {
+    "code": "G07D 11/32",
+    "description": "••••Conservación de los datos (aspectos de la transacción G07F 19/00) [2019.01]"
+  },
+  {
+    "code": "G07D 11/34",
+    "description": "••••••Supervisión del contenido de los dispositivos, p. ej. el número de papeles de valor almacenados [2019.01]"
+  },
+  {
+    "code": "G07D 11/36",
+    "description": "••••••Auditoría de las actividades [2019.01]"
+  },
+  {
+    "code": "G07D 11/40",
+    "description": "••Arquitectura de los dispositivos, p. ej. contrucción modular [2019.01]"
+  },
+  {
+    "code": "G07D 11/50",
+    "description": "••Clasificación o conteo de los papeles de valor [2019.01]"
+  },
+  {
+    "code": "G07D 11/60",
+    "description": "••Disposiciones de interfaz-usuario [2019.01]"
+  },
+  {
+    "code": "G07D 13/00",
+    "description": "Manipulación de monedas o de papeles de valor, caracterizada por una combinación de mecanismos no cubierta por uno sólo de los grupos G07D 1/00-G07D 11/00 [2006.01]"
+  }
+]

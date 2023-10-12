@@ -1,0 +1,1578 @@
+[
+  {
+    "code": "H01R 3/00",
+    "description": "Conexiones eléctricamente conductoras no previstas en otro lugar [2006.01]"
+  },
+  {
+    "code": "H01R 3/08",
+    "description": "••para hacer conexiones con un líquido [2006.01]"
+  },
+  {
+    "code": "H01R 4/00",
+    "description": "Conexiones conductoras de electricidad entre varias piezas conductoras de contacto directo, es decir, que se tocan el uno al otro; Medios para realizar o mantener tales contactos; Conexiones conductoras de electricidad con dos o más emplazamientos de conexión espaciados para los conductores y utilizando piezas de contacto que penetran en el aislamiento [2006.01]"
+  },
+  {
+    "code": "H01R 4/01",
+    "description": "••Conexiones que utilizan materiales con memoria de forma ,p. ej. un metal con memoria de forma [2006.01]"
+  },
+  {
+    "code": "H01R 4/02",
+    "description": "••Conexiones soldadas (H01R 4/62, H01R 12/59, H01R 12/65 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H01R 4/04",
+    "description": "••que utilizan adhesivos eléctricamente conductores [2006.01]"
+  },
+  {
+    "code": "H01R 4/06",
+    "description": "••Conexiones remachadas (por explosión H01R 4/08) [2006.01]"
+  },
+  {
+    "code": "H01R 4/08",
+    "description": "••efectuadas por medio de una explosión [2006.01]"
+  },
+  {
+    "code": "H01R 4/10",
+    "description": "••efectuadas únicamente por torsión, arrollamiento, plegado, engarce u otra deformación permanente [2006.01]"
+  },
+  {
+    "code": "H01R 4/12",
+    "description": "••••por torsión [2006.01]"
+  },
+  {
+    "code": "H01R 4/14",
+    "description": "••••por arrollamiento [2006.01]"
+  },
+  {
+    "code": "H01R 4/16",
+    "description": "••••por plegado [2006.01]"
+  },
+  {
+    "code": "H01R 4/18",
+    "description": "••••por engarce (H01R 4/01, H01R 4/24 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01R 4/20",
+    "description": "••••••utilizando un manguito de engarce [2006.01]"
+  },
+  {
+    "code": "H01R 4/22",
+    "description": "••Casquetes terminales, es decir, casquetes de material aislante o conductor para recibir o mantener conexiones entre hilos que entran en el casquete desde el mismo lado [2006.01]"
+  },
+  {
+    "code": "H01R 4/24",
+    "description": "••Conexiones que utilizan piezas de contacto que penetran en, o atraviesan, el aislamiento o los filamentos del cable [2018.01]"
+  },
+  {
+    "code": "H01R 4/2404",
+    "description": "••••donde las piezas de contacto tienen dientes, puntas, alfileres o agujas que penetran en el aislamiento [2018.01]"
+  },
+  {
+    "code": "H01R 4/2406",
+    "description": "••••••teniendo agujas o alfileres [2018.01]"
+  },
+  {
+    "code": "H01R 4/2407",
+    "description": "••••••teniendo proyecciones con forma de diente de sierra [2018.01]"
+  },
+  {
+    "code": "H01R 4/2408",
+    "description": "••••••accionado por tornillos de fijación [2018.01]"
+  },
+  {
+    "code": "H01R 4/2412",
+    "description": "••••••accionado por levas o cuñas aislantes [2018.01]"
+  },
+  {
+    "code": "H01R 4/2416",
+    "description": "••••donde las piezas de contacto tienen bordes aislantes, p. ej. de tipo diapasón [2018.01]"
+  },
+  {
+    "code": "H01R 4/242",
+    "description": "••••••siendo los miembros de contacto chapas que tienen una única ranura [2018.01]"
+  },
+  {
+    "code": "H01R 4/2425",
+    "description": "••••••••Placas planas, p. ej. placas planas estratificadas [2018.01]"
+  },
+  {
+    "code": "H01R 4/2429",
+    "description": "••••••••••montadas en una base aislante [2018.01]"
+  },
+  {
+    "code": "H01R 4/2433",
+    "description": "••••••••••••siendo una parte de la base movible para empujar el cable dentro de la ranura [2018.01]"
+  },
+  {
+    "code": "H01R 4/2437",
+    "description": "••••••••Placas curvadas [2018.01]"
+  },
+  {
+    "code": "H01R 4/2441",
+    "description": "••••••••••con forma de tubo [2018.01]"
+  },
+  {
+    "code": "H01R 4/2445",
+    "description": "••••••donde las piezas de contacto tienen medios adicionales que actúan sobre el aislamiento o sobre el cable, p. ej. medios adicionales que penetran en el aislamiento, miembros para atenuar la tensión o cuchillas de corte del cable [2018.01]"
+  },
+  {
+    "code": "H01R 4/245",
+    "description": "••••••••con los medios adicionales teniendo dos o más partes planas ranuradas [2018.01]"
+  },
+  {
+    "code": "H01R 4/2452",
+    "description": "••••••••••en una configuración en serie, p. ej. ranuras dobladas opuestas [2018.01]"
+  },
+  {
+    "code": "H01R 4/2454",
+    "description": "••••••••••teniendo forma de U con las ramas ranuradas [2018.01]"
+  },
+  {
+    "code": "H01R 4/2455",
+    "description": "••••••••••••formando un codo ranurado [2018.01]"
+  },
+  {
+    "code": "H01R 4/2456",
+    "description": "••••••••••en configuración paralela [2018.01]"
+  },
+  {
+    "code": "H01R 4/2458",
+    "description": "••••••••donde las piezas de contacto tienen una configuración tubular ranurada, p. ej. un extremo del tubo ranurado [2018.01]"
+  },
+  {
+    "code": "H01R 4/2462",
+    "description": "••••••••donde las piezas de contacto tienen una configuración curvada ranurada, p. ej. un codo ranurado [2018.01]"
+  },
+  {
+    "code": "H01R 4/2466",
+    "description": "••••••••donde las piezas de contacto tienen una parte en forma de canal, y las paredes opuestas comprenden medios para cortar el aislamiento [2018.01]"
+  },
+  {
+    "code": "H01R 4/247",
+    "description": "••••donde las piezas de contacto que penetran en el aislamiento están accionados por muelles [2018.01]"
+  },
+  {
+    "code": "H01R 4/2475",
+    "description": "••••donde las piezas de contacto que penetran en el aislamiento están accionados por tornillos, tuercas o pasadores [2018.01]"
+  },
+  {
+    "code": "H01R 4/2479",
+    "description": "••••••penetrando en el área por debajo de la cabeza del tornillo [2018.01]"
+  },
+  {
+    "code": "H01R 4/2483",
+    "description": "••••••penetrando en el área bajo la punta del tornillo [2018.01]"
+  },
+  {
+    "code": "H01R 4/2487",
+    "description": "••••••penetrando por medio de una rosca del tornillo [2018.01]"
+  },
+  {
+    "code": "H01R 4/2491",
+    "description": "••••donde  las piezas de contacto que penetran en el aislamiento están accionados por levas o cuñas [2018.01]"
+  },
+  {
+    "code": "H01R 4/2495",
+    "description": "••••Acción combinada de la penetración del aislamiento con la deformación permanente de la pieza de contacto, p. ej. engaste [2018.01]"
+  },
+  {
+    "code": "H01R 4/26",
+    "description": "••Conexiones en las que al menos una de las partes que aseguran la conexión presenta salientes que muerden o engranan con la otra parte con objeto de mejorar el contacto (utilizando materiales con memoria de forma H01R 4/01) [2006.01]"
+  },
+  {
+    "code": "H01R 4/28",
+    "description": "••Conexiones por presión; conexiones por resorte (realizadas mediante terminales especialmente adaptados a los contactos con, o la inserción en, circuitos impresos H01R 12/00) [2006.01]"
+  },
+  {
+    "code": "H01R 4/30",
+    "description": "••••que utilizan una pieza de presión constituida por un tornillo o por una tuerca (H01R 4/50 tiene prioridad; que utilizan una pieza de presión accionada por un tornillo o por una tuerca H01R 4/38) [2006.01]"
+  },
+  {
+    "code": "H01R 4/32",
+    "description": "••••••Conductores alojados en una ranura o en un agujero de un tornillo [2006.01]"
+  },
+  {
+    "code": "H01R 4/34",
+    "description": "••••••Conductores alojados bajo la cabeza de un tornillo [2006.01]"
+  },
+  {
+    "code": "H01R 4/36",
+    "description": "••••••Conductores alojados bajo la extremidad de un tornillo [2006.01]"
+  },
+  {
+    "code": "H01R 4/38",
+    "description": "••••que utilizan una pieza de presión accionada por un tornillo o por una tuerca (H01R 4/50 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01R 4/40",
+    "description": "••••••Organo de presión pivotante [2006.01]"
+  },
+  {
+    "code": "H01R 4/42",
+    "description": "••••••Zona de presión de un lado del tornillo solamente [2006.01]"
+  },
+  {
+    "code": "H01R 4/44",
+    "description": "••••••Zona de presión en dos lados del tornillo [2006.01]"
+  },
+  {
+    "code": "H01R 4/46",
+    "description": "••••••Zona de presión entre dos tornillos colocados uno al lado de otro [2006.01]"
+  },
+  {
+    "code": "H01R 4/48",
+    "description": "••••que utilizan un resorte, pinza, u otra pieza elástica (H01R 4/52 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01R 4/50",
+    "description": "••••que utilizan una leva, una cuña, un cono o una bola [2006.01]"
+  },
+  {
+    "code": "H01R 4/52",
+    "description": "••••••que es comprimido por un resorte [2006.01]"
+  },
+  {
+    "code": "H01R 4/56",
+    "description": "••siendo un conductor atornillado en el otro [2006.01]"
+  },
+  {
+    "code": "H01R 4/58",
+    "description": "••caracterizadas por la forma o el material de las piezas de contacto (H01R 4/01 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01R 4/60",
+    "description": "••••Conexiones entre o con conductores tubulares (H01R 4/56 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01R 4/62",
+    "description": "••••Conexiones entre conductores constituidos por materiales diferentes; Conexiones entre o con conductores de aluminio con o sin ánima de acero (H01R 4/68 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01R 4/64",
+    "description": "••••Conexiones entre o con partes conductoras que tienen una función primaria no eléctrica, p. ej. bastidor, carcasa, carril [2006.01]"
+  },
+  {
+    "code": "H01R 4/66",
+    "description": "••••Conexiones con la masa terrestre, p. ej. placa de tierra, perno de tierra [2006.01]"
+  },
+  {
+    "code": "H01R 4/68",
+    "description": "••••Conexiones con o entre conductores superconductores [2006.01]"
+  },
+  {
+    "code": "H01R 4/70",
+    "description": "••Aislamiento de conexiones (casquetes terminales H01R 4/22) [2006.01]"
+  },
+  {
+    "code": "H01R 4/72",
+    "description": "••••utilizando un manguito aislante termocontraible [2006.01]"
+  },
+  {
+    "code": "H01R 9/00",
+    "description": "Asociaciones estructurales de una pluralidad de elementos de conexión aislados unos de otros p. ej. terminales planos o bloques de conexión; Bornes o contactos de conexión instalados sobre una base o en una caja; Sus correspondientes bases [2006.01]"
+  },
+  {
+    "code": "H01R 9/03",
+    "description": "••Dispositivos de conexión concebidos para asegurar el contacto con varios conductores de un cable multiconductor [2006.01]"
+  },
+  {
+    "code": "H01R 9/05",
+    "description": "••••para cables coaxiales [2006.01]"
+  },
+  {
+    "code": "H01R 9/053",
+    "description": "••••••que utilizan piezas de contacto que penetran en el aislamiento [2006.01]"
+  },
+  {
+    "code": "H01R 9/11",
+    "description": "••Piezas terminales para cables multiconductores, soportadas por el cable y destinadas a facilitar las conexiones con otras piezas conductoras [2006.01]"
+  },
+  {
+    "code": "H01R 9/15",
+    "description": "••Dispositivos de conexión por arrollamiento del hilo [2006.01]"
+  },
+  {
+    "code": "H01R 9/16",
+    "description": "••Fijación de piezas de conexión sobre la base o sobre la caja; Aislamiento de piezas de conexión en relación a la base o a la caja [2006.01]"
+  },
+  {
+    "code": "H01R 9/18",
+    "description": "••••Fijación por medio de tornillos o tuercas [2006.01]"
+  },
+  {
+    "code": "H01R 9/20",
+    "description": "••••Fijación por medio de remaches u ojales [2006.01]"
+  },
+  {
+    "code": "H01R 9/22",
+    "description": "••Bases, p. ej. puente, bloque, cuadro [2006.01]"
+  },
+  {
+    "code": "H01R 9/24",
+    "description": "••••Bloques de conexión [2006.01]"
+  },
+  {
+    "code": "H01R 9/26",
+    "description": "••••••Bloques de conexión de enganche para el montaje uno al lado de otro sobre carril o sobre puente [2006.01]"
+  },
+  {
+    "code": "H01R 9/28",
+    "description": "••••Regletas de conexión [2006.01]"
+  },
+  {
+    "code": "H01R 11/00",
+    "description": "Elementos individuales de conexión que aseguran varios puntos de conexión espaciados para piezas conductoras que están o pueden estar interconectados de esta forma, p. ej. piezas terminales para hilos o cables, soportadas por el hilo o cable, y que tienen medios para facilitar la conexión eléctrica con cualquier hilo, borne, o pieza conductora, grupos de bornes [2006.01]"
+  },
+  {
+    "code": "H01R 11/01",
+    "description": "••caracterizados por la forma o por la disposición de la interconexión entre sus emplazamientos de conexión [2006.01]"
+  },
+  {
+    "code": "H01R 11/03",
+    "description": "••caracterizados por el tipo de emplazamientos de conexión en el elemento individual o por el tipo de conexiones entre los emplazamientos de conexión y las piezas conductoras (H01R 11/11 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01R 11/05",
+    "description": "••••los emplazamientos de conexión presentan diferentes tipos de conexiones directas [2006.01]"
+  },
+  {
+    "code": "H01R 11/07",
+    "description": "••••los emplazamientos de conexión son del mismo tipo pero de dimensiones diferentes [2006.01]"
+  },
+  {
+    "code": "H01R 11/09",
+    "description": "••••los emplazamientos de conexión son idénticos [2006.01]"
+  },
+  {
+    "code": "H01R 11/11",
+    "description": "••Piezas terminales o piezas de derivación para hilos, soportadas por el hilo o cable y que tienen medios para facilitar la conexión eléctrica con cualquier hilo, borne o pieza conductora (H01R 11/01 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01R 11/12",
+    "description": "••••Piezas terminales que acaban en un ojal, gancho u horquilla [2006.01]"
+  },
+  {
+    "code": "H01R 11/14",
+    "description": "••••••estando el gancho adaptado para colgarse sobre líneas aéreas u otras líneas suspendidas, p. ej. pinzas para línea de baja tensión [2006.01]"
+  },
+  {
+    "code": "H01R 11/15",
+    "description": "••••••••Gancho en forma de gatillo [2006.01]"
+  },
+  {
+    "code": "H01R 11/16",
+    "description": "••••Piezas terminales que acaban en punta o enchufe de electrodo para soldar [2006.01]"
+  },
+  {
+    "code": "H01R 11/18",
+    "description": "••••Piezas terminales que acaban en una sonda [2006.01]"
+  },
+  {
+    "code": "H01R 11/20",
+    "description": "••••Piezas terminales que acaban en punta de aguja o contacto análogo destinado a penetrar en el aislamiento o núcleo del cable [2006.01]"
+  },
+  {
+    "code": "H01R 11/22",
+    "description": "••••Piezas terminales que acaban en una pinza de resorte [2006.01]"
+  },
+  {
+    "code": "H01R 11/24",
+    "description": "••••••con mordazas de unión, p. ej. pinza de cocodrilo [2006.01]"
+  },
+  {
+    "code": "H01R 11/26",
+    "description": "••••Piezas terminales que acaban en un gatillo, tornillo o tuerca [2006.01]"
+  },
+  {
+    "code": "H01R 11/28",
+    "description": "••••Piezas terminales que consisten en un anillo o manguito [2006.01]"
+  },
+  {
+    "code": "H01R 11/30",
+    "description": "••••Piezas terminales mantenidas en contacto por un imán [2006.01]"
+  },
+  {
+    "code": "H01R 11/32",
+    "description": "••••Piezas terminales con varias terminaciones [2006.01]"
+  },
+  {
+    "code": "H01R 12/00",
+    "description": "Asociación estructural de varios elementos de conexión eléctrica mutuamente aislados, especialmente adaptados para circuitos impresos, p. ej. tarjetas de circuito impreso [PCB] , cables planos o de cinta, o estructuras similares básicamente planas, p. ej. bandas terminales, bloques terminales; dispositivos de acoplamiento especialmente adaptados para circuitos impresos, cables planos o de cinta, o estructuras similares básicamente planas; Terminales especialmente adaptados para hacer contacto con, o insertarse en, circuitos impresos, cables planos o de cinta, o estructuras similares básicamente planas (conexiones impresas a, o entre, circuitos impresos H05K 1/11) [2006.01]"
+  },
+  {
+    "code": "H01R 12/50",
+    "description": "••Conexiones fijas [2011.01]"
+  },
+  {
+    "code": "H01R 12/51",
+    "description": "••••para circuitos impresos rígidos o estructuras similares [2011.01]"
+  },
+  {
+    "code": "H01R 12/52",
+    "description": "••••••que conectan con otros circuitos impresos rígidos o estructuras similares [2011.01]"
+  },
+  {
+    "code": "H01R 12/53",
+    "description": "••••••que conectan con cables excepto cables planos o de cinta o estructuras similares [2011.01]"
+  },
+  {
+    "code": "H01R 12/55",
+    "description": "••••••caracterizados por los terminales [2011.01]"
+  },
+  {
+    "code": "H01R 12/57",
+    "description": "••••••••terminales de montaje superficial [2011.01]"
+  },
+  {
+    "code": "H01R 12/58",
+    "description": "••••••••terminales para insertar en agujeros [2011.01]"
+  },
+  {
+    "code": "H01R 12/59",
+    "description": "••••para circuitos impresos flexibles, cables planos o de cinta o estructura similares [2011.01]"
+  },
+  {
+    "code": "H01R 12/61",
+    "description": "••••••que conectan con circuitos impresos flexibles, cables planos o de cinta o estructura similares [2011.01]"
+  },
+  {
+    "code": "H01R 12/62",
+    "description": "••••••que conectan con circuitos impresos rígidos o estructuras similares [2011.01]"
+  },
+  {
+    "code": "H01R 12/63",
+    "description": "••••••que conectan con un cable de forma distinta [2011.01]"
+  },
+  {
+    "code": "H01R 12/65",
+    "description": "••••••caracterizado por el terminal [2011.01]"
+  },
+  {
+    "code": "H01R 12/67",
+    "description": "••••••••terminales que penetran en el aislamiento [2011.01]"
+  },
+  {
+    "code": "H01R 12/68",
+    "description": "••••••••••que comprenden partes deformables [2011.01]"
+  },
+  {
+    "code": "H01R 12/69",
+    "description": "••••••••terminales deformables p. ej.  terminales  crimpados [2011.01]"
+  },
+  {
+    "code": "H01R 12/70",
+    "description": "••Dispositivos de acoplamiento [2011.01]"
+  },
+  {
+    "code": "H01R 12/71",
+    "description": "••••para circuitos impresos rígidos o estructuras similares [2011.01]"
+  },
+  {
+    "code": "H01R 12/72",
+    "description": "••••••que acopla con el borde del circuito impreso rígido o estructuras similares [2011.01]"
+  },
+  {
+    "code": "H01R 12/73",
+    "description": "••••••••que conecta con otro circuito impreso o estructuras similares [2011.01]"
+  },
+  {
+    "code": "H01R 12/75",
+    "description": "••••••que conectan con cables excepto cables planos o de cinta [2011.01]"
+  },
+  {
+    "code": "H01R 12/77",
+    "description": "••••para  circuitos impresos flexibles, cables planos o de cinta o estructura similares [2011.01]"
+  },
+  {
+    "code": "H01R 12/78",
+    "description": "••••••que conectan con otros circuitos impresos flexibles, cables planos o de cinta o estructura similares [2011.01]"
+  },
+  {
+    "code": "H01R 12/79",
+    "description": "••••••que conectan con circuitos impresos rígidos o estructuras similares [2011.01]"
+  },
+  {
+    "code": "H01R 12/81",
+    "description": "••••••que conectan con otros cables excepto cables planos o de cinta [2011.01]"
+  },
+  {
+    "code": "H01R 12/82",
+    "description": "••••conectados con baja o nula fuerza de inserción [2011.01]"
+  },
+  {
+    "code": "H01R 12/83",
+    "description": "••••••conectado con el pivote de los circuitos impresos o similar después de la inserción [2011.01]"
+  },
+  {
+    "code": "H01R 12/85",
+    "description": "••••••medios para producir presión de contacto, contactos activados después de la inserción del circuito impreso o estructuras similares [2011.01]"
+  },
+  {
+    "code": "H01R 12/87",
+    "description": "••••••••que actúan automáticamente por la inserción del circuito impreso rígido o estructuras similares [2011.01]"
+  },
+  {
+    "code": "H01R 12/88",
+    "description": "••••••••que actúan manualmente por rotación o pivote de partes de la carcasa del conector [2011.01]"
+  },
+  {
+    "code": "H01R 12/89",
+    "description": "••••••••que actúan manualmente por  movimiento de partes de la carcasa del conector linealmente p. ej. deslizantes [2011.01]"
+  },
+  {
+    "code": "H01R 12/91",
+    "description": "••••que permite movimiento relativo entre partes que se acoplan p. ej. flotantes o autoalineables [2011.01]"
+  },
+  {
+    "code": "H01R 13/00",
+    "description": "Detalles de dispositivos de acoplamiento de los tipos cubiertos por los grupos H01R 12/70 o H01R 24/00-H01R 33/00 [2006.01]"
+  },
+  {
+    "code": "H01R 13/02",
+    "description": "••Contactos [2006.01]"
+  },
+  {
+    "code": "H01R 13/03",
+    "description": "••••caracterizados por el material, p. ej. material de enchapado o de revestimiento [2006.01]"
+  },
+  {
+    "code": "H01R 13/04",
+    "description": "••••Clavijas o láminas para el funcionamiento con enchufes [2006.01]"
+  },
+  {
+    "code": "H01R 13/05",
+    "description": "••••••Clavijas o láminas elásticas (que tienen partes elásticas separadas H01R 13/15) [2006.01]"
+  },
+  {
+    "code": "H01R 13/08",
+    "description": "••••••Clavijas o láminas rígidas montadas elásticamente [2006.01]"
+  },
+  {
+    "code": "H01R 13/10",
+    "description": "••••Enchufes para cooperar con clavijas o láminas [2006.01]"
+  },
+  {
+    "code": "H01R 13/11",
+    "description": "••••••Enchufes elásticos (que tienen partes elásticas separadas H01R 13/15) [2006.01]"
+  },
+  {
+    "code": "H01R 13/115",
+    "description": "••••••••Enchufes en forma de U con brazos encorvados interiormente [2006.01]"
+  },
+  {
+    "code": "H01R 13/14",
+    "description": "••••••Enchufes rígidos montados elásticamente [2006.01]"
+  },
+  {
+    "code": "H01R 13/15",
+    "description": "••••Clavijas, láminas o enchufes que tienen un resorte independiente para producir o mejorar la presión de contacto [2006.01]"
+  },
+  {
+    "code": "H01R 13/17",
+    "description": "••••••estando el resorte sobre la clavija [2006.01]"
+  },
+  {
+    "code": "H01R 13/18",
+    "description": "••••••con la pieza de resorte circundando el enchufe [2006.01]"
+  },
+  {
+    "code": "H01R 13/187",
+    "description": "••••••estando el resorte en el enchufe [2006.01]"
+  },
+  {
+    "code": "H01R 13/193",
+    "description": "••••Medios para mejorar la presión de contacto con el fin de ajustar las piezas de acoplamiento [2006.01]"
+  },
+  {
+    "code": "H01R 13/20",
+    "description": "••••Clavijas, láminas o enchufes que tienen una pieza separada para mantener juntas las partes en funcionamiento [2006.01]"
+  },
+  {
+    "code": "H01R 13/207",
+    "description": "••••••por conexión atornillada [2006.01]"
+  },
+  {
+    "code": "H01R 13/213",
+    "description": "••••••por conexión de bayoneta [2006.01]"
+  },
+  {
+    "code": "H01R 13/22",
+    "description": "••••Contactos para cooperar por empalme [2006.01]"
+  },
+  {
+    "code": "H01R 13/24",
+    "description": "••••••elásticos; montados elásticamente [2006.01]"
+  },
+  {
+    "code": "H01R 13/26",
+    "description": "••••Contactos de clavijas o láminas para cooperar por deslizamiento sobre un solo lado [2006.01]"
+  },
+  {
+    "code": "H01R 13/28",
+    "description": "••••Contactos para cooperar por deslizamiento con un contacto de forma idéntica, p. ej. para los dispositivos de acoplamiento hermafroditas [2006.01]"
+  },
+  {
+    "code": "H01R 13/33",
+    "description": "••••Piezas de contacto hechas de hilo flexible [2006.01]"
+  },
+  {
+    "code": "H01R 13/35",
+    "description": "••••concebidos para una cooperación no simultaneada con diferentes tipos de piezas de contacto, p. ej. enchufe que coopera bien con una clavija redonda bien con una clavija plana [2006.01]"
+  },
+  {
+    "code": "H01R 13/40",
+    "description": "••Fijación de piezas de contacto en o sobre una base o una caja; Aislamiento de piezas de contacto [2006.01]"
+  },
+  {
+    "code": "H01R 13/405",
+    "description": "••••Fijación de manera no desmontable, p. ej. por moldeo, remachado [2006.01]"
+  },
+  {
+    "code": "H01R 13/41",
+    "description": "••••••por ajuste con frotamiento en una arandela aislante, un panel o una base [2006.01]"
+  },
+  {
+    "code": "H01R 13/415",
+    "description": "••••••por deformación permanente de la pieza de contacto [2006.01]"
+  },
+  {
+    "code": "H01R 13/42",
+    "description": "••••Fijación de forma desmontable [2006.01]"
+  },
+  {
+    "code": "H01R 13/422",
+    "description": "••••••sobre una base o en una caja flexible en una sola pieza; Base o caja en una sola pieza con medios de enclavamiento elásticos [2006.01]"
+  },
+  {
+    "code": "H01R 13/424",
+    "description": "••••••sobre una base o en una caja compuesta de varias piezas aislantes de las que una al menos es flexible [2006.01]"
+  },
+  {
+    "code": "H01R 13/426",
+    "description": "••••••por un dispositivo de retención independiente y elástico soportado por la base o por la caja, p. ej. por un collar [2006.01]"
+  },
+  {
+    "code": "H01R 13/428",
+    "description": "••••••por medios de enclavamiento elástico situados en las piezas de contacto; por medios de enclavamiento situados en las piezas de contacto elásticas [2006.01]"
+  },
+  {
+    "code": "H01R 13/432",
+    "description": "••••••••por una lámina elástica embutida con accionamiento brusco detrás de un rebajo de la base o de la caja [2006.01]"
+  },
+  {
+    "code": "H01R 13/434",
+    "description": "••••••••por medios de enclavamiento elásticos independientes situados sobre una pieza de contacto, p. ej. por un collar de retención o un anillo situado alrededor de la pieza de contacto [2006.01]"
+  },
+  {
+    "code": "H01R 13/436",
+    "description": "••••••Fijación de varias piezas de contacto por una sola pieza de enclavamiento [2006.01]"
+  },
+  {
+    "code": "H01R 13/44",
+    "description": "••Medios para evitar los accesos a los contactos activos [2006.01]"
+  },
+  {
+    "code": "H01R 13/443",
+    "description": "••••Enchufes ciegos [2006.01]"
+  },
+  {
+    "code": "H01R 13/447",
+    "description": "••••Postigo o placa de recubrimiento [2006.01]"
+  },
+  {
+    "code": "H01R 13/453",
+    "description": "••••••Postigo o placa de recubrimiento abierta por el ajuste de la pieza asociada [2006.01]"
+  },
+  {
+    "code": "H01R 13/46",
+    "description": "••Bases; Cajas [2006.01]"
+  },
+  {
+    "code": "H01R 13/50",
+    "description": "••••formadas como un cuerpo íntegro (H01R 13/514 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01R 13/502",
+    "description": "••••compuestas de diferentes piezas (H01R 13/514 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01R 13/504",
+    "description": "••••••estando las diferentes piezas moldeadas, encoladas, soldadas, p. ej. por soldadura ultrasónica, o reunidas por estampación [2006.01]"
+  },
+  {
+    "code": "H01R 13/506",
+    "description": "••••••ensambladas por accionamiento recíproco de las piezas [2006.01]"
+  },
+  {
+    "code": "H01R 13/508",
+    "description": "••••••ensambladas por una brida o por un resorte [2006.01]"
+  },
+  {
+    "code": "H01R 13/512",
+    "description": "••••••ensambladas por un tornillo o por tornillos [2006.01]"
+  },
+  {
+    "code": "H01R 13/514",
+    "description": "••••formadas como un bloque o conjunto modular, es decir, compuestas de partes cooperantes provistas de piezas de contacto o que sostienen entre ellas piezas de contacto [2006.01]"
+  },
+  {
+    "code": "H01R 13/516",
+    "description": "••••Medios para sostener o envolver un cuerpo aislante, p. ej. caja [2006.01]"
+  },
+  {
+    "code": "H01R 13/518",
+    "description": "••••••para sostener o envolver varias piezas de acoplamiento, p. ej. bastidor [2006.01]"
+  },
+  {
+    "code": "H01R 13/52",
+    "description": "••••Cajas protegidas contra el polvo, proyecciones, salpicaduras, agua o llamas [2006.01]"
+  },
+  {
+    "code": "H01R 13/523",
+    "description": "••••••para el empleo bajo el agua [2006.01]"
+  },
+  {
+    "code": "H01R 13/527",
+    "description": "••••••Cajas protegidas contra las llamas (H01R 13/70 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01R 13/53",
+    "description": "••••Bases o cajas para condiciones duras de trabajo; Bases o cajas con medios para evitar el efecto corona o la cebadura de un arco [2006.01]"
+  },
+  {
+    "code": "H01R 13/533",
+    "description": "••••Bases o cajas concebidas para el empleo en condiciones extremas, p. ej. alta temperatura, radiaciones, vibraciones, ambiente corrosivo, presión (H01R 13/52 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01R 13/56",
+    "description": "••Medios para evitar la rozadura o fractura de los conductores flexibles de salida y las piezas de acoplamiento [2006.01]"
+  },
+  {
+    "code": "H01R 13/58",
+    "description": "••Medios para atenuar el esfuerzo de tensión en el cable de conexión, p. ej. agarre de cables [2006.01]"
+  },
+  {
+    "code": "H01R 13/585",
+    "description": "••••la presión aumenta con el esfuerzo de tensión [2006.01]"
+  },
+  {
+    "code": "H01R 13/59",
+    "description": "••••una arandela roscada o un pasador que actúan en dirección paralela al cable o hilo [2006.01]"
+  },
+  {
+    "code": "H01R 13/595",
+    "description": "••••con pasadores que actúan en dirección transversal con relación al cable o hilo [2006.01]"
+  },
+  {
+    "code": "H01R 13/60",
+    "description": "••Medios para soportar las piezas de acoplamiento cuando no están colocadas [2006.01]"
+  },
+  {
+    "code": "H01R 13/62",
+    "description": "••Medios para facilitar el ajuste o la separación de piezas de acoplamiento o para mantener el ajuste [2006.01]"
+  },
+  {
+    "code": "H01R 13/621",
+    "description": "••••Pasador, tornillo de apriete o fijación a tornillo [2006.01]"
+  },
+  {
+    "code": "H01R 13/622",
+    "description": "••••Arandela o caja fileteados (H01R 13/623 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01R 13/623",
+    "description": "••••Caja o arandela con ranura helicoidal [2006.01]"
+  },
+  {
+    "code": "H01R 13/625",
+    "description": "••••Caja o arandela con ensamble tipo bayoneta [2006.01]"
+  },
+  {
+    "code": "H01R 13/627",
+    "description": "••••Fijación tipo acción brusca [2006.01]"
+  },
+  {
+    "code": "H01R 13/629",
+    "description": "••••Medios adicionales para facilitar el ajuste o la separación de piezas de acoplamiento, p. ej. medios para alinear o guiar, palancas, presión de gas [2006.01]"
+  },
+  {
+    "code": "H01R 13/631",
+    "description": "••••••para el ajuste solamente [2006.01]"
+  },
+  {
+    "code": "H01R 13/633",
+    "description": "••••••para la separación solamente [2006.01]"
+  },
+  {
+    "code": "H01R 13/635",
+    "description": "••••••••por una presión mecánica, p. ej. por la fuerza de un resorte [2006.01]"
+  },
+  {
+    "code": "H01R 13/637",
+    "description": "••••••••por la presión de un fluido, p. ej. por explosión [2006.01]"
+  },
+  {
+    "code": "H01R 13/639",
+    "description": "••••Medios adicionales para mantener o cerrar entre sí las piezas de acoplamiento después del ajuste [2006.01]"
+  },
+  {
+    "code": "H01R 13/64",
+    "description": "••Medios para prevenir, inhibir o evitar el acoplamiento incorrecto [2006.01]"
+  },
+  {
+    "code": "H01R 13/641",
+    "description": "••••indicando el carácter incorrecto del acoplamiento; indicando la consecución de un enclavamiento correcto o completo [2006.01]"
+  },
+  {
+    "code": "H01R 13/642",
+    "description": "••••por la posición o la forma de las piezas de contacto [2006.01]"
+  },
+  {
+    "code": "H01R 13/645",
+    "description": "••••por elementos intercambiables sobre la caja o sobre la base [2006.01]"
+  },
+  {
+    "code": "H01R 13/646",
+    "description": "••especialmente adaptados para altas frecuencias, p. ej. estructuras que proporcionan una adaptación de impedancia o una adaptación de fase (dispositivos de protección a tierra no coaxiales o de apantallamientos H01R 13/648; conectores coaxiales especialmente adaptados para alta frecuencia H01R 24/40) [2011.01]"
+  },
+  {
+    "code": "H01R 13/6461",
+    "description": "••••Medios para la prevención de la diafonía [2011.01]"
+  },
+  {
+    "code": "H01R 13/6463",
+    "description": "••••••que utiliza cables de par trenzado [2011.01]"
+  },
+  {
+    "code": "H01R 13/6464",
+    "description": "••••••añadiendo elementos capacitivos [2011.01]"
+  },
+  {
+    "code": "H01R 13/6466",
+    "description": "••••••••en substratos, p. ej. placas de circuito impreso [PCB] [2011.01]"
+  },
+  {
+    "code": "H01R 13/6467",
+    "description": "••••••por cruce de conductores de señal [2011.01]"
+  },
+  {
+    "code": "H01R 13/6469",
+    "description": "••••••••en substratos [2011.01]"
+  },
+  {
+    "code": "H01R 13/6471",
+    "description": "••••••por disposiciones especiales de conductores de tierra y conductores de señal, p. ej. TSTS [Tierra-Señal- Tierra-Señal] [2011.01]"
+  },
+  {
+    "code": "H01R 13/6473",
+    "description": "••••Adaptación de impedancias [2011.01]"
+  },
+  {
+    "code": "H01R 13/6474",
+    "description": "••••••variando las  propiedades conductivas, p. ej.  por variación de las dimensiones [2011.01]"
+  },
+  {
+    "code": "H01R 13/6476",
+    "description": "••••••••haciendo una apertura, p. ej. un agujero [2011.01]"
+  },
+  {
+    "code": "H01R 13/6477",
+    "description": "••••••variando las propiedades dieléctricas [2011.01]"
+  },
+  {
+    "code": "H01R 13/648",
+    "description": "••Disposiciones de protección por puesta a tierra o por pantalla en los dispositivos de acoplamiento (pantallas dispuestas coaxialmente  H01R 24/38) [2006.01]"
+  },
+  {
+    "code": "H01R 13/652",
+    "description": "••••con clavija, lámina o enchufe de puesta a tierra [2006.01]"
+  },
+  {
+    "code": "H01R 13/655",
+    "description": "••••con estribo de puesta a tierra [2006.01]"
+  },
+  {
+    "code": "H01R 13/658",
+    "description": "••••Dispositivos de blindaje para alta frecuencia, p. ej. contra  IEM[Interferencias Electro-Magnéticas] o PEM [Pulsos Electro-Magnéticos] [2011.01]"
+  },
+  {
+    "code": "H01R 13/6581",
+    "description": "••••••Estructuras de blindaje [2011.01]"
+  },
+  {
+    "code": "H01R 13/6582",
+    "description": "••••••••con medios resistentes  para el ajuste del conector de acoplamiento [2011.01]"
+  },
+  {
+    "code": "H01R 13/6583",
+    "description": "••••••••••con miembros resistentes conductivos separados entre los miembros blindados de acoplamiento [2011.01]"
+  },
+  {
+    "code": "H01R 13/6584",
+    "description": "••••••••••••formado por miembros conductivos de elastómero p. ej. juntas planas o junta tórica [2011.01]"
+  },
+  {
+    "code": "H01R 13/6585",
+    "description": "••••••••Material de blindaje rodeando o interpuesto individualmente  entre  espacios de contacto mutuo [2011.01]"
+  },
+  {
+    "code": "H01R 13/6586",
+    "description": "••••••••••para separa módulos de conectores múltiples [2011.01]"
+  },
+  {
+    "code": "H01R 13/6587",
+    "description": "••••••••••••para montaje en PCIs [2011.01]"
+  },
+  {
+    "code": "H01R 13/6588",
+    "description": "••••••••••con aperturas pasantes para contactos individuales [2011.01]"
+  },
+  {
+    "code": "H01R 13/6589",
+    "description": "••••••••••con cables separados por partes de la carcasa conductiva [2011.01]"
+  },
+  {
+    "code": "H01R 13/659",
+    "description": "••••••••con pluralidad de puertos para conectores distintos [2011.01]"
+  },
+  {
+    "code": "H01R 13/6591",
+    "description": "••••••Características específicas o disposiciones de conexión de blindaje para miembros conductivos [2011.01]"
+  },
+  {
+    "code": "H01R 13/6592",
+    "description": "••••••••siendo los miembros conductivos un cable blindado [2011.01]"
+  },
+  {
+    "code": "H01R 13/6593",
+    "description": "••••••••••estando el blindaje compuesto de piezas diferentes [2011.01]"
+  },
+  {
+    "code": "H01R 13/6594",
+    "description": "••••••••estando el blindaje montado en una PCI y conectado a miembros conductivos [2011.01]"
+  },
+  {
+    "code": "H01R 13/6595",
+    "description": "••••••••••con miembros separados que fijan el blindaje a la PCI [2011.01]"
+  },
+  {
+    "code": "H01R 13/6596",
+    "description": "••••••••siendo los miembros conductivos un panel de tierra metálico [2011.01]"
+  },
+  {
+    "code": "H01R 13/6597",
+    "description": "••••••••siendo los miembros conductivos un contacto de un conector [2011.01]"
+  },
+  {
+    "code": "H01R 13/6598",
+    "description": "••••••Materiales de blindaje [2011.01]"
+  },
+  {
+    "code": "H01R 13/6599",
+    "description": "••••••••Material dieléctrico hecho conductivo p. ej. material plástico cubierto con metal [2011.01]"
+  },
+  {
+    "code": "H01R 13/66",
+    "description": "••Asociación estructural con componentes eléctricos incorporados (dispositivos de acoplamiento con contactos dispuestos concéntrica o coaxialmente H01R 24/38) [2006.01]"
+  },
+  {
+    "code": "H01R 13/68",
+    "description": "••••con fusibles incorporados [2011.01]"
+  },
+  {
+    "code": "H01R 13/684",
+    "description": "••••••siendo el fusible desmontable [2011.01]"
+  },
+  {
+    "code": "H01R 13/688",
+    "description": "••••••••con parte de la carcasa adaptada para acceder al fusible [2011.01]"
+  },
+  {
+    "code": "H01R 13/692",
+    "description": "••••••••••Parte de la carcasa giratoria [2011.01]"
+  },
+  {
+    "code": "H01R 13/696",
+    "description": "••••••estando el fusible integrado en el terminal, p. ej. clavijas o enchufes [2011.01]"
+  },
+  {
+    "code": "H01R 13/70",
+    "description": "••••con interruptor incorporado [2006.01]"
+  },
+  {
+    "code": "H01R 13/703",
+    "description": "••••••accionado por el ajuste o contracción de las piezas de acoplamiento (H01R 13/71 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01R 13/707",
+    "description": "••••••enclavado con las piezas de contacto o la pieza asociada [2006.01]"
+  },
+  {
+    "code": "H01R 13/71",
+    "description": "••••••Elementos de contacto de piezas de acoplamiento que actúan como interruptor [2006.01]"
+  },
+  {
+    "code": "H01R 13/713",
+    "description": "••••••el interruptor es un interruptor de seguridad [2006.01]"
+  },
+  {
+    "code": "H01R 13/717",
+    "description": "••••con fuente de luz incorporada [2006.01]"
+  },
+  {
+    "code": "H01R 13/719",
+    "description": "••••especialmente adaptado para alta frecuencia, p. ej. con filtros [2011.01]"
+  },
+  {
+    "code": "H01R 13/7193",
+    "description": "••••••con filtros ferríticos [2011.01]"
+  },
+  {
+    "code": "H01R 13/7195",
+    "description": "••••••con filtros planos con aperturas para contactos [2011.01]"
+  },
+  {
+    "code": "H01R 13/7197",
+    "description": "••••••con filtros integrados o montados en los contactos p. ej. filtros tubulares [2011.01]"
+  },
+  {
+    "code": "H01R 13/72",
+    "description": "••Medios para adoptar una conexión flexible en el soporte [2006.01]"
+  },
+  {
+    "code": "H01R 13/73",
+    "description": "••Medios de montaje de las piezas de acoplamiento sobre los aparatos o estructuras, p. ej. sobre un muro [2006.01]"
+  },
+  {
+    "code": "H01R 13/74",
+    "description": "••••Montaje de las piezas de acoplamiento en las aberturas de un panel [2006.01]"
+  },
+  {
+    "code": "H01R 24/00",
+    "description": "Dispositivos de acoplamiento de dos piezas, sus piezas por separado, caracterizados por su estructura general (contactos H01R 13/02; fijación de piezas de contacto en o sobre una base o una caja o aislamiento de piezas de contacto H01R 13/40; bases o cajas H01R 13/46; medios para soportar las piezas de acoplamiento cuando no están colocadas H01R 13/60; medios para facilitar el ajuste o la separación de piezas de acoplamiento o para mantener el ajuste H01R 13/62; medios para prevenir, inhibir o evitar el acoplamiento incorrecto H01R 13/64) [2011.01]"
+  },
+  {
+    "code": "H01R 24/20",
+    "description": "••Partes de acoplamiento con enchufes, pinzas o contactos análogos y asegurados sólo a un alambre o cable [2011.01]"
+  },
+  {
+    "code": "H01R 24/22",
+    "description": "••••con contactos adicionales de tierra o blindaje [2011.01]"
+  },
+  {
+    "code": "H01R 24/28",
+    "description": "••Parte de acoplamiento con  clavijas, láminas o contactos análogos y asegurados sólo al alambre o cable [2011.01]"
+  },
+  {
+    "code": "H01R 24/30",
+    "description": "••••con contactos adicionales de tierra o blindaje [2011.01]"
+  },
+  {
+    "code": "H01R 24/38",
+    "description": "••que tienen contactos dispuestos concéntrica o coaxialmente [2011.01]"
+  },
+  {
+    "code": "H01R 24/40",
+    "description": "••••especialmente adaptados para alta frecuencia [2011.01]"
+  },
+  {
+    "code": "H01R 24/42",
+    "description": "••••••que comprenden medios de adaptación de impedancia o componentes eléctricos p. ej. filtros o interruptores [2011.01]"
+  },
+  {
+    "code": "H01R 24/44",
+    "description": "••••••••que comprenden medios de adaptación de impedancia [2011.01]"
+  },
+  {
+    "code": "H01R 24/46",
+    "description": "••••••••que comprenden interruptores [2011.01]"
+  },
+  {
+    "code": "H01R 24/48",
+    "description": "••••••••que comprenden dispositivos de protección, p. ej. protección de sobretensión [2011.01]"
+  },
+  {
+    "code": "H01R 24/50",
+    "description": "••••••montados en una PCI [Placa de Circuito Impreso] [2011.01]"
+  },
+  {
+    "code": "H01R 24/52",
+    "description": "••••••montados en un panel o en una estructura [2011.01]"
+  },
+  {
+    "code": "H01R 24/54",
+    "description": "••••••Partes intermedias, p. ej. adaptadores, divisores o codos [2011.01]"
+  },
+  {
+    "code": "H01R 24/56",
+    "description": "••••••especialmente adaptados para formas específicas de cables, p. ej. cables corrugados, cables de par trenzado, cables con dos pantallas o cables huecos [2011.01]"
+  },
+  {
+    "code": "H01R 24/58",
+    "description": "••Contactos espaciados a lo largo del eje longitudinal del ajuste [2011.01]"
+  },
+  {
+    "code": "H01R 24/60",
+    "description": "••Contactos espaciados a lo largo de plano transversal al eje longitudinal del ajuste [2011.01]"
+  },
+  {
+    "code": "H01R 24/62",
+    "description": "••••Ajuste deslizante con sólo un lado, p. ej. dispositivos de acoplamiento de jack modular [2011.01]"
+  },
+  {
+    "code": "H01R 24/64",
+    "description": "••••••para alta frecuencia, p. ej.RJ 45 [2011.01]"
+  },
+  {
+    "code": "H01R 24/66",
+    "description": "••con  clavijas, láminas o contactos análogos y asegurados a aparatos o estructuras, p. ej. a una pared [2011.01]"
+  },
+  {
+    "code": "H01R 24/68",
+    "description": "••••montado en el aparato directamente conectable [2011.01]"
+  },
+  {
+    "code": "H01R 24/70",
+    "description": "••••con contactos adicionales de tierra o blindaje [2011.01]"
+  },
+  {
+    "code": "H01R 24/76",
+    "description": "••con enchufes, pinzas o contactos análogos y asegurados a un aparato o estructura, p. ej. a una pared [2011.01]"
+  },
+  {
+    "code": "H01R 24/78",
+    "description": "••••con contactos adicionales de tierra o blindaje [2011.01]"
+  },
+  {
+    "code": "H01R 24/84",
+    "description": "••Dispositivos de acoplamiento hermafroditas [2011.01]"
+  },
+  {
+    "code": "H01R 24/86",
+    "description": "••Contactos paralelos dispuestos sobre un eje común [2011.01]"
+  },
+  {
+    "code": "H01R 25/00",
+    "description": "Piezas de acoplamiento adaptadas a la cooperación simultánea con varias piezas complementarias idénticas, p. ej. para la distribución de energía a varios circuitos (soportadas solamente por la cooperación con una pieza complementaria H01R 31/00; con un soporte adaptado para soportar el aparato al cual su pieza complementaria está unida H01R 33/88) [2006.01]"
+  },
+  {
+    "code": "H01R 25/14",
+    "description": "••Carriles o barras ómnibus realizados de tal forma que las piezas complementarias pueden ser conectadas en cualquier punto de su recorrido (elementos de soporte para la iluminación, desplazables a lo largo de elementos de guía y haciendo contacto eléctrico con conductores dispuestos a lo largo de los elementos de guía F21V 21/35) [2006.01]"
+  },
+  {
+    "code": "H01R 25/16",
+    "description": "••Carriles o barras ómnibus provistas de varios puntos de conexión para piezas complementarias [2006.01]"
+  },
+  {
+    "code": "H01R 27/00",
+    "description": "Piezas de acoplamiento adaptadas a la cooperación con varias piezas complementarias dispares (soportadas únicamente por cooperación con una pieza complementaria H01R 31/00; con un soporte adaptado para soportar el aparato al cual su pieza complementaria está unida H01R 33/90) [2006.01]"
+  },
+  {
+    "code": "H01R 27/02",
+    "description": "••para cooperación simultánea con varias piezas complementarias [2006.01]"
+  },
+  {
+    "code": "H01R 29/00",
+    "description": "Piezas de acoplamiento para cooperar selectivamente de diferentes modos con una pieza complementaria para establecer diferentes circuitos, p. ej. para selección de tensión, para selección serie-paralelo [2006.01]"
+  },
+  {
+    "code": "H01R 31/00",
+    "description": "Piezas de acoplamiento soportadas solamente por la cooperación con la pieza complementaria [2006.01]"
+  },
+  {
+    "code": "H01R 31/02",
+    "description": "••Piezas intermedias para la distribución de energía a varios circuitos en paralelo, p. ej. clavija de derivación (con un soporte adaptado para soportar el aparato al cual su pieza complementaria está unida H01R 33/92) [2006.01]"
+  },
+  {
+    "code": "H01R 31/06",
+    "description": "••Piezas intermedias para unir dos piezas de acoplamiento, p. ej. adaptador (con un soporte adaptado para soportar el aparato al cual su pieza complementaria está unida H01R 33/94) [2006.01]"
+  },
+  {
+    "code": "H01R 31/08",
+    "description": "••Piezas de cortocircuito para puentear contactos en una pieza asociada [2006.01]"
+  },
+  {
+    "code": "H01R 33/00",
+    "description": "Dispositivos de acoplamiento especialmente adaptados para soportar un aparato, en los que una pieza de acoplamiento asegura la función de soporte y conexión eléctrica por medio de una pieza complementaria que está estructuralmente asociada al aparato, p. ej. soportes de lámpara; Sus piezas separadas [2006.01]"
+  },
+  {
+    "code": "H01R 33/02",
+    "description": "••Dispositivos de un polo, p. ej. soporte de la extremidad de una lámpara tubular de incandescencia o de neón [2006.01]"
+  },
+  {
+    "code": "H01R 33/05",
+    "description": "••Dispositivos de dos polos [2006.01]"
+  },
+  {
+    "code": "H01R 33/06",
+    "description": "••••con dos clavijas, láminas o contactos análogos conductores de corriente que tienen sus ejes paralelos entre sí [2006.01]"
+  },
+  {
+    "code": "H01R 33/08",
+    "description": "••••••para soportar una lámpara tubular fluorescente [2006.01]"
+  },
+  {
+    "code": "H01R 33/09",
+    "description": "••••••para bombilla sin casquillo [2006.01]"
+  },
+  {
+    "code": "H01R 33/18",
+    "description": "••••que tienen únicamente contactos empalmados [2006.01]"
+  },
+  {
+    "code": "H01R 33/20",
+    "description": "••••que tienen los contactos concéntricos o coaxiales [2006.01]"
+  },
+  {
+    "code": "H01R 33/22",
+    "description": "••••para casquillo de rosca, p. ej. para lámpara [2006.01]"
+  },
+  {
+    "code": "H01R 33/46",
+    "description": "••••para casquillo del tipo bayoneta [2006.01]"
+  },
+  {
+    "code": "H01R 33/72",
+    "description": "••Dispositivos de tres polos [2006.01]"
+  },
+  {
+    "code": "H01R 33/74",
+    "description": "••Dispositivos que tienen cuatro o más polos [2006.01]"
+  },
+  {
+    "code": "H01R 33/76",
+    "description": "••••Soportes con enchufes, pinzas o contactos análogos, adaptados para el enganche axial por deslizamiento, con clavijas, láminas o contactos análogos dispuestos paralelamente sobre la pieza complementaria, p. ej. soporte para tubo electrónico [2006.01]"
+  },
+  {
+    "code": "H01R 33/88",
+    "description": "••adaptados para un funcionamiento simultáneo con dos o más piezas complementarias idénticas [2006.01]"
+  },
+  {
+    "code": "H01R 33/90",
+    "description": "••adaptados para un funcionamiento simultáneo con dos o más piezas complementarias diferentes, p. ej. portalámparas [2006.01]"
+  },
+  {
+    "code": "H01R 33/92",
+    "description": "••Soportes que sirven como piezas intermediarias para la distribución de energía en paralelo a través de dos o más piezas complementarias, en las cuales al menos una es incorporada al aparato que debe ser sostenido [2006.01]"
+  },
+  {
+    "code": "H01R 33/94",
+    "description": "••Soportes que sirven como piezas intermediarias para unir una pieza complementaria a una pieza de acoplamiento [2006.01]"
+  },
+  {
+    "code": "H01R 33/945",
+    "description": "••Soportes con componente eléctrico incorporado [2006.01]"
+  },
+  {
+    "code": "H01R 33/95",
+    "description": "••••con fusible; con interruptor térmico [2006.01]"
+  },
+  {
+    "code": "H01R 33/955",
+    "description": "••••con interruptor accionado manualmente independientemente del enganche o separación del acoplamiento [2006.01]"
+  },
+  {
+    "code": "H01R 33/96",
+    "description": "••••con interruptor accionado por el enganche o separación del acoplamiento [2006.01]"
+  },
+  {
+    "code": "H01R 33/965",
+    "description": "••Soportes protegidos contra el polvo, proyecciones, salpicaduras, agua o llamas [2006.01]"
+  },
+  {
+    "code": "H01R 33/97",
+    "description": "••Soportes con medios separados para evitar el aflojamiento del acoplamiento o la retirada no autorizada del aparato sostenido [2006.01]"
+  },
+  {
+    "code": "H01R 33/975",
+    "description": "••Soportes con medios elásticos para la protección del aparato contra las vibraciones o los choques [2006.01]"
+  },
+  {
+    "code": "H01R 35/00",
+    "description": "Conectores de línea flexibles o susceptibles de rotación (colectores de corriente rotativos, distribuidores H01R 39/00) [2006.01]"
+  },
+  {
+    "code": "H01R 35/02",
+    "description": "••Conectores de línea flexibles [2006.01]"
+  },
+  {
+    "code": "H01R 35/04",
+    "description": "••Conectores de línea que pueden girar un ángulo de rotación limitado [2006.01]"
+  },
+  {
+    "code": "H01R 39/00",
+    "description": "Colectores de corriente rotativos, distribuidores o interruptores [2006.01]"
+  },
+  {
+    "code": "H01R 39/02",
+    "description": "••Detalles [2006.01]"
+  },
+  {
+    "code": "H01R 39/04",
+    "description": "••••Colectores (en los cuales los segmentos están formados por la prolongación del arrollamiento de la máquina dinamoeléctrica H02K) [2006.01]"
+  },
+  {
+    "code": "H01R 39/06",
+    "description": "••••••diferentes a los que tienen una superficie externa cilíndrica, p. ej. conmutadores planos [2006.01]"
+  },
+  {
+    "code": "H01R 39/08",
+    "description": "••••Anillos colectores [2006.01]"
+  },
+  {
+    "code": "H01R 39/10",
+    "description": "••••••diferentes a los que tienen una superficie externa cilíndrica, p. ej. anillos colectores planos [2006.01]"
+  },
+  {
+    "code": "H01R 39/12",
+    "description": "••••••utilizando un cojinete o un eje como superficie de contacto [2006.01]"
+  },
+  {
+    "code": "H01R 39/14",
+    "description": "••••Fijación de colectores o de anillos colectores a los ejes [2006.01]"
+  },
+  {
+    "code": "H01R 39/16",
+    "description": "••••••por medios de material moldeado o fundido aplicado durante o después del montaje [2006.01]"
+  },
+  {
+    "code": "H01R 39/18",
+    "description": "••••Contactos para cooperar con el colector o el anillo colector, p. ej. escobilla de contacto [2006.01]"
+  },
+  {
+    "code": "H01R 39/20",
+    "description": "••••••caracterizados por el material utilizado [2006.01]"
+  },
+  {
+    "code": "H01R 39/22",
+    "description": "••••••••incorporación de un ingrediente lubricante o de pulido [2006.01]"
+  },
+  {
+    "code": "H01R 39/24",
+    "description": "••••••Contactos de lámina; Contactos de hilos, p. ej. escobillas metálicas, fibras de carbón [2006.01]"
+  },
+  {
+    "code": "H01R 39/26",
+    "description": "••••••Contactos sólidos de deslizamiento, p. ej. escobillas de carbón [2006.01]"
+  },
+  {
+    "code": "H01R 39/27",
+    "description": "••••••••Capuchones de extremidad sobre las escobillas de carbón para transmitir la presión del resorte [2006.01]"
+  },
+  {
+    "code": "H01R 39/28",
+    "description": "••••••Contactos de rodillo; Contactos de bola [2006.01]"
+  },
+  {
+    "code": "H01R 39/30",
+    "description": "••••••Contactos líquidos [2006.01]"
+  },
+  {
+    "code": "H01R 39/32",
+    "description": "••••Conexiones de conductor a segmento de colector [2006.01]"
+  },
+  {
+    "code": "H01R 39/34",
+    "description": "••••Conexiones de conductor a anillos colectores [2006.01]"
+  },
+  {
+    "code": "H01R 39/36",
+    "description": "••••Conexiones de cable o hilo a escobilla [2006.01]"
+  },
+  {
+    "code": "H01R 39/38",
+    "description": "••••Soportes de escobilla [2006.01]"
+  },
+  {
+    "code": "H01R 39/39",
+    "description": "••••••en los cuales la escobilla es fijada en el soporte [2006.01]"
+  },
+  {
+    "code": "H01R 39/40",
+    "description": "••••••permitiendo el movimiento de la escobilla durante el paso de la corriente [2006.01]"
+  },
+  {
+    "code": "H01R 39/41",
+    "description": "••••••del tipo cartucho [2006.01]"
+  },
+  {
+    "code": "H01R 39/415",
+    "description": "••••••••con resortes autorrecuperables [2006.01]"
+  },
+  {
+    "code": "H01R 39/42",
+    "description": "••••Dispositivos para levantar las escobillas [2006.01]"
+  },
+  {
+    "code": "H01R 39/44",
+    "description": "••••Dispositivos para cambiar las escobillas [2006.01]"
+  },
+  {
+    "code": "H01R 39/46",
+    "description": "••••Medios auxiliares para mejorar la transferencia de corriente, o para reducir o evitar chispas o arcos [2006.01]"
+  },
+  {
+    "code": "H01R 39/48",
+    "description": "••••••por soplado de aire; rodeando el colector con un líquido o gas no conductor [2006.01]"
+  },
+  {
+    "code": "H01R 39/50",
+    "description": "••••••Separaciones situadas entre las escobillas [2006.01]"
+  },
+  {
+    "code": "H01R 39/52",
+    "description": "••••••por utilización de imanes [2006.01]"
+  },
+  {
+    "code": "H01R 39/54",
+    "description": "••••••por utilización de impedancia entre escobillas o segmentos [2006.01]"
+  },
+  {
+    "code": "H01R 39/56",
+    "description": "••••Dispositivos para lubricar o pulir los colectores o anillos colectores durante el funcionamiento del colector [2006.01]"
+  },
+  {
+    "code": "H01R 39/58",
+    "description": "••••Medios estructuralmente asociados con el colector de corriente para indicar su estado, p. ej. para indicar el desgaste de la escobilla [2006.01]"
+  },
+  {
+    "code": "H01R 39/59",
+    "description": "••••Medios estructuralmente asociados a las escobillas para interrumpir la corriente (H01R 39/58 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01R 39/60",
+    "description": "••Dispositivos para la toma interrumpida de corriente, p. ej. pieza de conmutación, distribuidor, interruptor (interruptores automáticos H01H, p. ej. H01H 51/34) [2006.01]"
+  },
+  {
+    "code": "H01R 39/62",
+    "description": "••••con más de una escobilla funcionando con el mismo juego de segmentos [2006.01]"
+  },
+  {
+    "code": "H01R 39/64",
+    "description": "••Dispositivos para la toma ininterrumpida de la corriente [2006.01]"
+  },
+  {
+    "code": "H01R 41/00",
+    "description": "Colectores de corriente no rotativos para mantener un contacto entre las partes fija y móvil de un circuito eléctrico (piezas terminales que acaban en un gancho o pieza análoga H01R 11/12; colectores de corriente para líneas de alimentación de energía de vehículos propulsados eléctricamente B60L 5/00) [2006.01]"
+  },
+  {
+    "code": "H01R 41/02",
+    "description": "••Dispositivos para la toma ininterrumpida de corriente, p. ej. distribuidor (selectores accionados eléctricamente H01H 67/00) [2006.01]"
+  },
+  {
+    "code": "H01R 43/00",
+    "description": "Aparatos o procedimientos especialmente adaptados a la fabricación, montaje, entretenimiento o la reparación de conectores de líneas o de colectores de corriente o para acoplar conductores eléctricos (líneas para trole B60M 1/28) [2006.01]"
+  },
+  {
+    "code": "H01R 43/01",
+    "description": "••para conectar los conductores no pelados a las piezas de contacto que tienen aristas para cortar el aislamiento [2006.01]"
+  },
+  {
+    "code": "H01R 43/02",
+    "description": "••para conexiones soldadas [2006.01]"
+  },
+  {
+    "code": "H01R 43/027",
+    "description": "••para conectar los conductores mediante pinzas [2006.01]"
+  },
+  {
+    "code": "H01R 43/033",
+    "description": "••para bobinar o desenrollar las conexiones de hilos [2006.01]"
+  },
+  {
+    "code": "H01R 43/04",
+    "description": "••para establecer conexiones por deformación, p. ej. herramienta de doblado [2006.01]"
+  },
+  {
+    "code": "H01R 43/042",
+    "description": "••••Herramientas de mano para el engaste [2006.01]"
+  },
+  {
+    "code": "H01R 43/045",
+    "description": "••••••con mecanismo de alimentación de piezas de contacto [2006.01]"
+  },
+  {
+    "code": "H01R 43/048",
+    "description": "••••Aparatos o procedimientos de engaste (H01R 43/042 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01R 43/05",
+    "description": "••••••con pelado del aislamiento del hilo [2006.01]"
+  },
+  {
+    "code": "H01R 43/052",
+    "description": "••••••con mecanismo de alimentación de hilo [2006.01]"
+  },
+  {
+    "code": "H01R 43/055",
+    "description": "••••••con mecanismo de alimentación de piezas de contacto [2006.01]"
+  },
+  {
+    "code": "H01R 43/058",
+    "description": "••••Mandriles de engarce [2006.01]"
+  },
+  {
+    "code": "H01R 43/06",
+    "description": "••Fabricación de colectores [2006.01]"
+  },
+  {
+    "code": "H01R 43/08",
+    "description": "••••en los cuales los segmentos no son separados hasta después del montaje [2006.01]"
+  },
+  {
+    "code": "H01R 43/10",
+    "description": "••Fabricación de anillos colectores [2006.01]"
+  },
+  {
+    "code": "H01R 43/12",
+    "description": "••Fabricación de escobillas [2006.01]"
+  },
+  {
+    "code": "H01R 43/14",
+    "description": "••Mantenimiento de colectores de corriente, p. ej. cepillado de escobillas, limpieza de colectores [2006.01]"
+  },
+  {
+    "code": "H01R 43/16",
+    "description": "••para la fabricación de piezas de contacto, p. ej. por troquelado y plegado [2006.01]"
+  },
+  {
+    "code": "H01R 43/18",
+    "description": "••para la fabricación de bases o de cajas para piezas de contacto [2006.01]"
+  },
+  {
+    "code": "H01R 43/20",
+    "description": "••para unir las piezas de contacto con la base aislante, la caja o manguito o para separarlas [2006.01]"
+  },
+  {
+    "code": "H01R 43/22",
+    "description": "••••Herramientas de mano [2006.01]"
+  },
+  {
+    "code": "H01R 43/24",
+    "description": "••••Unión por moldeado sobre las piezas de contacto [2006.01]"
+  },
+  {
+    "code": "H01R 43/26",
+    "description": "••para acoplar o separar las dos piezas de un dispositivo de acoplamiento (asociación estructural con un dispositivo de acoplamiento H01R 13/629) [2006.01]"
+  },
+  {
+    "code": "H01R 43/28",
+    "description": "••para tratar el hilo antes de su conexión a las piezas de contacto, no previsto en los grupos H01R 43/02-H01R 43/26 [2006.01]"
+  },
+  {
+    "code": "H01R 101/00",
+    "description": "Un polo [2006.01]"
+  },
+  {
+    "code": "H01R 103/00",
+    "description": "Dos polos [2006.01]"
+  },
+  {
+    "code": "H01R 105/00",
+    "description": "Tres polos [2006.01]"
+  },
+  {
+    "code": "H01R 107/00",
+    "description": "Cuatro o más polos [2006.01]"
+  }
+]

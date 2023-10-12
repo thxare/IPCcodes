@@ -1,0 +1,2018 @@
+[
+  {
+    "code": "B65H 1/00",
+    "description": "Soportes o cargadores para pilas desde los cuales se van a separar los artículos (soportes utilizados para la unión, colocación o agrupado de artículos B65H 39/00; combinaciones de operaciones de apilado y desapilado de artículos que presentan otro interés que la operación individual de apilado o desapilado de artículos B65H 83/00) [2006.01]"
+  },
+  {
+    "code": "B65H 1/02",
+    "description": "••adaptados para soportar los artículos en el canto [2006.01]"
+  },
+  {
+    "code": "B65H 1/04",
+    "description": "••adaptados para soportar los artículos en posición sensiblemente horizontal, p. ej. para sacarlos partiendo de la parte superior de la pila [2006.01]"
+  },
+  {
+    "code": "B65H 1/06",
+    "description": "••••para sacarlos por la parte baja de la pila [2006.01]"
+  },
+  {
+    "code": "B65H 1/08",
+    "description": "••con medios para hacer avanzar la pila para presentar los artículos a un dispositivo de sacada (presionando sobre las pilas de las que deben ser sacadas los artículos, partiendo de la parte baja B65H 1/06) [2006.01]"
+  },
+  {
+    "code": "B65H 1/10",
+    "description": "••••que tienen pesos [2006.01]"
+  },
+  {
+    "code": "B65H 1/12",
+    "description": "••••que tienen resortes [2006.01]"
+  },
+  {
+    "code": "B65H 1/14",
+    "description": "••••que tienen dispositivos mecánicos de acción directa [2006.01]"
+  },
+  {
+    "code": "B65H 1/16",
+    "description": "••••que tienen medios neumáticos o hidráulicos [2006.01]"
+  },
+  {
+    "code": "B65H 1/18",
+    "description": "••••controlados por la altura de las pilas [2006.01]"
+  },
+  {
+    "code": "B65H 1/20",
+    "description": "••••controlados por el peso de las pilas; Dispositivos flotantes [2006.01]"
+  },
+  {
+    "code": "B65H 1/22",
+    "description": "••••desplazándose en el sentido del plano de los artículos, p. ej. para hacer avanzar en bloque pilas expuestas [2006.01]"
+  },
+  {
+    "code": "B65H 1/24",
+    "description": "••••con medios para permitir aliviar o controlar la presión de las pilas [2006.01]"
+  },
+  {
+    "code": "B65H 1/26",
+    "description": "••con soportes auxiliares para facilitar la introducción o el reemplazamiento de la pila [2006.01]"
+  },
+  {
+    "code": "B65H 1/28",
+    "description": "••con compartimientos para recibir las pilas una al lado de la otra [2006.01]"
+  },
+  {
+    "code": "B65H 1/30",
+    "description": "••con medios para rellenar la pila a medida que los artículos son sacados de forma continua [2006.01]"
+  },
+  {
+    "code": "B65H 3/00",
+    "description": "Sacado de artículos de las pilas (unión, colocación o agrupado de artículos B65H 39/00; máquinas para separar bandas superpuestas B65H 41/00; desapilado de material delgado combinado con el plegado B65H 45/26; combinaciones de operaciones de apilado y de sacado de artículos, presentando un interés distinto de la operación individual de apilado o de sacado B65H 83/00) [2006.01]"
+  },
+  {
+    "code": "B65H 3/02",
+    "description": "••utilizando fuerzas de fricción entre artículos y separador [2006.01]"
+  },
+  {
+    "code": "B65H 3/04",
+    "description": "••••Separadores de correa sin fin [2006.01]"
+  },
+  {
+    "code": "B65H 3/06",
+    "description": "••••Rodillos o separadores rotativos análogos [2006.01]"
+  },
+  {
+    "code": "B65H 3/08",
+    "description": "••que utilizan la fuerza neumática [2006.01]"
+  },
+  {
+    "code": "B65H 3/10",
+    "description": "••••Rodillos aspirantes [2006.01]"
+  },
+  {
+    "code": "B65H 3/12",
+    "description": "••••Bandas, correas o mesas aspirantes que se desplazan en relación a la pila [2006.01]"
+  },
+  {
+    "code": "B65H 3/14",
+    "description": "••••Chorros de aire que producen un vacío parcial [2006.01]"
+  },
+  {
+    "code": "B65H 3/16",
+    "description": "••utilizando la fuerza magnética [2006.01]"
+  },
+  {
+    "code": "B65H 3/18",
+    "description": "••utilizando la fuerza electrostática [2006.01]"
+  },
+  {
+    "code": "B65H 3/20",
+    "description": "••utilizando adhesivos [2006.01]"
+  },
+  {
+    "code": "B65H 3/22",
+    "description": "••por agujas o medios similares de código de artículos [2006.01]"
+  },
+  {
+    "code": "B65H 3/24",
+    "description": "••por empujadores en contacto con los bordes de los artículos [2006.01]"
+  },
+  {
+    "code": "B65H 3/26",
+    "description": "••por separadores en contacto con los pliegues, lengüetas o salientes de los artículos [2006.01]"
+  },
+  {
+    "code": "B65H 3/28",
+    "description": "••por tornillos o separadores similares [2006.01]"
+  },
+  {
+    "code": "B65H 3/30",
+    "description": "••por dispositivos de escape (tornillos o separadores similares B65H 3/28); a partir de pilas escalonadas; a partir de pilas de artículos que tienen elementos escalonados, p. ej. muescas o perforaciones [2006.01]"
+  },
+  {
+    "code": "B65H 3/32",
+    "description": "••por elementos, p. ej. dedos, placas, rodillos que pasan entre los artículos a sacar y el resto de la pila (tales elementos empleados solamente como dispositivos adicionales para ayudar a retirar o evitar la alimentación doble B65H 3/50) [2006.01]"
+  },
+  {
+    "code": "B65H 3/34",
+    "description": "••Dispositivos que retienen los artículos y controlan la liberación de artículos hacia los separadores [2006.01]"
+  },
+  {
+    "code": "B65H 3/36",
+    "description": "••por separadores que se desplazan según caminos especiales, p. ej. rodeando una zona [2006.01]"
+  },
+  {
+    "code": "B65H 3/38",
+    "description": "••••no rodeando una zona los caminos [2006.01]"
+  },
+  {
+    "code": "B65H 3/40",
+    "description": "••por dos o más separadores que actúan alternativamente sobre la misma pila (cuerpos rotativos u oscilantes que llevan dos o más separadores B65H 3/42) [2006.01]"
+  },
+  {
+    "code": "B65H 3/42",
+    "description": "••por dos o más separadores montados para desplazarse con cuerpos rotativos u oscilantes o relativamente en relación con esos cuerpos [2006.01]"
+  },
+  {
+    "code": "B65H 3/44",
+    "description": "••Sacado de artículos de dos o más pilas, simultánea, alternativa o selectivamente [2006.01]"
+  },
+  {
+    "code": "B65H 3/46",
+    "description": "••Aparatos o medidas suplementarias que ayudan al sacado o impiden una doble alimentación (dispositivos de control sensibles a la alimentación doble B65H 7/12) [2006.01]"
+  },
+  {
+    "code": "B65H 3/48",
+    "description": "••••Chorros de aire que actúan sobre los bordes o debajo de los artículos [2006.01]"
+  },
+  {
+    "code": "B65H 3/50",
+    "description": "••••Elementos, p. ej. dedos, placas, rodillos, que pasan entre los artículos a secar y el resto de la pila [2006.01]"
+  },
+  {
+    "code": "B65H 3/52",
+    "description": "••••Dispositivos de retención de fricción que actúan sobre los lados inferior o posterior de los artículos a secar [2006.01]"
+  },
+  {
+    "code": "B65H 3/54",
+    "description": "••••Aparatos para presionar o retener [2006.01]"
+  },
+  {
+    "code": "B65H 3/56",
+    "description": "••••Elementos, p. ej. rascadores, dedos, agujas, cepillos, que actúan sobre los artículos separados o sobre el canto de la pila [2006.01]"
+  },
+  {
+    "code": "B65H 3/58",
+    "description": "••••Artículos clavados, roscados, cementados o encolados para impedir la alimentación doble, p. ej. pilas de bordes encolados [2006.01]"
+  },
+  {
+    "code": "B65H 3/60",
+    "description": "••••Soltado de artículos, en las pilas [2006.01]"
+  },
+  {
+    "code": "B65H 3/62",
+    "description": "••••••balanceando, agitando o golpeando la pila [2006.01]"
+  },
+  {
+    "code": "B65H 3/64",
+    "description": "••••••por un dispositivo de vacío [2006.01]"
+  },
+  {
+    "code": "B65H 3/66",
+    "description": "••Guías o alisadoras para artículos, p. ej. desplazables durante el trabajo [2006.01]"
+  },
+  {
+    "code": "B65H 3/68",
+    "description": "••••fijos durante el trabajo [2006.01]"
+  },
+  {
+    "code": "B65H 5/00",
+    "description": "Transferencia de artículos sacados de las pilas; Alimentación de artículos a las máquinas (mecanismos o elementos idénticos para la libertad o progresión de artículos a la salida de las máquinas B65H 29/00; recirculación de artículos B65H 85/00) [2006.01]"
+  },
+  {
+    "code": "B65H 5/02",
+    "description": "••por correas o cadenas [2006.01]"
+  },
+  {
+    "code": "B65H 5/04",
+    "description": "••por mesas o carros móviles (tablas rotatorias B65H 5/18) [2006.01]"
+  },
+  {
+    "code": "B65H 5/06",
+    "description": "••por rodillos [2006.01]"
+  },
+  {
+    "code": "B65H 5/08",
+    "description": "••por pinzas, p. ej. pinzas de ventosas [2006.01]"
+  },
+  {
+    "code": "B65H 5/10",
+    "description": "••••Pinzas de movimiento oscilante o alternativo [2006.01]"
+  },
+  {
+    "code": "B65H 5/12",
+    "description": "••••Pinzas giratorias, p. ej. montadas sobre brazos, bastidores o cilindros [2006.01]"
+  },
+  {
+    "code": "B65H 5/14",
+    "description": "••••Detalles de pinzas; Mecanismos de accionamiento de ellas [2006.01]"
+  },
+  {
+    "code": "B65H 5/16",
+    "description": "••por dispositivos de pulsador, de agujas, de fricción o por dispositivos similares adaptados para alimentar artículos individuales a una superficie o a una mesa [2006.01]"
+  },
+  {
+    "code": "B65H 5/18",
+    "description": "••por cuadrantes o mesas rotatorias [2006.01]"
+  },
+  {
+    "code": "B65H 5/20",
+    "description": "••por rodillos de caída o dispositivos similares [2006.01]"
+  },
+  {
+    "code": "B65H 5/22",
+    "description": "••por chorro de aire o dispositivo aspirante (pinzas de ventosas B65H 5/08) [2006.01]"
+  },
+  {
+    "code": "B65H 5/24",
+    "description": "••Alimentación de corrientes de artículos superpuestos [2006.01]"
+  },
+  {
+    "code": "B65H 5/26",
+    "description": "••Alimentación duplicada, alternada, selectiva o asociada [2006.01]"
+  },
+  {
+    "code": "B65H 5/28",
+    "description": "••Alimentación de artículos almacenados en bandas enrolladas o plegadas [2006.01]"
+  },
+  {
+    "code": "B65H 5/30",
+    "description": "••Dispositivos de abertura para hojas o cuadernos plegados [2006.01]"
+  },
+  {
+    "code": "B65H 5/32",
+    "description": "••Pinzas en forma de silla sobre las que las hojas o cuadernos parcialmente desplegados son alimentados a las máquinas de ensamblar, agrupados, cosido de cuadernos o máquinas similares [2006.01]"
+  },
+  {
+    "code": "B65H 5/34",
+    "description": "••Variación de la fase de alimentación en relación con la máquina de recepción [2006.01]"
+  },
+  {
+    "code": "B65H 5/36",
+    "description": "••Guías o alisadores para artículos, p. ej. móviles durante el trabajo [2006.01]"
+  },
+  {
+    "code": "B65H 5/38",
+    "description": "••••fijos durante el trabajo [2006.01]"
+  },
+  {
+    "code": "B65H 7/00",
+    "description": "Control de la alimentación o la retirada de artículos, del avance de pilas o de aparatos asociados que permiten apreciar una alimentación incorrecta, una ausencia de artículos o la presencia de artículos defectuosos [2006.01]"
+  },
+  {
+    "code": "B65H 7/02",
+    "description": "••por palpadores o detectores [2006.01]"
+  },
+  {
+    "code": "B65H 7/04",
+    "description": "••••sensibles a la ausencia de artículos, p. ej. después de que se vacíe la pila (B65H 7/14 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B65H 7/06",
+    "description": "••••sensibles a la presencia de artículos defectuosos o separación o alimentación incorrectas (B65H 7/14 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B65H 7/08",
+    "description": "••••••sensibles a una mala identificación frontal [2006.01]"
+  },
+  {
+    "code": "B65H 7/10",
+    "description": "••••••con detectores sensibles a un mal marcado lateral (reglaje del posicionador transversal de la banda B65H 23/032) [2006.01]"
+  },
+  {
+    "code": "B65H 7/12",
+    "description": "••••••sensibles a una alimentación o sacado dobles [2006.01]"
+  },
+  {
+    "code": "B65H 7/14",
+    "description": "••••por palpadores o detectores fotoeléctricos [2006.01]"
+  },
+  {
+    "code": "B65H 7/16",
+    "description": "••Control de la llegada de aire a los separadores neumáticos [2006.01]"
+  },
+  {
+    "code": "B65H 7/18",
+    "description": "••Modificación o parada de la maniobra de los separadores [2006.01]"
+  },
+  {
+    "code": "B65H 7/20",
+    "description": "••Control de los aparatos asociados [2006.01]"
+  },
+  {
+    "code": "B65H 9/00",
+    "description": "Posicionado o artículo, p. ej. orientación; Dispositivos con este fin [2006.01]"
+  },
+  {
+    "code": "B65H 9/02",
+    "description": "••Chavetas de calibrado [2006.01]"
+  },
+  {
+    "code": "B65H 9/04",
+    "description": "••Topes o calibradores fijos o ajustables (chavetas de calibrado B65H 9/02) [2006.01]"
+  },
+  {
+    "code": "B65H 9/06",
+    "description": "••Topes o calibradores móviles, p. ej. topes frontales que se levantan y se bajan [2006.01]"
+  },
+  {
+    "code": "B65H 9/08",
+    "description": "••Dispositivos inmovilizadores, p. ej. dedos, agujas, dispositivos aspirantes, para retener los artículos en posición de referencia [2006.01]"
+  },
+  {
+    "code": "B65H 9/10",
+    "description": "••Pulsadores o posicionadores móviles análogos; Aparatos pulsadores o pinzas que desplazan los artículos en posición de referencia [2006.01]"
+  },
+  {
+    "code": "B65H 9/12",
+    "description": "••llevados por las pinzas de artículos [2006.01]"
+  },
+  {
+    "code": "B65H 9/14",
+    "description": "••Retardado o control del avance de los artículos cuando se acercan a los topes [2006.01]"
+  },
+  {
+    "code": "B65H 9/16",
+    "description": "••Banda inclinada, rodillo o posicionadores laterales análogos, que sirven para el avance de artículos [2006.01]"
+  },
+  {
+    "code": "B65H 9/18",
+    "description": "••Dispositivos de asistencia como reflectores, lentes, hojas transparentes o indicadores mecánicos [2006.01]"
+  },
+  {
+    "code": "B65H 9/20",
+    "description": "••Asistencia por indicadores fotoeléctricos, sonoros o neumáticos [2006.01]"
+  },
+  {
+    "code": "B65H 11/00",
+    "description": "Mesas de alimentación [2006.01]"
+  },
+  {
+    "code": "B65H 11/02",
+    "description": "••regulables angularmente en el plano de los artículos [2006.01]"
+  },
+  {
+    "code": "B65H 15/00",
+    "description": "Vuelco de artículos [2006.01]"
+  },
+  {
+    "code": "B65H 15/02",
+    "description": "••Vuelco de pilas [2006.01]"
+  },
+  {
+    "code": "B65H 16/00",
+    "description": "Desenrollado o devanado de bandas [2006.01]"
+  },
+  {
+    "code": "B65H 16/02",
+    "description": "••Soporte de la bobina [2006.01]"
+  },
+  {
+    "code": "B65H 16/04",
+    "description": "••••de tipo en voladizo [2006.01]"
+  },
+  {
+    "code": "B65H 16/06",
+    "description": "••••de tipo con dos extremos [2006.01]"
+  },
+  {
+    "code": "B65H 16/08",
+    "description": "••••de tipo con rodillos paralelos [2006.01]"
+  },
+  {
+    "code": "B65H 16/10",
+    "description": "••Disposiciones para accionar directamente la bobina [2006.01]"
+  },
+  {
+    "code": "B65H 18/00",
+    "description": "Enrollado de bandas [2006.01]"
+  },
+  {
+    "code": "B65H 18/02",
+    "description": "••Soporte de la bobina [2006.01]"
+  },
+  {
+    "code": "B65H 18/04",
+    "description": "••••por el interior [2006.01]"
+  },
+  {
+    "code": "B65H 18/06",
+    "description": "••••por un lado [2006.01]"
+  },
+  {
+    "code": "B65H 18/08",
+    "description": "••Mecanismos de enrollado de bandas [2006.01]"
+  },
+  {
+    "code": "B65H 18/10",
+    "description": "••••en los que la energía se aplica al huso de la bobina [2006.01]"
+  },
+  {
+    "code": "B65H 18/12",
+    "description": "••••••para hacer avanzar la banda a golpes [2006.01]"
+  },
+  {
+    "code": "B65H 18/14",
+    "description": "••••en los que la energía se aplica a la bobina, p. ej. para hacer avanzar la banda con movimiento continuo [2006.01]"
+  },
+  {
+    "code": "B65H 18/16",
+    "description": "••••••por un rodillo de fricción [2006.01]"
+  },
+  {
+    "code": "B65H 18/18",
+    "description": "••••••••para hacer avanzar la banda a golpes [2006.01]"
+  },
+  {
+    "code": "B65H 18/20",
+    "description": "••••••estando la bobina soportada por dos rodillos paralelos, de los cuales uno al menos está accionado [2006.01]"
+  },
+  {
+    "code": "B65H 18/22",
+    "description": "••••••por una banda de fricción [2006.01]"
+  },
+  {
+    "code": "B65H 18/24",
+    "description": "••••••••para hacer avanzar la banda a golpes [2006.01]"
+  },
+  {
+    "code": "B65H 18/26",
+    "description": "••••Mecanismos de control de la presión de contacto sobre el paquete de banda enrollada, p. ej. para regular la cantidad de aire entre capas [2006.01]"
+  },
+  {
+    "code": "B65H 18/28",
+    "description": "••Paquetes de banda enrollada [2006.01]"
+  },
+  {
+    "code": "B65H 19/00",
+    "description": "Cambio de la bobina [2006.01]"
+  },
+  {
+    "code": "B65H 19/10",
+    "description": "••en los mecanismos de desenrollado o en unión con las operaciones de desenrollado [2006.01]"
+  },
+  {
+    "code": "B65H 19/12",
+    "description": "••••Elevación, transporte o inserción de la bobina; Retirada del núcleo vacío [2006.01]"
+  },
+  {
+    "code": "B65H 19/14",
+    "description": "••••Acumulación de un exceso de banda para alimentar la máquina durante el cambio de bobina [2006.01]"
+  },
+  {
+    "code": "B65H 19/16",
+    "description": "••••Accionamiento, p. ej. acelerando, de la bobina de sustitución o correlación con la operación de empalme de la banda [2006.01]"
+  },
+  {
+    "code": "B65H 19/18",
+    "description": "••••Fijación, p. ej. por encolado, de la banda de sustitución con la que se termina [2006.01]"
+  },
+  {
+    "code": "B65H 19/20",
+    "description": "••••Corte de la banda que se termina [2006.01]"
+  },
+  {
+    "code": "B65H 19/22",
+    "description": "••en los mecanismos de enrollado o en unión con las operaciones de enrollado [2006.01]"
+  },
+  {
+    "code": "B65H 19/24",
+    "description": "••••Acumulación de un exceso de banda salido durante el cambio de banda [2006.01]"
+  },
+  {
+    "code": "B65H 19/26",
+    "description": "••••Corte de la banda sobre su trayecto hacia la bobina que se enrolla [2006.01]"
+  },
+  {
+    "code": "B65H 19/28",
+    "description": "••••Fijación del extremo de cabeza de la banda al núcleo o huso nuevo (núcleos, gálibos, soportes o piezas de sujeción, p. ej. carretes, con disposiciones para fijar las extremidades de material B65H 75/28) [2006.01]"
+  },
+  {
+    "code": "B65H 19/29",
+    "description": "••••Fijación del extremo libre de la banda enrollada a la bobina (núcleos, gálibos, soportes o piezas de sujeción, p. ej. carretes, con disposiciones para fijar las extremidades de material B65H 75/28) [2006.01]"
+  },
+  {
+    "code": "B65H 19/30",
+    "description": "••••Elevación, transporte o retirada de la bobina; Inserción del núcleo [2006.01]"
+  },
+  {
+    "code": "B65H 20/00",
+    "description": "Avance de bandas (Aparatos que entregan artículos y que llevan incorporados dispositivos para operaciones auxiliares B65H 35/00, B65H 37/00) [2006.01]"
+  },
+  {
+    "code": "B65H 20/02",
+    "description": "••por rodillos de fricción [2006.01]"
+  },
+  {
+    "code": "B65H 20/04",
+    "description": "••••para hacer avanzar la banda a golpes [2006.01]"
+  },
+  {
+    "code": "B65H 20/06",
+    "description": "••por una banda de fricción [2006.01]"
+  },
+  {
+    "code": "B65H 20/08",
+    "description": "••••para hacer avanzar la banda a golpes [2006.01]"
+  },
+  {
+    "code": "B65H 20/10",
+    "description": "••por una banda de alimentación contra la que se mantiene la banda por presión de fluido, p. ej. por aspiración o chorro de aire [2006.01]"
+  },
+  {
+    "code": "B65H 20/12",
+    "description": "••por un rodillo aspirante [2006.01]"
+  },
+  {
+    "code": "B65H 20/14",
+    "description": "••por acción directa de un fluido móvil sobre la banda [2006.01]"
+  },
+  {
+    "code": "B65H 20/16",
+    "description": "••por medios de agarre de la banda, p. ej. de pinzas, grapas o argollas [2006.01]"
+  },
+  {
+    "code": "B65H 20/18",
+    "description": "••••para hacer avanzar la banda a golpes [2006.01]"
+  },
+  {
+    "code": "B65H 20/20",
+    "description": "••por medios que penetran en la banda, p. ej. púas [2006.01]"
+  },
+  {
+    "code": "B65H 20/22",
+    "description": "••••para hacer avanzar la banda a golpes [2006.01]"
+  },
+  {
+    "code": "B65H 20/24",
+    "description": "••por dispositivos en bucles, anillo o similares [2006.01]"
+  },
+  {
+    "code": "B65H 20/26",
+    "description": "••Mecanismos para hacer avanzar las bandas hacia las bobinas o desde el interior de ellas [2006.01]"
+  },
+  {
+    "code": "B65H 20/28",
+    "description": "••Mecanismos para entregar las bandas en capas dobladas superpuestas y realimentar a partir del extremo inferior de las uniones de capas dobladas [2006.01]"
+  },
+  {
+    "code": "B65H 20/30",
+    "description": "••Disposiciones para acumular un exceso de banda (durante el cambio de bobina B65H 19/14, B65H 19/24) [2006.01]"
+  },
+  {
+    "code": "B65H 20/32",
+    "description": "••••para la formación de bucles [2006.01]"
+  },
+  {
+    "code": "B65H 20/34",
+    "description": "••••••por medio de rodillos [2006.01]"
+  },
+  {
+    "code": "B65H 20/36",
+    "description": "••Medios para hacer avanzar a voluntad la banda longitudinalmente en un sentido o en otro [2006.01]"
+  },
+  {
+    "code": "B65H 20/38",
+    "description": "••••para cambiar el sentido del mecanismo que acciona el huso de la bobina [2006.01]"
+  },
+  {
+    "code": "B65H 20/40",
+    "description": "••••para cambiar el sentido del mecanismo que acciona el rodillo que presiona [2006.01]"
+  },
+  {
+    "code": "B65H 21/00",
+    "description": "Aparatos para enlazar las bandas (durante el cambio de bobina B65H 19/00; asociando dos o más bandas B65H 39/16) [2006.01]"
+  },
+  {
+    "code": "B65H 21/02",
+    "description": "••para las bandas previamente marcadas, p. ej. previamente impresas [2006.01]"
+  },
+  {
+    "code": "B65H 23/00",
+    "description": "Posicionado, tensión, supresión de tirones o guiado de bandas (posicionado de artículos B65H 9/00; en conexión con el empalme B65H 21/00; dispositivos generales de tensión en unión con la manipulación de bandas, cintas o materiales filiformes B65H 77/00) [2006.01]"
+  },
+  {
+    "code": "B65H 23/02",
+    "description": "••transversal (por aparatos de estirado, pinzas o dispositivos similares que operan sobre bandas de tejido D06C) [2006.01]"
+  },
+  {
+    "code": "B65H 23/022",
+    "description": "••••por dispositivos estiradores [2006.01]"
+  },
+  {
+    "code": "B65H 23/025",
+    "description": "••••••por rodillos [2006.01]"
+  },
+  {
+    "code": "B65H 23/028",
+    "description": "••••••por pinzas [2006.01]"
+  },
+  {
+    "code": "B65H 23/032",
+    "description": "••••Control de la posición transversal de la banda [2006.01]"
+  },
+  {
+    "code": "B65H 23/035",
+    "description": "••••••por barras de guiado [2006.01]"
+  },
+  {
+    "code": "B65H 23/038",
+    "description": "••••••por rodillos [2006.01]"
+  },
+  {
+    "code": "B65H 23/04",
+    "description": "••longitudinal [2006.01]"
+  },
+  {
+    "code": "B65H 23/06",
+    "description": "••••por dispositivos de retardado, p. ej. que actúan sobre el huso de la bobina [2006.01]"
+  },
+  {
+    "code": "B65H 23/08",
+    "description": "••••••que actúan sobre la bobina durante el desenrollado [2006.01]"
+  },
+  {
+    "code": "B65H 23/10",
+    "description": "••••••que actúan sobre la banda en marcha (retardadores de aspiración B65H 23/24) [2006.01]"
+  },
+  {
+    "code": "B65H 23/12",
+    "description": "••••••••y accionando el desplazamiento de partes de ésta en sentidos opuestos con enlace por fricción [2006.01]"
+  },
+  {
+    "code": "B65H 23/14",
+    "description": "••••••••Rodillos de tensión que aplican fuerzas de frenado [2006.01]"
+  },
+  {
+    "code": "B65H 23/16",
+    "description": "••••por barras o rodillos móviles cargados de peso o de resorte [2006.01]"
+  },
+  {
+    "code": "B65H 23/18",
+    "description": "••••controlando o regulando el mecanismo de avance de la banda, p. ej. mecanismo que actúa sobre la banda que corre [2006.01]"
+  },
+  {
+    "code": "B65H 23/182",
+    "description": "••••••en los mecanismos de desenrollado o en unión con las operaciones de desenrollado [2006.01]"
+  },
+  {
+    "code": "B65H 23/185",
+    "description": "••••••••con control por motor [2006.01]"
+  },
+  {
+    "code": "B65H 23/188",
+    "description": "••••••en unión con la banda que corre [2006.01]"
+  },
+  {
+    "code": "B65H 23/192",
+    "description": "••••••••con control por motor [2006.01]"
+  },
+  {
+    "code": "B65H 23/195",
+    "description": "••••••en los mecanismos de enrollado o en unión con las operaciones de enrollado [2006.01]"
+  },
+  {
+    "code": "B65H 23/198",
+    "description": "••••••••con control por motor [2006.01]"
+  },
+  {
+    "code": "B65H 23/24",
+    "description": "••••por acción de un fluido, p. ej. para retardar la banda en marcha [2006.01]"
+  },
+  {
+    "code": "B65H 23/26",
+    "description": "••••por barras o rodillos transversales fijos o regulables [2006.01]"
+  },
+  {
+    "code": "B65H 23/28",
+    "description": "••••por tiras, tubos, placas o alambres dispuestos, en sentido longitudinal (cintas o correas flexibles B65H 23/30) [2006.01]"
+  },
+  {
+    "code": "B65H 23/30",
+    "description": "••••por cintas o correas flexibles, dispuestas en sentido longitudinal [2006.01]"
+  },
+  {
+    "code": "B65H 23/32",
+    "description": "••••Disposiciones para girar o invertir las bandas [2006.01]"
+  },
+  {
+    "code": "B65H 23/34",
+    "description": "••••Aparatos para suprimir la torsión de las bandas [2006.01]"
+  },
+  {
+    "code": "B65H 26/00",
+    "description": "Dispositivos de seguridad o aviso, p. ej. detectores automáticos de defectos, mecanismos de parada, para mecanismos de avance de bandas (dispositivos de seguridad en general F16P; investigación de las propiedades físicas o químicas de los materiales en general G01N; dispositivos indicadores en general G08B) [2006.01]"
+  },
+  {
+    "code": "B65H 26/02",
+    "description": "••que responden a la presencia de irregularidades en la banda que corre [2006.01]"
+  },
+  {
+    "code": "B65H 26/04",
+    "description": "••••a la variación de la tensión [2006.01]"
+  },
+  {
+    "code": "B65H 26/06",
+    "description": "••que responden a longitudes predeterminadas de bandas [2006.01]"
+  },
+  {
+    "code": "B65H 26/08",
+    "description": "••que responden a un diámetro predeterminado [2006.01]"
+  },
+  {
+    "code": "B65H 27/00",
+    "description": "Estructuras particulares, p. ej. características de superficie,de rodillos de alimentación o de guiado de bandas (rodillos en general F16C 13/00) [2006.01]"
+  },
+  {
+    "code": "B65H 29/00",
+    "description": "Entrega o avance de los artículos a la salida de las máquinas; Avance de los artículos hacia las pilas o cuando ya están en ellas (unión, colocación o agrupación de artículos B65H 39/00; combinaciones de operaciones de apilado y de sacado de artículos que presentan otro interés que la operación individual de apilado o de sacado de artículos B65H 83/00; recirculación de artículos B65H 85/00; para artículos que no están definidos por la nota (3) (i) de la presente subclase, ver\n\t\t\t\t\t\t\t\t\tB65G) [2006.01]"
+  },
+  {
+    "code": "B65H 29/02",
+    "description": "••por pinzas mecánicas solamente en contacto con el borde de ataque de los artículos [2006.01]"
+  },
+  {
+    "code": "B65H 29/04",
+    "description": "••••siendo llevadas las pinzas por cadenas o correas sin fin [2006.01]"
+  },
+  {
+    "code": "B65H 29/06",
+    "description": "••••siendo llevadas las pinzas por elementos rotatorios [2006.01]"
+  },
+  {
+    "code": "B65H 29/08",
+    "description": "••••oscilando las pinzas en arcos de círculo [2006.01]"
+  },
+  {
+    "code": "B65H 29/10",
+    "description": "••••estando las pinzas animadas de un movimiento alternativo según una trayectoria rectilínea [2006.01]"
+  },
+  {
+    "code": "B65H 29/12",
+    "description": "••por medio del estrechamiento entre dos cintas o correas móviles, o entre dos juegos de cintas o correas [2006.01]"
+  },
+  {
+    "code": "B65H 29/14",
+    "description": "••••y que introducen los artículos en una pila [2006.01]"
+  },
+  {
+    "code": "B65H 29/16",
+    "description": "••por contacto de una cara únicamente de las cintas, correas o cadenas móviles [2006.01]"
+  },
+  {
+    "code": "B65H 29/18",
+    "description": "••••y que introducen los artículos en una pila [2006.01]"
+  },
+  {
+    "code": "B65H 29/20",
+    "description": "••por contacto con elementos rotatorios de fricción, p. ej. rodillos, cepillos o cilindros [2006.01]"
+  },
+  {
+    "code": "B65H 29/22",
+    "description": "••••y que introducen los artículos en una pila [2006.01]"
+  },
+  {
+    "code": "B65H 29/24",
+    "description": "••por aparato de chorro de aire o que aspira (con caída de artículos de transportadores aspirantes B65H 29/32) [2006.01]"
+  },
+  {
+    "code": "B65H 29/26",
+    "description": "••por caída [2006.01]"
+  },
+  {
+    "code": "B65H 29/28",
+    "description": "••••a partir de pinzas mecánicas (pinzas en contacto únicamente con el borde de ataque B65H 29/02) [2006.01]"
+  },
+  {
+    "code": "B65H 29/30",
+    "description": "••••a partir de dispositivos portadores magnéticos [2006.01]"
+  },
+  {
+    "code": "B65H 29/32",
+    "description": "••••a partir de transportadores neumáticos, p. ej. aspirantes [2006.01]"
+  },
+  {
+    "code": "B65H 29/34",
+    "description": "••••a partir de soportes deslizados bajo los artículos [2006.01]"
+  },
+  {
+    "code": "B65H 29/36",
+    "description": "••••a partir de cintas, correas o rodillos que ruedan bajo los artículos [2006.01]"
+  },
+  {
+    "code": "B65H 29/38",
+    "description": "••por brazos, bastidores, placas o elementos análogos móviles que efectúan una operación de apilado o de avance y con los cuales la parte delantera de los artículos se mantienen en contacto [2006.01]"
+  },
+  {
+    "code": "B65H 29/40",
+    "description": "••••Elementos que giran alrededor de un eje perpendicular al sentido del desplazamiento de los artículos, p. ej. crucetas formadas por elementos en S [2006.01]"
+  },
+  {
+    "code": "B65H 29/42",
+    "description": "••••Elementos que giran alrededor de un eje paralelo al sentido del desplazamiento de los artículos, p. ej. hélices [2006.01]"
+  },
+  {
+    "code": "B65H 29/44",
+    "description": "••••Elementos oscilantes en arcos de círculo [2006.01]"
+  },
+  {
+    "code": "B65H 29/46",
+    "description": "••••Elementos animados de un movimiento alternativo según una trayectoria rectilínea [2006.01]"
+  },
+  {
+    "code": "B65H 29/48",
+    "description": "••por mesas dispuestas para ser basculados a fin de hacer deslizar los artículos [2006.01]"
+  },
+  {
+    "code": "B65H 29/50",
+    "description": "••Aparatos de apilado cuyo punto de descarga se desplaza en función de la altura de la pila [2006.01]"
+  },
+  {
+    "code": "B65H 29/51",
+    "description": "••••Apilado por reagrupamiento en la periferia de cilindros [2006.01]"
+  },
+  {
+    "code": "B65H 29/52",
+    "description": "••Guías o alisadores fijos [2006.01]"
+  },
+  {
+    "code": "B65H 29/54",
+    "description": "••Separadores de artículos, p. ej. desde los elementos que avanzan [2006.01]"
+  },
+  {
+    "code": "B65H 29/56",
+    "description": "••••para separar a partir de órganos de máquinas [2006.01]"
+  },
+  {
+    "code": "B65H 29/58",
+    "description": "••Guardagujas o desviadores de artículos [2006.01]"
+  },
+  {
+    "code": "B65H 29/60",
+    "description": "••••para desviar el paso en las vías alternadas (B65H 29/62 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B65H 29/62",
+    "description": "••••para desviar los artículos defectuosos de las vías de paso principales (dispositivos de control que detectan los artículos defectuosos B65H 43/04) [2006.01]"
+  },
+  {
+    "code": "B65H 29/64",
+    "description": "••••para dirigir los componentes de artículos compuestas en vías separadas [2006.01]"
+  },
+  {
+    "code": "B65H 29/66",
+    "description": "••Adelantos o avances en corrientes de artículos superpuestos [2006.01]"
+  },
+  {
+    "code": "B65H 29/68",
+    "description": "••Reducción de la velocidad de artículos en movimientos (dispositivos de retardado de bandas B65H 23/06) [2006.01]"
+  },
+  {
+    "code": "B65H 29/70",
+    "description": "••Plegado o enderezado de artículos [2006.01]"
+  },
+  {
+    "code": "B65H 31/00",
+    "description": "Receptores de pilas (soportes utilizados para unión, colocación o agrupación de artículos B65H 39/00; combinaciones de operaciones de apilado y de sacado de artículos que presentan otro interés que la operación individual de apilado o de sacado de artículos B65H 83/00) [2006.01]"
+  },
+  {
+    "code": "B65H 31/02",
+    "description": "••con soporte de extremo fijo contra el que se amontona la pila [2006.01]"
+  },
+  {
+    "code": "B65H 31/04",
+    "description": "••con soporte de extremo móvil dispuesto para recular a medida que la pila se forme [2006.01]"
+  },
+  {
+    "code": "B65H 31/06",
+    "description": "••••siendo apilados los artículos de canto [2006.01]"
+  },
+  {
+    "code": "B65H 31/08",
+    "description": "••••siendo apilados unos contra otros [2006.01]"
+  },
+  {
+    "code": "B65H 31/10",
+    "description": "••••••y por la parte superior de la pila [2006.01]"
+  },
+  {
+    "code": "B65H 31/12",
+    "description": "••••Dispositivos para aligerar el peso de la pila o permitir desplazar el soporte de extremidad de la pila durante el apilado [2006.01]"
+  },
+  {
+    "code": "B65H 31/14",
+    "description": "••••••Resortes (resortes de fluido B65H 31/16) [2006.01]"
+  },
+  {
+    "code": "B65H 31/16",
+    "description": "••••••Dispositivos de presión de fluido [2006.01]"
+  },
+  {
+    "code": "B65H 31/18",
+    "description": "••••••Dispositivos mecánicos de acción directa [2006.01]"
+  },
+  {
+    "code": "B65H 31/20",
+    "description": "••regulables para diversas dimensiones de artículos [2006.01]"
+  },
+  {
+    "code": "B65H 31/22",
+    "description": "••desmontables o intercambiables [2006.01]"
+  },
+  {
+    "code": "B65H 31/24",
+    "description": "••múltiples o en compartimientos, p. ej. para llenado alternado, programado o selectivo [2006.01]"
+  },
+  {
+    "code": "B65H 31/26",
+    "description": "••Dispositivos auxiliares para retener los artículos en la pila [2006.01]"
+  },
+  {
+    "code": "B65H 31/28",
+    "description": "••Correas, cadenas o dispositivos de recepción móviles análogos (para artículos apilados de canto B65H 31/06) [2006.01]"
+  },
+  {
+    "code": "B65H 31/30",
+    "description": "••Disposiciones para quitar las pilas completadas (correa, cadena o dispositivos de recepción móviles análogos B65H 31/28) [2006.01]"
+  },
+  {
+    "code": "B65H 31/32",
+    "description": "••Dispositivos auxiliares para recibir los artículos durante la evacuación de una pila completada [2006.01]"
+  },
+  {
+    "code": "B65H 31/34",
+    "description": "••Dispositivos para alinear los artículos apilados [2006.01]"
+  },
+  {
+    "code": "B65H 31/36",
+    "description": "••••Dispositivos auxiliares para poner en contacto cada artículo con un tope a medida que es apilado [2006.01]"
+  },
+  {
+    "code": "B65H 31/38",
+    "description": "••••Aparatos para vibrar o para golpear la pila durante el apilado [2006.01]"
+  },
+  {
+    "code": "B65H 31/40",
+    "description": "••••Aparatos de recepción, cangilones o dispositivos análogos separados, para disponer las pilas completadas golpeándolos [2006.01]"
+  },
+  {
+    "code": "B65H 33/00",
+    "description": "Formación de lotes contados en las pilas o en la corriente de entrega de artículos [2006.01]"
+  },
+  {
+    "code": "B65H 33/02",
+    "description": "••desplazando una lámina o pieza análoga en la pila [2006.01]"
+  },
+  {
+    "code": "B65H 33/04",
+    "description": "••introduciendo fichas de marcado en la pila o en la corriente de entrega [2006.01]"
+  },
+  {
+    "code": "B65H 33/06",
+    "description": "••desplazando los artículos para determinar los lotes [2006.01]"
+  },
+  {
+    "code": "B65H 33/08",
+    "description": "••••Desplazamiento de lotes enteros, p. ej. formando pilas escalonadas [2006.01]"
+  },
+  {
+    "code": "B65H 33/10",
+    "description": "••••Desplazamiento de los últimos artículos de un lote [2006.01]"
+  },
+  {
+    "code": "B65H 33/12",
+    "description": "••creando intervalos en la corriente de entrega [2006.01]"
+  },
+  {
+    "code": "B65H 33/14",
+    "description": "••haciendo desviar los lotes hacia los aparatos separados de recepción [2006.01]"
+  },
+  {
+    "code": "B65H 33/16",
+    "description": "••depositando los artículos en lotes sobre soportes móviles [2006.01]"
+  },
+  {
+    "code": "B65H 33/18",
+    "description": "••••con separadores entre lotes adyacentes [2006.01]"
+  },
+  {
+    "code": "B65H 35/00",
+    "description": "Entrega de artículos desde máquinas de corte o de perforación lineal; Aparatos que entregan artículos y que llevan incorporados dispositivos de corte o de perforación lineal, p. ej. distribuidores de cinta adhesiva (máquinas o dispositivos de corte o de perforación en general B26D, B26F) [2006.01]"
+  },
+  {
+    "code": "B65H 35/02",
+    "description": "••desde cortadores o perforadores longitudinales o con estos aparatos [2006.01]"
+  },
+  {
+    "code": "B65H 35/04",
+    "description": "••desde cortadores o perforadores transversales o con estos aparatos [2006.01]"
+  },
+  {
+    "code": "B65H 35/06",
+    "description": "••••desde cortadores o perforados de cuchilla, p. ej. cuchillas de cizallamiento, o con estos aparatos (con cuchillas rotativas B65H 35/08) [2006.01]"
+  },
+  {
+    "code": "B65H 35/07",
+    "description": "••••••Distribuidores de cinta adhesiva [2006.01]"
+  },
+  {
+    "code": "B65H 35/08",
+    "description": "••••desde cortadores o perforadores rotativos, p. ej. con cilindros o con estos aparatos [2006.01]"
+  },
+  {
+    "code": "B65H 35/10",
+    "description": "••desde o con dispositivos para romper cintas parcialmente cortadas o perforador, p. ej. rompedores [2006.01]"
+  },
+  {
+    "code": "B65H 37/00",
+    "description": "Aparatos que entregan artículos o bandas, que tienen dispositivos para ejecutar operaciones auxiliares especiales (que tienen dispositivos de corte o de perforaciones lineales B65H 35/00) [2006.01]"
+  },
+  {
+    "code": "B65H 37/02",
+    "description": "••para aplicar adhesivos (y fijarlos juntos B65H 37/04) [2006.01]"
+  },
+  {
+    "code": "B65H 37/04",
+    "description": "••para fijar juntos artículos o bandas, p. ej. por adhesivos, cosido o grapado (fijación de una banda de reemplazamiento a otra durante el cambio de bobina B65H 19/18) [2006.01]"
+  },
+  {
+    "code": "B65H 37/06",
+    "description": "••para plegar [2006.01]"
+  },
+  {
+    "code": "B65H 39/00",
+    "description": "Unión, colocación o agrupación de artículos o bandas (combinaciones de operaciones de apilado y de sacado de artículos que presentan otro interés que la operación individual de apilado o de sacado de artículos B65H 83/00; máquinas para colocar y agrupar a la vez y fijar de forma permanente hojas o cuadernos B42C 1/00) [2006.01]"
+  },
+  {
+    "code": "B65H 39/02",
+    "description": "••Unión, colocación o agrupamiento de artículos desde diversas fuentes [2006.01]"
+  },
+  {
+    "code": "B65H 39/04",
+    "description": "••••desde pilas [2006.01]"
+  },
+  {
+    "code": "B65H 39/041",
+    "description": "••••••estando las pilas situadas en soportes rotativos [2006.01]"
+  },
+  {
+    "code": "B65H 39/042",
+    "description": "••••••estando las pilas situadas en soportes superpuestos [2006.01]"
+  },
+  {
+    "code": "B65H 39/043",
+    "description": "••••••estando las pilas situadas en soportes yuxtapuestos [2006.01]"
+  },
+  {
+    "code": "B65H 39/045",
+    "description": "••••••por colocación en soportes rotativos [2006.01]"
+  },
+  {
+    "code": "B65H 39/05",
+    "description": "••••••por colocación en soportes superpuestos [2006.01]"
+  },
+  {
+    "code": "B65H 39/055",
+    "description": "••••••por colocación en soportes yuxtapuestos [2006.01]"
+  },
+  {
+    "code": "B65H 39/06",
+    "description": "••••desde corrientes de entrega [2006.01]"
+  },
+  {
+    "code": "B65H 39/065",
+    "description": "••••••por colocación en soportes rotativos [2006.01]"
+  },
+  {
+    "code": "B65H 39/07",
+    "description": "••••••por colocación en soportes superpuestos [2006.01]"
+  },
+  {
+    "code": "B65H 39/075",
+    "description": "••••••por colocación en soportes yuxtapuestos [2006.01]"
+  },
+  {
+    "code": "B65H 39/10",
+    "description": "••Unión de artículos que provienen de una sola fuente, p. ej. para formar un bloc de escribir [2006.01]"
+  },
+  {
+    "code": "B65H 39/105",
+    "description": "••••en soportes rotativos [2006.01]"
+  },
+  {
+    "code": "B65H 39/11",
+    "description": "••••en soportes superpuestos [2006.01]"
+  },
+  {
+    "code": "B65H 39/115",
+    "description": "••••en soportes yuxtapuestos [2006.01]"
+  },
+  {
+    "code": "B65H 39/14",
+    "description": "••Unión de hojas con bandas [2006.01]"
+  },
+  {
+    "code": "B65H 39/16",
+    "description": "••Unión de dos o más bandas [2006.01]"
+  },
+  {
+    "code": "B65H 41/00",
+    "description": "Máquinas para separar bandas superpuestas [2006.01]"
+  },
+  {
+    "code": "B65H 43/00",
+    "description": "Utilización de dispositivos de control, de verificación o de seguridad, p. ej. dispositivos automáticos que tienen un elemento para detectar una variable [2006.01]"
+  },
+  {
+    "code": "B65H 43/02",
+    "description": "••que detectan o reaccionan ante la ausencia de artículos (B65H 43/08 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B65H 43/04",
+    "description": "••que detectan o reaccionan ante la presencia de artículos defectuosos (B65H 43/08 tiene prioridad; desviación de artículos defectuosos fuera de las vías principales B65H 29/62) [2006.01]"
+  },
+  {
+    "code": "B65H 43/06",
+    "description": "••que detectan o reaccionan ante la culminación de la pila (B65H 43/08 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B65H 43/08",
+    "description": "••Dispositivos fotoeléctricos [2006.01]"
+  },
+  {
+    "code": "B65H 45/00",
+    "description": "Plegado de materiales delgados (especialmente concebidos para la fabricación o el tratamiento de productos especiales, ver las entradas apropiadas, p. ej. D06F 89/00) [2006.01]"
+  },
+  {
+    "code": "B65H 45/02",
+    "description": "••Plegado de materiales flexibles, sin ejercer presión, para determinar o formar líneas de pliegue (enrollado o desenrollado de tejidos para alimentación de máquinas B65H 16/00-B65H 27/00; plegado de ropa con fines de embalaje B65B; plegado de tejidos en las máquinas de coser D05B) [2006.01]"
+  },
+  {
+    "code": "B65H 45/04",
+    "description": "••••Plegado de hojas [2006.01]"
+  },
+  {
+    "code": "B65H 45/06",
+    "description": "••••Plegado de bandas (B65H 20/28 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B65H 45/08",
+    "description": "••••••longitudinalmente [2006.01]"
+  },
+  {
+    "code": "B65H 45/09",
+    "description": "••••••••doblando, es decir, plegando la mitad del ancho [2006.01]"
+  },
+  {
+    "code": "B65H 45/10",
+    "description": "••••••transversalmente [2006.01]"
+  },
+  {
+    "code": "B65H 45/101",
+    "description": "••••••••en combinación con la colocación en capas, es decir, formando una pila en acordeón [2006.01]"
+  },
+  {
+    "code": "B65H 45/103",
+    "description": "••••••••••por carrito de movimiento alternativo que actúa encima del puesto de colocación en capas [2006.01]"
+  },
+  {
+    "code": "B65H 45/105",
+    "description": "••••••••••••en coordinación con sujetadores [2006.01]"
+  },
+  {
+    "code": "B65H 45/107",
+    "description": "••••••••••por medio de barras de guiado de balanceo o de movimiento alternativo [2006.01]"
+  },
+  {
+    "code": "B65H 45/109",
+    "description": "••••••••Registro o contado de pliegues; Detección de irregularidades en el pliegue en acordeón [2006.01]"
+  },
+  {
+    "code": "B65H 45/12",
+    "description": "••Plegado de artículos o bandas que ejercen una presión para determinar o formar líneas de pliegues (B65H 20/28 tiene prioridad; plisado, estampado o encañonado de tejidos D06J) [2006.01]"
+  },
+  {
+    "code": "B65H 45/14",
+    "description": "••••Plegadoras que actúan como horquillas [2006.01]"
+  },
+  {
+    "code": "B65H 45/16",
+    "description": "••••Plegadoras rotativas [2006.01]"
+  },
+  {
+    "code": "B65H 45/18",
+    "description": "••••Plegadoras de lámina de movimiento oscilante o alternativo (llevadas sobre elementos rotatorios B65H 45/16) [2006.01]"
+  },
+  {
+    "code": "B65H 45/20",
+    "description": "••••Plegadoras en acordeón o zigzag [2006.01]"
+  },
+  {
+    "code": "B65H 45/22",
+    "description": "••••Plegadoras longitudinales, es decir, para plegar los materiales en hoja paralelamente al sentido del desplazamiento [2006.01]"
+  },
+  {
+    "code": "B65H 45/24",
+    "description": "••••Interposición de hojas de pliegues, p. ej. papel de cigarrillos o papel higiénico [2006.01]"
+  },
+  {
+    "code": "B65H 45/26",
+    "description": "••••Plegado combinado con el desapilado (desapilado B65H 3/00) [2006.01]"
+  },
+  {
+    "code": "B65H 45/28",
+    "description": "••••Plegado combinado con el cortado (máquinas cortadoras B26D) [2006.01]"
+  },
+  {
+    "code": "B65H 45/30",
+    "description": "••••Plegado combinado con el plisado, el alisado o la aplicación de adhesivos (plegado o aplicación de adhesivos en el momento de la entrega de artículos o bandas B65H 37/00) [2006.01]"
+  },
+  {
+    "code": "B65H 47/00",
+    "description": "Desplegado de materiales delgados y flexibles (B65H 20/28 tiene prioridad; dispositivos de apertura para hojas o cuadernos B65H 5/30) [2006.01]"
+  },
+  {
+    "code": "B65H 49/00",
+    "description": "Desenrollado o desbobinado de material filiforme; Soporte, almacenamiento o transporte de paquete cuyo material filiforme debe ser estirado o desbobinado (enrollado B65H 54/00; aletas de bancos de husos u otras guías que ayudan al devanado B65H 57/00; bobinas, tubos u otros mandriles para paquetes B65H 75/00) [2006.01]"
+  },
+  {
+    "code": "B65H 49/02",
+    "description": "••Procesos o aparatos en los que no giran los paquetes [2006.01]"
+  },
+  {
+    "code": "B65H 49/04",
+    "description": "••••Dispositivos que soportan los paquetes [2006.01]"
+  },
+  {
+    "code": "B65H 49/06",
+    "description": "••••••para un solo paquete en acción [2006.01]"
+  },
+  {
+    "code": "B65H 49/08",
+    "description": "••••••••que encierran el paquete [2006.01]"
+  },
+  {
+    "code": "B65H 49/10",
+    "description": "••••••para un paquete en acción y uno más en reserva [2006.01]"
+  },
+  {
+    "code": "B65H 49/12",
+    "description": "••••••••siendo montados los paquetes de reserva para permitir una transferencia manual o automática a la posición de trabajo [2006.01]"
+  },
+  {
+    "code": "B65H 49/14",
+    "description": "••••••para varios paquetes en acción [2006.01]"
+  },
+  {
+    "code": "B65H 49/16",
+    "description": "••••••••Soportes o marcos [2006.01]"
+  },
+  {
+    "code": "B65H 49/18",
+    "description": "••Procesos o aparatos en los que giran los paquetes, (soportes o sujetadores para almacenar, devanar y reenrollar de forma repetida de longitudes de material previstos con fines especiales B65H 75/34) [2006.01]"
+  },
+  {
+    "code": "B65H 49/20",
+    "description": "••••Dispositivos que soportan los paquetes [2006.01]"
+  },
+  {
+    "code": "B65H 49/22",
+    "description": "••••••Dispositivos de suspensión aéreos [2006.01]"
+  },
+  {
+    "code": "B65H 49/24",
+    "description": "••••••Rodillos [2006.01]"
+  },
+  {
+    "code": "B65H 49/26",
+    "description": "••••••Ejes o husos axiales [2006.01]"
+  },
+  {
+    "code": "B65H 49/28",
+    "description": "••••••Mesas giratorias [2006.01]"
+  },
+  {
+    "code": "B65H 49/30",
+    "description": "••••••Sujetadores de madejas y portamadejas [2006.01]"
+  },
+  {
+    "code": "B65H 49/32",
+    "description": "••••••Soportes o marcos [2006.01]"
+  },
+  {
+    "code": "B65H 49/34",
+    "description": "••••Disposiciones para la rotación controlada de paquetes [2006.01]"
+  },
+  {
+    "code": "B65H 49/36",
+    "description": "••Fijación de paquetes a los dispositivos de soporte (reemplazamiento o sacado de núcleos, receptáculos o paquetes acabados en los puestos de desbobinado, de enrollado o de almacenado B65H 67/00) [2006.01]"
+  },
+  {
+    "code": "B65H 49/38",
+    "description": "••Vagonetas, cabinas, estantes o receptáculos adaptados únicamente para el transporte o el almacenamiento de bobinas, canillas, o piezas análogas [2006.01]"
+  },
+  {
+    "code": "B65H 51/00",
+    "description": "Avance del material filiforme (procesos de hilado por estirado D01D 5/12; estirado de mechas o elementos análogos D01H 5/00) [2006.01]"
+  },
+  {
+    "code": "B65H 51/005",
+    "description": "••Separación en varios grupos de un haz de materiales filiformes deshilantes [2006.01]"
+  },
+  {
+    "code": "B65H 51/01",
+    "description": "••••por medio de electricidad estática [2006.01]"
+  },
+  {
+    "code": "B65H 51/015",
+    "description": "••Unión en un haz de varios materiales filiformes deshilantes [2006.01]"
+  },
+  {
+    "code": "B65H 51/02",
+    "description": "••Dispositivos rotatorios, p. ej. con superficies de avance en forma de hélice (dispositivos para almacenar temporalmente el material filiforme durante el avance B65H 51/20; dispositivos rotatorios accionados para controlar la tensión B65H 59/18) [2006.01]"
+  },
+  {
+    "code": "B65H 51/04",
+    "description": "••••Rodillos, poleas, cabrestantes o elementos rotatorios de engranaje [2006.01]"
+  },
+  {
+    "code": "B65H 51/06",
+    "description": "••••••dispuestos para funcionar individualmente [2006.01]"
+  },
+  {
+    "code": "B65H 51/08",
+    "description": "••••••dispuestos para funcionar en grupos o en cooperación con otros elementos [2006.01]"
+  },
+  {
+    "code": "B65H 51/10",
+    "description": "••••••••con superficies opuestas que actúan juntos, p. ej. que forman estrechamiento [2006.01]"
+  },
+  {
+    "code": "B65H 51/12",
+    "description": "••••••••en conjugación espaciada para crear una serie de superficies independientes de avance alrededor de las cuales pasa o se enrolla el material [2006.01]"
+  },
+  {
+    "code": "B65H 51/14",
+    "description": "••Tableros, correas sin fin, enrejados o elementos análogos accionados [2006.01]"
+  },
+  {
+    "code": "B65H 51/16",
+    "description": "••Dispositivos para accionar el material por paso de líquidos o de gas, p. ej. dispositivos de soplado (soplado de la lana de escoria en estado fundido C03B 37/06) [2006.01]"
+  },
+  {
+    "code": "B65H 51/18",
+    "description": "••Dispositivos de agarre de movimiento lineal [2006.01]"
+  },
+  {
+    "code": "B65H 51/20",
+    "description": "••Dispositivos para almacenar temporalmente el material filiforme durante el avance, p. ej. para almacenamiento de reserva [2006.01]"
+  },
+  {
+    "code": "B65H 51/22",
+    "description": "••••Bobinas o cajas, p. ej. cilíndricas con superficies de almacenamiento y de avance constituidos de rodillos o de barras [2006.01]"
+  },
+  {
+    "code": "B65H 51/24",
+    "description": "••••••con barras interdigitales [2006.01]"
+  },
+  {
+    "code": "B65H 51/26",
+    "description": "••••Rodillos o barras montadas al sesgo para facilitar el desplazamiento del material filiforme a lo largo de esas piezas, p. ej. pares de rodillos inclinados [2006.01]"
+  },
+  {
+    "code": "B65H 51/28",
+    "description": "••Disposiciones para el arranque de la operación de avance [2006.01]"
+  },
+  {
+    "code": "B65H 51/30",
+    "description": "••Disposiciones que controlan la velocidad de avance para sincronizarla con los aparatos de alimentación, de tratamiento o cogida (B65H 59/10, B65H 59/38 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "B65H 51/32",
+    "description": "••Dispositivos de soporte o de accionamiento para los aparatos de avance [2006.01]"
+  },
+  {
+    "code": "B65H 54/00",
+    "description": "Bobinado, enrollado o almacenado del material filiforme (núcleos, gálibos, soportes, cajas o receptáculos B65H 75/02; especialmente adaptados o montados para almacenar, devanar y reenrollar de forma repetida longitudes dadas de material previstas para fines especiales B65H 75/34) [2006.01]"
+  },
+  {
+    "code": "B65H 54/02",
+    "description": "••Bobinado y vaivén del material sobre los núcleos, bobinas, tubos o sobre mandriles o gálibos para paquetes análogos [2006.01]"
+  },
+  {
+    "code": "B65H 54/04",
+    "description": "••••para la confección de paquetes de espiras estrechamente enrolladas [2006.01]"
+  },
+  {
+    "code": "B65H 54/06",
+    "description": "••••para la confección de paquetes de espiras cruzadas [2006.01]"
+  },
+  {
+    "code": "B65H 54/08",
+    "description": "••••••Disposiciones para bobinado de precisión [2006.01]"
+  },
+  {
+    "code": "B65H 54/10",
+    "description": "••••para la confección de paquetes de forma especial o alrededor de tipos especiales de bobinas, tubos, mandriles o gálibos [2006.01]"
+  },
+  {
+    "code": "B65H 54/12",
+    "description": "••••••sobre bobinas de mordazas (B65H 54/20 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B65H 54/14",
+    "description": "••••••sobre tubos, núcleos o gálibos que tienen en general lados paralelos, p. ej. canillas o paquetes destinados a lanzaderas de tejer [2006.01]"
+  },
+  {
+    "code": "B65H 54/16",
+    "description": "••••••que forman paquetes del tipo bobina-botella [2006.01]"
+  },
+  {
+    "code": "B65H 54/18",
+    "description": "••••••que forman bobinas para máquinas de coser, de hacer encaje, bordar u otras máquinas del mismo género [2006.01]"
+  },
+  {
+    "code": "B65H 54/20",
+    "description": "••••••que forman paquetes múltiples [2006.01]"
+  },
+  {
+    "code": "B65H 54/22",
+    "description": "••••Máquinas automáticas de bobinar, es decir, máquinas con conjuntos funcionales especiales que efectúan automáticamente la búsqueda de extremidades, la interconexión de largos sucesivos de material, que controlan o detectan los defectos del material, controlando o retirando los gálibos cargados o vacíos [2006.01]"
+  },
+  {
+    "code": "B65H 54/24",
+    "description": "••••••que tienen varios conjuntos de bobinado que se desplazan según una trayectoria sin fin delante de uno o más conjuntos funcionales [2006.01]"
+  },
+  {
+    "code": "B65H 54/26",
+    "description": "••••••que tienen uno o más conjuntos funcionales especiales que se desplazan a lo largo de varios conjuntos fijos de bobinado [2006.01]"
+  },
+  {
+    "code": "B65H 54/28",
+    "description": "••••Dispositivos de vaivén; Disposiciones para la formación de paquetes (disposiciones para evitar el enrollado de cintas B65H 54/38; tambores estriados, de ranura o de rendija para el accionamiento de paquetes B65H 54/46) [2006.01]"
+  },
+  {
+    "code": "B65H 54/30",
+    "description": "••••••con guías de rosca para el movimiento alternativo u oscilante de amplitud fija [2006.01]"
+  },
+  {
+    "code": "B65H 54/32",
+    "description": "••••••con guías de rosca para el movimiento alternativo u oscilante de amplitud variable [2006.01]"
+  },
+  {
+    "code": "B65H 54/34",
+    "description": "••••••para la formación de un enrollado auxiliar, p. ej. reserva de transferencia [2006.01]"
+  },
+  {
+    "code": "B65H 54/36",
+    "description": "••••••Mecanismos de avance o de elevación de la guía-hilo, p. ej. disposiciones para la confección de la canilla [2006.01]"
+  },
+  {
+    "code": "B65H 54/38",
+    "description": "••••Disposiciones para evitar el enrollado de cinta [2006.01]"
+  },
+  {
+    "code": "B65H 54/40",
+    "description": "••••Disposiciones para hacer girar los paquetes [2006.01]"
+  },
+  {
+    "code": "B65H 54/42",
+    "description": "••••••en las que el paquete, el núcleo o el gálibo son accionados por contacto de fricción en su periferia con una superficie de accionamiento [2006.01]"
+  },
+  {
+    "code": "B65H 54/44",
+    "description": "••••••en las que el paquete, el núcleo o el gálibo son enlazados o fijados a una pieza de accionamiento que gira alrededor del eje del paquete [2006.01]"
+  },
+  {
+    "code": "B65H 54/46",
+    "description": "••••••Tambores de accionamiento de los paquetes [2006.01]"
+  },
+  {
+    "code": "B65H 54/48",
+    "description": "••••••••Tambores estriados [2006.01]"
+  },
+  {
+    "code": "B65H 54/50",
+    "description": "••••••••Tambores de ranuras o rendijas [2006.01]"
+  },
+  {
+    "code": "B65H 54/52",
+    "description": "••••••Control de presión de contacto del accionamiento, p. ej. instalaciones relativas a la presión [2006.01]"
+  },
+  {
+    "code": "B65H 54/54",
+    "description": "••••••Disposiciones para el soporte de núcleos o gálibos en los puntos de enrollado; Fijación de mandriles o gálibos a las piezas de accionamiento [2006.01]"
+  },
+  {
+    "code": "B65H 54/547",
+    "description": "••••••••Disposiciones de soporte en voladizo [2006.01]"
+  },
+  {
+    "code": "B65H 54/553",
+    "description": "••••••••Disposiciones de soporte en dos extremos [2006.01]"
+  },
+  {
+    "code": "B65H 54/56",
+    "description": "••Enrollado de ovillos o madejas [2006.01]"
+  },
+  {
+    "code": "B65H 54/58",
+    "description": "••••Devanadores o carretes adaptados únicamente para la constitución de ovillos o madejas (B65H 49/30 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B65H 54/60",
+    "description": "••••Dispositivos de uso doméstico [2006.01]"
+  },
+  {
+    "code": "B65H 54/62",
+    "description": "••••Empalme de madejas [2006.01]"
+  },
+  {
+    "code": "B65H 54/64",
+    "description": "••Enrollado en bolas; Formación de objetos huecos por enrollado sobre núcleos fusibles o solubles, p. ej. formación de receptáculos bajo presión [2006.01]"
+  },
+  {
+    "code": "B65H 54/66",
+    "description": "••••Enrollado de hilos en bolas [2006.01]"
+  },
+  {
+    "code": "B65H 54/68",
+    "description": "••Enrollado sobre cartulinas u otros núcleos planos, p. ej. en forma de estrella [2006.01]"
+  },
+  {
+    "code": "B65H 54/70",
+    "description": "••Otras características de estructura de máquinas de enrollar el hilo [2006.01]"
+  },
+  {
+    "code": "B65H 54/71",
+    "description": "••••Disposiciones para cortar materiales filiformes [2006.01]"
+  },
+  {
+    "code": "B65H 54/72",
+    "description": "••••Estructuras; Carcasas; Cubiertas [2006.01]"
+  },
+  {
+    "code": "B65H 54/74",
+    "description": "••••Disposiciones de accionamiento (disposiciones para evitar el enrollado de cinta B65H 54/38; disposiciones para la rotación de paquetes B65H 54/40) [2006.01]"
+  },
+  {
+    "code": "B65H 54/76",
+    "description": "••Almacenado del material en cajas o receptáculos [2006.01]"
+  },
+  {
+    "code": "B65H 54/78",
+    "description": "••••Aparatos en los que el dispositivo de colocación o el receptáculo están animados de un movimiento de vaivén [2006.01]"
+  },
+  {
+    "code": "B65H 54/80",
+    "description": "••••Aparatos en los que el dispositivo de colocación o el receptáculo están animados de un movimiento de rotación [2006.01]"
+  },
+  {
+    "code": "B65H 54/82",
+    "description": "••••••y en los que los arrollamientos son formados antes de ser depositados [2006.01]"
+  },
+  {
+    "code": "B65H 54/84",
+    "description": "••••Disposiciones para compactar el material en el receptáculo [2006.01]"
+  },
+  {
+    "code": "B65H 54/86",
+    "description": "••Disposiciones para recoger los desperdicios de material antes o después del enrollado o almacenado [2006.01]"
+  },
+  {
+    "code": "B65H 54/88",
+    "description": "••••por medios neumáticos, p. ej. de bocas de aspiración [2006.01]"
+  },
+  {
+    "code": "B65H 55/00",
+    "description": "Paquetes de material filiforme enrollado [2006.01]"
+  },
+  {
+    "code": "B65H 55/02",
+    "description": "••Paquetes sin soporte [2006.01]"
+  },
+  {
+    "code": "B65H 55/04",
+    "description": "••caracterizados por el proceso de enrollado [2006.01]"
+  },
+  {
+    "code": "B65H 57/00",
+    "description": "Guías para material filiforme; Soportes con este fin [2006.01]"
+  },
+  {
+    "code": "B65H 57/02",
+    "description": "••Pasadoras o placas fijas [2006.01]"
+  },
+  {
+    "code": "B65H 57/04",
+    "description": "••Rendijas o ranuras con superficies de guiado [2006.01]"
+  },
+  {
+    "code": "B65H 57/06",
+    "description": "••Superficies de guiado anulares; Ojos, p. ej. rabos de cerdo [2006.01]"
+  },
+  {
+    "code": "B65H 57/08",
+    "description": "••••de alambre o similar [2006.01]"
+  },
+  {
+    "code": "B65H 57/10",
+    "description": "••••con aberturas ensanchadas [2006.01]"
+  },
+  {
+    "code": "B65H 57/12",
+    "description": "••Tubos [2006.01]"
+  },
+  {
+    "code": "B65H 57/14",
+    "description": "••Poleas, rodillos o barras rotatorias [2006.01]"
+  },
+  {
+    "code": "B65H 57/16",
+    "description": "••de forma especial para mantener una multitud de hilo en una relación separada [2006.01]"
+  },
+  {
+    "code": "B65H 57/18",
+    "description": "••montados para facilitar el devanado del material del paquete [2006.01]"
+  },
+  {
+    "code": "B65H 57/20",
+    "description": "••••Aletas de bancos de husos (para introducir el torcido D01H) [2006.01]"
+  },
+  {
+    "code": "B65H 57/22",
+    "description": "••adaptados para impedir un excesivo inflado del material [2006.01]"
+  },
+  {
+    "code": "B65H 57/24",
+    "description": "••con superficies resistentes al desgaste [2006.01]"
+  },
+  {
+    "code": "B65H 57/26",
+    "description": "••Soportes para guías [2006.01]"
+  },
+  {
+    "code": "B65H 57/28",
+    "description": "••Guías con movimiento alternativo u oscilante (dispositivos de vaivén para el bobinado, enrollado o almacenado de material filiforme B65H 54/28) [2006.01]"
+  },
+  {
+    "code": "B65H 59/00",
+    "description": "Regulación o control de la tensión del material filiforme, p. ej. para impedir los rizos; Utilización de indicadores de tensión (aparatos de tensión de uso general en conexión con la manipulación de bandas, cintas o materiales filiformes B65H 77/00) [2006.01]"
+  },
+  {
+    "code": "B65H 59/02",
+    "description": "••por regulación de la entrega del material a partir del paquete de suministro (por contacto del paquete con el soporte B65H 49/02; por control de la velocidad del mecanismo de accionamiento de los dispositivos de devanado y de desenrollado B65H 59/38) [2006.01]"
+  },
+  {
+    "code": "B65H 59/04",
+    "description": "••••por dispositivos que actúan sobre el paquete o el soporte [2006.01]"
+  },
+  {
+    "code": "B65H 59/06",
+    "description": "••••por dispositivos que actúan sobre el material que sale del paquete [2006.01]"
+  },
+  {
+    "code": "B65H 59/08",
+    "description": "••por contacto de la longitud del material que corre con el paquete de alimentación [2006.01]"
+  },
+  {
+    "code": "B65H 59/10",
+    "description": "••por dispositivos que actúan sobre el material que corre y sin unión con los dispositivos de alimentación o de toma (controlando la velocidad de accionamiento de los dispositivos que hacen avanzar el material B65H 59/38) [2006.01]"
+  },
+  {
+    "code": "B65H 59/12",
+    "description": "••••Elementos fijos dispuestos para desviar el material de la vía directa [2006.01]"
+  },
+  {
+    "code": "B65H 59/14",
+    "description": "••••••y provistos de superficies que ejercen sobre el material fuerzas suplementarias de retardado [2006.01]"
+  },
+  {
+    "code": "B65H 59/16",
+    "description": "••••Elementos frenados girados por el material [2006.01]"
+  },
+  {
+    "code": "B65H 59/18",
+    "description": "••••Elementos rotatorios accionados (aparatos que hacen avanzar el material B65H 51/00) [2006.01]"
+  },
+  {
+    "code": "B65H 59/20",
+    "description": "••••Superficies de acción conjugada montadas para un desplazamiento relativo [2006.01]"
+  },
+  {
+    "code": "B65H 59/22",
+    "description": "••••••y dispuestas para ejercer una presión sobre el material [2006.01]"
+  },
+  {
+    "code": "B65H 59/24",
+    "description": "••••••••Superficies móviles automáticamente para compensar las variaciones de tensión [2006.01]"
+  },
+  {
+    "code": "B65H 59/26",
+    "description": "••••••y dispuestas para desviar el material de la vía directa [2006.01]"
+  },
+  {
+    "code": "B65H 59/28",
+    "description": "••••••••siendo aproximadas las superficies una a otra [2006.01]"
+  },
+  {
+    "code": "B65H 59/30",
+    "description": "••••••••••Superficies automáticamente móviles para compensar la variación de tensión [2006.01]"
+  },
+  {
+    "code": "B65H 59/32",
+    "description": "••••••••siendo alejadas las superficies una de la otra [2006.01]"
+  },
+  {
+    "code": "B65H 59/34",
+    "description": "••••••••••Superficies automáticamente móviles para compensar la variación de tensión [2006.01]"
+  },
+  {
+    "code": "B65H 59/36",
+    "description": "••••Elementos flotantes que compensan las irregularidades de la alimentación o la cogida del material (dispositivos de almacenamiento de reserva B65H 51/20) [2006.01]"
+  },
+  {
+    "code": "B65H 59/38",
+    "description": "••por regulación de la velocidad del mecanismo de accionamiento de los dispositivos de desenrollado, de avance, de enrollamiento o de almacenado, p. ej. en reacción automática a las variaciones de tensión [2006.01]"
+  },
+  {
+    "code": "B65H 59/40",
+    "description": "••Utilización de indicadores de tensión [2006.01]"
+  },
+  {
+    "code": "B65H 61/00",
+    "description": "Utilización de dispositivos para medir longitudes predeterminadas del material durante su movimiento (utilización de dispositivos de medida en general G01B) [2006.01]"
+  },
+  {
+    "code": "B65H 63/00",
+    "description": "Dispositivos de alarma o de seguridad para usar durante el desbobinado, devanado, deshilado, bobinado, enrollado o almacenado de material filiforme, p. ej. detectores automáticos de defectos o mecanismos de parada (dispositivos de seguridad en general F16P; dispositivos indicadores en general G08B) [2006.01]"
+  },
+  {
+    "code": "B65H 63/02",
+    "description": "••que reaccionan ante la reducción de tensión del material, a la parada de la alimentación o la rotura del material [2006.01]"
+  },
+  {
+    "code": "B65H 63/024",
+    "description": "••••que responden a la rotura del material [2006.01]"
+  },
+  {
+    "code": "B65H 63/028",
+    "description": "••••••caracterizados por el órgano de detección o sensible [2006.01]"
+  },
+  {
+    "code": "B65H 63/032",
+    "description": "••••••••eléctrico o neumático [2006.01]"
+  },
+  {
+    "code": "B65H 63/036",
+    "description": "••••••caracterizados por la combinación de órganos de detección o sensibles con otros dispositivos, p. ej. dispositivos de parada del mecanismo de avance o de enrollado [2006.01]"
+  },
+  {
+    "code": "B65H 63/04",
+    "description": "••que reaccionan ante la excesiva tensión o el funcionamiento irregular de los aparatos [2006.01]"
+  },
+  {
+    "code": "B65H 63/06",
+    "description": "••que reaccionan ante la presencia de irregularidades en el material durante su avance, p. ej. para romper el material con irregularidades [2006.01]"
+  },
+  {
+    "code": "B65H 63/08",
+    "description": "••que reaccionan ante la entrega de una longitud dada del material al acabado del enrollado de un paquete o al llenado de un recipiente [2006.01]"
+  },
+  {
+    "code": "B65H 65/00",
+    "description": "Fijación del material a los núcleos o gálibos (disposiciones para fijar los extremos de material a núcleos, soportes, gálibos o piezas de sujeción, p. ej. carretes, B65H 75/28) [2006.01]"
+  },
+  {
+    "code": "B65H 67/00",
+    "description": "Reemplazamiento o sacado de núcleos, receptáculos o paquetes acabados en los puestos de desbobinado, de enrollado o de almacenado [2006.01]"
+  },
+  {
+    "code": "B65H 67/02",
+    "description": "••Disposiciones para quitar los núcleos o recipientes después del uso y reemplazarlos por paquetes de alimentación a los puestos de devanado (soportes para paquetes B65H 49/04, B65H 49/20) [2006.01]"
+  },
+  {
+    "code": "B65H 67/04",
+    "description": "••Disposiciones para retirar los paquetes de cogida completados y reemplazarlos por núcleos, gálibos o receptáculos vacíos en los puestos de enrollado o de almacenado; Transferencia del material entre los elementos de cogida adyacentes llenos y vacíos [2006.01]"
+  },
+  {
+    "code": "B65H 67/044",
+    "description": "••••Aparatos de enrollamiento continuo para enrollamiento sucesivo de varias cabezas de enrollamiento [2006.01]"
+  },
+  {
+    "code": "B65H 67/048",
+    "description": "••••••con cabezas de enrollamiento dispuestas en un cabestrante rotativo [2006.01]"
+  },
+  {
+    "code": "B65H 67/052",
+    "description": "••••••con varias cabezas de enrollamiento dispuestas en paralela [2006.01]"
+  },
+  {
+    "code": "B65H 67/056",
+    "description": "••••••con varias cabezas de enrollamiento dispuestas en serie [2006.01]"
+  },
+  {
+    "code": "B65H 67/06",
+    "description": "••Suministro de núcleos, receptáculos o paquetes y transporte desde las estaciones de enrollado y almacenado [2006.01]"
+  },
+  {
+    "code": "B65H 67/08",
+    "description": "••Disposiciones automáticas para la búsqueda de extremos y el empalme del material (dispositivos de ennudado B65H 69/00) [2006.01]"
+  },
+  {
+    "code": "B65H 69/00",
+    "description": "Procesos o dispositivos para empalmar longitudes sucesivas del material; Dispositivos de anudado [2006.01]"
+  },
+  {
+    "code": "B65H 69/02",
+    "description": "••por medio de adhesivos [2006.01]"
+  },
+  {
+    "code": "B65H 69/04",
+    "description": "••por anudado [2006.01]"
+  },
+  {
+    "code": "B65H 69/06",
+    "description": "••por empalme [2006.01]"
+  },
+  {
+    "code": "B65H 69/08",
+    "description": "••por soldadura [2006.01]"
+  },
+  {
+    "code": "B65H 71/00",
+    "description": "Mojado, almidonado, engrasado, encerado, teñido o secado del material filiforme como medidas accesorias durante la constitución de los paquetes (aplicación de líquidos u otros materiales fluidos a las superficies en general B05) [2006.01]"
+  },
+  {
+    "code": "B65H 73/00",
+    "description": "Operación para librar los núcleos o gálibos de los desechos, p. ej. para permitir su reempleo [2006.01]"
+  },
+  {
+    "code": "B65H 75/00",
+    "description": "Almacenamiento de bandas, cintas o material filiforme, p. ej. sobre carretes (carretes de pesca A01K 89/00; medios de almacenamiento para soportes de registro, especialmente adaptados para cooperar con los aparatos de registro o de reproducción G11B 23/02) [2006.01]"
+  },
+  {
+    "code": "B65H 75/02",
+    "description": "••Núcleos, gálibos, soportes o piezas de sujeción para material bobinado, enrollado, o plegado, p. ej. carretes, husos, bobinas, tubos de canilla, cajas (bajo el aspecto embalaje B65D 85/67) [2006.01]"
+  },
+  {
+    "code": "B65H 75/04",
+    "description": "••••Clases o tipos (B65H 75/18 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B65H 75/06",
+    "description": "••••••Núcleos planos, p. ej. tarjetas [2006.01]"
+  },
+  {
+    "code": "B65H 75/08",
+    "description": "••••••de sección transversal circular o poligonal (cajas o recipientes B65H 75/16) [2006.01]"
+  },
+  {
+    "code": "B65H 75/10",
+    "description": "••••••••sin rebordes, p. ej. tubos de canillas [2006.01]"
+  },
+  {
+    "code": "B65H 75/12",
+    "description": "••••••••con un solo reborde de extremidad; con un extremo de diámetro más grande que el cuerpo [2006.01]"
+  },
+  {
+    "code": "B65H 75/14",
+    "description": "••••••••con dos rebordes de extremos [2006.01]"
+  },
+  {
+    "code": "B65H 75/16",
+    "description": "••••••cajas o recipientes, p. ej. cajas de bobina de preparación [2006.01]"
+  },
+  {
+    "code": "B65H 75/18",
+    "description": "••••Detalles de estructura [2006.01]"
+  },
+  {
+    "code": "B65H 75/20",
+    "description": "••••••Estructura de celosía, p. ej. formada por alambres [2006.01]"
+  },
+  {
+    "code": "B65H 75/22",
+    "description": "••••••desmontables; con partes desmontables [2006.01]"
+  },
+  {
+    "code": "B65H 75/24",
+    "description": "••••••de forma regulable, p. ej. expansible [2006.01]"
+  },
+  {
+    "code": "B65H 75/26",
+    "description": "••••••Disposiciones para impedir el deslizamiento del enrollado [2006.01]"
+  },
+  {
+    "code": "B65H 75/28",
+    "description": "••••••Disposiciones para fijar los extremos del material [2006.01]"
+  },
+  {
+    "code": "B65H 75/30",
+    "description": "••••••Disposiciones para facilitar el accionamiento o el frenado [2006.01]"
+  },
+  {
+    "code": "B65H 75/32",
+    "description": "••••••Disposiciones para facilitar el corte material [2006.01]"
+  },
+  {
+    "code": "B65H 75/34",
+    "description": "••••especialmente adaptados o montados para almacenar, devanar y reenrollar de forma repetida longitudes dadas de material previstas para fines especiales, p. ej. tuberías flexibles o mangueras ancladas, cables eléctricos de fuerza (medios de fijación para colocar una tubería flexible como accesorios de mueble de trabajo para dentista A61G 15/18; medios de retracción del cinturón de seguridad en los vehículos B60R 22/34; dispositivos de almacenaje de tuberías flexibles destinados a transferir líquidos a partir de recipientes o depósitos de almacenaje para alimentar vehículos o recipientes transportables B67D 7/40; soportes de hilo para secar ropa D06F 53/00; tambores de muelles para persianas de laminillas horizontales elevables E06B 9/322; tambores de muelle o tambores de cinta para contraventanas enrollables o para persianas enrollables E06B 9/56; cadenas de tracción o de izado con dispositivos para sujetar cables eléctricos, tuberías o elementos análogos F16G 13/16; dispositivos para guiar tuberías, cables o conductos de protección, entre puntos móviles unos con relación a otros, p. ej. canal móvil, F16L 3/01; flexibles o cintas graduadas G01B 3/10; en el caso en que el invento concierna al aspecto eléctrico del material almacenado, ver las subclases correspondientes, p. ej. H02G) [2006.01]"
+  },
+  {
+    "code": "B65H 75/36",
+    "description": "••••••no implicando utilización de un núcleo o gálibo en el interior del paquete de material almacenado, p. ej. en el que el material almacenado se alberga en cajas o receptáculos, o dispuesto de manera intermitente sobre una serie de soportes de forma sinuosa o en serpentines [2006.01]"
+  },
+  {
+    "code": "B65H 75/38",
+    "description": "••••••implicando utilización de un núcleo o gálibo interior formando soporte para el paquete de material almacenado [2006.01]"
+  },
+  {
+    "code": "B65H 75/40",
+    "description": "••••••••móvil o transportable [2006.01]"
+  },
+  {
+    "code": "B65H 75/42",
+    "description": "••••••••••fijado a, o formando parte de herramientas o máquinas móviles [2006.01]"
+  },
+  {
+    "code": "B65H 75/44",
+    "description": "••••••••Detalles de estructura [2006.01]"
+  },
+  {
+    "code": "B65H 75/48",
+    "description": "••••••••••Dispositivos automáticos de realmacenaje [2006.01]"
+  },
+  {
+    "code": "B65H 75/50",
+    "description": "••Procesos para hacer carretes, bobinas, tubos de canillas o elementos análogos trabajando un material no especificado o varios materiales [2006.01]"
+  },
+  {
+    "code": "B65H 77/00",
+    "description": "Ajuste o control de la tensión en el material [2006.01]"
+  },
+  {
+    "code": "B65H 79/00",
+    "description": "Mecanismos de accionamiento de dispositivos para hacer el desensartado, enrollado, desenrollado o almacenado del material no previstos en otro lugar [2006.01]"
+  },
+  {
+    "code": "B65H 81/00",
+    "description": "Procesos, aparatos o dispositivos para recubrir o envolver núcleos, enrollándolos con bandas, cintas o material filiforme, no previstos en otros lugares (formación de objetos huecos por enrollado de material filiforme sobre núcleos fusibles o solubles B65H 54/64; envoltura para fines de embalaje B65B 11/00; fabricación de objetos enrollándolos de papel B31C) [2006.01]"
+  },
+  {
+    "code": "B65H 81/02",
+    "description": "••Revestido o forrado de núcleos anulares o de forma similar que forman un objeto: cerrado o casi cerrado [2006.01]"
+  },
+  {
+    "code": "B65H 81/04",
+    "description": "••••alimentando el material oblicuamente con relación al eje del núcleo [2006.01]"
+  },
+  {
+    "code": "B65H 81/06",
+    "description": "••Revestido o forrado de núcleos alargados [2006.01]"
+  },
+  {
+    "code": "B65H 81/08",
+    "description": "••••alimentando el material oblicuamente con relación al eje del mandril [2006.01]"
+  },
+  {
+    "code": "B65H 83/02",
+    "description": "••en la misma pila [2006.01]"
+  },
+  {
+    "code": "B65H 85/00",
+    "description": "Recirculación de artículos, es decir, alimentación y entrega de cada artículo más de una vez en el mismo puesto de trabajo de la máquina [2006.01]"
+  },
+  {
+    "code": "B65H 99/00",
+    "description": "Materia no prevista en otros grupos de esta subclase [2006.01]"
+  }
+]

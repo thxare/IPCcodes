@@ -1,0 +1,1246 @@
+[
+  {
+    "code": "C10G 1/00",
+    "description": "Producción de mezclas de hidrocarburos líquidos a partir de esquistos, arena petrolífera o materiales sólidos carbonosos no fundidos o materiales similares, p. ej. madera, carbón (recuperación mecánica de aceites a partir de esquistos, arena petrolífera o similares B03B) [2006.01]"
+  },
+  {
+    "code": "C10G 1/02",
+    "description": "••por destilación [2006.01]"
+  },
+  {
+    "code": "C10G 1/04",
+    "description": "••por extracción [2006.01]"
+  },
+  {
+    "code": "C10G 1/06",
+    "description": "••por hidrogenación destructiva [2006.01]"
+  },
+  {
+    "code": "C10G 1/08",
+    "description": "••••con catalizadores en movimiento [2006.01]"
+  },
+  {
+    "code": "C10G 1/10",
+    "description": "••a partir de caucho o residuos de caucho [2006.01]"
+  },
+  {
+    "code": "C10G 2/00",
+    "description": "Producción de mezclas líquidas de hidrocarburos de composición no definida a partir de óxidos de carbono [2006.01]"
+  },
+  {
+    "code": "C10G 3/00",
+    "description": "Producción de mezclas de hidrocarburos líquidos a partir de materiales orgánicos que contienen oxígeno, p. ej. aceites grasos, ácidos grasos (producción a partir de materias carbonosas sólidas no fundidas que contienen oxígeno C10G 1/00) [2006.01]"
+  },
+  {
+    "code": "C10G 5/00",
+    "description": "Recuperación de mezclas de hidrocarburos líquidos a partir de gases, p. ej. gas natural [2006.01]"
+  },
+  {
+    "code": "C10G 5/02",
+    "description": "••con adsorbentes sólidos [2006.01]"
+  },
+  {
+    "code": "C10G 5/04",
+    "description": "••con absorbentes líquidos [2006.01]"
+  },
+  {
+    "code": "C10G 5/06",
+    "description": "••por enfriamiento o compresión [2006.01]"
+  },
+  {
+    "code": "C10G 7/00",
+    "description": "Destilación de aceites de hidrocarburos [2006.01]"
+  },
+  {
+    "code": "C10G 7/02",
+    "description": "••Estabilización de la gasolina por eliminación de gases por fraccionamiento [2006.01]"
+  },
+  {
+    "code": "C10G 7/04",
+    "description": "••Deshidratación [2006.01]"
+  },
+  {
+    "code": "C10G 7/06",
+    "description": "••Destilación en vacío [2006.01]"
+  },
+  {
+    "code": "C10G 7/08",
+    "description": "••Destilación extractiva o azeotrópica (refino de aceites de hidrocarburos por extracción con solventes selectivos C10G 21/00) [2006.01]"
+  },
+  {
+    "code": "C10G 7/10",
+    "description": "••Medios para impedir la corrosión durante la destilación [2006.01]"
+  },
+  {
+    "code": "C10G 7/12",
+    "description": "••Control o regulación [2006.01]"
+  },
+  {
+    "code": "C10G 9/00",
+    "description": "Cracking térmico no catalítico, en ausencia de hidrógeno, de aceites de hidrocarburos [2006.01]"
+  },
+  {
+    "code": "C10G 9/02",
+    "description": "••en retortas [2006.01]"
+  },
+  {
+    "code": "C10G 9/04",
+    "description": "••••Retortas [2006.01]"
+  },
+  {
+    "code": "C10G 9/06",
+    "description": "••por destilación bajo presión [2006.01]"
+  },
+  {
+    "code": "C10G 9/08",
+    "description": "••••Sus aparatos [2006.01]"
+  },
+  {
+    "code": "C10G 9/12",
+    "description": "••••••Eliminación de incrustaciones [2006.01]"
+  },
+  {
+    "code": "C10G 9/14",
+    "description": "••en tubos o serpentines con o sin dispositivos auxiliares, p. ej. digestores, cámaras de humidificación, medios de expansión [2006.01]"
+  },
+  {
+    "code": "C10G 9/16",
+    "description": "••••Prevención o eliminación de incrustaciones [2006.01]"
+  },
+  {
+    "code": "C10G 9/18",
+    "description": "••••Aparatos [2006.01]"
+  },
+  {
+    "code": "C10G 9/20",
+    "description": "••••••Hornos de tubos [2006.01]"
+  },
+  {
+    "code": "C10G 9/24",
+    "description": "••por calentamiento con medios eléctricos [2006.01]"
+  },
+  {
+    "code": "C10G 9/26",
+    "description": "••con materiales sólidos fijos precalentados en forma discontinua, p. ej. ráfagas y extraído [2006.01]"
+  },
+  {
+    "code": "C10G 9/28",
+    "description": "••con material sólido en movimiento precalentado [2006.01]"
+  },
+  {
+    "code": "C10G 9/30",
+    "description": "••••según la técnica de lecho en movimiento [2006.01]"
+  },
+  {
+    "code": "C10G 9/32",
+    "description": "••••según la técnica de lecho fluidizado [2006.01]"
+  },
+  {
+    "code": "C10G 9/34",
+    "description": "••por contacto directo con fluidos inertes precalentados, p. ej. con metales o sales fundidos [2006.01]"
+  },
+  {
+    "code": "C10G 9/36",
+    "description": "••••con gases o vapores calientes [2006.01]"
+  },
+  {
+    "code": "C10G 9/38",
+    "description": "••••••producidos por la combustión parcial del material que se va a craquear o por la combustión de otro hidrocarburo [2006.01]"
+  },
+  {
+    "code": "C10G 9/40",
+    "description": "••por contacto indirecto con fluido precalentado distinto a los gases de combustión calientes [2006.01]"
+  },
+  {
+    "code": "C10G 9/42",
+    "description": "••por paso del material a craquear en capas finas o como pulverizaciones sobre o cerca de superficies calentadas continuamente [2006.01]"
+  },
+  {
+    "code": "C10G 11/00",
+    "description": "Cracking catalítico, en ausencia de hidrógeno, de aceites de hidrocarburos (cracking por contacto directo con metales o sales fundidas C10G 9/34) [2006.01]"
+  },
+  {
+    "code": "C10G 11/02",
+    "description": "••caracterizado por el catalizador utilizado [2006.01]"
+  },
+  {
+    "code": "C10G 11/04",
+    "description": "••••Oxidos [2006.01]"
+  },
+  {
+    "code": "C10G 11/05",
+    "description": "••••••Aluminosilicatos cristalinos, p. ej. tamices moleculares [2006.01]"
+  },
+  {
+    "code": "C10G 11/06",
+    "description": "••••Sulfuros [2006.01]"
+  },
+  {
+    "code": "C10G 11/08",
+    "description": "••••Haluros [2006.01]"
+  },
+  {
+    "code": "C10G 11/10",
+    "description": "••con lecho catalítico fijo [2006.01]"
+  },
+  {
+    "code": "C10G 11/12",
+    "description": "••con catalizadores sólidos fijos precalentados discontinuamente, p. ej. ráfagas y extraído [2006.01]"
+  },
+  {
+    "code": "C10G 11/14",
+    "description": "••con catalizadores sólidos en movimiento precalentados [2006.01]"
+  },
+  {
+    "code": "C10G 11/16",
+    "description": "••••según el método de lecho en movimiento [2006.01]"
+  },
+  {
+    "code": "C10G 11/18",
+    "description": "••••según la técnica fluidizada [2006.01]"
+  },
+  {
+    "code": "C10G 11/20",
+    "description": "••por contacto directo con gases o vapores calientes inertes [2006.01]"
+  },
+  {
+    "code": "C10G 11/22",
+    "description": "••••producidos por combustión parcial de la materia a crackear [2006.01]"
+  },
+  {
+    "code": "C10G 15/08",
+    "description": "••por medios eléctricos o por vibraciones electromagnéticas o mecánicas [2006.01]"
+  },
+  {
+    "code": "C10G 15/10",
+    "description": "••por radiaciones particulares [2006.01]"
+  },
+  {
+    "code": "C10G 15/12",
+    "description": "••con gases sobrecalentados en arcos eléctricos, p. ej. con plasma [2006.01]"
+  },
+  {
+    "code": "C10G 17/00",
+    "description": "Refino de aceites de hidrocarburos, en ausencia de hidrógeno, con ácidos, compuestos que liberan un ácido o líquidos que contienen un ácido, p. ej. con lodo ácido [2006.01]"
+  },
+  {
+    "code": "C10G 17/02",
+    "description": "••con ácidos o líquidos que contienen un ácido, p. ej. con lodo ácido [2006.01]"
+  },
+  {
+    "code": "C10G 17/04",
+    "description": "••••Tratamiento líquido-líquido que forma dos fases inmiscibles [2006.01]"
+  },
+  {
+    "code": "C10G 17/06",
+    "description": "••••••utilizando ácidos derivados del azufre o sus lodos ácidos [2006.01]"
+  },
+  {
+    "code": "C10G 17/07",
+    "description": "••••••utilizando ácidos halohídricos u oxácidos halogenados (ácidos dadores de halógeno C10G 27/02) [2006.01]"
+  },
+  {
+    "code": "C10G 17/08",
+    "description": "••con óxidos que forman ácidos (refino con CO 2 o SO 2 como disolventes selectivos C10G 21/06) [2006.01]"
+  },
+  {
+    "code": "C10G 17/085",
+    "description": "••••con óleum [2006.01]"
+  },
+  {
+    "code": "C10G 17/09",
+    "description": "••con sales ácidas [2006.01]"
+  },
+  {
+    "code": "C10G 17/095",
+    "description": "••con \"ácidos sólidos\", p. ej. con ácido fosfórico depositado sobre un soporte [2006.01]"
+  },
+  {
+    "code": "C10G 17/10",
+    "description": "••Recuperación del agente de refino utilizado [2006.01]"
+  },
+  {
+    "code": "C10G 19/00",
+    "description": "Refino de aceites de hidrocarburos, en ausencia de hidrógeno, por tratamiento alcalino [2006.01]"
+  },
+  {
+    "code": "C10G 19/02",
+    "description": "••con soluciones alcalinas acuosas [2006.01]"
+  },
+  {
+    "code": "C10G 19/04",
+    "description": "••••que contienen solubilizantes, p. ej. solutilizantes [2006.01]"
+  },
+  {
+    "code": "C10G 19/06",
+    "description": "••••con plumbitos o plumbatos [2006.01]"
+  },
+  {
+    "code": "C10G 19/067",
+    "description": "••con un material alcalino fundido [2006.01]"
+  },
+  {
+    "code": "C10G 19/073",
+    "description": "••con un material alcalino sólido [2006.01]"
+  },
+  {
+    "code": "C10G 19/08",
+    "description": "••Recuperación del agente de refino utilizado [2006.01]"
+  },
+  {
+    "code": "C10G 21/00",
+    "description": "Refino de aceites de hidrocarburos, en ausencia de hidrógeno, por tratamiento alcalino (C10G 17/00, C10G 19/00 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "C10G 21/02",
+    "description": "••con dos o más solventes, los cuales son introducidos o extraídos separadamente [2006.01]"
+  },
+  {
+    "code": "C10G 21/04",
+    "description": "••••por introducción simultánea de al menos dos solventes inmiscibles en contracorriente el uno con el otro [2006.01]"
+  },
+  {
+    "code": "C10G 21/06",
+    "description": "••caracterizado por el solvente utilizado [2006.01]"
+  },
+  {
+    "code": "C10G 21/08",
+    "description": "••••Compuestos inorgánicos solamente [2006.01]"
+  },
+  {
+    "code": "C10G 21/10",
+    "description": "••••••Anhídrido sulfuroso [2006.01]"
+  },
+  {
+    "code": "C10G 21/12",
+    "description": "••••Compuestos orgánicos solamente [2006.01]"
+  },
+  {
+    "code": "C10G 21/14",
+    "description": "••••••Hidrocarburos [2006.01]"
+  },
+  {
+    "code": "C10G 21/16",
+    "description": "••••••que contienen oxígeno [2006.01]"
+  },
+  {
+    "code": "C10G 21/18",
+    "description": "••••••que contienen halógenos [2006.01]"
+  },
+  {
+    "code": "C10G 21/20",
+    "description": "••••••que contienen nitrógeno [2006.01]"
+  },
+  {
+    "code": "C10G 21/22",
+    "description": "••••••que contienen azufre, selenio o teluro [2006.01]"
+  },
+  {
+    "code": "C10G 21/24",
+    "description": "••••••que contienen fósforo [2006.01]"
+  },
+  {
+    "code": "C10G 21/26",
+    "description": "••••••que contienen silicio [2006.01]"
+  },
+  {
+    "code": "C10G 21/27",
+    "description": "••••••Compuestos orgánicos no previstos por alguno de los grupos C10G 21/14-C10G 21/26 [2006.01]"
+  },
+  {
+    "code": "C10G 21/28",
+    "description": "••Recuperación del solvente utilizado [2006.01]"
+  },
+  {
+    "code": "C10G 21/30",
+    "description": "••Control o regulación [2006.01]"
+  },
+  {
+    "code": "C10G 25/00",
+    "description": "Refino de aceites de hidrocarburos, en ausencia de hidrógeno, por medio de absorbentes o de adsorbentes sólidos [2006.01]"
+  },
+  {
+    "code": "C10G 25/02",
+    "description": "••con material cambiador de iones [2006.01]"
+  },
+  {
+    "code": "C10G 25/03",
+    "description": "••••con aluminosilicatos cristalinos, p. ej. con tamices moleculares [2006.01]"
+  },
+  {
+    "code": "C10G 25/05",
+    "description": "••••••Eliminación de compuestos distintos a los hidrocarburos, p. ej. de compuestos de azufre [2006.01]"
+  },
+  {
+    "code": "C10G 25/06",
+    "description": "••con absorbentes o adsorbentes móviles, o absorbentes o adsorbentes dispersos en aceite [2006.01]"
+  },
+  {
+    "code": "C10G 25/08",
+    "description": "••••según el método de lecho en movimiento [2006.01]"
+  },
+  {
+    "code": "C10G 25/09",
+    "description": "••••según la técnica del \"lecho fluidizado\" [2006.01]"
+  },
+  {
+    "code": "C10G 25/11",
+    "description": "••••Destilación en presencia de absorbentes o adsorbentes móviles [2006.01]"
+  },
+  {
+    "code": "C10G 25/12",
+    "description": "••Recuperación del adsorbente utilizado [2006.01]"
+  },
+  {
+    "code": "C10G 27/00",
+    "description": "Refino de aceites de hidrocarburos, en ausencia de hidrógeno, por oxidación [2006.01]"
+  },
+  {
+    "code": "C10G 27/02",
+    "description": "••con halógeno o compuestos que producen halógeno; Acido hipocloroso o sus sales [2006.01]"
+  },
+  {
+    "code": "C10G 27/04",
+    "description": "••con oxígeno o compuestos que producen oxígeno [2006.01]"
+  },
+  {
+    "code": "C10G 27/06",
+    "description": "••••en presencia de soluciones alcalinas [2006.01]"
+  },
+  {
+    "code": "C10G 27/08",
+    "description": "••••en presencia de cloruro de cobre [2006.01]"
+  },
+  {
+    "code": "C10G 27/10",
+    "description": "••••en presencia de complejos orgánicos que contienen un metal, p. ej. quelatos, o resinas cambiadoras de cationes [2006.01]"
+  },
+  {
+    "code": "C10G 27/12",
+    "description": "••••con compuestos dadores de oxígeno, p. ej. con percompuestos, con ácido crómico, con cromatos (con plumbitos o plumbatos C10G 19/06) [2006.01]"
+  },
+  {
+    "code": "C10G 27/14",
+    "description": "••••con gases que contienen ozono [2006.01]"
+  },
+  {
+    "code": "C10G 29/00",
+    "description": "Refino de aceites de hidrocarburos, en ausencia de hidrógeno, por medio de otros productos químicos [2006.01]"
+  },
+  {
+    "code": "C10G 29/02",
+    "description": "••No metales [2006.01]"
+  },
+  {
+    "code": "C10G 29/04",
+    "description": "••Metales o metales depositados sobre un soporte [2006.01]"
+  },
+  {
+    "code": "C10G 29/06",
+    "description": "••Sales metálicas o sales metálicas depositadas sobre un soporte [2006.01]"
+  },
+  {
+    "code": "C10G 29/08",
+    "description": "••••que contienen el metal en su menor valencia [2006.01]"
+  },
+  {
+    "code": "C10G 29/10",
+    "description": "••••Sulfuros [2006.01]"
+  },
+  {
+    "code": "C10G 29/12",
+    "description": "••••Haluros [2006.01]"
+  },
+  {
+    "code": "C10G 29/16",
+    "description": "••Oxidos metálicos [2006.01]"
+  },
+  {
+    "code": "C10G 29/20",
+    "description": "••Compuestos orgánicos que no contienen átomos de metal [2006.01]"
+  },
+  {
+    "code": "C10G 29/22",
+    "description": "••••que contienen oxígeno como único heteroátomo [2006.01]"
+  },
+  {
+    "code": "C10G 29/24",
+    "description": "••••••Aldehídos o cetonas [2006.01]"
+  },
+  {
+    "code": "C10G 29/26",
+    "description": "••••Hidrocarburos halogenados [2006.01]"
+  },
+  {
+    "code": "C10G 29/28",
+    "description": "••••que contienen solamente azufre como heteroátomo, p. ej. mercaptanos, o solamente azufre y oxígeno [2006.01]"
+  },
+  {
+    "code": "C10G 31/00",
+    "description": "Refino de aceites de hidrocarburos, en ausencia de hidrógeno, por métodos no previstos en otro lugar (por destilación C10G 7/00) [2006.01]"
+  },
+  {
+    "code": "C10G 31/06",
+    "description": "••por calentamiento, enfriamiento o tratamiento por presión [2006.01]"
+  },
+  {
+    "code": "C10G 31/08",
+    "description": "••por tratamiento con agua [2006.01]"
+  },
+  {
+    "code": "C10G 31/09",
+    "description": "••por filtración [2006.01]"
+  },
+  {
+    "code": "C10G 31/10",
+    "description": "••con la ayuda de la fuerza centrífuga [2006.01]"
+  },
+  {
+    "code": "C10G 31/11",
+    "description": "••por diálisis [2006.01]"
+  },
+  {
+    "code": "C10G 32/02",
+    "description": "••por medios eléctricos o magnéticos [2006.01]"
+  },
+  {
+    "code": "C10G 32/04",
+    "description": "••por radiaciones particulares [2006.01]"
+  },
+  {
+    "code": "C10G 33/00",
+    "description": "Deshidratación o desemulsificación de aceites de hidrocarburos (por destilación C10G 7/04) [2006.01]"
+  },
+  {
+    "code": "C10G 33/02",
+    "description": "••con medios eléctricos o magnéticos [2006.01]"
+  },
+  {
+    "code": "C10G 33/04",
+    "description": "••con medios químicos [2006.01]"
+  },
+  {
+    "code": "C10G 33/06",
+    "description": "••con medios mecánicos, p. ej. filtración [2006.01]"
+  },
+  {
+    "code": "C10G 33/08",
+    "description": "••Control o regulación [2006.01]"
+  },
+  {
+    "code": "C10G 35/00",
+    "description": "Reformado de nafta [2006.01]"
+  },
+  {
+    "code": "C10G 35/02",
+    "description": "••Reformado térmico [2006.01]"
+  },
+  {
+    "code": "C10G 35/04",
+    "description": "••Reformado catalítico [2006.01]"
+  },
+  {
+    "code": "C10G 35/06",
+    "description": "••••caracterizado por el catalizador utilizado [2006.01]"
+  },
+  {
+    "code": "C10G 35/085",
+    "description": "••••••que contienen metales del grupo del platino o sus compuestos [2006.01]"
+  },
+  {
+    "code": "C10G 35/09",
+    "description": "••••••••Catalizadores bimetálicos en los que al menos uno de los metales es un metal del grupo del platino [2006.01]"
+  },
+  {
+    "code": "C10G 35/095",
+    "description": "••••••que contienen aluminosilicatos cristalinos, p. ej. tamices moleculares [2006.01]"
+  },
+  {
+    "code": "C10G 35/10",
+    "description": "••••con catalizadores en movimiento [2006.01]"
+  },
+  {
+    "code": "C10G 35/12",
+    "description": "••••••según el método de lecho en movimiento [2006.01]"
+  },
+  {
+    "code": "C10G 35/14",
+    "description": "••••••según la técnica fluidizada [2006.01]"
+  },
+  {
+    "code": "C10G 35/16",
+    "description": "••con vibraciones eléctricas, electromagnéticas o mecánicas; por radiaciones particulares [2006.01]"
+  },
+  {
+    "code": "C10G 35/22",
+    "description": "••Puesta en marcha de las operaciones de reformado [2006.01]"
+  },
+  {
+    "code": "C10G 35/24",
+    "description": "••Control o regulación de las operaciones de reformado [2006.01]"
+  },
+  {
+    "code": "C10G 45/00",
+    "description": "Refino de aceites de hidrocarburos por medio de hidrógeno o de compuestos dadores de hidrógeno [2006.01]"
+  },
+  {
+    "code": "C10G 45/02",
+    "description": "••para eliminar los heteroátomos sin modificar la estructura del hidrocarburo tratado y sin cracking de hidrocarburos con punto de ebullición inferior; Hidroterminado [2006.01]"
+  },
+  {
+    "code": "C10G 45/04",
+    "description": "••••caracterizado por el catalizador utilizado [2006.01]"
+  },
+  {
+    "code": "C10G 45/06",
+    "description": "••••••que contiene níquel o cobalto, o sus compuestos [2006.01]"
+  },
+  {
+    "code": "C10G 45/08",
+    "description": "••••••••combinado con cromo, molibdeno o tungsteno, o sus compuestos [2006.01]"
+  },
+  {
+    "code": "C10G 45/10",
+    "description": "••••••que contiene metales del grupo del platino o sus compuestos [2006.01]"
+  },
+  {
+    "code": "C10G 45/12",
+    "description": "••••••que contiene aluminosilicatos cristalinos, p. ej. tamices moleculares [2006.01]"
+  },
+  {
+    "code": "C10G 45/14",
+    "description": "••••con partículas sólidas en movimiento [2006.01]"
+  },
+  {
+    "code": "C10G 45/16",
+    "description": "••••••dispersas en aceite, p. ej. en forma de papilla [2006.01]"
+  },
+  {
+    "code": "C10G 45/18",
+    "description": "••••••según la técnica del \"lecho en movimiento\" [2006.01]"
+  },
+  {
+    "code": "C10G 45/20",
+    "description": "••••••según la técnica del \"lecho fluidizado\" [2006.01]"
+  },
+  {
+    "code": "C10G 45/22",
+    "description": "••••con el hidrógeno disuelto o en suspensión en aceite [2006.01]"
+  },
+  {
+    "code": "C10G 45/24",
+    "description": "••••con compuestos dadores de hidrógeno [2006.01]"
+  },
+  {
+    "code": "C10G 45/26",
+    "description": "••••••Vapor o agua [2006.01]"
+  },
+  {
+    "code": "C10G 45/28",
+    "description": "••••••Compuestos orgánicos; Desulfuración por hidrógeno (\"autorrefino\") [2006.01]"
+  },
+  {
+    "code": "C10G 45/30",
+    "description": "••••••••caracterizados por el catalizador utilizado [2006.01]"
+  },
+  {
+    "code": "C10G 45/32",
+    "description": "••Hidrogenación selectiva de compuestos diolefínicos o acetilénicos [2006.01]"
+  },
+  {
+    "code": "C10G 45/34",
+    "description": "••••caracterizada por el catalizador utilizado [2006.01]"
+  },
+  {
+    "code": "C10G 45/36",
+    "description": "••••••que contiene níquel o cobalto, o sus compuestos [2006.01]"
+  },
+  {
+    "code": "C10G 45/38",
+    "description": "••••••••combinado con cromo, molibdeno o tungsteno, o sus compuestos [2006.01]"
+  },
+  {
+    "code": "C10G 45/40",
+    "description": "••••••que contiene metales del grupo del platino o sus compuestos [2006.01]"
+  },
+  {
+    "code": "C10G 45/42",
+    "description": "••••con partículas sólidas en movimiento [2006.01]"
+  },
+  {
+    "code": "C10G 45/44",
+    "description": "••Hidrogenación de hidrocarburos aromáticos [2006.01]"
+  },
+  {
+    "code": "C10G 45/46",
+    "description": "••••caracterizada por el catalizador utilizado [2006.01]"
+  },
+  {
+    "code": "C10G 45/48",
+    "description": "••••••que contiene níquel o cobalto, o sus compuestos [2006.01]"
+  },
+  {
+    "code": "C10G 45/50",
+    "description": "••••••••combinado con cromo, molibdeno o tungsteno, o sus compuestos [2006.01]"
+  },
+  {
+    "code": "C10G 45/52",
+    "description": "••••••que contiene metales del grupo del platino o sus compuestos [2006.01]"
+  },
+  {
+    "code": "C10G 45/54",
+    "description": "••••••que contiene aluminosilicatos cristalinos, p. ej. tamices moleculares [2006.01]"
+  },
+  {
+    "code": "C10G 45/56",
+    "description": "••••con partículas sólidas en movimiento [2006.01]"
+  },
+  {
+    "code": "C10G 45/58",
+    "description": "••para cambiar la estructura de ciertos hidrocarburos sin craquear otros hidrocarburos presentes, p. ej. para reducir el flujo; Hidrocracking selectivo de parafinas normales (C10G 32/00 tiene prioridad; mejora o aumento del índice de octano o del contenido en compuestos aromáticos de nafta C10G 35/00) [2006.01]"
+  },
+  {
+    "code": "C10G 45/60",
+    "description": "••••caracterizado por el catalizador utilizado [2006.01]"
+  },
+  {
+    "code": "C10G 45/62",
+    "description": "••••••que contiene metales del grupo del platino o sus compuestos [2006.01]"
+  },
+  {
+    "code": "C10G 45/64",
+    "description": "••••••que contiene aluminosilicatos cristalinos, p. ej. tamices moleculares [2006.01]"
+  },
+  {
+    "code": "C10G 45/66",
+    "description": "••••con partículas sólidas en movimiento [2006.01]"
+  },
+  {
+    "code": "C10G 45/68",
+    "description": "••••Aromatización de fracciones de aceites de hidrocarburos [2006.01]"
+  },
+  {
+    "code": "C10G 45/70",
+    "description": "••••••con catalizadores que contienen metales del grupo del platino o sus compuestos [2006.01]"
+  },
+  {
+    "code": "C10G 45/72",
+    "description": "••Control o regulación [2006.01]"
+  },
+  {
+    "code": "C10G 47/00",
+    "description": "Cracking de aceites de hidrocarburos, en presencia de hidrógeno o de compuestos dadores de hidrógeno, para obtener fracciones de punto de ebullición inferior (C10G 15/00 tiene prioridad; hidrogenación destructiva de materias carbonosas sólidas no fusibles o similares C10G 1/06) [2006.01]"
+  },
+  {
+    "code": "C10G 47/02",
+    "description": "••caracterizado por el catalizador utilizado [2006.01]"
+  },
+  {
+    "code": "C10G 47/04",
+    "description": "••••Oxidos [2006.01]"
+  },
+  {
+    "code": "C10G 47/06",
+    "description": "••••Sulfuros [2006.01]"
+  },
+  {
+    "code": "C10G 47/08",
+    "description": "••••Haluros [2006.01]"
+  },
+  {
+    "code": "C10G 47/10",
+    "description": "••••con catalizadores depositados sobre un soporte [2006.01]"
+  },
+  {
+    "code": "C10G 47/12",
+    "description": "••••••Soportes inorgánicos [2006.01]"
+  },
+  {
+    "code": "C10G 47/14",
+    "description": "••••••••conteniendo el catalizador metales del grupo del platino o sus compuestos [2006.01]"
+  },
+  {
+    "code": "C10G 47/16",
+    "description": "••••••••Soportes de aluminosilicatos cristalinos [2006.01]"
+  },
+  {
+    "code": "C10G 47/18",
+    "description": "••••••••••conteniendo el catalizador metales del grupo del platino o sus compuestos [2006.01]"
+  },
+  {
+    "code": "C10G 47/20",
+    "description": "••••••••••conteniendo el catalizador otros metales o sus compuestos [2006.01]"
+  },
+  {
+    "code": "C10G 47/22",
+    "description": "••Cracking no catalítico, en presencia de hidrógeno [2006.01]"
+  },
+  {
+    "code": "C10G 47/24",
+    "description": "••con partículas sólidas en movimiento [2006.01]"
+  },
+  {
+    "code": "C10G 47/26",
+    "description": "••••en suspensión en aceite, p. ej. en forma de papilla [2006.01]"
+  },
+  {
+    "code": "C10G 47/28",
+    "description": "••••según la técnica del \"lecho móvil\" [2006.01]"
+  },
+  {
+    "code": "C10G 47/30",
+    "description": "••••según la técnica del \"lecho fluidizado\" [2006.01]"
+  },
+  {
+    "code": "C10G 47/32",
+    "description": "••en presencia de compuestos dadores de hidrógeno [2006.01]"
+  },
+  {
+    "code": "C10G 47/34",
+    "description": "••••Compuestos orgánicos, p. ej. hidrocarburos hidrogenados [2006.01]"
+  },
+  {
+    "code": "C10G 47/36",
+    "description": "••Control o regulación [2006.01]"
+  },
+  {
+    "code": "C10G 49/00",
+    "description": "Tratamiento de los aceites de hidrocarburos, en presencia de hidrógeno o compuestos dadores de hidrógeno, no previsto en alguno de los grupos C10G 45/02, C10G 45/32, C10G 45/44, C10G 45/58, ó C10G 47/00 [2006.01]"
+  },
+  {
+    "code": "C10G 49/02",
+    "description": "••caracterizado por el catalizador utilizado [2006.01]"
+  },
+  {
+    "code": "C10G 49/04",
+    "description": "••••que contiene níquel, cobalto, cromo, molibdeno o tungsteno, o sus compuestos [2006.01]"
+  },
+  {
+    "code": "C10G 49/06",
+    "description": "••••que contiene metales del grupo del platino o sus compuestos [2006.01]"
+  },
+  {
+    "code": "C10G 49/08",
+    "description": "••••que contiene aluminosilicatos cristalinos, p. ej. tamices moleculares [2006.01]"
+  },
+  {
+    "code": "C10G 49/10",
+    "description": "••con partículas sólidas en movimiento [2006.01]"
+  },
+  {
+    "code": "C10G 49/12",
+    "description": "••••en suspensión en aceite, p. ej. en forma de papilla [2006.01]"
+  },
+  {
+    "code": "C10G 49/14",
+    "description": "••••según la técnica del \"lecho móvil\" [2006.01]"
+  },
+  {
+    "code": "C10G 49/16",
+    "description": "••••según la técnica del \"lecho fluidizado\" [2006.01]"
+  },
+  {
+    "code": "C10G 49/18",
+    "description": "••en presencia de compuestos dadores de hidrógeno, p. ej. amoníaco, agua, sulfuro de hidrógeno [2006.01]"
+  },
+  {
+    "code": "C10G 49/20",
+    "description": "••••Compuestos orgánicos [2006.01]"
+  },
+  {
+    "code": "C10G 49/22",
+    "description": "••Separación de los efluentes [2006.01]"
+  },
+  {
+    "code": "C10G 49/24",
+    "description": "••Puesta en marcha de las operaciones de hidrotratamiento [2006.01]"
+  },
+  {
+    "code": "C10G 49/26",
+    "description": "••Control o regulación [2006.01]"
+  },
+  {
+    "code": "C10G 50/02",
+    "description": "••de aceites de hidrocarburos de lubricación [2006.01]"
+  },
+  {
+    "code": "C10G 51/00",
+    "description": "Tratamiento de los aceites de hidrocarburos, en ausencia de hidrógeno, únicamente por varios procesos de cracking [2006.01]"
+  },
+  {
+    "code": "C10G 51/02",
+    "description": "••únicamente por varias etapas en serie [2006.01]"
+  },
+  {
+    "code": "C10G 51/04",
+    "description": "••••comprendiendo solamente etapas de cracking térmico y catalítico [2006.01]"
+  },
+  {
+    "code": "C10G 51/06",
+    "description": "••únicamente por varias etapas en paralelo [2006.01]"
+  },
+  {
+    "code": "C10G 53/00",
+    "description": "Tratamiento de los aceites de hidrocarburos, en ausencia de hidrógeno, por varios procesos de refino [2006.01]"
+  },
+  {
+    "code": "C10G 53/02",
+    "description": "••únicamente por varias etapas en serie [2006.01]"
+  },
+  {
+    "code": "C10G 53/04",
+    "description": "••••comprendiendo al menos una etapa de extracción [2006.01]"
+  },
+  {
+    "code": "C10G 53/06",
+    "description": "••••••comprendiendo solamente etapas de extracción, p. ej. desasfaltado por un solvente seguido de una extracción de compuestos aromáticos [2006.01]"
+  },
+  {
+    "code": "C10G 53/08",
+    "description": "••••comprendiendo al menos una etapa de absorción o de adsorción [2006.01]"
+  },
+  {
+    "code": "C10G 53/10",
+    "description": "••••comprendiendo al menos una etapa de tratamiento ácido [2006.01]"
+  },
+  {
+    "code": "C10G 53/12",
+    "description": "••••comprendiendo al menos una etapa de tratamiento alcalino [2006.01]"
+  },
+  {
+    "code": "C10G 53/14",
+    "description": "••••comprendiendo al menos una etapa de oxidación [2006.01]"
+  },
+  {
+    "code": "C10G 53/16",
+    "description": "••únicamente por varias etapas en paralelo [2006.01]"
+  },
+  {
+    "code": "C10G 55/00",
+    "description": "Tratamiento de los aceites de hidrocarburos, en ausencia de hidrógeno, por al menos un proceso de refino y por al menos un proceso de cracking [2006.01]"
+  },
+  {
+    "code": "C10G 55/02",
+    "description": "••únicamente por varias etapas en serie [2006.01]"
+  },
+  {
+    "code": "C10G 55/04",
+    "description": "••••comprendiendo al menos una etapa de cracking térmico [2006.01]"
+  },
+  {
+    "code": "C10G 55/06",
+    "description": "••••comprendiendo al menos una etapa de cracking catalítico [2006.01]"
+  },
+  {
+    "code": "C10G 55/08",
+    "description": "••únicamente por varias etapas en paralelo [2006.01]"
+  },
+  {
+    "code": "C10G 57/00",
+    "description": "Tratamiento de aceites de hidrocarburos, en ausencia de hidrógeno, por al menos un proceso de cracking o refino y al menos otro proceso de conversión [2006.01]"
+  },
+  {
+    "code": "C10G 57/02",
+    "description": "••con polimerización [2006.01]"
+  },
+  {
+    "code": "C10G 59/00",
+    "description": "Tratamiento de la \"nafta\" únicamente por varios procesos de reformado, o por al menos un proceso de reformado y al menos un proceso que no modifica sustancialmente el punto de ebullición de la \"nafta\" [2006.01]"
+  },
+  {
+    "code": "C10G 59/02",
+    "description": "••únicamente por varias etapas en serie [2006.01]"
+  },
+  {
+    "code": "C10G 59/04",
+    "description": "••••comprendiendo al menos una etapa de reformado catalítico y al menos una etapa de reformado no catalítico [2006.01]"
+  },
+  {
+    "code": "C10G 59/06",
+    "description": "••únicamente por varias etapas en paralelo [2006.01]"
+  },
+  {
+    "code": "C10G 61/00",
+    "description": "Tratamiento de la \"nafta\" por al menos un proceso de reformado y al menos un proceso de refino, en ausencia de hidrógeno [2006.01]"
+  },
+  {
+    "code": "C10G 61/02",
+    "description": "••únicamente por varias etapas en serie [2006.01]"
+  },
+  {
+    "code": "C10G 61/04",
+    "description": "••••siendo la etapa de refino una extracción [2006.01]"
+  },
+  {
+    "code": "C10G 61/06",
+    "description": "••••siendo la etapa de refino un proceso de absorción o de adsorción [2006.01]"
+  },
+  {
+    "code": "C10G 61/08",
+    "description": "••únicamente por varias etapas en paralelo [2006.01]"
+  },
+  {
+    "code": "C10G 61/10",
+    "description": "••comprendiendo además los procesos otras etapas de conversión [2006.01]"
+  },
+  {
+    "code": "C10G 63/00",
+    "description": "Tratamiento de la \"nafta\" por al menos un proceso de reformado y al menos un proceso de conversión (C10G 59/00, C10G 61/00 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "C10G 63/02",
+    "description": "••únicamente por varias etapas en serie [2006.01]"
+  },
+  {
+    "code": "C10G 63/04",
+    "description": "••••comprendiendo al menos una etapa de cracking [2006.01]"
+  },
+  {
+    "code": "C10G 63/06",
+    "description": "••únicamente por varias etapas en paralelo [2006.01]"
+  },
+  {
+    "code": "C10G 63/08",
+    "description": "••••comprendiendo al menos una etapa de cracking [2006.01]"
+  },
+  {
+    "code": "C10G 65/00",
+    "description": "Tratamiento de aceites de hidrocarburos, únicamente por varios procesos de hidrotratamiento [2006.01]"
+  },
+  {
+    "code": "C10G 65/02",
+    "description": "••únicamente por varias etapas en serie [2006.01]"
+  },
+  {
+    "code": "C10G 65/04",
+    "description": "••••comprendiendo solamente etapas de refino [2006.01]"
+  },
+  {
+    "code": "C10G 65/06",
+    "description": "••••••siendo al menos una etapa una hidrogenación selectiva de diolefinas [2006.01]"
+  },
+  {
+    "code": "C10G 65/08",
+    "description": "••••••siendo al menos una etapa una hidrogenación de hidrocarburos aromáticos [2006.01]"
+  },
+  {
+    "code": "C10G 65/10",
+    "description": "••••comprendiendo solamente etapas de cracking [2006.01]"
+  },
+  {
+    "code": "C10G 65/12",
+    "description": "••••comprendiendo etapas de cracking y otras etapas de hidrotratamiento [2006.01]"
+  },
+  {
+    "code": "C10G 65/14",
+    "description": "••únicamente por varias etapas en paralelo [2006.01]"
+  },
+  {
+    "code": "C10G 65/16",
+    "description": "••••comprendiendo solamente etapas de refino [2006.01]"
+  },
+  {
+    "code": "C10G 65/18",
+    "description": "••••comprendiendo solamente etapas de cracking [2006.01]"
+  },
+  {
+    "code": "C10G 67/00",
+    "description": "Tratamiento de aceites de hidrocarburos, únicamente por al menos un proceso de hidrotratamiento y al menos un proceso de refino en ausencia de hidrógeno [2006.01]"
+  },
+  {
+    "code": "C10G 67/02",
+    "description": "••únicamente por varias etapas en serie [2006.01]"
+  },
+  {
+    "code": "C10G 67/04",
+    "description": "••••comprendiendo una extracción por solvente como etapa de refino en ausencia de hidrógeno [2006.01]"
+  },
+  {
+    "code": "C10G 67/06",
+    "description": "••••comprendiendo un proceso de absorción o de adsorción como etapa de refino en ausencia de hidrógeno [2006.01]"
+  },
+  {
+    "code": "C10G 67/08",
+    "description": "••••comprendiendo un tratamiento ácido como etapa de refino en ausencia de hidrógeno [2006.01]"
+  },
+  {
+    "code": "C10G 67/10",
+    "description": "••••comprendiendo un tratamiento alcalino como etapa de refino en ausencia de hidrógeno [2006.01]"
+  },
+  {
+    "code": "C10G 67/12",
+    "description": "••••comprendiendo una oxidación como etapa de refino en ausencia de hidrógeno [2006.01]"
+  },
+  {
+    "code": "C10G 67/14",
+    "description": "••••comprendiendo al menos dos etapas de refino diferentes, en ausencia de hidrógeno [2006.01]"
+  },
+  {
+    "code": "C10G 67/16",
+    "description": "••únicamente por varias etapas en paralelo [2006.01]"
+  },
+  {
+    "code": "C10G 69/00",
+    "description": "Tratamiento de aceites de hidrocarburos por al menos un proceso de hidrotratamiento y al menos otro proceso de conversión (C10G 67/00 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "C10G 69/02",
+    "description": "••únicamente por varias etapas en serie [2006.01]"
+  },
+  {
+    "code": "C10G 69/04",
+    "description": "••••comprendiendo al menos una etapa de cracking catalítico en ausencia de hidrógeno [2006.01]"
+  },
+  {
+    "code": "C10G 69/06",
+    "description": "••••comprendiendo al menos una etapa de cracking térmico en ausencia de hidrógeno [2006.01]"
+  },
+  {
+    "code": "C10G 69/08",
+    "description": "••••comprendiendo al menos una etapa de reformado de \"nafta\" [2006.01]"
+  },
+  {
+    "code": "C10G 69/10",
+    "description": "••••••un hidrocracking de fracciones de alto punto de ebullición en \"nafta\" y un reformado de la \"nafta\" obtenida [2006.01]"
+  },
+  {
+    "code": "C10G 69/12",
+    "description": "••••comprendiendo al menos una etapa de polimerización o alquilación [2006.01]"
+  },
+  {
+    "code": "C10G 69/14",
+    "description": "••únicamente por varias etapas en paralelo [2006.01]"
+  },
+  {
+    "code": "C10G 70/02",
+    "description": "••por hidrogenación [2006.01]"
+  },
+  {
+    "code": "C10G 70/04",
+    "description": "••por procesos físicos [2006.01]"
+  },
+  {
+    "code": "C10G 70/06",
+    "description": "••••por contacto gas-líquido [2006.01]"
+  },
+  {
+    "code": "C10G 71/00",
+    "description": "Tratamiento por métodos no previstos en otro lugar de hidrocarburos o aceites grasos para producir lubricación [2006.01]"
+  },
+  {
+    "code": "C10G 71/02",
+    "description": "••Espesamiento por voltolización (modificación química de aceites secantes por voltolización C09F 7/04) [2006.01]"
+  },
+  {
+    "code": "C10G 73/00",
+    "description": "Obtención o refino de ceras minerales, p. ej. de cera de lignito (composiciones esencialmente basadas en ceras C08L 91/00) [2006.01]"
+  },
+  {
+    "code": "C10G 73/02",
+    "description": "••Obtención de ceras de petróleo a partir de aceites de hidrocarburos; Desparafinado de aceites de hidrocarburos [2006.01]"
+  },
+  {
+    "code": "C10G 73/04",
+    "description": "••••con empleo de auxiliares de filtración [2006.01]"
+  },
+  {
+    "code": "C10G 73/06",
+    "description": "••••con empleo de solventes [2006.01]"
+  },
+  {
+    "code": "C10G 73/08",
+    "description": "••••••Compuestos orgánicos [2006.01]"
+  },
+  {
+    "code": "C10G 73/10",
+    "description": "••••••••Hidrocarburos [2006.01]"
+  },
+  {
+    "code": "C10G 73/12",
+    "description": "••••••••conteniendo oxígeno [2006.01]"
+  },
+  {
+    "code": "C10G 73/14",
+    "description": "••••••••conteniendo halógenos [2006.01]"
+  },
+  {
+    "code": "C10G 73/16",
+    "description": "••••••••conteniendo nitrógeno [2006.01]"
+  },
+  {
+    "code": "C10G 73/18",
+    "description": "••••••••conteniendo azufre, selenio o teluro [2006.01]"
+  },
+  {
+    "code": "C10G 73/20",
+    "description": "••••••••conteniendo fósforo [2006.01]"
+  },
+  {
+    "code": "C10G 73/22",
+    "description": "••••••••Mezclas de compuestos orgánicos [2006.01]"
+  },
+  {
+    "code": "C10G 73/23",
+    "description": "••••••Recuperación de los solventes utilizados [2006.01]"
+  },
+  {
+    "code": "C10G 73/24",
+    "description": "••••por formación de productos de adición [2006.01]"
+  },
+  {
+    "code": "C10G 73/26",
+    "description": "••••por flotado [2006.01]"
+  },
+  {
+    "code": "C10G 73/28",
+    "description": "••••por fuerza centrífuga [2006.01]"
+  },
+  {
+    "code": "C10G 73/30",
+    "description": "••••por medios eléctricos [2006.01]"
+  },
+  {
+    "code": "C10G 73/32",
+    "description": "••••Métodos de enfriamiento durante el desparafinado [2006.01]"
+  },
+  {
+    "code": "C10G 73/34",
+    "description": "••••Control o regulación [2006.01]"
+  },
+  {
+    "code": "C10G 73/36",
+    "description": "••Obtención de ceras de petróleo a partir de otras composiciones que contienen pequeñas cantidades de aceite, a partir de concentrados o residuos; Desaceitado, endulzamiento [2006.01]"
+  },
+  {
+    "code": "C10G 73/38",
+    "description": "••Modificación química de ceras de petróleo [2006.01]"
+  },
+  {
+    "code": "C10G 73/40",
+    "description": "••Tratamiento físico de ceras o de ceras modificadas, p. ej. granulación, dispersión, emulsión, irradiación [2006.01]"
+  },
+  {
+    "code": "C10G 73/42",
+    "description": "••Refino de ceras de petróleo [2006.01]"
+  },
+  {
+    "code": "C10G 73/44",
+    "description": "••••en presencia de hidrógeno o en presencia de compuestos dadores de hidrógeno [2006.01]"
+  },
+  {
+    "code": "C10G 75/00",
+    "description": "Inhibición de la corrosión o de la suciedad en los aparatos de tratamiento o de conversión de aceites de hidrocarburos, en general (C10G 7/10, C10G 9/16 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "C10G 75/02",
+    "description": "••por adición de inhibidores de la corrosión [2006.01]"
+  },
+  {
+    "code": "C10G 75/04",
+    "description": "••por adición de agentes antisuciedad [2006.01]"
+  },
+  {
+    "code": "C10G 99/00",
+    "description": "Materia no prevista en otros grupos de esta subclase [2006.01]"
+  }
+]

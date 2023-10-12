@@ -1,0 +1,478 @@
+[
+  {
+    "code": "G05B 1/00",
+    "description": "Elementos de comparación, es decir, elementos para efectuar la comparación directa o indirectamente entre un valor deseado y los valores existentes o previstos (comparación de la fase o de la frecuencia de dos señales eléctricas H03D 13/00) [2006.01]"
+  },
+  {
+    "code": "G05B 1/01",
+    "description": "••eléctricos [2006.01]"
+  },
+  {
+    "code": "G05B 1/02",
+    "description": "••••para comparar señales analógicas [2006.01]"
+  },
+  {
+    "code": "G05B 1/03",
+    "description": "••••para comparar señales digitales [2006.01]"
+  },
+  {
+    "code": "G05B 1/04",
+    "description": "••••con determinación de la posición de la aguja de un instrumento de medida [2006.01]"
+  },
+  {
+    "code": "G05B 1/06",
+    "description": "••••••siendo continua la determinación [2006.01]"
+  },
+  {
+    "code": "G05B 1/08",
+    "description": "••••••siendo discontinua la determinación [2006.01]"
+  },
+  {
+    "code": "G05B 1/11",
+    "description": "••fluídicas [2006.01]"
+  },
+  {
+    "code": "G05B 5/00",
+    "description": "Disposiciones para eliminar la inestabilidad [2006.01]"
+  },
+  {
+    "code": "G05B 5/01",
+    "description": "••eléctricas [2006.01]"
+  },
+  {
+    "code": "G05B 5/04",
+    "description": "••fluídicas [2006.01]"
+  },
+  {
+    "code": "G05B 6/00",
+    "description": "Disposiciones de realimentación interna para obtener características especiales, p. ej. proporcionales, integrales, diferenciales (en los controladores automáticos G05B 11/00) [2006.01]"
+  },
+  {
+    "code": "G05B 6/02",
+    "description": "••eléctricas [2006.01]"
+  },
+  {
+    "code": "G05B 6/05",
+    "description": "••fluídicas [2006.01]"
+  },
+  {
+    "code": "G05B 7/00",
+    "description": "Disposiciones para obtener un embrague o un desembrague progresivo de un control automático [2006.01]"
+  },
+  {
+    "code": "G05B 7/02",
+    "description": "••eléctricas [2006.01]"
+  },
+  {
+    "code": "G05B 7/04",
+    "description": "••fluídicas [2006.01]"
+  },
+  {
+    "code": "G05B 9/00",
+    "description": "Disposiciones de seguridad (G05B 7/00 tiene prioridad; disposiciones de seguridad en sistemas de control por programa G05B 19/048, G05B 19/406; válvulas de seguridad F16K 17/00; circuitos de protección de seguridad en general H02H) [2006.01]"
+  },
+  {
+    "code": "G05B 9/02",
+    "description": "••eléctricas [2006.01]"
+  },
+  {
+    "code": "G05B 9/03",
+    "description": "••••con un bucle de canal múltiple, es decir, sistemas de control redundantes [2006.01]"
+  },
+  {
+    "code": "G05B 9/05",
+    "description": "••fluídicas [2006.01]"
+  },
+  {
+    "code": "G05B 11/00",
+    "description": "Controladores automáticos (G05B 13/00 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G05B 11/01",
+    "description": "••eléctricos [2006.01]"
+  },
+  {
+    "code": "G05B 11/06",
+    "description": "••••en los que la señal de salida representa una función continua de la desviación en relación al valor deseado, es decir, controladores continuos (G05B 11/26 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G05B 11/10",
+    "description": "••••••estando la señal transmitida en corriente continua [2006.01]"
+  },
+  {
+    "code": "G05B 11/12",
+    "description": "••••••estando la señal transmitida modulada sobre una portadora en corriente alterna [2006.01]"
+  },
+  {
+    "code": "G05B 11/14",
+    "description": "••••en los que la señal de salida representa una función discontinua de la desviación en relación al valor deseado, es decir, controladores discontinuos (G05B 11/26 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G05B 11/16",
+    "description": "••••••Controles en dos fases sucesivas, p. ej. con acción de encendido-apagado [2006.01]"
+  },
+  {
+    "code": "G05B 11/18",
+    "description": "••••••Controlador en fases sucesivas múltiples [2006.01]"
+  },
+  {
+    "code": "G05B 11/26",
+    "description": "••••en los que la señal de salida es un tren de impulsos [2006.01]"
+  },
+  {
+    "code": "G05B 11/28",
+    "description": "••••••que utilizan la modulación de altura de impulsos; que utilizan la modulación de ancho de impulsos [2006.01]"
+  },
+  {
+    "code": "G05B 11/30",
+    "description": "••••••que utilizan la modulación de frecuencia de impulsos [2006.01]"
+  },
+  {
+    "code": "G05B 11/32",
+    "description": "••••con entradas a partir de varios elementos sensores; con salidas hacia varios elementos de corrección [2006.01]"
+  },
+  {
+    "code": "G05B 11/36",
+    "description": "••••con las disposiciones necesarias para obtener características especiales, p. ej. proporcionales, integrales, diferenciales [2006.01]"
+  },
+  {
+    "code": "G05B 11/38",
+    "description": "••••••para obtener una característica proporcional [2006.01]"
+  },
+  {
+    "code": "G05B 11/40",
+    "description": "••••••para obtener una característica integral [2006.01]"
+  },
+  {
+    "code": "G05B 11/42",
+    "description": "••••••para obtener una característica a la vez proporcional y dependiente del tiempo, p. ej. P.I., P.I.D. [2006.01]"
+  },
+  {
+    "code": "G05B 11/44",
+    "description": "••únicamente neumático [2006.01]"
+  },
+  {
+    "code": "G05B 11/46",
+    "description": "••••sin potencia exterior [2006.01]"
+  },
+  {
+    "code": "G05B 11/48",
+    "description": "••••con potencia exterior [2006.01]"
+  },
+  {
+    "code": "G05B 11/50",
+    "description": "••••••en los que la señal de salida representa una función continua de la desviación en relación al valor deseado, es decir, controladores continuos [2006.01]"
+  },
+  {
+    "code": "G05B 11/52",
+    "description": "••••••en las que la señal de salida representa una función discontinua de la desviación en relación con el valor deseado, es decir, controladores discontinuos [2006.01]"
+  },
+  {
+    "code": "G05B 11/54",
+    "description": "••••••••Controladores de dos fases sucesivas, p. ej. con acción de apagado-encendido [2006.01]"
+  },
+  {
+    "code": "G05B 11/56",
+    "description": "••••••••Controladores de fases sucesivas múltiples [2006.01]"
+  },
+  {
+    "code": "G05B 11/58",
+    "description": "••••con entradas a partir de varios elementos sensibles; con salidas hacia varios elementos de corrección [2006.01]"
+  },
+  {
+    "code": "G05B 11/60",
+    "description": "••únicamente hidráulicos [2006.01]"
+  },
+  {
+    "code": "G05B 13/00",
+    "description": "Sistemas de control adaptativos, es decir, sistemas que se regulan a sí mismos para obtener un rendimiento óptimo siguiendo un criterio predeterminado (G05B 19/00 tiene prioridad; aprendizaje automático G06N 20/00) [2006.01]"
+  },
+  {
+    "code": "G05B 13/02",
+    "description": "••eléctricos [2006.01]"
+  },
+  {
+    "code": "G05B 13/04",
+    "description": "••••que implican el uso de modelos o de simuladores [2006.01]"
+  },
+  {
+    "code": "G05B 15/00",
+    "description": "Sistemas controlados por un computador (G05B 13/00, G05B 19/00 tienen prioridad; controladores automáticos con características particulares G05B 11/00; computadores en sí\n\t\t\t\t\t\t\t\t\tG06) [2006.01]"
+  },
+  {
+    "code": "G05B 15/02",
+    "description": "••eléctricos [2006.01]"
+  },
+  {
+    "code": "G05B 17/00",
+    "description": "Sistemas que implican el uso de modelos o de simuladores de dichos sistemas (G05B 13/00, G05B 15/00, G05B 19/00 tienen prioridad; computadores analógicos para procedimientos, sistemas o dispositivos específicos, p. ej. simuladores, G06G 7/48) [2006.01]"
+  },
+  {
+    "code": "G05B 17/02",
+    "description": "••eléctricos [2006.01]"
+  },
+  {
+    "code": "G05B 19/00",
+    "description": "Sistemas de control por programa (aplicaciones específicas, ver los lugares apropiados, p. ej. A47L 15/46; relojes que implican medios anejos o incorporados que permiten hacer funcionar un dispositivo cualquiera en un momento elegido de antemano o después de un intervalo de tiempo predeterminado G04C 23/00; marcado o lectura de soportes de registro con una información digital G06K; registro de información G11; interruptores horarios o de programa horario que se paran automáticamente cuando el programa se ha realizado H01H 43/00) [2006.01]"
+  },
+  {
+    "code": "G05B 19/02",
+    "description": "••eléctricos [2006.01]"
+  },
+  {
+    "code": "G05B 19/04",
+    "description": "••••Control por programa distinto del numérico, es decir, en controladores secuenciales o controladores lógicos (G05B 19/418 tiene prioridad; control numérico G05B 19/18) [2006.01]"
+  },
+  {
+    "code": "G05B 19/042",
+    "description": "••••••que utilizan procesadores digitales (G05B 19/05 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G05B 19/045",
+    "description": "••••••que utilizan máquinas de estados lógicos compuestas únicamente de una memoria o de un dispositivo lógico programable que contiene la lógica de la máquina controlada y en las cuales el estado de sus salidas depende del estado de sus entradas, o de una parte de los estados de su propia salida, p. ej. controladores de decisión binaria, autómatas finitos [2006.01]"
+  },
+  {
+    "code": "G05B 19/048",
+    "description": "••••••Monitorización; Seguridad [2006.01]"
+  },
+  {
+    "code": "G05B 19/05",
+    "description": "••••••Controladores lógicos programables, p. ej. que simulen las interconexiones lógicas de señales según diagramas en escalera o gráficos de funciones [2006.01]"
+  },
+  {
+    "code": "G05B 19/06",
+    "description": "••••••que utilizan levas, discos, tambores o análogos (aparatos de control por programa mecánicos G05G 21/00) [2006.01]"
+  },
+  {
+    "code": "G05B 19/07",
+    "description": "••••••donde el programa está definido por las conexiones fijas entre elementos eléctricos, p. ej. potenciometros, contadores, transistores [2006.01]"
+  },
+  {
+    "code": "G05B 19/08",
+    "description": "••••••que utilizan tableros de conexión, de distribuidores de barras cruzadas, de conmutadores de matriz, o análogos [2006.01]"
+  },
+  {
+    "code": "G05B 19/10",
+    "description": "••••••que utilizan selectores [2006.01]"
+  },
+  {
+    "code": "G05B 19/12",
+    "description": "••••••que utilizan soportes de registro [2006.01]"
+  },
+  {
+    "code": "G05B 19/14",
+    "description": "••••••••que utilizan fichas o cintas perforadas [2006.01]"
+  },
+  {
+    "code": "G05B 19/16",
+    "description": "••••••••que utilizan soportes de registro magnéticos [2006.01]"
+  },
+  {
+    "code": "G05B 19/18",
+    "description": "••••Control numérico (NC), es decir, máquinas que funcionan automáticamente, en particular máquinas herramientas, p. ej. en un entorno de fabricación industrial, para efectuar un posicionamiento, un movimiento o acciones coordinadas por medio de datos de un programa en forma numérica (G05B 19/418 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G05B 19/19",
+    "description": "••••••caracterizado por sistemas de control de posición o de control de contorno, p. ej. para controlar la posición desde un punto programado hacia otro punto o para controlar un movimiento a lo largo de un recorrido continuo programado [2006.01]"
+  },
+  {
+    "code": "G05B 19/21",
+    "description": "••••••••que utilizan un dispositivo de medida digital diferencial [2006.01]"
+  },
+  {
+    "code": "G05B 19/23",
+    "description": "••••••••••para control punto por punto [2006.01]"
+  },
+  {
+    "code": "G05B 19/25",
+    "description": "••••••••••para control continuo de recorridos [2006.01]"
+  },
+  {
+    "code": "G05B 19/27",
+    "description": "••••••••que utilizan un dispositivo de medida digital absoluto [2006.01]"
+  },
+  {
+    "code": "G05B 19/29",
+    "description": "••••••••••para control punto por punto [2006.01]"
+  },
+  {
+    "code": "G05B 19/31",
+    "description": "••••••••••para control continuo de recorridos [2006.01]"
+  },
+  {
+    "code": "G05B 19/33",
+    "description": "••••••••que utilizan un dispositivo de medida analógico [2006.01]"
+  },
+  {
+    "code": "G05B 19/35",
+    "description": "••••••••••para control punto por punto [2006.01]"
+  },
+  {
+    "code": "G05B 19/37",
+    "description": "••••••••••para control continuo de recorridos [2006.01]"
+  },
+  {
+    "code": "G05B 19/39",
+    "description": "••••••••que utilizan una combinación de medios cubiertos por al menos dos de los grupos G05B 19/21, G05B 19/27 y G05B 19/33 [2006.01]"
+  },
+  {
+    "code": "G05B 19/40",
+    "description": "••••••••Sistemas de bucle abierto, p. ej. que utilizan un motor paso a paso [2006.01]"
+  },
+  {
+    "code": "G05B 19/401",
+    "description": "••••••caracterizado por disposiciones de control para la medida, p. ej. calibración e inicialización, medida de la pieza de trabajo con fines de mecanizado (G05B 19/19 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G05B 19/402",
+    "description": "••••••caracterizado por disposiciones de control para el posicionamiento, p. ej. centrado de una herramienta con respecto a un agujero en la pieza de trabajo, medios de detección adicionales para corregir la posición (G05B 19/19 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G05B 19/404",
+    "description": "••••••caracterizado por disposiciones de control para la compensación, p. ej. la holgura, el exceso, el desfase de la herramienta, el desgaste de la herramienta, la temperatura, los errores de construcción de la máquina, la carga, la inercia (G05B 19/19, G05B 19/41 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G05B 19/406",
+    "description": "••••••caracterizado por la monitorización o la seguridad (G05B 19/19 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G05B 19/4061",
+    "description": "••••••••Prevención de las colisiones o de las zonas prohibidas [2006.01]"
+  },
+  {
+    "code": "G05B 19/4062",
+    "description": "••••••••Monitorización del bucle de realimentación, p. ej. sobrecarga del servomotor, pérdida de realimentación o de referencia [2006.01]"
+  },
+  {
+    "code": "G05B 19/4063",
+    "description": "••••••••Monitorización del sistema de control general (G05B 19/4062 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G05B 19/4065",
+    "description": "••••••••Monitorización de rotura, de la vida o del estado de una herramienta [2006.01]"
+  },
+  {
+    "code": "G05B 19/4067",
+    "description": "••••••••Recuperación de los datos o de la posición después de un fallo de alimentación o de otra interrupción [2006.01]"
+  },
+  {
+    "code": "G05B 19/4068",
+    "description": "••••••••Verificación de un programa de pieza en la pantalla, mediante dibujo o por otros medios [2006.01]"
+  },
+  {
+    "code": "G05B 19/4069",
+    "description": "••••••••Simulación del procedimiento de mecanizado en la pantalla (G05B 19/4068 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G05B 19/408",
+    "description": "••••••caracterizado por la gestión de datos o el formato de los datos p. ej. lectura, introducción en una memoria intermedia o conversión de datos [2006.01]"
+  },
+  {
+    "code": "G05B 19/409",
+    "description": "••••••caracterizado por la utilización de la entrada manual de datos (MDI) o por la utilización de un panel de control, p. ej. control de funciones con el panel; caracterizado por los detalles del panel de control, por el establecimiento de parámetros (G05B 19/408, G05B 19/4093 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G05B 19/4093",
+    "description": "••••••caracterizado por la programación de pieza, p. ej. introducción de información geométrica derivada de un dibujo técnico, combinación de esta información con la información de mecanizado y de material para obtener una información de control, llamada programa de pieza, para la máquina de control numérico (NC) [2006.01]"
+  },
+  {
+    "code": "G05B 19/4097",
+    "description": "••••••caracterizado por la utilización de datos de diseño para controlar máquinas de control numérico (NC), p. ej. diseño y fabricación asistidos por computador CAD/CAM (G05B 19/4093 tiene prioridad; diseño asistido por computador CAD, en general G06F 30/00) [2006.01]"
+  },
+  {
+    "code": "G05B 19/4099",
+    "description": "••••••••Mecanizado de superficie o de curva, fabricación de objetos en tres dimensiones (3D), p. ej. fabricación asistida por computador [2006.01]"
+  },
+  {
+    "code": "G05B 19/41",
+    "description": "••••••caracterizado por la interpolación, p. ej. por el cálculo de puntos intermedios entre los puntos extremos programados para definir el recorrido a seguir y la velocidad del desplazamiento a lo largo de ese recorrido (G05B 19/25, G05B 19/31, G05B 19/37, G05B 19/39, G05B 19/40 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G05B 19/4103",
+    "description": "••••••••Interpolación digital [2006.01]"
+  },
+  {
+    "code": "G05B 19/4105",
+    "description": "••••••••Interpolación analógica [2006.01]"
+  },
+  {
+    "code": "G05B 19/414",
+    "description": "••••••Estructura del sistema de control, p. ej. controlador común o sistema multiprocesador, interfaz hacia el servocontrolador, controlador de interfaz programable [2006.01]"
+  },
+  {
+    "code": "G05B 19/4155",
+    "description": "••••••caracterizado por la ejecución del programa, es decir, la ejecución de un programa de pieza o la ejecución de una función máquina, p. ej. selección de un programa [2006.01]"
+  },
+  {
+    "code": "G05B 19/416",
+    "description": "••••••caracterizado por el control de la velocidad, de la aceleración o de la deceleración (G05B 19/19 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G05B 19/418",
+    "description": "••••Control total de una fábrica, es decir, control centralizado de varias máquinas, p. ej. control numérico directo o distribuido (DNC), sistemas de fabricación flexibles (FMS), sistemas de fabricación integrados (IMS), fabricación integrada por computador (CIM) [2006.01]"
+  },
+  {
+    "code": "G05B 19/42",
+    "description": "••••Sistemas de registro y de reproducción, es decir, en los que el programa es registrado a partir de un ciclo de operaciones, p. ej. el ciclo de operaciones está controlado a mano, y a continuación este registro es reproducido en la misma máquina [2006.01]"
+  },
+  {
+    "code": "G05B 19/421",
+    "description": "••••••Aprendizaje de posiciones sucesivas por medios mecánicos, p. ej. por volantes de acoplamiento mecánico para posicionar la cabeza del porta-herramienta o el actuador del extremo del brazo (G05B 19/423 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G05B 19/423",
+    "description": "••••••Aprendizaje de posiciones sucesivas por guiado, es decir, estando sujetos y guiados la cabeza porta-herramienta o el actuador del extremo del brazo directamente, con o sin ayuda por servomotor, para seguir un recorrido [2006.01]"
+  },
+  {
+    "code": "G05B 19/425",
+    "description": "••••••Aprendizaje de posiciones sucesivas por control numérico, es decir, siendo introducidas las órdenes para controlar el servoposicionamiento de la cabeza porta-herramienta o del actuador del extremo del brazo [2006.01]"
+  },
+  {
+    "code": "G05B 19/427",
+    "description": "••••••Aprendizaje de posiciones sucesivas siguiendo la posición de una palanca de mando o de una palanca para controlar el servoposicionamiento de la cabeza porta-herramienta, control maestro-esclavo (G05B 19/423 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G05B 19/43",
+    "description": "••fluídicos [2006.01]"
+  },
+  {
+    "code": "G05B 19/44",
+    "description": "••••neumáticos [2006.01]"
+  },
+  {
+    "code": "G05B 19/46",
+    "description": "••••hidráulicos [2006.01]"
+  },
+  {
+    "code": "G05B 21/00",
+    "description": "Sistemas que implican el muestreo de la variable controlada (G05B 13/00-G05B 19/00 tienen prioridad; sistemas de transmisión de señales en sí G08C; conmutación o abertura de puerta electrónica H03K 17/00) [2006.01]"
+  },
+  {
+    "code": "G05B 21/02",
+    "description": "••eléctricas [2006.01]"
+  },
+  {
+    "code": "G05B 23/00",
+    "description": "Ensayo o monitorización de sistemas de control o de sus elementos (monitorización de sistemas de control por programa G05B 19/048, G05B 19/406) [2006.01]"
+  },
+  {
+    "code": "G05B 23/02",
+    "description": "••Ensayo o monitorización eléctrico [2006.01]"
+  },
+  {
+    "code": "G05B 24/00",
+    "description": "Sistemas de control automático de bucle abierto no previstos en otro lugar [2006.01]"
+  },
+  {
+    "code": "G05B 24/02",
+    "description": "••eléctricos [2006.01]"
+  },
+  {
+    "code": "G05B 24/04",
+    "description": "••fluídicos [2006.01]"
+  },
+  {
+    "code": "G05B 99/00",
+    "description": "Materia no prevista en otros grupos de esta subclase [2006.01]"
+  }
+]

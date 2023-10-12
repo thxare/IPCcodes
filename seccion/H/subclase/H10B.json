@@ -1,0 +1,214 @@
+[
+  {
+    "code": "H10B 10/00",
+    "description": "Dispositivos de memoria estática de acceso aleatorio [SRAM] [2023.01]"
+  },
+  {
+    "code": "H10B 10/10",
+    "description": "••Dispositivos SRAM con componentes bipolares [2023.01]"
+  },
+  {
+    "code": "H10B 12/00",
+    "description": "Dispositivos de memoria dinámica de acceso aleatorio [DRAM] [2023.01]"
+  },
+  {
+    "code": "H10B 12/10",
+    "description": "••Dispositivos DRAM con componentes bipolares [2023.01]"
+  },
+  {
+    "code": "H10B 20/00",
+    "description": "Dispositivos de memoria de sólo lectura [ROM] [2023.01]"
+  },
+  {
+    "code": "H10B 20/10",
+    "description": "••Dispositivos ROM con componentes bipolares [2023.01]"
+  },
+  {
+    "code": "H10B 20/20",
+    "description": "••Dispositivos ROM programables [PROM] con componentes de efecto de campo (H10B 20/10 tiene prioridad) [2023.01]"
+  },
+  {
+    "code": "H10B 20/25",
+    "description": "••••Dispositivos ROM programables una sola vez [OTPROM], p. ej. mediante enlaces eléctricamente fusibles [2023.01]"
+  },
+  {
+    "code": "H10B 41/00",
+    "description": "Dispositivos de memoria ROM programable y borrable eléctricamente [EEPROM] con puertas flotantes [2023.01]"
+  },
+  {
+    "code": "H10B 41/10",
+    "description": "••caracterizados por la disposición de la vista superior [2023.01]"
+  },
+  {
+    "code": "H10B 41/20",
+    "description": "••caracterizados por su disposición tridimensional, p. ej. con celdas en diferentes niveles de altura [2023.01]"
+  },
+  {
+    "code": "H10B 41/23",
+    "description": "••••con fuente y drenaje en diferentes niveles, p. ej. con canales inclinados [2023.01]"
+  },
+  {
+    "code": "H10B 41/27",
+    "description": "••••••los canales que comprenden porciones verticales, p. ej. canales en forma de U [2023.01]"
+  },
+  {
+    "code": "H10B 41/30",
+    "description": "••caracterizados por la región del núcleo de la memoria [2023.01]"
+  },
+  {
+    "code": "H10B 41/35",
+    "description": "••••con un transistor de selección de celdas, p. ej. NAND [2023.01]"
+  },
+  {
+    "code": "H10B 41/40",
+    "description": "••caracterizados por la región del circuito periférico [2023.01]"
+  },
+  {
+    "code": "H10B 41/41",
+    "description": "••••de una región de memoria que comprende un transistor de selección de celda, p. ej. NAND [2023.01]"
+  },
+  {
+    "code": "H10B 41/42",
+    "description": "••••Fabricación simultánea de células periféricas y de memoria [2023.01]"
+  },
+  {
+    "code": "H10B 41/43",
+    "description": "••••••que comprende sólo un tipo de transistor periférico [2023.01]"
+  },
+  {
+    "code": "H10B 41/44",
+    "description": "••••••••con una capa de puerta de control que también se utiliza como parte del transistor periférico [2023.01]"
+  },
+  {
+    "code": "H10B 41/46",
+    "description": "••••••••con una capa dieléctrica entre puertas que también se utiliza como parte del transistor periférico [2023.01]"
+  },
+  {
+    "code": "H10B 41/47",
+    "description": "••••••••con una capa de puerta flotante que también se utiliza como parte del transistor periférico [2023.01]"
+  },
+  {
+    "code": "H10B 41/48",
+    "description": "••••••••con una capa dieléctrica de túnel que también se utiliza como parte del transistor periférico [2023.01]"
+  },
+  {
+    "code": "H10B 41/49",
+    "description": "••••••que comprende diferentes tipos de transistores periféricos [2023.01]"
+  },
+  {
+    "code": "H10B 41/50",
+    "description": "••caracterizados por la región límite entre la región del núcleo y la región del circuito periférico [2023.01]"
+  },
+  {
+    "code": "H10B 41/60",
+    "description": "••la puerta de control es una región dopada, p. ej. una célula de memoria de un solo polímero [2023.01]"
+  },
+  {
+    "code": "H10B 41/70",
+    "description": "••la puerta flotante es un electrodo compartido por dos o más componentes [2023.01]"
+  },
+  {
+    "code": "H10B 43/00",
+    "description": "Dispositivos EEPROM con aislantes de puerta que atrapan la carga [2023.01]"
+  },
+  {
+    "code": "H10B 43/10",
+    "description": "••caracterizados por la disposición de la vista superior [2023.01]"
+  },
+  {
+    "code": "H10B 43/20",
+    "description": "••caracterizados por su disposición tridimensional, p. ej. con celdas en diferentes niveles de altura [2023.01]"
+  },
+  {
+    "code": "H10B 43/23",
+    "description": "••••con fuente y drenaje en diferentes niveles, p. ej. con canales inclinados [2023.01]"
+  },
+  {
+    "code": "H10B 43/27",
+    "description": "••••••los canales que comprenden porciones verticales, p. ej. canales en forma de U [2023.01]"
+  },
+  {
+    "code": "H10B 43/30",
+    "description": "••caracterizados por la región del núcleo de la memoria [2023.01]"
+  },
+  {
+    "code": "H10B 43/35",
+    "description": "••••con transistores de selección de celdas, p. ej. NAND [2023.01]"
+  },
+  {
+    "code": "H10B 43/40",
+    "description": "••caracterizados por la región del circuito periférico [2023.01]"
+  },
+  {
+    "code": "H10B 43/50",
+    "description": "••caracterizados por la región límite entre las regiones del núcleo y del circuito periférico [2023.01]"
+  },
+  {
+    "code": "H10B 51/00",
+    "description": "Dispositivos RAM ferroeléctricos [FeRAM] que comprenden transistores de memoria ferroeléctricos [2023.01]"
+  },
+  {
+    "code": "H10B 51/10",
+    "description": "••caracterizados por la disposición de la vista superior [2023.01]"
+  },
+  {
+    "code": "H10B 51/20",
+    "description": "••caracterizados por las disposiciones tridimensionales, p. ej. con celdas en diferentes niveles de altura [2023.01]"
+  },
+  {
+    "code": "H10B 51/30",
+    "description": "••caracterizados por la región del núcleo de la memoria [2023.01]"
+  },
+  {
+    "code": "H10B 51/40",
+    "description": "••caracterizados por la región del circuito periférico [2023.01]"
+  },
+  {
+    "code": "H10B 51/50",
+    "description": "••caracterizados por la región límite entre las regiones del núcleo y del circuito periférico [2023.01]"
+  },
+  {
+    "code": "H10B 53/00",
+    "description": "Dispositivos RAM ferroeléctricos [FeRAM] que comprenden condensadores de memoria ferroeléctricos [2023.01]"
+  },
+  {
+    "code": "H10B 53/10",
+    "description": "••caracterizados por la disposición de la vista superior [2023.01]"
+  },
+  {
+    "code": "H10B 53/20",
+    "description": "••caracterizados por las disposiciones tridimensionales, p. ej. con celdas en diferentes niveles de altura [2023.01]"
+  },
+  {
+    "code": "H10B 53/30",
+    "description": "••caracterizados por la región del núcleo de la memoria [2023.01]"
+  },
+  {
+    "code": "H10B 53/40",
+    "description": "••caracterizados por la región del circuito periférico [2023.01]"
+  },
+  {
+    "code": "H10B 53/50",
+    "description": "••caracterizados por la región límite entre las regiones del núcleo y del circuito periférico [2023.01]"
+  },
+  {
+    "code": "H10B 61/00",
+    "description": "Dispositivos de memoria magnéticoo, p. ej. dispositivos RAM magnetorresistivos [MRAM]. [2023.01]"
+  },
+  {
+    "code": "H10B 63/00",
+    "description": "Dispositivos de memoria de cambio de resistencia, p. ej. dispositivos RAM resistivos [ReRAM] [2023.01]"
+  },
+  {
+    "code": "H10B 63/10",
+    "description": "••Dispositivos RAM de cambio de fase [PCRAM, PRAM] [2023.01]"
+  },
+  {
+    "code": "H10B 69/00",
+    "description": "Dispositivos ROM borrables y programables [EPROM] no previstos en los grupos H10B 41/00-H10B 63/00, p. ej. dispositivos ROM ultravioleta borrables y programables [UVEPROM] [2023.01]"
+  },
+  {
+    "code": "H10B 99/00",
+    "description": "Materia no prevista en otros grupos de esta subclase [2023.01]"
+  }
+]

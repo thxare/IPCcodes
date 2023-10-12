@@ -1,0 +1,1126 @@
+[
+  {
+    "code": "H05B 1/00",
+    "description": "Detalles de los dispositivos de calefacción [2006.01]"
+  },
+  {
+    "code": "H05B 1/02",
+    "description": "••Disposiciones de conmutación automática especialmente adaptadas a los aparatos de calefacción (conmutadores accionados térmicamente H01H 37/00) [2006.01]"
+  },
+  {
+    "code": "H05B 3/00",
+    "description": "Calefacción por resistencia óhmica [2006.01]"
+  },
+  {
+    "code": "H05B 3/02",
+    "description": "••Detalles [2006.01]"
+  },
+  {
+    "code": "H05B 3/03",
+    "description": "••••Electrodos [2006.01]"
+  },
+  {
+    "code": "H05B 3/04",
+    "description": "••••Juntas estancas al aire o al agua para aparatos de calefacción [2006.01]"
+  },
+  {
+    "code": "H05B 3/06",
+    "description": "••••Elementos calefactores combinados estructuralmente con elementos de acoplamiento o con soportes [2006.01]"
+  },
+  {
+    "code": "H05B 3/08",
+    "description": "••••••teniendo conexiones eléctricas especialmente adaptadas para altas temperaturas [2006.01]"
+  },
+  {
+    "code": "H05B 3/10",
+    "description": "••Elementos calefactores caracterizados por la composición o naturaleza de los materiales o por la disposición del conductor (composiciones en sí, ver la subclase correspondiente) [2006.01]"
+  },
+  {
+    "code": "H05B 3/12",
+    "description": "••••caracterizados por la composición o naturaleza del material conductor [2006.01]"
+  },
+  {
+    "code": "H05B 3/14",
+    "description": "••••••siendo el material no metálico [2006.01]"
+  },
+  {
+    "code": "H05B 3/16",
+    "description": "••••estando el conductor montado sobre una base aislante [2006.01]"
+  },
+  {
+    "code": "H05B 3/18",
+    "description": "••••estando el conductor empotrado en un material aislante [2006.01]"
+  },
+  {
+    "code": "H05B 3/20",
+    "description": "••Elementos calefactores que tienen una superficie extendiéndose esencialmente en dos dimensiones, p. ej. placas calefactoras (H05B 3/62, H05B 3/68, H05B 3/78, H05B 3/84 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H05B 3/22",
+    "description": "••••no flexibles [2006.01]"
+  },
+  {
+    "code": "H05B 3/24",
+    "description": "••••••estando el conductor de calefacción autosoportado [2006.01]"
+  },
+  {
+    "code": "H05B 3/26",
+    "description": "••••••el conductor de calefacción montado sobre una base aislante [2006.01]"
+  },
+  {
+    "code": "H05B 3/28",
+    "description": "••••••el conductor de calefacción empotrado en un material aislante [2006.01]"
+  },
+  {
+    "code": "H05B 3/30",
+    "description": "••••••••sobre o entre placas metálicas [2006.01]"
+  },
+  {
+    "code": "H05B 3/32",
+    "description": "••••••el conductor de calefacción montado sobre aislante o sobre chasis metálicos [2006.01]"
+  },
+  {
+    "code": "H05B 3/34",
+    "description": "••••flexibles, p. ej. rejillas o tejidos calefactores [2006.01]"
+  },
+  {
+    "code": "H05B 3/36",
+    "description": "••••••conductor calefactor empotrado en un material aislante [2006.01]"
+  },
+  {
+    "code": "H05B 3/38",
+    "description": "••••••••Polvo conductor [2006.01]"
+  },
+  {
+    "code": "H05B 3/40",
+    "description": "••Elementos calefactores que tienen la forma de barras o de tubos (H05B 3/62, H05B 3/68, H05B 3/78 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H05B 3/42",
+    "description": "••••no flexibles [2006.01]"
+  },
+  {
+    "code": "H05B 3/44",
+    "description": "••••••conductores de calefacción dispuestos en el interior de barras o tubos de material aislante [2006.01]"
+  },
+  {
+    "code": "H05B 3/46",
+    "description": "••••••el conductor de calefacción montado sobre una base aislante [2006.01]"
+  },
+  {
+    "code": "H05B 3/48",
+    "description": "••••••el conductor de calefacción empotrado en un material aislante [2006.01]"
+  },
+  {
+    "code": "H05B 3/50",
+    "description": "••••••••el conductor de calefacción dispuesto en tubos metálicos, teniendo la superficie radiante nervaduras para la conducción del calor [2006.01]"
+  },
+  {
+    "code": "H05B 3/52",
+    "description": "••••••••Aparatos o procedimientos para rellenar o comprimir un material aislante en tubos [2006.01]"
+  },
+  {
+    "code": "H05B 3/54",
+    "description": "••••flexibles [2006.01]"
+  },
+  {
+    "code": "H05B 3/56",
+    "description": "••••••Cables calefactores [2006.01]"
+  },
+  {
+    "code": "H05B 3/58",
+    "description": "••••••Tubos flexibles; Collares de calefacción [2006.01]"
+  },
+  {
+    "code": "H05B 3/60",
+    "description": "••Dispositivos de calefacción en los cuales la corriente de calefacción circula en un material granulado, en polvo o fluido, p. ej. horno de baño de sales, calefacción electrolítica (H05B 3/38 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H05B 3/62",
+    "description": "••Elementos de calefacción especialmente adaptados a los hornos (H05B 3/60 tiene prioridad; disposición de tales elementos en los hornos de calefacción por resistencia óhmica F27D 11/02) [2006.01]"
+  },
+  {
+    "code": "H05B 3/64",
+    "description": "••••utilizando cintas, varillas o hilos calefactores [2006.01]"
+  },
+  {
+    "code": "H05B 3/66",
+    "description": "••••Soportes o fijaciones para elementos calefactores sobre o en la pared o techo [2006.01]"
+  },
+  {
+    "code": "H05B 3/68",
+    "description": "••Dispositivos de calefacción especialmente adaptados a las placas de cocina o placas calientes análogas [2006.01]"
+  },
+  {
+    "code": "H05B 3/70",
+    "description": "••••Placas de metal fundido [2006.01]"
+  },
+  {
+    "code": "H05B 3/72",
+    "description": "••••Placas de metal laminado [2006.01]"
+  },
+  {
+    "code": "H05B 3/74",
+    "description": "••••Placas no metálicas [2006.01]"
+  },
+  {
+    "code": "H05B 3/76",
+    "description": "••••Placas con tubos de calefacción enrollados en espiral [2006.01]"
+  },
+  {
+    "code": "H05B 3/78",
+    "description": "••Dispositivos de calefacción adaptados especialmente a la calefacción por inmersión [2006.01]"
+  },
+  {
+    "code": "H05B 3/80",
+    "description": "••••Elementos portátiles de calefacción por inmersión [2006.01]"
+  },
+  {
+    "code": "H05B 3/82",
+    "description": "••••Elementos de calefacción por inmersión montados de una manera fija [2006.01]"
+  },
+  {
+    "code": "H05B 3/84",
+    "description": "••Disposiciones para la calefacción especialmente adaptadas a superficies transparentes o reflectantes, p. ej. para desempañar o deshelar ventanas, espejos o parabrisas de vehículos [2006.01]"
+  },
+  {
+    "code": "H05B 3/86",
+    "description": "••••estando incluidos los conductos de calefacción en el material transparente o reflectante [2006.01]"
+  },
+  {
+    "code": "H05B 6/00",
+    "description": "Calefacción por campos eléctricos, magnéticos o electromagnéticos [2006.01]"
+  },
+  {
+    "code": "H05B 6/02",
+    "description": "••Calefacción por inducción [2006.01]"
+  },
+  {
+    "code": "H05B 6/04",
+    "description": "••••Fuentes de corriente [2006.01]"
+  },
+  {
+    "code": "H05B 6/06",
+    "description": "••••Control, p. ej. de la temperatura, de la potencia [2006.01]"
+  },
+  {
+    "code": "H05B 6/08",
+    "description": "••••••utilizando dispositivos de compensación o equilibrado [2006.01]"
+  },
+  {
+    "code": "H05B 6/10",
+    "description": "••••Aparatos de calefacción por inducción, distintos de los hornos, para aplicaciones específicas [2006.01]"
+  },
+  {
+    "code": "H05B 6/12",
+    "description": "••••••Dispositivos para la cocción [2006.01]"
+  },
+  {
+    "code": "H05B 6/14",
+    "description": "••••••Utillaje, p. ej. toberas, rodillos, calandrias [2006.01]"
+  },
+  {
+    "code": "H05B 6/16",
+    "description": "••••Hornos con núcleos sinfín (H05B 6/34 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H05B 6/18",
+    "description": "••••••provistos de cubeta de fusión [2006.01]"
+  },
+  {
+    "code": "H05B 6/20",
+    "description": "••••••provistos de canal de fusión solamente [2006.01]"
+  },
+  {
+    "code": "H05B 6/22",
+    "description": "••••Hornos sin núcleo sinfín (H05B 6/34 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H05B 6/24",
+    "description": "••••••Hornos de crisol (H05B 6/30 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H05B 6/26",
+    "description": "••••••••que utilizan el vacío o una atmósfera de gas particular [2006.01]"
+  },
+  {
+    "code": "H05B 6/28",
+    "description": "••••••••Sistemas de protección [2006.01]"
+  },
+  {
+    "code": "H05B 6/30",
+    "description": "••••••Disposiciones para la refundición o para la fusión de una zona [2006.01]"
+  },
+  {
+    "code": "H05B 6/32",
+    "description": "••••••Disposiciones para la levitación y la calefacción simultáneas [2006.01]"
+  },
+  {
+    "code": "H05B 6/34",
+    "description": "••••Disposiciones para la circulación del metal fundido [2006.01]"
+  },
+  {
+    "code": "H05B 6/36",
+    "description": "••••Disposiciones de las bobinas [2006.01]"
+  },
+  {
+    "code": "H05B 6/38",
+    "description": "••••••especialmente concebidas con objeto de la adaptación a los espacios huecos de las piezas a trabajar [2006.01]"
+  },
+  {
+    "code": "H05B 6/40",
+    "description": "••••••Establecimiento de una distribución deseada del calor, p. ej. para calentar partes determinadas de las piezas a trabajar [2006.01]"
+  },
+  {
+    "code": "H05B 6/42",
+    "description": "••••••Enfriamiento de bobinas [2006.01]"
+  },
+  {
+    "code": "H05B 6/44",
+    "description": "••••••que implican varias bobinas o segmentos de bobinas [2006.01]"
+  },
+  {
+    "code": "H05B 6/46",
+    "description": "••Calefacción dieléctrica (H05B 6/64 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H05B 6/48",
+    "description": "••••Circuitos [2006.01]"
+  },
+  {
+    "code": "H05B 6/50",
+    "description": "••••••para el control o la vigilancia [2006.01]"
+  },
+  {
+    "code": "H05B 6/52",
+    "description": "••••Líneas para la alimentación [2006.01]"
+  },
+  {
+    "code": "H05B 6/54",
+    "description": "••••Electrodos [2006.01]"
+  },
+  {
+    "code": "H05B 6/56",
+    "description": "••••••Electrodos giratorios [2006.01]"
+  },
+  {
+    "code": "H05B 6/58",
+    "description": "••••••\" del tipo \"máquina de coser\" [2006.01]"
+  },
+  {
+    "code": "H05B 6/60",
+    "description": "••••Disposiciones para el movimiento continuo del material [2006.01]"
+  },
+  {
+    "code": "H05B 6/62",
+    "description": "••••Aparatos para aplicaciones específicas [2006.01]"
+  },
+  {
+    "code": "H05B 6/64",
+    "description": "••Calefacción por microondas [2006.01]"
+  },
+  {
+    "code": "H05B 6/66",
+    "description": "••••Circuitos [2006.01]"
+  },
+  {
+    "code": "H05B 6/68",
+    "description": "••••••para el control o la vigilancia [2006.01]"
+  },
+  {
+    "code": "H05B 6/70",
+    "description": "••••Líneas para la alimentación [2006.01]"
+  },
+  {
+    "code": "H05B 6/72",
+    "description": "••••Elementos radiantes o antenas [2006.01]"
+  },
+  {
+    "code": "H05B 6/74",
+    "description": "••••Transformadores de modo o incitador de modo [2006.01]"
+  },
+  {
+    "code": "H05B 6/76",
+    "description": "••••Prevención de fugas de microondas, p. ej. estanqueidad de puertas [2006.01]"
+  },
+  {
+    "code": "H05B 6/78",
+    "description": "••••Disposiciones para el movimiento continuo de material [2006.01]"
+  },
+  {
+    "code": "H05B 6/80",
+    "description": "••••Aparatos para aplicaciones específicas (estufas u hornillas calentadas mediante microondas F24C 7/02) [2006.01]"
+  },
+  {
+    "code": "H05B 7/00",
+    "description": "Calefacción por descarga eléctrica (antorchas de plasma H05H 1/26) [2006.01]"
+  },
+  {
+    "code": "H05B 7/02",
+    "description": "••Detalles [2006.01]"
+  },
+  {
+    "code": "H05B 7/06",
+    "description": "••••Electrodos [2006.01]"
+  },
+  {
+    "code": "H05B 7/07",
+    "description": "••••••previstos para fundirse con el uso [2006.01]"
+  },
+  {
+    "code": "H05B 7/08",
+    "description": "••••••no consumibles [2006.01]"
+  },
+  {
+    "code": "H05B 7/085",
+    "description": "••••••••constituidos principalmente de carbono [2006.01]"
+  },
+  {
+    "code": "H05B 7/09",
+    "description": "••••••••••Electrodos de autococción [2006.01]"
+  },
+  {
+    "code": "H05B 7/10",
+    "description": "••••Fijaciones, soportes, bornas o dispositivos para avanzar o guiar los electrodos [2006.01]"
+  },
+  {
+    "code": "H05B 7/101",
+    "description": "••••••Fijaciones, soportes o bornas en la cabeza del electrodo, es decir, en la extremidad alejada del arco [2006.01]"
+  },
+  {
+    "code": "H05B 7/102",
+    "description": "••••••••especialmente adaptadas para los electrodos consumibles [2006.01]"
+  },
+  {
+    "code": "H05B 7/103",
+    "description": "••••••Fijaciones, soportes o bornes con mandíbulas (H05B 7/101 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H05B 7/105",
+    "description": "••••••••con más de dos mandíbulas igualmente distribuidas sobre la conferencia, p. ej. portaelectrodo en forma de anillo [2006.01]"
+  },
+  {
+    "code": "H05B 7/107",
+    "description": "••••••especialmente adaptados para los electrodos de autococción [2006.01]"
+  },
+  {
+    "code": "H05B 7/109",
+    "description": "••••••Disposiciones para el avance (H05B 7/107 tiene prioridad; si el control del desplazamiento del electrodo forma parte de un sistema en bucle cerrado para el control automático de la potencia H05B 7/148) [2006.01]"
+  },
+  {
+    "code": "H05B 7/11",
+    "description": "••••Disposiciones para llevar la corriente a las extremidades de los electrodos [2006.01]"
+  },
+  {
+    "code": "H05B 7/12",
+    "description": "••••Disposiciones para refrigerar, hacer estancos o proteger los electrodos [2006.01]"
+  },
+  {
+    "code": "H05B 7/14",
+    "description": "••••Disposiciones o procesos para conectar las secciones sucesivas de electrodos [2006.01]"
+  },
+  {
+    "code": "H05B 7/144",
+    "description": "••••Fuentes de potencia especialmente adaptadas para la calefacción por descarga eléctrica; Control automático de la potencia, p. ej. controlando la posición de los electrodos [2006.01]"
+  },
+  {
+    "code": "H05B 7/148",
+    "description": "••••••Control automático de la potencia (disposiciones para el avance de los electrodos H05B 7/109; disposiciones para el avance automático de los electrodos para la soldadura o corte con arco en líneas continuas o por puntos B23K 9/12; disposición de los electrodos en los hornos F27D 11/10; regulación de las características eléctricas de los arcos G05F 1/02) [2006.01]"
+  },
+  {
+    "code": "H05B 7/152",
+    "description": "••••••••por medios electromecánicos de control de la posición de los electrodos [2006.01]"
+  },
+  {
+    "code": "H05B 7/156",
+    "description": "••••••••por medios hidráulicos o neumáticos de control de la posición de electrodos [2006.01]"
+  },
+  {
+    "code": "H05B 7/16",
+    "description": "••Calefacción por descarga luminiscente [2006.01]"
+  },
+  {
+    "code": "H05B 7/18",
+    "description": "••Calefacción por descarga de arco [2006.01]"
+  },
+  {
+    "code": "H05B 7/20",
+    "description": "••••Calefacción directa de arco, es decir, al menos una extremidad del arco actúa directamente sobre el material a calentar, incluyendo la calefacción por resistencia adicional producida por la corriente del arco que atraviesa el material a calentar [2006.01]"
+  },
+  {
+    "code": "H05B 7/22",
+    "description": "••••Calefacción indirecta del arco [2006.01]"
+  },
+  {
+    "code": "H05B 11/00",
+    "description": "Calefacción por aplicación combinada de los procedimientos cubiertos por varios de los grupos H05B 3/00-H05B 7/00 (H05B 7/20 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H05B 31/00",
+    "description": "Lámparas de arco eléctrico (regulación de las características eléctricas de los arcos G05F 1/02) [2006.01]"
+  },
+  {
+    "code": "H05B 31/02",
+    "description": "••Detalles [2006.01]"
+  },
+  {
+    "code": "H05B 31/04",
+    "description": "••••Cajas [2006.01]"
+  },
+  {
+    "code": "H05B 31/06",
+    "description": "••••Electrodos [2006.01]"
+  },
+  {
+    "code": "H05B 31/08",
+    "description": "••••••Electrodos de carbón [2006.01]"
+  },
+  {
+    "code": "H05B 31/10",
+    "description": "••••••••Electrodos con núcleo de carbón [2006.01]"
+  },
+  {
+    "code": "H05B 31/12",
+    "description": "••••••••Electrodos de efecto Beck [2006.01]"
+  },
+  {
+    "code": "H05B 31/14",
+    "description": "••••••Electrodos metálicos [2006.01]"
+  },
+  {
+    "code": "H05B 31/16",
+    "description": "••••••Aparatos o procedimientos especialmente adaptados para la fabricación de electrodos [2006.01]"
+  },
+  {
+    "code": "H05B 31/18",
+    "description": "••••Fijaciones de electrodos; Disposiciones de avance de electrodos [2006.01]"
+  },
+  {
+    "code": "H05B 31/20",
+    "description": "••••••Dispositivos mecánicos para el avance de los electrodos [2006.01]"
+  },
+  {
+    "code": "H05B 31/22",
+    "description": "••••••Dispositivos electromagnéticos para el avance de los electrodos [2006.01]"
+  },
+  {
+    "code": "H05B 31/24",
+    "description": "••••Disposiciones de refrigeración [2006.01]"
+  },
+  {
+    "code": "H05B 31/26",
+    "description": "••••Influencia de los dispositivos soplantes de gas sobre la forma de la descarga [2006.01]"
+  },
+  {
+    "code": "H05B 31/28",
+    "description": "••••Influencia de los medios magnéticos sobre la forma de la descarga [2006.01]"
+  },
+  {
+    "code": "H05B 31/30",
+    "description": "••••Arranque; Encendido [2006.01]"
+  },
+  {
+    "code": "H05B 31/32",
+    "description": "••••Extinción [2006.01]"
+  },
+  {
+    "code": "H05B 31/34",
+    "description": "••••Indicación de la consumición de electrodos [2006.01]"
+  },
+  {
+    "code": "H05B 31/36",
+    "description": "••teniendo dos electrodos alineados [2006.01]"
+  },
+  {
+    "code": "H05B 31/38",
+    "description": "••••especialmente adaptados para corriente alterna [2006.01]"
+  },
+  {
+    "code": "H05B 31/40",
+    "description": "••teniendo dos electrodos que forman un ángulo [2006.01]"
+  },
+  {
+    "code": "H05B 31/42",
+    "description": "••••especialmente adaptados para corriente alterna [2006.01]"
+  },
+  {
+    "code": "H05B 31/44",
+    "description": "••teniendo dos electrodos paralelos [2006.01]"
+  },
+  {
+    "code": "H05B 31/46",
+    "description": "••••especialmente adaptados para corriente alterna [2006.01]"
+  },
+  {
+    "code": "H05B 31/48",
+    "description": "••teniendo más de dos electrodos [2006.01]"
+  },
+  {
+    "code": "H05B 31/50",
+    "description": "••••especialmente adaptados para corriente alterna [2006.01]"
+  },
+  {
+    "code": "H05B 31/52",
+    "description": "••••••Electrodos alimentados por diferentes fases de la alimentación [2006.01]"
+  },
+  {
+    "code": "H05B 33/00",
+    "description": "Fuentes de luz electroluminiscente [2006.01]"
+  },
+  {
+    "code": "H05B 33/02",
+    "description": "••Detalles [2006.01]"
+  },
+  {
+    "code": "H05B 33/04",
+    "description": "••••Dispositivos de estanqueidad [2006.01]"
+  },
+  {
+    "code": "H05B 33/06",
+    "description": "••••Terminales de electrodos [2006.01]"
+  },
+  {
+    "code": "H05B 33/10",
+    "description": "••Aparatos o procedimientos especialmente adaptados a la fabricación de fuentes de luz electroluminiscente [2006.01]"
+  },
+  {
+    "code": "H05B 33/12",
+    "description": "••Fuentes de luz con elementos radiantes que tienen esencialmente dos dimensiones [2006.01]"
+  },
+  {
+    "code": "H05B 33/14",
+    "description": "••••caracterizadas por la composición química o física o la disposición del material electroluminiscente [2006.01]"
+  },
+  {
+    "code": "H05B 33/18",
+    "description": "••••caracterizadas por la naturaleza o la concentración del activador [2006.01]"
+  },
+  {
+    "code": "H05B 33/20",
+    "description": "••••caracterizadas por la composición química o física o la disposición del material en el que el material electroluminiscente está incrustado [2006.01]"
+  },
+  {
+    "code": "H05B 33/22",
+    "description": "••••caracterizadas por la composición química o física o la disposición de capas auxiliares dieléctricas o reflectantes [2006.01]"
+  },
+  {
+    "code": "H05B 33/24",
+    "description": "••••••de capas reflectoras metálicas (H05B 33/26 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H05B 33/26",
+    "description": "••••caracterizadas por la composición o la disposición del material conductor utilizado como electrodo [2006.01]"
+  },
+  {
+    "code": "H05B 33/28",
+    "description": "••••••de electrodos translúcidos [2006.01]"
+  },
+  {
+    "code": "H05B 35/00",
+    "description": "Fuentes de luz eléctricas que utilizan una combinación de diferentes tipos de generación de luz [2006.01]"
+  },
+  {
+    "code": "H05B 39/00",
+    "description": "Circuitos o aparatos para accionar fuentes de luz incandescente (asociados estructuralmente a las lámparas incandescentes H01K 1/62) [2006.01]"
+  },
+  {
+    "code": "H05B 39/02",
+    "description": "••Encendido, p. ej. con un predeterminado incremento de la corriente de alumbrado [2006.01]"
+  },
+  {
+    "code": "H05B 39/04",
+    "description": "••Control [2006.01]"
+  },
+  {
+    "code": "H05B 39/06",
+    "description": "••••Disposiciones de conmutación, p. ej. para pasar del funcionamiento en serie al funcionamiento en paralelo [2006.01]"
+  },
+  {
+    "code": "H05B 39/08",
+    "description": "••••por desfase de la tensión de disparo aplicada a los tubos de control rellenos de gas [2006.01]"
+  },
+  {
+    "code": "H05B 39/09",
+    "description": "••en los cuales la lámpara es alimentada por impulsos [2006.01]"
+  },
+  {
+    "code": "H05B 39/10",
+    "description": "••Circuitos que aseguran el reemplazamiento de la fuente luminosa en caso de fallo de ésta [2006.01]"
+  },
+  {
+    "code": "H05B 41/00",
+    "description": "Circuitos o aparatos para la ignición o el funcionamiento de lámparas de descarga (estructuralmente asociados a las lámparas de descarga H01J 61/54, H01J 61/56) [2006.01]"
+  },
+  {
+    "code": "H05B 41/02",
+    "description": "••Detalles [2006.01]"
+  },
+  {
+    "code": "H05B 41/04",
+    "description": "••••Conmutadores de arranque [2006.01]"
+  },
+  {
+    "code": "H05B 41/06",
+    "description": "••••••térmicos solamente [2006.01]"
+  },
+  {
+    "code": "H05B 41/08",
+    "description": "••••••••calentados por descarga luminosa [2006.01]"
+  },
+  {
+    "code": "H05B 41/10",
+    "description": "••••••magnéticos solamente [2006.01]"
+  },
+  {
+    "code": "H05B 41/12",
+    "description": "••••••térmicos y magnéticos combinados [2006.01]"
+  },
+  {
+    "code": "H05B 41/14",
+    "description": "••Circuitos [2006.01]"
+  },
+  {
+    "code": "H05B 41/16",
+    "description": "••••en los cuales la lámpara es alimentada por corriente continua o por corriente alterna de baja frecuencia, p. ej. corriente alterna de 50 Hz (H05B 41/26 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H05B 41/18",
+    "description": "••••••teniendo un conmutador de arranque [2006.01]"
+  },
+  {
+    "code": "H05B 41/19",
+    "description": "••••••••para lámparas que tienen un electrodo auxiliar de arranque [2006.01]"
+  },
+  {
+    "code": "H05B 41/20",
+    "description": "••••••no teniendo un conmutador de arranque [2006.01]"
+  },
+  {
+    "code": "H05B 41/22",
+    "description": "••••••••para lámparas que tienen un electrodo auxiliar de arranque [2006.01]"
+  },
+  {
+    "code": "H05B 41/23",
+    "description": "••••••••para lámparas que no tienen un electrodo auxiliar de arranque [2006.01]"
+  },
+  {
+    "code": "H05B 41/231",
+    "description": "••••••••••para lámparas de alta presión [2006.01]"
+  },
+  {
+    "code": "H05B 41/232",
+    "description": "••••••••••para lámparas de baja presión [2006.01]"
+  },
+  {
+    "code": "H05B 41/233",
+    "description": "••••••••••••utilizando un circuito resonante [2006.01]"
+  },
+  {
+    "code": "H05B 41/234",
+    "description": "••••••••••••para eliminar el efecto estroboscópico, p. ej. alimentando dos lámparas con diferentes fases [2006.01]"
+  },
+  {
+    "code": "H05B 41/24",
+    "description": "••••en donde la lámpara es alimentada por corriente alterna a alta frecuencia (H05B 41/26 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H05B 41/26",
+    "description": "••••en donde la lámpara es alimentada por una potencia obtenida a partir de una corriente continua mediante un convertidor, p. ej. por corriente continua de alta tensión [2006.01]"
+  },
+  {
+    "code": "H05B 41/28",
+    "description": "••••••utilizando convertidores estáticos [2006.01]"
+  },
+  {
+    "code": "H05B 41/282",
+    "description": "••••••••utilizando dispositivos semiconductores (H05B 41/288, H05B 41/295 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H05B 41/285",
+    "description": "••••••••••Disposiciones para la protección de lámparas o circuitos contra condiciones de funcionamiento anormales [2006.01]"
+  },
+  {
+    "code": "H05B 41/288",
+    "description": "••••••••utilizando dispositivos semiconductores y especialmente adaptados para lámparas sin electrodos de precalentamiento, p. ej. para lámparas de descarga de alta intensidad, lámparas de mercurio o de sodio de alta presión o lámparas de sodio de baja presión [2006.01]"
+  },
+  {
+    "code": "H05B 41/292",
+    "description": "••••••••••Disposiciones para la protección de lámparas o de circuitos contra condiciones de funcionamiento anormales [2006.01]"
+  },
+  {
+    "code": "H05B 41/295",
+    "description": "••••••••utilizando dispositivos semiconductores y especialmente adaptados para lámparas provistas de electrodos de precalentamiento, p. ej. para lámparas fluorescentes [2006.01]"
+  },
+  {
+    "code": "H05B 41/298",
+    "description": "••••••••••Disposiciones para la protección de lámparas o de circuitos contra condiciones de funcionamiento anormales [2006.01]"
+  },
+  {
+    "code": "H05B 41/30",
+    "description": "••••en donde la lámpara es alimentada por impulsos, p. ej. lámpara de flash [2006.01]"
+  },
+  {
+    "code": "H05B 41/32",
+    "description": "••••••para una sola operación de flash [2006.01]"
+  },
+  {
+    "code": "H05B 41/34",
+    "description": "••••••para producir una serie de flashes [2006.01]"
+  },
+  {
+    "code": "H05B 41/36",
+    "description": "••••Control [2006.01]"
+  },
+  {
+    "code": "H05B 41/38",
+    "description": "••••••Control de la intensidad de la luz [2006.01]"
+  },
+  {
+    "code": "H05B 41/39",
+    "description": "••••••••continuamente [2006.01]"
+  },
+  {
+    "code": "H05B 41/391",
+    "description": "••••••••••utilizando dispositivos magnéticos saturables [2006.01]"
+  },
+  {
+    "code": "H05B 41/392",
+    "description": "••••••••••utilizando dispositivos semiconductores, p. ej. tiristores [2006.01]"
+  },
+  {
+    "code": "H05B 41/40",
+    "description": "••••••••discontinuamente [2006.01]"
+  },
+  {
+    "code": "H05B 41/42",
+    "description": "••••••••••en dos escalones solamente [2006.01]"
+  },
+  {
+    "code": "H05B 41/44",
+    "description": "••••••para producir efectos ópticos especiales, p. ej. un desplazamiento progresivo de luz [2006.01]"
+  },
+  {
+    "code": "H05B 41/46",
+    "description": "••••Circuitos que aseguran el reemplazamiento en caso de fallo de lámpara [2006.01]"
+  },
+  {
+    "code": "H05B 44/00",
+    "description": "Disposiciones de circuitos para el funcionamiento de fuentes luminosas electroluminiscentes (para el funcionamiento de diodos emisores de luz H05B 45/00) [2022.01]"
+  },
+  {
+    "code": "H05B 45/00",
+    "description": "Circuitos para accionar diodos emisores de luz [LED] [2022.01]"
+  },
+  {
+    "code": "H05B 45/10",
+    "description": "••Control de la intensidad de la luz [2020.01]"
+  },
+  {
+    "code": "H05B 45/12",
+    "description": "••••mediante retroalimentación óptica [2020.01]"
+  },
+  {
+    "code": "H05B 45/14",
+    "description": "••••mediante retroalimentación eléctrica que proviene de LEDs o de módulos LED [2020.01]"
+  },
+  {
+    "code": "H05B 45/18",
+    "description": "••••mediante retroalimentación de la temperatura [2020.01]"
+  },
+  {
+    "code": "H05B 45/20",
+    "description": "••Control del color de la luz [2020.01]"
+  },
+  {
+    "code": "H05B 45/22",
+    "description": "••••mediante retroalimentación óptica [2020.01]"
+  },
+  {
+    "code": "H05B 45/24",
+    "description": "••••mediante retroalimentación eléctrica que proviene de LEDs o de módulos LED [2020.01]"
+  },
+  {
+    "code": "H05B 45/28",
+    "description": "••••mediante retroalimentación de la temperatura [2020.01]"
+  },
+  {
+    "code": "H05B 45/30",
+    "description": "••Controladores [2020.01]"
+  },
+  {
+    "code": "H05B 45/305",
+    "description": "••••Circuitos de control de frecuencia [2020.01]"
+  },
+  {
+    "code": "H05B 45/31",
+    "description": "••••Circuitos de control de fase [2020.01]"
+  },
+  {
+    "code": "H05B 45/315",
+    "description": "••••••Circuitos de control de fase inversa [2020.01]"
+  },
+  {
+    "code": "H05B 45/32",
+    "description": "••••Circuitos de control de pulsos [2020.01]"
+  },
+  {
+    "code": "H05B 45/325",
+    "description": "••••••Modulación por ancho de pulsos [PWM] [2020.01]"
+  },
+  {
+    "code": "H05B 45/327",
+    "description": "••••••Regulación de ráfagas [2020.01]"
+  },
+  {
+    "code": "H05B 45/33",
+    "description": "••••••Modulación por amplitud de pulsos [PAM] [2020.01]"
+  },
+  {
+    "code": "H05B 45/335",
+    "description": "••••••Modulación por frecuencia de pulsos [PFM] [2020.01]"
+  },
+  {
+    "code": "H05B 45/34",
+    "description": "••••Estabilización del voltaje; Mantenimiento del voltaje constante [2020.01]"
+  },
+  {
+    "code": "H05B 45/345",
+    "description": "••••Estabilización de la corriente; Mantenimiento de la corriente constante [2020.01]"
+  },
+  {
+    "code": "H05B 45/347",
+    "description": "••••Control dinámico de la altura [DHC] [2020.01]"
+  },
+  {
+    "code": "H05B 45/35",
+    "description": "••••Circuitos para el balanceo de la señal eléctrica [2020.01]"
+  },
+  {
+    "code": "H05B 45/355",
+    "description": "••••Corrección del factor de potencia [PFC]; Compensación de la potencia reactiva [2020.01]"
+  },
+  {
+    "code": "H05B 45/357",
+    "description": "••••especialmente adaptados para su reequipamiento con fuentes de luz LED [2020.01]"
+  },
+  {
+    "code": "H05B 45/3574",
+    "description": "••••••Que emulan las características eléctricas o funcionales de las lámparas incandescentes [2020.01]"
+  },
+  {
+    "code": "H05B 45/3575",
+    "description": "••••••••por medio de cargas ficticias o circuitos de purga, p. ej. atenuadores de luz [2020.01]"
+  },
+  {
+    "code": "H05B 45/3577",
+    "description": "••••••••Que emulan las características de atenuación, brillo o temperatura del color de las lámparas incandescentes [2020.01]"
+  },
+  {
+    "code": "H05B 45/3578",
+    "description": "••••••Que emulan las características eléctricas o funcionales de las lámparas de descarga [2020.01]"
+  },
+  {
+    "code": "H05B 45/36",
+    "description": "••••Circuitos para reducir o suprimir los armónicos, ondulaciones o interferencias electromagnéticas [EMI] [2020.01]"
+  },
+  {
+    "code": "H05B 45/37",
+    "description": "••••Circuitos conversores [2020.01]"
+  },
+  {
+    "code": "H05B 45/3725",
+    "description": "••••••Fuente conmutada [SMPS] [2020.01]"
+  },
+  {
+    "code": "H05B 45/375",
+    "description": "••••••••que usan topología de sobretensión [2020.01]"
+  },
+  {
+    "code": "H05B 45/38",
+    "description": "••••••••que usan topología de sobrealimentación [2020.01]"
+  },
+  {
+    "code": "H05B 45/382",
+    "description": "••••••••con aislamiento galvánico entre la entrada y la salida [2020.01]"
+  },
+  {
+    "code": "H05B 45/385",
+    "description": "••••••••que usan topología de retroceso [2020.01]"
+  },
+  {
+    "code": "H05B 45/39",
+    "description": "••••••••Circuitos que contienen puentes inversores [2020.01]"
+  },
+  {
+    "code": "H05B 45/392",
+    "description": "••••••••en los que los LEDs se disponen como diodos libres en el lado secundario de un transformador de aislamiento [2020.01]"
+  },
+  {
+    "code": "H05B 45/395",
+    "description": "••••Reguladores lineales [2020.01]"
+  },
+  {
+    "code": "H05B 45/397",
+    "description": "••••••Circuitos de corriente [2020.01]"
+  },
+  {
+    "code": "H05B 45/40",
+    "description": "••Partes constitutivas de los circuitos de carga LED [2020.01]"
+  },
+  {
+    "code": "H05B 45/42",
+    "description": "••••Configuraciones antiparalelas [2020.01]"
+  },
+  {
+    "code": "H05B 45/44",
+    "description": "••••con control activo dentro de una matriz LED [2020.01]"
+  },
+  {
+    "code": "H05B 45/46",
+    "description": "••••••que tienen LEDs situados en líneas paralelas [2020.01]"
+  },
+  {
+    "code": "H05B 45/48",
+    "description": "••••••que tienen LEDs organizados en cadenas e incorporan dispositivos de maniobra paralelos [2020.01]"
+  },
+  {
+    "code": "H05B 45/50",
+    "description": "••que son sensibles a los fallos de funcionamiento o comportamientos no deseados de los LEDs; que son sensibles a la vida útil de los LED; Circuitos de protección [2022.01]"
+  },
+  {
+    "code": "H05B 45/52",
+    "description": "••••en un sistema de LEDs en paralelo [2020.01]"
+  },
+  {
+    "code": "H05B 45/54",
+    "description": "••••en un sistema de LEDs en serie [2020.01]"
+  },
+  {
+    "code": "H05B 45/56",
+    "description": "••••que implican medidas para evitar una temperatura anormal de los LEDs [2020.01]"
+  },
+  {
+    "code": "H05B 45/58",
+    "description": "••••que implican la detección del final de la vida útil de los LEDs [2020.01]"
+  },
+  {
+    "code": "H05B 45/59",
+    "description": "••••para reducir o suprimir efectos de parpadeo o brillo [2022.01]"
+  },
+  {
+    "code": "H05B 45/60",
+    "description": "••Circuitos para el funcionamiento de LED que comprenden material orgánico, p. ej. para el funcionamiento de diodos emisores de luz orgánicos [OLED] o de diodos emisores de luz poliméricos [PLED] [2022.01]"
+  },
+  {
+    "code": "H05B 46/00",
+    "description": "Circuitos para operar fuentes de luz que utilizan una carga de material combustible [2020.01]"
+  },
+  {
+    "code": "H05B 47/00",
+    "description": "Circuitos para el funcionamiento de fuentes de luz en general, p. ej. en las que el tipo de fuente de luz no es relevante [2020.01]"
+  },
+  {
+    "code": "H05B 47/10",
+    "description": "••Control de la fuente de luz [2020.01]"
+  },
+  {
+    "code": "H05B 47/105",
+    "description": "••••en respuesta a determinados parámetros [2020.01]"
+  },
+  {
+    "code": "H05B 47/11",
+    "description": "••••••mediante la determinación el brillo o temperatura de color de la luz ambiente [2020.01]"
+  },
+  {
+    "code": "H05B 47/115",
+    "description": "••••••que determinan la presencia o movimiento de objetos o seres vivos [2020.01]"
+  },
+  {
+    "code": "H05B 47/12",
+    "description": "••••••••que detectan un sonido audible [2020.01]"
+  },
+  {
+    "code": "H05B 47/125",
+    "description": "••••••••que usan cámaras [2020.01]"
+  },
+  {
+    "code": "H05B 47/13",
+    "description": "••••••••que usan detectores pasivos de infrarrojos [2020.01]"
+  },
+  {
+    "code": "H05B 47/135",
+    "description": "••••••que determinan el tipo de fuente de luz que se controla (parámetros eléctricos de la fuente de luz que se controla H05B 47/14) [2020.01]"
+  },
+  {
+    "code": "H05B 47/14",
+    "description": "••••••que determinan los parámetros eléctricos de la fuente de luz [2020.01]"
+  },
+  {
+    "code": "H05B 47/155",
+    "description": "••••Control coordinado de dos o más fuentes de luz [2020.01]"
+  },
+  {
+    "code": "H05B 47/16",
+    "description": "••••por medios que determinan el tiempo [2020.01]"
+  },
+  {
+    "code": "H05B 47/165",
+    "description": "••••que siguen una secuencia pre-programada; Control lógico [LC] [2020.01]"
+  },
+  {
+    "code": "H05B 47/17",
+    "description": "••••Modos de funcionamiento, p. ej. cambio del modo manual al automático o prohibir funciones específicas [2020.01]"
+  },
+  {
+    "code": "H05B 47/175",
+    "description": "••••por control remoto [2020.01]"
+  },
+  {
+    "code": "H05B 47/18",
+    "description": "••••••por transmisión de datos a través de un bus [2020.01]"
+  },
+  {
+    "code": "H05B 47/185",
+    "description": "••••••por transmisión a través de un portador de línea de potencia [2020.01]"
+  },
+  {
+    "code": "H05B 47/19",
+    "description": "••••••por transmisión inalámbrica [2020.01]"
+  },
+  {
+    "code": "H05B 47/195",
+    "description": "••••••••en los que la transmisión usa luz visible o infrarroja [2020.01]"
+  },
+  {
+    "code": "H05B 47/20",
+    "description": "••Sensibles al mal funcionamiento o a la vida útil de la fuente de luz; para protección [2020.01]"
+  },
+  {
+    "code": "H05B 47/21",
+    "description": "••••de dos o más fuentes de luz conectadas en paralelo [2020.01]"
+  },
+  {
+    "code": "H05B 47/23",
+    "description": "••••de dos o más fuentes de luz conectadas en serie [2020.01]"
+  },
+  {
+    "code": "H05B 47/24",
+    "description": "••••Circuitos que protegen contra la sobretensión [2020.01]"
+  },
+  {
+    "code": "H05B 47/25",
+    "description": "••••Circuitos que protegen contra la sobrecarga de corriente [2020.01]"
+  },
+  {
+    "code": "H05B 47/26",
+    "description": "••••Circuitos que protegen contra las fallas a tierra [2020.01]"
+  },
+  {
+    "code": "H05B 47/28",
+    "description": "••••Circuitos que protegen contra temperaturas anormales [2020.01]"
+  },
+  {
+    "code": "H05B 47/29",
+    "description": "••••Circuitos que permiten la sustitución de la fuente de luz en caso de que esta falle. [2020.01]"
+  }
+]

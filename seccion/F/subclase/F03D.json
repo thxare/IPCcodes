@@ -1,0 +1,250 @@
+[
+  {
+    "code": "F03D 1/00",
+    "description": "Motores de viento con el eje de rotación dispuesto sustancialmente paralelo al flujo de aire que entra al rotor (su control F03D 7/02) [2006.01]"
+  },
+  {
+    "code": "F03D 1/02",
+    "description": "••implicando varios rotores [2006.01]"
+  },
+  {
+    "code": "F03D 1/04",
+    "description": "••implicando medios fijos para el guiado del viento, p. ej. mediante conjuntos de álabes o canales directores (F03D 9/35 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F03D 1/06",
+    "description": "••Rotores [2006.01]"
+  },
+  {
+    "code": "F03D 3/00",
+    "description": "Motores de viento con un eje de rotación dispuesto sustancialmente perpendicular al flujo de aire que entra al rotor (su control F03D 7/06) [2006.01]"
+  },
+  {
+    "code": "F03D 3/02",
+    "description": "••implicando varios rotores [2006.01]"
+  },
+  {
+    "code": "F03D 3/04",
+    "description": "••implicando medios fijos para el guiado del viento, p. ej. mediante conjuntos de álabes o canales directores (F03D 9/35 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F03D 3/06",
+    "description": "••Rotores [2006.01]"
+  },
+  {
+    "code": "F03D 5/00",
+    "description": "Otros motores de viento (su control F03D 7/00) [2006.01]"
+  },
+  {
+    "code": "F03D 5/02",
+    "description": "••estando fijadas las piezas en contacto con el viento a cadenas sin fin o a un dispositivo similar [2006.01]"
+  },
+  {
+    "code": "F03D 5/04",
+    "description": "••estando fijadas las piezas en contacto con el viento a carrillos que se desplazan sobre vías o dispositivos similares [2006.01]"
+  },
+  {
+    "code": "F03D 5/06",
+    "description": "••quedando oscilantes las piezas en contacto con el viento y sin girar [2006.01]"
+  },
+  {
+    "code": "F03D 7/00",
+    "description": "Control de los motores de viento (alimentación o distribución de energía eléctrica H02J, p. ej. disposiciones para ajustar, eliminar o compensar la potencia reactiva en las redes H02J 3/18; control de generadores eléctricos H02P, p. ej. disposiciones para el control de generadores eléctricos con el propósito de obtener las características deseadas en la salida H02P 9/00) [2006.01]"
+  },
+  {
+    "code": "F03D 7/02",
+    "description": "••teniendo los motores de viento el eje de rotación dispuesto sustancialmente paralelo al flujo de aire que entra al rotor [2006.01]"
+  },
+  {
+    "code": "F03D 7/04",
+    "description": "••••Control automático; Regulación [2006.01]"
+  },
+  {
+    "code": "F03D 7/06",
+    "description": "••teniendo los motores de viento el eje de rotación dispuesto sustancialmente perpendicular al flujo de aire que entra en el rotor [2006.01]"
+  },
+  {
+    "code": "F03D 9/00",
+    "description": "Adaptaciones de los motores de viento para usos especiales; Combinaciones de motores de viento con los aparatos que accionan; Motores de viento especialmente adaptados para su instalación en lugares particulares (sistemas híbridos de energía eólica-fotovoltaica para la generación de energía eléctrica H02S 10/12) [2016.01]"
+  },
+  {
+    "code": "F03D 9/10",
+    "description": "••Combinación de motores de viento con aparatos de almacenamiento de energía [2016.01]"
+  },
+  {
+    "code": "F03D 9/11",
+    "description": "••••almacenamiento de energía eléctrica [2016.01]"
+  },
+  {
+    "code": "F03D 9/12",
+    "description": "••••almacenamiento de energía cinética, p. ej. utilizando volantes de inercia [2016.01]"
+  },
+  {
+    "code": "F03D 9/13",
+    "description": "••••almacenamiento de energía potencial gravitatoria [2016.01]"
+  },
+  {
+    "code": "F03D 9/14",
+    "description": "••••••utilizando líquidos [2016.01]"
+  },
+  {
+    "code": "F03D 9/16",
+    "description": "••••••utilizando pesos [2016.01]"
+  },
+  {
+    "code": "F03D 9/17",
+    "description": "••••almacenamiento de energía en fluidos presurizados [2016.01]"
+  },
+  {
+    "code": "F03D 9/18",
+    "description": "••••almacenamiento de calor [2016.01]"
+  },
+  {
+    "code": "F03D 9/19",
+    "description": "••••almacenamiento de energía química, p. ej. utilizando electrolisis [2016.01]"
+  },
+  {
+    "code": "F03D 9/20",
+    "description": "••Motores de viento caracterizados por el dispositivo accionado (F03D 9/10 tiene prioridad) [2016.01]"
+  },
+  {
+    "code": "F03D 9/22",
+    "description": "••••produciendo calor el dispositivo [2016.01]"
+  },
+  {
+    "code": "F03D 9/25",
+    "description": "••••siendo el dispositivo un generador eléctrico (F03D 9/22 tiene prioridad) [2016.01]"
+  },
+  {
+    "code": "F03D 9/28",
+    "description": "••••siendo el dispositivo una bomba o un compresor [2016.01]"
+  },
+  {
+    "code": "F03D 9/30",
+    "description": "••Motores de viento especialmente adaptados para su instalación en lugares particulares (medios para el montaje o soporte de los motores viento F03D 13/20) [2016.01]"
+  },
+  {
+    "code": "F03D 9/32",
+    "description": "••••en objetos móviles, p. ej. vehículos [2016.01]"
+  },
+  {
+    "code": "F03D 9/34",
+    "description": "••••en objetos estacionarios o en estructuras estacionarias hechas por el hombre [2016.01]"
+  },
+  {
+    "code": "F03D 9/35",
+    "description": "••••••dentro de las torres, p. ej. utilizando el efecto chimenea [2016.01]"
+  },
+  {
+    "code": "F03D 9/37",
+    "description": "••••••••con medios para aumentar el flujo de aire dentro de la torre, p. ej. por calentamiento [2016.01]"
+  },
+  {
+    "code": "F03D 9/39",
+    "description": "••••••••••por circulación o formación de vórtice [2016.01]"
+  },
+  {
+    "code": "F03D 9/41",
+    "description": "••••••••••utilizando el viento del exterior de la torre, p. ej. utilizando eyectores [2016.01]"
+  },
+  {
+    "code": "F03D 9/43",
+    "description": "••••••utilizando la infraestructura prevista inicialmente para otros fines, p. ej. postes de la línea de alimentación eléctrica ferroviaria [2016.01]"
+  },
+  {
+    "code": "F03D 9/45",
+    "description": "••••••••Edificios [2016.01]"
+  },
+  {
+    "code": "F03D 9/46",
+    "description": "••••••••Túneles o calles [2016.01]"
+  },
+  {
+    "code": "F03D 9/48",
+    "description": "••••utilizando la topografía del paisaje, p. ej. valles [2016.01]"
+  },
+  {
+    "code": "F03D 13/00",
+    "description": "Ensamblado, montaje o puesta en marcha de motores de viento; Disposiciones especialmente adaptadas para transportar componentes de motores de viento [2016.01]"
+  },
+  {
+    "code": "F03D 13/10",
+    "description": "••Ensamblado de motores de viento; Disposiciones para erigir motores de viento [2016.01]"
+  },
+  {
+    "code": "F03D 13/20",
+    "description": "••Disposiciones para montar o soportar los motores de viento; Postes o torres de motores de viento [2016.01]"
+  },
+  {
+    "code": "F03D 13/25",
+    "description": "••••especialmente adaptados para instalaciones offshore [2016.01]"
+  },
+  {
+    "code": "F03D 13/30",
+    "description": "••Puesta en marcha, p. ej. inspección, ensayo o ajuste final antes de la puesta en producción [2016.01]"
+  },
+  {
+    "code": "F03D 13/35",
+    "description": "••••Equilibrado de desequilibrios estáticos o dinámicos [2016.01]"
+  },
+  {
+    "code": "F03D 13/40",
+    "description": "••Disposiciones o métodos especialmente adaptados para transportar componentes de motores de viento [2016.01]"
+  },
+  {
+    "code": "F03D 15/00",
+    "description": "Transmisión de energía mecánica [2016.01]"
+  },
+  {
+    "code": "F03D 15/10",
+    "description": "••utilizando un engranaje no limitado a movimiento rotativo, p. ej. con órganos oscilantes o de movimiento alternativo [2016.01]"
+  },
+  {
+    "code": "F03D 15/20",
+    "description": "••Transmisión sin engranaje, es decir, de accionamiento directo [2016.01]"
+  },
+  {
+    "code": "F03D 17/00",
+    "description": "Monitorización o ensayo de motores de viento, p. ej. diagnósticos (ensayo durante la puesta en marcha de motores de viento F03D 13/30) [2016.01]"
+  },
+  {
+    "code": "F03D 80/00",
+    "description": "Detalles, componentes o accesorios no previstos en los grupos F03D 1/00-F03D 17/00 [2016.01]"
+  },
+  {
+    "code": "F03D 80/10",
+    "description": "••Disposiciones para avisar al tráfico aéreo [2016.01]"
+  },
+  {
+    "code": "F03D 80/20",
+    "description": "••Disposiciones para evitar efecto estroboscópico [2016.01]"
+  },
+  {
+    "code": "F03D 80/30",
+    "description": "••Protección contra rayos [2016.01]"
+  },
+  {
+    "code": "F03D 80/40",
+    "description": "••Detección de hielo; Medios de eliminación de hielo [2016.01]"
+  },
+  {
+    "code": "F03D 80/50",
+    "description": "••Mantenimiento o reparación [2016.01]"
+  },
+  {
+    "code": "F03D 80/55",
+    "description": "••••Limpieza (F03D 80/40 tiene prioridad) [2016.01]"
+  },
+  {
+    "code": "F03D 80/60",
+    "description": "••Refrigeración o calentamiento de motores de viento [2016.01]"
+  },
+  {
+    "code": "F03D 80/70",
+    "description": "••Disposiciones de  rodamientos o de lubricación [2016.01]"
+  },
+  {
+    "code": "F03D 80/80",
+    "description": "••Disposición de componentes en las góndolas o las torres [2016.01]"
+  }
+]

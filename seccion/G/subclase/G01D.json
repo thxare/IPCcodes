@@ -1,0 +1,634 @@
+[
+  {
+    "code": "G01D 1/00",
+    "description": "Disposiciones de medida que dan resultados distintos al valor instantáneo de la variable, de aplicación general (G01D 3/00 tiene prioridad; en los aparatos contadores de tarifa G01D 4/00; transductores no especialmente adaptados a una variable específica G01D 5/00) [2006.01]"
+  },
+  {
+    "code": "G01D 1/02",
+    "description": "••que dan valores medios, p. ej. valores medios cuadráticos (medida de valores medios cuadráticos de corrientes o voltajes G01R 19/02) [2006.01]"
+  },
+  {
+    "code": "G01D 1/04",
+    "description": "••que dan valores integrados (que dan valores medios G01D 1/02) [2006.01]"
+  },
+  {
+    "code": "G01D 1/06",
+    "description": "••••mediante sumas intermitentes [2006.01]"
+  },
+  {
+    "code": "G01D 1/08",
+    "description": "••••••a lo largo períodos de tiempo fijados [2006.01]"
+  },
+  {
+    "code": "G01D 1/10",
+    "description": "••que dan valores diferenciales [2006.01]"
+  },
+  {
+    "code": "G01D 1/12",
+    "description": "••que dan un máximo o mínimo de un valor [2006.01]"
+  },
+  {
+    "code": "G01D 1/14",
+    "description": "••que dan una función de distribución de un valor, p. ej. número de veces en que el valor se sitúa en intervalos especificados de amplitud [2006.01]"
+  },
+  {
+    "code": "G01D 1/16",
+    "description": "••que dan un valor que es función de dos o más valores, p. ej. producto, cociente [2006.01]"
+  },
+  {
+    "code": "G01D 1/18",
+    "description": "••con disposiciones para indicar que se ha rebasado un valor predeterminado de un parámetro no especificado (G01D 1/14 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01D 3/00",
+    "description": "Disposiciones para la medida con provisiones para los fines especiales indicados en los subgrupos de este grupo [2006.01]"
+  },
+  {
+    "code": "G01D 3/02",
+    "description": "••con provisiones para alterar o corregir la función de transferencia [2006.01]"
+  },
+  {
+    "code": "G01D 3/024",
+    "description": "••••para variar el rango de funcionamiento; Disposiciones para reemplazar un elemento sensor por otro [2006.01]"
+  },
+  {
+    "code": "G01D 3/028",
+    "description": "••atenuación de influencias no deseadas, p. ej. temperatura, presión [2006.01]"
+  },
+  {
+    "code": "G01D 3/032",
+    "description": "••••actuando sobre la señal de entrada, p. ej. tomando el valor medio; discriminación (\"gating\") de señales no deseadas [2006.01]"
+  },
+  {
+    "code": "G01D 3/036",
+    "description": "••••sobre las mismas disposiciones de medida [2006.01]"
+  },
+  {
+    "code": "G01D 3/06",
+    "description": "••con provisión para la operación mediante un método de cero (\"null method\") [2006.01]"
+  },
+  {
+    "code": "G01D 3/08",
+    "description": "••con provisiones para proteger el aparato, p. ej. contra funcionamientos anormales, contra averías [2006.01]"
+  },
+  {
+    "code": "G01D 3/10",
+    "description": "••con provisiones para conectar dispositivos de indicación o registro adicionales o auxiliares [2006.01]"
+  },
+  {
+    "code": "G01D 4/00",
+    "description": "Aparatos contadores de tarifa (en taxímetros G07B 13/00; mecanismos a este efecto accionados por monedas, tarjetas o similares, con un metro de dispensación controlada de líquido, gas o electricidad G07F 15/00) [2006.01]"
+  },
+  {
+    "code": "G01D 4/02",
+    "description": "••Detalles [2006.01]"
+  },
+  {
+    "code": "G01D 4/04",
+    "description": "••••Mecanismos de puesta a cero (\"reset\"), p. ej. para las partes indicadoras [2006.01]"
+  },
+  {
+    "code": "G01D 4/06",
+    "description": "••••Disposiciones de embrague entre las partes motoras e indicadoras, p. ej. de embrague de histéresis (G01D 4/04 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01D 4/08",
+    "description": "••••Transferencia de la indicación de un contador a un totalizador [2006.01]"
+  },
+  {
+    "code": "G01D 4/10",
+    "description": "••Aparatos de indicación o de registro de máximo, p. ej. en los que la tarifa para un período está basada en una demanda máxima durante ese período [2006.01]"
+  },
+  {
+    "code": "G01D 4/12",
+    "description": "••••Aparatos para la indicación o el registro de máximo progresivo [2006.01]"
+  },
+  {
+    "code": "G01D 4/14",
+    "description": "••••Aparatos de indicación o de registro de demanda fija, p. ej. en los que tiene lugar una indicación cuando se ha consumido una cantidad predeterminada durante un intervalo de tiempo superior o inferior a un intervalo de tiempo predeterminado [2006.01]"
+  },
+  {
+    "code": "G01D 4/16",
+    "description": "••Aparatos para la indicación o el registro de las horas de carga máxima o mínima [2006.01]"
+  },
+  {
+    "code": "G01D 4/18",
+    "description": "••Aparatos para la indicación o el registro de exceso de consumo con un par en oposición que actúa cuando se excede un nivel predeterminado, p. ej. contadores restadores [2006.01]"
+  },
+  {
+    "code": "G01D 5/00",
+    "description": "Medios mecánicos para la transferencia de la magnitud de salida de un elemento sensor; Medios para la conversión de la magnitud de salida de un elemento sensor en otra variable, en los que la forma o naturaleza del elemento sensor no determinan los medios de conversión; Transductores no especialmente adaptados a una variable específica (G01D 3/00 tiene prioridad; especialmente adaptados para aparatos que dan resultados distintos al valor instantáneo de una variable G01D 1/00) [2006.01]"
+  },
+  {
+    "code": "G01D 5/02",
+    "description": "••que utilizan medios mecánicos [2006.01]"
+  },
+  {
+    "code": "G01D 5/04",
+    "description": "••••que utilizan palancas; que utilizan levas; que utilizan engranajes [2006.01]"
+  },
+  {
+    "code": "G01D 5/06",
+    "description": "••••que actuan a través de una pared o recinto, p. ej. mediante fuelles, mediante acoplamiento magnético [2006.01]"
+  },
+  {
+    "code": "G01D 5/08",
+    "description": "••••Reducción los efectos de la fricción, p. ej. mediante la aplicación de vibración [2006.01]"
+  },
+  {
+    "code": "G01D 5/10",
+    "description": "••••Aplicación de fuerzas externas para aumentar la fuerza disponible para elfuncionamiento del elemento de indicación o registro [2006.01]"
+  },
+  {
+    "code": "G01D 5/12",
+    "description": "••que utilizan medios eléctricos o magnéticos (G01D 5/06 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01D 5/14",
+    "description": "••••que influyen en la magnitud de una corriente o voltaje [2006.01]"
+  },
+  {
+    "code": "G01D 5/16",
+    "description": "••••••mediante la variación de resistencia [2006.01]"
+  },
+  {
+    "code": "G01D 5/165",
+    "description": "••••••••mediante el movimiento relativo entre un punto de contacto y una pista resistiva [2006.01]"
+  },
+  {
+    "code": "G01D 5/18",
+    "description": "••••••mediante la variación de la impedancia efectiva de tubos de descarga o dispositivos semiconductores [2006.01]"
+  },
+  {
+    "code": "G01D 5/20",
+    "description": "••••••mediante la variación de la inductancia, p. ej. mediante una armadura móvil [2006.01]"
+  },
+  {
+    "code": "G01D 5/22",
+    "description": "••••••••que influyen diferencialmente sobre dos bobinas [2006.01]"
+  },
+  {
+    "code": "G01D 5/24",
+    "description": "••••••mediante la variación de la capacitancia [2006.01]"
+  },
+  {
+    "code": "G01D 5/241",
+    "description": "••••••••mediante el movimiento relativo entre los electrodos de un condensador [2006.01]"
+  },
+  {
+    "code": "G01D 5/242",
+    "description": "••••••mediante la variación de la salida de un dispositivo electrodinámico, p. ej. de una dinamo-taquimétrica [2006.01]"
+  },
+  {
+    "code": "G01D 5/243",
+    "description": "••••que influyen en la fase o frecuencia de la corriente alterna [2006.01]"
+  },
+  {
+    "code": "G01D 5/244",
+    "description": "••••que influyen en las características de pulsos o trenes de pulsos; que generan pulsos o trenes de pulsos [2006.01]"
+  },
+  {
+    "code": "G01D 5/245",
+    "description": "••••••utilizando un número variable de pulsos en un tren [2006.01]"
+  },
+  {
+    "code": "G01D 5/246",
+    "description": "••••••mediante la variación de la duración de pulsos individuales [2006.01]"
+  },
+  {
+    "code": "G01D 5/247",
+    "description": "••••••utilizando desfases en el instante de ocurrencia de pulsos [2006.01]"
+  },
+  {
+    "code": "G01D 5/248",
+    "description": "••••••mediante la variación de la frecuencia de repetición de pulsos [2006.01]"
+  },
+  {
+    "code": "G01D 5/249",
+    "description": "••••••utilizando código de pulsos [2006.01]"
+  },
+  {
+    "code": "G01D 5/25",
+    "description": "••••Selección de uno o más conductores o canales de entre una pluralidad de conductores o canales, p. ej. mediante el cierre de contactos [2006.01]"
+  },
+  {
+    "code": "G01D 5/251",
+    "description": "••••••un conductor o canal [2006.01]"
+  },
+  {
+    "code": "G01D 5/252",
+    "description": "••••••una combinación de conductores o canales [2006.01]"
+  },
+  {
+    "code": "G01D 5/26",
+    "description": "••que utilizan medios ópticos, p. ej. que utilizan luz infrarroja, visible o ultravioleta [2006.01]"
+  },
+  {
+    "code": "G01D 5/28",
+    "description": "••••con deflexión de haces de luz, p. ej. para indicación óptica directa (G01D 5/40 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01D 5/30",
+    "description": "••••••siendo detectados los haces de luz mediante fotocélulas [2006.01]"
+  },
+  {
+    "code": "G01D 5/32",
+    "description": "••••con atenuación u obturación total o parcial de haces de luz (G01D 5/40 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01D 5/34",
+    "description": "••••••siendo detectados los haces de luz mediante fotocélulas [2006.01]"
+  },
+  {
+    "code": "G01D 5/347",
+    "description": "••••••••que utilizan escalas de codificación de desplazamiento [2006.01]"
+  },
+  {
+    "code": "G01D 5/353",
+    "description": "••••••••que influyen en las propiedades de transmisión de una fibra óptica [2006.01]"
+  },
+  {
+    "code": "G01D 5/36",
+    "description": "••••••••Formación de pulsos de luz [2006.01]"
+  },
+  {
+    "code": "G01D 5/38",
+    "description": "••••••••••mediante rejillas de difracción [2006.01]"
+  },
+  {
+    "code": "G01D 5/39",
+    "description": "••••Exploración de una indicación visible del valor medido y reproducción de esta indicación en un lugar remoto, p. ej. sobre la pantalla de un tubo de rayos catódicos [2006.01]"
+  },
+  {
+    "code": "G01D 5/40",
+    "description": "••••especialmente adaptados para la utilización con luz infrarroja [2006.01]"
+  },
+  {
+    "code": "G01D 5/42",
+    "description": "••que utilizan medios fluidos [2006.01]"
+  },
+  {
+    "code": "G01D 5/44",
+    "description": "••••que utilizan chorros de fluido [2006.01]"
+  },
+  {
+    "code": "G01D 5/46",
+    "description": "••••••mediante la deflexión o la obturación del flujo [2006.01]"
+  },
+  {
+    "code": "G01D 5/48",
+    "description": "••que utilizan medios de radiación de ondas o partículas (G01D 5/26 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01D 5/50",
+    "description": "••••que provienen de una fuente radiactiva [2006.01]"
+  },
+  {
+    "code": "G01D 5/52",
+    "description": "••••••detectadas mediante un tubo contador [2006.01]"
+  },
+  {
+    "code": "G01D 5/54",
+    "description": "••que utilizan medios especificados en dos o más de los grupos G01D 5/02, G01D 5/12, G01D 5/26, G01D 5/42, y G01D 5/48 [2006.01]"
+  },
+  {
+    "code": "G01D 5/56",
+    "description": "••••que utilizan medios eléctricos o magnéticos [2006.01]"
+  },
+  {
+    "code": "G01D 5/58",
+    "description": "••••que utilizan medios ópticos, p. ej. que utilizan luz infrarroja, visible o ultravioleta [2006.01]"
+  },
+  {
+    "code": "G01D 5/60",
+    "description": "••••que utilizan medios fluidos [2006.01]"
+  },
+  {
+    "code": "G01D 5/62",
+    "description": "••••que utilizan medios de radiación de ondas o partículas no cubiertos por el grupo G01D 5/58 [2006.01]"
+  },
+  {
+    "code": "G01D 7/00",
+    "description": "Indicación de valores medidos [2006.01]"
+  },
+  {
+    "code": "G01D 7/02",
+    "description": "••Indicación del valor de dos o más variables simultáneamente [2006.01]"
+  },
+  {
+    "code": "G01D 7/04",
+    "description": "••••utilizando un elemento indicador diferente por cada variable [2006.01]"
+  },
+  {
+    "code": "G01D 7/06",
+    "description": "••••••Indicaciones luminosas proyectadas sobre una pantalla común [2006.01]"
+  },
+  {
+    "code": "G01D 7/08",
+    "description": "••••utilizando un elemento indicador común para dos o más variables [2006.01]"
+  },
+  {
+    "code": "G01D 7/10",
+    "description": "••••••dando indicación en un sistema de coordenadas [2006.01]"
+  },
+  {
+    "code": "G01D 7/12",
+    "description": "••Indicación audible de las lecturas de un medidor, p. ej. para los ciegos [2006.01]"
+  },
+  {
+    "code": "G01D 9/00",
+    "description": "Registro de valores medidos [2006.01]"
+  },
+  {
+    "code": "G01D 9/02",
+    "description": "••Producción de uno o más registros de los valores de una única variable [2006.01]"
+  },
+  {
+    "code": "G01D 9/04",
+    "description": "••••con provisión para el registro múltiple o alternativo [2006.01]"
+  },
+  {
+    "code": "G01D 9/06",
+    "description": "••••••Registro múltiple, p. ej. duplicación [2006.01]"
+  },
+  {
+    "code": "G01D 9/08",
+    "description": "••••••••dando a la vez registro gráfico y numérico [2006.01]"
+  },
+  {
+    "code": "G01D 9/10",
+    "description": "••••siendo controlado el elemento registrador, p. ej. un estilete, de acuerdo con la variable y siendo controlado el soporte de registro, p. ej. un rollo de papel, de acuerdo con el tiempo [2006.01]"
+  },
+  {
+    "code": "G01D 9/12",
+    "description": "••••••realizándose el registro contínuamente [2006.01]"
+  },
+  {
+    "code": "G01D 9/14",
+    "description": "••••••••con provisión para modificar la velocidad del soporte de registro de acuerdo con la magnitud de la variable a registrar [2006.01]"
+  },
+  {
+    "code": "G01D 9/16",
+    "description": "••••••realizándose el registro en intervalos diferentes, p. ej. mediante obturador ruptor [2006.01]"
+  },
+  {
+    "code": "G01D 9/18",
+    "description": "••••••••siendo el elemento registrador accionado únicamente tras un cambio de valor de la variable [2006.01]"
+  },
+  {
+    "code": "G01D 9/20",
+    "description": "••••siendo controlado el elemento registrador, p. ej. un estilete, de acuerdo con el tiempo y siendo controlado el soporte de registro, p. ej. un rollo de papel, de acuerdo con la variable [2006.01]"
+  },
+  {
+    "code": "G01D 9/22",
+    "description": "••••••realizándose el registro contínuamente [2006.01]"
+  },
+  {
+    "code": "G01D 9/24",
+    "description": "••••••realizándose el registro en intervalos diferentes, p. ej. mediante obturador ruptor [2006.01]"
+  },
+  {
+    "code": "G01D 9/26",
+    "description": "••••siendo controlado bien el elemento registrador, p. ej. un estilete, o bien el soporte de registro, p. ej. un rollo de papel, de acuerdo con el tiempo y con la variable [2006.01]"
+  },
+  {
+    "code": "G01D 9/28",
+    "description": "••Producción de uno o más registros, siendo cada registro de los valores de dos o más variables diferentes (G01D 9/38, G01D 9/40 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G01D 9/30",
+    "description": "••••habiendo un elemento registrador distinto para cada variable, p. ej. registradores de estilete múltiple [2006.01]"
+  },
+  {
+    "code": "G01D 9/32",
+    "description": "••••habiendo un elemento registrador común para dos o más variables [2006.01]"
+  },
+  {
+    "code": "G01D 9/34",
+    "description": "••••••siendo registradas las variables en un orden predeterminado [2006.01]"
+  },
+  {
+    "code": "G01D 9/36",
+    "description": "••••••••en columnas separadas [2006.01]"
+  },
+  {
+    "code": "G01D 9/38",
+    "description": "••Producción de uno o más registros, siendo producido cada registro mediante el control del elemento registrador, p. ej. un estilete, de acuerdo con una variable y el control del soporte de registro, p. ej. un rollo de papel, de acuerdo con otra variable [2006.01]"
+  },
+  {
+    "code": "G01D 9/40",
+    "description": "••Producción de uno o más registros, siendo producido cada registro mediante el control bien del elemento registrador, p. ej. un estilete, o bien del soporte de registro, p. ej. un rollo de papel, de acuerdo con dos o más variables [2006.01]"
+  },
+  {
+    "code": "G01D 9/42",
+    "description": "••Registro de indicaciones de instrumentos de medida mediante medios fotográficos, p. ej. de contadores [2006.01]"
+  },
+  {
+    "code": "G01D 11/00",
+    "description": "Partes constitutivas de las disposiciones para la medida no específicamente adaptadas a una variable en particular (G01D 13/00, G01D 15/00 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G01D 11/02",
+    "description": "••Cojinetes o suspensiones para piezas móviles [2006.01]"
+  },
+  {
+    "code": "G01D 11/04",
+    "description": "••••Cojinetes de cuchillas [2006.01]"
+  },
+  {
+    "code": "G01D 11/06",
+    "description": "••••Suspensiones de tiras o hilos, p. ej. en tensión [2006.01]"
+  },
+  {
+    "code": "G01D 11/08",
+    "description": "••Elementos para equilibrar las piezas móviles [2006.01]"
+  },
+  {
+    "code": "G01D 11/10",
+    "description": "••Elementos para amortiguar el movimiento de las piezas [2006.01]"
+  },
+  {
+    "code": "G01D 11/12",
+    "description": "••••que utilizan amortiguación por fluido [2006.01]"
+  },
+  {
+    "code": "G01D 11/14",
+    "description": "••••que utilizan amortiguación por inducción magnética [2006.01]"
+  },
+  {
+    "code": "G01D 11/16",
+    "description": "••Elementos para limitar o impedir el movimiento de las piezas, p. ej. para la puesta a cero (inmovilización de piezas móviles cuando no se usen G01D 11/20) [2006.01]"
+  },
+  {
+    "code": "G01D 11/18",
+    "description": "••••Muelles (G01D 11/06 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01D 11/20",
+    "description": "••Dispositivos de inmovilización para piezas móviles cuando no se usen [2006.01]"
+  },
+  {
+    "code": "G01D 11/22",
+    "description": "••••accionados automáticamente [2006.01]"
+  },
+  {
+    "code": "G01D 11/24",
+    "description": "••Alojamientos [2006.01]"
+  },
+  {
+    "code": "G01D 11/26",
+    "description": "••••Ventanas; cristales de cubierta; sus sellados [2006.01]"
+  },
+  {
+    "code": "G01D 11/28",
+    "description": "••Dispositivos de iluminación combinados estructuralmente [2006.01]"
+  },
+  {
+    "code": "G01D 11/30",
+    "description": "••Soportes especialmente adaptados para un instrumento; Soportes especialmente adaptados para un conjunto de instrumentos [2006.01]"
+  },
+  {
+    "code": "G01D 13/00",
+    "description": "Partes constitutivas de los indicadores para las disposiciones de medida no especialmente adaptadas a una variable específica [2006.01]"
+  },
+  {
+    "code": "G01D 13/02",
+    "description": "••Escalas; Diales [2006.01]"
+  },
+  {
+    "code": "G01D 13/04",
+    "description": "••••Estructura [2006.01]"
+  },
+  {
+    "code": "G01D 13/06",
+    "description": "••••••Bandas móviles (G01D 13/10 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01D 13/08",
+    "description": "••••••Cilindros giratorios (G01D 13/10 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01D 13/10",
+    "description": "••••••con escalas ajustables; con escalas auxiliares, p. ej. vernier [2006.01]"
+  },
+  {
+    "code": "G01D 13/12",
+    "description": "••••Graduación [2006.01]"
+  },
+  {
+    "code": "G01D 13/14",
+    "description": "••••••para giros de más de 360° [2006.01]"
+  },
+  {
+    "code": "G01D 13/16",
+    "description": "••••••con marcas escalonadas [2006.01]"
+  },
+  {
+    "code": "G01D 13/18",
+    "description": "••••••con marcas en relieve o grabadas [2006.01]"
+  },
+  {
+    "code": "G01D 13/20",
+    "description": "••••••con marcas luminescentes [2006.01]"
+  },
+  {
+    "code": "G01D 13/22",
+    "description": "••Agujas indicadoras, p. ej. agujas regulables [2006.01]"
+  },
+  {
+    "code": "G01D 13/24",
+    "description": "••••para la indicación de un máximo o un mínimo [2006.01]"
+  },
+  {
+    "code": "G01D 13/26",
+    "description": "••••adaptadas para ejecutar una operación suplementaria, p. ej. realizar un contacto eléctrico [2006.01]"
+  },
+  {
+    "code": "G01D 13/28",
+    "description": "••••con marcas luminiscentes [2006.01]"
+  },
+  {
+    "code": "G01D 15/00",
+    "description": "Partes constitutivas de los registradores para las disposiciones de medida no especialmente adaptadas a una variable específica [2006.01]"
+  },
+  {
+    "code": "G01D 15/02",
+    "description": "••Estiletes u otros elementos registradores que actúan por deformación o perforación mecánica de la superficie de registro (elementos registradores por impresión G01D 15/20) [2006.01]"
+  },
+  {
+    "code": "G01D 15/04",
+    "description": "••••actuando para agujerear la superficie de registro [2006.01]"
+  },
+  {
+    "code": "G01D 15/06",
+    "description": "••Elementos registradores eléctricos, p. ej. electrolíticos [2006.01]"
+  },
+  {
+    "code": "G01D 15/08",
+    "description": "••••para erosión por chispa [2006.01]"
+  },
+  {
+    "code": "G01D 15/10",
+    "description": "••Elementos registradores calentados que actúan sobre capas termosensibles [2006.01]"
+  },
+  {
+    "code": "G01D 15/12",
+    "description": "••Elementos registradores magnéticos [2006.01]"
+  },
+  {
+    "code": "G01D 15/14",
+    "description": "••Elementos registradores ópticos; Elementos registradores que utilizan radiación X o nuclear [2006.01]"
+  },
+  {
+    "code": "G01D 15/16",
+    "description": "••Elementos registradores que transfieren el material registrador, p. ej. tinta, a la superficie de registro (elementos registradores por impresión G01D 15/20) [2006.01]"
+  },
+  {
+    "code": "G01D 15/18",
+    "description": "••••Toberas que emiten el material registrador [2006.01]"
+  },
+  {
+    "code": "G01D 15/20",
+    "description": "••Elementos registradores para la impresión con tinta o para la impresión por deformación o por perforación de la superficie de registro, p. ej estampado [2006.01]"
+  },
+  {
+    "code": "G01D 15/22",
+    "description": "••Biseles de impresión (\"chopper bars\") para poner el elemento registrador en contacto con la superficie de registro [2006.01]"
+  },
+  {
+    "code": "G01D 15/24",
+    "description": "••Accionadores de elementos o de superficies de registro, no cubiertos por el grupo G01D 5/00 [2006.01]"
+  },
+  {
+    "code": "G01D 15/26",
+    "description": "••••que funcionan mediante mecanismos de relojería (\"clockwork\") [2006.01]"
+  },
+  {
+    "code": "G01D 15/28",
+    "description": "••Medios de sujeción para superficies de registro; Medios de guiado para superficies de registro; Medios de cambio para superficies de registro [2006.01]"
+  },
+  {
+    "code": "G01D 15/30",
+    "description": "••••para cartas en forma de tira plegable [2006.01]"
+  },
+  {
+    "code": "G01D 15/32",
+    "description": "••••para cartas circulares [2006.01]"
+  },
+  {
+    "code": "G01D 15/34",
+    "description": "••Superficies de registro [2006.01]"
+  },
+  {
+    "code": "G01D 18/00",
+    "description": "Aparatos para ensayos o calibraciones o las disposiciones previstas en los grupos G01D 1/00-G01D 15/00 [2006.01]"
+  },
+  {
+    "code": "G01D 21/00",
+    "description": "Mediciones o ensayos no previstos en otro lugar [2006.01]"
+  },
+  {
+    "code": "G01D 21/02",
+    "description": "••Medida de dos o más variables mediante medios no cubiertos por otra única subclase [2006.01]"
+  }
+]

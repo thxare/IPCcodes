@@ -1,0 +1,714 @@
+[
+  {
+    "code": "G01F 1/00",
+    "description": "Medida del flujo volumétrico o flujo másico de un fluido o material sólido fluyente en la que el fluido pasa a través del medidor con un flujo continuo (regulación de la cantidad o proporción G01F 5/00) [2022.01]"
+  },
+  {
+    "code": "G01F 1/002",
+    "description": "••en el que el flujo está en un canal abierto [2022.01]"
+  },
+  {
+    "code": "G01F 1/05",
+    "description": "••mediante la utilización de efectos mecánicos [2006.01]"
+  },
+  {
+    "code": "G01F 1/06",
+    "description": "••••utilizando álabes rotatorios con admisión tangencial [2006.01]"
+  },
+  {
+    "code": "G01F 1/07",
+    "description": "••••••con acoplamiento mecánico al dispositivo indicador [2006.01]"
+  },
+  {
+    "code": "G01F 1/075",
+    "description": "••••••con acoplamiento magnético o electromagnético al dispositivo indicador [2006.01]"
+  },
+  {
+    "code": "G01F 1/08",
+    "description": "••••••Su medios de ajuste, corrección o compensación [2006.01]"
+  },
+  {
+    "code": "G01F 1/10",
+    "description": "••••utilizando álabes rotatorios con admisión axial [2006.01]"
+  },
+  {
+    "code": "G01F 1/11",
+    "description": "••••••con acoplamiento mecánico al dispositivo indicador [2006.01]"
+  },
+  {
+    "code": "G01F 1/115",
+    "description": "••••••con acoplamiento magnético o electromagnético al dispositivo indicador [2006.01]"
+  },
+  {
+    "code": "G01F 1/12",
+    "description": "••••••Su medios de ajuste, corrección o compensación [2006.01]"
+  },
+  {
+    "code": "G01F 1/20",
+    "description": "••••mediante la detección de efectos dinámicos del flujo [2006.01]"
+  },
+  {
+    "code": "G01F 1/22",
+    "description": "••••••mediante medidores de sección variable [2006.01]"
+  },
+  {
+    "code": "G01F 1/24",
+    "description": "••••••••con acoplamiento magnético o eléctrico al dispositivo indicador [2006.01]"
+  },
+  {
+    "code": "G01F 1/26",
+    "description": "••••••••del tipo válvula [2006.01]"
+  },
+  {
+    "code": "G01F 1/28",
+    "description": "••••••mediante fuerzas de resistencia (drag), p. ej. medidor de flujo de tipo álabe o impacto [2006.01]"
+  },
+  {
+    "code": "G01F 1/30",
+    "description": "••••••••para material sólido fluyente [2006.01]"
+  },
+  {
+    "code": "G01F 1/32",
+    "description": "••••••mediante caudalímetros de remolino [2022.01]"
+  },
+  {
+    "code": "G01F 1/325",
+    "description": "••••••••Medios para detectar las magnitudes utilizadas como variables indirectas del remolino [2022.01]"
+  },
+  {
+    "code": "G01F 1/34",
+    "description": "••••mediante la medida de la presión o la presión diferencial [2006.01]"
+  },
+  {
+    "code": "G01F 1/36",
+    "description": "••••••siendo creada la presión o la presión diferencial mediante el uso de restricciones de flujo [2006.01]"
+  },
+  {
+    "code": "G01F 1/37",
+    "description": "••••••••siendo medida la presión o la presión diferencial mediante tubos o depósitos comunicantes con niveles de fluido desplazables p. ej. mediante tubos en U [2006.01]"
+  },
+  {
+    "code": "G01F 1/38",
+    "description": "••••••••siendo medida la presión o la presión diferencial mediante un elemento móvil, p. ej. diafragma, pistón, tubo de Bourdon o cápsula flexible [2006.01]"
+  },
+  {
+    "code": "G01F 1/40",
+    "description": "••••••••Detalles constructivos de dispositivos restrictores de flujo [2006.01]"
+  },
+  {
+    "code": "G01F 1/42",
+    "description": "••••••••••Orificios o toberas [2006.01]"
+  },
+  {
+    "code": "G01F 1/44",
+    "description": "••••••••••Tubos Venturi [2006.01]"
+  },
+  {
+    "code": "G01F 1/46",
+    "description": "••••••••••Tubos Pitot [2006.01]"
+  },
+  {
+    "code": "G01F 1/48",
+    "description": "••••••siendo creada la presión o la presión diferencial mediante un elemento capilar [2006.01]"
+  },
+  {
+    "code": "G01F 1/50",
+    "description": "••••••Medios de corrección o de compensación [2006.01]"
+  },
+  {
+    "code": "G01F 1/52",
+    "description": "••••mediante la medida de la altura del nivel del fluido debida al efecto de la fuerza ascendente provocada por el flujo [2006.01]"
+  },
+  {
+    "code": "G01F 1/54",
+    "description": "••••mediante cadenas, cintas flexibles o alambres introducidos en el flujo y movidos por él. [2006.01]"
+  },
+  {
+    "code": "G01F 1/56",
+    "description": "••mediante la utilización de efectos eléctricos o magnéticos (G01F 1/66 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01F 1/58",
+    "description": "••••mediante medidores de flujo electromagnéticos [2006.01]"
+  },
+  {
+    "code": "G01F 1/60",
+    "description": "••••••Sus circuitos [2006.01]"
+  },
+  {
+    "code": "G01F 1/64",
+    "description": "••••mediante la medida de corrientes eléctricas que pasan a través del flujo; mediante la medida del potencial eléctrico producido por el flujo, p. ej. por efecto electroquímico, de contacto o de rozamiento (G01F 1/58 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01F 1/66",
+    "description": "••mediante la medida de la frecuencia, el desfase o el tiempo de propagación de ondas electromagnéticas o de otro tipo de ondas, p. ej. utilizando medidores de flujo ultrasónicos [2022.01]"
+  },
+  {
+    "code": "G01F 1/661",
+    "description": "••••utilizando luz [2022.01]"
+  },
+  {
+    "code": "G01F 1/663",
+    "description": "••••midiendo el desplazamiento de frecuencia Doppler [2022.01]"
+  },
+  {
+    "code": "G01F 1/667",
+    "description": "••••Disposiciones de transductores para caudalímetros ultrasónicos; Circuitos para el funcionamiento de los caudalímetros ultrasónicos [2022.01]"
+  },
+  {
+    "code": "G01F 1/68",
+    "description": "••mediante el uso de efectos térmicos [2006.01]"
+  },
+  {
+    "code": "G01F 1/684",
+    "description": "••••Disposiciones estructurales; Montaje de elementos, p. ej. con relación al flujo de fluido [2006.01]"
+  },
+  {
+    "code": "G01F 1/688",
+    "description": "••••••que utilizan un tipo particular de elemento de calefacción, refrigeración o detección [2006.01]"
+  },
+  {
+    "code": "G01F 1/69",
+    "description": "••••••••de tipo resistivo [2006.01]"
+  },
+  {
+    "code": "G01F 1/692",
+    "description": "••••••••••Disposiciones de película \"fina\" [2006.01]"
+  },
+  {
+    "code": "G01F 1/696",
+    "description": "••••Sus circuitos, p. ej. medidores de flujo de corriente constante [2006.01]"
+  },
+  {
+    "code": "G01F 1/698",
+    "description": "••••••Circuitos de realimentación o reequilibrado, p. ej. caudalímetros autocalentados de temperatura constante [2006.01]"
+  },
+  {
+    "code": "G01F 1/699",
+    "description": "••••••••mediante el control de un elemento de calefacción o de refrigeración aparte [2006.01]"
+  },
+  {
+    "code": "G01F 1/704",
+    "description": "••mediante la utilización de zonas marcadas o no homogéneas en el flujo, p. ej. variaciones estadísticas de un parámetro del fluido (G01F 1/76, G01F 25/00 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G01F 1/708",
+    "description": "••••Medida del tiempo empleado en recorrer una distancia fija [2022.01]"
+  },
+  {
+    "code": "G01F 1/7082",
+    "description": "••••••utilizando dispositivos de detección acústica [2022.01]"
+  },
+  {
+    "code": "G01F 1/7084",
+    "description": "••••••utilizando dispositivos de detección térmica [2022.01]"
+  },
+  {
+    "code": "G01F 1/7086",
+    "description": "••••••utilizando dispositivos ópticos de detección [2022.01]"
+  },
+  {
+    "code": "G01F 1/7088",
+    "description": "••••••utilizando partículas cargadas eléctricamente como trazadores [2022.01]"
+  },
+  {
+    "code": "G01F 1/712",
+    "description": "••••••utilizando medios de detección con autocorrelación o con intercorrelación [2006.01]"
+  },
+  {
+    "code": "G01F 1/716",
+    "description": "••••••utilizando la resonancia paramagnética electrónica (RPE) o la resonancia magnética nuclear (RMN) [2006.01]"
+  },
+  {
+    "code": "G01F 1/72",
+    "description": "••Dispositivos para la medida de flujos fluidos pulsantes [2006.01]"
+  },
+  {
+    "code": "G01F 1/74",
+    "description": "••Dispositivos para la medida del flujo de un fluido o de un material sólido fluyente en suspensión en otro fluido [2006.01]"
+  },
+  {
+    "code": "G01F 1/76",
+    "description": "••Dispositivos para la medida del flujo másico de un fluido o de un material sólido fluyente [2006.01]"
+  },
+  {
+    "code": "G01F 1/78",
+    "description": "••••Medidores de flujo másico directos [2006.01]"
+  },
+  {
+    "code": "G01F 1/80",
+    "description": "••••••que funcionan mediante la medida de la presión, la fuerza, el par o la frecuencia de un flujo al que le ha sido conferido un movimiento de rotación [2006.01]"
+  },
+  {
+    "code": "G01F 1/82",
+    "description": "••••••••que utilizan el accionamiento de una rueda como dispositivo impulsor y, como dispositivo de medida, una o más ruedas adicionales móviles o elementos móviles restringidos en su movimiento angular mediante un elemento elástico, p. ej. un muelle [2006.01]"
+  },
+  {
+    "code": "G01F 1/84",
+    "description": "••••••••Medidores de flujo  de coriolis o giroscopo másico [2006.01]"
+  },
+  {
+    "code": "G01F 1/86",
+    "description": "••••Medidores de flujo másico indirectos, p. ej. que miden el flujo volumétrico y la densidad, la temperatura o la presión [2006.01]"
+  },
+  {
+    "code": "G01F 1/88",
+    "description": "••••••con medida de la presión diferencial para la determinación del flujo volumétrico [2006.01]"
+  },
+  {
+    "code": "G01F 1/90",
+    "description": "••••••con medidor de desplazamiento positivo o medidor de turbina para determinar el flujo volumétrico [2006.01]"
+  },
+  {
+    "code": "G01F 3/00",
+    "description": "Medida del flujo volumétrico o flujo másico de un fluido o material sólido fluyente en la que el fluido pasa a través del medidor en cantidades sucesivas y, más o menos, aisladas, siendo accionado el medidor por el flujo (medida de una fracción del caudal G01F 5/00) [2006.01]"
+  },
+  {
+    "code": "G01F 3/02",
+    "description": "••con cámaras de medida que se expanden o contraen durante la medida [2006.01]"
+  },
+  {
+    "code": "G01F 3/04",
+    "description": "••••que tienen paredes rígidas móviles [2006.01]"
+  },
+  {
+    "code": "G01F 3/06",
+    "description": "••••••que comprenden miembros que giran en un alojamiento de una manera estanca o de una manera sustancialmente estanca [2006.01]"
+  },
+  {
+    "code": "G01F 3/08",
+    "description": "••••••••Contadores de pistón rotatorio o de pistón anular [2006.01]"
+  },
+  {
+    "code": "G01F 3/10",
+    "description": "••••••••Medidores de rotor engranado o lobulado [2006.01]"
+  },
+  {
+    "code": "G01F 3/12",
+    "description": "••••••••Medidores con elementos dotados de movimiento de nutación, p. ej. discos [2006.01]"
+  },
+  {
+    "code": "G01F 3/14",
+    "description": "••••••que comprenden pistones dotados de movimiento alternativo, p. ej. con movimiento alternativo dentro de un cuerpo giratorio [2006.01]"
+  },
+  {
+    "code": "G01F 3/16",
+    "description": "••••••••en cilindros estacionarios [2006.01]"
+  },
+  {
+    "code": "G01F 3/18",
+    "description": "••••••••••que conllevan dos o más cilindros [2006.01]"
+  },
+  {
+    "code": "G01F 3/20",
+    "description": "••••que tienen paredes elásticas móviles, p. ej. diafragmas, fuelles [2006.01]"
+  },
+  {
+    "code": "G01F 3/22",
+    "description": "••••••para gases [2006.01]"
+  },
+  {
+    "code": "G01F 3/24",
+    "description": "••con cámaras de medida que se mueven durante la operación (Medidores de gases húmedos G01F 3/30) [2006.01]"
+  },
+  {
+    "code": "G01F 3/26",
+    "description": "••••Medidores de separador basculante (\"tilting-trap\") [2006.01]"
+  },
+  {
+    "code": "G01F 3/28",
+    "description": "••••sobre plataformas que giran por el peso del líquido existente en las cámaras de medida [2006.01]"
+  },
+  {
+    "code": "G01F 3/30",
+    "description": "••Medidores de gases húmedos [2006.01]"
+  },
+  {
+    "code": "G01F 3/32",
+    "description": "••••que comprenden tambores particionados que giran o nutan dentro de un líquido [2006.01]"
+  },
+  {
+    "code": "G01F 3/34",
+    "description": "••••que comprenden campanas (conos) con movimiento alternativo dentro de un líquido [2006.01]"
+  },
+  {
+    "code": "G01F 3/36",
+    "description": "••con cámaras de medida estacionarias que mantienen el volumen constante durante la medida (con cámaras de medida que se expanden o contraen durante la medida G01F 3/02) [2006.01]"
+  },
+  {
+    "code": "G01F 3/38",
+    "description": "••••que tienen solo una cámara de medida [2006.01]"
+  },
+  {
+    "code": "G01F 5/00",
+    "description": "Medida de una fracción del caudal [2006.01]"
+  },
+  {
+    "code": "G01F 7/00",
+    "description": "Dispositivos de medida de caudal con dos o más rangos de medida; Medidores compuestos [2006.01]"
+  },
+  {
+    "code": "G01F 9/00",
+    "description": "Medida del caudal por relación con otra variable, p. ej. del combustible líquido para un motor [2006.01]"
+  },
+  {
+    "code": "G01F 9/02",
+    "description": "••en la que la otra variable es la velocidad de un vehículo [2006.01]"
+  },
+  {
+    "code": "G01F 11/00",
+    "description": "Aparatos que requieren un accionamiento exterior adaptado a cada operación repetida e idéntica para medir y separar, independientemente del peso, un volumen predeterminado de fluido o de material sólido fluyente desde una línea de abastecimiento o recipiente y para suministrarlo [2006.01]"
+  },
+  {
+    "code": "G01F 11/02",
+    "description": "••con cámaras de medida que se expanden o contraen durante la medición [2006.01]"
+  },
+  {
+    "code": "G01F 11/04",
+    "description": "••••del tipo pistón libre [2006.01]"
+  },
+  {
+    "code": "G01F 11/06",
+    "description": "••••••con provisiones para variar la carrera del pistón [2006.01]"
+  },
+  {
+    "code": "G01F 11/08",
+    "description": "••••del tipo de diafragma o de fuelle [2006.01]"
+  },
+  {
+    "code": "G01F 11/10",
+    "description": "••con cámaras de medida que se mueven durante la operación [2006.01]"
+  },
+  {
+    "code": "G01F 11/12",
+    "description": "••••del tipo de válvulas, p. ej. la separación se efectúa mediante movimientos estancos a fluidos o a polvos (que conllevan la basculación o la inversión del recipiente de suministro G01F 11/26) [2006.01]"
+  },
+  {
+    "code": "G01F 11/14",
+    "description": "••••••en los que la cámara de medida está dotada de un movimiento alternativo [2006.01]"
+  },
+  {
+    "code": "G01F 11/16",
+    "description": "••••••••para líquidos o semilíquidos [2006.01]"
+  },
+  {
+    "code": "G01F 11/18",
+    "description": "••••••••para materiales sólidos fluyentes [2006.01]"
+  },
+  {
+    "code": "G01F 11/20",
+    "description": "••••••en los que la cámara de medida está dotada de un movimiento rotatorio u oscilante [2006.01]"
+  },
+  {
+    "code": "G01F 11/22",
+    "description": "••••••••para líquidos o semilíquidos [2006.01]"
+  },
+  {
+    "code": "G01F 11/24",
+    "description": "••••••••para materiales sólidos fluyentes [2006.01]"
+  },
+  {
+    "code": "G01F 11/26",
+    "description": "••••en los cuales la cámara de medida se llena y vacía mediante la basculación o la inversión del recipiente de suministro, p. ej. aparato para vaciar botellas [2006.01]"
+  },
+  {
+    "code": "G01F 11/28",
+    "description": "••con cámaras de medida estacionarias que tienen un volumen constante durante la medición [2006.01]"
+  },
+  {
+    "code": "G01F 11/30",
+    "description": "••••con válvulas de admisión y descarga del tipo lift o plug-lift [2006.01]"
+  },
+  {
+    "code": "G01F 11/32",
+    "description": "••••••para líquidos o semilíquidos [2006.01]"
+  },
+  {
+    "code": "G01F 11/34",
+    "description": "••••••para materiales sólidos fluyentes [2006.01]"
+  },
+  {
+    "code": "G01F 11/36",
+    "description": "••••con válvulas de admisión y descarga del tipo rectilinearly-moved slide [2006.01]"
+  },
+  {
+    "code": "G01F 11/38",
+    "description": "••••••para líquidos o semilíquidos [2006.01]"
+  },
+  {
+    "code": "G01F 11/40",
+    "description": "••••••para materiales sólidos fluyentes [2006.01]"
+  },
+  {
+    "code": "G01F 11/42",
+    "description": "••••con válvulas de admisión o descarga del tipo rotatorio u oscilante [2006.01]"
+  },
+  {
+    "code": "G01F 11/44",
+    "description": "••••••para líquidos o semilíquidos [2006.01]"
+  },
+  {
+    "code": "G01F 11/46",
+    "description": "••••••para materiales sólidos fluyentes [2006.01]"
+  },
+  {
+    "code": "G01F 13/00",
+    "description": "Aparatos para la medida volumétrica y el suministro de fluidos o materiales sólidos fluyentes no previstos en los grupos precedentes [2006.01]"
+  },
+  {
+    "code": "G01F 15/02",
+    "description": "••Compensación o corrección de las variaciones de presión, densidad o temperatura [2006.01]"
+  },
+  {
+    "code": "G01F 15/04",
+    "description": "••••de los gases a medir [2006.01]"
+  },
+  {
+    "code": "G01F 15/06",
+    "description": "••Dispositivos de indicación o registro [2022.01]"
+  },
+  {
+    "code": "G01F 15/061",
+    "description": "••••para la indicación a distancia [2022.01]"
+  },
+  {
+    "code": "G01F 15/063",
+    "description": "••••••utilizando medios eléctricos [2022.01]"
+  },
+  {
+    "code": "G01F 15/07",
+    "description": "••Integración para obtener el flujo total, p. ej. utilizando un mecanismo integrador de funcionamiento mecánico [2006.01]"
+  },
+  {
+    "code": "G01F 15/075",
+    "description": "••••utilizando medios de integración de funcionamiento eléctrico [2006.01]"
+  },
+  {
+    "code": "G01F 15/08",
+    "description": "••Separadores de aire o gas en combinación con medidores de líquidos; Separadores de líquido en combinación con medidores de gases [2006.01]"
+  },
+  {
+    "code": "G01F 15/10",
+    "description": "••Prevención de daños por congelación o por exceso o insuficiencia de presión [2006.01]"
+  },
+  {
+    "code": "G01F 15/12",
+    "description": "••Disposiciones de limpieza; Filtros [2006.01]"
+  },
+  {
+    "code": "G01F 15/14",
+    "description": "••Fundas, p. ej. de un material especial [2006.01]"
+  },
+  {
+    "code": "G01F 15/16",
+    "description": "••Diafragmas; Fuelles; Sus montajes [2006.01]"
+  },
+  {
+    "code": "G01F 15/18",
+    "description": "••Soportes o medios de conexión para medidores [2006.01]"
+  },
+  {
+    "code": "G01F 17/00",
+    "description": "Métodos o aparatos para la determinación de la capacidad de recipientes o cavidades o del volumen de cuerpos sólidos (medida de dimensiones lineales para determinar el volumen G01B) [2006.01]"
+  },
+  {
+    "code": "G01F 19/00",
+    "description": "Recipientes de medida calibrados para fluidos o materiales sólidos fluyentes , p. ej. vasos graduados [2006.01]"
+  },
+  {
+    "code": "G01F 22/00",
+    "description": "Métodos o aparatos para la medida del volumen de fluidos o materiales sólidos fluyentes, no previstos en otro lugar [2006.01]"
+  },
+  {
+    "code": "G01F 22/02",
+    "description": "••Que conllevan la medida de la presión [2006.01]"
+  },
+  {
+    "code": "G01F 23/00",
+    "description": "Indicación o medida del nivel de líquidos o materiales sólidos fluyentes, p. ej. indicación en términos de volumen o indicación por medio de una señal de alarma [2022.01]"
+  },
+  {
+    "code": "G01F 23/02",
+    "description": "••mediante tubos de nivel u otros aparatos que incluyan una ventana o un tubo transparente para la observación directa del nivel a medir o del nivel de una columna líquida en libre comunicación con la masa de líquido [2006.01]"
+  },
+  {
+    "code": "G01F 23/04",
+    "description": "••mediante elementos sumergibles, p. ej. sondas de nivel [2006.01]"
+  },
+  {
+    "code": "G01F 23/14",
+    "description": "••mediante la medida de la presión [2006.01]"
+  },
+  {
+    "code": "G01F 23/16",
+    "description": "••••Dispositivos de indicación, registro o alarma accionados mediante medios mecánicos o hidráulicos, p. ej., que utilizan gas, mercurio o un diafragma como elemento de transmisión, o mediante una columna de líquido [2006.01]"
+  },
+  {
+    "code": "G01F 23/18",
+    "description": "••••Dispositivos de indicación, registro o alarma accionados mediante medios eléctricos [2006.01]"
+  },
+  {
+    "code": "G01F 23/20",
+    "description": "••mediante la medida del peso, p. ej. para determinar el nivel de un gas licuado almacenado [2006.01]"
+  },
+  {
+    "code": "G01F 23/22",
+    "description": "••mediante la medida de variables físicas, salvo dimensiones lineales, presión o peso, que dependan del nivel a medir, p. ej. mediante la diferencia en la transmisión de calor del vapor o del agua (que conllevan el uso de flotadores G01F 23/30) [2006.01]"
+  },
+  {
+    "code": "G01F 23/24",
+    "description": "••••mediante la medida de variaciones de la resistencia de resistores debidas al contacto con un fluido conductor [2006.01]"
+  },
+  {
+    "code": "G01F 23/26",
+    "description": "••••mediante la medida de variaciones de capacidad o inductancia de condensadores o bobinas provocadas por la presencia de líquido o material sólido fluyente en los campos eléctrico o electromagnético [2022.01]"
+  },
+  {
+    "code": "G01F 23/263",
+    "description": "••••••mediante la medida de las variaciones de la capacitancia de los condensadores [2022.01]"
+  },
+  {
+    "code": "G01F 23/28",
+    "description": "••••mediante la medida de variaciones de parámetros de ondas electromagnéticas o acústicas aplicadas directamente al líquido o material sólido fluyente [2006.01]"
+  },
+  {
+    "code": "G01F 23/284",
+    "description": "••••••Ondas electromagnéticas [2006.01]"
+  },
+  {
+    "code": "G01F 23/288",
+    "description": "••••••••Rayos X; Rayos Gamma [2006.01]"
+  },
+  {
+    "code": "G01F 23/292",
+    "description": "••••••••Luz [2006.01]"
+  },
+  {
+    "code": "G01F 23/296",
+    "description": "••••••Ondas acústicas [2022.01]"
+  },
+  {
+    "code": "G01F 23/2962",
+    "description": "••••••••Medida del tiempo de tránsito de las ondas reflejadas [2022.01]"
+  },
+  {
+    "code": "G01F 23/2965",
+    "description": "••••••••Medida de la atenuación de las ondas transmitidas [2022.01]"
+  },
+  {
+    "code": "G01F 23/30",
+    "description": "••mediante flotadores [2006.01]"
+  },
+  {
+    "code": "G01F 23/32",
+    "description": "••••que utilizan brazos giratorios u otros elementos de transmisión pivotantes [2006.01]"
+  },
+  {
+    "code": "G01F 23/34",
+    "description": "••••••utilizando medios de indicación de accionamiento mecánico [2006.01]"
+  },
+  {
+    "code": "G01F 23/36",
+    "description": "••••••utilizando medios de indicación de accionamiento eléctrico [2006.01]"
+  },
+  {
+    "code": "G01F 23/38",
+    "description": "••••••utilizando medios de indicación de accionamiento magnético [2006.01]"
+  },
+  {
+    "code": "G01F 23/40",
+    "description": "••••que utilizan como elementos de transmisión cintas o cables [2006.01]"
+  },
+  {
+    "code": "G01F 23/42",
+    "description": "••••••utilizando medios de indicación de accionamiento mecánico [2006.01]"
+  },
+  {
+    "code": "G01F 23/44",
+    "description": "••••••utilizando medios de indicación de accionamiento eléctrico [2006.01]"
+  },
+  {
+    "code": "G01F 23/46",
+    "description": "••••••utilizando medios de indicación de accionamiento magnético [2006.01]"
+  },
+  {
+    "code": "G01F 23/48",
+    "description": "••••que utilizan como elementos de transmisión husillos giratorios [2006.01]"
+  },
+  {
+    "code": "G01F 23/50",
+    "description": "••••••utilizando medios de indicación de accionamiento mecánico [2006.01]"
+  },
+  {
+    "code": "G01F 23/52",
+    "description": "••••••utilizando medios de indicación de accionamiento eléctrico [2006.01]"
+  },
+  {
+    "code": "G01F 23/54",
+    "description": "••••••utilizando medios de indicación de accionamiento magnético [2006.01]"
+  },
+  {
+    "code": "G01F 23/56",
+    "description": "••••que utilizan como elementos de transmisión elementos fijados rigidamente a los flotadores y que se mueven conjunta y rectilíneamente con ellos [2006.01]"
+  },
+  {
+    "code": "G01F 23/58",
+    "description": "••••••utilizando medios de indicación de accionamiento mecánico [2006.01]"
+  },
+  {
+    "code": "G01F 23/60",
+    "description": "••••••utilizando medios de indicación de accionamiento eléctrico [2006.01]"
+  },
+  {
+    "code": "G01F 23/62",
+    "description": "••••••utilizando medios de indicación de accionamiento magnético [2006.01]"
+  },
+  {
+    "code": "G01F 23/64",
+    "description": "••••del tipo flotador libre [2006.01]"
+  },
+  {
+    "code": "G01F 23/66",
+    "description": "••••••utilizando medios de indicación de accionamiento mecánico [2006.01]"
+  },
+  {
+    "code": "G01F 23/68",
+    "description": "••••••utilizando medios de indicación de accionamiento eléctrico [2006.01]"
+  },
+  {
+    "code": "G01F 23/70",
+    "description": "••••••••para detectar cambios de nivel sólo en puntos discretos [2006.01]"
+  },
+  {
+    "code": "G01F 23/72",
+    "description": "••••••utilizando medios de indicación de accionamiento magnético [2006.01]"
+  },
+  {
+    "code": "G01F 23/74",
+    "description": "••••••••para detectar cambios de nivel sólo en puntos discretos [2006.01]"
+  },
+  {
+    "code": "G01F 23/76",
+    "description": "••••caracterizada por la estructura del flotador [2006.01]"
+  },
+  {
+    "code": "G01F 23/80",
+    "description": "••Circuitos para el procesamiento de señales [2022.01]"
+  },
+  {
+    "code": "G01F 25/00",
+    "description": "Ensayo o calibrado de aparatos para la medida del volumen, caudal, nivel de líquidos o para la dosificación volumétrica [2022.01]"
+  },
+  {
+    "code": "G01F 25/10",
+    "description": "••de caudalímetros [2022.01]"
+  },
+  {
+    "code": "G01F 25/17",
+    "description": "••••utilizando depósitos calibrados [2022.01]"
+  },
+  {
+    "code": "G01F 25/20",
+    "description": "••de aparatos para medir el nivel de líquido [2022.01]"
+  }
+]

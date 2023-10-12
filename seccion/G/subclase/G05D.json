@@ -1,0 +1,478 @@
+[
+  {
+    "code": "G05D 1/00",
+    "description": "Control de la posición, del rumbo, de la altitud o de la actitud de vehículos terrestres, acuáticos, aéreos o espaciales, p. ej. piloto automático (sistemas de radionavegación o sistemas análogos que utilizan otras ondas G01S) [2006.01]"
+  },
+  {
+    "code": "G05D 1/02",
+    "description": "••Control de la posición o del rumbo por referencia a un sistema de dos dimensiones [2020.01]"
+  },
+  {
+    "code": "G05D 1/03",
+    "description": "••••que utilizan sistemas de transmisión por proximidad de campo, p. ej. del tipo de bucle inductivo [2006.01]"
+  },
+  {
+    "code": "G05D 1/04",
+    "description": "••Control de la altitud o de la profundidad [2006.01]"
+  },
+  {
+    "code": "G05D 1/06",
+    "description": "••••Régimen de modificación de la altitud o de la profundidad [2006.01]"
+  },
+  {
+    "code": "G05D 1/08",
+    "description": "••Control de la actitud, es decir, eliminación o reducción de los efectos del balanceo, cabeceo o guiñada [2006.01]"
+  },
+  {
+    "code": "G05D 1/10",
+    "description": "••Control de la posición o del rumbo en las tres dimensiones simultáneamente (G05D 1/12 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G05D 1/12",
+    "description": "••Control para la búsqueda de un objetivo [2006.01]"
+  },
+  {
+    "code": "G05D 3/00",
+    "description": "Control de la posición o de la dirección (G05D 1/00 tiene prioridad; control de programa numérico G05B 19/18) [2006.01]"
+  },
+  {
+    "code": "G05D 3/10",
+    "description": "••sin utilización de realimentación [2006.01]"
+  },
+  {
+    "code": "G05D 3/12",
+    "description": "••utilizando realimentación [2006.01]"
+  },
+  {
+    "code": "G05D 3/14",
+    "description": "••••utilizando un dispositivo de comparación analógico [2006.01]"
+  },
+  {
+    "code": "G05D 3/16",
+    "description": "••••••cuya amplitud de salida no puede tomar más que un cierto número de valores discretos (G05D 3/18 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G05D 3/18",
+    "description": "••••••produciendo una serie de impulsos [2006.01]"
+  },
+  {
+    "code": "G05D 3/20",
+    "description": "••••utilizando un dispositivo de comparación digital [2006.01]"
+  },
+  {
+    "code": "G05D 5/00",
+    "description": "Control para obtener las dimensiones determinadas de un material [2006.01]"
+  },
+  {
+    "code": "G05D 5/02",
+    "description": "••Control de un espesor, p. ej. de un material laminado [2006.01]"
+  },
+  {
+    "code": "G05D 5/03",
+    "description": "••••caracterizado por la utilización de medios eléctricos [2006.01]"
+  },
+  {
+    "code": "G05D 5/04",
+    "description": "••Control de las dimensiones de los objetos, p. ej. de partículas [2006.01]"
+  },
+  {
+    "code": "G05D 5/06",
+    "description": "••••caracterizados por la utilización de medios eléctricos [2006.01]"
+  },
+  {
+    "code": "G05D 7/00",
+    "description": "Control del caudal (control del nivel G05D 9/00; control de la relación de caudales  G05D 11/00) [2006.01]"
+  },
+  {
+    "code": "G05D 7/01",
+    "description": "••sin fuente de energía auxiliar [2006.01]"
+  },
+  {
+    "code": "G05D 7/03",
+    "description": "••con una fuente de energía auxiliar no eléctrica [2006.01]"
+  },
+  {
+    "code": "G05D 7/06",
+    "description": "••caracterizado por la utilización de medios eléctricos [2006.01]"
+  },
+  {
+    "code": "G05D 9/00",
+    "description": "Control del nivel, p. ej. controlando la cantidad del material almacenado en un recipiente [2006.01]"
+  },
+  {
+    "code": "G05D 9/02",
+    "description": "••sin fuente de energía auxiliar [2006.01]"
+  },
+  {
+    "code": "G05D 9/04",
+    "description": "••con una fuente de energía auxiliar no eléctrica [2006.01]"
+  },
+  {
+    "code": "G05D 9/12",
+    "description": "••caracterizado por la utilización de medios eléctricos [2006.01]"
+  },
+  {
+    "code": "G05D 11/00",
+    "description": "Control de la relación de caudales (control de variables químicas o físico-químicas, p. ej. del valor del pH, G05D 21/00; control de la humedad G05D 22/00; control de la temperatura mediante la variación de la proporción de la mezcla de dos fluidos que tienen temperaturas diferentes G05D 23/13; control de la viscosidad G05D 24/00) [2006.01]"
+  },
+  {
+    "code": "G05D 11/02",
+    "description": "••Control de la relación de caudales de materiales fluidos o fluyentes [2006.01]"
+  },
+  {
+    "code": "G05D 11/03",
+    "description": "••••sin fuente de energía auxiliar [2006.01]"
+  },
+  {
+    "code": "G05D 11/035",
+    "description": "••••con fuente de energía auxiliar no eléctrica [2006.01]"
+  },
+  {
+    "code": "G05D 11/04",
+    "description": "••••••determinado el peso de componentes individuales, p. ej. por un procedimiento gravimétrico [2006.01]"
+  },
+  {
+    "code": "G05D 11/06",
+    "description": "••••••determinado el peso específico de la mezcla, p. ej. utilizando un aerómetro [2006.01]"
+  },
+  {
+    "code": "G05D 11/08",
+    "description": "••••••determinando la concentración de la mezcla, p. ej. determinando el valor del pH [2006.01]"
+  },
+  {
+    "code": "G05D 11/10",
+    "description": "••••••••determinando el contenido en humedad de líquidos no acuosos [2006.01]"
+  },
+  {
+    "code": "G05D 11/12",
+    "description": "••••••determinando la viscosidad de la mezcla [2006.01]"
+  },
+  {
+    "code": "G05D 11/13",
+    "description": "••••caracterizado por el uso de medios eléctricos [2006.01]"
+  },
+  {
+    "code": "G05D 11/16",
+    "description": "••Control de la relación de la mezcla de fluidos que tienen temperaturas diferentes, p. ej. determinando la temperatura de una mezcla de fluidos que tienen viscosidades diferentes [2006.01]"
+  },
+  {
+    "code": "G05D 13/00",
+    "description": "Control de la velocidad lineal; Control de la velocidad angular; Control de la aceleración o de la deceleración, p. ej. de máquina motriz [2006.01]"
+  },
+  {
+    "code": "G05D 13/02",
+    "description": "••Detalles [2006.01]"
+  },
+  {
+    "code": "G05D 13/04",
+    "description": "••••que aseguran la disyunción de un motor en caso de pasarse de la velocidad máxima [2006.01]"
+  },
+  {
+    "code": "G05D 13/06",
+    "description": "••••que aseguran la amortiguación de vibraciones intermitentes en los reguladores [2006.01]"
+  },
+  {
+    "code": "G05D 13/08",
+    "description": "••sin fuente de energía auxiliar [2006.01]"
+  },
+  {
+    "code": "G05D 13/10",
+    "description": "••••Reguladores centrífugos de bolas [2006.01]"
+  },
+  {
+    "code": "G05D 13/12",
+    "description": "••••••Partes constitutivas [2006.01]"
+  },
+  {
+    "code": "G05D 13/14",
+    "description": "••••••••Bolas; Montaje de éstas; Regulación del equipo para los límites, p. ej. temporalmente [2006.01]"
+  },
+  {
+    "code": "G05D 13/16",
+    "description": "••••••••Bielas elevadoras; Mecanismos de transmisión con este fin; Mecanismos de llamada con este efecto [2006.01]"
+  },
+  {
+    "code": "G05D 13/18",
+    "description": "••••••equilibrados por resortes de araña que actúan inmediatamente sobre las bolas [2006.01]"
+  },
+  {
+    "code": "G05D 13/20",
+    "description": "••••••equilibrados por resorte de araña que actúan sobre la biela elevadora articulada [2006.01]"
+  },
+  {
+    "code": "G05D 13/22",
+    "description": "••••••equilibrados por la presión de un fluido que actúa sobre la biela elevadora articulada [2006.01]"
+  },
+  {
+    "code": "G05D 13/24",
+    "description": "••••••equilibrados por dos o más accesorios diferentes, que actúan simultáneamente sobre la biela elevadora, p. ej. con, a la vez, la fuerza de un resorte y la presión de un fluido con, a la vez, la fuerza de un resorte y una fuerza electromagnética [2006.01]"
+  },
+  {
+    "code": "G05D 13/26",
+    "description": "••••••con posibilidad de modular el grado de no uniformidad de la velocidad [2006.01]"
+  },
+  {
+    "code": "G05D 13/28",
+    "description": "••••••con posibilidad de realizar efectos de frenado en caso de aumento de la velocidad [2006.01]"
+  },
+  {
+    "code": "G05D 13/30",
+    "description": "••••Reguladores caracterizados por características hidráulicas en las que la velocidad de un eje se convierte en presión de un fluido [2006.01]"
+  },
+  {
+    "code": "G05D 13/32",
+    "description": "••••••que utilizan una bomba [2006.01]"
+  },
+  {
+    "code": "G05D 13/34",
+    "description": "••con fuente de energía auxiliar no eléctrica [2006.01]"
+  },
+  {
+    "code": "G05D 13/36",
+    "description": "••••utilizando dispositivos de regulación con banda proporcional, es decir, dispositivos de regulación \"P\" [2006.01]"
+  },
+  {
+    "code": "G05D 13/38",
+    "description": "••••••que tienen reguladores centrífugos del tipo de bolas [2006.01]"
+  },
+  {
+    "code": "G05D 13/40",
+    "description": "••••••que tienen reguladores hidráulicos del tipo de bomba [2006.01]"
+  },
+  {
+    "code": "G05D 13/42",
+    "description": "••••••que tienen reguladores fluidos del tipo controlador de flujo, es decir, en los que el ancho del flujo del líquido es controlado por las bolas [2006.01]"
+  },
+  {
+    "code": "G05D 13/44",
+    "description": "••••••que utilizan reguladores hidráulicos del tipo a chorro [2006.01]"
+  },
+  {
+    "code": "G05D 13/46",
+    "description": "••••que utilizan dispositivos de regulación con banda proporcional y acción integral, es decir, dispositivos de regulación \"PI\" [2006.01]"
+  },
+  {
+    "code": "G05D 13/48",
+    "description": "••••••que tienen mecanismos elásticos de equilibrado [2006.01]"
+  },
+  {
+    "code": "G05D 13/50",
+    "description": "••••••que tienen medios de unión para superponer un dispositivo de regulación proporcional y un dispositivo de regulación integral [2006.01]"
+  },
+  {
+    "code": "G05D 13/52",
+    "description": "••••que utilizan dispositivos de regulación con banda proporcional y acción diferencial, es decir, dispositivos de regulación \"PD\" [2006.01]"
+  },
+  {
+    "code": "G05D 13/54",
+    "description": "••••••que tienen reguladores centrífugos de bolas que ejercen una acción de aceleración [2006.01]"
+  },
+  {
+    "code": "G05D 13/56",
+    "description": "••••••que tienen mecanismos de equilibrado que ejercen un efecto de retardo [2006.01]"
+  },
+  {
+    "code": "G05D 13/58",
+    "description": "••••••que tienen medios de unión de un dispositivo de regulación de la velocidad y de un dispositivo de regulación de la aceleración [2006.01]"
+  },
+  {
+    "code": "G05D 13/60",
+    "description": "••••que utilizan dispositivos de regulación con banda proporcional, acción diferencial y acción integral, es decir, dispositivos de regulación \"PID\" [2006.01]"
+  },
+  {
+    "code": "G05D 13/62",
+    "description": "••caracterizado por la utilización de medios eléctricos, p. ej. utilización de una dinamo taquimétrica, utilización de transductores que convierten valores eléctricos en un desplazamiento [2006.01]"
+  },
+  {
+    "code": "G05D 13/64",
+    "description": "••que compensan la diferencia de velocidad entre motores que engranan por un mecanismo diferencial o la diferencia de velocidad entre un eje de control y un eje controlado [2006.01]"
+  },
+  {
+    "code": "G05D 13/66",
+    "description": "••Unidades de regulación previstas para la acción combinada con control que dependen de una variable distinta de la velocidad [2006.01]"
+  },
+  {
+    "code": "G05D 15/00",
+    "description": "Control de la fuerza o de la tensión mecánica; Control de la presión mecánica [2006.01]"
+  },
+  {
+    "code": "G05D 15/01",
+    "description": "••caracterizado por la utilización de medios eléctricos [2006.01]"
+  },
+  {
+    "code": "G05D 16/00",
+    "description": "Control de la presión de un fluido [2006.01]"
+  },
+  {
+    "code": "G05D 16/02",
+    "description": "••Modificaciones del sistema para reducir los efectos de inestabilidad, p. ej. debidos a vibraciones, fricción, temperatura anormal, sobrecarga o desequilibrado [2006.01]"
+  },
+  {
+    "code": "G05D 16/04",
+    "description": "••sin fuente de energía auxiliar [2006.01]"
+  },
+  {
+    "code": "G05D 16/06",
+    "description": "••••siendo el elemento sensor un órgano elástico que cede a la presión, p. ej. un diafragma, un fuelle, una cápsula [2006.01]"
+  },
+  {
+    "code": "G05D 16/08",
+    "description": "••••••Control de la presión de un líquido [2006.01]"
+  },
+  {
+    "code": "G05D 16/10",
+    "description": "••••siendo el elemento sensor un pistón o un inmersor [2006.01]"
+  },
+  {
+    "code": "G05D 16/12",
+    "description": "••••siendo el elemento sensor un flotador [2006.01]"
+  },
+  {
+    "code": "G05D 16/14",
+    "description": "••con fuente de energía auxiliar no eléctrica [2006.01]"
+  },
+  {
+    "code": "G05D 16/16",
+    "description": "••••derivada del fluido controlado [2006.01]"
+  },
+  {
+    "code": "G05D 16/18",
+    "description": "••••derivada de una fuente exterior [2006.01]"
+  },
+  {
+    "code": "G05D 16/20",
+    "description": "••caracterizado por la utilización de medios eléctricos [2006.01]"
+  },
+  {
+    "code": "G05D 17/00",
+    "description": "Control de un par; Control de la potencia mecánica [2006.01]"
+  },
+  {
+    "code": "G05D 17/02",
+    "description": "••caracterizado por la utilización de medios eléctricos [2006.01]"
+  },
+  {
+    "code": "G05D 19/00",
+    "description": "Control de oscilaciones mecánicas, p. ej. de la amplitud, de la frecuencia, de la fase [2006.01]"
+  },
+  {
+    "code": "G05D 19/02",
+    "description": "••caracterizado por la utilización de medios eléctricos [2006.01]"
+  },
+  {
+    "code": "G05D 21/00",
+    "description": "Control de variables químicas o fisicoquímicas, p. ej. del valor del pH [2006.01]"
+  },
+  {
+    "code": "G05D 21/02",
+    "description": "••caracterizado por la utilización de medios eléctricos [2006.01]"
+  },
+  {
+    "code": "G05D 22/00",
+    "description": "Control de la humedad [2006.01]"
+  },
+  {
+    "code": "G05D 22/02",
+    "description": "••caracterizado por la utilización de medios eléctricos [2006.01]"
+  },
+  {
+    "code": "G05D 23/00",
+    "description": "Control de la temperatura [2006.01]"
+  },
+  {
+    "code": "G05D 23/01",
+    "description": "••sin fuente de energía auxiliar [2006.01]"
+  },
+  {
+    "code": "G05D 23/02",
+    "description": "••••con un elemento sensor dilatándose y contrayéndose en respuesta a las variaciones de temperatura (G05D 23/13 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G05D 23/08",
+    "description": "••••••con un elemento bimetálico [2006.01]"
+  },
+  {
+    "code": "G05D 23/10",
+    "description": "••••••••con elementos de acción brusca [2006.01]"
+  },
+  {
+    "code": "G05D 23/12",
+    "description": "••••con el elemento sensor respondiendo variaciones de la presión o del volumen en un fluido encerrado [2006.01]"
+  },
+  {
+    "code": "G05D 23/13",
+    "description": "••••haciendo variar la relación de la mezcla de dos fluidos que tienen temperaturas diferentes [2006.01]"
+  },
+  {
+    "code": "G05D 23/185",
+    "description": "••con fuente de energía auxiliar no eléctrica [2006.01]"
+  },
+  {
+    "code": "G05D 23/19",
+    "description": "••caracterizado por la utilización de medios eléctricos [2006.01]"
+  },
+  {
+    "code": "G05D 23/20",
+    "description": "••••con un elemento sensor que presenta una variación de sus propiedades eléctricas o magnéticas con los cambios de temperatura (G05D 23/13 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G05D 23/22",
+    "description": "••••••siendo el elemento sensor un termopar [2006.01]"
+  },
+  {
+    "code": "G05D 23/24",
+    "description": "••••••teniendo el elemento sensor una resistencia que varía con la temperatura, p. ej. una termistancia [2006.01]"
+  },
+  {
+    "code": "G05D 23/26",
+    "description": "••••••teniendo el elemento sensor una permeabilidad que varía con la temperatura [2006.01]"
+  },
+  {
+    "code": "G05D 23/27",
+    "description": "••••con el elemento sensor que responde a la radiación [2006.01]"
+  },
+  {
+    "code": "G05D 23/275",
+    "description": "••••con el elemento sensor que se dilata, se contrae, o funde en función de las variaciones de temperatura [2006.01]"
+  },
+  {
+    "code": "G05D 23/30",
+    "description": "••••Controlador automáticos con un dispositivo de calefacción auxiliar que afecta al elemento sensor, p. ej. para prever las variaciones de temperatura [2006.01]"
+  },
+  {
+    "code": "G05D 23/32",
+    "description": "••••••con posibilidad de regular la acción del dispositivo de calefacción auxiliar, p. ej. en función del tiempo [2006.01]"
+  },
+  {
+    "code": "G05D 24/00",
+    "description": "Control de la viscosidad [2006.01]"
+  },
+  {
+    "code": "G05D 24/02",
+    "description": "••caracterizado por la utilización de medios eléctricos [2006.01]"
+  },
+  {
+    "code": "G05D 25/00",
+    "description": "Control de la luz, p. ej. intensidad, color o fase (dispositivos o sistemas ópticos que utilizan elementos móviles o deformables para controlar la luz independientemente de la fuente G02B 26/00; dispositivos o sistemas cuyo funcionamiento óptico es modificado por el cambio de las propiedades ópticas del medio que constituye estos dispositivos o sistemas para el control de la luz, disposiciones de circuitos especialmente adaptados a estos dispositivos, control de la luz por ondas electromagnéticas, por electrones o por otras partículas elementales G02F 1/00) [2006.01]"
+  },
+  {
+    "code": "G05D 25/02",
+    "description": "••caracterizado por la utilización de medios eléctricos [2006.01]"
+  },
+  {
+    "code": "G05D 27/00",
+    "description": "Control simultáneo de variables que entran en dos o más de los grupos principales G05D 1/00-G05D 25/00 [2006.01]"
+  },
+  {
+    "code": "G05D 27/02",
+    "description": "••caracterizado por la utilización de medios eléctricos [2006.01]"
+  },
+  {
+    "code": "G05D 29/00",
+    "description": "Control de variables eléctricas y no eléctricas simultáneamente [2006.01]"
+  },
+  {
+    "code": "G05D 99/00",
+    "description": "Materia no prevista en otros grupos de esta subclase [2006.01]"
+  }
+]

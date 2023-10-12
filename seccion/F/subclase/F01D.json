@@ -1,0 +1,470 @@
+[
+  {
+    "code": "F01D 1/00",
+    "description": "Máquinas o motores con desplazamiento no positivo, p. ej. turbinas de vapor (con flujos del fluido de trabajo en direcciones axialmente opuestas para compensar el empuje axial F01D 3/02; teniendo un movimiento diferente de simple rotación F01D 23/00; turbinas caracterizadas por su empleo en sistemas especiales de vapor, ciclos o procesos, dispositivos para su regulación F01K) [2006.01]"
+  },
+  {
+    "code": "F01D 1/02",
+    "description": "••con medios estacionarios para el guiado del fluido de trabajo y un rotor con álabes o de estructura análoga (F01D 1/24 tiene prioridad; sin medios para el guiado del fluido de trabajo F01D 1/18) [2006.01]"
+  },
+  {
+    "code": "F01D 1/04",
+    "description": "••••atravesados por el fluido de trabajo principalmente en sentido axial [2006.01]"
+  },
+  {
+    "code": "F01D 1/06",
+    "description": "••••atravesados por el fluido de trabajo principalmente en sentido radial [2006.01]"
+  },
+  {
+    "code": "F01D 1/08",
+    "description": "••••••con flujo centrípeto [2006.01]"
+  },
+  {
+    "code": "F01D 1/10",
+    "description": "••••teniendo dos o más etapas sometidas al flujo de fluido sin diferencia intermedia notable de presión, es decir, con etapas de velocidad (F01D 1/12 tiene preferencia) [2006.01]"
+  },
+  {
+    "code": "F01D 1/12",
+    "description": "••••con acción repetida sobre el mismo rodete de álabes [2006.01]"
+  },
+  {
+    "code": "F01D 1/14",
+    "description": "••••••atravesados por el fluido de trabajo principalmente en sentido radial [2006.01]"
+  },
+  {
+    "code": "F01D 1/16",
+    "description": "••••caracterizados por la presencia de etapas de acción y de etapas de reacción [2006.01]"
+  },
+  {
+    "code": "F01D 1/18",
+    "description": "••sin medios para el guiado del fluido de trabajo (F01D 1/24, F01D 1/32, F01D 1/34 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "F01D 1/20",
+    "description": "••••atravesados por el fluido de trabajo principalmente en sentido axial [2006.01]"
+  },
+  {
+    "code": "F01D 1/22",
+    "description": "••••atravesados por el fluido de trabajo principalmente en sentido radial [2006.01]"
+  },
+  {
+    "code": "F01D 1/24",
+    "description": "••caracterizados por rotores contrarrotatorios sometidos a la misma corriente del fluido de trabajo sin álabes de estator intermedios o estructuras análogas [2006.01]"
+  },
+  {
+    "code": "F01D 1/26",
+    "description": "••••atravesados por el fluido de trabajo principalmente en sentido axial [2006.01]"
+  },
+  {
+    "code": "F01D 1/28",
+    "description": "••••atravesados por el fluido de trabajo principalmente en sentido radial [2006.01]"
+  },
+  {
+    "code": "F01D 1/30",
+    "description": "••caracterizados por tener un rotor único que puede funcionar en cada sentido de rotación, p. ej. por inversión de los álabes (combinaciones de máquinas o motores F01D 13/00) [2006.01]"
+  },
+  {
+    "code": "F01D 1/32",
+    "description": "••con transformación presión-velocidad exclusivamente en el rotor, p. ej. girando el rotor bajo la influencia de chorros producidos en el mismo rotor [2006.01]"
+  },
+  {
+    "code": "F01D 1/34",
+    "description": "••caracterizados por rotor sin álabes, p. ej. con agujeros perforados (F01D 1/32 tiene prioridad; sirenas G10K 7/00) [2006.01]"
+  },
+  {
+    "code": "F01D 1/36",
+    "description": "••••empleando la fricción del fluido [2006.01]"
+  },
+  {
+    "code": "F01D 1/38",
+    "description": "••••del tipo de tornillo [2006.01]"
+  },
+  {
+    "code": "F01D 3/00",
+    "description": "Máquinas o motores con equilibrado de los empujes axiales, realizado por el propio fluido de trabajo [2006.01]"
+  },
+  {
+    "code": "F01D 3/02",
+    "description": "••caracterizados por tener un flujo de fluido en una dirección axial y otro flujo de fluido en el sentido opuesto [2006.01]"
+  },
+  {
+    "code": "F01D 3/04",
+    "description": "••el empuje axial se compensa por el empuje de un pistón equilibrado u órgano análogo [2006.01]"
+  },
+  {
+    "code": "F01D 5/00",
+    "description": "Alabes; Organos de soporte de álabes (alojamiento de los inyectores F01D 9/02); Calentamiento, aislamiento térmico, refrigeración, o dispositivos antivibración en los álabes o en los órganos soporte [2006.01]"
+  },
+  {
+    "code": "F01D 5/02",
+    "description": "••Organos soporte de álabes, p. ej. rotores (rotores sin álabes F01D 1/34; estatores F01D 9/00) [2006.01]"
+  },
+  {
+    "code": "F01D 5/03",
+    "description": "••••Organos anulares de soporte de los álabes, estando los alábes situados sobre la periferia interna del anillo y extendiéndose radialmente hacia el interior, es decir, rotores invertidos [2006.01]"
+  },
+  {
+    "code": "F01D 5/04",
+    "description": "••••para máquinas o motores de flujo radial [2006.01]"
+  },
+  {
+    "code": "F01D 5/06",
+    "description": "••••Rotores con más de una etapa axial, p. ej. del tipo tambor o discos múltiples; Partes constitutivas de los mismos, p. ej. conexiones de los ejes [2006.01]"
+  },
+  {
+    "code": "F01D 5/08",
+    "description": "••••Dispositivos de calefacción, de aislamiento térmico o de refrigeración [2006.01]"
+  },
+  {
+    "code": "F01D 5/10",
+    "description": "••••Dispositivos antivibración [2006.01]"
+  },
+  {
+    "code": "F01D 5/12",
+    "description": "••Alabes (raíces de álabes F01D 5/30; rotores con álabes regulables durante el funcionamiento F01D 7/00; álabes del estator F01D 9/02) [2006.01]"
+  },
+  {
+    "code": "F01D 5/14",
+    "description": "••••Forma o construcción (empleo de materiales específicos, medidas contra la erosión o corrosión F01D 5/28) [2006.01]"
+  },
+  {
+    "code": "F01D 5/16",
+    "description": "••••••para actuar contra las vibraciones de los álabes [2006.01]"
+  },
+  {
+    "code": "F01D 5/18",
+    "description": "••••••Alabes huecos; Dispositivos de calentamiento, aislamiento térmico o enfriamiento de los álabes [2006.01]"
+  },
+  {
+    "code": "F01D 5/20",
+    "description": "••••••Extremidades de los álabes especialmente conformadas para obturar el espacio existente entre ellos y el estator [2006.01]"
+  },
+  {
+    "code": "F01D 5/22",
+    "description": "••••Conexiones de álabe con álabe, p. ej. por llanteado [2006.01]"
+  },
+  {
+    "code": "F01D 5/24",
+    "description": "••••••usando alambre o medio análogo [2006.01]"
+  },
+  {
+    "code": "F01D 5/26",
+    "description": "••••Dispositivos antivibración no restringidos a la forma del álabe o a su construcción o las conexiones álabe-álabe [2006.01]"
+  },
+  {
+    "code": "F01D 5/28",
+    "description": "••••Empleo de materiales específicos; Medidas contra la erosión o la corrosión [2006.01]"
+  },
+  {
+    "code": "F01D 5/30",
+    "description": "••Fijación de los álabes del rotor; Raíces de álabes [2006.01]"
+  },
+  {
+    "code": "F01D 5/32",
+    "description": "••••Cierre, p. ej., mediante álabes terminales de cierre o mediante clavijas [2006.01]"
+  },
+  {
+    "code": "F01D 5/34",
+    "description": "••Conjuntos rotor-álabes monobloques [2006.01]"
+  },
+  {
+    "code": "F01D 7/00",
+    "description": "Rotores con álabes regulables durante el funcionamiento; Control de los mismos (para invertirlos F01D 1/30) [2006.01]"
+  },
+  {
+    "code": "F01D 7/02",
+    "description": "••teniendo una regulación sensible a la velocidad [2006.01]"
+  },
+  {
+    "code": "F01D 9/00",
+    "description": "Estatores (aspectos distintos del de guiado del fluido de la carcasa, reglaje, control o seguridad, ver los grupos apropiados) [2006.01]"
+  },
+  {
+    "code": "F01D 9/02",
+    "description": "••Inyectores; Alojamiento de los inyectores; Alabes de estator; Toberas guía [2006.01]"
+  },
+  {
+    "code": "F01D 9/04",
+    "description": "••••formando un anillo o sector [2006.01]"
+  },
+  {
+    "code": "F01D 9/06",
+    "description": "••Conductos de admisión de fluido para los inyectores u órganos análogos [2006.01]"
+  },
+  {
+    "code": "F01D 11/00",
+    "description": "Prevención o reducción de las pérdidas internas del fluido de trabajo, p. ej. entre etapas (juntas de estanqueidad en general F16J) [2006.01]"
+  },
+  {
+    "code": "F01D 11/02",
+    "description": "••por juntas sin contacto, p. ej. del tipo de laberinto (para la obturación del espacio entre los extremos de los álabes del rotor y estator F01D 11/08) [2006.01]"
+  },
+  {
+    "code": "F01D 11/04",
+    "description": "••••utilizando un fluido de obturación, p. ej. vapor [2006.01]"
+  },
+  {
+    "code": "F01D 11/06",
+    "description": "••••••Su control [2006.01]"
+  },
+  {
+    "code": "F01D 11/08",
+    "description": "••para obturar el espacio entre los extremos de los álabes del rotor y estator (extremidades de álabes especialmente conformados para este objetivo F01D 5/20) [2006.01]"
+  },
+  {
+    "code": "F01D 11/10",
+    "description": "••••utilizando un fluido de obturación, p. ej. vapor [2006.01]"
+  },
+  {
+    "code": "F01D 11/12",
+    "description": "••••utilizando un elemento de fricción alargado, p. ej. erosionable, deformable o parcialmente elástico [2006.01]"
+  },
+  {
+    "code": "F01D 11/14",
+    "description": "••••Ajuste o regulación del huelgo radial, es decir, de la distancia entre las extremidades de los álabes del rotor y el cuerpo del estator (rotores con álabes regulables durante el funcionamiento F01D 7/00) [2006.01]"
+  },
+  {
+    "code": "F01D 11/16",
+    "description": "••••••por medios autoajustables (F01D 11/12 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F01D 11/18",
+    "description": "••••••••utilizando los elementos del estator o del rotor bajo un comportamiento térmico determinado, p. ej. termoaislamiento selectivo, inercia térmica, dilatación diferencial [2006.01]"
+  },
+  {
+    "code": "F01D 11/20",
+    "description": "••••••Ajuste durante el funcionamiento del huelgo radial [2006.01]"
+  },
+  {
+    "code": "F01D 11/22",
+    "description": "••••••••por accionamiento mecánico de los elementos del estator o rotor, p. ej. por desplazamiento de los elementos de cobertura con respecto al rotor [2006.01]"
+  },
+  {
+    "code": "F01D 11/24",
+    "description": "••••••••por enfriamiento o calentamiento selectivo de los elementos del estator o rotor [2006.01]"
+  },
+  {
+    "code": "F01D 13/00",
+    "description": "Combinaciones de dos o más máquinas o motores (F01D 15/00 tiene prioridad; combinaciones de dos o más bombas F04; transmisión mediante fluido F16H; regulación o control, ver los grupos apropiados) [2006.01]"
+  },
+  {
+    "code": "F01D 13/02",
+    "description": "••Interconexión entre máquinas o motores mediante fluido de trabajo común [2006.01]"
+  },
+  {
+    "code": "F01D 15/00",
+    "description": "Adaptaciones de las máquinas o motores para usos particulares; Combinación de motores con los dispositivos que ellos accionan (regulación o control, véanse los grupos apropiados; si los aspectos predominantes son relativos a los dispositivos accionados, véanse las clases correspondientes a estos dispositivos) [2006.01]"
+  },
+  {
+    "code": "F01D 15/02",
+    "description": "••Adaptaciones para vehículos de tracción, p. ej. locomotoras (adaptaciones en los vehículos con esta finalidad, véanse las clases para vehículos) [2006.01]"
+  },
+  {
+    "code": "F01D 15/04",
+    "description": "••••siendo los vehículos buques [2006.01]"
+  },
+  {
+    "code": "F01D 15/06",
+    "description": "••Adaptaciones para accionar herramientas manuales o combinaciones de ellas o similares [2006.01]"
+  },
+  {
+    "code": "F01D 15/08",
+    "description": "••Adaptaciones para accionar o combinaciones con bombas [2006.01]"
+  },
+  {
+    "code": "F01D 15/10",
+    "description": "••Adaptaciones para accionar o combinaciones con generadores eléctricos [2006.01]"
+  },
+  {
+    "code": "F01D 15/12",
+    "description": "••Combinaciones con transmisiones mecánicas (accionamiento para varias máquinas motrices F01D 13/00) [2006.01]"
+  },
+  {
+    "code": "F01D 17/00",
+    "description": "Regulación o control mediante variación del flujo (para inversión del sentido de marcha F01D 1/30; por variación de la posición de los álabes del rotor F01D 7/00; especialmente para el arranque F01D 19/00; para la parada F01D 21/00; regulación o control en general G05) [2006.01]"
+  },
+  {
+    "code": "F01D 17/02",
+    "description": "••Disposición de los elementos sensibles (elementos sensibles en sí, véanse las subclases apropiadas) [2006.01]"
+  },
+  {
+    "code": "F01D 17/04",
+    "description": "••••sensibles a la carga [2006.01]"
+  },
+  {
+    "code": "F01D 17/06",
+    "description": "••••sensibles a la velocidad [2006.01]"
+  },
+  {
+    "code": "F01D 17/08",
+    "description": "••••sensibles a las condiciones del fluido de trabajo, p. ej. a la presión [2006.01]"
+  },
+  {
+    "code": "F01D 17/10",
+    "description": "••Accionadores finales (válvulas en general F16K) [2006.01]"
+  },
+  {
+    "code": "F01D 17/12",
+    "description": "••••colocados sobre partes del estator [2006.01]"
+  },
+  {
+    "code": "F01D 17/14",
+    "description": "••••••variando el área efectiva de la sección tranversal de los inyectores o de las toberas-guía [2006.01]"
+  },
+  {
+    "code": "F01D 17/16",
+    "description": "••••••••obturando los inyectores [2006.01]"
+  },
+  {
+    "code": "F01D 17/18",
+    "description": "••••••variando el número de inyectores o toberas-guía en funcionamiento [2006.01]"
+  },
+  {
+    "code": "F01D 17/20",
+    "description": "••Dispositivos que accionan los elementos sensibles, los accionados finales o los medios de transmisión entre ellos, p. ej. ayudados por medios mecánicos o de potencia asistida (los elementos sensibles solos F01D 17/02; accionadores finales F01D 17/10) [2006.01]"
+  },
+  {
+    "code": "F01D 17/22",
+    "description": "••••siendo el funcionamiento o la potencia asistida esencialmente no mecánica [2006.01]"
+  },
+  {
+    "code": "F01D 17/24",
+    "description": "••••••eléctrica [2006.01]"
+  },
+  {
+    "code": "F01D 17/26",
+    "description": "••••••mediante fluido, p. ej. hidráulica [2006.01]"
+  },
+  {
+    "code": "F01D 19/00",
+    "description": "Arranque de las máquinas o motores; Dispositivos de regulación, control o de seguridad en relación con los órganos de arranque (precalentamiento antes del arranque F01D 25/10; virador o dispositivo de marcha lenta F01D 25/34) [2006.01]"
+  },
+  {
+    "code": "F01D 19/02",
+    "description": "••dependiendo de la temperatura de los elementos constitutivos, p. ej. del cárter de la turbina [2006.01]"
+  },
+  {
+    "code": "F01D 21/00",
+    "description": "Parada de las máquinas o motores, p. ej. en caso de emergencia; Dispositivos de regulación, control, o de seguridad no previstos en otro lugar [2006.01]"
+  },
+  {
+    "code": "F01D 21/02",
+    "description": "••Parada provocada por una sobrevelocidad [2006.01]"
+  },
+  {
+    "code": "F01D 21/04",
+    "description": "••sensibles a una posición incorrecta del rotor con relación al estator, p. ej. indicando esa posición [2006.01]"
+  },
+  {
+    "code": "F01D 21/06",
+    "description": "••••Parada [2006.01]"
+  },
+  {
+    "code": "F01D 21/08",
+    "description": "••••Reposición del punto de partida [2006.01]"
+  },
+  {
+    "code": "F01D 21/10",
+    "description": "••sensibles a la presencia de depósitos indeseables sobre los álabes, en las conducciones del fluido de trabajo o similares [2006.01]"
+  },
+  {
+    "code": "F01D 21/12",
+    "description": "••sensibles a la temperatura [2006.01]"
+  },
+  {
+    "code": "F01D 21/14",
+    "description": "••sensibles a otras condiciones específicas [2006.01]"
+  },
+  {
+    "code": "F01D 21/16",
+    "description": "••Mecanismos de desenganche [2006.01]"
+  },
+  {
+    "code": "F01D 21/18",
+    "description": "••••utilizando dispositivos hidráulicos [2006.01]"
+  },
+  {
+    "code": "F01D 21/20",
+    "description": "••Verificación del funcionamiento de los dispositivos de parada [2006.01]"
+  },
+  {
+    "code": "F01D 23/00",
+    "description": "Máquinas o motores con desplazamiento no positivo con otro movimiento que el de simple rotación, p. ej. del tipo de cadena sinfín [2006.01]"
+  },
+  {
+    "code": "F01D 25/00",
+    "description": "Partes constitutivas, detalles o accesorios no cubiertos en los otros grupos o de un interés no tratado en los mismos [2006.01]"
+  },
+  {
+    "code": "F01D 25/02",
+    "description": "••Dispositivos contra la formación de hielo para motores en los cuales se producen fenómenos de congelación [2006.01]"
+  },
+  {
+    "code": "F01D 25/04",
+    "description": "••Sistemas antivibratorios [2006.01]"
+  },
+  {
+    "code": "F01D 25/06",
+    "description": "••••para impedir la vibración de los álabes (dispositivos colocados en los álabes o en los órganos de soporte de los álabes F01D 5/00) [2006.01]"
+  },
+  {
+    "code": "F01D 25/08",
+    "description": "••Refrigeración (de las máquinas o motores en general F01P); Calentamiento; Aislamiento térmico (de los órganos de soportes de los álabes, de los álabes F01D 5/00) [2006.01]"
+  },
+  {
+    "code": "F01D 25/10",
+    "description": "••••Calentamiento, p. ej. precalentamiento antes del arranque [2006.01]"
+  },
+  {
+    "code": "F01D 25/12",
+    "description": "••••Refrigeración [2006.01]"
+  },
+  {
+    "code": "F01D 25/14",
+    "description": "••••Carcasas modificadas con dichas finalidades (carcasas dobles F01D 25/26) [2006.01]"
+  },
+  {
+    "code": "F01D 25/16",
+    "description": "••Disposición de cojinetes; Soporte o montaje de cojinetes en las carcasas (cojinetes en sí\n\t\t\t\t\t\t\t\t\t\tF16C) [2006.01]"
+  },
+  {
+    "code": "F01D 25/18",
+    "description": "••Sistemas de lubrificación (de las máquinas o motores en general F01M) [2006.01]"
+  },
+  {
+    "code": "F01D 25/20",
+    "description": "••••utilizando bombas de lubrificación [2006.01]"
+  },
+  {
+    "code": "F01D 25/22",
+    "description": "••••utilizando el fluido de trabajo u otro fluido gaseoso diferente como lubrificante [2006.01]"
+  },
+  {
+    "code": "F01D 25/24",
+    "description": "••Carcasas (modificadas para el calentamiento o la refrigeración F01D 25/14); Elementos de la carcasa, p. ej. diafragmas, fijación de las carcasas (carcasas para máquinas o motores rotativos en general F16M) [2006.01]"
+  },
+  {
+    "code": "F01D 25/26",
+    "description": "••••Carcasas dobles; Medidas contra las tensiones térmicas en las carcasas [2006.01]"
+  },
+  {
+    "code": "F01D 25/28",
+    "description": "••Disposiciones para el soporte o el montaje, p. ej. para las carcasas de las turbinas [2006.01]"
+  },
+  {
+    "code": "F01D 25/30",
+    "description": "••Amortiguadores de escape, cámaras o partes análogas [2006.01]"
+  },
+  {
+    "code": "F01D 25/32",
+    "description": "••Recogida del agua de condensación; Drenaje [2006.01]"
+  },
+  {
+    "code": "F01D 25/34",
+    "description": "••Virador o dispositivo de marcha lenta [2006.01]"
+  },
+  {
+    "code": "F01D 25/36",
+    "description": "••••utilizando motores eléctricos [2006.01]"
+  }
+]

@@ -1,0 +1,262 @@
+[
+  {
+    "code": "G06C 1/00",
+    "description": "Instrumentos de cálculo, en los que los elementos de cálculo constituyen por lo menos una parte del resultado mostrado y son accionados directamente a mano, p. ej. ábacos o dispositivos de bolsillo para sumar [2006.01]"
+  },
+  {
+    "code": "G06C 3/00",
+    "description": "Disposiciones para lectura de tablas, p. ej. tablas de menstruación [2006.01]"
+  },
+  {
+    "code": "G06C 5/00",
+    "description": "Elementos no funcionales [2006.01]"
+  },
+  {
+    "code": "G06C 5/02",
+    "description": "••Carcasas; Bastidores [2006.01]"
+  },
+  {
+    "code": "G06C 7/00",
+    "description": "Mecanismos de entrada [2006.01]"
+  },
+  {
+    "code": "G06C 7/02",
+    "description": "••Teclados [2006.01]"
+  },
+  {
+    "code": "G06C 7/04",
+    "description": "••••Dispositivos de enclavamiento, p. ej. entre las teclas [2006.01]"
+  },
+  {
+    "code": "G06C 7/06",
+    "description": "••••con un juego de teclas para cada denominación [2006.01]"
+  },
+  {
+    "code": "G06C 7/08",
+    "description": "••••con un juego de teclas para todas las denominación, p. ej. teclado de diez teclas [2006.01]"
+  },
+  {
+    "code": "G06C 7/09",
+    "description": "••Transferencia de datos desde los soportes de registro a los mecanismos de cálculo [2006.01]"
+  },
+  {
+    "code": "G06C 7/10",
+    "description": "••Mecanismos de transferencia, p. ej. transferencia de una cifra desde un teclado de diez teclas al carro de dientes [2006.01]"
+  },
+  {
+    "code": "G06C 7/12",
+    "description": "••Dispositivos de puesta a cero, p. ej. para el teclado [2006.01]"
+  },
+  {
+    "code": "G06C 9/00",
+    "description": "Mecanismos de transferencias, p. ej. transferencia de una de las cifras desde un mecanismo de entrada a un mecanismo de cálculo (G06C 7/10, G06C 11/00, G06C 15/00 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G06C 9/02",
+    "description": "••Dispositivos para la transferencia hacia atrás, p. ej. para trasladar hacia atrás en el mecanismo de selección un valor acumulado en un registro [2006.01]"
+  },
+  {
+    "code": "G06C 11/00",
+    "description": "Mecanismos de salida [2006.01]"
+  },
+  {
+    "code": "G06C 11/02",
+    "description": "••con indicación visual, p. ej. tambor-contador [2006.01]"
+  },
+  {
+    "code": "G06C 11/04",
+    "description": "••con mecanismos de impresión, p. ej. de impresión carácter por carácter o línea por línea [2006.01]"
+  },
+  {
+    "code": "G06C 11/06",
+    "description": "••••con martillos de caracteres [2006.01]"
+  },
+  {
+    "code": "G06C 11/08",
+    "description": "••con un mecanismo perforador [2006.01]"
+  },
+  {
+    "code": "G06C 11/10",
+    "description": "••Dispositivos para la alimentación por hojas separadas o por rodillo o banda continuos, p. ej. dispositivos de expulsión; Dispositivos de espaciado de líneas [2006.01]"
+  },
+  {
+    "code": "G06C 11/12",
+    "description": "••••para la alimentación en banda [2006.01]"
+  },
+  {
+    "code": "G06C 13/00",
+    "description": "Mecanismos de almacenamiento (contadores mecánicos con entrada solamente para el rango más bajo G06M 1/04) [2006.01]"
+  },
+  {
+    "code": "G06C 13/02",
+    "description": "••Almacenamiento de operandos, p. ej. carros de dientes (mecanismos de entrada G06C 7/00) [2006.01]"
+  },
+  {
+    "code": "G06C 13/04",
+    "description": "••Almacenamiento intermedio de impresión [2006.01]"
+  },
+  {
+    "code": "G06C 15/00",
+    "description": "Mecanismos de cálculo; Dispositivos de accionamiento para éstos [2006.01]"
+  },
+  {
+    "code": "G06C 15/02",
+    "description": "••que funcionan en numeración binaria [2006.01]"
+  },
+  {
+    "code": "G06C 15/04",
+    "description": "••Dispositivos que efectúan la adición o la sustracción (G06C 15/08 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G06C 15/06",
+    "description": "••••con totalización única; que dan totales parciales [2006.01]"
+  },
+  {
+    "code": "G06C 15/08",
+    "description": "••Dispositivos que efectúan la multiplicación o la división; Dispositivos para calcular el exponente o la raíz [2006.01]"
+  },
+  {
+    "code": "G06C 15/10",
+    "description": "••••que tienen varios órdenes de unidades de teclas que actúan directamente sobre el mecanismo de cálculo [2006.01]"
+  },
+  {
+    "code": "G06C 15/12",
+    "description": "••••que tienen un carro dentado [2006.01]"
+  },
+  {
+    "code": "G06C 15/14",
+    "description": "••••que tienen ruedas dentadas regulables, p. ej. del tipo Odhner [2006.01]"
+  },
+  {
+    "code": "G06C 15/16",
+    "description": "••••que tienen tambores de dientes escalonados, p. ej. del tipo Thomas [2006.01]"
+  },
+  {
+    "code": "G06C 15/18",
+    "description": "••••que tienen una tabla de multiplicación que forma productos parciales [2006.01]"
+  },
+  {
+    "code": "G06C 15/20",
+    "description": "••••especialmente adaptados a la multiplicación simplificada o a la división simplificada [2006.01]"
+  },
+  {
+    "code": "G06C 15/22",
+    "description": "••Disposiciones para varios dispositivos de cálculo; Disposiciones para la subdivisión en varios dispositivos de cálculo, p. ej. para fraccionar [2006.01]"
+  },
+  {
+    "code": "G06C 15/24",
+    "description": "••Dispositivos para el cómputo de ciclos de operación durante la división o la multiplicación [2006.01]"
+  },
+  {
+    "code": "G06C 15/26",
+    "description": "••Dispositivos para la transferencia entre órdenes de unidades sucesivas, p. ej. dispositivo de transferencia de decena [2006.01]"
+  },
+  {
+    "code": "G06C 15/28",
+    "description": "••••en el que la transferencia se efectúa en una operación [2006.01]"
+  },
+  {
+    "code": "G06C 15/30",
+    "description": "••••en el que la transferencia se efectúa en dos operaciones [2006.01]"
+  },
+  {
+    "code": "G06C 15/32",
+    "description": "••••••con disposiciones para la transferencia simultánea entre los rangos de unidad [2006.01]"
+  },
+  {
+    "code": "G06C 15/34",
+    "description": "••••en el que la transferencia se efectúa por engranaje planetario, es decir, del tipo oruga [2006.01]"
+  },
+  {
+    "code": "G06C 15/36",
+    "description": "••••••con medios de alineación [2006.01]"
+  },
+  {
+    "code": "G06C 15/38",
+    "description": "••••para mecanismos de cálculo de ruedas dentadas [2006.01]"
+  },
+  {
+    "code": "G06C 15/40",
+    "description": "••••para mecanismos de cálculo de tambor de dientes escalonados [2006.01]"
+  },
+  {
+    "code": "G06C 15/42",
+    "description": "••Dispositivos para puesta a cero u otro dato [2006.01]"
+  },
+  {
+    "code": "G06C 15/44",
+    "description": "••Dispositivos para comparar valores numéricos, p. ej. verificación del cero [2006.01]"
+  },
+  {
+    "code": "G06C 15/46",
+    "description": "••Disposiciones para redondear [2006.01]"
+  },
+  {
+    "code": "G06C 15/48",
+    "description": "••Disposiciones para la selección de un registro contador entre varios (contadores por categorías de artículos G06C 25/02) [2006.01]"
+  },
+  {
+    "code": "G06C 17/00",
+    "description": "Mecanismos para pasar de un sistema de notación a otro, p. ej. conversión de bases [2006.01]"
+  },
+  {
+    "code": "G06C 19/00",
+    "description": "Mecanismos de coma decimal; Mecanismos análogos para notaciones no decimales [2006.01]"
+  },
+  {
+    "code": "G06C 19/02",
+    "description": "••Dispositivos de indicación de la coma [2006.01]"
+  },
+  {
+    "code": "G06C 19/04",
+    "description": "••Dispositivos de impresión de la coma [2006.01]"
+  },
+  {
+    "code": "G06C 21/00",
+    "description": "Mecanismos de programación para la determinación de las fases de cálculo que debe ejecutar la máquina de calcular, p. ej. cuando una tecla o ciertas teclas son pulsadas (mecanismos que permiten solamente efectuar la multiplicación por adición repetida G06C 15/08) [2006.01]"
+  },
+  {
+    "code": "G06C 21/02",
+    "description": "••en los que el funcionamiento del mecanismo es determinado por la posición del carro [2006.01]"
+  },
+  {
+    "code": "G06C 21/04",
+    "description": "••Disposiciones condicionales para controlar las funciones de operaciones subsiguientes, p. ej. disposiciones de control accionadas por una tecla de función y que depende de la condición del registro (disposiciones para la selección de un registro contador entre varios G06C 15/48) [2006.01]"
+  },
+  {
+    "code": "G06C 23/00",
+    "description": "Mecanismos de accionamiento para elementos funcionales [2006.01]"
+  },
+  {
+    "code": "G06C 23/02",
+    "description": "••del eje principal [2006.01]"
+  },
+  {
+    "code": "G06C 23/04",
+    "description": "••del carro dentado, p. ej. para un movimiento por avances sucesivos [2006.01]"
+  },
+  {
+    "code": "G06C 23/06",
+    "description": "••de dispositivos de tabulación, p. ej. del salto del carro [2006.01]"
+  },
+  {
+    "code": "G06C 23/08",
+    "description": "••Accionamiento hidráulico o neumático [2006.01]"
+  },
+  {
+    "code": "G06C 25/00",
+    "description": "Disposiciones funcionales auxiliares, p. ej. enclavamientos (cierres en los teclados G06C 7/04) [2006.01]"
+  },
+  {
+    "code": "G06C 25/02",
+    "description": "••Dispositivos para contar por categorías de artículos (dispositivos para el cómputo de ciclos de operación en la división o multiplicación G06C 15/24) [2006.01]"
+  },
+  {
+    "code": "G06C 27/00",
+    "description": "Máquinas de calcular caracterizadas por el enlace estructural de sus unidades funcionales, p. ej. máquinas facturadoras [2006.01]"
+  },
+  {
+    "code": "G06C 29/00",
+    "description": "Combinaciones de máquinas de calcular con otras máquinas, p. ej. con una máquina de escribir, con un aparato de cambio de moneda [2006.01]"
+  }
+]

@@ -1,0 +1,2050 @@
+[
+  {
+    "code": "F16H 1/00",
+    "description": "Transmisiones de engranajes para transmitir un movimiento rotativo (particulares para transmitir un movimiento rotativo con relación de velocidad variable, o para invertir el movimiento rotativo F16H 3/00) [2006.01]"
+  },
+  {
+    "code": "F16H 1/02",
+    "description": "••sin engranajes de movimiento orbital [2006.01]"
+  },
+  {
+    "code": "F16H 1/04",
+    "description": "••••implicando solamente dos órganos engranados [2006.01]"
+  },
+  {
+    "code": "F16H 1/06",
+    "description": "••••••cuyos ejes son paralelos [2006.01]"
+  },
+  {
+    "code": "F16H 1/08",
+    "description": "••••••••teniendo los órganos dientes en hélice, ángulo o similares [2006.01]"
+  },
+  {
+    "code": "F16H 1/10",
+    "description": "••••••••uno de los órganos estando dentado interiormente [2006.01]"
+  },
+  {
+    "code": "F16H 1/12",
+    "description": "••••••cuyos ejes no son paralelos [2006.01]"
+  },
+  {
+    "code": "F16H 1/14",
+    "description": "••••••••implicando solamente engranajes cónicos [2006.01]"
+  },
+  {
+    "code": "F16H 1/16",
+    "description": "••••••••implicando un tornillo sin fin y una rueda de tornillo sin fin [2006.01]"
+  },
+  {
+    "code": "F16H 1/18",
+    "description": "••••••••teniendo los órganos dientes en hélice, ángulo o similares (F16H 1/14 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F16H 1/20",
+    "description": "••••implicando más de dos órganos engranados [2006.01]"
+  },
+  {
+    "code": "F16H 1/22",
+    "description": "••••••con varios ejes de accionamiento o accionados; con dispositivos para repartir el par entre dos o varios ejes intermedios [2006.01]"
+  },
+  {
+    "code": "F16H 1/24",
+    "description": "••••implicando engranajes cuyos elementos engranados son esencialmente diferentes de los de dientes de envolvente o cicloidales (F16H 1/16 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F16H 1/26",
+    "description": "••••Medios particulares para compensar el defecto del alineamiento de los ejes [2006.01]"
+  },
+  {
+    "code": "F16H 1/28",
+    "description": "••con engranajes con movimiento orbital [2006.01]"
+  },
+  {
+    "code": "F16H 1/30",
+    "description": "••••en los cuales un engranaje orbital tiene un eje que encuentran al principal de la transmisión y posee dientes helicoidales o bien es el mismo tornillo sin fin [2006.01]"
+  },
+  {
+    "code": "F16H 1/32",
+    "description": "••••en los cuales el eje central de la transmisión está situado en el interior de la periferia de un engranaje orbital [2006.01]"
+  },
+  {
+    "code": "F16H 1/34",
+    "description": "••••implicando engranajes que tienen principalmente elementos engranantes diferentes de los dientes de envolvente o cicloidales (en las transmisiones de tornillo sin fin F16H 1/30) [2006.01]"
+  },
+  {
+    "code": "F16H 1/36",
+    "description": "••••con dos engranajes centrales acoplados por medio de engranajes orbitales [2006.01]"
+  },
+  {
+    "code": "F16H 1/46",
+    "description": "••••Sistemas consistentes en varios trenes de engranajes, cada uno de los cuales implica engranajes orbitales [2006.01]"
+  },
+  {
+    "code": "F16H 1/48",
+    "description": "••••Medios particulares para compensar el efecto de alineamiento de los ejes [2006.01]"
+  },
+  {
+    "code": "F16H 3/00",
+    "description": "Transmisiones de engranajes para transmitir un movimiento rotativo con una relación de velocidad variable o para invertir el movimiento rotativo (mecanismos, cambio de velocidad o de insersión F16H 59/00-F16H 63/00) [2006.01]"
+  },
+  {
+    "code": "F16H 3/02",
+    "description": "••sin engranajes de movimiento orbital [2006.01]"
+  },
+  {
+    "code": "F16H 3/04",
+    "description": "••••dentados interiormente [2006.01]"
+  },
+  {
+    "code": "F16H 3/06",
+    "description": "••••con tornillos sin fin y rueda de tornillo sin fin o bien con engranajes que tienen esencialmente una dentadura helicoidal o de ángulo [2006.01]"
+  },
+  {
+    "code": "F16H 3/08",
+    "description": "••••exclusiva o principalmente con engranajes constantemente accionados, pudiendo estar liberados de sus ejes [2006.01]"
+  },
+  {
+    "code": "F16H 3/083",
+    "description": "••••••con elementos de embrague de acción radial y control axial, p. ej. chavetas deslizantes [2006.01]"
+  },
+  {
+    "code": "F16H 3/085",
+    "description": "••••••con varios ejes de salida [2006.01]"
+  },
+  {
+    "code": "F16H 3/087",
+    "description": "••••••caracterizados por la disposición de los engranajes (F16H 3/083, F16H 3/085 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "F16H 3/089",
+    "description": "••••••••estando todos los piñones de engranaje soportados por dos ejes paralelos, el eje de entrada y el eje de salida, sin que haya eje intermedio [2006.01]"
+  },
+  {
+    "code": "F16H 3/091",
+    "description": "••••••••con un solo eje intermedio [2006.01]"
+  },
+  {
+    "code": "F16H 3/093",
+    "description": "••••••••con varios ejes intermedios [2006.01]"
+  },
+  {
+    "code": "F16H 3/095",
+    "description": "••••••••••con medios para asegurar un reparto uniforme del par entre los ejes intermedios [2006.01]"
+  },
+  {
+    "code": "F16H 3/097",
+    "description": "••••••••••estando los ejes de entrada y de salida alineados según el mismo eje [2006.01]"
+  },
+  {
+    "code": "F16H 3/10",
+    "description": "••••••uno de cuyos embragues unidireccionales constituye la particularidad esencial [2006.01]"
+  },
+  {
+    "code": "F16H 3/12",
+    "description": "••••••con medios de sincronización no incorporados en los embragues [2006.01]"
+  },
+  {
+    "code": "F16H 3/14",
+    "description": "••••••Transmisiones para inversión solamente [2006.01]"
+  },
+  {
+    "code": "F16H 3/16",
+    "description": "••••principalmente mediante engranajes que pueden ser desacoplados y con engranajes constantemente accionados pudiendo ser liberados de sus ejes [2006.01]"
+  },
+  {
+    "code": "F16H 3/18",
+    "description": "••••••Transmisiones para inversión solamente [2006.01]"
+  },
+  {
+    "code": "F16H 3/20",
+    "description": "••••utilizando exclusivamente o principalmente engranajes que pueden ser desengranados [2006.01]"
+  },
+  {
+    "code": "F16H 3/22",
+    "description": "••••••por un desplazamiento según el eje solamente [2006.01]"
+  },
+  {
+    "code": "F16H 3/24",
+    "description": "••••••••y cuyos ejes accionantes y accionados son coaxiales [2006.01]"
+  },
+  {
+    "code": "F16H 3/26",
+    "description": "••••••••••implicando dos o varios ejes suplementarios [2006.01]"
+  },
+  {
+    "code": "F16H 3/28",
+    "description": "••••••••••••siendo uno de los ejes suplementarios coaxial con los ejes principales [2006.01]"
+  },
+  {
+    "code": "F16H 3/30",
+    "description": "••••••••y cuyos ejes accionantes y accionados no son coaxiales [2006.01]"
+  },
+  {
+    "code": "F16H 3/32",
+    "description": "••••••••••implicando un eje suplementario [2006.01]"
+  },
+  {
+    "code": "F16H 3/34",
+    "description": "••••••por un desplazamiento diferente al del eje únicamente [2006.01]"
+  },
+  {
+    "code": "F16H 3/36",
+    "description": "••••••en los cuales un solo engranaje puede engranarse con algunos de los juegos de engranajes coaxiales de diferentes diámetros [2006.01]"
+  },
+  {
+    "code": "F16H 3/38",
+    "description": "••••••con un dispositivo de engrane sincronizado [2006.01]"
+  },
+  {
+    "code": "F16H 3/40",
+    "description": "••••••Transmisiones para inversión solamente [2006.01]"
+  },
+  {
+    "code": "F16H 3/42",
+    "description": "••••cuyos engranajes tienen dientes de forma o disposición múltiples, p. ej. variables casi hasta el infinito [2006.01]"
+  },
+  {
+    "code": "F16H 3/44",
+    "description": "••utilizando engranajes con un movimiento orbital [2006.01]"
+  },
+  {
+    "code": "F16H 3/46",
+    "description": "••••Transmisiones que tienen solamente dos engranajes centrales unidos por engranajes con movimiento orbital (F16H 3/68-F16H 3/78 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "F16H 3/48",
+    "description": "••••••con engranajes orbitales únicos o pares de engranajes orbitales rígidamente unidos [2006.01]"
+  },
+  {
+    "code": "F16H 3/50",
+    "description": "••••••••comprendiendo engranajes orbitales cónicos [2006.01]"
+  },
+  {
+    "code": "F16H 3/52",
+    "description": "••••••••comprendiendo engranajes orbitales rectos [2006.01]"
+  },
+  {
+    "code": "F16H 3/54",
+    "description": "••••••••••siendo uno de los engranajes centrales dentado interiormente y el otro dentado exteriormente [2006.01]"
+  },
+  {
+    "code": "F16H 3/56",
+    "description": "••••••••••siendo los engranajes centrales dos planetarios [2006.01]"
+  },
+  {
+    "code": "F16H 3/58",
+    "description": "••••••con juegos de engranajes orbitales, cada uno de los juegos consistentes en dos o varios engranajes orbitales que se engranan mutuamente [2006.01]"
+  },
+  {
+    "code": "F16H 3/60",
+    "description": "••••••Transmisiones para inversión solamente [2006.01]"
+  },
+  {
+    "code": "F16H 3/62",
+    "description": "••••Transmisiones que tienen al menos tres engranajes centrales (F16H 3/68-F16H 3/78 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "F16H 3/64",
+    "description": "••••••compuestas de un cierto número de trenes de engranajes, atravesando el accionamiento siempre a todos los trenes y no teniendo cada tren más que una conexión para accionar otro tren [2006.01]"
+  },
+  {
+    "code": "F16H 3/66",
+    "description": "••••••compuestos de un cierto número de trenes de engranajes sin que el accionamiento pase de un tren al otro [2006.01]"
+  },
+  {
+    "code": "F16H 3/68",
+    "description": "••••en las cuales un engranaje orbital tiene un eje que cruza al eje principal de transmisión y posee dientes helicoidales o bien es el mismo un tornillo sin fin [2006.01]"
+  },
+  {
+    "code": "F16H 3/70",
+    "description": "••••en las cuales el eje central de la transmisión está situado en el interior de la periferia de un engranaje orbital [2006.01]"
+  },
+  {
+    "code": "F16H 3/72",
+    "description": "••••con un accionamiento secundario, p. ej. un motor regulador para hacer variar la velocidad de una manera continua [2006.01]"
+  },
+  {
+    "code": "F16H 3/74",
+    "description": "••••Conjuntos que no utilizan órganos de cambio de velocidad u órganos de regulación, p. ej. con relación de velocidad determinada por el libre juego del rozamiento de otras fuerzas [2006.01]"
+  },
+  {
+    "code": "F16H 3/76",
+    "description": "••••con un engranaje orbital que tenga dientes de forma o disposición que permitan realizar relaciones de velocidad múltiples, p. ej. variables casi hasta el infinito [2006.01]"
+  },
+  {
+    "code": "F16H 3/78",
+    "description": "••••Adaptaciones particulares de los mecanismos de sincronización de estas transmisiones [2006.01]"
+  },
+  {
+    "code": "F16H 7/00",
+    "description": "Transmisiones para transmitir un movimiento por órganos flexibles sin fin (particulares para transmitir un movimiento rotativo con relación de velocidad variable o para invertir un movimiento rotativo F16H 9/00) [2006.01]"
+  },
+  {
+    "code": "F16H 7/02",
+    "description": "••por correas; por correas trapezoidales [2006.01]"
+  },
+  {
+    "code": "F16H 7/04",
+    "description": "••por cuerdas o cables [2006.01]"
+  },
+  {
+    "code": "F16H 7/06",
+    "description": "••por cadenas [2006.01]"
+  },
+  {
+    "code": "F16H 7/08",
+    "description": "••Medios para hacer variar la tensión de las correas, de las cuerdas o de las cadenas (poleas regulables F16H 55/52) [2006.01]"
+  },
+  {
+    "code": "F16H 7/10",
+    "description": "••••por el reglaje de la posición del eje de una polea [2006.01]"
+  },
+  {
+    "code": "F16H 7/12",
+    "description": "••••••de una polea loca [2006.01]"
+  },
+  {
+    "code": "F16H 7/14",
+    "description": "••••••de una polea motriz o de una polea propulsada [2006.01]"
+  },
+  {
+    "code": "F16H 7/16",
+    "description": "••••••••sin reglaje de la posición del eje de accionamiento o del eje accionado [2006.01]"
+  },
+  {
+    "code": "F16H 7/18",
+    "description": "••Medios de guía o de soporte de las correas, cuerdas, cables o cadenas (estructura de las poleas F16H 55/36) [2006.01]"
+  },
+  {
+    "code": "F16H 7/20",
+    "description": "••••Montajes para rodillos o poleas [2006.01]"
+  },
+  {
+    "code": "F16H 7/22",
+    "description": "••Dispositivos de arrastre y apoyo para correas, cables, cuerdas o cadenas [2006.01]"
+  },
+  {
+    "code": "F16H 7/24",
+    "description": "••Equipo para la colocación de las correas, cuerdas, cables o cadenas [2006.01]"
+  },
+  {
+    "code": "F16H 9/00",
+    "description": "Transmisiones para transmitir un movimiento rotativo con relación de velocidad variable o para invertir un movimiento rotativo, por órganos flexibles sin fin (control para cambio de velocidad o para inversión de transmisiones que transmiten un movimiento rotativo F16H 59/00-F16H 63/00) [2006.01]"
+  },
+  {
+    "code": "F16H 9/02",
+    "description": "••sin órganos con movimiento orbital [2006.01]"
+  },
+  {
+    "code": "F16H 9/04",
+    "description": "••••utilizando correas, correas trapezoidales o cuerdas, cables (con correas dentadas F16H 9/24; poleas regulables F16H 55/52) [2006.01]"
+  },
+  {
+    "code": "F16H 9/06",
+    "description": "••••••con toma por una polea escalonada [2006.01]"
+  },
+  {
+    "code": "F16H 9/08",
+    "description": "••••••con toma por un tambor cónico (F16H 9/12 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F16H 9/10",
+    "description": "••••••con toma por una polea prevista de elementos que llevan la correa susceptibles de ser accionados radialmente [2006.01]"
+  },
+  {
+    "code": "F16H 9/12",
+    "description": "••••••con toma por una polea, constituida de piezas cuyas posiciones son regulables según el eje, en la que la correa se sitúa directamente entre los flancos opuestos de la polea sin interposición de órganos de soporte [2006.01]"
+  },
+  {
+    "code": "F16H 9/14",
+    "description": "••••••••utilizando una sola polea constituida de piezas cónicas regulables [2006.01]"
+  },
+  {
+    "code": "F16H 9/16",
+    "description": "••••••••utilizando dos poleas, construidas ambas de piezas cónicas regulables [2006.01]"
+  },
+  {
+    "code": "F16H 9/18",
+    "description": "••••••••••siendo regulable únicamente uno de los flancos de cada polea [2006.01]"
+  },
+  {
+    "code": "F16H 9/20",
+    "description": "••••••••••siendo regulables los dos flancos de las poleas [2006.01]"
+  },
+  {
+    "code": "F16H 9/22",
+    "description": "••••••especialmente adaptadas para cuerdas o cables [2006.01]"
+  },
+  {
+    "code": "F16H 9/24",
+    "description": "••••utilizando cadenas, correas dentadas, correas de eslabones; Cadenas o correas especialmente adaptadas para transmisiones [2006.01]"
+  },
+  {
+    "code": "F16H 9/26",
+    "description": "••con órganos de movimiento orbital [2006.01]"
+  },
+  {
+    "code": "F16H 13/00",
+    "description": "Transmisiones para transmitir un movimiento rotativo con relación de velocidad constante por fricción entre órganos rotativos [2006.01]"
+  },
+  {
+    "code": "F16H 13/02",
+    "description": "••sin órganos de movimiento orbital [2006.01]"
+  },
+  {
+    "code": "F16H 13/04",
+    "description": "••••con bolas, o rodillos, actuando de manera análoga [2006.01]"
+  },
+  {
+    "code": "F16H 13/06",
+    "description": "••con órganos de movimiento orbital [2006.01]"
+  },
+  {
+    "code": "F16H 13/08",
+    "description": "••••con bolas o rodillos actuando de manera análoga [2006.01]"
+  },
+  {
+    "code": "F16H 13/10",
+    "description": "••Medios para hacer variar la presión entre los órganos [2006.01]"
+  },
+  {
+    "code": "F16H 13/12",
+    "description": "••••por fuerzas magnéticas [2006.01]"
+  },
+  {
+    "code": "F16H 13/14",
+    "description": "••••por variación mecánica automática de la presión [2006.01]"
+  },
+  {
+    "code": "F16H 15/00",
+    "description": "Transmisiones para transmitir un movimiento rotativo con relación de velocidad variable o para invertir un movimiento rotativo por fricción entre órganos rotativos (control para cambio de velocidad o para inversión de transmisiones que transmiten un movimiento rotativo F16H 59/00-F16H 63/00) [2006.01]"
+  },
+  {
+    "code": "F16H 15/01",
+    "description": "••caracterizadas por el empleo de polvo o líquido magnetizable como medio de fricción entre los órganos rotativos [2006.01]"
+  },
+  {
+    "code": "F16H 15/02",
+    "description": "••sin órganos de movimiento orbital [2006.01]"
+  },
+  {
+    "code": "F16H 15/04",
+    "description": "••••Transmisiones que dan una gama continua de relaciones de velocidades [2006.01]"
+  },
+  {
+    "code": "F16H 15/06",
+    "description": "••••••en las cuales un órgano A montado sobre un eje y de diámetro útil uniforme puede trabajar con partes diferentes de un órgano B [2006.01]"
+  },
+  {
+    "code": "F16H 15/08",
+    "description": "••••••••y en el que el órgano B es un disco con una superficie de fricción plana o sensiblemente plana [2006.01]"
+  },
+  {
+    "code": "F16H 15/10",
+    "description": "••••••••••cruzándose o cortándose los ejes de los dos órganos [2006.01]"
+  },
+  {
+    "code": "F16H 15/12",
+    "description": "••••••••••••siendo uno de los órganos o cada uno de ellos doble, p. ej. para realizar una mejor transmisión con objeto de disminuir las fuerzas de reacción sobre los apoyos [2006.01]"
+  },
+  {
+    "code": "F16H 15/14",
+    "description": "••••••••••siendo los ejes de dos de los órganos paralelos o sensiblemente paralelos [2006.01]"
+  },
+  {
+    "code": "F16H 15/16",
+    "description": "••••••••y donde el órgano B tiene una superficie de fricción cónica [2006.01]"
+  },
+  {
+    "code": "F16H 15/18",
+    "description": "••••••••••en el exterior [2006.01]"
+  },
+  {
+    "code": "F16H 15/20",
+    "description": "••••••••••••funcionando con la llanta exterior del órgano A, que es perpendicular o sensiblemente perpendicular a la superficie de rozamiento del órgano B [2006.01]"
+  },
+  {
+    "code": "F16H 15/22",
+    "description": "••••••••••••siendo paralelas o sensiblemente paralelos los ejes de los dos órganos [2006.01]"
+  },
+  {
+    "code": "F16H 15/24",
+    "description": "••••••••••en el interior [2006.01]"
+  },
+  {
+    "code": "F16H 15/26",
+    "description": "••••••••y donde el órgano B tiene una superficie de fricción esférica centrada sobre su eje de revolución [2006.01]"
+  },
+  {
+    "code": "F16H 15/28",
+    "description": "••••••••••con una superficie de fricción en el exterior [2006.01]"
+  },
+  {
+    "code": "F16H 15/30",
+    "description": "••••••••••con una superficie de fricción en el interior [2006.01]"
+  },
+  {
+    "code": "F16H 15/32",
+    "description": "••••••••y donde el órgano B tiene una superficie de fricción curvada realizada como una superficie de revolución de un cuerpo engendrada por una curva que no es ni un arco de círculo con centro sobre su eje de revolución ni una línea recta [2006.01]"
+  },
+  {
+    "code": "F16H 15/34",
+    "description": "••••••••••con una superficie de fricción convexa [2006.01]"
+  },
+  {
+    "code": "F16H 15/36",
+    "description": "••••••••••con una superficie de fricción cóncava, p. ej. una superficie hueca toroidal [2006.01]"
+  },
+  {
+    "code": "F16H 15/38",
+    "description": "••••••••••••con dos órganos B que tienen superficies huecas toroidales opuestas entre sí, siendo el órgano o los órganos A situados de una manera regulable entre estas superficies [2006.01]"
+  },
+  {
+    "code": "F16H 15/40",
+    "description": "••••••en las cuales dos órganos funcionan en conjunción por intermedio de bolas o de rodillos de un diámetro útil uniforme, no montados sobre ejes [2006.01]"
+  },
+  {
+    "code": "F16H 15/42",
+    "description": "••••••en las cuales dos órganos funcionan en conjunción por intermedio de anillos o de partes de órganos flexibles sin fin que están cogidos entre los dos órganos mencionados al principio [2006.01]"
+  },
+  {
+    "code": "F16H 15/44",
+    "description": "••••••en las cuales dos órganos de diámetro útil no uniforme funcionan en unión directa con otros órganos [2006.01]"
+  },
+  {
+    "code": "F16H 15/46",
+    "description": "••••Transmisiones que dan una gama escalonada o discontinua de relaciones de velocidad [2006.01]"
+  },
+  {
+    "code": "F16H 15/48",
+    "description": "••con órganos de movimiento orbital [2006.01]"
+  },
+  {
+    "code": "F16H 15/50",
+    "description": "••••Transmisiones que dan una gama continua de relaciones de velocidad [2006.01]"
+  },
+  {
+    "code": "F16H 15/52",
+    "description": "••••••en las cuales un órgano colocado sobre un eje y de diámetro útil uniforme puede funcionar con diferentes partes de otro órgano [2006.01]"
+  },
+  {
+    "code": "F16H 15/54",
+    "description": "••••••en las cuales dos órganos funcionan en conjunción por intermedio de anillos o de partes de órganos flexibles sin fin que están cogidos entre los dos órganos mencionados en primer lugar [2006.01]"
+  },
+  {
+    "code": "F16H 15/56",
+    "description": "••••Transmisiones que dan una gama escalonada o discontinua de relaciones de velocidad [2006.01]"
+  },
+  {
+    "code": "F16H 19/02",
+    "description": "••para convertir un movimiento rotativo en alternativo o viceversa [2006.01]"
+  },
+  {
+    "code": "F16H 19/04",
+    "description": "••••implicando una cremallera y piñón [2006.01]"
+  },
+  {
+    "code": "F16H 19/06",
+    "description": "••••implicando un órgano flexible sin fin [2006.01]"
+  },
+  {
+    "code": "F16H 19/08",
+    "description": "••para convertir un movimiento rotativo en movimiento oscilante y viceversa [2006.01]"
+  },
+  {
+    "code": "F16H 21/00",
+    "description": "Transmisiones que no implican esencialmente nada más que varillas o palancas con o sin deslizadoras (F16H 23/00 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F16H 21/02",
+    "description": "••estando los movimientos de dos o más órganos independientes combinados en un movimiento único [2006.01]"
+  },
+  {
+    "code": "F16H 21/04",
+    "description": "••Mecanismos de guía, p. ej. para guiado en línea recta [2006.01]"
+  },
+  {
+    "code": "F16H 21/06",
+    "description": "••pudiendo quedar fuera de fricción cuando se desee [2006.01]"
+  },
+  {
+    "code": "F16H 21/08",
+    "description": "••••empujando una varilla de movimiento alternativo fuera de la posición de funcionamiento [2006.01]"
+  },
+  {
+    "code": "F16H 21/10",
+    "description": "••para transmitir un movimiento rotativo [2006.01]"
+  },
+  {
+    "code": "F16H 21/12",
+    "description": "••••para transmitir un movimiento rotativo [2006.01]"
+  },
+  {
+    "code": "F16H 21/14",
+    "description": "••••••por medio de manivelas, excéntricas u órganos similares fijos por una parte a un órgano rotativo y guiado por otro [2006.01]"
+  },
+  {
+    "code": "F16H 21/16",
+    "description": "••••para convertir un movimiento rotativo en un movimiento alternativo y viceversa [2006.01]"
+  },
+  {
+    "code": "F16H 21/18",
+    "description": "••••••Transmisiones de manivela; Transmisiones de excéntrica [2006.01]"
+  },
+  {
+    "code": "F16H 21/20",
+    "description": "••••••••con reglaje de la carrera [2006.01]"
+  },
+  {
+    "code": "F16H 21/22",
+    "description": "••••••••con una biela y una guía por deslizamiento con cada manivela o excéntrica [2006.01]"
+  },
+  {
+    "code": "F16H 21/24",
+    "description": "••••••••••sin otras palancas ni guías [2006.01]"
+  },
+  {
+    "code": "F16H 21/26",
+    "description": "••••••••••con acción de palanca acodada [2006.01]"
+  },
+  {
+    "code": "F16H 21/28",
+    "description": "••••••••••con levas o guías suplementarias [2006.01]"
+  },
+  {
+    "code": "F16H 21/30",
+    "description": "••••••••••con órganos de contacto por rodamiento [2006.01]"
+  },
+  {
+    "code": "F16H 21/32",
+    "description": "••••••••••con órganos suplementarios implicando únicamente palancas o brazos giratorios [2006.01]"
+  },
+  {
+    "code": "F16H 21/34",
+    "description": "••••••••con dos o más bielas para cada manivela o excéntrica [2006.01]"
+  },
+  {
+    "code": "F16H 21/36",
+    "description": "••••••••sin biela oscilante, p. ej. biela de movimiento epicicloidal paralelo al movimiento deslizador de la manivela [2006.01]"
+  },
+  {
+    "code": "F16H 21/38",
+    "description": "••••••••con dispositivos de acumulación temporal de energía, p. ej. para vencer los puntos muertos [2006.01]"
+  },
+  {
+    "code": "F16H 21/40",
+    "description": "••••para convertir un movimiento rotativo en movimiento oscilante y viceversa [2006.01]"
+  },
+  {
+    "code": "F16H 21/42",
+    "description": "••••••con carrera regulable [2006.01]"
+  },
+  {
+    "code": "F16H 21/44",
+    "description": "••••para convertir un movimiento oscilante en movimiento alternativo o viceversa o para transmitir estos movimientos [2006.01]"
+  },
+  {
+    "code": "F16H 21/46",
+    "description": "••con movimientos en las tres dimensiones [2006.01]"
+  },
+  {
+    "code": "F16H 21/48",
+    "description": "••••para transmitir un movimiento rotativo [2006.01]"
+  },
+  {
+    "code": "F16H 21/50",
+    "description": "••••para convertir un movimiento rotativo en movimiento alternativo y viceversa [2006.01]"
+  },
+  {
+    "code": "F16H 21/52",
+    "description": "••••para convertir un movimiento rotativo en movimiento oscilante y viceversa [2006.01]"
+  },
+  {
+    "code": "F16H 21/54",
+    "description": "••••para convertir un movimiento oscilante en movimiento rotativo o viceversa o para transmitir estos movimientos [2006.01]"
+  },
+  {
+    "code": "F16H 23/00",
+    "description": "Transmisiones con platos oscilantes; Transmisiones con manivelas oblicuas [2006.01]"
+  },
+  {
+    "code": "F16H 23/02",
+    "description": "••con regulación de la carrera por cambio de la posición del órgano oscilante (engranajes en los que la relación de transmisión se cambia mediante el ajuste de una placa oscilante F16H 29/04; engranajes con acción giroscópica, p. ej. que comprenden placas oscilantes F16H 33/10) [2006.01]"
+  },
+  {
+    "code": "F16H 23/04",
+    "description": "••con órganos oscilantes no rotativos [2006.01]"
+  },
+  {
+    "code": "F16H 23/06",
+    "description": "••••con órganos deslizantes articulados sobre órganos alternativos [2006.01]"
+  },
+  {
+    "code": "F16H 23/08",
+    "description": "••••ligados a los órganos alternativos mediante bielas [2006.01]"
+  },
+  {
+    "code": "F16H 23/10",
+    "description": "••con platos oscilantes rotativos de superficies planas [2006.01]"
+  },
+  {
+    "code": "F16H 25/00",
+    "description": "Transmisiones que implican esencialmente y únicamente sistemas de leva y ruleta o mecanismos de tornillo y tuerca [2006.01]"
+  },
+  {
+    "code": "F16H 25/02",
+    "description": "••estando los movimientos de dos o varios órganos independientes móviles combinados en un movimiento único [2006.01]"
+  },
+  {
+    "code": "F16H 25/04",
+    "description": "••para transmitir un movimiento rotativo [2006.01]"
+  },
+  {
+    "code": "F16H 25/06",
+    "description": "••••con órganos intermedios guiado sobre vías portadas por los dos órganos rotativos [2006.01]"
+  },
+  {
+    "code": "F16H 25/08",
+    "description": "••para convertir un movimiento rotativo en movimiento alternativo y viceversa (F16H 23/00 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F16H 25/10",
+    "description": "••••de carrera regulable [2006.01]"
+  },
+  {
+    "code": "F16H 25/12",
+    "description": "••••con un movimiento alternativo según el eje de rotación, p. ej. transmisiones mediante gargantas helicoidales e inversión automática [2006.01]"
+  },
+  {
+    "code": "F16H 25/14",
+    "description": "••••con movimiento alternativo perpendicular al eje de rotación (manivela o engranajes excéntricos sin biela oscilante F16H 21/36) [2006.01]"
+  },
+  {
+    "code": "F16H 25/16",
+    "description": "••para convertir un movimiento rotativo en movimiento oscilante y viceversa [2006.01]"
+  },
+  {
+    "code": "F16H 25/18",
+    "description": "••para convertir un movimiento oscilante en movimiento alternativo y viceversa o para transmitir estos movimientos [2006.01]"
+  },
+  {
+    "code": "F16H 25/20",
+    "description": "••••Mecanismos de tornillo (con inversión automática F16H 25/12) [2006.01]"
+  },
+  {
+    "code": "F16H 25/22",
+    "description": "••••••con bolas, rodillos u órganos similares entre piezas que funcionan en conjugación; Elementos esenciales para utilización de estos órganos [2006.01]"
+  },
+  {
+    "code": "F16H 25/24",
+    "description": "••••••Elementos esenciales para estos mecanismos, p. ej. tornillos, tuercas (F16H 25/22 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F16H 27/00",
+    "description": "Mecanismos paso a paso sin órganos de rueda libre, p. ej. accionamiento mediante cruz de Malta [2006.01]"
+  },
+  {
+    "code": "F16H 27/02",
+    "description": "••teniendo por lo menos un órgano de transmisión alternativa u oscilante [2006.01]"
+  },
+  {
+    "code": "F16H 27/04",
+    "description": "••para convertir un movimiento de rotación continuo en un movimiento rotativo paso a paso [2006.01]"
+  },
+  {
+    "code": "F16H 27/06",
+    "description": "••••Mecanismos con varillas de accionamiento que penetran en ranuras, p. ej. accionamientos mediante cruz de Malta [2006.01]"
+  },
+  {
+    "code": "F16H 27/08",
+    "description": "••••con engranajes motores con dientes interrumpidos [2006.01]"
+  },
+  {
+    "code": "F16H 27/10",
+    "description": "••••por órganos de transmisión desembragables combinados o no con los mecanismos según los grupos F16H 27/06 o F16H 27/08 [2006.01]"
+  },
+  {
+    "code": "F16H 29/00",
+    "description": "Transmisiones para transmitir un movimiento rotativo por órganos de accionamiento intermitente, p. ej. con acción de rueda libre [2006.01]"
+  },
+  {
+    "code": "F16H 29/02",
+    "description": "••entre uno de los ejes por un lado y un miembro intermedio alternativo u oscilante no girando con este último de los ejes (F16H 29/20, F16H 29/22 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "F16H 29/04",
+    "description": "••••en las cuales la relación de transmisión está modificada por el reglaje de una manivela, de una excéntrica, de un plato oscilante o de una leva sobre uno de los ejes [2006.01]"
+  },
+  {
+    "code": "F16H 29/06",
+    "description": "••••••implicando ejes concéntricos, alrededor de los cuales se desplaza un órgano anular intermedio, llevado por una manivela regulable o excéntrica [2006.01]"
+  },
+  {
+    "code": "F16H 29/08",
+    "description": "••••en las cuales la relación de transmisión se modifica por el reglaje de la trayectoria del movimiento, la posición del pivote o la longitud útil, de un órgano de unión oscilante [2006.01]"
+  },
+  {
+    "code": "F16H 29/10",
+    "description": "••••en las cuales la relación de transmisión se modifica por acción directa sobre los órganos de accionamiento intermitente [2006.01]"
+  },
+  {
+    "code": "F16H 29/12",
+    "description": "••entre órganos de accionamiento y accionados rotativos (F16H 29/20, F16H 29/22 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "F16H 29/14",
+    "description": "••••en las cuales la relación de transmisión se modifica por reglaje de un órgano estático además que sirve de guía a los órganos de accionamiento intermitentes [2006.01]"
+  },
+  {
+    "code": "F16H 29/16",
+    "description": "••••en las cuales la relación de transmisión se modifica por el reglaje de la distancia entre los ejes de los órganos rotativos [2006.01]"
+  },
+  {
+    "code": "F16H 29/18",
+    "description": "••••••los órganos de accionamiento intermitente deslizan a lo largo de guías aproximadamente radiales girando todo con uno de los órganos rotativos [2006.01]"
+  },
+  {
+    "code": "F16H 29/20",
+    "description": "••teniendo los órganos de funcionamiento intermitente la forma de tornillo sin fin, de tornillos o de cremalleras [2006.01]"
+  },
+  {
+    "code": "F16H 29/22",
+    "description": "••con cambio automático de velocidad [2006.01]"
+  },
+  {
+    "code": "F16H 31/00",
+    "description": "Otras transmisiones con órganos de rueda libre u otros organismos de accionamiento intermitente (F16H 21/00, F16H 23/00, F16H 25/00 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "F16H 33/02",
+    "description": "••Transmisiones rotativas con acumuladores mecánicos, p. ej. pesos, resortes, volantes, conectados de una manera intermitente [2006.01]"
+  },
+  {
+    "code": "F16H 33/04",
+    "description": "••••Transmisiones para transmitir un movimiento rotativo con relación de velocidad variable en las cuales se busca la autorregulación [2006.01]"
+  },
+  {
+    "code": "F16H 33/06",
+    "description": "••••••basadas esencialmente en la acción de un resorte [2006.01]"
+  },
+  {
+    "code": "F16H 33/08",
+    "description": "••••••basadas esencialmente en la inercia [2006.01]"
+  },
+  {
+    "code": "F16H 33/10",
+    "description": "••••••••de acción giroscópica, p. ej. implicando platos oscilantes, manivelas oblicuas [2006.01]"
+  },
+  {
+    "code": "F16H 33/12",
+    "description": "••••••••por un órgano de accionamiento ligado diferencialmente a la vez a un órgano accionado y a un órgano oscilante, con una gran resistencia al movimiento, p. ej. transmisión Constantinesca [2006.01]"
+  },
+  {
+    "code": "F16H 33/14",
+    "description": "••••••••por órganos orbitales sobre los cuales actúan masas reguladoras [2006.01]"
+  },
+  {
+    "code": "F16H 33/16",
+    "description": "••••••••••las cuales tienen un movimiento libre propio o están constituidas por un fluido [2006.01]"
+  },
+  {
+    "code": "F16H 33/18",
+    "description": "••••••••••cuyo movimiento es obligado [2006.01]"
+  },
+  {
+    "code": "F16H 33/20",
+    "description": "••para convertir un movimiento rotativo en movimiento alternativo u oscilante, esencialmente por inercia [2006.01]"
+  },
+  {
+    "code": "F16H 35/00",
+    "description": "Transmisiones o mecanismos que tienen otras características de funcionamiento particulares [2006.01]"
+  },
+  {
+    "code": "F16H 35/02",
+    "description": "••para transmitir un movimiento rotativo de variación cíclica de relación de velocidad [2006.01]"
+  },
+  {
+    "code": "F16H 35/06",
+    "description": "••Transmisiones concebidas para permitir un movimiento relativo entre sus soportes sin efectos nocivos (medios especiales para compensar la desalineación de los ejes F16H 1/26, F16H 1/48) [2006.01]"
+  },
+  {
+    "code": "F16H 35/08",
+    "description": "••para el reglaje de los órganos sobre las piezas móviles a partir de un puesto fijo [2006.01]"
+  },
+  {
+    "code": "F16H 35/10",
+    "description": "••Dispositivos para absorber la sobrecarga o impedir cualquier daño por sobrecarga [2006.01]"
+  },
+  {
+    "code": "F16H 35/12",
+    "description": "••Mecanismos de transmisión de efecto retardado [2006.01]"
+  },
+  {
+    "code": "F16H 35/14",
+    "description": "••Mecanismos con dos posiciones estables solamente, p. ej. actuando en posiciones angulares definidas [2006.01]"
+  },
+  {
+    "code": "F16H 35/16",
+    "description": "••Mecanismos para movimientos o relaciones de movimientos conformes a fórmulas matemáticas [2006.01]"
+  },
+  {
+    "code": "F16H 35/18",
+    "description": "••Dispositivos giratorios para órganos que pueden entrar en rotación, p. ej. ejes, árboles [2006.01]"
+  },
+  {
+    "code": "F16H 37/00",
+    "description": "Combinaciones de transmisiones mecánicas no previstas anteriormente F16H 1/00-F16H 35/00 (combinaciones de una transmisión mecánica con acoplamientos hidraúlicos o transmisión por fluido F16H 47/00) [2006.01]"
+  },
+  {
+    "code": "F16H 37/02",
+    "description": "••implicando esencial y únicamente transmisiones de engranajes o de fricción [2006.01]"
+  },
+  {
+    "code": "F16H 37/04",
+    "description": "••••Combinaciónes únicamente de transmisiones de engranajes (F16H 37/06 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F16H 37/06",
+    "description": "••••con varios ejes de accionamiento o accionados; con dispositivos para repartir el par entre dos ejes intermedios o más [2006.01]"
+  },
+  {
+    "code": "F16H 37/08",
+    "description": "••••••con una transmisión diferencial [2006.01]"
+  },
+  {
+    "code": "F16H 37/10",
+    "description": "••••••••en los dos extremos de los ejes intermedios [2006.01]"
+  },
+  {
+    "code": "F16H 37/12",
+    "description": "••Transmisiones que implican principalmente una transmisión de engranajes o de fricción, eslabones o palancas, y levas o bien, órganos que pertenecen al menos a dos de los tres tipos mencionados anteriormente (engranajes con manivelas, excéntricas o elementos similares fijados en una de las piezas giratorias y guiados por guías sobre la otra F16H 21/14; engranajes de manivela o excéntricas con levas o guías adicionales, o con elementos que tienen contacto rodante F16H 21/28, F16H 21/30) [2006.01]"
+  },
+  {
+    "code": "F16H 37/14",
+    "description": "••••estando los movimientos de dos o más órganos móviles independientes en un movimiento único [2006.01]"
+  },
+  {
+    "code": "F16H 37/16",
+    "description": "••••con un órgano de accionamiento o accionado que a la vez gira u oscila sobre su eje y están animados de un movimiento alternativo [2006.01]"
+  },
+  {
+    "code": "F16H 39/00",
+    "description": "Transmisiones rotativas mediante fluido que utilizan bombas y motores del tipo volumétrico, es decir, consumiendo un volumen, predeterminado de fluido en cada revolución (control de las transmisiones exclusivamente por fluido F16H 61/38) [2006.01]"
+  },
+  {
+    "code": "F16H 39/01",
+    "description": "••Transmisiones neumáticas; Transmisiones que trabajan a presión inferior a la atmosférica [2006.01]"
+  },
+  {
+    "code": "F16H 39/02",
+    "description": "••estando los motores a una cierta distancia de las bombas de líquido [2006.01]"
+  },
+  {
+    "code": "F16H 39/04",
+    "description": "••formando un conjunto único el motor y la bomba [2006.01]"
+  },
+  {
+    "code": "F16H 39/06",
+    "description": "••••siendo la bomba y el motor del mismo tipo [2006.01]"
+  },
+  {
+    "code": "F16H 39/08",
+    "description": "••••••teniendo cada uno un eje principal y pistones alternativos que se desplazan en los cilindros [2006.01]"
+  },
+  {
+    "code": "F16H 39/10",
+    "description": "••••••••con cilindros dispuestos paralelamente o sensiblemente paralelos alrededor del eje principal de la transmisión [2006.01]"
+  },
+  {
+    "code": "F16H 39/12",
+    "description": "••••••••••siendo los cilindros fijos [2006.01]"
+  },
+  {
+    "code": "F16H 39/14",
+    "description": "••••••••••estando llevados los cilindros por bloques cilindros u órganos portacilindros rotativos [2006.01]"
+  },
+  {
+    "code": "F16H 39/16",
+    "description": "••••••••con cilindros dispuestos perpendicularmente al eje principal de la transmisión [2006.01]"
+  },
+  {
+    "code": "F16H 39/18",
+    "description": "••••••••••estando las conexiones de los pistones en las extremidades exteriores de los cilindros [2006.01]"
+  },
+  {
+    "code": "F16H 39/20",
+    "description": "••••••••••estando las conexiones de los pistones en las extremidades interiores de los cilindros [2006.01]"
+  },
+  {
+    "code": "F16H 39/22",
+    "description": "••••••con cámaras de líquido que tienen la forma de cuerpos de revolución concéntricos con el eje principal de la transmisión [2006.01]"
+  },
+  {
+    "code": "F16H 39/24",
+    "description": "••••••••y órganos de desplazamiento rotativos, p. ej. provistos de álabes móviles según el eje o el radio que atraviesa los órganos de estanqueidad móviles [2006.01]"
+  },
+  {
+    "code": "F16H 39/26",
+    "description": "••••••con cámaras de líquido que no tienen la forma de cuerpos de revolución o que teniendo la forma de los mismos son excéntricos con relación al eje principal de la transmisión [2006.01]"
+  },
+  {
+    "code": "F16H 39/28",
+    "description": "••••••••estando formadas las cámaras por los órganos rotativos [2006.01]"
+  },
+  {
+    "code": "F16H 39/30",
+    "description": "••••••••estando las cámaras formadas por los órganos fijos [2006.01]"
+  },
+  {
+    "code": "F16H 39/32",
+    "description": "••••••••••con álabes deslizantes llevados por el rotor [2006.01]"
+  },
+  {
+    "code": "F16H 39/34",
+    "description": "••••••en el cual el rotor llevado por uno de los ejes trabaja en conjugación con el rotor llevado por otro eje [2006.01]"
+  },
+  {
+    "code": "F16H 39/36",
+    "description": "••••••••en una conjugacion del tipo de engranajes [2006.01]"
+  },
+  {
+    "code": "F16H 39/38",
+    "description": "••••••••en una conjugación en la cual el movimiento de la bomba de desplazamiento positivo es del tipo de tornillo [2006.01]"
+  },
+  {
+    "code": "F16H 39/40",
+    "description": "••••••Transmisiones hidráulicas diferenciales, p. ej. que tiene una cubierta de entrada rotativa con cámaras de líquido para las dos salidas en comunicación [2006.01]"
+  },
+  {
+    "code": "F16H 39/42",
+    "description": "••••siendo la bomba y el motor de tipos diferentes [2006.01]"
+  },
+  {
+    "code": "F16H 41/00",
+    "description": "Transmisiones rotativas por fluido del tipo hidrocinético (control de las transmisiones exclusivamente por fluido F16H 61/38) [2006.01]"
+  },
+  {
+    "code": "F16H 41/02",
+    "description": "••con bomba y turbina unida mediante conductos o tubos [2006.01]"
+  },
+  {
+    "code": "F16H 41/04",
+    "description": "••Conjuntos bomba-turbina combinados [2006.01]"
+  },
+  {
+    "code": "F16H 41/22",
+    "description": "••••Sistemas de transmisiones consistentes en varios conjuntos hidrocinéticos que funcionan alternativamente, p. ej. funcionamiento o retirada de funcionamiento según el llenado o vaciado o bien por medio de embragues mecánicos [2006.01]"
+  },
+  {
+    "code": "F16H 41/24",
+    "description": "••Partes constitutivas [2006.01]"
+  },
+  {
+    "code": "F16H 41/26",
+    "description": "••••Forma de los álabes de las coronas móviles o de los canales con vista a su función [2006.01]"
+  },
+  {
+    "code": "F16H 41/28",
+    "description": "••••bajo el punto de vista de su fabricación, p. ej. fijación de los álabes [2006.01]"
+  },
+  {
+    "code": "F16H 41/30",
+    "description": "••••relativas a la lubricación, ventilación, refrigeración, circulación del agente refrigerante [2006.01]"
+  },
+  {
+    "code": "F16H 41/32",
+    "description": "••Empleo de fluidos de trabajo específicos [2006.01]"
+  },
+  {
+    "code": "F16H 43/00",
+    "description": "Otras transmisiones mediante fluido, p. ej. con una entrada o una salida oscilante [2006.01]"
+  },
+  {
+    "code": "F16H 43/02",
+    "description": "••Transmisiones por fluido accionadas por ondas de presión [2006.01]"
+  },
+  {
+    "code": "F16H 45/00",
+    "description": "Combinaciones de transmisiones por fluido para transmitir un movimiento rotativo con acoplamiento o embragues (sistemas de engranajes que constan de una pluralidad de unidades hidrocinéticas que funcionan alternativamente F16H 41/22) [2006.01]"
+  },
+  {
+    "code": "F16H 45/02",
+    "description": "••con embragues mecánicos para cortocircuitar una transmisión de fluido del tipo hidrocinético (control de los embragues de bloqueo del convertidor del par F16H 61/14) [2006.01]"
+  },
+  {
+    "code": "F16H 47/00",
+    "description": "Combinaciones de una transmisión mecánica con acoplamientos hidraúlicos o transmisión por fluido [2006.01]"
+  },
+  {
+    "code": "F16H 47/02",
+    "description": "••siendo la transmisión por fluido del tipo volumétrico [2006.01]"
+  },
+  {
+    "code": "F16H 47/04",
+    "description": "••••siendo la transmisión mecánica del tipo de órganos de movimiento orbital [2006.01]"
+  },
+  {
+    "code": "F16H 47/06",
+    "description": "••siendo la transmisión por fluido del tipo hidrocinético [2006.01]"
+  },
+  {
+    "code": "F16H 47/07",
+    "description": "••••utilizando varios circuitos de fluido que transmiten la potencia (F16H 47/10 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F16H 47/08",
+    "description": "••••siendo la transmisión mecánica del tipo de órganos de movimiento orbital [2006.01]"
+  },
+  {
+    "code": "F16H 47/10",
+    "description": "••••••utilizando varios circuitos de fluido que transmiten la potencia [2006.01]"
+  },
+  {
+    "code": "F16H 47/12",
+    "description": "••••••teniendo los órganos de movimiento orbital álabes de acción conjugada con el fluido [2006.01]"
+  },
+  {
+    "code": "F16H 48/05",
+    "description": "••Sistemas diferenciales con interconexiones múltiples [2012.01]"
+  },
+  {
+    "code": "F16H 48/06",
+    "description": "••con engranajes con un movimiento orbital [2006.01]"
+  },
+  {
+    "code": "F16H 48/08",
+    "description": "••••con engranajes orbitales cónicos [2006.01]"
+  },
+  {
+    "code": "F16H 48/10",
+    "description": "••••con engranajes cilíndricos orbitales [2012.01]"
+  },
+  {
+    "code": "F16H 48/11",
+    "description": "••••••con engranajes planetarios engranados [2012.01]"
+  },
+  {
+    "code": "F16H 48/12",
+    "description": "••sin engranajes con movimiento orbital [2012.01]"
+  },
+  {
+    "code": "F16H 48/14",
+    "description": "••••con levas [2006.01]"
+  },
+  {
+    "code": "F16H 48/16",
+    "description": "••••con ruedas libres [2006.01]"
+  },
+  {
+    "code": "F16H 48/18",
+    "description": "••••con transmisiones de fluido [2006.01]"
+  },
+  {
+    "code": "F16H 48/19",
+    "description": "••••que consisten en dos embragues conectados [2012.01]"
+  },
+  {
+    "code": "F16H 48/20",
+    "description": "••Dispositivos para suprimir o modificar la acción diferencial, p. ej. dispositivos de bloqueo [2012.01]"
+  },
+  {
+    "code": "F16H 48/22",
+    "description": "••••utilizando embragues o frenos de fricción [2006.01]"
+  },
+  {
+    "code": "F16H 48/24",
+    "description": "••••utilizando embragues o frenos con acoplamiento positivo [2006.01]"
+  },
+  {
+    "code": "F16H 48/26",
+    "description": "••••utilizando la acción de un fluido, p. ej. embragues viscosos [2006.01]"
+  },
+  {
+    "code": "F16H 48/27",
+    "description": "••••utilizando presión de fluido accionada desde el interior p. ej. bombas internas [2012.01]"
+  },
+  {
+    "code": "F16H 48/28",
+    "description": "••••utilizando engranajes autobloqueantes o de parada automática [2012.01]"
+  },
+  {
+    "code": "F16H 48/285",
+    "description": "••••••con engranajes de parada automática que tienen ejes paralelos y tornillos sin fin o dientes helicoidales [2012.01]"
+  },
+  {
+    "code": "F16H 48/29",
+    "description": "••••••con engranajes de parada automática que tienen ejes dispuestos perpendicularmente y tornillos sin fin o dientes helicoidales [2012.01]"
+  },
+  {
+    "code": "F16H 48/295",
+    "description": "••••utilizando medios múltiples para la intensificación de las fuerzas [2012.01]"
+  },
+  {
+    "code": "F16H 48/30",
+    "description": "••••utilizando medios accionados desde el exterior [2012.01]"
+  },
+  {
+    "code": "F16H 48/32",
+    "description": "••••••utilizando actuadores de presión de fluido [2012.01]"
+  },
+  {
+    "code": "F16H 48/34",
+    "description": "••••••utilizando actuadores eléctricos o electromagnéticos [2012.01]"
+  },
+  {
+    "code": "F16H 48/36",
+    "description": "••caracterizadas por la generación de diferencia de velocidad entre salidas [2012.01]"
+  },
+  {
+    "code": "F16H 48/38",
+    "description": "••Detalles constructivos (con cubierta exterior que comprende el diferencial y soporta los ejes de entrada y salida F16H 57/037) [2012.01]"
+  },
+  {
+    "code": "F16H 48/40",
+    "description": "••••caracterizados por los detalles de las carcasas rotativas [2012.01]"
+  },
+  {
+    "code": "F16H 48/42",
+    "description": "••••caracterizados por los detalles de los ejes de entrada, p. ej. montaje de los engranajes motrices [2012.01]"
+  },
+  {
+    "code": "F16H 49/00",
+    "description": "Otras transmisiones [2006.01]"
+  },
+  {
+    "code": "F16H 51/00",
+    "description": "Palancas de los mecanismos de transmisión [2006.01]"
+  },
+  {
+    "code": "F16H 51/02",
+    "description": "••regulables [2006.01]"
+  },
+  {
+    "code": "F16H 53/00",
+    "description": "Levas o ruletas seguidoras de levas, p. ej. rodillos para mecanismos de transmisión [2006.01]"
+  },
+  {
+    "code": "F16H 53/02",
+    "description": "••Levas simples para ciclos de funcionamiento de una sola revolución; Arbol de levas para tales de levas [2006.01]"
+  },
+  {
+    "code": "F16H 53/04",
+    "description": "••••Levas regulables [2006.01]"
+  },
+  {
+    "code": "F16H 53/06",
+    "description": "••Ruletas (F16H 53/08 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F16H 53/08",
+    "description": "••Levas múltiples, p. ej. para ciclos de funcionamiento de varias revoluciones; Ruletas especialmente adaptadas a tales levas [2006.01]"
+  },
+  {
+    "code": "F16H 55/00",
+    "description": "Elementos con dientes o superficies de fricción para transmitir un movimiento; Tornillos sin fin, poleas o roldanas para mecanismos de transmisión (transmisiones de tornillo y tuerca F16H 25/00) [2006.01]"
+  },
+  {
+    "code": "F16H 55/02",
+    "description": "••Organos dentados; Tornillos sin fin [2006.01]"
+  },
+  {
+    "code": "F16H 55/06",
+    "description": "••••Empleo de materiales; Empleo de tratamientos de órganos dentados o tornillos sin fin que afectan a las propiedades intrínsecas del material [2006.01]"
+  },
+  {
+    "code": "F16H 55/08",
+    "description": "••••Perfilado [2006.01]"
+  },
+  {
+    "code": "F16H 55/10",
+    "description": "••••Formas de los dientes de construcción simple, p. ej. forma de bola [2006.01]"
+  },
+  {
+    "code": "F16H 55/12",
+    "description": "••••con el cuerpo o la corona constituidas por elementos separables [2006.01]"
+  },
+  {
+    "code": "F16H 55/14",
+    "description": "••••Estructura que asegura la elasticidad o el amortiguamiento de las vibraciones (F16H 55/06 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F16H 55/16",
+    "description": "••••••relativo únicamente a los dientes [2006.01]"
+  },
+  {
+    "code": "F16H 55/17",
+    "description": "••••Ruedas dentadas (engranajes de tornillo sin fin F16H 55/22; ruedas para cadenas F16H 55/30) [2006.01]"
+  },
+  {
+    "code": "F16H 55/18",
+    "description": "••••••Dispositivos particulares para compensar el juego entre los dientes [2006.01]"
+  },
+  {
+    "code": "F16H 55/20",
+    "description": "••••••••para engranajes cónicos [2006.01]"
+  },
+  {
+    "code": "F16H 55/22",
+    "description": "••••para transmisiones entre ejes que se cruzan, especialmente tornillos sin fin, engranajes de tornillo sin fin [2006.01]"
+  },
+  {
+    "code": "F16H 55/24",
+    "description": "••••••Dispositivos particulares para compensar el juego entre dientes [2006.01]"
+  },
+  {
+    "code": "F16H 55/26",
+    "description": "••••Cremalleras [2006.01]"
+  },
+  {
+    "code": "F16H 55/28",
+    "description": "••••••Dispositivos particulares de recuperación del juego entre los dientes [2006.01]"
+  },
+  {
+    "code": "F16H 55/30",
+    "description": "••••Ruedas por cadenas [2006.01]"
+  },
+  {
+    "code": "F16H 55/32",
+    "description": "••Organos de fricción [2006.01]"
+  },
+  {
+    "code": "F16H 55/34",
+    "description": "••••Discos de fricción no regulables [2006.01]"
+  },
+  {
+    "code": "F16H 55/36",
+    "description": "••••Poleas (con características esenciales para la regulación F16H 55/52) [2006.01]"
+  },
+  {
+    "code": "F16H 55/38",
+    "description": "••••••Medios o dispositivos para aumentar la adhesión [2006.01]"
+  },
+  {
+    "code": "F16H 55/40",
+    "description": "••••••con radios (F16H 55/48 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F16H 55/42",
+    "description": "••••••Poleas hechas de capas sucesivas de materiales [2006.01]"
+  },
+  {
+    "code": "F16H 55/44",
+    "description": "••••••Poleas de chapa [2006.01]"
+  },
+  {
+    "code": "F16H 55/46",
+    "description": "••••••Poleas fundidas [2006.01]"
+  },
+  {
+    "code": "F16H 55/48",
+    "description": "••••••hechas completa o parcialmente de madera o de otros materiales no metálicos, p. ej. de plástico (F16H 55/38, F16H 55/42, F16H 55/46 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "F16H 55/49",
+    "description": "••••••Características particulares de las poleas con correas en V [2006.01]"
+  },
+  {
+    "code": "F16H 55/50",
+    "description": "••••••Características esenciales para poleas de cables o cuerdas [2006.01]"
+  },
+  {
+    "code": "F16H 55/52",
+    "description": "••••Poleas o discos de fricción regulables gracias a su construcción [2006.01]"
+  },
+  {
+    "code": "F16H 55/54",
+    "description": "••••••las cuales los elementos portadores son regulables radialmente [2006.01]"
+  },
+  {
+    "code": "F16H 55/56",
+    "description": "••••••en las cuales los elementos portadores son regulables axialmente unos con relación a los otros [2006.01]"
+  },
+  {
+    "code": "F16H 57/00",
+    "description": "Partes constitutivas generales de las transmisiones (de mecanismo husillo-tuerca F16H 25/00; de transmisiones por fluidos F16H 39/00-F16H 43/00) [2012.01]"
+  },
+  {
+    "code": "F16H 57/01",
+    "description": "••Control del desgaste o la fatiga de los elementos de engranaje, p. ej. para mantenimiento [2012.01]"
+  },
+  {
+    "code": "F16H 57/02",
+    "description": "••Cajas de engranajes; Montaje de las transmisiones en el interior de aquéllas [2012.01]"
+  },
+  {
+    "code": "F16H 57/021",
+    "description": "••••Estructuras para el soporte de ejes, p. ej. tabiques, alojamientos de cojinetes, paredes o tapas del armazón con rodamientos [2012.01]"
+  },
+  {
+    "code": "F16H 57/022",
+    "description": "••••••Ajuste de ejes de engranaje o de rodamientos (para la compensación del desalineamiento de ejes de engranajes dentados sin movimiento orbital F16H 1/26; para la compensación del desalineamiento de ejes de engranajes planetarios F16H 1/48) [2012.01]"
+  },
+  {
+    "code": "F16H 57/023",
+    "description": "••••Montaje o instalación de engranajes o ejes en las cajas de engranajes, p. ej. métodos o medios para el ensamblado [2012.01]"
+  },
+  {
+    "code": "F16H 57/025",
+    "description": "••••Soportes de cajas de engranajes, p. ej. brazos torsores, o su unión a otros dispositivos [2012.01]"
+  },
+  {
+    "code": "F16H 57/027",
+    "description": "••••caracterizadas por los medios para la aireación de las cajas de engranajes, p. ej. respiraderos [2012.01]"
+  },
+  {
+    "code": "F16H 57/028",
+    "description": "••••caracterizadas por los medios para la reducción de la vibración o el ruido [2012.01]"
+  },
+  {
+    "code": "F16H 57/029",
+    "description": "••••caracterizadas por los medios para sellado de cajas de engranajes, p. ej. para mejorar la hermeticidad [2012.01]"
+  },
+  {
+    "code": "F16H 57/03",
+    "description": "••••caracterizadas por los medios para el refuerzo de las cajas de engranaje, p. ej. nervios [2012.01]"
+  },
+  {
+    "code": "F16H 57/031",
+    "description": "••••caracterizadas por las cubiertas o tapas para cajas de engranajes [2012.01]"
+  },
+  {
+    "code": "F16H 57/032",
+    "description": "••••caracterizadas por los materiales utilizados [2012.01]"
+  },
+  {
+    "code": "F16H 57/033",
+    "description": "••••Cajas de engranajes en serie, p. ej. cajas de engranajes basadas en el mismo diseño disponibles en diferentes tamaños o cajas de engranajes que usan una combinación de varias unidades estándar [2012.01]"
+  },
+  {
+    "code": "F16H 57/035",
+    "description": "••••Cajas de engranajes para engranajes con elementos flexibles sin fin [2012.01]"
+  },
+  {
+    "code": "F16H 57/037",
+    "description": "••••Cajas de engranajes diferenciales (carcasas rotativas para engranajes diferenciales F16H 48/40) [2012.01]"
+  },
+  {
+    "code": "F16H 57/038",
+    "description": "••••Cajas de engranajes cónicos (F16H 57/037 takes precedence) [2012.01]"
+  },
+  {
+    "code": "F16H 57/039",
+    "description": "••••Cajas de engranajes de tornillo sin fin [2012.01]"
+  },
+  {
+    "code": "F16H 57/04",
+    "description": "••Características relativas a la lubricación o a la refrigeración (control de la lubricación o del enfriamiento en transmisiones hidrostáticas F16H 61/4165) [2010.01]"
+  },
+  {
+    "code": "F16H 57/05",
+    "description": "••••de las cadenas [2006.01]"
+  },
+  {
+    "code": "F16H 57/08",
+    "description": "••de las transmisiones con órgano de movimiento orbital [2006.01]"
+  },
+  {
+    "code": "F16H 57/10",
+    "description": "••••Dispositivos propios al frenado [2006.01]"
+  },
+  {
+    "code": "F16H 57/12",
+    "description": "••Dispositivos no previstos en otro lugar para ajustar o para reponer el juego [2006.01]"
+  },
+  {
+    "code": "F16H 59/00",
+    "description": "Entradas de control de transmisiones que transmiten un movimiento rotativo para cambios de velocidad o para mecanismos de inversión [2006.01]"
+  },
+  {
+    "code": "F16H 59/02",
+    "description": "••Aparatos de selección [2006.01]"
+  },
+  {
+    "code": "F16H 59/04",
+    "description": "••••Aparatos de selección de la relación [2006.01]"
+  },
+  {
+    "code": "F16H 59/06",
+    "description": "••••••siendo la relación infinitamente variable [2006.01]"
+  },
+  {
+    "code": "F16H 59/08",
+    "description": "••••Aparatos de selección de la gama [2006.01]"
+  },
+  {
+    "code": "F16H 59/10",
+    "description": "••••••incluyendo palancas [2006.01]"
+  },
+  {
+    "code": "F16H 59/12",
+    "description": "••••••incluyendo dispositivos de mando por botones pulsadores [2006.01]"
+  },
+  {
+    "code": "F16H 59/14",
+    "description": "••siendo las entradas función del par o del par solicitado [2006.01]"
+  },
+  {
+    "code": "F16H 59/16",
+    "description": "••••Medida dinamométrica del par [2006.01]"
+  },
+  {
+    "code": "F16H 59/18",
+    "description": "••••función de la posición del pedal acelerador [2006.01]"
+  },
+  {
+    "code": "F16H 59/20",
+    "description": "••••••Kickdown, es decir, reducción provocada empujando el pedal del acelerador [2006.01]"
+  },
+  {
+    "code": "F16H 59/22",
+    "description": "••••••Posición de ralentí [2006.01]"
+  },
+  {
+    "code": "F16H 59/24",
+    "description": "••••función de la abertura de la mariposa de válvula [2006.01]"
+  },
+  {
+    "code": "F16H 59/26",
+    "description": "••••función de la presión [2006.01]"
+  },
+  {
+    "code": "F16H 59/28",
+    "description": "••••••Presión del gasificador en las turbinas de gas [2006.01]"
+  },
+  {
+    "code": "F16H 59/30",
+    "description": "••••••Depresión en el colector de admisión [2006.01]"
+  },
+  {
+    "code": "F16H 59/32",
+    "description": "••••••Sobrepresión producida por el compresor en los motores de combustión interna [2006.01]"
+  },
+  {
+    "code": "F16H 59/34",
+    "description": "••••función de la alimentación de carburante [2006.01]"
+  },
+  {
+    "code": "F16H 59/36",
+    "description": "••siendo las entradas función de una velocidad [2006.01]"
+  },
+  {
+    "code": "F16H 59/38",
+    "description": "••••de los elementos de la transmisión [2006.01]"
+  },
+  {
+    "code": "F16H 59/40",
+    "description": "••••••Velocidad del eje de salida [2006.01]"
+  },
+  {
+    "code": "F16H 59/42",
+    "description": "••••••Velocidad del eje de entrada [2006.01]"
+  },
+  {
+    "code": "F16H 59/44",
+    "description": "••••función de la velocidad de la máquina (F16H 59/46 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F16H 59/46",
+    "description": "••••función de la comparación entre velocidades [2006.01]"
+  },
+  {
+    "code": "F16H 59/48",
+    "description": "••siendo las entradas función de una aceleración [2006.01]"
+  },
+  {
+    "code": "F16H 59/50",
+    "description": "••siendo las entradas función del estado de la máquina, p. ej. de la posición de las puertas o de los cinturones de seguridad [2006.01]"
+  },
+  {
+    "code": "F16H 59/52",
+    "description": "••••función del peso de la máquina, p. ej. variación del peso producida por la subida de pasajeros a un autobús [2006.01]"
+  },
+  {
+    "code": "F16H 59/54",
+    "description": "••••función de señales provenientes de los frenos, p. ej. frenos de estacionamiento [2006.01]"
+  },
+  {
+    "code": "F16H 59/56",
+    "description": "••••función de señales provenientes del embrague principal [2006.01]"
+  },
+  {
+    "code": "F16H 59/58",
+    "description": "••••función de señales provenientes de la dirección [2006.01]"
+  },
+  {
+    "code": "F16H 59/60",
+    "description": "••siendo las entradas función de las condiciones ambientales [2006.01]"
+  },
+  {
+    "code": "F16H 59/62",
+    "description": "••••Presión atmosférica [2006.01]"
+  },
+  {
+    "code": "F16H 59/64",
+    "description": "••••Temperatura atmosférica [2006.01]"
+  },
+  {
+    "code": "F16H 59/66",
+    "description": "••••Estado de la carretera, p. ej. cuesta, firme resbaladizo [2006.01]"
+  },
+  {
+    "code": "F16H 59/68",
+    "description": "••siendo las entradas función del estado de la transmisión [2006.01]"
+  },
+  {
+    "code": "F16H 59/70",
+    "description": "••••función de la relación establecida [2006.01]"
+  },
+  {
+    "code": "F16H 59/72",
+    "description": "••••función de las características del aceite, p. ej. temperatura, viscosidad [2006.01]"
+  },
+  {
+    "code": "F16H 59/74",
+    "description": "••siendo las entradas función de los parámetros del motor (F16H 59/14 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F16H 59/76",
+    "description": "••••Número de cilindros en funcionamiento [2006.01]"
+  },
+  {
+    "code": "F16H 59/78",
+    "description": "••••Temperatura [2006.01]"
+  },
+  {
+    "code": "F16H 61/00",
+    "description": "Funciones internas de las unidades de control para cambios de velocidad o para mecanismos de inversión de las transmisiones que transmiten un movimiento rotativo [2006.01]"
+  },
+  {
+    "code": "F16H 61/02",
+    "description": "••caracterizadas por las señales utilizadas [2006.01]"
+  },
+  {
+    "code": "F16H 61/04",
+    "description": "••Regularización del cambio de la relación [2006.01]"
+  },
+  {
+    "code": "F16H 61/06",
+    "description": "••••controlando la tasa de variación de la presión del fluido [2006.01]"
+  },
+  {
+    "code": "F16H 61/08",
+    "description": "••••Mando temporizado [2006.01]"
+  },
+  {
+    "code": "F16H 61/10",
+    "description": "••Control del desplazamiento de la histéresis [2006.01]"
+  },
+  {
+    "code": "F16H 61/12",
+    "description": "••Detección de un mal funcionamiento o de un mal funcionamiento potencial, p. ej. dispositivo de seguridad positiva (en el control de transmisiones hidrostáticas F16H 61/4192) [2010.01]"
+  },
+  {
+    "code": "F16H 61/14",
+    "description": "••Control de los embragues de bloqueo del convertidor del par [2006.01]"
+  },
+  {
+    "code": "F16H 61/16",
+    "description": "••que impiden un cambio de la relación en caso de condiciones desfavorables (F16H 61/18 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F16H 61/18",
+    "description": "••que impiden un cambio involuntario o peligroso [2006.01]"
+  },
+  {
+    "code": "F16H 61/20",
+    "description": "••que impiden el avance extra-lento [2006.01]"
+  },
+  {
+    "code": "F16H 61/21",
+    "description": "••asegurando el control del freno motor [2006.01]"
+  },
+  {
+    "code": "F16H 61/22",
+    "description": "••Bloqueo (características constructivas de los mecanismos de bloqueo o desactivación F16H 63/34) [2006.01]"
+  },
+  {
+    "code": "F16H 61/24",
+    "description": "••que indican la posición, p. ej. para permitir la selección [2006.01]"
+  },
+  {
+    "code": "F16H 61/26",
+    "description": "••Generación o transmisión de movimientos en los mecanismos finales de maniobra [2006.01]"
+  },
+  {
+    "code": "F16H 61/28",
+    "description": "••••estando por lo menos un movimiento del mecanismo final de maniobra provocado por una fuerza no mecánica, p. ej. servomando [2006.01]"
+  },
+  {
+    "code": "F16H 61/30",
+    "description": "••••••Motores hidráulicos con esta finalidad [2006.01]"
+  },
+  {
+    "code": "F16H 61/32",
+    "description": "••••••Motores eléctricos con esta finalidad [2006.01]"
+  },
+  {
+    "code": "F16H 61/34",
+    "description": "••••incluyendo dos mecanismos, uno para la preselección y otro para el enclavamiento (F16H 61/36 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F16H 61/36",
+    "description": "••••estando al menos un movimiento transmitido por cable [2006.01]"
+  },
+  {
+    "code": "F16H 61/38",
+    "description": "••Control de las transmisiones exclusivamente de fluido [2006.01]"
+  },
+  {
+    "code": "F16H 61/40",
+    "description": "••••hidrostático [2010.01]"
+  },
+  {
+    "code": "F16H 61/4008",
+    "description": "••••••Control de la presión en el circuito [2010.01]"
+  },
+  {
+    "code": "F16H 61/4017",
+    "description": "••••••••Control de presiones altas, p. ej. evitando una presión excesiva mediante una válvula de descarga [2010.01]"
+  },
+  {
+    "code": "F16H 61/4026",
+    "description": "••••••••Control de presiones bajas [2010.01]"
+  },
+  {
+    "code": "F16H 61/4035",
+    "description": "••••••Control del caudal en el circuito [2010.01]"
+  },
+  {
+    "code": "F16H 61/4043",
+    "description": "••••••Control de una válvula de derivación o bypass [2010.01]"
+  },
+  {
+    "code": "F16H 61/4052",
+    "description": "••••••••empleando una restricción variable, p. ej. una válvula de orificio [2010.01]"
+  },
+  {
+    "code": "F16H 61/4061",
+    "description": "••••••Control relacionado con los distribuidores, p. ej. de válvulas de cambio de dirección, para permutar los conductos de alimentación [2010.01]"
+  },
+  {
+    "code": "F16H 61/4069",
+    "description": "••••••Válvulas relacionadas con el control de la posición neutra, p. ej. válvulas de cierre [2010.01]"
+  },
+  {
+    "code": "F16H 61/4078",
+    "description": "••••••Intercambio de fluido entre circuitos hidrostáticos y las fuentes o los consumidores externos [2010.01]"
+  },
+  {
+    "code": "F16H 61/4096",
+    "description": "••••••••con acumuladores de presión [2010.01]"
+  },
+  {
+    "code": "F16H 61/4104",
+    "description": "••••••••Descarga, p. ej. usando válvulas de descarga o por conexión al escape [2010.01]"
+  },
+  {
+    "code": "F16H 61/4131",
+    "description": "••••••••Intercambio de fluido por aspiración desde depósitos, p. ej. carter [2010.01]"
+  },
+  {
+    "code": "F16H 61/4139",
+    "description": "••••••••Bombas de llenado o de barrido, p. ej. bombas de carga auxiliar [2010.01]"
+  },
+  {
+    "code": "F16H 61/4148",
+    "description": "••••••Circuitos de bucle abierto [2010.01]"
+  },
+  {
+    "code": "F16H 61/4157",
+    "description": "••••••Control del frenado, p. ej. evitando que la bomba sobrepase la velocidad de régimen cuando el motor actúa como bomba [2010.01]"
+  },
+  {
+    "code": "F16H 61/4165",
+    "description": "••••••Control de la refrigeración o de la lubricación [2010.01]"
+  },
+  {
+    "code": "F16H 61/4174",
+    "description": "••••••Control de la salida de gases, p. ej. eliminación del aire atrapado [2010.01]"
+  },
+  {
+    "code": "F16H 61/4183",
+    "description": "••••••Prevención o eliminación de las vibraciones o del ruido, p. ej. evitando cavitaciones [2010.01]"
+  },
+  {
+    "code": "F16H 61/4192",
+    "description": "••••••Detección de un mal funcionamiento o de un mal funcionamiento potencial, p. ej. dispositivo de seguridad positiva [2010.01]"
+  },
+  {
+    "code": "F16H 61/42",
+    "description": "••••••incluyendo el reglaje de una bomba o de un motor con caudal o cilindrada variable [2010.01]"
+  },
+  {
+    "code": "F16H 61/421",
+    "description": "••••••••Control de la cilindrada del motor por medios de control electro-hidraúlico, p. ej. utilizando electroválvulas [2010.01]"
+  },
+  {
+    "code": "F16H 61/423",
+    "description": "••••••••Control de la cilindrada del motor por medios de control por presión de fluido [2010.01]"
+  },
+  {
+    "code": "F16H 61/425",
+    "description": "••••••••Control de la cilindrada del motor por actuadores eléctricos [2010.01]"
+  },
+  {
+    "code": "F16H 61/427",
+    "description": "••••••••Control de la cilindrada del motor por medios de control mecánico, p. ej. mediante palancas o pedales [2010.01]"
+  },
+  {
+    "code": "F16H 61/431",
+    "description": "••••••••Control del caudal de la bomba por medios de control electro-hidraúlico, p. ej. utilizando electroválvulas [2010.01]"
+  },
+  {
+    "code": "F16H 61/433",
+    "description": "••••••••Control del caudal de la bomba por medios de control por presión de fluido [2010.01]"
+  },
+  {
+    "code": "F16H 61/435",
+    "description": "••••••••Control del caudal de la bomba por actuadores eléctricos [2010.01]"
+  },
+  {
+    "code": "F16H 61/437",
+    "description": "••••••••Control del caudal de la bomba por medios de control mecánico, p. ej. mediante palancas o pedales [2010.01]"
+  },
+  {
+    "code": "F16H 61/438",
+    "description": "••••••••Control del cambio de marcha adelante-atrás, p. ej. control del plato oscilante que provoca la descarga en dos direcciones [2010.01]"
+  },
+  {
+    "code": "F16H 61/439",
+    "description": "••••••••Control de la posición neutra, p. ej. por medios de bloqueo de la rotación con inclinación nula [2010.01]"
+  },
+  {
+    "code": "F16H 61/44",
+    "description": "••••••con más de una bomba o motor en servicio [2006.01]"
+  },
+  {
+    "code": "F16H 61/444",
+    "description": "••••••••haciendo variar el número de bombas o motores en servicio [2010.01]"
+  },
+  {
+    "code": "F16H 61/448",
+    "description": "••••••••Circuitos de control para bombas o motores en tandem [2010.01]"
+  },
+  {
+    "code": "F16H 61/452",
+    "description": "••••••••Control selectivo de múltiples bombas o motores, p. ej. cambio entre los modos serie y paralelo [2010.01]"
+  },
+  {
+    "code": "F16H 61/456",
+    "description": "••••••••Control del equilibrio del par o de la velocidad entre las bombas o los motores [2010.01]"
+  },
+  {
+    "code": "F16H 61/46",
+    "description": "••••••Regulación automática según las variables a controlar [2010.01]"
+  },
+  {
+    "code": "F16H 61/462",
+    "description": "••••••••para conseguir una relación de transmisión determinada [2010.01]"
+  },
+  {
+    "code": "F16H 61/465",
+    "description": "••••••••para conseguir una velocidad de entrada determinada [2010.01]"
+  },
+  {
+    "code": "F16H 61/468",
+    "description": "••••••••para conseguir un par de entrada determinado [2010.01]"
+  },
+  {
+    "code": "F16H 61/47",
+    "description": "••••••••para conseguir una velocidad de salida determinada [2010.01]"
+  },
+  {
+    "code": "F16H 61/472",
+    "description": "••••••••para conseguir un par de salida determinado [2010.01]"
+  },
+  {
+    "code": "F16H 61/475",
+    "description": "••••••••para conseguir una potencia determinada, p. ej. una potencia de entrada o una potencia de salida [2010.01]"
+  },
+  {
+    "code": "F16H 61/478",
+    "description": "••••••••para prevenir la sobrecarga, p. ej. limitación de presiones altas [2010.01]"
+  },
+  {
+    "code": "F16H 61/48",
+    "description": "••••hidrodinámico [2006.01]"
+  },
+  {
+    "code": "F16H 61/50",
+    "description": "••••••controladas por la variación del flujo, de la fuerza o de la reacción del líquido en el circuito de trabajo, manteniéndose el circuito de trabajo completamente lleno [2006.01]"
+  },
+  {
+    "code": "F16H 61/52",
+    "description": "••••••••modificando la posición de las paletas [2006.01]"
+  },
+  {
+    "code": "F16H 61/54",
+    "description": "••••••••••por medio de rotores de paletas inclinables con respecto al eje [2006.01]"
+  },
+  {
+    "code": "F16H 61/56",
+    "description": "••••••••••cambiando el ángulo de paleta [2006.01]"
+  },
+  {
+    "code": "F16H 61/58",
+    "description": "••••••••modificando las conexiones mecánicas de los rotores en sí o entre ellos [2006.01]"
+  },
+  {
+    "code": "F16H 61/60",
+    "description": "••••••••••empleando exclusivamente embragues de rueda libre [2006.01]"
+  },
+  {
+    "code": "F16H 61/62",
+    "description": "••••••••••incluyendo la utilización de una transmisión con cambio de velocidad o de un embrague en la conexión entre rotores (F16H 61/60 tiene prioridad; combinaciones de engranajes fluidos que transmiten el movimiento rotatorio con embragues mecánicos que cortocircuitan un engranaje fluido de tipo hidrocinético F16H 45/02) [2006.01]"
+  },
+  {
+    "code": "F16H 61/64",
+    "description": "••••••controladas por la variación del volumen del líquido en el circuito de trabajo [2006.01]"
+  },
+  {
+    "code": "F16H 61/66",
+    "description": "••especialmente adaptadas a las transmisiones de variación de cambio continua (F16H 61/38 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F16H 61/662",
+    "description": "••••con órganos flexibles sin fin [2006.01]"
+  },
+  {
+    "code": "F16H 61/664",
+    "description": "••••Transmisiones por fricción [2006.01]"
+  },
+  {
+    "code": "F16H 61/68",
+    "description": "••especialmente adaptadas a las transmisiones escalonadas [2006.01]"
+  },
+  {
+    "code": "F16H 61/682",
+    "description": "••••con interrupción del accionamiento [2006.01]"
+  },
+  {
+    "code": "F16H 61/684",
+    "description": "••••sin interrupción del accionamiento [2006.01]"
+  },
+  {
+    "code": "F16H 61/686",
+    "description": "••••••con engranajes orbitales [2006.01]"
+  },
+  {
+    "code": "F16H 61/688",
+    "description": "••••••con dos entradas, p. ej. selección por embrague entre dos circuitos de transmisión de par [2006.01]"
+  },
+  {
+    "code": "F16H 61/70",
+    "description": "••especialmente adaptadas a los cambios de relación con grupos de engranajes, es decir, con trenes de engranajes separados dispuestos en serie, p. ej. disposiciones de las cajas de velocidades del tipo de cambio de relaciones o desmultiplicadoras [2006.01]"
+  },
+  {
+    "code": "F16H 63/00",
+    "description": "Salidas de control de transmisiones que transmiten un movimiento rotativo para cambios de velocidad o para mecanismos de inversión [2006.01]"
+  },
+  {
+    "code": "F16H 63/02",
+    "description": "••Mecanismos finales de salida a este efecto; Medios de maniobra para los mecanismos finales de salida [2006.01]"
+  },
+  {
+    "code": "F16H 63/04",
+    "description": "••••siendo movido un solo mecanismo final de salida por un solo mecanismo final de maniobra [2006.01]"
+  },
+  {
+    "code": "F16H 63/06",
+    "description": "••••••teniendo el mecanismo final de salida un número indeterminado de posiciones [2006.01]"
+  },
+  {
+    "code": "F16H 63/08",
+    "description": "••••siendo movidos varios mecanismos finales de salida por un solo mecanismo final de maniobra común [2006.01]"
+  },
+  {
+    "code": "F16H 63/10",
+    "description": "••••••pudiendo el mecanismo final de maniobra efectuar una serie de movimientos diferentes e independientes, estando asociado cada uno de estos movimientos con un solo mecanismo final de salida [2006.01]"
+  },
+  {
+    "code": "F16H 63/12",
+    "description": "••••••••siendo efectuados varios movimientos diferentes simultáneamente [2006.01]"
+  },
+  {
+    "code": "F16H 63/14",
+    "description": "••••••estando los mecanismos finales de salida accionados sucesivamente por el movimiento repetido del mecanismo final de maniobra [2006.01]"
+  },
+  {
+    "code": "F16H 63/16",
+    "description": "••••••estando los mecanismos finales de salida accionados sucesivamente por el movimiento progresivo del mecanismo final de maniobra [2006.01]"
+  },
+  {
+    "code": "F16H 63/18",
+    "description": "••••••••incluyendo el mecanismo final de maniobra levas [2006.01]"
+  },
+  {
+    "code": "F16H 63/20",
+    "description": "••••••por preselección, seguida de un movimiento de cada mecanismo final de salida que está provocado por el movimiento que el mecanismo final de maniobra efectúa de dos modos diferentes, p. ej. cuando está guiado por un regulador de cambio [2006.01]"
+  },
+  {
+    "code": "F16H 63/22",
+    "description": "••••••••siendo movidos los mecanismos finales de salida simultáneamente por el mecanismo final de maniobra [2006.01]"
+  },
+  {
+    "code": "F16H 63/24",
+    "description": "••••siendo movido cada uno de los mecanismos finales de salida sólo por uno de los diferentes mecanismos finales de maniobra [2006.01]"
+  },
+  {
+    "code": "F16H 63/26",
+    "description": "••••••siendo provocados ciertos movimientos del mecanismo final de salida por otro mecanismo final de salida [2006.01]"
+  },
+  {
+    "code": "F16H 63/28",
+    "description": "••••provocando varios mecanismos finales de maniobra el movimiento del mismo mecanismo final de salida [2006.01]"
+  },
+  {
+    "code": "F16H 63/30",
+    "description": "••••Características estructurales de los mecanismos finales de salida [2006.01]"
+  },
+  {
+    "code": "F16H 63/32",
+    "description": "••••••Horquillas de cajas de cambios [2006.01]"
+  },
+  {
+    "code": "F16H 63/34",
+    "description": "••••••Mecanismos de bloqueo o de desactivación [2006.01]"
+  },
+  {
+    "code": "F16H 63/36",
+    "description": "••••••••Dispositivos de bloqueo [2006.01]"
+  },
+  {
+    "code": "F16H 63/38",
+    "description": "••••••Retenes [2006.01]"
+  },
+  {
+    "code": "F16H 63/40",
+    "description": "••incluyendo otras señales distintas de las señales para maniobrar los mecanismos finales de salida [2006.01]"
+  },
+  {
+    "code": "F16H 63/42",
+    "description": "••••Dispositivos indicadores de la relación de velocidades [2006.01]"
+  },
+  {
+    "code": "F16H 63/44",
+    "description": "••••señales hacia la unidad de control de una transmisión auxiliar [2006.01]"
+  },
+  {
+    "code": "F16H 63/46",
+    "description": "••••señales hacia un embrague exterior a la caja de cambios [2006.01]"
+  },
+  {
+    "code": "F16H 63/48",
+    "description": "••••señales hacia un freno de estacionamiento [2006.01]"
+  },
+  {
+    "code": "F16H 63/50",
+    "description": "••••señales hacia un motor [2006.01]"
+  }
+]

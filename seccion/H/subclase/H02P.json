@@ -1,0 +1,1150 @@
+[
+  {
+    "code": "H02P 1/00",
+    "description": "Disposiciones para arrancar motores eléctricos o convertidores dinamoeléctricos (arranque de motores síncronos con conmutadores electrónicos H02P 6/20, H02P 6/22; arranque de motores dínamoeléctricos que giran paso a paso H02P 8/04; control vectorial H02P 21/00) [2006.01]"
+  },
+  {
+    "code": "H02P 1/02",
+    "description": "••Detalles [2006.01]"
+  },
+  {
+    "code": "H02P 1/04",
+    "description": "••••Medios de control de la progresión de una secuencia de arranque en función del tiempo o en función de la corriente, la velocidad o de otro parámetro del motor [2006.01]"
+  },
+  {
+    "code": "H02P 1/06",
+    "description": "••••••Aparatos de arranque de varias posiciones accionadas manualmente [2006.01]"
+  },
+  {
+    "code": "H02P 1/08",
+    "description": "••••••Interruptor marcha-parada accionado manualmente controlando un conmutador de varias posiciones o impedancias para arrancar un motor [2006.01]"
+  },
+  {
+    "code": "H02P 1/10",
+    "description": "••••••Interruptor marcha-parada accionado manualmente, controlando relés o contactores que funcionan de forma sucesiva para el arranque de un motor [2006.01]"
+  },
+  {
+    "code": "H02P 1/12",
+    "description": "••••••Interruptores centrífugos accionados por el motor [2006.01]"
+  },
+  {
+    "code": "H02P 1/14",
+    "description": "••••••Dispositivos centrífugos, de resistencias sensibles a la presión, accionados por el motor [2006.01]"
+  },
+  {
+    "code": "H02P 1/16",
+    "description": "••para hacer arrancar máquinas dinamoeléctricas o convertidores dinamoeléctricos [2006.01]"
+  },
+  {
+    "code": "H02P 1/18",
+    "description": "••••para hacer arrancar individualmente un motor de corriente continua [2006.01]"
+  },
+  {
+    "code": "H02P 1/20",
+    "description": "••••••por disminución progresiva de una resistencia en serie con el arrollamiento del inducido [2006.01]"
+  },
+  {
+    "code": "H02P 1/22",
+    "description": "••••••en uno o en otro sentido de rotación [2006.01]"
+  },
+  {
+    "code": "H02P 1/24",
+    "description": "••••para hacer arrancar individualmente un motor de colector (arranque de motores de colectores de corriente alterna y corriente continua H02P 1/18) [2006.01]"
+  },
+  {
+    "code": "H02P 1/26",
+    "description": "••••para hacer arrancar individualmente un motor de inducción polifásico [2006.01]"
+  },
+  {
+    "code": "H02P 1/28",
+    "description": "••••••por aumento progresivo de la tensión aplicada al circuito primario del motor [2006.01]"
+  },
+  {
+    "code": "H02P 1/30",
+    "description": "••••••por aumento progresivo de la frecuencia de alimentación al circuito primario del motor [2006.01]"
+  },
+  {
+    "code": "H02P 1/32",
+    "description": "••••••por conmutación estrella-triángulo [2006.01]"
+  },
+  {
+    "code": "H02P 1/34",
+    "description": "••••••por disminución progresiva de una impedancia en el circuito secundario [2006.01]"
+  },
+  {
+    "code": "H02P 1/36",
+    "description": "••••••••siendo esta impedancia una resistencia líquida [2006.01]"
+  },
+  {
+    "code": "H02P 1/38",
+    "description": "••••••por cambio de número de polos [2006.01]"
+  },
+  {
+    "code": "H02P 1/40",
+    "description": "••••••en uno o en otro sentido de rotación [2006.01]"
+  },
+  {
+    "code": "H02P 1/42",
+    "description": "••••para hacer arrancar individualmente un motor de inducción monofásica [2006.01]"
+  },
+  {
+    "code": "H02P 1/44",
+    "description": "••••••por fase auxiliar con un condensador [2006.01]"
+  },
+  {
+    "code": "H02P 1/46",
+    "description": "••••para hacer arrancar individualmente un motor síncrono [2006.01]"
+  },
+  {
+    "code": "H02P 1/48",
+    "description": "••••••por cambio del número de polos [2006.01]"
+  },
+  {
+    "code": "H02P 1/50",
+    "description": "••••••por paso de la marcha asíncrona a la marcha síncrona (H02P 1/48 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H02P 1/52",
+    "description": "••••••por aumento progresivo de la frecuencia de alimentación del motor [2006.01]"
+  },
+  {
+    "code": "H02P 1/54",
+    "description": "••••para arrancar dos o más motores dinamoeléctricos [2006.01]"
+  },
+  {
+    "code": "H02P 1/56",
+    "description": "••••••simultáneamente [2006.01]"
+  },
+  {
+    "code": "H02P 1/58",
+    "description": "••••••sucesivamente [2006.01]"
+  },
+  {
+    "code": "H02P 3/00",
+    "description": "Disposiciones para parar o poner en ralentí motores, generadores eléctricos o convertidores dinamoeléctricos (parada de motores síncronos con conmutadores electrónicos H02P 6/24; parada de motores dínamoeléctricos que giran paso a paso H02P 8/24; control vectorial H02P 21/00) [2006.01]"
+  },
+  {
+    "code": "H02P 3/02",
+    "description": "••Detalles [2006.01]"
+  },
+  {
+    "code": "H02P 3/04",
+    "description": "••••Medios de parada o de ralentí por un freno separado, p. ej. freno de fricción o freno de corrientes de Foucault [2006.01]"
+  },
+  {
+    "code": "H02P 3/06",
+    "description": "••para parar o ralentizar individualmente un motor dinamoeléctrico o un convertidor dinamoeléctrico [2006.01]"
+  },
+  {
+    "code": "H02P 3/08",
+    "description": "••••para parar o ralentizar un motor de corriente continua [2006.01]"
+  },
+  {
+    "code": "H02P 3/10",
+    "description": "••••••por inversión de las conexiones de alimentación [2006.01]"
+  },
+  {
+    "code": "H02P 3/12",
+    "description": "••••••por frenado con cortocircuito o con resistencia [2006.01]"
+  },
+  {
+    "code": "H02P 3/14",
+    "description": "••••••por frenado de recuperación [2006.01]"
+  },
+  {
+    "code": "H02P 3/16",
+    "description": "••••••por frenados eléctricos y mecánicos combinados [2006.01]"
+  },
+  {
+    "code": "H02P 3/18",
+    "description": "••••para parar o ralentizar un motor de corriente alterna [2006.01]"
+  },
+  {
+    "code": "H02P 3/20",
+    "description": "••••••por inversión del orden en el cual las fases son conectadas al motor [2006.01]"
+  },
+  {
+    "code": "H02P 3/22",
+    "description": "••••••por frenado con cortocircuito o con resistencia [2006.01]"
+  },
+  {
+    "code": "H02P 3/24",
+    "description": "••••••por aplicación de corriente continua al motor [2006.01]"
+  },
+  {
+    "code": "H02P 3/26",
+    "description": "••••••por frenados eléctricos y mecánicos combinados [2006.01]"
+  },
+  {
+    "code": "H02P 4/00",
+    "description": "Disposiciones especialmente adaptadas para el ajuste o el control de la velocidad o del par de motores eléctricos que pueden conectarse a dos o más suministros de energría eléctrica diferentes (arranque H02P 21/00) [2006.01]"
+  },
+  {
+    "code": "H02P 5/00",
+    "description": "Disposiciones especialmente adaptadas para la regulación o el control de la velocidad o del par de dos o más motores eléctricos (H02P 6/04, H02P 8/40 tienen prioridad) [2016.01]"
+  },
+  {
+    "code": "H02P 5/46",
+    "description": "••para la regulación de velocidad de dos o más motores dinamoeléctricos, en relación a otro [2006.01]"
+  },
+  {
+    "code": "H02P 5/48",
+    "description": "••••por comparación de valores mecánicos que representan las velocidades [2016.01]"
+  },
+  {
+    "code": "H02P 5/485",
+    "description": "••••••utilizando el movimiento diferencial de los dos motores, p. ej. utilizando cajas de engranajes diferenciales [2016.01]"
+  },
+  {
+    "code": "H02P 5/49",
+    "description": "••••••cerrando o abriendo contactos eléctricos de manera intermitente [2016.01]"
+  },
+  {
+    "code": "H02P 5/50",
+    "description": "••••por comparación de los valores eléctricos que representan las velocidades [2016.01]"
+  },
+  {
+    "code": "H02P 5/505",
+    "description": "••••••utilizando líneas de compensación, p. ej. líneas del rotor y del estátor de primeros y segundos motores [2016.01]"
+  },
+  {
+    "code": "H02P 5/51",
+    "description": "••••••Control directo del ratio [2016.01]"
+  },
+  {
+    "code": "H02P 5/52",
+    "description": "••••proporcionando adicionalmente control del desplazamiento angular relativo [2016.01]"
+  },
+  {
+    "code": "H02P 5/54",
+    "description": "••••••Comparación de la velocidad y de la posición entre los motores por medios mecánicos [2016.01]"
+  },
+  {
+    "code": "H02P 5/56",
+    "description": "••••••Comparación de la velocidad y de la posición entre los motores por medios eléctricos [2016.01]"
+  },
+  {
+    "code": "H02P 5/60",
+    "description": "••control de combinaciones de motores de CC y dinamoeléctricos de CA (H02P 5/46 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H02P 5/68",
+    "description": "••control de dos o más motores dinamoeléctricos CC (H02P 5/46, H02P 5/60 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H02P 5/685",
+    "description": "••••conectados eléctricamente en serie, p. ej con la misma intensidad de corriente [2006.01]"
+  },
+  {
+    "code": "H02P 5/69",
+    "description": "••••acoplados mecánicamente mediante engranajes [2006.01]"
+  },
+  {
+    "code": "H02P 5/695",
+    "description": "••••••Engranajes diferenciales [2006.01]"
+  },
+  {
+    "code": "H02P 5/74",
+    "description": "••control de dos o más motores dinamoeléctricos de CA (H02P 5/46, H02P 5/60 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H02P 5/747",
+    "description": "••••acoplados mecánicamente mediante engranajes [2006.01]"
+  },
+  {
+    "code": "H02P 5/753",
+    "description": "••••••Engranajes diferenciales [2006.01]"
+  },
+  {
+    "code": "H02P 6/00",
+    "description": "Disposiciones para el control de motores síncronos u otros motores dinamoeléctricos mediante conmutación electrónica en función de la posición del rotor; Conmutadores electrónicos a este fin (control vectorial H02P 21/00) [2016.01]"
+  },
+  {
+    "code": "H02P 6/04",
+    "description": "••Disposiciones para controlar o regular la velocidad o el par de más de un motor (H02P 6/10 tiene prioridad) [2016.01]"
+  },
+  {
+    "code": "H02P 6/06",
+    "description": "••Disposiciones para la regulación de la velocidad de un solo motor en el que la velocidad del motor es medida y comparada con un valor físico dado para ajustar la velocidad del motor [2006.01]"
+  },
+  {
+    "code": "H02P 6/08",
+    "description": "••Disposiciones para el control de la velocidad o el par de un solo motor (H02P 6/10, H02P 6/28 tienen proridad) [2016.01]"
+  },
+  {
+    "code": "H02P 6/10",
+    "description": "••Disposiciones para el control de la ondulación del par motor, p. ej. asegurando una ondulación reducida del par motor [2006.01]"
+  },
+  {
+    "code": "H02P 6/12",
+    "description": "••Supervisión de la conmutación; Indicación de un fallo de conmutación [2006.01]"
+  },
+  {
+    "code": "H02P 6/14",
+    "description": "••Conmutadores electrónicos [2016.01]"
+  },
+  {
+    "code": "H02P 6/15",
+    "description": "••••Control del tiempo de conmutación [2016.01]"
+  },
+  {
+    "code": "H02P 6/16",
+    "description": "••••Circuitos para detección de la posición [2016.01]"
+  },
+  {
+    "code": "H02P 6/17",
+    "description": "••••••y para la generación de información sobre velocidad [2016.01]"
+  },
+  {
+    "code": "H02P 6/18",
+    "description": "••••••sin elementos separados para detectar la posición [2016.01]"
+  },
+  {
+    "code": "H02P 6/182",
+    "description": "••••••••que utilizan la fuerza electromotriz en los bobinados [2016.01]"
+  },
+  {
+    "code": "H02P 6/185",
+    "description": "••••••••que utilizan sensores de inductancia, p. ej. excitación por impulsos [2016.01]"
+  },
+  {
+    "code": "H02P 6/20",
+    "description": "••Disposiciones para el arranque (H02P 6/08 tiene prioridad) [2016.01]"
+  },
+  {
+    "code": "H02P 6/21",
+    "description": "••••Arranque de lazo abierto [2016.01]"
+  },
+  {
+    "code": "H02P 6/22",
+    "description": "••••en una dirección seleccionada de rotación [2006.01]"
+  },
+  {
+    "code": "H02P 6/24",
+    "description": "••Disposiciones para la parada [2006.01]"
+  },
+  {
+    "code": "H02P 6/26",
+    "description": "••Disposiciones para el control de motores monofásicos [2016.01]"
+  },
+  {
+    "code": "H02P 6/28",
+    "description": "••Disposiciones para el control de la corriente (H02P 6/10 tiene prioridad) [2016.01]"
+  },
+  {
+    "code": "H02P 6/30",
+    "description": "••Disposiciones para controlar el sentido de giro (H02P 6/22 tiene prioridad) [2016.01]"
+  },
+  {
+    "code": "H02P 6/32",
+    "description": "••Disposiciones para el control de motores de campo bobinados, p. ej. motores con bobinas de excitación [2016.01]"
+  },
+  {
+    "code": "H02P 6/34",
+    "description": "••Modelado o simulación para fines de control [2016.01]"
+  },
+  {
+    "code": "H02P 7/00",
+    "description": "Disposiciones para la regulación o el control de la velocidad o el par de motores eléctricos de corriente continua [2016.01]"
+  },
+  {
+    "code": "H02P 7/02",
+    "description": "••siendo los motores de corriente continua de tipo lineal [2016.01]"
+  },
+  {
+    "code": "H02P 7/025",
+    "description": "••••siendo los motores de corriente continua de tipo bobina móvil, p. ej. motores de bobina acústica [2016.01]"
+  },
+  {
+    "code": "H02P 7/03",
+    "description": "••para controlar la dirección de rotación de motores de corriente continua [2016.01]"
+  },
+  {
+    "code": "H02P 7/06",
+    "description": "••para controlar un motor dinamoeléctrico individual de corriente continua por variacíon del campo o de la corriente de inducido [2006.01]"
+  },
+  {
+    "code": "H02P 7/08",
+    "description": "••••por control manual, sin potencia auxiliar [2006.01]"
+  },
+  {
+    "code": "H02P 7/10",
+    "description": "••••••del campo del motor solamente [2006.01]"
+  },
+  {
+    "code": "H02P 7/12",
+    "description": "••••••••conmutando la excitación en serie a derivación o viceversa [2006.01]"
+  },
+  {
+    "code": "H02P 7/14",
+    "description": "••••••de la tensión aplicada al inducido con o sin control de campo [2006.01]"
+  },
+  {
+    "code": "H02P 7/18",
+    "description": "••••por control principal con potencia auxiliar [2006.01]"
+  },
+  {
+    "code": "H02P 7/20",
+    "description": "••••••utilizando un conmutador de varias posiciones, p. ej. de tambor, controlando el circuito del motor por medio de relés (H02P 7/24, H02P 7/30 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H02P 7/22",
+    "description": "••••••utilizando un conmutador de varias posiciones, p. ej. de tambor, controlando el circuito del motor por medio de un conmutador de varias posiciones accionado por un motor piloto o de una resistencia variable ajustada por un motor piloto (H02P 7/24, H02P 7/30 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H02P 7/24",
+    "description": "••••••utilizando tubos de descarga o dispositivos semiconductores [2006.01]"
+  },
+  {
+    "code": "H02P 7/26",
+    "description": "••••••••utilizando tubos de descarga [2006.01]"
+  },
+  {
+    "code": "H02P 7/28",
+    "description": "••••••••que utilizan dispositivos semiconductores [2016.01]"
+  },
+  {
+    "code": "H02P 7/281",
+    "description": "••••••••••siendo el motor de corriente continua operado en cuatro cuadrantes [2016.01]"
+  },
+  {
+    "code": "H02P 7/282",
+    "description": "••••••••••controlando solamente la alimentación de campo [2016.01]"
+  },
+  {
+    "code": "H02P 7/285",
+    "description": "••••••••••controlando solamente la alimentación del inducido [2016.01]"
+  },
+  {
+    "code": "H02P 7/288",
+    "description": "••••••••••••utilizando una impedancia variable [2016.01]"
+  },
+  {
+    "code": "H02P 7/29",
+    "description": "••••••••••••utilizando la modulación por impulsos [2016.01]"
+  },
+  {
+    "code": "H02P 7/291",
+    "description": "••••••••••••••con control de encendido y apagado entre dos puntos de ajuste, p. ej. control por histéresis [2016.01]"
+  },
+  {
+    "code": "H02P 7/292",
+    "description": "••••••••••••utilizando convertidores estáticos, p. ej. de corriente alterna a corriente continua [2016.01]"
+  },
+  {
+    "code": "H02P 7/293",
+    "description": "••••••••••••••mediante el control de fase (H02P 7/295 tiene prioridad) [2016.01]"
+  },
+  {
+    "code": "H02P 7/295",
+    "description": "••••••••••••••del tipo que tiene un tiristor o dispositivo similar en serie con la alimentación y el motor [2016.01]"
+  },
+  {
+    "code": "H02P 7/298",
+    "description": "••••••••••controlando la alimentación del inducido y del campo [2016.01]"
+  },
+  {
+    "code": "H02P 7/30",
+    "description": "••••••utilizando dispositivos magnéticos con grado de saturación controlable, es decir, transductores [2006.01]"
+  },
+  {
+    "code": "H02P 7/32",
+    "description": "••••••utilizando máquinas excitadas por reacción de inducido, p. ej. metadina, amplidina, retotrol [2006.01]"
+  },
+  {
+    "code": "H02P 7/34",
+    "description": "••••••utilizando un montaje Ward-Leonard [2016.01]"
+  },
+  {
+    "code": "H02P 7/343",
+    "description": "••••••••en el que se controlan los campos del generador y del motor [2016.01]"
+  },
+  {
+    "code": "H02P 7/347",
+    "description": "••••••••en el que se controla sólo el campo del generador [2016.01]"
+  },
+  {
+    "code": "H02P 8/00",
+    "description": "Disposiciones para el control de motores dinamoeléctricos rotativos paso a paso [2006.01]"
+  },
+  {
+    "code": "H02P 8/02",
+    "description": "••especialmente adaptados para los motores paso a paso monofásicos o bipolares, p. ej. motores de reloj [2006.01]"
+  },
+  {
+    "code": "H02P 8/04",
+    "description": "••Disposiciones para la puesta en marcha [2006.01]"
+  },
+  {
+    "code": "H02P 8/06",
+    "description": "••••en una dirección seleccionada de rotación [2006.01]"
+  },
+  {
+    "code": "H02P 8/08",
+    "description": "••••Determinación de la dirección antes de la puesta en marcha [2006.01]"
+  },
+  {
+    "code": "H02P 8/10",
+    "description": "••••Determinación de los impulsos para la puesta en marcha; Corriente de refuerzo durante la puesta en marcha [2006.01]"
+  },
+  {
+    "code": "H02P 8/12",
+    "description": "••Control o estabilización de la corriente [2006.01]"
+  },
+  {
+    "code": "H02P 8/14",
+    "description": "••Disposiciones para controlar la velocidad o para controlar la velocidad y el par (H02P 8/12, H02P 8/22 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H02P 8/16",
+    "description": "••••Reducción de la energía disipada o de la energía de alimentación [2006.01]"
+  },
+  {
+    "code": "H02P 8/18",
+    "description": "••••Determinación de los impulsos, p. ej. para reducir la ondulación del par [2006.01]"
+  },
+  {
+    "code": "H02P 8/20",
+    "description": "••••caracterizadas por un funcionamiento bidireccional [2006.01]"
+  },
+  {
+    "code": "H02P 8/22",
+    "description": "••Control de la dimensión del paso; Escalonamiento intermedio, p. ej. micro-escalonamiento [2006.01]"
+  },
+  {
+    "code": "H02P 8/24",
+    "description": "••Disposiciones para la parada (H02P 8/32 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H02P 8/26",
+    "description": "••••Memorización del impulso final en el momento de la parada [2006.01]"
+  },
+  {
+    "code": "H02P 8/28",
+    "description": "••••Desconexión de la fuente de energía en el momento de la parada [2006.01]"
+  },
+  {
+    "code": "H02P 8/30",
+    "description": "••••Mantenimiento de la posición en el momento de la parada [2006.01]"
+  },
+  {
+    "code": "H02P 8/32",
+    "description": "••Reducción del rebasamiento o de la oscilación, p. ej. amortiguación [2006.01]"
+  },
+  {
+    "code": "H02P 8/34",
+    "description": "••Control del funcionamiento (H02P 8/36 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H02P 8/36",
+    "description": "••Protección contra los fallos, p. ej. contra el calentamiento excesivo o la desconexión; Indicación de los fallos [2006.01]"
+  },
+  {
+    "code": "H02P 8/38",
+    "description": "••••siendo el fallo una desconexión [2006.01]"
+  },
+  {
+    "code": "H02P 8/40",
+    "description": "••Adaptaciones especiales para controlar dos o más motores paso a paso [2006.01]"
+  },
+  {
+    "code": "H02P 8/42",
+    "description": "••caracterizados por motores distintos de los motores paso a paso, que se hacen funcionar paso a paso [2006.01]"
+  },
+  {
+    "code": "H02P 9/00",
+    "description": "Disposiciones para el control de generadores eléctricos con el propósito de obtener las características deseadas en la salida [2006.01]"
+  },
+  {
+    "code": "H02P 9/02",
+    "description": "••Detalles [2006.01]"
+  },
+  {
+    "code": "H02P 9/04",
+    "description": "••Control efectuado sobre un motor primario no eléctrico y que depende del valor de una característica eléctrica de la salida del generador (para la realización del control de la máquina de arrastre en general, ver la clase apropiada concerniente a esta máquina) [2006.01]"
+  },
+  {
+    "code": "H02P 9/06",
+    "description": "••Control efectuado sobre un embrague u otro medio mecánico de transmisión de potencia y que depende del valor de una característica eléctrica de la salida del generador (para la realización del control del medio de transmisión de potencia, ver la clase apropiada concerniente a este medio) [2006.01]"
+  },
+  {
+    "code": "H02P 9/08",
+    "description": "••Control del circuito del generador durante el arranque o la parada de los medios de arrastre, p. ej. para iniciar la excitación [2006.01]"
+  },
+  {
+    "code": "H02P 9/10",
+    "description": "••Control efectuado sobre el circuito de excitación del generador con el fin de reducir los efectos nocivos de sobrecarga o de fenómenos transitorios, p. ej. aplicación, supresión o cambio repentino de carga [2006.01]"
+  },
+  {
+    "code": "H02P 9/12",
+    "description": "••••para desmagnetizar; para reducir los efectos del magnetismo remanente; para evitar una inversión de la polaridad [2006.01]"
+  },
+  {
+    "code": "H02P 9/14",
+    "description": "••por variación del campo (H02P 9/08, H02P 9/10 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H02P 9/16",
+    "description": "••••debido a la variación de una resistencia insertada en el circuito de campo, utilizando resistencias puestas en o fuera del circuito paso a paso [2006.01]"
+  },
+  {
+    "code": "H02P 9/18",
+    "description": "••••••siendo provocada la puesta en o fuera del circuito, por un servomotor, un instrumento de medida o un relé [2006.01]"
+  },
+  {
+    "code": "H02P 9/20",
+    "description": "••••debido a la variación de una resistencia óhmica variable continuamente [2006.01]"
+  },
+  {
+    "code": "H02P 9/22",
+    "description": "••••••comprendiendo una resistencia de apilamiento de carbón [2006.01]"
+  },
+  {
+    "code": "H02P 9/24",
+    "description": "••••debido a la variación de la relación de duración de apertura y de cierre de contactos intermitentes, p. ej. utilizando un regulador Tirrill [2006.01]"
+  },
+  {
+    "code": "H02P 9/26",
+    "description": "••••utilizando tubos de descarga o dispositivos de semiconductores (H02P 9/34 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H02P 9/28",
+    "description": "••••••utilizando tubos de descarga [2006.01]"
+  },
+  {
+    "code": "H02P 9/30",
+    "description": "••••••utilizando dispositivos semiconductores [2006.01]"
+  },
+  {
+    "code": "H02P 9/32",
+    "description": "••••utilizando dispositivos magnéticos con grado de saturación controlable (H02P 9/34 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H02P 9/34",
+    "description": "••••utilizando dispositivos magnéticos con grado de saturación controlable en combinación con tubos de descarga controlados o dispositivos semiconductores controlados [2006.01]"
+  },
+  {
+    "code": "H02P 9/36",
+    "description": "••••utilizando máquinas excitadas por reacción del inducido [2006.01]"
+  },
+  {
+    "code": "H02P 9/38",
+    "description": "••••Autoexcitación por corriente resultante de una rectificación a la vez de la tensión de salida y de la corriente de salida del generador [2006.01]"
+  },
+  {
+    "code": "H02P 9/40",
+    "description": "••por variación de reluctancia del circuito magnético del generador [2006.01]"
+  },
+  {
+    "code": "H02P 9/42",
+    "description": "••para obtener la frecuencia deseada sin hacer variar la velocidad del generador [2006.01]"
+  },
+  {
+    "code": "H02P 9/44",
+    "description": "••Control de la frecuencia y de la tensión según una relación predeterminada, p. ej. con una relación constante [2006.01]"
+  },
+  {
+    "code": "H02P 9/46",
+    "description": "••Control de un generador asíncrono por variación de una capacidad [2006.01]"
+  },
+  {
+    "code": "H02P 9/48",
+    "description": "••Disposiciones para obtener características constantes en la salida, siendo el generador de velocidad variable, p. ej. sobre un vehículo (H02P 9/04-H02P 9/46 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H02P 11/00",
+    "description": "Disposiciones para el control de convertidores dinamoeléctricos [2006.01]"
+  },
+  {
+    "code": "H02P 11/04",
+    "description": "••para controlar convertidores dinamoeléctricos que tienen una salida en corriente continua [2006.01]"
+  },
+  {
+    "code": "H02P 11/06",
+    "description": "••para controlar convertidores dinamoeléctricos que tienen una salida en corriente alterna [2006.01]"
+  },
+  {
+    "code": "H02P 13/00",
+    "description": "Disposiciones de control de transformadores, reactancias o bobinas de choque con el propósito de obtener unas características deseadas a la salida [2006.01]"
+  },
+  {
+    "code": "H02P 13/06",
+    "description": "••por cambio de tomas; por modificación de las conexiones de los arrollamientos [2006.01]"
+  },
+  {
+    "code": "H02P 13/08",
+    "description": "••por colector de corriente deslizándose a lo largo del arrollamiento [2006.01]"
+  },
+  {
+    "code": "H02P 13/10",
+    "description": "••por núcleo, bobina o pantalla desplazable, p. ej. por regulador de inducción [2006.01]"
+  },
+  {
+    "code": "H02P 13/12",
+    "description": "••por variación de la polarización magnética [2006.01]"
+  },
+  {
+    "code": "H02P 15/00",
+    "description": "Disposiciones de control de frenos o embragues dinamoeléctricos (control de velocidad H02P 21/00) [2006.01]"
+  },
+  {
+    "code": "H02P 15/02",
+    "description": "••Control conjunto de frenos y embragues [2006.01]"
+  },
+  {
+    "code": "H02P 17/00",
+    "description": "Disposiciones para el control de transmisiones dinamoeléctricas (control vectorial H02P 21/00) [2006.01]"
+  },
+  {
+    "code": "H02P 21/00",
+    "description": "Disposiciones o métodos de control de máquinas eléctricas mediante control por vector, p. ej., por control de la orientación del campo [2016.01]"
+  },
+  {
+    "code": "H02P 21/02",
+    "description": "••especialmente adaptados para la optimización del rendimiento a baja carga [2006.01]"
+  },
+  {
+    "code": "H02P 21/04",
+    "description": "••especialmente adaptados para velocidades muy bajas [2006.01]"
+  },
+  {
+    "code": "H02P 21/05",
+    "description": "••especialmente adaptados para la amortiguación de las oscilaciones del motor, p. ej. para la reducción del penduleo [2006.01]"
+  },
+  {
+    "code": "H02P 21/06",
+    "description": "••CControl basado en el flujo del rotor implicando la utilización de sensores de posición del rotor o sensores de velocidad del rotor [2016.01]"
+  },
+  {
+    "code": "H02P 21/08",
+    "description": "••••Control indirecto de orientación del campo; Control predictivo del flujo del rotor [2016.01]"
+  },
+  {
+    "code": "H02P 21/09",
+    "description": "••••••Cálculo del ángulo de fase del campo basado en la ecuación de tensión del rotor mediante la adición de frecuencia de deslizamiento y frecuencia proporcional a la velocidad [2016.01]"
+  },
+  {
+    "code": "H02P 21/10",
+    "description": "••••Control de orientación del campo directo; Control de retroalimentación del flujo del rotor [2016.01]"
+  },
+  {
+    "code": "H02P 21/12",
+    "description": "••Control basado en el flujo del estátor implicando la utilización de sensores de posición de rotor o sensores de velocidad del rotor [2016.01]"
+  },
+  {
+    "code": "H02P 21/13",
+    "description": "••Control por observador, p. ej. utilizando observadores de Luenberger o filtros de Kalman [2006.01]"
+  },
+  {
+    "code": "H02P 21/14",
+    "description": "••Estimación o adaptación de parámetros de la máquina, p. ej., flujo, corriente o voltaje [2016.01]"
+  },
+  {
+    "code": "H02P 21/16",
+    "description": "••••Estimación de constantes, p. ej. la constante de tiempo del rotor [2016.01]"
+  },
+  {
+    "code": "H02P 21/18",
+    "description": "••••Estimación de la posición o la velocidad [2016.01]"
+  },
+  {
+    "code": "H02P 21/20",
+    "description": "••••Estimación del par [2016.01]"
+  },
+  {
+    "code": "H02P 21/22",
+    "description": "••Control de corriente, p. ej. utilizando un bucle de control de corriente [2016.01]"
+  },
+  {
+    "code": "H02P 21/24",
+    "description": "••Control de vectores que no implique la utilización de sensores de posición del rotor o velocidad del rotor [2016.01]"
+  },
+  {
+    "code": "H02P 21/26",
+    "description": "••••Control basado en el flujo del rotor [2016.01]"
+  },
+  {
+    "code": "H02P 21/28",
+    "description": "••••Control basado en el flujo del estátor [2016.01]"
+  },
+  {
+    "code": "H02P 21/30",
+    "description": "••••••Control directo del par [DTC] o método de aceleración de campo [FAM] [2016.01]"
+  },
+  {
+    "code": "H02P 21/32",
+    "description": "••••Determinación de la posición inicial del rotor (H02P 21/34 tiene prioridad) [2016.01]"
+  },
+  {
+    "code": "H02P 21/34",
+    "description": "••Disposiciones para el arranque [2016.01]"
+  },
+  {
+    "code": "H02P 21/36",
+    "description": "••Disposiciones para frenar o ralentizar; Control de cuatro cuadrantes [2016.01]"
+  },
+  {
+    "code": "H02P 23/00",
+    "description": "Disposiciones o métodos para el control de motores de corriente alterna que se caracterizan por un método de control que no sea control por vector [2016.01]"
+  },
+  {
+    "code": "H02P 23/02",
+    "description": "••especialmente adaptados para la optimización de la eficiencia a baja carga [2006.01]"
+  },
+  {
+    "code": "H02P 23/03",
+    "description": "••especialmente adaptados para velocidades muy bajas [2006.01]"
+  },
+  {
+    "code": "H02P 23/04",
+    "description": "••especialmente adaptados para la amortiguación de las oscilaciones del motor, p. ej. para la reducción del  \"hunting\" (oscilación de campo) [2006.01]"
+  },
+  {
+    "code": "H02P 23/06",
+    "description": "••Control del motor en cuatro cuadrantes [2016.01]"
+  },
+  {
+    "code": "H02P 23/07",
+    "description": "••••Motores de inducción asíncronos monofásicos o polifásicos [2016.01]"
+  },
+  {
+    "code": "H02P 23/08",
+    "description": "••Control basado en la frecuencia de deslizamiento, p. ej. adición de la frecuencia de deslizamiento y una frecuencia proporcional a la velocidad [2006.01]"
+  },
+  {
+    "code": "H02P 23/10",
+    "description": "••Control mediante la adición de una corriente CC [2006.01]"
+  },
+  {
+    "code": "H02P 23/12",
+    "description": "••Control por observador, p. ej. utilizando observadores de Luenberger o filtros de Kalman [2006.01]"
+  },
+  {
+    "code": "H02P 23/14",
+    "description": "••Estimación o adaptación de parámetros de las máquinas, p. ej. constante de tiempo de rotor, flujo, velocidad, corriente o voltaje [2006.01]"
+  },
+  {
+    "code": "H02P 23/16",
+    "description": "••Control de la velocidad angular de un eje (H02P 23/18 tiene prioridad) [2016.01]"
+  },
+  {
+    "code": "H02P 23/18",
+    "description": "••Control de la velocidad angular, junto con la posición angular o fase [2016.01]"
+  },
+  {
+    "code": "H02P 23/20",
+    "description": "••Control de la aceleración o desaceleración [2016.01]"
+  },
+  {
+    "code": "H02P 23/22",
+    "description": "••Control digital de la velocidad usando un oscilador de referencia, un retroalimentador de impulsos proporcional a la velocidad y un comparador digital [2016.01]"
+  },
+  {
+    "code": "H02P 23/24",
+    "description": "••Control de la dirección, p. ej. en el sentido de las agujas del reloj o en sentido inverso [2016.01]"
+  },
+  {
+    "code": "H02P 23/26",
+    "description": "••Control del factor de potencia [PFC] [2016.01]"
+  },
+  {
+    "code": "H02P 23/28",
+    "description": "••Control del motor variando la frecuencia de conmutación de interruptores conectados a una alimentación de corriente continua y las fases del motor [2016.01]"
+  },
+  {
+    "code": "H02P 23/30",
+    "description": "••Control de par directo [DTC] o método de aceleración de campo [FAM] [2016.01]"
+  },
+  {
+    "code": "H02P 25/00",
+    "description": "Disposiciones o métodos para el control de motores de corriente alterna caracterizados por la clase de motor de corriente alterna o por detalles estructurales [2006.01]"
+  },
+  {
+    "code": "H02P 25/02",
+    "description": "••caracterizados por el tipo de motor [2016.01]"
+  },
+  {
+    "code": "H02P 25/022",
+    "description": "••••Motores síncronos (H02P 25/064 tiene prioridad) [2016.01]"
+  },
+  {
+    "code": "H02P 25/024",
+    "description": "••••••controlados por la frecuencia de alimentación [2016.01]"
+  },
+  {
+    "code": "H02P 25/026",
+    "description": "••••••••de manera que permiten detectar la posición del rotor [2016.01]"
+  },
+  {
+    "code": "H02P 25/028",
+    "description": "••••••con control de cuatro cuadrantes [2016.01]"
+  },
+  {
+    "code": "H02P 25/03",
+    "description": "••••••con excitación sin escobillas [2016.01]"
+  },
+  {
+    "code": "H02P 25/032",
+    "description": "••••Motores alternativos, oscilantes o vibratorios [2016.01]"
+  },
+  {
+    "code": "H02P 25/034",
+    "description": "••••••Motores de bobina acústica (motores de bobina acústica impulsada por corriente continua H02P 7/025) [2016.01]"
+  },
+  {
+    "code": "H02P 25/04",
+    "description": "••••motores monofásicos, p. ej. motores con condensador [2006.01]"
+  },
+  {
+    "code": "H02P 25/06",
+    "description": "••••Motores lineales [2016.01]"
+  },
+  {
+    "code": "H02P 25/062",
+    "description": "••••••de tipo inducción [2016.01]"
+  },
+  {
+    "code": "H02P 25/064",
+    "description": "••••••de tipo síncrono [2016.01]"
+  },
+  {
+    "code": "H02P 25/066",
+    "description": "••••••••de tipo paso a paso [2016.01]"
+  },
+  {
+    "code": "H02P 25/08",
+    "description": "••••Motores de reluctancia [2016.01]"
+  },
+  {
+    "code": "H02P 25/083",
+    "description": "••••••Disposiciones para el aumento de la velocidad de conmutación de una bobina a la siguiente [2016.01]"
+  },
+  {
+    "code": "H02P 25/086",
+    "description": "••••••Commutation [2016.01]"
+  },
+  {
+    "code": "H02P 25/089",
+    "description": "••••••••Control sin sensores (por control directo del par H02P 23/30) [2016.01]"
+  },
+  {
+    "code": "H02P 25/092",
+    "description": "••••••Convertidores especialmente adaptados para el control de motores de reluctancia [2016.01]"
+  },
+  {
+    "code": "H02P 25/098",
+    "description": "••••••Disposiciones para reducir ondulaciones de par [2016.01]"
+  },
+  {
+    "code": "H02P 25/10",
+    "description": "••••Motores de colector, p. ej. Motores de repulsión [2006.01]"
+  },
+  {
+    "code": "H02P 25/12",
+    "description": "••••••con escobillas desplazables [2006.01]"
+  },
+  {
+    "code": "H02P 25/14",
+    "description": "••••••Motores universales (H02P 25/12 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H02P 25/16",
+    "description": "••caracterizados por la disposición de los circuitos o por la clase de cableado [2006.01]"
+  },
+  {
+    "code": "H02P 25/18",
+    "description": "••••con disposiciones para la conmutación de devanados, p. ej. con conmutadores mecánicos o relés [2006.01]"
+  },
+  {
+    "code": "H02P 25/20",
+    "description": "••••••para el cambio de polos [2006.01]"
+  },
+  {
+    "code": "H02P 25/22",
+    "description": "••••Devanados múltiples; Devanados para más de tres fases [2006.01]"
+  },
+  {
+    "code": "H02P 25/24",
+    "description": "••••Impedancia variable del circuito de rotor o estátor [2006.01]"
+  },
+  {
+    "code": "H02P 25/26",
+    "description": "••••••con disposiciones para el control de la impedancia secundaria [2006.01]"
+  },
+  {
+    "code": "H02P 25/28",
+    "description": "••••utilizando dispositivos magnéticos con grado de saturación controlable, p. ej. transductores [2006.01]"
+  },
+  {
+    "code": "H02P 25/30",
+    "description": "••••controlándose el motor mediante el control efectuado sobre el generador de CA que lo alimenta [2006.01]"
+  },
+  {
+    "code": "H02P 25/32",
+    "description": "••••utilizando tubos de descarga [2006.01]"
+  },
+  {
+    "code": "H02P 27/00",
+    "description": "Disposiciones o métodos para el control de motores de corriente alterna caracterizados por la clase de voltaje de alimentación (de dos o más motores H02P 5/00; de motores síncronos con conmutadores electrónicos H02P 6/00; de motores de corriente continua H02P 7/00; de motores paso a paso H02P 8/00) [2006.01]"
+  },
+  {
+    "code": "H02P 27/02",
+    "description": "••utilizando tensión de alimentación con frecuencia constante y amplitud variable [2016.01]"
+  },
+  {
+    "code": "H02P 27/024",
+    "description": "••••utilizando alimentación de corriente alterna sólo para el circuito del rotor o sólo para el circuito del estátor [2016.01]"
+  },
+  {
+    "code": "H02P 27/04",
+    "description": "••utilizando la tensión de alimentación de frecuencia variable, p. ej. la tensión de alimentación de inversores o de convertidores [2016.01]"
+  },
+  {
+    "code": "H02P 27/048",
+    "description": "••••utilizando alimentación de corriente alterna sólo para el circuito del rotor o sólo para el circuito de estator [2016.01]"
+  },
+  {
+    "code": "H02P 27/05",
+    "description": "••••utilizando alimentación de corriente alterna tanto para los circuitos del rotor como del estátor, siendo variable la frecuencia de alimentación de al menos un circuito [2006.01]"
+  },
+  {
+    "code": "H02P 27/06",
+    "description": "••••utilizando inversores o convertidores CC-CA (H02P 27/05 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H02P 27/08",
+    "description": "••••••con modulación del ancho de pulso [2006.01]"
+  },
+  {
+    "code": "H02P 27/10",
+    "description": "••••••••utilizando controladores \"bang-bang\" [2006.01]"
+  },
+  {
+    "code": "H02P 27/12",
+    "description": "••••••••generación de pulsos mediante el guiado de los vectores de flujo, corriente o voltaje sobre un círculo o una curva cerrada, p. ej. control de par directo [2006.01]"
+  },
+  {
+    "code": "H02P 27/14",
+    "description": "••••••••con tres o más niveles de voltaje [2006.01]"
+  },
+  {
+    "code": "H02P 27/16",
+    "description": "••••utilizando convertidores CA-CA sin conversión intermedia a CC (H02P 27/05 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H02P 27/18",
+    "description": "••••••variando la frecuencia mediante la omisión de medias ondas [2006.01]"
+  },
+  {
+    "code": "H02P 29/00",
+    "description": "Disposiciones para la regulación o el control de motores eléctricos, apropiadas tanto para motores de corriente alterna como de corriente continua (disposiciones para el arranque de motores eléctricos H02P 1/00; disposiciones para detener o ralentizar motores electricos H02P 3/00; control de motores que se pueden conectar a dos o más suministros diferentes de energía eléctrica H02P 4/00; regulación o control de la velocidad o el par de dos o más motores eléctricos H02P 5/00; control por vector H02P 21/00) [2016.01]"
+  },
+  {
+    "code": "H02P 29/02",
+    "description": "••Protección contra sobrecargas sin interrupción automática de la alimentación (proteccion contra fallos de motores paso a paso H02P 8/36) [2016.01]"
+  },
+  {
+    "code": "H02P 29/024",
+    "description": "••••Detección de fallo, p. ej. cortocircuito, rotor bloqueado, circuito abierto o pérdida de carga [2016.01]"
+  },
+  {
+    "code": "H02P 29/028",
+    "description": "••••••continuando el motor la operación a pesar del fallo, p. ej. eliminando, compensando o reparando el fallo [2016.01]"
+  },
+  {
+    "code": "H02P 29/032",
+    "description": "••••Prevención de daños en el motor, p. ej.  establecimiento de límites de corriente individuales para diferentes condiciones de funcionamiento [2016.01]"
+  },
+  {
+    "code": "H02P 29/04",
+    "description": "••mediante un freno externo [2006.01]"
+  },
+  {
+    "code": "H02P 29/10",
+    "description": "••para prevenir el exceso de velocidad o la baja velocidad [2016.01]"
+  },
+  {
+    "code": "H02P 29/20",
+    "description": "••para el control de un motor utilizado para diferentes operaciones secuenciales [2016.01]"
+  },
+  {
+    "code": "H02P 29/40",
+    "description": "••Regulación o control de la cantidad de corriente consumida o suministrada por el motor para controlar la carga mecánica [2016.01]"
+  },
+  {
+    "code": "H02P 29/50",
+    "description": "••Reducción de armónicos [2016.01]"
+  },
+  {
+    "code": "H02P 29/60",
+    "description": "••Control o determinación de la temperatura del motor o del accionamiento (H02P 29/02 tiene prioridad) [2016.01]"
+  },
+  {
+    "code": "H02P 29/62",
+    "description": "••••para elevar la temperatura del motor [2016.01]"
+  },
+  {
+    "code": "H02P 29/64",
+    "description": "••••Control o determinación de la temperatura del devanado [2016.01]"
+  },
+  {
+    "code": "H02P 29/66",
+    "description": "••••Control o determinación de la temperatura del rotor [2016.01]"
+  },
+  {
+    "code": "H02P 29/68",
+    "description": "••••basado en la temperatura de un componente de accionamiento o de un componente semiconductor [2016.01]"
+  },
+  {
+    "code": "H02P 31/00",
+    "description": "Disposiciones para la regulación o el control de motores eléctricos no previstas en los grupos H02P 1/00-H02P 5/00, H02P 7/00 o H02P 21/00-H02P 29/00 [2006.01]"
+  },
+  {
+    "code": "H02P 101/00",
+    "description": "Adaptación especial de disposiciones de control para generadores [2015.01]"
+  },
+  {
+    "code": "H02P 101/10",
+    "description": "••para turbinas hidráulicas [2015.01]"
+  },
+  {
+    "code": "H02P 101/15",
+    "description": "••para turbinas eólicas [2015.01]"
+  },
+  {
+    "code": "H02P 101/20",
+    "description": "••para turbinas de vapor [2015.01]"
+  },
+  {
+    "code": "H02P 101/25",
+    "description": "••para motores de combustión [2015.01]"
+  },
+  {
+    "code": "H02P 101/30",
+    "description": "••para aeronaves [2015.01]"
+  },
+  {
+    "code": "H02P 101/35",
+    "description": "••para embarcaciones [2015.01]"
+  },
+  {
+    "code": "H02P 101/40",
+    "description": "••para vehículos ferroviarios [2015.01]"
+  },
+  {
+    "code": "H02P 101/45",
+    "description": "••para vehículos de motor, p. ej. alternadores para coche [2015.01]"
+  },
+  {
+    "code": "H02P 103/00",
+    "description": "Disposiciones de control caracterizadas por el tipo de generador [2015.01]"
+  },
+  {
+    "code": "H02P 103/10",
+    "description": "••de tipo asíncrono [2015.01]"
+  },
+  {
+    "code": "H02P 103/20",
+    "description": "••de tipo síncrono [2015.01]"
+  }
+]

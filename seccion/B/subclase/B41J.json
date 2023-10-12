@@ -1,0 +1,2366 @@
+[
+  {
+    "code": "B41J 1/00",
+    "description": "Máquinas de escribir o mecanismos de impresión selectiva caracterizados por el montaje o la disposición de los tipos o las matrices [2006.01]"
+  },
+  {
+    "code": "B41J 1/02",
+    "description": "••de tipos o matrices separados o alejados [2006.01]"
+  },
+  {
+    "code": "B41J 1/04",
+    "description": "••de tipos o matrices llevados por palancas o brazos radiales, p. ej. accionados manualmente (B41J 1/16 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B41J 1/06",
+    "description": "••••sobre brazos o palancas accionados por una fuente de energía [2006.01]"
+  },
+  {
+    "code": "B41J 1/08",
+    "description": "••de tipos o matrices llevados por vástagos o brazos de corredera [2006.01]"
+  },
+  {
+    "code": "B41J 1/10",
+    "description": "••••de las extremidades de éstos [2006.01]"
+  },
+  {
+    "code": "B41J 1/12",
+    "description": "••••sobre las partes laterales de éstos, p. ej. fijados en partes de ellos [2006.01]"
+  },
+  {
+    "code": "B41J 1/14",
+    "description": "••••••siendo móviles los tipos o matrices con relación a las barras o vástagos (montados sobre barras o vástagos flexibles B41J 1/16) [2006.01]"
+  },
+  {
+    "code": "B41J 1/16",
+    "description": "••de tipos o matrices dispuestos en los casilleros o marcos fijos o de corredera o sobre bandas flexibles, placas, barras o vástagos [2006.01]"
+  },
+  {
+    "code": "B41J 1/18",
+    "description": "••de tipos o matrices alineados sobre hilos o varillas [2006.01]"
+  },
+  {
+    "code": "B41J 1/20",
+    "description": "••de tipos o matrices alineados sobre bandas continuas o similares [2006.01]"
+  },
+  {
+    "code": "B41J 1/22",
+    "description": "••de tipos o matrices montados sobre soportes susceptibles de girar para ser seleccionados [2006.01]"
+  },
+  {
+    "code": "B41J 1/24",
+    "description": "••••siendo la superficie de impresión del tipo de la matriz perpendicular al eje de rotación (B41J 1/60 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B41J 1/26",
+    "description": "••••••Soportes móviles para impresión (B41J 1/27 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B41J 1/27",
+    "description": "••••••Soportes móviles durante la impresión [2006.01]"
+  },
+  {
+    "code": "B41J 1/28",
+    "description": "••••••Soportes inmóviles para la impresión, p. ej. con los tipos o matrices fijos en relación con los soportes [2006.01]"
+  },
+  {
+    "code": "B41J 1/30",
+    "description": "••••••••con tipos o matrices que se desplazan con relación a los soportes o montados sobre soportes flexibles [2006.01]"
+  },
+  {
+    "code": "B41J 1/32",
+    "description": "••••permaneciendo el plano de la superficie de impresión del tipo o de la matriz paralelo al eje de rotación, p. ej. con tipos sobre la periferia de los soportes cilíndricos (B41J 1/60 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B41J 1/34",
+    "description": "••••••Soportes girando durante la impresión [2006.01]"
+  },
+  {
+    "code": "B41J 1/36",
+    "description": "••••••Soportes deslizando para la impresión, p. ej. accionados manualmente [2006.01]"
+  },
+  {
+    "code": "B41J 1/38",
+    "description": "••••••••accionados por una fuente de energía [2006.01]"
+  },
+  {
+    "code": "B41J 1/40",
+    "description": "••••••Soportes de movimiento de oscilación para la impresión [2006.01]"
+  },
+  {
+    "code": "B41J 1/42",
+    "description": "••••••••alrededor de un eje paralelo al eje de rotación del soporte [2006.01]"
+  },
+  {
+    "code": "B41J 1/44",
+    "description": "••••••Soportes inmóviles durante la impresión [2006.01]"
+  },
+  {
+    "code": "B41J 1/46",
+    "description": "••••••••Tipos o matrices fijados sobre ruedas, tambores, cilindros o soportes análogos [2006.01]"
+  },
+  {
+    "code": "B41J 1/48",
+    "description": "••••••••••con varios soportes, cada uno de ellos correspondiendo a una anchura de tipo [2006.01]"
+  },
+  {
+    "code": "B41J 1/50",
+    "description": "••••••••••con uno o más soportes desplazándose a través del material de copia en la dirección del espaciado de las letras [2006.01]"
+  },
+  {
+    "code": "B41J 1/52",
+    "description": "••••••••••con un material de copia que se desplaza en la dirección del espaciado de las letras, quedando fijo el soporte con referencia a la máquina [2006.01]"
+  },
+  {
+    "code": "B41J 1/54",
+    "description": "••••••••Tipos o matrices que pueden ser desplazados sobre ruedas, tambores, cilindros u otros soportes [2006.01]"
+  },
+  {
+    "code": "B41J 1/56",
+    "description": "••••••••Tipos o matrices montados sobre lanzaderas u otros soportes libres [2006.01]"
+  },
+  {
+    "code": "B41J 1/58",
+    "description": "••••••••Tipos o matrices montados sobre barras curvadas [2006.01]"
+  },
+  {
+    "code": "B41J 1/60",
+    "description": "••de tipos o matrices montados sobre superficies esféricas, esféricas truncadas o superficies similares [2006.01]"
+  },
+  {
+    "code": "B41J 2/00",
+    "description": "Máquinas de escribir o mecanismos de impresión selectiva caracterizados por el procedimiento de impresión o de marcado para el cual son concebidas (montaje, arreglo o disposición de los tipos o de las matrices B41J 1/00) [2006.01]"
+  },
+  {
+    "code": "B41J 2/005",
+    "description": "••caracterizados por la puesta en contacto selectiva de un líquido o de partículas con un material de impresión (impresión por impacto selectivo o por aplicación selectiva de una presión sobre un material de impresión o de transferencia de impresión B41J 2/22) [2006.01]"
+  },
+  {
+    "code": "B41J 2/01",
+    "description": "••••con chorro de tinta [2006.01]"
+  },
+  {
+    "code": "B41J 2/015",
+    "description": "••••••caracterizados por el procedimiento de formación del chorro (B41J 2/215 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B41J 2/02",
+    "description": "••••••••produciendo un chorro de tinta continuo [2006.01]"
+  },
+  {
+    "code": "B41J 2/025",
+    "description": "••••••••••por vibraciones [2006.01]"
+  },
+  {
+    "code": "B41J 2/03",
+    "description": "••••••••••por presión [2006.01]"
+  },
+  {
+    "code": "B41J 2/035",
+    "description": "••••••••••por campo eléctrico o magnético [2006.01]"
+  },
+  {
+    "code": "B41J 2/04",
+    "description": "••••••••produciendo, según demanda, gotitas o partículas separadas unas de otras [2006.01]"
+  },
+  {
+    "code": "B41J 2/045",
+    "description": "••••••••••por presión, p. ej. con la ayuda de transductores electromecánicos [2006.01]"
+  },
+  {
+    "code": "B41J 2/05",
+    "description": "••••••••••••producidas por aplicación de calor [2006.01]"
+  },
+  {
+    "code": "B41J 2/055",
+    "description": "••••••••••••Dispositivos para la absorción o la prevención de la contrapresión [2006.01]"
+  },
+  {
+    "code": "B41J 2/06",
+    "description": "••••••••••por campo eléctrico o magnético [2006.01]"
+  },
+  {
+    "code": "B41J 2/065",
+    "description": "••••••••••••implicando la formación preliminar de protuberancias de tinta [2006.01]"
+  },
+  {
+    "code": "B41J 2/07",
+    "description": "••••••caracterizados por el control del chorro (B41J 2/205 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B41J 2/075",
+    "description": "••••••••para una desviación según más de dos ángulos diferentes [2006.01]"
+  },
+  {
+    "code": "B41J 2/08",
+    "description": "••••••••••del tipo de control por la carga [2006.01]"
+  },
+  {
+    "code": "B41J 2/085",
+    "description": "••••••••••••Medios de carga, p. ej. electrodos [2006.01]"
+  },
+  {
+    "code": "B41J 2/09",
+    "description": "••••••••••••Medios de desviación [2006.01]"
+  },
+  {
+    "code": "B41J 2/095",
+    "description": "••••••••••del tipo de control por campo eléctrico [2006.01]"
+  },
+  {
+    "code": "B41J 2/10",
+    "description": "••••••••••del tipo de control por campo magnético [2006.01]"
+  },
+  {
+    "code": "B41J 2/105",
+    "description": "••••••••para una desviación según dos ángulos diferentes [2006.01]"
+  },
+  {
+    "code": "B41J 2/11",
+    "description": "••••••••para obtener una vaporización de tinta [2006.01]"
+  },
+  {
+    "code": "B41J 2/115",
+    "description": "••••••••sincronizando la separación de la gotita y el tiempo de carga [2006.01]"
+  },
+  {
+    "code": "B41J 2/12",
+    "description": "••••••••que verifican o corrigen la carga o la desviación [2006.01]"
+  },
+  {
+    "code": "B41J 2/125",
+    "description": "••••••••Sensores, p. ej. sensores de desviación [2006.01]"
+  },
+  {
+    "code": "B41J 2/13",
+    "description": "••••••••para la inclinación del dibujo impreso [2006.01]"
+  },
+  {
+    "code": "B41J 2/135",
+    "description": "••••••Boquillas [2006.01]"
+  },
+  {
+    "code": "B41J 2/14",
+    "description": "••••••••Su estructura [2006.01]"
+  },
+  {
+    "code": "B41J 2/145",
+    "description": "••••••••Su disposición [2006.01]"
+  },
+  {
+    "code": "B41J 2/15",
+    "description": "••••••••••para la impresión en serie [2006.01]"
+  },
+  {
+    "code": "B41J 2/155",
+    "description": "••••••••••para la impresión línea por línea [2006.01]"
+  },
+  {
+    "code": "B41J 2/16",
+    "description": "••••••••Fabricación de boquillas [2006.01]"
+  },
+  {
+    "code": "B41J 2/165",
+    "description": "••••••••Prevención de la obstrucción de las boquillas, p. ej. limpieza, obturación mediante un tapón o humidificación de las boquillas [2006.01]"
+  },
+  {
+    "code": "B41J 2/17",
+    "description": "••••••caracterizados por la manipulación de la tinta [2006.01]"
+  },
+  {
+    "code": "B41J 2/175",
+    "description": "••••••••Sistemas de alimentación de tinta [2006.01]"
+  },
+  {
+    "code": "B41J 2/18",
+    "description": "••••••••Sistemas de recirculación de la tinta [2006.01]"
+  },
+  {
+    "code": "B41J 2/185",
+    "description": "••••••••••Colectores de tinta; Interceptores de tinta [2006.01]"
+  },
+  {
+    "code": "B41J 2/19",
+    "description": "••••••••para eliminar las burbujas de aire [2006.01]"
+  },
+  {
+    "code": "B41J 2/195",
+    "description": "••••••••para controlar la calidad de la tinta [2006.01]"
+  },
+  {
+    "code": "B41J 2/20",
+    "description": "••••••••para prevenir o detectar la contaminación de los compuestos [2006.01]"
+  },
+  {
+    "code": "B41J 2/205",
+    "description": "••••••para la impresión de una escala discreta de tonos (B41J 2/21 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B41J 2/21",
+    "description": "••••••para la impresión con varios colores [2006.01]"
+  },
+  {
+    "code": "B41J 2/215",
+    "description": "••••haciendo pasar un agente, p. ej. consistente en una corriente de aire o de partículas a través de una niebla de tinta [2006.01]"
+  },
+  {
+    "code": "B41J 2/22",
+    "description": "••caracterizados por un impacto selectivo o por la aplicación selectiva de presión sobre un material de impresión o de transferencia de impresión [2006.01]"
+  },
+  {
+    "code": "B41J 2/225",
+    "description": "••••balísticos, p. ej. utilizando bolas sólidas o gránulos [2006.01]"
+  },
+  {
+    "code": "B41J 2/23",
+    "description": "••••utilizando agujas de impresión [2006.01]"
+  },
+  {
+    "code": "B41J 2/235",
+    "description": "••••••Conjuntos de cabezas de impresión [2006.01]"
+  },
+  {
+    "code": "B41J 2/24",
+    "description": "••••••••del tipo de impresión en serie (B41J 2/25, B41J 2/265 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "B41J 2/245",
+    "description": "••••••••del tipo de impresión línea por línea (B41J 2/25, B41J 2/265 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "B41J 2/25",
+    "description": "••••••••Agujas de impresión [2006.01]"
+  },
+  {
+    "code": "B41J 2/255",
+    "description": "••••••••••Disposición de las extremidades de impresión de las agujas [2006.01]"
+  },
+  {
+    "code": "B41J 2/26",
+    "description": "••••••••••Unión de la aguja con el mecanismo de accionamiento [2006.01]"
+  },
+  {
+    "code": "B41J 2/265",
+    "description": "••••••••Guías para agujas de impresión [2006.01]"
+  },
+  {
+    "code": "B41J 2/27",
+    "description": "••••••Mecanismos de accionamiento de las agujas de impresión [2006.01]"
+  },
+  {
+    "code": "B41J 2/275",
+    "description": "••••••••del tipo batiente (B41J 2/28 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B41J 2/28",
+    "description": "••••••••del tipo accionado por resorte, es decir, con una fuerza mecánica controlada electromagnéticamente [2006.01]"
+  },
+  {
+    "code": "B41J 2/285",
+    "description": "••••••••del tipo de núcleo móvil buzo [2006.01]"
+  },
+  {
+    "code": "B41J 2/29",
+    "description": "••••••••del tipo de bobina móvil [2006.01]"
+  },
+  {
+    "code": "B41J 2/295",
+    "description": "••••••••que utilizan elementos piezoeléctricos [2006.01]"
+  },
+  {
+    "code": "B41J 2/30",
+    "description": "••••••Circuitos de control para mecanismos de accionamiento [2006.01]"
+  },
+  {
+    "code": "B41J 2/305",
+    "description": "••••••Dispositivos de alimentación de tinta (cintas entintadoras, mecanismos de cintas entintadoras B41J 31/00-B41J 35/00) [2006.01]"
+  },
+  {
+    "code": "B41J 2/31",
+    "description": "••••que utilizan un elemento de impresión cuya superficie contiene salientes que son impactados o golpeados por martillos [2006.01]"
+  },
+  {
+    "code": "B41J 2/315",
+    "description": "••caracterizados por la aplicación selectiva de calor a un material de impresión o de transferencia de impresión sensible al calor (B41J 2/385, B41J 2/435 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "B41J 2/32",
+    "description": "••••que utilizan cabezas térmicas [2006.01]"
+  },
+  {
+    "code": "B41J 2/325",
+    "description": "••••••mediante la transferencia selectiva de tinta a partir de un soporte de tinta, p. ej. a partir de una cinta o de una hoja entintadora [2006.01]"
+  },
+  {
+    "code": "B41J 2/33",
+    "description": "••••••••a partir de un rodillo entintador [2006.01]"
+  },
+  {
+    "code": "B41J 2/335",
+    "description": "••••••Estructura de las cabezas térmicas [2006.01]"
+  },
+  {
+    "code": "B41J 2/34",
+    "description": "••••••••que incluyen semiconductores [2006.01]"
+  },
+  {
+    "code": "B41J 2/345",
+    "description": "••••••caracterizadas por la disposición de las resistencias o de los conductores [2006.01]"
+  },
+  {
+    "code": "B41J 2/35",
+    "description": "••••••alimentando la cabeza térmica con corriente o con voltaje [2006.01]"
+  },
+  {
+    "code": "B41J 2/355",
+    "description": "••••••••Circuitos de control para la selección del elemento calefactor [2006.01]"
+  },
+  {
+    "code": "B41J 2/36",
+    "description": "••••••••••Control de la densidad de impresión [2006.01]"
+  },
+  {
+    "code": "B41J 2/365",
+    "description": "••••••••••••por compensación de las variaciones de temperatura [2006.01]"
+  },
+  {
+    "code": "B41J 2/37",
+    "description": "••••••••••••por compensación de las variaciones de corriente [2006.01]"
+  },
+  {
+    "code": "B41J 2/375",
+    "description": "••••••Disposiciones de protección contra el sobrecalentamiento [2006.01]"
+  },
+  {
+    "code": "B41J 2/38",
+    "description": "••••Precalentamiento, es decir, calentamiento a una temperatura que no permite la impresión [2006.01]"
+  },
+  {
+    "code": "B41J 2/385",
+    "description": "••caracterizados por la alimentación selectiva de corriente eléctrica o la aplicación selectiva de un campo magnético a un material de impresión o de transferencia de impresión (B41J 2/005 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B41J 2/39",
+    "description": "••••que utilizan cabezas con estiletes múltiples [2006.01]"
+  },
+  {
+    "code": "B41J 2/395",
+    "description": "••••••Estructura de las cabezas con estiletes múltiples [2006.01]"
+  },
+  {
+    "code": "B41J 2/40",
+    "description": "••••••Alimentación de corriente o de voltaje para las cabezas con estiletes múltiples [2006.01]"
+  },
+  {
+    "code": "B41J 2/405",
+    "description": "••••••••Selección del electrodo auxiliar o del estilete a alimentar [2006.01]"
+  },
+  {
+    "code": "B41J 2/41",
+    "description": "••••para la impresión electrostática (B41J 2/39 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B41J 2/415",
+    "description": "••••••haciendo pasar partículas cargadas a través de un orificio o de una rendija [2006.01]"
+  },
+  {
+    "code": "B41J 2/42",
+    "description": "••••para calentar selectivamente [2006.01]"
+  },
+  {
+    "code": "B41J 2/425",
+    "description": "••••para quitar selectivamente una capa superficial de un material electrosensible, p. ej. de un papel recubierto por una capa metálica [2006.01]"
+  },
+  {
+    "code": "B41J 2/43",
+    "description": "••••para la impresión magnética [2006.01]"
+  },
+  {
+    "code": "B41J 2/435",
+    "description": "••caracterizados por la irradiación selectiva de un material de impresión o de transferencia de impresión [2006.01]"
+  },
+  {
+    "code": "B41J 2/44",
+    "description": "••••que utilizan una sola fuente de radiación, p. ej. haces luminosos o disposición de obturadores (B41J 2/475 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B41J 2/445",
+    "description": "••••••que utilizan cristales líquidos [2006.01]"
+  },
+  {
+    "code": "B41J 2/447",
+    "description": "••••que utilizan un conjunto de fuentes de radiación (B41J 2/475 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B41J 2/45",
+    "description": "••••••que utilizan conjuntos de diodos emisores de luz [2006.01]"
+  },
+  {
+    "code": "B41J 2/455",
+    "description": "••••••que utilizan conjuntos de lásers [2006.01]"
+  },
+  {
+    "code": "B41J 2/46",
+    "description": "••••••caracterizados por la utilización de fibras de vidrio [2006.01]"
+  },
+  {
+    "code": "B41J 2/465",
+    "description": "••••que utilizan máscaras, p. ej. máscaras de conmutación de luz [2006.01]"
+  },
+  {
+    "code": "B41J 2/47",
+    "description": "••••que utilizan la combinación de barrido y de modulación de la luz [2006.01]"
+  },
+  {
+    "code": "B41J 2/475",
+    "description": "••••para calentar selectivamente [2006.01]"
+  },
+  {
+    "code": "B41J 2/48",
+    "description": "••••••fundiendo tinta sobre una película o fundiendo gránulos de tinta [2006.01]"
+  },
+  {
+    "code": "B41J 2/485",
+    "description": "••caracterizados por el procedimiento de formación de tipos aplicable a varios tipos de procedimientos de impresión o de marcado [2006.01]"
+  },
+  {
+    "code": "B41J 2/49",
+    "description": "••••escribiendo [2006.01]"
+  },
+  {
+    "code": "B41J 2/495",
+    "description": "••••por impresión selectiva a partir de un elemento rotativo helicoidal [2006.01]"
+  },
+  {
+    "code": "B41J 2/50",
+    "description": "••••por la combinación selectiva de varios elementos de impresión no idénticos [2006.01]"
+  },
+  {
+    "code": "B41J 2/505",
+    "description": "••••a partir de un conjunto de elementos de impresión idénticos [2006.01]"
+  },
+  {
+    "code": "B41J 2/51",
+    "description": "••••••del tipo de impresión en serie [2006.01]"
+  },
+  {
+    "code": "B41J 2/515",
+    "description": "••••••del tipo de impresión línea por línea [2006.01]"
+  },
+  {
+    "code": "B41J 2/52",
+    "description": "••Disposiciones para la impresión de una escala discreta de tonos, no cubiertas por el grupo B41J 2/205, p. ej. aplicables a varios tipos de procedimientos de impresión o de marcado (B41J 2/525 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B41J 2/525",
+    "description": "••Disposiciones para la impresión con varios colores, no cubiertas por el grupo B41J 2/21, p. ej. aplicables a varios tipos de procedimientos de impresión o de marcado [2006.01]"
+  },
+  {
+    "code": "B41J 3/00",
+    "description": "Máquinas de escribir o mecanismos de impresión o de marcado selectivo caracterizados por la finalidad para la cual han sido construidos [2006.01]"
+  },
+  {
+    "code": "B41J 3/01",
+    "description": "••para tipos particulares, p. ej. para caracteres chinos o códigos de barras [2006.01]"
+  },
+  {
+    "code": "B41J 3/24",
+    "description": "••para la perforación o el corte de stencils utilizando tipos o matrices especiales [2006.01]"
+  },
+  {
+    "code": "B41J 3/26",
+    "description": "••para la escritura estenográfica [2006.01]"
+  },
+  {
+    "code": "B41J 3/28",
+    "description": "••para la impresión de arriba a abajo de superficies planas, p. ej. libros, dibujos, cajas [2006.01]"
+  },
+  {
+    "code": "B41J 3/30",
+    "description": "••para la impresión con tipos anchos, p. ej. sobre boletines, tickets [2006.01]"
+  },
+  {
+    "code": "B41J 3/32",
+    "description": "••para la impresión en Braille o con clavijetos especialmente adaptados para ciegos o para minusválidos [2006.01]"
+  },
+  {
+    "code": "B41J 3/34",
+    "description": "••para imprimir notaciones musicales [2006.01]"
+  },
+  {
+    "code": "B41J 3/36",
+    "description": "••portátiles [2006.01]"
+  },
+  {
+    "code": "B41J 3/37",
+    "description": "••••Máquinas de escribir plegables [2006.01]"
+  },
+  {
+    "code": "B41J 3/38",
+    "description": "••para estampado, p. ej. para realizar matrices para estereotipos [2006.01]"
+  },
+  {
+    "code": "B41J 3/39",
+    "description": "••••destinados a ser sostenidos manualmente [2006.01]"
+  },
+  {
+    "code": "B41J 3/407",
+    "description": "••para el marcado sobre materiales especiales [2006.01]"
+  },
+  {
+    "code": "B41J 3/413",
+    "description": "••••para el metal [2006.01]"
+  },
+  {
+    "code": "B41J 3/42",
+    "description": "••Combinaciones de varias máquinas de escribir completas, unidas para funcionar simultáneamente [2006.01]"
+  },
+  {
+    "code": "B41J 3/44",
+    "description": "••Máquinas de escribir o mecanismos de impresión selectiva con dos funciones combinadas, o asociadas, a aparatos que cumplen otras funciones [2006.01]"
+  },
+  {
+    "code": "B41J 3/46",
+    "description": "••••Mecanismos de impresión combinados con aparatos que dan una indicación visual [2006.01]"
+  },
+  {
+    "code": "B41J 3/50",
+    "description": "••••Mecanismos de impresión de caracteres que además producen un registro por otros medios [2006.01]"
+  },
+  {
+    "code": "B41J 3/51",
+    "description": "••••••siendo idénticas las informaciones imprimidas y registradas; Utilización de elementos de impresión con medios de codificación [2006.01]"
+  },
+  {
+    "code": "B41J 3/54",
+    "description": "••con varias series de tipos o de elementos de impresión (B41J 3/60 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B41J 3/60",
+    "description": "••para la impresión de ambas caras del material de impresión [2006.01]"
+  },
+  {
+    "code": "B41J 3/62",
+    "description": "••para la impresión sobre dos o más hojas o bandas separadas de material de impresión (B41J 3/54 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B41J 5/00",
+    "description": "Dispositivos o disposiciones que permiten el control de selección de los tipos (métodos o disposiciones para la lectura de soportes de registro G06K 7/00) [2006.01]"
+  },
+  {
+    "code": "B41J 5/02",
+    "description": "••Tipo o sílaba elegida por posicionado de un índice [2006.01]"
+  },
+  {
+    "code": "B41J 5/04",
+    "description": "••••Selección de un solo tipo [2006.01]"
+  },
+  {
+    "code": "B41J 5/06",
+    "description": "••••Selección de varios tipos [2006.01]"
+  },
+  {
+    "code": "B41J 5/08",
+    "description": "••Tipo o sílaba elegido por medio de teclas o teclados del tipo de los de las máquinas de escribir [2006.01]"
+  },
+  {
+    "code": "B41J 5/10",
+    "description": "••••Disposiciones de teclados [2006.01]"
+  },
+  {
+    "code": "B41J 5/12",
+    "description": "••••Estructura de botones de teclas [2006.01]"
+  },
+  {
+    "code": "B41J 5/14",
+    "description": "••••Estructura de palancas de teclas [2006.01]"
+  },
+  {
+    "code": "B41J 5/16",
+    "description": "••••Montaje o ensamblado de botones de teclas sobre las palancas [2006.01]"
+  },
+  {
+    "code": "B41J 5/18",
+    "description": "••••Cierres [2006.01]"
+  },
+  {
+    "code": "B41J 5/20",
+    "description": "••••••para teclas auxiliares, p. ej. teclas de desplazamiento [2006.01]"
+  },
+  {
+    "code": "B41J 5/22",
+    "description": "••••••Enclavamiento entre teclas, p. ej. sin disposición de paradas [2006.01]"
+  },
+  {
+    "code": "B41J 5/24",
+    "description": "••••••••con disposición de paradas [2006.01]"
+  },
+  {
+    "code": "B41J 5/26",
+    "description": "••••Regulación del golpe, de la inclinación o el curso de las teclas o regulaciones análogas [2006.01]"
+  },
+  {
+    "code": "B41J 5/28",
+    "description": "••••Teclas de varios fines, p. ej. teclas rebajadas de varias formas, o móviles en varias direcciones para llenar funciones diferentes o realizar selecciones diferentes [2006.01]"
+  },
+  {
+    "code": "B41J 5/30",
+    "description": "••Selección de tipo o sílaba mandada por informaciones registradas [2006.01]"
+  },
+  {
+    "code": "B41J 5/31",
+    "description": "••••caracterizada por la forma de la información registrada [2006.01]"
+  },
+  {
+    "code": "B41J 5/32",
+    "description": "••••••por registros impresos, estampados o fotográficos, p. ej. por fichas, hojas [2006.01]"
+  },
+  {
+    "code": "B41J 5/34",
+    "description": "••••••••por bandas [2006.01]"
+  },
+  {
+    "code": "B41J 5/36",
+    "description": "••••••por registros perforados, p. ej. por fichas, hojas [2006.01]"
+  },
+  {
+    "code": "B41J 5/38",
+    "description": "••••••••por bandas [2006.01]"
+  },
+  {
+    "code": "B41J 5/40",
+    "description": "••••••por registros magnéticos o electrostáticos, p. ej. por fichas, hojas [2006.01]"
+  },
+  {
+    "code": "B41J 5/42",
+    "description": "••••••••por bandas [2006.01]"
+  },
+  {
+    "code": "B41J 5/44",
+    "description": "••••caracterizada por el modo de almacenado de la información registrada [2006.01]"
+  },
+  {
+    "code": "B41J 5/46",
+    "description": "••••••siendo realizado el almacenado en memorias internas [2006.01]"
+  },
+  {
+    "code": "B41J 5/48",
+    "description": "••••••siendo realizado el almacenado en memorias externas [2006.01]"
+  },
+  {
+    "code": "B41J 5/50",
+    "description": "••••••••sobre una sola memoria [2006.01]"
+  },
+  {
+    "code": "B41J 5/51",
+    "description": "••••••••sobre varias memorias separadas, p. ej. sobre bandas de corrección adicionales [2006.01]"
+  },
+  {
+    "code": "B41J 5/52",
+    "description": "••••caracterizada por dispositivos adicionales para producir un registro perforado o registro análogo, p. ej. simultáneamente [2006.01]"
+  },
+  {
+    "code": "B41J 7/00",
+    "description": "Mecanismos de selección o de desplazamiento de los tipos (posicionado de un índice B41J 5/02) [2006.01]"
+  },
+  {
+    "code": "B41J 7/02",
+    "description": "••Mecanismos de accionamiento de las palancas de golpeo [2006.01]"
+  },
+  {
+    "code": "B41J 7/04",
+    "description": "••••Palancas montadas sobre gorrones fijos [2006.01]"
+  },
+  {
+    "code": "B41J 7/06",
+    "description": "••••••y unidos a órganos de transmisión, p. ej. engranajes [2006.01]"
+  },
+  {
+    "code": "B41J 7/08",
+    "description": "••••••••con uniones de tipo \"perno y ranura\" o similar; Organos de ranura-leva [2006.01]"
+  },
+  {
+    "code": "B41J 7/10",
+    "description": "••••••••Cadena, correa, cable flexible u órganos similares [2006.01]"
+  },
+  {
+    "code": "B41J 7/12",
+    "description": "••••••Palanca en U de dos gorrones [2006.01]"
+  },
+  {
+    "code": "B41J 7/14",
+    "description": "••••••Palanca monobloc [2006.01]"
+  },
+  {
+    "code": "B41J 7/16",
+    "description": "••••••Tipo articulado sobre una palanca [2006.01]"
+  },
+  {
+    "code": "B41J 7/18",
+    "description": "••••Palancas con punto de apoyo móvil o variable para hacer variar el efecto mecánico durante el golpe [2006.01]"
+  },
+  {
+    "code": "B41J 7/20",
+    "description": "••••Palancas que tienen gorrones móviles fijos en relación a las palancas; Barras de tipos de dos gorrones [2006.01]"
+  },
+  {
+    "code": "B41J 7/22",
+    "description": "••••Cestas; Suspensión o soportes para palancas [2006.01]"
+  },
+  {
+    "code": "B41J 7/24",
+    "description": "••••Estructura de palancas (palanca en U B41J 7/12) [2006.01]"
+  },
+  {
+    "code": "B41J 7/26",
+    "description": "••••Medios especiales para volver las palancas a su posición de reposo, p. ej. medios de recuperación [2006.01]"
+  },
+  {
+    "code": "B41J 7/28",
+    "description": "••••Llaves de palancas y barra de tipo que vuelven independientemente a sus posiciones de reposo [2006.01]"
+  },
+  {
+    "code": "B41J 7/30",
+    "description": "••••Prevención del rebote y de los choques entre partes de palanca o partes de tipo [2006.01]"
+  },
+  {
+    "code": "B41J 7/32",
+    "description": "••Ojo de tipo seleccionado por órganos deslizantes [2006.01]"
+  },
+  {
+    "code": "B41J 7/34",
+    "description": "••Ojo de tipo seleccionado por órganos rotativos [2006.01]"
+  },
+  {
+    "code": "B41J 7/36",
+    "description": "••Disposiciones para la selección aplicadas a los soportes de tipos rotativos durante la impresión [2006.01]"
+  },
+  {
+    "code": "B41J 7/38",
+    "description": "••••Tipo móvil sobre soporte para selección [2006.01]"
+  },
+  {
+    "code": "B41J 7/40",
+    "description": "••••Tipo móvil sobre soporte para impresión [2006.01]"
+  },
+  {
+    "code": "B41J 7/42",
+    "description": "••••Impresión temporizada, p. ej. sin impacto [2006.01]"
+  },
+  {
+    "code": "B41J 7/44",
+    "description": "••••••con impacto [2006.01]"
+  },
+  {
+    "code": "B41J 7/46",
+    "description": "••••Contacto de rodadura durante la impresión [2006.01]"
+  },
+  {
+    "code": "B41J 7/48",
+    "description": "••Soporte de tipo bloque en posición deseada por medios electromagnéticos [2006.01]"
+  },
+  {
+    "code": "B41J 7/50",
+    "description": "••Ojo de tipo seleccionado por la combinación de dos movimientos del soporte de tipo [2006.01]"
+  },
+  {
+    "code": "B41J 7/52",
+    "description": "••••por movimientos rotativos y deslizantes combinado [2006.01]"
+  },
+  {
+    "code": "B41J 7/54",
+    "description": "••Dispositivos de selección, incluidos los medios de combinación, de permutación, de adición o de ensamblado [2006.01]"
+  },
+  {
+    "code": "B41J 7/56",
+    "description": "••••Dispositivos de adición para movimientos mecánicos [2006.01]"
+  },
+  {
+    "code": "B41J 7/58",
+    "description": "••••••Cuñas [2006.01]"
+  },
+  {
+    "code": "B41J 7/60",
+    "description": "••••••Palancas [2006.01]"
+  },
+  {
+    "code": "B41J 7/62",
+    "description": "••••••Accionamientos [2006.01]"
+  },
+  {
+    "code": "B41J 7/64",
+    "description": "••••••Mecanismos de polea y cables [2006.01]"
+  },
+  {
+    "code": "B41J 7/66",
+    "description": "••••Organos móviles, p. ej. discos, llevando elementos, p. ej. dedos, desplazables según un código [2006.01]"
+  },
+  {
+    "code": "B41J 7/68",
+    "description": "••••con medios para cerrar selectivamente un circuito eléctrico para la presentación de un tipo [2006.01]"
+  },
+  {
+    "code": "B41J 7/90",
+    "description": "••Selección de sílabas, líneas o elementos similares [2006.01]"
+  },
+  {
+    "code": "B41J 7/92",
+    "description": "••Regulación del impacto; Medios para asegurar la uniformidad de la impresión (B41J 9/46, B41J 9/48 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "B41J 7/94",
+    "description": "••••Regulación tipo por tipo [2006.01]"
+  },
+  {
+    "code": "B41J 7/96",
+    "description": "••Medios para verificar la bondad de la regulación [2006.01]"
+  },
+  {
+    "code": "B41J 9/00",
+    "description": "Mecanismos de impresión por percusión [2006.01]"
+  },
+  {
+    "code": "B41J 9/02",
+    "description": "••Martillos de golpe; Disposiciones de esos martillos [2006.01]"
+  },
+  {
+    "code": "B41J 9/04",
+    "description": "••••de martillos individuales, p. ej. desplazándose a lo largo de la línea de impresión [2006.01]"
+  },
+  {
+    "code": "B41J 9/06",
+    "description": "••••••de martillos estacionarios, p. ej. cooperando con un soporte de tipo individual [2006.01]"
+  },
+  {
+    "code": "B41J 9/08",
+    "description": "••••••••cooperando con varios soportes de tipo [2006.01]"
+  },
+  {
+    "code": "B41J 9/10",
+    "description": "••••de varios martillos de golpe, p. ej. uno por cada posición de tipo [2006.01]"
+  },
+  {
+    "code": "B41J 9/12",
+    "description": "••••••funcionando cada uno en varias posiciones de tipos [2006.01]"
+  },
+  {
+    "code": "B41J 9/127",
+    "description": "••••Montaje de los martillos de golpeo [2006.01]"
+  },
+  {
+    "code": "B41J 9/133",
+    "description": "••••Estructura de cuerpos de martillos de golpeo o de extremidades [2006.01]"
+  },
+  {
+    "code": "B41J 9/14",
+    "description": "••Medios para seleccionar o suprimir los martillos individuales [2006.01]"
+  },
+  {
+    "code": "B41J 9/16",
+    "description": "••Medios para reanimar o volver a posicionar los martillos [2006.01]"
+  },
+  {
+    "code": "B41J 9/18",
+    "description": "••••Levas [2006.01]"
+  },
+  {
+    "code": "B41J 9/20",
+    "description": "••••Resortes [2006.01]"
+  },
+  {
+    "code": "B41J 9/22",
+    "description": "••••Medios hidráulicos o neumáticos [2006.01]"
+  },
+  {
+    "code": "B41J 9/24",
+    "description": "••••Medios electromagnéticos [2006.01]"
+  },
+  {
+    "code": "B41J 9/26",
+    "description": "••Medios para accionar los martillos para efectuar la impresión [2006.01]"
+  },
+  {
+    "code": "B41J 9/28",
+    "description": "••••Levas [2006.01]"
+  },
+  {
+    "code": "B41J 9/30",
+    "description": "••••Resortes [2006.01]"
+  },
+  {
+    "code": "B41J 9/32",
+    "description": "••••dispuestos para ser fijados al rodillo tornador [2006.01]"
+  },
+  {
+    "code": "B41J 9/34",
+    "description": "••••Medios hidráulicos o neumáticos [2006.01]"
+  },
+  {
+    "code": "B41J 9/36",
+    "description": "••••en los que la potencia mecánica es aplicada bajo mando electromagnético [2006.01]"
+  },
+  {
+    "code": "B41J 9/38",
+    "description": "••••Medios electromagnéticos [2006.01]"
+  },
+  {
+    "code": "B41J 9/40",
+    "description": "••••comprendiendo un enclavamiento electroadhesivo [2006.01]"
+  },
+  {
+    "code": "B41J 9/42",
+    "description": "••con sistemas antirrebote [2006.01]"
+  },
+  {
+    "code": "B41J 9/44",
+    "description": "••Circuitos de control para mecanismos de impresión por percusión [2006.01]"
+  },
+  {
+    "code": "B41J 9/46",
+    "description": "••••para determinar o ajustar el momento de puesta en marcha del martillo [2006.01]"
+  },
+  {
+    "code": "B41J 9/48",
+    "description": "••••para determinar o ajustar la energía de arrastre del martillo [2006.01]"
+  },
+  {
+    "code": "B41J 9/50",
+    "description": "••••para compensar las variaciones en las condiciones de arrastre de la impresora, p. ej. para compensar las variaciones de temperatura o de alimentación de corriente [2006.01]"
+  },
+  {
+    "code": "B41J 9/52",
+    "description": "••••para verificar el funcionamiento de los martillos de impresión [2006.01]"
+  },
+  {
+    "code": "B41J 9/54",
+    "description": "••••••para detectar la ruptura de los martillos de impresión [2006.01]"
+  },
+  {
+    "code": "B41J 11/00",
+    "description": "Dispositivos o sistemas para sostener o manipular material de copia en hojas o en bandas (Soportes para el papel sujetos a la máquina de escribir o a la impresora B41J 29/15) [2006.01]"
+  },
+  {
+    "code": "B41J 11/02",
+    "description": "••Apoyos u otros órganos de contrapresión [2006.01]"
+  },
+  {
+    "code": "B41J 11/04",
+    "description": "••••Cilindros de apoyo [2006.01]"
+  },
+  {
+    "code": "B41J 11/053",
+    "description": "••••••comportando dispositivos que amortiguan el ruido (estructura de la superficie B41J 11/057) [2006.01]"
+  },
+  {
+    "code": "B41J 11/057",
+    "description": "••••••Estructura de la superficie [2006.01]"
+  },
+  {
+    "code": "B41J 11/06",
+    "description": "••••Apoyos planos de la dimensión de una página [2006.01]"
+  },
+  {
+    "code": "B41J 11/08",
+    "description": "••••Barras o apoyos análogos de la dimensión de una línea [2006.01]"
+  },
+  {
+    "code": "B41J 11/10",
+    "description": "••••Yunques o apoyos análogos de la dimensión de un tipo [2006.01]"
+  },
+  {
+    "code": "B41J 11/13",
+    "description": "••••Piezas de apoyo o mantillas (para cilindros de apoyo B41J 11/057) [2006.01]"
+  },
+  {
+    "code": "B41J 11/14",
+    "description": "••••Mecanismos de desplazamiento de los apoyos; Accionamientos apropiados [2006.01]"
+  },
+  {
+    "code": "B41J 11/16",
+    "description": "••••con medios de equilibrado [2006.01]"
+  },
+  {
+    "code": "B41J 11/18",
+    "description": "••Dispositivos para la impresión sobre apoyos [2006.01]"
+  },
+  {
+    "code": "B41J 11/20",
+    "description": "••Regulación de los apoyos para hacer variar la fuerza de impresión, cuando cambia el número de papeles, para compensar el desgaste o para la alineación [2006.01]"
+  },
+  {
+    "code": "B41J 11/22",
+    "description": "••Guías o pasillos para el papel [2006.01]"
+  },
+  {
+    "code": "B41J 11/24",
+    "description": "••Paradas, frenos o uniones para apoyos o cilindros de accionamiento [2006.01]"
+  },
+  {
+    "code": "B41J 11/26",
+    "description": "••Accionamiento por vástagos [2006.01]"
+  },
+  {
+    "code": "B41J 11/27",
+    "description": "••••situadas sobre el cilindro de apoyo o en su interior [2006.01]"
+  },
+  {
+    "code": "B41J 11/28",
+    "description": "••••Ruedas dentadas [2006.01]"
+  },
+  {
+    "code": "B41J 11/30",
+    "description": "••••Elementos de tracción distintos de las ruedas dentadas, p. ej. vástagos sobre bandas sin fin [2006.01]"
+  },
+  {
+    "code": "B41J 11/32",
+    "description": "••••Regulación de ruedas dentadas o elementos de tracción, p. ej. lateralmente [2006.01]"
+  },
+  {
+    "code": "B41J 11/34",
+    "description": "••••Guías cooperando con vástagos de arranque [2006.01]"
+  },
+  {
+    "code": "B41J 11/36",
+    "description": "••Intervalo de paso largo o gran separación; Desplazamiento hasta una línea determinada, p. ej. por rotación del apoyo o del cilindro de arrastre [2006.01]"
+  },
+  {
+    "code": "B41J 11/38",
+    "description": "••••Dispositivos de desplazamiento accionados a mano [2006.01]"
+  },
+  {
+    "code": "B41J 11/40",
+    "description": "••••adaptado especialmente para la impresión de notaciones musicales [2006.01]"
+  },
+  {
+    "code": "B41J 11/42",
+    "description": "••••Control [2006.01]"
+  },
+  {
+    "code": "B41J 11/44",
+    "description": "••••••por dispositivos, p. ej. bandas-programa o ruedas de contacto, solidarias con el movimiento de los dispositivos de arrastre del papel, p. ej. por rotación de los apoyos [2006.01]"
+  },
+  {
+    "code": "B41J 11/46",
+    "description": "••••••por marcas o señales sobre el papel introducido en la máquina [2006.01]"
+  },
+  {
+    "code": "B41J 11/48",
+    "description": "••Aparatos para registros condensados, tiras de cuentas, o trabajo similar utilizando varios papeles o juegos de papel [2006.01]"
+  },
+  {
+    "code": "B41J 11/50",
+    "description": "••••en los que varios papeles o juegos de papel son utilizados por separado en la misma dirección hacia la posición de impresión [2006.01]"
+  },
+  {
+    "code": "B41J 11/51",
+    "description": "••••••con diferentes velocidades de alimentación [2006.01]"
+  },
+  {
+    "code": "B41J 11/52",
+    "description": "••••en los que un papel o juego de papel se desplaza transversalmente en relación al otro [2006.01]"
+  },
+  {
+    "code": "B41J 11/53",
+    "description": "••••••Dispositivos para sujetar un papel o un juego de papel durante el reemplazamiento de uno o varios papeles o juegos de papel auxiliares [2006.01]"
+  },
+  {
+    "code": "B41J 11/54",
+    "description": "••••en los que un papel o juego de papel es dirigido a la posición de impresión por delante del aparato [2006.01]"
+  },
+  {
+    "code": "B41J 11/55",
+    "description": "••••••con medios para ajustar un papel o juego de papel [2006.01]"
+  },
+  {
+    "code": "B41J 11/56",
+    "description": "••concebidos especialmente para facilitar el almacenado o el transporte de la máquina de escribir [2006.01]"
+  },
+  {
+    "code": "B41J 11/58",
+    "description": "••Soportes para el suministro de hojas, o en bandas plegadas en acordeón, p. ej. estantes, baldas, rodillos, soportes de pila [2006.01]"
+  },
+  {
+    "code": "B41J 11/60",
+    "description": "••Tableros de borrado o de corrección [2006.01]"
+  },
+  {
+    "code": "B41J 11/62",
+    "description": "••Protecciones o escudos [2006.01]"
+  },
+  {
+    "code": "B41J 11/64",
+    "description": "••Utilización de escalas graduadas o de indicadores [2006.01]"
+  },
+  {
+    "code": "B41J 11/66",
+    "description": "••Utilización de dispositivos cortantes [2006.01]"
+  },
+  {
+    "code": "B41J 11/68",
+    "description": "••••que cortan paralelamente a la dirección del avance del papel [2006.01]"
+  },
+  {
+    "code": "B41J 11/70",
+    "description": "••••que cortan perpendicularmente a la dirección del avance del papel [2006.01]"
+  },
+  {
+    "code": "B41J 13/00",
+    "description": "Dispositivos o disposiciones adaptados especialmente para soportar o manipular un material de copia de formato pequeño, p. ej. hojas [2006.01]"
+  },
+  {
+    "code": "B41J 13/02",
+    "description": "••Cilindros (cilindros de apoyo B41J 11/04) [2006.01]"
+  },
+  {
+    "code": "B41J 13/03",
+    "description": "••••mandados, p. ej. cilindros de alimentación distintos de cilindros de apoyo [2006.01]"
+  },
+  {
+    "code": "B41J 13/036",
+    "description": "••••cooperando con un cilindro de apoyo [2006.01]"
+  },
+  {
+    "code": "B41J 13/042",
+    "description": "••••••Cilindros delanteros o traseros, o juegos de cilindros delanteros o traseros, cada uno montado sobre un soporte diferente [2006.01]"
+  },
+  {
+    "code": "B41J 13/048",
+    "description": "••••••Cilindros delanteros y traseros montados sobre un mismo soporte [2006.01]"
+  },
+  {
+    "code": "B41J 13/054",
+    "description": "••••••••sobre el protege-papel concéntrico al cilindro de apoyo [2006.01]"
+  },
+  {
+    "code": "B41J 13/076",
+    "description": "••••Estructura de cilindros; Sus cojinetes [2006.01]"
+  },
+  {
+    "code": "B41J 13/08",
+    "description": "••Bandas o sistemas de accionamiento similares [2006.01]"
+  },
+  {
+    "code": "B41J 13/10",
+    "description": "••Soportes de hojas, retenes o guías fijas [2006.01]"
+  },
+  {
+    "code": "B41J 13/12",
+    "description": "••••adaptados especialmente para cartas, sobres o similares [2006.01]"
+  },
+  {
+    "code": "B41J 13/14",
+    "description": "••••Tableros o guías [2006.01]"
+  },
+  {
+    "code": "B41J 13/16",
+    "description": "••••••móviles para la colocación o salida de hojas [2006.01]"
+  },
+  {
+    "code": "B41J 13/18",
+    "description": "••••••concéntricos al cilindro de apoyo [2006.01]"
+  },
+  {
+    "code": "B41J 13/20",
+    "description": "••••Arcos [2006.01]"
+  },
+  {
+    "code": "B41J 13/22",
+    "description": "••••Pinzas o garras [2006.01]"
+  },
+  {
+    "code": "B41J 13/24",
+    "description": "••••Bandas para soportar o mantener los papeles [2006.01]"
+  },
+  {
+    "code": "B41J 13/26",
+    "description": "••Dispositivos de señalización [2006.01]"
+  },
+  {
+    "code": "B41J 13/28",
+    "description": "••••Señales anteriores, topes anteriores o calibres anteriores [2006.01]"
+  },
+  {
+    "code": "B41J 13/30",
+    "description": "••••Señales laterales o calibres laterales [2006.01]"
+  },
+  {
+    "code": "B41J 13/32",
+    "description": "••••Medios para posicionar las hojas en dos direcciones por un solo mando, p. ej. para el mando del formato o el posicionado ortogonal de las hojas [2006.01]"
+  },
+  {
+    "code": "B41J 15/00",
+    "description": "Dispositivos o disposiciones adaptados especialmente para soportar o manipular un material de copia utilizado bajo forma continua, p. ej. en bandas [2006.01]"
+  },
+  {
+    "code": "B41J 15/02",
+    "description": "••Rodillos o ejes; Fijación de bandas sobre núcleos o ejes [2006.01]"
+  },
+  {
+    "code": "B41J 15/04",
+    "description": "••Dispositivos de soportes, de alimentación o de guía; Montajes para rodillos o ejes [2006.01]"
+  },
+  {
+    "code": "B41J 15/06",
+    "description": "••••caracterizados por su aplicación a sistemas de impresión que tienen carros estacionarios [2006.01]"
+  },
+  {
+    "code": "B41J 15/08",
+    "description": "••••caracterizados por su aplicación a sistemas de impresión que tienen carros que se desplazan transversalmente [2006.01]"
+  },
+  {
+    "code": "B41J 15/10",
+    "description": "••••••y montados sobre el carro [2006.01]"
+  },
+  {
+    "code": "B41J 15/12",
+    "description": "••••••y acoplados al carro [2006.01]"
+  },
+  {
+    "code": "B41J 15/14",
+    "description": "••••••y no solidarios al carro [2006.01]"
+  },
+  {
+    "code": "B41J 15/16",
+    "description": "••Medios para mantener la banda en tensión o para enrollarla [2006.01]"
+  },
+  {
+    "code": "B41J 15/18",
+    "description": "••Aparatos que funcionan con varias bandas [2006.01]"
+  },
+  {
+    "code": "B41J 15/20",
+    "description": "••••para bandas superpuestas durante la impresión [2006.01]"
+  },
+  {
+    "code": "B41J 15/22",
+    "description": "••••para hacer avanzar las bandas según trayectos diferentes durante la impresión [2006.01]"
+  },
+  {
+    "code": "B41J 15/24",
+    "description": "••••con medios para distinguir unas bandas de otras [2006.01]"
+  },
+  {
+    "code": "B41J 17/00",
+    "description": "Mecanismos para manipular un material de transferencia para la impresión sobre todo el ancho de una página, p. ej. para manipular papel carbón (en los dispositivos de copia en varios ejemplares B41L) [2006.01]"
+  },
+  {
+    "code": "B41J 17/02",
+    "description": "••Mecanismos de avance [2006.01]"
+  },
+  {
+    "code": "B41J 17/04",
+    "description": "••••Avance que depende del avance del papel a dactilografiar, p. ej. las dos hojas se desplazan simultáneamente [2006.01]"
+  },
+  {
+    "code": "B41J 17/06",
+    "description": "••••••\"Alimentación \"por deslizamiento\", es decir, cuando el material de transferencia se desplaza más lentamente que el material soporte [2006.01]"
+  },
+  {
+    "code": "B41J 17/07",
+    "description": "••••••de mando electromagnético [2006.01]"
+  },
+  {
+    "code": "B41J 17/08",
+    "description": "••••Avance no dependiendo del avance del papel a dactilografiar [2006.01]"
+  },
+  {
+    "code": "B41J 17/10",
+    "description": "••••••de mando electromagnético [2006.01]"
+  },
+  {
+    "code": "B41J 17/12",
+    "description": "••••Adaptaciones particulares para asegurar una duración de vida máxima [2006.01]"
+  },
+  {
+    "code": "B41J 17/14",
+    "description": "••••Sistemas automáticos para invertir la dirección del avance [2006.01]"
+  },
+  {
+    "code": "B41J 17/16",
+    "description": "••Soportes situados en la máquina, para las hojas de materiales de transferencia de impresión [2006.01]"
+  },
+  {
+    "code": "B41J 17/18",
+    "description": "••••pudiendo pivotar con relación al apoyo [2006.01]"
+  },
+  {
+    "code": "B41J 17/20",
+    "description": "••••pudiendo deslizarse con relación al apoyo [2006.01]"
+  },
+  {
+    "code": "B41J 17/22",
+    "description": "••Sistemas de alimentación de bandas o materiales de transferencia de impresión [2006.01]"
+  },
+  {
+    "code": "B41J 17/24",
+    "description": "••••Bandas que provienen de bobinas o devanadores fijados a la máquina [2006.01]"
+  },
+  {
+    "code": "B41J 17/26",
+    "description": "••••Bandas que provienen de platos o soportes similares fijados a la máquina [2006.01]"
+  },
+  {
+    "code": "B41J 17/28",
+    "description": "••Disposiciones de guías para los materiales de transferencia de la impresión [2006.01]"
+  },
+  {
+    "code": "B41J 17/30",
+    "description": "••Estructura de guías para los materiales de transferencia de impresión [2006.01]"
+  },
+  {
+    "code": "B41J 17/32",
+    "description": "••Soportes desmontables para los mecanismos de materiales de transferencia de impresión [2006.01]"
+  },
+  {
+    "code": "B41J 17/34",
+    "description": "••Revestimiento de materiales de transferencia de impresión, p. ej. hojas para reducir la fricción, escudos para impedir las huellas [2006.01]"
+  },
+  {
+    "code": "B41J 17/36",
+    "description": "••Dispositivos de alarma, indicadores, dispositivos que interrumpen la alimentación sensibles a la ruptura o al agotamiento del material de transferencia [2006.01]"
+  },
+  {
+    "code": "B41J 17/38",
+    "description": "••para disponer del material de transferencia de impresión después del uso [2006.01]"
+  },
+  {
+    "code": "B41J 17/40",
+    "description": "••••para recuperar las hojas para su reutilización [2006.01]"
+  },
+  {
+    "code": "B41J 17/42",
+    "description": "••••para las bandas [2006.01]"
+  },
+  {
+    "code": "B41J 19/00",
+    "description": "Mecanismos para espaciado de los caracteres o las líneas [2006.01]"
+  },
+  {
+    "code": "B41J 19/02",
+    "description": "••con dispositivos retardadores, p. ej. frenos [2006.01]"
+  },
+  {
+    "code": "B41J 19/04",
+    "description": "••Dispositivos de amortiguación del ruido o de choques o medidas que tienen rotación (B41J 19/38 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B41J 19/06",
+    "description": "••••Montaje elástico de mecanismos [2006.01]"
+  },
+  {
+    "code": "B41J 19/08",
+    "description": "••••Topes, resortes, o paradas de carro similares [2006.01]"
+  },
+  {
+    "code": "B41J 19/10",
+    "description": "••••Amortiguadores [2006.01]"
+  },
+  {
+    "code": "B41J 19/12",
+    "description": "••••Dispositivos de arrastre construidos con material especial o concebidos especialmente para disminuir el ruido o los choques [2006.01]"
+  },
+  {
+    "code": "B41J 19/14",
+    "description": "••con medios para realizar el espaciamiento de líneas o tipos en una u otra dirección [2006.01]"
+  },
+  {
+    "code": "B41J 19/16",
+    "description": "••Mecanismos especiales de espaciamiento para aparatos de impresión circular, en espiral, o en diagonal [2006.01]"
+  },
+  {
+    "code": "B41J 19/18",
+    "description": "••Mecanismos de avance o de retroceso de los tipos; Dispositivos apropiados de retorno o de liberación del carro [2006.01]"
+  },
+  {
+    "code": "B41J 19/20",
+    "description": "••••Mecanismos de avance de tipos (mandados por escapes B41J 19/52) [2006.01]"
+  },
+  {
+    "code": "B41J 19/22",
+    "description": "••••••actuando por fricción o agarre [2006.01]"
+  },
+  {
+    "code": "B41J 19/24",
+    "description": "••••••Trinquetes y dientes [2006.01]"
+  },
+  {
+    "code": "B41J 19/26",
+    "description": "••••••••desplazando un carro de papel o similar [2006.01]"
+  },
+  {
+    "code": "B41J 19/28",
+    "description": "••••••••desplazando una banda de papel o similar, p. ej. sobre un soporte fijo [2006.01]"
+  },
+  {
+    "code": "B41J 19/30",
+    "description": "••••••Mecanismos accionados electromagnéticamente [2006.01]"
+  },
+  {
+    "code": "B41J 19/32",
+    "description": "••••••Sistemas para espaciamiento variable o diferencial [2006.01]"
+  },
+  {
+    "code": "B41J 19/34",
+    "description": "••••Mecanismos de escape para avance de tipos [2006.01]"
+  },
+  {
+    "code": "B41J 19/36",
+    "description": "••••••Mecanismos de arrastre, p. ej. resortes comprimidos durante el retorno del carro [2006.01]"
+  },
+  {
+    "code": "B41J 19/38",
+    "description": "••••••••concebidos para un retorno silencioso [2006.01]"
+  },
+  {
+    "code": "B41J 19/40",
+    "description": "••••••Escapes que tienen sólo un trinquete o una parada similar [2006.01]"
+  },
+  {
+    "code": "B41J 19/42",
+    "description": "••••••Escapes que tienen dos trinquetes o paradas similares [2006.01]"
+  },
+  {
+    "code": "B41J 19/44",
+    "description": "••••••••que cooperan con dos partes dentadas, p. ej. cremalleras o ruedas [2006.01]"
+  },
+  {
+    "code": "B41J 19/46",
+    "description": "••••••••y montados sobre un solo órgano basculante [2006.01]"
+  },
+  {
+    "code": "B41J 19/48",
+    "description": "••••••••y montados sobre un solo órgano deslizante [2006.01]"
+  },
+  {
+    "code": "B41J 19/50",
+    "description": "••••••Escapes mandados electromagnéticamente [2006.01]"
+  },
+  {
+    "code": "B41J 19/52",
+    "description": "••••••Escapes que mandan el mecanismo de avance [2006.01]"
+  },
+  {
+    "code": "B41J 19/54",
+    "description": "••••••Estructuras de barras universales [2006.01]"
+  },
+  {
+    "code": "B41J 19/56",
+    "description": "••••••Escapes que mandan el avance de la banda o de la cinta [2006.01]"
+  },
+  {
+    "code": "B41J 19/58",
+    "description": "••••••Sistemas para el espaciamiento variable o diferencial [2006.01]"
+  },
+  {
+    "code": "B41J 19/60",
+    "description": "••••Dispositivos auxiliares de alimentación o de regulación [2006.01]"
+  },
+  {
+    "code": "B41J 19/62",
+    "description": "••••••para el retroceso, tipo por tipo [2006.01]"
+  },
+  {
+    "code": "B41J 19/64",
+    "description": "••••••para la justificación [2006.01]"
+  },
+  {
+    "code": "B41J 19/66",
+    "description": "••••Mecanismos de liberación del carro [2006.01]"
+  },
+  {
+    "code": "B41J 19/68",
+    "description": "••••Mecanismos de retorno del carro, p. ej. accionados a mano [2006.01]"
+  },
+  {
+    "code": "B41J 19/70",
+    "description": "••••••accionados por un motor [2006.01]"
+  },
+  {
+    "code": "B41J 19/72",
+    "description": "••••••••siendo almacenada la energía durante el espaciamiento de los tipos [2006.01]"
+  },
+  {
+    "code": "B41J 19/74",
+    "description": "••••con medios especiales para mantener la unión de elementos de espaciamiento hacia el frente o el fondo de tipos durante el movimiento de transposición de llavero o movimiento similar [2006.01]"
+  },
+  {
+    "code": "B41J 19/76",
+    "description": "••Mecanismos de interlineado (interlineados especiales, p. ej. de gran espaciamiento, B41J 11/36) [2006.01]"
+  },
+  {
+    "code": "B41J 19/78",
+    "description": "••••Mecanismos de avance [2006.01]"
+  },
+  {
+    "code": "B41J 19/80",
+    "description": "••••••Mecanismos de trinquete y diente [2006.01]"
+  },
+  {
+    "code": "B41J 19/82",
+    "description": "••••••••desplazando un carro de papel o similar [2006.01]"
+  },
+  {
+    "code": "B41J 19/84",
+    "description": "••••••••••bajo forma de un rodillo girando para el interlineado [2006.01]"
+  },
+  {
+    "code": "B41J 19/86",
+    "description": "••••••••••••estando el trinquete normalmente unido con el diente [2006.01]"
+  },
+  {
+    "code": "B41J 19/88",
+    "description": "••••••••desplazando un carro portatipos [2006.01]"
+  },
+  {
+    "code": "B41J 19/90",
+    "description": "••••••••desplazando una banda o una cinta de papel o análogo, p. ej. sobre un soporte fijo, automáticamente en respuesta a movimientos distintos del retorno del carro [2006.01]"
+  },
+  {
+    "code": "B41J 19/92",
+    "description": "••••••Mecanismos accionados electromagnéticamente [2006.01]"
+  },
+  {
+    "code": "B41J 19/94",
+    "description": "••••••accionados automáticamente en respuesta a la vuelta del carro [2006.01]"
+  },
+  {
+    "code": "B41J 19/96",
+    "description": "••••••Sistemas de espaciamientos variables [2006.01]"
+  },
+  {
+    "code": "B41J 19/98",
+    "description": "••••Mecanismos de avance de escape [2006.01]"
+  },
+  {
+    "code": "B41J 21/00",
+    "description": "Disposiciones para la impresión bajo forma de columnas, cuadros o presentación análoga; Medios de centrado de las líneas cortas (mecanismos de liberación del carro B41J 19/66) [2006.01]"
+  },
+  {
+    "code": "B41J 21/02",
+    "description": "••Topes o cremalleras de topes [2006.01]"
+  },
+  {
+    "code": "B41J 21/04",
+    "description": "••Mecanismos para colocar o volver a posición los topes de tabulación [2006.01]"
+  },
+  {
+    "code": "B41J 21/06",
+    "description": "••con medios para impedir el rebote [2006.01]"
+  },
+  {
+    "code": "B41J 21/08",
+    "description": "••Mecanismos para desencadenar, efectuar, saltar o parar el movimiento de tabulación; Medios de centrado de líneas cortas [2006.01]"
+  },
+  {
+    "code": "B41J 21/10",
+    "description": "••con tope central, paro o dispositivo equivalente que sobresale sobre el camino o topes de tabulación [2006.01]"
+  },
+  {
+    "code": "B41J 21/12",
+    "description": "••caracterizados por la disposición de contactos eléctricos [2006.01]"
+  },
+  {
+    "code": "B41J 21/14",
+    "description": "••caracterizados por sistemas que permiten una tabulación decimal u otra tabulación análoga [2006.01]"
+  },
+  {
+    "code": "B41J 21/16",
+    "description": "••mandados por la presencia de marcas o indicaciones sobre el papel a dactilografiar, sobre una hoja adyacente o sobre el apoyo [2006.01]"
+  },
+  {
+    "code": "B41J 21/17",
+    "description": "••controlados por informaciones registradas [2006.01]"
+  },
+  {
+    "code": "B41J 21/18",
+    "description": "••caracterizados por la presencia de escalas o de indicadores graduados [2006.01]"
+  },
+  {
+    "code": "B41J 23/00",
+    "description": "Accionamiento de los mecanismos (B41J 9/00 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B41J 23/02",
+    "description": "••Accionamientos mecánicos [2006.01]"
+  },
+  {
+    "code": "B41J 23/04",
+    "description": "••••por un mecanismo previsto para ser acoplado a una fuente de energía que funciona en continuo [2006.01]"
+  },
+  {
+    "code": "B41J 23/06",
+    "description": "••••••por rodillos apresadores [2006.01]"
+  },
+  {
+    "code": "B41J 23/08",
+    "description": "••••••por embrague \"una vuelta\" o \"fracción de vuelta\" [2006.01]"
+  },
+  {
+    "code": "B41J 23/10",
+    "description": "••••••y para ser parado en las posiciones elegidas [2006.01]"
+  },
+  {
+    "code": "B41J 23/12",
+    "description": "••••Mecanismo accionado por levas actuando sobre un rodillo rotativo [2006.01]"
+  },
+  {
+    "code": "B41J 23/14",
+    "description": "••••Mecanismo accionado por intermedio de un órgano oscilante o que tenga un movimiento de vaivén [2006.01]"
+  },
+  {
+    "code": "B41J 23/16",
+    "description": "••••Mecanismo accionado por un resorte tensado mecánicamente [2006.01]"
+  },
+  {
+    "code": "B41J 23/18",
+    "description": "••••Accionamiento de ciclo continuo [2006.01]"
+  },
+  {
+    "code": "B41J 23/20",
+    "description": "••Accionamientos neumáticos o hidráulicos [2006.01]"
+  },
+  {
+    "code": "B41J 23/22",
+    "description": "••••para la selección de tipos por teclas o similar [2006.01]"
+  },
+  {
+    "code": "B41J 23/24",
+    "description": "••••para los mecanismos de impresión [2006.01]"
+  },
+  {
+    "code": "B41J 23/26",
+    "description": "••••para los movimientos del soporte o del carro, p. ej. interlineado, espaciamiento, o retorno del carro [2006.01]"
+  },
+  {
+    "code": "B41J 23/28",
+    "description": "••••para los movimientos del carro portatipos [2006.01]"
+  },
+  {
+    "code": "B41J 23/30",
+    "description": "••••para la transposición del llavero [2006.01]"
+  },
+  {
+    "code": "B41J 23/32",
+    "description": "••Accionamientos electromagnéticos, p. ej. aplicados a las palancas de teclas [2006.01]"
+  },
+  {
+    "code": "B41J 23/34",
+    "description": "••••aplicados a elementos distintos que las palancas de teclas [2006.01]"
+  },
+  {
+    "code": "B41J 23/36",
+    "description": "••••••y actuando sobre órganos unidos a los tipos [2006.01]"
+  },
+  {
+    "code": "B41J 23/38",
+    "description": "••••••y actuando sobre los mecanismos de alineación o de transposición de llavero [2006.01]"
+  },
+  {
+    "code": "B41J 25/00",
+    "description": "Mecanismos o movimientos no previstos en otro lugar [2006.01]"
+  },
+  {
+    "code": "B41J 25/02",
+    "description": "••Movimientos de teclas de fines especiales [2006.01]"
+  },
+  {
+    "code": "B41J 25/04",
+    "description": "••••Retroceso, tipo por tipo [2006.01]"
+  },
+  {
+    "code": "B41J 25/06",
+    "description": "••••Retorno del carro [2006.01]"
+  },
+  {
+    "code": "B41J 25/08",
+    "description": "••••Transposición del llavero [2006.01]"
+  },
+  {
+    "code": "B41J 25/10",
+    "description": "••••Regulación de la cinta entintadora [2006.01]"
+  },
+  {
+    "code": "B41J 25/12",
+    "description": "••••Espaciamiento de tipos [2006.01]"
+  },
+  {
+    "code": "B41J 25/14",
+    "description": "••••Interlineado [2006.01]"
+  },
+  {
+    "code": "B41J 25/16",
+    "description": "••••Interlineado y retorno del carro por una sola tecla [2006.01]"
+  },
+  {
+    "code": "B41J 25/18",
+    "description": "••••Tabulación [2006.01]"
+  },
+  {
+    "code": "B41J 25/20",
+    "description": "••Mecanismos auxiliares para imprimir marcas distintivas, p. ej. para acentuar por utilización de sistemas de teclas muertas o semimuertas, para imprimir marcas en las máquinas telegráficas de impresión que indican que la máquina funciona en recepción [2006.01]"
+  },
+  {
+    "code": "B41J 25/22",
+    "description": "••para alinear los tipos con vistas a la impresión [2006.01]"
+  },
+  {
+    "code": "B41J 25/24",
+    "description": "••Mecanismos para cambiar a mayúsculas; Sistemas para cambiar la fuente o tipo de letra [2006.01]"
+  },
+  {
+    "code": "B41J 25/304",
+    "description": "••Mecanismos móviles para cabezas de impresión o carros móviles hacia, o desde, la superficie del papel [2006.01]"
+  },
+  {
+    "code": "B41J 25/308",
+    "description": "••••con mecanismos de regulación de la distancia entre el elemento de impresión y el material de impresión [2006.01]"
+  },
+  {
+    "code": "B41J 25/312",
+    "description": "••••con mecanismos de regulación de la fuerza de impresión, p. ej. mecanismos de regulación de la presión sobre el papel [2006.01]"
+  },
+  {
+    "code": "B41J 25/316",
+    "description": "••••con mecanismos de movimiento basculante con respecto a la superficie del papel [2006.01]"
+  },
+  {
+    "code": "B41J 25/32",
+    "description": "••Mecanismos de impresión en los que un rodillo coopera con tipos fijos [2006.01]"
+  },
+  {
+    "code": "B41J 25/34",
+    "description": "••Cabezas o carros de impresión reemplazables [2006.01]"
+  },
+  {
+    "code": "B41J 27/00",
+    "description": "Dispositivos de entintado [2006.01]"
+  },
+  {
+    "code": "B41J 27/02",
+    "description": "••siendo la tinta aplicada por tampones o discos rotativos [2006.01]"
+  },
+  {
+    "code": "B41J 27/04",
+    "description": "••••Tampones o discos; Alimentación en tinta de esos tampones o discos [2006.01]"
+  },
+  {
+    "code": "B41J 27/06",
+    "description": "••••Sistemas para asegurar una vida de duración máxima de los tampones o discos [2006.01]"
+  },
+  {
+    "code": "B41J 27/08",
+    "description": "••••Sistemas para trabajos en varios colores [2006.01]"
+  },
+  {
+    "code": "B41J 27/10",
+    "description": "••siendo aplicada la tinta por rodillos; Alimentación de tinta de esos rodillos [2006.01]"
+  },
+  {
+    "code": "B41J 27/12",
+    "description": "••••Rodillos [2006.01]"
+  },
+  {
+    "code": "B41J 27/14",
+    "description": "••••Sistemas para trabajos en varios colores [2006.01]"
+  },
+  {
+    "code": "B41J 27/16",
+    "description": "••siendo depositada la tinta electrostática o electromagnéticamente, p. ej. estando la tinta en polvo [2006.01]"
+  },
+  {
+    "code": "B41J 27/18",
+    "description": "••••con depósito de tinta líquida [2006.01]"
+  },
+  {
+    "code": "B41J 27/20",
+    "description": "••siendo dirigida la tinta por capilaridad, p. ej. a través de elementos de tipo poroso, a través de apoyos porosos [2006.01]"
+  },
+  {
+    "code": "B41J 27/22",
+    "description": "••incluyendo discos o sectores entintados [2006.01]"
+  },
+  {
+    "code": "B41J 29/00",
+    "description": "Partes constitutivas o accesorios para máquinas de escribir o mecanismos de impresión selectivas no previstos en otro lugar [2006.01]"
+  },
+  {
+    "code": "B41J 29/02",
+    "description": "••Bancadas [2006.01]"
+  },
+  {
+    "code": "B41J 29/04",
+    "description": "••Medios para fijar las máquinas a la placa inferior [2006.01]"
+  },
+  {
+    "code": "B41J 29/06",
+    "description": "••Soportes especiales, platos o carros para soportar esas máquinas sobre las mesas [2006.01]"
+  },
+  {
+    "code": "B41J 29/08",
+    "description": "••Soportes, carcasas o tampones no incorporados a las máquinas, para amortiguar el ruido o los choques [2006.01]"
+  },
+  {
+    "code": "B41J 29/10",
+    "description": "••Dispositivos de amortiguación del ruido incorporados a las máquinas [2006.01]"
+  },
+  {
+    "code": "B41J 29/12",
+    "description": "••Defensas, pantallas protectoras o dispositivos de protección contra el polvo [2006.01]"
+  },
+  {
+    "code": "B41J 29/13",
+    "description": "••••Cajas o tapaderas [2006.01]"
+  },
+  {
+    "code": "B41J 29/14",
+    "description": "••Organos anejos mandados por la pierna, p. ej. por el pie o la rodilla [2006.01]"
+  },
+  {
+    "code": "B41J 29/15",
+    "description": "••Soportes para el papel unidos a la máquina de escribir o a la impresora [2006.01]"
+  },
+  {
+    "code": "B41J 29/16",
+    "description": "••Receptáculos auxiliares para los accesorios, p. ej. para las gomas, los lápices [2006.01]"
+  },
+  {
+    "code": "B41J 29/17",
+    "description": "••Disposiciones para la limpieza [2006.01]"
+  },
+  {
+    "code": "B41J 29/18",
+    "description": "••Mecanismos para hacerle visible al operador el texto impreso [2006.01]"
+  },
+  {
+    "code": "B41J 29/19",
+    "description": "••••con reflectores o dispositivos de iluminación [2006.01]"
+  },
+  {
+    "code": "B41J 29/20",
+    "description": "••Utilización de dispositivos de contado [2006.01]"
+  },
+  {
+    "code": "B41J 29/22",
+    "description": "••••Contadores de líneas [2006.01]"
+  },
+  {
+    "code": "B41J 29/24",
+    "description": "••••Contadores de palabras [2006.01]"
+  },
+  {
+    "code": "B41J 29/26",
+    "description": "••Dispositivos, productos no fluidos o procedimientos para borrar, rectificar, subrayar o rayar [2006.01]"
+  },
+  {
+    "code": "B41J 29/28",
+    "description": "••••Instrumentos para escribir o similares situados sobre soportes o guías [2006.01]"
+  },
+  {
+    "code": "B41J 29/30",
+    "description": "••••Ruedas [2006.01]"
+  },
+  {
+    "code": "B41J 29/32",
+    "description": "••••Elementos de tipos [2006.01]"
+  },
+  {
+    "code": "B41J 29/34",
+    "description": "••••••accionados en repetición [2006.01]"
+  },
+  {
+    "code": "B41J 29/36",
+    "description": "••••para borrar o rectificar por sobreimpresión [2006.01]"
+  },
+  {
+    "code": "B41J 29/367",
+    "description": "••••••materiales en hojas revestidas de una capa de corrección pigmentada transferible [2006.01]"
+  },
+  {
+    "code": "B41J 29/373",
+    "description": "••••••materiales en hojas que llevan una capa adhesiva apropiada para levantar los caracteres tipográficos erróneos [2006.01]"
+  },
+  {
+    "code": "B41J 29/377",
+    "description": "••Disposiciones para el enfriamiento o la ventilación [2006.01]"
+  },
+  {
+    "code": "B41J 29/38",
+    "description": "••Accionamientos, motores, mandos, o dispositivos de paro automáticos para todo el mecanismo de impresión [2006.01]"
+  },
+  {
+    "code": "B41J 29/387",
+    "description": "••••Dispositivos de parada automática [2006.01]"
+  },
+  {
+    "code": "B41J 29/393",
+    "description": "••••Dispositivos de control o de análisis del conjunto de la máquina [2006.01]"
+  },
+  {
+    "code": "B41J 29/40",
+    "description": "••Medios para imprimir un texto fijo, es decir, invariable con un texto adicional variable [2006.01]"
+  },
+  {
+    "code": "B41J 29/42",
+    "description": "••Escalas o indicadores graduados, p. ej. para determinar los márgenes laterales [2006.01]"
+  },
+  {
+    "code": "B41J 29/44",
+    "description": "••••para determinar los márgenes superiores e inferiores e indicar el agotamiento del papel [2006.01]"
+  },
+  {
+    "code": "B41J 29/46",
+    "description": "••Utilización de sistemas de alarma, p. ej. accionada por el acercamiento del fin de la línea [2006.01]"
+  },
+  {
+    "code": "B41J 29/48",
+    "description": "••••accionamiento por rotura o fin del papel o acercamiento de la parte inferior de la hoja [2006.01]"
+  },
+  {
+    "code": "B41J 29/50",
+    "description": "••Mecanismos de tope laterales [2006.01]"
+  },
+  {
+    "code": "B41J 29/52",
+    "description": "••Mecanismos de tope superiores e inferiores [2006.01]"
+  },
+  {
+    "code": "B41J 29/54",
+    "description": "••Dispositivos de bloqueo aplicados a los mecanismos de impresión [2006.01]"
+  },
+  {
+    "code": "B41J 29/56",
+    "description": "••••y accionados a mano [2006.01]"
+  },
+  {
+    "code": "B41J 29/58",
+    "description": "••••y accionados automáticamente [2006.01]"
+  },
+  {
+    "code": "B41J 29/60",
+    "description": "••••••en respuesta a una avería de la fuente de energía [2006.01]"
+  },
+  {
+    "code": "B41J 29/62",
+    "description": "••••••por ausencia de papel para cerrar el mecanismo del martillo [2006.01]"
+  },
+  {
+    "code": "B41J 29/64",
+    "description": "••••••por una función del mecanismo de impresión para bloquear el teclado [2006.01]"
+  },
+  {
+    "code": "B41J 29/66",
+    "description": "••••••••Dispositivos de bloqueo puestos en acción cuando el apoyo llega al fin de la línea [2006.01]"
+  },
+  {
+    "code": "B41J 29/68",
+    "description": "••••••por terminación de una página o de un número de líneas predeterminado o el agotamiento del papel para cerrar el teclado [2006.01]"
+  },
+  {
+    "code": "B41J 29/70",
+    "description": "••••••Enclavamiento entre dos de los mecanismos de movimiento del carro, p. ej. mecanismos de espaciamiento, de retroceso, de tabulación, de retorno o de liberación del carro [2006.01]"
+  },
+  {
+    "code": "B41J 31/00",
+    "description": "Cintas entintadoras; Recambio o prueba de cintas entintadoras [2006.01]"
+  },
+  {
+    "code": "B41J 31/02",
+    "description": "••Cintas entintadoras caracterizadas por el material a partir del cual se han tejido [2006.01]"
+  },
+  {
+    "code": "B41J 31/04",
+    "description": "••••tejidas a partir de un material sintético [2006.01]"
+  },
+  {
+    "code": "B41J 31/05",
+    "description": "••Cintas entintadoras que tienen revestimientos diferentes del material de impresión [2006.01]"
+  },
+  {
+    "code": "B41J 31/06",
+    "description": "••••estando los revestimientos directamente sobre el material de base, es decir, bajo el material de transferencia de impresión; Cintas entintadoras que tienen un material de base impregnado con un material distinto al de impresión [2006.01]"
+  },
+  {
+    "code": "B41J 31/08",
+    "description": "••••estando los revestimientos superpuestos sobre el material de transferencia de impresión [2006.01]"
+  },
+  {
+    "code": "B41J 31/09",
+    "description": "••Cintas entintadoras caracterizadas por llevar zonas revestidas de materiales para disimular o borrar los errores tipográficos [2006.01]"
+  },
+  {
+    "code": "B41J 31/10",
+    "description": "••Cintas entintadoras que tienen dispositivos para facilitar su colocación en la máquina [2006.01]"
+  },
+  {
+    "code": "B41J 31/12",
+    "description": "••Cintas entintadoras que tienen dispositivos para impedir todo contacto indeseable entre el material de transferencia de impresión y las partes de la máquina o cualquier otro objeto [2006.01]"
+  },
+  {
+    "code": "B41J 31/14",
+    "description": "••Renovación o ensayo de cintas entintadoras [2006.01]"
+  },
+  {
+    "code": "B41J 31/16",
+    "description": "••••cuando son montadas sobre la máquina utilizando esas cintas entintadoras [2006.01]"
+  },
+  {
+    "code": "B41J 32/00",
+    "description": "Cartuchos para cintas entintadoras [2006.01]"
+  },
+  {
+    "code": "B41J 32/02",
+    "description": "••para cintas sin fin [2006.01]"
+  },
+  {
+    "code": "B41J 33/00",
+    "description": "Aparatos o sistemas para el avance de las cintas entintadoras o del material de transferencia de impresión de tamaño similar a los caracteres [2006.01]"
+  },
+  {
+    "code": "B41J 33/02",
+    "description": "••Disposiciones de cintas [2006.01]"
+  },
+  {
+    "code": "B41J 33/04",
+    "description": "••••montados sobre carros móviles [2006.01]"
+  },
+  {
+    "code": "B41J 33/06",
+    "description": "••••Cintas asociadas a los apoyos de las máquinas pero no solidarias a ellas, p. ej. situada en el sentido transversal del apoyo [2006.01]"
+  },
+  {
+    "code": "B41J 33/08",
+    "description": "••••••situado en el sentido longitudinal del apoyo [2006.01]"
+  },
+  {
+    "code": "B41J 33/10",
+    "description": "••••Disposiciones de cintas sin fin [2006.01]"
+  },
+  {
+    "code": "B41J 33/12",
+    "description": "••••Cintas llevadas por bobinas montadas coaxialmente [2006.01]"
+  },
+  {
+    "code": "B41J 33/14",
+    "description": "••Dispositivos o mecanismos de avance de cintas [2006.01]"
+  },
+  {
+    "code": "B41J 33/16",
+    "description": "••••con arrastre accionando la bobina o el eje de la bobina [2006.01]"
+  },
+  {
+    "code": "B41J 33/18",
+    "description": "••••••por mecanismo de diente (B41J 33/30 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B41J 33/20",
+    "description": "••••••por fricción [2006.01]"
+  },
+  {
+    "code": "B41J 33/22",
+    "description": "••••••por engranajes o poleas [2006.01]"
+  },
+  {
+    "code": "B41J 33/24",
+    "description": "••••con arrastre accionando directamente la cinta [2006.01]"
+  },
+  {
+    "code": "B41J 33/26",
+    "description": "••••••por rodillos accionando la cinta [2006.01]"
+  },
+  {
+    "code": "B41J 33/28",
+    "description": "••••••por mecanismos que tiran o aprietan la cinta [2006.01]"
+  },
+  {
+    "code": "B41J 33/30",
+    "description": "••••Mecanismos de escape [2006.01]"
+  },
+  {
+    "code": "B41J 33/32",
+    "description": "••••Dispositivos electromagnéticos [2006.01]"
+  },
+  {
+    "code": "B41J 33/34",
+    "description": "••••accionados por motores independientes de la misma máquina [2006.01]"
+  },
+  {
+    "code": "B41J 33/36",
+    "description": "••••incluyendo medios para regular el régimen del avance [2006.01]"
+  },
+  {
+    "code": "B41J 33/38",
+    "description": "••••Mecanismos de avance lento, p. ej. \"de deslizamiento\" [2006.01]"
+  },
+  {
+    "code": "B41J 33/382",
+    "description": "••••••no avanzando la cinta más que durante el retorno del carro [2006.01]"
+  },
+  {
+    "code": "B41J 33/384",
+    "description": "••••••••y siendo solidario del carro durante la escritura [2006.01]"
+  },
+  {
+    "code": "B41J 33/386",
+    "description": "••••••no avanzando la cinta más que por la operación del interlineado [2006.01]"
+  },
+  {
+    "code": "B41J 33/388",
+    "description": "••••••no avanzando la cinta más que cuando produce la impresión del tipo [2006.01]"
+  },
+  {
+    "code": "B41J 33/40",
+    "description": "••••incluyendo dispositivos para invertir el sentido de alimentación [2006.01]"
+  },
+  {
+    "code": "B41J 33/42",
+    "description": "••••••manualmente [2006.01]"
+  },
+  {
+    "code": "B41J 33/44",
+    "description": "••••••automáticamente [2006.01]"
+  },
+  {
+    "code": "B41J 33/46",
+    "description": "••••••••y caracterizados por su aplicación a los mecanismos en los que dos bobinas son accionadas por un mecanismo de uña y diente [2006.01]"
+  },
+  {
+    "code": "B41J 33/48",
+    "description": "••••••••••comprendiendo dos dientes y uñas, una por cada bobina [2006.01]"
+  },
+  {
+    "code": "B41J 33/50",
+    "description": "••••••••••comprendiendo un solo trinquete o un trinquete incorporado a un diente doble uniéndose selectivamente en dos dientes, uno por cada bobina [2006.01]"
+  },
+  {
+    "code": "B41J 33/51",
+    "description": "••••••••y caracterizados por la utilización de inversión [2006.01]"
+  },
+  {
+    "code": "B41J 33/512",
+    "description": "••••••••••utilizando para la inversión un elemento sensible girando, en contacto con la periferia externa de la cinta enrolladora [2006.01]"
+  },
+  {
+    "code": "B41J 33/514",
+    "description": "••••••••••utilizando para la inversión un elemento sensible girando, con el interior de la cinta enrolladora [2006.01]"
+  },
+  {
+    "code": "B41J 33/516",
+    "description": "••••••••••utilizando para la inversión un elemento sensible a la tensión de la cinta [2006.01]"
+  },
+  {
+    "code": "B41J 33/518",
+    "description": "••••••••••siendo el elemento sensible utilizado para la inversión solidario de botones o elementos análogos fijados sobre la banda en la proximidad de sus extremidades [2006.01]"
+  },
+  {
+    "code": "B41J 33/52",
+    "description": "••••Dispositivos de frenado apropiados [2006.01]"
+  },
+  {
+    "code": "B41J 33/54",
+    "description": "••••para asegurar una máxima duración de la cinta (B41J 33/38 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B41J 33/56",
+    "description": "••••••Cinta regulada transversalmente [2006.01]"
+  },
+  {
+    "code": "B41J 33/58",
+    "description": "••••••Cinta avanzando según un ángulo [2006.01]"
+  },
+  {
+    "code": "B41J 33/60",
+    "description": "••••sensibles a un código telegráfico o de otros signos exteriores [2006.01]"
+  },
+  {
+    "code": "B41J 35/00",
+    "description": "Otros aparatos o sistemas asociados a los mecanismos de las bandas entintadoras o incorporados en ellas [2006.01]"
+  },
+  {
+    "code": "B41J 35/02",
+    "description": "••Bancadas o soportes para pequeñas longitudes no bobinadas de cintas entintadoras [2006.01]"
+  },
+  {
+    "code": "B41J 35/03",
+    "description": "••••pudiendo colocarse el soporte en posición inactiva, p. ej. por basculamiento hacia arriba [2006.01]"
+  },
+  {
+    "code": "B41J 35/04",
+    "description": "••Guías de cintas entintadoras [2006.01]"
+  },
+  {
+    "code": "B41J 35/06",
+    "description": "••••fijas [2006.01]"
+  },
+  {
+    "code": "B41J 35/08",
+    "description": "••••con sistemas para tensado [2006.01]"
+  },
+  {
+    "code": "B41J 35/10",
+    "description": "••••Mecanismos vibradores; Accionamientos apropiados [2006.01]"
+  },
+  {
+    "code": "B41J 35/12",
+    "description": "••••••regulables, p. ej. para transposición de teclado [2006.01]"
+  },
+  {
+    "code": "B41J 35/14",
+    "description": "••••••••para trabajo en varios colores; para asegurar una duración de vida máxima de la cinta entintadora; para dejar inactiva a la cinta [2006.01]"
+  },
+  {
+    "code": "B41J 35/16",
+    "description": "••Sistemas para varios colores [2006.01]"
+  },
+  {
+    "code": "B41J 35/18",
+    "description": "••••Cambio de color efectuado automáticamente [2006.01]"
+  },
+  {
+    "code": "B41J 35/20",
+    "description": "••Defasado de la cinta entintadora, p. ej. para enseñar la impresión, para regular la transposición del teclado, para dejar inactiva a la banda entintadora [2006.01]"
+  },
+  {
+    "code": "B41J 35/22",
+    "description": "••Mecanismos que permiten el empleo selectivo de varias bandas entintadoras [2006.01]"
+  },
+  {
+    "code": "B41J 35/23",
+    "description": "••••dotados de varias guías de cintas [2006.01]"
+  },
+  {
+    "code": "B41J 35/24",
+    "description": "••Mecanismos adoptados especialmente para el avance del material de transferencia de impresión en forma de hoja [2006.01]"
+  },
+  {
+    "code": "B41J 35/26",
+    "description": "••Desvanecedores o revestimientos de banda entintadora [2006.01]"
+  },
+  {
+    "code": "B41J 35/28",
+    "description": "••Soportes desmontables para mecanismos de cinta entintadora [2006.01]"
+  },
+  {
+    "code": "B41J 35/30",
+    "description": "••Sistemas para el golpe en varios ejemplares [2006.01]"
+  },
+  {
+    "code": "B41J 35/32",
+    "description": "••••para producir varias copias a lo largo de la línea de impresión con una sola banda entintadora [2006.01]"
+  },
+  {
+    "code": "B41J 35/34",
+    "description": "••••utilizando varias bandas entintadoras separadas, p. ej. que comprenden una banda entintadora hectográfica [2006.01]"
+  },
+  {
+    "code": "B41J 35/35",
+    "description": "••••utilizando pequeñas longitudes no bobinadas de cinta entintadora [2006.01]"
+  },
+  {
+    "code": "B41J 35/36",
+    "description": "••Dispositivos de alarma, indicadores o de paro del avance accionados por la rotura o el acabado de la banda entintadora [2006.01]"
+  },
+  {
+    "code": "B41J 35/38",
+    "description": "••Avance de la banda entintadora usada para su eliminación después de usada [2006.01]"
+  }
+]

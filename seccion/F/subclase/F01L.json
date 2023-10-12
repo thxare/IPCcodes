@@ -1,0 +1,582 @@
+[
+  {
+    "code": "F01L 1/00",
+    "description": "Sistemas de distribución mediante válvulas, p. ej. válvulas que se alzan (válvulas que se alzan y sus asientos en sí F01L 3/00; sistemas de distribución mediante correderas F01L 5/00; con accionamiento no mecánico F01L 9/00; dispositivos para válvulas en el pistón o en el vástago del pistón F01L 11/00; modificaciones del sistema de distribución para permitir la inversión del sentido de marcha, el frenado, el arranque, el cambio de la relación de compresión o cualquier otra operación determinada F01L 13/00) [2006.01]"
+  },
+  {
+    "code": "F01L 1/02",
+    "description": "••Accionamiento de la válvula (órgano de transmisión entre el accionamiento de la válvula y la válvula F01L 1/12) [2006.01]"
+  },
+  {
+    "code": "F01L 1/04",
+    "description": "••••mediante levas, ejes de levas, discos de levas, excéntricas o dispositivos análogos (F01L 1/10 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F01L 1/047",
+    "description": "••••••Ejes de levas [2006.01]"
+  },
+  {
+    "code": "F01L 1/053",
+    "description": "••••••••del tipo de árbol de levas en cabeza [2006.01]"
+  },
+  {
+    "code": "F01L 1/06",
+    "description": "••••••las levas o dispositivos análogos giran a una velocidad superior a la que corresponde al ciclo de funcionamiento de la válvula, p. ej. accionamiento de la válvula del motor de cuatro tiempos directamente por el cigüeñal [2006.01]"
+  },
+  {
+    "code": "F01L 1/08",
+    "description": "••••••Forma de las levas [2006.01]"
+  },
+  {
+    "code": "F01L 1/10",
+    "description": "••••mediante vástagos o varillas, accionados por manivelas o excéntricas [2006.01]"
+  },
+  {
+    "code": "F01L 1/12",
+    "description": "••Organo de transmisión entre el accionamiento de la válvula y la válvula (accionando simultáneamente dos o varias válvulas F01L 1/26) [2006.01]"
+  },
+  {
+    "code": "F01L 1/14",
+    "description": "••••Perno móvil; Empujadores [2006.01]"
+  },
+  {
+    "code": "F01L 1/16",
+    "description": "••••••Reducción del ruido del choque; Reducción del desgaste [2006.01]"
+  },
+  {
+    "code": "F01L 1/18",
+    "description": "••••Brazos basculantes o palancas [2006.01]"
+  },
+  {
+    "code": "F01L 1/20",
+    "description": "••Reglaje o compensación de las holguras [2006.01]"
+  },
+  {
+    "code": "F01L 1/22",
+    "description": "••••automáticamente [2006.01]"
+  },
+  {
+    "code": "F01L 1/24",
+    "description": "••••••por medio de un fluido, p. ej. hidráulicamente [2006.01]"
+  },
+  {
+    "code": "F01L 1/245",
+    "description": "••••••••Impulsores hidraúlicos [2006.01]"
+  },
+  {
+    "code": "F01L 1/25",
+    "description": "••••••••••entre la leva y el vástago de válvula [2006.01]"
+  },
+  {
+    "code": "F01L 1/255",
+    "description": "••••••••••entre la leva y brazo de escape [2006.01]"
+  },
+  {
+    "code": "F01L 1/26",
+    "description": "••caracterizados por dos o varias válvulas accionadas simultáneamente por el mismo órgano de transmisión; peculiares a las máquinas o motores que tienen más de dos válvulas que se alzan por cilindro (con válvulas coaxiales F01L 1/28) [2006.01]"
+  },
+  {
+    "code": "F01L 1/28",
+    "description": "••caracterizados por válvulas coaxiales; caracterizados por válvulas que funcionan a la vez con el orificio de admisión y de escape [2006.01]"
+  },
+  {
+    "code": "F01L 1/30",
+    "description": "••caracterizados por válvulas de apertura y cierre accionadas positivamente, es decir, con mando desmodrómico [2006.01]"
+  },
+  {
+    "code": "F01L 1/32",
+    "description": "••caracterizados por dispositivos que hacen girar la válvula que se alza, p. ej. para disminuir el desgaste [2006.01]"
+  },
+  {
+    "code": "F01L 1/34",
+    "description": "••caracterizados por dispositivos que permiten cambiar el período de una válvula sin que varíe la duración de su apertura [2006.01]"
+  },
+  {
+    "code": "F01L 1/344",
+    "description": "••••cambiando la relación angular entre el eje de leva y el cigüeñal, p. ej. utilizando un engranaje helicoidal [2006.01]"
+  },
+  {
+    "code": "F01L 1/348",
+    "description": "••••••con medios actuando sobre las cadenas o correas de distribución [2006.01]"
+  },
+  {
+    "code": "F01L 1/352",
+    "description": "••••••utilizando engranajes cónicos o elípticos [2006.01]"
+  },
+  {
+    "code": "F01L 1/356",
+    "description": "••••••haciendo oscilar la posición angular relativa [2006.01]"
+  },
+  {
+    "code": "F01L 1/36",
+    "description": "••características de las máquinas o motores de un tipo determinado diferente de los que tienen un ciclo de cuatro tiempos [2006.01]"
+  },
+  {
+    "code": "F01L 1/38",
+    "description": "••••para motores que tienen un ciclo diferente del de cuatro tiempos, p. ej. un ciclo de dos tiempos (F01L 1/26, F01L 1/28 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "F01L 1/40",
+    "description": "••••para motores cuyo barrido de gases está próximo a la posición del punto muerto, p. ej. solapando los períodos de admisión y de escape [2006.01]"
+  },
+  {
+    "code": "F01L 1/42",
+    "description": "••••para máquinas o motores caracterizados por la disposición de los cilindros, p. ej. en estrella o en abanico [2006.01]"
+  },
+  {
+    "code": "F01L 1/44",
+    "description": "••Sistemas de distribución mediante válvulas múltiples no cubiertos por uno de los subgrupos precedentes, p. ej. implicando válvulas que se alzan y válvulas de otro tipo distinto [2006.01]"
+  },
+  {
+    "code": "F01L 1/46",
+    "description": "••Partes constitutivas, detalles o accesorios, no cubiertos por ninguno de los subgrupos precedentes [2006.01]"
+  },
+  {
+    "code": "F01L 3/00",
+    "description": "Válvulas que se alzan, es decir, dispositivos obturadores cuyo elemento de cierre tiene al menos una componente de su movimiento de apertura o cierre, perpendicular a la superficie de obturación; Elementos o accesorios de estas válvulas [2006.01]"
+  },
+  {
+    "code": "F01L 3/02",
+    "description": "••Empleo de materiales específicos para cuerpos de válvulas o para sus asientos; Cuerpos de válvulas o asientos de válvulas compuestos de dos o más materiales diferentes [2006.01]"
+  },
+  {
+    "code": "F01L 3/04",
+    "description": "••••Cuerpos de válvulas o asientos de válvula con revestimientos [2006.01]"
+  },
+  {
+    "code": "F01L 3/06",
+    "description": "••Cuerpos o asientos de válvulas con dispositivo de guía o de desvío del fluido que controlan, p. ej. dando un movimiento de rotación a la carga aspirada en el cilindro (para las válvulas que se alzan rotativas F01L 1/32) [2006.01]"
+  },
+  {
+    "code": "F01L 3/08",
+    "description": "••Guías de válvulas; Estanqueidad de los vástagos de válvulas, p. ej. estanqueidad mediante lubrificación [2006.01]"
+  },
+  {
+    "code": "F01L 3/10",
+    "description": "••Conexión de los resortes con los cuerpos de válvulas [2006.01]"
+  },
+  {
+    "code": "F01L 3/12",
+    "description": "••Refrigeración de las válvulas [2006.01]"
+  },
+  {
+    "code": "F01L 3/14",
+    "description": "••••mediante refrigerantes sólido o líquido, p. ej. del sodio en una cámara cerrada dentro de la válvula [2006.01]"
+  },
+  {
+    "code": "F01L 3/16",
+    "description": "••••mediante un fluido que discurre a lo largo o a través de la válvula, p. ej. aire [2006.01]"
+  },
+  {
+    "code": "F01L 3/18",
+    "description": "••••••Refrigeración de las válvulas mediante líquido [2006.01]"
+  },
+  {
+    "code": "F01L 3/20",
+    "description": "••Forma o estructura de los cuerpos de válvula no cubiertos por ninguno de los subgrupos precedentes del presente grupo [2006.01]"
+  },
+  {
+    "code": "F01L 3/22",
+    "description": "••Asientos de válvula no cubiertos por ninguno de los subgrupos precedentes del presente grupo; Fijación de los asientos de válvulas [2006.01]"
+  },
+  {
+    "code": "F01L 3/24",
+    "description": "••Dispositivos o accesorios de seguridad no cubiertos por ninguno de los subgrupos precedentes del presente grupo [2006.01]"
+  },
+  {
+    "code": "F01L 5/00",
+    "description": "Sistemas de distribución mediante válvulas de corredera (con movimiento rotativo u oscilante puro F01L 7/00) [2006.01]"
+  },
+  {
+    "code": "F01L 5/02",
+    "description": "••comprendiendo otras válvulas de formas distintas a las cilíndricas, de camisa o sector anular, p. ej. válvulas del tipo plano [2006.01]"
+  },
+  {
+    "code": "F01L 5/04",
+    "description": "••comprendiendo válvulas cilíndricas, de camisa, o sector anular [2006.01]"
+  },
+  {
+    "code": "F01L 5/06",
+    "description": "••••que rodean el cilindro motor o el pistón [2006.01]"
+  },
+  {
+    "code": "F01L 5/08",
+    "description": "••••••Dispositivos que implican varios movimientos o varias válvulas, p. ej. una válvula en el interior de otra (con válvulas en forma de sector anular F01L 5/12) [2006.01]"
+  },
+  {
+    "code": "F01L 5/10",
+    "description": "••••••••con un movimiento alternativo y otro diferente de la misma válvula [2006.01]"
+  },
+  {
+    "code": "F01L 5/12",
+    "description": "••••••Dispositivos que implican válvulas en forma de sector anular [2006.01]"
+  },
+  {
+    "code": "F01L 5/14",
+    "description": "••caracterizados por válvulas animadas de un movimiento alternativo y de otros movimientos (rodeando el cilindro motor o el pistón F01L 5/06) [2006.01]"
+  },
+  {
+    "code": "F01L 5/16",
+    "description": "••••teniendo la misma válvula simultáneamente un movimiento alternativo y otro diferente, p. ej. en las direcciones longitudinal y transversal con relación al cilindro motor [2006.01]"
+  },
+  {
+    "code": "F01L 5/18",
+    "description": "••••implicando válvulas alternativas y otro tipo de válvulas [2006.01]"
+  },
+  {
+    "code": "F01L 5/20",
+    "description": "••especialmente proyectados para motores de dos tiempos (F01L 5/06, F01L 5/14 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "F01L 5/22",
+    "description": "••Dispositivos de válvulas múltiples (con válvulas que rodean el cilindro motor o el pistón F01L 5/08; con válvulas alternativas y otras válvulas de corredera F01L 5/18; especiales para motores de dos tiempos F01L 5/20) [2006.01]"
+  },
+  {
+    "code": "F01L 5/24",
+    "description": "••Partes constitutivas, detalles o accesorios no cubiertos por ninguno de los subgrupos precedentes del presente grupo [2006.01]"
+  },
+  {
+    "code": "F01L 7/00",
+    "description": "Sistemas de distribución con válvulas rotativas u oscilantes [2006.01]"
+  },
+  {
+    "code": "F01L 7/02",
+    "description": "••implicando válvulas cilíndricas, de camisa o en forma de sector anular (del tipo de disco F01L 7/06; del tipo cónico F01L 7/08) [2006.01]"
+  },
+  {
+    "code": "F01L 7/04",
+    "description": "••••rodeando el cilindro motor o el pistón [2006.01]"
+  },
+  {
+    "code": "F01L 7/06",
+    "description": "••implicando válvulas del tipo de discos [2006.01]"
+  },
+  {
+    "code": "F01L 7/08",
+    "description": "••implicando válvulas de forma cónica o tronco-cónica [2006.01]"
+  },
+  {
+    "code": "F01L 7/10",
+    "description": "••implicando válvulas de forma diferente, p. ej. esférica [2006.01]"
+  },
+  {
+    "code": "F01L 7/12",
+    "description": "••especialmente proyectadas para motores de dos tiempos (F01L 7/04 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F01L 7/14",
+    "description": "••Dispositivos de válvulas múltiples (con válvulas rodeando el cilindro motor o el pistón F01L 7/04; especiales para motores de dos tiempos F01L 7/12) [2006.01]"
+  },
+  {
+    "code": "F01L 7/16",
+    "description": "••Dispositivos de estanqueidad o empaquetaduras con esta finalidad [2006.01]"
+  },
+  {
+    "code": "F01L 7/18",
+    "description": "••Partes constitutivas, detalles, o accesorios no cubiertos en ninguno de los subgrupos precedentes del presente grupo [2006.01]"
+  },
+  {
+    "code": "F01L 9/00",
+    "description": "Sistemas de distribución de válvulas de mando no mecánico [2021.01]"
+  },
+  {
+    "code": "F01L 9/10",
+    "description": "••por medios fluidos, p. ej. hidráulicos [2021.01]"
+  },
+  {
+    "code": "F01L 9/11",
+    "description": "••••en los que la acción de una leva se transmite a una válvula mediante una columna de líquido [2021.01]"
+  },
+  {
+    "code": "F01L 9/12",
+    "description": "••••••con una cámara líquida entre un pistón accionado por una leva y un pistón que actúa en el vástago de una válvula [2021.01]"
+  },
+  {
+    "code": "F01L 9/14",
+    "description": "••••••••siendo el volumen de la cámara variable, p. ej. para variar la elevación o el tiempo de una válvula [2021.01]"
+  },
+  {
+    "code": "F01L 9/16",
+    "description": "••••Medios neumáticos [2021.01]"
+  },
+  {
+    "code": "F01L 9/18",
+    "description": "••••Medios para aumentar la fuerza de apertura inicial de la válvula [2021.01]"
+  },
+  {
+    "code": "F01L 9/20",
+    "description": "••por medios eléctricos [2021.01]"
+  },
+  {
+    "code": "F01L 9/21",
+    "description": "••••accionados por solenoides [2021.01]"
+  },
+  {
+    "code": "F01L 9/22",
+    "description": "••••accionados por motores rotativos [2021.01]"
+  },
+  {
+    "code": "F01L 9/24",
+    "description": "••••Accionadores piezoeléctricos [2021.01]"
+  },
+  {
+    "code": "F01L 9/26",
+    "description": "••••Circuitos de control a tal efecto [2021.01]"
+  },
+  {
+    "code": "F01L 9/30",
+    "description": "••Disposiciones para establecer la posición del actuador, p. ej. la posición inicial [2021.01]"
+  },
+  {
+    "code": "F01L 9/40",
+    "description": "••Métodos de funcionamiento de los mismos; Control del accionamiento de la válvula, p. ej. duración o elevación [2021.01]"
+  },
+  {
+    "code": "F01L 11/00",
+    "description": "Sistemas de válvulas en el propio pistón motor o en el vástago del pistón [2006.01]"
+  },
+  {
+    "code": "F01L 11/02",
+    "description": "••en el pistón [2006.01]"
+  },
+  {
+    "code": "F01L 11/04",
+    "description": "••••gobernadas por el movimiento de la biela de acoplamiento [2006.01]"
+  },
+  {
+    "code": "F01L 11/06",
+    "description": "••••••que accionan una válvula oscilante [2006.01]"
+  },
+  {
+    "code": "F01L 13/00",
+    "description": "Modificaciones del sistema de distribución para permitir invertir la marcha, frenar, arrancar, el cambio de la relación de compresión u otra operación determinada [2006.01]"
+  },
+  {
+    "code": "F01L 13/02",
+    "description": "••para la inversión del sentido de marcha [2006.01]"
+  },
+  {
+    "code": "F01L 13/04",
+    "description": "••para el arranque mediante presión de fluido [2006.01]"
+  },
+  {
+    "code": "F01L 13/06",
+    "description": "••para el frenado [2006.01]"
+  },
+  {
+    "code": "F01L 13/08",
+    "description": "••para la descompresión, p. ej. durante el arranque; para el cambio de la relación de compresión [2006.01]"
+  },
+  {
+    "code": "F01L 15/00",
+    "description": "Sistemas de distribución de válvulas o dispositivos de las mismas, p. ej. con válvulas alternativas diferentes que las cubiertas en los grupos F01L 17/00-F01L 29/00 (accionamiento de válvulas o regulación desde el exterior durante el funcionamiento, mecanismos de disparo o desconexión de válvulas F01L 31/00) [2006.01]"
+  },
+  {
+    "code": "F01L 15/02",
+    "description": "••implicando válvulas diferentes de las cilíndricas, de camisa o en forma de sector anular, p. ej. válvula plana en D [2006.01]"
+  },
+  {
+    "code": "F01L 15/04",
+    "description": "••••estando la válvula principal combinada con una válvula auxiliar (del tipo de válvula de arrastre F01L 15/10) [2006.01]"
+  },
+  {
+    "code": "F01L 15/06",
+    "description": "••••••del tipo Meyer o Rider, es decir, en la cual la expansión está variada por el ajuste de la válvula de expansión por sí misma [2006.01]"
+  },
+  {
+    "code": "F01L 15/08",
+    "description": "••implicando válvulas cilíndricas, de camisa o en forma de sector anular; Válvulas principales de este tipo combinadas con una válvula auxiliar [2006.01]"
+  },
+  {
+    "code": "F01L 15/10",
+    "description": "••implicando una válvula de corredera que actúa como válvula principal y una válvula auxiliar accionada por esta corredera [2006.01]"
+  },
+  {
+    "code": "F01L 15/12",
+    "description": "••caracterizados por un dispositivo que equilibra la presión entre dos espacios diferentes del cilindro durante la marcha en vacío [2006.01]"
+  },
+  {
+    "code": "F01L 15/14",
+    "description": "••Dispositivos que implican varias válvulas principales con funcionamiento conjugado, p. ej. rotativas y alternativas [2006.01]"
+  },
+  {
+    "code": "F01L 15/16",
+    "description": "••••estando estas válvulas formadas únicamente de correderas con movimiento alternativo [2006.01]"
+  },
+  {
+    "code": "F01L 15/18",
+    "description": "••Sistemas de válvulas no cubiertos en ninguno de los subgrupos precedentes de este grupo [2006.01]"
+  },
+  {
+    "code": "F01L 15/20",
+    "description": "••Partes constitutivas, detalles o accesorios no cubiertos en ninguno de los subgrupos precedentes del presente grupo principal [2006.01]"
+  },
+  {
+    "code": "F01L 17/00",
+    "description": "Sistemas de distribución de válvulas de corredera implicando correderas cilíndricas, de camisa o en forma de sector anular, rodeando el cilindro motor o el pistón [2006.01]"
+  },
+  {
+    "code": "F01L 17/02",
+    "description": "••Mando o regulación durante la marcha peculiares a estos sistemas, p. ej. concerniendo a los movimientos alternativos o a las oscilaciones o incluso a varias válvulas que funcionan una en el interior de otra [2006.01]"
+  },
+  {
+    "code": "F01L 19/00",
+    "description": "Sistemas de distribución de válvulas de corredera implicando una combinación de un movimiento alternativo y otro diferente para la misma corredera, diferentes de los cubiertos en F01L 17/00, p. ej. tales que las correderas se desplazan en direcciones longitudinal y transversal en relación con el cilindro motor [2006.01]"
+  },
+  {
+    "code": "F01L 19/02",
+    "description": "••Mando o regulación durante la marcha peculiares a estos sistemas [2006.01]"
+  },
+  {
+    "code": "F01L 21/00",
+    "description": "Pistones-motor o vástagos de pistones-motor que actúan como válvulas distribuidoras de fluido o como elementos soportes de válvulas, p. ej. en las máquinas de pistón libre [2006.01]"
+  },
+  {
+    "code": "F01L 21/02",
+    "description": "••Pistón o vástago de pistón funcionando como cuerpo de válvula [2006.01]"
+  },
+  {
+    "code": "F01L 21/04",
+    "description": "••Válvulas colocadas en o sobre el pistón o el vástago del pistón [2006.01]"
+  },
+  {
+    "code": "F01L 23/00",
+    "description": "Válvulas controladas por el choque del pistón, p. ej. en las máquinas de pistón libre [2006.01]"
+  },
+  {
+    "code": "F01L 25/00",
+    "description": "Accionamiento o reglaje durante la marcha de las válvulas de distribución o de expansión por medios no mecánicos [2006.01]"
+  },
+  {
+    "code": "F01L 25/02",
+    "description": "••mediante fluido [2006.01]"
+  },
+  {
+    "code": "F01L 25/04",
+    "description": "••••por el fluido de trabajo de la máquina o del motor, p. ej. en las máquinas de pistón libre [2006.01]"
+  },
+  {
+    "code": "F01L 25/06",
+    "description": "••••••Dispositivos con las válvulas principales y auxiliares una de las cuales al menos está controlada por fluido [2006.01]"
+  },
+  {
+    "code": "F01L 25/08",
+    "description": "••por medios eléctricos o magnéticos [2006.01]"
+  },
+  {
+    "code": "F01L 27/00",
+    "description": "Sistemas de distribución o expansión particulares para máquinas o motores de pistón libre y no previstos por los grupos F01L 21/00-F01L 25/00 [2006.01]"
+  },
+  {
+    "code": "F01L 27/02",
+    "description": "••teniendo las máquinas o motores válvulas rotativas u oscilantes [2006.01]"
+  },
+  {
+    "code": "F01L 27/04",
+    "description": "••Control de acción diferida, p. ej. del tipo regulador hidráulico o amortiguador [2006.01]"
+  },
+  {
+    "code": "F01L 29/00",
+    "description": "Dispositivo de inversión del sentido de marcha [2006.01]"
+  },
+  {
+    "code": "F01L 29/02",
+    "description": "••por desplazamiento de excéntrica [2006.01]"
+  },
+  {
+    "code": "F01L 29/04",
+    "description": "••por varillas, bielas o vástagos-guías [2006.01]"
+  },
+  {
+    "code": "F01L 29/06",
+    "description": "••por intercambio de las aberturas de admisión y de escape [2006.01]"
+  },
+  {
+    "code": "F01L 29/08",
+    "description": "••especialmente proyectados para válvulas rotativas u oscilantes [2006.01]"
+  },
+  {
+    "code": "F01L 29/10",
+    "description": "••Detalles, p. ej. accionamientos [2006.01]"
+  },
+  {
+    "code": "F01L 29/12",
+    "description": "••••Dispositivo de inversión asistido [2006.01]"
+  },
+  {
+    "code": "F01L 31/00",
+    "description": "Accionamiento de válvulas, reglaje de las válvulas durante la marcha, o cualquier otro control de las válvulas no cubiertas en los grupos del F01L 15/00-F01L 29/00 (elementos sensibles que miden la variable o condición que se va a controlar o regular F01B 25/04) [2006.01]"
+  },
+  {
+    "code": "F01L 31/02",
+    "description": "••implicando un dispositivo de desconexión (para válvulas oscilantes F01L 31/06); Desconexión de válvulas [2006.01]"
+  },
+  {
+    "code": "F01L 31/04",
+    "description": "••••con palancas de desenganche de accionamiento desmodrómico [2006.01]"
+  },
+  {
+    "code": "F01L 31/06",
+    "description": "••con dispositivo de desconexión especialmente proyectado para válvulas oscilantes; Válvulas oscilantes de desconexión, p. ej. del tipo Corliss [2006.01]"
+  },
+  {
+    "code": "F01L 31/08",
+    "description": "••Accionamiento o reglaje de válvulas bajo un aspecto diferente del de desconexión; Elementos de accionamiento de reglaje con desplazamiento desmodrómico [2006.01]"
+  },
+  {
+    "code": "F01L 31/10",
+    "description": "••••estando realizado el accionamiento mediante excéntrica (F01L 31/14 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F01L 31/12",
+    "description": "••••••Reglaje de las válvulas mediante desplazamiento de la excéntrica [2006.01]"
+  },
+  {
+    "code": "F01L 31/14",
+    "description": "••••Reglaje de las válvulas mediante varillas o vástagos guías, p. ej. en los sistemas de distribución de válvulas accionados mediante excéntrica [2006.01]"
+  },
+  {
+    "code": "F01L 31/16",
+    "description": "••••realizándose el accionamiento mediante dispositivos particulares diferentes del de la excéntrica, p. ej. levas; Reglaje de válvulas relativo a los dispositivos de accionamiento de este tipo [2006.01]"
+  },
+  {
+    "code": "F01L 31/18",
+    "description": "••••especialmente proyectados para válvulas rotativas u oscilantes [2006.01]"
+  },
+  {
+    "code": "F01L 31/20",
+    "description": "••••••Reglaje de válvulas [2006.01]"
+  },
+  {
+    "code": "F01L 31/22",
+    "description": "••••especialmente proyectados para válvulas que se alzan [2006.01]"
+  },
+  {
+    "code": "F01L 31/24",
+    "description": "••••••Reglaje de válvulas [2006.01]"
+  },
+  {
+    "code": "F01L 33/00",
+    "description": "Sistemas de distribución de válvulas rotativas u oscilantes, especialmente proyectados para máquinas o motores con distribución variable del fluido de trabajo (accionamiento, reglaje de las válvulas durante la marcha, dispositivo de desconexión, dispositivo de inversión del sentido de la marcha, pistones- motor o vástagos de pistones- motor, que funcionan como válvulas o como elementos soportes de válvulas, sistemas de distribución de válvulas especialmente concebidos para máquinas o motores de pistón libre F01L 15/00-F01L 31/00) [2006.01]"
+  },
+  {
+    "code": "F01L 33/02",
+    "description": "••mediante corredera rotativa [2006.01]"
+  },
+  {
+    "code": "F01L 33/04",
+    "description": "••mediante correderas oscilantes [2006.01]"
+  },
+  {
+    "code": "F01L 35/00",
+    "description": "Sistemas de distribución de válvulas que se alzan especialmente proyectados para máquinas o motores de distribución variable del fluido de trabajo (accionamiento, regulación durante la marcha, dispositivo de desconexión, dispositivo de inversión del sentido de la marcha, pistones- motor o vástagos de pistones- motor, que funcionan como válvulas o como elementos soportes de válvulas, sistemas de distribución de válvulas especialmente concebidos para máquinas o motores de pistón libre F01L 15/00-F01L 31/00) [2006.01]"
+  },
+  {
+    "code": "F01L 35/02",
+    "description": "••Válvulas [2006.01]"
+  },
+  {
+    "code": "F01L 35/04",
+    "description": "••Dispositivos de válvulas en la máquina o en el motor, p. ej. concerniente al cilindro motor [2006.01]"
+  }
+]

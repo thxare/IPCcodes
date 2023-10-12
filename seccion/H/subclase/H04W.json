@@ -1,0 +1,1410 @@
+[
+  {
+    "code": "H04W 4/00",
+    "description": "Servicios especialmente adaptados para las redes de comunicación inalámbricas; Recursos para las mismas [2018.01]"
+  },
+  {
+    "code": "H04W 4/02",
+    "description": "••Servicios que hacen uso de información de localización [2018.01]"
+  },
+  {
+    "code": "H04W 4/021",
+    "description": "••••Servicios relacionados con zonas específicas, p. ej. servicios asociados a puntos de interés [POI], lugares concretos o geovallas [2018.01]"
+  },
+  {
+    "code": "H04W 4/024",
+    "description": "••••Servicios de guiado [2018.01]"
+  },
+  {
+    "code": "H04W 4/029",
+    "description": "••••Servicios de seguimiento o de gestión basados en la localización [2018.01]"
+  },
+  {
+    "code": "H04W 4/06",
+    "description": "••Distribución selectiva de servicios de difusión, p. ej. servicios de difusión multimedia a múltiples usuarios [MBMS]; Servicios para grupos de usuarios; Servicios de llamada selectiva unidireccional [2009.01]"
+  },
+  {
+    "code": "H04W 4/08",
+    "description": "••••Gestión de grupos de usuario [2009.01]"
+  },
+  {
+    "code": "H04W 4/10",
+    "description": "••••Servicios de Pulsar-para-hablar [PTT] o Pulsar-para-llamar [2009.01]"
+  },
+  {
+    "code": "H04W 4/12",
+    "description": "••Mensajería; Buzones de correo; Anuncios [2009.01]"
+  },
+  {
+    "code": "H04W 4/14",
+    "description": "••••Servicios de mensaje corto, p. ej. SMS o servicios suplementarios de datos sin estructurar [USSD] [2009.01]"
+  },
+  {
+    "code": "H04W 4/16",
+    "description": "••Servicios suplementarios relacionados con las comunicaciones, p. ej. transferencia de llamada o llamada en espera [2009.01]"
+  },
+  {
+    "code": "H04W 4/18",
+    "description": "••Formato de información o conversión de contenido, p. ej. adaptación por parte de la red de la información transmitida o recibida con el propósito de entregarla de forma inalámbrica a los usuarios o terminales [2009.01]"
+  },
+  {
+    "code": "H04W 4/20",
+    "description": "••Señalización de servicios; Señalización de datos auxiliares, es decir, transmisión de los datos a través de canales que no son de tráfico [2018.01]"
+  },
+  {
+    "code": "H04W 4/21",
+    "description": "••••para aplicaciones en redes sociales [2018.01]"
+  },
+  {
+    "code": "H04W 4/23",
+    "description": "••••para publicidad en móviles [2018.01]"
+  },
+  {
+    "code": "H04W 4/24",
+    "description": "••Facturación o contabilidad [2018.01]"
+  },
+  {
+    "code": "H04W 4/30",
+    "description": "••Servicios especialmente adaptados para propósitos, situaciones o entornos especiales [2018.01]"
+  },
+  {
+    "code": "H04W 4/33",
+    "description": "••••para entornos interiores, p. ej. edificios [2018.01]"
+  },
+  {
+    "code": "H04W 4/35",
+    "description": "••••para la gestión bienes o mercancías [2018.01]"
+  },
+  {
+    "code": "H04W 4/38",
+    "description": "••••para recoger información procedente de sensores [2018.01]"
+  },
+  {
+    "code": "H04W 4/40",
+    "description": "••••para vehículos, p. ej. del vehículo al peatón [V2P] [2018.01]"
+  },
+  {
+    "code": "H04W 4/42",
+    "description": "••••••para vehículos de transporte colectivo de pasajeros, p. ej. autobuses, trenes o aviones [2018.01]"
+  },
+  {
+    "code": "H04W 4/44",
+    "description": "••••••para la comunicación entre vehículos e infraestructuras, p. ej. del vehículo a la nube [V2C] o del vehículo al hogar [V2H] [2018.01]"
+  },
+  {
+    "code": "H04W 4/46",
+    "description": "••••••para comunicación de vehículo a vehículo [V2V] [2018.01]"
+  },
+  {
+    "code": "H04W 4/48",
+    "description": "••••••para comunicaciones en el vehículo [2018.01]"
+  },
+  {
+    "code": "H04W 4/50",
+    "description": "••Reconfiguración o provisión de servicios [2018.01]"
+  },
+  {
+    "code": "H04W 4/60",
+    "description": "••Servicios de pago que utilizan servidores de aplicaciones o portadores de registros, p. ej. herramientas de aplicaciones SIM [2018.01]"
+  },
+  {
+    "code": "H04W 4/70",
+    "description": "••Servicios para la comunicación de máquina a máquina [M2M] o la comunicación del tipo entre máquinas [MTC] [2018.01]"
+  },
+  {
+    "code": "H04W 4/80",
+    "description": "••Servicios que utilizan comunicaciones de corto alcance, p. ej. comunicaciones mediante campo cercano [NFC], identificación por radiofrecuencia [RFID] o comunicaciones de baja energía [2018.01]"
+  },
+  {
+    "code": "H04W 4/90",
+    "description": "••Servicios para gestionar situaciones de emergencia o peligro, p. ej. sistemas de alerta de tsunami y terremotos [ETWS] [2018.01]"
+  },
+  {
+    "code": "H04W 8/00",
+    "description": "Gestión de datos de red [2009.01]"
+  },
+  {
+    "code": "H04W 8/02",
+    "description": "••Procesamiento de datos de movilidad, p. ej. información de registro en HLR [Home Location Register] o en VLR [Visitor Location Register]; Transferencia de datos de movilidad, p. ej. entre el HLR, VLR o a redes externas [2009.01]"
+  },
+  {
+    "code": "H04W 8/04",
+    "description": "••••Registro enHLR o HSS [Home Subscriber Server] [2009.01]"
+  },
+  {
+    "code": "H04W 8/06",
+    "description": "••••Registro en el servidorde red Registro de Localización,VLR oen el servidor de movilidad de usuario [2009.01]"
+  },
+  {
+    "code": "H04W 8/08",
+    "description": "••••Transferencia de datos de movilidad [2009.01]"
+  },
+  {
+    "code": "H04W 8/10",
+    "description": "••••••entre el registro de localización y redes externas [2009.01]"
+  },
+  {
+    "code": "H04W 8/12",
+    "description": "••••••entre el registro de localización y servidores de movilidad [2009.01]"
+  },
+  {
+    "code": "H04W 8/14",
+    "description": "••••••entre los nodos correspondientes [2009.01]"
+  },
+  {
+    "code": "H04W 8/16",
+    "description": "••••••restringiendo selectivamente el seguimiento de la movilidad [2009.01]"
+  },
+  {
+    "code": "H04W 8/18",
+    "description": "••Procesamiento de los datos de usuario o subscriptor, p. ej. servicios de suscripción, preferencias de usuario o perfil de usuario; Transferencia de datos de usuario o subscriptor [2009.01]"
+  },
+  {
+    "code": "H04W 8/20",
+    "description": "••••Transferencia de datos de usuario o subscriptor [2009.01]"
+  },
+  {
+    "code": "H04W 8/22",
+    "description": "••Procesamiento o transferencias de datos del terminal, p. ej. estado o capacidades físicas [2009.01]"
+  },
+  {
+    "code": "H04W 8/24",
+    "description": "••••Transferencia de datos del terminal [2009.01]"
+  },
+  {
+    "code": "H04W 8/26",
+    "description": "••Direccionamiento de red o numeración para apoyar la movilidad [2009.01]"
+  },
+  {
+    "code": "H04W 8/28",
+    "description": "••••Portabilidad del número [2009.01]"
+  },
+  {
+    "code": "H04W 8/30",
+    "description": "••Restauración de datos de red [2009.01]"
+  },
+  {
+    "code": "H04W 12/00",
+    "description": "Disposiciones de seguridad; Autenticación; Protección de la privacidad o el anonimato [2021.01]"
+  },
+  {
+    "code": "H04W 12/02",
+    "description": "••Protección de la privacidad o el anonimato, p. ej. protección de la información identificable personalmente [PII] [2009.01]"
+  },
+  {
+    "code": "H04W 12/03",
+    "description": "••Protección de la confidencialidad, p. ej. por encriptación [2021.01]"
+  },
+  {
+    "code": "H04W 12/033",
+    "description": "••••del plano de usuario, p. ej.  tráfico de usuario [2021.01]"
+  },
+  {
+    "code": "H04W 12/037",
+    "description": "••••del plano de control, p.ej. señalización del tráfico [2021.01]"
+  },
+  {
+    "code": "H04W 12/04",
+    "description": "••Gestión de claves, p. ej. utilizando la arquitectura genérica de bootstrapping [GBA] [2021.01]"
+  },
+  {
+    "code": "H04W 12/041",
+    "description": "••••Generación o derivación de claves [2021.01]"
+  },
+  {
+    "code": "H04W 12/043",
+    "description": "••••usando un nodo de red de confianza como ancla [2021.01]"
+  },
+  {
+    "code": "H04W 12/0431",
+    "description": "••••••Distribución o predistribución de claves; Establecimiento de claves [2021.01]"
+  },
+  {
+    "code": "H04W 12/0433",
+    "description": "••••••Protocolos de gestión de clave [2021.01]"
+  },
+  {
+    "code": "H04W 12/047",
+    "description": "••••sin usar un nodo de red de confianza como ancla [2021.01]"
+  },
+  {
+    "code": "H04W 12/0471",
+    "description": "••••••Intercambio de claves [2021.01]"
+  },
+  {
+    "code": "H04W 12/06",
+    "description": "••Autenticación [2021.01]"
+  },
+  {
+    "code": "H04W 12/062",
+    "description": "••••Pre-autenticación [2021.01]"
+  },
+  {
+    "code": "H04W 12/065",
+    "description": "••••Autenticación continua [2021.01]"
+  },
+  {
+    "code": "H04W 12/069",
+    "description": "••••usando certificados o claves pre-compartidas [2021.01]"
+  },
+  {
+    "code": "H04W 12/08",
+    "description": "••Seguridad de acceso [2021.01]"
+  },
+  {
+    "code": "H04W 12/082",
+    "description": "••••utilizando la revocación de la autorización [2021.01]"
+  },
+  {
+    "code": "H04W 12/084",
+    "description": "••••utilizando la autorización delegada, p. ej.  el protocolo de autorización abierta [OAuth]. [2021.01]"
+  },
+  {
+    "code": "H04W 12/086",
+    "description": "••••usando dominios de seguridad [2021.01]"
+  },
+  {
+    "code": "H04W 12/088",
+    "description": "••••usando filtros o cortafuegos [2021.01]"
+  },
+  {
+    "code": "H04W 12/10",
+    "description": "••Integridad [2021.01]"
+  },
+  {
+    "code": "H04W 12/102",
+    "description": "••••Integridad de la ruta, p. ej. usando rutas confiables [2021.01]"
+  },
+  {
+    "code": "H04W 12/104",
+    "description": "••••Integridad de la ubicación, p. ej.  etiquetado geográfico seguro [2021.01]"
+  },
+  {
+    "code": "H04W 12/106",
+    "description": "••••Integridad del paquete o del mensaje [2021.01]"
+  },
+  {
+    "code": "H04W 12/108",
+    "description": "••••Integridad de la fuente [2021.01]"
+  },
+  {
+    "code": "H04W 12/12",
+    "description": "••Detección o prevención de fraude [2021.01]"
+  },
+  {
+    "code": "H04W 12/121",
+    "description": "••••Sistemas inalámbricos de detección de intrusos [WIDS]; Sistemas inalámbricos de prevención de intrusos [WIPS] [2021.01]"
+  },
+  {
+    "code": "H04W 12/122",
+    "description": "••••••Contramedidas contra los ataques; Protección contra los dispositivos fraudulentos [2021.01]"
+  },
+  {
+    "code": "H04W 12/125",
+    "description": "••••Protección contra los ataques de agotamiento de energía [2021.01]"
+  },
+  {
+    "code": "H04W 12/126",
+    "description": "••••Disposiciones antirrobo, p. ej. protección contra la clonación del módulo de identidad del abonado [SIM]. [2021.01]"
+  },
+  {
+    "code": "H04W 12/128",
+    "description": "••••Acuerdos antimalware, p. ej. protección contra el fraude de SMS o malware móvil [2021.01]"
+  },
+  {
+    "code": "H04W 12/30",
+    "description": "••Seguridad de los dispositivos móviles; Seguridad de las aplicaciones móviles [2021.01]"
+  },
+  {
+    "code": "H04W 12/33",
+    "description": "••••utilizando dispositivos de uso cotidiano, p. ej. que usan un reloj inteligente o gafas inteligentes [2021.01]"
+  },
+  {
+    "code": "H04W 12/37",
+    "description": "••••Gestión de las políticas de seguridad para los dispositivos móviles o para el control de las aplicaciones móviles [2021.01]"
+  },
+  {
+    "code": "H04W 12/40",
+    "description": "••Disposiciones de seguridad mediante módulos de identidad [2021.01]"
+  },
+  {
+    "code": "H04W 12/42",
+    "description": "••••que usan módulos de identidad virtual [2021.01]"
+  },
+  {
+    "code": "H04W 12/43",
+    "description": "••••que usan módulos de identidad compartida, p. ej. compartir la SIM [2021.01]"
+  },
+  {
+    "code": "H04W 12/45",
+    "description": "••••que usan múltiples módulos de identidad [2021.01]"
+  },
+  {
+    "code": "H04W 12/47",
+    "description": "••••usando módulos de comunicación de campo cercano [NFC] o de identificación por radiofrecuencia [RFID] [2021.01]"
+  },
+  {
+    "code": "H04W 12/48",
+    "description": "••••utilizando una vinculación segura, p. ej. vinculando de forma segura los módulos de identidad a los dispositivos, servicios o aplicaciones [2021.01]"
+  },
+  {
+    "code": "H04W 12/50",
+    "description": "••Emparejamiento seguro de dispositivos [2021.01]"
+  },
+  {
+    "code": "H04W 12/55",
+    "description": "••••que implica tres o más dispositivos, p. ej. emparejamiento de grupos [2021.01]"
+  },
+  {
+    "code": "H04W 12/60",
+    "description": "••Seguridad dependiente del contexto [2021.01]"
+  },
+  {
+    "code": "H04W 12/61",
+    "description": "••••Dependiente del tiempo [2021.01]"
+  },
+  {
+    "code": "H04W 12/63",
+    "description": "••••Dependiente de la ubicación; Dependiente de la proximidad [2021.01]"
+  },
+  {
+    "code": "H04W 12/64",
+    "description": "••••••usando áreas georeferenciadas [2021.01]"
+  },
+  {
+    "code": "H04W 12/65",
+    "description": "••••Dependiente del medio ambiente, p. ej. utilizando los datos ambientales capturados [2021.01]"
+  },
+  {
+    "code": "H04W 12/67",
+    "description": "••••Dependiente del riesgo, p. ej. seleccionando un nivel de seguridad en función de los perfiles de riesgo [2021.01]"
+  },
+  {
+    "code": "H04W 12/68",
+    "description": "••••Dependiente de los gestos o del comportamiento [2021.01]"
+  },
+  {
+    "code": "H04W 12/69",
+    "description": "••••Dependiente de la identidad [2021.01]"
+  },
+  {
+    "code": "H04W 12/71",
+    "description": "••••••Identidad del hardware [2021.01]"
+  },
+  {
+    "code": "H04W 12/72",
+    "description": "••••••Identidad del suscriptor [2021.01]"
+  },
+  {
+    "code": "H04W 12/73",
+    "description": "••••••Identidad lógica del punto de acceso [2021.01]"
+  },
+  {
+    "code": "H04W 12/75",
+    "description": "••••••Identidad temporal [2021.01]"
+  },
+  {
+    "code": "H04W 12/76",
+    "description": "••••••Identidad de grupo [2021.01]"
+  },
+  {
+    "code": "H04W 12/77",
+    "description": "••••••Identidad de gráfica [2021.01]"
+  },
+  {
+    "code": "H04W 12/79",
+    "description": "••••••Huella dactilar de radio [2021.01]"
+  },
+  {
+    "code": "H04W 12/80",
+    "description": "••Disposiciones que permiten la interceptación legal [LI] [2021.01]"
+  },
+  {
+    "code": "H04W 16/00",
+    "description": "Planificación de red, p. ej. herramientas de planificación de cobertura o tráfico; Utilización de red, p. ej. división de recursos o estructuras  celulares [2009.01]"
+  },
+  {
+    "code": "H04W 16/02",
+    "description": "••División de recursos entre los componentes de la red, p. ej. reutilización por división [2009.01]"
+  },
+  {
+    "code": "H04W 16/04",
+    "description": "••••División de recursos por trafico adaptativo [2009.01]"
+  },
+  {
+    "code": "H04W 16/06",
+    "description": "••••División hibrida de recursos, p. ej. cesión de canal [2009.01]"
+  },
+  {
+    "code": "H04W 16/08",
+    "description": "••••••Tramitación para reparto de la carga [2009.01]"
+  },
+  {
+    "code": "H04W 16/10",
+    "description": "••••División dinámica de recursos [2009.01]"
+  },
+  {
+    "code": "H04W 16/12",
+    "description": "••••División fija de recursos [2009.01]"
+  },
+  {
+    "code": "H04W 16/14",
+    "description": "••Disposiciones para compartir el espectro [2009.01]"
+  },
+  {
+    "code": "H04W 16/16",
+    "description": "••••para PBS [Estaciones de Base Privada, (Private Base Station)] [2009.01]"
+  },
+  {
+    "code": "H04W 16/18",
+    "description": "••Herramientas de planificación de red [2009.01]"
+  },
+  {
+    "code": "H04W 16/20",
+    "description": "••••para cobertura en interiores o utilización de red de corto alcance [2009.01]"
+  },
+  {
+    "code": "H04W 16/22",
+    "description": "••Modelos o herramientas para simulación de tráfico [2009.01]"
+  },
+  {
+    "code": "H04W 16/24",
+    "description": "••Estructura celular [2009.01]"
+  },
+  {
+    "code": "H04W 16/26",
+    "description": "••••Potenciadores celulares, p. ej. para túneles osombra de edificios [2009.01]"
+  },
+  {
+    "code": "H04W 16/28",
+    "description": "••••usando orientación del haz [2009.01]"
+  },
+  {
+    "code": "H04W 16/30",
+    "description": "••••Formas especiales de células, p. ej. células toroidales oen anillo [2009.01]"
+  },
+  {
+    "code": "H04W 16/32",
+    "description": "••••Estructuras celulares jerárquicas [2009.01]"
+  },
+  {
+    "code": "H04W 24/00",
+    "description": "Disposiciones de supervisión, monitorización y de prueba [2009.01]"
+  },
+  {
+    "code": "H04W 24/02",
+    "description": "••Disposiciones para la optimización de las condiciones de operación [2009.01]"
+  },
+  {
+    "code": "H04W 24/04",
+    "description": "••Disposiciones para el mantenimiento de las condiciones de operación [2009.01]"
+  },
+  {
+    "code": "H04W 24/06",
+    "description": "••Pruebas mediante tráfico simulado [2009.01]"
+  },
+  {
+    "code": "H04W 24/08",
+    "description": "••Pruebas mediante tráfico real [2009.01]"
+  },
+  {
+    "code": "H04W 24/10",
+    "description": "••Planificación de informes de medida [2009.01]"
+  },
+  {
+    "code": "H04W 28/00",
+    "description": "Gestión del tráfico de red; Gestión de recursos de red [2009.01]"
+  },
+  {
+    "code": "H04W 28/02",
+    "description": "••Gestión de tráfico, p. ej. control de flujo o control de congestión [2009.01]"
+  },
+  {
+    "code": "H04W 28/04",
+    "description": "••••Control de errores [2009.01]"
+  },
+  {
+    "code": "H04W 28/06",
+    "description": "••••Optimización, p. ej. compresión de cabeceras o dimensionado de la información [2009.01]"
+  },
+  {
+    "code": "H04W 28/08",
+    "description": "••••Balance de carga o distribución de carga (transferencia de una conexión para gestionar el tráfico H04W 36/22; planificación de tráfico inalámbrico H04W 72/12) [2023.01]"
+  },
+  {
+    "code": "H04W 28/082",
+    "description": "••••••entre portadores o canales [2023.01]"
+  },
+  {
+    "code": "H04W 28/084",
+    "description": "••••••entre entidades de virtualización de funciones de red [NFV]; entre entidades de computación de borde, p. ej. computación de borde acceso múltiple [2023.01]"
+  },
+  {
+    "code": "H04W 28/086",
+    "description": "••••••entre las entidades de acceso [2023.01]"
+  },
+  {
+    "code": "H04W 28/088",
+    "description": "••••••entre las entidades centrales [2023.01]"
+  },
+  {
+    "code": "H04W 28/10",
+    "description": "••••Control de flujo [2009.01]"
+  },
+  {
+    "code": "H04W 28/12",
+    "description": "••••••utilizando señalización entre los elementos de red [2009.01]"
+  },
+  {
+    "code": "H04W 28/14",
+    "description": "••••••utilizando almacenamiento intermedio [2009.01]"
+  },
+  {
+    "code": "H04W 28/16",
+    "description": "••Gestión central de recursos; Negociación de recursos o parámetros de comunicación, p. ej. negociación de ancho de banda o QoS [Calidad del Servicio] [2009.01]"
+  },
+  {
+    "code": "H04W 28/18",
+    "description": "••••Negociación de parámetros de comunicación inalámbrica [2009.01]"
+  },
+  {
+    "code": "H04W 28/20",
+    "description": "••••••Negociación de ancho de banda [2009.01]"
+  },
+  {
+    "code": "H04W 28/22",
+    "description": "••••••Negociación de velocidad de comunicación [2009.01]"
+  },
+  {
+    "code": "H04W 28/24",
+    "description": "••••Negociación de SLA [Acuerdo de Calidad de Servicios(Service Level Agreement)]; Negociación de QoS [Calidad de Servicio (Quality of Service)] [2009.01]"
+  },
+  {
+    "code": "H04W 28/26",
+    "description": "••••Reserva de recursos [2009.01]"
+  },
+  {
+    "code": "H04W 36/00",
+    "description": "Transferencia (Handover) o disposiciones para reseleccionar (Handoff) [2009.01]"
+  },
+  {
+    "code": "H04W 36/02",
+    "description": "••Almacenamiento (Buffering) o recuperación de información durante la reselección [2009.01]"
+  },
+  {
+    "code": "H04W 36/04",
+    "description": "••Reselección de la capa de una célula en células múlticapa [2009.01]"
+  },
+  {
+    "code": "H04W 36/06",
+    "description": "••Reselección de un recurso de comunicación en el servicio a un punto de acceso [2009.01]"
+  },
+  {
+    "code": "H04W 36/08",
+    "description": "••Reselección de un punto de acceso [2009.01]"
+  },
+  {
+    "code": "H04W 36/10",
+    "description": "••Reselección de un controlador de punto de acceso [2009.01]"
+  },
+  {
+    "code": "H04W 36/12",
+    "description": "••Reselección de un servicio de red troncal conmutada o un nodo de enrutado [2009.01]"
+  },
+  {
+    "code": "H04W 36/14",
+    "description": "••Reselección de una red o una interfaz aire [2009.01]"
+  },
+  {
+    "code": "H04W 36/16",
+    "description": "••Realización de una reselección para propósitos específicos [2009.01]"
+  },
+  {
+    "code": "H04W 36/18",
+    "description": "••••para permitir reselección sin discontinuidad , p. ej. reselección blanda (relection-soft) [2009.01]"
+  },
+  {
+    "code": "H04W 36/20",
+    "description": "••••para optimizar el nivel de interferencia [2009.01]"
+  },
+  {
+    "code": "H04W 36/22",
+    "description": "••••para gestionar el tráfico [2009.01]"
+  },
+  {
+    "code": "H04W 36/24",
+    "description": "••Reselección desencadenada por parámetros específicos [2009.01]"
+  },
+  {
+    "code": "H04W 36/26",
+    "description": "••••por acuerdo o negociación de parámetros de comunicación negociados [2009.01]"
+  },
+  {
+    "code": "H04W 36/28",
+    "description": "••••••participando una pluralidad de conexiones, p. ej. conexiones multi-llamada o multi-portadora [2009.01]"
+  },
+  {
+    "code": "H04W 36/30",
+    "description": "••••por medida o percepción de la calidad de los datos [2009.01]"
+  },
+  {
+    "code": "H04W 36/32",
+    "description": "••••por localización o datos de movilidad, p. ej. velocidad de los datos [2009.01]"
+  },
+  {
+    "code": "H04W 36/34",
+    "description": "••Control de reselección [2009.01]"
+  },
+  {
+    "code": "H04W 36/36",
+    "description": "••••por usuario o equipo terminal [2009.01]"
+  },
+  {
+    "code": "H04W 36/38",
+    "description": "••••por equipo de la red fija [2009.01]"
+  },
+  {
+    "code": "H04W 40/00",
+    "description": "Enrutado de la comunicación o búsqueda de la ruta (o camino) de la comunicación [2009.01]"
+  },
+  {
+    "code": "H04W 40/02",
+    "description": "••Enrutado de la comunicación o selección de la ruta, p.ej basado en potencia o en camino más corto [2009.01]"
+  },
+  {
+    "code": "H04W 40/04",
+    "description": "••••basado en recursos de nodos inalámbricos [2009.01]"
+  },
+  {
+    "code": "H04W 40/06",
+    "description": "••••••basado en las características de antenas disponibles [2009.01]"
+  },
+  {
+    "code": "H04W 40/08",
+    "description": "••••••basado en potencia de transmisión [2009.01]"
+  },
+  {
+    "code": "H04W 40/10",
+    "description": "••••••basado en potencia o energía disponible [2009.01]"
+  },
+  {
+    "code": "H04W 40/12",
+    "description": "••••basado en calidad de transmisión o en calidad de canal [2009.01]"
+  },
+  {
+    "code": "H04W 40/14",
+    "description": "••••••basado en estabilidad [2009.01]"
+  },
+  {
+    "code": "H04W 40/16",
+    "description": "••••••basado en interferencia [2009.01]"
+  },
+  {
+    "code": "H04W 40/18",
+    "description": "••••basado en  predicción de eventos [2009.01]"
+  },
+  {
+    "code": "H04W 40/20",
+    "description": "••••basado en  la posición geográfica o localización [2009.01]"
+  },
+  {
+    "code": "H04W 40/22",
+    "description": "••••utilizando la retransmisión selectiva para captar la BTS [Estación Base Transceptora (Base Transceiver Station)] o un punto de acceso [2009.01]"
+  },
+  {
+    "code": "H04W 40/24",
+    "description": "••Gestión de información de conectividad, p. ej. descubrimiento de conectividad o actualización de conectividad [2009.01]"
+  },
+  {
+    "code": "H04W 40/26",
+    "description": "••••por enrutado híbrido combinando enrutado proactivo y reactivo (bajo demanda) [2009.01]"
+  },
+  {
+    "code": "H04W 40/28",
+    "description": "••••por enrutado reactivo (bajo demanda) [2009.01]"
+  },
+  {
+    "code": "H04W 40/30",
+    "description": "••••por enrutado proactivo [2009.01]"
+  },
+  {
+    "code": "H04W 40/32",
+    "description": "••••por definición de un grupo de miembros de enrutado [2009.01]"
+  },
+  {
+    "code": "H04W 40/34",
+    "description": "••Modificación de una ruta existente [2009.01]"
+  },
+  {
+    "code": "H04W 40/36",
+    "description": "••••por transferencia (handover) [2009.01]"
+  },
+  {
+    "code": "H04W 40/38",
+    "description": "••••adaptado a la variación relativa de las distancias entre los nodos [2009.01]"
+  },
+  {
+    "code": "H04W 48/00",
+    "description": "Restricción de acceso (seguridad de acceso para prevenir accesos no autorizados H04W 12/08); Selección de red; Selección del punto de acceso [2009.01]"
+  },
+  {
+    "code": "H04W 48/02",
+    "description": "••Restricción de acceso actuando bajo condiciones específicas [2009.01]"
+  },
+  {
+    "code": "H04W 48/04",
+    "description": "••••basado en el usuario o en la localización de terminal o en datos de movilidad, p. ej. dirección del movimiento o velocidad [2009.01]"
+  },
+  {
+    "code": "H04W 48/06",
+    "description": "••••basado en condiciones de tráfico [2009.01]"
+  },
+  {
+    "code": "H04W 48/08",
+    "description": "••Restricción de acceso o envío de información de acceso, p. ej. descubrimiento de datos de envío (señalización durante la conexión  H04W 76/00) [2009.01]"
+  },
+  {
+    "code": "H04W 48/10",
+    "description": "••••usando información difundida (broadcast) [2009.01]"
+  },
+  {
+    "code": "H04W 48/12",
+    "description": "••••usando un canal de control del DL (downlink) [2009.01]"
+  },
+  {
+    "code": "H04W 48/14",
+    "description": "••••interrogando al usuario [2009.01]"
+  },
+  {
+    "code": "H04W 48/16",
+    "description": "••Descubrimiento; Procesado de la restricción de acceso o de la información de acceso [2009.01]"
+  },
+  {
+    "code": "H04W 48/18",
+    "description": "••Selección de red o de servicio de comunicación [2009.01]"
+  },
+  {
+    "code": "H04W 48/20",
+    "description": "••Selección de un punto de acceso [2009.01]"
+  },
+  {
+    "code": "H04W 52/00",
+    "description": "Gestión de potencia [2009.01]"
+  },
+  {
+    "code": "H04W 52/02",
+    "description": "••Disposiciones para ahorro de potencia [2009.01]"
+  },
+  {
+    "code": "H04W 52/04",
+    "description": "••Control de la Transmisión de Potencia [TPC] [2009.01]"
+  },
+  {
+    "code": "H04W 52/06",
+    "description": "••••Algoritmos TPC [2009.01]"
+  },
+  {
+    "code": "H04W 52/08",
+    "description": "••••••Control de potencia en lazo cerrado [2009.01]"
+  },
+  {
+    "code": "H04W 52/10",
+    "description": "••••••Control de potencia en lazo abierto [2009.01]"
+  },
+  {
+    "code": "H04W 52/12",
+    "description": "••••••Lazos exteriores e interiores [2009.01]"
+  },
+  {
+    "code": "H04W 52/14",
+    "description": "••••••Análisis separado del enlace ascendente (uplink) o descendente(downlink) [2009.01]"
+  },
+  {
+    "code": "H04W 52/16",
+    "description": "••••••Obtención de valores de potencia de transmisión desde otro canal [2009.01]"
+  },
+  {
+    "code": "H04W 52/18",
+    "description": "••••Ejecutando el TPC acorde a parámetros específicos [2009.01]"
+  },
+  {
+    "code": "H04W 52/20",
+    "description": "••••••utilizando la tasa de error [2009.01]"
+  },
+  {
+    "code": "H04W 52/22",
+    "description": "••••••teniendo en cuenta información previa u órdenes (comandos) [2009.01]"
+  },
+  {
+    "code": "H04W 52/24",
+    "description": "••••••utilizando la SIR [Signal-Interference Ratio] u otros parámetros de ruta inalámbrica [2009.01]"
+  },
+  {
+    "code": "H04W 52/26",
+    "description": "••••••utilizando la velocidad de transmisión o calidad de servicio QoS [2009.01]"
+  },
+  {
+    "code": "H04W 52/28",
+    "description": "••••••utilizando el perfil de usuario, p. ej. velocidad de movilidad, prioridad o estado de la red, p. ej. modo de espera, inactivo o sin transmitir [2009.01]"
+  },
+  {
+    "code": "H04W 52/30",
+    "description": "••••utilizando restricciones de la cantidad de potencia de transmisión disponible [2009.01]"
+  },
+  {
+    "code": "H04W 52/32",
+    "description": "••••••TPC de difusión (broadcast) o canales de control [2009.01]"
+  },
+  {
+    "code": "H04W 52/34",
+    "description": "••••••gestión de TPC, p. ej. compartiendo la cantidad limitada de potencia entre los usuarios, entre canales o entre tipos de datos p. ej. carga de células [2009.01]"
+  },
+  {
+    "code": "H04W 52/36",
+    "description": "••••••con un rango discreto o un conjunto de valores, p. ej. tamaño de paso, rampas u offsets [2009.01]"
+  },
+  {
+    "code": "H04W 52/38",
+    "description": "••••ejecutando el TPC en situaciones particulares [2009.01]"
+  },
+  {
+    "code": "H04W 52/40",
+    "description": "••••••durante macro-diversidad o traspaso suave (soft handoff) [2009.01]"
+  },
+  {
+    "code": "H04W 52/42",
+    "description": "••••••en sistemas con diversidad temporal, espacial, de frecuencias o de polarización [2009.01]"
+  },
+  {
+    "code": "H04W 52/44",
+    "description": "••••••en relación con la interrupción de la transmisión [2009.01]"
+  },
+  {
+    "code": "H04W 52/46",
+    "description": "••••••en redes multisalto, p. ej. en redes de transmisión inalámbricas [2009.01]"
+  },
+  {
+    "code": "H04W 52/48",
+    "description": "••••••durante la retransmisión después de un error o un no-reconocimiento (no-acknowledgment) [2009.01]"
+  },
+  {
+    "code": "H04W 52/50",
+    "description": "••••••en el momento de inicio de la comunicación en un entorno de acceso múltiple [2009.01]"
+  },
+  {
+    "code": "H04W 52/52",
+    "description": "••••utilizando AGC[Control Automatico de Ganancia (Automatic Gain Control)] circuitos o amplificadores [2009.01]"
+  },
+  {
+    "code": "H04W 52/54",
+    "description": "••••Aspectos de señalización de los comandos del TPC, p. ej. estructura de trama [2009.01]"
+  },
+  {
+    "code": "H04W 52/56",
+    "description": "••••••Detección de errores en los bits del TPC [2009.01]"
+  },
+  {
+    "code": "H04W 52/58",
+    "description": "••••••Formato de los bits de TPC [2009.01]"
+  },
+  {
+    "code": "H04W 52/60",
+    "description": "••••••utilizando diferentes velocidades de transmsión de los comandos para TPC [2009.01]"
+  },
+  {
+    "code": "H04W 56/00",
+    "description": "Disposiciones para sincronización [2009.01]"
+  },
+  {
+    "code": "H04W 60/00",
+    "description": "Afiliación a la red, p. ej. registro, alta en la red; Cese de la afiliación a la red, p. ej. desregistro [2009.01]"
+  },
+  {
+    "code": "H04W 60/02",
+    "description": "••por registro periódico [2009.01]"
+  },
+  {
+    "code": "H04W 60/04",
+    "description": "••utilizando eventos desencadenantes [2009.01]"
+  },
+  {
+    "code": "H04W 60/06",
+    "description": "••Dar de baja o desconectar [2009.01]"
+  },
+  {
+    "code": "H04W 64/00",
+    "description": "Localización de usuarios o terminales para propósitos de gestión de la red, p. ej. gestión de movilidad [2009.01]"
+  },
+  {
+    "code": "H04W 68/00",
+    "description": "Notificación a usuarios, p. ej. alerta o contacto mediante mediante mensaje de búsqueda, para cambios en el servicio de comunicaciones entrantes o similares [2009.01]"
+  },
+  {
+    "code": "H04W 68/02",
+    "description": "••Disposiciones para incrementar la eficiencia de las notificaciones o de canales de radiobúsqueda [2009.01]"
+  },
+  {
+    "code": "H04W 68/04",
+    "description": "••notificación multi-paso utilizando datos estadísticos o el histórico de movilidad [2009.01]"
+  },
+  {
+    "code": "H04W 68/06",
+    "description": "••utilizando notificación multi-paso por cambio del área de notificación [2009.01]"
+  },
+  {
+    "code": "H04W 68/08",
+    "description": "••utilizando notificación multi-paso por incremento del área de notificación [2009.01]"
+  },
+  {
+    "code": "H04W 68/10",
+    "description": "••utilizando notificación simultánea [2009.01]"
+  },
+  {
+    "code": "H04W 68/12",
+    "description": "••notificación entre redes (inter-network) [2009.01]"
+  },
+  {
+    "code": "H04W 72/00",
+    "description": "Gestión de recursos locales [2023.01]"
+  },
+  {
+    "code": "H04W 72/02",
+    "description": "••Selección de recursos inalámbricos por el usuario o el terminal [2009.01]"
+  },
+  {
+    "code": "H04W 72/04",
+    "description": "••Reserva de recursos inalámbricos [2023.01]"
+  },
+  {
+    "code": "H04W 72/044",
+    "description": "••••en función del tipo de recurso asignado [2023.01]"
+  },
+  {
+    "code": "H04W 72/0446",
+    "description": "••••••Recursos en el dominio del tiempo, p. ej. franjas horarias o tramas [2023.01]"
+  },
+  {
+    "code": "H04W 72/0453",
+    "description": "••••••Recursos en el dominio de la frecuencia, p. ej. una portadora en FDMA [2023.01]"
+  },
+  {
+    "code": "H04W 72/0457",
+    "description": "••••••Asignación variable de banda o tarifa [2023.01]"
+  },
+  {
+    "code": "H04W 72/06",
+    "description": ""
+  },
+  {
+    "code": "H04W 72/08",
+    "description": ""
+  },
+  {
+    "code": "H04W 72/10",
+    "description": ""
+  },
+  {
+    "code": "H04W 72/11",
+    "description": "••••Programación semipersistente [2023.01]"
+  },
+  {
+    "code": "H04W 72/115",
+    "description": "••••Transmisión libre o autónoma [2023.01]"
+  },
+  {
+    "code": "H04W 72/12",
+    "description": "••Planificación de tráfico inalámbrico [2023.01]"
+  },
+  {
+    "code": "H04W 72/121",
+    "description": "••••para grupos de terminales o usuarios [2023.01]"
+  },
+  {
+    "code": "H04W 72/1263",
+    "description": "••••Asignación del tráfico según la programación, p. ej. asignación programada o multiplexación de flujos [2023.01]"
+  },
+  {
+    "code": "H04W 72/1268",
+    "description": "••••••de flujos de datos de enlace ascendente [2023.01]"
+  },
+  {
+    "code": "H04W 72/1273",
+    "description": "••••••de flujos de datos de enlace descendente [2023.01]"
+  },
+  {
+    "code": "H04W 72/14",
+    "description": ""
+  },
+  {
+    "code": "H04W 72/20",
+    "description": "••Canales de control o señalización para la gestión de recursos [2023.01]"
+  },
+  {
+    "code": "H04W 72/21",
+    "description": "••••en la dirección ascendente de un enlace inalámbrico, es decir, hacia la red [2023.01]"
+  },
+  {
+    "code": "H04W 72/23",
+    "description": "••••en la dirección descendente del enlace inalámbrico, es decir, hacia un terminal [2023.01]"
+  },
+  {
+    "code": "H04W 72/231",
+    "description": "••••••la señalización de datos de control de las capas sobre la capa física, p. ej. la señalización RRC o MAC-CE [2023.01]"
+  },
+  {
+    "code": "H04W 72/232",
+    "description": "••••••la señalización de datos de control de la capa física, p. ej. la señalización DCI [2023.01]"
+  },
+  {
+    "code": "H04W 72/25",
+    "description": "••••entre terminales a través de un enlace inalámbrico, p. ej. sidelink [2023.01]"
+  },
+  {
+    "code": "H04W 72/27",
+    "description": "••••entre puntos de acceso [2023.01]"
+  },
+  {
+    "code": "H04W 72/29",
+    "description": "••••entre un punto de acceso y el dispositivo de control del punto de acceso [2023.01]"
+  },
+  {
+    "code": "H04W 72/30",
+    "description": "••Gestión de recursos para los servicios de radiodifusión [2023.01]"
+  },
+  {
+    "code": "H04W 72/40",
+    "description": "••Gestión de recursos para la comunicación en modo directo, p. ej. D2D o sidelink [2023.01]"
+  },
+  {
+    "code": "H04W 72/50",
+    "description": "••Criterios de asignación o programación de los recursos inalámbricos [2023.01]"
+  },
+  {
+    "code": "H04W 72/51",
+    "description": "••••en función de las propiedades del terminal o del dispositivo [2023.01]"
+  },
+  {
+    "code": "H04W 72/512",
+    "description": "••••••para requisitos de baja latencia, p. ej. URLLC [2023.01]"
+  },
+  {
+    "code": "H04W 72/52",
+    "description": "••••en función de la carga [2023.01]"
+  },
+  {
+    "code": "H04W 72/53",
+    "description": "••••en función de políticas de asignación reglamentaria [2023.01]"
+  },
+  {
+    "code": "H04W 72/54",
+    "description": "••••en función de criterios de calidad [2023.01]"
+  },
+  {
+    "code": "H04W 72/541",
+    "description": "••••••utilizando el nivel de interferencia [2023.01]"
+  },
+  {
+    "code": "H04W 72/542",
+    "description": "••••••utilizando la calidad medida o percibida [2023.01]"
+  },
+  {
+    "code": "H04W 72/543",
+    "description": "••••••en función de la calidad solicitada, p. ej. QoS [2023.01]"
+  },
+  {
+    "code": "H04W 72/56",
+    "description": "••••en función de los criterios de prioridad [2023.01]"
+  },
+  {
+    "code": "H04W 72/563",
+    "description": "••••••de los recursos inalámbricos [2023.01]"
+  },
+  {
+    "code": "H04W 72/566",
+    "description": "••••••de la información o de la fuente de información o del destinatario [2023.01]"
+  },
+  {
+    "code": "H04W 74/00",
+    "description": "Acceso a canal inalámbrico, p. ej. acceso planificado o aleatorio [2009.01]"
+  },
+  {
+    "code": "H04W 74/02",
+    "description": "••Técnicas de acceso híbrido [2009.01]"
+  },
+  {
+    "code": "H04W 74/04",
+    "description": "••Acceso planificado (H04W 74/02 tiene prioridad) [2009.01]"
+  },
+  {
+    "code": "H04W 74/06",
+    "description": "••••utilizando consulta constante (polling) [2009.01]"
+  },
+  {
+    "code": "H04W 74/08",
+    "description": "••Acceso no planificado p. ej. acceso aleatorio, ALOHA o CSMA [Carrier Sense Multiple Access] (H04W 74/02 tiene prioridad) [2009.01]"
+  },
+  {
+    "code": "H04W 76/00",
+    "description": "Gestión de conexiones [2018.01]"
+  },
+  {
+    "code": "H04W 76/10",
+    "description": "••Establecimiento de conexiones [2018.01]"
+  },
+  {
+    "code": "H04W 76/11",
+    "description": "••••Asignación o uso de identificadores de las conexiones [2018.01]"
+  },
+  {
+    "code": "H04W 76/12",
+    "description": "••••Establecimiento de túneles de transporte [2018.01]"
+  },
+  {
+    "code": "H04W 76/14",
+    "description": "••••Establecimiento de modo directo [2018.01]"
+  },
+  {
+    "code": "H04W 76/15",
+    "description": "••••Establecimiento de múltiples enlaces inalámbricos [2018.01]"
+  },
+  {
+    "code": "H04W 76/16",
+    "description": "••••••que implican diferentes tecnologías de núcleo de red, p. ej. un portador de conmutación de paquetes [PS] en combinación con un portador de conmutación de circuitos [CS] [2018.01]"
+  },
+  {
+    "code": "H04W 76/18",
+    "description": "••••Gestión de fallos o rechazos en el establecimiento [2018.01]"
+  },
+  {
+    "code": "H04W 76/19",
+    "description": "••••Restablecimiento de conexiones [2018.01]"
+  },
+  {
+    "code": "H04W 76/20",
+    "description": "••Gestión de conexiones establecidas [2018.01]"
+  },
+  {
+    "code": "H04W 76/22",
+    "description": "••••Gestión de túneles de transporte [2018.01]"
+  },
+  {
+    "code": "H04W 76/23",
+    "description": "••••Gestión de conexiones de modo directo [2018.01]"
+  },
+  {
+    "code": "H04W 76/25",
+    "description": "••••Mantenimiento de conexiones establecidas [2018.01]"
+  },
+  {
+    "code": "H04W 76/27",
+    "description": "••••Transiciones entre estados RRC [control de recursos de radio] [2018.01]"
+  },
+  {
+    "code": "H04W 76/28",
+    "description": "••••Transmisión discontinua [DTX]; recepción discontinua [DRX] [2018.01]"
+  },
+  {
+    "code": "H04W 76/30",
+    "description": "••Liberación de las conexiones [2018.01]"
+  },
+  {
+    "code": "H04W 76/32",
+    "description": "••••Liberación de los túneles de transporte [2018.01]"
+  },
+  {
+    "code": "H04W 76/34",
+    "description": "••••Liberación selectiva de conexiones en curso [2018.01]"
+  },
+  {
+    "code": "H04W 76/36",
+    "description": "••••••para la reasignación de los recursos asociados con las conexiones liberadas [2018.01]"
+  },
+  {
+    "code": "H04W 76/38",
+    "description": "••••activada mediante temporizadores [2018.01]"
+  },
+  {
+    "code": "H04W 76/40",
+    "description": "••para la distribución o radiodifusión selectivas [2018.01]"
+  },
+  {
+    "code": "H04W 76/45",
+    "description": "••••para servicios de pulsar para hablar [PTT] o pulsar para hablar sobre redes móviles [PoC] [2018.01]"
+  },
+  {
+    "code": "H04W 76/50",
+    "description": "••para conexiones de emergencia [2018.01]"
+  },
+  {
+    "code": "H04W 80/00",
+    "description": "Protocolos de red inalámbrica o adaptaciones de protocolos para operaciones inalámbricas [2009.01]"
+  },
+  {
+    "code": "H04W 80/02",
+    "description": "••Capa de enlace de datos [2009.01]"
+  },
+  {
+    "code": "H04W 80/04",
+    "description": "••Capa de protocolos de red, p. ej. IP móvil [Protocolo de Internet (Internet Protocol)] [2009.01]"
+  },
+  {
+    "code": "H04W 80/06",
+    "description": "••Capa de protocolos de transporte, p. ej. TCP [Protocolo de Control de Transporte (Transport Control Protocol)] sobre un medio inalámbrico [2009.01]"
+  },
+  {
+    "code": "H04W 80/08",
+    "description": "••Protocolos de capas superiores [2009.01]"
+  },
+  {
+    "code": "H04W 80/10",
+    "description": "••••adaptado para la gestión de sesión, p. ej. SIP [Session Initiation Protocol] [2009.01]"
+  },
+  {
+    "code": "H04W 80/12",
+    "description": "••••Protocolos de capa de aplicación, p. ej. WAP [Wireless Application Protocol] [2009.01]"
+  },
+  {
+    "code": "H04W 84/00",
+    "description": "Topologías de red [2009.01]"
+  },
+  {
+    "code": "H04W 84/02",
+    "description": "••Redes pre-organizadas  jerárquicamente, p. ej. redes de radiobúsqueda, redes celulares, WLAN [Wireless Local Area Network]o WLL [Wireless Local Loop] [2009.01]"
+  },
+  {
+    "code": "H04W 84/04",
+    "description": "••••Redes de gran escala; Redes de jerarquía profunda [2009.01]"
+  },
+  {
+    "code": "H04W 84/06",
+    "description": "••••••Redes satélites o aéreas (estaciones espaciales o aéreas para sistemas repetidores activos H04B 7/185) [2009.01]"
+  },
+  {
+    "code": "H04W 84/08",
+    "description": "••••••Sistema de concentración de enlaces móviles [2009.01]"
+  },
+  {
+    "code": "H04W 84/10",
+    "description": "••••Redes de pequeña escala; Redes de jerarquía plana [2009.01]"
+  },
+  {
+    "code": "H04W 84/12",
+    "description": "••••••WLAN [Wireless Local Area Networks] [2009.01]"
+  },
+  {
+    "code": "H04W 84/14",
+    "description": "••••••WLL [Wireless Local Loop]; RLL [Radio Local Loop] [2009.01]"
+  },
+  {
+    "code": "H04W 84/16",
+    "description": "••••••WPBX [Wireless Private Branch Exchange] [2009.01]"
+  },
+  {
+    "code": "H04W 84/18",
+    "description": "••Redes auto-organizadas, p.ej. redes ad hoc o redes de sensores [2009.01]"
+  },
+  {
+    "code": "H04W 84/20",
+    "description": "••••Disposiciones maestro-esclavo [2009.01]"
+  },
+  {
+    "code": "H04W 84/22",
+    "description": "••••con acceso a redes con cable [2009.01]"
+  },
+  {
+    "code": "H04W 88/00",
+    "description": "Dispositivos especialmente adaptados para redes de comunicación inalámbricas, p. ej. terminales, estaciones base o dispositivos de punto de acceso [2009.01]"
+  },
+  {
+    "code": "H04W 88/02",
+    "description": "••Terminales [2009.01]"
+  },
+  {
+    "code": "H04W 88/04",
+    "description": "••••adaptados para transmitir hacia o desde otro terminal o usuario [2009.01]"
+  },
+  {
+    "code": "H04W 88/06",
+    "description": "••••adaptados para funcionar en múltiples redes, p. ej. terminales multimodo [2009.01]"
+  },
+  {
+    "code": "H04W 88/08",
+    "description": "••Dispositivos de punto de acceso [2009.01]"
+  },
+  {
+    "code": "H04W 88/10",
+    "description": "••••adaptados para funcionar en múltiples redes, p. ej. puntos de acceso multimodo [2009.01]"
+  },
+  {
+    "code": "H04W 88/12",
+    "description": "••Dispositivos de control de punto de acceso [2009.01]"
+  },
+  {
+    "code": "H04W 88/14",
+    "description": "••Dispositivos de la red central (backbone) [2009.01]"
+  },
+  {
+    "code": "H04W 88/16",
+    "description": "••Disposiciones de pasarela (Gateway) [2009.01]"
+  },
+  {
+    "code": "H04W 88/18",
+    "description": "••Dispositivos de apoyo o soporte a servicios; Dispositivos de gestión de red [2009.01]"
+  },
+  {
+    "code": "H04W 92/00",
+    "description": "Interfaces especialmente adaptadas para redes de comunicación inalámbricas [2009.01]"
+  },
+  {
+    "code": "H04W 92/02",
+    "description": "••Disposiciones para conexión entre-redes (inter-networking) [2009.01]"
+  },
+  {
+    "code": "H04W 92/04",
+    "description": "••Interfaces entre jerarquías diferentes de dispositivos de red [2009.01]"
+  },
+  {
+    "code": "H04W 92/06",
+    "description": "••••entre pasarelas (gateways) y dispositivos de redes públicas [2009.01]"
+  },
+  {
+    "code": "H04W 92/08",
+    "description": "••••entre el usuario y el dispositivo terminal [2009.01]"
+  },
+  {
+    "code": "H04W 92/10",
+    "description": "••••entre el dispositivo terminal y el punto de acceso, p. ej. interfaz aire inalámbrica [2009.01]"
+  },
+  {
+    "code": "H04W 92/12",
+    "description": "••••entre puntos de acceso y controladores de punto de acceso [2009.01]"
+  },
+  {
+    "code": "H04W 92/14",
+    "description": "••••entre controladores de punto de acceso y dispositivos de la red central (backbone) [2009.01]"
+  },
+  {
+    "code": "H04W 92/16",
+    "description": "••Interfaces entre dispositivos jerárquicamente similares [2009.01]"
+  },
+  {
+    "code": "H04W 92/18",
+    "description": "••••entre terminales [2009.01]"
+  },
+  {
+    "code": "H04W 92/20",
+    "description": "••••entre puntos de acceso [2009.01]"
+  },
+  {
+    "code": "H04W 92/22",
+    "description": "••••entre controladores de punto de acceso [2009.01]"
+  },
+  {
+    "code": "H04W 92/24",
+    "description": "••••entre dispositivos de la red central (backbone) [2009.01]"
+  },
+  {
+    "code": "H04W 99/00",
+    "description": "Materia no prevista en otros grupos de esta subclase [2009.01]"
+  }
+]

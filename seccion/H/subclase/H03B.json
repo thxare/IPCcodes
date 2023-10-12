@@ -1,0 +1,286 @@
+[
+  {
+    "code": "H03B 1/00",
+    "description": "Detalles [2006.01]"
+  },
+  {
+    "code": "H03B 1/02",
+    "description": "••Detalles estructurales de osciladores de potencia, p. ej. para calefacción (generadores para calefactado por campos electromagnéticos H05B 6/00) [2006.01]"
+  },
+  {
+    "code": "H03B 1/04",
+    "description": "••Reducción de oscilaciones indeseadas, p. ej. armónicos [2006.01]"
+  },
+  {
+    "code": "H03B 5/00",
+    "description": "Generación de oscilaciones utilizando un amplificador con circuito de realimentación regenerativa entre la salida y la entrada (H03B 9/00, H03B 15/00  tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H03B 5/02",
+    "description": "••Detalles [2006.01]"
+  },
+  {
+    "code": "H03B 5/04",
+    "description": "••••Modificaciones del generador para compensar variaciones en los valores físicos, p. ej. alimentación, carga, temperatura [2006.01]"
+  },
+  {
+    "code": "H03B 5/06",
+    "description": "••••Modificaciones del generador para asegurar la iniciación de las oscilaciones (arranque de generadores H03L 3/00) [2006.01]"
+  },
+  {
+    "code": "H03B 5/08",
+    "description": "••con elementos que determinan la frecuencia comprendiendo inductancias o capacidades localizadas [2006.01]"
+  },
+  {
+    "code": "H03B 5/10",
+    "description": "••••siendo el elemento activo del amplificador un tubo de descarga (H03B 5/14  tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H03B 5/12",
+    "description": "••••siendo el elemento activo del amplificador un dispositivo con semiconductores (H03B 5/14H03B 7/06 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H03B 5/14",
+    "description": "••••estando el elemento que determina la frecuencia conectado vía a un circuito en puente a un bucle cerrado alrededor del cual es transmitida la señal [2006.01]"
+  },
+  {
+    "code": "H03B 5/16",
+    "description": "••••••siendo el elemento activo del amplificador un tubo de vacío [2006.01]"
+  },
+  {
+    "code": "H03B 5/18",
+    "description": "••con un elemento que determina la frecuencia comprendiendo inductancia y capacidad distribuidas [2006.01]"
+  },
+  {
+    "code": "H03B 5/20",
+    "description": "••con un elemento que determina la frecuencia comprendiendo resistencia y, o bien capacidad, o bien inductancia, p. ej. oscilador de desplazamiento de fase [2006.01]"
+  },
+  {
+    "code": "H03B 5/22",
+    "description": "••••siendo el elemento activo del amplificador un tubo de vacío (H03B 5/26  tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H03B 5/24",
+    "description": "••••siendo el elemento activo del amplificador un dispositivo con semiconductores (H03B 5/26  tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H03B 5/26",
+    "description": "••••el elemento que determina la frecuencia forma parte de un circuito en puente en un bucle cerrado alrededor del cual es transmitida la señal; el elemento que determina la frecuencia es conectado vía un circuito en puente a tal bucle cerrado, p. ej. oscilador de puente de Wien, oscilador en T-paralelo [2006.01]"
+  },
+  {
+    "code": "H03B 5/28",
+    "description": "••••••siendo el elemento activo del amplificador un tubo de vacío [2006.01]"
+  },
+  {
+    "code": "H03B 5/30",
+    "description": "••siendo el elemento que determina la frecuencia un resonador electromecánico [2006.01]"
+  },
+  {
+    "code": "H03B 5/32",
+    "description": "••••siendo un resonador piezoeléctrico [2006.01]"
+  },
+  {
+    "code": "H03B 5/34",
+    "description": "••••••siendo elemento activo del amplificador un tubo de vacío (H03B 5/38  tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H03B 5/36",
+    "description": "••••••siendo el elemento activo del amplificador un dispositivo semiconductor (H03B 5/38  tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H03B 5/38",
+    "description": "••••••el elemento que determina la frecuencia es conectado vía un circuito en puente a un bucle cerrado alrededor del cual la señal es transmitida [2006.01]"
+  },
+  {
+    "code": "H03B 5/40",
+    "description": "••••siendo un resonador magnetoestrictivo (H03B 5/42  tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H03B 5/42",
+    "description": "••••el elemento que determina la frecuencia es conectado vía un circuito en puente a un bucle cerrado alrededor del cual la señal es transmitida [2006.01]"
+  },
+  {
+    "code": "H03B 7/00",
+    "description": "Generación de oscilaciones utilizando un elemento activo con una resistencia negativa entre dos de sus electrodos (H03B 9/00  tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H03B 7/02",
+    "description": "••con un elemento determinando la frecuencia que comprende inductancias y capacidades localizadas [2006.01]"
+  },
+  {
+    "code": "H03B 7/04",
+    "description": "••••el elemento activo es un tubo de vacío [2006.01]"
+  },
+  {
+    "code": "H03B 7/06",
+    "description": "••••el elemento activo es un dispositivo con semiconductores [2006.01]"
+  },
+  {
+    "code": "H03B 7/08",
+    "description": "••••••el elemento activo es un diodo túnel [2006.01]"
+  },
+  {
+    "code": "H03B 7/10",
+    "description": "••••el elemento activo es un tubo de descarga en un gas o en un tubo de descarga de arco [2006.01]"
+  },
+  {
+    "code": "H03B 7/12",
+    "description": "••con un elemento determinando la frecuencia que comprende inductancias y capacidades repartidas [2006.01]"
+  },
+  {
+    "code": "H03B 7/14",
+    "description": "••••el elemento activo es un dispositivo de semiconductores [2006.01]"
+  },
+  {
+    "code": "H03B 9/00",
+    "description": "Generación de oscilaciones por utilización de los efectos del tiempo de tránsito [2006.01]"
+  },
+  {
+    "code": "H03B 9/01",
+    "description": "••utilizando tubos de descarga [2006.01]"
+  },
+  {
+    "code": "H03B 9/02",
+    "description": "••••utilizando un tubo de campo retardador (klistrones H03B 9/04) [2006.01]"
+  },
+  {
+    "code": "H03B 9/04",
+    "description": "••••utilizando un klistrón [2006.01]"
+  },
+  {
+    "code": "H03B 9/06",
+    "description": "••••••utilizando un klistrón reflex [2006.01]"
+  },
+  {
+    "code": "H03B 9/08",
+    "description": "••••utilizando un tubo de ondas progresivas [2006.01]"
+  },
+  {
+    "code": "H03B 9/10",
+    "description": "••••utilizando un magnetrón [2006.01]"
+  },
+  {
+    "code": "H03B 9/12",
+    "description": "••utilizando dispositivos de estado sólido, p. ej. dispositivos con efecto Gunn [2006.01]"
+  },
+  {
+    "code": "H03B 9/14",
+    "description": "••••y elementos que tienen inductancias y capacitancias repartidas [2006.01]"
+  },
+  {
+    "code": "H03B 11/00",
+    "description": "Generación de oscilaciones utilizando un circuito sintonizado excitado por choque (con realimentación H03B 5/00) [2006.01]"
+  },
+  {
+    "code": "H03B 11/02",
+    "description": "••excitado por chispa [2006.01]"
+  },
+  {
+    "code": "H03B 11/04",
+    "description": "••excitado por un interruptor [2006.01]"
+  },
+  {
+    "code": "H03B 11/06",
+    "description": "••••por un interruptor mecánico [2006.01]"
+  },
+  {
+    "code": "H03B 11/08",
+    "description": "••••siendo el interruptor un tubo de descarga [2006.01]"
+  },
+  {
+    "code": "H03B 11/10",
+    "description": "••••siendo el interruptor un dispositivo de semiconductor [2006.01]"
+  },
+  {
+    "code": "H03B 13/00",
+    "description": "Generación de oscilaciones utilizando la desviación de un haz de electrones en un tubo de rayos catódicos [2006.01]"
+  },
+  {
+    "code": "H03B 15/00",
+    "description": "Generación de oscilaciones utilizando efectos galvanomagnéticos, p. ej. por efecto Hall,dispositivos que utilizan efectos de transferencia de espín, dispositivos que utilizando la magnetorresistencia gigante, o por efectos de superconducción [2006.01]"
+  },
+  {
+    "code": "H03B 17/00",
+    "description": "Generación de oscilaciones utilizando una fuente de radiación y un detector [2006.01]"
+  },
+  {
+    "code": "H03B 19/00",
+    "description": "Generación de oscilaciones por multiplicación o división de la frecuencia de una señal que proviene de una fuente separada, no utilizando reacción positiva [2006.01]"
+  },
+  {
+    "code": "H03B 19/03",
+    "description": "••utilizando una inductancia no lineal [2006.01]"
+  },
+  {
+    "code": "H03B 19/05",
+    "description": "••utilizando una capacitancia no lineal, p. ej. diodos varactor [2006.01]"
+  },
+  {
+    "code": "H03B 19/06",
+    "description": "••por medio de un dispositivo de descarga o de un dispositivo de semiconductores con más de dos electrodos [2006.01]"
+  },
+  {
+    "code": "H03B 19/08",
+    "description": "••••por medio de un dispositivo de descarga [2006.01]"
+  },
+  {
+    "code": "H03B 19/10",
+    "description": "••••••utilizando solamente la multiplicación [2006.01]"
+  },
+  {
+    "code": "H03B 19/12",
+    "description": "••••••utilizando solamente la división [2006.01]"
+  },
+  {
+    "code": "H03B 19/14",
+    "description": "••••por medio de un dispositivo de semiconductores [2006.01]"
+  },
+  {
+    "code": "H03B 19/16",
+    "description": "••utilizando dispositivos rectificadores no controlados, p. ej. diodos rectificadores o diodos Schottky [2006.01]"
+  },
+  {
+    "code": "H03B 19/18",
+    "description": "••••y elementos que tienen inductancias o capacitancias repartidas [2006.01]"
+  },
+  {
+    "code": "H03B 19/20",
+    "description": "••••los diodos presentan efectos de acumulación o de recubrimiento de carga [2006.01]"
+  },
+  {
+    "code": "H03B 21/00",
+    "description": "Generación de oscilaciones por combinación de señales no moduladas de frecuencias diferentes (H03B 19/00  tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H03B 21/01",
+    "description": "••por pulsación de señales no moduladas de frecuencias diferentes [2006.01]"
+  },
+  {
+    "code": "H03B 21/02",
+    "description": "••••por pulsaciones múltiples, es decir, para síntesis de frecuencia [2006.01]"
+  },
+  {
+    "code": "H03B 21/04",
+    "description": "••••utilizando varias etapas semejantes [2006.01]"
+  },
+  {
+    "code": "H03B 23/00",
+    "description": "Generación de oscilaciones barriendo periódicamente una gama predeterminada de rangos frecuencias [2006.01]"
+  },
+  {
+    "code": "H03B 25/00",
+    "description": "Generación simultánea, por medio de un oscilador no sincronizado, de oscilaciones de frecuencias diferentes [2006.01]"
+  },
+  {
+    "code": "H03B 27/00",
+    "description": "Generadores que suministran varias oscilaciones de la misma frecuencia, pero de fases diferentes, que no sea la simple oposición de fase [2006.01]"
+  },
+  {
+    "code": "H03B 28/00",
+    "description": "Generación de oscilaciones por métodos no cubiertos por los grupos H03B 5/00-H03B 27/00, comprendiendo la modificación de la forma de la onda con el fin de producir oscilaciones sinusoidales (generadores de funciones analógicas para efectuar operaciones de cálculo G06G 7/26) [2006.01]"
+  },
+  {
+    "code": "H03B 29/00",
+    "description": "Generación de corrientes y tensiones de ruido (tubos de descarga de gas con cátodo sólido, especialmente adaptados como generadores de ruido H01J 17/00) [2006.01]"
+  }
+]

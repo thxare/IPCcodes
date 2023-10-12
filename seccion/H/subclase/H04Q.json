@@ -1,0 +1,434 @@
+[
+  {
+    "code": "H04Q 1/00",
+    "description": "Detalles de aparatos o de disposiciones de selección [2006.01]"
+  },
+  {
+    "code": "H04Q 1/02",
+    "description": "••Detalles de estructura [2006.01]"
+  },
+  {
+    "code": "H04Q 1/04",
+    "description": "••••Armazones o bastidores de montaje para conmutadores de selección; Sus accesorios, p. ej. cubierta de armazones [2006.01]"
+  },
+  {
+    "code": "H04Q 1/06",
+    "description": "••••Canalizaciones de cables o soportes especialmente adaptados para instalaciones de centrales [2006.01]"
+  },
+  {
+    "code": "H04Q 1/08",
+    "description": "••••Armazones o bastidores de montaje para relés; Sus accesorios [2006.01]"
+  },
+  {
+    "code": "H04Q 1/10",
+    "description": "••••Construcción de centrales [2006.01]"
+  },
+  {
+    "code": "H04Q 1/12",
+    "description": "••••Disposiciones de barras múltiples con o sin armazones pivotantes [2006.01]"
+  },
+  {
+    "code": "H04Q 1/14",
+    "description": "••••Armazones de distribución [2006.01]"
+  },
+  {
+    "code": "H04Q 1/16",
+    "description": "••••Disposiciones de cableado para selectores o relés en los armazones [2006.01]"
+  },
+  {
+    "code": "H04Q 1/18",
+    "description": "••Detalles eléctricos [2006.01]"
+  },
+  {
+    "code": "H04Q 1/20",
+    "description": "••••Circuitos o aparatos de prueba; Circuitos o aparatos para detectar, indicar o señalar defectos o perturbaciones [2006.01]"
+  },
+  {
+    "code": "H04Q 1/22",
+    "description": "••••••Disposiciones automáticas [2006.01]"
+  },
+  {
+    "code": "H04Q 1/24",
+    "description": "••••••••para dispositivos de conexión [2006.01]"
+  },
+  {
+    "code": "H04Q 1/26",
+    "description": "••••••••para señalar perturbaciones en una subcentral desocupada [2006.01]"
+  },
+  {
+    "code": "H04Q 1/28",
+    "description": "••••Circuitos o disposiciones de alimentación para el equipo selector en las centrales [2006.01]"
+  },
+  {
+    "code": "H04Q 1/30",
+    "description": "••••Disposiciones para la señalización; Gestión de corrientes de señalización (sistemas multiplex que producen señales de llamada o de vigilancia H04J 1/14, H04J 3/12) [2006.01]"
+  },
+  {
+    "code": "H04Q 1/32",
+    "description": "••••••utilizando trenes de impulsos de corriente continua (H04Q 1/39 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H04Q 1/34",
+    "description": "••••••••Regeneradores de impulsos con disposiciones de marcado mecánicas u otras no eléctricas [2006.01]"
+  },
+  {
+    "code": "H04Q 1/36",
+    "description": "••••••••Disposiciones de correción de impulsos, p. ej. para reducir los efectos debidos a las interferencias [2006.01]"
+  },
+  {
+    "code": "H04Q 1/38",
+    "description": "••••••utilizando combinaciones de corrientes continuas de diferentes amplitudes o polaridades sobre conductores de línea o combinaciones de conductores de línea [2006.01]"
+  },
+  {
+    "code": "H04Q 1/39",
+    "description": "••••••utilizando grupos de impulsos codificados [2006.01]"
+  },
+  {
+    "code": "H04Q 1/40",
+    "description": "••••••en los cuales la duración del impulso o el intervalo entre dos impulsos es variable [2006.01]"
+  },
+  {
+    "code": "H04Q 1/42",
+    "description": "••••••••implicando la posición de un impulso en un ciclo [2006.01]"
+  },
+  {
+    "code": "H04Q 1/44",
+    "description": "••••••utilizando corriente alterna (H04Q 1/50 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H04Q 1/442",
+    "description": "••••••••con frecuencias de señalización fuera de la banda de voz [2006.01]"
+  },
+  {
+    "code": "H04Q 1/444",
+    "description": "••••••••con frecuencias de señalización dentro de la banda de voz [2006.01]"
+  },
+  {
+    "code": "H04Q 1/446",
+    "description": "••••••••••utilizando una frecuencia de señalización (H04Q 1/46 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H04Q 1/448",
+    "description": "••••••••••••con conversión de una señal de frecuencia única en una señal digital [2006.01]"
+  },
+  {
+    "code": "H04Q 1/45",
+    "description": "••••••••••utilizando una señalización de frecuencias múltiples (H04Q 1/46 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H04Q 1/453",
+    "description": "••••••••••••en la que son transmitidas m entre n frecuencias de señalización [2006.01]"
+  },
+  {
+    "code": "H04Q 1/457",
+    "description": "••••••••••••con conversión de señales de frecuencias múltiples en señales digitales [2006.01]"
+  },
+  {
+    "code": "H04Q 1/46",
+    "description": "••••••••••comprendiendo medios para distinguir una corriente de señalización de frecuencia predeterminada de una corriente compleja que contiene dicha frecuencia, p. ej. de una corriente vocal [2006.01]"
+  },
+  {
+    "code": "H04Q 1/48",
+    "description": "••••••Disposiciones de señalización de corriente inducida [2006.01]"
+  },
+  {
+    "code": "H04Q 1/50",
+    "description": "••••••Conversión entre diferentes clases de señales [2006.01]"
+  },
+  {
+    "code": "H04Q 1/54",
+    "description": "••••Amplificador conmutado automáticamente sobre líneas de selección automática [2006.01]"
+  },
+  {
+    "code": "H04Q 1/56",
+    "description": "••••Circuitos de equilibrado conmutados automáticamente sobre líneas de selección automática [2006.01]"
+  },
+  {
+    "code": "H04Q 3/00",
+    "description": "Dispositivos de selección (H04Q 5/00-H04Q 11/00 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H04Q 3/02",
+    "description": "••Disposiciones de circuitos para selectores sensibles a un código de permutación [2006.01]"
+  },
+  {
+    "code": "H04Q 3/04",
+    "description": "••Circuitos para receptores de dígitos giratorios [2006.01]"
+  },
+  {
+    "code": "H04Q 3/06",
+    "description": "••••para selectores de grupo o de grupo interurbano [2006.01]"
+  },
+  {
+    "code": "H04Q 3/08",
+    "description": "••••para selectores locales o de larga distancia [2006.01]"
+  },
+  {
+    "code": "H04Q 3/10",
+    "description": "••••para selectores PBX, es decir, selectores de central privada [2006.01]"
+  },
+  {
+    "code": "H04Q 3/12",
+    "description": "••••para selectores de línea que producen una transferencia de dígitos giratorios [2006.01]"
+  },
+  {
+    "code": "H04Q 3/14",
+    "description": "••••para selectores de doble vía [2006.01]"
+  },
+  {
+    "code": "H04Q 3/16",
+    "description": "••••para conmutadores de marcaje [2006.01]"
+  },
+  {
+    "code": "H04Q 3/18",
+    "description": "••Circuitos para primera etapa de conmutación de inestabilidad [2006.01]"
+  },
+  {
+    "code": "H04Q 3/20",
+    "description": "••••para preselectores [2006.01]"
+  },
+  {
+    "code": "H04Q 3/22",
+    "description": "••••••comprendiendo un circuito común de llamada y de desconexión [2006.01]"
+  },
+  {
+    "code": "H04Q 3/24",
+    "description": "••••para buscadores de líneas [2006.01]"
+  },
+  {
+    "code": "H04Q 3/26",
+    "description": "••••••comprendiendo un circuito común de llamada y de desconexión [2006.01]"
+  },
+  {
+    "code": "H04Q 3/28",
+    "description": "••••••comprendiendo grupos principales y subgrupos [2006.01]"
+  },
+  {
+    "code": "H04Q 3/30",
+    "description": "••••Buscadores de selectores, es decir, repartidores [2006.01]"
+  },
+  {
+    "code": "H04Q 3/32",
+    "description": "••Circuitos para la segunda etapa o siguientes de conmutación auxiliar [2006.01]"
+  },
+  {
+    "code": "H04Q 3/34",
+    "description": "••••para la segunda etapa de preselección [2006.01]"
+  },
+  {
+    "code": "H04Q 3/36",
+    "description": "••••para la segunda etapa del buscador de líneas [2006.01]"
+  },
+  {
+    "code": "H04Q 3/38",
+    "description": "••••para etapas siguientes a la etapa de selector de grupo [2006.01]"
+  },
+  {
+    "code": "H04Q 3/40",
+    "description": "••••para etapas siguientes al selector de línea, p. ej. para selector de extensión [2006.01]"
+  },
+  {
+    "code": "H04Q 3/42",
+    "description": "••Circuitos para selección indirecta controlados por circuitos comunes, p. ej. controlador de registro, marcador [2006.01]"
+  },
+  {
+    "code": "H04Q 3/44",
+    "description": "••••utilizando un control reversible [2006.01]"
+  },
+  {
+    "code": "H04Q 3/46",
+    "description": "••••utilizando señales de control distintas de los impulsos reversibles [2006.01]"
+  },
+  {
+    "code": "H04Q 3/47",
+    "description": "••••utilizando trasladores [2006.01]"
+  },
+  {
+    "code": "H04Q 3/48",
+    "description": "••••utilizando marcadores [2006.01]"
+  },
+  {
+    "code": "H04Q 3/49",
+    "description": "••••••para marcado fin a fin [2006.01]"
+  },
+  {
+    "code": "H04Q 3/495",
+    "description": "••••••para encaminar las vías de conexión [2006.01]"
+  },
+  {
+    "code": "H04Q 3/52",
+    "description": "••••utilizando dispositivos estáticos en las etapas de conmutación, p. ej. dispositivos de conmutación electrónica [2006.01]"
+  },
+  {
+    "code": "H04Q 3/54",
+    "description": "••••en los cuales los circuitos lógicos que controlan la central están centralizados [2006.01]"
+  },
+  {
+    "code": "H04Q 3/545",
+    "description": "••••••utilizando un programa registrado [2006.01]"
+  },
+  {
+    "code": "H04Q 3/55",
+    "description": "••••••utilizando circuitos lógicos cableados [2006.01]"
+  },
+  {
+    "code": "H04Q 3/555",
+    "description": "••••••••comprendidos por los dispositivos electromagnéticos [2006.01]"
+  },
+  {
+    "code": "H04Q 3/56",
+    "description": "••••en las cuales las señales de control son multiplexadas [2006.01]"
+  },
+  {
+    "code": "H04Q 3/58",
+    "description": "••Disposiciones que proporcionan una conexión entre una central principal y una subcentral o satélite [2006.01]"
+  },
+  {
+    "code": "H04Q 3/60",
+    "description": "••••para conectar satélites o concentradores, los cuales ponen en comunicación una o más líneas centrales con un grupo de líneas locales [2006.01]"
+  },
+  {
+    "code": "H04Q 3/62",
+    "description": "••••para conectar a una central privada [2006.01]"
+  },
+  {
+    "code": "H04Q 3/64",
+    "description": "••Distribución o listas de espera [2006.01]"
+  },
+  {
+    "code": "H04Q 3/66",
+    "description": "••••Distribuidor de tráfico [2006.01]"
+  },
+  {
+    "code": "H04Q 3/68",
+    "description": "••••para agrupar o entrelazar grupos o etapas de selectores [2006.01]"
+  },
+  {
+    "code": "H04Q 3/70",
+    "description": "••Identificación de la clase de abonado que llama [2006.01]"
+  },
+  {
+    "code": "H04Q 3/72",
+    "description": "••Busca e indicación del número del abonado que llama [2006.01]"
+  },
+  {
+    "code": "H04Q 3/74",
+    "description": "••••Identificación del abonado que llama desde una línea compartida [2006.01]"
+  },
+  {
+    "code": "H04Q 3/76",
+    "description": "••Traducción del número del abonado llamado en información de control de entrada o de salida [2006.01]"
+  },
+  {
+    "code": "H04Q 3/78",
+    "description": "••Registro temporal de la información del abonado que llama o del abonado llamado (medios de registro intermedios para la comunicación telegráfica H04L 13/08) [2006.01]"
+  },
+  {
+    "code": "H04Q 5/00",
+    "description": "Dispositivos de selección en los cuales dos o varios aparatos de abonados son conectados por la misma línea a la central [2006.01]"
+  },
+  {
+    "code": "H04Q 5/02",
+    "description": "••con conexión directa para todos los abonados, es decir, sistemas de línea compartida (H04Q 5/24 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H04Q 5/04",
+    "description": "••••Señalización por corrientes en el uno o el otro o los dos hilos de línea o hilos suplementarios [2006.01]"
+  },
+  {
+    "code": "H04Q 5/06",
+    "description": "••••Señalización por amplitud o polaridad de corriente continua [2006.01]"
+  },
+  {
+    "code": "H04Q 5/08",
+    "description": "••••Señalización por corriente alterna permanente [2006.01]"
+  },
+  {
+    "code": "H04Q 5/10",
+    "description": "••••••utilizando frecuencias simples para diferentes abonados [2006.01]"
+  },
+  {
+    "code": "H04Q 5/12",
+    "description": "••••••utilizando combinaciones de frecuencias [2006.01]"
+  },
+  {
+    "code": "H04Q 5/14",
+    "description": "••••Señalización por impulsos [2006.01]"
+  },
+  {
+    "code": "H04Q 5/16",
+    "description": "••••••por un número predeterminado de impulsos [2006.01]"
+  },
+  {
+    "code": "H04Q 5/18",
+    "description": "••con conexión indirecta, es decir, a través de un centro de conmutación subordinado [2006.01]"
+  },
+  {
+    "code": "H04Q 5/20",
+    "description": "••••el centro subordinado permite una interconexión de abonados conectados a este centro [2006.01]"
+  },
+  {
+    "code": "H04Q 5/22",
+    "description": "••••el centro subordinado no permite una interconexión de abonados conectados a este centro [2006.01]"
+  },
+  {
+    "code": "H04Q 5/24",
+    "description": "••para sistemas de dos líneas compartidas [2006.01]"
+  },
+  {
+    "code": "H04Q 9/00",
+    "description": "Disposiciones en sistemas de control a distancia o de telemetría para llamar selectivamente a una subestación a partir de una estación principal, subestación en la cual un aparato deseado es escogido para aplicar una señal de control o para obtener valores medidos [2006.01]"
+  },
+  {
+    "code": "H04Q 9/02",
+    "description": "••Disposiciones de funcionamiento automático [2006.01]"
+  },
+  {
+    "code": "H04Q 9/04",
+    "description": "••Disposiciones de funcionamiento síncrono [2006.01]"
+  },
+  {
+    "code": "H04Q 9/06",
+    "description": "••Llamada utilizando una amplitud o una polaridad de corriente continua [2006.01]"
+  },
+  {
+    "code": "H04Q 9/08",
+    "description": "••Llamada utilizando una corriente alterna permanente [2006.01]"
+  },
+  {
+    "code": "H04Q 9/10",
+    "description": "••••utilizando frecuencias únicas diferentes [2006.01]"
+  },
+  {
+    "code": "H04Q 9/12",
+    "description": "••••utilizando combinaciones de frecuencias [2006.01]"
+  },
+  {
+    "code": "H04Q 9/14",
+    "description": "••Llamada utilizando impulsos [2006.01]"
+  },
+  {
+    "code": "H04Q 9/16",
+    "description": "••••por un número predeterminado de impulsos [2006.01]"
+  },
+  {
+    "code": "H04Q 11/00",
+    "description": "Dispositivos de selección para sistemas multiplex (sistemas multiplex H04J) [2006.01]"
+  },
+  {
+    "code": "H04Q 11/02",
+    "description": "••para multiplex de división de frecuencia [2006.01]"
+  },
+  {
+    "code": "H04Q 11/04",
+    "description": "••para multiplex de división de tiempo [2006.01]"
+  },
+  {
+    "code": "H04Q 11/06",
+    "description": "••••Conmutación tiempo-espacio-tiempo [2006.01]"
+  },
+  {
+    "code": "H04Q 11/08",
+    "description": "••••Conmutación únicamente temporal [2006.01]"
+  }
+]

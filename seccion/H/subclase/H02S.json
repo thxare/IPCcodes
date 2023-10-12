@@ -1,0 +1,150 @@
+[
+  {
+    "code": "H02S 10/00",
+    "description": "Plantas de energía FV; Combinaciones de sistemas de energía FV con otros sistemas para la generación de energía eléctrica [2014.01]"
+  },
+  {
+    "code": "H02S 10/10",
+    "description": "••incluyendo una fuente suplementaria de energía eléctrica, p. ej sistemas híbridos diesel-FV (combinaciones con plantas motrices de turbinas de gas F02C 6/00) [2014.01]"
+  },
+  {
+    "code": "H02S 10/12",
+    "description": "••••Sistemas hibridos de energía eólica-FV [2014.01]"
+  },
+  {
+    "code": "H02S 10/20",
+    "description": "••Sistemas que se caracterizan por sus medios de almacenamiento de energía (H02S 40/38  tiene prioridad) [2014.01]"
+  },
+  {
+    "code": "H02S 10/30",
+    "description": "••Sistemas termo-fotovoltaicos (células fotovoltaicas especialmente adaptadas para la conversión o sensibles a la radiación infrarroja [IR] H01L 31/00; dispositivos termoeléctricos H10N 10/00) [2014.01]"
+  },
+  {
+    "code": "H02S 10/40",
+    "description": "••Sistemas móviles de generación FV [2014.01]"
+  },
+  {
+    "code": "H02S 20/00",
+    "description": "Estructuras de soporte para módulos FV [2014.01]"
+  },
+  {
+    "code": "H02S 20/10",
+    "description": "••Estructuras de soporte fijadas directamente al suelo (H02S 20/30  tiene prioridad) [2014.01]"
+  },
+  {
+    "code": "H02S 20/20",
+    "description": "••Estructuras de soporte fijadas directamente a un objeto inamovible (H02S 20/30  tiene prioridad) [2014.01]"
+  },
+  {
+    "code": "H02S 20/21",
+    "description": "••••especialmente adaptadas para autopistas, p. ej. integradas con barreras de sonido [2014.01]"
+  },
+  {
+    "code": "H02S 20/22",
+    "description": "••••especialmente adaptadas para edificios [2014.01]"
+  },
+  {
+    "code": "H02S 20/23",
+    "description": "••••••especialmente adaptado para estructuras de techo [2014.01]"
+  },
+  {
+    "code": "H02S 20/24",
+    "description": "••••••••especialmente adaptadas para tejados planos [2014.01]"
+  },
+  {
+    "code": "H02S 20/25",
+    "description": "••••••••Elementos de cubierta de tejado o tejas [2014.01]"
+  },
+  {
+    "code": "H02S 20/26",
+    "description": "••••••Materiales de construcción integrados con módulos FV, p. ej. elementos de fachada (H02S 20/25  tiene prioridad) [2014.01]"
+  },
+  {
+    "code": "H02S 20/30",
+    "description": "••Estructuras de soporte móviles o ajustables, p. ej. para ajustar el ángulo [2014.01]"
+  },
+  {
+    "code": "H02S 20/32",
+    "description": "••••especialmente adaptadas para el seguimiento solar [2014.01]"
+  },
+  {
+    "code": "H02S 30/00",
+    "description": "Detalles estructurales de módulos fotovoltaicos (FV) distintos de los relacionados con la conversión de luz (aspectos de dispositivos semiconductores de módulos de dispositivos electrolíticos fotosensibles H01G 9/20, de módulos inorgánicos FV H01L 31/00, de módulos orgánicos FV H10K 30/00) [2014.01]"
+  },
+  {
+    "code": "H02S 30/10",
+    "description": "••Estructuras marco [2014.01]"
+  },
+  {
+    "code": "H02S 30/20",
+    "description": "••Módulos FV escamoteables o plegables [2014.01]"
+  },
+  {
+    "code": "H02S 40/00",
+    "description": "Componentes o accesorios en combinación con módulos FV, no previstos en los grupos H02S 10/00-H02S 30/00 [2014.01]"
+  },
+  {
+    "code": "H02S 40/10",
+    "description": "••Dispositivos de limpieza [2014.01]"
+  },
+  {
+    "code": "H02S 40/12",
+    "description": "••••Medios para retirar la nieve [2014.01]"
+  },
+  {
+    "code": "H02S 40/20",
+    "description": "••Componentes ópticos [2014.01]"
+  },
+  {
+    "code": "H02S 40/22",
+    "description": "••••Medios reflectantes o concentradores de luz (directamente asociados con la célula FV o integrados con la célula FV H01L 31/054) [2014.01]"
+  },
+  {
+    "code": "H02S 40/30",
+    "description": "••Componentes eléctricos [2014.01]"
+  },
+  {
+    "code": "H02S 40/32",
+    "description": "••••que comprende inversores DC/AC asociados con el módulo FV en sí, p. ej. módulos de AC [2014.01]"
+  },
+  {
+    "code": "H02S 40/34",
+    "description": "••••que comprende una conexión eléctrica estructuralmente asociada con el módulo FV, p. ej. cajas de conexión [2014.01]"
+  },
+  {
+    "code": "H02S 40/36",
+    "description": "••••caracterizados por medios de interconexión eléctricos especiales entre dos o más módulos FV, p. ej conexión  eléctrica de módulo a módulo [2014.01]"
+  },
+  {
+    "code": "H02S 40/38",
+    "description": "••••Medios de almacenamiento de energía, p. ej baterías, estructuralmente asociados a los módulos FV [2014.01]"
+  },
+  {
+    "code": "H02S 40/40",
+    "description": "••Componentes térmicos (H02S 10/30  tiene prioridad) [2014.01]"
+  },
+  {
+    "code": "H02S 40/42",
+    "description": "••••Medios de refrigeración (medios de refrigeración directamente asociados o integrados con la célula FV H01L 31/052) [2014.01]"
+  },
+  {
+    "code": "H02S 40/44",
+    "description": "••••Medios para utilizar la energía térmica, p. ej sistemas híbridos que producen agua caliente y electricidad al mismo tiempo (directamente asociados con la célula FV o integrados con la célula FV H01L 31/0525) [2014.01]"
+  },
+  {
+    "code": "H02S 50/00",
+    "description": "Monitorización o ensayos de sistemas FV, p. ej equilibrio de carga o identificación de fallos [2014.01]"
+  },
+  {
+    "code": "H02S 50/10",
+    "description": "••Ensayos de dispositivos FV, p. ej. de módulos FV o células FV individuales (ensayo de dispositivos semiconductores durante su fabricación H01L 21/66) [2014.01]"
+  },
+  {
+    "code": "H02S 50/15",
+    "description": "••••utilizando medios ópticos, p. ej.mediante electroluminiscencia [2014.01]"
+  },
+  {
+    "code": "H02S 99/00",
+    "description": "Materia no prevista en otros grupos de esta subclase [2014.01]"
+  }
+]

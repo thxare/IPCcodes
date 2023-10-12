@@ -1,0 +1,630 @@
+[
+  {
+    "code": "B64U 10/00",
+    "description": "Tipos de vehículos aéreos no tripulados [UAV] [2023.01]"
+  },
+  {
+    "code": "B64U 10/10",
+    "description": "••Giroaviones [2023.01]"
+  },
+  {
+    "code": "B64U 10/11",
+    "description": "••••Autogiros [2023.01]"
+  },
+  {
+    "code": "B64U 10/13",
+    "description": "••••Plataformas voladoras [2023.01]"
+  },
+  {
+    "code": "B64U 10/14",
+    "description": "••••••con cuatro ejes rotores diferenciados, p.ej. cuadricópteros [2023.01]"
+  },
+  {
+    "code": "B64U 10/16",
+    "description": "••••••con cinco o más ejes rotores diferenciados, p.ej. octocópteros [2023.01]"
+  },
+  {
+    "code": "B64U 10/17",
+    "description": "••••Helicópteros (plataformas voladoras B64U 10/13) [2023.01]"
+  },
+  {
+    "code": "B64U 10/20",
+    "description": "••Aeronaves de despegue y aterrizaje vertical [VTOL] (plataformas voladoras B64U 10/13; helicópteros B64U 10/17) [2023.01]"
+  },
+  {
+    "code": "B64U 10/25",
+    "description": "••Aeronaves con alas fijas (aeronaves de aterrizaje y despegue vertical [VTOL] B64U 10/20) [2023.01]"
+  },
+  {
+    "code": "B64U 10/30",
+    "description": "••aeronaves más ligeras que el aire, p.ej. aeronaves aerostáticas [2023.01]"
+  },
+  {
+    "code": "B64U 10/40",
+    "description": "••Ornitópteros [2023.01]"
+  },
+  {
+    "code": "B64U 10/50",
+    "description": "••Vehículos aéreos no tripulados [UAV] de tipo planeador, p. ej. con paracaídas, parapente o cometa (para aterrizaje B64U 70/83) [2023.01]"
+  },
+  {
+    "code": "B64U 10/60",
+    "description": "••Aeronaves amarradas [2023.01]"
+  },
+  {
+    "code": "B64U 10/70",
+    "description": "••Aeronaves transformables, p. ej. transformables en vehículos terrestres [2023.01]"
+  },
+  {
+    "code": "B64U 10/80",
+    "description": "••Vehículos aéreos no tripulados [UAV] que se caracterizan por su pequeño tamaño, p. ej. micro vehículos aéreos [MAV] [2023.01]"
+  },
+  {
+    "code": "B64U 20/00",
+    "description": "Aspectos constructivos de los vehículos aéreos no tripulados [UAV] (de los medios de propulsión B64U 30/00) [2023.01]"
+  },
+  {
+    "code": "B64U 20/10",
+    "description": "••para camuflaje o evasión, p.ej. reducción de la sección detectable por los radares [2023.01]"
+  },
+  {
+    "code": "B64U 20/20",
+    "description": "••para reducción de rudio [2023.01]"
+  },
+  {
+    "code": "B64U 20/30",
+    "description": "••para seguridad, p. ej. con componentes frangibles (protecciones de rotores B64U 30/299) [2023.01]"
+  },
+  {
+    "code": "B64U 20/40",
+    "description": "••Vehículos aéreos no tripulados [UAV] modulares [2023.01]"
+  },
+  {
+    "code": "B64U 20/50",
+    "description": "••Vehículos aéreos no tripulados [UAV] plegables o desmontables (con componentes frangibles B64U 20/30) [2023.01]"
+  },
+  {
+    "code": "B64U 20/60",
+    "description": "••Vehículos aéreos no tripulados [UAV] caracterizados por el material [2023.01]"
+  },
+  {
+    "code": "B64U 20/65",
+    "description": "••••Materiales compuestos [2023.01]"
+  },
+  {
+    "code": "B64U 20/70",
+    "description": "••Aspectos constructivos del fuselaje de los vehículos aéreos no tripulados [UAV] [2023.01]"
+  },
+  {
+    "code": "B64U 20/73",
+    "description": "••••Fuselaje monocasco [2023.01]"
+  },
+  {
+    "code": "B64U 20/75",
+    "description": "••••fuselaje formado por carenas unidas o por carenas superpuestas a un chasis [2023.01]"
+  },
+  {
+    "code": "B64U 20/77",
+    "description": "••••fuselaje formado enteramente por alas o apoyos de rotor [2023.01]"
+  },
+  {
+    "code": "B64U 20/80",
+    "description": "••Sistemas electrónicos a bordo, p. ej. sistemas de aviónica o cableado [2023.01]"
+  },
+  {
+    "code": "B64U 20/83",
+    "description": "••••Componentes electrónicos integrados estructuralmente con elementos de la aeronave, p. ej. paneles de circuitos que soportan cargas [2023.01]"
+  },
+  {
+    "code": "B64U 20/87",
+    "description": "••••Acople de dispositivos de imagen, p. ej. acople de cardanes para cámaras [2023.01]"
+  },
+  {
+    "code": "B64U 20/90",
+    "description": "••Refrigeración [2023.01]"
+  },
+  {
+    "code": "B64U 20/92",
+    "description": "••••de la aviónica [2023.01]"
+  },
+  {
+    "code": "B64U 20/94",
+    "description": "••••de rotores o de motores de rotor [2023.01]"
+  },
+  {
+    "code": "B64U 20/96",
+    "description": "••••mediante aire [2023.01]"
+  },
+  {
+    "code": "B64U 20/98",
+    "description": "••••mediante líquido, p. ej. aceite lubricante [2023.01]"
+  },
+  {
+    "code": "B64U 30/00",
+    "description": "Medios de propulsión; Empenajes; Instalaciones al efecto [2023.01]"
+  },
+  {
+    "code": "B64U 30/10",
+    "description": "••Alas [2023.01]"
+  },
+  {
+    "code": "B64U 30/12",
+    "description": "••••Alas adaptables o desmontables, p. ej. alas con flecha ajustable [2023.01]"
+  },
+  {
+    "code": "B64U 30/14",
+    "description": "••••••extraíbles [2023.01]"
+  },
+  {
+    "code": "B64U 30/16",
+    "description": "••••••móviles a lo largo del fuselaje [2023.01]"
+  },
+  {
+    "code": "B64U 30/20",
+    "description": "••Rotores; Soportes de rotores [2023.01]"
+  },
+  {
+    "code": "B64U 30/21",
+    "description": "••••Alas giratorias [2023.01]"
+  },
+  {
+    "code": "B64U 30/24",
+    "description": "••••Rotores coaxiales [2023.01]"
+  },
+  {
+    "code": "B64U 30/26",
+    "description": "••••Rotores carenados o con carcasa [2023.01]"
+  },
+  {
+    "code": "B64U 30/27",
+    "description": "••••Rotores guiados por llanta [2023.01]"
+  },
+  {
+    "code": "B64U 30/29",
+    "description": "••••Aspectos constructivos de rotores o apoyos de rotores; Instalaciones al efecto [2023.01]"
+  },
+  {
+    "code": "B64U 30/291",
+    "description": "••••••Rotores o apoyos de rotores extraíbles [2023.01]"
+  },
+  {
+    "code": "B64U 30/292",
+    "description": "••••••••Rotores o soportes de rotores especialmente adaptados para un desenganche rápido [2023.01]"
+  },
+  {
+    "code": "B64U 30/293",
+    "description": "••••••Rotores o soportes de rotores plegables o desmontables [2023.01]"
+  },
+  {
+    "code": "B64U 30/294",
+    "description": "••••••Rotores dispuestos en el fuselaje [2023.01]"
+  },
+  {
+    "code": "B64U 30/295",
+    "description": "••••••Rotores dispuestos en las alas [2023.01]"
+  },
+  {
+    "code": "B64U 30/296",
+    "description": "••••••Rotores con posiciones espaciales variables respecto al fuselaje (rotores plegables o desmontables B64U 30/293) [2023.01]"
+  },
+  {
+    "code": "B64U 30/297",
+    "description": "••••••••Rotores basculantes [2023.01]"
+  },
+  {
+    "code": "B64U 30/298",
+    "description": "••••••Aspas de helicópteros [2023.01]"
+  },
+  {
+    "code": "B64U 30/299",
+    "description": "••••••Defensas de rotores (rotores carenados o con carcasa B64U 30/26; defensas usadas como propulsión en tierra B64U 60/60) [2023.01]"
+  },
+  {
+    "code": "B64U 30/30",
+    "description": "••Medios de propulsión que usan flujo de aire radial [2023.01]"
+  },
+  {
+    "code": "B64U 30/40",
+    "description": "••Empenajes, p.ej. colas en V (vehículos aéreos no tripulados [UAV] plegables o desmontables B64U 20/50) [2023.01]"
+  },
+  {
+    "code": "B64U 40/00",
+    "description": "Sistemas mecánicos a bordo para el ajuste de las superficies de control o de los rotores; Sistemas mecánicos a bordo para el ajuste en vuelo de la configuración básica (control de posición, rumbo, altitud o actitud de los vehículos aéreos o espaciales, p.ej. piloto automático, G05D 1/00) [2023.01]"
+  },
+  {
+    "code": "B64U 40/10",
+    "description": "••para ajustar las superficies de control o los rotores [2023.01]"
+  },
+  {
+    "code": "B64U 40/20",
+    "description": "••para ajustar en vuelo la configuración básica [2023.01]"
+  },
+  {
+    "code": "B64U 50/00",
+    "description": "Propulsión; Fuentes de energía [2023.01]"
+  },
+  {
+    "code": "B64U 50/10",
+    "description": "••Propulsión (rotores especialmente adaptados para giroaviones o aeronaves con capacidad de despegue o aterrizaje vertical [VTOL] B64U 30/20) [2023.01]"
+  },
+  {
+    "code": "B64U 50/11",
+    "description": "••••con motores de pistones de combustión interna [2023.01]"
+  },
+  {
+    "code": "B64U 50/12",
+    "description": "••••con motores de turbinas, p. ej. turborreactores o turboventiladores [2023.01]"
+  },
+  {
+    "code": "B64U 50/13",
+    "description": "••••con ventiladores o hélices externos [2023.01]"
+  },
+  {
+    "code": "B64U 50/14",
+    "description": "••••••carenados o con carcasa [2023.01]"
+  },
+  {
+    "code": "B64U 50/15",
+    "description": "••••con escapes de combustión distintos de los turborreactores o turboventiladores, p. ej. con cohetes, estatorreactores, o reactores de pulso [2023.01]"
+  },
+  {
+    "code": "B64U 50/16",
+    "description": "••••con medios distintos al desplazamiento de aire o al escape de combustión, p. ej. agua o levitación magnética [2023.01]"
+  },
+  {
+    "code": "B64U 50/18",
+    "description": "••••Empuje vectorial [2023.01]"
+  },
+  {
+    "code": "B64U 50/19",
+    "description": "••••con motores de alimentación eléctrica [2023.01]"
+  },
+  {
+    "code": "B64U 50/20",
+    "description": "••Trasmisión de energía mecánica a rotores o hélices [2023.01]"
+  },
+  {
+    "code": "B64U 50/23",
+    "description": "••••donde cada medio de propulsión tiene un motor individual [2023.01]"
+  },
+  {
+    "code": "B64U 50/27",
+    "description": "••••donde un único motor da servicio a dos o más rotores o hélices [2023.01]"
+  },
+  {
+    "code": "B64U 50/30",
+    "description": "••Suministro o distribución de energía eléctrica [2023.01]"
+  },
+  {
+    "code": "B64U 50/31",
+    "description": "••••fotovoltaica [2023.01]"
+  },
+  {
+    "code": "B64U 50/32",
+    "description": "••••generada por pilas de combustible [2023.01]"
+  },
+  {
+    "code": "B64U 50/33",
+    "description": "••••generada por motores de combustión [2023.01]"
+  },
+  {
+    "code": "B64U 50/34",
+    "description": "••••de carga en vuelo (fotovoltaica B64U 50/31) [2023.01]"
+  },
+  {
+    "code": "B64U 50/35",
+    "description": "••••••por transmisión inalámbrica, p. ej. por inducción [2023.01]"
+  },
+  {
+    "code": "B64U 50/36",
+    "description": "••••••por turbinas eólicas, p. ej. turbinas de aire de impacto [RAT] [2023.01]"
+  },
+  {
+    "code": "B64U 50/37",
+    "description": "••••De carga cuando no se está en vuelo [2023.01]"
+  },
+  {
+    "code": "B64U 50/38",
+    "description": "••••••por transmisión inalámbrica [2023.01]"
+  },
+  {
+    "code": "B64U 50/39",
+    "description": "••••Cambio de baterías [2023.01]"
+  },
+  {
+    "code": "B64U 60/00",
+    "description": "Trenes de aterrizaje [2023.01]"
+  },
+  {
+    "code": "B64U 60/10",
+    "description": "••especialmente adaptados para su uso en agua [2023.01]"
+  },
+  {
+    "code": "B64U 60/20",
+    "description": "••especialmente adaptados para terreno irregular [2023.01]"
+  },
+  {
+    "code": "B64U 60/30",
+    "description": "••extraíbles del fuselaje [2023.01]"
+  },
+  {
+    "code": "B64U 60/40",
+    "description": "••plegables o retráctiles [2023.01]"
+  },
+  {
+    "code": "B64U 60/50",
+    "description": "••con patas de apoyo [2023.01]"
+  },
+  {
+    "code": "B64U 60/55",
+    "description": "••••donde las patas también se usan para propulsión terrestre [2023.01]"
+  },
+  {
+    "code": "B64U 60/60",
+    "description": "••con jaulas rodantes (droneballs) [2023.01]"
+  },
+  {
+    "code": "B64U 60/70",
+    "description": "••Alas móviles, soportes de rotor o carenados que actúan como elementos de toma de contacto con el suelo [2023.01]"
+  },
+  {
+    "code": "B64U 70/00",
+    "description": "Sistemas de lanzamiento, despegue o aterrizaje [2023.01]"
+  },
+  {
+    "code": "B64U 70/10",
+    "description": "••para soltar o capturar drones [UAV] a mano [2023.01]"
+  },
+  {
+    "code": "B64U 70/20",
+    "description": "••para soltar o capturar drones [UAV] en vuelo por otra aeronave [2023.01]"
+  },
+  {
+    "code": "B64U 70/30",
+    "description": "••para la captura de drones [UAV] en vuelo mediante equipos de detención en tierra o en el mar, p. ej. mediante un cable o una red [2023.01]"
+  },
+  {
+    "code": "B64U 70/40",
+    "description": "••Aterrizaje caracterizado por maniobras de vuelo, p. ej. entrada en pérdida [2023.01]"
+  },
+  {
+    "code": "B64U 70/50",
+    "description": "••Lanzamiento desde contenedores de almacenaje, p. ej. desde tubos de misiles submarinos [2023.01]"
+  },
+  {
+    "code": "B64U 70/60",
+    "description": "••Despegue o aterrizaje de drones [UAV] desde una pista usando su propia energía [2023.01]"
+  },
+  {
+    "code": "B64U 70/70",
+    "description": "••Lanzamiento o aterrizaje mediante catapultas, pistas o raíles (lanzamiento desde contenedores de almacenaje B64U 70/50) [2023.01]"
+  },
+  {
+    "code": "B64U 70/80",
+    "description": "••Despegue o aterrizaje vertical, p. ej. mediante cohetes (rotoaviones B64U 10/10; aeronaves de despegue o aterrizaje vertical [VTOL] B64U 10/20) [2023.01]"
+  },
+  {
+    "code": "B64U 70/83",
+    "description": "••••mediante paracaídas, globos o similares [2023.01]"
+  },
+  {
+    "code": "B64U 70/87",
+    "description": "••••mediante amortiguadores hinchables [2023.01]"
+  },
+  {
+    "code": "B64U 70/90",
+    "description": "••Lanzamiento desde plataformas o aterrizaje en plataformas [2023.01]"
+  },
+  {
+    "code": "B64U 70/92",
+    "description": "••••Plataformas portátiles [2023.01]"
+  },
+  {
+    "code": "B64U 70/93",
+    "description": "••••••para su uso en un vehículo terrestre o náutico [2023.01]"
+  },
+  {
+    "code": "B64U 70/95",
+    "description": "••••Medios para guiar el aterrizaje hacia la plataforma, p. ej. medios de iluminación [2023.01]"
+  },
+  {
+    "code": "B64U 70/97",
+    "description": "••••Medios para guiar el dron [UAV] a un lugar específico de la plataforma, p. ej. estructuras de la plataforma que impidan el aterrizaje descentrado [2023.01]"
+  },
+  {
+    "code": "B64U 70/99",
+    "description": "••••Medios para retener el dron [UAV] en la plataforma, p. ej. abrazaderas o imanes [2023.01]"
+  },
+  {
+    "code": "B64U 80/00",
+    "description": "Transporte o almacenamiento especialmente adaptado para drones [UAV] [2023.01]"
+  },
+  {
+    "code": "B64U 80/10",
+    "description": "••con medios para trasladar el dron [UAV] a un lugar de distribución o lanzamiento, p. ej. brazos robóticos o carruseles [2023.01]"
+  },
+  {
+    "code": "B64U 80/20",
+    "description": "••con sistemas para el mantenimiento del dron [UAV] [2023.01]"
+  },
+  {
+    "code": "B64U 80/25",
+    "description": "••••para recargar baterías; para repostar [2023.01]"
+  },
+  {
+    "code": "B64U 80/30",
+    "description": "••con sistemas de transmisión de datos [2023.01]"
+  },
+  {
+    "code": "B64U 80/40",
+    "description": "••para dos o más drones [UAV] [2023.01]"
+  },
+  {
+    "code": "B64U 80/50",
+    "description": "••con los drones [UAV] desmontados [2023.01]"
+  },
+  {
+    "code": "B64U 80/60",
+    "description": "••mediante objetos para llevar puestos, p. ej. prendas de vestir o cascos [2023.01]"
+  },
+  {
+    "code": "B64U 80/70",
+    "description": "••en contenedores (B64U 80/60 tiene preferencia) [2023.01]"
+  },
+  {
+    "code": "B64U 80/80",
+    "description": "••mediante vehículos [2023.01]"
+  },
+  {
+    "code": "B64U 80/82",
+    "description": "••••Vehículos aéreos [2023.01]"
+  },
+  {
+    "code": "B64U 80/84",
+    "description": "••••Vehículos acuáticos [2023.01]"
+  },
+  {
+    "code": "B64U 80/86",
+    "description": "••••Vehículos terrestres [2023.01]"
+  },
+  {
+    "code": "B64U 101/00",
+    "description": "Drones [UAV] especialmente adaptados a usos o aplicaciones particulares [2023.01]"
+  },
+  {
+    "code": "B64U 101/05",
+    "description": "••para deportes o juegos, p. ej. carretas de drones [2023.01]"
+  },
+  {
+    "code": "B64U 101/10",
+    "description": "••para generar energía que se suministra a una estación remota, p. ej. drones con paneles solares [2023.01]"
+  },
+  {
+    "code": "B64U 101/15",
+    "description": "••para la guerra convencional o electrónica [2023.01]"
+  },
+  {
+    "code": "B64U 101/16",
+    "description": "••••para controlar, capturar o inmovilizar otros vehículos [2023.01]"
+  },
+  {
+    "code": "B64U 101/17",
+    "description": "••••para detectar, interrumpir o contrarrestar comunicaciones [2023.01]"
+  },
+  {
+    "code": "B64U 101/18",
+    "description": "••••para tirar bombas; para disparar munición [2023.01]"
+  },
+  {
+    "code": "B64U 101/19",
+    "description": "••••para usar como blancos o señuelos [2023.01]"
+  },
+  {
+    "code": "B64U 101/20",
+    "description": "••como repetidores de comunicaciones, p. ej. plataformas a elevada altitud [2023.01]"
+  },
+  {
+    "code": "B64U 101/21",
+    "description": "••••para proporcionar acceso a Internet [2023.01]"
+  },
+  {
+    "code": "B64U 101/23",
+    "description": "••••para proporcionar servicios telefónicos [2023.01]"
+  },
+  {
+    "code": "B64U 101/24",
+    "description": "••••como pantallas volantes, p. ej. para publicidad o vallas publicitarias [2023.01]"
+  },
+  {
+    "code": "B64U 101/25",
+    "description": "••para fabricación o mantenimiento [2023.01]"
+  },
+  {
+    "code": "B64U 101/26",
+    "description": "••••para fabricación, inspecciones o reparaciones [2023.01]"
+  },
+  {
+    "code": "B64U 101/28",
+    "description": "••••para pintar o marcar [2023.01]"
+  },
+  {
+    "code": "B64U 101/29",
+    "description": "••••para limpiar [2023.01]"
+  },
+  {
+    "code": "B64U 101/30",
+    "description": "••para imagen, fotografía o videografía [2023.01]"
+  },
+  {
+    "code": "B64U 101/31",
+    "description": "••••para vigilancia [2023.01]"
+  },
+  {
+    "code": "B64U 101/32",
+    "description": "••••para cartografía o topografía [2023.01]"
+  },
+  {
+    "code": "B64U 101/35",
+    "description": "••para fines científicos, p. ej. meteorología [2023.01]"
+  },
+  {
+    "code": "B64U 101/40",
+    "description": "••para agricultura o trabajos forestales [2023.01]"
+  },
+  {
+    "code": "B64U 101/45",
+    "description": "••para soltar líquidos o polvos en vuelo, p. ej. para fumigar cultivos [2023.01]"
+  },
+  {
+    "code": "B64U 101/47",
+    "description": "••••para extinción de incendios [2023.01]"
+  },
+  {
+    "code": "B64U 101/55",
+    "description": "••para salvamento u operaciones de rescate; para uso médico [2023.01]"
+  },
+  {
+    "code": "B64U 101/56",
+    "description": "••••para localizar personas o animales perdidos [2023.01]"
+  },
+  {
+    "code": "B64U 101/57",
+    "description": "••••para llevar suministros de emergencia a personas o animales en peligro, p. ej. cuerdas o chalecos salvavidas [2023.01]"
+  },
+  {
+    "code": "B64U 101/58",
+    "description": "••••para evacuación médica, es decir, transporte de personas o animales a donde puedan recibir atención médica [2023.01]"
+  },
+  {
+    "code": "B64U 101/60",
+    "description": "••para el trasporte de pasajeros; para el transporte de mercancías que no sean armas [2023.01]"
+  },
+  {
+    "code": "B64U 101/61",
+    "description": "••••para el transporte de pasajeros [2023.01]"
+  },
+  {
+    "code": "B64U 101/64",
+    "description": "••••para la entrega o recogida de paquetes [2023.01]"
+  },
+  {
+    "code": "B64U 101/66",
+    "description": "••••••para la recogida de paquetes [2023.01]"
+  },
+  {
+    "code": "B64U 101/67",
+    "description": "••••con medios para el descenso de la mercancía [2023.01]"
+  },
+  {
+    "code": "B64U 101/69",
+    "description": "••••con medios para el lanzamiento aéreo de mercancías, p. ej. desplegando un paracaídas durante el descenso [2023.01]"
+  },
+  {
+    "code": "B64U 101/70",
+    "description": "••para usar en espacios cerrados, p. ej. en edificios o en vehículos [2023.01]"
+  },
+  {
+    "code": "B64U 101/75",
+    "description": "••para uso extraterrestre, p. ej. en la Luna o en Marte [2023.01]"
+  }
+]

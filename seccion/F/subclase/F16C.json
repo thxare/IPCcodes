@@ -1,0 +1,822 @@
+[
+  {
+    "code": "F16C 1/00",
+    "description": "Arboles flexibles (árboles flexibles para máquinas dentales para taladrar o cortar A61C 1/18); Medios mecánicos para transmitir movimiento en una funda flexible [2006.01]"
+  },
+  {
+    "code": "F16C 1/02",
+    "description": "••para transmitir un movimiento de rotación [2006.01]"
+  },
+  {
+    "code": "F16C 1/04",
+    "description": "••••Arboles articulados [2006.01]"
+  },
+  {
+    "code": "F16C 1/06",
+    "description": "••••con funda, tubo o caja de guía (F16C 1/04 tiene prioridad; fundas de guía F16C 1/26) [2006.01]"
+  },
+  {
+    "code": "F16C 1/08",
+    "description": "••••Conexiones de extremos [2006.01]"
+  },
+  {
+    "code": "F16C 1/10",
+    "description": "••Medios para transmitir un movimiento lineal en una funda flexible, p. ej. mecanismos \"Bowden\" (fundas de guía F16C 1/26) [2006.01]"
+  },
+  {
+    "code": "F16C 1/12",
+    "description": "••••Dispositivos para transmitir el movimiento al órgano flexible o desde éste [2006.01]"
+  },
+  {
+    "code": "F16C 1/14",
+    "description": "••••••Construcción del terminal del órgano flexible; su inserción al órgano flexible [2006.01]"
+  },
+  {
+    "code": "F16C 1/16",
+    "description": "••••••en los cuales el término está guiado rectilíneamente [2006.01]"
+  },
+  {
+    "code": "F16C 1/18",
+    "description": "••••••en los cuales la parte final del órgano flexible está dispuesta a lo largo de una superficie curva de un órgano pivotante [2006.01]"
+  },
+  {
+    "code": "F16C 1/20",
+    "description": "••••Estructura de los órganos flexibles animados de un movimiento de vaivén en la funda [2006.01]"
+  },
+  {
+    "code": "F16C 1/22",
+    "description": "••••Reglaje; Compensación de la longitud [2006.01]"
+  },
+  {
+    "code": "F16C 1/24",
+    "description": "••Engrase; Dispositivo de engrase [2006.01]"
+  },
+  {
+    "code": "F16C 1/26",
+    "description": "••Estructuras de las fundas de guía o de los tubos de guía [2006.01]"
+  },
+  {
+    "code": "F16C 1/28",
+    "description": "••••con cojinetes incorporados [2006.01]"
+  },
+  {
+    "code": "F16C 3/00",
+    "description": "Arboles (árboles flexibles F16C 1/00; ejes portahélices para propulsión o gobierno marino B63H 23/34); Ejes; Manivelas; Excéntricas [2006.01]"
+  },
+  {
+    "code": "F16C 3/02",
+    "description": "••Arboles; Ejes [2006.01]"
+  },
+  {
+    "code": "F16C 3/03",
+    "description": "••••telescópicos [2006.01]"
+  },
+  {
+    "code": "F16C 3/035",
+    "description": "••••••con cojinetes incorporados [2006.01]"
+  },
+  {
+    "code": "F16C 3/04",
+    "description": "••Cigüeñales, árboles excéntricos; Manivelas, excéntricas [2006.01]"
+  },
+  {
+    "code": "F16C 3/06",
+    "description": "••••Cigüeñales [2006.01]"
+  },
+  {
+    "code": "F16C 3/08",
+    "description": "••••••de una sola pieza (peculiaridades relativas al engrase F16C 3/14, a la refrigeración F16C 3/16) [2006.01]"
+  },
+  {
+    "code": "F16C 3/10",
+    "description": "••••••de varias partes, p. ej. unidos por soldadura [2006.01]"
+  },
+  {
+    "code": "F16C 3/12",
+    "description": "••••••••desmontables [2006.01]"
+  },
+  {
+    "code": "F16C 3/14",
+    "description": "••••••Peculiaridades relativas al engrase [2006.01]"
+  },
+  {
+    "code": "F16C 3/16",
+    "description": "••••••Peculiaridades relativas a la refrigeración [2006.01]"
+  },
+  {
+    "code": "F16C 3/18",
+    "description": "••••Arboles excéntricos [2006.01]"
+  },
+  {
+    "code": "F16C 3/20",
+    "description": "••••Forma de los cigüeñales o de los árboles excéntricos en función del equilibrado [2006.01]"
+  },
+  {
+    "code": "F16C 3/22",
+    "description": "••••Manivelas; Excéntricas (particularidades estructurales de los pasadores acodados en sí F16C 11/02) [2006.01]"
+  },
+  {
+    "code": "F16C 3/24",
+    "description": "••••••de contra-manivela, es decir, teniendo una segunda manivela colocada en el pasador acodado [2006.01]"
+  },
+  {
+    "code": "F16C 3/26",
+    "description": "••••••Brazos de manivela elásticos; pasadores montados elásticamente [2006.01]"
+  },
+  {
+    "code": "F16C 3/28",
+    "description": "••••••Manivelas o excéntricas regulables [2006.01]"
+  },
+  {
+    "code": "F16C 3/30",
+    "description": "••••••con dispositivos para vencer los puntos muertos [2006.01]"
+  },
+  {
+    "code": "F16C 5/00",
+    "description": "Crucetas de bielas; Estructuras de las cabezas de bielas o de las uniones de los vástagos de pistón que forman parte de las crucetas (vástagos de pistón, es decir, vástagos unidos rígidamente al pistón, F16J 7/00) [2006.01]"
+  },
+  {
+    "code": "F16C 7/00",
+    "description": "Bielas u órganos de unión similares que giran en los dos extremos (acoplamiento de bielas para ruedas motrices de locomotora B61C 17/10); Estructura de las cabezas de bielas (cabezas de biela que forman cuerpo con las crucetas F16C 5/00) [2006.01]"
+  },
+  {
+    "code": "F16C 7/02",
+    "description": "••Estructura de las bielas de longitud fija [2006.01]"
+  },
+  {
+    "code": "F16C 7/04",
+    "description": "••con una pieza intermedia elástica o un fluido amortiguador [2006.01]"
+  },
+  {
+    "code": "F16C 7/06",
+    "description": "••Bielas regulables [2006.01]"
+  },
+  {
+    "code": "F16C 7/08",
+    "description": "••fabricadas de chapa [2006.01]"
+  },
+  {
+    "code": "F16C 9/00",
+    "description": "Cojinetes para cigüeñales o bielas; Fijación de las bielas (engrase de las bielas unidas a los cigüeñales F16C 3/14; unión a las crucetas F16C 5/00, a los pistones F16J 1/14) [2006.01]"
+  },
+  {
+    "code": "F16C 9/02",
+    "description": "••Cojinetes de cigüeñales [2006.01]"
+  },
+  {
+    "code": "F16C 9/03",
+    "description": "••••Dispositivos para regular la holgura [2006.01]"
+  },
+  {
+    "code": "F16C 9/04",
+    "description": "••Cojinetes para bielas; Sus fijaciones [2006.01]"
+  },
+  {
+    "code": "F16C 9/06",
+    "description": "••••Dispositivos para regular la holgura en los cojinetes con funcionamiento automático o no [2006.01]"
+  },
+  {
+    "code": "F16C 11/00",
+    "description": "Pivotes; Uniones pivotantes (disposición relativa de las articulaciones de la timonería de dirección B62D 7/16) [2006.01]"
+  },
+  {
+    "code": "F16C 11/02",
+    "description": "••Muñones; Muñequillas (uniones de las muñequillas a los brazos de las manivelas, muñequillas que forman cuerpo con las manivelas F16C 3/06, F16C 3/22) [2006.01]"
+  },
+  {
+    "code": "F16C 11/04",
+    "description": "••Articulaciones (bisagras para puertas, ventanas o batientes E05D) [2006.01]"
+  },
+  {
+    "code": "F16C 11/06",
+    "description": "••••Articulaciones de rótula; Otras articulaciones que tienen más de un grado de libertad angular, es decir, juntas universales (juntas universales en las cuales la flexibilidad se logra con pivotes u órganos de unión deslizantes o rodantes F16D 3/16) [2006.01]"
+  },
+  {
+    "code": "F16C 11/08",
+    "description": "••••••de cojinetes elásticos [2006.01]"
+  },
+  {
+    "code": "F16C 11/10",
+    "description": "••••Dispositivos para el blocaje [2006.01]"
+  },
+  {
+    "code": "F16C 11/12",
+    "description": "••••con uniones flexibles incorporados, p. ej. resortes de láminas [2006.01]"
+  },
+  {
+    "code": "F16C 13/00",
+    "description": "Rodillos, tambores, discos o elementos análogos (rodillos de guiado para la alimentación de bandas B65H 27/00; rodillos para calandrias, sus cojinetes D21G 1/02; tambores o cilindros giratorios para aparatos cambiadores o de transferencia de calor F28F 5/02; para sus adaptaciones especiales, ver las clases apropiadas); Cojinetes o sus montajes [2006.01]"
+  },
+  {
+    "code": "F16C 13/02",
+    "description": "••Cojinetes [2006.01]"
+  },
+  {
+    "code": "F16C 13/04",
+    "description": "••••Cojinetes que solamente cogen parcialmente el órgano que soportan; Cojinetes con un soporte local en dos o más puntos [2006.01]"
+  },
+  {
+    "code": "F16C 13/06",
+    "description": "••••de autorreglaje [2006.01]"
+  },
+  {
+    "code": "F16C 15/00",
+    "description": "Construcción de las piezas rotativas para resistir la fuerza centrífuga (volantes, masas de equilibrado F16F 15/30, F16F 15/32) [2006.01]"
+  },
+  {
+    "code": "F16C 17/00",
+    "description": "Cojinetes de contacto deslizante para movimiento rotativo exclusivamente (F16C 32/06 tiene prioridad; cojinetes ajustables F16C 23/00, F16C 25/00) [2006.01]"
+  },
+  {
+    "code": "F16C 17/02",
+    "description": "••únicamente para cargas radiales [2006.01]"
+  },
+  {
+    "code": "F16C 17/03",
+    "description": "••••con segmentos soportados oblicuamente, p. ej. cojinetes Michell [2006.01]"
+  },
+  {
+    "code": "F16C 17/04",
+    "description": "••únicamente para cargas axiales [2006.01]"
+  },
+  {
+    "code": "F16C 17/06",
+    "description": "••••con segmentos soportados oblicuamente, p. ej. cojinetes Michell [2006.01]"
+  },
+  {
+    "code": "F16C 17/08",
+    "description": "••••para soportar el extremo de un árbol o de otro órgano, p. ej. gorrones [2006.01]"
+  },
+  {
+    "code": "F16C 17/10",
+    "description": "••a la vez para cargas radiales y axiales [2006.01]"
+  },
+  {
+    "code": "F16C 17/12",
+    "description": "••caracterizados por peculiaridades ajenas a la dirección de la carga [2006.01]"
+  },
+  {
+    "code": "F16C 17/14",
+    "description": "••••especialmente adaptados para funcionar en el agua [2006.01]"
+  },
+  {
+    "code": "F16C 17/18",
+    "description": "••••con casquillos o manguitos flotantes, girando a velocidad reducida [2006.01]"
+  },
+  {
+    "code": "F16C 17/20",
+    "description": "••••con soportes de emergencia o cojinetes [2006.01]"
+  },
+  {
+    "code": "F16C 17/22",
+    "description": "••••con dispositivos para compensar la dilatación térmica [2006.01]"
+  },
+  {
+    "code": "F16C 17/24",
+    "description": "••••con dispositivos afectados por condiciones anormales o indeseables, p. ej. para impedir un sobrecalentamiento, por seguridad [2006.01]"
+  },
+  {
+    "code": "F16C 17/26",
+    "description": "••Sistemas que consisten en una pluralidad de cojinetes de contacto deslizante [2006.01]"
+  },
+  {
+    "code": "F16C 19/00",
+    "description": "Cojinetes de contacto mediante rodamientos, para movimiento rotativo exclusivamente (cojinetes ajustables F16C 23/00, F16C 25/00) [2006.01]"
+  },
+  {
+    "code": "F16C 19/02",
+    "description": "••con cojinetes de bolas principalmente del mismo calibre en una o en varias pistas de rodadura [2006.01]"
+  },
+  {
+    "code": "F16C 19/04",
+    "description": "••••para cargas radiales principalmente [2006.01]"
+  },
+  {
+    "code": "F16C 19/06",
+    "description": "••••••con una sola hilera de bolas [2006.01]"
+  },
+  {
+    "code": "F16C 19/08",
+    "description": "••••••con dos o más hileras de bolas [2006.01]"
+  },
+  {
+    "code": "F16C 19/10",
+    "description": "••••para cargas axiales principalmente [2006.01]"
+  },
+  {
+    "code": "F16C 19/12",
+    "description": "••••••para recibir la extremidad de un árbol o de otro órgano, p. ej. gorrones [2006.01]"
+  },
+  {
+    "code": "F16C 19/14",
+    "description": "••••para cargas simultáneamente radiales y axiales [2006.01]"
+  },
+  {
+    "code": "F16C 19/16",
+    "description": "••••••con una sola hilera de bolas [2006.01]"
+  },
+  {
+    "code": "F16C 19/18",
+    "description": "••••••con dos o más hileras de bolas [2006.01]"
+  },
+  {
+    "code": "F16C 19/20",
+    "description": "••••con órganos de espaciamiento vacíos, p. ej. bolas, entre las bolas del cojinete [2006.01]"
+  },
+  {
+    "code": "F16C 19/22",
+    "description": "••con cojinetes de rodillos del mismo ancho esencialmente, dispuesto en una o varias hileras circulares, p. ej. cojinetes de agujas [2006.01]"
+  },
+  {
+    "code": "F16C 19/24",
+    "description": "••••para cargas radiales principalmente [2006.01]"
+  },
+  {
+    "code": "F16C 19/26",
+    "description": "••••••con una sola hilera de rodillos [2006.01]"
+  },
+  {
+    "code": "F16C 19/28",
+    "description": "••••••con dos o más hileras de rodillos [2006.01]"
+  },
+  {
+    "code": "F16C 19/30",
+    "description": "••••para cargas axiales principalmente [2006.01]"
+  },
+  {
+    "code": "F16C 19/32",
+    "description": "••••••para recibir la extremidad de un árbol de otro órgano, p. ej. gorrones [2006.01]"
+  },
+  {
+    "code": "F16C 19/34",
+    "description": "••••para cargas simultáneamente axiales y radiales [2006.01]"
+  },
+  {
+    "code": "F16C 19/36",
+    "description": "••••••con una sola hilera de rodillos [2006.01]"
+  },
+  {
+    "code": "F16C 19/38",
+    "description": "••••••con dos o más hileras de rodillos [2006.01]"
+  },
+  {
+    "code": "F16C 19/40",
+    "description": "••••con órganos de espaciamiento libre entre los rodillos de los cojinetes [2006.01]"
+  },
+  {
+    "code": "F16C 19/44",
+    "description": "••••Cojinetes de agujas [2006.01]"
+  },
+  {
+    "code": "F16C 19/46",
+    "description": "••••••con una hilera de agujas [2006.01]"
+  },
+  {
+    "code": "F16C 19/48",
+    "description": "••••••con dos o más hileras de agujas [2006.01]"
+  },
+  {
+    "code": "F16C 19/49",
+    "description": "••Cojinetes con rodamientos de bolas y a la vez de rodillos [2006.01]"
+  },
+  {
+    "code": "F16C 19/50",
+    "description": "••Otros tipos de cojinetes de bolas o de rodillos [2006.01]"
+  },
+  {
+    "code": "F16C 19/52",
+    "description": "••con dispositivos afectados por condiciones anormales o indeseables [2006.01]"
+  },
+  {
+    "code": "F16C 19/54",
+    "description": "••Sistemas formados de una pluralidad de cojinetes con rodamiento de fricción (cojinetes de varillas F16C 35/08) [2006.01]"
+  },
+  {
+    "code": "F16C 19/55",
+    "description": "••••con anillos flotantes intermedios que giran a velocidad reducida [2006.01]"
+  },
+  {
+    "code": "F16C 19/56",
+    "description": "••••en las que las partes rodantes de un cojinete difieren en diámetro de las del otro [2006.01]"
+  },
+  {
+    "code": "F16C 21/00",
+    "description": "Combinaciones de cojinetes de contacto deslizante con cojinetes de bolas o de rodillos, para movimiento rotativo exclusivamente (F16C 17/24, F16C 19/52 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "F16C 23/00",
+    "description": "Cojinetes para movimiento rotativo exclusivamente regulables para alineamiento o posicionamiento (F16C 27/00 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F16C 23/02",
+    "description": "••Cojinetes de contacto deslizante [2006.01]"
+  },
+  {
+    "code": "F16C 23/04",
+    "description": "••••de autorreglaje [2006.01]"
+  },
+  {
+    "code": "F16C 23/06",
+    "description": "••Cojinetes de bolas o de rodillos [2006.01]"
+  },
+  {
+    "code": "F16C 23/08",
+    "description": "••••de autorreglaje [2006.01]"
+  },
+  {
+    "code": "F16C 23/10",
+    "description": "••Cojinetes, cuyas partes son excéntricamente regulables las unas con relación a las otras [2006.01]"
+  },
+  {
+    "code": "F16C 25/00",
+    "description": "Cojinetes para movimiento rotativo exclusivamente ajustables para contrarrestar el desgaste o la holgura (F16C 27/00 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F16C 25/02",
+    "description": "••Cojinetes de contacto deslizante [2006.01]"
+  },
+  {
+    "code": "F16C 25/04",
+    "description": "••••de autorreglaje [2006.01]"
+  },
+  {
+    "code": "F16C 25/06",
+    "description": "••Cojinetes de bolas o de rodillos [2006.01]"
+  },
+  {
+    "code": "F16C 25/08",
+    "description": "••••de autorreglaje [2006.01]"
+  },
+  {
+    "code": "F16C 27/00",
+    "description": "Cojinetes o soportes de cojinetes elásticos o extensibles, para movimiento rotativo exclusivamente (cojinetes amortiguadores de golpes para relojes de pared o bolsillo G04B 31/02) [2006.01]"
+  },
+  {
+    "code": "F16C 27/02",
+    "description": "••Cojinetes de contacto deslizante [2006.01]"
+  },
+  {
+    "code": "F16C 27/04",
+    "description": "••Cojinetes de bolas o de rodillos, p. ej. con cuerpos de rodamientos elásticos [2006.01]"
+  },
+  {
+    "code": "F16C 27/06",
+    "description": "••por medio de partes de goma o de material análogo (F16C 27/08 tiene prioridad; con superficie de deslizamiento con goma o goma sintética F16C 33/22) [2006.01]"
+  },
+  {
+    "code": "F16C 27/08",
+    "description": "••para cargas axiales principalmente, p. ej. para árboles dispuestos verticalmente [2006.01]"
+  },
+  {
+    "code": "F16C 29/00",
+    "description": "Cojinetes para piezas de desplazamiento exclusivamente lineal (F16C 32/06 tiene prioridad; incorporados en árboles flexibles F16C 1/28) [2006.01]"
+  },
+  {
+    "code": "F16C 29/02",
+    "description": "••Cojinetes de contacto deslizante [2006.01]"
+  },
+  {
+    "code": "F16C 29/04",
+    "description": "••Cojinetes de bolas o de rodillos [2006.01]"
+  },
+  {
+    "code": "F16C 29/06",
+    "description": "••••en los cuales las bolas o los rodillos no soportan la carga nada más que sobre una parte del camino de rodadura [2006.01]"
+  },
+  {
+    "code": "F16C 29/08",
+    "description": "••Dispositivos para cubrir o proteger las pistas de rodadura [2006.01]"
+  },
+  {
+    "code": "F16C 29/10",
+    "description": "••Dispositivos para bloquear los cojinetes [2006.01]"
+  },
+  {
+    "code": "F16C 29/12",
+    "description": "••Dispositivos para ajustar holguras [2006.01]"
+  },
+  {
+    "code": "F16C 31/00",
+    "description": "Cojinetes para piezas que simultáneamente giran y se mueven linealmente [2006.01]"
+  },
+  {
+    "code": "F16C 31/02",
+    "description": "••Cojinetes de contacto deslizante [2006.01]"
+  },
+  {
+    "code": "F16C 31/04",
+    "description": "••Cojinetes de bolas o de rodillos [2006.01]"
+  },
+  {
+    "code": "F16C 31/06",
+    "description": "••••en los cuales las bolas o los rodillos no soportan la carga nada más que sobre una parte de la pista de rodadura [2006.01]"
+  },
+  {
+    "code": "F16C 32/00",
+    "description": "Cojinetes no previstos en otro lugar [2006.01]"
+  },
+  {
+    "code": "F16C 32/02",
+    "description": "••Cojinetes en hoja de cuchillo [2006.01]"
+  },
+  {
+    "code": "F16C 32/04",
+    "description": "••usando medios de soporte magnéticos eléctricos [2006.01]"
+  },
+  {
+    "code": "F16C 32/06",
+    "description": "••con órganos móviles soportados por un cojín de fluido que se forma, al menos en gran parte, de una manera distinta que por la rotación del árbol, p. ej. cojinetes hidrostáticos de colchón de aire [2006.01]"
+  },
+  {
+    "code": "F16C 33/00",
+    "description": "Elementos de los cojinetes; Procedimientos especiales de fabricación de los cojinetes o de sus elementos (trabajo de los metales u operaciones análogas, véanse las clases apropiadas) [2006.01]"
+  },
+  {
+    "code": "F16C 33/02",
+    "description": "••Elementos de los cojinetes de contacto deslizante [2006.01]"
+  },
+  {
+    "code": "F16C 33/04",
+    "description": "••••Manguitos; Casquillos; Guarniciones antifricción [2006.01]"
+  },
+  {
+    "code": "F16C 33/06",
+    "description": "••••••Superficie de deslizamiento constituida principalmente de metal (F16C 33/24-F16C 33/28 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "F16C 33/08",
+    "description": "••••••••Fijación de los manguitos, casquillos o guarniciones al cuerpo del cojinete [2006.01]"
+  },
+  {
+    "code": "F16C 33/10",
+    "description": "••••••••Estructuras relativas a la lubrificación [2006.01]"
+  },
+  {
+    "code": "F16C 33/12",
+    "description": "••••••••Composición estructural; Empleo de materiales especificados o tratamiento particular de las superficies, p. ej. contra la herrumbre [2006.01]"
+  },
+  {
+    "code": "F16C 33/14",
+    "description": "••••••••Procedimientos particulares de fabricación; Rodajes [2006.01]"
+  },
+  {
+    "code": "F16C 33/16",
+    "description": "••••••Superficie de deslizamiento constituida principalmente de grafito [2006.01]"
+  },
+  {
+    "code": "F16C 33/18",
+    "description": "••••••Superficie de deslizamiento constituida principalmente de madera o de un material fibroso [2006.01]"
+  },
+  {
+    "code": "F16C 33/20",
+    "description": "••••••Superficie de deslizamiento constituida principalmente de goma natural o sintética (F16C 33/22-F16C 33/28 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F16C 33/22",
+    "description": "••••••Superficie de deslizamiento constituida principalmente de goma natural o sintética (F16C 33/24-F16C 33/28  tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "F16C 33/24",
+    "description": "••••••con zonas diferentes en la superficie de deslizamiento formadas de materiales diferentes [2006.01]"
+  },
+  {
+    "code": "F16C 33/26",
+    "description": "••••••constituidas de bobinas de hilos; constituidas de un cierto número de discos, anillos, varillas u otros órganos [2006.01]"
+  },
+  {
+    "code": "F16C 33/28",
+    "description": "••••••con refuerzos insertados formando una armadura o con materiales mallados [2006.01]"
+  },
+  {
+    "code": "F16C 33/30",
+    "description": "••Elementos de los cojinetes de bolas o de rodillos [2006.01]"
+  },
+  {
+    "code": "F16C 33/32",
+    "description": "••••Bolas [2006.01]"
+  },
+  {
+    "code": "F16C 33/34",
+    "description": "••••Rodillos; Agujas [2006.01]"
+  },
+  {
+    "code": "F16C 33/36",
+    "description": "••••••con cojinetes de superficie diferentes de las superficies cilíndricas, p. ej. cónicas; con gargantas practicadas en las superficies portantes [2006.01]"
+  },
+  {
+    "code": "F16C 33/37",
+    "description": "••••Organos de espaciamiento libre [2006.01]"
+  },
+  {
+    "code": "F16C 33/372",
+    "description": "••••••rígidos [2006.01]"
+  },
+  {
+    "code": "F16C 33/374",
+    "description": "••••••elásticos [2006.01]"
+  },
+  {
+    "code": "F16C 33/38",
+    "description": "••••Jaulas de bolas [2006.01]"
+  },
+  {
+    "code": "F16C 33/40",
+    "description": "••••••para pistas de bolas múltiples [2006.01]"
+  },
+  {
+    "code": "F16C 33/41",
+    "description": "••••••en forma de peine [2006.01]"
+  },
+  {
+    "code": "F16C 33/42",
+    "description": "••••••hechos de hilos o de bandas de chapas metálicas (F16C 33/40, F16C 33/41 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "F16C 33/44",
+    "description": "••••••Empleo de materiales específicos (F16C 33/40, F16C 33/41 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "F16C 33/46",
+    "description": "••••Jaulas para rodillos para agujas [2006.01]"
+  },
+  {
+    "code": "F16C 33/48",
+    "description": "••••••para pistas de rodillos o de agujas múltiples [2006.01]"
+  },
+  {
+    "code": "F16C 33/49",
+    "description": "••••••en forma de peine [2006.01]"
+  },
+  {
+    "code": "F16C 33/50",
+    "description": "••••••formadas de órganos unidos entre ellos, p. ej. cadenas [2006.01]"
+  },
+  {
+    "code": "F16C 33/51",
+    "description": "••••••formadas de elementos no unidos entre sí [2006.01]"
+  },
+  {
+    "code": "F16C 33/52",
+    "description": "••••••sin ninguna pieza intercalada entre las superficies portantes de los rodillos o en contacto con ellas (F16C 33/50 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F16C 33/54",
+    "description": "••••••hechas de hilos, de bandas o de chapa metálica (F16C 33/48, F16C 33/49 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "F16C 33/56",
+    "description": "••••••Empleo de materiales específicos (F16C 33/48, F16C 33/49 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "F16C 33/58",
+    "description": "••••Pistas de rodadura; Casquillos de rodadura [2006.01]"
+  },
+  {
+    "code": "F16C 33/60",
+    "description": "••••••divididas [2006.01]"
+  },
+  {
+    "code": "F16C 33/61",
+    "description": "••••••••hechas de hilos metálicos [2006.01]"
+  },
+  {
+    "code": "F16C 33/62",
+    "description": "••••••Empleo de materiales específicos [2006.01]"
+  },
+  {
+    "code": "F16C 33/64",
+    "description": "••••••Procedimientos especiales de fabricación [2006.01]"
+  },
+  {
+    "code": "F16C 33/66",
+    "description": "••••Piezas o detalles especiales para la lubrificación [2006.01]"
+  },
+  {
+    "code": "F16C 33/72",
+    "description": "••Dispositivos de estanqueidad [2006.01]"
+  },
+  {
+    "code": "F16C 33/74",
+    "description": "••••para cojinetes de contacto deslizante [2006.01]"
+  },
+  {
+    "code": "F16C 33/76",
+    "description": "••••para cojinetes de bolas o de rodillos [2006.01]"
+  },
+  {
+    "code": "F16C 33/78",
+    "description": "••••••con diafragma, disco o anillo, con o sin partes elásticas [2006.01]"
+  },
+  {
+    "code": "F16C 33/80",
+    "description": "••••••con laberintos de estanqueidad [2006.01]"
+  },
+  {
+    "code": "F16C 33/82",
+    "description": "••••••Dispositivos para la acción electrostática o magnética contra el polvo u otras partículas [2006.01]"
+  },
+  {
+    "code": "F16C 35/00",
+    "description": "Soportes rígidos de conjuntos de cojinete; Alojamientos, p. ej. casquillos, tapas (F16C 23/00 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F16C 35/02",
+    "description": "••en el caso de cojinetes de contacto deslizante [2006.01]"
+  },
+  {
+    "code": "F16C 35/04",
+    "description": "••en el caso de cojinetes de bolas o de rodillos [2006.01]"
+  },
+  {
+    "code": "F16C 35/06",
+    "description": "••••Montaje de cojinetes de bolas o rodillos; Su fijación dentro de un eje o de su alojamiento [2006.01]"
+  },
+  {
+    "code": "F16C 35/063",
+    "description": "••••••Su fijación al eje (con interposición de un elemento F16C 35/07) [2006.01]"
+  },
+  {
+    "code": "F16C 35/067",
+    "description": "••••••Su fijación en un alojamiento (con interposición de un elemento F16C 35/07) [2006.01]"
+  },
+  {
+    "code": "F16C 35/07",
+    "description": "••••••Su fijación al eje o alojamiento con interposición de un elemento [2006.01]"
+  },
+  {
+    "code": "F16C 35/073",
+    "description": "••••••••entre el eje y el anillo de rodadura interior [2006.01]"
+  },
+  {
+    "code": "F16C 35/077",
+    "description": "••••••••entre el alojamiento y el anillo de rodadura exterior [2006.01]"
+  },
+  {
+    "code": "F16C 35/078",
+    "description": "••••••utilizando un fluido a presión para ayudar al montaje [2006.01]"
+  },
+  {
+    "code": "F16C 35/08",
+    "description": "••para husos [2006.01]"
+  },
+  {
+    "code": "F16C 35/10",
+    "description": "••••con cojinetes de contacto deslizante [2006.01]"
+  },
+  {
+    "code": "F16C 35/12",
+    "description": "••••con cojinetes de bolas o de rodillos [2006.01]"
+  },
+  {
+    "code": "F16C 37/00",
+    "description": "Refrigeración de los cojinetes [2006.01]"
+  },
+  {
+    "code": "F16C 39/00",
+    "description": "Aligeramiento de la carga aplicada a los cojinetes [2006.01]"
+  },
+  {
+    "code": "F16C 39/02",
+    "description": "••por medios mecánicos [2006.01]"
+  },
+  {
+    "code": "F16C 39/04",
+    "description": "••por medios hidráulicos o neumáticos [2006.01]"
+  },
+  {
+    "code": "F16C 39/06",
+    "description": "••por medios magnéticos [2006.01]"
+  },
+  {
+    "code": "F16C 41/00",
+    "description": "Otros accesorios para cojinetes [2006.01]"
+  },
+  {
+    "code": "F16C 41/02",
+    "description": "••Dispositivos para repartir equitativamente la carga sobre varios cojinetes o sobre los elementos de apoyo [2006.01]"
+  },
+  {
+    "code": "F16C 41/04",
+    "description": "••Prevención de los daños causados a los cojinetes durante su almacenamiento o transporte o en aquellos casos que están fuera de servicio por cualquier razón [2006.01]"
+  },
+  {
+    "code": "F16C 43/00",
+    "description": "Montaje de los cojinetes [2006.01]"
+  },
+  {
+    "code": "F16C 43/02",
+    "description": "••Montaje de los cojinetes de contacto deslizante [2006.01]"
+  },
+  {
+    "code": "F16C 43/04",
+    "description": "••Montaje de los cojinetes de contacto por rodamiento [2006.01]"
+  },
+  {
+    "code": "F16C 43/06",
+    "description": "••••Colocación de los órganos giratorios en las jaulas de rodadura o en los cojinetes [2006.01]"
+  },
+  {
+    "code": "F16C 43/08",
+    "description": "••••••por deformación de las pistas o las cajas de soldadura [2006.01]"
+  }
+]

@@ -1,0 +1,486 @@
+[
+  {
+    "code": "H03H 1/00",
+    "description": "Detalles de realización de redes de impedancia cuya forma de funcionamiento eléctrico no está especificado o es aplicable a más de un tipo de red (detalles constructivos de transductores electromecánicos H03H 9/00) [2006.01]"
+  },
+  {
+    "code": "H03H 1/02",
+    "description": "••Redes RC, p. ej. filtros (combinaciones estructurales de condensadores con otros elementos eléctricos H01G) [2006.01]"
+  },
+  {
+    "code": "H03H 2/00",
+    "description": "Redes que utilizan elementos o técnicas no previstos en los grupos H03H 3/00-H03H 21/00 [2006.01]"
+  },
+  {
+    "code": "H03H 3/00",
+    "description": "Aparatos o procedimientos especialmente adaptados a la fabricación de redes de impedancia, de circuitos resonantes, de resonadores [2006.01]"
+  },
+  {
+    "code": "H03H 3/007",
+    "description": "••para la fabricación de resonadores o de redes electromecánicas [2006.01]"
+  },
+  {
+    "code": "H03H 3/013",
+    "description": "••••para obtener una frecuencia o un coeficiente de temperatura deseados (H03H 3/04, H03H 3/10 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H03H 3/02",
+    "description": "••••para la fabricación de resonadores o de redes piezo-eléctricas o electroestrictivas (H03H 3/08 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H03H 3/04",
+    "description": "••••••para obtener una frecuencia o un coeficiente de temperatura deseadas [2006.01]"
+  },
+  {
+    "code": "H03H 3/06",
+    "description": "••••para la fabricación de resonadores o de redes magnetoestrictivas [2006.01]"
+  },
+  {
+    "code": "H03H 3/08",
+    "description": "••••para la fabricación de resonadores o de redes que utilizan ondas acústicas de superficie [2006.01]"
+  },
+  {
+    "code": "H03H 3/10",
+    "description": "••••••para obtener una frecuencia o un coeficiente de temperatura deseados [2006.01]"
+  },
+  {
+    "code": "H03H 5/00",
+    "description": "Redes de un acceso que tienen como componentes únicamente elementos eléctricos pasivos [2006.01]"
+  },
+  {
+    "code": "H03H 5/02",
+    "description": "••sin elementos dependientes de la tensión o de la corriente [2006.01]"
+  },
+  {
+    "code": "H03H 5/10",
+    "description": "••••comprendiendo al menos un elemento con un coeficiente de temperatura predeterminado [2006.01]"
+  },
+  {
+    "code": "H03H 5/12",
+    "description": "••con al menos un elemento dependiente de la tensión o de la corriente [2006.01]"
+  },
+  {
+    "code": "H03H 7/00",
+    "description": "Redes de varios accesos que tienen como componentes únicamente elementos eléctricos pasivos (circuitos de entrada de receptores H04B 1/18; redes que simulan un trozo de cable de comunicación H04B 3/40) [2006.01]"
+  },
+  {
+    "code": "H03H 7/01",
+    "description": "••Redes de dos accesos selectores de frecuencia [2006.01]"
+  },
+  {
+    "code": "H03H 7/03",
+    "description": "••••que comprenden medios que aseguran la compensación de pérdidas [2006.01]"
+  },
+  {
+    "code": "H03H 7/06",
+    "description": "••••que comprenden resistencias (H03H 7/075, H03H 7/09, H03H 7/12, H03H 7/13 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H03H 7/065",
+    "description": "••••••Filtros en T paralelos [2006.01]"
+  },
+  {
+    "code": "H03H 7/07",
+    "description": "••••••Filtros en T puenteados [2006.01]"
+  },
+  {
+    "code": "H03H 7/075",
+    "description": "••••Redes de escala, p. ej. filtros de onda eléctrica [2006.01]"
+  },
+  {
+    "code": "H03H 7/09",
+    "description": "••••Filtros con inductancia mutua [2006.01]"
+  },
+  {
+    "code": "H03H 7/12",
+    "description": "••••Filtros pasabanda o filtros de banda eliminada con ancho de banda regulable y frecuencia central fija (H03H 7/09 tiene prioridad; control automático del ancho de banda en los amplificadores H03G 5/16) [2006.01]"
+  },
+  {
+    "code": "H03H 7/13",
+    "description": "••••que utilizan elementos electroópticos [2006.01]"
+  },
+  {
+    "code": "H03H 7/18",
+    "description": "••Redes para control de desfase [2006.01]"
+  },
+  {
+    "code": "H03H 7/19",
+    "description": "••••Desfasadores de dos accesos que producen un desfase predeterminado, p. ej. filtros \"pasa todo\" [2006.01]"
+  },
+  {
+    "code": "H03H 7/20",
+    "description": "••••Desfasadores de dos accesos que producen un desfase ajustable [2006.01]"
+  },
+  {
+    "code": "H03H 7/21",
+    "description": "••••que producen varias señales de salida desplazadas en fase, p. ej. salida de n fases [2006.01]"
+  },
+  {
+    "code": "H03H 7/24",
+    "description": "••Atenuadores independientes de la frecuencia [2006.01]"
+  },
+  {
+    "code": "H03H 7/25",
+    "description": "••••con un elemento controlado por una variable eléctrica o magnética (H03H 7/27 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H03H 7/27",
+    "description": "••••con un elemento fotoeléctrico [2006.01]"
+  },
+  {
+    "code": "H03H 7/30",
+    "description": "••Redes retardadoras [2006.01]"
+  },
+  {
+    "code": "H03H 7/32",
+    "description": "••••con inductancia y capacidad localizadas [2006.01]"
+  },
+  {
+    "code": "H03H 7/34",
+    "description": "••••con reactancia localizada y distribuida [2006.01]"
+  },
+  {
+    "code": "H03H 7/38",
+    "description": "••Redes de adaptación de impedancia [2006.01]"
+  },
+  {
+    "code": "H03H 7/40",
+    "description": "••••Adaptación automática de la impedancia de la carga a la impedancia de la fuente [2006.01]"
+  },
+  {
+    "code": "H03H 7/42",
+    "description": "••Redes que permiten transformar señales equilibradas en señales no equilibradas y recíprocamente [2006.01]"
+  },
+  {
+    "code": "H03H 7/46",
+    "description": "••Redes para conectar varias fuentes o cargas, funcionando sobre frecuencias o en bandas de frecuencias diferentes, con una carga o una fuente común (para la utilización en sistemas de transmisión multiplex H04J 1/00) [2006.01]"
+  },
+  {
+    "code": "H03H 7/48",
+    "description": "••Redes para conectar varias fuentes o cargas, funcionando en la misma frecuencia o en la misma banda de frecuencias, con una carga o una fuente común (desfasadores que producen varias señales de salida H03H 7/21) [2006.01]"
+  },
+  {
+    "code": "H03H 7/52",
+    "description": "••Redes de transmisión unidireccional [2006.01]"
+  },
+  {
+    "code": "H03H 7/54",
+    "description": "••Modificaciones de redes para reducir la influencia de las variaciones de temperatura [2006.01]"
+  },
+  {
+    "code": "H03H 9/00",
+    "description": "Redes que comprenden dispositivos electromecánicos o electroacústicos; Resonadores electromecánicos (fabricación de elementos piezoeléctricos o magnetoestrictivos H10N 30/00, H10N 35/00; altavoces, micrófonos, cabezas de lectura para gramófonos y similares H04R) [2006.01]"
+  },
+  {
+    "code": "H03H 9/02",
+    "description": "••Detalles [2006.01]"
+  },
+  {
+    "code": "H03H 9/05",
+    "description": "••••Soportes [2006.01]"
+  },
+  {
+    "code": "H03H 9/08",
+    "description": "••••••Soportes con medios para regular la temperatura [2006.01]"
+  },
+  {
+    "code": "H03H 9/09",
+    "description": "••••••Soportes elásticos o amortiguadores [2006.01]"
+  },
+  {
+    "code": "H03H 9/10",
+    "description": "••••••Montaje en carcasas [2006.01]"
+  },
+  {
+    "code": "H03H 9/12",
+    "description": "••••••••para redes con interacción entre ondas ópticas y ondas acústicas [2006.01]"
+  },
+  {
+    "code": "H03H 9/125",
+    "description": "••••Medios de excitación, p. ej. electrodos, bobinas [2006.01]"
+  },
+  {
+    "code": "H03H 9/13",
+    "description": "••••••para redes que se componen de materiales piezoeléctricos o electroestrictivos (H03H 9/145 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H03H 9/135",
+    "description": "••••••para redes constituidas por materiales magnetoestrictivos (H03H 9/145 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H03H 9/145",
+    "description": "••••••para redes que utilizan ondas acústicas de superficie [2006.01]"
+  },
+  {
+    "code": "H03H 9/15",
+    "description": "••Detalles de construcción de resonadores que se componen de material piezoeléctrico o electroestrictivo (H03H 9/25 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H03H 9/17",
+    "description": "••••teniendo un resonador único (diapasones de cristal H03H 9/21) [2006.01]"
+  },
+  {
+    "code": "H03H 9/19",
+    "description": "••••••de cuarzo [2006.01]"
+  },
+  {
+    "code": "H03H 9/205",
+    "description": "••••teniendo resonadores múltiples (diapasones de cristal H03H 9/21) [2006.01]"
+  },
+  {
+    "code": "H03H 9/21",
+    "description": "••••Diapasones de cristal [2006.01]"
+  },
+  {
+    "code": "H03H 9/215",
+    "description": "••••••de cuarzo [2006.01]"
+  },
+  {
+    "code": "H03H 9/22",
+    "description": "••Detalles de construcción de resonadores que se componen de material magnetoestrictivo [2006.01]"
+  },
+  {
+    "code": "H03H 9/24",
+    "description": "••Detalles de construcción de resonadores de material que no es ni piezoeléctrico, ni electroestrictivo, ni magnetoestrictivo [2006.01]"
+  },
+  {
+    "code": "H03H 9/25",
+    "description": "••Detalles de construcción de resonadores que utilizan ondas acústicas de superficie [2006.01]"
+  },
+  {
+    "code": "H03H 9/30",
+    "description": "••Redes retardadoras [2006.01]"
+  },
+  {
+    "code": "H03H 9/36",
+    "description": "••••con retardo no regulable (H03H 9/40, H03H 9/42 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H03H 9/38",
+    "description": "••••con retardo regulable (H03H 9/40, H03H 9/42 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H03H 9/40",
+    "description": "••••Líneas de retardo que dependen de la frecuencia, p. ej. líneas de retardo dispersivas (H03H 9/42 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H03H 9/42",
+    "description": "••••que utilizan ondas acústicas de superficie [2006.01]"
+  },
+  {
+    "code": "H03H 9/44",
+    "description": "••••••Líneas de retardo que dependen de la frecuencia, p. ej. líneas de retardo dispersivas [2006.01]"
+  },
+  {
+    "code": "H03H 9/46",
+    "description": "••Filtros (filtros electromecánicos de varios accesos H03H 9/70) [2006.01]"
+  },
+  {
+    "code": "H03H 9/48",
+    "description": "••••Medios de acoplamiento para estos filtros [2006.01]"
+  },
+  {
+    "code": "H03H 9/50",
+    "description": "••••••Medios de acoplamiento mecánicos [2006.01]"
+  },
+  {
+    "code": "H03H 9/52",
+    "description": "••••••Medios de acoplamiento eléctricos [2006.01]"
+  },
+  {
+    "code": "H03H 9/54",
+    "description": "••••que comprenden resonadores de material piezoeléctrico o electroestrictivo (H03H 9/64 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H03H 9/56",
+    "description": "••••••Filtros de cristales monolíticos [2006.01]"
+  },
+  {
+    "code": "H03H 9/58",
+    "description": "••••••Filtros de cristales múltiples [2006.01]"
+  },
+  {
+    "code": "H03H 9/60",
+    "description": "••••••••Medios de acoplamiento para estos filtros [2006.01]"
+  },
+  {
+    "code": "H03H 9/62",
+    "description": "••••que comprenden resonadores de material magnetoestrictivo (H03H 9/64 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H03H 9/64",
+    "description": "••••que utilizan ondas acústicas de superficie [2006.01]"
+  },
+  {
+    "code": "H03H 9/66",
+    "description": "••Desfasadores [2006.01]"
+  },
+  {
+    "code": "H03H 9/68",
+    "description": "••••que utilizan ondas acústicas de superficie [2006.01]"
+  },
+  {
+    "code": "H03H 9/70",
+    "description": "••Redes de varios accesos para conectar varias fuentes o cargas, funcionando en frecuencias o en bandas de frecuencia diferentes, con una carga o una fuente común [2006.01]"
+  },
+  {
+    "code": "H03H 9/72",
+    "description": "••••Redes que utilizan ondas acústicas de superficie [2006.01]"
+  },
+  {
+    "code": "H03H 9/74",
+    "description": "••Redes de varios accesos para conectar varias fuentes o cargas, funcionando sobre la misma frecuencia o en la misma banda de frecuencia, con una carga o una fuente común (redes desfasadoras H03H 9/66) [2006.01]"
+  },
+  {
+    "code": "H03H 9/76",
+    "description": "••••Redes que utilizan ondas acústicas de superficie [2006.01]"
+  },
+  {
+    "code": "H03H 11/00",
+    "description": "Redes que utilizan elementos activos [2006.01]"
+  },
+  {
+    "code": "H03H 11/02",
+    "description": "••Redes de varios accesos [2006.01]"
+  },
+  {
+    "code": "H03H 11/04",
+    "description": "••••Redes selectivas de frecuencia de dos accesos [2006.01]"
+  },
+  {
+    "code": "H03H 11/06",
+    "description": "••••••con medios que aseguran la compensación de pérdidas [2006.01]"
+  },
+  {
+    "code": "H03H 11/08",
+    "description": "••••••que utilizan giradores [2006.01]"
+  },
+  {
+    "code": "H03H 11/10",
+    "description": "••••••que utilizan convertidores de impedancia negativa (H03H 11/08 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H03H 11/12",
+    "description": "••••••que utilizan amplificadores con realimentación (H03H 11/08, H03H 11/10 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H03H 11/14",
+    "description": "••••••que utilizan dispositivos electroópticos [2006.01]"
+  },
+  {
+    "code": "H03H 11/16",
+    "description": "••••Redes desfasadoras [2006.01]"
+  },
+  {
+    "code": "H03H 11/18",
+    "description": "••••••Desfasadores de dos accesos que producen un desfase predeterminado, p. ej. filtros \"pasa todo\" [2006.01]"
+  },
+  {
+    "code": "H03H 11/20",
+    "description": "••••••Desfasadores de dos accesos que producen un desfase regulable [2006.01]"
+  },
+  {
+    "code": "H03H 11/22",
+    "description": "••••••que producen varias señales de salida desplazadas en fase, p. ej. salida de n fases [2006.01]"
+  },
+  {
+    "code": "H03H 11/24",
+    "description": "••••Atenuadores independientes de la frecuencia [2006.01]"
+  },
+  {
+    "code": "H03H 11/26",
+    "description": "••••Redes retardadoras (registros de desplazamiento analógicos G11C 27/04) [2006.01]"
+  },
+  {
+    "code": "H03H 11/28",
+    "description": "••••Redes de adaptación de impedancia [2006.01]"
+  },
+  {
+    "code": "H03H 11/30",
+    "description": "••••••Adaptación automática de la impedancia de fuente a la impedancia de carga [2006.01]"
+  },
+  {
+    "code": "H03H 11/32",
+    "description": "••••Redes que permiten transformar señales equilibradas en señales no equilibradas y al revés [2006.01]"
+  },
+  {
+    "code": "H03H 11/34",
+    "description": "••••Redes para conectar varias fuentes o cargas, funcionando sobre frecuencias diferentes o en bandas de frecuencia diferentes, a una carga o a una fuente común (para utilización en sistemas de transmisión multiplex H04J 1/00) [2006.01]"
+  },
+  {
+    "code": "H03H 11/36",
+    "description": "••••Redes para conectar varias fuentes o cargas, funcionando sobre la misma frecuencia o en la misma banda de frecuencia, a una carga o a una fuente común (desfasadores que producen varias señales de salida H03H 11/22) [2006.01]"
+  },
+  {
+    "code": "H03H 11/38",
+    "description": "••••Redes de transmisión unidireccional [2006.01]"
+  },
+  {
+    "code": "H03H 11/40",
+    "description": "••••Convertidores de impedancia [2006.01]"
+  },
+  {
+    "code": "H03H 11/42",
+    "description": "••••••Giradores (utilizados en las redes selectoras de frecuencia H03H 11/08) [2006.01]"
+  },
+  {
+    "code": "H03H 11/44",
+    "description": "••••••Convertidores de impedancia negativa (H03H 11/42 tiene prioridad; utilizados en las redes selectoras de frecuencia H03H 11/10) [2006.01]"
+  },
+  {
+    "code": "H03H 11/46",
+    "description": "••Redes de un acceso [2006.01]"
+  },
+  {
+    "code": "H03H 11/48",
+    "description": "••••que simulan reactancias [2006.01]"
+  },
+  {
+    "code": "H03H 11/50",
+    "description": "••••••que utilizan giradores [2006.01]"
+  },
+  {
+    "code": "H03H 11/52",
+    "description": "••••que simulan resistencias negativas [2006.01]"
+  },
+  {
+    "code": "H03H 11/54",
+    "description": "••Modificaciones de redes para reducir la influencia de las variaciones de temperatura [2006.01]"
+  },
+  {
+    "code": "H03H 15/00",
+    "description": "Filtros transversales (filtros electromecánicos H03H 9/46, H03H 9/70) [2006.01]"
+  },
+  {
+    "code": "H03H 15/02",
+    "description": "••que utilizan registros de desplazamiento analógico [2006.01]"
+  },
+  {
+    "code": "H03H 17/00",
+    "description": "Redes que utilizan técnicas digitales [2006.01]"
+  },
+  {
+    "code": "H03H 17/02",
+    "description": "••Redes selectoras de frecuencia [2006.01]"
+  },
+  {
+    "code": "H03H 17/04",
+    "description": "••••Filtros recursivos [2006.01]"
+  },
+  {
+    "code": "H03H 17/06",
+    "description": "••••Filtros no recursivos [2006.01]"
+  },
+  {
+    "code": "H03H 17/08",
+    "description": "••Redes desfasadoras [2006.01]"
+  },
+  {
+    "code": "H03H 19/00",
+    "description": "Redes que utilizan elementos diferentes en función del tiempo, p. ej. filtros con N vías [2006.01]"
+  },
+  {
+    "code": "H03H 21/00",
+    "description": "Redes adaptativas [2006.01]"
+  }
+]

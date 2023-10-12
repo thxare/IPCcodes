@@ -1,0 +1,298 @@
+[
+  {
+    "code": "E03D 1/00",
+    "description": "Sistemas de descarga mediante cisterna [2006.01]"
+  },
+  {
+    "code": "E03D 1/01",
+    "description": "••Forma o empleo de materiales específicos para cisternas de descarga [2006.01]"
+  },
+  {
+    "code": "E03D 1/012",
+    "description": "••••Forma detallada de las cisternas, p. ej. por fijación al muro, por soporte o fijación de los órganos de mando del sistema de descarga [2006.01]"
+  },
+  {
+    "code": "E03D 1/02",
+    "description": "••Descargas mediante cisterna alta [2006.01]"
+  },
+  {
+    "code": "E03D 1/04",
+    "description": "••••Cisternas mediante sifón de campana [2006.01]"
+  },
+  {
+    "code": "E03D 1/05",
+    "description": "••••••con campanas de sifón móviles [2006.01]"
+  },
+  {
+    "code": "E03D 1/06",
+    "description": "••••Cisternas mediante sifón tubular [2006.01]"
+  },
+  {
+    "code": "E03D 1/07",
+    "description": "••••••con tubos de sifón móviles o deformables [2006.01]"
+  },
+  {
+    "code": "E03D 1/08",
+    "description": "••••••Sifón mediante acción provocada por la presión de aire o de agua [2006.01]"
+  },
+  {
+    "code": "E03D 1/10",
+    "description": "••••••Sifón mediante acción provocada por la elevación del nivel del agua en la cisterna, p. ej. por el desplazamiento de elementos [2006.01]"
+  },
+  {
+    "code": "E03D 1/12",
+    "description": "••••••Sifón mediante acción provocada por escape de aire [2006.01]"
+  },
+  {
+    "code": "E03D 1/14",
+    "description": "••••Cisternas capaces de suministrar cantidades de agua variable (cisternas de descarga doble o múltiple E03D 1/22; dispositivos de descarga que funcionan por la presión existente en el sistema de alimentación de agua y capaces de suministrar cantidades de agua variables E03D 3/12) [2006.01]"
+  },
+  {
+    "code": "E03D 1/16",
+    "description": "••••Cisternas mediante descarga periódica [2006.01]"
+  },
+  {
+    "code": "E03D 1/18",
+    "description": "••••Cisternas que quedan vacías fuera de los períodos de funcionamiento [2006.01]"
+  },
+  {
+    "code": "E03D 1/20",
+    "description": "••••Cisternas mediante recipientes basculantes [2006.01]"
+  },
+  {
+    "code": "E03D 1/22",
+    "description": "••••Cisternas de descarga doble o múltiples [2006.01]"
+  },
+  {
+    "code": "E03D 1/24",
+    "description": "••Descargas mediante cisterna baja [2006.01]"
+  },
+  {
+    "code": "E03D 1/26",
+    "description": "••••Taza con cisterna colocada sobre el prolongamiento trasero de la taza (forma o material de la cisterna E03D 1/01; características de estructura de la taza E03D 11/02-E03D 11/12) [2006.01]"
+  },
+  {
+    "code": "E03D 1/28",
+    "description": "••••Taza formando cuerpo con la cisterna de descarga [2006.01]"
+  },
+  {
+    "code": "E03D 1/30",
+    "description": "••Válvulas de charnela para cisternas altas y bajas; Su disposición (válvulas de alimentación, válvulas en general F16K) [2006.01]"
+  },
+  {
+    "code": "E03D 1/32",
+    "description": "••••Disposición de las válvulas de alimentación (dispositivos para reducir el ruido E03D 9/14) [2006.01]"
+  },
+  {
+    "code": "E03D 1/33",
+    "description": "••••Adaptaciones o arreglos de los flotadores (flotadores para accionar en general F16K 33/00) [2006.01]"
+  },
+  {
+    "code": "E03D 1/34",
+    "description": "••••Válvulas de descarga para desagüe; Disposición de las válvulas de desagüe [2006.01]"
+  },
+  {
+    "code": "E03D 1/35",
+    "description": "••••••Válvulas de descarga por flotación [2006.01]"
+  },
+  {
+    "code": "E03D 1/36",
+    "description": "••••Funcionamiento combinado de válvulas de alimentación y de evacuación [2006.01]"
+  },
+  {
+    "code": "E03D 1/38",
+    "description": "••Adaptaciones o arreglos de las tuberías de descarga (medios para absorber los ruidos en los sistemas de canalizaciones F16L 55/00) [2006.01]"
+  },
+  {
+    "code": "E03D 3/00",
+    "description": "Aparatos de descarga que funcionan por la presión existente en el sistema de alimentación de agua [2006.01]"
+  },
+  {
+    "code": "E03D 3/02",
+    "description": "••Válvulas de descarga con cierre automático (válvulas con cierre automático en general F16K 21/04) [2006.01]"
+  },
+  {
+    "code": "E03D 3/04",
+    "description": "••••con válvula de pistón y cámara de presión para retardar el movimiento de cierre de la charnela [2006.01]"
+  },
+  {
+    "code": "E03D 3/06",
+    "description": "••••con válvula de diafragma y cámara de presión para retardar el movimiento de cierre de la charnela [2006.01]"
+  },
+  {
+    "code": "E03D 3/08",
+    "description": "••••con otros dispositivos de retardo [2006.01]"
+  },
+  {
+    "code": "E03D 3/10",
+    "description": "••Sistemas de descarga con cisterna que actúa por presión, p. ej. campana de aire [2006.01]"
+  },
+  {
+    "code": "E03D 3/12",
+    "description": "••Dispositivos de descarga capaces de suministrar cantidades de agua variables (cisternas de descarga capaces de suministrar cantidades de agua variables E03D 1/14) [2006.01]"
+  },
+  {
+    "code": "E03D 5/00",
+    "description": "Instalaciones particulares de aparatos de descarga (en los vehículos de carreteras o remolques B60R 15/00; en los ferrocarriles B61D 35/00; en los barcos B63B 29/14; en los aviones B64D 11/02) [2006.01]"
+  },
+  {
+    "code": "E03D 5/01",
+    "description": "••utilizando bombas de descarga de agua [2006.01]"
+  },
+  {
+    "code": "E03D 5/012",
+    "description": "••combinados con elementos obturadores móviles en el orificio de evacuación de la taza (tazas con elementos obturadores colocados entre el fondo en el orificio de evacuación y el tubo de descarga en sí E03D 11/10) [2006.01]"
+  },
+  {
+    "code": "E03D 5/014",
+    "description": "••••con dispositivos para retirar separadamente líquidos y sólidos [2006.01]"
+  },
+  {
+    "code": "E03D 5/016",
+    "description": "••con recirculación del fluido de limpieza de la taza [2006.01]"
+  },
+  {
+    "code": "E03D 5/02",
+    "description": "••accionados mecánica o hidráulicamente (E03D 5/01, E03D 5/12 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "E03D 5/04",
+    "description": "••••por el asiento o la taza directamente [2006.01]"
+  },
+  {
+    "code": "E03D 5/06",
+    "description": "••••por la puerta directamente [2006.01]"
+  },
+  {
+    "code": "E03D 5/08",
+    "description": "••••por el pie directamente [2006.01]"
+  },
+  {
+    "code": "E03D 5/09",
+    "description": "••••a mano directamente [2006.01]"
+  },
+  {
+    "code": "E03D 5/092",
+    "description": "••••••el elemento de descarga, p. ej. campana de sifón accionada por medio de una palanca [2006.01]"
+  },
+  {
+    "code": "E03D 5/094",
+    "description": "••••••el elemento de descarga, p. ej. campana de sifón accionada por medio de un cable, de una cadena o similar [2006.01]"
+  },
+  {
+    "code": "E03D 5/10",
+    "description": "••accionados eléctricamente (E03D 5/01, E03D 5/12 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "E03D 5/12",
+    "description": "••con descarga periódica (cisternas altas con descarga periódica E03D 1/16) [2006.01]"
+  },
+  {
+    "code": "E03D 7/00",
+    "description": "Retretes rodantes (cabinas rodantes sin descarga de agua A47K 11/00; estructura de vehículos de carretera B62) [2006.01]"
+  },
+  {
+    "code": "E03D 9/00",
+    "description": "Accesorios sanitarios u otros para aseos (herramientas manuales para limpiar la taza de los retretes A47K 11/10; asientos o tapas para los retretes A47K 13/00; soportes de cuerpos diferentes de los asientos para retretes A47K 17/02; dispositivos para impedir la contaminación de las canalizaciones de agua potable E03C 1/10) [2006.01]"
+  },
+  {
+    "code": "E03D 9/02",
+    "description": "••Dispositivos que añaden al agua, durante la descarga o dentro del depósito, un producto desinfectante, desodorante o de limpieza (equipo de desinfección de materiales o de objetos en general A61L 2/00; tratamiento del agua en general C02F) [2006.01]"
+  },
+  {
+    "code": "E03D 9/03",
+    "description": "••••consistente en un recipiente separado con órgano de vaciado por intermedio del cual el producto se echa en el agua de la descarga, p. ej. por succión [2006.01]"
+  },
+  {
+    "code": "E03D 9/04",
+    "description": "••Disposición o funcionamiento especial de los dispositivos de ventilación (ventilación de los locales en general F24F) [2006.01]"
+  },
+  {
+    "code": "E03D 9/05",
+    "description": "••••ventilando la taza [2006.01]"
+  },
+  {
+    "code": "E03D 9/052",
+    "description": "••••••utilizando ventiladores incorporados [2006.01]"
+  },
+  {
+    "code": "E03D 9/06",
+    "description": "••Cámaras anexas conectadas hidráulicamente a la tubería de descarga y destinadas a recibir utensilios para la limpieza de la taza, p. ej. escobas [2006.01]"
+  },
+  {
+    "code": "E03D 9/08",
+    "description": "••Dispositivos de duchas pulverizadas ascendentes, situados en la taza; Modificaciones de la taza para utilización de semejantes dispositivos (duchas A47K 3/28; baños para usos terapéuticos ohigiénicos particulares A61H 33/00, para partes determinadas del cuerpo A61H 35/00) [2006.01]"
+  },
+  {
+    "code": "E03D 9/10",
+    "description": "••Aparatos disgregadores de residuos combinados con la taza [2006.01]"
+  },
+  {
+    "code": "E03D 9/12",
+    "description": "••Medios para impedir el hielo en los aseos [2006.01]"
+  },
+  {
+    "code": "E03D 9/14",
+    "description": "••Medios para reducir los ruidos, combinados con válvula de descarga (medios para absorber los ruidos de las tuberías F16L 55/00) [2006.01]"
+  },
+  {
+    "code": "E03D 9/16",
+    "description": "••Medios para regular la presión de agua en los tubos de descarga [2006.01]"
+  },
+  {
+    "code": "E03D 11/00",
+    "description": "Otros elementos constitutivos de retretes (uniones o conexiones de tubos en general F16L) [2006.01]"
+  },
+  {
+    "code": "E03D 11/02",
+    "description": "••Tazas de retretes (cámaras anexas conectadas al tubo de descarga, destinadas a recibir utensilios para la limpieza de la taza E03D 9/06; modificadas para la utilización de duchas pulverizadas ascendentes E03D 9/08; asientos o tapas A47K 13/00) [2006.01]"
+  },
+  {
+    "code": "E03D 11/04",
+    "description": "••••Tazas de forma general plana con el fondo ligeramente inclinado [2006.01]"
+  },
+  {
+    "code": "E03D 11/06",
+    "description": "••••Tazas con rebordes que se prolongan hacia abajo [2006.01]"
+  },
+  {
+    "code": "E03D 11/08",
+    "description": "••••Tazas con dispositivos para que el agua de descarga gire en torbellino [2006.01]"
+  },
+  {
+    "code": "E03D 11/10",
+    "description": "••••Tazas con elementos obturadores colocados entre el fondo o el orificio de evacuación y el tubo de descarga; Tazas con válvulas giratorias [2006.01]"
+  },
+  {
+    "code": "E03D 11/11",
+    "description": "••••Tazas combinadas con una cisterna, p. ej. conteniendo un aparato para la desinfección o la disgregación [2006.01]"
+  },
+  {
+    "code": "E03D 11/12",
+    "description": "••Tazas basculantes, p. ej. para uso en un espacio reducido [2006.01]"
+  },
+  {
+    "code": "E03D 11/13",
+    "description": "••Elementos o partes constitutivas de tazas; Adaptaciones particulares de uniones o acoplamientos de tubos para su utilización en las tazas [2006.01]"
+  },
+  {
+    "code": "E03D 11/14",
+    "description": "••••Medios para relacionar la taza con la pared, p. ej. para una evacuación prevista en la pared [2006.01]"
+  },
+  {
+    "code": "E03D 11/16",
+    "description": "••••Medios para relacionar la taza con el suelo, p. ej. en una evacuación prevista en el piso [2006.01]"
+  },
+  {
+    "code": "E03D 11/17",
+    "description": "••••Medios para relacionar la taza con el tubo de descarga [2006.01]"
+  },
+  {
+    "code": "E03D 11/18",
+    "description": "••Sifones (para tuberías en general F16L 43/00, F16L 45/00) [2006.01]"
+  },
+  {
+    "code": "E03D 13/00",
+    "description": "Urinarios (sin sistema de descarga de agua A47K 11/00) [2006.01]"
+  }
+]

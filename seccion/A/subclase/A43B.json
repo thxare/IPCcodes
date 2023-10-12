@@ -1,0 +1,766 @@
+[
+  {
+    "code": "A43B 1/00",
+    "description": "Calzados caracterizados por el material [2006.01]"
+  },
+  {
+    "code": "A43B 1/02",
+    "description": "••hechos de fibras o de tejidos fabricados con ellas [2022.01]"
+  },
+  {
+    "code": "A43B 1/023",
+    "description": "••••Fibras animales [2022.01]"
+  },
+  {
+    "code": "A43B 1/025",
+    "description": "••••Fibras vegetales [2022.01]"
+  },
+  {
+    "code": "A43B 1/028",
+    "description": "••••Fibras sintéticas o artificiales [2022.01]"
+  },
+  {
+    "code": "A43B 1/04",
+    "description": "••••trenzados, anudados, de punto o de ganchillo [2022.01]"
+  },
+  {
+    "code": "A43B 1/05",
+    "description": "••••tejidos [2022.01]"
+  },
+  {
+    "code": "A43B 1/06",
+    "description": "••hechos de madera, corcho, cartón, papel o material fibroso similar [2006.01]"
+  },
+  {
+    "code": "A43B 1/08",
+    "description": "••hechos de metal [2006.01]"
+  },
+  {
+    "code": "A43B 1/10",
+    "description": "••hechos de goma [2006.01]"
+  },
+  {
+    "code": "A43B 1/12",
+    "description": "••••hechos de residuos de caucho [2006.01]"
+  },
+  {
+    "code": "A43B 1/14",
+    "description": "••hechos de plástico (A43B 1/028 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "A43B 3/00",
+    "description": "Calzados caracterizados por la forma o el uso [2022.01]"
+  },
+  {
+    "code": "A43B 3/02",
+    "description": "••Botas que cubren la parte inferior de la pierna [2006.01]"
+  },
+  {
+    "code": "A43B 3/04",
+    "description": "••••con inserciones o fuelles de goma o elásticos [2006.01]"
+  },
+  {
+    "code": "A43B 3/06",
+    "description": "••Calzado con solapas; Calzado con la parte superior dividida [2006.01]"
+  },
+  {
+    "code": "A43B 3/08",
+    "description": "••••con inserciones o fuelles de goma o elásticos [2006.01]"
+  },
+  {
+    "code": "A43B 3/10",
+    "description": "••Zapatos bajos; Zapatillas o pantuflas [2006.01]"
+  },
+  {
+    "code": "A43B 3/12",
+    "description": "••Sandalias; Tiras o correas de las mismas [2006.01]"
+  },
+  {
+    "code": "A43B 3/14",
+    "description": "••Mocasines, Opanak o zapatos similares [2006.01]"
+  },
+  {
+    "code": "A43B 3/16",
+    "description": "••Cubiertas para calzado [2022.01]"
+  },
+  {
+    "code": "A43B 3/18",
+    "description": "••••Dispositivos de sujeción de las cubiertas [2022.01]"
+  },
+  {
+    "code": "A43B 3/20",
+    "description": "••••Cubiertas sin tacón [2022.01]"
+  },
+  {
+    "code": "A43B 3/24",
+    "description": "••Plegables o convertibles [2006.01]"
+  },
+  {
+    "code": "A43B 3/26",
+    "description": "••ajustables en longitud o tamaño [2006.01]"
+  },
+  {
+    "code": "A43B 3/30",
+    "description": "••especialmente adaptados para bebés o niños pequeños [2006.01]"
+  },
+  {
+    "code": "A43B 3/34",
+    "description": "••con dispositivos eléctricos o electrónicos [2022.01]"
+  },
+  {
+    "code": "A43B 3/35",
+    "description": "••••con dispositivos de calefacción eléctrica [2022.01]"
+  },
+  {
+    "code": "A43B 3/36",
+    "description": "••••con fuentes de luz [2022.01]"
+  },
+  {
+    "code": "A43B 3/38",
+    "description": "••••con fuentes de energía [2022.01]"
+  },
+  {
+    "code": "A43B 3/40",
+    "description": "••••••Baterias [2022.01]"
+  },
+  {
+    "code": "A43B 3/42",
+    "description": "••••••donde la energía se genera mediante la conversión del movimiento mecánico en electricidad, p. ej.  por medios piezoeléctricos [2022.01]"
+  },
+  {
+    "code": "A43B 3/44",
+    "description": "••••con sensores, p. ej.  para detectar el contacto o la posición [2022.01]"
+  },
+  {
+    "code": "A43B 3/46",
+    "description": "••••••Sensores del sistema de posicionamiento global [GPS] [2022.01]"
+  },
+  {
+    "code": "A43B 3/48",
+    "description": "••••con dispositivos de transmisión, p. ej.  GSM o WiFi [2022.01]"
+  },
+  {
+    "code": "A43B 3/50",
+    "description": "••••con fuentes de sonido o música [2022.01]"
+  },
+  {
+    "code": "A43B 5/00",
+    "description": "Calzado para fines deportivos (dispositivos antideslizantes, p. ej.  espuelas de hielo o tacos para zapatos de fútbol, A43C 15/00) [2022.01]"
+  },
+  {
+    "code": "A43B 5/02",
+    "description": "••Botas de fútbol [2006.01]"
+  },
+  {
+    "code": "A43B 5/04",
+    "description": "••Botas de esquí o similares [2006.01]"
+  },
+  {
+    "code": "A43B 5/06",
+    "description": "••Zapatillas de correr; Zapatillas de atletismo [2022.01]"
+  },
+  {
+    "code": "A43B 5/08",
+    "description": "••Calzado de baño [2006.01]"
+  },
+  {
+    "code": "A43B 5/10",
+    "description": "••Zapatillas de tenis [2006.01]"
+  },
+  {
+    "code": "A43B 5/12",
+    "description": "••Zapatos de baile [2006.01]"
+  },
+  {
+    "code": "A43B 5/14",
+    "description": "••Calzado para ciclistas [2006.01]"
+  },
+  {
+    "code": "A43B 5/16",
+    "description": "••Botas de patinaje [2006.01]"
+  },
+  {
+    "code": "A43B 5/18",
+    "description": "••Cubiertas  de calzado acoplables para fines deportivos [2006.01]"
+  },
+  {
+    "code": "A43B 7/00",
+    "description": "Calzado con dispositivos sanitarios o higiénicos [2006.01]"
+  },
+  {
+    "code": "A43B 7/02",
+    "description": "••con dispositivos de calefacción (con dispositivos de calefacción eléctrica A43B 3/35) [2022.01]"
+  },
+  {
+    "code": "A43B 7/06",
+    "description": "••ventilado [2006.01]"
+  },
+  {
+    "code": "A43B 7/08",
+    "description": "••••con orificios de ventilación, con o sin cierres [2022.01]"
+  },
+  {
+    "code": "A43B 7/083",
+    "description": "••••••con medios de bombeo o válvulas [2022.01]"
+  },
+  {
+    "code": "A43B 7/10",
+    "description": "••••••con ranuras de aire que se pueden cerrar [2022.01]"
+  },
+  {
+    "code": "A43B 7/12",
+    "description": "••Calzado especial impermeable (cubiertas para calzado A43B 3/16) [2006.01]"
+  },
+  {
+    "code": "A43B 7/14",
+    "description": "••con piezas de apoyo para los pies [2022.01]"
+  },
+  {
+    "code": "A43B 7/1405",
+    "description": "••••con almohadillas o agujeros en uno o varios lugares, o con forma anatómica o curva [2022.01]"
+  },
+  {
+    "code": "A43B 7/1415",
+    "description": "••••••caracterizadas por la ubicación bajo el pie [2022.01]"
+  },
+  {
+    "code": "A43B 7/142",
+    "description": "••••••••situadas bajo el arco medial, es decir, bajo los huesos navicular o cuneiforme [2022.01]"
+  },
+  {
+    "code": "A43B 7/1425",
+    "description": "••••••••situadas bajo la bola del pie, es decir, la articulación entre el primer metatarsiano y la primera falange [2022.01]"
+  },
+  {
+    "code": "A43B 7/143",
+    "description": "••••••••situadas bajo el arco lateral, es decir, el hueso cuboide [2022.01]"
+  },
+  {
+    "code": "A43B 7/1435",
+    "description": "••••••••situadas bajo la articulación entre la quinta falange y el quinto metatarsiano [2022.01]"
+  },
+  {
+    "code": "A43B 7/144",
+    "description": "••••••••situadas bajo el talón, es decir, el hueso calcáneo [2022.01]"
+  },
+  {
+    "code": "A43B 7/1445",
+    "description": "••••••••situadas bajo el mediopié, es decir, el segundo, tercero o cuarto metatarsiano [2022.01]"
+  },
+  {
+    "code": "A43B 7/145",
+    "description": "••••••••situadas bajo los dedos del pie, es decir, las falanges [2022.01]"
+  },
+  {
+    "code": "A43B 7/1455",
+    "description": "••••••con propiedades especiales [2022.01]"
+  },
+  {
+    "code": "A43B 7/1463",
+    "description": "••••••••con almohadillas extraíbles para permitir un ajuste personalizado [2022.01]"
+  },
+  {
+    "code": "A43B 7/1464",
+    "description": "••••••••con almohadillas ajustables para permitir un ajuste personalizado [2022.01]"
+  },
+  {
+    "code": "A43B 7/1466",
+    "description": "••••••••••ajustables mediante tornillos o roscas [2022.01]"
+  },
+  {
+    "code": "A43B 7/1467",
+    "description": "••••••••••ajustables mediante elementos elásticos, p. ej.  muelles [2022.01]"
+  },
+  {
+    "code": "A43B 7/1468",
+    "description": "••••••••••ajustables por medio de cuñas [2022.01]"
+  },
+  {
+    "code": "A43B 7/1469",
+    "description": "••••••••••ajustables por medio de la fijación selectiva o el aseguramiento en múltiples posiciones disponibles [2022.01]"
+  },
+  {
+    "code": "A43B 7/1475",
+    "description": "••••••caracterizadas por el tipo de soporte [2022.01]"
+  },
+  {
+    "code": "A43B 7/148",
+    "description": "••••••••Huecos o agujeros rellenos con soportes o almohadillas [2022.01]"
+  },
+  {
+    "code": "A43B 7/1485",
+    "description": "••••••••Huecos u orificios que atraviesan parcial o totalmente el espesor de la almohadilla [2022.01]"
+  },
+  {
+    "code": "A43B 7/149",
+    "description": "••••••••Almohadillas, p. ej. que sobresalen en la superficie de apoyo del pie [2022.01]"
+  },
+  {
+    "code": "A43B 7/16",
+    "description": "••••con partes elevadas del talón en el interior [2006.01]"
+  },
+  {
+    "code": "A43B 7/18",
+    "description": "••••Soportes articulares, p. ej. en el empeine [2006.01]"
+  },
+  {
+    "code": "A43B 7/19",
+    "description": "••••••que se apoyan directamente en el suelo [2006.01]"
+  },
+  {
+    "code": "A43B 7/20",
+    "description": "••••••Apoyos o soportes para la articulación del tobillo [2006.01]"
+  },
+  {
+    "code": "A43B 7/22",
+    "description": "••••con inserciones fijas para pies planos, soportes metatarsales, aletas de tobillo o similares [2006.01]"
+  },
+  {
+    "code": "A43B 7/24",
+    "description": "••••Inserciones u otros soportes que impiden que el pie se incline hacia un lado [2006.01]"
+  },
+  {
+    "code": "A43B 7/26",
+    "description": "••••con punteras o separadores de dedos [2006.01]"
+  },
+  {
+    "code": "A43B 7/28",
+    "description": "••••Adaptación de la suela interior del zapato a la planta del pie [2006.01]"
+  },
+  {
+    "code": "A43B 7/30",
+    "description": "••••Protección de la rótula contra la presión al estar de pie [2006.01]"
+  },
+  {
+    "code": "A43B 7/32",
+    "description": "••con medios de absorción de impactos (suelas elásticas A43B 13/18) [2006.01]"
+  },
+  {
+    "code": "A43B 7/34",
+    "description": "••con protección contra el calor o el frío [2006.01]"
+  },
+  {
+    "code": "A43B 7/36",
+    "description": "••con medios de conexión a tierra [2006.01]"
+  },
+  {
+    "code": "A43B 7/38",
+    "description": "••Elevación, es decir, aumento de la altura, (con partes elevadas del talón en el interior A43B 7/16; piezas para aumentar la longitud de las piernas A61F 3/00) [2006.01]"
+  },
+  {
+    "code": "A43B 9/00",
+    "description": "Calzados caracterizados por la forma del ensamblaje de sus diferentes partes [2006.01]"
+  },
+  {
+    "code": "A43B 9/02",
+    "description": "••Calzados cosidos o clavados de parte a parte [2006.01]"
+  },
+  {
+    "code": "A43B 9/04",
+    "description": "••Calzados reforzados (refuerzos A43B 15/00) [2006.01]"
+  },
+  {
+    "code": "A43B 9/06",
+    "description": "••••cosidos o clavados de parte a parte [2006.01]"
+  },
+  {
+    "code": "A43B 9/08",
+    "description": "••Calzados vueltos [2006.01]"
+  },
+  {
+    "code": "A43B 9/10",
+    "description": "••Calzados con el borde del empeine vuelto al exterior [2006.01]"
+  },
+  {
+    "code": "A43B 9/12",
+    "description": "••Calzados pegados o soldados [2006.01]"
+  },
+  {
+    "code": "A43B 9/14",
+    "description": "••Calzados con suelas compensadas [2006.01]"
+  },
+  {
+    "code": "A43B 9/16",
+    "description": "••Calzados con suelas amoldadas a las palas o soldadas a las palas sin adhesivos [2006.01]"
+  },
+  {
+    "code": "A43B 9/18",
+    "description": "••••amoldadas [2006.01]"
+  },
+  {
+    "code": "A43B 9/20",
+    "description": "••••soldadas [2006.01]"
+  },
+  {
+    "code": "A43B 11/00",
+    "description": "Calzado con disposiciones para facilitar su colocación o extracción, p. ej. con correas [2006.01]"
+  },
+  {
+    "code": "A43B 11/02",
+    "description": "••con calzadores incorporados [2006.01]"
+  },
+  {
+    "code": "A43B 13/00",
+    "description": "Suelas; Unidades integrales de suela y talón [2006.01]"
+  },
+  {
+    "code": "A43B 13/02",
+    "description": "••caracterizadas por el material [2022.01]"
+  },
+  {
+    "code": "A43B 13/04",
+    "description": "••••Plástico, caucho o fibra vulcanizada [2006.01]"
+  },
+  {
+    "code": "A43B 13/06",
+    "description": "••••Piel [2022.01]"
+  },
+  {
+    "code": "A43B 13/08",
+    "description": "••••Madera [2006.01]"
+  },
+  {
+    "code": "A43B 13/10",
+    "description": "••••Metal [2006.01]"
+  },
+  {
+    "code": "A43B 13/12",
+    "description": "••••Suelas con varias capas de diferentes materiales [2006.01]"
+  },
+  {
+    "code": "A43B 13/14",
+    "description": "••caracterizadas por su estructura [2006.01]"
+  },
+  {
+    "code": "A43B 13/16",
+    "description": "••••Suelas divididas (con varias capas de materiales diferentes A43B 13/12) [2006.01]"
+  },
+  {
+    "code": "A43B 13/18",
+    "description": "••••Suelas elásticas [2006.01]"
+  },
+  {
+    "code": "A43B 13/20",
+    "description": "••••••Suelas neumáticas [2006.01]"
+  },
+  {
+    "code": "A43B 13/22",
+    "description": "••••Suelas tratadas para resistir el deslizamiento o el desgaste, p. ej. impregnadas o dotadas de una capa protectora [2006.01]"
+  },
+  {
+    "code": "A43B 13/24",
+    "description": "••••••mediante el empleo de las incrustaciones [2006.01]"
+  },
+  {
+    "code": "A43B 13/26",
+    "description": "••••••••que penetren en la superficie del suelo [2006.01]"
+  },
+  {
+    "code": "A43B 13/28",
+    "description": "••caracterizadas por su fijación, incluida la fijación de suelas y tacones combinados [2006.01]"
+  },
+  {
+    "code": "A43B 13/30",
+    "description": "••••mediante tornillo [2006.01]"
+  },
+  {
+    "code": "A43B 13/32",
+    "description": "••••por encolado [2006.01]"
+  },
+  {
+    "code": "A43B 13/34",
+    "description": "••••Suelas fijadas también a la cara interior del tacón [2006.01]"
+  },
+  {
+    "code": "A43B 13/36",
+    "description": "••••Suelas fácilmente intercambiables (suelas protectoras A43C 13/12) [2006.01]"
+  },
+  {
+    "code": "A43B 13/37",
+    "description": "••Suela y tacón de una sola pieza [2006.01]"
+  },
+  {
+    "code": "A43B 13/38",
+    "description": "••Unión de las suelas interiores con los empeines durante el proceso de fabricación, es decir suelas interiores estructurales; Suelas interiores pegadas a los zapatos durante el proceso de fabricación [2006.01]"
+  },
+  {
+    "code": "A43B 13/39",
+    "description": "••••con las costuras hacia arriba [2006.01]"
+  },
+  {
+    "code": "A43B 13/40",
+    "description": "••••con acolchado [2006.01]"
+  },
+  {
+    "code": "A43B 13/41",
+    "description": "••••combinadas con un refuerzo de talón, o un refuerzo de puntera, o un refuerzo de pala [2006.01]"
+  },
+  {
+    "code": "A43B 13/42",
+    "description": "••Materiales de relleno colocados entre la suela interior y exterior; Materiales estiradores [2006.01]"
+  },
+  {
+    "code": "A43B 15/00",
+    "description": "Refuerzos para el calzado [2006.01]"
+  },
+  {
+    "code": "A43B 17/00",
+    "description": "Plantillas para inserción, p. ej. , plantillas o inserciones, para la fijación en el zapato después de que la parte superior haya sido unida [2006.01]"
+  },
+  {
+    "code": "A43B 17/02",
+    "description": "••en forma de cuña o elásticas [2006.01]"
+  },
+  {
+    "code": "A43B 17/03",
+    "description": "••••rellenas con un gas, por ejemplo aire [2006.01]"
+  },
+  {
+    "code": "A43B 17/04",
+    "description": "••con piezas incorporadas o revestimientos metálicos [2006.01]"
+  },
+  {
+    "code": "A43B 17/06",
+    "description": "••con muelles metálicos [2006.01]"
+  },
+  {
+    "code": "A43B 17/08",
+    "description": "••aireadas [2006.01]"
+  },
+  {
+    "code": "A43B 17/10",
+    "description": "••especialmente adaptadas para la transpiración; impermeables [2006.01]"
+  },
+  {
+    "code": "A43B 17/12",
+    "description": "••hechas de madera [2006.01]"
+  },
+  {
+    "code": "A43B 17/14",
+    "description": "••de esponja, de caucho o de materias plásticas [2006.01]"
+  },
+  {
+    "code": "A43B 17/16",
+    "description": "••con casquete para los dedos de los pies o el talón [2006.01]"
+  },
+  {
+    "code": "A43B 17/18",
+    "description": "••Disposiciones para fijar plantillas extraíbles al calzado [2006.01]"
+  },
+  {
+    "code": "A43B 19/00",
+    "description": "Guarniciones interiores; Guarniciones interiores para cubrir el empeine [2006.01]"
+  },
+  {
+    "code": "A43B 21/00",
+    "description": "Tacones; Piezas superiores o elevaciones [2006.01]"
+  },
+  {
+    "code": "A43B 21/02",
+    "description": "••caracterizados por los materiales [2006.01]"
+  },
+  {
+    "code": "A43B 21/03",
+    "description": "••••madera [2006.01]"
+  },
+  {
+    "code": "A43B 21/04",
+    "description": "••••cuero [2006.01]"
+  },
+  {
+    "code": "A43B 21/06",
+    "description": "••••caucho [2006.01]"
+  },
+  {
+    "code": "A43B 21/08",
+    "description": "••••••caucho endurecido y caucho flexible combinados [2006.01]"
+  },
+  {
+    "code": "A43B 21/10",
+    "description": "••••••Tapas de tacón extensibles [2006.01]"
+  },
+  {
+    "code": "A43B 21/12",
+    "description": "••••••Superficie de marcha con ventosas [2006.01]"
+  },
+  {
+    "code": "A43B 21/14",
+    "description": "••••••Tacones o tapas de tacón hechas de desechos de caucho [2006.01]"
+  },
+  {
+    "code": "A43B 21/16",
+    "description": "••••••con incrustaciones sobre la superficie de marcha que no sean de caucho [2006.01]"
+  },
+  {
+    "code": "A43B 21/18",
+    "description": "••••cuero y caucho combinados [2006.01]"
+  },
+  {
+    "code": "A43B 21/20",
+    "description": "••••materias plásticas [2006.01]"
+  },
+  {
+    "code": "A43B 21/22",
+    "description": "••Tacones o modos de fijación del tacón especialmente concebidos para evitar las salpicaduras [2006.01]"
+  },
+  {
+    "code": "A43B 21/24",
+    "description": "••caracterizados por la forma o la estructura [2006.01]"
+  },
+  {
+    "code": "A43B 21/26",
+    "description": "••••Tacones elásticos [2006.01]"
+  },
+  {
+    "code": "A43B 21/28",
+    "description": "••••••Tacones neumáticos [2006.01]"
+  },
+  {
+    "code": "A43B 21/30",
+    "description": "••••Tacones con muelles metálicos [2006.01]"
+  },
+  {
+    "code": "A43B 21/32",
+    "description": "••••Soportes elásticos para el talón del pie [2006.01]"
+  },
+  {
+    "code": "A43B 21/34",
+    "description": "••••Tacones metálicos huecos con tapas intercambiables [2006.01]"
+  },
+  {
+    "code": "A43B 21/36",
+    "description": "••caracterizados por su forma de fijación; Dispositivos de seguridad de los elementos de fijación (combinados con las suelas A43B 13/28) [2006.01]"
+  },
+  {
+    "code": "A43B 21/37",
+    "description": "••••con medios de sujeción en forma de corchetes o ganchos [2006.01]"
+  },
+  {
+    "code": "A43B 21/38",
+    "description": "••••por medio de tornillos solamente [2006.01]"
+  },
+  {
+    "code": "A43B 21/39",
+    "description": "••••por machihembrado [2006.01]"
+  },
+  {
+    "code": "A43B 21/40",
+    "description": "••••••por cola de milano [2006.01]"
+  },
+  {
+    "code": "A43B 21/42",
+    "description": "••••Tacones con elementos intercambiables o ajustables [2006.01]"
+  },
+  {
+    "code": "A43B 21/433",
+    "description": "••••••rotativos [2006.01]"
+  },
+  {
+    "code": "A43B 21/437",
+    "description": "••••••con tapas de tacón en forma de pala ajustables axialmente [2006.01]"
+  },
+  {
+    "code": "A43B 21/44",
+    "description": "••••por grapas o medios similares [2006.01]"
+  },
+  {
+    "code": "A43B 21/45",
+    "description": "••••••con sistemas de tensión especiales [2006.01]"
+  },
+  {
+    "code": "A43B 21/46",
+    "description": "••••por pasadores [2006.01]"
+  },
+  {
+    "code": "A43B 21/47",
+    "description": "••••por medios elásticos [2006.01]"
+  },
+  {
+    "code": "A43B 21/48",
+    "description": "••••••por botones a presión [2006.01]"
+  },
+  {
+    "code": "A43B 21/50",
+    "description": "••••mediante ajustes tipo bayoneta o similares [2006.01]"
+  },
+  {
+    "code": "A43B 21/51",
+    "description": "••••con una abertura en forma de ojo de cerradura y una clavija [2006.01]"
+  },
+  {
+    "code": "A43B 21/52",
+    "description": "••••Elementos o partes de tacón intercambiables, sin fijación especial [2006.01]"
+  },
+  {
+    "code": "A43B 21/54",
+    "description": "••••por adhesión o similar [2006.01]"
+  },
+  {
+    "code": "A43B 23/00",
+    "description": "Empeines; Cañas; Contrafuertes; Otras partes de los zapatos [2006.01]"
+  },
+  {
+    "code": "A43B 23/02",
+    "description": "••Empeines; Cañas [2006.01]"
+  },
+  {
+    "code": "A43B 23/04",
+    "description": "••••Empeines de una sola pieza; Cañas con lengüeta [2006.01]"
+  },
+  {
+    "code": "A43B 23/06",
+    "description": "••••Cañas impermeables [2006.01]"
+  },
+  {
+    "code": "A43B 23/07",
+    "description": "••Forros para éstas [2006.01]"
+  },
+  {
+    "code": "A43B 23/08",
+    "description": "••Contrafuertes para el talón; Contrafuertes para la punta [2006.01]"
+  },
+  {
+    "code": "A43B 23/10",
+    "description": "••••de metal [2006.01]"
+  },
+  {
+    "code": "A43B 23/14",
+    "description": "••••de cuero [2006.01]"
+  },
+  {
+    "code": "A43B 23/16",
+    "description": "••••de tejidos impregnados, materias plásticas o similares [2006.01]"
+  },
+  {
+    "code": "A43B 23/17",
+    "description": "••••••de materias plásticas [2006.01]"
+  },
+  {
+    "code": "A43B 23/20",
+    "description": "••Clavos, hebillas, grapas, corchetes para calzado [2006.01]"
+  },
+  {
+    "code": "A43B 23/22",
+    "description": "••Soportes para la pala o arco de los empeines [2006.01]"
+  },
+  {
+    "code": "A43B 23/24",
+    "description": "••Hebillas decorativas; Otros elementos decorativos sin función de fijación [2006.01]"
+  },
+  {
+    "code": "A43B 23/25",
+    "description": "••••Disposición de los cordones sobre el calzado [2006.01]"
+  },
+  {
+    "code": "A43B 23/26",
+    "description": "••Lengüetas [2006.01]"
+  },
+  {
+    "code": "A43B 23/28",
+    "description": "••Dispositivos para colocar en el calzado al objeto de impedir el deslizamiento del talón o el desgaste de los calcetines o de las medias [2006.01]"
+  },
+  {
+    "code": "A43B 23/30",
+    "description": "••Protectores de tacones para automovilistas [2006.01]"
+  }
+]

@@ -1,0 +1,954 @@
+[
+  {
+    "code": "B60R 1/00",
+    "description": "Dispositivos para la visibilidad óptica; Dispositivos de visualización en tiempo real para conductores o pasajeros que utilizan sistemas ópticos de captación de imágenes, p. ej. cámaras o sistemas de vídeo especialmente adaptados para su uso en el interior de o sobre los vehículos [2022.01]"
+  },
+  {
+    "code": "B60R 1/02",
+    "description": "••Disposiciones de retrovisores (disposiciones de periscopios B60R 1/10) [2006.01]"
+  },
+  {
+    "code": "B60R 1/04",
+    "description": "••••montados en el interior del vehículo (B60R 1/08 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B60R 1/06",
+    "description": "••••montados en el exterior del vehículo (B60R 1/08 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B60R 1/062",
+    "description": "••••••con control remoto para ajustar su posición [2006.01]"
+  },
+  {
+    "code": "B60R 1/064",
+    "description": "••••••••con un órgano accionado por una fuerza manual [2006.01]"
+  },
+  {
+    "code": "B60R 1/066",
+    "description": "••••••••••para ajustar el espejo con respecto a su carcasa [2006.01]"
+  },
+  {
+    "code": "B60R 1/068",
+    "description": "••••••••••••usando cables [2006.01]"
+  },
+  {
+    "code": "B60R 1/07",
+    "description": "••••••••con un órgano accionado por energía eléctrica [2006.01]"
+  },
+  {
+    "code": "B60R 1/072",
+    "description": "••••••••••para ajustar el espejo con respecto a su carcasa [2006.01]"
+  },
+  {
+    "code": "B60R 1/074",
+    "description": "••••••••••para retraer la disposición del espejo a una posición de no uso al costado del vehículo [2006.01]"
+  },
+  {
+    "code": "B60R 1/076",
+    "description": "••••••que ceden a una fuerza exterior excesiva y provistos con una posición indexada (B60R 1/062 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B60R 1/078",
+    "description": "••••••fácilmente amovibles; montados para ser movidos en bloque hacia afuera, p.ej. cuando el vehículo está siendo remolcado [2006.01]"
+  },
+  {
+    "code": "B60R 1/08",
+    "description": "••••que tienen características ópticas especiales, p. ej. para suprimir las zonas sin visibilidad [2006.01]"
+  },
+  {
+    "code": "B60R 1/10",
+    "description": "••Disposiciones de espejos para visión frontal; Instalaciones de periscopios [2006.01]"
+  },
+  {
+    "code": "B60R 1/12",
+    "description": "••Conjuntos de espejos combinados con otros objetos, p. ej. relojes [2006.01]"
+  },
+  {
+    "code": "B60R 1/20",
+    "description": "••Dispositivos de visualización en tiempo real para los conductores o pasajeros que utilizan sistemas ópticos de captación de imágenes, p. ej.  cámaras o sistemas de vídeo especialmente adaptados para su uso en los vehículos o sobre ellos [2022.01]"
+  },
+  {
+    "code": "B60R 1/22",
+    "description": "••••para la visualización de una zona exterior del vehículo, por ejemplo, el exterior del vehículo [2022.01]"
+  },
+  {
+    "code": "B60R 1/23",
+    "description": "••••••con un campo de visión predeterminado [2022.01]"
+  },
+  {
+    "code": "B60R 1/24",
+    "description": "••••••••delante del vehículo [2022.01]"
+  },
+  {
+    "code": "B60R 1/25",
+    "description": "••••••••a los lados del vehículo [2022.01]"
+  },
+  {
+    "code": "B60R 1/26",
+    "description": "••••••••a la parte trasera del vehículo [2022.01]"
+  },
+  {
+    "code": "B60R 1/27",
+    "description": "••••••••que proporcionan una visión panorámica, p.ej. mediante cámaras omnidireccionales [2022.01]"
+  },
+  {
+    "code": "B60R 1/28",
+    "description": "••••••con un campo de visión ajustable [2022.01]"
+  },
+  {
+    "code": "B60R 1/29",
+    "description": "••••para la visualización de una zona del interior del vehículo, p. ej. para ver a los pasajeros o la carga [2022.01]"
+  },
+  {
+    "code": "B60R 1/30",
+    "description": "••••que proporcionan visión en el espectro no visible, p. ej. visión nocturna o infrarroja [2022.01]"
+  },
+  {
+    "code": "B60R 1/31",
+    "description": "••••que proporcionan visión estereoscópica [2022.01]"
+  },
+  {
+    "code": "B60R 3/00",
+    "description": "Instalaciones de marcas o escalas, p. ej. marcapiés (como elementos de superestructura de vehículos de carretera B62D 25/22) [2006.01]"
+  },
+  {
+    "code": "B60R 3/02",
+    "description": "••Estribos retirables [2006.01]"
+  },
+  {
+    "code": "B60R 3/04",
+    "description": "••con medios para restregar los zapatos [2006.01]"
+  },
+  {
+    "code": "B60R 5/00",
+    "description": "Compartimientos interiores del vehículo principalmente destinados o suficientemente amplios para baúles, maletas o similares (destinados al alojamiento de cargas en un vehículo de transporte B60P; dispositivos para alojar las ruedas de repuesto B62D 43/06) [2006.01]"
+  },
+  {
+    "code": "B60R 5/02",
+    "description": "••dispuestos en la parte delantera del vehículo [2006.01]"
+  },
+  {
+    "code": "B60R 5/04",
+    "description": "••dispuestos en la parte trasera del vehículo [2006.01]"
+  },
+  {
+    "code": "B60R 7/00",
+    "description": "Accesorios de alojamiento o fijación, interiores del vehículo, esencialmente destinados a los objetos personales de dimensiones menores que una maleta, p. ej. artículos de viaje o planos (para aparatos de radio, de televisión, teléfonos o similares, montaje de cámaras que operan en marcha, útiles o piezas de recambio B60R 11/02-B60R 11/06; para receptáculos de desperdicios, de alimentos, bebidas o cigarrillos B60N 3/00) [2006.01]"
+  },
+  {
+    "code": "B60R 7/02",
+    "description": "••en un compartimiento de equipajes separado [2006.01]"
+  },
+  {
+    "code": "B60R 7/04",
+    "description": "••en el sitio del conductor o del pasajero [2006.01]"
+  },
+  {
+    "code": "B60R 7/05",
+    "description": "••••montados sobre un parasol [2006.01]"
+  },
+  {
+    "code": "B60R 7/06",
+    "description": "••••montados sobre o bajo el tablero de a bordo [2006.01]"
+  },
+  {
+    "code": "B60R 7/08",
+    "description": "••Disposición de redes, ganchos o dispositivos análogos [2006.01]"
+  },
+  {
+    "code": "B60R 7/10",
+    "description": "••••para llevar sombreros, vestidos o perchas [2006.01]"
+  },
+  {
+    "code": "B60R 7/12",
+    "description": "••••para llevar paraguas [2006.01]"
+  },
+  {
+    "code": "B60R 7/14",
+    "description": "••••para llevar armas [2006.01]"
+  },
+  {
+    "code": "B60R 9/00",
+    "description": "Accesorios suplementarios, exteriores al vehículo, para llevar cargas, p. ej. equipajes, artículos de deporte u objetos similares [2006.01]"
+  },
+  {
+    "code": "B60R 9/02",
+    "description": "••en los lados, p. ej. sobre los estribos [2006.01]"
+  },
+  {
+    "code": "B60R 9/04",
+    "description": "••Portaequipajes asociados al techo de un vehículo (B60R 9/08 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B60R 9/042",
+    "description": "••••Portaequipajes caracterizados por medios para facilitar la carga o la descarga, p. ej. rodillos, deslizaderas o medios similares [2006.01]"
+  },
+  {
+    "code": "B60R 9/045",
+    "description": "••••Portaequipajes reglables o transformables, p. ej. extensibles o plegables [2006.01]"
+  },
+  {
+    "code": "B60R 9/048",
+    "description": "••••Portaequipajes caracterizados por medios para enganchar, retener o enclavar los objetos [2006.01]"
+  },
+  {
+    "code": "B60R 9/05",
+    "description": "••••Portaequipajes caracterizados por medios deflectores de aire [2006.01]"
+  },
+  {
+    "code": "B60R 9/052",
+    "description": "••••Portaequipajes que comprenden elementos alargados que se extienden únicamente de forma transversal al vehículo (B60R 9/08 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B60R 9/055",
+    "description": "••••Portaequipajes del tipo cerrado, p. ej. recipientes, cajas (B60R 9/048 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B60R 9/058",
+    "description": "••••caracterizados por medios de sujeción eyectables entre el portaequipajes y el techo [2006.01]"
+  },
+  {
+    "code": "B60R 9/06",
+    "description": "••en la parte delantera o trasera del vehículo [2006.01]"
+  },
+  {
+    "code": "B60R 9/08",
+    "description": "••adaptados especialmente para equipo de deportes [2006.01]"
+  },
+  {
+    "code": "B60R 9/10",
+    "description": "••••para ciclos [2006.01]"
+  },
+  {
+    "code": "B60R 9/12",
+    "description": "••••para skis [2006.01]"
+  },
+  {
+    "code": "B60R 11/00",
+    "description": "Otras instalaciones para sujetar o montar objetos [2006.01]"
+  },
+  {
+    "code": "B60R 11/02",
+    "description": "••para aparatos de radio, de televisión, teléfonos, u objetos similares; Disposición de sus controles [2006.01]"
+  },
+  {
+    "code": "B60R 11/04",
+    "description": "••Montaje de cámaras para funcionar en marcha; Disposición de su control en relación con el vehículo [2006.01]"
+  },
+  {
+    "code": "B60R 11/06",
+    "description": "••para herramientas o piezas de recambio (para ruedas de recambio B62D 43/00) [2006.01]"
+  },
+  {
+    "code": "B60R 13/00",
+    "description": "Elementos para embellecer la carrocería, identificarla o decorarla; Instalaciones o adaptaciones para la publicidad [2006.01]"
+  },
+  {
+    "code": "B60R 13/01",
+    "description": "••Tapicería para plataformas o compartimentos de carga [2006.01]"
+  },
+  {
+    "code": "B60R 13/02",
+    "description": "••Molduras decorativas; Canalones; Adornos de paredes; Guarniciones de techos (B60R 13/01 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B60R 13/04",
+    "description": "••Tiras ornamentales o de defensa; Dispositivos para inscripciones ornamentales [2006.01]"
+  },
+  {
+    "code": "B60R 13/06",
+    "description": "••Tiras de estanqueidad [2006.01]"
+  },
+  {
+    "code": "B60R 13/07",
+    "description": "••Medios de evacuación o guiado del agua no integrados en la estructura del techo (B60R 13/06 tiene prioridad; deflectores de agua para capós o tapas B62D 25/13) [2006.01]"
+  },
+  {
+    "code": "B60R 13/08",
+    "description": "••Medios de aislamiento, p. ej. para aislamiento del sonido [2006.01]"
+  },
+  {
+    "code": "B60R 13/10",
+    "description": "••Dispositivos de identificación, matrículas, o similares [2006.01]"
+  },
+  {
+    "code": "B60R 15/00",
+    "description": "Instalaciones o adaptaciones de aparatos sanitarios [2006.01]"
+  },
+  {
+    "code": "B60R 15/02",
+    "description": "••Instalaciones de limpieza [2006.01]"
+  },
+  {
+    "code": "B60R 15/04",
+    "description": "••Instalaciones de cuartos de baño [2006.01]"
+  },
+  {
+    "code": "B60R 16/00",
+    "description": "Circuitos eléctricos o circuitos de fluidos especialmente adaptados a vehículos y no previstos en otro lugar; Disposiciones de elementos de circuitos eléctricos o circuitos de fluido especialmente adaptados a vehículos y no previstos en otro lugar [2006.01]"
+  },
+  {
+    "code": "B60R 16/02",
+    "description": "••eléctricos [2006.01]"
+  },
+  {
+    "code": "B60R 16/023",
+    "description": "••••para la transmisión de señales entre partes o subsistemas del vehículo [2006.01]"
+  },
+  {
+    "code": "B60R 16/027",
+    "description": "••••••entre partes del vehículo móviles la una respecto de la otra, p.ej. entre el volante y la columna de dirección [2006.01]"
+  },
+  {
+    "code": "B60R 16/03",
+    "description": "••••para la alimentación de energía eléctrica a subsistemas del vehículo [2006.01]"
+  },
+  {
+    "code": "B60R 16/033",
+    "description": "••••••caracterizado por la utilización de celdas eléctricas o baterias [2006.01]"
+  },
+  {
+    "code": "B60R 16/037",
+    "description": "••••para el confort de los ocupantes [2006.01]"
+  },
+  {
+    "code": "B60R 16/04",
+    "description": "••••Disposición de baterías [2006.01]"
+  },
+  {
+    "code": "B60R 16/06",
+    "description": "••••para quitar cargas electrostáticas [2006.01]"
+  },
+  {
+    "code": "B60R 16/08",
+    "description": "••de fluidos [2006.01]"
+  },
+  {
+    "code": "B60R 17/00",
+    "description": "Instalaciones o adaptaciones de sistemas o dispositivos de lubrificación [2006.01]"
+  },
+  {
+    "code": "B60R 17/02",
+    "description": "••Sistemas, p. ej. sistemas de engrase central [2006.01]"
+  },
+  {
+    "code": "B60R 19/00",
+    "description": "Defensas de ruedas; Defensa de radiadores; Desplazadores de obstáculos; Equipos que amortiguan la fuerza de choque en las colisiones (guardabarros B62D 25/16) [2006.01]"
+  },
+  {
+    "code": "B60R 19/02",
+    "description": "••Parachoques, es decir, miembros que reciben impactos o los absorben para proteger el vehículo o que desvían los golpes de otros vehículos u objetos (integrados en los buques o especialmente adaptados para el uso a bordo de buques B63B 59/02) [2006.01]"
+  },
+  {
+    "code": "B60R 19/03",
+    "description": "••••caracterizado por el material, p. ej. material compuesto (B60R 19/18 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B60R 19/04",
+    "description": "••••formado por más de una sección (B60R 19/18 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B60R 19/12",
+    "description": "••••••con las piezas elásticas espaciadas verticalmente [2006.01]"
+  },
+  {
+    "code": "B60R 19/14",
+    "description": "••••••teniendo partes dobladas [2006.01]"
+  },
+  {
+    "code": "B60R 19/16",
+    "description": "••••••teniendo miembros de desviación, p. ej. rodillos, bolas [2006.01]"
+  },
+  {
+    "code": "B60R 19/18",
+    "description": "••••Medios dentro del parachoque que absorben el impacto [2006.01]"
+  },
+  {
+    "code": "B60R 19/20",
+    "description": "••••••que contienen gas o líquido, p. ej. hinchable [2006.01]"
+  },
+  {
+    "code": "B60R 19/22",
+    "description": "••••••que contienen material celular, p. ej. espumas sólidas [2006.01]"
+  },
+  {
+    "code": "B60R 19/24",
+    "description": "••••Dispositivos para montar el parachoques en el vehículo [2006.01]"
+  },
+  {
+    "code": "B60R 19/26",
+    "description": "••••••que comprenden medios de montaje deformables [2006.01]"
+  },
+  {
+    "code": "B60R 19/28",
+    "description": "••••••••Muelles metálicos [2006.01]"
+  },
+  {
+    "code": "B60R 19/30",
+    "description": "••••••••Material elastomérico [2006.01]"
+  },
+  {
+    "code": "B60R 19/32",
+    "description": "••••••••Amortiguadores de choque fluidos [2006.01]"
+  },
+  {
+    "code": "B60R 19/34",
+    "description": "••••••••concebidos para ser destruidos por un impacto, p. ej. del tipo parachoques global [2006.01]"
+  },
+  {
+    "code": "B60R 19/36",
+    "description": "••••••••Combinaciones de medios de montaje deformables, de diferentes tipos [2006.01]"
+  },
+  {
+    "code": "B60R 19/38",
+    "description": "••••••montados de forma regulable o móvil, p. ej. desplazables horizontalmente para asegurar un espacio entre vehículos aparcados [2006.01]"
+  },
+  {
+    "code": "B60R 19/40",
+    "description": "••••••••en dirección de un obstáculo ante una colisión [2006.01]"
+  },
+  {
+    "code": "B60R 19/42",
+    "description": "••••que se extienden esencialmente sobre los lados o completamente alrededor del vehículo [2006.01]"
+  },
+  {
+    "code": "B60R 19/44",
+    "description": "••••Defensas de parachoques [2006.01]"
+  },
+  {
+    "code": "B60R 19/46",
+    "description": "••••••montadas sobre resortes o de forma que giran [2006.01]"
+  },
+  {
+    "code": "B60R 19/48",
+    "description": "••••combinados con otros dispositivos u otros objetos o convertibles en estos últimos, p. ej. parachoques combinados con cepillos barredores de suelos o convertibles en camas [2006.01]"
+  },
+  {
+    "code": "B60R 19/50",
+    "description": "••••••que tienen dispositivos de iluminación o placas de matrícula [2006.01]"
+  },
+  {
+    "code": "B60R 19/52",
+    "description": "••Defensas del radiador o la rejilla [2006.01]"
+  },
+  {
+    "code": "B60R 19/54",
+    "description": "••Libradores de obstáculos o deflectores (B60R 19/16, B60R 21/34 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "B60R 19/56",
+    "description": "••Disposiciones sobre vehículos de transporte, p. ej. camiones, para evitar que los objetos caigan a la calzada [2006.01]"
+  },
+  {
+    "code": "B60R 21/00",
+    "description": "Disposiciones o equipamientos sobre los vehículos para proteger a los ocupantes o a los peatones o para evitar ser dañados en caso de accidente o de otros riesgos de la circulación (cinturones o arneses de seguridad en los vehículos B60R 22/00; asientos construidos para proteger al ocupante de los efectos de las fuerzas de aceleración anormales, p. ej. asientos anticolisión o asientos de seguridad, B60N 2/42; disposiciones para absorber la energía en los volantes de dirección de vehículos B62D 1/11; disposiciones para absorber la energía en las columnas de dirección de vehículos B62D 1/19) [2006.01]"
+  },
+  {
+    "code": "B60R 21/01",
+    "description": "••Circuitos eléctricos para activar dispositivos de seguridad en el vehículo en caso de accidente o de ser éste inminente [2006.01]"
+  },
+  {
+    "code": "B60R 21/013",
+    "description": "••••incluyendo medios para detectar colisiones, colisiones inminentes o un vuelco [2006.01]"
+  },
+  {
+    "code": "B60R 21/0132",
+    "description": "••••••en respuesta a parámetros sobre el movimiento del vehículo [2006.01]"
+  },
+  {
+    "code": "B60R 21/0134",
+    "description": "••••••en respuesta a un contacto inminente con un obstáculo [2006.01]"
+  },
+  {
+    "code": "B60R 21/0136",
+    "description": "••••••en respuesta a un contacto efectivo con un obstáculo [2006.01]"
+  },
+  {
+    "code": "B60R 21/015",
+    "description": "••••incluyendo medios para detectar la presencia o la situación de pasajeros, de sillas de pasajeros o de sillas para niños, p.ej. para desactivar su arranque [2006.01]"
+  },
+  {
+    "code": "B60R 21/017",
+    "description": "••••incluyendo dispositivos para alimentar con corriente eléctrica los elementos de seguridad [2006.01]"
+  },
+  {
+    "code": "B60R 21/02",
+    "description": "••Dispositivos o accesorios de seguridad para los ocupantes [2006.01]"
+  },
+  {
+    "code": "B60R 21/04",
+    "description": "••••Revestimientos tapizados para el interior del vehículo [2006.01]"
+  },
+  {
+    "code": "B60R 21/045",
+    "description": "••••••asociados al tablero de instrumentos o salpicadero [2006.01]"
+  },
+  {
+    "code": "B60R 21/05",
+    "description": "••••••asociados al volante, freno de mano o columna de dirección [2006.01]"
+  },
+  {
+    "code": "B60R 21/055",
+    "description": "••••Accesorios tapizados, p. ej. apoyacabezas, parasoles [2006.01]"
+  },
+  {
+    "code": "B60R 21/06",
+    "description": "••••Redes de protección, hojas transparentes, cortinas o similares, p. ej. entre los ocupantes y el cristal (B60R 21/11, B60R 21/12, B60R 21/16 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "B60R 21/08",
+    "description": "••••••móviles de una posición no operativa a otra posición activa, p. ej. en caso de colisión [2006.01]"
+  },
+  {
+    "code": "B60R 21/09",
+    "description": "••••Elementos de control o manivelas móviles de accionamiento de una posición de maniobra a otra posición no operativa, p. ej. botones interruptores, manivelas de ventanas [2006.01]"
+  },
+  {
+    "code": "B60R 21/11",
+    "description": "••••Dispositivos de protección para encima de la cabeza, p. ej. contra la caída de cargas [2006.01]"
+  },
+  {
+    "code": "B60R 21/12",
+    "description": "••••que protegen a los ocupantes contra las agresiones que provengan del interior o el exterior del vehículo [2006.01]"
+  },
+  {
+    "code": "B60R 21/13",
+    "description": "••••Protección antivuelco [2006.01]"
+  },
+  {
+    "code": "B60R 21/16",
+    "description": "••••Medios hinchables para retener o inmovilizar a los ocupantes previstos para que se hinchen en caso de un impacto, o en caso de impacto inminente, p. ej. \"air bags\" [2006.01]"
+  },
+  {
+    "code": "B60R 21/18",
+    "description": "••••••constituyendo el elemento hinchable un cinturón o un arnés o combinado con un cinturón o arnés [2006.01]"
+  },
+  {
+    "code": "B60R 21/20",
+    "description": "••••••Disposiciones para almacenar el elemento inflable en su condición de no uso o deshinchada; Disposición o montaje de módulos de air bag o de sus componentes [2011.01]"
+  },
+  {
+    "code": "B60R 21/201",
+    "description": "••••••••Correas o sobres envolventes para los elementos hinchables [2011.01]"
+  },
+  {
+    "code": "B60R 21/203",
+    "description": "••••••••en el volante o la columna de dirección [2006.01]"
+  },
+  {
+    "code": "B60R 21/205",
+    "description": "••••••••en el tablero de mandos [2011.01]"
+  },
+  {
+    "code": "B60R 21/206",
+    "description": "••••••••••en la parte inferior de los tableros de mandos, p. ej. para proteger las rodillas [2011.01]"
+  },
+  {
+    "code": "B60R 21/207",
+    "description": "••••••••en los asientos del vehículo [2006.01]"
+  },
+  {
+    "code": "B60R 21/21",
+    "description": "••••••••en los paneles laterales del vehículo, p. ej. en puertas (disposiciones de montantes B60R 21/213) [2011.01]"
+  },
+  {
+    "code": "B60R 21/213",
+    "description": "••••••••en marcos de techo o montantes del vehículo [2011.01]"
+  },
+  {
+    "code": "B60R 21/214",
+    "description": "••••••••en paneles de techo [2011.01]"
+  },
+  {
+    "code": "B60R 21/215",
+    "description": "••••••••caracterizadas por las cubiertas para el elemento hinchabler [2011.01]"
+  },
+  {
+    "code": "B60R 21/2155",
+    "description": "••••••••••con movimiento complejo de la cubierta; Retracción por debajo del revestimiento al abrirse [2011.01]"
+  },
+  {
+    "code": "B60R 21/216",
+    "description": "••••••••••que comprenden medios de amarre para limitar el movimiento de la cubierta durante el despliegue [2011.01]"
+  },
+  {
+    "code": "B60R 21/2165",
+    "description": "••••••••••caracterizadas por una línea de rasgado que define la abertura de despliegue [2011.01]"
+  },
+  {
+    "code": "B60R 21/217",
+    "description": "••••••••Medios de retención de la fuente del fluido de inflado, p. ej. botes de reacción; Conexión de bolsas, cubiertas, difusores o fuentes de fluido de inflado [2011.01]"
+  },
+  {
+    "code": "B60R 21/23",
+    "description": "••••••Elementos hinchables (B60R 21/18 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B60R 21/231",
+    "description": "••••••••caracterizados por su forma, construcción o configuración espacial [2011.01]"
+  },
+  {
+    "code": "B60R 21/232",
+    "description": "••••••••••“Air  bags” tipo cortina que se despliegan principalmente en una dirección vertical desde su borde superior [2011.01]"
+  },
+  {
+    "code": "B60R 21/233",
+    "description": "••••••••••con una pluralidad de compartimentos individuales; con dos o más elementos en forma de bolsa, uno dentro del otro (B60R 21/232 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B60R 21/2334",
+    "description": "••••••••••Características de control de la expansión [2011.01]"
+  },
+  {
+    "code": "B60R 21/2338",
+    "description": "••••••••••••Amarres [2011.01]"
+  },
+  {
+    "code": "B60R 21/2342",
+    "description": "••••••••••••Costuras de desgarre [2011.01]"
+  },
+  {
+    "code": "B60R 21/2346",
+    "description": "••••••••••••Difusores suaves [2011.01]"
+  },
+  {
+    "code": "B60R 21/235",
+    "description": "••••••••caracterizados por su material [2006.01]"
+  },
+  {
+    "code": "B60R 21/237",
+    "description": "••••••••caracterizados por la manera en la que están plegados [2006.01]"
+  },
+  {
+    "code": "B60R 21/239",
+    "description": "••••••••caracterizados por los medios de salida de gases [2006.01]"
+  },
+  {
+    "code": "B60R 21/26",
+    "description": "••••••caracterizados por la fuente del fluido de inflado o por los medios para controlar el flujo del fluido de inflado [2011.01]"
+  },
+  {
+    "code": "B60R 21/261",
+    "description": "••••••••con medios distintos a la estructura de la bolsa para difundir o guiar el fluido de inflado [2011.01]"
+  },
+  {
+    "code": "B60R 21/262",
+    "description": "••••••••••Difusores tubulares alargados, p. ej. de tipo cortina [2011.01]"
+  },
+  {
+    "code": "B60R 21/263",
+    "description": "••••••••utilizando una fuente variable, p. ej. salida en varias etapas o controlada (inflador híbrido B60R 21/272) [2011.01]"
+  },
+  {
+    "code": "B60R 21/264",
+    "description": "••••••••utilizando una generación instantánea de gas, p.ej. pirotécnica (B60R 21/268 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B60R 21/268",
+    "description": "••••••••utilizando la emisión instantánea de un gas presurizado almacenado [2011.01]"
+  },
+  {
+    "code": "B60R 21/272",
+    "description": "••••••••••con medios para aumentar la presión del gas justo antes o durante la liberación , p.ej. infladores híbridos [2006.01]"
+  },
+  {
+    "code": "B60R 21/274",
+    "description": "••••••••••caracterizados por los medios de ruptura o apertura de la fuente de fluido [2011.01]"
+  },
+  {
+    "code": "B60R 21/276",
+    "description": "••••••••con medios para la salida al aire libre de la fuente de gas para el inflado, p.ej. en caso de sobrepresión [2006.01]"
+  },
+  {
+    "code": "B60R 21/30",
+    "description": "••••••••con medios para introducir el aire ambiente en el circuito y mezclar este aire con el fluido de hinchado [2006.01]"
+  },
+  {
+    "code": "B60R 21/33",
+    "description": "••••••Dispositivos para desencadenar el inflado por medios no eléctricos [2006.01]"
+  },
+  {
+    "code": "B60R 21/34",
+    "description": "••Protección de no ocupantes del vehículo, p. ej. peatones [2011.01]"
+  },
+  {
+    "code": "B60R 21/36",
+    "description": "••••utilizando “air bags” [2011.01]"
+  },
+  {
+    "code": "B60R 21/38",
+    "description": "••••Utilizando medios para elevar los capós [2011.01]"
+  },
+  {
+    "code": "B60R 22/00",
+    "description": "Cinturones o arneses de seguridad en los vehículos [2006.01]"
+  },
+  {
+    "code": "B60R 22/02",
+    "description": "••Sistemas de retención semi-pasiva, p. ej. de arranque o elevación automática pero no ambos [2006.01]"
+  },
+  {
+    "code": "B60R 22/03",
+    "description": "••••Medios para facilitar al usuario el acceso al cinturón de seguridad o a una parte del mismo [2006.01]"
+  },
+  {
+    "code": "B60R 22/04",
+    "description": "••Sistemas de retención pasivos, es decir, sistemas que se quitan y ponen automáticamente, p. ej. por el movimiento de la puerta del vehículo [2006.01]"
+  },
+  {
+    "code": "B60R 22/06",
+    "description": "••••teniendo el cinturón o arnés conectado a un órgano deslizable en un raíl montado en el vehículo [2006.01]"
+  },
+  {
+    "code": "B60R 22/08",
+    "description": "••••teniendo el medio de retracción del cinturón montado sobre un elemento de cierre del vehículo, p. ej. en o sobre la puerta [2006.01]"
+  },
+  {
+    "code": "B60R 22/10",
+    "description": "••especialmente adaptados para niños o animales [2006.01]"
+  },
+  {
+    "code": "B60R 22/12",
+    "description": "••Esctructura de cinturones o arneses en sí (B60R 21/18 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B60R 22/14",
+    "description": "••••teniendo superficies de retención alargadas p. ej. chalecos o redes [2006.01]"
+  },
+  {
+    "code": "B60R 22/16",
+    "description": "••••utilizando cinturones que se deforman permanentemente, es decir, utilizables una sola vez [2006.01]"
+  },
+  {
+    "code": "B60R 22/18",
+    "description": "••Dispositivos de anclaje [2006.01]"
+  },
+  {
+    "code": "B60R 22/185",
+    "description": "••••con medios de detención que actúan directamente sobre el cinturón en una emergencia, p. ej. por apriete o fricción [2006.01]"
+  },
+  {
+    "code": "B60R 22/19",
+    "description": "••••con medios para reducir la tensión del cinturón durante su uso en condiciones normales [2006.01]"
+  },
+  {
+    "code": "B60R 22/195",
+    "description": "••••con medios para tensar el cinturón en caso de emergencia [2006.01]"
+  },
+  {
+    "code": "B60R 22/20",
+    "description": "••••regulables en posición, p. ej. en altura [2006.01]"
+  },
+  {
+    "code": "B60R 22/22",
+    "description": "••••fijados al suelo del vehículo [2006.01]"
+  },
+  {
+    "code": "B60R 22/24",
+    "description": "••••fijados a un lado, puerta o techo del vehículo [2006.01]"
+  },
+  {
+    "code": "B60R 22/26",
+    "description": "••••fijados al asiento [2006.01]"
+  },
+  {
+    "code": "B60R 22/28",
+    "description": "••teniendo dispositivos amortiguadores [2006.01]"
+  },
+  {
+    "code": "B60R 22/30",
+    "description": "••Dispositivos de acoplamiento diferentes que hebillas o argollas, incluyendo fijaciones para regular la longitud [2006.01]"
+  },
+  {
+    "code": "B60R 22/32",
+    "description": "••Dispositivos de liberación en caso de emergencia, p. ej. después de un accidente [2006.01]"
+  },
+  {
+    "code": "B60R 22/34",
+    "description": "••Medios de retracción del cinturón, p. ej. enrolladores (mecanismos de anclaje con medios para tensar el cinturón en caso de emergencia B60R 22/195) [2006.01]"
+  },
+  {
+    "code": "B60R 22/343",
+    "description": "••••con medios de bloqueo accionados eléctricamente [2006.01]"
+  },
+  {
+    "code": "B60R 22/347",
+    "description": "••••con medios para bloquear de forma permanente la retracción durante el uso del cinturón (B60R 22/343, B60R 22/415 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "B60R 22/35",
+    "description": "••••••actuando los medios de bloqueo automáticamente [2006.01]"
+  },
+  {
+    "code": "B60R 22/353",
+    "description": "••••••••en respuesta a un movimiento del cinturón cuando el usuario se lo coloca [2006.01]"
+  },
+  {
+    "code": "B60R 22/357",
+    "description": "••••••••en respuesta al fijado del cierre del cinturón [2006.01]"
+  },
+  {
+    "code": "B60R 22/36",
+    "description": "••••autobloqueable en caso de emergencia (B60R 22/343 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B60R 22/38",
+    "description": "••••••respondiendo únicamente a un movimiento del cinturón [2006.01]"
+  },
+  {
+    "code": "B60R 22/40",
+    "description": "••••••respondiendo únicamente a un movimiento del vehículo [2006.01]"
+  },
+  {
+    "code": "B60R 22/405",
+    "description": "••••••respondiendo a un movimiento del cinturón y a un movimiento del vehículo [2006.01]"
+  },
+  {
+    "code": "B60R 22/41",
+    "description": "••••••con medios adicionales para impedir el bloqueo bajo condiciones predeterminadas [2006.01]"
+  },
+  {
+    "code": "B60R 22/415",
+    "description": "••••••con medios adicionales que permitan el bloqueo permanente de la retracción durante la utilización del cinturón [2006.01]"
+  },
+  {
+    "code": "B60R 22/42",
+    "description": "••••••que tienen elementos que actúan directamente sobre el cinturón, p. ej. por sujeción o fricción [2006.01]"
+  },
+  {
+    "code": "B60R 22/44",
+    "description": "••••con medios para reducir la tensión del cinturón durante su uso en condiciones normales [2006.01]"
+  },
+  {
+    "code": "B60R 22/46",
+    "description": "••••con medios para tensar el cinturón en caso de emergencia [2006.01]"
+  },
+  {
+    "code": "B60R 22/48",
+    "description": "••Sistemas de control, de alarma o sistemas de interbloqueo para asegurar la correcta utilización del cinturón o arnés [2006.01]"
+  },
+  {
+    "code": "B60R 25/00",
+    "description": "Equipamientos o sistemas para impedir o señalar el uso no autorizado o el robo del vehículo (cerraduras para vehículos E05B 77/00-E05B 85/00) [2013.01]"
+  },
+  {
+    "code": "B60R 25/01",
+    "description": "••actuando sobre sistemas o equipamientos del vehículo, p.ej. sobre puertas, asientos o parabrisas [2013.01]"
+  },
+  {
+    "code": "B60R 25/02",
+    "description": "••••actuando sobre el mecanismo de dirección [2013.01]"
+  },
+  {
+    "code": "B60R 25/021",
+    "description": "••••••restringiendo el movimiento de la columna de dirección o el eje del volante, p. ej. medios de restricción controlados por el encendido [2013.01]"
+  },
+  {
+    "code": "B60R 25/0215",
+    "description": "••••••••utilizando medios eléctricos, p. ej. motores eléctricos o solenoides [2013.01]"
+  },
+  {
+    "code": "B60R 25/022",
+    "description": "••••••actuando sobre el volante, p. ej. barras que se fijan al volante (B60R 25/021  tiene prioridad) [2013.01]"
+  },
+  {
+    "code": "B60R 25/023",
+    "description": "••••••Medidas contra la destrucción física del bloqueo de la dirección [2013.01]"
+  },
+  {
+    "code": "B60R 25/04",
+    "description": "••••actuando sobre el sistema de propulsión, p. ej. sobre el motor [2013.01]"
+  },
+  {
+    "code": "B60R 25/042",
+    "description": "••••••Actuando sobre el suministro de combustible [2013.01]"
+  },
+  {
+    "code": "B60R 25/043",
+    "description": "••••••bloqueando el escape [2013.01]"
+  },
+  {
+    "code": "B60R 25/044",
+    "description": "••••••limitando o bloqueando el suministro de aire [2013.01]"
+  },
+  {
+    "code": "B60R 25/045",
+    "description": "••••••limitando o cortando el suministro eléctrico a la unidad de propulsión [2013.01]"
+  },
+  {
+    "code": "B60R 25/06",
+    "description": "••••••actuando sobre la transmisión del vehículo [2006.01]"
+  },
+  {
+    "code": "B60R 25/08",
+    "description": "••••actuando sobre los frenos o sistemas de freno [2006.01]"
+  },
+  {
+    "code": "B60R 25/09",
+    "description": "••••restringiendo la rotación de las ruedas, p. ej. cepos [2013.01]"
+  },
+  {
+    "code": "B60R 25/10",
+    "description": "••que accionan una señal de alarma [2013.01]"
+  },
+  {
+    "code": "B60R 25/102",
+    "description": "••••enviando una señal a una ubicación remota, p. ej. transmitiendo una señal de radio a una comisaría de policía, una empresa de seguridad o al dueño. [2013.01]"
+  },
+  {
+    "code": "B60R 25/104",
+    "description": "••••caracterizado por el tipo de señal de aviso de robo, p. ej. señales visuales o audibles de especiales características [2013.01]"
+  },
+  {
+    "code": "B60R 25/20",
+    "description": "••medios para el encendido o apagado del sistema antirobo [2013.01]"
+  },
+  {
+    "code": "B60R 25/21",
+    "description": "••••utilizando interruptores ocultos [2013.01]"
+  },
+  {
+    "code": "B60R 25/22",
+    "description": "••••utilizando identificadores mecánicos [2013.01]"
+  },
+  {
+    "code": "B60R 25/23",
+    "description": "••••utilizando la introducción manual de códigos alfanuméricos [2013.01]"
+  },
+  {
+    "code": "B60R 25/24",
+    "description": "••••utilizando identificadores electrónicos que contienen un código no memorizado por el usuario [2013.01]"
+  },
+  {
+    "code": "B60R 25/25",
+    "description": "••••utilizando biometría [2013.01]"
+  },
+  {
+    "code": "B60R 25/30",
+    "description": "••Detecciones relacionadas con robos u otros sucesos releventes para los sistemas antirobo [2013.01]"
+  },
+  {
+    "code": "B60R 25/31",
+    "description": "••••de presencia humana dentro o fuera del vehículo [2013.01]"
+  },
+  {
+    "code": "B60R 25/32",
+    "description": "••••de parámetros dinámicos del vehículo, p. ej. velocidad o aceleración [2013.01]"
+  },
+  {
+    "code": "B60R 25/33",
+    "description": "••••de posición, p. ej. suministrando coordenadas GPS [2013.01]"
+  },
+  {
+    "code": "B60R 25/34",
+    "description": "••••de condiciones de los componentes del vehículo, p. ej. ventanillas, cierres de puertas o palanca de cambios. [2013.01]"
+  },
+  {
+    "code": "B60R 25/40",
+    "description": "••Características del suministro de energía al sistema antirrobo, p. ej. baterías antirrobo, suministro de energía de respaldo o medios para el ahorro de batería [2013.01]"
+  },
+  {
+    "code": "B60R 99/00",
+    "description": "Materia no prevista en otros grupos de esta subclase [2009.01]"
+  }
+]

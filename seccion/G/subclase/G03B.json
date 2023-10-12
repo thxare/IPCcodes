@@ -1,0 +1,1386 @@
+[
+  {
+    "code": "G03B 1/00",
+    "description": "Manipulación de la película de aparatos fotográficos, aparatos de proyección o reproductores [2021.01]"
+  },
+  {
+    "code": "G03B 1/02",
+    "description": "••Desplazamiento de la película por tracción de una de sus extremidades [2021.01]"
+  },
+  {
+    "code": "G03B 1/04",
+    "description": "••••Tracción ejercida por una bobina receptora [2021.01]"
+  },
+  {
+    "code": "G03B 1/06",
+    "description": "••••••que gira bajo la acción de un trinquete de estrella accionado por una leva [2021.01]"
+  },
+  {
+    "code": "G03B 1/08",
+    "description": "••••••que gira bajo la acción de una correa, de una cadena, de una cremallera o de otra operación lineal de vaivén [2021.01]"
+  },
+  {
+    "code": "G03B 1/10",
+    "description": "••••••que gira bajo la acción de un tirador de engranaje [2021.01]"
+  },
+  {
+    "code": "G03B 1/12",
+    "description": "••••••que gira bajo la acción de un motor, p. ej. un resorte [2021.01]"
+  },
+  {
+    "code": "G03B 1/14",
+    "description": "••••Dispositivos especiales para asegurar un desplazamiento de la película de una longitud constante [2021.01]"
+  },
+  {
+    "code": "G03B 1/16",
+    "description": "••••••por perno de parada de la película [2021.01]"
+  },
+  {
+    "code": "G03B 1/18",
+    "description": "••Desplazamiento de la película por medios que actúan sobre ésta entre sus extremidades [2021.01]"
+  },
+  {
+    "code": "G03B 1/20",
+    "description": "••••Medios de acción [2021.01]"
+  },
+  {
+    "code": "G03B 1/22",
+    "description": "••••••Ganchos o pernos que se engarzan en las perforaciones de la película [2021.01]"
+  },
+  {
+    "code": "G03B 1/24",
+    "description": "••••••Tambores dentados que se engarzan en las perforaciones de la película [2021.01]"
+  },
+  {
+    "code": "G03B 1/26",
+    "description": "••••••Piñones o pernos que no penetran en la película [2021.01]"
+  },
+  {
+    "code": "G03B 1/28",
+    "description": "••••••Accionamiento por lanzadera [2021.01]"
+  },
+  {
+    "code": "G03B 1/30",
+    "description": "••••••Accionamiento por correa [2021.01]"
+  },
+  {
+    "code": "G03B 1/32",
+    "description": "••••••Pinzas o rodillos de fricción [2021.01]"
+  },
+  {
+    "code": "G03B 1/34",
+    "description": "••••••Batidores [2021.01]"
+  },
+  {
+    "code": "G03B 1/36",
+    "description": "••••••Medios de acción neumáticos [2021.01]"
+  },
+  {
+    "code": "G03B 1/38",
+    "description": "••••que engendran un movimiento de Ginebra, p. ej. transmisión por cruz de Malta [2021.01]"
+  },
+  {
+    "code": "G03B 1/40",
+    "description": "••que tienen un acoplamiento por fricción o embragado [2021.01]"
+  },
+  {
+    "code": "G03B 1/42",
+    "description": "••Guiado, encuadramiento y colocación de la película en la posición deseada con relación al sistema óptico [2021.01]"
+  },
+  {
+    "code": "G03B 1/44",
+    "description": "••••Guías que cogen el borde de la película (ventanas de exposición G03B 1/48) [2021.01]"
+  },
+  {
+    "code": "G03B 1/46",
+    "description": "••••Rodillos que cogen la superficie de la película, p. ej. cilíndrico, entallado, cónico (ventanas de exposición G03B 1/48) [2021.01]"
+  },
+  {
+    "code": "G03B 1/48",
+    "description": "••••Dispositivos de ventanas de exposición o de presión, p. ej. placas [2021.01]"
+  },
+  {
+    "code": "G03B 1/50",
+    "description": "••••••regulables o intercambiables, p. ej. para diferentes longitudes de la película [2021.01]"
+  },
+  {
+    "code": "G03B 1/52",
+    "description": "••••••Dispositivos neumáticos de presión [2021.01]"
+  },
+  {
+    "code": "G03B 1/54",
+    "description": "••••Dispositivos de tensión o enrolladores [2021.01]"
+  },
+  {
+    "code": "G03B 1/56",
+    "description": "••Carga; Formación de los bucles [2021.01]"
+  },
+  {
+    "code": "G03B 1/58",
+    "description": "••••automáticamente [2021.01]"
+  },
+  {
+    "code": "G03B 1/60",
+    "description": "••Medida o indicación de la longitud del film utilizado o virgen; Contado del número de tomas realizadas [2021.01]"
+  },
+  {
+    "code": "G03B 1/62",
+    "description": "••••que tienen dispositivos de blocado o de paro de movimientos [2021.01]"
+  },
+  {
+    "code": "G03B 1/64",
+    "description": "••••por medios que determinan el espesor del film enrollado sobre una bobina [2021.01]"
+  },
+  {
+    "code": "G03B 1/66",
+    "description": "••••que cuentan el número de tomas realizadas [2021.01]"
+  },
+  {
+    "code": "G03B 3/00",
+    "description": "Dispositivos para el enfoque de aparatos fotográficos, aparatos de proyección o reproductores [2021.01]"
+  },
+  {
+    "code": "G03B 3/02",
+    "description": "••por desplazamiento del objeto a lo largo de la placa de base [2021.01]"
+  },
+  {
+    "code": "G03B 3/04",
+    "description": "••por regulación de la posición del plano-imagen sin desplazar el objetivo [2021.01]"
+  },
+  {
+    "code": "G03B 3/06",
+    "description": "••••empleando reflectores móviles para modificar la longitud del recorrido de la luz [2021.01]"
+  },
+  {
+    "code": "G03B 3/10",
+    "description": "••Enfoque efectuado por fuerza motriz [2021.01]"
+  },
+  {
+    "code": "G03B 3/12",
+    "description": "••••adaptado al mando a distancia [2021.01]"
+  },
+  {
+    "code": "G03B 5/00",
+    "description": "Regulación del sistema óptico relativo a la imagen o a la superficie del sujeto, distinta al enfoque de aparatos fotográficos, aparatos de proyección o reproductores [2021.01]"
+  },
+  {
+    "code": "G03B 5/02",
+    "description": "••Regulación lateral del objetivo [2021.01]"
+  },
+  {
+    "code": "G03B 5/04",
+    "description": "••Regulación vertical del objetivo; Portaobjetivos descentrables en altura [2021.01]"
+  },
+  {
+    "code": "G03B 5/06",
+    "description": "••Objetivo que bascula alrededor de un eje perpendicular al eje óptico [2021.01]"
+  },
+  {
+    "code": "G03B 5/08",
+    "description": "••Respaldos de articulación [2021.01]"
+  },
+  {
+    "code": "G03B 7/00",
+    "description": "Control de la exposición mediante la regulación de los obturadores, diafragmas, o filtros separada o conjuntamente (control de la exposición en cámaras de televisión por medio de circuitos que influyen en la parte óptica de la cámara H04N 23/75) [2021.01]"
+  },
+  {
+    "code": "G03B 7/01",
+    "description": "••con selección entre modo manual o automático [2021.01]"
+  },
+  {
+    "code": "G03B 7/02",
+    "description": "••Regulación efectuada llevando un órgano graduado del aparato en concordancia con la indicación o la lectura de un fotómetro que puede estar separado del aparato o incorporado a éste [2021.01]"
+  },
+  {
+    "code": "G03B 7/04",
+    "description": "••Regulación efectuada por desplazamiento manual de un órgano que recibe la indicación de la aguja de un dispositivo incorporado sensible a la luz, p. ej. volviendo la aguja a una señal de referencia fija [2021.01]"
+  },
+  {
+    "code": "G03B 7/06",
+    "description": "••••por movimiento de una señal de referencia para seguir a la aguja [2021.01]"
+  },
+  {
+    "code": "G03B 7/08",
+    "description": "••Control efectuado únicamente sobre la base de la respuesta, a la intensidad de la luz recibida por  un dispositivo sensible a la luz incorporadaporado en la cámara, [2021.01]"
+  },
+  {
+    "code": "G03B 7/0805",
+    "description": "••••Ajuste de los modos de prioridad [2021.01]"
+  },
+  {
+    "code": "G03B 7/081",
+    "description": "••••Circuitos analógicos [2021.01]"
+  },
+  {
+    "code": "G03B 7/083",
+    "description": "••••••para el control del tiempo de exposición [2021.01]"
+  },
+  {
+    "code": "G03B 7/085",
+    "description": "••••••para el control de la apertura [2021.01]"
+  },
+  {
+    "code": "G03B 7/087",
+    "description": "••••••para el control del tiempo de exposición y de la apertura a la vez [2021.01]"
+  },
+  {
+    "code": "G03B 7/089",
+    "description": "••••••para el almacenamiento del valor de exposición en los aparatos reflex con espejo [2021.01]"
+  },
+  {
+    "code": "G03B 7/091",
+    "description": "••••Circuitos digitales [2021.01]"
+  },
+  {
+    "code": "G03B 7/093",
+    "description": "••••••para el control del tiempo de exposición [2021.01]"
+  },
+  {
+    "code": "G03B 7/095",
+    "description": "••••••para el control de la apertura [2021.01]"
+  },
+  {
+    "code": "G03B 7/097",
+    "description": "••••••para el control del tiempo de exposición y de la apertura a la vez [2021.01]"
+  },
+  {
+    "code": "G03B 7/099",
+    "description": "••••Disposición de elementos fotoeléctricos en o sobre la camarao [2021.01]"
+  },
+  {
+    "code": "G03B 7/0993",
+    "description": "••••••en la camara [2021.01]"
+  },
+  {
+    "code": "G03B 7/0997",
+    "description": "••••••••A través de la lente de medición [TTL] [2021.01]"
+  },
+  {
+    "code": "G03B 7/10",
+    "description": "••••por un servomotor que suministra la energía necesaria para accionar el órgano de regulación [2021.01]"
+  },
+  {
+    "code": "G03B 7/12",
+    "description": "••••por un órgano movido manualmente de una posición a otra y que suministra la energía necesaria para mover el órgano de regulación, p. ej. la presión sobre el botón de accionamiento del obturador induce a un sensor a cooperar en relación con la aguja del dispositivo sensible a la luz para regular la abertura del diafragma y acciona seguidamente el obturador [2021.01]"
+  },
+  {
+    "code": "G03B 7/14",
+    "description": "••••••Regulación de la velocidad del obturador y de abertura del diafragma, efectuada de manera que dé una combinación óptima entre la profundidad de campo y la brevedad de exposición [2021.01]"
+  },
+  {
+    "code": "G03B 7/16",
+    "description": "••en función de la intensidad del flash y de la distancia del flash al objeto, p. ej. según el número-guía de la lámpara flash y el enfoque del aparato [2021.01]"
+  },
+  {
+    "code": "G03B 7/17",
+    "description": "••••Selección de los modos de la unidad de flash por disposiciones de control de la exposición [2021.01]"
+  },
+  {
+    "code": "G03B 7/18",
+    "description": "••en función del \"coeficiente\" de reducción de la iluminación del filtro o de otro interceptor empleado con o delante del objetivo del aparato [2021.01]"
+  },
+  {
+    "code": "G03B 7/20",
+    "description": "••en función del cambio del objetivo [2021.01]"
+  },
+  {
+    "code": "G03B 7/22",
+    "description": "••en función de la temperatura o de la altitud, p. ej. en avión [2021.01]"
+  },
+  {
+    "code": "G03B 7/24",
+    "description": "••automáticamente en función de marcas o de otros medios que indican en la cassette la velocidad de la película o el tipo de película de la cassette a introducir en el aparato [2021.01]"
+  },
+  {
+    "code": "G03B 7/26",
+    "description": "••Fuentes de energía; Circuitos o disposición para cambiar la fuente de energía; Circuitos para controlar la tensión de la fuente de energía [2021.01]"
+  },
+  {
+    "code": "G03B 7/28",
+    "description": "••Circuitos para medir o tener en cuenta el contraste del objeto [2021.01]"
+  },
+  {
+    "code": "G03B 7/30",
+    "description": "••Disposiciones de seguridad para el control de la exposición [2021.01]"
+  },
+  {
+    "code": "G03B 9/00",
+    "description": "Obturadores de exposición; Diafragmas [2021.01]"
+  },
+  {
+    "code": "G03B 9/02",
+    "description": "••Diafragmas [2021.01]"
+  },
+  {
+    "code": "G03B 9/04",
+    "description": "••••De una sola lámina móvil, con dos o varias aberturas de tamaño graduado, p. ej. lámina deslizante, lámina pivotante [2021.01]"
+  },
+  {
+    "code": "G03B 9/06",
+    "description": "••••Dos o más láminas montadas sobre pivote y que cooperan, p. ej. del tipo de iris (obturadores que hacen función de diafragma, limitando la amplitud del movimiento de abertura G03B 9/08) [2021.01]"
+  },
+  {
+    "code": "G03B 9/07",
+    "description": "••••con medios para regular el diafragma de antemano [2021.01]"
+  },
+  {
+    "code": "G03B 9/08",
+    "description": "••Obturadores [2021.01]"
+  },
+  {
+    "code": "G03B 9/10",
+    "description": "••••de lámina o disco que vota o que pivota alrededor de la perpendicular a su plano [2021.01]"
+  },
+  {
+    "code": "G03B 9/12",
+    "description": "••••••Dos órganos regulables, uno con relación al otro, que se desplazan juntos y determinan la abertura [2021.01]"
+  },
+  {
+    "code": "G03B 9/14",
+    "description": "••••••De órganos separados que se desplazan en direcciones opuestas [2021.01]"
+  },
+  {
+    "code": "G03B 9/16",
+    "description": "••••••De órganos separados que se desplazan en la misma dirección [2021.01]"
+  },
+  {
+    "code": "G03B 9/18",
+    "description": "••••••de más de dos órganos [2021.01]"
+  },
+  {
+    "code": "G03B 9/20",
+    "description": "••••••••desplazándose cada uno en una dirección propia, primero para abrir y para cerrar a continuación [2021.01]"
+  },
+  {
+    "code": "G03B 9/22",
+    "description": "••••••••cada uno se desplaza en una dirección para abrir, después en la dirección opuesta para cerrar, p. ej. del tipo iris [2021.01]"
+  },
+  {
+    "code": "G03B 9/24",
+    "description": "••••••que regulan la abertura formada por los órganos, con abertura total, de manera que constituyen un diafragma virtual regulable [2021.01]"
+  },
+  {
+    "code": "G03B 9/26",
+    "description": "••••••con una sola o varias láminas de obturación [2021.01]"
+  },
+  {
+    "code": "G03B 9/28",
+    "description": "••••Cortina o placa flexible [2021.01]"
+  },
+  {
+    "code": "G03B 9/30",
+    "description": "••••••Cortina simple con varias ranuras u otras formas de abertura [2021.01]"
+  },
+  {
+    "code": "G03B 9/32",
+    "description": "••••••Cortina doble [2021.01]"
+  },
+  {
+    "code": "G03B 9/34",
+    "description": "••••••••con ranura regulable; con mecanismo que controla el movimiento relativo de las cortinas para formar la ranura [2021.01]"
+  },
+  {
+    "code": "G03B 9/36",
+    "description": "••••Placa rígida deslizante [2021.01]"
+  },
+  {
+    "code": "G03B 9/38",
+    "description": "••••••Placa rígida única de varias ranuras o aberturas de otra forma [2021.01]"
+  },
+  {
+    "code": "G03B 9/40",
+    "description": "••••••Placa doble [2021.01]"
+  },
+  {
+    "code": "G03B 9/42",
+    "description": "••••••••de ranura regulable; con mecanismo que controla el movimiento relativo de las placas para formar la ranura [2021.01]"
+  },
+  {
+    "code": "G03B 9/44",
+    "description": "••••••Placas y carriles curvados [2021.01]"
+  },
+  {
+    "code": "G03B 9/46",
+    "description": "••••Obturadores de aletas, que giran alrededor de un eje en el plano de la aleta [2021.01]"
+  },
+  {
+    "code": "G03B 9/48",
+    "description": "••••••de doble aleta [2021.01]"
+  },
+  {
+    "code": "G03B 9/50",
+    "description": "••••••del tipo persiana [2021.01]"
+  },
+  {
+    "code": "G03B 9/52",
+    "description": "••••Obturadores de barrilete [2021.01]"
+  },
+  {
+    "code": "G03B 9/54",
+    "description": "••••Obturadores cónicos; Placa rotativa cuyo eje de rotación está inclinado con relación al eje óptico del obturador [2021.01]"
+  },
+  {
+    "code": "G03B 9/58",
+    "description": "••Medios para hacer variar la duración del período de \"abertura\" del obturador [2021.01]"
+  },
+  {
+    "code": "G03B 9/60",
+    "description": "••••haciendo variar la velocidad de movimiento de los órganos de obturación [2021.01]"
+  },
+  {
+    "code": "G03B 9/62",
+    "description": "••••haciendo variar el intervalo de tiempo entre el fin del movimiento de abertura y el comienzo del movimiento de cierre [2021.01]"
+  },
+  {
+    "code": "G03B 9/64",
+    "description": "••Mecanismo para retardar la abertura del obturador (separado del obturador G03B 17/38) [2021.01]"
+  },
+  {
+    "code": "G03B 9/66",
+    "description": "••Medios para armar el obturador, distintos de los medios para accionar el obturador [2021.01]"
+  },
+  {
+    "code": "G03B 9/68",
+    "description": "••••Armamento efectuado por el desplazamiento del film [2021.01]"
+  },
+  {
+    "code": "G03B 9/70",
+    "description": "••con contactos de sincronización de flash [2021.01]"
+  },
+  {
+    "code": "G03B 11/00",
+    "description": "Filtros u otros obturadores especialmente adaptados para fines fotográficos [2021.01]"
+  },
+  {
+    "code": "G03B 11/02",
+    "description": "••Mascarillas de cielo [2021.01]"
+  },
+  {
+    "code": "G03B 11/04",
+    "description": "••Parasoles o cubiertas para eliminar la luz indeseable sobre los objetivos, visores o auxiliares para enfocar [2021.01]"
+  },
+  {
+    "code": "G03B 11/06",
+    "description": "••••Cubiertas de objetivos que hacen oficio de obturador [2021.01]"
+  },
+  {
+    "code": "G03B 13/00",
+    "description": "Visores; Auxiliares de enfoque para aparatos fotográficos; Medios de enfoque para aparatos fotográficos; Sistemas de enfoque automático para aparatos fotográficos [2021.01]"
+  },
+  {
+    "code": "G03B 13/02",
+    "description": "••Visores [2021.01]"
+  },
+  {
+    "code": "G03B 13/04",
+    "description": "••••de visión directa, p. ej. marcos, marcas de visión [2021.01]"
+  },
+  {
+    "code": "G03B 13/06",
+    "description": "••••de lentes con o sin reflectores [2021.01]"
+  },
+  {
+    "code": "G03B 13/08",
+    "description": "••••••con imagen reflejada del marco [2021.01]"
+  },
+  {
+    "code": "G03B 13/10",
+    "description": "••••de campo de visión regulable [2021.01]"
+  },
+  {
+    "code": "G03B 13/12",
+    "description": "••••••para compensar la visión durante el cambio del objetivo del aparato o el formato de la imagen [2021.01]"
+  },
+  {
+    "code": "G03B 13/14",
+    "description": "••••••para compensar el paralaje debido a la corta distancia [2021.01]"
+  },
+  {
+    "code": "G03B 13/16",
+    "description": "••••combinado con los auxiliares para enfocar [2021.01]"
+  },
+  {
+    "code": "G03B 13/18",
+    "description": "••Auxiliares para enfocar [2021.01]"
+  },
+  {
+    "code": "G03B 13/20",
+    "description": "••••Telémetros acoplados con dispositivos para enfocar, p. ej. regulación del telémetro que enfoca automáticamente el objetivo [2021.01]"
+  },
+  {
+    "code": "G03B 13/22",
+    "description": "••••••acoplamiento haciendo la compensación después del cambio del objetivo [2021.01]"
+  },
+  {
+    "code": "G03B 13/24",
+    "description": "••••Pantallas para enfocar [2021.01]"
+  },
+  {
+    "code": "G03B 13/26",
+    "description": "••••••con lupa para mirar la imagen formada sobre el cristal esmerilado [2021.01]"
+  },
+  {
+    "code": "G03B 13/28",
+    "description": "••••••Dispositivos de campo cortado [2021.01]"
+  },
+  {
+    "code": "G03B 13/30",
+    "description": "••••indicando la profundidad de campo [2021.01]"
+  },
+  {
+    "code": "G03B 13/32",
+    "description": "••Medios de enfoque [2021.01]"
+  },
+  {
+    "code": "G03B 13/34",
+    "description": "••••Enfoque asistido [2021.01]"
+  },
+  {
+    "code": "G03B 13/36",
+    "description": "••••••Sistemas de enfoque automático [2021.01]"
+  },
+  {
+    "code": "G03B 15/00",
+    "description": "Procedimientos especiales para hacer fotografías; Aparatos para este efecto [2021.01]"
+  },
+  {
+    "code": "G03B 15/02",
+    "description": "••Iluminación de la escena [2021.01]"
+  },
+  {
+    "code": "G03B 15/03",
+    "description": "••••Combinaciones de aparatos fotográficos con aparatos de iluminación; Flash [2021.01]"
+  },
+  {
+    "code": "G03B 15/035",
+    "description": "••••••Combinaciones de aparatos fotográficos con lámparas de incandescencia [2021.01]"
+  },
+  {
+    "code": "G03B 15/04",
+    "description": "••••••Combinaciones de aparatos fotográficos con generadores de destellos no eléctricos; unidades de \"flash\" no electrónicas [2021.01]"
+  },
+  {
+    "code": "G03B 15/05",
+    "description": "••••••Combinaciones de aparatos fotográficos con flash electrónico; Flash electrónico [2021.01]"
+  },
+  {
+    "code": "G03B 15/06",
+    "description": "••••Disposiciones especiales para el filtrado, la difusión o la reflexión, p. ej. en los estudios [2021.01]"
+  },
+  {
+    "code": "G03B 15/07",
+    "description": "••••••Colocación de lámparas en los estudios [2021.01]"
+  },
+  {
+    "code": "G03B 15/08",
+    "description": "••Trucado de fotografías [2021.01]"
+  },
+  {
+    "code": "G03B 15/10",
+    "description": "••••utilizando la proyección por detrás, es decir, combinando un plano trasero artificial con un plano real [2021.01]"
+  },
+  {
+    "code": "G03B 15/12",
+    "description": "••••utilizando espejos [2021.01]"
+  },
+  {
+    "code": "G03B 15/14",
+    "description": "••para tomar fotografías durante las operaciones médicas [2021.01]"
+  },
+  {
+    "code": "G03B 15/16",
+    "description": "••para fotografiar la trayectoria de objetos en movimiento (fotografía de alta frecuencia G03B 39/00) [2021.01]"
+  },
+  {
+    "code": "G03B 17/00",
+    "description": "Partes constitutivas de aparatos o cuerpos de aparatos; Sus accesorios (parasoles o capuchones G03B 11/04) [2021.01]"
+  },
+  {
+    "code": "G03B 17/02",
+    "description": "••Cuerpos de aparatos [2021.01]"
+  },
+  {
+    "code": "G03B 17/04",
+    "description": "••••Abatibles, plegables o extensibles, p. ej. en forma de libro [2021.01]"
+  },
+  {
+    "code": "G03B 17/06",
+    "description": "••••con fotómetros u otros indicadores incorporados pero no acoplados a otros órganos del aparato [2021.01]"
+  },
+  {
+    "code": "G03B 17/08",
+    "description": "••••Cuerpos de aparatos o cajas estancas al agua [2021.01]"
+  },
+  {
+    "code": "G03B 17/10",
+    "description": "••••Cuerpos de aparatos insonorizados [2021.01]"
+  },
+  {
+    "code": "G03B 17/12",
+    "description": "••••con medios para soportar objetivos, lentes adicionales, filtros, pantallas o torretas [2021.01]"
+  },
+  {
+    "code": "G03B 17/14",
+    "description": "••••••de forma intercambiable [2021.01]"
+  },
+  {
+    "code": "G03B 17/16",
+    "description": "••••para comportar a la vez un aparato fotográfico y una cámara de cine [2021.01]"
+  },
+  {
+    "code": "G03B 17/17",
+    "description": "••••con reflectores dispuestos sobre el recorrido luminoso formando la imagen fotográfica, p. ej. para reducir las dimensiones del aparato fotográfico [2021.01]"
+  },
+  {
+    "code": "G03B 17/18",
+    "description": "••Señales que indican el estado de un órgano del aparato o si la iluminación es conveniente (que indican la profundidad de campo G03B 13/30) [2021.01]"
+  },
+  {
+    "code": "G03B 17/20",
+    "description": "••••visibles en el visor [2021.01]"
+  },
+  {
+    "code": "G03B 17/22",
+    "description": "••con medios para cortar el film [2021.01]"
+  },
+  {
+    "code": "G03B 17/24",
+    "description": "••con medios de producir separadamente las inscripciones sobre el film, p. ej. título, tiempos de exposición [2021.01]"
+  },
+  {
+    "code": "G03B 17/26",
+    "description": "••Chasis para contener los materiales sensibles a la luz y adaptados para estar introducidos en el interior del aparato (chasis para films radiográficos G03B 42/04) [2021.01]"
+  },
+  {
+    "code": "G03B 17/28",
+    "description": "••Colocación de los materiales sensibles a la luz en el aparato [2021.01]"
+  },
+  {
+    "code": "G03B 17/30",
+    "description": "••••Colocación de bobinas u otros soportes giratorios de películas enrolladas [2021.01]"
+  },
+  {
+    "code": "G03B 17/32",
+    "description": "••••Colocación de placas o de películas planas [2021.01]"
+  },
+  {
+    "code": "G03B 17/34",
+    "description": "••••••Cambio de placas o de películas planas [2021.01]"
+  },
+  {
+    "code": "G03B 17/36",
+    "description": "••Contado del número de tomas hechas (de bandas de película G03B 1/66) [2021.01]"
+  },
+  {
+    "code": "G03B 17/38",
+    "description": "••Dispositivos de accionamiento separados del obturador (incorporados al obturador G03B 9/08) [2021.01]"
+  },
+  {
+    "code": "G03B 17/40",
+    "description": "••••con retardo graduado o no [2021.01]"
+  },
+  {
+    "code": "G03B 17/42",
+    "description": "••Blocaje recíproco del funcionamiento del obturador y del avance del film o del cambio de placa o de film semirrígido [2021.01]"
+  },
+  {
+    "code": "G03B 17/44",
+    "description": "••Medios para cambiar el cristal esmerilado y el material sensible a la luz [2021.01]"
+  },
+  {
+    "code": "G03B 17/46",
+    "description": "••Medios para exponer imagen por imagen en una cámara de cine [2021.01]"
+  },
+  {
+    "code": "G03B 17/48",
+    "description": "••provistos para estar combinados con otros aparatos fotográficos u ópticos [2021.01]"
+  },
+  {
+    "code": "G03B 17/50",
+    "description": "••••con aparatos de revelado y acabado [2021.01]"
+  },
+  {
+    "code": "G03B 17/52",
+    "description": "••••••del tipo \"Land\" [2021.01]"
+  },
+  {
+    "code": "G03B 17/53",
+    "description": "••••••para entregar automáticamente una fotografía terminada, después de que una señal que provoca la exposición haya sido dada, p. ej. pulsando un botón, insertando una moneda [2021.01]"
+  },
+  {
+    "code": "G03B 17/54",
+    "description": "••••con proyector [2021.01]"
+  },
+  {
+    "code": "G03B 17/55",
+    "description": "••con disposiciones para calentar o refrigerar, p. ej. avión [2021.01]"
+  },
+  {
+    "code": "G03B 17/56",
+    "description": "••Accesorios (fundas y estuches A45C 11/38) [2021.01]"
+  },
+  {
+    "code": "G03B 17/58",
+    "description": "••••Accesorios para convertir los aparatos no reflex en reflex [2021.01]"
+  },
+  {
+    "code": "G03B 19/02",
+    "description": "••Aparatos para fotos fijas [2021.01]"
+  },
+  {
+    "code": "G03B 19/04",
+    "description": "••••Aparatos para película embobinada [2021.01]"
+  },
+  {
+    "code": "G03B 19/06",
+    "description": "••••••previstos para estar cargados con más de un film, p. ej. con exposición de uno u otro a la voluntad (G03B 19/07 tiene prioridad) [2021.01]"
+  },
+  {
+    "code": "G03B 19/07",
+    "description": "••••••con más de un objetivo [2021.01]"
+  },
+  {
+    "code": "G03B 19/08",
+    "description": "••••••con dispositivos para el empleo alternativo de placas o de películas semirrígidas normalizadas [2021.01]"
+  },
+  {
+    "code": "G03B 19/10",
+    "description": "••••Aparatos de placas o películas semirrígidas (con disposiciones para el empleo eventual de películas bobinadas G03B 19/08) [2021.01]"
+  },
+  {
+    "code": "G03B 19/12",
+    "description": "••••Aparatos reflex de un solo objetivo, con espejo móvil o semitransparente [2021.01]"
+  },
+  {
+    "code": "G03B 19/14",
+    "description": "••••de dos objetivos de los cuales uno forma una imagen sobre un material fotográfico y el otro forma una imagen correspondiente sobre una pantalla [2021.01]"
+  },
+  {
+    "code": "G03B 19/16",
+    "description": "••••Estenoscopios [2021.01]"
+  },
+  {
+    "code": "G03B 19/18",
+    "description": "••Cámaras de cine (con film que no se desplaza por intermitencia G03B 41/02) [2021.01]"
+  },
+  {
+    "code": "G03B 19/20",
+    "description": "••••Cámaras reflex [2021.01]"
+  },
+  {
+    "code": "G03B 19/22",
+    "description": "••••Cámaras dobles [2021.01]"
+  },
+  {
+    "code": "G03B 19/24",
+    "description": "••••previstas para estar cargadas con más de un film, p. ej. con exposición de uno u otro a la voluntad [2021.01]"
+  },
+  {
+    "code": "G03B 19/26",
+    "description": "••••con efecto de oscurecimiento apareciendo o desapareciendo [2021.01]"
+  },
+  {
+    "code": "G03B 21/00",
+    "description": "Proyectores o visores del tipo por proyección; Sus accesorios (dispositivos de cambio de imagen G03B 23/00) [2006.01]"
+  },
+  {
+    "code": "G03B 21/02",
+    "description": "••Aparatos de varios films [2006.01]"
+  },
+  {
+    "code": "G03B 21/04",
+    "description": "••••Máquinas \"Juke-Boxes\" de imágenes [2006.01]"
+  },
+  {
+    "code": "G03B 21/06",
+    "description": "••que no dan más que la proyección episcópica [2006.01]"
+  },
+  {
+    "code": "G03B 21/08",
+    "description": "••que dan una proyección epidiascópica [2006.01]"
+  },
+  {
+    "code": "G03B 21/10",
+    "description": "••Proyectores con pantalla incorporada o yuxtapuesta [2006.01]"
+  },
+  {
+    "code": "G03B 21/11",
+    "description": "••••para lectura de microfilms [2006.01]"
+  },
+  {
+    "code": "G03B 21/12",
+    "description": "••previstos para la proyección de fotos fijas o de films de cine (presentación prolongada de una sola imagen o parada sobre la imagen G03B 21/38) [2006.01]"
+  },
+  {
+    "code": "G03B 21/13",
+    "description": "••Proyectores para producir efectos especiales sobre los bordes de la imagen, p. ej. halo [2006.01]"
+  },
+  {
+    "code": "G03B 21/132",
+    "description": "••Proyectores verticales, es decir, capaces de proyectar la escritura o el dibujo a mano durante una acción (proyectores epidiascópicos G03B 21/08) [2006.01]"
+  },
+  {
+    "code": "G03B 21/134",
+    "description": "••Proyectores combinados con aparatos dactilográficos o de imprenta [2006.01]"
+  },
+  {
+    "code": "G03B 21/14",
+    "description": "••Detalles [2006.01]"
+  },
+  {
+    "code": "G03B 21/16",
+    "description": "••••Refrigeración; Prevención del sobrecalentamiento [2006.01]"
+  },
+  {
+    "code": "G03B 21/18",
+    "description": "••••Prevención contra el fuego o extinción [2006.01]"
+  },
+  {
+    "code": "G03B 21/20",
+    "description": "••••Cajas de luz [2006.01]"
+  },
+  {
+    "code": "G03B 21/22",
+    "description": "••••Cuerpos de aparato insonoro [2006.01]"
+  },
+  {
+    "code": "G03B 21/26",
+    "description": "••••que proyectan separadamente una imagen subsidiaria al mismo tiempo que la imagen principal [2006.01]"
+  },
+  {
+    "code": "G03B 21/28",
+    "description": "••••Reflectores en el haz de proyección [2006.01]"
+  },
+  {
+    "code": "G03B 21/30",
+    "description": "••••adaptados para ser rebajados o plegados, p. ej. para facilitar su transporte [2006.01]"
+  },
+  {
+    "code": "G03B 21/32",
+    "description": "••••Detalles especialmente adaptados para la proyección de imágenes cinematográficas (con el film desplazándose continuamente G03B 41/02) [2006.01]"
+  },
+  {
+    "code": "G03B 21/34",
+    "description": "••••••Dispositivos de transformación [2006.01]"
+  },
+  {
+    "code": "G03B 21/36",
+    "description": "••••••••Efectos de descolorido, de oscurecimiento o de barrido [2006.01]"
+  },
+  {
+    "code": "G03B 21/38",
+    "description": "••••••Proyección prolongada de una imagen, parada sobre una imagen [2006.01]"
+  },
+  {
+    "code": "G03B 21/40",
+    "description": "••••••Eliminación o reducción del efecto de parpadeo [2006.01]"
+  },
+  {
+    "code": "G03B 21/42",
+    "description": "••••••Prevención de dañado del film debido al funcionamiento anormal del proyector [2006.01]"
+  },
+  {
+    "code": "G03B 21/43",
+    "description": "••••••Mecanismos de accionamiento [2006.01]"
+  },
+  {
+    "code": "G03B 21/44",
+    "description": "••••••••Mecanismos que transmiten el movimiento al suministrador de película; Enganche mecánico del obturador y de la alimentación intermitente [2006.01]"
+  },
+  {
+    "code": "G03B 21/46",
+    "description": "••••••••••con regulación para el encuadramiento [2006.01]"
+  },
+  {
+    "code": "G03B 21/48",
+    "description": "••••••••••para modificar la velocidad de paso; para mantener constante la velocidad de paso de la película [2006.01]"
+  },
+  {
+    "code": "G03B 21/50",
+    "description": "••••••Dispositivos de control movidos por la película en banda durante su paso [2006.01]"
+  },
+  {
+    "code": "G03B 21/52",
+    "description": "••••••••por película preparada [2006.01]"
+  },
+  {
+    "code": "G03B 21/53",
+    "description": "••••Sistemas de enfoque automático, p. ej. para compensar los efectos térmicos [2006.01]"
+  },
+  {
+    "code": "G03B 21/54",
+    "description": "••Accesorios [2006.01]"
+  },
+  {
+    "code": "G03B 21/56",
+    "description": "••••Pantallas de proyección [2006.01]"
+  },
+  {
+    "code": "G03B 21/58",
+    "description": "••••••desmontables, p. ej. plegables; de superficie variable [2014.01]"
+  },
+  {
+    "code": "G03B 21/585",
+    "description": "••••••••Pantallas inflables [2014.01]"
+  },
+  {
+    "code": "G03B 21/60",
+    "description": "••••••caracterizados por la naturaleza de la superficie [2014.01]"
+  },
+  {
+    "code": "G03B 21/602",
+    "description": "••••••••pantallas lenticulares (G03B 21/625  tiene prioridad) [2014.01]"
+  },
+  {
+    "code": "G03B 21/604",
+    "description": "••••••••pantallas polarizadas [2014.01]"
+  },
+  {
+    "code": "G03B 21/606",
+    "description": "••••••••para la proyección en relieve [2014.01]"
+  },
+  {
+    "code": "G03B 21/608",
+    "description": "••••••••Pantallas de fluidos [2014.01]"
+  },
+  {
+    "code": "G03B 21/62",
+    "description": "••••••••Pantalla translúcida [2014.01]"
+  },
+  {
+    "code": "G03B 21/625",
+    "description": "••••••••••Pantallas translúcidas lenticulares [2014.01]"
+  },
+  {
+    "code": "G03B 21/64",
+    "description": "••••Medios para el montaje de imágenes individuales a proyectar, p. ej. marcos para diapositivas [2006.01]"
+  },
+  {
+    "code": "G03B 23/00",
+    "description": "Dispositivos para el cambio de imágenes en los visores o los proyectores [2006.01]"
+  },
+  {
+    "code": "G03B 23/02",
+    "description": "••en los que la vista sacada de un conjunto es devuelta al mismo conjunto o a otro; Almacenes para este efecto [2006.01]"
+  },
+  {
+    "code": "G03B 23/04",
+    "description": "••••de movimiento lineal [2006.01]"
+  },
+  {
+    "code": "G03B 23/06",
+    "description": "••••de movimiento circular [2006.01]"
+  },
+  {
+    "code": "G03B 23/08",
+    "description": "••en las que las vistas están colocadas sobre un pasavistas móvil [2006.01]"
+  },
+  {
+    "code": "G03B 23/10",
+    "description": "••••de tambor o de discos [2006.01]"
+  },
+  {
+    "code": "G03B 23/12",
+    "description": "••••de banda derecha, lineal [2006.01]"
+  },
+  {
+    "code": "G03B 23/14",
+    "description": "••Pasavistas que pueden ser accionados para llevar las vistas a la posición de proyección o examen y sacarlas y que transportan una o dos vistas solamente pero que pueden ser cambiadas (G03B 23/18 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G03B 23/18",
+    "description": "••con efecto de oscurecimiento apareciendo o desapareciendo [2006.01]"
+  },
+  {
+    "code": "G03B 25/00",
+    "description": "Visores, diferentes a los que funcionan por proyección, que dan efectos cinematográficos por persistencia de la visión, p. ej. zootropo [2006.01]"
+  },
+  {
+    "code": "G03B 25/02",
+    "description": "••con pantalla lenticular o lineal interpuesta [2006.01]"
+  },
+  {
+    "code": "G03B 27/00",
+    "description": "Dispositivos de reproducción fotográfica [2006.01]"
+  },
+  {
+    "code": "G03B 27/02",
+    "description": "••Aparatos de exposición para reproducción por contacto [2006.01]"
+  },
+  {
+    "code": "G03B 27/04",
+    "description": "••••Aparatos de reproducción sin movimiento relativo entre el original y la fuente de iluminación durante la exposición, p. ej. chasis prensa, caja de reproducción [2006.01]"
+  },
+  {
+    "code": "G03B 27/06",
+    "description": "••••••para la reproducción automática repetida de un mismo original [2006.01]"
+  },
+  {
+    "code": "G03B 27/08",
+    "description": "••••••para la reproducción automática de varios originales uno detrás de otro, p. ej. para la reproducción de películas cinematográficas [2006.01]"
+  },
+  {
+    "code": "G03B 27/10",
+    "description": "••••Aparatos de reproducción con movimiento relativo entre el original y la fuente de luz durante la exposición [2006.01]"
+  },
+  {
+    "code": "G03B 27/12",
+    "description": "••••••para la reproducción automática repetida de un mismo original [2006.01]"
+  },
+  {
+    "code": "G03B 27/14",
+    "description": "••••Detalles [2006.01]"
+  },
+  {
+    "code": "G03B 27/16",
+    "description": "••••••Disposición de la iluminación, p. ej. situando lámparas, colocando reflectores (regulación de la exposición G03B 27/72) [2006.01]"
+  },
+  {
+    "code": "G03B 27/18",
+    "description": "••••••Manteniendo o produciendo una presión que asegura el contacto entre el original y el material sensible a la luz [2006.01]"
+  },
+  {
+    "code": "G03B 27/20",
+    "description": "••••••••por empleo de presión mediante un fluido o mediante el vacío [2006.01]"
+  },
+  {
+    "code": "G03B 27/22",
+    "description": "••••••••por extendido sobre una superficie curva [2006.01]"
+  },
+  {
+    "code": "G03B 27/24",
+    "description": "••••••Separación del original de la copia [2006.01]"
+  },
+  {
+    "code": "G03B 27/26",
+    "description": "••••••Refrigeración [2006.01]"
+  },
+  {
+    "code": "G03B 27/28",
+    "description": "••••••Marginadores [2006.01]"
+  },
+  {
+    "code": "G03B 27/30",
+    "description": "••••••previstos para estar combinados con los aparatos de revelado [2006.01]"
+  },
+  {
+    "code": "G03B 27/32",
+    "description": "••Aparatos de reproducción por proyección, p. ej. ampliador, aparatos fotográficos de reproducción [2006.01]"
+  },
+  {
+    "code": "G03B 27/34",
+    "description": "••••Dispositivos para su enfoque automático [2006.01]"
+  },
+  {
+    "code": "G03B 27/36",
+    "description": "••••••por conexión mecánica, p. ej. por leva, por articulación [2006.01]"
+  },
+  {
+    "code": "G03B 27/38",
+    "description": "••••••••con tornillos de paso no uniforme [2006.01]"
+  },
+  {
+    "code": "G03B 27/40",
+    "description": "••••••••previstos para el uso de objetivos de distancias focales diferentes [2006.01]"
+  },
+  {
+    "code": "G03B 27/42",
+    "description": "••••para la reproducción automática repetida de un mismo original (G03B 27/34, G03B 27/53 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G03B 27/44",
+    "description": "••••para hacer varias copias del mismo original al mismo tiempo (G03B 27/34, G03B 27/53 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G03B 27/46",
+    "description": "••••para la reproducción automática de varios originales uno después de otro, p. ej. ampliadores, impresores para películas de bobina (G03B 27/34, G03B 27/50, G03B 27/53 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G03B 27/465",
+    "description": "••••••en diferentes posiciones de la misma banda, p. ej. microfilm [2006.01]"
+  },
+  {
+    "code": "G03B 27/47",
+    "description": "••••••en diferentes posiciones de la misma hoja, p. ej. microficha [2006.01]"
+  },
+  {
+    "code": "G03B 27/475",
+    "description": "••••••Reproducción de película cinematográfica (G03B 27/48 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G03B 27/48",
+    "description": "••••••con original bajo la forma de una banda de película continuamente en movimiento, y compensando el movimiento de la imagen correspondiente [2006.01]"
+  },
+  {
+    "code": "G03B 27/50",
+    "description": "••••con diafragma de ranura o análogo que se desplaza sobre el original para una exposición progresiva (G03B 27/34 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G03B 27/52",
+    "description": "••••Detalles [2006.01]"
+  },
+  {
+    "code": "G03B 27/53",
+    "description": "••••••Registro o posicionamiento automático de originales uno con relación a otro o con relación a la capa fotosensible [2006.01]"
+  },
+  {
+    "code": "G03B 27/54",
+    "description": "••••••Cajas de luz; Medios de iluminación [2006.01]"
+  },
+  {
+    "code": "G03B 27/56",
+    "description": "••••••Montaje de la cabeza del ampliador sobre la columna [2006.01]"
+  },
+  {
+    "code": "G03B 27/58",
+    "description": "••••••Platinas, marginadores u otros soportes para la materia sensible (G03B 27/53 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G03B 27/60",
+    "description": "••••••••haciendo uso de la presión de un fluido o por el vacío [2006.01]"
+  },
+  {
+    "code": "G03B 27/62",
+    "description": "••••••Soportes para el original (G03B 27/53 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G03B 27/64",
+    "description": "••••••••que hace uso de la presión de un fluido o por el vacío [2006.01]"
+  },
+  {
+    "code": "G03B 27/66",
+    "description": "••••••especialmente previstos para albergar pantallas de medio tono [2006.01]"
+  },
+  {
+    "code": "G03B 27/68",
+    "description": "••••••que permiten introducir o corregir la distorsión, p. ej. permitiendo la proyección oblicua [2006.01]"
+  },
+  {
+    "code": "G03B 27/70",
+    "description": "••••••Reflectores en el haz luminoso de reproducción [2006.01]"
+  },
+  {
+    "code": "G03B 27/72",
+    "description": "••Regulación o variación de la intensidad luminosa, de la composición espectral o de la duración de exposición en los aparatos de reproducción fotográfica [2006.01]"
+  },
+  {
+    "code": "G03B 27/73",
+    "description": "••••Regulación de la exposición por variación de la composición espectral, p. ej. dispositivos de reproducción en colores [2006.01]"
+  },
+  {
+    "code": "G03B 27/74",
+    "description": "••••Colocación de fotómetros en el aparato [2006.01]"
+  },
+  {
+    "code": "G03B 27/80",
+    "description": "••••en relación con el análisis automático del original (G03B 27/73 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G03B 29/00",
+    "description": "Combinaciones de aparatos, proyectores o aparatos de reproducción fotográfica con aparatos no fotográficos y no ópticos, p. ej. relojes o armas; Aparatos que tienen la forma de otro objeto (combinación con flash G03B 15/03) [2021.01]"
+  },
+  {
+    "code": "G03B 30/00",
+    "description": "Módulos de cámara que comprenden integradas lentes y unidades de imagen, especialmente adaptados para integrarse en otros dispositivos, p. ej. teléfonos móviles o vehículos [2021.01]"
+  },
+  {
+    "code": "G03B 31/00",
+    "description": "Trabajo en asociación de aparatos o proyectores con medios de registro o reproducción del sonido [2021.01]"
+  },
+  {
+    "code": "G03B 31/02",
+    "description": "••en los que la pista sonora está sobre una película cinematográfica [2021.01]"
+  },
+  {
+    "code": "G03B 31/04",
+    "description": "••en los que la pista sonora no está sobre una película cinematográfica, pero está sincronizada con ésta [2021.01]"
+  },
+  {
+    "code": "G03B 31/06",
+    "description": "••en los que la pista sonora está asociada a fotos fijas mostradas sucesivamente [2021.01]"
+  },
+  {
+    "code": "G03B 31/08",
+    "description": "••con efecto de oscurecimiento apareciendo o desapareciendo [2021.01]"
+  },
+  {
+    "code": "G03B 33/00",
+    "description": "Fotografía en color, diferente a la simple exposición o proyección de una película en color (aparatos de reproducción G03B 27/00; fotografía estereoscópica en color G03B 35/00) [2006.01]"
+  },
+  {
+    "code": "G03B 33/02",
+    "description": "••por medio de clichés de selección bicromática, p. ej. el tono rojo y los clichés completos de blanco; que utilizan el efecto Land [2006.01]"
+  },
+  {
+    "code": "G03B 33/04",
+    "description": "••por medio de clichés de selección de cuatro o más colores [2006.01]"
+  },
+  {
+    "code": "G03B 33/06",
+    "description": "••por medio de dispositivos de proyección por síntesis aditiva de colores [2006.01]"
+  },
+  {
+    "code": "G03B 33/08",
+    "description": "••Registro o proyección secuenciales (G03B 33/02, G03B 33/04, G03B 33/06 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G03B 33/10",
+    "description": "••Registro o proyección simultáneas (G03B 33/02, G03B 33/04, G03B 33/06 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G03B 33/12",
+    "description": "••••haciendo uso de sistemas de división de rayos o de combinación de rayos, p. ej. espejos dicroicos [2006.01]"
+  },
+  {
+    "code": "G03B 33/14",
+    "description": "••••haciendo uso de pantallas lenticulares (incorporados a la película G03C) [2006.01]"
+  },
+  {
+    "code": "G03B 33/16",
+    "description": "••••haciendo uso de pantallas de color de diversas formas (incorporadas a la película G03C) [2006.01]"
+  },
+  {
+    "code": "G03B 35/00",
+    "description": "Fotografía estereoscópica [2021.01]"
+  },
+  {
+    "code": "G03B 35/02",
+    "description": "••por registro secuencial [2021.01]"
+  },
+  {
+    "code": "G03B 35/04",
+    "description": "••••con movimiento de órganos selectores de rayos en un sistema que determina dos o más puntos de vista [2021.01]"
+  },
+  {
+    "code": "G03B 35/06",
+    "description": "••••con desplazamiento axial del objetivo o de la ventana entre las exposiciones [2021.01]"
+  },
+  {
+    "code": "G03B 35/08",
+    "description": "••por registro simultáneo [2021.01]"
+  },
+  {
+    "code": "G03B 35/10",
+    "description": "••••con un único aparato pero con un sistema que permite determinar la distancia de los enfoques [2021.01]"
+  },
+  {
+    "code": "G03B 35/12",
+    "description": "••••que tienen el registro de imágenes de enfoques diferentes en diversos colores sobre una película en colores [2021.01]"
+  },
+  {
+    "code": "G03B 35/14",
+    "description": "••Aparatos de reproducción especialmente previstos para la conversión entre diferentes tipos de registro (G03B 42/08 tiene prioridad) [2021.01]"
+  },
+  {
+    "code": "G03B 35/16",
+    "description": "••por examen secuencial [2021.01]"
+  },
+  {
+    "code": "G03B 35/18",
+    "description": "••por examen simultáneo [2021.01]"
+  },
+  {
+    "code": "G03B 35/20",
+    "description": "••••que emplean dos o más proyectores [2021.01]"
+  },
+  {
+    "code": "G03B 35/22",
+    "description": "••••que emplean un único proyector con un sistema que permite determinar la distancia de los enfoques [2021.01]"
+  },
+  {
+    "code": "G03B 35/24",
+    "description": "••••que emplean medios de resolución o de refringencia sobre la pantalla o entre el ojo y la pantalla [2021.01]"
+  },
+  {
+    "code": "G03B 35/26",
+    "description": "••••que emplean la luz polarizada o coloreada para separar las imágenes de los diferentes enfoques [2021.01]"
+  },
+  {
+    "code": "G03B 37/00",
+    "description": "Fotografía panorámica o en pantalla grande; Fotografía de superficies extensas, p. ej. para la geodesia; Fotografía de superficies internas, p. ej. de tuberías [2021.01]"
+  },
+  {
+    "code": "G03B 37/02",
+    "description": "••con movimiento de barrido del objetivo o del aparato [2021.01]"
+  },
+  {
+    "code": "G03B 37/04",
+    "description": "••con aparatos o proyectores que permiten la yuxtaposición o el recubrimiento parcial de los campos de visión [2021.01]"
+  },
+  {
+    "code": "G03B 37/06",
+    "description": "••implicando anamorfosis (G03B 37/02, G03B 37/04 tienen prioridad) [2021.01]"
+  },
+  {
+    "code": "G03B 39/00",
+    "description": "Fotografía de alta frecuencia [2021.01]"
+  },
+  {
+    "code": "G03B 39/02",
+    "description": "••empleando una placa o una película estacionaria (G03B 39/06 tiene prioridad) [2021.01]"
+  },
+  {
+    "code": "G03B 39/04",
+    "description": "••empleando una placa o una película móvil (G03B 39/06 tiene prioridad) [2021.01]"
+  },
+  {
+    "code": "G03B 39/06",
+    "description": "••empleando guías de luz para transferir el cuadro imagen o los elementos correspondientes a diferentes posiciones, p. ej. en línea [2021.01]"
+  },
+  {
+    "code": "G03B 41/00",
+    "description": "Técnicas especiales fotográficas no cubiertas por los grupos G03B 31/00-G03B 39/00; Aparatos para este efecto [2021.01]"
+  },
+  {
+    "code": "G03B 41/02",
+    "description": "••que emplean una película que no se desenrolla por intermitencia [2021.01]"
+  },
+  {
+    "code": "G03B 41/04",
+    "description": "••••con compensador óptico [2021.01]"
+  },
+  {
+    "code": "G03B 41/06",
+    "description": "••••••con órgano de reflexión rotativo [2021.01]"
+  },
+  {
+    "code": "G03B 41/08",
+    "description": "••••••con órgano de transmisión rotativo [2021.01]"
+  },
+  {
+    "code": "G03B 41/10",
+    "description": "••••••con órgano de reflexión oscilante [2021.01]"
+  },
+  {
+    "code": "G03B 41/12",
+    "description": "••••••con órgano de transmisión oscilante [2021.01]"
+  },
+  {
+    "code": "G03B 41/14",
+    "description": "••••Supresión del movimiento de la imagen por breves destellos de luz [2021.01]"
+  },
+  {
+    "code": "G03B 42/00",
+    "description": "Producción de registros utilizando ondas diferentes de las ondas ópticas; Visualización de estos registros utilizando medios ópticos [2021.01]"
+  },
+  {
+    "code": "G03B 42/02",
+    "description": "••utilizando rayos X [2021.01]"
+  },
+  {
+    "code": "G03B 42/04",
+    "description": "••••Chasis para películas radiográficas [2021.01]"
+  },
+  {
+    "code": "G03B 42/06",
+    "description": "••utilizando ondas ultrasonoras, sonoras o infrasonoras [2021.01]"
+  },
+  {
+    "code": "G03B 42/08",
+    "description": "••Visualización de registros por medios ópticos [2021.01]"
+  },
+  {
+    "code": "G03B 43/02",
+    "description": "••Ensayo de los obturadores [2021.01]"
+  }
+]

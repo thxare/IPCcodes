@@ -1,0 +1,782 @@
+[
+  {
+    "code": "H01Q 1/00",
+    "description": "Detalles de dispositivos asociados a las antenas (dispositivos para hacer variar la orientación de un diagrama direccional H01Q 3/00) [2006.01]"
+  },
+  {
+    "code": "H01Q 1/02",
+    "description": "••Dispositivos de desescarche; Dispositivos de secado [2006.01]"
+  },
+  {
+    "code": "H01Q 1/04",
+    "description": "••Adaptación para usos subterráneos o subacuáticos [2006.01]"
+  },
+  {
+    "code": "H01Q 1/06",
+    "description": "••Medios para el alumbrado o indicación luminosa de antenas, p. ej. para señalización [2006.01]"
+  },
+  {
+    "code": "H01Q 1/08",
+    "description": "••Medios para plegar antenas o partes de ellas (antenas de espiral plegables H01Q 7/02; medios para plegar antenas H o antenas Yagi H01Q 19/04) [2006.01]"
+  },
+  {
+    "code": "H01Q 1/10",
+    "description": "••••Elementos telescópicos [2006.01]"
+  },
+  {
+    "code": "H01Q 1/12",
+    "description": "••Soportes; Medios para el montaje [2006.01]"
+  },
+  {
+    "code": "H01Q 1/14",
+    "description": "••••para hilos u otros elementos radiantes no rígidos [2006.01]"
+  },
+  {
+    "code": "H01Q 1/16",
+    "description": "••••••Tensores, extensores o espaciadores [2006.01]"
+  },
+  {
+    "code": "H01Q 1/18",
+    "description": "••••Medios para estabilizar antenas sobre plataformas inestables [2006.01]"
+  },
+  {
+    "code": "H01Q 1/20",
+    "description": "••••Montajes elásticos [2006.01]"
+  },
+  {
+    "code": "H01Q 1/22",
+    "description": "••••por asociación estructural con otros equipos u objetos [2006.01]"
+  },
+  {
+    "code": "H01Q 1/24",
+    "description": "••••••con aparato receptor [2006.01]"
+  },
+  {
+    "code": "H01Q 1/26",
+    "description": "••••••con tubo de descarga eléctrico [2006.01]"
+  },
+  {
+    "code": "H01Q 1/27",
+    "description": "••Adaptación para la utilización en o sobre cuerpos móviles (H01Q 1/08, H01Q 1/12, H01Q 1/18 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H01Q 1/28",
+    "description": "••••Adaptación para la utilización en o sobre aviones, misiles, satélites o globos [2006.01]"
+  },
+  {
+    "code": "H01Q 1/30",
+    "description": "••••••Medios para colgar las antenas [2006.01]"
+  },
+  {
+    "code": "H01Q 1/32",
+    "description": "••••Adaptación para la utilización en o sobre vehículos de carretera o ferroviarios [2006.01]"
+  },
+  {
+    "code": "H01Q 1/34",
+    "description": "••••Adaptación para la utilización en o sobre barcos, submarinos, boyas o torpedos (para la utilización bajo el agua H01Q 1/04) [2006.01]"
+  },
+  {
+    "code": "H01Q 1/36",
+    "description": "••Forma estructural de elementos radiantes, p. ej. cono, espiras, paraguas (H01Q 1/08, H01Q 1/14 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H01Q 1/38",
+    "description": "••••formados por una capa conductora sobre un soporte aislante [2006.01]"
+  },
+  {
+    "code": "H01Q 1/40",
+    "description": "••Elementos radiantes recubiertos con, o embebidos de una materia protectora [2006.01]"
+  },
+  {
+    "code": "H01Q 1/42",
+    "description": "••Envolturas que no están asociadas mecánica e íntimamente con los elementos radiantes, p. ej. cúpula [2006.01]"
+  },
+  {
+    "code": "H01Q 1/44",
+    "description": "••utilizando un equipo con otra función principal además de servir como antena (H01Q 1/27-H01Q 1/34  tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H01Q 1/46",
+    "description": "••••Líneas eléctricas de alimentación o de comunicación [2006.01]"
+  },
+  {
+    "code": "H01Q 1/48",
+    "description": "••Medios de toma de tierra; Pantallas de tierra; Contrapesos [2006.01]"
+  },
+  {
+    "code": "H01Q 1/50",
+    "description": "••Asociación estructural de antenas con conmutadores de tierra, dispositivos de bajada de antenas o pararrayos [2006.01]"
+  },
+  {
+    "code": "H01Q 1/52",
+    "description": "••Medios para reducir el acoplamiento entre antenas; Medios para reducir el acoplamiento entre una antena y otra estructura (medios de absorción H01Q 17/00) [2006.01]"
+  },
+  {
+    "code": "H01Q 3/00",
+    "description": "Dispositivos para cambiar o hacer variar la orientación o la forma del diagrama direccional de las ondas radiadas por una antena o por un sistema de antenas [2006.01]"
+  },
+  {
+    "code": "H01Q 3/01",
+    "description": "••haciendo variar la forma de la antena o del sistema de antenas [2006.01]"
+  },
+  {
+    "code": "H01Q 3/02",
+    "description": "••utilizando el movimiento mecánico de una antena o sistema de antenas en su conjunto [2006.01]"
+  },
+  {
+    "code": "H01Q 3/04",
+    "description": "••••para hacer variar una coordenada de la orientación [2006.01]"
+  },
+  {
+    "code": "H01Q 3/06",
+    "description": "••••••en un ángulo limitado [2006.01]"
+  },
+  {
+    "code": "H01Q 3/08",
+    "description": "••••para variar dos coordenadas de la orientación [2006.01]"
+  },
+  {
+    "code": "H01Q 3/10",
+    "description": "••••••para producir un barrido cónico o en espiral [2006.01]"
+  },
+  {
+    "code": "H01Q 3/12",
+    "description": "••utilizando un movimiento mecánico relativo entre elementos activos primarios y dispositivos secundarios de antenas o de sistemas de antenas [2006.01]"
+  },
+  {
+    "code": "H01Q 3/14",
+    "description": "••••para hacer variar la posición relativa del elemento activo primario con respecto a un dispositivo refractor o difractor [2006.01]"
+  },
+  {
+    "code": "H01Q 3/16",
+    "description": "••••para hacer variar la posición relativa de un elemento primario activo y un dispositivo reflector [2006.01]"
+  },
+  {
+    "code": "H01Q 3/18",
+    "description": "••••••en donde el elemento activo primario es móvil y el dispositivo reflector es fijo [2006.01]"
+  },
+  {
+    "code": "H01Q 3/20",
+    "description": "••••••en donde el elemento activo primario es fijo y el dispositivo reflector móvil [2006.01]"
+  },
+  {
+    "code": "H01Q 3/22",
+    "description": "••haciendo variar la orientación con arreglo a la variación de frecuencia de la onda radiada [2006.01]"
+  },
+  {
+    "code": "H01Q 3/24",
+    "description": "••haciendo variar la orientación por conmutación de la energía suministrada desde un elemento activo radiante a otro, p. ej. por conmutación de lóbulo [2006.01]"
+  },
+  {
+    "code": "H01Q 3/26",
+    "description": "••haciendo variar la fase relativa o la amplitud relativa de la energía de excitación entre dos o más elementos radiantes activos; haciendo variar la distribución de energía a través de una abertura radiante (H01Q 3/22, H01Q 3/24 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H01Q 3/28",
+    "description": "••••haciendo variar la amplitud [2006.01]"
+  },
+  {
+    "code": "H01Q 3/30",
+    "description": "••••haciendo variar la fase [2006.01]"
+  },
+  {
+    "code": "H01Q 3/32",
+    "description": "••••••por medios mecánicos [2006.01]"
+  },
+  {
+    "code": "H01Q 3/34",
+    "description": "••••••por medios eléctricos (lentes activas o redes reflectantes H01Q 3/46) [2006.01]"
+  },
+  {
+    "code": "H01Q 3/36",
+    "description": "••••••••con desfasadores variables [2006.01]"
+  },
+  {
+    "code": "H01Q 3/38",
+    "description": "••••••••••siendo los desfasadores digitales [2006.01]"
+  },
+  {
+    "code": "H01Q 3/40",
+    "description": "••••••••con una matriz que hace variar el ángulo de desfase [2006.01]"
+  },
+  {
+    "code": "H01Q 3/42",
+    "description": "••••••••utilizando un mezclador de frecuencias [2006.01]"
+  },
+  {
+    "code": "H01Q 3/44",
+    "description": "••haciendo variar las características eléctricas o magnéticas de los dispositivos de reflexión, refracción o difracción asociados al elemento radiante [2006.01]"
+  },
+  {
+    "code": "H01Q 3/46",
+    "description": "••••Lentes activas o redes reflectantes [2006.01]"
+  },
+  {
+    "code": "H01Q 5/00",
+    "description": "Disposiciones para el funcionamiento simultáneo de antenas sobre dos o más bandas de frecuencia diferentes, p. ej. disposiciones de doble banda \"dual-band\" o multibanda \"multi-band\" (combinaciones de elementos activos de antenas separados que funcionan en diferentes bandas de frecuencia y conectados a un sistema de alimentación común H01Q 21/30) [2015.01]"
+  },
+  {
+    "code": "H01Q 5/10",
+    "description": "••Antenas resonantes [2015.01]"
+  },
+  {
+    "code": "H01Q 5/15",
+    "description": "••••para funcionamiento de antenas de alimentación central que comprenden uno o varios elementos activos sustancialmente rectilíneos o alargados [2015.01]"
+  },
+  {
+    "code": "H01Q 5/20",
+    "description": "••caracterizadas por la banda de frecuencias de funcionamiento [2015.01]"
+  },
+  {
+    "code": "H01Q 5/22",
+    "description": "••••Bandas de RF combinadas con otras distintas de las bandas de radiofrecuencias, p. ej. bandas en la zona infrarroja u óptica [2015.01]"
+  },
+  {
+    "code": "H01Q 5/25",
+    "description": "••••Sistemas de banda ultra-ancha [UWB], p. ej. sistemas de resonancia múltiple.; Sistemas de pulsos [2015.01]"
+  },
+  {
+    "code": "H01Q 5/28",
+    "description": "••••Disposiciones para establecer la polarización o la anchura de haz en dos o más bandas de frecuencias diferentes [2015.01]"
+  },
+  {
+    "code": "H01Q 5/30",
+    "description": "••Disposiciones para hacer posible el funcionamiento en diferentes bandas de frecuencia [2015.01]"
+  },
+  {
+    "code": "H01Q 5/307",
+    "description": "••••Elementos radiantes acoplados o individuales, cada uno de los cuales está alimentado de una forma no especificada [2015.01]"
+  },
+  {
+    "code": "H01Q 5/314",
+    "description": "••••••usando componentes o circuitos dependientes de la frecuencia, p. ej. circuitos colectores o condensadores [2015.01]"
+  },
+  {
+    "code": "H01Q 5/321",
+    "description": "••••••••en un elemento radiante o entre elementos radiantes conectados [2015.01]"
+  },
+  {
+    "code": "H01Q 5/328",
+    "description": "••••••••entre un elemento radiante y tierra [2015.01]"
+  },
+  {
+    "code": "H01Q 5/335",
+    "description": "••••••••en la alimentación, p. ej. para ajuste de la impedancia [2015.01]"
+  },
+  {
+    "code": "H01Q 5/342",
+    "description": "••••••para diferentes modos de propagación (H01Q 5/314 tiene prioridad) [2015.01]"
+  },
+  {
+    "code": "H01Q 5/35",
+    "description": "••••••••usando dos o más puntos de alimentación de forma simultánea [2015.01]"
+  },
+  {
+    "code": "H01Q 5/357",
+    "description": "••••••••usando un único punto de alimentación [2015.01]"
+  },
+  {
+    "code": "H01Q 5/364",
+    "description": "••••••••••Creando múltiples caminos de corriente [2015.01]"
+  },
+  {
+    "code": "H01Q 5/371",
+    "description": "••••••••••••Repartiendo los caminos de corriente [2015.01]"
+  },
+  {
+    "code": "H01Q 5/378",
+    "description": "••••Combinación de elementos de alimentación con elementos parásitos [2015.01]"
+  },
+  {
+    "code": "H01Q 5/385",
+    "description": "••••••Dos o más elementos parásitos [2015.01]"
+  },
+  {
+    "code": "H01Q 5/392",
+    "description": "••••••los elementos parásitos tienen características de banda dual \"dual-band\" o de multibanda \"multi-band\" [2015.01]"
+  },
+  {
+    "code": "H01Q 5/40",
+    "description": "••Estructuras imbricadas o intercaladas; Disposiciones combinadas o acopladas electromagneticamente, p. ej. comprendiendo dos o más elementos radiantes de alimentación no conectados [2015.01]"
+  },
+  {
+    "code": "H01Q 5/42",
+    "description": "••••usando dos o más arrays imbricados (H01Q 5/49 tiene prioridad) [2015.01]"
+  },
+  {
+    "code": "H01Q 5/45",
+    "description": "••••usando dos o más alimentaciones en asociación con un dispositivo común de reflexión, difracción o refracción [2015.01]"
+  },
+  {
+    "code": "H01Q 5/47",
+    "description": "••••••con una disposición coaxial de las alimentaciones [2015.01]"
+  },
+  {
+    "code": "H01Q 5/48",
+    "description": "••••Combinaciones de dos o más antenas de tipo dipolo [2015.01]"
+  },
+  {
+    "code": "H01Q 5/49",
+    "description": "••••••con elementos parásitos usados con otros fines que para banda dual \"dual-band\" o multibanda \"multi-band\", p. ej. antenas Yagi imbricadas [2015.01]"
+  },
+  {
+    "code": "H01Q 5/50",
+    "description": "••Disposiciones de alimentación o ajuste para el funcionamiento en banda ancha o multibanda [2015.01]"
+  },
+  {
+    "code": "H01Q 5/55",
+    "description": "••••para antenas de bocina o de guía de ondas [2015.01]"
+  },
+  {
+    "code": "H01Q 7/00",
+    "description": "Antenas de cuadro que tienen una distribución de corriente sensiblemente uniforme y un diagrama de radiación direccional perpendicular al plano del cuadro [2006.01]"
+  },
+  {
+    "code": "H01Q 7/02",
+    "description": "••Antenas plegables; Antenas retráctiles [2006.01]"
+  },
+  {
+    "code": "H01Q 7/04",
+    "description": "••Antenas blindadas (H01Q 7/02, H01Q 7/06 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H01Q 7/06",
+    "description": "••con núcleo de material ferromagnético (H01Q 7/02 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01Q 7/08",
+    "description": "••••Barras de ferrita o barras alargadas análogas [2006.01]"
+  },
+  {
+    "code": "H01Q 9/00",
+    "description": "Antenas eléctricamente cortas teniendo unas dimensiones no superiores a dos veces la longitud de onda y estando constituidas por elementos radiantes conductores activos [2006.01]"
+  },
+  {
+    "code": "H01Q 9/02",
+    "description": "••Antenas no resonantes [2006.01]"
+  },
+  {
+    "code": "H01Q 9/04",
+    "description": "••Antenas resonantes [2006.01]"
+  },
+  {
+    "code": "H01Q 9/06",
+    "description": "••••Detalles [2006.01]"
+  },
+  {
+    "code": "H01Q 9/08",
+    "description": "••••••Cajas de unión especialmente adaptadas para soportar las extremidades adyacentes de elementos rígidos dispuestos sobre la misma línea [2006.01]"
+  },
+  {
+    "code": "H01Q 9/10",
+    "description": "••••••Cajas de unión especialmente adaptadas para soportar las extremidades de elementos divergentes [2006.01]"
+  },
+  {
+    "code": "H01Q 9/12",
+    "description": "••••••••adaptadas para ajustar un ángulo entre los elementos [2006.01]"
+  },
+  {
+    "code": "H01Q 9/14",
+    "description": "••••••Longitud de un elemento o de elementos regulables (elementos telescópicos H01Q 1/10) [2006.01]"
+  },
+  {
+    "code": "H01Q 9/16",
+    "description": "••••con alimentación intermedia entre las extremidades de la antena, p. ej. dipolo alimentado por el centro (H01Q 9/44 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01Q 9/18",
+    "description": "••••••Disposición vertical de la antena [2006.01]"
+  },
+  {
+    "code": "H01Q 9/20",
+    "description": "••••••Dos elementos activos esencialmente rectilíneos sobre la misma línea; Elementos activos únicos sensiblemente rectilíneos (H01Q 9/28 con prioridad) [2006.01]"
+  },
+  {
+    "code": "H01Q 9/22",
+    "description": "••••••••Varillas rígidas o elementos tubulares equivalentes [2006.01]"
+  },
+  {
+    "code": "H01Q 9/24",
+    "description": "••••••••Dispositivos de alimentación en paralelo para elementos unifilares, p. ej. adaptación delta [2006.01]"
+  },
+  {
+    "code": "H01Q 9/26",
+    "description": "••••••con un elemento o elementos plegados, estando las partes plegadas espaciadas la una de la otra en una pequeña fracción de la longitud de onda emitida (antenas de cuadro resonantes H01Q 7/00) [2006.01]"
+  },
+  {
+    "code": "H01Q 9/27",
+    "description": "••••••••Antenas en espiral [2006.01]"
+  },
+  {
+    "code": "H01Q 9/28",
+    "description": "••••••Elementos cónicos, cilíndricos, en forma de jaula, de cinta, de enrejado o elementos análogos que tienen una superficie de radiación extendida; Elementos que comprenden dos superficies cónicas que tienen ejes colineales y vértices adyacentes, estando alimentados por líneas de transmisión de dos conductores (cuernos o bocas de guías de ondas H01Q 13/00; antenas de ranura H01Q 13/00) [2006.01]"
+  },
+  {
+    "code": "H01Q 9/30",
+    "description": "••••con alimentación en la extremidad de un elemento activo alargado, p. ej. unipolo (H01Q 9/44 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01Q 9/32",
+    "description": "••••••Disposición vertical del elemento (H01Q 9/40 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01Q 9/34",
+    "description": "••••••••Mástiles, torres de antena, tirante de antenas o análogos [2006.01]"
+  },
+  {
+    "code": "H01Q 9/36",
+    "description": "••••••••con carga en la punta [2006.01]"
+  },
+  {
+    "code": "H01Q 9/38",
+    "description": "••••••••con contrapeso (con contrapesos que tienen elementos alargados en el mismo plano que el elemento activo H01Q 9/44) [2006.01]"
+  },
+  {
+    "code": "H01Q 9/40",
+    "description": "••••••Elemento que tiene una superficie radiante extendida [2006.01]"
+  },
+  {
+    "code": "H01Q 9/42",
+    "description": "••••••con elementos plegados, estando las partes plegadas espaciadas la una de la otra en una pequeña fracción de la longitud de onda emitida [2006.01]"
+  },
+  {
+    "code": "H01Q 9/43",
+    "description": "••••••••Antenas cimitarra [2006.01]"
+  },
+  {
+    "code": "H01Q 9/44",
+    "description": "••••con una pluralidad de elementos lineales divergentes, p. ej. dipolo en V, antena en X; con una pluralidad de elementos que tienen partes sensiblemente rectilíneas, mutuamente inclinadas (combinaciones de dos o más elementos activos H01Q 21/00; antenas en torniquete H01Q 21/26) [2006.01]"
+  },
+  {
+    "code": "H01Q 9/46",
+    "description": "••••••con elementos rígidos divergentes a partir del mismo punto [2006.01]"
+  },
+  {
+    "code": "H01Q 11/00",
+    "description": "Antenas eléctricamente largas, teniendo dimensiones superiores a dos veces la longitud de onda más corta emitida y constituidas por elementos radiantes conductores activos (antenas guía de ondas con ondas de fuga, antenas de ranuras H01Q 13/00) [2006.01]"
+  },
+  {
+    "code": "H01Q 11/02",
+    "description": "••Antenas no resonantes, p. ej. antenas de onda progresiva (antenas Yagi H01Q 19/30) [2006.01]"
+  },
+  {
+    "code": "H01Q 11/04",
+    "description": "••••con partes acodadas, dobladas, conformadas, blindadas, o teniendo una carga eléctrica para obtener en la radiación la relación de fase deseada entre dos secciones escogidas de la antena (H01Q 11/06-H01Q 11/10 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01Q 11/06",
+    "description": "••••Antenas rómbicas; Antenas en V [2006.01]"
+  },
+  {
+    "code": "H01Q 11/08",
+    "description": "••••Antenas helicoidales [2006.01]"
+  },
+  {
+    "code": "H01Q 11/10",
+    "description": "••••Antenas de variaciones periódicas o logarítmicas (H01Q 11/08 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01Q 11/12",
+    "description": "••Antenas resonantes [2006.01]"
+  },
+  {
+    "code": "H01Q 11/14",
+    "description": "••••con partes acodadas, dobladas, conformadas o blindadas o con impedancias de fase para obtener, en la radiación, la relación de fases deseada entre secciones escogidas de la antena, o para obtener los efectos de polarización deseados (H01Q 11/20 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01Q 11/16",
+    "description": "••••••donde las secciones escogidas son colineales [2006.01]"
+  },
+  {
+    "code": "H01Q 11/18",
+    "description": "••••••donde las secciones escogidas están espaciadas paralelamente [2006.01]"
+  },
+  {
+    "code": "H01Q 11/20",
+    "description": "••••Antenas en V [2006.01]"
+  },
+  {
+    "code": "H01Q 13/00",
+    "description": "Cuernos o bocas de guía de onda; Antenas de ranura; Antenas guía de onda con ondas de fuga; Estructuras equivalentes que producen una radiación a lo largo del trayecto de la onda guiada [2006.01]"
+  },
+  {
+    "code": "H01Q 13/02",
+    "description": "••Cuernos de guía de ondas [2006.01]"
+  },
+  {
+    "code": "H01Q 13/04",
+    "description": "••••Cuernos bicónicos (dipolos bicónicos que tienen dos superficies cónicas con el mismo eje y opuestos por el vértice, y alimentados por una línea de transmisión de dos conductores H01Q 9/28) [2006.01]"
+  },
+  {
+    "code": "H01Q 13/06",
+    "description": "••Terminaciones de guías de ondas (cuernos H01Q 13/02) [2006.01]"
+  },
+  {
+    "code": "H01Q 13/08",
+    "description": "••Terminaciones radiantes de líneas de transmisión de microondas de dos conductores, p. ej. de líneas coaxiales, o líneas micro-rayadas [2006.01]"
+  },
+  {
+    "code": "H01Q 13/10",
+    "description": "••Antenas de ranura resonantes [2006.01]"
+  },
+  {
+    "code": "H01Q 13/12",
+    "description": "••••Antenas cilíndricas de ranuras longitudinales; Estructuras equivalentes [2006.01]"
+  },
+  {
+    "code": "H01Q 13/14",
+    "description": "••••••Antenas cilíndricas en esqueleto [2006.01]"
+  },
+  {
+    "code": "H01Q 13/16",
+    "description": "••••Antenas de ranuras plegadas [2006.01]"
+  },
+  {
+    "code": "H01Q 13/18",
+    "description": "••••estando la ranura adosada o formada por, una pared límite de una cavidad resonante (antenas cilíndricas de ranuras longitudinales H01Q 13/12) [2006.01]"
+  },
+  {
+    "code": "H01Q 13/20",
+    "description": "••Antenas guía de ondas no resonante con ondas de fuga o antenas constituidas por una línea de transmisión; Estructuras equivalentes que producen una radiación a lo largo del trayecto de la onda guiada [2006.01]"
+  },
+  {
+    "code": "H01Q 13/22",
+    "description": "••••Ranura longitudinal en la pared límite de la guía de onda o de una línea de transmisión [2006.01]"
+  },
+  {
+    "code": "H01Q 13/24",
+    "description": "••••constituido por una varilla o tubo dieléctrico o ferromagnético (H01Q 13/28 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01Q 13/26",
+    "description": "••••Guía de onda de superficie constituida por un solo conductor, p. ej. bandas conductoras [2006.01]"
+  },
+  {
+    "code": "H01Q 13/28",
+    "description": "••••que comprenden elementos con discontinuidades eléctricas y espaciados en la dirección de propagación de la onda, p. ej. elementos dieléctricos, elementos conductores que forman un dieléctrico artificial [2006.01]"
+  },
+  {
+    "code": "H01Q 15/00",
+    "description": "Dispositivos para la reflexión, refracción, difracción o la polarización de las ondas radiadas por una antena, p. ej. dispositivos cuasi ópticos (variables con el objeto de modificar la directividad H01Q 3/00; disposiciones de tales dispositivos para la conducción de ondas H01P 3/20; variables con el objeto de obtener un efecto de modulación H03C 7/02) [2006.01]"
+  },
+  {
+    "code": "H01Q 15/02",
+    "description": "••Dispositivos de refracción o de difracción, p. ej. lentes, prismas [2006.01]"
+  },
+  {
+    "code": "H01Q 15/04",
+    "description": "••••comprendiendo uno o más canales guía de ondas limitados por superficies conductoras sensiblemente perpendiculares al vector de campo eléctrico de la onda, p. ej. lente guía de ondas de placas paralelas [2006.01]"
+  },
+  {
+    "code": "H01Q 15/06",
+    "description": "••••teniendo una pluralidad de canales guía de ondas de diferentes longitudes [2006.01]"
+  },
+  {
+    "code": "H01Q 15/08",
+    "description": "••••constituidos por un material dieléctrico sólido [2006.01]"
+  },
+  {
+    "code": "H01Q 15/10",
+    "description": "••••comprendiendo una red tridimensional de impedancias discontinuas, p. ej. agujeros en una superficie conductora o discos conductores formando un dieléctrico artificial [2006.01]"
+  },
+  {
+    "code": "H01Q 15/12",
+    "description": "••••funcionando también como filtro de polarización [2006.01]"
+  },
+  {
+    "code": "H01Q 15/14",
+    "description": "••Superficies reflectoras; Estructuras equivalentes [2006.01]"
+  },
+  {
+    "code": "H01Q 15/16",
+    "description": "••••curvadas según dos dimensiones, p. ej. paraboloidal [2006.01]"
+  },
+  {
+    "code": "H01Q 15/18",
+    "description": "••••comprendiendo una pluralidad de superficies inclinadas las unas en relación con las otras, p. ej. reflector trirrectángulo [2006.01]"
+  },
+  {
+    "code": "H01Q 15/20",
+    "description": "••••••Reflectores plegables [2006.01]"
+  },
+  {
+    "code": "H01Q 15/22",
+    "description": "••••funcionando también como filtro de polarización [2006.01]"
+  },
+  {
+    "code": "H01Q 15/23",
+    "description": "••Combinaciones de superficies reflectantes con dispositivos de refracción o de difracción [2006.01]"
+  },
+  {
+    "code": "H01Q 15/24",
+    "description": "••Dispositivos polarizantes; Filtros de polarización (H01Q 15/12, H01Q 15/22 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01Q 17/00",
+    "description": "Dispositivos para absorber las ondas radiadas por una antena; Combinaciones de tales dispositivos con elementos o sistemas de antenas activas [2006.01]"
+  },
+  {
+    "code": "H01Q 19/00",
+    "description": "Combinaciones de elementos activos primarios de antenas con dispositivos secundarios, p. ej. con dispositivos cuasi ópticos, para dar a la antena una característica direccional deseada [2006.01]"
+  },
+  {
+    "code": "H01Q 19/02",
+    "description": "••Detalles [2006.01]"
+  },
+  {
+    "code": "H01Q 19/04",
+    "description": "••••Medios para plegar las antenas en H o las antenas Yagi [2006.01]"
+  },
+  {
+    "code": "H01Q 19/06",
+    "description": "••utilizando dispositivos de refracción o de difracción, p. ej. lentes [2006.01]"
+  },
+  {
+    "code": "H01Q 19/08",
+    "description": "••••para modificar el diagrama de radiación de un cuerno radiante en el cual está localizado [2006.01]"
+  },
+  {
+    "code": "H01Q 19/09",
+    "description": "••••donde el elemento activo primario está recubierto o envuelto de un material dieléctrico o magnético (material protector H01Q 1/40; variando las características eléctricas o magnéticas de los dispositivos refractores o difractores H01Q 3/44) [2006.01]"
+  },
+  {
+    "code": "H01Q 19/10",
+    "description": "••utilizando superficies reflectantes [2006.01]"
+  },
+  {
+    "code": "H01Q 19/12",
+    "description": "••••donde las superficies son cóncavas (H01Q 19/18 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01Q 19/13",
+    "description": "••••••siendo la fuente radiante primaria un elemento radiante único, p. ej. un dipolo, una ranura, una terminación de guía de ondas (H01Q 19/15 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01Q 19/15",
+    "description": "••••••siendo la fuente radiante primaria una fuente lineal, p. ej. una antena de ondas de fuga [2006.01]"
+  },
+  {
+    "code": "H01Q 19/17",
+    "description": "••••••la fuente radiante primaria comprende varios elementos radiantes (H01Q 19/15, H01Q 25/00 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H01Q 19/18",
+    "description": "••••teniendo dos o más superficies reflectantes (H01Q 19/20 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01Q 19/185",
+    "description": "••••••donde las superficies son planas [2006.01]"
+  },
+  {
+    "code": "H01Q 19/19",
+    "description": "••••••comprendiendo una superficie reflectante principal cóncava asociada a una superficie reflectante auxiliar [2006.01]"
+  },
+  {
+    "code": "H01Q 19/195",
+    "description": "••••••••donde la superficie reflectante se comporta tambión como un filtro de polarización o como un dispositivo de polarización [2006.01]"
+  },
+  {
+    "code": "H01Q 19/20",
+    "description": "••produciendo un haz en forma de lápiz por dos dispositivos de focalización cilíndricos donde las líneas focales están dispuestas ortogonalmente [2006.01]"
+  },
+  {
+    "code": "H01Q 19/22",
+    "description": "••utilizando un dispositivo secundario constituido por un solo elemento conductor sensiblemente rectilíneo [2006.01]"
+  },
+  {
+    "code": "H01Q 19/24",
+    "description": "••••siendo el elemento activo primario sensiblemente rectilíneo y estando alimentado por su centro, p. ej. antena H [2006.01]"
+  },
+  {
+    "code": "H01Q 19/26",
+    "description": "••••estando el elemento activo primario alargado y alimentado por una extremidad [2006.01]"
+  },
+  {
+    "code": "H01Q 19/28",
+    "description": "••utilizando un dispositivo secundario constituido por varios elementos conductores sensiblemente rectilíneos (antenas con variaciones periódicas o logarítmicas H01Q 11/10; constituyendo una superficie reflectante H01Q 19/10) [2006.01]"
+  },
+  {
+    "code": "H01Q 19/30",
+    "description": "••••siendo el elemento activo primario sensiblemente rectilíneo y estando alimentado por el centro, p. ej. antena Yagi [2006.01]"
+  },
+  {
+    "code": "H01Q 19/32",
+    "description": "••••estando el elemento activo primario alargado y alimentado por su extremidad [2006.01]"
+  },
+  {
+    "code": "H01Q 21/00",
+    "description": "Sistemas o redes de antenas (disposiciones para cambiar o variar la orientación o forma del diagrama direccional de las ondas radiadas por una antena o sistema de antenas H01Q 3/00) [2006.01]"
+  },
+  {
+    "code": "H01Q 21/06",
+    "description": "••Redes de unidades de antenas, de la misma polarización, excitadas individualmente y espaciadas entre ellas [2006.01]"
+  },
+  {
+    "code": "H01Q 21/08",
+    "description": "••••estando las unidades espaciadas a lo largo del trayecto rectilíneo o adyacente a éste [2006.01]"
+  },
+  {
+    "code": "H01Q 21/10",
+    "description": "••••••Disposiciones sobre una misma línea de unidades conductoras sensiblemente rectilíneas y alargadas [2006.01]"
+  },
+  {
+    "code": "H01Q 21/12",
+    "description": "••••••Disposiciones paralelas de unidades conductoras sensiblemente rectilíneas y alargadas (antenas de ondas progresivas comprendiendo una línea de transmisión cargada con elementos transversales H01Q 11/02; antenas Yagi H01Q 19/30) [2006.01]"
+  },
+  {
+    "code": "H01Q 21/14",
+    "description": "••••••••Antenas Adcock [2006.01]"
+  },
+  {
+    "code": "H01Q 21/16",
+    "description": "••••••••••tipo U [2006.01]"
+  },
+  {
+    "code": "H01Q 21/18",
+    "description": "••••••••••tipo H [2006.01]"
+  },
+  {
+    "code": "H01Q 21/20",
+    "description": "••••estando las unidades espaciadas a lo largo de un trayecto curvilíneo o adyacente a éste [2006.01]"
+  },
+  {
+    "code": "H01Q 21/22",
+    "description": "••••Unidades de antenas de la red que están excitadas no uniformemente en amplitud o en fase, p. ej. redes binómicas, redes Con variación progresiva de la excitación [2006.01]"
+  },
+  {
+    "code": "H01Q 21/24",
+    "description": "••Combinaciones de unidades de antenas polarizadas en direcciones diferentes para emitir o recibir ondas polarizadas circularmente o elípticamente u ondas polarizadas linealmente en cualquier dirección [2006.01]"
+  },
+  {
+    "code": "H01Q 21/26",
+    "description": "••••Antenas en torniquete o similares comprendiendo tres o más elementos alargados dispuestos radial y simétricamente en un plano horizontal con relación a un centro común [2006.01]"
+  },
+  {
+    "code": "H01Q 21/28",
+    "description": "••Combinaciones de unidades o sistemas de antenas sustancialmente independientes y sin interacción entre ellas [2006.01]"
+  },
+  {
+    "code": "H01Q 21/29",
+    "description": "••Combinaciones de unidades de antenas de tipos diferentes que actúan las unas sobre las otras para dar una característica direccional deseada (H01Q 25/00 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01Q 21/30",
+    "description": "••Combinaciones de unidades de antenas separadas funcionando en diferentes bandas de frecuencias y conectadas a un sistema de alimentación común [2006.01]"
+  },
+  {
+    "code": "H01Q 23/00",
+    "description": "Antenas que tienen circuitos o elementos de circuito activos que están integrados o ligados a ellos [2006.01]"
+  },
+  {
+    "code": "H01Q 25/00",
+    "description": "Antenas o sistemas de antenas que suministran al menos dos diagramas de radiación (disposiciones para hacer variar o cambiar la orientación o la forma del diagrama direccional H01Q 3/00) [2006.01]"
+  },
+  {
+    "code": "H01Q 25/02",
+    "description": "••que suministran diagramas de suma y de diferencia (H01Q 25/04 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01Q 25/04",
+    "description": "••Antenas multimodo [2006.01]"
+  }
+]

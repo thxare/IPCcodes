@@ -1,0 +1,686 @@
+[
+  {
+    "code": "A61P 1/00",
+    "description": "Medicamentos para el tratamiento de trastornos del tracto alimentario o del aparato digestivo [2006.01]"
+  },
+  {
+    "code": "A61P 1/02",
+    "description": "••Preparaciones estomatológicas, p.ej. medicamentos para caries, aftas, periodontitis [2006.01]"
+  },
+  {
+    "code": "A61P 1/04",
+    "description": "••para úlceras, gastritis o reflujo esofágico p.ej. antiácidos, inhibidores de la secreción ácida, protectores de la mucosa [2006.01]"
+  },
+  {
+    "code": "A61P 1/06",
+    "description": "••de disquinesias esofágicas [2006.01]"
+  },
+  {
+    "code": "A61P 1/08",
+    "description": "••para las náuseas, cinetosis o vértigos; Antieméticos [2006.01]"
+  },
+  {
+    "code": "A61P 1/10",
+    "description": "••Laxantes [2006.01]"
+  },
+  {
+    "code": "A61P 1/12",
+    "description": "••Antidiarreicos [2006.01]"
+  },
+  {
+    "code": "A61P 1/14",
+    "description": "••Eupépticos, p.ej. ácidos, enzimas, estimulantes del apetito, antidispépsicos, tónicos, antiflatulencias [2006.01]"
+  },
+  {
+    "code": "A61P 1/16",
+    "description": "••para el tratamiento de trastornos de la vesícula biliar o del hígado, p.ej.protectores hepáticos, colagogos, litolíticos [2006.01]"
+  },
+  {
+    "code": "A61P 1/18",
+    "description": "••para el tratamiento de trastornos pancreáticos, p.ej. enzimas pancreáticas [2006.01]"
+  },
+  {
+    "code": "A61P 3/00",
+    "description": "Medicamentos para el tratamiento de trastornos del metabolismo (de la sangre o de fluido extracelular A61P 7/00) [2006.01]"
+  },
+  {
+    "code": "A61P 3/02",
+    "description": "••Nutrientes, p.ej. vitaminas, minerales [2006.01]"
+  },
+  {
+    "code": "A61P 3/04",
+    "description": "••Anorexiantes; Medicamentos para el tratamiento de la obesidad [2006.01]"
+  },
+  {
+    "code": "A61P 3/06",
+    "description": "••Antihiperlipidémicos [2006.01]"
+  },
+  {
+    "code": "A61P 3/08",
+    "description": "••para la homeostasia de la glucosa (hormonas pancreáticas A61P 5/48) [2006.01]"
+  },
+  {
+    "code": "A61P 3/10",
+    "description": "••••para la hiperglucemia, p.ej. antidiabéticos [2006.01]"
+  },
+  {
+    "code": "A61P 3/12",
+    "description": "••para la homeostasia de los electrolitos [2006.01]"
+  },
+  {
+    "code": "A61P 3/14",
+    "description": "••••para la homeostasia del calcio (vitamina D A61P 3/02; hormonas paratiroideas A61P 5/18; calcitonina A61P 5/22; osteoporosis A61P 19/10; metástasis oseas A61P 35/04) [2006.01]"
+  },
+  {
+    "code": "A61P 5/00",
+    "description": "Medicamentos para el tratamiento de trastornos del sistema endocrino [2006.01]"
+  },
+  {
+    "code": "A61P 5/02",
+    "description": "••de las hormonas hipotalámicas, p.ej. TRH, GnRH, CRH, GRH, somatostatina [2006.01]"
+  },
+  {
+    "code": "A61P 5/04",
+    "description": "••••para disminuir, bloquear o antagonizar la actividad de las hormonas hipotalámicas [2006.01]"
+  },
+  {
+    "code": "A61P 5/06",
+    "description": "••de las hormonas del lóbulo anterior de la hipófisis, p.ej. TSH, ACTH, FSH, LH, PRL, GH [2006.01]"
+  },
+  {
+    "code": "A61P 5/08",
+    "description": "••••para disminuir, bloquear o antagonizar la actividad de las hormonas del lóbulo anterior de la hipófisis [2006.01]"
+  },
+  {
+    "code": "A61P 5/10",
+    "description": "••de las hormonas del lóbulo posterior de la hipófisis, p.ej. oxitocina, ADH [2006.01]"
+  },
+  {
+    "code": "A61P 5/12",
+    "description": "••••para disminuir, bloquear o antagonizar la actividad de las hormonas del lóbulo posterior de la hipófisis [2006.01]"
+  },
+  {
+    "code": "A61P 5/14",
+    "description": "••de las hormonas tiroideas, p. ej. T3, T4 [2006.01]"
+  },
+  {
+    "code": "A61P 5/16",
+    "description": "••••para disminuir, bloquear o antagonizar la actividad de las hormonas tiroideas [2006.01]"
+  },
+  {
+    "code": "A61P 5/18",
+    "description": "••de las hormonas paratiroideas [2006.01]"
+  },
+  {
+    "code": "A61P 5/20",
+    "description": "••••para disminuir, bloquear o antagonizar la actividad de la PTH [2006.01]"
+  },
+  {
+    "code": "A61P 5/22",
+    "description": "••••para disminuir, bloquear o antagonizar la actividad de la calcitonina [2006.01]"
+  },
+  {
+    "code": "A61P 5/24",
+    "description": "••de las hormonas sexuales [2006.01]"
+  },
+  {
+    "code": "A61P 5/26",
+    "description": "••••Andrógenos [2006.01]"
+  },
+  {
+    "code": "A61P 5/28",
+    "description": "••••Antiandrógenos [2006.01]"
+  },
+  {
+    "code": "A61P 5/30",
+    "description": "••••Estrógenos [2006.01]"
+  },
+  {
+    "code": "A61P 5/32",
+    "description": "••••Antiestrógenos [2006.01]"
+  },
+  {
+    "code": "A61P 5/34",
+    "description": "••••Progestágenos [2006.01]"
+  },
+  {
+    "code": "A61P 5/36",
+    "description": "••••Antiprogestágenos [2006.01]"
+  },
+  {
+    "code": "A61P 5/38",
+    "description": "••de las hormonas suprarrenales [2006.01]"
+  },
+  {
+    "code": "A61P 5/40",
+    "description": "••••Mineralocorticodes, p. ej. aldosterona; Medicamentos que aumentan o potencian la actividad de los mineralocorticoides [2006.01]"
+  },
+  {
+    "code": "A61P 5/42",
+    "description": "••••para disminuir, bloquear o antagonizar la actividad de los mineralocorticoides [2006.01]"
+  },
+  {
+    "code": "A61P 5/44",
+    "description": "••••Glucocorticoides; Medicamentos para aumentar o potenciar la actividad de los glucocorticoides [2006.01]"
+  },
+  {
+    "code": "A61P 5/46",
+    "description": "••••para disminuir, bloquear o antagonizar la actividad de los glucocorticoides [2006.01]"
+  },
+  {
+    "code": "A61P 5/48",
+    "description": "••de las hormonas pancreáticas [2006.01]"
+  },
+  {
+    "code": "A61P 5/50",
+    "description": "••••para aumentar o potenciar la actividad de la insulina [2006.01]"
+  },
+  {
+    "code": "A61P 7/00",
+    "description": "Medicamentos para el tratamiento de trastornos de la sangre o del fluido extracelular [2006.01]"
+  },
+  {
+    "code": "A61P 7/02",
+    "description": "••Agentes antitrombóticos; Anticoagulantes; Inhibidores de la agregación plaquetaria [2006.01]"
+  },
+  {
+    "code": "A61P 7/04",
+    "description": "••Antihemorrágicos; Procoagulantes; Hemostáticos; Antifibrinolíticos [2006.01]"
+  },
+  {
+    "code": "A61P 7/06",
+    "description": "••Antianémicos [2006.01]"
+  },
+  {
+    "code": "A61P 7/08",
+    "description": "••Sustitutos del plasma; Soluciones de perfusión; para diálisis y hemodiálisis; Medicamentos para el tratamiento de trastornos electrolíticos o de equilibrio ácido-base, p.ej. choque hipovolémico (lágrimas artificiales A61P 27/04) [2006.01]"
+  },
+  {
+    "code": "A61P 7/10",
+    "description": "••Agentes antiedematosos; Diureticos [2006.01]"
+  },
+  {
+    "code": "A61P 7/12",
+    "description": "••Antidiuréticos, p. ej. medicamentos para la diabetes insipida (ADH A61P 5/10) [2006.01]"
+  },
+  {
+    "code": "A61P 9/00",
+    "description": "Medicamentos para el tratamiento de trastornos en el aparato cardiovascular [2006.01]"
+  },
+  {
+    "code": "A61P 9/02",
+    "description": "••Cardiotónicos no específicos, p. ej medicamentos para el tratamiento del síncope, antihipotensivos [2006.01]"
+  },
+  {
+    "code": "A61P 9/04",
+    "description": "••Agentes inotrópicos, p. ej. estimulantes de la contracción cardíaca; Medicamentos para el tratamiento de la insuficiencia cardíaca [2006.01]"
+  },
+  {
+    "code": "A61P 9/06",
+    "description": "••Antiarrítmicos [2006.01]"
+  },
+  {
+    "code": "A61P 9/08",
+    "description": "••Vasodilatadores para indicaciones múltiples [2006.01]"
+  },
+  {
+    "code": "A61P 9/10",
+    "description": "••para enfermedades isquémicas o ateroscleróticas, p.ej. medicamentos antianginosos, vasodilatadores coronarios,medicamentos para el tratamiento del infarto de miocardio, de la retinopatía, de la insuficiencia cerebrovascular, de la arterioesclerosis renal [2006.01]"
+  },
+  {
+    "code": "A61P 9/12",
+    "description": "••Antihipertensivos [2006.01]"
+  },
+  {
+    "code": "A61P 9/14",
+    "description": "••Vasoprotectores; Antihemorroidales; Medicamentos para el tratamiento de las varices; Estabilizadores capilares [2006.01]"
+  },
+  {
+    "code": "A61P 11/00",
+    "description": "Medicamentos para el tratamiento de trastornos del aparato respiratorio [2006.01]"
+  },
+  {
+    "code": "A61P 11/02",
+    "description": "••Agentes nasales, p. ej. descongestivos [2006.01]"
+  },
+  {
+    "code": "A61P 11/04",
+    "description": "••para patologías de la garganta [2006.01]"
+  },
+  {
+    "code": "A61P 11/06",
+    "description": "••Antiasmáticos [2006.01]"
+  },
+  {
+    "code": "A61P 11/08",
+    "description": "••Broncodilatadores [2006.01]"
+  },
+  {
+    "code": "A61P 11/10",
+    "description": "••Expectorantes [2006.01]"
+  },
+  {
+    "code": "A61P 11/12",
+    "description": "••Mucolíticos [2006.01]"
+  },
+  {
+    "code": "A61P 11/14",
+    "description": "••Agentes antitusígenos [2006.01]"
+  },
+  {
+    "code": "A61P 11/16",
+    "description": "••Analépticos respiratorios centrales [2006.01]"
+  },
+  {
+    "code": "A61P 13/00",
+    "description": "Medicamentos para el tratamiento del aparato urinario (diuréticos A61P 7/10) [2006.01]"
+  },
+  {
+    "code": "A61P 13/02",
+    "description": "••de la orina o del tracto urinario p.ej.acidificadores de la orina [2006.01]"
+  },
+  {
+    "code": "A61P 13/04",
+    "description": "••para la urolitiasis [2006.01]"
+  },
+  {
+    "code": "A61P 13/06",
+    "description": "••Antiespasmódicos [2006.01]"
+  },
+  {
+    "code": "A61P 13/08",
+    "description": "••de la próstata [2006.01]"
+  },
+  {
+    "code": "A61P 13/10",
+    "description": "••de la vejiga [2006.01]"
+  },
+  {
+    "code": "A61P 13/12",
+    "description": "••de los riñones [2006.01]"
+  },
+  {
+    "code": "A61P 15/00",
+    "description": "Medicamentos para el tratamiento de trastornos genitales o sexuales (para trastornos de las hormonas sexuales A61P 5/24); Anticonceptivos [2006.01]"
+  },
+  {
+    "code": "A61P 15/02",
+    "description": "••para patologías de la vagina [2006.01]"
+  },
+  {
+    "code": "A61P 15/04",
+    "description": "••para inducir el parto o el aborto; Uterotónicos [2006.01]"
+  },
+  {
+    "code": "A61P 15/06",
+    "description": "••Antiabortivos; Inhibidores del parto [2006.01]"
+  },
+  {
+    "code": "A61P 15/08",
+    "description": "••para los trastornos de las gónadas o para favorecer la fertilidad, p. ej. inductores de la ovulación o de la espermatogénesis [2006.01]"
+  },
+  {
+    "code": "A61P 15/10",
+    "description": "••para la impotencia [2006.01]"
+  },
+  {
+    "code": "A61P 15/12",
+    "description": "••para la menopausia [2006.01]"
+  },
+  {
+    "code": "A61P 15/14",
+    "description": "••para los trastornos de la lactancia, p. ej. galactorrea [2006.01]"
+  },
+  {
+    "code": "A61P 15/16",
+    "description": "••Anticonceptivos masculinos [2006.01]"
+  },
+  {
+    "code": "A61P 15/18",
+    "description": "••Anticonceptivos femeninos [2006.01]"
+  },
+  {
+    "code": "A61P 17/00",
+    "description": "Medicamentos para el tratamiento de problemas dermatológicos [2006.01]"
+  },
+  {
+    "code": "A61P 17/02",
+    "description": "••para tratar heridas, úlceras, quemaduras, cicatrices, queloides o similares [2006.01]"
+  },
+  {
+    "code": "A61P 17/04",
+    "description": "••Antipruriginosos [2006.01]"
+  },
+  {
+    "code": "A61P 17/06",
+    "description": "••para el tratamiento de la psoriasis [2006.01]"
+  },
+  {
+    "code": "A61P 17/08",
+    "description": "••Antiseborreicos [2006.01]"
+  },
+  {
+    "code": "A61P 17/10",
+    "description": "••Preparados contra el acné [2006.01]"
+  },
+  {
+    "code": "A61P 17/12",
+    "description": "••Queratolíticos, p.ej. preparaciones antiverrugas o callicidas [2006.01]"
+  },
+  {
+    "code": "A61P 17/14",
+    "description": "••para la calvicie o para la alopecia [2006.01]"
+  },
+  {
+    "code": "A61P 17/16",
+    "description": "••Emolientes y protectors, p. ej. contra la radiación [2006.01]"
+  },
+  {
+    "code": "A61P 17/18",
+    "description": "••Antioxidantes, p.ej. antirradicales (preparaciones para protegerse de los rayos solares A61Q 17/00) [2006.01]"
+  },
+  {
+    "code": "A61P 19/00",
+    "description": "Medicamentos para el tratamiento de problemas del esqueleto [2006.01]"
+  },
+  {
+    "code": "A61P 19/02",
+    "description": "••para problemas de las articulaciones, p.ej. artritis, artrosis [2006.01]"
+  },
+  {
+    "code": "A61P 19/04",
+    "description": "••para problemas inespecíficos del tejido conjuntivo [2006.01]"
+  },
+  {
+    "code": "A61P 19/06",
+    "description": "••Agentes antigotosos, p.ej.agentes antihiperuricémicos o uricosúricos [2006.01]"
+  },
+  {
+    "code": "A61P 19/08",
+    "description": "••para las enfermedades óseas, p.ej. raquitismo, enfermedad de Paget [2006.01]"
+  },
+  {
+    "code": "A61P 19/10",
+    "description": "••••para la osteoporosis [2006.01]"
+  },
+  {
+    "code": "A61P 21/00",
+    "description": "Medicamentos para el tratamiento de trastornos del sistema muscular o neuromuscular [2006.01]"
+  },
+  {
+    "code": "A61P 21/02",
+    "description": "••Relajantes musculares, p.ej. para el tétanos o para los calambres [2006.01]"
+  },
+  {
+    "code": "A61P 21/04",
+    "description": "••para la miastenia grave [2006.01]"
+  },
+  {
+    "code": "A61P 21/06",
+    "description": "••Anabolizantes (andrógenos A61P 5/26) [2006.01]"
+  },
+  {
+    "code": "A61P 23/00",
+    "description": "Anestésicos [2006.01]"
+  },
+  {
+    "code": "A61P 23/02",
+    "description": "••Anestésicos locales [2006.01]"
+  },
+  {
+    "code": "A61P 25/00",
+    "description": "Medicamentos para el tratamiento de trastornos del sistema nervioso [2006.01]"
+  },
+  {
+    "code": "A61P 25/02",
+    "description": "••para neuropatías periféricas [2006.01]"
+  },
+  {
+    "code": "A61P 25/04",
+    "description": "••Analgésicos que actúan sobre el sistema nervioso central, p.ej. opioides [2006.01]"
+  },
+  {
+    "code": "A61P 25/06",
+    "description": "••Agentes contra la migraña [2006.01]"
+  },
+  {
+    "code": "A61P 25/08",
+    "description": "••Antiepilépticos; Anticonvulsivos [2006.01]"
+  },
+  {
+    "code": "A61P 25/10",
+    "description": "••••para el tratamiento del pequeño mal [2006.01]"
+  },
+  {
+    "code": "A61P 25/12",
+    "description": "••••para el tratamiento del gran mal [2006.01]"
+  },
+  {
+    "code": "A61P 25/14",
+    "description": "••para el tratamiento de movimientos anormales, p.ej. corea, disquinesia [2006.01]"
+  },
+  {
+    "code": "A61P 25/16",
+    "description": "••••Medicamentos contra el Parkinson [2006.01]"
+  },
+  {
+    "code": "A61P 25/18",
+    "description": "••Antipsicóticos, es decir, neurolépticos; Medicamentos para el tratamiento de la esquizofrenia o de las fobias [2006.01]"
+  },
+  {
+    "code": "A61P 25/20",
+    "description": "••Hipnóticos; Sedantes [2006.01]"
+  },
+  {
+    "code": "A61P 25/22",
+    "description": "••Anxiolíticos [2006.01]"
+  },
+  {
+    "code": "A61P 25/24",
+    "description": "••Antidepresivos [2006.01]"
+  },
+  {
+    "code": "A61P 25/26",
+    "description": "••Psicoestimulantes, p.ej. nicotina, cocaína [2006.01]"
+  },
+  {
+    "code": "A61P 25/28",
+    "description": "••de los problemas neurodegenerativos del sistema nervioso central, p. ej. noótropos, activadores del conocimiento, medicamentos para el tratamiento del Alzheimer o de otras formas de demencia [2006.01]"
+  },
+  {
+    "code": "A61P 25/30",
+    "description": "••del abuso o de la dependencia [2006.01]"
+  },
+  {
+    "code": "A61P 25/32",
+    "description": "••••del alcohol [2006.01]"
+  },
+  {
+    "code": "A61P 25/34",
+    "description": "••••del tabaco [2006.01]"
+  },
+  {
+    "code": "A61P 25/36",
+    "description": "••••de los opiáceos [2006.01]"
+  },
+  {
+    "code": "A61P 27/00",
+    "description": "Medicamentos para tratar los trastornos de los sentidos [2006.01]"
+  },
+  {
+    "code": "A61P 27/02",
+    "description": "••Agentes oftálmicos [2006.01]"
+  },
+  {
+    "code": "A61P 27/04",
+    "description": "••••Lágrimas artificiales; Soluciones de irrigación [2006.01]"
+  },
+  {
+    "code": "A61P 27/06",
+    "description": "••••Agentes antiglaucoma o mióticos [2006.01]"
+  },
+  {
+    "code": "A61P 27/08",
+    "description": "••••Midriáticos o ciclopléjicos [2006.01]"
+  },
+  {
+    "code": "A61P 27/10",
+    "description": "••••para los problemas de acomodación, p.ej. miopía [2006.01]"
+  },
+  {
+    "code": "A61P 27/12",
+    "description": "••••para las cataratas [2006.01]"
+  },
+  {
+    "code": "A61P 27/14",
+    "description": "••••Descongestivos o antialérgicos [2006.01]"
+  },
+  {
+    "code": "A61P 27/16",
+    "description": "••Otológicos [2006.01]"
+  },
+  {
+    "code": "A61P 29/00",
+    "description": "Agentes analgésicos, antipiréticos o antiinflamatorios que no actúan sobre el sistema nervioso central, p. ej. agentes antirreumáticos; Antiinflamatorios no esteroideos [NSAID] [2006.01]"
+  },
+  {
+    "code": "A61P 29/02",
+    "description": "••sin efecto antiinflamatorio [2006.01]"
+  },
+  {
+    "code": "A61P 31/00",
+    "description": "Antiinfecciosos, es decir antibióticos, antisépticos, quimioterápicos [2006.01]"
+  },
+  {
+    "code": "A61P 31/02",
+    "description": "••Antisépticos locales [2006.01]"
+  },
+  {
+    "code": "A61P 31/04",
+    "description": "••Agentes antibacterianos [2006.01]"
+  },
+  {
+    "code": "A61P 31/06",
+    "description": "••••para la tuberculosis [2006.01]"
+  },
+  {
+    "code": "A61P 31/08",
+    "description": "••••para la lepra [2006.01]"
+  },
+  {
+    "code": "A61P 31/10",
+    "description": "••Antifúngicos [2006.01]"
+  },
+  {
+    "code": "A61P 31/12",
+    "description": "••Antivirales [2006.01]"
+  },
+  {
+    "code": "A61P 31/14",
+    "description": "••••para virus ARN [2006.01]"
+  },
+  {
+    "code": "A61P 31/16",
+    "description": "••••••para virus de la gripe o rinovirus [2006.01]"
+  },
+  {
+    "code": "A61P 31/18",
+    "description": "••••••para el VIH [2006.01]"
+  },
+  {
+    "code": "A61P 31/20",
+    "description": "••••para los virus DNA [2006.01]"
+  },
+  {
+    "code": "A61P 31/22",
+    "description": "••••••para herpesvirus [2006.01]"
+  },
+  {
+    "code": "A61P 33/00",
+    "description": "Agentes antiparasitarios [2006.01]"
+  },
+  {
+    "code": "A61P 33/02",
+    "description": "••Antiprotozoarios, p. ej. para la leishmaniasis, tricomoniasis, toxoplasmosis [2006.01]"
+  },
+  {
+    "code": "A61P 33/04",
+    "description": "••••Amebicidas [2006.01]"
+  },
+  {
+    "code": "A61P 33/06",
+    "description": "••••Contra la malaria [2006.01]"
+  },
+  {
+    "code": "A61P 33/08",
+    "description": "••••para Pneumocystis carinii [2006.01]"
+  },
+  {
+    "code": "A61P 33/10",
+    "description": "••Antihelmínticos [2006.01]"
+  },
+  {
+    "code": "A61P 33/12",
+    "description": "••••Esquistosomicidas [2006.01]"
+  },
+  {
+    "code": "A61P 33/14",
+    "description": "••Ectoparasiticidas, p. ej. escabicidas [2006.01]"
+  },
+  {
+    "code": "A61P 35/00",
+    "description": "Agentes antineoplásicos [2006.01]"
+  },
+  {
+    "code": "A61P 35/02",
+    "description": "••específicos para la leucemia [2006.01]"
+  },
+  {
+    "code": "A61P 35/04",
+    "description": "••específicos para la metástasis [2006.01]"
+  },
+  {
+    "code": "A61P 37/00",
+    "description": "Medicamentos para el tratamiento de problemas inmunológicos o alérgicos [2006.01]"
+  },
+  {
+    "code": "A61P 37/02",
+    "description": "••Inmunomoduladores [2006.01]"
+  },
+  {
+    "code": "A61P 37/04",
+    "description": "••••Inmunoestimulantes [2006.01]"
+  },
+  {
+    "code": "A61P 37/06",
+    "description": "••••Inmunosupresores, p. ej. medicamentos para el tratamiento del rechazo en injertos [2006.01]"
+  },
+  {
+    "code": "A61P 37/08",
+    "description": "••Agentes antialérgicos (agentes antiasmáticos A61P 11/06; antialérgicos oftálmicos A61P 27/14) [2006.01]"
+  },
+  {
+    "code": "A61P 39/00",
+    "description": "Protectores generales o productos antitóxicos [2006.01]"
+  },
+  {
+    "code": "A61P 39/02",
+    "description": "••Antídotos [2006.01]"
+  },
+  {
+    "code": "A61P 39/04",
+    "description": "••Agentes quelantes [2006.01]"
+  },
+  {
+    "code": "A61P 39/06",
+    "description": "••Antirradicales libres o antioxidantes [2006.01]"
+  },
+  {
+    "code": "A61P 41/00",
+    "description": "Medicamentos utilizados en cirugía, p. ej. auxiliares quirúrgicos para prevenir adherencias o para la sustitución del humor vítreo [2006.01]"
+  },
+  {
+    "code": "A61P 43/00",
+    "description": "Medicamentos para usos específicos, no previstos en los grupos A61P 1/00-A61P 41/00 [2006.01]"
+  }
+]

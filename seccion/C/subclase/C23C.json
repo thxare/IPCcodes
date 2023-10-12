@@ -1,0 +1,1194 @@
+[
+  {
+    "code": "C23C 2/00",
+    "description": "Procesos de baño o inmersión en caliente para aplicar el material de revestimiento en estado fundido sin modificar la forma del objeto sumergido; Sus aparatos [2006.01]"
+  },
+  {
+    "code": "C23C 2/02",
+    "description": "••Pretratamiento del material a revestir, p. ej. para el revestimiento de partes determinadas de la superficie (C23C 2/30 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "C23C 2/04",
+    "description": "••caracterizado por el material de revestimiento [2006.01]"
+  },
+  {
+    "code": "C23C 2/06",
+    "description": "••••Zinc o cadmio o sus aleaciones [2006.01]"
+  },
+  {
+    "code": "C23C 2/08",
+    "description": "••••Estaño o sus aleaciones [2006.01]"
+  },
+  {
+    "code": "C23C 2/10",
+    "description": "••••Plomo o sus aleaciones [2006.01]"
+  },
+  {
+    "code": "C23C 2/12",
+    "description": "••••Aluminio o sus aleaciones [2006.01]"
+  },
+  {
+    "code": "C23C 2/14",
+    "description": "••Eliminación del exceso de revestimientos fundidos; Control o regulación del espesor del revestimiento [2006.01]"
+  },
+  {
+    "code": "C23C 2/16",
+    "description": "••••utilizando fluidos a presión, p. ej. por corrientes de aire [2006.01]"
+  },
+  {
+    "code": "C23C 2/18",
+    "description": "••••••Eliminación del exceso del revestimiento fundido de objetos alargados [2006.01]"
+  },
+  {
+    "code": "C23C 2/20",
+    "description": "••••••••Bandas; Placas [2006.01]"
+  },
+  {
+    "code": "C23C 2/22",
+    "description": "••••por raspado, p. ej. por cuchillos [2006.01]"
+  },
+  {
+    "code": "C23C 2/24",
+    "description": "••••utilizando campos magnéticos o eléctricos [2006.01]"
+  },
+  {
+    "code": "C23C 2/26",
+    "description": "••Tratamiento posterior (C23C 2/14 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "C23C 2/28",
+    "description": "••••Tratamiento posterior térmico, p. ej. por tratamiento en un baño de aceite [2006.01]"
+  },
+  {
+    "code": "C23C 2/30",
+    "description": "••Flujos o cubiertas para baños de metal fundido (C23C 2/22 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "C23C 2/32",
+    "description": "••utilizando una energía vibratoria aplicada al baño o al sustrato (C23C 2/14 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "C23C 2/34",
+    "description": "••caracterizados por la forma de material a tratar (C23C 2/14 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "C23C 2/36",
+    "description": "••••Objetos alargados [2006.01]"
+  },
+  {
+    "code": "C23C 2/38",
+    "description": "••••••Hilos; Tubos [2006.01]"
+  },
+  {
+    "code": "C23C 2/40",
+    "description": "••••••Placas; Bandas [2006.01]"
+  },
+  {
+    "code": "C23C 4/00",
+    "description": "Revestimiento por pulverización del material de revestimiento en estado fundido, p. ej. por pulverización a la llama, con plasma o por descarga eléctrica (soldadura de recarga B23K, p. ej. B23K 5/18, B23K 9/04) [2016.01]"
+  },
+  {
+    "code": "C23C 4/01",
+    "description": "••Revestimiento selectivo, p. ej. recubrimiento con patrones, sin pretratamiento del material a ser recubierto [2016.01]"
+  },
+  {
+    "code": "C23C 4/02",
+    "description": "••Pretratamiento del material a revestir, p. ej. por revestimiento de partes determinadas de la superficie [2006.01]"
+  },
+  {
+    "code": "C23C 4/04",
+    "description": "••caracterizado por el material de revestimiento [2006.01]"
+  },
+  {
+    "code": "C23C 4/06",
+    "description": "••••Materiales metálicos [2016.01]"
+  },
+  {
+    "code": "C23C 4/067",
+    "description": "••••••que contienen partículas libres de elementos no metálicos, p. ej. carbono, silicio, boro, fósforo o arsénico [2016.01]"
+  },
+  {
+    "code": "C23C 4/073",
+    "description": "••••••que contienen aleaciones MCrAl o MCrAlY, donde M es níquel, cobalto o hierro, con o sin elementos no metálicos [2016.01]"
+  },
+  {
+    "code": "C23C 4/08",
+    "description": "••••••que contienen únicamente elementos metálicos (C23C 4/073 tiene prioridad) [2016.01]"
+  },
+  {
+    "code": "C23C 4/10",
+    "description": "••••Óxidos, boruros, carburos, nitruros, siliciuros; Sus mezclas [2016.01]"
+  },
+  {
+    "code": "C23C 4/11",
+    "description": "••••••Óxidos [2016.01]"
+  },
+  {
+    "code": "C23C 4/12",
+    "description": "••caracterizado por el método de pulverización [2016.01]"
+  },
+  {
+    "code": "C23C 4/123",
+    "description": "••••Pulverización de metal fundido [2016.01]"
+  },
+  {
+    "code": "C23C 4/126",
+    "description": "••••Pulverización por detonación (proyección térmica) [2016.01]"
+  },
+  {
+    "code": "C23C 4/129",
+    "description": "••••Pulverización a la llama [2016.01]"
+  },
+  {
+    "code": "C23C 4/131",
+    "description": "••••Pulverización de arco de alambre [2016.01]"
+  },
+  {
+    "code": "C23C 4/134",
+    "description": "••••Pulverización de plasma [2016.01]"
+  },
+  {
+    "code": "C23C 4/137",
+    "description": "••••Pulverización en vacío o en una atmósfera inerte [2016.01]"
+  },
+  {
+    "code": "C23C 4/14",
+    "description": "••••para revestir objetos alargados [2016.01]"
+  },
+  {
+    "code": "C23C 4/16",
+    "description": "••••••Hilos; Tubos [2016.01]"
+  },
+  {
+    "code": "C23C 4/18",
+    "description": "••Tratamiento posterior [2006.01]"
+  },
+  {
+    "code": "C23C 6/00",
+    "description": "Revestimiento por colada del material fundido sobre el sustrato [2006.01]"
+  },
+  {
+    "code": "C23C 8/00",
+    "description": "Difusión en estado sólido solamente de elementos no metálicos en la capa superficial de materiales metálicos (difusión del silicio C23C 10/00); Tratamiento químico de la superficie por reacción del material metálico de la superficie y un gas reactivo, quedando en el revestimiento productos de la reacción, p. ej. revestimiento de conversión, pasivación de metales (C23C 14/00 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "C23C 8/02",
+    "description": "••Pretratamiento del material a revestir (C23C 8/04 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "C23C 8/04",
+    "description": "••Tratamiento de partes determinadas de la capa superficial, p. ej. por medio de máscaras [2006.01]"
+  },
+  {
+    "code": "C23C 8/06",
+    "description": "••por medio de gas [2006.01]"
+  },
+  {
+    "code": "C23C 8/08",
+    "description": "••••Tratamiento por un solo elemento [2006.01]"
+  },
+  {
+    "code": "C23C 8/10",
+    "description": "••••••Oxidación [2006.01]"
+  },
+  {
+    "code": "C23C 8/12",
+    "description": "••••••••por medio de ozono u oxígeno [2006.01]"
+  },
+  {
+    "code": "C23C 8/14",
+    "description": "••••••••••Oxidación de la capa superficial de materiales ferrosos [2006.01]"
+  },
+  {
+    "code": "C23C 8/16",
+    "description": "••••••••por medio de compuestos que contienen oxígeno, p. ej. H2O, CO2 [2006.01]"
+  },
+  {
+    "code": "C23C 8/18",
+    "description": "••••••••••Oxidación de la capa superficial de materiales ferrosos [2006.01]"
+  },
+  {
+    "code": "C23C 8/20",
+    "description": "••••••Carburación [2006.01]"
+  },
+  {
+    "code": "C23C 8/22",
+    "description": "••••••••de la capa superficial de materiales ferrosos [2006.01]"
+  },
+  {
+    "code": "C23C 8/24",
+    "description": "••••••Nitruración [2006.01]"
+  },
+  {
+    "code": "C23C 8/26",
+    "description": "••••••••de la capa superficial de materiales ferrosos [2006.01]"
+  },
+  {
+    "code": "C23C 8/28",
+    "description": "••••Tratamiento por varios elementos en una sola etapa [2006.01]"
+  },
+  {
+    "code": "C23C 8/30",
+    "description": "••••••Carbo-nitruración [2006.01]"
+  },
+  {
+    "code": "C23C 8/32",
+    "description": "••••••••de la capa superficial de materiales ferrosos [2006.01]"
+  },
+  {
+    "code": "C23C 8/34",
+    "description": "••••Tratamiento por varios elementos en varias etapas [2006.01]"
+  },
+  {
+    "code": "C23C 8/36",
+    "description": "••••por medio de gases ionizados, p. ej. nitruración iónica [2006.01]"
+  },
+  {
+    "code": "C23C 8/38",
+    "description": "••••••Tratamiento de la capa superficial de materiales ferrosos [2006.01]"
+  },
+  {
+    "code": "C23C 8/40",
+    "description": "••por medio de líquidos, p. ej. por medio de baños de sales, de suspensión en los líquidos [2006.01]"
+  },
+  {
+    "code": "C23C 8/42",
+    "description": "••••Tratamiento por un solo elemento [2006.01]"
+  },
+  {
+    "code": "C23C 8/44",
+    "description": "••••••Carburación [2006.01]"
+  },
+  {
+    "code": "C23C 8/46",
+    "description": "••••••••de la capa superficial de materiales ferrosos [2006.01]"
+  },
+  {
+    "code": "C23C 8/48",
+    "description": "••••••Nitruración [2006.01]"
+  },
+  {
+    "code": "C23C 8/50",
+    "description": "••••••••de la capa superficial de materiales ferrosos [2006.01]"
+  },
+  {
+    "code": "C23C 8/52",
+    "description": "••••Tratamiento por varios elementos en una sola etapa [2006.01]"
+  },
+  {
+    "code": "C23C 8/54",
+    "description": "••••••Carbo-nitruración [2006.01]"
+  },
+  {
+    "code": "C23C 8/56",
+    "description": "••••••••de la capa superficial de materiales ferrosos [2006.01]"
+  },
+  {
+    "code": "C23C 8/58",
+    "description": "••••Tratamiento por varios elementos en varias etapas [2006.01]"
+  },
+  {
+    "code": "C23C 8/60",
+    "description": "••por medio de sólidos, p. ej. polvos, pastas (por medio de suspensiones de sólido en un líquido C23C 8/40) [2006.01]"
+  },
+  {
+    "code": "C23C 8/62",
+    "description": "••••Tratamiento por un solo elemento [2006.01]"
+  },
+  {
+    "code": "C23C 8/64",
+    "description": "••••••Carburación [2006.01]"
+  },
+  {
+    "code": "C23C 8/66",
+    "description": "••••••••de la capa superficial de materiales ferrosos [2006.01]"
+  },
+  {
+    "code": "C23C 8/68",
+    "description": "••••••Boruración [2006.01]"
+  },
+  {
+    "code": "C23C 8/70",
+    "description": "••••••••de la capa superficial de materiales ferrosos [2006.01]"
+  },
+  {
+    "code": "C23C 8/72",
+    "description": "••••Tratamiento por varios elementos en una sola etapa [2006.01]"
+  },
+  {
+    "code": "C23C 8/74",
+    "description": "••••••Carbo-nitruración [2006.01]"
+  },
+  {
+    "code": "C23C 8/76",
+    "description": "••••••••de la capa superficial de materiales ferrosos [2006.01]"
+  },
+  {
+    "code": "C23C 8/78",
+    "description": "••••Tratamiento por varios elementos en varias etapas [2006.01]"
+  },
+  {
+    "code": "C23C 8/80",
+    "description": "••Tratamiento posterior [2006.01]"
+  },
+  {
+    "code": "C23C 10/00",
+    "description": "Difusión en estado sólido solamente de elementos metálicos o de silicio en la capa superficial de materiales metálicos [2006.01]"
+  },
+  {
+    "code": "C23C 10/02",
+    "description": "••Pretratamiento del material a revestir (C23C 10/04 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "C23C 10/04",
+    "description": "••Difusión en partes determinadas de la capa superficial, p. ej. por medio de máscaras [2006.01]"
+  },
+  {
+    "code": "C23C 10/06",
+    "description": "••por medio de gas [2006.01]"
+  },
+  {
+    "code": "C23C 10/08",
+    "description": "••••Difusión de un solo elemento [2006.01]"
+  },
+  {
+    "code": "C23C 10/10",
+    "description": "••••••Cromación [2006.01]"
+  },
+  {
+    "code": "C23C 10/12",
+    "description": "••••••••de la capa superficial de materiales ferrosos [2006.01]"
+  },
+  {
+    "code": "C23C 10/14",
+    "description": "••••Difusión de varios elementos en una sola etapa [2006.01]"
+  },
+  {
+    "code": "C23C 10/16",
+    "description": "••••Difusión de varios elementos en varias etapas [2006.01]"
+  },
+  {
+    "code": "C23C 10/18",
+    "description": "••por medio de líquidos, p. ej. por medio de baños de sales, de suspensiones en los líquidos [2006.01]"
+  },
+  {
+    "code": "C23C 10/20",
+    "description": "••••Difusión de un solo elemento [2006.01]"
+  },
+  {
+    "code": "C23C 10/22",
+    "description": "••••••Baño metálico que contiene el elemento a difundir [2006.01]"
+  },
+  {
+    "code": "C23C 10/24",
+    "description": "••••••Baño de sales que contiene el elemento a difundir [2006.01]"
+  },
+  {
+    "code": "C23C 10/26",
+    "description": "••••Difusión de varios elementos [2006.01]"
+  },
+  {
+    "code": "C23C 10/28",
+    "description": "••por medio de sólidos, por medio de polvos, de pastas [2006.01]"
+  },
+  {
+    "code": "C23C 10/30",
+    "description": "••••por medio de una capa de polvo o de pasta depositada sobre la superficie (por medio de suspensiones de sólidos en un líquido C23C 10/18) [2006.01]"
+  },
+  {
+    "code": "C23C 10/32",
+    "description": "••••••Difusión de cromo [2006.01]"
+  },
+  {
+    "code": "C23C 10/34",
+    "description": "••••Introducidos en una mezcla de polvos, es decir, cementación en caja [2006.01]"
+  },
+  {
+    "code": "C23C 10/36",
+    "description": "••••••Difusión de un solo elemento [2006.01]"
+  },
+  {
+    "code": "C23C 10/38",
+    "description": "••••••••Cromación [2006.01]"
+  },
+  {
+    "code": "C23C 10/40",
+    "description": "••••••••••de la capa superficial de materiales ferrosos [2006.01]"
+  },
+  {
+    "code": "C23C 10/42",
+    "description": "••••••••••••en presencia de aditivos de transporte volátiles, p. ej. en presencia de productos halogenados [2006.01]"
+  },
+  {
+    "code": "C23C 10/44",
+    "description": "••••••••Silización [2006.01]"
+  },
+  {
+    "code": "C23C 10/46",
+    "description": "••••••••••de la capa superficial de materiales ferrosos [2006.01]"
+  },
+  {
+    "code": "C23C 10/48",
+    "description": "••••••••Aluminización [2006.01]"
+  },
+  {
+    "code": "C23C 10/50",
+    "description": "••••••••••de la capa superficial de materiales ferrosos [2006.01]"
+  },
+  {
+    "code": "C23C 10/52",
+    "description": "••••••Difusión de varios elementos en una sola etapa [2006.01]"
+  },
+  {
+    "code": "C23C 10/54",
+    "description": "••••••••Difusión al menos de cromo [2006.01]"
+  },
+  {
+    "code": "C23C 10/56",
+    "description": "••••••••••y al menos de aluminio [2006.01]"
+  },
+  {
+    "code": "C23C 10/58",
+    "description": "••••••Difusión de varios elementos en varias etapas [2006.01]"
+  },
+  {
+    "code": "C23C 10/60",
+    "description": "••Tratamiento posterior [2006.01]"
+  },
+  {
+    "code": "C23C 12/00",
+    "description": "Difusión en estado sólido de al menos un elemento no metálico distinto al silicio y de al menos un elemento metálico o de silicio en la capa superficial de materiales metálicos [2006.01]"
+  },
+  {
+    "code": "C23C 12/02",
+    "description": "••Difusión en una sola etapa [2006.01]"
+  },
+  {
+    "code": "C23C 14/00",
+    "description": "Revestimiento por evaporación en vacío, pulverización catódica o implantación de iones del material que constituye el revestimiento [2006.01]"
+  },
+  {
+    "code": "C23C 14/02",
+    "description": "••Pretratamiento del material a revestir (C23C 14/04 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "C23C 14/04",
+    "description": "••Revestimiento de partes determinadas de la superficie, p. ej. por medio de máscaras [2006.01]"
+  },
+  {
+    "code": "C23C 14/06",
+    "description": "••caracterizado por el material de revestimiento (C23C 14/04 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "C23C 14/08",
+    "description": "••••Oxidos (C23C 14/10 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "C23C 14/10",
+    "description": "••••Vidrio o sílice [2006.01]"
+  },
+  {
+    "code": "C23C 14/12",
+    "description": "••••Compuesto orgánico [2006.01]"
+  },
+  {
+    "code": "C23C 14/14",
+    "description": "••••Material metálico, boro o silicio [2006.01]"
+  },
+  {
+    "code": "C23C 14/16",
+    "description": "••••••sobre sustratos metálicos, en boro o en silicio [2006.01]"
+  },
+  {
+    "code": "C23C 14/18",
+    "description": "••••••sobre otros sustratos inorgánicos [2006.01]"
+  },
+  {
+    "code": "C23C 14/20",
+    "description": "••••••sobre sustratos orgánicos [2006.01]"
+  },
+  {
+    "code": "C23C 14/22",
+    "description": "••caracterizado por el proceso de revestimiento [2006.01]"
+  },
+  {
+    "code": "C23C 14/24",
+    "description": "••••Evaporación en vacío [2006.01]"
+  },
+  {
+    "code": "C23C 14/26",
+    "description": "••••••por calentamiento de la fuente por inducción o por resistencia [2006.01]"
+  },
+  {
+    "code": "C23C 14/28",
+    "description": "••••••por energía electromagnética o por radiación corpuscular (C23C 14/32-C23C 14/48 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "C23C 14/30",
+    "description": "••••••••por bombardeo de electrones [2006.01]"
+  },
+  {
+    "code": "C23C 14/32",
+    "description": "••••••por explosión; por evaporación seguida de una ionización de vapores (C23C 14/34-C23C 14/48 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "C23C 14/34",
+    "description": "••••Pulverización catódica [2006.01]"
+  },
+  {
+    "code": "C23C 14/35",
+    "description": "••••••por aplicación de un campo magnético, p. ej. pulverización por medio de un magnetrón [2006.01]"
+  },
+  {
+    "code": "C23C 14/36",
+    "description": "••••••Pulverización por medio de diodo (C23C 14/35 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "C23C 14/38",
+    "description": "••••••••por descarga luminiscente en corriente continua [2006.01]"
+  },
+  {
+    "code": "C23C 14/40",
+    "description": "••••••••por descarga en corriente alterna, p. ej. por descarga en alta frecuencia [2006.01]"
+  },
+  {
+    "code": "C23C 14/42",
+    "description": "••••••Pulverización por medio de triodo (C23C 14/35 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "C23C 14/44",
+    "description": "••••••••utilizando altas frecuencias y potenciales continuos adicionales [2006.01]"
+  },
+  {
+    "code": "C23C 14/46",
+    "description": "••••••por un haz de iones producido por una fuente de iones externa (C23C 14/40 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "C23C 14/48",
+    "description": "••••Implantación de iones [2006.01]"
+  },
+  {
+    "code": "C23C 14/50",
+    "description": "••••Portasustrato [2006.01]"
+  },
+  {
+    "code": "C23C 14/52",
+    "description": "••••Dispositivos para observar los procesos de revestimiento [2006.01]"
+  },
+  {
+    "code": "C23C 14/54",
+    "description": "••••Control o regulación de los procesos de revestimiento [2006.01]"
+  },
+  {
+    "code": "C23C 14/56",
+    "description": "••••Aparatos especialmente adaptados al revestimiento en continuo; Dispositivos para mantener el vacío, p. ej. cierre estanco [2006.01]"
+  },
+  {
+    "code": "C23C 14/58",
+    "description": "••Tratamiento posterior [2006.01]"
+  },
+  {
+    "code": "C23C 16/00",
+    "description": "Revestimiento químico por descomposición de compuestos gaseosos, no quedando productos de reacción del material de la superficie en el revestimiento, es decir, procesos de deposición química en fase vapor (pulverización catódica reactiva o evaporación reactiva en vacío C23C 14/00) [2006.01]"
+  },
+  {
+    "code": "C23C 16/01",
+    "description": "••sobre sustratos temporales, p. ej., sobre sustratos que posteriormente se eliminan por ataque químico [2006.01]"
+  },
+  {
+    "code": "C23C 16/02",
+    "description": "••Pretratamiento del material a revestir (C23C 16/04 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "C23C 16/04",
+    "description": "••Revestimiento de partes determinadas de la superficie, p. ej. por medio de máscaras [2006.01]"
+  },
+  {
+    "code": "C23C 16/06",
+    "description": "••caracterizado por la deposición de un material metálico [2006.01]"
+  },
+  {
+    "code": "C23C 16/08",
+    "description": "••••a partir de haluros metálicos [2006.01]"
+  },
+  {
+    "code": "C23C 16/10",
+    "description": "••••••Deposición solamente de cromo [2006.01]"
+  },
+  {
+    "code": "C23C 16/12",
+    "description": "••••••Deposición solamente de aluminio [2006.01]"
+  },
+  {
+    "code": "C23C 16/14",
+    "description": "••••••Deposición de solo otro elemento metálico [2006.01]"
+  },
+  {
+    "code": "C23C 16/16",
+    "description": "••••a partir de carbonilos metálicos [2006.01]"
+  },
+  {
+    "code": "C23C 16/18",
+    "description": "••••a partir de compuestos organometálicos [2006.01]"
+  },
+  {
+    "code": "C23C 16/20",
+    "description": "••••••Deposición solamente de aluminio [2006.01]"
+  },
+  {
+    "code": "C23C 16/22",
+    "description": "••caracterizado por la deposición de materiales inorgánicos, distintos de los materiales metálicos [2006.01]"
+  },
+  {
+    "code": "C23C 16/24",
+    "description": "••••Deposición solamente de silicio [2006.01]"
+  },
+  {
+    "code": "C23C 16/26",
+    "description": "••••Deposición solamente de carbono [2006.01]"
+  },
+  {
+    "code": "C23C 16/27",
+    "description": "••••••solamente diamante [2006.01]"
+  },
+  {
+    "code": "C23C 16/28",
+    "description": "••••Deposición de solo otro elemento no metálico [2006.01]"
+  },
+  {
+    "code": "C23C 16/30",
+    "description": "••••Deposición de compuestos, de mezclas o de soluciones sólidas, p. ej. boruros, carburos, nitruros [2006.01]"
+  },
+  {
+    "code": "C23C 16/32",
+    "description": "••••••Carburos [2006.01]"
+  },
+  {
+    "code": "C23C 16/34",
+    "description": "••••••Nitruros [2006.01]"
+  },
+  {
+    "code": "C23C 16/36",
+    "description": "••••••Carbo-nitruros [2006.01]"
+  },
+  {
+    "code": "C23C 16/38",
+    "description": "••••••Boruros [2006.01]"
+  },
+  {
+    "code": "C23C 16/40",
+    "description": "••••••Oxidos [2006.01]"
+  },
+  {
+    "code": "C23C 16/42",
+    "description": "••••••Siliciuros [2006.01]"
+  },
+  {
+    "code": "C23C 16/44",
+    "description": "••caracterizado por el proceso de revestimiento (C23C 16/04 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "C23C 16/442",
+    "description": "••••utilizando procesos en lechos fluidizados [2006.01]"
+  },
+  {
+    "code": "C23C 16/448",
+    "description": "••••caracterizado por el proceso utilizado para producir corrientes de gases reactivos, p. ej. por evaporación o sublimación de los materiales precursores [2006.01]"
+  },
+  {
+    "code": "C23C 16/452",
+    "description": "••••••por activación de corriente de gases reactivos antes de la introducción en la cámara de reacción, p. ej. por ionización o por adición de especies reactivas [2006.01]"
+  },
+  {
+    "code": "C23C 16/453",
+    "description": "••••haciendo pasar los gases de reacción a través de quemadores o de antorchas, p. ej. CVD a presión atmosférica (C23C 16/513 tiene prioridad; para la pulverización de material de revestimiento en estado fundido con ayuda de una llama o de un plasma C23C 4/00) [2006.01]"
+  },
+  {
+    "code": "C23C 16/455",
+    "description": "••••caracterizado por el proceso utilizado para introducir gases en la cámara de reacción o para modificar las corrientes de gas en la cámara de reacción [2006.01]"
+  },
+  {
+    "code": "C23C 16/458",
+    "description": "••••caracterizado por el método usado para sujetar los sustratos en la cámara de reacción [2006.01]"
+  },
+  {
+    "code": "C23C 16/46",
+    "description": "••••por la forma de calentar el sustrato (C23C 16/48, C23C 16/50 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "C23C 16/48",
+    "description": "••••por irradiación, p. ej. por fotolisis, radiolisis o radiación corpuscular [2006.01]"
+  },
+  {
+    "code": "C23C 16/50",
+    "description": "••••por medio de descargas eléctricas [2006.01]"
+  },
+  {
+    "code": "C23C 16/503",
+    "description": "••••••utilizando descargas con corriente continua o alterna [2006.01]"
+  },
+  {
+    "code": "C23C 16/505",
+    "description": "••••••utilizando descargas con radiofrecuencia [2006.01]"
+  },
+  {
+    "code": "C23C 16/507",
+    "description": "••••••••utilizando electrodos externos, p. ej. en reactores de tipo túnel [2006.01]"
+  },
+  {
+    "code": "C23C 16/509",
+    "description": "••••••••utilizando electrodos internos [2006.01]"
+  },
+  {
+    "code": "C23C 16/511",
+    "description": "••••••utilizando descargas con microondas [2006.01]"
+  },
+  {
+    "code": "C23C 16/513",
+    "description": "••••••utilizando chorros de plasma [2006.01]"
+  },
+  {
+    "code": "C23C 16/515",
+    "description": "••••••utilizando descargas impulsadas [2006.01]"
+  },
+  {
+    "code": "C23C 16/517",
+    "description": "••••••utilizando una combinación de descargas cubiertas por varios de los grupos C23C 16/503-C23C 16/515 [2006.01]"
+  },
+  {
+    "code": "C23C 16/52",
+    "description": "••••Control o regulación de los procesos de revestimiento [2006.01]"
+  },
+  {
+    "code": "C23C 16/54",
+    "description": "••••Aparatos especialmente adaptados para el revestimiento en continuo [2006.01]"
+  },
+  {
+    "code": "C23C 16/56",
+    "description": "••Tratamiento posterior [2006.01]"
+  },
+  {
+    "code": "C23C 18/00",
+    "description": "Revestimiento químico por descomposición ya sea de compuestos líquidos, o bien de soluciones de los compuestos que constituyen el revestimiento, no quedando productos de reacción del material de la superficie en el revestimiento; Deposición por contacto [2006.01]"
+  },
+  {
+    "code": "C23C 18/02",
+    "description": "••por descomposición térmica [2006.01]"
+  },
+  {
+    "code": "C23C 18/04",
+    "description": "••••Pretratamiento del material a revestir (C23C 18/06 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "C23C 18/06",
+    "description": "••••Revestimiento de partes determinadas de la superficie, p. ej. por medio de máscaras [2006.01]"
+  },
+  {
+    "code": "C23C 18/08",
+    "description": "••••caracterizada por la deposición de un material metálico [2006.01]"
+  },
+  {
+    "code": "C23C 18/10",
+    "description": "••••••Deposición solamente de aluminio [2006.01]"
+  },
+  {
+    "code": "C23C 18/12",
+    "description": "••••caracterizada por la deposición sobre materiales inorgánicos, distintos a los materiales metálicos [2006.01]"
+  },
+  {
+    "code": "C23C 18/14",
+    "description": "••Descomposición por irradiación, p. ej. por fotolisis, radiación corpuscular [2006.01]"
+  },
+  {
+    "code": "C23C 18/16",
+    "description": "••por reducción o por sustitución, p. ej. deposición sin corriente eléctrica (C23C 18/54 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "C23C 18/18",
+    "description": "••••Pretratamiento del material a revestir [2006.01]"
+  },
+  {
+    "code": "C23C 18/20",
+    "description": "••••••de superficies orgánicas, p. ej. de resinas [2006.01]"
+  },
+  {
+    "code": "C23C 18/22",
+    "description": "••••••••para volver la superficie rugosa, p. ej. por decapado [2006.01]"
+  },
+  {
+    "code": "C23C 18/24",
+    "description": "••••••••••por medio de soluciones acuosas ácidas [2006.01]"
+  },
+  {
+    "code": "C23C 18/26",
+    "description": "••••••••••por medio de líquidos orgánicos [2006.01]"
+  },
+  {
+    "code": "C23C 18/28",
+    "description": "••••••••Sensibilización o activación [2006.01]"
+  },
+  {
+    "code": "C23C 18/30",
+    "description": "••••••••••Activación [2006.01]"
+  },
+  {
+    "code": "C23C 18/31",
+    "description": "••••Revestimiento con metales [2006.01]"
+  },
+  {
+    "code": "C23C 18/32",
+    "description": "••••••Revestimiento con uno de los metales hierro, cobalto o níquel; Revestimiento con mezclas de fósforo o de boro con uno de estos metales [2006.01]"
+  },
+  {
+    "code": "C23C 18/34",
+    "description": "••••••••utilizando agentes reductores [2006.01]"
+  },
+  {
+    "code": "C23C 18/36",
+    "description": "••••••••••hipofosfitos [2006.01]"
+  },
+  {
+    "code": "C23C 18/38",
+    "description": "••••••Revestimiento con cobre [2006.01]"
+  },
+  {
+    "code": "C23C 18/40",
+    "description": "••••••••utilizando agentes reductores [2006.01]"
+  },
+  {
+    "code": "C23C 18/42",
+    "description": "••••••Revestimiento con metales nobles [2006.01]"
+  },
+  {
+    "code": "C23C 18/44",
+    "description": "••••••••utilizando agentes reductores [2006.01]"
+  },
+  {
+    "code": "C23C 18/48",
+    "description": "••••Revestimiento con aleaciones [2006.01]"
+  },
+  {
+    "code": "C23C 18/50",
+    "description": "••••••con aleaciones a base de hierro, cobalto o níquel (C23C 18/32 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "C23C 18/52",
+    "description": "••••utilizando agentes reductores para el revestimiento con materiales metálicos no previstos por uno solo de los grupos C23C 18/32-C23C 18/50 [2006.01]"
+  },
+  {
+    "code": "C23C 18/54",
+    "description": "••Deposición por contacto, es decir, deposición electroquímica sin corriente [2006.01]"
+  },
+  {
+    "code": "C23C 20/00",
+    "description": "Revestimiento químico por descomposición bien de compuestos sólidos, bien de suspensiones de compuestos que constituyen el revestimiento, no quedando productos de reacción del material de la superficie en el revestimiento [2006.01]"
+  },
+  {
+    "code": "C23C 20/02",
+    "description": "••Revestimiento con materiales metálicos [2006.01]"
+  },
+  {
+    "code": "C23C 20/04",
+    "description": "••••con elementos metálicos [2006.01]"
+  },
+  {
+    "code": "C23C 20/06",
+    "description": "••Revestimiento con materiales inorgánicos distintos a los materiales metálicos [2006.01]"
+  },
+  {
+    "code": "C23C 20/08",
+    "description": "••••con compuestos, mezclas o soluciones sólidas, p. ej. boruros, carburos, nitruros [2006.01]"
+  },
+  {
+    "code": "C23C 22/02",
+    "description": "••por medio de soluciones no acuosas [2006.01]"
+  },
+  {
+    "code": "C23C 22/03",
+    "description": "••••que contienen compuestos del fósforo [2006.01]"
+  },
+  {
+    "code": "C23C 22/04",
+    "description": "••••que contienen compuestos del cromo hexavalente [2006.01]"
+  },
+  {
+    "code": "C23C 22/05",
+    "description": "••por medio de soluciones acuosas [2006.01]"
+  },
+  {
+    "code": "C23C 22/06",
+    "description": "••••por medio de soluciones acuosas ácidas de un pH < 6 [2006.01]"
+  },
+  {
+    "code": "C23C 22/07",
+    "description": "••••••que contienen fosfatos [2006.01]"
+  },
+  {
+    "code": "C23C 22/08",
+    "description": "••••••••Ortofosfatos [2006.01]"
+  },
+  {
+    "code": "C23C 22/10",
+    "description": "••••••••••que contienen oxidantes [2006.01]"
+  },
+  {
+    "code": "C23C 22/12",
+    "description": "••••••••••que contienen cationes del zinc [2006.01]"
+  },
+  {
+    "code": "C23C 22/13",
+    "description": "••••••••••••y aniones nitritos o nitratos [2006.01]"
+  },
+  {
+    "code": "C23C 22/14",
+    "description": "••••••••••••y aniones cloratos [2006.01]"
+  },
+  {
+    "code": "C23C 22/16",
+    "description": "••••••••••••y compuestos peroxidados [2006.01]"
+  },
+  {
+    "code": "C23C 22/17",
+    "description": "••••••••••••y ácidos orgánicos [2006.01]"
+  },
+  {
+    "code": "C23C 22/18",
+    "description": "••••••••••que contienen cationes del manganeso [2006.01]"
+  },
+  {
+    "code": "C23C 22/20",
+    "description": "••••••••••que contienen cationes de aluminio [2006.01]"
+  },
+  {
+    "code": "C23C 22/22",
+    "description": "••••••••••que contienen cationes de metales alcalinotérreos [2006.01]"
+  },
+  {
+    "code": "C23C 22/23",
+    "description": "••••••••Fosfatos condensados [2006.01]"
+  },
+  {
+    "code": "C23C 22/24",
+    "description": "••••••que contienen compuestos del cromo hexavalente [2006.01]"
+  },
+  {
+    "code": "C23C 22/26",
+    "description": "••••••••y compuestos orgánicos [2006.01]"
+  },
+  {
+    "code": "C23C 22/27",
+    "description": "••••••••••Acidos [2006.01]"
+  },
+  {
+    "code": "C23C 22/28",
+    "description": "••••••••••Compuestos macromoleculares [2006.01]"
+  },
+  {
+    "code": "C23C 22/30",
+    "description": "••••••••que contienen también cromo trivalente [2006.01]"
+  },
+  {
+    "code": "C23C 22/32",
+    "description": "••••••••que contienen también metales pulverulentos [2006.01]"
+  },
+  {
+    "code": "C23C 22/33",
+    "description": "••••••••que contienen también fosfatos [2006.01]"
+  },
+  {
+    "code": "C23C 22/34",
+    "description": "••••••que contienen fluoruros o fluoruros complejos [2006.01]"
+  },
+  {
+    "code": "C23C 22/36",
+    "description": "••••••••y fosfatos [2006.01]"
+  },
+  {
+    "code": "C23C 22/37",
+    "description": "••••••••y compuestos del cromo hexavalente [2006.01]"
+  },
+  {
+    "code": "C23C 22/38",
+    "description": "••••••••••y fosfatos [2006.01]"
+  },
+  {
+    "code": "C23C 22/40",
+    "description": "••••••que contienen molibdatos, tungstatos o vanadatos [2006.01]"
+  },
+  {
+    "code": "C23C 22/42",
+    "description": "••••••••y fosfatos [2006.01]"
+  },
+  {
+    "code": "C23C 22/43",
+    "description": "••••••••y compuestos del cromo hexavalente [2006.01]"
+  },
+  {
+    "code": "C23C 22/44",
+    "description": "••••••••y fluoruros o fluoruros complejos [2006.01]"
+  },
+  {
+    "code": "C23C 22/46",
+    "description": "••••••que contienen oxalatos [2006.01]"
+  },
+  {
+    "code": "C23C 22/47",
+    "description": "••••••••y fosfatos [2006.01]"
+  },
+  {
+    "code": "C23C 22/48",
+    "description": "••••••que no contienen ni fosfatos, ni compuestos del cromo hexavalente, ni fluoruros o fluoruros complejos, molibdatos, tungstatos, vanadatos u oxalatos [2006.01]"
+  },
+  {
+    "code": "C23C 22/50",
+    "description": "••••••••Tratamiento del hierro o aleaciones a base de hierro [2006.01]"
+  },
+  {
+    "code": "C23C 22/52",
+    "description": "••••••••Tratamiento del cobre o aleaciones a base de cobre [2006.01]"
+  },
+  {
+    "code": "C23C 22/53",
+    "description": "••••••••Tratamiento del zinc o aleaciones a base de zinc [2006.01]"
+  },
+  {
+    "code": "C23C 22/54",
+    "description": "••••••••Tratamiento de metales refractarios o aleaciones a base de metales refractarios [2006.01]"
+  },
+  {
+    "code": "C23C 22/56",
+    "description": "••••••••Tratamiento de aluminio o aleaciones a base de aluminio [2006.01]"
+  },
+  {
+    "code": "C23C 22/57",
+    "description": "••••••••Tratamiento del magnesio o aleaciones a base de magnesio [2006.01]"
+  },
+  {
+    "code": "C23C 22/58",
+    "description": "••••••••Tratamiento de otros materiales metálicos [2006.01]"
+  },
+  {
+    "code": "C23C 22/60",
+    "description": "••••por medio de soluciones acuosas alcalinas de un pH > 8 [2006.01]"
+  },
+  {
+    "code": "C23C 22/62",
+    "description": "••••••Tratamiento del hierro o aleaciones a base de hierro [2006.01]"
+  },
+  {
+    "code": "C23C 22/63",
+    "description": "••••••Tratamiento del cobre o aleaciones a base de cobre [2006.01]"
+  },
+  {
+    "code": "C23C 22/64",
+    "description": "••••••Tratamiento de metales refractarios o aleaciones a base de metales refractarios [2006.01]"
+  },
+  {
+    "code": "C23C 22/66",
+    "description": "••••••Tratamiento de aluminio o aleaciones a base de aluminio [2006.01]"
+  },
+  {
+    "code": "C23C 22/67",
+    "description": "••••••••por medio de soluciones que contienen cromo hexavalente [2006.01]"
+  },
+  {
+    "code": "C23C 22/68",
+    "description": "••••por medio de soluciones acuosas con un pH comprendido entre 6 y 8 [2006.01]"
+  },
+  {
+    "code": "C23C 22/70",
+    "description": "••por medio de baños fundidos [2006.01]"
+  },
+  {
+    "code": "C23C 22/72",
+    "description": "••••Tratamiento del hierro o aleaciones a base de hierro [2006.01]"
+  },
+  {
+    "code": "C23C 22/73",
+    "description": "••caracterizado por el proceso [2006.01]"
+  },
+  {
+    "code": "C23C 22/74",
+    "description": "••••para obtener revestimientos de conversión cocidos [2006.01]"
+  },
+  {
+    "code": "C23C 22/76",
+    "description": "••••Aplicación del líquido por pulverización [2006.01]"
+  },
+  {
+    "code": "C23C 22/77",
+    "description": "••••Control o regulación del proceso de revestimiento [2006.01]"
+  },
+  {
+    "code": "C23C 22/78",
+    "description": "••Pretratamiento del material a revestir [2006.01]"
+  },
+  {
+    "code": "C23C 22/80",
+    "description": "••••por medio de soluciones que contienen compuestos del titanio o del zirconio [2006.01]"
+  },
+  {
+    "code": "C23C 22/82",
+    "description": "••Tratamiento posterior [2006.01]"
+  },
+  {
+    "code": "C23C 22/83",
+    "description": "••••Tratamiento posterior químico [2006.01]"
+  },
+  {
+    "code": "C23C 22/84",
+    "description": "••••Coloración [2006.01]"
+  },
+  {
+    "code": "C23C 22/86",
+    "description": "••Regeneración de los baños de revestimiento [2006.01]"
+  },
+  {
+    "code": "C23C 24/00",
+    "description": "Revestimiento a partir de polvos inorgánicos (pulverización en estado fundido del material de revestimiento C23C 4/00; difusión en estado sólido C23C 8/00-C23C 12/00) [2006.01]"
+  },
+  {
+    "code": "C23C 24/02",
+    "description": "••utilizando solamente presión [2006.01]"
+  },
+  {
+    "code": "C23C 24/04",
+    "description": "••••Deposición de partículas por impacto [2006.01]"
+  },
+  {
+    "code": "C23C 24/06",
+    "description": "••••Compresión del material en polvo, p. ej. por laminado [2006.01]"
+  },
+  {
+    "code": "C23C 24/08",
+    "description": "••utilizando calor o presión y calor (C23C 24/04 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "C23C 24/10",
+    "description": "••••con formación de una fase líquida intermedia en la capa [2006.01]"
+  },
+  {
+    "code": "C23C 26/00",
+    "description": "Revestimientos no previstos por los grupos C23C 2/00-C23C 24/00 [2006.01]"
+  },
+  {
+    "code": "C23C 26/02",
+    "description": "••por aplicación al sustrato de materiales fundidos [2006.01]"
+  },
+  {
+    "code": "C23C 28/00",
+    "description": "Revestimiento para obtener al menos dos capas superpuestas, bien por procesos no previstos en uno solo de los grupos principales C23C 2/00-C23C 26/00, bien por combinaciones de procesos previstos en las subclases C23C y C25D [2006.01]"
+  },
+  {
+    "code": "C23C 28/02",
+    "description": "••Revestimientos solamente de materiales metálicos [2006.01]"
+  },
+  {
+    "code": "C23C 28/04",
+    "description": "••Revestimientos solamente de materiales inorgánicos no metálicos [2006.01]"
+  },
+  {
+    "code": "C23C 30/00",
+    "description": "Revestimiento con materiales metálicos, caracterizado solamente por la composición del material metálico, es decir, no caracterizado por el proceso de revestimiento (C23C 26/00, C23C 28/00 tienen prioridad) [2006.01]"
+  }
+]

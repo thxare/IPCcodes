@@ -1,0 +1,4470 @@
+[
+  {
+    "code": "A61K 6/00",
+    "description": "Preparaciones para técnica dental [2020.01]"
+  },
+  {
+    "code": "A61K 6/15",
+    "description": "••Composiciones caracterizadas por sus propiedades físicas [2020.01]"
+  },
+  {
+    "code": "A61K 6/16",
+    "description": "••••Índice de refracción [2020.01]"
+  },
+  {
+    "code": "A61K 6/17",
+    "description": "••••Tamaño de partícula [2020.01]"
+  },
+  {
+    "code": "A61K 6/18",
+    "description": "••••causando retracción dental, p.ej. composiciones para ensanchar el surco para hacer impresiones dentales o extraer dientes [2020.01]"
+  },
+  {
+    "code": "A61K 6/19",
+    "description": "••••Auto-expandible, p.ej. para empastes [2020.01]"
+  },
+  {
+    "code": "A61K 6/20",
+    "description": "••Recubrimientos protectores para dientes naturales o artificiales, p.ej. sellados, revestimientos de tinte o barniz [2020.01]"
+  },
+  {
+    "code": "A61K 6/25",
+    "description": "••Composiciones para detectar o medir, p.ej. irregularidades en dientes naturales o artificiales [2020.01]"
+  },
+  {
+    "code": "A61K 6/30",
+    "description": "••Composiciones para la fijación temporal o permanente de dientes o paladares, p.ej. imprimaciones para adhesivos dentales [2020.01]"
+  },
+  {
+    "code": "A61K 6/35",
+    "description": "••••Preparaciones para estabilizar las dentaduras en la boca [2020.01]"
+  },
+  {
+    "code": "A61K 6/40",
+    "description": "••Imprimaciones (para adhesivos dentales A61K 6/30) [2020.01]"
+  },
+  {
+    "code": "A61K 6/50",
+    "description": "••Preparaciones especialmente adaptadas para el tratamiento de la raíz del diente [2020.01]"
+  },
+  {
+    "code": "A61K 6/52",
+    "description": "••••Limpieza; Desinfección [2020.01]"
+  },
+  {
+    "code": "A61K 6/54",
+    "description": "••••Empaste; Sellado [2020.01]"
+  },
+  {
+    "code": "A61K 6/56",
+    "description": "••••Tratamiento apical [2020.01]"
+  },
+  {
+    "code": "A61K 6/58",
+    "description": "••••especialmente adaptado para implantes dentales [2020.01]"
+  },
+  {
+    "code": "A61K 6/60",
+    "description": "••que comprende aditivos orgánicos u órgano-metálicos [2020.01]"
+  },
+  {
+    "code": "A61K 6/61",
+    "description": "••••Iniciadores catiónicos, aniónicos o redox [2020.01]"
+  },
+  {
+    "code": "A61K 6/62",
+    "description": "••••Iniciadores de radicales fotoquímicos [2020.01]"
+  },
+  {
+    "code": "A61K 6/64",
+    "description": "••••Iniciadores de radicales térmicos [2020.01]"
+  },
+  {
+    "code": "A61K 6/65",
+    "description": "••••Tintes [2020.01]"
+  },
+  {
+    "code": "A61K 6/66",
+    "description": "••••••Colorantes fotocrómicos [2020.01]"
+  },
+  {
+    "code": "A61K 6/68",
+    "description": "••••••Colorantes termocrómicos [2020.01]"
+  },
+  {
+    "code": "A61K 6/69",
+    "description": "••••Medicamentos [2020.01]"
+  },
+  {
+    "code": "A61K 6/70",
+    "description": "••que comprende aditivos inorgánicos [2020.01]"
+  },
+  {
+    "code": "A61K 6/71",
+    "description": "••••Empastes [2020.01]"
+  },
+  {
+    "code": "A61K 6/72",
+    "description": "••••••que comprende compuestos que contienen nitrógeno [2020.01]"
+  },
+  {
+    "code": "A61K 6/73",
+    "description": "••••••que comprende compuestos que contienen azufre [2020.01]"
+  },
+  {
+    "code": "A61K 6/74",
+    "description": "••••••que comprende compuestos que contienen fósforo [2020.01]"
+  },
+  {
+    "code": "A61K 6/75",
+    "description": "••••••••Apatita [2020.01]"
+  },
+  {
+    "code": "A61K 6/76",
+    "description": "••••••que comprende compuestos que contienen silicio [2020.01]"
+  },
+  {
+    "code": "A61K 6/77",
+    "description": "••••••Vidrio [2020.01]"
+  },
+  {
+    "code": "A61K 6/78",
+    "description": "••••Pigmentos [2020.01]"
+  },
+  {
+    "code": "A61K 6/79",
+    "description": "••••Iniciadores [2020.01]"
+  },
+  {
+    "code": "A61K 6/80",
+    "description": "••Preparaciones para dientes artificiales, para empastar o tapar dientes [2020.01]"
+  },
+  {
+    "code": "A61K 6/802",
+    "description": "••••que comprende cerámica [2020.01]"
+  },
+  {
+    "code": "A61K 6/804",
+    "description": "••••••que comprende óxido de manganeso [2020.01]"
+  },
+  {
+    "code": "A61K 6/807",
+    "description": "••••••que comprende óxido de magnesio [2020.01]"
+  },
+  {
+    "code": "A61K 6/809",
+    "description": "••••••que comprende óxido de berilio [2020.01]"
+  },
+  {
+    "code": "A61K 6/811",
+    "description": "••••••que comprende óxido de cromo [2020.01]"
+  },
+  {
+    "code": "A61K 6/813",
+    "description": "••••••que comprende óxido de hierro [2020.01]"
+  },
+  {
+    "code": "A61K 6/816",
+    "description": "••••••que comprende óxido de titanio [2020.01]"
+  },
+  {
+    "code": "A61K 6/818",
+    "description": "••••••que comprende óxido de circonio [2020.01]"
+  },
+  {
+    "code": "A61K 6/82",
+    "description": "••••••que comprende óxido de hafnio [2020.01]"
+  },
+  {
+    "code": "A61K 6/822",
+    "description": "••••••que comprende óxidos de metales de tierras raras [2020.01]"
+  },
+  {
+    "code": "A61K 6/824",
+    "description": "••••••que comprende óxidos de metales de transición [2020.01]"
+  },
+  {
+    "code": "A61K 6/827",
+    "description": "••••••Leucita [2020.01]"
+  },
+  {
+    "code": "A61K 6/829",
+    "description": "••••que comprende materiales compuestos cerámica-metal (cermets) [2020.01]"
+  },
+  {
+    "code": "A61K 6/831",
+    "description": "••••que comprende elementos no metálicos o compuestos de los mismos, p.ej. carbono [2020.01]"
+  },
+  {
+    "code": "A61K 6/833",
+    "description": "••••••Materiales compuestos de vitrocerámica [2020.01]"
+  },
+  {
+    "code": "A61K 6/836",
+    "description": "••••••Vidrio [2020.01]"
+  },
+  {
+    "code": "A61K 6/838",
+    "description": "••••••Compuestos de fósforo, p.ej. apatita [2020.01]"
+  },
+  {
+    "code": "A61K 6/84",
+    "description": "••••que comprende metales o aleaciones [2020.01]"
+  },
+  {
+    "code": "A61K 6/842",
+    "description": "••••••Metales de tierras raras [2020.01]"
+  },
+  {
+    "code": "A61K 6/844",
+    "description": "••••••Metales nobles [2020.01]"
+  },
+  {
+    "code": "A61K 6/847",
+    "description": "••••••Amalgamas [2020.01]"
+  },
+  {
+    "code": "A61K 6/849",
+    "description": "••••que comprende cementos inorgánicos [2020.01]"
+  },
+  {
+    "code": "A61K 6/851",
+    "description": "••••••Cementos Portland [2020.01]"
+  },
+  {
+    "code": "A61K 6/853",
+    "description": "••••••Silicatos [2020.01]"
+  },
+  {
+    "code": "A61K 6/856",
+    "description": "••••••Puzolanas [2020.01]"
+  },
+  {
+    "code": "A61K 6/858",
+    "description": "••••••Sulfatos de calcio, p.ej. yeso [2020.01]"
+  },
+  {
+    "code": "A61K 6/86",
+    "description": "••••••Cementos aluminosos [2020.01]"
+  },
+  {
+    "code": "A61K 6/862",
+    "description": "••••••Cemento a base de sulfato de calcio y aluminio [2020.01]"
+  },
+  {
+    "code": "A61K 6/864",
+    "description": "••••••Cementos de fosfato (apatita A61K 6/838) [2020.01]"
+  },
+  {
+    "code": "A61K 6/867",
+    "description": "••••••Cementos de amonio [2020.01]"
+  },
+  {
+    "code": "A61K 6/869",
+    "description": "••••••Zeolitas [2020.01]"
+  },
+  {
+    "code": "A61K 6/871",
+    "description": "••••••Cuarzo; SiO2 [2020.01]"
+  },
+  {
+    "code": "A61K 6/873",
+    "description": "••••••Carbonatos [2020.01]"
+  },
+  {
+    "code": "A61K 6/876",
+    "description": "••••••Óxido de calcio [2020.01]"
+  },
+  {
+    "code": "A61K 6/878",
+    "description": "••••••Óxido de circonio [2020.01]"
+  },
+  {
+    "code": "A61K 6/88",
+    "description": "••••••Óxido de cromo [2020.01]"
+  },
+  {
+    "code": "A61K 6/882",
+    "description": "••••••Carburos [2020.01]"
+  },
+  {
+    "code": "A61K 6/884",
+    "description": "••••que comprende resinas naturales o sintéticas [2020.01]"
+  },
+  {
+    "code": "A61K 6/887",
+    "description": "••••••Compuestos obtenidos por reacciones que comprenden solamente enlaces insaturados de carbono-carbono [2020.01]"
+  },
+  {
+    "code": "A61K 6/889",
+    "description": "••••••••Cementos de policarboxilato; Cementos de ionómero de vidrio [2020.01]"
+  },
+  {
+    "code": "A61K 6/891",
+    "description": "••••••Compuestos obtenidos por reacciones diferentes a las que implican solamente enlaces insaturados carbono-carbono [2020.01]"
+  },
+  {
+    "code": "A61K 6/893",
+    "description": "••••••••Poliuretanos [2020.01]"
+  },
+  {
+    "code": "A61K 6/896",
+    "description": "••••••••Compuestos de poliorganosilicio [2020.01]"
+  },
+  {
+    "code": "A61K 6/898",
+    "description": "••••••Polisacáridos [2020.01]"
+  },
+  {
+    "code": "A61K 6/90",
+    "description": "••Composiciones para tomar impresiones dentales [2020.01]"
+  },
+  {
+    "code": "A61K 8/00",
+    "description": "Cosméticos o preparaciones similares para el aseo [2006.01]"
+  },
+  {
+    "code": "A61K 8/02",
+    "description": "••caracterizadas por una forma física especial [2006.01]"
+  },
+  {
+    "code": "A61K 8/03",
+    "description": "••••Composiciones líquidos con dos o más capas distintas [2006.01]"
+  },
+  {
+    "code": "A61K 8/04",
+    "description": "••••Dispersiones; Emulsiones [2006.01]"
+  },
+  {
+    "code": "A61K 8/06",
+    "description": "••••••Emulsiones [2006.01]"
+  },
+  {
+    "code": "A61K 8/11",
+    "description": "••••Composiciones encapsuladas [2006.01]"
+  },
+  {
+    "code": "A61K 8/14",
+    "description": "••••Liposomas [2006.01]"
+  },
+  {
+    "code": "A61K 8/18",
+    "description": "••caracterizadas por la composisición [2006.01]"
+  },
+  {
+    "code": "A61K 8/19",
+    "description": "••••que contienen ingredientes inorgánicos [2006.01]"
+  },
+  {
+    "code": "A61K 8/20",
+    "description": "••••••Halógenos; Sus compuestos [2006.01]"
+  },
+  {
+    "code": "A61K 8/21",
+    "description": "••••••••Fluoruros; Sus derivados [2006.01]"
+  },
+  {
+    "code": "A61K 8/22",
+    "description": "••••••Peróxidos; Oxígeno; Ozono [2006.01]"
+  },
+  {
+    "code": "A61K 8/23",
+    "description": "••••••Azufre; Selenio; Teluro; Sus compuestos [2006.01]"
+  },
+  {
+    "code": "A61K 8/24",
+    "description": "••••••Fósforo; Sus compuestos [2006.01]"
+  },
+  {
+    "code": "A61K 8/25",
+    "description": "••••••Silicio; Sus compuestos [2006.01]"
+  },
+  {
+    "code": "A61K 8/26",
+    "description": "••••••Aluminio; Sus compuestos [2006.01]"
+  },
+  {
+    "code": "A61K 8/27",
+    "description": "••••••Zinc; Sus compuestos [2006.01]"
+  },
+  {
+    "code": "A61K 8/28",
+    "description": "••••••Circonio; Sus compuestos [2006.01]"
+  },
+  {
+    "code": "A61K 8/29",
+    "description": "••••••Titanio; Sus compuestos [2006.01]"
+  },
+  {
+    "code": "A61K 8/30",
+    "description": "••••que contienen compuestos orgánicos [2006.01]"
+  },
+  {
+    "code": "A61K 8/31",
+    "description": "••••••Hidrocarburos [2006.01]"
+  },
+  {
+    "code": "A61K 8/33",
+    "description": "••••••que contienen oxígeno [2006.01]"
+  },
+  {
+    "code": "A61K 8/34",
+    "description": "••••••••Alcoholes [2006.01]"
+  },
+  {
+    "code": "A61K 8/35",
+    "description": "••••••••Cetonas, p. ej. quinonas, benzofenona [2006.01]"
+  },
+  {
+    "code": "A61K 8/36",
+    "description": "••••••••ácidos carboxílicos; Sus sales o anhídridos [2006.01]"
+  },
+  {
+    "code": "A61K 8/362",
+    "description": "••••••••••ácidos policarboxílicos [2006.01]"
+  },
+  {
+    "code": "A61K 8/365",
+    "description": "••••••••••ácidos hidroxicarboxílicos; ácidos cetocarboxílicos [2006.01]"
+  },
+  {
+    "code": "A61K 8/368",
+    "description": "••••••••••con grupos carboxilo directamente unidos a átomos de carbono de anillos aromáticos [2006.01]"
+  },
+  {
+    "code": "A61K 8/37",
+    "description": "••••••••Esteres de ácidos carboxílicos [2006.01]"
+  },
+  {
+    "code": "A61K 8/38",
+    "description": "••••••••Percompuestos, p. ej. perácidos [2006.01]"
+  },
+  {
+    "code": "A61K 8/39",
+    "description": "••••••••Derivados que contienen de 2 a 10 grupos oxialquileno [2006.01]"
+  },
+  {
+    "code": "A61K 8/40",
+    "description": "••••••que continen nitrógeno (quinonas que contienen nitrógeno A61K 8/35) [2006.01]"
+  },
+  {
+    "code": "A61K 8/41",
+    "description": "••••••••Aminas [2006.01]"
+  },
+  {
+    "code": "A61K 8/42",
+    "description": "••••••••Amidas [2006.01]"
+  },
+  {
+    "code": "A61K 8/43",
+    "description": "••••••••Guanidinas [2006.01]"
+  },
+  {
+    "code": "A61K 8/44",
+    "description": "••••••••ácidos aminocarboxílicos o sus derivados, p. ej. ácidos aminocarboxílicos que contienen azufre; Sus sales, ésteres o derivados N-acilados [2006.01]"
+  },
+  {
+    "code": "A61K 8/45",
+    "description": "••••••••Derivados que contienen de 2 a 10 grupos oxialquileno [2006.01]"
+  },
+  {
+    "code": "A61K 8/46",
+    "description": "••••••que contienen azufre (A61K 8/44 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "A61K 8/49",
+    "description": "••••••que contienen compuestos heterocíclicos [2006.01]"
+  },
+  {
+    "code": "A61K 8/55",
+    "description": "••••••que contienen fosforo [2006.01]"
+  },
+  {
+    "code": "A61K 8/58",
+    "description": "••••••que contienen otros átomos diferentes a los átomos de carbono, hidrógeno, halógeno, oxígeno, nitrógeno, azufre, nitrógeno, azufre o fósforo [2006.01]"
+  },
+  {
+    "code": "A61K 8/60",
+    "description": "••••••Azúcares; Sus derivados [2006.01]"
+  },
+  {
+    "code": "A61K 8/63",
+    "description": "••••••Esteroides; Sus derivativados [2006.01]"
+  },
+  {
+    "code": "A61K 8/64",
+    "description": "••••••Proteínas; Péptidos; Sus derivados o sus productos de degradación [2006.01]"
+  },
+  {
+    "code": "A61K 8/65",
+    "description": "••••••••Colágeno; Gelatina; Queratina; Sus derivados o sus productos de degradación [2006.01]"
+  },
+  {
+    "code": "A61K 8/66",
+    "description": "••••••••Enzimas [2006.01]"
+  },
+  {
+    "code": "A61K 8/67",
+    "description": "••••••Vitaminas [2006.01]"
+  },
+  {
+    "code": "A61K 8/68",
+    "description": "••••••Esfingolípidos, p. ej. ceramidas, cerebrósidos, gangliósidos [2006.01]"
+  },
+  {
+    "code": "A61K 8/69",
+    "description": "••••••que contienen flúor [2006.01]"
+  },
+  {
+    "code": "A61K 8/70",
+    "description": "••••••••que contienen grupos perfluorados, p. ej. perfluoroéteres [2006.01]"
+  },
+  {
+    "code": "A61K 8/72",
+    "description": "••••que contienen compuestos orgánicos macromoleculares [2006.01]"
+  },
+  {
+    "code": "A61K 8/73",
+    "description": "••••••Polisacáridos [2006.01]"
+  },
+  {
+    "code": "A61K 8/81",
+    "description": "••••••obtenidos por reacciones en las que intervienen sólamente enlaces insaturados carbono-carbono [2006.01]"
+  },
+  {
+    "code": "A61K 8/84",
+    "description": "••••••obtenidos por reacciones distintas a aquellas en las que intervienen sólamente enlaces insaturados carbono-carbono [2006.01]"
+  },
+  {
+    "code": "A61K 8/85",
+    "description": "••••••••Poliésteres [2006.01]"
+  },
+  {
+    "code": "A61K 8/86",
+    "description": "••••••••Poliéteres [2006.01]"
+  },
+  {
+    "code": "A61K 8/87",
+    "description": "••••••••Poliuretanos [2006.01]"
+  },
+  {
+    "code": "A61K 8/88",
+    "description": "••••••••Poliamidas [2006.01]"
+  },
+  {
+    "code": "A61K 8/89",
+    "description": "••••••••Polisiloxanos [2006.01]"
+  },
+  {
+    "code": "A61K 8/891",
+    "description": "••••••••••saturados, p. ej. dimeticona, fenil trimeticona, meticona C24-C28 o estearil dimeticona [2006.01]"
+  },
+  {
+    "code": "A61K 8/892",
+    "description": "••••••••••••modificados por un grupo hidroxilo, p. ej. dimeticonol [2006.01]"
+  },
+  {
+    "code": "A61K 8/893",
+    "description": "••••••••••••modificados por un grupo alcoxi o ariloxi, p. ej. behenoxi dimeticona o estearoxi dimeticona [2006.01]"
+  },
+  {
+    "code": "A61K 8/894",
+    "description": "••••••••••••modificados por un grupo polioxialquileno, p. ej. cetil dimeticona copoliol [2006.01]"
+  },
+  {
+    "code": "A61K 8/895",
+    "description": "••••••••••que contienen silicio unido a grupos alifáticos insaturados, p. ej. vinil dimeticona [2006.01]"
+  },
+  {
+    "code": "A61K 8/896",
+    "description": "••••••••••que contienen otros átomos diferentes a los átomos de silicio, carbono, oxígeno e hidrógeno, p. ej. dimeticona copoliol fosfato [2006.01]"
+  },
+  {
+    "code": "A61K 8/897",
+    "description": "••••••••••••que contienen halógenos, p. ej. fluorosiliconas [2006.01]"
+  },
+  {
+    "code": "A61K 8/898",
+    "description": "••••••••••••que contienen nitrógeno, p. ej. amodimeticona, trimetil silil amodimeticona o dimeticona propil PG-betaína [2006.01]"
+  },
+  {
+    "code": "A61K 8/899",
+    "description": "••••••••••••que contienen azufre, p. ej. sodio PG-propildimeticona tiosulfato copoliol [2006.01]"
+  },
+  {
+    "code": "A61K 8/90",
+    "description": "••••••Copolímeros en bloque (A61K 8/89 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "A61K 8/91",
+    "description": "••••••Polímeros injertados (A61K 8/89 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "A61K 8/92",
+    "description": "••••Aceites, grasas o ceras; Sus derivados, p. ej. productos de hidrogenación [2006.01]"
+  },
+  {
+    "code": "A61K 8/96",
+    "description": "••••que contienen productos de constitución indeterminada o sus derivados [2006.01]"
+  },
+  {
+    "code": "A61K 8/97",
+    "description": "••••••a partir de algas, hongos, líquenes o plantas; a partir de sus derivados [2017.01]"
+  },
+  {
+    "code": "A61K 8/9706",
+    "description": "••••••••Algas [2017.01]"
+  },
+  {
+    "code": "A61K 8/9711",
+    "description": "••••••••••Phaeophycota o Phaeophyta [algas pardas], p. ej. Fucus [2017.01]"
+  },
+  {
+    "code": "A61K 8/9717",
+    "description": "••••••••••Rhodophycota o Rhodophyta [algas rojas], p. ej. Porphyra [2017.01]"
+  },
+  {
+    "code": "A61K 8/9722",
+    "description": "••••••••••Chlorophycota o Chlorophyta [algas verdes], p. ej. Chlorella [2017.01]"
+  },
+  {
+    "code": "A61K 8/9728",
+    "description": "••••••••Hongos, p. ej. levaduras [2017.01]"
+  },
+  {
+    "code": "A61K 8/9733",
+    "description": "••••••••Líquenes [2017.01]"
+  },
+  {
+    "code": "A61K 8/9739",
+    "description": "••••••••Bryophyta [musgos] [2017.01]"
+  },
+  {
+    "code": "A61K 8/9741",
+    "description": "••••••••Pteridophyta [helechos] [2017.01]"
+  },
+  {
+    "code": "A61K 8/9749",
+    "description": "••••••••••Filicopsida o Pteridopsida [2017.01]"
+  },
+  {
+    "code": "A61K 8/9755",
+    "description": "••••••••Gimnospermas [Coniferophyta] [2017.01]"
+  },
+  {
+    "code": "A61K 8/9761",
+    "description": "••••••••••Cupressaceae [cupresáceas], p. ej. juniperus o cipreses [2017.01]"
+  },
+  {
+    "code": "A61K 8/9767",
+    "description": "••••••••••Pinaceae [pináceas], p. ej. pino o cedro [2017.01]"
+  },
+  {
+    "code": "A61K 8/9771",
+    "description": "••••••••Ginkgophyta, p. ej. Ginkgoaceae [familia del Ginkgo] [2017.01]"
+  },
+  {
+    "code": "A61K 8/9778",
+    "description": "••••••••Gnetophyta, p. ej. Ephedras [familia del “té mormón”] [2017.01]"
+  },
+  {
+    "code": "A61K 8/9783",
+    "description": "••••••••Angiospermas [Magnoliophyta] [2017.01]"
+  },
+  {
+    "code": "A61K 8/9789",
+    "description": "••••••••••Magnoliopsida [dicotiledóneas] [2017.01]"
+  },
+  {
+    "code": "A61K 8/9794",
+    "description": "••••••••••Liliopsida [monocotiledóneas] [2017.01]"
+  },
+  {
+    "code": "A61K 8/98",
+    "description": "••••••de origen animal [2006.01]"
+  },
+  {
+    "code": "A61K 8/99",
+    "description": "••••••a partir de otros microorganismos distintos de algas u hongos, p. ej. protozoos o bacterias [2017.01]"
+  },
+  {
+    "code": "A61K 9/00",
+    "description": "Preparaciones medicinales caracterizadas por un aspecto particular [2006.01]"
+  },
+  {
+    "code": "A61K 9/02",
+    "description": "••Supositorios; Candelillas; Excipientes para supositorios o candelillas (aparatos para su fabricación A61J 3/08; dispositivos para su introducción en el cuerpo A61M 31/00) [2006.01]"
+  },
+  {
+    "code": "A61K 9/06",
+    "description": "••Ungüentos; Excipientes para éstos (aparatos para su fabricación A61J 3/04) [2006.01]"
+  },
+  {
+    "code": "A61K 9/08",
+    "description": "••Soluciones [2006.01]"
+  },
+  {
+    "code": "A61K 9/10",
+    "description": "••Dispersiones; Emulsiones [2006.01]"
+  },
+  {
+    "code": "A61K 9/107",
+    "description": "••••Emulsiones [2006.01]"
+  },
+  {
+    "code": "A61K 9/113",
+    "description": "••••••Emulsiones múltiples, p. ej. aceite-agua-aceite [2006.01]"
+  },
+  {
+    "code": "A61K 9/12",
+    "description": "••••Aerosoles; Espumas [2006.01]"
+  },
+  {
+    "code": "A61K 9/127",
+    "description": "••••Liposomas [2006.01]"
+  },
+  {
+    "code": "A61K 9/133",
+    "description": "••••••Vesículas unilaminares [2006.01]"
+  },
+  {
+    "code": "A61K 9/14",
+    "description": "••en estado especial, p. ej. polvos (microcápsulas A61K 9/50) [2006.01]"
+  },
+  {
+    "code": "A61K 9/16",
+    "description": "••••Aglomerados; Granulados; Microbolitas [2006.01]"
+  },
+  {
+    "code": "A61K 9/18",
+    "description": "••••Adsorbatos [2006.01]"
+  },
+  {
+    "code": "A61K 9/19",
+    "description": "••••liofilizados [2006.01]"
+  },
+  {
+    "code": "A61K 9/20",
+    "description": "••Píldoras, pastillas o comprimidos [2006.01]"
+  },
+  {
+    "code": "A61K 9/22",
+    "description": "••••del tipo de liberación prolongada o discontinua [2006.01]"
+  },
+  {
+    "code": "A61K 9/24",
+    "description": "••••••en dosis unitarias constituidas por capas u hojas [2006.01]"
+  },
+  {
+    "code": "A61K 9/26",
+    "description": "••••••Partículas distintas en una matriz soporte [2006.01]"
+  },
+  {
+    "code": "A61K 9/28",
+    "description": "••••Grageas; Píldoras o comprimidos con revestimientos [2006.01]"
+  },
+  {
+    "code": "A61K 9/30",
+    "description": "••••••Revestimientos orgánicos [2006.01]"
+  },
+  {
+    "code": "A61K 9/32",
+    "description": "••••••••que contienen polímeros sintéticos sólidos [2006.01]"
+  },
+  {
+    "code": "A61K 9/34",
+    "description": "••••••••que contienen gomas o resinas naturales [2006.01]"
+  },
+  {
+    "code": "A61K 9/36",
+    "description": "••••••••que contienen hidratos de carbono o sus derivados (A61K 9/34 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "A61K 9/38",
+    "description": "••••••••que contienen proteínas o sus derivados [2006.01]"
+  },
+  {
+    "code": "A61K 9/40",
+    "description": "••••••••••que contienen gelatina [2006.01]"
+  },
+  {
+    "code": "A61K 9/42",
+    "description": "••••••••que contienen ceras, ácidos grasos superiores, alcoholes grasos superiores o sus derivados, p. ej. chocolates [2006.01]"
+  },
+  {
+    "code": "A61K 9/44",
+    "description": "••••en impresiones, relieves, ranuras o perforaciones [2006.01]"
+  },
+  {
+    "code": "A61K 9/46",
+    "description": "••••efervescentes [2006.01]"
+  },
+  {
+    "code": "A61K 9/48",
+    "description": "••Preparaciones en cápsulas, p. ej. de gelatina, de chocolate [2006.01]"
+  },
+  {
+    "code": "A61K 9/50",
+    "description": "••••Microcápsulas (A61K 9/52 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "A61K 9/51",
+    "description": "••••••Nanocápsulas [2006.01]"
+  },
+  {
+    "code": "A61K 9/52",
+    "description": "••••del tipo con liberación prolongada o discontinua [2006.01]"
+  },
+  {
+    "code": "A61K 9/54",
+    "description": "••••••que contienen partículas distintas con revestimientos de diferentes grosores o de diferentes materiales [2006.01]"
+  },
+  {
+    "code": "A61K 9/56",
+    "description": "••••••••Revestimientos orgánicos [2006.01]"
+  },
+  {
+    "code": "A61K 9/58",
+    "description": "••••••••••que contienen polímeros sintéticos sólidos [2006.01]"
+  },
+  {
+    "code": "A61K 9/60",
+    "description": "••••••••••que contienen gomas o resinas naturales [2006.01]"
+  },
+  {
+    "code": "A61K 9/62",
+    "description": "••••••••••que contienen hidratos de carbono o sus derivados (A61K 9/60 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "A61K 9/64",
+    "description": "••••••••••que contienen proteínas o sus derivados [2006.01]"
+  },
+  {
+    "code": "A61K 9/66",
+    "description": "••••••que contienen emulsiones, dispersiones o soluciones [2006.01]"
+  },
+  {
+    "code": "A61K 9/68",
+    "description": "••del tipo de goma de mascar [2006.01]"
+  },
+  {
+    "code": "A61K 9/70",
+    "description": "••Bases para tiras, hojas o filamentos [2006.01]"
+  },
+  {
+    "code": "A61K 9/72",
+    "description": "••para fumar o inhalar [2006.01]"
+  },
+  {
+    "code": "A61K 31/00",
+    "description": "Preparaciones medicinales que contienen ingredientes orgánicos activos [2006.01]"
+  },
+  {
+    "code": "A61K 31/01",
+    "description": "••Hidrocarburos [2006.01]"
+  },
+  {
+    "code": "A61K 31/015",
+    "description": "••••carbocíclicos [2006.01]"
+  },
+  {
+    "code": "A61K 31/02",
+    "description": "••Hidrocarburos halogenados [2006.01]"
+  },
+  {
+    "code": "A61K 31/025",
+    "description": "••••carbocíclicos [2006.01]"
+  },
+  {
+    "code": "A61K 31/03",
+    "description": "••••••aromáticos [2006.01]"
+  },
+  {
+    "code": "A61K 31/035",
+    "description": "••••que tienen una insaturación alifática [2006.01]"
+  },
+  {
+    "code": "A61K 31/04",
+    "description": "••Compuestos nitrados [2006.01]"
+  },
+  {
+    "code": "A61K 31/045",
+    "description": "••Compuestos hidroxilos, p. ej. alcoholes; Sus sales, p. ej. alcoholatos (hidroperóxidos A61K 31/327) [2006.01]"
+  },
+  {
+    "code": "A61K 31/047",
+    "description": "••••que tienen dos o más grupos hidroxilo, p. ej. sorbitol [2006.01]"
+  },
+  {
+    "code": "A61K 31/05",
+    "description": "••••Fenoles [2006.01]"
+  },
+  {
+    "code": "A61K 31/055",
+    "description": "••••••el núcleo aromático está sustituido por un halógeno [2006.01]"
+  },
+  {
+    "code": "A61K 31/06",
+    "description": "••••••el núcleo aromático está sustituido por grupos nitro [2006.01]"
+  },
+  {
+    "code": "A61K 31/065",
+    "description": "••••Alcoholes acíclicos difenil-sustituidos [2006.01]"
+  },
+  {
+    "code": "A61K 31/07",
+    "description": "••••Compuestos del retinol, p. ej. la vitamina A (ácidos retinoicos A61K 31/203) [2006.01]"
+  },
+  {
+    "code": "A61K 31/075",
+    "description": "••Eteres o acetales [2006.01]"
+  },
+  {
+    "code": "A61K 31/08",
+    "description": "••••acíclicos, p. ej. paraformaldehído [2006.01]"
+  },
+  {
+    "code": "A61K 31/085",
+    "description": "••••que tienen una unión éter con un carbono nuclear de un núcleo aromático [2006.01]"
+  },
+  {
+    "code": "A61K 31/09",
+    "description": "••••••que tienen varias uniones éter [2006.01]"
+  },
+  {
+    "code": "A61K 31/095",
+    "description": "••Compuestos del azufre, del selenio, del teluro, p. ej. tioles [2006.01]"
+  },
+  {
+    "code": "A61K 31/10",
+    "description": "••••Sulfuros; Sulfóxidos; Sulfonas [2006.01]"
+  },
+  {
+    "code": "A61K 31/105",
+    "description": "••••Persulfuros (disulfuros de tiurano A61K 31/145; ácidos tiosulfónicos A61K 31/185) [2006.01]"
+  },
+  {
+    "code": "A61K 31/11",
+    "description": "••Aldehídos [2006.01]"
+  },
+  {
+    "code": "A61K 31/115",
+    "description": "••••Formaldehído [2006.01]"
+  },
+  {
+    "code": "A61K 31/12",
+    "description": "••Cetonas [2006.01]"
+  },
+  {
+    "code": "A61K 31/121",
+    "description": "••••acíclicas [2006.01]"
+  },
+  {
+    "code": "A61K 31/122",
+    "description": "••••que tienen el átomo de oxígeno unido directamente a un ciclo, p. ej.quinonas, vitamina K1, antralina [2006.01]"
+  },
+  {
+    "code": "A61K 31/125",
+    "description": "••••••Alcanfor; Sus derivados sustituidos en el ciclo [2006.01]"
+  },
+  {
+    "code": "A61K 31/13",
+    "description": "••Aminas, p. ej. Amantadina (A61K 31/04 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "A61K 31/131",
+    "description": "••••acíclicas [2006.01]"
+  },
+  {
+    "code": "A61K 31/132",
+    "description": "••••que tienen varios grupos amino, p. ej. espermidina, putrescina [2006.01]"
+  },
+  {
+    "code": "A61K 31/133",
+    "description": "••••que tienen grupos hidroxilo,p. ej. esfingosina [2006.01]"
+  },
+  {
+    "code": "A61K 31/135",
+    "description": "••••que tienen ciclos aromáticos, p. ej. metadona [2006.01]"
+  },
+  {
+    "code": "A61K 31/136",
+    "description": "••••••que tienen el grupo amino unido directamente al ciclo aromático, p. ej. benzamina [2006.01]"
+  },
+  {
+    "code": "A61K 31/137",
+    "description": "••••••Arilalquilaminas, p. ej. Anfetamina, epinefrina, salbutamol, efedrina [2006.01]"
+  },
+  {
+    "code": "A61K 31/138",
+    "description": "••••••Ariloxialquilaminas, p. ej. propranolol, tamoxifeno, fenoxibenzamina (atenolol A61K 31/165; pindolol A61K 31/404; timolol A61K 31/5377) [2006.01]"
+  },
+  {
+    "code": "A61K 31/14",
+    "description": "••••Compuestos del amonio cuaternario, p. ej. edrofonium, colina (betaína A61K 31/205) [2006.01]"
+  },
+  {
+    "code": "A61K 31/145",
+    "description": "••••que tienen átomos de azufre p. ej. tiuranos ( N—C(S)—S—C(S)—N o N—C(S)—S—S—C(S)—N ); Sulfinilaminas (—N=SO); Sulfonilaminas (—N=SO2) (isotioureas A61K 31/155) [2006.01]"
+  },
+  {
+    "code": "A61K 31/15",
+    "description": "••••Oximas ( C=N—O—); Hidracinas ( N—N ); Hidrazonas ( N—N=) [2006.01]"
+  },
+  {
+    "code": "A61K 31/155",
+    "description": "••••Amidinas ( ), p. ej. Guanidina (H2N—C(=NH)—NH2), isourea (HN=C(OH)NH2), isotiourea (HN=C(SH)—NH2) [2006.01]"
+  },
+  {
+    "code": "A61K 31/16",
+    "description": "••Amidas, p. ej. ácidos hidroxámicos [2006.01]"
+  },
+  {
+    "code": "A61K 31/164",
+    "description": "••••de un ácido carboxílico con un aminoalcohol, p. ej. ceramidas [2006.01]"
+  },
+  {
+    "code": "A61K 31/165",
+    "description": "••••teniendo ciclos aromáticos, p. ej. colchicina, atenolol, progabide [2006.01]"
+  },
+  {
+    "code": "A61K 31/166",
+    "description": "••••••que tienen el átomo de carbono de un grupo carboxiamida unido directamente al ciclo aromático, p. ej. procainamida, procarbacina, metoclopramida, labetalol [2006.01]"
+  },
+  {
+    "code": "A61K 31/167",
+    "description": "••••••teniendo el átomo de nitrogeno de un grupo carboxiamida unido directamente al ciclo aromático, p. ej. lidocaina, paracetamol [2006.01]"
+  },
+  {
+    "code": "A61K 31/17",
+    "description": "••••teniendo el grupo N—C(O)—N o N—C(S)—N , p. ej. urea, tiourea, carmustina (isourea, isotiourea A61K 31/155; sulfonilureas A61K 31/64) [2006.01]"
+  },
+  {
+    "code": "A61K 31/175",
+    "description": "••••••teniendo el grupo , N—C(O)—N=N—o , p. ej. carbonohidracidas, carbazonas, semicarbacidas, semicarbazonas; Sus tio-análogos [2006.01]"
+  },
+  {
+    "code": "A61K 31/18",
+    "description": "••••Sulfamidas (compuestos que contienen un grupo para N-benceno-sulfonil-N A61K 31/63) [2006.01]"
+  },
+  {
+    "code": "A61K 31/185",
+    "description": "••Acidos; Sus anhídridos, cloruros o sales, p. ej. ácidos de azufre, ácidos imídicos, hidrazónicos o hidroxímicos (ácidos hidroxámicos A61K 31/16; peroxiácidos A61K 31/327) [2006.01]"
+  },
+  {
+    "code": "A61K 31/19",
+    "description": "••••Acidos carboxílicos, p. ej.ácido valproico (ácido salicílico A61K 31/60) [2006.01]"
+  },
+  {
+    "code": "A61K 31/191",
+    "description": "••••••Acidos acíclicos que tienen varios grupos hidroxilo, p. ej. ácido glucónico [2006.01]"
+  },
+  {
+    "code": "A61K 31/192",
+    "description": "••••••que tienen grupos aromáticos, p. ej. sulindac, ácidos 2-aril-propiónicos, ácido etacrínico [2006.01]"
+  },
+  {
+    "code": "A61K 31/194",
+    "description": "••••••que tienen dos o más grupos carboxilo, p. ej. ácidos succínico, maléico o ftálico [2006.01]"
+  },
+  {
+    "code": "A61K 31/195",
+    "description": "••••••que tienen un grupo amino [2006.01]"
+  },
+  {
+    "code": "A61K 31/196",
+    "description": "••••••••estando el grupo amino unido directamente a un ciclo, p. ej. ácido antranílico, ácido mefenámico, diclofenac, clorambucilo [2006.01]"
+  },
+  {
+    "code": "A61K 31/197",
+    "description": "••••••••estando los grupos amino y carboxílico unidos a la misma cadena carbonada acíclica, p. ej. ácido gama-aminobutírico (GABA), beta-alanina, ácido epsilon-aminocaproico, ácido pantoténico (carnitina A61K 31/205) [2006.01]"
+  },
+  {
+    "code": "A61K 31/198",
+    "description": "••••••••••Alfa-amino-ácidos, p. ej. alanina, ácido etilendiamino tetraacético (EDTA) (betaína A61K 31/205; prolina A61K 31/401; triptófano A61K 31/405; histidina A61K 31/4172; péptidos no degradados en aminoácidos individuales A61K 38/00) [2006.01]"
+  },
+  {
+    "code": "A61K 31/20",
+    "description": "••••••que tienen un grupo carboxilo unido a una cadena acíclica de al menos siete átomos de carbono, p. ej. ácidos esteárico, palmítico o araquídico [2006.01]"
+  },
+  {
+    "code": "A61K 31/201",
+    "description": "••••••••teniendo uno o dos dobles enlaces, p. ej. ácidos oléico o linoléico [2006.01]"
+  },
+  {
+    "code": "A61K 31/202",
+    "description": "••••••••teniendo al menos tres dobles enlaces, p. ej. ácido linolénico (eicosanoides, p. ej. leucotrienos, A61K 31/557) [2006.01]"
+  },
+  {
+    "code": "A61K 31/203",
+    "description": "••••••••Acidos retinoicos [2006.01]"
+  },
+  {
+    "code": "A61K 31/205",
+    "description": "••••Sales que provienen de la adición de ácidos orgánicos y aminas; sales de amonio cuaternario internas, p. ej. betaína, carnitina [2006.01]"
+  },
+  {
+    "code": "A61K 31/21",
+    "description": "••Esteres, p. ej. nitroglicerina, selenocianatos [2006.01]"
+  },
+  {
+    "code": "A61K 31/215",
+    "description": "••••de ácidos carboxílicos [2006.01]"
+  },
+  {
+    "code": "A61K 31/216",
+    "description": "••••••de ácidos que tienen ciclos aromáticos, p. ej. benacticina, clofibrato [2006.01]"
+  },
+  {
+    "code": "A61K 31/22",
+    "description": "••••••de ácidos acíclicos, p. ej. pravastatina [2006.01]"
+  },
+  {
+    "code": "A61K 31/221",
+    "description": "••••••••con compuestos que tienen un grupo amino, p. ej. acetilcolina, acetilcarnitina [2006.01]"
+  },
+  {
+    "code": "A61K 31/222",
+    "description": "••••••••con compuestos que tienen grupos aromáticos, p. ej. dipivefrina ibopamina [2006.01]"
+  },
+  {
+    "code": "A61K 31/223",
+    "description": "••••••••de alfa aminoácidos [2006.01]"
+  },
+  {
+    "code": "A61K 31/225",
+    "description": "••••••••Acidos policarboxílicos [2006.01]"
+  },
+  {
+    "code": "A61K 31/23",
+    "description": "••••••••de ácidos que tienen un grupo carboxilo unido a una cadena de al menos siete átomos de carbono [2006.01]"
+  },
+  {
+    "code": "A61K 31/231",
+    "description": "••••••••••que tienen uno o dos dobles enlaces [2006.01]"
+  },
+  {
+    "code": "A61K 31/232",
+    "description": "••••••••••que tienen al menos tres dobles enlaces, p. ej. etretinato [2006.01]"
+  },
+  {
+    "code": "A61K 31/235",
+    "description": "••••••que tienen un núcleo aromático unido a un grupo carboxilo [2006.01]"
+  },
+  {
+    "code": "A61K 31/24",
+    "description": "••••••••que tienen un grupo amino o nitro [2006.01]"
+  },
+  {
+    "code": "A61K 31/245",
+    "description": "••••••••••del tipo ácido aminobenzoico, p. ej. procaína, novocaína (ésteres del ácido salicílico A61K 31/60) [2006.01]"
+  },
+  {
+    "code": "A61K 31/25",
+    "description": "••••••con alcoholes polioxialcoholados, p. ej. ésteres del polietilenglicol [2006.01]"
+  },
+  {
+    "code": "A61K 31/255",
+    "description": "••••de ácidos oxigenados del azufre o sus tio-análogos [2006.01]"
+  },
+  {
+    "code": "A61K 31/26",
+    "description": "••••Esteres de ácido ciánico o isociánico; Esteres de ácido tiociánico o isotiociánico [2006.01]"
+  },
+  {
+    "code": "A61K 31/265",
+    "description": "••••de ácidos carbónicos, tiocarbónicos, tiocarboxílicos, p. ej. ácido tioacético, ácido xantogénico, ácido tritiocarbónico [2006.01]"
+  },
+  {
+    "code": "A61K 31/27",
+    "description": "••••de ácidos carbámicos o tiocarbámicos, p. ej. meprobamato, carbacol, neostigmina [2006.01]"
+  },
+  {
+    "code": "A61K 31/275",
+    "description": "••Nitrilos; Isonitrilos [2006.01]"
+  },
+  {
+    "code": "A61K 31/277",
+    "description": "••••teniendo un ciclo, p. ej. verapamil [2006.01]"
+  },
+  {
+    "code": "A61K 31/28",
+    "description": "••Compuestos que contienen metales pesados [2006.01]"
+  },
+  {
+    "code": "A61K 31/282",
+    "description": "••••Compuestos del platino [2006.01]"
+  },
+  {
+    "code": "A61K 31/285",
+    "description": "••••Compuestos del arsénico [2006.01]"
+  },
+  {
+    "code": "A61K 31/29",
+    "description": "••••Compuestos del antimonio o del bismuto [2006.01]"
+  },
+  {
+    "code": "A61K 31/295",
+    "description": "••••Compuestos de metales del grupo del hierro [2006.01]"
+  },
+  {
+    "code": "A61K 31/30",
+    "description": "••••Compuestos del cobre [2006.01]"
+  },
+  {
+    "code": "A61K 31/305",
+    "description": "••••Compuestos del mercurio [2006.01]"
+  },
+  {
+    "code": "A61K 31/31",
+    "description": "••••••que contienen nitrógeno [2006.01]"
+  },
+  {
+    "code": "A61K 31/315",
+    "description": "••••Compuestos del cinc [2006.01]"
+  },
+  {
+    "code": "A61K 31/32",
+    "description": "••••Compuestos del estaño [2006.01]"
+  },
+  {
+    "code": "A61K 31/325",
+    "description": "••Acidos carbámicos; Acidos tiocarbámicos; Sus anhídridos o sales (tiuranos A61K 31/145) [2006.01]"
+  },
+  {
+    "code": "A61K 31/327",
+    "description": "••Compuestos peroxi, p. ej. hidroperóxidos, peróxidos, peroxiacidos [2006.01]"
+  },
+  {
+    "code": "A61K 31/33",
+    "description": "••Compuestos heterocíclicos [2006.01]"
+  },
+  {
+    "code": "A61K 31/335",
+    "description": "••••que tienen el oxígeno como único heteroátomo de un ciclo, p. ej. fungicromina [2006.01]"
+  },
+  {
+    "code": "A61K 31/336",
+    "description": "••••••teniendo ciclos de tres eslabones, p. ej. oxirano, fumagilina [2006.01]"
+  },
+  {
+    "code": "A61K 31/337",
+    "description": "••••••que tienen ciclos de cuatro eslabones, p. ej. taxol [2006.01]"
+  },
+  {
+    "code": "A61K 31/34",
+    "description": "••••••que tienen ciclos con cinco eslabones con un oxígeno como único heteroátomo de un ciclo, p. ej. isosorbida [2006.01]"
+  },
+  {
+    "code": "A61K 31/341",
+    "description": "••••••••no condensados con otro ciclo, p. ej. ranitidina, furosemida, bufetolol, muscarina [2006.01]"
+  },
+  {
+    "code": "A61K 31/343",
+    "description": "••••••••condensados con un carbociclo, p. ej. cumarano, bufuralol, bufenolol, clobenfurol, amiodarona [2006.01]"
+  },
+  {
+    "code": "A61K 31/345",
+    "description": "••••••••Nitrofuranos (nitrofurantoina A61K 31/4178) [2006.01]"
+  },
+  {
+    "code": "A61K 31/35",
+    "description": "••••••que tienen ciclos con seis eslabones con un oxígeno como único heteroátomo de un ciclo [2006.01]"
+  },
+  {
+    "code": "A61K 31/351",
+    "description": "••••••••no condensados con otro ciclo [2006.01]"
+  },
+  {
+    "code": "A61K 31/352",
+    "description": "••••••••condensados con carbociclos, p. ej. canabinoles, metantelina [2006.01]"
+  },
+  {
+    "code": "A61K 31/353",
+    "description": "••••••••••3,4-Dihidrobenzopiranos, p. ej. cromano, catequina [2006.01]"
+  },
+  {
+    "code": "A61K 31/355",
+    "description": "••••••••••••Tocoferoles, p. ej. vitamina E [2006.01]"
+  },
+  {
+    "code": "A61K 31/357",
+    "description": "••••••teniendo dos o más átomos de oxígeno en el mismo ciclo, p. ej. eteres en corona, guanadrel [2006.01]"
+  },
+  {
+    "code": "A61K 31/36",
+    "description": "••••••••Compuestos que contienen grupos metilendioxifenilo, p. ej sesamina [2006.01]"
+  },
+  {
+    "code": "A61K 31/365",
+    "description": "••••••Lactonas [2006.01]"
+  },
+  {
+    "code": "A61K 31/366",
+    "description": "••••••••teniendo ciclos de seis eslabones, p. ej. delta-lactonas [2006.01]"
+  },
+  {
+    "code": "A61K 31/37",
+    "description": "••••••••••Cumarinas, p. ej. psoralenos [2006.01]"
+  },
+  {
+    "code": "A61K 31/375",
+    "description": "••••••••Acido ascórbico, es decir, vitamina C; Sus sales [2006.01]"
+  },
+  {
+    "code": "A61K 31/38",
+    "description": "••••que tienen el azufre como heteroátomo de un ciclo [2006.01]"
+  },
+  {
+    "code": "A61K 31/381",
+    "description": "••••••teniendo ciclos de cinco eslabones [2006.01]"
+  },
+  {
+    "code": "A61K 31/382",
+    "description": "••••••teniendo ciclos de seis eslabones, p. ej. tioxantenos (tiotixeno A61K 31/496) [2006.01]"
+  },
+  {
+    "code": "A61K 31/385",
+    "description": "••••••que tienen dos o más átomos de azufre en el mismo ciclo [2006.01]"
+  },
+  {
+    "code": "A61K 31/39",
+    "description": "••••••que tienen átomos de oxígeno en el mismo ciclo [2006.01]"
+  },
+  {
+    "code": "A61K 31/395",
+    "description": "••••que tienen el nitrógeno como heteroátomo de un ciclo, p. ej. guanetidina o rifamicina [2006.01]"
+  },
+  {
+    "code": "A61K 31/396",
+    "description": "••••••teniendo ciclos de tres eslabones, p. ej. aziridina [2006.01]"
+  },
+  {
+    "code": "A61K 31/397",
+    "description": "••••••teniendo ciclos de cuatro eslabones, p. ej. azetidina [2006.01]"
+  },
+  {
+    "code": "A61K 31/40",
+    "description": "••••••que tienen ciclos con cinco eslabones con un nitrógeno como único heteroátomo de un ciclo, p. ej. sulpirida, succinimida, tolmetina, buflomedil [2006.01]"
+  },
+  {
+    "code": "A61K 31/401",
+    "description": "••••••••Prolina; Sus derivados, p. ej. captopril [2006.01]"
+  },
+  {
+    "code": "A61K 31/4015",
+    "description": "••••••••teniendo grupos oxo unidos directamente al heterociclo, p. ej. piracetam, etosuximida [2006.01]"
+  },
+  {
+    "code": "A61K 31/402",
+    "description": "••••••••substituidos por un grupo arilo en posición 1, p. ej. piretanida [2006.01]"
+  },
+  {
+    "code": "A61K 31/4025",
+    "description": "••••••••no condensados y conteniendo otros heterociclos, p. ej. cromakalim [2006.01]"
+  },
+  {
+    "code": "A61K 31/403",
+    "description": "••••••••condensados con carbociclos, p. ej. carbazol [2006.01]"
+  },
+  {
+    "code": "A61K 31/4035",
+    "description": "••••••••••Isoindoles, p. ej. ftalimida [2006.01]"
+  },
+  {
+    "code": "A61K 31/404",
+    "description": "••••••••••Indoles, p. ej. pindolol [2006.01]"
+  },
+  {
+    "code": "A61K 31/4045",
+    "description": "••••••••••••Indol-alquilaminas; Sus amidas, p. ej. serotonina, melatonina [2006.01]"
+  },
+  {
+    "code": "A61K 31/405",
+    "description": "••••••••••••Acidos indol-alcoilcarboxílicos; Sus derivados, p. ej. triptófano,indometacina [2006.01]"
+  },
+  {
+    "code": "A61K 31/407",
+    "description": "••••••••condensados con sistemas heterocíclicos, p. ej. ketorolac, fisostigmina [2006.01]"
+  },
+  {
+    "code": "A61K 31/409",
+    "description": "••••••••teniendo cuatro de estos ciclos, p. ej. derivados de la porfina bilirrubina, biliverdina (hemina, hematina A61K 31/555) [2006.01]"
+  },
+  {
+    "code": "A61K 31/41",
+    "description": "••••••que tienen ciclos con cinco eslabones con varios heteroátomos, uno al menos nitrógeno, p. ej. tetraazoles [2006.01]"
+  },
+  {
+    "code": "A61K 31/415",
+    "description": "••••••••1,2-Diazoles [2006.01]"
+  },
+  {
+    "code": "A61K 31/4152",
+    "description": "••••••••••teniendo grupos oxo unidos directamente al heterociclo, p. ej. antipirina, fenilbutazona, sulfinpirazona [2006.01]"
+  },
+  {
+    "code": "A61K 31/4155",
+    "description": "••••••••••no condensados y conteniendo otros heterociclos [2006.01]"
+  },
+  {
+    "code": "A61K 31/416",
+    "description": "••••••••••condensados con sistemas carbocíclicos, p. ej. indazol [2006.01]"
+  },
+  {
+    "code": "A61K 31/4162",
+    "description": "••••••••••condensados con sistemas heterocíclicos [2006.01]"
+  },
+  {
+    "code": "A61K 31/4164",
+    "description": "••••••••1,3-Diazoles [2006.01]"
+  },
+  {
+    "code": "A61K 31/4166",
+    "description": "••••••••••teniendo grupos oxo unidos directamente al heterociclo, p. ej. fenitoína [2006.01]"
+  },
+  {
+    "code": "A61K 31/4168",
+    "description": "••••••••••teniendo un átomo de nitrógeno unido en posición 2, p. ej. clonidina [2006.01]"
+  },
+  {
+    "code": "A61K 31/417",
+    "description": "••••••••••Imidazol-alquilaminas, p. ej. histamina, fentolamina [2006.01]"
+  },
+  {
+    "code": "A61K 31/4172",
+    "description": "••••••••••Acidos imidazol-alcoilcarboxílicos, p. ej. histidina [2006.01]"
+  },
+  {
+    "code": "A61K 31/4174",
+    "description": "••••••••••Arilalquilimidazoles, p. ej. oximetazolina, nafazolina, miconazol [2006.01]"
+  },
+  {
+    "code": "A61K 31/4178",
+    "description": "••••••••••no condensados y conteniendo otros heterociclos, p. ej. pilocarpina, nitrofurantoína [2006.01]"
+  },
+  {
+    "code": "A61K 31/4184",
+    "description": "••••••••••condensados con carbociclos, p. ej. bencimidazoles [2006.01]"
+  },
+  {
+    "code": "A61K 31/4188",
+    "description": "••••••••••condensados con heterocidos, p. ej. biotina, sorbinil [2006.01]"
+  },
+  {
+    "code": "A61K 31/4192",
+    "description": "••••••••1,2,3-Triazoles [2006.01]"
+  },
+  {
+    "code": "A61K 31/4196",
+    "description": "••••••••1,2,4-Triazoles [2006.01]"
+  },
+  {
+    "code": "A61K 31/42",
+    "description": "••••••••Oxazoles [2006.01]"
+  },
+  {
+    "code": "A61K 31/421",
+    "description": "••••••••••1,3-Oxazoles, p. ej. pemolina, trimetadiona [2006.01]"
+  },
+  {
+    "code": "A61K 31/422",
+    "description": "••••••••••no condensados y conteniendo otros heterociclos [2006.01]"
+  },
+  {
+    "code": "A61K 31/423",
+    "description": "••••••••••condensados con carbociclos [2006.01]"
+  },
+  {
+    "code": "A61K 31/424",
+    "description": "••••••••••condensados con sistemas heterocíclicos, p. ej. ácido clavulánico [2006.01]"
+  },
+  {
+    "code": "A61K 31/4245",
+    "description": "••••••••Oxadiazoles [2006.01]"
+  },
+  {
+    "code": "A61K 31/425",
+    "description": "••••••••Tiazoles [2006.01]"
+  },
+  {
+    "code": "A61K 31/426",
+    "description": "••••••••••1,3-Tiazoles [2006.01]"
+  },
+  {
+    "code": "A61K 31/427",
+    "description": "••••••••••no condensados y conteniendo otros heterociclos [2006.01]"
+  },
+  {
+    "code": "A61K 31/428",
+    "description": "••••••••••condensados con carbociclos [2006.01]"
+  },
+  {
+    "code": "A61K 31/429",
+    "description": "••••••••••condensados con sistemas heterocíclicos [2006.01]"
+  },
+  {
+    "code": "A61K 31/43",
+    "description": "••••••••••••Compuesto que contienen sistemas cíclicos tia-4 aza-1 biciclo [3.2.0] heptano, es decir, compuestos que contienen un sistema cíclico de fórmula , p. ej. penicilinas, penems [2006.01]"
+  },
+  {
+    "code": "A61K 31/431",
+    "description": "••••••••••••••conteniendo otros sistemas heterocíclicos, p. ej. ticarcilina, azlocilina, oxacilina [2006.01]"
+  },
+  {
+    "code": "A61K 31/433",
+    "description": "••••••••Tiadiazoles [2006.01]"
+  },
+  {
+    "code": "A61K 31/435",
+    "description": "••••••que tienen ciclos con seis eslabones con un nitrógeno como único heteroátomo de un ciclo [2006.01]"
+  },
+  {
+    "code": "A61K 31/4353",
+    "description": "••••••••condensados en orto o en peri con sistemas heterocíclicos [2006.01]"
+  },
+  {
+    "code": "A61K 31/4355",
+    "description": "••••••••••conteniendo el sistema heterocíclico un ciclo de cinco eslabones teniendo el oxígeno como heteroátomo del ciclo [2006.01]"
+  },
+  {
+    "code": "A61K 31/436",
+    "description": "••••••••••conteniendo el sistema heterocíclico un ciclo de seis eslabones teniendo el oxígeno como heteroátomo del ciclo, p. ej. rapamicina [2006.01]"
+  },
+  {
+    "code": "A61K 31/4365",
+    "description": "••••••••••teniendo el sistema heterociclico el azufre como heteroátomo del ciclo, p. ej. ticlopidina [2006.01]"
+  },
+  {
+    "code": "A61K 31/437",
+    "description": "••••••••••conteniendo el sistema heterocíclico un ciclo de cinco eslabones teniendo el nitrógeno como heteroátomo del ciclo, p. ej. indolicina, beta-carbolina [2006.01]"
+  },
+  {
+    "code": "A61K 31/4375",
+    "description": "••••••••••conteniendo el sistema heterocíclico un ciclo de seis eslabones teniendo el nitrógeno como heteroátomo del ciclo, p. ej. quinolicinas, naftiridinas, berberina, vincamina [2006.01]"
+  },
+  {
+    "code": "A61K 31/438",
+    "description": "••••••••estando el ciclo condensado en espiro con sistemas carbocíclicos o heterocíclicos [2006.01]"
+  },
+  {
+    "code": "A61K 31/439",
+    "description": "••••••••formando parte el ciclo de un sistema cíclico puenteado, p. ej. quinuclidina (aza-8-biciclo[3.2.1]octanos A61K 31/46) [2006.01]"
+  },
+  {
+    "code": "A61K 31/44",
+    "description": "••••••••Piridinas no condensadas; Sus derivados hidrogenados [2006.01]"
+  },
+  {
+    "code": "A61K 31/4402",
+    "description": "••••••••••sustituidos unicamente en posición 2, p. ej. feniramina, bisacodil [2006.01]"
+  },
+  {
+    "code": "A61K 31/4406",
+    "description": "••••••••••sustituidos unicamente en posición 3, p. ej. zimeldina (ácido nicotínico A61K 31/455) [2006.01]"
+  },
+  {
+    "code": "A61K 31/4409",
+    "description": "••••••••••sustituidos unicamente en posición 4, p. ej. isoniazida, iproniazida [2006.01]"
+  },
+  {
+    "code": "A61K 31/4412",
+    "description": "••••••••••teniendo grupos oxo unidos directamente al heterociclo [2006.01]"
+  },
+  {
+    "code": "A61K 31/4415",
+    "description": "••••••••••Piridoxina, es decir vitamina B6 (fosfato de piridoxal A61K 31/675) [2006.01]"
+  },
+  {
+    "code": "A61K 31/4418",
+    "description": "••••••••••teniendo un carbociclo unido directamente al heterociclo, p. ej. ciproheptadina [2006.01]"
+  },
+  {
+    "code": "A61K 31/4422",
+    "description": "••••••••••1,4-Dihidropiridinas, p. ej. nifedipino, nicardipino [2006.01]"
+  },
+  {
+    "code": "A61K 31/4425",
+    "description": "••••••••••Derivados de piridinium, p. ej. pralidoxima, piridostigmina [2006.01]"
+  },
+  {
+    "code": "A61K 31/4427",
+    "description": "••••••••••conteniendo otros sistemas heterocíclicos [2006.01]"
+  },
+  {
+    "code": "A61K 31/443",
+    "description": "••••••••••••conteniendo un ciclo de cinco eslabones con el oxígeno como heteroátomo del ciclo [2006.01]"
+  },
+  {
+    "code": "A61K 31/4433",
+    "description": "••••••••••••conteniendo un ciclo de seis eslabones con el oxígeno como heteroátomo del ciclo [2006.01]"
+  },
+  {
+    "code": "A61K 31/4436",
+    "description": "••••••••••••conteniendo un heterociclo con el azufre como heteroátomo del ciclo [2006.01]"
+  },
+  {
+    "code": "A61K 31/4439",
+    "description": "••••••••••••conteniendo un ciclo de cinco eslabones con el nitrógeno como heteroátomo del ciclo, p. ej. omeprazol (nicotina A61K 31/465) [2006.01]"
+  },
+  {
+    "code": "A61K 31/444",
+    "description": "••••••••••••conteniendo un ciclo de seis eslabones con el nitrógeno como heteroátomo del ciclo, p. ej. amrinona [2006.01]"
+  },
+  {
+    "code": "A61K 31/445",
+    "description": "••••••••••Piperidinas no condensadas, p. ej. piperocaína [2006.01]"
+  },
+  {
+    "code": "A61K 31/4453",
+    "description": "••••••••••••sustituidos unicamente en posición 1, p. ej. propipocaína, diperodona [2006.01]"
+  },
+  {
+    "code": "A61K 31/4458",
+    "description": "••••••••••••sustituidos unicamente en posición 2, p. ej. metilfenidato [2006.01]"
+  },
+  {
+    "code": "A61K 31/4462",
+    "description": "••••••••••••sustituidos unicamente en posición 3 [2006.01]"
+  },
+  {
+    "code": "A61K 31/4465",
+    "description": "••••••••••••sustituido en posición 4 [2006.01]"
+  },
+  {
+    "code": "A61K 31/4468",
+    "description": "••••••••••••teniendo un átomo de nitrógeno unido directamente en posición 4, p. ej. cleboprida, fentanil [2006.01]"
+  },
+  {
+    "code": "A61K 31/45",
+    "description": "••••••••••••teniendo grupos oxo unidos directamente al heterociclo, p. ej. cicloheximida [2006.01]"
+  },
+  {
+    "code": "A61K 31/451",
+    "description": "••••••••••••teniendo un carbociclo unido directamente al heterociclo, p. ej. glutetimida, meperidina, loperamida, fenciclidina, piminodina [2006.01]"
+  },
+  {
+    "code": "A61K 31/4515",
+    "description": "••••••••••••teniendo un grupo butirofenona en posición 1, p. ej. haloperidol (pipamperona A61K 31/4545) [2006.01]"
+  },
+  {
+    "code": "A61K 31/452",
+    "description": "••••••••••••Derivados de piperidinium (pancuronium A61K 31/58) [2006.01]"
+  },
+  {
+    "code": "A61K 31/4523",
+    "description": "••••••••••••conteniendo otros sistemas heterocíclicos [2006.01]"
+  },
+  {
+    "code": "A61K 31/4525",
+    "description": "••••••••••••••conteniendo un ciclo de cinco eslabones con el oxígeno como heteroátomo del ciclo [2006.01]"
+  },
+  {
+    "code": "A61K 31/453",
+    "description": "••••••••••••••conteniendo un ciclo de seis eslabones con el oxígeno como heteroátomo del ciclo [2006.01]"
+  },
+  {
+    "code": "A61K 31/4535",
+    "description": "••••••••••••••conteniendo un heterociclo con el azufre como heteroátomo del ciclo, p. ej. pizotifeno [2006.01]"
+  },
+  {
+    "code": "A61K 31/454",
+    "description": "••••••••••••••conteniendo un ciclo de cinco eslabones con el nitrógeno como heteroátomo del ciclo, p. ej. pimozida, domperidona [2006.01]"
+  },
+  {
+    "code": "A61K 31/4545",
+    "description": "••••••••••••••conteniendo un ciclo de seis eslabones con el nitrógeno como heteroátomo del ciclo, p. ej. pipamperona, anabasina [2006.01]"
+  },
+  {
+    "code": "A61K 31/455",
+    "description": "••••••••••Acido nicotínico, es decir, niacina; Sus derivados, p. ej. esteres, amidas [2006.01]"
+  },
+  {
+    "code": "A61K 31/46",
+    "description": "••••••••Aza-8-biciclo[3.2.1]octano; Sus derivados, p. ej. atropina, cocaína [2006.01]"
+  },
+  {
+    "code": "A61K 31/465",
+    "description": "••••••••Nicotina; Sus derivados [2006.01]"
+  },
+  {
+    "code": "A61K 31/47",
+    "description": "••••••••Quinoleínas; Isoquinoleínas [2006.01]"
+  },
+  {
+    "code": "A61K 31/4704",
+    "description": "••••••••••2-Quinolonas, p. ej. carboestirilo [2006.01]"
+  },
+  {
+    "code": "A61K 31/4706",
+    "description": "••••••••••4-Aminoquinoleínas; 8-Aminoquinoleínas, p. ej. cloroquina, primaquina [2006.01]"
+  },
+  {
+    "code": "A61K 31/4709",
+    "description": "••••••••••Quinoleínas no condensadas conteniendo otros heterociclos [2006.01]"
+  },
+  {
+    "code": "A61K 31/472",
+    "description": "••••••••••Isoquinoleínas no condensadas, p. ej. papaverina [2006.01]"
+  },
+  {
+    "code": "A61K 31/4725",
+    "description": "••••••••••••conteniendo otros heterociclos [2006.01]"
+  },
+  {
+    "code": "A61K 31/473",
+    "description": "••••••••••condensadas en orto o en peri con sistemas carbocíclicos, p. ej. acridinas, fenantridinas [2006.01]"
+  },
+  {
+    "code": "A61K 31/4738",
+    "description": "••••••••••condensadas en orto o en peri con sistemas heterocíclicos [2006.01]"
+  },
+  {
+    "code": "A61K 31/4741",
+    "description": "••••••••••••condensadas con sistemas cíclicos teniendo el oxígeno como heteroátomo de un ciclo, p. ej. derivados de la tubocurarina, noscapina, bicuculina [2006.01]"
+  },
+  {
+    "code": "A61K 31/4743",
+    "description": "••••••••••••condensados con sistemas cíclicos teniendo el azufre como heteroátomo de un ciclo [2006.01]"
+  },
+  {
+    "code": "A61K 31/4745",
+    "description": "••••••••••••condensados con sistemas cíclicos teniendo el nitrógeno como heteroátomo de un ciclo, p. ej. fenantrolinas (derivados de la yohimbina, vinblastina A61K 31/475; derivados de la ergolina A61K 31/48) [2006.01]"
+  },
+  {
+    "code": "A61K 31/4747",
+    "description": "••••••••••condensados en espiro [2006.01]"
+  },
+  {
+    "code": "A61K 31/4748",
+    "description": "••••••••••formando parte de sistemas cíclicos puenteados (estricnina A61K 31/475; derivados de morfinano A61K 31/485) [2006.01]"
+  },
+  {
+    "code": "A61K 31/475",
+    "description": "••••••••••que tienen un ciclo indol, p. ej. yohimbina, reserpina, estricnina, vinblastina (vincamina A61K 31/4375) [2006.01]"
+  },
+  {
+    "code": "A61K 31/48",
+    "description": "••••••••••Derivados de la ergolina, p. ej. ácido lisérgico, ergotamina [2006.01]"
+  },
+  {
+    "code": "A61K 31/485",
+    "description": "••••••••••Derivados del morfinano, p. ej. morfina, codeína [2006.01]"
+  },
+  {
+    "code": "A61K 31/49",
+    "description": "••••••••••Derivados de la cinconina, p. ej. quinina [2006.01]"
+  },
+  {
+    "code": "A61K 31/495",
+    "description": "••••••que tienen ciclos con seis eslabones con dos nitrógenos como únicos heteroátomos de un ciclo, p. ej. piperazina (A61K 31/48 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "A61K 31/496",
+    "description": "••••••••Piperazinas no condensadas conteniendo otros heterociclos, p. ej. rifampicina, tiotixeno [2006.01]"
+  },
+  {
+    "code": "A61K 31/4965",
+    "description": "••••••••Pirazinas no condensadas [2006.01]"
+  },
+  {
+    "code": "A61K 31/497",
+    "description": "••••••••••conteniendo otros heterociclos [2006.01]"
+  },
+  {
+    "code": "A61K 31/498",
+    "description": "••••••••Pirazinas o piperazinas condensadas en orto o en peri con sistemas carbocíclicos, p. ej. quinoxalina, fenazina [2006.01]"
+  },
+  {
+    "code": "A61K 31/4985",
+    "description": "••••••••Pirazinas o piperazinas condensadas en orto o en peri con sistemas heterocíclicos [2006.01]"
+  },
+  {
+    "code": "A61K 31/499",
+    "description": "••••••••Pirazinas o piperazinas condensadas en espiro [2006.01]"
+  },
+  {
+    "code": "A61K 31/4995",
+    "description": "••••••••Pirazinas o piperazinas que forman parte de un sistema cíclico puenteado [2006.01]"
+  },
+  {
+    "code": "A61K 31/50",
+    "description": "••••••••Piridazinas; Piridazinas hidrogenadas [2006.01]"
+  },
+  {
+    "code": "A61K 31/501",
+    "description": "••••••••••no condensadas y conteniendo otros heterociclos [2006.01]"
+  },
+  {
+    "code": "A61K 31/502",
+    "description": "••••••••••condensadas en orto o en peri con sistemas carbocíclicos, p. ej. cinolina, ftalazina [2006.01]"
+  },
+  {
+    "code": "A61K 31/5025",
+    "description": "••••••••••condensadas en orto o en peri con sistemas heterocíclicos [2006.01]"
+  },
+  {
+    "code": "A61K 31/503",
+    "description": "••••••••••condensadas en espiro [2006.01]"
+  },
+  {
+    "code": "A61K 31/504",
+    "description": "••••••••••que forman parte de sistemas cíclicos puenteados [2006.01]"
+  },
+  {
+    "code": "A61K 31/505",
+    "description": "••••••••Pirimidinas; Pirimidinas hidrogenadas, p. ej. trimetoprima [2006.01]"
+  },
+  {
+    "code": "A61K 31/506",
+    "description": "••••••••••no condensadas y conteniendo otros heterociclos [2006.01]"
+  },
+  {
+    "code": "A61K 31/51",
+    "description": "••••••••••••Tiaminas, p. ej. vitamina B1 [2006.01]"
+  },
+  {
+    "code": "A61K 31/513",
+    "description": "••••••••••teniendo grupos oxo unidos directamente al heterociclo, p. ej. citosina [2006.01]"
+  },
+  {
+    "code": "A61K 31/515",
+    "description": "••••••••••••Acidos barbitúricos; Sus derivados, p. ej. pentobarbital sódico [2006.01]"
+  },
+  {
+    "code": "A61K 31/517",
+    "description": "••••••••••condensadas en orto o en peri con sistemas carbocíclicos, p. ej. quinazolina, perimidina [2006.01]"
+  },
+  {
+    "code": "A61K 31/519",
+    "description": "••••••••••condensadas en orto o en peri con heterociclos [2006.01]"
+  },
+  {
+    "code": "A61K 31/52",
+    "description": "••••••••••••Purinas, p. ej. adenina [2006.01]"
+  },
+  {
+    "code": "A61K 31/522",
+    "description": "••••••••••••••teniendo grupos oxo unidos directamente al heterociclo, p. ej. hipoxantina, guanina, aciclovir [2006.01]"
+  },
+  {
+    "code": "A61K 31/525",
+    "description": "••••••••••••Iso-aloxazinas, p. ej. riboflavinas, vitamina B2 [2006.01]"
+  },
+  {
+    "code": "A61K 31/527",
+    "description": "••••••••••condensadas en espiro [2006.01]"
+  },
+  {
+    "code": "A61K 31/529",
+    "description": "••••••••••formando parte de sistemas cíclicos puenteados [2006.01]"
+  },
+  {
+    "code": "A61K 31/53",
+    "description": "••••••que tienen ciclos con seis eslabones con tres nitrógenos como únicos heteroátomos de un ciclo, p. ej. clorazanil, melamina, (melarsoprol A61K 31/555) [2006.01]"
+  },
+  {
+    "code": "A61K 31/535",
+    "description": "••••••que tienen ciclos con seis eslabones con al menos un nitrógeno y al menos un oxígeno como heteroátomos de un ciclo, p. ej. 1,2-oxazinas [2006.01]"
+  },
+  {
+    "code": "A61K 31/5355",
+    "description": "••••••••Oxazinas no condensadas conteniendo otros heterociclos [2006.01]"
+  },
+  {
+    "code": "A61K 31/536",
+    "description": "••••••••condensadas en orto o en peri con sistemas carbocíclicos [2006.01]"
+  },
+  {
+    "code": "A61K 31/5365",
+    "description": "••••••••condensadas en orto o en peri con sistemas heterocíclicos [2006.01]"
+  },
+  {
+    "code": "A61K 31/537",
+    "description": "••••••••condensadas en espiro o formando parte de sistemas cíclicos puenteados [2006.01]"
+  },
+  {
+    "code": "A61K 31/5375",
+    "description": "••••••••1,4-Oxazinas, p. ej. morfolina [2006.01]"
+  },
+  {
+    "code": "A61K 31/5377",
+    "description": "••••••••••no condensadas y conteniendo otros heterociclos, p. ej. timolol [2006.01]"
+  },
+  {
+    "code": "A61K 31/538",
+    "description": "••••••••••condensadas en orto o en peri con sistemas carbocíclicos [2006.01]"
+  },
+  {
+    "code": "A61K 31/5383",
+    "description": "••••••••••condensadas en orto o en peri con sistemas heterocíclicos [2006.01]"
+  },
+  {
+    "code": "A61K 31/5386",
+    "description": "••••••••••condensadas en espiro o formando parte de sistemas cíclicos puenteados [2006.01]"
+  },
+  {
+    "code": "A61K 31/539",
+    "description": "••••••••teniendo varios átomos de oxígeno en el mismo ciclo, p. ej. dioxazinas [2006.01]"
+  },
+  {
+    "code": "A61K 31/5395",
+    "description": "••••••••teniendo varios átomos de nitrógeno en el mismo ciclo, p. ej. oxadiazinas [2006.01]"
+  },
+  {
+    "code": "A61K 31/54",
+    "description": "••••••que tienen ciclos con seis eslabones con al menos un nitrógeno y al menos un azufre como heteroátomos de un ciclo, p. ej. sultiam [2006.01]"
+  },
+  {
+    "code": "A61K 31/541",
+    "description": "••••••••Tiazinas no condensadas conteniendo otros heterociclos [2006.01]"
+  },
+  {
+    "code": "A61K 31/5415",
+    "description": "••••••••condensados en orto o en peri con sistemas carbocíclicos, p. ej. fenotiazina, clorpromazina, piroxicam [2006.01]"
+  },
+  {
+    "code": "A61K 31/542",
+    "description": "••••••••condensados en orto o en peri con sistemas heterocíclicos [2006.01]"
+  },
+  {
+    "code": "A61K 31/545",
+    "description": "••••••••••Compuestos que contienen sistemas cíclicos 5-tia-1-aza biciclo [4.2.0] octano, es decir, compuestos que contienen un sistema cíclico de fórmula , p. ej. cefalosporinas, cefaclor, cefalexina [2006.01]"
+  },
+  {
+    "code": "A61K 31/546",
+    "description": "••••••••••••conteniendo otros heterociclos, p. ej. cefalotina [2006.01]"
+  },
+  {
+    "code": "A61K 31/547",
+    "description": "••••••••condensadas en espiro o formando parte de sistemas cíclicos puenteados [2006.01]"
+  },
+  {
+    "code": "A61K 31/548",
+    "description": "••••••••teniendo varios átomos de azufre en el mismo ciclo [2006.01]"
+  },
+  {
+    "code": "A61K 31/549",
+    "description": "••••••••teniendo varios átomos de nitrógeno en el mismo ciclo, p. ej. hidroclorotiazida [2006.01]"
+  },
+  {
+    "code": "A61K 31/55",
+    "description": "••••••que tienen ciclos con siete eslabones, p. ej. azelastina, pentilentetrazol [2006.01]"
+  },
+  {
+    "code": "A61K 31/551",
+    "description": "••••••••teniendo dos átomos de nitrógeno como heteroátomos de un ciclo, p. ej. clozapina, dilazep [2006.01]"
+  },
+  {
+    "code": "A61K 31/5513",
+    "description": "••••••••••1,4-Benzodiazepinas, p. ej. diazepam [2006.01]"
+  },
+  {
+    "code": "A61K 31/5517",
+    "description": "••••••••••••condensadas con ciclos de cinco eslabones teniendo el nitrógeno como heteroátomo de un ciclo, p. ej. imidazobenzodiazepinas, triazolam [2006.01]"
+  },
+  {
+    "code": "A61K 31/553",
+    "description": "••••••••teniendo al menos un nitrógeno y al menos un oxígeno como heteroátomos de un ciclo, p. ej. loxapina, estauroesporina [2006.01]"
+  },
+  {
+    "code": "A61K 31/554",
+    "description": "••••••••teniendo al menos un nitrógeno y al menos un azufre como heteroátomos de un ciclo, p. ej. clotiapina, diltiazem [2006.01]"
+  },
+  {
+    "code": "A61K 31/555",
+    "description": "••••que contienen metales pesados, p. ej. hemina, hematina, melarsoprol [2006.01]"
+  },
+  {
+    "code": "A61K 31/557",
+    "description": "••Eicosanoides, p. ej. leucotrienos [2006.01]"
+  },
+  {
+    "code": "A61K 31/5575",
+    "description": "••••teniendo un ciclo ciclopentano, p. ej. prostaglandina E2, prostaglandina F2-alpha [2006.01]"
+  },
+  {
+    "code": "A61K 31/5578",
+    "description": "••••teniendo un sistema cíclico pentaleno, p. ej. carbaciclina, iloprost [2006.01]"
+  },
+  {
+    "code": "A61K 31/558",
+    "description": "••••teniendo heterociclos que contienen el oxígeno como único heteroatomo del ciclo, p. ej. tromboxanos [2006.01]"
+  },
+  {
+    "code": "A61K 31/5585",
+    "description": "••••••teniendo ciclos de cinco eslabones que contienen el oxígeno como único heteroatomo del ciclo, p. ej. prostaciclina [2006.01]"
+  },
+  {
+    "code": "A61K 31/559",
+    "description": "••••teniendo heterociclos que contienen heteroatomos distintos del oxígeno [2006.01]"
+  },
+  {
+    "code": "A61K 31/56",
+    "description": "••Compuestos que contienen el sistema cíclico del ciclopenta[a]hidrofenantreno; Sus derivados, p. ej. esteroides [2006.01]"
+  },
+  {
+    "code": "A61K 31/565",
+    "description": "••••no sustituidos en posición 17 beta por un átomo de carbono, p. ej. estrano, estradiol [2006.01]"
+  },
+  {
+    "code": "A61K 31/566",
+    "description": "••••••teniendo un grupo oxo en posición 17, p. ej. estrona [2006.01]"
+  },
+  {
+    "code": "A61K 31/567",
+    "description": "••••••sustituidos en posición 17 alfa, p. ej. mestranol, noretandrolona [2006.01]"
+  },
+  {
+    "code": "A61K 31/568",
+    "description": "••••••sustituidos en posición 10 y 13 por una cadena que tiene al menos un átomo de carbono, p. ej. androstano, testosterona [2006.01]"
+  },
+  {
+    "code": "A61K 31/5685",
+    "description": "••••••••teniendo un grupo oxo en posición 17, p. ej. androsterona [2006.01]"
+  },
+  {
+    "code": "A61K 31/569",
+    "description": "••••••••sustituidos en posición 17 alfa, p. ej. etisterona [2006.01]"
+  },
+  {
+    "code": "A61K 31/57",
+    "description": "••••sustituidos en posición 17 beta por una cadena con dos átomos de carbono, p. ej. pregnano, progesterona [2006.01]"
+  },
+  {
+    "code": "A61K 31/573",
+    "description": "••••••sustituidos en posición 21, p. ej. cortisona, dexametasona, prednisona o aldosterona [2006.01]"
+  },
+  {
+    "code": "A61K 31/575",
+    "description": "••••sustituidos en posición 17 beta por una cadena de al menos tres átomos de carbono, p. ej. colano, colestano, ergosterol, sitosterol [2006.01]"
+  },
+  {
+    "code": "A61K 31/58",
+    "description": "••••que contienen heterociclos, p. ej. aldosterona, danazol, estanozolol, pancuronium, digitogenina (digitoxina A61K 31/704) [2006.01]"
+  },
+  {
+    "code": "A61K 31/585",
+    "description": "••••••que contienen ciclos de lactona, p. ej. oxandrolona, bufalina [2006.01]"
+  },
+  {
+    "code": "A61K 31/59",
+    "description": "••Compuestos que contienen el sistema cíclico del 9,10-seco-ciclopenta[a]hidrofenantreno [2006.01]"
+  },
+  {
+    "code": "A61K 31/592",
+    "description": "••••Derivados del 9,10-seco-ergostano, p. ej. ergocalciferol, vitamina D2 [2006.01]"
+  },
+  {
+    "code": "A61K 31/593",
+    "description": "••••Derivados del 9,10-seco-colestano, p. ej. colecalciferol, vitamina D3 [2006.01]"
+  },
+  {
+    "code": "A61K 31/60",
+    "description": "••Acido salicílico; Sus derivados [2006.01]"
+  },
+  {
+    "code": "A61K 31/603",
+    "description": "••••teniendo otros ciclos aromáticos, p. ej. diflunisal [2006.01]"
+  },
+  {
+    "code": "A61K 31/606",
+    "description": "••••teniendo grupos amino [2006.01]"
+  },
+  {
+    "code": "A61K 31/609",
+    "description": "••••Amidas, p. ej. salicilamida [2006.01]"
+  },
+  {
+    "code": "A61K 31/612",
+    "description": "••••teniendo el grupo hidroxilo en posición 2 esterificado, p. ej. ácido salicilsulfúrico (fosfosal A61K 31/661) [2006.01]"
+  },
+  {
+    "code": "A61K 31/616",
+    "description": "••••••por ácidos carboxílicos, p. ej. ácido acetilsalicílico [2006.01]"
+  },
+  {
+    "code": "A61K 31/618",
+    "description": "••••teniendo el grupo carboxilo en posición 1 esterificado, p. ej. salsalato [2006.01]"
+  },
+  {
+    "code": "A61K 31/621",
+    "description": "••••••teniendo el grupo hidroxilo en posición 2 esterificado, p. ej. benorilato [2006.01]"
+  },
+  {
+    "code": "A61K 31/625",
+    "description": "••••que tienen sustituyentes heterocíclicos, p. ej. 4-saliciloilmorfolina (sulfasalazina A61K 31/635) [2006.01]"
+  },
+  {
+    "code": "A61K 31/63",
+    "description": "••Compuestos que contienen grupos para N-benceno-sulfonil-N, p. ej. sulfanilamida, p-nitrobencenosulfonhidrazida [2006.01]"
+  },
+  {
+    "code": "A61K 31/635",
+    "description": "••••que contienen un heterociclo, p. ej. sulfadiazina [2006.01]"
+  },
+  {
+    "code": "A61K 31/64",
+    "description": "••Sulfonilureas, p. ej. glibenclamida, tolbutamida, clorpropamida [2006.01]"
+  },
+  {
+    "code": "A61K 31/65",
+    "description": "••Tetraciclinas [2006.01]"
+  },
+  {
+    "code": "A61K 31/655",
+    "description": "••Compuestos azoicos (—N=N—), diazóicos (=N2), azoxi ( N—O—N o N(=O)—N ), azido (—N3) o diazoamino (—N=N—N ) [2006.01]"
+  },
+  {
+    "code": "A61K 31/66",
+    "description": "••Compuestos del fósforo [2006.01]"
+  },
+  {
+    "code": "A61K 31/661",
+    "description": "••••Acidos de fosforo o sus esteres que no tengan enlace P—C, p. ej. fosfosal, diclorvos, malation [2006.01]"
+  },
+  {
+    "code": "A61K 31/6615",
+    "description": "••••••Compuestos que tienen varios grupos de ácido del fosforo esterificados, p. ej. trifosfato de inositol, ácido fítico [2006.01]"
+  },
+  {
+    "code": "A61K 31/662",
+    "description": "••••Acidos de fósforo o sus esteres que tienen enlaces P—C, p. ej. foscarnet, triclorfon [2006.01]"
+  },
+  {
+    "code": "A61K 31/663",
+    "description": "••••••Compuestos que tienen varios grupos deácido del fósforo o sus esteres, p. ej. ácido clodrónico, ácido pamidrónico [2006.01]"
+  },
+  {
+    "code": "A61K 31/664",
+    "description": "••••Amidas de ácidos del fósforo [2006.01]"
+  },
+  {
+    "code": "A61K 31/665",
+    "description": "••••que tienen el oxígeno como heteroátomo de un ciclo, p. ej. fosfomicina [2006.01]"
+  },
+  {
+    "code": "A61K 31/67",
+    "description": "••••que tienen el azufre como heteroátomo de un ciclo [2006.01]"
+  },
+  {
+    "code": "A61K 31/675",
+    "description": "••••que tienen el nitrógeno como heteroátomo de un ciclo, p. ej. fosfato de piridoxal [2006.01]"
+  },
+  {
+    "code": "A61K 31/683",
+    "description": "••••Diesteres del ácido de fósforo con dos compuestos hidroxilados, p. ej. fosfatidilinositoles [2006.01]"
+  },
+  {
+    "code": "A61K 31/685",
+    "description": "••••••teniendo uno de los compuestos hidroxilados átomos de nitrógeno, p. ej. fosfatidilserina, lecitina [2006.01]"
+  },
+  {
+    "code": "A61K 31/688",
+    "description": "••••••teniendo los dos compuestos hidroxilados átomos de nitrógeno, p. ej. esfingomielinas [2006.01]"
+  },
+  {
+    "code": "A61K 31/69",
+    "description": "••Compuestos del boro [2006.01]"
+  },
+  {
+    "code": "A61K 31/695",
+    "description": "••Compuestos del silicio [2006.01]"
+  },
+  {
+    "code": "A61K 31/70",
+    "description": "••Hidratos de carbono; Azúcares; Sus derivados (sorbitol A61K 31/047) [2006.01]"
+  },
+  {
+    "code": "A61K 31/7004",
+    "description": "••••Monosacáridos que tienen únicamente átomos de carbono, de hidrógeno y de oxígeno [2006.01]"
+  },
+  {
+    "code": "A61K 31/7008",
+    "description": "••••Compuestos que tienen un grupo amino unido directamente a un átomo de carbono de un radical sacárido, p. ej. D-galactosamina, ranimustina [2006.01]"
+  },
+  {
+    "code": "A61K 31/7012",
+    "description": "••••Compuestos que tienen un grupo carboxilo libre o esterificado unido directamente o por una cadena carbonada, a un átomo de carbono del radical sacárido, p. ej. ácido glucurónico, ácido neuramínico (ácido glucónico A61K 31/191; ácido ascórbico A61K 31/375) [2006.01]"
+  },
+  {
+    "code": "A61K 31/7016",
+    "description": "••••Disacáridos, p. ej. lactosa, lactulosa (ácido lactobionico A61K 31/7032) [2006.01]"
+  },
+  {
+    "code": "A61K 31/702",
+    "description": "••••Oligosacáridos, es decir que tienen entre tres y cinco radicales sacáridos unidos los unos a los otros por enlaces glicosídicos [2006.01]"
+  },
+  {
+    "code": "A61K 31/7024",
+    "description": "••••Esteres de sacáridos [2006.01]"
+  },
+  {
+    "code": "A61K 31/7028",
+    "description": "••••Compuestos que tienen radicales sacárido unidos a compuestos no sacáridos por enlaces glicosídicos [2006.01]"
+  },
+  {
+    "code": "A61K 31/7032",
+    "description": "••••••unidos a un poliol, es decir compuestos que tienen varios grupos hidroxilo, libres o esterificados, incluyendo el grupo hidroxilo implicado en el enlace glicosídico, p. ej. monoglucosil-diacilglicéridos, ácido lactobiónico, gangliósidos [2006.01]"
+  },
+  {
+    "code": "A61K 31/7034",
+    "description": "••••••unidos a un compuesto carbocíclico, p. ej. floridzina [2006.01]"
+  },
+  {
+    "code": "A61K 31/7036",
+    "description": "••••••••teniendo al menos un grupo amino unido directamente al carbociclo, p. ej. estreptomicina, gentamicina, amicacin, validamicina, fortimicinas [2006.01]"
+  },
+  {
+    "code": "A61K 31/704",
+    "description": "••••••••unidos a un sistema carbocíclico condensado, p. ej. senósidos, tiocolcicósidos, escina, daunorubicina, digitoxina [2006.01]"
+  },
+  {
+    "code": "A61K 31/7042",
+    "description": "••••Compuestos que tienen radicales sacáridos y heterociclos [2006.01]"
+  },
+  {
+    "code": "A61K 31/7048",
+    "description": "••••••teniendo el oxígeno como heteroatomo de un ciclo, p. ej. Leucoglucosano, hesperidina, eritromicina, nistatina [2006.01]"
+  },
+  {
+    "code": "A61K 31/7052",
+    "description": "••••••teniendo el nitrógeno como heteroatomo de un ciclo, p. ej. nucleósidos, nucleótidos [2006.01]"
+  },
+  {
+    "code": "A61K 31/7056",
+    "description": "••••••••conteniendo ciclos de cinco eslabones con el nitrógeno como heteroatomo de un ciclo [2006.01]"
+  },
+  {
+    "code": "A61K 31/706",
+    "description": "••••••••conteniendo ciclos de seis eslabones con el nitrógeno como heteroatomo de un ciclo [2006.01]"
+  },
+  {
+    "code": "A61K 31/7064",
+    "description": "••••••••••conteniendo pirimidinas condensadas o no condensadas [2006.01]"
+  },
+  {
+    "code": "A61K 31/7068",
+    "description": "••••••••••••teniendo grupos oxo unidos directamente al ciclo de pirimidina, p. ej. citidina, ácido citidílico [2006.01]"
+  },
+  {
+    "code": "A61K 31/7072",
+    "description": "••••••••••••••teniendo dos grupos oxo unidos directamente al ciclo de pirimidina, p. ej. uridina, ácido uridílico, timidina, zidovudina [2006.01]"
+  },
+  {
+    "code": "A61K 31/7076",
+    "description": "••••••••••••conteniendo purinas, p. ej. adenosina, ácido adenílico [2006.01]"
+  },
+  {
+    "code": "A61K 31/708",
+    "description": "••••••••••••••teniendo grupos oxo unidos directamente al sistema cíclico de la purina, p. ej. guanosina, ácido guanílico [2006.01]"
+  },
+  {
+    "code": "A61K 31/7084",
+    "description": "••••Compuestos que tienen dos nucleótidos o nucleósidos, p. ej. dinucleótido de la nicotinamida-adenina, dinucleótido de la flavina-adenina [2006.01]"
+  },
+  {
+    "code": "A61K 31/7088",
+    "description": "••••Compuestos que tienen al menos tres nucleósidos o nucleótidos [2006.01]"
+  },
+  {
+    "code": "A61K 31/7105",
+    "description": "••••••Acidos ribonucleicos naturales, es decir conteniendo unicamente ribosas unidas a la adenina, la guanina, la citosina, o el uracilo y teniendo enlaces 3'-5' fosfodiester [2006.01]"
+  },
+  {
+    "code": "A61K 31/711",
+    "description": "••••••Acidos desoxirribonucleicos naturales, es decir conteniendo unicamente 2'-desoxirribosas unidas a la adenina, la guanina, la citosina o la timina y teniendo enlaces 3'-5' fosfodiester [2006.01]"
+  },
+  {
+    "code": "A61K 31/7115",
+    "description": "••••••Acidos nucleicos u oligonucleótidos que tienen bases modificadas, es decir distintas de la adenina, la guanina, la citosina, el uracilo o la timina [2006.01]"
+  },
+  {
+    "code": "A61K 31/712",
+    "description": "••••••Acidos nucleicos u oligonucleótidos que tienen azúcares modificados, es decir distintos de la ribosa o la 2'-desoxirribosa [2006.01]"
+  },
+  {
+    "code": "A61K 31/7125",
+    "description": "••••••Acidos nucleicos u oligonucleótidos que tienen enlaces internucleosidos modificados, es decir distintos de los enlaces 3'-5' fosfodiester [2006.01]"
+  },
+  {
+    "code": "A61K 31/713",
+    "description": "••••••Acidos nucleicos u oligonucleótidos con estructura en doble hélice [2006.01]"
+  },
+  {
+    "code": "A61K 31/7135",
+    "description": "••••Compuestos que contienen metales pesados [2006.01]"
+  },
+  {
+    "code": "A61K 31/714",
+    "description": "••••••Cobalaminas, p. ej. cianocobalamina, vitamina B12 [2006.01]"
+  },
+  {
+    "code": "A61K 31/715",
+    "description": "••••Polisacáridos, es decir que tienen más de cinco radicales sacáridos unidos los unos a los otros por enlaces glicosídicos; Sus derivados, p. ej. eteres, esteres [2006.01]"
+  },
+  {
+    "code": "A61K 31/716",
+    "description": "••••••Glucanos [2006.01]"
+  },
+  {
+    "code": "A61K 31/717",
+    "description": "••••••••Celulosas [2006.01]"
+  },
+  {
+    "code": "A61K 31/718",
+    "description": "••••••••Almidón o almidón degradado, p. ej. amilosa, amilopectina [2006.01]"
+  },
+  {
+    "code": "A61K 31/719",
+    "description": "••••••••Pululanos [2006.01]"
+  },
+  {
+    "code": "A61K 31/721",
+    "description": "••••••••Dextranos [2006.01]"
+  },
+  {
+    "code": "A61K 31/722",
+    "description": "••••••••Quitina; Quitosano [2006.01]"
+  },
+  {
+    "code": "A61K 31/723",
+    "description": "••••••••Xantanos [2006.01]"
+  },
+  {
+    "code": "A61K 31/724",
+    "description": "••••••••Ciclodextrinas [2006.01]"
+  },
+  {
+    "code": "A61K 31/726",
+    "description": "••••••Glicosaminoglicanos, es decir mucopolisacáridos (sulfato de condroitina, sulfato de dermatano A61K 31/737) [2006.01]"
+  },
+  {
+    "code": "A61K 31/727",
+    "description": "••••••••Heparina; Heparano [2006.01]"
+  },
+  {
+    "code": "A61K 31/728",
+    "description": "••••••••Acido hialurónico [2006.01]"
+  },
+  {
+    "code": "A61K 31/729",
+    "description": "••••••Agar; Agarosa; Agaropectina [2006.01]"
+  },
+  {
+    "code": "A61K 31/731",
+    "description": "••••••Carragenanos [2006.01]"
+  },
+  {
+    "code": "A61K 31/732",
+    "description": "••••••Pectina [2006.01]"
+  },
+  {
+    "code": "A61K 31/733",
+    "description": "••••••Fructosanos, p. ej. inulina [2006.01]"
+  },
+  {
+    "code": "A61K 31/734",
+    "description": "••••••Acido algínico [2006.01]"
+  },
+  {
+    "code": "A61K 31/736",
+    "description": "••••••Glucomananos o galactomananos, p. ej. goma de carouba, goma de guar [2006.01]"
+  },
+  {
+    "code": "A61K 31/737",
+    "description": "••••••Polisacáridos sulfatados, p. ej. sulfato de condroitina, sulfato de dermatano (A61K 31/727 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "A61K 31/738",
+    "description": "••••••Polisacáridos reticulados [2006.01]"
+  },
+  {
+    "code": "A61K 31/739",
+    "description": "••••••Lipopolisacáridos [2006.01]"
+  },
+  {
+    "code": "A61K 31/74",
+    "description": "••Materias polímeras sintéticas [2006.01]"
+  },
+  {
+    "code": "A61K 31/745",
+    "description": "••••Polímeros de hidrocarburos [2006.01]"
+  },
+  {
+    "code": "A61K 31/75",
+    "description": "••••••de eteno [2006.01]"
+  },
+  {
+    "code": "A61K 31/755",
+    "description": "••••Polímeros que contienen un halógeno [2006.01]"
+  },
+  {
+    "code": "A61K 31/76",
+    "description": "••••••de cloruro de vinilo [2006.01]"
+  },
+  {
+    "code": "A61K 31/765",
+    "description": "••••Polímeros que contienen oxígeno [2006.01]"
+  },
+  {
+    "code": "A61K 31/77",
+    "description": "••••••de oxiranos [2006.01]"
+  },
+  {
+    "code": "A61K 31/775",
+    "description": "••••••Resinas fenólicas [2006.01]"
+  },
+  {
+    "code": "A61K 31/78",
+    "description": "••••••de ácido acrílico o sus derivados [2006.01]"
+  },
+  {
+    "code": "A61K 31/785",
+    "description": "••••Polímeros que contienen nitrógeno [2006.01]"
+  },
+  {
+    "code": "A61K 31/787",
+    "description": "••••••conteniendo heterociclos que tienen el nitrógeno como heteroatomo de un ciclo [2006.01]"
+  },
+  {
+    "code": "A61K 31/79",
+    "description": "••••••••Polímeros de vinilpirrolidona [2006.01]"
+  },
+  {
+    "code": "A61K 31/795",
+    "description": "••••Polímeros que contienen azufre [2006.01]"
+  },
+  {
+    "code": "A61K 31/80",
+    "description": "••••Polímeros que contienen heteroátomos no previstos por los grupos A61K 31/755-A61K 31/795 [2006.01]"
+  },
+  {
+    "code": "A61K 33/00",
+    "description": "Preparaciones medicinales que contienen ingredientes activos inorgánicos [2006.01]"
+  },
+  {
+    "code": "A61K 33/02",
+    "description": "••Amoniaco; Sus compuestos [2006.01]"
+  },
+  {
+    "code": "A61K 33/04",
+    "description": "••Azufre, selenio o teluro; Sus compuestos [2006.01]"
+  },
+  {
+    "code": "A61K 33/06",
+    "description": "••Aluminio, calcio o magnesio; Sus compuestos [2006.01]"
+  },
+  {
+    "code": "A61K 33/08",
+    "description": "••••Oxidos; Hidróxidos [2006.01]"
+  },
+  {
+    "code": "A61K 33/10",
+    "description": "••••Carbonatos; Bicarbonatos [2006.01]"
+  },
+  {
+    "code": "A61K 33/12",
+    "description": "••••Silicato de magnesio [2006.01]"
+  },
+  {
+    "code": "A61K 33/14",
+    "description": "••Cloruros de metales alcalinos; Cloruros de metales alcalinotérreos [2006.01]"
+  },
+  {
+    "code": "A61K 33/16",
+    "description": "••Compuestos del flúor [2006.01]"
+  },
+  {
+    "code": "A61K 33/18",
+    "description": "••Iodo; Sus compuestos [2006.01]"
+  },
+  {
+    "code": "A61K 33/20",
+    "description": "••Cloro elemental; Compuestos inorgánicos que liberan cloro [2006.01]"
+  },
+  {
+    "code": "A61K 33/22",
+    "description": "••Compuestos del boro [2006.01]"
+  },
+  {
+    "code": "A61K 33/24",
+    "description": "••Metales pesados; Sus compuestos [2019.01]"
+  },
+  {
+    "code": "A61K 33/241",
+    "description": "••••Plomo; Sus compuestos [2019.01]"
+  },
+  {
+    "code": "A61K 33/242",
+    "description": "••••Oro; Sus compuestos [2019.01]"
+  },
+  {
+    "code": "A61K 33/243",
+    "description": "••••Platino; Sus compuestos [2019.01]"
+  },
+  {
+    "code": "A61K 33/244",
+    "description": "••••Lantánidos; Sus compuestos (preparaciones medicinales que contienen lantánidos radioactivos utilizadas para la terapia o para el examen in vivo A61K 51/00) [2019.01]"
+  },
+  {
+    "code": "A61K 33/245",
+    "description": "••••Bismuto; Sus compuestos [2019.01]"
+  },
+  {
+    "code": "A61K 33/26",
+    "description": "••••Hierro; Sus compuestos [2006.01]"
+  },
+  {
+    "code": "A61K 33/28",
+    "description": "••••Mercurio; Sus compuestos [2006.01]"
+  },
+  {
+    "code": "A61K 33/30",
+    "description": "••••Cinc; Sus compuestos [2006.01]"
+  },
+  {
+    "code": "A61K 33/32",
+    "description": "••••Manganeso; Sus compuestos [2006.01]"
+  },
+  {
+    "code": "A61K 33/34",
+    "description": "••••Cobre; Sus compuestos [2006.01]"
+  },
+  {
+    "code": "A61K 33/36",
+    "description": "••••Arsénico; Sus compuestos [2006.01]"
+  },
+  {
+    "code": "A61K 33/38",
+    "description": "••••Plata; Sus compuestos [2006.01]"
+  },
+  {
+    "code": "A61K 33/40",
+    "description": "••Peróxidos [2006.01]"
+  },
+  {
+    "code": "A61K 33/42",
+    "description": "••Fósforo; Sus compuestos [2006.01]"
+  },
+  {
+    "code": "A61K 33/44",
+    "description": "••Carbono elemental, p. ej. carbón de madera, negro de carbón [2006.01]"
+  },
+  {
+    "code": "A61K 35/00",
+    "description": "Preparaciones medicinales que contienen sustancias de constitución indeterminada o sus productos de reacción [2006.01]"
+  },
+  {
+    "code": "A61K 35/02",
+    "description": "••a partir de sustancias inanimadas (carbono A61K 33/44) [2015.01]"
+  },
+  {
+    "code": "A61K 35/04",
+    "description": "••••Alquitrán; Betunes; Aceites minerales; Sulfobituminato de amonio [2006.01]"
+  },
+  {
+    "code": "A61K 35/06",
+    "description": "••••••Aceites minerales, p. ej. aceites parafínicos o aceites aromáticos basados en hidrocarburos aromáticos [2006.01]"
+  },
+  {
+    "code": "A61K 35/08",
+    "description": "••••Aguas minerales; Agua de mar [2015.01]"
+  },
+  {
+    "code": "A61K 35/10",
+    "description": "••••Turba; Ambar; Césped; Humus [2015.01]"
+  },
+  {
+    "code": "A61K 35/12",
+    "description": "••Sustancias procedentes de mamíferos; Composiciones que comprenden tejidos o células indeterminadas; Composiciones que comprenden células madre no embrionarias; Células modificadas genéticamente (vacunas o preparaciones medicinales que contienen antígenos o anticuerpos A61K 39/00) [2015.01]"
+  },
+  {
+    "code": "A61K 35/13",
+    "description": "••••Células tumorales, independientemente del tejido de origen (vacunas anti-tumorales A61K 39/00) [2015.01]"
+  },
+  {
+    "code": "A61K 35/14",
+    "description": "••••Sangre; Sangre artificial (perfluorocarbonos A61K 31/02; sangre del cordón umbilical A61K 35/51; hemoglobina A61K 38/42) [2015.01]"
+  },
+  {
+    "code": "A61K 35/15",
+    "description": "••••••Células de la línea mieloide, por ejemplo granulocitos, basófilos, eosinófilos, neutrófilos, leucocitos, monocitos, macrófagos o mastocitos; Células precursoras mieloides; Células presentadoras de antígeno, p. ej. células dendríticas (que presentan un antígeno específico A61K 39/00; combinaciones de anticuerpos con carácter terapéutico o sus fragmentos, y células derivadas de la sangre A61K 39/00) [2015.01]"
+  },
+  {
+    "code": "A61K 35/16",
+    "description": "••••••Plasma sanguíneo; Suero sanguíneo (sangre del cordón umbilical A61K 35/51) [2015.01]"
+  },
+  {
+    "code": "A61K 35/17",
+    "description": "••••••Linfocitos; Células B; Células T; Células NK; Linfocitos activados por interferón o activados por citoquinas (cuando se activan por un antígeno concreto A61K 39/00) [2015.01]"
+  },
+  {
+    "code": "A61K 35/18",
+    "description": "••••••Eritrocitos (hemoglobina A61K 38/42) [2015.01]"
+  },
+  {
+    "code": "A61K 35/19",
+    "description": "••••••Plaquetas; Megacariocitos [2015.01]"
+  },
+  {
+    "code": "A61K 35/20",
+    "description": "••••Leche; Suero lácteo; Calostro [2006.01]"
+  },
+  {
+    "code": "A61K 35/22",
+    "description": "••••Orina; Tracto urinario, por ejemplo riñón o vegija; Células mesangiales intraglomerulares; Células mesenquimales renales; Glándula suprarrenal [2015.01]"
+  },
+  {
+    "code": "A61K 35/24",
+    "description": "••••Mucosidades; Glándulas mucosas; Bursa; Fluido sinovial; Fluido artral; Heces; Fluido espinal (saliva A61K 35/38) [2015.01]"
+  },
+  {
+    "code": "A61K 35/26",
+    "description": "••••Linfa; Glándulas linfáticas; Timo; Bazo; Esplenocitos; Timocitos [2015.01]"
+  },
+  {
+    "code": "A61K 35/28",
+    "description": "••••Médula ósea; Células madre hematopoyéticas; Células madre mesenquimales de cualquier origen, por ejemplo células madre derivadas de tejido adiposo [2015.01]"
+  },
+  {
+    "code": "A61K 35/30",
+    "description": "••••Nervios; Cerebro; Células de la córnea; Fluido Cerebroespinal; Células madre neuronales; Células precursoras neuronales; Células de la glia; Oligodentrocitos; Células de Schwann; Células de Schwann; Astroglia; Astrocitos; Plexo coroideo; Tejido de la médula espinal [2015.01]"
+  },
+  {
+    "code": "A61K 35/32",
+    "description": "••••Huesos; Osteocitos; Osteoblastos; Tendones; Tenocitos; Dientes; Odontoblastos; Cartílago; Condrocitos; Membrana sinovial [2015.01]"
+  },
+  {
+    "code": "A61K 35/33",
+    "description": "••••Fibroblastos [2015.01]"
+  },
+  {
+    "code": "A61K 35/34",
+    "description": "••••Músculos; Células del músculo liso; Corazón; Células madre cardiacas; Mioblastos; Miocitos; Cardiomiocitos (músculo liso vascular A61K 35/44) [2015.01]"
+  },
+  {
+    "code": "A61K 35/35",
+    "description": "••••Tejido graso; Adipocitos; Células estromales; Tejido conjuntivo (células madre derivadas del tejido adiposo A61K 35/28; colágeno A61K 38/39) [2015.01]"
+  },
+  {
+    "code": "A61K 35/36",
+    "description": "••••Piel; Sistema piloso; Uñas; Glándulas sebáceas; Cerumen; Epidermis; Células epiteliales; Queratinocitos; Células de Langerhans; Células del ectodermo (islotes de Langerhans A61K 35/39) [2015.01]"
+  },
+  {
+    "code": "A61K 35/37",
+    "description": "••••Aparato digestivo [2015.01]"
+  },
+  {
+    "code": "A61K 35/38",
+    "description": "••••••Estómago; Intestinos; Células caliciformes; Mucosa bucal; Saliva [2015.01]"
+  },
+  {
+    "code": "A61K 35/39",
+    "description": "••••••Páncreas; Islotes of Langerhans (Células de Langerhans de la epidermis A61K 35/36) [2015.01]"
+  },
+  {
+    "code": "A61K 35/407",
+    "description": "••••••Hígado; Hepatocitos [2015.01]"
+  },
+  {
+    "code": "A61K 35/413",
+    "description": "••••••Vesícula biliar; Bilis [2015.01]"
+  },
+  {
+    "code": "A61K 35/42",
+    "description": "••••Aparato respiratorio, por ejemplo pulmones, bronquios o células pulmonares [2015.01]"
+  },
+  {
+    "code": "A61K 35/44",
+    "description": "••••Vasos sanguíneos; Células del músculo liso vascular; Células endoteliales; Células progenitoras endoteliales [2015.01]"
+  },
+  {
+    "code": "A61K 35/48",
+    "description": "••••Organos de reproducción [2015.01]"
+  },
+  {
+    "code": "A61K 35/50",
+    "description": "••••••Placenta; Células madre de la placenta; Fluido amniótico; Amnios; Células madre del líquido amniótico [2015.01]"
+  },
+  {
+    "code": "A61K 35/51",
+    "description": "••••••Cordón umbilical; Sangre del cordón umbilical; Células madre del cordón umbilical [2015.01]"
+  },
+  {
+    "code": "A61K 35/52",
+    "description": "••••••Esperma; Próstata; Líquido seminal; Células de Leydig de los testículos [2015.01]"
+  },
+  {
+    "code": "A61K 35/54",
+    "description": "••••••Ovarios; Ovocitos; Óvulos, célula huevo; Embriones; Células del feto; Células germinales [2015.01]"
+  },
+  {
+    "code": "A61K 35/545",
+    "description": "••••••••Células madre embrionarias; Células madre pluripotentes; Células madre pluripotentes inducidas; Células madre no caracterizadas [2015.01]"
+  },
+  {
+    "code": "A61K 35/55",
+    "description": "••••Glándulas no previstas en los grupos A61K 35/22-A61K 35/545, p. ej. tiroides, paratiroides o glándulas pineales [2015.01]"
+  },
+  {
+    "code": "A61K 35/56",
+    "description": "••Sustancias procedentes de animales distintos de los mamíferos [2015.01]"
+  },
+  {
+    "code": "A61K 35/57",
+    "description": "••••Aves; Sustancias procedentes de aves, por ejemplo huevos, plumas, clara o yema de huevo o \"endothelium corneum gigeriae galli\" [2015.01]"
+  },
+  {
+    "code": "A61K 35/58",
+    "description": "••••Reptiles (antígenos procedentes de serpientes A61K 39/38) [2015.01]"
+  },
+  {
+    "code": "A61K 35/583",
+    "description": "••••••Serpientes; Lagartos, p. ej. camaleones (uso terapéutico de una proteína del veneno de serpiente A61K 38/00) [2015.01]"
+  },
+  {
+    "code": "A61K 35/586",
+    "description": "••••••Tortugas; Tortugas terrestres, p. ej. galápagos [2015.01]"
+  },
+  {
+    "code": "A61K 35/60",
+    "description": "••••Peces, p. ej. caballitos de mar; Huevos de peces [2006.01]"
+  },
+  {
+    "code": "A61K 35/612",
+    "description": "••••Crustáceos, p. ej. cangrejos, bogavante, gambas, camarones o langosta; Cirrípedos [2015.01]"
+  },
+  {
+    "code": "A61K 35/614",
+    "description": "••••Cnidarios, p. ej. anémonas de mar, corales o medusas [2015.01]"
+  },
+  {
+    "code": "A61K 35/616",
+    "description": "••••Equinodermos, p. ej. estrellas de mar, pepinos de mar o erizos de mar [2015.01]"
+  },
+  {
+    "code": "A61K 35/618",
+    "description": "••••Moluscos, p. ej. moluscos de agua fría, ostras, almejas, calamares, pulpos, sepia, caracoles o babosas [2015.01]"
+  },
+  {
+    "code": "A61K 35/62",
+    "description": "••••Gusanos, p. ej. nematodos como ascáridos, filarias y triquinas, anélidos como lombrices de tierra y sanguijuelas, platelmintos como los cestodos, p. ej. tenia.; Worms, e.g. cestodes, tapeworms, nematodes, roundworms, earth worms, ascarids, filarias, hookworms, trichinella or taenia [2006.01]"
+  },
+  {
+    "code": "A61K 35/63",
+    "description": "••••Artrópodos (crustácesos acuáticos A61K 35/612) [2015.01]"
+  },
+  {
+    "code": "A61K 35/64",
+    "description": "••••••Insectos, p. ej. abejas, avispas o pulgas [2015.01]"
+  },
+  {
+    "code": "A61K 35/644",
+    "description": "••••••••Cera de abejas; Propóleos; Jalea real; Miel [2015.01]"
+  },
+  {
+    "code": "A61K 35/646",
+    "description": "••••••Arácnidos, p. ej. arañas, escorpiones, garrapatas o ácaros [2015.01]"
+  },
+  {
+    "code": "A61K 35/648",
+    "description": "••••••Miriapodos, p. ej. ciempiés o milpiés [2015.01]"
+  },
+  {
+    "code": "A61K 35/65",
+    "description": "••••Anfibios, p. ej. sapos, ranas, salamandras o tritones [2015.01]"
+  },
+  {
+    "code": "A61K 35/655",
+    "description": "••••Animales acuáticos distintos de los cubiertos por los grupos A61K 35/57-A61K 35/65 [2015.01]"
+  },
+  {
+    "code": "A61K 35/66",
+    "description": "••Microorganismos o sustancias que provienen de ellos (hongos, levaduras o cándida A61K 36/06) [2015.01]"
+  },
+  {
+    "code": "A61K 35/68",
+    "description": "••••Protozoos, p. ej. flagelos, amebas, esporozoos, plasmodium o  toxoplasma [2006.01]"
+  },
+  {
+    "code": "A61K 35/74",
+    "description": "••••Bacterias (uso terapéutico de una proteína de la bacteria A61K 38/00) [2015.01]"
+  },
+  {
+    "code": "A61K 35/741",
+    "description": "••••••Probióticos (levadura probiótica, p. ej. sacaromices A61K 36/06) [2015.01]"
+  },
+  {
+    "code": "A61K 35/742",
+    "description": "••••••••Bacterias que forman esporas, p. ej. Bacillus coagulans, Bacillus subtilis, Clostridium o Lactobacillus sporogenes [2015.01]"
+  },
+  {
+    "code": "A61K 35/744",
+    "description": "••••••••Bacterias del ácido láctico, p. ej. Enterococci, Pediococci, Lactococci, Streptococci o Leuconostocs [2015.01]"
+  },
+  {
+    "code": "A61K 35/745",
+    "description": "••••••••••Bifidobacterias [2015.01]"
+  },
+  {
+    "code": "A61K 35/747",
+    "description": "••••••••••Lactobacilos, p. ej. L. acidophilus o L. brevis [2015.01]"
+  },
+  {
+    "code": "A61K 35/748",
+    "description": "••••••Cianobacterias, p. ej. bacterias verde-azuladas o algas verde-azuladas, p. ej. Spirulina (algas, microalgas o microfitos A61K 36/02) [2015.01]"
+  },
+  {
+    "code": "A61K 35/76",
+    "description": "••••Virus; Partículas subvirales; Bacteriófagos [2015.01]"
+  },
+  {
+    "code": "A61K 35/761",
+    "description": "••••••Adenovirus [2015.01]"
+  },
+  {
+    "code": "A61K 35/763",
+    "description": "••••••Virus del herpes [2015.01]"
+  },
+  {
+    "code": "A61K 35/765",
+    "description": "••••••Reovirus; Rotavirus [2015.01]"
+  },
+  {
+    "code": "A61K 35/766",
+    "description": "••••••Rhabdovirus, p. ej. virus de la estomatitis vesicular [2015.01]"
+  },
+  {
+    "code": "A61K 35/768",
+    "description": "••••••Virus oncolíticos no previstos en los grupos A61K 35/761-A61K 35/766 [2015.01]"
+  },
+  {
+    "code": "A61K 36/00",
+    "description": "Preparaciones medicinales de constitución indeterminada que contienen sustancias procedentes de algas, líquenes, hongos o plantas o sus derivados, p. ej. medicinas tradicionales basadas en plantas [2006.01]"
+  },
+  {
+    "code": "A61K 36/02",
+    "description": "••Algas [2006.01]"
+  },
+  {
+    "code": "A61K 36/03",
+    "description": "••••Phaeophycota o feofitas (algas pardas), p. ej. Fucus [2006.01]"
+  },
+  {
+    "code": "A61K 36/04",
+    "description": "••••Rhodophycota o rodofitas (algas rojas), p. ej. Porphyra [2006.01]"
+  },
+  {
+    "code": "A61K 36/05",
+    "description": "••••Chlorophycota o clorófitas (algas verdes), p. ej. Chlorella [2006.01]"
+  },
+  {
+    "code": "A61K 36/06",
+    "description": "••Hongos, p. ej. levaduras [2006.01]"
+  },
+  {
+    "code": "A61K 36/062",
+    "description": "••••Ascomycota [2006.01]"
+  },
+  {
+    "code": "A61K 36/064",
+    "description": "••••••Saccharomycetales, p. ej. levadura de panadería [2006.01]"
+  },
+  {
+    "code": "A61K 36/066",
+    "description": "••••••Clavicipitaceae [2006.01]"
+  },
+  {
+    "code": "A61K 36/068",
+    "description": "••••••••Cordyceps [2006.01]"
+  },
+  {
+    "code": "A61K 36/07",
+    "description": "••••Basidiomycota, p. ej. Cryptococcus [2006.01]"
+  },
+  {
+    "code": "A61K 36/074",
+    "description": "••••••Ganoderma [2006.01]"
+  },
+  {
+    "code": "A61K 36/076",
+    "description": "••••••Poria [2006.01]"
+  },
+  {
+    "code": "A61K 36/09",
+    "description": "••Líquenes [2006.01]"
+  },
+  {
+    "code": "A61K 36/10",
+    "description": "••Bryophyta (musgos) [2006.01]"
+  },
+  {
+    "code": "A61K 36/11",
+    "description": "••Pteridophyta o Filicophyta (helechos) [2006.01]"
+  },
+  {
+    "code": "A61K 36/12",
+    "description": "••••Filicopsida o Pteridopsida [2006.01]"
+  },
+  {
+    "code": "A61K 36/126",
+    "description": "••••••Drynaria [2006.01]"
+  },
+  {
+    "code": "A61K 36/13",
+    "description": "••Coniferophyta (gimnospermas) [2006.01]"
+  },
+  {
+    "code": "A61K 36/14",
+    "description": "••••Cupressaceae (familia del ciprés), p. ej. junípero o ciprés [2006.01]"
+  },
+  {
+    "code": "A61K 36/15",
+    "description": "••••Pinaceae (familia del pino), p. ej. pino o cedro [2006.01]"
+  },
+  {
+    "code": "A61K 36/16",
+    "description": "••Ginkgophyta, p. ej. Ginkgoaceae (familia del ginkgo) [2006.01]"
+  },
+  {
+    "code": "A61K 36/17",
+    "description": "••Gnetophyta, p. ej. Ephedraceae (familia del Itamo real o popotillo) [2006.01]"
+  },
+  {
+    "code": "A61K 36/18",
+    "description": "••Magnoliophyta (angiospermas) [2006.01]"
+  },
+  {
+    "code": "A61K 36/185",
+    "description": "••••Magnoliopsida (dicotiledóneas) [2006.01]"
+  },
+  {
+    "code": "A61K 36/19",
+    "description": "••••••Acanthaceae (familia de los Acantos) [2006.01]"
+  },
+  {
+    "code": "A61K 36/195",
+    "description": "••••••••Strobilanthes [2006.01]"
+  },
+  {
+    "code": "A61K 36/20",
+    "description": "••••••Aceraceae (familia del ácer) [2006.01]"
+  },
+  {
+    "code": "A61K 36/21",
+    "description": "••••••Amaranthaceae (familia del amaranto), p. ej. amaranto común, bledo [2006.01]"
+  },
+  {
+    "code": "A61K 36/22",
+    "description": "••••••Anacardiaceae (familia del Sumac), p. ej.árbol de las pelucas, sumac o zumaque, roble venenoso [2006.01]"
+  },
+  {
+    "code": "A61K 36/23",
+    "description": "••••••Apiaceae o Umbelliferae (familia de la zanahoria), p. ej. eneldo, perifollo, cilantro o comino [2006.01]"
+  },
+  {
+    "code": "A61K 36/232",
+    "description": "••••••••Angélica [2006.01]"
+  },
+  {
+    "code": "A61K 36/233",
+    "description": "••••••••Bupleurum [2006.01]"
+  },
+  {
+    "code": "A61K 36/234",
+    "description": "••••••••Cnidium (snowparsley) [2006.01]"
+  },
+  {
+    "code": "A61K 36/235",
+    "description": "••••••••Foeniculum (hinojo) [2006.01]"
+  },
+  {
+    "code": "A61K 36/236",
+    "description": "••••••••Ligusticum (raíz de regaliz) [2006.01]"
+  },
+  {
+    "code": "A61K 36/237",
+    "description": "••••••••Notopterygium [2006.01]"
+  },
+  {
+    "code": "A61K 36/238",
+    "description": "••••••••Saposhnikovia [2006.01]"
+  },
+  {
+    "code": "A61K 36/24",
+    "description": "••••••Apocynaceae (familia del Apocynum venetum), p. ej. plumeria o pervinca [2006.01]"
+  },
+  {
+    "code": "A61K 36/25",
+    "description": "••••••Araliaceae (familia del Ginseng), p. ej. hiedra, aralia, schefflera o tetrapanax [2006.01]"
+  },
+  {
+    "code": "A61K 36/254",
+    "description": "••••••••Acanthopanax o Eleutherococcus [2006.01]"
+  },
+  {
+    "code": "A61K 36/258",
+    "description": "••••••••Panax (ginseng) [2006.01]"
+  },
+  {
+    "code": "A61K 36/26",
+    "description": "••••••Aristolochiaceae (familia de las Aristoloquiáceas), p. ej. Aristoloquia o Clematítide [2006.01]"
+  },
+  {
+    "code": "A61K 36/264",
+    "description": "••••••••Aristolochia, Candiles o Candilejos [2006.01]"
+  },
+  {
+    "code": "A61K 36/268",
+    "description": "••••••••Asarum (Asaro, Bácara) [2006.01]"
+  },
+  {
+    "code": "A61K 36/27",
+    "description": "••••••Asclepiadaceae (familia de las asclepidáceas), p. ej hoya [2006.01]"
+  },
+  {
+    "code": "A61K 36/28",
+    "description": "••••••Asteraceae o Compositae (familia del áster o del girasol) p. ej. margarita, crisantemo, aquilea o equinácea [2006.01]"
+  },
+  {
+    "code": "A61K 36/282",
+    "description": "••••••••Artemisia, p. ej. artemisa [2006.01]"
+  },
+  {
+    "code": "A61K 36/284",
+    "description": "••••••••Atractylodes [2006.01]"
+  },
+  {
+    "code": "A61K 36/285",
+    "description": "••••••••Aucklandia [2006.01]"
+  },
+  {
+    "code": "A61K 36/286",
+    "description": "••••••••Carthamus (C. lanatus o azotacristos) [2006.01]"
+  },
+  {
+    "code": "A61K 36/287",
+    "description": "••••••••Chrysanthemum, p. ej. margarita [2006.01]"
+  },
+  {
+    "code": "A61K 36/288",
+    "description": "••••••••Taraxacum (leontodón) [2006.01]"
+  },
+  {
+    "code": "A61K 36/289",
+    "description": "••••••••Vladimiria [2006.01]"
+  },
+  {
+    "code": "A61K 36/29",
+    "description": "••••••Berberidaceae (familia de las berberáceas), p. ej. agracejo o berberis, cohosh o manzana de mayo [2006.01]"
+  },
+  {
+    "code": "A61K 36/296",
+    "description": "••••••••Epimedium [2006.01]"
+  },
+  {
+    "code": "A61K 36/30",
+    "description": "••••••Boraginaceae (familia de la Borraja), p. ej. consuelda, pulmonaria o nomeolvides [2006.01]"
+  },
+  {
+    "code": "A61K 36/31",
+    "description": "••••••Brassicaceae o Cruciferae (familia de la Mostaza), p. ej. brécol, col o colinabo [2006.01]"
+  },
+  {
+    "code": "A61K 36/315",
+    "description": "••••••••Isatis, p. ej. Norgeo o Hierba pastel [2006.01]"
+  },
+  {
+    "code": "A61K 36/32",
+    "description": "••••••Burseraceae (familia del Incienso) [2006.01]"
+  },
+  {
+    "code": "A61K 36/324",
+    "description": "••••••••Boswellia, p. ej. incienso [2006.01]"
+  },
+  {
+    "code": "A61K 36/328",
+    "description": "••••••••Commiphora, p. ej. mirra o bálsamo de Judea [2006.01]"
+  },
+  {
+    "code": "A61K 36/33",
+    "description": "••••••Cactaceae (familia de las cactáceas), p. ej. Chumbera nopal o Cereus [2006.01]"
+  },
+  {
+    "code": "A61K 36/34",
+    "description": "••••••Campanulaceae (familia de las Campanillas) [2006.01]"
+  },
+  {
+    "code": "A61K 36/342",
+    "description": "••••••••Adenophora [2006.01]"
+  },
+  {
+    "code": "A61K 36/344",
+    "description": "••••••••Codonopsis [2006.01]"
+  },
+  {
+    "code": "A61K 36/346",
+    "description": "••••••••Platycodon [2006.01]"
+  },
+  {
+    "code": "A61K 36/35",
+    "description": "••••••Caprifoliaceae (familia de la Madreselva) [2006.01]"
+  },
+  {
+    "code": "A61K 36/355",
+    "description": "••••••••Lonicera (madreselva) [2006.01]"
+  },
+  {
+    "code": "A61K 36/36",
+    "description": "••••••Caryophyllaceae (familia del clavel), p. ej. gypsophila o saponaria [2006.01]"
+  },
+  {
+    "code": "A61K 36/37",
+    "description": "••••••Celastraceae (familia de la falsa ducarama), p. ej. tripterygium o bonetero [2006.01]"
+  },
+  {
+    "code": "A61K 36/38",
+    "description": "••••••Clusiaceae, Hypericaceae o Guttiferae (familia del Hipérico o del Mangostán), p. ej hipérico [2006.01]"
+  },
+  {
+    "code": "A61K 36/39",
+    "description": "••••••Convolvulaceae (familia de la Ipomea), p. ej. correhuela o manto blaco [2006.01]"
+  },
+  {
+    "code": "A61K 36/40",
+    "description": "••••••Cornaceae (familia del Cornejo) [2006.01]"
+  },
+  {
+    "code": "A61K 36/41",
+    "description": "••••••Crassulaceae (familia del Pampajarito) [2006.01]"
+  },
+  {
+    "code": "A61K 36/42",
+    "description": "••••••Cucurbitaceae (familia del Pepino) [2006.01]"
+  },
+  {
+    "code": "A61K 36/424",
+    "description": "••••••••Gynostemma [2006.01]"
+  },
+  {
+    "code": "A61K 36/428",
+    "description": "••••••••Trichosanthes [2006.01]"
+  },
+  {
+    "code": "A61K 36/43",
+    "description": "••••••Cuscutaceae (familia del Epítimo), p. ej. Cuscuta epithymum o epítimo [2006.01]"
+  },
+  {
+    "code": "A61K 36/44",
+    "description": "••••••Ebenaceae (familia de las ebenáceas), p. ej. caqui [2006.01]"
+  },
+  {
+    "code": "A61K 36/45",
+    "description": "••••••Ericaceae o Vacciniaceae (familia del Brezo blanco o del Arándano), p. ej. arándano [2006.01]"
+  },
+  {
+    "code": "A61K 36/46",
+    "description": "••••••Eucommiaceae (familia de la Eucommia), p. ej. guatapercha [2006.01]"
+  },
+  {
+    "code": "A61K 36/47",
+    "description": "••••••Euphorbiaceae (familia de la Euforbia), p. ej. Ricino [2006.01]"
+  },
+  {
+    "code": "A61K 36/48",
+    "description": "••••••Fabaceae o Leguminosae (familia del guisante o de las leguminosas); Caesalpiniaceae; Mimosaceae; Papilionaceae [2006.01]"
+  },
+  {
+    "code": "A61K 36/481",
+    "description": "••••••••Astrágalo [2006.01]"
+  },
+  {
+    "code": "A61K 36/482",
+    "description": "••••••••Cassia, p. ej. Laburno de India o Lluvia dorada [2006.01]"
+  },
+  {
+    "code": "A61K 36/483",
+    "description": "••••••••Gleditsia (Acacia de tres espinas) [2006.01]"
+  },
+  {
+    "code": "A61K 36/484",
+    "description": "••••••••Glycyrrhiza (regaliz) [2006.01]"
+  },
+  {
+    "code": "A61K 36/485",
+    "description": "••••••••Gueldenstaedtia [2006.01]"
+  },
+  {
+    "code": "A61K 36/486",
+    "description": "••••••••Millettia [2006.01]"
+  },
+  {
+    "code": "A61K 36/487",
+    "description": "••••••••Psoralea [2006.01]"
+  },
+  {
+    "code": "A61K 36/488",
+    "description": "••••••••Pueraria (kudzu) [2006.01]"
+  },
+  {
+    "code": "A61K 36/489",
+    "description": "••••••••Sophora, p. ej. Sophora japonica o Acacia del Japón [2006.01]"
+  },
+  {
+    "code": "A61K 36/49",
+    "description": "••••••Fagaceae (familia del Haya), p. ej. roble o castaño [2006.01]"
+  },
+  {
+    "code": "A61K 36/50",
+    "description": "••••••Fumariaceae (familia de la Fumaria), p. ej. Dicentra o Corazón sangrante o Corazón de María [2006.01]"
+  },
+  {
+    "code": "A61K 36/505",
+    "description": "••••••••Corydalis [2006.01]"
+  },
+  {
+    "code": "A61K 36/51",
+    "description": "••••••Gentianaceae (familia de la Genciana) [2006.01]"
+  },
+  {
+    "code": "A61K 36/515",
+    "description": "••••••••Genciana [2006.01]"
+  },
+  {
+    "code": "A61K 36/52",
+    "description": "••••••Juglandaceae (familia del Nogal) [2006.01]"
+  },
+  {
+    "code": "A61K 36/53",
+    "description": "••••••Lamiaceae o Labiatae (familia de la Menta), p. ej. tomillo, romero o lavanda [2006.01]"
+  },
+  {
+    "code": "A61K 36/532",
+    "description": "••••••••Agastache, p. ej. hisopo [2006.01]"
+  },
+  {
+    "code": "A61K 36/533",
+    "description": "••••••••Leonurus (agripalma o marihuanilla) [2006.01]"
+  },
+  {
+    "code": "A61K 36/534",
+    "description": "••••••••Mentha (menta) [2006.01]"
+  },
+  {
+    "code": "A61K 36/535",
+    "description": "••••••••Perilla (Perilla nankinensis) [2006.01]"
+  },
+  {
+    "code": "A61K 36/536",
+    "description": "••••••••Prunella o Brunella (consuelda menor) [2006.01]"
+  },
+  {
+    "code": "A61K 36/537",
+    "description": "••••••••Salvia (salvia) [2006.01]"
+  },
+  {
+    "code": "A61K 36/538",
+    "description": "••••••••Schizonepeta [2006.01]"
+  },
+  {
+    "code": "A61K 36/539",
+    "description": "••••••••Scutellaria (tercianaria) [2006.01]"
+  },
+  {
+    "code": "A61K 36/54",
+    "description": "••••••Lauraceae (familia del Laurel), p. ej. canela o sasafrás [2006.01]"
+  },
+  {
+    "code": "A61K 36/55",
+    "description": "••••••Linaceae (familia del lino), p. ej. Linum [2006.01]"
+  },
+  {
+    "code": "A61K 36/56",
+    "description": "••••••Loganiaceae (familia de la logania), p. ej. Spigelia [2006.01]"
+  },
+  {
+    "code": "A61K 36/57",
+    "description": "••••••Magnoliaceae (familia de la magnolia) [2006.01]"
+  },
+  {
+    "code": "A61K 36/575",
+    "description": "••••••••Magnolia [2006.01]"
+  },
+  {
+    "code": "A61K 36/58",
+    "description": "••••••Meliaceae (familia de la rosariera o del najesi), p. ej. Azadirachta indica o Lila de la India [2006.01]"
+  },
+  {
+    "code": "A61K 36/59",
+    "description": "••••••Menispermaceae (familia de la parilla), p. ej. Hyperbaena [2006.01]"
+  },
+  {
+    "code": "A61K 36/60",
+    "description": "••••••Moraceae (familia de la morera), p. ej. árbol del pan o Higuera [2006.01]"
+  },
+  {
+    "code": "A61K 36/605",
+    "description": "••••••••Morus (morera) [2006.01]"
+  },
+  {
+    "code": "A61K 36/61",
+    "description": "••••••Myrtaceae (familia del mirto), p. ej. cayeput o eucalipto [2006.01]"
+  },
+  {
+    "code": "A61K 36/62",
+    "description": "••••••Nymphaeaceae (familia del nenúfar) [2006.01]"
+  },
+  {
+    "code": "A61K 36/63",
+    "description": "••••••Oleaceae (familia del olivo), p. ej. jasmín, lila o orno [2006.01]"
+  },
+  {
+    "code": "A61K 36/634",
+    "description": "••••••••Forsythia [2006.01]"
+  },
+  {
+    "code": "A61K 36/638",
+    "description": "••••••••Ligustrum, p. ej. alheña [2006.01]"
+  },
+  {
+    "code": "A61K 36/64",
+    "description": "••••••Orobanchaceae (familia del orobanche) [2006.01]"
+  },
+  {
+    "code": "A61K 36/65",
+    "description": "••••••Paeoniaceae (familia de la peonía), p. ej. peonía china [2006.01]"
+  },
+  {
+    "code": "A61K 36/66",
+    "description": "••••••Papaveraceae (familia de la amapola), p. ej. sanguinaria del Canadá [2006.01]"
+  },
+  {
+    "code": "A61K 36/67",
+    "description": "••••••Piperaceae (familia de las piperáceas), p. ej. Jamaican pepper o kava [2006.01]"
+  },
+  {
+    "code": "A61K 36/68",
+    "description": "••••••Plantaginaceae (familia del llantén) [2006.01]"
+  },
+  {
+    "code": "A61K 36/69",
+    "description": "••••••Polygalaceae (familia de la Polígala) [2006.01]"
+  },
+  {
+    "code": "A61K 36/70",
+    "description": "••••••Polygonaceae (familia del trigo sarraceno), p. ej. Chorizanthe pungens [2006.01]"
+  },
+  {
+    "code": "A61K 36/704",
+    "description": "••••••••Polygonum, p. ej. centinodia o lengua de pájaro [2006.01]"
+  },
+  {
+    "code": "A61K 36/708",
+    "description": "••••••••Rheum (ruibarbo) [2006.01]"
+  },
+  {
+    "code": "A61K 36/71",
+    "description": "••••••Ranunculaceae (familia del botón de oro), p. ej. espuela de caballero, hepática, hidrastis, aguileña [2006.01]"
+  },
+  {
+    "code": "A61K 36/714",
+    "description": "••••••••Aconitum (acónito) [2006.01]"
+  },
+  {
+    "code": "A61K 36/716",
+    "description": "••••••••Clematis (clemátide) [2006.01]"
+  },
+  {
+    "code": "A61K 36/718",
+    "description": "••••••••Coptis (Coptis chinensis) [2006.01]"
+  },
+  {
+    "code": "A61K 36/72",
+    "description": "••••••Rhamnaceae (familia del arraclán), p. ej. arraclán, azufaifo o schefflera [2006.01]"
+  },
+  {
+    "code": "A61K 36/725",
+    "description": "••••••••Ziziphus, p. ej. jujuba [2006.01]"
+  },
+  {
+    "code": "A61K 36/73",
+    "description": "••••••Rosaceae (familia de la rosa), p. ej. fresa, cereza silvestre, mora, pera, espino de fuego o piracanta [2006.01]"
+  },
+  {
+    "code": "A61K 36/732",
+    "description": "••••••••Chaenomeles, p. ej. membrillo [2006.01]"
+  },
+  {
+    "code": "A61K 36/734",
+    "description": "••••••••Crataegus (espino blanco) [2006.01]"
+  },
+  {
+    "code": "A61K 36/736",
+    "description": "••••••••Prunus, p. ej. ciruelo, cerezo, melocotón, albaricoque o almendra [2006.01]"
+  },
+  {
+    "code": "A61K 36/738",
+    "description": "••••••••Rosa (rosa) [2006.01]"
+  },
+  {
+    "code": "A61K 36/739",
+    "description": "••••••••Sanguisorba (pimpinela) [2006.01]"
+  },
+  {
+    "code": "A61K 36/74",
+    "description": "••••••Rubiaceae (familia de la rubia) [2006.01]"
+  },
+  {
+    "code": "A61K 36/744",
+    "description": "••••••••Gardenia [2006.01]"
+  },
+  {
+    "code": "A61K 36/746",
+    "description": "••••••••Morinda [2006.01]"
+  },
+  {
+    "code": "A61K 36/748",
+    "description": "••••••••Oldenlandia o Hedyotis [2006.01]"
+  },
+  {
+    "code": "A61K 36/75",
+    "description": "••••••Rutaceae (familia de la ruda) [2006.01]"
+  },
+  {
+    "code": "A61K 36/752",
+    "description": "••••••••Citrus, p. ej. lima, naranja o limón [2006.01]"
+  },
+  {
+    "code": "A61K 36/754",
+    "description": "••••••••Evodia [2006.01]"
+  },
+  {
+    "code": "A61K 36/756",
+    "description": "••••••••Phellodendron, p. ej. árbol de amur [2006.01]"
+  },
+  {
+    "code": "A61K 36/758",
+    "description": "••••••••Zanthoxylum, p. ej. fresno espinoso [2006.01]"
+  },
+  {
+    "code": "A61K 36/76",
+    "description": "••••••Salicaceae (familia del sauce), p. ej. álamo [2006.01]"
+  },
+  {
+    "code": "A61K 36/77",
+    "description": "••••••Sapindaceae (familia del jabonero), p. ej. litchi o jabonero [2006.01]"
+  },
+  {
+    "code": "A61K 36/78",
+    "description": "••••••Saururaceae (familia del Saururus cernuus) [2006.01]"
+  },
+  {
+    "code": "A61K 36/79",
+    "description": "••••••Schisandraceae (familia de la Schisandra) [2006.01]"
+  },
+  {
+    "code": "A61K 36/80",
+    "description": "••••••Scrophulariaceae (familia de la escrofularia) [2006.01]"
+  },
+  {
+    "code": "A61K 36/804",
+    "description": "••••••••Rehmannia [2006.01]"
+  },
+  {
+    "code": "A61K 36/808",
+    "description": "••••••••Scrophularia (escrofularia) [2006.01]"
+  },
+  {
+    "code": "A61K 36/81",
+    "description": "••••••Solanaceae (familia de la patata), p. ej. tabaco, Solanum ptycanthum, tomate, belladona, pimiento o estramonio [2006.01]"
+  },
+  {
+    "code": "A61K 36/815",
+    "description": "••••••••Lycium (licio) [2006.01]"
+  },
+  {
+    "code": "A61K 36/82",
+    "description": "••••••Theaceae p. ej. camelia [2006.01]"
+  },
+  {
+    "code": "A61K 36/83",
+    "description": "••••••Thymelaeaceae (familia del torvisco), p. ej. mezereon o bufalaga [2006.01]"
+  },
+  {
+    "code": "A61K 36/835",
+    "description": "••••••••Aquilaria [2006.01]"
+  },
+  {
+    "code": "A61K 36/84",
+    "description": "••••••Valerianaceae (familia de la valeriana), p. ej. valeriana [2006.01]"
+  },
+  {
+    "code": "A61K 36/85",
+    "description": "••••••Verbenaceae (familia de la verbena) [2006.01]"
+  },
+  {
+    "code": "A61K 36/855",
+    "description": "••••••••Clerodendrum, p. ej. Clerodendrum cyrtophyllum [2006.01]"
+  },
+  {
+    "code": "A61K 36/86",
+    "description": "••••••Violaceae (familia de la violeta) [2006.01]"
+  },
+  {
+    "code": "A61K 36/87",
+    "description": "••••••Vitaceae o Ampelidaceae (familia de la vid o de la uva), p. ej. uvas, Vitis rotumdifolia o parra virgen [2006.01]"
+  },
+  {
+    "code": "A61K 36/88",
+    "description": "••••Liliopsida (monocotiledóneas) [2006.01]"
+  },
+  {
+    "code": "A61K 36/882",
+    "description": "••••••Acoraceae (familia del cálamo), p. ej. cálamo aromático o Acorus calamus [2006.01]"
+  },
+  {
+    "code": "A61K 36/884",
+    "description": "••••••Alismataceae (familia del llantén) [2006.01]"
+  },
+  {
+    "code": "A61K 36/886",
+    "description": "••••••Aloeaceae (familia del aloe), p. ej. aloe vera [2006.01]"
+  },
+  {
+    "code": "A61K 36/888",
+    "description": "••••••Araceae (familia del arum), p. ej. Caladium, Zantedeschia o Symplocarpus [2006.01]"
+  },
+  {
+    "code": "A61K 36/8884",
+    "description": "••••••••Arisaema, p. ej. Arisamea triphyllum [2006.01]"
+  },
+  {
+    "code": "A61K 36/8888",
+    "description": "••••••••Pinellia [2006.01]"
+  },
+  {
+    "code": "A61K 36/889",
+    "description": "••••••Arecaceae, Palmae o Palmaceae (familia de las palmeras), p. ej. palmera datilera, cocotero o serenoa [2006.01]"
+  },
+  {
+    "code": "A61K 36/8895",
+    "description": "••••••••Calamus, p. ej. rattan [2006.01]"
+  },
+  {
+    "code": "A61K 36/89",
+    "description": "••••••Cyperaceae (familia del cárex) [2006.01]"
+  },
+  {
+    "code": "A61K 36/8905",
+    "description": "••••••••Cyperus (flatsedge) [2006.01]"
+  },
+  {
+    "code": "A61K 36/894",
+    "description": "••••••Dioscoreaceae (Yam family) [2006.01]"
+  },
+  {
+    "code": "A61K 36/8945",
+    "description": "••••••••Dioscorea, p. ej. ñame, Dioscorea opposita o Dioscorea alata [2006.01]"
+  },
+  {
+    "code": "A61K 36/896",
+    "description": "••••••Liliaceae (familia del lirio), p. ej. hemerocala, hosta, jacinto o narciso [2006.01]"
+  },
+  {
+    "code": "A61K 36/8962",
+    "description": "••••••••Allium, p. ej. cebolla, puerro, ajo o cebolleta [2006.01]"
+  },
+  {
+    "code": "A61K 36/8964",
+    "description": "••••••••Anemarrhena [2006.01]"
+  },
+  {
+    "code": "A61K 36/8965",
+    "description": "••••••••Asparagus, p. ej. esparrago o esparragera [2006.01]"
+  },
+  {
+    "code": "A61K 36/8966",
+    "description": "••••••••Fritillaria, p. ej. Fritillaria meleagris [2006.01]"
+  },
+  {
+    "code": "A61K 36/8967",
+    "description": "••••••••Lilium, p. ej. Lilium lancifolium o Lilium longiflorum [2006.01]"
+  },
+  {
+    "code": "A61K 36/8968",
+    "description": "••••••••Ophiopogon (Ophiopogon japonicus) [2006.01]"
+  },
+  {
+    "code": "A61K 36/8969",
+    "description": "••••••••Polygonatum (sello de Salomón) [2006.01]"
+  },
+  {
+    "code": "A61K 36/898",
+    "description": "••••••Orchidaceae (familia de las orquídeas) [2006.01]"
+  },
+  {
+    "code": "A61K 36/8984",
+    "description": "••••••••Dendrobium [2006.01]"
+  },
+  {
+    "code": "A61K 36/8988",
+    "description": "••••••••Gastrodia [2006.01]"
+  },
+  {
+    "code": "A61K 36/899",
+    "description": "••••••Poaceae o Gramineae (familia de los cereales), p. ej. bambú, maíz o caña de azúcar [2006.01]"
+  },
+  {
+    "code": "A61K 36/8994",
+    "description": "••••••••Coix (lágrimas de Job) [2006.01]"
+  },
+  {
+    "code": "A61K 36/8998",
+    "description": "••••••••Hordeum (cebada) [2006.01]"
+  },
+  {
+    "code": "A61K 36/90",
+    "description": "••••••Smilacaceae (familia del smilax), p. ej. Smilax rotundifolia o zarzaparrilla [2006.01]"
+  },
+  {
+    "code": "A61K 36/902",
+    "description": "••••••Sparganiaceae (familia del esparganio) [2006.01]"
+  },
+  {
+    "code": "A61K 36/904",
+    "description": "••••••Stemonaceae (familia de la stemona), p. ej. croomia [2006.01]"
+  },
+  {
+    "code": "A61K 36/906",
+    "description": "••••••Zingiberaceae (familia del jengibre) [2006.01]"
+  },
+  {
+    "code": "A61K 36/9062",
+    "description": "••••••••Alpinia, p. ej. Alpinia purpurata o galangal [2006.01]"
+  },
+  {
+    "code": "A61K 36/9064",
+    "description": "••••••••Amomum, p. ej. cardamomo [2006.01]"
+  },
+  {
+    "code": "A61K 36/9066",
+    "description": "••••••••Cúrcuma, p. ej. cúrcuma, zedoaria o Curcuma amada [2006.01]"
+  },
+  {
+    "code": "A61K 36/9068",
+    "description": "••••••••Zingiber, p. ej. jengibre [2006.01]"
+  },
+  {
+    "code": "A61K 38/00",
+    "description": "Preparaciones medicinales que contienen péptidos (péptidos que contienen ciclos beta-lactama A61K 31/00; dipéptidos cíclicos que no tienen en su molécula ningún otro enlace peptídico más que los que forman su ciclo, p. ej. piperazina 2,5-dionas, A61K 31/00; péptidos basados en la ergolina A61K 31/48; que contienen compuestos macromoleculares que tienen unidades aminoácido repartidas estadísticamente A61K 31/74; preparaciones medicinales que contienen antígenos o anticuerpos A61K 39/00; preparaciones medicinales caracterizadas por los ingredientes no activos, p. ej. péptidos como soportes de fármacos, A61K 47/00) [2006.01]"
+  },
+  {
+    "code": "A61K 38/01",
+    "description": "••Proteínas hidrolizadas; Sus derivados [2006.01]"
+  },
+  {
+    "code": "A61K 38/02",
+    "description": "••Péptidos de número indeterminado de aminoácidos; Sus derivados [2006.01]"
+  },
+  {
+    "code": "A61K 38/03",
+    "description": "••Péptidos que tienen hasta 20 aminoácidos en una secuencia indeterminada o parcialmente determinada; Sus derivados [2006.01]"
+  },
+  {
+    "code": "A61K 38/04",
+    "description": "••Péptidos que tienen hasta 20 aminoácidos en una secuencia totalmente determinada; Sus derivados (gastrinas A61K 38/16, somatostatinas A61K 38/31, melanotropinas A61K 38/34) [2006.01]"
+  },
+  {
+    "code": "A61K 38/05",
+    "description": "••••Dipéptidos [2006.01]"
+  },
+  {
+    "code": "A61K 38/06",
+    "description": "••••Tripéptidos [2006.01]"
+  },
+  {
+    "code": "A61K 38/07",
+    "description": "••••Tetrapéptidos [2006.01]"
+  },
+  {
+    "code": "A61K 38/08",
+    "description": "••••Péptidos que tienen de 5 a 11 aminoácidos [2019.01]"
+  },
+  {
+    "code": "A61K 38/09",
+    "description": "••••••Hormona que libera a la hormona luteinizante [LHRH]; Péptidos relacionados [2006.01]"
+  },
+  {
+    "code": "A61K 38/095",
+    "description": "••••••Oxitocinas; Vasopresinas; Péptidos relacionados [2019.01]"
+  },
+  {
+    "code": "A61K 38/10",
+    "description": "••••Péptidos que tienen de 12 a 20 aminoácidos [2006.01]"
+  },
+  {
+    "code": "A61K 38/12",
+    "description": "••••Péptidos cíclicos [2006.01]"
+  },
+  {
+    "code": "A61K 38/13",
+    "description": "••••••Ciclosporinas [2006.01]"
+  },
+  {
+    "code": "A61K 38/14",
+    "description": "••••Péptidos que contienen radicales sacárido; Sus derivados [2006.01]"
+  },
+  {
+    "code": "A61K 38/15",
+    "description": "••••Depsipéptidos; Sus derivados [2006.01]"
+  },
+  {
+    "code": "A61K 38/16",
+    "description": "••Péptidos que tienen más de 20 aminoácidos; Gastrinas; Somatostatinas; Melanotropinas; Sus derivados [2006.01]"
+  },
+  {
+    "code": "A61K 38/17",
+    "description": "••••que provienen de animales; que provienen de humanos [2006.01]"
+  },
+  {
+    "code": "A61K 38/18",
+    "description": "••••••Factores de crecimiento; Reguladores de crecimiento [2006.01]"
+  },
+  {
+    "code": "A61K 38/19",
+    "description": "••••••Citoquinas; Linfoquinas; Interferones [2006.01]"
+  },
+  {
+    "code": "A61K 38/20",
+    "description": "••••••••Interleuquinas [2006.01]"
+  },
+  {
+    "code": "A61K 38/21",
+    "description": "••••••••Interferones [2006.01]"
+  },
+  {
+    "code": "A61K 38/22",
+    "description": "••••••Hormonas (derivados de pro-opiomelanocortina, pro-encefalina o pro-dinorfina A61K 38/33, p. ej. corticotropina A61K 38/35) [2006.01]"
+  },
+  {
+    "code": "A61K 38/23",
+    "description": "••••••••Calcitoninas [2006.01]"
+  },
+  {
+    "code": "A61K 38/24",
+    "description": "••••••••Hormona folículo-estimulante [FSH]; Gonadotropinas coriónicas, p. ej.: HCG; Hormona luteinizante [LH]; Hormona estimulante de la tiroides [TSH] [2006.01]"
+  },
+  {
+    "code": "A61K 38/25",
+    "description": "••••••••Factor que libera a la hormona de crecimiento [GH-RF] (Somatoliberina) [2006.01]"
+  },
+  {
+    "code": "A61K 38/26",
+    "description": "••••••••Glucagón [2006.01]"
+  },
+  {
+    "code": "A61K 38/27",
+    "description": "••••••••Hormona de crecimiento [GH] (Somatotropina) [2006.01]"
+  },
+  {
+    "code": "A61K 38/28",
+    "description": "••••••••Insulinas [2006.01]"
+  },
+  {
+    "code": "A61K 38/29",
+    "description": "••••••••Hormona paratiroidea (paratormona); Péptidos derivados de la hormona paratiroidea [2006.01]"
+  },
+  {
+    "code": "A61K 38/30",
+    "description": "••••••••Factores de crecimiento análogos a la insulina (somatomedinas), p. ej. IGF-1, IGF-2 [2006.01]"
+  },
+  {
+    "code": "A61K 38/31",
+    "description": "••••••••Somatostatinas [2006.01]"
+  },
+  {
+    "code": "A61K 38/32",
+    "description": "••••••••Timopoietinas [2006.01]"
+  },
+  {
+    "code": "A61K 38/33",
+    "description": "••••••derivados de pro-opiomelanocortina, pro-encefalina o pro-dinorfina [2006.01]"
+  },
+  {
+    "code": "A61K 38/34",
+    "description": "••••••••Hormona melanotropa [MSH], p. ej. alfa o beta-melanotropina [2006.01]"
+  },
+  {
+    "code": "A61K 38/35",
+    "description": "••••••••Corticotropina [ACTH] [2006.01]"
+  },
+  {
+    "code": "A61K 38/36",
+    "description": "••••••Factores de coagulación sanguínea o de fibrinolisis [2006.01]"
+  },
+  {
+    "code": "A61K 38/37",
+    "description": "••••••••Factores VIII [2006.01]"
+  },
+  {
+    "code": "A61K 38/38",
+    "description": "••••••Albúminas [2006.01]"
+  },
+  {
+    "code": "A61K 38/39",
+    "description": "••••••Péptidos del tejido conectivo, p. ej. colágeno, elastina, laminina, fibronectina, vitronectina, globulina insoluble en frío [CIG] [2006.01]"
+  },
+  {
+    "code": "A61K 38/40",
+    "description": "••••••Transferrinas, p. ej. lactoferrinas, ovotransferrinas [2006.01]"
+  },
+  {
+    "code": "A61K 38/41",
+    "description": "••••Péptidos que contienen ciclos porfirina o corrina [2006.01]"
+  },
+  {
+    "code": "A61K 38/42",
+    "description": "••••••Hemoglobinas; Mioglobinas [2006.01]"
+  },
+  {
+    "code": "A61K 38/43",
+    "description": "••••Enzimas; Proenzimas; Sus derivados [2006.01]"
+  },
+  {
+    "code": "A61K 38/44",
+    "description": "••••••Oxidoreductasas (1) [2006.01]"
+  },
+  {
+    "code": "A61K 38/45",
+    "description": "••••••Transferasas (2) [2006.01]"
+  },
+  {
+    "code": "A61K 38/46",
+    "description": "••••••Hidrolasas (3) [2006.01]"
+  },
+  {
+    "code": "A61K 38/47",
+    "description": "••••••••que actúan sobre compuestos glicosílicos (3.2), p. ej. celulosas, lactasas [2006.01]"
+  },
+  {
+    "code": "A61K 38/48",
+    "description": "••••••••que actúan sobre enlaces peptídicos (3.4) [2006.01]"
+  },
+  {
+    "code": "A61K 38/49",
+    "description": "••••••••••Uroquinasa; Activador de plasminógeno [2006.01]"
+  },
+  {
+    "code": "A61K 38/50",
+    "description": "••••••••que actúan sobre enlaces carbono-nitrógeno distintos de los enlaces peptídicos (3.5), p. ej.: asparaginasa [2006.01]"
+  },
+  {
+    "code": "A61K 38/51",
+    "description": "••••••Liasas (4) [2006.01]"
+  },
+  {
+    "code": "A61K 38/52",
+    "description": "••••••Isomerasas (5) [2006.01]"
+  },
+  {
+    "code": "A61K 38/53",
+    "description": "••••••Ligasas (6) [2006.01]"
+  },
+  {
+    "code": "A61K 38/54",
+    "description": "••••••Mezclas de enzimas o proenzimas cubiertas por más de uno solo de los grupos A61K 38/44-A61K 38/46ó A61K 38/51-A61K 38/53 [2006.01]"
+  },
+  {
+    "code": "A61K 38/55",
+    "description": "••••Inhibidores de proteasas [2006.01]"
+  },
+  {
+    "code": "A61K 38/56",
+    "description": "••••••que provienen de plantas [2006.01]"
+  },
+  {
+    "code": "A61K 38/57",
+    "description": "••••••que provienen de animales; que provienen de humanos [2006.01]"
+  },
+  {
+    "code": "A61K 38/58",
+    "description": "••••••••que provienen de sanguijuelas, p. ej.: hirudina, eglina [2006.01]"
+  },
+  {
+    "code": "A61K 39/00",
+    "description": "Preparaciones medicinales que contienen antígenos o anticuerpos (materiales para ensayos inmunológicos G01N 33/53) [2006.01]"
+  },
+  {
+    "code": "A61K 39/002",
+    "description": "••Antígenos de protozoos [2006.01]"
+  },
+  {
+    "code": "A61K 39/005",
+    "description": "••••Antígenos de Tripanosoma [2006.01]"
+  },
+  {
+    "code": "A61K 39/008",
+    "description": "••••Antígenos de Leishmania [2006.01]"
+  },
+  {
+    "code": "A61K 39/012",
+    "description": "••••Antígenos de Coccidia [2006.01]"
+  },
+  {
+    "code": "A61K 39/015",
+    "description": "••••Antígenos de Hemosporidia, p. ej. antígenos de Plasmodium [2006.01]"
+  },
+  {
+    "code": "A61K 39/018",
+    "description": "••••••Antígenos de Babesia, p. ej. antígenos de Theileria [2006.01]"
+  },
+  {
+    "code": "A61K 39/02",
+    "description": "••Antígenos bacterianos [2006.01]"
+  },
+  {
+    "code": "A61K 39/04",
+    "description": "••••Mycobacterium, p. ej. Mycobacterium tuberculosis [2006.01]"
+  },
+  {
+    "code": "A61K 39/05",
+    "description": "••••Corynebacterium; Propionibacterium [2006.01]"
+  },
+  {
+    "code": "A61K 39/07",
+    "description": "••••Bacillus [2006.01]"
+  },
+  {
+    "code": "A61K 39/08",
+    "description": "••••Clostridium, p. ej. Clostridium tetani [2006.01]"
+  },
+  {
+    "code": "A61K 39/085",
+    "description": "••••Staphylococcus [2006.01]"
+  },
+  {
+    "code": "A61K 39/09",
+    "description": "••••Streptococcus [2006.01]"
+  },
+  {
+    "code": "A61K 39/095",
+    "description": "••••Neisseria [2006.01]"
+  },
+  {
+    "code": "A61K 39/10",
+    "description": "••••Brucella; Bordetella, p. ej. Bordetella pertussis [2006.01]"
+  },
+  {
+    "code": "A61K 39/102",
+    "description": "••••Pasteurella; Haemophilus [2006.01]"
+  },
+  {
+    "code": "A61K 39/104",
+    "description": "••••Pseudomonas [2006.01]"
+  },
+  {
+    "code": "A61K 39/106",
+    "description": "••••Vibrio; Campylobacter [2006.01]"
+  },
+  {
+    "code": "A61K 39/108",
+    "description": "••••Escherichia; Klebsiella [2006.01]"
+  },
+  {
+    "code": "A61K 39/112",
+    "description": "••••Salmonella; Shigella [2006.01]"
+  },
+  {
+    "code": "A61K 39/114",
+    "description": "••••Fusobacterium [2006.01]"
+  },
+  {
+    "code": "A61K 39/116",
+    "description": "••••Antígenos bacterianos polivalentes [2006.01]"
+  },
+  {
+    "code": "A61K 39/118",
+    "description": "••Chlamydiaceae, p. ej. Chlamydia trachomatis o Chlamydia psittaci [2006.01]"
+  },
+  {
+    "code": "A61K 39/12",
+    "description": "••Antígenos virales [2006.01]"
+  },
+  {
+    "code": "A61K 39/125",
+    "description": "••••Picornaviridae, p. ej. Calicivirus [2006.01]"
+  },
+  {
+    "code": "A61K 39/13",
+    "description": "••••••Virus de la poliomielitis [2006.01]"
+  },
+  {
+    "code": "A61K 39/135",
+    "description": "••••••Virus de la fiebre aftosa [2006.01]"
+  },
+  {
+    "code": "A61K 39/145",
+    "description": "••••Orthomyxoviridae, p. ej. virus de la influenza [2006.01]"
+  },
+  {
+    "code": "A61K 39/15",
+    "description": "••••Reoviridae, p. ej. virus de la diarrea de la ternera [2006.01]"
+  },
+  {
+    "code": "A61K 39/155",
+    "description": "••••Paramyxoviridae, p. ej. virus de la parainfluenza [2006.01]"
+  },
+  {
+    "code": "A61K 39/165",
+    "description": "••••••Virus de la parotiditis o del sarampión [2006.01]"
+  },
+  {
+    "code": "A61K 39/17",
+    "description": "••••••Virus de la enfermedad de Newcastle [2006.01]"
+  },
+  {
+    "code": "A61K 39/175",
+    "description": "••••••Virus del moquillo canino [2006.01]"
+  },
+  {
+    "code": "A61K 39/187",
+    "description": "••••Virus de la peste porcina [2006.01]"
+  },
+  {
+    "code": "A61K 39/193",
+    "description": "••••Virus de encefalomielitis equina [2006.01]"
+  },
+  {
+    "code": "A61K 39/20",
+    "description": "••••Virus de la rubeola [2006.01]"
+  },
+  {
+    "code": "A61K 39/205",
+    "description": "••••Rhabdoviridae, p. ej. virus de la rabia [2006.01]"
+  },
+  {
+    "code": "A61K 39/21",
+    "description": "••••Retroviridae, p. ej. virus de la anemia infecciosa equina [2006.01]"
+  },
+  {
+    "code": "A61K 39/215",
+    "description": "••••Coronaviridae, p. ej. virus de la bronquitis infecciosa aviar [2006.01]"
+  },
+  {
+    "code": "A61K 39/225",
+    "description": "••••••Virus de la gastroenteritis transmisible del cerdo [2006.01]"
+  },
+  {
+    "code": "A61K 39/23",
+    "description": "••••Parvoviridae, p. ej. virus de la leucemia felina [2006.01]"
+  },
+  {
+    "code": "A61K 39/235",
+    "description": "••••Adenoviridae [2006.01]"
+  },
+  {
+    "code": "A61K 39/245",
+    "description": "••••Herpetoviridae, p. ej. virus del herpes simple [2006.01]"
+  },
+  {
+    "code": "A61K 39/25",
+    "description": "••••••Herpesvirus varicellae [2006.01]"
+  },
+  {
+    "code": "A61K 39/255",
+    "description": "••••••Virus de la enfermedad de Marek [2006.01]"
+  },
+  {
+    "code": "A61K 39/265",
+    "description": "••••••Virus de la rinotraqueítis infecciosa [2006.01]"
+  },
+  {
+    "code": "A61K 39/27",
+    "description": "••••••Virus de la rinoneumonía equina [2006.01]"
+  },
+  {
+    "code": "A61K 39/275",
+    "description": "••••Poxviridae, p. ej. avipoxvirus [2006.01]"
+  },
+  {
+    "code": "A61K 39/285",
+    "description": "••••••Virus de la viruela o virus de la varicela [2006.01]"
+  },
+  {
+    "code": "A61K 39/29",
+    "description": "••••Virus de la hepatitis [2006.01]"
+  },
+  {
+    "code": "A61K 39/295",
+    "description": "••••Antígenos virales polivalentes (virus de la viruela o de la varicela A61K 39/285); Mezclas de antígenos virales y bacterianos [2006.01]"
+  },
+  {
+    "code": "A61K 39/35",
+    "description": "••Alergenos [2006.01]"
+  },
+  {
+    "code": "A61K 39/36",
+    "description": "••••del polen [2006.01]"
+  },
+  {
+    "code": "A61K 39/38",
+    "description": "••Antígenos de serpientes [2006.01]"
+  },
+  {
+    "code": "A61K 39/385",
+    "description": "••Haptenos o antígenos, unidos a soportes [2006.01]"
+  },
+  {
+    "code": "A61K 39/39",
+    "description": "••caracterizados por los aditivos inmunoestimulantes, p. ej. por los adyuvantes químicos [2006.01]"
+  },
+  {
+    "code": "A61K 39/395",
+    "description": "••Anticuerpos (aglutininas A61K 38/36); Inmunoglobulinas; Inmunosuero, p. ej. suero antilinfocitario [2006.01]"
+  },
+  {
+    "code": "A61K 39/40",
+    "description": "••••bacterianos [2006.01]"
+  },
+  {
+    "code": "A61K 39/42",
+    "description": "••••virales [2006.01]"
+  },
+  {
+    "code": "A61K 39/44",
+    "description": "••••Anticuerpos unidos a sus soportes [2006.01]"
+  },
+  {
+    "code": "A61K 41/00",
+    "description": "Preparaciones medicinales obtenidas por tratamiento de sustancias mediante energía ondulatoria o por radiación corpuscular [2020.01]"
+  },
+  {
+    "code": "A61K 41/10",
+    "description": "••Inactivación o descontaminación de una preparación medicinal previamente a su administración a un animal o persona [2020.01]"
+  },
+  {
+    "code": "A61K 41/13",
+    "description": "••••mediante ondas ultrasónicas [2020.01]"
+  },
+  {
+    "code": "A61K 41/17",
+    "description": "••••mediante luz ultravioleta [UV] o infrarroja [IR], rayos X o rayos gamma [2020.01]"
+  },
+  {
+    "code": "A61K 45/00",
+    "description": "Preparaciones medicinales que contienen ingredientes activos no previstos en los grupos A61K 31/00-A61K 41/00 [2006.01]"
+  },
+  {
+    "code": "A61K 45/06",
+    "description": "••Mezclas de ingredientes activos sin caracterización química, p. ej. compuestos antiflojísticos y para el corazón [2006.01]"
+  },
+  {
+    "code": "A61K 45/08",
+    "description": "••Mezclas de un ingrediente activo y de una sustancia auxiliar, no estando ninguno químicamente caracterizado, p. ej. antihistamínico y agente tensio-activo [2006.01]"
+  },
+  {
+    "code": "A61K 47/00",
+    "description": "Preparaciones medicinales caracterizadas por los ingredientes no activos utilizados, p. ej. portadores o aditivos inertes; Agentes de direccionamiento o agentes modificadores enlazados químicamente al ingrediente activo [2006.01]"
+  },
+  {
+    "code": "A61K 47/02",
+    "description": "••Compuestos inorgánicos [2006.01]"
+  },
+  {
+    "code": "A61K 47/04",
+    "description": "••••No-metales; Sus compuestos [2006.01]"
+  },
+  {
+    "code": "A61K 47/06",
+    "description": "••Compuestos orgánicos, p. ej. hidrocarburos naturales o sintéticos, poliolefinas, aceite mineral, petrolato u ozoquerita [2006.01]"
+  },
+  {
+    "code": "A61K 47/08",
+    "description": "••••que contienen oxígeno [2006.01]"
+  },
+  {
+    "code": "A61K 47/10",
+    "description": "••••••Alcoholes; Fenoles; Sus sales, p. ej. glicerol; Polietilenglicoles [PEG]; Poloxámeros; Éteres alquílicos PEG/POE [2017.01]"
+  },
+  {
+    "code": "A61K 47/12",
+    "description": "••••••Acidos carboxílicos; Sus sales o anhídridos [2006.01]"
+  },
+  {
+    "code": "A61K 47/14",
+    "description": "••••••Esteres de ácidos carboxílicos, p. ej. monoglicéridos de ácidos grasos, triglicéridos de cadenas medianas, parabenos o ésteres de ácidos grasos y de polietilenglicol (PEG) [2017.01]"
+  },
+  {
+    "code": "A61K 47/16",
+    "description": "••••que contienen nitrógeno [2006.01]"
+  },
+  {
+    "code": "A61K 47/18",
+    "description": "••••••Aminas; Amidas; Ureas; Compuestos de amonio cuaternario; Aminoácidos; Oligopéptidos que tienen hasta cinco aminoácidos [2017.01]"
+  },
+  {
+    "code": "A61K 47/20",
+    "description": "••••que contienen azufre, p. ej. dimetilsulfóxido [DMSO], docusato, lauril sulfato de sodio o ácidos amino-sulfónicos [2006.01]"
+  },
+  {
+    "code": "A61K 47/22",
+    "description": "••••Compuestos heterocíclicos, p. ej. ácido ascórbico, tocoferol o pirrolidonas [2006.01]"
+  },
+  {
+    "code": "A61K 47/24",
+    "description": "••••que contienen átomos distintos al carbono, hidrógeno, oxígeno, halógenos, nitrógeno o azufre, p. ej. ciclometicona o fosfolípidos [2006.01]"
+  },
+  {
+    "code": "A61K 47/26",
+    "description": "••••Hidratos de carbono, p. ej. alcoholes de azúcares, amino azúcares, ácidos nucleicos, mono-, di- u oligo-sacáridos; Sus derivados, p. ej. polisorbatos, ésteres de ácidos grasos sorbitano o glicirricina [2006.01]"
+  },
+  {
+    "code": "A61K 47/28",
+    "description": "••••Esteroides, p. ej. colesterol, ácidos biliares o ácido glicirretínico [2006.01]"
+  },
+  {
+    "code": "A61K 47/30",
+    "description": "••Compuestos macromoleculares orgánicos o inorgánicos, p. ej. polifosfatos inorgánicos [2006.01]"
+  },
+  {
+    "code": "A61K 47/32",
+    "description": "••••Compuestos macromoleculares obtenidos por reacciones en las que intervienen solamente enlaces insaturados carbono-carbono, p. ej. carbómeros (resinas de carbopol) [2006.01]"
+  },
+  {
+    "code": "A61K 47/34",
+    "description": "••••Compuestos macromoleculares obtenidos por reacciones distintas a aquellas en las que intervienen solamente enlaces insaturados carbono-carbono, p. ej. poliésteres, poly(amino ácidos), polisiloxanos, polifosfacinas, copolímeros de polialquilenglicol o poloxámeros (A61K 47/10 tiene prioridad) [2017.01]"
+  },
+  {
+    "code": "A61K 47/36",
+    "description": "••••Polisacáridos; Sus derivados, p. ej. gomas o resinas, almidón, alginato, dextrina, ácido hialurónico, quitosano, inulina, agar o pectina [2006.01]"
+  },
+  {
+    "code": "A61K 47/38",
+    "description": "••••••Celulosa; Sus derivados [2006.01]"
+  },
+  {
+    "code": "A61K 47/40",
+    "description": "••••••Ciclodextrinas; Sus derivados [2006.01]"
+  },
+  {
+    "code": "A61K 47/42",
+    "description": "••••Proteínas; Polipéptidos; Sus productos de degradación; Sus derivados, p. ej. albúmina, gelatina or zeína (oligopéptidos que contienen hasta cinco  aminoácidos A61K 47/18; poliaminoácidos A61K 47/34) [2017.01]"
+  },
+  {
+    "code": "A61K 47/44",
+    "description": "••Aceites, grasas o ceras previstas en dos o más grupos de A61K 47/02-A61K 47/42; Aceites naturales o aceites naturales modificados, grasas o ceras, p. ej. aceite de ricino, aceite de ricino polietoxilado, cera Montana, lignito, goma laca, colofonía, cera de abeja o lanolina (glicéridos sintéticos, p. ej. triglicéridos de cadena mediana, A61K 47/14) [2017.01]"
+  },
+  {
+    "code": "A61K 47/46",
+    "description": "••Ingredientes de constitución indeterminada o sus productos de reacción, p. ej. piel, hueso, leche, fibra de algodón, cáscara de huevo, bilis de buey (oxgall) o extractos de plantas [2006.01]"
+  },
+  {
+    "code": "A61K 47/50",
+    "description": "••estando el ingrediente no-activo químicamente unido al ingrediente activo, p. ej. conjugados polímero-fármaco [2017.01]"
+  },
+  {
+    "code": "A61K 47/51",
+    "description": "••••el ingrediente no-activo es un agente modificador [2017.01]"
+  },
+  {
+    "code": "A61K 47/52",
+    "description": "••••••el agente modificador es un compuesto inorgánico, p. ej. un ión inorgánico que se acompleja con el ingrediente activo [2017.01]"
+  },
+  {
+    "code": "A61K 47/54",
+    "description": "••••••el agente modificador es un compuesto orgánico [2017.01]"
+  },
+  {
+    "code": "A61K 47/55",
+    "description": "••••••••el agente modificador es también un agente activo farmacológica o terapéuticamente, p. ej.  todo el conjugado es un co-fármaco, p. ej. un dímero, oligómero o polímero de compuestos activos farmacológica o terapéuticamente [2017.01]"
+  },
+  {
+    "code": "A61K 47/56",
+    "description": "••••••el agente modificador es un compuesto macromolecular, p. ej. una molécula oligomérica, polimérica o de tipo dendrímero [2017.01]"
+  },
+  {
+    "code": "A61K 47/58",
+    "description": "••••••••obtenidos por reacciones que implican únicamente enlaces insaturados carbono - carbono, p. ej. poli(met)acrilato, poliacrilamida, poliestireno, polivinilpirrolidona, polialcohol vinílico o resina de poliestireno-ácido sulfónico [2017.01]"
+  },
+  {
+    "code": "A61K 47/59",
+    "description": "••••••••obtenidos por reacciones distintas a aquellas en las que intervienen solamente enlaces insaturados carbono – carbono, p. ej. poliureas o poliuretanos [2017.01]"
+  },
+  {
+    "code": "A61K 47/60",
+    "description": "••••••••••siendo el compuesto orgánico macromolecular un oligómero polioxialqueno, un polímero o un dendrímero, p. ej. PEG, PPG, PEO o poliglicerol [2017.01]"
+  },
+  {
+    "code": "A61K 47/61",
+    "description": "••••••••siendo el compuesto orgánico macromolecular un polisacárido o uno de sus derivados [2017.01]"
+  },
+  {
+    "code": "A61K 47/62",
+    "description": "••••••siendo el agente modificador una proteína, un péptido o un poliaminoácido [2017.01]"
+  },
+  {
+    "code": "A61K 47/64",
+    "description": "••••••••Conjugados fármaco-péptido, fármaco-proteína o fármaco-poliaminoácido, es decir, el agente modificador es un péptido, una proteína o un poliamino ácido que está unido covalentemente o acomplejado a un principio  terapéuticamente activo (uniones peptídicas A61K 47/65) [2017.01]"
+  },
+  {
+    "code": "A61K 47/65",
+    "description": "••••••••Ligantes, aglutinantes o espaciadores peptídicos, p. ej. ligantes peptídicos lábiles a las enzimas [2017.01]"
+  },
+  {
+    "code": "A61K 47/66",
+    "description": "••••••••siendo el agente modificador un sistema pre-direccionamiento que implica un péptido o una proteína para células específicas de direccionamiento [2017.01]"
+  },
+  {
+    "code": "A61K 47/68",
+    "description": "••••••siendo el agente modificador un anticuerpo, una inmunoglobulina o un fragmento de los mismos, p. ej. un fragmento Fc [2017.01]"
+  },
+  {
+    "code": "A61K 47/69",
+    "description": "••••siendo el conjugado caracterizado por su forma física o galénica, p. ej. emulsión, partículas, complejo de inclusión, estent o kit [2017.01]"
+  },
+  {
+    "code": "A61K 48/00",
+    "description": "Preparaciones medicinales que contienen material genético que se introduce en las células del cuerpo vivo para tratar enfermedades genéticas; Terapia génica [2006.01]"
+  },
+  {
+    "code": "A61K 49/00",
+    "description": "Preparaciones para examen in vivo [2006.01]"
+  },
+  {
+    "code": "A61K 49/04",
+    "description": "••Agentes de contraste para rayos X [2006.01]"
+  },
+  {
+    "code": "A61K 49/06",
+    "description": "••Preparaciones de contraste para la resonancia magnética nuclear (RMN); Preparaciones de contraste para el diagnóstico por imagen por resonancia magnética (MRI) [2006.01]"
+  },
+  {
+    "code": "A61K 49/08",
+    "description": "••••caracterizadas por el soporte [2006.01]"
+  },
+  {
+    "code": "A61K 49/10",
+    "description": "••••••compuestos orgánicos [2006.01]"
+  },
+  {
+    "code": "A61K 49/12",
+    "description": "••••••••compuestos macromoleculares [2006.01]"
+  },
+  {
+    "code": "A61K 49/14",
+    "description": "••••••••Péptidos, p. ej. proteínas [2006.01]"
+  },
+  {
+    "code": "A61K 49/16",
+    "description": "••••••••••Anticuerpos; Inmunoglobulinas; Sus fragmentos [2006.01]"
+  },
+  {
+    "code": "A61K 49/18",
+    "description": "••••caracterizadas por un aspecto físico particular, p. ej. emulsiones, microcápsulas, liposomas [2006.01]"
+  },
+  {
+    "code": "A61K 49/20",
+    "description": "••••conteniendo radicales libres [2006.01]"
+  },
+  {
+    "code": "A61K 49/22",
+    "description": "••Preparaciones para ecografía; Preparaciones para diagnóstico por ultrasonidos [2006.01]"
+  },
+  {
+    "code": "A61K 50/00",
+    "description": "Preparaciones conductoras de la electricidad utilizadas en terapia o para el examen in vivo, p. ej. geles o adhesivos conductores utilizados con los electrodos de electrocardiografía (ECG) o para la administración transdérmica de medicamentos [2006.01]"
+  },
+  {
+    "code": "A61K 51/00",
+    "description": "Preparaciones que contienen sustancias radioactivas utilizadas para la terapia o para el examen in vivo [2006.01]"
+  },
+  {
+    "code": "A61K 51/02",
+    "description": "••caracterizadas por el soporte [2006.01]"
+  },
+  {
+    "code": "A61K 51/04",
+    "description": "••••Compuestos orgánicos [2006.01]"
+  },
+  {
+    "code": "A61K 51/06",
+    "description": "••••••Compuestos macromoleculares [2006.01]"
+  },
+  {
+    "code": "A61K 51/08",
+    "description": "••••••Péptidos, p. ej. proteínas [2006.01]"
+  },
+  {
+    "code": "A61K 51/10",
+    "description": "••••••••Anticuerpos o inmunoglobulinas; Sus fragmentos [2006.01]"
+  },
+  {
+    "code": "A61K 51/12",
+    "description": "••caracterizadas por un aspecto físico particular, p. ej. emulsión, microcápsulas, liposomas [2006.01]"
+  },
+  {
+    "code": "A61K 101/00",
+    "description": "No metales radioactivos [2006.01]"
+  },
+  {
+    "code": "A61K 101/02",
+    "description": "••Halógenos [2006.01]"
+  },
+  {
+    "code": "A61K 103/00",
+    "description": "Metales radioactivos [2006.01]"
+  },
+  {
+    "code": "A61K 103/10",
+    "description": "••Tecnecio; Renio [2006.01]"
+  },
+  {
+    "code": "A61K 103/20",
+    "description": "••Indio [2006.01]"
+  },
+  {
+    "code": "A61K 103/30",
+    "description": "••Tierras raras [2006.01]"
+  },
+  {
+    "code": "A61K 103/32",
+    "description": "••••Ytrio [2006.01]"
+  },
+  {
+    "code": "A61K 103/34",
+    "description": "••••Gadolinio [2006.01]"
+  },
+  {
+    "code": "A61K 103/36",
+    "description": "••••Iterbio [2006.01]"
+  },
+  {
+    "code": "A61K 103/40",
+    "description": "••Actínidos [2006.01]"
+  },
+  {
+    "code": "A61K 125/00",
+    "description": "que contienen o que se obtienen a partir de raíces, bulbos, tubérculos o rizómas [2006.01]"
+  },
+  {
+    "code": "A61K 127/00",
+    "description": "que contienen o que se obtienen a partir de las hojas [2006.01]"
+  },
+  {
+    "code": "A61K 129/00",
+    "description": "que contienen o que se obtienen a partir del corcho [2006.01]"
+  },
+  {
+    "code": "A61K 131/00",
+    "description": "que contienen o que se obtienen a partir de semillas, frutos secos, frutas o granos [2006.01]"
+  },
+  {
+    "code": "A61K 133/00",
+    "description": "que contienen o que se obtienen a partir de las flores [2006.01]"
+  },
+  {
+    "code": "A61K 135/00",
+    "description": "que contienen o que se obtienen a partir de troncos, tallos, pedúnculos, ramas o brotes [2006.01]"
+  }
+]

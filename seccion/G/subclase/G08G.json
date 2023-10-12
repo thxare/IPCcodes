@@ -1,0 +1,194 @@
+[
+  {
+    "code": "G08G 1/00",
+    "description": "Sistemas de control del tráfico para vehículos en carretera (disposición de las señales de tráfico o las señales de carretera E01F 9/00) [2006.01]"
+  },
+  {
+    "code": "G08G 1/005",
+    "description": "••que comprenden un indicador para guiar a los peatones [2006.01]"
+  },
+  {
+    "code": "G08G 1/01",
+    "description": "••Detección del movimiento del tráfico para el cómputo o el control (G08G 1/07-G08G 1/14 take precedence; tarificación vial o tarifa por congestión de vehículos o usuarios de vehículos G07B 15/06) [2006.01]"
+  },
+  {
+    "code": "G08G 1/015",
+    "description": "••••con disposiciones para distinguir dos o más tipos de vehículos, p. ej. distinción entre automóviles y ciclos [2006.01]"
+  },
+  {
+    "code": "G08G 1/017",
+    "description": "••••por identificación de los vehículos (G08G 1/015, G08G 1/054 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G08G 1/02",
+    "description": "••••que utilizan pedales incorporados en la calzada [2006.01]"
+  },
+  {
+    "code": "G08G 1/04",
+    "description": "••••que utilizan detectores ópticos o ultrasónicos [2006.01]"
+  },
+  {
+    "code": "G08G 1/042",
+    "description": "••••utilizando detectores inductivos o magnéticos [2006.01]"
+  },
+  {
+    "code": "G08G 1/048",
+    "description": "••••con disposiciones para compensar las condiciones ambientales u otros parámetros, p. ej. la nieve, un vehículo detenido en un detector [2006.01]"
+  },
+  {
+    "code": "G08G 1/052",
+    "description": "••••con disposiciones para determinar la velocidad o el exceso de velocidad [2006.01]"
+  },
+  {
+    "code": "G08G 1/054",
+    "description": "••••••fotografiando los vehículos en exceso de velocidad [2006.01]"
+  },
+  {
+    "code": "G08G 1/056",
+    "description": "••••con disposiciones para distinguir la dirección de circulación [2006.01]"
+  },
+  {
+    "code": "G08G 1/065",
+    "description": "••por cómputo de vehículos en una sección de la carretera o en un parque de estacionamiento, es decir, que compara el número de los que llegan y el de los que se van (tarificación vial o tarifa por congestión de vehículos o usuarios de vehículos G07B 15/06) [2006.01]"
+  },
+  {
+    "code": "G08G 1/07",
+    "description": "••Control de señales de tráfico [2006.01]"
+  },
+  {
+    "code": "G08G 1/08",
+    "description": "••••según el número o la velocidad detectada de los vehículos [2006.01]"
+  },
+  {
+    "code": "G08G 1/081",
+    "description": "••••dependiendo varios cruces de un control común [2006.01]"
+  },
+  {
+    "code": "G08G 1/082",
+    "description": "••••••Control del intervalo de tiempo entre el inicio de la misma fase de un ciclo en cruces adyacentes [2006.01]"
+  },
+  {
+    "code": "G08G 1/083",
+    "description": "••••••Control del tiempo atribuido entre las fases de un ciclo [2006.01]"
+  },
+  {
+    "code": "G08G 1/085",
+    "description": "••••que utilizan un minutero cíclico de funcionamiento libre [2006.01]"
+  },
+  {
+    "code": "G08G 1/087",
+    "description": "••••Intervención prioritaria sobre el control del tráfico, p. ej. por medio de una señal transmitida por un vehículo de socorro [2006.01]"
+  },
+  {
+    "code": "G08G 1/09",
+    "description": "••Disposiciones para dar instrucciones variables para el tráfico [2006.01]"
+  },
+  {
+    "code": "G08G 1/095",
+    "description": "••••Semáforos [2006.01]"
+  },
+  {
+    "code": "G08G 1/0955",
+    "description": "••••••transportables [2006.01]"
+  },
+  {
+    "code": "G08G 1/096",
+    "description": "••••con indicadores en los cuales la progresión de un reloj muestra el tiempo transcurrido, p. ej. el de luz verde [2006.01]"
+  },
+  {
+    "code": "G08G 1/0962",
+    "description": "••••con un indicador montado en el interior del vehículo, p. ej. proporcionando mensajes de voz [2006.01]"
+  },
+  {
+    "code": "G08G 1/0965",
+    "description": "••••••que responden a señales que provienen de otro vehículo, p. ej. de un vehículo de socorro [2006.01]"
+  },
+  {
+    "code": "G08G 1/0967",
+    "description": "••••••Sistemas que incluyen transmisión de informaciones para las grandes vías circulatorias, p. ej. condiciones meteorológicas, límites de velocidad (G08G 1/0968 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G08G 1/0968",
+    "description": "••••••Sistemas que incluyen transmisión de instrucciones de navegación al vehículo [2006.01]"
+  },
+  {
+    "code": "G08G 1/0969",
+    "description": "••••••••con un dispositivo de visualización en forma de mapa [2006.01]"
+  },
+  {
+    "code": "G08G 1/097",
+    "description": "••Sistemas de vigilancia del control del tráfico, p. ej. dando la alarma si dos que se cruzan tienen luz verde simultáneamente [2006.01]"
+  },
+  {
+    "code": "G08G 1/123",
+    "description": "••que indican la posición de vehículos, p. ej. vehículos de horario determinado [2006.01]"
+  },
+  {
+    "code": "G08G 1/127",
+    "description": "••••en una estación central [2006.01]"
+  },
+  {
+    "code": "G08G 1/13",
+    "description": "••••••teniendo el indicador forma de mapa [2006.01]"
+  },
+  {
+    "code": "G08G 1/133",
+    "description": "••••en el interior del vehículo [2006.01]"
+  },
+  {
+    "code": "G08G 1/137",
+    "description": "••••••teniendo el indicador forma de mapa [2006.01]"
+  },
+  {
+    "code": "G08G 1/14",
+    "description": "••que indican las plazas libres individuales en parques de estacionamiento [2006.01]"
+  },
+  {
+    "code": "G08G 1/16",
+    "description": "••Sistemas anticolisión [2006.01]"
+  },
+  {
+    "code": "G08G 3/00",
+    "description": "Sistemas de control del tráfico para los vehículos marinos (marcado de las rutas de navegación B63B 51/00) [2006.01]"
+  },
+  {
+    "code": "G08G 3/02",
+    "description": "••Sistemas anticolisión [2006.01]"
+  },
+  {
+    "code": "G08G 5/00",
+    "description": "Sistemas del control del tráfico aéreo [2006.01]"
+  },
+  {
+    "code": "G08G 5/02",
+    "description": "••Ayudas para el aterrizaje automático, es decir, sistemas en los que los datos de los vuelos de aviones que llegan son tratados para suministrar los datos de aterrizaje (ayudas al aterrizaje a bordo de aeronaves, o medidas de seguridad a bordo de la nave para evitar la colisión con la superficie de la tierra B64D 45/04; ayudas al aterrizaje visuales o acústicas en tierra o en cubierta de portaviones B64F 1/18) [2006.01]"
+  },
+  {
+    "code": "G08G 5/04",
+    "description": "••Sistemas anticolisión [2006.01]"
+  },
+  {
+    "code": "G08G 5/06",
+    "description": "••para el control cuando el aparato está en tierra [2006.01]"
+  },
+  {
+    "code": "G08G 7/00",
+    "description": "Sistemas del control del tráfico para el control simultáneo de varios tipos diferentes de vehículos [2006.01]"
+  },
+  {
+    "code": "G08G 7/02",
+    "description": "••Sistemas anticolisión [2006.01]"
+  },
+  {
+    "code": "G08G 9/00",
+    "description": "Sistemas del control del tráfico de vehículos, en los que el tipo de vehículo no tienen importancia o de un tipo no especificado [2006.01]"
+  },
+  {
+    "code": "G08G 9/02",
+    "description": "••Sistemas anticolisión [2006.01]"
+  },
+  {
+    "code": "G08G 99/00",
+    "description": "Materia no prevista en otros grupos de esta subclase [2006.01]"
+  }
+]

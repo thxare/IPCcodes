@@ -1,0 +1,470 @@
+[
+  {
+    "code": "B21C 1/00",
+    "description": "Fabricación de chapas, alambres, barras, metálicos,tuboso productos análogos semiacabadospor estirado [2006.01]"
+  },
+  {
+    "code": "B21C 1/02",
+    "description": "••Estirado de alambres o de un material flexible análogo por medio de máquinas o aparatos estiradores en los que el estirado se efectúa por medio de tambores [2006.01]"
+  },
+  {
+    "code": "B21C 1/04",
+    "description": "••••con varias hileras montadas en serie [2006.01]"
+  },
+  {
+    "code": "B21C 1/06",
+    "description": "••••••en los que el material resbala sobre los tambores [2006.01]"
+  },
+  {
+    "code": "B21C 1/08",
+    "description": "••••••en los que el material no resbala sobre los tambores [2006.01]"
+  },
+  {
+    "code": "B21C 1/10",
+    "description": "••••••••con acumulación del material entre las hileras sucesivas [2006.01]"
+  },
+  {
+    "code": "B21C 1/12",
+    "description": "••••Regulación o control de la velocidad de los tambores estiradores, p. ej. para regular la tensión; Propulsión; Mecanismos de detención o de liberación [2006.01]"
+  },
+  {
+    "code": "B21C 1/14",
+    "description": "••••Tambores, p. ej. cabestrantes; Fijación de órganos de enganche a los tambores; Organos de enganche especialmente adaptados a las máquinas o aparatos para estirar de tipo tambor; Acoplamientos especialmente adaptados a estos tambores [2006.01]"
+  },
+  {
+    "code": "B21C 1/16",
+    "description": "••Estirado por medio de máquinas o aparatos en los que el esfuerzo de tracción se produce por medios que no sean tambores, p. ej. por carretas movidas longitudinalmente tirando o empujando el material a fin de formar chapas, barraso tubos metálicos [2006.01]"
+  },
+  {
+    "code": "B21C 1/18",
+    "description": "••••a partir de un material de longitud limitada (B21C 1/22 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B21C 1/20",
+    "description": "••••a partir de un material de longitud prácticamente ilimitada (B21C 1/22 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B21C 1/22",
+    "description": "••••especialmente adaptados a la fabricación de objetos tubulares (conformación de chapas en forma tubular por estirado B21D 5/10) [2006.01]"
+  },
+  {
+    "code": "B21C 1/24",
+    "description": "••••••por medio de mandriles [2006.01]"
+  },
+  {
+    "code": "B21C 1/26",
+    "description": "••••••••Estirado por empuje [2006.01]"
+  },
+  {
+    "code": "B21C 1/27",
+    "description": "••••Carretillas; Propulsión [2006.01]"
+  },
+  {
+    "code": "B21C 1/28",
+    "description": "••••••Carretillas; Fijación de órganos de enganche a las carretillas; Organos de enganche [2006.01]"
+  },
+  {
+    "code": "B21C 1/30",
+    "description": "••••••Propulsión, p. ej. mecanismo de las carretillas de tracción; Elementos de propulsión, p. ej. cadenas para estirar; Control de la propulsión [2006.01]"
+  },
+  {
+    "code": "B21C 1/32",
+    "description": "••••Alimentación o descarga del material o de los mandriles [2006.01]"
+  },
+  {
+    "code": "B21C 1/34",
+    "description": "••••Guiado o sujeción del material o de los mandriles [2006.01]"
+  },
+  {
+    "code": "B21C 3/00",
+    "description": "Herramientas para perfilar por estirado del metal; Combinación de hileras de estirar y de mandriles por estirado del metal [2006.01]"
+  },
+  {
+    "code": "B21C 3/02",
+    "description": "••Matrices; Empleo de un material determinado para estas hileras; Limpieza de estas hileras [2006.01]"
+  },
+  {
+    "code": "B21C 3/04",
+    "description": "••••de abertura constante (B21C 3/08 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B21C 3/06",
+    "description": "••••de abertura regulable (B21C 3/08 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B21C 3/08",
+    "description": "••••de abertura definida por los rodillos, las bolas o los elementos análogos [2006.01]"
+  },
+  {
+    "code": "B21C 3/10",
+    "description": "••••con fuerzas hidráulicas que actúan directamente sobre el material [2006.01]"
+  },
+  {
+    "code": "B21C 3/12",
+    "description": "••••Soportes de hileras; Hileras rotativas [2006.01]"
+  },
+  {
+    "code": "B21C 3/14",
+    "description": "••••••Soportes de hileras combinados a dispositivos de guía del material que va a ser estirado, o a dispositivos para el enfriamiento, el calentamiento o la lubrificación [2006.01]"
+  },
+  {
+    "code": "B21C 3/16",
+    "description": "••Mandriles; Montajes o regulación de los mandriles [2006.01]"
+  },
+  {
+    "code": "B21C 3/18",
+    "description": "••Fabricación de herramientas por medio de operaciones no previstas en una sola de las otras subclases; Reparación [2006.01]"
+  },
+  {
+    "code": "B21C 5/00",
+    "description": "Apuntado o trabajo de estirado apuntado por presión o material estirado [2006.01]"
+  },
+  {
+    "code": "B21C 9/00",
+    "description": "Enfriamiento, calentamiento o lubricación del material que va a ser estirado (B21C 3/14 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B21C 9/02",
+    "description": "••Empleo de composiciones específicas para estas operaciones [2006.01]"
+  },
+  {
+    "code": "B21C 23/00",
+    "description": "Extrusión de metales; Extrusión por percusión [2006.01]"
+  },
+  {
+    "code": "B21C 23/01",
+    "description": "••a partir de un material de forma particular, p. ej. que haya sufrido un pretratamiento mecánico (B21C 23/22 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B21C 23/02",
+    "description": "••Fabricación de productos no recubiertos [2006.01]"
+  },
+  {
+    "code": "B21C 23/03",
+    "description": "••••a la vez por extrusión directa e invertida [2006.01]"
+  },
+  {
+    "code": "B21C 23/04",
+    "description": "••••por extrusión directa [2006.01]"
+  },
+  {
+    "code": "B21C 23/06",
+    "description": "••••••Fabricación de chapas [2006.01]"
+  },
+  {
+    "code": "B21C 23/08",
+    "description": "••••••Fabricación de hilos, de barras, de tubos [2006.01]"
+  },
+  {
+    "code": "B21C 23/10",
+    "description": "••••••••Fabricación de tubos con aletas [2006.01]"
+  },
+  {
+    "code": "B21C 23/12",
+    "description": "••••••••Extrusión de tubos o de barras curvados [2006.01]"
+  },
+  {
+    "code": "B21C 23/14",
+    "description": "••••••Fabricación de otros productos [2006.01]"
+  },
+  {
+    "code": "B21C 23/16",
+    "description": "••••••••Fabricación de paletas de turbina o de hélice [2006.01]"
+  },
+  {
+    "code": "B21C 23/18",
+    "description": "••••por extrusión a percusión [2006.01]"
+  },
+  {
+    "code": "B21C 23/20",
+    "description": "••••por extrusión invertida [2006.01]"
+  },
+  {
+    "code": "B21C 23/21",
+    "description": "••Prensas especialmente adaptadas para la extrusión del metal [2006.01]"
+  },
+  {
+    "code": "B21C 23/22",
+    "description": "••Fabricación de productos revestidos de metal; Fabricación de productos a partir de varios metales [2006.01]"
+  },
+  {
+    "code": "B21C 23/24",
+    "description": "••••Aplicación de un revestimiento metálico sobre longitudes indefinidas de material metálico o no metálico [2006.01]"
+  },
+  {
+    "code": "B21C 23/26",
+    "description": "••••••Aplicación de revestimientos metálicos sobre cables, p. ej. para el aislamiento de cables eléctricos [2006.01]"
+  },
+  {
+    "code": "B21C 23/28",
+    "description": "••••••••en prensas de extrusión de acción intermitente [2006.01]"
+  },
+  {
+    "code": "B21C 23/30",
+    "description": "••••••••en prensas de extrusión de acción continua [2006.01]"
+  },
+  {
+    "code": "B21C 23/32",
+    "description": "••Lubrificación del metal extruido, de las matrices, o similares, p. ej. estado físico del lubrificante, emplazamiento en que se va a lubrificar [2006.01]"
+  },
+  {
+    "code": "B21C 25/00",
+    "description": "Herramientas para perfilar por extrusión del metal [2006.01]"
+  },
+  {
+    "code": "B21C 25/02",
+    "description": "••Matrices [2006.01]"
+  },
+  {
+    "code": "B21C 25/04",
+    "description": "••Mandriles [2006.01]"
+  },
+  {
+    "code": "B21C 25/06",
+    "description": "••Cabezas de prensas, matrices o mandriles para el revestimiento de las piezas [2006.01]"
+  },
+  {
+    "code": "B21C 25/08",
+    "description": "••Matrices o mandriles de abertura variable durante la extrusión, p. ej. para hacer piedras cónicas; Control de la abertura [2006.01]"
+  },
+  {
+    "code": "B21C 25/10",
+    "description": "••Fabricación de herramientas por medio de operaciones no previstas en una sola de las otras subclases [2006.01]"
+  },
+  {
+    "code": "B21C 26/00",
+    "description": "Buriles o recalcadores por extrusión del metal; Discos con este objeto [2006.01]"
+  },
+  {
+    "code": "B21C 27/00",
+    "description": "Contenedores para metales que van a ser extruidos (B21C 29/02 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B21C 27/02",
+    "description": "••para hacer productos revestidos [2006.01]"
+  },
+  {
+    "code": "B21C 27/04",
+    "description": "••Desaireación de las cámaras que contienen el metal [2006.01]"
+  },
+  {
+    "code": "B21C 29/00",
+    "description": "Enfriamiento o calentamiento de productos extruidos o de las partes de la prensa de extrusión [2006.01]"
+  },
+  {
+    "code": "B21C 29/02",
+    "description": "••de los contenedores de metal para extrusión [2006.01]"
+  },
+  {
+    "code": "B21C 29/04",
+    "description": "••de las cabezas de prensas, de las hileras, o de los mandriles [2006.01]"
+  },
+  {
+    "code": "B21C 31/00",
+    "description": "Dispositivos de control por extrusión del metal, p. ej. para regular la velocidad de extrusión o la temperatura del metal (B21C 25/08 tiene prioridad); Dispositivos de medida, p. ej. para la temperatura del metal, combinados con prensas de extrusión o especialmente adaptados para ser utilizados junto con estas prensas [2006.01]"
+  },
+  {
+    "code": "B21C 33/00",
+    "description": "Alimentación del metal que va a ser extruido en las prensas de extrusión [2006.01]"
+  },
+  {
+    "code": "B21C 33/02",
+    "description": "••estando el metal en estado líquido [2006.01]"
+  },
+  {
+    "code": "B21C 35/00",
+    "description": "Extracción de los productos trabajados o de los desechos de las prensas de extrusión; Eyección de los productos extruidos (en el caso de extrusión de tubos o de barras curvadas B21C 23/12); Limpieza de las matrices, de las hileras, de los contenedores o de los mandriles por extrusión del metal [2006.01]"
+  },
+  {
+    "code": "B21C 35/02",
+    "description": "••Extracción o eyección de los productos [2006.01]"
+  },
+  {
+    "code": "B21C 35/03",
+    "description": "••••Enderezamiento de los productos [2006.01]"
+  },
+  {
+    "code": "B21C 35/04",
+    "description": "••Corte o extracción de los desechos [2006.01]"
+  },
+  {
+    "code": "B21C 35/06",
+    "description": "••Limpieza de las matrices, de las hileras, de los contenedores o de los mandriles [2006.01]"
+  },
+  {
+    "code": "B21C 37/02",
+    "description": "••de chapas [2006.01]"
+  },
+  {
+    "code": "B21C 37/04",
+    "description": "••de barras o hilos metálicos [2006.01]"
+  },
+  {
+    "code": "B21C 37/06",
+    "description": "••de tubos o tuberías metálicas; Procedimientos combinados para la fabricación de tubos, p. ej. para fabricar tubos de paredes múltiples [2006.01]"
+  },
+  {
+    "code": "B21C 37/08",
+    "description": "••••Fabricación de tubos a base de juntas soldadas [2006.01]"
+  },
+  {
+    "code": "B21C 37/083",
+    "description": "••••••Suministro de material en bandas, u operaciones combinadas con este suministro [2006.01]"
+  },
+  {
+    "code": "B21C 37/087",
+    "description": "••••••utilizando barras o bandas de material de soldadura [2006.01]"
+  },
+  {
+    "code": "B21C 37/09",
+    "description": "••••••de material revestido en bandas [2006.01]"
+  },
+  {
+    "code": "B21C 37/10",
+    "description": "••••Fabricación de tubos con juntas remachadas [2006.01]"
+  },
+  {
+    "code": "B21C 37/12",
+    "description": "••••Fabricación de tubos o de tuberías metálicas con empalme helicoidal [2006.01]"
+  },
+  {
+    "code": "B21C 37/14",
+    "description": "••••Fabricación de tubos a partir de elementos planos de espesor doble [2006.01]"
+  },
+  {
+    "code": "B21C 37/15",
+    "description": "••••Fabricación de tubos de formas especiales; Fabricación de guarniciones para tubos [2006.01]"
+  },
+  {
+    "code": "B21C 37/16",
+    "description": "••••••Fabricación de tubos con diámetros variables en sentido longitudinal [2006.01]"
+  },
+  {
+    "code": "B21C 37/18",
+    "description": "••••••••de tubos cónicos [2006.01]"
+  },
+  {
+    "code": "B21C 37/20",
+    "description": "••••••Fabricación de guías helicoidales o guías similares en o sobre los tubos fabricados sin arranque de material, p. ej. estirando el material sobre mandriles, empujándolo a través de matrices [2006.01]"
+  },
+  {
+    "code": "B21C 37/22",
+    "description": "••••••Fabricación de tubos con aletas o nervios por fijación sobre los tubos de un material en bandas o de presentación similar [2006.01]"
+  },
+  {
+    "code": "B21C 37/24",
+    "description": "••••••••de tubos con nervios anulares [2006.01]"
+  },
+  {
+    "code": "B21C 37/26",
+    "description": "••••••••de tubos con nervios helicoidales [2006.01]"
+  },
+  {
+    "code": "B21C 37/28",
+    "description": "••••••Fabricación de racores para tubos, p. ej. piezas en forma de U [2006.01]"
+  },
+  {
+    "code": "B21C 37/29",
+    "description": "••••••••Fabricación de órganos de derivación, p. ej. piezas en forma de T [2006.01]"
+  },
+  {
+    "code": "B21C 37/30",
+    "description": "••••Acabado de tubos, p. ej. calibrado, pulido [2006.01]"
+  },
+  {
+    "code": "B21C 43/00",
+    "description": "Dispositivos para la limpieza de los productos metálicos, asociados o especialmente adaptados a las máquinas o a los aparatos previstos en esta subclase [2006.01]"
+  },
+  {
+    "code": "B21C 43/02",
+    "description": "••combinados con máquinas o aparatos para estirar o para enrollar o especialmente concebidos para ser utilizados con estas máquinas o aparatos [2006.01]"
+  },
+  {
+    "code": "B21C 43/04",
+    "description": "••••Dispositivos para decapar el hilo metálico o los materiales flexibles similares [2006.01]"
+  },
+  {
+    "code": "B21C 45/00",
+    "description": "Separación de los mandriles del trabajo o viceversa [2006.01]"
+  },
+  {
+    "code": "B21C 47/00",
+    "description": "Enrollamiento, devanado o bobinado de hilos, bandas u otros materiales metálicos flexibles, caracterizado por el hecho de que estas operaciones no se aplican más que al trabajo de metales (bobinado de alambre en forma especial B21F 3/00) [2006.01]"
+  },
+  {
+    "code": "B21C 47/02",
+    "description": "••Enrollamiento o bobinado [2006.01]"
+  },
+  {
+    "code": "B21C 47/04",
+    "description": "••••sobre o en bobinas o en tambores, sin utilizar guía móvil [2006.01]"
+  },
+  {
+    "code": "B21C 47/06",
+    "description": "••••••con rodillos o pernos de apoyo o medios equivalentes que mantengan el material sobre la bobina o el tambor [2006.01]"
+  },
+  {
+    "code": "B21C 47/08",
+    "description": "••••sin utilización de bobina o de tambor, con la primera vuelta formada por una guía fija [2006.01]"
+  },
+  {
+    "code": "B21C 47/10",
+    "description": "••••por medio de una guía móvil [2006.01]"
+  },
+  {
+    "code": "B21C 47/12",
+    "description": "••••••la guía se desplaza paralelamente al eje de enrollamiento (B21C 47/14 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B21C 47/14",
+    "description": "••••••por medio de una guía rotativa, p. ej. depositando el material alrededor de una bobina o de un tambor fijo [2006.01]"
+  },
+  {
+    "code": "B21C 47/16",
+    "description": "••Desenrollado o devanado [2006.01]"
+  },
+  {
+    "code": "B21C 47/18",
+    "description": "••••de las bobinas o de los tambores [2006.01]"
+  },
+  {
+    "code": "B21C 47/20",
+    "description": "••••••el material desenrollado se desplaza transversalmente en relación con la tangente del tambor, p. ej. axial o radialmente [2006.01]"
+  },
+  {
+    "code": "B21C 47/22",
+    "description": "••••Devanado de materiales enrollados sin bobinas ni tambores [2006.01]"
+  },
+  {
+    "code": "B21C 47/24",
+    "description": "••Manipulación de los materiales enrollados, para transferirlos hacia los aparatos de enrollar, sacarlos de estos aparatos, ponerlos en posición de funcionamiento en estos aparatos, o quitarlos de esta posición; Medios para impedir el desenrollado durante el transporte [2006.01]"
+  },
+  {
+    "code": "B21C 47/26",
+    "description": "••Disposiciones especiales que permitan un tratamiento simultáneo o subsiguiente del material [2006.01]"
+  },
+  {
+    "code": "B21C 47/28",
+    "description": "••Tambores u otros soportes de enrollamiento [2006.01]"
+  },
+  {
+    "code": "B21C 47/30",
+    "description": "••••con posibilidades de expansión o de contracción [2006.01]"
+  },
+  {
+    "code": "B21C 47/32",
+    "description": "••Pinzas o dispositivos de enganche especialmente adaptados a las operaciones de enrollamiento [2006.01]"
+  },
+  {
+    "code": "B21C 47/34",
+    "description": "••Dispositivos de alimentación o de guía no adaptados especialmente a un tipo particular de aparato [2006.01]"
+  },
+  {
+    "code": "B21C 49/00",
+    "description": "Dispositivos para acumular temporalmente los materiales [2006.01]"
+  },
+  {
+    "code": "B21C 51/00",
+    "description": "Dispositivos de medida, de calibrado, de indicación, de recuento o de marcado, especialmente concebidos para ser utilizados en la producción o en la manipulación de los materiales a que se refieren las subclases B21B-B21F [2006.01]"
+  }
+]

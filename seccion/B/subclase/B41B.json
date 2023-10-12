@@ -1,0 +1,870 @@
+[
+  {
+    "code": "B41B 1/00",
+    "description": "Elementos o utillaje para la composición manual; Bastidores, cuñas o galeras [2006.01]"
+  },
+  {
+    "code": "B41B 1/02",
+    "description": "••Letras o tipos para impresión [2006.01]"
+  },
+  {
+    "code": "B41B 1/04",
+    "description": "••Cuadrados o cuadratines; Espacios u otros medios de justificación [2006.01]"
+  },
+  {
+    "code": "B41B 1/06",
+    "description": "••para empleos especiales [2006.01]"
+  },
+  {
+    "code": "B41B 1/08",
+    "description": "••••para inserción de últimas noticias [2006.01]"
+  },
+  {
+    "code": "B41B 1/10",
+    "description": "••••para inserción de anuncios o de publicidad [2006.01]"
+  },
+  {
+    "code": "B41B 1/12",
+    "description": "••••para impresión de notas musicales [2006.01]"
+  },
+  {
+    "code": "B41B 1/14",
+    "description": "••Filas, p. ej. de cobre [2006.01]"
+  },
+  {
+    "code": "B41B 1/16",
+    "description": "••Regletas [2006.01]"
+  },
+  {
+    "code": "B41B 1/18",
+    "description": "••Chasis [2006.01]"
+  },
+  {
+    "code": "B41B 1/20",
+    "description": "••Cuñas u otros medios de ajuste [2006.01]"
+  },
+  {
+    "code": "B41B 1/22",
+    "description": "••Filas de composición; Cajas; Muebles de cajas; Dispositivos de lavado o limpieza apropiados [2006.01]"
+  },
+  {
+    "code": "B41B 1/24",
+    "description": "••••Dispositivos de lavado o limpieza [2006.01]"
+  },
+  {
+    "code": "B41B 1/26",
+    "description": "••Componedores para enfilar las letras o signos [2006.01]"
+  },
+  {
+    "code": "B41B 1/28",
+    "description": "••Galeras [2006.01]"
+  },
+  {
+    "code": "B41B 3/00",
+    "description": "Aparatos para la composición mecánica que utiliza caracteres prefabricados, es decir, no equipados para la colada [2006.01]"
+  },
+  {
+    "code": "B41B 3/02",
+    "description": "••Máquinas de componer mecánicas que utilizan caracteres individuales o logotipos, contenidos en almacenes deslizantes, apropiados, p. ej. almacenes individuales, planos, cilíndricos, radiales [2006.01]"
+  },
+  {
+    "code": "B41B 3/04",
+    "description": "••Medios para distribuir los tipos [2006.01]"
+  },
+  {
+    "code": "B41B 3/06",
+    "description": "••Medios de justificación [2006.01]"
+  },
+  {
+    "code": "B41B 5/00",
+    "description": "Dispositivos para fabricar los tipos o las líneas (para composición mecánica B41B 7/00, B41B 9/00, B41B 11/00) [2006.01]"
+  },
+  {
+    "code": "B41B 5/02",
+    "description": "••Matrices [2006.01]"
+  },
+  {
+    "code": "B41B 5/04",
+    "description": "••Dispositivos de colada [2006.01]"
+  },
+  {
+    "code": "B41B 5/06",
+    "description": "••••de control mecánico [2006.01]"
+  },
+  {
+    "code": "B41B 5/08",
+    "description": "••Utillaje o accesorios [2006.01]"
+  },
+  {
+    "code": "B41B 5/10",
+    "description": "••••para pulir o acabar los tipos (pulido en general B24B) [2006.01]"
+  },
+  {
+    "code": "B41B 5/12",
+    "description": "••••para fabricar los tipos en forma de líneas, p. ej. por estirado o clisado [2006.01]"
+  },
+  {
+    "code": "B41B 5/14",
+    "description": "••••para cortar los espacios [2006.01]"
+  },
+  {
+    "code": "B41B 7/00",
+    "description": "Géneros o modelos de aparatos para la composición mecánica en los que el tipo es fundido o modelado a partir de matrices [2006.01]"
+  },
+  {
+    "code": "B41B 7/02",
+    "description": "••operando con combinaciones fijas de matrices (partes constitutivas B41B 9/00) [2006.01]"
+  },
+  {
+    "code": "B41B 7/04",
+    "description": "••••para la fundición de tipos o de espacios individuales, p. ej. máquinas \"monotipo\" [2006.01]"
+  },
+  {
+    "code": "B41B 7/06",
+    "description": "••••para componer, justificar y fundir líneas completas de matrices, p. ej. máquinas \"monoline\" [2006.01]"
+  },
+  {
+    "code": "B41B 7/08",
+    "description": "••que operan con ayuda de matrices separadas para tipos o espacios individuales, que son seleccionados y unidos (partes constitutivas B41B 11/00) [2006.01]"
+  },
+  {
+    "code": "B41B 7/10",
+    "description": "••••en las que una línea está constituida por matrices y en las que se funden tipos o espacios individuales, p. ej. modelo \"stringer\" [2006.01]"
+  },
+  {
+    "code": "B41B 7/12",
+    "description": "••••en las que una línea justificada está constituida por matrices y en las que se funde una línea de tipo en un solo bloque [2006.01]"
+  },
+  {
+    "code": "B41B 7/14",
+    "description": "••••••componiéndose las matrices a mano [2006.01]"
+  },
+  {
+    "code": "B41B 7/16",
+    "description": "••••••siendo compuestas las líneas de matrices y justificadas por operación mecánica, p. ej. máquinas \"linotipo\", \"intertipo\" [2006.01]"
+  },
+  {
+    "code": "B41B 7/18",
+    "description": "••••••••guiándose las matrices por vástagos o hilos, p. ej. máquinas \"tipograph\" [2006.01]"
+  },
+  {
+    "code": "B41B 9/00",
+    "description": "Partes constitutivas o accesorios de máquinas de componer mecánicas que utilizan combinaciones fijas de matrices a partir de las cuales los tipos son fundidos o modelados [2006.01]"
+  },
+  {
+    "code": "B41B 9/02",
+    "description": "••Combinaciones de matrices [2006.01]"
+  },
+  {
+    "code": "B41B 9/04",
+    "description": "••Porta-combinaciones de matrices, p. ej. bloques, cilindros, ruedas, barras [2006.01]"
+  },
+  {
+    "code": "B41B 9/06",
+    "description": "••Mecanismos para la ejecución de movimientos relativos de portamatrices y de moldes para la selección de tipos o de espacios [2006.01]"
+  },
+  {
+    "code": "B41B 9/08",
+    "description": "••Dispositivos de moldeo o de colada [2006.01]"
+  },
+  {
+    "code": "B41B 9/10",
+    "description": "••••Moldes [2006.01]"
+  },
+  {
+    "code": "B41B 9/12",
+    "description": "••••Dispositivos de justificación [2006.01]"
+  },
+  {
+    "code": "B41B 9/14",
+    "description": "••••Dispositivos de alimentación de metal fundido [2006.01]"
+  },
+  {
+    "code": "B41B 9/16",
+    "description": "••Dispositivos de manipulación de tipos después de la colada [2006.01]"
+  },
+  {
+    "code": "B41B 9/18",
+    "description": "••••Mecanismos evacuadores [2006.01]"
+  },
+  {
+    "code": "B41B 9/20",
+    "description": "••••Dispositivos de corte [2006.01]"
+  },
+  {
+    "code": "B41B 11/00",
+    "description": "Partes constitutivas o accesorios de máquinas de componer mecánicas, que utilizan matrices para los tipos individuales, que son seleccionados y unidos con vistas a la preparación del cliché o del moldeado [2006.01]"
+  },
+  {
+    "code": "B41B 11/02",
+    "description": "••Matrices [2006.01]"
+  },
+  {
+    "code": "B41B 11/04",
+    "description": "••Espacios-bandas [2006.01]"
+  },
+  {
+    "code": "B41B 11/06",
+    "description": "••Dispositivos de almacenamiento para matrices o espacios-bandas [2006.01]"
+  },
+  {
+    "code": "B41B 11/08",
+    "description": "••••Almacenes de matrices [2006.01]"
+  },
+  {
+    "code": "B41B 11/10",
+    "description": "••••••para composición manual [2006.01]"
+  },
+  {
+    "code": "B41B 11/12",
+    "description": "••••••Fijación de almacenes a las máquinas; Mecanismos de selección o de cambio de almacenes (control de la selección o del cambio B41B 27/42) [2006.01]"
+  },
+  {
+    "code": "B41B 11/14",
+    "description": "••••••con dispositivos de escape [2006.01]"
+  },
+  {
+    "code": "B41B 11/16",
+    "description": "••••Cajas para espacios-bandas; Escape o guías para liberar los espacios-bandas [2006.01]"
+  },
+  {
+    "code": "B41B 11/18",
+    "description": "••Dispositivos o sistemas para ensamblar las matrices y los espacios-bandas (dispositivos de control a este efecto B41B 27/44) [2006.01]"
+  },
+  {
+    "code": "B41B 11/20",
+    "description": "••••Canales guías de componedor [2006.01]"
+  },
+  {
+    "code": "B41B 11/22",
+    "description": "••••Placas de recubrimiento o soportes de componedor [2006.01]"
+  },
+  {
+    "code": "B41B 11/24",
+    "description": "••••Transportadores de correa que cooperan con las guías del componedor [2006.01]"
+  },
+  {
+    "code": "B41B 11/26",
+    "description": "••••Dispositivos de alimentación o de guiado de espacios-bandas en asociación con las matrices [2006.01]"
+  },
+  {
+    "code": "B41B 11/28",
+    "description": "••••Ruedas o cinceles para líneas u otros dispositivos de apilado para matrices y espacios-bandas; Guías asociadas a esos dispositivos [2006.01]"
+  },
+  {
+    "code": "B41B 11/30",
+    "description": "••••Elevadores de componedor o mecanismos asociados, p. ej. dispositivos de paro, dientes de retención, topes de líneas, deslizadores de salida [2006.01]"
+  },
+  {
+    "code": "B41B 11/32",
+    "description": "••••Canales de transferencia o carros de envío de líneas [2006.01]"
+  },
+  {
+    "code": "B41B 11/34",
+    "description": "••••Elevadores primeros o mecanismos asociados [2006.01]"
+  },
+  {
+    "code": "B41B 11/36",
+    "description": "••••para la presentación directa de matrices o espacios-bandas a los moldes [2006.01]"
+  },
+  {
+    "code": "B41B 11/38",
+    "description": "••Dispositivos de alineación o de ajuste de las líneas de matrices y de espacios-bandas [2006.01]"
+  },
+  {
+    "code": "B41B 11/40",
+    "description": "••••Mordazas de ajuste de justificación; Dispositivos para el funcionamiento de esas mordazas [2006.01]"
+  },
+  {
+    "code": "B41B 11/42",
+    "description": "••••••para el cuadratinaje y el centrado [2006.01]"
+  },
+  {
+    "code": "B41B 11/44",
+    "description": "••••••para la justificación [2006.01]"
+  },
+  {
+    "code": "B41B 11/46",
+    "description": "••••Dispositivos de alineación [2006.01]"
+  },
+  {
+    "code": "B41B 11/48",
+    "description": "••••Dispositivos de limpieza para mordazas de alineación (limpieza de matrices B41B 11/96) [2006.01]"
+  },
+  {
+    "code": "B41B 11/50",
+    "description": "••••Bastidores de tornillo; Dispositivos de liberación o de cierre [2006.01]"
+  },
+  {
+    "code": "B41B 11/52",
+    "description": "••Dispositivos de moldeo o de colada o mecanismos asociados [2006.01]"
+  },
+  {
+    "code": "B41B 11/54",
+    "description": "••••Moldes; Plaquetas de alineación apropiadas [2006.01]"
+  },
+  {
+    "code": "B41B 11/56",
+    "description": "••••••Ruedas de moldes; Deslizadores o mandos apropiados [2006.01]"
+  },
+  {
+    "code": "B41B 11/58",
+    "description": "••••••••de cuñas de bloqueado o de cierre [2006.01]"
+  },
+  {
+    "code": "B41B 11/60",
+    "description": "••••••••reglables o amovibles [2006.01]"
+  },
+  {
+    "code": "B41B 11/62",
+    "description": "••••••••de moldes intercambiables [2006.01]"
+  },
+  {
+    "code": "B41B 11/64",
+    "description": "••••••••con una serie de moldes y un mecanismo para seleccionar individualmente los moldes [2006.01]"
+  },
+  {
+    "code": "B41B 11/66",
+    "description": "••••••montados sobre carro de movimiento alternativo [2006.01]"
+  },
+  {
+    "code": "B41B 11/68",
+    "description": "••••••con posibilidad de regular la longitud o el ancho de la ranura; con varias ranuras [2006.01]"
+  },
+  {
+    "code": "B41B 11/70",
+    "description": "••••••para la fundición de barras de tipos de forma especial, p. ej. de pestañas [2006.01]"
+  },
+  {
+    "code": "B41B 11/72",
+    "description": "••••Dispositivos para cortar las barras de tipos; Dispositivos de secado de los cuchillos de corte; Eyectores para barras de tipos [2006.01]"
+  },
+  {
+    "code": "B41B 11/74",
+    "description": "••••Dispositivos de alimentación de metal fundido [2006.01]"
+  },
+  {
+    "code": "B41B 11/76",
+    "description": "••••••Crisoles (crisoles para el clisado de estereotipos B41D 3/20) [2006.01]"
+  },
+  {
+    "code": "B41B 11/78",
+    "description": "••••••••de movimiento de avance y retroceso con relación al molde [2006.01]"
+  },
+  {
+    "code": "B41B 11/80",
+    "description": "••••••••con agitadores o medios para eliminar la espuma [2006.01]"
+  },
+  {
+    "code": "B41B 11/82",
+    "description": "••••••••asociados a mecanismos de introducción del metal bajo forma sólida [2006.01]"
+  },
+  {
+    "code": "B41B 11/84",
+    "description": "••••••••Boquillas; Dispositivos de limpieza de las boquillas [2006.01]"
+  },
+  {
+    "code": "B41B 11/86",
+    "description": "••••••••Elementos de calefacción de crisoles; Dispositivos de regulación de la temperatura [2006.01]"
+  },
+  {
+    "code": "B41B 11/88",
+    "description": "••••••Bombas; Sus dispositivos de parada o seguridad [2006.01]"
+  },
+  {
+    "code": "B41B 11/90",
+    "description": "••Sistemas o dispositivos para la distribución de matrices o de espacios-bandas después de la fundición o el moldeo [2006.01]"
+  },
+  {
+    "code": "B41B 11/92",
+    "description": "••••Segundos elevadores [2006.01]"
+  },
+  {
+    "code": "B41B 11/94",
+    "description": "••••Transportadores sin fin [2006.01]"
+  },
+  {
+    "code": "B41B 11/96",
+    "description": "••Dispositivos de enfriamiento o de limpieza de matrices [2006.01]"
+  },
+  {
+    "code": "B41B 13/00",
+    "description": "Equipo adaptado especialmente para fotografiar composiciones o similares, p. ej. de la publicidad, de líneas [2006.01]"
+  },
+  {
+    "code": "B41B 13/02",
+    "description": "••siendo compuestos o posicionados los tipos a mano, y fotografiados simultáneamente [2006.01]"
+  },
+  {
+    "code": "B41B 13/04",
+    "description": "••••incluyendo medios de justificación [2006.01]"
+  },
+  {
+    "code": "B41B 13/06",
+    "description": "••••••por porta-líneas de tipos elásticos o extensibles [2006.01]"
+  },
+  {
+    "code": "B41B 13/08",
+    "description": "••••••por corrección óptica de las líneas [2006.01]"
+  },
+  {
+    "code": "B41B 13/10",
+    "description": "••siendo fotografiados los tipos uno después del otro [2006.01]"
+  },
+  {
+    "code": "B41B 15/00",
+    "description": "Máquinas de componer fotográficas con porta-tipos móviles para componer líneas de tipos antes de fotografiarlas [2006.01]"
+  },
+  {
+    "code": "B41B 15/02",
+    "description": "••incluyendo medios para fotografiar las líneas completas [2006.01]"
+  },
+  {
+    "code": "B41B 15/04",
+    "description": "••••y de porta-tipos para los tipos individuales [2006.01]"
+  },
+  {
+    "code": "B41B 15/06",
+    "description": "••••y de porta-tipos para juegos enteros de tipos, p. ej. elementos alargados deslizantes, ruedas giratorias [2006.01]"
+  },
+  {
+    "code": "B41B 15/08",
+    "description": "••incluyendo medios para fotografiar sucesivamente los tipos compuestos [2006.01]"
+  },
+  {
+    "code": "B41B 15/10",
+    "description": "••Partes constitutivas [2006.01]"
+  },
+  {
+    "code": "B41B 15/12",
+    "description": "••••Porta-tipos; Dispositivos de limpieza apropiados [2006.01]"
+  },
+  {
+    "code": "B41B 15/14",
+    "description": "••••••con un solo tipo o una combinación de diferentes estilos de un solo tipo [2006.01]"
+  },
+  {
+    "code": "B41B 15/16",
+    "description": "••••••con combinaciones de diferentes tipos [2006.01]"
+  },
+  {
+    "code": "B41B 15/18",
+    "description": "••••••con elementos de tipos para construir tipos complejos, p. ej. tipos de lenguas orientales [2006.01]"
+  },
+  {
+    "code": "B41B 15/20",
+    "description": "••••Dispositivos para el manejo o el almacenado de porta-tipos [2006.01]"
+  },
+  {
+    "code": "B41B 15/22",
+    "description": "••••••Almacenes [2006.01]"
+  },
+  {
+    "code": "B41B 15/24",
+    "description": "••••••para la justificación [2006.01]"
+  },
+  {
+    "code": "B41B 15/26",
+    "description": "••••••para repetir un tipo [2006.01]"
+  },
+  {
+    "code": "B41B 15/28",
+    "description": "••••Dispositivos fotográficos (en general G03) [2006.01]"
+  },
+  {
+    "code": "B41B 15/30",
+    "description": "••••••Cámaras fotográficas de composición [2006.01]"
+  },
+  {
+    "code": "B41B 15/32",
+    "description": "••••••Mecanismos para la manipulación del film [2006.01]"
+  },
+  {
+    "code": "B41B 15/34",
+    "description": "••••••Regulación del aumento o la reducción; Corrección del tipo de exposición [2006.01]"
+  },
+  {
+    "code": "B41B 17/00",
+    "description": "Máquinas de componer fotográficas que constan de portatipos fijos o móviles y que no tienen medios de componer las líneas antes de fotografiarlas [2006.01]"
+  },
+  {
+    "code": "B41B 17/02",
+    "description": "••que incluyen portatipos posicionados manualmente para permitir la fotografía sucesiva de tipos [2006.01]"
+  },
+  {
+    "code": "B41B 17/04",
+    "description": "••que incluyen un portatipos para todos los tipos de al menos una fundición [2006.01]"
+  },
+  {
+    "code": "B41B 17/06",
+    "description": "••••siendo regulable el portatipos [2006.01]"
+  },
+  {
+    "code": "B41B 17/08",
+    "description": "••••siendo fijo el portatipos [2006.01]"
+  },
+  {
+    "code": "B41B 17/10",
+    "description": "••••teniendo el portatipos un movimiento continuo [2006.01]"
+  },
+  {
+    "code": "B41B 17/12",
+    "description": "••••con medios para desplazar el rayo luminoso con objeto de fotografiar los tipos, p. ej. por intermitencia [2006.01]"
+  },
+  {
+    "code": "B41B 17/14",
+    "description": "••••••de forma continua [2006.01]"
+  },
+  {
+    "code": "B41B 17/16",
+    "description": "••••con medios para desplazar el film en su plano con objeto de fotografía sucesiva de los tipos [2006.01]"
+  },
+  {
+    "code": "B41B 17/18",
+    "description": "••Partes constitutivas [2006.01]"
+  },
+  {
+    "code": "B41B 17/20",
+    "description": "••••Portatipos; Dispositivos de limpieza apropiados [2006.01]"
+  },
+  {
+    "code": "B41B 17/22",
+    "description": "••••••con un solo tipo; con un mismo tipo pero de distintos estilos [2006.01]"
+  },
+  {
+    "code": "B41B 17/24",
+    "description": "••••••con todos los tipos [2006.01]"
+  },
+  {
+    "code": "B41B 17/26",
+    "description": "••••••••sobre correas [2006.01]"
+  },
+  {
+    "code": "B41B 17/28",
+    "description": "••••••••sobre vástagos poligonales [2006.01]"
+  },
+  {
+    "code": "B41B 17/30",
+    "description": "••••••••sobre una placa de forma cuadrada o rectangular [2006.01]"
+  },
+  {
+    "code": "B41B 17/32",
+    "description": "••••••••sobre un disco plano [2006.01]"
+  },
+  {
+    "code": "B41B 17/34",
+    "description": "••••••••sobre un cilindro [2006.01]"
+  },
+  {
+    "code": "B41B 17/36",
+    "description": "••••••con indicadores de selección [2006.01]"
+  },
+  {
+    "code": "B41B 17/38",
+    "description": "••••••con medios para indicar la anchura [2006.01]"
+  },
+  {
+    "code": "B41B 17/40",
+    "description": "••••••••en forma de calibre [2006.01]"
+  },
+  {
+    "code": "B41B 17/42",
+    "description": "••••••••en forma de código [2006.01]"
+  },
+  {
+    "code": "B41B 19/00",
+    "description": "Máquinas de componer fotoelectrónicas [2006.01]"
+  },
+  {
+    "code": "B41B 19/01",
+    "description": "••comportando tubos con haces electrónicos que producen una imagen dotada al menos de un tipo que se fotografía [2006.01]"
+  },
+  {
+    "code": "B41B 19/02",
+    "description": "••••apareciendo los tipos sucesivamente sobre la pantalla [2006.01]"
+  },
+  {
+    "code": "B41B 19/04",
+    "description": "••••••en el mismo lugar [2006.01]"
+  },
+  {
+    "code": "B41B 19/06",
+    "description": "••••••en diferentes lugares predeterminados [2006.01]"
+  },
+  {
+    "code": "B41B 19/08",
+    "description": "••••con combinación de tipos que aparecen al mismo tiempo en la pantalla [2006.01]"
+  },
+  {
+    "code": "B41B 19/10",
+    "description": "••••••en líneas o columnas continuas [2006.01]"
+  },
+  {
+    "code": "B41B 19/12",
+    "description": "••••••en líneas o columnas quebradas [2006.01]"
+  },
+  {
+    "code": "B41B 19/14",
+    "description": "••••••y presentando un texto que comprende más de una línea [2006.01]"
+  },
+  {
+    "code": "B41B 19/16",
+    "description": "••••Portatipos asociados a tubos de haz electrónico [2006.01]"
+  },
+  {
+    "code": "B41B 21/00",
+    "description": "Partes constitutivas comunes a las máquinas fotográficas de componer de los tipos cubiertos por los grupos B41B 17/00 y B41B 19/00 [2006.01]"
+  },
+  {
+    "code": "B41B 21/02",
+    "description": "••Obturadores de sistemas ópticos (en general G03B) [2006.01]"
+  },
+  {
+    "code": "B41B 21/04",
+    "description": "••••para la selección de tipos [2006.01]"
+  },
+  {
+    "code": "B41B 21/06",
+    "description": "••••para la regulación de la exposición [2006.01]"
+  },
+  {
+    "code": "B41B 21/08",
+    "description": "••Fuentes de luz; Dispositivos que le son asociados, p. ej. dispositivos de mando [2006.01]"
+  },
+  {
+    "code": "B41B 21/10",
+    "description": "••••Fuentes de luz únicas [2006.01]"
+  },
+  {
+    "code": "B41B 21/12",
+    "description": "••••Fuentes de luz estroboscópicas [2006.01]"
+  },
+  {
+    "code": "B41B 21/14",
+    "description": "••••Combinaciones de fuentes de luz [2006.01]"
+  },
+  {
+    "code": "B41B 21/16",
+    "description": "••Sistemas ópticos (obturadores B41B 21/02; fuentes luminosas B41B 21/08) [2006.01]"
+  },
+  {
+    "code": "B41B 21/18",
+    "description": "••••que definen un rayo luminoso único [2006.01]"
+  },
+  {
+    "code": "B41B 21/20",
+    "description": "••••••con medios de desplazamiento discontinuo [2006.01]"
+  },
+  {
+    "code": "B41B 21/22",
+    "description": "••••••con medios de desplazamiento continuo [2006.01]"
+  },
+  {
+    "code": "B41B 21/24",
+    "description": "••••definiendo varios rayos luminosos [2006.01]"
+  },
+  {
+    "code": "B41B 21/26",
+    "description": "••••••con medios para seleccionar individualmente los rayos luminosos (medios para desviar el rayo luminoso B41B 17/12) [2006.01]"
+  },
+  {
+    "code": "B41B 21/28",
+    "description": "••••••con medios para seleccionar la fuente [2006.01]"
+  },
+  {
+    "code": "B41B 21/30",
+    "description": "••Tubos de haz electrónico o caractrones (en general H01J 31/00) [2006.01]"
+  },
+  {
+    "code": "B41B 21/32",
+    "description": "••Portafilms; Dispositivos de avance o de posicionado del film (medios para la manipulación del film en los dispositivos fotográficos de componer líneas B41B 15/32; máquinas dotadas de medios para desplazar el film en su plano con vistas a la fotografía sucesiva de tipos B41B 17/16) [2006.01]"
+  },
+  {
+    "code": "B41B 21/34",
+    "description": "••••con mecanismos de posicionado [2006.01]"
+  },
+  {
+    "code": "B41B 21/36",
+    "description": "••••••para la alimentación discontinua de films en línea recta [2006.01]"
+  },
+  {
+    "code": "B41B 21/38",
+    "description": "••••••para la alimentación continua de films en línea recta [2006.01]"
+  },
+  {
+    "code": "B41B 21/40",
+    "description": "••••••para el interlineado [2006.01]"
+  },
+  {
+    "code": "B41B 21/42",
+    "description": "••••••para la notación suscrita o subrescrita [2006.01]"
+  },
+  {
+    "code": "B41B 21/44",
+    "description": "••••regulación para la ampliación [2006.01]"
+  },
+  {
+    "code": "B41B 23/00",
+    "description": "Dispositivos auxiliares para modificar, mezclar o corregir el texto o su disposición, en relación con la combinación fotográfica o fotoelectrónica [2006.01]"
+  },
+  {
+    "code": "B41B 23/02",
+    "description": "••para mezclar por proyección línea a línea, ciertas partes de texto llevadas por varios films sobre otro film [2006.01]"
+  },
+  {
+    "code": "B41B 23/04",
+    "description": "••para facilitar la corrección manual de textos [2006.01]"
+  },
+  {
+    "code": "B41B 23/06",
+    "description": "••para corregir los textos suprimiendo sobre un film las líneas erróneas e introduciendo en su lugar las líneas corregidas provinentes de otro film [2006.01]"
+  },
+  {
+    "code": "B41B 25/00",
+    "description": "Aparatos adaptados especialmente a la preparación de portatipos destinados al mando de máquinas de componer (para la fundición de caracteres o espacios individuales, p. ej. sobre máquinas \"monotipo\" B41B 7/04; procesos para marcar o reproducir soportes de grabación portadores de datos digitales G06K 1/00) [2006.01]"
+  },
+  {
+    "code": "B41B 25/10",
+    "description": "••incluyendo dispositivos incorporados para la justificación de líneas, p. ej. dispositivos para contar e indicar la longitud de la línea [2006.01]"
+  },
+  {
+    "code": "B41B 25/12",
+    "description": "••••incluyendo elementos que aseguran la unión con los almacenes [2006.01]"
+  },
+  {
+    "code": "B41B 25/14",
+    "description": "••••que funcionan sin espacio-banda [2006.01]"
+  },
+  {
+    "code": "B41B 25/16",
+    "description": "••••que utilizan un código binario para la evaluación del ancho de las matrices [2006.01]"
+  },
+  {
+    "code": "B41B 25/18",
+    "description": "••combinados con máquinas que colocan los tipos en su lugar [2006.01]"
+  },
+  {
+    "code": "B41B 25/20",
+    "description": "••Dispositivos auxiliares; Dispositivos adaptados a fines particulares [2006.01]"
+  },
+  {
+    "code": "B41B 25/22",
+    "description": "••••para indicar la longitud de la línea [2006.01]"
+  },
+  {
+    "code": "B41B 25/24",
+    "description": "••••para la corrección de errores [2006.01]"
+  },
+  {
+    "code": "B41B 25/26",
+    "description": "••••para cambiar la fuente de tipos [2006.01]"
+  },
+  {
+    "code": "B41B 27/00",
+    "description": "Dispositivos o sistemas de mando, de indicación o de seguridad para máquinas de componer de diversas clases o modelos (calculadoras en general G06F) [2006.01]"
+  },
+  {
+    "code": "B41B 27/02",
+    "description": "••Sistemas destinados al mando de todas las operaciones [2006.01]"
+  },
+  {
+    "code": "B41B 27/04",
+    "description": "••••Teclados [2006.01]"
+  },
+  {
+    "code": "B41B 27/06",
+    "description": "••••••mandados por la introducción de información registrada, p. ej. sobre bandas perforadas [2006.01]"
+  },
+  {
+    "code": "B41B 27/08",
+    "description": "••••••••que provienen de varias fuentes [2006.01]"
+  },
+  {
+    "code": "B41B 27/10",
+    "description": "••••con mando directo de todas las operaciones por introducción de información registrada [2006.01]"
+  },
+  {
+    "code": "B41B 27/12",
+    "description": "••••••sobre bandas [2006.01]"
+  },
+  {
+    "code": "B41B 27/14",
+    "description": "••••••••sobre bandas perforadas [2006.01]"
+  },
+  {
+    "code": "B41B 27/16",
+    "description": "••••••••sobre bandas magnéticas [2006.01]"
+  },
+  {
+    "code": "B41B 27/18",
+    "description": "••••••en dispositivos de memoria [2006.01]"
+  },
+  {
+    "code": "B41B 27/20",
+    "description": "••••••••en dispositivos electromagnéticos, p. ej. matrices de memorias [2006.01]"
+  },
+  {
+    "code": "B41B 27/22",
+    "description": "••••••que provienen de varias fuentes [2006.01]"
+  },
+  {
+    "code": "B41B 27/24",
+    "description": "••••de varias máquinas asociadas [2006.01]"
+  },
+  {
+    "code": "B41B 27/26",
+    "description": "••••con medios para parar temporalmente la introducción de la información registrada, para crear espacios de tiempo [2006.01]"
+  },
+  {
+    "code": "B41B 27/28",
+    "description": "••Dispositivos de mando, de indicación o de seguridad para operaciones especiales o elementos de máquinas (en los dispositivos de alimentación de metal fundido B41B 11/86, B41B 11/88; para las fuentes luminosas B41B 21/08) [2006.01]"
+  },
+  {
+    "code": "B41B 27/30",
+    "description": "••••para parar o hacer variar la velocidad de una operación en respuesta a un fallo o una variación de velocidad de otra operación [2006.01]"
+  },
+  {
+    "code": "B41B 27/32",
+    "description": "••••para las operaciones de justificación de líneas [2006.01]"
+  },
+  {
+    "code": "B41B 27/34",
+    "description": "••••••sin utilización de espacios-bandas [2006.01]"
+  },
+  {
+    "code": "B41B 27/36",
+    "description": "••••••utilizando dispositivos electrónicos [2006.01]"
+  },
+  {
+    "code": "B41B 27/38",
+    "description": "••••para medir la longitud de líneas compuestas; para leer los tipos compuestos [2006.01]"
+  },
+  {
+    "code": "B41B 27/40",
+    "description": "••••para las operaciones de elevación de pruebas [2006.01]"
+  },
+  {
+    "code": "B41B 27/41",
+    "description": "••••Mecanismos de impresión asociados a las máquinas de composición tipográfica [2006.01]"
+  },
+  {
+    "code": "B41B 27/42",
+    "description": "••••para mandar la selección o el cambio de almacenes de matrices [2006.01]"
+  },
+  {
+    "code": "B41B 27/44",
+    "description": "••••para mandar el ensamblado de matrices y de espacios-bandas [2006.01]"
+  },
+  {
+    "code": "B41B 27/46",
+    "description": "••••••para mandar la inserción de espacios-bandas (para la justificación de líneas B41B 27/32) [2006.01]"
+  },
+  {
+    "code": "B41B 27/48",
+    "description": "••••para la supresión de errores o la inserción de correcciones (dispositivos, productos no fluidos o procedimientos para borrar o rectificar para máquinas de escribir o mecanismos de impresión selectivos B41J 29/26) [2006.01]"
+  },
+  {
+    "code": "B41B 27/50",
+    "description": "••••mandados por máquinas acopladas [2006.01]"
+  }
+]

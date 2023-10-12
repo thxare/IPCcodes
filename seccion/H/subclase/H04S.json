@@ -1,0 +1,26 @@
+[
+  {
+    "code": "H04S 1/00",
+    "description": "Sistemas con dos canales (H04S 5/00, H04S 7/00 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H04S 3/00",
+    "description": "Sistemas que utilizan más de dos canales, p. ej. sistemas cuadrafónicos (H04S 5/00, H04S 7/00 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H04S 3/02",
+    "description": "••del tipo matricial, es decir, en los que las señales de entrada son combinadas algebraicamente, p. ej. después de haber sido desfasadas las unas con relación a las otras [2006.01]"
+  },
+  {
+    "code": "H04S 5/00",
+    "description": "Sistemas seudoestereofónicos, p. ej. en los que las señales de un canal suplementario son derivadas de la señal monofásica por desfase, retardo o reverberación [2006.01]"
+  },
+  {
+    "code": "H04S 5/02",
+    "description": "••del tipo seudocuadrafónico, p. ej. en los que las señales de los canales de llegada son derivados de señales estereofónicas de dos canales [2006.01]"
+  },
+  {
+    "code": "H04S 7/00",
+    "description": "Disposiciones para la indicación; Disposiciones para el control, p. ej. para el control de la compensación [2006.01]"
+  }
+]

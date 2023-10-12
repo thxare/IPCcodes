@@ -1,0 +1,910 @@
+[
+  {
+    "code": "A47L 1/00",
+    "description": "Limpieza de ventanas [2006.01]"
+  },
+  {
+    "code": "A47L 1/02",
+    "description": "••Máquinas o dispositivos con motor [2006.01]"
+  },
+  {
+    "code": "A47L 1/03",
+    "description": "••••que limpian simultáneamente los dos lados de una ventana [2006.01]"
+  },
+  {
+    "code": "A47L 1/05",
+    "description": "••••Instrumentos manuales con motores eléctricos incorporados [2006.01]"
+  },
+  {
+    "code": "A47L 1/06",
+    "description": "••Instrumentos manuales (con motor eléctrico incorporado A47L 1/05) [2006.01]"
+  },
+  {
+    "code": "A47L 1/08",
+    "description": "••••con disposiciones para aprovisionamiento de líquidos, p. ej. agentes de limpieza (A47L 1/095, A47L 1/13, A47L 1/15 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "A47L 1/09",
+    "description": "••••para la limpieza de un lado con posibilidad de acceso solamente a otro lado [2006.01]"
+  },
+  {
+    "code": "A47L 1/095",
+    "description": "••••••con disposiciones para aprovisionamiento de líquidos, p. ej. agentes de limpieza [2006.01]"
+  },
+  {
+    "code": "A47L 1/12",
+    "description": "••••para la limpieza simultánea de ambos lados [2006.01]"
+  },
+  {
+    "code": "A47L 1/13",
+    "description": "••••••con disposiciones para aprovisionamiento de líquidos, p. ej. agentes de limpieza [2006.01]"
+  },
+  {
+    "code": "A47L 1/15",
+    "description": "••••Trapos, esponjas, almohadillas o artículos análogos, p. ej. que contienen agentes de limpieza [2006.01]"
+  },
+  {
+    "code": "A47L 1/16",
+    "description": "••Dispositivos de descongelación de los cristales (H05B 3/84 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "A47L 3/00",
+    "description": "Dispositivos de seguridad empleados en la limpieza de ventanas (cinturones de seguridad A62B 35/00; para andamios en general E04G; para escalas E06C) [2006.01]"
+  },
+  {
+    "code": "A47L 3/02",
+    "description": "••Cabinas; Plataformas [2006.01]"
+  },
+  {
+    "code": "A47L 3/04",
+    "description": "••Cuerdas de seguridad [2006.01]"
+  },
+  {
+    "code": "A47L 4/00",
+    "description": "Limpieza de persianas, persianas venecianas (A47L 1/15 tiene prioridad; tubos de aspiradores A47L 9/02) [2006.01]"
+  },
+  {
+    "code": "A47L 4/02",
+    "description": "••Instrumentos manuales para limpiar las persianas venecianas [2006.01]"
+  },
+  {
+    "code": "A47L 4/04",
+    "description": "••Accesorios que facilitan la limpieza, p. ej. separadores de persianas venecianas, separadores o soportes [2006.01]"
+  },
+  {
+    "code": "A47L 5/00",
+    "description": "Características estructurales de los aspiradores [2006.01]"
+  },
+  {
+    "code": "A47L 5/02",
+    "description": "••con bombas de aire o compresores accionados por el usuario [2006.01]"
+  },
+  {
+    "code": "A47L 5/04",
+    "description": "••••con pistones, fuelles o diafragmas, p. ej. accionados por las ruedas sobre las que va montado el aspirador [2006.01]"
+  },
+  {
+    "code": "A47L 5/05",
+    "description": "••••••con instrumentos que arrastran para levantar el polvo [2006.01]"
+  },
+  {
+    "code": "A47L 5/06",
+    "description": "••••con aletas giratorias [2006.01]"
+  },
+  {
+    "code": "A47L 5/08",
+    "description": "••••••propulsadas por las ruedas sobre las que va montado el aparato [2006.01]"
+  },
+  {
+    "code": "A47L 5/10",
+    "description": "••••••••con instrumentos que arrastran para levantar el polvo [2006.01]"
+  },
+  {
+    "code": "A47L 5/12",
+    "description": "••con bombas de aire o compresores a motor, p. ej. funcionando por el vacío creado por el motor de un vehículo [2006.01]"
+  },
+  {
+    "code": "A47L 5/14",
+    "description": "••••que limpian por ventilación combinada igualmente con una limpieza por aspiración [2006.01]"
+  },
+  {
+    "code": "A47L 5/16",
+    "description": "••••con dispositivos de aspiración que no sean aletas rotativas [2006.01]"
+  },
+  {
+    "code": "A47L 5/18",
+    "description": "••••••con eyectores, p. ej. conectados al escape de un vehículo de motor [2006.01]"
+  },
+  {
+    "code": "A47L 5/20",
+    "description": "••••••con fuelles, diafragmas o pistones [2006.01]"
+  },
+  {
+    "code": "A47L 5/22",
+    "description": "••••con aletas rotativas [2006.01]"
+  },
+  {
+    "code": "A47L 5/24",
+    "description": "••••••Aspiradores manuales [2006.01]"
+  },
+  {
+    "code": "A47L 5/26",
+    "description": "••••••••con instrumentos que arrastran para levantar el polvo [2006.01]"
+  },
+  {
+    "code": "A47L 5/28",
+    "description": "••••••Aspiradores de mango y boquilla fijada sobre el cuerpo del aspirador, p. ej. aspiradores con ruedas con mango de guía (A47L 5/24 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "A47L 5/30",
+    "description": "••••••••con instrumentos que arrastran para levantar el polvo, p. ej. cepillos giratorios [2006.01]"
+  },
+  {
+    "code": "A47L 5/32",
+    "description": "••••••••con medios para conectar un tubo flexible (conexiones de tubos para aspiradores A47L 9/24) [2006.01]"
+  },
+  {
+    "code": "A47L 5/34",
+    "description": "••••••••con regulación en altura de las boquillas o de los instrumentos para levantar el polvo [2006.01]"
+  },
+  {
+    "code": "A47L 5/36",
+    "description": "••••••Aspiradores dotados de un tubo flexible entre la boquilla y el cuerpo; Aspiradores que se fijan a las escaleras; Aspiradores que se transportan sobre la espalda [2006.01]"
+  },
+  {
+    "code": "A47L 5/38",
+    "description": "••••••Instalaciones de limpieza por aspiración incorporadas, es decir, sistemas de tubo fijo al cual puede conectarse, en distintos puntos, un tubo flexible [2006.01]"
+  },
+  {
+    "code": "A47L 7/00",
+    "description": "Aspiradores adaptados a otros usos (con aparatos para encerar los suelos A47L 11/20; dispositivos de aspiración para quitar las cenizas F23J 1/02); Mesas con orificios de aspiración destinados a la limpieza por aspiración; Recipientes para artículos de limpieza por aspiración; Aspiradores concebidos para la limpieza de cepillos; Aspiradores concebidos para la absorción de líquidos [2006.01]"
+  },
+  {
+    "code": "A47L 7/02",
+    "description": "••con aparatos controlados para destinos especiales [2006.01]"
+  },
+  {
+    "code": "A47L 7/04",
+    "description": "••para utilizar el aire residual para otras aplicaciones, p. ej. para distribuir productos químicos en una habitación, para esterilizar el aire (pulverización o atomización en general B05) [2006.01]"
+  },
+  {
+    "code": "A47L 7/06",
+    "description": "••••para mantener el aspirador en el aire de escape [2006.01]"
+  },
+  {
+    "code": "A47L 7/08",
+    "description": "••••con combustión del polvo en el aire de escape [2006.01]"
+  },
+  {
+    "code": "A47L 9/00",
+    "description": "Partes constitutivas o accesorios de aspiradores, p. ej. medios mecánicos para controlar la aspiración o para producir una acción de batido; Dispositivos para la conservación ordenada de los aspiradores o de sus piezas; Vehículos portadores especialmente concebidos para los aspiradores [2006.01]"
+  },
+  {
+    "code": "A47L 9/02",
+    "description": "••Boquillas (boquillas de succión para el transporte de fluidos B65G 51/00) [2006.01]"
+  },
+  {
+    "code": "A47L 9/04",
+    "description": "••••con cepillos o agitadores controlados [2006.01]"
+  },
+  {
+    "code": "A47L 9/06",
+    "description": "••••con cepillos o similares fijos, p. ej. con fijación regulable [2006.01]"
+  },
+  {
+    "code": "A47L 9/08",
+    "description": "••••con medios adaptados de soplado [2006.01]"
+  },
+  {
+    "code": "A47L 9/10",
+    "description": "••Filtros (en general B01D; ciclones B04C); Separadores de polvo; Levantamiento de polvo; Cambio automático de filtros [2006.01]"
+  },
+  {
+    "code": "A47L 9/12",
+    "description": "••••Filtros secos [2006.01]"
+  },
+  {
+    "code": "A47L 9/14",
+    "description": "••••Bolsas o similares; Fijación de bolsas o cierres para éstas [2006.01]"
+  },
+  {
+    "code": "A47L 9/16",
+    "description": "••••Arreglo o disposición de ciclones u otras disposiciones de acción centrífuga [2006.01]"
+  },
+  {
+    "code": "A47L 9/18",
+    "description": "••••Filtros líquidos [2006.01]"
+  },
+  {
+    "code": "A47L 9/19",
+    "description": "••••Medios para vigilar la operación de filtrado [2006.01]"
+  },
+  {
+    "code": "A47L 9/20",
+    "description": "••Medios de limpieza de filtros [2006.01]"
+  },
+  {
+    "code": "A47L 9/22",
+    "description": "••Piezas de ensamblaje de las aletas y del motor [2006.01]"
+  },
+  {
+    "code": "A47L 9/24",
+    "description": "••Tubos flexibles; Sus piezas de ensamblaje (mangos o racores de mangos en general F16L) [2006.01]"
+  },
+  {
+    "code": "A47L 9/26",
+    "description": "••Incorporación de dispositivos de enrollado para cables eléctricos (dispositivos especialmente concebidos para desenrollar o almacenar de nuevo los cables de forma repetida B65H 75/34; instalaciones de cables o líneas eléctricas entre dos partes en movimiento relativo H02G 11/00) [2006.01]"
+  },
+  {
+    "code": "A47L 9/28",
+    "description": "••Montaje del equipo eléctrico, p. ej. adaptación o fijación al aspirador; Control de los aspiradores por medios eléctricos [2006.01]"
+  },
+  {
+    "code": "A47L 9/30",
+    "description": "••••Colocación de los dispositivos de alumbrado [2006.01]"
+  },
+  {
+    "code": "A47L 9/32",
+    "description": "••Mangos [2006.01]"
+  },
+  {
+    "code": "A47L 11/00",
+    "description": "Máquinas para limpiar los suelos, las alfombras, los muebles, las paredes o sus revestimientos [2006.01]"
+  },
+  {
+    "code": "A47L 11/02",
+    "description": "••Máquinas de alisar o pulir los suelos (máquinas de pulir en general B24B 29/00) [2006.01]"
+  },
+  {
+    "code": "A47L 11/03",
+    "description": "••••caracterizadas por el hecho de poder suministrar agentes de limpieza o de pulido [2006.01]"
+  },
+  {
+    "code": "A47L 11/04",
+    "description": "••••accionadas manualmente [2006.01]"
+  },
+  {
+    "code": "A47L 11/06",
+    "description": "••••••con herramientas con movimiento alternativo u oscilante [2006.01]"
+  },
+  {
+    "code": "A47L 11/08",
+    "description": "••••••con herramientas giratorias [2006.01]"
+  },
+  {
+    "code": "A47L 11/10",
+    "description": "••••instrumentos accionados por motor [2006.01]"
+  },
+  {
+    "code": "A47L 11/12",
+    "description": "••••••con herramientas dotadas de movimiento alternativo u oscilante [2006.01]"
+  },
+  {
+    "code": "A47L 11/14",
+    "description": "••••••con herramientas giratorias [2006.01]"
+  },
+  {
+    "code": "A47L 11/16",
+    "description": "••••••••las herramientas consisten en cepillos en forma de disco [2006.01]"
+  },
+  {
+    "code": "A47L 11/162",
+    "description": "••••••••••con un solo cepillo en forma de disco [2006.01]"
+  },
+  {
+    "code": "A47L 11/164",
+    "description": "••••••••••Elementos o partes constitutivas de las herramientas cepilladoras [2006.01]"
+  },
+  {
+    "code": "A47L 11/18",
+    "description": "••••••••las herramientas consisten en cepillos en forma de rodillos [2006.01]"
+  },
+  {
+    "code": "A47L 11/19",
+    "description": "••••••••••Elementos o partes constitutivas de las herramientas cepilladoras [2006.01]"
+  },
+  {
+    "code": "A47L 11/20",
+    "description": "••••combinadas con dispositivos de limpieza por vacío [2006.01]"
+  },
+  {
+    "code": "A47L 11/202",
+    "description": "••••••dotadas de propulsión independiente para los cepillos de limpieza [2006.01]"
+  },
+  {
+    "code": "A47L 11/204",
+    "description": "••••••dotadas de propulsión combinada para los cepillos y para la limpieza por vacío [2006.01]"
+  },
+  {
+    "code": "A47L 11/205",
+    "description": "••••••••para cepillos dotados de movimiento de vaivén [2006.01]"
+  },
+  {
+    "code": "A47L 11/206",
+    "description": "••••••••para cepillos en forma de discos rotativos [2006.01]"
+  },
+  {
+    "code": "A47L 11/22",
+    "description": "••Máquinas para barrer el suelo accionadas manualmente [2006.01]"
+  },
+  {
+    "code": "A47L 11/24",
+    "description": "••Máquinas para barrer el suelo accionadas por motor [2006.01]"
+  },
+  {
+    "code": "A47L 11/26",
+    "description": "••Máquinas para frotar el suelo accionadas manualmente (A47L 11/29 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "A47L 11/28",
+    "description": "••Máquinas para frotar el suelo accionadas por motor (A47L 11/29 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "A47L 11/282",
+    "description": "••••dotadas de herramientas giratorias [2006.01]"
+  },
+  {
+    "code": "A47L 11/283",
+    "description": "••••••las herramientas con cepillos en forma de disco [2006.01]"
+  },
+  {
+    "code": "A47L 11/284",
+    "description": "••••con herramientas dotadas de movimiento de vaivén [2006.01]"
+  },
+  {
+    "code": "A47L 11/29",
+    "description": "••Máquinas para frotar el suelo caracterizadas por estar dotadas de medios para hacer desaparecer las manchas de líquido [2006.01]"
+  },
+  {
+    "code": "A47L 11/292",
+    "description": "••••con herramientas giratorias (A47L 11/30 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "A47L 11/293",
+    "description": "••••••las herramientas consisten en cepillos en forma de disco [2006.01]"
+  },
+  {
+    "code": "A47L 11/294",
+    "description": "••••con herramientas dotadas de movimiento de vaivén (A47L 11/30 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "A47L 11/30",
+    "description": "••••con aspiración [2006.01]"
+  },
+  {
+    "code": "A47L 11/32",
+    "description": "••Barredoras para alfombras (combinadas con aspirador A47L 7/02) [2006.01]"
+  },
+  {
+    "code": "A47L 11/33",
+    "description": "••••dotadas de medios para almacenar la suciedad [2006.01]"
+  },
+  {
+    "code": "A47L 11/34",
+    "description": "••Máquinas para el tratamiento de alfombras puestas, por medio de un líquido, una espuma o un vapor, p. ej. por vapor de agua [2006.01]"
+  },
+  {
+    "code": "A47L 11/36",
+    "description": "••Máquinas para batir la tapicería de los muebles [2006.01]"
+  },
+  {
+    "code": "A47L 11/38",
+    "description": "••Máquinas especialmente concebidas para limpiar las paredes, los suelos, los techos o similares [2006.01]"
+  },
+  {
+    "code": "A47L 11/40",
+    "description": "••Elementos o partes constitutivas de máquinas no previstas en los grupos A47L 11/02-A47L 11/38, o no limitadas a uno de estos grupos, p. ej. empuñaduras, disposición de los interruptores, bordes, amortiguadores, palancas [2006.01]"
+  },
+  {
+    "code": "A47L 13/00",
+    "description": "Instrumentos de limpieza de suelos, alfombras, muebles, paredes o sus revestimientos (cepillos, sus empuñaduras o mangos A46B, B25G; raspadoras para el trabajo de acabado del edificio E04F 21/00) [2006.01]"
+  },
+  {
+    "code": "A47L 13/02",
+    "description": "••Raspado [2006.01]"
+  },
+  {
+    "code": "A47L 13/022",
+    "description": "••••Empuñaduras para raspadores [2006.01]"
+  },
+  {
+    "code": "A47L 13/03",
+    "description": "••••Raspadores capaces de distribuir los productos de limpieza [2006.01]"
+  },
+  {
+    "code": "A47L 13/04",
+    "description": "••••de lana metálica [2006.01]"
+  },
+  {
+    "code": "A47L 13/06",
+    "description": "••••por medio de cepillos de hilo metálico o de tejidos de hilo metálico [2006.01]"
+  },
+  {
+    "code": "A47L 13/07",
+    "description": "••••••Esponjas metálicas (A47L 13/022, A47L 13/03 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "A47L 13/08",
+    "description": "••••por medio de cuchillas [2006.01]"
+  },
+  {
+    "code": "A47L 13/10",
+    "description": "••Fregado; Lavado; Limpieza; Pulido [2006.01]"
+  },
+  {
+    "code": "A47L 13/11",
+    "description": "••••Rascadores [2006.01]"
+  },
+  {
+    "code": "A47L 13/12",
+    "description": "••••Instrumentos con varios dispositivos diferentes de tratamiento [2006.01]"
+  },
+  {
+    "code": "A47L 13/14",
+    "description": "••••combinados con sistemas de escurrido o de oreo [2006.01]"
+  },
+  {
+    "code": "A47L 13/142",
+    "description": "••••••con acción de escurrido o de oreo por torsión [2006.01]"
+  },
+  {
+    "code": "A47L 13/144",
+    "description": "••••••con rodillos para el escurrido [2006.01]"
+  },
+  {
+    "code": "A47L 13/146",
+    "description": "••••••con planchas de prensado giratorias [2006.01]"
+  },
+  {
+    "code": "A47L 13/16",
+    "description": "••••Tejidos; Tampones; Esponjas (esponjas metálicas para raspar A47L 13/07) [2006.01]"
+  },
+  {
+    "code": "A47L 13/17",
+    "description": "••••••conteniendo productos de limpieza (A47L 13/19 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "A47L 13/18",
+    "description": "••••••Guantes; Artículos similares [2006.01]"
+  },
+  {
+    "code": "A47L 13/19",
+    "description": "••••••••conteniendo productos de limpieza [2006.01]"
+  },
+  {
+    "code": "A47L 13/20",
+    "description": "••••Escobas, fregonas o mopas [2006.01]"
+  },
+  {
+    "code": "A47L 13/22",
+    "description": "••••••con sistemas de alimentación de líquido [2006.01]"
+  },
+  {
+    "code": "A47L 13/23",
+    "description": "••••••••conectables a las canalizaciones de agua [2006.01]"
+  },
+  {
+    "code": "A47L 13/24",
+    "description": "••••••Armaduras para escobas, fregonas o mopas; Cabezas para escobas, fregonas o mopas (mangos B25G) [2006.01]"
+  },
+  {
+    "code": "A47L 13/25",
+    "description": "••••••••Armaduras de alambre [2006.01]"
+  },
+  {
+    "code": "A47L 13/252",
+    "description": "••••••••••para escobas,fregonas o mopas de flecos textiles o similares [2006.01]"
+  },
+  {
+    "code": "A47L 13/253",
+    "description": "••••••••••regulables o plegables [2006.01]"
+  },
+  {
+    "code": "A47L 13/254",
+    "description": "••••••••Armaduras de chapa metálica [2006.01]"
+  },
+  {
+    "code": "A47L 13/255",
+    "description": "••••••••••para escobas, fregonas o mopas de flecos textiles o similares [2006.01]"
+  },
+  {
+    "code": "A47L 13/256",
+    "description": "••••••••••para escobas, fregonas o mopas de flecos hechos de tejido [2006.01]"
+  },
+  {
+    "code": "A47L 13/257",
+    "description": "••••••••••para escobas, fregonas o mopas de flecos hechos de un material esponjoso [2006.01]"
+  },
+  {
+    "code": "A47L 13/258",
+    "description": "••••••••••regulables o plegables [2006.01]"
+  },
+  {
+    "code": "A47L 13/26",
+    "description": "••••Otros dispositivos de limpieza con disposiciones para suministrar un líquido (estando dichas disposiciones montadas en máquinas para encerar suelos A47L 11/00, en raspadores A47L 13/03, en escobas, fregonas o mopas A47L 13/22; trapos, almohadillas o artículos análogos que contienen productos de limpieza A47L 13/17, A47L 13/19) [2006.01]"
+  },
+  {
+    "code": "A47L 13/28",
+    "description": "••••Instrumentos de pulido (máquinas para pulir el suelo A47L 11/02) [2006.01]"
+  },
+  {
+    "code": "A47L 13/282",
+    "description": "••••••montados sobre el calzado [2006.01]"
+  },
+  {
+    "code": "A47L 13/284",
+    "description": "••••••con pesos fijos o intercambiables [2006.01]"
+  },
+  {
+    "code": "A47L 13/286",
+    "description": "••••••con alojamientos para almacenar los materiales de pulido, p. ej. papel de lija [2006.01]"
+  },
+  {
+    "code": "A47L 13/29",
+    "description": "••••••con tejidos móviles o intercambiables para el pulido o el lustrado [2006.01]"
+  },
+  {
+    "code": "A47L 13/294",
+    "description": "••••••con cabeza reversible, utilizándose un lado para suministrar el producto de pulido y el lado opuesto para el lustrado [2006.01]"
+  },
+  {
+    "code": "A47L 13/30",
+    "description": "••••••Instrumentos para pulir, encerar o dar aceite con depósitos suministradores de cera o aceite [2006.01]"
+  },
+  {
+    "code": "A47L 13/31",
+    "description": "••••••••con tejidos móviles o intercambiables para el pulido o el lustrado [2006.01]"
+  },
+  {
+    "code": "A47L 13/312",
+    "description": "••••••••••alimentados con cera líquida o aceite [2006.01]"
+  },
+  {
+    "code": "A47L 13/314",
+    "description": "••••••••con cabeza reversible, utilizándose un lado para suministrar la cera o el aceite y el lado opuesto para el lustrado [2006.01]"
+  },
+  {
+    "code": "A47L 13/316",
+    "description": "••••••••••alimentados con cera líquida o aceite [2006.01]"
+  },
+  {
+    "code": "A47L 13/32",
+    "description": "••••••Depósitos suministradores de cera con sistema de calentamiento [2006.01]"
+  },
+  {
+    "code": "A47L 13/34",
+    "description": "••••Instrumentos de desoxidación para fogones u objetos metálicos [2006.01]"
+  },
+  {
+    "code": "A47L 13/36",
+    "description": "••••Sacudidores de alfombras [2006.01]"
+  },
+  {
+    "code": "A47L 13/38",
+    "description": "••••Otros instrumentos para quitar el polvo [2006.01]"
+  },
+  {
+    "code": "A47L 13/40",
+    "description": "••••Instrumentos de limpieza que actúan electrostáticamente; Dispositivos para limpiarlos; Instrumentos de limpieza que actúan magnéticamente [2006.01]"
+  },
+  {
+    "code": "A47L 13/41",
+    "description": "••••••Instrumentos de limpieza por acción magnética [2006.01]"
+  },
+  {
+    "code": "A47L 13/42",
+    "description": "••••Partes constitutivas [2006.01]"
+  },
+  {
+    "code": "A47L 13/44",
+    "description": "••••••Fijación de tejidos de limpieza al mango de los cepillos o similar del aparato [2006.01]"
+  },
+  {
+    "code": "A47L 13/46",
+    "description": "••••••Fijación de tejidos o de esponjas de limpieza o de pulido a los mangos por medio de ganchos, pinzas o similares [2006.01]"
+  },
+  {
+    "code": "A47L 13/48",
+    "description": "••••••Sistemas protectores, como topes o placas protectoras [2006.01]"
+  },
+  {
+    "code": "A47L 13/50",
+    "description": "••••Instrumentos auxiliares (dispositivos de limpieza para cepillos o similares A46B 17/06) [2006.01]"
+  },
+  {
+    "code": "A47L 13/502",
+    "description": "••••••Sacudidores para trapos de polvo o escobas, fregonas o mopas; Amortiguadores para estos sacudidores [2006.01]"
+  },
+  {
+    "code": "A47L 13/51",
+    "description": "••••••Conservación de las herramientas de limpieza, p. ej. recipientes para éstas [2006.01]"
+  },
+  {
+    "code": "A47L 13/512",
+    "description": "••••••••Dispositivos dotados de pinzas para colgar las herramientas [2006.01]"
+  },
+  {
+    "code": "A47L 13/52",
+    "description": "••••••Recogedores de polvo; Recogedores de migas de pan [2006.01]"
+  },
+  {
+    "code": "A47L 13/54",
+    "description": "••••••Raquetas para el sacudido de alfombras [2006.01]"
+  },
+  {
+    "code": "A47L 13/56",
+    "description": "••••••Instrumentos para la aplicación de cera o de aceite [2006.01]"
+  },
+  {
+    "code": "A47L 13/58",
+    "description": "••••••Escurridores para almohadillas de limpieza, fregonas o similares, combinados con los cubos [2006.01]"
+  },
+  {
+    "code": "A47L 13/59",
+    "description": "••••••••con órganos escurridores móviles o similares [2006.01]"
+  },
+  {
+    "code": "A47L 13/60",
+    "description": "••••••••con rodillos de escurrido [2006.01]"
+  },
+  {
+    "code": "A47L 13/62",
+    "description": "••••••Apoyos para las rodillas, especialmente con ruedas (cojines capaces de ser fijados a las rodillas A41D 13/06) [2006.01]"
+  },
+  {
+    "code": "A47L 15/00",
+    "description": "Máquinas para lavar o enjuagar la vajilla o los utensilios de mesa [2006.01]"
+  },
+  {
+    "code": "A47L 15/02",
+    "description": "••con circulación y agitación del líquido de limpieza en una cámara que contiene un cesto fijo [2006.01]"
+  },
+  {
+    "code": "A47L 15/04",
+    "description": "••••con un movimiento de vaivén de la cámara de limpieza [2006.01]"
+  },
+  {
+    "code": "A47L 15/06",
+    "description": "••••por medio de una turbina colocada en la cámara de limpieza [2006.01]"
+  },
+  {
+    "code": "A47L 15/08",
+    "description": "••••por medio de un efecto de presión producido por bombas [2006.01]"
+  },
+  {
+    "code": "A47L 15/10",
+    "description": "••••por introducción de aire comprimido o de otro gas en el líquido [2006.01]"
+  },
+  {
+    "code": "A47L 15/12",
+    "description": "••••por ebullición [2006.01]"
+  },
+  {
+    "code": "A47L 15/13",
+    "description": "••••por utilización de ondas sónicas o ultrasónicas [2006.01]"
+  },
+  {
+    "code": "A47L 15/14",
+    "description": "••con cesto para la vajilla fijo y sistema de pulverización en el interior de la cámara de limpieza [2006.01]"
+  },
+  {
+    "code": "A47L 15/16",
+    "description": "••••con sistema de pulverización montado de forma fija [2006.01]"
+  },
+  {
+    "code": "A47L 15/18",
+    "description": "••••con sistema de pulverización montado de forma móvil [2006.01]"
+  },
+  {
+    "code": "A47L 15/20",
+    "description": "••••••Sistemas de pulverización dotados de un movimiento de vaivén [2006.01]"
+  },
+  {
+    "code": "A47L 15/22",
+    "description": "••••••Sistemas de pulverización giratorios [2006.01]"
+  },
+  {
+    "code": "A47L 15/23",
+    "description": "••••••••movidos por medio de chorros pulverizados [2006.01]"
+  },
+  {
+    "code": "A47L 15/24",
+    "description": "••con cesto para la vajilla puesto en movimiento por un transportador [2006.01]"
+  },
+  {
+    "code": "A47L 15/26",
+    "description": "••con cesto para la vajilla puesto en movimiento por otros medios [2006.01]"
+  },
+  {
+    "code": "A47L 15/28",
+    "description": "••••con únicamente movimiento de vaivén en sentido vertical [2006.01]"
+  },
+  {
+    "code": "A47L 15/30",
+    "description": "••••con rotación únicamente [2006.01]"
+  },
+  {
+    "code": "A47L 15/32",
+    "description": "••••••Rotación por pulverización de agua [2006.01]"
+  },
+  {
+    "code": "A47L 15/33",
+    "description": "••••••con cestas móviles sumergidas en el fluido limpiador [2006.01]"
+  },
+  {
+    "code": "A47L 15/34",
+    "description": "••••con movimiento de vaivén vertical y movimiento de rotación combinados [2006.01]"
+  },
+  {
+    "code": "A47L 15/36",
+    "description": "••••con movimiento lateral [2006.01]"
+  },
+  {
+    "code": "A47L 15/37",
+    "description": "••con fregado de la vajilla por medio de cepillos [2006.01]"
+  },
+  {
+    "code": "A47L 15/39",
+    "description": "••••estando los cepillos montados en soportes móviles [2006.01]"
+  },
+  {
+    "code": "A47L 15/42",
+    "description": "••Partes constitutivas [2006.01]"
+  },
+  {
+    "code": "A47L 15/44",
+    "description": "••••Dispositivos para la adición de productos de limpieza [2006.01]"
+  },
+  {
+    "code": "A47L 15/46",
+    "description": "••••Sistemas de control automático de las operaciones sucesivas de la limpieza [2006.01]"
+  },
+  {
+    "code": "A47L 15/48",
+    "description": "••••Dispositivos de secado [2006.01]"
+  },
+  {
+    "code": "A47L 15/50",
+    "description": "••••Bateas de rejilla [2006.01]"
+  },
+  {
+    "code": "A47L 17/00",
+    "description": "Aparatos o instrumentos de lavado o de limpieza manual para vajilla, utensilios de mesa o de cocina o utensilios análogos (dispositivos para la producción de espuma A47K 5/14) [2006.01]"
+  },
+  {
+    "code": "A47L 17/02",
+    "description": "••Recipientes (mesas para el lavado de la vajilla A47B 33/00; jofainas para el aseo personal A47K 1/04; jofainas unidas a un tubo de evacuación E03C 1/12) [2006.01]"
+  },
+  {
+    "code": "A47L 17/04",
+    "description": "••Instrumentos para la limpieza de marmitas o cacerolas [2006.01]"
+  },
+  {
+    "code": "A47L 17/06",
+    "description": "••••Raspadores [2006.01]"
+  },
+  {
+    "code": "A47L 17/08",
+    "description": "••••Almohadillas; Estropajos de lana metálica o de tejidos de alambre o plásticos [2006.01]"
+  },
+  {
+    "code": "A47L 17/10",
+    "description": "••Pinzas para la vajilla [2006.01]"
+  },
+  {
+    "code": "A47L 19/00",
+    "description": "Dispositivos de secado de la vajilla o de los utensilios de mesa, p. ej. paños de cocina [2006.01]"
+  },
+  {
+    "code": "A47L 19/02",
+    "description": "••Planchas escurridoras [2006.01]"
+  },
+  {
+    "code": "A47L 19/04",
+    "description": "••Cestas para la vajilla; Escurreplatos [2006.01]"
+  },
+  {
+    "code": "A47L 21/00",
+    "description": "Pulido de los utensilios de mesa, p. ej. cuchillos, tenedores, cucharas [2006.01]"
+  },
+  {
+    "code": "A47L 21/02",
+    "description": "••Máquinas [2006.01]"
+  },
+  {
+    "code": "A47L 21/04",
+    "description": "••Instrumentos manuales [2006.01]"
+  },
+  {
+    "code": "A47L 21/06",
+    "description": "••Soportes o apoyos utilizados durante el pulido [2006.01]"
+  },
+  {
+    "code": "A47L 23/00",
+    "description": "Limpieza del calzado [2006.01]"
+  },
+  {
+    "code": "A47L 23/02",
+    "description": "••Máquinas para limpiar el calzado, con o sin sistemas de aplicación de la crema [2006.01]"
+  },
+  {
+    "code": "A47L 23/04",
+    "description": "••Instrumentos manuales para la limpieza del calzado, con o sin sistemas para la aplicación de la cera (cepillos ordinarios, con o sin recipientes A46B 11/00) [2006.01]"
+  },
+  {
+    "code": "A47L 23/05",
+    "description": "••••con sistemas para la aplicación del betún [2006.01]"
+  },
+  {
+    "code": "A47L 23/06",
+    "description": "••••con control eléctrico [2006.01]"
+  },
+  {
+    "code": "A47L 23/08",
+    "description": "••••Instrumentos manuales especiales para limpiar y teñir el calzado, p. ej. almohadillas de polvos [2006.01]"
+  },
+  {
+    "code": "A47L 23/10",
+    "description": "••••Tejidos o almohadillas plegables de limpieza; Guantes de limpieza o similares (guantes de lavado o similares A47K 7/02) [2006.01]"
+  },
+  {
+    "code": "A47L 23/12",
+    "description": "••••Dispositivos de limpieza del ante [2006.01]"
+  },
+  {
+    "code": "A47L 23/14",
+    "description": "••••Sistemas de protección contra las manchas durante la limpieza del calzado [2006.01]"
+  },
+  {
+    "code": "A47L 23/16",
+    "description": "••Soportes para el abrillantado de los calzados; Reposapiés con guías para los tejidos que sirven para el pulido [2006.01]"
+  },
+  {
+    "code": "A47L 23/17",
+    "description": "••••Reposapiés con guías para los tejidos que sirven para el pulido [2006.01]"
+  },
+  {
+    "code": "A47L 23/18",
+    "description": "••Dispositivos para mantener el calzado durante la limpieza o el abrillantado (hormas para el calzado A43D 3/00); Dispositivos de sujeción con efecto de tensado [2006.01]"
+  },
+  {
+    "code": "A47L 23/20",
+    "description": "••Dispositivos o instrumentos para el secado del calzado eventualmente con sistemas de calentamiento (alacenas para el calzado A47B 61/04) [2006.01]"
+  },
+  {
+    "code": "A47L 23/22",
+    "description": "••Dispositivos o instrumentos fijos al suelo para quitar el barro, las manchas o el polvo del calzado (enrejados incorporados, p. ej. limpiabarros, E04F 19/10) [2006.01]"
+  },
+  {
+    "code": "A47L 23/24",
+    "description": "••••Raspadores de limpieza rígidos; Planchas de pie para limpiar las suelas de los zapatos (felpudos en general A47G 27/02) [2006.01]"
+  },
+  {
+    "code": "A47L 23/26",
+    "description": "••••Felpudos o raspadores combinados con cepillos [2006.01]"
+  },
+  {
+    "code": "A47L 23/28",
+    "description": "••Recipientes para el material de limpieza del calzado [2006.01]"
+  },
+  {
+    "code": "A47L 25/02",
+    "description": "••para botones, corchetes o insignias militares [2006.01]"
+  },
+  {
+    "code": "A47L 25/04",
+    "description": "••para pomos de puertas [2006.01]"
+  },
+  {
+    "code": "A47L 25/06",
+    "description": "••Placas de protección utilizadas en la limpieza de botones, pomos de puerta o similares [2006.01]"
+  },
+  {
+    "code": "A47L 25/08",
+    "description": "••Almohadillas o similares para limpiar los vestidos [2006.01]"
+  },
+  {
+    "code": "A47L 25/12",
+    "description": "••Dispositivos o instrumentos para limpiar los cristales de lámparas [2006.01]"
+  }
+]

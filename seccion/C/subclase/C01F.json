@@ -1,0 +1,730 @@
+[
+  {
+    "code": "C01F 1/00",
+    "description": "Métodos de preparación de los compuestos de los metales berilio, magnesio, aluminio, calcio, estroncio, bario, radio, torio o de las tierras raras, en general [2006.01]"
+  },
+  {
+    "code": "C01F 3/00",
+    "description": "Compuestos de berilio [2006.01]"
+  },
+  {
+    "code": "C01F 3/02",
+    "description": "••Oxidos; Hidróxidos [2006.01]"
+  },
+  {
+    "code": "C01F 5/00",
+    "description": "Compuestos de magnesio [2006.01]"
+  },
+  {
+    "code": "C01F 5/02",
+    "description": "••Magnesia [2006.01]"
+  },
+  {
+    "code": "C01F 5/04",
+    "description": "••••por oxidación de magnesio metálico [2006.01]"
+  },
+  {
+    "code": "C01F 5/06",
+    "description": "••••por descomposición térmica de compuestos de magnesio (calcinación de magnesita o dolomita C04B 2/10) [2006.01]"
+  },
+  {
+    "code": "C01F 5/08",
+    "description": "••••••por calcinación de hidróxido de magnesio [2006.01]"
+  },
+  {
+    "code": "C01F 5/10",
+    "description": "••••••por descomposición térmica de cloruro de magnesio con vapor de agua [2006.01]"
+  },
+  {
+    "code": "C01F 5/12",
+    "description": "••••••por descomposición térmica de sulfato de magnesio, con o sin reducción [2006.01]"
+  },
+  {
+    "code": "C01F 5/14",
+    "description": "••Hidróxido de magnesio [2006.01]"
+  },
+  {
+    "code": "C01F 5/16",
+    "description": "••••por tratamiento de magnesia, p. ej. dolomita calcinada, con agua o soluciones de sales que no contienen magnesio [2006.01]"
+  },
+  {
+    "code": "C01F 5/20",
+    "description": "••••por precipitación a partir de soluciones de sales de magnesio con amoniaco [2006.01]"
+  },
+  {
+    "code": "C01F 5/22",
+    "description": "••••a partir de compuestos de magnesio con hidróxidos alcalinos u óxidos o hidróxidos alcalinotérreos [2006.01]"
+  },
+  {
+    "code": "C01F 5/24",
+    "description": "••Carbonatos de magnesio [2006.01]"
+  },
+  {
+    "code": "C01F 5/26",
+    "description": "••Haluros de magnesio [2006.01]"
+  },
+  {
+    "code": "C01F 5/28",
+    "description": "••••Fluoruros [2006.01]"
+  },
+  {
+    "code": "C01F 5/30",
+    "description": "••••Cloruros [2006.01]"
+  },
+  {
+    "code": "C01F 5/32",
+    "description": "••••••Preparación de cloruro de magnesio anhidro por cloración de compuestos de magnesio [2006.01]"
+  },
+  {
+    "code": "C01F 5/34",
+    "description": "••••••Deshidratación de cloruro de magnesio que contiene agua de cristalización [2006.01]"
+  },
+  {
+    "code": "C01F 5/36",
+    "description": "••••Bromuros [2006.01]"
+  },
+  {
+    "code": "C01F 5/38",
+    "description": "••Nitratos de magnesio [2006.01]"
+  },
+  {
+    "code": "C01F 5/40",
+    "description": "••Sulfatos de magnesio (sulfatos dobles de magnesio con sodio o potasio C01D 5/12, con otros metales alcalinos C01D 15/06, C01D 17/00) [2006.01]"
+  },
+  {
+    "code": "C01F 5/42",
+    "description": "••Sulfitos de magnesio [2006.01]"
+  },
+  {
+    "code": "C01F 7/00",
+    "description": "Compuestos de aluminio [2022.01]"
+  },
+  {
+    "code": "C01F 7/02",
+    "description": "••Óxido de aluminio; Hidróxido de aluminio; Aluminatos [2022.01]"
+  },
+  {
+    "code": "C01F 7/021",
+    "description": "••••Post-tratamiento de óxidos o hidróxidos [2022.01]"
+  },
+  {
+    "code": "C01F 7/022",
+    "description": "••••••Clasificación [2022.01]"
+  },
+  {
+    "code": "C01F 7/023",
+    "description": "••••••Trituración, desagregación o desintegración [2022.01]"
+  },
+  {
+    "code": "C01F 7/025",
+    "description": "••••••Granulación o aglomeración [2022.01]"
+  },
+  {
+    "code": "C01F 7/026",
+    "description": "••••••Elaboración o estabilización de dispersiones [2022.01]"
+  },
+  {
+    "code": "C01F 7/027",
+    "description": "••••••Tratamiento por fusión o vaporización [2022.01]"
+  },
+  {
+    "code": "C01F 7/028",
+    "description": "••••Beta-alúminas [2022.01]"
+  },
+  {
+    "code": "C01F 7/04",
+    "description": "••••Preparación de aluminatos de metales alcalinos; Óxido o hidróxido de aluminio a partir de ellos (C01F 7/028 tiene prioridad) [2022.01]"
+  },
+  {
+    "code": "C01F 7/043",
+    "description": "••••••Aluminatos de litio [2022.01]"
+  },
+  {
+    "code": "C01F 7/046",
+    "description": "••••••Estabilización de aluminatos [2022.01]"
+  },
+  {
+    "code": "C01F 7/06",
+    "description": "••••••mediante tratamiento de minerales aluminosos o materias primas similares a los residuos con hidróxido alcalino, p. ej. la lixiviación de la bauxita según el proceso Bayer (obtención de óxido o hidróxido de aluminio a partir de la solución de aluminato resultante C01F 7/14) [2022.01]"
+  },
+  {
+    "code": "C01F 7/0606",
+    "description": "••••••••Preparación de la solución de hidróxido de álcali a partir de licor usado reciclado [2022.01]"
+  },
+  {
+    "code": "C01F 7/0613",
+    "description": "••••••••Pretratamiento de los minerales, p. ej. molienda [2022.01]"
+  },
+  {
+    "code": "C01F 7/062",
+    "description": "••••••••Digestión [2022.01]"
+  },
+  {
+    "code": "C01F 7/0626",
+    "description": "••••••••••Procesos que sólo utilizan la digestión en tubo [2022.01]"
+  },
+  {
+    "code": "C01F 7/0633",
+    "description": "••••••••••caracterizados por el uso de aditivos [2022.01]"
+  },
+  {
+    "code": "C01F 7/064",
+    "description": "••••••••••Aparatos para la digestión, p. ej.  recipientes digestores o intercambiadores de calor [2022.01]"
+  },
+  {
+    "code": "C01F 7/0646",
+    "description": "••••••••Separación del residuo insoluble, p. ej. del lodo rojo [2022.01]"
+  },
+  {
+    "code": "C01F 7/0653",
+    "description": "••••••••••caracterizados por el floculante añadido a los lodos (clarificación final de la solución de aluminato C01F 7/47) [2022.01]"
+  },
+  {
+    "code": "C01F 7/066",
+    "description": "••••••••Tratamiento del residuo separado [2022.01]"
+  },
+  {
+    "code": "C01F 7/0666",
+    "description": "••••••••Control o regulación de procesos [2022.01]"
+  },
+  {
+    "code": "C01F 7/0673",
+    "description": "••••••••a partir de minerales que contienen fosfatos [2022.01]"
+  },
+  {
+    "code": "C01F 7/068",
+    "description": "••••••••a partir de minerales que contienen carbonatos, p. ej.  la dawsonita [2022.01]"
+  },
+  {
+    "code": "C01F 7/0686",
+    "description": "••••••••a partir de minerales que contienen sulfatos, p. ej.  la alunita [2022.01]"
+  },
+  {
+    "code": "C01F 7/0693",
+    "description": "••••••••a partir de materias primas similares a los residuos, p. ej. cenizas volantes o polvo de calcinación Bayer [2022.01]"
+  },
+  {
+    "code": "C01F 7/08",
+    "description": "••••••por tratamiento de minerales aluminosos con carbonato de sodio, p. ej.  procesos de sinterización (C01F 7/0613, C01F 7/066 tienen prioridad) [2022.01]"
+  },
+  {
+    "code": "C01F 7/085",
+    "description": "••••••••según el proceso de sinterización de la cal [2022.01]"
+  },
+  {
+    "code": "C01F 7/10",
+    "description": "••••••mediante tratamiento de minerales aluminosos con sulfatos alcalinos y agentes reductores [2006.01]"
+  },
+  {
+    "code": "C01F 7/12",
+    "description": "••••••Aluminatos de metales alcalinos a partir de aluminatos de metales alcalinotérreos [2006.01]"
+  },
+  {
+    "code": "C01F 7/14",
+    "description": "••••••Óxido o hidróxido de aluminio a partir de aluminatos de metales alcalinos [2022.01]"
+  },
+  {
+    "code": "C01F 7/141",
+    "description": "••••••••a partir de soluciones acuosas de aluminato mediante la neutralización con un agente ácido [2022.01]"
+  },
+  {
+    "code": "C01F 7/142",
+    "description": "••••••••••con dióxido de carbono [2022.01]"
+  },
+  {
+    "code": "C01F 7/144",
+    "description": "••••••••a partir de soluciones acuosas de aluminato por precipitación debida al enfriamiento, p. ej.  como parte del proceso Bayer [2022.01]"
+  },
+  {
+    "code": "C01F 7/145",
+    "description": "••••••••••caracterizado por el uso de un agente modificador del crecimiento de los cristales distinto de la semilla de hidróxido de aluminio [2022.01]"
+  },
+  {
+    "code": "C01F 7/147",
+    "description": "••••••••••Aparatos para la precipitación [2022.01]"
+  },
+  {
+    "code": "C01F 7/148",
+    "description": "••••••••••Separación del hidróxido obtenido, p. ej.  por filtración o deshidratación [2022.01]"
+  },
+  {
+    "code": "C01F 7/16",
+    "description": "••••Preparación de aluminatos metálicos alcalinotérreos o aluminatos de magnesio; Óxido o hidróxido de aluminio a partir de ellos (C01F 7/028 tiene prioridad) [2022.01]"
+  },
+  {
+    "code": "C01F 7/162",
+    "description": "••••••Aluminatos de magnesio [2022.01]"
+  },
+  {
+    "code": "C01F 7/164",
+    "description": "••••••Aluminatos de calcio [2022.01]"
+  },
+  {
+    "code": "C01F 7/166",
+    "description": "••••••Aluminatos de estroncio [2022.01]"
+  },
+  {
+    "code": "C01F 7/168",
+    "description": "••••••Aluminatos de bario [2022.01]"
+  },
+  {
+    "code": "C01F 7/18",
+    "description": "••••••Oxido o hidróxido de aluminio a partir de aluminatos de metales alcalinotérreos [2006.01]"
+  },
+  {
+    "code": "C01F 7/20",
+    "description": "••••Preparación de óxido o hidróxido de aluminio a partir de minerales aluminosos mediante ácidos o sales [2006.01]"
+  },
+  {
+    "code": "C01F 7/22",
+    "description": "••••••con haluros o ácidos halógenos [2006.01]"
+  },
+  {
+    "code": "C01F 7/24",
+    "description": "••••••con ácido nítrico u óxidos de nitrógeno [2006.01]"
+  },
+  {
+    "code": "C01F 7/26",
+    "description": "••••••con ácidos sulfúricos o sulfatos [2006.01]"
+  },
+  {
+    "code": "C01F 7/28",
+    "description": "••••••con ácido sulfuroso [2006.01]"
+  },
+  {
+    "code": "C01F 7/30",
+    "description": "••••Preparación de óxido o hidróxido de aluminio por descomposición térmica o por hidrólisis u oxidación de compuestos de aluminio [2022.01]"
+  },
+  {
+    "code": "C01F 7/302",
+    "description": "••••••Hidrólisis u oxidación de compuestos de aluminio en fase gaseosa [2022.01]"
+  },
+  {
+    "code": "C01F 7/304",
+    "description": "••••••••de compuestos orgánicos de aluminio [2022.01]"
+  },
+  {
+    "code": "C01F 7/306",
+    "description": "••••••Descomposición térmica de cloruros hidratados, p. ej.  de tricloruro de aluminio hexahidratado [2022.01]"
+  },
+  {
+    "code": "C01F 7/308",
+    "description": "••••••Descomposición térmica de los nitratos [2022.01]"
+  },
+  {
+    "code": "C01F 7/32",
+    "description": "••••••Descomposición térmica de sulfatos, incluidos los sulfatos complejos, p. ej. los alumbres [2006.01]"
+  },
+  {
+    "code": "C01F 7/34",
+    "description": "••••Preparación de hidróxido de aluminio por precipitación a partir de soluciones que contienen sales de aluminio [2006.01]"
+  },
+  {
+    "code": "C01F 7/36",
+    "description": "••••••de sales de aluminio orgánicas [2006.01]"
+  },
+  {
+    "code": "C01F 7/38",
+    "description": "••••Preparación de óxido de aluminio por reducción térmica de minerales aluminosos [2006.01]"
+  },
+  {
+    "code": "C01F 7/40",
+    "description": "••••••en presencia de sulfuro de aluminio [2006.01]"
+  },
+  {
+    "code": "C01F 7/42",
+    "description": "••••Preparación de óxido o hidróxido de aluminio a partir de aluminio metálico, p. ej. por oxidación [2022.01]"
+  },
+  {
+    "code": "C01F 7/422",
+    "description": "••••••por oxidación con un oxidante gaseoso a alta temperatura [2022.01]"
+  },
+  {
+    "code": "C01F 7/424",
+    "description": "••••••••mediante un plasma [2022.01]"
+  },
+  {
+    "code": "C01F 7/426",
+    "description": "••••••aplicando energía mecánica al aluminio sólido a baja temperatura [2022.01]"
+  },
+  {
+    "code": "C01F 7/428",
+    "description": "••••••por oxidación en una solución acuosa [2022.01]"
+  },
+  {
+    "code": "C01F 7/44",
+    "description": "••••Deshidratación de óxido o hidróxido de aluminio, es decir, todas las conversiones de una forma en otra que impliquen una pérdida de agua [2022.01]"
+  },
+  {
+    "code": "C01F 7/441",
+    "description": "••••••por calcinación [2022.01]"
+  },
+  {
+    "code": "C01F 7/442",
+    "description": "••••••••en presencia de un aditivo de calcinación [2022.01]"
+  },
+  {
+    "code": "C01F 7/444",
+    "description": "••••••••Aparatos a tal efecto [2022.01]"
+  },
+  {
+    "code": "C01F 7/445",
+    "description": "••••••••utilizando un lecho fluidizado [2022.01]"
+  },
+  {
+    "code": "C01F 7/447",
+    "description": "••••••por vía húmeda [2022.01]"
+  },
+  {
+    "code": "C01F 7/448",
+    "description": "••••••••utilizando presión superatmosférica, p. ej.  la conversión hidrotérmica de gibbsita en boehmita [2022.01]"
+  },
+  {
+    "code": "C01F 7/46",
+    "description": "••••Purificación de óxido de aluminio, hidróxido de aluminio o aluminatos (C01F 7/028 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "C01F 7/47",
+    "description": "••••••de aluminatos, p. ej. eliminación de compuestos de Si, Fe, Ga o de compuestos orgánicos de licores del proceso de Bayer [2022.01]"
+  },
+  {
+    "code": "C01F 7/473",
+    "description": "••••••••Eliminación de compuestos orgánicos, p. ej. oxalato de sodio [2022.01]"
+  },
+  {
+    "code": "C01F 7/476",
+    "description": "••••••••••por oxidación [2022.01]"
+  },
+  {
+    "code": "C01F 7/48",
+    "description": "••Haluros, con o sin otros cationes además de aluminio [2006.01]"
+  },
+  {
+    "code": "C01F 7/50",
+    "description": "••••Fluoruros [2006.01]"
+  },
+  {
+    "code": "C01F 7/52",
+    "description": "••••••Compuestos dobles que contienen tanto flúor como otros grupos haluros [2006.01]"
+  },
+  {
+    "code": "C01F 7/54",
+    "description": "••••••Compuestos dobles que contienen tanto aluminio como metales alcalinos o alcalinotérreos [2006.01]"
+  },
+  {
+    "code": "C01F 7/56",
+    "description": "••••Cloruros (que contienen flúor C01F 7/52) [2022.01]"
+  },
+  {
+    "code": "C01F 7/57",
+    "description": "••••••Cloruros de aluminio básicos, p. ej.  cloruros de polialuminio [2022.01]"
+  },
+  {
+    "code": "C01F 7/58",
+    "description": "••••••Preparación del cloruro de aluminio anhidro [2006.01]"
+  },
+  {
+    "code": "C01F 7/60",
+    "description": "••••••••a partir de compuestos de aluminio que contienen oxígeno [2006.01]"
+  },
+  {
+    "code": "C01F 7/62",
+    "description": "••••••Purificación [2006.01]"
+  },
+  {
+    "code": "C01F 7/64",
+    "description": "••••Bromuros (que contienen flúor C01F 7/52) [2006.01]"
+  },
+  {
+    "code": "C01F 7/66",
+    "description": "••Nitratos, con o sin otros cationes además de aluminio [2006.01]"
+  },
+  {
+    "code": "C01F 7/68",
+    "description": "••Compuestos de aluminio que contienen azufre [2006.01]"
+  },
+  {
+    "code": "C01F 7/70",
+    "description": "••••Sulfuros [2006.01]"
+  },
+  {
+    "code": "C01F 7/72",
+    "description": "••••Sulfitos [2006.01]"
+  },
+  {
+    "code": "C01F 7/74",
+    "description": "••••Sulfatos [2022.01]"
+  },
+  {
+    "code": "C01F 7/741",
+    "description": "••••••Preparación a partir de aluminio elemental o de materiales que contienen aluminio elemental, p. ej.  papel de aluminio o escoria [2022.01]"
+  },
+  {
+    "code": "C01F 7/743",
+    "description": "••••••Preparación a partir de materiales silicoaluminosos, p. ej. arcillas o bauxita [2022.01]"
+  },
+  {
+    "code": "C01F 7/745",
+    "description": "••••••Preparación a partir de alumbre, p. ej. alunita [2022.01]"
+  },
+  {
+    "code": "C01F 7/746",
+    "description": "••••••Tratamiento posterior, p. ej. deshidratación o estabilización [2022.01]"
+  },
+  {
+    "code": "C01F 7/748",
+    "description": "••••••••Purificación [2022.01]"
+  },
+  {
+    "code": "C01F 7/76",
+    "description": "••••••Sales dobles, es decir, compuestos que contienen, además de iones de aluminio y sulfato, sólo otros cationes, p. ej. alumbre [2022.01]"
+  },
+  {
+    "code": "C01F 7/762",
+    "description": "••••••••Sulfatos de amonio o de aluminio de metales alcalinos [2022.01]"
+  },
+  {
+    "code": "C01F 7/765",
+    "description": "••••••••••Sulfatos de aluminio y amonio [2022.01]"
+  },
+  {
+    "code": "C01F 7/767",
+    "description": "••••••••Sulfatos de aluminio de metales alcalinotérreos [2022.01]"
+  },
+  {
+    "code": "C01F 7/77",
+    "description": "••Carbonatos de aluminio [2022.01]"
+  },
+  {
+    "code": "C01F 7/78",
+    "description": "••Compuestos que contienen aluminio y dos o más elementos, con excepción del oxígeno y el hidrógeno (aluminatos C01F 7/02; compuestos que contienen aluminio, flúor y metales alcalinos o alcalinotérreos C01F 7/54; nitratos que contienen otros cationes además del aluminio C01F 7/66; sulfuros, sulfitos o sulfatos que contienen otros cationes además del aluminio C01F 7/70-C01F 7/74) [2022.01]"
+  },
+  {
+    "code": "C01F 7/782",
+    "description": "••••que contienen iones de carbonato, p. ej. la dawsonita [2022.01]"
+  },
+  {
+    "code": "C01F 7/784",
+    "description": "••••Doble hidróxido estratificado, p. ej. con iones nitrato, sulfato o carbonato como aniones intercalantes [2022.01]"
+  },
+  {
+    "code": "C01F 7/785",
+    "description": "••••••Hidrotalcita [2022.01]"
+  },
+  {
+    "code": "C01F 7/786",
+    "description": "••••que contienen, además de aluminio, sólo aniones, p. ej. Al[OH]xCly[SO4]z (haluros mixtos C01F 7/48) [2022.01]"
+  },
+  {
+    "code": "C01F 7/788",
+    "description": "••••Fluoruros de aluminio y amonio, p. ej. hexafluoroaluminato de amonio [2022.01]"
+  },
+  {
+    "code": "C01F 11/00",
+    "description": "Compuestos de calcio, estroncio o bario (C01F 7/00 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "C01F 11/02",
+    "description": "••Oxidos o hidróxidos (producción de cal C04B 2/00) [2006.01]"
+  },
+  {
+    "code": "C01F 11/04",
+    "description": "••••por descomposición térmica [2006.01]"
+  },
+  {
+    "code": "C01F 11/06",
+    "description": "••••••de carbonatos [2006.01]"
+  },
+  {
+    "code": "C01F 11/08",
+    "description": "••••por reducción de sulfatos [2006.01]"
+  },
+  {
+    "code": "C01F 11/10",
+    "description": "••••a partir de sulfuros [2006.01]"
+  },
+  {
+    "code": "C01F 11/12",
+    "description": "••••a partir de silicatos [2006.01]"
+  },
+  {
+    "code": "C01F 11/16",
+    "description": "••••Purificación [2006.01]"
+  },
+  {
+    "code": "C01F 11/18",
+    "description": "••Carbonatos [2006.01]"
+  },
+  {
+    "code": "C01F 11/20",
+    "description": "••Haluros [2006.01]"
+  },
+  {
+    "code": "C01F 11/22",
+    "description": "••••Fluoruros [2006.01]"
+  },
+  {
+    "code": "C01F 11/24",
+    "description": "••••Cloruros [2006.01]"
+  },
+  {
+    "code": "C01F 11/26",
+    "description": "••••••a partir de sulfuros [2006.01]"
+  },
+  {
+    "code": "C01F 11/28",
+    "description": "••••••por cloración de compuestos de metales alcalinotérreos [2006.01]"
+  },
+  {
+    "code": "C01F 11/30",
+    "description": "••••••Concentración; Deshidratación; Prevención de la adsorción de humedad o la formación de costras [2006.01]"
+  },
+  {
+    "code": "C01F 11/32",
+    "description": "••••••Purificación [2006.01]"
+  },
+  {
+    "code": "C01F 11/34",
+    "description": "••••Bromuros [2006.01]"
+  },
+  {
+    "code": "C01F 11/36",
+    "description": "••Nitratos [2006.01]"
+  },
+  {
+    "code": "C01F 11/38",
+    "description": "••••Preparación con acido nítrico u óxidos de nitrógeno [2006.01]"
+  },
+  {
+    "code": "C01F 11/40",
+    "description": "••••Preparación por doble descomposición con nitratos [2006.01]"
+  },
+  {
+    "code": "C01F 11/42",
+    "description": "••••Sales dobles (con magnesio C01F 5/38) [2006.01]"
+  },
+  {
+    "code": "C01F 11/44",
+    "description": "••••Concentración; Cristalización; Deshidratación; Prevención de la adsorción de humedad o formación de costras [2006.01]"
+  },
+  {
+    "code": "C01F 11/46",
+    "description": "••Sulfatos (deshidratación del yeso C04B 11/02) [2006.01]"
+  },
+  {
+    "code": "C01F 11/48",
+    "description": "••Sulfitos [2006.01]"
+  },
+  {
+    "code": "C01F 13/00",
+    "description": "Compuestos de radio [2006.01]"
+  },
+  {
+    "code": "C01F 15/00",
+    "description": "Compuestos de torio [2006.01]"
+  },
+  {
+    "code": "C01F 17/00",
+    "description": "Compuestos de los metales de tierras raras [2020.01]"
+  },
+  {
+    "code": "C01F 17/10",
+    "description": "••Preparación o tratamiento, p. ej. separación o purificación [2020.01]"
+  },
+  {
+    "code": "C01F 17/13",
+    "description": "••••mediante el uso de resinas con intercambio de iones, p. ej. resinas quelatadas [2020.01]"
+  },
+  {
+    "code": "C01F 17/17",
+    "description": "••••que implica una extracción líquido-líquido [2020.01]"
+  },
+  {
+    "code": "C01F 17/20",
+    "description": "••Compuestos que contienen solo metales de tierras raras como elemento metálico. [2020.01]"
+  },
+  {
+    "code": "C01F 17/206",
+    "description": "••••donde el óxido o el hidróxido es el único anión [2020.01]"
+  },
+  {
+    "code": "C01F 17/212",
+    "description": "••••••Óxidos o hidróxidos de escandio [2020.01]"
+  },
+  {
+    "code": "C01F 17/218",
+    "description": "••••••Óxidos o hidróxidos de itrio [2020.01]"
+  },
+  {
+    "code": "C01F 17/224",
+    "description": "••••••Óxidos o hidróxidos de lantánidos [2020.01]"
+  },
+  {
+    "code": "C01F 17/229",
+    "description": "••••••••Óxidos o hidróxidos de lantano [2020.01]"
+  },
+  {
+    "code": "C01F 17/235",
+    "description": "••••••••Óxidos o hidróxidos de cerio [2020.01]"
+  },
+  {
+    "code": "C01F 17/241",
+    "description": "••••••que contiene dos o más metales de tierras raras, p. ej. NdPrO3 o LaNdPrO3 [2020.01]"
+  },
+  {
+    "code": "C01F 17/247",
+    "description": "••••Carbonatos [2020.01]"
+  },
+  {
+    "code": "C01F 17/253",
+    "description": "••••Halogenuros [2020.01]"
+  },
+  {
+    "code": "C01F 17/259",
+    "description": "••••••Oxihalogenuros [2020.01]"
+  },
+  {
+    "code": "C01F 17/265",
+    "description": "••••••Fluoruros [2020.01]"
+  },
+  {
+    "code": "C01F 17/271",
+    "description": "••••••Cloruros [2020.01]"
+  },
+  {
+    "code": "C01F 17/276",
+    "description": "••••Nitratos [2020.01]"
+  },
+  {
+    "code": "C01F 17/282",
+    "description": "••••Sulfatos [2020.01]"
+  },
+  {
+    "code": "C01F 17/288",
+    "description": "••••Sulfuros [2020.01]"
+  },
+  {
+    "code": "C01F 17/294",
+    "description": "••••••Oxisulfuros [2020.01]"
+  },
+  {
+    "code": "C01F 17/30",
+    "description": "••Compuestos que contienen metales de tierras raras y al menos otro elemento distinto de un metal de tierras raras, oxígeno o hidrógeno, p. ej. La4S3Br6 (C01F 17/247-C01F 17/294 tienen prioridad) [2020.01]"
+  },
+  {
+    "code": "C01F 17/32",
+    "description": "••••en el que el óxido o hidróxido es el único anión, p. ej. NaCeO2 o MgxCayEuO [2020.01]"
+  },
+  {
+    "code": "C01F 17/34",
+    "description": "••••••Aluminatos, p. ej. YAIO3 o Y3-xGdxAl5O12 [2020.01]"
+  },
+  {
+    "code": "C01F 17/36",
+    "description": "••••en el que el halógeno es el único anión, p. ej. NaYF4 [2020.01]"
+  },
+  {
+    "code": "C01F 17/38",
+    "description": "••••en el que el sulfuro es el único anión, p.ej. CaLa2S4 [2020.01]"
+  }
+]

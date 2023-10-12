@@ -1,0 +1,558 @@
+[
+  {
+    "code": "F24S 10/00",
+    "description": "Colectores termosolares que utilizan fluidos de trabajo [2018.01]"
+  },
+  {
+    "code": "F24S 10/10",
+    "description": "••formando los fluidos de trabajo piscinas o estanques [2018.01]"
+  },
+  {
+    "code": "F24S 10/13",
+    "description": "••••Estanques con gradiente de sal [2018.01]"
+  },
+  {
+    "code": "F24S 10/17",
+    "description": "••••que utilizan cubiertas o elementos de absorción solar flotantes [2018.01]"
+  },
+  {
+    "code": "F24S 10/20",
+    "description": "••que tienen circuitos para dos o mas fluidos de trabajo (con medios para el intercambio de calor entre dos o mas fluidos F24S 10/30) [2018.01]"
+  },
+  {
+    "code": "F24S 10/25",
+    "description": "••que tienen dos o mas pasos para el mismo fluido de trabajo apilados en la dirección de los rayos solares, p. ej. canales de circulación superiores conectados con canales de circulación inferiores [2018.01]"
+  },
+  {
+    "code": "F24S 10/30",
+    "description": "••con medios para el intercambio de calor entre dos o más fluidos de trabajo [2018.01]"
+  },
+  {
+    "code": "F24S 10/40",
+    "description": "••en elementos de absorción rodeados por recintos transparentes, p. ej. colectores termosolares evacuados [2018.01]"
+  },
+  {
+    "code": "F24S 10/50",
+    "description": "••siendo transportados los fluidos de trabajo entre placas [2018.01]"
+  },
+  {
+    "code": "F24S 10/55",
+    "description": "••••con superficies ampliadas, p. ej. con salientes u ondulaciones (colectores que comprenden materiales porosos o masas permeables que hacen contacto directamente con los fluidos de trabajo F24S 10/80) [2018.01]"
+  },
+  {
+    "code": "F24S 10/60",
+    "description": "••goteando libremente los fluidos de trabajo sobre elementos de absorción [2018.01]"
+  },
+  {
+    "code": "F24S 10/70",
+    "description": "••siendo transportados los fluidos de trabajo a través de conductos de absorción tubulares [2018.01]"
+  },
+  {
+    "code": "F24S 10/75",
+    "description": "••••con superficies ampliadas, p. ej. con salientes u ondulaciones (colectores que comprenden materiales porosos o masas permeables que hacen contacto directamente con los fluidos de trabajo F24S 10/80) [2018.01]"
+  },
+  {
+    "code": "F24S 10/80",
+    "description": "••que comprenden materiales porosos o masas permeables que hacen contacto directamente con los fluidos de trabajo (para transportar fluido de trabajo licuado de secciones del evaporador a secciones del condensador con fuerza capilar F24S 10/95) [2018.01]"
+  },
+  {
+    "code": "F24S 10/90",
+    "description": "••utilizando circulación termosifónica interna [2018.01]"
+  },
+  {
+    "code": "F24S 10/95",
+    "description": "••••con secciones de evaporador y secciones de condensador, p. ej. tuberías de calor [2018.01]"
+  },
+  {
+    "code": "F24S 20/00",
+    "description": "Colectores termosolares adaptados especialmente para usos o entornos particulares [2018.01]"
+  },
+  {
+    "code": "F24S 20/20",
+    "description": "••Colectores termosolares para recibir energía solar concentrada, p. ej. receptores para centrales de energía solar [2018.01]"
+  },
+  {
+    "code": "F24S 20/25",
+    "description": "••••que utilizan la radiación solar directa en combinación con radiación concentrada [2018.01]"
+  },
+  {
+    "code": "F24S 20/30",
+    "description": "••Colectores termosolares para calentar objetos, p. ej. cocinas solares u hornos solares [2018.01]"
+  },
+  {
+    "code": "F24S 20/40",
+    "description": "••Colectores termosolares combinados con otras fuentes de calor, p. ej. utilizando calentamiento eléctrico o calor del aire ambiental [2018.01]"
+  },
+  {
+    "code": "F24S 20/50",
+    "description": "••Módulos de colector termosolar enrollables o plegables [2018.01]"
+  },
+  {
+    "code": "F24S 20/55",
+    "description": "••••fabricados de materiales flexibles [2018.01]"
+  },
+  {
+    "code": "F24S 20/60",
+    "description": "••Colectores termosolares integrados en construcciones fijas, p. ej. en edificios [2018.01]"
+  },
+  {
+    "code": "F24S 20/61",
+    "description": "••••Colectores termosolares pasivos, p. ej. operados sin fuentes de energía externas [2018.01]"
+  },
+  {
+    "code": "F24S 20/62",
+    "description": "••••en forma de cercas, balaustradas o pasamanos [2018.01]"
+  },
+  {
+    "code": "F24S 20/63",
+    "description": "••••en forma de ventanas [2018.01]"
+  },
+  {
+    "code": "F24S 20/64",
+    "description": "••••en forma de construcciones de pavimento, suelos o carreteras [2018.01]"
+  },
+  {
+    "code": "F24S 20/66",
+    "description": "••••en forma de construcciones de fachada, p. ej. construcciones de muros (en forma de tejas o baldosas F24S 20/69) [2018.01]"
+  },
+  {
+    "code": "F24S 20/67",
+    "description": "••••en forma de construcciones de tejado (en forma de tejas o baldosas F24S 20/69) [2018.01]"
+  },
+  {
+    "code": "F24S 20/69",
+    "description": "••••en forma de tejas o baldosas [2018.01]"
+  },
+  {
+    "code": "F24S 20/70",
+    "description": "••Módulos de colector termosolar transportados por el agua (para fluidos de trabajo que forman piscinas o estanques F24S 10/10) [2018.01]"
+  },
+  {
+    "code": "F24S 20/80",
+    "description": "••Módulos de colector termosolar transportados por el aire, p. ej. estructuras inflables [2018.01]"
+  },
+  {
+    "code": "F24S 21/00",
+    "description": "Colectores termosolares no previstos en los grupos F24S 10/00-F24S 20/00 [2018.01]"
+  },
+  {
+    "code": "F24S 23/00",
+    "description": "Disposiciones para concentrar rayos solares para colectores termosolares [2018.01]"
+  },
+  {
+    "code": "F24S 23/30",
+    "description": "••con lentes [2018.01]"
+  },
+  {
+    "code": "F24S 23/70",
+    "description": "••con reflectores [2018.01]"
+  },
+  {
+    "code": "F24S 23/71",
+    "description": "••••con superficies reflectoras parabólicas (con superficies reflectoras cilindroparabólicas F24S 23/74) [2018.01]"
+  },
+  {
+    "code": "F24S 23/72",
+    "description": "••••con superficies reflectoras hemisféricas [2018.01]"
+  },
+  {
+    "code": "F24S 23/74",
+    "description": "••••con superficies reflectoras en forma de artesa o cilindroparabólicas [2018.01]"
+  },
+  {
+    "code": "F24S 23/75",
+    "description": "••••con superficies reflectoras cónicas [2018.01]"
+  },
+  {
+    "code": "F24S 23/77",
+    "description": "••••con placas reflectoras planas [2018.01]"
+  },
+  {
+    "code": "F24S 23/79",
+    "description": "••••con superficies reflectoras separadas y enfrentadas que interaccionan [2018.01]"
+  },
+  {
+    "code": "F24S 25/00",
+    "description": "Disposiciones de monturas o soportes estacionarios para módulos de colector termosolar [2018.01]"
+  },
+  {
+    "code": "F24S 25/10",
+    "description": "••que se prolongan en sentidos que se alejan de una superficie de soporte [2018.01]"
+  },
+  {
+    "code": "F24S 25/11",
+    "description": "••••que utilizan cuerpos conformados, p. ej. elementos de hormigón, elementos espumados o elementos moldeados en forma de caja [2018.01]"
+  },
+  {
+    "code": "F24S 25/12",
+    "description": "••••que utilizan postes en combinación con perfiles superiores [2018.01]"
+  },
+  {
+    "code": "F24S 25/13",
+    "description": "••••Disposiciones de perfiles, p. ej. montantes (F24S 25/12 tiene prioridad) [2018.01]"
+  },
+  {
+    "code": "F24S 25/15",
+    "description": "••••que utilizan placas curvadas; que utilizan conjuntos de placas [2018.01]"
+  },
+  {
+    "code": "F24S 25/16",
+    "description": "••••Disposición de estructuras erectas interconectadas; estructuras erectas que tienen partes de soporte distintas para módulos contiguos [2018.01]"
+  },
+  {
+    "code": "F24S 25/20",
+    "description": "••Bastidores periféricos para módulos [2018.01]"
+  },
+  {
+    "code": "F24S 25/30",
+    "description": "••que utilizan elementos de montaje alargados rígidos que se prolongan sustancialmente a lo largo de la superficie de montaje, p. ej. para cubrir edificios con colectores solares (que se prolongan en sentidos que se alejan de la superficie de soporte F24S 25/10; bastidores periféricos para módulos F24S 25/20) [2018.01]"
+  },
+  {
+    "code": "F24S 25/33",
+    "description": "••••que forman conjuntos sustancialmente planos, p. ej. de perfiles coplanarios o apilados [2018.01]"
+  },
+  {
+    "code": "F24S 25/35",
+    "description": "••••••por medio de perfiles con una sección transversal que define partes de soporte separadas para módulos contiguos [2018.01]"
+  },
+  {
+    "code": "F24S 25/37",
+    "description": "••••••que forman enrejados coplanarios que comprenden perfiles longitudinales y transversales [2018.01]"
+  },
+  {
+    "code": "F24S 25/40",
+    "description": "••que utilizan elementos de montaje en forma de placa, p. ej. placas perfiladas o corrugadas; bastidores de modulo similares a placas (que se prolongan en sentidos que se alejan de la superficie de soporte F24S 25/10) [2018.01]"
+  },
+  {
+    "code": "F24S 25/50",
+    "description": "••que comprenden elementos alargados no rígidos, p. ej. correas, cables o sogas [2018.01]"
+  },
+  {
+    "code": "F24S 25/60",
+    "description": "••Medios de fijación, p. ej. fijaciones, adaptados especialmente para soportar módulos de colector termosolar [2018.01]"
+  },
+  {
+    "code": "F24S 25/61",
+    "description": "••••para su fijación al suelo o a estructuras de edificios [2018.01]"
+  },
+  {
+    "code": "F24S 25/613",
+    "description": "••••••en forma de tiras curvadas o conjuntos de tiras; conectores a modo de gancho; conectores para su montaje entre elementos de recubrimiento de edificios [2018.01]"
+  },
+  {
+    "code": "F24S 25/615",
+    "description": "••••••para su fijación a partes sobresalientes de edificios, p. ej. a ondulaciones o juntas derechas [2018.01]"
+  },
+  {
+    "code": "F24S 25/617",
+    "description": "••••••Elementos introducidos en el suelo, p. ej. pilares de anclaje; cimentaciones para elementos de soporte; conectores para conectar estructuras de soporte al suelo o a superficies horizontales planas [2018.01]"
+  },
+  {
+    "code": "F24S 25/63",
+    "description": "••••para fijar módulos o sus bastidores periféricos a elementos de soporte [2018.01]"
+  },
+  {
+    "code": "F24S 25/632",
+    "description": "••••••Conectores laterales; conectores de base [2018.01]"
+  },
+  {
+    "code": "F24S 25/634",
+    "description": "••••••Bridas; pinzas [2018.01]"
+  },
+  {
+    "code": "F24S 25/636",
+    "description": "••••••••fijación mediante elementos roscados [2018.01]"
+  },
+  {
+    "code": "F24S 25/65",
+    "description": "••••para acoplar elementos de soporte contiguos, p. ej. para conectar perfiles entre sí [2018.01]"
+  },
+  {
+    "code": "F24S 25/67",
+    "description": "••••para acoplar módulos contiguos o sus bastidores periféricos (para fijar módulos o sus bastidores periféricos a elementos de soporte F24S 25/63) [2018.01]"
+  },
+  {
+    "code": "F24S 25/70",
+    "description": "••con medios para ajustar la posición u orientación finales de los elementos de soporte relativamente entre sí o a una superficie de montaje; con medios para compensar tolerancias de montaje [2018.01]"
+  },
+  {
+    "code": "F24S 30/00",
+    "description": "Disposiciones para mover u orientar módulos de colector termosolar [2018.01]"
+  },
+  {
+    "code": "F24S 30/20",
+    "description": "••para movimiento lineal [2018.01]"
+  },
+  {
+    "code": "F24S 30/40",
+    "description": "••para movimiento giratorio [2018.01]"
+  },
+  {
+    "code": "F24S 30/42",
+    "description": "••••con un único eje de giro [2018.01]"
+  },
+  {
+    "code": "F24S 30/422",
+    "description": "••••••eje vertical [2018.01]"
+  },
+  {
+    "code": "F24S 30/425",
+    "description": "••••••eje horizontal [2018.01]"
+  },
+  {
+    "code": "F24S 30/428",
+    "description": "••••••con un eje inclinado [2018.01]"
+  },
+  {
+    "code": "F24S 30/45",
+    "description": "••••con dos ejes de giro [2018.01]"
+  },
+  {
+    "code": "F24S 30/452",
+    "description": "••••••con un eje vertical primario [2018.01]"
+  },
+  {
+    "code": "F24S 30/455",
+    "description": "••••••con un eje horizontal primario [2018.01]"
+  },
+  {
+    "code": "F24S 30/458",
+    "description": "••••••con un eje inclinado primario [2018.01]"
+  },
+  {
+    "code": "F24S 30/48",
+    "description": "••••con tres o mas ejes de giro o con múltiples grados de libertad [2018.01]"
+  },
+  {
+    "code": "F24S 40/00",
+    "description": "Disposiciones de seguridad o protección de colectores termosolares; prevención de fallos de colectores termosolares (disposicione s de control F24S 50/00) [2018.01]"
+  },
+  {
+    "code": "F24S 40/10",
+    "description": "••Cubiertas o pantallas protectoras; elementos de cierre, p. ej. tapas (recubrimientos transparentes F24S 80/50) [2018.01]"
+  },
+  {
+    "code": "F24S 40/20",
+    "description": "••Limpieza; retirada de la nieve [2018.01]"
+  },
+  {
+    "code": "F24S 40/40",
+    "description": "••Prevención de la corrosión; protección frente a suciedad o contaminación [2018.01]"
+  },
+  {
+    "code": "F24S 40/42",
+    "description": "••••Prevención de la condensación en el interior de módulos solares (por venteo F24S 40/53) [2018.01]"
+  },
+  {
+    "code": "F24S 40/44",
+    "description": "••••Drenaje de agua de lluvia o condensación [2018.01]"
+  },
+  {
+    "code": "F24S 40/46",
+    "description": "••••Mantenimiento del vacío, p. ej. usando desgaseadores [2018.01]"
+  },
+  {
+    "code": "F24S 40/48",
+    "description": "••••Desaireación o desgasificación del fluido de trabajo [2018.01]"
+  },
+  {
+    "code": "F24S 40/50",
+    "description": "••Prevención del sobrecalentamiento o de la sobrepresión (mediante el drenaje del fluido de trabajo F24S 40/60) [2018.01]"
+  },
+  {
+    "code": "F24S 40/52",
+    "description": "••••modificando la captura de calor, p. ej. desenfocando o cambiando la posición de los elementos de recepción de calor [2018.01]"
+  },
+  {
+    "code": "F24S 40/53",
+    "description": "••••ventilando los recintos del colector termosolar [2018.01]"
+  },
+  {
+    "code": "F24S 40/55",
+    "description": "••••Disposiciones para el enfriamiento, p. ej. mediante la utilización de medios externos para la disipación del calor o de circuitos de refrigeración internos (por venteo F24S 40/53) [2018.01]"
+  },
+  {
+    "code": "F24S 40/57",
+    "description": "••••Prevención de la sobrepresión en recintos de colectores termosolares (por venteo F24S 40/53) [2018.01]"
+  },
+  {
+    "code": "F24S 40/58",
+    "description": "••••Prevención de la sobrepresión en circuitos de fluido de trabajo [2018.01]"
+  },
+  {
+    "code": "F24S 40/60",
+    "description": "••Disposiciones para el drenaje del fluido de trabajo [2018.01]"
+  },
+  {
+    "code": "F24S 40/70",
+    "description": "••Prevención de la congelación (disposiciones para el drenaje del fluido de trabajo F24S 40/60) [2018.01]"
+  },
+  {
+    "code": "F24S 40/80",
+    "description": "••Adaptación de la expansión diferencial de los elementos del colector termosolar [2018.01]"
+  },
+  {
+    "code": "F24S 40/90",
+    "description": "••Disposiciones para la comprobación de colectores termosolares [2018.01]"
+  },
+  {
+    "code": "F24S 50/00",
+    "description": "Disposiciones para el control de colectores termosolares [2018.01]"
+  },
+  {
+    "code": "F24S 50/20",
+    "description": "••para el seguimiento [2018.01]"
+  },
+  {
+    "code": "F24S 50/40",
+    "description": "••en respuesta a la temperatura [2018.01]"
+  },
+  {
+    "code": "F24S 50/60",
+    "description": "••en respuesta al viento [2018.01]"
+  },
+  {
+    "code": "F24S 50/80",
+    "description": "••para el control de la captura o absorción de radiación solar [2018.01]"
+  },
+  {
+    "code": "F24S 60/00",
+    "description": "Disposiciones para acumular el calor capturado por colectores termosolares (en fluidos de trabajo que forman piscinas o estanques F24S 10/10) [2018.01]"
+  },
+  {
+    "code": "F24S 60/10",
+    "description": "••utilizando calor latente [2018.01]"
+  },
+  {
+    "code": "F24S 60/20",
+    "description": "••utilizando reacciones químicas, p. ej. reacciones termoquímicas o reacciones de isomerización [2018.01]"
+  },
+  {
+    "code": "F24S 60/30",
+    "description": "••acumulación de calor en liquidos [2018.01]"
+  },
+  {
+    "code": "F24S 70/00",
+    "description": "Detalles de los elementos absorbentes [2018.01]"
+  },
+  {
+    "code": "F24S 70/10",
+    "description": "••caracterizados por el material absorbente (recubrimientos absorbentes o tratamientos superficiales para aumentar la absorción F24S 70/20) [2018.01]"
+  },
+  {
+    "code": "F24S 70/12",
+    "description": "••••fabricados de material metálico [2018.01]"
+  },
+  {
+    "code": "F24S 70/14",
+    "description": "••••fabricados de plástico [2018.01]"
+  },
+  {
+    "code": "F24S 70/16",
+    "description": "••••fabricados de cerámica; fabricados de hormigón; fabricados de piedra natural [2018.01]"
+  },
+  {
+    "code": "F24S 70/20",
+    "description": "••caracterizados por recubrimientos absorbentes; caracterizados por tratamientos superficiales para aumentar la absorción [2018.01]"
+  },
+  {
+    "code": "F24S 70/225",
+    "description": "••••para absorción espectral selectiva [2018.01]"
+  },
+  {
+    "code": "F24S 70/25",
+    "description": "••••Recubrimientos fabricados de material metálico [2018.01]"
+  },
+  {
+    "code": "F24S 70/275",
+    "description": "••••Recubrimientos fabricados de plastico [2018.01]"
+  },
+  {
+    "code": "F24S 70/30",
+    "description": "••Recubrimientos auxiliares, p. ej. recubrimientos antirreflectantes [2018.01]"
+  },
+  {
+    "code": "F24S 70/60",
+    "description": "••caracterizados por la estructura o construcción (recubrimientos absorbentes o tratamientos superficiales para aumentar la absorción F24S 70/20; recubrimientos auxiliares F24S 70/30) [2018.01]"
+  },
+  {
+    "code": "F24S 70/65",
+    "description": "••••Combinaciones de dos o más elementos absorbentes [2018.01]"
+  },
+  {
+    "code": "F24S 80/00",
+    "description": "Detalles, accesorios o partes componentes de colectores termosolares no previstos en los grupos F24S 10/00-F24S 70/00 [2018.01]"
+  },
+  {
+    "code": "F24S 80/10",
+    "description": "••Materiales para los conductos de intercambio de calor [2018.01]"
+  },
+  {
+    "code": "F24S 80/20",
+    "description": "••Fluidos de trabajo especialmente adaptados para colectores termosolares [2018.01]"
+  },
+  {
+    "code": "F24S 80/30",
+    "description": "••Disposiciones para conectar entre sí o con otro componente los circuitos de fluido de colectores termosolares, p. ej. conexiones de tuberías; medios de distribución de fluido, p. ej. colectores [2018.01]"
+  },
+  {
+    "code": "F24S 80/40",
+    "description": "••Carcasas [2018.01]"
+  },
+  {
+    "code": "F24S 80/45",
+    "description": "••••caracterizadas por el material [2018.01]"
+  },
+  {
+    "code": "F24S 80/453",
+    "description": "••••••fabricadas de material metálico [2018.01]"
+  },
+  {
+    "code": "F24S 80/457",
+    "description": "••••••fabricadas de plástico [2018.01]"
+  },
+  {
+    "code": "F24S 80/50",
+    "description": "••Cubiertas transparentes; elementos para transmitir los rayos solares entrantes y evitar la radiación de calor hacia fuera [2018.01]"
+  },
+  {
+    "code": "F24S 80/52",
+    "description": "••••caracterizadas por el material (para prevenir las pérdidas calóricas F24S 80/56) [2018.01]"
+  },
+  {
+    "code": "F24S 80/525",
+    "description": "••••••fabricadas de plástico [2018.01]"
+  },
+  {
+    "code": "F24S 80/54",
+    "description": "••••que utilizan elementos evacuados [2018.01]"
+  },
+  {
+    "code": "F24S 80/56",
+    "description": "••••caracterizadas por medios para prevenir las pérdidas calóricas [2018.01]"
+  },
+  {
+    "code": "F24S 80/58",
+    "description": "••••caracterizadas por sus monturas o medios de fijación [2018.01]"
+  },
+  {
+    "code": "F24S 80/60",
+    "description": "••Aislamiento térmico (cubiertas transparentes F24S 80/50) [2018.01]"
+  },
+  {
+    "code": "F24S 80/65",
+    "description": "••••caracterizado por el material [2018.01]"
+  },
+  {
+    "code": "F24S 80/70",
+    "description": "••Medios de sellado [2018.01]"
+  },
+  {
+    "code": "F24S 90/00",
+    "description": "Sistemas termosolares no previstos en otro lugar [2018.01]"
+  },
+  {
+    "code": "F24S 90/10",
+    "description": "••que utilizan circulación termosifónica [2018.01]"
+  }
+]

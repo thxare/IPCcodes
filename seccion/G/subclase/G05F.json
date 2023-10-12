@@ -1,0 +1,334 @@
+[
+  {
+    "code": "G05F 1/00",
+    "description": "Sistemas automáticos en los que las desviaciones de una magnitud eléctrica en relación a uno o a varios valores predeterminados son detectadas a la salida y reintroducidas en un dispositivo interior al sistema para llevar el valor detectado a su valor o a sus valores predeterminados, es decir, sistemas retroactivos [2006.01]"
+  },
+  {
+    "code": "G05F 1/02",
+    "description": "••Regulación de características eléctricas de arcos (disposiciones para alimentación o desplazamiento de electrodos para el soldado o el corte por arco en líneas continuas o por puntos B23K 9/12; disposiciones para el avance de electrodos, para calefacción, por descarga eléctrica o iluminación eléctrica H05B 7/109, H05B 31/18; control automático de la potencia para la calefacción por descarga eléctrica H05B 7/148) [2006.01]"
+  },
+  {
+    "code": "G05F 1/04",
+    "description": "••••por medio de dispositivos de saturación magnética [2006.01]"
+  },
+  {
+    "code": "G05F 1/06",
+    "description": "••••por medio de tubos de descarga [2006.01]"
+  },
+  {
+    "code": "G05F 1/08",
+    "description": "••••por medio de dispositivos de semiconductores [2006.01]"
+  },
+  {
+    "code": "G05F 1/10",
+    "description": "••Regulación de la tensión o de la intensidad (G05F 1/02 tiene prioridad; para los ferrocarriles eléctricos B60M 3/02) [2006.01]"
+  },
+  {
+    "code": "G05F 1/12",
+    "description": "••••en donde la variable efectivamente regulada por el dispositivo de regulación final es alterna (G05F 1/625 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G05F 1/13",
+    "description": "••••••que utilizan transformadores ferrorresonantes como dispositivos de regulación final [2006.01]"
+  },
+  {
+    "code": "G05F 1/14",
+    "description": "••••••que utilizan transformadores de tomas o inductancias de cambio de tomas como dispositivos de regulación final [2006.01]"
+  },
+  {
+    "code": "G05F 1/147",
+    "description": "••••••••con un conmutador de tomas accionado por un motor [2006.01]"
+  },
+  {
+    "code": "G05F 1/153",
+    "description": "••••••••••controlado por dispositivos de tubos de descarga o de semiconductores [2006.01]"
+  },
+  {
+    "code": "G05F 1/16",
+    "description": "••••••••asociados a tubos de descarga o a dispositivos de semiconductores [2006.01]"
+  },
+  {
+    "code": "G05F 1/20",
+    "description": "••••••••••a dispositivos de semiconductores únicamente [2006.01]"
+  },
+  {
+    "code": "G05F 1/22",
+    "description": "••••••••asociados a dispositivos de control magnético independientes del grado de saturación regulable [2006.01]"
+  },
+  {
+    "code": "G05F 1/24",
+    "description": "••••••que utilizan transformadores montados en serie o en oposición como dispositivos regulación final [2006.01]"
+  },
+  {
+    "code": "G05F 1/247",
+    "description": "••••••••con un motor en el circuito de control [2006.01]"
+  },
+  {
+    "code": "G05F 1/253",
+    "description": "••••••••los transformadores incluyen varios arrollamientos en serie entre la fuente y la carga (G05F 1/247 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G05F 1/26",
+    "description": "••••••••asociados a tubos de descarga o a dispositivos de semiconductores [2006.01]"
+  },
+  {
+    "code": "G05F 1/30",
+    "description": "••••••••••a dispositivos de semiconductores únicamente [2006.01]"
+  },
+  {
+    "code": "G05F 1/32",
+    "description": "••••••que utilizan dispositivos magnéticos de grado de saturación regulable como dispositivos de regulación final [2006.01]"
+  },
+  {
+    "code": "G05F 1/325",
+    "description": "••••••••con un núcleo de estructura particular, p. ej. entrehierro, apertura, ranura, imán permanente [2006.01]"
+  },
+  {
+    "code": "G05F 1/33",
+    "description": "••••••••con varios arrollamientos que conducen la corriente a regular [2006.01]"
+  },
+  {
+    "code": "G05F 1/335",
+    "description": "••••••••••sobre diferentes núcleos [2006.01]"
+  },
+  {
+    "code": "G05F 1/34",
+    "description": "••••••••asociados a tubos de descarga o a dispositivos de semiconductores [2006.01]"
+  },
+  {
+    "code": "G05F 1/38",
+    "description": "••••••••••a dispositivos de semiconductores únicamente [2006.01]"
+  },
+  {
+    "code": "G05F 1/40",
+    "description": "••••••que utilizan tubos de descarga o dispositivos de semiconductores como dispositivos de regulación final [2006.01]"
+  },
+  {
+    "code": "G05F 1/42",
+    "description": "••••••••a tubos de descarga únicamente [2006.01]"
+  },
+  {
+    "code": "G05F 1/44",
+    "description": "••••••••a dispositivos de semiconductores únicamente [2006.01]"
+  },
+  {
+    "code": "G05F 1/445",
+    "description": "••••••••••constituidos por transistores en serie con la carga [2006.01]"
+  },
+  {
+    "code": "G05F 1/45",
+    "description": "••••••••••constituidos por rectificadores controlados en serie con la carga [2006.01]"
+  },
+  {
+    "code": "G05F 1/455",
+    "description": "••••••••••••con control de la fase [2006.01]"
+  },
+  {
+    "code": "G05F 1/46",
+    "description": "••••en donde la variable efectivamente regulada por el dispositivo de regulación final es continua (G05F 1/625 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G05F 1/52",
+    "description": "••••••que utilizan tubos de descarga en serie con la carga como dispositivos de regulación final [2006.01]"
+  },
+  {
+    "code": "G05F 1/54",
+    "description": "••••••••con control suplementario por la alimentación no regulada [2006.01]"
+  },
+  {
+    "code": "G05F 1/56",
+    "description": "••••••que utilizan dispositivos semiconductores en serie con la carga como dispositivos de regulación final [2006.01]"
+  },
+  {
+    "code": "G05F 1/563",
+    "description": "••••••••con dos niveles de regulación, uno de los cuales al menos es sensible al nivel de salida, p. ej. regulación basta y fina [2006.01]"
+  },
+  {
+    "code": "G05F 1/565",
+    "description": "••••••••sensible a una condición del sistema o de su carga además de medios sensibles a las desviaciones de la salida del sistema, p. ej. corriente, tensión, factor de potencia (G05F 1/563 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G05F 1/567",
+    "description": "••••••••••para compensación de temperatura [2006.01]"
+  },
+  {
+    "code": "G05F 1/569",
+    "description": "••••••••••con fines de protección [2006.01]"
+  },
+  {
+    "code": "G05F 1/571",
+    "description": "••••••••••••con detector de sobretensión [2006.01]"
+  },
+  {
+    "code": "G05F 1/573",
+    "description": "••••••••••••con detector de sobreintensidad [2006.01]"
+  },
+  {
+    "code": "G05F 1/575",
+    "description": "••••••••caracterizado por el circuito de retroacción [2006.01]"
+  },
+  {
+    "code": "G05F 1/577",
+    "description": "••••••••por cargas múltiples [2006.01]"
+  },
+  {
+    "code": "G05F 1/585",
+    "description": "••••••••••que suministran tensiones de polaridades opuestas [2006.01]"
+  },
+  {
+    "code": "G05F 1/59",
+    "description": "••••••••con varios dispositivos semiconductores como dispositivos de regulación final para una carga única [2006.01]"
+  },
+  {
+    "code": "G05F 1/595",
+    "description": "••••••••••Dispositivos semiconductores conectados en serie [2006.01]"
+  },
+  {
+    "code": "G05F 1/607",
+    "description": "••••••que utilizan tubos de descarga en paralelo con la carga como dispositivos de regulación final [2006.01]"
+  },
+  {
+    "code": "G05F 1/61",
+    "description": "••••••••con dos niveles de regulación, uno de los cuales al menos es sensible al nivel de salida [2006.01]"
+  },
+  {
+    "code": "G05F 1/613",
+    "description": "••••••que utilizan dispositivos semiconductores en paralelo con la carga como dispositivos de regulación final [2006.01]"
+  },
+  {
+    "code": "G05F 1/614",
+    "description": "••••••••con dos niveles de regulación, uno de los cuales al menos es sensible al nivel de salida [2006.01]"
+  },
+  {
+    "code": "G05F 1/618",
+    "description": "••••••que utilizan dispositivos semiconductores en serie y en paralelo con la carga como dispositivos de regulación final [2006.01]"
+  },
+  {
+    "code": "G05F 1/62",
+    "description": "••••••utilizando fuentes de corriente continua en serie o en oposición [2006.01]"
+  },
+  {
+    "code": "G05F 1/625",
+    "description": "••••en donde la variable efectivamente regulada es indiferentemente del tipo alterno o continuo [2006.01]"
+  },
+  {
+    "code": "G05F 1/63",
+    "description": "••••••que utilizan impedancias variables en serie con la carga como dispositivos de regulación final [2006.01]"
+  },
+  {
+    "code": "G05F 1/635",
+    "description": "••••••••que consisten en dispositivos de efecto Hall, magnetorresistencias o termistancias [2006.01]"
+  },
+  {
+    "code": "G05F 1/644",
+    "description": "••••••••que consisten en resistencias sensibles a la presión [2006.01]"
+  },
+  {
+    "code": "G05F 1/648",
+    "description": "••••••••que consisten en una serie de resistencias entre las cuales se hace una elección [2006.01]"
+  },
+  {
+    "code": "G05F 1/652",
+    "description": "••••••que utilizan impedancias variables en serie y en paralelo con la carga como dispositivos de regulación final [2006.01]"
+  },
+  {
+    "code": "G05F 1/656",
+    "description": "••••••que utilizan impedancias variables en serie y en paralelo con la carga como dispositivos de regulación final [2006.01]"
+  },
+  {
+    "code": "G05F 1/66",
+    "description": "••Regulación de la potencia eléctrica [2006.01]"
+  },
+  {
+    "code": "G05F 1/67",
+    "description": "••••de la potencia máxima que puede suministrar un generador, p. ej. una célula solar [2006.01]"
+  },
+  {
+    "code": "G05F 1/70",
+    "description": "••Regulación del factor de potencia; Regulación de la corriente reactiva o de la potencia reactiva [2006.01]"
+  },
+  {
+    "code": "G05F 3/00",
+    "description": "Sistemas no retroactivos para la regulación de variables eléctricas por utilización de un elemento no controlado, o de una combinación de elementos no controlados, siendo dicho elemento o dicha combinación aptos para ejercer por sí mismos una regulación [2006.01]"
+  },
+  {
+    "code": "G05F 3/02",
+    "description": "••Regulación de la tensión o de la corriente [2006.01]"
+  },
+  {
+    "code": "G05F 3/04",
+    "description": "••••en donde la tensión o la corriente son alternas [2006.01]"
+  },
+  {
+    "code": "G05F 3/06",
+    "description": "••••••utilizando combinaciones de dispositivos inductores saturados e insaturados, p. ej. combinados con un circuito resonante [2006.01]"
+  },
+  {
+    "code": "G05F 3/08",
+    "description": "••••en donde la tensión o la corriente son continuas [2006.01]"
+  },
+  {
+    "code": "G05F 3/10",
+    "description": "••••••que utilizan dispositivos no controlados con características no lineales [2006.01]"
+  },
+  {
+    "code": "G05F 3/12",
+    "description": "••••••••constituidos por tubos de descarga luminiscente [2006.01]"
+  },
+  {
+    "code": "G05F 3/16",
+    "description": "••••••••que consisten en dispositivos semiconductores [2006.01]"
+  },
+  {
+    "code": "G05F 3/18",
+    "description": "••••••••••utilizando diodos Zener [2006.01]"
+  },
+  {
+    "code": "G05F 3/20",
+    "description": "••••••••••utilizando combinaciones diodo-transistor (G05F 3/18 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G05F 3/22",
+    "description": "••••••••••••en los que los transistores son únicamente del tipo bipolar (G05F 3/26, G05F 3/30 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G05F 3/24",
+    "description": "••••••••••••en los que los transistores son únicamente del tipo de efecto de campo (G05F 3/26, G05F 3/30 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G05F 3/26",
+    "description": "••••••••••••Reflectores de corriente [2006.01]"
+  },
+  {
+    "code": "G05F 3/28",
+    "description": "••••••••••••••asociados a un amplificador de corriente no lineal [2006.01]"
+  },
+  {
+    "code": "G05F 3/30",
+    "description": "••••••••••••Reguladores que utilizan la diferencia entre las tensiones base-emisor de dos transistores bipolares que funcionan con densidades de corriente diferentes (G05F 3/26 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G05F 5/00",
+    "description": "Sistemas de regulación de variables eléctricas por detección de las desviaciones de la señal eléctrica de entrada del sistema y controlando por estas desviaciones un dispositivo interior al sistema para obtener una señal de salida regulada [2006.01]"
+  },
+  {
+    "code": "G05F 5/02",
+    "description": "••Conmutación controlada por fase utilizando tubos electrónicos o dispositivos semiconductores con al menos tres electrodos [2006.01]"
+  },
+  {
+    "code": "G05F 5/04",
+    "description": "••que utilizan un transformador o una inductancia como dispositivo de regulación final [2006.01]"
+  },
+  {
+    "code": "G05F 5/06",
+    "description": "••••saturables [2006.01]"
+  },
+  {
+    "code": "G05F 5/08",
+    "description": "••que utilizan un dispositivo de regulación final de funcionamiento lineal [2006.01]"
+  },
+  {
+    "code": "G05F 7/00",
+    "description": "Regulación de variables magnéticas (detalles de los aparatos para medir variables magnéticas que hagan intervenir la resonancia magnética nuclear G01R 33/28) [2006.01]"
+  }
+]

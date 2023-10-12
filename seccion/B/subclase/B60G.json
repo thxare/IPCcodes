@@ -1,0 +1,494 @@
+[
+  {
+    "code": "B60G 1/00",
+    "description": "Suspensiones con unión rígida entre el eje y el chasis [2006.01]"
+  },
+  {
+    "code": "B60G 1/02",
+    "description": "••con eje continuo [2006.01]"
+  },
+  {
+    "code": "B60G 1/04",
+    "description": "••con eje dividido [2006.01]"
+  },
+  {
+    "code": "B60G 3/00",
+    "description": "Suspensiones elásticas para una sola rueda (brazos de suspensión articulados en sí, su unión con la parte suspendida del vehículo, dispositivos de tope que limitan el movimiento de los brazos B60G 7/00; caracterizada por la disposición, el emplazamiento o el tipo de los resortes B60G 11/00) [2006.01]"
+  },
+  {
+    "code": "B60G 3/01",
+    "description": "••en que la rueda está montada de forma que pueda deslizarse, p. ej. en o sobre una guía o corredera vertical (disposiciones para mantener la inclinación B60G 3/26) [2006.01]"
+  },
+  {
+    "code": "B60G 3/02",
+    "description": "••con un solo brazo articulado [2006.01]"
+  },
+  {
+    "code": "B60G 3/04",
+    "description": "••••el brazo estando sensiblemente perpendicular al eje del vehículo [2006.01]"
+  },
+  {
+    "code": "B60G 3/06",
+    "description": "••••••siendo rígido el brazo [2006.01]"
+  },
+  {
+    "code": "B60G 3/08",
+    "description": "••••••••formando el brazo el cárter del eje [2006.01]"
+  },
+  {
+    "code": "B60G 3/10",
+    "description": "••••••siendo el mismo brazo elástico, p. ej. resorte de lámina [2006.01]"
+  },
+  {
+    "code": "B60G 3/12",
+    "description": "••••siendo el brazo sensiblemente paralelo al eje longitudinal del vehículo [2006.01]"
+  },
+  {
+    "code": "B60G 3/14",
+    "description": "••••••siendo rígido el brazo [2006.01]"
+  },
+  {
+    "code": "B60G 3/16",
+    "description": "••••••siendo elástico el mismo brazo, p. ej. resorte de lámina [2006.01]"
+  },
+  {
+    "code": "B60G 3/18",
+    "description": "••con dos o más brazos articulados, p. ej. paralelogramo [2006.01]"
+  },
+  {
+    "code": "B60G 3/20",
+    "description": "••••siendo todos los brazos rígidos [2006.01]"
+  },
+  {
+    "code": "B60G 3/22",
+    "description": "••••••un brazo rígido formando cárter del eje [2006.01]"
+  },
+  {
+    "code": "B60G 3/24",
+    "description": "••••••siendo formado un brazo rígido por el eje motor [2006.01]"
+  },
+  {
+    "code": "B60G 3/26",
+    "description": "••••••Dispositivos para mantener prácticamente constante la inclinación de la rueda durante el movimiento de la suspensión [2006.01]"
+  },
+  {
+    "code": "B60G 3/28",
+    "description": "••••uno de los mismos brazos al menos siendo elástico, p. ej. resorte de lámina [2006.01]"
+  },
+  {
+    "code": "B60G 5/00",
+    "description": "Suspensiones elásticas para un juego de ruedas o de ejes en tándem de movimiento coordinado [2006.01]"
+  },
+  {
+    "code": "B60G 5/01",
+    "description": "••en que el juego está caracterizado por más de dos ejes sucesivos [2006.01]"
+  },
+  {
+    "code": "B60G 5/02",
+    "description": "••montada sobre un solo brazo articulado [2006.01]"
+  },
+  {
+    "code": "B60G 5/03",
+    "description": "••••siendo elástico el propio brazo, p. ej. muelle de ballesta (B60G 5/053 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B60G 5/04",
+    "description": "••con dos o más brazos articulados, siendo sus movimientos elásticamente coordinados [2006.01]"
+  },
+  {
+    "code": "B60G 5/047",
+    "description": "••••siendo elástico al menos uno de los brazos, p. ej. muelle de ballesta (B60G 5/053 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B60G 5/053",
+    "description": "••••utilizándose un muelle de ballesta con fines de equilibrado entre dos unidades de soporte de eje [2006.01]"
+  },
+  {
+    "code": "B60G 5/06",
+    "description": "••••girando los brazos sobre un gorrón común [2006.01]"
+  },
+  {
+    "code": "B60G 7/00",
+    "description": "Brazos de suspensión articulados; Sus accesorios (dispositivos para mantener prácticamente constante la inclinación de la rueda durante el movimiento de la suspensión B60G 3/26) [2006.01]"
+  },
+  {
+    "code": "B60G 7/02",
+    "description": "••Fijación de los brazos a la parte suspendida del vehículo [2006.01]"
+  },
+  {
+    "code": "B60G 7/04",
+    "description": "••Dispositivos de tope para limitar el movimiento de los brazos [2006.01]"
+  },
+  {
+    "code": "B60G 9/00",
+    "description": "Suspensiones elásticas de un eje rígido o de un cárter de eje para dos o más ruedas [2006.01]"
+  },
+  {
+    "code": "B60G 9/02",
+    "description": "••el eje o el cárter siendo montados con gorrón sobre el vehículo [2006.01]"
+  },
+  {
+    "code": "B60G 9/04",
+    "description": "••el eje o el cárter no siendo montados con gorrón sobre el vehículo [2006.01]"
+  },
+  {
+    "code": "B60G 11/00",
+    "description": "Suspensiones elásticas caracterizadas por la disposición, el emplazamiento o el tipo de resorte (suspensión de una sola rueda por brazo giratorio elástico por sí mismo B60G 3/00; regulación de las características del resorte B60G 17/00; resortes en sí\n\t\t\t\t\t\t\t\t\tF16F) [2006.01]"
+  },
+  {
+    "code": "B60G 11/02",
+    "description": "••que tienen resortes de láminas solamente [2006.01]"
+  },
+  {
+    "code": "B60G 11/04",
+    "description": "••••dispuestos sensiblemente paralelos al eje longitudinal del vehículo [2006.01]"
+  },
+  {
+    "code": "B60G 11/06",
+    "description": "••••dispuestos oblicuamente en relación al eje longitudinal del vehículo [2006.01]"
+  },
+  {
+    "code": "B60G 11/08",
+    "description": "••••dispuestos sensiblemente perpendiculares al eje longitudinal del vehículo [2006.01]"
+  },
+  {
+    "code": "B60G 11/10",
+    "description": "••••caracterizados por medios especialmente concebidos para la fijación del muelle al eje o a una parte suspendida del vehículo [2006.01]"
+  },
+  {
+    "code": "B60G 11/107",
+    "description": "••••••Fijaciones de tipo deslizante o rodante [2006.01]"
+  },
+  {
+    "code": "B60G 11/113",
+    "description": "••••••Fijaciones al eje (B60G 11/107 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B60G 11/12",
+    "description": "••••••Bielas, espigas o collares [2006.01]"
+  },
+  {
+    "code": "B60G 11/14",
+    "description": "••teniendo resortes helicoidales, espirales o de bobina solamente [2006.01]"
+  },
+  {
+    "code": "B60G 11/15",
+    "description": "••••Muelles de espiral resistentes a la deformación por enrollamiento [2006.01]"
+  },
+  {
+    "code": "B60G 11/16",
+    "description": "••••caracterizados por medios especialmente concebidos para la fijación del muelle al eje o a una parte suspendida del vehículo [2006.01]"
+  },
+  {
+    "code": "B60G 11/18",
+    "description": "••teniendo solamente resortes de barra de torsión [2006.01]"
+  },
+  {
+    "code": "B60G 11/20",
+    "description": "••••caracterizados por medios especialmente concebidos para la fijación del muelle al eje o a una parte suspendida del vehículo [2006.01]"
+  },
+  {
+    "code": "B60G 11/22",
+    "description": "••teniendo solamente resortes de goma [2006.01]"
+  },
+  {
+    "code": "B60G 11/23",
+    "description": "••••del tipo de absorción de energía por torsión [2006.01]"
+  },
+  {
+    "code": "B60G 11/24",
+    "description": "••••caracterizados por medios especialmente concebidos para la fijación del muelle al eje o a una parte suspendida del vehículo [2006.01]"
+  },
+  {
+    "code": "B60G 11/26",
+    "description": "••teniendo solamente resortes de fluido, p. ej. muelles hidroneumáticos (B60G 15/12 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B60G 11/27",
+    "description": "••••en los cuales el fluido es un gas [2006.01]"
+  },
+  {
+    "code": "B60G 11/28",
+    "description": "••••caracterizados por medios especialmente concebidos para la fijación del muelle al eje o a una parte suspendida del vehículo [2006.01]"
+  },
+  {
+    "code": "B60G 11/30",
+    "description": "••••teniendo para esos resortes acumuladores de fluido bajo presión, p. ej. acumuladores dispuestos en el chasis del vehículo [2006.01]"
+  },
+  {
+    "code": "B60G 11/32",
+    "description": "••teniendo resortes de tipos diferentes [2006.01]"
+  },
+  {
+    "code": "B60G 11/34",
+    "description": "••••incluyendo resortes de láminas [2006.01]"
+  },
+  {
+    "code": "B60G 11/36",
+    "description": "••••••y también resortes helicoidales, espirales o en bobinas [2006.01]"
+  },
+  {
+    "code": "B60G 11/38",
+    "description": "••••••y también resortes de goma [2006.01]"
+  },
+  {
+    "code": "B60G 11/40",
+    "description": "••••••••estando los resortes de goma fijados al eje [2006.01]"
+  },
+  {
+    "code": "B60G 11/42",
+    "description": "••••••••estando los resortes de goma fijados a una parte suspendida del vehículo [2006.01]"
+  },
+  {
+    "code": "B60G 11/44",
+    "description": "••••••y también resortes de barra de torsión [2006.01]"
+  },
+  {
+    "code": "B60G 11/46",
+    "description": "••••••y tambien resortes de fluido [2006.01]"
+  },
+  {
+    "code": "B60G 11/48",
+    "description": "••••no teniendo resortes de lámina [2006.01]"
+  },
+  {
+    "code": "B60G 11/50",
+    "description": "••••••teniendo resortes helicoidales, espirales, o de bobinas y también resortes de barra de torsión [2006.01]"
+  },
+  {
+    "code": "B60G 11/52",
+    "description": "••••••teniendo resortes helicoidales, espirales o de bobinas y resortes de goma [2006.01]"
+  },
+  {
+    "code": "B60G 11/54",
+    "description": "••••••••con resortes de goma dispuestos en el interior de los resortes helicoidales, espirales o de bobinas [2006.01]"
+  },
+  {
+    "code": "B60G 11/56",
+    "description": "••••••teniendo resortes helicoidales, espirales o de bobinas y también resortes de fluido [2006.01]"
+  },
+  {
+    "code": "B60G 11/58",
+    "description": "••••••••dispuestos axialmente [2006.01]"
+  },
+  {
+    "code": "B60G 11/60",
+    "description": "••••••teniendo a la vez resortes de goma y resortes de barra de torsión [2006.01]"
+  },
+  {
+    "code": "B60G 11/62",
+    "description": "••••••teniendo a la vez resortes de goma y resortes de fluido [2006.01]"
+  },
+  {
+    "code": "B60G 11/64",
+    "description": "••••••teniendo a la vez resortes de barra de torsión y resortes de fluido [2006.01]"
+  },
+  {
+    "code": "B60G 13/00",
+    "description": "Suspensiones elásticas caracterizadas por la disposición, el emplazamiento o el tipo de amortiguadores de vibraciones (regulación del efecto de amortiguado B60G 17/06; amortiguadores de vibración en sí\n\t\t\t\t\t\t\t\t\tF16F) [2006.01]"
+  },
+  {
+    "code": "B60G 13/02",
+    "description": "••teniendo amortiguadores que disipan la energía, p. ej. de fricción [2006.01]"
+  },
+  {
+    "code": "B60G 13/04",
+    "description": "••••mecánicamente, p. ej. teniendo resortes, que actúan por fricción como órganos amortiguadores [2006.01]"
+  },
+  {
+    "code": "B60G 13/06",
+    "description": "••••del tipo \"de fluido\" [2006.01]"
+  },
+  {
+    "code": "B60G 13/08",
+    "description": "••••••hidráulicos [2006.01]"
+  },
+  {
+    "code": "B60G 13/10",
+    "description": "••••••neumáticos [2006.01]"
+  },
+  {
+    "code": "B60G 13/12",
+    "description": "••••••semifluidos, es decir, que emplean un agente pulverulento [2006.01]"
+  },
+  {
+    "code": "B60G 13/14",
+    "description": "••que tienen amortiguadores que almacenan la energía bajo una forma utilizable, p. ej. comprimiendo el aire [2006.01]"
+  },
+  {
+    "code": "B60G 13/16",
+    "description": "••que tienen absorbedores dinámicos como medio principal de amortiguación, es decir, sistemas resorte-masa que reacciona a contratiempos [2006.01]"
+  },
+  {
+    "code": "B60G 13/18",
+    "description": "••••combinado con medios que absorben la energía [2006.01]"
+  },
+  {
+    "code": "B60G 15/00",
+    "description": "Suspensiones elásticas caracterizadas por la disposición, el emplazamiento o el tipo de combinación de resortes y de amortiguadores de vibraciones, p. ej. del tipo telescópico (combinaciones de muelles y de amortiguadores de vibraciones, en sí\n\t\t\t\t\t\t\t\t\tF16F) [2006.01]"
+  },
+  {
+    "code": "B60G 15/02",
+    "description": "••que tienen un resorte mecánico [2006.01]"
+  },
+  {
+    "code": "B60G 15/04",
+    "description": "••••y un amortiguador mecánico [2006.01]"
+  },
+  {
+    "code": "B60G 15/06",
+    "description": "••••y un amortiguador de fluido [2006.01]"
+  },
+  {
+    "code": "B60G 15/07",
+    "description": "••••••estando conectado el amortiguador al soporte portamanguetas y estando dispuesto el muelle alrededor del amortiguador [2006.01]"
+  },
+  {
+    "code": "B60G 15/08",
+    "description": "••que tienen un resorte de fluido [2006.01]"
+  },
+  {
+    "code": "B60G 15/10",
+    "description": "••••y un amortiguador mecánico [2006.01]"
+  },
+  {
+    "code": "B60G 15/12",
+    "description": "••••y un amortiguador de fluido [2006.01]"
+  },
+  {
+    "code": "B60G 15/14",
+    "description": "••••••estando conectado el amortiguador al soporte portamanguetas y estando dispuesto el muelle alrededor del amortiguador [2006.01]"
+  },
+  {
+    "code": "B60G 17/00",
+    "description": "Suspensiones elásticas que permiten ajustar las características de los muelles o de los amortiguadores de vibraciones, regular la distancia entre la superficie portante y la parte suspendida del vehículo o bloquear la suspensión durante la utilización para adaptarse a las condiciones variables del vehículo o del terreno, p. ej. en función de la velocidad o de la carga [2006.01]"
+  },
+  {
+    "code": "B60G 17/005",
+    "description": "••Disposiciones de bloqueo de la suspensión [2006.01]"
+  },
+  {
+    "code": "B60G 17/015",
+    "description": "••comportando los medios de reglaje elementos eléctricos o electrónicos (B60G 17/005 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "B60G 17/016",
+    "description": "••••caracterizadas por su respuesta, cuando el vehiculo está en movimiento, a un movimiento o a una condición dada o a la acción del conductor [2006.01]"
+  },
+  {
+    "code": "B60G 17/0165",
+    "description": "••••••a una condición externa, p.ej. mal estado de la vía, viento lateral [2006.01]"
+  },
+  {
+    "code": "B60G 17/017",
+    "description": "••••caracterizadas por su uso cuando el vehículo está parado, p.ej. durante la carga, el arranque o la parada del motor [2006.01]"
+  },
+  {
+    "code": "B60G 17/018",
+    "description": "••••caracterizadas por la utilización de un modo de tratamiento de la señal o de un método de control específicos [2006.01]"
+  },
+  {
+    "code": "B60G 17/0185",
+    "description": "••••••para la detección de fallos de funcionamiento [2006.01]"
+  },
+  {
+    "code": "B60G 17/019",
+    "description": "••••caracterizadas por el tipo o la disposición de los sensores [2006.01]"
+  },
+  {
+    "code": "B60G 17/0195",
+    "description": "••••caracterizadas porque la regulación es combinada con otros sistemas de control del vehículo [2006.01]"
+  },
+  {
+    "code": "B60G 17/02",
+    "description": "••las características de los resortes (B60G 17/005-B60G 17/015 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "B60G 17/027",
+    "description": "••••Muelles mecánicos regulados por medios que utilizan un fluido (B60G 17/033 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B60G 17/033",
+    "description": "••••caracterizados por medios de reglaje que actúan sobre varios muelles [2006.01]"
+  },
+  {
+    "code": "B60G 17/04",
+    "description": "••••de fluido [2006.01]"
+  },
+  {
+    "code": "B60G 17/044",
+    "description": "••••••Muelles de fluido con autobombeo (bombas de fluido F04) [2006.01]"
+  },
+  {
+    "code": "B60G 17/048",
+    "description": "••••••estando incorporados los medios de reglaje en los muelles de fluido (B60G 17/044 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B60G 17/052",
+    "description": "••••••Características de muelles neumáticos (B60G 17/048 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B60G 17/056",
+    "description": "••••••Distribuidores o válvulas de reglaje (B60G 17/044-B60G 17/048 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "B60G 17/06",
+    "description": "••Características de los amortiguadores (B60G 17/015 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B60G 17/08",
+    "description": "••••de fluido (reglaje de amortiguadores de fluido en sí F16F 9/44-F16F 9/53) [2006.01]"
+  },
+  {
+    "code": "B60G 21/00",
+    "description": "Sistemas de interconexión de varias ruedas conjugadas, suspendidas elásticamente, p. ej. para estabilizar la carrocería del vehículo teniendo en cuenta las fuerzas de aceleración, de deceleración, o las fuerzas centrífugas (B60G 17/033 tiene prioridad; dirección para ruedas orientables combinada con dispositivos para inclinar la carrocería del vehículo hacia el interior en los virajes B62D 9/02) [2006.01]"
+  },
+  {
+    "code": "B60G 21/02",
+    "description": "••conjugadas permanentemente [2006.01]"
+  },
+  {
+    "code": "B60G 21/04",
+    "description": "••••mecánicamente [2006.01]"
+  },
+  {
+    "code": "B60G 21/045",
+    "description": "••••••entre ruedas que no pertenecen al mismo eje, pero están dispuestas al mismo lado del vehículo, es decir, al lado derecho o al lado izquierdo [2006.01]"
+  },
+  {
+    "code": "B60G 21/05",
+    "description": "••••••entre ruedas que pertenecen al mismo eje, pero no están dispuestas al mismo lado del vehículo, es decir, estando conectada la suspensión de la rueda izquierda a la de la rueda derecha [2006.01]"
+  },
+  {
+    "code": "B60G 21/055",
+    "description": "••••••••Barras estabilizadoras [2006.01]"
+  },
+  {
+    "code": "B60G 21/06",
+    "description": "••••por fluido [2006.01]"
+  },
+  {
+    "code": "B60G 21/067",
+    "description": "••••••entre ruedas que no pertenecen al mismo eje, pero están dispuestas al mismo lado del vehículo, es decir, al lado derecho o al lado izquierdo [2006.01]"
+  },
+  {
+    "code": "B60G 21/073",
+    "description": "••••••entre ruedas que pertenecen al mismo eje, pero no están dispuestas al mismo lado del vehículo, es decir, estando conectada la suspensión de la rueda izquierda a la de la rueda derecha [2006.01]"
+  },
+  {
+    "code": "B60G 21/08",
+    "description": "••caracterizadas por el empleo de giróscopos (giróscopos para la estabilización de carrocerías de vehículos sin actuar sobre los dispositivos de suspensión B62D 37/06) [2006.01]"
+  },
+  {
+    "code": "B60G 21/10",
+    "description": "••no conjugadas permanentemente, p. ej. actuando solamente en la aceleración, la deceleración o solamente cuando la dirección del movimiento abandona la línea recta [2006.01]"
+  },
+  {
+    "code": "B60G 23/00",
+    "description": "Suspensiones de ruedas con medios automáticos para descubrir los accidentes del terreno delante de las ruedas o para desplazar consecuentemente hacia arriba o abajo las ruedas [2006.01]"
+  },
+  {
+    "code": "B60G 99/00",
+    "description": "Materia no prevista en otros grupos de esta subclase [2010.01]"
+  }
+]

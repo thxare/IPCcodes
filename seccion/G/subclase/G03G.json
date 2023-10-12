@@ -1,0 +1,474 @@
+[
+  {
+    "code": "G03G 5/00",
+    "description": "Organos de registro para registro original por exposición, p. ej. a la luz, al calor, a los electrones; Fabricación para este efecto; Empleo de materiales especificados con este fin (superficies de registro para aparatos de medida G01D 15/34; materiales fotosensibles para la fotografía G03C) [2006.01]"
+  },
+  {
+    "code": "G03G 5/02",
+    "description": "••Capas receptoras de cargas (G03G 5/153 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G03G 5/022",
+    "description": "••••Capas para la formación de imágenes por deformación superficial, p. ej. formación de imágenes por enfriamiento [2006.01]"
+  },
+  {
+    "code": "G03G 5/024",
+    "description": "••••Capas fotoeléctricas [2006.01]"
+  },
+  {
+    "code": "G03G 5/026",
+    "description": "••••Capas en las que, durante la irradiación, se produce una reacción química por la que se forman diseños de conductividad eléctrica en las capas, p. ej. para la quimioxerografía [2006.01]"
+  },
+  {
+    "code": "G03G 5/028",
+    "description": "••••Capas en las que, después de exposición de un diseño térmico, se forman diseños de conductividad eléctrica, p. ej. para la termoxerografía [2006.01]"
+  },
+  {
+    "code": "G03G 5/04",
+    "description": "••••Capas fotoconductoras; Capas de generación de cargas o capas de transporte de cargas; Aditivos a este efecto; Aglutinantes a este efecto [2006.01]"
+  },
+  {
+    "code": "G03G 5/043",
+    "description": "••••••Capas fotoconductoras caracterizadas porque tienen varias capas o caracterizadas por su estructura compuesta [2006.01]"
+  },
+  {
+    "code": "G03G 5/047",
+    "description": "••••••••caracterizadas por las capas de generación o de transporte de cargas [2006.01]"
+  },
+  {
+    "code": "G03G 5/05",
+    "description": "••••••Materiales de unión orgánicos; Métodos de revestimiento de un sustrato con una capa fotoconductora; Aditivos inertes utilizables en las capas fotoconductoras [2006.01]"
+  },
+  {
+    "code": "G03G 5/06",
+    "description": "••••••caracterizadas por el hecho de que su material fotoconductor es orgánico [2006.01]"
+  },
+  {
+    "code": "G03G 5/07",
+    "description": "••••••••Materiales fotoconductores polímeros [2006.01]"
+  },
+  {
+    "code": "G03G 5/08",
+    "description": "••••••caracterizadas por el hecho de que su material fotoconductor es inorgánico [2006.01]"
+  },
+  {
+    "code": "G03G 5/082",
+    "description": "••••••••y no incorporado en un material de unión, p. ej. depositado en vacío [2006.01]"
+  },
+  {
+    "code": "G03G 5/085",
+    "description": "••••••••e incorporado en un material de unión inorgánico p. ej. capas análogas al cristal [2006.01]"
+  },
+  {
+    "code": "G03G 5/087",
+    "description": "••••••••e incorporado en un material de unión orgánico [2006.01]"
+  },
+  {
+    "code": "G03G 5/09",
+    "description": "••••••Sensibilizadores o activadores, p. ej. colorantes (G03G 5/12 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G03G 5/10",
+    "description": "••Soportes para la recepción de cargas u otras capas [2006.01]"
+  },
+  {
+    "code": "G03G 5/12",
+    "description": "••Piezas de registro para procesos multicolores [2006.01]"
+  },
+  {
+    "code": "G03G 5/14",
+    "description": "••Capas intermedias o de recubrimiento inertes para las capas que reciben la carga (G03G 5/04 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G03G 5/147",
+    "description": "••••Capas de recubrimiento [2006.01]"
+  },
+  {
+    "code": "G03G 5/153",
+    "description": "••Capas de recepción de cargas combinadas con capas adicionales fotosensibles o termosensibles, pero no fotoconductoras, p. ej. capas de sales de plata [2006.01]"
+  },
+  {
+    "code": "G03G 5/16",
+    "description": "••Capas de registro por cambio de las propiedades magnéticas, p. ej. para la escritura por rebasamiento del punto Curie [2006.01]"
+  },
+  {
+    "code": "G03G 7/00",
+    "description": "Empleo de materiales específicos para utilización en los elementos que reciben la imagen, es decir, para la inversión por contacto físico; Fabricación con este fin (composiciones fotosensibles G03C) [2006.01]"
+  },
+  {
+    "code": "G03G 8/00",
+    "description": "Capas que recubren la reproducción final, p. ej. para protegerla, para escribir encima [2006.01]"
+  },
+  {
+    "code": "G03G 9/00",
+    "description": "Reveladores [2006.01]"
+  },
+  {
+    "code": "G03G 9/06",
+    "description": "••siendo el revelador electrolítico [2006.01]"
+  },
+  {
+    "code": "G03G 9/08",
+    "description": "••con partículas de toner [2006.01]"
+  },
+  {
+    "code": "G03G 9/083",
+    "description": "••••Partículas de toner magnéticas [2006.01]"
+  },
+  {
+    "code": "G03G 9/087",
+    "description": "••••Aglutinantes para las partículas de toner [2006.01]"
+  },
+  {
+    "code": "G03G 9/09",
+    "description": "••••Agentes colorantes para las partículas de toner [2006.01]"
+  },
+  {
+    "code": "G03G 9/093",
+    "description": "••••Partículas de toner encapsuladas [2006.01]"
+  },
+  {
+    "code": "G03G 9/097",
+    "description": "••••Plastificantes; Agentes de control de carga [2006.01]"
+  },
+  {
+    "code": "G03G 9/10",
+    "description": "••••caracterizados por las partículas portadoras [2006.01]"
+  },
+  {
+    "code": "G03G 9/107",
+    "description": "••••••teniendo componentes magnéticos [2006.01]"
+  },
+  {
+    "code": "G03G 9/113",
+    "description": "••••••con aplicación de un revestimiento sobre esas partículas [2006.01]"
+  },
+  {
+    "code": "G03G 9/12",
+    "description": "••••en mezclas reveladoras líquidas [2006.01]"
+  },
+  {
+    "code": "G03G 9/125",
+    "description": "••••••caracterizadas por el líquido [2006.01]"
+  },
+  {
+    "code": "G03G 9/13",
+    "description": "••••••caracterizadas por componentes polímeros [2006.01]"
+  },
+  {
+    "code": "G03G 9/135",
+    "description": "••••••caracterizadas por agentes estabilizadores o de control de carga [2006.01]"
+  },
+  {
+    "code": "G03G 9/16",
+    "description": "••Reveladores no previstos en los grupos G03G 9/06-G03G 9/135, p. ej. soluciones, aerosoles [2006.01]"
+  },
+  {
+    "code": "G03G 9/18",
+    "description": "••••Reveladores líquidos que humedecen de una manera diferenciada [2006.01]"
+  },
+  {
+    "code": "G03G 11/00",
+    "description": "Empleo de sustancias especificadas para la utilización como agentes de fijado [2006.01]"
+  },
+  {
+    "code": "G03G 13/00",
+    "description": "Procesos electrográficos que utilizan un diseño de carga (G03G 15/00, G03G 16/00, G03G 17/00 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G03G 13/01",
+    "description": "••por copias multicolores [2006.01]"
+  },
+  {
+    "code": "G03G 13/02",
+    "description": "••Sensibilización, es decir, depósito de una carga uniforme (dispositivos para la descarga corona en sí\n\t\t\t\t\t\t\t\t\t\tH01T 19/00) [2006.01]"
+  },
+  {
+    "code": "G03G 13/04",
+    "description": "••Exposición, es decir, proyección óptica de la imagen original sobre un material de registro fotoconductor [2006.01]"
+  },
+  {
+    "code": "G03G 13/045",
+    "description": "••••Carga o descarga de distintas partes del diseño de carga sobre el material de registro, p. ej. descarga de áreas sin imagen, realce del contraste (G03G 13/34, G03G 15/36, G03G 21/06 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G03G 13/05",
+    "description": "••Carga según la imagen a reproducir, es decir, depósito de una carga según la configuración de una imagen original usando un flujo modulado de partículas cargadas, p. ej. de iones corona, modulados por una trama de control fotoconductora portadora de un diseño de carga o por medios de carga activados ópticamente (usando medios de carga controlados por señales eléctricas de imagen B41J) [2006.01]"
+  },
+  {
+    "code": "G03G 13/054",
+    "description": "••utilizando rayos X, p. ej. electrorradiografía [2006.01]"
+  },
+  {
+    "code": "G03G 13/056",
+    "description": "••utilizando polarización interna [2006.01]"
+  },
+  {
+    "code": "G03G 13/06",
+    "description": "••Revelado [2006.01]"
+  },
+  {
+    "code": "G03G 13/08",
+    "description": "••••utilizando un revelador sólido, p. ej. revelador en polvo [2006.01]"
+  },
+  {
+    "code": "G03G 13/09",
+    "description": "••••••utilizando una brocha magnética [2006.01]"
+  },
+  {
+    "code": "G03G 13/095",
+    "description": "••••••Eliminación del exceso de revelador sólido [2006.01]"
+  },
+  {
+    "code": "G03G 13/10",
+    "description": "••••utilizando un revelador líquido [2006.01]"
+  },
+  {
+    "code": "G03G 13/11",
+    "description": "••••••Eliminación del exceso de revelador líquido, p. ej. por calor [2006.01]"
+  },
+  {
+    "code": "G03G 13/14",
+    "description": "••Transferencia de un diseño a un segundo soporte [2006.01]"
+  },
+  {
+    "code": "G03G 13/16",
+    "description": "••••de un diseño de tinte, p. ej. diseño de polvo [2006.01]"
+  },
+  {
+    "code": "G03G 13/18",
+    "description": "••••de un diseño de carga [2006.01]"
+  },
+  {
+    "code": "G03G 13/20",
+    "description": "••Fijado, p. ej. utilizando calor [2006.01]"
+  },
+  {
+    "code": "G03G 13/22",
+    "description": "••Procesos que implican la combinación de varias fases de tratamiento comprendidas en los grupos G03G 13/02-G03G 13/20 (G03G 13/01 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G03G 13/23",
+    "description": "••••especialmentme adaptados para copiar las dos caras de un original o para copiar sobre las dos caras de un material de registro o de recepción de imágenes [2006.01]"
+  },
+  {
+    "code": "G03G 13/24",
+    "description": "••••estando acopladas simultáneamente al menos dos fases [2006.01]"
+  },
+  {
+    "code": "G03G 13/26",
+    "description": "••para la producción de placas de impresión para procesos de impresión no xerográficos [2006.01]"
+  },
+  {
+    "code": "G03G 13/28",
+    "description": "••••Placas de impresión planográficas [2006.01]"
+  },
+  {
+    "code": "G03G 13/30",
+    "description": "••••Clichés hectográficos [2006.01]"
+  },
+  {
+    "code": "G03G 13/32",
+    "description": "••••Placas de impresión en relieve [2006.01]"
+  },
+  {
+    "code": "G03G 13/34",
+    "description": "••Edición, es decir, realización de una imagen compuesta copiando al menos una imagen original o partes de la misma [2006.01]"
+  },
+  {
+    "code": "G03G 15/00",
+    "description": "Aparatos para procesos electrográficos que utilizan un diseño de carga (G03G 16/00, G03G 17/00 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G03G 15/01",
+    "description": "••para reproducir copias multicolores [2006.01]"
+  },
+  {
+    "code": "G03G 15/02",
+    "description": "••para depositar una carga uniforme, p. ej. para sensibilizar; Dispositivos para la descarga corona (G03G 15/14 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G03G 15/04",
+    "description": "••para exponer, es decir, para proyectar ópticamente la imagen original sobre un material de registro fotoconductor [2006.01]"
+  },
+  {
+    "code": "G03G 15/041",
+    "description": "••••con un aumento variable [2006.01]"
+  },
+  {
+    "code": "G03G 15/043",
+    "description": "••••con medios de control de la iluminación o de la exposición (G03G 15/041 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G03G 15/045",
+    "description": "••••con medios de carga o descarga de distintas partes del diseño de carga sobre el material de registro, p. ej. para el realce del contraste o para la descarga de áreas sin imagen (G03G 15/36, G03G 21/06 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G03G 15/047",
+    "description": "••••••para descargar áreas sin imagen [2006.01]"
+  },
+  {
+    "code": "G03G 15/05",
+    "description": "••para cargar conforme a la imagen a reproducir, p. ej. por una trama de control fotoconductora, por medios de carga activados ópticamente (medios de carga controlados por señales eléctricas de imagen B41J) [2006.01]"
+  },
+  {
+    "code": "G03G 15/054",
+    "description": "••utilizando rayos X, p. ej. electrorradiografía [2006.01]"
+  },
+  {
+    "code": "G03G 15/056",
+    "description": "••utilizando polarización interna [2006.01]"
+  },
+  {
+    "code": "G03G 15/06",
+    "description": "••para revelar [2006.01]"
+  },
+  {
+    "code": "G03G 15/08",
+    "description": "••••utilizando un revelador sólido, p. ej. revelador en polvo [2006.01]"
+  },
+  {
+    "code": "G03G 15/09",
+    "description": "••••••utilizando una brocha magnética [2006.01]"
+  },
+  {
+    "code": "G03G 15/095",
+    "description": "••••••Eliminación del exceso de revelador sólido [2006.01]"
+  },
+  {
+    "code": "G03G 15/10",
+    "description": "••••utilizando un revelador líquido [2006.01]"
+  },
+  {
+    "code": "G03G 15/11",
+    "description": "••••••Eliminación del exceso de revelador líquido, p. ej. por calor [2006.01]"
+  },
+  {
+    "code": "G03G 15/14",
+    "description": "••para transferir un diseño a un segundo soporte [2006.01]"
+  },
+  {
+    "code": "G03G 15/16",
+    "description": "••••de un diseño de tinte, p. ej. diseño de polvo [2006.01]"
+  },
+  {
+    "code": "G03G 15/18",
+    "description": "••••de un diseño de carga [2006.01]"
+  },
+  {
+    "code": "G03G 15/20",
+    "description": "••para fijar, p. ej. utilizando calor [2006.01]"
+  },
+  {
+    "code": "G03G 15/22",
+    "description": "••que implican la combinación de varias fases de tratamiento comprendidas en los grupos G03G 13/02-G03G 13/20 (G03G 15/01 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G03G 15/23",
+    "description": "••••especialmente adaptados para copiar las dos caras de un original o para copiar sobre las dos caras de un material de registro o de recepción de imágenes [2006.01]"
+  },
+  {
+    "code": "G03G 15/24",
+    "description": "••••por medio de los cuales dos fases al menos están acopladas simultáneamente [2006.01]"
+  },
+  {
+    "code": "G03G 15/26",
+    "description": "••••en los que el diseño de carga se obtiene por proyección de la imagen completa, es decir, proyección de todo el sistema (G03G 15/04 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G03G 15/28",
+    "description": "••••en los que la proyección se obtiene por barrido por líneas (G03G 15/04 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G03G 15/30",
+    "description": "••••••en los que la proyección se forma sobre un tambor [2006.01]"
+  },
+  {
+    "code": "G03G 15/32",
+    "description": "••••en los que el diseño de carga es formado con la ayuda de puntos (G03G 15/04, G03G 15/05, G03G 15/34 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G03G 15/34",
+    "description": "••••en los que la imagen de polvo está formada directamente sobre el material de registro [2006.01]"
+  },
+  {
+    "code": "G03G 15/36",
+    "description": "••Edición, es decir, realización de una imagen compuesta copiando al menos una imagen original o partes de la misma [2006.01]"
+  },
+  {
+    "code": "G03G 16/00",
+    "description": "Procesos electrográficos que utilizan la deformación de capas termoplásticas (capas para la formación de imágenes por deformación superficial G03G 5/022); Aparatos a este efecto [2006.01]"
+  },
+  {
+    "code": "G03G 17/00",
+    "description": "Procesos electrográficos que utilizan diseños diferentes a los diseños de carga, p. ej. un diseño de conductividad eléctrica; Procesos que emplean una migración, p. ej. fotoelectroforesis, fotoelectrosolografía; Procesos que emplean una transferencia selectiva, p. ej. procesos de electrofotoadhesión; Aparatos que utilizan esencialmente uno sólo de estos procesos [2006.01]"
+  },
+  {
+    "code": "G03G 17/02",
+    "description": "••con revelado electrolítico [2006.01]"
+  },
+  {
+    "code": "G03G 17/04",
+    "description": "••que utilizan la fotoelectroforesis [2006.01]"
+  },
+  {
+    "code": "G03G 17/06",
+    "description": "••••Aparatos a este efecto [2006.01]"
+  },
+  {
+    "code": "G03G 17/08",
+    "description": "••que utilizan un procedimiento electrofotoadhesivo, p. ej. formación de imágenes multicopiadas por desprendimiento [2006.01]"
+  },
+  {
+    "code": "G03G 17/10",
+    "description": "••que utilizan un proceso de formación de imágenes por migración, p. ej. la fotoelectrosolografía (G03G 17/04 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G03G 19/00",
+    "description": "Procesos que utilizan diseños magnéticos; Aparatos con este fin [2006.01]"
+  },
+  {
+    "code": "G03G 21/00",
+    "description": "Dispositivos no previstos en los grupos G03G 13/00-G03G 19/00, p. ej. limpieza, eliminación de cargas residuales [2006.01]"
+  },
+  {
+    "code": "G03G 21/02",
+    "description": "••Recuento del número de copias; Facturación [2006.01]"
+  },
+  {
+    "code": "G03G 21/04",
+    "description": "••Disposiciones para impedir la copia de un original [2006.01]"
+  },
+  {
+    "code": "G03G 21/06",
+    "description": "••Eliminación de las cargas residuales de un elemento de registro de imagen reutilizable [2006.01]"
+  },
+  {
+    "code": "G03G 21/08",
+    "description": "••••utilizando radiación óptica [2006.01]"
+  },
+  {
+    "code": "G03G 21/10",
+    "description": "••Recogida o reciclado del revelador sobrante [2006.01]"
+  },
+  {
+    "code": "G03G 21/12",
+    "description": "••••Recipientes para el toner sobrante [2006.01]"
+  },
+  {
+    "code": "G03G 21/14",
+    "description": "••Control secuencial electrónico [2006.01]"
+  },
+  {
+    "code": "G03G 21/16",
+    "description": "••Medios mecánicos para facilitar el mantenimiento del aparato, p. ej. estructuras modulares [2006.01]"
+  },
+  {
+    "code": "G03G 21/18",
+    "description": "••••utilizando un cartucho de tratamiento [2006.01]"
+  },
+  {
+    "code": "G03G 21/20",
+    "description": "••Control de la humedad o de la temperatura [2006.01]"
+  }
+]

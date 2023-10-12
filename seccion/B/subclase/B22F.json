@@ -1,0 +1,598 @@
+[
+  {
+    "code": "B22F 1/00",
+    "description": "Polvo metálico; Tratamiento del polvo metálico, p. ej. para facilitar su trabajo o para mejorar sus propiedades [2022.01]"
+  },
+  {
+    "code": "B22F 1/05",
+    "description": "••Polvo metálico caracterizado por el tamaño o la superficie de las partículas [2022.01]"
+  },
+  {
+    "code": "B22F 1/052",
+    "description": "••••caracterizado por una mezcla de partículas de diferentes tamaños o por la distribución del tamaño de las partículas [2022.01]"
+  },
+  {
+    "code": "B22F 1/054",
+    "description": "••••Partículas nanométricas [2022.01]"
+  },
+  {
+    "code": "B22F 1/0545",
+    "description": "••••••Dispersiones o suspensiones de partículas nanométricas [2022.01]"
+  },
+  {
+    "code": "B22F 1/06",
+    "description": "••Polvo metálico caracterizado por la forma de las partículas (partículas nanométricas B22F 1/054) [2022.01]"
+  },
+  {
+    "code": "B22F 1/062",
+    "description": "••••Partículas fibrosas [2022.01]"
+  },
+  {
+    "code": "B22F 1/065",
+    "description": "••••Partículas esféricas [2022.01]"
+  },
+  {
+    "code": "B22F 1/0655",
+    "description": "••••••Partículas huecas [2022.01]"
+  },
+  {
+    "code": "B22F 1/068",
+    "description": "••••Partículas en forma de escama [2022.01]"
+  },
+  {
+    "code": "B22F 1/07",
+    "description": "••Polvo metálico caracterizado por partículas que tienen una microestructura a nanoescala (partículas nanométricas B22F 1/054) [2022.01]"
+  },
+  {
+    "code": "B22F 1/08",
+    "description": "••Polvo metálico caracterizado por partículas que tienen una microestructura amorfa [2022.01]"
+  },
+  {
+    "code": "B22F 1/10",
+    "description": "••Polvo metálico que contiene agentes lubricantes o aglutinantes; Polvo metálico que contiene material orgánico [2022.01]"
+  },
+  {
+    "code": "B22F 1/102",
+    "description": "••••Polvo metálico recubierto de material orgánico [2022.01]"
+  },
+  {
+    "code": "B22F 1/103",
+    "description": "••••que contiene un aglutinante orgánico que comprende una mezcla de, o es obtenido por reacción de, dos o más componentes distintos de un disolvente o un agente lubricante [2022.01]"
+  },
+  {
+    "code": "B22F 1/105",
+    "description": "••••que contiene agentes lubricantes o aglutinantes inorgánicos, por ejemplo, sales metálicas [2022.01]"
+  },
+  {
+    "code": "B22F 1/107",
+    "description": "••••que contiene material orgánico que comprende disolventes, p. ej. para la fundición por deslizamiento [2022.01]"
+  },
+  {
+    "code": "B22F 1/12",
+    "description": "••Polvo metálico con partículas no metálicas (que contienen agentes lubricantes o aglutinantes o material orgánico B22F 1/10) [2022.01]"
+  },
+  {
+    "code": "B22F 1/14",
+    "description": "••Tratamiento del polvo metálico (mezcla con agentes lubricantes o aglutinantes o con material orgánico B22F 1/10) [2022.01]"
+  },
+  {
+    "code": "B22F 1/142",
+    "description": "••••Tratamiento térmico o termomecánico [2022.01]"
+  },
+  {
+    "code": "B22F 1/145",
+    "description": "••••Tratamiento químico, p. ej. pasivación o descarburación [2022.01]"
+  },
+  {
+    "code": "B22F 1/148",
+    "description": "••••Aglomerante [2022.01]"
+  },
+  {
+    "code": "B22F 1/16",
+    "description": "••Partículas metálicas recubiertas con un no metal (recubiertas con agentes lubricantes o aglutinantes o con material orgánico B22F 1/10) [2022.01]"
+  },
+  {
+    "code": "B22F 1/17",
+    "description": "••Partículas metálicas recubiertas de metal [2022.01]"
+  },
+  {
+    "code": "B22F 1/18",
+    "description": "••Partículas no metálicas recubiertas de metal [2022.01]"
+  },
+  {
+    "code": "B22F 3/00",
+    "description": "Fabricación de piezas a partir de polvos metálicos, caracterizada por el modo de compactado o sinterizado; Aparatos especialmente concebidos para esta fabricación [2021.01]"
+  },
+  {
+    "code": "B22F 3/02",
+    "description": "••Compactado solamente [2006.01]"
+  },
+  {
+    "code": "B22F 3/03",
+    "description": "••••Prensas de moldeado con este fin [2006.01]"
+  },
+  {
+    "code": "B22F 3/035",
+    "description": "••••••con una o más partes montadas de forma pivotante [2006.01]"
+  },
+  {
+    "code": "B22F 3/04",
+    "description": "••••mediante aplicación de presión de un fluido [2006.01]"
+  },
+  {
+    "code": "B22F 3/06",
+    "description": "••••mediante la fuerza centrífuga [2006.01]"
+  },
+  {
+    "code": "B22F 3/08",
+    "description": "••••mediante fuerza explosiva [2006.01]"
+  },
+  {
+    "code": "B22F 3/087",
+    "description": "••••utilizando impulsos de alta energía, p. ej. impulsos de campo magnético [2006.01]"
+  },
+  {
+    "code": "B22F 3/093",
+    "description": "••••utilizando vibraciones [2006.01]"
+  },
+  {
+    "code": "B22F 3/10",
+    "description": "••Sinterizado solamente [2006.01]"
+  },
+  {
+    "code": "B22F 3/105",
+    "description": "••••utilizando una corriente eléctrica, radiación láser o plasma (B22F 3/11 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B22F 3/11",
+    "description": "••••Fabricación de piezas u objetos porosos [2006.01]"
+  },
+  {
+    "code": "B22F 3/115",
+    "description": "••por pulverización de metal fluido, es decir, sinterizado por pulverización, moldeado por pulverización [2006.01]"
+  },
+  {
+    "code": "B22F 3/12",
+    "description": "••Compactado y sinterizado (por forjado B22F 3/17) [2006.01]"
+  },
+  {
+    "code": "B22F 3/14",
+    "description": "••••simultáneamente [2006.01]"
+  },
+  {
+    "code": "B22F 3/15",
+    "description": "••••••Compresión isostática en caliente [2006.01]"
+  },
+  {
+    "code": "B22F 3/16",
+    "description": "••••por medio de operaciones sucesivas o repetidas [2006.01]"
+  },
+  {
+    "code": "B22F 3/17",
+    "description": "••por forjado [2006.01]"
+  },
+  {
+    "code": "B22F 3/18",
+    "description": "••utilizando rodillos compresores [2006.01]"
+  },
+  {
+    "code": "B22F 3/20",
+    "description": "••por extrusión [2006.01]"
+  },
+  {
+    "code": "B22F 3/22",
+    "description": "••para la fabricación de piezas por colada en molde poroso o absorbente, es decir, por colada de una suspensión de polvo metálico en un molde poroso, de una manera similar a la colada de barbotina [2006.01]"
+  },
+  {
+    "code": "B22F 3/23",
+    "description": "••incorporando una síntesis de alta temperatura con autopropagación o una etapa de sinterización por reacción [2006.01]"
+  },
+  {
+    "code": "B22F 3/24",
+    "description": "••Tratamiento ulterior de las piezas u objetos [2006.01]"
+  },
+  {
+    "code": "B22F 3/26",
+    "description": "••••Impregnación [2006.01]"
+  },
+  {
+    "code": "B22F 5/00",
+    "description": "Fabricación de piezas o de objetos a partir de polvos metálicos caracterizada por la forma particular del producto a realizar [2006.01]"
+  },
+  {
+    "code": "B22F 5/02",
+    "description": "••de segmentos de pistones [2006.01]"
+  },
+  {
+    "code": "B22F 5/04",
+    "description": "••de paletas de turbinas [2006.01]"
+  },
+  {
+    "code": "B22F 5/06",
+    "description": "••de piezas fileteadas, p. ej. tuercas [2006.01]"
+  },
+  {
+    "code": "B22F 5/08",
+    "description": "••de piezas dentadas, p. ej. ruedas dentadas; de discos de levas [2006.01]"
+  },
+  {
+    "code": "B22F 5/10",
+    "description": "••de artículos con cavidades o agujeros, no previstos en los subgrupos precedentes [2006.01]"
+  },
+  {
+    "code": "B22F 5/12",
+    "description": "••de tubos o alambres [2006.01]"
+  },
+  {
+    "code": "B22F 7/00",
+    "description": "Fabricación de capas compuestas, de piezas u objetos a base de polvos metálicos, por sinterizado con o sin compactado [2006.01]"
+  },
+  {
+    "code": "B22F 7/02",
+    "description": "••de capas compuestas [2006.01]"
+  },
+  {
+    "code": "B22F 7/04",
+    "description": "••••con una o varias capas no realizadas a partir de polvos, p. ej. a partir de chapas [2006.01]"
+  },
+  {
+    "code": "B22F 7/06",
+    "description": "••de piezas u objetos compuestos de partes diferentes, p. ej. para formar herramientas con plaquitas de metal duro [2006.01]"
+  },
+  {
+    "code": "B22F 7/08",
+    "description": "••••con una o varias partes no realizadas a partir de polvos [2006.01]"
+  },
+  {
+    "code": "B22F 8/00",
+    "description": "Fabricación de objetos a partir de desechos o de partículas metálicas residuales [2006.01]"
+  },
+  {
+    "code": "B22F 9/00",
+    "description": "Fabricación de polvos metálicos o de sus suspensiones; Aparatos o dispositivos especialmente adaptados para ello [2006.01]"
+  },
+  {
+    "code": "B22F 9/02",
+    "description": "••por procedimientos físicos [2006.01]"
+  },
+  {
+    "code": "B22F 9/04",
+    "description": "••••a partir de un material sólido, p. ej. por trituración, trabajo con muela o molido [2006.01]"
+  },
+  {
+    "code": "B22F 9/06",
+    "description": "••••a partir de un material líquido [2006.01]"
+  },
+  {
+    "code": "B22F 9/08",
+    "description": "••••••por colada, p. ej. a través de pequeños orificios o en agua, por atomización o pulverización (utilizando descargas eléctricas B22F 9/14) [2006.01]"
+  },
+  {
+    "code": "B22F 9/10",
+    "description": "••••••••empleando la fuerza centrífuga [2006.01]"
+  },
+  {
+    "code": "B22F 9/12",
+    "description": "••••a partir de un producto gaseoso [2006.01]"
+  },
+  {
+    "code": "B22F 9/14",
+    "description": "••••utilizando descargas eléctricas [2006.01]"
+  },
+  {
+    "code": "B22F 9/16",
+    "description": "••por procedimientos químicos [2006.01]"
+  },
+  {
+    "code": "B22F 9/18",
+    "description": "••••con reducción de compuestos metálicos [2006.01]"
+  },
+  {
+    "code": "B22F 9/20",
+    "description": "••••••a partir de compuestos metálicos sólidos [2006.01]"
+  },
+  {
+    "code": "B22F 9/22",
+    "description": "••••••••utilizando reductores gaseosos [2006.01]"
+  },
+  {
+    "code": "B22F 9/24",
+    "description": "••••••a partir de compuestos metálicos líquidos, p. ej. soluciones [2006.01]"
+  },
+  {
+    "code": "B22F 9/26",
+    "description": "••••••••utilizando reductores gaseosos [2006.01]"
+  },
+  {
+    "code": "B22F 9/28",
+    "description": "••••••a partir de compuestos metálicos gaseosos [2006.01]"
+  },
+  {
+    "code": "B22F 9/30",
+    "description": "••••con descomposición de compuestos metálicos, p. ej. por pirólisis [2006.01]"
+  },
+  {
+    "code": "B22F 10/00",
+    "description": "Fabricación aditiva de piezas o artículos a partir de polvos metálicos (aparatos o dispositivos a tal efecto B22F 12/00) [2021.01]"
+  },
+  {
+    "code": "B22F 10/10",
+    "description": "••Formación de un cuerpo verde [2021.01]"
+  },
+  {
+    "code": "B22F 10/12",
+    "description": "••••por fotopolimerización, p. ej. estereolitografía [SLA] o procesado por luz digital [DLP] [2021.01]"
+  },
+  {
+    "code": "B22F 10/14",
+    "description": "••••por inyección de un aglutinante en una base de polvos metálicos [2021.01]"
+  },
+  {
+    "code": "B22F 10/16",
+    "description": "••••embebiendo un aglutinante en una base de polvos [2021.01]"
+  },
+  {
+    "code": "B22F 10/18",
+    "description": "••••mezclando un aglutinante con metal en forma de filamento, p. ej. fabricación por fusión de filamentos [FFF] [2021.01]"
+  },
+  {
+    "code": "B22F 10/20",
+    "description": "••Sinterización directa del fundido [2021.01]"
+  },
+  {
+    "code": "B22F 10/22",
+    "description": "••••Deposición directa del metal fundido [2021.01]"
+  },
+  {
+    "code": "B22F 10/25",
+    "description": "••••Deposición directa de las partículas de metal [DMD] o moldeado por láser [LENS] [2021.01]"
+  },
+  {
+    "code": "B22F 10/28",
+    "description": "••••Fusión de base de polvos, p. ej. fusión selectiva por láser [SLM] o fusión por haz de electrones  [EBM] [2021.01]"
+  },
+  {
+    "code": "B22F 10/30",
+    "description": "••Control del proceso [2021.01]"
+  },
+  {
+    "code": "B22F 10/31",
+    "description": "••••Calibración de los pasos del proceso o de los ajustes del aparato, p.ej. antes o durante la fabricación [2021.01]"
+  },
+  {
+    "code": "B22F 10/32",
+    "description": "••••de la atmósfera, p. ej. composición o presión en la cámara de fabricación [2021.01]"
+  },
+  {
+    "code": "B22F 10/322",
+    "description": "••••••del flujo de gas, p. ej. velocidad o dirección [2021.01]"
+  },
+  {
+    "code": "B22F 10/34",
+    "description": "••••de las características de los polvos, p.ej. densidad, oxidación o fluidez [2021.01]"
+  },
+  {
+    "code": "B22F 10/36",
+    "description": "••••de los parámetros de energía del haz [2021.01]"
+  },
+  {
+    "code": "B22F 10/362",
+    "description": "••••••para el precalentamiento [2021.01]"
+  },
+  {
+    "code": "B22F 10/364",
+    "description": "••••••para el post-calentamiento, p. ej. refundido [2021.01]"
+  },
+  {
+    "code": "B22F 10/366",
+    "description": "••••••Parámetros de barrido, p. ej. distancia de eclosión o estrategia de barrido [2021.01]"
+  },
+  {
+    "code": "B22F 10/368",
+    "description": "••••••Temperatura o gradiente de temperatura, p.ej. temperatura del baño de fundido [2021.01]"
+  },
+  {
+    "code": "B22F 10/37",
+    "description": "••••de aspectos de la base de polvos. ej. densidad [2021.01]"
+  },
+  {
+    "code": "B22F 10/38",
+    "description": "••••para lograr aspectos particulares del producto, p. ej. uniformidad de la superficie, densidad, porosidad o estructuras huecas [2021.01]"
+  },
+  {
+    "code": "B22F 10/39",
+    "description": "••••Trazabilidad, p. ej. incorporación de un identificador en la pieza o artículo [2021.01]"
+  },
+  {
+    "code": "B22F 10/40",
+    "description": "••Estructuras para soportar piezas o artículos durante la fabricación y posteriormente retiradas [2021.01]"
+  },
+  {
+    "code": "B22F 10/43",
+    "description": "••••caracterizadas por el material [2021.01]"
+  },
+  {
+    "code": "B22F 10/47",
+    "description": "••••caracterizadas por aspectos estructurales [2021.01]"
+  },
+  {
+    "code": "B22F 10/50",
+    "description": "••Tratamiento de piezas o artículos durante su fabricación [2021.01]"
+  },
+  {
+    "code": "B22F 10/60",
+    "description": "••Tratamiento de piezas y artículos después de su fabricación [2021.01]"
+  },
+  {
+    "code": "B22F 10/62",
+    "description": "••••por medios químicos [2021.01]"
+  },
+  {
+    "code": "B22F 10/64",
+    "description": "••••por medios térmicos (control de los parámetros de energía del haz para el post-calentamiento B22F 10/364) [2021.01]"
+  },
+  {
+    "code": "B22F 10/66",
+    "description": "••••por medios mecánicos [2021.01]"
+  },
+  {
+    "code": "B22F 10/68",
+    "description": "••••Limpieza o lavado [2021.01]"
+  },
+  {
+    "code": "B22F 10/70",
+    "description": "••Reciclado [2021.01]"
+  },
+  {
+    "code": "B22F 10/73",
+    "description": "••••del polvo [2021.01]"
+  },
+  {
+    "code": "B22F 10/77",
+    "description": "••••del gas [2021.01]"
+  },
+  {
+    "code": "B22F 10/80",
+    "description": "••Adquisición o procesado de datos [2021.01]"
+  },
+  {
+    "code": "B22F 10/85",
+    "description": "••••Para controlar o regular el proceso de fabricación aditiva [2021.01]"
+  },
+  {
+    "code": "B22F 12/00",
+    "description": "Aparatos o dispositivos especialmente adaptados para la fabricación aditiva; Medios auxiliares para la fabricación aditiva; Combinaciones de aparatos o dispositivos de fabricación aditiva con otros aparatos o dispositivos de procesamiento [2021.01]"
+  },
+  {
+    "code": "B22F 12/10",
+    "description": "••Medios auxiliares de calentamiento [2021.01]"
+  },
+  {
+    "code": "B22F 12/13",
+    "description": "••••para precalentar el material [2021.01]"
+  },
+  {
+    "code": "B22F 12/17",
+    "description": "••••para calendar la cámara o plataforma de fabricación [2021.01]"
+  },
+  {
+    "code": "B22F 12/20",
+    "description": "••Medios de refrigeración [2021.01]"
+  },
+  {
+    "code": "B22F 12/30",
+    "description": "••Plataformas o sustratos [2021.01]"
+  },
+  {
+    "code": "B22F 12/33",
+    "description": "••••desplazables en el plano de deposición [2021.01]"
+  },
+  {
+    "code": "B22F 12/37",
+    "description": "••••Rotativas [2021.01]"
+  },
+  {
+    "code": "B22F 12/40",
+    "description": "••Medios de radiación [2021.01]"
+  },
+  {
+    "code": "B22F 12/41",
+    "description": "••••caracterizados por el tipo, p.ej. láser o haz de electrones [2021.01]"
+  },
+  {
+    "code": "B22F 12/42",
+    "description": "••••••Diodos de emisión de luz [LED] [2021.01]"
+  },
+  {
+    "code": "B22F 12/43",
+    "description": "••••••Pulsados; modulados en frecuencia [2021.01]"
+  },
+  {
+    "code": "B22F 12/44",
+    "description": "••••caracterizados por la configuración de los medios de radiación [2021.01]"
+  },
+  {
+    "code": "B22F 12/45",
+    "description": "••••••Dos o más [2021.01]"
+  },
+  {
+    "code": "B22F 12/46",
+    "description": "••••con movimiento de traslación [2021.01]"
+  },
+  {
+    "code": "B22F 12/47",
+    "description": "••••••paralelo al plano de deposición [2021.01]"
+  },
+  {
+    "code": "B22F 12/48",
+    "description": "••••••en altura, p.ej. perpendicular al plano de deposición [2021.01]"
+  },
+  {
+    "code": "B22F 12/49",
+    "description": "••••Escáneres [2021.01]"
+  },
+  {
+    "code": "B22F 12/50",
+    "description": "••Medios para suministrar material, p. ej. cabezas [2021.01]"
+  },
+  {
+    "code": "B22F 12/52",
+    "description": "••••Tolvas [2021.01]"
+  },
+  {
+    "code": "B22F 12/53",
+    "description": "••••Boquillas [2021.01]"
+  },
+  {
+    "code": "B22F 12/55",
+    "description": "••••Dos o más medios para suministrar el material [2021.01]"
+  },
+  {
+    "code": "B22F 12/57",
+    "description": "••••Medios contadores [2021.01]"
+  },
+  {
+    "code": "B22F 12/58",
+    "description": "••••para cambiar la composición del material, p. ej. mediante mezcla [2021.01]"
+  },
+  {
+    "code": "B22F 12/60",
+    "description": "••Dispositivos de pulido; Dispositivo de compresión [2021.01]"
+  },
+  {
+    "code": "B22F 12/63",
+    "description": "••••Rodillos [2021.01]"
+  },
+  {
+    "code": "B22F 12/67",
+    "description": "••••Palas [2021.01]"
+  },
+  {
+    "code": "B22F 12/70",
+    "description": "••Medios para el flujo de gas [2021.01]"
+  },
+  {
+    "code": "B22F 12/80",
+    "description": "••Plantas, líneas de producción o módulos [2021.01]"
+  },
+  {
+    "code": "B22F 12/82",
+    "description": "••••Combinación de aparatos o dispositivos para fabricación aditiva con otros aparatos o dispositivos de procesamiento [2021.01]"
+  },
+  {
+    "code": "B22F 12/84",
+    "description": "••••••Procesamiento en paralelo con un solo dispositivo [2021.01]"
+  },
+  {
+    "code": "B22F 12/86",
+    "description": "••••••Procesamiento en serie con múltiples dispositivos agrupados [2021.01]"
+  },
+  {
+    "code": "B22F 12/88",
+    "description": "••••Manipulación de productos fabricados aditivamente, p. ej. por robots [2021.01]"
+  },
+  {
+    "code": "B22F 12/90",
+    "description": "••Medios para control del proceso, p. ej. cámaras o sensores [2021.01]"
+  }
+]

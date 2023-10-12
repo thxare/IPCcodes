@@ -1,0 +1,458 @@
+[
+  {
+    "code": "F04D 1/00",
+    "description": "Bombas de flujo radial, p. ej. bombas centrífugas; Bombas helicocentrífugas (adaptadas para bombear líquidos particulares F04D 7/00; cebado o sobrepresión F04D 9/00; bombeo simultáneo de líquidos y de fluidos compresibles F04D 31/00) [2006.01]"
+  },
+  {
+    "code": "F04D 1/02",
+    "description": "••con etapas no centrífugas, p. ej. centrípetas [2006.01]"
+  },
+  {
+    "code": "F04D 1/04",
+    "description": "••Bombas helicocentrífugas [2006.01]"
+  },
+  {
+    "code": "F04D 1/06",
+    "description": "••Bombas de etapas múltiples (F04D 1/02 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F04D 1/08",
+    "description": "••••siendo las etapas concéntricas [2006.01]"
+  },
+  {
+    "code": "F04D 1/10",
+    "description": "••••con medios para poder cambiar la trayectoria del flujo a través de las etapas, p. ej. por transformaciones serie-paralelo [2006.01]"
+  },
+  {
+    "code": "F04D 1/12",
+    "description": "••Bombas con palas u órganos de agitación análogos que penetran en el fluido que circula en un tazón [2006.01]"
+  },
+  {
+    "code": "F04D 1/14",
+    "description": "••Bombas que elevan el fluido por fuerza centrífuga en un tazón cónico que gira alrededor de un eje vertical [2006.01]"
+  },
+  {
+    "code": "F04D 3/00",
+    "description": "Bombas con flujo axial (cebado o sobrecompresión F04D 9/00; bombeo simultáneo de líquidos y de fluidos compresibles F04D 31/00) [2006.01]"
+  },
+  {
+    "code": "F04D 3/02",
+    "description": "••del tipo de tornillo [2006.01]"
+  },
+  {
+    "code": "F04D 5/00",
+    "description": "Bombas con flujo circunferencial o transversal (bombeo simultáneo de líquidos y de fluidos compresibles F04D 31/00) [2006.01]"
+  },
+  {
+    "code": "F04D 7/00",
+    "description": "Bombas adaptadas para funcionar con líquidos particulares, p. ej. por selección de materiales específicos para la bomba o alguna de sus partes (bombeo simultáneo de líquidos y de fluidos compresibles F04D 31/00) [2006.01]"
+  },
+  {
+    "code": "F04D 7/02",
+    "description": "••del tipo centrífugo [2006.01]"
+  },
+  {
+    "code": "F04D 7/04",
+    "description": "••••siendo los fluidos viscosos o no homogéneos [2006.01]"
+  },
+  {
+    "code": "F04D 7/06",
+    "description": "••••estando los fluidos calientes o siendo corrosivo, p. ej. metal líquido [2006.01]"
+  },
+  {
+    "code": "F04D 7/08",
+    "description": "••••siendo los fluidos radiactivos [2006.01]"
+  },
+  {
+    "code": "F04D 9/00",
+    "description": "Cebado; Prevención del bloqueo por vapor [2006.01]"
+  },
+  {
+    "code": "F04D 9/02",
+    "description": "••Bombas de autocebado [2006.01]"
+  },
+  {
+    "code": "F04D 9/04",
+    "description": "••Utilización de bombas de cebado; Utilización de bombas de sobrecompresión para evitar el bloqueo por vapor [2006.01]"
+  },
+  {
+    "code": "F04D 9/06",
+    "description": "••••del tipo de chorro [2006.01]"
+  },
+  {
+    "code": "F04D 11/00",
+    "description": "Otras bombas rotativas de desplazamiento no positivo (instalaciones o sistemas de bombeo F04D 13/00; bombeo simultáneo de líquidos y de fluidos compresibles F04D 31/00) [2006.01]"
+  },
+  {
+    "code": "F04D 13/00",
+    "description": "Instalaciones o sistemas de bombeo (su control F04D 15/00; bombeo simultáneo de líquidos y de fluidos compresibles F04D 31/00) [2006.01]"
+  },
+  {
+    "code": "F04D 13/02",
+    "description": "••Conjuntos que comprenden las bombas y sus medios de accionamiento (en caso de que predominen los aspectos de los medios de accionamiento, véase la clase correspondiente a dichos medios) [2006.01]"
+  },
+  {
+    "code": "F04D 13/04",
+    "description": "••••estando la bomba accionada por un fluido [2006.01]"
+  },
+  {
+    "code": "F04D 13/06",
+    "description": "••••estando la bomba accionada por electricidad [2006.01]"
+  },
+  {
+    "code": "F04D 13/08",
+    "description": "••••••para utilización en posición sumergida [2006.01]"
+  },
+  {
+    "code": "F04D 13/10",
+    "description": "••••••••adaptadas para utilización de las perforaciones en minas [2006.01]"
+  },
+  {
+    "code": "F04D 13/12",
+    "description": "••Combinaciones de dos o más bombas (combinaciones con bombas de cebado o de sobrepresión para luchar contra el bloqueo por vapor F04D 9/04) [2006.01]"
+  },
+  {
+    "code": "F04D 13/14",
+    "description": "••••siendo todas las bombas del tipo centrífugo [2006.01]"
+  },
+  {
+    "code": "F04D 13/16",
+    "description": "••con depósitos de almacenamiento [2006.01]"
+  },
+  {
+    "code": "F04D 15/00",
+    "description": "Control, p. ej. regulación de las bombas, instalaciones o sistemas de bombeo [2006.01]"
+  },
+  {
+    "code": "F04D 15/02",
+    "description": "••Parada de bombas, o accionamiento de válvulas en caso de funcionamiento indeseable [2006.01]"
+  },
+  {
+    "code": "F04D 17/00",
+    "description": "Bombas de flujo radial especialmente adaptadas para fluídos compresibles, p. ej. bombas centrífugas; Bombas helicocentrífugas especialmente adaptadas para fluídos compresibles (F04D 21/00 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F04D 17/02",
+    "description": "••teniendo etapas no centrífugas, p. ej. centrípetas [2006.01]"
+  },
+  {
+    "code": "F04D 17/04",
+    "description": "••••del tipo de flujo transversal [2006.01]"
+  },
+  {
+    "code": "F04D 17/06",
+    "description": "••Bombas helicocentrífugas [2006.01]"
+  },
+  {
+    "code": "F04D 17/08",
+    "description": "••Bombas centrífugas [2006.01]"
+  },
+  {
+    "code": "F04D 17/10",
+    "description": "••••para la compresión o la evacuación [2006.01]"
+  },
+  {
+    "code": "F04D 17/12",
+    "description": "••••••Bombas de etapas múltiples [2006.01]"
+  },
+  {
+    "code": "F04D 17/14",
+    "description": "••••••••con medios para cambiar la trayectoria del flujo a través de las etapas, p. ej. por transformaciones serie-paralelo (control del embalamiento F04D 27/02) [2006.01]"
+  },
+  {
+    "code": "F04D 17/16",
+    "description": "••••para desplazamiento sin compresión notable [2006.01]"
+  },
+  {
+    "code": "F04D 17/18",
+    "description": "••••caracterizadas por la utilización de la fuerza centrífuga del líquido arrastrado por la bomba [2006.01]"
+  },
+  {
+    "code": "F04D 19/00",
+    "description": "Bombas de flujo axial especialmente adaptadas para fluídos compresibles (F04D 21/00 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F04D 19/02",
+    "description": "••Bombas de etapas múltiples [2006.01]"
+  },
+  {
+    "code": "F04D 19/04",
+    "description": "••••especialmente adaptadas para alcanzar un alto vacío, p. ej. bombas moleculares [2006.01]"
+  },
+  {
+    "code": "F04D 21/00",
+    "description": "Bombas especialmente adaptadas para fluídos compresibles que implican una velocidad supersónica del fluido bombeado [2006.01]"
+  },
+  {
+    "code": "F04D 23/00",
+    "description": "Otras bombas rotativas de desplazamiento no positivo especialmente adaptadas para fluídos compresibles (instalaciones o sistemas de bombeo F04D 25/00) [2006.01]"
+  },
+  {
+    "code": "F04D 25/00",
+    "description": "Instalaciones o sistemas de bombeo especialmente adaptadas para fluídos compresibles (su control F04D 27/00) [2006.01]"
+  },
+  {
+    "code": "F04D 25/02",
+    "description": "••Conjuntos que comprenden bombas y sus medios de accionamiento (si predominan los medios de accionamiento, véanse las clases apropiadas para estos medios) [2006.01]"
+  },
+  {
+    "code": "F04D 25/04",
+    "description": "••••siendo la bomba accionada por fluido [2006.01]"
+  },
+  {
+    "code": "F04D 25/06",
+    "description": "••••siendo la bomba accionada por electricidad (F04D 25/08 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F04D 25/08",
+    "description": "••••siendo el fluido de trabajo, el aire, p. ej. para la ventilación [2006.01]"
+  },
+  {
+    "code": "F04D 25/10",
+    "description": "••••••teniendo el conjunto medios de cambiar automáticamente la dirección del aire expulsado [2006.01]"
+  },
+  {
+    "code": "F04D 25/12",
+    "description": "••••••estando adaptado el conjunto para colocarlo en aberturas [2006.01]"
+  },
+  {
+    "code": "F04D 25/14",
+    "description": "••••••••y disponiendo de obturadores, p. ej. para cierre automático cuando aquél no está en servicio [2006.01]"
+  },
+  {
+    "code": "F04D 25/16",
+    "description": "••Combinaciones de varias bombas [2006.01]"
+  },
+  {
+    "code": "F04D 27/00",
+    "description": "Control, p. ej. regulación de las bombas, instalaciones o sistemas de bombeo especialmente adaptadas para fluídos compresibles [2006.01]"
+  },
+  {
+    "code": "F04D 27/02",
+    "description": "••Control del embalamiento [2006.01]"
+  },
+  {
+    "code": "F04D 29/02",
+    "description": "••Empleo de materiales (para funcionar con líquidos particulares F04D 7/00) [2006.01]"
+  },
+  {
+    "code": "F04D 29/04",
+    "description": "••Ejes o cojinetes, o montaje de los mismos (especialmente adaptados para bombas de fluidos compresibles F04D 29/05) [2006.01]"
+  },
+  {
+    "code": "F04D 29/041",
+    "description": "••••Equilibrado de los empujes axiales [2006.01]"
+  },
+  {
+    "code": "F04D 29/042",
+    "description": "••••Rotores que se pueden desplazar en dirección axial (F04D 29/041 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F04D 29/043",
+    "description": "••••Ejes [2006.01]"
+  },
+  {
+    "code": "F04D 29/044",
+    "description": "••••••Disposiciones para la unión o el ensamblaje de ejes [2006.01]"
+  },
+  {
+    "code": "F04D 29/046",
+    "description": "••••Cojinetes [2006.01]"
+  },
+  {
+    "code": "F04D 29/047",
+    "description": "••••••hidrostáticos; hidrodinámicos [2006.01]"
+  },
+  {
+    "code": "F04D 29/048",
+    "description": "••••••magnéticos; electromagnéticos [2006.01]"
+  },
+  {
+    "code": "F04D 29/049",
+    "description": "••••••Cojinetes de rodillos [2006.01]"
+  },
+  {
+    "code": "F04D 29/05",
+    "description": "••Ejes, cojinetes o sus conjuntos, especialmente adaptados a las bombas para fluidos compresibles [2006.01]"
+  },
+  {
+    "code": "F04D 29/051",
+    "description": "••••Equilibrado de los empujes axiales [2006.01]"
+  },
+  {
+    "code": "F04D 29/052",
+    "description": "••••Rotores que se pueden desplazar en dirección axial (F04D 29/051 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F04D 29/053",
+    "description": "••••Ejes [2006.01]"
+  },
+  {
+    "code": "F04D 29/054",
+    "description": "••••••Disposiciones para la unión o el ensamblaje de ejes [2006.01]"
+  },
+  {
+    "code": "F04D 29/056",
+    "description": "••••Cojinetes [2006.01]"
+  },
+  {
+    "code": "F04D 29/057",
+    "description": "••••••hidrostáticos; hidrodinámicos [2006.01]"
+  },
+  {
+    "code": "F04D 29/058",
+    "description": "••••••magnéticos; electromagnéticos [2006.01]"
+  },
+  {
+    "code": "F04D 29/059",
+    "description": "••••••Cojinetes de rodillos [2006.01]"
+  },
+  {
+    "code": "F04D 29/06",
+    "description": "••Lubrificación [2006.01]"
+  },
+  {
+    "code": "F04D 29/063",
+    "description": "••••especialmente adaptada para bombas de fluidos compresibles [2006.01]"
+  },
+  {
+    "code": "F04D 29/08",
+    "description": "••Juntas de estanqueidad [2006.01]"
+  },
+  {
+    "code": "F04D 29/10",
+    "description": "••••Juntas de estanqueidad para ejes [2006.01]"
+  },
+  {
+    "code": "F04D 29/12",
+    "description": "••••••utilizando anillos de estanqueidad [2006.01]"
+  },
+  {
+    "code": "F04D 29/14",
+    "description": "••••••actuando únicamente cuando la bomba no funciona [2006.01]"
+  },
+  {
+    "code": "F04D 29/16",
+    "description": "••••entre el lado de presión y el de aspiración [2006.01]"
+  },
+  {
+    "code": "F04D 29/18",
+    "description": "••Rotores (especialmente adaptados para fluidos compresibles F04D 29/26) [2006.01]"
+  },
+  {
+    "code": "F04D 29/20",
+    "description": "••••Montaje de los rotores sobre los árboles [2006.01]"
+  },
+  {
+    "code": "F04D 29/22",
+    "description": "••••especialmente para las bombas centrífugas [2006.01]"
+  },
+  {
+    "code": "F04D 29/24",
+    "description": "••••••Alabes [2006.01]"
+  },
+  {
+    "code": "F04D 29/26",
+    "description": "••Rotores especialmente adaptados para fluidos compresibles [2006.01]"
+  },
+  {
+    "code": "F04D 29/28",
+    "description": "••••para bombas centrífugas helicocentrífugas [2006.01]"
+  },
+  {
+    "code": "F04D 29/30",
+    "description": "••••••Alabes [2006.01]"
+  },
+  {
+    "code": "F04D 29/32",
+    "description": "••••para bombas de flujo axial [2006.01]"
+  },
+  {
+    "code": "F04D 29/34",
+    "description": "••••••Montaje de los álabes [2006.01]"
+  },
+  {
+    "code": "F04D 29/36",
+    "description": "••••••••regulable [2006.01]"
+  },
+  {
+    "code": "F04D 29/38",
+    "description": "••••••Alabes [2006.01]"
+  },
+  {
+    "code": "F04D 29/40",
+    "description": "••Carcasas; Conductos para el fluido de trabajo [2006.01]"
+  },
+  {
+    "code": "F04D 29/42",
+    "description": "••••en bombas radiales o helicocentrífugas [2006.01]"
+  },
+  {
+    "code": "F04D 29/44",
+    "description": "••••••Guías para el fluido, p. ej. difusores [2006.01]"
+  },
+  {
+    "code": "F04D 29/46",
+    "description": "••••••••regulables [2006.01]"
+  },
+  {
+    "code": "F04D 29/48",
+    "description": "••••••••••para flujo unidireccional de fluido en las bombas reversibles [2006.01]"
+  },
+  {
+    "code": "F04D 29/50",
+    "description": "••••••••••para invertir el flujo de fluido [2006.01]"
+  },
+  {
+    "code": "F04D 29/52",
+    "description": "••••para bombas axiales [2006.01]"
+  },
+  {
+    "code": "F04D 29/54",
+    "description": "••••••Guías para el fluido, p. ej. difusores [2006.01]"
+  },
+  {
+    "code": "F04D 29/56",
+    "description": "••••••••regulables [2006.01]"
+  },
+  {
+    "code": "F04D 29/58",
+    "description": "••Refrigeración (de las máquinas o motores en general F01P); Calentamiento; Reducción de las pérdidas de calor por transferencia [2006.01]"
+  },
+  {
+    "code": "F04D 29/60",
+    "description": "••Montaje; Ensamblado; Desmontaje [2006.01]"
+  },
+  {
+    "code": "F04D 29/62",
+    "description": "••••de las bombas radiales o helicocentrífugas [2006.01]"
+  },
+  {
+    "code": "F04D 29/64",
+    "description": "••••de las bombas axiales [2006.01]"
+  },
+  {
+    "code": "F04D 29/66",
+    "description": "••Lucha contra la cavitación, los torbellinos, el ruido, las vibraciones o fenómenos análogos (silenciadores de flujo de gas, para máquinas o motores en general F01N); Equilibrado (control del embalamiento F04D 27/02) [2006.01]"
+  },
+  {
+    "code": "F04D 29/68",
+    "description": "••••actuando sobre las capas límites [2006.01]"
+  },
+  {
+    "code": "F04D 29/70",
+    "description": "••Rejillas de aspiración; Alcachofas; Separadores de polvo; Limpieza [2006.01]"
+  },
+  {
+    "code": "F04D 31/00",
+    "description": "Bombeo simultáneo de líquidos y de fluidos compresibles [2006.01]"
+  },
+  {
+    "code": "F04D 33/00",
+    "description": "Bombas de desplazamiento no positivo que emplean un movimiento diferente al de rotación pura, p. ej. del tipo oscilante (F04D 35/00 tiene prioridad; ventiladores sostenidos con la mano A45B) [2006.01]"
+  },
+  {
+    "code": "F04D 35/00",
+    "description": "Bombas para producir ondas en líquidos, es decir, generadores de ondas (para bañeras A47K 3/10) [2006.01]"
+  }
+]

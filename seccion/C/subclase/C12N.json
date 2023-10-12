@@ -1,0 +1,954 @@
+[
+  {
+    "code": "C12N 1/00",
+    "description": "Microorganismos, p.ej. protozoos; Composiciones que los contienen (preparaciones de uso médico que contienen material de protozoos, bacterias o virus A61K 35/66, de algas A61K 36/02, de hongos A61K 36/06; preparación de composiciones de uso médico que contienen antígenos o anticuerpos bacterianos, p. ej. vacunas bacterianas, A61K 39/00); Procesos de cultivo o conservación de microorganismos, o de composiciones que los contienen; Procesos de preparación o aislamiento de una composición que contiene un microorganismo; Sus medios de cultivo [2006.01]"
+  },
+  {
+    "code": "C12N 1/02",
+    "description": "••Separación de microorganismos de sus medios de cultivo [2006.01]"
+  },
+  {
+    "code": "C12N 1/04",
+    "description": "••Conservación de microorganismos en estado vivo (microorganismos inmovilizados C12N 11/00) [2006.01]"
+  },
+  {
+    "code": "C12N 1/06",
+    "description": "••Lisis de microorganismos [2006.01]"
+  },
+  {
+    "code": "C12N 1/08",
+    "description": "••Reducción del contenido en ácido nucleico [2006.01]"
+  },
+  {
+    "code": "C12N 1/10",
+    "description": "••Protozoos; Sus medios de cultivo [2006.01]"
+  },
+  {
+    "code": "C12N 1/11",
+    "description": "••••modificados por la introducción de material genético extraño [2006.01]"
+  },
+  {
+    "code": "C12N 1/12",
+    "description": "••Algas unicelulares; Sus medios de cultivo (como novedades vegetales A01H 13/00) [2006.01]"
+  },
+  {
+    "code": "C12N 1/13",
+    "description": "••••modificados por la introducción de material genético extraño [2006.01]"
+  },
+  {
+    "code": "C12N 1/14",
+    "description": "••Microorganismos fúngicos (cultivo de setas A01G 18/00; como novedades vegetales A01H 15/00); Sus medios de cultivo [2006.01]"
+  },
+  {
+    "code": "C12N 1/15",
+    "description": "••••modificados por la introducción de material genético extraño [2006.01]"
+  },
+  {
+    "code": "C12N 1/16",
+    "description": "••••Levaduras; Sus medios de cultivo [2006.01]"
+  },
+  {
+    "code": "C12N 1/18",
+    "description": "••••••Levadura de panadería; Levadura de cerveza [2006.01]"
+  },
+  {
+    "code": "C12N 1/19",
+    "description": "••••••modificados por la introducción de material genético extraño [2006.01]"
+  },
+  {
+    "code": "C12N 1/20",
+    "description": "••Bacterias; Sus medios de cultivo [2006.01]"
+  },
+  {
+    "code": "C12N 1/21",
+    "description": "••••modificados por la introducción de material genético extraño [2006.01]"
+  },
+  {
+    "code": "C12N 1/22",
+    "description": "••Procesos que utilizan celulosa o sus hidrolizados o medios de cultivo que los contienen [2006.01]"
+  },
+  {
+    "code": "C12N 1/24",
+    "description": "••Procesos que utilizan licores sulfíticos residuales o medios de cultivo que los contienen [2006.01]"
+  },
+  {
+    "code": "C12N 1/26",
+    "description": "••Procesos que utilizan hidrocarburos o medios de cultivo que los contienen (refino de aceites de hidrocarburos por utilización de microorganismos C10G 32/00) [2006.01]"
+  },
+  {
+    "code": "C12N 1/28",
+    "description": "••••alifáticos [2006.01]"
+  },
+  {
+    "code": "C12N 1/30",
+    "description": "••••••con a lo más cinco átomos de carbono [2006.01]"
+  },
+  {
+    "code": "C12N 1/32",
+    "description": "••Procesos que utilizan alcoholes saturados inferiores, es decir, de C1 a C6 [2006.01]"
+  },
+  {
+    "code": "C12N 1/34",
+    "description": "••Procesos que utilizan cultivo en espuma [2006.01]"
+  },
+  {
+    "code": "C12N 1/36",
+    "description": "••Adaptación o atenuación de células [2006.01]"
+  },
+  {
+    "code": "C12N 1/38",
+    "description": "••Estimulación química del crecimiento o de la actividad por adición de compuestos químicos que no son factores esenciales de crecimiento; Estimulación del crecimiento por eliminación de un compuesto químico (C12N 1/34 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "C12N 3/00",
+    "description": "Procesos para formar o aislar esporas [2006.01]"
+  },
+  {
+    "code": "C12N 5/00",
+    "description": "Células no diferenciadas humanas, animales o vegetales, p. ej. líneas celulares; Tejidos; Su cultivo o conservación; Medios de cultivo para este fin (reproducción de plantas por técnicas de cultivo de tejidos A01H 4/00) [2006.01]"
+  },
+  {
+    "code": "C12N 5/02",
+    "description": "••Propagación de células individuales o de células en suspensión; Su conservación; Medios de cultivo para este fin [2006.01]"
+  },
+  {
+    "code": "C12N 5/04",
+    "description": "••Células o tejidos vegetales [2006.01]"
+  },
+  {
+    "code": "C12N 5/07",
+    "description": "••Células o tejidos animales [2010.01]"
+  },
+  {
+    "code": "C12N 5/071",
+    "description": "••••Células o tejidos de vertebrados, p.ej. células o tejidos humanos [2010.01]"
+  },
+  {
+    "code": "C12N 5/073",
+    "description": "••••••Células o tejidos embrionarios; Células o tejidos fetales [2010.01]"
+  },
+  {
+    "code": "C12N 5/0735",
+    "description": "••••••••Células madre embrionarias; Células germinales embrionarias [2010.01]"
+  },
+  {
+    "code": "C12N 5/074",
+    "description": "••••••Células madre adultas [2010.01]"
+  },
+  {
+    "code": "C12N 5/075",
+    "description": "••••••Ovocitos; Ovogonias [2010.01]"
+  },
+  {
+    "code": "C12N 5/076",
+    "description": "••••••Células espermáticas; Espermatogonias [2010.01]"
+  },
+  {
+    "code": "C12N 5/077",
+    "description": "••••••Células mesenquimales, p. ej. Células óseas, células cartilaginosas, Células del estroma de la médula ósea, células adiposas o células musculares [2010.01]"
+  },
+  {
+    "code": "C12N 5/0775",
+    "description": "••••••••Células madre mesenquimales; Células madre derivadas de tejido adiposo [2010.01]"
+  },
+  {
+    "code": "C12N 5/078",
+    "description": "••••••Células de la sangre o del sistema inmune [2010.01]"
+  },
+  {
+    "code": "C12N 5/0781",
+    "description": "••••••••Células B; Sus progenitores [2010.01]"
+  },
+  {
+    "code": "C12N 5/0783",
+    "description": "••••••••Células T; Células NK; Progenitores de células T o NK [2010.01]"
+  },
+  {
+    "code": "C12N 5/0784",
+    "description": "••••••••Células dendríticas; Sus progenitores [2010.01]"
+  },
+  {
+    "code": "C12N 5/0786",
+    "description": "••••••••Monocitos; Macrófagos [2010.01]"
+  },
+  {
+    "code": "C12N 5/0787",
+    "description": "••••••••Granulocitos, P. ej. basófilos, eosinófilos, neutrófilos o mastocitos [2010.01]"
+  },
+  {
+    "code": "C12N 5/0789",
+    "description": "••••••••Células madre; Células progenitoras multipotentes [2010.01]"
+  },
+  {
+    "code": "C12N 5/079",
+    "description": "••••••Células neurales [2010.01]"
+  },
+  {
+    "code": "C12N 5/0793",
+    "description": "••••••••Neuronas [2010.01]"
+  },
+  {
+    "code": "C12N 5/0797",
+    "description": "••••••••Células madre; Células progenitoras [2010.01]"
+  },
+  {
+    "code": "C12N 5/09",
+    "description": "••Células tumorales [2010.01]"
+  },
+  {
+    "code": "C12N 5/095",
+    "description": "••••Células madre; Células progenitoras [2010.01]"
+  },
+  {
+    "code": "C12N 5/10",
+    "description": "••Células modificadas por introducción de material genético extraño, p. ej. células transformadas por virus [2006.01]"
+  },
+  {
+    "code": "C12N 5/12",
+    "description": "••••Células fusionadas, p. ej. hibridomas [2006.01]"
+  },
+  {
+    "code": "C12N 5/14",
+    "description": "••••••Células vegetales [2006.01]"
+  },
+  {
+    "code": "C12N 5/16",
+    "description": "••••••Células animales [2006.01]"
+  },
+  {
+    "code": "C12N 5/18",
+    "description": "••••••••Células de murino, p. ej. células de ratón [2006.01]"
+  },
+  {
+    "code": "C12N 5/20",
+    "description": "••••••••••siendo uno de los integrantes de la fusión un linfocito B [2006.01]"
+  },
+  {
+    "code": "C12N 5/22",
+    "description": "••••••Células humanas [2006.01]"
+  },
+  {
+    "code": "C12N 5/24",
+    "description": "••••••••siendo uno de los integrantes de la fusión un linfocito B [2006.01]"
+  },
+  {
+    "code": "C12N 5/26",
+    "description": "••••••Células resultantes de una fusión inter-especies [2006.01]"
+  },
+  {
+    "code": "C12N 5/28",
+    "description": "••••••••siendo uno de los integrantes de la fusión una célula humana [2006.01]"
+  },
+  {
+    "code": "C12N 7/00",
+    "description": "Virus, p. ej. bacteriófagos; Composiciones que los contienen; Su preparación o purificación (preparaciones de uso médico que contienen virus A61K 35/76; preparación de composiciones de uso médico que contienen antígenos o anticuerpos virales, p. ej. vacunas virales, A61K 39/00) [2006.01]"
+  },
+  {
+    "code": "C12N 7/01",
+    "description": "••Virus, p. ej. Bacteriófagos, modificados por la introducción de material genético externo (vectores C12N 15/00) [2006.01]"
+  },
+  {
+    "code": "C12N 7/02",
+    "description": "••Aislamiento o purificación [2006.01]"
+  },
+  {
+    "code": "C12N 7/04",
+    "description": "••Inactivación o atenuación; Producción de partes elementales de virus [2006.01]"
+  },
+  {
+    "code": "C12N 7/06",
+    "description": "••••por tratamiento químico [2006.01]"
+  },
+  {
+    "code": "C12N 7/08",
+    "description": "••••por pases sucesivos de virus [2006.01]"
+  },
+  {
+    "code": "C12N 9/00",
+    "description": "Enzimas, p. ej. ligasas (6.); Proenzimas; Composiciones que las contienen (preparaciones para la limpieza de los dientes que contienen enzimas A61K 8/66, A61Q 11/00; preparaciones de uso médico que contienen enzimas A61K 38/43; composiciones detergentes que contienen enzimas C11D); Procesos para preparar, activar, inhibir, separar o purificar enzimas [2006.01]"
+  },
+  {
+    "code": "C12N 9/02",
+    "description": "••Oxidorreductasas (1.), p. ej. luciferasa [2006.01]"
+  },
+  {
+    "code": "C12N 9/04",
+    "description": "••••actúan sobre grupos CHOH como dadores, p. ej. glucosa oxidasa de glucosa, deshidrogenasa láctica (1.1) [2006.01]"
+  },
+  {
+    "code": "C12N 9/06",
+    "description": "••••actúan sobre compuestos que contienen nitrógeno como dadores (1.4, 1.5, 1.7) [2006.01]"
+  },
+  {
+    "code": "C12N 9/08",
+    "description": "••••actúan sobre el peróxido de hidrógeno como aceptor (1.11) [2006.01]"
+  },
+  {
+    "code": "C12N 9/10",
+    "description": "••Transferasas (2.) (ribonucleasas C12N 9/22) [2006.01]"
+  },
+  {
+    "code": "C12N 9/12",
+    "description": "••••transfieren grupos que contienen fósforo, p. ej. Quinasas (2.7) [2006.01]"
+  },
+  {
+    "code": "C12N 9/14",
+    "description": "••Hidrolasas (3.) [2006.01]"
+  },
+  {
+    "code": "C12N 9/16",
+    "description": "••••actúan sobre los enlaces éster (3.1) [2006.01]"
+  },
+  {
+    "code": "C12N 9/18",
+    "description": "••••••Hidrolasas que actúan sobre los ésteres de ácidos carboxílicos [2006.01]"
+  },
+  {
+    "code": "C12N 9/20",
+    "description": "••••••••Escisión de triglicéridos, p. ej. por medio de lipasa [2006.01]"
+  },
+  {
+    "code": "C12N 9/22",
+    "description": "••••••Ribonucleasas [2006.01]"
+  },
+  {
+    "code": "C12N 9/24",
+    "description": "••••actúan sobre compuestos glicosílicos (3.2) [2006.01]"
+  },
+  {
+    "code": "C12N 9/26",
+    "description": "••••••actúan sobre enlaces alfa-glucosídicos-1, 4, p. ej. hialuronidasa, invertasa, amilasa [2006.01]"
+  },
+  {
+    "code": "C12N 9/28",
+    "description": "••••••••alfa-amilasa de origen microbiano, p. ej. amilasa bacteriana [2006.01]"
+  },
+  {
+    "code": "C12N 9/30",
+    "description": "••••••••••de origen fúngico [2006.01]"
+  },
+  {
+    "code": "C12N 9/32",
+    "description": "••••••••alfa-amilasa de origen vegetal [2006.01]"
+  },
+  {
+    "code": "C12N 9/34",
+    "description": "••••••••Glucoamilasa [2006.01]"
+  },
+  {
+    "code": "C12N 9/36",
+    "description": "••••••actúan sobre los enlaces beta-1,4 del ácido N-acetilmurámico con aceitilamino-2 deoxi-2-D-glucosa, p. ej. lisozima [2006.01]"
+  },
+  {
+    "code": "C12N 9/38",
+    "description": "••••••actúan sobre los enlaces beta-galactosa-glicósido, p. ej. beta-galactosidasa [2006.01]"
+  },
+  {
+    "code": "C12N 9/40",
+    "description": "••••••actúan sobre los enlaces alfa-galactosa-glicósido, p. ej. alfa-galactosidasa [2006.01]"
+  },
+  {
+    "code": "C12N 9/42",
+    "description": "••••••actúan sobre los enlaces beta-glucosídicos-1,4, p. ej. celulasa [2006.01]"
+  },
+  {
+    "code": "C12N 9/44",
+    "description": "••••••actúan sobre los enlaces alfa-glucosídicos-1,6, p. ej. isoamilasa, pululanasa [2006.01]"
+  },
+  {
+    "code": "C12N 9/46",
+    "description": "••••••••Dextranasa [2006.01]"
+  },
+  {
+    "code": "C12N 9/48",
+    "description": "••••actúan sobre los enlaces peptídicos, p. ej. tromboplastina, aminopeptidasa de la leucina (3.4) [2006.01]"
+  },
+  {
+    "code": "C12N 9/50",
+    "description": "••••••Proteinasas [2006.01]"
+  },
+  {
+    "code": "C12N 9/52",
+    "description": "••••••••que provienen de bacterias [2006.01]"
+  },
+  {
+    "code": "C12N 9/54",
+    "description": "••••••••••siendo las bacterias del género Bacillus [2006.01]"
+  },
+  {
+    "code": "C12N 9/56",
+    "description": "••••••••••••Bacillus subtilis o Bacillus licheniformis [2006.01]"
+  },
+  {
+    "code": "C12N 9/58",
+    "description": "••••••••que provienen de hongos [2006.01]"
+  },
+  {
+    "code": "C12N 9/60",
+    "description": "••••••••••de levadura [2006.01]"
+  },
+  {
+    "code": "C12N 9/62",
+    "description": "••••••••••de Aspergillus [2006.01]"
+  },
+  {
+    "code": "C12N 9/64",
+    "description": "••••••••que provienen de tejido animal, p. ej. renina [2006.01]"
+  },
+  {
+    "code": "C12N 9/66",
+    "description": "••••••Elastasa [2006.01]"
+  },
+  {
+    "code": "C12N 9/68",
+    "description": "••••••Plasmina, es decir, fibronolisina [2006.01]"
+  },
+  {
+    "code": "C12N 9/70",
+    "description": "••••••Estreptoquinasa [2006.01]"
+  },
+  {
+    "code": "C12N 9/72",
+    "description": "••••••Uroquinasa [2006.01]"
+  },
+  {
+    "code": "C12N 9/74",
+    "description": "••••••Trombina [2006.01]"
+  },
+  {
+    "code": "C12N 9/76",
+    "description": "••••••Tripsina; Quimotripsina [2006.01]"
+  },
+  {
+    "code": "C12N 9/78",
+    "description": "••••actúan sobre los enlaces carbono-nitrógeno distintos a los enlaces peptídicos (3.5) [2006.01]"
+  },
+  {
+    "code": "C12N 9/80",
+    "description": "••••••actúan sobre los enlaces amida de las amidas alifáticas [2006.01]"
+  },
+  {
+    "code": "C12N 9/82",
+    "description": "••••••••Asparaginasa [2006.01]"
+  },
+  {
+    "code": "C12N 9/84",
+    "description": "••••••••Penicilinamidasa [2006.01]"
+  },
+  {
+    "code": "C12N 9/86",
+    "description": "••••••actúan sobre los enlaces amida de las amidas cíclicas, p. ej. penicilinasa [2006.01]"
+  },
+  {
+    "code": "C12N 9/88",
+    "description": "••Liasas (4.) [2006.01]"
+  },
+  {
+    "code": "C12N 9/90",
+    "description": "••Isomerasas (5.) [2006.01]"
+  },
+  {
+    "code": "C12N 9/92",
+    "description": "••••glucosa isomerasa [2006.01]"
+  },
+  {
+    "code": "C12N 9/94",
+    "description": "••Pancreatina [2006.01]"
+  },
+  {
+    "code": "C12N 9/96",
+    "description": "••Estabilización de una enzima por formación de un aducto o de una composición; Formación de conjugaciones de enzimas [2006.01]"
+  },
+  {
+    "code": "C12N 9/98",
+    "description": "••Preparación de composiciones que contienen enzimas en forma de granulados o de materiales sólidos fluidos (C12N 9/96 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "C12N 9/99",
+    "description": "••Inactivación de enzimas por tratamiento químico [2006.01]"
+  },
+  {
+    "code": "C12N 11/00",
+    "description": "Enzimas fijadas sobre un soporte o inmovilizadas; Células microbianas fijadas sobre un soporte o inmovilizadas; Su preparación [2006.01]"
+  },
+  {
+    "code": "C12N 11/02",
+    "description": "••Enzimas o células microbianas inmovilizadas sobre o en un soporte orgánico [2006.01]"
+  },
+  {
+    "code": "C12N 11/04",
+    "description": "••••atrapadas en el interior del soporte, p. ej. en un gel o en fibras huecas [2006.01]"
+  },
+  {
+    "code": "C12N 11/06",
+    "description": "••••unidas al soporte por medio de un agente de puenteo [2006.01]"
+  },
+  {
+    "code": "C12N 11/08",
+    "description": "••••siendo el soporte un polímero sintético [2020.01]"
+  },
+  {
+    "code": "C12N 11/082",
+    "description": "••••••obtenido por reacciones que implican únicamente enlaces insaturados carbono-carbono [2020.01]"
+  },
+  {
+    "code": "C12N 11/084",
+    "description": "••••••••Polímeros que contienen unidades de alcohol vinílico [2020.01]"
+  },
+  {
+    "code": "C12N 11/087",
+    "description": "••••••••Polímeros acrílicos [2020.01]"
+  },
+  {
+    "code": "C12N 11/089",
+    "description": "••••••obtenido por reacciones diferentes a las que implican solamente enlaces insaturados carbono-carbono [2020.01]"
+  },
+  {
+    "code": "C12N 11/091",
+    "description": "••••••••Resinas de fenol; Resinas amino [2020.01]"
+  },
+  {
+    "code": "C12N 11/093",
+    "description": "••••••••Poliuretanos [2020.01]"
+  },
+  {
+    "code": "C12N 11/096",
+    "description": "••••••••Poliésteres; Poliamidas [2020.01]"
+  },
+  {
+    "code": "C12N 11/098",
+    "description": "••••••formado en presencia de enzimas o células microbianas [2020.01]"
+  },
+  {
+    "code": "C12N 11/10",
+    "description": "••••siendo el soporte un hidrato de carbono [2006.01]"
+  },
+  {
+    "code": "C12N 11/12",
+    "description": "••••••Celulosa o sus derivados [2006.01]"
+  },
+  {
+    "code": "C12N 11/14",
+    "description": "••Enzimas o células microbianas inmovilizadas sobre o en un soporte inorgánico [2006.01]"
+  },
+  {
+    "code": "C12N 11/16",
+    "description": "••Enzimas o células microbianas inmovilizadas sobre o en una célula biológica [2006.01]"
+  },
+  {
+    "code": "C12N 11/18",
+    "description": "••Sistemas multienzimáticos [2006.01]"
+  },
+  {
+    "code": "C12N 13/00",
+    "description": "Tratamiento de microorganismos o enzimas por energía eléctrica u ondulatoria, p. ej. por magnetismo, por ondas sonoras [2006.01]"
+  },
+  {
+    "code": "C12N 15/00",
+    "description": "Técnicas de mutación o de ingeniería genética; ADN o ARN relacionado con la ingeniería genética, vectores, p. ej. plásmidos, o su aislamiento, su preparación o su purificación; Utilización de huéspedes para ello (mutantes o microorganismos modificados por ingeniería genética C12N 1/00, C12N 5/00, C12N 7/00; nuevas plantas en sí A01H; reproducción de plantas por técnicas de cultivo de tejidos A01H 4/00; nuevas razas animales en sí A01K 67/00; utilización de preparaciones medicinales que contienen material genético que es introducido en células del cuerpo humano para tratar enfermedades genéticas, terapia génica A61K 48/00; péptidos en general C07K) [2006.01]"
+  },
+  {
+    "code": "C12N 15/01",
+    "description": "••Preparación de mutantes sin introducción de material genético extraño; Procedimientos de cribado para ello [2006.01]"
+  },
+  {
+    "code": "C12N 15/02",
+    "description": "••Preparación de células híbridas por fusión de dos o más células, p. ej. fusión de protoplastos [2006.01]"
+  },
+  {
+    "code": "C12N 15/03",
+    "description": "••••Bacterias [2006.01]"
+  },
+  {
+    "code": "C12N 15/04",
+    "description": "••••Hongos [2006.01]"
+  },
+  {
+    "code": "C12N 15/05",
+    "description": "••••Células vegetales [2006.01]"
+  },
+  {
+    "code": "C12N 15/06",
+    "description": "••••Células animales [2006.01]"
+  },
+  {
+    "code": "C12N 15/07",
+    "description": "••••Células humanas [2006.01]"
+  },
+  {
+    "code": "C12N 15/08",
+    "description": "••••Células resultantes de una fusión interespecies [2006.01]"
+  },
+  {
+    "code": "C12N 15/09",
+    "description": "••Tecnología del ADN recombinante [2006.01]"
+  },
+  {
+    "code": "C12N 15/10",
+    "description": "••••Procedimientos para el aislamiento, la preparación o la purificación de ADN o ARN (preparación química de ADN o ARN C07H 21/00; preparación de polinucleótidos no estructurales a partir de microorganismos o con la ayuda de enzimas C12P 19/34) [2006.01]"
+  },
+  {
+    "code": "C12N 15/11",
+    "description": "••••Fragmentos de ADN o de ARN; sus formas modificadas (ADN o ARN no empleado en tecnología de recombinación C07H 21/00) [2006.01]"
+  },
+  {
+    "code": "C12N 15/113",
+    "description": "••••••Acidos nucleicos no codificantes que modulan la expresión de genes, p.ej. oligonucleótidos antisentido [2010.01]"
+  },
+  {
+    "code": "C12N 15/115",
+    "description": "••••••Aptámeros, p.ej. ácidos nucleicos que unen una molécula diana específicamente y con alta afinidad sin hibridar entre ellos [2010.01]"
+  },
+  {
+    "code": "C12N 15/117",
+    "description": "••••••Acidos nucleicos que tienen propiedades inmunomoduladoras, p.ej. que contienen motivos CpG [2010.01]"
+  },
+  {
+    "code": "C12N 15/12",
+    "description": "••••••Genes que codifican proteínas animales [2006.01]"
+  },
+  {
+    "code": "C12N 15/13",
+    "description": "••••••••Inmunoglobulinas [2006.01]"
+  },
+  {
+    "code": "C12N 15/14",
+    "description": "••••••••Seroalbúminas humanas [2006.01]"
+  },
+  {
+    "code": "C12N 15/15",
+    "description": "••••••••Inhibidores de proteasas, p. ej. antitrombina, antitripsina, hirudina [2006.01]"
+  },
+  {
+    "code": "C12N 15/16",
+    "description": "••••••••Hormonas [2006.01]"
+  },
+  {
+    "code": "C12N 15/17",
+    "description": "••••••••••Insulinas [2006.01]"
+  },
+  {
+    "code": "C12N 15/18",
+    "description": "••••••••••Hormonas de crecimiento [2006.01]"
+  },
+  {
+    "code": "C12N 15/19",
+    "description": "••••••••Interferones; Linfoquinas; Citoquinas [2006.01]"
+  },
+  {
+    "code": "C12N 15/20",
+    "description": "••••••••••Interferones [2006.01]"
+  },
+  {
+    "code": "C12N 15/21",
+    "description": "••••••••••••alfa-interferones [2006.01]"
+  },
+  {
+    "code": "C12N 15/22",
+    "description": "••••••••••••beta-interferones [2006.01]"
+  },
+  {
+    "code": "C12N 15/23",
+    "description": "••••••••••••gamma-interferones [2006.01]"
+  },
+  {
+    "code": "C12N 15/24",
+    "description": "••••••••••Interleuquinas [2006.01]"
+  },
+  {
+    "code": "C12N 15/25",
+    "description": "••••••••••••Interleuquina-1 [2006.01]"
+  },
+  {
+    "code": "C12N 15/26",
+    "description": "••••••••••••Interleuquina-2 [2006.01]"
+  },
+  {
+    "code": "C12N 15/27",
+    "description": "••••••••••Factores estimulantes de colonias [2006.01]"
+  },
+  {
+    "code": "C12N 15/28",
+    "description": "••••••••••Factores de necrosis de tumores [2006.01]"
+  },
+  {
+    "code": "C12N 15/29",
+    "description": "••••••Genes que codifican proteínas vegetales, p. ej. taumatina [2006.01]"
+  },
+  {
+    "code": "C12N 15/30",
+    "description": "••••••Genes que codifican proteínas de protozoos, p. ej. Plasmodium, Trypanosoma, Eimeria [2006.01]"
+  },
+  {
+    "code": "C12N 15/31",
+    "description": "••••••Genes que codifican proteínas microbianas, p. ej. enterotoxinas [2006.01]"
+  },
+  {
+    "code": "C12N 15/32",
+    "description": "••••••••Proteínas de cristal de Bacillus [2006.01]"
+  },
+  {
+    "code": "C12N 15/33",
+    "description": "••••••••Genes que codifican proteínas virales [2006.01]"
+  },
+  {
+    "code": "C12N 15/34",
+    "description": "••••••••••Proteínas de virus ADN [2006.01]"
+  },
+  {
+    "code": "C12N 15/35",
+    "description": "••••••••••••Parvoviridae, p. ej. virus de la leucemia felina, parvovirus humano [2006.01]"
+  },
+  {
+    "code": "C12N 15/36",
+    "description": "••••••••••••Hepadnaviridae [2006.01]"
+  },
+  {
+    "code": "C12N 15/37",
+    "description": "••••••••••••Papovaviridae, p. ej. virus del papiloma, virus del polioma, SV 40 [2006.01]"
+  },
+  {
+    "code": "C12N 15/38",
+    "description": "••••••••••••Herpetoviridae, p. ej. virus del herpes simple, Herpesvirus varicellae, virus Epstein-Barr, citomegalovirus, virus de la pseudorrabia [2006.01]"
+  },
+  {
+    "code": "C12N 15/39",
+    "description": "••••••••••••Poxviridae, p. ej. virus de la vacuna, virus de la viruela [2006.01]"
+  },
+  {
+    "code": "C12N 15/40",
+    "description": "••••••••••Proteínas de virus ARN, p. ej. Flavivirus [2006.01]"
+  },
+  {
+    "code": "C12N 15/41",
+    "description": "••••••••••••Picornaviridae, p. ej. rhinovirus, virus coxsackie, ecnovirus, enterovirus [2006.01]"
+  },
+  {
+    "code": "C12N 15/42",
+    "description": "••••••••••••••Virus de la fiebre aftosa [2006.01]"
+  },
+  {
+    "code": "C12N 15/43",
+    "description": "••••••••••••••Virus de la poliomielitis [2006.01]"
+  },
+  {
+    "code": "C12N 15/44",
+    "description": "••••••••••••Orthomyxoviridae, p. ej. virus de la influenza [2006.01]"
+  },
+  {
+    "code": "C12N 15/45",
+    "description": "••••••••••••Paramyxoviridae, p. ej. virus del sarampión, virus de paperas, virus de la enfermedad de Newcastle, virus de la enfermedad de Carré, virus de la peste bovina, virus respiratorios sincitiales [2006.01]"
+  },
+  {
+    "code": "C12N 15/46",
+    "description": "••••••••••••Reoviridae, p. ej. rotavirus, virus de la lengua azul de la oveja, virus de la fiebre de garrapatas del Colorado [2006.01]"
+  },
+  {
+    "code": "C12N 15/47",
+    "description": "••••••••••••Rhabdoviridae, p. ej. virus de la rabia, virus de la estomatitis vesicular [2006.01]"
+  },
+  {
+    "code": "C12N 15/48",
+    "description": "••••••••••••Retroviridae, p. ej. virus de la leucemia bovina, virus de la leucemia felina [2006.01]"
+  },
+  {
+    "code": "C12N 15/49",
+    "description": "••••••••••••••Lentiviridae, p. ej. virus de inmunodeficiencia tales como el VIH, virus visna-maedi, virus de la anemia infecciosa equina [2006.01]"
+  },
+  {
+    "code": "C12N 15/50",
+    "description": "••••••••••••Coronaviridae, p. ej. virus de la bronquitis infecciosa, virus de la gastroenteritis transmisible [2006.01]"
+  },
+  {
+    "code": "C12N 15/51",
+    "description": "••••••••••Virus de la hepatitis [2006.01]"
+  },
+  {
+    "code": "C12N 15/52",
+    "description": "••••••Genes que codifican enzimas o proenzimas [2006.01]"
+  },
+  {
+    "code": "C12N 15/53",
+    "description": "••••••••Oxidorreductasas (1) [2006.01]"
+  },
+  {
+    "code": "C12N 15/54",
+    "description": "••••••••Transferasas (2) [2006.01]"
+  },
+  {
+    "code": "C12N 15/55",
+    "description": "••••••••Hidrolasas (3) [2006.01]"
+  },
+  {
+    "code": "C12N 15/56",
+    "description": "••••••••••que actúan sobre compuestos glicosílicos (3.2), p. ej. amilasa, galactosidasa, lisozima [2006.01]"
+  },
+  {
+    "code": "C12N 15/57",
+    "description": "••••••••••que actúan sobre los enlaces peptídicos (3.4) [2006.01]"
+  },
+  {
+    "code": "C12N 15/58",
+    "description": "••••••••••••Activadores de plasminógeno, p. ej. uroquinasa, ATP [2006.01]"
+  },
+  {
+    "code": "C12N 15/59",
+    "description": "••••••••••••Quimosina [2006.01]"
+  },
+  {
+    "code": "C12N 15/60",
+    "description": "••••••••Liasas (4) [2006.01]"
+  },
+  {
+    "code": "C12N 15/61",
+    "description": "••••••••Isomerasas (5) [2006.01]"
+  },
+  {
+    "code": "C12N 15/62",
+    "description": "••••••Secuencias de ADN que codifican proteínas de fusión [2006.01]"
+  },
+  {
+    "code": "C12N 15/63",
+    "description": "••••Introducción de material genético extraño utilizando vectores; Vectores; Utilización de huéspedes para ello; Regulación de la expresión [2006.01]"
+  },
+  {
+    "code": "C12N 15/64",
+    "description": "••••••Métodos generales para la preparación del vector, para su introducción en la célula o para la selección del huésped que contiene el vector [2006.01]"
+  },
+  {
+    "code": "C12N 15/65",
+    "description": "••••••utilizando marcadores (enzimas empleados como marcadores C12N 15/52) [2006.01]"
+  },
+  {
+    "code": "C12N 15/66",
+    "description": "••••••Métodos generales para insertar un gen en un vector para formar un vector recombinante, utilizando la escisión y la unión; Utilización de \"linkers\" no funcionales o de adaptadores, p. ej. \"linkers\" que contienen la secuencia para una endonucleasa de restricción [2006.01]"
+  },
+  {
+    "code": "C12N 15/67",
+    "description": "••••••Métodos generales para favorecer la expresión [2006.01]"
+  },
+  {
+    "code": "C12N 15/68",
+    "description": "••••••••Estabilización del vector [2006.01]"
+  },
+  {
+    "code": "C12N 15/69",
+    "description": "••••••••Aumento del número de copias del vector [2006.01]"
+  },
+  {
+    "code": "C12N 15/70",
+    "description": "••••••Vectores o sistemas de expresión especialmente adaptados a E. coli [2006.01]"
+  },
+  {
+    "code": "C12N 15/71",
+    "description": "••••••••Sistemas de expresión que utilizan secuencias reguladoras derivadas del operón trp [2006.01]"
+  },
+  {
+    "code": "C12N 15/72",
+    "description": "••••••••Sistemas de expresión que utilizan secuencias reguladoras derivadas del operón lac [2006.01]"
+  },
+  {
+    "code": "C12N 15/73",
+    "description": "••••••••Sistemas de expresión que utilizan secuencias reguladoras del fago l [2006.01]"
+  },
+  {
+    "code": "C12N 15/74",
+    "description": "••••••Vectores o sistemas de expresión especialmente adaptados a huéspedes procariotas distintos a E. coli, p. ej. Lactobacillus, Micromonospora [2006.01]"
+  },
+  {
+    "code": "C12N 15/75",
+    "description": "••••••••para Bacillus [2006.01]"
+  },
+  {
+    "code": "C12N 15/76",
+    "description": "••••••••para Actinomyces; para Streptomyces [2006.01]"
+  },
+  {
+    "code": "C12N 15/77",
+    "description": "••••••••para Corynebacterium; para Brevibacterium [2006.01]"
+  },
+  {
+    "code": "C12N 15/78",
+    "description": "••••••••para Pseudomonas [2006.01]"
+  },
+  {
+    "code": "C12N 15/79",
+    "description": "••••••Vectores o sistemas de expresión especialmente adaptados a huéspedes eucariotas [2006.01]"
+  },
+  {
+    "code": "C12N 15/80",
+    "description": "••••••••para hongos [2006.01]"
+  },
+  {
+    "code": "C12N 15/81",
+    "description": "••••••••••para levaduras [2006.01]"
+  },
+  {
+    "code": "C12N 15/82",
+    "description": "••••••••para células vegetales [2006.01]"
+  },
+  {
+    "code": "C12N 15/83",
+    "description": "••••••••••Vectores virales, p. ej. virus del mosaico de la coliflor [2006.01]"
+  },
+  {
+    "code": "C12N 15/84",
+    "description": "••••••••••Plásmidos Ti [2006.01]"
+  },
+  {
+    "code": "C12N 15/85",
+    "description": "••••••••para células animales [2006.01]"
+  },
+  {
+    "code": "C12N 15/86",
+    "description": "••••••••••Vectores virales [2006.01]"
+  },
+  {
+    "code": "C12N 15/861",
+    "description": "••••••••••••Vectores adenovirales [2006.01]"
+  },
+  {
+    "code": "C12N 15/863",
+    "description": "••••••••••••Vectores poxvirales, p.ej. virus vacunal [2006.01]"
+  },
+  {
+    "code": "C12N 15/864",
+    "description": "••••••••••••Vectores parvovirales [2006.01]"
+  },
+  {
+    "code": "C12N 15/866",
+    "description": "••••••••••••Vectores báculovirales [2006.01]"
+  },
+  {
+    "code": "C12N 15/867",
+    "description": "••••••••••••Vectores retrovirales [2006.01]"
+  },
+  {
+    "code": "C12N 15/869",
+    "description": "••••••••••••Vectores herpesvirales [2006.01]"
+  },
+  {
+    "code": "C12N 15/87",
+    "description": "••••Introducción de material genético extraño utilizando procedimientos no previstos en otro lugar, p. ej. cotransformación [2006.01]"
+  },
+  {
+    "code": "C12N 15/873",
+    "description": "••••••Técnicas para producir nuevos embriones, p.ej. transferencia nuclear, manipulación de células totipotentes o producción de embriones de embriones quiméricos [2010.01]"
+  },
+  {
+    "code": "C12N 15/877",
+    "description": "••••••••Técnicas para producir nuevos embriones clonados de mamíferos [2010.01]"
+  },
+  {
+    "code": "C12N 15/88",
+    "description": "••••••utilizando la micro-encapsulación, p. ej. utilizando vesículas liposómicas [2006.01]"
+  },
+  {
+    "code": "C12N 15/89",
+    "description": "••••••utilizando la micro-inyección [2006.01]"
+  },
+  {
+    "code": "C12N 15/90",
+    "description": "••••••Introducción estable de ADN extraño en el cromosoma [2006.01]"
+  }
+]

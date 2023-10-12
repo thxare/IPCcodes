@@ -1,0 +1,746 @@
+[
+  {
+    "code": "G01C 1/00",
+    "description": "Medida de ángulos [2006.01]"
+  },
+  {
+    "code": "G01C 1/02",
+    "description": "••Teodolitos [2006.01]"
+  },
+  {
+    "code": "G01C 1/04",
+    "description": "••••combinados con cámaras [2006.01]"
+  },
+  {
+    "code": "G01C 1/06",
+    "description": "••••Disposiciones para la lectura de escalas [2006.01]"
+  },
+  {
+    "code": "G01C 1/08",
+    "description": "••Sextantes [2006.01]"
+  },
+  {
+    "code": "G01C 1/10",
+    "description": "••••que incluyen un horizonte artificial (G01C 1/14 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01C 1/12",
+    "description": "••••••con un espejo estabilizado [2006.01]"
+  },
+  {
+    "code": "G01C 1/14",
+    "description": "••••Sextantes periscópicos [2006.01]"
+  },
+  {
+    "code": "G01C 3/00",
+    "description": "Medida de distancias en línea de vista; Telémetros ópticos (cintas, cadenas o ruedas para la medida de la longitud G01B 3/00; sistemas de triangulación activos, p. ej. que utilizan la transmisión y reflexión de ondas electromagnéticas que no sean ondas de radio, G01S 17/48) [2006.01]"
+  },
+  {
+    "code": "G01C 3/02",
+    "description": "••Detalles [2006.01]"
+  },
+  {
+    "code": "G01C 3/04",
+    "description": "••••Adaptación de telémetros para su combinación con telescopios o binoculares [2006.01]"
+  },
+  {
+    "code": "G01C 3/06",
+    "description": "••••Utilización de medios eléctricos para obtener la indicación final [2006.01]"
+  },
+  {
+    "code": "G01C 3/08",
+    "description": "••••••Utilización de detectores de radiación eléctricos [2006.01]"
+  },
+  {
+    "code": "G01C 3/10",
+    "description": "••utilizando un triángulo paraláctico con ángulos variables y base de longitud fija en la estación de observación, p. ej. en el instrumento [2006.01]"
+  },
+  {
+    "code": "G01C 3/12",
+    "description": "••••con observación monocular en un único punto, p. ej. del tipo de coincidencia (G01C 3/20 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01C 3/14",
+    "description": "••••con observación binocular en un único punto, p. ej. del tipo estereoscópico (G01C 3/20 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01C 3/16",
+    "description": "••••••Marcas de medida [2006.01]"
+  },
+  {
+    "code": "G01C 3/18",
+    "description": "••••con un punto de observación a cada extremo de la base (G01C 3/20 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01C 3/20",
+    "description": "••••con adaptación para la medida de la altura de un objeto [2006.01]"
+  },
+  {
+    "code": "G01C 3/22",
+    "description": "••utilizando un triángulo paraláctico con ángulos variables y base de longitud fija en, cerca de o formada por el objeto [2006.01]"
+  },
+  {
+    "code": "G01C 3/24",
+    "description": "••utilizando un triángulo paraláctico con ángulos fijos y base de longitud variable en la estación de observación, p. ej. en el instrumento [2006.01]"
+  },
+  {
+    "code": "G01C 3/26",
+    "description": "••utilizando un triángulo paraláctico con ángulos fijos y base de longitud variable en, cerca de o formada por el objeto [2006.01]"
+  },
+  {
+    "code": "G01C 3/28",
+    "description": "••••con provisión para la reducción de la distancia sobre el plano horizontal [2006.01]"
+  },
+  {
+    "code": "G01C 3/30",
+    "description": "••••••con adaptación para la medida de la altura de un objeto, p. ej. taquímetros [2006.01]"
+  },
+  {
+    "code": "G01C 3/32",
+    "description": "••mediante el enfoque del objeto, p. ej. sobre una pantalla de cristal esmerilado [2006.01]"
+  },
+  {
+    "code": "G01C 5/00",
+    "description": "Medida de la altura; Medida de distancias transversales a la línea de vista; Nivelación entre puntos separados; Niveles topográficos (G01C 3/20, G01C 3/30  tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01C 5/02",
+    "description": "••que conllevan la estabilización automática de la línea de vista [2006.01]"
+  },
+  {
+    "code": "G01C 5/04",
+    "description": "••Nivelado hidrostático, p. ej. mediante depósitos de líquido en puntos distanciados interconectados elásticamente [2006.01]"
+  },
+  {
+    "code": "G01C 5/06",
+    "description": "••mediante el uso de medios barométricos [2006.01]"
+  },
+  {
+    "code": "G01C 7/00",
+    "description": "Trazado de perfiles (mediante fotogrametría o videogrametría G01C 11/00) [2006.01]"
+  },
+  {
+    "code": "G01C 7/02",
+    "description": "••de superficies en tierra [2006.01]"
+  },
+  {
+    "code": "G01C 7/04",
+    "description": "••••que conllevan un vehículo que se desplaza a lo largo del perfil a ser trazado [2006.01]"
+  },
+  {
+    "code": "G01C 7/06",
+    "description": "••de cavidades, p. ej. túneles [2006.01]"
+  },
+  {
+    "code": "G01C 9/00",
+    "description": "Medida de la inclinación, p. ej. mediante inclinómetros, mediante niveles [2006.01]"
+  },
+  {
+    "code": "G01C 9/02",
+    "description": "••Detalles [2006.01]"
+  },
+  {
+    "code": "G01C 9/04",
+    "description": "••••Medios de transmisión entre el elemento sensible y el indicador final para proporcionar una lectura ampliada [2006.01]"
+  },
+  {
+    "code": "G01C 9/06",
+    "description": "••••Medios de indicación o lectura eléctricos o fotoeléctricos [2006.01]"
+  },
+  {
+    "code": "G01C 9/08",
+    "description": "••••Medios para la compensación de las fuerzas de inercia debidas al movimiento del instrumento [2006.01]"
+  },
+  {
+    "code": "G01C 9/10",
+    "description": "••utilizando objetos rodantes [2006.01]"
+  },
+  {
+    "code": "G01C 9/12",
+    "description": "••mediante la utilización de un único péndulo (plomadas G01C 15/10) [2006.01]"
+  },
+  {
+    "code": "G01C 9/14",
+    "description": "••••desplazable en más de una dirección [2006.01]"
+  },
+  {
+    "code": "G01C 9/16",
+    "description": "••mediante la utilización de más de un péndulo [2006.01]"
+  },
+  {
+    "code": "G01C 9/18",
+    "description": "••mediante la utilización de líquidos [2006.01]"
+  },
+  {
+    "code": "G01C 9/20",
+    "description": "••••estando la indicación basada en la inclinación de la superficie de un líquido con relación al recipiente que lo contiene [2006.01]"
+  },
+  {
+    "code": "G01C 9/22",
+    "description": "••••••con recipientes interconectados según una relación fija entre sí [2006.01]"
+  },
+  {
+    "code": "G01C 9/24",
+    "description": "••••en recipientes cerrados llenados parcialmente de líquido de manera que se deje una burbuja de gas [2006.01]"
+  },
+  {
+    "code": "G01C 9/26",
+    "description": "••••••Detalles [2006.01]"
+  },
+  {
+    "code": "G01C 9/28",
+    "description": "••••••••Montajes [2006.01]"
+  },
+  {
+    "code": "G01C 9/30",
+    "description": "••••••••Medios para ajustar las dimensiones de la burbuja [2006.01]"
+  },
+  {
+    "code": "G01C 9/32",
+    "description": "••••••••Medios para facilitar la observación de la posición de la burbuja, p. ej. medios de iluminación [2006.01]"
+  },
+  {
+    "code": "G01C 9/34",
+    "description": "••••••del tipo tubular, p. ej. para indicar la nivelación según una sola dirección [2006.01]"
+  },
+  {
+    "code": "G01C 9/36",
+    "description": "••••••del tipo esférico, p. ej., para indicar la nivelación en todas las direcciones [2006.01]"
+  },
+  {
+    "code": "G01C 11/00",
+    "description": "Fotogrametría o videogrametría, p. ej. estereogrametría; Topografía fotográfica [2006.01]"
+  },
+  {
+    "code": "G01C 11/02",
+    "description": "••Disposiciones para tomar fotografías especialmente adaptadas para la fotogrametría o la topografía fotográfica, p. ej. control de la superposición de fotografías [2006.01]"
+  },
+  {
+    "code": "G01C 11/04",
+    "description": "••Interpretación de fotografías [2006.01]"
+  },
+  {
+    "code": "G01C 11/06",
+    "description": "••••mediante la comparación de dos o más fotografías de la misma zona [2006.01]"
+  },
+  {
+    "code": "G01C 11/08",
+    "description": "••••••no estando las fotografías colocadas en la misma posición relativa en la que fueron tomadas [2006.01]"
+  },
+  {
+    "code": "G01C 11/10",
+    "description": "••••••••utilizando ordenadores para controlar la posición de las fotografías [2006.01]"
+  },
+  {
+    "code": "G01C 11/12",
+    "description": "••••••estando las fotografías colocadas en la misma posición relativa en la que fueron tomadas [2006.01]"
+  },
+  {
+    "code": "G01C 11/14",
+    "description": "••••••••con proyección óptica (G01C 11/26 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01C 11/16",
+    "description": "••••••••••en un plano común [2006.01]"
+  },
+  {
+    "code": "G01C 11/18",
+    "description": "••••••••••••que conlleva medios de exploración (scanning) [2006.01]"
+  },
+  {
+    "code": "G01C 11/20",
+    "description": "••••••••••en planos diferentes [2006.01]"
+  },
+  {
+    "code": "G01C 11/22",
+    "description": "••••••••con proyección mecánica (G01C 11/26 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01C 11/24",
+    "description": "••••••••con proyección opto-mecánica (G01C 11/26 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01C 11/26",
+    "description": "••••••••utilizando ordenadores para controlar la posición de las fotografías [2006.01]"
+  },
+  {
+    "code": "G01C 11/28",
+    "description": "••••••Adaptación especial para el registro de los datos de los puntos de la foto, p. ej. para perfiles [2006.01]"
+  },
+  {
+    "code": "G01C 11/30",
+    "description": "••••mediante triangulación [2006.01]"
+  },
+  {
+    "code": "G01C 11/32",
+    "description": "••••••Triangulación radial [2006.01]"
+  },
+  {
+    "code": "G01C 11/34",
+    "description": "••••••Triangulación aérea [2006.01]"
+  },
+  {
+    "code": "G01C 11/36",
+    "description": "••Videogrametría, p. ej. procesamiento electrónico de señales de video procedentes de fuentes diferentes para proporcionar información de distancia o paralaje [2006.01]"
+  },
+  {
+    "code": "G01C 13/00",
+    "description": "Geodesia especialmente adaptada a aguas abiertas, p. ej. mar, lago, río o  canal (medida del nivel de líquidos G01F) [2006.01]"
+  },
+  {
+    "code": "G01C 15/00",
+    "description": "Instrumentos o accesorios topográficos no previstos en los grupos G01C 1/00-G01C 13/00 [2006.01]"
+  },
+  {
+    "code": "G01C 15/02",
+    "description": "••Medios para marcar los puntos de medida [2006.01]"
+  },
+  {
+    "code": "G01C 15/04",
+    "description": "••••Marcas permanentes; Marcadores de límites [2006.01]"
+  },
+  {
+    "code": "G01C 15/06",
+    "description": "••••Miras de topógrafo; Marcadores móviles [2006.01]"
+  },
+  {
+    "code": "G01C 15/08",
+    "description": "••••••Establecimiento de la verticalidad o alineación de miras o marcadores sobre marcas en el suelo [2006.01]"
+  },
+  {
+    "code": "G01C 15/10",
+    "description": "••Plomadas [2006.01]"
+  },
+  {
+    "code": "G01C 15/12",
+    "description": "••Instrumentos para el trazado de ángulos fijos, p. ej. ángulos rectos [2006.01]"
+  },
+  {
+    "code": "G01C 15/14",
+    "description": "••Horizontes artificiales [2006.01]"
+  },
+  {
+    "code": "G01C 17/00",
+    "description": "Brújulas (compases); Dispositivos para determinar el norte real o magnético con fines de navegación o topografía (que utilizan el efecto giroscópico G01C 19/00) [2006.01]"
+  },
+  {
+    "code": "G01C 17/02",
+    "description": "••Brújulas magnéticas [2006.01]"
+  },
+  {
+    "code": "G01C 17/04",
+    "description": "••••con elementos magnéticos de búsqueda del norte, p. ej. agujas [2006.01]"
+  },
+  {
+    "code": "G01C 17/06",
+    "description": "••••••Suspensión de elementos magnéticos [2006.01]"
+  },
+  {
+    "code": "G01C 17/08",
+    "description": "••••••••mediante flotación [2006.01]"
+  },
+  {
+    "code": "G01C 17/10",
+    "description": "••••••Comparación de una dirección observada con la indicación del norte [2006.01]"
+  },
+  {
+    "code": "G01C 17/12",
+    "description": "••••••••mediante medios de mira, p. ej. para brújulas de topógrafo [2006.01]"
+  },
+  {
+    "code": "G01C 17/14",
+    "description": "••••••••marcas de referencia, p. ej. para brújulas de barcos [2006.01]"
+  },
+  {
+    "code": "G01C 17/16",
+    "description": "••••••••mediante inclinómetros, p. ej. para determinar la inclinación o la dirección de capas geológicas [2006.01]"
+  },
+  {
+    "code": "G01C 17/18",
+    "description": "••••••Soporte o suspensión de brújulas, p. ej. mediante cardán, mediante flotación [2006.01]"
+  },
+  {
+    "code": "G01C 17/20",
+    "description": "••••••Observación de la rosa o la aguja de la brújula [2006.01]"
+  },
+  {
+    "code": "G01C 17/22",
+    "description": "••••••••mediante proyección [2006.01]"
+  },
+  {
+    "code": "G01C 17/24",
+    "description": "••••••••Iluminación [2006.01]"
+  },
+  {
+    "code": "G01C 17/26",
+    "description": "••••••••utilizando captadores eléctricos para la transmisión al indicador final, p. ej. célula fotoeléctrica [2006.01]"
+  },
+  {
+    "code": "G01C 17/28",
+    "description": "••••Brújulas electromagnéticas (con elementos magnéticos de búsqueda del norte y con captadores eléctricos G01C 17/26) [2006.01]"
+  },
+  {
+    "code": "G01C 17/30",
+    "description": "••••••Brújulas de inducción [2006.01]"
+  },
+  {
+    "code": "G01C 17/32",
+    "description": "••••••Brújulas electrónicas [2006.01]"
+  },
+  {
+    "code": "G01C 17/34",
+    "description": "••Brújulas solares o astrocompases [2006.01]"
+  },
+  {
+    "code": "G01C 17/36",
+    "description": "••Repetidores para la indicación remota de las lecturas de una brújula maestra [2006.01]"
+  },
+  {
+    "code": "G01C 17/38",
+    "description": "••Ensayo, calibración o compensación de brújulas [2006.01]"
+  },
+  {
+    "code": "G01C 19/00",
+    "description": "Giróscopos; Dispositivos sensibles al giro con masas vibratorias; Dispositivos sensibles al giro sin masas móviles; Medida de velocidad angular usando efectos giroscópicos [2013.01]"
+  },
+  {
+    "code": "G01C 19/02",
+    "description": "••Giróscopos rotatorios [2006.01]"
+  },
+  {
+    "code": "G01C 19/04",
+    "description": "••••Detalles [2006.01]"
+  },
+  {
+    "code": "G01C 19/06",
+    "description": "••••••Rotores [2006.01]"
+  },
+  {
+    "code": "G01C 19/08",
+    "description": "••••••••accionados eléctricamente (G01C 19/14 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01C 19/10",
+    "description": "••••••••••Suministro de energía [2006.01]"
+  },
+  {
+    "code": "G01C 19/12",
+    "description": "••••••••accionados por fluido (G01C 19/14 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01C 19/14",
+    "description": "••••••••Rotores fluídicos [2006.01]"
+  },
+  {
+    "code": "G01C 19/16",
+    "description": "••••••Suspensiones; Cojinetes [2006.01]"
+  },
+  {
+    "code": "G01C 19/18",
+    "description": "••••••••que garantizan el movimiento del rotor con respecto a sus ejes de rotación (G01C 19/20, G01C 19/24 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G01C 19/20",
+    "description": "••••••••en un fluido [2006.01]"
+  },
+  {
+    "code": "G01C 19/22",
+    "description": "••••••••de torsión [2006.01]"
+  },
+  {
+    "code": "G01C 19/24",
+    "description": "••••••••que utilizan campos magnéticos o electrostáticos [2006.01]"
+  },
+  {
+    "code": "G01C 19/26",
+    "description": "••••••Bloqueo, p. ej. inmovilización de piezas móviles, p. ej. para el transporte [2006.01]"
+  },
+  {
+    "code": "G01C 19/28",
+    "description": "••••••Captadores, p. ej. dispositivos para obtener una indicación del desplazamiento del eje del rotor [2006.01]"
+  },
+  {
+    "code": "G01C 19/30",
+    "description": "••••••Dispositivos de erección, p. ej. dispositivos para resituar el eje del rotor en una posición deseada (para instrumento de indicación de la vertical G01C 19/46) [2006.01]"
+  },
+  {
+    "code": "G01C 19/32",
+    "description": "••••••Medios de indicacion o de registro especialmente adaptados para giróscopos rotativos [2006.01]"
+  },
+  {
+    "code": "G01C 19/34",
+    "description": "••••para indicar una dirección en el plano horizontal, p. ej. giróscopos direccionales [2006.01]"
+  },
+  {
+    "code": "G01C 19/36",
+    "description": "••••••con funcionamiento de búsqueda del norte por medios magnéticos, p. ej. compases giromagnéticos [2006.01]"
+  },
+  {
+    "code": "G01C 19/38",
+    "description": "••••••con funcionamiento de búsqueda del norte por medios que no sean magnéticos, p. ej. girocompases que utilizan la rotación de la tierra [2006.01]"
+  },
+  {
+    "code": "G01C 19/40",
+    "description": "••••para el control mediante señales provenientes de un compás maestro, p. ej. compases repetidores [2006.01]"
+  },
+  {
+    "code": "G01C 19/42",
+    "description": "••••para indicar la velocidad de giro; para integrar la velocidad de giro [2006.01]"
+  },
+  {
+    "code": "G01C 19/44",
+    "description": "••••para indicar la vertical [2006.01]"
+  },
+  {
+    "code": "G01C 19/46",
+    "description": "••••••Dispositivos de erección para resituar el eje del rotor en una posición deseada [2006.01]"
+  },
+  {
+    "code": "G01C 19/48",
+    "description": "••••••••que funcionan mediante medios eléctricos (G01C 19/54 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01C 19/50",
+    "description": "••••••••que funcionan mediante medios mecánicos (G01C 19/54 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01C 19/52",
+    "description": "••••••••que funcionan mediante medios fluidos (G01C 19/54 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01C 19/54",
+    "description": "••••••••con corrección de las fuerzas de inercia debidas al movimiento del instrumento [2006.01]"
+  },
+  {
+    "code": "G01C 19/56",
+    "description": "••Dispositivos sensibles al giro con masas vibratorias, p. ej. sensores de velocidad vibratoria angular sobre la base de las fuerzas de Coriolis [2012.01]"
+  },
+  {
+    "code": "G01C 19/5607",
+    "description": "••••con vibración de diapason (con planos masas dobles vibrantes suspendidas en los extremos opuestos G01C 19/5719) [2012.01]"
+  },
+  {
+    "code": "G01C 19/5614",
+    "description": "••••••Procesamiento de señal [2012.01]"
+  },
+  {
+    "code": "G01C 19/5621",
+    "description": "••••••el dispositivo el dispositivo posee una estrucutra micro-mecanica [2012.01]"
+  },
+  {
+    "code": "G01C 19/5628",
+    "description": "••••••Frabricación; Ajuste; Montaje; Alojamiento [2012.01]"
+  },
+  {
+    "code": "G01C 19/5635",
+    "description": "••••con cadenas o cuerdas vibrantes [2012.01]"
+  },
+  {
+    "code": "G01C 19/5642",
+    "description": "••••utilizando barras o vigas vibrantes [2012.01]"
+  },
+  {
+    "code": "G01C 19/5649",
+    "description": "••••••Procesamiento de Señal [2012.01]"
+  },
+  {
+    "code": "G01C 19/5656",
+    "description": "••••••los dispositivos poseen una estructura micro-mecánica [2012.01]"
+  },
+  {
+    "code": "G01C 19/5663",
+    "description": "••••••Fabricación; Ajuste; Montaje; Alojamiento [2012.01]"
+  },
+  {
+    "code": "G01C 19/567",
+    "description": "••••con el cambio de fase de vibración de un nodo o antinodo [2012.01]"
+  },
+  {
+    "code": "G01C 19/5677",
+    "description": "••••••esencialmente en vibradores de dos dimensiones, p. ej. en vibradores en forma de anillo [2012.01]"
+  },
+  {
+    "code": "G01C 19/5684",
+    "description": "••••••••los dispositivos poseen unas estructuras micro-mecánica [2012.01]"
+  },
+  {
+    "code": "G01C 19/5691",
+    "description": "••••••esencialmente vibradores en tres dimensiones, p. ej. vibradores del tipos \"wine glass\" [2012.01]"
+  },
+  {
+    "code": "G01C 19/5698",
+    "description": "••••con ondas acusticas, p. ej. giroscopo de superficie de ondas acústicas [2012.01]"
+  },
+  {
+    "code": "G01C 19/5705",
+    "description": "••••usando masas controladas en un movimiento de rotación alrededor de un eje alternativo [2012.01]"
+  },
+  {
+    "code": "G01C 19/5712",
+    "description": "••••••los dispositivos poseen una estructura micro-mecánica [2012.01]"
+  },
+  {
+    "code": "G01C 19/5719",
+    "description": "••••utilizando masas planas de vibración controladas en una vibración de tranlación a lo largo de un eje [2012.01]"
+  },
+  {
+    "code": "G01C 19/5726",
+    "description": "••••••Procesado de señal [2012.01]"
+  },
+  {
+    "code": "G01C 19/5733",
+    "description": "••••••Detalles de la estructura o la topología [2012.01]"
+  },
+  {
+    "code": "G01C 19/574",
+    "description": "••••••••los dispositivos tienen dos masas de detección en movimiento de anti-fase [2012.01]"
+  },
+  {
+    "code": "G01C 19/5747",
+    "description": "••••••••••cada masa de detección es conectada a una masa de conducción, p. ej. cuadros de conducción [2012.01]"
+  },
+  {
+    "code": "G01C 19/5755",
+    "description": "••••••••los dispositivos tiene una unica masa de detección [2012.01]"
+  },
+  {
+    "code": "G01C 19/5762",
+    "description": "••••••••••la masa de detección es conectada a una masa de conducción, p. ej. cuadros de conducción [2012.01]"
+  },
+  {
+    "code": "G01C 19/5769",
+    "description": "••••••Fabricación; Montaje; Incorporado [2012.01]"
+  },
+  {
+    "code": "G01C 19/5776",
+    "description": "••••Procesado de señal no especifico para ninguno de los dispositivos cubierto por los grupos G01C 19/5607-G01C 19/5719 [2012.01]"
+  },
+  {
+    "code": "G01C 19/5783",
+    "description": "••••Montaje o alojamiento no especificado en ninguno de los dispositivos cubiertos por los grupos G01C 19/5607-G01C 19/5719 [2012.01]"
+  },
+  {
+    "code": "G01C 19/58",
+    "description": "••Dispositivos sensibles al giro sin masas móviles [2006.01]"
+  },
+  {
+    "code": "G01C 19/60",
+    "description": "••••Girómetros electrónicos o de resonancia magnética nuclear [2006.01]"
+  },
+  {
+    "code": "G01C 19/62",
+    "description": "••••••con bombeo óptico [2006.01]"
+  },
+  {
+    "code": "G01C 19/64",
+    "description": "••••Girómetros que utilizan el efecto Sagnac, p. ej. desviaciones, inducidas por rotación, entre haces electromagnéticos que giran en sentidos contrarios [2006.01]"
+  },
+  {
+    "code": "G01C 19/66",
+    "description": "••••••Girómetros de láser en anillo [2006.01]"
+  },
+  {
+    "code": "G01C 19/68",
+    "description": "••••••••Prevención del blocamiento (\"lock-in\") [2006.01]"
+  },
+  {
+    "code": "G01C 19/70",
+    "description": "••••••••••mediante medios mecánicos [2006.01]"
+  },
+  {
+    "code": "G01C 19/72",
+    "description": "••••••con haces luminosos que giran en sentidos contrarios en un anillo pasivo, p. ej. girómetros láser de fibra [2006.01]"
+  },
+  {
+    "code": "G01C 21/00",
+    "description": "Navegación; Instrumentos de navegación no previstos en los grupos G01C 1/00-G01C 19/00 (medida de la distancia recorrida sobre el suelo por un vehículo G01C 22/00; control de la posición, curso, altitud o actitud de vehículos G05D 1/00; sistemas de control de tráfico para vehículos rodados incluyendo transmisiones de tráfico de instrucciones de navegación para vehículos controlados G08G 1/0968) [2006.01]"
+  },
+  {
+    "code": "G01C 21/02",
+    "description": "••mediante medios astronómicos (G01C 21/24, G01C 21/26 tienen preferencia) [2006.01]"
+  },
+  {
+    "code": "G01C 21/04",
+    "description": "••mediante medios terrestres (G01C 21/24, G01C 21/26 tienen preferencia) [2006.01]"
+  },
+  {
+    "code": "G01C 21/06",
+    "description": "••••que conllevan la medida del ángulo de deriva; que conllevan corrección por deriva [2006.01]"
+  },
+  {
+    "code": "G01C 21/08",
+    "description": "••••que conllevan la utilización del campo magnético de la tierra [2006.01]"
+  },
+  {
+    "code": "G01C 21/10",
+    "description": "••mediante la utilización de la medida de la velocidad o la aceleración (G01C 21/24, G01C 21/26 tienen preferencia) [2006.01]"
+  },
+  {
+    "code": "G01C 21/12",
+    "description": "••••ejecutadas a bordo del objeto que se hace navegar; Navegación a estima [2006.01]"
+  },
+  {
+    "code": "G01C 21/14",
+    "description": "••••••mediante el registro del curso llevado por el objeto (G01C 21/16 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01C 21/16",
+    "description": "••••••mediante la integración de la aceleración o la velocidad, p. ej. navegación inercial [2006.01]"
+  },
+  {
+    "code": "G01C 21/18",
+    "description": "••••••••Plataformas estabilizadas, p. ej. mediante giróscopo [2006.01]"
+  },
+  {
+    "code": "G01C 21/20",
+    "description": "••Instrumentos para efectuar cálculos de navegación (G01C 21/24, G01C 21/26 tienen preferencia) [2006.01]"
+  },
+  {
+    "code": "G01C 21/22",
+    "description": "••••Tableros de trazado [2006.01]"
+  },
+  {
+    "code": "G01C 21/24",
+    "description": "••especialmente adaptados para la navegación astronáutica [2006.01]"
+  },
+  {
+    "code": "G01C 21/26",
+    "description": "••especialmente adaptados para la navegación en una red de carreteras [2006.01]"
+  },
+  {
+    "code": "G01C 21/28",
+    "description": "••••con correlación de datos provenientes de varios instrumentos de navegación [2006.01]"
+  },
+  {
+    "code": "G01C 21/30",
+    "description": "••••••Comparación de planos o mapas topográficos [2006.01]"
+  },
+  {
+    "code": "G01C 21/32",
+    "description": "••••••••Estructuración o formato de datos de mapas [2006.01]"
+  },
+  {
+    "code": "G01C 21/34",
+    "description": "••••Búsqueda de rutas; guiado en ruta [2006.01]"
+  },
+  {
+    "code": "G01C 21/36",
+    "description": "••••••Disposiciones de entrada/salida para ordenadores de a bordo [2006.01]"
+  },
+  {
+    "code": "G01C 22/00",
+    "description": "Medida de la distancia recorrida sobre el suelo por vehículos, personas, animales u otros cuerpos sólidos en movimiento, p. ej. utilizando odómetros o usando podómetros [2006.01]"
+  },
+  {
+    "code": "G01C 22/02",
+    "description": "••mediante la conversión en formas de onda eléctricas y posterior integración, p. ej. utilizando un generador tacométrico [2006.01]"
+  },
+  {
+    "code": "G01C 23/00",
+    "description": "Instrumentos combinados que indican más de un valor de navegación, p. ej. para aeronaves; Dispositivos de medida combinados para la medida de dos o más variables de movimiento, p. ej. distancia, velocidad, aceleración [2006.01]"
+  },
+  {
+    "code": "G01C 25/00",
+    "description": "Fabricación, calibrado, limpieza o reparación de los instrumentos o dispositivos mencionados en los otros grupos de esta subclase (ensayo, calibrado o compensación de brújulas G01C 17/38) [2006.01]"
+  }
+]

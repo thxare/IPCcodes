@@ -1,0 +1,2934 @@
+[
+  {
+    "code": "H01J 1/00",
+    "description": "Detalles de electrodos, de medios de control magnéticos, de pantallas, o del montaje o espaciamiento de estos elementos, comunes a dos o más tipos básicos de lámparas o tubos de descarga (detalles de dispositivos óptico-electrónicos o de captadores de iones H01J 3/00) [2006.01]"
+  },
+  {
+    "code": "H01J 1/02",
+    "description": "••Electrodos principales [2006.01]"
+  },
+  {
+    "code": "H01J 1/04",
+    "description": "••••Electrodos líquidos, p. ej. cátodo líquido [2006.01]"
+  },
+  {
+    "code": "H01J 1/05",
+    "description": "••••••caracterizados por el material [2006.01]"
+  },
+  {
+    "code": "H01J 1/06",
+    "description": "••••••Recipientes para electrodos líquidos; Disposición o montaje de los mismos [2006.01]"
+  },
+  {
+    "code": "H01J 1/08",
+    "description": "••••••Puesta en posición o desplazamiento del punto catódico en la superficie del cátodo líquido [2006.01]"
+  },
+  {
+    "code": "H01J 1/10",
+    "description": "••••••Refrigeración, calentamiento, circulación, filtrado o control de nivel del líquido de un electrodo líquido [2006.01]"
+  },
+  {
+    "code": "H01J 1/12",
+    "description": "••••Cátodos sobre cuya superficie se deposita mercurio u otro metal alcalino líquido durante el funcionamiento del tubo [2006.01]"
+  },
+  {
+    "code": "H01J 1/13",
+    "description": "••••Cátodos termiónicos sólidos [2006.01]"
+  },
+  {
+    "code": "H01J 1/14",
+    "description": "••••••caracterizados por el material constitutivo [2006.01]"
+  },
+  {
+    "code": "H01J 1/142",
+    "description": "••••••••con óxidos de metales alcalinotérreos, o con tales óxidos utilizados conjuntamente con agentes reductores, como material emisivo [2006.01]"
+  },
+  {
+    "code": "H01J 1/144",
+    "description": "••••••••con óxidos de otros metales como material emisivo [2006.01]"
+  },
+  {
+    "code": "H01J 1/146",
+    "description": "••••••••con metales o aleaciones como material emisivo [2006.01]"
+  },
+  {
+    "code": "H01J 1/148",
+    "description": "••••••••con compuestos que tienen propiedades conductoras metálicas, p. ej. boruro de lantano, como material emisivo [2006.01]"
+  },
+  {
+    "code": "H01J 1/15",
+    "description": "••••••Cátodos calentados directamente por una corriente eléctrica [2006.01]"
+  },
+  {
+    "code": "H01J 1/16",
+    "description": "••••••••caracterizados por su forma [2006.01]"
+  },
+  {
+    "code": "H01J 1/18",
+    "description": "••••••••Soportes; Dispositivos amortiguadores de vibraciones [2006.01]"
+  },
+  {
+    "code": "H01J 1/20",
+    "description": "••••••Cátodos calentados indirectamente por una corriente eléctrica; Cátodos calentados por bombardeo electrónico o iónico [2006.01]"
+  },
+  {
+    "code": "H01J 1/22",
+    "description": "••••••••Dispositivos de calentamiento [2006.01]"
+  },
+  {
+    "code": "H01J 1/24",
+    "description": "••••••••Capa o cuerpo aislante situados entre el dispositivo de calentamiento y el material emisivo [2006.01]"
+  },
+  {
+    "code": "H01J 1/26",
+    "description": "••••••••Soportes del material emisivo [2006.01]"
+  },
+  {
+    "code": "H01J 1/28",
+    "description": "••••••••Cátodos del tipo distribuidor p. ej. cátodo del tipo L [2006.01]"
+  },
+  {
+    "code": "H01J 1/30",
+    "description": "••••Cátodos fríos [2006.01]"
+  },
+  {
+    "code": "H01J 1/304",
+    "description": "••••••Cátodos de emisión de electrones de campo [2006.01]"
+  },
+  {
+    "code": "H01J 1/308",
+    "description": "••••••Cátodos semiconductores, p. ej. cátodos con capas de unión PN [2006.01]"
+  },
+  {
+    "code": "H01J 1/312",
+    "description": "••••••que tienen un campo eléctrico perpendicular a la superficie, p. ej. cátodos de efecto túnel de tipo Metal- Aislante-Metal (MIM) [2006.01]"
+  },
+  {
+    "code": "H01J 1/316",
+    "description": "••••••que tienen un campo eléctrico paralelo a la superficie, p. ej. cátodos de película delgada [2006.01]"
+  },
+  {
+    "code": "H01J 1/32",
+    "description": "••••Electrodos con emisión de electrones secundarios (H01J 1/35 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01J 1/34",
+    "description": "••••Cátodos fotoemisivos (H01J 1/35 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01J 1/35",
+    "description": "••••Electrodos fotoemisivos y con emisión secundaria a la vez [2006.01]"
+  },
+  {
+    "code": "H01J 1/36",
+    "description": "••••Anodos sólidos; Anodos sólidos auxiliares para mantener una descarga [2006.01]"
+  },
+  {
+    "code": "H01J 1/38",
+    "description": "••••••caracterizados por el material constitutivo [2006.01]"
+  },
+  {
+    "code": "H01J 1/40",
+    "description": "••••••formando parte de la envoltura del tubo o de la lámpara [2006.01]"
+  },
+  {
+    "code": "H01J 1/42",
+    "description": "••••••Refrigeración de ánodos (H01J 1/44); Calentamiento de ánodos [2006.01]"
+  },
+  {
+    "code": "H01J 1/44",
+    "description": "••••••Anodos giratorios; Disposiciones para hacer girar los ánodos; Refrigeración de ánodos giratorios [2006.01]"
+  },
+  {
+    "code": "H01J 1/46",
+    "description": "••Electrodos de control, p. ej. rejilla (para dispositivos de encendido H01J 7/30); Electrodos auxiliares (ánodos auxiliares para mantener una descarga H01J 1/36) [2006.01]"
+  },
+  {
+    "code": "H01J 1/48",
+    "description": "••••caracterizados por el material constitutivo [2006.01]"
+  },
+  {
+    "code": "H01J 1/50",
+    "description": "••Medios magnéticos para controlar la descarga [2006.01]"
+  },
+  {
+    "code": "H01J 1/52",
+    "description": "••Pantallas para blindaje; Guías para influir sobre la descarga; Máscaras interpuestas en el flujo de electrones [2006.01]"
+  },
+  {
+    "code": "H01J 1/53",
+    "description": "••Electrodos íntimamente asociados a una pantalla sobre la cual o a partir de la cual se forma, recoge, convierte o memoriza una imagen o dibujo [2006.01]"
+  },
+  {
+    "code": "H01J 1/54",
+    "description": "••Pantallas sobre las cuales o a partir de las cuales se forma, recoge, convierte o memoriza una imagen o dibujo; Revestimientos luminiscentes sobre la superficie de los recintos [2006.01]"
+  },
+  {
+    "code": "H01J 1/56",
+    "description": "••••actuando como válvulas de luz por medio de obturadores, p. ej. para eidoforo [2006.01]"
+  },
+  {
+    "code": "H01J 1/58",
+    "description": "••••actuando por decoloración, p. ej. pantallas a base de haluros [2006.01]"
+  },
+  {
+    "code": "H01J 1/60",
+    "description": "••••Pantallas incandescentes [2006.01]"
+  },
+  {
+    "code": "H01J 1/62",
+    "description": "••••Pantallas luminiscentes; Selección de materiales como revestimientos luminiscentes de recintos [2006.01]"
+  },
+  {
+    "code": "H01J 1/63",
+    "description": "••••••caracterizados por el material luminiscente [2006.01]"
+  },
+  {
+    "code": "H01J 1/64",
+    "description": "••••••caracterizados por la ligadura o adhesivo para fijar el material luminiscente a su soporte [2006.01]"
+  },
+  {
+    "code": "H01J 1/66",
+    "description": "••••••Soportes para material luminiscente [2006.01]"
+  },
+  {
+    "code": "H01J 1/68",
+    "description": "••••••con capas luminiscentes superpuestas [2006.01]"
+  },
+  {
+    "code": "H01J 1/70",
+    "description": "••••••con capas protectoras, conductoras o reflectantes [2006.01]"
+  },
+  {
+    "code": "H01J 1/72",
+    "description": "••••••donde el material luminiscente está dispuesto de forma discontinua, p. ej. en puntos o en líneas [2006.01]"
+  },
+  {
+    "code": "H01J 1/74",
+    "description": "••••••••estando los puntos o líneas adyacentes constituidos por materiales luminiscentes diferentes [2006.01]"
+  },
+  {
+    "code": "H01J 1/76",
+    "description": "••••••provistos de marcas o referencias permanentes [2006.01]"
+  },
+  {
+    "code": "H01J 1/78",
+    "description": "••••Pantallas fotoeléctricas; Pantallas de acumulación de carga [2006.01]"
+  },
+  {
+    "code": "H01J 1/88",
+    "description": "••Montaje, soporte, espaciado o aislamiento de electrodos o de conjuntos de electrodos [2006.01]"
+  },
+  {
+    "code": "H01J 1/90",
+    "description": "••••Aislamiento entre electrodos o soportes en el interior del espacio vacío [2006.01]"
+  },
+  {
+    "code": "H01J 1/92",
+    "description": "••••Montaje del conjunto de los electrodos en bloque [2006.01]"
+  },
+  {
+    "code": "H01J 1/94",
+    "description": "••••Montaje de los electrodos tomados aisladamente [2006.01]"
+  },
+  {
+    "code": "H01J 1/96",
+    "description": "••••Elementos de espaciamiento extendiéndose hasta la envoltura [2006.01]"
+  },
+  {
+    "code": "H01J 1/98",
+    "description": "••••••sin conexión fija entre el elemento de espaciamiento y la envoltura [2006.01]"
+  },
+  {
+    "code": "H01J 3/00",
+    "description": "Detalles de los dispositivos electronópticos o ionópticos o de los capturadores de iones, comunes a dos o más tipos básicos de tubos o lámparas de descarga [2006.01]"
+  },
+  {
+    "code": "H01J 3/02",
+    "description": "••Cañones de electrones [2006.01]"
+  },
+  {
+    "code": "H01J 3/04",
+    "description": "••Cañones de iones [2006.01]"
+  },
+  {
+    "code": "H01J 3/06",
+    "description": "••dos cañones o más están dispuestos en el mismo espacio vacío, p. ej. para tubos de rayos múltiples (H01J 3/07 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01J 3/07",
+    "description": "••Dispositivos de control de la convergencia de varios haces [2006.01]"
+  },
+  {
+    "code": "H01J 3/08",
+    "description": "••Dispositivos para controlar la intensidad de rayos o haces (H01J 3/02, H01J 3/04 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H01J 3/10",
+    "description": "••Dispositivos de centrado de rayos o haces (H01J 3/02, H01J 3/04 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H01J 3/12",
+    "description": "••Dispositivos para controlar la sección transversal de rayos o haces; Dispositivos para corregir la aberración de haces, p. ej. debido a lentes (H01J 3/02, H01J 3/04 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H01J 3/14",
+    "description": "••Dispositivos para enfocar o reflejar rayos o haces (H01J 3/02, H01J 3/04 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H01J 3/16",
+    "description": "••••Reflectores [2006.01]"
+  },
+  {
+    "code": "H01J 3/18",
+    "description": "••••Lentes electrostáticas [2006.01]"
+  },
+  {
+    "code": "H01J 3/20",
+    "description": "••••Lentes magnéticas [2006.01]"
+  },
+  {
+    "code": "H01J 3/22",
+    "description": "••••••utilizando únicamente medios electromagnéticos [2006.01]"
+  },
+  {
+    "code": "H01J 3/24",
+    "description": "••••••utilizando únicamente imanes permanentes [2006.01]"
+  },
+  {
+    "code": "H01J 3/26",
+    "description": "••Dispositivos de desviación de rayos o haces [2006.01]"
+  },
+  {
+    "code": "H01J 3/28",
+    "description": "••••a lo largo de una sola línea recta o a lo largo de dos líneas rectas perpendiculares [2006.01]"
+  },
+  {
+    "code": "H01J 3/30",
+    "description": "••••••por medio de campos eléctricos únicamente [2006.01]"
+  },
+  {
+    "code": "H01J 3/32",
+    "description": "••••••por medio de campos magnéticos únicamente [2006.01]"
+  },
+  {
+    "code": "H01J 3/34",
+    "description": "••••a lo largo de un círculo, espiral o línea radial giratoria [2006.01]"
+  },
+  {
+    "code": "H01J 3/36",
+    "description": "••Dispositivos para controlar el rayo o haz después que pasa el sistema de desviación principal, p. ej. para posaceleración o posconcentración [2006.01]"
+  },
+  {
+    "code": "H01J 3/38",
+    "description": "••Montaje, soporte, espaciamiento o aislamiento de dispositivos electronópticos o ionópticos [2006.01]"
+  },
+  {
+    "code": "H01J 3/40",
+    "description": "••Trampas para suprimir o desviar partículas indeseables, p. ej. iones negativos, electrones marginales; Dispositivos selectores de velocidad o de masa [2006.01]"
+  },
+  {
+    "code": "H01J 5/00",
+    "description": "Detalles de recintos o de los conductores de entrada, comunes a dos o más tipos básicos de tubos o lámparas de descarga [2006.01]"
+  },
+  {
+    "code": "H01J 5/02",
+    "description": "••Tubos o ampollas; Recipientes; Blindajes asociados; Cierres de vacío [2006.01]"
+  },
+  {
+    "code": "H01J 5/03",
+    "description": "••••Disposiciones para evitar o reducir los efectos de la implosión de recintos, tubos o ampollas [2006.01]"
+  },
+  {
+    "code": "H01J 5/04",
+    "description": "••••Tubos, ampollas o recipientes caracterizados por el material constitutivo [2006.01]"
+  },
+  {
+    "code": "H01J 5/06",
+    "description": "••••Tubos o ampollas o recipientes adaptados especialmente para funcionar en alta tensión, p. ej. mejorando la distribución de potencial sobre la superficie del tubo o ampolla [2006.01]"
+  },
+  {
+    "code": "H01J 5/08",
+    "description": "••••provistos de revestimientos sobre sus paredes; Empleo de materiales para revestimientos (revestimientos luminiscentes H01J 1/62) [2006.01]"
+  },
+  {
+    "code": "H01J 5/10",
+    "description": "••••••sobre las superficies interiores [2006.01]"
+  },
+  {
+    "code": "H01J 5/12",
+    "description": "••••Tubos, ampollas o recipientes de doble pared [2006.01]"
+  },
+  {
+    "code": "H01J 5/14",
+    "description": "••••Tubos, ampollas o recipientes desmontables, p. ej. para reemplazar el elemento calefactor del cátodo [2006.01]"
+  },
+  {
+    "code": "H01J 5/16",
+    "description": "••••Dispositivos ópticos o fotográficos combinados estructuralmente con el tubo o ampolla [2006.01]"
+  },
+  {
+    "code": "H01J 5/18",
+    "description": "••••Ventanas permeables a los rayos X, rayos gamma o a partículas [2006.01]"
+  },
+  {
+    "code": "H01J 5/20",
+    "description": "••Cierre hermético entre elementos de los tubos o ampollas [2006.01]"
+  },
+  {
+    "code": "H01J 5/22",
+    "description": "••••Uniones estancas al vacío entre elementos del tubo o ampolla [2006.01]"
+  },
+  {
+    "code": "H01J 5/24",
+    "description": "••••••entre elementos aislantes del tubo o ampolla [2006.01]"
+  },
+  {
+    "code": "H01J 5/26",
+    "description": "••••••entre elementos aislantes y conductores del tubo o ampolla [2006.01]"
+  },
+  {
+    "code": "H01J 5/28",
+    "description": "••••••entre elementos conductores del tubo o ampolla [2006.01]"
+  },
+  {
+    "code": "H01J 5/30",
+    "description": "••••••utilizando un material de unión, p. ej. líquido de sellado o guarnición elástica [2006.01]"
+  },
+  {
+    "code": "H01J 5/32",
+    "description": "••Cierre hermético de conductores de entrada [2006.01]"
+  },
+  {
+    "code": "H01J 5/34",
+    "description": "••••para un conductor individual (juntas herméticas de vástago pinzado H01J 5/38; sellados por disco en contera H01J 5/40; juntas herméticas anulares H01J 5/44) [2006.01]"
+  },
+  {
+    "code": "H01J 5/36",
+    "description": "••••••utilizando piezas intermedias [2006.01]"
+  },
+  {
+    "code": "H01J 5/38",
+    "description": "••••juntas herméticas de vástago pinzado o análogas [2006.01]"
+  },
+  {
+    "code": "H01J 5/40",
+    "description": "••••juntas herméticas de disco en contera, p. ej. cabezal plano [2006.01]"
+  },
+  {
+    "code": "H01J 5/42",
+    "description": "••••••utilizando una pieza intermedia [2006.01]"
+  },
+  {
+    "code": "H01J 5/44",
+    "description": "••••Juntas anulares dispuestas entre los extremos del tubo o ampolla [2006.01]"
+  },
+  {
+    "code": "H01J 5/46",
+    "description": "••Conductores de entrada [2006.01]"
+  },
+  {
+    "code": "H01J 5/48",
+    "description": "••Medios que forman parte del tubo o lámpara y sirven para soportarlo [2006.01]"
+  },
+  {
+    "code": "H01J 5/50",
+    "description": "••Medios que forman parte del tubo o lámpara previstos para proporcionar conexión eléctrica al mismo [2006.01]"
+  },
+  {
+    "code": "H01J 5/52",
+    "description": "••••aplicados directamente al tubo o ampolla o formando parte de ella [2006.01]"
+  },
+  {
+    "code": "H01J 5/54",
+    "description": "••••soportados por una pieza independiente, p. ej. un casquillo [2006.01]"
+  },
+  {
+    "code": "H01J 5/56",
+    "description": "••••••Forma de la pieza de soporte [2006.01]"
+  },
+  {
+    "code": "H01J 5/58",
+    "description": "••••••Medios de fijación de la pieza de soporte al tubo o ampolla, p. ej. por un aglutinante [2006.01]"
+  },
+  {
+    "code": "H01J 5/60",
+    "description": "••••••••para fijación por un medio mecánico [2006.01]"
+  },
+  {
+    "code": "H01J 5/62",
+    "description": "••••••Conexión de los hilos que salen del tubo o ampolla a los bornes que lleva la pieza de soporte [2006.01]"
+  },
+  {
+    "code": "H01J 7/00",
+    "description": "Detalles no previstos en los grupos precedentes H01J 1/00-H01J 5/00 y comunes a dos o más tipos básicos de tubos o lámparas de descarga [2006.01]"
+  },
+  {
+    "code": "H01J 7/02",
+    "description": "••Empleo de sustancias específicas como atmósfera gaseosa; Especificación de la presión o temperatura de funcionamiento [2006.01]"
+  },
+  {
+    "code": "H01J 7/04",
+    "description": "••••teniendo uno o más compuestos de carbón como constituyente principal [2006.01]"
+  },
+  {
+    "code": "H01J 7/06",
+    "description": "••••teniendo helio, argón, neón, kriptón o xenón como constituyente principal [2006.01]"
+  },
+  {
+    "code": "H01J 7/08",
+    "description": "••••teniendo un vapor metálico como constituyente principal [2006.01]"
+  },
+  {
+    "code": "H01J 7/10",
+    "description": "••••••vapor de mercurio [2006.01]"
+  },
+  {
+    "code": "H01J 7/12",
+    "description": "••••••vapor de un metal alcalino [2006.01]"
+  },
+  {
+    "code": "H01J 7/14",
+    "description": "••Medios para obtener o mantener la presión deseada en el interior del recinto [2006.01]"
+  },
+  {
+    "code": "H01J 7/16",
+    "description": "••••Medios para permitir el bombeo durante el funcionamiento del tubo o lámpara [2006.01]"
+  },
+  {
+    "code": "H01J 7/18",
+    "description": "••••Medios de absorción o adsorción del gas, p. ej. con un desgaseador [2006.01]"
+  },
+  {
+    "code": "H01J 7/20",
+    "description": "••••Medios para producir, introducir o recargar gas o vapor durante el funcionamiento de tubo o lámpara [2006.01]"
+  },
+  {
+    "code": "H01J 7/22",
+    "description": "••••Conductos previstos a este efecto, p. ej. tubos de evacuación; Cierres consiguientes [2006.01]"
+  },
+  {
+    "code": "H01J 7/24",
+    "description": "••Dispositivos de refrigeración; Dispositivos de calentamiento; Medios para hacer circular gas o vapor dentro del espacio de descarga [2006.01]"
+  },
+  {
+    "code": "H01J 7/26",
+    "description": "••••por flujo del líquido a través de pasos asociados al tubo o lámpara [2006.01]"
+  },
+  {
+    "code": "H01J 7/28",
+    "description": "••••por calor latente o evaporación de un líquido de refrigeración [2006.01]"
+  },
+  {
+    "code": "H01J 7/30",
+    "description": "••Dispositivos de encendido [2006.01]"
+  },
+  {
+    "code": "H01J 7/32",
+    "description": "••••teniendo un dispositivo de encendido resistivo o capacitivo [2006.01]"
+  },
+  {
+    "code": "H01J 7/34",
+    "description": "••••••teniendo un dispositivo de encendido resistivo únicamente [2006.01]"
+  },
+  {
+    "code": "H01J 7/36",
+    "description": "••••Encendido por movimiento de un electrodo sólido [2006.01]"
+  },
+  {
+    "code": "H01J 7/38",
+    "description": "••••Encendido por movimiento del recinto en su conjunto, p. ej. movimiento bascular [2006.01]"
+  },
+  {
+    "code": "H01J 7/40",
+    "description": "••••Encendido utilizando materiales o gas de relleno radioactivos [2006.01]"
+  },
+  {
+    "code": "H01J 7/42",
+    "description": "••Medios indicadores de defectos o de uso anterior, estructuralmente asociados con el tubo o la lámpara [2006.01]"
+  },
+  {
+    "code": "H01J 7/44",
+    "description": "••Uno o más elementos de circuito asociados estructuralmente con el tubo o la lámpara [2006.01]"
+  },
+  {
+    "code": "H01J 7/46",
+    "description": "••••Resonador con inducción y capacidad distributiva, asociado estructuralmente al tubo o la lámpara [2006.01]"
+  },
+  {
+    "code": "H01J 9/00",
+    "description": "Aparatos o procedimientos especialmente adaptados para la fabricación de tubos de descarga eléctrica, lámparas de descarga o de sus componentes; Recuperación de materiales a partir de tubos o lámparas de descarga [2006.01]"
+  },
+  {
+    "code": "H01J 9/02",
+    "description": "••Fabricación de electrodos o de sistemas de electrodos [2006.01]"
+  },
+  {
+    "code": "H01J 9/04",
+    "description": "••••de cátodos termoiónicos [2006.01]"
+  },
+  {
+    "code": "H01J 9/06",
+    "description": "••••••Máquinas para este fin [2006.01]"
+  },
+  {
+    "code": "H01J 9/08",
+    "description": "••••Fabricación de dispositivos de calentamiento para cátodos calentados indirectamente [2006.01]"
+  },
+  {
+    "code": "H01J 9/10",
+    "description": "••••••Máquinas para este fin [2006.01]"
+  },
+  {
+    "code": "H01J 9/12",
+    "description": "••••de cátodos fotoemisivos; de electrodos de emisión secundaria [2006.01]"
+  },
+  {
+    "code": "H01J 9/14",
+    "description": "••••de electrodos no emisivos [2006.01]"
+  },
+  {
+    "code": "H01J 9/16",
+    "description": "••••••Máquinas para producir rejillas de hilo [2006.01]"
+  },
+  {
+    "code": "H01J 9/18",
+    "description": "••••Ensamble de las partes constitutivas de sistemas de electrodos [2006.01]"
+  },
+  {
+    "code": "H01J 9/20",
+    "description": "••Fabricación de pantallas sobre las cuales o a partir de las cuales una imagen o modelo es formado, recogido, convertido o memorizado; Aplicación de revestimientos a la superficie del tubo o ampolla [2006.01]"
+  },
+  {
+    "code": "H01J 9/22",
+    "description": "••••Aplicación de revestimientos luminiscentes [2006.01]"
+  },
+  {
+    "code": "H01J 9/227",
+    "description": "••••••con material luminiscente repartido de manera discontinua, p. ej. en puntos o en líneas [2006.01]"
+  },
+  {
+    "code": "H01J 9/233",
+    "description": "••••Fabricación de pantallas fotoeléctricas o de pantallas de acumulación de cargas [2006.01]"
+  },
+  {
+    "code": "H01J 9/236",
+    "description": "••Fabricación de dispositivos de desviación magnética para tubos de rayos catódicos [2006.01]"
+  },
+  {
+    "code": "H01J 9/24",
+    "description": "••Fabricación o ensamblaje de tubos o ampollas, de conductores de entrada o de casquillos [2006.01]"
+  },
+  {
+    "code": "H01J 9/26",
+    "description": "••••Cierre hermético de elementos del tubo o ampolla [2006.01]"
+  },
+  {
+    "code": "H01J 9/28",
+    "description": "••••Fabricación de conductores de entrada [2006.01]"
+  },
+  {
+    "code": "H01J 9/30",
+    "description": "••••Fabricación de casquillos [2006.01]"
+  },
+  {
+    "code": "H01J 9/32",
+    "description": "••••Cierre hermético de conductores de entrada [2006.01]"
+  },
+  {
+    "code": "H01J 9/34",
+    "description": "••••Ensamblaje del casquillo a la ampolla [2006.01]"
+  },
+  {
+    "code": "H01J 9/36",
+    "description": "••••Empalme entre bornes de conexión y un sistema de electrodos interno [2006.01]"
+  },
+  {
+    "code": "H01J 9/38",
+    "description": "••Evacuación, desgasificado, rellenado o limpieza de tubos o ampollas [2006.01]"
+  },
+  {
+    "code": "H01J 9/385",
+    "description": "••••Evacuación de tubos o ampollas [2006.01]"
+  },
+  {
+    "code": "H01J 9/39",
+    "description": "••••Desgasificación de tubos o ampollas [2006.01]"
+  },
+  {
+    "code": "H01J 9/395",
+    "description": "••••Rellenado de tubos o ampollas [2006.01]"
+  },
+  {
+    "code": "H01J 9/40",
+    "description": "••Cierre de tubos o ampollas [2006.01]"
+  },
+  {
+    "code": "H01J 9/42",
+    "description": "••Medida o pruebas durante la fabricación [2006.01]"
+  },
+  {
+    "code": "H01J 9/44",
+    "description": "••Ajuste en fábrica de tubos o lámparas de descarga conforme a las tolerancias exigidas [2006.01]"
+  },
+  {
+    "code": "H01J 9/46",
+    "description": "••Máquinas con estaciones de operación secuenciales [2006.01]"
+  },
+  {
+    "code": "H01J 9/48",
+    "description": "••••con transferencia automática de piezas a fabricar entre las estaciones de operación [2006.01]"
+  },
+  {
+    "code": "H01J 9/50",
+    "description": "••Reparación o regeneración de tubos o lámparas de descarga usados o defectuosos o de sus componentes recuperables [2006.01]"
+  },
+  {
+    "code": "H01J 9/52",
+    "description": "••Recuperación de materiales a partir de tubos o lámparas de descarga (H01J 9/50 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01J 11/00",
+    "description": "Tubos de descarga en atmósfera gaseosa con alternancia de inducción de corriente de la descarga, p. ej. pantallas de plasma de corriente alterna [PDP] (circuitos o los métodos para el control de las PDP G09G 3/28); Tubos de descarga en atmósfera gaseosa sin ningún electrodo principal dentro del tubo o ampolla; Tubos de descarga en atmósfera gaseosa con al menos un electrodo principal fuera del tubo o ampolla [2012.01]"
+  },
+  {
+    "code": "H01J 11/10",
+    "description": "••AC-PDP con al menos un electrodo principal que está fuera de contacto con el plasma [2012.01]"
+  },
+  {
+    "code": "H01J 11/12",
+    "description": "••••con electrodos principales a ambos lados del espacio de descarga. [2012.01]"
+  },
+  {
+    "code": "H01J 11/14",
+    "description": "••••con electrodos principales disponibles sólo en un lado del espacio de descarga [2012.01]"
+  },
+  {
+    "code": "H01J 11/16",
+    "description": "••••con electrodos principales previstos en el interior o en la cara lateral de los separadores [2012.01]"
+  },
+  {
+    "code": "H01J 11/18",
+    "description": "••••que contiene una pluralidad de estructuras cerradas independientes para contener el gas, p. ej. conjunto de tubos de plasma [PTA] pantalla de paneles [2012.01]"
+  },
+  {
+    "code": "H01J 11/20",
+    "description": "••Detalles de construcción [2012.01]"
+  },
+  {
+    "code": "H01J 11/22",
+    "description": "••••Electrodos, p. ej. forma especial, material o configuración [2012.01]"
+  },
+  {
+    "code": "H01J 11/24",
+    "description": "••••••Electrodos sostenidos o electrodos de escáner [2012.01]"
+  },
+  {
+    "code": "H01J 11/26",
+    "description": "••••••Electrodos de dirección [2012.01]"
+  },
+  {
+    "code": "H01J 11/28",
+    "description": "••••••Electrodos auxiliares, p. ej. electrodos de cebado o de los electrodos de disparo [2012.01]"
+  },
+  {
+    "code": "H01J 11/30",
+    "description": "••••••Electrodos flotantes [2012.01]"
+  },
+  {
+    "code": "H01J 11/32",
+    "description": "••••••Disposición de los electrodos [2012.01]"
+  },
+  {
+    "code": "H01J 11/34",
+    "description": "••••Vasos, recipientes o sus partes, p. ej. sustratos [2012.01]"
+  },
+  {
+    "code": "H01J 11/36",
+    "description": "••••••Separadores, barreras, costillas, tabiques o similares [2012.01]"
+  },
+  {
+    "code": "H01J 11/38",
+    "description": "••••••Dieléctricos o capas aislantes [2012.01]"
+  },
+  {
+    "code": "H01J 11/40",
+    "description": "••••••Capas para la protección o la mejora de la emisión de electrones, p. ej. capas de MgO [2012.01]"
+  },
+  {
+    "code": "H01J 11/42",
+    "description": "••••••Capas fluorescentes [2012.01]"
+  },
+  {
+    "code": "H01J 11/44",
+    "description": "••••••Dispositivos ópticos o dispositivos de apantallamiento, p. ej. filtros, matrices de negro, medios para reflejar la luz o medios de apantallamiento electromagnético [2012.01]"
+  },
+  {
+    "code": "H01J 11/46",
+    "description": "••••Conexión o medios de alimentación, p. ej. conductores de enlazado [2012.01]"
+  },
+  {
+    "code": "H01J 11/48",
+    "description": "••••Sellado, p. ej. sellos especialmente adaptados para conductores [2012.01]"
+  },
+  {
+    "code": "H01J 11/50",
+    "description": "••••Llenado, p. ej. selección de la mezcla de gas [2012.01]"
+  },
+  {
+    "code": "H01J 11/52",
+    "description": "••••Medios para absorber o adsorber  mezcla de gases, p. ej. por proceso de absorción [2012.01]"
+  },
+  {
+    "code": "H01J 11/54",
+    "description": "••••Medios para agotar el gas [2012.01]"
+  },
+  {
+    "code": "H01J 13/00",
+    "description": "Tubos de descarga con cátodos líquidos, p. ej. tubos rectificadores de vapor metálico [2006.01]"
+  },
+  {
+    "code": "H01J 13/02",
+    "description": "••Detalles [2006.01]"
+  },
+  {
+    "code": "H01J 13/04",
+    "description": "••••Electrodos principales; Anodos auxiliares [2006.01]"
+  },
+  {
+    "code": "H01J 13/06",
+    "description": "••••••Cátodos [2006.01]"
+  },
+  {
+    "code": "H01J 13/08",
+    "description": "••••••••caracterizado por el material [2006.01]"
+  },
+  {
+    "code": "H01J 13/10",
+    "description": "••••••••Recipientes de cátodo líquido; Disposiciones o montajes de los mismos [2006.01]"
+  },
+  {
+    "code": "H01J 13/12",
+    "description": "••••••••Orientación o desplazamiento del punto catódico en la superficie del líquido [2006.01]"
+  },
+  {
+    "code": "H01J 13/14",
+    "description": "••••••••Refrigeración, calentamiento, circulación, filtrado o control del nivel del líquido [2006.01]"
+  },
+  {
+    "code": "H01J 13/16",
+    "description": "••••••Anodos; Anodos auxiliares para mantener la descarga [2006.01]"
+  },
+  {
+    "code": "H01J 13/18",
+    "description": "••••••••Refrigeración o calentamiento de ánodos [2006.01]"
+  },
+  {
+    "code": "H01J 13/20",
+    "description": "••••Electrodos de control, p. ej. rejilla (para dispositivos de encendido H01J 13/34) [2006.01]"
+  },
+  {
+    "code": "H01J 13/22",
+    "description": "••••Pantallas, p. ej. para evitar o eliminar el arco de retorno [2006.01]"
+  },
+  {
+    "code": "H01J 13/24",
+    "description": "••••Tubos o ampollas; Recipientes [2006.01]"
+  },
+  {
+    "code": "H01J 13/26",
+    "description": "••••Cierre hermético entre partes del tubo o ampolla; Cierre hermético de los conductores de entrada; Conductores de entrada [2006.01]"
+  },
+  {
+    "code": "H01J 13/28",
+    "description": "••••Selección de sustancias como atmósfera gaseosa; Medios para obtener o conservar la presión gaseosa deseada en el tubo [2006.01]"
+  },
+  {
+    "code": "H01J 13/30",
+    "description": "••••••Medios que permiten el bombeo durante el funcionamiento del tubo [2006.01]"
+  },
+  {
+    "code": "H01J 13/32",
+    "description": "••••Dispositivos de refrigeración; Dispositivos de calentamiento (para cátodos H01J 13/14; para ánodos H01J 13/18) [2006.01]"
+  },
+  {
+    "code": "H01J 13/34",
+    "description": "••••Dispositivos de encendido [2006.01]"
+  },
+  {
+    "code": "H01J 13/36",
+    "description": "••••••con un dispositivo de encendido resistivo o capacitivo [2006.01]"
+  },
+  {
+    "code": "H01J 13/38",
+    "description": "••••••••teniendo un dispositivo de encendido resistivo únicamente [2006.01]"
+  },
+  {
+    "code": "H01J 13/40",
+    "description": "••••••Encendido por desplazamiento de un electrodo sólido [2006.01]"
+  },
+  {
+    "code": "H01J 13/42",
+    "description": "••••••Encendido por movimiento del tubo o ampolla en su conjunto, p. ej. movimiento bascular [2006.01]"
+  },
+  {
+    "code": "H01J 13/44",
+    "description": "••••Dispositivos para evitar o eliminar el arco de retorno [2006.01]"
+  },
+  {
+    "code": "H01J 13/46",
+    "description": "••••Uno o más elementos de circuitos estructuralmente asociados al tubo [2006.01]"
+  },
+  {
+    "code": "H01J 13/48",
+    "description": "••••Circuitos no adaptados a una aplicación particular del tubo y no previstos en otro lugar [2006.01]"
+  },
+  {
+    "code": "H01J 13/50",
+    "description": "••Tubos que tienen un solo ánodo principal [2006.01]"
+  },
+  {
+    "code": "H01J 13/52",
+    "description": "••••con control por uno o más electrodos de control intermedios [2006.01]"
+  },
+  {
+    "code": "H01J 13/54",
+    "description": "••••con control por encendedor, p. ej. ignitrón de un solo ánodo [2006.01]"
+  },
+  {
+    "code": "H01J 13/56",
+    "description": "••Tubos que tienen varios ánodos principales [2006.01]"
+  },
+  {
+    "code": "H01J 13/58",
+    "description": "••••con control por uno o más electrodos de control intermedios [2006.01]"
+  },
+  {
+    "code": "H01J 15/00",
+    "description": "Tubos de descarga en atmósfera gaseosa con cátodos gaseosos, p. ej. cátodo de plasma [2006.01]"
+  },
+  {
+    "code": "H01J 15/02",
+    "description": "••Detalles, p. ej. electrodo, relleno de gas, forma del tubo o ampolla [2006.01]"
+  },
+  {
+    "code": "H01J 15/04",
+    "description": "••••Circuitos no adaptados a una aplicación particular del tubo y no previstos en otro lugar [2006.01]"
+  },
+  {
+    "code": "H01J 17/00",
+    "description": "Tubos de descarga en atmósfera gaseosa con cátodos sólidos (H01J 25/00, H01J 27/00, H01J 31/00-H01J 41/00 tienen prioridad; lámparas de descarga de gas H01T; convertidores del tipo Marx H02M 7/26) [2006.01]"
+  },
+  {
+    "code": "H01J 17/02",
+    "description": "••Detalles [2006.01]"
+  },
+  {
+    "code": "H01J 17/04",
+    "description": "••••Electrodos; Pantallas [2012.01]"
+  },
+  {
+    "code": "H01J 17/06",
+    "description": "••••••Cátodos [2006.01]"
+  },
+  {
+    "code": "H01J 17/08",
+    "description": "••••••••teniendo mercurio o metal alcalino líquido depositados sobre la superficie del cátodo durante el funcionamiento del tubo [2006.01]"
+  },
+  {
+    "code": "H01J 17/10",
+    "description": "••••••Anodos [2006.01]"
+  },
+  {
+    "code": "H01J 17/12",
+    "description": "••••••Electrodos de control [2006.01]"
+  },
+  {
+    "code": "H01J 17/14",
+    "description": "••••Medios magnéticos para controlar la descarga [2006.01]"
+  },
+  {
+    "code": "H01J 17/16",
+    "description": "••••Tubos o ampollas; Recipientes [2012.01]"
+  },
+  {
+    "code": "H01J 17/18",
+    "description": "••••Juntas estancas entre elementos del recinto; Cierre hermético de conductores de entrada; Conductores de entrada [2012.01]"
+  },
+  {
+    "code": "H01J 17/20",
+    "description": "••••Empleo de sustancias específicas para atmósferas gaseosas; Especificación de la presión o temperatura de funcionamiento [2012.01]"
+  },
+  {
+    "code": "H01J 17/22",
+    "description": "••••Medios para obtener o mantener la presión deseada en el interior del tubo [2012.01]"
+  },
+  {
+    "code": "H01J 17/24",
+    "description": "••••••Medios de absorción o adsorción del gas, p. ej. con un desgaseador [2012.01]"
+  },
+  {
+    "code": "H01J 17/26",
+    "description": "••••••Medios para producir, introducir o rellenar gas o vapor durante el funcionamiento del tubo [2012.01]"
+  },
+  {
+    "code": "H01J 17/28",
+    "description": "••••Dispositivos de refrigeración [2006.01]"
+  },
+  {
+    "code": "H01J 17/30",
+    "description": "••••Dispositivos de encendido [2006.01]"
+  },
+  {
+    "code": "H01J 17/32",
+    "description": "••••••Encendido utilizando materiales o gases de relleno radiactivos asociados [2006.01]"
+  },
+  {
+    "code": "H01J 17/34",
+    "description": "••••uno o más elementos de circuito estructuralmente asociados con el tubo [2006.01]"
+  },
+  {
+    "code": "H01J 17/36",
+    "description": "••••Circuitos no adaptados a una aplicación particular del tubo y no previstos en otro lugar [2006.01]"
+  },
+  {
+    "code": "H01J 17/38",
+    "description": "••Tubos de cátodo frío [2006.01]"
+  },
+  {
+    "code": "H01J 17/40",
+    "description": "••••con cátodo único y ánodo único, p. ej. tubo de incandescencia, tubo incandescente indicador de sintonía, tubo indicador de tensión, tubo estabilizador de tensión [2006.01]"
+  },
+  {
+    "code": "H01J 17/42",
+    "description": "••••••teniendo uno o más electrodos sonda, p. ej. divisor de tensión [2006.01]"
+  },
+  {
+    "code": "H01J 17/44",
+    "description": "••••••teniendo uno o más electrodos de control [2006.01]"
+  },
+  {
+    "code": "H01J 17/46",
+    "description": "••••••••para impedir y a continuación permitir el encendido, pero sin que se tenga un control subsiguiente [2006.01]"
+  },
+  {
+    "code": "H01J 17/48",
+    "description": "••••con más de un cátodo o ánodo, p. ej. tubo de descarga secuencial, tubo contador, decatrón [2006.01]"
+  },
+  {
+    "code": "H01J 17/49",
+    "description": "••••••Paneles de representación, p. ej. de electrodos cruzados [2012.01]"
+  },
+  {
+    "code": "H01J 17/50",
+    "description": "••Tubos de cátodo termoiónico [2006.01]"
+  },
+  {
+    "code": "H01J 17/52",
+    "description": "••••con cátodo único y ánodo único [2006.01]"
+  },
+  {
+    "code": "H01J 17/54",
+    "description": "••••••teniendo uno o más electrodos de control [2006.01]"
+  },
+  {
+    "code": "H01J 17/56",
+    "description": "••••••••para impedir y a continuación permitir el encendido, pero sin que se tenga un control subsiguiente [2006.01]"
+  },
+  {
+    "code": "H01J 17/58",
+    "description": "••••con más de un cátodo o ánodo [2006.01]"
+  },
+  {
+    "code": "H01J 17/60",
+    "description": "••••••las vías de descarga se ceban una a otra en una predeterminada secuencia, p. ej. tubo contador [2006.01]"
+  },
+  {
+    "code": "H01J 17/62",
+    "description": "••••••con vías de descarga independientes controladas por electrodos intermedios, p. ej. rectificador polifásico [2006.01]"
+  },
+  {
+    "code": "H01J 17/64",
+    "description": "••Tubos especialmente diseñados para conmutar o modular en una guía de ondas, p. ej. tubo TR [2006.01]"
+  },
+  {
+    "code": "H01J 19/00",
+    "description": "Detalles de tubos de vacío de los tipos cubiertos por el grupo H01J 21/00 [2006.01]"
+  },
+  {
+    "code": "H01J 19/02",
+    "description": "••Electrodos emisores de electrones; Cátodos [2006.01]"
+  },
+  {
+    "code": "H01J 19/04",
+    "description": "••••Cátodos termoiónicos [2006.01]"
+  },
+  {
+    "code": "H01J 19/06",
+    "description": "••••••caracterizados por el material [2006.01]"
+  },
+  {
+    "code": "H01J 19/062",
+    "description": "••••••••con óxidos de metales alcalinotérreos, o con tales óxidos utilizados conjuntamente con agentes reductores, como material emisivo [2006.01]"
+  },
+  {
+    "code": "H01J 19/064",
+    "description": "••••••••con óxidos de otros metales como material emisivo [2006.01]"
+  },
+  {
+    "code": "H01J 19/066",
+    "description": "••••••••con metales o aleaciones como material emisivo [2006.01]"
+  },
+  {
+    "code": "H01J 19/068",
+    "description": "••••••••con compuestos que tienen propiedades metálicas conductoras, p. ej. boruro de lantano, como material emisivo [2006.01]"
+  },
+  {
+    "code": "H01J 19/08",
+    "description": "••••••Cátodos calentados directamente por una corriente eléctrica [2006.01]"
+  },
+  {
+    "code": "H01J 19/10",
+    "description": "••••••caracterizados por la forma [2006.01]"
+  },
+  {
+    "code": "H01J 19/12",
+    "description": "••••••••Soportes; Dispositivos para amortiguar vibraciones [2006.01]"
+  },
+  {
+    "code": "H01J 19/14",
+    "description": "••••••Cátodos calentados indirectamente por una corriente eléctrica; Cátodos calentados por bombardeo iónico o electrónico [2006.01]"
+  },
+  {
+    "code": "H01J 19/16",
+    "description": "••••••••Dispositivos de calentamiento [2006.01]"
+  },
+  {
+    "code": "H01J 19/18",
+    "description": "••••••••Capa aislante o cuerpos aislantes dispuestos entre el elemento calefactor y el material emisivo [2006.01]"
+  },
+  {
+    "code": "H01J 19/20",
+    "description": "••••••••Soportes para el material emisivo [2006.01]"
+  },
+  {
+    "code": "H01J 19/22",
+    "description": "••••••••Cátodos del tipo distribuidor p. ej. cátodo L [2006.01]"
+  },
+  {
+    "code": "H01J 19/24",
+    "description": "••••Cátodos fríos, p. ej. cátodo de campo de emisión [2006.01]"
+  },
+  {
+    "code": "H01J 19/28",
+    "description": "••Electrodos no emisores de electrones; Pantallas [2006.01]"
+  },
+  {
+    "code": "H01J 19/30",
+    "description": "••••caracterizados por el material [2006.01]"
+  },
+  {
+    "code": "H01J 19/32",
+    "description": "••••Anodos [2006.01]"
+  },
+  {
+    "code": "H01J 19/34",
+    "description": "••••••formando parte de la envoltura [2006.01]"
+  },
+  {
+    "code": "H01J 19/36",
+    "description": "••••••Refrigeración de ánodos [2006.01]"
+  },
+  {
+    "code": "H01J 19/38",
+    "description": "••••Electrodos de control, p. ej. rejilla [2006.01]"
+  },
+  {
+    "code": "H01J 19/40",
+    "description": "••••Pantallas de blindaje [2006.01]"
+  },
+  {
+    "code": "H01J 19/42",
+    "description": "••Montajes, soportes, espaciamiento o aislamiento de electrodos O de conjuntos de electrodos [2006.01]"
+  },
+  {
+    "code": "H01J 19/44",
+    "description": "••••Elementos aislantes entre electrodos o soportes dentro del espacio vacío [2006.01]"
+  },
+  {
+    "code": "H01J 19/46",
+    "description": "••••Piezas de ensamblaje de electrodos [2006.01]"
+  },
+  {
+    "code": "H01J 19/48",
+    "description": "••••Piezas de ensamblaje de electrodos tomados aisladamente [2006.01]"
+  },
+  {
+    "code": "H01J 19/50",
+    "description": "••••Elementos de espaciamiento que se extienden hasta la envoltura [2006.01]"
+  },
+  {
+    "code": "H01J 19/52",
+    "description": "••••••sin conexión fija entre los elementos de espaciamiento y la envoltura [2006.01]"
+  },
+  {
+    "code": "H01J 19/54",
+    "description": "••Tubos o ampollas; Recipientes; Blindajes asociados [2006.01]"
+  },
+  {
+    "code": "H01J 19/56",
+    "description": "••••caracterizados por el material del tubo o ampolla o del recipiente [2006.01]"
+  },
+  {
+    "code": "H01J 19/57",
+    "description": "••••provistos de revestimientos sobre sus paredes; Empleo de materiales específicos para revestimientos [2006.01]"
+  },
+  {
+    "code": "H01J 19/58",
+    "description": "••Juntas estancas entre elementos del tubo o ampolla [2006.01]"
+  },
+  {
+    "code": "H01J 19/60",
+    "description": "••Cierres herméticos de conductores de entrada [2006.01]"
+  },
+  {
+    "code": "H01J 19/62",
+    "description": "••Conductores de entrada [2006.01]"
+  },
+  {
+    "code": "H01J 19/64",
+    "description": "••Medios que forman parte del tubo con el propósito de soportarlo [2006.01]"
+  },
+  {
+    "code": "H01J 19/66",
+    "description": "••Medios que forman parte del tubo y previstos como medios de conexión eléctrica del mismo [2006.01]"
+  },
+  {
+    "code": "H01J 19/68",
+    "description": "••Gas determinado introducido en el tubo a baja presión, p. ej. para reducir o influir sobre la carga espacial [2006.01]"
+  },
+  {
+    "code": "H01J 19/70",
+    "description": "••Medios para obtener o mantener el vacío, p. ej. por medio de un desgaseador [2006.01]"
+  },
+  {
+    "code": "H01J 19/72",
+    "description": "••••Conductos para este fin, p. ej. para la evacuación; Cierres para este fin [2006.01]"
+  },
+  {
+    "code": "H01J 19/74",
+    "description": "••Dispositivos de refrigeración (refrigeración de ánodos H01J 19/36) [2006.01]"
+  },
+  {
+    "code": "H01J 19/76",
+    "description": "••Medios estructuralmente asociados con el tubo para indicar defectos o usos anteriores [2006.01]"
+  },
+  {
+    "code": "H01J 19/78",
+    "description": "••Uno o más elementos de circuitos estructuralmente asociados con el tubo [2006.01]"
+  },
+  {
+    "code": "H01J 19/80",
+    "description": "••••Resonador con inductancia y capacidad distribuidas y estructuralmente asociado al tubo [2006.01]"
+  },
+  {
+    "code": "H01J 19/82",
+    "description": "••Circuitos no adaptados a una aplicación particular del tubo y no previstos en otro lugar [2006.01]"
+  },
+  {
+    "code": "H01J 21/00",
+    "description": "Tubos de vacío (H01J 25/00, H01J 31/00-H01J 40/00, H01J 43/00, H01J 47/00, H01J 49/00 tienen prioridad; detalles de los tubos de vacío H01J 19/00) [2006.01]"
+  },
+  {
+    "code": "H01J 21/02",
+    "description": "••Tubos con una sola vía de descarga [2006.01]"
+  },
+  {
+    "code": "H01J 21/04",
+    "description": "••••sin medios de control, es decir, diodos [2006.01]"
+  },
+  {
+    "code": "H01J 21/06",
+    "description": "••••teniendo medios de control exclusivamente electrostáticos [2006.01]"
+  },
+  {
+    "code": "H01J 21/08",
+    "description": "••••••con electrodo o electrodos movibles [2006.01]"
+  },
+  {
+    "code": "H01J 21/10",
+    "description": "••••••con uno o más electrodos de control internos fijos, p. ej. triodo, pentodo, octodo [2006.01]"
+  },
+  {
+    "code": "H01J 21/12",
+    "description": "••••••••Tubos con coeficiente de amplificación variable [2006.01]"
+  },
+  {
+    "code": "H01J 21/14",
+    "description": "••••••••Tubos con medios para concentrar el flujo de electrones, p. ej. tetrodo de haz electrónico [2006.01]"
+  },
+  {
+    "code": "H01J 21/16",
+    "description": "••••••con medios de control electrostáticos externos y con o sin electrodos de control internos [2006.01]"
+  },
+  {
+    "code": "H01J 21/18",
+    "description": "••••teniendo medios de control magnéticos; con medios de control Tanto magnéticos como electrostáticos [2006.01]"
+  },
+  {
+    "code": "H01J 21/20",
+    "description": "••Tubos con más de una vía de descarga; Tubos múltiples, p. ej. diodo doble, triodo-hexodo [2006.01]"
+  },
+  {
+    "code": "H01J 21/22",
+    "description": "••••con electrodos movibles [2006.01]"
+  },
+  {
+    "code": "H01J 21/24",
+    "description": "••••con coeficiente de amplificación variable [2006.01]"
+  },
+  {
+    "code": "H01J 21/26",
+    "description": "••••con medios para concentrar el flujo electrónico [2006.01]"
+  },
+  {
+    "code": "H01J 21/34",
+    "description": "••Tubos con sistemas de electrodos dispuestos o dimensionados de tal manera que eliminen el efecto del tiempo de tránsito (con electrodos planos H01J 21/36) [2006.01]"
+  },
+  {
+    "code": "H01J 21/36",
+    "description": "••Tubos con electrodos planos, p. ej. electrodos de disco [2006.01]"
+  },
+  {
+    "code": "H01J 23/00",
+    "description": "Detalles de tubos de tiempo de tránsito de los tipos cubiertos por el grupo H01J 25/00 [2006.01]"
+  },
+  {
+    "code": "H01J 23/02",
+    "description": "••Electrodos; Medios de control magnéticos; Pantallas (asociadas al resonador o al sistema de retardo H01J 23/16) [2006.01]"
+  },
+  {
+    "code": "H01J 23/027",
+    "description": "••••Colectores [2006.01]"
+  },
+  {
+    "code": "H01J 23/033",
+    "description": "••••••Dispositivos de refrigeración de colectores [2006.01]"
+  },
+  {
+    "code": "H01J 23/04",
+    "description": "••••Cátodos [2006.01]"
+  },
+  {
+    "code": "H01J 23/05",
+    "description": "••••••con una superficie emisiva cilíndrica, p. ej. cátodos para magnetrones [2006.01]"
+  },
+  {
+    "code": "H01J 23/06",
+    "description": "••••Cañones electrónicos o iónicos [2006.01]"
+  },
+  {
+    "code": "H01J 23/065",
+    "description": "••••••que producen un haz cilíndrico compacto (H01J 23/075 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01J 23/07",
+    "description": "••••••que producen un haz cilíndrico hueco (H01J 23/075 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01J 23/075",
+    "description": "••••••Cañones de inyección para magnetrón [2006.01]"
+  },
+  {
+    "code": "H01J 23/08",
+    "description": "••••Dispositivos de enfoque, p. ej. para producir una concentración de flujo de electrones, para evitar la dispersión de un haz [2006.01]"
+  },
+  {
+    "code": "H01J 23/083",
+    "description": "••••••Dispositivos de enfoque electrostático [2006.01]"
+  },
+  {
+    "code": "H01J 23/087",
+    "description": "••••••Dispositivos de enfoque magnético [2006.01]"
+  },
+  {
+    "code": "H01J 23/09",
+    "description": "••••Sistemas eléctricos para dirigir o desviar la descarga a lo largo de una trayectoria deseada, p. ej. tipo E (dispositivos de enfoque H01J 23/08) [2006.01]"
+  },
+  {
+    "code": "H01J 23/10",
+    "description": "••••Sistemas de imanes para dirigir o desviar la descarga a lo largo de una trayectoria deseada, p. ej. una trayectoria en espiral o helicoidal (dispositivos de enfoque magnético H01J 23/08) [2006.01]"
+  },
+  {
+    "code": "H01J 23/11",
+    "description": "••••Medios para reducir el ruido (en los cañones electrónicos o iónicos H01J 23/06) [2006.01]"
+  },
+  {
+    "code": "H01J 23/12",
+    "description": "••Tubos o ampollas; Recipientes [2006.01]"
+  },
+  {
+    "code": "H01J 23/14",
+    "description": "••Conductores de entrada; Cierres herméticos de los mismos [2006.01]"
+  },
+  {
+    "code": "H01J 23/15",
+    "description": "••••Medios para evitar la dispersión de energía ondulatoria estructuralmente asociados con los dispositivos de entrada del tubo, p. ej. filtros, bobinas de choque, dispositivos atenuadores [2006.01]"
+  },
+  {
+    "code": "H01J 23/16",
+    "description": "••Elementos de circuitos, con inductancia y capacidad distribuidas, estructuralmente asociados con el tubo y en interacción con la descarga [2006.01]"
+  },
+  {
+    "code": "H01J 23/18",
+    "description": "••••Resonadores [2006.01]"
+  },
+  {
+    "code": "H01J 23/20",
+    "description": "••••••Resonadores de cavidad; Ajuste o sintonización de ellos [2006.01]"
+  },
+  {
+    "code": "H01J 23/207",
+    "description": "••••••••Sintonización de un único resonador [2006.01]"
+  },
+  {
+    "code": "H01J 23/213",
+    "description": "••••••••Sintonización de varios resonadores simultáneamente, p. ej. cavidades resonantes de un magnetrón [2006.01]"
+  },
+  {
+    "code": "H01J 23/22",
+    "description": "••••••Conexiones entre resonadores, p. ej. cintas para conectar resonadores de un magnetrón [2006.01]"
+  },
+  {
+    "code": "H01J 23/24",
+    "description": "••••Estructuras de ondas lentas [2006.01]"
+  },
+  {
+    "code": "H01J 23/26",
+    "description": "••••••Estructuras de ondas lentas en hélice; Su ajuste [2006.01]"
+  },
+  {
+    "code": "H01J 23/27",
+    "description": "••••••••Estructuras de ondas lentas derivadas de una hélice [2006.01]"
+  },
+  {
+    "code": "H01J 23/28",
+    "description": "••••••Estructuras de ondas lentas interdigitales; Su ajuste [2006.01]"
+  },
+  {
+    "code": "H01J 23/30",
+    "description": "••••••Dispositivos de amortiguamiento asociados a las estructuras de ondas lentas, p. ej. para suprimir las oscilaciones indeseables [2006.01]"
+  },
+  {
+    "code": "H01J 23/34",
+    "description": "••Circuitos no adaptados a una aplicación particular del tubo y no previstos en otro lugar [2006.01]"
+  },
+  {
+    "code": "H01J 23/36",
+    "description": "••Dispositivos de acoplamiento con capacitadad e inductancia distribuidas, estructuralmente asociados al tubo para introducir o extraer energía ondulatoria [2006.01]"
+  },
+  {
+    "code": "H01J 23/38",
+    "description": "••••en o a partir del espacio de descarga [2006.01]"
+  },
+  {
+    "code": "H01J 23/40",
+    "description": "••••en o a partir del circuito de interacción [2006.01]"
+  },
+  {
+    "code": "H01J 23/42",
+    "description": "••••••siendo el circuito de interacción una estructura de ondas lentas en hélice o una estructura de ondas lentas derivadas de una hélice (H01J 23/44-H01J 23/48 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H01J 23/44",
+    "description": "••••••Dispositivos de acoplamiento del tipo de barra (H01J 23/46, H01J 23/48, H01J 23/54 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H01J 23/46",
+    "description": "••••••Dispositivos de acoplamiento en bucle [2006.01]"
+  },
+  {
+    "code": "H01J 23/48",
+    "description": "••••••Acoplamiento del circuito de interacción con líneas coaxiales; Dispositivos del tipo de hélices acopladas (H01J 23/46 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01J 23/50",
+    "description": "••••••••siendo el circuito de interacción una hélice o derivado de una hélice (H01J 23/52 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01J 23/52",
+    "description": "••••••••estando las hélices acopladas dispuestas coaxialmente una alrededor de otra [2006.01]"
+  },
+  {
+    "code": "H01J 23/54",
+    "description": "••••Dispositivos de filtrado que impiden que se produzca un acoplamiento de las frecuencias o modos indeseables en o fuera del circuito de interacción; Medidas para impedir la fuga de alta frecuencia al ambiente [2006.01]"
+  },
+  {
+    "code": "H01J 25/00",
+    "description": "Tubos de tiempo de tránsito, p. ej. klystrones, tubos de ondas progresivas, magnetrón (detalles de tubos de tiempo de tránsito H01J 23/00; aceleradores de partículas H05H) [2006.01]"
+  },
+  {
+    "code": "H01J 25/02",
+    "description": "••Tubos con haz de electrones modulado en velocidad o en densidad en una zona moduladora y después cediendo la energía en una zona inductiva, estando las zonas asociadas con uno o más resonadores [2006.01]"
+  },
+  {
+    "code": "H01J 25/04",
+    "description": "••••Tubos con uno o varios resonadores, sin reflexión del haz electrónico y en el cual la modulación producida en la zona moduladora es principalmente una modulación en densidad, p. ej. tubo de Haeff [2006.01]"
+  },
+  {
+    "code": "H01J 25/06",
+    "description": "••••Tubos con un resonador único, sin reflexión del flujo de electrones, y en los cuales la modulación producida en la zona moduladora es principalmente una modulación en velocidad, p. ej. klystron del tipo Lüdi [2006.01]"
+  },
+  {
+    "code": "H01J 25/08",
+    "description": "••••••con el haz de electrones perpendicular al eje del resonador [2006.01]"
+  },
+  {
+    "code": "H01J 25/10",
+    "description": "••••Klystrones, es decir, tubos con dos o más resonadores sin reflexión del flujo electrónico y donde el flujo es modulado, principalmente en velocidad en la zona del resonador de entrada [2006.01]"
+  },
+  {
+    "code": "H01J 25/11",
+    "description": "••••••Klystrones de interacción distribuida [2006.01]"
+  },
+  {
+    "code": "H01J 25/12",
+    "description": "••••••con haz electrónico en forma de pincel en el eje de los resonadores [2006.01]"
+  },
+  {
+    "code": "H01J 25/14",
+    "description": "••••••con haz electrónico tubular coaxial con el eje de los resonadores [2006.01]"
+  },
+  {
+    "code": "H01J 25/16",
+    "description": "••••••con haz electrónico en forma de pincel, perpendicular al eje de los resonadores [2006.01]"
+  },
+  {
+    "code": "H01J 25/18",
+    "description": "••••••con haz electrónico radial o en forma de disco, perpendicular al eje de los resonadores [2006.01]"
+  },
+  {
+    "code": "H01J 25/20",
+    "description": "••••••teniendo disposiciones especiales en el espacio entre los resonadores, p. ej. tubo amplificador de pared resistiva, tubo amplificador con una carga espacial, tubo con saltos de velocidad [2006.01]"
+  },
+  {
+    "code": "H01J 25/22",
+    "description": "••••Klystrones reflex, es decir, tubos que tienen uno o más resonadores, con una sola reflexión del haz de electrones y siendo el flujo modulado principalmente en su velocidad en la zona moduladora [2006.01]"
+  },
+  {
+    "code": "H01J 25/24",
+    "description": "••••••donde el haz electrónico se encuentra en el eje del resonador o resonadores y tiene la forma de un pincel antes de la reflexión [2006.01]"
+  },
+  {
+    "code": "H01J 25/26",
+    "description": "••••••donde el haz electrónico es coaxial con el eje del resonador o resonadores y es de forma cilíndrica antes de la reflexión [2006.01]"
+  },
+  {
+    "code": "H01J 25/28",
+    "description": "••••••donde el haz electrónico es perpendicular al eje del resonador o resonadores y es como un pincel antes de la reflexión [2006.01]"
+  },
+  {
+    "code": "H01J 25/30",
+    "description": "••••••donde el haz electrónico es perpendicular al eje del resonador o resonadores y tiene forma radial o de disco antes de la reflexión [2006.01]"
+  },
+  {
+    "code": "H01J 25/32",
+    "description": "••••Tubos con reflexión múltiple, p. ej. tubos Coeterier [2006.01]"
+  },
+  {
+    "code": "H01J 25/34",
+    "description": "••Tubos de ondas progresivas; Tubos en los cuales una onda progresiva es simulada en intervalos escalonados [2006.01]"
+  },
+  {
+    "code": "H01J 25/36",
+    "description": "••••Tubos en los cuales se produce una interacción entre el haz electrónico y una onda que se propaga a lo largo de una línea de retardo o una sucesión equivalente de elementos de impedancia y no teniendo sistemas de imanes que produzcan un campo H a través de un campo E [2006.01]"
+  },
+  {
+    "code": "H01J 25/38",
+    "description": "••••••utilizando la onda progresiva directa [2006.01]"
+  },
+  {
+    "code": "H01J 25/40",
+    "description": "••••••utilizando la onda progresiva inversa [2006.01]"
+  },
+  {
+    "code": "H01J 25/42",
+    "description": "••••Tubos en los cuales se produce una interacción entre el haz electrónico y una onda que se propaga a lo largo de una línea de retardo o una sucesión equivalente de elementos de impedancia, y con un sistema de imanes produciendo un campo H a través de un campo E (con una onda progresiva propagándose completamente alrededor del espacio electrónico H01J 25/50) [2006.01]"
+  },
+  {
+    "code": "H01J 25/44",
+    "description": "••••••utilizando la onda progresiva directa [2006.01]"
+  },
+  {
+    "code": "H01J 25/46",
+    "description": "••••••utilizando la onda progresiva inversa [2006.01]"
+  },
+  {
+    "code": "H01J 25/48",
+    "description": "••••Tubos en los cuales dos haces electrónicos de diferentes Velocidades interactúan de el uno al otro, p. ej. tubo de ondas electrónicas [2006.01]"
+  },
+  {
+    "code": "H01J 25/49",
+    "description": "••••Tubos que utilizan el principio paramétrico, es decir, para amplificación paramétrica [2006.01]"
+  },
+  {
+    "code": "H01J 25/50",
+    "description": "••Magnetrones, es decir, tubos con un sistema de imanes produciendo un campo H a través de un campo E (con una onda progresiva no propagándose completamente alrededor del espacio electrónico H01J 25/42; con reflexión múltiple o con acción ciclotrón inversa H01J 25/62, H01J 25/64) [2006.01]"
+  },
+  {
+    "code": "H01J 25/52",
+    "description": "••••con un espacio electrónico que tiene una forma que permite a los electrones moverse enteramente alrededor del cátodo o del electrodo guía [2006.01]"
+  },
+  {
+    "code": "H01J 25/54",
+    "description": "••••••con cavidad única u otro tipo de resonador único, p. ej. tubo neutrodo [2006.01]"
+  },
+  {
+    "code": "H01J 25/55",
+    "description": "••••••••Magnetrones coaxiales [2006.01]"
+  },
+  {
+    "code": "H01J 25/56",
+    "description": "••••••••teniendo un sistema interdigital de ánodos, p. ej. tubo turbator [2006.01]"
+  },
+  {
+    "code": "H01J 25/58",
+    "description": "••••••teniendo un cierto número de resonadores; teniendo un resonador compuesto, p. ej. una hélice [2006.01]"
+  },
+  {
+    "code": "H01J 25/587",
+    "description": "••••••••Magnetrones de multicavidad [2006.01]"
+  },
+  {
+    "code": "H01J 25/593",
+    "description": "••••••••••Magnetrones con estructura en sol saliente [2006.01]"
+  },
+  {
+    "code": "H01J 25/60",
+    "description": "••••con un espacio electrónico con una forma propia para evitar que los electrones se muevan completamente alrededor del cátodo o del electrodo guía; Magnetrones lineales [2006.01]"
+  },
+  {
+    "code": "H01J 25/61",
+    "description": "••Tubos híbridos, es decir, tubos con una estructura de interacción del tipo klystron asociada a una estructura de interacción del tipo de propagación de onda [2006.01]"
+  },
+  {
+    "code": "H01J 25/62",
+    "description": "••Estrofotrones, es decir, tubo con campo magnético H y eléctrico E cruzados y funcionando con reflexión múltiple [2006.01]"
+  },
+  {
+    "code": "H01J 25/64",
+    "description": "••Tubos turbina, es decir, tubos con los campos H y E cruzados y con acción de ciclotrón inverso [2006.01]"
+  },
+  {
+    "code": "H01J 25/66",
+    "description": "••Tubos con haz electrónico autocruzándose y presentando con este efecto un fenómeno de autointerrupción o de autointerferencia [2006.01]"
+  },
+  {
+    "code": "H01J 25/68",
+    "description": "••Tubos especialmente diseñados para funcionar como osciladores con rejilla positiva y campo retardador, p. ej. para osciladores de Barkhausen-Kurz (con emisión secundaria H01J 25/76) [2006.01]"
+  },
+  {
+    "code": "H01J 25/70",
+    "description": "••••con resonador con inductancia y capacidad distribuidas, p. ej. tubo Pintsch [2006.01]"
+  },
+  {
+    "code": "H01J 25/72",
+    "description": "••••en los cuales es producida una onda estacionaria o una considerable parte de ella, a lo largo de un electrodo, p. ej. tubo Clavier (con resonador que tiene inductancia y capacidad distribuida H01J 25/70) [2006.01]"
+  },
+  {
+    "code": "H01J 25/74",
+    "description": "••Tubos especialmente diseñados para funcionar en calidad de osciladores de diodos y con tiempos de tránsito, p. ej. monotrón [2006.01]"
+  },
+  {
+    "code": "H01J 25/76",
+    "description": "••Tubos multiplicadores de electrones dinámicos, p. ej. tubo multiplicador de Farnsworth, multipactor [2006.01]"
+  },
+  {
+    "code": "H01J 25/78",
+    "description": "••Tubos con haz electrónico modulado por desviación en un resonador [2006.01]"
+  },
+  {
+    "code": "H01J 27/00",
+    "description": "Tubos de haz iónico (H01J 25/00, H01J 33/00, H01J 37/00 tienen prioridad; aceleradores de partículas H05H) [2006.01]"
+  },
+  {
+    "code": "H01J 27/02",
+    "description": "••Fuentes de iones; Cañones de iones [2006.01]"
+  },
+  {
+    "code": "H01J 27/04",
+    "description": "••••que utilizan una descarga reflex, p. ej. fuentes de iones Penning [2006.01]"
+  },
+  {
+    "code": "H01J 27/06",
+    "description": "••••••sin campo magnético aplicado [2006.01]"
+  },
+  {
+    "code": "H01J 27/08",
+    "description": "••••que utilizan una descarga de arco [2006.01]"
+  },
+  {
+    "code": "H01J 27/10",
+    "description": "••••••Duoplasmatrones [2006.01]"
+  },
+  {
+    "code": "H01J 27/12",
+    "description": "••••••••provistos de una pequeña copa de expansión [2006.01]"
+  },
+  {
+    "code": "H01J 27/14",
+    "description": "••••••Otras fuentes de iones con descarga de arco que utilizan un campo magnético aplicado [2006.01]"
+  },
+  {
+    "code": "H01J 27/16",
+    "description": "••••que utilizan una excitación de alta frecuencia, p. ej. una excitación por microondas [2006.01]"
+  },
+  {
+    "code": "H01J 27/18",
+    "description": "••••••con un campo magnético axial aplicado [2006.01]"
+  },
+  {
+    "code": "H01J 27/20",
+    "description": "••••que utilizan un bombardeo de partículas, p. ej. ionizadores [2006.01]"
+  },
+  {
+    "code": "H01J 27/22",
+    "description": "••••••Fuentes de iones metálicos [2006.01]"
+  },
+  {
+    "code": "H01J 27/24",
+    "description": "••••que utilizan la ionización fotoeléctrica, p. ej. que utilizan un rayo láser [2006.01]"
+  },
+  {
+    "code": "H01J 27/26",
+    "description": "••••que utilizan la ionización de superficie, p. ej. fuentes de iones con efecto de campo, fuentes de iones termoiónicas (H01J 27/20, H01J 27/24 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H01J 29/00",
+    "description": "Detalles de tubos de rayos catódicos o de tubos de haz electrónico de los tipos cubiertos por el grupo H01J 31/00 [2006.01]"
+  },
+  {
+    "code": "H01J 29/02",
+    "description": "••Electrodos; Pantallas; Montaje, soportes, espaciamientos o aislamiento de estos elementos [2006.01]"
+  },
+  {
+    "code": "H01J 29/04",
+    "description": "••••Cátodos [2006.01]"
+  },
+  {
+    "code": "H01J 29/06",
+    "description": "••••Pantallas para blindaje; Máscaras interpuestas en el haz electrónico [2006.01]"
+  },
+  {
+    "code": "H01J 29/07",
+    "description": "••••••Máscaras de sombra para tubos de televisión en color [2006.01]"
+  },
+  {
+    "code": "H01J 29/08",
+    "description": "••••Electrodos estrechamente asociados con una pantalla sobre o desde la cual una imagen o modelo se forma, recoge, convierte o memoriza, p. ej. placa soporte para tubo de memoria, placa colectora de electrones secundarios [2006.01]"
+  },
+  {
+    "code": "H01J 29/10",
+    "description": "••••Pantallas sobre o desde las cuales una imagen o modelo se forma, recoge, convierte o memoriza [2006.01]"
+  },
+  {
+    "code": "H01J 29/12",
+    "description": "••••••funcionando como válvulas de luz por un mecanismo obturador, p. ej. en un eidoforo [2006.01]"
+  },
+  {
+    "code": "H01J 29/14",
+    "description": "••••••funcionando por decoloración, p. ej. pantalla halógena [2006.01]"
+  },
+  {
+    "code": "H01J 29/16",
+    "description": "••••••Pantallas incandescentes [2006.01]"
+  },
+  {
+    "code": "H01J 29/18",
+    "description": "••••••Pantallas luminiscentes [2006.01]"
+  },
+  {
+    "code": "H01J 29/20",
+    "description": "••••••••caracterizadas por el material luminiscente [2006.01]"
+  },
+  {
+    "code": "H01J 29/22",
+    "description": "••••••••caracterizadas por el ligador o adhesivo de fijación del material luminiscente a su soporte, p. ej. ampolla o tubo [2006.01]"
+  },
+  {
+    "code": "H01J 29/24",
+    "description": "••••••••Soportes para material luminiscente [2006.01]"
+  },
+  {
+    "code": "H01J 29/26",
+    "description": "••••••••con capas luminiscentes superpuestas [2006.01]"
+  },
+  {
+    "code": "H01J 29/28",
+    "description": "••••••••con capas protectoras, conductoras o reflectantes [2006.01]"
+  },
+  {
+    "code": "H01J 29/30",
+    "description": "••••••••con disposición discontinua de materia luminiscente, p. ej. en puntos o líneas [2006.01]"
+  },
+  {
+    "code": "H01J 29/32",
+    "description": "••••••••••con puntos o líneas adyacentes de diferente material luminiscente, p. ej. para televisión en color [2006.01]"
+  },
+  {
+    "code": "H01J 29/34",
+    "description": "••••••••provistos de marcas o referencias permanentes [2006.01]"
+  },
+  {
+    "code": "H01J 29/36",
+    "description": "••••••Pantallas fotoeléctricas; Pantallas de acumulación de carga [2006.01]"
+  },
+  {
+    "code": "H01J 29/38",
+    "description": "••••••••no utilizando la acumulación de carga, p. ej. pantallas fotoemisivas o fotocátodos [2006.01]"
+  },
+  {
+    "code": "H01J 29/39",
+    "description": "••••••••Pantallas de acumulación de carga [2006.01]"
+  },
+  {
+    "code": "H01J 29/41",
+    "description": "••••••••••utilizando la emisión secundaria, p. ej. supericonoscopio [2006.01]"
+  },
+  {
+    "code": "H01J 29/43",
+    "description": "••••••••••utilizando un mosaico fotoemisivo, p. ej. para orthicon, para iconoscopio [2006.01]"
+  },
+  {
+    "code": "H01J 29/44",
+    "description": "••••••••••presentando un efecto eléctrico interno causado por la radiación de partículas, p. ej. conductibilidad inducida por bombardeo [2006.01]"
+  },
+  {
+    "code": "H01J 29/45",
+    "description": "••••••••••presentando efectos eléctricos internos causados por radiaciones electromagnéticas, p. ej. pantalla fotoconductora, pantalla fotodieléctrica, pantalla fotovoltaica [2006.01]"
+  },
+  {
+    "code": "H01J 29/46",
+    "description": "••Disposiciones de electrodos y partes asociadas para generar o controlar el rayo o el haz, p. ej. dispositivos ópticos-electrónicos [2006.01]"
+  },
+  {
+    "code": "H01J 29/48",
+    "description": "••••Cañones electrónicos [2006.01]"
+  },
+  {
+    "code": "H01J 29/50",
+    "description": "••••••varios cañones están dispuestos en el mismo espacio de vacío, p. ej. para tubos de rayos múltiples (H01J 29/51 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01J 29/51",
+    "description": "••••••Dispositivo de control de la convergencia de varios haces [2006.01]"
+  },
+  {
+    "code": "H01J 29/52",
+    "description": "••••Dispositivos para controlar la intensidad del rayo o haz, p. ej. para modulación [2006.01]"
+  },
+  {
+    "code": "H01J 29/54",
+    "description": "••••Dispositivos para centrar un rayo o haz [2006.01]"
+  },
+  {
+    "code": "H01J 29/56",
+    "description": "••••Dispositivos para controlar la sección transversal del rayo o haz; Dispositivos para corregir la aberración del haz, p. ej. debido a las lentes [2006.01]"
+  },
+  {
+    "code": "H01J 29/58",
+    "description": "••••Dispositivos para enfocar o reflejar el rayo o haz [2006.01]"
+  },
+  {
+    "code": "H01J 29/60",
+    "description": "••••••Reflectores [2006.01]"
+  },
+  {
+    "code": "H01J 29/62",
+    "description": "••••••Lentes electrostáticas [2006.01]"
+  },
+  {
+    "code": "H01J 29/64",
+    "description": "••••••Lentes magnéticas [2006.01]"
+  },
+  {
+    "code": "H01J 29/66",
+    "description": "••••••••utilizando únicamente medios electromagnéticos [2006.01]"
+  },
+  {
+    "code": "H01J 29/68",
+    "description": "••••••••utilizando únicamente imanes permanentes [2006.01]"
+  },
+  {
+    "code": "H01J 29/70",
+    "description": "••••Dispositivos de desviación del rayo o del haz [2006.01]"
+  },
+  {
+    "code": "H01J 29/72",
+    "description": "••••••a lo largo de una línea recta o a lo largo de dos líneas rectas perpendiculares [2006.01]"
+  },
+  {
+    "code": "H01J 29/74",
+    "description": "••••••••Desviación por campos eléctricos únicamente [2006.01]"
+  },
+  {
+    "code": "H01J 29/76",
+    "description": "••••••••Desviación por campos magnéticos únicamente [2006.01]"
+  },
+  {
+    "code": "H01J 29/78",
+    "description": "••••••a lo largo de un círculo, espiral o línea radial giratoria, p. ej. por indicación de radar [2006.01]"
+  },
+  {
+    "code": "H01J 29/80",
+    "description": "••••Dispositivos para controlar el rayo o haz después de pasar por el sistema de desviación principal, p. ej. para posaceleración o para posconcentración, para conmutación del color [2006.01]"
+  },
+  {
+    "code": "H01J 29/81",
+    "description": "••••••que utilizan máscaras de sombra [2006.01]"
+  },
+  {
+    "code": "H01J 29/82",
+    "description": "••••Montaje, soportes, espaciamiento o aislamiento de dispositivos electrónicos o ionópticos [2006.01]"
+  },
+  {
+    "code": "H01J 29/84",
+    "description": "••Trampas para eliminar o desviar partículas indeseadas, p. ej. iones negativos, electrones marginales; Dispositivos selectores de velocidad o masa [2006.01]"
+  },
+  {
+    "code": "H01J 29/86",
+    "description": "••Tubos o ampollas; Recipientes; Cierres estancos [2006.01]"
+  },
+  {
+    "code": "H01J 29/87",
+    "description": "••••Dispositivos para impedir o reducir los efectos de la implosión de los tubos o ampollas o recipientes [2006.01]"
+  },
+  {
+    "code": "H01J 29/88",
+    "description": "••••provistos de revestimientos sobre sus paredes; Selección de materiales para los revestimientos [2006.01]"
+  },
+  {
+    "code": "H01J 29/89",
+    "description": "••••Dispositivos ópticos o fotográficos combinados estructuralmente con la ampolla o tubo [2006.01]"
+  },
+  {
+    "code": "H01J 29/90",
+    "description": "••Dispositivos de entrada; Cierres herméticos consiguientes [2006.01]"
+  },
+  {
+    "code": "H01J 29/92",
+    "description": "••Medios de conexión eléctrica formando parte del tubo [2006.01]"
+  },
+  {
+    "code": "H01J 29/94",
+    "description": "••Selección de sustancias para atmósfera gaseosa; Medios para obtener o mantener la presión deseada dentro del tubo, p. ej. con un desgaseador [2006.01]"
+  },
+  {
+    "code": "H01J 29/96",
+    "description": "••uno o más elementos de circuitos estructuralmente asociados con el tubo [2006.01]"
+  },
+  {
+    "code": "H01J 29/98",
+    "description": "••Circuitos no adaptados a una aplicación particular del tubo y no previstos en otro lugar [2006.01]"
+  },
+  {
+    "code": "H01J 31/00",
+    "description": "Tubos de rayos catódicos; Tubos de haz electrónico (H01J 25/00, H01J 33/00, H01J 35/00, H01J 37/00 tienen prioridad; detalles de tubos de rayos catódicos o de tubos de haz electrónico H01J 29/00) [2006.01]"
+  },
+  {
+    "code": "H01J 31/02",
+    "description": "••teniendo uno o más electrodos de salida sobre los cuales puede incidir selectivamente el rayo o haz y hacia, desde o sobre los cuales el rayo o haz puede ser desviado o desenfocado [2006.01]"
+  },
+  {
+    "code": "H01J 31/04",
+    "description": "••••con sólo uno o dos electrodos de salida [2006.01]"
+  },
+  {
+    "code": "H01J 31/06",
+    "description": "••••con más de dos electrodos de salida, p. ej. para conmutación o cómputo múltiples [2006.01]"
+  },
+  {
+    "code": "H01J 31/08",
+    "description": "••teniendo una pantalla sobre o desde la cual una imagen o modelo se forma, recoge, convierte o memoriza [2006.01]"
+  },
+  {
+    "code": "H01J 31/10",
+    "description": "••••Tubos reproductores de imágenes o modelos, es decir, teniendo una señal de entrada eléctrica y una señal de salida óptica; Tubos analizadores con punto móvil [2006.01]"
+  },
+  {
+    "code": "H01J 31/12",
+    "description": "••••••con pantalla luminiscente [2006.01]"
+  },
+  {
+    "code": "H01J 31/14",
+    "description": "••••••••Indicadores de sintonización de ojo mágico o análogos [2006.01]"
+  },
+  {
+    "code": "H01J 31/15",
+    "description": "••••••••con rayo o haz dirigido selectivamente hacia segmentos de ánodo luminiscentes [2006.01]"
+  },
+  {
+    "code": "H01J 31/16",
+    "description": "••••••••con máscara que permite la fijación de un cierto número de signos selectivos, p. ej. numeroscopio [2006.01]"
+  },
+  {
+    "code": "H01J 31/18",
+    "description": "••••••••con una imagen inscrita por un rayo o haz sobre una pantalla de acumulación de carga del tipo rejilla, y con un rayo o haz atravesando esta pantalla y estando influenciado por ella antes de golpear la pantalla luminiscente, p. ej. tubos de acumulación de visión directa [2006.01]"
+  },
+  {
+    "code": "H01J 31/20",
+    "description": "••••••para la reproducción de imágenes o modelos en dos o más colores [2006.01]"
+  },
+  {
+    "code": "H01J 31/22",
+    "description": "••••••para la representación estereoscópica [2006.01]"
+  },
+  {
+    "code": "H01J 31/24",
+    "description": "••••••con una pantalla actuando como válvula de luz con la ayuda de un mecanismo obturador, p. ej. edioforo [2006.01]"
+  },
+  {
+    "code": "H01J 31/26",
+    "description": "••••Tubos de recogida de imágenes que reciben una señal de luz visible y entregan una señal eléctrica (tubos sin haz electrónico definido que tienen un rayo de luz explorando una pantalla fotoemisiva H01J 40/20) [2006.01]"
+  },
+  {
+    "code": "H01J 31/28",
+    "description": "••••••con haz electrónico barriendo la pantalla de imagen [2006.01]"
+  },
+  {
+    "code": "H01J 31/30",
+    "description": "••••••••teniendo medios de estabilización del potencial de pantalla en el potencial de ánodo, p. ej. iconoscopio [2006.01]"
+  },
+  {
+    "code": "H01J 31/32",
+    "description": "••••••••••Tubos que tienen un elemento amplificador de imagen, p. ej. \"imagen-iconoscopio\", supericonoscopio [2006.01]"
+  },
+  {
+    "code": "H01J 31/34",
+    "description": "••••••••teniendo medios de estabilización del potencial de pantalla en el potencial del cátodo, p. ej. orticón [2006.01]"
+  },
+  {
+    "code": "H01J 31/36",
+    "description": "••••••••••Tubos que tienen un elemento amplificador de imagen, p. ej. \"imagen-orticón\" o superorticón [2006.01]"
+  },
+  {
+    "code": "H01J 31/38",
+    "description": "••••••••••Tubos con pantalla fotoconductora, p. ej. vidicón [2006.01]"
+  },
+  {
+    "code": "H01J 31/40",
+    "description": "••••••••en las cuales el rayo electrónico, después de atravesar una pantalla de imagen tipo rejilla, por la cual es influenciado, incide sobre un electrodo de salida, es decir, tubos con \"funcionamiento de triodo\" [2006.01]"
+  },
+  {
+    "code": "H01J 31/42",
+    "description": "••••••con pantalla de imagen que produce un haz electrónico compuesto al cual se le hace desviar en su conjunto frente a un analizador elemental fijo de forma que simule un efecto de barrido, p. ej. tubo tomavistas Farnsworth [2006.01]"
+  },
+  {
+    "code": "H01J 31/44",
+    "description": "••••••••Tubos que tienen un elemento amplificador de imagen [2006.01]"
+  },
+  {
+    "code": "H01J 31/46",
+    "description": "••••••Tubos en los cuales la señal eléctrica de salida representa a la vez la intensidad y el color de la imagen [2006.01]"
+  },
+  {
+    "code": "H01J 31/48",
+    "description": "••••••Tubos donde la señal de salida es amplificada por un multiplicador de electrones, dispuesto en el interior del tubo [2006.01]"
+  },
+  {
+    "code": "H01J 31/49",
+    "description": "••••Tubos captadores adaptados para una radiación electromagnética de entrada distinta de la luz visible y poseyendo una salida eléctrica, p. ej. para una entrada de rayos X, para una entrada de rayos infrarrojos [2006.01]"
+  },
+  {
+    "code": "H01J 31/495",
+    "description": "••••Tubos captadores para una entrada de sonido, ultrasonido o vibraciones mecánicas y que poseen una salida eléctrica [2006.01]"
+  },
+  {
+    "code": "H01J 31/50",
+    "description": "••••Tubos convertidores o amplificadores de imagen, es decir, que tienen una señal de entrada óptica, de rayos X o análoga, y una señal de salida óptica [2006.01]"
+  },
+  {
+    "code": "H01J 31/52",
+    "description": "••••••teniendo una pantalla de imagen del tipo rejilla a través de la cual el rayo o haz electrónico pasa y por la cual es influenciado antes de incidir sobre la pantalla de salida luminiscente, es decir, con \"funcionamiento de triodo\" [2006.01]"
+  },
+  {
+    "code": "H01J 31/54",
+    "description": "••••••en los cuales el haz o rayo electrónico es reflejado por la pantalla de imagen de entrada sobre la pantalla de imagen de salida [2006.01]"
+  },
+  {
+    "code": "H01J 31/56",
+    "description": "••••••Convertidores o amplificadores de imágenes en dos o más colores [2006.01]"
+  },
+  {
+    "code": "H01J 31/58",
+    "description": "••••Tubos de memoria con acumulación de imágenes o de información o tubos convertidores de definición de imágenes de televisión o análogos, es decir, con señal eléctrica a la entrada y señal eléctrica a la salida [2006.01]"
+  },
+  {
+    "code": "H01J 31/60",
+    "description": "••••••teniendo medios de desviación, bien selectivos o bien secuenciales, de un haz electrónico hacia elementos superficiales de la pantalla independientes (por circuitos únicamente H01J 29/98) [2006.01]"
+  },
+  {
+    "code": "H01J 31/62",
+    "description": "••••••••con haces de inscripción y de lectura distintos [2006.01]"
+  },
+  {
+    "code": "H01J 31/64",
+    "description": "••••••••••explorando los lados opuestos de la pantalla, p. ej. para conversión de la definición [2006.01]"
+  },
+  {
+    "code": "H01J 31/66",
+    "description": "••••••con medios de selección de elementos determinados de la sección transversal del haz electrónico homogéneo para que alcancen los elementos correspondientes de la pantalla, p. ej. selectrón [2006.01]"
+  },
+  {
+    "code": "H01J 31/68",
+    "description": "••••••en los cuales la información representa dos o más colores [2006.01]"
+  },
+  {
+    "code": "H01J 33/00",
+    "description": "Tubos de descarga provistos de disposiciones para la emergencia de electrones o iones desde el tubo o ampolla (aceleradores de partículas H05H); Tubos de Lenard [2006.01]"
+  },
+  {
+    "code": "H01J 33/02",
+    "description": "••Detalles [2006.01]"
+  },
+  {
+    "code": "H01J 33/04",
+    "description": "••••Ventanas [2006.01]"
+  },
+  {
+    "code": "H01J 35/00",
+    "description": "Tubos de rayos X [2006.01]"
+  },
+  {
+    "code": "H01J 35/02",
+    "description": "••Detalles [2006.01]"
+  },
+  {
+    "code": "H01J 35/04",
+    "description": "••••Electrodos [2006.01]"
+  },
+  {
+    "code": "H01J 35/06",
+    "description": "••••••Cátodos [2006.01]"
+  },
+  {
+    "code": "H01J 35/08",
+    "description": "••••••Anodos; Anticátodos [2006.01]"
+  },
+  {
+    "code": "H01J 35/10",
+    "description": "••••••••Anodos giratorios; Disposiciones para ánodos giratorios; Refrigeración de ánodos giratorios [2006.01]"
+  },
+  {
+    "code": "H01J 35/12",
+    "description": "••••••••Refrigeración de ánodos no giratorios [2006.01]"
+  },
+  {
+    "code": "H01J 35/14",
+    "description": "••••Dispositivos de concentración, enfoque u orientación del rayo catódico [2006.01]"
+  },
+  {
+    "code": "H01J 35/16",
+    "description": "••••Ampollas, tubos; Recipientes; Blindajes asociados [2006.01]"
+  },
+  {
+    "code": "H01J 35/18",
+    "description": "••••••Ventanas [2006.01]"
+  },
+  {
+    "code": "H01J 35/20",
+    "description": "••••Selección de sustancias específicas como atmósferas gaseosas; Medios para obtener o mantener la presión deseada dentro del tubo, p. ej. con un \"desgaseador\" [2006.01]"
+  },
+  {
+    "code": "H01J 35/22",
+    "description": "••Tubos diseñados especialmente para que pase una corriente de intensidad muy elevada en un intervalo de tiempo muy corto, p. ej. para flash [2006.01]"
+  },
+  {
+    "code": "H01J 35/24",
+    "description": "••Tubos en los cuales el punto de impacto del rayo catódico sobre el ánodo o el anticátodo es desplazable con relación a la superficie de ellos [2006.01]"
+  },
+  {
+    "code": "H01J 35/26",
+    "description": "••••por rotación del ánodo o del anticátodo [2006.01]"
+  },
+  {
+    "code": "H01J 35/28",
+    "description": "••••por vibración, oscilación, vaivén o movimiento del tipo placa oscilante del ánodo o del anticátodo [2006.01]"
+  },
+  {
+    "code": "H01J 35/30",
+    "description": "••••por desviación del rayo catódico [2006.01]"
+  },
+  {
+    "code": "H01J 35/32",
+    "description": "••Tubos donde los rayos X son producidos en la extremidad o cerca de la extremidad del tubo o de una parte de él, teniendo dicho tubo o dicha parte del tubo una sección transversal pequeña para facilitar su introducción dentro de un pequeño hueco o cavidad [2006.01]"
+  },
+  {
+    "code": "H01J 37/00",
+    "description": "Tubos de descarga provistos de medios o de un material para ser expuestos a la descarga, p. ej. con el propósito de sufrir un examen o tratamiento (H01J 33/00, H01J 40/00, H01J 41/00, H01J 47/00, H01J 49/00 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H01J 37/02",
+    "description": "••Detalles [2006.01]"
+  },
+  {
+    "code": "H01J 37/04",
+    "description": "••••Disposiciones de electrodos y partes asociadas para generar o controlar la descarga, p. ej. dispositivo electronóptico, dispositivo ionóptico [2006.01]"
+  },
+  {
+    "code": "H01J 37/05",
+    "description": "••••••Dispositivos electronópticos o ionópticos para la separación de electrones o de iones en función de su energía (tubos separadores de partículas H01J 49/00) [2006.01]"
+  },
+  {
+    "code": "H01J 37/06",
+    "description": "••••••Fuentes de electrones; Cañones electrónicos [2006.01]"
+  },
+  {
+    "code": "H01J 37/063",
+    "description": "••••••••Disposición geométrica de electrodos para la formación del haz [2006.01]"
+  },
+  {
+    "code": "H01J 37/065",
+    "description": "••••••••Montaje de cañones o de sus elementos constitutivos (H01J 37/067-H01J 37/077 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H01J 37/067",
+    "description": "••••••••Elementos de recambio de cañones; Ajuste mutuo de electrodos (H01J 37/073-H01J 37/077 tienen prioridad; cierres estancos H01J 37/18) [2006.01]"
+  },
+  {
+    "code": "H01J 37/07",
+    "description": "••••••••Eliminación de efectos nocivos debidos a efectos térmicos o a campos eléctricos o magnéticos (H01J 37/073-H01J 37/077  tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H01J 37/073",
+    "description": "••••••••Cañones de electrones que utilizan fuentes de electrones de emisión por efecto del campo, de fotoemisión secundaria [2006.01]"
+  },
+  {
+    "code": "H01J 37/075",
+    "description": "••••••••Cañones de electrones que utilizan la emisión termoiónica de cátodos calentados por bombardeo de partículas o por irradiación, p. ej. por láser [2006.01]"
+  },
+  {
+    "code": "H01J 37/077",
+    "description": "••••••••Cañones de electrones que utilizan como fuentes de electrones una descarga en gas o en vapor [2006.01]"
+  },
+  {
+    "code": "H01J 37/08",
+    "description": "••••••Fuente de iones; Cañón iónico [2006.01]"
+  },
+  {
+    "code": "H01J 37/09",
+    "description": "••••••Diafragmas; Pantallas asociadas a los dispositivos electronópticos o ionópticos; Compensación de campos perturbadores [2006.01]"
+  },
+  {
+    "code": "H01J 37/10",
+    "description": "••••••Lentes [2006.01]"
+  },
+  {
+    "code": "H01J 37/12",
+    "description": "••••••••electrostáticas [2006.01]"
+  },
+  {
+    "code": "H01J 37/14",
+    "description": "••••••••magnéticas [2006.01]"
+  },
+  {
+    "code": "H01J 37/141",
+    "description": "••••••••••Lentes electromagnéticas [2006.01]"
+  },
+  {
+    "code": "H01J 37/143",
+    "description": "••••••••••Lentes magnéticas permanentes [2006.01]"
+  },
+  {
+    "code": "H01J 37/145",
+    "description": "••••••••Combinaciones de lentes electrostáticas y magnéticas [2006.01]"
+  },
+  {
+    "code": "H01J 37/147",
+    "description": "••••••Disposiciones para dirigir o desviar la descarga a lo largo de una trayectoria determinada (lentes H01J 37/10) [2006.01]"
+  },
+  {
+    "code": "H01J 37/15",
+    "description": "••••••••Ajuste mecánico externo de componentes electronópticos o ionópticos (H01J 37/067, H01J 37/20 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H01J 37/153",
+    "description": "••••••Disposiciones electronópticas o ionópticas para la corrección de defectos de imágenes, p. ej. estigmadores [2006.01]"
+  },
+  {
+    "code": "H01J 37/16",
+    "description": "••••Tubos o ampollas; Recipientes [2006.01]"
+  },
+  {
+    "code": "H01J 37/18",
+    "description": "••••Cierres estancos [2006.01]"
+  },
+  {
+    "code": "H01J 37/20",
+    "description": "••••Medios para soportar o colocar el objeto o el material; Medios para ajustar diafragmas o lentes asociadas al soporte [2006.01]"
+  },
+  {
+    "code": "H01J 37/21",
+    "description": "••••Medios para ajustar el foco [2006.01]"
+  },
+  {
+    "code": "H01J 37/22",
+    "description": "••••Dispositivos ópticos o fotográficos asociados al tubo [2006.01]"
+  },
+  {
+    "code": "H01J 37/24",
+    "description": "••••Circuitos no adaptados a una aplicación particular del tubo y no previsto en otro lugar [2006.01]"
+  },
+  {
+    "code": "H01J 37/244",
+    "description": "••••Detectores; Componentes o circuitos asociados [2006.01]"
+  },
+  {
+    "code": "H01J 37/248",
+    "description": "••••Componentes asociados con la alimentación a alta tensión [2006.01]"
+  },
+  {
+    "code": "H01J 37/252",
+    "description": "••Tubos analizadores de manchas por haces electrónicos o iónicos; Microanalizadores [2006.01]"
+  },
+  {
+    "code": "H01J 37/256",
+    "description": "••••que utilizan haces de barrido [2006.01]"
+  },
+  {
+    "code": "H01J 37/26",
+    "description": "••Microscopios electrónicos o iónicos; Tubos de difracción de electrones o de iones [2006.01]"
+  },
+  {
+    "code": "H01J 37/27",
+    "description": "••••Microscopio de máscara [2006.01]"
+  },
+  {
+    "code": "H01J 37/28",
+    "description": "••••con haces de barrido [2006.01]"
+  },
+  {
+    "code": "H01J 37/285",
+    "description": "••••Microscopios de emisión, p. ej. microscopios de emisión de campo [2006.01]"
+  },
+  {
+    "code": "H01J 37/29",
+    "description": "••••Microscopios de reflexión [2006.01]"
+  },
+  {
+    "code": "H01J 37/295",
+    "description": "••••Tubos de difracción electrónica o iónica [2006.01]"
+  },
+  {
+    "code": "H01J 37/30",
+    "description": "••Tubos de haz electrónico o iónico para tratamientos localizados de objetos [2006.01]"
+  },
+  {
+    "code": "H01J 37/301",
+    "description": "••••Dispositivos que permiten a los haces pasar de una región a otra de presión diferente [2006.01]"
+  },
+  {
+    "code": "H01J 37/302",
+    "description": "••••Control de tubos por una información de origen externo, p. ej. control por programa (H01J 37/304 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01J 37/304",
+    "description": "••••Control de tubos por una información que proviene de objetos, p. ej. señales de corrección [2006.01]"
+  },
+  {
+    "code": "H01J 37/305",
+    "description": "••••para colar, fundir, evaporar o decapar [2006.01]"
+  },
+  {
+    "code": "H01J 37/31",
+    "description": "••••para cortar o perforar [2006.01]"
+  },
+  {
+    "code": "H01J 37/315",
+    "description": "••••para soldar [2006.01]"
+  },
+  {
+    "code": "H01J 37/317",
+    "description": "••••para modificar las propiedades de objetos o para aplicarles revestimientos de capa delgada, p. ej. implantación de iones (H01J 37/36 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01J 37/32",
+    "description": "••Tubos de descarga en atmósfera gaseosa (calefacción por descarga H05B) [2006.01]"
+  },
+  {
+    "code": "H01J 37/34",
+    "description": "••••que funcionan por pulverización catódica (H01J 37/36 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01J 37/36",
+    "description": "••••para limpiar superficies durante el depósito de iones que provienen de materiales introducidos durante la descarga, p. ej. introducidos por evaporación [2006.01]"
+  },
+  {
+    "code": "H01J 40/00",
+    "description": "Tubos de descarga fotoeléctrica que no implican la ionización de un gas (H01J 49/00 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01J 40/02",
+    "description": "••Detalles [2006.01]"
+  },
+  {
+    "code": "H01J 40/04",
+    "description": "••••Electrodos [2006.01]"
+  },
+  {
+    "code": "H01J 40/06",
+    "description": "••••••Cátodos fotoemisivos [2006.01]"
+  },
+  {
+    "code": "H01J 40/08",
+    "description": "••••Medios magnéticos para controlar la descarga [2006.01]"
+  },
+  {
+    "code": "H01J 40/10",
+    "description": "••••Empleo de sustancias específicas como atmósfera gaseosa [2006.01]"
+  },
+  {
+    "code": "H01J 40/12",
+    "description": "••••Elementos de circuitos estructuralmente asociados al tubo [2006.01]"
+  },
+  {
+    "code": "H01J 40/14",
+    "description": "••••Circuitos no adaptados a una aplicación particular del tubo y no previstos en otro lugar [2006.01]"
+  },
+  {
+    "code": "H01J 40/16",
+    "description": "••con cátodo fotoemisivo, p. ej. célula fotoeléctrica alcalina (que funcionan con una emisión secundaria H01J 43/00) [2006.01]"
+  },
+  {
+    "code": "H01J 40/18",
+    "description": "••••con revestimiento luminiscente para influir sobre la sensibilidad del tubo, p. ej. por conversión de la longitud de onda a la entrada [2006.01]"
+  },
+  {
+    "code": "H01J 40/20",
+    "description": "••••en los que un rayo luminoso barre una pantalla fotoemisiva [2006.01]"
+  },
+  {
+    "code": "H01J 41/00",
+    "description": "Tubos de descarga y medios estructuralmente asociados para la medida de la presión del gas; Tubos de descarga para la evacuación por difusión de iones [2006.01]"
+  },
+  {
+    "code": "H01J 41/02",
+    "description": "••Tubos de descarga y medios estructuralmente asociados para la medida de la presión del gas [2006.01]"
+  },
+  {
+    "code": "H01J 41/04",
+    "description": "••••con ionización por medio de cátodos termoiónicos [2006.01]"
+  },
+  {
+    "code": "H01J 41/06",
+    "description": "••••con ionización por medio de cátodos fríos [2006.01]"
+  },
+  {
+    "code": "H01J 41/08",
+    "description": "••••con ionización por medio de sustancias radiactivas, p. ej. alfatrones [2006.01]"
+  },
+  {
+    "code": "H01J 41/10",
+    "description": "••••del tipo de espectrómetros de partículas (espectrómetro de partículas en general H01J 49/00) [2006.01]"
+  },
+  {
+    "code": "H01J 41/12",
+    "description": "••Tubos de descarga para la evacuación por difusión de iones, p. ej. bombas iónicas, bombas iónicas con desgaseador [2006.01]"
+  },
+  {
+    "code": "H01J 41/14",
+    "description": "••••con ionización por medio de cátodos termoiónicos [2006.01]"
+  },
+  {
+    "code": "H01J 41/16",
+    "description": "••••••utilizando substancias desgaseadoras [2006.01]"
+  },
+  {
+    "code": "H01J 41/18",
+    "description": "••••con ionización por medio de cátodos fríos [2006.01]"
+  },
+  {
+    "code": "H01J 41/20",
+    "description": "••••••utilizando substancias desgaseadoras [2006.01]"
+  },
+  {
+    "code": "H01J 43/00",
+    "description": "Tubos de emisión secundaria; Tubos multiplicadores de electrones (tubos multiplicadores de electrones dinámicos H01J 25/76) [2006.01]"
+  },
+  {
+    "code": "H01J 43/02",
+    "description": "••Tubos en los cuales uno o algunos electrodos son emisores de electrones secundarios [2006.01]"
+  },
+  {
+    "code": "H01J 43/04",
+    "description": "••Multiplicadores de electrones [2006.01]"
+  },
+  {
+    "code": "H01J 43/06",
+    "description": "••••Disposiciones de electrodos [2006.01]"
+  },
+  {
+    "code": "H01J 43/08",
+    "description": "••••••Disposiciones de cátodos (construcción de cátodos fotoemisivos H01J 40/06, H01J 40/16, H01J 47/00, H01J 49/08) [2006.01]"
+  },
+  {
+    "code": "H01J 43/10",
+    "description": "••••••Dínodos (H01J 43/24, H01J 43/26 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H01J 43/12",
+    "description": "••••••Disposiciones de ánodos [2006.01]"
+  },
+  {
+    "code": "H01J 43/14",
+    "description": "••••••Control de haz electrónico por campo magnético [2006.01]"
+  },
+  {
+    "code": "H01J 43/16",
+    "description": "••••••Disposiciones de electrodos utilizando esencialmente un dínodo [2006.01]"
+  },
+  {
+    "code": "H01J 43/18",
+    "description": "••••••Disposiciones de electrodos utilizando esencialmente más de un dínodo [2006.01]"
+  },
+  {
+    "code": "H01J 43/20",
+    "description": "••••••••Dínodos constituidos por un material en hojas, p. ej. planos, curvados [2006.01]"
+  },
+  {
+    "code": "H01J 43/22",
+    "description": "••••••••Dínodos constituidos por un material permeable a los electrones, p. ej. hoja de metal, rejilla, tubo, persiana veneciana [2006.01]"
+  },
+  {
+    "code": "H01J 43/24",
+    "description": "••••••••Dínodos con gradiente de potencial a lo largo de sus superficies [2006.01]"
+  },
+  {
+    "code": "H01J 43/26",
+    "description": "••••••••Dínodos cajas [2006.01]"
+  },
+  {
+    "code": "H01J 43/28",
+    "description": "••••Tubos o ampollas; Ventanas; Pantallas; Supresión de descargas o de corrientes no deseadas [2006.01]"
+  },
+  {
+    "code": "H01J 43/30",
+    "description": "••••Circuitos no adaptados a una aplicación particular del tubo y no previstos en otro lugar [2006.01]"
+  },
+  {
+    "code": "H01J 45/00",
+    "description": "Tubos de descarga funcionando como generadores termoiónicos [2006.01]"
+  },
+  {
+    "code": "H01J 47/00",
+    "description": "Tubos para determinar la presencia, intensidad, densidad o energía de una radiación o de partículas (tubos de descarga fotoeléctrica que no implican la ionización de un gas H01J 40/00) [2006.01]"
+  },
+  {
+    "code": "H01J 47/02",
+    "description": "••Cámaras de ionización [2006.01]"
+  },
+  {
+    "code": "H01J 47/04",
+    "description": "••••Cámaras de ionización capacitivas, p. ej. cuyos electrodos son utilizados como electrómetros [2006.01]"
+  },
+  {
+    "code": "H01J 47/06",
+    "description": "••Tubos contadores proporcionales [2006.01]"
+  },
+  {
+    "code": "H01J 47/08",
+    "description": "••Tubos contadores Geiger-Müller [2006.01]"
+  },
+  {
+    "code": "H01J 47/10",
+    "description": "••Contadores de centelleo (H01J 47/14 tiene prioridad; espinterómetros H01T) [2006.01]"
+  },
+  {
+    "code": "H01J 47/12",
+    "description": "••Tubos detectores de neutrones, p. ej. tubos espinterómetros BF3 tubos [2006.01]"
+  },
+  {
+    "code": "H01J 47/14",
+    "description": "••Cámaras de centelleo o de descarga irregular, de electrodos paralelos; Cámaras de centelleo o de descarga irregular, de hilos [2006.01]"
+  },
+  {
+    "code": "H01J 47/16",
+    "description": "••••caracterizadas por la lectura individual de cada hilo [2006.01]"
+  },
+  {
+    "code": "H01J 47/18",
+    "description": "••••••siendo la lectura eléctrica (H01J 47/20 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01J 47/20",
+    "description": "••••••utilizando la lectura líneas de retardo eléctricas o mecánicas, p. ej. líneas de retardo magnetoestrictivas [2006.01]"
+  },
+  {
+    "code": "H01J 47/22",
+    "description": "••••caracterizadas por otro tipo de lectura [2006.01]"
+  },
+  {
+    "code": "H01J 47/24",
+    "description": "••••••siendo la lectura acústica [2006.01]"
+  },
+  {
+    "code": "H01J 47/26",
+    "description": "••••••siendo la lectura óptica [2006.01]"
+  },
+  {
+    "code": "H01J 49/00",
+    "description": "Espectrómetros de partículas o tubos separadores de partículas [2006.01]"
+  },
+  {
+    "code": "H01J 49/02",
+    "description": "••Detalles [2006.01]"
+  },
+  {
+    "code": "H01J 49/04",
+    "description": "••••Disposiciones para introducir o extraer muestras antes de ser analizadas, p. ej. cierres estancos; Disposiciones para el ajuste externo de componentes electronópticos o ionópticos [2006.01]"
+  },
+  {
+    "code": "H01J 49/06",
+    "description": "••••Dispositivos electronópticos o ionópticos (H01J 49/04 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01J 49/08",
+    "description": "••••Fuentes de electrones, p. ej. para producir fotoelectrones, electrones secundarios o electrones de Auger [2006.01]"
+  },
+  {
+    "code": "H01J 49/10",
+    "description": "••••Fuentes de iones; Cañones de iones [2006.01]"
+  },
+  {
+    "code": "H01J 49/12",
+    "description": "••••••que utilizan una descarga de arco, p. ej. del tipo duo-plasmatron [2006.01]"
+  },
+  {
+    "code": "H01J 49/14",
+    "description": "••••••que utilizan un bombardeo de partículas, p. ej. cámaras de ionización [2006.01]"
+  },
+  {
+    "code": "H01J 49/16",
+    "description": "••••••que utilizan una ionización de superficie, p. ej. emisión termoiónica o fotoeléctrica [2006.01]"
+  },
+  {
+    "code": "H01J 49/18",
+    "description": "••••••que utilizan una ionización por centelleo [2006.01]"
+  },
+  {
+    "code": "H01J 49/20",
+    "description": "••••Deflexión magnética [2006.01]"
+  },
+  {
+    "code": "H01J 49/22",
+    "description": "••••Deflexión electrostática [2006.01]"
+  },
+  {
+    "code": "H01J 49/24",
+    "description": "••••Sistemas de vacío, p. ej. manteniendo las presiones deseadas [2006.01]"
+  },
+  {
+    "code": "H01J 49/26",
+    "description": "••Espectrómetros de masa o tubos separadores de masa [2006.01]"
+  },
+  {
+    "code": "H01J 49/28",
+    "description": "••••Espectrómetros estáticos [2006.01]"
+  },
+  {
+    "code": "H01J 49/30",
+    "description": "••••••que utilizan analizadores magnéticos [2006.01]"
+  },
+  {
+    "code": "H01J 49/32",
+    "description": "••••••que utilizan un enfoque doble [2006.01]"
+  },
+  {
+    "code": "H01J 49/34",
+    "description": "••••Espectrómetros dinámicos [2006.01]"
+  },
+  {
+    "code": "H01J 49/36",
+    "description": "••••••Espectrómetros de radio-frecuencia, p. ej. espectrómetros del tipo Bennett; Espectrómetros tipo Redhead [2006.01]"
+  },
+  {
+    "code": "H01J 49/38",
+    "description": "••••••••Omegatrones [2006.01]"
+  },
+  {
+    "code": "H01J 49/40",
+    "description": "••••••Espectrómetros de tiempos de recorrido (H01J 49/36 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01J 49/42",
+    "description": "••••••Espectrómetros de estabilidad de trayectoria, p. ej. monopolos, cuadripolos, multipolos, farvitrones [2006.01]"
+  },
+  {
+    "code": "H01J 49/44",
+    "description": "••Espectrómetros de energía, p. ej. espectrómetros alfa, espectrómetros beta [2006.01]"
+  },
+  {
+    "code": "H01J 49/46",
+    "description": "••••Espectrómetros estáticos [2006.01]"
+  },
+  {
+    "code": "H01J 49/48",
+    "description": "••••••que utilizan analizadores electrostáticos, p. ej. sector cilíndrico, filtro de Wien [2006.01]"
+  },
+  {
+    "code": "H01J 61/00",
+    "description": "Lámparas de descarga de gas o vapor (lámparas de arco con electrodos consumibles H05B; lámparas electroluminiscentes H05B) [2006.01]"
+  },
+  {
+    "code": "H01J 61/02",
+    "description": "••Detalles [2006.01]"
+  },
+  {
+    "code": "H01J 61/04",
+    "description": "••••Electrodos (electrodos de encendido H01J 61/54); Pantallas; Blindajes [2006.01]"
+  },
+  {
+    "code": "H01J 61/06",
+    "description": "••••••Electrodos principales [2006.01]"
+  },
+  {
+    "code": "H01J 61/067",
+    "description": "••••••••para lámparas de descarga a baja presión [2006.01]"
+  },
+  {
+    "code": "H01J 61/073",
+    "description": "••••••••para lámparas de descarga a alta presión [2006.01]"
+  },
+  {
+    "code": "H01J 61/09",
+    "description": "••••••••Cátodos huecos [2006.01]"
+  },
+  {
+    "code": "H01J 61/10",
+    "description": "••••••Blindajes, pantallas o guías para influenciar la descarga [2006.01]"
+  },
+  {
+    "code": "H01J 61/12",
+    "description": "••••Selección de sustancias específicas para la atmósfera gaseosa; Especificación de la presión o de la temperatura de funcionamiento [2006.01]"
+  },
+  {
+    "code": "H01J 61/14",
+    "description": "••••••teniendo uno o más compuestos de carbono como principales constituyentes [2006.01]"
+  },
+  {
+    "code": "H01J 61/16",
+    "description": "••••••teniendo helio, argón, neón, kryptón, o xenón como el principal constituyente [2006.01]"
+  },
+  {
+    "code": "H01J 61/18",
+    "description": "••••••teniendo un vapor metálico como el principal constituyente [2006.01]"
+  },
+  {
+    "code": "H01J 61/20",
+    "description": "••••••••vapor de mercurio [2006.01]"
+  },
+  {
+    "code": "H01J 61/22",
+    "description": "••••••••vapor de un metal alcalino [2006.01]"
+  },
+  {
+    "code": "H01J 61/24",
+    "description": "••••Medios para obtener o mantener la presión deseada dentro del recipiente [2006.01]"
+  },
+  {
+    "code": "H01J 61/26",
+    "description": "••••••Medios para absorber o adsorber gas, p. ej. con un desgaseador; Medios para evitar el ennegrecimiento de la envoltura [2006.01]"
+  },
+  {
+    "code": "H01J 61/28",
+    "description": "••••••Medios para producir, introducir, o recargar gas o vapor en el recipiente durante el funcionamiento de la lámpara [2006.01]"
+  },
+  {
+    "code": "H01J 61/30",
+    "description": "••••Tubos o ampollas; Recipientes [2006.01]"
+  },
+  {
+    "code": "H01J 61/32",
+    "description": "••••••de forma longitudinal especial, p. ej. para fines publicitarios [2006.01]"
+  },
+  {
+    "code": "H01J 61/33",
+    "description": "••••••donde la sección transversal presenta una forma especial, p. ej. para producir una mancha fría [2006.01]"
+  },
+  {
+    "code": "H01J 61/34",
+    "description": "••••••Tubos o ampollas o recipientes de doble pared [2006.01]"
+  },
+  {
+    "code": "H01J 61/35",
+    "description": "••••••provistos de revestimientos sobre sus paredes; Selección de materiales para los revestimientos (utilizando revestimientos coloreados H01J 61/40; utilizando revestimientos luminiscentes H01J 61/42) [2006.01]"
+  },
+  {
+    "code": "H01J 61/36",
+    "description": "••••Juntas estancas entre partes del tubo o ampolla; Cierre hermético de conductores de entrada; Conductores de entrada [2006.01]"
+  },
+  {
+    "code": "H01J 61/38",
+    "description": "••••Dispositivos para modificar el color o la longitud de onda de la luz [2006.01]"
+  },
+  {
+    "code": "H01J 61/40",
+    "description": "••••••por filtros de luz; por revestimientos coloreados en o sobre la envoltura [2006.01]"
+  },
+  {
+    "code": "H01J 61/42",
+    "description": "••••••por la transformación por luminiscencia de la longitud de onda de la luz [2006.01]"
+  },
+  {
+    "code": "H01J 61/44",
+    "description": "••••••••Dispositivos caracterizados por el material luminiscente utilizado [2006.01]"
+  },
+  {
+    "code": "H01J 61/46",
+    "description": "••••••••Dispositivos caracterizados por el aglutinante u otros componentes no luminiscentes del material luminiscente, p. ej. para obtener las propiedades de derrame o secado deseadas [2006.01]"
+  },
+  {
+    "code": "H01J 61/48",
+    "description": "••••••••Revestimientos distintos de materiales luminosos diferentes [2006.01]"
+  },
+  {
+    "code": "H01J 61/50",
+    "description": "••••Elementos auxiliares o material sólido dentro de la envoltura para reducir el riesgo de explosión por fractura de la envoltura, p. ej. para uso en minas [2006.01]"
+  },
+  {
+    "code": "H01J 61/52",
+    "description": "••••Disposiciones de refrigeración; Disposiciones de calentamiento; Medios para hacer circular el gas o vapor dentro del espacio de descarga [2006.01]"
+  },
+  {
+    "code": "H01J 61/54",
+    "description": "••••Disposiciones de encendido, p. ej. destinados a provocar la ionización de arranque [2006.01]"
+  },
+  {
+    "code": "H01J 61/56",
+    "description": "••••uno o más elementos de circuitos estructuralmente asociados con la lámpara [2006.01]"
+  },
+  {
+    "code": "H01J 61/58",
+    "description": "••Lámparas con ánodo líquido y cátodo líquido [2006.01]"
+  },
+  {
+    "code": "H01J 61/60",
+    "description": "••Lámparas en las cuales el espacio de descarga es llenado sustancialmente con mercurio antes de la ignición [2006.01]"
+  },
+  {
+    "code": "H01J 61/62",
+    "description": "••Lámparas con cátodo gaseoso, p. ej. cátodo de plasma [2006.01]"
+  },
+  {
+    "code": "H01J 61/64",
+    "description": "••Lámparas de cátodo resplandeciente [2006.01]"
+  },
+  {
+    "code": "H01J 61/66",
+    "description": "••••que comprenden uno o varios cátodos de forma especial, p. ej. con fines publicitarios [2006.01]"
+  },
+  {
+    "code": "H01J 61/68",
+    "description": "••Lámparas donde la descarga principal acontece entre elementos de una guía atravesada por corriente, p. ej. lámpara de halo [2006.01]"
+  },
+  {
+    "code": "H01J 61/70",
+    "description": "••Lámparas con descarga no confinada a baja presión [2006.01]"
+  },
+  {
+    "code": "H01J 61/72",
+    "description": "••••con atmósfera principal emisora de la luz constituida por un vapor metálico fácilmente vaporizable, p. ej. mercurio [2006.01]"
+  },
+  {
+    "code": "H01J 61/74",
+    "description": "••••con atmósfera principal emisora de luz constituida por un vapor metálico difícilmente vaporizable, p. ej. sodio [2006.01]"
+  },
+  {
+    "code": "H01J 61/76",
+    "description": "••••con atmósfera de gas o gases permanentes solamente [2006.01]"
+  },
+  {
+    "code": "H01J 61/78",
+    "description": "••••••con cátodo frío; con cátodo calentado únicamente por la descarga, p. ej. lámparas de publicidad de alta tensión [2006.01]"
+  },
+  {
+    "code": "H01J 61/80",
+    "description": "••••Lámparas adecuadas únicamente para un funcionamiento intermitente, p. ej. lámpara de destellos [2006.01]"
+  },
+  {
+    "code": "H01J 61/82",
+    "description": "••Lámparas con descarga confinada a alta presión [2006.01]"
+  },
+  {
+    "code": "H01J 61/84",
+    "description": "••Lámparas con descarga constreñida por alta presión [2006.01]"
+  },
+  {
+    "code": "H01J 61/86",
+    "description": "••••con confinamiento adicional de la descarga por reducción del espacio interelectrodos, p. ej. para proyección óptica [2006.01]"
+  },
+  {
+    "code": "H01J 61/88",
+    "description": "••••con confinamiento adicional de la descarga por la envoltura [2006.01]"
+  },
+  {
+    "code": "H01J 61/90",
+    "description": "••••Lámparas adecuadas únicamente para funcionamiento intermitente, p. ej. lámpara de destellos [2006.01]"
+  },
+  {
+    "code": "H01J 61/92",
+    "description": "••Lámparas con más de una vía de descarga principal [2006.01]"
+  },
+  {
+    "code": "H01J 61/94",
+    "description": "••••Vías de descarga produciendo luz de diferentes longitudes de onda, p. ej. con el fin de simular la luz del día [2006.01]"
+  },
+  {
+    "code": "H01J 61/95",
+    "description": "••Lámparas con electrodo de control para variar la intensidad o longitud de onda de la luz, p. ej. para modular la luz [2006.01]"
+  },
+  {
+    "code": "H01J 61/96",
+    "description": "••Lámparas que tienen una vía de descarga emisora de luz y un cuerpo incandescente calentado separadamente en el interior de una envoltura común, p. ej. lámparas que simulan la luz del día [2006.01]"
+  },
+  {
+    "code": "H01J 61/98",
+    "description": "••Lámparas con espacios interelectrodos reducidos, calentados hasta la incandescencia por descarga con emisión de luz, p. ej. lámpara de arco de tungsteno [2006.01]"
+  },
+  {
+    "code": "H01J 63/00",
+    "description": "Lámparas de rayos catódicos o flujo electrónico [2006.01]"
+  },
+  {
+    "code": "H01J 63/02",
+    "description": "••Detalles, p. ej. electrodos, atmósfera gaseosa, forma del tubo o ampolla [2006.01]"
+  },
+  {
+    "code": "H01J 63/04",
+    "description": "••••Ampollas o tubos provistos de revestimientos luminiscentes; Selección de materiales específicos para los revestimientos [2006.01]"
+  },
+  {
+    "code": "H01J 63/06",
+    "description": "••Lámparas con pantalla luminiscente excitada por el rayo catódico o el flujo electrónico [2006.01]"
+  },
+  {
+    "code": "H01J 63/08",
+    "description": "••Lámparas con plasma gaseoso excitada con el rayo catódico o el flujo electrónico [2006.01]"
+  },
+  {
+    "code": "H01J 65/00",
+    "description": "Lámparas sin ningún electrodo en el interior del tubo o ampolla; Lámparas con al menos un electrodo principal en el exterior del tubo o ampolla [2006.01]"
+  },
+  {
+    "code": "H01J 65/04",
+    "description": "••Lámparas con atmósfera gaseosa llevada a la luminiscencia por un campo electromagnético exterior o por una radiación corpuscular exterior, p. ej. lámpara indicadora [2006.01]"
+  },
+  {
+    "code": "H01J 65/06",
+    "description": "••Lámpara con atmósfera gaseosa llevada a la luminiscencia por un material radiactivo asociado estructuralmente a la lámpara, p. ej. en el interior del tubo o ampolla [2006.01]"
+  },
+  {
+    "code": "H01J 65/08",
+    "description": "••Lámparas en las cuales una pantalla o un revestimiento es excitado a la luminiscencia por un material radiactivo dispuesto en el interior del tubo o ampolla [2006.01]"
+  }
+]

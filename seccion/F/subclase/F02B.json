@@ -1,0 +1,950 @@
+[
+  {
+    "code": "F02B 1/00",
+    "description": "Motores caracterizados por compresión de una mezcla aire-combustible (caracterizados por compresión simultánea de una mezcla de aire-combustible y compresión de aire, o caracterizados por con encendido provocado y encendido mediante compresión;a la vez F02B 11/00) [2006.01]"
+  },
+  {
+    "code": "F02B 1/02",
+    "description": "••con encendido provocado (con encendido provocado en un punto indeterminado de la carrera F02B 9/06) [2006.01]"
+  },
+  {
+    "code": "F02B 1/04",
+    "description": "••••con admisión en el cilindro de una mezcla aire-combustible [2006.01]"
+  },
+  {
+    "code": "F02B 1/06",
+    "description": "••••••Modos de funcionamiento [2006.01]"
+  },
+  {
+    "code": "F02B 1/08",
+    "description": "••••con admisión separada de aire y del combustible en el cilindro [2006.01]"
+  },
+  {
+    "code": "F02B 1/10",
+    "description": "••••••Modos de funcionamiento [2006.01]"
+  },
+  {
+    "code": "F02B 1/12",
+    "description": "••con encendido por compresión (con la carga aire-combustible inflamada mediante encendido por compresión de un combustible adicional F02B 7/00) [2006.01]"
+  },
+  {
+    "code": "F02B 1/14",
+    "description": "••••Modos de funcionamiento [2006.01]"
+  },
+  {
+    "code": "F02B 3/00",
+    "description": "Motores caracterizados porcompresión de aire yadición subsiguiente de combustible (caracterizados porompresión simultánea de una mezcla de aire-combustible ycompresión de aire, o caracterizados porencendido provocado yencendido mediante compresión a la vez F02B 11/00) [2006.01]"
+  },
+  {
+    "code": "F02B 3/02",
+    "description": "••con encendido provocado (con encendido provocado en un punto indeterminado de la carrera F02B 9/06) [2006.01]"
+  },
+  {
+    "code": "F02B 3/04",
+    "description": "••••Modos de funcionamiento [2006.01]"
+  },
+  {
+    "code": "F02B 3/06",
+    "description": "••con encendido por compresión (motores de encendido por compresión que utilizan aire o gas para inyectar combustible en aire comprimido en el cilindro F02B 13/02) [2006.01]"
+  },
+  {
+    "code": "F02B 3/08",
+    "description": "••••Modos de funcionamiento (F02B 3/12 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F02B 3/10",
+    "description": "••••con introducción intermitente de combustible [2006.01]"
+  },
+  {
+    "code": "F02B 3/12",
+    "description": "••••••Modos de funcionamiento [2006.01]"
+  },
+  {
+    "code": "F02B 5/00",
+    "description": "Motores caracterizados por encendido provocado (motores caracterizados por la compresión de la mezcla de combustible y aire con encendido provocado F02B 1/02; motores caracterizados por la compresión de aire y la posterior adición de combustible con encendido provocado F02B 3/02; con encendido provocado en un punto indeterminado de la carrera F02B 9/06; caracterizados tanto por la compresión de la mezcla de combustible y aire como por la compresión de aire, o caracterizados tanto por el encendido por chispa como por el encendido por compresión F02B 11/00) [2006.01]"
+  },
+  {
+    "code": "F02B 5/02",
+    "description": "••Modos de funcionamiento [2006.01]"
+  },
+  {
+    "code": "F02B 7/00",
+    "description": "Motorescaracterizados por lacarga aire-combustible inflamada mediante encendido por compresión de un combustible adicional (caracterizados porcompresión simultánea de una mezcla de aire-combustible ycompresión de aire, o caracterizados porencendido provocado yencendido mediante compresión a la vez F02B 11/00) [2006.01]"
+  },
+  {
+    "code": "F02B 7/02",
+    "description": "••estando el combustible líquido en la carga [2006.01]"
+  },
+  {
+    "code": "F02B 7/04",
+    "description": "••••Modos de funcionamiento [2006.01]"
+  },
+  {
+    "code": "F02B 7/06",
+    "description": "••estando el combustible gaseoso en la carga [2006.01]"
+  },
+  {
+    "code": "F02B 7/08",
+    "description": "••••Modos de funcionamiento [2006.01]"
+  },
+  {
+    "code": "F02B 9/00",
+    "description": "Motores caracterizados por otros tipos de ignición (caracterizados por bothcompresión simultánea de una mezcla de aire-combustible ycompresión de aire, o caracterizados porencendido provocado yencendido mediante compresión a la vez F02B 11/00) [2006.01]"
+  },
+  {
+    "code": "F02B 9/02",
+    "description": "••con encendido por compresión (motores caracterizados por la compresión de la mezcla de combustible y aire con encendido por compresión F02B 1/12; motores caracterizados por la compresión de aire y la posterior adición de combustible con encendido por compresión F02B 3/06) [2006.01]"
+  },
+  {
+    "code": "F02B 9/04",
+    "description": "••••Modos de funcionamiento [2006.01]"
+  },
+  {
+    "code": "F02B 9/06",
+    "description": "••con encendido provocado en un punto indeterminado de la carrera, p. ej. con puntos calientes [2006.01]"
+  },
+  {
+    "code": "F02B 9/08",
+    "description": "••••con cámaras incandescentes [2006.01]"
+  },
+  {
+    "code": "F02B 9/10",
+    "description": "••••••Forma o estructura de las cámaras [2006.01]"
+  },
+  {
+    "code": "F02B 11/00",
+    "description": "Motorescaracterizados porcompresión de la mezcla aire-combustible ycompresión de aire, ocaracterizados porencendido provocado yencendido mediante compresión, a la vez en el mismo motor, p. ej. en cilindros diferentes [2006.01]"
+  },
+  {
+    "code": "F02B 11/02",
+    "description": "••capaces de pasar de la compresión de la mezcla aire-combustible a la compresión del aire o viceversa [2006.01]"
+  },
+  {
+    "code": "F02B 13/00",
+    "description": "Motorescaracterizados por elprocedimiento de introducción del combustible en los cilindros [2006.01]"
+  },
+  {
+    "code": "F02B 13/02",
+    "description": "••Motores con encendido por compresión que utilizan aire o un gas para insuflar combustible en el aire comprimido en el cilindro [2006.01]"
+  },
+  {
+    "code": "F02B 13/04",
+    "description": "••••Disposiciones o adaptaciones de las bombas [2006.01]"
+  },
+  {
+    "code": "F02B 13/06",
+    "description": "••Motores con aire secundario mezclado con el combustible en la bomba, comprimido en la bomba sin encendido y siendo la mezcla aire-combustible inyectada en el aire del cilindro [2006.01]"
+  },
+  {
+    "code": "F02B 13/08",
+    "description": "••••Disposiciones o adaptaciones de las bombas [2006.01]"
+  },
+  {
+    "code": "F02B 13/10",
+    "description": "••Utilización de fluidos auxiliares particulares, p. ej. vapor de agua, gases de combustión [2006.01]"
+  },
+  {
+    "code": "F02B 15/00",
+    "description": "Motores caracterizados por el procedimiento de introducción del combustible en los cilindros, no previstos en otro lugar [2006.01]"
+  },
+  {
+    "code": "F02B 15/02",
+    "description": "••con medios para aspirar directamente el combustible dentro del cilindro [2006.01]"
+  },
+  {
+    "code": "F02B 19/00",
+    "description": "Motorescaracterizados porlas cámaras de precombustión [2006.01]"
+  },
+  {
+    "code": "F02B 19/02",
+    "description": "••quedando la cámara periódicamente aislada de su cilindro [2006.01]"
+  },
+  {
+    "code": "F02B 19/04",
+    "description": "••••siendo el aislamiento realizado mediante una protuberancia sobre el pistón o la cabeza del cilindro [2006.01]"
+  },
+  {
+    "code": "F02B 19/06",
+    "description": "••con un pistón auxiliar en la cámara para transferir la carga inflamada al interior del cilindro [2006.01]"
+  },
+  {
+    "code": "F02B 19/08",
+    "description": "••siendo la cámara del tipo de torbellino de aire [2006.01]"
+  },
+  {
+    "code": "F02B 19/10",
+    "description": "••con introducción parcial del combustible en la cámara de precombustión e introducción parcial en el cilindro [2006.01]"
+  },
+  {
+    "code": "F02B 19/12",
+    "description": "••con encendido provocado (motores con encendido provocado no temporizado y con cámaras incandescentes F02B 9/08) [2006.01]"
+  },
+  {
+    "code": "F02B 19/14",
+    "description": "••con encendido por compresión [2006.01]"
+  },
+  {
+    "code": "F02B 19/16",
+    "description": "••Forma o estructura de las cámaras no específicas de los grupos F02B 19/02-F02B 19/10 [2006.01]"
+  },
+  {
+    "code": "F02B 19/18",
+    "description": "••••Pasajes para la transferencia entre cámara y cilindro [2006.01]"
+  },
+  {
+    "code": "F02B 21/00",
+    "description": "Motores caracterizados porcámaras de acumulación de aire [2006.01]"
+  },
+  {
+    "code": "F02B 21/02",
+    "description": "••Forma o estructura de las cámaras [2006.01]"
+  },
+  {
+    "code": "F02B 23/00",
+    "description": "Otros motorescaracterizados porla forma o estructura especial de la cámara de combustión para mejorar su funcionamiento (motores con cámaras incandescentes F02B 9/08) [2006.01]"
+  },
+  {
+    "code": "F02B 23/02",
+    "description": "••con encendido por compresión [2006.01]"
+  },
+  {
+    "code": "F02B 23/04",
+    "description": "••••estando el espacio de combustión subdividido en dos o más cámaras (con cámaras de precombustión F02B 19/00) [2006.01]"
+  },
+  {
+    "code": "F02B 23/06",
+    "description": "••••estando el espacio de combustión colocado en el pistón (F02B 23/04 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F02B 23/08",
+    "description": "••con encendido provocado [2006.01]"
+  },
+  {
+    "code": "F02B 23/10",
+    "description": "••••con admisión separada de aire y de combustible en el cilindro [2006.01]"
+  },
+  {
+    "code": "F02B 25/00",
+    "description": "Motores caracterizados por utilizar una carga recién preparada para barrer los cilindros [2006.01]"
+  },
+  {
+    "code": "F02B 25/02",
+    "description": "••utilizando un barrido unidireccional [2006.01]"
+  },
+  {
+    "code": "F02B 25/04",
+    "description": "••••Motores que tienen simultáneamente lumbreras tanto en la cabeza del cilindro como en la pared del cilindro cerca del punto muerto inferior de la carrera del pistón [2006.01]"
+  },
+  {
+    "code": "F02B 25/06",
+    "description": "••••••estando las lumbreras de la cabeza del cilindro controladas por los pistones, p. ej. mediante prolongaciones de estos últimos en forma de manguito [2006.01]"
+  },
+  {
+    "code": "F02B 25/08",
+    "description": "••••Motores alternativos con pistones de trabajo con movimiento opuesto [2006.01]"
+  },
+  {
+    "code": "F02B 25/10",
+    "description": "••••••teniendo un pistón un diámetro más pequeño o una carrera más corta que el otro [2006.01]"
+  },
+  {
+    "code": "F02B 25/12",
+    "description": "••••Motores con cilindros en forma de \"U\", que tienen lumbreras en cada brazo [2006.01]"
+  },
+  {
+    "code": "F02B 25/14",
+    "description": "••utilizando el barrido con flujo inverso, p. ej. con las lumbreras de admisión y de escape dispuestas cerca del punto muerto inferior de la carrera del pistón [2006.01]"
+  },
+  {
+    "code": "F02B 25/16",
+    "description": "••••fluyendo la carga hacia arriba, prácticamente a lo largo de la pared del cilindro opuesta a las lumbreras de admisión [2006.01]"
+  },
+  {
+    "code": "F02B 25/18",
+    "description": "••••fluyendo la carga hacia arriba, prácticamente a lo largo de la pared del cilindro adyacente a las lumbreras de admisión, p. ej. un nervio de desviación en el pistón [2006.01]"
+  },
+  {
+    "code": "F02B 25/20",
+    "description": "••Medios para reducir la mezcla de la carga y los residuos de la combustión o para impedir la fuga de la carga reciente a través de las lumbreras de escape, no cubiertos por, o con un interés distinto que, los subgrupos F02B 25/02-F02B 25/18 [2006.01]"
+  },
+  {
+    "code": "F02B 25/22",
+    "description": "••••por formación de un cojín de aire entre la carga y los residuos de combustión [2006.01]"
+  },
+  {
+    "code": "F02B 25/24",
+    "description": "••••Apertura de la admisión o del escape regulada de una manera asimétrica con relación al punto muerto inferior [2006.01]"
+  },
+  {
+    "code": "F02B 25/26",
+    "description": "••Motores multi-cilíndricos distintos, o de interés aparte, de los previstos en los grupos F02B 25/02-F02B 25/24 (aspectos de la combustión interna de los motores rotativos F02B 57/00) [2006.01]"
+  },
+  {
+    "code": "F02B 25/28",
+    "description": "••••con disposición de los cilindros en V, en abanico o estrella [2006.01]"
+  },
+  {
+    "code": "F02B 27/00",
+    "description": "Utilización de la energía cinética u ondulatoria de la carga en los sistemas de admisión, o la de los residuos de combustión en los sistemas de escape, para mejorar la cantidad de carga o para aumentar la evacuación de residuos de la combustión [2006.01]"
+  },
+  {
+    "code": "F02B 27/02",
+    "description": "••teniendo los sistemas secciones transversales variables, es decir, regulables, cámaras de volumen variable o medios variables similares (en los sistemas de escape solamente F02B 27/06) [2006.01]"
+  },
+  {
+    "code": "F02B 27/04",
+    "description": "••en los sistemas de escape solamente, p. ej. para aspirar los gases quemados fuera del cilindro [2006.01]"
+  },
+  {
+    "code": "F02B 27/06",
+    "description": "••••teniendo los sistemas secciones transversales variables, p. ej. regulables, cámaras de volumen variable o medios variables similares [2006.01]"
+  },
+  {
+    "code": "F02B 29/00",
+    "description": "Motores caracterizados porestar provistos de otros dispositivos de alimentación o de barrido F02B 25/00, F02B 27/00o F02B 33/00-F02B 39/00; Detalles por sí mismo [2006.01]"
+  },
+  {
+    "code": "F02B 29/02",
+    "description": "••Otras características de la dinámica de los fluidos propias de los sistemas de admisión para mejorar la cantidad de carga (para imprimir además una rotación a la carga en el cilindro F02B 31/00) [2006.01]"
+  },
+  {
+    "code": "F02B 29/04",
+    "description": "••Refrigeración del aire de admisión [2006.01]"
+  },
+  {
+    "code": "F02B 29/06",
+    "description": "••Prolongación de la carga, es decir, alimentación suplementaria después del barrido [2006.01]"
+  },
+  {
+    "code": "F02B 29/08",
+    "description": "••Modificación del reglaje de las válvulas con objeto de introducir la carga (F02B 29/06 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F02B 31/02",
+    "description": "••teniendo en los motores válvulas de admisión dispuestas de una manera excéntrica con relación al eje de los cilindros (F02B 31/08 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F02B 31/04",
+    "description": "••por medios situados dentro del conducto de admisión, p. ej. deflectores [2006.01]"
+  },
+  {
+    "code": "F02B 31/06",
+    "description": "••••Medios móviles, p. ej. válvulas de mariposa [2006.01]"
+  },
+  {
+    "code": "F02B 31/08",
+    "description": "••teniendo múltiples entradas de aire [2006.01]"
+  },
+  {
+    "code": "F02B 33/00",
+    "description": "Motorescaracterizados por estar provistos debombas de alimentación o de barrido [2006.01]"
+  },
+  {
+    "code": "F02B 33/02",
+    "description": "••Motores con bombas de pistón alternativo; Motores con bombas de cárter [2006.01]"
+  },
+  {
+    "code": "F02B 33/04",
+    "description": "••••con bombas simples de cárter, es decir, con la cara de atrás de un pistón motor no escalonado actuando como único órgano de bombeo que funciona en cooperación con el cárter [2006.01]"
+  },
+  {
+    "code": "F02B 33/06",
+    "description": "••••con bombas de pistón alternativo distintas de bombas de cárter simples [2006.01]"
+  },
+  {
+    "code": "F02B 33/08",
+    "description": "••••••con la cabeza del cilindro motor situado entre el cilindro motor y el cilindro de bombeo [2006.01]"
+  },
+  {
+    "code": "F02B 33/10",
+    "description": "••••••con el cilindro de bombeo situado entre el cilindro motor y el cárter o con el cilindro de bombeo rodeando el cilindro motor [2006.01]"
+  },
+  {
+    "code": "F02B 33/12",
+    "description": "••••••••funcionando la cara posterior del pistón motor como órgano de bombeo en cooperación con una cámara de bombeo aislada del cárter, pasando la biela del pistón a través de la cámara de bombeo y trabajando en cooperación con un órgano móvil de aislamiento [2006.01]"
+  },
+  {
+    "code": "F02B 33/14",
+    "description": "••••••••los pistones motores y de bombeo constituyen un pistón escalonado [2006.01]"
+  },
+  {
+    "code": "F02B 33/16",
+    "description": "••••••••teniendo los pistones motores y de bombeo movimientos diferentes [2006.01]"
+  },
+  {
+    "code": "F02B 33/18",
+    "description": "••••••con el cigüeñal situado entre los cilindros motores y de bombeo [2006.01]"
+  },
+  {
+    "code": "F02B 33/20",
+    "description": "••••••con el cilindro de bombeo situado según un cierto ángulo con relación al eje del cilindro al eje del cilindro motor, p. ej. a 90° [2006.01]"
+  },
+  {
+    "code": "F02B 33/22",
+    "description": "••••••con el cilindro de bombeo situado a un lado del cilindro motor, p. ej. siendo los cilindros paralelos [2006.01]"
+  },
+  {
+    "code": "F02B 33/24",
+    "description": "••••con bombas de cárter diferentes de las del tipo de pistón alternativo [2006.01]"
+  },
+  {
+    "code": "F02B 33/26",
+    "description": "••••Motores de cuatro tiempos caracterizados por tener bombas de cárter [2006.01]"
+  },
+  {
+    "code": "F02B 33/28",
+    "description": "••••Partes constitutivas, detalles o accesorios de las bombas de cárter, no cubiertos por, o con un interés distinto que, los grupos F02B 33/02-F02B 33/26 [2006.01]"
+  },
+  {
+    "code": "F02B 33/30",
+    "description": "••••••Control de los orificios de admisión o de escape [2006.01]"
+  },
+  {
+    "code": "F02B 33/32",
+    "description": "••Motores con bombas diferentes de las del tipo de pistón alternativo (con bombas de cárter F02B 33/02) [2006.01]"
+  },
+  {
+    "code": "F02B 33/34",
+    "description": "••••con bombas rotativas (con cambiadores de presión del tipo celular o análogo F02B 33/42) [2006.01]"
+  },
+  {
+    "code": "F02B 33/36",
+    "description": "••••••del tipo de desplazamiento positivo [2006.01]"
+  },
+  {
+    "code": "F02B 33/38",
+    "description": "••••••••del tipo Roots [2006.01]"
+  },
+  {
+    "code": "F02B 33/40",
+    "description": "••••••del tipo de desplazamiento no positivo [2006.01]"
+  },
+  {
+    "code": "F02B 33/42",
+    "description": "••••con aparatos accionados por la transformación inmediata de la presión del gas de combustión en presión de la nueva carga, p. ej. con cambiadores de presión del tipo celular [2006.01]"
+  },
+  {
+    "code": "F02B 33/44",
+    "description": "••Pasajes para la conducción de la carga desde bomba hasta la lumbrera de admisión del motor, p. ej. depósitos [2006.01]"
+  },
+  {
+    "code": "F02B 35/00",
+    "description": "Motores caracterizados por estar provistos de bombas para extraer los residuos de la combustión fuera de los cilindros [2006.01]"
+  },
+  {
+    "code": "F02B 35/02",
+    "description": "••utilizando bombas rotativas [2006.01]"
+  },
+  {
+    "code": "F02B 37/00",
+    "description": "Motores caracterizados por estar provistos debombas accionadas al menos una parte del tiempo por gases de escape [2006.01]"
+  },
+  {
+    "code": "F02B 37/007",
+    "description": "••con las bombas accionadas por gases de escape dispuestas en paralelo [2006.01]"
+  },
+  {
+    "code": "F02B 37/013",
+    "description": "••con las bombas accionadas por gases de escape dispuestas en serie [2006.01]"
+  },
+  {
+    "code": "F02B 37/02",
+    "description": "••Pasajes para los gases entre el orificio de escape del motor y el accionamiento de la bomba, p. ej. depósitos [2006.01]"
+  },
+  {
+    "code": "F02B 37/04",
+    "description": "••Motores con accionamiento de las bombas por los gases de escape y por otros medios, p. ej. con una bomba accionada por los gases de escape y una segunda bomba accionada mecánicamente [2006.01]"
+  },
+  {
+    "code": "F02B 37/10",
+    "description": "••••siendo al menos una bomba accionada alternativamente por los gases de escape y por otro accionamiento [2006.01]"
+  },
+  {
+    "code": "F02B 37/11",
+    "description": "••••••accionadas por algún otro medio pero únicamente al comienzo [2006.01]"
+  },
+  {
+    "code": "F02B 37/12",
+    "description": "••Control de las bombas [2006.01]"
+  },
+  {
+    "code": "F02B 37/14",
+    "description": "••••de la alternancia entre el accionamiento por gases de escape y por el otro accionamiento, p. ej. en función de la velocidad [2006.01]"
+  },
+  {
+    "code": "F02B 37/16",
+    "description": "••••por derivación del aire de sobrealimentación [2006.01]"
+  },
+  {
+    "code": "F02B 37/18",
+    "description": "••••por derivación de los gases de escape [2006.01]"
+  },
+  {
+    "code": "F02B 37/20",
+    "description": "••••por aumento de la energía de escape, p. ej. utilizando cámaras de combustión [2006.01]"
+  },
+  {
+    "code": "F02B 37/22",
+    "description": "••••modificando la sección de los conductos de escape o de los conductos de aire (F02B 37/24 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F02B 37/24",
+    "description": "••••utilizando las bombas o turbinas con porta-álabes ajustables [2006.01]"
+  },
+  {
+    "code": "F02B 39/00",
+    "description": "Partes constitutivas, detalles o accesorios relativos a bombas de accionamiento de la alimentación o del barrido ,no cubiertos por los grupos F02B 33/00-F02B 37/00 [2006.01]"
+  },
+  {
+    "code": "F02B 39/02",
+    "description": "••Accionamientos de las bombas (accionamientos por los gases de escape o por estos gases y otros medios combinados F02B 37/00); Variación de la relación de transmisión del accionamiento de la bomba [2006.01]"
+  },
+  {
+    "code": "F02B 39/04",
+    "description": "••••Accionamientos mecánicos; Accionamientos con relación de transmisión variable (accionamientos no mecánicos de bombas con relación de transmisión variable F02B 39/08) [2006.01]"
+  },
+  {
+    "code": "F02B 39/06",
+    "description": "••••••estando el par motor repartido por una transmisión diferencial para el accionamiento de una bomba y del eje de salida del motor [2006.01]"
+  },
+  {
+    "code": "F02B 39/08",
+    "description": "••••Accionamientos no mecánicos, p. ej. transmisiones hidráulicas que tienen una relación de transmisión variable [2006.01]"
+  },
+  {
+    "code": "F02B 39/10",
+    "description": "••••••eléctricos [2006.01]"
+  },
+  {
+    "code": "F02B 39/12",
+    "description": "••••Accionamientos caracterizados por la utilización de acoplamientos o de embragues incorporados (utilización de acoplamientos hidráulicos con deslizamiento para hacer variar la relación de transmisión F02B 39/08) [2006.01]"
+  },
+  {
+    "code": "F02B 39/14",
+    "description": "••Lubrificación de las bombas; Medidas de seguridad con esta finalidad [2006.01]"
+  },
+  {
+    "code": "F02B 39/16",
+    "description": "••Otras medidas de seguridad para las bombas, u otros controles para las mismas [2006.01]"
+  },
+  {
+    "code": "F02B 41/02",
+    "description": "••Motores con expansión prolongada [2006.01]"
+  },
+  {
+    "code": "F02B 41/04",
+    "description": "••••en cilindros principales [2006.01]"
+  },
+  {
+    "code": "F02B 41/06",
+    "description": "••••en cilindros compound [2006.01]"
+  },
+  {
+    "code": "F02B 41/08",
+    "description": "••••••Motores \"compounds\" de dos tiempos [2006.01]"
+  },
+  {
+    "code": "F02B 41/10",
+    "description": "••••utilizando turbinas de escape (utilización de turbinas de escape para la admisión F02B 37/00) [2006.01]"
+  },
+  {
+    "code": "F02B 43/00",
+    "description": "Motores caracterizados porque funcionan con combustibles gaseosos; Plantas motrices que incluyen tales motores (motores caracterizados por tener una carga de aire y de gas inflamada por encendido por compresión de un combustible adicional F02B 7/06; motores transformables capaces de consumir un gas y pasar a consumir un combustible diferente F02B 69/04) [2006.01]"
+  },
+  {
+    "code": "F02B 43/02",
+    "description": "••Motores caracterizados por medios que permiten aumentar el rendimiento de funcionamiento [2006.01]"
+  },
+  {
+    "code": "F02B 43/04",
+    "description": "••••por mejora del rendimiento de la combustión [2006.01]"
+  },
+  {
+    "code": "F02B 43/06",
+    "description": "••••por aumento de la carga [2006.01]"
+  },
+  {
+    "code": "F02B 43/08",
+    "description": "••Plantas motrices caracterizadas por motores que utilizan un combustible gaseoso producido en la planta a partir de un combustible sólido, p. ej. de madera [2006.01]"
+  },
+  {
+    "code": "F02B 43/10",
+    "description": "••Motores o plantas motrices caracterizados por la utilización de otros gases específicos, p. ej. acetileno, gas oxhídrico [2006.01]"
+  },
+  {
+    "code": "F02B 43/12",
+    "description": "••••Modo de funcionamiento [2006.01]"
+  },
+  {
+    "code": "F02B 45/00",
+    "description": "Motores caracterizados porque funcionan con otros combustibles no líquidos mejor que gas; Plantas motrices que incluyen tales motores (plantas que implican la generación de un combustible gaseoso a partir de un combustible sólido F02B 43/08; motores que funcionan con combustible gaseoso y no gaseoso F02B 69/04) [2006.01]"
+  },
+  {
+    "code": "F02B 45/02",
+    "description": "••funcionando con un combustible pulverizado, p. ej. carbón pulverizado (funcionando con un combustible que contiene un oxidante F02B 45/06) [2006.01]"
+  },
+  {
+    "code": "F02B 45/04",
+    "description": "••••Plantas motrices, p. ej. implicando un aparato de pulverización de carbón [2006.01]"
+  },
+  {
+    "code": "F02B 45/06",
+    "description": "••funcionando con un combustible que contienen un oxidante [2006.01]"
+  },
+  {
+    "code": "F02B 45/08",
+    "description": "••funcionando con otros combustibles sólidos [2006.01]"
+  },
+  {
+    "code": "F02B 45/10",
+    "description": "••funcionando con una mezcla de combustibles líquidos y no líquidos, p. ej. en estado de pasta o de espuma [2006.01]"
+  },
+  {
+    "code": "F02B 47/00",
+    "description": "Modo de funcionamiento de los motores que implican una adición de sustancias no combustibles o de agentes antidetonantes al aire comburente, al combustible o a la mezcla de aire y combustible [2006.01]"
+  },
+  {
+    "code": "F02B 47/02",
+    "description": "••siendo las sustancias agua o vapor de agua [2006.01]"
+  },
+  {
+    "code": "F02B 47/04",
+    "description": "••siendo las sustancias diferentes del agua o del vapor de agua [2006.01]"
+  },
+  {
+    "code": "F02B 47/06",
+    "description": "••••comprendiendo las sustancias oxígeno que no proviene del aire (F02B 47/10 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F02B 47/08",
+    "description": "••••comprendiendo las sustancias los gases de escape [2006.01]"
+  },
+  {
+    "code": "F02B 47/10",
+    "description": "••••••Circulación de los gases de escape en circuitos cerrados o semicerrados, p. ej. con adición simultánea de oxígeno [2006.01]"
+  },
+  {
+    "code": "F02B 49/00",
+    "description": "Modo de funcionamiento de los motores con compresión de aire y encendido por compresión implicando una introducción de pequeñas cantidades de combustibles bajo la forma de una fina niebla en la admisión de aire del motor [2006.01]"
+  },
+  {
+    "code": "F02B 51/00",
+    "description": "Otros modos de funcionamiento de los motores que implican un tratamiento preliminar del aire comburente, del combustible o de la mezcla de aire y combustible o que implican una adición de sustancias a este aire, a este combustible o a esta mezcla [2006.01]"
+  },
+  {
+    "code": "F02B 51/02",
+    "description": "••implicando catalizadores [2006.01]"
+  },
+  {
+    "code": "F02B 51/04",
+    "description": "••implicando electricidad o magnetismo [2006.01]"
+  },
+  {
+    "code": "F02B 51/06",
+    "description": "••implicando rayos u ondas sonoras [2006.01]"
+  },
+  {
+    "code": "F02B 53/00",
+    "description": "Aspectos de la combustión interna de los motores con pistones rotativos u oscilantes (aspectos de la combustión interna de los motores con pistones rotativos y órganos exteriores cooperantes con ellos F02B 55/00) [2006.01]"
+  },
+  {
+    "code": "F02B 53/02",
+    "description": "••Modos de funcionamiento [2006.01]"
+  },
+  {
+    "code": "F02B 53/04",
+    "description": "••Admisión de la carga o descarga de los gases de la combustión [2006.01]"
+  },
+  {
+    "code": "F02B 53/06",
+    "description": "••••Control de las válvulas con esta finalidad [2006.01]"
+  },
+  {
+    "code": "F02B 53/08",
+    "description": "••••Alimentación, p. ej. por medio de una bomba de pistón rotativo [2006.01]"
+  },
+  {
+    "code": "F02B 53/10",
+    "description": "••Alimentación de combustible; Introducción del combustible en la cámara de combustión [2006.01]"
+  },
+  {
+    "code": "F02B 53/12",
+    "description": "••Encendido [2006.01]"
+  },
+  {
+    "code": "F02B 53/14",
+    "description": "••Adaptación de los motores para el accionamiento de otros dispositivos o combinaciones de los motores con ellos [2006.01]"
+  },
+  {
+    "code": "F02B 55/00",
+    "description": "Aspectos de la combustión interna de los motores con pistones rotativos; Organos exteriores que cooperan con los pistones rotativos [2006.01]"
+  },
+  {
+    "code": "F02B 55/02",
+    "description": "••Pistones [2006.01]"
+  },
+  {
+    "code": "F02B 55/04",
+    "description": "••••Su refrigeración [2006.01]"
+  },
+  {
+    "code": "F02B 55/06",
+    "description": "••••••por aire o por otros gases [2006.01]"
+  },
+  {
+    "code": "F02B 55/08",
+    "description": "••Organos exteriores que cooperan con los pistones rotativos; Carcasas [2006.01]"
+  },
+  {
+    "code": "F02B 55/10",
+    "description": "••••Refrigeración de estos órganos y carcasas [2006.01]"
+  },
+  {
+    "code": "F02B 55/12",
+    "description": "••••••por aire o por otros gases [2006.01]"
+  },
+  {
+    "code": "F02B 55/14",
+    "description": "••Forma o estructura de las cámaras de combustión [2006.01]"
+  },
+  {
+    "code": "F02B 55/16",
+    "description": "••Pasajes para la admisión o el escape en los pistones o en los órganos exteriores [2006.01]"
+  },
+  {
+    "code": "F02B 57/00",
+    "description": "Aspectos de la combustión interna de los motores rotativos en los cuales los gases de combustión desplazan uno o varios pistones alternativos [2006.01]"
+  },
+  {
+    "code": "F02B 57/02",
+    "description": "••Alimentación de combustión o de aire comburente (control de la admisión de la carga en el cilindro o del escape F02B 57/04) [2006.01]"
+  },
+  {
+    "code": "F02B 57/04",
+    "description": "••Control de la admisión de la carga en el cilindro o del escape (específico de los motores de dos tiempos o de otros motores con admisión de la carga de alimentación o escape controladas por el pistón motor F02B 57/06) [2006.01]"
+  },
+  {
+    "code": "F02B 57/06",
+    "description": "••Motores de dos tiempos u otros motores con admisión de la carga o escape controlados por el pistón motor (con cámara de combustión en el centro de la estrella F02B 57/10) [2006.01]"
+  },
+  {
+    "code": "F02B 57/08",
+    "description": "••Motores con disposición de los cilindros en estrella [2006.01]"
+  },
+  {
+    "code": "F02B 57/10",
+    "description": "••••con cámara de combustión en el centro de la estrella [2006.01]"
+  },
+  {
+    "code": "F02B 59/00",
+    "description": "Aspectos de la combustión interna de otros motores con pistones alternativos con cilindros móviles, p. ej. oscilantes (con paredes deformables F02B 75/38) [2006.01]"
+  },
+  {
+    "code": "F02B 61/00",
+    "description": "Adaptaciones de los motores para accionar vehículos o hélices; Asociación de los motores con una transmisión mecánica (estando el par motor dividido mediante un mecanismo diferencial para accionar una bomba de barrido o de alimentación y el eje de salida del motor F02B 39/06; adaptación o combinaciones de motores de pistones rotativos y oscilantes F02B 53/14) [2006.01]"
+  },
+  {
+    "code": "F02B 61/02",
+    "description": "••para accionar motocicletas [2006.01]"
+  },
+  {
+    "code": "F02B 61/04",
+    "description": "••para accionar hélices [2006.01]"
+  },
+  {
+    "code": "F02B 61/06",
+    "description": "••Asociación de motores con una transmisión mecánica (F02B 61/02, F02B 61/04 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "F02B 63/00",
+    "description": "Adaptaciones de los motores para accionar bombas, herramientas manuales ogeneradores eléctricos; Combinaciones portátiles de motores con dispositivos accionados a motor (de motores con pistones rotativos y oscilantes F02B 53/14) [2006.01]"
+  },
+  {
+    "code": "F02B 63/02",
+    "description": "••para herramientas manuales [2006.01]"
+  },
+  {
+    "code": "F02B 63/04",
+    "description": "••para generadores eléctricos [2006.01]"
+  },
+  {
+    "code": "F02B 63/06",
+    "description": "••para bombas [2006.01]"
+  },
+  {
+    "code": "F02B 65/00",
+    "description": "Adaptaciones de los motores parausos especiales no previstos en los grupos F02B 61/00o F02B 63/00; Combinación de motores con otros dispositivos, p. ej. con aparatos no accionados (de motores con pistones rotativos u oscilantes F02B 53/14; combinaciones de motores principales que consisten en motores eléctricos y de combustión interna para una propulsión recíproca o común B60K 6/20) [2006.01]"
+  },
+  {
+    "code": "F02B 67/00",
+    "description": "Motores caracterizados por la adaptación de aparatos auxiliares no prevista en otro lugar, p. ej. los aparatos tienen funciones diferentes; Accionamiento de los aparatos auxiliares mediante los motores, no previstos en otro lugar [2006.01]"
+  },
+  {
+    "code": "F02B 67/04",
+    "description": "••con accionamiento mecánico de los aparatos auxiliares [2006.01]"
+  },
+  {
+    "code": "F02B 67/06",
+    "description": "••••accionado por cadenas, correas u otros órganos sin fin [2006.01]"
+  },
+  {
+    "code": "F02B 67/08",
+    "description": "••con accionamiento no mecánico de los aparatos auxiliares [2006.01]"
+  },
+  {
+    "code": "F02B 67/10",
+    "description": "••de aparatos de alimentación o de barrido [2006.01]"
+  },
+  {
+    "code": "F02B 69/00",
+    "description": "Motores de combustión interna transformables en otro tipo de motor de combustión, no previstos en F02B 11/00; Motores de combustión interna de diferentes tipos caracterizados por estructuras que facilitan la utilización de las mismas piezas principales en los diferentes tipos [2006.01]"
+  },
+  {
+    "code": "F02B 69/02",
+    "description": "••para diferentes tipos de combustibles, diferentes de aquellos motores que pueden consumir un combustible cualquiera, p. ej. transformables para cambiar de un combustible ligero a uno pesado [2006.01]"
+  },
+  {
+    "code": "F02B 69/04",
+    "description": "••••funcionando con combustibles gaseosos y no gaseosos [2006.01]"
+  },
+  {
+    "code": "F02B 69/06",
+    "description": "••teniendo ciclos diferentes, p. ej. transformables de un ciclo de dos tiempos a uno de cuatro tiempos [2006.01]"
+  },
+  {
+    "code": "F02B 71/00",
+    "description": "Motores de pistón libre; Motores sin eje principal rotativo [2006.01]"
+  },
+  {
+    "code": "F02B 71/02",
+    "description": "••Arranque [2006.01]"
+  },
+  {
+    "code": "F02B 71/04",
+    "description": "••Adaptaciones de tales motores para usos especiales; Combinaciones de tales motores con los aparatos accionados por ellos [2006.01]"
+  },
+  {
+    "code": "F02B 71/06",
+    "description": "••••Generadores de gas de combustión de pistón libre en sí [2006.01]"
+  },
+  {
+    "code": "F02B 73/00",
+    "description": "Combinaciones de dos o más motores no previstos en otro lugar [2006.01]"
+  },
+  {
+    "code": "F02B 75/00",
+    "description": "Otros motores, p. ej. motores de un solo cilindro [2006.01]"
+  },
+  {
+    "code": "F02B 75/02",
+    "description": "••Motores caracterizados por sus ciclos, p. ej. de seis tiempos [2006.01]"
+  },
+  {
+    "code": "F02B 75/04",
+    "description": "••Motores con distancias variables entre los pistones y las cabezas de los cilindros a las posiciones del punto muerto superior [2006.01]"
+  },
+  {
+    "code": "F02B 75/06",
+    "description": "••Motores con dispositivos para el equilibrado del par [2006.01]"
+  },
+  {
+    "code": "F02B 75/08",
+    "description": "••Motores con medios de prevención de la corrosión en los espacios barridos por los gases [2006.01]"
+  },
+  {
+    "code": "F02B 75/10",
+    "description": "••Motores con medios para convertir en inofensivos los gases de escape (aparatos en sí F01N 3/00) [2006.01]"
+  },
+  {
+    "code": "F02B 75/12",
+    "description": "••Otros medios de funcionamiento [2006.01]"
+  },
+  {
+    "code": "F02B 75/16",
+    "description": "••Motores caracterizados por el número de cilindros, p. ej. motores monocilíndricos (F02B 75/26 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F02B 75/18",
+    "description": "••••Motores policilíndricos (aspectos relativos al barrido F02B 25/00) [2006.01]"
+  },
+  {
+    "code": "F02B 75/20",
+    "description": "••••••con los cilindros en línea [2006.01]"
+  },
+  {
+    "code": "F02B 75/22",
+    "description": "••••••con los cilindros dispuestos en V, en abanico o en estrella [2006.01]"
+  },
+  {
+    "code": "F02B 75/24",
+    "description": "••••••con los cilindros opuestos con relación al árbol principal y del tipo \"plano\" [2006.01]"
+  },
+  {
+    "code": "F02B 75/26",
+    "description": "••Motores con ejes de los cilindros coaxiales con el del árbol principal, paralelos o inclinados con relación a él; Motores con ejes de los cilindros dispuestos según la tangente a una circunferencia cuyo centro está situado sobre el eje del árbol principal [2006.01]"
+  },
+  {
+    "code": "F02B 75/28",
+    "description": "••Motores con varios pistones alternativos que se desplazan en el mismo cilindro o en cilindros sensiblemente coaxiales (opuestos con relación al árbol principal F02B 75/24) [2006.01]"
+  },
+  {
+    "code": "F02B 75/30",
+    "description": "••••con un pistón motor deslizándose en el interior de otro [2006.01]"
+  },
+  {
+    "code": "F02B 75/32",
+    "description": "••Motores caracterizados por las conexiones entre pistones y árboles principales no específicos de los grupos precedentes [2006.01]"
+  },
+  {
+    "code": "F02B 75/34",
+    "description": "••Motores ultrapequeños, p. ej. para accionar maquetas [2006.01]"
+  },
+  {
+    "code": "F02B 75/36",
+    "description": "••Motores con partes de las paredes de las cámaras de combustión o de trabajo, que se deforman bajo presión [2006.01]"
+  },
+  {
+    "code": "F02B 75/38",
+    "description": "••••Motores con pistones alternativos (F02B 75/04 tiene prioridad; con pistón auxiliar con un desplazamiento elástico en la cámara de precombustión F02B 19/06) [2006.01]"
+  },
+  {
+    "code": "F02B 75/40",
+    "description": "••Otros motores con pistones alternativos [2006.01]"
+  },
+  {
+    "code": "F02B 77/00",
+    "description": "Partes constitutivas, detalles o accesorios no previstos en otro lugar [2006.01]"
+  },
+  {
+    "code": "F02B 77/02",
+    "description": "••Revestimientos de las superficies de las partes barridas por los gases de combustión (relativos a los pistones F02F 3/10; de cilindros y cabezas de cilindros F02F 1/00) [2006.01]"
+  },
+  {
+    "code": "F02B 77/04",
+    "description": "••Limpieza, prevención de la corrosión, de la erosión o de los depósitos indeseables en los motores de combustión [2006.01]"
+  },
+  {
+    "code": "F02B 77/08",
+    "description": "••Dispositivos de seguridad, de indicación o de vigilancia (aislamiento térmico F02B 77/11; dispositivos de control o diagnóstico para los aparatos de tratamiento de gases de escape F01N 11/00) [2006.01]"
+  },
+  {
+    "code": "F02B 77/10",
+    "description": "••••Dispositivos de seguridad relativos a las explosiones en el cárter [2006.01]"
+  },
+  {
+    "code": "F02B 77/11",
+    "description": "••Aislamiento térmico o acústico [2006.01]"
+  },
+  {
+    "code": "F02B 77/13",
+    "description": "••••Aislamiento acústico [2006.01]"
+  },
+  {
+    "code": "F02B 77/14",
+    "description": "••Dispositivos auxiliares accionados por el motor formando un conjunto [2006.01]"
+  },
+  {
+    "code": "F02B 79/00",
+    "description": "Rodaje de los motores de combustión interna (su lubricación F01M 7/00) [2006.01]"
+  }
+]

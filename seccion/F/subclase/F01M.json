@@ -1,0 +1,166 @@
+[
+  {
+    "code": "F01M 1/00",
+    "description": "Lubrificación bajo presión [2006.01]"
+  },
+  {
+    "code": "F01M 1/02",
+    "description": "••utilizando bombas de lubrificación [2006.01]"
+  },
+  {
+    "code": "F01M 1/04",
+    "description": "••utilizando la presión en el cilindro de trabajo o en el cárter para accionar los dispositivos de alimentación del lubrificante [2006.01]"
+  },
+  {
+    "code": "F01M 1/06",
+    "description": "••Sistemas de lubrificación caracterizados por llevar cigüeñales o bielas que tienen conductos para el lubrificante, p. ej. taladros [2006.01]"
+  },
+  {
+    "code": "F01M 1/08",
+    "description": "••Sistemas de lubrificación caracterizados por llevar medios de lubrificación por proyección [2006.01]"
+  },
+  {
+    "code": "F01M 1/10",
+    "description": "••Sistemas de lubrificación caracterizados por llevar medios de ventilación o depuración del lubricante, p. ej. filtros (montaje, conexión, o detalles de construcción de medios para purificar el lubricante F01M 11/03) [2006.01]"
+  },
+  {
+    "code": "F01M 1/12",
+    "description": "••Sistemas de lubrificación en circuitos cerrados no cubiertos en los grupos de F01M 1/02-F01M 1/10 [2006.01]"
+  },
+  {
+    "code": "F01M 1/14",
+    "description": "••Lubrificación temporizada (F01M 1/08 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F01M 1/16",
+    "description": "••Control de la cantidad o de la presión del lubrificante [2006.01]"
+  },
+  {
+    "code": "F01M 1/18",
+    "description": "••Dispositivos indicadores o de seguridad (relativos al nivel de lubrificante F01M 11/06, F01M 11/12) [2006.01]"
+  },
+  {
+    "code": "F01M 1/20",
+    "description": "••••relativos a la presión del lubrificante [2006.01]"
+  },
+  {
+    "code": "F01M 1/22",
+    "description": "••••••provocando el paro de la máquina o del motor o el paso a ralentí cuando la presión del lubrificante falla [2006.01]"
+  },
+  {
+    "code": "F01M 1/24",
+    "description": "••••••••actuando sobre el sistema de alimentación del combustible [2006.01]"
+  },
+  {
+    "code": "F01M 1/26",
+    "description": "••••••••actuando sobre el sistema de encendido [2006.01]"
+  },
+  {
+    "code": "F01M 1/28",
+    "description": "••••••••actuando sobre la toma de aire de combustión [2006.01]"
+  },
+  {
+    "code": "F01M 3/00",
+    "description": "Lubrificación especialmente adaptada para los motores con compresión de la mezcla aire-carburante en el cárter o para los motores en los cuales el lubrificante está incorporado al carburante, al aire o a la mezcla aire-carburante (separación del lubrificante del aire o de la mezcla aire-carburante antes de la introducción en el cilindro F01M 11/08) [2006.01]"
+  },
+  {
+    "code": "F01M 3/02",
+    "description": "••con dosificación variable del lubrificante y del carburante, del carburante y del aire, del lubrificante y de la mezcla aire-carburante [2006.01]"
+  },
+  {
+    "code": "F01M 3/04",
+    "description": "••para la lubrificación de la parte superior del cilindro únicamente [2006.01]"
+  },
+  {
+    "code": "F01M 5/00",
+    "description": "Calentamiento, refrigeración o control de la temperatura del lubrificante (disposición de refrigeradores del lubrificante en el sistema de refrigeración de la máquina o del motor F01P 11/08); Medios de lubrificación que facilitan el arranque del motor [2006.01]"
+  },
+  {
+    "code": "F01M 5/02",
+    "description": "••Acondicionamiento del lubrificante para ayudar al arranque de la máquina o del motor, p. ej. calentamiento [2006.01]"
+  },
+  {
+    "code": "F01M 5/04",
+    "description": "••••Dilución, p. ej. con el carburante [2006.01]"
+  },
+  {
+    "code": "F01M 7/00",
+    "description": "Dispositivos de lubrificación especialmente adaptados para el rodaje de la máquina o del motor [2006.01]"
+  },
+  {
+    "code": "F01M 9/00",
+    "description": "Dispositivos de lubrificación que presentan características importantes no cubiertas por, o de un interés distinto que,los grupos F01M 1/00-F01M 7/00 [2006.01]"
+  },
+  {
+    "code": "F01M 9/02",
+    "description": "••teniendo medios para introducir aditivos al lubrificante [2006.01]"
+  },
+  {
+    "code": "F01M 9/04",
+    "description": "••Utilización del carburante como lubrificante [2006.01]"
+  },
+  {
+    "code": "F01M 9/06",
+    "description": "••Lubrificación por baño o por salpicadura [2006.01]"
+  },
+  {
+    "code": "F01M 9/08",
+    "description": "••Lubrificación por goteo [2006.01]"
+  },
+  {
+    "code": "F01M 9/10",
+    "description": "••Lubrificación de los sistemas de válvulas auxiliares [2006.01]"
+  },
+  {
+    "code": "F01M 9/12",
+    "description": "••Lubrificación no presurizada o en circuito abierto no prevista en otra parte [2006.01]"
+  },
+  {
+    "code": "F01M 11/00",
+    "description": "Partes constitutivas, detalles o accesorios no cubiertos por, o de un interés distinto que, los grupos F01M 1/00-F01M 9/00 [2006.01]"
+  },
+  {
+    "code": "F01M 11/02",
+    "description": "••Disposición de los conductos de lubrificación [2006.01]"
+  },
+  {
+    "code": "F01M 11/03",
+    "description": "••Montaje o conexión de los medios para purificar el lubrificante relativo a máquinas o motores; Elementos constitutivos de dichos medios [2006.01]"
+  },
+  {
+    "code": "F01M 11/04",
+    "description": "••Llenado o vaciado del lubrificante de las máquinas o motores [2006.01]"
+  },
+  {
+    "code": "F01M 11/06",
+    "description": "••Dispositivos para mantener constante el nivel del lubrificante o para acomodarlo al movimiento o a la posición de la máquina o del motor [2006.01]"
+  },
+  {
+    "code": "F01M 11/08",
+    "description": "••Separación del lubrificante del aire o de la mezcla de aire-carburante antes de la introducción en el cilindro [2006.01]"
+  },
+  {
+    "code": "F01M 11/10",
+    "description": "••Dispositivos indicadores; Otros dispositivos de seguridad [2006.01]"
+  },
+  {
+    "code": "F01M 11/12",
+    "description": "••••relativos al nivel del lubrificante [2006.01]"
+  },
+  {
+    "code": "F01M 13/00",
+    "description": "Ventilación o respiración del cárter [2006.01]"
+  },
+  {
+    "code": "F01M 13/02",
+    "description": "••por medio de una fuente adicional de presión positiva o negativa [2006.01]"
+  },
+  {
+    "code": "F01M 13/04",
+    "description": "••implicando medios para purificar el aire antes de su salida del cárter, p. ej. retirando el aceite [2006.01]"
+  },
+  {
+    "code": "F01M 13/06",
+    "description": "••especialmente adaptados para motores sumergibles, p. ej. en los vehículos blindados [2006.01]"
+  }
+]

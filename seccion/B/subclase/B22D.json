@@ -1,0 +1,726 @@
+[
+  {
+    "code": "B22D 1/00",
+    "description": "Tratamiento del metal fundido en la cuchara o en los canales de colada antes del moldeo (características relativas a la inyección de gas en cierres de tipo de corredera B22D 41/42, en buzas de colada B22D 41/58) [2006.01]"
+  },
+  {
+    "code": "B22D 2/00",
+    "description": "Instalación de dispositivos indicadores o de medida, p. ej. de la temperatura o de la viscosidad del metal en fusión [2006.01]"
+  },
+  {
+    "code": "B22D 3/00",
+    "description": "Colada de lingotes de primera fusión, o productos similares (equipo para el transporte del metal líquido B22D 35/00) [2006.01]"
+  },
+  {
+    "code": "B22D 3/02",
+    "description": "••Conformado de los lechos de fundición [2006.01]"
+  },
+  {
+    "code": "B22D 5/00",
+    "description": "Máquinas o instalaciones para la colada de lingotes de primera fusión o productos similares [2006.01]"
+  },
+  {
+    "code": "B22D 5/02",
+    "description": "••con mesa de colada giratoria [2006.01]"
+  },
+  {
+    "code": "B22D 5/04",
+    "description": "••con transportadores sin fin para la colada [2006.01]"
+  },
+  {
+    "code": "B22D 7/00",
+    "description": "Colada de lingotes (equipos para el transporte del metal líquido B22D 35/00) [2006.01]"
+  },
+  {
+    "code": "B22D 7/02",
+    "description": "••Colada de lingotes bimetal o multimetal a partir de metales líquidos, es decir, integralmente colados [2006.01]"
+  },
+  {
+    "code": "B22D 7/04",
+    "description": "••Colada de lingotes huecos [2006.01]"
+  },
+  {
+    "code": "B22D 7/06",
+    "description": "••Lingoteras o su fabricación [2006.01]"
+  },
+  {
+    "code": "B22D 7/08",
+    "description": "••••Lingoteras divididas [2006.01]"
+  },
+  {
+    "code": "B22D 7/10",
+    "description": "••••Mazarotas ad hoc [2006.01]"
+  },
+  {
+    "code": "B22D 7/12",
+    "description": "••Organos accesorios, p. ej. para la agitación, para evitar las salpicaduras [2006.01]"
+  },
+  {
+    "code": "B22D 9/00",
+    "description": "Máquinas o instalaciones para la colada de lingotes [2006.01]"
+  },
+  {
+    "code": "B22D 11/00",
+    "description": "Colada continua de metales, es decir, obteniendo productos de longitud indefinida (estirado, extrusión del metal B21C) [2006.01]"
+  },
+  {
+    "code": "B22D 11/01",
+    "description": "••sin empleo de moldes, p. ej. sobre superficies fundidas [2006.01]"
+  },
+  {
+    "code": "B22D 11/04",
+    "description": "••en moldes sin fondo (B22D 11/06, B22D 11/07 tienen prioridad; instalaciones para colada continua, p. ej. para tirar hacia arriba de la barra lingote, B22D 11/14) [2006.01]"
+  },
+  {
+    "code": "B22D 11/041",
+    "description": "••••para colada vertical (B22D 11/043, B22D 11/049-B22D 11/059 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "B22D 11/043",
+    "description": "••••Moldes curvos (B22D 11/049-B22D 11/059 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "B22D 11/045",
+    "description": "••••para colada horizontal (B22D 11/049-B22D 11/059 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "B22D 11/047",
+    "description": "••••••Medios para unir la artesa de colada al molde [2006.01]"
+  },
+  {
+    "code": "B22D 11/049",
+    "description": "••••para colada con enfriamiento directo, p. ej. colada en un campo electromagnético [2006.01]"
+  },
+  {
+    "code": "B22D 11/05",
+    "description": "••••en moldes con paredes regulables [2006.01]"
+  },
+  {
+    "code": "B22D 11/051",
+    "description": "••••en moldes con paredes oscilantes [2006.01]"
+  },
+  {
+    "code": "B22D 11/053",
+    "description": "••••Medios para hacer oscilar los moldes [2006.01]"
+  },
+  {
+    "code": "B22D 11/055",
+    "description": "••••Enfriamiento de los moldes [2006.01]"
+  },
+  {
+    "code": "B22D 11/057",
+    "description": "••••Fabricación o calibración de los moldes [2006.01]"
+  },
+  {
+    "code": "B22D 11/059",
+    "description": "••••Materiales o revestimientos de los moldes [2006.01]"
+  },
+  {
+    "code": "B22D 11/06",
+    "description": "••en moldes de paredes que se desplazan, p. ej. entre rodillos, placas, correas, orugas (B22D 11/07 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B22D 11/07",
+    "description": "••Lubrificación de moldes [2006.01]"
+  },
+  {
+    "code": "B22D 11/08",
+    "description": "••Accesorios para comenzar la colada [2006.01]"
+  },
+  {
+    "code": "B22D 11/10",
+    "description": "••Alimentación o tratamiento del metal líquido (B22D 41/00 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B22D 11/103",
+    "description": "••••Distribución del metal líquido, p. ej. empleando canales de sangría, flotadores, distribuidores [2006.01]"
+  },
+  {
+    "code": "B22D 11/106",
+    "description": "••••Protección contra el derramamiento del metal fundido [2006.01]"
+  },
+  {
+    "code": "B22D 11/108",
+    "description": "••••Alimentación de aditivos, polvos o similares [2006.01]"
+  },
+  {
+    "code": "B22D 11/11",
+    "description": "••••Tratamiento del metal líquido [2006.01]"
+  },
+  {
+    "code": "B22D 11/111",
+    "description": "••••••empleando polvos protectores [2006.01]"
+  },
+  {
+    "code": "B22D 11/112",
+    "description": "••••••por medio de enfriamiento acelerado [2006.01]"
+  },
+  {
+    "code": "B22D 11/113",
+    "description": "••••••empleando el vacío [2006.01]"
+  },
+  {
+    "code": "B22D 11/114",
+    "description": "••••••empleando medios de agitación o vibración (B22D 11/117 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B22D 11/115",
+    "description": "••••••••empleando campos magnéticos [2006.01]"
+  },
+  {
+    "code": "B22D 11/116",
+    "description": "••••••Afino del metal [2006.01]"
+  },
+  {
+    "code": "B22D 11/117",
+    "description": "••••••••mediante tratamiento con gases (B22D 11/118, B22D 11/119 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "B22D 11/118",
+    "description": "••••••••haciendo circular el metal bajo, sobre o alrededor de paredes de contención (B22D 11/119 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B22D 11/119",
+    "description": "••••••••por filtrado [2006.01]"
+  },
+  {
+    "code": "B22D 11/12",
+    "description": "••Accesorios para el tratamiento ulterior o trabajo de las barras coladas in situ (laminado inmediatamente después de la colada continua B21B 1/46, B21B 13/22) [2006.01]"
+  },
+  {
+    "code": "B22D 11/124",
+    "description": "••••para su enfriamiento [2006.01]"
+  },
+  {
+    "code": "B22D 11/126",
+    "description": "••••para su corte [2006.01]"
+  },
+  {
+    "code": "B22D 11/128",
+    "description": "••••para retirarlas [2006.01]"
+  },
+  {
+    "code": "B22D 11/14",
+    "description": "••Instalaciones para colada continua, p. ej. para tirar hacia arriba de la barra lingote [2006.01]"
+  },
+  {
+    "code": "B22D 11/16",
+    "description": "••Control o regulación de las operaciones o del funcionamiento [2006.01]"
+  },
+  {
+    "code": "B22D 11/18",
+    "description": "••••de la operación de colada (B22D 11/20 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B22D 11/20",
+    "description": "••••de la retirada de barras coladas [2006.01]"
+  },
+  {
+    "code": "B22D 11/22",
+    "description": "••••del enfriamiento de las barras coladas o de los moldes [2006.01]"
+  },
+  {
+    "code": "B22D 13/00",
+    "description": "Colada centrífuga; Colada empleando la fuerza centrífuga [2006.01]"
+  },
+  {
+    "code": "B22D 13/02",
+    "description": "••de piezas alargadas, macizas o huecas, p. ej. de tubos, colados en moldes que giran alrededor de su eje longitudinal [2006.01]"
+  },
+  {
+    "code": "B22D 13/04",
+    "description": "••de piezas poco profundas o huecas, p. ej. ruedas o coronas, coladas en moldes que giran alrededor de su eje de simetría [2006.01]"
+  },
+  {
+    "code": "B22D 13/06",
+    "description": "••de piezas macizas o huecas en moldes que giran alrededor de un eje situado fuera del molde [2006.01]"
+  },
+  {
+    "code": "B22D 13/08",
+    "description": "••en la que la se alimenta un molde fijo con una masa de metal líquido en rotación [2006.01]"
+  },
+  {
+    "code": "B22D 13/10",
+    "description": "••Accesorios para máquinas de colada centrífuga, p. ej. moldes, su revestimiento; Medios para la alimentación del metal líquido, para la limpieza de los moldes o para la extracción de las piezas (fabricación y guarnecido de los moldes B22C) [2006.01]"
+  },
+  {
+    "code": "B22D 13/12",
+    "description": "••Control, inspección, especialmente adaptados a la colada centrífuga, p. ej. por razones de seguridad [2006.01]"
+  },
+  {
+    "code": "B22D 15/00",
+    "description": "Colada mediante la utilización de un molde o macho en el que una parte importante, para el procedimiento, es de conductividad térmica elevada, p. ej. colada en coquilla; Moldes o accesorios especialmente adaptados a esta técnica (colada continua de metales en moldes sin fondo para la colada con enfriamiento directo B22D 11/049) [2006.01]"
+  },
+  {
+    "code": "B22D 15/02",
+    "description": "••de cilindros, pistones, casquillos de cojinetes u objetos análogos de poco espesor [2006.01]"
+  },
+  {
+    "code": "B22D 15/04",
+    "description": "••Máquinas o aparatos para colada en coquilla (B22D 15/02 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B22D 17/00",
+    "description": "Colada bajo presión o por inyección, es decir, colada introduciendo el metal en el molde bajo alta presión [2006.01]"
+  },
+  {
+    "code": "B22D 17/02",
+    "description": "••Máquinas de cámaras caliente, es decir, con cámara de presión precalentada en la que el metal está fundido [2006.01]"
+  },
+  {
+    "code": "B22D 17/04",
+    "description": "••••Máquinas con pistón de inyección [2006.01]"
+  },
+  {
+    "code": "B22D 17/06",
+    "description": "••••Máquinas con inyección neumática [2006.01]"
+  },
+  {
+    "code": "B22D 17/08",
+    "description": "••Máquinas de cámara fría, es decir, en las que la cámara de presión donde se vierte el metal fluido no está precalentada [2006.01]"
+  },
+  {
+    "code": "B22D 17/10",
+    "description": "••••con movimiento horizontal de la prensa [2006.01]"
+  },
+  {
+    "code": "B22D 17/12",
+    "description": "••••con movimiento vertical de la prensa [2006.01]"
+  },
+  {
+    "code": "B22D 17/14",
+    "description": "••Máquinas en las que se ha hecho el vacío en el molde [2006.01]"
+  },
+  {
+    "code": "B22D 17/16",
+    "description": "••especialmente adaptadas para el moldeo de cierres de corredera o cremallera, o de sus elementos [2006.01]"
+  },
+  {
+    "code": "B22D 17/18",
+    "description": "••Máquinas montadas a base de elementos que ofrecen diversas combinaciones posibles [2006.01]"
+  },
+  {
+    "code": "B22D 17/20",
+    "description": "••Accesorios; Partes constitutivas [2006.01]"
+  },
+  {
+    "code": "B22D 17/22",
+    "description": "••••Moldes metálicos (su fabricación, veáse la clase apropiada, p. ej. B23P 15/24); Planchas de moldes; Soportes de moldes; Equipo para el enfriamiento de los moldes; Accesorios para la extracción y la eyección de las piezas fuera del molde [2006.01]"
+  },
+  {
+    "code": "B22D 17/24",
+    "description": "••••••Accesorios para la colocación y el mantenimiento en su sitio de los machos o de los insertos [2006.01]"
+  },
+  {
+    "code": "B22D 17/26",
+    "description": "••••Mecanismos o dispositivos de cierre o apertura de los moldes [2006.01]"
+  },
+  {
+    "code": "B22D 17/28",
+    "description": "••••Crisoles [2006.01]"
+  },
+  {
+    "code": "B22D 17/30",
+    "description": "••••Accesorios para la alimentación de metal líquido, p. ej. en cantidades bien definidas [2006.01]"
+  },
+  {
+    "code": "B22D 17/32",
+    "description": "••••Equipo de control [2006.01]"
+  },
+  {
+    "code": "B22D 18/00",
+    "description": "Colada con presión; Colada en vacío (B22D 17/00 tiene prioridad; tratamiento del metal en el molde utilizado presión o vacío B22D 27/00) [2006.01]"
+  },
+  {
+    "code": "B22D 18/02",
+    "description": "••Colada con presión utilizando dispositivos de presión mecánicos, p. ej. matrizado semilíquido (B22D 18/04 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B22D 18/04",
+    "description": "••Colada a baja presión, es decir, utilizando una presión de algunos bares como máximo para llenar el molde [2006.01]"
+  },
+  {
+    "code": "B22D 18/06",
+    "description": "••Colada en vacío, es decir, utilizando el vacío para llenar el molde [2006.01]"
+  },
+  {
+    "code": "B22D 18/08",
+    "description": "••Control, inspección, p. ej. por razones de seguridad [2006.01]"
+  },
+  {
+    "code": "B22D 19/00",
+    "description": "Colada en, sobre o alrededor de objetos que forman parte del producto final (B22D 23/04 tiene prioridad; soldadura aluminotérmica B23K 23/00; revestimiento por colada de material fundido sobre un sustrato C23C 6/00) [2006.01]"
+  },
+  {
+    "code": "B22D 19/02",
+    "description": "••para fabricar piezas reforzadas (B22D 19/14 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B22D 19/04",
+    "description": "••para empalmar piezas [2006.01]"
+  },
+  {
+    "code": "B22D 19/06",
+    "description": "••para fabricar o reparar herramientas [2006.01]"
+  },
+  {
+    "code": "B22D 19/08",
+    "description": "••para poner guarniciones o revestimientos, p. ej. de metal antifricción [2006.01]"
+  },
+  {
+    "code": "B22D 19/10",
+    "description": "••Reparación de objetos deteriorados o defectuosos por el procedimiento de colada (por otros procedimientos B23P 6/04) [2006.01]"
+  },
+  {
+    "code": "B22D 19/12",
+    "description": "••para fabricar objetos dotados de elementos móviles respecto a otros, p. ej. bisagras [2006.01]"
+  },
+  {
+    "code": "B22D 19/14",
+    "description": "••teniendo los objetos forma de filamentos o partículas (fabricación de aleaciones conteniendo fibras o filamentos por contacto de las fibras o filamentos con el metal fundido C22C 47/08) [2006.01]"
+  },
+  {
+    "code": "B22D 19/16",
+    "description": "••para fabricar piezas fundidas compuestas de dos o más metales diferentes, p. ej. para fabricar cilindros de laminación (colada de lingotes compuestos B22D 7/02) [2006.01]"
+  },
+  {
+    "code": "B22D 21/00",
+    "description": "Colada de metales no férreos o de compuestos metálicos, en la medida en que sus propiedades metalúrgicas afectan al procedimiento de colada (equipos para la colada en vacío B22D 18/00); Utilización de composiciones apropiadas [2006.01]"
+  },
+  {
+    "code": "B22D 21/02",
+    "description": "••Colada de metales no férreos altamente oxidables, p. ej. en atmósfera inerte (empleo de atmósfera inerte para la colada en general B22D 23/00) [2006.01]"
+  },
+  {
+    "code": "B22D 21/04",
+    "description": "••••Colada de aluminio o magnesio [2006.01]"
+  },
+  {
+    "code": "B22D 21/06",
+    "description": "••Coladas de metales no férreos de punto de fusión elevado, p. ej. carburos metálicos (B22D 21/02 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B22D 23/00",
+    "description": "Procedimientos de colada no previstos en los grupos B22D 1/00-B22D 21/00 (fabricación de polvos metálicos por colada B22F 9/08; soldadura aluminotérmica B23K 23/00; refusión de metales C22B 9/16) [2006.01]"
+  },
+  {
+    "code": "B22D 23/02",
+    "description": "••Colada directa o colada en chorro [2006.01]"
+  },
+  {
+    "code": "B22D 23/04",
+    "description": "••Moldeo por inmersión (inmersión en caliente o procedimientos de inmersión para aplicar un revestimiento en estado fundido sin afectar a la forma de la pieza C23C 2/00) [2006.01]"
+  },
+  {
+    "code": "B22D 23/06",
+    "description": "••Fusión del metal, p. ej. partículas metálicas, dentro del molde [2006.01]"
+  },
+  {
+    "code": "B22D 23/10",
+    "description": "••••Colada bajo escoria electroconductora [2006.01]"
+  },
+  {
+    "code": "B22D 25/00",
+    "description": "Colada particular caracterizada por la naturaleza del producto (B22D 15/02, B22D 17/16, B22D 19/00 tiene prioridad; moldeo de los clisés de estereotipia B41D 3/00) [2006.01]"
+  },
+  {
+    "code": "B22D 25/02",
+    "description": "••por su forma; obras de arte [2006.01]"
+  },
+  {
+    "code": "B22D 25/04",
+    "description": "••••Coladas de placas metálicas de acumuladores eléctricos u objetos análogos (su fabricación por procedimientos de varias etapas H01M 4/82) [2006.01]"
+  },
+  {
+    "code": "B22D 25/06",
+    "description": "••por sus propiedades físicas (B22D 27/00 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B22D 25/08",
+    "description": "••••por su dureza uniforme (B22D 15/00 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B22D 27/00",
+    "description": "Tratamiento del metal en el molde durante el estado líquido o plástico (B22D 7/12, B22D 11/10, B22D 18/00, B22D 43/00 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "B22D 27/02",
+    "description": "••Empleo de efectos eléctricos o magnéticos [2006.01]"
+  },
+  {
+    "code": "B22D 27/04",
+    "description": "••Actuando sobre la temperatura del metal, p. ej. por calentamiento o enfriamiento del molde (enfriamiento de moldes sin fondo en colada continua B22D 11/055) [2006.01]"
+  },
+  {
+    "code": "B22D 27/06",
+    "description": "••••Calentamiento del despunte de cabeza del lingote (cajas de mazarota de lingoteras B22D 7/10) [2006.01]"
+  },
+  {
+    "code": "B22D 27/08",
+    "description": "••Sacudido, vibración, o volteo de los moldes (B22D 11/051, B22D 11/053 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "B22D 27/09",
+    "description": "••aplicando presión [2006.01]"
+  },
+  {
+    "code": "B22D 27/11",
+    "description": "••••utilizando un dispositivo de presión mecánica [2006.01]"
+  },
+  {
+    "code": "B22D 27/13",
+    "description": "••••utilizando la presión de un gas [2006.01]"
+  },
+  {
+    "code": "B22D 27/15",
+    "description": "••empleando el vacío [2006.01]"
+  },
+  {
+    "code": "B22D 27/18",
+    "description": "••Medidas para la utilización de procedimientos químicos que modifican la composición superficial de las piezas moldeadas, p. ej. para mejorar la resistencia al ataque de los ácidos [2006.01]"
+  },
+  {
+    "code": "B22D 27/20",
+    "description": "••Medidas no previstas anteriormente que afectan a la estructura del grano o a la textura; Empleo de composiciones específicas a este efecto [2006.01]"
+  },
+  {
+    "code": "B22D 29/00",
+    "description": "Extracción de las piezas del molde, no limitada a un procedimiento de colada cubierto por un solo grupo principal; Extracción de machos; Manipulación de lingotes [2006.01]"
+  },
+  {
+    "code": "B22D 29/02",
+    "description": "••Aparatos vibratorios especialmente concebidos para sacudir las cajas de moldeo [2006.01]"
+  },
+  {
+    "code": "B22D 29/04",
+    "description": "••Manipulación o desmoldeo de las piezas o de los lingotes (dispositivos para coger cargas en general, veánse las clases apropiadas, p. ej. B66C) [2006.01]"
+  },
+  {
+    "code": "B22D 29/06",
+    "description": "••••Desmoldeadoras accionadas por fluido a presión [2006.01]"
+  },
+  {
+    "code": "B22D 29/08",
+    "description": "••••Desmoldeadoras accionadas mecánicamente [2006.01]"
+  },
+  {
+    "code": "B22D 30/00",
+    "description": "Enfriamiento de piezas coladas, no limitado a procedimientos de colada cubiertos por un solo grupo principal (accesorios para el enfriamiento de barras coladas en colada continua de metales B22D 11/124; control o regulación de las operaciones o del funcionamiento para el enfriamiento de barras coladas o de moldes en colada continua de metales B22D 11/22; colada en coquilla B22D 15/00) [2006.01]"
+  },
+  {
+    "code": "B22D 31/00",
+    "description": "Corte del material en exceso después de la colada, p. ej. rabos de colada de bebederos o mazarotas (limpieza de las piezas por chorro de arena B24C) [2006.01]"
+  },
+  {
+    "code": "B22D 33/00",
+    "description": "Equipo para manipular los moldes [2006.01]"
+  },
+  {
+    "code": "B22D 33/02",
+    "description": "••para voltear o desplazar los moldes [2006.01]"
+  },
+  {
+    "code": "B22D 33/04",
+    "description": "••para reunir o separar los moldes [2006.01]"
+  },
+  {
+    "code": "B22D 33/06",
+    "description": "••para cargar o descargar los moldes [2006.01]"
+  },
+  {
+    "code": "B22D 35/00",
+    "description": "Equipo para el transporte del metal líquido hasta los lechos de fundición o hasta los moldes (B22D 37/00-B22D 41/00 tienen prioridad; especialmente adaptados a procedimientos o máquinas particulares, veánse los grupos apropiados) [2006.01]"
+  },
+  {
+    "code": "B22D 35/02",
+    "description": "••a los lechos de fundición [2006.01]"
+  },
+  {
+    "code": "B22D 35/04",
+    "description": "••a los moldes, p. ej. placas de fondo para colada en sifón, canales de colada [2006.01]"
+  },
+  {
+    "code": "B22D 35/06",
+    "description": "••Equipo de calentamiento o de enfriamiento [2006.01]"
+  },
+  {
+    "code": "B22D 37/00",
+    "description": "Control o regulación de la colada de metal líquido desde un recipiente de mantenimiento del baño en fusión (B22D 39/00, B22D 41/00 tienen prioridad; especialmente adaptados a procedimientos o a máquinas particulares, veánse los grupos apropiados de la presente subclase) [2006.01]"
+  },
+  {
+    "code": "B22D 39/00",
+    "description": "Equipo para la alimentación de metal líquido en cantidades bien definidas (especialmente adaptado a procedimientos o máquinas particulares, veánse los grupos apropiados de la presente subclase) [2006.01]"
+  },
+  {
+    "code": "B22D 39/02",
+    "description": "••mediante regulación del volumen de metal líquido [2006.01]"
+  },
+  {
+    "code": "B22D 39/04",
+    "description": "••mediante regulación del peso de metal líquido [2006.01]"
+  },
+  {
+    "code": "B22D 39/06",
+    "description": "••mediante regulación de la presión sobre el baño de metal líquido [2006.01]"
+  },
+  {
+    "code": "B22D 41/00",
+    "description": "Recipientes de mantenimiento de un baño en fusión, p. ej. cucharas, artesas de colada, fosos de colada o sistemas análogos (B22D 39/00, B22D 43/00 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B22D 41/005",
+    "description": "••con medios de calentamiento o de enfriamiento [2006.01]"
+  },
+  {
+    "code": "B22D 41/01",
+    "description": "••••Medios de calentamiento [2006.01]"
+  },
+  {
+    "code": "B22D 41/015",
+    "description": "••••••con calentamiento exterior, es decir, la fuente de calor no forma parte de la cuchara [2006.01]"
+  },
+  {
+    "code": "B22D 41/02",
+    "description": "••Revestimientos [2006.01]"
+  },
+  {
+    "code": "B22D 41/04",
+    "description": "••capaces de bascular [2006.01]"
+  },
+  {
+    "code": "B22D 41/05",
+    "description": "••••Cucharas tetera [2006.01]"
+  },
+  {
+    "code": "B22D 41/06",
+    "description": "••Equipo para el basculamiento [2006.01]"
+  },
+  {
+    "code": "B22D 41/08",
+    "description": "••con vaciado por el fondo (B22D 41/14, B22D 41/50 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "B22D 41/12",
+    "description": "••Cucharas móviles o recipientes similares; Carros portacucharas (puentes basculantes B66C) [2006.01]"
+  },
+  {
+    "code": "B22D 41/13",
+    "description": "••••Torretas giratorias portacucharas [2006.01]"
+  },
+  {
+    "code": "B22D 41/14",
+    "description": "••Cierres [2006.01]"
+  },
+  {
+    "code": "B22D 41/16",
+    "description": "••••del tipo vástago con tapón, es decir, posicionándose la varilla de cierre hacia abajo atravesando el recipiente y el metal que éste contiene, para hacer variar la sección de paso del metal en la abertura de colada [2006.01]"
+  },
+  {
+    "code": "B22D 41/18",
+    "description": "••••••Vástagos con tapón con esta finalidad [2006.01]"
+  },
+  {
+    "code": "B22D 41/20",
+    "description": "••••••Equipo para la maniobra de los vástagos [2006.01]"
+  },
+  {
+    "code": "B22D 41/22",
+    "description": "••••del tipo de corredera, es decir, que incluyen una placa fija y una placa móvil en contacto mutuo, y cuyo deslizamiento permite hacer variar la sección de paso [2006.01]"
+  },
+  {
+    "code": "B22D 41/24",
+    "description": "••••••caracterizados por una placa que se desplaza de forma rectilínea (B22D 41/38-B22D 41/42 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "B22D 41/26",
+    "description": "••••••caracterizados por una placa giratoria (B22D 41/38-B22D 41/42 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "B22D 41/28",
+    "description": "••••••Placas con esta finalidad (B22D 41/38-B22D 41/42 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "B22D 41/30",
+    "description": "••••••••Su fabricación o su reparación [2006.01]"
+  },
+  {
+    "code": "B22D 41/32",
+    "description": "••••••••••caracterizadas por el material utilizado [2006.01]"
+  },
+  {
+    "code": "B22D 41/34",
+    "description": "••••••••Sus medios de soporte, de fijación o de centrado [2006.01]"
+  },
+  {
+    "code": "B22D 41/36",
+    "description": "••••••••Tratamiento de las placas, p. ej. lubricación, calentamiento (cucharas de colada, fosos de colada o sistemas análogos con medios de calentamiento B22D 41/01) [2006.01]"
+  },
+  {
+    "code": "B22D 41/38",
+    "description": "••••••Medios de maniobra de las placas corredera [2006.01]"
+  },
+  {
+    "code": "B22D 41/40",
+    "description": "••••••Medios para presionar las placas una contra otra [2006.01]"
+  },
+  {
+    "code": "B22D 41/42",
+    "description": "••••••Características relativas a la inyección de gas [2006.01]"
+  },
+  {
+    "code": "B22D 41/44",
+    "description": "••••Medios de cierre fungibles, es decir, medios de cierre que se utilizan una sola vez [2006.01]"
+  },
+  {
+    "code": "B22D 41/46",
+    "description": "••••••Tapones refractarios macizos [2006.01]"
+  },
+  {
+    "code": "B22D 41/48",
+    "description": "••••••Cierres fundibles [2006.01]"
+  },
+  {
+    "code": "B22D 41/50",
+    "description": "••Buzas de colada [2006.01]"
+  },
+  {
+    "code": "B22D 41/52",
+    "description": "••••Su fabricación o su reparación [2006.01]"
+  },
+  {
+    "code": "B22D 41/54",
+    "description": "••••••caracterizadas por el material utilizado con esta finalidad [2006.01]"
+  },
+  {
+    "code": "B22D 41/56",
+    "description": "••••Medios de soporte, de manipulación o de cambio de buzas de colada [2006.01]"
+  },
+  {
+    "code": "B22D 41/58",
+    "description": "••••con medios de inyección de gas [2006.01]"
+  },
+  {
+    "code": "B22D 41/60",
+    "description": "••••con medios de calentamiento o de enfriamiento [2006.01]"
+  },
+  {
+    "code": "B22D 41/62",
+    "description": "••••con medios de agitación o medios vibratorios [2006.01]"
+  },
+  {
+    "code": "B22D 43/00",
+    "description": "Limpieza mecánica, p. ej. desespumado del metal líquido [2006.01]"
+  },
+  {
+    "code": "B22D 45/00",
+    "description": "Equipos para la colada no previstos en otro lugar [2006.01]"
+  },
+  {
+    "code": "B22D 47/00",
+    "description": "Instalaciones de colada [2006.01]"
+  },
+  {
+    "code": "B22D 47/02",
+    "description": "••instalaciones de moldeo e instalaciones de colada combinadas [2006.01]"
+  }
+]

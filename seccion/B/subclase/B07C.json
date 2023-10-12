@@ -1,0 +1,194 @@
+[
+  {
+    "code": "B07C 1/00",
+    "description": "Operaciones que preceden a la clasificación de correo o documentos según el destino [2006.01]"
+  },
+  {
+    "code": "B07C 1/02",
+    "description": "••Formación de una corriente de objetos; Colocación de los objetos en una corriente, p. ej. espaciamiento, orientación [2006.01]"
+  },
+  {
+    "code": "B07C 1/04",
+    "description": "••••Formación de una corriente a partir de una carga; Control de la corriente, p. ej. espaciamiento de los objetos [2006.01]"
+  },
+  {
+    "code": "B07C 1/06",
+    "description": "••••Orientación; Alineamiento [2006.01]"
+  },
+  {
+    "code": "B07C 1/10",
+    "description": "••Separación según el formato o la flexibilidad [2006.01]"
+  },
+  {
+    "code": "B07C 1/12",
+    "description": "••••Separación de las cartas y de los paquetes [2006.01]"
+  },
+  {
+    "code": "B07C 1/14",
+    "description": "••••Separación según la longitud o la anchura [2006.01]"
+  },
+  {
+    "code": "B07C 1/16",
+    "description": "••••Separación según el espesor o la rigidez [2006.01]"
+  },
+  {
+    "code": "B07C 1/18",
+    "description": "••Ordenación de objetos que no estén en una corriente [2006.01]"
+  },
+  {
+    "code": "B07C 1/20",
+    "description": "••Separación según la orientación, p. ej. según la colocación del sello postal [2006.01]"
+  },
+  {
+    "code": "B07C 3/00",
+    "description": "Clasificación de correo o documentos según el destino [2006.01]"
+  },
+  {
+    "code": "B07C 3/02",
+    "description": "••Aparatos caracterizados por los medios utilizados con vistas a la distribución [2006.01]"
+  },
+  {
+    "code": "B07C 3/04",
+    "description": "••••Máquinas clasificadoras de tipo tambor [2006.01]"
+  },
+  {
+    "code": "B07C 3/06",
+    "description": "••••Máquinas clasificadoras lineales en las que los objetos se extraen de una corriente a nivel en puntos elegidos [2006.01]"
+  },
+  {
+    "code": "B07C 3/08",
+    "description": "••••utilizando sistemas transportadores [2006.01]"
+  },
+  {
+    "code": "B07C 3/10",
+    "description": "••Aparatos caracterizados por los medios utilizados para detectar el destino (procedimientos o dispositivos para leer e identificar caracteres o signos geométricos impresos o escritos G06V 30/00) [2006.01]"
+  },
+  {
+    "code": "B07C 3/12",
+    "description": "••••utilizando medios de detección eléctricos o electrónicos (B07C 3/14 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B07C 3/14",
+    "description": "••••utilizando medios de detección fotosensibles [2006.01]"
+  },
+  {
+    "code": "B07C 3/16",
+    "description": "••••utilizando medios de detección magnéticos [2006.01]"
+  },
+  {
+    "code": "B07C 3/18",
+    "description": "••Dispositivos o sistemas destinados a indicar el destino, p. ej. con la ayuda de signos codificados [2006.01]"
+  },
+  {
+    "code": "B07C 3/20",
+    "description": "••Sistemas destinados a facilitar la lectura visual de las direcciones, p. ej. dispositivos presentadores [2006.01]"
+  },
+  {
+    "code": "B07C 5/02",
+    "description": "••Operaciones que preceden a la clasificación, p. ej. colocación de los objetos en una corriente, orientación [2006.01]"
+  },
+  {
+    "code": "B07C 5/04",
+    "description": "••Separación según la dimensión [2006.01]"
+  },
+  {
+    "code": "B07C 5/06",
+    "description": "••••las medidas se toman mecánicamente [2006.01]"
+  },
+  {
+    "code": "B07C 5/07",
+    "description": "••••••por calibrado con ayuda de dispositivos dotados de elementos de captura de artículos con movimiento relativo, p. ej. pinzas [2006.01]"
+  },
+  {
+    "code": "B07C 5/08",
+    "description": "••••las medidas se toman electrónicamente o eléctricamente (B07C 5/10 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B07C 5/10",
+    "description": "••••las medidas se toman por medios fotosensibles [2006.01]"
+  },
+  {
+    "code": "B07C 5/12",
+    "description": "••••caracterizada por su aplicación a objetos particulares, no previstos en otro lugar (clasificación de huevos A01K 43/00) [2006.01]"
+  },
+  {
+    "code": "B07C 5/14",
+    "description": "••••••Clasificación de maderas y troncos [2006.01]"
+  },
+  {
+    "code": "B07C 5/16",
+    "description": "••Clasificación según el peso (clasificación de huevos A01K 43/00; aparatos de pesada en sí\n\t\t\t\t\t\t\t\t\t\tG01G) [2006.01]"
+  },
+  {
+    "code": "B07C 5/18",
+    "description": "••••utilizando un solo mecanismo fijo de pesada [2006.01]"
+  },
+  {
+    "code": "B07C 5/20",
+    "description": "••••••para separar artículos cuyo peso es inferior a un valor predeterminado y para los que su peso es superior a este valor [2006.01]"
+  },
+  {
+    "code": "B07C 5/22",
+    "description": "••••utilizando varios mecanismos fijos de pesada [2006.01]"
+  },
+  {
+    "code": "B07C 5/24",
+    "description": "••••utilizando mecanismos móviles de pesada que se desplazan, p. ej. a lo largo de un trayecto circular [2006.01]"
+  },
+  {
+    "code": "B07C 5/26",
+    "description": "••••••en los que el efecto del contrapeso de los mecanismos de pesada varía en el curso de este desplazamiento [2006.01]"
+  },
+  {
+    "code": "B07C 5/28",
+    "description": "••••utilizando medios eléctricos de control [2006.01]"
+  },
+  {
+    "code": "B07C 5/30",
+    "description": "••••asociada a medios de recuento [2006.01]"
+  },
+  {
+    "code": "B07C 5/32",
+    "description": "••••asociada a medios de control del peso [2006.01]"
+  },
+  {
+    "code": "B07C 5/34",
+    "description": "••Clasificación en función de otras propiedades particulares [2006.01]"
+  },
+  {
+    "code": "B07C 5/342",
+    "description": "••••según las propiedades ópticas, p. ej. el color [2006.01]"
+  },
+  {
+    "code": "B07C 5/344",
+    "description": "••••según las propiedades eléctricas o magnéticas [2006.01]"
+  },
+  {
+    "code": "B07C 5/346",
+    "description": "••••según las propiedades radiactivas [2006.01]"
+  },
+  {
+    "code": "B07C 5/36",
+    "description": "••Aparatos clasificadores caracterizados por los medios que utilizan en vista de la distribución [2006.01]"
+  },
+  {
+    "code": "B07C 5/38",
+    "description": "••••Recolección o agrupación de artículos [2006.01]"
+  },
+  {
+    "code": "B07C 7/00",
+    "description": "Clasificación exclusivamente manual [2006.01]"
+  },
+  {
+    "code": "B07C 7/02",
+    "description": "••Muebles con compartimientos, p. ej. clasificadores de cajas (cajeros de almacenado B65G) [2006.01]"
+  },
+  {
+    "code": "B07C 7/04",
+    "description": "••Aparatos o accesorios para la recogida manual [2006.01]"
+  },
+  {
+    "code": "B07C 99/00",
+    "description": "Materia no prevista en otros grupos de esta subclase [2009.01]"
+  }
+]

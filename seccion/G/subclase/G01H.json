@@ -1,0 +1,106 @@
+[
+  {
+    "code": "G01H 1/00",
+    "description": "Medida de vibraciones en sólidos utilizando la conducción directa al detector (G01H 9/00, G01H 11/00 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G01H 1/04",
+    "description": "••siendo las vibraciones transversales en relación con la dirección de propagación [2006.01]"
+  },
+  {
+    "code": "G01H 1/06",
+    "description": "••••Frecuencia [2006.01]"
+  },
+  {
+    "code": "G01H 1/08",
+    "description": "••••Amplitud [2006.01]"
+  },
+  {
+    "code": "G01H 1/10",
+    "description": "••siendo las vibraciones torsionales. [2006.01]"
+  },
+  {
+    "code": "G01H 1/12",
+    "description": "••siendo las vibraciones longitudinales o no especificadas [2006.01]"
+  },
+  {
+    "code": "G01H 1/14",
+    "description": "••••Frecuencia [2006.01]"
+  },
+  {
+    "code": "G01H 1/16",
+    "description": "••••Amplitud [2006.01]"
+  },
+  {
+    "code": "G01H 3/00",
+    "description": "Medida de vibraciones utilizando un detector en un fluido (G01H 7/00, G01H 9/00, G01H 11/00 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G01H 3/04",
+    "description": "••Frecuencia [2006.01]"
+  },
+  {
+    "code": "G01H 3/06",
+    "description": "••••por medios eléctricos [2006.01]"
+  },
+  {
+    "code": "G01H 3/08",
+    "description": "••••Análisis de las frecuencias presentes en vibraciones complejas, p. ej. comparando los armónicos presentes [2006.01]"
+  },
+  {
+    "code": "G01H 3/10",
+    "description": "••Amplitud; Potencia [2006.01]"
+  },
+  {
+    "code": "G01H 3/12",
+    "description": "••••por medios eléctricos (G01H 3/14 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01H 3/14",
+    "description": "••••Medida de la amplitud media; Medida de la potencia media; Medida de la integral en el tiempo de la potencia [2006.01]"
+  },
+  {
+    "code": "G01H 5/00",
+    "description": "Medida de la velocidad de propagación de ondas ultrasonoras, sonoras o infrasonoras [2006.01]"
+  },
+  {
+    "code": "G01H 7/00",
+    "description": "Medida del tiempo de reverberación [2006.01]"
+  },
+  {
+    "code": "G01H 9/00",
+    "description": "Medida de vibraciones mecánicas o de ondas ultrasonoras, sonoras o infrasonoras utilizando medios sensibles a las radiaciones, p. ej. medios ópticos [2006.01]"
+  },
+  {
+    "code": "G01H 11/00",
+    "description": "Medida de vibraciones mecánicas o de ondas ultrasonoras, sonoras o infrasonoras por detección de cambios en las propiedades eléctricas o magnéticas [2006.01]"
+  },
+  {
+    "code": "G01H 11/02",
+    "description": "••por medios magnéticos, p. ej. la reluctancia [2006.01]"
+  },
+  {
+    "code": "G01H 11/04",
+    "description": "••••que utilizan dispositivos magnetoestrictivos [2006.01]"
+  },
+  {
+    "code": "G01H 11/06",
+    "description": "••por medios eléctricos [2006.01]"
+  },
+  {
+    "code": "G01H 11/08",
+    "description": "••••que utilizan dispositivos piezoeléctricos [2006.01]"
+  },
+  {
+    "code": "G01H 13/00",
+    "description": "Medida de la frecuencia de resonancia [2006.01]"
+  },
+  {
+    "code": "G01H 15/00",
+    "description": "Medida de la impedancia mecánica o acústica [2006.01]"
+  },
+  {
+    "code": "G01H 17/00",
+    "description": "Medida de vibraciones mecánicas o de ondas ultrasonoras, sonoras o infrasonoras no prevista en los otros grupos de esta subclase [2006.01]"
+  }
+]

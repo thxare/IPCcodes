@@ -1,0 +1,510 @@
+[
+  {
+    "code": "E01C 1/00",
+    "description": "Dibujo o trazado de carreteras, p. ej. para la disminución del ruido, para la absorción de gases (proyectos o dibujos de las canchas de deporte A63C 19/00; proyectos o planos de aeródromos B64F) [2006.01]"
+  },
+  {
+    "code": "E01C 1/02",
+    "description": "••Cruces, uniones o intercomunicaciones de carreteras a un mismo nivel [2006.01]"
+  },
+  {
+    "code": "E01C 1/04",
+    "description": "••Cruces de carreteras de niveles diferentes; Uniones entre carreteras de niveles diferentes [2006.01]"
+  },
+  {
+    "code": "E01C 3/00",
+    "description": "Cimentaciones para pavimentos (especialmente adaptadas para canchas de juego o de deporte E01C 13/02; cimentaciones en general E02D) [2006.01]"
+  },
+  {
+    "code": "E01C 3/02",
+    "description": "••Basamento de hormigón para revestimiento bituminoso [2006.01]"
+  },
+  {
+    "code": "E01C 3/04",
+    "description": "••Cimentaciones realizadas mediante estabilización del suelo [2006.01]"
+  },
+  {
+    "code": "E01C 3/06",
+    "description": "••Métodos o dispositivos de protección para las cimentaciones contra el desgaste provocado por la humedad, la helada o las vibraciones [2006.01]"
+  },
+  {
+    "code": "E01C 5/00",
+    "description": "Pavimentos hechos con elementos prefabricados (especialmente adaptados para canchas de juego o de deporte E01C 13/04, para senderos peatonales, arcenes o pistas para ciclistas E01C 15/00; fabricación de piedras artificiales C04B; piedras de construcción E04C; suelos E04F) [2006.01]"
+  },
+  {
+    "code": "E01C 5/02",
+    "description": "••de piedras naturales, p. ej. adoquines [2006.01]"
+  },
+  {
+    "code": "E01C 5/04",
+    "description": "••de ladrillos [2006.01]"
+  },
+  {
+    "code": "E01C 5/06",
+    "description": "••hechos de elementos a base de cemento o de aglomerantes análogos [2006.01]"
+  },
+  {
+    "code": "E01C 5/08",
+    "description": "••••Elementos armados [2006.01]"
+  },
+  {
+    "code": "E01C 5/10",
+    "description": "••••••Elementos armados pretensados [2006.01]"
+  },
+  {
+    "code": "E01C 5/12",
+    "description": "••hechos de elementos y de aglomerados bituminosos [2006.01]"
+  },
+  {
+    "code": "E01C 5/14",
+    "description": "••hechos de elementos de madera [2006.01]"
+  },
+  {
+    "code": "E01C 5/16",
+    "description": "••hechos de elementos metálicos (enrejados de acero E01C 9/10) [2006.01]"
+  },
+  {
+    "code": "E01C 5/18",
+    "description": "••hechos de elementos de goma [2006.01]"
+  },
+  {
+    "code": "E01C 5/20",
+    "description": "••hechos de elementos de materiales plásticos (E01C 5/18 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "E01C 5/22",
+    "description": "••hechos de elementos compuestos de una mezcla de materiales cubiertos por varios de los grupos E01C 5/02-E01C 5/20 [2006.01]"
+  },
+  {
+    "code": "E01C 7/00",
+    "description": "Pavimentos continuos realizados in situ (especialmente adaptados para canchas de juego o de deporte E01C 13/06, para senderos peatonales, arcenes o pistas para ciclistas E01C 15/00) [2006.01]"
+  },
+  {
+    "code": "E01C 7/02",
+    "description": "••hechos de materiales de empedrado sin aglomerantes [2006.01]"
+  },
+  {
+    "code": "E01C 7/04",
+    "description": "••••de piedra machacada, grava o materiales análogos [2006.01]"
+  },
+  {
+    "code": "E01C 7/06",
+    "description": "••••por fusión, quemado o vitrificación de los materiales de empedrado in situ [2006.01]"
+  },
+  {
+    "code": "E01C 7/08",
+    "description": "••hechos de materiales de empedrado y de aglomerantes [2006.01]"
+  },
+  {
+    "code": "E01C 7/10",
+    "description": "••••de materiales de empedrado y de cemento o conglomerantes análogos (cemento o conglomerantes análogos, composición de morteros C04B) [2006.01]"
+  },
+  {
+    "code": "E01C 7/12",
+    "description": "••••••Pavimentos de mortero-macádam [2006.01]"
+  },
+  {
+    "code": "E01C 7/14",
+    "description": "••••••Pavimentos de hormigón [2006.01]"
+  },
+  {
+    "code": "E01C 7/16",
+    "description": "••••••••Pavimentos de hormigón pretensado [2006.01]"
+  },
+  {
+    "code": "E01C 7/18",
+    "description": "••••de materiales de empedrado y de conglomerante bituminoso [2006.01]"
+  },
+  {
+    "code": "E01C 7/20",
+    "description": "••••••Conglomerante introducido en frío, p. ej. asfalto natural [2006.01]"
+  },
+  {
+    "code": "E01C 7/22",
+    "description": "••••••Conglomerante introducido en caliente, p. ej. betún calentado [2006.01]"
+  },
+  {
+    "code": "E01C 7/24",
+    "description": "••••••Conglomerante introducido en emulsión o solución (realización de dispersiones o emulsiones para la construcción de carreteras C04B) [2006.01]"
+  },
+  {
+    "code": "E01C 7/26",
+    "description": "••••••mezclados con otros materiales, p. ej. con cemento, con goma, con cuero, con fibras [2006.01]"
+  },
+  {
+    "code": "E01C 7/30",
+    "description": "••••de materiales de empedrado y de otros conglomerantes, p. ej. de materia sintética [2006.01]"
+  },
+  {
+    "code": "E01C 7/32",
+    "description": "••••de varias capas diferentes hechas in situ [2006.01]"
+  },
+  {
+    "code": "E01C 7/34",
+    "description": "••••••sin que las capas estén ligadas entre sí [2006.01]"
+  },
+  {
+    "code": "E01C 7/35",
+    "description": "••••Recubrimientos o capas de superficie; Métodos para realizar la mezcla, inyectarlos o extenderlos [2006.01]"
+  },
+  {
+    "code": "E01C 7/36",
+    "description": "••por estabilización del suelo [2006.01]"
+  },
+  {
+    "code": "E01C 9/00",
+    "description": "Revestimientos especiales (especialmente adaptados para canchas de juego o de deporte E01C 13/00, para senderos peatonales, arcenes o pistas para ciclistas E01C 15/00); Revestimientos para partes especiales de carreteras o aeródromos (luces en el revestimiento E01C 17/00; tapas de agujeros para inspecciones o análogos E02D 29/14) [2006.01]"
+  },
+  {
+    "code": "E01C 9/02",
+    "description": "••Vías de carreteras (vías con carriles para guiar los vehículos E01B 25/28) [2006.01]"
+  },
+  {
+    "code": "E01C 9/04",
+    "description": "••Pavimentos para pasos a nivel de vías férreas [2006.01]"
+  },
+  {
+    "code": "E01C 9/06",
+    "description": "••Pavimentos para los bordes de los carriles de tranvías [2006.01]"
+  },
+  {
+    "code": "E01C 9/08",
+    "description": "••Pavimentos provisionales (parrillas de acero E01C 9/10) [2006.01]"
+  },
+  {
+    "code": "E01C 9/10",
+    "description": "••Parrillas de acero (para bocas de alcantarilla E03F 5/06; como elemento de construcción en general E04C) [2006.01]"
+  },
+  {
+    "code": "E01C 11/00",
+    "description": "Detalles de los pavimentos [2006.01]"
+  },
+  {
+    "code": "E01C 11/02",
+    "description": "••Disposición o estructura de las uniones; Desarrollo de la fabricación de las uniones; Relleno para uniones (juntas de estanqueidad no limitadas al revestimiento de carreteras o aeródromos E04B 1/68) [2006.01]"
+  },
+  {
+    "code": "E01C 11/04",
+    "description": "••••para pavimentos en hormigón [2006.01]"
+  },
+  {
+    "code": "E01C 11/06",
+    "description": "••••••Procesos de fabricación de las uniones [2006.01]"
+  },
+  {
+    "code": "E01C 11/08",
+    "description": "••••••Relleno metálico [2006.01]"
+  },
+  {
+    "code": "E01C 11/10",
+    "description": "••••••Relleno en materias plásticas o elásticas [2006.01]"
+  },
+  {
+    "code": "E01C 11/12",
+    "description": "••••••Relleno simultáneo metálico y en materias plásticas o elásticas [2006.01]"
+  },
+  {
+    "code": "E01C 11/14",
+    "description": "••••••Enclavijado [2006.01]"
+  },
+  {
+    "code": "E01C 11/16",
+    "description": "••Armaduras (para edificios en general E04C) [2006.01]"
+  },
+  {
+    "code": "E01C 11/18",
+    "description": "••••para revestimientos en hormigón [2006.01]"
+  },
+  {
+    "code": "E01C 11/20",
+    "description": "••••••para revestimientos en hormigón pretensado [2006.01]"
+  },
+  {
+    "code": "E01C 11/22",
+    "description": "••Cunetas; Bordillos de aceras (bordillos especialmente adaptados para alertar a los usuarios de las carreteras E01F 9/535) [2006.01]"
+  },
+  {
+    "code": "E01C 11/24",
+    "description": "••Procedimientos o disposiciones contra el deslizamiento o contra la intemperie [2006.01]"
+  },
+  {
+    "code": "E01C 11/26",
+    "description": "••••Dispositivos de calefacción o de soplado instalados permanentemente [2006.01]"
+  },
+  {
+    "code": "E01C 13/00",
+    "description": "Pavimentaciones o cimentaciones especialmente adaptados para las canchas de juego o de deportes (planos de conjunto A63C 19/00) [2006.01]"
+  },
+  {
+    "code": "E01C 13/02",
+    "description": "••Cimentaciones, p. ej. con disposiciones para drenaje o para calentamiento [2006.01]"
+  },
+  {
+    "code": "E01C 13/04",
+    "description": "••Pavimentaciones hechas con elementos prefabricados (E01C 13/08, E01C 13/10 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "E01C 13/06",
+    "description": "••Pavimentaciones realizadas in situ (E01C 13/08, E01C 13/10 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "E01C 13/08",
+    "description": "••Revestimientos que imitan el césped [2006.01]"
+  },
+  {
+    "code": "E01C 13/10",
+    "description": "••para la práctica en el interior o en el exterior de deportes sobre hielo o sobre nieve (E01C 13/08 tienen prioridad; `producción de nieve o hielo para deportes de invierno o actividades recreativas similares F25C 3/00) [2006.01]"
+  },
+  {
+    "code": "E01C 13/12",
+    "description": "••••para los deportes sobre nieve [2006.01]"
+  },
+  {
+    "code": "E01C 15/00",
+    "description": "Pavimentos especialmente adaptados para senderos de peatones, arcenes o pistas para ciclistas [2006.01]"
+  },
+  {
+    "code": "E01C 17/00",
+    "description": "Luces de pavimentos, es decir, estructuras translúcidas integradas dentro de la superficie (adoquines especialmente concebidos para la señalización de carreteras E01F 9/524) [2006.01]"
+  },
+  {
+    "code": "E01C 19/00",
+    "description": "Máquinas, herramientas o dispositivos auxiliares para preparar o repartir los materiales de revestimiento, para trabajar los materiales in situ, o para formar, consolidar o terminar el revestimiento (estabilización de la superficie E01C 21/00; aparatos especialmente diseñados para reacondicionar o reparar el revestimiento E01C 23/00) [2006.01]"
+  },
+  {
+    "code": "E01C 19/02",
+    "description": "••para preparar los materiales [2006.01]"
+  },
+  {
+    "code": "E01C 19/05",
+    "description": "••••Aparatos para machacar, de pulverización o de desintegración (en general B02C); Aparatos para cribar, limpiar o calentar los agregados [2006.01]"
+  },
+  {
+    "code": "E01C 19/08",
+    "description": "••••Aparatos para el transporte y la fusión del asfalto, betún, alquitrán o análogos (calderas móviles para la fusión del alquitrán, asfaltos o productos análogos en general C10C 3/12) [2006.01]"
+  },
+  {
+    "code": "E01C 19/10",
+    "description": "••••Aparatos o instalaciones para mezclar o preaplicar agregados o productos de relleno con conglomerantes no hidráulicos, p. ej. con betún, con resinas; Aparatos para premezclar de nuevo las mezclas no hidráulicas antes de colocarlas in situ o para reacondicionar las composiciones no hidráulicas recuperadas [2006.01]"
+  },
+  {
+    "code": "E01C 19/12",
+    "description": "••para repartir los materiales granulados o líquidos (E01C 23/07 tiene prioridad; para llenar las uniones o ranuras E01C 23/02, E01C 23/09) [2006.01]"
+  },
+  {
+    "code": "E01C 19/15",
+    "description": "••••para depositar piedras o materiales similares no aplicados, o para aplanar o extender éstos sin apisonamiento, p. ej. para hiladas de piedra machacada, colchones de arena para adoquinado (E01C 19/52 tiene prioridad; distribución E01C 19/20) [2006.01]"
+  },
+  {
+    "code": "E01C 19/16",
+    "description": "••••para aplicar o extender materiales líquidos, p. ej. sustancias de betún (E01C 19/45, E01C 23/02, E01C 23/03, E01C 23/16 tienen prioridad; pulverización o aplicación de líquidos u otros materiales fluidos a las superficies en general B05) [2006.01]"
+  },
+  {
+    "code": "E01C 19/17",
+    "description": "••••••Aplicación por pulverización [2006.01]"
+  },
+  {
+    "code": "E01C 19/18",
+    "description": "••••Dispositivos para repartir los materiales de empedrado mezclados con los conglomerantes, p. ej. con cemento, con betún, sin efecto de consolidación o aplanamiento (E01C 19/20, E01C 19/47 tienen prioridad; instalaciones para el transporte del hormigón o análogo B65G) [2006.01]"
+  },
+  {
+    "code": "E01C 19/20",
+    "description": "••••Aparatos para repartir, p. ej. para extender, materiales granulados o pulverulentos, p. ej. arena o gravilla, sal, conglomerantes secos (extendedores de abono A01C 15/00) [2006.01]"
+  },
+  {
+    "code": "E01C 19/21",
+    "description": "••••para extender simultáneamente, pero por separado un material líquido o un material granular o pulverulento, p. ej. betún y grava, con o sin derramamiento [2006.01]"
+  },
+  {
+    "code": "E01C 19/22",
+    "description": "••para consolidar o terminar una capa de materiales que no hayan aún cuajado (E01C 23/02 tiene prioridad; aparatos para producir vibraciones en general B06B) [2006.01]"
+  },
+  {
+    "code": "E01C 19/23",
+    "description": "••••Rodillos con este fin; Rodillos semejantes que pueden emplearse igualmente para compactar el suelo (E01C 19/43 tiene prioridad; especialmente adaptados a fines agrícolas A01B 29/00; rodillos para jardinería A01G 20/35; realización o mantenimiento de superficies de nieve o hielo E01H 4/00; para la compactación del suelo solamente E02D 3/026) [2006.01]"
+  },
+  {
+    "code": "E01C 19/24",
+    "description": "••••••a mano (E01C 19/27-E01C 19/29 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "E01C 19/25",
+    "description": "••••••propulsados por animales o vehículos (E01C 19/26-E01C 19/29 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "E01C 19/26",
+    "description": "••••••automotores o montados en vehículos de carreteras (E01C 19/27-E01C 19/29 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "E01C 19/27",
+    "description": "••••••con elementos de cilindrado deformables por elasticidad, p. ej. neumáticos (vibración o percusión E01C 19/28) [2006.01]"
+  },
+  {
+    "code": "E01C 19/28",
+    "description": "••••••Rodillos vibrantes o rodillos sometidos a percusiones, p. ej. a un martilleo (E01C 19/29 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "E01C 19/29",
+    "description": "••••••Aparatos rodantes proyectados para aplicar una presión de rodadura inferior a su propio peso, p. ej. rodillos terminadores que se desplazan sobre carriles-guía [2006.01]"
+  },
+  {
+    "code": "E01C 19/30",
+    "description": "••••Aparatos para apisonar o que funcionan por vibraciones diferentes de los rodillos (E01C 23/02, E01C 23/04 tienen prioridad; dispositivos repartidores vibrantes E01C 19/12; rodillos vibrantes o de percusión E01C 19/28; herramientas de percusión portátiles en general B25D; apisonado o trabajo por vibración del suelo en general E02D 3/046) [2006.01]"
+  },
+  {
+    "code": "E01C 19/32",
+    "description": "••••••Pisones o patas de cabra sostenidos o accionados a mano [2006.01]"
+  },
+  {
+    "code": "E01C 19/34",
+    "description": "••••••Pisones o patas de cabra mecánicos [2006.01]"
+  },
+  {
+    "code": "E01C 19/35",
+    "description": "••••••••Herramientas sostenidas o dirigidas a mano (E01C 19/36-E01C 19/40 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "E01C 19/36",
+    "description": "••••••••con cámaras de explosión de acción directa [2006.01]"
+  },
+  {
+    "code": "E01C 19/38",
+    "description": "••••••••con medios especiales para provocar vibraciones [2006.01]"
+  },
+  {
+    "code": "E01C 19/40",
+    "description": "••••••••proyectados para dar al revestimiento un terminado sin desigualdades, p. ej. terminadores por apisonado o terminadores por vibración [2006.01]"
+  },
+  {
+    "code": "E01C 19/41",
+    "description": "••••Aparatos que tienen simultáneamente rodillos y herramientas de apisonado, de bateado y de vibración [2006.01]"
+  },
+  {
+    "code": "E01C 19/42",
+    "description": "••••Máquinas para dar a los revestimientos colocados en fresco un terminado sin desigualdades diferentes de los que lo hacen por apisonado, por rodillo apisonado o vibración (para el reparto únicamente E01C 19/12) [2006.01]"
+  },
+  {
+    "code": "E01C 19/43",
+    "description": "••••Máquinas o dispositivos para endurecer o modelar revestimientos colocados en fresco, p. ej. rodillos para inscribir escotaduras [2006.01]"
+  },
+  {
+    "code": "E01C 19/44",
+    "description": "••••Herramientas accionadas a mano diferentes de los rodillos, pisones o vibradores especialmente proyectados para dar un terminado a la superficie de los revestimientos en fresco (E01C 19/43 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "E01C 19/45",
+    "description": "••Aparatos portátiles para preparar o para preparar y a la vez esparcir sobre la carretera conglomerantes líquidos compuestos, p. ej. de betún emulsionado, de asfalto fundido (derramamiento únicamente E01C 19/16) [2006.01]"
+  },
+  {
+    "code": "E01C 19/46",
+    "description": "••para preparar y colocar los materiales (E01C 19/45 tiene prioridad; conformación de superficies por mezcla de agregados apropiados con conglomerantes E01C 21/00) [2006.01]"
+  },
+  {
+    "code": "E01C 19/47",
+    "description": "••••Hormigoneras para cemento hidráulico combinadas con medios de reparto especialmente proyectadas para la reconstrucción de carreteras (hormigoneras en sí\n\t\t\t\t\t\t\t\t\t\t\tB28C) [2006.01]"
+  },
+  {
+    "code": "E01C 19/48",
+    "description": "••para depositar los materiales y consolidarlos, o para terminar la superficie [2006.01]"
+  },
+  {
+    "code": "E01C 19/50",
+    "description": "••Encofrados móviles para la construcción de carreteras (E01C 23/02, E01C 23/04 tienen prioridad; encofrados permanentes E01C 3/00-E01C 7/00; encofrados de deslizamiento E01C 19/48); Disposiciones o dispositivos para modelar elementos separados del revestimiento, p. ej. bordillos de acera, in situ [2006.01]"
+  },
+  {
+    "code": "E01C 19/52",
+    "description": "••Aparatos para colocar in situ elementos separados del revestimiento prefabricados, p. ej. bordillos de acera (preformación y colocación de bandas continuas E01C 19/46; formación de elementos del revestimiento in situ\n\t\t\t\t\t\t\t\t\t\tE01C 19/50) [2006.01]"
+  },
+  {
+    "code": "E01C 21/00",
+    "description": "Aparatos o procedimientos para la estabilización de la superficie para la construcción de carreteras o con fines análogos, p. ej. mezclando agregados con conglomerante (estabilización del suelo bajo un revestimiento existente E01C 23/10; materiales acondicionadores o estabilizadores de suelos C09K 17/00; consolidación del suelo en general E02D 3/12) [2006.01]"
+  },
+  {
+    "code": "E01C 21/02",
+    "description": "••Fusión, calcinación o quemado del suelo in situ [2006.01]"
+  },
+  {
+    "code": "E01C 23/00",
+    "description": "Dispositivos o disposiciones auxiliares para la construcción, la reparación, el reacondicionamiento o la colocación de carreteras o de superficies similares (aparatos para reacondicionar las composiciones no hidráulicas recuperadas E01C 19/10) [2006.01]"
+  },
+  {
+    "code": "E01C 23/01",
+    "description": "••Dispositivos o medios auxiliares previos a la colocación de un nuevo revestimiento o para verificar su configuración, p. ej. gálibos, soportes de guías de enrase (carriles-guía E01C 19/50); Aplicaciones de aparatos de medida, de indicación del registro de la configuración de una superficie de un revestimiento existente, p. ej. profilógrafos (E01C 23/07 tiene prioridad; medida de la rugosidad o de la irregularidad en general G01B) [2006.01]"
+  },
+  {
+    "code": "E01C 23/02",
+    "description": "••Dispositivos para formar, tratar o llenar las ranuras o surcos análogos en un revestimiento no endurecido aún, p. ej. para las juntas o las marcas (modelaje del revestimiento E01C 19/43); Cajones móviles para ellos (cajones fijos E01C 11/02); Dispositivos para introducir piezas intercaladas o soportes móviles de piezas intercaladas en un revestimiento no endurecido aún (E01C 23/04 tiene prioridad; soportes móviles de piezas intercaladas E01C 11/02) [2006.01]"
+  },
+  {
+    "code": "E01C 23/03",
+    "description": "••Disposiciones para tratar el revestimiento; Dispositivos para aplicar los medios de tratamiento; Dispositivos para colocar un asiento prefabricado, p. ej. hojas o membranas (armaduras E01C 23/04); Protección del revestimiento durante la construcción o del tratamiento, p. ej. empleo de toldos (barreras camineras E01F 13/00) [2006.01]"
+  },
+  {
+    "code": "E01C 23/04",
+    "description": "••Dispositivos para colocar armaduras o barras de unión; Soportes móviles para armaduras (soportes no móviles para ello E01C 11/16; encofrados laterales proyectados para soportar las armaduras E01C 19/50); Dispositivos, p. ej. encofrados móviles para formar conductos sensiblemente horizontales en el revestimiento, p. ej. para armaduras precomprimidas [2006.01]"
+  },
+  {
+    "code": "E01C 23/05",
+    "description": "••Dispositivos para colocar o retirar los encofrados [2006.01]"
+  },
+  {
+    "code": "E01C 23/06",
+    "description": "••Dispositivos o arreglos para trabajar la superficie terminada (trabajo o disposición del revestimiento colocado en fresco E01C 19/42-E01C 19/44, E01C 23/02; picos para minería E21C 35/18); Dispositivos para reparar las superficies de los revestimientos dañados [2006.01]"
+  },
+  {
+    "code": "E01C 23/07",
+    "description": "••••Aparatos que combinan la medición de la configuración superficial del revestimiento con la aplicación de material proporcionalmente a las irregularidades medida (medios de medida únicamente E01C 23/01) [2006.01]"
+  },
+  {
+    "code": "E01C 23/08",
+    "description": "••••para volver la superficie rugosa o para crear asperezas regulares; para igualar suprimiendo las partes salientes o para retirar materiales enlazados sobre la superficie, p. ej. marcas (levantamiento de materias no ligadas con la superficie E01H 1/00; para convertir en rugosa la superficie del hielo o para despegarla E01H 5/12) [2006.01]"
+  },
+  {
+    "code": "E01C 23/082",
+    "description": "••••••utilizando herramientas no propulsadas [2006.01]"
+  },
+  {
+    "code": "E01C 23/085",
+    "description": "••••••utilizando herramientas propulsadas, p. ej. vibradores [2006.01]"
+  },
+  {
+    "code": "E01C 23/088",
+    "description": "••••••••Herramientas rotativas, p. ej. tambores de fresado [2006.01]"
+  },
+  {
+    "code": "E01C 23/09",
+    "description": "••••para formar cortes, ranuras o vaciados, p. ej. para formar uniones o surcos para el marcaje, para el cortado de las secciones que se van a retirar; para limpiar, tratar o llenar los surcos, ranuras, vaciados o fisuras; para recortar los bordes del revestimiento [2006.01]"
+  },
+  {
+    "code": "E01C 23/10",
+    "description": "••••para levantar o volver a colocar a nivel los revestimientos hundidos; para rellenar los huecos de debajo del revestimiento; para introducir materiales en la subestructura (consolidación del suelo en general E02D 3/12) [2006.01]"
+  },
+  {
+    "code": "E01C 23/12",
+    "description": "••••para levantar, arrancar o romper los revestimientos (proyectados simultáneamente para colocar in situ y retirar el revestimiento E01C 19/52) [2006.01]"
+  },
+  {
+    "code": "E01C 23/14",
+    "description": "••para calentar o secar los basamentos, los revestimientos o los materiales, p. ej. la pintura (E01C 23/03 tiene prioridad; dispositivos de calefacción o de secado incorporados en el revestimiento E01C 11/26; estabilización de la superficie por fusión, calcinación o quemado del suelo in situ\n\t\t\t\t\t\t\t\t\t\tE01C 21/02; para la limpieza de calles E01H 1/08; fusión de la nieve o del hielo sobre el revestimiento E01H 5/10) [2006.01]"
+  },
+  {
+    "code": "E01C 23/16",
+    "description": "••Dispositivos para jalonar, colocar o formar las marcas de circulación u otras sobre el pavimento terminado (E01C 23/14 tiene prioridad; introducir piezas intercaladas en el pavimento no endurecido aún o para conformar E01C 23/02, en los entrantes realizados en el pavimento E01C 23/09; señalización de las pistas de tenis o canchas de juego A63C 19/06; aplicación de líquidos u otros materiales fluidos sobre las superficies en general B05; marcadores para la superficie de carreteras per se\n\t\t\t\t\t\t\t\t\t\tE01F 9/50); Protección de las marcas frescas [2006.01]"
+  },
+  {
+    "code": "E01C 23/18",
+    "description": "••••para aplicar marcas prefabricadas [2006.01]"
+  },
+  {
+    "code": "E01C 23/20",
+    "description": "••••para realizar marcas in situ [2006.01]"
+  },
+  {
+    "code": "E01C 23/22",
+    "description": "••••••por pulverización [2006.01]"
+  },
+  {
+    "code": "E01C 23/24",
+    "description": "••••••por colada [2006.01]"
+  }
+]

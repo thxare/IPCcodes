@@ -1,0 +1,434 @@
+[
+  {
+    "code": "G03F 1/00",
+    "description": "Originales para la producción por vía fotomecánica de superficies texturadas, p. ej. mascaras, foto-mascaras o reticulas; Máscara en blanco o películas para ello; Contenedores especialmente adaptados a este efecto; Su preparación. [2012.01]"
+  },
+  {
+    "code": "G03F 1/20",
+    "description": "••Máscaras o máscaras vacías para imagen por haz de partículas cargadas [CPB] radiación, p. ej. por haz de electrones; Su preparación [2012.01]"
+  },
+  {
+    "code": "G03F 1/22",
+    "description": "••máscaras o máscaras vacías para imagen por radiación de 100 nm o longitud de onda inferior, p. ej. máscaras de rayos X, máscaras de ultra-violeta extremo [EUV]; Su preparación [2012.01]"
+  },
+  {
+    "code": "G03F 1/24",
+    "description": "••••Máscaras de reflexión; Su preparación [2012.01]"
+  },
+  {
+    "code": "G03F 1/26",
+    "description": "••Máscaras de desplazamiendo de fase [PSM]; PSM en blanco; Su preparación [2012.01]"
+  },
+  {
+    "code": "G03F 1/28",
+    "description": "••••con tres o más fases diversas en el mismo PSM; Su preparación [2012.01]"
+  },
+  {
+    "code": "G03F 1/29",
+    "description": "••••Bordes o estabilizadores PSM; Su preparación [2012.01]"
+  },
+  {
+    "code": "G03F 1/30",
+    "description": "••••Alternando PSM, p. ej. PSM Levenson-Shibuya; Su preparación [2012.01]"
+  },
+  {
+    "code": "G03F 1/32",
+    "description": "••••Atenuando PSM [att-PSM], p. ej. medio tono PSM o PSM con parte de desplazamiento de fase semi-transparente; Su preparación [2012.01]"
+  },
+  {
+    "code": "G03F 1/34",
+    "description": "••••Fase avanzada PSM, p. ej. PSM sin cromo; Su preparación [2012.01]"
+  },
+  {
+    "code": "G03F 1/36",
+    "description": "••Máscaras que poseen características de correción por proximidad; Su preparación, p. ej. procesos de diseño para corrección de proximidad óptica [OPC] [2012.01]"
+  },
+  {
+    "code": "G03F 1/38",
+    "description": "••Máscaras que poseen características auxiliares, p. ej. recubrimientos especiales o marcas de alineación o de prueba; Su preparación [2012.01]"
+  },
+  {
+    "code": "G03F 1/40",
+    "description": "••••Características relacionadas con descarga eletrostática [ESD], p. ej. recubrimientos antiestáticos o una capa de metal conductor alrededor del sustrato de la máscara [2012.01]"
+  },
+  {
+    "code": "G03F 1/42",
+    "description": "••••Características de alineación o de registro, p. ej. marcas de alineación de los sustratos de la máscara [2012.01]"
+  },
+  {
+    "code": "G03F 1/44",
+    "description": "••••Características de pruebas o medida, p. ej. patrones de rendija, monitores de enfoque, escala de diente de sierra o dentada [2012.01]"
+  },
+  {
+    "code": "G03F 1/46",
+    "description": "••••Recubrimientos antirreflectantes [2012.01]"
+  },
+  {
+    "code": "G03F 1/48",
+    "description": "••••Revestimientos de protección [2012.01]"
+  },
+  {
+    "code": "G03F 1/50",
+    "description": "••Máscaras vacías no cubiertos por los grupos G03F 1/20-G03F 1/26; Su preparación [2012.01]"
+  },
+  {
+    "code": "G03F 1/52",
+    "description": "••Reflectores [2012.01]"
+  },
+  {
+    "code": "G03F 1/54",
+    "description": "••Absorbentes, p. ej. materiales opacos [2012.01]"
+  },
+  {
+    "code": "G03F 1/56",
+    "description": "••••Absorventes orgánicos, p. ej. foto-resistentes [2012.01]"
+  },
+  {
+    "code": "G03F 1/58",
+    "description": "••••con dos o más capas de absorción diferentes, p. ej., capas de absorbentes apiladas [2012.01]"
+  },
+  {
+    "code": "G03F 1/60",
+    "description": "••Substratos [2012.01]"
+  },
+  {
+    "code": "G03F 1/62",
+    "description": "••Películas o agrupación de películas, p. ej. con la membrana en la estructura de apoyo; Su preparación [2012.01]"
+  },
+  {
+    "code": "G03F 1/64",
+    "description": "••••caracterizado por los marcos, p. ej. estructura o material de la misma [2012.01]"
+  },
+  {
+    "code": "G03F 1/66",
+    "description": "••Recipientes especialmente adaptados para las máscaras, máscaras vacías o películas; Su preparación [2012.01]"
+  },
+  {
+    "code": "G03F 1/68",
+    "description": "••Procesos de preparación no cubiertos por los grupos G03F 1/20-G03F 1/50 [2012.01]"
+  },
+  {
+    "code": "G03F 1/70",
+    "description": "••••Adaptación de la capa básica o el diseño de máscaras para los requerimientos de proceso litográfico, p. ej. corrección de la segunda iteración de la máscara patrón para imágenes [2012.01]"
+  },
+  {
+    "code": "G03F 1/72",
+    "description": "••••Reparación o corrección de los de defectos de la máscara [2012.01]"
+  },
+  {
+    "code": "G03F 1/74",
+    "description": "••••••por haz de partículas cargadas [CPB], p. ej. haz de iones enfocado [2012.01]"
+  },
+  {
+    "code": "G03F 1/76",
+    "description": "••••Patrones de máscaras por imagén [2012.01]"
+  },
+  {
+    "code": "G03F 1/78",
+    "description": "••••••por haz de partículas cargadas [CPB], p. ej. haz de electrones [2012.01]"
+  },
+  {
+    "code": "G03F 1/80",
+    "description": "••••ataque químico [2012.01]"
+  },
+  {
+    "code": "G03F 1/82",
+    "description": "••••Procesos auxiliares, p. ej. limpieza [2012.01]"
+  },
+  {
+    "code": "G03F 1/84",
+    "description": "••••••Inspección [2012.01]"
+  },
+  {
+    "code": "G03F 1/86",
+    "description": "••••••••por haz de partículas cargadas [CPB] [2012.01]"
+  },
+  {
+    "code": "G03F 1/88",
+    "description": "••preparado por los procesos fotográficos para la producción de originales simulando relieve [2012.01]"
+  },
+  {
+    "code": "G03F 1/90",
+    "description": "••preparado para los procesos de montaje [2012.01]"
+  },
+  {
+    "code": "G03F 1/92",
+    "description": "••preparado a partir de superficies de impresión [2012.01]"
+  },
+  {
+    "code": "G03F 3/00",
+    "description": "Separación de colores; Corrección de tonos (dispositivos de reproducción fotográfica en general G03B) [2006.01]"
+  },
+  {
+    "code": "G03F 3/02",
+    "description": "••por retoque [2006.01]"
+  },
+  {
+    "code": "G03F 3/04",
+    "description": "••por medios fotográficos [2006.01]"
+  },
+  {
+    "code": "G03F 3/06",
+    "description": "••••por enmascarado [2006.01]"
+  },
+  {
+    "code": "G03F 3/08",
+    "description": "••por medios fotoeléctricos [2006.01]"
+  },
+  {
+    "code": "G03F 3/10",
+    "description": "••Verificación de colores o de tonos de los negativos o positivos de selección [2006.01]"
+  },
+  {
+    "code": "G03F 5/00",
+    "description": "Procesos de la trama; Tramas con este fin [2006.01]"
+  },
+  {
+    "code": "G03F 5/02",
+    "description": "••por métodos de proyección (aparatos fotográficos G03B) [2006.01]"
+  },
+  {
+    "code": "G03F 5/04",
+    "description": "••••cambiando el efecto de la trama [2006.01]"
+  },
+  {
+    "code": "G03F 5/06",
+    "description": "••••cambiando el efecto de diafragma [2006.01]"
+  },
+  {
+    "code": "G03F 5/08",
+    "description": "••••utilizando tramas lineales [2006.01]"
+  },
+  {
+    "code": "G03F 5/10",
+    "description": "••••utilizando tramas de líneas cruzadas [2006.01]"
+  },
+  {
+    "code": "G03F 5/12",
+    "description": "••••utilizando otras tramas, p. ej. tramas granuladas [2006.01]"
+  },
+  {
+    "code": "G03F 5/14",
+    "description": "••por métodos de contacto [2006.01]"
+  },
+  {
+    "code": "G03F 5/16",
+    "description": "••••utilizando tramas de semitono grises [2006.01]"
+  },
+  {
+    "code": "G03F 5/18",
+    "description": "••••utilizando tramas de semitono coloreadas [2006.01]"
+  },
+  {
+    "code": "G03F 5/20",
+    "description": "••utilizando tramas para la impresión del grabado [2006.01]"
+  },
+  {
+    "code": "G03F 5/22",
+    "description": "••combinando varias tramas; Eliminación del muaré [2006.01]"
+  },
+  {
+    "code": "G03F 5/24",
+    "description": "••por exposiciones múltiples, p. ej. procesos combinados de fotografía de trazo y tramado [2006.01]"
+  },
+  {
+    "code": "G03F 7/00",
+    "description": "Producción por vía fotomecánica, p. ej. fotolitográfica, de superficies texturadas, p. ej. superficies impresas; Materiales a este efecto, p. ej. conllevando fotorreservas; Aparellaje especialmente adaptado a este efecto (utilizando estructuras de fotorreservas para procesos de producción particulares, ver en los lugares adecuados, p. ej. B44C, H01L, p. ej. H01L 21/00, H05K) [2006.01]"
+  },
+  {
+    "code": "G03F 7/004",
+    "description": "••Materiales fotosensibles (G03F 7/12, G03F 7/14 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G03F 7/008",
+    "description": "••••Azidas (G03F 7/075 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G03F 7/012",
+    "description": "••••••Azidas macromoleculares; Aditivos macromoleculares, p. ej. aglutinantes [2006.01]"
+  },
+  {
+    "code": "G03F 7/016",
+    "description": "••••Sales de diazonio, o bien compuestos de ellas (G03F 7/075 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G03F 7/021",
+    "description": "••••••Compuestos de diazonio macromoleculares; Aditivos macromoleculares, p. ej. aglutinantes [2006.01]"
+  },
+  {
+    "code": "G03F 7/022",
+    "description": "••••Quinonadiazidas (G03F 7/075 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G03F 7/023",
+    "description": "••••••Quinonadiazidas macromoleculares; Aditivos macromoleculares, p. ej. aglutinantes [2006.01]"
+  },
+  {
+    "code": "G03F 7/025",
+    "description": "••••Compuestos fotopolimerizables no macromoleculares que contienen triples enlaces carbono-carbono, p. ej. compuestos acetilénicos (G03F 7/075 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G03F 7/027",
+    "description": "••••Compuestos fotopolimerizables no macromoleculares que contienen dobles enlaces carbono-carbono, p. ej. compuestos etilénicos (G03F 7/075 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G03F 7/028",
+    "description": "••••••con sustancias que aumentan la fotosensibilidad, p. ej. fotoiniciadores [2006.01]"
+  },
+  {
+    "code": "G03F 7/029",
+    "description": "••••••••Compuestos inorgánicos; Compuestos de onio; Compuestos orgánicos que contienen heteroátomos diferentes del oxígeno, nitrógeno o azufre [2006.01]"
+  },
+  {
+    "code": "G03F 7/031",
+    "description": "••••••••Compuestos orgánicos no cubiertos por el grupo G03F 7/029 [2006.01]"
+  },
+  {
+    "code": "G03F 7/032",
+    "description": "••••••con aglutinantes [2006.01]"
+  },
+  {
+    "code": "G03F 7/033",
+    "description": "••••••••siendo los aglutinantes polímeros obtenidos por reacciones que hagan intervenir únicamente enlaces insaturados carbono-carbono, p. ej. polímeros vinílicos [2006.01]"
+  },
+  {
+    "code": "G03F 7/035",
+    "description": "••••••••siendo los aglutinantes poliuretanos [2006.01]"
+  },
+  {
+    "code": "G03F 7/037",
+    "description": "••••••••siendo los aglutinantes poliamidas o poliimidas [2006.01]"
+  },
+  {
+    "code": "G03F 7/038",
+    "description": "••••Compuestos macromoleculares que se vuelven insolubles o selectivamente mojables (G03F 7/075 tiene prioridad; azidas macromoleculares G03F 7/012; compuestos macromoleculares de diazonio G03F 7/021) [2006.01]"
+  },
+  {
+    "code": "G03F 7/039",
+    "description": "••••Compuestos macromoleculares fotodegradables, p. ej. reservas positivas sensibles a los electrones (G03F 7/075 tiene prioridad; quinonadiazidas macromoleculares G03F 7/023) [2006.01]"
+  },
+  {
+    "code": "G03F 7/04",
+    "description": "••••Cromatos (G03F 7/075 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G03F 7/06",
+    "description": "••••Sales de plata (G03F 7/075 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G03F 7/07",
+    "description": "••••••para difusión por transferencia [2006.01]"
+  },
+  {
+    "code": "G03F 7/075",
+    "description": "••••Compuestos que contienen silicio [2006.01]"
+  },
+  {
+    "code": "G03F 7/085",
+    "description": "••••Composiciones fotosensibles caracterizadas por los aditivos macromoleculares que aumentan la adherencia (G03F 7/075 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G03F 7/09",
+    "description": "••••caracterizados por detalles de estructura, p. ej. soportes, capas auxiliares (soportes para placas de impresión en general B41N) [2006.01]"
+  },
+  {
+    "code": "G03F 7/095",
+    "description": "••••••teniendo más de una capa fotosensible (G03F 7/075 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G03F 7/105",
+    "description": "••••••con sustancias, p. ej. indicadores, para obtener imágenes visibles [2006.01]"
+  },
+  {
+    "code": "G03F 7/11",
+    "description": "••••••con capas de recubrimiento o capas intermedias, p. ej. capas de anclaje [2006.01]"
+  },
+  {
+    "code": "G03F 7/115",
+    "description": "••••••con soportes o capas con medios para obtener un efecto de filtro o para aumentar el contacto en la reproducción al vacío [2006.01]"
+  },
+  {
+    "code": "G03F 7/12",
+    "description": "••Producción de formas de impresión para serigrafía o de formas de impresión similares, p. ej. clichés de multicopista. [2006.01]"
+  },
+  {
+    "code": "G03F 7/14",
+    "description": "••Producción de formas de impresión para colotipia [2006.01]"
+  },
+  {
+    "code": "G03F 7/16",
+    "description": "••Procesos de recubrimiento; Aparellaje con este fin (aplicación de capas sobre los materiales soporte en general B05; aplicación de capas fotosensibles sobre el soporte para la fotografía G03C 1/74) [2006.01]"
+  },
+  {
+    "code": "G03F 7/18",
+    "description": "••••Recubrimiento de superficies curvadas. [2006.01]"
+  },
+  {
+    "code": "G03F 7/20",
+    "description": "••Exposición; Aparellaje a este efecto (dispositivos de reproducción fotográfica de copias G03B 27/00) [2006.01]"
+  },
+  {
+    "code": "G03F 7/207",
+    "description": "••••Dispositivos de enfoque, p. ej. automático (posicionamiento y enfoque combinados G03F 9/02; sistemas para la generación automática de señales de enfoque G02B 7/28; dispositivos de enfoque para la reproducción fotográfica G03B 27/34) [2006.01]"
+  },
+  {
+    "code": "G03F 7/213",
+    "description": "••••Exposición simultánea con el mismo motivo luminoso de diferentes zonas de la misma superficie (G03F 7/207 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G03F 7/22",
+    "description": "••••Exposición sucesiva con el mismo motivo luminoso de diferentes zonas de la misma superficie (G03F 7/207 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G03F 7/23",
+    "description": "••••••Dispositivos automáticos para este efecto [2006.01]"
+  },
+  {
+    "code": "G03F 7/24",
+    "description": "••••Superficies curvadas [2006.01]"
+  },
+  {
+    "code": "G03F 7/26",
+    "description": "••Tratamiento de materiales fotosensibles; Aparellaje a este efecto (G03F 7/12-G03F 7/24 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G03F 7/28",
+    "description": "••••para obtener imágenes por espolvoreado (G03F 3/10 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G03F 7/30",
+    "description": "••••Eliminación según la imagen utilizando medios líquidos [2006.01]"
+  },
+  {
+    "code": "G03F 7/32",
+    "description": "••••••Composiciones líquidas a este efecto, p. ej. reveladores [2006.01]"
+  },
+  {
+    "code": "G03F 7/34",
+    "description": "••••Eliminación según la imagen por transferencia selectiva, p. ej. por arrancamiento [2006.01]"
+  },
+  {
+    "code": "G03F 7/36",
+    "description": "••••Eliminación según la imagen no cubierta por los grupos G03F 7/30-G03F 7/34, p. ej. utilizando una corriente gaseosa, un plasma [2006.01]"
+  },
+  {
+    "code": "G03F 7/38",
+    "description": "••••Tratamiento antes de la eliminación según la imagen, p. ej. precalentado [2006.01]"
+  },
+  {
+    "code": "G03F 7/40",
+    "description": "••••Tratamiento tras la eliminación según la imagen, p. ej. esmaltado [2006.01]"
+  },
+  {
+    "code": "G03F 7/42",
+    "description": "••••Eliminación de reservas o agentes a este efecto [2006.01]"
+  },
+  {
+    "code": "G03F 9/00",
+    "description": "Colocación o posicionamiento de originales, máscaras, tramas, hojas fotográficas, superficies texturadas, p. ej. automático (G03F 7/22 tiene prioridad; preparación de máscaras fotográficas G03F 1/00; en combinación con dispositivos de reproducción fotográfica para hacer reproducciones G03B 27/00) [2006.01]"
+  },
+  {
+    "code": "G03F 9/02",
+    "description": "••combinados con medios de enfoque automático (enfoque automático en general G02B 7/09; sistemas para la generación automática de señales de enfoque G02B 7/28) [2006.01]"
+  }
+]

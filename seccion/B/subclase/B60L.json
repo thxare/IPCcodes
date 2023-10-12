@@ -1,0 +1,746 @@
+[
+  {
+    "code": "B60L 1/00",
+    "description": "Suministro de la energía eléctrica al equipo auxiliar de los vehículos propulsados eléctricamente (disposiciones de los dispositivos de iluminación o señalización, su montaje o soporte, sus circuitos, para vehículos en genral B60Q) [2006.01]"
+  },
+  {
+    "code": "B60L 1/02",
+    "description": "••a circuitos de calefacción eléctrica [2006.01]"
+  },
+  {
+    "code": "B60L 1/04",
+    "description": "••••alimentados por la línea de distribuidor de energía [2006.01]"
+  },
+  {
+    "code": "B60L 1/06",
+    "description": "••••••que emplean una sola alimentación [2006.01]"
+  },
+  {
+    "code": "B60L 1/08",
+    "description": "••••••••Métodos o dispositivos para control y regulación [2006.01]"
+  },
+  {
+    "code": "B60L 1/10",
+    "description": "••••••con posibilidad de utilizar diferentes alimentaciones [2006.01]"
+  },
+  {
+    "code": "B60L 1/12",
+    "description": "••••••••Métodos o dispositivos de control o de regulación [2006.01]"
+  },
+  {
+    "code": "B60L 1/14",
+    "description": "••a los circuitos de iluminación eléctrica [2006.01]"
+  },
+  {
+    "code": "B60L 1/16",
+    "description": "••••alimentados por la línea de distribución de energía [2006.01]"
+  },
+  {
+    "code": "B60L 3/00",
+    "description": "Dispositivos eléctricos de seguridad sobre vehículos propulsados eléctricamente; Control de los parámetros de funcionamiento, p. ej. velocidad, deceleración o consumo de energía (métodos o disposición de circuitos para el control o monitoreo de baterías o pilas de combustible B60L 58/00) [2019.01]"
+  },
+  {
+    "code": "B60L 3/02",
+    "description": "••Dispositivos de hombre muerto [2006.01]"
+  },
+  {
+    "code": "B60L 3/04",
+    "description": "••Corte de la alimentación de energía en caso de falsa maniobra [2006.01]"
+  },
+  {
+    "code": "B60L 3/06",
+    "description": "••Limitación de la corriente de tracción en caso de sobrecarga mecánica [2006.01]"
+  },
+  {
+    "code": "B60L 3/08",
+    "description": "••Dispositivos para impedir una velocidad excesiva del vehículo [2006.01]"
+  },
+  {
+    "code": "B60L 3/10",
+    "description": "••Indicadores de patinaje de las ruedas [2006.01]"
+  },
+  {
+    "code": "B60L 3/12",
+    "description": "••Registro de los parámetros de funcionamiento [2006.01]"
+  },
+  {
+    "code": "B60L 5/00",
+    "description": "Colectores de corriente para líneas de alimentación de energía sobre los vehículos propulsados eléctricamente [2006.01]"
+  },
+  {
+    "code": "B60L 5/02",
+    "description": "••con dispositivo que quita el hielo [2006.01]"
+  },
+  {
+    "code": "B60L 5/04",
+    "description": "••que utilizan rodillos o zapatos deslizantes en contacto con el cable del trole (B60L 5/40 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B60L 5/06",
+    "description": "••••Estructura de los rodillos y de sus dispositivos de montaje [2006.01]"
+  },
+  {
+    "code": "B60L 5/08",
+    "description": "••••Estructura de las zapatas deslizantes y de sus dispositivos de montaje [2006.01]"
+  },
+  {
+    "code": "B60L 5/10",
+    "description": "••••Dispositivos que impiden que salte el colector [2006.01]"
+  },
+  {
+    "code": "B60L 5/12",
+    "description": "••••Características de estructura de polos y sus bases [2006.01]"
+  },
+  {
+    "code": "B60L 5/14",
+    "description": "••••••Dispositivos para bajar automáticamente un colector que ha saltado [2006.01]"
+  },
+  {
+    "code": "B60L 5/16",
+    "description": "••••••Dispositivos para elevar y colocar en posición al colector (B60L 5/34 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B60L 5/18",
+    "description": "••que utilizan colectores en forma de arco en contacto con el cable del trole [2006.01]"
+  },
+  {
+    "code": "B60L 5/19",
+    "description": "••••dispuestos para realizar un movimiento del colector en sentido perpendicular a la dirección de desplazamiento del vehículo [2006.01]"
+  },
+  {
+    "code": "B60L 5/20",
+    "description": "••••Detalles del contacto del arco [2006.01]"
+  },
+  {
+    "code": "B60L 5/22",
+    "description": "••••Organos de soporte para el arco de contacto [2006.01]"
+  },
+  {
+    "code": "B60L 5/24",
+    "description": "••••••Pantógrafos [2006.01]"
+  },
+  {
+    "code": "B60L 5/26",
+    "description": "••••••Mediopantógrafo, p. ej. que utilizan balancines de equilibrado [2006.01]"
+  },
+  {
+    "code": "B60L 5/28",
+    "description": "••••••Dispositivos para elevar y colocar en posición el colector [2006.01]"
+  },
+  {
+    "code": "B60L 5/30",
+    "description": "••••••••que utilizan resortes [2006.01]"
+  },
+  {
+    "code": "B60L 5/32",
+    "description": "••••••••que utilizan la presión de un fluido [2006.01]"
+  },
+  {
+    "code": "B60L 5/34",
+    "description": "••con dispositivos que permiten a un vehículo cruzar a otro utilizando la misma línea de alimentación [2006.01]"
+  },
+  {
+    "code": "B60L 5/36",
+    "description": "••con medio de colectar la corriente simultáneamente sobre más de un colector, p. ej. sobre más de una fase [2006.01]"
+  },
+  {
+    "code": "B60L 5/38",
+    "description": "••para colectar la corriente sobre un raíl conductor (B60L 5/40 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B60L 5/39",
+    "description": "••••sobre un tercer raíl [2006.01]"
+  },
+  {
+    "code": "B60L 5/40",
+    "description": "••para colectar la corriente sobre líneas dispuestas en conductos ranurados [2006.01]"
+  },
+  {
+    "code": "B60L 5/42",
+    "description": "••para colectar la corriente a partir de piezas de contacto individuales conectadas a la línea de alimentación [2006.01]"
+  },
+  {
+    "code": "B60L 7/00",
+    "description": "Sistemas de frenos electrodinámicos para vehículos, en general [2006.01]"
+  },
+  {
+    "code": "B60L 7/02",
+    "description": "••Frenado dinamoeléctrico por resistencia (B60L 7/22 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B60L 7/04",
+    "description": "••••para vehículos propulsados por motores de corriente continua [2006.01]"
+  },
+  {
+    "code": "B60L 7/06",
+    "description": "••••para vehículos propulsados por motores de corriente alterna [2006.01]"
+  },
+  {
+    "code": "B60L 7/08",
+    "description": "••••que controlan el efecto de frenado (B60L 7/04, B60L 7/06 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "B60L 7/10",
+    "description": "••Frenado dinamoeléctrico por regeneración (B60L 7/22 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B60L 7/12",
+    "description": "••••para vehículos propulsados por motores de corriente continua [2006.01]"
+  },
+  {
+    "code": "B60L 7/14",
+    "description": "••••para vehículos propulsados por motores de corriente alterna [2006.01]"
+  },
+  {
+    "code": "B60L 7/16",
+    "description": "••••para vehículos que tienen un transformador entre la fuente de energía y el motor [2006.01]"
+  },
+  {
+    "code": "B60L 7/18",
+    "description": "••••control del efecto de frenado (B60L 7/12, B60L 7/14, B60L 7/16 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "B60L 7/20",
+    "description": "••Frenado por suministro de energía de recuperación al movimiento motor sobre los vehículos que tienen generadores accionados por el motor [2006.01]"
+  },
+  {
+    "code": "B60L 7/22",
+    "description": "••Frenado dinamoeléctrico por resistencia combinada con el frenado dinamoeléctrico por regeneración [2006.01]"
+  },
+  {
+    "code": "B60L 7/24",
+    "description": "••con frenado adicional mecánico o electromagnético [2006.01]"
+  },
+  {
+    "code": "B60L 7/26",
+    "description": "••••que controlan el efecto de frenado [2006.01]"
+  },
+  {
+    "code": "B60L 7/28",
+    "description": "••Frenado por corrientes de Foucault [2006.01]"
+  },
+  {
+    "code": "B60L 8/00",
+    "description": "Propulsión eléctrica a partir de energía extraída de las fuerzas de la naturaleza, p. ej. del sol o del viento [2006.01]"
+  },
+  {
+    "code": "B60L 9/00",
+    "description": "Propulsión eléctrica a partir de energía externa al vehículo (propulsión eléctrica para vehículos mono rail, vehículos suspendidos o ferrocarriles de cremallera B60L 13/00; en combinación con baterías o pilas de combustible en el vehículo B60L 50/53) [2019.01]"
+  },
+  {
+    "code": "B60L 9/02",
+    "description": "••que utilizan motores de corriente continua [2006.01]"
+  },
+  {
+    "code": "B60L 9/04",
+    "description": "••••alimentados por líneas de corriente continua [2006.01]"
+  },
+  {
+    "code": "B60L 9/06",
+    "description": "••••••con conversión por metadinamo [2006.01]"
+  },
+  {
+    "code": "B60L 9/08",
+    "description": "••••alimentados por líneas de corriente alterna [2006.01]"
+  },
+  {
+    "code": "B60L 9/10",
+    "description": "••••••con transformadores rotativos [2006.01]"
+  },
+  {
+    "code": "B60L 9/12",
+    "description": "••••••con transformadores estáticos [2006.01]"
+  },
+  {
+    "code": "B60L 9/14",
+    "description": "••••alimentados por líneas de energía de tipos diferentes [2006.01]"
+  },
+  {
+    "code": "B60L 9/16",
+    "description": "••utilizando motores de corriente alterna por inducción [2006.01]"
+  },
+  {
+    "code": "B60L 9/18",
+    "description": "••••alimentados por líneas de corriente continua [2006.01]"
+  },
+  {
+    "code": "B60L 9/20",
+    "description": "••••••monofásicos [2006.01]"
+  },
+  {
+    "code": "B60L 9/22",
+    "description": "••••••polifásicos [2006.01]"
+  },
+  {
+    "code": "B60L 9/24",
+    "description": "••••alimentados por líneas de corriente alterna [2006.01]"
+  },
+  {
+    "code": "B60L 9/26",
+    "description": "••••••monofásicos [2006.01]"
+  },
+  {
+    "code": "B60L 9/28",
+    "description": "••••••polifásicos [2006.01]"
+  },
+  {
+    "code": "B60L 9/30",
+    "description": "••••alimentados por líneas de energía de distintas clases [2006.01]"
+  },
+  {
+    "code": "B60L 9/32",
+    "description": "••que utilizan motores de corriente alterna de desplazamiento de escobillas [2006.01]"
+  },
+  {
+    "code": "B60L 13/00",
+    "description": "Propulsión eléctrica para vehículos monorail,  vehículos suspendidos o ferrocarriles de cremallera; Suspensión o levitación magnéticas para vehículos [2006.01]"
+  },
+  {
+    "code": "B60L 13/03",
+    "description": "••Propulsión eléctrica para motores lineares [2006.01]"
+  },
+  {
+    "code": "B60L 13/04",
+    "description": "••Suspensión o levitación magnéticas para vehículos [2006.01]"
+  },
+  {
+    "code": "B60L 13/06",
+    "description": "••••Medios para determinar o controlar la posición o situación del vehículo con respecto a la vía [2006.01]"
+  },
+  {
+    "code": "B60L 13/08",
+    "description": "••••••para la posición lateral [2006.01]"
+  },
+  {
+    "code": "B60L 13/10",
+    "description": "••Combinaciones de propulsión eléctrica y suspensión magnética o de levitación [2006.01]"
+  },
+  {
+    "code": "B60L 15/00",
+    "description": "Métodos, circuitos o dispositivos para controlar la velocidad de los motores de tracción de vehículos propulsados eléctricamente, p.ej.  la velocidad de los motores de tracción, para realizar rendimientos deseados,; Adaptación sobre el vehículo propulsado eléctricamente de la instalación de control a distancia a partir de un lugar fijo , a partir bien de diferentes puntos del vehículo, bien de diferentes vehículos de un mismo tren [2006.01]"
+  },
+  {
+    "code": "B60L 15/02",
+    "description": "••caracterizados por la forma de la corriente utilizada en el circuito de control [2006.01]"
+  },
+  {
+    "code": "B60L 15/04",
+    "description": "••••que utilizan la corriente continua [2006.01]"
+  },
+  {
+    "code": "B60L 15/06",
+    "description": "••••que utilizan una corriente alterna sensiblemente sinusoidal [2006.01]"
+  },
+  {
+    "code": "B60L 15/08",
+    "description": "••••que utilizan corrientes de impulsos [2006.01]"
+  },
+  {
+    "code": "B60L 15/10",
+    "description": "••para control automático superpuesto al control humano para limitar la aceleración del vehículo, p. ej. para impedir una corriente excesiva en el motor (dispositivos eléctricos de seguridad B60L 3/00) [2006.01]"
+  },
+  {
+    "code": "B60L 15/12",
+    "description": "••••con circuitos controlados por relés o contactores [2006.01]"
+  },
+  {
+    "code": "B60L 15/14",
+    "description": "••••con controlador principal accionado por un servomotor (B60L 15/18 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B60L 15/16",
+    "description": "••••con controlador principal accionado con ayuda de un mecanismo de gatillo (B60L 15/18 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B60L 15/18",
+    "description": "••••sin cierre o apertura de contacto, p. ej. que utilizan un transductor [2006.01]"
+  },
+  {
+    "code": "B60L 15/20",
+    "description": "••para el control de vehículo o de su motor, para realizar rendimientos deseados, p. ej. velocidad, par, variación programada de la velocidad [2006.01]"
+  },
+  {
+    "code": "B60L 15/22",
+    "description": "••••con secuencia de operaciones de interruptores interdependientes, p. ej. relés, contactores, tambor de programa [2006.01]"
+  },
+  {
+    "code": "B60L 15/24",
+    "description": "••••con controlador principal controlado por servomotor (B60L 15/28 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B60L 15/26",
+    "description": "••••con controlador principal controlado por un mecanismo de gatillo (B60L 15/28 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B60L 15/28",
+    "description": "••••sin cierre o apertura de contacto, p. ej. que utilizan un transductor [2006.01]"
+  },
+  {
+    "code": "B60L 15/30",
+    "description": "••••con medios para pasar al control humano [2006.01]"
+  },
+  {
+    "code": "B60L 15/32",
+    "description": "••Control o regulación de los vehículos de varios motores, propulsados eléctricamente [2006.01]"
+  },
+  {
+    "code": "B60L 15/34",
+    "description": "••••con control humano de un dispositivo de accionamiento [2006.01]"
+  },
+  {
+    "code": "B60L 15/36",
+    "description": "••••••con control automático superpuesto, p. ej. para evitar una corriente excesiva en el motor [2006.01]"
+  },
+  {
+    "code": "B60L 15/38",
+    "description": "••••con control automático [2006.01]"
+  },
+  {
+    "code": "B60L 15/40",
+    "description": "••Adaptación sobre el vehículo de la instalación de control a distancia a partir de un lugar fijo (dispositivos dispuestos a lo largo de la vía para controlar los dispositivos sobre vehículos ferroviarios B61L 3/00; sistemas centrales de control de tráfico ferroviario B61L 27/00) [2006.01]"
+  },
+  {
+    "code": "B60L 15/42",
+    "description": "••Adaptación sobre el vehículo de la instalación de control a distancia a partir bien de diferentes puntos del vehículo, bien de diferentes vehículos de un mismo tren (B60L 15/32 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B60L 50/00",
+    "description": "Propulsión eléctrica a partir de energía suministrada en el interior del vehículo (a partir de energía de fuerzas de la naturaleza, p.ej. sol o viento, B60L 8/00; para vehículos mono rail, vehículos suspendidos o ferrocarriles de cremallera B60L 13/00) [2019.01]"
+  },
+  {
+    "code": "B60L 50/10",
+    "description": "••utilizando la fuerza de propulsión que proviene de generadores accionados por un motor, p. ej. generadores accionados por motores de combustión [2019.01]"
+  },
+  {
+    "code": "B60L 50/11",
+    "description": "••••Utilizando generadores de corriente continua y motores de corriente continua [2019.01]"
+  },
+  {
+    "code": "B60L 50/12",
+    "description": "••••utilizando generadores de corriente alterna y motores de corriente continua [2019.01]"
+  },
+  {
+    "code": "B60L 50/13",
+    "description": "••••utilizando generadores de corriente alterna y motores de corriente alterna [2019.01]"
+  },
+  {
+    "code": "B60L 50/14",
+    "description": "••••utilizando generadores de corriente continua y motores de corriente alterna [2019.01]"
+  },
+  {
+    "code": "B60L 50/15",
+    "description": "••••con suministro de energía eléctrica adicional (con condensadores cargados por generadores accionados por un motor B60L 50/40; con baterías cargadas con generadores activados por un motor B60L 50/61) [2019.01]"
+  },
+  {
+    "code": "B60L 50/16",
+    "description": "••••con disposiciones para una propulsión mecánica directa separada [2019.01]"
+  },
+  {
+    "code": "B60L 50/20",
+    "description": "••utilizando fuerza de propulsión generada por seres humanos o animales [2019.01]"
+  },
+  {
+    "code": "B60L 50/30",
+    "description": "••utilizando fuerza de propulsión almacenada mecánicamente, p. ej. en volantes [2019.01]"
+  },
+  {
+    "code": "B60L 50/40",
+    "description": "••utilizando  fuerza de propulsión generada a partir de condensadores [2019.01]"
+  },
+  {
+    "code": "B60L 50/50",
+    "description": "••utilizando fuerza de propulsión generada a partir de baterías o pilas de combustible [2019.01]"
+  },
+  {
+    "code": "B60L 50/51",
+    "description": "••••que se caracterizan por motores de corriente alterna [2019.01]"
+  },
+  {
+    "code": "B60L 50/52",
+    "description": "••••que se caracterizan por tener motores de corriente continua [2019.01]"
+  },
+  {
+    "code": "B60L 50/53",
+    "description": "••••en combinación con una fuente de energía externa, p. ej. de líneas aéreas de contacto [2019.01]"
+  },
+  {
+    "code": "B60L 50/60",
+    "description": "••••utilizando energía que proviene de baterías (en combinación con pilas de combustible B60L 50/75) [2019.01]"
+  },
+  {
+    "code": "B60L 50/61",
+    "description": "••••••con baterías cargadas por generadores accionados por motores, p. ej. vehículos híbridos eléctricos de tipo sistema en serie [2019.01]"
+  },
+  {
+    "code": "B60L 50/62",
+    "description": "••••••••cargados por generadores de baja energía principalmente destinados a apoyar  a las baterías, p. ej. autonomía extendida [2019.01]"
+  },
+  {
+    "code": "B60L 50/64",
+    "description": "••••••Detalles de construcción de baterías especialmente adaptadas a vehículos eléctricos [2019.01]"
+  },
+  {
+    "code": "B60L 50/70",
+    "description": "••••utilizando energía que proviene de pilas de combustible (en combinación con baterías B60L 50/75) [2019.01]"
+  },
+  {
+    "code": "B60L 50/71",
+    "description": "••••••Disposición de pilas de combustible en el interior de vehículos especialmente adaptadas a vehículos eléctricos [2019.01]"
+  },
+  {
+    "code": "B60L 50/72",
+    "description": "••••••Detalles constructivos de las pilas de combustibles especialmente adaptadas a vehículos eléctricos [2019.01]"
+  },
+  {
+    "code": "B60L 50/75",
+    "description": "••••utilizando energía de propulsión a partir tanto de pilas de combustible como de baterias [2019.01]"
+  },
+  {
+    "code": "B60L 50/90",
+    "description": "••utilizando energía de propulsión a partir de medios específicos con cubiertos en los grupos B60L 50/10-B60L 50/50, p.ej. por conversión directa de energía nuclear térmica en electricidad [2019.01]"
+  },
+  {
+    "code": "B60L 53/00",
+    "description": "Métodos de carga de baterías, especialmente adaptados para vehículos eléctricos; Estaciones de carga o equipo de carga a bordo para las baterias; Intercambio de elementos de almacenaje de energía en vehículos eléctricos [2019.01]"
+  },
+  {
+    "code": "B60L 53/10",
+    "description": "••caracterizado por la transferencia de energía entre la estación de carga y el vehículo [2019.01]"
+  },
+  {
+    "code": "B60L 53/12",
+    "description": "••••Transferencia de energía por inducción [2019.01]"
+  },
+  {
+    "code": "B60L 53/122",
+    "description": "••••••Circuitos o métodos para conducir a la bobina primaria, es decir alimentar de energía eléctrica a la bobina [2019.01]"
+  },
+  {
+    "code": "B60L 53/124",
+    "description": "••••••Detección o retirada de cuerpos extraños [2019.01]"
+  },
+  {
+    "code": "B60L 53/126",
+    "description": "••••••Métodos de asociar un vehículo y una estación de carga, p. ej. establecimiento de una relación directa entre un transmisor de energía sin cables y un receptor de energía sin cables [2019.01]"
+  },
+  {
+    "code": "B60L 53/14",
+    "description": "••••transferencia de energía por conducción [2019.01]"
+  },
+  {
+    "code": "B60L 53/16",
+    "description": "••••••Conectores, p. ej. enchufes o tomas, especialmente adaptados para la carga de vehículos eléctricos [2019.01]"
+  },
+  {
+    "code": "B60L 53/18",
+    "description": "••••••Cables especialmente adaptados para cargar vehículos eléctricos [2019.01]"
+  },
+  {
+    "code": "B60L 53/20",
+    "description": "••caracterizados por los convertidores situados en el vehículo [2019.01]"
+  },
+  {
+    "code": "B60L 53/22",
+    "description": "••••Detalles Constructivos o disposiciones para la carga de convertidores especialmente adaptados para cargar vehículos eléctricos [2019.01]"
+  },
+  {
+    "code": "B60L 53/24",
+    "description": "••••Utilizando el convertidor de  propulsión del vehículo para la carga [2019.01]"
+  },
+  {
+    "code": "B60L 53/30",
+    "description": "••Detalles constructivos de estaciones de carga [2019.01]"
+  },
+  {
+    "code": "B60L 53/302",
+    "description": "••••Enfriamiento del equipo de carga [2019.01]"
+  },
+  {
+    "code": "B60L 53/31",
+    "description": "••••Carga de columnas especialmente adaptadas a vehículos eléctricos [2019.01]"
+  },
+  {
+    "code": "B60L 53/34",
+    "description": "••••Dispositivos de tipo enchufe o toma especialmente adaptados para la carga inductiva sin contacto de vehículos eléctricos (medios de posicionamiento para  los dispositivos de carga que utilizan la transferencia de energía por inducción B60L 53/38) [2019.01]"
+  },
+  {
+    "code": "B60L 53/35",
+    "description": "••••Medios para el ajuste automático o asistido de la posición relativa de los dispositivos de carga y los vehículos [2019.01]"
+  },
+  {
+    "code": "B60L 53/36",
+    "description": "••••••por  posicionamiento del vehículo [2019.01]"
+  },
+  {
+    "code": "B60L 53/37",
+    "description": "••••••utilizando una determinación óptica de la posición, p.ej. utilizando cámaras [2019.01]"
+  },
+  {
+    "code": "B60L 53/38",
+    "description": "••••••especialmente adaptados para la carga utilizando la transferencia de energía por inducción [2019.01]"
+  },
+  {
+    "code": "B60L 53/39",
+    "description": "••••••••con activación sensible a la posición de las bobinas primarias [2019.01]"
+  },
+  {
+    "code": "B60L 53/50",
+    "description": "••Estaciones de carga caracterizadas por medios de almacenamiento de energía o  medios de producción de energía [2019.01]"
+  },
+  {
+    "code": "B60L 53/51",
+    "description": "••••Dispositivos fotovoltaicos [2019.01]"
+  },
+  {
+    "code": "B60L 53/52",
+    "description": "••••Generadores activados por el viento [2019.01]"
+  },
+  {
+    "code": "B60L 53/53",
+    "description": "••••Baterias [2019.01]"
+  },
+  {
+    "code": "B60L 53/54",
+    "description": "••••Pilas de combustible [2019.01]"
+  },
+  {
+    "code": "B60L 53/55",
+    "description": "••••Condensadores [2019.01]"
+  },
+  {
+    "code": "B60L 53/56",
+    "description": "••••Medios de almacenamiento mecánico, p. ej. volantes [2019.01]"
+  },
+  {
+    "code": "B60L 53/57",
+    "description": "••••Estaciones de carga sin conexión a redes eléctricas [2019.01]"
+  },
+  {
+    "code": "B60L 53/60",
+    "description": "••Vigilancia o control de estaciones de carga [2019.01]"
+  },
+  {
+    "code": "B60L 53/62",
+    "description": "••••en respuesta a los parámetros de carga, p. ej. corriente, voltaje o eléctrica [2019.01]"
+  },
+  {
+    "code": "B60L 53/63",
+    "description": "••••en respuesta a la capacidad de la red [2019.01]"
+  },
+  {
+    "code": "B60L 53/64",
+    "description": "••••Optimizando costes de energía, p. ej. en respuesta a las tarifas de electricidad [2019.01]"
+  },
+  {
+    "code": "B60L 53/65",
+    "description": "••••que implican la identificación de vehículos o sus tipos de baterías [2019.01]"
+  },
+  {
+    "code": "B60L 53/66",
+    "description": "••••Transferencia de datos entre las estaciones de carga y los vehículos [2019.01]"
+  },
+  {
+    "code": "B60L 53/67",
+    "description": "••••Al mando de dos o más estaciones de carga [2019.01]"
+  },
+  {
+    "code": "B60L 53/68",
+    "description": "••••Vigilancia o control desde fuera, p. ej. control remoto [2019.01]"
+  },
+  {
+    "code": "B60L 53/80",
+    "description": "••Intercambio de elementos de almacenamiento de energía, p. ej. baterías extraibles [2019.01]"
+  },
+  {
+    "code": "B60L 55/00",
+    "description": "Disposiciones para el suministro de energía almacenada en el interior del vehículo a una red de suministro, p. ej. disposiciones para vehículos en red [2019.01]"
+  },
+  {
+    "code": "B60L 58/00",
+    "description": "Métodos o disposiciones de circuitos para la vigilancia o control de baterías o pilas de combustible, especialmente adaptadas a vehículos eléctricos [2019.01]"
+  },
+  {
+    "code": "B60L 58/10",
+    "description": "••para vigilancia o control del baterias [2019.01]"
+  },
+  {
+    "code": "B60L 58/12",
+    "description": "••••en respuesta al estado de carga [SoC] [2019.01]"
+  },
+  {
+    "code": "B60L 58/13",
+    "description": "••••••Manteniendo el estado de carga [SoC] en un determinado rango [2019.01]"
+  },
+  {
+    "code": "B60L 58/14",
+    "description": "••••••Que prevé la descarga excesiva [2019.01]"
+  },
+  {
+    "code": "B60L 58/15",
+    "description": "••••••Que prevé la sobrecarga [2019.01]"
+  },
+  {
+    "code": "B60L 58/16",
+    "description": "••••respondiendo a la edad de la batería, p. ej. al número de ciclos de carga o al estado de salud [SoH] [2019.01]"
+  },
+  {
+    "code": "B60L 58/18",
+    "description": "••••de dos o más módulos de bateria [2019.01]"
+  },
+  {
+    "code": "B60L 58/19",
+    "description": "••••••Intercambio entre la conexión en serie y la conexión en paralelo de los módulos de batería [2019.01]"
+  },
+  {
+    "code": "B60L 58/20",
+    "description": "••••••con diferentes tensiones nominales [2019.01]"
+  },
+  {
+    "code": "B60L 58/21",
+    "description": "••••••que tienen la misma tensión nominal [2019.01]"
+  },
+  {
+    "code": "B60L 58/22",
+    "description": "••••••Equilibrando la carga de los módulos de batería [2019.01]"
+  },
+  {
+    "code": "B60L 58/24",
+    "description": "••••para el control de la temperatura de las baterias [2019.01]"
+  },
+  {
+    "code": "B60L 58/25",
+    "description": "••••••controlando la carga eléctrica [2019.01]"
+  },
+  {
+    "code": "B60L 58/26",
+    "description": "••••••por enfriamiento [2019.01]"
+  },
+  {
+    "code": "B60L 58/27",
+    "description": "••••••por calentamiento [2019.01]"
+  },
+  {
+    "code": "B60L 58/30",
+    "description": "••para vigilancia o control de pilas de combustible [2019.01]"
+  },
+  {
+    "code": "B60L 58/31",
+    "description": "••••para el arranque de pilas de combustible [2019.01]"
+  },
+  {
+    "code": "B60L 58/32",
+    "description": "••••para el control de la temperatura de las pilas de combustible, p. ej. controlando la carga eléctrica [2019.01]"
+  },
+  {
+    "code": "B60L 58/33",
+    "description": "••••••por enfriamiento [2019.01]"
+  },
+  {
+    "code": "B60L 58/34",
+    "description": "••••••por calentamiento [2019.01]"
+  },
+  {
+    "code": "B60L 58/40",
+    "description": "••para el control de una combinación de baterías y pilas de combustible [2019.01]"
+  }
+]

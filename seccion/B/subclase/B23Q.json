@@ -1,0 +1,706 @@
+[
+  {
+    "code": "B23Q 1/00",
+    "description": "Elementos componentes de la estructura general de un tipo de máquina, y más especialmente los elementos fijos más grandes (B23Q 37/00 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B23Q 1/01",
+    "description": "••Bastidores, bancos, columnas o elementos similares; Dispositivos de medios de deslizamiento [2006.01]"
+  },
+  {
+    "code": "B23Q 1/03",
+    "description": "••Soportes fijos de herramientas o piezas (B23Q 1/70 tiene prioridad; mesas auxiliares B23Q 1/74; contrapuntos B23B 23/00) [2006.01]"
+  },
+  {
+    "code": "B23Q 1/25",
+    "description": "••Soportes móviles o ajustables de herramientas o piezas [2006.01]"
+  },
+  {
+    "code": "B23Q 1/26",
+    "description": "••••caracterizados por particularidades estructurales relacionadas con la cooperación de elementos animados de un movimiento relativo; Medios para impedir el desplazamiento relativo de dichos órganos [2006.01]"
+  },
+  {
+    "code": "B23Q 1/28",
+    "description": "••••••Medios para fijar los elementos deslizantes en la posición deseada [2006.01]"
+  },
+  {
+    "code": "B23Q 1/30",
+    "description": "••••••con control vinculado al mecanismo de avance [2006.01]"
+  },
+  {
+    "code": "B23Q 1/32",
+    "description": "••••••Movimiento relativo debido a la cooperación de superficies esféricas, p.ej. articulación de rótula [2006.01]"
+  },
+  {
+    "code": "B23Q 1/34",
+    "description": "••••••Movimiento relativo debido a la utilización de elementos deformables, p.ej. piezoeléctricos, magnetoestrictivos, elásticos o dilatables térmicamente (elementos sensibles capaces de producir un movimiento o un desplazamiento con el fin de no limitarlos a la medición G12B 1/00) [2006.01]"
+  },
+  {
+    "code": "B23Q 1/36",
+    "description": "••••••••Resortes [2006.01]"
+  },
+  {
+    "code": "B23Q 1/38",
+    "description": "••••••utilizando soportes fluidos o soportes de colchón fluido [2006.01]"
+  },
+  {
+    "code": "B23Q 1/40",
+    "description": "••••••utilizando dispositivos de bola, rodillo o rueda [2006.01]"
+  },
+  {
+    "code": "B23Q 1/42",
+    "description": "••••••utilizando guías en T, en V, en cola de milano o guías similares (B23Q 1/40 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B23Q 1/44",
+    "description": "••••utilizando mecanismos especiales (B23Q 1/26 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B23Q 1/46",
+    "description": "••••••con pares helicoidales [2006.01]"
+  },
+  {
+    "code": "B23Q 1/48",
+    "description": "••••••con pares de translación y pares de rotación (B23Q 1/46 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B23Q 1/50",
+    "description": "••••••sólo con pares de rotación [2006.01]"
+  },
+  {
+    "code": "B23Q 1/52",
+    "description": "••••••••con un sólo par de rotación [2006.01]"
+  },
+  {
+    "code": "B23Q 1/54",
+    "description": "••••••••con sólo dos pares de rotación [2006.01]"
+  },
+  {
+    "code": "B23Q 1/56",
+    "description": "••••••sólo con pares de deslizamiento [2006.01]"
+  },
+  {
+    "code": "B23Q 1/58",
+    "description": "••••••••con un sólo par deslizante [2006.01]"
+  },
+  {
+    "code": "B23Q 1/60",
+    "description": "••••••••con sólo dos pares deslizantes [2006.01]"
+  },
+  {
+    "code": "B23Q 1/62",
+    "description": "••••••••••con ejes perpendiculares, p.ej. carros con movimiento transversal [2006.01]"
+  },
+  {
+    "code": "B23Q 1/64",
+    "description": "••••caracterizados por la finalidad del desplazamiento (equipo de marcado B23Q 16/02) [2006.01]"
+  },
+  {
+    "code": "B23Q 1/66",
+    "description": "••••••Mesas de trabajo capaces de ser intercambiadas para ser colocadas en posición de trabajo [2006.01]"
+  },
+  {
+    "code": "B23Q 1/68",
+    "description": "••••••para la retirada de herramientas o piezas durante el desplazamiento reversible [2006.01]"
+  },
+  {
+    "code": "B23Q 1/70",
+    "description": "••Elementos fijos o móviles, mandriles de trabajo para la fijación de herramientas o piezas (cabezales o elementos similares, soportes para husillos de trabajo B23B 19/00; husillos de trabajo B23B 19/02) [2006.01]"
+  },
+  {
+    "code": "B23Q 1/72",
+    "description": "••Dispositivos auxiliares; Interconexiones entre mesas auxiliares y elementos móviles de máquina [2006.01]"
+  },
+  {
+    "code": "B23Q 1/74",
+    "description": "••••Mesas auxiliares [2006.01]"
+  },
+  {
+    "code": "B23Q 1/76",
+    "description": "••••Lunetas; Apoyos [2006.01]"
+  },
+  {
+    "code": "B23Q 3/00",
+    "description": "Dispositivos que permiten mantener, soportar o posicionar las piezas o las herramientas, pudiendo normalmente ser desmontados estos dispositivos de la máquina (mesas de trabajo u otras piezas, p. ej. platos, que no incorporan de forma habitual los medios para sujetar la pieza B23Q 1/00; control automático de la posición B23Q 15/00; cabezas portaherramientas rotativas para máquinas de tornear B23B 3/24, B23B 3/26; porta-herramientas sin accionamiento B23B 29/00; características generales de las torretas B23B 29/24; herramientas o útiles de banco para fijar, unir, desenganchar o mantener B25B) [2006.01]"
+  },
+  {
+    "code": "B23Q 3/02",
+    "description": "••destinados a ser montados sobre una mesa, un carro portaherramientas u órganos análogos (B23Q 3/15 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B23Q 3/04",
+    "description": "••••de inclinación regulable [2006.01]"
+  },
+  {
+    "code": "B23Q 3/06",
+    "description": "••••Medios de fijación de la pieza [2006.01]"
+  },
+  {
+    "code": "B23Q 3/08",
+    "description": "••••••otros que no sean accionados mecánicamente [2006.01]"
+  },
+  {
+    "code": "B23Q 3/10",
+    "description": "••••Dispositivos auxiliares, p. ej. collarines miembros extensibles [2006.01]"
+  },
+  {
+    "code": "B23Q 3/12",
+    "description": "••destinados a fijarse sobre un mandril en general (B23Q 3/152 tiene prioridad; mandriles portaherramientas B23B 31/02) [2006.01]"
+  },
+  {
+    "code": "B23Q 3/14",
+    "description": "••••Mandriles portapiezas en general (mandriles extensibles B23B 31/40) [2006.01]"
+  },
+  {
+    "code": "B23Q 3/15",
+    "description": "••Dispositivos para sujetar las piezas magnéticamente o eléctricamente [2006.01]"
+  },
+  {
+    "code": "B23Q 3/152",
+    "description": "••••Dispositivos rotativos [2006.01]"
+  },
+  {
+    "code": "B23Q 3/154",
+    "description": "••••Dispositivos estacionarios [2006.01]"
+  },
+  {
+    "code": "B23Q 3/155",
+    "description": "••Dispositivos para insertar o retirar automáticamente las herramientas [2006.01]"
+  },
+  {
+    "code": "B23Q 3/157",
+    "description": "••••las herramientas rotativas [2006.01]"
+  },
+  {
+    "code": "B23Q 3/16",
+    "description": "••con control vinculado al trabajo de la herramienta [2006.01]"
+  },
+  {
+    "code": "B23Q 3/18",
+    "description": "••para posicionarla solamente [2006.01]"
+  },
+  {
+    "code": "B23Q 5/00",
+    "description": "Mecanismos de propulsión o de avance; Disposición de los mecanismos de control a este efecto (control automático B23Q 15/00; copiado B23Q 33/00, B23Q 35/00; especialmente adaptados a las máquinas de escariar o de taladrar B23B 39/10, B23B 47/02) [2006.01]"
+  },
+  {
+    "code": "B23Q 5/02",
+    "description": "••Propulsión de los principales órganos de trabajo [2006.01]"
+  },
+  {
+    "code": "B23Q 5/027",
+    "description": "••••de elementos alternativos [2006.01]"
+  },
+  {
+    "code": "B23Q 5/033",
+    "description": "••••••impulsados esencialmente por la presión de un fluido [2006.01]"
+  },
+  {
+    "code": "B23Q 5/04",
+    "description": "••••de los árboles rotativos, p. ej. de los husillos de trabajo [2006.01]"
+  },
+  {
+    "code": "B23Q 5/06",
+    "description": "••••••propulsados principalmente por medios hidráulicos o neumáticos [2006.01]"
+  },
+  {
+    "code": "B23Q 5/08",
+    "description": "••••••••controlados eléctricamente [2006.01]"
+  },
+  {
+    "code": "B23Q 5/10",
+    "description": "••••••propulsados principalmente por medios eléctricos [2006.01]"
+  },
+  {
+    "code": "B23Q 5/12",
+    "description": "••••••Propulsión mecánica con medios que permiten variar las relaciones de velocidad [2006.01]"
+  },
+  {
+    "code": "B23Q 5/14",
+    "description": "••••••••de manera discontinua [2006.01]"
+  },
+  {
+    "code": "B23Q 5/16",
+    "description": "••••••••de manera continua [2006.01]"
+  },
+  {
+    "code": "B23Q 5/18",
+    "description": "••••••••Dispositivos de preselección de las velocidades de las brocas de trabajo [2006.01]"
+  },
+  {
+    "code": "B23Q 5/20",
+    "description": "••••••Regulación o detención de las brocas de trabajo en una posición predeterminada [2006.01]"
+  },
+  {
+    "code": "B23Q 5/22",
+    "description": "••Avance de los elementos que soportan las herramientas o las piezas a trabajar [2006.01]"
+  },
+  {
+    "code": "B23Q 5/26",
+    "description": "••••Transmisiones de fluido [2006.01]"
+  },
+  {
+    "code": "B23Q 5/28",
+    "description": "••••Transmisiones eléctricas [2006.01]"
+  },
+  {
+    "code": "B23Q 5/32",
+    "description": "••••Avance de los husillos de trabajo (avance de los soportes de husillos B23Q 5/34) [2006.01]"
+  },
+  {
+    "code": "B23Q 5/34",
+    "description": "••••Avance por transmisión mecánica de otros órganos que soportan las herramientas o las piezas, p. ej. avance de los carros portaherramientas, de las guías de herramientas [2006.01]"
+  },
+  {
+    "code": "B23Q 5/36",
+    "description": "••••••en los que un servomotor constituye un elemento esencial [2006.01]"
+  },
+  {
+    "code": "B23Q 5/38",
+    "description": "••••••con avance continuo [2006.01]"
+  },
+  {
+    "code": "B23Q 5/40",
+    "description": "••••••••por un árbol, p. ej. una rosca hembra [2006.01]"
+  },
+  {
+    "code": "B23Q 5/42",
+    "description": "••••••••••Mecanismo asociado al cabezal [2006.01]"
+  },
+  {
+    "code": "B23Q 5/44",
+    "description": "••••••••••Mecanismo asociado al elemento en movimiento [2006.01]"
+  },
+  {
+    "code": "B23Q 5/46",
+    "description": "••••••••con variación de las relaciones de velocidad [2006.01]"
+  },
+  {
+    "code": "B23Q 5/48",
+    "description": "••••••••••por medio de engranajes [2006.01]"
+  },
+  {
+    "code": "B23Q 5/50",
+    "description": "••••••con avance paso a paso [2006.01]"
+  },
+  {
+    "code": "B23Q 5/52",
+    "description": "••••Limitación del movimiento de avance [2006.01]"
+  },
+  {
+    "code": "B23Q 5/54",
+    "description": "••Dispositivos o partes constitutivas no limitados al grupo B23Q 5/02 o al grupo B23Q 5/22 respectivamente [2006.01]"
+  },
+  {
+    "code": "B23Q 5/56",
+    "description": "••••Prevención del retorno de la marcha [2006.01]"
+  },
+  {
+    "code": "B23Q 5/58",
+    "description": "••••Dispositivos de seguridad [2006.01]"
+  },
+  {
+    "code": "B23Q 7/00",
+    "description": "Dispositivos para la manipulación de piezas, especialmente combinados a las máquinas-herramientas o dispuestos en estas máquinas o especialmente concebidos para ser utilizados en relación con estas máquinas, p. ej. para el transporte, la carga, la colocación, la descarga, la selección (incorporados a los husillos de trabajo B23B 13/00, B23B 19/02; para tornos automáticos o semiautomáticos B23B 15/00) [2006.01]"
+  },
+  {
+    "code": "B23Q 7/02",
+    "description": "••por medio de tambores, de mesas rotativas o de plataformas [2006.01]"
+  },
+  {
+    "code": "B23Q 7/03",
+    "description": "••por medio de transportadores de cadena sin fin (B23Q 7/16  tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B23Q 7/04",
+    "description": "••por medio de pinzas [2006.01]"
+  },
+  {
+    "code": "B23Q 7/05",
+    "description": "••por medio de transportadores de rodillos (B23Q 7/16 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B23Q 7/06",
+    "description": "••por medio de pulsadores [2006.01]"
+  },
+  {
+    "code": "B23Q 7/08",
+    "description": "••por medio de canales deslizantes o de planos inclinados [2006.01]"
+  },
+  {
+    "code": "B23Q 7/10",
+    "description": "••por medio de depósitos [2006.01]"
+  },
+  {
+    "code": "B23Q 7/12",
+    "description": "••Sistemas de selección [2006.01]"
+  },
+  {
+    "code": "B23Q 7/14",
+    "description": "••coordinados para permitir un trabajo en cadena [2006.01]"
+  },
+  {
+    "code": "B23Q 7/16",
+    "description": "••Cargamento de las piezas en los transportadores; Arreglo de las piezas sobre los transportadores, p. ej. modificando el espacio entre las piezas [2006.01]"
+  },
+  {
+    "code": "B23Q 7/18",
+    "description": "••••Orientación de las piezas en los transportadores [2006.01]"
+  },
+  {
+    "code": "B23Q 9/00",
+    "description": "Dispositivos para el soporte o el guiado de aparatos o máquinas portátiles para el trabajo del metal (para el aterrajado de tubos B23B 41/08; especialmente concebidos para la perforación B23B 45/14) [2006.01]"
+  },
+  {
+    "code": "B23Q 9/02",
+    "description": "••para fijar las máquinas o los aparatos a las piezas que se van a trabajar o a otras piezas de formas particulares, p. ej. a vigas de sección especial [2006.01]"
+  },
+  {
+    "code": "B23Q 11/00",
+    "description": "Accesorios montados sobre las máquinas herramientas para mantener las herramientas o los órganos de las máquinas en buenas condiciones de trabajo o para enfriar las piezas trabajadas; Dispositivos de seguridad especialmente combinados con las máquinas-herramientas, dispuestos en estas máquinas o especialmente concebidos para ser utilizados en relación con estas máquinas (en lo que respecta a las máquinas de escariar o de perforar B23B 47/24, B23B 47/32 tienen prioridad; dispositivos de seguridad en general F16P) [2006.01]"
+  },
+  {
+    "code": "B23Q 11/02",
+    "description": "••Dispositivos para retirar las virutas de los dientes de corte de las herramientas circulares [2006.01]"
+  },
+  {
+    "code": "B23Q 11/04",
+    "description": "••Dispositivos que impiden la sobrecarga de las herramientas, p. ej. reduciendo la carga [2006.01]"
+  },
+  {
+    "code": "B23Q 11/06",
+    "description": "••Dispositivos de seguridad para las herramientas circulares de corte [2006.01]"
+  },
+  {
+    "code": "B23Q 11/08",
+    "description": "••Protectores para ciertas partes de las máquinas-herramientas; Escudos antiproyectiles [2006.01]"
+  },
+  {
+    "code": "B23Q 11/10",
+    "description": "••Dispositivos para el enfriamiento o lubrificación de las herramientas o de las piezas trabajadas (incorporados a las herramientas, ver la subclase correspondiente a la herramienta) [2006.01]"
+  },
+  {
+    "code": "B23Q 11/12",
+    "description": "••Dispositivos para el enfriamiento o la lubrificación de las partes de las máquinas-herramientas (B23Q 11/14 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B23Q 11/14",
+    "description": "••Métodos o disposiciones que permiten el mantenimiento de ciertas partes de las máquinas a una temperatura constante [2006.01]"
+  },
+  {
+    "code": "B23Q 13/00",
+    "description": "Equipo de herramientas o de fresas para ser usados cuando éstas no están siendo usadas, p. ej. protección para el almacenado [2006.01]"
+  },
+  {
+    "code": "B23Q 15/00",
+    "description": "Control automático o regulación del movimiento de avance, de la velocidad de corte o de la posición tanto de la herramienta como de la pieza [2006.01]"
+  },
+  {
+    "code": "B23Q 15/007",
+    "description": "••durante la acción de la herramienta sobre la pieza [2006.01]"
+  },
+  {
+    "code": "B23Q 15/013",
+    "description": "••••Control o regulación del movimiento de avance (B23Q 15/12 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B23Q 15/02",
+    "description": "••••••en función de la cota instantánea y de la cota elegida para la pieza en cuestión (B23Q 15/06 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B23Q 15/04",
+    "description": "••••••en función de la cota definitiva de la pieza previamente elaborada (B23Q 15/06 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B23Q 15/06",
+    "description": "••••••en función de los datos dimensionales que resultan de varios métodos de calibrado basados sobre principios de medida diferentes, p. ej. por medios ópticos y mecánicos a la vez [2006.01]"
+  },
+  {
+    "code": "B23Q 15/08",
+    "description": "••••Control o regulación de la velocidad de corte (B23Q 15/12 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B23Q 15/10",
+    "description": "••••••para asegurar una velocidad de corte constante [2006.01]"
+  },
+  {
+    "code": "B23Q 15/12",
+    "description": "••••Control autoadaptativo, es decir, ajustándose ellos mismos de forma que proporciona el mejor rendimiento en función de criterios fijados previamente [2006.01]"
+  },
+  {
+    "code": "B23Q 15/14",
+    "description": "••••Control o regulación de la orientación de la herramienta con relación a la pieza [2006.01]"
+  },
+  {
+    "code": "B23Q 15/16",
+    "description": "••••Compensación del desgaste de la herramienta [2006.01]"
+  },
+  {
+    "code": "B23Q 15/18",
+    "description": "••••Compensación de la deformación de la herramienta debido a la temperatura o al esfuerzo [2006.01]"
+  },
+  {
+    "code": "B23Q 15/20",
+    "description": "••antes o después de la acción de la herramienta sobre la pieza [2006.01]"
+  },
+  {
+    "code": "B23Q 15/22",
+    "description": "••••Control o regulación de la posición de la herramienta o de la pieza [2006.01]"
+  },
+  {
+    "code": "B23Q 15/24",
+    "description": "••••••de la posición lineal [2006.01]"
+  },
+  {
+    "code": "B23Q 15/26",
+    "description": "••••••de la posición angular [2006.01]"
+  },
+  {
+    "code": "B23Q 15/28",
+    "description": "••••con compensación del desgaste de la herramienta [2006.01]"
+  },
+  {
+    "code": "B23Q 16/00",
+    "description": "Equipos no previstos en otro lugar para colocar en posición precisa la herramienta o la pieza a trabajar (control o regulación automática de la posición de la herramienta o de la pieza B23Q 15/22; dispositivos para indicar o medir la posición apropiada de la herramienta o la pieza B23Q 17/22) [2006.01]"
+  },
+  {
+    "code": "B23Q 16/02",
+    "description": "••Equipo de marcado (especialmente adaptado a máquinas de taller engranajes B23F 23/08) [2006.01]"
+  },
+  {
+    "code": "B23Q 16/04",
+    "description": "••••teniendo elementos intermedios, p. ej. trinquetes, para inmovilizar en la posición de marear las partes móviles relativas entre sí [2006.01]"
+  },
+  {
+    "code": "B23Q 16/06",
+    "description": "••••••Marcado por rotación [2006.01]"
+  },
+  {
+    "code": "B23Q 16/08",
+    "description": "••••teniendo medios para sujetar en la posición de marcar las partes móviles relativas entre sí [2006.01]"
+  },
+  {
+    "code": "B23Q 16/10",
+    "description": "••••••Marcado por rotación [2006.01]"
+  },
+  {
+    "code": "B23Q 16/12",
+    "description": "••••utilizando medios ópticos [2006.01]"
+  },
+  {
+    "code": "B23Q 17/00",
+    "description": "Dispositivos para indicar o medir sobre las máquinas herramientas (para el control automático o la regulación del movimiento de avance, de la velocidad de corte o de la posición de la herramienta o de la pieza B23Q 15/00) [2006.01]"
+  },
+  {
+    "code": "B23Q 17/09",
+    "description": "••para indicar o medir la presión de corte o el estado de la herramienta de trabajo, p. ej. capacidad de corte, carga sobre la herramienta (dispositivos para prevenir la sobrecarga de la herramienta B23Q 11/04; dispositivos para indicar los defectos de los agujeros durante la perforación B23B 49/00) [2006.01]"
+  },
+  {
+    "code": "B23Q 17/10",
+    "description": "••para indicar o medir la velocidad de corte o el número de revoluciones [2006.01]"
+  },
+  {
+    "code": "B23Q 17/12",
+    "description": "••para indicar o medir las vibraciones [2006.01]"
+  },
+  {
+    "code": "B23Q 17/20",
+    "description": "••para indicar o medir las características de la pieza de trabajo, p. ej. el contorno, las dimensiones, la dureza [2006.01]"
+  },
+  {
+    "code": "B23Q 17/22",
+    "description": "••para indicar o medir la posición existente o deseada de la herramienta o la pieza de trabajo [2006.01]"
+  },
+  {
+    "code": "B23Q 17/24",
+    "description": "••utilizando medios ópticos [2006.01]"
+  },
+  {
+    "code": "B23Q 23/00",
+    "description": "Dispositivos de compensación de las irregularidades o del desgaste, p. ej. para las guías de bancada, para los mecanismos de regulación (control automático B23Q 15/00) [2006.01]"
+  },
+  {
+    "code": "B23Q 27/00",
+    "description": "Mecanismos geométricos para la realización de piezas de formas especiales, no previstos de forma específica en alguna otra subclase [2006.01]"
+  },
+  {
+    "code": "B23Q 33/00",
+    "description": "Métodos de copiado [2006.01]"
+  },
+  {
+    "code": "B23Q 35/00",
+    "description": "Sistemas o dispositivos de control para el copiado directo a partir de un modelo o de una plantilla; Dispositivos para el copiado manual [2006.01]"
+  },
+  {
+    "code": "B23Q 35/02",
+    "description": "••Copiado de puntos precisos del modelo, p. ej. para determinar la posición de orificios a perforar [2006.01]"
+  },
+  {
+    "code": "B23Q 35/04",
+    "description": "••utilizando un palpador o dispositivo análogo que se desplaza a lo largo de la superficie exterior del modelo, plantilla o dibujo; Palpadores, modelos o plantillas con estos fines [2006.01]"
+  },
+  {
+    "code": "B23Q 35/06",
+    "description": "••••especialmente adaptados al control de las operaciones sucesivas, p. ej. cortes individuales sobre una pieza [2006.01]"
+  },
+  {
+    "code": "B23Q 35/08",
+    "description": "••••Medios que permiten la transformación del movimiento del palpador o del dispositivo análogo, en un movimiento de avance de la herramienta o de la pieza [2006.01]"
+  },
+  {
+    "code": "B23Q 35/10",
+    "description": "••••••de manera mecánica solamente [2006.01]"
+  },
+  {
+    "code": "B23Q 35/12",
+    "description": "••••••con la ayuda de medios eléctricos (registro programado para la copia en aparatos independientes G05, G11) [2006.01]"
+  },
+  {
+    "code": "B23Q 35/121",
+    "description": "••••••••por una exploración mecánica [2006.01]"
+  },
+  {
+    "code": "B23Q 35/122",
+    "description": "••••••••••con el palpador abriendo o cerrando contactos eléctricos [2006.01]"
+  },
+  {
+    "code": "B23Q 35/123",
+    "description": "••••••••••con el palpador haciendo variar la impedancia de un circuito [2006.01]"
+  },
+  {
+    "code": "B23Q 35/124",
+    "description": "••••••••••••haciendo variar la resistencia [2006.01]"
+  },
+  {
+    "code": "B23Q 35/125",
+    "description": "••••••••••••haciendo variar la resistencia de capacidad [2006.01]"
+  },
+  {
+    "code": "B23Q 35/126",
+    "description": "••••••••••••haciendo variar la inductancia [2006.01]"
+  },
+  {
+    "code": "B23Q 35/127",
+    "description": "••••••••por una exploración no mecánica [2006.01]"
+  },
+  {
+    "code": "B23Q 35/128",
+    "description": "••••••••••Exploración por medios ópticos [2006.01]"
+  },
+  {
+    "code": "B23Q 35/129",
+    "description": "••••••••••Exploración por medio de descargas eléctricas [2006.01]"
+  },
+  {
+    "code": "B23Q 35/13",
+    "description": "••••••••••Exploración por medios magnéticos [2006.01]"
+  },
+  {
+    "code": "B23Q 35/14",
+    "description": "••••••••controlando uno o varios motores eléctricos [2006.01]"
+  },
+  {
+    "code": "B23Q 35/16",
+    "description": "••••••••controlando motores hidráulicos o neumáticos [2006.01]"
+  },
+  {
+    "code": "B23Q 35/18",
+    "description": "••••••con la ayuda de medios hidráulicos o neumáticos (B23Q 35/16 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B23Q 35/20",
+    "description": "••••••con la ayuda de medios particulares que permiten hacer cambio la relación de reproducción [2006.01]"
+  },
+  {
+    "code": "B23Q 35/22",
+    "description": "••••••especialmente adaptados para compensar el desgaste de la herramienta [2006.01]"
+  },
+  {
+    "code": "B23Q 35/24",
+    "description": "••••Palpadores; Unidades de palpado [2006.01]"
+  },
+  {
+    "code": "B23Q 35/26",
+    "description": "••••••concebidos para estar en contacto real con un modelo o una plantilla [2006.01]"
+  },
+  {
+    "code": "B23Q 35/28",
+    "description": "••••••••para controlar un sistema de copiado mecánico [2006.01]"
+  },
+  {
+    "code": "B23Q 35/30",
+    "description": "••••••••para controlar un sistema de copiado eléctrico o electrohidráulico [2006.01]"
+  },
+  {
+    "code": "B23Q 35/32",
+    "description": "••••••••••en el que el palpador conecta y desconecta el o los contactos eléctricos, p. ej. con ayuda de escobillas [2006.01]"
+  },
+  {
+    "code": "B23Q 35/34",
+    "description": "••••••••••en que el palpador modifica las características eléctricas de un circuito, p. ej. la capacidad, la frecuencia [2006.01]"
+  },
+  {
+    "code": "B23Q 35/36",
+    "description": "••••••••para controlar un sistema de copiado hidráulico o neumático [2006.01]"
+  },
+  {
+    "code": "B23Q 35/38",
+    "description": "••••••concebidos para explorar el modelo, la plantilla o el dibujo sin que haya contacto real (por medio de un chorro de fluido B23Q 35/36) [2006.01]"
+  },
+  {
+    "code": "B23Q 35/40",
+    "description": "••••••••comportando sistemas ópticos o fotoeléctricos [2006.01]"
+  },
+  {
+    "code": "B23Q 35/42",
+    "description": "••••Modelos; Plantillas [2006.01]"
+  },
+  {
+    "code": "B23Q 35/44",
+    "description": "••••••comportando medios de regulación de la cara de contacto, p. ej. comportando bandas flexibles mantenidas por un juego de tornillos [2006.01]"
+  },
+  {
+    "code": "B23Q 35/46",
+    "description": "••••••Dispositivos de soporte de estos modelos o plantillas [2006.01]"
+  },
+  {
+    "code": "B23Q 35/48",
+    "description": "••utilizando un palpador o dispositivo análogo que se desplaza con un movimiento de vaivén entre las partes opuestas del contorno del modelo, plantilla o dibujo [2006.01]"
+  },
+  {
+    "code": "B23Q 37/00",
+    "description": "Máquinas o combinaciones de máquinas para el trabajo de metales realizadas tales combinaciones a partir de unidades concebidas de manera que al menos algunas de dichas unidades puedan tener la condición de elementos de diferentes máquinas o combinaciones de máquinas; Estas unidades en tanto en cuanto el elemento de intercambiabilidad es importante (características que se relacionan con operaciones particulares del trabajo del metal, ver la subclase correspondiente, p. ej. B23P 23/00) [2006.01]"
+  },
+  {
+    "code": "B23Q 39/00",
+    "description": "Máquinas para trabajar el metal que incorporan una pluralidad de subconjuntos, siendo capaz cada uno de realizar una operación de trabajo (B23Q 33/00, B23P 23/00 tienen prioridad; si la operación es similar y el tipo de operación es esencial, ver la subclase apropiada para tal operación) [2006.01]"
+  },
+  {
+    "code": "B23Q 39/02",
+    "description": "••los subconjuntos son susceptibles de ser puestos en funcionamiento desde un solo puesto de trabajo [2006.01]"
+  },
+  {
+    "code": "B23Q 39/04",
+    "description": "••los subconjuntos están dispuestos para funcionar simultáneamente desde diferentes puestos de trabajo, p. ej. con una mesa de trabajo anular que se desplaza por palieres (asociaciones de máquinas vinculadas solamente por los medios de transferencia de la pieza B23Q 41/00) [2006.01]"
+  },
+  {
+    "code": "B23Q 41/00",
+    "description": "Combinaciones o asociaciónes de máquinas para trabajar el metal no destinadas a un trabajo en particular según las clases B21, B23 o B24 (B23Q 37/00, B23Q 39/00 tienen prioridad; aspectos relativos a operaciones realizadas, si las diferentes operaciones de trabajo del metal son del mismo tipo, ver la subclase para el tipo de operación, p. ej. punzonado B21D, soldadura B23K, trabajo con muela B24B; aspectos relativos a combinaciones especificadas técnicamente o diferentes operaciones de trabajo del metal B23P 23/00) [2006.01]"
+  },
+  {
+    "code": "B23Q 41/02",
+    "description": "••Aspectos relativos a transferencia de piezas entre máquinas (disposiciones para manipular piezas combinadas con máquinas herramientas para permitir un trabajo en cadena B23Q 7/14) [2006.01]"
+  },
+  {
+    "code": "B23Q 41/04",
+    "description": "••Características relacionadas con la disposición de las máquinas [2006.01]"
+  },
+  {
+    "code": "B23Q 41/06",
+    "description": "••Características relacionadas con la organización del trabajo de las máquinas [2006.01]"
+  },
+  {
+    "code": "B23Q 41/08",
+    "description": "••Características relacionadas con el mantenimiento de un buen funcionamiento [2006.01]"
+  }
+]

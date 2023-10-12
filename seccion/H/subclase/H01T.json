@@ -1,0 +1,298 @@
+[
+  {
+    "code": "H01T 1/00",
+    "description": "Detalles de los espinterómetros [2006.01]"
+  },
+  {
+    "code": "H01T 1/02",
+    "description": "••Medios de extinción de arcos [2006.01]"
+  },
+  {
+    "code": "H01T 1/04",
+    "description": "••••utilizando soplado magnético [2006.01]"
+  },
+  {
+    "code": "H01T 1/06",
+    "description": "••••••con imán permanente [2006.01]"
+  },
+  {
+    "code": "H01T 1/08",
+    "description": "••••utilizando una corriente de fluido extintor de arco [2006.01]"
+  },
+  {
+    "code": "H01T 1/10",
+    "description": "••••••con un fluido extintor que se desprende de un material sólido bajo los efectos del calor del arco [2006.01]"
+  },
+  {
+    "code": "H01T 1/12",
+    "description": "••Medios estructuralmente asociados con un espinterómetro para registrar su funcionamiento [2006.01]"
+  },
+  {
+    "code": "H01T 1/14",
+    "description": "••Medios estructuralmente asociados con un espinterómetro para protegerle contra la sobrecarga o para desconectarlo en caso de fallo (H01T 1/15, H01T 1/16, H01T 1/18  tienen prioridad; disposiciones del circuito protector de emergencia para espinterómetros de chispa H02H 7/24) [2006.01]"
+  },
+  {
+    "code": "H01T 1/15",
+    "description": "••para protección contra la presión excesiva [2006.01]"
+  },
+  {
+    "code": "H01T 1/16",
+    "description": "••Resistencias en serie asociadas estructuralmente con el espinterómetro [2006.01]"
+  },
+  {
+    "code": "H01T 1/18",
+    "description": "••Dispositivo electrolítico estructuralmente asociado con el espinterómetro [2006.01]"
+  },
+  {
+    "code": "H01T 1/20",
+    "description": "••Medios para cebar el arco o para facilitar el encendido del espinterómetro [2006.01]"
+  },
+  {
+    "code": "H01T 1/22",
+    "description": "••••por la forma o la composición de los electrodos [2006.01]"
+  },
+  {
+    "code": "H01T 1/24",
+    "description": "••Empleo de materiales particulares para los electrodos (H01T 1/22 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01T 2/00",
+    "description": "Espinterómetros que tienen medios de disparo auxiliares (circuitos de disparo H01T 15/00) [2006.01]"
+  },
+  {
+    "code": "H01T 2/02",
+    "description": "••que tienen un electrodo de disparo o un espinterómetro auxiliar [2006.01]"
+  },
+  {
+    "code": "H01T 4/00",
+    "description": "Limitadores de sobretensión utilizando espinterómetros (H01T 2/00 tiene prioridad; circuitos de protección contra sobretensiones utilizando espinterómetros H02H 9/06) [2006.01]"
+  },
+  {
+    "code": "H01T 4/02",
+    "description": "••Partes constitutivas [2006.01]"
+  },
+  {
+    "code": "H01T 4/04",
+    "description": "••Cajas (H01T 4/06 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01T 4/06",
+    "description": "••Disposiciones para el montaje de varios limitadores de sobretensión [2006.01]"
+  },
+  {
+    "code": "H01T 4/08",
+    "description": "••asociados estructuralmente con el aparato protegido (con interruptores H01H 9/14; con fusibles H01H 85/44) [2006.01]"
+  },
+  {
+    "code": "H01T 4/10",
+    "description": "••que tienen un intervalo simple o varios intervalos dispuestos en paralelo [2006.01]"
+  },
+  {
+    "code": "H01T 4/12",
+    "description": "••••cerrados herméticamente [2006.01]"
+  },
+  {
+    "code": "H01T 4/14",
+    "description": "••••Pararrayos de cuernos (asociados con aisladores H01B 17/46) [2006.01]"
+  },
+  {
+    "code": "H01T 4/16",
+    "description": "••que tienen varios intervalos dispuestos en serie [2006.01]"
+  },
+  {
+    "code": "H01T 4/18",
+    "description": "••••Disposiciones para reducir la altura de los espinterómetros apilados [2006.01]"
+  },
+  {
+    "code": "H01T 4/20",
+    "description": "••••Disposiciones para mejorar la distribución de potencial [2006.01]"
+  },
+  {
+    "code": "H01T 7/00",
+    "description": "Espinterómetros giratorios, es decir, dispositivos que tienen uno o más electrodos giratorios [2006.01]"
+  },
+  {
+    "code": "H01T 9/00",
+    "description": "Espinterómetros especialmente adaptados para producir oscilaciones [2006.01]"
+  },
+  {
+    "code": "H01T 11/00",
+    "description": "Espinterómetros especialmente adaptados como rectificadores [2006.01]"
+  },
+  {
+    "code": "H01T 13/00",
+    "description": "Bujías de encendido [2006.01]"
+  },
+  {
+    "code": "H01T 13/02",
+    "description": "••Detalles [2006.01]"
+  },
+  {
+    "code": "H01T 13/04",
+    "description": "••••Medios que aseguran la conexión eléctrica a las bujías de encendido [2006.01]"
+  },
+  {
+    "code": "H01T 13/05",
+    "description": "••••••combinados con pantallas o medios de supresión de parásitos [2006.01]"
+  },
+  {
+    "code": "H01T 13/06",
+    "description": "••••Capuchones que forman parte de la bujía de encendido y la protegen contra el medio ambiente [2006.01]"
+  },
+  {
+    "code": "H01T 13/08",
+    "description": "••••Montaje, fijación o cierre hermético de bujías de encendido, p. ej. en las cámaras de combustión [2006.01]"
+  },
+  {
+    "code": "H01T 13/10",
+    "description": "••••••por conexión del tipo bayoneta [2006.01]"
+  },
+  {
+    "code": "H01T 13/12",
+    "description": "••••Medios sobre las bujías de encendido para facilitar su engranaje con una herramienta o con la mano [2006.01]"
+  },
+  {
+    "code": "H01T 13/14",
+    "description": "••••Medios de limpieza automática [2006.01]"
+  },
+  {
+    "code": "H01T 13/16",
+    "description": "••••Medios para disipar el calor [2006.01]"
+  },
+  {
+    "code": "H01T 13/18",
+    "description": "••••Medios para calentar, p. ej. para secar [2006.01]"
+  },
+  {
+    "code": "H01T 13/20",
+    "description": "••caracterizados por las particularidades de los electrodos o del aislante [2006.01]"
+  },
+  {
+    "code": "H01T 13/22",
+    "description": "••••teniendo dos o más electrodos empotrados en el aislante (bujías de encendido que tienen dos o más espinterómetros H01T 13/46) [2006.01]"
+  },
+  {
+    "code": "H01T 13/24",
+    "description": "••••teniendo electrodos móviles (H01T 13/28 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01T 13/26",
+    "description": "••••••para ajustar el espinterómetro de otro modo que por flexión del electrodo [2006.01]"
+  },
+  {
+    "code": "H01T 13/28",
+    "description": "••••teniendo electrodos de forma esférica, p. ej. forma de bola [2006.01]"
+  },
+  {
+    "code": "H01T 13/30",
+    "description": "••••••montados de forma que permiten un movimiento libre [2006.01]"
+  },
+  {
+    "code": "H01T 13/32",
+    "description": "••••caracterizadas por las particularidades del electrodo de masa [2006.01]"
+  },
+  {
+    "code": "H01T 13/34",
+    "description": "••••caracterizadas por el montaje de los electrodos en el aislante, p. ej. por empotramiento [2006.01]"
+  },
+  {
+    "code": "H01T 13/36",
+    "description": "••••caracterizadas por la unión entre el aislamiento y cuerpo, p. ej. utilizando cemento [2006.01]"
+  },
+  {
+    "code": "H01T 13/38",
+    "description": "••••Selección de materiales para aislamiento [2006.01]"
+  },
+  {
+    "code": "H01T 13/39",
+    "description": "••••Empleo de materiales particulares para los electrodos [2006.01]"
+  },
+  {
+    "code": "H01T 13/40",
+    "description": "••combinadas estructuralmente con otros dispositivos (combinados o asociados con inyectores de combustible F02M 57/06; combinados estructuralmente con otras partes de motores de combustión interna F02P 13/00) [2006.01]"
+  },
+  {
+    "code": "H01T 13/41",
+    "description": "••••con pantallas o medios de supresión de parásitos [2006.01]"
+  },
+  {
+    "code": "H01T 13/42",
+    "description": "••••con generadores magnéticos de chispa [2006.01]"
+  },
+  {
+    "code": "H01T 13/44",
+    "description": "••••con transformadores, p. ej. para encendido en alta frecuencia [2006.01]"
+  },
+  {
+    "code": "H01T 13/46",
+    "description": "••teniendo dos o más espinterómetros [2006.01]"
+  },
+  {
+    "code": "H01T 13/48",
+    "description": "••teniendo medios para producir chispas visibles [2006.01]"
+  },
+  {
+    "code": "H01T 13/50",
+    "description": "••provistas de medios para ionizar el intervalo (H01T 13/52 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01T 13/52",
+    "description": "••caracterizadas por la descarga a lo largo de una superficie [2006.01]"
+  },
+  {
+    "code": "H01T 13/54",
+    "description": "••con electrodos dispuestos en una cámara de encendido parcialmente cerrada [2006.01]"
+  },
+  {
+    "code": "H01T 13/56",
+    "description": "••caracterizadas por tener partes constitutivas las cuales son fácilmente montadas o desmontadas [2006.01]"
+  },
+  {
+    "code": "H01T 13/58",
+    "description": "••Ensayos (ensayos de las características de los electrodos en la combustión interna de una máquina de ignición F02P 17/12) [2020.01]"
+  },
+  {
+    "code": "H01T 13/60",
+    "description": "••••de las propiedades eléctricas [2011.01]"
+  },
+  {
+    "code": "H01T 14/00",
+    "description": "Espinterómetros no previstos en los grupos H01T 2/00-H01T 13/00 (dispositivos previstos para la descarga corona H01T 19/00) [2006.01]"
+  },
+  {
+    "code": "H01T 15/00",
+    "description": "Circuitos especialmente adaptados a los espinterómetros, p. ej. circuitos de encendido (circuitos de encendido para motores de combustión interna F02P; encendido por chispa eléctrica para aparato de combustión F23Q; circuitos de protección que utilizan espinterómetros H02H 9/06) [2006.01]"
+  },
+  {
+    "code": "H01T 19/00",
+    "description": "Dispositivos previstos para la descarga corona (para cargar elementos electrográficos G03G 15/02) [2006.01]"
+  },
+  {
+    "code": "H01T 19/02",
+    "description": "••Anillos anticorona [2006.01]"
+  },
+  {
+    "code": "H01T 19/04",
+    "description": "••provistos de electrodos puntiagudos [2006.01]"
+  },
+  {
+    "code": "H01T 21/00",
+    "description": "Aparatos o procedimientos especialmente adaptados para la fabricación o mantenimiento de espinterómetros o de las bujías de encendido [2006.01]"
+  },
+  {
+    "code": "H01T 21/02",
+    "description": "••de bujías de encendido [2006.01]"
+  },
+  {
+    "code": "H01T 21/04",
+    "description": "••••Limpieza (medios para limpieza automática H01T 13/14; dispositivos de tratamiento por chorro abrasivo para limpiar las bujías de encendido B24C 3/34) [2006.01]"
+  },
+  {
+    "code": "H01T 21/06",
+    "description": "••Montaje de espinterómetros (bujías de encendido provistas de electrodos móviles para ajustar el intervalo H01T 13/26) [2006.01]"
+  },
+  {
+    "code": "H01T 23/00",
+    "description": "Aparatos para la producción de iones destinados a ser introducidos en gases en estado libre, p. ej. en la atmósfera [2006.01]"
+  }
+]

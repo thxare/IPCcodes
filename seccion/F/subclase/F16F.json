@@ -1,0 +1,698 @@
+[
+  {
+    "code": "F16F 1/00",
+    "description": "Resortes (que funcionan con un fluido F16F 5/00, F16F 9/00) [2006.01]"
+  },
+  {
+    "code": "F16F 1/02",
+    "description": "••de acero o hechos de otro material de débil fricción interna (F16F 1/36 tiene prioridad); Resortes enrollados, torsionados, laminados en anillos o similares, no siendo relevante el materal del resorte [2006.01]"
+  },
+  {
+    "code": "F16F 1/04",
+    "description": "••••Resortes enrollados [2006.01]"
+  },
+  {
+    "code": "F16F 1/06",
+    "description": "••••••en los que el enrollamiento constituye una superficie cilíndrica [2006.01]"
+  },
+  {
+    "code": "F16F 1/08",
+    "description": "••••••en los que el enrollamiento constituye una superficie principalmente cónica [2006.01]"
+  },
+  {
+    "code": "F16F 1/10",
+    "description": "••••••Resortes en espiral en los que el enrollamiento constituye principalmente una superficie plana [2006.01]"
+  },
+  {
+    "code": "F16F 1/12",
+    "description": "••••••Fijaciones o montajes [2006.01]"
+  },
+  {
+    "code": "F16F 1/13",
+    "description": "••••••••comprendiendo elementos intercalados o separadores de las espiras con el fin de modificar las características mecánicas o físicas del resorte [2006.01]"
+  },
+  {
+    "code": "F16F 1/14",
+    "description": "••••Resortes de torsión fabricados de barras o tubos [2006.01]"
+  },
+  {
+    "code": "F16F 1/16",
+    "description": "••••••Fijaciones o montajes [2006.01]"
+  },
+  {
+    "code": "F16F 1/18",
+    "description": "••••Resortes de láminas [2006.01]"
+  },
+  {
+    "code": "F16F 1/20",
+    "description": "••••••con interláminas, p. ej. interláminas antifricción, o con rodillos entre las láminas [2006.01]"
+  },
+  {
+    "code": "F16F 1/22",
+    "description": "••••••con medios para modificar las características de elasticidad [2006.01]"
+  },
+  {
+    "code": "F16F 1/24",
+    "description": "••••••Lubrificación; Fundas, p. ej. retenes de grasa [2006.01]"
+  },
+  {
+    "code": "F16F 1/26",
+    "description": "••••••Fijaciones o montajes (B60G 11/10 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F16F 1/28",
+    "description": "••••••••llevando pasadores cilíndricos metálicos que giran en casquillos ajustados [2006.01]"
+  },
+  {
+    "code": "F16F 1/30",
+    "description": "••••••••llevando piezas intermedias de goma o de un material elástico similar [2006.01]"
+  },
+  {
+    "code": "F16F 1/32",
+    "description": "••••Resortes en forma de copa; Resortes en forma de discos ligeramente cóncavos (diafragmas F16J 3/00) [2006.01]"
+  },
+  {
+    "code": "F16F 1/34",
+    "description": "••••Anillos elásticos, es decir, cuerpos anulares deformados radialmente por una carga axial [2006.01]"
+  },
+  {
+    "code": "F16F 1/36",
+    "description": "••de material plástico, p. ej. goma; de material de alta fricción [2006.01]"
+  },
+  {
+    "code": "F16F 1/362",
+    "description": "••••de lana de acero o pelos comprimidos [2006.01]"
+  },
+  {
+    "code": "F16F 1/364",
+    "description": "••••de corcho, lana o similares [2006.01]"
+  },
+  {
+    "code": "F16F 1/366",
+    "description": "••••de material plástico reforzado con fibras [2006.01]"
+  },
+  {
+    "code": "F16F 1/368",
+    "description": "••••••Resortes de láminas [2006.01]"
+  },
+  {
+    "code": "F16F 1/37",
+    "description": "••••de un material espumoso, p. ej. esponja de goma [2006.01]"
+  },
+  {
+    "code": "F16F 1/371",
+    "description": "••••caracterizado por los elementos intercalados o elementos auxiliares de extensión, p. ej. para rigidizar (F16F 1/366, F16F 1/387 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "F16F 1/373",
+    "description": "••••caracterizado por tener una forma particular [2006.01]"
+  },
+  {
+    "code": "F16F 1/374",
+    "description": "••••••teniendo forma esférica o similar [2006.01]"
+  },
+  {
+    "code": "F16F 1/376",
+    "description": "••••••teniendo salientes, resaltes, dentelladuras o similar al menos en una de las superficies (F16F 1/387 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F16F 1/377",
+    "description": "••••••teniendo agujeros o aperturas (F16F 1/387 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F16F 1/379",
+    "description": "••••caracterizado por las disposiciones para controlar la temperatura del resorte, p. ej. por refrigeración [2006.01]"
+  },
+  {
+    "code": "F16F 1/38",
+    "description": "••••con un casquillo de material elástico entre un manguito exterior rígido y uno interior rígido o un pasador [2006.01]"
+  },
+  {
+    "code": "F16F 1/387",
+    "description": "••••••comprendiendo medios para regular la rigidez en ciertas direcciones [2006.01]"
+  },
+  {
+    "code": "F16F 1/393",
+    "description": "••••••con casquillos esférico o cónicos [2006.01]"
+  },
+  {
+    "code": "F16F 1/40",
+    "description": "••••constituidos por una pila de elementos similares separados por capas intermedias y no elásticas [2006.01]"
+  },
+  {
+    "code": "F16F 1/41",
+    "description": "••••••estando constituido el resorte por elementos dispuestos de forma generalmente cónico [2006.01]"
+  },
+  {
+    "code": "F16F 1/42",
+    "description": "••••caracterizados por el modo de trabajo [2006.01]"
+  },
+  {
+    "code": "F16F 1/44",
+    "description": "••••••trabajando principalmente a compresión [2006.01]"
+  },
+  {
+    "code": "F16F 1/46",
+    "description": "••••••trabajando principalmente a tensión [2006.01]"
+  },
+  {
+    "code": "F16F 1/48",
+    "description": "••••••trabajando principalmente a torsión [2006.01]"
+  },
+  {
+    "code": "F16F 1/50",
+    "description": "••••••trabajando principalmente a cizallamiento [2006.01]"
+  },
+  {
+    "code": "F16F 1/52",
+    "description": "••••••trabajando según modos de trabajo combinados [2006.01]"
+  },
+  {
+    "code": "F16F 1/54",
+    "description": "••••••••a compresión y a cizallamiento [2006.01]"
+  },
+  {
+    "code": "F16F 3/00",
+    "description": "Conjuntos de resortes constitutivos por varios de ellos, p. ej. para conseguir una determinada característica de elasticidad apetecida (cuando implican resortes de fluido F16F 5/00, F16F 13/00) [2006.01]"
+  },
+  {
+    "code": "F16F 3/02",
+    "description": "••con resortes de acero o de otro material con una fricción interior débil [2006.01]"
+  },
+  {
+    "code": "F16F 3/04",
+    "description": "••••compuestos solamente de resortes arrollados [2006.01]"
+  },
+  {
+    "code": "F16F 3/06",
+    "description": "••••••una parte de los cuales está colocada alrededor de los otros de tal suerte que se amortiguan entre sí por frotamiento mutuo [2006.01]"
+  },
+  {
+    "code": "F16F 3/07",
+    "description": "••••combinados con cámaras llenas de gas o de líquido [2006.01]"
+  },
+  {
+    "code": "F16F 3/08",
+    "description": "••con resortes de un material con una fricción interior elevada, p. ej. goma [2006.01]"
+  },
+  {
+    "code": "F16F 3/087",
+    "description": "••••Unidades que comprenden varios resortes hechos de material plástico o similar (F16F 1/40 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F16F 3/093",
+    "description": "••••••siendo los resortes de diferentes materiales, p. ej. con distintos tipos de goma [2006.01]"
+  },
+  {
+    "code": "F16F 3/10",
+    "description": "••••combinados con resortes de acero o hechos de un material diferente con una fricción interior débil [2006.01]"
+  },
+  {
+    "code": "F16F 3/12",
+    "description": "••••••estando los resortes de acero en contacto con los de goma [2006.01]"
+  },
+  {
+    "code": "F16F 5/00",
+    "description": "Resortes de líquido en los cuales éste funciona como un resorte por compresión, p. ej. combinados con una acción de estrangulamiento; Combinaciones de dispositivos que implican resortes de líquido [2006.01]"
+  },
+  {
+    "code": "F16F 6/00",
+    "description": "Resortes magnéticos; Resortes magnéticos de fluido [2006.01]"
+  },
+  {
+    "code": "F16F 7/00",
+    "description": "Amortiguadores de vibraciones; Amortiguadores de choques (utilizando un fluido F16F 5/00, F16F 9/00; especiales para sistemas rotativos F16F 15/10) [2006.01]"
+  },
+  {
+    "code": "F16F 7/01",
+    "description": "••utilizando fricción entre las partículas libres, p. ej. arena [2006.01]"
+  },
+  {
+    "code": "F16F 7/02",
+    "description": "••con superficies de fricción con rotación relativa en las que una está oprimida contra la otra (F16F 7/01 tiene prioridad; si uno de los órganos es un resorte F16F 13/02) [2006.01]"
+  },
+  {
+    "code": "F16F 7/04",
+    "description": "••••en la dirección del eje de rotación [2006.01]"
+  },
+  {
+    "code": "F16F 7/06",
+    "description": "••••en una dirección perpendicular o inclinada sobre el eje de rotación [2006.01]"
+  },
+  {
+    "code": "F16F 7/08",
+    "description": "••con superficies de fricción con un desplazamiento rectilíneo a lo largo de la otra (F16F 7/01 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F16F 7/09",
+    "description": "••••en amortiguadores del tipo cilindro-pistón [2006.01]"
+  },
+  {
+    "code": "F16F 7/10",
+    "description": "••utilizando un efecto de inercia [2006.01]"
+  },
+  {
+    "code": "F16F 7/104",
+    "description": "••••estando montado el miembro de inercia de manera elástica [2006.01]"
+  },
+  {
+    "code": "F16F 7/108",
+    "description": "••••••en resortes plásticos [2006.01]"
+  },
+  {
+    "code": "F16F 7/112",
+    "description": "••••••en resortes de fluido [2006.01]"
+  },
+  {
+    "code": "F16F 7/116",
+    "description": "••••••en resortes metálicos [2006.01]"
+  },
+  {
+    "code": "F16F 7/12",
+    "description": "••utilizando una deformación plástica de sus órganos [2006.01]"
+  },
+  {
+    "code": "F16F 7/14",
+    "description": "••del tipo soporte de cable, es decir, cables conectados por fricción formando bucles [2006.01]"
+  },
+  {
+    "code": "F16F 9/00",
+    "description": "Resortes, amortiguadores de vibraciones, amortiguadores de choques o amortiguadores de movimiento de estructura similar que utilizan un fluido o un medio equivalente como agente de amortiguamiento (F16F 5/00 tiene prioridad; uniones de válvulas a cuerpos elásticos inflables B60C 29/00; accesorios de maniobra para puertas que emplean un sistema de frenado por fluido E05F) [2006.01]"
+  },
+  {
+    "code": "F16F 9/02",
+    "description": "••utilizando un gas únicamente [2006.01]"
+  },
+  {
+    "code": "F16F 9/04",
+    "description": "••••en una cámara con pared flexible [2006.01]"
+  },
+  {
+    "code": "F16F 9/05",
+    "description": "••••••siendo la pared flexible del tipo de membrana de fuelle [2006.01]"
+  },
+  {
+    "code": "F16F 9/06",
+    "description": "••utilizando a la vez un gas y un líquido [2006.01]"
+  },
+  {
+    "code": "F16F 9/08",
+    "description": "••••con una cámara con pared flexible [2006.01]"
+  },
+  {
+    "code": "F16F 9/084",
+    "description": "••••••comprendiendo un resorte de gas contenido en el interior de una pared flexible, no estando la pared en contacto con el fluido de amortiguación, p. ej. montado en el interior del cilindro amortiguador [2006.01]"
+  },
+  {
+    "code": "F16F 9/088",
+    "description": "••••••comprendiendo un resorte de gas con una pared flexible situada en el interior del cilindro sobre el vástago del pistón de un amortiguador monotubular, o sobre el tubo interior de un amortiguador bitubular [2006.01]"
+  },
+  {
+    "code": "F16F 9/092",
+    "description": "••••••comprendiendo un resorte de gas con una pared flexible situada entre los tubos de un amortiguador bitubular [2006.01]"
+  },
+  {
+    "code": "F16F 9/096",
+    "description": "••••••comprendiendo un acumulador hidroneumático del tipo membrana situado en el extremo superior o inferior de un amortiguador, o situado separada o lateralmente sobre el amortiguador [2006.01]"
+  },
+  {
+    "code": "F16F 9/10",
+    "description": "••utilizando un líquido únicamente; utilizando un fluido cuya naturaleza no tiene importancia [2006.01]"
+  },
+  {
+    "code": "F16F 9/12",
+    "description": "••••Dispositivos con uno o varios álabes rotativos girando en el fluido, no teniendo importancia el efecto de estrangulamiento [2006.01]"
+  },
+  {
+    "code": "F16F 9/14",
+    "description": "••••Dispositivos con uno o varios órganos, p. ej. pistones, álabes que se desplazan con movimiento de vaivén en cámaras y utilizan un efecto de estrangulamiento [2006.01]"
+  },
+  {
+    "code": "F16F 9/16",
+    "description": "••••••implicando solamente un desplazamiento rectilíneo de las partes que trabajan [2006.01]"
+  },
+  {
+    "code": "F16F 9/18",
+    "description": "••••••••con un cilindro cerrado y un pistón que determina en el interior de este cilindro dos o más espacios de trabajo [2006.01]"
+  },
+  {
+    "code": "F16F 9/19",
+    "description": "••••••••••con un solo cilindro [2006.01]"
+  },
+  {
+    "code": "F16F 9/20",
+    "description": "••••••••••con un vástago del pistón que atraviesa las dos extremidades del cilindro [2006.01]"
+  },
+  {
+    "code": "F16F 9/22",
+    "description": "••••••••con uno o varios cilindros cada uno de los cuales tiene un espacio de trabajo único cerrado por un pistón o un émbolo buzo [2006.01]"
+  },
+  {
+    "code": "F16F 9/24",
+    "description": "••••••••••con un solo cilindro y un solo pistón émbolo buzo [2006.01]"
+  },
+  {
+    "code": "F16F 9/26",
+    "description": "••••••••••con dos cilindros en línea y con los dos pistones o émbolos buzo ligando entre sí [2006.01]"
+  },
+  {
+    "code": "F16F 9/28",
+    "description": "••••••••••con dos cilindros paralelos y con los dos pistones o émbolos buzo ligados entre sí [2006.01]"
+  },
+  {
+    "code": "F16F 9/30",
+    "description": "••con un material sólido o semisólido, p. ej. masas pastosas como agente de amortiguamiento [2006.01]"
+  },
+  {
+    "code": "F16F 9/32",
+    "description": "••Partes constitutivas [2006.01]"
+  },
+  {
+    "code": "F16F 9/34",
+    "description": "••••Estructura de las válvulas particulares (válvulas en general F16K); Forma o estructura de los pasos de estrangulamiento [2006.01]"
+  },
+  {
+    "code": "F16F 9/342",
+    "description": "••••••Pasos de estrangulamiento que funcionan con agujas de aforo [2006.01]"
+  },
+  {
+    "code": "F16F 9/344",
+    "description": "••••••Pasajes de corriente turbulenta [2006.01]"
+  },
+  {
+    "code": "F16F 9/346",
+    "description": "••••••Pasos de estrangulamiento en forma de muescas practicadas en las paredes de los cilindros [2006.01]"
+  },
+  {
+    "code": "F16F 9/348",
+    "description": "••••••Pasos de estrangulamiento en forma de discos anulados que operan en direcciones opuestas [2006.01]"
+  },
+  {
+    "code": "F16F 9/36",
+    "description": "••••Juntas de estanqueidad particulares, comprendiendo incluso las juntas o guías para vástagos de pistón [2006.01]"
+  },
+  {
+    "code": "F16F 9/38",
+    "description": "••••Tapas de protección o decorativas [2006.01]"
+  },
+  {
+    "code": "F16F 9/40",
+    "description": "••••Dispositivos para impedir una emulsión del fluido [2006.01]"
+  },
+  {
+    "code": "F16F 9/42",
+    "description": "••••Dispositivos para la refrigeración [2006.01]"
+  },
+  {
+    "code": "F16F 9/43",
+    "description": "••••Dispositivos para el llenado, p. ej. para la alimentación de gas [2006.01]"
+  },
+  {
+    "code": "F16F 9/44",
+    "description": "••••Dispositivos inherentes al amortiguador o llevados por el mismo para el reglaje manual o un reglaje no automático; tales medios combinados con una corrección de temperatura (F16F 9/53, F16F 9/56 tienen prioridad; corrección de temperatura únicamente F16F 9/52) [2006.01]"
+  },
+  {
+    "code": "F16F 9/46",
+    "description": "••••••permitiendo el control a distancia [2006.01]"
+  },
+  {
+    "code": "F16F 9/48",
+    "description": "••••Dispositivos que permiten diferentes efectos de amortiguamiento en diferentes puntos de la carrera (F16F 9/53, F16F 9/56 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "F16F 9/49",
+    "description": "••••••Topes que limitan el paso del fluido, p. ej. topes hidráulicos [2006.01]"
+  },
+  {
+    "code": "F16F 9/50",
+    "description": "••••Dispositivos peculiares de reglaje automático del amortiguador (F16F 9/53, F16F 9/56 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "F16F 9/504",
+    "description": "••••••Medios sensibles a la inercia [2006.01]"
+  },
+  {
+    "code": "F16F 9/508",
+    "description": "••••••Medios de respuesta a la velocidad dle desplazamiento del pistón [2006.01]"
+  },
+  {
+    "code": "F16F 9/512",
+    "description": "••••••Medios de respuesta a la acción de la carga sobre el amortiguador a la presión del fluido en el amortiguador [2006.01]"
+  },
+  {
+    "code": "F16F 9/516",
+    "description": "••••••resultando en que los efectos amortiguadores durante la compresión son diferentes de los efectos de amortiguación durante la expansión [2006.01]"
+  },
+  {
+    "code": "F16F 9/52",
+    "description": "••••••en caso de cambio de temperatura (combinados con un reglaje externo F16F 9/44) [2006.01]"
+  },
+  {
+    "code": "F16F 9/53",
+    "description": "••••Medios para ajustar las características de los amortiguadores haciendo variar la viscosidad del fluido, p. ej. electromagnéticos [2006.01]"
+  },
+  {
+    "code": "F16F 9/54",
+    "description": "••••Dispositivos para la fijación [2006.01]"
+  },
+  {
+    "code": "F16F 9/56",
+    "description": "••••Medios para el ajuste del largo o para el bloqueo del resorte amortiguador, p. ej. al final de la carrera [2006.01]"
+  },
+  {
+    "code": "F16F 9/58",
+    "description": "••••Retenes que limitan la carrera, p. ej. situados en el vástago del pistón por fuera del cilindro (F16F 9/49 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F16F 11/00",
+    "description": "Amortiguadores de vibraciones o amortiguadores de choque que funcionan a la vez por fricción y con un fluido amortiguador [2006.01]"
+  },
+  {
+    "code": "F16F 13/00",
+    "description": "Conjuntos que comprenden resortes del tipo no de fluido así como amortiguadores de vibraciones, amortiguadores de choque o resortes de fluido (F16F 5/00 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F16F 13/02",
+    "description": "••amortiguando por contacto de fricción entre el resorte y los medios de frenado (resortes arrollados funcionando por fricción recíproca F16F 3/06) [2006.01]"
+  },
+  {
+    "code": "F16F 13/04",
+    "description": "••comprendiendo conjuntamente un resorte de material plástico y un amortiguador, p. ej. un amotiguador de fricción [2006.01]"
+  },
+  {
+    "code": "F16F 13/06",
+    "description": "••••siendo el amortiguador de fluido, p. ej. no formando el resorte de material plástico parte de la pared de la cámara de fluido del amortiguador (F16F 13/26 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F16F 13/08",
+    "description": "••••••formando el resorte de material plástico por lo menos una parte de la pared de la cámara de fluido del amortiguador (F16F 13/20-F16F 13/24 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "F16F 13/10",
+    "description": "••••••••estando formada la pared al menos en parte de una membrana flexible o similar (F16F 13/12-F16F 13/18 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F16F 13/12",
+    "description": "••••••••Amortiguadores de una sola cámara (F16F 13/14 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F16F 13/14",
+    "description": "••••••••Unidades del tipo manguito [2006.01]"
+  },
+  {
+    "code": "F16F 13/16",
+    "description": "••••••••••especialmente adaptado para recibir cargas axiales [2006.01]"
+  },
+  {
+    "code": "F16F 13/18",
+    "description": "••••••••caracterizado por el emplazamiento o forma de la cámara de equilibrio, p. ej. rodeando la cámara de equilibrio al resorte plástico o siendo éste anular (F16F 13/14 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F16F 13/20",
+    "description": "••••••caracterizado por comprender también un resorte neumático (F16F 13/22 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F16F 13/22",
+    "description": "••••••caracterizado por comprender también un amortiguador dinámico (amortiguadores que utilizan un efecto de inercia en sí F16F 7/10) [2006.01]"
+  },
+  {
+    "code": "F16F 13/24",
+    "description": "••••••estando la parte central del conjunto soportada por un elemento y las partes extremas por otro único elemento, es decir, un montaje de doble acción [2006.01]"
+  },
+  {
+    "code": "F16F 13/26",
+    "description": "••••caracterizado por los dispositivos de ajuste o regulación sensibles a las condiciones exteriores [2006.01]"
+  },
+  {
+    "code": "F16F 13/28",
+    "description": "••••••especialmente adaptados a los conjuntos de tipo manguito (F16F 13/30 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F16F 13/30",
+    "description": "••••••comprendiendo medios para variar la viscosidad del fenido, p. ej. fluidos magnéticos o electroreológicos [2006.01]"
+  },
+  {
+    "code": "F16F 15/00",
+    "description": "Supresión de las vibraciones en los sistemas (dispositivos de suspensión de los asientos de vehículos B60N 2/50); Medios o dispositivos para evitar o reducir las fuerzas de desequilibrio, p. ej. debidas al movimiento (ensayo estático o equilibrado dinámico de máquinas o estructuras G01M 1/00) [2006.01]"
+  },
+  {
+    "code": "F16F 15/02",
+    "description": "••Supresión de las vibraciones en los sistemas no rotativos, p. ej. en sistemas alternativos; Supresión de las vibraciones en los sistemas rotativos mediante la utilización de órganos que no se desplazan con el sistema rotativo (productos estratificados B32B; supresión de vibraciones en los buques B63) [2006.01]"
+  },
+  {
+    "code": "F16F 15/023",
+    "description": "••••utilizando fluidos [2006.01]"
+  },
+  {
+    "code": "F16F 15/027",
+    "description": "••••••comprendiendo dispositivos de control [2006.01]"
+  },
+  {
+    "code": "F16F 15/03",
+    "description": "••••utilizando medios electromagnéticos (F16F 9/53 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F16F 15/04",
+    "description": "••••utilizando medios elásticos (piezas sueltas o su fijación F16F 1/00-F16F 13/00) [2006.01]"
+  },
+  {
+    "code": "F16F 15/06",
+    "description": "••••••con resortes metálicos (con resortes de goma igualmente F16F 15/08) [2006.01]"
+  },
+  {
+    "code": "F16F 15/067",
+    "description": "••••••••utilizando únicamente resortes enrrollados [2006.01]"
+  },
+  {
+    "code": "F16F 15/073",
+    "description": "••••••••utilizando únicamente resortos con lamas [2006.01]"
+  },
+  {
+    "code": "F16F 15/08",
+    "description": "••••••con resortes de goma [2006.01]"
+  },
+  {
+    "code": "F16F 15/10",
+    "description": "••Supresión de las vibraciones en los sistemas rotativos mediante la utilización de órganos móviles con el propio sistema (por equilibrado F16F 15/22; con volantes que actúan de manera variable o intermitente F16H) [2006.01]"
+  },
+  {
+    "code": "F16F 15/12",
+    "description": "••••utilizando órganos elásticos u órganos amortiguadores de fricción, p. ej. entre un árbol en rotación y una mesa giratoria montada encima (F16F 15/16 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F16F 15/121",
+    "description": "••••••utilizando los resortes como órganos elásticos, p. ej. resortes metálicos (F16F 15/131 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F16F 15/123",
+    "description": "••••••••resortes enrollados [2006.01]"
+  },
+  {
+    "code": "F16F 15/124",
+    "description": "••••••••resortes en material plástico, p. ej. de goma (F16F 15/123 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F16F 15/126",
+    "description": "••••••••••que consiste en al menos un elemento anular en torno al eje de rotación [2006.01]"
+  },
+  {
+    "code": "F16F 15/127",
+    "description": "••••••••utilizando los resortes de material plástico en combinación con otro tipo de resortes [2006.01]"
+  },
+  {
+    "code": "F16F 15/129",
+    "description": "••••••caracterizado por los órganos de amortiguadores de fricción (F16F 15/131 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F16F 15/131",
+    "description": "••••••comprendiendo el sistema de rotación dos o más masa giratorias [2006.01]"
+  },
+  {
+    "code": "F16F 15/133",
+    "description": "••••••••utilizando los resortes a modo de órganos elásticos, p. ej. resortes metálicos [2006.01]"
+  },
+  {
+    "code": "F16F 15/134",
+    "description": "••••••••••resortes enrollados [2006.01]"
+  },
+  {
+    "code": "F16F 15/136",
+    "description": "••••••••••resortes en material plástico, p. ej. en goma (F16F 15/134 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F16F 15/137",
+    "description": "••••••••••estando constituidos los órganos elásticos de dos o más resortes de diferente tipo [2006.01]"
+  },
+  {
+    "code": "F16F 15/139",
+    "description": "••••••••caracterizado por los órganos de fricción [2006.01]"
+  },
+  {
+    "code": "F16F 15/14",
+    "description": "••••utilizando masas en oscilación libre girando con el sistema [2006.01]"
+  },
+  {
+    "code": "F16F 15/16",
+    "description": "••••utilizando un fluido (dispositivos que conectan los órganos de entrada y de salida F16D) [2006.01]"
+  },
+  {
+    "code": "F16F 15/167",
+    "description": "••••••teniendo un elemento de inercia, p. ej. en anillo [2006.01]"
+  },
+  {
+    "code": "F16F 15/173",
+    "description": "••••••••situado dentro de una cámara cerrada [2006.01]"
+  },
+  {
+    "code": "F16F 15/18",
+    "description": "••••utilizando medios eléctricos (dispositivos dinamoeléctricos H02K) [2006.01]"
+  },
+  {
+    "code": "F16F 15/20",
+    "description": "••Supresión de las vibraciones de los sistemas rotativos mediante un agrupamiento o una disposición relativa adecuada de los órganos móviles o del sistema o de los sistemas [2006.01]"
+  },
+  {
+    "code": "F16F 15/22",
+    "description": "••Compensación de las fuerzas de inercia [2006.01]"
+  },
+  {
+    "code": "F16F 15/24",
+    "description": "••••en los sistemas con cigüeñales por una disposición particular de las manivelas, de los pistones, o similares [2006.01]"
+  },
+  {
+    "code": "F16F 15/26",
+    "description": "••••en los sistemas con cigüeñales utilizando masas sólidas diferentes de los pistones ordinarios, que se desplazan con el sistema mismo [2006.01]"
+  },
+  {
+    "code": "F16F 15/28",
+    "description": "••Contrapesos; Su fijación o su montaje (para cierres del tipo de rodillo E06B 9/62) [2006.01]"
+  },
+  {
+    "code": "F16F 15/30",
+    "description": "••Volantes (F16F 15/16 tiene prioridad; supresión de las vibraciones en sistemas relativos utilizando órganos elásticos o amortiguadores de fricción móviles con el sistema F16F 15/12; según el aspecto de pieza rotativa en general F16C 13/00, F16C 15/00) [2006.01]"
+  },
+  {
+    "code": "F16F 15/305",
+    "description": "••••hecho en material plástico, p. ej. en material plástico reforzado con fibras (FRP) [2006.01]"
+  },
+  {
+    "code": "F16F 15/31",
+    "description": "••••caracterizado por los medios para variar el monento de inercia [2006.01]"
+  },
+  {
+    "code": "F16F 15/315",
+    "description": "••••caracterizado por la situación del soporte, p. ej. monturas, cajas fijación de los elementos de inercia al árbol (F16F 15/31 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F16F 15/32",
+    "description": "••Pesos de reglaje o masas de equilibrado o medios equivalentes para equilibrar la piezas rotativas, p. ej. las ruedas de vehículo [2006.01]"
+  },
+  {
+    "code": "F16F 15/34",
+    "description": "••••Dispositivos de fijación para ello [2006.01]"
+  },
+  {
+    "code": "F16F 15/36",
+    "description": "••••de funcionamiento automático [2006.01]"
+  }
+]

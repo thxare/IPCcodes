@@ -1,0 +1,462 @@
+[
+  {
+    "code": "G06T 1/00",
+    "description": "Tratamiento de datos de imagen, de aplicación general [2006.01]"
+  },
+  {
+    "code": "G06T 1/20",
+    "description": "••Arquitecturas de procesadores; Configuración de procesadores, p. ej. configuración en pipeline [2006.01]"
+  },
+  {
+    "code": "G06T 1/40",
+    "description": "••••Redes neuronales [2006.01]"
+  },
+  {
+    "code": "G06T 1/60",
+    "description": "••Gestión de memoria [2006.01]"
+  },
+  {
+    "code": "G06T 3/00",
+    "description": "Transformación geométrica de la imagen en el plano de la imagen [2006.01]"
+  },
+  {
+    "code": "G06T 3/20",
+    "description": "••Translación lineal de una imagen completa o de una parte de imagen, p. ej. desfase [2006.01]"
+  },
+  {
+    "code": "G06T 3/40",
+    "description": "••Cambio de escala de una imagen completa o de una parte de imagen [2006.01]"
+  },
+  {
+    "code": "G06T 3/60",
+    "description": "••Rotación de una imagen completa o de una parte de imagen [2006.01]"
+  },
+  {
+    "code": "G06T 5/00",
+    "description": "Perfeccionamiento o restauración de imagen [2006.01]"
+  },
+  {
+    "code": "G06T 5/10",
+    "description": "••utilizando el filtrado en el dominio no espacial [2006.01]"
+  },
+  {
+    "code": "G06T 5/20",
+    "description": "••utilizando los operadores locales [2006.01]"
+  },
+  {
+    "code": "G06T 5/30",
+    "description": "••••Erosión o dilatación, p. ej. adelgazamiento [2006.01]"
+  },
+  {
+    "code": "G06T 5/40",
+    "description": "••utilizando técnicas de histogramas [2006.01]"
+  },
+  {
+    "code": "G06T 5/50",
+    "description": "••utilizando varias imágenes, p. ej. promedio, resta [2006.01]"
+  },
+  {
+    "code": "G06T 7/00",
+    "description": "Análisis de imagen [2017.01]"
+  },
+  {
+    "code": "G06T 7/10",
+    "description": "••Segmentación; Detección de bordes (segmentación basada en el movimiento G06T 7/215) [2017.01]"
+  },
+  {
+    "code": "G06T 7/11",
+    "description": "••••Segmentación basada en la región [2017.01]"
+  },
+  {
+    "code": "G06T 7/12",
+    "description": "••••Segmentación basada en los bordes [2017.01]"
+  },
+  {
+    "code": "G06T 7/13",
+    "description": "••••Detección de bordes [2017.01]"
+  },
+  {
+    "code": "G06T 7/136",
+    "description": "••••que utiliza umbralización [2017.01]"
+  },
+  {
+    "code": "G06T 7/143",
+    "description": "••••que utiliza aproximaciones probabilísticas, p.ej. modelo de campo aleatorio de Markov [MRF] [2017.01]"
+  },
+  {
+    "code": "G06T 7/149",
+    "description": "••••que utiliza modelos deformables, p. ej. modelos de contorno activo [2017.01]"
+  },
+  {
+    "code": "G06T 7/155",
+    "description": "••••que utiliza operadores morfológicos [2017.01]"
+  },
+  {
+    "code": "G06T 7/162",
+    "description": "••••que utiliza métodos basados en gráficos [2017.01]"
+  },
+  {
+    "code": "G06T 7/168",
+    "description": "••••que utiliza métodos de transformación de dominio [2017.01]"
+  },
+  {
+    "code": "G06T 7/174",
+    "description": "••••que implica la utilización de dos o más imágenes [2017.01]"
+  },
+  {
+    "code": "G06T 7/181",
+    "description": "••••que implica crecimiento de borde; que implica enlace de borde [2017.01]"
+  },
+  {
+    "code": "G06T 7/187",
+    "description": "••••que implica crecimiento de región; que implica fusión de región; que implica etiquetado de componentes conectados [2017.01]"
+  },
+  {
+    "code": "G06T 7/194",
+    "description": "••••que implica la segmentación del primer plano [2017.01]"
+  },
+  {
+    "code": "G06T 7/20",
+    "description": "••Análisis del movimiento (estimación del movimiento para codificación, decodificación, compresión o descompresión de señales de vídeo digitales H04N 19/43 , H04N 19/51) [2017.01]"
+  },
+  {
+    "code": "G06T 7/207",
+    "description": "••••para la estimación del movimiento sobre una jerarquía de resoluciones (estimación del movimiento multi-resolución o estimación jerárquica del movimiento para la codificación, decodificación, compresión o descompresión de señales de vídeo digitales H04N 19/53) [2017.01]"
+  },
+  {
+    "code": "G06T 7/215",
+    "description": "••••Segmentación basada en el movimiento [2017.01]"
+  },
+  {
+    "code": "G06T 7/223",
+    "description": "••••utilizando block-matching [2017.01]"
+  },
+  {
+    "code": "G06T 7/231",
+    "description": "••••••utilizando búsqueda completa [2017.01]"
+  },
+  {
+    "code": "G06T 7/238",
+    "description": "••••••utilizando búsqueda incompleta, p. ej. búsqueda en tres pasos [2017.01]"
+  },
+  {
+    "code": "G06T 7/246",
+    "description": "••••utilizando métodos basados en características, p. ej. el seguimiento de esquinas o segmentos [2017.01]"
+  },
+  {
+    "code": "G06T 7/254",
+    "description": "••••que emplea la sustracción de imágenes [2017.01]"
+  },
+  {
+    "code": "G06T 7/262",
+    "description": "••••utilizando métodos de transformación de dominio, p. ej. métodos de dominio de Fourier [2017.01]"
+  },
+  {
+    "code": "G06T 7/269",
+    "description": "••••utilizando métodos basados en gradientes [2017.01]"
+  },
+  {
+    "code": "G06T 7/277",
+    "description": "••••que utiliza aproximaciones estocásticas, p. ej. utilizando filtros Kalman [2017.01]"
+  },
+  {
+    "code": "G06T 7/285",
+    "description": "••••utilizando una secuencia de pares de imágenes estéreo [2017.01]"
+  },
+  {
+    "code": "G06T 7/292",
+    "description": "••••Seguimiento multi-cámara [2017.01]"
+  },
+  {
+    "code": "G06T 7/30",
+    "description": "••Determinación de parámetros de transformación para la alineación de imágenes, es decir, registro de imagen [2017.01]"
+  },
+  {
+    "code": "G06T 7/32",
+    "description": "••••utilizando métodos basados en correlación [2017.01]"
+  },
+  {
+    "code": "G06T 7/33",
+    "description": "••••utilizando métodos basados en características [2017.01]"
+  },
+  {
+    "code": "G06T 7/35",
+    "description": "••••utilizando métodos estadísticos [2017.01]"
+  },
+  {
+    "code": "G06T 7/37",
+    "description": "••••utilizando métodos de transformación de dominio [2017.01]"
+  },
+  {
+    "code": "G06T 7/38",
+    "description": "••••Registro de secuencias de imagen [2017.01]"
+  },
+  {
+    "code": "G06T 7/40",
+    "description": "••Análisis de la textura (recuperación de la profundidad o forma de la textura G06T 7/529) [2017.01]"
+  },
+  {
+    "code": "G06T 7/41",
+    "description": "••••basado en la descripción estadística de la textura [2017.01]"
+  },
+  {
+    "code": "G06T 7/42",
+    "description": "••••••utilizando métodos de transformación de dominio [2017.01]"
+  },
+  {
+    "code": "G06T 7/44",
+    "description": "••••••utilizando operadores de imagen, p. ej. filtros, indicadores de densidad de contorno o histogramas locales [2017.01]"
+  },
+  {
+    "code": "G06T 7/45",
+    "description": "••••••utilizando cálculo matricial de co-ocurrencia [2017.01]"
+  },
+  {
+    "code": "G06T 7/46",
+    "description": "••••••utilizando campos aleatorios [2017.01]"
+  },
+  {
+    "code": "G06T 7/48",
+    "description": "••••••utilizando fractales [2017.01]"
+  },
+  {
+    "code": "G06T 7/49",
+    "description": "••••basado en la descripción de la textura estructural, p.ej. utilizando primitivos o reglas de colocación [2017.01]"
+  },
+  {
+    "code": "G06T 7/50",
+    "description": "••Recuperación de profundidad o forma [2017.01]"
+  },
+  {
+    "code": "G06T 7/507",
+    "description": "••••a partir de sombreado (G06T 7/586 tiene prioridad) [2017.01]"
+  },
+  {
+    "code": "G06T 7/514",
+    "description": "••••a partir de reflejos [2017.01]"
+  },
+  {
+    "code": "G06T 7/521",
+    "description": "••••a partir de láser, p. ej. utilizando interferometría; a partir de la proyección de luz estructurada [2017.01]"
+  },
+  {
+    "code": "G06T 7/529",
+    "description": "••••a partir de la textura [2017.01]"
+  },
+  {
+    "code": "G06T 7/536",
+    "description": "••••a partir de efectos de perspectiva, p. ej. utilizando puntos de fuga [2017.01]"
+  },
+  {
+    "code": "G06T 7/543",
+    "description": "••••a partir de dibujos de línea [2017.01]"
+  },
+  {
+    "code": "G06T 7/55",
+    "description": "••••a partir de imágenes múltiples [2017.01]"
+  },
+  {
+    "code": "G06T 7/557",
+    "description": "••••••a partir de campos de luz, p. ej. de las cámaras plenópticas [2017.01]"
+  },
+  {
+    "code": "G06T 7/564",
+    "description": "••••••a partir de los contornos [2017.01]"
+  },
+  {
+    "code": "G06T 7/571",
+    "description": "••••••a partir del foco [2017.01]"
+  },
+  {
+    "code": "G06T 7/579",
+    "description": "••••••a partir del movimiento [2017.01]"
+  },
+  {
+    "code": "G06T 7/586",
+    "description": "••••••a partir de múltiples fuentes de luz, p. ej. estéreo fotométrico [2017.01]"
+  },
+  {
+    "code": "G06T 7/593",
+    "description": "••••••a partir de imágenes estéreo [2017.01]"
+  },
+  {
+    "code": "G06T 7/60",
+    "description": "••Análisis de los atributos geométricos [2017.01]"
+  },
+  {
+    "code": "G06T 7/62",
+    "description": "••••de la superficie, del perímetro, del diámetro o del volumen [2017.01]"
+  },
+  {
+    "code": "G06T 7/64",
+    "description": "••••de la convexidad o la concavidad [2017.01]"
+  },
+  {
+    "code": "G06T 7/66",
+    "description": "••••de los momentos de imagen o del centro de gravedad [2017.01]"
+  },
+  {
+    "code": "G06T 7/68",
+    "description": "••••de simetría [2017.01]"
+  },
+  {
+    "code": "G06T 7/70",
+    "description": "••Determinación de la posición o la orientación de objetos o cámaras (calibración de cámara G06T 7/80) [2017.01]"
+  },
+  {
+    "code": "G06T 7/73",
+    "description": "••••utilizando métodos basados en características [2017.01]"
+  },
+  {
+    "code": "G06T 7/77",
+    "description": "••••utilizando métodos estadísticos [2017.01]"
+  },
+  {
+    "code": "G06T 7/80",
+    "description": "••Análisis de imágenes capturadas para determinar parámetros de cámara intrínsecos o extrínsecos, p. ej. calibración de cámara [2017.01]"
+  },
+  {
+    "code": "G06T 7/90",
+    "description": "••Determinación de las características de color [2017.01]"
+  },
+  {
+    "code": "G06T 9/00",
+    "description": "Codificación de imagen, (reducción del ancho de banda o de la redundancia para imagenes estáticas H04N 1/41; codificación o descodificación de señales de imagenes de color estáticas H04N 1/64; métodos o disposiciones para la codificación, descodificación, compresión o descompresión de señales de video digital H04N 19/00) [2006.01]"
+  },
+  {
+    "code": "G06T 9/20",
+    "description": "••Codificación de los contornos, p. ej. utilizando la detección de los contornos [2006.01]"
+  },
+  {
+    "code": "G06T 9/40",
+    "description": "••Codificación en forma de árbol, p. ej. en cuatro ramas, en ocho ramas [2006.01]"
+  },
+  {
+    "code": "G06T 11/00",
+    "description": "Generación de imagen 2D ( Bidimiensional) [2006.01]"
+  },
+  {
+    "code": "G06T 11/20",
+    "description": "••Dibujo a partir de elementos básicos, p. ej. líneas o círculos [2006.01]"
+  },
+  {
+    "code": "G06T 11/40",
+    "description": "••Relleno de una superficie plana por adición de atributos de superficie, p. ej.  color o textura [2006.01]"
+  },
+  {
+    "code": "G06T 11/60",
+    "description": "••Edición de figuras y de texto; Combinación de figuras o de texto [2006.01]"
+  },
+  {
+    "code": "G06T 11/80",
+    "description": "••Creación o modificación de una imagen dibujada o pintada a mano utilizando un dispositivo manual de entrada, p. ej. un ratón, un lápiz luminoso, las teclas de dirección sobre el teclado [2006.01]"
+  },
+  {
+    "code": "G06T 13/00",
+    "description": "Animación [2011.01]"
+  },
+  {
+    "code": "G06T 13/20",
+    "description": "••animación 3D [Tridimensional] [2011.01]"
+  },
+  {
+    "code": "G06T 13/40",
+    "description": "••••de caracteres, p. ej. humanos, animales o seres virtuales [2011.01]"
+  },
+  {
+    "code": "G06T 13/60",
+    "description": "••••de fenómenos naturales, p. ej. lluvia, nieve, agua o plantas [2011.01]"
+  },
+  {
+    "code": "G06T 13/80",
+    "description": "••animación 2D , p. ej. utilizando dibujod (sprites) [2011.01]"
+  },
+  {
+    "code": "G06T 15/00",
+    "description": "Interpretación de imágenes 3D [Tridimensionales] [2011.01]"
+  },
+  {
+    "code": "G06T 15/02",
+    "description": "••Interpretación no-foto realista [2011.01]"
+  },
+  {
+    "code": "G06T 15/04",
+    "description": "••Mapeado de texturas [2011.01]"
+  },
+  {
+    "code": "G06T 15/06",
+    "description": "••Trazado de rayos [2011.01]"
+  },
+  {
+    "code": "G06T 15/08",
+    "description": "••Interpretación de volumen [2011.01]"
+  },
+  {
+    "code": "G06T 15/10",
+    "description": "••Efectos geométricos [2011.01]"
+  },
+  {
+    "code": "G06T 15/20",
+    "description": "••••Cálculo de perspectiva [2011.01]"
+  },
+  {
+    "code": "G06T 15/30",
+    "description": "••••Delimitación [2011.01]"
+  },
+  {
+    "code": "G06T 15/40",
+    "description": "••••Supresión de partes escondidas [2011.01]"
+  },
+  {
+    "code": "G06T 15/50",
+    "description": "••Efectos de luz [2011.01]"
+  },
+  {
+    "code": "G06T 15/55",
+    "description": "••••Radiosidad [2011.01]"
+  },
+  {
+    "code": "G06T 15/60",
+    "description": "••••Generación de sombra [2006.01]"
+  },
+  {
+    "code": "G06T 15/80",
+    "description": "••••Sombreado [2011.01]"
+  },
+  {
+    "code": "G06T 15/83",
+    "description": "••••••Sombreado de Phong [2011.01]"
+  },
+  {
+    "code": "G06T 15/87",
+    "description": "••••••Sombreado de Gouraud [2011.01]"
+  },
+  {
+    "code": "G06T 17/00",
+    "description": "Modelado 3D para gráficos por ordenador [2006.01]"
+  },
+  {
+    "code": "G06T 17/05",
+    "description": "••Modelos geográficos [2011.01]"
+  },
+  {
+    "code": "G06T 17/10",
+    "description": "••Descripción de volúmenes, p. ej. cilindros, cubos o utilizando CSG [Geometría Constructiva del Sólido] [2006.01]"
+  },
+  {
+    "code": "G06T 17/20",
+    "description": "••Descripción reticular, p. ej., poligonalización o teselación [2006.01]"
+  },
+  {
+    "code": "G06T 17/30",
+    "description": "••Descripción de superficies, p. ej. descripción polinomial de la superficie [2006.01]"
+  },
+  {
+    "code": "G06T 19/00",
+    "description": "Transformación de modelos o imágenes tridimensionales [3D] para infografía [2011.01]"
+  },
+  {
+    "code": "G06T 19/20",
+    "description": "••Edición de imágenes 3D, p. ej. cambio de formas o de colores, alineación de objetos o posicionado de partes [2011.01]"
+  }
+]

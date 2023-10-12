@@ -1,0 +1,1478 @@
+[
+  {
+    "code": "E21B 1/00",
+    "description": "Perforación por percusión (medios de accionamiento utilizados en el orificio de perforación E21B 4/00) [2006.01]"
+  },
+  {
+    "code": "E21B 1/02",
+    "description": "••Medios de accionamiento de superficie para martillos de percusión, p.ej. con un cable [2006.01]"
+  },
+  {
+    "code": "E21B 1/04",
+    "description": "••••Dispositivos de superficie para invertir el movimiento de la barrena o del cable [2006.01]"
+  },
+  {
+    "code": "E21B 1/12",
+    "description": "••con un órgano de impulsión oscilante (E21B 1/02, E21B 1/38 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "E21B 1/14",
+    "description": "••••accionado mediante un mecanismo rotativo [2006.01]"
+  },
+  {
+    "code": "E21B 1/16",
+    "description": "••••••con masas oscilantes montadas sobre resorte, p.ej. con colchón de aire [2006.01]"
+  },
+  {
+    "code": "E21B 1/18",
+    "description": "••••••••con unión elástica del medio de accionamiento a la varilla de impulsión por un doble resorte amortiguador [2006.01]"
+  },
+  {
+    "code": "E21B 1/20",
+    "description": "••••••formado como martillo centrífugo [2006.01]"
+  },
+  {
+    "code": "E21B 1/22",
+    "description": "••••accionado por electroimanes [2006.01]"
+  },
+  {
+    "code": "E21B 1/24",
+    "description": "••••siendo el órgano de impulsión un pistón accionado directamente por presión de un fluido [2006.01]"
+  },
+  {
+    "code": "E21B 1/26",
+    "description": "••••••por presión de un líquido [2006.01]"
+  },
+  {
+    "code": "E21B 1/28",
+    "description": "••••••••actuando mediante impulsos [2006.01]"
+  },
+  {
+    "code": "E21B 1/30",
+    "description": "••••••por presión de aire, de vapor o de gas [2006.01]"
+  },
+  {
+    "code": "E21B 1/32",
+    "description": "••••••••actuando mediante impulsos [2006.01]"
+  },
+  {
+    "code": "E21B 1/34",
+    "description": "••••••••••siendo el órgano de impulsión un pistón de un motor de combustión interna [2006.01]"
+  },
+  {
+    "code": "E21B 1/36",
+    "description": "••Del tipo de pistón portaherramienta, es decir, en la que la herramienta se une a un elemento de impulso [2006.01]"
+  },
+  {
+    "code": "E21B 1/38",
+    "description": "••Del tipo de pistón-martillo, es decir, en la que el barreno o el yunque se golpea por medio de un elemento de impulso [2006.01]"
+  },
+  {
+    "code": "E21B 3/00",
+    "description": "Perforación por rotación (medios de accionamiento utilizados en el orificio de perforación E21B 4/00; máquinas para perforar rotativas en general B23B) [2006.01]"
+  },
+  {
+    "code": "E21B 3/02",
+    "description": "••Medios de accionamiento de superficie para la perforación por rotación [2006.01]"
+  },
+  {
+    "code": "E21B 3/025",
+    "description": "••••con rotación alternada de la herramienta en los dos sentidos [2006.01]"
+  },
+  {
+    "code": "E21B 3/03",
+    "description": "••••con rotación intermitente de la herramienta en un solo sentido [2006.01]"
+  },
+  {
+    "code": "E21B 3/035",
+    "description": "••••con transmisión por deslizamiento o elástica [2006.01]"
+  },
+  {
+    "code": "E21B 3/04",
+    "description": "••••Plataformas de rotación [2006.01]"
+  },
+  {
+    "code": "E21B 3/06",
+    "description": "••••••Adaptación de los órganos de perforación para alimentar las plataformas de rotación (conexión o desconexión de acoplamientos o juntas E21B 19/16; mecanismos de enrollamiento de cuerdas, cadenas o cables, cabestrantes B66D) [2006.01]"
+  },
+  {
+    "code": "E21B 4/00",
+    "description": "Medios de accionamiento para perforar utilizados en el orificio de perforación [2006.01]"
+  },
+  {
+    "code": "E21B 4/02",
+    "description": "••Medios de accionamiento de tipo rotativo por fluido (turbinas hidráulicas para la perforación de pozos F03B 13/02) [2006.01]"
+  },
+  {
+    "code": "E21B 4/04",
+    "description": "••Medios de accionamiento eléctricos (E21B 4/12 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "E21B 4/06",
+    "description": "••Medios de percusión hacia el fondo del orificio, p. ej. martillos (barrenas a percusión E21B 10/36; mazos de perforación E21B 11/02; desprendimiento de partes atrapadas E21B 31/107) [2006.01]"
+  },
+  {
+    "code": "E21B 4/08",
+    "description": "••••siendo el impacto obtenido sólo por gravedad, p. ej. las correderas están libres [2006.01]"
+  },
+  {
+    "code": "E21B 4/10",
+    "description": "••••el movimiento de rotación continuo en una sola dirección del árbol o de los tubos de perforación produce impactos consecutivos [2006.01]"
+  },
+  {
+    "code": "E21B 4/12",
+    "description": "••••Martillos accionados eléctricamente [2006.01]"
+  },
+  {
+    "code": "E21B 4/14",
+    "description": "••••Martillos accionados por fluido [2006.01]"
+  },
+  {
+    "code": "E21B 4/16",
+    "description": "••Medios de accionamiento múltiples hacia el fondo del orificio, p. ej. para la perforación combinada por percusión y rotación (E21B 4/10 tiene prioridad); Medios de accionamiento para unidades de perforación con varias barrenas [2006.01]"
+  },
+  {
+    "code": "E21B 4/18",
+    "description": "••Anclaje o alimentación en el orificio de perforación [2006.01]"
+  },
+  {
+    "code": "E21B 4/20",
+    "description": "••combinados con un medio de accionamiento de superficie (E21B 4/10 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "E21B 6/00",
+    "description": "Medios de accionamiento para perforación combinada por percusión y rotación (medios de accionamiento utilizados en el orificio de perforación E21B 4/00; máquinas portátiles de percusión con rotación superpuesta B25D 16/00) [2006.01]"
+  },
+  {
+    "code": "E21B 6/02",
+    "description": "••siendo la rotación continua [2006.01]"
+  },
+  {
+    "code": "E21B 6/04",
+    "description": "••••Medios de accionamiento independientes para percusión y rotación [2006.01]"
+  },
+  {
+    "code": "E21B 6/06",
+    "description": "••siendo la rotación intermitente, p.ej. obtenida por medio de un trinquete [2006.01]"
+  },
+  {
+    "code": "E21B 6/08",
+    "description": "••••Medios de accionamiento independientes para percusión y rotación [2006.01]"
+  },
+  {
+    "code": "E21B 7/00",
+    "description": "Procedimientos o aparatos especiales para la perforación (soportes para la máquina de perforación, p.ej. torres de perforación o mástiles, E21B 15/00) [2006.01]"
+  },
+  {
+    "code": "E21B 7/02",
+    "description": "••Aparatos de perforación caracterizados por medios para el transporte terrestre, p.ej. montados en carros o sobre ruedas (aparatos de perforación móviles destinados a ser utilizados sobre fondos submarinos E21B 7/124) [2006.01]"
+  },
+  {
+    "code": "E21B 7/04",
+    "description": "••Perforación dirigida [2006.01]"
+  },
+  {
+    "code": "E21B 7/06",
+    "description": "••••Modificación de la dirección del orificio de perforación [2006.01]"
+  },
+  {
+    "code": "E21B 7/08",
+    "description": "••••••Dispositivos especiales para modificar la dirección de perforación, p. ej. barrenas especiales, juntas articuladas, biseles desviadores (diafragmas dirigibles de corte E21B 29/06; modificación de la dirección de las herramientas de repesca E21B 31/14) [2006.01]"
+  },
+  {
+    "code": "E21B 7/10",
+    "description": "••••Rectificación de las desviaciones de perforación [2006.01]"
+  },
+  {
+    "code": "E21B 7/12",
+    "description": "••Perforación bajo el agua (juntas telescópicas E21B 17/07; utilizando compensadores del movimiento de subida y bajada de las olas E21B 19/09; cabeceras de pozos especialmente adaptadas para instalaciones bajo el agua E21B 33/035) [2006.01]"
+  },
+  {
+    "code": "E21B 7/124",
+    "description": "••••con medios submarinos de accionamiento de la herramienta, p.ej. aparatos de perforación móviles destinados a ser utilizados sobre fondos submarinos [2006.01]"
+  },
+  {
+    "code": "E21B 7/128",
+    "description": "••••a partir de una plataforma flotante que lleva una base guía anclada independientemente al fondo del agua [2006.01]"
+  },
+  {
+    "code": "E21B 7/132",
+    "description": "••••a partir de una plataforma flotante sobre la superficie del agua [2006.01]"
+  },
+  {
+    "code": "E21B 7/136",
+    "description": "••••a partir de una plataforma no flotante (E21B 7/124 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "E21B 7/14",
+    "description": "••Perforación térmica, p. ej. perforación a la llama [2006.01]"
+  },
+  {
+    "code": "E21B 7/15",
+    "description": "••••el calor es producido por electricidad [2006.01]"
+  },
+  {
+    "code": "E21B 7/16",
+    "description": "••Aplicación de granallas o bolas separadas gracias a la presión de la barrena denominada perforación a la granalla [2006.01]"
+  },
+  {
+    "code": "E21B 7/18",
+    "description": "••Perforación por acción de chorros de líquidos o de gas, con o sin arrastre de granalla (E21B 7/14 tiene prioridad; monitores hidráulicos E21C 45/00) [2006.01]"
+  },
+  {
+    "code": "E21B 7/20",
+    "description": "••Introducción de encofrados o de tuberías en los orificios de perforación; Perforación y entubado simultáneos de orificios de perforación (medios de superficie para aplicar movimientos de rotación alternada al tubo de revestimiento E21B 3/025; colocación de pilotes E02D 7/00; excavación de pozos con progresión simultánea del revestimiento E21D 1/08) [2006.01]"
+  },
+  {
+    "code": "E21B 7/24",
+    "description": "••Perforación utilizando medios vibrantes u oscilantes, p. ej. masas desequilibradas (perforación por percusión E21B 1/00) [2006.01]"
+  },
+  {
+    "code": "E21B 7/26",
+    "description": "••Perforación sin movimiento de tierra, p. ej. con dispositivos de excavación autopropulsados (E21B 7/30 tiene prioridad; medios de accionamiento situados en el fondo del orificio E21B 4/00) [2006.01]"
+  },
+  {
+    "code": "E21B 7/28",
+    "description": "••Alargamiento de orificios perforados, p. ej. en contrasentido (barrenas para alargar el orificio de perforación E21B 10/26) [2006.01]"
+  },
+  {
+    "code": "E21B 7/30",
+    "description": "••••sin movimiento de tierra [2006.01]"
+  },
+  {
+    "code": "E21B 10/00",
+    "description": "Barrenas (especialmente adaptadas para modificar la dirección de perforación E21B 7/08; con medios para recoger sustancias E21B 27/00) [2006.01]"
+  },
+  {
+    "code": "E21B 10/02",
+    "description": "••Barrenas para muestras (caracterizadas por llevar partes resistentes al desgaste E21B 10/46; obtención de muestras intactas E21B 25/00) [2006.01]"
+  },
+  {
+    "code": "E21B 10/04",
+    "description": "••••con medios para destruir la muestra [2006.01]"
+  },
+  {
+    "code": "E21B 10/06",
+    "description": "••••Barrenas para muestras con órganos rodantes de corte [2006.01]"
+  },
+  {
+    "code": "E21B 10/08",
+    "description": "••Barrenas con órganos rodantes de corte, p. ej. con moletas (barrenas para muestras con órganos rodantes de corte E21B 10/06; con una parte piloto E21B 10/26; caracterizadas por llevar partes resistentes al desgaste E21B 10/46) [2006.01]"
+  },
+  {
+    "code": "E21B 10/10",
+    "description": "••••con el eje del órgano rodante soportado por sus extremos (con órganos de corte en forma de disco E21B 10/12) [2006.01]"
+  },
+  {
+    "code": "E21B 10/12",
+    "description": "••••con órganos de corte en forma de disco [2006.01]"
+  },
+  {
+    "code": "E21B 10/14",
+    "description": "••••combinadas con órganos de corte no rodantes que no sean los del tipo piloto [2006.01]"
+  },
+  {
+    "code": "E21B 10/16",
+    "description": "••••caracterizadas por la forma o disposición de los dientes [2006.01]"
+  },
+  {
+    "code": "E21B 10/18",
+    "description": "••••caracterizadas por llevar conductos o boquillas para los fluidos de perforación (suministro de fluido de perforación a los cojinetes E21B 10/23) [2006.01]"
+  },
+  {
+    "code": "E21B 10/20",
+    "description": "••••caracterizadas por llevar partes separables o ajustables, p. ej. brazos o ejes (barrenas en las que el eje del órgano de corte está soportado por sus extremos E21B 10/10) [2006.01]"
+  },
+  {
+    "code": "E21B 10/22",
+    "description": "••••caracterizadas por detalles de los cojinetes, de la lubricación o de la estanqueidad [2006.01]"
+  },
+  {
+    "code": "E21B 10/23",
+    "description": "••••••con suministro de fluido de perforación a los cojinetes [2006.01]"
+  },
+  {
+    "code": "E21B 10/24",
+    "description": "••••••caracterizadas por detalles de la lubricación (E21B 10/23 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "E21B 10/25",
+    "description": "••••••caracterizadas por detalles de la estanqueidad [2006.01]"
+  },
+  {
+    "code": "E21B 10/26",
+    "description": "••Barrenas con una parte piloto, es decir, barrenas que llevan un órgano de corte piloto; Barrenas para alargar el orificio de perforación, p. ej. escariadores (barrenas de percusión o trépanos con una parte piloto E21B 10/40; taladros con una parte piloto E21B 10/44) [2006.01]"
+  },
+  {
+    "code": "E21B 10/28",
+    "description": "••••con órganos rodantes de corte no regulables [2006.01]"
+  },
+  {
+    "code": "E21B 10/30",
+    "description": "••••••Escariadores con eje longitudinal de órganos de corte rodantes, p. ej. estabilizadores de escariado [2006.01]"
+  },
+  {
+    "code": "E21B 10/32",
+    "description": "••••con órganos de corte regulables [2006.01]"
+  },
+  {
+    "code": "E21B 10/34",
+    "description": "••••••del tipo órgano de corte rodante [2006.01]"
+  },
+  {
+    "code": "E21B 10/36",
+    "description": "••Barrenas a percusión (caracterizado por llevar partes resistentes al desgaste E21B 10/46) [2006.01]"
+  },
+  {
+    "code": "E21B 10/38",
+    "description": "••••caracterizados por llevar conductos o boquillas para los fluidos de perforación [2006.01]"
+  },
+  {
+    "code": "E21B 10/40",
+    "description": "••••con una parte piloto [2006.01]"
+  },
+  {
+    "code": "E21B 10/42",
+    "description": "••Barrenas rotativas del tipo rastrillo con dientes, lamas u órganos de corte similares, p.ej. del tipo horquilla, en cola de pescado (caracterizadas por sus partes resistentes al desgaste E21B 10/46, por canales o boquillas para los fluidos de perforación E21B 10/60, por partes desmontables o regulables E21B 10/62) [2006.01]"
+  },
+  {
+    "code": "E21B 10/43",
+    "description": "••••caracterizadas por la disposición de los dientes u otros elementos de corte [2006.01]"
+  },
+  {
+    "code": "E21B 10/44",
+    "description": "••Barrenas con una parte transportadora helicoidal, p. ej. barrenas del tipo tornillo; Taladros con una parte piloto o partes separables (E21B 10/42 tiene prioridad; tubos de perforación con estructura helicoidal E21B 17/22) [2006.01]"
+  },
+  {
+    "code": "E21B 10/46",
+    "description": "••caracterizadas por llevar partes resistentes al desgaste, p. ej. plaquitas de diamante [2006.01]"
+  },
+  {
+    "code": "E21B 10/48",
+    "description": "••••siendo la barrena del tipo para muestra [2006.01]"
+  },
+  {
+    "code": "E21B 10/50",
+    "description": "••••siendo la barrena del tipo rodante de corte [2006.01]"
+  },
+  {
+    "code": "E21B 10/52",
+    "description": "••••••con plaquitas de tipo cincel o botón [2006.01]"
+  },
+  {
+    "code": "E21B 10/54",
+    "description": "••••siendo la barrena rotativa del tipo rastrillo, p.ej. barrena de tipo horquilla [2006.01]"
+  },
+  {
+    "code": "E21B 10/55",
+    "description": "••••••con elementos de corte preformados (plaquitas en sí\n\t\t\t\t\t\t\t\t\t\t\t\tE21B 10/56, E21B 10/58) [2006.01]"
+  },
+  {
+    "code": "E21B 10/56",
+    "description": "••••Plaquitas tipo botón (E21B 10/52 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "E21B 10/567",
+    "description": "••••••con elementos de corte preformados montados en un soporte distinto, p. ej. plaquitas policristalinas [2006.01]"
+  },
+  {
+    "code": "E21B 10/573",
+    "description": "••••••••caracterizadas por detalles del soporte, p. ej. la construcción del sustrato o la interfase entre el sustrato y el elemento de corte [2006.01]"
+  },
+  {
+    "code": "E21B 10/58",
+    "description": "••••Plaquitas tipo cincel (E21B 10/52, E21B 10/54 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "E21B 10/60",
+    "description": "••caracterizadas por llevar conductos o boquillas para los fluidos de perforación (para las barrenas u órganos rodantes de corte E21B 10/18; para barrenas a percusión o trépano E21B 10/38) [2006.01]"
+  },
+  {
+    "code": "E21B 10/61",
+    "description": "••••caracterizadas por la estructura de la boquilla [2006.01]"
+  },
+  {
+    "code": "E21B 10/62",
+    "description": "••caracterizadas por llevar componentes, p. ej. elementos de corte, que son desmontables o regulables (E21B 10/64 tiene prioridad; para barrenas u órganos de corte rodantes E21B 10/20; para taladros E21B 10/44) [2006.01]"
+  },
+  {
+    "code": "E21B 10/627",
+    "description": "••••con una pluralidad de elementos de corte desmontables [2006.01]"
+  },
+  {
+    "code": "E21B 10/633",
+    "description": "••••••desmontables independientemente [2006.01]"
+  },
+  {
+    "code": "E21B 10/64",
+    "description": "••caracterizadas porque pueden ser, en todo o en parte, colocadas en el orificio de perforación o sacadas de él sin retirar el tubo de perforación (receptáculos para muestras que poseen la misma propiedad E21B 25/02) [2006.01]"
+  },
+  {
+    "code": "E21B 10/66",
+    "description": "••••siendo el elemento de corte móvil a lo largo del interior del tubo de perforación y desplazable lateralmente [2006.01]"
+  },
+  {
+    "code": "E21B 11/00",
+    "description": "Otras herramientas de perforación [2006.01]"
+  },
+  {
+    "code": "E21B 11/02",
+    "description": "••Mazos de perforación (medios de accionamiento a percusión utilizados en el orificio de perforación E21B 4/06; barrenas a percusión E21B 10/36) [2006.01]"
+  },
+  {
+    "code": "E21B 11/04",
+    "description": "••Enganchador de sondas de perforación [2006.01]"
+  },
+  {
+    "code": "E21B 11/06",
+    "description": "••con cadenas cortantes accionadas mecánicamente, u otras herramientas accionadas de forma análoga [2006.01]"
+  },
+  {
+    "code": "E21B 12/00",
+    "description": "Accesorios para las herramientas de perforación [2006.01]"
+  },
+  {
+    "code": "E21B 12/02",
+    "description": "••Indicadores del desgaste [2006.01]"
+  },
+  {
+    "code": "E21B 12/04",
+    "description": "••Protectores de barrenas [2006.01]"
+  },
+  {
+    "code": "E21B 12/06",
+    "description": "••Dispositivos de limpieza mecánicos [2006.01]"
+  },
+  {
+    "code": "E21B 15/00",
+    "description": "Soportes para la máquina de perforación, p.ej. torres de perforación o mástiles [2006.01]"
+  },
+  {
+    "code": "E21B 15/02",
+    "description": "••especialmente adaptados para la perforación bajo el agua (E21B 15/04 tiene prioridad; plataformas de perforación flotantes B63B 35/44; plataformas de perforación sobre patas E02B 17/00) [2006.01]"
+  },
+  {
+    "code": "E21B 15/04",
+    "description": "••especialmente adaptados para la perforación dirigida, p. ej. aparatos para orificios inclinados [2006.01]"
+  },
+  {
+    "code": "E21B 17/00",
+    "description": "Barras o tubos de perforación; Trenes de barras flexibles; Barras de accionamiento; Collares de perforación; Barras de bombeo; Entubaciones; Columnas de producción (acoplamientos de barras en general F16D; tubos o acoplamiento de tubos en general F16L) [2006.01]"
+  },
+  {
+    "code": "E21B 17/01",
+    "description": "••Columnas montantes para cabezas de pozos sumergidos (conectadores E21B 33/038) [2006.01]"
+  },
+  {
+    "code": "E21B 17/02",
+    "description": "••Acoplamientos; Juntas [2006.01]"
+  },
+  {
+    "code": "E21B 17/03",
+    "description": "••••entre la barra o el tubo de perforación y el motor de perforación, p.ej. entre la barra de perforación y el martillo [2006.01]"
+  },
+  {
+    "code": "E21B 17/04",
+    "description": "••••entre barra y barrena, o entre barras [2006.01]"
+  },
+  {
+    "code": "E21B 17/042",
+    "description": "••••••fileteados [2006.01]"
+  },
+  {
+    "code": "E21B 17/043",
+    "description": "••••••••con medios de cierre [2006.01]"
+  },
+  {
+    "code": "E21B 17/046",
+    "description": "••••••con nerviaciones, pasadores o garras y ranuras complementarias o similares, p. ej. enganche de bayoneta [2006.01]"
+  },
+  {
+    "code": "E21B 17/05",
+    "description": "••••••Juntas de pivote [2006.01]"
+  },
+  {
+    "code": "E21B 17/06",
+    "description": "••••••Juntas liberables, p. ej. juntas de seguridad [2006.01]"
+  },
+  {
+    "code": "E21B 17/07",
+    "description": "••••••Juntas telescópicas que permiten variar las longitudes de los trenes de tubos acoplados; Amortiguadores (compensadores del movimiento de subida y bajada de las olas en las torres de perforación E21B 19/09; desprendimiento de partes acuñadas E21B 31/107) [2006.01]"
+  },
+  {
+    "code": "E21B 17/08",
+    "description": "••••Juntas de entubación [2006.01]"
+  },
+  {
+    "code": "E21B 17/10",
+    "description": "••Protectores contra el desgaste; Dispositivos de centrado (medios de accionamiento utilizados en el orificio de perforación que llevan medios de anclaje E21B 4/18; dispositivos de guíado o de centrado en el exterior del orificio de perforación E21B 19/24) [2006.01]"
+  },
+  {
+    "code": "E21B 17/12",
+    "description": "••••Dispositivos para colocar o retirar los manguitos protectores [2006.01]"
+  },
+  {
+    "code": "E21B 17/14",
+    "description": "••Zapatas de entubación [2006.01]"
+  },
+  {
+    "code": "E21B 17/16",
+    "description": "••Collares de perforación [2006.01]"
+  },
+  {
+    "code": "E21B 17/18",
+    "description": "••Tubos provistos con varios orificios para los fluidos de circulación (circulación de fluido de perforación por medio de dichos tubos E21B 21/12) [2006.01]"
+  },
+  {
+    "code": "E21B 17/20",
+    "description": "••Tubos de perforación flexibles o articulados [2006.01]"
+  },
+  {
+    "code": "E21B 17/22",
+    "description": "••Barras o tubos con estructura helicoidal (barrenas con una parte transportadora helicoidal E21B 10/44) [2006.01]"
+  },
+  {
+    "code": "E21B 19/00",
+    "description": "Manipulación de barras, tuberías, tubos u otros objetos análogos en el exterior del orificio de perforación, p. ej. en la torre de perforación; Aparatos para hacer avanzar las barras o cables (medios de accionamiento en la superficie E21B 1/02, E21B 3/02) [2006.01]"
+  },
+  {
+    "code": "E21B 19/02",
+    "description": "••Dispositivos de suspensión de las barras o cables (elementos de toma de carga para subir o bajar objetos en general B66C 1/00; trócolas fijas o poleas móviles B66D; guías de cables B66D 1/36) [2006.01]"
+  },
+  {
+    "code": "E21B 19/04",
+    "description": "••••Ganchos [2006.01]"
+  },
+  {
+    "code": "E21B 19/06",
+    "description": "••••Elevadores, es decir, dispositivos que abarcan barras o tubos [2006.01]"
+  },
+  {
+    "code": "E21B 19/07",
+    "description": "••••••Elevadores mediante cuña de retención (cuñas de retención en las mesas de rotación E21B 19/10) [2006.01]"
+  },
+  {
+    "code": "E21B 19/08",
+    "description": "••Aparatos para hacer avanzar las barras o cables (E21B 19/22 tiene prioridad; alimentación automática E21B 44/02; tambores de elevación B66D); Aparatos para aumentar o disminuir la presión sobre la herramienta de perforación; Aparatos para compensar los pesos de las barras [2006.01]"
+  },
+  {
+    "code": "E21B 19/081",
+    "description": "••••Mecanismos de avance de tornillo y tuerca [2006.01]"
+  },
+  {
+    "code": "E21B 19/083",
+    "description": "••••Mecanismos de avance de leva, de cremallera o similares [2006.01]"
+  },
+  {
+    "code": "E21B 19/084",
+    "description": "••••con medios de tracción flexibles, p.ej. cables [2006.01]"
+  },
+  {
+    "code": "E21B 19/086",
+    "description": "••••con un cilindro accionado mediante fluido (E21B 19/084, E21B 19/087, E21B 19/09 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "E21B 19/087",
+    "description": "••••por medio de un brazo oscilante [2006.01]"
+  },
+  {
+    "code": "E21B 19/089",
+    "description": "••••con un resorte o un peso adicional [2006.01]"
+  },
+  {
+    "code": "E21B 19/09",
+    "description": "••••especialmente adaptada para perforar formaciones bajo el agua desde un soporte flotante utilizando compensadores del movimiento de subida y bajada de las olas que soporta el tren de barras (juntas telescópicas de tubos de perforación E21B 17/07) [2006.01]"
+  },
+  {
+    "code": "E21B 19/10",
+    "description": "••Cuñas de retención; Collares para cuñas [2006.01]"
+  },
+  {
+    "code": "E21B 19/12",
+    "description": "••Collares de retención para cables (collares de presión de cables en general F16G 11/00) [2006.01]"
+  },
+  {
+    "code": "E21B 19/14",
+    "description": "••Bastidores, rampas, tolvas o arguetas para soportar los elementos de barras individuales o ensambladas; Manipulación entre el lugar de almacenaje y el orificio de perforación (E21B 19/20, E21B 19/22 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "E21B 19/15",
+    "description": "••••Almacenamiento de barras en posición horizontal; Manipulación entre las posiciones horizontal y vertical [2006.01]"
+  },
+  {
+    "code": "E21B 19/16",
+    "description": "••Conexión o desconexión de acoplamientos de tubos o de juntas (E21B 19/20 tiene prioridad; llaves para tubos o herramientas análogas B25B) [2006.01]"
+  },
+  {
+    "code": "E21B 19/18",
+    "description": "••Conexión o desconexión de barrenas y de tubos de perforación [2006.01]"
+  },
+  {
+    "code": "E21B 19/20",
+    "description": "••Alimentación a partir de bastidores y conexión combinados, p. ej. de una forma automática [2006.01]"
+  },
+  {
+    "code": "E21B 19/22",
+    "description": "••Manipulación de tubos o barras enrolladas, p. ej. tubos de perforación flexibles [2006.01]"
+  },
+  {
+    "code": "E21B 19/24",
+    "description": "••Dispositivos de guiado o de centrado para barras o tubos de perforación [2006.01]"
+  },
+  {
+    "code": "E21B 21/00",
+    "description": "Procedimientos o aparatos para limpiar por chorro de líquido los orificios de perforación, p.ej. utilizando el aire de escape de un motor (desprendimiento de objetos dejados en los orificios de perforación por chorro de líquido E21B 31/03; composiciones para la perforación de pozos C09K 8/02) [2006.01]"
+  },
+  {
+    "code": "E21B 21/01",
+    "description": "••Instalaciones para manejar los fluidos de perforación o cortes en el exterior del orificio de perforación, p.ej. cajas de barro (instalaciones para tratar los fluidos de perforación E21B 21/06) [2006.01]"
+  },
+  {
+    "code": "E21B 21/015",
+    "description": "••••Medios que se acoplan a la entrada de los orificios, p.ej. cubiertas para recoger polvo [2006.01]"
+  },
+  {
+    "code": "E21B 21/02",
+    "description": "••Uniones articuladas en las flexibles [2006.01]"
+  },
+  {
+    "code": "E21B 21/06",
+    "description": "••Instalaciones para tratar los fluidos de perforación en el exterior del orificio de perforación (etapas de tratamiento en sí, ver las subclases correspondientes) [2006.01]"
+  },
+  {
+    "code": "E21B 21/07",
+    "description": "••••para tratar fluidos gaseosos cargados de polvo [2006.01]"
+  },
+  {
+    "code": "E21B 21/08",
+    "description": "••Control o vigilancia de la presión o del flujo de perforación, p. ej. relleno automático de los orificios de perforación, control automático de la presión en el fondo (instalación de válvulas a este efecto E21B 21/10) [2006.01]"
+  },
+  {
+    "code": "E21B 21/10",
+    "description": "••Instalación de válvulas en los sistemas de circulación de fluidos de perforación (válvulas en general F16K) [2006.01]"
+  },
+  {
+    "code": "E21B 21/12",
+    "description": "••utilizando tubos de perforación que llevan múltiples agujeros para los fluidos, p. ej. sistemas de circuito cerrado (tubos que tienen múltiples agujeros para los fluidos E21B 17/18) [2006.01]"
+  },
+  {
+    "code": "E21B 21/14",
+    "description": "••utilizando líquidos y gases, p. ej. espumas [2006.01]"
+  },
+  {
+    "code": "E21B 21/16",
+    "description": "••utilizando fluidos gaseosos (E21B 21/14 tiene prioridad; instalaciones para manejar los fluidos de perforación en el exterior del orificio de perforación E21B 21/01; instalaciones para tratar los fluidos de perforación E21B 21/06) [2006.01]"
+  },
+  {
+    "code": "E21B 21/18",
+    "description": "••Impidiendo que el aire de escape del motor de perforación sople en dirección del frente de ataque [2006.01]"
+  },
+  {
+    "code": "E21B 23/00",
+    "description": "Aparatos para desplazar, colocar, cerrar, liberar o retirar las herramientas, las empaquetaduras de estanqueidad u otros elementos en los orificios de perforación o de sondeo (colocación de tuberías, filtros, entubaciones o revestimientos E21B 43/10) [2006.01]"
+  },
+  {
+    "code": "E21B 23/01",
+    "description": "••para anclar las herramientas o similares (E21B 23/02-E21B 23/06 tienen prioridad; anclaje de los medios de accionamiento en el orificio de perforación E21B 4/18) [2006.01]"
+  },
+  {
+    "code": "E21B 23/02",
+    "description": "••por cierre de las herramientas u otros elementos sobre los soportes o en los alojamientos entre secciones adyacentes de la entubación (E21B 23/03-E21B 23/06 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "E21B 23/03",
+    "description": "••por colocación de las herramientas en los soportes o entrantes descentrados o retirándolas de ellos [2006.01]"
+  },
+  {
+    "code": "E21B 23/04",
+    "description": "••operados por medios fluidos, p. ej. accionados por explosión (E21B 23/06, E21B 23/08 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "E21B 23/06",
+    "description": "••para el montaje de empaquetaduras estancas u obturadores [2006.01]"
+  },
+  {
+    "code": "E21B 23/08",
+    "description": "••Introducción o circulación de las herramientas por presión de fluido, p. ej. sistemas de herramientas colocadas por una corriente de fluido (disposiciones especiales previstas a este efecto sobre las cabezas de pozos E21B 33/068; tapones de cimentación E21B 33/16; dispositivos de raspado accionados por presión de fluido E21B 37/04) [2006.01]"
+  },
+  {
+    "code": "E21B 23/10",
+    "description": "••••Herramientas especialmente adaptadas a este efecto [2006.01]"
+  },
+  {
+    "code": "E21B 23/12",
+    "description": "••••Dispositivos de desviación de herramientas [2006.01]"
+  },
+  {
+    "code": "E21B 23/14",
+    "description": "••para desplazar el cable o una herramienta operada por cable, p. ej. para operaciones de diagrafiado o de perforado en pozos desviados (por presión de fluido E21B 23/08; disposiciones en las cabeceras de los pozos para introducir o retirar herramientas operadas por cable E21B 33/072, E21B 33/076) [2006.01]"
+  },
+  {
+    "code": "E21B 25/00",
+    "description": "Aparatos para obtener o retirar las muestras intactas, p. ej. tubos de muestras, extractores de muestras (barrenas para muestras E21B 10/02; utilización de explosivos o proyectiles en los orificios de perforación o de sondeo E21B 49/04; muestreo o pruebas laterales E21B 49/06) [2006.01]"
+  },
+  {
+    "code": "E21B 25/02",
+    "description": "••el receptáculo de la muestra puede ser introducido en el orificio de perforación o sacado de él sin retirar el tubo de perforación (barrenas que poseen la misma propiedad E21B 10/64) [2006.01]"
+  },
+  {
+    "code": "E21B 25/04",
+    "description": "••••el receptáculo de la muestra lleva un borde o elemento en forma de corte, p. ej. tubos de muestra del tipo punzón [2006.01]"
+  },
+  {
+    "code": "E21B 25/06",
+    "description": "••el receptáculo de la muestra lleva un manguito flexible o medios de retención hinchables [2006.01]"
+  },
+  {
+    "code": "E21B 25/08",
+    "description": "••Revestimiento, congelación, consolidación de muestras (E21B 25/06 tiene prioridad); Recuperación de muestras no contaminadas o de muestras a la presión de formación [2006.01]"
+  },
+  {
+    "code": "E21B 25/10",
+    "description": "••Medios de retención o de seccionamiento de las muestras formadas (E21B 25/06, E21B 25/08 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "E21B 25/12",
+    "description": "••••del tipo cuña deslizante [2006.01]"
+  },
+  {
+    "code": "E21B 25/14",
+    "description": "••••montadas sobre pivote transversal al eje de la muestra [2006.01]"
+  },
+  {
+    "code": "E21B 25/16",
+    "description": "••para obtener muestras orientadas [2006.01]"
+  },
+  {
+    "code": "E21B 25/18",
+    "description": "••el receptáculo de la muestra está especialmente adaptado para operaciones bajo el agua [2006.01]"
+  },
+  {
+    "code": "E21B 27/00",
+    "description": "Recipientes para recoger o depositar sustancias en los orificios de perforación o los pozos, p.ej. cucharas para recoger barro o arena; Barrenas con medios para recoger sustancias, p.ej. barrena con válvula de expulsión [2006.01]"
+  },
+  {
+    "code": "E21B 27/02",
+    "description": "••Cucharas de descarga, es decir, recipientes para depositar sustancias, p. ej. cemento o ácidos [2006.01]"
+  },
+  {
+    "code": "E21B 27/04",
+    "description": "••donde los medios de recogida o de depósito incluyen medios de transporte helicoidales [2006.01]"
+  },
+  {
+    "code": "E21B 28/00",
+    "description": "Disposiciones para generar vibraciones en los orificios de perforación o en los pozos, p. ej. para estimular la producción (para la perforación E21B 7/24; para transmitir señales de medida E21B 47/14; para mediciones geofísicas G01V 1/02) [2006.01]"
+  },
+  {
+    "code": "E21B 29/00",
+    "description": "Corte o destrucción de tubos, empaquetaduras de estanqueidad, tapones o cables, situados en orificios de perforación o en pozos, p. ej. corte de tubos dañados o de diafragmas (perforadores E21B 43/11); Deformación de tubos en los orificios de perforación; Reacondicionamiento de entubados de pozos sin retirarlos del suelo [2006.01]"
+  },
+  {
+    "code": "E21B 29/02",
+    "description": "••por medio de explosivos o medios térmicos o químicos (destrucción de objetos en los tubos de perforación o en pozos por medio de explosivos E21B 31/16) [2006.01]"
+  },
+  {
+    "code": "E21B 29/04",
+    "description": "••Seccionamiento de cables o similares (E21B 29/02 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "E21B 29/06",
+    "description": "••Corte de diafragmas, p. ej. corte dirigible de diafragmas a la vista de las operaciones que implican los biseles desviadores (E21B 29/08 tiene prioridad; biseles desviadores E21B 7/08) [2006.01]"
+  },
+  {
+    "code": "E21B 29/08",
+    "description": "••Corte o deformación de tubos para controlar la corriente de fluido (obturadores antierupción E21B 33/06) [2006.01]"
+  },
+  {
+    "code": "E21B 29/10",
+    "description": "••Reacondicionamiento de entubados de pozos, p. ej. enderezamiento [2006.01]"
+  },
+  {
+    "code": "E21B 29/12",
+    "description": "••especialmente adaptado para instalaciones bajo el agua (E21B 29/08 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "E21B 31/00",
+    "description": "Repesca o desprendimiento de objetos en los orificios de perforación o en los pozos (dispositivos sobre la cabeza de los pozos para introducir o sacar los objetos E21B 33/068; localización de objetos en los orificios de perforación o en los pozos E21B 47/09) [2006.01]"
+  },
+  {
+    "code": "E21B 31/03",
+    "description": "••Desprendimiento por chorro de líquido [2006.01]"
+  },
+  {
+    "code": "E21B 31/06",
+    "description": "••utilizando medios magnéticos [2006.01]"
+  },
+  {
+    "code": "E21B 31/08",
+    "description": "••utilizando cestos pescaherramientas o dispositivos de repesca análogos [2006.01]"
+  },
+  {
+    "code": "E21B 31/107",
+    "description": "••utilizando medios de percusión para desprender las partes acuñadas o atrapadas, p. ej. pasillos de batido (juntas telescópicas E21B 17/07) [2006.01]"
+  },
+  {
+    "code": "E21B 31/113",
+    "description": "••••funcionando hidráulicamente [2006.01]"
+  },
+  {
+    "code": "E21B 31/12",
+    "description": "••Herramientas de agarre, p. ej. pinzas o garfios [2006.01]"
+  },
+  {
+    "code": "E21B 31/14",
+    "description": "••••con medios que modifican la dirección de la herramienta, p. ej. con utilización de juntas articuladas (dispositivos para modificar la dirección de perforación E21B 7/08) [2006.01]"
+  },
+  {
+    "code": "E21B 31/16",
+    "description": "••••medios combinados de corte o destrucción (medios de corte o de destrucción en sí\n\t\t\t\t\t\t\t\t\t\t\tE21B 29/00) [2006.01]"
+  },
+  {
+    "code": "E21B 31/18",
+    "description": "••••agarres exteriormente, p. ej. enchufes de pesca [2006.01]"
+  },
+  {
+    "code": "E21B 31/20",
+    "description": "••••agarres interiormente, p. ej. grapas de sondaje [2006.01]"
+  },
+  {
+    "code": "E21B 33/00",
+    "description": "Cierre hermético o tapado de orificios de perforación o pozos [2006.01]"
+  },
+  {
+    "code": "E21B 33/02",
+    "description": "••Taponamiento u obturación en la superficie [2006.01]"
+  },
+  {
+    "code": "E21B 33/03",
+    "description": "••••Cabeceras de pozos; Su colocación (disposiciones de válvulas en las cabeceras de pozo E21B 34/02) [2006.01]"
+  },
+  {
+    "code": "E21B 33/035",
+    "description": "••••••especialmente adaptadas para instalaciones bajo el agua (E21B 33/043, E21B 33/064, E21B 33/076 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "E21B 33/037",
+    "description": "••••••••Recintos protectores para cabezas de pozos [2006.01]"
+  },
+  {
+    "code": "E21B 33/038",
+    "description": "••••••••Conectadores utilizados sobre las cabezas de pozos, p. ej. para conectar el obturador antierupción y la columna montante en el agua (conexión de una columna de producción a una cabecera de pozo bajo el agua E21B 43/013) [2006.01]"
+  },
+  {
+    "code": "E21B 33/04",
+    "description": "••••••Cabeceras de tuberías de revestimiento; Suspensión del revestimiento o de las columnas de producción en las cabeceras de pozo (colocación de tuberías de revestimiento en los pozos E21B 43/10) [2006.01]"
+  },
+  {
+    "code": "E21B 33/043",
+    "description": "••••••••especialmente adaptadas para las cabeceras de pozos bajo el agua (E21B 33/047 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "E21B 33/047",
+    "description": "••••••••para columnas de producción múltiples [2006.01]"
+  },
+  {
+    "code": "E21B 33/05",
+    "description": "••••••••Cabeceras de cimentación, p. ej. que llevan disposiciones para introducir los tapones de cimentación [2006.01]"
+  },
+  {
+    "code": "E21B 33/06",
+    "description": "••••••Obturadores antierupción [2006.01]"
+  },
+  {
+    "code": "E21B 33/064",
+    "description": "••••••••especialmente adaptados para las cabeceras de pozos bajo el agua (conectadores a este efecto E21B 33/038) [2006.01]"
+  },
+  {
+    "code": "E21B 33/068",
+    "description": "••••••llevando unas disposiciones para introducir objetos o fluidos en pozos o para sacarlos de ellos (cabeceras de cimentación E21B 33/05) [2006.01]"
+  },
+  {
+    "code": "E21B 33/072",
+    "description": "••••••••por herramientas maniobradas por cables (E21B 33/076 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "E21B 33/076",
+    "description": "••••••••especialmente adaptadas para instalaciones bajo el agua [2006.01]"
+  },
+  {
+    "code": "E21B 33/08",
+    "description": "••••Barras limpiadoras; Rodillos de aceite [2006.01]"
+  },
+  {
+    "code": "E21B 33/10",
+    "description": "••en el orificio de perforación [2006.01]"
+  },
+  {
+    "code": "E21B 33/12",
+    "description": "••••Empaquetaduras de estanqueidad; Tapones (utilizados para la cimentación E21B 33/134, E21B 33/16) [2006.01]"
+  },
+  {
+    "code": "E21B 33/122",
+    "description": "••••••Empaquetaduras de estanqueidad de varios extremos [2006.01]"
+  },
+  {
+    "code": "E21B 33/124",
+    "description": "••••••Unidas a tapones espaciados longitudinalmente para aislar los espacios intermedios [2006.01]"
+  },
+  {
+    "code": "E21B 33/126",
+    "description": "••••••con cubeta o faldón elásticos accionados mediante presión de un fluido (E21B 33/122, E21B 33/124 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "E21B 33/127",
+    "description": "••••••con manguito inflable (E21B 33/122, E21B 33/124 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "E21B 33/128",
+    "description": "••••••con un órgano dilatado radialmente por presión axial (E21B 33/122, E21B 33/124 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "E21B 33/129",
+    "description": "••••••con patines mecánicos para el abrochado en la entubación (E21B 33/122, E21B 33/124 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "E21B 33/1295",
+    "description": "••••••••accionados por presión de fluido [2006.01]"
+  },
+  {
+    "code": "E21B 33/13",
+    "description": "••••Procedimientos o dispositivos de cimentación, de taponamiento de los agujeros, fisuras o análogos (cucharas de descarga E21B 27/02; composiciones químicas al efecto C09K 8/00) [2006.01]"
+  },
+  {
+    "code": "E21B 33/134",
+    "description": "••••••Tapones de bigotillo [2006.01]"
+  },
+  {
+    "code": "E21B 33/136",
+    "description": "••••••Cestos, p. ej. del tipo paraguas [2006.01]"
+  },
+  {
+    "code": "E21B 33/138",
+    "description": "••••••Enyesado de la pared del agujero de perforación; Inyecciones dentro de la formación [2006.01]"
+  },
+  {
+    "code": "E21B 33/14",
+    "description": "••••••para la cimentación de los tubos en los agujeros de perforación o de sondeo [2006.01]"
+  },
+  {
+    "code": "E21B 33/16",
+    "description": "••••••••utilizando tapones para aislar la carga de cemento; Tapones con esta finalidad [2006.01]"
+  },
+  {
+    "code": "E21B 34/00",
+    "description": "Instalación de válvulas en los orificios de perforación o en los pozos (en los sistemas de circulación de fluidos de perforación E21B 21/10; obturadores antierupción E21B 33/06; aparatos para regular la salida de petróleo E21B 43/12; válvulas en general F16K) [2006.01]"
+  },
+  {
+    "code": "E21B 34/02",
+    "description": "••en las cabeceras de pozo [2006.01]"
+  },
+  {
+    "code": "E21B 34/04",
+    "description": "••••en las cabeceras de pozos situados bajo el agua [2006.01]"
+  },
+  {
+    "code": "E21B 34/06",
+    "description": "••en los pozos [2006.01]"
+  },
+  {
+    "code": "E21B 34/08",
+    "description": "••••sensibles a la corriente o a la presión del fluido obtenido (E21B 34/10 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "E21B 34/10",
+    "description": "••••accionadas por un fluido de control que proviene del exterior del orificio de perforación (medios de control que están en el exterior del orificio de perforación E21B 34/16) [2006.01]"
+  },
+  {
+    "code": "E21B 34/12",
+    "description": "••••accionadas por el movimiento de las tuberías de revestimiento o las columnas de producción [2006.01]"
+  },
+  {
+    "code": "E21B 34/14",
+    "description": "••••accionadas por el movimiento de herramientas, p. ej. obturadores para manguitos accionados por pistones o herramientas de cable [2006.01]"
+  },
+  {
+    "code": "E21B 34/16",
+    "description": "••Medios de control que están en el exterior del orificio de perforación a este efecto [2006.01]"
+  },
+  {
+    "code": "E21B 35/00",
+    "description": "Procedimientos o dispositivos para prevenir o extinguir los incendios (corte o deformación de tubos para controlar la corriente de fluido E21B 29/08; control de la corriente de fluido a pozos o en ellos E21B 43/12; lucha contra incendios en general A62C, A62D) [2006.01]"
+  },
+  {
+    "code": "E21B 36/00",
+    "description": "Disposiciones para el calentamiento, el enfriamiento, o el aislamiento, en los orificios de perforación o en los pozos, p. ej. para ser utilizados en zonas heladas (perforación térmica E21B 7/14; procedimientos de recuperación secundaria utilizando el calor E21B 43/24) [2006.01]"
+  },
+  {
+    "code": "E21B 36/02",
+    "description": "••utilizando quemadores [2006.01]"
+  },
+  {
+    "code": "E21B 36/04",
+    "description": "••utilizando calentadores eléctricos [2006.01]"
+  },
+  {
+    "code": "E21B 37/00",
+    "description": "Procedimientos o aparatos para limpiar los orificios de perforación o los pozos (E21B 21/00 tiene prioridad; limpieza de conductos en general B08B 9/02) [2006.01]"
+  },
+  {
+    "code": "E21B 37/02",
+    "description": "••Dispositivos de raspado especialmente adaptados a este efecto [2006.01]"
+  },
+  {
+    "code": "E21B 37/04",
+    "description": "••••accionados por presión de fluido, p. ej. dispositivos de raspado a pistón libre (maniobra de otras herramientas por presión de fluido E21B 23/08) [2006.01]"
+  },
+  {
+    "code": "E21B 37/06",
+    "description": "••utilizando medios químicos para prevenir o limitar la deposición de parafinas o sustancias análogas (composiciones químicas al efecto C09K 8/52) [2006.01]"
+  },
+  {
+    "code": "E21B 37/08",
+    "description": "••limpieza in situ de los filtros del fondo del orificio, de tamices o de filtros de grava (E21B 37/06 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "E21B 37/10",
+    "description": "••Dispositivos limpiatubos de pistas de tubos [2006.01]"
+  },
+  {
+    "code": "E21B 40/00",
+    "description": "Enganchadores de tubos, que impiden automáticamente la caída de los tubos de los pozos de petróleo [2006.01]"
+  },
+  {
+    "code": "E21B 41/00",
+    "description": "Materiales o accesorios no cubiertos por los grupos E21B 15/00-E21B 40/00 [2006.01]"
+  },
+  {
+    "code": "E21B 41/02",
+    "description": "••in situ lucha contra la corrosión de los orificios de perforación o en los pozos (cucharas de descarga E21B 27/02; composiciones químicas al efecto C09K 8/54; inhibición de la corrosión en general C23F) [2006.01]"
+  },
+  {
+    "code": "E21B 41/04",
+    "description": "••Manipuladores para operaciones bajo el agua, p. ej. conectados temporalmente a las cabeceras de los pozos (manipuladores en general B25J) [2006.01]"
+  },
+  {
+    "code": "E21B 41/06",
+    "description": "••Cámaras de trabajo para operaciones bajo el agua, p. ej. conectadas temporalmente a la cabecera de los pozos (en general B63C 11/00) [2006.01]"
+  },
+  {
+    "code": "E21B 41/08",
+    "description": "••Bases guía en el fondo del agua, p.ej. plantillas de perforación; Su igualado [2006.01]"
+  },
+  {
+    "code": "E21B 41/10",
+    "description": "••Postes guía, p.ej. soltables; Acoplamiento de líneas guía a bases guía en el fondo del agua [2006.01]"
+  },
+  {
+    "code": "E21B 43/00",
+    "description": "Procedimientos o dispositivos para la extracción de petróleo, gas, agua o materiales solubles o fundibles o de una suspensión de materias minerales a partir de pozos (aplicables únicamente al agua E03B; explotación de yacimientos petrolíferos o de materiales solubles o fundibles por las técnicas de explotación minera E21C 41/00; bombas F04) [2006.01]"
+  },
+  {
+    "code": "E21B 43/01",
+    "description": "••especialmente adaptados a la extracción a partir de instalaciones bajo el agua (cabeceras de pozos bajo el agua E21B 33/035) [2006.01]"
+  },
+  {
+    "code": "E21B 43/013",
+    "description": "••••Empalme de una columna de producción a una cabecera de pozo bajo el agua [2006.01]"
+  },
+  {
+    "code": "E21B 43/017",
+    "description": "••••Estaciones satélites, es decir, instalaciones bajo el agua que comprenden varias cabeceras de pozos satélites conectadas a una estación central (disposiciones para la separación bajo el agua de materias producidas por el pozo E21B 43/36) [2006.01]"
+  },
+  {
+    "code": "E21B 43/02",
+    "description": "••Filtración subterránea (E21B 43/11 tiene prioridad; composiciones químicas para consolidar arena o similar en torno a pozos C09K 8/56) [2006.01]"
+  },
+  {
+    "code": "E21B 43/04",
+    "description": "••••Realización de filtros con grava [2006.01]"
+  },
+  {
+    "code": "E21B 43/08",
+    "description": "••••Tubos filtro o coladores [2006.01]"
+  },
+  {
+    "code": "E21B 43/10",
+    "description": "••••Colocación de tubos de revestimiento, filtros o coladores en los pozos (introducción de tubos de revestimientos en los orificios de perforación, perforación y entubado simultáneos de orificios de perforación E21B 7/20; colocación de herramientas, empaquetaduras de estanqueidad o elementos análogos E21B 23/00; suspensión de los tubos de revestimientos en las cabeceras de pozos E21B 33/04) [2006.01]"
+  },
+  {
+    "code": "E21B 43/11",
+    "description": "••Perforadores; Penetradores [2006.01]"
+  },
+  {
+    "code": "E21B 43/112",
+    "description": "••••Perforadores con órganos de perforación extensibles, p. ej. accionados por medios fluidos [2006.01]"
+  },
+  {
+    "code": "E21B 43/114",
+    "description": "••••Perforadores utilizando la acción directa de un fluido, p. ej. chorros abrasivos [2006.01]"
+  },
+  {
+    "code": "E21B 43/116",
+    "description": "••••Perforadores con balas o con carga preformada [2006.01]"
+  },
+  {
+    "code": "E21B 43/117",
+    "description": "••••••Perforadores con carga preformada (E21B 43/118 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "E21B 43/118",
+    "description": "••••••caracterizados por su descenso en posición vertical y su basculamiento ulterior hasta alcanzar la posición de funcionamiento [2006.01]"
+  },
+  {
+    "code": "E21B 43/1185",
+    "description": "••••••Sistemas de ignición [2006.01]"
+  },
+  {
+    "code": "E21B 43/119",
+    "description": "••••Partes constitutivas, p. ej. para localizar el emplazamiento o la dirección de la perforación [2006.01]"
+  },
+  {
+    "code": "E21B 43/12",
+    "description": "••Procedimientos o aparatos para controlar la salida del fluido extraído hacia o en los pozos (E21B 43/25 tiene prioridad; disposiciones de válvulas E21B 34/00) [2006.01]"
+  },
+  {
+    "code": "E21B 43/14",
+    "description": "••Extracción mediante planos múltiples [2006.01]"
+  },
+  {
+    "code": "E21B 43/16",
+    "description": "••Procedimientos de recuperación optimizada para la extracción de hidrocarburos (fracturación E21B 43/26; preparación de suspensiones E21B 43/29; regeneración de suelos contaminados in situ\n\t\t\t\t\t\t\t\t\t\tB09C) [2006.01]"
+  },
+  {
+    "code": "E21B 43/17",
+    "description": "••••Puesta en comunicación dos o más pozos por fracturación u otro ataque de la formación (E21B 43/247 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "E21B 43/18",
+    "description": "••••Procedimientos por recompresión o mediante el vacío [2006.01]"
+  },
+  {
+    "code": "E21B 43/20",
+    "description": "••••Desplazamiento por agua [2006.01]"
+  },
+  {
+    "code": "E21B 43/22",
+    "description": "••••Empleo de productos químicos o con actividad bacteriana (E21B 43/27 tiene prioridad; composiciones químicas o bacterianas al efecto C09K 8/58; extracción de petróleo de arenas o de pizarras bituminosas, parte química C10G) [2006.01]"
+  },
+  {
+    "code": "E21B 43/24",
+    "description": "••••utilizando el calor, p. ej. inyectando vapor (calentamiento, enfriamiento o aislamiento de pozos E21B 36/00) [2006.01]"
+  },
+  {
+    "code": "E21B 43/241",
+    "description": "••••••combinados con la extracción por medio de disolventes de materias minerales que no sean hidrocarburos, p. ej. pirólisis de esquistos bituminosos por medio de disolventes [2006.01]"
+  },
+  {
+    "code": "E21B 43/243",
+    "description": "••••••Combustión in situ [2006.01]"
+  },
+  {
+    "code": "E21B 43/247",
+    "description": "••••••••en asociación con los procedimientos de fracturación [2006.01]"
+  },
+  {
+    "code": "E21B 43/248",
+    "description": "••••••••••utilizando explosivos [2006.01]"
+  },
+  {
+    "code": "E21B 43/25",
+    "description": "••Procedimientos para activar la producción (cucharas de descarga E21B 27/02; disposiciones para generar vibraciones E21B 28/00; composiciones químicas al efecto C09K 8/60) [2006.01]"
+  },
+  {
+    "code": "E21B 43/26",
+    "description": "••••por formación de grietas o fracturas [2006.01]"
+  },
+  {
+    "code": "E21B 43/263",
+    "description": "••••••utilizando explosivos [2006.01]"
+  },
+  {
+    "code": "E21B 43/267",
+    "description": "••••••Manteniendo las fracturas por entibamiento [2006.01]"
+  },
+  {
+    "code": "E21B 43/27",
+    "description": "••••••mediante el empleo de productos químicos erosivos, p. ej. ácidos [2006.01]"
+  },
+  {
+    "code": "E21B 43/28",
+    "description": "••Disolución de materias minerales que no sean hidrocarburos, p. ej. por medio de un agente lixiviador alcalino o ácido (E21B 43/241 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "E21B 43/285",
+    "description": "••Fusión de materias minerales, p. ej. de azufre (E21B 43/24 tiene prioridad; instalaciones para el calentamiento, enfriamiento o aislamiento en los pozos E21B 36/00) [2006.01]"
+  },
+  {
+    "code": "E21B 43/29",
+    "description": "••Preparación de suspensiones de materias minerales, p. ej. utilizando toberas [2006.01]"
+  },
+  {
+    "code": "E21B 43/295",
+    "description": "••Gasificación de materias minerales, p. ej. para producir mezclas de gases combustibles (E21B 43/243 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "E21B 43/30",
+    "description": "••Disposición particular de pozos, p. ej. disposición óptima de espaciamiento de pozos (estaciones satélites de producción E21B 43/017) [2006.01]"
+  },
+  {
+    "code": "E21B 43/32",
+    "description": "••Prevención de los fenómenos de cono de agua de gas, es decir, formación de una columna cónica de agua o de gas alrededor de los pozos [2006.01]"
+  },
+  {
+    "code": "E21B 43/34",
+    "description": "••Disposiciones para separar los materiales producidos por los pozos (aparatos de separación en sí, ver las subclases apropiadas) [2006.01]"
+  },
+  {
+    "code": "E21B 43/36",
+    "description": "••••Disposiciones de separación instaladas bajo el agua (E21B 43/38 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "E21B 43/38",
+    "description": "••••en los pozos [2006.01]"
+  },
+  {
+    "code": "E21B 43/40",
+    "description": "••••Separación asociada a la reinyección de materiales separados [2006.01]"
+  },
+  {
+    "code": "E21B 44/00",
+    "description": "Sistemas de control automático especialmente adaptados a operaciones de perforación, es decir, sistemas de funcionamiento automático los cuales pueden ejecutar o modificar una operación de perforación sin la intervención de un operador humano, p. ej. sistemas de perforación controlados por computador (para control de perforación no automático, ver la operación controlada; alimentación automática a partir de bastidores y conexión de tubos de perforación E21B 19/20; control de la presión o de la corriente de un fluido de perforación E21B 21/08); Sistemas especialmente adaptados para la vigilancia de varias variables o condiciones de perforación (medios para transmitir señales de medida desde el pozo a la superficie E21B 47/12) [2006.01]"
+  },
+  {
+    "code": "E21B 44/02",
+    "description": "••Control automático de la alimentación de la herramienta (E21B 44/10 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "E21B 44/04",
+    "description": "••••en respuesta al par del medio de accionamiento [2006.01]"
+  },
+  {
+    "code": "E21B 44/06",
+    "description": "••••en respuesta al flujo o presión del fluido motor del medio de accionamiento [2006.01]"
+  },
+  {
+    "code": "E21B 44/08",
+    "description": "••••en respuesta a la amplitud del movimiento de la herramienta de percusión, p.ej. salto o retroceso [2006.01]"
+  },
+  {
+    "code": "E21B 44/10",
+    "description": "••Dispositivos de parada automática cuando la herramienta se retira del frente de ataque [2006.01]"
+  },
+  {
+    "code": "E21B 45/00",
+    "description": "Medida del tiempo de perforación o de la velocidad de penetración [2006.01]"
+  },
+  {
+    "code": "E21B 47/00",
+    "description": "Prospecciones en los orificios de perforación o en los pozos (vigilancia de la presión o de la corriente del fluido de perforación E21B 21/08) [2012.01]"
+  },
+  {
+    "code": "E21B 47/001",
+    "description": "••para instalaciones subacuáticas [2012.01]"
+  },
+  {
+    "code": "E21B 47/002",
+    "description": "••mediante inspección visual [2012.01]"
+  },
+  {
+    "code": "E21B 47/003",
+    "description": "••Determinacion del volumen del pozo o sondeo (determinación de la profundidad E21B 47/04; diámetro E21B 47/08) [2012.01]"
+  },
+  {
+    "code": "E21B 47/005",
+    "description": "••Monitoreo o comprobación de la calidad o nivel de cementación [2012.01]"
+  },
+  {
+    "code": "E21B 47/007",
+    "description": "••Medición de tensiones en la columna de tuberías o de revestimiento (para localizar partes bloqueadas de tuberías E21B 47/09) [2012.01]"
+  },
+  {
+    "code": "E21B 47/008",
+    "description": "••Monitoreo de sistemas sumergidos de bombeo, p. ej. para detectar el bombeo en vacío [2012.01]"
+  },
+  {
+    "code": "E21B 47/009",
+    "description": "••••Monitoreo de sistemas de bombeo por viga balancín [2012.01]"
+  },
+  {
+    "code": "E21B 47/01",
+    "description": "••Dispositivos para soportar instrumentos de medida sobre las barrenas, tubos de perforación, barras o cables; Protección contra el calor, los golpes o similares de los instrumentos de medida en los orificios de perforación [2012.01]"
+  },
+  {
+    "code": "E21B 47/013",
+    "description": "••••Aparatos especialmente adaptados para sujetar instrumentos de medidas en barrenas [2012.01]"
+  },
+  {
+    "code": "E21B 47/017",
+    "description": "••••Protección de instrumentos de medida [2012.01]"
+  },
+  {
+    "code": "E21B 47/02",
+    "description": "••Determinación de la inclinación o de la dirección [2006.01]"
+  },
+  {
+    "code": "E21B 47/022",
+    "description": "••••del agujero de perforación, por ejemplo mediante geomagnetismo [2012.01]"
+  },
+  {
+    "code": "E21B 47/0224",
+    "description": "••••••usando medios acústicos o sísmicos [2012.01]"
+  },
+  {
+    "code": "E21B 47/0228",
+    "description": "••••••usando energía electromagnética o detectores de la misma [2012.01]"
+  },
+  {
+    "code": "E21B 47/0232",
+    "description": "••••••••al menos una de las fuentes de energía o de los detectores está localizado sobre o en la superficie [2012.01]"
+  },
+  {
+    "code": "E21B 47/0236",
+    "description": "••••••usando un péndulo [2012.01]"
+  },
+  {
+    "code": "E21B 47/024",
+    "description": "••••de los dispositivos en el agujero de perforación (E21B 47/022 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "E21B 47/026",
+    "description": "••••en las capas atravesadas [2006.01]"
+  },
+  {
+    "code": "E21B 47/04",
+    "description": "••Medida de la profundidad o del nivel del líquido [2012.01]"
+  },
+  {
+    "code": "E21B 47/047",
+    "description": "••••Nivel del líquido (E21B 47/053 tiene prioridad) [2012.01]"
+  },
+  {
+    "code": "E21B 47/053",
+    "description": "••••usando marcadores radiactivos [2012.01]"
+  },
+  {
+    "code": "E21B 47/06",
+    "description": "••Medida de la temperatura o de la presión [2012.01]"
+  },
+  {
+    "code": "E21B 47/07",
+    "description": "••••Temperatura [2012.01]"
+  },
+  {
+    "code": "E21B 47/08",
+    "description": "••Medida de los diámetros o dimensiones relacionadas en el sondeo [2012.01]"
+  },
+  {
+    "code": "E21B 47/085",
+    "description": "••••utilizando medios radiantes, p. ej. acústicos, radiactivos o electromagnéticos [2012.01]"
+  },
+  {
+    "code": "E21B 47/09",
+    "description": "••Localización o determinación de la posición de objetos en los orificios de perforación o en los pozos; Identificación de las partes libres o bloqueadas de tubos [2012.01]"
+  },
+  {
+    "code": "E21B 47/092",
+    "description": "••••mediante la detección de anomalías magnéticas [2012.01]"
+  },
+  {
+    "code": "E21B 47/095",
+    "description": "••••mediante la detección de anomalías acústicas, p. ej. usando impulsos de presión de lodo [2012.01]"
+  },
+  {
+    "code": "E21B 47/098",
+    "description": "••••usando obturadores de impresión, p. ej. para detectar recesos o perforaciones [2012.01]"
+  },
+  {
+    "code": "E21B 47/10",
+    "description": "••Localización de fugas, intrusiones o movimientos del fluido [2012.01]"
+  },
+  {
+    "code": "E21B 47/103",
+    "description": "••••usando medidas térmicas [2012.01]"
+  },
+  {
+    "code": "E21B 47/107",
+    "description": "••••usando medios acústicos [2012.01]"
+  },
+  {
+    "code": "E21B 47/11",
+    "description": "••••usando trazadores; usando radiactividad [2012.01]"
+  },
+  {
+    "code": "E21B 47/113",
+    "description": "••••usando indicadores eléctricos; usando radiación luminosa [2012.01]"
+  },
+  {
+    "code": "E21B 47/117",
+    "description": "••••Detección de fugas, p. ej. de tuberías, por medición de la presión [2012.01]"
+  },
+  {
+    "code": "E21B 47/12",
+    "description": "••Medios de transmisión de señales de medida desde el pozo a la superficie, p. ej. para la diagrafía durante la perforación [2012.01]"
+  },
+  {
+    "code": "E21B 47/125",
+    "description": "••••usando tierra como conductor eléctrico (E21B 47/13 tiene prioridad) [2012.01]"
+  },
+  {
+    "code": "E21B 47/13",
+    "description": "••••mediante energía electromagnética, p. ej. en el rango de radiofrecuencias [2012.01]"
+  },
+  {
+    "code": "E21B 47/135",
+    "description": "••••••usando ondas de luz, p. ej. ondas infrarrojas o ultravioletas [2012.01]"
+  },
+  {
+    "code": "E21B 47/14",
+    "description": "••••utilizando ondas acústicas [2006.01]"
+  },
+  {
+    "code": "E21B 47/16",
+    "description": "••••••a través de la tubería de perforación o del encofrado [2006.01]"
+  },
+  {
+    "code": "E21B 47/18",
+    "description": "••••••a través del fluido del pozo [2012.01]"
+  },
+  {
+    "code": "E21B 47/20",
+    "description": "••••••••por modulación de ondas de lodo, p.ej. por modulación continua [2012.01]"
+  },
+  {
+    "code": "E21B 47/22",
+    "description": "••••••••por impulsos negativos de lodo usando una válvula de escape entre la tubería de perforación y el espacio anular [2012.01]"
+  },
+  {
+    "code": "E21B 47/24",
+    "description": "••••••••por impulsos positivos de lodo usando una válvula de restricción de flujo en la tubería de perforación [2012.01]"
+  },
+  {
+    "code": "E21B 47/26",
+    "description": "••Almacenamiento de datos en fondo de pozo, p. ej. en una memoria o registro [2012.01]"
+  },
+  {
+    "code": "E21B 49/00",
+    "description": "Ensayos para determinar la naturaleza de las paredes de los orificios de perforación; Ensayo de las capas; Procedimientos o aparatos para obtener muestras de terreno o de los fluidos del pozo, especialmente adaptados a perforaciones del suelo o de pozos (muestras en general G01N 1/00) [2006.01]"
+  },
+  {
+    "code": "E21B 49/02",
+    "description": "••mediante muestras tomadas mecánicamente del terreno (aparatos para extraer las muestras intactas E21B 25/00; investigación de las fundaciones del suelo en el propio lugar\n\t\t\t\t\t\t\t\t\t\tE02D 1/00) [2006.01]"
+  },
+  {
+    "code": "E21B 49/04",
+    "description": "••••utilizando explosivos en los orificios de perforación; o por medio de proyectiles que penetran en la pared [2006.01]"
+  },
+  {
+    "code": "E21B 49/06",
+    "description": "••••utilizando herramientas de perforación lateral o dispositivos de raspado [2006.01]"
+  },
+  {
+    "code": "E21B 49/08",
+    "description": "••Obtención de muestras de fluidos o de ensayos concernientes a los fluidos en los orificios de perforación o en los pozos [2006.01]"
+  },
+  {
+    "code": "E21B 49/10",
+    "description": "••••utilizando aparatos de muestra o de ensayo de fluidos que se aplican lateralmente contra la pared del pozo [2006.01]"
+  }
+]

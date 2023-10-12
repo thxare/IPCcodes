@@ -1,0 +1,554 @@
+[
+  {
+    "code": "E21D 1/00",
+    "description": "Excavado de pozos [2006.01]"
+  },
+  {
+    "code": "E21D 1/02",
+    "description": "••manual [2006.01]"
+  },
+  {
+    "code": "E21D 1/03",
+    "description": "••mecánico (E21D 1/08 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "E21D 1/04",
+    "description": "••••por medio de excavadores [2006.01]"
+  },
+  {
+    "code": "E21D 1/06",
+    "description": "••••por medio de aparatos de corte para perforar los pozos (máquinas de perforación E21B) [2006.01]"
+  },
+  {
+    "code": "E21D 1/08",
+    "description": "••con progresión simultánea del revestimiento según se desciende [2006.01]"
+  },
+  {
+    "code": "E21D 1/10",
+    "description": "••Preparación del terreno [2006.01]"
+  },
+  {
+    "code": "E21D 1/12",
+    "description": "••••por congelación [2006.01]"
+  },
+  {
+    "code": "E21D 1/14",
+    "description": "••••••Aparatos de congelación [2006.01]"
+  },
+  {
+    "code": "E21D 1/16",
+    "description": "••••por petrificación (empotrado de los pernos de anclaje E21D 20/02) [2006.01]"
+  },
+  {
+    "code": "E21D 3/00",
+    "description": "Montaje de los pozos, es decir, trabajando a partir de abajo [2006.01]"
+  },
+  {
+    "code": "E21D 5/00",
+    "description": "Revestimiento de pozos; Revestimientos a este efecto (E21D 11/00 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "E21D 5/01",
+    "description": "••utilizando un revestimiento prefabricado bajado en un agujero lleno de una masa líquida o viscosa [2006.01]"
+  },
+  {
+    "code": "E21D 5/012",
+    "description": "••Utilización de un material impermeable a los fluidos o antifricción al exterior de las capas de revestimiento o entre ellas [2006.01]"
+  },
+  {
+    "code": "E21D 5/016",
+    "description": "••Marcos portadores [2006.01]"
+  },
+  {
+    "code": "E21D 5/02",
+    "description": "••con madera (E21D 5/01, E21D 5/012, E21D 5/016 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "E21D 5/04",
+    "description": "••con ladrillos, hormigón, piedras o materiales de construcción análogos (E21D 5/01, E21D 5/012, E21D 5/016 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "E21D 5/06",
+    "description": "••con fundición o acero (E21D 5/01, E21D 5/012, E21D 5/016 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "E21D 5/08",
+    "description": "••••bajo forma de elementos perfilados [2006.01]"
+  },
+  {
+    "code": "E21D 5/10",
+    "description": "••••bajo forma de entubaciones [2006.01]"
+  },
+  {
+    "code": "E21D 5/11",
+    "description": "••con combinaciones de diferentes materiales, p. ej. hormigón, madera, metal (E21D 5/01, E21D 5/012, E21D 5/016 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "E21D 5/12",
+    "description": "••Accesorios para hacer los revestimientos de pozos, p. ej. plataformas suspendidas, encofrados [2006.01]"
+  },
+  {
+    "code": "E21D 7/00",
+    "description": "Equipamiento de pozos, p. ej. enmaderado en el interior de los pozos [2006.01]"
+  },
+  {
+    "code": "E21D 7/02",
+    "description": "••Disposición de las guías de las jaulas de los pozos; Fijación de las guías de las jaulas en las paredes de los pozos (guías rectas o guías para ascensores B66B 7/02) [2006.01]"
+  },
+  {
+    "code": "E21D 8/00",
+    "description": "Pozos no previstos en los grupos E21D 1/00-E21D 7/00 [2006.01]"
+  },
+  {
+    "code": "E21D 9/00",
+    "description": "Túneles o galerías, con o sin revestimientos; Procedimientos o aparatos para su ejecución (revestimientos en sí\n\t\t\t\t\t\t\t\t\tE21D 11/00; galerías de protección contra la caída de rocas o las avalanchas E01F 7/04); Trazado de túneles o de galerías [2006.01]"
+  },
+  {
+    "code": "E21D 9/01",
+    "description": "••Procedimientos o aparatos para alargar o restablecer la sección transversal de los túneles, p. ej. restableciendo el suelo a su nivel original [2006.01]"
+  },
+  {
+    "code": "E21D 9/02",
+    "description": "••Excavación de túneles o galerías inclinadas [2006.01]"
+  },
+  {
+    "code": "E21D 9/04",
+    "description": "••Excavación de galerías en terrenos de poca consistencia; Dispositivos a este efecto no previstos en otro lugar [2006.01]"
+  },
+  {
+    "code": "E21D 9/06",
+    "description": "••Ejecución haciendo uso de pantallas protectoras de avance [2006.01]"
+  },
+  {
+    "code": "E21D 9/08",
+    "description": "••••con medios complementarios de perforación o de corte [2006.01]"
+  },
+  {
+    "code": "E21D 9/087",
+    "description": "••••••con una cabeza de perforación rotatoria que corta simultáneamente la sección transversal al completo, es decir,máquinas tipo frontal-completo [2006.01]"
+  },
+  {
+    "code": "E21D 9/093",
+    "description": "••••control de las pantallas protectoras de avance [2006.01]"
+  },
+  {
+    "code": "E21D 9/10",
+    "description": "••Ejecución haciendo uso de máquinas de perforar o de cortar (E21D 9/08 tiene prioridad; máquinas similares para minería E21C 27/20; picos para minería E21C 35/18) [2006.01]"
+  },
+  {
+    "code": "E21D 9/11",
+    "description": "••••con una cabeza de perforación rotatoria que corta simultáneamente la sección transversal al completo, es decir, máquinas tipo frontal-completo [2006.01]"
+  },
+  {
+    "code": "E21D 9/12",
+    "description": "••Dispositivos para retirar o transportar las materias de excavación o de desmontes; Plataformas de trabajo o de carga (transporte en el subsuelo E21F 13/00) [2006.01]"
+  },
+  {
+    "code": "E21D 9/13",
+    "description": "••••usando medios transportadores hidraúlicos o neumáticos [2006.01]"
+  },
+  {
+    "code": "E21D 9/14",
+    "description": "••Trazado de túneles o galerías; Particularidades de la construcción de túneles o galerías no previstas en otro lugar, p. ej. entradas, atenuación de la luz del día a la entrada de túneles [2006.01]"
+  },
+  {
+    "code": "E21D 11/00",
+    "description": "Revestimiento de túneles o galerías u otras cavidades subterráneas, p. ej. grandes cámaras subterráneas; Revestimientos a este efecto; Ejecución de tales revestimientos in situ, p. ej. por ensamblaje (E21D 15/00-E21D 23/00 tienen prioridad; especialmente para pozos E21D 5/00; revestimientos de galerías de agua a presión, revestimientos a este efecto E02B 9/06) [2006.01]"
+  },
+  {
+    "code": "E21D 11/02",
+    "description": "••Revestimiento principalmente en madera [2006.01]"
+  },
+  {
+    "code": "E21D 11/03",
+    "description": "••••utilizando máquinas de colocar marcos [2006.01]"
+  },
+  {
+    "code": "E21D 11/04",
+    "description": "••Revestimiento con materiales de construcción (E21D 11/02, E21D 11/14 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "E21D 11/05",
+    "description": "••••con inserciones compresibles [2006.01]"
+  },
+  {
+    "code": "E21D 11/06",
+    "description": "••••con ladrillos [2006.01]"
+  },
+  {
+    "code": "E21D 11/07",
+    "description": "••••••utilizando máquinas para colocar los ladrillos [2006.01]"
+  },
+  {
+    "code": "E21D 11/08",
+    "description": "••••con placas de hormigón prefabricadas [2006.01]"
+  },
+  {
+    "code": "E21D 11/10",
+    "description": "••••con hormigón vaciado in situ; Encofrado u otro equipo adaptado con esta finalidad [2006.01]"
+  },
+  {
+    "code": "E21D 11/12",
+    "description": "••••Sujeciones temporales destinadas a ser empleadas durante la construcción; Accesorios [2006.01]"
+  },
+  {
+    "code": "E21D 11/14",
+    "description": "••Revestimiento principalmente con metal [2006.01]"
+  },
+  {
+    "code": "E21D 11/15",
+    "description": "••••Placas de revestimiento; Guarniciones, es decir, revestimientos concebidos para sostener los materiales de formación o para transmitir la carga a los elementos de soporte principales (aislamiento E21D 11/38) [2006.01]"
+  },
+  {
+    "code": "E21D 11/18",
+    "description": "••••Elementos de cimbras [2006.01]"
+  },
+  {
+    "code": "E21D 11/20",
+    "description": "••••••perfiles especiales, p. ej. ondulados [2006.01]"
+  },
+  {
+    "code": "E21D 11/22",
+    "description": "••••••Mandíbulas u otros medios flexibles para unir dos elementos de cimbra próximos, siendo de forma rígida, siendo de forma que permita un deslizamiento de partes del elemento de cimbra en caso de presión excesiva [2006.01]"
+  },
+  {
+    "code": "E21D 11/24",
+    "description": "••••••Juntas articuladas o eslabones entre elementos de cimbras [2006.01]"
+  },
+  {
+    "code": "E21D 11/26",
+    "description": "••••••Patines para unir los elementos de cimbra a los largueros [2006.01]"
+  },
+  {
+    "code": "E21D 11/28",
+    "description": "••••Largueros [2006.01]"
+  },
+  {
+    "code": "E21D 11/30",
+    "description": "••••Plantillas para elementos de cimbra interiores (para puntales E21D 15/54) [2006.01]"
+  },
+  {
+    "code": "E21D 11/34",
+    "description": "••••Uniones entre puntales verticales y cumbreras horizontales (cabezas de cumbreras formando parte de puntales E21D 15/54) [2006.01]"
+  },
+  {
+    "code": "E21D 11/36",
+    "description": "••••Revestimientos o sustentadores de forma especial para túneles o galerías de sección irregular [2006.01]"
+  },
+  {
+    "code": "E21D 11/38",
+    "description": "••Impermeabilización contra el agua (en general E02D 31/00); Termoaislamiento; Impermeabilización acústica; Aislamiento eléctrico (para las construcciones de edificios en general E04B 1/62) [2006.01]"
+  },
+  {
+    "code": "E21D 11/40",
+    "description": "••Dispositivos o aparatos para la manutención o situación de las unidades de revestimiento de los túneles o galerías [2006.01]"
+  },
+  {
+    "code": "E21D 13/00",
+    "description": "Grandes cámaras subterráneas; Procedimientos o aparatos para su construcción (revestimientos E21D 11/00) [2006.01]"
+  },
+  {
+    "code": "E21D 13/02",
+    "description": "••Procedimientos [2006.01]"
+  },
+  {
+    "code": "E21D 13/04",
+    "description": "••Equipo especial; Accesorios [2006.01]"
+  },
+  {
+    "code": "E21D 15/00",
+    "description": "Puntales (en la edificación E04G 25/00); Calzos [2006.01]"
+  },
+  {
+    "code": "E21D 15/02",
+    "description": "••Puntales no telescópicos [2006.01]"
+  },
+  {
+    "code": "E21D 15/04",
+    "description": "••••con elementos de madera reunidos mediante piezas de empalme doble cónicas [2006.01]"
+  },
+  {
+    "code": "E21D 15/06",
+    "description": "••••con elementos reunidos por un cierre, con o sin un ligero reglaje posible según el eje [2006.01]"
+  },
+  {
+    "code": "E21D 15/08",
+    "description": "••••••con empalme mediante junta con palanca basculante [2006.01]"
+  },
+  {
+    "code": "E21D 15/10",
+    "description": "••••••con empalme por mordaza o por espiga embutida [2006.01]"
+  },
+  {
+    "code": "E21D 15/12",
+    "description": "••••••con dispositivos de cierre situados cerca de la cabeza del pie [2006.01]"
+  },
+  {
+    "code": "E21D 15/14",
+    "description": "••Puntales telescópicos (medios generales de fijación de elementos telescópicos uno con otro F16B) [2006.01]"
+  },
+  {
+    "code": "E21D 15/15",
+    "description": "••••Medios que se oponen a la entrada de la suciedad; Dispositivos de limpieza incorporados [2006.01]"
+  },
+  {
+    "code": "E21D 15/16",
+    "description": "••••con elementos que se mantienen unidos por medios directos, con o sin movimiento de deslizamiento relativo en caso de presión excesiva sobre el puntal [2006.01]"
+  },
+  {
+    "code": "E21D 15/18",
+    "description": "••••••en los que una parte se apoya sobre un medio de soporte, p. ej. caucho, arena, betún, plomo que se encuentra en la otra parte, con o sin expulsión o desplazamiento de este medio en caso de presión excesiva [2006.01]"
+  },
+  {
+    "code": "E21D 15/20",
+    "description": "••••••con trinquetes, clavijas, traviesas, o similares, que se engarzan en los dientes de una carraca, muescas, mortajas, o similares colocadas a ciertos intervalos [2006.01]"
+  },
+  {
+    "code": "E21D 15/22",
+    "description": "••••••con elementos, clavijas, traviesas, o similares quebrados, hendidos o deformados de una manera permanente en caso de presión excesiva [2006.01]"
+  },
+  {
+    "code": "E21D 15/24",
+    "description": "••••••con mecanismo de tornillo axial y tuerca, cremallera y tornillo glóbico o mecanismos análogos [2006.01]"
+  },
+  {
+    "code": "E21D 15/26",
+    "description": "••••••••con tornillo, tornillo sin fin, o similares, que no se bloquean por sí mismos, pero cuya rotación está normalmente impedida por el flotamiento de los elementos que deslizan en caso de presión excesiva [2006.01]"
+  },
+  {
+    "code": "E21D 15/28",
+    "description": "••••con elementos sostenidos los unos con relación a los otros por rozamiento o presión, p. ej. utilizando cuñas [2006.01]"
+  },
+  {
+    "code": "E21D 15/30",
+    "description": "••••••mediante dilatación o contracción de elementos bajo el efecto de una presión aplicada mediante un elemento fluido o casi fluido, p. ej. caucho [2006.01]"
+  },
+  {
+    "code": "E21D 15/32",
+    "description": "••••••mediante un collarín deformable [2006.01]"
+  },
+  {
+    "code": "E21D 15/34",
+    "description": "••••••mediante bolas o rodillos móviles en el sentido axial [2006.01]"
+  },
+  {
+    "code": "E21D 15/36",
+    "description": "••••••mediante collarín basculante abarcando una de las partes o las dos [2006.01]"
+  },
+  {
+    "code": "E21D 15/38",
+    "description": "••••••con división longitudinal de las partes superiores o inferiores, p. ej. láminas alternadas [2006.01]"
+  },
+  {
+    "code": "E21D 15/40",
+    "description": "••••••Collarín u otro soporte apretado sobre una o las dos partes por medio de una palanca basculante, de una leva o de otro elemento giratorio o montado de forma análoga [2006.01]"
+  },
+  {
+    "code": "E21D 15/42",
+    "description": "••••••con piezas especiales destinadas a modificar el coeficiente de rozamiento [2006.01]"
+  },
+  {
+    "code": "E21D 15/43",
+    "description": "••••••Detalles de las cuñas (revestimientos o almohadillas de fricción E21D 15/42) [2006.01]"
+  },
+  {
+    "code": "E21D 15/44",
+    "description": "••••Puntales hidráulicos, neumáticos o hidroneumáticos [2006.01]"
+  },
+  {
+    "code": "E21D 15/45",
+    "description": "••••••teniendo un sistema fluido cerrado, p. ej. con bombas o depósitos incorporados [2006.01]"
+  },
+  {
+    "code": "E21D 15/46",
+    "description": "••••con dispositivos que miden la carga; con dispositivos de alarma [2006.01]"
+  },
+  {
+    "code": "E21D 15/48",
+    "description": "••Calzos o piezas análogas [2006.01]"
+  },
+  {
+    "code": "E21D 15/50",
+    "description": "••Partes constitutivas o detalles de los puntales (E21D 15/43, E21D 15/58, E21D 15/60 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "E21D 15/502",
+    "description": "••••Cuerpos de puntales caracterizados por su forma, p. ej. de sección transversal específica [2006.01]"
+  },
+  {
+    "code": "E21D 15/51",
+    "description": "••••especialmente adaptados a los puntales hidráulicos, neumáticos o hidroneumáticos, p. ej. disposiciones de válvulas de seguridad [2006.01]"
+  },
+  {
+    "code": "E21D 15/52",
+    "description": "••••Elementos extensibles situados debajo o encima de los puntales normales [2006.01]"
+  },
+  {
+    "code": "E21D 15/54",
+    "description": "••••Detalles de las extremidades de los puntales (para permitir los movimientos paso a paso E21D 23/06) [2006.01]"
+  },
+  {
+    "code": "E21D 15/55",
+    "description": "••••••de las cabezas de puntales [2006.01]"
+  },
+  {
+    "code": "E21D 15/56",
+    "description": "••••Detalles de los cierres de puntales telescópicos [2006.01]"
+  },
+  {
+    "code": "E21D 15/58",
+    "description": "••Dispositivos para la colocación in situ de los puntales [2006.01]"
+  },
+  {
+    "code": "E21D 15/582",
+    "description": "••••para puntales mecánicos [2006.01]"
+  },
+  {
+    "code": "E21D 15/59",
+    "description": "••••para puntales hidráulicos, neumáticos o hidroneumáticos [2006.01]"
+  },
+  {
+    "code": "E21D 15/60",
+    "description": "••Dispositivos para retirar los puntales o los calzos [2006.01]"
+  },
+  {
+    "code": "E21D 17/00",
+    "description": "Sombreretes para la sujeción de los techos de las minas [2006.01]"
+  },
+  {
+    "code": "E21D 17/01",
+    "description": "••caracterizados por la forma del sombrerete, p. ej. de sección transversal específica [2006.01]"
+  },
+  {
+    "code": "E21D 17/02",
+    "description": "••Adelantado en voladizo o dispositivos de protección análogos [2006.01]"
+  },
+  {
+    "code": "E21D 17/022",
+    "description": "••••Dispositivos auxiliares para sostener temporalmente durante su montaje, las vigas de sostenimiento del techo [2006.01]"
+  },
+  {
+    "code": "E21D 17/03",
+    "description": "••••Apoyos para las barras de sostenimiento del techo [2006.01]"
+  },
+  {
+    "code": "E21D 17/04",
+    "description": "••••empleados en los trabajos de larga duración del arranque [2006.01]"
+  },
+  {
+    "code": "E21D 17/05",
+    "description": "••••••extensibles hidráulicamente [2006.01]"
+  },
+  {
+    "code": "E21D 17/054",
+    "description": "••••••girando hidráulicamente [2006.01]"
+  },
+  {
+    "code": "E21D 17/06",
+    "description": "••••empleados en las galerías de descanso [2006.01]"
+  },
+  {
+    "code": "E21D 17/08",
+    "description": "••••Uniones de sombreretes para obtener un frente de arranque despejado [2006.01]"
+  },
+  {
+    "code": "E21D 17/082",
+    "description": "••••••del tipo deslizante [2006.01]"
+  },
+  {
+    "code": "E21D 17/086",
+    "description": "••••••del tipo articulado [2006.01]"
+  },
+  {
+    "code": "E21D 17/10",
+    "description": "••Detalles de sombreretes destinados a cubrir las cabezas de puntales con o sin placa, de retención; Placas de retención [2006.01]"
+  },
+  {
+    "code": "E21D 19/00",
+    "description": "Cubiertas protectoras temporales para el espacio de trabajo (E21D 9/06, E21D 23/00 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "E21D 19/02",
+    "description": "••para utilización en los trabajos de larga duración del arranque [2006.01]"
+  },
+  {
+    "code": "E21D 19/04",
+    "description": "••para utilización en galerías de avance [2006.01]"
+  },
+  {
+    "code": "E21D 19/06",
+    "description": "••Dispositivos para la aplicación de las cubiertas [2006.01]"
+  },
+  {
+    "code": "E21D 20/00",
+    "description": "Colocación in situ de pernos de anclaje (pernos de anclaje para pozos, túneles o galerías E21D 21/00; medios de anclaje de elementos de estructura o de cortinas de tablestacas especialmente concebidos para trabajos de cimentación E02D 5/74; espigas u otros dispositivos fijados a las paredes o a cualquier otro emplazamiento por inserción en agujeros preparados para ello F16B 13/00) [2006.01]"
+  },
+  {
+    "code": "E21D 20/02",
+    "description": "••con dispositivos para el empotramiento [2006.01]"
+  },
+  {
+    "code": "E21D 21/00",
+    "description": "Pernos de anclaje para la protección del techo, del suelo o del revestimiento de los pozos (espigas u otros dispositivos fijados a las paredes o a cualquier otro emplazamiento por inserción en agujeros preparados para ello F16B 13/00) [2006.01]"
+  },
+  {
+    "code": "E21D 21/02",
+    "description": "••disponiendo de medios para indicar la tensión (unidos por tornillos especialmente modificados para indicar la carga de tracción F16B 31/02) [2006.01]"
+  },
+  {
+    "code": "E21D 23/00",
+    "description": "Sustentaciones del techo en las minas por desplazamiento paso a paso, p. ej. en combinación con dispositivos para el desplazamiento de transportadores, máquinas de minas o guías para las mismas (desplazamiento de los transportadores de minas sobre el frente de arranque, en sí\n\t\t\t\t\t\t\t\t\tE21F 13/08) [2006.01]"
+  },
+  {
+    "code": "E21D 23/03",
+    "description": "••comportando medios de protección, p. ej. pantallas de choque para prevenir o retener los derrumbes en el recinto de trabajo o en la sustentación propiamente dicha [2006.01]"
+  },
+  {
+    "code": "E21D 23/04",
+    "description": "••Características estructurales de la construcción de las sustentaciones, p. ej. órganos de unión entre bastidores adyacentes o series de puntales; Medios para impedir un deslizamiento lateral sobre un suelo inclinado (E21D 23/14  tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "E21D 23/06",
+    "description": "••••Sombreretes de minas especiales o extremidades especiales de puntales para permitir un desplazamiento paso a paso [2006.01]"
+  },
+  {
+    "code": "E21D 23/08",
+    "description": "••Mecanismos de avance (E21D 23/16  tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "E21D 23/10",
+    "description": "••••con dispositivos de avance diferentes de la construcción de sustentaciones [2006.01]"
+  },
+  {
+    "code": "E21D 23/12",
+    "description": "••Mando, p. ej. utilizando un telemando (E21D 23/16  tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "E21D 23/14",
+    "description": "••••realizando un movimiento sucesivo automático de las sustentaciones, p. ej. el uno después del otro [2006.01]"
+  },
+  {
+    "code": "E21D 23/16",
+    "description": "••Características hidráulicas o neumáticas, p. ej. circuitos, disposición o adaptación de válvulas, dispositivos de colocación in situ o de retirada [2006.01]"
+  },
+  {
+    "code": "E21D 23/18",
+    "description": "••••de los mecanismos de avance [2006.01]"
+  },
+  {
+    "code": "E21D 23/20",
+    "description": "••••••por movimientos sucesivos, p. ej. el uno después del otro [2006.01]"
+  },
+  {
+    "code": "E21D 23/22",
+    "description": "••••••incorporados en los sombreretes de minas [2006.01]"
+  },
+  {
+    "code": "E21D 23/24",
+    "description": "••••••siendo los mecanismos de avance distintos de la construcción de las sustentaciones [2006.01]"
+  },
+  {
+    "code": "E21D 23/26",
+    "description": "••••Mando hidráulico o neumático [2006.01]"
+  }
+]

@@ -1,0 +1,374 @@
+[
+  {
+    "code": "H02G 1/00",
+    "description": "Métodos o aparatos especialmente adaptados para la instalación, mantenimiento, reparación, o desmontaje de cables o líneas eléctricas [2006.01]"
+  },
+  {
+    "code": "H02G 1/02",
+    "description": "••para líneas o cables aéreos [2006.01]"
+  },
+  {
+    "code": "H02G 1/04",
+    "description": "••••para montarlas o tensarlas [2006.01]"
+  },
+  {
+    "code": "H02G 1/06",
+    "description": "••para tender los cables, p. ej. aparato para tender sobre vehículo [2006.01]"
+  },
+  {
+    "code": "H02G 1/08",
+    "description": "••••a través de tubos o conductos, p. ej. varilla o hilo de tirada para empujar o tirar [2006.01]"
+  },
+  {
+    "code": "H02G 1/10",
+    "description": "••••en o sobre el agua [2006.01]"
+  },
+  {
+    "code": "H02G 1/12",
+    "description": "••para retirar el aislamiento o la armadura de los cables, p. ej. de su extremidad [2006.01]"
+  },
+  {
+    "code": "H02G 1/14",
+    "description": "••para unión o terminación de cables [2006.01]"
+  },
+  {
+    "code": "H02G 1/16",
+    "description": "••para reparar el aislamiento o la armadura de los cables [2006.01]"
+  },
+  {
+    "code": "H02G 3/00",
+    "description": "Instalaciones de cables o líneas eléctricas o de sus tubos de protección en o sobre inmuebles, estructuras equivalentes o vehículos (instalaciones de barras ómnibus H02G 5/00; instalaciones aéreas H02G 7/00; instalaciones en o sobre la tierra H02G 9/00) [2006.01]"
+  },
+  {
+    "code": "H02G 3/02",
+    "description": "••Detalles [2006.01]"
+  },
+  {
+    "code": "H02G 3/03",
+    "description": "••••Refrigeración [2006.01]"
+  },
+  {
+    "code": "H02G 3/04",
+    "description": "••••Tubos o conductos protectores , p. ej. bandejas de rejillas portacables o bandejas portacables [2006.01]"
+  },
+  {
+    "code": "H02G 3/06",
+    "description": "••••Empalmes para conectar los tubos de protección entre sí o a la envoltura, p. ej. a la caja de distribución; Asegurando la continuidad eléctrica en el empalme [2006.01]"
+  },
+  {
+    "code": "H02G 3/08",
+    "description": "••••Caja de distribución; Cajas de conexión o de empalme [2006.01]"
+  },
+  {
+    "code": "H02G 3/10",
+    "description": "••••••para montaje sobre un muro [2006.01]"
+  },
+  {
+    "code": "H02G 3/12",
+    "description": "••••••para montaje enrasado [2006.01]"
+  },
+  {
+    "code": "H02G 3/14",
+    "description": "••••••Fijación de la cubierta o tapa a la caja [2006.01]"
+  },
+  {
+    "code": "H02G 3/16",
+    "description": "••••••estructuralmente asociados con un soporte para bornes de conexión de líneas en el interior de la caja [2006.01]"
+  },
+  {
+    "code": "H02G 3/18",
+    "description": "••••••para salidas de líneas [2006.01]"
+  },
+  {
+    "code": "H02G 3/20",
+    "description": "••••••••Rosetón de techo [2006.01]"
+  },
+  {
+    "code": "H02G 3/22",
+    "description": "••Instalaciones de cables o líneas a través de muros, techos o suelos, p. ej. en los edificios [2006.01]"
+  },
+  {
+    "code": "H02G 3/30",
+    "description": "••Instalaciones de cables o líneas sobre muros, suelos o techos [2006.01]"
+  },
+  {
+    "code": "H02G 3/32",
+    "description": "••••utilizando bridas de fijación [2006.01]"
+  },
+  {
+    "code": "H02G 3/34",
+    "description": "••••utilizando tubos protectores separados [2006.01]"
+  },
+  {
+    "code": "H02G 3/36",
+    "description": "••Instalaciones de cables o de líneas en muros, suelos o techos [2006.01]"
+  },
+  {
+    "code": "H02G 3/38",
+    "description": "••••los cables o líneas están instalados en conductos o canalizaciones preeestablecidos [2006.01]"
+  },
+  {
+    "code": "H02G 3/40",
+    "description": "••••••que utilizan tubos de protección separados en los conductos o canalizaciones [2006.01]"
+  },
+  {
+    "code": "H02G 5/00",
+    "description": "Instalaciones de barras ómnibus [2006.01]"
+  },
+  {
+    "code": "H02G 5/02",
+    "description": "••Instalaciones abiertas [2006.01]"
+  },
+  {
+    "code": "H02G 5/04",
+    "description": "••Instalaciones parcialmente encerradas, p. ej. en canales y adaptaciones para la toma de corriente por deslizamiento o rodadura [2006.01]"
+  },
+  {
+    "code": "H02G 5/06",
+    "description": "••Instalaciones totalmente encerradas, p. ej. en envolturas metálicas [2006.01]"
+  },
+  {
+    "code": "H02G 5/08",
+    "description": "••••Cajas de conexión para éstas [2006.01]"
+  },
+  {
+    "code": "H02G 5/10",
+    "description": "••Refrigeración [2006.01]"
+  },
+  {
+    "code": "H02G 7/00",
+    "description": "Instalaciones de líneas o cables eléctricos aéreos (instalaciones de barras ómnibus H02G 5/00) [2006.01]"
+  },
+  {
+    "code": "H02G 7/02",
+    "description": "••Dispositivos para el ajuste y el mantenimiento de la tensión mecánica, p. ej. dispositivo de compensación [2006.01]"
+  },
+  {
+    "code": "H02G 7/04",
+    "description": "••Dispositivos o disposiciones para aliviar la tensión mecánica [2006.01]"
+  },
+  {
+    "code": "H02G 7/05",
+    "description": "••Dispositivos o disposiciones para suspender las líneas o cables eléctricos [2006.01]"
+  },
+  {
+    "code": "H02G 7/06",
+    "description": "••••Suspensiones para líneas o cables a lo largo de un hilo soporte separado, p. ej. gancho en S [2006.01]"
+  },
+  {
+    "code": "H02G 7/08",
+    "description": "••••••Elementos de conexión sobre el hilo soporte o sobre la línea o cable [2006.01]"
+  },
+  {
+    "code": "H02G 7/10",
+    "description": "••••••Elementos flexibles o ligaduras de cables que envuelven a la vez el hilo soporte y la línea o cable [2006.01]"
+  },
+  {
+    "code": "H02G 7/12",
+    "description": "••Dispositivos para mantener una distancia entre conductores paralelos, p. ej. separador [2006.01]"
+  },
+  {
+    "code": "H02G 7/14",
+    "description": "••Disposiciones o dispositivos para amortiguar las oscilaciones mecánicas de las líneas, p. ej. para reducir el ruido [2006.01]"
+  },
+  {
+    "code": "H02G 7/16",
+    "description": "••Dispositivos para retirar la nieve o hielo de las líneas o cables [2006.01]"
+  },
+  {
+    "code": "H02G 7/18",
+    "description": "••Dispositivos que proporcionan protección mecánica en el caso de rotura de un hilo o cable, p. ej. red para coger las líneas cortadas [2006.01]"
+  },
+  {
+    "code": "H02G 7/20",
+    "description": "••Distribución espacial o disposiciones de líneas o cables sobre postes o torres [2006.01]"
+  },
+  {
+    "code": "H02G 7/22",
+    "description": "••Disposiciones de hilos de tierra suspendidos entre las cabezas de los mástiles [2006.01]"
+  },
+  {
+    "code": "H02G 9/00",
+    "description": "Instalaciones de líneas o cables eléctricos en o sobre la tierra o el agua [2006.01]"
+  },
+  {
+    "code": "H02G 9/02",
+    "description": "••tendidas directamente en o sobre el suelo, lecho del río o fondo del mar; Recubrimientos consiguientes, p. ej. tejas [2006.01]"
+  },
+  {
+    "code": "H02G 9/04",
+    "description": "••en canales de superficie; Canales o cubiertas consiguientes [2006.01]"
+  },
+  {
+    "code": "H02G 9/06",
+    "description": "••en los tubos o conductos subterráneos; Tubos o conductos consiguientes [2006.01]"
+  },
+  {
+    "code": "H02G 9/08",
+    "description": "••en los túneles [2006.01]"
+  },
+  {
+    "code": "H02G 9/10",
+    "description": "••en cámaras de cables, p. ej. en arqueta de registro o en caja de registro [2006.01]"
+  },
+  {
+    "code": "H02G 9/12",
+    "description": "••soportados sobre o por estructuras flotantes, p. ej. en el agua [2006.01]"
+  },
+  {
+    "code": "H02G 11/00",
+    "description": "Instalaciones de cables o líneas eléctricas entre dos piezas con movimiento relativo [2006.01]"
+  },
+  {
+    "code": "H02G 11/02",
+    "description": "••utilizando una bobinadora o tambor [2006.01]"
+  },
+  {
+    "code": "H02G 13/00",
+    "description": "Instalaciones de pararrayos; Fijación de éstos a su estructura de soporte [2006.01]"
+  },
+  {
+    "code": "H02G 15/00",
+    "description": "Accesorios de cables [2006.01]"
+  },
+  {
+    "code": "H02G 15/007",
+    "description": "••Dispositivos para atenuar el esfuerzo mecánico [2006.01]"
+  },
+  {
+    "code": "H02G 15/013",
+    "description": "••Medios de estanqueidad para entradas de cable (entradas para cables rellenos o rodeados por un gas o aceite H02G 15/32) [2006.01]"
+  },
+  {
+    "code": "H02G 15/02",
+    "description": "••Terminaciones de cables (cables rellenos de gas o aceite H02G 15/22) [2006.01]"
+  },
+  {
+    "code": "H02G 15/04",
+    "description": "••••Terminaciones de cables sellados [2006.01]"
+  },
+  {
+    "code": "H02G 15/06",
+    "description": "••••Cajas, chasis u otras estructuras terminales [2006.01]"
+  },
+  {
+    "code": "H02G 15/064",
+    "description": "••••••con medios para atenuar el esfuerzo eléctrico [2006.01]"
+  },
+  {
+    "code": "H02G 15/068",
+    "description": "••••••••conectados al blindaje del cable solamente (H02G 15/072 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H02G 15/072",
+    "description": "••••••••del tipo condensador [2006.01]"
+  },
+  {
+    "code": "H02G 15/076",
+    "description": "••••••para cables o conductores múltiples [2006.01]"
+  },
+  {
+    "code": "H02G 15/08",
+    "description": "••Uniones de cables (para cables rellenos de gas o de aceite H02G 15/24) [2006.01]"
+  },
+  {
+    "code": "H02G 15/10",
+    "description": "••••protegidos por cajas, p. ej. cajas de distribución, de conexión o de unión [2006.01]"
+  },
+  {
+    "code": "H02G 15/103",
+    "description": "••••••con medios para atenuar el esfuerzo eléctrico [2006.01]"
+  },
+  {
+    "code": "H02G 15/105",
+    "description": "••••••••conectados al blindaje del cable solamente (H02G 15/107 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H02G 15/107",
+    "description": "••••••••del tipo condensador [2006.01]"
+  },
+  {
+    "code": "H02G 15/113",
+    "description": "••••••Cajas divididas longitudinalmente en la dirección del cable principal [2006.01]"
+  },
+  {
+    "code": "H02G 15/115",
+    "description": "••••••Cajas divididas perpendicularmente a la dirección del cable principal [2006.01]"
+  },
+  {
+    "code": "H02G 15/117",
+    "description": "••••••para cables o conductores múltiples [2006.01]"
+  },
+  {
+    "code": "H02G 15/12",
+    "description": "••••••para transformadores, bobinas de carga o amplificadores incorporados [2006.01]"
+  },
+  {
+    "code": "H02G 15/14",
+    "description": "••••••••especialmente adaptados para cables submarinos [2006.01]"
+  },
+  {
+    "code": "H02G 15/16",
+    "description": "••••••Estructuralmente asociados con soporte para bornes de conexión de líneas en la caja [2006.01]"
+  },
+  {
+    "code": "H02G 15/18",
+    "description": "••••protegidos por manguitos, p. ej. para cable de telecomunicación (cubiertas de dos partes H02G 15/10) [2006.01]"
+  },
+  {
+    "code": "H02G 15/184",
+    "description": "••••••con medios para atenuar el esfuerzo eléctrico [2006.01]"
+  },
+  {
+    "code": "H02G 15/188",
+    "description": "••••••••conectados al blindaje del cable solamente [2006.01]"
+  },
+  {
+    "code": "H02G 15/192",
+    "description": "••••••con medios de soporte para los extremos del manguito [2006.01]"
+  },
+  {
+    "code": "H02G 15/196",
+    "description": "••••••que presentan un aislamiento con revestimiento [2006.01]"
+  },
+  {
+    "code": "H02G 15/20",
+    "description": "••Accesorios de cables para cables rellenos o rodeados por un gas o aceite (H02G 15/34 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H02G 15/22",
+    "description": "••••Terminaciones de cables [2006.01]"
+  },
+  {
+    "code": "H02G 15/23",
+    "description": "••••••Estanqueidad en el extremo del cable [2006.01]"
+  },
+  {
+    "code": "H02G 15/24",
+    "description": "••••Uniones de cables [2006.01]"
+  },
+  {
+    "code": "H02G 15/25",
+    "description": "••••••Uniones con junta de choque [2006.01]"
+  },
+  {
+    "code": "H02G 15/26",
+    "description": "••••Cámaras de expansiones; Cabezas de enclavamiento; Tuberías de línea auxiliares [2006.01]"
+  },
+  {
+    "code": "H02G 15/28",
+    "description": "••••estructuralmente asociados con dispositivos para indicar la presencia o localizar defectos no eléctricos [2006.01]"
+  },
+  {
+    "code": "H02G 15/30",
+    "description": "••••con medios para atenuar el esfuerzo eléctrico [2006.01]"
+  },
+  {
+    "code": "H02G 15/32",
+    "description": "••••Entradas de cable [2006.01]"
+  },
+  {
+    "code": "H02G 15/34",
+    "description": "••Accesorios de cable para cables criogénicos [2006.01]"
+  }
+]

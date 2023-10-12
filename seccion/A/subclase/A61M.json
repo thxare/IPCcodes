@@ -1,0 +1,1142 @@
+[
+  {
+    "code": "A61M 1/00",
+    "description": "Dispositivos de succión o de bombeo de uso médico; Dispositivos para extraer, tratar o transportar los líquidos del cuerpo; Sistemas de drenaje (catéteres A61M 25/00; conectores o acoplamientos para tubos, válvulas o conjuntos de derivación, especialmente concebidos para uso médico A61M 39/00; dispositivos para tomar muestras sanguíneas A61B 5/15; instrumentos para retirar la saliva para dentistas A61C 17/06; filtros para implantar en los vasos sanguíneos A61F 2/01) [2006.01]"
+  },
+  {
+    "code": "A61M 1/02",
+    "description": "••Aparatos para transfusión sanguínea (perfusión de sangre mediante jeringas A61M 5/14) [2006.01]"
+  },
+  {
+    "code": "A61M 1/04",
+    "description": "••Aparatos para neumotórax [2006.01]"
+  },
+  {
+    "code": "A61M 1/06",
+    "description": "••Extractores de leche [2006.01]"
+  },
+  {
+    "code": "A61M 1/08",
+    "description": "••Ventosas [2006.01]"
+  },
+  {
+    "code": "A61M 1/14",
+    "description": "••Sistemas de diálisis; Riñones artificiales; Oxigenadores de la sangre (membranas semipermeables caracterizadas por sus materiales, sus procedimientos de fabricación B01D 71/00) [2006.01]"
+  },
+  {
+    "code": "A61M 1/16",
+    "description": "••••con membranas [2006.01]"
+  },
+  {
+    "code": "A61M 1/18",
+    "description": "••••••en forma de fibras huecas [2006.01]"
+  },
+  {
+    "code": "A61M 1/20",
+    "description": "••••••tubulares [2006.01]"
+  },
+  {
+    "code": "A61M 1/22",
+    "description": "••••••en forma de hojas [2006.01]"
+  },
+  {
+    "code": "A61M 1/24",
+    "description": "••••••••enrolladas en espiral [2006.01]"
+  },
+  {
+    "code": "A61M 1/26",
+    "description": "••••••en movimiento [2006.01]"
+  },
+  {
+    "code": "A61M 1/28",
+    "description": "••••Diálisis peritoneal [2006.01]"
+  },
+  {
+    "code": "A61M 1/30",
+    "description": "••••Diálisis con una sola aguja [2006.01]"
+  },
+  {
+    "code": "A61M 1/32",
+    "description": "••••Oxigenadores sin membranas [2006.01]"
+  },
+  {
+    "code": "A61M 1/34",
+    "description": "••Filtración de la sangre a través de una membrana para eliminar una sustancia, es decir hemofiltración, diafiltración [2006.01]"
+  },
+  {
+    "code": "A61M 1/36",
+    "description": "••Otros tratamientos de la sangre en una derivación del sistema circulatorio natural, p. ej. adaptación de la temperatura, irradiación [2006.01]"
+  },
+  {
+    "code": "A61M 1/38",
+    "description": "••••Extracción de constituyentes de la sangre del donante y retorno de la fracción restante al cuerpo [2006.01]"
+  },
+  {
+    "code": "A61M 3/00",
+    "description": "Jeringas médicas, p. ej. enemas; Irrigadores (A61M 5/00 tiene prioridad; pistones A61M 5/315) [2006.01]"
+  },
+  {
+    "code": "A61M 3/02",
+    "description": "••Enemas; Irrigadores [2006.01]"
+  },
+  {
+    "code": "A61M 3/04",
+    "description": "••••especialmente concebidos para el útero [2006.01]"
+  },
+  {
+    "code": "A61M 3/06",
+    "description": "••••combinados con bidés [2006.01]"
+  },
+  {
+    "code": "A61M 5/00",
+    "description": "Dispositivos para introducir agentes en el cuerpo vía subcutánea, intravenosa o intramuscular; Accesorios correspondientes, p. ej. dispositivos de llenado o de limpieza, reposa-brazos (conectores o acoplamientos para tubos, válvulas o conjuntos de derivación, especialmente concebidos para uso médico A61M 39/00; recipientes especialmente adaptados para fines médicos o farmacéuticos A61J 1/00) [2006.01]"
+  },
+  {
+    "code": "A61M 5/14",
+    "description": "••Dispositivos de perfusión, p. ej. perfusión por gravedad; Perfusión de sangre; Sus accesorios [2006.01]"
+  },
+  {
+    "code": "A61M 5/142",
+    "description": "••••Perfusión por presión, p. ej. utilizando bombas [2006.01]"
+  },
+  {
+    "code": "A61M 5/145",
+    "description": "••••••utilizando depósitos con presión, p. ej. por medio de pistones [2006.01]"
+  },
+  {
+    "code": "A61M 5/148",
+    "description": "••••••••flexibles (A61M 5/155 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "A61M 5/152",
+    "description": "••••••••••presurizados por contracción de depósitos elásticos [2006.01]"
+  },
+  {
+    "code": "A61M 5/155",
+    "description": "••••••••presurizados por gas [2006.01]"
+  },
+  {
+    "code": "A61M 5/158",
+    "description": "••••Agujas [2006.01]"
+  },
+  {
+    "code": "A61M 5/162",
+    "description": "••••Adaptadores para agujas, es decir, conexiones por perforación entre el depósito y el tubo [2006.01]"
+  },
+  {
+    "code": "A61M 5/165",
+    "description": "••••Accesorios de filtrado, p. ej. filtros para la sangre, para los líquidos de perfusión (A61M 1/34, A61M 5/36 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "A61M 5/168",
+    "description": "••••Medios para controlar el flujo de los agentes hacia el cuerpo o para dosificar los agentes a introducir en el cuerpo, p. ej. contadores de gota a gota [2006.01]"
+  },
+  {
+    "code": "A61M 5/172",
+    "description": "••••••eléctricos o electrónicos [2006.01]"
+  },
+  {
+    "code": "A61M 5/175",
+    "description": "••••••mecánicos [2006.01]"
+  },
+  {
+    "code": "A61M 5/178",
+    "description": "••Jeringas [2006.01]"
+  },
+  {
+    "code": "A61M 5/19",
+    "description": "••••con varios compartimentos [2006.01]"
+  },
+  {
+    "code": "A61M 5/20",
+    "description": "••••Jeringas automáticas, p. ej. con accionamiento automático del émbolo del pistón, con inyección automática de la aguja, con llenado automático (A61M 5/142 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "A61M 5/24",
+    "description": "••••Jeringas con ampollas, es decir, jeringas con aguja que se utilizan con ampollas o con cartuchos intercambiables, p. ej. automáticos [2006.01]"
+  },
+  {
+    "code": "A61M 5/28",
+    "description": "••••Ampollas o cartuchos jeringas, es decir, ampollas o cartuchos provistos de aguja [2006.01]"
+  },
+  {
+    "code": "A61M 5/30",
+    "description": "••••Jeringas para inyección por proyección, sin aguja, p. ej. utilizables con ampollas o cartuchos intercambiables [2006.01]"
+  },
+  {
+    "code": "A61M 5/303",
+    "description": "••••••siendo los agentes expulsados del inyector por una carga explosiva [2006.01]"
+  },
+  {
+    "code": "A61M 5/307",
+    "description": "••••••siendo los agentes expulsados del inyector por un fluido presurizado [2006.01]"
+  },
+  {
+    "code": "A61M 5/31",
+    "description": "••••Partes constitutivas [2006.01]"
+  },
+  {
+    "code": "A61M 5/315",
+    "description": "••••••Pistones; Embolos de pistón; Guiado, bloqueo o limitación del movimiento del émbolo; Accesorios colocados sobre el émbolo para facilitar la dosificación [2006.01]"
+  },
+  {
+    "code": "A61M 5/32",
+    "description": "••••••Agujas; Detalles de agujas relativos a su conexión con la jeringa o con el manguito de empalme (agujas de perfusión A61M 5/158); Accesorios para introducir la aguja en el cuerpo o mantenerla en esta posición; Dispositivos para la protección de agujas [2006.01]"
+  },
+  {
+    "code": "A61M 5/34",
+    "description": "••••••••Estructuras para la conexión de la aguja [2006.01]"
+  },
+  {
+    "code": "A61M 5/36",
+    "description": "••con medios para eliminar el aire o para impedir la inyección o la introducción de aire en el cuerpo [2006.01]"
+  },
+  {
+    "code": "A61M 5/38",
+    "description": "••••utilizando filtros hidrófilos o hidrófobos [2006.01]"
+  },
+  {
+    "code": "A61M 5/40",
+    "description": "••••utilizando una válvula con flotador para cortar el flujo de agentes procedentes del depósito cuando el nivel está demasiado bajo [2006.01]"
+  },
+  {
+    "code": "A61M 5/42",
+    "description": "••con medios para insensibilizar la piel, para elevar la piel con el fin de facilitar el pinchazo o para localizar el punto del cuerpo donde debe efectuarse el pinchazo [2006.01]"
+  },
+  {
+    "code": "A61M 5/44",
+    "description": "••con medios para enfriar o calentar los dispositivos o los agentes [2006.01]"
+  },
+  {
+    "code": "A61M 5/46",
+    "description": "••con medios para controlar la profundidad de penetración [2006.01]"
+  },
+  {
+    "code": "A61M 5/48",
+    "description": "••con medios para hacer variar, regular, indicar o limitar la presión de inyección (A61M 5/142 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "A61M 5/50",
+    "description": "••con medios para impedir la reutilización o para indicar si el dispositivo está defectuoso, ha sido usado, no es estéril o si se ha intentado utilizarlo [2006.01]"
+  },
+  {
+    "code": "A61M 5/52",
+    "description": "••Apoyabrazos [2006.01]"
+  },
+  {
+    "code": "A61M 9/00",
+    "description": "Baños para la limpieza intestinal subacuática [2006.01]"
+  },
+  {
+    "code": "A61M 11/00",
+    "description": "Pulverizadores o vaporizadores especialmente concebidos para usos médicos [2006.01]"
+  },
+  {
+    "code": "A61M 11/02",
+    "description": "••actuando por presión de aire sobre los líquidos a pulverizar o a vaporizar [2006.01]"
+  },
+  {
+    "code": "A61M 11/04",
+    "description": "••actuando por presión del vapor de los líquidos a pulverizar o a vaporizar [2006.01]"
+  },
+  {
+    "code": "A61M 11/06",
+    "description": "••del tipo inyector [2006.01]"
+  },
+  {
+    "code": "A61M 11/08",
+    "description": "••••Vaporizadores de bolsillo de tipo inyector [2006.01]"
+  },
+  {
+    "code": "A61M 13/00",
+    "description": "Insufladores con fines terapéuticos o de desinfección [2006.01]"
+  },
+  {
+    "code": "A61M 15/00",
+    "description": "Inhaladores [2006.01]"
+  },
+  {
+    "code": "A61M 15/02",
+    "description": "••con gases activados o ionizados; Inhaladores de ozono [2006.01]"
+  },
+  {
+    "code": "A61M 15/06",
+    "description": "••Aparatos inhaladores en forma de cigarrillos, de puros o de pipas [2006.01]"
+  },
+  {
+    "code": "A61M 15/08",
+    "description": "••Dispositivos de inhalación colocados en la nariz [2006.01]"
+  },
+  {
+    "code": "A61M 16/00",
+    "description": "Dispositivos para actuar sobre el sistema respiratorio de los pacientes por medio de un tratamiento a base de gas, p. ej. respiración boca a boca; Tubos traqueales (estimulación del movimiento respiratorio por medios mecánicos, neumáticos o eléctricos, pulmones de acero combinados con medios para respirar gases A61H 31/00) [2006.01]"
+  },
+  {
+    "code": "A61M 16/01",
+    "description": "••especialmente adaptados para la anestesia [2006.01]"
+  },
+  {
+    "code": "A61M 16/04",
+    "description": "••Tubos traqueales [2006.01]"
+  },
+  {
+    "code": "A61M 16/06",
+    "description": "••Máscaras respiratorias o para anestesia [2006.01]"
+  },
+  {
+    "code": "A61M 16/08",
+    "description": "••Fuelles; Tubos de conexión [2006.01]"
+  },
+  {
+    "code": "A61M 16/10",
+    "description": "••Preparación de los gases o vapores que se van a inhalar [2006.01]"
+  },
+  {
+    "code": "A61M 16/12",
+    "description": "••••por mezcla de gases diferentes [2006.01]"
+  },
+  {
+    "code": "A61M 16/14",
+    "description": "••••por mezcla de fluidos diferentes, estando uno de ellos en fase líquida [2006.01]"
+  },
+  {
+    "code": "A61M 16/16",
+    "description": "••••••Dispositivos para humidificar el aire a respirar [2006.01]"
+  },
+  {
+    "code": "A61M 16/18",
+    "description": "••••••Dispositivos de vaporización para preparaciones anestésicas [2006.01]"
+  },
+  {
+    "code": "A61M 16/20",
+    "description": "••Válvulas especialmente adaptadas a los dispositivos respiratorios médicos [2006.01]"
+  },
+  {
+    "code": "A61M 16/22",
+    "description": "••Dispositivos de absorción de dióxido de carbono [2006.01]"
+  },
+  {
+    "code": "A61M 19/00",
+    "description": "Dispositivos para anestesia local; Dispositivos para hipotermia (A61M 5/42 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "A61M 21/00",
+    "description": "Otros dispositivos o métodos para producir un cambio en el estado de consciencia; Dispositivos para provocar o interrumpir el sueño por medios mecánicos, ópticos o acústicos, p. ej. para hipnotizar (camas para facilitar el sueño A61G 7/043) [2006.01]"
+  },
+  {
+    "code": "A61M 21/02",
+    "description": "••para provocar el sueño o la relajación, p. ej. por estimulación directa de los nervios, por hipnosis o por analgesia (para el masaje A61H; electroterapia A61N, p. ej. aplicación de corrientes eléctricas alternas o intermitentes para provocar la anestesia A61N 1/34) [2006.01]"
+  },
+  {
+    "code": "A61M 25/01",
+    "description": "••Introducción, guía, avance, colocación o mantenimiento en posición de catéteres (A61M 25/10 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "A61M 25/02",
+    "description": "••••Dispositivos para mantener en posición, p. ej. sobre el cuerpo [2006.01]"
+  },
+  {
+    "code": "A61M 25/04",
+    "description": "••••••en el interior del cuerpo, p. ej. expansibles [2006.01]"
+  },
+  {
+    "code": "A61M 25/06",
+    "description": "••••Agujas con una guía para pinchar el cuerpo o similares (A61M 25/088 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "A61M 25/08",
+    "description": "••••Medios para hacer avanzar el catéter o la sonda, p. ej. autopropulsados [2006.01]"
+  },
+  {
+    "code": "A61M 25/082",
+    "description": "••••••Disposiciones para la autopropulsión (A61M 25/085 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "A61M 25/085",
+    "description": "••••••Propulsión por medio de fluidos [2006.01]"
+  },
+  {
+    "code": "A61M 25/088",
+    "description": "••••utilizando un catéter adicional, p. ej. para alcanzar zonas relativamente inaccesibles [2006.01]"
+  },
+  {
+    "code": "A61M 25/09",
+    "description": "••••Alambres guía [2006.01]"
+  },
+  {
+    "code": "A61M 25/092",
+    "description": "••••Control a distancia de la orientación del extremo distal [2006.01]"
+  },
+  {
+    "code": "A61M 25/095",
+    "description": "••••Disposiciones que permiten la detección de la posición interna del catéter, p. ej. radiográficamente [2006.01]"
+  },
+  {
+    "code": "A61M 25/098",
+    "description": "••••••utilizando marcadores radioopacos [2006.01]"
+  },
+  {
+    "code": "A61M 25/10",
+    "description": "••Catéteres balón (balones inflables para la colocación de stents o injertos stent A61F 2/958) [2013.01]"
+  },
+  {
+    "code": "A61M 25/12",
+    "description": "••••Disposiciones para desprender el balón cuando está en posición [2006.01]"
+  },
+  {
+    "code": "A61M 25/14",
+    "description": "••Disposición o forma de los conductos para el paso de fluidos, p. ej. de varios conductos para paso de fluidos (A61M 25/10 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "A61M 25/16",
+    "description": "••Fabricación o montaje no previsto en otro lugar [2006.01]"
+  },
+  {
+    "code": "A61M 25/18",
+    "description": "••••Conexión de catéteres o sondas a los conos [2006.01]"
+  },
+  {
+    "code": "A61M 27/00",
+    "description": "Dispositivos para el drenaje de heridas o similares (instrumentos para mantener las heridas abiertas A61B 17/02) [2006.01]"
+  },
+  {
+    "code": "A61M 29/00",
+    "description": "Dilatadores con o sin medios para introducir agentes, p. ej. remedios (stents A61F 2/82) [2006.01]"
+  },
+  {
+    "code": "A61M 29/02",
+    "description": "••Dilatadores inflables (conexión de válvulas a los cuerpos elásticos inflables B60C 29/00); Dilatadores hechos de materiales distensibles [2006.01]"
+  },
+  {
+    "code": "A61M 29/04",
+    "description": "••••Dilatadores hechos de materiales distensibles [2006.01]"
+  },
+  {
+    "code": "A61M 31/00",
+    "description": "Dispositivos para la introducción o la retención de agentes, p. ej. remedios, en las cavidades del cuerpo (A61M 25/00 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "A61M 35/00",
+    "description": "Dispositivos para aplicar agentes, p. ej. remedios, sobre el cuerpo humano (artículos para el manejo de productos de aseo o cosmética A45D; compresas absorbentes, p. ej. torundas, A61F 13/15) [2006.01]"
+  },
+  {
+    "code": "A61M 36/00",
+    "description": "Aplicación de material radiactivo al cuerpo [2006.01]"
+  },
+  {
+    "code": "A61M 36/02",
+    "description": "••combinada con la utilización de otras fuentes de energía radiante u ondulatoria, p. ej. ondas electromagnéticas, ondas térmicas, microondas [2006.01]"
+  },
+  {
+    "code": "A61M 36/04",
+    "description": "••Disposiciones especialmente adaptadas para introducir, p. ej. por inhalación o por inyección, un material radiactivo en el cuerpo [2006.01]"
+  },
+  {
+    "code": "A61M 36/06",
+    "description": "••••por inyección de un fluido que contiene un agente radiactivo o un agente de activación a través de un conducto que penetra en el cuerpo perforando la piel [2006.01]"
+  },
+  {
+    "code": "A61M 36/08",
+    "description": "••••••Blindaje del receptáculo de fluido, p. ej. blindaje de la jeringa [2006.01]"
+  },
+  {
+    "code": "A61M 36/10",
+    "description": "••••Aplicación utero-vaginal o pélvica [2006.01]"
+  },
+  {
+    "code": "A61M 36/12",
+    "description": "••••Inyectores, soportes para pastillas o implantes, p. ej. cápsulas [2006.01]"
+  },
+  {
+    "code": "A61M 36/14",
+    "description": "••Curas radiactivas [2006.01]"
+  },
+  {
+    "code": "A61M 37/00",
+    "description": "Otros aparatos para introducir agentes en el cuerpo (para la reproducción o la fertilización A61B 17/425; aparatos para iontoforesis o cataforesis A61N 1/30); Percutanización, es decir, introducción de medicamentos en el cuerpo por difusión a través de la piel (baños de sales A61H 33/04) [2006.01]"
+  },
+  {
+    "code": "A61M 39/00",
+    "description": "Tubos, adaptadores o conectores para tubos, válvulas, vías de acceso o similares, especialmente concebidos para uso médico (para los dispositivos respiratorios, p. ej. tubos traqueales A61M 16/00; válvulas cardiacas artificiales A61F 2/24) [2006.01]"
+  },
+  {
+    "code": "A61M 39/02",
+    "description": "••Vías de acceso [2006.01]"
+  },
+  {
+    "code": "A61M 39/04",
+    "description": "••••con elementos perforables autoobturantes [2006.01]"
+  },
+  {
+    "code": "A61M 39/06",
+    "description": "••••Válvulas hemostáticas, es decir, elementos obturantes alrededor de una aguja, catéter o similar, que se cierran después de su extracción [2006.01]"
+  },
+  {
+    "code": "A61M 39/08",
+    "description": "••Tubos; Medios de almacenamiento especialmente adaptados al efecto [2006.01]"
+  },
+  {
+    "code": "A61M 39/10",
+    "description": "••Conectores o acopladores para tubos [2006.01]"
+  },
+  {
+    "code": "A61M 39/12",
+    "description": "••••para acoplar un tubo flexible a un dispositivo de fijación rígido [2006.01]"
+  },
+  {
+    "code": "A61M 39/14",
+    "description": "••••para conectar tubos con extremos obturados [2006.01]"
+  },
+  {
+    "code": "A61M 39/16",
+    "description": "••••con disposiciones para la desinfección o la esterilización [2006.01]"
+  },
+  {
+    "code": "A61M 39/18",
+    "description": "••••••Métodos o aparatos para realizar las conexiones en condiciones estériles [2006.01]"
+  },
+  {
+    "code": "A61M 39/20",
+    "description": "••Tapas o tapones para conectores o para los extremos abiertos de tubos [2006.01]"
+  },
+  {
+    "code": "A61M 39/22",
+    "description": "••Válvulas o elementos de válvulas [2006.01]"
+  },
+  {
+    "code": "A61M 39/24",
+    "description": "••••Válvulas de retención o válvulas antirretorno [2006.01]"
+  },
+  {
+    "code": "A61M 39/26",
+    "description": "••••Válvulas que se cierran automáticamente tras la desconexión y que se abren en la reconexión [2006.01]"
+  },
+  {
+    "code": "A61M 39/28",
+    "description": "••••Medios de sujeción por apriete de tubos flexibles, p. ej. abrazaderas de rodillo [2006.01]"
+  },
+  {
+    "code": "A61M 60/00",
+    "description": "Bombas de sangre; Dispositivos de accionamiento mecánico de la circulación; Bombas de balón para asistencia circulatoria (estimulación cardíaca A61H 31/00; estimuladores cardíacos para electroterapia A61N 1/362) [2021.01]"
+  },
+  {
+    "code": "A61M 60/10",
+    "description": "••Ubicación del mismo con respecto al cuerpo del paciente [2021.01]"
+  },
+  {
+    "code": "A61M 60/104",
+    "description": "••••Bombas extracorpóreas, es decir, siendo la sangre bombeada fuera del cuerpo del paciente [2021.01]"
+  },
+  {
+    "code": "A61M 60/109",
+    "description": "••••••incorporadas en circuitos o sistemas sanguíneos extracorpóreos [2021.01]"
+  },
+  {
+    "code": "A61M 60/113",
+    "description": "••••••••en otros dispositivos funcionales, p. ej. dializadores o máquinas corazón-pulmón [2021.01]"
+  },
+  {
+    "code": "A61M 60/117",
+    "description": "••••••para ayudar al corazón, p. ej. dispositivos de asistencia ventricular externa o transcutánea [2021.01]"
+  },
+  {
+    "code": "A61M 60/122",
+    "description": "••••Bombas implantables o dispositivos de bombeo, es decir, siendo la sangre bombeada dentro del cuerpo del paciente [2021.01]"
+  },
+  {
+    "code": "A61M 60/126",
+    "description": "••••••implantables a través de,  dentro,  en línea, ramificadas en o alrededor de un vaso sanguíneo [2021.01]"
+  },
+  {
+    "code": "A61M 60/13",
+    "description": "••••••••por medio de un catéter que permite la explantación, p. ej. bombas de catéter introducidas temporalmente a través del sistema vascular [2021.01]"
+  },
+  {
+    "code": "A61M 60/135",
+    "description": "••••••••dentro de un vaso sanguíneo, p. ej. usando un injerto [2021.01]"
+  },
+  {
+    "code": "A61M 60/139",
+    "description": "••••••••••dentro de la aorta, p. ej. bombas de balón intraaórtico [2021.01]"
+  },
+  {
+    "code": "A61M 60/143",
+    "description": "••••••••••dentro del seno coronario, p. ej. para la oclusión intermitente del seno coronario controlada por presión [2021.01]"
+  },
+  {
+    "code": "A61M 60/148",
+    "description": "••••••••en línea con un vaso sanguíneo, que usan resección o técnicas similares, p. ej. dispositivos de asistencia cardíaca endovascular permanente [2021.01]"
+  },
+  {
+    "code": "A61M 60/152",
+    "description": "••••••••que se ramifican y extraen sangre de un vaso sanguíneo [2021.01]"
+  },
+  {
+    "code": "A61M 60/157",
+    "description": "••••••••que actúan mecánicamente sobre el interior de la estructura de los vasos sanguíneos del paciente, p. ej. estructuras contráctiles colocadas dentro de un vaso [2021.01]"
+  },
+  {
+    "code": "A61M 60/161",
+    "description": "••••••••que actúan mecánicamente sobre el exterior de la estructura de los vasos sanguíneos del paciente, p. ej. estructuras compresivas colocadas alrededor de un vaso [2021.01]"
+  },
+  {
+    "code": "A61M 60/165",
+    "description": "••••••implantables en, sobre o alrededor del corazón [2021.01]"
+  },
+  {
+    "code": "A61M 60/17",
+    "description": "••••••••dentro de un ventrículo, p. ej. bombas de balón intraventricular [2021.01]"
+  },
+  {
+    "code": "A61M 60/174",
+    "description": "••••••••••que descargan la sangre al ventrículo o sistema arterial a través de una cánula interna al ventrículo o sistema arterial [2021.01]"
+  },
+  {
+    "code": "A61M 60/178",
+    "description": "••••••••que extraen la sangre de un ventrículo y devuelven la sangre al sistema arterial a través de una cánula externa al ventrículo, p. ej. dispositivos de asistencia ventricular izquierda o derecha [2021.01]"
+  },
+  {
+    "code": "A61M 60/183",
+    "description": "••••••••••que extraen sangre de ambos ventrículos, p. ej. dispositivos de asistencia bi-ventricular [BiVAD] [2021.01]"
+  },
+  {
+    "code": "A61M 60/187",
+    "description": "••••••••que actúan mecánicamente sobre el interior del corazón nativo del paciente, p. ej. estructuras contráctiles colocadas dentro del corazón [2021.01]"
+  },
+  {
+    "code": "A61M 60/191",
+    "description": "••••••••que actúan mecánicamente sobre el exterior del corazón nativo del paciente, p. ej. estructuras compresivas colocadas alrededor del corazón [2021.01]"
+  },
+  {
+    "code": "A61M 60/196",
+    "description": "••••••que reemplazan todo el corazón, p. ej. corazones artificiales totales [TAH] [2021.01]"
+  },
+  {
+    "code": "A61M 60/20",
+    "description": "••Tipos [2021.01]"
+  },
+  {
+    "code": "A61M 60/205",
+    "description": "••••Bombas de sangre de desplazamiento no positivo [2021.01]"
+  },
+  {
+    "code": "A61M 60/211",
+    "description": "••••••que utilizan un surtidor, efecto venturi o arrastre para bombear la sangre [2021.01]"
+  },
+  {
+    "code": "A61M 60/216",
+    "description": "••••••que incluyen un elemento giratorio que actúa sobre la sangre, p. ej. un rodete [2021.01]"
+  },
+  {
+    "code": "A61M 60/221",
+    "description": "••••••••teniendo el flujo de sangre a través del elemento rotatorio componentes tanto radiales como axiales, p. ej. bombas de flujo mixto [2021.01]"
+  },
+  {
+    "code": "A61M 60/226",
+    "description": "••••••••teniendo el flujo de sangre a través del elemento rotatorio principalmente componentes radiales [2021.01]"
+  },
+  {
+    "code": "A61M 60/232",
+    "description": "••••••••••Bombas centrífugas [2021.01]"
+  },
+  {
+    "code": "A61M 60/237",
+    "description": "••••••••teniendo el flujo de sangre a través del elemento rotatorio principalmente componentes axiales, p. ej. bombas de flujo axial [2021.01]"
+  },
+  {
+    "code": "A61M 60/242",
+    "description": "••••••••••con la salida sustancialmente perpendicular al eje de rotación [2021.01]"
+  },
+  {
+    "code": "A61M 60/247",
+    "description": "••••Bombas de sangre de desplazamiento positivo [2021.01]"
+  },
+  {
+    "code": "A61M 60/253",
+    "description": "••••••que incluyen un elemento de desplazamiento que actúa directamente sobre la sangre [2021.01]"
+  },
+  {
+    "code": "A61M 60/258",
+    "description": "••••••••Bombas de pistón [2021.01]"
+  },
+  {
+    "code": "A61M 60/263",
+    "description": "••••••••••que tienen una carcasa esférica, p. ej. bombas cardan [2021.01]"
+  },
+  {
+    "code": "A61M 60/268",
+    "description": "••••••••siendo flexible el elemento de desplazamiento, p.ej. membranas, diafragmas o cámaras [2021.01]"
+  },
+  {
+    "code": "A61M 60/274",
+    "description": "••••••••••siendo la entrada y la salida la misma, p. ej. bombas de sangre paraaórticas de contrapulsación [2021.01]"
+  },
+  {
+    "code": "A61M 60/279",
+    "description": "••••••••••Bombas peristálticas, p. ej. bombas de rodillos [2021.01]"
+  },
+  {
+    "code": "A61M 60/284",
+    "description": "••••••••••••Bombas peristálticas lineales [2021.01]"
+  },
+  {
+    "code": "A61M 60/289",
+    "description": "••••Dispositivos para la activación mecánica de la circulación que ayudan a la función cardíaca residual por medios que actúan mecánicamente sobre el corazón nativo del paciente o la estructura de vasos sanguíneos, p. ej. dispositivos de compresión cardíaca directa [DCC] [2021.01]"
+  },
+  {
+    "code": "A61M 60/295",
+    "description": "••••Bombas de balón para asistencia circulatoria [2021.01]"
+  },
+  {
+    "code": "A61M 60/30",
+    "description": "••Fines médicos a tal efecto distintos de la mejora del flujo cardíaco [2021.01]"
+  },
+  {
+    "code": "A61M 60/31",
+    "description": "••••para mejorar la perfusión de órganos in vivo, p. ej. la retroperfusión [2021.01]"
+  },
+  {
+    "code": "A61M 60/32",
+    "description": "••••••de los tejidos del músculo cardíaco, p. ej. mediante la oclusión de los senos coronarios [2021.01]"
+  },
+  {
+    "code": "A61M 60/33",
+    "description": "••••••de los riñones [2021.01]"
+  },
+  {
+    "code": "A61M 60/34",
+    "description": "••••para mejorar la circulación en las extremidades, p. ej. los pies [2021.01]"
+  },
+  {
+    "code": "A61M 60/35",
+    "description": "••••para cirugías específicas, p. ej. para el procedimiento de Fontan [2021.01]"
+  },
+  {
+    "code": "A61M 60/36",
+    "description": "••••para el tratamiento específico de la sangre; para terapia específica [2021.01]"
+  },
+  {
+    "code": "A61M 60/37",
+    "description": "••••••Hemodiálisis, hemofiltración o diafiltración [2021.01]"
+  },
+  {
+    "code": "A61M 60/38",
+    "description": "••••••Oxigenación de la sangre [2021.01]"
+  },
+  {
+    "code": "A61M 60/39",
+    "description": "••••para transfusión de sangre [2021.01]"
+  },
+  {
+    "code": "A61M 60/40",
+    "description": "••Detalles relacionados con el accionamiento [2021.01]"
+  },
+  {
+    "code": "A61M 60/403",
+    "description": "••••para Bombas de sangre de desplazamiento no positivo [2021.01]"
+  },
+  {
+    "code": "A61M 60/405",
+    "description": "••••••siendo la fuerza que actúa sobre el elemento en contacto con la sangre hidráulica o neumática [2021.01]"
+  },
+  {
+    "code": "A61M 60/408",
+    "description": "••••••siendo la fuerza que actúa sobre el elemento en contacto con la sangre mecánica, p. ej. transmitida por un eje o cable [2021.01]"
+  },
+  {
+    "code": "A61M 60/411",
+    "description": "••••••••generada por un electromotor [2021.01]"
+  },
+  {
+    "code": "A61M 60/414",
+    "description": "••••••••••transmitida por un cable giratorio, p. ej. para bombas montadas en un catéter [2021.01]"
+  },
+  {
+    "code": "A61M 60/416",
+    "description": "••••••••••transmitida directamente por el eje de transmisión del rotor del motor [2021.01]"
+  },
+  {
+    "code": "A61M 60/419",
+    "description": "••••••siendo la fuerza que actúa sobre el elemento en contacto con la sangre magnética permanente, p. ej. de un acoplamiento magnético giratorio entre imanes impulsores y accionados [2021.01]"
+  },
+  {
+    "code": "A61M 60/422",
+    "description": "••••••siendo la fuerza que actúa sobre el elemento de contacto con la sangre electromagnética, p. ej. utilizando motobombas integradas [2021.01]"
+  },
+  {
+    "code": "A61M 60/424",
+    "description": "••••para Bombas de sangre de desplazamiento positivo [2021.01]"
+  },
+  {
+    "code": "A61M 60/427",
+    "description": "••••••siendo la fuerza que actúa sobre el elemento de contacto con la sangre hidráulica o neumática [2021.01]"
+  },
+  {
+    "code": "A61M 60/43",
+    "description": "••••••••usando vacío en la bomba, p. ej. para acelerar el llenado [2021.01]"
+  },
+  {
+    "code": "A61M 60/432",
+    "description": "••••••••con cambio de diástole o sístole al detener o invertir la bomba  que opera a una velocidad cíclica mucho más alta que los latidos del corazón [2021.01]"
+  },
+  {
+    "code": "A61M 60/435",
+    "description": "••••••••con conmutación de diástole o sístole mediante válvulas situadas entre la bomba y la fuente de energía hidráulica o neumática [2021.01]"
+  },
+  {
+    "code": "A61M 60/438",
+    "description": "••••••siendo la fuerza que actúa sobre el elemento en contacto con la sangre mecánica [2021.01]"
+  },
+  {
+    "code": "A61M 60/441",
+    "description": "••••••••generada por un electromotor [2021.01]"
+  },
+  {
+    "code": "A61M 60/443",
+    "description": "••••••••••con medios para convertir la rotación en un movimiento de traslación del elemento de desplazamiento [2021.01]"
+  },
+  {
+    "code": "A61M 60/446",
+    "description": "••••••••••••siendo el eje de ambos movimientos paralelo, p. ej. actuadores de tornillo de rodillo o transmisiones de levas cilíndricas [2021.01]"
+  },
+  {
+    "code": "A61M 60/449",
+    "description": "••••••••generada por un solenoide [2021.01]"
+  },
+  {
+    "code": "A61M 60/451",
+    "description": "••••••••generada por actuadores electrotermomecánicos, p. ej. actuadores de aleación con memoria de forma [2021.01]"
+  },
+  {
+    "code": "A61M 60/454",
+    "description": "••••••••generada por actuadores electroactivos, p. ej. utilizando polímeros electroactivos o elementos piezoeléctricos [2021.01]"
+  },
+  {
+    "code": "A61M 60/457",
+    "description": "••••••siendo la fuerza que actúa sobre el elemento en contacto con la sangre magnética [2021.01]"
+  },
+  {
+    "code": "A61M 60/459",
+    "description": "••••••••generada por imanes permanentes [2021.01]"
+  },
+  {
+    "code": "A61M 60/462",
+    "description": "••••••••Fuerza electromagnética [2021.01]"
+  },
+  {
+    "code": "A61M 60/465",
+    "description": "••••para dispositivos de accionamiento mecánico de la circulación [2021.01]"
+  },
+  {
+    "code": "A61M 60/468",
+    "description": "••••••siendo la fuerza que actúa sobre los medios de accionamiento hidráulica o neumática [2021.01]"
+  },
+  {
+    "code": "A61M 60/47",
+    "description": "••••••siendo la fuerza que actúa sobre los medios de accionamiento mecánica, p. ej. miembros accionados mecánicamente que sujetan un vaso sanguíneo [2021.01]"
+  },
+  {
+    "code": "A61M 60/473",
+    "description": "••••••••generada por un electromotor [2021.01]"
+  },
+  {
+    "code": "A61M 60/476",
+    "description": "••••••••••con medios que convierten la rotación en un movimiento de traslación del elemento de desplazamiento [2021.01]"
+  },
+  {
+    "code": "A61M 60/478",
+    "description": "••••••••••••siendo el eje de ambos movimientos paralelo, p. ej. actuadores de tornillo de rodillo o transmisiones de levas cilíndricas [2021.01]"
+  },
+  {
+    "code": "A61M 60/481",
+    "description": "••••••••generada por un solenoide [2021.01]"
+  },
+  {
+    "code": "A61M 60/484",
+    "description": "••••••••generada por actuadores electrotermomecánicos, p. ej. actuadores de aleación con memoria de forma [2021.01]"
+  },
+  {
+    "code": "A61M 60/486",
+    "description": "••••••••generada por actuadores electroactivos, p. ej. utilizando polímeros electroactivos o elementos piezoeléctricos [2021.01]"
+  },
+  {
+    "code": "A61M 60/489",
+    "description": "••••••siendo la fuerza que actúa sobre los medios de accionamiento magnética [2021.01]"
+  },
+  {
+    "code": "A61M 60/492",
+    "description": "••••••••generada por imanes permanentes [2021.01]"
+  },
+  {
+    "code": "A61M 60/495",
+    "description": "••••••••Fuerza electromagnética [2021.01]"
+  },
+  {
+    "code": "A61M 60/497",
+    "description": "••••para bombas de balón para asistencia circulatoria [2021.01]"
+  },
+  {
+    "code": "A61M 60/50",
+    "description": "••Detalles relacionados con el control [2021.01]"
+  },
+  {
+    "code": "A61M 60/508",
+    "description": "••••Medios de control electrónico, p. ej. para regular la retroalimentación [2021.01]"
+  },
+  {
+    "code": "A61M 60/515",
+    "description": "••••••Regulación utilizando datos de pacientes en tiempo real [2021.01]"
+  },
+  {
+    "code": "A61M 60/523",
+    "description": "••••••••utilizando datos de flujo sanguíneo, p. ej. de transductores de flujo sanguíneo [2021.01]"
+  },
+  {
+    "code": "A61M 60/531",
+    "description": "••••••••utilizando datos de presión arterial, p. ej. de sensores de presión arterial [2021.01]"
+  },
+  {
+    "code": "A61M 60/538",
+    "description": "••••••Regulación utilizando en tiempo real datos de parámetros operativos de la bomba de sangre, p. ej. la corriente del motor [2021.01]"
+  },
+  {
+    "code": "A61M 60/546",
+    "description": "••••••••del flujo sanguíneo, p. ej. adaptando la velocidad del rotor [2021.01]"
+  },
+  {
+    "code": "A61M 60/554",
+    "description": "••••••••de la presión arterial [2021.01]"
+  },
+  {
+    "code": "A61M 60/562",
+    "description": "••••••para hacer que el flujo sanguíneo sea pulsátil en Bombas de sangre que no crean intrínsecamente un flujo pulsátil [2021.01]"
+  },
+  {
+    "code": "A61M 60/569",
+    "description": "••••••••síncrono con el latido del corazón nativo [2021.01]"
+  },
+  {
+    "code": "A61M 60/577",
+    "description": "••••••Accionamiento de alta frecuencia [2021.01]"
+  },
+  {
+    "code": "A61M 60/585",
+    "description": "••••Interfaces de usuario [2021.01]"
+  },
+  {
+    "code": "A61M 60/592",
+    "description": "••••Comunicación de datos del paciente o de la bomba de sangre a operadores distantes para fines de tratamiento [2021.01]"
+  },
+  {
+    "code": "A61M 60/80",
+    "description": "••Detalles constructivos distintos de los relacionados con el accionamiento [2021.01]"
+  },
+  {
+    "code": "A61M 60/802",
+    "description": "••••de Bombas de sangre de desplazamiento no positivo [2021.01]"
+  },
+  {
+    "code": "A61M 60/804",
+    "description": "••••••Rodetes [2021.01]"
+  },
+  {
+    "code": "A61M 60/806",
+    "description": "••••••••Paletas o palas [2021.01]"
+  },
+  {
+    "code": "A61M 60/808",
+    "description": "••••••••••especialmente adaptadas para rodetes deformables, p. ej. rodetes expandibles [2021.01]"
+  },
+  {
+    "code": "A61M 60/81",
+    "description": "••••••Carcasas de bombas [2021.01]"
+  },
+  {
+    "code": "A61M 60/812",
+    "description": "••••••••Paletas o palas, p. ej. guías de flujo estático [2021.01]"
+  },
+  {
+    "code": "A61M 60/814",
+    "description": "••••••••Volutas [2021.01]"
+  },
+  {
+    "code": "A61M 60/816",
+    "description": "••••••••Sensores dispuestos sobre o en la carcasa, p. ej. sensores de flujo por ultrasonidos [2021.01]"
+  },
+  {
+    "code": "A61M 60/818",
+    "description": "••••••Cojinetes [2021.01]"
+  },
+  {
+    "code": "A61M 60/82",
+    "description": "••••••••Cojinetes magnéticos [2021.01]"
+  },
+  {
+    "code": "A61M 60/822",
+    "description": "••••••••••especialmente adaptados para ser controlados activamente [2021.01]"
+  },
+  {
+    "code": "A61M 60/824",
+    "description": "••••••••Cojinetes de película hidrodinámica o fluida [2021.01]"
+  },
+  {
+    "code": "A61M 60/825",
+    "description": "••••••••Cojinetes de contacto, p. ej. rodamientos o cojinetes pivotantes [2021.01]"
+  },
+  {
+    "code": "A61M 60/827",
+    "description": "••••••Sellados entre partes móviles [2021.01]"
+  },
+  {
+    "code": "A61M 60/829",
+    "description": "••••••••que tienen un suministro de fluido de purga [2021.01]"
+  },
+  {
+    "code": "A61M 60/831",
+    "description": "••••••••••usando sangre filtrada como líquido de purga [2021.01]"
+  },
+  {
+    "code": "A61M 60/833",
+    "description": "••••••Oclusores para prevenir el reflujo [2021.01]"
+  },
+  {
+    "code": "A61M 60/835",
+    "description": "••••de Bombas de sangre de desplazamiento positivo [2021.01]"
+  },
+  {
+    "code": "A61M 60/837",
+    "description": "••••••Aspectos de elementos de desplazamiento flexibles, p. ej. formas o materiales [2021.01]"
+  },
+  {
+    "code": "A61M 60/839",
+    "description": "••••de dispositivos de accionamiento mecánica de la circulación [2021.01]"
+  },
+  {
+    "code": "A61M 60/841",
+    "description": "••••de bombas de balón para asistencia circulatoria [2021.01]"
+  },
+  {
+    "code": "A61M 60/843",
+    "description": "••••••Aspectos del balón, p. ej. formas o materiales [2021.01]"
+  },
+  {
+    "code": "A61M 60/845",
+    "description": "••••de bombas de sangre extracorpóreas [2021.01]"
+  },
+  {
+    "code": "A61M 60/847",
+    "description": "••••••dispuestas en un casete [2021.01]"
+  },
+  {
+    "code": "A61M 60/849",
+    "description": "••••••Partes desechables [2021.01]"
+  },
+  {
+    "code": "A61M 60/851",
+    "description": "••••••Válvulas [2021.01]"
+  },
+  {
+    "code": "A61M 60/853",
+    "description": "••••••••estando la válvula formada por un elemento de tubo flexible que se sujeta para restringir el flujo [2021.01]"
+  },
+  {
+    "code": "A61M 60/855",
+    "description": "••••de bombas implantables o dispositivos de bombeo [2021.01]"
+  },
+  {
+    "code": "A61M 60/857",
+    "description": "••••••Tubos de sangre implantables [2021.01]"
+  },
+  {
+    "code": "A61M 60/859",
+    "description": "••••••••Conexiones para los mismos [2021.01]"
+  },
+  {
+    "code": "A61M 60/861",
+    "description": "••••••Conexiones o anclajes para conectar o anclar bombas o dispositivos de bombeo a partes del cuerpo del paciente [2021.01]"
+  },
+  {
+    "code": "A61M 60/863",
+    "description": "••••••••Anillos de ápice [2021.01]"
+  },
+  {
+    "code": "A61M 60/865",
+    "description": "••••••Dispositivos para guiar o insertar bombas o dispositivos de bombeo en el cuerpo del paciente [2021.01]"
+  },
+  {
+    "code": "A61M 60/867",
+    "description": "••••••••que utilizan la detección de la posición durante su implantación, p. ej. para bombas de sangre montadas e impulsadas a través de un catéter [2021.01]"
+  },
+  {
+    "code": "A61M 60/869",
+    "description": "••••••Cámaras de compensación que contienen un gas o líquido que no es sangre para compensar las variaciones de volumen de la cámara de sangre [2021.01]"
+  },
+  {
+    "code": "A61M 60/871",
+    "description": "••••••Dispositivos de suministro de energía; Convertidores a tal efecto [2021.01]"
+  },
+  {
+    "code": "A61M 60/873",
+    "description": "••••••••especialmente adaptados para la transferencia de energía inalámbrica o transcutánea [TET], p. ej. carga inductiva [2021.01]"
+  },
+  {
+    "code": "A61M 60/875",
+    "description": "••••••••••especialmente adaptados para optimizar la alineación de bobinas externas e implantables [2021.01]"
+  },
+  {
+    "code": "A61M 60/876",
+    "description": "••••••••Baterías implantables [2021.01]"
+  },
+  {
+    "code": "A61M 60/878",
+    "description": "••••••••Conexiones eléctricas dentro del cuerpo del paciente [2021.01]"
+  },
+  {
+    "code": "A61M 60/88",
+    "description": "••••••••Cables percutáneos [2021.01]"
+  },
+  {
+    "code": "A61M 60/882",
+    "description": "••••••••Dispositivos alimentados por el paciente, p. ej. dispositivos accionados por el músculo esquelético [2021.01]"
+  },
+  {
+    "code": "A61M 60/884",
+    "description": "••••••estando asociados a dispositivos adicionales de tratamiento de la sangre implantables [2021.01]"
+  },
+  {
+    "code": "A61M 60/886",
+    "description": "••••••••Oxigenadores de sangre [2021.01]"
+  },
+  {
+    "code": "A61M 60/888",
+    "description": "••••••••Filtros de sangre [2021.01]"
+  },
+  {
+    "code": "A61M 60/89",
+    "description": "••••••Válvulas [2021.01]"
+  },
+  {
+    "code": "A61M 60/892",
+    "description": "••••••••Válvulas activas, es decir, accionadas por una fuerza externa [2021.01]"
+  },
+  {
+    "code": "A61M 60/894",
+    "description": "••••••••Válvulas pasivas, es decir, válvulas accionadas por la sangre [2021.01]"
+  },
+  {
+    "code": "A61M 60/896",
+    "description": "••••••••••que tienen partes flexibles o elásticas, p. ej. válvulas de compuerta [2021.01]"
+  },
+  {
+    "code": "A61M 60/898",
+    "description": "••••••••siendo la bomba de sangre una bomba de sangre de membrana y actuando la membrana como válvula de entrada [2021.01]"
+  },
+  {
+    "code": "A61M 60/90",
+    "description": "••Detalles no previstos en los grupos A61M 60/40, A61M 60/50 o A61M 60/80 [2021.01]"
+  },
+  {
+    "code": "A61M 99/00",
+    "description": "Materia no prevista en otros grupos de esta subclase [2012.01]"
+  }
+]

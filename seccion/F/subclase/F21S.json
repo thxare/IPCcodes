@@ -1,0 +1,566 @@
+[
+  {
+    "code": "F21S 2/00",
+    "description": "Sistemas de dispositivos de iluminación, no previstos en los grupos principales F21S 4/00-F21S 10/00 o F21S 19/00, p. ej. de construcción modular [2016.01]"
+  },
+  {
+    "code": "F21S 4/00",
+    "description": "Dispositivos o sistemas de iluminación que utilizan una tira o ristra de fuentes de luz [2016.01]"
+  },
+  {
+    "code": "F21S 4/10",
+    "description": "••con fuentes de luz unidos a cables eléctricos sueltos, p. ej. luces del árbol de Navidad [2016.01]"
+  },
+  {
+    "code": "F21S 4/15",
+    "description": "••••formando los cables una estructura en cuadrícula, red o trama [2016.01]"
+  },
+  {
+    "code": "F21S 4/20",
+    "description": "••con fuentes de luz mantenidas por o en el interior de soportes alargados [2016.01]"
+  },
+  {
+    "code": "F21S 4/22",
+    "description": "••••flexible o deformable, p. ej. en una forma curvada [2016.01]"
+  },
+  {
+    "code": "F21S 4/24",
+    "description": "••••••en forma de banda o cinta, p. ej. cintas de LED [2016.01]"
+  },
+  {
+    "code": "F21S 4/26",
+    "description": "••••••con forma de cuerda, p. ej.,cuerdas de iluminación LED, o de forma tubular [2016.01]"
+  },
+  {
+    "code": "F21S 4/28",
+    "description": "••••rígidas, p. ej. barras de LED [2016.01]"
+  },
+  {
+    "code": "F21S 6/00",
+    "description": "Dispositivos de iluminación destinados a una posición libre (F21S 9/00, F21S 10/00 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F21S 8/00",
+    "description": "Dispositivos de iluminación destinados a una instalación fija (F21S 9/00, F21S 10/00 tienen prioridad; utilizando una tira o ristra de fuentes de luz F21S 4/00) [2006.01]"
+  },
+  {
+    "code": "F21S 8/02",
+    "description": "••del tipo montado sobre huecos, p. ej. lámparas descendentes (especialmente adapatados para exteriores de vehículos F21S 41/00-F21S 45/00) [2006.01]"
+  },
+  {
+    "code": "F21S 8/04",
+    "description": "••destinados únicamente para ser montados en un techo o una estructura aérea similar (F21S 8/02 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F21S 8/06",
+    "description": "••••mediante suspensión [2006.01]"
+  },
+  {
+    "code": "F21S 8/08",
+    "description": "••con una bancada [2006.01]"
+  },
+  {
+    "code": "F21S 9/00",
+    "description": "Dispositivos de iluminación con fuente de corriente incorporada; Sistemas que emplean dispositivos de iluminación con fuente de corriente incorporada [2006.01]"
+  },
+  {
+    "code": "F21S 9/02",
+    "description": "••siendo la fuente de corriente una batería o acumulador [2006.01]"
+  },
+  {
+    "code": "F21S 9/03",
+    "description": "••••recargables mediante su exposición a la luz [2006.01]"
+  },
+  {
+    "code": "F21S 9/04",
+    "description": "••siendo la fuente de corriente un generador [2006.01]"
+  },
+  {
+    "code": "F21S 10/00",
+    "description": "Dispositivos o sistemas que producen un efecto de iluminación variable [2006.01]"
+  },
+  {
+    "code": "F21S 10/02",
+    "description": "••cambiando colores (F21S 10/04 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F21S 10/04",
+    "description": "••simulando llamas [2006.01]"
+  },
+  {
+    "code": "F21S 10/06",
+    "description": "••parpadeante, p. ej. con un reflector o una fuente de luz giratorios [2006.01]"
+  },
+  {
+    "code": "F21S 11/00",
+    "description": "Dispositivos o sistemas de iluminación no eléctricos o que utilizan la luz del día [2006.01]"
+  },
+  {
+    "code": "F21S 13/00",
+    "description": "Dispositivos o sistemas de iluminación no eléctrica que utilizan una fuente de luz puntual; Dispositivos o sistemas de iluminación no eléctrica que utilizan una fuente de luz de forma no especificada [2006.01]"
+  },
+  {
+    "code": "F21S 13/02",
+    "description": "••Dispositivos destinados para ser fijados, p. ej. lámparas de techo, lámparas de pared [2006.01]"
+  },
+  {
+    "code": "F21S 13/04",
+    "description": "••••con un colgante [2006.01]"
+  },
+  {
+    "code": "F21S 13/06",
+    "description": "••••••con ramificaciones múltiples, p. ej. araña de luces [2006.01]"
+  },
+  {
+    "code": "F21S 13/08",
+    "description": "••••con suspensión de un alambre estirado [2006.01]"
+  },
+  {
+    "code": "F21S 13/10",
+    "description": "••••con un soporte, p. ej. farolas [2006.01]"
+  },
+  {
+    "code": "F21S 13/12",
+    "description": "••Dispositivos destinados para estar en posición libre, p. ej. lámparas de mesa, lámparas de pie en el suelo [2006.01]"
+  },
+  {
+    "code": "F21S 13/14",
+    "description": "••Sistemas de iluminación [2006.01]"
+  },
+  {
+    "code": "F21S 15/00",
+    "description": "Dispositivos o sistemas de iluminación no eléctricos que utilizan fuentes de luz no cubiertas por los grupos F21S 11/00, F21S 13/00 o F21S 19/00 [2006.01]"
+  },
+  {
+    "code": "F21S 19/00",
+    "description": "Dispositivos o sistemas de iluminación que utilizan una combinación de fuentes de luz eléctrica y no eléctrica; Sustitución o intercambio de fuentes de luz eléctricas por fuentes de luz no eléctricas o viceversa [2006.01]"
+  },
+  {
+    "code": "F21S 41/00",
+    "description": "Dispositivos de iluminación de vehículos especialmente adaptados para exteriores de vehículos, p. ej. luces delanteras (luces de marcha atrás F21S 43/00) [2018.01]"
+  },
+  {
+    "code": "F21S 41/10",
+    "description": "••caracterizados por la fuente de luz [2018.01]"
+  },
+  {
+    "code": "F21S 41/12",
+    "description": "••••caracterizados por el tipo de luz emitida [2018.01]"
+  },
+  {
+    "code": "F21S 41/125",
+    "description": "••••••Luz coloreada [2018.01]"
+  },
+  {
+    "code": "F21S 41/13",
+    "description": "••••••Luz ultravioleta; luz infrarroja [2018.01]"
+  },
+  {
+    "code": "F21S 41/135",
+    "description": "••••••polarizada [2018.01]"
+  },
+  {
+    "code": "F21S 41/14",
+    "description": "••••caracterizados por el tipo de fuente de luz [2018.01]"
+  },
+  {
+    "code": "F21S 41/141",
+    "description": "••••••diodos emisores de luz [LED] [2018.01]"
+  },
+  {
+    "code": "F21S 41/143",
+    "description": "••••••••con la dirección principal de emisión del LED paralela al eje óptico del dispositivo de iluminación [2018.01]"
+  },
+  {
+    "code": "F21S 41/145",
+    "description": "••••••••••con la dirección principal de emisión del LED opuesta a la dirección principal de emisión del dispositivo de iluminación [2018.01]"
+  },
+  {
+    "code": "F21S 41/147",
+    "description": "••••••••con la dirección principal de emisión del LED en ángulo respecto al eje óptico del dispositivo de iluminación [2018.01]"
+  },
+  {
+    "code": "F21S 41/148",
+    "description": "••••••••••con la dirección principal de emisión del LED perpendicular al eje óptico [2018.01]"
+  },
+  {
+    "code": "F21S 41/151",
+    "description": "••••••••dispuestos en dos o más filas [2018.01]"
+  },
+  {
+    "code": "F21S 41/153",
+    "description": "••••••••••dispuestos en una matriz [2018.01]"
+  },
+  {
+    "code": "F21S 41/155",
+    "description": "••••••••Emisores de superficie, p. ej. diodos orgánicos emisores de luz [OLED] [2018.01]"
+  },
+  {
+    "code": "F21S 41/16",
+    "description": "••••••Fuentes de luz láser [2018.01]"
+  },
+  {
+    "code": "F21S 41/162",
+    "description": "••••••Fuentes de luz incandescentes, p. ej. bombillas de filamento o halógenas [2018.01]"
+  },
+  {
+    "code": "F21S 41/164",
+    "description": "••••••••con dos o más filamentos [2018.01]"
+  },
+  {
+    "code": "F21S 41/166",
+    "description": "••••••••caracterizadas por la forma del filamento [2018.01]"
+  },
+  {
+    "code": "F21S 41/168",
+    "description": "••••••••con un filamento dispuesto transversalmente respecto al eje óptico del dispositivo de iluminación [2018.01]"
+  },
+  {
+    "code": "F21S 41/17",
+    "description": "••••••Fuentes de luz de descarga [2018.01]"
+  },
+  {
+    "code": "F21S 41/172",
+    "description": "••••••••Fuentes de luz de descarga de alta intensidad [2018.01]"
+  },
+  {
+    "code": "F21S 41/173",
+    "description": "••••••••Fuentes de luz fluorescente [2018.01]"
+  },
+  {
+    "code": "F21S 41/176",
+    "description": "••••••Fuentes de luz en las que la luz se genera  mediante un material fotoluminiscente separado de un elemento de generación de luz principal [2018.01]"
+  },
+  {
+    "code": "F21S 41/19",
+    "description": "••••Fijación de fuentes de luz o de soportes de bombillas (obtención de una distribución de luz variable mediante fuentes de luz móviles F21S 41/657) [2018.01]"
+  },
+  {
+    "code": "F21S 41/20",
+    "description": "••caracterizados por refractores, placas de recubrimiento transparentes, guías de luz o filtros [2018.01]"
+  },
+  {
+    "code": "F21S 41/24",
+    "description": "••••Guías de luz [2018.01]"
+  },
+  {
+    "code": "F21S 41/25",
+    "description": "••••Lentes de proyección [2018.01]"
+  },
+  {
+    "code": "F21S 41/255",
+    "description": "••••••Lentes con un aspecto frontal de contorno circular o de círculo truncado [2018.01]"
+  },
+  {
+    "code": "F21S 41/26",
+    "description": "••••••Lentes alargadas [2018.01]"
+  },
+  {
+    "code": "F21S 41/265",
+    "description": "••••••Lentes compuestas; lentes con forma de parche [2018.01]"
+  },
+  {
+    "code": "F21S 41/27",
+    "description": "••••••Lentes gruesas [2018.01]"
+  },
+  {
+    "code": "F21S 41/275",
+    "description": "••••••Superficies de las lentes, p. ej. recubrimientos o estructuras superficiales [2018.01]"
+  },
+  {
+    "code": "F21S 41/29",
+    "description": "••••Fijación de los mismos (para obtener una distribución de luz variable F21S 41/63) [2018.01]"
+  },
+  {
+    "code": "F21S 41/30",
+    "description": "••caracterizados por reflectores [2018.01]"
+  },
+  {
+    "code": "F21S 41/32",
+    "description": "••••Diseño óptico de los mismos [2018.01]"
+  },
+  {
+    "code": "F21S 41/33",
+    "description": "••••••Reflectores de múltiples superficies, p. ej. reflectores con facetas o reflectores con partes de distinta curvatura [2018.01]"
+  },
+  {
+    "code": "F21S 41/36",
+    "description": "••••••Combinaciones de dos o más reflectores distintos [2018.01]"
+  },
+  {
+    "code": "F21S 41/365",
+    "description": "••••••••que reflejan sucesivamente la luz [2018.01]"
+  },
+  {
+    "code": "F21S 41/37",
+    "description": "••••caracterizados por su material, tratamiento superficial o recubrimiento [2018.01]"
+  },
+  {
+    "code": "F21S 41/39",
+    "description": "••••Fijación de los mismos (obtención de una distribución de luz variable mediante reflectores móviles F21S 41/675) [2018.01]"
+  },
+  {
+    "code": "F21S 41/40",
+    "description": "••caracterizados por pantallas, elementos no reflectantes, elementos de protección frente a la luz o pantallas fijas [2018.01]"
+  },
+  {
+    "code": "F21S 41/43",
+    "description": "••••caracterizados por la forma de los mismos [2018.01]"
+  },
+  {
+    "code": "F21S 41/47",
+    "description": "••••Fijación de los mismos (obtención de una distribución de luz variable mediante pantallas móviles F21S 41/683) [2018.01]"
+  },
+  {
+    "code": "F21S 41/50",
+    "description": "••caracterizados por componentes estéticos no previstos en otro lugar, p. ej. guarniciones decorativas, paneles de separación o cubiertas [2018.01]"
+  },
+  {
+    "code": "F21S 41/55",
+    "description": "••••Fijación de los mismos [2018.01]"
+  },
+  {
+    "code": "F21S 41/60",
+    "description": "••caracterizados por una distribución de luz variable [2018.01]"
+  },
+  {
+    "code": "F21S 41/62",
+    "description": "••••para su adaptación a la circulación por la derecha y por la izquierda [2018.01]"
+  },
+  {
+    "code": "F21S 41/63",
+    "description": "••••actuando sobre los refractores, filtros o placas de recubrimiento transparentes [2018.01]"
+  },
+  {
+    "code": "F21S 41/64",
+    "description": "••••••variando su transmisividad de la luz, p. ej. mediante dispositivos de cristal líquido o electrocrómicos [2018.01]"
+  },
+  {
+    "code": "F21S 41/65",
+    "description": "••••actuando sobre las fuentes de luz [2018.01]"
+  },
+  {
+    "code": "F21S 41/657",
+    "description": "••••••mediante fuentes de luz móviles [2018.01]"
+  },
+  {
+    "code": "F21S 41/663",
+    "description": "••••••mediante fuentes de luz conmutadas (mediante fuentes de luz incandescente conmutadas F21S 41/162) [2018.01]"
+  },
+  {
+    "code": "F21S 41/67",
+    "description": "••••actuando sobre los reflectores [2018.01]"
+  },
+  {
+    "code": "F21S 41/675",
+    "description": "••••••mediante reflectores móviles [2018.01]"
+  },
+  {
+    "code": "F21S 41/68",
+    "description": "••••actuando sobre las pantallas [2018.01]"
+  },
+  {
+    "code": "F21S 41/683",
+    "description": "••••••mediante pantallas móviles [2018.01]"
+  },
+  {
+    "code": "F21S 41/686",
+    "description": "••••••••Cortinillas, es decir pantallas que se desplazan en un plano vertical [2018.01]"
+  },
+  {
+    "code": "F21S 41/689",
+    "description": "••••••••Solapas, es decir pantallas que giran alrededor de uno de sus bordes [2018.01]"
+  },
+  {
+    "code": "F21S 41/692",
+    "description": "••••••••Escudos, es decir pantallas que no crean una imagen destinada a ser proyectada [2018.01]"
+  },
+  {
+    "code": "F21S 41/695",
+    "description": "••••••••Pantallas que giran alrededor de un eje vertical (solapas giratorias F21S 41/689) [2018.01]"
+  },
+  {
+    "code": "F21S 41/698",
+    "description": "••••••••Pantallas en forma de eje que giran a lo largo de sus ejes longitudinales [2018.01]"
+  },
+  {
+    "code": "F21S 43/00",
+    "description": "Dispositivos de señalización especialmente adaptados para exteriores de vehículos, p. ej. luces de freno, indicadores de dirección o luces de marcha atrás [2018.01]"
+  },
+  {
+    "code": "F21S 43/10",
+    "description": "••caracterizados por la fuente de luz [2018.01]"
+  },
+  {
+    "code": "F21S 43/13",
+    "description": "••••caracterizados por el tipo de fuente de luz [2018.01]"
+  },
+  {
+    "code": "F21S 43/14",
+    "description": "••••••Diodos emisores de luz [LED] [2018.01]"
+  },
+  {
+    "code": "F21S 43/145",
+    "description": "••••••••Emisores de superficie, p. ej. diodos orgánicos emisores de luz [OLED] [2018.01]"
+  },
+  {
+    "code": "F21S 43/15",
+    "description": "••••••Tiras de fuentes de luz [2018.01]"
+  },
+  {
+    "code": "F21S 43/16",
+    "description": "••••••Fuentes de luz en las que la luz se genera mediante un material fotoluminiscente separado de un elemento de generación de luz principal [2018.01]"
+  },
+  {
+    "code": "F21S 43/19",
+    "description": "••••Fijación de fuentes de luz o de soportes de bombillas [2018.01]"
+  },
+  {
+    "code": "F21S 43/20",
+    "description": "••caracterizados por los refractores, placas de recubrimiento transparentes, guías de luz o filtros [2018.01]"
+  },
+  {
+    "code": "F21S 43/235",
+    "description": "••••Guías de luz [2018.01]"
+  },
+  {
+    "code": "F21S 43/236",
+    "description": "••••••caracterizadas por la forma de la guía de luz [2018.01]"
+  },
+  {
+    "code": "F21S 43/237",
+    "description": "••••••••en forma de varilla [2018.01]"
+  },
+  {
+    "code": "F21S 43/239",
+    "description": "••••••••en forma de placa [2018.01]"
+  },
+  {
+    "code": "F21S 43/241",
+    "description": "••••••••de forma compleja [2018.01]"
+  },
+  {
+    "code": "F21S 43/242",
+    "description": "••••••caracterizadas por el área de emisión [2018.01]"
+  },
+  {
+    "code": "F21S 43/243",
+    "description": "••••••••que emiten luz desde uno o más de sus extremos [2018.01]"
+  },
+  {
+    "code": "F21S 43/245",
+    "description": "••••••••que emiten luz desde una o más de sus superficies principales [2018.01]"
+  },
+  {
+    "code": "F21S 43/247",
+    "description": "••••••con una única fuente de luz acoplada en la guía de luz [2018.01]"
+  },
+  {
+    "code": "F21S 43/249",
+    "description": "••••••con dos o más fuentes de luz acopladas en la guía de luz [2018.01]"
+  },
+  {
+    "code": "F21S 43/251",
+    "description": "••••••utilizándose las guías de luz para transmitir luz desde fuentes de luz distantes [2018.01]"
+  },
+  {
+    "code": "F21S 43/27",
+    "description": "••••Fijación de los mismos [2018.01]"
+  },
+  {
+    "code": "F21S 43/30",
+    "description": "••caracterizados por los reflectores [2018.01]"
+  },
+  {
+    "code": "F21S 43/31",
+    "description": "••••Diseño óptico de los mismos [2018.01]"
+  },
+  {
+    "code": "F21S 43/33",
+    "description": "••••caracterizados por su material, tratamiento superficial o recubrimiento [2018.01]"
+  },
+  {
+    "code": "F21S 43/37",
+    "description": "••••Fijación de los mismos [2018.01]"
+  },
+  {
+    "code": "F21S 43/40",
+    "description": "••caracterizados por la combinación de reflectores y refractores [2018.01]"
+  },
+  {
+    "code": "F21S 43/50",
+    "description": "••caracterizados por componentes estéticos no previstos en otro lugar, p. ej. guarniciones decorativas, paneles de separación o cubiertas [2018.01]"
+  },
+  {
+    "code": "F21S 45/00",
+    "description": "Disposiciones en los dispositivos de iluminación de vehículos especialmente adaptadas para exteriores de vehículos, para propósitos distintos a la emisión o distribución de luz [2018.01]"
+  },
+  {
+    "code": "F21S 45/10",
+    "description": "••Protección de los dispositivos de iluminación (refrigeración de dispositivos de iluminación F21S 45/40, impermeabilización de dispositivos de iluminación F21S 45/50) [2018.01]"
+  },
+  {
+    "code": "F21S 45/20",
+    "description": "••Fomento del flujo de gas en dispositivos de iluminación, p. ej. dirigiendo el flujo hacia el cristal de cubierta para desempañarlo (ventilación F21S 45/30; refrigeración forzada F21S 45/42) [2018.01]"
+  },
+  {
+    "code": "F21S 45/30",
+    "description": "••Ventilación o drenaje de dispositivos de iluminación [2018.01]"
+  },
+  {
+    "code": "F21S 45/33",
+    "description": "••••especialmente adaptados para luces delanteras [2018.01]"
+  },
+  {
+    "code": "F21S 45/37",
+    "description": "••••especialmente adaptados para luces de señalización [2018.01]"
+  },
+  {
+    "code": "F21S 45/40",
+    "description": "••Refrigeración de dispositivos de iluminación [2018.01]"
+  },
+  {
+    "code": "F21S 45/42",
+    "description": "••••Refrigeración forzada [2018.01]"
+  },
+  {
+    "code": "F21S 45/43",
+    "description": "••••••utilizando gas [2018.01]"
+  },
+  {
+    "code": "F21S 45/435",
+    "description": "••••••••haciendo circular el gas dentro de un sistema cerrado [2018.01]"
+  },
+  {
+    "code": "F21S 45/46",
+    "description": "••••••utilizando líquido [2018.01]"
+  },
+  {
+    "code": "F21S 45/465",
+    "description": "••••••••de otros sistemas de refrigeración del vehículo, p. ej. de los sistemas de aire acondicionado o de refrigeración del motor [2018.01]"
+  },
+  {
+    "code": "F21S 45/47",
+    "description": "••••Refrigeración pasiva, p. ej. utilizando aletas, elementos termoconductores o aberturas [2018.01]"
+  },
+  {
+    "code": "F21S 45/48",
+    "description": "••••••con medios para conducir el calor del interior al exterior de los dispositivos de iluminación, p. ej. con aletas sobre la superficie exterior del dispositivo de iluminación [2018.01]"
+  },
+  {
+    "code": "F21S 45/49",
+    "description": "••••Fijación de los medios de refrigeración [2018.01]"
+  },
+  {
+    "code": "F21S 45/50",
+    "description": "••Impermeabilización [2018.01]"
+  },
+  {
+    "code": "F21S 45/60",
+    "description": "••Calentamiento de los dispositivos de iluminación, p. ej. para desempañar [2018.01]"
+  },
+  {
+    "code": "F21S 45/70",
+    "description": "••Prevención de fugas dañinas de luz [2018.01]"
+  }
+]

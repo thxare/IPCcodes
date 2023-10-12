@@ -1,0 +1,22 @@
+[
+  {
+    "code": "G06E 1/00",
+    "description": "Dispositivos para tratar exclusivamente datos digitales [2006.01]"
+  },
+  {
+    "code": "G06E 1/02",
+    "description": "••que actúan sobre el orden o el contenido de los datos tratados [2006.01]"
+  },
+  {
+    "code": "G06E 1/04",
+    "description": "••••para efectuar cálculos utilizando exclusivamente una representación del número codificada, p. ej. representación binaria, ternaria, decimal [2006.01]"
+  },
+  {
+    "code": "G06E 1/06",
+    "description": "••••para efectuar cálculos utilizando una representación digital del número no codificada, es decir sin base; utilizando combinaciones de representaciones digitales del número codificadas y no codificadas [2006.01]"
+  },
+  {
+    "code": "G06E 3/00",
+    "description": "Dispositivos no previstos en el grupo G06E 1/00, p. ej. para tratar datos analógicos o híbridos [2006.01]"
+  }
+]

@@ -1,0 +1,1570 @@
+[
+  {
+    "code": "H02K 1/00",
+    "description": "Detalles del circuito magnético (circuitos magnéticos para relés H01H 50/16) [2006.01]"
+  },
+  {
+    "code": "H02K 1/02",
+    "description": "••caracterizados por el material magnético [2006.01]"
+  },
+  {
+    "code": "H02K 1/04",
+    "description": "••caracterizados por el material empleado para el aislamiento del circuito magnético o de sus partes [2006.01]"
+  },
+  {
+    "code": "H02K 1/06",
+    "description": "••caracterizados por la configuración, la forma o el tipo de construcción [2006.01]"
+  },
+  {
+    "code": "H02K 1/08",
+    "description": "••••Polos salientes [2006.01]"
+  },
+  {
+    "code": "H02K 1/10",
+    "description": "••••••Polos de conmutación [2006.01]"
+  },
+  {
+    "code": "H02K 1/12",
+    "description": "••••Partes fijas del circuito magnético [2006.01]"
+  },
+  {
+    "code": "H02K 1/14",
+    "description": "••••••Núcleos estatóricos de polos salientes [2006.01]"
+  },
+  {
+    "code": "H02K 1/16",
+    "description": "••••••Núcleos estatóricos con ranuras para los arrollamientos [2006.01]"
+  },
+  {
+    "code": "H02K 1/17",
+    "description": "••••••Núcleos estatóricos de imanes permanentes [2006.01]"
+  },
+  {
+    "code": "H02K 1/18",
+    "description": "••••••Medios de montaje o de fijación de partes magnéticas fijas sobre o en estructuras que constituyen el estator [2006.01]"
+  },
+  {
+    "code": "H02K 1/20",
+    "description": "••••••con canales o conductos para el flujo de un agente de refrigeración [2006.01]"
+  },
+  {
+    "code": "H02K 1/22",
+    "description": "••••Partes giratorias del circuito magnético [2006.01]"
+  },
+  {
+    "code": "H02K 1/24",
+    "description": "••••••Núcleos rotóricos de polos salientes [2006.01]"
+  },
+  {
+    "code": "H02K 1/26",
+    "description": "••••••Núcleos rotóricos con ranuras para los arrollamientos [2006.01]"
+  },
+  {
+    "code": "H02K 1/27",
+    "description": "••••••Núcleos de rotóricos de imanes permanentes [2022.01]"
+  },
+  {
+    "code": "H02K 1/2706",
+    "description": "••••••••Rotores interiores [2022.01]"
+  },
+  {
+    "code": "H02K 1/2713",
+    "description": "••••••••••siendo el eje de magnetización de los imanes axial, p. ej., de polos intercalados [2022.01]"
+  },
+  {
+    "code": "H02K 1/272",
+    "description": "••••••••••siendo el eje de magnetización de los imanes perpendicular al eje del rotor [2022.01]"
+  },
+  {
+    "code": "H02K 1/2726",
+    "description": "••••••••••••estando el rotor formado por un solo imán o por dos o más imanes individuales yuxtapuestos axialmente [2022.01]"
+  },
+  {
+    "code": "H02K 1/2733",
+    "description": "••••••••••••••Imanes anulares [2022.01]"
+  },
+  {
+    "code": "H02K 1/274",
+    "description": "••••••••••••estando el rotor formado por dos o más imanes colocados de forma circunferencial [2022.01]"
+  },
+  {
+    "code": "H02K 1/2746",
+    "description": "••••••••••••••estando el rotor formado por imanes dispuestos con la misma polaridad, p. ej. del tipo de polos consecutivos [2022.01]"
+  },
+  {
+    "code": "H02K 1/2753",
+    "description": "••••••••••••••estando el rotor formado por imanes o grupos de imanes dispuestos con polaridad alterna [2022.01]"
+  },
+  {
+    "code": "H02K 1/276",
+    "description": "••••••••••••••••Imanes incrustados en el núcleo magnético,  p. ej. imanes permanentes interiores [IPM] [2022.01]"
+  },
+  {
+    "code": "H02K 1/278",
+    "description": "••••••••••••••••Imanes montados en superficie; Imanes insertados [2022.01]"
+  },
+  {
+    "code": "H02K 1/2781",
+    "description": "••••••••••••••••••Imanes conformados para variar el entrehierro mecánico entre los imanes y el estator [2022.01]"
+  },
+  {
+    "code": "H02K 1/2783",
+    "description": "••••••••••••••••••con imanes dispuestos en matrices de Halbach [2022.01]"
+  },
+  {
+    "code": "H02K 1/2786",
+    "description": "••••••••Rotores exteriores [2022.01]"
+  },
+  {
+    "code": "H02K 1/2787",
+    "description": "••••••••••siendo el eje de magnetización de los imanes perpendicular al eje del rotor [2022.01]"
+  },
+  {
+    "code": "H02K 1/2788",
+    "description": "••••••••••••estando el rotor formado por un solo imán o por dos o más imanes individuales yuxtapuestos axialmente [2022.01]"
+  },
+  {
+    "code": "H02K 1/2789",
+    "description": "••••••••••••estando el rotor formado por dos o más imanes colocados circunferencialmente [2022.01]"
+  },
+  {
+    "code": "H02K 1/279",
+    "description": "••••••••••••••Imanes incrustados en el núcleo magnético [2022.01]"
+  },
+  {
+    "code": "H02K 1/2791",
+    "description": "••••••••••••••Imanes montados en la superficie; Imanes insertados [2022.01]"
+  },
+  {
+    "code": "H02K 1/27915",
+    "description": "••••••••••••••••Imanes conformados para variar el entrehierro mecánico entre los imanes y el estator [2022.01]"
+  },
+  {
+    "code": "H02K 1/2792",
+    "description": "••••••••••••••••con imanes dispuestos en matrices de Halbach [2022.01]"
+  },
+  {
+    "code": "H02K 1/2793",
+    "description": "••••••••Rotores orientados axialmente a los estatores [2022.01]"
+  },
+  {
+    "code": "H02K 1/2795",
+    "description": "••••••••••estando el rotor formado por dos o más imanes colocados de forma circunferencial [2022.01]"
+  },
+  {
+    "code": "H02K 1/2796",
+    "description": "••••••••••••donde ambos lados axiales del rotor se enfrentan a un estator [2022.01]"
+  },
+  {
+    "code": "H02K 1/2798",
+    "description": "••••••••••••donde ambos lados axiales del estator se enfrentan a un rotor [2022.01]"
+  },
+  {
+    "code": "H02K 1/28",
+    "description": "••••••Medios de montaje o de fijación de partes magnéticas giratorias sobre o en estructuras que constituyen el rotor [2006.01]"
+  },
+  {
+    "code": "H02K 1/30",
+    "description": "••••••••utilizando una o varias piezas intermedias, p. ej. crucetas [2006.01]"
+  },
+  {
+    "code": "H02K 1/32",
+    "description": "••••••con canales o conductos para el flujo de un agente refrigerante [2006.01]"
+  },
+  {
+    "code": "H02K 1/34",
+    "description": "••••Partes del circuito magnético con movimiento alternativo, oscilante o vibratorio [2006.01]"
+  },
+  {
+    "code": "H02K 3/00",
+    "description": "Detalles de arrollamientos [2006.01]"
+  },
+  {
+    "code": "H02K 3/02",
+    "description": "••Arrollamientos caracterizados por el material conductor [2006.01]"
+  },
+  {
+    "code": "H02K 3/04",
+    "description": "••Arrollamientos caracterizados por la configuración, la forma o el tipo de construcción del conductor, p. ej. con conductor en barras [2006.01]"
+  },
+  {
+    "code": "H02K 3/12",
+    "description": "••••dispuestos en ranuras [2006.01]"
+  },
+  {
+    "code": "H02K 3/14",
+    "description": "••••••con conductores transpuestos, p. ej. conductores retorcidos [2006.01]"
+  },
+  {
+    "code": "H02K 3/16",
+    "description": "••••••para propósitos auxiliares p. ej amortiguar o conmutar [2006.01]"
+  },
+  {
+    "code": "H02K 3/18",
+    "description": "••••Arrollamientos para polos salientes [2006.01]"
+  },
+  {
+    "code": "H02K 3/20",
+    "description": "••••••para otros propósitos auxiliares p. ej. amortiguar o conmutar [2006.01]"
+  },
+  {
+    "code": "H02K 3/22",
+    "description": "••••formados de conductores huecos [2006.01]"
+  },
+  {
+    "code": "H02K 3/24",
+    "description": "••••con canales o conductos para un agente de refrigeración entre los conductores [2006.01]"
+  },
+  {
+    "code": "H02K 3/26",
+    "description": "••••constituidos por conductores impresos [2006.01]"
+  },
+  {
+    "code": "H02K 3/28",
+    "description": "••••Esquema de arrollamiento o de conexiones entre arrollamientos (arrollamientos para cambio del número de polos H02K 17/06, H02K 17/14, H02K 19/12, H02K 19/32) [2006.01]"
+  },
+  {
+    "code": "H02K 3/30",
+    "description": "••Arrollamientos caracterizados por el material aislante [2006.01]"
+  },
+  {
+    "code": "H02K 3/32",
+    "description": "••Arrollamientos caracterizados por la configuración, la forma o la realización del aislamiento [2006.01]"
+  },
+  {
+    "code": "H02K 3/34",
+    "description": "••••entre conductores o entre conductores y núcleo, p. ej. aislamiento de ranuras [2006.01]"
+  },
+  {
+    "code": "H02K 3/38",
+    "description": "••••alrededor de cabezas de bobinas, de conexiones equipotenciales, de conexiones a ellos [2006.01]"
+  },
+  {
+    "code": "H02K 3/40",
+    "description": "••••para altas tensiones, p. ej. asegurando una protección contra descargas anticorona [2006.01]"
+  },
+  {
+    "code": "H02K 3/42",
+    "description": "••Medios para evitar o reducir las pérdidas por corrientes de Foucault en las cabezas de bobinas, p. ej. por pantallas [2006.01]"
+  },
+  {
+    "code": "H02K 3/44",
+    "description": "••Protección contra la humedad o agentes químicos; Arrollamientos especialmente adaptados para funcionar en un líquido o un gas [2006.01]"
+  },
+  {
+    "code": "H02K 3/46",
+    "description": "••Fijación de arrollamiento sobre la estructura estatórica o rotórica [2006.01]"
+  },
+  {
+    "code": "H02K 3/47",
+    "description": "••••Arrollamientos con espacio de aire, es decir, arrollamientos que no tienen núcleo de hierro [2006.01]"
+  },
+  {
+    "code": "H02K 3/48",
+    "description": "••••en las ranuras [2006.01]"
+  },
+  {
+    "code": "H02K 3/487",
+    "description": "••••••Dispositivos de cierre de ranura [2006.01]"
+  },
+  {
+    "code": "H02K 3/493",
+    "description": "••••••••magnético [2006.01]"
+  },
+  {
+    "code": "H02K 3/50",
+    "description": "••••Fijación de cabezas de bobinas, de conexiones equipotenciales o conexiones a ellos [2006.01]"
+  },
+  {
+    "code": "H02K 3/51",
+    "description": "••••••adecuada solamente a los rotores [2006.01]"
+  },
+  {
+    "code": "H02K 3/52",
+    "description": "••••Fijación de arrollamientos de polos salientes o de sus conexiones [2006.01]"
+  },
+  {
+    "code": "H02K 5/00",
+    "description": "Carcasas o envolturas; Recintos; Soportes [2006.01]"
+  },
+  {
+    "code": "H02K 5/02",
+    "description": "••Carcasas o recintos caracterizados por el material que los constituye [2006.01]"
+  },
+  {
+    "code": "H02K 5/04",
+    "description": "••Carcasas o recintos caracterizados por su configuración, su forma o su constitución [2006.01]"
+  },
+  {
+    "code": "H02K 5/06",
+    "description": "••••Carcasas de metal fundido [2006.01]"
+  },
+  {
+    "code": "H02K 5/08",
+    "description": "••••Carcasas de material aislante [2006.01]"
+  },
+  {
+    "code": "H02K 5/10",
+    "description": "••••disposiciones para impidir la introducción de cuerpos extraños, p. ej. de agua o dedos [2006.01]"
+  },
+  {
+    "code": "H02K 5/12",
+    "description": "••••especialmente adaptadas para el funcionamiento en un líquido o en gas (en combinación con disposiciones de refrigeración H02K 9/00) [2006.01]"
+  },
+  {
+    "code": "H02K 5/124",
+    "description": "••••••Sellado de los ejes [2006.01]"
+  },
+  {
+    "code": "H02K 5/128",
+    "description": "••••••que utilizan unos manguitos de entrehierro o un disco de película de aire [2006.01]"
+  },
+  {
+    "code": "H02K 5/132",
+    "description": "••••••Motores eléctricos sumergidos (H02K 5/128  tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H02K 5/136",
+    "description": "••••••a prueba de explosiones [2006.01]"
+  },
+  {
+    "code": "H02K 5/14",
+    "description": "••••Medios de soporte o de protección de escobillas o de portaescobillas [2006.01]"
+  },
+  {
+    "code": "H02K 5/15",
+    "description": "••••Montaje de pantallas de cojinetes o de placas terminales [2006.01]"
+  },
+  {
+    "code": "H02K 5/16",
+    "description": "••••Medios de soporte de cojinetes, p. ej. soporte aislantes o medios para ajustar el cojinete en su pantalla (cojinetes magnéticos H02K 7/09) [2006.01]"
+  },
+  {
+    "code": "H02K 5/167",
+    "description": "••••••que utilizan cojinetes de contacto liso o casquillos de cojinete esféricos [2006.01]"
+  },
+  {
+    "code": "H02K 5/173",
+    "description": "••••••que utilizan rodamientos de bolas o rodamientos de rodillos [2006.01]"
+  },
+  {
+    "code": "H02K 5/18",
+    "description": "••••con nervios o aletas para mejorar la transmisión de calor [2006.01]"
+  },
+  {
+    "code": "H02K 5/20",
+    "description": "••••con canales o conductos para la circulación de un agente de refrigeración [2006.01]"
+  },
+  {
+    "code": "H02K 5/22",
+    "description": "••••Partes auxiliares de las carcasas H02K 5/06-H02K 5/20, p. ej. perfilados para formar cajas de conexión o cajas de bornas [2006.01]"
+  },
+  {
+    "code": "H02K 5/24",
+    "description": "••especialmente adaptados para la supresión o reducción de ruidos o vibraciones [2006.01]"
+  },
+  {
+    "code": "H02K 5/26",
+    "description": "••Medios para ajustar la posición de la envoltura en relación al soporte [2006.01]"
+  },
+  {
+    "code": "H02K 7/00",
+    "description": "Dispositivos para manipular energía mecánica estructuralmente asociados con con máquinas dinamo-eléctricas, p. ej. asociación estructural con un motores mecánico de arrastre o máquinas dinamoeléctrica auxiliares [2006.01]"
+  },
+  {
+    "code": "H02K 7/02",
+    "description": "••Masa adicional para incrementar la inercia, p. ej. volante [2006.01]"
+  },
+  {
+    "code": "H02K 7/04",
+    "description": "••Medios de equilibrado [2006.01]"
+  },
+  {
+    "code": "H02K 7/06",
+    "description": "••Medios para transformar un movimiento reciproco en movimiento circular o viceversa [2006.01]"
+  },
+  {
+    "code": "H02K 7/065",
+    "description": "••••Osciladores electromecánicos; Transmisiones magnéticas vibrantes [2006.01]"
+  },
+  {
+    "code": "H02K 7/07",
+    "description": "••••que utilizan trinquetes y rueda dentadas [2006.01]"
+  },
+  {
+    "code": "H02K 7/075",
+    "description": "••••que utilizan manivelas o excéntricas [2006.01]"
+  },
+  {
+    "code": "H02K 7/08",
+    "description": "••Asociación estructural con cojinetes [2006.01]"
+  },
+  {
+    "code": "H02K 7/09",
+    "description": "••••con cojinetes magnéticos [2006.01]"
+  },
+  {
+    "code": "H02K 7/10",
+    "description": "••Asociación estructural con embragues, frenos, engranajes, poleas o aparatos de arranque mecánicos [2006.01]"
+  },
+  {
+    "code": "H02K 7/102",
+    "description": "••••con frenos de fricción [2006.01]"
+  },
+  {
+    "code": "H02K 7/104",
+    "description": "••••con frenos de corrientes de Foucault [2006.01]"
+  },
+  {
+    "code": "H02K 7/106",
+    "description": "••••con frenos dinamoeléctricos [2006.01]"
+  },
+  {
+    "code": "H02K 7/108",
+    "description": "••••con embragues de fricción [2006.01]"
+  },
+  {
+    "code": "H02K 7/11",
+    "description": "••••con embragues dinamoeléctricos [2006.01]"
+  },
+  {
+    "code": "H02K 7/112",
+    "description": "••••embragues de fricción en combinación con frenos [2006.01]"
+  },
+  {
+    "code": "H02K 7/114",
+    "description": "••••con embragues dinamoeléctricos en combinación en combinación con frenos [2006.01]"
+  },
+  {
+    "code": "H02K 7/116",
+    "description": "••••con engranajes [2006.01]"
+  },
+  {
+    "code": "H02K 7/118",
+    "description": "••••dispositivos de arranque [2006.01]"
+  },
+  {
+    "code": "H02K 7/12",
+    "description": "••••con movimiento auxiliar limitado de estatores, rotores o partes centrales, p. ej. rotores que se puede desplazar axialmente para asegurar un embrague o un frenazo [2006.01]"
+  },
+  {
+    "code": "H02K 7/14",
+    "description": "••Asociación constructiva de cargas mecánicas, p. ej. máquina herramienta portátil, ventilador (con ventilación o hélice para la refrigeración de la máquina H02K 9/06) [2006.01]"
+  },
+  {
+    "code": "H02K 7/16",
+    "description": "••••para funcionar a velocidad superior a la crítica de vibración de las partes giratorias [2006.01]"
+  },
+  {
+    "code": "H02K 7/18",
+    "description": "••Asociación estructural de generadores eléctricos con  motores de arrastre, p. ej. turbinas [2006.01]"
+  },
+  {
+    "code": "H02K 7/20",
+    "description": "••Asociación estructural con unas máquinas dinamoeléctrica auxiliar, p. ej.  motores eléctrico de arranque o excitadoras [2006.01]"
+  },
+  {
+    "code": "H02K 9/00",
+    "description": "Disposiciones de refrigeración o de ventilación (canales o conductos en las partes del circuito magnético H02K 1/20, H02K 1/32; canales o conductos en o entre los conductores H02K 3/22, H02K 3/24) [2006.01]"
+  },
+  {
+    "code": "H02K 9/02",
+    "description": "••por el aire del ambiente fluyente a través de la máquina [2006.01]"
+  },
+  {
+    "code": "H02K 9/04",
+    "description": "••••teniendo medios para establecer la circulación de un agente de refrigeración [2006.01]"
+  },
+  {
+    "code": "H02K 9/06",
+    "description": "••••••con ventiladores o dispositivos de arrastre movido por el árbol de la máquina [2006.01]"
+  },
+  {
+    "code": "H02K 9/08",
+    "description": "••por un agente de refrigeración gaseoso, circulando enteramente por el interior de la envoltura de la máquina (H02K 9/10  tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H02K 9/10",
+    "description": "••por un agente de refrigeración gaseoso circulando en circuito cerrado, una parte del cual es externo a la carcasa de la máquina [2006.01]"
+  },
+  {
+    "code": "H02K 9/12",
+    "description": "••••en donde el agente de refrigeración circula libremente en el interior de la carcasa [2006.01]"
+  },
+  {
+    "code": "H02K 9/14",
+    "description": "••en donde el agente de refrigeración gaseoso circula entre la carcasa de la máquina y una camisa exterior [2006.01]"
+  },
+  {
+    "code": "H02K 9/16",
+    "description": "••••en donde el agente de refrigeración circula en el interior de la carcasa a través de tubos o conductos [2006.01]"
+  },
+  {
+    "code": "H02K 9/18",
+    "description": "••••en donde la parte exterior del circuito cerrado comprende un cambiador de calor asociado estructuralmente a la carcasa de la máquina [2006.01]"
+  },
+  {
+    "code": "H02K 9/19",
+    "description": "••para máquinas con carcasa cerrada y circuito cerrado de refrigeración que utilizan un agente de refrigeración líquido, p. ej. aceite [2006.01]"
+  },
+  {
+    "code": "H02K 9/193",
+    "description": "••••con medios para reemplazar el agente de refrigeración; con medios para evitar fugas del agente de refrigeración [2006.01]"
+  },
+  {
+    "code": "H02K 9/197",
+    "description": "••••en donde el espacio del rotor o del estator es estanco al fluido, p. ej. para proveer al rotor y al estator de agentes de refrigeración diferentes [2006.01]"
+  },
+  {
+    "code": "H02K 9/20",
+    "description": "••••en donde el agente de refrigeración se vaporiza dentro de la envoltura de la máquina [2006.01]"
+  },
+  {
+    "code": "H02K 9/22",
+    "description": "••por un material sólido conductor del calor empotrado en o puesta en contacto con el estator o el rotor, p. ej. puentes de calor [2006.01]"
+  },
+  {
+    "code": "H02K 9/24",
+    "description": "••Protección contra los defectos de las disposiciones de refrigeración, p. ej. debido a fugas del agente de refrigeración p ocasionados por interrupción de la circulación del agente de refrigeración [2006.01]"
+  },
+  {
+    "code": "H02K 9/26",
+    "description": "••Asociación estructural con máquinas de dispositivos de limpieza o de secado del agente de refrigeración, p. ej. filtros [2006.01]"
+  },
+  {
+    "code": "H02K 9/28",
+    "description": "••Refrigeración de colectores, anillos colectores o de escobillas, p. ej. por ventilación [2006.01]"
+  },
+  {
+    "code": "H02K 11/00",
+    "description": "Asociación estructural de máquinas dinamoeléctricas con componentes eléctricos o con dispositivos de blindaje, monitarización o protección (carcasas,  envolturas o soportes H02K 5/00) [2016.01]"
+  },
+  {
+    "code": "H02K 11/01",
+    "description": "••para el blindaje de campos electromagnéticos (medios para evitar o reducir las pérdidas por corrientes de Foucault en las cabezas de bobinado mediante pantallas H02K 3/42) [2016.01]"
+  },
+  {
+    "code": "H02K 11/02",
+    "description": "••para la supresión de interferencias electromagnéticas [2016.01]"
+  },
+  {
+    "code": "H02K 11/026",
+    "description": "••••Supresores asociados con escobillas, portaescobillas o sus soportes [2016.01]"
+  },
+  {
+    "code": "H02K 11/028",
+    "description": "••••Supresores asociados con el rotor [2016.01]"
+  },
+  {
+    "code": "H02K 11/04",
+    "description": "••para la rectificación [2016.01]"
+  },
+  {
+    "code": "H02K 11/042",
+    "description": "••••Rectificadores asociados con las piezas giratorias, p. ej. núcleos del rotor o ejes giratorios [2016.01]"
+  },
+  {
+    "code": "H02K 11/049",
+    "description": "••••Rectificadores asociados con partes estacionarias, p. ej. núcleos del estátor [2016.01]"
+  },
+  {
+    "code": "H02K 11/05",
+    "description": "••••••RRectificadores asociados con carcasas, envolturas o sujeciones [2016.01]"
+  },
+  {
+    "code": "H02K 11/20",
+    "description": "••para la medición, la monitorización, el ensayo, la protección o la conmutación (rectificadores H02K 11/04; dispositivos electrónicos de potencia H02K 11/33) [2016.01]"
+  },
+  {
+    "code": "H02K 11/21",
+    "description": "••••Dispositivos para la detección de velocidad o posición, o accionados por los valores de estas variables (especialmente adaptados para máquinas con dispositivos de conmutación no mecánicos H02K 29/06, H02K 29/14) [2016.01]"
+  },
+  {
+    "code": "H02K 11/215",
+    "description": "••••••Dispositivos de efecto magnético, p. ej. de efecto Hall o elementos magneto-resistivos [2016.01]"
+  },
+  {
+    "code": "H02K 11/22",
+    "description": "••••••Dispositivos ópticos [2016.01]"
+  },
+  {
+    "code": "H02K 11/225",
+    "description": "••••••Bobinas de detección [2016.01]"
+  },
+  {
+    "code": "H02K 11/23",
+    "description": "••••••Interruptores centrífugos accionados mecánicamente [2016.01]"
+  },
+  {
+    "code": "H02K 11/24",
+    "description": "••••Dispositivos para la detección de par, o accionados por los valores de esta variable (H02K 11/27 tiene prioridad) [2016.01]"
+  },
+  {
+    "code": "H02K 11/25",
+    "description": "••••Dispositivos para la detección de temperatura, o accionados por los valores de esta variable [2016.01]"
+  },
+  {
+    "code": "H02K 11/26",
+    "description": "••••Dispositivos para la detección de tensión, o accionados por los valores de esta variable, p. ej. dispositivos de protección contra sobretensiones [2016.01]"
+  },
+  {
+    "code": "H02K 11/27",
+    "description": "••••Dispositivos para detectar la corriente, o accionados por los valores de esta variable (protección contra la sobrecorriente sensible a la temperatura de las máquinas o sus partes constitutivas, p. ej. bobinados,  H02K 11/25) [2016.01]"
+  },
+  {
+    "code": "H02K 11/28",
+    "description": "••••Interruptores manuales [2016.01]"
+  },
+  {
+    "code": "H02K 11/30",
+    "description": "••Asociación estructural con los circuitos de control o circuitos de accionamiento [2016.01]"
+  },
+  {
+    "code": "H02K 11/33",
+    "description": "••••Circuitos de accionamiento, p. ej. electrónica de potencia (H02K 11/38 tiene prioridad) [2016.01]"
+  },
+  {
+    "code": "H02K 11/35",
+    "description": "••••Dispositivos para la grabación o la transmisión de parámetros de una máquina, p. ej. chips de memoria o transmisores de radio para el diagnóstico [2016.01]"
+  },
+  {
+    "code": "H02K 11/38",
+    "description": "••••Circuitos de control o circuitos de accionamiento asociados con motores con cambio de velocidad del tipo tornillo sin fin [2016.01]"
+  },
+  {
+    "code": "H02K 11/40",
+    "description": "••Asociación estructural con dispositivos de conexión a tierra [2016.01]"
+  },
+  {
+    "code": "H02K 13/00",
+    "description": "Asociación estructural de colectores de corriente con motores o generadores, p. ej. placas de montaje de escobillas o conexiones con los arrollamientos (soporte o protección de las escobillas o de los portaescobillas en las envolturas o carcasas de motores H02K 5/14); Colocación de los colectores de corriente en los motores o generadores; Disposiciones para mejorar la conmutación [2006.01]"
+  },
+  {
+    "code": "H02K 13/02",
+    "description": "••Conexiones entre anillos colectores y arrollamiento [2006.01]"
+  },
+  {
+    "code": "H02K 13/04",
+    "description": "••entre conexiones de segmentos del colector y arrollamientos [2006.01]"
+  },
+  {
+    "code": "H02K 13/06",
+    "description": "••••Conexiones resistentes, p. ej. por bobinas de interrupción de alta resistencia o por transistores [2006.01]"
+  },
+  {
+    "code": "H02K 13/08",
+    "description": "••••Segmentos constituidos por las prolongaciones del arrollamiento [2006.01]"
+  },
+  {
+    "code": "H02K 13/10",
+    "description": "••Disposiciones de las escobillas o de los colectores especialmente adaptado para mejorar la conmutación [2006.01]"
+  },
+  {
+    "code": "H02K 13/12",
+    "description": "••Disposiciones para la obtención de un movimiento axial de vaivén del rotor y del colector de corriente asociado a él, p. ej. para pulir las superficies del colector [2006.01]"
+  },
+  {
+    "code": "H02K 13/14",
+    "description": "••Circuitos para mejorar la conmutación, p. ej. por el empleo de elementos de conductividad unidireccional [2006.01]"
+  },
+  {
+    "code": "H02K 15/00",
+    "description": "Métodos o aparatos especialmente adaptados para la fabricación, montaje, mantenimiento o reparación de máquinas dinamoeléctricas [2006.01]"
+  },
+  {
+    "code": "H02K 15/02",
+    "description": "••de cuerpos estatóricos o rotóricos [2006.01]"
+  },
+  {
+    "code": "H02K 15/03",
+    "description": "••••que incluyen imanes permanentes [2006.01]"
+  },
+  {
+    "code": "H02K 15/04",
+    "description": "••de arrollamientos, antes de su montaje en las máquinas (aislamiento de arrollamientos H02K 15/10, H02K 15/12) [2006.01]"
+  },
+  {
+    "code": "H02K 15/06",
+    "description": "••Montaje en las máquinas de arrollamientos prefabricados [2006.01]"
+  },
+  {
+    "code": "H02K 15/08",
+    "description": "••Ejecución de arrollamientos por asiento de los conductores en o alrededor de las partes que forman el núcleo [2006.01]"
+  },
+  {
+    "code": "H02K 15/085",
+    "description": "••••por asiento de los conductores en las ranuras estatóricas [2006.01]"
+  },
+  {
+    "code": "H02K 15/09",
+    "description": "••••por asiento de los conductores en las ranuras del rotor [2006.01]"
+  },
+  {
+    "code": "H02K 15/095",
+    "description": "••••por asiento de los conductores alrededor de los polos salientes [2006.01]"
+  },
+  {
+    "code": "H02K 15/10",
+    "description": "••Aplicación de un aislante sólido a los arrollamientos, los estatores o rotores [2006.01]"
+  },
+  {
+    "code": "H02K 15/12",
+    "description": "••Impregnación, calefacción o secado de bobinado del estator, del rotor o de las máquinas [2006.01]"
+  },
+  {
+    "code": "H02K 15/14",
+    "description": "••Carcasas; Recintos; Soportes [2006.01]"
+  },
+  {
+    "code": "H02K 15/16",
+    "description": "••Centrado del rotor en el estator; Equilibrado de los rotores [2006.01]"
+  },
+  {
+    "code": "H02K 16/00",
+    "description": "Máquinas con más de un rotor o de un estator [2006.01]"
+  },
+  {
+    "code": "H02K 16/02",
+    "description": "••Máquinas con un estator y dos rotores [2006.01]"
+  },
+  {
+    "code": "H02K 16/04",
+    "description": "••Máquinas con un rotor y dos estatores [2006.01]"
+  },
+  {
+    "code": "H02K 17/00",
+    "description": "Motores de inducción asíncronos; Generadores de inducción asíncronos [2006.01]"
+  },
+  {
+    "code": "H02K 17/02",
+    "description": "••Motores asíncronos de inducción [2006.01]"
+  },
+  {
+    "code": "H02K 17/04",
+    "description": "••••para corriente monofásica [2006.01]"
+  },
+  {
+    "code": "H02K 17/06",
+    "description": "••••••con arrollamientos que permiten el cambio del número de polos [2006.01]"
+  },
+  {
+    "code": "H02K 17/08",
+    "description": "••••••Motores con fase auxiliar obtenida por un arrollamientos auxiliares alimentado desde el exterior, p. ej. motores de condensador [2006.01]"
+  },
+  {
+    "code": "H02K 17/10",
+    "description": "••••••Motores con fase auxiliar obtenida por medio de polos hendidos llevando unos arrollamientos en cortocircuito [2006.01]"
+  },
+  {
+    "code": "H02K 17/12",
+    "description": "••••para corriente polifásica [2006.01]"
+  },
+  {
+    "code": "H02K 17/14",
+    "description": "••••••con arrollamientos que permiten el cambio del número de polos [2006.01]"
+  },
+  {
+    "code": "H02K 17/16",
+    "description": "••••con rotores de arrollamiento cortocircuitado en el interior de la máquina, p. ej. rotores de jaula de ardilla [2006.01]"
+  },
+  {
+    "code": "H02K 17/18",
+    "description": "••••••con rotor de doble o múltiple jaula de ardilla [2006.01]"
+  },
+  {
+    "code": "H02K 17/20",
+    "description": "••••••con rotores de barras profundas [2006.01]"
+  },
+  {
+    "code": "H02K 17/22",
+    "description": "••••teniendo rotores con arrollamientos conectados a los anillos colectores [2006.01]"
+  },
+  {
+    "code": "H02K 17/24",
+    "description": "••••••en los cuales, estator y rotor, son alimentados con AC [2006.01]"
+  },
+  {
+    "code": "H02K 17/26",
+    "description": "••••con los estatores o rotores previsto de tal forma que permite el funcionamiento síncrono [2006.01]"
+  },
+  {
+    "code": "H02K 17/28",
+    "description": "••••con arrollamiento de compensación para mejorar el ángulo de fase [2006.01]"
+  },
+  {
+    "code": "H02K 17/30",
+    "description": "••••Asociación estructural de motores de inducción asíncronos con dispositivos eléctricos auxiliares que influyen sobre las características del motor o que aseguran su control, p. ej. impedancia, interruptor [2006.01]"
+  },
+  {
+    "code": "H02K 17/32",
+    "description": "••••Asociación estructural de motores de inducción asíncronos con dispositivos mecánicos auxiliares, p. ej. embrague, freno [2006.01]"
+  },
+  {
+    "code": "H02K 17/34",
+    "description": "••••Montaje en cascada de un motor asíncrono con otro motor o convertidor dinamoeléctrico [2006.01]"
+  },
+  {
+    "code": "H02K 17/36",
+    "description": "••••••con otro motor asíncrono de inducción [2006.01]"
+  },
+  {
+    "code": "H02K 17/38",
+    "description": "••••••con una máquina de colector [2006.01]"
+  },
+  {
+    "code": "H02K 17/40",
+    "description": "••••••con un convertidor giratorio de AC/DC [2006.01]"
+  },
+  {
+    "code": "H02K 17/42",
+    "description": "••Generadores asíncronos de inducción (H02K 17/02  tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H02K 17/44",
+    "description": "••••Asociación estructural con máquinas de excitación [2006.01]"
+  },
+  {
+    "code": "H02K 19/00",
+    "description": "Motores o generadores síncronos (teniendo imanes permanentes H02K 21/00) [2006.01]"
+  },
+  {
+    "code": "H02K 19/02",
+    "description": "••Motores síncronos [2006.01]"
+  },
+  {
+    "code": "H02K 19/04",
+    "description": "••••para corriente monofásica [2006.01]"
+  },
+  {
+    "code": "H02K 19/06",
+    "description": "••••••Motores que tienen un estator bobinado y un rotor de hierro dulce de reluctancia variable, sin bobinado, p. ej. motores  de inductor [2006.01]"
+  },
+  {
+    "code": "H02K 19/08",
+    "description": "••••••Motores que tienen un estator bobinado y un rotor liso , sin bobinado, de un material con un gran ciclo de histéresis, p. ej. motor de histéresis [2006.01]"
+  },
+  {
+    "code": "H02K 19/10",
+    "description": "••••para corriente polifásica [2006.01]"
+  },
+  {
+    "code": "H02K 19/12",
+    "description": "••••••caracterizados por la disposición de los arrollamientos de excitación, p. ej. para autoexcitación, para compoundaje o cambio de número de polos [2006.01]"
+  },
+  {
+    "code": "H02K 19/14",
+    "description": "••••con arrollamiento suplementario en cortocircuito para arrancar como motores asíncronos [2006.01]"
+  },
+  {
+    "code": "H02K 19/16",
+    "description": "••Generadores síncronos [2006.01]"
+  },
+  {
+    "code": "H02K 19/18",
+    "description": "••••con bobinados en donde cada espira está influenciada sólo por los polos de una sola polaridad, p. ej. generadores homopolares [2006.01]"
+  },
+  {
+    "code": "H02K 19/20",
+    "description": "••••••con rotores de hierro dulce de reluctancia variable, sin bobinado [2006.01]"
+  },
+  {
+    "code": "H02K 19/22",
+    "description": "••••con bobinados en donde cada espira es influenciada alternativamente por los polos de polaridades opuestas, p. ej. generadores heteropolar [2006.01]"
+  },
+  {
+    "code": "H02K 19/24",
+    "description": "••••••con rotores de hierro dulce de reluctancia variable, sin bobinado [2006.01]"
+  },
+  {
+    "code": "H02K 19/26",
+    "description": "••••caracterizados por la disposición de los bobinados de excitación [2006.01]"
+  },
+  {
+    "code": "H02K 19/28",
+    "description": "••••••para autoexcitación [2006.01]"
+  },
+  {
+    "code": "H02K 19/30",
+    "description": "••••••para compoundaje [2006.01]"
+  },
+  {
+    "code": "H02K 19/32",
+    "description": "••••••para el cambio de número de polos [2006.01]"
+  },
+  {
+    "code": "H02K 19/34",
+    "description": "••••Generadores con dos o más salidas [2006.01]"
+  },
+  {
+    "code": "H02K 19/36",
+    "description": "••••Asociación estructural de los generadores síncronos con los aparatos eléctricos auxiliares para influenciar sobre las características del generador o para asegurar el control, p. ej. con impedancias, con interruptores [2006.01]"
+  },
+  {
+    "code": "H02K 19/38",
+    "description": "••••Asociación estructural de los generadores síncronos con máquinas de excitación [2006.01]"
+  },
+  {
+    "code": "H02K 21/00",
+    "description": "Motores síncronos con imanes permanentes; Generadores síncronos con imanes permanentes [2006.01]"
+  },
+  {
+    "code": "H02K 21/02",
+    "description": "••Detalles [2006.01]"
+  },
+  {
+    "code": "H02K 21/04",
+    "description": "••••Bobinados dispuestos sobre imanes para una excitación adicional [2006.01]"
+  },
+  {
+    "code": "H02K 21/10",
+    "description": "••••Inducidos giratorios [2006.01]"
+  },
+  {
+    "code": "H02K 21/12",
+    "description": "••con inducidos fijos e imanes giratorios [2006.01]"
+  },
+  {
+    "code": "H02K 21/14",
+    "description": "••••Imanes giratorios en el interior del inducido [2006.01]"
+  },
+  {
+    "code": "H02K 21/16",
+    "description": "••••••teniendo núcleos de inducido anular con polos salientes (con funcionamiento homopolar H02K 21/20) [2006.01]"
+  },
+  {
+    "code": "H02K 21/18",
+    "description": "••••••con núcleos de inducido en forma de herradura (con funcionamiento homopolar H02K 21/20) [2006.01]"
+  },
+  {
+    "code": "H02K 21/20",
+    "description": "••••••con bobinado donde cada espira sólo está influenciada por polos de una sola polaridad, p. ej. máquina homopolar [2006.01]"
+  },
+  {
+    "code": "H02K 21/22",
+    "description": "••••con imanes girando alrededor de los inducidos, p. ej. volante magnético [2006.01]"
+  },
+  {
+    "code": "H02K 21/24",
+    "description": "••••con imanes dispuesto axialmente enfrente de los inducidos, p. ej. dinamos de bicicleta del tipo cubo [2006.01]"
+  },
+  {
+    "code": "H02K 21/26",
+    "description": "••con inducidos giratorios e imanes fijos [2006.01]"
+  },
+  {
+    "code": "H02K 21/28",
+    "description": "••••con los inducidos girando en el interior de los imanes [2006.01]"
+  },
+  {
+    "code": "H02K 21/30",
+    "description": "••••••teniendo núcleos de inducido anular con polos salientes (con funcionamiento homopolar H02K 21/36) [2006.01]"
+  },
+  {
+    "code": "H02K 21/32",
+    "description": "••••••teniendo imanes en forma de herradura (con funcionamiento homopolar H02K 21/36) [2006.01]"
+  },
+  {
+    "code": "H02K 21/34",
+    "description": "••••••teniendo imanes en forma de campana o en forma de barra, p. ej. para alumbrado de bicicleta (con funcionamiento homopolar H02K 21/36) [2006.01]"
+  },
+  {
+    "code": "H02K 21/36",
+    "description": "••••••con funcionamiento homopolar [2006.01]"
+  },
+  {
+    "code": "H02K 21/38",
+    "description": "••con distribuidores de flujo giratorio e imanes e inducidos fijos [2006.01]"
+  },
+  {
+    "code": "H02K 21/40",
+    "description": "••••con distribuidores de flujo giratorio alrededor del imán y en el interior de los inducidos [2006.01]"
+  },
+  {
+    "code": "H02K 21/42",
+    "description": "••••con distribuidores de flujo giratorio alrededor de los inducidos y en el interior de los imanes [2006.01]"
+  },
+  {
+    "code": "H02K 21/44",
+    "description": "••••con arrollamientos inducidos bobinados sobre el imán [2006.01]"
+  },
+  {
+    "code": "H02K 21/46",
+    "description": "••Motores con arrollamiento suplementario en cortocircuito para arrancar como motor asíncrono [2006.01]"
+  },
+  {
+    "code": "H02K 21/48",
+    "description": "••Generadores con dos o más salidas [2006.01]"
+  },
+  {
+    "code": "H02K 23/00",
+    "description": "Motores o generadores de DC con colector mecánico; Motores universales de colector para AC/DC [2006.01]"
+  },
+  {
+    "code": "H02K 23/02",
+    "description": "••caracterizados por la disposición de la excitación [2006.01]"
+  },
+  {
+    "code": "H02K 23/04",
+    "description": "••••con excitación por imán permanente [2006.01]"
+  },
+  {
+    "code": "H02K 23/06",
+    "description": "••••con montaje en derivación de los arrollamientos de excitación [2006.01]"
+  },
+  {
+    "code": "H02K 23/08",
+    "description": "••••con montaje en serie de los arrollamientos de excitación [2006.01]"
+  },
+  {
+    "code": "H02K 23/10",
+    "description": "••••con montaje compound de los arrollamientos de excitación [2006.01]"
+  },
+  {
+    "code": "H02K 23/12",
+    "description": "••••con excitación producida por fuentes de corriente independiente del circuito de inducido [2006.01]"
+  },
+  {
+    "code": "H02K 23/14",
+    "description": "••••con gran rapidez de excitación o de desexcitación, p. ej. por neutralización del campo de excitación remanente [2006.01]"
+  },
+  {
+    "code": "H02K 23/16",
+    "description": "••••con un campo de excitación ajustable angularmente, p. ej. por inversión de polos o conmutación de los polos [2006.01]"
+  },
+  {
+    "code": "H02K 23/18",
+    "description": "••••con escobillas principales o auxiliares desplazables [2006.01]"
+  },
+  {
+    "code": "H02K 23/20",
+    "description": "••••con escobillas adicionales dispuestas sobre el colector entre las escobillas principales, p. ej. máquinsa de campo transversal, metadinas, amplidina, otras máquinas excitadas por la reacción de inducido [2006.01]"
+  },
+  {
+    "code": "H02K 23/22",
+    "description": "••••con arrollamientos de compensación o de amortiguamiento [2006.01]"
+  },
+  {
+    "code": "H02K 23/24",
+    "description": "••••con arrollamientos de polos de conmutación [2006.01]"
+  },
+  {
+    "code": "H02K 23/26",
+    "description": "••caracterizados por los arrollamientos del inducido [2006.01]"
+  },
+  {
+    "code": "H02K 23/28",
+    "description": "••••con arrollamientos abierto, es decir, que no se cierra sobre sí mismo en el interior de los inducidos [2006.01]"
+  },
+  {
+    "code": "H02K 23/30",
+    "description": "••••con arrollamientos imbricado [2006.01]"
+  },
+  {
+    "code": "H02K 23/32",
+    "description": "••••con arrollamiento corrugado [2006.01]"
+  },
+  {
+    "code": "H02K 23/34",
+    "description": "••••teniendo arrollamientos mixtos [2006.01]"
+  },
+  {
+    "code": "H02K 23/36",
+    "description": "••••con dos o más estatores; con dos o más conmutares; con dos o más devanados [2006.01]"
+  },
+  {
+    "code": "H02K 23/38",
+    "description": "••••con polos partidos, es decir, con zonas de variación de la reluctancia por medio de entre hierros en los polos o por medio de polos con espacios de entre hierros diferentes [2006.01]"
+  },
+  {
+    "code": "H02K 23/40",
+    "description": "••caracterizado por la disposición de los circuitos del imán [2006.01]"
+  },
+  {
+    "code": "H02K 23/42",
+    "description": "••••que tiene polos divididos, es decir, zonas para variar reluctancia por gaps en los polos o por polos con diferente separación de aire en los gaps [2006.01]"
+  },
+  {
+    "code": "H02K 23/44",
+    "description": "••••tener partes móviles, p. ej. giratorias, partes de hierro [2006.01]"
+  },
+  {
+    "code": "H02K 23/46",
+    "description": "••••Generadores con dos o más salidas [2006.01]"
+  },
+  {
+    "code": "H02K 23/48",
+    "description": "••••con inducidos ajustables [2006.01]"
+  },
+  {
+    "code": "H02K 23/50",
+    "description": "••Generadores con dos o más salidas [2006.01]"
+  },
+  {
+    "code": "H02K 23/52",
+    "description": "••Motores que funcionan también como generadores, p. ej. motores de arranque utilizado como generadores para encendido o alumbrado [2006.01]"
+  },
+  {
+    "code": "H02K 23/54",
+    "description": "••Motores o generadores con inducido en forma de disco [2006.01]"
+  },
+  {
+    "code": "H02K 23/56",
+    "description": "••Motores o generadores que tienen núcleos de hierro separado del arrollamiento inducido [2006.01]"
+  },
+  {
+    "code": "H02K 23/58",
+    "description": "••Motores o generadores sin núcleo de hierro [2006.01]"
+  },
+  {
+    "code": "H02K 23/60",
+    "description": "••Motores o generadores de inducidos giratorios y campo inductor giratorio [2006.01]"
+  },
+  {
+    "code": "H02K 23/62",
+    "description": "••Motores o generadores de inducidos fijo y campo inductor giratorio [2006.01]"
+  },
+  {
+    "code": "H02K 23/64",
+    "description": "••Motores especialmente adaptados para funcionar en DC o en AC a elegir [2006.01]"
+  },
+  {
+    "code": "H02K 23/66",
+    "description": "••Asociación estructural con dispositivos eléctricos auxiliares que ejercen influencia sobre las características o el control de la máquina, p. ej. impedancia, interruptor [2006.01]"
+  },
+  {
+    "code": "H02K 23/68",
+    "description": "••Asociación estructural con dispositivos mecánicos auxiliares, p. ej. en embragues o con frenos [2006.01]"
+  },
+  {
+    "code": "H02K 24/00",
+    "description": "Máquinas adaptadas para la transmisión o recepción instantánea del desplazamiento angular de piezas giratorias, p. ej. sincromáquina, selsyn [2006.01]"
+  },
+  {
+    "code": "H02K 25/00",
+    "description": "Motores o generadores de interruptor de DC [2006.01]"
+  },
+  {
+    "code": "H02K 26/00",
+    "description": "Máquinas adaptadas para funcionar como parmotor, es decir, para ejercer un par motor cuando están paradas [2006.01]"
+  },
+  {
+    "code": "H02K 27/00",
+    "description": "Motores o generadores de corriente alterna con colector mecánico [2006.01]"
+  },
+  {
+    "code": "H02K 27/02",
+    "description": "••caracterizados por el arrollamiento inducido [2006.01]"
+  },
+  {
+    "code": "H02K 27/04",
+    "description": "••funcionando monofásicamente con montaje en serie o en derivación [2006.01]"
+  },
+  {
+    "code": "H02K 27/06",
+    "description": "••••con colector cortocircuitado simple o múltiple, p. ej. motor de repulsión [2006.01]"
+  },
+  {
+    "code": "H02K 27/08",
+    "description": "••••con alimentaciones múltiples del inducido [2006.01]"
+  },
+  {
+    "code": "H02K 27/10",
+    "description": "••••con dispositivos de maniobras para diferentes modos de funcionamiento, p. ej. motor de repulsión-inducción [2006.01]"
+  },
+  {
+    "code": "H02K 27/12",
+    "description": "••funcionando polifásicamente [2006.01]"
+  },
+  {
+    "code": "H02K 27/14",
+    "description": "••••en montaje en serie [2006.01]"
+  },
+  {
+    "code": "H02K 27/16",
+    "description": "••••en montaje en derivación con alimentación por el estator [2006.01]"
+  },
+  {
+    "code": "H02K 27/18",
+    "description": "••••en montaje en derivación con alimentación por el rotor [2006.01]"
+  },
+  {
+    "code": "H02K 27/20",
+    "description": "••Asociación estructural con un dispositivo de regulación de velocidad [2006.01]"
+  },
+  {
+    "code": "H02K 27/22",
+    "description": "••teniendo medios para mejorar la conmutación, p. ej. campos magnéticos auxiliares, arrollamientos dobles, escobillas dobles [2006.01]"
+  },
+  {
+    "code": "H02K 27/24",
+    "description": "••teniendo dos o más colectores [2006.01]"
+  },
+  {
+    "code": "H02K 27/26",
+    "description": "••con inducido en forma de disco [2006.01]"
+  },
+  {
+    "code": "H02K 27/28",
+    "description": "••Asociación estructural con dispositivos eléctricos auxiliares que ejercen influencia sobre las características de la máquina o que aseguran el control de la máquina [2006.01]"
+  },
+  {
+    "code": "H02K 27/30",
+    "description": "••Asociación estructural con dispositivos mecánicos auxiliares, p. ej. embragues o frenos [2006.01]"
+  },
+  {
+    "code": "H02K 29/00",
+    "description": "Motores o generadores con dispositivos de conmutación no mecánicos, p. ej. tubos de descarga o dispositivos semiconductores [2006.01]"
+  },
+  {
+    "code": "H02K 29/03",
+    "description": "••con un circuito magnético especialmente adaptado para evitar ondulaciones del par motor o problemas del encendido automático [2006.01]"
+  },
+  {
+    "code": "H02K 29/06",
+    "description": "••con dispositivos detectores de la posicion (H02K 29/03  tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H02K 29/08",
+    "description": "••••que utilizan dispositivos de efecto magnético, p. ej. dispositivos de efecto Hall o magnetorresistencias (H02K 29/12  tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H02K 29/10",
+    "description": "••••que utilizan medios de efecto luminoso [2006.01]"
+  },
+  {
+    "code": "H02K 29/12",
+    "description": "••••que utilizan bobinas detectoras [2006.01]"
+  },
+  {
+    "code": "H02K 29/14",
+    "description": "••con dispositivos detectores de la velocidad (H02K 29/03  tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H02K 31/00",
+    "description": "Motores o generadores acíclicos, es decir, máquinas de DC con inducidos de disco o tambor, con captación de corriente continua [2006.01]"
+  },
+  {
+    "code": "H02K 31/02",
+    "description": "••con colectores de contacto sólidos [2006.01]"
+  },
+  {
+    "code": "H02K 31/04",
+    "description": "••con al menos un colector de contacto líquido [2006.01]"
+  },
+  {
+    "code": "H02K 33/00",
+    "description": "Motores con imán, inducido o sistema de bobinas de movimiento alternativo, oscilante o vibratorio (dispositivos de manipulación de la energía mecánica estructuralmente asociados a los motores H02K 7/00, p. ej. H02K 7/06) [2006.01]"
+  },
+  {
+    "code": "H02K 33/02",
+    "description": "••con inducidos movido en un sentido por aplicación de energía de un sistema de una sola bobina y restablecido por una fuerza de origen mecánico, p. ej. por resortes [2006.01]"
+  },
+  {
+    "code": "H02K 33/04",
+    "description": "••••en donde la frecuencia de funcionamiento está determinada por la frecuencia de una AC aplicada ininterrumpidamente [2006.01]"
+  },
+  {
+    "code": "H02K 33/06",
+    "description": "••••••con inducidos polarizado [2006.01]"
+  },
+  {
+    "code": "H02K 33/08",
+    "description": "••••••con alimentación de DC superpuesta a una alimentación de AC [2006.01]"
+  },
+  {
+    "code": "H02K 33/10",
+    "description": "••••en donde la excitación o desexcitación alterna del sistema de una sola bobina es efectuada o controlada por el movimiento de los inducidos [2006.01]"
+  },
+  {
+    "code": "H02K 33/12",
+    "description": "••con inducidos desplazándose en direcciones opuestas por excitación alternativa de sistemas de dos bobinas [2006.01]"
+  },
+  {
+    "code": "H02K 33/14",
+    "description": "••••en donde la excitación o desexcitación alterna de sistemas de dos bobinas son efectuadas o controladas por el movimiento de los inducidos [2006.01]"
+  },
+  {
+    "code": "H02K 33/16",
+    "description": "••con inducidos polarizado que se desplaza en direcciones opuestas por inversión de la tensión aplicada al sistema de una sola bobina [2006.01]"
+  },
+  {
+    "code": "H02K 33/18",
+    "description": "••con sistemas de bobinas que se desplazan, bajo excitación intermitente o invertida, por interacción con un sistema de campo magnético fijo, p. ej. imanes permanentes [2006.01]"
+  },
+  {
+    "code": "H02K 35/00",
+    "description": "Generadores con sistemas de bobinas, de imán, de inducido o de otra parte del circuito magnético con movimiento alternativo, oscilante o vibratorio (dispositivos de manipulación de la energía mecánica estructuralmente asociados a los generadores H02K 7/00, p. ej. H02K 7/06) [2006.01]"
+  },
+  {
+    "code": "H02K 35/02",
+    "description": "••con imanes móvil y sistemas de bobinas fijo [2006.01]"
+  },
+  {
+    "code": "H02K 35/04",
+    "description": "••con sistemas de bobinas e imanes fijo [2006.01]"
+  },
+  {
+    "code": "H02K 35/06",
+    "description": "••con distribuidor de flujo móvil y con sistemas de bobinas o imanes ambos fijos [2006.01]"
+  },
+  {
+    "code": "H02K 37/00",
+    "description": "Motores de rotor giratorio paso a paso y sin ruptor o conmutador accionado por el rotor, p. ej. motores paso a paso [2006.01]"
+  },
+  {
+    "code": "H02K 37/02",
+    "description": "••del tipo de reluctancia variable [2006.01]"
+  },
+  {
+    "code": "H02K 37/04",
+    "description": "••••Estando los rotores dispuesto en el interior de los estatores [2006.01]"
+  },
+  {
+    "code": "H02K 37/06",
+    "description": "••••Estando los rotores dispuesto alrededor de los estatores [2006.01]"
+  },
+  {
+    "code": "H02K 37/08",
+    "description": "••••con rotores colocado axialmente frente los estatores [2006.01]"
+  },
+  {
+    "code": "H02K 37/10",
+    "description": "••del tipo de imán permanente (H02K 37/02  tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H02K 37/12",
+    "description": "••••con inducidos fijo e imanes giratorios [2006.01]"
+  },
+  {
+    "code": "H02K 37/14",
+    "description": "••••••Girando los imanes en el interior de los inducidos [2006.01]"
+  },
+  {
+    "code": "H02K 37/16",
+    "description": "••••••••con los núcleo de los inducidos en forma de herradura [2006.01]"
+  },
+  {
+    "code": "H02K 37/18",
+    "description": "••••••••del tipo homopolar [2006.01]"
+  },
+  {
+    "code": "H02K 37/20",
+    "description": "••••con distribuidores de flujo rotatorio, estando los inducidos y los imanes fijos [2006.01]"
+  },
+  {
+    "code": "H02K 37/22",
+    "description": "••Elementos de amortiguamiento [2006.01]"
+  },
+  {
+    "code": "H02K 37/24",
+    "description": "••Asociacion estructural de los dispositivos mecánicos auxiliares [2006.01]"
+  },
+  {
+    "code": "H02K 39/00",
+    "description": "Generadores especialmente adaptados para producir una forma de onda no sinusoidal deseada [2006.01]"
+  },
+  {
+    "code": "H02K 41/00",
+    "description": "Sistemas de propulsión en los cuales un elemento rígido se desplaza a lo largo de un camino bajo los efectos de la acción dinamoeléctrica que se ejercen entre este elemento y un flujo magnético que se propaga a lo largo del camino [2006.01]"
+  },
+  {
+    "code": "H02K 41/02",
+    "description": "••Motores lineales; Motores seccionales [2006.01]"
+  },
+  {
+    "code": "H02K 41/025",
+    "description": "••••Motores asíncronos [2006.01]"
+  },
+  {
+    "code": "H02K 41/03",
+    "description": "••••Motores síncronos; Motores paso a paso; Motores de reluctancia (H02K 41/035  tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H02K 41/035",
+    "description": "••••Motores de DC; Motores unipolares [2006.01]"
+  },
+  {
+    "code": "H02K 41/06",
+    "description": "••Motores rodantes, es decir, teniendo el eje del rotor paralelo al eje del estator y siguiendo un camino circular en tanto el rotor rueda en el interior o en el exterior del estator [2006.01]"
+  },
+  {
+    "code": "H02K 44/00",
+    "description": "Máquinas en las que la interacción dinamo-eléctrica entre un plasma o una corriente de líquido conductor o de partículas conductoras o magnéticas llevadas por un fluido y un sistema de bobinas o un campo magnético, transforma la energía de la masa en movimiento en energía eléctrica o viceversa [2006.01]"
+  },
+  {
+    "code": "H02K 44/02",
+    "description": "••Bombas electrodinámicas [2006.01]"
+  },
+  {
+    "code": "H02K 44/04",
+    "description": "••••Bombas de conducción [2006.01]"
+  },
+  {
+    "code": "H02K 44/06",
+    "description": "••••Bombas de inducción [2006.01]"
+  },
+  {
+    "code": "H02K 44/08",
+    "description": "••Generadores magnetohidrodinámicos (MHD) [2006.01]"
+  },
+  {
+    "code": "H02K 44/10",
+    "description": "••••Detalles de estructura de los electrodos [2006.01]"
+  },
+  {
+    "code": "H02K 44/12",
+    "description": "••••Detalles de estructura de canales de fluidos [2006.01]"
+  },
+  {
+    "code": "H02K 44/14",
+    "description": "••••••Canales de fluidos circulares o en formas de caracol [2006.01]"
+  },
+  {
+    "code": "H02K 44/16",
+    "description": "••••Detalles de estructura del circuitos magneticos [2006.01]"
+  },
+  {
+    "code": "H02K 44/18",
+    "description": "••••para producir una potencia en AC [2006.01]"
+  },
+  {
+    "code": "H02K 44/20",
+    "description": "••••••cambiando la polaridad del campo magnético [2006.01]"
+  },
+  {
+    "code": "H02K 44/22",
+    "description": "••••••cambiando la conductividad del fluido [2006.01]"
+  },
+  {
+    "code": "H02K 44/24",
+    "description": "••••••invirtiendo la dirección del fluido [2006.01]"
+  },
+  {
+    "code": "H02K 44/26",
+    "description": "••••••creando un campo magnético que se propague [2006.01]"
+  },
+  {
+    "code": "H02K 44/28",
+    "description": "••Asociación de generadores MHD con generadores convencionales (conjuntos de producción de energía nuclear con un generador MHD G21D 7/02) [2006.01]"
+  },
+  {
+    "code": "H02K 47/00",
+    "description": "Convertidores dinamoeléctricos [2006.01]"
+  },
+  {
+    "code": "H02K 47/02",
+    "description": "••Convertidores de AC en DC o viceversa [2006.01]"
+  },
+  {
+    "code": "H02K 47/04",
+    "description": "••••Motores-generadores [2006.01]"
+  },
+  {
+    "code": "H02K 47/06",
+    "description": "••••Convertidores en cascada [2006.01]"
+  },
+  {
+    "code": "H02K 47/08",
+    "description": "••••Convertidores de un solo inducido [2006.01]"
+  },
+  {
+    "code": "H02K 47/10",
+    "description": "••••••con máquina elevadora de tensión en el lado de la AC [2006.01]"
+  },
+  {
+    "code": "H02K 47/12",
+    "description": "••Convertidores de DC/DC [2006.01]"
+  },
+  {
+    "code": "H02K 47/14",
+    "description": "••••Motores-generadores [2006.01]"
+  },
+  {
+    "code": "H02K 47/16",
+    "description": "••••Convertidores de un solo inducido, p. ej. metadina [2006.01]"
+  },
+  {
+    "code": "H02K 47/18",
+    "description": "••Convertidores de AC/AC [2006.01]"
+  },
+  {
+    "code": "H02K 47/20",
+    "description": "••••Motores-generadores [2006.01]"
+  },
+  {
+    "code": "H02K 47/22",
+    "description": "••••Convertidores de frecuencia de un solo inducido con o sin transformación del número de fases [2006.01]"
+  },
+  {
+    "code": "H02K 47/24",
+    "description": "••••••teniendo arrollamientos para diferentes números de polos [2006.01]"
+  },
+  {
+    "code": "H02K 47/26",
+    "description": "••••••funcionando como máquina de inducción asíncrona que trabaja por debajo o por encima del sincronismo, p. ej. montaje en cascada de máquinas síncronas y asíncronas [2006.01]"
+  },
+  {
+    "code": "H02K 47/28",
+    "description": "••••••funcionando como máquinas de colector con adición de anillos deslizantes [2006.01]"
+  },
+  {
+    "code": "H02K 47/30",
+    "description": "••••Convertidores de número de fases de un solo inducido sin cambio de frecuencia [2006.01]"
+  },
+  {
+    "code": "H02K 49/00",
+    "description": "Embragues dinamoeléctricos; Frenos dinamoeléctricos [2006.01]"
+  },
+  {
+    "code": "H02K 49/02",
+    "description": "••del tipo de inducción asíncrona [2006.01]"
+  },
+  {
+    "code": "H02K 49/04",
+    "description": "••••del tipo de corriente de Foucault o de histéresis [2006.01]"
+  },
+  {
+    "code": "H02K 49/06",
+    "description": "••del tipo síncrono [2006.01]"
+  },
+  {
+    "code": "H02K 49/08",
+    "description": "••del tipo de inducido de colector [2006.01]"
+  },
+  {
+    "code": "H02K 49/10",
+    "description": "••del tipo de imán permanente [2006.01]"
+  },
+  {
+    "code": "H02K 49/12",
+    "description": "••del tipo acíclico [2006.01]"
+  },
+  {
+    "code": "H02K 51/00",
+    "description": "Transmisiones dinamoeléctricas, es decir, medios dinamoeléctricos para la transmisión de la potencia mecánica desde un árbol conductor a un árbol conducido, y comprendiendo elementos motor y generador interrelacionados estructuralmente [2006.01]"
+  },
+  {
+    "code": "H02K 53/00",
+    "description": "Movimientos pretendidos perpetuos por medios dinamoeléctricos [2006.01]"
+  },
+  {
+    "code": "H02K 55/00",
+    "description": "Máquinas dinamoeléctricas con arrollamientos que funcionan a temperaturas criogénicas [2006.01]"
+  },
+  {
+    "code": "H02K 55/02",
+    "description": "••del tipo síncrono [2006.01]"
+  },
+  {
+    "code": "H02K 55/04",
+    "description": "••••con arrollamientos de campo giratorio [2006.01]"
+  },
+  {
+    "code": "H02K 55/06",
+    "description": "••del tipo homopolar [2006.01]"
+  },
+  {
+    "code": "H02K 99/00",
+    "description": "Materia no prevista en otros grupos de esta subclase [2014.01]"
+  }
+]

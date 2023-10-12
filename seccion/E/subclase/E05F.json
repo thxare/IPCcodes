@@ -1,0 +1,526 @@
+[
+  {
+    "code": "E05F 1/00",
+    "description": "Aparatos de cierre o de apertura para batientes, no previstos en ninguna otra parte de la presente subclase [2006.01]"
+  },
+  {
+    "code": "E05F 1/02",
+    "description": "••accionados por gravedad [2006.01]"
+  },
+  {
+    "code": "E05F 1/04",
+    "description": "••••para batientes que se alzan durante el movimiento [2006.01]"
+  },
+  {
+    "code": "E05F 1/06",
+    "description": "••••••Mecanismos que tienen la forma de bisagras, goznes o pivotes, accionados por el peso del batiente [2006.01]"
+  },
+  {
+    "code": "E05F 1/08",
+    "description": "••accionados por resorte [2006.01]"
+  },
+  {
+    "code": "E05F 1/10",
+    "description": "••••para batientes con movimiento oscilante [2006.01]"
+  },
+  {
+    "code": "E05F 1/12",
+    "description": "••••••Mecanismos que tienen la forma de bisagras, goznes o pivotes accionados por resortes [2006.01]"
+  },
+  {
+    "code": "E05F 1/14",
+    "description": "••••••con resortes con doble acción, p. ej. para cierre y apertura o frenado y cierre [2006.01]"
+  },
+  {
+    "code": "E05F 1/16",
+    "description": "••••para batientes deslizantes [2006.01]"
+  },
+  {
+    "code": "E05F 3/00",
+    "description": "Aparatos de cierre o apertura con dispositivo de frenado, p. ej. frenos; Estructura de los dispositivos de frenado neumático o líquido (estructura de los dispositivos de frenado no neumático o no líquido E05F 5/00; dispositivos mediante fricción de las bisagras E05D 11/08) [2006.01]"
+  },
+  {
+    "code": "E05F 3/02",
+    "description": "••con frenos mediante pistón neumático (tipo rotativo E05F 3/14) [2006.01]"
+  },
+  {
+    "code": "E05F 3/04",
+    "description": "••con frenos mediante pistón con líquido (tipo rotativo E05F 3/14) [2006.01]"
+  },
+  {
+    "code": "E05F 3/06",
+    "description": "••••en los cuales un resorte de torsión hace girar un órgano alrededor de un eje perpendicular al eje del pistón [2006.01]"
+  },
+  {
+    "code": "E05F 3/08",
+    "description": "••••en los cuales un resorte de torsión hace girar un órgano alrededor de eje dispuesto en el sentido del eje del pistón [2006.01]"
+  },
+  {
+    "code": "E05F 3/10",
+    "description": "••••con resorte, diferente de los de torsión y un pistón de forma que los ejes de aquéllos son los mismos o están en la misma dirección [2006.01]"
+  },
+  {
+    "code": "E05F 3/12",
+    "description": "••••Dispositivos especiales que gobiernan la circulación del líquido, p. ej. dispositivo de válvulas (válvulas en sí\n\t\t\t\t\t\t\t\t\t\t\tF16K) [2006.01]"
+  },
+  {
+    "code": "E05F 3/14",
+    "description": "••con frenos de fluido de tipo rotativo [2006.01]"
+  },
+  {
+    "code": "E05F 3/16",
+    "description": "••con frenos de fricción [2006.01]"
+  },
+  {
+    "code": "E05F 3/18",
+    "description": "••con resortes de acción contraria (resortes de doble acción E05F 1/14) [2006.01]"
+  },
+  {
+    "code": "E05F 3/20",
+    "description": "••en las bisagras o goznes [2006.01]"
+  },
+  {
+    "code": "E05F 3/22",
+    "description": "••Dispositivos complementarios para aparatos de cierre, p. ej. para mantener en posición abierta o en cualquier otra posición el batiente [2006.01]"
+  },
+  {
+    "code": "E05F 5/00",
+    "description": "Dispositivos de frenado, p. ej. frenos; Topes de retención; Tacos (estructura de los dispositivos de frenado neumático o líquido E05F 3/00; dispositivos de frenado, tacos o topes de retención en cajones para mesas, armarios o mobiliario similar A47B 88/473; combinados con dispositivos para mantener los batientes en posición de apertura E05C 17/00; dispositivos para limitar la apertura de los batientes, o para mantener los batientes en posición de apertura mediante una pieza móvil dispuesta entre el batiente y el durmiente E05C 17/04) [2017.01]"
+  },
+  {
+    "code": "E05F 5/02",
+    "description": "••particularmente para evitar golpes de los batientes [2006.01]"
+  },
+  {
+    "code": "E05F 5/04",
+    "description": "••••con funcionamiento manual; con funcionamiento mediante movimiento centrífugo [2006.01]"
+  },
+  {
+    "code": "E05F 5/06",
+    "description": "••Tacos (E05F 5/02 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "E05F 5/08",
+    "description": "••••con resortes [2006.01]"
+  },
+  {
+    "code": "E05F 5/10",
+    "description": "••••con frenos de pistón [2006.01]"
+  },
+  {
+    "code": "E05F 5/12",
+    "description": "••particularmente para impedir el cierre de un batiente antes de que el otro batiente no sea cerrado [2006.01]"
+  },
+  {
+    "code": "E05F 7/00",
+    "description": "Accesorios diversos para batientes no previstos en otros grupos de esta subclase (especialmente adaptados para muebles A47B 95/00; eleva puertas B66F, E04F 21/00; botones o empuñaduras E05B) [2006.01]"
+  },
+  {
+    "code": "E05F 7/02",
+    "description": "••para levantar los batientes antes de girarlos [2006.01]"
+  },
+  {
+    "code": "E05F 7/04",
+    "description": "••Dispositivos que proporcionan una protección contra los golpes (con acción de amortiguamiento E05F 5/00) [2006.01]"
+  },
+  {
+    "code": "E05F 7/06",
+    "description": "••Dispositivos para soportar el peso del batiente situados a distancia del eje de las bisagras [2006.01]"
+  },
+  {
+    "code": "E05F 7/08",
+    "description": "••Medios de transmisión de los movimientos entre las barras, varillas o cables deslizando vertical u horizontalmente (medios para transmisión de los movimientos entre las barras, varillas o cables deslizando vertical u horizontalmente para inmovilizar los batientes E05C 9/24) [2006.01]"
+  },
+  {
+    "code": "E05F 9/00",
+    "description": "Medios para la maniobra de los batientes mediante varillas de mando manual no guiadas en o sobre el durmiente comprendiendo aquellos que controlan su inmovilización (pestillos o dispositivos de inmovilización para batientes E05C) [2006.01]"
+  },
+  {
+    "code": "E05F 11/00",
+    "description": "Mecanismos accionados por el hombre para el funcionamiento de los batientes, incluyendo aquellos que gobiernan también su inmovilización (mecanismos de maniobra para varios batientes E05F 17/00) [2006.01]"
+  },
+  {
+    "code": "E05F 11/02",
+    "description": "••para batientes en general, p. ej. postigos (E05F 11/36 tiene prioridad; para ventanas que se bajan verticalmente E05F 11/38; para puertas E05F 11/54) [2006.01]"
+  },
+  {
+    "code": "E05F 11/04",
+    "description": "••••mediante cuerdas, cadenas o cables [2006.01]"
+  },
+  {
+    "code": "E05F 11/06",
+    "description": "••••••en las ranuras guías [2006.01]"
+  },
+  {
+    "code": "E05F 11/08",
+    "description": "••••con barras de desplazamiento longitudinal guiadas mediante órganos intermediarios con pivote, en o sobre el durmiente [2006.01]"
+  },
+  {
+    "code": "E05F 11/10",
+    "description": "••••••Mecanismos mediante los cuales una empuñadura acciona la barra [2006.01]"
+  },
+  {
+    "code": "E05F 11/12",
+    "description": "••••••Mecanismos mediante los cuales la barra desplaza el batiente [2006.01]"
+  },
+  {
+    "code": "E05F 11/14",
+    "description": "••••••••directamente sin intermediario, p. ej. mediante cremallera y engranaje o broche y muesca [2006.01]"
+  },
+  {
+    "code": "E05F 11/16",
+    "description": "••••••••desplazando el batiente por medio de órganos de acoplamiento por pivote, que se desplazan en un plano perpendicular al eje del pivote del batiente [2006.01]"
+  },
+  {
+    "code": "E05F 11/18",
+    "description": "••••••••••consistentes en una palanca únicamente, p. ej. una palanca en ángulo [2006.01]"
+  },
+  {
+    "code": "E05F 11/20",
+    "description": "••••••••••consistentes en una palanca, p. ej. una palanca en ángulo, y un único órgano intermediario suplementario [2006.01]"
+  },
+  {
+    "code": "E05F 11/22",
+    "description": "••••••••••consistentes en una palanca, p. ej. una palanca en ángulo y varios órganos intermediarios suplementarios en serie [2006.01]"
+  },
+  {
+    "code": "E05F 11/24",
+    "description": "••••••••desplazando el batiente por medio de órganos de acoplamiento por pivote que se desplazan en un plano paralelo al eje del pivote del batiente [2006.01]"
+  },
+  {
+    "code": "E05F 11/26",
+    "description": "••••••••••consistentes en una palanca únicamente, p. ej. una palanca en ángulo [2006.01]"
+  },
+  {
+    "code": "E05F 11/28",
+    "description": "••••••••••consistente en una palanca, p. ej. una palanca en ángulo, y uno o varios órganos intermediarios suplementarios [2006.01]"
+  },
+  {
+    "code": "E05F 11/30",
+    "description": "••••••••••consistentes en órganos intermediarios en forma de rombo [2006.01]"
+  },
+  {
+    "code": "E05F 11/32",
+    "description": "••••barras rotativas guiadas en el durmiente (E05F 11/34 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "E05F 11/34",
+    "description": "••••con mecanismos de tornillo [2006.01]"
+  },
+  {
+    "code": "E05F 11/36",
+    "description": "••especialmente proyectados para atravesar el muro [2006.01]"
+  },
+  {
+    "code": "E05F 11/38",
+    "description": "••para ventanas deslizantes, que pueden abrirse o cerrarse por desplazamiento vertical, p. ej. ventanas de vehículos [2006.01]"
+  },
+  {
+    "code": "E05F 11/40",
+    "description": "••••accionados por un mecanismo de tornillo [2006.01]"
+  },
+  {
+    "code": "E05F 11/42",
+    "description": "••••accionados mediante barras con cremallera y ruedas dentadas [2006.01]"
+  },
+  {
+    "code": "E05F 11/44",
+    "description": "••••accionados por uno o varios brazos elevadores [2006.01]"
+  },
+  {
+    "code": "E05F 11/46",
+    "description": "••••accionados por un mecanismo de pantógrafo [2006.01]"
+  },
+  {
+    "code": "E05F 11/48",
+    "description": "••••accionados por cuerdas o cadenas [2006.01]"
+  },
+  {
+    "code": "E05F 11/50",
+    "description": "••••Dispositivos de embrague o frenos de retención para el funcionamiento de los mecanismos de ventanas [2006.01]"
+  },
+  {
+    "code": "E05F 11/52",
+    "description": "••••combinados con medios para la producción de un movimiento adicional, p. ej. un movimiento horizontal o rotativo [2006.01]"
+  },
+  {
+    "code": "E05F 11/53",
+    "description": "••para ventanas deslizantes, que pueden abrirse o cerrarse por desplazamiento horizontal, p. ej. ventanas de vehículos [2006.01]"
+  },
+  {
+    "code": "E05F 11/54",
+    "description": "••para puertas [2006.01]"
+  },
+  {
+    "code": "E05F 13/00",
+    "description": "Mecanismos de maniobra de los batientes accionados mediante el desplazamiento o el peso de personas o vehículos (para mecanismos accionados por fuerza motriz E05F 15/00) [2006.01]"
+  },
+  {
+    "code": "E05F 13/02",
+    "description": "••mediante dispositivos, p. ej. brazo de palanca, sometidos a los movimientos del usuario [2006.01]"
+  },
+  {
+    "code": "E05F 13/04",
+    "description": "••plataformas que descienden bajo el peso del usuario [2006.01]"
+  },
+  {
+    "code": "E05F 15/00",
+    "description": "Mecanismos para batientes movidos por una fuerza motriz (accesorios de cerraduras accionados por una fuerza motriz para completar el cierre o iniciar la apertura de un batiente E05B 17/00) [2015.01]"
+  },
+  {
+    "code": "E05F 15/40",
+    "description": "••Dispositivos de seguridad, p.ej.  detección de obstrucciones o posiciones finales [2015.01]"
+  },
+  {
+    "code": "E05F 15/41",
+    "description": "••••Detección por monitorización de la fuerza o el par transmitido (E05F 15/48 tiene prioridad); Acoplamientos de seguridad con activación dependiente de un par o fuera, p.ej. acoplamientos deslizantes [2015.01]"
+  },
+  {
+    "code": "E05F 15/42",
+    "description": "••••Detección mediante bordes de seguridad [2015.01]"
+  },
+  {
+    "code": "E05F 15/43",
+    "description": "••••••que responden a la disrupción de haces de energía, p.ej. luz o sonido [2015.01]"
+  },
+  {
+    "code": "E05F 15/44",
+    "description": "••••••que responden a cambios en la conductividad eléctrica [2015.01]"
+  },
+  {
+    "code": "E05F 15/46",
+    "description": "••••••que responden a cambios en la capacidad eléctrica [2015.01]"
+  },
+  {
+    "code": "E05F 15/47",
+    "description": "••••••que responden a cambios en la presión de fluido [2015.01]"
+  },
+  {
+    "code": "E05F 15/48",
+    "description": "••••••por transmisión de fuerzas mecánicas, p.ej. por elementos rígidos o móviles [2015.01]"
+  },
+  {
+    "code": "E05F 15/49",
+    "description": "••••especialmente adaptados para mecanismos accionados por presión de fluido, p.ej. detección por monitorización de la presión de fluido transmitida (E05F 15/47 tiene prioridad) [2015.01]"
+  },
+  {
+    "code": "E05F 15/50",
+    "description": "••utilizando actuadores de presión de fluido [2015.01]"
+  },
+  {
+    "code": "E05F 15/51",
+    "description": "••••para batientes plegables [2015.01]"
+  },
+  {
+    "code": "E05F 15/53",
+    "description": "••••para batientes oscilantes [2015.01]"
+  },
+  {
+    "code": "E05F 15/54",
+    "description": "••••••accionados mediante actuadores lineales que actúan sobre un recorrido helicoidal coaxial con el eje de oscilación [2015.01]"
+  },
+  {
+    "code": "E05F 15/56",
+    "description": "••••para batientes con desplazamiento horizontal [2015.01]"
+  },
+  {
+    "code": "E05F 15/57",
+    "description": "••••para batientes con desplazamiento vertical [2015.01]"
+  },
+  {
+    "code": "E05F 15/59",
+    "description": "••••••para batientes elevados [2015.01]"
+  },
+  {
+    "code": "E05F 15/60",
+    "description": "••utilizando actuadores eléctricos [2015.01]"
+  },
+  {
+    "code": "E05F 15/603",
+    "description": "••••utilizando motores eléctricos rotativos [2015.01]"
+  },
+  {
+    "code": "E05F 15/605",
+    "description": "••••••para batientes plegables [2015.01]"
+  },
+  {
+    "code": "E05F 15/608",
+    "description": "••••••para batientes giratorios [2015.01]"
+  },
+  {
+    "code": "E05F 15/611",
+    "description": "••••••para batientes oscilantes [2015.01]"
+  },
+  {
+    "code": "E05F 15/614",
+    "description": "••••••••accionados mediante ruedas dentadas engranadas, una de ellas montada sobre el eje de pivotado del batiente; accionados por un motor que actúa directamente sobre el eje de pivotado del batiente [2015.01]"
+  },
+  {
+    "code": "E05F 15/616",
+    "description": "••••••••accionados mediante mecanismos de vaivén [2015.01]"
+  },
+  {
+    "code": "E05F 15/619",
+    "description": "••••••••••utilizando disposiciones flexibles o rígidas de piñón y cremallera [2015.01]"
+  },
+  {
+    "code": "E05F 15/622",
+    "description": "••••••••••utilizando mecanismos de tornillo y tuerca [2015.01]"
+  },
+  {
+    "code": "E05F 15/624",
+    "description": "••••••••••utilizando ruedas de fricción [2015.01]"
+  },
+  {
+    "code": "E05F 15/627",
+    "description": "••••••••accionados por elementos de tracción alargaddos flexibles, p.ej. correas, acdenas o cables (que utilizan mecanismos de vaivén alargados flexibles E05F 15/619) [2015.01]"
+  },
+  {
+    "code": "E05F 15/63",
+    "description": "••••••••accionados por brazos oscilantes [2015.01]"
+  },
+  {
+    "code": "E05F 15/632",
+    "description": "••••••para batientes con deslizamiento horizontal [2015.01]"
+  },
+  {
+    "code": "E05F 15/635",
+    "description": "••••••••accionados por mecanismos de vaivén, p. ej. desposiciones de pñón y cremallera rígidos o flexibles (E05F 15/652 takes precedence) [2015.01]"
+  },
+  {
+    "code": "E05F 15/638",
+    "description": "••••••••••que permiten o implican un movimiento secundario del batiente, p.ej. rotativo o transversal [2015.01]"
+  },
+  {
+    "code": "E05F 15/641",
+    "description": "••••••••••accionados mediante ruedas de fricción [2015.01]"
+  },
+  {
+    "code": "E05F 15/643",
+    "description": "••••••••accionados por elementos de tracción alargaddos flexibles, p.ej. correas, cadenas o cables (que utilizan mecanismos de vaivén alargados flexibles E05F 15/635) [2015.01]"
+  },
+  {
+    "code": "E05F 15/646",
+    "description": "••••••••••que permiten o implican un movimiento secundario del batiente, p.ej. rotativo o transversal [2015.01]"
+  },
+  {
+    "code": "E05F 15/649",
+    "description": "••••••••accionados por brazos oscilantes [2015.01]"
+  },
+  {
+    "code": "E05F 15/652",
+    "description": "••••••••accionados por mecanismos de tornillo y tuerca [2015.01]"
+  },
+  {
+    "code": "E05F 15/655",
+    "description": "••••••••especialmente adaptados para batientes de vehículos [2015.01]"
+  },
+  {
+    "code": "E05F 15/657",
+    "description": "••••••••••que permiten el accionamiento manual, p. ej. en caso de fallo de alimentación [2015.01]"
+  },
+  {
+    "code": "E05F 15/659",
+    "description": "••••••••••Circuitos de control a tal efecto [2015.01]"
+  },
+  {
+    "code": "E05F 15/662",
+    "description": "••••••••••Unidades motoras a tal efecto, p. ej. motorreductores [2015.01]"
+  },
+  {
+    "code": "E05F 15/665",
+    "description": "••••••para batientes con desplazamiento vertical [2015.01]"
+  },
+  {
+    "code": "E05F 15/668",
+    "description": "••••••••para batientes elevados [2015.01]"
+  },
+  {
+    "code": "E05F 15/67",
+    "description": "••••••••••accionados por disposiciones flexibles o rígidas de piñón y cremallera [2015.01]"
+  },
+  {
+    "code": "E05F 15/673",
+    "description": "••••••••••accionados por mecanismos de tornillo y tuerca [2015.01]"
+  },
+  {
+    "code": "E05F 15/676",
+    "description": "••••••••••accionados mediante ruedas de fricción [2015.01]"
+  },
+  {
+    "code": "E05F 15/678",
+    "description": "••••••••••accionados por brazos de palanca oscilantes [2015.01]"
+  },
+  {
+    "code": "E05F 15/681",
+    "description": "••••••••••accionados por elementos de tracción alargaddos flexibles, p.ej. correas [2015.01]"
+  },
+  {
+    "code": "E05F 15/684",
+    "description": "••••••••••••por cadenas [2015.01]"
+  },
+  {
+    "code": "E05F 15/686",
+    "description": "••••••••••••por cables o cuerdas [2015.01]"
+  },
+  {
+    "code": "E05F 15/689",
+    "description": "••••••••especialmente adaptados para ventanas de vehículos [2015.01]"
+  },
+  {
+    "code": "E05F 15/692",
+    "description": "••••••••••que permiten el accionamiento manual, p. ej. en caso de fallo de alimentación [2015.01]"
+  },
+  {
+    "code": "E05F 15/695",
+    "description": "••••••••••Circuitos de control a tal efecto [2015.01]"
+  },
+  {
+    "code": "E05F 15/697",
+    "description": "••••••••••Unidades motoras a tal efecto, p. ej. motorreductores [2015.01]"
+  },
+  {
+    "code": "E05F 15/70",
+    "description": "••con accionamiento automático [2015.01]"
+  },
+  {
+    "code": "E05F 15/71",
+    "description": "••••que responden a cambios de temperatura, lluvia, viento o ruido [2015.01]"
+  },
+  {
+    "code": "E05F 15/72",
+    "description": "••••que responden a condiciones de emergencia, p. ej. fuego [2015.01]"
+  },
+  {
+    "code": "E05F 15/73",
+    "description": "••••que responden al movimiento o a la presencia de personas u objetos [2015.01]"
+  },
+  {
+    "code": "E05F 15/74",
+    "description": "••••••utilizando células fotoeléctricas [2015.01]"
+  },
+  {
+    "code": "E05F 15/75",
+    "description": "••••••que responden al peso o a otro accionamiento por contacto físico de una persona u objeto [2015.01]"
+  },
+  {
+    "code": "E05F 15/76",
+    "description": "••••••que responden a dispositivos transportados por personas u objetos, p. ej. imanes o reflectores (E05F 15/77 tiene prioridad) [2015.01]"
+  },
+  {
+    "code": "E05F 15/77",
+    "description": "••••utilizando control inalámbrico [2015.01]"
+  },
+  {
+    "code": "E05F 15/78",
+    "description": "••••••utilizando haces de luz [2015.01]"
+  },
+  {
+    "code": "E05F 15/79",
+    "description": "••••utilizando el control del tiempo [2015.01]"
+  },
+  {
+    "code": "E05F 17/00",
+    "description": "Dispositivos especiales para desplazar varios batientes simultáneamente gobernados (para desplazar simultáneamente una serie de laminillas de ventilación relacionadas entre sí E06B 7/086) [2006.01]"
+  }
+]

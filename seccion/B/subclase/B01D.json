@@ -1,0 +1,2266 @@
+[
+  {
+    "code": "B01D 1/00",
+    "description": "Evaporación (secado de materiales sólidos y objetos por evaporación de líquidos retenidos F26B) [2006.01]"
+  },
+  {
+    "code": "B01D 1/02",
+    "description": "••Evaporadores con serpentines calentadores [2006.01]"
+  },
+  {
+    "code": "B01D 1/04",
+    "description": "••Evaporadores de tubos horizontales [2006.01]"
+  },
+  {
+    "code": "B01D 1/06",
+    "description": "••Evaporadores de tubos verticales [2006.01]"
+  },
+  {
+    "code": "B01D 1/08",
+    "description": "••••de tubos cortos (B01D 1/12 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B01D 1/10",
+    "description": "••••de tubos largos, p. ej. evaporadores Kestner (B01D 1/12 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B01D 1/12",
+    "description": "••••y circulación forzada [2006.01]"
+  },
+  {
+    "code": "B01D 1/14",
+    "description": "••con gases o vapores calentados en contacto con el líquido [2006.01]"
+  },
+  {
+    "code": "B01D 1/16",
+    "description": "••por pulverización (B01D 1/22 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B01D 1/18",
+    "description": "••••para obtener sólidos secos (B01D 1/24 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B01D 1/20",
+    "description": "••••Pulverizadores [2006.01]"
+  },
+  {
+    "code": "B01D 1/22",
+    "description": "••por aportación de una película líquida en contacto con una superficie calentada [2006.01]"
+  },
+  {
+    "code": "B01D 1/24",
+    "description": "••••para obtener sólidos secos [2006.01]"
+  },
+  {
+    "code": "B01D 1/26",
+    "description": "••Evaporación con efecto múltiple [2006.01]"
+  },
+  {
+    "code": "B01D 1/28",
+    "description": "••con compresión a vapor [2006.01]"
+  },
+  {
+    "code": "B01D 1/30",
+    "description": "••Accesorios para evaporadores [2006.01]"
+  },
+  {
+    "code": "B01D 3/00",
+    "description": "Destilación o procedimiento de cambio similares en los que los líquidos están en contacto con medios gaseosos, p. ej. extracción [2006.01]"
+  },
+  {
+    "code": "B01D 3/02",
+    "description": "••en retortas o destiladores [2006.01]"
+  },
+  {
+    "code": "B01D 3/04",
+    "description": "••en aparatos de destilación tubulares [2006.01]"
+  },
+  {
+    "code": "B01D 3/06",
+    "description": "••Destilación por evaporación brusca (flash) [2006.01]"
+  },
+  {
+    "code": "B01D 3/08",
+    "description": "••en recipientes en rotación; Atomización sobre discos giratorios (B01D 3/10 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B01D 3/10",
+    "description": "••Destilación en vacío (B01D 3/12 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B01D 3/12",
+    "description": "••Destilación molecular [2006.01]"
+  },
+  {
+    "code": "B01D 3/14",
+    "description": "••Destilación fraccionada [2006.01]"
+  },
+  {
+    "code": "B01D 3/16",
+    "description": "••••Columnas de fraccionamiento en las que el vapor barbota a través del líquido [2006.01]"
+  },
+  {
+    "code": "B01D 3/18",
+    "description": "••••••con bandejas de barbotado horizontales [2006.01]"
+  },
+  {
+    "code": "B01D 3/20",
+    "description": "••••••••Casquetes de barbotado; Columnas elevadoras para el vapor; Tubos de evacuación para el líquido [2006.01]"
+  },
+  {
+    "code": "B01D 3/22",
+    "description": "••••••con parrillas o bandejas perforadas horizontalmente; Construcción de estos elementos [2006.01]"
+  },
+  {
+    "code": "B01D 3/24",
+    "description": "••••••con bandejas inclinadas o con elementos montados en gradas [2006.01]"
+  },
+  {
+    "code": "B01D 3/26",
+    "description": "••••Columnas de fraccionamiento en las que vapor y líquido están en contacto mutuo, o en las cuales el fluido es pulverizado en el vapor, o en las que una mezcla de dos fases es admitida a pasar en un solo sentido [2006.01]"
+  },
+  {
+    "code": "B01D 3/28",
+    "description": "••••••Columnas de fraccionamiento de contacto superficial y guías verticales, p. ej. acción por lamas finas [2006.01]"
+  },
+  {
+    "code": "B01D 3/30",
+    "description": "••••Columnas de fraccionamiento de piezas móviles o en las que se produce un movimiento centrífugo [2006.01]"
+  },
+  {
+    "code": "B01D 3/32",
+    "description": "••••Otras características de las columnas de fraccionamiento [2006.01]"
+  },
+  {
+    "code": "B01D 3/34",
+    "description": "••con una o varias sustancias auxiliares [2006.01]"
+  },
+  {
+    "code": "B01D 3/36",
+    "description": "••••Destilación azeotrópica [2006.01]"
+  },
+  {
+    "code": "B01D 3/38",
+    "description": "••••Destilación al vapor [2006.01]"
+  },
+  {
+    "code": "B01D 3/40",
+    "description": "••••Destilación extractiva [2006.01]"
+  },
+  {
+    "code": "B01D 3/42",
+    "description": "••Regulación; Control [2006.01]"
+  },
+  {
+    "code": "B01D 5/00",
+    "description": "Condensación de vapores; Recuperación de disolventes volátiles por condensación (B01D 8/00 tiene prioridad; condensadores F28B) [2006.01]"
+  },
+  {
+    "code": "B01D 7/00",
+    "description": "Sublimación (B01D 8/00 tiene prioridad; secado implicando la congelación F26) [2006.01]"
+  },
+  {
+    "code": "B01D 7/02",
+    "description": "••Cristalización directamente a partir de la fase de vapor (producción de monocristales C30B 23/00) [2006.01]"
+  },
+  {
+    "code": "B01D 8/00",
+    "description": "Colectores refrigerados; Deflectores refrigerados [2006.01]"
+  },
+  {
+    "code": "B01D 9/00",
+    "description": "Cristalización (directamente a partir de la fase de vapor B01D 7/02; producción de monocristales C30B) [2006.01]"
+  },
+  {
+    "code": "B01D 9/02",
+    "description": "••a partir de soluciones [2006.01]"
+  },
+  {
+    "code": "B01D 9/04",
+    "description": "••••concentrando a las soluciones por extracción del disolvente congelado [2006.01]"
+  },
+  {
+    "code": "B01D 11/00",
+    "description": "Extracción por disolventes [2006.01]"
+  },
+  {
+    "code": "B01D 11/02",
+    "description": "••de sólidos [2006.01]"
+  },
+  {
+    "code": "B01D 11/04",
+    "description": "••de soluciones [2006.01]"
+  },
+  {
+    "code": "B01D 12/00",
+    "description": "Desplazamiento de un líquido por medio de otro líquido, p. ej. retirando el líquido de sólidos húmedos, o de dispersiones de líquidos, o de sólidos que se encuentran en los líquidos [2006.01]"
+  },
+  {
+    "code": "B01D 15/00",
+    "description": "Procedimientos de separación que implican el tratamientos de líquidos con absorbentes sólidos; Aparatos para ello [2006.01]"
+  },
+  {
+    "code": "B01D 15/02",
+    "description": "••por adsorbentes en movimiento [2006.01]"
+  },
+  {
+    "code": "B01D 15/04",
+    "description": "••por sustancias intercambiadoras de iones como adsorbentes (B01D 15/36 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B01D 15/08",
+    "description": "••Adsorción selectiva, p. ej. cromatografía [2006.01]"
+  },
+  {
+    "code": "B01D 15/10",
+    "description": "••••caracterizados por características funcionales o de construcción [2006.01]"
+  },
+  {
+    "code": "B01D 15/12",
+    "description": "••••••relativo a la preparación de la alimentación [2006.01]"
+  },
+  {
+    "code": "B01D 15/14",
+    "description": "••••••relativo a la introducción de la carga en el aparato [2006.01]"
+  },
+  {
+    "code": "B01D 15/16",
+    "description": "••••••relativo al acondicionamiento del soporte fluído [2006.01]"
+  },
+  {
+    "code": "B01D 15/18",
+    "description": "••••••relativo a la configuración de los flujos [2006.01]"
+  },
+  {
+    "code": "B01D 15/20",
+    "description": "••••••relativo al acondicionamiento del material adsorbente [2006.01]"
+  },
+  {
+    "code": "B01D 15/22",
+    "description": "••••••relativo a la estructura de la columna [2006.01]"
+  },
+  {
+    "code": "B01D 15/24",
+    "description": "••••••relativo al tratamiento de las fracciones a repartir [2006.01]"
+  },
+  {
+    "code": "B01D 15/26",
+    "description": "••••caracterizado por el mecanismo de separación [2006.01]"
+  },
+  {
+    "code": "B01D 15/30",
+    "description": "••••••Cromatografía de partición [2006.01]"
+  },
+  {
+    "code": "B01D 15/32",
+    "description": "••••••Cromatografía en fase unida, p.ej. con una fase normal unida, una fase inversa o una interacción hidrófoba [2006.01]"
+  },
+  {
+    "code": "B01D 15/34",
+    "description": "••••••Separación por selección en función del tamaño, p.ej. cromatografía de exclusión de talla; Filtración sobre gel; Permeación [2006.01]"
+  },
+  {
+    "code": "B01D 15/36",
+    "description": "••••••implicando la interacción iónica, p.ej. intercambio de iones, supresión de iones o exclusión de iones [2006.01]"
+  },
+  {
+    "code": "B01D 15/38",
+    "description": "••••••implicando una interacción no cubierta por uno o varios grupos B01D 15/30-B01D 15/36, p.ej. afinidad, intercambio de ligando o cromatografía quiral [2006.01]"
+  },
+  {
+    "code": "B01D 15/40",
+    "description": "••••••utilizando un fluido supercrítico como fase móvil o como eluyente [2006.01]"
+  },
+  {
+    "code": "B01D 15/42",
+    "description": "••••caracterizado por el modo de desarrollo, p.ej. por desplazamiento o por elución [2006.01]"
+  },
+  {
+    "code": "B01D 17/00",
+    "description": "Separación de líquidos, no previsto en otro lugar, p. ej. por difusión térmica [2006.01]"
+  },
+  {
+    "code": "B01D 17/02",
+    "description": "••Separación de líquidos no miscibles [2006.01]"
+  },
+  {
+    "code": "B01D 17/022",
+    "description": "••••por contacto con un sólido preferiblemente humedecible [2006.01]"
+  },
+  {
+    "code": "B01D 17/025",
+    "description": "••••por gravedad, en un depósito de sedimentación [2006.01]"
+  },
+  {
+    "code": "B01D 17/028",
+    "description": "••••••provisto de un grupo de deflectores [2006.01]"
+  },
+  {
+    "code": "B01D 17/032",
+    "description": "••••••provisto de un equipo especial para sacar al menos uno de los líquidos separados [2006.01]"
+  },
+  {
+    "code": "B01D 17/035",
+    "description": "••••por utilización de burbujas de gas o elementos sólidos que se mueven introducidos en la mezcla [2006.01]"
+  },
+  {
+    "code": "B01D 17/038",
+    "description": "••••por fuerza centrífuga (centrífugas B04B; ciclones B04C) [2006.01]"
+  },
+  {
+    "code": "B01D 17/04",
+    "description": "••••Ruptura de emulsiones [2006.01]"
+  },
+  {
+    "code": "B01D 17/05",
+    "description": "••••••por tratamiento químico [2006.01]"
+  },
+  {
+    "code": "B01D 17/06",
+    "description": "••Separación de líquidos unos de otros por electricidad [2006.01]"
+  },
+  {
+    "code": "B01D 17/09",
+    "description": "••por difusión térmica [2006.01]"
+  },
+  {
+    "code": "B01D 17/12",
+    "description": "••Equipo auxiliar adaptado especialmente para utilizarlo con aparatos de separación de líquidos, p. ej. circuitos de control [2006.01]"
+  },
+  {
+    "code": "B01D 19/00",
+    "description": "Desgasificación de líquidos [2006.01]"
+  },
+  {
+    "code": "B01D 19/02",
+    "description": "••Dispersión o prevención de la espuma [2006.01]"
+  },
+  {
+    "code": "B01D 19/04",
+    "description": "••••por adición de sustancias químicas [2006.01]"
+  },
+  {
+    "code": "B01D 21/00",
+    "description": "Separación por sedimentación de partículas sólidas en suspensión en líquidos (sedimentación diferencial B03D 3/00) [2006.01]"
+  },
+  {
+    "code": "B01D 21/01",
+    "description": "••con utilización de agentes de floculación [2006.01]"
+  },
+  {
+    "code": "B01D 21/02",
+    "description": "••Depósitos de decantación [2006.01]"
+  },
+  {
+    "code": "B01D 21/04",
+    "description": "••••con rascadores móviles [2006.01]"
+  },
+  {
+    "code": "B01D 21/06",
+    "description": "••••••con rascadores rotativos [2006.01]"
+  },
+  {
+    "code": "B01D 21/08",
+    "description": "••••con compartimientos de floculación [2006.01]"
+  },
+  {
+    "code": "B01D 21/18",
+    "description": "••Construcción de rascadores y de mecanismos de movimiento para los depósitos de decantación [2006.01]"
+  },
+  {
+    "code": "B01D 21/20",
+    "description": "••••Mecanismos de movimiento [2006.01]"
+  },
+  {
+    "code": "B01D 21/22",
+    "description": "••••Mecanismos de seguridad [2006.01]"
+  },
+  {
+    "code": "B01D 21/24",
+    "description": "••Mecanismos de alimentación o de evacuación para depósitos de decantación [2006.01]"
+  },
+  {
+    "code": "B01D 21/26",
+    "description": "••Separación del sedimento mediante el empleo de la fuerza centrífuga [2006.01]"
+  },
+  {
+    "code": "B01D 21/28",
+    "description": "••Dispositivos auxiliares mecánicos para acelerar la sedimentación, p. ej. por vibradores [2006.01]"
+  },
+  {
+    "code": "B01D 21/30",
+    "description": "••Dispositivos de control [2006.01]"
+  },
+  {
+    "code": "B01D 21/32",
+    "description": "••••Control de la densidad del líquido claro y del sedimento, p. ej. control óptico [2006.01]"
+  },
+  {
+    "code": "B01D 21/34",
+    "description": "••••Control de la distribución de alimentación; Control del nivel de líquido [2006.01]"
+  },
+  {
+    "code": "B01D 24/00",
+    "description": "Filtros con sustancia filtrante no aglomerada, es decir, con sustancia filtrante sin ningún aglutinante entre las partículas o las fibras individuales que la componen (B01D 27/02 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B01D 24/02",
+    "description": "••con el lecho filtrante estacionario durante la filtración [2006.01]"
+  },
+  {
+    "code": "B01D 24/04",
+    "description": "••••estando la sustancia filtrante retenida entre paredes permeables fijas (B01D 24/10, B01D 24/20 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "B01D 24/06",
+    "description": "••••••comprendiendo las paredes permeables una serie de celosías o de rejillas [2006.01]"
+  },
+  {
+    "code": "B01D 24/08",
+    "description": "••••••estando la sustancia filtrante soportada por al menos dos paredes permeables coaxiales [2006.01]"
+  },
+  {
+    "code": "B01D 24/10",
+    "description": "••••estando la sustancia filtrante retenida en un recipiente cerrado [2006.01]"
+  },
+  {
+    "code": "B01D 24/12",
+    "description": "••••••Filtración hacia abajo, estando la superficie filtrante soportada por superficies permeables (B01D 24/18 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B01D 24/14",
+    "description": "••••••Filtración hacia abajo, comportando el recipiente tubos colectores o distribuidores o tubos permeables (B01D 24/18 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B01D 24/16",
+    "description": "••••••Filtración hacia arriba (B01D 24/18 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B01D 24/18",
+    "description": "••••••Filtración combinada hacia arriba y hacia abajo [2006.01]"
+  },
+  {
+    "code": "B01D 24/20",
+    "description": "••••estando la sustancia filtrante situada en un recipiente abierto [2006.01]"
+  },
+  {
+    "code": "B01D 24/22",
+    "description": "••••••Filtración hacia abajo, estando la superficie filtrante soportada por superficies permeables [2006.01]"
+  },
+  {
+    "code": "B01D 24/24",
+    "description": "••••••Filtración hacia abajo, comportando el recipiente tubos colectores o distribuidores o tubos permeables [2006.01]"
+  },
+  {
+    "code": "B01D 24/26",
+    "description": "••••••Filtración hacia arriba [2006.01]"
+  },
+  {
+    "code": "B01D 24/28",
+    "description": "••con el lecho filtrante móvil durante la filtración (con el lecho filtrante fluidificado B01D 24/36) [2006.01]"
+  },
+  {
+    "code": "B01D 24/30",
+    "description": "••••Traslación [2006.01]"
+  },
+  {
+    "code": "B01D 24/32",
+    "description": "••••Rotación [2006.01]"
+  },
+  {
+    "code": "B01D 24/34",
+    "description": "••siendo la sustancia filtrante y su soporte permeable móviles (cubetas basculantes, bandejas o elementos análogos B01D 33/327) [2006.01]"
+  },
+  {
+    "code": "B01D 24/36",
+    "description": "••con el lecho filtrante fluidificado durante la filtración (con el lecho filtrante estacionario B01D 24/02) [2006.01]"
+  },
+  {
+    "code": "B01D 24/38",
+    "description": "••Dispositivos de alimentación o de evacuación [2006.01]"
+  },
+  {
+    "code": "B01D 24/40",
+    "description": "••••de alimentación [2006.01]"
+  },
+  {
+    "code": "B01D 24/42",
+    "description": "••••de evacuación del filtrado [2006.01]"
+  },
+  {
+    "code": "B01D 24/44",
+    "description": "••••de evacuación de la torta de filtración, p. ej. bocas de descarga [2006.01]"
+  },
+  {
+    "code": "B01D 24/46",
+    "description": "••Regeneración de la sustancia filtrante en el filtro (B01D 24/44 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B01D 24/48",
+    "description": "••combinados en una misma estructura con dispositivos de control de la filtración [2006.01]"
+  },
+  {
+    "code": "B01D 25/00",
+    "description": "Filtros formados por la unión de un conjunto de varios elementos filtrantes fijos o partes de tales elementos (discos filtrantes B01D 29/39) [2006.01]"
+  },
+  {
+    "code": "B01D 25/02",
+    "description": "••en los que los elementos están constituidos por unidades filtrantes independientes y prefabricadas, p. ej. sistemas modulares [2006.01]"
+  },
+  {
+    "code": "B01D 25/12",
+    "description": "••Filtros-prensa, es decir, del tipo de placa o del tipo de placa y marco [2006.01]"
+  },
+  {
+    "code": "B01D 25/127",
+    "description": "••••con al menos una banda filtrante móvil dispuesta de modo que esté retenida entre las placas de la prensa o entre una placa y un marco durante la filtración, p. ej. bandas filtrantes sin fin plegadas en zigzag (B01D 25/172, B01D 25/176, B01D 25/19 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "B01D 25/133",
+    "description": "••••••estando la torta de filtración comprimida, p. ej. por membranas inflables [2006.01]"
+  },
+  {
+    "code": "B01D 25/164",
+    "description": "••••Prensas de cámara y placa, es decir, en las cuales los bordes laterales de los elementos filtrantes son retenidos entre dos placas filtrantes sucesivas (B01D 25/127, B01D 25/172, B01D 25/176, B01D 25/19 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "B01D 25/168",
+    "description": "••••••estando la torta de filtración comprimida, p. ej. por membranas inflables [2006.01]"
+  },
+  {
+    "code": "B01D 25/172",
+    "description": "••••Medios de dispersión de placa (retirada de las tortas de filtración B01D 25/32) [2006.01]"
+  },
+  {
+    "code": "B01D 25/176",
+    "description": "••••Fijación del elemento filtrante a las placas del filtro-prensa, p. ej. alrededor del orificio central de alimentación de las placas [2006.01]"
+  },
+  {
+    "code": "B01D 25/19",
+    "description": "••••Medios de fijación para cerrar el filtro-prensa, p. ej. gatos hidráulicos [2006.01]"
+  },
+  {
+    "code": "B01D 25/21",
+    "description": "••••Prensas de placa y marco (B01D 25/172, B01D 25/176, B01D 25/19 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "B01D 25/22",
+    "description": "••Filtros de tipo celular [2006.01]"
+  },
+  {
+    "code": "B01D 25/24",
+    "description": "••••Filtros enrollados tipo celular [2006.01]"
+  },
+  {
+    "code": "B01D 25/26",
+    "description": "••••Filtros sobrepuestos de tipo celular [2006.01]"
+  },
+  {
+    "code": "B01D 25/28",
+    "description": "••Lixiviación o lavado de las tortas de filtración en el filtro [2006.01]"
+  },
+  {
+    "code": "B01D 25/30",
+    "description": "••Dispositivos de alimentación [2006.01]"
+  },
+  {
+    "code": "B01D 25/32",
+    "description": "••Retirada de las tortas de filtración [2006.01]"
+  },
+  {
+    "code": "B01D 25/34",
+    "description": "••••por desplazamiento de los elementos filtrantes [2006.01]"
+  },
+  {
+    "code": "B01D 25/36",
+    "description": "••••••por la fuerza centrífuga [2006.01]"
+  },
+  {
+    "code": "B01D 25/38",
+    "description": "••••por piezas móviles que entran en contacto con elementos filtrantes fijos, p. ej. rascadores [2006.01]"
+  },
+  {
+    "code": "B01D 27/00",
+    "description": "Filtros de cartucho del tipo desechable [2006.01]"
+  },
+  {
+    "code": "B01D 27/02",
+    "description": "••con cartuchos formados a partir de una masa de sustancia no aglomerada [2006.01]"
+  },
+  {
+    "code": "B01D 27/04",
+    "description": "••con cartuchos constituidos de una pieza de un solo material, p. ej. de papel filtro [2006.01]"
+  },
+  {
+    "code": "B01D 27/06",
+    "description": "••••con un material ondulado, enrollado o plegados [2006.01]"
+  },
+  {
+    "code": "B01D 27/07",
+    "description": "••••••con flujo coaxial a través del elemento filtrante [2006.01]"
+  },
+  {
+    "code": "B01D 27/08",
+    "description": "••Construcción del bastidor [2006.01]"
+  },
+  {
+    "code": "B01D 27/10",
+    "description": "••Dispositivos de seguridad, p. ej. derivaciones del tipo \"by-pass\" [2006.01]"
+  },
+  {
+    "code": "B01D 27/14",
+    "description": "••con varios elementos filtrantes [2006.01]"
+  },
+  {
+    "code": "B01D 29/00",
+    "description": "Otros filtros con elementos filtrantes estacionarios durante la filtración, p. ej. filtros de aspiración o de presión, o sus elementos filtrantes B01D 24/00-B01D 27/00; Filtrado de estos elementos [2006.01]"
+  },
+  {
+    "code": "B01D 29/01",
+    "description": "••con elementos filtrantes planos (B01D 29/39 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B01D 29/03",
+    "description": "••••autoportantes [2006.01]"
+  },
+  {
+    "code": "B01D 29/05",
+    "description": "••••con soportes [2006.01]"
+  },
+  {
+    "code": "B01D 29/07",
+    "description": "••••••con hojas filtrantes onduladas, plegadas o enrolladas [2006.01]"
+  },
+  {
+    "code": "B01D 29/075",
+    "description": "••••alojados en una carcasa cerrada y que incluyen rasquetas o agitadores del lado de los elementos filtrantes donde se encuentra la torta, p. ej. filtros del tipo Nutsche o Rosenmond para efectuar operaciones en varias etapas tales como reacciones químicas, filtración y tratamiento de la torta [2006.01]"
+  },
+  {
+    "code": "B01D 29/085",
+    "description": "••Embudos filtrantes; Sus soportes [2006.01]"
+  },
+  {
+    "code": "B01D 29/09",
+    "description": "••con bandas filtrantes, p. ej. desplazables entre las operaciones de filtración [2006.01]"
+  },
+  {
+    "code": "B01D 29/11",
+    "description": "••con elementos filtrantes en forma de bolsa, caja, manguera, tubo, manguito o similar [2006.01]"
+  },
+  {
+    "code": "B01D 29/13",
+    "description": "••••Elementos filtrantes con soportes [2006.01]"
+  },
+  {
+    "code": "B01D 29/15",
+    "description": "••••••dispuestos para una filtración con flujo dirigido hacia el interior [2006.01]"
+  },
+  {
+    "code": "B01D 29/17",
+    "description": "••••••••con extremidades abiertas [2006.01]"
+  },
+  {
+    "code": "B01D 29/19",
+    "description": "••••••••sobre marcos sólidos con superficie acanalada o similar [2006.01]"
+  },
+  {
+    "code": "B01D 29/21",
+    "description": "••••••••con hojas onduladas, plegadas o enrolladas [2006.01]"
+  },
+  {
+    "code": "B01D 29/23",
+    "description": "••••••dispuestos para una filtración con flujo dirigido hacia el exterior [2006.01]"
+  },
+  {
+    "code": "B01D 29/25",
+    "description": "••••••••con extremidades abiertas [2006.01]"
+  },
+  {
+    "code": "B01D 29/27",
+    "description": "••••••••Bolsas filtrantes [2006.01]"
+  },
+  {
+    "code": "B01D 29/31",
+    "description": "••••Elementos filtrantes autoportantes [2006.01]"
+  },
+  {
+    "code": "B01D 29/33",
+    "description": "••••••dispuestos para una filtración con flujo dirigido hacia el interior [2006.01]"
+  },
+  {
+    "code": "B01D 29/35",
+    "description": "••••••dispuestos para una filtración con flujo dirigido hacia el exterior [2006.01]"
+  },
+  {
+    "code": "B01D 29/37",
+    "description": "••••••con extremidades abiertas [2006.01]"
+  },
+  {
+    "code": "B01D 29/39",
+    "description": "••con discos huecos colocados unos junto a otros sobre o alrededor de uno o varios tubos, p. ej. del tipo de panel filtrante [2006.01]"
+  },
+  {
+    "code": "B01D 29/41",
+    "description": "••••montados de forma transversal sobre el tubo [2006.01]"
+  },
+  {
+    "code": "B01D 29/43",
+    "description": "••••montados de otro modo que de forma transversal sobre el tubo [2006.01]"
+  },
+  {
+    "code": "B01D 29/44",
+    "description": "••Elementos filtrantes de aristas, es decir, que utilizan superficies contiguas impermeables [2006.01]"
+  },
+  {
+    "code": "B01D 29/46",
+    "description": "••••de cuerpos planos apilados [2006.01]"
+  },
+  {
+    "code": "B01D 29/48",
+    "description": "••••de cuerpos arrollados en espiral o helicoidalmente [2006.01]"
+  },
+  {
+    "code": "B01D 29/50",
+    "description": "••con varios elementos filtrantes caracterizados por su disposición relativa (B01D 29/39 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B01D 29/52",
+    "description": "••••montados en paralelo [2006.01]"
+  },
+  {
+    "code": "B01D 29/54",
+    "description": "••••••dispuestos concéntrica o coaxialmente [2006.01]"
+  },
+  {
+    "code": "B01D 29/56",
+    "description": "••••montados en serie [2006.01]"
+  },
+  {
+    "code": "B01D 29/58",
+    "description": "••••••dispuestos concéntrica o coaxialmente [2006.01]"
+  },
+  {
+    "code": "B01D 29/60",
+    "description": "••combinados en una misma estructura con dispositivos de control de la filtración [2006.01]"
+  },
+  {
+    "code": "B01D 29/62",
+    "description": "••Regeneración de la sustancia filtrante en el filtro (dispositivos para poner fuera de servicio una o varias unidades en filtros con unidades múltiples, p. ej. para la regeneración, B01D 35/12) [2006.01]"
+  },
+  {
+    "code": "B01D 29/64",
+    "description": "••••mediante rasquetas, cepillos o dispositivos análogos que actúan en la parte del elemento filtrante donde se encuentra la torta [2006.01]"
+  },
+  {
+    "code": "B01D 29/66",
+    "description": "••••Limpieza por descarga de flujo, p. ej. ráfaga ascendente de aire a contracorriente [2006.01]"
+  },
+  {
+    "code": "B01D 29/68",
+    "description": "••••••con brazos, colectores de lavado o boquillas a contracorriente [2006.01]"
+  },
+  {
+    "code": "B01D 29/70",
+    "description": "••••mediante fuerzas generadas por un movimiento del elemento filtrante [2006.01]"
+  },
+  {
+    "code": "B01D 29/72",
+    "description": "••••••implicando vibraciones [2006.01]"
+  },
+  {
+    "code": "B01D 29/74",
+    "description": "••••••implicando una fuerza centrífuga [2006.01]"
+  },
+  {
+    "code": "B01D 29/76",
+    "description": "••Manipulación de la torta de filtración en el filtro con objetivos que no sean la regeneración (B01D 29/94 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B01D 29/78",
+    "description": "••••para el lavado [2006.01]"
+  },
+  {
+    "code": "B01D 29/80",
+    "description": "••••para el secado [2006.01]"
+  },
+  {
+    "code": "B01D 29/82",
+    "description": "••••••por compresión [2006.01]"
+  },
+  {
+    "code": "B01D 29/84",
+    "description": "••••••utilizando gases o calentando [2006.01]"
+  },
+  {
+    "code": "B01D 29/86",
+    "description": "••••para retrasar el depósito de la torta sobre el filtro durante la filtración, p. ej. utilizando agitadores [2006.01]"
+  },
+  {
+    "code": "B01D 29/88",
+    "description": "••que incluyen dispositivos de alimentación o de evacuación [2006.01]"
+  },
+  {
+    "code": "B01D 29/90",
+    "description": "••••de alimentación [2006.01]"
+  },
+  {
+    "code": "B01D 29/92",
+    "description": "••••de evacuación del filtrado [2006.01]"
+  },
+  {
+    "code": "B01D 29/94",
+    "description": "••••de evacuación de la torta de filtración, p. ej. bocas de descarga [2006.01]"
+  },
+  {
+    "code": "B01D 29/96",
+    "description": "••en los cuales los elementos filtrantes son desplazados entre las operaciones de filtración; Disposiciones particulares para quitar o remplazar los elementos filtrantes; Sistemas de transporte para filtros (B01D 29/09, B01D 29/70 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "B01D 33/00",
+    "description": "Filtros con elementos filtrantes móviles durante la filtración (filtros con sustancia filtrante no aglomerada móvil o fluidificada durante la filtración B01D 24/28-B01D 24/36; centrifugadores B04B) [2006.01]"
+  },
+  {
+    "code": "B01D 33/01",
+    "description": "••cuyos elementos filtrantes tienen un movimiento de traslación, p. ej. pistones (B01D 33/04-B01D 33/327 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "B01D 33/03",
+    "description": "••••con elementos filtrantes vibrantes [2006.01]"
+  },
+  {
+    "code": "B01D 33/04",
+    "description": "••con bandas filtrantes o análogos soportados por cilindros impermeables para la filtración [2006.01]"
+  },
+  {
+    "code": "B01D 33/044",
+    "description": "••con bandas filtrantes o análogos soportados por cilindros permeables para la filtración [2006.01]"
+  },
+  {
+    "code": "B01D 33/048",
+    "description": "••••con bandas filtrantes sin fin [2006.01]"
+  },
+  {
+    "code": "B01D 33/052",
+    "description": "••••••combinados con un dispositivo de compresión (B01D 33/64 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B01D 33/056",
+    "description": "••Estructura de las bandas filtrantes o de las correas de soporte, p. ej. dispositivos para centrarlas, montarlas o asegurar su estanqueidad [2006.01]"
+  },
+  {
+    "code": "B01D 33/06",
+    "description": "••con superficies filtrantes rotativas cilíndricas, p. ej. tambores huecos (B01D 33/044 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B01D 33/067",
+    "description": "••••Estructura de los tambores filtrantes, p. ej. disposiciones para el montaje o para la estanqueidad [2006.01]"
+  },
+  {
+    "code": "B01D 33/073",
+    "description": "••••dispuestas para una filtración con flujo dirigido hacia el interior [2006.01]"
+  },
+  {
+    "code": "B01D 33/09",
+    "description": "••••••con células superficiales conectadas de modo independiente a distribuidores de presión [2006.01]"
+  },
+  {
+    "code": "B01D 33/11",
+    "description": "••••dispuestas para una filtración con flujo dirigido hacia el exterior [2006.01]"
+  },
+  {
+    "code": "B01D 33/13",
+    "description": "••••••con células superficiales conectadas de modo independiente a distribuidores de presión [2006.01]"
+  },
+  {
+    "code": "B01D 33/15",
+    "description": "••con superficies filtrantes rotativas planas [2006.01]"
+  },
+  {
+    "code": "B01D 33/17",
+    "description": "••••con mesas de filtración giratorias (mesas divididas en cubetas, en bandejas o en elementos análogos individualmente basculantes B01D 33/327) [2006.01]"
+  },
+  {
+    "code": "B01D 33/19",
+    "description": "••••••estando la superficie de la mesa dividida en sectores o en células que basculan sucesivamente, p. ej. para la evacuación de la torta filtrante [2006.01]"
+  },
+  {
+    "code": "B01D 33/21",
+    "description": "••••con discos filtrantes huecos montados transversalmente sobre un árbol rotativo hueco [2006.01]"
+  },
+  {
+    "code": "B01D 33/23",
+    "description": "••••••Estructura de los discos o de los sectores que las componen [2006.01]"
+  },
+  {
+    "code": "B01D 33/25",
+    "description": "••••con marcos huecos montados axialmente sobre un árbol rotativo hueco [2006.01]"
+  },
+  {
+    "code": "B01D 33/27",
+    "description": "••con superficies filtrantes rotativas ni cilíndricas ni planas, p. ej. superficies helicoidales [2006.01]"
+  },
+  {
+    "code": "B01D 33/29",
+    "description": "••siendo el movimiento de los elementos filtrantes una combinación de movimientos (B01D 33/19 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B01D 33/31",
+    "description": "••••Movimiento planetario [2006.01]"
+  },
+  {
+    "code": "B01D 33/327",
+    "description": "••••Cubetas, bandejas o elementos análogos basculantes [2006.01]"
+  },
+  {
+    "code": "B01D 33/333",
+    "description": "••con elementos filtrantes individuales que se desplazan según un circuito cerrado (cubetas, bandejas o elementos análogos basculantes B01D 33/327) [2006.01]"
+  },
+  {
+    "code": "B01D 33/35",
+    "description": "••con varios elementos filtrantes caracterizados por su disposición relativa (B01D 33/21 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B01D 33/37",
+    "description": "••••montados en paralelo [2006.01]"
+  },
+  {
+    "code": "B01D 33/39",
+    "description": "••••••dispuestos concéntrica o coaxialmente [2006.01]"
+  },
+  {
+    "code": "B01D 33/41",
+    "description": "••••montados en serie [2006.01]"
+  },
+  {
+    "code": "B01D 33/42",
+    "description": "••••••dispuestos concéntrica o coaxialmente [2006.01]"
+  },
+  {
+    "code": "B01D 33/44",
+    "description": "••Regeneración de la sustancia filtrante en el filtro (dispositivos para poner fuera de servicio una o varias unidades en filtros con unidades múltiples, p. ej. para la regeneración, B01D 35/12) [2006.01]"
+  },
+  {
+    "code": "B01D 33/46",
+    "description": "••••mediante rasquetas, cepillos o dispositivos análogos que actúan en la parte del elemento filtrante donde se encuentra la torta [2006.01]"
+  },
+  {
+    "code": "B01D 33/48",
+    "description": "••••Limpieza por descarga de flujo, p. ej. ráfaga ascendente de aire a contracorriente [2006.01]"
+  },
+  {
+    "code": "B01D 33/50",
+    "description": "••••••con brazos, colectores de lavado o boquillas a contracorriente [2006.01]"
+  },
+  {
+    "code": "B01D 33/52",
+    "description": "••••mediante fuerzas generadas por un movimiento del elemento filtrante [2006.01]"
+  },
+  {
+    "code": "B01D 33/54",
+    "description": "••••••implicando vibraciones [2006.01]"
+  },
+  {
+    "code": "B01D 33/56",
+    "description": "••••••implicando una fuerza centrífuga [2006.01]"
+  },
+  {
+    "code": "B01D 33/58",
+    "description": "••Manipulación de la torta de filtración en el filtro con objetivos que no sean la regeneración (B01D 33/76 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B01D 33/60",
+    "description": "••••para el lavado [2006.01]"
+  },
+  {
+    "code": "B01D 33/62",
+    "description": "••••para el secado [2006.01]"
+  },
+  {
+    "code": "B01D 33/64",
+    "description": "••••••por compresión [2006.01]"
+  },
+  {
+    "code": "B01D 33/66",
+    "description": "••••••utilizando gases o calentando [2006.01]"
+  },
+  {
+    "code": "B01D 33/68",
+    "description": "••••para retrasar el depósito de la torta sobre el filtro durante la filtración, p. ej. utilizando agitadores [2006.01]"
+  },
+  {
+    "code": "B01D 33/70",
+    "description": "••que incluyen dispositivos de alimentación o de evacuación (B01D 33/82 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B01D 33/72",
+    "description": "••••de alimentación [2006.01]"
+  },
+  {
+    "code": "B01D 33/74",
+    "description": "••••de evacuación del filtrado [2006.01]"
+  },
+  {
+    "code": "B01D 33/76",
+    "description": "••••de evacuación de la torta de filtración, p. ej. bocas de descarga [2006.01]"
+  },
+  {
+    "code": "B01D 33/80",
+    "description": "••Accesorios [2006.01]"
+  },
+  {
+    "code": "B01D 33/82",
+    "description": "••••Medios de distribución de presión [2006.01]"
+  },
+  {
+    "code": "B01D 35/00",
+    "description": "Elementos filtrantes que poseen características que no están especificamente cubiertas por los grupos B01D 24/00-B01D 33/00, o para aplicaciones no especificamente cubiertas por las clases B01D 24/00-B01D 33/00; Dispositivos auxiliares para la filtración; Estructura de la carcasa del filtro [2006.01]"
+  },
+  {
+    "code": "B01D 35/01",
+    "description": "••Dispositivos para la evacuación de los gases, p. ej. sistemas para purgar el aire [2006.01]"
+  },
+  {
+    "code": "B01D 35/02",
+    "description": "••Filtros adaptados a lugares especiales, p. ej. tuberías, bombas, grifos (B01D 35/05 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B01D 35/027",
+    "description": "••••montados de forma rígida en o sobre recipientes o depósitos (B01D 35/04 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B01D 35/04",
+    "description": "••••Filtros tampones, filtros para válvulas o grifos [2006.01]"
+  },
+  {
+    "code": "B01D 35/05",
+    "description": "••Filtros flotantes [2006.01]"
+  },
+  {
+    "code": "B01D 35/06",
+    "description": "••Filtros que utilizan la electricidad o el magnetismo (ultrafiltración, microfiltración B01D 61/14; electrodiálisis, electroósmosis B01D 61/42; dispositivos dotados de filtros y de separadores magnéticos  B03C 1/30) [2006.01]"
+  },
+  {
+    "code": "B01D 35/10",
+    "description": "••Filtros de escobilla [2006.01]"
+  },
+  {
+    "code": "B01D 35/12",
+    "description": "••Dispositivos para poner fuera de servicio una o varias unidades en filtros con unidades múltiples, p. ej. para la regeneración [2006.01]"
+  },
+  {
+    "code": "B01D 35/14",
+    "description": "••Dispositivos de seguridad especialmente adaptados a la filtración; Dispositivos para señalar el estancamiento (incorporado en un filtro del tipo desechable B01D 27/10) [2006.01]"
+  },
+  {
+    "code": "B01D 35/143",
+    "description": "••••Indicadores del estado del filtro [2006.01]"
+  },
+  {
+    "code": "B01D 35/147",
+    "description": "••••Válvulas de derivación o de seguridad [2006.01]"
+  },
+  {
+    "code": "B01D 35/15",
+    "description": "••••Filtros con funcionamiento bidireccional [2006.01]"
+  },
+  {
+    "code": "B01D 35/153",
+    "description": "••••Válvulas contra fugas o válvulas antirretorno [2006.01]"
+  },
+  {
+    "code": "B01D 35/157",
+    "description": "••••Válvulas de control del caudal; Pasos calibrados o de amortiguamiento [2006.01]"
+  },
+  {
+    "code": "B01D 35/16",
+    "description": "••Dispositivos de limpieza o vaciado [2006.01]"
+  },
+  {
+    "code": "B01D 35/18",
+    "description": "••Calentamiento o enfriamiento de filtros [2006.01]"
+  },
+  {
+    "code": "B01D 35/20",
+    "description": "••Puesta en vibración de los filtros (regeneración de la sustancia filtrante por vibración en filtros con elementos filtrantes estacionarios B01D 29/72; evacuación de la torta de filtración por vibración en filtros con elementos filtrantes móviles B01D 33/54, B01D 33/76) [2006.01]"
+  },
+  {
+    "code": "B01D 35/22",
+    "description": "••Dispositivos que dirigen la mezcla a filtrar sobre filtros de manera que los limpien [2006.01]"
+  },
+  {
+    "code": "B01D 35/24",
+    "description": "••Dispositivos suministradores de una sustancia granular no aglomerada para limpiar los filtros [2006.01]"
+  },
+  {
+    "code": "B01D 35/26",
+    "description": "••Filtros con bombas incorporadas [2006.01]"
+  },
+  {
+    "code": "B01D 35/28",
+    "description": "••Filtros no previstos en otro lugar [2006.01]"
+  },
+  {
+    "code": "B01D 35/30",
+    "description": "••Estructuras de carcasa de filtros [2006.01]"
+  },
+  {
+    "code": "B01D 35/31",
+    "description": "••••provistas de dispositivos para la protección del entorno, p. ej. dispositivos resistentes a la presión [2006.01]"
+  },
+  {
+    "code": "B01D 35/32",
+    "description": "••••••contra las radiaciones [2006.01]"
+  },
+  {
+    "code": "B01D 35/34",
+    "description": "••••estando la parte superior de la carcasa abierta (B01D 35/31 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B01D 36/00",
+    "description": "Circuitos de filtro o combinaciones de filtro con otros dispositivos de separación (dispositivo para la evacuación de los gases, p. ej. sistemas para purgar el aire B01D 35/01; separadores magnéticos o electrostáticos combinados con filtros B03C) [2006.01]"
+  },
+  {
+    "code": "B01D 36/02",
+    "description": "••Combinaciones de filtros de diferentes tipos (B01D 29/50, B01D 33/35 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "B01D 36/04",
+    "description": "••Combinaciones de filtros con depósitos de decantación [2006.01]"
+  },
+  {
+    "code": "B01D 37/00",
+    "description": "Procedimientos de filtración (procedimientos especialmente adaptados para la filtración de gases B01D 46/00) [2006.01]"
+  },
+  {
+    "code": "B01D 37/02",
+    "description": "••Prerrevestimiento de elementos filtrantes o del material; Adición de ayudas para filtrar el líquido a filtrar [2006.01]"
+  },
+  {
+    "code": "B01D 37/03",
+    "description": "••utilizando agentes de floculación [2006.01]"
+  },
+  {
+    "code": "B01D 37/04",
+    "description": "••Control de la filtración [2006.01]"
+  },
+  {
+    "code": "B01D 39/00",
+    "description": "Sustancia filtrante para fluidos líquidos o gaseosos [2006.01]"
+  },
+  {
+    "code": "B01D 39/02",
+    "description": "••Sustancia filtrante no aglomerada, p. ej. fibras [2006.01]"
+  },
+  {
+    "code": "B01D 39/04",
+    "description": "••••Sustancia orgánica, p. ej. celulosa, algodón [2006.01]"
+  },
+  {
+    "code": "B01D 39/06",
+    "description": "••••Sustancia mineral, p. ej. fibras de amianto, perlas o fibras de cristal [2006.01]"
+  },
+  {
+    "code": "B01D 39/08",
+    "description": "••Tejidos filtrantes, es decir, material tejido, tricotado o entrelazado (metálico B01D 39/10) [2006.01]"
+  },
+  {
+    "code": "B01D 39/10",
+    "description": "••Tamices filtrantes esencialmente metálicos [2006.01]"
+  },
+  {
+    "code": "B01D 39/12",
+    "description": "••••Tela metálica; de hilos metálicos tricotados; de metal expandido [2006.01]"
+  },
+  {
+    "code": "B01D 39/14",
+    "description": "••Otras sustancias filtrantes autoportantes [2006.01]"
+  },
+  {
+    "code": "B01D 39/16",
+    "description": "••••de sustancia orgánica, p. ej. fibras sintéticas [2006.01]"
+  },
+  {
+    "code": "B01D 39/18",
+    "description": "••••••cuando la sustancia es la celulosa o sus derivados [2006.01]"
+  },
+  {
+    "code": "B01D 39/20",
+    "description": "••••de sustancia mineral, p. ej. papel de amianto, sustancia filtrante metálica hecha de hilos metálicos no tejidos [2006.01]"
+  },
+  {
+    "code": "B01D 41/00",
+    "description": "Regeneración, en el exterior del filtro, de la sustancia filtrante o de los elementos filtrantes utilizados en la filtración de fluidos líquidos o gaseosos [2006.01]"
+  },
+  {
+    "code": "B01D 41/02",
+    "description": "••de una sustancia filtrante no aglomerada [2006.01]"
+  },
+  {
+    "code": "B01D 41/04",
+    "description": "••de una sustancia filtrante rígida que no necesite soporte auxiliar [2006.01]"
+  },
+  {
+    "code": "B01D 45/00",
+    "description": "Separación de partículas dispersas en gases o en vapores por gravedad, inercia o fuerza centrífuga [2006.01]"
+  },
+  {
+    "code": "B01D 45/02",
+    "description": "••por gravedad [2006.01]"
+  },
+  {
+    "code": "B01D 45/04",
+    "description": "••por inercia (B01D 45/12 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B01D 45/06",
+    "description": "••••por inversión del sentido de la corriente [2006.01]"
+  },
+  {
+    "code": "B01D 45/08",
+    "description": "••••por proyección contra los diafragmas separadores [2006.01]"
+  },
+  {
+    "code": "B01D 45/10",
+    "description": "••••••que están humedecidos [2006.01]"
+  },
+  {
+    "code": "B01D 45/12",
+    "description": "••utilizando la fuerza centrífuga (centrifugadores B04B; ciclones B04C) [2006.01]"
+  },
+  {
+    "code": "B01D 45/14",
+    "description": "••••producida por palas, discos, tambores o cepillos rotativos [2006.01]"
+  },
+  {
+    "code": "B01D 45/16",
+    "description": "••••producida por el movimiento helicoidal de la corriente gaseosa [2006.01]"
+  },
+  {
+    "code": "B01D 45/18",
+    "description": "••Dispositivos de limpieza [2006.01]"
+  },
+  {
+    "code": "B01D 46/00",
+    "description": "Filtros o procesos de filtración especialmente modificados para separar las partículas dispersas de los gases o vapores (elementos filtrantes B01D 24/00-B01D 35/00; material filtrante B01D 39/00; su regeneración fuera de los filtros B01D 41/00) [2022.01]"
+  },
+  {
+    "code": "B01D 46/02",
+    "description": "••Separadores de partículas dotados de filtros huecos hechos de un material flexible, p. ej. aparatos de precipitación de polvos [2006.01]"
+  },
+  {
+    "code": "B01D 46/04",
+    "description": "••••Filtros depuradores [2006.01]"
+  },
+  {
+    "code": "B01D 46/06",
+    "description": "••••dotados de medios para mantener planas las superficies activas [2006.01]"
+  },
+  {
+    "code": "B01D 46/08",
+    "description": "••••••cuyas superficies activas tienen forma de estrella [2006.01]"
+  },
+  {
+    "code": "B01D 46/10",
+    "description": "••Separadores de partículas, p. ej. precipitadores de polvo, que utilizan placas, hojas o almohadillas filtrantes con superficies planas [2006.01]"
+  },
+  {
+    "code": "B01D 46/12",
+    "description": "••••en múltiples disposiciones [2022.01]"
+  },
+  {
+    "code": "B01D 46/121",
+    "description": "••••••Disposiciones de tipo V [2022.01]"
+  },
+  {
+    "code": "B01D 46/14",
+    "description": "••••dispuestos en estrella [2006.01]"
+  },
+  {
+    "code": "B01D 46/16",
+    "description": "••••dispuestos sobre transportadores no filtrantes [2006.01]"
+  },
+  {
+    "code": "B01D 46/18",
+    "description": "••Separadores de partículas que utilizan correas filtrantes, p. ej. aparatos para la precipitación de polvos [2006.01]"
+  },
+  {
+    "code": "B01D 46/20",
+    "description": "••••en los que las correas están asociadas a tambores [2006.01]"
+  },
+  {
+    "code": "B01D 46/22",
+    "description": "••••en los que las correas se desplazan durante el curso de la filtración [2006.01]"
+  },
+  {
+    "code": "B01D 46/24",
+    "description": "••Separadores de partículas utilizando cuerpos filtrantes huecos y rígidos, p. ej. aparatos para la precipitación de polvos [2006.01]"
+  },
+  {
+    "code": "B01D 46/26",
+    "description": "••••rotativos [2006.01]"
+  },
+  {
+    "code": "B01D 46/28",
+    "description": "••Separadores de partículas que utilizan cepillos filtrantes, p. ej. aparatos para la precipitación de polvos [2006.01]"
+  },
+  {
+    "code": "B01D 46/30",
+    "description": "••Separadores de partículas que utilizan una sustancia no aglomerada, p. ej. aparatos para la precipitación de polvos [2006.01]"
+  },
+  {
+    "code": "B01D 46/32",
+    "description": "••••en los que la sustancia filtrante es móvil durante la filtración [2006.01]"
+  },
+  {
+    "code": "B01D 46/34",
+    "description": "••••••de forma horizontal, p. ej. utilizando planos inclinados [2006.01]"
+  },
+  {
+    "code": "B01D 46/36",
+    "description": "••••••en forma de una capa sustancialmente horizontal, p. ej. sobre mesas o tambores giratorios, o sobre bandas transportadoras [2006.01]"
+  },
+  {
+    "code": "B01D 46/38",
+    "description": "••••••en forma de un lecho fluidificado [2006.01]"
+  },
+  {
+    "code": "B01D 46/40",
+    "description": "••Separadores de partículas que utilizan filtros de aristas, es decir, dotados de superficies impermeables adyacentes, p. ej. aparatos para la precipitación de polvos [2006.01]"
+  },
+  {
+    "code": "B01D 46/42",
+    "description": "••Equipo auxiliar y su utilización [2006.01]"
+  },
+  {
+    "code": "B01D 46/44",
+    "description": "••••Control de la filtración [2006.01]"
+  },
+  {
+    "code": "B01D 46/46",
+    "description": "••••••de manera automática [2006.01]"
+  },
+  {
+    "code": "B01D 46/48",
+    "description": "••••Desempolvado por procedimientos que no incluyan filtros depuradores [2006.01]"
+  },
+  {
+    "code": "B01D 46/50",
+    "description": "••••Medios de descarga del potencial electrostático [2006.01]"
+  },
+  {
+    "code": "B01D 46/52",
+    "description": "••Separadores de partículas que utilizan filtros dotados de un material plegado, p. ej. aparatos de precipitación de polvos [2006.01]"
+  },
+  {
+    "code": "B01D 46/54",
+    "description": "••Separadores de partículas que utilizan hojas o diafragmas filtrantes con estructura ultrafina, p. ej. aparatos de precipitación de polvos [2006.01]"
+  },
+  {
+    "code": "B01D 46/56",
+    "description": "••con múltiples elementos filtrantes, caracterizados por su disposición mutua (B01D 46/12 tiene prioridad) [2022.01]"
+  },
+  {
+    "code": "B01D 46/58",
+    "description": "••••conectados en paralelo [2022.01]"
+  },
+  {
+    "code": "B01D 46/60",
+    "description": "••••••dispuestos de forma concéntrica o coaxial [2022.01]"
+  },
+  {
+    "code": "B01D 46/62",
+    "description": "••••conectados en serie [2022.01]"
+  },
+  {
+    "code": "B01D 46/64",
+    "description": "••••••dispuestos de forma concéntrica o coaxial [2022.01]"
+  },
+  {
+    "code": "B01D 46/66",
+    "description": "••Regeneración del material filtrante o de los elementos filtrantes en el interior del filtro (B01D 46/04, B01D 46/48 tienen prioridad) [2022.01]"
+  },
+  {
+    "code": "B01D 46/68",
+    "description": "••••por medios que actúan sobre el lado de la torta y que implican un movimiento con respecto a los elementos filtrantes [2022.01]"
+  },
+  {
+    "code": "B01D 46/681",
+    "description": "••••••por medio de raspadores, cepillos o similares [2022.01]"
+  },
+  {
+    "code": "B01D 46/682",
+    "description": "••••••por boquillas [2022.01]"
+  },
+  {
+    "code": "B01D 46/69",
+    "description": "••••por medios que actúan en el lado de la torta sin movimiento con respecto a los elementos filtrantes, p. ej. boquillas fijas [2022.01]"
+  },
+  {
+    "code": "B01D 46/70",
+    "description": "••••por medios que actúen a contracorriente sobre la superficie filtrante, p. ej. mediante el lavado en el lado del filtro contrario al de la torta [2022.01]"
+  },
+  {
+    "code": "B01D 46/71",
+    "description": "••••••con gas a presión, p. ej. aire pulsado [2022.01]"
+  },
+  {
+    "code": "B01D 46/72",
+    "description": "••••••con brazos, zapatas o boquillas de retrolavado [2022.01]"
+  },
+  {
+    "code": "B01D 46/74",
+    "description": "••••por fuerzas creadas por el movimiento del elemento filtrante [2022.01]"
+  },
+  {
+    "code": "B01D 46/76",
+    "description": "••••••que implican vibraciones [2022.01]"
+  },
+  {
+    "code": "B01D 46/762",
+    "description": "••••••••que implican  ondas sónicas o ultrasónicas [2022.01]"
+  },
+  {
+    "code": "B01D 46/78",
+    "description": "••••••que implican fuerzas centrífugas [2022.01]"
+  },
+  {
+    "code": "B01D 46/79",
+    "description": "••••por proceso líquido [2022.01]"
+  },
+  {
+    "code": "B01D 46/80",
+    "description": "••••Procesos químicos para la eliminación de partículas retenidas, p. ej. mediante combustión [2022.01]"
+  },
+  {
+    "code": "B01D 46/82",
+    "description": "••••••con catalizadores [2022.01]"
+  },
+  {
+    "code": "B01D 46/84",
+    "description": "••••••por calentamiento solamente [2022.01]"
+  },
+  {
+    "code": "B01D 46/86",
+    "description": "••••Limpieza de la superficie del filtro mediante la interrupción de la succión para que la torta de filtración caiga por gravedad [2022.01]"
+  },
+  {
+    "code": "B01D 46/88",
+    "description": "••Sustitución de los elementos filtrantes [2022.01]"
+  },
+  {
+    "code": "B01D 46/90",
+    "description": "••Dispositivos para poner fuera de servicio una o varias unidades de los filtros múltiples, p. ej. para su regeneración o mantenimiento [2022.01]"
+  },
+  {
+    "code": "B01D 47/00",
+    "description": "Separación de partículas dispersas en el aire, gases o vapores utilizando un líquido como agente de separación (B01D 45/10 tiene prioridad; columnas de fraccionamiento o sus elementos B01D 3/16) [2006.01]"
+  },
+  {
+    "code": "B01D 47/02",
+    "description": "••por paso del aire, del gas o del vapor sobre o a través de un baño líquido [2006.01]"
+  },
+  {
+    "code": "B01D 47/04",
+    "description": "••por paso del aire, del gas o del vapor a través de una espumación [2006.01]"
+  },
+  {
+    "code": "B01D 47/05",
+    "description": "••por condensación del agente de separación [2006.01]"
+  },
+  {
+    "code": "B01D 47/06",
+    "description": "••Limpieza por pulverización [2006.01]"
+  },
+  {
+    "code": "B01D 47/08",
+    "description": "••••con boquillas de salida giratorias [2006.01]"
+  },
+  {
+    "code": "B01D 47/10",
+    "description": "••Depuradores Venturi [2006.01]"
+  },
+  {
+    "code": "B01D 47/12",
+    "description": "••Lavadores con diferentes secciones de lavado (B01D 47/14 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B01D 47/14",
+    "description": "••Absorbedores de relleno [2006.01]"
+  },
+  {
+    "code": "B01D 47/16",
+    "description": "••Dispositivos dotados de medios rotatorios, que no sean boquillas de salida rotativas, para atomizar el líquido depurador [2006.01]"
+  },
+  {
+    "code": "B01D 47/18",
+    "description": "••••con árboles dispuestos horizontalmente [2006.01]"
+  },
+  {
+    "code": "B01D 49/00",
+    "description": "Separación de partículas dispersas en el aire, gases o vapores por otros métodos [2006.01]"
+  },
+  {
+    "code": "B01D 49/02",
+    "description": "••por repulsión térmica [2006.01]"
+  },
+  {
+    "code": "B01D 50/00",
+    "description": "Combinaciones de métodos o dispositivos para la separación de partículas de gases o vapores [2022.01]"
+  },
+  {
+    "code": "B01D 50/10",
+    "description": "••Combinaciones de dispositivos cubiertos por los grupos B01D 45/00, B01D 46/00 y B01D 47/00 [2022.01]"
+  },
+  {
+    "code": "B01D 50/20",
+    "description": "••Combinaciones de dispositivos cubiertos por los grupos B01D 45/00 y B01D 46/00 [2022.01]"
+  },
+  {
+    "code": "B01D 50/40",
+    "description": "••Combinaciones de dispositivos cubiertos por los grupos B01D 45/00 y B01D 47/00 [2022.01]"
+  },
+  {
+    "code": "B01D 50/60",
+    "description": "••Combinaciones de dispositivos cubiertos por los grupos B01D 46/00 y B01D 47/00 [2022.01]"
+  },
+  {
+    "code": "B01D 51/00",
+    "description": "Pretratamiento auxiliar de gases o de vapores a depurar de particulas dispersas [2006.01]"
+  },
+  {
+    "code": "B01D 51/02",
+    "description": "••Aglomeración de partículas, p. ej. por floculación [2006.01]"
+  },
+  {
+    "code": "B01D 51/04",
+    "description": "••••por siembra, p. ej. por adición de partículas [2006.01]"
+  },
+  {
+    "code": "B01D 51/06",
+    "description": "••••haciendo variar la presión del gas o del vapor [2006.01]"
+  },
+  {
+    "code": "B01D 51/08",
+    "description": "••••••por medio de sonidos o ultrasonidos [2006.01]"
+  },
+  {
+    "code": "B01D 51/10",
+    "description": "••Acondicionamiento del gas a depurar [2006.01]"
+  },
+  {
+    "code": "B01D 53/02",
+    "description": "••por adsorción, p.ej. cromatografía preparatoria en fase gaseosa [2006.01]"
+  },
+  {
+    "code": "B01D 53/04",
+    "description": "••••con adsorbentes fijos [2006.01]"
+  },
+  {
+    "code": "B01D 53/047",
+    "description": "••••••Adsorción con presión oscilante [2006.01]"
+  },
+  {
+    "code": "B01D 53/053",
+    "description": "••••••••con un recipiente tampón o de almacenamiento [2006.01]"
+  },
+  {
+    "code": "B01D 53/06",
+    "description": "••••con adsorbentes móviles [2006.01]"
+  },
+  {
+    "code": "B01D 53/08",
+    "description": "••••••según la técnica del \"lecho móvil\" [2006.01]"
+  },
+  {
+    "code": "B01D 53/10",
+    "description": "••••••con adsorbentes dispersados [2006.01]"
+  },
+  {
+    "code": "B01D 53/12",
+    "description": "••••••••según la técnica de la fluidización [2006.01]"
+  },
+  {
+    "code": "B01D 53/14",
+    "description": "••por absorción [2006.01]"
+  },
+  {
+    "code": "B01D 53/18",
+    "description": "••••Unidades de absorción; Distribuidores de líquidos (B01D 3/16, B01D 3/26, B01D 3/30 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "B01D 53/22",
+    "description": "••por difusión [2006.01]"
+  },
+  {
+    "code": "B01D 53/24",
+    "description": "••por fuerza centrífuga (centrifugadores B04B; ciclones B04C) [2006.01]"
+  },
+  {
+    "code": "B01D 53/26",
+    "description": "••Secado de gases o vapores [2006.01]"
+  },
+  {
+    "code": "B01D 53/28",
+    "description": "••••Empleo de sustancias específicas como agentes de secado [2006.01]"
+  },
+  {
+    "code": "B01D 53/30",
+    "description": "••Control por medio de aparatos de análisis de gases [2006.01]"
+  },
+  {
+    "code": "B01D 53/32",
+    "description": "••por efectos eléctricos que no sean los previstos en el grupo B01D 61/00 [2006.01]"
+  },
+  {
+    "code": "B01D 53/34",
+    "description": "••Depuración química o biológica de gases residuales [2006.01]"
+  },
+  {
+    "code": "B01D 53/38",
+    "description": "••••Eliminación de componentes de estructura indefinida [2006.01]"
+  },
+  {
+    "code": "B01D 53/40",
+    "description": "••••••Componentes ácidos (B01D 53/44 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B01D 53/42",
+    "description": "••••••Componentes básicos (B01D 53/44 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B01D 53/44",
+    "description": "••••••Componentes orgánicos [2006.01]"
+  },
+  {
+    "code": "B01D 53/46",
+    "description": "••••Eliminación de componentes de estructura definida [2006.01]"
+  },
+  {
+    "code": "B01D 53/48",
+    "description": "••••••Compuestos de azufre [2006.01]"
+  },
+  {
+    "code": "B01D 53/50",
+    "description": "••••••••Oxidos de azufre (B01D 53/60 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B01D 53/52",
+    "description": "••••••••Sulfuro de hidrógeno [2006.01]"
+  },
+  {
+    "code": "B01D 53/54",
+    "description": "••••••Compuestos de nitrógeno [2006.01]"
+  },
+  {
+    "code": "B01D 53/56",
+    "description": "••••••••Oxidos de nitrógeno (B01D 53/60 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B01D 53/58",
+    "description": "••••••••Amoniaco [2006.01]"
+  },
+  {
+    "code": "B01D 53/60",
+    "description": "••••••Eliminación simultánea de óxidos de azufre y óxidos de nitrógeno [2006.01]"
+  },
+  {
+    "code": "B01D 53/62",
+    "description": "••••••Oxidos de carbono [2006.01]"
+  },
+  {
+    "code": "B01D 53/64",
+    "description": "••••••Metales pesados o sus compuestos, p. ej. mercurio [2006.01]"
+  },
+  {
+    "code": "B01D 53/66",
+    "description": "••••••Ozono [2006.01]"
+  },
+  {
+    "code": "B01D 53/68",
+    "description": "••••••Halógenos o compuestos halogenados [2006.01]"
+  },
+  {
+    "code": "B01D 53/70",
+    "description": "••••••••Compuestos halogenados orgánicos [2006.01]"
+  },
+  {
+    "code": "B01D 53/72",
+    "description": "••••••Compuestos orgánicos no previstos en los grupos B01D 53/48-B01D 53/70, p. ej. hidrocarburos [2006.01]"
+  },
+  {
+    "code": "B01D 53/73",
+    "description": "••••Tratamiento posterior de los componentes eliminados [2006.01]"
+  },
+  {
+    "code": "B01D 53/74",
+    "description": "••••Procedimientos generales para la depuración de gases residuales; Aparatos o dispositivos especialmente adaptados a estos procedimientos (B01D 53/92 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B01D 53/75",
+    "description": "••••••Procedimientos multietapas [2006.01]"
+  },
+  {
+    "code": "B01D 53/76",
+    "description": "••••••Procedimientos en fase gaseosa, p. ej. utilizando aerosoles [2006.01]"
+  },
+  {
+    "code": "B01D 53/77",
+    "description": "••••••Procedimientos en fase líquida [2006.01]"
+  },
+  {
+    "code": "B01D 53/78",
+    "description": "••••••••con contacto gas-líquido [2006.01]"
+  },
+  {
+    "code": "B01D 53/79",
+    "description": "••••••••Inyección de reactivos [2006.01]"
+  },
+  {
+    "code": "B01D 53/80",
+    "description": "••••••Procedimientos en fase semisólida, es decir por medios de lodos [2006.01]"
+  },
+  {
+    "code": "B01D 53/81",
+    "description": "••••••Procedimientos en fase sólida [2006.01]"
+  },
+  {
+    "code": "B01D 53/82",
+    "description": "••••••••con reactivos en estado estacionario [2006.01]"
+  },
+  {
+    "code": "B01D 53/83",
+    "description": "••••••••con reactivos en movimiento [2006.01]"
+  },
+  {
+    "code": "B01D 53/84",
+    "description": "••••••Procedimientos biológicos [2006.01]"
+  },
+  {
+    "code": "B01D 53/85",
+    "description": "••••••••con contacto gas-sólido [2006.01]"
+  },
+  {
+    "code": "B01D 53/86",
+    "description": "••••••Procedimientos catalíticos [2006.01]"
+  },
+  {
+    "code": "B01D 53/88",
+    "description": "••••••••Manipulación o montaje de catalizadores [2006.01]"
+  },
+  {
+    "code": "B01D 53/90",
+    "description": "••••••••Inyección de reactivos [2006.01]"
+  },
+  {
+    "code": "B01D 53/92",
+    "description": "••••de gases de escape de los motores de combustión (dispositivos de escape que tienen medios para purificar o tratar de otra forma los gases de escape F01N 3/00) [2006.01]"
+  },
+  {
+    "code": "B01D 53/94",
+    "description": "••••••por procedimientos catalíticos [2006.01]"
+  },
+  {
+    "code": "B01D 53/96",
+    "description": "••••Regeneración, reactivación o reciclaje de los reactivos [2006.01]"
+  },
+  {
+    "code": "B01D 57/00",
+    "description": "Separación, que no sea de sólidos, no cubierta enteramente por un solo grupo o subclase, p. ej. B03C [2006.01]"
+  },
+  {
+    "code": "B01D 57/02",
+    "description": "••por electroforesis [2006.01]"
+  },
+  {
+    "code": "B01D 59/00",
+    "description": "Separación de isótopos diferentes de un mismo elemento químico [2006.01]"
+  },
+  {
+    "code": "B01D 59/02",
+    "description": "••Separación por transición de una fase a otra [2006.01]"
+  },
+  {
+    "code": "B01D 59/04",
+    "description": "••••por destilación [2006.01]"
+  },
+  {
+    "code": "B01D 59/06",
+    "description": "••••por fusión fraccionada; por fusión por zonas [2006.01]"
+  },
+  {
+    "code": "B01D 59/08",
+    "description": "••••por cristalización fraccionada, por precipitación, por congelación por zonas [2006.01]"
+  },
+  {
+    "code": "B01D 59/10",
+    "description": "••Separación por difusión [2006.01]"
+  },
+  {
+    "code": "B01D 59/12",
+    "description": "••••por difusión a través de barreras [2006.01]"
+  },
+  {
+    "code": "B01D 59/14",
+    "description": "••••••Estructuras de barreras [2006.01]"
+  },
+  {
+    "code": "B01D 59/16",
+    "description": "••••por difusión térmica [2006.01]"
+  },
+  {
+    "code": "B01D 59/18",
+    "description": "••••por chorros de separación [2006.01]"
+  },
+  {
+    "code": "B01D 59/20",
+    "description": "••Separación por centrifugación [2006.01]"
+  },
+  {
+    "code": "B01D 59/22",
+    "description": "••Separación por extracción [2006.01]"
+  },
+  {
+    "code": "B01D 59/24",
+    "description": "••••por extracción de disolventes [2006.01]"
+  },
+  {
+    "code": "B01D 59/26",
+    "description": "••••por sorción, es decir, adsorción, absorción, persorción [2006.01]"
+  },
+  {
+    "code": "B01D 59/28",
+    "description": "••Separación por cambio químico [2006.01]"
+  },
+  {
+    "code": "B01D 59/30",
+    "description": "••••por cambio de iones [2006.01]"
+  },
+  {
+    "code": "B01D 59/32",
+    "description": "••••por cambio entre fluidos [2006.01]"
+  },
+  {
+    "code": "B01D 59/33",
+    "description": "••••••mediante un doble cambio de temperatura [2006.01]"
+  },
+  {
+    "code": "B01D 59/34",
+    "description": "••Separación por medios fotoquímicos [2006.01]"
+  },
+  {
+    "code": "B01D 59/36",
+    "description": "••Separación por métodos biológicos [2006.01]"
+  },
+  {
+    "code": "B01D 59/38",
+    "description": "••Separación por métodos electroquímicos [2006.01]"
+  },
+  {
+    "code": "B01D 59/40",
+    "description": "••••por electrólisis [2006.01]"
+  },
+  {
+    "code": "B01D 59/42",
+    "description": "••••por electromigración; por electroforesis [2006.01]"
+  },
+  {
+    "code": "B01D 59/44",
+    "description": "••Separación por espectrografía de masa (tubos para espectrómetros de masa o para separadores de masa H01J 49/00) [2006.01]"
+  },
+  {
+    "code": "B01D 59/46",
+    "description": "••••utilizando campos electrostáticos solamente [2006.01]"
+  },
+  {
+    "code": "B01D 59/48",
+    "description": "••••utilizando campos electrostáticos y magnéticos [2006.01]"
+  },
+  {
+    "code": "B01D 59/50",
+    "description": "••Separación que implica a dos o más, de los procedimientos cubiertos en los diferentes grupos siguientes: B01D 59/02, B01D 59/10, B01D 59/20, B01D 59/22, B01D 59/28, B01D 59/34, B01D 59/36, B01D 59/38, B01D 59/44 [2006.01]"
+  },
+  {
+    "code": "B01D 61/00",
+    "description": "Procedimiento de separación que utilizan membranas semipermeables, p. ej. diálisis, ósmosis o ultrafiltración; Aparatos, accesorios u operaciones auxiliares, especialmente adaptados para ello (separación de gases o vapores por difusión B01D 53/22) [2006.01]"
+  },
+  {
+    "code": "B01D 61/02",
+    "description": "••Osmosis inversa; Hiperfiltración [2006.01]"
+  },
+  {
+    "code": "B01D 61/04",
+    "description": "••••Pretratamiento de la corriente de alimentación [2006.01]"
+  },
+  {
+    "code": "B01D 61/06",
+    "description": "••••Recuperación de energía [2006.01]"
+  },
+  {
+    "code": "B01D 61/08",
+    "description": "••••Aparatos para ello [2006.01]"
+  },
+  {
+    "code": "B01D 61/10",
+    "description": "••••Accesorios; Operaciones auxiliares [2006.01]"
+  },
+  {
+    "code": "B01D 61/12",
+    "description": "••••Control o regulación [2006.01]"
+  },
+  {
+    "code": "B01D 61/14",
+    "description": "••Ultrafiltración; Microfiltración [2006.01]"
+  },
+  {
+    "code": "B01D 61/16",
+    "description": "••••Pretratamiento de la corriente de alimentación [2006.01]"
+  },
+  {
+    "code": "B01D 61/18",
+    "description": "••••Aparatos a este efecto [2006.01]"
+  },
+  {
+    "code": "B01D 61/20",
+    "description": "••••Accesorios; Operaciones auxiliares [2006.01]"
+  },
+  {
+    "code": "B01D 61/22",
+    "description": "••••Control o regulación [2006.01]"
+  },
+  {
+    "code": "B01D 61/24",
+    "description": "••Diálisis [2006.01]"
+  },
+  {
+    "code": "B01D 61/26",
+    "description": "••••Circuito de la solución dializada, p. ej. preparación, regeneración [2006.01]"
+  },
+  {
+    "code": "B01D 61/28",
+    "description": "••••Aparatos para ello [2006.01]"
+  },
+  {
+    "code": "B01D 61/30",
+    "description": "••••Accesorios; Operaciones auxiliares [2006.01]"
+  },
+  {
+    "code": "B01D 61/32",
+    "description": "••••Control o regulación [2006.01]"
+  },
+  {
+    "code": "B01D 61/34",
+    "description": "••••••Medida del ultrafiltrado durante la diálisis [2006.01]"
+  },
+  {
+    "code": "B01D 61/36",
+    "description": "••Pervaporación; Destilación con membranas; Permeación líquida [2006.01]"
+  },
+  {
+    "code": "B01D 61/38",
+    "description": "••Separación por membranas líquidas [2006.01]"
+  },
+  {
+    "code": "B01D 61/40",
+    "description": "••••utilizando membranas del tipo emulsión [2006.01]"
+  },
+  {
+    "code": "B01D 61/42",
+    "description": "••Electrodiálisis; Electroósmosis [2006.01]"
+  },
+  {
+    "code": "B01D 61/44",
+    "description": "••••Electrodiálisis con selectividad iónica [2006.01]"
+  },
+  {
+    "code": "B01D 61/46",
+    "description": "••••••Aparatos para ello [2006.01]"
+  },
+  {
+    "code": "B01D 61/48",
+    "description": "••••••••que tienen uno o varios compartimentos llenos de un material intercambiador de iones [2006.01]"
+  },
+  {
+    "code": "B01D 61/50",
+    "description": "••••••••Apilamientos del tipo con placa y marco [2006.01]"
+  },
+  {
+    "code": "B01D 61/52",
+    "description": "••••••Accesorios; Operaciones auxiliares [2006.01]"
+  },
+  {
+    "code": "B01D 61/54",
+    "description": "••••••Control o regulación [2006.01]"
+  },
+  {
+    "code": "B01D 61/56",
+    "description": "••••Deshidratación por electroósmosis [2006.01]"
+  },
+  {
+    "code": "B01D 61/58",
+    "description": "••Procedimientos con varias etapas [2006.01]"
+  },
+  {
+    "code": "B01D 63/00",
+    "description": "Aparatos en general para los procedimientos de separación que utilizan membranas semipermeables [2006.01]"
+  },
+  {
+    "code": "B01D 63/02",
+    "description": "••Módulos con fibras huecas [2006.01]"
+  },
+  {
+    "code": "B01D 63/04",
+    "description": "••••que incluyen varios conjuntos con fibras huecas [2006.01]"
+  },
+  {
+    "code": "B01D 63/06",
+    "description": "••Módulos con membranas tubulares [2006.01]"
+  },
+  {
+    "code": "B01D 63/08",
+    "description": "••Módulos con membranas planas [2006.01]"
+  },
+  {
+    "code": "B01D 63/10",
+    "description": "••Módulos con membranas enrolladas en espiral [2006.01]"
+  },
+  {
+    "code": "B01D 63/12",
+    "description": "••••que incluyen varios conjuntos enrollados en espiral [2006.01]"
+  },
+  {
+    "code": "B01D 63/14",
+    "description": "••Módulos con membranas del tipo plegado [2006.01]"
+  },
+  {
+    "code": "B01D 63/16",
+    "description": "••Módulos rotativos, vibrantes o con movimiento alternativo [2006.01]"
+  },
+  {
+    "code": "B01D 65/00",
+    "description": "Accesorios u operaciones auxiliares, en general, para los procedimientos o aparatos de separación que utilizan membranas semipermeables [2006.01]"
+  },
+  {
+    "code": "B01D 65/02",
+    "description": "••Limpieza o esterilización de membranas [2006.01]"
+  },
+  {
+    "code": "B01D 65/04",
+    "description": "••••con la ayuda de cuerpos móviles, p. ej. de bolas esponjosas [2006.01]"
+  },
+  {
+    "code": "B01D 65/06",
+    "description": "••••con la ayuda de composiciones de lavado particulares [2006.01]"
+  },
+  {
+    "code": "B01D 65/08",
+    "description": "••Prevención del ensuciamiento de la membrana o de la polarización por concentración [2006.01]"
+  },
+  {
+    "code": "B01D 65/10",
+    "description": "••Ensayo de membranas o de aparatos de membranas; Detección o reparación de fugas [2006.01]"
+  },
+  {
+    "code": "B01D 67/00",
+    "description": "Procedimientos especialmente adaptados para la fabricación de membranas semipermeables destinadas a los procedimientos o a los aparatos de separación [2006.01]"
+  },
+  {
+    "code": "B01D 69/00",
+    "description": "Membranas semipermeables destinadas a los procedimientos o a los aparatos de separación, caracterizadas por su forma, por su estructura o por sus propiedades; Procedimientos especialmente adaptados para su fabricación [2006.01]"
+  },
+  {
+    "code": "B01D 69/02",
+    "description": "••caracterizadas por sus propiedades [2006.01]"
+  },
+  {
+    "code": "B01D 69/04",
+    "description": "••Membranas tubulares [2006.01]"
+  },
+  {
+    "code": "B01D 69/06",
+    "description": "••Membranas planas [2006.01]"
+  },
+  {
+    "code": "B01D 69/08",
+    "description": "••Membranas con fibras huecas (fabricación de fibras huecas D01D 5/24, D01F 1/08) [2006.01]"
+  },
+  {
+    "code": "B01D 69/10",
+    "description": "••Membranas sobre soportes; Soportes para membranas [2006.01]"
+  },
+  {
+    "code": "B01D 69/12",
+    "description": "••Membranas compuestas; Membranas ultradelgadas [2006.01]"
+  },
+  {
+    "code": "B01D 69/14",
+    "description": "••Membranas dinámicas [2006.01]"
+  },
+  {
+    "code": "B01D 71/00",
+    "description": "Membranas semipermeables destinadas a los procedimientos o a los aparatos de separación, caracterizadas por sus materiales; Procedimientos especialmente adaptados para su fabricación [2006.01]"
+  },
+  {
+    "code": "B01D 71/02",
+    "description": "••Materiales minerales [2006.01]"
+  },
+  {
+    "code": "B01D 71/04",
+    "description": "••••Vidrio [2006.01]"
+  },
+  {
+    "code": "B01D 71/06",
+    "description": "••Materiales orgánicos [2006.01]"
+  },
+  {
+    "code": "B01D 71/08",
+    "description": "••••Polisacáridos [2006.01]"
+  },
+  {
+    "code": "B01D 71/10",
+    "description": "••••••Celulosa; Celulosa modificada [2006.01]"
+  },
+  {
+    "code": "B01D 71/12",
+    "description": "••••••Derivados celulósicos [2006.01]"
+  },
+  {
+    "code": "B01D 71/14",
+    "description": "••••••••Esteres de ácidos orgánicos [2006.01]"
+  },
+  {
+    "code": "B01D 71/16",
+    "description": "••••••••••Acetato de celulosa [2006.01]"
+  },
+  {
+    "code": "B01D 71/18",
+    "description": "••••••••••Esteres mixtos, p. ej. acetobutirato de celulosa [2006.01]"
+  },
+  {
+    "code": "B01D 71/20",
+    "description": "••••••••Esteres de ácidos minerales, p. ej. nitrato de celulosa [2006.01]"
+  },
+  {
+    "code": "B01D 71/22",
+    "description": "••••••••Esteres celulósicos [2006.01]"
+  },
+  {
+    "code": "B01D 71/24",
+    "description": "••••Cauchos [2006.01]"
+  },
+  {
+    "code": "B01D 71/26",
+    "description": "••••Polialquenos [2006.01]"
+  },
+  {
+    "code": "B01D 71/28",
+    "description": "••••Polímeros de compuestos vinilaromáticos [2006.01]"
+  },
+  {
+    "code": "B01D 71/30",
+    "description": "••••Polihalogenuros alquenílicos [2006.01]"
+  },
+  {
+    "code": "B01D 71/32",
+    "description": "••••••que contienen átomos de flúor [2006.01]"
+  },
+  {
+    "code": "B01D 71/34",
+    "description": "••••••••Fluoruro de polivinilideno [2006.01]"
+  },
+  {
+    "code": "B01D 71/36",
+    "description": "••••••••Politetrafluoroetileno [2006.01]"
+  },
+  {
+    "code": "B01D 71/38",
+    "description": "••••Alcoholes polialquenílicos; Esteres polialquenílicos; Eteres polialquenílicos; Aldehídos polialquenílicos; Cetonas polialquenílicas; Acetales polialquenílicos; Cetales polialquenílicos [2006.01]"
+  },
+  {
+    "code": "B01D 71/40",
+    "description": "••••Polímeros de ácidos insaturados o de sus derivados, p. ej. sales, amidas, imidas, nitrilos, anhídridos, ésteres [2006.01]"
+  },
+  {
+    "code": "B01D 71/42",
+    "description": "••••••Polímeros de nitrilos, p. ej. poliacrilonitrilo [2006.01]"
+  },
+  {
+    "code": "B01D 71/44",
+    "description": "••••Polímeros obtenidos por reacciones en las que intervienen solamente enlaces insaturados carbono-carbono, no previstos en uno solo de los grupos B01D 71/26-B01D 71/42 [2006.01]"
+  },
+  {
+    "code": "B01D 71/46",
+    "description": "••••Resinas epoxi [2006.01]"
+  },
+  {
+    "code": "B01D 71/48",
+    "description": "••••Poliésteres [2006.01]"
+  },
+  {
+    "code": "B01D 71/50",
+    "description": "••••Policarbonatos [2006.01]"
+  },
+  {
+    "code": "B01D 71/52",
+    "description": "••••Poliéteres [2006.01]"
+  },
+  {
+    "code": "B01D 71/54",
+    "description": "••••Poliureas; Poliuretanos [2006.01]"
+  },
+  {
+    "code": "B01D 71/56",
+    "description": "••••Poliamidas, p. ej. poliesteramidas [2006.01]"
+  },
+  {
+    "code": "B01D 71/58",
+    "description": "••••Otros polímeros que contienen, en la cadena principal, solamente nitrógeno, con o sin oxígeno o carbono [2006.01]"
+  },
+  {
+    "code": "B01D 71/60",
+    "description": "••••••Poliaminas [2006.01]"
+  },
+  {
+    "code": "B01D 71/62",
+    "description": "••••••Policondensados con heterociclos que contienen nitrógeno en la cadena principal [2006.01]"
+  },
+  {
+    "code": "B01D 71/64",
+    "description": "••••••••Poliimidas; Poliamida-imidas; Poliéster-imidas; Poliamida-ácidos o precursores similares de las poliimidas [2006.01]"
+  },
+  {
+    "code": "B01D 71/66",
+    "description": "••••Polímeros que contienen, en la cadena principal, solamente azufre, con o sin nitrógeno, oxígeno o carbono [2006.01]"
+  },
+  {
+    "code": "B01D 71/68",
+    "description": "••••••Polisulfonas; Polietersulfonas [2006.01]"
+  },
+  {
+    "code": "B01D 71/70",
+    "description": "••••Polímeros que contienen, en la cadena principal, solamente silicio, con o sin azufre, nitrógeno, oxígeno o carbono [2006.01]"
+  },
+  {
+    "code": "B01D 71/72",
+    "description": "••••Compuestos macromoleculares obtenidos por reacciones distintas de aquéllas en las que intervienen solamente enlaces insaturados carbono-carbono, no previstos en uno solo de los grupos B01D 71/46-B01D 71/70 [2006.01]"
+  },
+  {
+    "code": "B01D 71/74",
+    "description": "••••Materiales macromoleculares naturales o sus derivados (B01D 71/08, B01D 71/24 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "B01D 71/76",
+    "description": "••••Materiales macromoleculares no previstos específicamente en uno solo de los grupos B01D 71/08-B01D 71/74 (cauchos en general B01D 71/24) [2006.01]"
+  },
+  {
+    "code": "B01D 71/78",
+    "description": "••••••Polímeros injertados [2006.01]"
+  },
+  {
+    "code": "B01D 71/80",
+    "description": "••••••Polímeros secuenciados [2006.01]"
+  },
+  {
+    "code": "B01D 71/82",
+    "description": "••••••caracterizados por la presencia de grupos determinados, p. ej. introducidos por un tratamiento químico ulterior [2006.01]"
+  }
+]

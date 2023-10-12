@@ -1,0 +1,166 @@
+[
+  {
+    "code": "C40B 10/00",
+    "description": "Evolución molecular dirigida de macromoléculas, p. ej. ARN, ADN o proteínas [2006.01]"
+  },
+  {
+    "code": "C40B 20/00",
+    "description": "Procedimientos especialmente adaptados para la identificación de miembros de una biblioteca [2006.01]"
+  },
+  {
+    "code": "C40B 20/02",
+    "description": "••Identificación de miembros de una biblioteca por su emplazamiento físico fijo sobre un soporte o un sustrato [2006.01]"
+  },
+  {
+    "code": "C40B 20/04",
+    "description": "••Identificación de miembros de una biblioteca por medio de una etiqueta (\"tag\"), de un marcador (\"label\") o de otro identificador leíble o detectable, p.ej. procedimientos de decodificación [2006.01]"
+  },
+  {
+    "code": "C40B 20/06",
+    "description": "••empleando técnicas de deconvolución iterativas [2006.01]"
+  },
+  {
+    "code": "C40B 20/08",
+    "description": "••Análisis directo de miembros per se de una biblioteca mediante procedimientos físicos, p. ej. espectroscopía [2006.01]"
+  },
+  {
+    "code": "C40B 30/00",
+    "description": "Procedimientos de selección de bibliotecas [2006.01]"
+  },
+  {
+    "code": "C40B 30/04",
+    "description": "••midiendo la capacidad para unirse específicamente a una molécula diana, p. ej. unión anticuerpo-antígeno, unión receptor-ligando [2006.01]"
+  },
+  {
+    "code": "C40B 30/06",
+    "description": "••midiendo los efectos sobre organismos vivos, tejidos o células [2006.01]"
+  },
+  {
+    "code": "C40B 30/08",
+    "description": "••midiendo la actividad catalítica [2006.01]"
+  },
+  {
+    "code": "C40B 30/10",
+    "description": "••midiendo propiedades físicas, p. ej. la masa [2006.01]"
+  },
+  {
+    "code": "C40B 40/00",
+    "description": "Bibliotecas per se, p. ej. arrays, mezclas [2006.01]"
+  },
+  {
+    "code": "C40B 40/02",
+    "description": "••Bibliotecas contenidas en o exhibidas por microorganismos, p. ej. bacterias o células animales; Bibliotecas contenidas en o exhibidas por vectores, p. ej. plásmidos; Bibliotecas que únicamente contienen microorganismos o vectores [2006.01]"
+  },
+  {
+    "code": "C40B 40/04",
+    "description": "••Bibliotecas que únicamente contienen compuestos orgánicos [2006.01]"
+  },
+  {
+    "code": "C40B 40/06",
+    "description": "••••Bibliotecas que contienen nucleótidos o polinucleótidos, o sus derivados [2006.01]"
+  },
+  {
+    "code": "C40B 40/08",
+    "description": "••••••Bibliotecas que contienen ARN o ADN que codifican proteínas, p. ej. genotecas [2006.01]"
+  },
+  {
+    "code": "C40B 40/10",
+    "description": "••••Bibliotecas que contienen péptidos o polipéptidos, o sus derivados [2006.01]"
+  },
+  {
+    "code": "C40B 40/12",
+    "description": "••••Bibliotecas que contienen compuestos sacáridos o polisacáridos, o sus derivados [2006.01]"
+  },
+  {
+    "code": "C40B 40/14",
+    "description": "••••Bibliotecas que contienen compuestos macromoleculares no cubiertos por los grupos C40B 40/06-C40B 40/12 [2006.01]"
+  },
+  {
+    "code": "C40B 40/16",
+    "description": "••••Bibliotecas que contienen compuestos orgánicos que contienen metales [2006.01]"
+  },
+  {
+    "code": "C40B 40/18",
+    "description": "••Bibliotecas que únicamente contienen compuestos inorgánicos o materiales inorgánicos [2006.01]"
+  },
+  {
+    "code": "C40B 50/00",
+    "description": "Procedimientos de creación de bibliotecas, p. ej. síntesis combinatoria [2006.01]"
+  },
+  {
+    "code": "C40B 50/04",
+    "description": "••usando técnicas químicas de dinámica combinatoria [2006.01]"
+  },
+  {
+    "code": "C40B 50/06",
+    "description": "••Procedimientos bioquímicos, p. ej. empleando enzimas o microorganismos enteros viables [2006.01]"
+  },
+  {
+    "code": "C40B 50/08",
+    "description": "••Síntesis en fase líquida, es decir, en la que todos los elementos que conforman la biblioteca están en fase líquida o en solución durante la creación de la biblioteca; Procedimientos particulares de escisión del soporte líquido [2006.01]"
+  },
+  {
+    "code": "C40B 50/10",
+    "description": "••••comprendiendo etapas de codificación [2006.01]"
+  },
+  {
+    "code": "C40B 50/12",
+    "description": "••••empleando un procedimiento particular de anclaje al soporte líquido [2006.01]"
+  },
+  {
+    "code": "C40B 50/14",
+    "description": "••Síntesis en fase sólida, es decir, en la que uno o más elementos que conforman la biblioteca están unidos a un soporte sólido durante la creación de la biblioteca; Procedimientos particulares de escisión del soporte sólido [2006.01]"
+  },
+  {
+    "code": "C40B 50/16",
+    "description": "••••comprendiendo etapas de codificación [2006.01]"
+  },
+  {
+    "code": "C40B 50/18",
+    "description": "••••empleando un procedimiento particular de anclaje al soporte sólido [2006.01]"
+  },
+  {
+    "code": "C40B 60/00",
+    "description": "Aparatos especialmente adaptados para su empleo en química combinatoria o con bibliotecas [2006.01]"
+  },
+  {
+    "code": "C40B 60/02",
+    "description": "••Aparatos integrados especialmente adaptados para creación de bibliotecas, selección de bibliotecas y para identificación de miembros de bibliotecas [2006.01]"
+  },
+  {
+    "code": "C40B 60/04",
+    "description": "••Aparatos integrados especialmente adaptados tanto a la selección de bibliotecas como a la identificación de miembros de bibliotecas [2006.01]"
+  },
+  {
+    "code": "C40B 60/06",
+    "description": "••Aparatos integrados especialmente adaptados tanto a la creación de bibliotecas como a la identificación de miembros de bibliotecas [2006.01]"
+  },
+  {
+    "code": "C40B 60/08",
+    "description": "••Aparatos integrados especialmente adaptados tanto a la creación como a la selección de bibliotecas [2006.01]"
+  },
+  {
+    "code": "C40B 60/10",
+    "description": "••para la identificación de miembros de bibliotecas [2006.01]"
+  },
+  {
+    "code": "C40B 60/12",
+    "description": "••para la selección de bibliotecas [2006.01]"
+  },
+  {
+    "code": "C40B 60/14",
+    "description": "••para la creación de bibliotecas [2006.01]"
+  },
+  {
+    "code": "C40B 70/00",
+    "description": "Etiquetas (\"tags\") o marcadores (\"labels\") especialmente adaptados para química combinatoria o para bibliotecas, p. ej. etiquetas fluorescentes o códigos de barras [2006.01]"
+  },
+  {
+    "code": "C40B 80/00",
+    "description": "\"Linkers\" o \"spacers\" especialmente adaptados para química combinatoria o para bibliotecas, p. ej. \"linkers\" sin traza (\"traceless linkers\") o \"linkers\" de unión segura (\"safety-catch linkers\") [2006.01]"
+  },
+  {
+    "code": "C40B 99/00",
+    "description": "Materia no prevista en otros grupos de esta subclase [2006.01]"
+  }
+]

@@ -1,0 +1,598 @@
+[
+  {
+    "code": "H04H 20/00",
+    "description": "Disposiciones para la difusión o distribución combinada con difusión [2008.01]"
+  },
+  {
+    "code": "H04H 20/02",
+    "description": "••Disposiciones para retransmitir información de difusión [2008.01]"
+  },
+  {
+    "code": "H04H 20/04",
+    "description": "••••desde unidades de captura en campo [2008.01]"
+  },
+  {
+    "code": "H04H 20/06",
+    "description": "••••entre estaciones de difusión [2008.01]"
+  },
+  {
+    "code": "H04H 20/08",
+    "description": "••••entre equipos terminales [2008.01]"
+  },
+  {
+    "code": "H04H 20/10",
+    "description": "••Disposiciones para sustituir o conmutar información durante la difusión o durantela distribución [2008.01]"
+  },
+  {
+    "code": "H04H 20/12",
+    "description": "••Disposiciones para supervisar, ensayar o resolver problemas [2008.01]"
+  },
+  {
+    "code": "H04H 20/14",
+    "description": "••••para programas de supervisión [2008.01]"
+  },
+  {
+    "code": "H04H 20/16",
+    "description": "••Disposiciones para la difusión o distribución repetida de informaciones idénticas [2008.01]"
+  },
+  {
+    "code": "H04H 20/18",
+    "description": "••Disposiciones para sincronizar la difusión o distribución a través de varios sistemas [2008.01]"
+  },
+  {
+    "code": "H04H 20/20",
+    "description": "••Disposiciones de difusión o distribución de información idéntica a través de varios sistemas [2008.01]"
+  },
+  {
+    "code": "H04H 20/22",
+    "description": "••••Disposiciones para la difusión de información idéntica a través de varios sistemas de difusión [2008.01]"
+  },
+  {
+    "code": "H04H 20/24",
+    "description": "••••Disposiciones para la distribución de información idéntica a través de sistemas de difusión y de sistemas de no difusión [2008.01]"
+  },
+  {
+    "code": "H04H 20/26",
+    "description": "••Disposiciones de conmutación de sistemas de distribución [2008.01]"
+  },
+  {
+    "code": "H04H 20/28",
+    "description": "••Disposición para la difusión simultánea de varios elementos de información [2008.01]"
+  },
+  {
+    "code": "H04H 20/30",
+    "description": "••••por un único canal [2008.01]"
+  },
+  {
+    "code": "H04H 20/31",
+    "description": "••••••utilizando señales en banda, p. ej. subsónicas o señales de aviso [2008.01]"
+  },
+  {
+    "code": "H04H 20/33",
+    "description": "••••por varios canales [2008.01]"
+  },
+  {
+    "code": "H04H 20/34",
+    "description": "••••••empleando una señal subportadora fuera de banda [2008.01]"
+  },
+  {
+    "code": "H04H 20/36",
+    "description": "••••para difusión AM [2008.01]"
+  },
+  {
+    "code": "H04H 20/38",
+    "description": "••Disposiciones para la distribución donde las estaciones inferiores, p. ej. los receptores, interactúan en la difusión [2008.01]"
+  },
+  {
+    "code": "H04H 20/40",
+    "description": "••Disposiciones para la difusión especialmente adaptadas para receptor del tipo de acumulación [2008.01]"
+  },
+  {
+    "code": "H04H 20/42",
+    "description": "••Disposiciones para la gestión de recursos [2008.01]"
+  },
+  {
+    "code": "H04H 20/44",
+    "description": "••Disposiciones caracterizadas por circuitos o componentes especialmente adaptados a la difusión [2008.01]"
+  },
+  {
+    "code": "H04H 20/46",
+    "description": "••••especialmente adaptados a los sistemas de difusión cubiertos por los grupos H04H 20/53-H04H 20/86 [2008.01]"
+  },
+  {
+    "code": "H04H 20/47",
+    "description": "••••••especialmente adaptados a sistemas de difusión estereofónica [2008.01]"
+  },
+  {
+    "code": "H04H 20/48",
+    "description": "••••••••parasistemas de difusión estereofónica FM [2008.01]"
+  },
+  {
+    "code": "H04H 20/49",
+    "description": "••••••••parasistemas de difusión estereofónica AM [2008.01]"
+  },
+  {
+    "code": "H04H 20/51",
+    "description": "••••••especialmente adaptados a sistemas de difusión por satélite [2008.01]"
+  },
+  {
+    "code": "H04H 20/53",
+    "description": "••Disposiciones especialmente adaptadas a aplicaciones específicas, p. ej. para información del tráfico o para receptores móviles [2008.01]"
+  },
+  {
+    "code": "H04H 20/55",
+    "description": "••••para información del tráfico [2008.01]"
+  },
+  {
+    "code": "H04H 20/57",
+    "description": "••••para receptores móviles [2008.01]"
+  },
+  {
+    "code": "H04H 20/59",
+    "description": "••••para emergencias o urgencias [2008.01]"
+  },
+  {
+    "code": "H04H 20/61",
+    "description": "••••para difusión en área local, p. ej. difusión interna [2008.01]"
+  },
+  {
+    "code": "H04H 20/62",
+    "description": "••••••para sistemas de transporte, p. ej. en vehículos [2008.01]"
+  },
+  {
+    "code": "H04H 20/63",
+    "description": "••••••a varios puntos en un lugar restringido, p. ej. MATV [Sistema de antena colectiva] [2008.01]"
+  },
+  {
+    "code": "H04H 20/65",
+    "description": "••Disposiciones caracterizadas por los sistemas de transmisión para la difusión [2008.01]"
+  },
+  {
+    "code": "H04H 20/67",
+    "description": "••••Sistemas de onda común, es decir, usando transmisores separados que funcionan básicamente a la misma frecuencia [2008.01]"
+  },
+  {
+    "code": "H04H 20/69",
+    "description": "••••Sistemas ópticos [2008.01]"
+  },
+  {
+    "code": "H04H 20/71",
+    "description": "••••Sistemas inalámbricos [2008.01]"
+  },
+  {
+    "code": "H04H 20/72",
+    "description": "••••••de redes terrestres [2008.01]"
+  },
+  {
+    "code": "H04H 20/74",
+    "description": "••••••de redes satelitales [2008.01]"
+  },
+  {
+    "code": "H04H 20/76",
+    "description": "••••Sistemas cableados [2008.01]"
+  },
+  {
+    "code": "H04H 20/77",
+    "description": "••••••usando onda portadora [2008.01]"
+  },
+  {
+    "code": "H04H 20/78",
+    "description": "••••••••Sistemas CATV [Sistemas de Televisión por Cable] [2008.01]"
+  },
+  {
+    "code": "H04H 20/79",
+    "description": "••••••••••usando el enlace descendente de los sistemas CATV, p. ej. difusión de audio a través de la red CATV [2008.01]"
+  },
+  {
+    "code": "H04H 20/80",
+    "description": "••••••••teniendo frecuencias en dos o más bandas, p. ej. onda media y VHF [2008.01]"
+  },
+  {
+    "code": "H04H 20/81",
+    "description": "••••••••combinada con la red telefónica tal que la difusión está disponible continuamente [2008.01]"
+  },
+  {
+    "code": "H04H 20/82",
+    "description": "••••••usando señales no moduladas sobre portadora [2008.01]"
+  },
+  {
+    "code": "H04H 20/83",
+    "description": "••••••••sin compartir la red con otro servicio [2008.01]"
+  },
+  {
+    "code": "H04H 20/84",
+    "description": "••••••combinada con la red de distribución eléctrica [2008.01]"
+  },
+  {
+    "code": "H04H 20/86",
+    "description": "••Disposiciones caracterizadas por las características técnicas particulares de la información de difusión, p. ej. la forma de la señal o el contenido de la información [2008.01]"
+  },
+  {
+    "code": "H04H 20/88",
+    "description": "••••Sistemas de difusión estereofónica [2008.01]"
+  },
+  {
+    "code": "H04H 20/89",
+    "description": "••••••usando tres o más canales de audio, p. ej. trifónico o cuadrafónico [2008.01]"
+  },
+  {
+    "code": "H04H 20/91",
+    "description": "••••difundiendo programas de ordenador [2008.01]"
+  },
+  {
+    "code": "H04H 20/93",
+    "description": "••••que localiza recursos de otros elementos de información, p. ej. URL [Localizador Uniforme de Recursos] [2008.01]"
+  },
+  {
+    "code": "H04H 20/95",
+    "description": "••••caracterizadas por un formato específico, p. ej. MP3 [MPEG-1 Capa de Audio 3] [2008.01]"
+  },
+  {
+    "code": "H04H 40/00",
+    "description": "Disposiciones especialmente adaptadas para recibir información de difusión [2008.01]"
+  },
+  {
+    "code": "H04H 40/09",
+    "description": "••Disposiciones para recibir automáticamente información deseada relativa a horarios [2008.01]"
+  },
+  {
+    "code": "H04H 40/18",
+    "description": "••Disposiciones caracterizadas por circuitos o componentes especialmente adaptadospara la recepción [2008.01]"
+  },
+  {
+    "code": "H04H 40/27",
+    "description": "••••especialmente adaptados para sistemas de difusión cubiertos por los grupos H04H 20/53-H04H 20/86 [2008.01]"
+  },
+  {
+    "code": "H04H 40/36",
+    "description": "••••••especialmente adaptados para recibir difusión estereofónica [2008.01]"
+  },
+  {
+    "code": "H04H 40/45",
+    "description": "••••••••para recibir difusión estereofónica FM [2008.01]"
+  },
+  {
+    "code": "H04H 40/54",
+    "description": "••••••••••generando subportadoras [2008.01]"
+  },
+  {
+    "code": "H04H 40/63",
+    "description": "••••••••••separando mejoras o ajustes [2008.01]"
+  },
+  {
+    "code": "H04H 40/72",
+    "description": "••••••••••suprimiendo ruido [2008.01]"
+  },
+  {
+    "code": "H04H 40/81",
+    "description": "••••••••••para conexión a canal estéreo-mono [2008.01]"
+  },
+  {
+    "code": "H04H 40/90",
+    "description": "••••••especialmente adaptados para recibir difusión por satélite [2008.01]"
+  },
+  {
+    "code": "H04H 60/00",
+    "description": "Disposiciones para las aplicaciones de difusión con enlace directo a la información de difusión o al intervalo espacio-tiempo de difusión; Sistemas relativos a la difusión [2008.01]"
+  },
+  {
+    "code": "H04H 60/02",
+    "description": "••Disposiciones para generar información de difusión.; Disposiciones para generar información relativa a la difusión con un enlace directoa la información de difusión o al intervalo espacio-tiempo de difusión; Disposiciones para la generación simultánea de información de difusión e información relativa a la difusión [2008.01]"
+  },
+  {
+    "code": "H04H 60/04",
+    "description": "••••Equipo de estudio; Interconexiones de estudios [2008.01]"
+  },
+  {
+    "code": "H04H 60/05",
+    "description": "••••••Estudios móviles [2008.01]"
+  },
+  {
+    "code": "H04H 60/06",
+    "description": "••••Disposiciones para programarservicios de difusión o servicios relativos a la difusión [2008.01]"
+  },
+  {
+    "code": "H04H 60/07",
+    "description": "••••caracterizadas por procesos o métodos para generarlos [2008.01]"
+  },
+  {
+    "code": "H04H 60/09",
+    "description": "••Disposiciones para el control de dispositivos con un enlace directo a la información de difusión o al intervalo espacio-tiempo de difusión; Disposiciones para el control de servicios relativos a la difusión [2008.01]"
+  },
+  {
+    "code": "H04H 60/11",
+    "description": "••••Disposiciones para llevar a cabo medidas en contra cuando una parte de la información de difusión no está disponible [2008.01]"
+  },
+  {
+    "code": "H04H 60/12",
+    "description": "••••••donde otra información es sustituida por esa parte de la información de difusión [2008.01]"
+  },
+  {
+    "code": "H04H 60/13",
+    "description": "••••Disposiciones para el control del dispositivo afectado por la información de difusión [2008.01]"
+  },
+  {
+    "code": "H04H 60/14",
+    "description": "••••Disposiciones para el acceso condicionado a la información de difusión o a los servicios relativos a la difusión [2008.01]"
+  },
+  {
+    "code": "H04H 60/15",
+    "description": "••••••en la recepción de información [2008.01]"
+  },
+  {
+    "code": "H04H 60/16",
+    "description": "••••••en la reproducción de la información [2008.01]"
+  },
+  {
+    "code": "H04H 60/17",
+    "description": "••••••en el registro de la información [2008.01]"
+  },
+  {
+    "code": "H04H 60/18",
+    "description": "••••••en la copia de la información [2008.01]"
+  },
+  {
+    "code": "H04H 60/19",
+    "description": "••••••en la transmisión de la información [2008.01]"
+  },
+  {
+    "code": "H04H 60/20",
+    "description": "••••••en la edición secundaria de la información [2008.01]"
+  },
+  {
+    "code": "H04H 60/21",
+    "description": "••••••Facturando por el uso de la información de difusión o la información relativa a la difusión [2008.01]"
+  },
+  {
+    "code": "H04H 60/22",
+    "description": "••••••••por consumo [2008.01]"
+  },
+  {
+    "code": "H04H 60/23",
+    "description": "••••••usando criptografía, p. ej. encriptación, autenticación o distribución de claves [2008.01]"
+  },
+  {
+    "code": "H04H 60/25",
+    "description": "••Disposiciones para actualizar la información de difusión o la información relativa a la difusión [2008.01]"
+  },
+  {
+    "code": "H04H 60/27",
+    "description": "••Disposiciones para el registro o recopilación de información de difusión o información relativa a la difusión [2008.01]"
+  },
+  {
+    "code": "H04H 60/29",
+    "description": "••Disposiciones para controlar los servicios de difusión o servicios relativos a la difusión [2008.01]"
+  },
+  {
+    "code": "H04H 60/31",
+    "description": "••••Disposiciones para controlar el uso que se realiza de los servicios de difusión [2008.01]"
+  },
+  {
+    "code": "H04H 60/32",
+    "description": "••••Disposiciones para controlar las condiciones de las estaciones receptoras, p. ej. el mal funcionamiento o ruptura de estaciones receptoras [2008.01]"
+  },
+  {
+    "code": "H04H 60/33",
+    "description": "••••Disposiciones para controlar el comportamiento u opiniones de los usuarios [2008.01]"
+  },
+  {
+    "code": "H04H 60/35",
+    "description": "••Disposiciones para identificar o reconocer características con un enlace directo sobre la información de difusión o sobre el intervalo espacio-tiempo de difusión, p. ej. para identificar las estaciones de difusión o APRA identificar a los usuarios [2008.01]"
+  },
+  {
+    "code": "H04H 60/37",
+    "description": "••••para identificar segmentos de información de difusión, p. ej. escenas o programas de extracción ID [2008.01]"
+  },
+  {
+    "code": "H04H 60/38",
+    "description": "••••para identificar el tiempo o el espacio de difusión [2008.01]"
+  },
+  {
+    "code": "H04H 60/39",
+    "description": "••••••para identificar el intervalo espacio-tiempo de difusión (uso deGuías Electrónicas de Programas H04H 60/72) [2008.01]"
+  },
+  {
+    "code": "H04H 60/40",
+    "description": "••••••para identificar el tiempo de difusión [2008.01]"
+  },
+  {
+    "code": "H04H 60/41",
+    "description": "••••••para identificar el espacio de difusión, es decir, canales de difusión, estaciones de difusión o áreas de difusión [2008.01]"
+  },
+  {
+    "code": "H04H 60/42",
+    "description": "••••••••para identificar áreas de difusión [2008.01]"
+  },
+  {
+    "code": "H04H 60/43",
+    "description": "••••••••para identificar canales de difusión [2008.01]"
+  },
+  {
+    "code": "H04H 60/44",
+    "description": "••••••••para identificar estaciones de difusión [2008.01]"
+  },
+  {
+    "code": "H04H 60/45",
+    "description": "••••para identificar usuarios [2008.01]"
+  },
+  {
+    "code": "H04H 60/46",
+    "description": "••••para el reconocimiento de las preferencias de los usuarios [2008.01]"
+  },
+  {
+    "code": "H04H 60/47",
+    "description": "••••para el reconocimiento de géneros [2008.01]"
+  },
+  {
+    "code": "H04H 60/48",
+    "description": "••••para el reconocimiento de temas expresados en la información de difusión [2008.01]"
+  },
+  {
+    "code": "H04H 60/49",
+    "description": "••••para identificar ubicaciones [2008.01]"
+  },
+  {
+    "code": "H04H 60/50",
+    "description": "••••••de difusión o estaciones de retransmisión [2008.01]"
+  },
+  {
+    "code": "H04H 60/51",
+    "description": "••••••de estaciones receptoras [2008.01]"
+  },
+  {
+    "code": "H04H 60/52",
+    "description": "••••••de usuarios [2008.01]"
+  },
+  {
+    "code": "H04H 60/53",
+    "description": "••••••de destinos [2008.01]"
+  },
+  {
+    "code": "H04H 60/54",
+    "description": "••••••donde se genera la información de difusión [2008.01]"
+  },
+  {
+    "code": "H04H 60/56",
+    "description": "••Disposiciones caracterizadas por componentes especialmente adaptados al control, identificación o reconocimiento cubiertos por los grupos H04H 60/29o H04H 60/35 [2008.01]"
+  },
+  {
+    "code": "H04H 60/58",
+    "description": "••••de audio [2008.01]"
+  },
+  {
+    "code": "H04H 60/59",
+    "description": "••••de vídeo [2008.01]"
+  },
+  {
+    "code": "H04H 60/61",
+    "description": "••Disposiciones para servicios que utilizan el resultado del control, identificación o reconocimiento cubierto por los grupos H04H 60/29o H04H 60/35 [2008.01]"
+  },
+  {
+    "code": "H04H 60/63",
+    "description": "••••para servicios comerciales [2008.01]"
+  },
+  {
+    "code": "H04H 60/64",
+    "description": "••••para proporcionar información detallada [2008.01]"
+  },
+  {
+    "code": "H04H 60/65",
+    "description": "••••para utilizar el resultado desde el lado del usuario [2008.01]"
+  },
+  {
+    "code": "H04H 60/66",
+    "description": "••••para utilizar el resultado desde el lado del distribuidor [2008.01]"
+  },
+  {
+    "code": "H04H 60/68",
+    "description": "••Sistemas especialmente adaptados parautilizar información específica, p. ej. información geográfica o metereológica [2008.01]"
+  },
+  {
+    "code": "H04H 60/70",
+    "description": "••••utilizando información geográfica, p. ej. mapas, cartas de navegación o atlas [2008.01]"
+  },
+  {
+    "code": "H04H 60/71",
+    "description": "••••utilizando información meteorológica [2008.01]"
+  },
+  {
+    "code": "H04H 60/72",
+    "description": "••••mediante guías electrónicas de programa [EPG] (que se centran en identificar el intervalo espacio-tiempo de difusión H04H 60/39) [2008.01]"
+  },
+  {
+    "code": "H04H 60/73",
+    "description": "••••utilizando meta-datos [2008.01]"
+  },
+  {
+    "code": "H04H 60/74",
+    "description": "••••••empleando información relativa al programa, p. ej. título, autor o intérprete [2008.01]"
+  },
+  {
+    "code": "H04H 60/76",
+    "description": "••Disposiciones caracterizadas por sistemas de transmisión distintos a los de difusión, p. ej. Internet [2008.01]"
+  },
+  {
+    "code": "H04H 60/78",
+    "description": "••••caracterizados por la ubicación de la fuente o el destino [2008.01]"
+  },
+  {
+    "code": "H04H 60/79",
+    "description": "••••••caracterizados por la transmisión entre estaciones de difusión [2008.01]"
+  },
+  {
+    "code": "H04H 60/80",
+    "description": "••••••caracterizados por la transmisión entre equipos terminales [2008.01]"
+  },
+  {
+    "code": "H04H 60/81",
+    "description": "••••caracterizados por el sistema de transmisión en sí [2008.01]"
+  },
+  {
+    "code": "H04H 60/82",
+    "description": "••••••siendo el sistema de transmisión Internet [2008.01]"
+  },
+  {
+    "code": "H04H 60/83",
+    "description": "••••••••al que se accede por redes telefónicas [2008.01]"
+  },
+  {
+    "code": "H04H 60/84",
+    "description": "••••••••••las cuales son redes telefónicas fijas [2008.01]"
+  },
+  {
+    "code": "H04H 60/85",
+    "description": "••••••••••las cuales son redes telefónicas móviles [2008.01]"
+  },
+  {
+    "code": "H04H 60/86",
+    "description": "••••••••a las que se accede por redes CAVT [2008.01]"
+  },
+  {
+    "code": "H04H 60/87",
+    "description": "••••••••a las que se accede por redes de ordenadores [2008.01]"
+  },
+  {
+    "code": "H04H 60/88",
+    "description": "••••••••••las cuales son redes inalámbricas [2008.01]"
+  },
+  {
+    "code": "H04H 60/89",
+    "description": "••••••••••las cuales son redes cableadas [2008.01]"
+  },
+  {
+    "code": "H04H 60/90",
+    "description": "••••••Sistemas de transmisión inalámbricos [2008.01]"
+  },
+  {
+    "code": "H04H 60/91",
+    "description": "••••••••Redes de comunicaciones móviles (para acceso a Internet H04H 60/85) [2008.01]"
+  },
+  {
+    "code": "H04H 60/92",
+    "description": "••••••••para área local [2008.01]"
+  },
+  {
+    "code": "H04H 60/93",
+    "description": "••••••Sistemas de transmisión cableada [2008.01]"
+  },
+  {
+    "code": "H04H 60/94",
+    "description": "••••••••Redes telefónicas (para acceso a Internet H04H 60/84) [2008.01]"
+  },
+  {
+    "code": "H04H 60/95",
+    "description": "••••••••para área local [2008.01]"
+  },
+  {
+    "code": "H04H 60/96",
+    "description": "••••••••Sistemas CATV (para acceso a Internet H04H 60/86) [2008.01]"
+  },
+  {
+    "code": "H04H 60/97",
+    "description": "••••••••••empleando el enlace aguas arriba de los sistemas CATV [2008.01]"
+  },
+  {
+    "code": "H04H 60/98",
+    "description": "••••••Distribución física de comunicación, p. ej. tarjetas postales, CDs o DVDs [2008.01]"
+  }
+]

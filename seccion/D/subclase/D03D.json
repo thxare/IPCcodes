@@ -1,0 +1,890 @@
+[
+  {
+    "code": "D03D 1/00",
+    "description": "Tejidos concebidos para hacer artículos especiales [2006.01]"
+  },
+  {
+    "code": "D03D 1/02",
+    "description": "••artículos destinados a ser hinchados [2006.01]"
+  },
+  {
+    "code": "D03D 1/04",
+    "description": "••sacos o artículos similares [2006.01]"
+  },
+  {
+    "code": "D03D 1/06",
+    "description": "••cintas para cabeceras de cortinas [2006.01]"
+  },
+  {
+    "code": "D03D 1/08",
+    "description": "••cintas para maniobrar persianas enrollables (cintas para persianas venecianas, en sí E06B 9/382) [2006.01]"
+  },
+  {
+    "code": "D03D 3/00",
+    "description": "Tejidos caracterizados por la forma [2006.01]"
+  },
+  {
+    "code": "D03D 3/02",
+    "description": "••Tejidos tubulares [2006.01]"
+  },
+  {
+    "code": "D03D 3/04",
+    "description": "••Tejidos sin fin [2006.01]"
+  },
+  {
+    "code": "D03D 3/06",
+    "description": "••Tejidos de anchura variable [2006.01]"
+  },
+  {
+    "code": "D03D 3/08",
+    "description": "••Tejidos arqueados, ondulados, o tejidos similares [2006.01]"
+  },
+  {
+    "code": "D03D 5/00",
+    "description": "Orillos [2006.01]"
+  },
+  {
+    "code": "D03D 7/00",
+    "description": "Tejidos concebidos para ser elásticos, es decir, que toman su forma después de las fuerzas de compresión [2006.01]"
+  },
+  {
+    "code": "D03D 9/00",
+    "description": "Tejidos calados [2006.01]"
+  },
+  {
+    "code": "D03D 11/00",
+    "description": "Tejidos dobles o con múltiples capas no previstos en otro lugar [2006.01]"
+  },
+  {
+    "code": "D03D 11/02",
+    "description": "••Tejidos formados con bolsillos, tubos, bucles, pliegues, plisados o solapas (tejidos formados por un solo tubo D03D 3/02) [2006.01]"
+  },
+  {
+    "code": "D03D 13/00",
+    "description": "Tejidos caracterizados por la disposición especial de los hilos de urdimbre o de trama, p. ej. con hilos de trama encurvados, con hilos de urdimbre discontinuos, con hilos de urdimbre o de trama en diagonal [2006.01]"
+  },
+  {
+    "code": "D03D 15/00",
+    "description": "Tejidos caracterizados por el material, la estructura o las propiedades de las fibras, hilos u otros elementos utilizados en la urdimbre o trama [2021.01]"
+  },
+  {
+    "code": "D03D 15/20",
+    "description": "••caracterizados por el material de las fibras que constituyen los hilos [2021.01]"
+  },
+  {
+    "code": "D03D 15/208",
+    "description": "••••basados en celulosa [2021.01]"
+  },
+  {
+    "code": "D03D 15/217",
+    "description": "••••••natural de las plantas, p. ej. algodón [2021.01]"
+  },
+  {
+    "code": "D03D 15/225",
+    "description": "••••••artificial, p.e. viscosa [2021.01]"
+  },
+  {
+    "code": "D03D 15/233",
+    "description": "••••basados en proteínas, p. ej. lana o seda [2021.01]"
+  },
+  {
+    "code": "D03D 15/242",
+    "description": "••••inorgánico, p. ej. basalto [2021.01]"
+  },
+  {
+    "code": "D03D 15/25",
+    "description": "••••••Metal [2021.01]"
+  },
+  {
+    "code": "D03D 15/258",
+    "description": "••••••••Metal noble [2021.01]"
+  },
+  {
+    "code": "D03D 15/267",
+    "description": "••••••Vidrio [2021.01]"
+  },
+  {
+    "code": "D03D 15/275",
+    "description": "••••••Fibras de carbono [2021.01]"
+  },
+  {
+    "code": "D03D 15/283",
+    "description": "••••a base de polímero sintético, p. ej. fibras de poliamida o poliéster (fibras artificiales a base de celulosa D03D 15/225) [2021.01]"
+  },
+  {
+    "code": "D03D 15/292",
+    "description": "••••Conjugados, es decir, fibras o filamentos bi-o multicomponente [2021.01]"
+  },
+  {
+    "code": "D03D 15/30",
+    "description": "••caracterizados por la estructura de las fibras o filamentos [2021.01]"
+  },
+  {
+    "code": "D03D 15/33",
+    "description": "••••Fibras ultrafinas, p. ej. microfibras o nanofibras [2021.01]"
+  },
+  {
+    "code": "D03D 15/37",
+    "description": "••••con sección transversal o forma de superficie específicas [2021.01]"
+  },
+  {
+    "code": "D03D 15/40",
+    "description": "••caracterizados por la estructura de los hilos [2021.01]"
+  },
+  {
+    "code": "D03D 15/41",
+    "description": "••••con retorcido especial [2021.01]"
+  },
+  {
+    "code": "D03D 15/43",
+    "description": "••••con diferentes diámetros [2021.01]"
+  },
+  {
+    "code": "D03D 15/44",
+    "description": "••••con sección transversal o forma de superficie específicas [2021.01]"
+  },
+  {
+    "code": "D03D 15/46",
+    "description": "••••••Hilos planos, p. ej. cintas o bandas [2021.01]"
+  },
+  {
+    "code": "D03D 15/47",
+    "description": "••••multicomponente, p. ej., hilados o hilos mezclados (fibras o filamentos multicomponente D03D 15/292) [2021.01]"
+  },
+  {
+    "code": "D03D 15/49",
+    "description": "••••texturizado (chenille D03D 27/18); rizado; ondulado [2021.01]"
+  },
+  {
+    "code": "D03D 15/50",
+    "description": "••caracterizados por las propiedades de los hilos [2021.01]"
+  },
+  {
+    "code": "D03D 15/507",
+    "description": "••••magnéticos [2021.01]"
+  },
+  {
+    "code": "D03D 15/513",
+    "description": "••••resistentes al calor o ignífugos [2021.01]"
+  },
+  {
+    "code": "D03D 15/52",
+    "description": "••••aislantes térmicos, p. ej.   calefactor o refrigerante [2021.01]"
+  },
+  {
+    "code": "D03D 15/527",
+    "description": "••••impermeables o repelentes al agua [2021.01]"
+  },
+  {
+    "code": "D03D 15/533",
+    "description": "••••antiestáticos; eléctricamente conductores [2021.01]"
+  },
+  {
+    "code": "D03D 15/54",
+    "description": "••••de colores [2021.01]"
+  },
+  {
+    "code": "D03D 15/547",
+    "description": "••••con funciones ópticas distintas del color, p. ej.  que comprenden fibras emisoras de luz [2021.01]"
+  },
+  {
+    "code": "D03D 15/553",
+    "description": "••••••con efecto metalizado (metal D03D 15/25) [2021.01]"
+  },
+  {
+    "code": "D03D 15/56",
+    "description": "••••elásticos [2021.01]"
+  },
+  {
+    "code": "D03D 15/567",
+    "description": "••••Formas o efectos de contracción [2021.01]"
+  },
+  {
+    "code": "D03D 15/573",
+    "description": "••••Resistencia a tracción [2021.01]"
+  },
+  {
+    "code": "D03D 15/58",
+    "description": "••••caracterizados por los coeficientes de fricción [2021.01]"
+  },
+  {
+    "code": "D03D 15/587",
+    "description": "••••adhesivo; termoadhesivo [2021.01]"
+  },
+  {
+    "code": "D03D 15/593",
+    "description": "••••Materiales rígidos, por ejemplo, mimbre o lama [2021.01]"
+  },
+  {
+    "code": "D03D 15/60",
+    "description": "••caracterizados por los elementos de urdimbre o trama distintos de los hilos [2021.01]"
+  },
+  {
+    "code": "D03D 15/62",
+    "description": "••••Cordones o cuerdas [2021.01]"
+  },
+  {
+    "code": "D03D 15/63",
+    "description": "••••Tiras, p. ej. tiras de piel [2021.01]"
+  },
+  {
+    "code": "D03D 15/65",
+    "description": "••••Papel [2021.01]"
+  },
+  {
+    "code": "D03D 15/67",
+    "description": "••••Hilos metálicos [2021.01]"
+  },
+  {
+    "code": "D03D 15/68",
+    "description": "••••Hilos de andamio, es decir, hilos retirados después de tejer [2021.01]"
+  },
+  {
+    "code": "D03D 17/00",
+    "description": "Tejidos que poseen las propiedades elásticas o extensibles debidas a la técnica del tejido (tejidos que utilizan hilos elásticos o extensibles D03D 15/56) [2006.01]"
+  },
+  {
+    "code": "D03D 19/00",
+    "description": "Tejidos de gasa o de falsa gasa [2006.01]"
+  },
+  {
+    "code": "D03D 21/00",
+    "description": "Tejidos en telares de plumetis o de recamar [2006.01]"
+  },
+  {
+    "code": "D03D 23/00",
+    "description": "Métodos generales de tejido que no son especiales para la producción de un tejido particular o para el empleo de un telar particular; Tejidos no previstos para un solo grupo [2006.01]"
+  },
+  {
+    "code": "D03D 25/00",
+    "description": "Tejidos no previstos en otro lugar [2006.01]"
+  },
+  {
+    "code": "D03D 27/00",
+    "description": "Tejidos con capa de pelos [2006.01]"
+  },
+  {
+    "code": "D03D 27/02",
+    "description": "••en los cuales la capa de pelos está formada por la cadena o la trama [2006.01]"
+  },
+  {
+    "code": "D03D 27/04",
+    "description": "••••Tejidos con capa de pelos por trama [2006.01]"
+  },
+  {
+    "code": "D03D 27/06",
+    "description": "••••Tejidos con capa de pelos por urdimbre [2006.01]"
+  },
+  {
+    "code": "D03D 27/08",
+    "description": "••••••Tejidos esponja [2006.01]"
+  },
+  {
+    "code": "D03D 27/10",
+    "description": "••••Tejidos elaborados cara contra cara, p. ej. terciopelo doble [2006.01]"
+  },
+  {
+    "code": "D03D 27/12",
+    "description": "••en los cuales los mechones de pelos están insertados durante el tejido [2006.01]"
+  },
+  {
+    "code": "D03D 27/14",
+    "description": "••••con mechones alrededor de los hilos de urdimbre [2006.01]"
+  },
+  {
+    "code": "D03D 27/16",
+    "description": "••••con mechones alrededor de los hilos de trama [2006.01]"
+  },
+  {
+    "code": "D03D 27/18",
+    "description": "••Tejidos chenilla [2006.01]"
+  },
+  {
+    "code": "D03D 29/00",
+    "description": "Telares de mano [2006.01]"
+  },
+  {
+    "code": "D03D 31/00",
+    "description": "Telares de plumetis o de espolinados u otros para la formación de motivos decorativos de género bordado en los tejidos [2006.01]"
+  },
+  {
+    "code": "D03D 33/00",
+    "description": "Telares múltiples, es decir, reunidos por dos o por tres con o sin mecanismo común (D03D 35/00 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "D03D 35/00",
+    "description": "Telares para tejidos estrechos, es decir, para el tejido de cintas u otros tejidos estrechos (D03D 47/00 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "D03D 37/00",
+    "description": "Telares circulares (telares para la elaboración de tejidos separados dispuestos en forma de círculo o de polígono D03D 33/00) [2006.01]"
+  },
+  {
+    "code": "D03D 39/00",
+    "description": "Telares para el tejido de capa de pelos [2006.01]"
+  },
+  {
+    "code": "D03D 39/02",
+    "description": "••Telares Axminster, es decir, sobre los que están insertados los mechones de pelos durante el tejido [2006.01]"
+  },
+  {
+    "code": "D03D 39/04",
+    "description": "••••Telares Axminster de bobinas [2006.01]"
+  },
+  {
+    "code": "D03D 39/06",
+    "description": "••••••Bastidores para tubos o bobinas de hilo de mechón [2006.01]"
+  },
+  {
+    "code": "D03D 39/08",
+    "description": "••••Telares Axminster de pinzas [2006.01]"
+  },
+  {
+    "code": "D03D 39/10",
+    "description": "••Telares de hierros para tapicería, p. ej. para la elaboración de alfombras de terciopelo, moquetado Bruselas o Wilton, estando formado el pelo con la ayuda de hierros por efecto de trama [2006.01]"
+  },
+  {
+    "code": "D03D 39/12",
+    "description": "••••Mecanismos para el mando de los hierros de terciopelo [2006.01]"
+  },
+  {
+    "code": "D03D 39/14",
+    "description": "••••Estructura de los hierros de terciopelos, p. ej. hierros de terciopelo que cortan [2006.01]"
+  },
+  {
+    "code": "D03D 39/16",
+    "description": "••Telares de doble peluche, es decir, para la elaboración de dos tejidos de capa de pelos cara contra cara [2006.01]"
+  },
+  {
+    "code": "D03D 39/18",
+    "description": "••••Separación de dos capas de peluche, p. ej. por corte [2006.01]"
+  },
+  {
+    "code": "D03D 39/20",
+    "description": "••Telares que forman el pelo con la ayuda de hierros por efecto de cadena [2006.01]"
+  },
+  {
+    "code": "D03D 39/22",
+    "description": "••Telares para tejidos esponja [2006.01]"
+  },
+  {
+    "code": "D03D 39/24",
+    "description": "••Dispositivos para cortar el pelo en el telar (hierros de terciopelo que cortan D03D 39/14; separación de dos capas de peluche D03D 39/18) [2006.01]"
+  },
+  {
+    "code": "D03D 41/00",
+    "description": "Telares no previstos en otro lugar, p. ej. para tejer hilo de chenilla; Partes constitutivas particulares de estos telares [2006.01]"
+  },
+  {
+    "code": "D03D 43/00",
+    "description": "Telares con cajas de varias tramas [2006.01]"
+  },
+  {
+    "code": "D03D 43/02",
+    "description": "••con cajas montantes [2006.01]"
+  },
+  {
+    "code": "D03D 43/04",
+    "description": "••••Mecanismos de mando [2006.01]"
+  },
+  {
+    "code": "D03D 43/06",
+    "description": "••con cajas rotativas [2006.01]"
+  },
+  {
+    "code": "D03D 43/08",
+    "description": "••••Mecanismos de mando [2006.01]"
+  },
+  {
+    "code": "D03D 43/10",
+    "description": "••Dispositivos de retención de la trama, es decir, medios para evitar el enmaramiento de los hilos de trama [2006.01]"
+  },
+  {
+    "code": "D03D 45/00",
+    "description": "Telares con cambio de trama automático (para los telares de tejidos estrechos D03D 35/00, para los telares circulares D03D 37/00) [2006.01]"
+  },
+  {
+    "code": "D03D 45/02",
+    "description": "••Mando del cambio de canilla [2006.01]"
+  },
+  {
+    "code": "D03D 45/04",
+    "description": "••••Pulsadores de canillas u otros detectores para comenzar el cambio de canilla (para tramas D03D 51/34) [2006.01]"
+  },
+  {
+    "code": "D03D 45/06",
+    "description": "••••••mecanismos [2006.01]"
+  },
+  {
+    "code": "D03D 45/08",
+    "description": "••••••••del tipo de deslizamiento [2006.01]"
+  },
+  {
+    "code": "D03D 45/10",
+    "description": "••••••eléctricos [2006.01]"
+  },
+  {
+    "code": "D03D 45/12",
+    "description": "••••••ópticos [2006.01]"
+  },
+  {
+    "code": "D03D 45/14",
+    "description": "••••reservando el momento del cambio o de la inserción del color necesario hasta que la lanzadera agotada vuelva sobre el lado del telar donde tiene lugar el cambio [2006.01]"
+  },
+  {
+    "code": "D03D 45/16",
+    "description": "••••••eligiendo así la trama del color deseado [2006.01]"
+  },
+  {
+    "code": "D03D 45/18",
+    "description": "••••Pulsadores de lanzadera u otros dispositivos para evitar el cambio de canilla si la lanzadera está en mala posición en la caja de lanzaderas (dispositivos de parada de lanzadera D03D 51/40) [2006.01]"
+  },
+  {
+    "code": "D03D 45/20",
+    "description": "••Cambio de bobina, canilla u otro contenido de la lanzadera [2006.01]"
+  },
+  {
+    "code": "D03D 45/22",
+    "description": "••••efectuados con la lanzadera en la caja de lanzaderas normal [2006.01]"
+  },
+  {
+    "code": "D03D 45/24",
+    "description": "••••efectuados de otro modo que en la caja normal [2006.01]"
+  },
+  {
+    "code": "D03D 45/26",
+    "description": "••••Portacanillas [2006.01]"
+  },
+  {
+    "code": "D03D 45/28",
+    "description": "••••••para un solo tipo de hilo, p. ej. del mismo color [2006.01]"
+  },
+  {
+    "code": "D03D 45/30",
+    "description": "••••••••rotativos [2006.01]"
+  },
+  {
+    "code": "D03D 45/32",
+    "description": "••••••para varios tipos de hilos, p. ej. de varios colores [2006.01]"
+  },
+  {
+    "code": "D03D 45/34",
+    "description": "••Cambio de lanzadera [2006.01]"
+  },
+  {
+    "code": "D03D 45/36",
+    "description": "••••una nueva lanzadera que reemplaza la lanzadera agotada en el mismo compartimiento de la caja de lanzaderas [2006.01]"
+  },
+  {
+    "code": "D03D 45/38",
+    "description": "••••Caja de lanzaderas con comportamiento suplementario utilizado solamente durante el cambio de lanzadera [2006.01]"
+  },
+  {
+    "code": "D03D 45/40",
+    "description": "••••••la lanzadera agotada es recibida en el compartimiento normal y la nueva lanzadera es apartada del compartimiento suplementario [2006.01]"
+  },
+  {
+    "code": "D03D 45/42",
+    "description": "••••••la lanzadera agotada es recibida en el compartimiento suplementario y la nueva lanzadera es apartada del compartimiento normal [2006.01]"
+  },
+  {
+    "code": "D03D 45/44",
+    "description": "••••Portacanillas [2006.01]"
+  },
+  {
+    "code": "D03D 45/46",
+    "description": "••••••para un solo tipo de hilo, p. ej. del mismo color [2006.01]"
+  },
+  {
+    "code": "D03D 45/48",
+    "description": "••••••para varios tipos de hilo, p. ej. de varios colores [2006.01]"
+  },
+  {
+    "code": "D03D 45/50",
+    "description": "••Corte, retención, manipulación o eliminación de hilos de trama flotantes (extremos de trama) [2006.01]"
+  },
+  {
+    "code": "D03D 45/52",
+    "description": "••••Corte de la trama de la lanzadera agotada cerca de la lanzadera y retenida del extremo unido al tejido [2006.01]"
+  },
+  {
+    "code": "D03D 45/54",
+    "description": "••••Corte de la nueva trama y retenida del extremo agregado al tejido [2006.01]"
+  },
+  {
+    "code": "D03D 45/56",
+    "description": "••••Corte de las tramas agotadas y nuevas en el orillo [2006.01]"
+  },
+  {
+    "code": "D03D 45/58",
+    "description": "••••Eliminación de la reserva de punta, es decir, la nueva extremidad de trama de la nueva canilla [2006.01]"
+  },
+  {
+    "code": "D03D 45/60",
+    "description": "••••••principalmente por flujo del aire o aspiración [2006.01]"
+  },
+  {
+    "code": "D03D 45/62",
+    "description": "••••Eliminación de los desechos que provienen de los extremos de trama cortados (D03D 45/58 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "D03D 47/00",
+    "description": "Telares en los cuales la bobina de trama no pasa a través de la calada, p. ej. telares sin lanzadera, telares con lanzadera de pinza, telares con falsa lanzadera (telares circulares D03D 37/00) [2006.01]"
+  },
+  {
+    "code": "D03D 47/02",
+    "description": "••en los cuales se insertan bucles de hilo de trama continua, es decir, pasadas dobles (D03D 47/27 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "D03D 47/04",
+    "description": "••••con ayuda de una aguja que va y viene cuyo ojete está provisto de hilo permanentemente [2006.01]"
+  },
+  {
+    "code": "D03D 47/06",
+    "description": "••••con ayuda de una aguja pivotante cuyo ojete está provisto de hilo permanentemente [2006.01]"
+  },
+  {
+    "code": "D03D 47/08",
+    "description": "••••••el recorrido de la aguja se encuentra modificado por excéntricas, varillas u otros medios [2006.01]"
+  },
+  {
+    "code": "D03D 47/10",
+    "description": "••••por una aguja bifurcada que empuja el bucle de la trama a través de la calada [2006.01]"
+  },
+  {
+    "code": "D03D 47/12",
+    "description": "••en los cuales simples pasadas de hilo de trama son insertadas, es decir, con formación de la calada entre cada pasada (D03D 47/27 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "D03D 47/14",
+    "description": "••••por una aguja de pinza tomando la extremidad de la trama a través de la calada [2006.01]"
+  },
+  {
+    "code": "D03D 47/16",
+    "description": "••••por una aguja de pinza penetrando de vacío en la calada y tirando la trama a su vuelta [2006.01]"
+  },
+  {
+    "code": "D03D 47/18",
+    "description": "••••por dos dispositivos de inserción de la trama que se encuentran en medio o hacia la mitad de la calada y transfiriendo la trama del uno al otro [2006.01]"
+  },
+  {
+    "code": "D03D 47/20",
+    "description": "••••Características estructurales del dispositivo de inserción del hilo sobre los elementos de inserción [2006.01]"
+  },
+  {
+    "code": "D03D 47/22",
+    "description": "••••••concebidos para insertar el bucle de trama parcialmente insertado en la calada y levantarlo inmediatamente [2006.01]"
+  },
+  {
+    "code": "D03D 47/23",
+    "description": "••••••Pinzas de hilo (en las falsas lanzaderas o las lanzaderas de pinza D03J 5/06) [2006.01]"
+  },
+  {
+    "code": "D03D 47/24",
+    "description": "••••mediante una pinza o falsa lanzadera (telares del tipo de calada con ondulación móvil D03D 47/26; mecanismos de inserción para lanzaderas D03D 49/24) [2006.01]"
+  },
+  {
+    "code": "D03D 47/25",
+    "description": "••••••insertadas sobre un solo lado del telar [2006.01]"
+  },
+  {
+    "code": "D03D 47/26",
+    "description": "••••Telares del tipo de calada con ondulación móvil [2006.01]"
+  },
+  {
+    "code": "D03D 47/27",
+    "description": "••Mecanismo de conducción o de guiado para la inserción de la trama [2006.01]"
+  },
+  {
+    "code": "D03D 47/28",
+    "description": "••en los cuales la trama misma es proyectada en la calada [2006.01]"
+  },
+  {
+    "code": "D03D 47/30",
+    "description": "••••por inyección de gas [2006.01]"
+  },
+  {
+    "code": "D03D 47/32",
+    "description": "••••por inyección de líquido [2006.01]"
+  },
+  {
+    "code": "D03D 47/34",
+    "description": "••Transporte de la trama entre el punto de almacenaje y el medio de inserción [2006.01]"
+  },
+  {
+    "code": "D03D 47/36",
+    "description": "••••Medida y corte del hilo de trama [2006.01]"
+  },
+  {
+    "code": "D03D 47/38",
+    "description": "••••Mecanismo de dibujo de trama [2006.01]"
+  },
+  {
+    "code": "D03D 47/39",
+    "description": "••en los cuales se trabajan los juncos, la paja, laminillas, material para la fabricación de sombreros, o materiales análogos [2006.01]"
+  },
+  {
+    "code": "D03D 47/40",
+    "description": "••Formación de orillos [2006.01]"
+  },
+  {
+    "code": "D03D 47/42",
+    "description": "••••por tricotado o entrecruzamiento de bucles de tramas [2006.01]"
+  },
+  {
+    "code": "D03D 47/44",
+    "description": "••••••con hilo de orillo suplementario [2006.01]"
+  },
+  {
+    "code": "D03D 47/46",
+    "description": "••••con ayuda de una lanzadera de orillo u otro dispositivo que pasa el hilo del orillo a través de bucle de trama (por tricotado D03D 47/44) [2006.01]"
+  },
+  {
+    "code": "D03D 47/48",
+    "description": "••••insertando la extremidad de trama cortada en la calada subsiguiente, p. ej. por regreso, por soplada [2006.01]"
+  },
+  {
+    "code": "D03D 47/50",
+    "description": "••••por adherencia [2006.01]"
+  },
+  {
+    "code": "D03D 49/00",
+    "description": "Detalles o características constructivas no adaptadas especialmente a los telares de un tipo determinado [2006.01]"
+  },
+  {
+    "code": "D03D 49/02",
+    "description": "••Estructura del bastidor del telar [2006.01]"
+  },
+  {
+    "code": "D03D 49/04",
+    "description": "••Control de la tensión de la urdimbre o del tejido [2006.01]"
+  },
+  {
+    "code": "D03D 49/06",
+    "description": "••••Mecanismos de desenrollado de la urdimbre [2006.01]"
+  },
+  {
+    "code": "D03D 49/08",
+    "description": "••••••Frenos de carretes de la urdimbre [2006.01]"
+  },
+  {
+    "code": "D03D 49/10",
+    "description": "••••••Arrastre de carretes de urdimbre para desarrollar la misma [2006.01]"
+  },
+  {
+    "code": "D03D 49/12",
+    "description": "••••Mando de la tensión de la urdimbre por otros medios que el mecanismo de desarrollo de la urdimbre [2006.01]"
+  },
+  {
+    "code": "D03D 49/14",
+    "description": "••••••Compensación de diferencias de tensión durante la formación de la calada [2006.01]"
+  },
+  {
+    "code": "D03D 49/16",
+    "description": "••••••Urdimbre alimentada por estizolas [2006.01]"
+  },
+  {
+    "code": "D03D 49/18",
+    "description": "••••Dispositivos para indicar la tensión de la urdimbre [2006.01]"
+  },
+  {
+    "code": "D03D 49/20",
+    "description": "••••Mecanismos de enrollamiento del tejido; Plegadores del tejido [2006.01]"
+  },
+  {
+    "code": "D03D 49/22",
+    "description": "••••Barra portahilos; Varillas de cruce; Enjullos [2006.01]"
+  },
+  {
+    "code": "D03D 49/24",
+    "description": "••Mecanismos para insertar la lanzadera en la calada [2006.01]"
+  },
+  {
+    "code": "D03D 49/26",
+    "description": "••••Mecanismos de recogida, p. ej. para propulsar las lanzaderas de pinzas o las falsas lanzaderas [2006.01]"
+  },
+  {
+    "code": "D03D 49/28",
+    "description": "••••••Mecanismos de arrastramiento del brazo de recogida [2006.01]"
+  },
+  {
+    "code": "D03D 49/30",
+    "description": "••••••••mandado por excéntrica [2006.01]"
+  },
+  {
+    "code": "D03D 49/32",
+    "description": "••••••••mandado por resorte armado previamente o por un sistema equivalente [2006.01]"
+  },
+  {
+    "code": "D03D 49/34",
+    "description": "••••••••mandado por presión de gas o de líquido [2006.01]"
+  },
+  {
+    "code": "D03D 49/36",
+    "description": "••••••Tiratacos; Dispositivos de parada correspondientes (correas de parada D03D 49/40) [2006.01]"
+  },
+  {
+    "code": "D03D 49/38",
+    "description": "••••••Baqueta tiratacos; Dispositivos de parada correspondientes (correas de parada D03D 49/40) [2006.01]"
+  },
+  {
+    "code": "D03D 49/40",
+    "description": "••••••Correas de parada; Abrazaderas; Elementos constitutivos similares de correas [2006.01]"
+  },
+  {
+    "code": "D03D 49/42",
+    "description": "••••en los cuales la lanzadera es propulsada por presión de gas o de líquido [2006.01]"
+  },
+  {
+    "code": "D03D 49/44",
+    "description": "••••en los cuales la lanzadera es propulsada por medios eléctricos o magnéticos [2006.01]"
+  },
+  {
+    "code": "D03D 49/46",
+    "description": "••••en los cuales la lanzadera es empujada o sacada positivamente (telares del tipo de calada con ondulaciones móviles D03D 47/26) [2006.01]"
+  },
+  {
+    "code": "D03D 49/48",
+    "description": "••••que ponen la lanzadera en posición de inserción de la trama [2006.01]"
+  },
+  {
+    "code": "D03D 49/50",
+    "description": "••••Dispositivos o estructuras que se refieren a la inserción de la trama no previstos en otro lugar [2006.01]"
+  },
+  {
+    "code": "D03D 49/52",
+    "description": "••Cajas de lanzaderas (cajas de varias tramas D03D 43/00) [2006.01]"
+  },
+  {
+    "code": "D03D 49/54",
+    "description": "••••Medios de frenado; Lengüetas [2006.01]"
+  },
+  {
+    "code": "D03D 49/56",
+    "description": "••••••Mecanismos de reducción de la presión, sobre la lanzadera, es decir, reducción de la presión ejercida por la lengüeta antes de la inserción de la trama [2006.01]"
+  },
+  {
+    "code": "D03D 49/58",
+    "description": "••Guarda-lanzaderas [2006.01]"
+  },
+  {
+    "code": "D03D 49/60",
+    "description": "••Estructura o funcionamiento del peine [2006.01]"
+  },
+  {
+    "code": "D03D 49/62",
+    "description": "••••Rastrillos montados en el peine [2006.01]"
+  },
+  {
+    "code": "D03D 49/64",
+    "description": "••••en los cuales el peine separa o se mueve lentamente durante la inserción de la trama [2006.01]"
+  },
+  {
+    "code": "D03D 49/66",
+    "description": "••••Caminos de la lanzadera [2006.01]"
+  },
+  {
+    "code": "D03D 49/68",
+    "description": "••Rastrillos o rastrillos-peines no montados en el peine (dispositivos de parada para peine móvil D03D 51/42) [2006.01]"
+  },
+  {
+    "code": "D03D 49/70",
+    "description": "••Dispositivos para cortar los hilos de trama (corte de la trama sobre telares de cambio de canilla automática D03D 45/50) [2006.01]"
+  },
+  {
+    "code": "D03D 51/00",
+    "description": "Dispositivos de accionamiento, de puesta en marcha o parada; Movimientos de parada automática [2006.01]"
+  },
+  {
+    "code": "D03D 51/02",
+    "description": "••Disposiciones generales de los mecanismos de accionamiento [2006.01]"
+  },
+  {
+    "code": "D03D 51/04",
+    "description": "••Mandos manuales [2006.01]"
+  },
+  {
+    "code": "D03D 51/06",
+    "description": "••que utilizan métodos particulares [2006.01]"
+  },
+  {
+    "code": "D03D 51/08",
+    "description": "••••de parada de un punto dado del ciclo de tejidos o desplazándose hacia ese punto después de la parada [2006.01]"
+  },
+  {
+    "code": "D03D 51/10",
+    "description": "••••de parada brusca [2006.01]"
+  },
+  {
+    "code": "D03D 51/12",
+    "description": "••para regular la velocidad [2006.01]"
+  },
+  {
+    "code": "D03D 51/14",
+    "description": "••para reducir temporalmente la velocidad [2006.01]"
+  },
+  {
+    "code": "D03D 51/16",
+    "description": "••para hacer variar la velocidad cíclicamente [2006.01]"
+  },
+  {
+    "code": "D03D 51/18",
+    "description": "••Movimientos de parada automática [2006.01]"
+  },
+  {
+    "code": "D03D 51/20",
+    "description": "••••Para urdimbre [2006.01]"
+  },
+  {
+    "code": "D03D 51/22",
+    "description": "••••••mecánicos [2006.01]"
+  },
+  {
+    "code": "D03D 51/24",
+    "description": "••••••••en los cuales las laminillas para urdimbres están suspendidas sobre los hilos de cadena individuales o sobre pequeños grupos de hilo [2006.01]"
+  },
+  {
+    "code": "D03D 51/26",
+    "description": "••••••••Lizos detectores [2006.01]"
+  },
+  {
+    "code": "D03D 51/28",
+    "description": "••••••eléctricos [2006.01]"
+  },
+  {
+    "code": "D03D 51/30",
+    "description": "••••••••en los cuales las laminillas para urdimbres están suspendidas sobre hilos de cadena individuales o sobre pequeños grupos de hilo [2006.01]"
+  },
+  {
+    "code": "D03D 51/32",
+    "description": "••••••••Lizos detectores [2006.01]"
+  },
+  {
+    "code": "D03D 51/34",
+    "description": "••••Paratramas [2006.01]"
+  },
+  {
+    "code": "D03D 51/36",
+    "description": "••••••Horquillas de paratramas centrales [2006.01]"
+  },
+  {
+    "code": "D03D 51/38",
+    "description": "••••••Horquillas de paratramas laterales [2006.01]"
+  },
+  {
+    "code": "D03D 51/40",
+    "description": "••••Movimientos de parada de la lanzadera [2006.01]"
+  },
+  {
+    "code": "D03D 51/42",
+    "description": "••••••Mecanismos de peine móvil [2006.01]"
+  },
+  {
+    "code": "D03D 51/44",
+    "description": "••••interviniendo en caso de funcionamiento defectuoso de los mecanismos del telar [2006.01]"
+  },
+  {
+    "code": "D03D 51/46",
+    "description": "••••••de mecanismos de formación de la calada [2006.01]"
+  }
+]

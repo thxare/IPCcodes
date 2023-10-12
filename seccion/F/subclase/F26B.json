@@ -1,0 +1,522 @@
+[
+  {
+    "code": "F26B 1/00",
+    "description": "Tratamiento preliminar de materiales sólidos o de objetos para facilitar el secado [2006.01]"
+  },
+  {
+    "code": "F26B 3/00",
+    "description": "Procedimientos de secado de materiales sólidos u objetos que implican la utilización de calor (en máquinas o aparatos particulares F26B 9/00-F26B 19/00) [2006.01]"
+  },
+  {
+    "code": "F26B 3/02",
+    "description": "••por convección, es decir, siendo el calor transmitido desde una fuente de calor a los materiales u objetos que van a ser secados mediante un gas o vapor, p. ej. aire [2006.01]"
+  },
+  {
+    "code": "F26B 3/04",
+    "description": "••••circulando el gas o vapor sobre o alrededor de los materiales u objetos a secar (F26B 3/14 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F26B 3/06",
+    "description": "••••circulando el gas o el vapor a través de los materiales u objetos a secar (F26B 3/14 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F26B 3/08",
+    "description": "••••••de modo que se logra desagregar el material, p. ej. para formar un lecho fluidizado [2006.01]"
+  },
+  {
+    "code": "F26B 3/084",
+    "description": "••••••••con intercambio de calor en el seno del lecho fluidizado [2006.01]"
+  },
+  {
+    "code": "F26B 3/088",
+    "description": "••••••••utilizando partículas inertes estabilizadas térmicamente [2006.01]"
+  },
+  {
+    "code": "F26B 3/092",
+    "description": "••••••••agitando el lecho fluidizado, p. ej. por vibración o por pulsación [2006.01]"
+  },
+  {
+    "code": "F26B 3/097",
+    "description": "••••••••utilizando un campo magnético para estabilizar el lecho fluidizado [2006.01]"
+  },
+  {
+    "code": "F26B 3/10",
+    "description": "••••arrastrando los gases o el vapor los materiales u objetos a secar [2006.01]"
+  },
+  {
+    "code": "F26B 3/12",
+    "description": "••••••en forma pulverizada [2006.01]"
+  },
+  {
+    "code": "F26B 3/14",
+    "description": "••••siendo los materiales u objetos a secar desplazados por gravedad [2006.01]"
+  },
+  {
+    "code": "F26B 3/16",
+    "description": "••••••circulando a contracorriente gas o de vapor [2006.01]"
+  },
+  {
+    "code": "F26B 3/18",
+    "description": "••por conducción, es decir, siendo el calor transmitido desde una fuente de calor, p. ej. desde una llama de gas, a los materiales u objetos a secar por contacto directo [2006.01]"
+  },
+  {
+    "code": "F26B 3/20",
+    "description": "••••siendo la fuente de calor una superficie calentada (F26B 3/22 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F26B 3/22",
+    "description": "••••estando la fuente de calor y los materiales u objetos a secar animados de un movimiento relativo, p. ej. de vibración [2006.01]"
+  },
+  {
+    "code": "F26B 3/24",
+    "description": "••••••siendo el movimiento una rotación [2006.01]"
+  },
+  {
+    "code": "F26B 3/26",
+    "description": "••••••obteniéndose el movimiento por gravedad [2006.01]"
+  },
+  {
+    "code": "F26B 3/28",
+    "description": "••por radiación, p. ej. del sol [2006.01]"
+  },
+  {
+    "code": "F26B 3/30",
+    "description": "••••procedente de elementos emisores de rayos infrarrojos [2006.01]"
+  },
+  {
+    "code": "F26B 3/32",
+    "description": "••por desarrollo de calor dentro de los materiales u objetos a secar [2006.01]"
+  },
+  {
+    "code": "F26B 3/34",
+    "description": "••••utilizando efectos eléctricos [2006.01]"
+  },
+  {
+    "code": "F26B 3/347",
+    "description": "••••••Calentamiento electromagnético, p. ej. calentamiento por inducción o por microondas [2006.01]"
+  },
+  {
+    "code": "F26B 3/353",
+    "description": "••••••Calentamiento por resistencia [2006.01]"
+  },
+  {
+    "code": "F26B 3/36",
+    "description": "••••utilizando efectos mecánicos, p. ej. por fricción (utilizando vibraciones ultrasónicas F26B 5/02) [2006.01]"
+  },
+  {
+    "code": "F26B 5/00",
+    "description": "Procedimientos de secado de materiales sólidos o de objetos sin utilización de calor (separación de los líquidos de los sólidos por tamizado B01D; desplazamiento de líquidos en sólidos húmedos por otros líquidos, p. ej. agua por alcohol, B01D 12/00; secado por electroforesis B01J) [2006.01]"
+  },
+  {
+    "code": "F26B 5/02",
+    "description": "••utilizando vibraciones ultrasónicas [2006.01]"
+  },
+  {
+    "code": "F26B 5/04",
+    "description": "••por evaporación o sublimación de la humedad bajo presión reducida, p. ej. en vacío [2006.01]"
+  },
+  {
+    "code": "F26B 5/06",
+    "description": "••••con congelación [2006.01]"
+  },
+  {
+    "code": "F26B 5/08",
+    "description": "••por centrifugación [2006.01]"
+  },
+  {
+    "code": "F26B 5/10",
+    "description": "••••con congelación [2006.01]"
+  },
+  {
+    "code": "F26B 5/12",
+    "description": "••por succión [2006.01]"
+  },
+  {
+    "code": "F26B 5/14",
+    "description": "••por aplicación de una presión, p. ej. escurrido; cepillado; enjugado [2006.01]"
+  },
+  {
+    "code": "F26B 5/16",
+    "description": "••por contacto con cuerpos absorbentes, o adsorbentes, p. ej. molde absorbente; por mezcla con materiales absorbentes o adsorbentes [2006.01]"
+  },
+  {
+    "code": "F26B 7/00",
+    "description": "Procedimientos de secado de materiales sólidos o de objetos utilizando una combinación de procedimientos no cubiertos por uno solo de los grupos F26B 3/00 o F26B 5/00 [2006.01]"
+  },
+  {
+    "code": "F26B 9/00",
+    "description": "Máquinas o aparatos para el secado de materiales sólidos o de objetos en reposo o animados únicamente de una agitación local; Aireación de los armarios domésticos [2006.01]"
+  },
+  {
+    "code": "F26B 9/02",
+    "description": "••en edificios (tipos particulares de edificios E04H) [2006.01]"
+  },
+  {
+    "code": "F26B 9/04",
+    "description": "••en prensas o en dispositivos de sujeción [2006.01]"
+  },
+  {
+    "code": "F26B 9/06",
+    "description": "••en cámaras o tambores estacionarios [2006.01]"
+  },
+  {
+    "code": "F26B 9/08",
+    "description": "••••conteniendo dispositivos de agitación [2006.01]"
+  },
+  {
+    "code": "F26B 9/10",
+    "description": "••al aire libre; en cubetas o sobre mesas en recintos cerrados; Secado de pilas de un material a granel [2006.01]"
+  },
+  {
+    "code": "F26B 11/00",
+    "description": "Máquinas o aparatos con un movimiento no progresivo para el secado de materiales sólidos o de objetos [2006.01]"
+  },
+  {
+    "code": "F26B 11/02",
+    "description": "••en tambores móviles u otros recipientes casi cerrados (F26B 11/18 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F26B 11/04",
+    "description": "••••girando alrededor de un eje horizontal o ligeramente inclinado [2006.01]"
+  },
+  {
+    "code": "F26B 11/06",
+    "description": "••••••con dispositivos agitadores fijos [2006.01]"
+  },
+  {
+    "code": "F26B 11/08",
+    "description": "••••girando alrededor de un eje vertical o muy inclinado [2006.01]"
+  },
+  {
+    "code": "F26B 11/10",
+    "description": "••••••con dispositivos agitadores fijos [2006.01]"
+  },
+  {
+    "code": "F26B 11/12",
+    "description": "••en tambores u otros recipientes casi cerrados, fijos, con dispositivos agitadores móviles (F26B 11/22 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F26B 11/14",
+    "description": "••••desplazándose el dispositivo agitador en un plano horizontal o ligeramente inclinado [2006.01]"
+  },
+  {
+    "code": "F26B 11/16",
+    "description": "••••desplazándose el dispositivo agitador en un plano vertical o muy inclinado [2006.01]"
+  },
+  {
+    "code": "F26B 11/18",
+    "description": "••en o sobre plataformas, bandejas, cubetas u otros receptáculos casi abiertos, móviles [2006.01]"
+  },
+  {
+    "code": "F26B 11/20",
+    "description": "••••con dispositivos agitadores fijos [2006.01]"
+  },
+  {
+    "code": "F26B 11/22",
+    "description": "••en o sobre plataformas, bandejas, cubetas u otros receptáculos casi abiertos, fijos, con dispositivos agitadores móviles [2006.01]"
+  },
+  {
+    "code": "F26B 13/00",
+    "description": "Máquinas o aparatos con movimiento progresivo, para el secado de tejidos, fibras, hilos u otros materiales de gran longitud [2006.01]"
+  },
+  {
+    "code": "F26B 13/02",
+    "description": "••con movimiento en línea recta [2006.01]"
+  },
+  {
+    "code": "F26B 13/04",
+    "description": "••••utilizando rodillos [2006.01]"
+  },
+  {
+    "code": "F26B 13/06",
+    "description": "••con un movimiento sinuoso o en zig-zag [2006.01]"
+  },
+  {
+    "code": "F26B 13/08",
+    "description": "••••utilizando rodillos [2006.01]"
+  },
+  {
+    "code": "F26B 13/10",
+    "description": "••Disposiciones para la alimentación, el calentamiento o el soporte de los materiales; Control del movimiento, la tensión o la posición de los materiales (procesos de calentamiento F26B 3/00) [2006.01]"
+  },
+  {
+    "code": "F26B 13/12",
+    "description": "••••Control del movimiento, la tensión o la posición del material [2006.01]"
+  },
+  {
+    "code": "F26B 13/14",
+    "description": "••••Rodillos (superficies absorbentes o adsorbentes F26B 13/26) [2006.01]"
+  },
+  {
+    "code": "F26B 13/16",
+    "description": "••••••perforados (F26B 13/18 tiene prioridad; para ejercer una succión F26B 13/30) [2006.01]"
+  },
+  {
+    "code": "F26B 13/18",
+    "description": "••••••calentados; enfriados [2006.01]"
+  },
+  {
+    "code": "F26B 13/20",
+    "description": "••••Soporte de los materiales mediante chorros de fluido, p. ej. aire [2006.01]"
+  },
+  {
+    "code": "F26B 13/22",
+    "description": "••••Disposición de las llamas de gas [2006.01]"
+  },
+  {
+    "code": "F26B 13/24",
+    "description": "••Dispositivos para los aparatos que aplican procedimientos de secado que no implican calentamiento (procedimientos en sí\n\t\t\t\t\t\t\t\t\t\tF26B 5/00) [2006.01]"
+  },
+  {
+    "code": "F26B 13/26",
+    "description": "••••utilizando superficies absorbentes o adsorbentes, p. ej. bandas o revestimientos sobre los rodillos [2006.01]"
+  },
+  {
+    "code": "F26B 13/28",
+    "description": "••••para aplicación de una presión; para el cepillado; para el enjugado [2006.01]"
+  },
+  {
+    "code": "F26B 13/30",
+    "description": "••••para ejercer una succión, p. ej. a través de rodillos perforados [2006.01]"
+  },
+  {
+    "code": "F26B 15/00",
+    "description": "Máquinas o aparatos con movimiento progresivo para el secado de objetos; Máquinas o aparatos con movimiento progresivo, para el secado de lotes de un material de forma compacta (F26B 13/00, F26B 17/00  tienen prioridad; transportadores en general B65G) [2006.01]"
+  },
+  {
+    "code": "F26B 15/02",
+    "description": "••con un movimiento circular total o parcial [2006.01]"
+  },
+  {
+    "code": "F26B 15/04",
+    "description": "••••en un plano horizontal [2006.01]"
+  },
+  {
+    "code": "F26B 15/06",
+    "description": "••••••implicando varios planos, unos encima de otros [2006.01]"
+  },
+  {
+    "code": "F26B 15/08",
+    "description": "••••en un plano vertical [2006.01]"
+  },
+  {
+    "code": "F26B 15/10",
+    "description": "••con un movimiento según una trayectoria compuesta de una o varias rectas, p. ej. combinada [2006.01]"
+  },
+  {
+    "code": "F26B 15/12",
+    "description": "••••siendo todas las líneas horizontales o ligeramente inclinadas [2006.01]"
+  },
+  {
+    "code": "F26B 15/14",
+    "description": "••••••siendo llevados los objetos o los lotes de material por bandejas o bastidores [2006.01]"
+  },
+  {
+    "code": "F26B 15/16",
+    "description": "••••••siendo llevados los objetos o los lotes de material por vagonetas [2006.01]"
+  },
+  {
+    "code": "F26B 15/18",
+    "description": "••••••siendo llevados los objetos o los lotes de material por correas sin fin [2006.01]"
+  },
+  {
+    "code": "F26B 15/20",
+    "description": "••••siendo las líneas completamente verticales o muy inclinadas [2006.01]"
+  },
+  {
+    "code": "F26B 15/22",
+    "description": "••••••siendo llevados los objetos o los lotes de material por correas sin fin [2006.01]"
+  },
+  {
+    "code": "F26B 15/24",
+    "description": "••••••••siguiendo una trayectoria en zig-zag [2006.01]"
+  },
+  {
+    "code": "F26B 15/26",
+    "description": "••con un movimiento según una trayectoria helicoidal [2006.01]"
+  },
+  {
+    "code": "F26B 17/00",
+    "description": "Máquinas o aparatos con movimiento progresivo para el secado de un material a granel, en estado plástico o en forma fluidificada, p. ej. gránulos, fibras cortadas (F26B 13/00 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F26B 17/02",
+    "description": "••consiguiéndose el movimiento mediante correas que conducen el material; consiguiéndose el movimiento mediante correas que empujan el material sobre superficies fijas [2006.01]"
+  },
+  {
+    "code": "F26B 17/04",
+    "description": "••••siendo las correas completamente horizontales o ligeramente inclinadas (F26B 17/08 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F26B 17/06",
+    "description": "••••siendo las correas completamente verticales o muy inclinadas (F26B 17/08 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F26B 17/08",
+    "description": "••••estando las correas colocadas según una trayectoria sinuosa o en zig-zag [2006.01]"
+  },
+  {
+    "code": "F26B 17/10",
+    "description": "••consiguiéndose el movimiento por corrientes de fluidos, p. ej. procedente de una boquilla (F26B 3/08 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F26B 17/12",
+    "description": "••consiguiéndose el movimiento exclusivamente por gravedad [2006.01]"
+  },
+  {
+    "code": "F26B 17/14",
+    "description": "••••desplazándose los materiales a través de una contracorriente de gases [2006.01]"
+  },
+  {
+    "code": "F26B 17/16",
+    "description": "••••desplazándose los materiales en presencia de una superficie caliente [2006.01]"
+  },
+  {
+    "code": "F26B 17/18",
+    "description": "••consiguiéndose el movimiento por paletas de hélice rotatorias u otros transportadores rotativos que desplazan el material en cámaras fijas [2006.01]"
+  },
+  {
+    "code": "F26B 17/20",
+    "description": "••••siendo el eje de rotación horizontal o ligeramente inclinado [2006.01]"
+  },
+  {
+    "code": "F26B 17/22",
+    "description": "••••siendo el eje de rotación vertical o muy inclinado [2006.01]"
+  },
+  {
+    "code": "F26B 17/24",
+    "description": "••consiguiéndose el movimiento proyectando o lanzando el material [2006.01]"
+  },
+  {
+    "code": "F26B 17/26",
+    "description": "••consiguiéndose el movimiento mediante transportadores de movimiento alternativo u oscilante propulsando el material sobre superficies fijas; consiguiéndose el movimiento mediante bateas, tamices o bandejas con un movimiento alternativo u oscilante [2006.01]"
+  },
+  {
+    "code": "F26B 17/28",
+    "description": "••consiguiéndose el movimiento mediante rodillos o discos pasando el material sobre ellos o entre ellos, p. ej. tambor de succión, tamices [2006.01]"
+  },
+  {
+    "code": "F26B 17/30",
+    "description": "••consiguiéndose el movimiento mediante receptáculos rotativos u oscilantes; consiguiéndose el movimiento mediante tableros rotativos [2006.01]"
+  },
+  {
+    "code": "F26B 17/32",
+    "description": "••••realizándose el movimiento en un plano horizontal o ligeramente inclinado [2006.01]"
+  },
+  {
+    "code": "F26B 17/34",
+    "description": "••••realizándose el movimiento en un plano vertical o muy inclinado [2006.01]"
+  },
+  {
+    "code": "F26B 19/00",
+    "description": "Máquinas o aparatos para el secado de un material sólido o de objetos no cubiertos por los grupos F26B 9/00-F26B 17/00 [2006.01]"
+  },
+  {
+    "code": "F26B 20/00",
+    "description": "Combinaciones de máquinas o aparatos cubiertos por dos o más de los grupos F26B 9/00-F26B 19/00 [2006.01]"
+  },
+  {
+    "code": "F26B 21/00",
+    "description": "Disposiciones para la alimentación o la regulación del aire o de los gases para el secado de un material sólido o de objetos (acondicionamiento de aire o ventilación en general F24F) [2006.01]"
+  },
+  {
+    "code": "F26B 21/02",
+    "description": "••Circulación de aire o gases en circuitos cerrados, p. ej. totalmente en el interior del recinto de secado (F26B 21/14 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F26B 21/04",
+    "description": "••••parcialmente en el exterior del recinto de secado [2006.01]"
+  },
+  {
+    "code": "F26B 21/06",
+    "description": "••Control, p. ej. regulación de los parámetros de alimentación de gas (F26B 21/14 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F26B 21/08",
+    "description": "••••de la humedad [2006.01]"
+  },
+  {
+    "code": "F26B 21/10",
+    "description": "••••de la temperatura; de la presión [2006.01]"
+  },
+  {
+    "code": "F26B 21/12",
+    "description": "••••de la velocidad de flujo; del caudal [2006.01]"
+  },
+  {
+    "code": "F26B 21/14",
+    "description": "••Utilización de gases o vapores diferentes del aire o del vapor de agua [2006.01]"
+  },
+  {
+    "code": "F26B 23/00",
+    "description": "Dispositivos de calentamiento (utilizando aire o gases calentados F26B 21/00) [2006.01]"
+  },
+  {
+    "code": "F26B 23/02",
+    "description": "••utilizando un calentamiento por combustión (F26B 23/10 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F26B 23/04",
+    "description": "••utilizando un calentamiento eléctrico (F26B 23/10 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F26B 23/06",
+    "description": "••••por resistencia [2006.01]"
+  },
+  {
+    "code": "F26B 23/08",
+    "description": "••••por inducción; calentamiento capacitivo; por microondas [2006.01]"
+  },
+  {
+    "code": "F26B 23/10",
+    "description": "••utilizando tubos o pasajes que contienen fluidos calientes [2006.01]"
+  },
+  {
+    "code": "F26B 25/00",
+    "description": "Partes constitutivas de aplicación general no cubiertas por los grupos F26B 21/00 o F26B 23/00 (carga, transporte o descarga en general B65G) [2006.01]"
+  },
+  {
+    "code": "F26B 25/02",
+    "description": "••Empleo de mecanismos de accionamiento no cubiertos por ninguna otra subclase [2006.01]"
+  },
+  {
+    "code": "F26B 25/04",
+    "description": "••Dispositivos de agitación, de mezclado o de rascado [2006.01]"
+  },
+  {
+    "code": "F26B 25/06",
+    "description": "••Cámaras, recipientes o receptáculos [2006.01]"
+  },
+  {
+    "code": "F26B 25/08",
+    "description": "••••Sus elementos [2006.01]"
+  },
+  {
+    "code": "F26B 25/10",
+    "description": "••••••Techos, suelos o fondos; Escurridores o falsos fondos [2006.01]"
+  },
+  {
+    "code": "F26B 25/12",
+    "description": "••••••Muros y tabiques; Puertas [2006.01]"
+  },
+  {
+    "code": "F26B 25/14",
+    "description": "••••Cámaras, recipientes o receptáculos de estructura simple [2006.01]"
+  },
+  {
+    "code": "F26B 25/16",
+    "description": "••••••casi cerrados, p. ej. tambores [2006.01]"
+  },
+  {
+    "code": "F26B 25/18",
+    "description": "••••••casi abiertos, p. ej. plataformas, bandejas, cubetas [2006.01]"
+  },
+  {
+    "code": "F26B 25/20",
+    "description": "••Rodillos (F26B 25/06 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F26B 25/22",
+    "description": "••Control del proceso de secado en función del contenido líquido de los materiales sólidos u objetos [2006.01]"
+  }
+]

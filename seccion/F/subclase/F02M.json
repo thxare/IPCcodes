@@ -1,0 +1,1710 @@
+[
+  {
+    "code": "F02M 1/00",
+    "description": "Carburadores con medios que permiten el arranque o el ralentí por debajo de las temperaturas normales de funcionamiento [2006.01]"
+  },
+  {
+    "code": "F02M 1/02",
+    "description": "••consistiendo estos medios en un estrangulamiento para enriquecer la mezcla de combustible y aire (estrangulamiento automático F02M 1/08) [2006.01]"
+  },
+  {
+    "code": "F02M 1/04",
+    "description": "••consistiendo estos medios en un carburador auxiliar que puede ser puesto en servicio o retirado de él, p. ej. teniendo válvulas de disco accionadas automáticamente [2006.01]"
+  },
+  {
+    "code": "F02M 1/06",
+    "description": "••••teniendo las válvulas un movimiento axial, p. ej. en forma de pistón [2006.01]"
+  },
+  {
+    "code": "F02M 1/08",
+    "description": "••siendo estos medios puestos en servicio o retirados de él automáticamente (en conexión con un carburador auxiliar F02M 1/04) [2006.01]"
+  },
+  {
+    "code": "F02M 1/10",
+    "description": "••••en función de la temperatura del motor, p. ej. provistos de un termostato [2006.01]"
+  },
+  {
+    "code": "F02M 1/12",
+    "description": "••••••con medios de calefacción eléctrica del termostato [2006.01]"
+  },
+  {
+    "code": "F02M 1/14",
+    "description": "••••en función de la presión en el conducto de admisión de aire comburente o de la mezcla aire-combustible (en función de la presión en el conducto de admisión de aire comburente o de la mezcla aire - combustible y de la temperatura del motor F02M 1/10) [2006.01]"
+  },
+  {
+    "code": "F02M 1/16",
+    "description": "••Otros medios para enriquecer la mezcla aire-combustible durante el arranque; Cubetas adicionales de carburantes para el arranque; Utilización de combustibles diferentes para el arranque y el funcionamiento normal [2006.01]"
+  },
+  {
+    "code": "F02M 1/18",
+    "description": "••••Enriquecimiento de la mezcla aire-combustible por descenso del flotador para ahogar el carburador [2006.01]"
+  },
+  {
+    "code": "F02M 3/00",
+    "description": "Dispositivos de ralentí para carburadores (con medios para facilitar el ralentí por debajo de la temperatura de funcionamiento normal F02M 1/00) [2006.01]"
+  },
+  {
+    "code": "F02M 3/02",
+    "description": "••que limitan el consumo del combustible de ralentí [2006.01]"
+  },
+  {
+    "code": "F02M 3/04",
+    "description": "••••bajo condiciones de que el motor es accionado en vez de accionar, p. ej. cuando un vehículo desciende de cuesta abajo [2006.01]"
+  },
+  {
+    "code": "F02M 3/045",
+    "description": "••••••Control de los obturadores incorporados en el sistema de inyector del ralentí o en el sistema de conductos por medios eléctricos o por una combinación de medios eléctricos y de medios fluidos o mecánicos [2006.01]"
+  },
+  {
+    "code": "F02M 3/05",
+    "description": "••••••Control neumático o mecánico, p. ej. comportando una regulación de la velocidad [2006.01]"
+  },
+  {
+    "code": "F02M 3/055",
+    "description": "••••••Parada del flujo de combustible por introducción de aire, p. ej. de aire de frenado en el sistema de combustible para el ralentí [2006.01]"
+  },
+  {
+    "code": "F02M 3/06",
+    "description": "••Aumento de la velocidad de ralentí [2006.01]"
+  },
+  {
+    "code": "F02M 3/07",
+    "description": "••••por una posición apropiada de la aleta de la válvula de mariposa o por variación de la superficie transversal del flujo de combustible por medios eléctricos, electromecánicos o electroneumáticos en función de la velocidad del motor [2006.01]"
+  },
+  {
+    "code": "F02M 3/08",
+    "description": "••Otras partes constitutivas o detalles de los dispositivos de ralentí (recalentamiento de los orificios de ralentí para impedir la formación de hielo F02M 15/02) [2006.01]"
+  },
+  {
+    "code": "F02M 3/09",
+    "description": "••••Válvulas sensibles a parámetros del motor, p. ej. a la depresión en el conducto de admisión (carburadores con dispositivos para facilitar el ralentí a temperaturas por debajo de las normales de funcionamiento  F02M 1/00) [2006.01]"
+  },
+  {
+    "code": "F02M 3/10",
+    "description": "••••Agujas de medida del consumo de combustible; Boquillas [2006.01]"
+  },
+  {
+    "code": "F02M 3/12",
+    "description": "••••Sistemas de conductos [2006.01]"
+  },
+  {
+    "code": "F02M 3/14",
+    "description": "••••Posición de la salida del sistema de ralentí con relación al obturador de estrangulación [2006.01]"
+  },
+  {
+    "code": "F02M 5/00",
+    "description": "Aparatos de flotador para mantener constante el nivel de combustible en los carburadores [2006.01]"
+  },
+  {
+    "code": "F02M 5/02",
+    "description": "••con medios para compensar las variaciones de posición del carburador, p. ej. cuando un avión vuela en posición invertida [2006.01]"
+  },
+  {
+    "code": "F02M 5/04",
+    "description": "••••con flotadores montados sobre un soporte pivotante o giratorio [2006.01]"
+  },
+  {
+    "code": "F02M 5/06",
+    "description": "••con un mecanismo de reglaje del flotador, p. ej. para compensar las diferencias de peso específico de los diferentes combustibles [2006.01]"
+  },
+  {
+    "code": "F02M 5/08",
+    "description": "••con medios para ventilar las cubetas del flotador [2006.01]"
+  },
+  {
+    "code": "F02M 5/10",
+    "description": "••con medios para evitar la oclusión por vapor, p. ej. cubetas de flotador aisladas o con circulación forzada del combustible a través de la cubeta del flotador cuando el motor está parado [2006.01]"
+  },
+  {
+    "code": "F02M 5/12",
+    "description": "••Otros detalles, p. ej. flotadores, obturadores, dispositivos o útiles de montaje [2006.01]"
+  },
+  {
+    "code": "F02M 5/16",
+    "description": "••••Flotadores [2006.01]"
+  },
+  {
+    "code": "F02M 7/00",
+    "description": "Carburadores con medios para modificar la relación aire-combustible de la carga según las circunstancias, p. ej. enriqueciéndola o manteniéndola constante (estrangulamiento para el arranque F02M 1/00) [2006.01]"
+  },
+  {
+    "code": "F02M 7/02",
+    "description": "••Carburadores con boquillas de pulverización del combustible aireado [2006.01]"
+  },
+  {
+    "code": "F02M 7/04",
+    "description": "••Medios para enriquecer la carga en caso de gran consumo de aire comburente [2006.01]"
+  },
+  {
+    "code": "F02M 7/06",
+    "description": "••Medios para enriquecer la carga en caso de apertura súbita de la válvula de estrangulación, es decir, en caso de aceleración, p. ej. medios de almacenaje en los sistemas de conductos [2006.01]"
+  },
+  {
+    "code": "F02M 7/08",
+    "description": "••••utilizando bombas [2006.01]"
+  },
+  {
+    "code": "F02M 7/087",
+    "description": "••••••de consumo variable en función de la temperatura del motor [2006.01]"
+  },
+  {
+    "code": "F02M 7/093",
+    "description": "••••••de consumo variable en función del vacío reinante a la entrada [2006.01]"
+  },
+  {
+    "code": "F02M 7/10",
+    "description": "••Otras instalaciones, sin piezas móviles, para modificar la relación aire-combustible, p. ej. medios eléctricos (dispositivos de aireación de combustible para modificar la relación aire-combustible  F02M 7/23) [2006.01]"
+  },
+  {
+    "code": "F02M 7/11",
+    "description": "••••modificando la presión en la cubeta de flotador (enriquecimiento de la mezcla aire-combustible durante el arranque por descenso del flotador para ahogar el carburador F02M 1/18) [2006.01]"
+  },
+  {
+    "code": "F02M 7/12",
+    "description": "••Otras instalaciones, con piezas móviles, para modificar la relación aire-combustible, p. ej. teniendo obturadores (F02M 7/24 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F02M 7/127",
+    "description": "••••modificando la presión en la cubeta de flotador (enriquecimiento de la mezcla aire-combustible durante el arranque por descenso del flotador para ahogar el carburador F02M 1/18) [2006.01]"
+  },
+  {
+    "code": "F02M 7/133",
+    "description": "••••Chiclés auxiliares, es decir, funcionando únicamente en ciertas condiciones, p. ej. con máxima potencia (medios para enriquecer la carga en caso de gran consumo de aire comburente F02M 7/04; medios para enriquecer la carga en caso de apertura súbita de la válvula de estrangulación, es decir, en caso de aceleraciónF02M 7/06) [2006.01]"
+  },
+  {
+    "code": "F02M 7/14",
+    "description": "••••con medios para regular la sección transversal de la boquilla de pulverización del combustible (en función de la posición del obturador de estrangulamiento del aire F02M 7/22) [2006.01]"
+  },
+  {
+    "code": "F02M 7/16",
+    "description": "••••••accionados automáticamente, p. ej. en función del análisis del gas de escape [2006.01]"
+  },
+  {
+    "code": "F02M 7/17",
+    "description": "••••••••por un elemento del tipo pistón regulable neumáticamente, p. ej. carburadores de depresión constante [2006.01]"
+  },
+  {
+    "code": "F02M 7/18",
+    "description": "••••con medios para regular la sección transversal del orificio de medida del caudal de combustible consumido (en función de la posición del obturador de estrangulamiento del aire F02M 7/22) [2006.01]"
+  },
+  {
+    "code": "F02M 7/20",
+    "description": "••••••accionados automáticamente, p. ej. en función de la altitud [2006.01]"
+  },
+  {
+    "code": "F02M 7/22",
+    "description": "••••estando regulada la sección transversal del flujo de combustible según la posición de la válvula de estrangulamiento de aire (válvula de estrangulamiento que desliza transversalmente con relación al conducto de aire F02M 9/06) [2006.01]"
+  },
+  {
+    "code": "F02M 7/23",
+    "description": "••Dispositivos de aireación del combustible [2006.01]"
+  },
+  {
+    "code": "F02M 7/24",
+    "description": "••••Control del consumo del aire de aireación [2006.01]"
+  },
+  {
+    "code": "F02M 7/26",
+    "description": "••••••en función de la posición de los medios de estrangulamiento pudiendo ser accionados a voluntad [2006.01]"
+  },
+  {
+    "code": "F02M 7/28",
+    "description": "••••••en función de la temperatura o de la presión [2006.01]"
+  },
+  {
+    "code": "F02M 9/00",
+    "description": "Carburadores que tienen válvulas de estrangulamiento de aire o de la mezcla aire-combustible diferentes de los del tipo mariposa (carburadores del tipo Registro F02M 11/00); Carburadores que tienen cámaras de forma o posición variable para la mezcla aire-combustible [2006.01]"
+  },
+  {
+    "code": "F02M 9/02",
+    "description": "••implicando válvulas de estrangulamiento, p. ej. en forma de pistón, que puede deslizar transversalmente con relación al conducto [2006.01]"
+  },
+  {
+    "code": "F02M 9/04",
+    "description": "••••con válvulas de estrangulamiento que deslizan según un plano inclinado con relación al conducto [2006.01]"
+  },
+  {
+    "code": "F02M 9/06",
+    "description": "••••con medios para hacer variar la sección transversal de la boquilla de pulverización del combustible según la posición de estrangulamiento (instalaciones, operadas automáticamente por un elemento del tipo pistón regulable neumáticamente, para regular la relación combustible/aire  F02M 7/17) [2006.01]"
+  },
+  {
+    "code": "F02M 9/08",
+    "description": "••implicando válvulas de estrangulamiento que pueden girar en el conducto [2006.01]"
+  },
+  {
+    "code": "F02M 9/10",
+    "description": "••implicando válvulas o medios análogos, del tipo de pared elástica, actuando sobre el conducto o sobre la sección transversal de las cámaras de mezcla aire-combustible [2006.01]"
+  },
+  {
+    "code": "F02M 9/12",
+    "description": "••implicando otros medios particulares de reglaje que actúan sobre el conducto o sobre la sección transversal de las cámaras de mezcla aire-combustible [2006.01]"
+  },
+  {
+    "code": "F02M 9/127",
+    "description": "••••Válvulas de estrangulamiento con movimiento axial y concéntricas con el eje del conducto de la mezcla [2006.01]"
+  },
+  {
+    "code": "F02M 9/133",
+    "description": "••••••teniendo las válvulas de estrangulamiento cuerpos en forma de champiñón [2006.01]"
+  },
+  {
+    "code": "F02M 9/14",
+    "description": "••implicando un venturi y una boquilla con un movimiento relativo esencialmente realizable según el eje del venturi [2006.01]"
+  },
+  {
+    "code": "F02M 11/00",
+    "description": "Carburadores con varias etapas; Carburadores del tipo registro, es decir, con válvulas de estrangulamiento deslizantes o giratorias en las cuales un conjunto de boquillas de combustible, diferentes de la boquilla de ralentí y boquilla de marcha normal, están sucesivamente expuestas a la corriente de aire por una válvula de estrangulamiento [2006.01]"
+  },
+  {
+    "code": "F02M 11/02",
+    "description": "••con válvula de estrangulamiento, p. ej. del tipo de aleta o de mariposa, con apertura automática en la última etapa [2006.01]"
+  },
+  {
+    "code": "F02M 11/04",
+    "description": "••••implicando las válvulas de la última etapa medios de amortiguamiento [2006.01]"
+  },
+  {
+    "code": "F02M 11/06",
+    "description": "••Otros carburadores con válvula de estrangulamiento del tipo de aleta o de mariposa [2006.01]"
+  },
+  {
+    "code": "F02M 11/08",
+    "description": "••Carburadores del tipo registro con válvulas de estrangulamiento móviles transversalmente al conducto del aire [2006.01]"
+  },
+  {
+    "code": "F02M 11/10",
+    "description": "••Carburadores del tipo registro con válvulas de estrangulamiento giratorio [2006.01]"
+  },
+  {
+    "code": "F02M 13/00",
+    "description": "Disposiciones de dos o más carburadores separados (reatomizar el combustible condensado u homogeneizar la mezcla aire combustible F02M 29/00); Carburadores que utilizan más de un combustible (aparatos para añadir pequeñas cantidades de combustible secundario F02M 25/00) [2006.01]"
+  },
+  {
+    "code": "F02M 13/02",
+    "description": "••Carburadores separados [2006.01]"
+  },
+  {
+    "code": "F02M 13/04",
+    "description": "••••estructuralmente unidos [2006.01]"
+  },
+  {
+    "code": "F02M 13/06",
+    "description": "••utilizando los carburadores combustibles diferentes [2006.01]"
+  },
+  {
+    "code": "F02M 13/08",
+    "description": "••Carburadores adaptados para utilizar combustibles líquidos y gaseosos, p. ej. alternativamente [2006.01]"
+  },
+  {
+    "code": "F02M 15/00",
+    "description": "Carburadores con medios de calentamiento, de refrigeración o de aislamiento térmico para el aire comburente, combustible o mezcla aire-combustible [2006.01]"
+  },
+  {
+    "code": "F02M 15/02",
+    "description": "••con medios de calentamiento, p. ej. para impedir la formación de hielo [2006.01]"
+  },
+  {
+    "code": "F02M 15/04",
+    "description": "••••con medios eléctricos [2006.01]"
+  },
+  {
+    "code": "F02M 15/06",
+    "description": "••Pantallas contra el calor, p. ej. contra las radiaciones del motor [2006.01]"
+  },
+  {
+    "code": "F02M 17/00",
+    "description": "Carburadores que tienen características pertinentes no cubiertas por, o con un interés distinto que, los aparatos de los grupos principales F02M 1/00-F02M 15/00 (aparatos de tratamiento del aire comburente, del combustible o de la mezcla aire-combustible por catalizadores, medios eléctricos, magnetismo, rayos, ondas acústicas o medios análogos F02M 27/00; combinaciones de carburadores y de aparatos de inyección del combustible a baja presión F02M 71/00) [2006.01]"
+  },
+  {
+    "code": "F02M 17/02",
+    "description": "••Carburadores sin flotador [2006.01]"
+  },
+  {
+    "code": "F02M 17/04",
+    "description": "••••implicando una válvula de entrada del combustible controlada por diafragma [2006.01]"
+  },
+  {
+    "code": "F02M 17/06",
+    "description": "••••implicando una cámara de rebose que determina un nivel constante de combustible [2006.01]"
+  },
+  {
+    "code": "F02M 17/08",
+    "description": "••Carburadores que implican uno o varios conductos para el combustible que terminan en un asiento para válvula rodeando la llegada de aire comburente, estando la válvula abierta para el paso del aire [2006.01]"
+  },
+  {
+    "code": "F02M 17/09",
+    "description": "••••siendo la válvula de tipo mariposa montada excéntricamente [2006.01]"
+  },
+  {
+    "code": "F02M 17/10",
+    "description": "••Carburadores que implican uno o varios conductos de combustible que terminan en la pieza de estrangulamiento de aire de la válvula [2006.01]"
+  },
+  {
+    "code": "F02M 17/12",
+    "description": "••••siendo la pieza de estrangulamiento del tipo mariposa [2006.01]"
+  },
+  {
+    "code": "F02M 17/14",
+    "description": "••Carburadores con elementos de introducción del combustible abierto y cerrado en sincronismo con la carrera del motor [2006.01]"
+  },
+  {
+    "code": "F02M 17/16",
+    "description": "••Carburadores que implican cuerpos de rotación continua, p. ej. carburadores de evaporación [2006.01]"
+  },
+  {
+    "code": "F02M 17/18",
+    "description": "••Otros carburadores de evaporación [2006.01]"
+  },
+  {
+    "code": "F02M 17/20",
+    "description": "••••con baño de combustible [2006.01]"
+  },
+  {
+    "code": "F02M 17/22",
+    "description": "••••••con borboteo del aire en el baño [2006.01]"
+  },
+  {
+    "code": "F02M 17/24",
+    "description": "••••con mechas [2006.01]"
+  },
+  {
+    "code": "F02M 17/26",
+    "description": "••••con otros cuerpos embebidos de combustible [2006.01]"
+  },
+  {
+    "code": "F02M 17/28",
+    "description": "••••••con atracción del combustible a través de un cuerpo poroso [2006.01]"
+  },
+  {
+    "code": "F02M 17/30",
+    "description": "••Carburadores con dispositivo de protección contra el fuego, p. ej. combinados con un aparato extintor [2006.01]"
+  },
+  {
+    "code": "F02M 17/32",
+    "description": "••••cerrando automáticamente los conductos de combustible cuando se inicia el fuego [2006.01]"
+  },
+  {
+    "code": "F02M 17/34",
+    "description": "••Otros carburadores combinados o asociados con otros aparatos, p. ej. filtros de aire [2006.01]"
+  },
+  {
+    "code": "F02M 17/36",
+    "description": "••Carburadores con un montaje que permite su limpieza [2006.01]"
+  },
+  {
+    "code": "F02M 17/38",
+    "description": "••Control de los carburadores no previsto en otro lugar (órganos exteriores de control F02M 19/12) [2006.01]"
+  },
+  {
+    "code": "F02M 17/40",
+    "description": "••Empleo de materiales específicos para los carburadores, p. ej. chapa, materia plástica o material translúcido [2006.01]"
+  },
+  {
+    "code": "F02M 17/42",
+    "description": "••Carburadores de flotador no previstos en otra parte [2006.01]"
+  },
+  {
+    "code": "F02M 17/44",
+    "description": "••Carburadores caracterizados por la orientación de la aspiración no previstos en otro lugar [2006.01]"
+  },
+  {
+    "code": "F02M 17/46",
+    "description": "••••con aspiración hacia abajo [2006.01]"
+  },
+  {
+    "code": "F02M 17/48",
+    "description": "••••con aspiración hacia arriba [2006.01]"
+  },
+  {
+    "code": "F02M 17/50",
+    "description": "••Carburadores que implican medios de lucha contra la formación de hielo (por el calor F02M 15/02) [2006.01]"
+  },
+  {
+    "code": "F02M 17/52",
+    "description": "••Utilización del frío producido por los carburadores para otros usos [2006.01]"
+  },
+  {
+    "code": "F02M 19/00",
+    "description": "Detalles, partes constitutivas o accesorios de los carburadores no cubiertos por, o con un interés distinto que, los aparatos de los grupos F02M 1/00-F02M 17/00 [2006.01]"
+  },
+  {
+    "code": "F02M 19/01",
+    "description": "••Aparatos para probar, reglar o sincronizar carburadores, p. ej. bancos de ensayo para carburadores [2006.01]"
+  },
+  {
+    "code": "F02M 19/02",
+    "description": "••Orificios de medida del consumo, p. ej. de diámetro variable (variable durante el funcionamiento F02M 7/18) [2006.01]"
+  },
+  {
+    "code": "F02M 19/025",
+    "description": "••••Orificios de medida del consumo de diámetro no variable [2006.01]"
+  },
+  {
+    "code": "F02M 19/03",
+    "description": "••Boquillas de pulverización del carburante; Disposición de conductos de emulsificación del aire [2006.01]"
+  },
+  {
+    "code": "F02M 19/035",
+    "description": "••••Boquillas de pulverización en forma de champiñón [2006.01]"
+  },
+  {
+    "code": "F02M 19/04",
+    "description": "••Agujas de reglaje [2006.01]"
+  },
+  {
+    "code": "F02M 19/06",
+    "description": "••Otros detalles de los conductos de combustible [2006.01]"
+  },
+  {
+    "code": "F02M 19/08",
+    "description": "••Venturis [2006.01]"
+  },
+  {
+    "code": "F02M 19/10",
+    "description": "••••en disposición múltiple [2006.01]"
+  },
+  {
+    "code": "F02M 19/12",
+    "description": "••Organos exteriores de control, p. ej. implicando amortiguadores (medios de amortiguamiento en los ultimos escalones de los carburadores con múltiples escalones F02M 11/04) [2006.01]"
+  },
+  {
+    "code": "F02M 21/02",
+    "description": "••con combustibles gaseosos [2006.01]"
+  },
+  {
+    "code": "F02M 21/04",
+    "description": "••••Aparatos de mezcla de gas y aire [2006.01]"
+  },
+  {
+    "code": "F02M 21/06",
+    "description": "••••Aparatos para deslicuar, p. ej. por calentamiento [2006.01]"
+  },
+  {
+    "code": "F02M 21/08",
+    "description": "••para combustibles no gaseosos [2006.01]"
+  },
+  {
+    "code": "F02M 21/10",
+    "description": "••••para combustibles con un punto de fusión bajo, p. ej. aparatos que implican medios de calefacción [2006.01]"
+  },
+  {
+    "code": "F02M 21/12",
+    "description": "••para combustibles en estado pulverizado [2006.01]"
+  },
+  {
+    "code": "F02M 23/00",
+    "description": "Aparatos para añadir aire secundario a la mezcla aire-combustible [2006.01]"
+  },
+  {
+    "code": "F02M 23/02",
+    "description": "••por control manual [2006.01]"
+  },
+  {
+    "code": "F02M 23/03",
+    "description": "••••estando el obturador de aire secundario controlado por el estrangulamiento del aire comburente principal [2006.01]"
+  },
+  {
+    "code": "F02M 23/04",
+    "description": "••con control automático [2006.01]"
+  },
+  {
+    "code": "F02M 23/06",
+    "description": "••••en función de la velocidad de la máquina [2006.01]"
+  },
+  {
+    "code": "F02M 23/08",
+    "description": "••••en función de la presión en el sistema de introducción del motor [2006.01]"
+  },
+  {
+    "code": "F02M 23/09",
+    "description": "••••••utilizando válvulas directamente abiertas por baja presión [2006.01]"
+  },
+  {
+    "code": "F02M 23/10",
+    "description": "••••en función de la temperatura, p. ej. de la temperatura del motor [2006.01]"
+  },
+  {
+    "code": "F02M 23/12",
+    "description": "••caracterizados por su asociación con un dispositivo particular o por la utilización de aire secundario para pulverizar el combustible condensado [2006.01]"
+  },
+  {
+    "code": "F02M 23/14",
+    "description": "••caracterizados por la adición de aire caliente [2006.01]"
+  },
+  {
+    "code": "F02M 25/00",
+    "description": "Aparatos específicos conjugados con los motores para añadir sustancias no combustibles o pequeñas cantidades de combustible secundario, al aire comburente, al combustible principal o a la mezcla aire-combustible (adición de aire secundario a la mezcla de aire y combustible F02M 23/00; adición de gases de escape F02M 26/00; aparatos de inyección que funcionan simultáneamente con dos o más combustibles o con un combustible líquido y un líquido diferente F02M 43/00) [2006.01]"
+  },
+  {
+    "code": "F02M 25/022",
+    "description": "••Añadiendo combustible y emulsión de agua, agua o vapor [2006.01]"
+  },
+  {
+    "code": "F02M 25/025",
+    "description": "••••añadiendo agua [2006.01]"
+  },
+  {
+    "code": "F02M 25/028",
+    "description": "••••••en la alimentación de carga [2006.01]"
+  },
+  {
+    "code": "F02M 25/03",
+    "description": "••••••en los cilindros [2006.01]"
+  },
+  {
+    "code": "F02M 25/032",
+    "description": "••••produciendo y añadiendo vapor [2006.01]"
+  },
+  {
+    "code": "F02M 25/035",
+    "description": "••••••en la alimentación de carga [2006.01]"
+  },
+  {
+    "code": "F02M 25/038",
+    "description": "••••••en los cilindros [2006.01]"
+  },
+  {
+    "code": "F02M 25/06",
+    "description": "••añadiendo vapores lubrificantes [2016.01]"
+  },
+  {
+    "code": "F02M 25/08",
+    "description": "••añadiendo vapores combustibles aspirados de los depósitos de combustible del motor [2006.01]"
+  },
+  {
+    "code": "F02M 25/10",
+    "description": "••añadiendo acetileno, hidrógeno de origen no acuoso, oxígeno de origen no aéreo u ozono [2006.01]"
+  },
+  {
+    "code": "F02M 25/12",
+    "description": "••••implicando los aparatos medios para producir tales gases (utilización de rayos con producción simultánea de ozono F02M 27/06) [2006.01]"
+  },
+  {
+    "code": "F02M 25/14",
+    "description": "••añadiendo agentes antidetonantes no cubiertos en los subgrupos F02M 25/022-F02M 25/10 [2006.01]"
+  },
+  {
+    "code": "F02M 26/00",
+    "description": "Aparatos específicos para motores para añadir gases de escape al aire comburente, al combustible principal o a la mezcla aire-combustible, p. ej. por sistemas de recirculación de gases de escape [EGR] [2016.01]"
+  },
+  {
+    "code": "F02M 26/01",
+    "description": "••Recirculación interna de los gases de escape, es decir, donde los gases de escape residuales están atrapados en el cilindro o retroceden desde el colector de admisión o de escape a la cámara de combustión sin el uso de pasajes adicionales [2016.01]"
+  },
+  {
+    "code": "F02M 26/02",
+    "description": "••Sistemas EGR especialmente adaptados para motores sobrealimentados [2016.01]"
+  },
+  {
+    "code": "F02M 26/03",
+    "description": "••••con una solo compresor de carga de admisión impulsado por un medio mecánico o eléctrico [2016.01]"
+  },
+  {
+    "code": "F02M 26/04",
+    "description": "••••con un único turbocompresor [2016.01]"
+  },
+  {
+    "code": "F02M 26/05",
+    "description": "••••••Bucles de alta presión, es decir, en los que el gas de escape recirculado se toma de los gases de escape aguas arriba de la turbina y se introdue de nuevo en el sistema de admisión aguas abajo del compresor [2016.01]"
+  },
+  {
+    "code": "F02M 26/06",
+    "description": "••••••Bucles de baja presión, es decir, en los que el gas de escape recirculado se toma de los gases de escape aguas abajo de la turbina del turbocompresor y se  introduce de nuevo en el sistema de admisión aguas arriba del compresor [2016.01]"
+  },
+  {
+    "code": "F02M 26/07",
+    "description": "••••••Bucles de presión mixta, es decir, en los que el gas de escape recirculado se toma bien aguas arriba de la turbina y se introduce de nuevo aguas arriba del compresor, o bien se toma aguas abajo de la turbina y se introduce de nuevo aguas abajo del compresor [2016.01]"
+  },
+  {
+    "code": "F02M 26/08",
+    "description": "••••para motores con una pluralidad de compresores de carga de admisión o una pluralidad de turbinas de gases de escape, p.ej., un turbocompresor combinado con un compresor adicional [2016.01]"
+  },
+  {
+    "code": "F02M 26/09",
+    "description": "••••Detalles constructivos, p. ej. combinaciones estructurales de los sistemas EGR y sistemas de supercompresores; Disposición de los sistemas EGR  y sistemas de sobrealimentación en relación al motor [2016.01]"
+  },
+  {
+    "code": "F02M 26/10",
+    "description": "••••••que comprenden medios para incrementar la diferencia de presión entre los sistemas de escape y admisión, p. ej. venturis, turbinas de geometría variable, válvulas de retención usando pulsos de presión o estrangulamientos en el sistema de admisión o de escape [2016.01]"
+  },
+  {
+    "code": "F02M 26/11",
+    "description": "••Fabricación o montaje de sistemas EGR; Materiales o recubrimientos especialmente adaptados para los sistemas EGR [2016.01]"
+  },
+  {
+    "code": "F02M 26/12",
+    "description": "••caracterizados por los medios para la fijación de las partes de una EGR entre sí o partes del motor [2016.01]"
+  },
+  {
+    "code": "F02M 26/13",
+    "description": "••Disposición o diseño de pasos EGR,  p. ej. con respecto a partes específicas del motor o para la incorporación de accesorios [2016.01]"
+  },
+  {
+    "code": "F02M 26/14",
+    "description": "••••en relación con el sistema de escape [2016.01]"
+  },
+  {
+    "code": "F02M 26/15",
+    "description": "••••••en relación con el aparato de purificación de escape del motor [2016.01]"
+  },
+  {
+    "code": "F02M 26/16",
+    "description": "••••••con válvulas EGR situadas en o cerca de la conexión al sistema de escape [2016.01]"
+  },
+  {
+    "code": "F02M 26/17",
+    "description": "••••en relación con el sistema de admisión [2016.01]"
+  },
+  {
+    "code": "F02M 26/18",
+    "description": "••••••Aislamiento térmico o protección contra el calor [2016.01]"
+  },
+  {
+    "code": "F02M 26/19",
+    "description": "••••••Medios para mejorar la mezcla de aire y los gases de escape recirculados, p. ej. venturis o múltiples aberturas del sistema de admisión [2016.01]"
+  },
+  {
+    "code": "F02M 26/20",
+    "description": "••••••Alimentación de gases de escape recirculado directamente en la cámara de combustión o en el colector de admisión [2016.01]"
+  },
+  {
+    "code": "F02M 26/21",
+    "description": "••••••con válvulas EGR situadas en o cerca de la conexión a la conexión con el sistema de admisión [2016.01]"
+  },
+  {
+    "code": "F02M 26/22",
+    "description": "••••con enfriadores en el pasaje de recirculación [2016.01]"
+  },
+  {
+    "code": "F02M 26/23",
+    "description": "••••••Diseño, p. ej. esquemas [2016.01]"
+  },
+  {
+    "code": "F02M 26/24",
+    "description": "••••••••con una pluralidad de enfriadores [2016.01]"
+  },
+  {
+    "code": "F02M 26/25",
+    "description": "••••••••con enfriadores que disponen de caminos de derivación [2016.01]"
+  },
+  {
+    "code": "F02M 26/26",
+    "description": "••••••••••caracterizado por los detalles de la válvula de derivación [2016.01]"
+  },
+  {
+    "code": "F02M 26/27",
+    "description": "••••••••con intercambiadores de calor enfriados por aire [2016.01]"
+  },
+  {
+    "code": "F02M 26/28",
+    "description": "••••••••con intercambiadores de calor enfriados por líquido [2016.01]"
+  },
+  {
+    "code": "F02M 26/29",
+    "description": "••••••Detalles constructivos de los enfriadores, p. ej. tubos, placas, nervaduras, aislamiento o materiales [2016.01]"
+  },
+  {
+    "code": "F02M 26/30",
+    "description": "••••••••Conexiones de enfriadores a otros dispositivos, p. ej. a válvulas, calentadores, compresores o filtros; Enfriadores caracterizados por su ubicación en el motor [2016.01]"
+  },
+  {
+    "code": "F02M 26/31",
+    "description": "••••••••Intercambiadores de calor enfriados por aire [2016.01]"
+  },
+  {
+    "code": "F02M 26/32",
+    "description": "••••••••Intercambiadores de calor enfriados por líquido [2016.01]"
+  },
+  {
+    "code": "F02M 26/33",
+    "description": "••••••Regulación de la temperatura de los gases recirculados [2016.01]"
+  },
+  {
+    "code": "F02M 26/34",
+    "description": "••••con compresores, turbinas o medios similares en el paso de recirculación [2016.01]"
+  },
+  {
+    "code": "F02M 26/35",
+    "description": "••••con medios para la limpieza o el tratamiento de los gases de recirculación, p.,ej. catalizadores, trampas de condensación, filtros de partículas o calentadores [2016.01]"
+  },
+  {
+    "code": "F02M 26/36",
+    "description": "••••con medios para la adición de fluidos que no sean gases de escape en el conducto de recirculación; con reformadores [2016.01]"
+  },
+  {
+    "code": "F02M 26/37",
+    "description": "••••con almacenamiento temporal de los gases de escape recirculados (recirculación interna de gases de escape F02M 26/01) [2016.01]"
+  },
+  {
+    "code": "F02M 26/38",
+    "description": "••••con varias válvulas EGR dispuestas en paralelo [2016.01]"
+  },
+  {
+    "code": "F02M 26/39",
+    "description": "••••con varias válvulas EGR dispuestas en serie [2016.01]"
+  },
+  {
+    "code": "F02M 26/40",
+    "description": "••••con medios de regulación en el paso de recirculación, p. ej. regeneradores o válvulas con funcionamiento cíclico; con disposiciones que implican pulsos de presión [2016.01]"
+  },
+  {
+    "code": "F02M 26/41",
+    "description": "••••caracterizado por la disposición del paso de recirculación en relación al motor, p. ej. a las culatas, camisas, bujías o colectores; caracterizado por la disposición del paso de recirculación en relación a cámaras de combustión especialmente adaptadas [2016.01]"
+  },
+  {
+    "code": "F02M 26/42",
+    "description": "••••teniendo varios pasos EGR; sistemas EGR especialmente adaptados para motores con varios cilindros [2016.01]"
+  },
+  {
+    "code": "F02M 26/43",
+    "description": "••••••en el que los gases de escape de un único cilindro o un solo grupo de cilindros se dirigen a la admisión del motor [2016.01]"
+  },
+  {
+    "code": "F02M 26/44",
+    "description": "••••••en el que un paso de EGR principal se ramifica en varios pasajes [2016.01]"
+  },
+  {
+    "code": "F02M 26/45",
+    "description": "••Sensores especialmente adaptados a sistemas EGR [2016.01]"
+  },
+  {
+    "code": "F02M 26/46",
+    "description": "••••para determinar las características de los gases, p. ej. su composición [2016.01]"
+  },
+  {
+    "code": "F02M 26/47",
+    "description": "••••••siendo las características sus temperaturas, presiones o caudales [2016.01]"
+  },
+  {
+    "code": "F02M 26/48",
+    "description": "••••sensores de posición para válvula EGR (detalles de la instalación de los sensores en el cuerpo de la válvula F02M 26/71) [2016.01]"
+  },
+  {
+    "code": "F02M 26/49",
+    "description": "••Detección, diagnosis o indicación de un funcionamiento anormal del sistema EGR [2016.01]"
+  },
+  {
+    "code": "F02M 26/50",
+    "description": "••Disposiciones o métodos para prevenir o reducir los depósitos, la corrosión o el desgaste causado por las impurezas (disposición de pasajes EGR con medios para la limpieza o el tratamiento de los gases de recirculación F02M 26/35; Protección de válvulas EGR contra daños F02M 26/74) [2016.01]"
+  },
+  {
+    "code": "F02M 26/51",
+    "description": "••Válvulas EGR combinadas con otros dispositivos, p. ej. con válvulas de admisión o compresores (combinadas con mariposas de admisión de aire F02M 26/64) [2016.01]"
+  },
+  {
+    "code": "F02M 26/52",
+    "description": "••Sistemas de actuación de válvulas EGR [2016.01]"
+  },
+  {
+    "code": "F02M 26/53",
+    "description": "••••que utilizan actuadores eléctricos, p. ej. solenoides [2016.01]"
+  },
+  {
+    "code": "F02M 26/54",
+    "description": "••••••Actuadores rotativos, p. ej. motores de paso a paso [2016.01]"
+  },
+  {
+    "code": "F02M 26/55",
+    "description": "••••que utilizan actuadores de vacío [2016.01]"
+  },
+  {
+    "code": "F02M 26/56",
+    "description": "••••••que tienen válvulas de modulación de presión [2016.01]"
+  },
+  {
+    "code": "F02M 26/57",
+    "description": "••••••••que utilizan medios electrónicos, p. ej. válvulas electromagnéticas [2016.01]"
+  },
+  {
+    "code": "F02M 26/58",
+    "description": "••••••Detalles constructivos del actuador; Su montaje [2016.01]"
+  },
+  {
+    "code": "F02M 26/59",
+    "description": "••••que utilizan actuadores de presión positiva; Válvulas de retención para ese propósito [2016.01]"
+  },
+  {
+    "code": "F02M 26/60",
+    "description": "••••••en respuesta a la presión del aire de admisión [2016.01]"
+  },
+  {
+    "code": "F02M 26/61",
+    "description": "••••••en respuesta a la presión de escape [2016.01]"
+  },
+  {
+    "code": "F02M 26/62",
+    "description": "••••••en respuesta a la presión del combustible [2016.01]"
+  },
+  {
+    "code": "F02M 26/63",
+    "description": "••••estando la válvula EGR controlada directamente por un operador (estando la válvula EGR operada en coordinación con una mariposa de admisión de aire F02M 26/64) [2016.01]"
+  },
+  {
+    "code": "F02M 26/64",
+    "description": "••••estando la válvula EGR operada en coordinación con una mariposa de admisión de aire [2016.01]"
+  },
+  {
+    "code": "F02M 26/65",
+    "description": "••Detalles constructivos de las válvulas EGR [2016.01]"
+  },
+  {
+    "code": "F02M 26/66",
+    "description": "••••Válvulas que se alzan, p. ej. válvulas de asiento [2016.01]"
+  },
+  {
+    "code": "F02M 26/67",
+    "description": "••••••Pernos; Varillas; Resortes; Rodamientos; Juntas de estanqueidad; Conexiones a los actuadores [2016.01]"
+  },
+  {
+    "code": "F02M 26/68",
+    "description": "••••••Elementos de cierre; Asientos de válvula; Pasos de flujo [2016.01]"
+  },
+  {
+    "code": "F02M 26/69",
+    "description": "••••••que tienen varios elementos de cierre de válvula [2016.01]"
+  },
+  {
+    "code": "F02M 26/70",
+    "description": "••••Válvulas de charnela; Válvulas rotativas; Válvulas de corredera; Válvulas flexibles [2016.01]"
+  },
+  {
+    "code": "F02M 26/71",
+    "description": "••••Válvulas de múltiples vías [2016.01]"
+  },
+  {
+    "code": "F02M 26/72",
+    "description": "••••Alojamientos [2016.01]"
+  },
+  {
+    "code": "F02M 26/73",
+    "description": "••••••con medios para calentar o refrigerar la válvula EGR [2016.01]"
+  },
+  {
+    "code": "F02M 26/74",
+    "description": "••••Protección contra daños, p. ej. escudos de protección [2016.01]"
+  },
+  {
+    "code": "F02M 27/00",
+    "description": "Aparatos para tratar el aire comburente, el combustible o la mezcla aire-combustible, por catalizadores, medios eléctricos, magnetismo, radiaciones, ondas acústicas o medios análogos [2006.01]"
+  },
+  {
+    "code": "F02M 27/02",
+    "description": "••por catalizadores [2006.01]"
+  },
+  {
+    "code": "F02M 27/04",
+    "description": "••por medios eléctricos o por magnetismo [2006.01]"
+  },
+  {
+    "code": "F02M 27/06",
+    "description": "••por radiación [2006.01]"
+  },
+  {
+    "code": "F02M 27/08",
+    "description": "••por ondas sonoras o ultrasonoras [2006.01]"
+  },
+  {
+    "code": "F02M 29/00",
+    "description": "Aparatos para repulverizar el combustible condensado u homogeneizar una mezcla aire-combustible (combinación con una mezcla de aire secundario F02M 23/12) [2006.01]"
+  },
+  {
+    "code": "F02M 29/02",
+    "description": "••que tienen partes giratorias [2006.01]"
+  },
+  {
+    "code": "F02M 29/04",
+    "description": "••que tienen tamices, pantallas o dispositivos análogos [2006.01]"
+  },
+  {
+    "code": "F02M 29/06",
+    "description": "••••produciendo un movimiento en torbellino de la mezcla [2006.01]"
+  },
+  {
+    "code": "F02M 29/08",
+    "description": "••••que tienen hilos enrollados en espiral [2006.01]"
+  },
+  {
+    "code": "F02M 29/10",
+    "description": "••••regulables [2006.01]"
+  },
+  {
+    "code": "F02M 29/12",
+    "description": "••que tienen válvulas de homogeneización mantenidas abiertas por la corriente de mezcla [2006.01]"
+  },
+  {
+    "code": "F02M 29/14",
+    "description": "••siendo la repulverizacíon o la homogeneización efectuada por la rugosidad de la superficie interna del conducto de admisión de la mezcla [2006.01]"
+  },
+  {
+    "code": "F02M 31/00",
+    "description": "Aparatos para el tratamiento térmico del aire comburente, del combustible o de la mezcla aire-combustible (carburadores con medios de calentamiento, de refrigeración o de aislamiento térmico para el aire comburente, combustible o mezcla aire-combustible F02M 15/00; aparatos para deslicuar combustibles no líquidos  por calentamiento  F02M 21/06; aparatos con medios de calentamiento para combustibles no gaseosos con un punto de fusión bajo  F02M 21/10; aparatos que se caracterizan por la adición de aire secundario caliente a la mezcla aire combustible F02M 23/14; aparatos de inyección de combustible caracterizados por tener medios de calentamiento, enfriamiento o de aislamiento térmico F02M 53/00) [2006.01]"
+  },
+  {
+    "code": "F02M 31/02",
+    "description": "••por calentamiento (para purificación de combustible líquido F02M 37/30) [2019.01]"
+  },
+  {
+    "code": "F02M 31/04",
+    "description": "••••del aire comburente o la mezcla aire-combustible (por medios eléctricos F02M 31/12; por utilización del calor extraído de los cilindros motores o de las culatas F02M 31/14; calentamiento del aire como accesorio del arranque de un motor F02N 19/04) [2006.01]"
+  },
+  {
+    "code": "F02M 31/06",
+    "description": "••••••por gases calientes, p. ej. por mezcla de aire frío y caliente [2006.01]"
+  },
+  {
+    "code": "F02M 31/07",
+    "description": "••••••••Control termosensible, p. ej. utilizando válvulas reguladas termoestáticamente (control termosensible de la cantidad de gas de escape o aire de combustión dirigido a la superficie intercambiadora de calor F02M 31/083) [2006.01]"
+  },
+  {
+    "code": "F02M 31/08",
+    "description": "••••••••siendo los gases los de escape [2006.01]"
+  },
+  {
+    "code": "F02M 31/083",
+    "description": "••••••••••Control termosensible de la cantidad de gas de escape o aire de combustión dirigido a la superficie intercambiadora de calor [2006.01]"
+  },
+  {
+    "code": "F02M 31/087",
+    "description": "••••••••••Disposiciones para el intercambio de calor entre los conductos de admisión de aire y los conductos de los gases de escape, p. ej. mediante un contacto entre los conductos [2006.01]"
+  },
+  {
+    "code": "F02M 31/093",
+    "description": "••••••••••••Conducto de admisión de aire envolviendo al conducto de los gases de escape; Conducto de los gases de escape envolviendo al conducto de admisión del aire [2006.01]"
+  },
+  {
+    "code": "F02M 31/10",
+    "description": "••••••por líquidos calientes, p. ej. líquidos de lubrificación [2006.01]"
+  },
+  {
+    "code": "F02M 31/12",
+    "description": "••••por medios eléctricos [2006.01]"
+  },
+  {
+    "code": "F02M 31/125",
+    "description": "••••••Calentamiento del combustible [2006.01]"
+  },
+  {
+    "code": "F02M 31/13",
+    "description": "••••••Calentamiento del aire [2006.01]"
+  },
+  {
+    "code": "F02M 31/135",
+    "description": "••••••Calentamiento de la mezcla aire-combustible [2006.01]"
+  },
+  {
+    "code": "F02M 31/14",
+    "description": "••••por utilización del calor extraído de los cilindros motores o de las culatas [2006.01]"
+  },
+  {
+    "code": "F02M 31/16",
+    "description": "••••Otros aparatos para calentar el combustible [2006.01]"
+  },
+  {
+    "code": "F02M 31/18",
+    "description": "••••••para vaporizar el combustible [2006.01]"
+  },
+  {
+    "code": "F02M 31/20",
+    "description": "••para enfriar (refrigeración del aire de carga de los cilindros o del aire de barrido F02B 29/04) [2006.01]"
+  },
+  {
+    "code": "F02M 33/00",
+    "description": "Otros aparatos para el tratamiento del aire comburente, el combustible o la mezcla aire-combustible (depuradores del aire comburente F02M 35/00; dispositivos para purificar el combustible líquido F02M 37/22) [2006.01]"
+  },
+  {
+    "code": "F02M 33/02",
+    "description": "••para recoger y volver a poner en circulación el combustible condensado [2006.01]"
+  },
+  {
+    "code": "F02M 33/04",
+    "description": "••••Retorno al conducto de admisión [2006.01]"
+  },
+  {
+    "code": "F02M 33/06",
+    "description": "••••••con admisión simultánea de calor [2006.01]"
+  },
+  {
+    "code": "F02M 33/08",
+    "description": "••••Retorno al depósito de combustible [2006.01]"
+  },
+  {
+    "code": "F02M 35/00",
+    "description": "Depuradores de aire comburente, tomas de admisión de aire, silenciadores de admisión o bien sistemas de aspiración especialmente adaptados para motores de combustión interna o preparados para estos motores [2006.01]"
+  },
+  {
+    "code": "F02M 35/02",
+    "description": "••Depuradores de aire [2006.01]"
+  },
+  {
+    "code": "F02M 35/022",
+    "description": "••••que funcionan por gravedad, por fuerza centrífuga o por otras fuerzas de inercia, p. ej. con paredes húmedas [2006.01]"
+  },
+  {
+    "code": "F02M 35/024",
+    "description": "••••utilizando filtros, p. ej. húmedos (F02M 35/026 tiene prioridad; limpieza del material filtrante F02M 35/08) [2006.01]"
+  },
+  {
+    "code": "F02M 35/026",
+    "description": "••••actuando por guiado del aire sobre o a través de un baño de aceite u otro líquido, p. ej. combinado con filtros [2006.01]"
+  },
+  {
+    "code": "F02M 35/04",
+    "description": "••••especialmente preparados para el motor; Su montaje [2006.01]"
+  },
+  {
+    "code": "F02M 35/06",
+    "description": "••••••combinados o asociados con el soplante o el ventilador de refrigeración del motor o con el volante [2006.01]"
+  },
+  {
+    "code": "F02M 35/08",
+    "description": "••••con medios para sacar el polvo de los depuradores; con medios para indicar la obstrucción; con medios de desviación [2006.01]"
+  },
+  {
+    "code": "F02M 35/09",
+    "description": "••••••Indicadores de obstrucción [2006.01]"
+  },
+  {
+    "code": "F02M 35/10",
+    "description": "••Tomas de admisión de aire; Sistemas de aspiración [2006.01]"
+  },
+  {
+    "code": "F02M 35/104",
+    "description": "••••Colectores de admisión [2006.01]"
+  },
+  {
+    "code": "F02M 35/108",
+    "description": "••••••con conductos de admisión primarios y secundarios [2006.01]"
+  },
+  {
+    "code": "F02M 35/112",
+    "description": "••••••para motores con todos los cilindros en línea [2006.01]"
+  },
+  {
+    "code": "F02M 35/116",
+    "description": "••••••para motores con los cilindros dispuestos en V o dispuestos opuestamente al árbol principal [2006.01]"
+  },
+  {
+    "code": "F02M 35/12",
+    "description": "••Silenciadores de admisión [2006.01]"
+  },
+  {
+    "code": "F02M 35/14",
+    "description": "••Combinaciones de depuradores y de silenciadores [2006.01]"
+  },
+  {
+    "code": "F02M 35/16",
+    "description": "••caracterizados por su utilización en vehículos [2006.01]"
+  },
+  {
+    "code": "F02M 37/00",
+    "description": "Aparatos o sistemas para alimentar combustible líquido desde los depósitos a los carburadores o a los inyectores; Dispositivos para purificar el combustible líquido especialmente adaptado para motores de combustión interna o dispuestos en ellos [2006.01]"
+  },
+  {
+    "code": "F02M 37/02",
+    "description": "••Alimentación por medio de aparatos de aspiración, p. ej. por flujo de aire a través de los carburadores (por bombas accionadas F02M 37/04) [2006.01]"
+  },
+  {
+    "code": "F02M 37/04",
+    "description": "••Alimentación por medio de bombas accionadas [2006.01]"
+  },
+  {
+    "code": "F02M 37/06",
+    "description": "••••accionadas por medios mecánicos [2006.01]"
+  },
+  {
+    "code": "F02M 37/08",
+    "description": "••••accionadas por medios eléctricos [2006.01]"
+  },
+  {
+    "code": "F02M 37/10",
+    "description": "••••••sumergidas en el combustible, p. ej. en el depósito [2006.01]"
+  },
+  {
+    "code": "F02M 37/12",
+    "description": "••••accionadas por un fluido, p. ej. por el aire comprimido comburente [2006.01]"
+  },
+  {
+    "code": "F02M 37/14",
+    "description": "••••estando las bombas combinadas con otros aparatos [2006.01]"
+  },
+  {
+    "code": "F02M 37/16",
+    "description": "••••caracterizadas por la posibilidad de bombeo por el hombre, p. ej. bombas operadas manualmente [2006.01]"
+  },
+  {
+    "code": "F02M 37/18",
+    "description": "••••caracterizadas por la existencia de bombas principales y bombas auxiliares [2006.01]"
+  },
+  {
+    "code": "F02M 37/20",
+    "description": "••caracterizadas por medios para evitar la oclusión por vapor [2006.01]"
+  },
+  {
+    "code": "F02M 37/22",
+    "description": "••Dispositivos para purificar el combustible líquido especialmente adaptados para motores de combustión interna, o dispuestos en ellos, p. ej. dispuestos en el sistema de alimentación [2019.01]"
+  },
+  {
+    "code": "F02M 37/24",
+    "description": "••••caracterizados por los medios de separación de agua [2019.01]"
+  },
+  {
+    "code": "F02M 37/26",
+    "description": "••••••con medios para la detección de agua [2019.01]"
+  },
+  {
+    "code": "F02M 37/28",
+    "description": "••••••••con medios que se activan con la presencia de agua, p. ej. alarmas o medios de drenaje automático [2019.01]"
+  },
+  {
+    "code": "F02M 37/30",
+    "description": "••••caracterizados por los medios de calentamiento [2019.01]"
+  },
+  {
+    "code": "F02M 37/32",
+    "description": "••••caracterizados por los filtros o por las disposiciones de filtros [2019.01]"
+  },
+  {
+    "code": "F02M 37/34",
+    "description": "••••••por la estructura del filtro, p. ej. panel de abeja, malla o fibra [2019.01]"
+  },
+  {
+    "code": "F02M 37/36",
+    "description": "••••••con medios de derivación [2019.01]"
+  },
+  {
+    "code": "F02M 37/38",
+    "description": "••••••con medios de regeneración [2019.01]"
+  },
+  {
+    "code": "F02M 37/40",
+    "description": "••••••con medios para la detección de atascos [2019.01]"
+  },
+  {
+    "code": "F02M 37/42",
+    "description": "••••••Instalación o retirada de filtros [2019.01]"
+  },
+  {
+    "code": "F02M 37/44",
+    "description": "••••••Filtros asociados estructuralmente con bombas [2019.01]"
+  },
+  {
+    "code": "F02M 37/46",
+    "description": "••••••Filtros asociados estructuralmente con reguladores de presión [2019.01]"
+  },
+  {
+    "code": "F02M 37/48",
+    "description": "••••••Filtros asociados estructuralmente con válvulas de combustible [2019.01]"
+  },
+  {
+    "code": "F02M 37/50",
+    "description": "••••••Disposiciones de filtros en el interior o en los depósitos de combustible [2019.01]"
+  },
+  {
+    "code": "F02M 37/52",
+    "description": "••••••empleando medios magnéticos [2019.01]"
+  },
+  {
+    "code": "F02M 37/54",
+    "description": "••••caracterizado por los medios de purgado de aire (con bombas operadas de forma manual F02M 37/16) [2019.01]"
+  },
+  {
+    "code": "F02M 39/00",
+    "description": "Disposiciones de los aparatos de inyección de combustibles con respecto a los motores; Accionamiento de las bombas adaptado a estos dispositivos (aparatos de inyección en los cuales las bombas son accionadas, o cuyos inyectores son accionados por la presión en el cilindro motor o por impacto del pistón motor F02M 49/00; dispositivos de los inyectores F02M 61/14) [2006.01]"
+  },
+  {
+    "code": "F02M 39/02",
+    "description": "••Dispositivos de los aparatos de inyección de combustible que permiten el accionamiento de las bombas; Dispositivos de las bombas de inyección; Accionamiento de las bombas [2006.01]"
+  },
+  {
+    "code": "F02M 41/00",
+    "description": "Aparatos de inyección con dos o más inyectores alimentados sucesivamente por medio de un distribuidor desde una fuente de presión común [2006.01]"
+  },
+  {
+    "code": "F02M 41/02",
+    "description": "••estando el distribuidor a una cierta distancia de los elementos de bombeo [2006.01]"
+  },
+  {
+    "code": "F02M 41/04",
+    "description": "••••con movimiento alternativo del distribuidor [2006.01]"
+  },
+  {
+    "code": "F02M 41/06",
+    "description": "••••con rotación del distribuidor [2006.01]"
+  },
+  {
+    "code": "F02M 41/08",
+    "description": "••con combinación del distribuidor y de los elementos de bombeo [2006.01]"
+  },
+  {
+    "code": "F02M 41/10",
+    "description": "••••actuando los pistones de la bomba como distribuidor [2006.01]"
+  },
+  {
+    "code": "F02M 41/12",
+    "description": "••••••girando los pistones de la bomba para actuar como distribuidor [2006.01]"
+  },
+  {
+    "code": "F02M 41/14",
+    "description": "••••girando el distribuidor soportando los pistones de la bomba [2006.01]"
+  },
+  {
+    "code": "F02M 41/16",
+    "description": "••caracterizados por un distribuidor alimentado por una fuente de presión constante, p. ej. un acumulador [2006.01]"
+  },
+  {
+    "code": "F02M 43/00",
+    "description": "Aparato de inyección de combustible que funciona simultáneamente con dos o más combustibles, o con un combustible líquido y otro líquido, p. ej. siendo el otro líquido un aditivo antidetonante [2006.01]"
+  },
+  {
+    "code": "F02M 43/02",
+    "description": "••Bombas peculiares para ello [2006.01]"
+  },
+  {
+    "code": "F02M 43/04",
+    "description": "••Inyectores peculiares para ello [2006.01]"
+  },
+  {
+    "code": "F02M 45/00",
+    "description": "Aparatos de inyección caracterizados por una variación periódica de la presión o del consumo [2006.01]"
+  },
+  {
+    "code": "F02M 45/02",
+    "description": "••con cada ciclo de inyección dividido en dos o más partes [2006.01]"
+  },
+  {
+    "code": "F02M 45/04",
+    "description": "••••siendo débil la primera parte [2006.01]"
+  },
+  {
+    "code": "F02M 45/06",
+    "description": "••••••Bombas peculiares para ello [2006.01]"
+  },
+  {
+    "code": "F02M 45/08",
+    "description": "••••••Inyectores peculiares para ello [2006.01]"
+  },
+  {
+    "code": "F02M 45/10",
+    "description": "••••Otros inyectores con inyección fraccionada, p. ej. por medio de válvulas vibrantes [2006.01]"
+  },
+  {
+    "code": "F02M 45/12",
+    "description": "••suministrando un consumo continuo a presión variable [2006.01]"
+  },
+  {
+    "code": "F02M 47/00",
+    "description": "Aparatos de inyección de funcionamiento periódico con válvulas de inyección accionadas por presión del fluido (aparatos de inyección accionados por la presión en el cilindro motor F02M 49/00) [2006.01]"
+  },
+  {
+    "code": "F02M 47/02",
+    "description": "••del tipo \"acumuladores-inyectores\", es decir, en los cuales la presión del combustible en el acumulador tiende a abrir y la presión del combustible en otra cámara tiende a cerrar las válvulas de inyección e implicando medios para suprimir periódicamente esta presión de cierre [2006.01]"
+  },
+  {
+    "code": "F02M 47/04",
+    "description": "••utilizando un fluido diferente del combustible para el funcionamiento de las válvulas de inyección [2006.01]"
+  },
+  {
+    "code": "F02M 47/06",
+    "description": "••Otros inyectores de combustible de este tipo [2006.01]"
+  },
+  {
+    "code": "F02M 49/00",
+    "description": "Aparatos de inyección en los cuales las bombas son accionadas o cuyos inyectores son accionados por la presión en el cilindro motor o por impacto del pistón motor [2006.01]"
+  },
+  {
+    "code": "F02M 49/02",
+    "description": "••utilizando la presión del fluido, p. ej. la presión del fin de compresión [2006.01]"
+  },
+  {
+    "code": "F02M 49/04",
+    "description": "••utilizando el impacto del pistón [2006.01]"
+  },
+  {
+    "code": "F02M 51/00",
+    "description": "Aparatos de inyección de combustible caracterizados por estar operados eléctricamente [2006.01]"
+  },
+  {
+    "code": "F02M 51/02",
+    "description": "••especialmente para la inyección de combustible a baja presión (bomba en sí\n\t\t\t\t\t\t\t\t\t\tF02M 51/04; inyectores en sí\n\t\t\t\t\t\t\t\t\t\tF02M 51/08) [2006.01]"
+  },
+  {
+    "code": "F02M 51/04",
+    "description": "••Bombas particulares a este efecto [2006.01]"
+  },
+  {
+    "code": "F02M 51/06",
+    "description": "••Inyectores particulares a este efecto [2006.01]"
+  },
+  {
+    "code": "F02M 51/08",
+    "description": "••••especiales para la inyección de combustible a baja presión [2006.01]"
+  },
+  {
+    "code": "F02M 53/00",
+    "description": "Aparatos de inyección de combustible caracterizados por tener medios de calentamiento, enfriamiento o de aislamiento térmico [2006.01]"
+  },
+  {
+    "code": "F02M 53/02",
+    "description": "••con medios de calefacción del combustible, p. ej. para vaporización [2006.01]"
+  },
+  {
+    "code": "F02M 53/04",
+    "description": "••Inyectores con medios de calefacción, de refrigeración o de aislamiento térmico [2006.01]"
+  },
+  {
+    "code": "F02M 53/06",
+    "description": "••••con medios de calefacción del combustible, p. ej. para vaporización [2006.01]"
+  },
+  {
+    "code": "F02M 53/08",
+    "description": "••••con refrigeración de aire [2006.01]"
+  },
+  {
+    "code": "F02M 55/00",
+    "description": "Aparatos de inyección caracterizados por sus conductos de combustible o sus medios de ventilación [2006.01]"
+  },
+  {
+    "code": "F02M 55/02",
+    "description": "••Conductos entre bombas de inyección e inyectores [2006.01]"
+  },
+  {
+    "code": "F02M 55/04",
+    "description": "••Medios para amortiguar las vibraciones en las entradas de las bombas de inyección [2006.01]"
+  },
+  {
+    "code": "F02M 57/00",
+    "description": "Inyectores de combustible combinados o asociados con otros dispositivos [2006.01]"
+  },
+  {
+    "code": "F02M 57/02",
+    "description": "••Inyectores estructuralmente combinados con las bombas de inyección del combustible [2006.01]"
+  },
+  {
+    "code": "F02M 57/04",
+    "description": "••siendo los dispositivos las válvulas de admisión de aire o de escape [2006.01]"
+  },
+  {
+    "code": "F02M 57/06",
+    "description": "••siendo los dispositivos bujías de encendido [2006.01]"
+  },
+  {
+    "code": "F02M 59/00",
+    "description": "Bombas especialmente adaptadas para la inyección de combustible no cubiertas en los grupos F02M 39/00-F02M 57/00 [2006.01]"
+  },
+  {
+    "code": "F02M 59/02",
+    "description": "••del tipo de pistón alternativo [2006.01]"
+  },
+  {
+    "code": "F02M 59/04",
+    "description": "••••caracterizadas por la disposición peculiar de los cilindros con relación al árbol de accionamiento de los pistones, p. ej. paralela a este árbol [2006.01]"
+  },
+  {
+    "code": "F02M 59/06",
+    "description": "••••••con cilindros dispuestos radialmente alrededor del árbol de accionamiento, p. ej. en V o en estrella [2006.01]"
+  },
+  {
+    "code": "F02M 59/08",
+    "description": "••••caracterizadas por dos o más elementos de bombeo con conductos comunes de salida [2006.01]"
+  },
+  {
+    "code": "F02M 59/10",
+    "description": "••••caracterizadas por el accionamiento del pistón [2006.01]"
+  },
+  {
+    "code": "F02M 59/12",
+    "description": "••implicando otros elementos de bombeo de desplazamiento positivo, p. ej. rotativos [2006.01]"
+  },
+  {
+    "code": "F02M 59/14",
+    "description": "••••del tipo de paredes elásticas [2006.01]"
+  },
+  {
+    "code": "F02M 59/16",
+    "description": "••caracterizadas por una compresión del combustible en varias etapas [2006.01]"
+  },
+  {
+    "code": "F02M 59/18",
+    "description": "••caracterizadas por la ejecución del bombeo por medio de la expansión de muelles previamente comprimidos [2006.01]"
+  },
+  {
+    "code": "F02M 59/20",
+    "description": "••Variación del consumo de combustible en cantidad o en tiempo [2006.01]"
+  },
+  {
+    "code": "F02M 59/22",
+    "description": "••••Variación de la cantidad de combustible por ajuste del espacio muerto del cilindro [2006.01]"
+  },
+  {
+    "code": "F02M 59/24",
+    "description": "••••con una carrera constante de los pistones que implican un recorrido útil variable [2006.01]"
+  },
+  {
+    "code": "F02M 59/26",
+    "description": "••••••utilizando los movimientos de los pistones con realización a sus cilindros [2006.01]"
+  },
+  {
+    "code": "F02M 59/28",
+    "description": "••••••••Mecanismos para ello [2006.01]"
+  },
+  {
+    "code": "F02M 59/30",
+    "description": "••••con pistones de carrera variable [2006.01]"
+  },
+  {
+    "code": "F02M 59/32",
+    "description": "••••estando regulada la cantidad de combustible por medio de pistones auxiliares movidos por el combustible, que efectúan la inyección [2006.01]"
+  },
+  {
+    "code": "F02M 59/34",
+    "description": "••••estrangulando los orificios de entrada a los elementos de bombeo o a los rebosaderos [2006.01]"
+  },
+  {
+    "code": "F02M 59/36",
+    "description": "••••por válvulas que regulan a instantes variables, si bien determinados, las aberturas del combustible [2006.01]"
+  },
+  {
+    "code": "F02M 59/38",
+    "description": "••Bombas caracterizadas por su adaptación a empleos o condiciones particulares [2006.01]"
+  },
+  {
+    "code": "F02M 59/40",
+    "description": "••••para motores reversibles [2006.01]"
+  },
+  {
+    "code": "F02M 59/42",
+    "description": "••••para el arranque de los motores [2006.01]"
+  },
+  {
+    "code": "F02M 59/44",
+    "description": "••Detalles, partes constitutivas o accesorios no cubiertos por, o con un interés distinto que, los aparatos de los grupos F02M 59/02-F02M 59/42 [2006.01]"
+  },
+  {
+    "code": "F02M 59/46",
+    "description": "••••Válvulas [2006.01]"
+  },
+  {
+    "code": "F02M 59/48",
+    "description": "••••Montaje; Desmontaje; Reemplazamiento [2006.01]"
+  },
+  {
+    "code": "F02M 61/00",
+    "description": "Inyectores de combustible no cubiertos en los grupos F02M 39/00-F02M 57/00 o F02M 67/00 [2006.01]"
+  },
+  {
+    "code": "F02M 61/02",
+    "description": "••del tipo sin válvula [2006.01]"
+  },
+  {
+    "code": "F02M 61/04",
+    "description": "••que tienen válvulas [2006.01]"
+  },
+  {
+    "code": "F02M 61/06",
+    "description": "••••estando las válvulas provistas en el lado del asiento de prolongaciones en forma de clavijas o agujas [2006.01]"
+  },
+  {
+    "code": "F02M 61/08",
+    "description": "••••abriéndose las válvulas en la dirección del flujo del combustible [2006.01]"
+  },
+  {
+    "code": "F02M 61/10",
+    "description": "••••Otros inyectores con cuerpo de válvula alargados, p. ej. del tipo válvulas de aguja [2006.01]"
+  },
+  {
+    "code": "F02M 61/12",
+    "description": "••••••caracterizados por la existencia de medios de guía o de centrado para los cuerpos de válvula [2006.01]"
+  },
+  {
+    "code": "F02M 61/14",
+    "description": "••Disposición de los inyectores con relación a los motores; Montaje de los inyectores [2006.01]"
+  },
+  {
+    "code": "F02M 61/16",
+    "description": "••Detalles no cubiertos por, o con un interés distinto que, los aparatos de los grupos F02M 61/02-F02M 61/14 [2006.01]"
+  },
+  {
+    "code": "F02M 61/18",
+    "description": "••••Boquillas de inyección, p. ej. implicando asientos de válvulas [2006.01]"
+  },
+  {
+    "code": "F02M 61/20",
+    "description": "••••Cierre mecánico de las válvulas, p. ej. por resorte o pasos [2006.01]"
+  },
+  {
+    "code": "F02M 63/00",
+    "description": "Otros aparatos de inyección que tienen características particulares no cubiertas en los grupos F02M 39/00-F02M 57/00  o F02M 67/00; Detalles, partes constitutivas o accesorios de los aparatos de inyección de combustible no cubiertos por, o con un interés distinto que, los aparatos de los grupos F02M 39/00-F02M 61/00  o F02M 67/00 [2006.01]"
+  },
+  {
+    "code": "F02M 63/02",
+    "description": "••Aparatos de inyección de combustible que implican varios inyectores alimentados por un elemento de bombeo alimentando un inyector común; Aparatos de inyección de combustible implicando la puesta fuera de servicio de las bombas, de los elementos de bombas o inyectores; Aparatos de inyección de combustible con posibilidades de conectar de forma variable y alternativamente los elementos de bombeo y los inyectores [2006.01]"
+  },
+  {
+    "code": "F02M 63/04",
+    "description": "••Aparatos de inyección de combustible que implican válvulas de inyección mantenidas cerradas durante un cierto tiempo por un mecanismo de funcionamiento cíclico y abiertas automáticamente por la presión del combustible, p. ej. por una bomba o acumulador de presión constante, cuando ese mecanismo libera la válvula [2006.01]"
+  },
+  {
+    "code": "F02M 63/06",
+    "description": "••Utilización de la onda de presión engendrada por la inercia del combustible para abrir las válvulas de inyección [2006.01]"
+  },
+  {
+    "code": "F02M 65/00",
+    "description": "Ensayos de los aparatos de inyección de combustible, p. ej. verificación del inicio de la inyección [2006.01]"
+  },
+  {
+    "code": "F02M 67/02",
+    "description": "••siendo el gas aire comprimido, p. ej. comprimido en bombas [2006.01]"
+  },
+  {
+    "code": "F02M 67/04",
+    "description": "••••siendo extraído el aire de los cilindros motores [2006.01]"
+  },
+  {
+    "code": "F02M 67/06",
+    "description": "••siendo el gas diferente del aire, p. ej. vapor o gas de combustión [2006.01]"
+  },
+  {
+    "code": "F02M 67/08",
+    "description": "••••siendo el gas producido por la combustión de una parte del combustible diferente de la que es quemada en los cilindros motores [2006.01]"
+  },
+  {
+    "code": "F02M 67/10",
+    "description": "••Inyectores peculiares para estos aparatos, p. ej. del tipo sin válvula [2006.01]"
+  },
+  {
+    "code": "F02M 67/12",
+    "description": "••••implicando válvulas [2006.01]"
+  },
+  {
+    "code": "F02M 67/14",
+    "description": "••caracterizados por medios para inyectar combustibles diferentes, p. ej. combustible principal y combustible de arranque de fácil autoencendido [2006.01]"
+  },
+  {
+    "code": "F02M 69/00",
+    "description": "Aparatos de inyección de combustible a baja presión [2006.01]"
+  },
+  {
+    "code": "F02M 69/02",
+    "description": "••Bombas particulares a este efecto [2006.01]"
+  },
+  {
+    "code": "F02M 69/04",
+    "description": "••Inyectores particulares a este efecto [2006.01]"
+  },
+  {
+    "code": "F02M 69/06",
+    "description": "••caracterizados por la puesta bajo presión del combustible por medio de una fuerza centrífuga que actúa sobre el combustible [2006.01]"
+  },
+  {
+    "code": "F02M 69/08",
+    "description": "••caracterizados por el transporte del combustible por aire comprimido en la corriente principal de aire comburente [2006.01]"
+  },
+  {
+    "code": "F02M 69/10",
+    "description": "••peculiares para el barrido de los motores de dos tiempos, p. ej. con inyección en el cárter de la cámara de bombeo [2006.01]"
+  },
+  {
+    "code": "F02M 69/12",
+    "description": "••incluyendo un pistón libre movido por el combustible para la dosificación y distribución intermitentes del combustible hacia las boquillas de inyección [2006.01]"
+  },
+  {
+    "code": "F02M 69/14",
+    "description": "••con válvulas accionadas cíclicamente para conectar las boquillas de inyección con una fuente de combustible bajo presión durante la fase de inyección [2006.01]"
+  },
+  {
+    "code": "F02M 69/16",
+    "description": "••caracterizados por medios para dosificar el combustible que fluye continuamente hacia los inyectores o para hacer variar la presión del combustible antes de llegar a los inyectores [2006.01]"
+  },
+  {
+    "code": "F02M 69/18",
+    "description": "••••siendo los medios válvulas dosificadoras que estrangulan los conductos del combustible hacia los inyectores o válvulas de derivación que estrangulan los rebosaderos, estando las válvulas dosificadoras accionadas por un dispositivo sensible a los parámetros de funcionamiento del motor, p. ej. la carga, la velocidad, la temperatura o la cantidad de aire del motor (haciendo los medios variar la presión del combustible en un conducto de derivación de combustible, actuando dicha presión sobre una válvula de estrangulamiento contra la acción de la presión del combustible dosificado o del que pasa por el estrangulamiento para regular de forma variable el flujo del combustible hacia las boquillas de inyección F02M 69/26) [2006.01]"
+  },
+  {
+    "code": "F02M 69/20",
+    "description": "••••••siendo el dispositivo un servomotor, p. ej. utilizando la presión o la depresión del aire de entrada (incluyendo el dispositivo un órgano montado móvil en el conducto de admisión del aire y que se desplaza en función del flujo de aire admitido en el motor F02M 69/22) [2006.01]"
+  },
+  {
+    "code": "F02M 69/22",
+    "description": "••••••incluyendo el dispositivo un órgano montado móvil en el conducto de admisión del aire y que se desplaza en función del flujo de aire admitido en el motor [2006.01]"
+  },
+  {
+    "code": "F02M 69/24",
+    "description": "••••••incluyendo el dispositivo un órgano que transmite el movimiento de la válvula de estrangulamiento del aire accionada por el operador a las válvulas que controlan los conductos del combustible [2006.01]"
+  },
+  {
+    "code": "F02M 69/26",
+    "description": "••••haciendo los medios variar la presión del combustible en un conducto de derivación de combustible, actuando dicha presión sobre una válvula de estrangulamiento contra la acción de la presión del combustible dosificado o del que pasa por el estrangulamiento para regular de forma variable el flujo del combustible hacia las boquillas de inyección, p. ej. para mantener constante la diferencia de presión en la válvula dosificadora [2006.01]"
+  },
+  {
+    "code": "F02M 69/28",
+    "description": "••caracterizados por medios para cortar el suministro de combustible al motor o a los inyectores principales durante determinadas fases del funcionamiento del motor, p. ej. durante la deceleración [2006.01]"
+  },
+  {
+    "code": "F02M 69/30",
+    "description": "••caracterizados por medios para facilitar el arranque o el ralentí del motor o por los medios para aumentar la carga de combustible, p. ej. por debajo de temperaturas de funcionamiento normales o en caso de una demanda de potencia elevada del motor [2006.01]"
+  },
+  {
+    "code": "F02M 69/32",
+    "description": "••••con un conducto de derivación de aire alrededor de la válvula de estrangulamiento de aire o con un conducto de entrada auxiliar de aire, p. ej. con una válvula regulable en dicho conducto [2006.01]"
+  },
+  {
+    "code": "F02M 69/34",
+    "description": "••••con un circuito auxiliar de combustible que suministra combustible al motor, p. ej. conectando directamente la salida de la bomba de combustible con las boquillas de inyección [2006.01]"
+  },
+  {
+    "code": "F02M 69/36",
+    "description": "••••incluyendo un dispositivo de enriquecimiento que modifique el flujo del combustible hacia los inyectores, p. ej. actuando sobre el dispositivo de dosificación del combustible o sobre las válvulas que estrangulan los circuitos de combustible hacia las boquillas de inyección o los rebosaderos [2006.01]"
+  },
+  {
+    "code": "F02M 69/38",
+    "description": "••••••utilizando la presión del combustible, p. ej. modificando la presión del combustible en las cámaras de control del dispositivo dosificador del combustible (haciendo los medios variar la presión del combustible en un conducto de derivación de combustible, actuando dicha presión sobre una válvula de estrangulamiento contra la acción de la presión del combustible dosificado o del que pasa por el estrangulamiento para regular de forma variable el flujo del combustible hacia las boquillas de inyección F02M 69/26) [2006.01]"
+  },
+  {
+    "code": "F02M 69/40",
+    "description": "••••••utilizando la regulación de la presión del aire, p. ej. modificando la magnitud de la depresión del aire de admisión que actúa sobre las válvulas de estrangulamiento del combustible [2006.01]"
+  },
+  {
+    "code": "F02M 69/42",
+    "description": "••••••utilizando medios que no sean la presión variable de un fluido, p. ej. actuando sobre el dispositivo dosificador del combustible eléctricamente o mecánicamente [2006.01]"
+  },
+  {
+    "code": "F02M 69/44",
+    "description": "••caracterizados por medios para suministrar combustible adicional al motor en caso de apertura súbita de la válvula de estrangulamiento, p. ej. durante la aceleración [2006.01]"
+  },
+  {
+    "code": "F02M 69/46",
+    "description": "••Detalles, partes constitutivas o accesorios no cubiertos por, o con un interés distinto que, los aparatos cubiertos por los grupos F02M 69/02-F02M 69/44 [2006.01]"
+  },
+  {
+    "code": "F02M 69/48",
+    "description": "••••Disposición de los aparatos de medida del aire de admisión [2006.01]"
+  },
+  {
+    "code": "F02M 69/50",
+    "description": "••••Disposición de los distribuidores de combustible [2006.01]"
+  },
+  {
+    "code": "F02M 69/52",
+    "description": "••••Disposición de los dosificadores de combustible [2006.01]"
+  },
+  {
+    "code": "F02M 69/54",
+    "description": "••••Disposición de los reguladores de presión del combustible [2006.01]"
+  },
+  {
+    "code": "F02M 71/00",
+    "description": "Combinaciones de carburadores y de aparatos de inyección de combustible a baja presión [2006.01]"
+  },
+  {
+    "code": "F02M 71/02",
+    "description": "••estando realizada la mezcla aire-combustible por el carburador y siendo comprimida por una bomba para inyección ulterior en el aire comburente principal [2006.01]"
+  },
+  {
+    "code": "F02M 71/04",
+    "description": "••sirviendo el carburador únicamente para el arranque y el ralentí y siendo utilizado el aparato de inyección durante el funcionamiento normal del motor [2006.01]"
+  },
+  {
+    "code": "F02M 99/00",
+    "description": "Materia no prevista en otros grupos de esta subclase [2006.01]"
+  }
+]

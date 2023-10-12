@@ -1,0 +1,922 @@
+[
+  {
+    "code": "G21C 1/00",
+    "description": "Tipos de reactores [2018.01]"
+  },
+  {
+    "code": "G21C 1/02",
+    "description": "••Reactores de fisión rápidos, es decir, reactores que no utilizan el moderador [2006.01]"
+  },
+  {
+    "code": "G21C 1/03",
+    "description": "••••refrigerados por un refrigerante no necesariamente presurizado, p. ej. reactores de tipo piscina [2006.01]"
+  },
+  {
+    "code": "G21C 1/04",
+    "description": "••Reactores térmicos [2006.01]"
+  },
+  {
+    "code": "G21C 1/06",
+    "description": "••••Reactores heterogéneos, es decir, en los que el combustible y el moderador están separados [2006.01]"
+  },
+  {
+    "code": "G21C 1/07",
+    "description": "••••••Reactores de lecho de bolas; Reactores de combustible granular [2006.01]"
+  },
+  {
+    "code": "G21C 1/08",
+    "description": "••••••el moderador está altamente presurizado, p. ej. reactor de agua hirviente, reactor de sobrecalentamiento integral, reactor de agua a presión (G21C 1/22 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G21C 1/09",
+    "description": "••••••••Disposiciones para la regulación de presión, es decir, presurizadores [2006.01]"
+  },
+  {
+    "code": "G21C 1/10",
+    "description": "••••••••el moderador y el refrigerante son diferentes o están separados [2006.01]"
+  },
+  {
+    "code": "G21C 1/12",
+    "description": "••••••••••siendo sólido el moderador, p. ej. reactor del tipo Magnox [2006.01]"
+  },
+  {
+    "code": "G21C 1/14",
+    "description": "••••••el moderador no está sustancialmente presurizado, p. ej. reactor de piscina (G21C 1/22 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G21C 1/16",
+    "description": "••••••••el moderador y el refrigerante son diferentes o están separados, p. ej. reactor sodio-grafito [2006.01]"
+  },
+  {
+    "code": "G21C 1/18",
+    "description": "••••••••••el refrigerador está presurizado [2006.01]"
+  },
+  {
+    "code": "G21C 1/20",
+    "description": "••••••••••••siendo líquido el moderador, p. ej. reactor de tubos a presión [2006.01]"
+  },
+  {
+    "code": "G21C 1/22",
+    "description": "••••••utilizando combustible líquido o gaseoso [2006.01]"
+  },
+  {
+    "code": "G21C 1/24",
+    "description": "••••Reactores homogéneos, es decir, en los que el combustible y el moderador presentan un medio efectivamente homogéneo a los neutrones [2006.01]"
+  },
+  {
+    "code": "G21C 1/26",
+    "description": "••••••Reactores de una sola zona [2006.01]"
+  },
+  {
+    "code": "G21C 1/28",
+    "description": "••••••Reactores de dos zonas [2006.01]"
+  },
+  {
+    "code": "G21C 1/30",
+    "description": "••Reactores subcríticos [2006.01]"
+  },
+  {
+    "code": "G21C 1/32",
+    "description": "••Reactores de tipo integral, es decir, reactores en los que las partes no esenciales a la reacción se asocian de forma funcional con el reactor, p. ej. los cambiadores de calor, son colocados en el interior de la envoltura con el núcleo (G21C 1/02-G21C 1/30 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G21C 3/00",
+    "description": "Elementos combustibles para reactor o sus conjuntos; Empleo de sustancias especificadas para utilización como elementos combustibles para reactores [2006.01]"
+  },
+  {
+    "code": "G21C 3/02",
+    "description": "••Elementos combustibles [2006.01]"
+  },
+  {
+    "code": "G21C 3/04",
+    "description": "••••Detalles de estructura [2006.01]"
+  },
+  {
+    "code": "G21C 3/06",
+    "description": "••••••Envolturas; Camisas [2006.01]"
+  },
+  {
+    "code": "G21C 3/07",
+    "description": "••••••••caracterizados por el material, p. ej. aleaciones [2006.01]"
+  },
+  {
+    "code": "G21C 3/08",
+    "description": "••••••••provistos de medios externos para favorecer el intercambio de calor, p. ej. aletas, deflectores, canales [2006.01]"
+  },
+  {
+    "code": "G21C 3/10",
+    "description": "••••••••Obturadores de extremidades [2006.01]"
+  },
+  {
+    "code": "G21C 3/12",
+    "description": "••••••••Medios que forman parte del elemento para posicionarlo en el núcleo del reactor; Riostras exteriores con este fin [2006.01]"
+  },
+  {
+    "code": "G21C 3/14",
+    "description": "••••••••Medios que forman parte del elemento para colocarlo o retirarlo del núcleo; Medios para ensamblar elementos adyacentes [2006.01]"
+  },
+  {
+    "code": "G21C 3/16",
+    "description": "••••••Detalles de estructura en el interior de la envoltura [2006.01]"
+  },
+  {
+    "code": "G21C 3/17",
+    "description": "••••••••Medios de almacenaje o de fijación de gas en los elementos combustibles [2006.01]"
+  },
+  {
+    "code": "G21C 3/18",
+    "description": "••••••••Separadores interiores u otro material no activo en el interior de la vaina, p. ej. para compensar la expansión de las barras combustibles o para compensar una reactividad excesiva (intercapas G21C 3/20) [2006.01]"
+  },
+  {
+    "code": "G21C 3/20",
+    "description": "••••••••con revestimiento sobre el combustible o sobre el interior de la envoltura; con una capa intermedia no activa entre la envoltura y el material activo [2006.01]"
+  },
+  {
+    "code": "G21C 3/22",
+    "description": "••••con un material fisible o reproductor en contacto con el refrigerante [2006.01]"
+  },
+  {
+    "code": "G21C 3/24",
+    "description": "••••con un material fisible o reproductor bajo forma fluida en el interior de una envoltura no activa [2006.01]"
+  },
+  {
+    "code": "G21C 3/26",
+    "description": "••••con un material fisible o reproductor bajo forma de polvo en el interior de una envoltura no activa [2006.01]"
+  },
+  {
+    "code": "G21C 3/28",
+    "description": "••••con un material fisible o reproductor bajo forma sólida en el interior de una envoltura no activa [2006.01]"
+  },
+  {
+    "code": "G21C 3/30",
+    "description": "••Conjuntos de un cierto número de elementos combustibles bajo forma de una unidad rígida [2006.01]"
+  },
+  {
+    "code": "G21C 3/32",
+    "description": "••••Haces de elementos combustibles en forma de agujas, de barras o de tubos paralelos [2006.01]"
+  },
+  {
+    "code": "G21C 3/322",
+    "description": "••••••Medios para influenciar el flujo del refrigerante a través o alrededor de los haces [2006.01]"
+  },
+  {
+    "code": "G21C 3/324",
+    "description": "••••••Encamisados o envolturas para los haces [2006.01]"
+  },
+  {
+    "code": "G21C 3/326",
+    "description": "••••••que comprenden elementos combustibles de diferentes composiciones; que comprenden, además de elementos combustibles, otros elementos en forma de aguja, barra o tubo, p. ej. barras de control, barras de soporte de rejillas, barras fértiles, barras de veneno o barras ficticias [2006.01]"
+  },
+  {
+    "code": "G21C 3/328",
+    "description": "••••••••Disposición relativa de los elementos en el haz [2006.01]"
+  },
+  {
+    "code": "G21C 3/33",
+    "description": "••••••Medios para soportar o suspender elementos en el haz (rejillas de espaciamiento G21C 3/34); Medios que forman parte del haz para insertarlo en el núcleo o extraerlo de él; Medios de acoplamiento de haces adyacentes [2006.01]"
+  },
+  {
+    "code": "G21C 3/332",
+    "description": "••••••••Soportes para rejillas de espaciamiento [2006.01]"
+  },
+  {
+    "code": "G21C 3/334",
+    "description": "••••••Montaje de los haces [2006.01]"
+  },
+  {
+    "code": "G21C 3/335",
+    "description": "••••••Cambio de elementos en haces irradiados [2006.01]"
+  },
+  {
+    "code": "G21C 3/336",
+    "description": "••••••Elementos de espaciamiento para barras combustibles en el haz (rejillas de espaciamiento G21C 3/34) [2006.01]"
+  },
+  {
+    "code": "G21C 3/338",
+    "description": "••••••••Elementos helicoidales de espaciamiento [2006.01]"
+  },
+  {
+    "code": "G21C 3/34",
+    "description": "••••••Rejillas de espaciamiento [2006.01]"
+  },
+  {
+    "code": "G21C 3/344",
+    "description": "••••••••formadas por un montaje de elementos tubulares [2006.01]"
+  },
+  {
+    "code": "G21C 3/348",
+    "description": "••••••••formadas por un montaje de bandas sin intersecciones entre ellas [2006.01]"
+  },
+  {
+    "code": "G21C 3/352",
+    "description": "••••••••formadas por un montaje de bandas con intersecciones entre ellas [2006.01]"
+  },
+  {
+    "code": "G21C 3/356",
+    "description": "••••••••provistas de órganos de soporte de los elementos combustibles [2006.01]"
+  },
+  {
+    "code": "G21C 3/36",
+    "description": "••••Conjunto de elementos combustibles en forma de placas o de tubos coaxiales [2006.01]"
+  },
+  {
+    "code": "G21C 3/38",
+    "description": "••Unidades de combustible que consisten en un elemento combustible único en un manguito de soporte [2006.01]"
+  },
+  {
+    "code": "G21C 3/40",
+    "description": "••Combinación estructural de un elemento combustible con un elemento termoeléctrico para la producción directa de energía eléctrica a partir del calor de fisión (combinación estructural de un elemento combustible con un instrumento para la medida de temperatura G21C 17/112) [2006.01]"
+  },
+  {
+    "code": "G21C 3/42",
+    "description": "••Uso de sustancias especificadas como combustibles para reactores [2006.01]"
+  },
+  {
+    "code": "G21C 3/44",
+    "description": "••••Combustible para reactor fluido o fluyente [2006.01]"
+  },
+  {
+    "code": "G21C 3/46",
+    "description": "••••••Composiciones acuosas [2006.01]"
+  },
+  {
+    "code": "G21C 3/48",
+    "description": "••••••••Soluciones verdaderas o coloidales del componente activo [2006.01]"
+  },
+  {
+    "code": "G21C 3/50",
+    "description": "••••••••Suspensiones del componente activo; Barros [2006.01]"
+  },
+  {
+    "code": "G21C 3/52",
+    "description": "••••••Composiciones de metal líquido [2006.01]"
+  },
+  {
+    "code": "G21C 3/54",
+    "description": "••••••Sales fundidas, composiciones de óxidos o hidróxidos [2006.01]"
+  },
+  {
+    "code": "G21C 3/56",
+    "description": "••••••Composiciones gaseosas; Suspensiones en un transporte gaseoso [2006.01]"
+  },
+  {
+    "code": "G21C 3/58",
+    "description": "••••Combustible para reactor sólido [2006.01]"
+  },
+  {
+    "code": "G21C 3/60",
+    "description": "••••••Combustible metálico; Dispersiones intermetálicas [2006.01]"
+  },
+  {
+    "code": "G21C 3/62",
+    "description": "••••••Combustible cerámico [2006.01]"
+  },
+  {
+    "code": "G21C 3/64",
+    "description": "••••••••Combustible cerámico en dispersión, p. ej. cerametal [2006.01]"
+  },
+  {
+    "code": "G21C 5/00",
+    "description": "Estructura del moderador o del núcleo; Empleo de materiales específicos como moderador [2006.01]"
+  },
+  {
+    "code": "G21C 5/02",
+    "description": "••Detalles [2006.01]"
+  },
+  {
+    "code": "G21C 5/04",
+    "description": "••••Disposiciones espaciales que permiten el inflado Wigner [2006.01]"
+  },
+  {
+    "code": "G21C 5/06",
+    "description": "••••Medios para colocar o para soportar los elementos combustibles [2006.01]"
+  },
+  {
+    "code": "G21C 5/08",
+    "description": "••••Medios para prevenir la expansión asimétrica no deseada de la estructura completa [2006.01]"
+  },
+  {
+    "code": "G21C 5/10",
+    "description": "••••Medios para soportar la estructura completa [2006.01]"
+  },
+  {
+    "code": "G21C 5/12",
+    "description": "••caracterizada por la composición, p. ej. el moderador contiene sustancias adicionales que aseguran una mejor resistencia del moderador [2006.01]"
+  },
+  {
+    "code": "G21C 5/14",
+    "description": "••caracterizada por la forma [2006.01]"
+  },
+  {
+    "code": "G21C 5/16",
+    "description": "••••Forma de sus partes constituyentes [2006.01]"
+  },
+  {
+    "code": "G21C 5/18",
+    "description": "••caracterizada por la instalación de más de una zona activa [2006.01]"
+  },
+  {
+    "code": "G21C 5/20",
+    "description": "••••en la que una zona contiene el material fisible y la otra zona contiene el material reproductor [2006.01]"
+  },
+  {
+    "code": "G21C 5/22",
+    "description": "••••en las que una de las zonas es una zona de sobrecalentamiento [2006.01]"
+  },
+  {
+    "code": "G21C 7/00",
+    "description": "Control de la reacción nuclear [2006.01]"
+  },
+  {
+    "code": "G21C 7/02",
+    "description": "••por utilización de propiedades autorreguladoras de los materiales del reactor (instalaciones que implican la estabilidad de la temperatura G21C 7/32) [2006.01]"
+  },
+  {
+    "code": "G21C 7/04",
+    "description": "••••de venenos combustibles (venenos combustibles en barras de combustible G21C 3/326) [2006.01]"
+  },
+  {
+    "code": "G21C 7/06",
+    "description": "••por aplicación de material que absorbe los neutrones, es decir, material con sección eficaz de absorción que excede ampliamente la sección eficaz de reflexión [2006.01]"
+  },
+  {
+    "code": "G21C 7/08",
+    "description": "••••por desplazamiento de los elementos de control sólidos, p. ej. barras de control [2006.01]"
+  },
+  {
+    "code": "G21C 7/10",
+    "description": "••••••Estructuras de los elementos de control [2006.01]"
+  },
+  {
+    "code": "G21C 7/103",
+    "description": "••••••••Conjuntos de control que conllevan uno o varios absorbentes así como otros elementos, p. ej. combustibles o moderadores [2006.01]"
+  },
+  {
+    "code": "G21C 7/107",
+    "description": "••••••••Elementos de control adaptados a reactores de lecho de bolas [2006.01]"
+  },
+  {
+    "code": "G21C 7/11",
+    "description": "••••••••Elementos de control deformables, p. ej. flexibles, telescópicos, articulados [2006.01]"
+  },
+  {
+    "code": "G21C 7/113",
+    "description": "••••••••Elementos de control constituidos por elementos planos; Elementos de control de sección cruciforme [2006.01]"
+  },
+  {
+    "code": "G21C 7/117",
+    "description": "••••••••Ramilletes de barras de control; Estructura en araña [2006.01]"
+  },
+  {
+    "code": "G21C 7/12",
+    "description": "••••••Medios para llevar el elemento de control a la posición deseada (medios que aseguran la caída de las barras de control en el núcleo del reactor en caso de emergencia G21C 9/02) [2006.01]"
+  },
+  {
+    "code": "G21C 7/14",
+    "description": "••••••••Instalaciones de conducción mecánica [2006.01]"
+  },
+  {
+    "code": "G21C 7/16",
+    "description": "••••••••Instalaciones de conducción hidráulica o neumática [2006.01]"
+  },
+  {
+    "code": "G21C 7/18",
+    "description": "••••••Medios para obtener un movimiento diferencial de los elementos de control [2006.01]"
+  },
+  {
+    "code": "G21C 7/20",
+    "description": "••••••Disposiciones de dispositivos amortiguadores de choques [2006.01]"
+  },
+  {
+    "code": "G21C 7/22",
+    "description": "••••por desplazamiento de un material fluido o fluyente que absorbe los neutrones [2006.01]"
+  },
+  {
+    "code": "G21C 7/24",
+    "description": "••••Empleo de sustancias especificadas para utilización como material que absorbe los neutrones [2006.01]"
+  },
+  {
+    "code": "G21C 7/26",
+    "description": "••por desplazamiento del moderador o de las partes de éste [2006.01]"
+  },
+  {
+    "code": "G21C 7/27",
+    "description": "••••Control por decalaje espectral [2006.01]"
+  },
+  {
+    "code": "G21C 7/28",
+    "description": "••por desplazamiento del reflector o de partes de éste [2006.01]"
+  },
+  {
+    "code": "G21C 7/30",
+    "description": "••por desplazamiento del combustible del reactor o de elementos combustibles [2006.01]"
+  },
+  {
+    "code": "G21C 7/32",
+    "description": "••por variaciones de la corriente de refrigerante a través del núcleo [2006.01]"
+  },
+  {
+    "code": "G21C 7/34",
+    "description": "••por utilización de una fuente de neutrones primaria [2006.01]"
+  },
+  {
+    "code": "G21C 7/36",
+    "description": "••Circuitos de control [2006.01]"
+  },
+  {
+    "code": "G21C 9/00",
+    "description": "Disposiciones para la protección de emergencia estructuralmente asociadas con el reactor (disposiciones para la refrigeración de emergencia G21C 15/18) [2006.01]"
+  },
+  {
+    "code": "G21C 9/004",
+    "description": "••Supresión de la presión [2006.01]"
+  },
+  {
+    "code": "G21C 9/008",
+    "description": "••••por discos o diafragmas de ruptura [2006.01]"
+  },
+  {
+    "code": "G21C 9/012",
+    "description": "••••por acumulación térmica o condensación de vapor, p. ej. condensadores de hielo [2006.01]"
+  },
+  {
+    "code": "G21C 9/016",
+    "description": "••Recuperadores de núcleo [2006.01]"
+  },
+  {
+    "code": "G21C 9/02",
+    "description": "••Medios para efectuar una reducción muy rápida del factor de reactividad en condiciones defectuosas, p. ej. fusible para reactor [2006.01]"
+  },
+  {
+    "code": "G21C 9/027",
+    "description": "••••por el movimiento rápido de un sólido, p. ej. de bolas [2006.01]"
+  },
+  {
+    "code": "G21C 9/033",
+    "description": "••••por un fluido absorbente [2006.01]"
+  },
+  {
+    "code": "G21C 9/04",
+    "description": "••Medios para combatir los incendios [2006.01]"
+  },
+  {
+    "code": "G21C 9/06",
+    "description": "••••Medios de prevención de la acumulación de gases explosivos, p. ej. recombinadores [2006.01]"
+  },
+  {
+    "code": "G21C 11/00",
+    "description": "Blindaje estructuralmente asociado con el reactor [2006.01]"
+  },
+  {
+    "code": "G21C 11/02",
+    "description": "••Blindaje biológico [2006.01]"
+  },
+  {
+    "code": "G21C 11/04",
+    "description": "••••sobre una embarcación [2006.01]"
+  },
+  {
+    "code": "G21C 11/06",
+    "description": "••Pantallas reflectoras, es decir, para minimizar la pérdida de neutrones [2006.01]"
+  },
+  {
+    "code": "G21C 11/08",
+    "description": "••Pantallas térmicas; Revestimientos térmicos, es decir, para disipar el calor que proviene de radiaciones gamma que sin ello calentarían una pantalla biológica externa [2006.01]"
+  },
+  {
+    "code": "G21C 13/00",
+    "description": "Vasijas de presión; Vasijas de contención; Contención en general [2006.01]"
+  },
+  {
+    "code": "G21C 13/02",
+    "description": "••Detalles [2006.01]"
+  },
+  {
+    "code": "G21C 13/024",
+    "description": "••••Estructuras que soportan las vasijas de presión o las vasijas de contención [2006.01]"
+  },
+  {
+    "code": "G21C 13/028",
+    "description": "••••Juntas, p. ej. para las vasijas de presión o las vasijas de contención [2006.01]"
+  },
+  {
+    "code": "G21C 13/032",
+    "description": "••••Uniones entre el tubo y la pared de una vasija, p. ej. teniendo en cuenta los esfuerzos térmicos [2006.01]"
+  },
+  {
+    "code": "G21C 13/036",
+    "description": "••••••en que el tubo atraviesa la pared, es decir, continúa por ambos lados de la pared [2006.01]"
+  },
+  {
+    "code": "G21C 13/04",
+    "description": "••••Disposiciones para la expansión y la contracción [2006.01]"
+  },
+  {
+    "code": "G21C 13/06",
+    "description": "••••Tapones precintados [2006.01]"
+  },
+  {
+    "code": "G21C 13/067",
+    "description": "••••••para caños, p. ej. pozos de carga; Dispositivos de cierre de seguridad para tapones [2006.01]"
+  },
+  {
+    "code": "G21C 13/073",
+    "description": "••••••Cierres para vasijas de reactores, p. ej. rotativos [2006.01]"
+  },
+  {
+    "code": "G21C 13/08",
+    "description": "••Vasijas caracterizadas por el material; Empleo de materiales específicos para las vasijas de presión [2006.01]"
+  },
+  {
+    "code": "G21C 13/087",
+    "description": "••••Vasijas metálicas [2006.01]"
+  },
+  {
+    "code": "G21C 13/093",
+    "description": "••••Vasijas de hormigón [2006.01]"
+  },
+  {
+    "code": "G21C 13/10",
+    "description": "••Medios para prevenir la contaminación en el caso de una fuga [2006.01]"
+  },
+  {
+    "code": "G21C 15/00",
+    "description": "Disposiciones para la refrigeración en el interior de la vasija de presión que contiene el núcleo; Utilización de refrigerantes específicos [2006.01]"
+  },
+  {
+    "code": "G21C 15/02",
+    "description": "••Colocación o disposición de pasos en los que el calor es transferido al refrigerante, p. ej. para la circulación del refrigerante a través de los soportes de los elementos combustibles [2006.01]"
+  },
+  {
+    "code": "G21C 15/04",
+    "description": "••••que provienen del material fisible o reproductor [2006.01]"
+  },
+  {
+    "code": "G21C 15/06",
+    "description": "••••••en los elementos combustibles [2006.01]"
+  },
+  {
+    "code": "G21C 15/08",
+    "description": "••••que provienen del material moderador [2006.01]"
+  },
+  {
+    "code": "G21C 15/10",
+    "description": "••••que provienen del reflector o de la pantalla térmica [2006.01]"
+  },
+  {
+    "code": "G21C 15/12",
+    "description": "••••que provienen de la vasija de presión; que provienen de la vasija de contención [2006.01]"
+  },
+  {
+    "code": "G21C 15/14",
+    "description": "••••que provienen de conductos que sirven de paso a un fluido caliente; que provienen de conductos con aparatos auxiliares, p. ej. bombas, cámaras [2006.01]"
+  },
+  {
+    "code": "G21C 15/16",
+    "description": "••que comprenden medios de separación del líquido y del vapor [2006.01]"
+  },
+  {
+    "code": "G21C 15/18",
+    "description": "••Disposiciones para la refrigeración de emergencia; Extracción del calor residual [2006.01]"
+  },
+  {
+    "code": "G21C 15/20",
+    "description": "••Compartimentos o aislamiento térmico entre el canal de combustible y el moderador, p. ej. en los reactores de tubos de presión [2006.01]"
+  },
+  {
+    "code": "G21C 15/22",
+    "description": "••Asociación estructural de los tubos del refrigerante con los colectores u otras conducciones, p. ej. en los reactores de tubos de presión [2006.01]"
+  },
+  {
+    "code": "G21C 15/24",
+    "description": "••Ciclo del fluido refrigerante [2006.01]"
+  },
+  {
+    "code": "G21C 15/243",
+    "description": "••••para líquidos [2006.01]"
+  },
+  {
+    "code": "G21C 15/247",
+    "description": "••••••para metales líquidos [2006.01]"
+  },
+  {
+    "code": "G21C 15/25",
+    "description": "••••••utilizando bombas de chorro [2006.01]"
+  },
+  {
+    "code": "G21C 15/253",
+    "description": "••••para gases, p. ej. ventiladores [2006.01]"
+  },
+  {
+    "code": "G21C 15/257",
+    "description": "••••utilizando tubos de transporte de calor [2006.01]"
+  },
+  {
+    "code": "G21C 15/26",
+    "description": "••••por convección, p. ej. que utilizan chimeneas, que utilizan canales divergentes [2006.01]"
+  },
+  {
+    "code": "G21C 15/28",
+    "description": "••Utilización de refrigerantes específicos (si son utilizados como moderadores G21C 5/12) [2006.01]"
+  },
+  {
+    "code": "G21C 17/00",
+    "description": "Monitorización; Ensayos [2006.01]"
+  },
+  {
+    "code": "G21C 17/003",
+    "description": "••Inspección remota de las vasijas, p. ej. de las vasijas de presión [2006.01]"
+  },
+  {
+    "code": "G21C 17/007",
+    "description": "••••Inspección de las superficies externas de las vasijas [2006.01]"
+  },
+  {
+    "code": "G21C 17/01",
+    "description": "••••Inspección de las superficies internas de las vasijas [2006.01]"
+  },
+  {
+    "code": "G21C 17/013",
+    "description": "••••Vehículos de inspección [2006.01]"
+  },
+  {
+    "code": "G21C 17/017",
+    "description": "••Inspección o mantenimiento de tuberías o de tubos en instalaciones nucleares [2006.01]"
+  },
+  {
+    "code": "G21C 17/02",
+    "description": "••Dispositivos o disposiciones para la vigilancia del refrigerante o del moderador [2006.01]"
+  },
+  {
+    "code": "G21C 17/022",
+    "description": "••••para la vigilancia de refrigerantes o de moderadores líquidos [2006.01]"
+  },
+  {
+    "code": "G21C 17/025",
+    "description": "••••••para la vigilancia de refrigerantes constituidos por metales líquidos [2006.01]"
+  },
+  {
+    "code": "G21C 17/028",
+    "description": "••••para la vigilancia de refrigerantes gaseosos [2006.01]"
+  },
+  {
+    "code": "G21C 17/032",
+    "description": "••••Medida o vigilancia del gasto de refrigerante [2006.01]"
+  },
+  {
+    "code": "G21C 17/035",
+    "description": "••••Dispositivos de detección del nivel del refrigerante o del moderador [2006.01]"
+  },
+  {
+    "code": "G21C 17/038",
+    "description": "••••Detección de la ebullición del refrigerante o del moderador [2006.01]"
+  },
+  {
+    "code": "G21C 17/04",
+    "description": "••••Detección de rotura de conducto [2006.01]"
+  },
+  {
+    "code": "G21C 17/06",
+    "description": "••Dispositivos o disposiciones para la vigilancia o el ensayo del combustible o de los elementos combustibles fuera del núcleo del reactor, p. ej. para la destrucción (burnup), para la contaminación (G21C 17/08, G21C 17/10 tienen prioridad; detección de fugas en elementos combustibles durante el funcionamiento del reactor G21C 17/04) [2006.01]"
+  },
+  {
+    "code": "G21C 17/07",
+    "description": "••••Ensayos de estanqueidad [2006.01]"
+  },
+  {
+    "code": "G21C 17/08",
+    "description": "••Combinación estructural del núcleo del reactor o de la estructura del moderador con medios de visión, p. ej. con cámaras de televisión, periscopios, ventanas [2006.01]"
+  },
+  {
+    "code": "G21C 17/10",
+    "description": "••Combinaciones estructurales del elemento combustible, de la barra de control, del núcleo del reactor, o de la estructura del moderador con instrumentos sensibles, p. ej. para la medida de la radiactividad, de los esfuerzos [2006.01]"
+  },
+  {
+    "code": "G21C 17/104",
+    "description": "••••Medida de la reactividad [2006.01]"
+  },
+  {
+    "code": "G21C 17/108",
+    "description": "••••Medida del flujo [2006.01]"
+  },
+  {
+    "code": "G21C 17/112",
+    "description": "••••Medida de la temperatura [2006.01]"
+  },
+  {
+    "code": "G21C 17/116",
+    "description": "••••Pasajes o aisladores, p. ej. para cables eléctricos [2006.01]"
+  },
+  {
+    "code": "G21C 17/12",
+    "description": "••••el elemento sensible forma parte del elemento de control [2006.01]"
+  },
+  {
+    "code": "G21C 17/14",
+    "description": "••Contadores de período [2006.01]"
+  },
+  {
+    "code": "G21C 19/00",
+    "description": "Disposiciones para el tratamiento, para la manipulación, o para facilitar la manipulación, del combustible o de otros materiales utilizados en el interior del reactor, p. ej. en el interior de la vasija de presión [2006.01]"
+  },
+  {
+    "code": "G21C 19/02",
+    "description": "••Detalles de las disposiciones para manipulación [2006.01]"
+  },
+  {
+    "code": "G21C 19/04",
+    "description": "••••Medios para controlar el flujo del refrigerante sobre los objetos manipulados; Medios para controlar el flujo de refrigerante a través del canal a alimentar [2006.01]"
+  },
+  {
+    "code": "G21C 19/06",
+    "description": "••••Medios para soportar o almacenar elementos combustibles o elementos de control [2006.01]"
+  },
+  {
+    "code": "G21C 19/07",
+    "description": "••••••Estantes de almacenaje; Piscinas de almacenaje [2006.01]"
+  },
+  {
+    "code": "G21C 19/08",
+    "description": "••••Medios para el calentamiento de elementos combustibles antes de su introducción en el núcleo; Medios para el calentamiento o la refrigeración de elementos combustibles después de su extracción del núcleo [2006.01]"
+  },
+  {
+    "code": "G21C 19/10",
+    "description": "••••Dispositivos de levantamiento o de izado adaptados para cooperar con los elementos combustibles o con el elemento de control [2006.01]"
+  },
+  {
+    "code": "G21C 19/105",
+    "description": "••••••con elementos de acoplamiento que efectúan un movimiento de enganche o de extensión [2006.01]"
+  },
+  {
+    "code": "G21C 19/11",
+    "description": "••••••con elementos de acoplamiento rotativos, p. ej. manguitos o casquillos de acoplamiento [2006.01]"
+  },
+  {
+    "code": "G21C 19/115",
+    "description": "••••••con dispositivos de enclavamiento y acoplamiento de bolas [2006.01]"
+  },
+  {
+    "code": "G21C 19/12",
+    "description": "••••Disposiciones para ejercer directamente una fuerza hidráulica o neumática sobre el elemento combustible o el elemento de control [2006.01]"
+  },
+  {
+    "code": "G21C 19/14",
+    "description": "••caracterizados por su adaptación para el empleo con canales horizontales en el núcleo del reactor [2006.01]"
+  },
+  {
+    "code": "G21C 19/16",
+    "description": "••Pasillos o tubos articulados o telescópicos para la unión a los canales en el núcleo del reactor [2006.01]"
+  },
+  {
+    "code": "G21C 19/18",
+    "description": "••Aparatos para llevar los elementos combustibles al área de carga del reactor, p. ej. desde un emplazamiento de almacenamiento [2006.01]"
+  },
+  {
+    "code": "G21C 19/19",
+    "description": "••Partes de reactores específicamente adaptados para facilitar la manipulación, p. ej. para facilitar la carga o descarga de elementos combustibles [2006.01]"
+  },
+  {
+    "code": "G21C 19/20",
+    "description": "••Disposiciones para introducción de objetos en el interior de la vasija de presión; Disposiciones para manipular objetos en el interior de la vasija de presión; Disposiciones para extraer objetos de la vasija de presión [2006.01]"
+  },
+  {
+    "code": "G21C 19/22",
+    "description": "••••Disposiciones para tener acceso al interior de la vasija de presión durante el funcionamiento del reactor [2006.01]"
+  },
+  {
+    "code": "G21C 19/24",
+    "description": "••••••por utilización de una vasija auxiliar unida herméticamente de forma temporal a la vasija de presión [2006.01]"
+  },
+  {
+    "code": "G21C 19/26",
+    "description": "••Disposiciones para quitar los elementos combustibles o los elementos de control agarrotados o dañados; Disposiciones para desplazar las partes rotas de éstos [2006.01]"
+  },
+  {
+    "code": "G21C 19/28",
+    "description": "••Disposiciones para introducir un material fluyente en el interior del núcleo del reactor; Disposiciones para extraer un material fluyente del núcleo del reactor [2006.01]"
+  },
+  {
+    "code": "G21C 19/30",
+    "description": "••••con purificación continua del material fluyente en circulación, p. ej. por extracción de productos de fisión [2006.01]"
+  },
+  {
+    "code": "G21C 19/303",
+    "description": "••••••especialmente adaptados para gases (descontaminación de gases G21F 9/02) [2006.01]"
+  },
+  {
+    "code": "G21C 19/307",
+    "description": "••••••especialmente adaptados para líquidos (descontaminación de líquidos G21F 9/04) [2006.01]"
+  },
+  {
+    "code": "G21C 19/31",
+    "description": "••••••••para metales fundidos [2006.01]"
+  },
+  {
+    "code": "G21C 19/313",
+    "description": "••••••••••utilizando trampas frías [2006.01]"
+  },
+  {
+    "code": "G21C 19/317",
+    "description": "••••••Dispositivos de recombinación para productos de disociación radiolítica [2006.01]"
+  },
+  {
+    "code": "G21C 19/32",
+    "description": "••Aparatos para retirar objetos o materiales radiactivos del área de descarga del reactor, p. ej. para llevarlo a un lugar de almacenamiento; Aparatos para manipular objetos o materiales radiactivos en el interior del lugar de almacenamiento o extraerlos de éste (medios para desembarazarse de residuos de materiales de desecho G21F 9/00) [2006.01]"
+  },
+  {
+    "code": "G21C 19/33",
+    "description": "••Aparatos o procedimientos para desmantelar las hileras de elementos combustibles agotados (G21C 19/34 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G21C 19/34",
+    "description": "••Procesos o aparatos para desmantelar el combustible nuclear, p. ej. antes del reprocesado [2006.01]"
+  },
+  {
+    "code": "G21C 19/36",
+    "description": "••••Medios mecánicos únicamente [2006.01]"
+  },
+  {
+    "code": "G21C 19/365",
+    "description": "••••••Separación del combustible y de las vainas o encamisados [2006.01]"
+  },
+  {
+    "code": "G21C 19/37",
+    "description": "••••••••por troceado simultáneo del elemento combustible y de su vaina o camisa, p. ej. por corte o cizallamiento [2006.01]"
+  },
+  {
+    "code": "G21C 19/375",
+    "description": "••••••Dispositivos de compactación, p. ej. para montajes combustibles [2006.01]"
+  },
+  {
+    "code": "G21C 19/38",
+    "description": "••••Medios químicos únicamente [2006.01]"
+  },
+  {
+    "code": "G21C 19/40",
+    "description": "••Disposiciones para prevenir la aparición de condiciones críticas, p. ej. durante el almacenamiento [2006.01]"
+  },
+  {
+    "code": "G21C 19/42",
+    "description": "••Reprocesado de combustibles irradiados [2006.01]"
+  },
+  {
+    "code": "G21C 19/44",
+    "description": "••••de combustibles sólidos irradiados [2006.01]"
+  },
+  {
+    "code": "G21C 19/46",
+    "description": "••••••Procedimientos acuosos [2006.01]"
+  },
+  {
+    "code": "G21C 19/48",
+    "description": "••••••Procedimientos no acuosos [2006.01]"
+  },
+  {
+    "code": "G21C 19/50",
+    "description": "••••de combustible fluido irradiado [2006.01]"
+  },
+  {
+    "code": "G21C 21/00",
+    "description": "Aparatos o procesos especialmente adaptados para la fabricación de reactores o de piezas de éstos [2006.01]"
+  },
+  {
+    "code": "G21C 21/02",
+    "description": "••Fabricación de elementos combustibles o reproductores en el interior de conductos no activos [2006.01]"
+  },
+  {
+    "code": "G21C 21/04",
+    "description": "••••por compactado o apilado por vibración [2006.01]"
+  },
+  {
+    "code": "G21C 21/06",
+    "description": "••••por embutido [2006.01]"
+  },
+  {
+    "code": "G21C 21/08",
+    "description": "••••por procedimiento de revestido [2006.01]"
+  },
+  {
+    "code": "G21C 21/10",
+    "description": "••••por extrusión, hilado, estirado [2006.01]"
+  },
+  {
+    "code": "G21C 21/12",
+    "description": "••••por envasado hidrostático o termoneumático [2006.01]"
+  },
+  {
+    "code": "G21C 21/14",
+    "description": "••••por chapado en un fluido [2006.01]"
+  },
+  {
+    "code": "G21C 21/16",
+    "description": "••••por técnicas de moldeo o de inmersión [2006.01]"
+  },
+  {
+    "code": "G21C 21/18",
+    "description": "••Fabricación de los elementos de control cubiertos por el grupo G21C 7/00 [2006.01]"
+  },
+  {
+    "code": "G21C 23/00",
+    "description": "Disposiciones en los reactores para facilitar las pruebas o la irradiación [2006.01]"
+  }
+]

@@ -1,0 +1,910 @@
+[
+  {
+    "code": "E01B 1/00",
+    "description": "Balasto; Otros medios para soportar las traviesas o la vía; Drenaje del balasto (drenaje mediante zanjas, acueductos, alcantarillas o conductos E01F 5/00) [2006.01]"
+  },
+  {
+    "code": "E01B 2/00",
+    "description": "Estructura general de las vías de ferrocarril (redes de ferrocarriles B61B 1/00; cimentaciones para pavimentos E01C 3/00; cimentaciones en general E02D) [2006.01]"
+  },
+  {
+    "code": "E01B 3/00",
+    "description": "Traviesas o durmientes (para agujas o cruces E01B 7/22); Otros soportes de carriles reposando directamente sobre el balasto [2006.01]"
+  },
+  {
+    "code": "E01B 3/02",
+    "description": "••en madera (secado o impregnación B27K) [2006.01]"
+  },
+  {
+    "code": "E01B 3/04",
+    "description": "••••Medios contra el resquebrajamiento de la madera [2006.01]"
+  },
+  {
+    "code": "E01B 3/06",
+    "description": "••••••Grapas contra el reventamiento de la madera [2006.01]"
+  },
+  {
+    "code": "E01B 3/08",
+    "description": "••••••Abrazaderas o bandas para guarnecer o abrazar las traviesas (dispositivos para guarnecer in situ las traviesas de madera E01B 31/28) [2006.01]"
+  },
+  {
+    "code": "E01B 3/10",
+    "description": "••••Traviesas compuestas [2006.01]"
+  },
+  {
+    "code": "E01B 3/12",
+    "description": "••••Durmientes; Durmientes aislados o combinados con tirantes; Traviesas y durmientes combinados [2006.01]"
+  },
+  {
+    "code": "E01B 3/14",
+    "description": "••••Placas; Bloques; Tirantes para las placas o bloques [2006.01]"
+  },
+  {
+    "code": "E01B 3/16",
+    "description": "••en acero [2006.01]"
+  },
+  {
+    "code": "E01B 3/18",
+    "description": "••••Traviesas compuestas [2006.01]"
+  },
+  {
+    "code": "E01B 3/20",
+    "description": "••••Traviesas especiales, p. ej. con aberturas para trabajar el balasto (traviesas para las vías amovibles para cargas pesadas E01B 23/12) [2006.01]"
+  },
+  {
+    "code": "E01B 3/22",
+    "description": "••••Durmientes; Durmientes solos o combinados con tirantes; Traviesas y durmientes combinados [2006.01]"
+  },
+  {
+    "code": "E01B 3/24",
+    "description": "••••Placas; Bloques; Soportes de campana; Fijación de los tirantes a las placas, bloques y soportes de campana [2006.01]"
+  },
+  {
+    "code": "E01B 3/26",
+    "description": "••••con partes intercaladas en madera, piedra artificial u otro material [2006.01]"
+  },
+  {
+    "code": "E01B 3/28",
+    "description": "••en hormigón, piedra natural o artificial (fabricación B28) [2006.01]"
+  },
+  {
+    "code": "E01B 3/30",
+    "description": "••••Traviesas huecas [2006.01]"
+  },
+  {
+    "code": "E01B 3/32",
+    "description": "••••con armaduras o refuerzo (traviesas huecas E01B 3/30) [2006.01]"
+  },
+  {
+    "code": "E01B 3/34",
+    "description": "••••••las armaduras o refuerzos han sido pretensados (elementos en hormigón pretensado E04C 5/00) [2006.01]"
+  },
+  {
+    "code": "E01B 3/36",
+    "description": "••••Traviesas compuestas [2006.01]"
+  },
+  {
+    "code": "E01B 3/38",
+    "description": "••••Durmientes; Durmientes solos o combinados con tirantes; Traviesas y durmientes combinados; Asientos en hormigón soportando los dos carriles [2006.01]"
+  },
+  {
+    "code": "E01B 3/40",
+    "description": "••••Placas; Bloques; Soportes de campana; Fijación de los tirantes a las placas, bloques y soportes de campana [2006.01]"
+  },
+  {
+    "code": "E01B 3/42",
+    "description": "••••con partes intercaladas en madera o en cualquier otro material [2006.01]"
+  },
+  {
+    "code": "E01B 3/44",
+    "description": "••hechos de otros materiales, únicamente si el material es esencial [2006.01]"
+  },
+  {
+    "code": "E01B 3/46",
+    "description": "••hechos de materiales diferentes (E01B 3/26, E01B 3/42 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "E01B 3/48",
+    "description": "••Tirantes de separación o tirantes para traviesas [2006.01]"
+  },
+  {
+    "code": "E01B 5/00",
+    "description": "Carriles; Contracarriles (fabricación de carriles B21B); Medios para mantener su separación [2006.01]"
+  },
+  {
+    "code": "E01B 5/02",
+    "description": "••Carriles [2006.01]"
+  },
+  {
+    "code": "E01B 5/04",
+    "description": "••••Carriles con surco [2006.01]"
+  },
+  {
+    "code": "E01B 5/06",
+    "description": "••••Carriles reversibles o invertibles [2006.01]"
+  },
+  {
+    "code": "E01B 5/08",
+    "description": "••••Carriles compuestos; Carriles compuestos con elementos desmontables o no [2006.01]"
+  },
+  {
+    "code": "E01B 5/10",
+    "description": "••••••Carriles compuestos con surco; Piezas intercaladas para los carriles con surco [2006.01]"
+  },
+  {
+    "code": "E01B 5/12",
+    "description": "••••Carriles en los que su base o patín sirve de traviesa [2006.01]"
+  },
+  {
+    "code": "E01B 5/14",
+    "description": "••••Carriles para tramos especiales de vía, p. ej. para las curvas [2006.01]"
+  },
+  {
+    "code": "E01B 5/16",
+    "description": "••Tirantes de separación [2006.01]"
+  },
+  {
+    "code": "E01B 5/18",
+    "description": "••Contracarriles; Sus medios de conexión, de fijación o de ajuste [2006.01]"
+  },
+  {
+    "code": "E01B 7/00",
+    "description": "Cambios de aguja; Cruces (mecanismos de maniobra B61L) [2006.01]"
+  },
+  {
+    "code": "E01B 7/02",
+    "description": "••Agujas; Dispositivos anexos asociados [2006.01]"
+  },
+  {
+    "code": "E01B 7/04",
+    "description": "••••Estructuras con agujas montadas sobre un pivote vertical en su extremo [2006.01]"
+  },
+  {
+    "code": "E01B 7/06",
+    "description": "••••Estructuras con agujas flexibles o cubrejuntas flexibles [2006.01]"
+  },
+  {
+    "code": "E01B 7/08",
+    "description": "••••Otros tipos de agujas, p. ej. agujas que oscilan alrededor de un eje paralelo al carril, cuerpos de aguja o carriles móviles [2006.01]"
+  },
+  {
+    "code": "E01B 7/10",
+    "description": "••Agujas [2006.01]"
+  },
+  {
+    "code": "E01B 7/12",
+    "description": "••••Agujas fijas de una sola pieza o compuestas [2006.01]"
+  },
+  {
+    "code": "E01B 7/14",
+    "description": "••••con piezas móviles [2006.01]"
+  },
+  {
+    "code": "E01B 7/16",
+    "description": "••••Agujas para plano inclinado [2006.01]"
+  },
+  {
+    "code": "E01B 7/18",
+    "description": "••Combinaciones de cambios de agujas y de cruces [2006.01]"
+  },
+  {
+    "code": "E01B 7/20",
+    "description": "••Medios de seguridad para cambios de agujas, p. ej. protectores de puntas de agujas, trozos de carriles auxiliares o de guía [2006.01]"
+  },
+  {
+    "code": "E01B 7/22",
+    "description": "••Traviesas especiales para cambios de agujas o cruces; Sus medios de fijación [2006.01]"
+  },
+  {
+    "code": "E01B 7/24",
+    "description": "••Calefacción de los cambios de agujas [2006.01]"
+  },
+  {
+    "code": "E01B 7/26",
+    "description": "••Engrase de los cambios de agujas (engrase de los carriles B61K 3/00) [2006.01]"
+  },
+  {
+    "code": "E01B 7/28",
+    "description": "••Cruces [2006.01]"
+  },
+  {
+    "code": "E01B 7/30",
+    "description": "••••Cruces de doble plano inclinado [2006.01]"
+  },
+  {
+    "code": "E01B 9/00",
+    "description": "Fijación de los carriles sobre las traviesas o almohadillas (fijación de los carriles sobre los puentes E01D 19/12) [2006.01]"
+  },
+  {
+    "code": "E01B 9/02",
+    "description": "••Fijación directa de los carriles, de los asientos de apoyo o de los cojinetes sobre las traviesas o las cimentaciones; Medios con este fin [2006.01]"
+  },
+  {
+    "code": "E01B 9/04",
+    "description": "••••Fijación sobre traviesas de madera o de hormigón o sobre mampostería sin piezas de ajuste [2006.01]"
+  },
+  {
+    "code": "E01B 9/06",
+    "description": "••••••Pernos para carriles (clavos en general F16B) [2006.01]"
+  },
+  {
+    "code": "E01B 9/08",
+    "description": "••••••••Pernos elásticos [2006.01]"
+  },
+  {
+    "code": "E01B 9/10",
+    "description": "••••••Tirafondos o bulones para traviesas (tornillos o bulones en general F16B) [2006.01]"
+  },
+  {
+    "code": "E01B 9/12",
+    "description": "••••••Dispositivos de parada o de bloqueo para pernos o tirafondos [2006.01]"
+  },
+  {
+    "code": "E01B 9/14",
+    "description": "••••••Clavijas, manguitos, forros fileteados u otras piezas para insertar en los agujeros de las traviesas (colocación de clavijas o manguitos E01B 31/26) [2006.01]"
+  },
+  {
+    "code": "E01B 9/16",
+    "description": "••••••••para traviesas de madera [2006.01]"
+  },
+  {
+    "code": "E01B 9/18",
+    "description": "••••••••para traviesas de hormigón [2006.01]"
+  },
+  {
+    "code": "E01B 9/20",
+    "description": "••••••por cuñas [2006.01]"
+  },
+  {
+    "code": "E01B 9/22",
+    "description": "••••Fijación sobre traviesas de acero sin piezas de apriete [2006.01]"
+  },
+  {
+    "code": "E01B 9/24",
+    "description": "••••••por cuñas [2006.01]"
+  },
+  {
+    "code": "E01B 9/26",
+    "description": "••••••Fijación por soldadura [2006.01]"
+  },
+  {
+    "code": "E01B 9/28",
+    "description": "••••Fijación sobre traviesas de madera o de hormigón o sobre mampostería con piezas de apriete [2006.01]"
+  },
+  {
+    "code": "E01B 9/30",
+    "description": "••••••por grapas elásticas de acero [2006.01]"
+  },
+  {
+    "code": "E01B 9/32",
+    "description": "••••Fijación sobre traviesas de acero con piezas de presión [2006.01]"
+  },
+  {
+    "code": "E01B 9/34",
+    "description": "••••••por grapas elásticas de acero [2006.01]"
+  },
+  {
+    "code": "E01B 9/36",
+    "description": "••••Asientos metálicos para carriles fijados directamente a las traviesas [2006.01]"
+  },
+  {
+    "code": "E01B 9/38",
+    "description": "••Fijación indirecta de los carriles por empleo de asientos de apoyo o de cojinetes; Fijación de los carriles sobre los asientos de apoyo o cojinetes [2006.01]"
+  },
+  {
+    "code": "E01B 9/40",
+    "description": "••••Asientos para carriles con patín plano (fabricación B21) [2006.01]"
+  },
+  {
+    "code": "E01B 9/42",
+    "description": "••••••en dos partes o más [2006.01]"
+  },
+  {
+    "code": "E01B 9/44",
+    "description": "••••Fijación del carril sobre el asiento [2006.01]"
+  },
+  {
+    "code": "E01B 9/46",
+    "description": "••••••por estribos [2006.01]"
+  },
+  {
+    "code": "E01B 9/48",
+    "description": "••••••••por grapas elásticas de acero [2006.01]"
+  },
+  {
+    "code": "E01B 9/50",
+    "description": "••••••por cuñas [2006.01]"
+  },
+  {
+    "code": "E01B 9/52",
+    "description": "••••••••por cuñas elásticas [2006.01]"
+  },
+  {
+    "code": "E01B 9/54",
+    "description": "••••Cojinetes o asientos de carril [2006.01]"
+  },
+  {
+    "code": "E01B 9/56",
+    "description": "••••••para carriles con dos o varias superficies de rodadura [2006.01]"
+  },
+  {
+    "code": "E01B 9/58",
+    "description": "••••Fijación del carril sobre el cojinete [2006.01]"
+  },
+  {
+    "code": "E01B 9/60",
+    "description": "••Fijación de los carriles por medio de estribos o de grapas que soportan el flanco o la cabeza del carril [2006.01]"
+  },
+  {
+    "code": "E01B 9/62",
+    "description": "••Fijación de los carriles por soportes elásticos [2006.01]"
+  },
+  {
+    "code": "E01B 9/64",
+    "description": "••Fijación de los carriles por agarre o colocación de aros en las traviesas [2006.01]"
+  },
+  {
+    "code": "E01B 9/66",
+    "description": "••Grapas que permiten la regulación de la posición de los carriles, y que por ello no han sido incluidos en los grupos precedentes [2006.01]"
+  },
+  {
+    "code": "E01B 9/68",
+    "description": "••Almohadillas o similares, p. ej. en madera, en goma, colocados bajo el carril, el asiento o el cojinete [2006.01]"
+  },
+  {
+    "code": "E01B 11/00",
+    "description": "Uniones de carriles (conexiones eléctricas de los carriles B60M 5/00) [2006.01]"
+  },
+  {
+    "code": "E01B 11/02",
+    "description": "••Uniones de carriles desmontables [2006.01]"
+  },
+  {
+    "code": "E01B 11/04",
+    "description": "••••Bridas planas [2006.01]"
+  },
+  {
+    "code": "E01B 11/06",
+    "description": "••••••con cuñas o pasadores [2006.01]"
+  },
+  {
+    "code": "E01B 11/08",
+    "description": "••••Bridas en ángulo [2006.01]"
+  },
+  {
+    "code": "E01B 11/10",
+    "description": "••••Bridas con piezas que sujetan o abrazan el patín del carril [2006.01]"
+  },
+  {
+    "code": "E01B 11/12",
+    "description": "••••Bridas que no cogen el patín del carril [2006.01]"
+  },
+  {
+    "code": "E01B 11/14",
+    "description": "••••Grapas monoblocs [2006.01]"
+  },
+  {
+    "code": "E01B 11/16",
+    "description": "••••Bridas para unión de carriles de secciones diferentes [2006.01]"
+  },
+  {
+    "code": "E01B 11/18",
+    "description": "••••Bridas para separación provisional de carriles rotos [2006.01]"
+  },
+  {
+    "code": "E01B 11/20",
+    "description": "••••con dispositivo de continuidad [2006.01]"
+  },
+  {
+    "code": "E01B 11/22",
+    "description": "••••••por tramos de carriles [2006.01]"
+  },
+  {
+    "code": "E01B 11/24",
+    "description": "••••••••con extremidades biseladas o que solapan [2006.01]"
+  },
+  {
+    "code": "E01B 11/26",
+    "description": "••••••••con extremidades que se encajan entre sí [2006.01]"
+  },
+  {
+    "code": "E01B 11/28",
+    "description": "••••••por partes de los elementos de unión [2006.01]"
+  },
+  {
+    "code": "E01B 11/30",
+    "description": "••••••••Bridas con partes de la superficie de rodadura reposando en la sección derecha de la cabeza del carril [2006.01]"
+  },
+  {
+    "code": "E01B 11/32",
+    "description": "••••••por elementos distintos; Piezas incorporadas uniendo las dos cabezas del carril [2006.01]"
+  },
+  {
+    "code": "E01B 11/34",
+    "description": "••••••••Carril auxiliar colocado a lo largo de la unión [2006.01]"
+  },
+  {
+    "code": "E01B 11/36",
+    "description": "••••Ataduras de las bridas [2006.01]"
+  },
+  {
+    "code": "E01B 11/38",
+    "description": "••••••Bloqueo de estas ataduras (bloqueo de las tuercas o de los pernos en general F16B) [2006.01]"
+  },
+  {
+    "code": "E01B 11/40",
+    "description": "••••Uniones de carriles desmontables combinadas con partes soldadas [2006.01]"
+  },
+  {
+    "code": "E01B 11/42",
+    "description": "••Uniones para carriles semimóviles, p. ej. carriles sobre placas giratorias, transbordadores o puentes giratorios [2006.01]"
+  },
+  {
+    "code": "E01B 11/44",
+    "description": "••Uniones de carriles no desmontables; Uniones soldadas (métodos de soldadura B23K) [2006.01]"
+  },
+  {
+    "code": "E01B 11/46",
+    "description": "••••Métodos generales para la realización de vías continuas [2006.01]"
+  },
+  {
+    "code": "E01B 11/48",
+    "description": "••••Uniones obtenidas por soldadura con soplete [2006.01]"
+  },
+  {
+    "code": "E01B 11/50",
+    "description": "••••Uniones obtenidas por soldadura eléctrica [2006.01]"
+  },
+  {
+    "code": "E01B 11/52",
+    "description": "••••Uniones obtenidas por soldadura aluminotérmica [2006.01]"
+  },
+  {
+    "code": "E01B 11/54",
+    "description": "••Aislamiento eléctrico de las uniones de carril [2006.01]"
+  },
+  {
+    "code": "E01B 11/56",
+    "description": "••Dispositivos particulares para soportar las extremidades de carril (soportes de patín de carril E01B 11/08-E01B 11/14) [2006.01]"
+  },
+  {
+    "code": "E01B 11/58",
+    "description": "••••Placas de sujeción [2006.01]"
+  },
+  {
+    "code": "E01B 11/60",
+    "description": "••••••con cuñas [2006.01]"
+  },
+  {
+    "code": "E01B 11/62",
+    "description": "••••Cojinetes de sujeción (cojinetes E01B 9/54-E01B 9/58) [2006.01]"
+  },
+  {
+    "code": "E01B 13/00",
+    "description": "Dispositivos para prevenir el desplazamiento de la vía [2006.01]"
+  },
+  {
+    "code": "E01B 13/02",
+    "description": "••Vigas de anclaje [2006.01]"
+  },
+  {
+    "code": "E01B 15/00",
+    "description": "Protecciones que impiden que se introduzca el pie humano en el hueco de los carriles [2006.01]"
+  },
+  {
+    "code": "E01B 17/00",
+    "description": "Dispositivos contra el acceso del ganado a la vía (cadenas en general para impedir la dispersión del ganado A01K 3/00) [2006.01]"
+  },
+  {
+    "code": "E01B 19/00",
+    "description": "Protección de la vía férrea contra el desarrollo del polvo o contra los efectos del viento, del sol, del hielo o de la corrosión; Medios para reducir el ruido (pantallas antinieve E01F 7/02; quitanieves E01H 8/02; regado E01H 11/00) [2006.01]"
+  },
+  {
+    "code": "E01B 21/00",
+    "description": "Superestructuras de vía especialmente adaptadas para los tranvías en las calles pavimentadas (pavimento E01C 9/04, E01C 9/06) [2006.01]"
+  },
+  {
+    "code": "E01B 21/02",
+    "description": "••Dispositivos particulares de soporte; Drenaje para carriles [2006.01]"
+  },
+  {
+    "code": "E01B 21/04",
+    "description": "••Agregados, uniones o tirantes particulares [2006.01]"
+  },
+  {
+    "code": "E01B 23/00",
+    "description": "Vías móviles o de desmontaje fácil, p. ej. vías férreas temporales; Piezas o accesorios especialmente proyectadas a este efecto [2006.01]"
+  },
+  {
+    "code": "E01B 23/02",
+    "description": "••Vías ligeras o carriles, p. ej. para uso en los campos, minas de hulla o minas [2006.01]"
+  },
+  {
+    "code": "E01B 23/04",
+    "description": "••••Medios para fijar o conectar [2006.01]"
+  },
+  {
+    "code": "E01B 23/06",
+    "description": "••••Cambios de agujas (placas giratorias B60S, B61J); Cambios de agujas transportables; Ramificaciones [2006.01]"
+  },
+  {
+    "code": "E01B 23/08",
+    "description": "••Vías provisionales utilizadas durante la reparación de las vías de tranvías [2006.01]"
+  },
+  {
+    "code": "E01B 23/10",
+    "description": "••Vías móviles para cargas pesadas, p. ej. para excavadoras [2006.01]"
+  },
+  {
+    "code": "E01B 23/12",
+    "description": "••••Traviesas [2006.01]"
+  },
+  {
+    "code": "E01B 23/14",
+    "description": "••••Medios para fijar o conectar (fijación de carriles con cuñas E01B 9/24) [2006.01]"
+  },
+  {
+    "code": "E01B 23/16",
+    "description": "••••Cambios de agujas [2006.01]"
+  },
+  {
+    "code": "E01B 25/00",
+    "description": "Vías para tipos particulares de ferrocarriles (sistemas ferroviarios B61B; vías de carretera E01C 9/02) [2006.01]"
+  },
+  {
+    "code": "E01B 25/02",
+    "description": "••Vías para ferrocarriles de cremallera [2006.01]"
+  },
+  {
+    "code": "E01B 25/04",
+    "description": "••••Carriles de cremallera; Soportes o conexiones para carriles de cremallera [2006.01]"
+  },
+  {
+    "code": "E01B 25/06",
+    "description": "••••Cambios de agujas; Agujas fijas; Cruces [2006.01]"
+  },
+  {
+    "code": "E01B 25/08",
+    "description": "••Vías para monocarriles, con el centro de gravedad del vehículo por debajo del carril portador (E01B 25/30 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "E01B 25/10",
+    "description": "••••Monocarriles; Carriles auxiliares de equilibrado; Soportes o conexiones para estos carriles [2006.01]"
+  },
+  {
+    "code": "E01B 25/12",
+    "description": "••••Cambios de agujas; Cruces [2006.01]"
+  },
+  {
+    "code": "E01B 25/14",
+    "description": "••Vías para vehículos ferroviarios con tracción por cable [2006.01]"
+  },
+  {
+    "code": "E01B 25/15",
+    "description": "••••Cambios de agujas; Cruces [2006.01]"
+  },
+  {
+    "code": "E01B 25/16",
+    "description": "••Vías para ferrocarriles mediante cable aéreo, con cable portador fijo [2006.01]"
+  },
+  {
+    "code": "E01B 25/18",
+    "description": "••••Cables; Soportes, medios para fijar o tender los cables (cables en general D07B; mástiles E04H 12/00; fundas de cables F16G) [2006.01]"
+  },
+  {
+    "code": "E01B 25/20",
+    "description": "••••Cambios de agujas; Cruces [2006.01]"
+  },
+  {
+    "code": "E01B 25/22",
+    "description": "••Vías para ferrocarriles cuyos vehículos están suspendidos de los carriles portadores rígidos [2006.01]"
+  },
+  {
+    "code": "E01B 25/24",
+    "description": "••••Carriles portadores; Carriles auxiliares de equilibrado; Soportes o conexiones para estos carriles [2006.01]"
+  },
+  {
+    "code": "E01B 25/26",
+    "description": "••••Cambios de agujas; Cruces [2006.01]"
+  },
+  {
+    "code": "E01B 25/28",
+    "description": "••Vías mediante carril para guiar los vehículos que ruedan sobre carretera o cualquier otra superficie análoga (vías de carretera E01C 9/02) [2006.01]"
+  },
+  {
+    "code": "E01B 25/30",
+    "description": "••Vías para vehículos de suspensión magnética o levitación [2006.01]"
+  },
+  {
+    "code": "E01B 25/32",
+    "description": "••••Estátores, carriles de guía o carriles de deslizamiento [2006.01]"
+  },
+  {
+    "code": "E01B 25/34",
+    "description": "••••Cambios de agujas; Agujas fijas; Cruces [2006.01]"
+  },
+  {
+    "code": "E01B 26/00",
+    "description": "Vías o componentes de vía no cubiertos por uno cualquiera de los grupos E01B 1/00-E01B 25/00 [2006.01]"
+  },
+  {
+    "code": "E01B 27/00",
+    "description": "Colocación, renovación, trabajo, limpieza o retirada del balasto con o sin trabajo correspondiente a la vía; Dispositivos \"ad hoc\"; Aprisionado de las traviesas [2006.01]"
+  },
+  {
+    "code": "E01B 27/02",
+    "description": "••Colocación del balasto; Balasto; Igualación del material del balasto; Máquinas o dispositivos para ello; Medios de nivelación [2006.01]"
+  },
+  {
+    "code": "E01B 27/04",
+    "description": "••Retirada del balasto; Máquinas para ello, tales que su aptitud para retirar el balasto sea o no accesoria (E01B 27/06, E01B 27/12 tienen prioridad; igualación del material de balasto E01B 27/02) [2006.01]"
+  },
+  {
+    "code": "E01B 27/06",
+    "description": "••Renovación o limpieza del balasto in situ, con o sin trabajo correspondiente en la vía [2006.01]"
+  },
+  {
+    "code": "E01B 27/08",
+    "description": "••••teniendo la vía ya colocada (E01B 27/11 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "E01B 27/10",
+    "description": "••••sin haber colocado la vía (E01B 27/11 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "E01B 27/11",
+    "description": "••••combinado el cambio con el de tramos de la vía [2006.01]"
+  },
+  {
+    "code": "E01B 27/12",
+    "description": "••Aprisionado de traviesas con o sin trabajo correspondiente en la vía; Compactación del balasto que soporta la vía [2006.01]"
+  },
+  {
+    "code": "E01B 27/13",
+    "description": "••••Aprisionado de traviesas, con o sin trabajo correspondiente en la vía (prefabricación de núcleos o asientos en el balasto para las traviesas E01B 27/02) [2006.01]"
+  },
+  {
+    "code": "E01B 27/14",
+    "description": "••••••Herramientas manuales o herramientas portátiles eléctricas para este uso [2006.01]"
+  },
+  {
+    "code": "E01B 27/16",
+    "description": "••••••Máquinas para este uso, p. ej. máquinas para batear las traviesas [2006.01]"
+  },
+  {
+    "code": "E01B 27/17",
+    "description": "••••••••combinadas con medios para levantar, nivelar o raspar la vía [2006.01]"
+  },
+  {
+    "code": "E01B 27/18",
+    "description": "••••••por introducción de un material fresco bajo las traviesas, p. ej. por el método de la pala calibrada, por el método del inflado [2006.01]"
+  },
+  {
+    "code": "E01B 27/20",
+    "description": "••••Compactación o apisonado de los materiales del balasto portador de la vía, p. ej. imprimiendo vibraciones a la vía, por medio de vibradores de superficie (de un balasto sin vía E01B 27/02; para el apilado de las traviesas E01B 27/12) [2006.01]"
+  },
+  {
+    "code": "E01B 29/00",
+    "description": "Colocación, reparación o alzamiento de la vía; Herramientas o máquinas \"ad hoc\" (E01B 27/00, E01B 31/00 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "E01B 29/02",
+    "description": "••Transporte, colocación, alzamiento o reemplazamiento, por tramos conjuntados de la vía, de cambios de agujas o de cruces no desmontados (E01B 29/04 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "E01B 29/04",
+    "description": "••Retirada o nivelación de las vías (dispositivos para levantar en general B66F) [2006.01]"
+  },
+  {
+    "code": "E01B 29/05",
+    "description": "••Transporte, colocación, alzamiento o reemplazamiento simultáneo de carriles y de traviesas (sin desarmarlos E01B 29/02) [2006.01]"
+  },
+  {
+    "code": "E01B 29/06",
+    "description": "••Transporte, colocación, retirada o reemplazamiento de las traviesas (E01B 29/05 tiene prioridad; dispositivos portadores B65G 7/12) [2006.01]"
+  },
+  {
+    "code": "E01B 29/09",
+    "description": "••••procediendo por debajo de los carriles in situ [2006.01]"
+  },
+  {
+    "code": "E01B 29/10",
+    "description": "••••••para introducir o levantar las traviesas [2006.01]"
+  },
+  {
+    "code": "E01B 29/11",
+    "description": "••••••••el levantamiento implica la destrucción de la traviesa, p. ej. seccionamiento de la misma [2006.01]"
+  },
+  {
+    "code": "E01B 29/13",
+    "description": "••••••para desplazar las traviesas en una dirección paralela a los carriles, p. ej. para espaciarlos o alinearlos (E01B 29/10 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "E01B 29/14",
+    "description": "••••••para levantar las traviesas hasta los carriles (dispositivos de levantamiento B66F) [2006.01]"
+  },
+  {
+    "code": "E01B 29/16",
+    "description": "••Transporte, colocación, levantamiento o reemplazamiento de los carriles; Desplazamiento de los carriles colocados sobre traviesas en la vía (E01B 29/05 tiene prioridad; desplazamiento o basculamiento de cargas pesadas en general B65G 7/00) [2006.01]"
+  },
+  {
+    "code": "E01B 29/17",
+    "description": "••••de tramos de carriles ensamblados tope con tope, p. ej. soldados [2006.01]"
+  },
+  {
+    "code": "E01B 29/20",
+    "description": "••••Desplazamiento según el plano de la vía de los carriles colocados sobre traviesas en el plano de la vía [2006.01]"
+  },
+  {
+    "code": "E01B 29/22",
+    "description": "••••Levantamiento de los carriles desde las traviesas, p. ej. para introducir los patines (dispositivos de levantamiento en general B66F) [2006.01]"
+  },
+  {
+    "code": "E01B 29/24",
+    "description": "••Fijación o retirada de los medios de unión desmontables o de los accesorios para ello; Preensamble de los elementos de la vía por medios de unión desmontables (E01B 29/02, E01B 31/26 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "E01B 29/26",
+    "description": "••••los medios de unión están formados por grapas (E01B 29/16 tiene prioridad; herramientas de mano para introducir o arrancar clavos o grapas B25C) [2006.01]"
+  },
+  {
+    "code": "E01B 29/28",
+    "description": "••••los medios de unión son tipo tornillo y tuerca (aparatos portátiles para colocar o retirar los tornillos o similares B25B); Aparatos para este uso, proyectados para taladrar agujeros [2006.01]"
+  },
+  {
+    "code": "E01B 29/29",
+    "description": "••••••para elementos de unión dispuestos horizontalmente, p. ej. para tornillos de brida [2006.01]"
+  },
+  {
+    "code": "E01B 29/32",
+    "description": "••Colocación in situ o levantamiento de elementos de la vía, no cubiertos en los grupos precedentes, p. ej. patines, anclajes de carriles (E01B 31/26 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "E01B 29/40",
+    "description": "••Medios o dispositivos de las vías establecidas o bien de los carriles o de las traviesas de la vía (bridas provisionales E01B 11/18) [2006.01]"
+  },
+  {
+    "code": "E01B 29/42",
+    "description": "••Ensamblaje o fijación de una forma definitiva de los componentes de la vía en o sobre la vía, p. ej. por soldadura, pegado o encolado; Preensamblaje de los componentes de la vía por encolado; Relleno de las uniones con componentes (E01B 31/26 tiene prioridad; medios de calefacción independiente E01B 31/18; soldadura en sí B23K; encolado en sí de piezas metálicas F16B 11/00) [2006.01]"
+  },
+  {
+    "code": "E01B 29/44",
+    "description": "••••Métodos para efectuar el ensamblaje de los carriles en la vía, p. ej. teniendo en cuenta la temperatura ambiente [2006.01]"
+  },
+  {
+    "code": "E01B 29/46",
+    "description": "••••Dispositivos para mantener, colocar en posición o apretar uno contra otro las extremidades de los carriles (ajuste de la unión por desplazamiento de los carriles E01B 29/20) [2006.01]"
+  },
+  {
+    "code": "E01B 31/00",
+    "description": "Trabajo de los carriles, traviesas, placas de apoyo o similares, estando o sin estar colocadas in situ; Máquinas, herramientas o dispositivos auxiliares especialmente proyectados para ello (caracterizados por particularidades independientes de su uso sobre una vía ensamblada B21, B23-B25, B27) [2006.01]"
+  },
+  {
+    "code": "E01B 31/02",
+    "description": "••Trabajo in situ de los carriles o de otros elementos metálicos de la vía [2006.01]"
+  },
+  {
+    "code": "E01B 31/04",
+    "description": "••••Corte o ranurado, p. ej. por aserrado, cizalladura, corte por soplete [2006.01]"
+  },
+  {
+    "code": "E01B 31/06",
+    "description": "••••Taladro de agujeros, p. ej. por perforación, por estampación, por soplete [2006.01]"
+  },
+  {
+    "code": "E01B 31/08",
+    "description": "••••Curvatura o enderezamiento de los carriles o de las uniones de los carriles (para la colocación en posición de las extremidades de los carriles a soldar E01B 29/46) [2006.01]"
+  },
+  {
+    "code": "E01B 31/12",
+    "description": "••••Retirada del metal de los carriles, uniones de los carriles o placas de apoyo, p. ej. para el desbarbado de las soldaduras, la restauración de carriles usados [2006.01]"
+  },
+  {
+    "code": "E01B 31/13",
+    "description": "••••••por plegamiento [2006.01]"
+  },
+  {
+    "code": "E01B 31/15",
+    "description": "••••••por cepilladura o limadura [2006.01]"
+  },
+  {
+    "code": "E01B 31/17",
+    "description": "••••••por amolado [2006.01]"
+  },
+  {
+    "code": "E01B 31/18",
+    "description": "••••Reacondicionamiento o reparación in situ de partes usadas o dañadas, p. ej. aplicación de piezas intercaladas, reconstrucción de carriles por soldadura (E01B 31/04-E01B 31/12 tienen prioridad); Calefacción o enfriamiento in situ de las partes, p. ej. para reducir la separación de los empalmes, para endurecer los carriles [2006.01]"
+  },
+  {
+    "code": "E01B 31/20",
+    "description": "••Trabajo o tratamiento de las traviesas no metálicas estando colocadas o sin colocar in situ, p. ej. marcado, creosotado (trabajo de traviesas metálicas E01B 31/02) [2006.01]"
+  },
+  {
+    "code": "E01B 31/22",
+    "description": "••••Cortadura, entallado o trabajo de la superficie de las traviesas de madera, p. ej. para formar calzas de carriles (E01B 31/24 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "E01B 31/23",
+    "description": "••••••Seccionamiento (combinado con el levantamiento de tramos fuera de la vía E01B 29/11) [2006.01]"
+  },
+  {
+    "code": "E01B 31/24",
+    "description": "••••Horadado, tratamiento, restauración o limpieza de los agujeros en las traviesas; Gálibos de horadado (E01B 29/28, E01B 31/26 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "E01B 31/26",
+    "description": "••••Inserción o extracción de piezas añadidas o de materias de relleno para los agujeros en las traviesas, p. ej. clavijas, virolas [2006.01]"
+  },
+  {
+    "code": "E01B 31/28",
+    "description": "••••Colocación o levantamiento de medios de refuerzo para evitar las fisuras o similares (E01B 31/26 tiene prioridad; bridas o bandas a \"a este efecto\" E01B 3/08) [2006.01]"
+  },
+  {
+    "code": "E01B 33/00",
+    "description": "Máquinas o aparatos para trasladar las vías, con o sin levantamiento, p. ej. para rectificar el trazado de la vía, para hacer el traslado de la vía por excavador (combinadas con máquinas de terraplenar E01B 27/17) [2006.01]"
+  },
+  {
+    "code": "E01B 33/02",
+    "description": "••para trasladarlas , es decir, mediante deslizamiento transversal, en varias etapas [2006.01]"
+  },
+  {
+    "code": "E01B 33/04",
+    "description": "••••Herramientas manuales; Dispositivos no montados sobre vehículos [2006.01]"
+  },
+  {
+    "code": "E01B 33/06",
+    "description": "••para hacerlas deslizar mediante un movimiento continuo, p. ej. para vías que se sostienen desde excavadoras [2006.01]"
+  },
+  {
+    "code": "E01B 33/08",
+    "description": "••••Máquinas para desplazar las vías mediante flechas [2006.01]"
+  },
+  {
+    "code": "E01B 33/10",
+    "description": "••••Máquinas para desplazar las vías mediante pórtico [2006.01]"
+  },
+  {
+    "code": "E01B 33/12",
+    "description": "••••Máquinas para desplazar las vías combinadas mediante flecha y pórtico [2006.01]"
+  },
+  {
+    "code": "E01B 33/18",
+    "description": "••••Partes constitutivas no particulares para un tipo especial de máquinas [2006.01]"
+  },
+  {
+    "code": "E01B 33/21",
+    "description": "••••••Disposición o construcción de rodillos para el desplazamiento de los carriles [2006.01]"
+  },
+  {
+    "code": "E01B 35/00",
+    "description": "Aplicaciones de los aparatos o dispositivos de medida para la construcción de vías (aparatos para locomotoras o vagones para indicar o registrar secciones de vía en mal estado B61K 9/00; medida de ángulos, de dimensiones lineales o de irregularidades en general G01B, G01C) [2006.01]"
+  },
+  {
+    "code": "E01B 35/02",
+    "description": "••para el espaciamiento; para la nivelación transversal; para trazar las curvas [2006.01]"
+  },
+  {
+    "code": "E01B 35/04",
+    "description": "••••Aparatos rodantes [2006.01]"
+  },
+  {
+    "code": "E01B 35/06",
+    "description": "••para medir las irregularidades en el sentido longitudinal [2006.01]"
+  },
+  {
+    "code": "E01B 35/08",
+    "description": "••••para la nivelación [2006.01]"
+  },
+  {
+    "code": "E01B 35/10",
+    "description": "••••para el alineamiento [2006.01]"
+  },
+  {
+    "code": "E01B 35/12",
+    "description": "••para medir el desplazamiento de la vía o de sus componentes cuando pasan las cargas, p. ej. de presión de las traviesas, aumento de la separación [2006.01]"
+  },
+  {
+    "code": "E01B 37/00",
+    "description": "Colocación, mantenimiento, renovación o levantamiento del balasto o de la vía, no previstos en ninguno de los grupos E01B 27/00-E01B 35/00 [2006.01]"
+  }
+]

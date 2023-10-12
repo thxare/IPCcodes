@@ -1,0 +1,190 @@
+[
+  {
+    "code": "H04J 1/00",
+    "description": "Frequency-division multiplex systems (H04J 14/02 takes precedence) [2006.01]"
+  },
+  {
+    "code": "H04J 1/02",
+    "description": "••Detalles [2006.01]"
+  },
+  {
+    "code": "H04J 1/04",
+    "description": "••••Disposiciones de transposición de frecuencia [2006.01]"
+  },
+  {
+    "code": "H04J 1/05",
+    "description": "••••••utilizando las técnicas digitales [2006.01]"
+  },
+  {
+    "code": "H04J 1/06",
+    "description": "••••Disposiciones para producir las ondas portadoras [2006.01]"
+  },
+  {
+    "code": "H04J 1/08",
+    "description": "••••Disposiciones para combinar los canales [2006.01]"
+  },
+  {
+    "code": "H04J 1/10",
+    "description": "••••Distribución de estaciones intermedias, p. ej. para ramificar, para acoplar [2006.01]"
+  },
+  {
+    "code": "H04J 1/12",
+    "description": "••••Disposiciones para reducir la diafonía entre canales [2006.01]"
+  },
+  {
+    "code": "H04J 1/14",
+    "description": "••••Disposiciones para producir las señales de llamada o de vigilancia [2006.01]"
+  },
+  {
+    "code": "H04J 1/16",
+    "description": "••••Disposiciones de control [2006.01]"
+  },
+  {
+    "code": "H04J 1/18",
+    "description": "••en los que todas las ondas portadoras son moduladas en amplitud (H04J 1/02 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H04J 1/20",
+    "description": "••en los que al menos una onda portadora es modulada angularmente (H04J 1/02 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H04J 3/00",
+    "description": "Time-division multiplex systems (H04J 14/08 takes precedence) [2006.01]"
+  },
+  {
+    "code": "H04J 3/02",
+    "description": "••Details [2006.01]"
+  },
+  {
+    "code": "H04J 3/04",
+    "description": "••••Distribuidores combinados con moduladores o demoduladores [2006.01]"
+  },
+  {
+    "code": "H04J 3/06",
+    "description": "••••Disposiciones de sincronización [2006.01]"
+  },
+  {
+    "code": "H04J 3/07",
+    "description": "••••••utilizando el empaquetado de impulsos para los sistemas con caudales de información diferentes o variables [2006.01]"
+  },
+  {
+    "code": "H04J 3/08",
+    "description": "••••Disposiciones de estaciones intermedias, p. ej. para ramificar, para acoplar [2006.01]"
+  },
+  {
+    "code": "H04J 3/10",
+    "description": "••••Disposiciones para reducir la diafonía entre canales [2006.01]"
+  },
+  {
+    "code": "H04J 3/12",
+    "description": "••••Disposiciones para producir las señales de llamada o de vigilancia [2006.01]"
+  },
+  {
+    "code": "H04J 3/14",
+    "description": "••••Dispositivos de control [2006.01]"
+  },
+  {
+    "code": "H04J 3/16",
+    "description": "••en los cuales el tiempo atribuido a cada uno de los canales en el curso de un ciclo de transmisión es variable, p. ej. para tener en cuenta la complejidad variable de las señales, para adaptar el número de canales transmitidos (H04J 3/17, H04J 3/24 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H04J 3/17",
+    "description": "••en los cuales el canal de transmisión atribuido a un primer usuario puede ser cancelado y asignado a un segundo usuario si el primero no lo utiliza, p. ej. TASI [2006.01]"
+  },
+  {
+    "code": "H04J 3/18",
+    "description": "••que utilizan la compresión de frecuencia y la expansión consecutiva de las señales individuales [2006.01]"
+  },
+  {
+    "code": "H04J 3/20",
+    "description": "••que utilizan la transferencia resonante [2006.01]"
+  },
+  {
+    "code": "H04J 3/22",
+    "description": "••en los cuales las fuentes tienen velocidades o códigos diferentes [2006.01]"
+  },
+  {
+    "code": "H04J 3/24",
+    "description": "••en los cuales la atribución está indicada por una dirección (H04J 3/17 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H04J 3/26",
+    "description": "••••en los cuales la información y la dirección son transmitidos simultáneamente [2006.01]"
+  },
+  {
+    "code": "H04J 4/00",
+    "description": "Sistemas múltiplex combinados de división de tiempos y de división de frecuencias (H04J 13/00 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H04J 7/00",
+    "description": "Sistemas múltiplex en los cuales las amplitudes o duraciones de las señales en cada uno de los canales caracterizan a estas señales [2006.01]"
+  },
+  {
+    "code": "H04J 7/02",
+    "description": "••caracterizados por la polaridad de la amplitud [2006.01]"
+  },
+  {
+    "code": "H04J 9/00",
+    "description": "Sistemas múltiplex en los cuales cada canal está representado por un tipo diferente de modulación de la portadora [2006.01]"
+  },
+  {
+    "code": "H04J 11/00",
+    "description": "Sistemas múltiplex ortogonales (H04J 13/00 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H04J 13/00",
+    "description": "Sistemas de multiplexación por división de código (para salto de frecuencia H04B 1/713) [2011.01]"
+  },
+  {
+    "code": "H04J 13/10",
+    "description": "••Generación de código [2011.01]"
+  },
+  {
+    "code": "H04J 13/12",
+    "description": "••••Generación de códigos ortogonales [2011.01]"
+  },
+  {
+    "code": "H04J 13/14",
+    "description": "••••Generación de códigos con una zona de correlación cero [2011.01]"
+  },
+  {
+    "code": "H04J 13/16",
+    "description": "••Asignación de códigos [2011.01]"
+  },
+  {
+    "code": "H04J 13/18",
+    "description": "••••Asignación de códigos ortogonales [2011.01]"
+  },
+  {
+    "code": "H04J 13/20",
+    "description": "••••••teniendo un factor de ensanchamiento de variable ortogonal [OVSF] [2011.01]"
+  },
+  {
+    "code": "H04J 13/22",
+    "description": "••••Asignación de códigos con una zona de correlación cero [2011.01]"
+  },
+  {
+    "code": "H04J 14/00",
+    "description": "que utiliza sensores de imagen de estado sólido [2006.01]"
+  },
+  {
+    "code": "H04J 14/02",
+    "description": "••Sistemas múltiplex de división de longitud de onda [2006.01]"
+  },
+  {
+    "code": "H04J 14/04",
+    "description": "••Sistemas múltiplex por modo [2006.01]"
+  },
+  {
+    "code": "H04J 14/06",
+    "description": "••Sistemas múltiplex por polarización [2006.01]"
+  },
+  {
+    "code": "H04J 14/08",
+    "description": "••Sistemas múltiplex de división de tiempo [2006.01]"
+  },
+  {
+    "code": "H04J 99/00",
+    "description": "Materia no prevista en otros grupos de esta subclase [2009.01]"
+  }
+]

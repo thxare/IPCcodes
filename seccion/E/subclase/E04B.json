@@ -1,0 +1,646 @@
+[
+  {
+    "code": "E04B 1/00",
+    "description": "Construcciones en general; Estructuras que no se limitan a los muros, p. ej. tabiques, pisos, techos, ni tejados (andamiajes, encofrados E04G; estructuras adaptadas únicamente a edificios para usos particulares, proyecto general de los edificios, p. ej. coordinación modular E04H; elementos particulares de los edificios, ver los grupos correspondientes a estos elementos) [2006.01]"
+  },
+  {
+    "code": "E04B 1/02",
+    "description": "••Estructuras constituidas principalmente de elementos portantes de la carga en forma de bloques o de losas (E04B 1/32-E04B 1/36 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "E04B 1/04",
+    "description": "••••estando hechos los elementos de hormigón, p. ej. de hormigón armado, o de otro material pétreo [2006.01]"
+  },
+  {
+    "code": "E04B 1/06",
+    "description": "••••••estando los elementos precomprimidos [2006.01]"
+  },
+  {
+    "code": "E04B 1/08",
+    "description": "••••siendo los elementos metálicos [2006.01]"
+  },
+  {
+    "code": "E04B 1/10",
+    "description": "••••siendo los elementos de madera [2006.01]"
+  },
+  {
+    "code": "E04B 1/12",
+    "description": "••••siendo los elementos de otro material [2006.01]"
+  },
+  {
+    "code": "E04B 1/14",
+    "description": "••••estando los elementos compuestos de dos o varios materiales (de hormigón armado E04B 1/04) [2006.01]"
+  },
+  {
+    "code": "E04B 1/16",
+    "description": "••Estructuras formadas a partir de materiales a granel, p. ej. de hormigón, vaciados o formados de forma análoga, in situ con o sin empleo de elementos adicionales, tales como encofrados permanentes o infraestructuras recubribles con materiales resistentes a la carga (E04B 1/32-E04B 1/36 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "E04B 1/18",
+    "description": "••Estructuras que implican elementos portantes de la carga alargados, p. ej. columnas, pilastras, armazones (E04B 1/32-E04B 1/36 tienen prioridad; piezas portantes alargadas, consideradas como elementos, vigas, estructura del tipo viga E04C 3/00) [2006.01]"
+  },
+  {
+    "code": "E04B 1/19",
+    "description": "••••Estructuras de esqueleto tridimensional [2006.01]"
+  },
+  {
+    "code": "E04B 1/20",
+    "description": "••••siendo las piezas portantes de hormigón, p. ej. de hormigón armado o de otro material pétreo [2006.01]"
+  },
+  {
+    "code": "E04B 1/21",
+    "description": "••••••Conexiones especialmente adaptadas a dichas piezas portantes [2006.01]"
+  },
+  {
+    "code": "E04B 1/22",
+    "description": "••••••estando las piezas precomprimidas [2006.01]"
+  },
+  {
+    "code": "E04B 1/24",
+    "description": "••••siendo las piezas portantes metálicas [2006.01]"
+  },
+  {
+    "code": "E04B 1/26",
+    "description": "••••siendo las piezas portantes de madera [2006.01]"
+  },
+  {
+    "code": "E04B 1/28",
+    "description": "••••siendo las piezas portantes de otro material [2006.01]"
+  },
+  {
+    "code": "E04B 1/30",
+    "description": "••••estando las piezas portantes compuestas de dos o varios materiales; Construcción mixta de acero y hormigón armado (de hormigón armado E04B 1/20) [2006.01]"
+  },
+  {
+    "code": "E04B 1/32",
+    "description": "••Arcos; Bóvedas; Estructuras inclinadas (techos abovedados E04B 7/08) [2006.01]"
+  },
+  {
+    "code": "E04B 1/34",
+    "description": "••Estructuras particulares, p. ej. con partes suspendidas o en voladizo soportadas por postes o estructuras análogas a las torres, encerrando ascensores o escaleras; características relativas a la estabilidad elástica (E04B 1/342, E04B 1/343, E04B 1/348 tienen prioridad; para suelos E04B 5/43; edificios para usos particulares, p. ej. antisísmicos, E04H) [2006.01]"
+  },
+  {
+    "code": "E04B 1/342",
+    "description": "••Estructuras que cubren una vasta superficie diáfana, tanto que estén abiertas o no sobre el lado, p. ej. hangares, vestíbulos (firmes de techo E04C 3/00; características no estructurables con fines específicos, véase los grupos correspondientes de E04H) [2006.01]"
+  },
+  {
+    "code": "E04B 1/343",
+    "description": "••Estructuras caracterizadas por partes móviles, separables o replegables, p. ej. para el transporte (partes de tejado móviles E04B 7/16; construcciones flotantes B63B; pequeños edificios prefabricados, transportables como conjunto, E04H 1/12; pequeños garajes E04H 6/02; tiendas o refugios provisionales, en general E04H 15/00) [2006.01]"
+  },
+  {
+    "code": "E04B 1/344",
+    "description": "••••con partes articuladas [2006.01]"
+  },
+  {
+    "code": "E04B 1/346",
+    "description": "••••Edificios giratorios; Edificios con partes giratorias, p. ej. habitaciones [2006.01]"
+  },
+  {
+    "code": "E04B 1/348",
+    "description": "••Estructuras compuestas de unidades que suponen al menos partes importantes de dos lados de una habitación, es decir unidades en forma de cajas de células cerradas o en forma de caparazón (partes de los muros para el alojamiento de los conductos o similares E04C 2/52) [2006.01]"
+  },
+  {
+    "code": "E04B 1/35",
+    "description": "••Métodos de construcción particulares, p. ej. levantamiento de pisos vaciados en el suelo, gatos (E04B 1/34 tiene prioridad; cimbras, encofrados para formar los muros, pisos, techos o tejados para estructuras de forma particular in situ\n\t\t\t\t\t\t\t\t\t\tE04G 11/04; transporte o armado de los materiales de construcción E04G 21/00; operaciones sobre edificios existentes E04G 23/00) [2006.01]"
+  },
+  {
+    "code": "E04B 1/36",
+    "description": "••Apoyos o cualquier otros soportes que permiten el movimiento (para puentes E01D 19/04; edificios resistentes a los seísmos E04H 9/02) [2006.01]"
+  },
+  {
+    "code": "E04B 1/38",
+    "description": "••Montajes para las construcciones del edificio en general [2006.01]"
+  },
+  {
+    "code": "E04B 1/41",
+    "description": "••••Dispositivos de montaje especialmente adaptados para ser metidos en el hormigón armado o en la albañilería (tirantes para paredes huecas E04B 2/30, E04B 2/44; empalmes para armaduras E04C 5/16; fijación de marcos a los vanos E06B 1/56) [2006.01]"
+  },
+  {
+    "code": "E04B 1/48",
+    "description": "••••Clavijas, es decir piezas que penetran en las superficies de dos partes a unir y que absorben los esfuerzos de cizallamiento [2006.01]"
+  },
+  {
+    "code": "E04B 1/49",
+    "description": "••••••con partes que penetran una en la otra, p. ej. espigas [2006.01]"
+  },
+  {
+    "code": "E04B 1/58",
+    "description": "••••de elementos de construcción en forma de barra [2006.01]"
+  },
+  {
+    "code": "E04B 1/61",
+    "description": "••••de elementos de construcción en forma de placas en contacto mutuo [2006.01]"
+  },
+  {
+    "code": "E04B 1/62",
+    "description": "••Aislamiento u otras protecciones; Elementos o empleo de los materiales indicados para ello (composiciones químicas C01-C11; utillaje para la colocación de aislamientos o de juntas de estanqueidad E04F 21/00; edificios resistentes a las influencias exteriores indeseadas o para protegerse contra ellas E04H 9/00; sellado de los tubos en muros o tabiques F16L 5/02; protección contra las radiaciones peligrosas, G21F; construcción de partes especiales del edificio, ver los grupos relativos a estas partes) [2006.01]"
+  },
+  {
+    "code": "E04B 1/64",
+    "description": "••••para la impermeabilización; Protección contra la corrosión (estanqueidad E04B 1/66) [2006.01]"
+  },
+  {
+    "code": "E04B 1/66",
+    "description": "••••Estanqueidades (adición al yeso de productos contra las infiltraciones C04B; productos bituminosos para estanqueidad C08L 95/00; juntas para trabajos de ingeniería civil hidráulica en general E02B 3/16; contra la humedad del suelo o de las aguas subterráneas E02D 31/02; cubiertas contra la lluvia u otras precipitaciones atmosféricas E04D; composición de los materiales o fabricación de productos de estanqueidad en láminas, ver las clases correspondientes a estas láminas) [2006.01]"
+  },
+  {
+    "code": "E04B 1/68",
+    "description": "••••••juntas, p. ej. juntas de dilatación (relleno para uniones en carreteras o aeródromos E01C 11/02; juntas de dilatación para puentes E01D 19/06; juntas de obturación entre pilotes de cimentación E02D 5/14; juntas en cimentaciones E02D 29/16; dispositivos de estanqueidad entre elementos de cubierta E04D 1/36; dispositivos para unir los elementos de la cubierta de tejado E04D 3/38; estructura de las uniones de revestimientos de suelos hechos de productos preparados in situ\n\t\t\t\t\t\t\t\t\t\t\t\tE04F 15/14) [2006.01]"
+  },
+  {
+    "code": "E04B 1/682",
+    "description": "••••••••realizadas in situ [2006.01]"
+  },
+  {
+    "code": "E04B 1/684",
+    "description": "••••••••utilizando elementos elastoméricos preformados [2006.01]"
+  },
+  {
+    "code": "E04B 1/686",
+    "description": "••••••••••incluyendo un conjunto de células internas huecas deformables [2006.01]"
+  },
+  {
+    "code": "E04B 1/70",
+    "description": "••••Secado o mantenimiento de la sequedad, p. ej. por ventilación de aire (por dispositivos de estanqueidad E04B 1/66; a lo largo de la edificación E04G 21/28) [2006.01]"
+  },
+  {
+    "code": "E04B 1/72",
+    "description": "••••Lucha contra la degradación por organismos vivos (mediante el mantenimiento de la sequedad E04B 1/70; impregnación de la madera o de materiales análogos B27K) [2006.01]"
+  },
+  {
+    "code": "E04B 1/74",
+    "description": "••••Aislamiento térmico o acústico, absorción o reflexión del calor o del sonido (forma o instalación de salas acústicas E04B 1/99); Otros métodos de construcción que facilitan condiciones térmicas o acústicas favorables, p. ej. por acumulación de calor en el interior de los muros (protección contra incendios E04B 1/94; elementos principalmente concebidos como elementos de estructura E04C 1/00-E04C 3/00; principalmente adaptados al revestimiento de superficies E04F 13/00; como sub-capa de revestimientos de pisos E04F 15/18; cierre de huecos en los muros o análogos E06B) [2006.01]"
+  },
+  {
+    "code": "E04B 1/76",
+    "description": "••••••especialmente relativos al calor solamente (aislamiento térmico en general F16L 59/00) [2006.01]"
+  },
+  {
+    "code": "E04B 1/78",
+    "description": "••••••••Elementos calorífugos [2006.01]"
+  },
+  {
+    "code": "E04B 1/80",
+    "description": "••••••••••en forma de losas [2006.01]"
+  },
+  {
+    "code": "E04B 1/82",
+    "description": "••••••específicamente relativos al sonido únicamente (amortiguación del ruido en las conducciones industriales E04F 17/00; amortiguación del ruido en general G10K 11/16) [2006.01]"
+  },
+  {
+    "code": "E04B 1/84",
+    "description": "••••••••Elementos que absorben el sonido [2006.01]"
+  },
+  {
+    "code": "E04B 1/86",
+    "description": "••••••••••en forma de losas [2006.01]"
+  },
+  {
+    "code": "E04B 1/88",
+    "description": "••••••Elementos simultáneamente aislantes acústicos y térmicos [2006.01]"
+  },
+  {
+    "code": "E04B 1/90",
+    "description": "••••••••en forma de losas [2006.01]"
+  },
+  {
+    "code": "E04B 1/92",
+    "description": "••••Protección contra otros agentes indeseables o peligrosos (edificios que protegen contra peligros exteriores E04H 9/00; pantallas contra radiaciones peligrosas G21F) [2006.01]"
+  },
+  {
+    "code": "E04B 1/94",
+    "description": "••••••contra incendios (lucha contra incendios A62C; impregnación de la madera o materiales análogos B27K; puertas resistentes al fuego E06B 5/16) [2006.01]"
+  },
+  {
+    "code": "E04B 1/98",
+    "description": "••••••contra las vibraciones o los choques (para las cimentaciones E02D 31/08); contra las destrucciones mecánicas, p. ej. por los ataques aéreos (contra incendios únicamente E04B 1/94; trabajos de acabado con este fin E04F; edificios resistentes a los seísmos o similares, arreglos o abrigos de los muros contra astillamiento E04H 9/00) [2006.01]"
+  },
+  {
+    "code": "E04B 1/99",
+    "description": "••Acústica de las salas, es decir formas de las salas o arreglos de las mismas para actuar sobre el sonido o dirigirle (E04B 1/82 tiene prioridad; acústica en general G10K 11/00; tratamiento eléctrico de señales para producir una reverberación sonora o un eco G10K 15/08) [2006.01]"
+  },
+  {
+    "code": "E04B 2/00",
+    "description": "Muros, p. ej. tabiques para edificios; Estructura de los muros en lo relativo al aislamiento; Montajes específicos para los muros (montajes para las estructuras del edificio en general E04B 1/38; aislamiento de edificios en general E04B 1/62; elementos de construcción de relativamente débil espesor para la construcción de partes de edificios E04C 2/00) [2006.01]"
+  },
+  {
+    "code": "E04B 2/02",
+    "description": "••edificados según capas sucesivas de elementos de construcción [2006.01]"
+  },
+  {
+    "code": "E04B 2/04",
+    "description": "••••Muros que no implican cavidades entre los elementos sólidos o en el interior de los mismos [2006.01]"
+  },
+  {
+    "code": "E04B 2/06",
+    "description": "••••••utilizando elementos que tienen medios especialmente proyectados para estabilizar su posición [2006.01]"
+  },
+  {
+    "code": "E04B 2/08",
+    "description": "••••••••por trabazón o piezas insertadas con escotaduras, p. ej. lengüetas, ranuras, colas de milano [2006.01]"
+  },
+  {
+    "code": "E04B 2/10",
+    "description": "••••••••por introducción de un material con o sin armaduras en pequeños canales dispuestos en los elementos o en las ranuras entre ellos [2006.01]"
+  },
+  {
+    "code": "E04B 2/12",
+    "description": "••••••utilizando elementos cuya forma general difiere de la de un paralelepípedo [2006.01]"
+  },
+  {
+    "code": "E04B 2/14",
+    "description": "••••Muros que implican cavidades en el interior de los elementos, pero no entre ellos, es decir cada cavidad está cerrada al menos por los cuatro lados pertenecientes a un elemento único [2006.01]"
+  },
+  {
+    "code": "E04B 2/16",
+    "description": "••••••utilizando elementos que tienen medios especialmente proyectados para estabilizar su posición [2006.01]"
+  },
+  {
+    "code": "E04B 2/18",
+    "description": "••••••••por trabazón o piezas insertas con escotaduras, p. ej. lengüetas, ranuras, colas de milano [2006.01]"
+  },
+  {
+    "code": "E04B 2/20",
+    "description": "••••••••por introducción de un material con o sin armaduras en pequeños canales dispuestos en los elementos o en las ranuras entre ellos [2006.01]"
+  },
+  {
+    "code": "E04B 2/22",
+    "description": "••••••utilizando elementos cuya forma general difiere de la de un paralelepípedo [2006.01]"
+  },
+  {
+    "code": "E04B 2/24",
+    "description": "••••••los muros están caracterizados por los rellenos en algunas de las cavidades formando pilares o vigas resistentes [2006.01]"
+  },
+  {
+    "code": "E04B 2/26",
+    "description": "••••••los muros están caracterizados por los rellenos en todas las cavidades con objeto de obtener una muralla [2006.01]"
+  },
+  {
+    "code": "E04B 2/28",
+    "description": "••••Muros que implican cavidades entre los elementos, pero no en el interior de ellos; Muros formados de elementos cada uno de los cuales consiste en dos o varias piezas distanciadas por medio de tirantes separadores, siendo las piezas completamente sólidas [2006.01]"
+  },
+  {
+    "code": "E04B 2/30",
+    "description": "••••••utilizando elementos que tienen medios especialmente proyectados para estabilizar su posición; Tirantes separadores para paredes de cavidades [2006.01]"
+  },
+  {
+    "code": "E04B 2/32",
+    "description": "••••••••por trabazón o piezas insertadas con escotaduras, p. ej. lengüetas, ranuras, colas de milano [2006.01]"
+  },
+  {
+    "code": "E04B 2/34",
+    "description": "••••••••por introducción de un material con o sin armaduras en pequeños canales practicados en los elementos o en ranuras entre ellos [2006.01]"
+  },
+  {
+    "code": "E04B 2/36",
+    "description": "••••••utilizando elementos cuya forma general difiere de la de un paralelepípedo [2006.01]"
+  },
+  {
+    "code": "E04B 2/38",
+    "description": "••••••los muros están caracterizados por los rellenos en todas las cavidades que forman los pilares o vigas que soportan la carga [2006.01]"
+  },
+  {
+    "code": "E04B 2/40",
+    "description": "••••••los muros están caracterizados por los rellenos en todas las cavidades con objeto de obtener una muralla [2006.01]"
+  },
+  {
+    "code": "E04B 2/42",
+    "description": "••••Muros que implican cavidades no sólo entre los elementos sino en el interior de ellos; Muros formados de elementos cada uno de los cuales consiste en dos o más piezas mantenidas separadas por medio de tirantes separadores, teniendo al menos una de ellas cavidades [2006.01]"
+  },
+  {
+    "code": "E04B 2/44",
+    "description": "••••••utilizando elementos que tienen medios especialmente concebidos para estabilizar su posición; Tirantes separadores para paredes de cavidades [2006.01]"
+  },
+  {
+    "code": "E04B 2/46",
+    "description": "••••••••por trabazón o por piezas insertadas con escotaduras, p. ej. lengüetas, ranuras, colas de milano [2006.01]"
+  },
+  {
+    "code": "E04B 2/48",
+    "description": "••••••••por introducción de un material con o sin armaduras en pequeños canales practicados en los elementos o en ranuras de ellos [2006.01]"
+  },
+  {
+    "code": "E04B 2/50",
+    "description": "••••••utilizando elementos cuya forma general difiere de la de un paralelepípedo [2006.01]"
+  },
+  {
+    "code": "E04B 2/52",
+    "description": "••••••los muros están caracterizados por los rellenos en algunas de las cavidades que forman los pilares o vigas resistentes [2006.01]"
+  },
+  {
+    "code": "E04B 2/54",
+    "description": "••••••los muros están caracterizados por los rellenos en todas las cavidades con objeto de obtener una muralla [2006.01]"
+  },
+  {
+    "code": "E04B 2/56",
+    "description": "••Muros con armazón de encuadramiento o pies derechos; Muros que implican piezas alargadas resistiendo la carga (E04B 2/74, E04B 2/88 tiene prioridad; pilares E04C 3/30) [2006.01]"
+  },
+  {
+    "code": "E04B 2/58",
+    "description": "••••con piezas de forma alargada de metal [2006.01]"
+  },
+  {
+    "code": "E04B 2/60",
+    "description": "••••••caracterizadas por un perfil transversal particular de las piezas de forma alargada [2006.01]"
+  },
+  {
+    "code": "E04B 2/62",
+    "description": "••••••••las piezas están formadas de dos o más elementos pegados [2006.01]"
+  },
+  {
+    "code": "E04B 2/64",
+    "description": "••••con piezas de forma alargada de hormigón [2006.01]"
+  },
+  {
+    "code": "E04B 2/66",
+    "description": "••••••caracterizadas por un perfil transversal particular de las piezas de forma alargada [2006.01]"
+  },
+  {
+    "code": "E04B 2/68",
+    "description": "••••••obtenidas por relleno de las cavidades del muro (E04B 2/24, E04B 2/38, E04B 2/52 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "E04B 2/70",
+    "description": "••••con piezas de forma alargada de madera [2006.01]"
+  },
+  {
+    "code": "E04B 2/72",
+    "description": "••Muros hechos de elementos de forma relativamente delgada (E04B 2/56, E04B 2/74, E04B 2/88 tienen prioridad; con rellenos de juntas que juegan el papel de armazón de encuadramiento o de pilares E04B 2/68; elementos E04C 2/00) [2006.01]"
+  },
+  {
+    "code": "E04B 2/74",
+    "description": "••Tabiques móviles no resistentes; Tabiques con el borde superior libre (paneles estructurados E04C 2/38) [2006.01]"
+  },
+  {
+    "code": "E04B 2/76",
+    "description": "••••con armazón de encuadramiento o pies derechos de metal [2006.01]"
+  },
+  {
+    "code": "E04B 2/78",
+    "description": "••••••caracterizado por un perfil transversal particular de las piezas de armazón [2006.01]"
+  },
+  {
+    "code": "E04B 2/80",
+    "description": "••••con armazón de encuadramiento o pies derechos de madera [2006.01]"
+  },
+  {
+    "code": "E04B 2/82",
+    "description": "••••caracterizados por la manera según la cual los bordes están fijados al edificio; Medios para ello; Detalles particulares de los tabiques fáciles de retirar [2006.01]"
+  },
+  {
+    "code": "E04B 2/84",
+    "description": "••Muros realizados mediante vaciado, fundido o compactación in situ (E04B 2/02, E04B 2/56 tienen prioridad; encofrado con este fin E04G 11/06; trabajo del hormigón o de los materiales similares susceptibles de ser vaciados o fundidos in situ\n\t\t\t\t\t\t\t\t\t\tE04G 21/02) [2006.01]"
+  },
+  {
+    "code": "E04B 2/86",
+    "description": "••••en los encofrados permanentes [2006.01]"
+  },
+  {
+    "code": "E04B 2/88",
+    "description": "••Muros cortina [2006.01]"
+  },
+  {
+    "code": "E04B 2/90",
+    "description": "••••comprendiendo paneles fijados directamente al armazón [2006.01]"
+  },
+  {
+    "code": "E04B 2/92",
+    "description": "••••••Paneles de tipo sandwich [2006.01]"
+  },
+  {
+    "code": "E04B 2/94",
+    "description": "••••••Paneles de hormigón (E04B 2/92 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "E04B 2/96",
+    "description": "••••comprendiendo paneles fijados al armazón mediante montantes o travesaños [2006.01]"
+  },
+  {
+    "code": "E04B 5/00",
+    "description": "Suelos; Estructuras de suelos en lo concerniente al aislamiento; Montajes especialmente adaptados a dichos suelos o a dichas estructuras (elementos para suelos, p. ej. ladrillos, piedras, materiales de relleno, tirantes, E04C; acabado de revestimientos del suelo, aislamiento del revestimiento del suelo, secciones de falsos suelos, p. ej. para computadores, E04F 15/00) [2006.01]"
+  },
+  {
+    "code": "E04B 5/02",
+    "description": "••Estructuras portantes de suelos, formadas esencialmente de elementos prefabricados (E04B 5/43-E04B 5/48 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "E04B 5/04",
+    "description": "••••con vigas de hormigón o construidos de otros materiales semejantes a la piedra, p. ej. amianto-cemento (E04B 5/08, E04B 5/14 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "E04B 5/06",
+    "description": "••••••colocadas las unas contra las otras [2006.01]"
+  },
+  {
+    "code": "E04B 5/08",
+    "description": "••••realizadas por reunión de elementos en forma de bloques, p. ej. elementos huecos (E04B 5/14 tiene prioridad; suelos formados de albañilería reforzada E04B 5/44) [2006.01]"
+  },
+  {
+    "code": "E04B 5/10",
+    "description": "••••implicando vigas o tirantes metálicos, p. ej. viguetas con enrejados metálicos (E04B 5/14 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "E04B 5/12",
+    "description": "••••implicando vigas de madera (E04B 5/14 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "E04B 5/14",
+    "description": "••••implicando vigas o tirantes colocados en dos direcciones [2006.01]"
+  },
+  {
+    "code": "E04B 5/16",
+    "description": "••Estructuras portantes de suelos total o parcialmente vaciadas o formadas de manera similar in situ (E04B 5/43-E04B 5/48 tienen prioridad; suelos caracterizados simplemente por los elementos prefabricados E04C) [2006.01]"
+  },
+  {
+    "code": "E04B 5/17",
+    "description": "••••Estructuras de suelos parcialmente formadas in situ [2006.01]"
+  },
+  {
+    "code": "E04B 5/18",
+    "description": "••••••implicando nervaciones de refuerzo o cualquier otra conformación parecida a vigas totalmente vaciadas entre los elementos de relleno [2006.01]"
+  },
+  {
+    "code": "E04B 5/19",
+    "description": "••••••••los elementos de relleno juegan el papel de encofrados permanentes autoportantes (E04B 5/21 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "E04B 5/21",
+    "description": "••••••••Suelos en moldes [2006.01]"
+  },
+  {
+    "code": "E04B 5/23",
+    "description": "••••••con nerviaciones de refuerzo o cualquier otra conformación parecida a vigas total o parcialmente prefabricadas (todas las partes portantes consisten sustancialmente en unidades prefabricadas E04B 5/02) [2006.01]"
+  },
+  {
+    "code": "E04B 5/26",
+    "description": "••••••••con elementos de relleno entre las vigas (E04B 5/28 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "E04B 5/28",
+    "description": "••••••••Suelos en moldes [2006.01]"
+  },
+  {
+    "code": "E04B 5/29",
+    "description": "••••••••las partes prefabricadas de las vigas están enteramente constituidas de metal (E04B 5/28 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "E04B 5/32",
+    "description": "••••Estructuras de suelos enteramente vaciados in situ con o sin elementos de encofrado o armadura [2006.01]"
+  },
+  {
+    "code": "E04B 5/36",
+    "description": "••••••con los elementos de encofrado formando parte del suelo [2006.01]"
+  },
+  {
+    "code": "E04B 5/38",
+    "description": "••••••••con encofrados en forma de losas que sirven al mismo tiempo de armaduras; Losas de encofrado con armaduras prolongándose lateralmente hacia el exterior del elemento [2006.01]"
+  },
+  {
+    "code": "E04B 5/40",
+    "description": "••••••••••con placas-encofrados metálicas [2006.01]"
+  },
+  {
+    "code": "E04B 5/43",
+    "description": "••Estructuras de suelos de concepción particular; Características relativas a la estabilidad elástica; Estructuras de suelos especialmente proyectados para reposar únicamente sobre columnas, p. ej. suelos-setas (construcciones particulares en general E04B 1/34) [2006.01]"
+  },
+  {
+    "code": "E04B 5/44",
+    "description": "••Suelos compuestos de piedras, mortero y elementos reforzados (con elementos de vidrio incorporados E04B 5/46) [2006.01]"
+  },
+  {
+    "code": "E04B 5/46",
+    "description": "••Adaptaciones especiales de los suelos para el paso de la luz, p. ej. por incorporación de elementos de vidrio (de techos E04B 9/32; elementos en forma de bloques E04C 1/42; elementos en forma de losas o de hojas E04C 2/54; para el recubrimiento de tejados E04D 3/06) [2006.01]"
+  },
+  {
+    "code": "E04B 5/48",
+    "description": "••Adaptaciones especiales de los suelos para la incorporación de conductos, p. ej. para calefacción o ventilación (en los elementos en forma de bloques E04C 1/39; en los elementos en forma de losas o de hojas E04C 2/52) [2006.01]"
+  },
+  {
+    "code": "E04B 7/00",
+    "description": "Tejados; Estructuras de tejados en lo concerniente al aislamiento (estructuras para tejados y para suelos E04B 5/00; techos E04B 9/00; invernaderos A01G 9/14; grandes recipientes con tapas flotantes B65D 88/34; armaduras de tejado, estructuras o viguetas en forma de armaduras E04C 3/02; cubiertas de tejado E04D) [2006.01]"
+  },
+  {
+    "code": "E04B 7/02",
+    "description": "••con vertientes planas, p. ej. tejados de dos aguas (E04B 7/12 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "E04B 7/04",
+    "description": "••••soportados por vigas horizontales o equivalentes que reposan sobre los muros (E04B 7/06 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "E04B 7/06",
+    "description": "••••Construcción de las intersecciones de tejados o de tejados con ángulos cortados [2006.01]"
+  },
+  {
+    "code": "E04B 7/08",
+    "description": "••Tejados abovedados (E04B 7/14 tiene prioridad; estructuras abovedadas en general E04B 1/32; tiendas o refugios hinchables, en general E04H 15/20; encofrados hinchables para la fabricación in situ\n\t\t\t\t\t\t\t\t\t\tE04G 11/04) [2006.01]"
+  },
+  {
+    "code": "E04B 7/10",
+    "description": "••••Estructuras en cáscara, p. ej. de forma hiperbólico-parabólica; Conformaciones en forma de reja que hacen el papel de estructuras en cáscara; Estructuras plegadas [2006.01]"
+  },
+  {
+    "code": "E04B 7/12",
+    "description": "••por vanos sucesivos, p. ej. tejados en dientes de sierra (E04B 7/10 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "E04B 7/14",
+    "description": "••Tejados suspendidos (tiendas o refugios provisionales colgados, en general E04H 15/04) [2006.01]"
+  },
+  {
+    "code": "E04B 7/16",
+    "description": "••Estructuras de tejados con partes móviles (edificios para usos particulares E04H) [2006.01]"
+  },
+  {
+    "code": "E04B 7/18",
+    "description": "••Estructuras especiales en o sobre los tejados, p. ej. tragaluces (en relación con las cubiertas de tejados E04D 13/00, cúpulas en particular E04D 13/03) [2006.01]"
+  },
+  {
+    "code": "E04B 7/20",
+    "description": "••Tejados constituidos por losas que se auto-sustentan, p. ej. susceptibles de soportar carga [2006.01]"
+  },
+  {
+    "code": "E04B 7/22",
+    "description": "••••teniendo las losas propiedades aislantes, p. ej. losas estratificadas con capas de material aislante (E04B 7/24 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "E04B 7/24",
+    "description": "••••las losas son plegables, p. ej. para el transporte [2006.01]"
+  },
+  {
+    "code": "E04B 9/00",
+    "description": "Techos; estructuras de techos, p. ej. falsos techos; Estructura de techos en lo concerniente al aislamiento (techos utilizados como encofrados para la construcción de suelos E04B 5/00; revestimientos o recubrimientos para techos E04F 13/00) [2006.01]"
+  },
+  {
+    "code": "E04B 9/02",
+    "description": "••incluyendo medios de ventilación o de evacuación de vapor [2006.01]"
+  },
+  {
+    "code": "E04B 9/04",
+    "description": "••incluyendo losas, hojas o similares (E04B 9/06-E04B 9/34 tienen prioridad; losas, hojas o similares en sí\n\t\t\t\t\t\t\t\t\t\tE04C 2/00) [2006.01]"
+  },
+  {
+    "code": "E04B 9/06",
+    "description": "••caracterizados por las particularidades de construcción de la estructura de soporte [2006.01]"
+  },
+  {
+    "code": "E04B 9/08",
+    "description": "••••con capacidad de expansión [2006.01]"
+  },
+  {
+    "code": "E04B 9/10",
+    "description": "••••Fijación de elementos paralelos de la estructura de soporte entre sí (E04B 9/08 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "E04B 9/12",
+    "description": "••••Fijación de elementos no paralelos de la estructura de soporte entre sí (E04B 9/08 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "E04B 9/14",
+    "description": "••••••siendo todos los elementos discontinuos y situados, por lo menos parcialmente, en el mismo plano [2006.01]"
+  },
+  {
+    "code": "E04B 9/16",
+    "description": "••••••estando los elementos situados en planos distintos [2006.01]"
+  },
+  {
+    "code": "E04B 9/18",
+    "description": "••Medios de suspensión de la estructura de soporte [2006.01]"
+  },
+  {
+    "code": "E04B 9/20",
+    "description": "••••regulables [2006.01]"
+  },
+  {
+    "code": "E04B 9/22",
+    "description": "••Fijación de las losas, hojas o similares a la estructura de soporte [2006.01]"
+  },
+  {
+    "code": "E04B 9/24",
+    "description": "••••estando las losas, hojas o similares situadas sobre, o apoyadas contra los rebordes horizontales de la estructura de soporte [2006.01]"
+  },
+  {
+    "code": "E04B 9/26",
+    "description": "••••••por medio de un enganche rápido entre elementos elásticamente deformables [2006.01]"
+  },
+  {
+    "code": "E04B 9/28",
+    "description": "••••incluyendo las losas, hojas o similares ranuras que se acoplan a los rebordes horizontales de la estructura de soporte o medios accesorios conectados a dichos rebordes [2006.01]"
+  },
+  {
+    "code": "E04B 9/30",
+    "description": "••caracterizados por detalles del borde del techo, p. ej. por la fijación a un muro adyacente [2006.01]"
+  },
+  {
+    "code": "E04B 9/32",
+    "description": "••Techos translúcidos, es decir, que permiten tanto la transmisión como la difusión de la luz (E04B 9/34 tiene prioridad; iluminación F21) [2006.01]"
+  },
+  {
+    "code": "E04B 9/34",
+    "description": "••Techos calados, p. ej. de celosía (E04B 9/30 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "E04B 9/36",
+    "description": "••••constituidos por láminas paralelas [2006.01]"
+  }
+]

@@ -1,0 +1,1098 @@
+[
+  {
+    "code": "B23K 1/00",
+    "description": "Soldadura sin fusión, p. ej. brazing, o desoldeo (B23K 3/00 tiene prioridad; caracterizadas únicamente por el uso de materiales o de un medio ambiente particular B23K 35/00; en la fabricación de circuitos impresos H05K 3/34) [2006.01]"
+  },
+  {
+    "code": "B23K 1/002",
+    "description": "••Soldadura sin fusión por calentamiento por inducción [2006.01]"
+  },
+  {
+    "code": "B23K 1/005",
+    "description": "••Soldadura sin fusión por energía radiante [2006.01]"
+  },
+  {
+    "code": "B23K 1/008",
+    "description": "••Soldadura sin fusión en un horno (B23K 1/012 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B23K 1/012",
+    "description": "••Soldadura sin fusión mediante la utilización de gas caliente [2006.01]"
+  },
+  {
+    "code": "B23K 1/015",
+    "description": "••••Soldadura sin fusión por condensación de vapor [2006.01]"
+  },
+  {
+    "code": "B23K 1/018",
+    "description": "••Desoldeo; Retirada de la aleación para soldar fundida o de otros residuos [2006.01]"
+  },
+  {
+    "code": "B23K 1/06",
+    "description": "••mediante la utilización de vibraciones, p. ej. vibraciones ultrasonoras [2006.01]"
+  },
+  {
+    "code": "B23K 1/08",
+    "description": "••Soldadura sin fusión por inmersión en un baño de metal fundido [2006.01]"
+  },
+  {
+    "code": "B23K 1/14",
+    "description": "••especialmente adaptada para hacer juntas continuas (fabricación de tubos que comportan operaciones distintas a la soldadura sin fusión B21C) [2006.01]"
+  },
+  {
+    "code": "B23K 1/16",
+    "description": "••••de juntas longitudinales, p. ej. soldadura sin fusión de cuerpos de caldera [2006.01]"
+  },
+  {
+    "code": "B23K 1/18",
+    "description": "••••de juntas circulares, p. ej. soldadura de cuerpos de caldera [2006.01]"
+  },
+  {
+    "code": "B23K 1/19",
+    "description": "••teniendo en cuenta las propiedades de los materiales a soldar [2006.01]"
+  },
+  {
+    "code": "B23K 1/20",
+    "description": "••Tratamiento previo de las piezas o de las superficies destinadas a ser soldadas sin fusión, p. ej. con vistas a un revestimiento galvánico (preparación de superficies siguiendo procedimientos especiales, ver las clases correspondientes a los tratamientos o a los materiales tratados, p. ej. C04B, C23C) [2006.01]"
+  },
+  {
+    "code": "B23K 3/00",
+    "description": "Herramientas, dispositivos o accesorios particulares para la soldadura sin fusión o el desoldeo, no concebidos para procedimientos particulares (materiales utilizados para la soldadura sin fusión B23K 35/00) [2006.01]"
+  },
+  {
+    "code": "B23K 3/02",
+    "description": "••Hierros de soldar; Barras de soldar [2006.01]"
+  },
+  {
+    "code": "B23K 3/03",
+    "description": "••••con calentamiento eléctrico [2006.01]"
+  },
+  {
+    "code": "B23K 3/04",
+    "description": "••Aparatos de calentar (lámparas de soldar o sopletes F23D; calefacción eléctrica en general H05B) [2006.01]"
+  },
+  {
+    "code": "B23K 3/047",
+    "description": "••••eléctricos [2006.01]"
+  },
+  {
+    "code": "B23K 3/053",
+    "description": "••••••que utilizan hilos de resistencia [2006.01]"
+  },
+  {
+    "code": "B23K 3/06",
+    "description": "••Dispositivos de alimentación con metal de aportación; Cubas de fusión del metal de aportación [2006.01]"
+  },
+  {
+    "code": "B23K 3/08",
+    "description": "••Dispositivos auxiliares a este efecto (limpieza de conductores o de tubos o de sistemas de conductores o de tubos, p. ej. antes de la soldadura, B08B 9/02) [2006.01]"
+  },
+  {
+    "code": "B23K 5/00",
+    "description": "Soldadura con soplete [2006.01]"
+  },
+  {
+    "code": "B23K 5/02",
+    "description": "••Soldadura de juntas continuas (fabricación de tubos implicando otras operaciones distintas a la soldadura B21C) [2006.01]"
+  },
+  {
+    "code": "B23K 5/04",
+    "description": "••••utilizando a lo largo de los bordes de las juntas, bandas perfiladas adicionales o elementos análogos de metal de soldadura [2006.01]"
+  },
+  {
+    "code": "B23K 5/06",
+    "description": "••••Soldadura de juntas longitudinales [2006.01]"
+  },
+  {
+    "code": "B23K 5/08",
+    "description": "••••Soldadura de juntas circulares [2006.01]"
+  },
+  {
+    "code": "B23K 5/10",
+    "description": "••Soldadura de piezas compuestas especialmente de capas de metales diferentes, p. ej. de piezas chapadas [2006.01]"
+  },
+  {
+    "code": "B23K 5/12",
+    "description": "••tomando en consideración las propiedades de los metales que se van a soldar [2006.01]"
+  },
+  {
+    "code": "B23K 5/14",
+    "description": "••••de metales no férreos (B23K 5/16 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B23K 5/16",
+    "description": "••••de metales diferentes [2006.01]"
+  },
+  {
+    "code": "B23K 5/18",
+    "description": "••con otros fines que no sean los de unión de partes, p. ej. soldadura de recarga [2006.01]"
+  },
+  {
+    "code": "B23K 5/20",
+    "description": "••utilizando vibraciones, p. ej. vibraciones ultrasonoras [2006.01]"
+  },
+  {
+    "code": "B23K 5/213",
+    "description": "••Tratamiento previo [2006.01]"
+  },
+  {
+    "code": "B23K 5/22",
+    "description": "••Material auxiliar, p. ej. soportes de soldadura, guías [2006.01]"
+  },
+  {
+    "code": "B23K 5/24",
+    "description": "••••Dispositivos que sirven de soporte a los sopletes (no limitados a la soldadura con llama B23K 37/02) [2006.01]"
+  },
+  {
+    "code": "B23K 7/00",
+    "description": "Corte, quitado de defectos superficiales o despulido, por el calentamiento a la llama [2006.01]"
+  },
+  {
+    "code": "B23K 7/06",
+    "description": "••Máquinas, aparatos o equipos especialmente adaptados al quitado de defectos superficiales o al despulido [2006.01]"
+  },
+  {
+    "code": "B23K 7/08",
+    "description": "••por aplicación de componentes o de medios adicionales que facilitan los procesos de corte, de quitado de defectos superficiales o de despulido [2006.01]"
+  },
+  {
+    "code": "B23K 7/10",
+    "description": "••Dispositivos auxiliares, p. ej. para guiar o soportar el soplete (medios de guiado aplicables a otras máquinas para el trabajo de metales B23Q) [2006.01]"
+  },
+  {
+    "code": "B23K 9/00",
+    "description": "Soldadura o corte por arco voltaico (soldadura eléctrica por escoria B23K 25/00; transformadores de soldadura H01F; generadores de soldadura H02K) [2006.01]"
+  },
+  {
+    "code": "B23K 9/007",
+    "description": "••Soldadura por arco por puntos [2006.01]"
+  },
+  {
+    "code": "B23K 9/013",
+    "description": "••Corte, entalladura, eliminación de defectos superficiales o despulido por arco [2006.01]"
+  },
+  {
+    "code": "B23K 9/02",
+    "description": "••Soldadura de juntas continuas; Soportes; Piezas insertadas [2006.01]"
+  },
+  {
+    "code": "B23K 9/022",
+    "description": "••••Soldadura mediante la utilización de vibraciones del electrodo [2006.01]"
+  },
+  {
+    "code": "B23K 9/025",
+    "description": "••••para juntas rectilíneas [2006.01]"
+  },
+  {
+    "code": "B23K 9/028",
+    "description": "••••para juntas curvilíneas situadas en un plano [2006.01]"
+  },
+  {
+    "code": "B23K 9/032",
+    "description": "••••para juntas tridimensionales [2006.01]"
+  },
+  {
+    "code": "B23K 9/035",
+    "description": "••••con soportes dispuestos por debajo de la junta [2006.01]"
+  },
+  {
+    "code": "B23K 9/038",
+    "description": "••••que utiliza medios de moldeo (no limitados a la soldadura por arco B23K 37/06) [2006.01]"
+  },
+  {
+    "code": "B23K 9/04",
+    "description": "••Soldadura para fines distintos al ensamblado de piezas, p. ej. soldadura de recarga [2006.01]"
+  },
+  {
+    "code": "B23K 9/06",
+    "description": "••Disposiciones o circuitos para el arranque del arco, p. ej. para generar el voltaje de ignición, o para estabilizar el arco [2006.01]"
+  },
+  {
+    "code": "B23K 9/067",
+    "description": "••••Arranque del arco [2006.01]"
+  },
+  {
+    "code": "B23K 9/073",
+    "description": "••••Estabilización del arco [2006.01]"
+  },
+  {
+    "code": "B23K 9/08",
+    "description": "••Dispositivos o circuitos para el control magnético del arco [2006.01]"
+  },
+  {
+    "code": "B23K 9/09",
+    "description": "••Dispositivos o circuitos para la soldadura por arco a corriente o tensión pulsadas [2006.01]"
+  },
+  {
+    "code": "B23K 9/095",
+    "description": "••Vigilancia o control automático de los parámetros de soldadura [2006.01]"
+  },
+  {
+    "code": "B23K 9/10",
+    "description": "••Otros circuitos eléctricos para la soldadura o el corte por arco; Circuitos de protección; Control a distancia [2006.01]"
+  },
+  {
+    "code": "B23K 9/12",
+    "description": "••Alimentación automática de electrodos o de piezas o desplazamiento automático de electrodos o de piezas para la soldadura o para el corte por arco en líneas continuas o por puntos [2006.01]"
+  },
+  {
+    "code": "B23K 9/127",
+    "description": "••••Medios para seguir líneas durante la soldadura o el corte por arco (copiado en general B23Q 35/00) [2006.01]"
+  },
+  {
+    "code": "B23K 9/133",
+    "description": "••••Medios para la alimentación de electrodos, p. ej. tambores, rodillos, motores [2006.01]"
+  },
+  {
+    "code": "B23K 9/14",
+    "description": "••utilizando electrodos aislados [2006.01]"
+  },
+  {
+    "code": "B23K 9/16",
+    "description": "••utilizando gases de protección [2006.01]"
+  },
+  {
+    "code": "B23K 9/167",
+    "description": "••••y un electrodo no consumible [2006.01]"
+  },
+  {
+    "code": "B23K 9/173",
+    "description": "••••y un electrodo consumible [2006.01]"
+  },
+  {
+    "code": "B23K 9/18",
+    "description": "••Soldadura por arco sumergido [2006.01]"
+  },
+  {
+    "code": "B23K 9/20",
+    "description": "••Soldadura por puntos de contacto [2006.01]"
+  },
+  {
+    "code": "B23K 9/22",
+    "description": "••Soldadura por percusión [2006.01]"
+  },
+  {
+    "code": "B23K 9/23",
+    "description": "••teniendo en cuenta las propiedades de los materiales a soldar [2006.01]"
+  },
+  {
+    "code": "B23K 9/235",
+    "description": "••Tratamiento previo [2006.01]"
+  },
+  {
+    "code": "B23K 9/24",
+    "description": "••Características relativas a los electrodos (formas y composiciones de los electrodos B23K 35/00) [2006.01]"
+  },
+  {
+    "code": "B23K 9/26",
+    "description": "••••Accesorios para electrodos, p. ej. contactos relacionados para comenzar la operación [2006.01]"
+  },
+  {
+    "code": "B23K 9/28",
+    "description": "••••Dispositivos para soportar los electrodos (no limitados a la soldadura o al corte por arco B23K 37/02) [2006.01]"
+  },
+  {
+    "code": "B23K 9/29",
+    "description": "••••••Dispositivos de soporte adaptados para servir de medios de protección [2006.01]"
+  },
+  {
+    "code": "B23K 9/30",
+    "description": "••••••Portaelectrodos vibrantes (B23K 9/022 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B23K 9/32",
+    "description": "••Accesorios (conexiones a tierra H01R) [2006.01]"
+  },
+  {
+    "code": "B23K 10/00",
+    "description": "Soldadura o corte mediante un plasma [2006.01]"
+  },
+  {
+    "code": "B23K 10/02",
+    "description": "••Soldadura por plasma [2006.01]"
+  },
+  {
+    "code": "B23K 11/00",
+    "description": "Soldadura por resistencia; Seccionamiento por calentamiento por resistencia [2006.01]"
+  },
+  {
+    "code": "B23K 11/02",
+    "description": "••Soldadura a tope por presión [2006.01]"
+  },
+  {
+    "code": "B23K 11/04",
+    "description": "••Soldadura a tope por chispa [2006.01]"
+  },
+  {
+    "code": "B23K 11/06",
+    "description": "••utilizando electrodos de rodillo [2006.01]"
+  },
+  {
+    "code": "B23K 11/08",
+    "description": "••Soldadura de juntas continuas no limitada a uno de los subgrupos precedentes [2006.01]"
+  },
+  {
+    "code": "B23K 11/087",
+    "description": "••••para juntas rectilíneas [2006.01]"
+  },
+  {
+    "code": "B23K 11/093",
+    "description": "••••para juntas curvilíneas situadas en un plano [2006.01]"
+  },
+  {
+    "code": "B23K 11/10",
+    "description": "••Soldadura por puntos; Soldadura en línea continua por puntos [2006.01]"
+  },
+  {
+    "code": "B23K 11/11",
+    "description": "••••Soldadura por puntos [2006.01]"
+  },
+  {
+    "code": "B23K 11/12",
+    "description": "••••utilizando vibraciones [2006.01]"
+  },
+  {
+    "code": "B23K 11/14",
+    "description": "••Soldadura por proyección [2006.01]"
+  },
+  {
+    "code": "B23K 11/16",
+    "description": "••Soldadura por resistencia teniendo en cuenta las propiedades del metal que se va a soldar [2006.01]"
+  },
+  {
+    "code": "B23K 11/18",
+    "description": "••••de metales no férreos (B23K 11/20 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B23K 11/20",
+    "description": "••••de metales diferentes [2006.01]"
+  },
+  {
+    "code": "B23K 11/22",
+    "description": "••Seccionamiento por calentamiento por resistencia [2006.01]"
+  },
+  {
+    "code": "B23K 11/24",
+    "description": "••Circuitos de alimentación o de control apropiados [2006.01]"
+  },
+  {
+    "code": "B23K 11/25",
+    "description": "••••Dispositivos de vigilancia [2006.01]"
+  },
+  {
+    "code": "B23K 11/26",
+    "description": "••••Soldadura por descarga de energía acumulada [2006.01]"
+  },
+  {
+    "code": "B23K 11/28",
+    "description": "••Equipos portátiles de soldadura [2006.01]"
+  },
+  {
+    "code": "B23K 11/30",
+    "description": "••Características relativas a los electrodos (formas o composiciones de los electrodos B23K 35/00) [2006.01]"
+  },
+  {
+    "code": "B23K 11/31",
+    "description": "••••Portaelectrodos (no limitados a la soldadura por resistencia eléctrica o al seccionamiento por calentamiento por resistencia B23K 37/02) [2006.01]"
+  },
+  {
+    "code": "B23K 11/34",
+    "description": "••Tratamiento previo [2006.01]"
+  },
+  {
+    "code": "B23K 11/36",
+    "description": "••Equipo auxiliar (B23K 11/31 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B23K 13/00",
+    "description": "Soldadura por calentamiento mediante una corriente de alta frecuencia [2006.01]"
+  },
+  {
+    "code": "B23K 13/01",
+    "description": "••por calentamiento por inducción [2006.01]"
+  },
+  {
+    "code": "B23K 13/02",
+    "description": "••••Soldadura de juntas continuas [2006.01]"
+  },
+  {
+    "code": "B23K 13/04",
+    "description": "••por calentamiento por conducción [2006.01]"
+  },
+  {
+    "code": "B23K 13/06",
+    "description": "••caracterizada por la protección de la zona de soldadura contra la influencia de la atmósfera circundante (empleo de medios ambientales específicos B23K 35/38) [2006.01]"
+  },
+  {
+    "code": "B23K 13/08",
+    "description": "••Circuitos eléctricos de alimentación o de control a este efecto [2006.01]"
+  },
+  {
+    "code": "B23K 15/00",
+    "description": "Soldadura o corte por haz de electrones (tubos de haces electrónicos o iónicos H01J 37/00) [2006.01]"
+  },
+  {
+    "code": "B23K 15/02",
+    "description": "••Circuitos de control a este efecto [2006.01]"
+  },
+  {
+    "code": "B23K 15/04",
+    "description": "••para la soldadura de juntas anulares [2006.01]"
+  },
+  {
+    "code": "B23K 15/06",
+    "description": "••en un recinto bajo vacío (B23K 15/04 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B23K 15/08",
+    "description": "••Retirada de materia, p. ej. por corte, mediante taladro de agujeros [2006.01]"
+  },
+  {
+    "code": "B23K 15/10",
+    "description": "••Soldadura o corte por haz de electrones, que no tiene lugar bajo vacío [2006.01]"
+  },
+  {
+    "code": "B23K 17/00",
+    "description": "Utilización de la energía de las partículas nucleares para la soldadura o las técnicas conexas [2006.01]"
+  },
+  {
+    "code": "B23K 20/00",
+    "description": "Soldadura no eléctrica por percusión u otra forma de presión, con o sin calentamiento, p. ej. revestimiento o chapeado [2006.01]"
+  },
+  {
+    "code": "B23K 20/02",
+    "description": "••por medio de una prensa [2006.01]"
+  },
+  {
+    "code": "B23K 20/04",
+    "description": "••por medio de un laminador [2006.01]"
+  },
+  {
+    "code": "B23K 20/06",
+    "description": "••por medio de impulsos de alta energía, p. ej. de energía magnética [2006.01]"
+  },
+  {
+    "code": "B23K 20/08",
+    "description": "••••Soldadura por explosión [2006.01]"
+  },
+  {
+    "code": "B23K 20/10",
+    "description": "••utilizando vibraciones, p. ej. soldadura ultrasónica [2006.01]"
+  },
+  {
+    "code": "B23K 20/12",
+    "description": "••siendo producido el calor por fricción; Soldadura por fricción [2006.01]"
+  },
+  {
+    "code": "B23K 20/14",
+    "description": "••Disposiciones para impedir o reducir el acceso de gases, o utilización de gases protectores o del vacío durante la soldadura (obtenida con ayuda de un material dispuesto entre las piezas B23K 20/18) [2006.01]"
+  },
+  {
+    "code": "B23K 20/16",
+    "description": "••interponiendo un material particular que facilite la unión de las piezas, p. ej. un material absorbente o produciendo gas [2006.01]"
+  },
+  {
+    "code": "B23K 20/18",
+    "description": "••Soldadura localizada obtenida por interposición de sustancias que impiden la soldadura en ciertas zonas [2006.01]"
+  },
+  {
+    "code": "B23K 20/20",
+    "description": "••Procedimientos particulares que permiten una separación posterior, p. ej. metales de alta calidad a partir de desechos [2006.01]"
+  },
+  {
+    "code": "B23K 20/22",
+    "description": "••teniendo en cuenta las propiedades de los materiales a soldar [2006.01]"
+  },
+  {
+    "code": "B23K 20/227",
+    "description": "••••con una capa ferrosa [2006.01]"
+  },
+  {
+    "code": "B23K 20/233",
+    "description": "••••sin capa ferrosa [2006.01]"
+  },
+  {
+    "code": "B23K 20/24",
+    "description": "••Tratamiento previo [2006.01]"
+  },
+  {
+    "code": "B23K 20/26",
+    "description": "••Equipo auxiliar [2006.01]"
+  },
+  {
+    "code": "B23K 23/00",
+    "description": "Soldadura aluminotérmica [2006.01]"
+  },
+  {
+    "code": "B23K 25/00",
+    "description": "Soldadura por escoria, es decir, utilizando una masa o capa de polvo de escoria caliente o de otro producto similar en contacto con los materiales que se van a unir (B23K 23/00 tiene prioridad; soldadura por arco sumergido B23K 9/18) [2006.01]"
+  },
+  {
+    "code": "B23K 26/00",
+    "description": "Trabajo por rayos láser, p. ej. soldadura, corte o taladrado [2014.01]"
+  },
+  {
+    "code": "B23K 26/02",
+    "description": "••Colocación o vigilancia de las piezas, p. ej. con relación al punto de impacto; Alineación, apuntamiento o focalización del haz de rayos láser [2014.01]"
+  },
+  {
+    "code": "B23K 26/03",
+    "description": "••••Vigilancia, p. ej. monitorización, de las piezas [2006.01]"
+  },
+  {
+    "code": "B23K 26/035",
+    "description": "••••Alineación del haz de rayos láser (automáticamente B23K 26/042) [2014.01]"
+  },
+  {
+    "code": "B23K 26/04",
+    "description": "••••Alineación, apuntado o focalización automáticos del haz de rayos láser, p. ej. utilizando la luz difundida de vuelta [2014.01]"
+  },
+  {
+    "code": "B23K 26/042",
+    "description": "••••••Alineado automático del haz de rayos láser [2014.01]"
+  },
+  {
+    "code": "B23K 26/044",
+    "description": "••••••••Seguimiento de las uniones [2014.01]"
+  },
+  {
+    "code": "B23K 26/046",
+    "description": "••••••Enfocado automático del haz de rayos láser [2014.01]"
+  },
+  {
+    "code": "B23K 26/06",
+    "description": "••••Determinación de la configuración del haz de rayos, p. ej. con ayuda de máscaras o de focos múltiples [2014.01]"
+  },
+  {
+    "code": "B23K 26/062",
+    "description": "••••••por control directo del haz de rayos láser [2014.01]"
+  },
+  {
+    "code": "B23K 26/0622",
+    "description": "••••••••por impulsos de conformado [2014.01]"
+  },
+  {
+    "code": "B23K 26/064",
+    "description": "••••••por medio de elementos ópticos, p. ej. lentes, espejos o prismas [2014.01]"
+  },
+  {
+    "code": "B23K 26/066",
+    "description": "••••••••utilizando máscaras [2014.01]"
+  },
+  {
+    "code": "B23K 26/067",
+    "description": "••••••Separando el haz de rayos en múltiples rayos, p.ej. focos múltiples [2006.01]"
+  },
+  {
+    "code": "B23K 26/073",
+    "description": "••••••Determinación de la configuración para el punto del láser [2006.01]"
+  },
+  {
+    "code": "B23K 26/08",
+    "description": "••Dispositivos que tiene un movimiento relativo entre el haz de rayos y la pieza [2014.01]"
+  },
+  {
+    "code": "B23K 26/082",
+    "description": "••••Sistemas de escaneo, es decir, dispositivos que implican el movimiento del haz de rayos láser respecto al cabezal del láser [2014.01]"
+  },
+  {
+    "code": "B23K 26/10",
+    "description": "••••con un soporte fijo [2006.01]"
+  },
+  {
+    "code": "B23K 26/12",
+    "description": "••bajo ambientes o atmósfera especial, p. ej. en un recinto [2014.01]"
+  },
+  {
+    "code": "B23K 26/122",
+    "description": "••••en un líquido, p.ej. bajo el agua [2014.01]"
+  },
+  {
+    "code": "B23K 26/14",
+    "description": "••con una corriente de fluido asociada al haz de rayos, p. ej. un chorro de gas; Boquillas para tal fin (B23K 26/12 tiene prioridad) [2014.01]"
+  },
+  {
+    "code": "B23K 26/142",
+    "description": "••••para la eliminación de subproductos [2014.01]"
+  },
+  {
+    "code": "B23K 26/144",
+    "description": "••••conteniendo partículas la corriente de fluido, p.ej. polvo [2014.01]"
+  },
+  {
+    "code": "B23K 26/146",
+    "description": "••••conteniendo un líquido la corriente de fluido [2014.01]"
+  },
+  {
+    "code": "B23K 26/16",
+    "description": "••Eliminación de subproductos, p. ej. de partículas o de vapores producidos durante la operación (con ayuda de una corriente de fluido B23K 26/142) [2006.01]"
+  },
+  {
+    "code": "B23K 26/18",
+    "description": "••utilizando capas absorbentes sobre el material a trabajar, p. ej. para marcado o protección [2006.01]"
+  },
+  {
+    "code": "B23K 26/20",
+    "description": "••Unión (soldadura sin fusión por energía radiante B23K 1/005; unión de elementos plásticos preformados por calentamiento mediante láser B29C 65/16) [2014.01]"
+  },
+  {
+    "code": "B23K 26/21",
+    "description": "••••por soldadura [2014.01]"
+  },
+  {
+    "code": "B23K 26/211",
+    "description": "••••••con interposición de un material especial para facilitar la conexión entre las partes [2014.01]"
+  },
+  {
+    "code": "B23K 26/22",
+    "description": "••••••Soldadura por puntos [2006.01]"
+  },
+  {
+    "code": "B23K 26/24",
+    "description": "••••••Soldadura por costuras [2014.01]"
+  },
+  {
+    "code": "B23K 26/242",
+    "description": "••••••••Soldadura en angulo, es decir, implicando un cordon de sección sustancialmente triangular uniendo dos partes [2014.01]"
+  },
+  {
+    "code": "B23K 26/244",
+    "description": "••••••••soldadura de traslape por costuras [2014.01]"
+  },
+  {
+    "code": "B23K 26/26",
+    "description": "••••••••de costuras rectilíneas [2014.01]"
+  },
+  {
+    "code": "B23K 26/262",
+    "description": "••••••••••para costuras longitudinales de tubos [2014.01]"
+  },
+  {
+    "code": "B23K 26/28",
+    "description": "••••••••de costuras curvadas planas [2014.01]"
+  },
+  {
+    "code": "B23K 26/282",
+    "description": "••••••••••de secciones de tubo [2014.01]"
+  },
+  {
+    "code": "B23K 26/30",
+    "description": "••••••••de costuras tridimensionales [2014.01]"
+  },
+  {
+    "code": "B23K 26/302",
+    "description": "••••••••••de costuras helicoidales [2014.01]"
+  },
+  {
+    "code": "B23K 26/32",
+    "description": "••••tomando en consideración las propiedades del material involucrado [2014.01]"
+  },
+  {
+    "code": "B23K 26/322",
+    "description": "••••••involucrando piezas de metal recubiertas (utilizando capas absorventes en la pieza B23K 26/18) [2014.01]"
+  },
+  {
+    "code": "B23K 26/323",
+    "description": "••••••involucrando piezas de materiales metálicos heterogéneos [2014.01]"
+  },
+  {
+    "code": "B23K 26/324",
+    "description": "••••••involucrando piezas no metálicas [2014.01]"
+  },
+  {
+    "code": "B23K 26/34",
+    "description": "••Soldadura láser con otros fines que no sean los de unión [2014.01]"
+  },
+  {
+    "code": "B23K 26/342",
+    "description": "••••Soldadura de recarga [2014.01]"
+  },
+  {
+    "code": "B23K 26/346",
+    "description": "••combinado con soldadura o corte cubierto por los grupos B23K 5/00-B23K 25/00, p.ej. combinado con soldadura por resistencia [2014.01]"
+  },
+  {
+    "code": "B23K 26/348",
+    "description": "••••combinado con soldadura al arco, p.ej. TIG [tungsten inert gas], MIG [metal inert gas] o soldadura de plasma (haz de rayos laser para iniciar el arco de soldadura o de corte B23K 9/067) [2014.01]"
+  },
+  {
+    "code": "B23K 26/351",
+    "description": "••para ajuste o puesta a punto de componentes eléctricos [2014.01]"
+  },
+  {
+    "code": "B23K 26/352",
+    "description": "••para tratamiento superficialt [2014.01]"
+  },
+  {
+    "code": "B23K 26/354",
+    "description": "••••por fusión [2014.01]"
+  },
+  {
+    "code": "B23K 26/356",
+    "description": "••••por procesos de impulsos [2014.01]"
+  },
+  {
+    "code": "B23K 26/359",
+    "description": "••••proporcionando una línea o un patrón de línea, p. ej. una línea punteada de iniciación [2014.01]"
+  },
+  {
+    "code": "B23K 26/36",
+    "description": "••Retirada de material (B23K 26/55, B23K 26/57 tienen prioridad) [2014.01]"
+  },
+  {
+    "code": "B23K 26/361",
+    "description": "••••por desbarbado o refilado mecánico (B23K 26/351  tiene prioridad) [2014.01]"
+  },
+  {
+    "code": "B23K 26/362",
+    "description": "••••Grabado láser [2014.01]"
+  },
+  {
+    "code": "B23K 26/364",
+    "description": "••••••para la realización de hendiduras o surcos, p. ej. para marcar una hendidura para inicio de rotura [2014.01]"
+  },
+  {
+    "code": "B23K 26/38",
+    "description": "••••mediante escariado o corte [2014.01]"
+  },
+  {
+    "code": "B23K 26/382",
+    "description": "••••••mediante escariado [2014.01]"
+  },
+  {
+    "code": "B23K 26/384",
+    "description": "••••••••de orificios de forma especial [2014.01]"
+  },
+  {
+    "code": "B23K 26/386",
+    "description": "••••••••de orificios ciegos [2014.01]"
+  },
+  {
+    "code": "B23K 26/388",
+    "description": "••••••••Trepanado, es decir, horadado por movimiento del punto de impacto del haz alrededor de un eje [2014.01]"
+  },
+  {
+    "code": "B23K 26/40",
+    "description": "••••tomando en consideración las propiedades del material involucrado [2014.01]"
+  },
+  {
+    "code": "B23K 26/402",
+    "description": "••••••involucrando material no metálico, p.ej. aislantes [2014.01]"
+  },
+  {
+    "code": "B23K 26/50",
+    "description": "••Trabajo por transmisión del haz de láser a través o dentro de la pieza [2014.01]"
+  },
+  {
+    "code": "B23K 26/53",
+    "description": "••••para modificar o reformar el material interior de la pieza, p.ej. para la producción de fisuras de iniciación de rotura [2014.01]"
+  },
+  {
+    "code": "B23K 26/55",
+    "description": "••••para crear rechupes en el interior de las piezas, p.ej. para la formación de canales o modelos de flujo [2014.01]"
+  },
+  {
+    "code": "B23K 26/57",
+    "description": "••••entrando el haz de láser en una cara de la pieza desde la cual es transmitido a través del material de la misma para trabajar en una cara diferente, p.ej. para efectuar eliminación, unión por fusión, modificaciones o reformas [2014.01]"
+  },
+  {
+    "code": "B23K 26/60",
+    "description": "••Tratamiento preliminar [2014.01]"
+  },
+  {
+    "code": "B23K 26/70",
+    "description": "••Operaciones o equipo auxiliar [2014.01]"
+  },
+  {
+    "code": "B23K 28/00",
+    "description": "Soldadura o corte no cubierto por los grupos B23K 5/00-B23K 26/00 (juntando las piezas por electrólisis C25D 2/00; eliminación electrolítica de materiales C25F) [2006.01]"
+  },
+  {
+    "code": "B23K 28/02",
+    "description": "••Procedimientos o aparatos combinados para la soldadura y el corte [2014.01]"
+  },
+  {
+    "code": "B23K 31/02",
+    "description": "••relativos a la soldadura sin fusión o la soldadura (en la fabricación de circuitos impresos H05K 3/34) [2006.01]"
+  },
+  {
+    "code": "B23K 31/10",
+    "description": "••relativos al corte o al despulido [2006.01]"
+  },
+  {
+    "code": "B23K 31/12",
+    "description": "••relativos a la investigación de las propiedades, p. ej. de soldabilidad, de los materiales [2006.01]"
+  },
+  {
+    "code": "B23K 33/00",
+    "description": "Extremidades de piezas especialmente perfiladas para efectuar ensamblajes por soldadura sin fusión o por soldadura; Rellenado de las juntas continuas así formadas [2006.01]"
+  },
+  {
+    "code": "B23K 35/00",
+    "description": "Varillas de soldar, electrodos, materiales o medios ambientes utilizado para la soldadura sin fusión, la soldadura o el corte [2006.01]"
+  },
+  {
+    "code": "B23K 35/02",
+    "description": "••caracterizados por las propiedades mecánicas, p. ej. por la forma [2006.01]"
+  },
+  {
+    "code": "B23K 35/04",
+    "description": "••••especialmente concebidos para servir de electrodos (contactos de encendido en las operaciones de soldadura o corte por arco B23K 9/26) [2006.01]"
+  },
+  {
+    "code": "B23K 35/06",
+    "description": "••••••de sección no circular; con dispositivos particulares, p. ej. en el interior [2006.01]"
+  },
+  {
+    "code": "B23K 35/08",
+    "description": "••••••••con varios núcleos; múltiples [2006.01]"
+  },
+  {
+    "code": "B23K 35/10",
+    "description": "••••••••con varias capas de material envolvente o de enfundado [2006.01]"
+  },
+  {
+    "code": "B23K 35/12",
+    "description": "••••no especialmente concebidos para servir de electrodos [2006.01]"
+  },
+  {
+    "code": "B23K 35/14",
+    "description": "••••••para la soldadura sin fusión [2006.01]"
+  },
+  {
+    "code": "B23K 35/16",
+    "description": "••••••de sección no circular; con dispositivos particulares, p. ej. en el interior (B23K 35/14 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B23K 35/18",
+    "description": "••••••••con varios núcleos; múltiples [2006.01]"
+  },
+  {
+    "code": "B23K 35/20",
+    "description": "••••••••con varias capas de metal envolvente o de enfundado [2006.01]"
+  },
+  {
+    "code": "B23K 35/22",
+    "description": "••caracterizados por la composición o naturaleza del material [2006.01]"
+  },
+  {
+    "code": "B23K 35/24",
+    "description": "••••Empleo de materiales específicos para la soldadura sin fusión o la soldadura (B23K 35/34 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B23K 35/26",
+    "description": "••••••en los que el principal constituyente funde a menos de 400°C [2006.01]"
+  },
+  {
+    "code": "B23K 35/28",
+    "description": "••••••en los que el principal constituyente funde a menos de 950°C [2006.01]"
+  },
+  {
+    "code": "B23K 35/30",
+    "description": "••••••en los que el principal constituyente funde a menos de 1.550°C [2006.01]"
+  },
+  {
+    "code": "B23K 35/32",
+    "description": "••••••en los que el principal constituyente funde a más de 1.550°C [2006.01]"
+  },
+  {
+    "code": "B23K 35/34",
+    "description": "••••comprendiendo cuerpos que facilitan el trabajo de los metales cuando éstos se calientan [2006.01]"
+  },
+  {
+    "code": "B23K 35/36",
+    "description": "••••Empleo de composiciones no metálicas especificadas, p. ej. como revestimientos, como fundentes (B23K 35/34 tiene prioridad); Empleo de materiales de soldadura con fusión o sin fusión especificados asociados al empleo de composiciones no metálicas especificadas, en el que el empleo de dos materiales es importante (empleo de materiales especificados para la soldadura con o sin fusión B23K 35/24) [2006.01]"
+  },
+  {
+    "code": "B23K 35/362",
+    "description": "••••••Empleo de composiciones especificadas de fundentes (B23K 35/365, B23K 35/368 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "B23K 35/363",
+    "description": "••••••••por soldadura sin fusión o soldadura [2006.01]"
+  },
+  {
+    "code": "B23K 35/365",
+    "description": "••••••Empleo de composiciones no metálicas especificadas como revestimientos, sean solas, sean ligadas al empleo de materiales especificados para la soldadura con o sin fusión [2006.01]"
+  },
+  {
+    "code": "B23K 35/368",
+    "description": "••••••Empleo de composiciones no metálicas especificadas para hilos forrados, sean solas, sean ligadas al empleo de materiales especificados para la soldadura con o sin fusión [2006.01]"
+  },
+  {
+    "code": "B23K 35/38",
+    "description": "••••Empleo de medios ambientales específicos, p. ej. atmósferas particulares rodeando la zona de trabajo [2006.01]"
+  },
+  {
+    "code": "B23K 35/40",
+    "description": "••Fabricación de hilos o de barras para la soldadura sin fusión o la soldadura (procedimientos que implican una sola técnica, ver las clases apropiadas, p. ej. B05D, B21C) [2006.01]"
+  },
+  {
+    "code": "B23K 37/00",
+    "description": "Dispositivos o procedimientos auxiliares no especialmente adaptados a un procedimiento cubierto en uno solo de los grupos principales de esta subclase (pantallas de protección para los ojos de los operarios, llevadas por el operario o sujetadas manualmente A61F 9/00; aplicables a las máquinas de trabajar metales no destinados a la soldadura sin fusión, o a la soldadura o al corte por soplete B23Q; otras pantallas protectoras F16P 1/06) [2006.01]"
+  },
+  {
+    "code": "B23K 37/02",
+    "description": "••Carros para soportar el utillaje de soldar o cortar [2006.01]"
+  },
+  {
+    "code": "B23K 37/04",
+    "description": "••para sujetar o colocar las piezas [2006.01]"
+  },
+  {
+    "code": "B23K 37/047",
+    "description": "••••Desplazamiento de las piezas para ajustar su posición entre las etapas de soldadura sin fusión, de soldadura o de corte (B23K 37/053 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B23K 37/053",
+    "description": "••••Alineación de piezas cilíndricas; Dispositivos de sujeción a este efecto [2006.01]"
+  },
+  {
+    "code": "B23K 37/06",
+    "description": "••para colocar en buen lugar los materiales fundidos, p. ej. para retenerlos en una zona determinada [2006.01]"
+  },
+  {
+    "code": "B23K 37/08",
+    "description": "••para el desbarbado [2006.01]"
+  },
+  {
+    "code": "B23K 101/00",
+    "description": "Objetos fabricados por soldadura sin fusión, soldadura o corte [2006.01]"
+  },
+  {
+    "code": "B23K 101/02",
+    "description": "••Estructuras alveolares [2006.01]"
+  },
+  {
+    "code": "B23K 101/04",
+    "description": "••Objetos tubulares o huecos [2006.01]"
+  },
+  {
+    "code": "B23K 101/06",
+    "description": "••••Tubos [2006.01]"
+  },
+  {
+    "code": "B23K 101/08",
+    "description": "••••••con aletas o con acanaladuras [2006.01]"
+  },
+  {
+    "code": "B23K 101/10",
+    "description": "••••Tuberías [2006.01]"
+  },
+  {
+    "code": "B23K 101/12",
+    "description": "••••Recipientes [2006.01]"
+  },
+  {
+    "code": "B23K 101/14",
+    "description": "••••Intercambiadores de calor [2006.01]"
+  },
+  {
+    "code": "B23K 101/16",
+    "description": "••Bandas u hojas de longitud indeterminada [2006.01]"
+  },
+  {
+    "code": "B23K 101/18",
+    "description": "••Paneles de chapa [2006.01]"
+  },
+  {
+    "code": "B23K 101/20",
+    "description": "••Herramientas [2006.01]"
+  },
+  {
+    "code": "B23K 101/22",
+    "description": "••Enrejados, tejidos de hilos metálicos o similares [2006.01]"
+  },
+  {
+    "code": "B23K 101/24",
+    "description": "••Armaduras o armazones [2006.01]"
+  },
+  {
+    "code": "B23K 101/26",
+    "description": "••Carriles para ferrocarriles o similares [2006.01]"
+  },
+  {
+    "code": "B23K 101/28",
+    "description": "••Vigas [2006.01]"
+  },
+  {
+    "code": "B23K 101/30",
+    "description": "••Cadenas, aros o anillos [2006.01]"
+  },
+  {
+    "code": "B23K 101/32",
+    "description": "••Hilos [2006.01]"
+  },
+  {
+    "code": "B23K 101/34",
+    "description": "••Objetos revestidos [2006.01]"
+  },
+  {
+    "code": "B23K 101/36",
+    "description": "••Dispositivos eléctricos o electrónicos [2006.01]"
+  },
+  {
+    "code": "B23K 101/38",
+    "description": "••••Conductores [2006.01]"
+  },
+  {
+    "code": "B23K 101/40",
+    "description": "••••Dispositivos semiconductores [2006.01]"
+  },
+  {
+    "code": "B23K 101/42",
+    "description": "••••Circuitos impresos [2006.01]"
+  },
+  {
+    "code": "B23K 103/00",
+    "description": "Materiales a soldar sin fusión, a soldar o a cortar [2006.01]"
+  },
+  {
+    "code": "B23K 103/02",
+    "description": "••Hierro o aleaciones ferrosas [2006.01]"
+  },
+  {
+    "code": "B23K 103/04",
+    "description": "••••Aleaciones de acero [2006.01]"
+  },
+  {
+    "code": "B23K 103/06",
+    "description": "••••Aleaciones de hierro fundido [2006.01]"
+  },
+  {
+    "code": "B23K 103/08",
+    "description": "••Metales o aleaciones no ferrosas [2006.01]"
+  },
+  {
+    "code": "B23K 103/10",
+    "description": "••••Aluminio o sus aleaciones [2006.01]"
+  },
+  {
+    "code": "B23K 103/12",
+    "description": "••••Cobre o sus aleaciones [2006.01]"
+  },
+  {
+    "code": "B23K 103/14",
+    "description": "••••Titanio o sus aleaciones [2006.01]"
+  },
+  {
+    "code": "B23K 103/16",
+    "description": "••Materiales compuestos [2006.01]"
+  },
+  {
+    "code": "B23K 103/18",
+    "description": "••Materiales que contienen distintas sustancias [2006.01]"
+  },
+  {
+    "code": "B23K 103/20",
+    "description": "••••Aleaciones ferrosas y aluminio o sus aleaciones [2006.01]"
+  },
+  {
+    "code": "B23K 103/22",
+    "description": "••••Aleaciones ferrosas y cobre o sus aleaciones [2006.01]"
+  },
+  {
+    "code": "B23K 103/24",
+    "description": "••••Aleaciones ferrosas y titanio o sus aleaciones [2006.01]"
+  }
+]

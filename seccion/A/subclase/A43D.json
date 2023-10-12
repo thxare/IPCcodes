@@ -1,0 +1,686 @@
+[
+  {
+    "code": "A43D 1/00",
+    "description": "Dispositivos de medida del pie o de las hormas; Dispositivos de medida para partes del calzado [2006.01]"
+  },
+  {
+    "code": "A43D 1/02",
+    "description": "••Dispositivos de medida del pie (medida de la forma, del dibujo o de la dimensión del cuerpo con fines de diagnóstico A61B 5/103, p. ej. medida de dimensiones corporales A61B 5/107) [2006.01]"
+  },
+  {
+    "code": "A43D 1/04",
+    "description": "••Dispositivos de medida para hormas de zapatos [2006.01]"
+  },
+  {
+    "code": "A43D 1/06",
+    "description": "••Dispositivos para medir las dimensiones interiores del calzado, la altura, o la disposición de los tacones [2006.01]"
+  },
+  {
+    "code": "A43D 1/08",
+    "description": "••Dispositivos de medida para partes del calzado [2006.01]"
+  },
+  {
+    "code": "A43D 3/00",
+    "description": "Hormas [2006.01]"
+  },
+  {
+    "code": "A43D 3/02",
+    "description": "••Hormas para la fabricación o la reparación de calzado (fabricación de hormas de madera B27M 3/20) [2006.01]"
+  },
+  {
+    "code": "A43D 3/04",
+    "description": "••Hormas neumáticas; Hormas elásticas [2006.01]"
+  },
+  {
+    "code": "A43D 3/06",
+    "description": "••Cierres con cantoneras para las hormas [2006.01]"
+  },
+  {
+    "code": "A43D 3/08",
+    "description": "••Dispositivos para agrandar los calzados en puntos determinados [2006.01]"
+  },
+  {
+    "code": "A43D 3/10",
+    "description": "••Dispositivos para quitar las hormas [2006.01]"
+  },
+  {
+    "code": "A43D 3/12",
+    "description": "••Dispositivos para introducir o reintroducir las hormas [2006.01]"
+  },
+  {
+    "code": "A43D 3/14",
+    "description": "••Aparatos extensores o ensanchadores; Hormas para botas; Rellenos; Dispositivos para conservar la forma del calzado (secado del calzado A47L 23/20) [2006.01]"
+  },
+  {
+    "code": "A43D 5/00",
+    "description": "Aparatos manuales para fabricar o reparar calzado diferentes a los cubiertos por los grupos A43D 15/00, A43D 19/00, A43D 95/00, A43D 100/00, A43D 117/00 [2006.01]"
+  },
+  {
+    "code": "A43D 5/02",
+    "description": "••Bancos para la fabricación de calzado (soportes para la limpieza del calzado A47L 23/16) [2006.01]"
+  },
+  {
+    "code": "A43D 5/04",
+    "description": "••Cuchillas de zapatero (cuchillas en general B26B) [2006.01]"
+  },
+  {
+    "code": "A43D 5/06",
+    "description": "••Herramientas para cortar las puntas de los clavos o las clavijas en los calzados [2006.01]"
+  },
+  {
+    "code": "A43D 5/08",
+    "description": "••Leznas (fabricación B21G) [2006.01]"
+  },
+  {
+    "code": "A43D 5/10",
+    "description": "••Escofinas de zapatero (escofinas para madera B27G 17/06) [2006.01]"
+  },
+  {
+    "code": "A43D 5/12",
+    "description": "••Aparatos de clavado manual para la fabricación de calzado (A43D 19/02 tiene prioridad; aparatos para clavar en general B25C, B27F) [2006.01]"
+  },
+  {
+    "code": "A43D 5/14",
+    "description": "••••Tenazas manuales para el grapado [2006.01]"
+  },
+  {
+    "code": "A43D 8/02",
+    "description": "••Recortado (corte en general B26D, B26F; para artículos de cuero en general C14B 5/00) [2006.01]"
+  },
+  {
+    "code": "A43D 8/04",
+    "description": "••••Estampado (A43D 8/10 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "A43D 8/06",
+    "description": "••••••Troqueles a este efecto [2006.01]"
+  },
+  {
+    "code": "A43D 8/08",
+    "description": "••••••Estampado y unión combinados, p. ej. con una corriente eléctrica de alta frecuencia aplicada entre el borde de corte y el soporte de trabajo [2006.01]"
+  },
+  {
+    "code": "A43D 8/10",
+    "description": "••••Corte utilizando una graduación de patrones (guarnición A43D 8/38; graduación de los patrones para la confección de ropa A41H 3/00; copiado de patrones o modelos en general B23Q 33/00, B23Q 35/00) [2006.01]"
+  },
+  {
+    "code": "A43D 8/12",
+    "description": "••••••Patrones o modelos a este efecto [2006.01]"
+  },
+  {
+    "code": "A43D 8/14",
+    "description": "••••••••Rebordeado de patrones [2006.01]"
+  },
+  {
+    "code": "A43D 8/16",
+    "description": "••Decoración (por plegado A43D 8/44; del cuero en general C14B 1/56) [2006.01]"
+  },
+  {
+    "code": "A43D 8/18",
+    "description": "••••por punzonado o perforación (punzonado para abrir ojetes A43D 100/02) [2006.01]"
+  },
+  {
+    "code": "A43D 8/20",
+    "description": "••••••Matrices a este efecto [2006.01]"
+  },
+  {
+    "code": "A43D 8/22",
+    "description": "••••por estampado o impresión (impresión en general B41) [2006.01]"
+  },
+  {
+    "code": "A43D 8/24",
+    "description": "••••••Estampado en caliente, p. ej. utilizando corriente eléctrica de alta frecuencia [2006.01]"
+  },
+  {
+    "code": "A43D 8/26",
+    "description": "••Marcado para futuros trabajos (A43D 8/16 tiene prioridad; impresión en general B41) [2006.01]"
+  },
+  {
+    "code": "A43D 8/28",
+    "description": "••••Patrones para dibujar las líneas de corte (para la confección de ropas A41H 3/00) [2006.01]"
+  },
+  {
+    "code": "A43D 8/30",
+    "description": "••••Trazado de dibujos en láminas a efectos de corte [2006.01]"
+  },
+  {
+    "code": "A43D 8/32",
+    "description": "••Trabajos en los cantos o bordes (del cuero en general C14B 1/02, C14B 11/00) [2006.01]"
+  },
+  {
+    "code": "A43D 8/34",
+    "description": "••••Pulimento (A43D 8/48 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "A43D 8/36",
+    "description": "••••por recorte de los bordes de las suelas (recorte en tanto que operación intermedia en la fabricación de calzados A43D 27/00, en tanto que operación de acabado en la fabricación de calzados A43D 87/00) [2006.01]"
+  },
+  {
+    "code": "A43D 8/38",
+    "description": "••••••por corte, p. ej. utilizando modelos [2006.01]"
+  },
+  {
+    "code": "A43D 8/40",
+    "description": "••••por plegado, replegado, inversión, repujado [2006.01]"
+  },
+  {
+    "code": "A43D 8/42",
+    "description": "••••por quemado, contracción, tinte [2006.01]"
+  },
+  {
+    "code": "A43D 8/44",
+    "description": "••Prensas de plegado (doblado de los bordes A43D 8/40) [2006.01]"
+  },
+  {
+    "code": "A43D 8/46",
+    "description": "••División (del cuero en general C14B 1/02) [2006.01]"
+  },
+  {
+    "code": "A43D 8/48",
+    "description": "••••combinada con el pulido [2006.01]"
+  },
+  {
+    "code": "A43D 8/50",
+    "description": "••••División y guarnición combinadas de las porciones de asiento de los tacones de las suelas (de suelas fijadas en la base del calzado A43D 27/04) [2006.01]"
+  },
+  {
+    "code": "A43D 8/52",
+    "description": "••Flexibilidad (del cuero en general C14B) [2006.01]"
+  },
+  {
+    "code": "A43D 8/54",
+    "description": "••••por enfurtido [2006.01]"
+  },
+  {
+    "code": "A43D 8/56",
+    "description": "••••de las suelas por incisión [2006.01]"
+  },
+  {
+    "code": "A43D 9/00",
+    "description": "Dispositivos para sujetar los empeines sobre las hormas (para las punteras de los calzados A43D 15/00) [2006.01]"
+  },
+  {
+    "code": "A43D 11/00",
+    "description": "Máquinas para el tratamiento preparatorio o el ensamblaje de las partes del empeine, de los contrafuertes o de las plantillas interiores sobre sus hormas con anterioridad a las operaciones de montaje o de ahormado; Aplicación o levantamiento de revestimientos protectores [2006.01]"
+  },
+  {
+    "code": "A43D 11/01",
+    "description": "••Máquinas para aplicar o fijar piezas de refuerzo o franjas decorativas a los empeines o a las cañas (a las suelas o plantillas A43D 43/06) [2006.01]"
+  },
+  {
+    "code": "A43D 11/02",
+    "description": "••••a sus bordes [2006.01]"
+  },
+  {
+    "code": "A43D 11/03",
+    "description": "••••Cubierta con materiales termoplásticos para endurecer la parte del talón o de la puntera [2006.01]"
+  },
+  {
+    "code": "A43D 11/04",
+    "description": "••Máquinas para prensar las costuras o para aplanar partes del calzado, refuerzos del talón o similares (sobre calzados montados A43D 55/00) [2006.01]"
+  },
+  {
+    "code": "A43D 11/06",
+    "description": "••Máquinas para abotonar provisionalmente partes del calzado [2006.01]"
+  },
+  {
+    "code": "A43D 11/08",
+    "description": "••Máquinas para el acordonado provisional de partes del calzado o para cortar y retirar los cordones después del montaje [2006.01]"
+  },
+  {
+    "code": "A43D 11/10",
+    "description": "••Dispositivos para mantener en su posición las partes que han de ser acordonadas en el transcurso del montaje [2006.01]"
+  },
+  {
+    "code": "A43D 11/12",
+    "description": "••Máquinas para formar la puntera o la parte del talón con o sin la utilización del calor [2006.01]"
+  },
+  {
+    "code": "A43D 11/14",
+    "description": "••Dispositivos para tratar las partes del calzado, p. ej. los contrafuertes por medio de calor o de líquidos (tratamiento después del montado de la suela A43D 95/12) [2006.01]"
+  },
+  {
+    "code": "A43D 13/00",
+    "description": "Máquinas para el montaje del empeine que reposa libremente sobre la horma y para el claveteado de la punta [2006.01]"
+  },
+  {
+    "code": "A43D 13/02",
+    "description": "••Dispositivos para la colocación de las punteras o contrafuertes sobre los mecanismos de montaje [2006.01]"
+  },
+  {
+    "code": "A43D 15/00",
+    "description": "Máquinas para el ahormado o el montaje uniendo la puntera por medio de cordón, cuerda o hilo metálico; Máquinas de montaje dotadas de tenacillas de ajuste; Máquinas de montaje dotadas de dispositivos de costura, igualmente para calzados compensados (máquinas de coser especiales para cueros o calzados D05B) [2006.01]"
+  },
+  {
+    "code": "A43D 17/00",
+    "description": "Máquinas de montaje o ahormado dotadas de soportes oscilantes para el calzado [2006.01]"
+  },
+  {
+    "code": "A43D 19/00",
+    "description": "Montaje manual; Tenacillas para montar [2006.01]"
+  },
+  {
+    "code": "A43D 19/02",
+    "description": "••Dispositivos de clavado o claveteado para ser usados con tenazas de montaje [2006.01]"
+  },
+  {
+    "code": "A43D 21/00",
+    "description": "Máquinas de montaje [2006.01]"
+  },
+  {
+    "code": "A43D 21/02",
+    "description": "••con tenaza de montaje único [2006.01]"
+  },
+  {
+    "code": "A43D 21/04",
+    "description": "••para montar sucesivamente los dos lados opuestos del calzado [2006.01]"
+  },
+  {
+    "code": "A43D 21/06",
+    "description": "••para suelas de madera (A43D 21/16, A43D 21/18 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "A43D 21/08",
+    "description": "••con soportes de horma y tijeras de pinzas móviles en los dos sentidos vertical y horizontal (A43D 21/16 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "A43D 21/10",
+    "description": "••Máquinas de montaje por balanceo [2006.01]"
+  },
+  {
+    "code": "A43D 21/12",
+    "description": "••con órganos de montaje por presión, órganos de ajuste de horma, correderas, correas tensadas o similares para formar la parte de la puntera o del tacón en las hormas de ensanche [2006.01]"
+  },
+  {
+    "code": "A43D 21/14",
+    "description": "••para las partes anterior o posterior del empeine con dispositivos de claveteado [2006.01]"
+  },
+  {
+    "code": "A43D 21/16",
+    "description": "••con tenazas de montaje o tijeras [2006.01]"
+  },
+  {
+    "code": "A43D 21/18",
+    "description": "••con tenazas de montaje y enderezadoras, incluidas aquéllas para partes combadas de los calzados [2006.01]"
+  },
+  {
+    "code": "A43D 23/00",
+    "description": "Detalles de máquinas de ahormado o de montaje (dispositivos de clavado A43D 75/00) [2006.01]"
+  },
+  {
+    "code": "A43D 23/02",
+    "description": "••Correderas; Prensadora de suelas; Soportes de hormas; Tenazas [2006.01]"
+  },
+  {
+    "code": "A43D 23/04",
+    "description": "••Dispositivos transportadores de hormas; Guías para los calzados [2006.01]"
+  },
+  {
+    "code": "A43D 23/06",
+    "description": "••Dispositivos para recortar los materiales sobrantes de las piezas de cuero superiores o de los dobleces [2006.01]"
+  },
+  {
+    "code": "A43D 25/00",
+    "description": "Dispositivos para el encolado de las distintas partes del calzado [2006.01]"
+  },
+  {
+    "code": "A43D 25/047",
+    "description": "••Dispositivos de unión por encolado de plantillas y empeines al mismo tiempo (A43D 25/18, A43D 25/20 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "A43D 25/053",
+    "description": "••••con medios de presión rotativos [2006.01]"
+  },
+  {
+    "code": "A43D 25/06",
+    "description": "••Dispositivos para el encolado de las suelas a la base del calzado (A43D 25/18, A43D 25/20 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "A43D 25/07",
+    "description": "••••que utilizan dispositivos de presión de diafragma flexible [2006.01]"
+  },
+  {
+    "code": "A43D 25/08",
+    "description": "••••Dispositivos de sostén de las visas [2006.01]"
+  },
+  {
+    "code": "A43D 25/10",
+    "description": "••••Cojinetes de presión u otros soportes de prensas para pegar los calzados [2006.01]"
+  },
+  {
+    "code": "A43D 25/12",
+    "description": "••Aparatos para el encolado de tapas o cubiertas a los tacones (A43D 25/18, A43D 25/20 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "A43D 25/14",
+    "description": "••Dispositivos para el rellenado de la planta [2006.01]"
+  },
+  {
+    "code": "A43D 25/16",
+    "description": "••Dispositivos para la fabricación por encolado de los calzados con suelas compensadas [2006.01]"
+  },
+  {
+    "code": "A43D 25/18",
+    "description": "••Dispositivos destinados a la aplicación de adhesivos a las partes del calzado (A43D 25/20 tiene prioridad; aplicación de líquidos u otros materiales fluidos a superficies en general B05) [2006.01]"
+  },
+  {
+    "code": "A43D 25/20",
+    "description": "••Dispositivos para activar o acelerar la acción de los adhesivos, p. ej. utilizando calor [2006.01]"
+  },
+  {
+    "code": "A43D 27/00",
+    "description": "Máquinas para recortado como operación intermedia (trabajos en los bordes o márgenes, p. ej. recortado de esbozos de piezas de calzado A43D 8/32; recortado como operación de acabado en la fabricación del calzado A43D 87/00) [2006.01]"
+  },
+  {
+    "code": "A43D 27/02",
+    "description": "••de suelas o tacones fijados a la base del calzado [2006.01]"
+  },
+  {
+    "code": "A43D 27/04",
+    "description": "••••de la parte trasera de las suelas [2006.01]"
+  },
+  {
+    "code": "A43D 27/06",
+    "description": "••••de la parte frontal del tacón [2006.01]"
+  },
+  {
+    "code": "A43D 29/00",
+    "description": "Máquinas para la fabricación de suelas a partir de material en tiras [2006.01]"
+  },
+  {
+    "code": "A43D 31/00",
+    "description": "Máquinas para fabricar o insertar cambrillones [2006.01]"
+  },
+  {
+    "code": "A43D 31/02",
+    "description": "••Máquinas para fabricarlos [2006.01]"
+  },
+  {
+    "code": "A43D 31/04",
+    "description": "••Máquinas para insertarlos [2006.01]"
+  },
+  {
+    "code": "A43D 33/00",
+    "description": "Máquinas para montar alzas para tacones (cortado de alzas A43D 8/02) [2006.01]"
+  },
+  {
+    "code": "A43D 33/02",
+    "description": "••Calibres para alzatalones; Almacenes para apilar las alzas [2006.01]"
+  },
+  {
+    "code": "A43D 33/04",
+    "description": "••Máquinas clavadoras para montar los tacones sobre las alzas [2006.01]"
+  },
+  {
+    "code": "A43D 33/06",
+    "description": "••Máquinas para seleccionar las alzas [2006.01]"
+  },
+  {
+    "code": "A43D 35/00",
+    "description": "Prensas para conformado de suelas monobloc, bajos de calzado o suelas unidas a los bajos de calzado (encolado de las suelas a la base del calzado A43D 25/06) [2006.01]"
+  },
+  {
+    "code": "A43D 37/00",
+    "description": "Máquinas para embastecer las suelas u otras partes del calzado con vistas a su encolado [2006.01]"
+  },
+  {
+    "code": "A43D 39/00",
+    "description": "Máquinas para la fabricación de acolchados para el soporte de la garganta del pie para pies planos, o para la fabricación de elementos elevadores para los mismos [2006.01]"
+  },
+  {
+    "code": "A43D 43/00",
+    "description": "Máquinas para realizar el cosido de los labios u otros tratamientos preparatorios de las suelas antes de su fijación (flexibilización de suelas o plantillas A43D 8/52) [2006.01]"
+  },
+  {
+    "code": "A43D 43/02",
+    "description": "••para formar los labios de la costura (comenzar el hendido) por incisión [2006.01]"
+  },
+  {
+    "code": "A43D 43/06",
+    "description": "••para la aplicación de materiales de refuerzo sobre las plantillas interiores; Fijación de bandas o nervios decorativos, p. ej. nervios de costura sobre las suelas o similares [2006.01]"
+  },
+  {
+    "code": "A43D 44/00",
+    "description": "Máquinas para fijar las visas o falsas visas [2006.01]"
+  },
+  {
+    "code": "A43D 47/00",
+    "description": "Máquinas para recortar o empalmar la visa fijada sobre el empeine [2006.01]"
+  },
+  {
+    "code": "A43D 49/00",
+    "description": "Máquinas para amartillar [2006.01]"
+  },
+  {
+    "code": "A43D 51/00",
+    "description": "Máquinas para levantar los labios del hendido [2006.01]"
+  },
+  {
+    "code": "A43D 53/00",
+    "description": "Máquinas para recortar el material sobrante a lo largo de la costura interior [2006.01]"
+  },
+  {
+    "code": "A43D 55/00",
+    "description": "Máquinas para sentar, prensar o alisar las costuras interiores en los calzados ahormados [2006.01]"
+  },
+  {
+    "code": "A43D 57/00",
+    "description": "Máquinas para unir los extremos de la visa [2006.01]"
+  },
+  {
+    "code": "A43D 59/00",
+    "description": "Máquinas para desbastar los cantos de los zapatos que han sido cosidos [2006.01]"
+  },
+  {
+    "code": "A43D 61/00",
+    "description": "Máquinas para arrancar, cortar o localizar los clavos [2006.01]"
+  },
+  {
+    "code": "A43D 63/00",
+    "description": "Máquinas para otros trabajos de acabado [2006.01]"
+  },
+  {
+    "code": "A43D 67/00",
+    "description": "Máquinas para fijar las suelas o tacones por medio de tornillos o alambres dotados de rosca [2006.01]"
+  },
+  {
+    "code": "A43D 69/00",
+    "description": "Máquinas para clavar el calzado (máquinas para clavar en general B27F) [2006.01]"
+  },
+  {
+    "code": "A43D 69/02",
+    "description": "••utilizando clavos hechos de antemano [2006.01]"
+  },
+  {
+    "code": "A43D 69/04",
+    "description": "••con aparatos para separar los clavos de un hilo o de una banda metálica o similar [2006.01]"
+  },
+  {
+    "code": "A43D 69/06",
+    "description": "••utilizando grapas hechas de antemano [2006.01]"
+  },
+  {
+    "code": "A43D 69/08",
+    "description": "••con aparatos para fabricar las grapas [2006.01]"
+  },
+  {
+    "code": "A43D 69/10",
+    "description": "••utilizando clavijas de madera hechas de antemano [2006.01]"
+  },
+  {
+    "code": "A43D 69/12",
+    "description": "••con aparatos para separar las clavijas de una pieza de madera [2006.01]"
+  },
+  {
+    "code": "A43D 69/14",
+    "description": "••para clavar o grapar los bordes de las hormas sobre los calzados con suela de madera [2006.01]"
+  },
+  {
+    "code": "A43D 71/00",
+    "description": "Detalles de máquinas para clavar; Dispositivos de alimentación de clavos [2006.01]"
+  },
+  {
+    "code": "A43D 71/02",
+    "description": "••Mecanismos de maniobra del pico de apoyo; Aparatos para cortar los clavos, conectados con el pico de apoyo [2006.01]"
+  },
+  {
+    "code": "A43D 75/00",
+    "description": "Dispositivos de clavado para máquinas de montado o ahormado [2006.01]"
+  },
+  {
+    "code": "A43D 79/00",
+    "description": "Máquinas combinadas para prensar y clavar tacones [2006.01]"
+  },
+  {
+    "code": "A43D 81/00",
+    "description": "Máquinas para fijar los elevadores de puntas [2006.01]"
+  },
+  {
+    "code": "A43D 83/00",
+    "description": "Prensas de tacones sin aparatos de clavado; Máquinas para prensar las alzas aisladas o para hacer los agujeros para el clavado [2006.01]"
+  },
+  {
+    "code": "A43D 85/00",
+    "description": "Máquinas o aparatos para volver, p. ej. para la fabricación de calzados vueltos [2006.01]"
+  },
+  {
+    "code": "A43D 86/00",
+    "description": "Máquinas para el ensamblado de las suelas o de los tacones, no previstas en los grupos A43D 25/00-A43D 83/00, p. ej. por soldadura [2006.01]"
+  },
+  {
+    "code": "A43D 87/00",
+    "description": "Máquinas para recortar cantos o tacones; Máquinas para rebajar la parte frontal del tacón (recortadores para tacones de madera B27M; máquinas para copiar B44B) [2006.01]"
+  },
+  {
+    "code": "A43D 89/00",
+    "description": "Máquinas de rodillo para alisar suelas [2006.01]"
+  },
+  {
+    "code": "A43D 91/00",
+    "description": "Máquinas para separar el pespunte o dentar las costuras [2006.01]"
+  },
+  {
+    "code": "A43D 93/00",
+    "description": "Máquinas para dentar los bordes [2006.01]"
+  },
+  {
+    "code": "A43D 95/00",
+    "description": "Máquinas para el acabado del calzado [2006.01]"
+  },
+  {
+    "code": "A43D 95/02",
+    "description": "••Máquinas para tratar o alisar las palas a fin de borrar los piquetes, los pliegues o similares [2006.01]"
+  },
+  {
+    "code": "A43D 95/04",
+    "description": "••Máquinas para serrar el hendido [2006.01]"
+  },
+  {
+    "code": "A43D 95/06",
+    "description": "••Máquinas para colorar o tratar químicamente; Decoración de las suelas con posterioridad al montado (abrillantado A43D 95/20) [2006.01]"
+  },
+  {
+    "code": "A43D 95/08",
+    "description": "••Máquinas o útiles de limpieza, abrasión o acabado, con o sin separación de polvo (aspiradores de polvo A47L 5/00; limpieza doméstica del calzado A47L 23/00) [2006.01]"
+  },
+  {
+    "code": "A43D 95/10",
+    "description": "••Dispositivos de secado o de calentado para calzado [2006.01]"
+  },
+  {
+    "code": "A43D 95/12",
+    "description": "••Dispositivos para acondicionado, templado o humectación (preparación para el conformado o montaje A43D 11/14) [2006.01]"
+  },
+  {
+    "code": "A43D 95/14",
+    "description": "••Incorporación de aparatos para marcar, imprimir o repujar (ornamentación de partes de calzado sin montar A43D 8/16; impresión en sí, estampación en sí\n\t\t\t\t\t\t\t\t\t\tB41) [2006.01]"
+  },
+  {
+    "code": "A43D 95/16",
+    "description": "••Herramientas de abrillantado para zapatería (en general B24D) [2006.01]"
+  },
+  {
+    "code": "A43D 95/18",
+    "description": "••••Dispositivos de calentado de las herramientas de abrillantado para zapatería [2006.01]"
+  },
+  {
+    "code": "A43D 95/20",
+    "description": "••Máquinas para abrillantar las suelas o los tacones [2006.01]"
+  },
+  {
+    "code": "A43D 95/22",
+    "description": "••Máquinas para abrillantar los bordes de las suelas con o sin dispositivos para dentarlas [2006.01]"
+  },
+  {
+    "code": "A43D 95/24",
+    "description": "••Máquinas para pulimentar las suelas [2006.01]"
+  },
+  {
+    "code": "A43D 95/26",
+    "description": "••Dispositivos para la aplicación de la cera [2006.01]"
+  },
+  {
+    "code": "A43D 95/28",
+    "description": "••Máquinas para fijar piezas de protección a las suelas o a los tacones [2006.01]"
+  },
+  {
+    "code": "A43D 97/00",
+    "description": "Máquinas para la fabricación de tirantes [2006.01]"
+  },
+  {
+    "code": "A43D 98/00",
+    "description": "Máquinas para la fabricación de cordones (de cuero C14B; pasamanería en general D04C); Aplicación de fibras o de celuloide a las extremidades de los cordones (fabricación de herretes a partir de hojas metálicas B21D; a partir de alambre B21F) [2006.01]"
+  },
+  {
+    "code": "A43D 100/00",
+    "description": "Colocación o extracción de ojetes, botones, corchetes para cordones o tirantes elásticos para el calzado [2006.01]"
+  },
+  {
+    "code": "A43D 100/02",
+    "description": "••Máquinas o herramientas para perforar y colocar los ojetes (para vestidos en general A41H 37/02) [2006.01]"
+  },
+  {
+    "code": "A43D 100/04",
+    "description": "••••insertando ojetes invisibles [2006.01]"
+  },
+  {
+    "code": "A43D 100/06",
+    "description": "••••que insertan simultáneamente dos ojetes [2006.01]"
+  },
+  {
+    "code": "A43D 100/08",
+    "description": "••Fijación de botones en el calzado (para prendas de vestir A41H 37/00) [2006.01]"
+  },
+  {
+    "code": "A43D 100/10",
+    "description": "••Máquinas o herramientas para fijar al calzado corchetes de acordonado [2006.01]"
+  },
+  {
+    "code": "A43D 100/12",
+    "description": "••Máquinas para insertar tirantes elásticos en el calzado [2006.01]"
+  },
+  {
+    "code": "A43D 100/14",
+    "description": "••Dispositivos para quitar del calzado los botones, corchetes de acordonado o similares [2006.01]"
+  },
+  {
+    "code": "A43D 111/00",
+    "description": "Máquinas dotadas de transportadores para el transporte del calzado con horma [2006.01]"
+  },
+  {
+    "code": "A43D 113/00",
+    "description": "Máquinas para la fabricación de calzado con el borde del empeine vuelto hacia el exterior o para la fabricación de mocasines [2006.01]"
+  },
+  {
+    "code": "A43D 115/00",
+    "description": "Máquinas para rebajar o eliminar alzas, tacones o suelas, para quitar las costuras como preparación de una reparación [2006.01]"
+  },
+  {
+    "code": "A43D 117/00",
+    "description": "Soportes de rejilla para recibir o transportar el calzado o sus partes; Otros medios de transporte [2006.01]"
+  },
+  {
+    "code": "A43D 119/00",
+    "description": "Mecanismos de mando o de control para máquinas de calzado; Sus chasis [2006.01]"
+  }
+]

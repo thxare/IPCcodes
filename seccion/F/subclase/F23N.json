@@ -1,0 +1,102 @@
+[
+  {
+    "code": "F23N 1/00",
+    "description": "Regulación del suministro de combustible [2006.01]"
+  },
+  {
+    "code": "F23N 1/02",
+    "description": "••conjuntamente con el suministro de aire [2006.01]"
+  },
+  {
+    "code": "F23N 1/04",
+    "description": "••conjuntamente con el suministro de aire y el tiro [2006.01]"
+  },
+  {
+    "code": "F23N 1/06",
+    "description": "••conjuntamente con el reglaje del tiro [2006.01]"
+  },
+  {
+    "code": "F23N 1/08",
+    "description": "••conjuntamente con el reglaje de otro medio, p. ej. el agua de la caldera [2006.01]"
+  },
+  {
+    "code": "F23N 1/10",
+    "description": "••••y con el suministro de aire o del tiro [2006.01]"
+  },
+  {
+    "code": "F23N 3/00",
+    "description": "Control del suministro de aire o del tiro (conjuntamente con el suministro de combustible F23N 1/00) [2006.01]"
+  },
+  {
+    "code": "F23N 3/02",
+    "description": "••Reglaje del tiro por acción directa de la presión sobre una válvula única o un registro único [2006.01]"
+  },
+  {
+    "code": "F23N 3/04",
+    "description": "••por acción de una válvula única o de un registro único, bajo el efecto de elementos sensibles a la temperatura [2006.01]"
+  },
+  {
+    "code": "F23N 3/06",
+    "description": "••por acción simultánea de dos o más válvulas o registros (por sistemas de potencia asistida F23N 3/08) [2006.01]"
+  },
+  {
+    "code": "F23N 3/08",
+    "description": "••por sistemas de potencia asistida [2006.01]"
+  },
+  {
+    "code": "F23N 5/00",
+    "description": "Sistemas de control de la combustión (que regulan el suministro de combustible F23N 1/00; que regulan el suministro de aire o de tiro F23N 3/00) [2006.01]"
+  },
+  {
+    "code": "F23N 5/02",
+    "description": "••utilizando dispositivos sensibles a las variaciones térmicas o a la dilatación térmica de un medio [2006.01]"
+  },
+  {
+    "code": "F23N 5/04",
+    "description": "••••utilizando elementos bimetálicos [2006.01]"
+  },
+  {
+    "code": "F23N 5/06",
+    "description": "••••utilizando fuelles; utilizando diafragmas [2006.01]"
+  },
+  {
+    "code": "F23N 5/08",
+    "description": "••••utilizando elementos sensibles a la luz [2006.01]"
+  },
+  {
+    "code": "F23N 5/10",
+    "description": "••••utilizando termopares [2006.01]"
+  },
+  {
+    "code": "F23N 5/12",
+    "description": "••••utilizando elementos sensibles a la ionización, es decir, varillas que brillan o se encienden [2006.01]"
+  },
+  {
+    "code": "F23N 5/14",
+    "description": "••••utilizando resistencias sensibles al calor [2006.01]"
+  },
+  {
+    "code": "F23N 5/16",
+    "description": "••utilizando detectores sensibles al ruido [2006.01]"
+  },
+  {
+    "code": "F23N 5/18",
+    "description": "••utilizando detectores sensibles a la relación aire-combustible [2006.01]"
+  },
+  {
+    "code": "F23N 5/20",
+    "description": "••con un programa de tiempo controlado eléctricamente, p. ej. por medio de relais de retardo [2006.01]"
+  },
+  {
+    "code": "F23N 5/22",
+    "description": "••con un programa de tiempo controlado mecánicamente, p. ej. por medio de levas [2006.01]"
+  },
+  {
+    "code": "F23N 5/24",
+    "description": "••Sistemas contra el desarrollo de condiciones anormales o indeseables, es decir, dispositivos de seguridad (F23N 5/02-F23N 5/18 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "F23N 5/26",
+    "description": "••Detalles [2006.01]"
+  }
+]

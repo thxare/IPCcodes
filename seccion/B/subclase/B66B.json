@@ -1,0 +1,558 @@
+[
+  {
+    "code": "B66B 1/00",
+    "description": "Sistemas de control de ascensores en general (dispositivos de seguridad B66B 5/00; control del funcionamiento de la puerta o barrera B66B 13/00) [2006.01]"
+  },
+  {
+    "code": "B66B 1/02",
+    "description": "••Sistemas de control sin regulación, es decir, sin acción retroactiva [2006.01]"
+  },
+  {
+    "code": "B66B 1/04",
+    "description": "••••hidráulicos [2006.01]"
+  },
+  {
+    "code": "B66B 1/06",
+    "description": "••••eléctricos [2006.01]"
+  },
+  {
+    "code": "B66B 1/08",
+    "description": "••••••con dispositivos, p. ej. mangos o palancas, en las cabinas o las cajas para mando directo de los movimientos [2006.01]"
+  },
+  {
+    "code": "B66B 1/10",
+    "description": "••••••••adaptados especialmente a los ascensores de pozos de minas [2006.01]"
+  },
+  {
+    "code": "B66B 1/12",
+    "description": "••••••con dispositivos, p. ej. mangos o palancas situadas en un puesto de mando para control directo de los movimientos, p. ej. sistemas de mando eléctricos de los ascensores de los pozos de minas [2006.01]"
+  },
+  {
+    "code": "B66B 1/14",
+    "description": "••••••con dispositivos, p. ej. botones pulsadores para mando indirecto de los movimientos [2006.01]"
+  },
+  {
+    "code": "B66B 1/16",
+    "description": "••••••••con dispositivos para registrar los impulsos que mandan los movimientos de una sola cabina [2006.01]"
+  },
+  {
+    "code": "B66B 1/18",
+    "description": "••••••••con dispositivos para almacenar o registrar los impulsos que controlan los movimientos de varias cabinas [2006.01]"
+  },
+  {
+    "code": "B66B 1/20",
+    "description": "••••••••••y para hacer variar el modo de funcionamiento que responde a las condiciones especiales de funcionamiento, p. ej. tráfico de sentido único a las horas puntas [2006.01]"
+  },
+  {
+    "code": "B66B 1/22",
+    "description": "••••••••con medios que permiten atender las llamadas en espera [2006.01]"
+  },
+  {
+    "code": "B66B 1/24",
+    "description": "••Sistemas de control con regulación, es decir, con acción retroactiva, que permiten actuar sobre la velocidad de desplazamiento, la aceleración o la deceleración [2006.01]"
+  },
+  {
+    "code": "B66B 1/26",
+    "description": "••••mecánicos [2006.01]"
+  },
+  {
+    "code": "B66B 1/28",
+    "description": "••••eléctricos (detección de los excesos de velocidad B66B 5/04) [2006.01]"
+  },
+  {
+    "code": "B66B 1/30",
+    "description": "••••••que actúan sobre los órganos de accionamiento [2006.01]"
+  },
+  {
+    "code": "B66B 1/32",
+    "description": "••••••que actúan sobre los dispositivos de frenado [2006.01]"
+  },
+  {
+    "code": "B66B 1/34",
+    "description": "••Detalles [2006.01]"
+  },
+  {
+    "code": "B66B 1/36",
+    "description": "••••Dispositivos para detener las cabinas o cajas en niveles predeterminados [2006.01]"
+  },
+  {
+    "code": "B66B 1/38",
+    "description": "••••••y para reenviar el mando o la palanca de mando a su posición neutra [2006.01]"
+  },
+  {
+    "code": "B66B 1/40",
+    "description": "••••••y para corregir la nivelación en los descansillos o paradas [2006.01]"
+  },
+  {
+    "code": "B66B 1/42",
+    "description": "••••••••independientes del mando principal [2006.01]"
+  },
+  {
+    "code": "B66B 1/44",
+    "description": "••••••y para tener en cuenta los factores de desregulación, p. ej. de la variación de la carga [2006.01]"
+  },
+  {
+    "code": "B66B 1/46",
+    "description": "••••Adaptación de los interruptores o conmutadores [2006.01]"
+  },
+  {
+    "code": "B66B 1/48",
+    "description": "••••••Adaptación de interruptores de fin de recorrido accionados mecánicamente [2006.01]"
+  },
+  {
+    "code": "B66B 1/50",
+    "description": "••••••con mecanismos de funcionamiento o de mando montados en la cabina o en la caja o el pozo del ascensor [2006.01]"
+  },
+  {
+    "code": "B66B 1/52",
+    "description": "••••••Selectores de pisos [2006.01]"
+  },
+  {
+    "code": "B66B 3/00",
+    "description": "Utilización de dispositivos para indicar o señalar las condiciones del funcionamiento de ascensores [2006.01]"
+  },
+  {
+    "code": "B66B 3/02",
+    "description": "••Indicadores de posición o de profundidad [2006.01]"
+  },
+  {
+    "code": "B66B 5/00",
+    "description": "Utilización de dispositivos de verificación, de rectificación de mal funcionamiento, de seguridad en ascensores [2006.01]"
+  },
+  {
+    "code": "B66B 5/02",
+    "description": "••que reaccionan ante condiciones de funcionamiento anormales [2006.01]"
+  },
+  {
+    "code": "B66B 5/04",
+    "description": "••••para detectar los excesos de velocidad [2006.01]"
+  },
+  {
+    "code": "B66B 5/06",
+    "description": "••••••eléctricos [2006.01]"
+  },
+  {
+    "code": "B66B 5/08",
+    "description": "••••para impedir una enroscadura exagerada [2006.01]"
+  },
+  {
+    "code": "B66B 5/10",
+    "description": "••••••eléctricos [2006.01]"
+  },
+  {
+    "code": "B66B 5/12",
+    "description": "••••en caso de flecha en el calabrote o el cable [2006.01]"
+  },
+  {
+    "code": "B66B 5/14",
+    "description": "••••en caso de sobrecarga [2006.01]"
+  },
+  {
+    "code": "B66B 5/16",
+    "description": "••••Dispositivos de frenado o de retención actuando entre cabinas o cestas y elementos o superficies fijas de guiado del pozo o de la caja del ascensor [2006.01]"
+  },
+  {
+    "code": "B66B 5/18",
+    "description": "••••••y que ejercen un frenado por fricción [2006.01]"
+  },
+  {
+    "code": "B66B 5/20",
+    "description": "••••••••por medio de elementos rotativos excéntricos (B66B 5/24 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B66B 5/22",
+    "description": "••••••••por medio de cuñas desplazables linealmente (B66B 5/24 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B66B 5/24",
+    "description": "••••••••actuando sobre los cables o calabrotes de guiado [2006.01]"
+  },
+  {
+    "code": "B66B 5/26",
+    "description": "••••••Dispositivos de acción desmodrómica, p. ej. picaportes, hojas [2006.01]"
+  },
+  {
+    "code": "B66B 5/28",
+    "description": "••Tacos de parada para cabinas o cajas [2006.01]"
+  },
+  {
+    "code": "B66B 7/00",
+    "description": "Otras características comunes de los ascensores [2006.01]"
+  },
+  {
+    "code": "B66B 7/02",
+    "description": "••Deslizadores; Guías [2006.01]"
+  },
+  {
+    "code": "B66B 7/04",
+    "description": "••••Patines; Roldanas [2006.01]"
+  },
+  {
+    "code": "B66B 7/06",
+    "description": "••Instalaciones de cables o calabrotes [2006.01]"
+  },
+  {
+    "code": "B66B 7/08",
+    "description": "••••para su fijación a las cabinas, p. ej. atalajes [2006.01]"
+  },
+  {
+    "code": "B66B 7/10",
+    "description": "••••para igualización de la tensión de los cables o de los calabrotes [2006.01]"
+  },
+  {
+    "code": "B66B 7/12",
+    "description": "••Dispositivos de verificación, engrase o limpieza de los cables, calabrotes o guías [2006.01]"
+  },
+  {
+    "code": "B66B 9/00",
+    "description": "Clases o tipos de ascensores instalados en los edificios o adyacentes a éstos (caracterizados por el sistema de control B66B 1/00) [2006.01]"
+  },
+  {
+    "code": "B66B 9/02",
+    "description": "••accionados mecánicamente de forma diferente a por cables o calabrotes [2006.01]"
+  },
+  {
+    "code": "B66B 9/04",
+    "description": "••accionados neumáticamente o hidráulicamente (plataformas para elevar o bajar en cortas distancias B66F 7/00) [2006.01]"
+  },
+  {
+    "code": "B66B 9/06",
+    "description": "••inclinados, p. ej. sirviendo a altos hornos [2006.01]"
+  },
+  {
+    "code": "B66B 9/08",
+    "description": "••••combinados a escaleras, p. ej. para transportar personas inválidas [2006.01]"
+  },
+  {
+    "code": "B66B 9/10",
+    "description": "••del tipo paternóster [2006.01]"
+  },
+  {
+    "code": "B66B 9/16",
+    "description": "••Ascensores móviles o transportables especialmente adaptados para permitir su transferencia desde una parte a otra del edificio o construcción [2006.01]"
+  },
+  {
+    "code": "B66B 9/187",
+    "description": "••••con los medios de ascensión especialmente adaptados para su conexión temporal a un edificio u otra construcción (B66B 9/193 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B66B 9/193",
+    "description": "••••con las guías inclinadas [2006.01]"
+  },
+  {
+    "code": "B66B 11/00",
+    "description": "Partes constitutivas principales de los ascensores instalados en los edificios o adyacentes a éstos [2006.01]"
+  },
+  {
+    "code": "B66B 11/02",
+    "description": "••Cabinas (puertas, barreras y otras instalaciones mandando el acceso o la salida B66B 13/00) [2006.01]"
+  },
+  {
+    "code": "B66B 11/04",
+    "description": "••Mecanismos de accionamiento [2006.01]"
+  },
+  {
+    "code": "B66B 11/06",
+    "description": "••••con cuerda o cable de elevación de fijación dermodrómica sobre un tambor de enrollamiento [2006.01]"
+  },
+  {
+    "code": "B66B 11/08",
+    "description": "••••con cuerda o cable de elevación accionados, por accionamiento de fricción sobre un tambor o polea de enrollamiento [2006.01]"
+  },
+  {
+    "code": "B66B 13/00",
+    "description": "Puertas, barreras u otros aparatos que controlan el acceso o la salida de las cabinas o de los descansillos de cajas de ascensores [2006.01]"
+  },
+  {
+    "code": "B66B 13/02",
+    "description": "••Maniobra de puertas o barreras [2006.01]"
+  },
+  {
+    "code": "B66B 13/04",
+    "description": "••••de puertas batientes [2006.01]"
+  },
+  {
+    "code": "B66B 13/06",
+    "description": "••••de puertas deslizantes [2006.01]"
+  },
+  {
+    "code": "B66B 13/08",
+    "description": "••••••guiados para un movimiento horizontal [2006.01]"
+  },
+  {
+    "code": "B66B 13/10",
+    "description": "••••••accionados por el movimiento de la cabina [2006.01]"
+  },
+  {
+    "code": "B66B 13/12",
+    "description": "••••Disposiciones para efectuar simultáneamente la apertura o el cierre de las puertas de la cabina y del descansillo [2006.01]"
+  },
+  {
+    "code": "B66B 13/14",
+    "description": "••••Sistemas o dispositivos de control [2006.01]"
+  },
+  {
+    "code": "B66B 13/16",
+    "description": "••••••Dispositivos de cierre de las puertas o barreras mandadas exclusivamente o principalmente por la situación de la cabina, p. ej. su movimiento o su posición [2006.01]"
+  },
+  {
+    "code": "B66B 13/18",
+    "description": "••••••••sin dispositivos de mano para conseguir el cierre o la apertura de las puertas [2006.01]"
+  },
+  {
+    "code": "B66B 13/20",
+    "description": "••••••••••Mecanismos de cierre accionados por entrantes o salientes, sobre la cabina [2006.01]"
+  },
+  {
+    "code": "B66B 13/22",
+    "description": "••Maniobra de los contactos de puerta o de barrera [2006.01]"
+  },
+  {
+    "code": "B66B 13/24",
+    "description": "••Dispositivos de seguridad en los ascensores para pasajeros, no previstos en otro lugar, para impedir que los pasajeros sean aprisionados [2006.01]"
+  },
+  {
+    "code": "B66B 13/26",
+    "description": "••••por el cierre de las puertas [2006.01]"
+  },
+  {
+    "code": "B66B 13/28",
+    "description": "••••entre la cabina o la caja y el hueco del ascensor [2006.01]"
+  },
+  {
+    "code": "B66B 13/30",
+    "description": "••Características de estructura de las puertas o barreras [2006.01]"
+  },
+  {
+    "code": "B66B 15/00",
+    "description": "Partes constitutivas principales de los dispositivos de enrollamiento de los ascensores de pozos de mina [2006.01]"
+  },
+  {
+    "code": "B66B 15/02",
+    "description": "••Soportes de cuerda o de cable [2006.01]"
+  },
+  {
+    "code": "B66B 15/04",
+    "description": "••••Cojinetes de fricción; \"Poleas \"Koepe\" [2006.01]"
+  },
+  {
+    "code": "B66B 15/06",
+    "description": "••••Tambores [2006.01]"
+  },
+  {
+    "code": "B66B 15/08",
+    "description": "••Mecanismos de accionamiento [2006.01]"
+  },
+  {
+    "code": "B66B 17/00",
+    "description": "Aparellaje de los pozos de minas [2006.01]"
+  },
+  {
+    "code": "B66B 17/02",
+    "description": "••montado en el edificio superior [2006.01]"
+  },
+  {
+    "code": "B66B 17/04",
+    "description": "••Cabinas para montacargas de pozo de mina [2006.01]"
+  },
+  {
+    "code": "B66B 17/06",
+    "description": "••••con plataformas basculables [2006.01]"
+  },
+  {
+    "code": "B66B 17/08",
+    "description": "••Cubos guiados de minas [2006.01]"
+  },
+  {
+    "code": "B66B 17/10",
+    "description": "••••adaptadas al transporte de pasajeros [2006.01]"
+  },
+  {
+    "code": "B66B 17/12",
+    "description": "••Contrapesos [2006.01]"
+  },
+  {
+    "code": "B66B 17/14",
+    "description": "••Utilización del equipo de carga o de descarga [2006.01]"
+  },
+  {
+    "code": "B66B 17/16",
+    "description": "••••para cargar o descargar las cabinas de los montacargas de pozos de mina [2006.01]"
+  },
+  {
+    "code": "B66B 17/18",
+    "description": "••••••Puentes de báscula, p. ej. para compensar las diferencias de nivel entre la cabina y el descansillo [2006.01]"
+  },
+  {
+    "code": "B66B 17/20",
+    "description": "••••••por movimientos de entrada o de salida de vehículos en las cabinas [2006.01]"
+  },
+  {
+    "code": "B66B 17/22",
+    "description": "••••••Amarre de los vehículos en las cabinas [2006.01]"
+  },
+  {
+    "code": "B66B 17/24",
+    "description": "••••••••por dispositivos montados sobre la cabina [2006.01]"
+  },
+  {
+    "code": "B66B 17/26",
+    "description": "••••para cargar o descargar los cubos guiados de minas [2006.01]"
+  },
+  {
+    "code": "B66B 17/28",
+    "description": "••••control eléctrico [2006.01]"
+  },
+  {
+    "code": "B66B 17/30",
+    "description": "••••••para las cabinas de montacargas [2006.01]"
+  },
+  {
+    "code": "B66B 17/32",
+    "description": "••••••para los cubos guiados [2006.01]"
+  },
+  {
+    "code": "B66B 17/34",
+    "description": "••Collares de seguridad; Cuñas de jaulas [2006.01]"
+  },
+  {
+    "code": "B66B 17/36",
+    "description": "••Barreras u otras instalaciones que controlan el acceso a las cabinas o descansillos de pozos de mina o su salida [2006.01]"
+  },
+  {
+    "code": "B66B 19/00",
+    "description": "Funcionamiento de los ascensores de pozos de minas [2006.01]"
+  },
+  {
+    "code": "B66B 19/02",
+    "description": "••Instalación o reemplazamiento de cables o cuerdas [2006.01]"
+  },
+  {
+    "code": "B66B 19/04",
+    "description": "••Instalación o reemplazamiento de cabinas o cubos [2006.01]"
+  },
+  {
+    "code": "B66B 19/06",
+    "description": "••Utilización de los dispositivos de señalización (indicadores de profundidad B66B 3/02) [2006.01]"
+  },
+  {
+    "code": "B66B 21/00",
+    "description": "Clases o tipos de escaleras o pasillos mecánicos [2006.01]"
+  },
+  {
+    "code": "B66B 21/02",
+    "description": "••Escaleras mecánicas [2006.01]"
+  },
+  {
+    "code": "B66B 21/04",
+    "description": "••••de tipo lineal [2006.01]"
+  },
+  {
+    "code": "B66B 21/06",
+    "description": "••••de tipo en espiral [2006.01]"
+  },
+  {
+    "code": "B66B 21/08",
+    "description": "••••de tipo paternóster, es decir, escaleras mecánicas que se utilizan a la vez para subir y bajar (B66B 21/06 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B66B 21/10",
+    "description": "••Pasillos mecánicos [2006.01]"
+  },
+  {
+    "code": "B66B 21/12",
+    "description": "••••del tipo con velocidad variable [2006.01]"
+  },
+  {
+    "code": "B66B 23/00",
+    "description": "Partes constitutivas de escaleras o de pasillos mecánicos [2006.01]"
+  },
+  {
+    "code": "B66B 23/02",
+    "description": "••Mecanismos de accionamiento [2006.01]"
+  },
+  {
+    "code": "B66B 23/04",
+    "description": "••••para pasamanos [2006.01]"
+  },
+  {
+    "code": "B66B 23/06",
+    "description": "••••••con medios para sincronizar el movimiento de los pasos o las cintas transportadoras con el del pasamanos [2006.01]"
+  },
+  {
+    "code": "B66B 23/08",
+    "description": "••Superficies transportadoras [2006.01]"
+  },
+  {
+    "code": "B66B 23/10",
+    "description": "••••Cintas transportadoras [2006.01]"
+  },
+  {
+    "code": "B66B 23/12",
+    "description": "••••Pasos [2006.01]"
+  },
+  {
+    "code": "B66B 23/14",
+    "description": "••Medios de guiado de las superficies de transporte [2006.01]"
+  },
+  {
+    "code": "B66B 23/16",
+    "description": "••Medios que permiten tensar los elementos sin fin [2006.01]"
+  },
+  {
+    "code": "B66B 23/18",
+    "description": "••••para las superficies transportadoras [2006.01]"
+  },
+  {
+    "code": "B66B 23/20",
+    "description": "••••para los pasamanos [2006.01]"
+  },
+  {
+    "code": "B66B 23/22",
+    "description": "••Balaustradas [2006.01]"
+  },
+  {
+    "code": "B66B 23/24",
+    "description": "••••Pasamanos (mecanismos de accionamiento para ellas B66B 23/02; medios para tensarlos B66B 23/16; dispositivos para evitar que se bloqueen por objetos extraños B66B 29/04; accesorios para ellos B66B 31/02) [2006.01]"
+  },
+  {
+    "code": "B66B 23/26",
+    "description": "••••••del tipo con velocidad variable [2006.01]"
+  },
+  {
+    "code": "B66B 25/00",
+    "description": "Control de las escaleras o pasillos mecánicos (pasillos mecánicos del tipo con velocidad variable B66B 21/12; pasamanos del tipo con velocidad variable B66B 23/26) [2006.01]"
+  },
+  {
+    "code": "B66B 27/00",
+    "description": "Indicación de las condiciones de funcionamiento de las escaleras o pasillos mecánicos [2006.01]"
+  },
+  {
+    "code": "B66B 29/00",
+    "description": "Dispositivos de seguridad de las escaleras o pasillos mecánicos [2006.01]"
+  },
+  {
+    "code": "B66B 29/02",
+    "description": "••que responden al bloqueado por objetos extraños o que evitan el bloqueo [2006.01]"
+  },
+  {
+    "code": "B66B 29/04",
+    "description": "••••para balaustradas o pasamanos [2006.01]"
+  },
+  {
+    "code": "B66B 29/06",
+    "description": "••••Peines [2006.01]"
+  },
+  {
+    "code": "B66B 29/08",
+    "description": "••Medios para facilitar la entrada o salida de pasajeros (pasamanos móviles B66B 23/24) [2006.01]"
+  },
+  {
+    "code": "B66B 31/00",
+    "description": "Accesorios para escaleras o pasillos mecánicos, p. ej. para desinfectar o limpiar (para la seguridad B66B 29/00) [2006.01]"
+  },
+  {
+    "code": "B66B 31/02",
+    "description": "••para los pasamanos [2006.01]"
+  }
+]

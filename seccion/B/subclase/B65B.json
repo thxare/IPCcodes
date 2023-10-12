@@ -1,0 +1,1662 @@
+[
+  {
+    "code": "B65B 1/00",
+    "description": "Embalaje de materiales sólidos fluyentes, p. ej. polvos, materiales fibrosos granulares o a granel, masas a granel de pequeños objetos, en receptáculos o recipientes individuales, p. ej. sacos, bolsas, cajas, cartones, latas o tarros [2006.01]"
+  },
+  {
+    "code": "B65B 1/02",
+    "description": "••Máquinas caracterizadas para la incorporación de medios para fabricar los receptáculos o recipientes (empaquetado bajo bandas planas, plegadas o tubulares, hechas de hojas de materia flexible B65B 9/00; fabricación de receptáculos o recipientes con un fin que no es el de la presente aplicación, ver las subclases apropiadas) [2006.01]"
+  },
+  {
+    "code": "B65B 1/04",
+    "description": "••Procesos o medios para llenar los receptáculos o los recipientes con el material [2006.01]"
+  },
+  {
+    "code": "B65B 1/06",
+    "description": "••••por gravedad [2006.01]"
+  },
+  {
+    "code": "B65B 1/08",
+    "description": "••••por alimentadores de vibración [2006.01]"
+  },
+  {
+    "code": "B65B 1/10",
+    "description": "••••por alimentadores rotativos [2006.01]"
+  },
+  {
+    "code": "B65B 1/12",
+    "description": "••••••del tipo de tornillo [2006.01]"
+  },
+  {
+    "code": "B65B 1/14",
+    "description": "••••••del tipo centrífugo [2006.01]"
+  },
+  {
+    "code": "B65B 1/16",
+    "description": "••••por medios neumáticos, p. ej. por aspiración [2006.01]"
+  },
+  {
+    "code": "B65B 1/18",
+    "description": "••••para el llenado de los sacos con válvulas [2006.01]"
+  },
+  {
+    "code": "B65B 1/20",
+    "description": "••Reducción del volumen del material a llenar [2006.01]"
+  },
+  {
+    "code": "B65B 1/22",
+    "description": "••••por vibración [2006.01]"
+  },
+  {
+    "code": "B65B 1/24",
+    "description": "••••por compresión mecánica [2006.01]"
+  },
+  {
+    "code": "B65B 1/26",
+    "description": "••••por medios neumáticos, p. ej. aspiración [2006.01]"
+  },
+  {
+    "code": "B65B 1/28",
+    "description": "••Regulación del escape de aire o de polvo de los receptáculos o recipientes, durante el llenado [2006.01]"
+  },
+  {
+    "code": "B65B 1/30",
+    "description": "••Dispositivos o procesos para regular o determinar la cantidad o la calidad del material suministrado o llenado [2006.01]"
+  },
+  {
+    "code": "B65B 1/32",
+    "description": "••••por pesada (pesada de control de los receptáculos o recipientes llenos B65B 1/46) [2006.01]"
+  },
+  {
+    "code": "B65B 1/34",
+    "description": "••••••Ajuste del peso por alimentación lenta [2006.01]"
+  },
+  {
+    "code": "B65B 1/36",
+    "description": "••••por dispositivos o procesos volumétricos (control del volumen del material cargado B65B 1/48) [2006.01]"
+  },
+  {
+    "code": "B65B 1/38",
+    "description": "••••••por pistones que cooperan con cámaras de medida [2006.01]"
+  },
+  {
+    "code": "B65B 1/40",
+    "description": "••••por cronometraje del llenado [2006.01]"
+  },
+  {
+    "code": "B65B 1/42",
+    "description": "••••••y parando el vertido por medios de corte [2006.01]"
+  },
+  {
+    "code": "B65B 1/44",
+    "description": "••••Control de la densidad del material a cargar [2006.01]"
+  },
+  {
+    "code": "B65B 1/46",
+    "description": "••••Pesada de control de los recipientes o receptáculos llenados [2006.01]"
+  },
+  {
+    "code": "B65B 1/48",
+    "description": "••••Control del volumen del material cargado [2006.01]"
+  },
+  {
+    "code": "B65B 3/00",
+    "description": "Embalaje de materiales plásticos, semilíquidos, líquidos o líquidos y sólidos mezclados, en receptáculos o recipientes individuales, p. ej. en sacos, bolsas, cajas, cartones, latas o tarros [2006.01]"
+  },
+  {
+    "code": "B65B 3/02",
+    "description": "••Máquinas caracterizadas por la incorporación de medios para fabricar los receptáculos o recipientes (fabricación de receptáculos con un fin diferente de la presente aplicación, ver las subclases apropiadas) [2006.01]"
+  },
+  {
+    "code": "B65B 3/04",
+    "description": "••Procesos o medios para cargar el material en los receptáculos o recipientes [2006.01]"
+  },
+  {
+    "code": "B65B 3/06",
+    "description": "••••por gravedad [2006.01]"
+  },
+  {
+    "code": "B65B 3/08",
+    "description": "••••por alimentadores de tornillo [2006.01]"
+  },
+  {
+    "code": "B65B 3/10",
+    "description": "••••ejerciendo una presión sobre el material (por alimentadores del tipo de tornillo B65B 3/08) [2006.01]"
+  },
+  {
+    "code": "B65B 3/12",
+    "description": "••••••mecánicamente, p. ej. por pistones o bombas [2006.01]"
+  },
+  {
+    "code": "B65B 3/14",
+    "description": "••••••neumáticamente [2006.01]"
+  },
+  {
+    "code": "B65B 3/16",
+    "description": "••••para llenar tubos plegables (para llenar sacos de válvulas B65B 3/17) [2006.01]"
+  },
+  {
+    "code": "B65B 3/17",
+    "description": "••••para llenar sacos de válvulas [2006.01]"
+  },
+  {
+    "code": "B65B 3/18",
+    "description": "••Regulación del escape de aire de los receptáculos o recipientes, durante el llenado [2006.01]"
+  },
+  {
+    "code": "B65B 3/22",
+    "description": "••Destrucción de la espuma de líquidos durante el llenado [2006.01]"
+  },
+  {
+    "code": "B65B 3/24",
+    "description": "••Llenado hasta el borde de receptáculos o recipientes para asegurar un llenado completo [2006.01]"
+  },
+  {
+    "code": "B65B 3/26",
+    "description": "••Dispositivos o procesos para regular la cantidad de material suministrado o cargado [2006.01]"
+  },
+  {
+    "code": "B65B 3/28",
+    "description": "••••por pesada [2006.01]"
+  },
+  {
+    "code": "B65B 3/30",
+    "description": "••••por medidas volumétricas [2006.01]"
+  },
+  {
+    "code": "B65B 3/32",
+    "description": "••••••por pistones que cooperan con cámaras de medida [2006.01]"
+  },
+  {
+    "code": "B65B 3/34",
+    "description": "••••por cronometraje del llenado [2006.01]"
+  },
+  {
+    "code": "B65B 3/36",
+    "description": "••••••y parando el vertido por medios de corte [2006.01]"
+  },
+  {
+    "code": "B65B 5/00",
+    "description": "Embalaje de objetos individuales en receptáculo o recipientes, p. ej. sacos, bolsas, cajas, cartones, latas, tarros [2006.01]"
+  },
+  {
+    "code": "B65B 5/02",
+    "description": "••Máquinas caracterizadas por la incorporación de medios para fabricar los receptáculos o recipientes (fabricación de receptáculos o recipientes con un fin diferente de la presente aplicación, ver las subclases apropiadas) [2006.01]"
+  },
+  {
+    "code": "B65B 5/04",
+    "description": "••Embalaje de objetos separados [2006.01]"
+  },
+  {
+    "code": "B65B 5/06",
+    "description": "••Embalaje de grupos de objetos, cada grupo siendo tratado como un solo objeto [2006.01]"
+  },
+  {
+    "code": "B65B 5/08",
+    "description": "••Embalaje de grupos de objetos, siendo cada grupo sujetado o guiado individualmente para ser transferido al receptáculo o recipiente [2006.01]"
+  },
+  {
+    "code": "B65B 5/10",
+    "description": "••Llenado de receptáculos o recipientes, progresivamente o por etapas sucesivas, introduciendo sucesivamente los objetos o capas de objetos [2006.01]"
+  },
+  {
+    "code": "B65B 5/12",
+    "description": "••••Introducción sucesiva de objetos, de forma o dimensiones diferentes, en posiciones predeterminadas, p. ej. productos de confitería [2006.01]"
+  },
+  {
+    "code": "B65B 7/00",
+    "description": "Cierre de los receptáculos o recipientes después del llenado [2006.01]"
+  },
+  {
+    "code": "B65B 7/01",
+    "description": "••Máquinas caracterizadas por la incorporación de medios para fabricar los cierres antes de su aplicación (fabricación de cierres con un fin distinto a esta aplicación, ver las subclases apropiadas) [2006.01]"
+  },
+  {
+    "code": "B65B 7/02",
+    "description": "••Cierre de receptáculos o recipientes deformados por el contenido o tomando la forma de él, p. ej. sacos, bolsas [2006.01]"
+  },
+  {
+    "code": "B65B 7/04",
+    "description": "••••doblando una parte de la boca para formar dos lengüetas y cerrarlas a continuación [2006.01]"
+  },
+  {
+    "code": "B65B 7/06",
+    "description": "••••replegando una parte de la boca, p. ej. para formar una sola lengüeta [2006.01]"
+  },
+  {
+    "code": "B65B 7/08",
+    "description": "••••••y plegándola [2006.01]"
+  },
+  {
+    "code": "B65B 7/10",
+    "description": "••••••y enrollándola [2006.01]"
+  },
+  {
+    "code": "B65B 7/12",
+    "description": "••••••y retorciéndola [2006.01]"
+  },
+  {
+    "code": "B65B 7/14",
+    "description": "••Cierre de tubos plegables o flexibles, p. ej. para la pasta dentífrica, la gasolina de mecheros [2006.01]"
+  },
+  {
+    "code": "B65B 7/16",
+    "description": "••Cierre de receptáculos o recipientes semirrígidos o rígidos, no deformados por el contenido o que no toman su forma, p. ej. cajas o cartones [2006.01]"
+  },
+  {
+    "code": "B65B 7/18",
+    "description": "••••plegando una parte de la boca y a continuación replegando y fijando las lengüetas [2006.01]"
+  },
+  {
+    "code": "B65B 7/20",
+    "description": "••••replegando lengüetas preformadas [2006.01]"
+  },
+  {
+    "code": "B65B 7/22",
+    "description": "••••••e introduciendo partes de lengüetas entre el contenido y la pared [2006.01]"
+  },
+  {
+    "code": "B65B 7/24",
+    "description": "••••••y enlazando una lengüeta en la ranura de cierre [2006.01]"
+  },
+  {
+    "code": "B65B 7/26",
+    "description": "••••cerrando cubiertas de bisagras [2006.01]"
+  },
+  {
+    "code": "B65B 7/28",
+    "description": "••••aplicando cierres separados preformados, p. ej. cubiertas, capuchones [2006.01]"
+  },
+  {
+    "code": "B65B 9/00",
+    "description": "Encerrado sucesivo de objetos, de cantidades de materiales, p. ej. líquidos o semilíquidos, en bandas planas, plegadas o tubulares, hechas de hojas de materia flexible; División de los tubos flexibles llenados para formar paquetes [2006.01]"
+  },
+  {
+    "code": "B65B 9/02",
+    "description": "••Encerrado de objetos sucesivos, o cantidades de material, entre bandas enfrentadas [2006.01]"
+  },
+  {
+    "code": "B65B 9/04",
+    "description": "••••teniendo una o las dos bandas bolsos para recibir los objetos o cantidades de materiales [2006.01]"
+  },
+  {
+    "code": "B65B 9/06",
+    "description": "••Encerrado de sucesivos objetos, o cantidades de material, en una banda plegada a lo largo o en una banda plegada en forma de tubo alrededor de objetos en cantidades de materiales [2012.01]"
+  },
+  {
+    "code": "B65B 9/067",
+    "description": "••••la banda avanza de forma continua (B65B 9/08 tiene prioridad) [2012.01]"
+  },
+  {
+    "code": "B65B 9/073",
+    "description": "••••la banda tiene un movimiento intermitente (B65B 9/08 tiene prioridad) [2012.01]"
+  },
+  {
+    "code": "B65B 9/08",
+    "description": "••••en una banda plegada y sellada transversalmente para formar bolsas que son a continuación llenadas y selladas [2012.01]"
+  },
+  {
+    "code": "B65B 9/087",
+    "description": "••••••la banda se mueve de forma continua [2012.01]"
+  },
+  {
+    "code": "B65B 9/093",
+    "description": "••••••la banda tiene un movimiento intermitente [2012.01]"
+  },
+  {
+    "code": "B65B 9/10",
+    "description": "••Encerrado de objetos sucesivos, o cantidades de material, en bandas tubulares preformadas o en bandas en forma de tubos alrededor de bocas de llenado, p. ej. bandas tubulares extrusionadas [2006.01]"
+  },
+  {
+    "code": "B65B 9/12",
+    "description": "••••División de tubos llenos para formar dos o más paquetes por soldado o amarrado que supone el desplazamiento del contenido [2006.01]"
+  },
+  {
+    "code": "B65B 9/13",
+    "description": "••••siendo suministradas las bandas tubulares preformadas en forma aplanada [2006.01]"
+  },
+  {
+    "code": "B65B 9/14",
+    "description": "••••••Dispositivos para hinchar las bandas tubulares [2006.01]"
+  },
+  {
+    "code": "B65B 9/15",
+    "description": "••••estando las bandas tubulares preformadas almacenadas sobre las bocas de llenado [2006.01]"
+  },
+  {
+    "code": "B65B 9/18",
+    "description": "••••••Dispositivos para almacenar bandas tubulares [2006.01]"
+  },
+  {
+    "code": "B65B 9/20",
+    "description": "••••tomando las bandas la forma de tubo in situ alrededor de las bocas de llenado [2012.01]"
+  },
+  {
+    "code": "B65B 9/207",
+    "description": "••••••la banda avanza de forma continua (B65B 9/22 tiene prioridad) [2012.01]"
+  },
+  {
+    "code": "B65B 9/213",
+    "description": "••••••la banda tiene movimientos intermitentes (B65B 9/22 tiene prioridad) [2012.01]"
+  },
+  {
+    "code": "B65B 9/22",
+    "description": "••••••Formando rebordes o salientes; Formadores de tubos [2006.01]"
+  },
+  {
+    "code": "B65B 9/24",
+    "description": "••••siendo los tubos formados in situ por extrusión [2006.01]"
+  },
+  {
+    "code": "B65B 11/00",
+    "description": "Embalaje por envoltura, p. ej. cerrando completa o parcialmente objetos o cantidades de materiales, en cintas, hojas o sobres de material flexible (embalaje de artículos aplicando cintas estrechas o bandas de material flexible B65B 13/00) [2006.01]"
+  },
+  {
+    "code": "B65B 11/02",
+    "description": "••Envoltura de objetos o de cantidades de material, sin cambiar su posición durante la operación, p. ej. en moldes con plegadores de bisagras (doblando un embalaje y amarrando sus bordes opuestos libres para encerrar el contenido B65B 11/48; disponiendo el contenido entre dos hojas y amarrando sus bordes opuestos libres B65B 11/50) [2006.01]"
+  },
+  {
+    "code": "B65B 11/04",
+    "description": "••••haciendo girar los objetos [2006.01]"
+  },
+  {
+    "code": "B65B 11/06",
+    "description": "••Envoltura de objetos o de cantidades de material por desplazamiento de la envoltura y del contenido sobre recorridos determinados [2006.01]"
+  },
+  {
+    "code": "B65B 11/08",
+    "description": "••••sobre un solo recorrido rectilíneo [2006.01]"
+  },
+  {
+    "code": "B65B 11/10",
+    "description": "••••••para replegar las envolturas en forma de tubo alrededor del contenido [2006.01]"
+  },
+  {
+    "code": "B65B 11/12",
+    "description": "••••••••y a continuación formar pliegues de cierre de forma similar, a las extremidades opuestas del tubo [2006.01]"
+  },
+  {
+    "code": "B65B 11/14",
+    "description": "••••••••siendo las extremidades del tubo retorcidas a continuación [2006.01]"
+  },
+  {
+    "code": "B65B 11/16",
+    "description": "••••••para plegar las envolturas en forma de canal alrededor del contenido y a continuación cerrar las extremidades por plegado y finalmente la boca del canal por plegado o torsión [2006.01]"
+  },
+  {
+    "code": "B65B 11/18",
+    "description": "••••sobre dos o más recorridos rectilíneos [2006.01]"
+  },
+  {
+    "code": "B65B 11/20",
+    "description": "••••••para plegar las envolturas en forma de tubos alrededor del contenido [2006.01]"
+  },
+  {
+    "code": "B65B 11/22",
+    "description": "••••••••y a continuación para formar pliegues de cierre de forma similar, en las extremidades opuestas del tubo [2006.01]"
+  },
+  {
+    "code": "B65B 11/24",
+    "description": "••••••••siendo a continuación retorcidas las extremidades del tubo [2006.01]"
+  },
+  {
+    "code": "B65B 11/26",
+    "description": "••••••para plegar las envolturas en forma de canal alrededor del contenido y a continuación cerrar las extremidades del canal por plegado y finalmente la boca del canal por plegado o torsión [2006.01]"
+  },
+  {
+    "code": "B65B 11/28",
+    "description": "••••sobre un recorrido curvo, p. ej. sobre mesas o torrecillas rotativas [2006.01]"
+  },
+  {
+    "code": "B65B 11/30",
+    "description": "••••••para plegar las envolturas en forma de tubo alrededor del contenido [2006.01]"
+  },
+  {
+    "code": "B65B 11/32",
+    "description": "••••••••y a continuación formar pliegues de cierre de forma similar, en las extremidades opuestas del tubo [2006.01]"
+  },
+  {
+    "code": "B65B 11/34",
+    "description": "••••••••siendo las extremidades del tubo retorcidas a continuación [2006.01]"
+  },
+  {
+    "code": "B65B 11/36",
+    "description": "••••••para plegar las envolturas en forma de canal alrededor del contenido y a continuación cerrar las extremidades del canal por plegado y finalmente la boca del canal por plegado o torsión [2006.01]"
+  },
+  {
+    "code": "B65B 11/38",
+    "description": "••••sobre una combinación de recorrido rectilíneo y curvo [2006.01]"
+  },
+  {
+    "code": "B65B 11/40",
+    "description": "••••••para plegar las envolturas en forma de tubo alrededor del contenido [2006.01]"
+  },
+  {
+    "code": "B65B 11/42",
+    "description": "••••••••y a continuación formar pliegues de cierre de forma similar en las extremidades opuestas del tubo [2006.01]"
+  },
+  {
+    "code": "B65B 11/44",
+    "description": "••••••••siendo las extremidades del tubo a continuación retorcidas [2006.01]"
+  },
+  {
+    "code": "B65B 11/46",
+    "description": "••••••para plegar las envolturas en forma de canal alrededor del contenido y a continuación cerrar las extremidades del canal por plegado y finalmente la boca del canal por plegado o torsión [2006.01]"
+  },
+  {
+    "code": "B65B 11/48",
+    "description": "••Encerrado de objetos o cantidades de material, por plegado de la envoltura, p. ej. una envoltura en forma de bolsa y amarrando sus bordes libres opuestos para encerrar el contenido [2006.01]"
+  },
+  {
+    "code": "B65B 11/50",
+    "description": "••Encerrado de objeto o cantidades de material por disposición del contenido entre dos hojas, p. ej. hojas en forma de bolsas y asegurando sus bordes libres opuestos (aparatos o dispositivos para formar bolsas a partir de hojas, sobres o bandas B65B 47/00) [2006.01]"
+  },
+  {
+    "code": "B65B 11/52",
+    "description": "••••siendo plastificada una de las hojas, p. ej. por calentamiento, y forzando por la presión ejercida por un fluido, p. ej. en vacío, para su colocación con la otra hoja y el contenido, p. ej. embalado en piel [2006.01]"
+  },
+  {
+    "code": "B65B 11/54",
+    "description": "••Envolvimiento por aplicación de la envoltura sobre un solo extremo y todos los lados del contenido, y cerrando la envoltura sobre el extremo opuesto formado pliegues regulares o irregulares [2006.01]"
+  },
+  {
+    "code": "B65B 11/56",
+    "description": "••enrollando los objetos con las envolturas sobre una superficie portante [2006.01]"
+  },
+  {
+    "code": "B65B 11/58",
+    "description": "••Aplicación de dos o más envolturas, p. ej. sucesivamente [2006.01]"
+  },
+  {
+    "code": "B65B 13/00",
+    "description": "Atado de objetos en paquetes [2006.01]"
+  },
+  {
+    "code": "B65B 13/02",
+    "description": "••Colocación y aseguramiento de material de atar alrededor de objetos o grupos de objetos, p. ej. empleando flejes, alambres, cintas o bandas [2006.01]"
+  },
+  {
+    "code": "B65B 13/04",
+    "description": "••••con medios de guiado alrededor de objetos de materiales de atar antes de soltarlos de su fuente de aprovisionamiento [2006.01]"
+  },
+  {
+    "code": "B65B 13/06",
+    "description": "••••••Conductos o canales fijos [2006.01]"
+  },
+  {
+    "code": "B65B 13/08",
+    "description": "••••••Guía o soporte simple para una sola extremidad del material de atar, que se desplaza a mitad de camino y a partir de un solo lado alrededor de objetos [2006.01]"
+  },
+  {
+    "code": "B65B 13/10",
+    "description": "••••••Soportes que hacen dar la vuelta completa de los objetos mientras sujetan una de las extremidades del material de atar [2006.01]"
+  },
+  {
+    "code": "B65B 13/12",
+    "description": "••••••••fijados a anillos rotativos [2006.01]"
+  },
+  {
+    "code": "B65B 13/14",
+    "description": "••••••Soportes o guías dobles que giran alrededor de lados opuestos de objetos [2006.01]"
+  },
+  {
+    "code": "B65B 13/16",
+    "description": "••••con medios para cortar el material de atar de la fuente de aprovisionamiento y colocar a continuación alrededor de los objetos [2006.01]"
+  },
+  {
+    "code": "B65B 13/18",
+    "description": "••Detalles o dispositivos auxiliares de máquinas de atar objetos en paquetes [2006.01]"
+  },
+  {
+    "code": "B65B 13/20",
+    "description": "••••Dispositivos para comprimir o compactar los paquetes antes de la atadura [2006.01]"
+  },
+  {
+    "code": "B65B 13/22",
+    "description": "••••Dispositivos de regulación de la tensión de los medios de atar [2006.01]"
+  },
+  {
+    "code": "B65B 13/24",
+    "description": "••••Amarrado o aseguramiento de las extremidades del material de atar [2006.01]"
+  },
+  {
+    "code": "B65B 13/26",
+    "description": "••••••por nudo [2006.01]"
+  },
+  {
+    "code": "B65B 13/28",
+    "description": "••••••por torsión [2006.01]"
+  },
+  {
+    "code": "B65B 13/30",
+    "description": "••••••deformando las extremidades de la cinta o de la banda que sobresale [2006.01]"
+  },
+  {
+    "code": "B65B 13/32",
+    "description": "••••••soldando, soldando sin fusión, o termosoldando; aplicando adhesivos [2006.01]"
+  },
+  {
+    "code": "B65B 13/34",
+    "description": "••••••aplicando elementos de sujeción separados, p. ej. pinzas deformables [2006.01]"
+  },
+  {
+    "code": "B65B 15/00",
+    "description": "Fijación de objetos a cartulinas, hojas, cintas, bandas u otros soportes [2006.01]"
+  },
+  {
+    "code": "B65B 15/02",
+    "description": "••Fijación de pequeños objetos, p. ej. botones, a cartulinas [2006.01]"
+  },
+  {
+    "code": "B65B 15/04",
+    "description": "••Fijación de una serie de objetos, p. ej. pequeñas piezas eléctricas, a una banda continua [2006.01]"
+  },
+  {
+    "code": "B65B 17/00",
+    "description": "Otras máquinas, aparatos o procesos para embalar objetos o materiales [2006.01]"
+  },
+  {
+    "code": "B65B 17/02",
+    "description": "••Unión de objetos, p. ej. latas, directamente unas a otras para facilitar el almacenamiento, el transporte o la manipulación [2006.01]"
+  },
+  {
+    "code": "B65B 19/00",
+    "description": "Embalaje de objetos tubulares o en forma de vara, susceptibles de ser dañados por fricción o presión, p. ej. cigarrillos, puros, macarrones, spaguettis, pajas para beber o electrodos de soldadura [2006.01]"
+  },
+  {
+    "code": "B65B 19/02",
+    "description": "••Embalaje de cigarrillos [2006.01]"
+  },
+  {
+    "code": "B65B 19/04",
+    "description": "••••Disposición, alimentación o presentación de cigarrillos [2006.01]"
+  },
+  {
+    "code": "B65B 19/06",
+    "description": "••••••girando los cigarrillos individualmente para presentar marcas impresas en posición deseada [2006.01]"
+  },
+  {
+    "code": "B65B 19/08",
+    "description": "••••••disponiendo los cigarrillos ovales de forma que se sobrepongan [2006.01]"
+  },
+  {
+    "code": "B65B 19/10",
+    "description": "••••••disponiendo los cigarrillos en capas, cada una de un número predeterminado [2006.01]"
+  },
+  {
+    "code": "B65B 19/12",
+    "description": "••••Colocación de cigarrillos o grupos de cigarrillos en receptáculos preformados [2006.01]"
+  },
+  {
+    "code": "B65B 19/14",
+    "description": "••••••en cajas de bolsillo, p. ej. cajas de forma rectangular cerradas en un extremo por una lengüeta que se introduce en una ranura de la caja [2006.01]"
+  },
+  {
+    "code": "B65B 19/16",
+    "description": "••••••••en cajas de dos compartimientos [2006.01]"
+  },
+  {
+    "code": "B65B 19/18",
+    "description": "••••••en cajas o envases de cartón del tipo caja interior que desliza en la exterior [2006.01]"
+  },
+  {
+    "code": "B65B 19/20",
+    "description": "••••••en cajas con cubiertas de bisagras [2006.01]"
+  },
+  {
+    "code": "B65B 19/22",
+    "description": "••••Envolvimiento de cigarrillos; Embalaje de cigarrillos en receptáculos formados por plegado del material de embalaje alrededor de gálibos [2006.01]"
+  },
+  {
+    "code": "B65B 19/24",
+    "description": "••••••utilizando mandriles huecos por los que llegan los grupos de cigarrillos [2006.01]"
+  },
+  {
+    "code": "B65B 19/26",
+    "description": "••Máquinas concebidas especialmente para embalar los puros [2006.01]"
+  },
+  {
+    "code": "B65B 19/28",
+    "description": "••Dispositivos de control para las máquinas de embalar los cigarrillos o los puros [2006.01]"
+  },
+  {
+    "code": "B65B 19/30",
+    "description": "••••sensibles a la presencia de objetos defectuosos, p. ej. cigarrillos mal llenados [2006.01]"
+  },
+  {
+    "code": "B65B 19/32",
+    "description": "••••sensibles al mal agrupamiento de objetos o al llenado defectuoso de paquetes [2006.01]"
+  },
+  {
+    "code": "B65B 19/34",
+    "description": "••Embalaje de otros objetos en forma de vara, p. ej. salchichas, macarrones, spaguettis, pajitas para beber, electrodos de soldadura [2006.01]"
+  },
+  {
+    "code": "B65B 21/00",
+    "description": "Embalaje o desembalado de botellas (atado de paquetes de botellas B65B 27/04) [2006.01]"
+  },
+  {
+    "code": "B65B 21/02",
+    "description": "••en o a partir de receptáculos preformados, p. ej. cajas o jaulas de botellas [2006.01]"
+  },
+  {
+    "code": "B65B 21/04",
+    "description": "••••Disposición, unión, alimentación u orientación de botellas antes de introducirlas en los receptáculos o después de sacarlas [2006.01]"
+  },
+  {
+    "code": "B65B 21/06",
+    "description": "••••••Formación de grupos de botellas [2006.01]"
+  },
+  {
+    "code": "B65B 21/08",
+    "description": "••••Introducción o sacado de botellas separadas o de grupos de botellas, p. ej. para llenar o vaciar progresivamente los receptáculos [2006.01]"
+  },
+  {
+    "code": "B65B 21/10",
+    "description": "••••••utilizando la gravedad [2006.01]"
+  },
+  {
+    "code": "B65B 21/12",
+    "description": "••••••utilizando zarpas que cogen las botellas, p. ej. por el gollete [2006.01]"
+  },
+  {
+    "code": "B65B 21/14",
+    "description": "••••Introducción o sacado de grupos de botellas para llenar o vaciar los receptáculos en una sola operación [2006.01]"
+  },
+  {
+    "code": "B65B 21/16",
+    "description": "••••••utilizando la gravedad [2006.01]"
+  },
+  {
+    "code": "B65B 21/18",
+    "description": "••••••utilizando zarpas que cogen las botellas, p. ej. por el gollete o cuello [2006.01]"
+  },
+  {
+    "code": "B65B 21/20",
+    "description": "••••••••con medios para hacer variar el espacio entre botellas [2006.01]"
+  },
+  {
+    "code": "B65B 21/22",
+    "description": "••••••invirtiendo y elevando o bajando el receptáculo en relación con botellas [2006.01]"
+  },
+  {
+    "code": "B65B 21/24",
+    "description": "••Envolvimiento de botellas [2006.01]"
+  },
+  {
+    "code": "B65B 21/26",
+    "description": "••••Envolvimiento individual de botellas por operaciones que incluyen la rotación o el rodaje de botellas [2006.01]"
+  },
+  {
+    "code": "B65B 23/00",
+    "description": "Embalaje de objetos frágiles o sensibles a los golpes, que no sean botellas; Desembalado de huevos (metido de objetos en un medio antichoque B65B 55/20) [2006.01]"
+  },
+  {
+    "code": "B65B 23/02",
+    "description": "••Embalaje o desembalado de huevos [2006.01]"
+  },
+  {
+    "code": "B65B 23/04",
+    "description": "••••Montaje de bandejas o envases de cartón para huevos a partir de formas planas [2006.01]"
+  },
+  {
+    "code": "B65B 23/06",
+    "description": "••••Instalación, alimentación, o presentación de huevos a embalar; Extracción de huevos de las bandejas a envases de cartón [2006.01]"
+  },
+  {
+    "code": "B65B 23/08",
+    "description": "••••••con ayuda de zarpas [2006.01]"
+  },
+  {
+    "code": "B65B 23/10",
+    "description": "••Embalaje de galletas [2006.01]"
+  },
+  {
+    "code": "B65B 23/12",
+    "description": "••••Alineación, alimentación o presentación de galletas que van a ser embaladas [2006.01]"
+  },
+  {
+    "code": "B65B 23/14",
+    "description": "••••••Formación de grupos de galletas [2006.01]"
+  },
+  {
+    "code": "B65B 23/16",
+    "description": "••••Introducción de galletas, o de paquetes de galletas envueltas en receptáculos preformados [2006.01]"
+  },
+  {
+    "code": "B65B 23/18",
+    "description": "••••Envolvimiento de galletas individualmente o por grupos de ellas [2006.01]"
+  },
+  {
+    "code": "B65B 23/20",
+    "description": "••Embalaje de placas de vidrio, tejas o pizarras [2006.01]"
+  },
+  {
+    "code": "B65B 23/22",
+    "description": "••Embalaje de ampollas farmacéuticas, ampollas eléctricas, tubos de lámparas, válvulas de radio o tubos, o similares [2006.01]"
+  },
+  {
+    "code": "B65B 25/00",
+    "description": "Embalaje de otros objetos que presentan problemas particulares (atadura en paquetes B65B 27/00) [2006.01]"
+  },
+  {
+    "code": "B65B 25/02",
+    "description": "••Embalaje de productos agrícolas u hortícolas [2006.01]"
+  },
+  {
+    "code": "B65B 25/04",
+    "description": "••••Embalaje de frutas o legumbres [2006.01]"
+  },
+  {
+    "code": "B65B 25/06",
+    "description": "••Embalaje de rodajas o trozos de carnes, queso u otros productos blandos o pegadizos de formas particulares [2006.01]"
+  },
+  {
+    "code": "B65B 25/08",
+    "description": "••••entre capas o tiras de hojas o bandas, p. ej. en bandas plegadas en zigzag [2006.01]"
+  },
+  {
+    "code": "B65B 25/10",
+    "description": "••••Formación de paquetes de queso o de productos blandos análogos en forma de sectores [2006.01]"
+  },
+  {
+    "code": "B65B 25/12",
+    "description": "••••••encerrados en receptáculos circulares [2006.01]"
+  },
+  {
+    "code": "B65B 25/14",
+    "description": "••Embalaje de papel u hojas análogas, sobres o periódicos, planos plegados o enrollados [2006.01]"
+  },
+  {
+    "code": "B65B 25/16",
+    "description": "••Embalaje del pan o de productos de panadería, p. ej. panes no cortados [2006.01]"
+  },
+  {
+    "code": "B65B 25/18",
+    "description": "••••Envolvimiento del pan en rodajas [2006.01]"
+  },
+  {
+    "code": "B65B 25/20",
+    "description": "••Embalaje de artículos de lencería, p. ej. calcetines, medias, camisas [2006.01]"
+  },
+  {
+    "code": "B65B 25/22",
+    "description": "••Embalaje de artículos de alimentación, p. ej. filetes de pescado, que deben ser cocidos en el embalaje [2006.01]"
+  },
+  {
+    "code": "B65B 25/24",
+    "description": "••Embalaje de objetos de forma anular, p. ej. neumáticos [2006.01]"
+  },
+  {
+    "code": "B65B 27/00",
+    "description": "Atado en paquetes de objetos especiales que presentan problemas particulares, con ayuda de fleje, alambre o bandas o cintas estrechas; Embalado o enfardado de materiales fibrosos, p. ej. turba, no previstos en otro lugar [2006.01]"
+  },
+  {
+    "code": "B65B 27/02",
+    "description": "••Atado de grupos de ladrillos u otros bloques de construcción [2006.01]"
+  },
+  {
+    "code": "B65B 27/04",
+    "description": "••Atado de grupos de envases o botellas [2006.01]"
+  },
+  {
+    "code": "B65B 27/06",
+    "description": "••Atado de rollos de alambre o de objetos anulares análogos [2006.01]"
+  },
+  {
+    "code": "B65B 27/08",
+    "description": "••Atado de paquetes de hojas de papel, sobres, sacos u otros objetos planos y delgados; Atado de paquetes de periódicos [2006.01]"
+  },
+  {
+    "code": "B65B 27/10",
+    "description": "••Atado de paquetes de vástagos, barras u objetos alargados análogos [2006.01]"
+  },
+  {
+    "code": "B65B 27/12",
+    "description": "••Embalado o enfardado de productos fibrosos comprimibles, p. ej. turba [2006.01]"
+  },
+  {
+    "code": "B65B 29/00",
+    "description": "Embalaje de materiales que presentan problemas particulares [2006.01]"
+  },
+  {
+    "code": "B65B 29/02",
+    "description": "••Embalaje de sustancias, p. ej. del té, que debe ser usado como infusión con el embalaje [2006.01]"
+  },
+  {
+    "code": "B65B 29/04",
+    "description": "••••Fijación o bien formación o fijación, de cordones o etiquetas sobre los sacos de té [2006.01]"
+  },
+  {
+    "code": "B65B 29/06",
+    "description": "••Embalaje de sustancias a las que el consumidor debe añadir, en el paquete, otro ingrediente, p. ej. agua, para mezclar antes de servir [2006.01]"
+  },
+  {
+    "code": "B65B 29/08",
+    "description": "••Embalaje de productos comestibles que deben cocer en el paquete (sustancias que deben infundir B65B 29/02) [2006.01]"
+  },
+  {
+    "code": "B65B 29/10",
+    "description": "••Embalaje de dos o más sustancias diferentes aisladas una de otra en el paquete, pero que pueden ser mezcladas sin abrir el paquete, p. ej. formación de paquetes que contienen una resina y un endurecedor aislados por una pared que puede romperse [2006.01]"
+  },
+  {
+    "code": "B65B 31/00",
+    "description": "Embalaje de objetos o material bajo condiciones atmosféricas o gaseosas particulares; Adición de propulsantes a los recipientes para aerosol [2006.01]"
+  },
+  {
+    "code": "B65B 31/02",
+    "description": "••Llenado, cierre, o llenado y cierre, de receptáculos en cámaras mantenidas a presión inferior o superior a la atmosférica o conteniendo una atmósfera especial, p. ej. de gas inerte [2006.01]"
+  },
+  {
+    "code": "B65B 31/04",
+    "description": "••Hacer el vacío, poner bajo presión o bajo un gas especial, receptáculos o embalajes llenos por medio de boquillas, a través de las cuales se envía o se extrae aire u otro gas, p. ej. un gas inerte [2006.01]"
+  },
+  {
+    "code": "B65B 31/06",
+    "description": "••••estando la boquilla dispuesta para introducir o expulsar del orificio el receptáculo lleno y que funciona en unión con los dispositivos de sellado del orificio del receptáculo [2006.01]"
+  },
+  {
+    "code": "B65B 31/08",
+    "description": "••••estando la boquilla concebida para perforar el receptáculo o la envoltura del embalaje [2006.01]"
+  },
+  {
+    "code": "B65B 31/10",
+    "description": "••Adición de propulsantes a receptáculos para aerosol [2006.01]"
+  },
+  {
+    "code": "B65B 33/00",
+    "description": "Embalado de objetos revestimiento de una capa que puede ser separable, p. ej. pelable (B65B 11/52 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B65B 33/02",
+    "description": "••Embalaje de pequeños objetos, p. ej. piezas de recambio para las máquinas o motores [2006.01]"
+  },
+  {
+    "code": "B65B 33/04",
+    "description": "••Embalaje de grandes objetos, p. ej. máquinas completas, aviones [2006.01]"
+  },
+  {
+    "code": "B65B 33/06",
+    "description": "••••el revestimiento se aplica sobre una capa de soporte o sobre un armazón de hojas o tiras de materiales finos flexibles, p. ej. encapullado [2006.01]"
+  },
+  {
+    "code": "B65B 35/00",
+    "description": "Suministro, alimentación, disposición u orientación de artículos a ser empaquetados [2006.01]"
+  },
+  {
+    "code": "B65B 35/02",
+    "description": "••Cargadores de abastecimiento [2006.01]"
+  },
+  {
+    "code": "B65B 35/04",
+    "description": "••••con dispositivos amortiguadores para el almacenamiento [2006.01]"
+  },
+  {
+    "code": "B65B 35/06",
+    "description": "••Separación de objetos aislados de una masa de objetos a granel [2006.01]"
+  },
+  {
+    "code": "B65B 35/08",
+    "description": "••••utilizando transportadores de bolsas [2006.01]"
+  },
+  {
+    "code": "B65B 35/10",
+    "description": "••Alimentación en artículos separados, p. ej. transporte de estos artículos [2006.01]"
+  },
+  {
+    "code": "B65B 35/12",
+    "description": "••••por gravedad [2006.01]"
+  },
+  {
+    "code": "B65B 35/14",
+    "description": "••••por agitadores o vibradores [2006.01]"
+  },
+  {
+    "code": "B65B 35/16",
+    "description": "••••por zarpas [2006.01]"
+  },
+  {
+    "code": "B65B 35/18",
+    "description": "••••••que funcionan por succión [2006.01]"
+  },
+  {
+    "code": "B65B 35/20",
+    "description": "••••por empujadores oscilantes o de movimiento alternativo [2006.01]"
+  },
+  {
+    "code": "B65B 35/22",
+    "description": "••••por caminos de rodadura [2006.01]"
+  },
+  {
+    "code": "B65B 35/24",
+    "description": "••••por correas o cadenas sin fin [2006.01]"
+  },
+  {
+    "code": "B65B 35/26",
+    "description": "••••por transportadores rotativos [2006.01]"
+  },
+  {
+    "code": "B65B 35/28",
+    "description": "••••por transportadores neumáticos [2006.01]"
+  },
+  {
+    "code": "B65B 35/30",
+    "description": "••Disposición y alimentación de objetos en grupos [2006.01]"
+  },
+  {
+    "code": "B65B 35/32",
+    "description": "••••por gravedad [2006.01]"
+  },
+  {
+    "code": "B65B 35/34",
+    "description": "••••por agitadores o vibradores [2006.01]"
+  },
+  {
+    "code": "B65B 35/36",
+    "description": "••••por zarpas [2006.01]"
+  },
+  {
+    "code": "B65B 35/38",
+    "description": "••••••que funcionan por succión [2006.01]"
+  },
+  {
+    "code": "B65B 35/40",
+    "description": "••••por empujadores oscilantes o de movimiento alternativo [2006.01]"
+  },
+  {
+    "code": "B65B 35/42",
+    "description": "••••por caminos de rodadura [2006.01]"
+  },
+  {
+    "code": "B65B 35/44",
+    "description": "••••por correas o cadenas sin fin [2006.01]"
+  },
+  {
+    "code": "B65B 35/46",
+    "description": "••••por transportadores rotativos [2006.01]"
+  },
+  {
+    "code": "B65B 35/48",
+    "description": "••••por transportadores neumáticos [2006.01]"
+  },
+  {
+    "code": "B65B 35/50",
+    "description": "••••Apilado de objetos o de grupos de objetos, unos sobre otros, antes del empaquetado [2006.01]"
+  },
+  {
+    "code": "B65B 35/52",
+    "description": "••••••construyendo la pila partiendo de abajo [2006.01]"
+  },
+  {
+    "code": "B65B 35/54",
+    "description": "••••Alimentación de artículos por vías múltiples hacia un solo puesto de embalaje [2006.01]"
+  },
+  {
+    "code": "B65B 35/56",
+    "description": "••Orientación de objetos, es decir, cambio de la posición, p. ej. de una sección transversal no uniforme [2006.01]"
+  },
+  {
+    "code": "B65B 35/58",
+    "description": "••••Retorno de objetos por medios que actúan directamente, p. ej. para presentar las partes etiquetas hacia arriba [2006.01]"
+  },
+  {
+    "code": "B65B 37/00",
+    "description": "Suministro o alimentación de sólidos fluidos, plásticos, o líquidos, o masas a granel de pequeños objetos, a embalar (procesos o medios para llenar los receptáculos separadamente con esos productos u objetos B65B 1/04, B65B 3/04) [2006.01]"
+  },
+  {
+    "code": "B65B 37/02",
+    "description": "••por gravedad [2006.01]"
+  },
+  {
+    "code": "B65B 37/04",
+    "description": "••por vibradores [2006.01]"
+  },
+  {
+    "code": "B65B 37/06",
+    "description": "••por pistones o bombas [2006.01]"
+  },
+  {
+    "code": "B65B 37/08",
+    "description": "••por alimentadores rotativos [2006.01]"
+  },
+  {
+    "code": "B65B 37/10",
+    "description": "••••del tipo de tornillo [2006.01]"
+  },
+  {
+    "code": "B65B 37/12",
+    "description": "••••del tipo centrífugo [2006.01]"
+  },
+  {
+    "code": "B65B 37/14",
+    "description": "••por alimentadores neumáticos [2006.01]"
+  },
+  {
+    "code": "B65B 37/16",
+    "description": "••Separación de cantidades dosificadas del abastecimiento (en las máquinas de llenado de receptáculos B65B 1/30, B65B 3/26) [2006.01]"
+  },
+  {
+    "code": "B65B 37/18",
+    "description": "••••por pesada [2006.01]"
+  },
+  {
+    "code": "B65B 37/20",
+    "description": "••••por medidas volumétricas [2006.01]"
+  },
+  {
+    "code": "B65B 39/00",
+    "description": "Boquillas, embudos o guías para introducir objetos o materiales en los receptáculos o los embalajes [2006.01]"
+  },
+  {
+    "code": "B65B 39/02",
+    "description": "••Boquillas, embudos o guías, expansibles o retráctiles [2006.01]"
+  },
+  {
+    "code": "B65B 39/04",
+    "description": "••con pasos para el escape o la evacuación del aire [2006.01]"
+  },
+  {
+    "code": "B65B 39/06",
+    "description": "••adaptados para sostener los receptáculos o embalajes [2006.01]"
+  },
+  {
+    "code": "B65B 39/08",
+    "description": "••••por medio de mordazas [2006.01]"
+  },
+  {
+    "code": "B65B 39/10",
+    "description": "••••••que funcionan automáticamente [2006.01]"
+  },
+  {
+    "code": "B65B 39/12",
+    "description": "••que pueden acercarse o alejarse del receptáculo o del embalaje durante el llenado [2006.01]"
+  },
+  {
+    "code": "B65B 39/14",
+    "description": "••que pueden desplazarse con el receptáculo o el embalaje [2006.01]"
+  },
+  {
+    "code": "B65B 41/00",
+    "description": "Suministro o alimentación de hojas para formar el receptáculo o de material para envolver [2006.01]"
+  },
+  {
+    "code": "B65B 41/02",
+    "description": "••Alimentación de hojas o cintas de envolturas [2006.01]"
+  },
+  {
+    "code": "B65B 41/04",
+    "description": "••••por zarpas [2006.01]"
+  },
+  {
+    "code": "B65B 41/06",
+    "description": "••••••que funcionan por succión [2006.01]"
+  },
+  {
+    "code": "B65B 41/08",
+    "description": "••••por empujadores oscilantes o de movimiento alternativo [2006.01]"
+  },
+  {
+    "code": "B65B 41/10",
+    "description": "••••por cilindros [2006.01]"
+  },
+  {
+    "code": "B65B 41/12",
+    "description": "••Alimentación de bandas a partir de rodillos [2006.01]"
+  },
+  {
+    "code": "B65B 41/14",
+    "description": "••••por zarpas [2006.01]"
+  },
+  {
+    "code": "B65B 41/16",
+    "description": "••••por cilindros [2006.01]"
+  },
+  {
+    "code": "B65B 41/18",
+    "description": "••Posicionado de hojas, de cintas o de bandas [2006.01]"
+  },
+  {
+    "code": "B65B 43/00",
+    "description": "Formación, alimentación, abertura o montaje de receptáculos o recipientes, en unión con el embalaje (formación de bolsas en las hojas, los elementos de envoltura o en las bandas, presionando el material en las matrices o desplazándolo sobre matrices de plegado B65B 47/00) [2006.01]"
+  },
+  {
+    "code": "B65B 43/02",
+    "description": "••Formación de sacos planos a partir de hojas o cintas separadas [2006.01]"
+  },
+  {
+    "code": "B65B 43/04",
+    "description": "••Formación de sacos planos a partir de bandas [2006.01]"
+  },
+  {
+    "code": "B65B 43/06",
+    "description": "••••a partir de más de una banda [2006.01]"
+  },
+  {
+    "code": "B65B 43/08",
+    "description": "••Formación de receptáculos de tres dimensiones a partir de hojas [2006.01]"
+  },
+  {
+    "code": "B65B 43/10",
+    "description": "••••plegándolas [2006.01]"
+  },
+  {
+    "code": "B65B 43/12",
+    "description": "••Alimentación de sacos flexibles o de cintas de cartón, en forma plana o plegada; Alimentación de sacos planos unidos para formar una serie o una cadena [2006.01]"
+  },
+  {
+    "code": "B65B 43/14",
+    "description": "••••Alimentación de sacos o cintas de cartón separadamente a partir de pilas o de cargadores [2006.01]"
+  },
+  {
+    "code": "B65B 43/16",
+    "description": "••••••por zarpas [2006.01]"
+  },
+  {
+    "code": "B65B 43/18",
+    "description": "••••••••que funcionan por succión [2006.01]"
+  },
+  {
+    "code": "B65B 43/20",
+    "description": "••••••por empujadores oscilantes o de movimiento alternativo [2006.01]"
+  },
+  {
+    "code": "B65B 43/22",
+    "description": "••••••por cilindros [2006.01]"
+  },
+  {
+    "code": "B65B 43/24",
+    "description": "••Rotura de pliegues para facilitar el montaje de envases de cartón [2006.01]"
+  },
+  {
+    "code": "B65B 43/26",
+    "description": "••Abertura o hinchado de sacos; Abertura, enderezado de cajas, montaje de cajas, cartones o cintas de cartón [2006.01]"
+  },
+  {
+    "code": "B65B 43/28",
+    "description": "••••por zarpas que cooperan con soportes fijos [2006.01]"
+  },
+  {
+    "code": "B65B 43/30",
+    "description": "••••por zarpas que trabajan sobre las paredes opuestas, p. ej. por succión [2006.01]"
+  },
+  {
+    "code": "B65B 43/32",
+    "description": "••••por presión externa ejercida diagonalmente [2006.01]"
+  },
+  {
+    "code": "B65B 43/34",
+    "description": "••••por presión interna [2006.01]"
+  },
+  {
+    "code": "B65B 43/36",
+    "description": "••••••ejercida neumáticamente [2006.01]"
+  },
+  {
+    "code": "B65B 43/38",
+    "description": "••Apertura de cubiertas de bisagras [2006.01]"
+  },
+  {
+    "code": "B65B 43/39",
+    "description": "••••Desplegado de los lados de cierre del orificio del saco, de la caja, o de la boca del envase de cartón [2006.01]"
+  },
+  {
+    "code": "B65B 43/40",
+    "description": "••Retirada de cubiertas separadas [2006.01]"
+  },
+  {
+    "code": "B65B 43/41",
+    "description": "••Apertura de las cajas o envases de cartón del tipo caja interior que desliza en otra caja exterior [2006.01]"
+  },
+  {
+    "code": "B65B 43/42",
+    "description": "••Alimentación o posicionado de sacos, cajas o envases de cartón en posición dilatada, abierta o de pie; Alimentación de receptáculos preformados rígidos, p. ej. latas, cápsulas, tubos de vidrio, frascos, hacia la posición de empaquetado; Colocación de receptáculos o recipientes en el puesto de llenado (por medio de bocas de llenado B65B 39/00); Sujeción de los receptáculos o recipientes durante el llenado (por bocas de llenado B65B 39/00) [2006.01]"
+  },
+  {
+    "code": "B65B 43/44",
+    "description": "••••por cargadores de abastecimiento (B65B 43/46-B65B 43/52 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "B65B 43/46",
+    "description": "••••sirviéndose de zarpas [2006.01]"
+  },
+  {
+    "code": "B65B 43/48",
+    "description": "••••sirviéndose de empujadores oscilantes o de movimiento alternativo [2006.01]"
+  },
+  {
+    "code": "B65B 43/50",
+    "description": "••••sirviéndose de mesas o torretas rotativas [2006.01]"
+  },
+  {
+    "code": "B65B 43/52",
+    "description": "••••sirviéndose de vías de rodadura o de transportadores sin fin [2006.01]"
+  },
+  {
+    "code": "B65B 43/54",
+    "description": "••••Medios para sujetar los receptáculos o los recipientes durante el llenado [2006.01]"
+  },
+  {
+    "code": "B65B 43/56",
+    "description": "••••••con desplazamiento por posiciones sucesivas para presentar el receptáculo o recipiente para recibir cantidades sucesivas del contenido [2006.01]"
+  },
+  {
+    "code": "B65B 43/58",
+    "description": "••••••••siendo vertical el movimiento [2006.01]"
+  },
+  {
+    "code": "B65B 43/59",
+    "description": "••••••con desplazamiento vertical (B65B 43/58 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B65B 43/60",
+    "description": "••••••con movimiento rotativo [2006.01]"
+  },
+  {
+    "code": "B65B 43/62",
+    "description": "••••••••alrededor de un eje colocado en la posición de llenado, p. ej. el eje del receptáculo o recipiente [2006.01]"
+  },
+  {
+    "code": "B65B 45/00",
+    "description": "Aparatos o dispositivos para soportar o sujetar las envolturas durante la operación de embalaje [2006.01]"
+  },
+  {
+    "code": "B65B 47/00",
+    "description": "Aparatos o dispositivos para formar bolsas o recipientes en o a partir de hojas, bandas o tiras, que tienen esencialmente una matriz en la que el material es comprimido o una matriz de plegado a través de la cual se desplaza el material [2006.01]"
+  },
+  {
+    "code": "B65B 47/02",
+    "description": "••con medios para calentar el material antes de la formación [2006.01]"
+  },
+  {
+    "code": "B65B 47/04",
+    "description": "••por aplicación de presión mecánica [2006.01]"
+  },
+  {
+    "code": "B65B 47/06",
+    "description": "••••sirviéndose de matrices de plegado [2006.01]"
+  },
+  {
+    "code": "B65B 47/08",
+    "description": "••por aplicación de presión ejercida por un fluido [2006.01]"
+  },
+  {
+    "code": "B65B 47/10",
+    "description": "••••por el vacío [2006.01]"
+  },
+  {
+    "code": "B65B 49/00",
+    "description": "Dispositivos para plegar o doblar las envolturas de embalaje alrededor del contenido [2006.01]"
+  },
+  {
+    "code": "B65B 49/02",
+    "description": "••Plegadores fijos o montados elásticamente, p. ej. rodillos locos [2006.01]"
+  },
+  {
+    "code": "B65B 49/04",
+    "description": "••••Zapatas o placas de ranuras inclinadas o de bordes opuestos inclinados [2006.01]"
+  },
+  {
+    "code": "B65B 49/06",
+    "description": "••Plegadores elásticos, p. ej. cepillos, membranas [2006.01]"
+  },
+  {
+    "code": "B65B 49/08",
+    "description": "••Plegadores oscilantes o de movimiento alternativo [2006.01]"
+  },
+  {
+    "code": "B65B 49/10",
+    "description": "••móviles sobre un circuito cerrado no circular [2006.01]"
+  },
+  {
+    "code": "B65B 49/12",
+    "description": "••rotativos [2006.01]"
+  },
+  {
+    "code": "B65B 49/14",
+    "description": "••que forman parte o están fijados a los transportadores para artículos parcialmente envueltos [2006.01]"
+  },
+  {
+    "code": "B65B 49/16",
+    "description": "••Medios neumáticos, p. ej. chorros de aire [2006.01]"
+  },
+  {
+    "code": "B65B 51/00",
+    "description": "Dispositivos o procesos para soldar o fijar los pliegues o cierres de los paquetes, p. ej. sacos con el cuello cerrado por torsión [2006.01]"
+  },
+  {
+    "code": "B65B 51/02",
+    "description": "••Aplicación de adhesivos o de líquidos de sellado [2006.01]"
+  },
+  {
+    "code": "B65B 51/04",
+    "description": "••Aplicación de elementos separados de sellado o de amarre, p. ej. pinzas (colocación de cubiertas o capuchones separados B65B 7/28) [2006.01]"
+  },
+  {
+    "code": "B65B 51/05",
+    "description": "••••Grapado [2006.01]"
+  },
+  {
+    "code": "B65B 51/06",
+    "description": "••••Aplicación de cinta adhesiva [2006.01]"
+  },
+  {
+    "code": "B65B 51/07",
+    "description": "••••Costura o encolado [2006.01]"
+  },
+  {
+    "code": "B65B 51/08",
+    "description": "••••Aplicación de una ligadura, p. ej. en los cuellos de sacos retorcidos [2006.01]"
+  },
+  {
+    "code": "B65B 51/09",
+    "description": "••por deformación de los cierres [2006.01]"
+  },
+  {
+    "code": "B65B 51/10",
+    "description": "••Aplicación o producción de calor o de presión o los dos a la vez (B65B 51/09 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B65B 51/12",
+    "description": "••••por medios flexibles, p. ej. cepillos [2006.01]"
+  },
+  {
+    "code": "B65B 51/14",
+    "description": "••••por elementos oscilantes o de movimiento alternativo [2006.01]"
+  },
+  {
+    "code": "B65B 51/16",
+    "description": "••••por elementos rotativos [2006.01]"
+  },
+  {
+    "code": "B65B 51/18",
+    "description": "••••por bandas o cadenas sin fin [2006.01]"
+  },
+  {
+    "code": "B65B 51/20",
+    "description": "••••por presión de fluido aplicada directamente sobre los doblados o sobre los lados opuestos, p. ej. usando chorros de aire caliente (contrayendo las envolturas por calentamiento B65B 53/02) [2006.01]"
+  },
+  {
+    "code": "B65B 51/22",
+    "description": "••••por fricción, por ultrasonidos o por alta frecuencia [2006.01]"
+  },
+  {
+    "code": "B65B 51/24",
+    "description": "••••para producir selladuras o cierres nervados (combinados con la separación por alambres o vástagos calentados B65B 61/10) [2006.01]"
+  },
+  {
+    "code": "B65B 51/26",
+    "description": "••••Dispositivos especialmente adaptados para hacer costuras transversales o longitudinales en las bandas o en los tubos [2006.01]"
+  },
+  {
+    "code": "B65B 51/28",
+    "description": "••••••Rodillos para hacer simultáneamente costuras longitudinales y transversales [2006.01]"
+  },
+  {
+    "code": "B65B 51/30",
+    "description": "••••••Dispositivos, p. ej. mordazas, para aplicar sucesivamente presión y calor, p. ej. para fraccionar tubos llenados [2006.01]"
+  },
+  {
+    "code": "B65B 51/32",
+    "description": "••Refrigeración, o refrigeración y compresión, cierres de paquetes después de termosoldadura [2006.01]"
+  },
+  {
+    "code": "B65B 53/00",
+    "description": "Contracción de las envolturas, de los receptáculos, de las cubiertas de los receptáculos o de elementos destinados a fijar las cubiertas de los receptáculos, durante o después del embalado [2006.01]"
+  },
+  {
+    "code": "B65B 53/02",
+    "description": "••por el calor [2006.01]"
+  },
+  {
+    "code": "B65B 53/04",
+    "description": "••••suministrado por líquidos [2006.01]"
+  },
+  {
+    "code": "B65B 53/06",
+    "description": "••••suministrado por gases, p. ej. chorros de aire caliente [2006.01]"
+  },
+  {
+    "code": "B65B 55/00",
+    "description": "Conservación, protección o purificación de paquetes o de conjunto paquete-contenido (embalando en condiciones atmosféricas o gaseosas especiales B65B 31/00; dispositivos para colocar hojas, tapones o zunchos de protección alrededor del contenido B65B 61/22) [2006.01]"
+  },
+  {
+    "code": "B65B 55/02",
+    "description": "••Esterilización, p. ej. de paquetes acabados [2006.01]"
+  },
+  {
+    "code": "B65B 55/04",
+    "description": "••••Esterilización de envolturas de embalaje o recipientes antes o durante el embalaje [2006.01]"
+  },
+  {
+    "code": "B65B 55/06",
+    "description": "••••••por el calor [2006.01]"
+  },
+  {
+    "code": "B65B 55/08",
+    "description": "••••••por irradiación [2006.01]"
+  },
+  {
+    "code": "B65B 55/10",
+    "description": "••••••por líquidos o gases (B65B 55/06 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B65B 55/12",
+    "description": "••••Esterilización del contenido antes o durante el embalado [2006.01]"
+  },
+  {
+    "code": "B65B 55/14",
+    "description": "••••••por el calor [2006.01]"
+  },
+  {
+    "code": "B65B 55/16",
+    "description": "••••••por irradiación [2006.01]"
+  },
+  {
+    "code": "B65B 55/18",
+    "description": "••••••por líquidos o gases (B65B 55/14 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B65B 55/19",
+    "description": "••••••por adición de productos destinados a suprimir el oxígeno libre o a generar gases de inhibición, p. ej. inhibidores de fase gaseosa [2006.01]"
+  },
+  {
+    "code": "B65B 55/20",
+    "description": "••Metido del contenido en un material antigolpes, p. ej. espuma plástica, sustancia granular [2006.01]"
+  },
+  {
+    "code": "B65B 55/22",
+    "description": "••Inmersión del contenido en los líquidos de protección [2006.01]"
+  },
+  {
+    "code": "B65B 55/24",
+    "description": "••Limpieza o eliminación del polvo de receptáculos, envolturas o embalajes [2006.01]"
+  },
+  {
+    "code": "B65B 57/00",
+    "description": "Dispositivos de control automático, de verificación, de alarma, o de seguridad (posicionado del material de envoltura o formando receptáculo alimentado a partir de bobinas B65B 41/18) [2006.01]"
+  },
+  {
+    "code": "B65B 57/02",
+    "description": "••sensibles a la ausencia, presencia, a la alimentación anormal o a la mala presentación del producto de fijación o de embalaje de receptáculos o de paquetes [2006.01]"
+  },
+  {
+    "code": "B65B 57/04",
+    "description": "••••y cuyo funcionamiento manda o detiene la alimentación de ese material de esos receptáculos o paquetes [2006.01]"
+  },
+  {
+    "code": "B65B 57/06",
+    "description": "••••y cuyo funcionamiento manda o detiene la alimentación de objetos o productos a embalar [2006.01]"
+  },
+  {
+    "code": "B65B 57/08",
+    "description": "••••y cuyo funcionamiento para o controla la velocidad de la máquina entera [2006.01]"
+  },
+  {
+    "code": "B65B 57/10",
+    "description": "••sensibles a la ausencia, presencia, a la alimentación anormal o a mala posición de los objetos o productos a embalar [2006.01]"
+  },
+  {
+    "code": "B65B 57/12",
+    "description": "••••y cuyo funcionamiento manda o para la alimentación de los productos de embalaje, receptáculos o paquetes [2006.01]"
+  },
+  {
+    "code": "B65B 57/14",
+    "description": "••••y cuyo funcionamiento manda o para la alimentación de los objetos o productos a embalar [2006.01]"
+  },
+  {
+    "code": "B65B 57/16",
+    "description": "••••y que funcionan para parar o controlar la velocidad de toda la máquina [2006.01]"
+  },
+  {
+    "code": "B65B 57/18",
+    "description": "••desencadenando señales de alarma acústicas u ópticas [2006.01]"
+  },
+  {
+    "code": "B65B 57/20",
+    "description": "••Empleo de dispositivos de contado controlando la alimentación de objetos (otros empleos B65B 65/08) [2006.01]"
+  },
+  {
+    "code": "B65B 59/00",
+    "description": "Dispositivos para permitir a las máquinas manipular objetos de diferentes dimensiones, producir paquetes de diferentes tamaños, variar el contenido de los paquetes o dar acceso para la limpieza o el mantenimiento [2006.01]"
+  },
+  {
+    "code": "B65B 59/02",
+    "description": "••Disposiciones para permitir hacer reglajes durante el funcionamiento de la máquina [2006.01]"
+  },
+  {
+    "code": "B65B 59/04",
+    "description": "••Máquinas construidas con elementos fácilmente desmontables o unibles, p. ej. para facilitar el entretenimiento [2006.01]"
+  },
+  {
+    "code": "B65B 61/00",
+    "description": "Dispositivos accesorios diversos que operan sobre hojas, cintas, bandas, ataduras, receptáculos o paquetes, no previstos en otro lugar [2006.01]"
+  },
+  {
+    "code": "B65B 61/02",
+    "description": "••para perforar, cortar o aplicar marcas de código o de datos antes del embalaje [2006.01]"
+  },
+  {
+    "code": "B65B 61/04",
+    "description": "••para cortar las bandas o para separar los paquetes juntos [2006.01]"
+  },
+  {
+    "code": "B65B 61/06",
+    "description": "••••por corte [2006.01]"
+  },
+  {
+    "code": "B65B 61/08",
+    "description": "••••••sirviéndose de láminas rotativas [2006.01]"
+  },
+  {
+    "code": "B65B 61/10",
+    "description": "••••••sirviéndose de alambres o de láminas calentadas [2006.01]"
+  },
+  {
+    "code": "B65B 61/12",
+    "description": "••••rasgando a lo largo de perforaciones o de líneas de menor resistencia [2006.01]"
+  },
+  {
+    "code": "B65B 61/14",
+    "description": "••para incorporar, o formar e incorporar, asas o medios de suspensión en los paquetes (fijación, o formación y fijación de asas o de argollas de cordón para los sacos de té B65B 29/04) [2006.01]"
+  },
+  {
+    "code": "B65B 61/16",
+    "description": "••••Formación de aberturas de suspensión en los paquetes [2006.01]"
+  },
+  {
+    "code": "B65B 61/18",
+    "description": "••para aplicar o incorporar elementos de apertura o de desembalado de paquetes, p. ej. bandas de desgarre [2006.01]"
+  },
+  {
+    "code": "B65B 61/20",
+    "description": "••para añadir cartas, cupones u otros cartones al contenido (ajustar elementos de desembalaje B65B 61/18) [2006.01]"
+  },
+  {
+    "code": "B65B 61/22",
+    "description": "••••para colocar hojas protectoras, tampones o tapones alrededor del contenido, p. ej. algodón en los tubos de píldoras [2006.01]"
+  },
+  {
+    "code": "B65B 61/24",
+    "description": "••para dar forma o reformar los paquetes acabados [2006.01]"
+  },
+  {
+    "code": "B65B 61/26",
+    "description": "••para marcar o codificar los paquetes acabados [2006.01]"
+  },
+  {
+    "code": "B65B 61/28",
+    "description": "••para descargar de las máquinas los paquetes acabados [2006.01]"
+  },
+  {
+    "code": "B65B 63/00",
+    "description": "Dispositivos accesorios diversos que operan sobre objetos o materiales de embalar, no previstos en otro lugar [2006.01]"
+  },
+  {
+    "code": "B65B 63/02",
+    "description": "••para comprimir o compactar los objetos o productos a embalar antes de embalarlos o de introducirlos en los receptáculos o recipientes [2006.01]"
+  },
+  {
+    "code": "B65B 63/04",
+    "description": "••para plegar o enrollar objetos, p. ej. guantes o medidas [2006.01]"
+  },
+  {
+    "code": "B65B 63/06",
+    "description": "••••Formación de madejas alargadas, p. ej. cordones de zapatos [2006.01]"
+  },
+  {
+    "code": "B65B 63/08",
+    "description": "••para calentar o refrigerar los objetos o productos para facilitar el embalaje [2006.01]"
+  },
+  {
+    "code": "B65B 65/00",
+    "description": "Partes constitutivas especiales de las máquinas de embalar, no previstos en otro lugar; Instalaciones de esas partes constitutivas [2006.01]"
+  },
+  {
+    "code": "B65B 65/02",
+    "description": "••Organos de accionamiento [2006.01]"
+  },
+  {
+    "code": "B65B 65/04",
+    "description": "••Mecanismos para transformar un movimiento continuo rotativo en movimiento intermitente rotativo, p. ej. accionamiento por cruz de Malta [2006.01]"
+  },
+  {
+    "code": "B65B 65/06",
+    "description": "••revestidos o tratados con productos antifricción o antiadherentes, p. ej. el politetrafluoretileno [2006.01]"
+  },
+  {
+    "code": "B65B 65/08",
+    "description": "••Dispositivos para contar o registrar el número de objetos tratados o el número de paquetes producidos por la máquina [2006.01]"
+  },
+  {
+    "code": "B65B 67/00",
+    "description": "Dispositivos o aparatos que facilitan el embalaje a mano; Soportes de sacos [2006.01]"
+  },
+  {
+    "code": "B65B 67/02",
+    "description": "••Embalaje de objetos o productos en receptáculos [2006.01]"
+  },
+  {
+    "code": "B65B 67/04",
+    "description": "••••Dispositivos que facilitan la introducción de artículos separados o de grupos de artículos en sacos [2006.01]"
+  },
+  {
+    "code": "B65B 67/06",
+    "description": "••••Dispositivos operables a mano, cerrar los cuellos de sacos aplicando y fijando elementos de cordón, de alambre o de banda [2006.01]"
+  },
+  {
+    "code": "B65B 67/08",
+    "description": "••Embalaje de objetos por envoltura [2006.01]"
+  },
+  {
+    "code": "B65B 67/10",
+    "description": "••••Mesas de embalado por envoltura [2006.01]"
+  },
+  {
+    "code": "B65B 67/12",
+    "description": "••Soportes de sacos, es decir, bancadas o chasis con dispositivos para sujetar los sacos en posición abierta para facilitar el ensacado de objetos o productos [2006.01]"
+  },
+  {
+    "code": "B65B 69/00",
+    "description": "Desembalaje de objetos o materiales, no previstos en otro lugar [2006.01]"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "code": "H03L 1/00",
+    "description": "Estabilización de la señal de salida del generador contra las variaciones de valores físicos, p. ej. de la alimentación de energía (control automático H03L 5/00, H03L 7/00) [2006.01]"
+  },
+  {
+    "code": "H03L 1/02",
+    "description": "••contra las variaciones de temperatura solamente [2006.01]"
+  },
+  {
+    "code": "H03L 1/04",
+    "description": "••••Detalles estructurales destinados a mantener la temperatura constante [2006.01]"
+  },
+  {
+    "code": "H03L 3/00",
+    "description": "Arranque de generadores [2006.01]"
+  },
+  {
+    "code": "H03L 5/00",
+    "description": "Control automático de la tensión, de la corriente o de la potencia [2006.01]"
+  },
+  {
+    "code": "H03L 5/02",
+    "description": "••de la potencia [2006.01]"
+  },
+  {
+    "code": "H03L 7/00",
+    "description": "Control automático de frecuencia o fase; Sincronización (sintonización de circuitos resonantes en general H03J; sincronización en los sistemas de comunicación digital, ver los grupos apropiados en la clase H04) [2006.01]"
+  },
+  {
+    "code": "H03L 7/02",
+    "description": "••utilizando un discriminador de frecuencia que tiene un elemento pasivo que determina la frecuencia [2006.01]"
+  },
+  {
+    "code": "H03L 7/04",
+    "description": "••••en el que el elemento que determina la frecuencia comprende inductancias y capacidades distribuidas [2006.01]"
+  },
+  {
+    "code": "H03L 7/06",
+    "description": "••utilizando una señal de referencia que es aplicada a un bucle cerrado en frecuencia o en fase [2006.01]"
+  },
+  {
+    "code": "H03L 7/07",
+    "description": "••••utilizando varios bucles, p. ej. para la generación de una señal de reloj redundante (para la síntesis de frecuencia indirecta H03L 7/22) [2006.01]"
+  },
+  {
+    "code": "H03L 7/08",
+    "description": "••••Detalles del bucle cerrado en fase [2006.01]"
+  },
+  {
+    "code": "H03L 7/081",
+    "description": "••••••con un desfasador controlado adicional [2006.01]"
+  },
+  {
+    "code": "H03L 7/083",
+    "description": "••••••siendo aplicada la señal de referencia adicional y directamente al generador (sincronización directa de frecuencia sin bucle H03L 7/24) [2006.01]"
+  },
+  {
+    "code": "H03L 7/085",
+    "description": "••••••concerniendo principalmente la disposición de detección de fase o de frecuencia, incluyendo el filtraje o la amplificación de su señal de salida (H03L 7/10 tiene prioridad; comparación de detección de frecuencia o de fase en general H03D 3/00, H03D 13/00) [2006.01]"
+  },
+  {
+    "code": "H03L 7/087",
+    "description": "••••••••utilizando al menos dos detectores de fase o un detector de frecuencia y de fase en el bucle [2006.01]"
+  },
+  {
+    "code": "H03L 7/089",
+    "description": "••••••••generando el detector de fase o de frecuencia impulsos de aumento o de disminución (H03L 7/087 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H03L 7/091",
+    "description": "••••••••utilizando el detector de fase o de frecuencia un dispositivo de muestreo (H03L 7/087 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H03L 7/093",
+    "description": "••••••••utilizando características de filtraje o de amplificación particulares en el bucle (H03L 7/087-H03L 7/091 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H03L 7/095",
+    "description": "••••••••utilizando un detector de enclavamiento (H03L 7/087 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H03L 7/097",
+    "description": "••••••••utilizando un comparador para comparar las tensiones obtenidas a partir de dos convertidores de frecuencia en tensión [2006.01]"
+  },
+  {
+    "code": "H03L 7/099",
+    "description": "••••••concerniendo principalmente al oscilador controlado del bucle [2006.01]"
+  },
+  {
+    "code": "H03L 7/10",
+    "description": "••••••para asegurar la sincronización inicial o para ensanchar el dominio de enganche [2006.01]"
+  },
+  {
+    "code": "H03L 7/107",
+    "description": "••••••••utilizando una función de transferencia variable para el bucle, p. ej. un filtro pasabajos de anchura de banda variable [2006.01]"
+  },
+  {
+    "code": "H03L 7/113",
+    "description": "••••••••utilizando un discriminador de frecuencia [2006.01]"
+  },
+  {
+    "code": "H03L 7/12",
+    "description": "••••••••utilizando una señal de barrido (circuitos de sintonización con barrido automático de una banda de frecuencia H03J 7/18) [2006.01]"
+  },
+  {
+    "code": "H03L 7/14",
+    "description": "••••••para asegurar una frecuencia constante cuando la tensión de alimentación o la tensión de corrección es defectuosa [2006.01]"
+  },
+  {
+    "code": "H03L 7/16",
+    "description": "••••Síntesis de frecuencia indirecta, es decir, producción de una frecuencia deseada entre un cierto número de frecuencias predeterminadas utilizando un bucle cerrado en frecuencia o en fase [2006.01]"
+  },
+  {
+    "code": "H03L 7/18",
+    "description": "••••••utilizando un divisor de frecuencia o un contador en el bucle (H03L 7/20, H03L 7/22 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H03L 7/181",
+    "description": "••••••••siendo utilizado el resultado de un cómputo digital para enclavar el bucle, y contando el contador durante intervalos de tiempo fijos [2006.01]"
+  },
+  {
+    "code": "H03L 7/183",
+    "description": "••••••••siendo utilizada una diferencia de tiempos para enclavar el bucle, y contando el contador entre dos números fijos o dividiendo el divisor de frecuencia por un número fijo [2006.01]"
+  },
+  {
+    "code": "H03L 7/185",
+    "description": "••••••••••utilizando un mezclador en el bucle (H03L 7/187-H03L 7/195 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H03L 7/187",
+    "description": "••••••••••utilizando medios para sintonizar de modo basto el oscilador controlado por tensión del bucle (H03L 7/191-H03L 7/195 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H03L 7/189",
+    "description": "••••••••••••utilizando un convertidor digital/analógico para producir una sintonía basta de tensión [2006.01]"
+  },
+  {
+    "code": "H03L 7/191",
+    "description": "••••••••••utilizando al menos dos señales diferentes a partir del divisor de frecuencia o del contador para determinar la diferencia de tiempos (H03L 7/193, H03L 7/195 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H03L 7/193",
+    "description": "••••••••••teniendo el contador/divisor de frecuencia un predivisor conmutable, p. ej. un divisor de doble módulo (contadores de impulsos/divisores de frecuencia H03K 21/00-H03K 29/00) [2006.01]"
+  },
+  {
+    "code": "H03L 7/195",
+    "description": "••••••••••en la cual el contador del bucle cuenta entre dos números diferentes no nulos, p. ej. para la generación de una frecuencia de corrección (H03L 7/193 tiene prioridad; contadores de impulsos para conteo predeterminado H03K 21/00-H03K 29/00) [2006.01]"
+  },
+  {
+    "code": "H03L 7/197",
+    "description": "••••••••siendo utilizada una diferencia de tiempos para enclavar el bucle, y contando el contador entre dos números variables en el tiempo o dividiendo el divisor de frecuencia por un factor variable en el tiempo, p. ej. para obtener una división de frecuencia fraccionaria [2006.01]"
+  },
+  {
+    "code": "H03L 7/199",
+    "description": "••••••••••con reposición del divisor de frecuencia o del contador a un valor inicial, p. ej. para permitir una sincronización inicial [2006.01]"
+  },
+  {
+    "code": "H03L 7/20",
+    "description": "••••••utilizando un bucle armónico cerrado en fase, es decir, un bucle que se cierra sobre uno de los armónicos de la frecuencia que le es aplicada (H03L 7/22 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H03L 7/22",
+    "description": "••••••utilizando más de un bucle [2006.01]"
+  },
+  {
+    "code": "H03L 7/23",
+    "description": "••••••••con contadores de impulsos o divisores de frecuencia [2006.01]"
+  },
+  {
+    "code": "H03L 7/24",
+    "description": "••utilizando una señal de referencia directamente aplicada al generador [2006.01]"
+  },
+  {
+    "code": "H03L 7/26",
+    "description": "••utilizando como referencia de frecuencias los niveles de energía de las moléculas, átomos o partículas subatómicas [2006.01]"
+  },
+  {
+    "code": "H03L 9/00",
+    "description": "Control automático no previsto en otros grupos de esta subclase [2006.01]"
+  }
+]

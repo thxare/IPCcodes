@@ -1,0 +1,614 @@
+[
+  {
+    "code": "B28B 1/00",
+    "description": "Fabricación de objetos conformados a partir del material (utilizando prensas B28B 3/00; modelos sobre transportadores en movimiento B28B 5/00; fabricación de objetos de forma tubular B28B 21/00) [2006.01]"
+  },
+  {
+    "code": "B28B 1/02",
+    "description": "••en la rueda de alfarero o en el torno de calibre [2006.01]"
+  },
+  {
+    "code": "B28B 1/04",
+    "description": "••por apisonado o prensado (seguido de un trabajo a la prensa B28B 3/02) [2006.01]"
+  },
+  {
+    "code": "B28B 1/08",
+    "description": "••por vibraciones o sacudidas [2006.01]"
+  },
+  {
+    "code": "B28B 1/087",
+    "description": "••••por medios que actúan en el molde [2006.01]"
+  },
+  {
+    "code": "B28B 1/093",
+    "description": "••••por medios que actúan directamente en el material, p. ej. núcleos completa o parcialmente sumergidos en el material (vibraciones internos para compactación del hormigón in situ\n\t\t\t\t\t\t\t\t\t\t\tE04G 21/08) [2006.01]"
+  },
+  {
+    "code": "B28B 1/10",
+    "description": "••••mediante la aplicación de una presión sin utilizar una prensa [2006.01]"
+  },
+  {
+    "code": "B28B 1/14",
+    "description": "••por simple colada, no siendo el material ni suministrado a presión, ni estando realmente compactado (para materiales fundidos B28B 1/54) [2006.01]"
+  },
+  {
+    "code": "B28B 1/16",
+    "description": "••••para la fabricación de objetos estratificados (revestimiento B28B 11/04) [2006.01]"
+  },
+  {
+    "code": "B28B 1/20",
+    "description": "••por colada centrífuga o rotativa (colada en molde poro absorbente implicando la rotación del molde B28B 1/28; para materiales fundidos B28B 1/54) [2006.01]"
+  },
+  {
+    "code": "B28B 1/24",
+    "description": "••por moldeo por inyección [2006.01]"
+  },
+  {
+    "code": "B28B 1/26",
+    "description": "••por colada en molde poroso o absorbente, es decir, colando una suspensión o una dispersión del material en un absorbente de líquido o un molde poroso, pudiendo el líquido embeberse en las paredes del molde o pasar a través de éstas, p. ej. colaje de barbotina; Moldes a este efecto (B28B 1/52  tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B28B 1/28",
+    "description": "••••haciendo girar el molde [2006.01]"
+  },
+  {
+    "code": "B28B 1/29",
+    "description": "••llenando los moldes al ras de material o vertiéndolo sobre superficies de moldeo [2006.01]"
+  },
+  {
+    "code": "B28B 1/30",
+    "description": "••aplicando el material sobre un macho u otra superficie de moldeo para formar una capa sobre ésta (para formar una capa permanente B28B 19/00) [2006.01]"
+  },
+  {
+    "code": "B28B 1/32",
+    "description": "••••por proyección, p. ej. por pulverización (pulverización en general B05B, B05D) [2006.01]"
+  },
+  {
+    "code": "B28B 1/34",
+    "description": "••••••por la fuerza centrífuga [2006.01]"
+  },
+  {
+    "code": "B28B 1/38",
+    "description": "••••por inmersión (en general B05C, B05D) [2006.01]"
+  },
+  {
+    "code": "B28B 1/40",
+    "description": "••••por envolvimiento, p. ej. por enrollamiento [2006.01]"
+  },
+  {
+    "code": "B28B 1/42",
+    "description": "••••••utilizando mezclas que contienen fibras, p. ej. para la fabricación de hojas por cortado de la capa enrollada [2006.01]"
+  },
+  {
+    "code": "B28B 1/44",
+    "description": "••hundiendo los machos en los moldes ya llenos, para formar objetos huecos [2006.01]"
+  },
+  {
+    "code": "B28B 1/48",
+    "description": "••mediante la extracción de materia a partir de preformas de sección maciza para formar objetos huecos, p. ej. por punzonado o perforado [2006.01]"
+  },
+  {
+    "code": "B28B 1/50",
+    "description": "••especialmente adaptada a la fabricación de objetos de material expandido, p. ej. de hormigón celular (aspectos químicos C04B) [2006.01]"
+  },
+  {
+    "code": "B28B 1/52",
+    "description": "••especialmente adaptada a la fabricación de objetos a partir de mezclas que contienen fibras (por enrollamiento sobre mandriles B28B 1/42) [2006.01]"
+  },
+  {
+    "code": "B28B 1/54",
+    "description": "••especialmente adaptada a la fabricación de objetos a partir de materiales fundidos, p. ej. escorias (aspectos químicos C04B) [2006.01]"
+  },
+  {
+    "code": "B28B 3/00",
+    "description": "Fabricación de objetos conformados mediante la utilización de prensas (conformación sobre transportadores móviles B28B 5/00); Prensas especialmente adaptadas a la realización de este trabajo (prensas en general B30B) [2006.01]"
+  },
+  {
+    "code": "B28B 3/02",
+    "description": "••en la que un punzón ejerce una presión sobre el material en una cavidad de moldeo; Punzones de forma particular [2006.01]"
+  },
+  {
+    "code": "B28B 3/04",
+    "description": "••••con un punzón por molde (B28B 3/10  tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B28B 3/06",
+    "description": "••••••con varios punzones y juegos de moldes [2006.01]"
+  },
+  {
+    "code": "B28B 3/08",
+    "description": "••••con varios punzones por molde [2006.01]"
+  },
+  {
+    "code": "B28B 3/10",
+    "description": "••••estando cada carga del material comprimida contra el objeto precedente [2006.01]"
+  },
+  {
+    "code": "B28B 3/12",
+    "description": "••en la que uno o varios cilindros ejercen una presión sobre el material [2006.01]"
+  },
+  {
+    "code": "B28B 3/14",
+    "description": "••••con cilindros alveolados sincronizados [2006.01]"
+  },
+  {
+    "code": "B28B 3/16",
+    "description": "••••con cilindros perfilados sincronizados [2006.01]"
+  },
+  {
+    "code": "B28B 3/18",
+    "description": "••••Máquinas de anillo y cilindro, es decir, con un cilindro dispuesto en un anillo y funcionando en combinación con la superficie interior del anillo [2006.01]"
+  },
+  {
+    "code": "B28B 3/20",
+    "description": "••en la que el material es extrusado [2006.01]"
+  },
+  {
+    "code": "B28B 3/22",
+    "description": "••••por tornillo [2006.01]"
+  },
+  {
+    "code": "B28B 3/24",
+    "description": "••••por pistones de movimiento alternativo [2006.01]"
+  },
+  {
+    "code": "B28B 3/26",
+    "description": "••••Matrices de extrusión [2006.01]"
+  },
+  {
+    "code": "B28B 5/00",
+    "description": "Fabricación de objetos conformados a partir del material en moldes, o sobre superficies de moldeo soportadas o constituidas por transportadores en el interior o sobre éstos, cualquiera que sea el modo de conformación [2006.01]"
+  },
+  {
+    "code": "B28B 5/02",
+    "description": "••sobre transportadores de tipo correa o cadenas sin fin (en combinación con cilindros compresores B28B 3/12) [2006.01]"
+  },
+  {
+    "code": "B28B 5/04",
+    "description": "••en moldes que se suceden delante de uno o varios puestos de conformación (sobre mesas giratorias B28B 5/06) [2006.01]"
+  },
+  {
+    "code": "B28B 5/06",
+    "description": "••en moldes situados sobre una mesa giratoria [2006.01]"
+  },
+  {
+    "code": "B28B 5/08",
+    "description": "••••con rotación intermitente [2006.01]"
+  },
+  {
+    "code": "B28B 5/10",
+    "description": "••en moldes montados sobre el contorno de un tambor rotativo [2006.01]"
+  },
+  {
+    "code": "B28B 5/12",
+    "description": "••••con rotación intermitente [2006.01]"
+  },
+  {
+    "code": "B28B 7/00",
+    "description": "Moldes; Machos; Mandriles (especialmente adaptados para la fabricación de objetos de forma tubular B28B 21/00) [2006.01]"
+  },
+  {
+    "code": "B28B 7/02",
+    "description": "••Moldes dotados de elementos regulables [2006.01]"
+  },
+  {
+    "code": "B28B 7/04",
+    "description": "••••estando uno o varios de los elementos montados sobre pivotes [2006.01]"
+  },
+  {
+    "code": "B28B 7/06",
+    "description": "••Moldes dotados de elementos flexibles [2006.01]"
+  },
+  {
+    "code": "B28B 7/08",
+    "description": "••Moldes provistos de medios de basculamiento o de vuelco [2006.01]"
+  },
+  {
+    "code": "B28B 7/10",
+    "description": "••Moldes con medios incorporados o soportados por estos moldes, para la expulsión de los objetos moldeados (dispositivos que no forman parte del molde para la eyección de los objetos moldeados B28B 13/06) [2006.01]"
+  },
+  {
+    "code": "B28B 7/12",
+    "description": "••••por presión de fluido [2006.01]"
+  },
+  {
+    "code": "B28B 7/14",
+    "description": "••Moldes con medios incorporados o soportados por ellos, para el recorte de los objetos moldeados en distintas partes (medios para recortar independientes del molde B28B 11/14) [2006.01]"
+  },
+  {
+    "code": "B28B 7/16",
+    "description": "••Moldes para la fabricación de objetos moldeados con cavidades o aberturas [2006.01]"
+  },
+  {
+    "code": "B28B 7/18",
+    "description": "••••atravesando las aberturas el objeto de parte a parte [2006.01]"
+  },
+  {
+    "code": "B28B 7/20",
+    "description": "••Moldes para la fabricación de objetos moldeados con vaciados en contrasalida, p. ej. en cola de milano [2006.01]"
+  },
+  {
+    "code": "B28B 7/22",
+    "description": "••Moldes para la fabricación de elementos de edificios prefabricados; Moldes para la fabricación de elementos de escaleras prefabricadas [2006.01]"
+  },
+  {
+    "code": "B28B 7/24",
+    "description": "••Estructura de molde unitarias con una pluralidad de espacios de moldeo [2006.01]"
+  },
+  {
+    "code": "B28B 7/26",
+    "description": "••Conjuntos ensamblados de moldes independientes [2006.01]"
+  },
+  {
+    "code": "B28B 7/28",
+    "description": "••Machos; Mandriles [2006.01]"
+  },
+  {
+    "code": "B28B 7/30",
+    "description": "••••regulables, replegables o extensibles [2006.01]"
+  },
+  {
+    "code": "B28B 7/32",
+    "description": "••••••inflables (unión de válvulas a cuerpos elásticos inflables B60C 29/00) [2006.01]"
+  },
+  {
+    "code": "B28B 7/34",
+    "description": "••Moldes, machos o mandriles de material especial, p. ej. de material destructible (para colaje en molde poroso o absorbente B28B 1/26) [2006.01]"
+  },
+  {
+    "code": "B28B 7/36",
+    "description": "••Revestimientos interiores o revestimientos (lubrificación de los moldes, de los machos o de los mandriles B28B 7/38) [2006.01]"
+  },
+  {
+    "code": "B28B 7/38",
+    "description": "••Tratamiento de los moldes, de los machos o de los mandriles para impedir que se peguen [2006.01]"
+  },
+  {
+    "code": "B28B 7/40",
+    "description": "••caracterizados por medios para modificar las propiedades del material de moldeo [2006.01]"
+  },
+  {
+    "code": "B28B 7/42",
+    "description": "••••para el calentamiento o el enfriamiento, p. ej. camisa de vapor [2006.01]"
+  },
+  {
+    "code": "B28B 7/44",
+    "description": "••••para el tratamiento mediante gases o para la desgasificación, p. ej. para la desaireación [2006.01]"
+  },
+  {
+    "code": "B28B 7/46",
+    "description": "••••para la humidificación o la deshumidificación [2006.01]"
+  },
+  {
+    "code": "B28B 11/00",
+    "description": "Aparatos o procedimientos para el tratamiento o el trabajo de los objetos conformados (especialmente adaptados a los objetos tubulares B28B 21/92; decoración o tratamiento de superficies en general B05, B44; compactado de hormigón in situ en la construcción E04G 21/06; secado F26) [2006.01]"
+  },
+  {
+    "code": "B28B 11/02",
+    "description": "••para fijar accesorios, p. ej. empuñadoras, canalones [2006.01]"
+  },
+  {
+    "code": "B28B 11/04",
+    "description": "••para el revestimiento (vidriado, cubrimiento terroso C04B) [2006.01]"
+  },
+  {
+    "code": "B28B 11/06",
+    "description": "••••con materiales en polvo o granulados [2006.01]"
+  },
+  {
+    "code": "B28B 11/08",
+    "description": "••para conformar superficies, p. ej. alisado, apisonado con rodillo de puntas, impresionado en relieve, ranurado [2006.01]"
+  },
+  {
+    "code": "B28B 11/10",
+    "description": "••••mediante la utilización de prensas [2006.01]"
+  },
+  {
+    "code": "B28B 11/12",
+    "description": "••para quitar partes de objetos por corte [2006.01]"
+  },
+  {
+    "code": "B28B 11/14",
+    "description": "••para dividir los objetos conformados por recorte [2006.01]"
+  },
+  {
+    "code": "B28B 11/16",
+    "description": "••••después de la extrusión [2006.01]"
+  },
+  {
+    "code": "B28B 11/18",
+    "description": "••para quitar las rebabas [2006.01]"
+  },
+  {
+    "code": "B28B 11/22",
+    "description": "••para limpiar los objetos [2006.01]"
+  },
+  {
+    "code": "B28B 11/24",
+    "description": "••para curar, fraguar o endurecer (procesos para influenciar o modificar la aptitud de fraguar o de endurecer de las composiciones para mortero, hormigón o piedra artificial, en general C04B 40/00) [2006.01]"
+  },
+  {
+    "code": "B28B 13/00",
+    "description": "Suministro de material a los moldes o a los aparatos de producción de objetos; Extracción de estos objetos de los moldes o de los aparatos (dispositivos de alimentación o de eyección incorporados a un tipo particular de aparato de conformación, o asociados con éstos, o especialmente estudiados para el suministro de materiales de tipos particulares de aparatos de conformación, ver los grupos correspondientes a los aparatos) [2006.01]"
+  },
+  {
+    "code": "B28B 13/02",
+    "description": "••Suministro de material no conformado a los moldes o a los aparatos destinados a la fabricación de objetos conformados [2006.01]"
+  },
+  {
+    "code": "B28B 13/04",
+    "description": "••Descarga de artículos formados (sistemas de transporte para moldes cerámicos B65G 49/08) [2006.01]"
+  },
+  {
+    "code": "B28B 13/06",
+    "description": "••••Extracción de los objetos conformados de los moldes (por medios incorporados a los moldes mismos o soportados por éstos B28B 7/10) [2006.01]"
+  },
+  {
+    "code": "B28B 15/00",
+    "description": "Disposición general o distribución en planta de las instalaciones [2006.01]"
+  },
+  {
+    "code": "B28B 17/00",
+    "description": "Partes constitutivas o accesorios de los aparatos de conformar el material; Medidas auxiliares tomadas en relación con tal fabricación (moldes B28B 7/00; postratamiento B28B 11/00; alimentación o eyección B28B 13/00; dispositivos para embutir elementos al material B28B 23/00; partes constitutivas, accesorios o medidas auxiliares especiales para un tipo dado de máquina de conformar o de métodos de conformación, ver los grupos correspondientes a tales máquinas o métodos) [2006.01]"
+  },
+  {
+    "code": "B28B 17/02",
+    "description": "••Acondicionamiento del material antes de la conformación [2006.01]"
+  },
+  {
+    "code": "B28B 17/04",
+    "description": "••Desempolvado [2006.01]"
+  },
+  {
+    "code": "B28B 19/00",
+    "description": "Máquinas o métodos para aplicar el material a superficies a fin de formar una capa permanente sobre estas ultimas (fabricación de objetos realizada sobre mandriles B28B 1/30; aplicación de líquidos u otras materias fluidas a las superficies en general B05C; vidriado o revestimiento terroso C04B; aplicación del material sobre paredes u otras estructuras, ver las diferentes clases de la sección E) [2006.01]"
+  },
+  {
+    "code": "B28B 21/00",
+    "description": "Procedimientos o máquinas especialmente adaptados para la fabricación de objetos de forma tubular [2006.01]"
+  },
+  {
+    "code": "B28B 21/02",
+    "description": "••por colada en moldes [2006.01]"
+  },
+  {
+    "code": "B28B 21/04",
+    "description": "••••por colada simple, no estando realmente el material ni compactado ni comprimido [2006.01]"
+  },
+  {
+    "code": "B28B 21/06",
+    "description": "••••en moldes, de paredes porosas (B28B 21/26 tiene prioridad; cajas, encofrados o elementos de andamiaje para la construcción de habitaciones enteras, plantas enteras, o edificios enteros in situ\n\t\t\t\t\t\t\t\t\t\t\tE04G 11/02) [2006.01]"
+  },
+  {
+    "code": "B28B 21/08",
+    "description": "••••por el sistema de molde poroso o absorbente; Moldes correspondientes [2006.01]"
+  },
+  {
+    "code": "B28B 21/10",
+    "description": "••••utilizando medios de compactado [2006.01]"
+  },
+  {
+    "code": "B28B 21/12",
+    "description": "••••••por compresión o apisonado del material o de los elementos del molde [2006.01]"
+  },
+  {
+    "code": "B28B 21/14",
+    "description": "••••••por vibración, p. ej. de la superficie del material [2006.01]"
+  },
+  {
+    "code": "B28B 21/16",
+    "description": "••••••••de uno o varios elementos del molde [2006.01]"
+  },
+  {
+    "code": "B28B 21/18",
+    "description": "••••••utilizando moldes o machos expansibles o retractables [2006.01]"
+  },
+  {
+    "code": "B28B 21/20",
+    "description": "••••••••utilizando machos inflables, p. ej. dotados de una armadura en el interior de la parte inflable del macho (unión de válvulas a cuerpos elásticos inflables B60C 29/00) [2006.01]"
+  },
+  {
+    "code": "B28B 21/22",
+    "description": "••••••utilizando moldes o elementos de machos rotativos [2006.01]"
+  },
+  {
+    "code": "B28B 21/24",
+    "description": "••••••••utilizando cabezas de compactado, rodillos o dispositivos análogos [2006.01]"
+  },
+  {
+    "code": "B28B 21/26",
+    "description": "••••••••••con una cabeza incorporada utilizable como un molde poroso o provista de medios de guiado para el avance del material [2006.01]"
+  },
+  {
+    "code": "B28B 21/28",
+    "description": "••••••••••combinados con vibradores [2006.01]"
+  },
+  {
+    "code": "B28B 21/30",
+    "description": "••••••••Moldeo centrífugo [2006.01]"
+  },
+  {
+    "code": "B28B 21/32",
+    "description": "••••••••••haciendo avanzar el material en el interior de los moldes [2006.01]"
+  },
+  {
+    "code": "B28B 21/34",
+    "description": "••••••••••combinado con vibradores u otros medios adicionales de compactado [2006.01]"
+  },
+  {
+    "code": "B28B 21/36",
+    "description": "••••••haciendo actuar la presión de un fluido o del vacío, sobre el material (combinado con un procedimiento de moldeo en molde poroso o absorbente B28B 21/08) [2006.01]"
+  },
+  {
+    "code": "B28B 21/38",
+    "description": "••••••••siendo admitido el material total o parcialmente a presión [2006.01]"
+  },
+  {
+    "code": "B28B 21/40",
+    "description": "••••••••desprendiendo una o varias partes del molde [2006.01]"
+  },
+  {
+    "code": "B28B 21/42",
+    "description": "••por conformado sobre mandriles o superficies de moldeo similares [2006.01]"
+  },
+  {
+    "code": "B28B 21/44",
+    "description": "••••por proyección, p. ej. por pulverización [2006.01]"
+  },
+  {
+    "code": "B28B 21/46",
+    "description": "••••por inmersión [2006.01]"
+  },
+  {
+    "code": "B28B 21/48",
+    "description": "••••por envolvimiento, p. ej. por enrollamiento [2006.01]"
+  },
+  {
+    "code": "B28B 21/50",
+    "description": "••••Detalles de los medios de compresión o de compactado [2006.01]"
+  },
+  {
+    "code": "B28B 21/52",
+    "description": "••por extrusión [2006.01]"
+  },
+  {
+    "code": "B28B 21/54",
+    "description": "••••Elementos para dar forma a las embocaduras, los codos u otros objetos tubulares conformados de manera particular [2006.01]"
+  },
+  {
+    "code": "B28B 21/56",
+    "description": "••por incorporación de refuerzos [2006.01]"
+  },
+  {
+    "code": "B28B 21/58",
+    "description": "••••tubos de acero [2006.01]"
+  },
+  {
+    "code": "B28B 21/60",
+    "description": "••••refuerzos pretensados [2006.01]"
+  },
+  {
+    "code": "B28B 21/62",
+    "description": "••••••sobre el contorno [2006.01]"
+  },
+  {
+    "code": "B28B 21/64",
+    "description": "••••••••Dispositivos de enrollamiento [2006.01]"
+  },
+  {
+    "code": "B28B 21/66",
+    "description": "••••••Mástiles de refuerzo [2006.01]"
+  },
+  {
+    "code": "B28B 21/68",
+    "description": "••••y aplicando la fuerza centrífuga [2006.01]"
+  },
+  {
+    "code": "B28B 21/70",
+    "description": "••a partir de elementos preformados [2006.01]"
+  },
+  {
+    "code": "B28B 21/72",
+    "description": "••••Fabricación de tubos con varios codos [2006.01]"
+  },
+  {
+    "code": "B28B 21/74",
+    "description": "••••Fabricación de codos, de embocaduras, de manguitos; Moldes correspondientes (combinados con prensas de extrusión B28B 21/54) [2006.01]"
+  },
+  {
+    "code": "B28B 21/76",
+    "description": "••Moldes [2006.01]"
+  },
+  {
+    "code": "B28B 21/78",
+    "description": "••••con medios de calefacción o de enfriamiento, p. ej. envolturas de vapor [2006.01]"
+  },
+  {
+    "code": "B28B 21/80",
+    "description": "••••concebidos para el moldeo centrífugo o rotativo [2006.01]"
+  },
+  {
+    "code": "B28B 21/82",
+    "description": "••••constituidos de varios elementos; Moldes múltiples; Moldes de elementos regulables [2006.01]"
+  },
+  {
+    "code": "B28B 21/84",
+    "description": "••••••Moldes con uno o varios elementos pivotantes [2006.01]"
+  },
+  {
+    "code": "B28B 21/86",
+    "description": "••Machos (en general B28B 7/00) [2006.01]"
+  },
+  {
+    "code": "B28B 21/88",
+    "description": "••••regulables, desmontables o expandibles (utilizando machos inflables B28B 21/20) [2006.01]"
+  },
+  {
+    "code": "B28B 21/90",
+    "description": "••Métodos o aparatos para la eyección de los objetos después de la conformación [2006.01]"
+  },
+  {
+    "code": "B28B 21/92",
+    "description": "••Métodos o aparatos para el tratamiento final o el remoldeo [2006.01]"
+  },
+  {
+    "code": "B28B 21/94",
+    "description": "••••para la impregnación o el revestimiento mediante la aplicación de líquidos o semilíquidos [2006.01]"
+  },
+  {
+    "code": "B28B 21/96",
+    "description": "••••para el alisado, el apisonado con el rodillo de puntas, el impresionado en relieve o para quitar las rebabas [2006.01]"
+  },
+  {
+    "code": "B28B 21/98",
+    "description": "••••para el remoldeo, p. ej. por medio de moldes de remoldeo [2006.01]"
+  },
+  {
+    "code": "B28B 23/00",
+    "description": "Dispositivos especialmente adaptados para la fabricación de objetos conformados dotados de elementos total o parcialmente embutidos en el material de moldeo (B28B 21/00 tiene prioridad; combinados con moldes para la fabricación de elementos de edificios prefabricados B28B 7/22) [2006.01]"
+  },
+  {
+    "code": "B28B 23/02",
+    "description": "••en los que los elementos embutidos son refuerzos [2006.01]"
+  },
+  {
+    "code": "B28B 23/04",
+    "description": "••••estando sometidos a tensión los elementos embutidos [2006.01]"
+  },
+  {
+    "code": "B28B 23/06",
+    "description": "••••••para la fabricación de objetos de forma alargada [2006.01]"
+  },
+  {
+    "code": "B28B 23/08",
+    "description": "••••••••de forma tubular [2006.01]"
+  },
+  {
+    "code": "B28B 23/10",
+    "description": "••••••el conformado se efectúa por moldeo centrífugo o rotativo [2006.01]"
+  },
+  {
+    "code": "B28B 23/12",
+    "description": "••••••para formar refuerzos precontraídos sobre el contorno [2006.01]"
+  },
+  {
+    "code": "B28B 23/14",
+    "description": "••••••••por dispositivos de envolvimiento, p. ej. por dispositivos de enrollado [2006.01]"
+  },
+  {
+    "code": "B28B 23/16",
+    "description": "••••••••Redes de refuerzo precontraídos [2006.01]"
+  },
+  {
+    "code": "B28B 23/18",
+    "description": "••••para la fabricación de artículos alargados (B28B 23/06 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B28B 23/20",
+    "description": "••••el conformado se efectúa por moldeo centrífugo o rotativo (B28B 23/10 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B28B 23/22",
+    "description": "••••ensamblados a partir de elementos prefabricados [2006.01]"
+  }
+]

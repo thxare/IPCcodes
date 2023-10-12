@@ -1,0 +1,266 @@
+[
+  {
+    "code": "H05H 1/00",
+    "description": "Producción del plasma; Manipulación del plasma (aplicación de la técnica del plasma a reactores de fusión termonuclear G21B 1/00) [2006.01]"
+  },
+  {
+    "code": "H05H 1/02",
+    "description": "••Disposiciones para confinar el plasma por medio de campos eléctricos o magnéticos; Disposiciones para calentar el plasma (óptica electrónica H01J) [2006.01]"
+  },
+  {
+    "code": "H05H 1/03",
+    "description": "••••utilizando campos electrostáticos [2006.01]"
+  },
+  {
+    "code": "H05H 1/04",
+    "description": "••••utilizando campos magnéticos sustancialmente generados por la descarga en el plasma [2006.01]"
+  },
+  {
+    "code": "H05H 1/06",
+    "description": "••••••Dispositivos de retención longitudinal [2006.01]"
+  },
+  {
+    "code": "H05H 1/08",
+    "description": "••••••Dispositivos de retención theta [2006.01]"
+  },
+  {
+    "code": "H05H 1/10",
+    "description": "••••utilizando solamente campos magnéticos aplicados [2006.01]"
+  },
+  {
+    "code": "H05H 1/11",
+    "description": "••••••utilizando una configuración en aguja (H05H 1/14 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H05H 1/12",
+    "description": "••••••en donde el recinto forma un bucle cerrado [2006.01]"
+  },
+  {
+    "code": "H05H 1/14",
+    "description": "••••••en donde el recinto es recto y tiene un espejo magnético [2006.01]"
+  },
+  {
+    "code": "H05H 1/16",
+    "description": "••••utilizando campos eléctricos o magnéticos [2006.01]"
+  },
+  {
+    "code": "H05H 1/18",
+    "description": "••••••en donde los campos oscilan a muy altas frecuencias, p. ej. en la banda de microondas [2006.01]"
+  },
+  {
+    "code": "H05H 1/20",
+    "description": "••••Calefacción óhmica [2006.01]"
+  },
+  {
+    "code": "H05H 1/22",
+    "description": "••••para calefacción por inyección [2006.01]"
+  },
+  {
+    "code": "H05H 1/24",
+    "description": "••Producción del plasma [2006.01]"
+  },
+  {
+    "code": "H05H 1/26",
+    "description": "••••Antorchas de plasma [2006.01]"
+  },
+  {
+    "code": "H05H 1/28",
+    "description": "••••••Disposiciones para el enfriamiento [2006.01]"
+  },
+  {
+    "code": "H05H 1/30",
+    "description": "••••••utilizando campos electromagnéticos aplicados, p. ej. energía a alta frecuencia o en forma de microondas (H05H 1/28 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H05H 1/32",
+    "description": "••••••utilizando un arco (H05H 1/28 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H05H 1/34",
+    "description": "••••••••Detalles, p. ej. electrodos, toberas [2006.01]"
+  },
+  {
+    "code": "H05H 1/36",
+    "description": "••••••••••Disposiciones de circuitos (H05H 1/38, H05H 1/40 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H05H 1/38",
+    "description": "••••••••••Guiado o centrado de electrodos [2006.01]"
+  },
+  {
+    "code": "H05H 1/40",
+    "description": "••••••••••utilizando campos magnéticos aplicados, p. ej. para enfocar o para hacer girar el arco [2006.01]"
+  },
+  {
+    "code": "H05H 1/42",
+    "description": "••••••••con disposiciones para la introducción de materiales en el plasma, p. ej. polvo, líquido (pulverización electrostática, aparatos de pulverización con medios para cargar eléctricamente el pulverizante B05B 5/00) [2006.01]"
+  },
+  {
+    "code": "H05H 1/44",
+    "description": "••••••••utilizando varias antorchas [2006.01]"
+  },
+  {
+    "code": "H05H 1/46",
+    "description": "••••utilizando campos electromagnéticos aplicados, p. ej. energía a alta frecuencia o en forma de microondas (H05H 1/26 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H05H 1/48",
+    "description": "••••utilizando un arco (H05H 1/26 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H05H 1/50",
+    "description": "••••••y utilizando campos magnéticos aplicados, p. ej. para enfocar o para hacer girar el arco [2006.01]"
+  },
+  {
+    "code": "H05H 1/52",
+    "description": "••••utilizando hilos explosivos o espinterómetros (H05H 1/26 tiene prioridad; espinterómetros en general H01T) [2006.01]"
+  },
+  {
+    "code": "H05H 1/54",
+    "description": "••Aceleradores de plasma [2006.01]"
+  },
+  {
+    "code": "H05H 3/00",
+    "description": "Producción o aceleración de haces de partículas neutras, p. ej. de haces moleculares o atómicos [2006.01]"
+  },
+  {
+    "code": "H05H 3/02",
+    "description": "••Producción de un haz molecular o atómico, p. ej. de un haz resonante (másers de gas H01S 1/06) [2006.01]"
+  },
+  {
+    "code": "H05H 3/04",
+    "description": "••Aceleración por la presión de una onda electromagnética [2006.01]"
+  },
+  {
+    "code": "H05H 3/06",
+    "description": "••Producción de haces de neutrones (blancos para la producción de reacciones nucleares H05H 6/00; fuentes de neutrones G21G 4/02) [2006.01]"
+  },
+  {
+    "code": "H05H 5/00",
+    "description": "Aceleradores de tensión continua; Aceleradores que utilizan impulsos únicos (H05H 3/06 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H05H 5/02",
+    "description": "••Detalles (blancos para la producción de reacciones nucleares H05H 6/00) [2006.01]"
+  },
+  {
+    "code": "H05H 5/03",
+    "description": "••••Tubos de aceleración (ampollas o recipientes de tubos de descarga que tienen una distribución de potencial mejorada sobre la superficie de la ampolla H01J 5/06; blindaje de tubos de rayos X asociados con las ampollas o recipientes H01J 35/16) [2006.01]"
+  },
+  {
+    "code": "H05H 5/04",
+    "description": "••alimentados por generadores electrostáticos, p. ej. generador de Van de Graaff [2006.01]"
+  },
+  {
+    "code": "H05H 5/06",
+    "description": "••Aceleradores en serie; Aceleradores de etapas múltiples [2006.01]"
+  },
+  {
+    "code": "H05H 5/08",
+    "description": "••Aceleradores de partículas que utilizan transformadores elevadores, p. ej. transformadores de resonancia [2006.01]"
+  },
+  {
+    "code": "H05H 6/00",
+    "description": "Blancos para la producción de reacciones nucleares (soportes para blancos u objetos a irradiar G21K 5/08) [2006.01]"
+  },
+  {
+    "code": "H05H 7/00",
+    "description": "Detalles de dispositivos de los tipos cubiertos por los grupos H05H 9/00-H05H 13/00 (blancos para la producción de reacciones nucleares H05H 6/00) [2006.01]"
+  },
+  {
+    "code": "H05H 7/02",
+    "description": "••Circuitos o sistemas para suministrar energía a alta frecuencia (generadores a alta frecuencia H03B) [2006.01]"
+  },
+  {
+    "code": "H05H 7/04",
+    "description": "••Sistemas de imanes; Su excitación [2006.01]"
+  },
+  {
+    "code": "H05H 7/06",
+    "description": "••Disposiciones de dos haces; Disposiciones de multihaces [2006.01]"
+  },
+  {
+    "code": "H05H 7/08",
+    "description": "••Disposiciones para situar las partículas sobre sus órbitas [2006.01]"
+  },
+  {
+    "code": "H05H 7/10",
+    "description": "••Disposiciones para extraer las partículas de sus órbitas [2006.01]"
+  },
+  {
+    "code": "H05H 7/12",
+    "description": "••Disposiciones para variar la energía final de un haz [2006.01]"
+  },
+  {
+    "code": "H05H 7/14",
+    "description": "••Cámara de vacío (H05H 5/03 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H05H 7/16",
+    "description": "••••del tipo guía de onda [2006.01]"
+  },
+  {
+    "code": "H05H 7/18",
+    "description": "••••Cavidades; Resonadores [2006.01]"
+  },
+  {
+    "code": "H05H 7/20",
+    "description": "••••••con paredes superconductoras [2006.01]"
+  },
+  {
+    "code": "H05H 7/22",
+    "description": "••Detalles de los aceleradores lineales, p. ej. tubos de desviación (H05H 7/02-H05H 7/20 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H05H 9/00",
+    "description": "Aceleradores lineales (H05H 11/00 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H05H 9/02",
+    "description": "••Aceleradores lineales de ondas progresivas [2006.01]"
+  },
+  {
+    "code": "H05H 9/04",
+    "description": "••Aceleradores lineales de ondas estacionarias [2006.01]"
+  },
+  {
+    "code": "H05H 11/00",
+    "description": "Aceleradores de inducción magnética, p. ej. betatrones [2006.01]"
+  },
+  {
+    "code": "H05H 11/02",
+    "description": "••Betatrones de núcleo de aire [2006.01]"
+  },
+  {
+    "code": "H05H 11/04",
+    "description": "••Betatrones con campo magnético continuo superpuesto [2006.01]"
+  },
+  {
+    "code": "H05H 13/00",
+    "description": "Aceleradores de resonancia magnética; Ciclotrones [2006.01]"
+  },
+  {
+    "code": "H05H 13/02",
+    "description": "••Sincrociclotrones, es decir, ciclotrones modulados en frecuencia [2006.01]"
+  },
+  {
+    "code": "H05H 13/04",
+    "description": "••Sincrotrones [2006.01]"
+  },
+  {
+    "code": "H05H 13/06",
+    "description": "••Aceleradores de resonancia magnética de núcleo de aire [2006.01]"
+  },
+  {
+    "code": "H05H 13/08",
+    "description": "••Aceleradores de resonancia magnética de gradiente alternativo [2006.01]"
+  },
+  {
+    "code": "H05H 13/10",
+    "description": "••Aceleradores que comprenden una o varias secciones de aceleración lineal e imanes de curvatura o de dispositivos análogos para hacer volver las partículas cargadas a una trayectoria paralela a la primera sección de aceleración, p. ej. microtrones [2006.01]"
+  },
+  {
+    "code": "H05H 15/00",
+    "description": "Métodos o dispositivos para acelerar partículas cargadas no previstos en otros lugares [2006.01]"
+  }
+]

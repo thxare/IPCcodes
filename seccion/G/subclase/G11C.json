@@ -1,0 +1,786 @@
+[
+  {
+    "code": "G11C 5/00",
+    "description": "Detalles de memorias cubiertos por el grupo G11C 11/00 [2006.01]"
+  },
+  {
+    "code": "G11C 5/02",
+    "description": "••Disposición de elementos de almacenamiento, p. ej. bajo la forma de una matriz [2006.01]"
+  },
+  {
+    "code": "G11C 5/04",
+    "description": "••••Soportes para elementos de almacenamiento; Montaje o fijación de elementos sobre tales soportes [2006.01]"
+  },
+  {
+    "code": "G11C 5/05",
+    "description": "••••••Soportes de núcleos en una matriz [2006.01]"
+  },
+  {
+    "code": "G11C 5/06",
+    "description": "••Disposiciones para interconectar eléctricamente elementos de almacenamiento, p. ej. por cableado [2006.01]"
+  },
+  {
+    "code": "G11C 5/08",
+    "description": "••••para interconectar elementos magnéticos, p. ej. núcleos toroidales [2006.01]"
+  },
+  {
+    "code": "G11C 5/10",
+    "description": "••••para interconectar capacidades [2006.01]"
+  },
+  {
+    "code": "G11C 5/12",
+    "description": "••Aparatos o procedimientos para interconectar elementos de almacenamiento, p. ej. para enhebrar núcleos magnéticos [2006.01]"
+  },
+  {
+    "code": "G11C 5/14",
+    "description": "••Disposiciones para la alimentación [2006.01]"
+  },
+  {
+    "code": "G11C 7/00",
+    "description": "Disposiciones para escribir una información o para leer una información en una memoria digital (G11C 5/00 tiene prioridad; circuitos auxiliares para memorias que utilizan dispositivos semiconductores G11C 11/4063, G11C 11/413, G11C 11/4193) [2006.01]"
+  },
+  {
+    "code": "G11C 7/02",
+    "description": "••con medios para evitar las señales parásitas [2006.01]"
+  },
+  {
+    "code": "G11C 7/04",
+    "description": "••con medios para evitar perturbaciones debidas a efectos térmicos [2006.01]"
+  },
+  {
+    "code": "G11C 7/06",
+    "description": "••Amplificadores para lectura; Circuitos asociados [2006.01]"
+  },
+  {
+    "code": "G11C 7/08",
+    "description": "••••Control de los mismos [2006.01]"
+  },
+  {
+    "code": "G11C 7/10",
+    "description": "••Disposiciones de interfaz para entrada/salida [I/O] de datos, p. ej. circuitos de control de entrada/salida [I/O] de datos, memorias intermedias de entrada/salida [I/O] de datos [2006.01]"
+  },
+  {
+    "code": "G11C 7/12",
+    "description": "••Circuitos de control de líneas de bits, p. ej. circuitos de excitación, de potencia, de arrastre hacía arriba (pull-up), de empuje hacía abajo (pull-down), circuitos de precarga, circuitos de igualación, para líneas de bits [2006.01]"
+  },
+  {
+    "code": "G11C 7/14",
+    "description": "••Gestión de celdas ficticias; Generadores de tensión de referencia para lectura [2006.01]"
+  },
+  {
+    "code": "G11C 7/16",
+    "description": "••Almacenamiento de señales analógicas en memorias digitales utilizando una disposición que comprende convertidores analógico/digitales [A/D], memorias digitales y convertidores digitales/analógicos [D/A] [2006.01]"
+  },
+  {
+    "code": "G11C 7/18",
+    "description": "••Organización de líneas de bits; Disposición de líneas de bits [2006.01]"
+  },
+  {
+    "code": "G11C 7/20",
+    "description": "••Circuitos de inicialización de celdas de memoria, p. ej. al activar o desactivar, borrado de memoria, memoria de imagen latente [2006.01]"
+  },
+  {
+    "code": "G11C 7/22",
+    "description": "••Circuitos de sincronización o de reloj para la lectura-escritura [R-W]; Generadores o gestión de señales de control para la lectura-escritura [R-W] [2006.01]"
+  },
+  {
+    "code": "G11C 7/24",
+    "description": "••Circuitos de protección o de seguridad para celdas de memoria, p. ej. disposiciones para impedir la lectura o la escritura involuntaria; Celdas de estado; Celdas de prueba [2006.01]"
+  },
+  {
+    "code": "G11C 8/00",
+    "description": "Disposiciones para seleccionar una dirección en una memoria digital (circuitos auxiliares para memorias que utilizan dispositivos semiconductores G11C 11/4063, G11C 11/413, G11C 11/4193) [2006.01]"
+  },
+  {
+    "code": "G11C 8/02",
+    "description": "••utilizando una matriz de selección [2006.01]"
+  },
+  {
+    "code": "G11C 8/04",
+    "description": "••que utilizan un dispositivo de direccionamiento secuencial, p. ej. registro de desplazamiento, contador [2006.01]"
+  },
+  {
+    "code": "G11C 8/06",
+    "description": "••Disposiciones de interfaz de direcciones, p. ej. memorias intermedias de direcciones [2006.01]"
+  },
+  {
+    "code": "G11C 8/08",
+    "description": "••Circuitos de control de líneas de palabras, p. ej. circuitos de excitación, de potencia, de arrastre hacía arriba (pull-up), de empuje hacía abajo (pull-down), circuitos de precarga, circuitos de igualación, para líneas de palabras [2006.01]"
+  },
+  {
+    "code": "G11C 8/10",
+    "description": "••Descodificadores [2006.01]"
+  },
+  {
+    "code": "G11C 8/12",
+    "description": "••Circuitos de selección de grupo, p. ej. para la selección de un bloque de memoria, la selección de un circuito integrado, la selección de una red de celdas [2006.01]"
+  },
+  {
+    "code": "G11C 8/14",
+    "description": "••Organización de líneas de palabras; Disposición de líneas de palabras [2006.01]"
+  },
+  {
+    "code": "G11C 8/16",
+    "description": "••Red de memoria de acceso múltiple, p. ej. direccionamiento de un elemento de almacenamiento mediante al menos dos grupos de líneas de direccionamiento independientes [2006.01]"
+  },
+  {
+    "code": "G11C 8/18",
+    "description": "••Circuitos de sincronización o de reloj; Generación o gestión de señales de control de dirección, p. ej. para las señales de selección de dirección de línea [RAS] o de selección de dirección de columna [CAS] [2006.01]"
+  },
+  {
+    "code": "G11C 8/20",
+    "description": "••Circuitos de seguridad o de protección de dirección, es decir, disposiciones para impedir un acceso no autorizado o accidental [2006.01]"
+  },
+  {
+    "code": "G11C 11/00",
+    "description": "Memorias digitales caracterizadas por la utilización de elementos de almacenamiento eléctricos o magnéticos particulares; Elementos de almacenamiento correspondientes (G11C 14/00-G11C 21/00 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G11C 11/02",
+    "description": "••que utilizan elementos magnéticos [2006.01]"
+  },
+  {
+    "code": "G11C 11/04",
+    "description": "••••que utilizan elementos de almacenamiento de forma cilíndrica, p. ej. barra, hilo (G11C 11/12, G11C 11/14 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G11C 11/06",
+    "description": "••••que utilizan elementos de almacenamiento de simple abertura, p. ej. núcleo anular; que utilizan placas de varias aberturas en las que cada abertura constituye un elemento de almacenamiento [2006.01]"
+  },
+  {
+    "code": "G11C 11/061",
+    "description": "••••••que utilizan elementos de una sola abertura o de bucle magnético único, a razón de un elemento por bit, y para la lectura destructiva [2006.01]"
+  },
+  {
+    "code": "G11C 11/063",
+    "description": "••••••••organizados por bit, p. ej. organización 2L/2D, 3D, es decir, para la selección de un elemento por medio de al menos dos corrientes parciales coincidentes, tanto para la lectura como la escritura [2006.01]"
+  },
+  {
+    "code": "G11C 11/065",
+    "description": "••••••••organizados por palabras, p. ej. organización 2D o selección lineal, es decir, para la selección de todos los elementos de una palabra por medio de una corriente completa para la lectura [2006.01]"
+  },
+  {
+    "code": "G11C 11/067",
+    "description": "••••••que utilizan elemento de una sola abertura o de bucle magnético único, a razón de un elemento por bit, y para la lectura no destructiva [2006.01]"
+  },
+  {
+    "code": "G11C 11/08",
+    "description": "••••que utilizan elementos de almacenamiento de aberturas múltiples, p. ej. que utilizan un transfluxor; que utilizan placas que tienen varios elementos de almacenamiento individuales de aberturas múltiples (G11C 11/10 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G11C 11/10",
+    "description": "••••que utilizan elementos de almacenamiento multi-axiales [2006.01]"
+  },
+  {
+    "code": "G11C 11/12",
+    "description": "••••que utilizan tensores; que utilizan tuistors, es decir, elementos en los que un eje de magnetización es retorcido [2006.01]"
+  },
+  {
+    "code": "G11C 11/14",
+    "description": "••••que utilizan elementos de películas finas [2006.01]"
+  },
+  {
+    "code": "G11C 11/15",
+    "description": "••••••que utilizan capas magnéticas múltiples (G11C 11/155 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G11C 11/155",
+    "description": "••••••con una configuración cilíndrica [2006.01]"
+  },
+  {
+    "code": "G11C 11/16",
+    "description": "••••que utilizan elementos en los que el efecto de almacenamiento está basado en el efecto de spin magnético [2006.01]"
+  },
+  {
+    "code": "G11C 11/18",
+    "description": "••que utilizan dispositivos de efecto Hall [2006.01]"
+  },
+  {
+    "code": "G11C 11/19",
+    "description": "••que utilizan dispositivos reactivos no lineales en los circuitos resonantes [2006.01]"
+  },
+  {
+    "code": "G11C 11/20",
+    "description": "••••que utilizan parametrones [2006.01]"
+  },
+  {
+    "code": "G11C 11/21",
+    "description": "••que utilizan elementos eléctricos [2006.01]"
+  },
+  {
+    "code": "G11C 11/22",
+    "description": "••••que utilizan elementos ferroeléctricos [2006.01]"
+  },
+  {
+    "code": "G11C 11/23",
+    "description": "••••que utilizan almacenamiento electrostático sobre una capa común, p. ej. tubos de Forester-Haeff (G11C 11/22 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G11C 11/24",
+    "description": "••••que utilizan condensadores (G11C 11/22 tiene prioridad; utilizando una combinación de dispositivos a semiconductores y de condensadores G11C 11/34, p. ej. G11C 11/40) [2006.01]"
+  },
+  {
+    "code": "G11C 11/26",
+    "description": "••••que utilizan tubos de descarga [2006.01]"
+  },
+  {
+    "code": "G11C 11/28",
+    "description": "••••••que utilizan tubos de atmósfera gaseosa [2006.01]"
+  },
+  {
+    "code": "G11C 11/30",
+    "description": "••••••que utilizan tubos de vacío (G11C 11/23 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G11C 11/34",
+    "description": "••••que utilizan dispositivos de semiconductores [2006.01]"
+  },
+  {
+    "code": "G11C 11/35",
+    "description": "••••••con almacenamiento de cargas en una región de empobrecimiento, p. ej. dispositivos acoplados por carga (CCD) [2006.01]"
+  },
+  {
+    "code": "G11C 11/36",
+    "description": "••••••que utilizan diodos, p. ej. utilizados como elementos de entrada [2006.01]"
+  },
+  {
+    "code": "G11C 11/38",
+    "description": "••••••••que utilizan diodos túnel [2006.01]"
+  },
+  {
+    "code": "G11C 11/39",
+    "description": "••••••utilizando tiristores [2006.01]"
+  },
+  {
+    "code": "G11C 11/40",
+    "description": "••••••que utilizan transistores [2006.01]"
+  },
+  {
+    "code": "G11C 11/401",
+    "description": "••••••••formando celdas que necesiten un refresco o una regeneración de la carga, es decir celdas dinámicas [2006.01]"
+  },
+  {
+    "code": "G11C 11/402",
+    "description": "••••••••••con regeneración de la carga individual de cada celda de memoria, es decir refresco interno [2006.01]"
+  },
+  {
+    "code": "G11C 11/403",
+    "description": "••••••••••con regeneración de la carga común a varias celdas de memoria, es decir refresco externo [2006.01]"
+  },
+  {
+    "code": "G11C 11/404",
+    "description": "••••••••••••con una puerta de transferencia de carga, p. ej. un transistor MOS, por celda [2006.01]"
+  },
+  {
+    "code": "G11C 11/405",
+    "description": "••••••••••••con tres puertas de transferencia de carga, p. ej. transistores MOS, por celda [2006.01]"
+  },
+  {
+    "code": "G11C 11/406",
+    "description": "••••••••••Organización o control de los ciclos de de refresco o de regeneración de la carga [2006.01]"
+  },
+  {
+    "code": "G11C 11/4063",
+    "description": "••••••••••Circuitos auxiliares, p. ej. para el direccionamiento, la descodificación, el accionamiento, la escritura, la lectura o la sincronización [2006.01]"
+  },
+  {
+    "code": "G11C 11/4067",
+    "description": "••••••••••••para las celdas de memoria de tipo bipolar [2006.01]"
+  },
+  {
+    "code": "G11C 11/407",
+    "description": "••••••••••••para celdas de memoria del tipo efecto de campo [2006.01]"
+  },
+  {
+    "code": "G11C 11/4072",
+    "description": "••••••••••••••Circuitos para la inicialización, para la puesta en o fuera de tensión, para el borrado de la memoria o para el preajuste [2006.01]"
+  },
+  {
+    "code": "G11C 11/4074",
+    "description": "••••••••••••••Circuitos de alimentación o de generación de tensión, p. ej. generadores de tensión de polarización, generadores de tensión de substrato, alimentación de seguridad, circuitos de control de alimentación [2006.01]"
+  },
+  {
+    "code": "G11C 11/4076",
+    "description": "••••••••••••••Circuitos de sincronización (para la gestión de la regeneración G11C 11/406) [2006.01]"
+  },
+  {
+    "code": "G11C 11/4078",
+    "description": "••••••••••••••Circuitos de seguridad o de protección, p. ej. para impedir la lectura o la escritura inadvertidas o no autorizadas; Celdas de estado; Celdas de prueba (protección de los contenidos de la memoria durante la comprobación o ensayo G11C 29/52) [2006.01]"
+  },
+  {
+    "code": "G11C 11/408",
+    "description": "••••••••••••••Circuitos de direccionamiento [2006.01]"
+  },
+  {
+    "code": "G11C 11/409",
+    "description": "••••••••••••••Circuitos de lectura-escritura [R-W] [2006.01]"
+  },
+  {
+    "code": "G11C 11/4091",
+    "description": "••••••••••••••••Amplificadores de lectura o de lectura/refresco, o circuitos de lectura asociados, p. ej. para la precarga, la compensación o el aislamiento de las líneas de bits acoplados [2006.01]"
+  },
+  {
+    "code": "G11C 11/4093",
+    "description": "••••••••••••••••Disposiciones de interfaz de entrada/salida [I/O] de datos, p. ej. memorias intermedias de datos [2006.01]"
+  },
+  {
+    "code": "G11C 11/4094",
+    "description": "••••••••••••••••Circuitos de control o de gestión de líneas de bits [2006.01]"
+  },
+  {
+    "code": "G11C 11/4096",
+    "description": "••••••••••••••••Circuitos de control o de gestión de entrada/salida [I/O] de datos, p. ej.circuitos para la lectura o la escritura, circuitos de activación de entrada/salida, conmutadores de líneas de bits [2006.01]"
+  },
+  {
+    "code": "G11C 11/4097",
+    "description": "••••••••••••••••Organización de líneas de bits, p. ej. configuración de líneas de bits, líneas de bits dobladas [2006.01]"
+  },
+  {
+    "code": "G11C 11/4099",
+    "description": "••••••••••••••••Procesamiento de celdas ficticias; Generadores de tensión de referencia [2006.01]"
+  },
+  {
+    "code": "G11C 11/41",
+    "description": "••••••••formando celdas con realimentación positiva, es decir, celdas que no necesitan refresco o regeneración de la carga, p. ej. multivibrador biestable, disparador de Schmitt [2006.01]"
+  },
+  {
+    "code": "G11C 11/411",
+    "description": "••••••••••utilizando únicamente transistores bipolares [2006.01]"
+  },
+  {
+    "code": "G11C 11/412",
+    "description": "••••••••••utilizando únicamente transistores de efecto de campo [2006.01]"
+  },
+  {
+    "code": "G11C 11/413",
+    "description": "••••••••••Circuitos auxiliares, p. ej. para el direccionamiento, la decodificación, el control, la escritura, la lectura, la sincronización o la reducción del consumo [2006.01]"
+  },
+  {
+    "code": "G11C 11/414",
+    "description": "••••••••••••para celdas de memoria de tipo bipolar [2006.01]"
+  },
+  {
+    "code": "G11C 11/415",
+    "description": "••••••••••••••Circuitos de direccionamiento [2006.01]"
+  },
+  {
+    "code": "G11C 11/416",
+    "description": "••••••••••••••Circuitos de lectura-escritura [R-W] [2006.01]"
+  },
+  {
+    "code": "G11C 11/417",
+    "description": "••••••••••••para celdas de memoria del tipo de efecto de campo [2006.01]"
+  },
+  {
+    "code": "G11C 11/418",
+    "description": "••••••••••••••Circuitos de direccionamiento [2006.01]"
+  },
+  {
+    "code": "G11C 11/419",
+    "description": "••••••••••••••Circuitos de lectura-escritura [R-W] [2006.01]"
+  },
+  {
+    "code": "G11C 11/4193",
+    "description": "••••••Circuitos auxiliares específicos para tipos particulares de dispositivos semiconductores de almacenamiento, p. ej. para el direccionamiento, el accionamiento, la lectura, la sincronización, la alimentación, la propagación de señal (G11C 11/4063, G11C 11/413 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G11C 11/4195",
+    "description": "••••••••Circuitos de direccionamiento [2006.01]"
+  },
+  {
+    "code": "G11C 11/4197",
+    "description": "••••••••Circuitos de lectura-escritura [R-W] [2006.01]"
+  },
+  {
+    "code": "G11C 11/42",
+    "description": "••••utilizando dispositivos optoelectrónicos, es decir, dispositivos emisores de luz y dispositivos fotoeléctricos acoplados eléctricamente u ópticamente [2006.01]"
+  },
+  {
+    "code": "G11C 11/44",
+    "description": "••••que utilizan elementos supraconductores, p. ej. criotrones [2006.01]"
+  },
+  {
+    "code": "G11C 11/46",
+    "description": "••que utilizan elementos termoplásticos [2006.01]"
+  },
+  {
+    "code": "G11C 11/48",
+    "description": "••que utilizan elementos de acoplamiento desplazable, p. ej. núcleos ferromagnéticos, para producir un cambio entre diferentes estados de inducción mutua o de autoinducción [2006.01]"
+  },
+  {
+    "code": "G11C 11/50",
+    "description": "••que utilizan el accionamiento de contactos eléctricos para almacenar la información [2006.01]"
+  },
+  {
+    "code": "G11C 11/52",
+    "description": "••••que utilizan relés electromagnéticos [2006.01]"
+  },
+  {
+    "code": "G11C 11/54",
+    "description": "••que utilizan elementos simuladores de células biológicas, p. ej. neurona [2006.01]"
+  },
+  {
+    "code": "G11C 11/56",
+    "description": "••utilizando elementos de almacenamiento que tienen más de dos estados estables representados por escalones, p. ej. de tensión, de corriente, de fase, de frecuencia [2006.01]"
+  },
+  {
+    "code": "G11C 13/00",
+    "description": "Memorias digitales caracterizadas por la utilización de elementos de almacenamiento no cubiertos por los grupos G11C 11/00, G11C 23/00, ó G11C 25/00 [2006.01]"
+  },
+  {
+    "code": "G11C 13/02",
+    "description": "••que utilizan elementos cuyo funcionamiento depende de un cambio químico [2006.01]"
+  },
+  {
+    "code": "G11C 13/04",
+    "description": "••que utilizan elementos ópticos [2006.01]"
+  },
+  {
+    "code": "G11C 13/06",
+    "description": "••••que utilizan elementos magneto-ópticos [2006.01]"
+  },
+  {
+    "code": "G11C 14/00",
+    "description": "Memorias digitales caracterizadas por disposiciones de celdas con propiedades de memoria volátil y no volátil para salvaguardar la información en caso de fallo de la alimentación [2006.01]"
+  },
+  {
+    "code": "G11C 15/00",
+    "description": "Memorias digitales en las que la información, que tiene una o más partes características, es escrita en la memoria o es leída por medio de la búsqueda de una o varias de estas partes características, es decir, memorias asociativas o memorias direccionable por su contenido [2006.01]"
+  },
+  {
+    "code": "G11C 15/02",
+    "description": "••que utilizan elementos magnéticos [2006.01]"
+  },
+  {
+    "code": "G11C 15/04",
+    "description": "••que utilizan elementos semiconductores [2006.01]"
+  },
+  {
+    "code": "G11C 15/06",
+    "description": "••que utilizan elementos criogénicos [2006.01]"
+  },
+  {
+    "code": "G11C 16/00",
+    "description": "Memorias de sólo lectura programables y borrables (G11C 14/00 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G11C 16/02",
+    "description": "••programables eléctricamente [2006.01]"
+  },
+  {
+    "code": "G11C 16/04",
+    "description": "••••utilizando transistores de umbral variable, p. ej. FAMOS [2006.01]"
+  },
+  {
+    "code": "G11C 16/06",
+    "description": "••••Circuitos auxiliares, p. ej. para escritura en la memoria [2006.01]"
+  },
+  {
+    "code": "G11C 16/08",
+    "description": "••••••Circuitos de direccionamiento; Descodificadores; Circuitos de control de líneas de palabras [2006.01]"
+  },
+  {
+    "code": "G11C 16/10",
+    "description": "••••••Circuitos de programación o de entrada de datos [2006.01]"
+  },
+  {
+    "code": "G11C 16/12",
+    "description": "••••••••Circuitos de conmutación de la tensión de programación [2006.01]"
+  },
+  {
+    "code": "G11C 16/14",
+    "description": "••••••••Circuitos para borrar eléctricamente, p. ej. circuitos de conmutación de la tensión de borrado [2006.01]"
+  },
+  {
+    "code": "G11C 16/16",
+    "description": "••••••••••para borrar bloques, p. ej. filas, palabras, grupos [2006.01]"
+  },
+  {
+    "code": "G11C 16/18",
+    "description": "••••••••Circuitos para borrar ópticamente [2006.01]"
+  },
+  {
+    "code": "G11C 16/20",
+    "description": "••••••••Inicialización; Preselección de datos; Identificación de \"chip\" [2006.01]"
+  },
+  {
+    "code": "G11C 16/22",
+    "description": "••••••Circuitos de seguridad o de protección para impedir el acceso no autorizado o accidental a las celdas de memoria [2006.01]"
+  },
+  {
+    "code": "G11C 16/24",
+    "description": "••••••Circuitos de control de líneas de bits [2006.01]"
+  },
+  {
+    "code": "G11C 16/26",
+    "description": "••••••Circuitos de detección o de lectura; Circuitos de salida de datos [2006.01]"
+  },
+  {
+    "code": "G11C 16/28",
+    "description": "••••••••que utilizan celdas de detección diferencial o celdas de referencia, p. ej. celdas ficticias [2006.01]"
+  },
+  {
+    "code": "G11C 16/30",
+    "description": "••••••Circuitos de alimentación [2006.01]"
+  },
+  {
+    "code": "G11C 16/32",
+    "description": "••••••Circuitos de sincronización [2006.01]"
+  },
+  {
+    "code": "G11C 16/34",
+    "description": "••••••Determinación del estado de programación, p. ej. tensión umbral, sobreprogramación o subprogramación, retención [2006.01]"
+  },
+  {
+    "code": "G11C 17/00",
+    "description": "Memorias de sólo lectura programables una sola vez; Memorias semipermanentes, p. ej. tarjetas de información que pueden ser reemplazadas a mano [2006.01]"
+  },
+  {
+    "code": "G11C 17/02",
+    "description": "••utilizando elementos magnéticos o inductivos (G11C 17/14 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G11C 17/04",
+    "description": "••utilizando elementos capacitivos (G11C 17/06, G11C 17/14 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G11C 17/06",
+    "description": "••utilizando elementos que contengan diodos (G11C 17/14 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G11C 17/08",
+    "description": "••utilizando dispositivos de semiconductores, p. ej. elementos bipolares (G11C 17/06, G11C 17/14 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G11C 17/10",
+    "description": "••••en las cuales el contenido está determinado desde la fabricación por una disposición predeterminada de los elementos de acoplamiento, p. ej. memorias ROM programables por máscara [2006.01]"
+  },
+  {
+    "code": "G11C 17/12",
+    "description": "••••••utilizando dispositivos de efecto de campo [2006.01]"
+  },
+  {
+    "code": "G11C 17/14",
+    "description": "••en las cuales el contenido está determinado estableciendo, rompiendo o modificando selectivamente las uniones de conexión por una modificación definitiva del estado de los elementos de acoplamiento, p. ej. memorias PROM [2006.01]"
+  },
+  {
+    "code": "G11C 17/16",
+    "description": "••••utilizando uniones fusibles eléctricamente [2006.01]"
+  },
+  {
+    "code": "G11C 17/18",
+    "description": "••••Circuitos auxiliares, p. ej. para la escritura en la memoria [2006.01]"
+  },
+  {
+    "code": "G11C 19/00",
+    "description": "Memorias digitales en las que la información es movida por escalones, p. ej. registros de desplazamiento [2006.01]"
+  },
+  {
+    "code": "G11C 19/02",
+    "description": "••que utilizan elementos magnéticos (G11C 19/14 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G11C 19/04",
+    "description": "••••que utilizan núcleos con una abertura o un bucle magnético [2006.01]"
+  },
+  {
+    "code": "G11C 19/06",
+    "description": "••••que utilizan estructuras con una pluralidad de aberturas o de bucles magnéticos, p. ej. transfluxores [2006.01]"
+  },
+  {
+    "code": "G11C 19/08",
+    "description": "••••que utilizan capas finas en una estructura plana [2006.01]"
+  },
+  {
+    "code": "G11C 19/10",
+    "description": "••••que utilizan capas finas sobre barras; con tuistores [2006.01]"
+  },
+  {
+    "code": "G11C 19/12",
+    "description": "••que utilizan dispositivos reactivos no lineales en circuitos resonantes [2006.01]"
+  },
+  {
+    "code": "G11C 19/14",
+    "description": "••que utilizan elementos magnéticos combinados con elementos activos, p. ej. tubos de descarga, elementos semiconductores (G11C 19/34 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G11C 19/18",
+    "description": "••que utilizan capacidades como elementos principales de las etapas [2006.01]"
+  },
+  {
+    "code": "G11C 19/20",
+    "description": "••que utilizan tubos de descarga (G11C 19/14 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G11C 19/28",
+    "description": "••que utilizan elementos semiconductores (G11C 19/14, G11C 19/36 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G11C 19/30",
+    "description": "••que utilizan elementos optoelectrónicos, es decir, dispositivos emisores de luz y dispositivos fotoeléctricos acoplados eléctrica u ópticamente [2006.01]"
+  },
+  {
+    "code": "G11C 19/32",
+    "description": "••que utilizan elementos supraconductores [2006.01]"
+  },
+  {
+    "code": "G11C 19/34",
+    "description": "••que utilizan elementos de almacenamiento con más de dos estados estables representados por escalones, p. ej. de tensión, de corriente, de fase, de frecuencia [2006.01]"
+  },
+  {
+    "code": "G11C 19/36",
+    "description": "••••que utilizan elementos semiconductores [2006.01]"
+  },
+  {
+    "code": "G11C 19/38",
+    "description": "••bidimensional, p. ej. registros de desplazamiento vertical y horizontal [2006.01]"
+  },
+  {
+    "code": "G11C 21/00",
+    "description": "Memorias digitales en las que la información circula (por escalones G11C 19/00) [2006.01]"
+  },
+  {
+    "code": "G11C 21/02",
+    "description": "••que utilizan líneas de retardo electromecánicas, p. ej. que utilizan un recipiente de mercurio [2006.01]"
+  },
+  {
+    "code": "G11C 23/00",
+    "description": "Memorias digitales caracterizadas por el movimiento de piezas mecánicas para efectuar el almacenamiento, p. ej. utilizando bolas de cojinetes; Elementos de almacenamiento correspondientes [2006.01]"
+  },
+  {
+    "code": "G11C 25/00",
+    "description": "Memorias digitales caracterizadas por la utilización de medios fluidos; Elementos de almacenamiento correspondientes [2006.01]"
+  },
+  {
+    "code": "G11C 27/00",
+    "description": "Memorias analógicas eléctricas, p. ej. para almacenar valores instantáneos [2006.01]"
+  },
+  {
+    "code": "G11C 27/02",
+    "description": "••Medios de muestreo y de memorización (G11C 27/04 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G11C 27/04",
+    "description": "••Registros de desplazamiento [2006.01]"
+  },
+  {
+    "code": "G11C 29/00",
+    "description": "Verificación del funcionamiento correcto de memorias; Ensayo de memorias durante su funcionamiento fuera de línea (offline\")o en espera (\"standby\") [2006.01]"
+  },
+  {
+    "code": "G11C 29/02",
+    "description": "••Detección o localización de circuitos auxiliares defectuosos, p. ej. contadores de refresco defectuosos [2006.01]"
+  },
+  {
+    "code": "G11C 29/04",
+    "description": "••Detección o localización de elementos de memoria defectuosos [2006.01]"
+  },
+  {
+    "code": "G11C 29/06",
+    "description": "••••Ensayo de aceleración [2006.01]"
+  },
+  {
+    "code": "G11C 29/08",
+    "description": "••••Ensayo funcional, p. ej. ensayo realizado durante el refresco, autoensayo en el encendido [POST] o ensayo distribuido [2006.01]"
+  },
+  {
+    "code": "G11C 29/10",
+    "description": "••••••Algoritmos de ensayo, p. ej. algoritmos de barrido de memorias [MScan]; Patrones de ensayo, p. ej. patrones en tablero de damas [2006.01]"
+  },
+  {
+    "code": "G11C 29/12",
+    "description": "••••••Disposiciones integradas (\"built in\") para el ensayo, p. ej. autoensayo integrado [BIST] [2006.01]"
+  },
+  {
+    "code": "G11C 29/14",
+    "description": "••••••••Implementación de la lógica de control, p. ej. decodificadores de modo de ensayo [2006.01]"
+  },
+  {
+    "code": "G11C 29/16",
+    "description": "••••••••••utilizando unidades microprogramadas, p. ej. máquinas de estado [2006.01]"
+  },
+  {
+    "code": "G11C 29/18",
+    "description": "••••••••Dispositivos de generación de direcciones; Dispositivos para el acceso a memorias, p. ej. detalles de circuitos de direccionamiento [2006.01]"
+  },
+  {
+    "code": "G11C 29/20",
+    "description": "••••••••••que utilizan contadores o registros de desplazamiento de realimentación lineal [LFSR] [2006.01]"
+  },
+  {
+    "code": "G11C 29/22",
+    "description": "••••••••••Con acceso a memorias en serie [2006.01]"
+  },
+  {
+    "code": "G11C 29/24",
+    "description": "••••••••••Con acceso a células suplementarias, p. ej. células de direcciones falsas o células redundantes [2006.01]"
+  },
+  {
+    "code": "G11C 29/26",
+    "description": "••••••••••Con acceso a una multiplicidad de bloques (\"arrays\") (G11C 29/24 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G11C 29/28",
+    "description": "••••••••••••Multiplicidad de bloques dependientes, p. ej bloques multi-bit [2006.01]"
+  },
+  {
+    "code": "G11C 29/30",
+    "description": "••••••••••Con acceso a un solo bloque [2006.01]"
+  },
+  {
+    "code": "G11C 29/32",
+    "description": "••••••••••••Acceso en serie; Ensayo por barrido (\"scan\") [2006.01]"
+  },
+  {
+    "code": "G11C 29/34",
+    "description": "••••••••••••Con acceso a una multiplicidad de bits simultáneamente [2006.01]"
+  },
+  {
+    "code": "G11C 29/36",
+    "description": "••••••••Dispositivos de generación de datos, p.ej inversores de datos [2006.01]"
+  },
+  {
+    "code": "G11C 29/38",
+    "description": "••••••••Dispositivos de verificación de respuesta [2006.01]"
+  },
+  {
+    "code": "G11C 29/40",
+    "description": "••••••••••que utilizan técnicas de compresión [2006.01]"
+  },
+  {
+    "code": "G11C 29/42",
+    "description": "••••••••••que utilizan códigos de corrección de errores [ECC] o comprobación de paridad [2006.01]"
+  },
+  {
+    "code": "G11C 29/44",
+    "description": "••••••••Indicación o identificación de errores, p. ej. para la reparación [2006.01]"
+  },
+  {
+    "code": "G11C 29/46",
+    "description": "••••••••Lógica de iniciación de ensayo [2006.01]"
+  },
+  {
+    "code": "G11C 29/48",
+    "description": "••••••Disposiciones de las memorias estáticas especialmente adaptadas para el ensayo por medios externos a la memoria, p. ej. utilizando acceso directo a memoria [DMA] o utilizando rutas de acceso auxiliares [2006.01]"
+  },
+  {
+    "code": "G11C 29/50",
+    "description": "••••Ensayos marginales p. ej. ensayo de corriente, voltaje o velocidad [2006.01]"
+  },
+  {
+    "code": "G11C 29/52",
+    "description": "••Protección de los contenidos de la memoria; Detección de errores en los contenidos de la memoria [2006.01]"
+  },
+  {
+    "code": "G11C 29/54",
+    "description": "••Disposiciones para el diseño de circuitos de ensayo, p. ej herramientas diseñadas para ensayo [DFT] [2006.01]"
+  },
+  {
+    "code": "G11C 29/56",
+    "description": "••Equipamiento de ensayo externo para memorias estáticas, p. ej. equipamiento de ensayo automático [ATE]; Sus interfases [2006.01]"
+  },
+  {
+    "code": "G11C 99/00",
+    "description": "Materia no prevista en otros grupos de esta subclase [2006.01]"
+  }
+]

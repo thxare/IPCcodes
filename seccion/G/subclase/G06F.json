@@ -1,0 +1,2962 @@
+[
+  {
+    "code": "G06F 1/00",
+    "description": "Detalles no cubiertos en los grupos G06F 3/00-G06F 13/00 y G06F 21/00 (arquitecturas de computadores con programas almacenados de propósito general G06F 15/76) [2006.01]"
+  },
+  {
+    "code": "G06F 1/02",
+    "description": "••Generadores de funciones digitales [2006.01]"
+  },
+  {
+    "code": "G06F 1/025",
+    "description": "••••para las funciones con dos valores de amplitud, p. ej. funciones de Walsh [2006.01]"
+  },
+  {
+    "code": "G06F 1/03",
+    "description": "••••trabajando, al menos parcialmente, por consulta de tablas (G06F 1/025 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G06F 1/035",
+    "description": "••••••Reducción del tamaño de las tablas [2006.01]"
+  },
+  {
+    "code": "G06F 1/04",
+    "description": "••Generación o distribución de señales de reloj o de señales derivadas directamente de éstas [2006.01]"
+  },
+  {
+    "code": "G06F 1/06",
+    "description": "••••Generadores de reloj que producen varias señales de reloj [2006.01]"
+  },
+  {
+    "code": "G06F 1/08",
+    "description": "••••Generadores de reloj con una frecuencia básica modificable o programable [2006.01]"
+  },
+  {
+    "code": "G06F 1/10",
+    "description": "••••Distribución de las señales de reloj [2006.01]"
+  },
+  {
+    "code": "G06F 1/12",
+    "description": "••••Sincronización de las diferentes señales de reloj [2006.01]"
+  },
+  {
+    "code": "G06F 1/14",
+    "description": "••••Disposiciones para el control del tiempo, p. ej. reloj en tiempo real [2006.01]"
+  },
+  {
+    "code": "G06F 1/16",
+    "description": "••Detalles o disposiciones de estructura [2006.01]"
+  },
+  {
+    "code": "G06F 1/18",
+    "description": "••••Instalación o distribución de energía [2006.01]"
+  },
+  {
+    "code": "G06F 1/20",
+    "description": "••••Medios de enfriamiento [2006.01]"
+  },
+  {
+    "code": "G06F 1/22",
+    "description": "••Medios para limitar o controlar la relación de ramificación de salida (fan-out) [2006.01]"
+  },
+  {
+    "code": "G06F 1/24",
+    "description": "••Medios de reinicio [2006.01]"
+  },
+  {
+    "code": "G06F 1/26",
+    "description": "••Alimentación en energía eléctrica, p. ej. regulación a este efecto (para las memorias G11C) [2006.01]"
+  },
+  {
+    "code": "G06F 1/28",
+    "description": "••••Vigilancia, p. ej. detección de fallos en la alimentación por ruptura de umbrales [2006.01]"
+  },
+  {
+    "code": "G06F 1/30",
+    "description": "••••Medios para actuar en caso de avería o de interrupción de la alimentación (únicamente para el reinicio G06F 1/24) [2006.01]"
+  },
+  {
+    "code": "G06F 1/32",
+    "description": "••••Medios destinados a economizar energía [2019.01]"
+  },
+  {
+    "code": "G06F 1/3203",
+    "description": "••••••Gestión de la energía, p. ej. inicio de un modo de ahorro de energía basado en un evento [2019.01]"
+  },
+  {
+    "code": "G06F 1/3206",
+    "description": "••••••••Monitorización de eventos, dispositivos o parámetros que desencadenan un cambio en la modalidad de energía [2019.01]"
+  },
+  {
+    "code": "G06F 1/3209",
+    "description": "••••••••••Monitorización de la actividad remota, p. ej. a través de las líneas de teléfono o de las conexiones de red [2019.01]"
+  },
+  {
+    "code": "G06F 1/3212",
+    "description": "••••••••••Monitorización de los niveles de la batería, p. ej. un modo de ahorro de energía que es iniciado cuando el voltaje de la batería baja a un cierto nivel [2019.01]"
+  },
+  {
+    "code": "G06F 1/3215",
+    "description": "••••••••••Monitorización de los dispositivos periféricos [2019.01]"
+  },
+  {
+    "code": "G06F 1/3218",
+    "description": "••••••••••••de las pantallas o los dispositivos para la visualización [2019.01]"
+  },
+  {
+    "code": "G06F 1/3221",
+    "description": "••••••••••••de las unidades de disco [2019.01]"
+  },
+  {
+    "code": "G06F 1/3225",
+    "description": "••••••••••••de las memorias [2019.01]"
+  },
+  {
+    "code": "G06F 1/3228",
+    "description": "••••••••••Monitorización de la finalización de la tarea, p. ej. mediante el uso de temporizadores en reposo, comandos de parada o comandos de espera [2019.01]"
+  },
+  {
+    "code": "G06F 1/3231",
+    "description": "••••••••••Monitorización de la presencia, ausencia o movimiento de los usuarios [2019.01]"
+  },
+  {
+    "code": "G06F 1/3234",
+    "description": "••••••••Ahorro de energía caracterizado por la acción emprendida [2019.01]"
+  },
+  {
+    "code": "G06F 1/3237",
+    "description": "••••••••••por desactivación de la generación o distribución de la señal de reloj [2019.01]"
+  },
+  {
+    "code": "G06F 1/324",
+    "description": "••••••••••por disminución de la frecuencia de reloj [2019.01]"
+  },
+  {
+    "code": "G06F 1/3246",
+    "description": "••••••••••por el apagado iniciado mediante software [2019.01]"
+  },
+  {
+    "code": "G06F 1/3287",
+    "description": "••••••••••por desconexión de las unidades funcionales individuales en el sistema informático [2019.01]"
+  },
+  {
+    "code": "G06F 1/329",
+    "description": "••••••••••mediante la programación de tareas [2019.01]"
+  },
+  {
+    "code": "G06F 1/3293",
+    "description": "••••••••••por conexión a un procesador que consume menos energía, p. ej. un subprocesador [2019.01]"
+  },
+  {
+    "code": "G06F 1/3296",
+    "description": "••••••••••por disminución del suministro o del voltaje de funcionamiento [2019.01]"
+  },
+  {
+    "code": "G06F 3/00",
+    "description": "Disposiciones de entrada para la transferencia de datos destinados a ser procesados en una forma gestionable por el computador; Disposiciones de salida para la transferencia de datos desde la unidad de procesamiento a la unidad de salida, p. ej. disposiciones de interfaz [2006.01]"
+  },
+  {
+    "code": "G06F 3/01",
+    "description": "••Disposiciones de entrada o disposiciones combinadas de entrada y salida para la interacción entre el usuario y el computador (G06F 3/16 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G06F 3/02",
+    "description": "••••Entrada manual, p. ej. tecla, disco selector [2006.01]"
+  },
+  {
+    "code": "G06F 3/023",
+    "description": "••••••Disposiciones para convertir en forma codificada los elementos de información discretos, p. ej. teclados para engendrar códigos alfanuméricos, códigos de operando, códigos de instrucción [2006.01]"
+  },
+  {
+    "code": "G06F 3/027",
+    "description": "••••••••para la inserción de la coma decimal [2006.01]"
+  },
+  {
+    "code": "G06F 3/03",
+    "description": "••••Disposiciones para convertir en forma codificada la posición o el desplazamiento de un elemento [2006.01]"
+  },
+  {
+    "code": "G06F 3/033",
+    "description": "••••••Dispositivos de puntero desplazados o posicionados por el usuario; Sus accesorios (Digitalizadores caracterizados por el medio de transducción G06F 3/041) [2013.01]"
+  },
+  {
+    "code": "G06F 3/0338",
+    "description": "••••••••con detección de desplazamiento limitado linealmente o angularmente de una parte del funcionamiento del dispositivo desde una posición neutral, p. ej. joysticks isotónicos o isométrico [2013.01]"
+  },
+  {
+    "code": "G06F 3/0346",
+    "description": "••••••••con la detección de la orientación del dispositivo o circulación libre en un espacio 3D, p. ej. ratones 3D, 6-DOF [seis grados de libertad] punteros que utilizando giroscopios, acelerómetros o sensores de inclinación [2013.01]"
+  },
+  {
+    "code": "G06F 3/0354",
+    "description": "••••••••con detección de movimientos 2D relativos entre el dispositivo de operación o una parte de la mismo, y un plano o superficie, p. ej.: ratones, trackballs, bolígrafos o discos [2013.01]"
+  },
+  {
+    "code": "G06F 3/0362",
+    "description": "••••••••con detección de traslaciones en una dimensión o rotaciones de una parte operativa del dispositivo, p. ej.:  ruedas de desplazamiento, deslizadores, perillas, rodillos o correas [2013.01]"
+  },
+  {
+    "code": "G06F 3/037",
+    "description": "••••••••que utilizan el barrido de un tubo de rayos catódicos [CRT, del inglés Cathode Ray Tube] para detectar la posición del elemento, p. ej. bolígrafos de luz en cooperación con monitores CRT [2013.01]"
+  },
+  {
+    "code": "G06F 3/038",
+    "description": "••••••••Sus disposiciones de control e interfase, p. ej. controladores (\"drivers\") o circuitería de control embebida en el dispositivo [2013.01]"
+  },
+  {
+    "code": "G06F 3/039",
+    "description": "••••••••Sus accesorios, p. ej. alfombrillas para ratón [2013.01]"
+  },
+  {
+    "code": "G06F 3/041",
+    "description": "••••••Digitalizadores, p. ej. para pantallas táctiles o \"touchpads\", caracterizados por los medios de transducción [2006.01]"
+  },
+  {
+    "code": "G06F 3/042",
+    "description": "••••••••mediante medios opto-electrónicos [2006.01]"
+  },
+  {
+    "code": "G06F 3/043",
+    "description": "••••••••utilizando la propagación de ondas acústicas [2006.01]"
+  },
+  {
+    "code": "G06F 3/044",
+    "description": "••••••••mediante medios capacitivos [2006.01]"
+  },
+  {
+    "code": "G06F 3/045",
+    "description": "••••••••utilizando elementos resistivos, p. ej. una única superficie continua o dos superficies paralelas puestas en contacto [2006.01]"
+  },
+  {
+    "code": "G06F 3/046",
+    "description": "••••••••mediante medios electromagnéticos [2006.01]"
+  },
+  {
+    "code": "G06F 3/047",
+    "description": "••••••••utilizando conjuntos de cables, p. ej. cables cruzados [2006.01]"
+  },
+  {
+    "code": "G06F 3/048",
+    "description": "••••Técnicas de interacción basadas en interfaces gráficas de usuario [GUI] [2013.01]"
+  },
+  {
+    "code": "G06F 3/0481",
+    "description": "••••••basadas en las propiedades específicas de la interacción del objeto que se muestra o en una metáfora del entorno, p. ej., interacción con elementos del escritorio, tales como ventanas o iconos, o asistidas por el cambio de apariencia o comportamiento de un cursor [2022.01]"
+  },
+  {
+    "code": "G06F 3/04812",
+    "description": "••••••••Técnicas de interacción basadas en la apariencia o el comportamiento del cursor, p. ej., que se vea afectado por la presencia de objetos visualizados [2022.01]"
+  },
+  {
+    "code": "G06F 3/04815",
+    "description": "••••••••Interacción con un entorno basado en una metáfora o con un objeto de interacción mostrado en tres dimensiones, p. ej., cambiando el punto de vista del usuario con respecto al entorno o al objeto [2022.01]"
+  },
+  {
+    "code": "G06F 3/04817",
+    "description": "••••••••utilización de iconos (programación gráfica o visual mediante símbolos icónicos G06F 8/34) [2022.01]"
+  },
+  {
+    "code": "G06F 3/0482",
+    "description": "••••••••Interacción con listas de elementos seleccionables, p. ej.: menús [2013.01]"
+  },
+  {
+    "code": "G06F 3/0483",
+    "description": "••••••••Interacción con ambientes de páginas estructuradas, p. ej.: metáfora del libro [2013.01]"
+  },
+  {
+    "code": "G06F 3/0484",
+    "description": "••••••para el control de las funciones u operaciones específicas, p. ej. seleccionar o manipular un objeto o una imagen, estableciendo un valor de parámetro o seleccionando un rango [2022.01]"
+  },
+  {
+    "code": "G06F 3/04842",
+    "description": "••••••••Selección de objetos visualizados o elementos de texto visualizados (G06F 3/0482 tiene prioridad) [2022.01]"
+  },
+  {
+    "code": "G06F 3/04845",
+    "description": "••••••••para la manipulación de imágenes, p. ej., arrastre, rotación, ampliación o cambio de color [2022.01]"
+  },
+  {
+    "code": "G06F 3/04847",
+    "description": "••••••••Técnicas de interacción para controlar los ajustes de los parámetros, p. ej., interacción con deslizadores o diales [2022.01]"
+  },
+  {
+    "code": "G06F 3/0485",
+    "description": "••••••••Desplazamiento o panorámica [2022.01]"
+  },
+  {
+    "code": "G06F 3/04855",
+    "description": "••••••••••Interacción con las barras de desplazamiento [2022.01]"
+  },
+  {
+    "code": "G06F 3/0486",
+    "description": "••••••••Arrastrar y soltar [2013.01]"
+  },
+  {
+    "code": "G06F 3/0487",
+    "description": "••••••uso de las funciones específicas proporcionadas por el dispositivo de entrada, p. ej. funciones controladas por la rotación de un ratón con dos modalidades de detección, o de la naturaleza del dispositivo de entrada, p. ej. gestos de toques basados en la presión detectada por un digitalizador [2013.01]"
+  },
+  {
+    "code": "G06F 3/0488",
+    "description": "••••••••mediante una pantalla táctil o un digitalizador, p. ej. entrada de comandos a través de gestos trazados [2022.01]"
+  },
+  {
+    "code": "G06F 3/04883",
+    "description": "••••••••••para la introducción de datos por medio de la escritura manual, p. ej.,  gestos o texto [2022.01]"
+  },
+  {
+    "code": "G06F 3/04886",
+    "description": "••••••••••dividiendo la zona de visualización de la pantalla táctil o la superficie de la tableta digitalizadora en zonas controlables de forma independiente, p. ej., teclados o menús virtuales [2022.01]"
+  },
+  {
+    "code": "G06F 3/0489",
+    "description": "••••••••utilizando teclados con teclas dedicadas o combinaciones de teclas [2022.01]"
+  },
+  {
+    "code": "G06F 3/04892",
+    "description": "••••••••••Disposiciones para el control de la posición del cursor basadas en códigos indicativos de los desplazamientos del cursor de una ubicación discreta a otra, p. ej., utilizando las teclas de control del cursor asociadas a diferentes direcciones o utilizando el tabulador (disposiciones para el control de la posición del cursor basadas en señales de coordenadas G06F 3/038) [2022.01]"
+  },
+  {
+    "code": "G06F 3/04895",
+    "description": "••••••••••Orientación durante la operación de introducción de datos en el teclado, p. ej., avisos [2022.01]"
+  },
+  {
+    "code": "G06F 3/05",
+    "description": "••Entrada digital que utiliza el muestreo de una cantidad analógica a intervalos de tiempo regulares [2006.01]"
+  },
+  {
+    "code": "G06F 3/06",
+    "description": "••Entrada digital a partir de, o salida digital hacia soportes de registro [2006.01]"
+  },
+  {
+    "code": "G06F 3/08",
+    "description": "••••a partir de o hacia, soportes de registro distintos, p. ej. tarjeta perforada [2006.01]"
+  },
+  {
+    "code": "G06F 3/09",
+    "description": "••Salida digital hacia una máquina de escribir [2006.01]"
+  },
+  {
+    "code": "G06F 3/12",
+    "description": "••Salida digital hacia una unidad de impresión [2006.01]"
+  },
+  {
+    "code": "G06F 3/13",
+    "description": "••Salida digital hacia un trazador [2006.01]"
+  },
+  {
+    "code": "G06F 3/14",
+    "description": "••Salida digital hacia un dispositivo de visualización [2006.01]"
+  },
+  {
+    "code": "G06F 3/147",
+    "description": "••••que utilizan paneles de visualización [2006.01]"
+  },
+  {
+    "code": "G06F 3/153",
+    "description": "••••que utilizan tubos de rayos catódicos [2006.01]"
+  },
+  {
+    "code": "G06F 3/16",
+    "description": "••Entrada acústica; Salida acústica (procesamiento del habla G10L) [2006.01]"
+  },
+  {
+    "code": "G06F 3/18",
+    "description": "••Entrada digital a partir de seguidores de curva automáticos [2006.01]"
+  },
+  {
+    "code": "G06F 5/00",
+    "description": "Métodos o disposiciones para la conversión de datos, sin modificación del orden o del contenido de datos tratados [2006.01]"
+  },
+  {
+    "code": "G06F 5/01",
+    "description": "••para el desplazamiento, p. ej. la justificación, el cambio de escala, la normalización [2006.01]"
+  },
+  {
+    "code": "G06F 5/06",
+    "description": "••para modificar la velocidad del caudal de datos, es decir, regularización de la velocidad [2006.01]"
+  },
+  {
+    "code": "G06F 5/08",
+    "description": "••••que tienen una secuencia de posiciones de almacenamiento, no siendo accesibles las intermedias para las operaciones de puesta o salida de cola , p. ej que utilizan un registro de desplazamiento [2006.01]"
+  },
+  {
+    "code": "G06F 5/10",
+    "description": "••••que tienen una secuencia de posiciones de almacenamiento, siendo cada una de ellas accesible de manera individual tanto para para las operaciones de puesta como de salida de cola , p. ej que utilizan memorias de acceso aleatorio (RAM) [2006.01]"
+  },
+  {
+    "code": "G06F 5/12",
+    "description": "••••••Medios para monitorizar el nivel de llenado; Medios para la resolución de conflictos, p. ej. entre operaciones simultáneas de puesta y salida de cola [2006.01]"
+  },
+  {
+    "code": "G06F 5/14",
+    "description": "••••••••para la gestión de situaciones de desbordamiento o subdesbordamiento, p. ej, indicadores de lleno o vacío [2006.01]"
+  },
+  {
+    "code": "G06F 5/16",
+    "description": "••••Sistemas multiplexados, p. ej. que utilizan dos o más dispositivos similares a los que se accede alternadamente para operaciones de puesta y salida de cola, p. ej. memorias intermedias (\"buffers\") de tipo ping-pong [2006.01]"
+  },
+  {
+    "code": "G06F 7/00",
+    "description": "Métodos o disposiciones para el procesamiento de datos actuando sobre el orden o el contenido de los datos tratados (circuitos lógicos H03K 19/00) [2006.01]"
+  },
+  {
+    "code": "G06F 7/02",
+    "description": "••Comparación de valores digitales (G06F 7/06, G06F 7/38 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G06F 7/04",
+    "description": "••••Control de igualdad, es decir, para valores iguales o no [2006.01]"
+  },
+  {
+    "code": "G06F 7/06",
+    "description": "••Disposiciones para la clasificación, la selección, la intercalación o la comparación de datos sobre soportes de registro individuales [2006.01]"
+  },
+  {
+    "code": "G06F 7/08",
+    "description": "••••Clasificación, es decir, ordenado de soportes de registro en un orden de sucesión numérica u otro, según la clasificación de por lo menos algunas informaciones llevadas sobre los soportes (por intercalación de varias series de soportes que suceden en el orden G06F 7/16) [2006.01]"
+  },
+  {
+    "code": "G06F 7/10",
+    "description": "••••Selección, es decir, obtención de datos de una categoría a partir de éstos de soportes de registro que son identificables por los datos de una segunda categoría en un conjunto de soportes de registro colocados en un cierto orden o dispuestos al azar [2006.01]"
+  },
+  {
+    "code": "G06F 7/12",
+    "description": "••••••con disposiciones para la impresión de una lista de artículos elegidos [2006.01]"
+  },
+  {
+    "code": "G06F 7/14",
+    "description": "••••Interclasificación, es decir, combinación de al menos dos series de soportes de registro estando cada uno ordenado en el mismo orden de sucesión, para formar una serie única ordenada en el mismo orden de sucesión [2006.01]"
+  },
+  {
+    "code": "G06F 7/16",
+    "description": "••••••Intercalación y clasificación y selección conjugadas [2006.01]"
+  },
+  {
+    "code": "G06F 7/20",
+    "description": "••••Comparación de series distintas de soportes de registro colocadas en el mismo orden de sucesión, para determinar al menos si algunos datos de una serie son idénticos a los de otra u otras series [2006.01]"
+  },
+  {
+    "code": "G06F 7/22",
+    "description": "••Dispositivos para la clasificación, o la intercalación de datos de computador sobre soportes de registro continuos, p. ej. cinta, tambor, disco [2006.01]"
+  },
+  {
+    "code": "G06F 7/24",
+    "description": "••••Clasificación, es decir, extracción de datos de uno o varios soportes, nueva colocación de datos en un orden de sucesión numérico u otro, y regrabación de los datos clasificados sobre el soporte original o sobre un soporte diferente o sobre una serie de soportes (G06F 7/36 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G06F 7/26",
+    "description": "••••••los datos clasificados están registrados sobre el soporte de registro original en el mismo espacio donde los datos habían sido registrados antes de su clasificación, sin utilizar un almacenamiento intermedio [2006.01]"
+  },
+  {
+    "code": "G06F 7/32",
+    "description": "••••Intercalación, es decir, combinación de datos dispuestos en un orden de sucesión dado sobre al menos dos soportes de registro para preparar un soporte único o una serie única de soportes que presentan todos los datos originales en el orden de sucesión dado (G06F 7/36 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G06F 7/36",
+    "description": "••••Intercalación y clasificación conjugadas [2006.01]"
+  },
+  {
+    "code": "G06F 7/38",
+    "description": "••Métodos o disposiciones para efectuar cálculos utilizando exclusivamente una representación numérica codificada, p. ej. utilizando una representación binaria, ternaria, decimal [2006.01]"
+  },
+  {
+    "code": "G06F 7/40",
+    "description": "••••que utilizan dispositivos que establecen un contacto, p. ej. relés electromagnéticos (G06F 7/46 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G06F 7/42",
+    "description": "••••••que suman; que restan [2006.01]"
+  },
+  {
+    "code": "G06F 7/44",
+    "description": "••••••que multiplican; que dividen [2006.01]"
+  },
+  {
+    "code": "G06F 7/46",
+    "description": "••••que utilizan totalizadores electromagnéticos del tipo contador [2006.01]"
+  },
+  {
+    "code": "G06F 7/48",
+    "description": "••••que utilizan dispositivos que no establecen contacto, p. ej. tubo, dispositivo de estado sólido; que utilizan dispositivos no especificados [2006.01]"
+  },
+  {
+    "code": "G06F 7/483",
+    "description": "••••••Cálculos realizados con números representados por una combinación no lineal de números denominados, p. ej. números racionales, sistema de numeración logarítmica o números de coma flotante [2006.01]"
+  },
+  {
+    "code": "G06F 7/485",
+    "description": "••••••••Adición; Substracción [2006.01]"
+  },
+  {
+    "code": "G06F 7/487",
+    "description": "••••••••Multiplicación; División [2006.01]"
+  },
+  {
+    "code": "G06F 7/49",
+    "description": "••••••Cálculos con una base diferente de una base 2, 8, 16 ó 10, p. ej. con una base ternaria, negativa o imaginaria, con una base mixta [2006.01]"
+  },
+  {
+    "code": "G06F 7/491",
+    "description": "••••••Cálculos con números decimales [2006.01]"
+  },
+  {
+    "code": "G06F 7/492",
+    "description": "••••••••utilizando una representación binaria ponderada en cada denominación [2006.01]"
+  },
+  {
+    "code": "G06F 7/493",
+    "description": "••••••••••Siendo la representación la codificada binaria natural, p. ej. código 8421 [2006.01]"
+  },
+  {
+    "code": "G06F 7/494",
+    "description": "••••••••••••Adición; Subtracción [2006.01]"
+  },
+  {
+    "code": "G06F 7/495",
+    "description": "••••••••••••••por dígitos en serie, p. ej. teniendo un circuito de procesamiento de un sólo dígito y tratando todas las denominaciones una después de otra [2006.01]"
+  },
+  {
+    "code": "G06F 7/496",
+    "description": "••••••••••••Multiplicación; División [2006.01]"
+  },
+  {
+    "code": "G06F 7/498",
+    "description": "••••••••utilizando totalizadores de tipo inverso [2006.01]"
+  },
+  {
+    "code": "G06F 7/499",
+    "description": "••••••Procesamiento de las denominaciones o las excepciones, p. ej. redondeo, desbordamiento [2006.01]"
+  },
+  {
+    "code": "G06F 7/50",
+    "description": "••••••Adición; Subtracción (G06F 7/483-G06F 7/491, G06F 7/544-G06F 7/556 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G06F 7/501",
+    "description": "••••••••Sumadores totales y semisumadores, p. ej. células sumadoras básicas para una denominación [2006.01]"
+  },
+  {
+    "code": "G06F 7/502",
+    "description": "••••••••••Semisumadores; Sumadores totales que comprenden en dos semisumadores en cascada [2006.01]"
+  },
+  {
+    "code": "G06F 7/503",
+    "description": "••••••••••que utilizan conmutación de arrastre, p. ej. estando conectado el arrastre de entrada, directamente o solamente vía un inversor, a la salida de arrastre, bajo el control de una señal de transmisión de arrastre [2006.01]"
+  },
+  {
+    "code": "G06F 7/504",
+    "description": "••••••••con transmisión de bits en serie, p. ej. que tienen un único circuito de gestión de dígitos con procesamiento de todas las denominaciones una después de otra [2006.01]"
+  },
+  {
+    "code": "G06F 7/505",
+    "description": "••••••••con transmisión de bits en paralelo, p. ej. que tienen un circuito diferente de gestión de dígitos para cada denominación [2006.01]"
+  },
+  {
+    "code": "G06F 7/506",
+    "description": "••••••••••con generación o propagación simultánea de arrastre para o sobre dos o más etapas [2006.01]"
+  },
+  {
+    "code": "G06F 7/507",
+    "description": "••••••••••••que utilizan la selección entre dos valores de suma o arrastre calculados condicionalmente [2006.01]"
+  },
+  {
+    "code": "G06F 7/508",
+    "description": "••••••••••••que utilizan circuitos de anticipación de arrastre [2006.01]"
+  },
+  {
+    "code": "G06F 7/509",
+    "description": "••••••••••para operandos múltiples, p. ej. integradores digitales [2006.01]"
+  },
+  {
+    "code": "G06F 7/52",
+    "description": "••••••Multiplicación; División (G06F 7/483-G06F 7/491, G06F 7/544-G06F 7/556 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G06F 7/523",
+    "description": "••••••••Sólo multiplicación [2006.01]"
+  },
+  {
+    "code": "G06F 7/525",
+    "description": "••••••••••de modo serie-serie, p. ej. con entrada en serie de ambos operandos (G06F 7/533 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G06F 7/527",
+    "description": "••••••••••de modo serie-paralelo, p. ej. con entrada en serie de un operando y en paralelo del otro (G06F 7/533 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G06F 7/53",
+    "description": "••••••••••de modo paralelo-paralelo, p. ej. con entrada en paralelo de ambos operandos (G06F 7/533 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G06F 7/533",
+    "description": "••••••••••Reducción del número de pasos o etapas de iteración, p. ej. utilizando el algoritmo de Booth, el de suma logarítmica (\"log-sum\") o el impar-par(\"odd-even\") [2006.01]"
+  },
+  {
+    "code": "G06F 7/535",
+    "description": "••••••••Sólo división [2006.01]"
+  },
+  {
+    "code": "G06F 7/537",
+    "description": "••••••••••Reducción del número de  pasos de iteración o etapas , p. ej. utilizando el algoritmo Sweeny-Robertson-Tocher [SRT] [2006.01]"
+  },
+  {
+    "code": "G06F 7/544",
+    "description": "••••••para la evaluación de funciones por cálculo [2006.01]"
+  },
+  {
+    "code": "G06F 7/548",
+    "description": "••••••••de funciones trigonométricas; Cambio de coordenadas [2006.01]"
+  },
+  {
+    "code": "G06F 7/552",
+    "description": "••••••••de potencias o raíces [2006.01]"
+  },
+  {
+    "code": "G06F 7/556",
+    "description": "••••••••de funciones logarítmicas o exponenciales [2006.01]"
+  },
+  {
+    "code": "G06F 7/57",
+    "description": "••••••Unidades aritmético lógicas (ALU), p. ej. disposiciones o dispositivos para la realización de dos o más de las operaciones cubiertas por los grupos G06F 7/483-G06F 7/556 o para la realización de operaciones lógicas [2006.01]"
+  },
+  {
+    "code": "G06F 7/575",
+    "description": "••••••••Unidades aritmético lógicas básicas, p. ej. dispositivos para los que se puede seleccionar la realización tanto de operaciones de adición, como de sustracción o de una de entre varias operaciones lógicas que utilizan, al menos parcialmente, la misma circuitería [2006.01]"
+  },
+  {
+    "code": "G06F 7/58",
+    "description": "••Generadores de números aleatorios o seudoaleatorios [2006.01]"
+  },
+  {
+    "code": "G06F 7/60",
+    "description": "••Métodos o disposiciones para efectuar cálculos utilizando una representación digital del número no codificada, es decir, una representación de números sin base; Dispositivos de cálculo que utilizan una combinación de representaciones de números codificadas y no codificadas [2006.01]"
+  },
+  {
+    "code": "G06F 7/62",
+    "description": "••••Ejecución de operaciones exclusivamente por cómputo del número total de impulsos [2006.01]"
+  },
+  {
+    "code": "G06F 7/64",
+    "description": "••••Analizadores diferenciales digitales, es decir, dispositivos de cálculo para el cálculo diferencial e integral o la resolución de ecuaciones diferenciales o integrales, utilizando impulsos que representan incrementos; Otros dispositivos de cálculo incremental para la resolución de ecuaciones en diferencias finitas (G06F 7/70 tiene prioridad; analizadores diferenciales que utilizan técnicas de cálculo híbrido G06J 1/02) [2006.01]"
+  },
+  {
+    "code": "G06F 7/66",
+    "description": "••••••en los que los impulsos representan únicamente incrementos unitarios [2006.01]"
+  },
+  {
+    "code": "G06F 7/68",
+    "description": "••••que utilizan multiplicadores o divisores de la frecuencia de repetición de impulsos (G06F 7/70 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G06F 7/70",
+    "description": "••••que utilizan trenes de impulsos estocásticos, es decir, de impulsos que aparecen al azar y cuya media de la frecuencia de repetición de impulsos representa los números [2006.01]"
+  },
+  {
+    "code": "G06F 7/72",
+    "description": "••••que utilizan la aritmética de restos [2006.01]"
+  },
+  {
+    "code": "G06F 7/74",
+    "description": "••Selección o codificación dentro de una palabra de la posición de uno o más bits que tengan un valor específico, p.ej detección del más o menos significativo o de cero, codificadores de prioridad [2006.01]"
+  },
+  {
+    "code": "G06F 7/76",
+    "description": "••Disposiciones para la reorganización, la permutación o la selección de datos de acuerdo con reglas predeterminadas, independientemente del contenido de los datos [2006.01]"
+  },
+  {
+    "code": "G06F 7/78",
+    "description": "••••para el cambio del orden de flujo de datos, p. ej. transposición matricial, búferes LIFO; Gestión de desbordamiento y subdesbordamiento [2006.01]"
+  },
+  {
+    "code": "G06F 8/00",
+    "description": "Disposiciones para la ingeniería del software (comprobación o depuración G06F 11/36; aspectos administrativos, de planificación u organización de la gestión de proyectos software G06Q 10/06) [2018.01]"
+  },
+  {
+    "code": "G06F 8/10",
+    "description": "••Análisis de requisitos; Técnicas de especificación [2018.01]"
+  },
+  {
+    "code": "G06F 8/20",
+    "description": "••Diseño del software [2018.01]"
+  },
+  {
+    "code": "G06F 8/30",
+    "description": "••Creación o generación de código fuente [2018.01]"
+  },
+  {
+    "code": "G06F 8/33",
+    "description": "••••Editores inteligentes [2018.01]"
+  },
+  {
+    "code": "G06F 8/34",
+    "description": "••••Programación gráfica o visual [2018.01]"
+  },
+  {
+    "code": "G06F 8/35",
+    "description": "••••guiada por modelos [2018.01]"
+  },
+  {
+    "code": "G06F 8/36",
+    "description": "••••Reutilización del software [2018.01]"
+  },
+  {
+    "code": "G06F 8/38",
+    "description": "••••para implementar interfaces de usuario [2018.01]"
+  },
+  {
+    "code": "G06F 8/40",
+    "description": "••Transformación del código de programa [2018.01]"
+  },
+  {
+    "code": "G06F 8/41",
+    "description": "••••Compilación [2018.01]"
+  },
+  {
+    "code": "G06F 8/51",
+    "description": "••••Fuente a fuente [2018.01]"
+  },
+  {
+    "code": "G06F 8/52",
+    "description": "••••Binario a binario [2018.01]"
+  },
+  {
+    "code": "G06F 8/53",
+    "description": "••••Decompilación; Desensamblado [2018.01]"
+  },
+  {
+    "code": "G06F 8/54",
+    "description": "••••Edición de enlaces antes de la carga [2018.01]"
+  },
+  {
+    "code": "G06F 8/60",
+    "description": "••Despliegue del software [2018.01]"
+  },
+  {
+    "code": "G06F 8/61",
+    "description": "••••Instalación [2018.01]"
+  },
+  {
+    "code": "G06F 8/65",
+    "description": "••••Actualizaciones (disposiciones de seguridad para las mismas G06F 21/57) [2018.01]"
+  },
+  {
+    "code": "G06F 8/654",
+    "description": "••••••utilizando técnicas especialmente adaptadas para memorias de semiconductor alterables, p. ej. para EEPROM o memorias flash [2018.01]"
+  },
+  {
+    "code": "G06F 8/656",
+    "description": "••••••durante la ejecución [2018.01]"
+  },
+  {
+    "code": "G06F 8/658",
+    "description": "••••••Actualizaciones incrementales; Actualizaciones diferenciales [2018.01]"
+  },
+  {
+    "code": "G06F 8/70",
+    "description": "••Mantenimiento o gestión del software [2018.01]"
+  },
+  {
+    "code": "G06F 8/71",
+    "description": "••••Control de versiones (disposiciones de seguridad para el mismo G06F 21/57); Gestión de la configuración [2018.01]"
+  },
+  {
+    "code": "G06F 8/72",
+    "description": "••••Refactorización de código [2018.01]"
+  },
+  {
+    "code": "G06F 8/73",
+    "description": "••••Documentación de programas [2018.01]"
+  },
+  {
+    "code": "G06F 8/74",
+    "description": "••••Ingeniería inversa; extracción de información de diseño a partir del código fuente [2018.01]"
+  },
+  {
+    "code": "G06F 8/75",
+    "description": "••••Análisis estructural para la comprensión de programas [2018.01]"
+  },
+  {
+    "code": "G06F 8/76",
+    "description": "••••Adaptación del código del programa para su ejecución en distintos entornos; Portabilidad [2018.01]"
+  },
+  {
+    "code": "G06F 8/77",
+    "description": "••••Métricas del software [2018.01]"
+  },
+  {
+    "code": "G06F 9/00",
+    "description": "Disposiciones para el control por programa, p. ej. unidades de control (control por programa para dispositivos periféricos G06F 13/10) [2018.01]"
+  },
+  {
+    "code": "G06F 9/02",
+    "description": "••que utilizan conexiones cableadas, p. ej. tableros de conexiones [2006.01]"
+  },
+  {
+    "code": "G06F 9/04",
+    "description": "••que utilizan soportes de registros que contienen solamente instrucciones de programa (G06F 9/06 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G06F 9/06",
+    "description": "••que utilizan programas almacenados, es decir que utilizan una unidad de almacenamiento interna del equipo de procesamiento para recibir o conservar programas [2006.01]"
+  },
+  {
+    "code": "G06F 9/22",
+    "description": "••••Disposiciones de microprograma [2006.01]"
+  },
+  {
+    "code": "G06F 9/24",
+    "description": "••••••Carga del microprograma [2006.01]"
+  },
+  {
+    "code": "G06F 9/26",
+    "description": "••••••Formación de la dirección de la microinstrucción siguiente (G06F 9/28 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G06F 9/28",
+    "description": "••••••Aumento de la velocidad de funcionamiento, p. ej. utilizando varios dispositivos de microcontrol que funcionan en paralelo [2006.01]"
+  },
+  {
+    "code": "G06F 9/30",
+    "description": "••••Disposiciones para ejecutar instrucciones de máquinas, p. ej. decodificación de instrucciones (para ejecutar microinstrucciones G06F 9/22) [2018.01]"
+  },
+  {
+    "code": "G06F 9/302",
+    "description": "••••••Control de la ejecución de operaciones aritméticas [2018.01]"
+  },
+  {
+    "code": "G06F 9/305",
+    "description": "••••••Control de la ejecución de operaciones lógicas [2018.01]"
+  },
+  {
+    "code": "G06F 9/308",
+    "description": "••••••Control de operaciones sobre bits aislados (G06F 9/305 tiene prioridad) [2018.01]"
+  },
+  {
+    "code": "G06F 9/312",
+    "description": "••••••Control de operaciones de carga, de registro o de borrado [2018.01]"
+  },
+  {
+    "code": "G06F 9/315",
+    "description": "••••••Control de las operaciones de transferencia, de desplazamiento o de rotación [2018.01]"
+  },
+  {
+    "code": "G06F 9/318",
+    "description": "••••••con extensión o modificación de operaciones [2018.01]"
+  },
+  {
+    "code": "G06F 9/32",
+    "description": "••••••Formación de la dirección de la instrucción siguiente, p. ej. por incremento del contador de instrucción (G06F 9/38 tiene prioridad) [2018.01]"
+  },
+  {
+    "code": "G06F 9/34",
+    "description": "••••••Direccionamiento del operando de instrucción o del resultado o acceso al operando de instrucción o al resultado [2018.01]"
+  },
+  {
+    "code": "G06F 9/345",
+    "description": "••••••••de operandos o de resultados múltiples [2018.01]"
+  },
+  {
+    "code": "G06F 9/35",
+    "description": "••••••••Direccionamiento indirecto [2018.01]"
+  },
+  {
+    "code": "G06F 9/355",
+    "description": "••••••••Direccionamiento indexado [2018.01]"
+  },
+  {
+    "code": "G06F 9/38",
+    "description": "••••••Ejecución simultánea de instrucciones, p. ej. segmentación, anticipación [2018.01]"
+  },
+  {
+    "code": "G06F 9/44",
+    "description": "••••Disposiciones para ejecutar programas específicos [2018.01]"
+  },
+  {
+    "code": "G06F 9/4401",
+    "description": "••••••Arranque (disposiciones de seguridad para el mismo G06F 21/57) [2018.01]"
+  },
+  {
+    "code": "G06F 9/445",
+    "description": "••••••Carga o inicio de programas (arranque G06F 9/4401; disposiciones de seguridad para la carga o inicio de programas  G06F 21/57) [2018.01]"
+  },
+  {
+    "code": "G06F 9/448",
+    "description": "••••••Paradigmas de ejecución, p. ej. implementaciones de paradigmas de programación [2018.01]"
+  },
+  {
+    "code": "G06F 9/451",
+    "description": "••••••Disposiciones de ejecución para interfaces de usuario [2018.01]"
+  },
+  {
+    "code": "G06F 9/455",
+    "description": "••••••Emulación; Interpretación; Simulación delsoftware, p. ej. virtualización o emulación de motores de ejecución de aplicaciones o sistemas operativos [2018.01]"
+  },
+  {
+    "code": "G06F 9/46",
+    "description": "••••Disposiciones para la multiprogramación [2006.01]"
+  },
+  {
+    "code": "G06F 9/48",
+    "description": "••••••Inicio de programas; Conmutación de programas, p. ej. mediante una interrupción [2006.01]"
+  },
+  {
+    "code": "G06F 9/50",
+    "description": "••••••Asignación de recursos, p. ej. de la unidad central de procesamiento [CPU] [2006.01]"
+  },
+  {
+    "code": "G06F 9/52",
+    "description": "••••••Sincronización de programas; Exclusión mutua, p. ej. mediante semáforos [2006.01]"
+  },
+  {
+    "code": "G06F 9/54",
+    "description": "••••••Comunicación entre programas [2006.01]"
+  },
+  {
+    "code": "G06F 11/00",
+    "description": "Detección de errores; Corrección de errores; Monitorización (detección, corrección o monitorización de errores en el almacenamiento de información basado en el movimiento relativo entre el soporte de registro y el transductor G11B 20/18; monitorización, es decir, supervisión del progreso del registro o reproducción G11B 27/36; en memorias estáticas G11C 29/00) [2006.01]"
+  },
+  {
+    "code": "G06F 11/07",
+    "description": "••Respuesta ante la aparición de un defecto, p. ej. tolerancia ante fallos [2006.01]"
+  },
+  {
+    "code": "G06F 11/08",
+    "description": "••••Detección o corrección de errores por introducción de redundancia en la representación de los datos, p. ej. utilizando códigos de control [2006.01]"
+  },
+  {
+    "code": "G06F 11/10",
+    "description": "••••••añadiendo cifras binarias o símbolos especiales a los datos expresados según un código, p. ej. control de paridad, exclusión de los 9 o de los 11 [2006.01]"
+  },
+  {
+    "code": "G06F 11/14",
+    "description": "••••Detección o corrección de errores en los datos por redundancia en las operaciones, p. ej. mediante la utilización de diversas secuencias de operaciones que conduzcan al mismo resultado (G06F 11/16 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G06F 11/16",
+    "description": "••••Detección o corrección de errores en un dato por redundancia en el hardware [2006.01]"
+  },
+  {
+    "code": "G06F 11/18",
+    "description": "••••••utilizando un enmascaramiento pasivo del defecto de los circuitos redundantes, p. ej. por lógica combinatoria de los circuitos redundantes, por circuitos de decisión mayoritaria [2006.01]"
+  },
+  {
+    "code": "G06F 11/20",
+    "description": "••••••utilizando un enmascaramiento activo del defecto, p. ej. desconectando los elementos debilitados o insertando los elementos de recambio [2006.01]"
+  },
+  {
+    "code": "G06F 11/22",
+    "description": "••Detección o localización de hardware defectuoso efectuando pruebas durante las operaciones de espera (standby) o durante los tiempos muertos, p. ej. pruebas de arranque [2006.01]"
+  },
+  {
+    "code": "G06F 11/24",
+    "description": "••••Pruebas marginales [2006.01]"
+  },
+  {
+    "code": "G06F 11/25",
+    "description": "••••Pruebas de funcionamiento lógico, p. ej. mediante analizadores lógicos [2006.01]"
+  },
+  {
+    "code": "G06F 11/26",
+    "description": "••••Pruebas funcionales [2006.01]"
+  },
+  {
+    "code": "G06F 11/263",
+    "description": "••••••Generación de señales de entrada de prueba, p. ej. vectores, formas o secuencias de prueba [2006.01]"
+  },
+  {
+    "code": "G06F 11/267",
+    "description": "••••••Reconfiguración para pruebas, p. ej. LSSD, partición [2006.01]"
+  },
+  {
+    "code": "G06F 11/27",
+    "description": "••••••Pruebas incorporadas [2006.01]"
+  },
+  {
+    "code": "G06F 11/273",
+    "description": "••••••Hardware de pruebas, es decir circuitos de procesamiento de señales de salida [2006.01]"
+  },
+  {
+    "code": "G06F 11/277",
+    "description": "••••••••con comparación entre la respuesta efectiva y la respuesta conocida libre de error [2006.01]"
+  },
+  {
+    "code": "G06F 11/28",
+    "description": "••verificando que el orden de tratamiento es correcto (G06F 11/07, G06F 11/22 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G06F 11/30",
+    "description": "••Vigilancia del funcionamiento [2006.01]"
+  },
+  {
+    "code": "G06F 11/32",
+    "description": "••••con indicación visual del funcionamiento de la máquina [2006.01]"
+  },
+  {
+    "code": "G06F 11/34",
+    "description": "••••Registro o evaluación estática de la actividad del computador, p. ej. de las interrupciones o de las operaciones de entrada-salida [2006.01]"
+  },
+  {
+    "code": "G06F 11/36",
+    "description": "••Prevención de errores probando o depurando el software [2006.01]"
+  },
+  {
+    "code": "G06F 12/00",
+    "description": "Acceso, direccionamiento o asignación en sistemas o arquitecturas de memoria (entrada digital a partir de, o salida digital hacia soportes de registro, p. ej. hacia unidades de almacenamiento de disco G06F 3/06) [2006.01]"
+  },
+  {
+    "code": "G06F 12/02",
+    "description": "••Direccionamiento o asignación; Traslado (secuenciación de direcciones de programa G06F 9/00; disposiciones para seleccionar una dirección en una memoria digital G11C 8/00) [2006.01]"
+  },
+  {
+    "code": "G06F 12/04",
+    "description": "••••Direccionamiento de palabras de longitud variable o de partes de palabras [2006.01]"
+  },
+  {
+    "code": "G06F 12/06",
+    "description": "••••Direccionamiento de un bloque físico de posiciones, p. ej. por dirección de base, direccionamiento de módulos, extensión del espacio de direcciones, dedicación de memoria (G06F 12/08 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G06F 12/08",
+    "description": "••••en sistemas de memorias jerárquicas, p. ej. sistemas de memoria virtual [2016.01]"
+  },
+  {
+    "code": "G06F 12/0802",
+    "description": "••••••Direccionamiento de un nivel de memoria en el que el acceso a los datos deseados o a los bloques de datos requiere medios de direccionamiento asociativos, p. ej.cachés [2016.01]"
+  },
+  {
+    "code": "G06F 12/0804",
+    "description": "••••••••con actualización de la memoria principal (G06F 12/0806 tiene prioridad) [2016.01]"
+  },
+  {
+    "code": "G06F 12/0806",
+    "description": "••••••••Sistemas de memoria caché multiusuario, multiprocesador o multiprocesamiento [2016.01]"
+  },
+  {
+    "code": "G06F 12/0808",
+    "description": "••••••••••con medios de invalidación de la caché (G06F 12/0815 tiene prioridad) [2016.01]"
+  },
+  {
+    "code": "G06F 12/0811",
+    "description": "••••••••••con jerarquías de caché multinivel [2016.01]"
+  },
+  {
+    "code": "G06F 12/0813",
+    "description": "••••••••••con una configuración de red o matriz [2016.01]"
+  },
+  {
+    "code": "G06F 12/0815",
+    "description": "••••••••••Protocolos de coherencia de caché [2016.01]"
+  },
+  {
+    "code": "G06F 12/0817",
+    "description": "••••••••••••que utilizan métodos de directorio [2016.01]"
+  },
+  {
+    "code": "G06F 12/0831",
+    "description": "••••••••••••que utilizan un esquema de bus, p. ej. con monitorización de bus o medios de vigilancia [2016.01]"
+  },
+  {
+    "code": "G06F 12/0837",
+    "description": "••••••••••••con control por software, p. ej. datos que no puedan ser introducidos en la memoria caché [2016.01]"
+  },
+  {
+    "code": "G06F 12/084",
+    "description": "••••••••••con memoria caché compartida [2016.01]"
+  },
+  {
+    "code": "G06F 12/0842",
+    "description": "••••••••••para multiprocesamiento o multitarea [2016.01]"
+  },
+  {
+    "code": "G06F 12/0844",
+    "description": "••••••••Múltiples accesos a memoria caché simultáneos o quasi- simultáneos [2016.01]"
+  },
+  {
+    "code": "G06F 12/0846",
+    "description": "••••••••••Memoria caché con múltiples etiquetas o conjuntos de datos accesibles simultáneamente [2016.01]"
+  },
+  {
+    "code": "G06F 12/0853",
+    "description": "••••••••••Memoria caché con múltiples etiquetas o conjuntos de datos para múltiples puertos [2016.01]"
+  },
+  {
+    "code": "G06F 12/0855",
+    "description": "••••••••••Acceso a memoria caché superpuesto, p. ej. pipeline (G06F 12/0846 tiene prioridad) [2016.01]"
+  },
+  {
+    "code": "G06F 12/0862",
+    "description": "••••••••con lectura previa [2016.01]"
+  },
+  {
+    "code": "G06F 12/0864",
+    "description": "••••••••utilizando medios pseudo-asociativos, p. ej. asociación de conjuntos o hash [2016.01]"
+  },
+  {
+    "code": "G06F 12/0866",
+    "description": "••••••••para sistemas de almacenamiento periféricos, p. ej.  memoria  caché de disco [2016.01]"
+  },
+  {
+    "code": "G06F 12/0868",
+    "description": "••••••••••Transferencia de datos entre la memoria caché y otros subsistemas, p. ej. dispositivos de almacenamiento o sistemas host [2016.01]"
+  },
+  {
+    "code": "G06F 12/0871",
+    "description": "••••••••••Asignación o gestión de espacio de memoria caché [2016.01]"
+  },
+  {
+    "code": "G06F 12/0873",
+    "description": "••••••••••Mapeado de la memoria caché con dispositivos de almacenamiento específicos o de partes de los mismos [2016.01]"
+  },
+  {
+    "code": "G06F 12/0875",
+    "description": "••••••••con memoria caché dedicada, p. ej.  instrucción o pila [2016.01]"
+  },
+  {
+    "code": "G06F 12/0877",
+    "description": "••••••••Modos de acceso a la memoria caché [2016.01]"
+  },
+  {
+    "code": "G06F 12/0879",
+    "description": "••••••••••Modo de ráfaga [2016.01]"
+  },
+  {
+    "code": "G06F 12/0882",
+    "description": "••••••••••Modo de página [2016.01]"
+  },
+  {
+    "code": "G06F 12/0884",
+    "description": "••••••••••Modo paralelo, p. ej. en paralelo con la memoria principal o CPU [2016.01]"
+  },
+  {
+    "code": "G06F 12/0886",
+    "description": "••••••••••Acceso por palabras de longitud variable [2016.01]"
+  },
+  {
+    "code": "G06F 12/0888",
+    "description": "••••••••utilizando almacenamiento selectivo en memoria caché, p. ej. vaciado de caché [2016.01]"
+  },
+  {
+    "code": "G06F 12/0891",
+    "description": "••••••••utilizando medios de borrado, de invalidación o de reinicio [2016.01]"
+  },
+  {
+    "code": "G06F 12/0893",
+    "description": "••••••••Memorias caché caracterizadas por su organización o estructura [2016.01]"
+  },
+  {
+    "code": "G06F 12/0895",
+    "description": "••••••••••de partes de memorias caché, p. ej. directorio o conjunto de etiquetas [2016.01]"
+  },
+  {
+    "code": "G06F 12/0897",
+    "description": "••••••••••con dos o más niveles jerárquicos de memoria caché (con jerarquías de memoria caché multinivel G06F 12/0811) [2016.01]"
+  },
+  {
+    "code": "G06F 12/10",
+    "description": "••••••Traducción de direcciones [2016.01]"
+  },
+  {
+    "code": "G06F 12/1009",
+    "description": "••••••••utilizando tablas de páginas, p. ej. estructuras de tablas de páginas [2016.01]"
+  },
+  {
+    "code": "G06F 12/1018",
+    "description": "••••••••••que implica técnicas de hash, p. ej. tablas de páginas invertidas [2016.01]"
+  },
+  {
+    "code": "G06F 12/1027",
+    "description": "••••••••utilizando medios de traducción de direcciones asociativas o pseudo-asociativas, p. ej. un repertorio de páginas activas [2016.01]"
+  },
+  {
+    "code": "G06F 12/1036",
+    "description": "••••••••••para múltiples espacios de direcciones virtuales, p. ej. segmentación (G06F 12/1045 tiene prioridad) [2016.01]"
+  },
+  {
+    "code": "G06F 12/1045",
+    "description": "••••••••••asociada a una memoria caché de datos [2016.01]"
+  },
+  {
+    "code": "G06F 12/1072",
+    "description": "•••••••••Traducción de direcciones descentralizada, p. ej. en sistemas distribuidos de memoria compartida [2016.01]"
+  },
+  {
+    "code": "G06F 12/1081",
+    "description": "••••••••para el acceso periférico a la memoria principal, p. ej. acceso directo a memoria [DMA] [2016.01]"
+  },
+  {
+    "code": "G06F 12/109",
+    "description": "••••••••para múltiples espacios de direcciones virtuales, p. ej. segmentación (G06F 12/1036 tiene prioridad) [2016.01]"
+  },
+  {
+    "code": "G06F 12/12",
+    "description": "••••••Control de remplazamiento [2016.01]"
+  },
+  {
+    "code": "G06F 12/121",
+    "description": "••••••••utilizando algoritmos de remplazo [2016.01]"
+  },
+  {
+    "code": "G06F 12/122",
+    "description": "••••••••••del tipo utilizado menos frecuentemente [LFU], p. ej. con valor de cómputo individual [2016.01]"
+  },
+  {
+    "code": "G06F 12/123",
+    "description": "••••••••••con listas de edad, p. ej. cola, lista del tipo utilizado más recientemente [MRU] o lista del tipo utilizado menos recientemente [LRU] [2016.01]"
+  },
+  {
+    "code": "G06F 12/126",
+    "description": "••••••••••con tratamiento especial de datos, p. ej.  prioridad de datos o instrucciones, tratamiento de errores o fijación [2016.01]"
+  },
+  {
+    "code": "G06F 12/127",
+    "description": "••••••••••••utilizando algoritmos de remplazo adicionales [2016.01]"
+  },
+  {
+    "code": "G06F 12/128",
+    "description": "••••••••••adaptado a los sistemas de memoria caché multidimensionales, p. ej.  asociativos de conjunto, multicaché, multiconjunto o multinivel [2016.01]"
+  },
+  {
+    "code": "G06F 12/14",
+    "description": "••Protección contra la utilización no autorizada de la memoria [2006.01]"
+  },
+  {
+    "code": "G06F 12/16",
+    "description": "••Protección contra la pérdida de contenidos de memoria [2006.01]"
+  },
+  {
+    "code": "G06F 13/00",
+    "description": "Interconexión o transferencia de información u otras señales entre memorias, dispositivos de entrada/salida o unidades de procesamiento (circuitos de interfaz para dispositivos de entrada/salida específicos G06F 3/00; sistemas multiprocesadores G06F 15/16) [2006.01]"
+  },
+  {
+    "code": "G06F 13/10",
+    "description": "••Control por programa para dispositivos periféricos (G06F 13/14-G06F 13/42 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G06F 13/12",
+    "description": "••••utilizando hardware independiente del procesador central, p. ej. canal o procesador periférico [2006.01]"
+  },
+  {
+    "code": "G06F 13/14",
+    "description": "••Procesamiento de peticiones de interconexión o de transferencia [2006.01]"
+  },
+  {
+    "code": "G06F 13/16",
+    "description": "••••para el acceso al bus de memoria (G06F 13/28 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G06F 13/18",
+    "description": "••••••con control prioritario [2006.01]"
+  },
+  {
+    "code": "G06F 13/20",
+    "description": "••••para el acceso al bus de entrada/salida [2006.01]"
+  },
+  {
+    "code": "G06F 13/22",
+    "description": "••••••utilizando la exploración sucesiva, p. ej. la llamada selectiva (G06F 13/24 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G06F 13/24",
+    "description": "••••••utilizando la interrupción (G06F 13/32 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G06F 13/26",
+    "description": "••••••••con control prioritario [2006.01]"
+  },
+  {
+    "code": "G06F 13/28",
+    "description": "••••••utilizando la transferencia por ráfaga, p. ej. acceso directo a la memoria, robo de ciclo (G06F 13/32 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G06F 13/30",
+    "description": "••••••••con control prioritario [2006.01]"
+  },
+  {
+    "code": "G06F 13/32",
+    "description": "••••••utilizando la combinación de interrupción y de transferencia por ráfaga [2006.01]"
+  },
+  {
+    "code": "G06F 13/34",
+    "description": "••••••••con control prioritario [2006.01]"
+  },
+  {
+    "code": "G06F 13/36",
+    "description": "••••para el acceso al bus común o al sistema de buses comunes [2006.01]"
+  },
+  {
+    "code": "G06F 13/362",
+    "description": "••••••con control centralizado de acceso [2006.01]"
+  },
+  {
+    "code": "G06F 13/364",
+    "description": "••••••••utilizando señales independientes de petición o de autorización, p. ej. utilizando líneas separadas de petición y de autorización [2006.01]"
+  },
+  {
+    "code": "G06F 13/366",
+    "description": "••••••••utilizando un árbitro de interrogación centralizado [2006.01]"
+  },
+  {
+    "code": "G06F 13/368",
+    "description": "••••••con comando de acceso descentralizado [2006.01]"
+  },
+  {
+    "code": "G06F 13/37",
+    "description": "••••••••utilizando una prioridad que dependa de la posición física, p. ej. conexión en guirnalda, interrogación por turno o paso de testigo [2006.01]"
+  },
+  {
+    "code": "G06F 13/372",
+    "description": "••••••••utilizando una prioridad que dependa del tiempo, p. ej. contadores de tiempo o intervalos de tiempo individualmente cargados [2006.01]"
+  },
+  {
+    "code": "G06F 13/374",
+    "description": "••••••••utilizando un método de autoselección con un comparador individual de código de prioridad [2006.01]"
+  },
+  {
+    "code": "G06F 13/376",
+    "description": "••••••••utilizando un método de resolución de conflictos de utilización, p. ej. detección de colisión, evitación de colisión [2006.01]"
+  },
+  {
+    "code": "G06F 13/378",
+    "description": "••••••••utilizando un método de interrogación paralela [2006.01]"
+  },
+  {
+    "code": "G06F 13/38",
+    "description": "••Transferencia de informaciones, p. ej. sobre un bus (G06F 13/14 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G06F 13/40",
+    "description": "••••Estructura del bus [2006.01]"
+  },
+  {
+    "code": "G06F 13/42",
+    "description": "••••Protocolo de transferencia para bus, p. ej. interbloqueo; Sincronización [2006.01]"
+  },
+  {
+    "code": "G06F 15/00",
+    "description": "Computadores digitales en general (detalles G06F 1/00-G06F 13/00); Equipo de procesamiento de datos en general [2006.01]"
+  },
+  {
+    "code": "G06F 15/02",
+    "description": "••operado manualmente con entrada por teclado y con cálculo mediante un programa incorporado, p. ej. calculadoras de bolsillo [2006.01]"
+  },
+  {
+    "code": "G06F 15/04",
+    "description": "••que reciben los programas al mismo tiempo que los datos a tratar, p. ej. sobre el mismo soporte de registro [2006.01]"
+  },
+  {
+    "code": "G06F 15/08",
+    "description": "••que utilizan una tabla de conexiones para la programación [2006.01]"
+  },
+  {
+    "code": "G06F 15/10",
+    "description": "••••Tabuladores [2006.01]"
+  },
+  {
+    "code": "G06F 15/12",
+    "description": "••••••que tienen disposiciones para producir al mismo tiempo documentos de salida impresos y documentos de salida perforados [2006.01]"
+  },
+  {
+    "code": "G06F 15/14",
+    "description": "••••Perforadores de cálculo [2006.01]"
+  },
+  {
+    "code": "G06F 15/16",
+    "description": "••Asociaciones de dos o más computadores digitales que tienen cada uno por lo menos una unidad aritmética, una unidad de programa y un registro, p. ej. para el procesamiento simultáneo de varios programas [2006.01]"
+  },
+  {
+    "code": "G06F 15/163",
+    "description": "••••Comunicación entre procesadores [2006.01]"
+  },
+  {
+    "code": "G06F 15/167",
+    "description": "••••••que utilizan una memoria común, p. ej. buzón de correo electrónico [2006.01]"
+  },
+  {
+    "code": "G06F 15/17",
+    "description": "••••••que utilizan una conexión del tipo entrada/salida, p. ej. canal, puerto entrada/salida [2006.01]"
+  },
+  {
+    "code": "G06F 15/173",
+    "description": "••••••que utilizan una red de interconexión, p. ej. matricial, barajada, piramidal, en estrella, ramificada [2006.01]"
+  },
+  {
+    "code": "G06F 15/177",
+    "description": "••••Control de inicialización o de configuración (control de configuración para el control, los ensayos o en caso de fallo G06F 11/00) [2006.01]"
+  },
+  {
+    "code": "G06F 15/76",
+    "description": "••Arquitecturas de computadores con programas almacenados de propósito general (con tableros de conexiones para la programación G06F 15/08; multicomputadores G06F 15/16) [2006.01]"
+  },
+  {
+    "code": "G06F 15/78",
+    "description": "••••que comprenden una sola unidad central [2006.01]"
+  },
+  {
+    "code": "G06F 15/80",
+    "description": "••••que comprenden un conjunto de unidades de procesamiento con control común, p. ej. varios procesadores de datos de instrucción única (G06F 15/82 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G06F 15/82",
+    "description": "••••controlados por datos o peticiones [2006.01]"
+  },
+  {
+    "code": "G06F 16/00",
+    "description": "Recuperación de información; Estructuras de las bases de datos a tal efecto; Estructuras de los sistemas de archivo a tal efecto [2019.01]"
+  },
+  {
+    "code": "G06F 16/10",
+    "description": "••Sistemas de archivo; Servidores del archivo [2019.01]"
+  },
+  {
+    "code": "G06F 16/11",
+    "description": "••••Administración de los sistemas de archivos, p. ej. detalles del almacenamiento de datos o de instantáneas (copia de seguridad del sistema de archivos G06F 11/14) [2019.01]"
+  },
+  {
+    "code": "G06F 16/13",
+    "description": "••••Estructuras de acceso a los archivos, p. ej. índices distribuidos (disposiciones de entrada desde los soportes de registro, o de salida hacia los soportes de registro G06F 3/06) [2019.01]"
+  },
+  {
+    "code": "G06F 16/14",
+    "description": "••••Detalles de los archivos de búsqueda basados en los metadatos de los archivos [2019.01]"
+  },
+  {
+    "code": "G06F 16/16",
+    "description": "••••Operaciones en los archivos o carpetas, p. ej. partes constitutivas de las interfaces adaptadas específicamente a los sistemas de archivo [2019.01]"
+  },
+  {
+    "code": "G06F 16/17",
+    "description": "••••Detalles de otras funciones de los sistemas de archivo [2019.01]"
+  },
+  {
+    "code": "G06F 16/172",
+    "description": "••••••Almacenamiento en la memoria caché, captura previa o acumulación de archivos [2019.01]"
+  },
+  {
+    "code": "G06F 16/174",
+    "description": "••••••Eliminación de la redundancia desarrollada por el sistema de archivos (gestión de los datos implicados en la copia de seguridad o la recuperación de la copia de seguridad usando deduplicación de los datos G06F 11/14) [2019.01]"
+  },
+  {
+    "code": "G06F 16/176",
+    "description": "••••••Soporte para el acceso compartido a los archivos; Soporte de compartición de archivos [2019.01]"
+  },
+  {
+    "code": "G06F 16/178",
+    "description": "••••••Técnicas de sincronización de archivos en sistemas de archivos [2019.01]"
+  },
+  {
+    "code": "G06F 16/18",
+    "description": "••••Tipos de sistemas de archivos [2019.01]"
+  },
+  {
+    "code": "G06F 16/182",
+    "description": "••••••Sistemas de archivos distribuidos [2019.01]"
+  },
+  {
+    "code": "G06F 16/185",
+    "description": "••••••Sistemas de gestión de almacenamiento jerárquico [HSM], p. ej. migración de archivos y sus políticas (detalles del almacenamiento  G06F 16/11) [2019.01]"
+  },
+  {
+    "code": "G06F 16/188",
+    "description": "••••••Sistemas de archivos virtuales [2019.01]"
+  },
+  {
+    "code": "G06F 16/20",
+    "description": "••de datos estructurados, p. ej. datos relacionales [2019.01]"
+  },
+  {
+    "code": "G06F 16/21",
+    "description": "••••Diseño, administración o mantenimiento de las bases de datos [2019.01]"
+  },
+  {
+    "code": "G06F 16/215",
+    "description": "••••••Mejora de la calidad de los datos; Limpieza de datos, p. ej. deduplicación, eliminación de entradas inválidas o corrección de errores tipográficos [2019.01]"
+  },
+  {
+    "code": "G06F 16/22",
+    "description": "••••Indexación; Estructuras de las bases de datos a tal efecto; Estructuras de almacenamiento [2019.01]"
+  },
+  {
+    "code": "G06F 16/23",
+    "description": "••••Actualización [2019.01]"
+  },
+  {
+    "code": "G06F 16/24",
+    "description": "••••Consulta [2019.01]"
+  },
+  {
+    "code": "G06F 16/242",
+    "description": "••••••Formulación de la consulta [2019.01]"
+  },
+  {
+    "code": "G06F 16/245",
+    "description": "••••••Procesamiento de la consulta [2019.01]"
+  },
+  {
+    "code": "G06F 16/2452",
+    "description": "••••••••Traducción de la consulta [2019.01]"
+  },
+  {
+    "code": "G06F 16/2453",
+    "description": "••••••••Optimización de la consulta [2019.01]"
+  },
+  {
+    "code": "G06F 16/2455",
+    "description": "••••••••Ejecución de la consulta [2019.01]"
+  },
+  {
+    "code": "G06F 16/2457",
+    "description": "••••••••con adaptación a las necesidades del usuario [2019.01]"
+  },
+  {
+    "code": "G06F 16/2458",
+    "description": "••••••••Tipos especiales de consulta, p. ej. consultas estadísticas, consultas difusas o consultas distribuidas [2019.01]"
+  },
+  {
+    "code": "G06F 16/248",
+    "description": "••••••Presentación de los resultados de la consulta [2019.01]"
+  },
+  {
+    "code": "G06F 16/25",
+    "description": "••••Sistemas de integración o de interconexión implicando los sistemas de gestión de bases de datos [2019.01]"
+  },
+  {
+    "code": "G06F 16/26",
+    "description": "••••Minería de datos visuales; Navegación a través de datos estructurados [2019.01]"
+  },
+  {
+    "code": "G06F 16/27",
+    "description": "••••Reproducción, distribución o sincronización de los datos entre bases de datos o dentro de un sistema de bases de datos distribuidas; Arquitecturas de los sistemas de bases de datos distribuidas a tal efecto. [2019.01]"
+  },
+  {
+    "code": "G06F 16/28",
+    "description": "••••Bases de datos caracterizadas por sus modelos de bases de datos, p.ej. modelos relacionales o de objeto [2019.01]"
+  },
+  {
+    "code": "G06F 16/29",
+    "description": "••••Bases de datos de información geográfica [2019.01]"
+  },
+  {
+    "code": "G06F 16/30",
+    "description": "••de datos textuales no estructurados (sistemas de gestión de documentos G06F 16/93) [2019.01]"
+  },
+  {
+    "code": "G06F 16/31",
+    "description": "••••Indexación; Estructuras de datos a tal efecto; Estructuras de almacenamiento [2019.01]"
+  },
+  {
+    "code": "G06F 16/33",
+    "description": "••••Consulta [2019.01]"
+  },
+  {
+    "code": "G06F 16/332",
+    "description": "••••••Formulación de la consulta [2019.01]"
+  },
+  {
+    "code": "G06F 16/335",
+    "description": "••••••Filtrado basado en datos adicionales, p. ej. perfiles de usuario o de grupo (filtración en entorno web G06F 16/9535, G06F 16/9536) [2019.01]"
+  },
+  {
+    "code": "G06F 16/338",
+    "description": "••••••Presentación de los resultados de la consulta [2019.01]"
+  },
+  {
+    "code": "G06F 16/34",
+    "description": "••••Navegación; Visualización a tal efecto [2019.01]"
+  },
+  {
+    "code": "G06F 16/35",
+    "description": "••••Agrupamiento; Clasificación [2019.01]"
+  },
+  {
+    "code": "G06F 16/36",
+    "description": "••••Creación de herramientas semánticas, p. ej. ontología o tesauro [2019.01]"
+  },
+  {
+    "code": "G06F 16/38",
+    "description": "••••Recuperación caracterizada por la utilización de metadatos, p. ej. metadatos no derivados del contenido o metadatos generados manualmente [2019.01]"
+  },
+  {
+    "code": "G06F 16/383",
+    "description": "••••••utilizando los metadatos derivados automáticamente del contenido [2019.01]"
+  },
+  {
+    "code": "G06F 16/387",
+    "description": "••••••utilizando información geográfica o espacial, p. ej. la localización [2019.01]"
+  },
+  {
+    "code": "G06F 16/40",
+    "description": "••de datos multimedia, p. ej. presentación en diapositivas que comprenden datos de imagen y datos de audio adicionales (recuperación de datos de una imagen fija G06F 16/50; recuperación de datos de audio G06F 16/60; recuperación de datos de video G06F 16/70) [2019.01]"
+  },
+  {
+    "code": "G06F 16/41",
+    "description": "••••Indexación; Estructuras de datos a tal efecto; Estructuras de almacenamiento [2019.01]"
+  },
+  {
+    "code": "G06F 16/43",
+    "description": "••••Consulta [2019.01]"
+  },
+  {
+    "code": "G06F 16/432",
+    "description": "••••••Formulación de la consulta [2019.01]"
+  },
+  {
+    "code": "G06F 16/435",
+    "description": "••••••Filtrado basado en datos adicionales, p. ej. en los perfiles de usuario o de grupo [2019.01]"
+  },
+  {
+    "code": "G06F 16/438",
+    "description": "••••••Presentación de los resultados de la consulta [2019.01]"
+  },
+  {
+    "code": "G06F 16/44",
+    "description": "••••Navegación; Visualización a tal efecto [2019.01]"
+  },
+  {
+    "code": "G06F 16/45",
+    "description": "••••Agrupamiento; Clasificación [2019.01]"
+  },
+  {
+    "code": "G06F 16/48",
+    "description": "••••Recuperación caracterizada por el uso de metadatos, p. ej. metadatos no derivados del contenido o metadatos generados manualmente [2019.01]"
+  },
+  {
+    "code": "G06F 16/483",
+    "description": "••••••utilizando los metadatos derivados automáticamente del contenido [2019.01]"
+  },
+  {
+    "code": "G06F 16/487",
+    "description": "••••••utilizando información geográfica o espacial, p. ej. la localización [2019.01]"
+  },
+  {
+    "code": "G06F 16/50",
+    "description": "••de datos de imagen fija [2019.01]"
+  },
+  {
+    "code": "G06F 16/51",
+    "description": "••••Indexación; Sus estructuras de datos; Estructuras de almacenamiento [2019.01]"
+  },
+  {
+    "code": "G06F 16/53",
+    "description": "••••Consulta [2019.01]"
+  },
+  {
+    "code": "G06F 16/532",
+    "description": "••••••Formulación de la consulta, p. ej. consulta gráfica [2019.01]"
+  },
+  {
+    "code": "G06F 16/535",
+    "description": "••••••Filtrado basado en datos adicionales, p. ej. en los perfiles de usuario o de grupo [2019.01]"
+  },
+  {
+    "code": "G06F 16/538",
+    "description": "••••••Presentación de los resultados de la consulta [2019.01]"
+  },
+  {
+    "code": "G06F 16/54",
+    "description": "••••Navegación; Su visualización [2019.01]"
+  },
+  {
+    "code": "G06F 16/55",
+    "description": "••••Agrupamiento; Clasificación [2019.01]"
+  },
+  {
+    "code": "G06F 16/56",
+    "description": "••••teniendo un formato vectorial [2019.01]"
+  },
+  {
+    "code": "G06F 16/58",
+    "description": "••••Recuperación caracterizada por el uso de metadatos, p. ej. metadatos no derivados del contenido o metadatos generados manualmente [2019.01]"
+  },
+  {
+    "code": "G06F 16/583",
+    "description": "••••••utilizando metadatos derivados automáticamente del contenido [2019.01]"
+  },
+  {
+    "code": "G06F 16/587",
+    "description": "••••••utilizando información geográfica o espacial, p. ej. la localización [2019.01]"
+  },
+  {
+    "code": "G06F 16/60",
+    "description": "••de datos de audio [2019.01]"
+  },
+  {
+    "code": "G06F 16/61",
+    "description": "••••Indexación; Su estructura de datos; Sus estructuras de almacenamiento [2019.01]"
+  },
+  {
+    "code": "G06F 16/63",
+    "description": "••••Consulta [2019.01]"
+  },
+  {
+    "code": "G06F 16/632",
+    "description": "••••••Formulación de la consulta [2019.01]"
+  },
+  {
+    "code": "G06F 16/635",
+    "description": "••••••Filtrado basado en datos adicionales, p. ej. en los perfiles de usuario o de grupo [2019.01]"
+  },
+  {
+    "code": "G06F 16/638",
+    "description": "••••••Presentación de los resultados de la consulta [2019.01]"
+  },
+  {
+    "code": "G06F 16/64",
+    "description": "••••Navegación; Su visualización (generación de una lista o un conjunto de datos de audio G06F 16/638) [2019.01]"
+  },
+  {
+    "code": "G06F 16/65",
+    "description": "••••Agrupamiento; Clasificación [2019.01]"
+  },
+  {
+    "code": "G06F 16/68",
+    "description": "••••Recuperación caracterizada por el uso de metadatos, p. ej. metadatos no derivados del contenido o metadatos generados manualmente [2019.01]"
+  },
+  {
+    "code": "G06F 16/683",
+    "description": "••••••utilizando metadatos derivados automáticamente del contenido [2019.01]"
+  },
+  {
+    "code": "G06F 16/687",
+    "description": "••••••utilizando información geográfica o espacial, p. ej. la localización [2019.01]"
+  },
+  {
+    "code": "G06F 16/70",
+    "description": "••de datos de video [2019.01]"
+  },
+  {
+    "code": "G06F 16/71",
+    "description": "••••Indexación; Sus estructuras de datos; Estructuras de almacenamiento [2019.01]"
+  },
+  {
+    "code": "G06F 16/73",
+    "description": "••••Consulta [2019.01]"
+  },
+  {
+    "code": "G06F 16/732",
+    "description": "••••••Formulación de la consulta [2019.01]"
+  },
+  {
+    "code": "G06F 16/735",
+    "description": "••••••Filtrado basado en datos adicionales, p. ej. en los perfiles de usuario o de grupo [2019.01]"
+  },
+  {
+    "code": "G06F 16/738",
+    "description": "••••••Presentación de los resultados de la consulta [2019.01]"
+  },
+  {
+    "code": "G06F 16/74",
+    "description": "••••Navegación; Su visualización (las interfaces de usuario final para solicitar o interaccionar con contenidos de video, p. ej. las interfaces del video o de demanda o las guías de programas electrónicos, H04N 21/472) [2019.01]"
+  },
+  {
+    "code": "G06F 16/75",
+    "description": "••••Agrupamiento; Clasificación [2019.01]"
+  },
+  {
+    "code": "G06F 16/78",
+    "description": "••••Recuperación caracterizada por el uso de metadatos, p. ej. metadatos no derivados del contenido o metadatos generados manualmente [2019.01]"
+  },
+  {
+    "code": "G06F 16/783",
+    "description": "••••••utilizando metadatos derivados automáticamente del contenido [2019.01]"
+  },
+  {
+    "code": "G06F 16/787",
+    "description": "••••••utilizando información geográfica o espacial, p. ej. la localización [2019.01]"
+  },
+  {
+    "code": "G06F 16/80",
+    "description": "••de datos semi-estructurados, p. ej. datos estructurados por un lenguaje de marcas tales como SGML, XML o HTML (recuperación basada en el contenido de los datos de la red informática G06F 16/95) [2019.01]"
+  },
+  {
+    "code": "G06F 16/81",
+    "description": "••••Indexación, p. ej. etiquetas XML; Sus estructuras de datos; Estructuras de almacenamiento [2019.01]"
+  },
+  {
+    "code": "G06F 16/83",
+    "description": "••••Consulta [2019.01]"
+  },
+  {
+    "code": "G06F 16/832",
+    "description": "••••••Formulación de la consulta [2019.01]"
+  },
+  {
+    "code": "G06F 16/835",
+    "description": "••••••Procesamiento de la consulta [2019.01]"
+  },
+  {
+    "code": "G06F 16/838",
+    "description": "••••••Presentación de los resultados de la consulta [2019.01]"
+  },
+  {
+    "code": "G06F 16/84",
+    "description": "••••Mapeo; Conversión [2019.01]"
+  },
+  {
+    "code": "G06F 16/90",
+    "description": "••Detalles de las funciones de la base de datos independientes de los tipos de datos recuperados [2019.01]"
+  },
+  {
+    "code": "G06F 16/901",
+    "description": "••••Indexación; Sus estructuras de datos; Estructuras de almacenamiento (para recuperación de la web G06F 16/951) [2019.01]"
+  },
+  {
+    "code": "G06F 16/903",
+    "description": "••••Consulta (para recuperación de la web G06F 16/953) [2019.01]"
+  },
+  {
+    "code": "G06F 16/9032",
+    "description": "••••••Formulación de la consulta [2019.01]"
+  },
+  {
+    "code": "G06F 16/9035",
+    "description": "••••••Filtrado basado en datos adicionales, p. ej. en los perfiles de usuario o de grupo [2019.01]"
+  },
+  {
+    "code": "G06F 16/9038",
+    "description": "••••••Presentación de los resultados de la consulta [2019.01]"
+  },
+  {
+    "code": "G06F 16/904",
+    "description": "••••Navegación; Su visualización (para la navegación en la web G06F 16/954; optimización de la navegación web G06F 16/957) [2019.01]"
+  },
+  {
+    "code": "G06F 16/906",
+    "description": "••••Agrupamiento; Clasificación [2019.01]"
+  },
+  {
+    "code": "G06F 16/907",
+    "description": "••••Recuperación caracterizada por el uso de metadatos, p. ej. metadatos no derivados del contenido o metadatos generados manualmente [2019.01]"
+  },
+  {
+    "code": "G06F 16/908",
+    "description": "••••••utilizando metadatos derivados automáticamente del contenido [2019.01]"
+  },
+  {
+    "code": "G06F 16/909",
+    "description": "••••••utilizando información geográfica o espacial, p. ej. la localización (recuperación dependiente del espacio o del tiempo a partir de la web G06F 16/9537) [2019.01]"
+  },
+  {
+    "code": "G06F 16/93",
+    "description": "••••Sistemas de gestión de documentos [2019.01]"
+  },
+  {
+    "code": "G06F 16/95",
+    "description": "••••Recuperación de la web [2019.01]"
+  },
+  {
+    "code": "G06F 16/951",
+    "description": "••••••Indexación; Técnicas de rastreo o indexación [2019.01]"
+  },
+  {
+    "code": "G06F 16/953",
+    "description": "••••••Consulta, p. ej. por el uso de motores de búsqueda de la web [2019.01]"
+  },
+  {
+    "code": "G06F 16/9532",
+    "description": "••••••••Formulación de la consulta [2019.01]"
+  },
+  {
+    "code": "G06F 16/9535",
+    "description": "••••••••Adaptación de la búsqueda basada en los perfiles del usuario y la personalización [2019.01]"
+  },
+  {
+    "code": "G06F 16/9536",
+    "description": "••••••••Adaptación de la búsqueda basada en el filtrado social o colaborativo [2019.01]"
+  },
+  {
+    "code": "G06F 16/9537",
+    "description": "••••••••Recuperación dependiente del espacio o del tiempo, p. ej. consultas espacio-temporales [2019.01]"
+  },
+  {
+    "code": "G06F 16/9538",
+    "description": "••••••••Presentación de los resultados de la consulta [2019.01]"
+  },
+  {
+    "code": "G06F 16/954",
+    "description": "••••••Navegación, p. ej. utilizando la navegación por categorías [2019.01]"
+  },
+  {
+    "code": "G06F 16/955",
+    "description": "••••••utilizando identificadores de la información, p. ej. localizadores de recursos uniformes [URL] [2019.01]"
+  },
+  {
+    "code": "G06F 16/957",
+    "description": "••••••Optimización de la navegación, p. ej. poner en la memoria caché o destilación de contenidos [2019.01]"
+  },
+  {
+    "code": "G06F 16/958",
+    "description": "••••••Organización o gestión del contenido del sitio web, p. ej. publicación, mantenimiento de páginas o uniones automáticas [2019.01]"
+  },
+  {
+    "code": "G06F 17/00",
+    "description": "Equipo o métodos de procesamiento de datos o de cálculo digital, especialmente adaptados para funciones específicas (recuperación de la información, estructuras de las bases de datos o estructuras de los sistemas de archivos G06F 16/00) [2019.01]"
+  },
+  {
+    "code": "G06F 17/10",
+    "description": "••Operaciones matemáticas complejas [2006.01]"
+  },
+  {
+    "code": "G06F 17/11",
+    "description": "••••para la resolución de ecuaciones [2006.01]"
+  },
+  {
+    "code": "G06F 17/12",
+    "description": "••••••Ecuaciones simultáneas [2006.01]"
+  },
+  {
+    "code": "G06F 17/13",
+    "description": "••••••Ecuaciones diferenciales (utilizando analizadores diferenciales digitales G06F 7/64) [2006.01]"
+  },
+  {
+    "code": "G06F 17/14",
+    "description": "••••Transformaciones de Fourier, de Walsh o las transformaciones de espacios análogos [2006.01]"
+  },
+  {
+    "code": "G06F 17/15",
+    "description": "••••Cálculo de funciones de correlación [2006.01]"
+  },
+  {
+    "code": "G06F 17/16",
+    "description": "••••Cálculo de matrices o de vectores [2006.01]"
+  },
+  {
+    "code": "G06F 17/17",
+    "description": "••••Evaluación de funciones por métodos de aproximación, p. ej. por interpolación o extrapolación, por igualación, por el método de los mínimos cuadrados [2006.01]"
+  },
+  {
+    "code": "G06F 17/18",
+    "description": "••••para la evaluación de datos estadísticos [2006.01]"
+  },
+  {
+    "code": "G06F 17/40",
+    "description": "••Adquisición y consignación de datos (para entrada al computador G06F 3/00) [2006.01]"
+  },
+  {
+    "code": "G06F 18/00",
+    "description": "Reconocimiento de patrones [2023.01]"
+  },
+  {
+    "code": "G06F 18/10",
+    "description": "••Procesamiento previo; Depuración o limpieza de datos [2023.01]"
+  },
+  {
+    "code": "G06F 18/15",
+    "description": "••••Preprocesamiento estadístico, p. ej. técnicas para normalizar o restablecer datos perdidos [2023.01]"
+  },
+  {
+    "code": "G06F 18/20",
+    "description": "••Analizado [2023.01]"
+  },
+  {
+    "code": "G06F 18/21",
+    "description": "••••Diseño o configuración de sistemas o técnicas de reconocimiento; Extracción de características de un espacio de características; Separación de señales a ciegas [2023.01]"
+  },
+  {
+    "code": "G06F 18/211",
+    "description": "••••••Selección del subconjunto de características más significativo [2023.01]"
+  },
+  {
+    "code": "G06F 18/2111",
+    "description": "••••••••mediante técnicas computacionales evolutivas, p. ej. agorítmos genéticos [2023.01]"
+  },
+  {
+    "code": "G06F 18/2113",
+    "description": "••••••••clasificando o filtrando el conjunto de características, p. ej. mediane una medida de la varianza o de la correlación cruzada de características [2023.01]"
+  },
+  {
+    "code": "G06F 18/2115",
+    "description": "••••••••evaluando diferentes subconjuntos según un criterio de optimización, p. ej. la separabilidad de las clases, la selección hacia delante o la eliminación hacia atrás [2023.01]"
+  },
+  {
+    "code": "G06F 18/213",
+    "description": "••••••Extracción de características, p. ej. mediante la transformación del espacio de características; Resumir; Mapeos, p. ej. métodos de subespacio [2023.01]"
+  },
+  {
+    "code": "G06F 18/2131",
+    "description": "••••••••basado en un procesamiento del dominio de la transformada, p. ej. la transformada wavelet [2023.01]"
+  },
+  {
+    "code": "G06F 18/2132",
+    "description": "••••••••basado en criterios de discriminación, p. ej. análisis discriminante [2023.01]"
+  },
+  {
+    "code": "G06F 18/2133",
+    "description": "••••••••basado en criterios de naturalidad, p. ej. con factorización no negativa o correlación negativa [2023.01]"
+  },
+  {
+    "code": "G06F 18/2134",
+    "description": "••••••••basado en criterios de separación, p. ej. análisis de componentes independientes [2023.01]"
+  },
+  {
+    "code": "G06F 18/2135",
+    "description": "••••••••basado en criterios de aproximación, p. ej. análisis de componentes principales [2023.01]"
+  },
+  {
+    "code": "G06F 18/2136",
+    "description": "••••••••basado en criterios de escasez, p. ej. con una base sobrecompleta [2023.01]"
+  },
+  {
+    "code": "G06F 18/2137",
+    "description": "••••••••basado en criterios de preservación de la topología, p. ej. escalamiento multidimensional o mapas de autoorganización [2023.01]"
+  },
+  {
+    "code": "G06F 18/214",
+    "description": "••••••Generación de patrones de entrenamiento; métodos Bootstrap, p. ej. bagging o boosting [2023.01]"
+  },
+  {
+    "code": "G06F 18/22",
+    "description": "••••Criterios de concordancia, p. ej. medidas de proximidad [2023.01]"
+  },
+  {
+    "code": "G06F 18/23",
+    "description": "••••Técnicas de agrupamiento [2023.01]"
+  },
+  {
+    "code": "G06F 18/231",
+    "description": "••••••Técnicas jerárquicas, es decir, dividir o fusionar conjuntos de patrones para obtener un dendrograma [2023.01]"
+  },
+  {
+    "code": "G06F 18/232",
+    "description": "••••••Técnicas no jerárquicas [2023.01]"
+  },
+  {
+    "code": "G06F 18/2321",
+    "description": "••••••••mediante estadística u optimización de funciones, p. ej. la modelización de funciones de densidad de probabilidad [2023.01]"
+  },
+  {
+    "code": "G06F 18/23211",
+    "description": "••••••••••con un número adaptativo de clusters [2023.01]"
+  },
+  {
+    "code": "G06F 18/23213",
+    "description": "••••••••••con un número fijo de clusters, p. ej. agrupamiento K-Medias [2023.01]"
+  },
+  {
+    "code": "G06F 18/2323",
+    "description": "••••••••basados en la teoría de grafos, p. ej. árboles de tramo mínimo [MST] o cortes de grafos [2023.01]"
+  },
+  {
+    "code": "G06F 18/2325",
+    "description": "••••••••mediante cuantificación vectorial [2023.01]"
+  },
+  {
+    "code": "G06F 18/2337",
+    "description": "••••••••mediante lógica difusa, es decir, la agrupación difusa [2023.01]"
+  },
+  {
+    "code": "G06F 18/24",
+    "description": "••••Técnicas de clasificación [2023.01]"
+  },
+  {
+    "code": "G06F 18/241",
+    "description": "••••••relacionadas con el modelo de clasificación, p. ej. enfoques paramétricos o no paramétricos [2023.01]"
+  },
+  {
+    "code": "G06F 18/2411",
+    "description": "••••••••en función de la proximidad a una superficie de decisión, p. ej. máquinas de vectores de soporte [2023.01]"
+  },
+  {
+    "code": "G06F 18/2413",
+    "description": "••••••••en función de las distancias a los patrones de entrenamiento o de referencia [2023.01]"
+  },
+  {
+    "code": "G06F 18/2415",
+    "description": "••••••••basadas en modelos paramétricos o probabilísticos, p. ej. basadas en el ratio de probabilidad o en la tasa de falsa aceptación frente a la tasa de falso rechazo [2023.01]"
+  },
+  {
+    "code": "G06F 18/243",
+    "description": "••••••relacionadas con el número de clases [2023.01]"
+  },
+  {
+    "code": "G06F 18/2431",
+    "description": "••••••••Clases múltiples [2023.01]"
+  },
+  {
+    "code": "G06F 18/2433",
+    "description": "••••••••Perspectiva de clase única, p. ej. clasificación de uno contra todos; Detección de novedades; Detección de valores atípicos [2023.01]"
+  },
+  {
+    "code": "G06F 18/245",
+    "description": "••••••relacionadas con la superficie de decisión [2023.01]"
+  },
+  {
+    "code": "G06F 18/2451",
+    "description": "••••••••lineales, p. ej. hiperplanas [2023.01]"
+  },
+  {
+    "code": "G06F 18/2453",
+    "description": "••••••••no lineales, p. ej. clasificación polinómica [2023.01]"
+  },
+  {
+    "code": "G06F 18/25",
+    "description": "••••Técnicas de fusión [2023.01]"
+  },
+  {
+    "code": "G06F 18/26",
+    "description": "••••Descubrimiento de patrones frecuentes [2023.01]"
+  },
+  {
+    "code": "G06F 18/27",
+    "description": "••••Regresión, p. ej. regresión lineal o logística [2023.01]"
+  },
+  {
+    "code": "G06F 18/28",
+    "description": "••••Determinación de patrones de referencia representativos, p. ej. por promedio o por distorsión; Generación de diccionarios [2023.01]"
+  },
+  {
+    "code": "G06F 18/30",
+    "description": "••Postproceso [2023.01]"
+  },
+  {
+    "code": "G06F 18/40",
+    "description": "••Sistemas de software especialmente adaptados al reconocimiento de patrones, p. ej. interfaces de usuario o cajas de herramientas al efecto [2023.01]"
+  },
+  {
+    "code": "G06F 21/00",
+    "description": "Disposiciones de seguridad para la protección de computadores, sus componentes, programas o datos contra actividades no autorizadas [2013.01]"
+  },
+  {
+    "code": "G06F 21/10",
+    "description": "••Protección de programas o contenidos distribuidos, p. ej.:venta o concesión de licencias con derechos de autor (protección en sistemas de video o televisión de pago H04N 7/16) [2013.01]"
+  },
+  {
+    "code": "G06F 21/12",
+    "description": "••••Protección de software ejecutable [2013.01]"
+  },
+  {
+    "code": "G06F 21/14",
+    "description": "••••••contra el análisis de software o ingeniería inversa, p. ej.: por ofuscación [2013.01]"
+  },
+  {
+    "code": "G06F 21/16",
+    "description": "••••Trazabilidad de programas o contenidos, p. ej.: mediante marcas de agua [2013.01]"
+  },
+  {
+    "code": "G06F 21/30",
+    "description": "••Autenticación, es decir, establecer la identidad o la autorización de las entidades de seguridad [2013.01]"
+  },
+  {
+    "code": "G06F 21/31",
+    "description": "••••autenticación del usuario [2013.01]"
+  },
+  {
+    "code": "G06F 21/32",
+    "description": "••••••utilizando datos biométricos, p. ej. huellas dactilares, escáner de iris o huellas de voz [2013.01]"
+  },
+  {
+    "code": "G06F 21/33",
+    "description": "••••••Utilizando certificados [2013.01]"
+  },
+  {
+    "code": "G06F 21/34",
+    "description": "••••••implica el uso de dispositivos externos adicionales, p. ej.: dongles o tarjetas inteligentes [2013.01]"
+  },
+  {
+    "code": "G06F 21/35",
+    "description": "••••••••comunicación inalámbrica [2013.01]"
+  },
+  {
+    "code": "G06F 21/36",
+    "description": "••••••por representación gráfica o icónica [2013.01]"
+  },
+  {
+    "code": "G06F 21/40",
+    "description": "••••••de quórum, p. ej.: mediante el cual dos o más entidades de seguridad son necesarias [2013.01]"
+  },
+  {
+    "code": "G06F 21/41",
+    "description": "••••••donde un inicio de sesión único (single sign-on) proporciona acceso a una pluralidad de ordenadores [2013.01]"
+  },
+  {
+    "code": "G06F 21/42",
+    "description": "••••••utilizando los canales separados para los datos de seguridad [2013.01]"
+  },
+  {
+    "code": "G06F 21/43",
+    "description": "••••••••canales inalámbricos [2013.01]"
+  },
+  {
+    "code": "G06F 21/44",
+    "description": "••••Programa o dispositivo de autenticación [2013.01]"
+  },
+  {
+    "code": "G06F 21/45",
+    "description": "••••Estructuras o herramientas para la administración de  autenticación [2013.01]"
+  },
+  {
+    "code": "G06F 21/46",
+    "description": "••••••mediante el diseño de contraseñas o el control de la fortaleza de las contraseñas [2013.01]"
+  },
+  {
+    "code": "G06F 21/50",
+    "description": "••Monitorizando a los usuarios, los programas o dispositivos para mantener la integridad de las plataformas, p. ej.:de procesadores, firmware o de sistemas operativos [2013.01]"
+  },
+  {
+    "code": "G06F 21/51",
+    "description": "••••en el momento de aplicación de carga, p. ej.: aceptar, rechazar, iniciar o la inhibición del software ejecutable basado en la integridad y confiabilidad de la fuente [2013.01]"
+  },
+  {
+    "code": "G06F 21/52",
+    "description": "••••durante la ejecución del programa, p. ej.: integridad de la pila, desbordamiento de búfer o la prevención de borrado de datos durante la ejecución del programa, p. ej. integridad de la pila, desbordamiento de búfer o la prevención de borrado de datos no deseados [2013.01]"
+  },
+  {
+    "code": "G06F 21/53",
+    "description": "••••••ejecutando en un entorno restringido, p. ej.: sandbox o máquina virtual seguro [2013.01]"
+  },
+  {
+    "code": "G06F 21/54",
+    "description": "••••••mediante la adición de  rutinas de seguridad u objetos a los programas [2013.01]"
+  },
+  {
+    "code": "G06F 21/55",
+    "description": "••••La detección de intrusiones locales o la aplicación de contramedidas [2013.01]"
+  },
+  {
+    "code": "G06F 21/56",
+    "description": "••••••Detección o tratamiento de malware en ordenadores, p. ej. antivirus [2013.01]"
+  },
+  {
+    "code": "G06F 21/57",
+    "description": "••••Certificados o mantenimiento de plataformas informáticas de confianza, p. ej.: recuperación de seguridad o power-downs, controles, control de versión del software del sistema, actualizaciones de seguridad o valoración de vulnerabilidades [2013.01]"
+  },
+  {
+    "code": "G06F 21/60",
+    "description": "••Protección de datos [2013.01]"
+  },
+  {
+    "code": "G06F 21/62",
+    "description": "••••Protección del acceso a los datos a través de una plataforma, p. ej.: con la utilización de teclas o reglas de control de acceso [2013.01]"
+  },
+  {
+    "code": "G06F 21/64",
+    "description": "••••Protección de la integridad de datos, p. ej.: con sumas de verificación(checksums), certificados o firmas [2013.01]"
+  },
+  {
+    "code": "G06F 21/70",
+    "description": "••Protección de los componentes específicos internos o periférico, en el que la protección de un componente conduce a la protección de todo el equipo [2013.01]"
+  },
+  {
+    "code": "G06F 21/71",
+    "description": "••••para garantizar la seguridad del calculo o procesamiento de la información [2013.01]"
+  },
+  {
+    "code": "G06F 21/72",
+    "description": "••••••en circuitos criptográficos [2013.01]"
+  },
+  {
+    "code": "G06F 21/73",
+    "description": "••••••mediante la creación o la determinación de identificación de hardware, p. ej.: números de serie [2013.01]"
+  },
+  {
+    "code": "G06F 21/74",
+    "description": "••••••funcionando en modo dual o compartimentada, es decir, al menos un modo seguro [2013.01]"
+  },
+  {
+    "code": "G06F 21/75",
+    "description": "••••••mediante la inhibición de la circuitería de análisis o operación, p. ej.:, para contrarrestar la ingeniería inversa [2013.01]"
+  },
+  {
+    "code": "G06F 21/76",
+    "description": "••••••en circuitos integrados para aplicaciones específicas [ASIC] o dispositivos programables por campo, p. ej.: array de puertas programable por campo [FPGA] o dispositivos de lógica programable [PLD] [2013.01]"
+  },
+  {
+    "code": "G06F 21/77",
+    "description": "••••••en tarjetas inteligentes [2013.01]"
+  },
+  {
+    "code": "G06F 21/78",
+    "description": "••••para garantizar el almacenamiento seguro de datos (basado en direcciones protegidas contra el uso no autorizado de la memoria G06F 12/14; soportes de registro para la utilización con máquinas y con al menos una parte diseñada para llevar a marcas digitales G06K 19/00) [2013.01]"
+  },
+  {
+    "code": "G06F 21/79",
+    "description": "••••••en medios de almacenamiento de semiconductores, p. ej.: en memorias de dirección directa [2013.01]"
+  },
+  {
+    "code": "G06F 21/80",
+    "description": "••••••en medios de almacenamiento basados en tecnología magnética u óptica, p. ej. discos con sectores (evitando la reproducción o copia no autorizada de medios grabables de tipo disco G11B 20/00) [2013.01]"
+  },
+  {
+    "code": "G06F 21/81",
+    "description": "••••operando sobre la fuente de alimentación, p. ej.:la activación o desactivación del encendido, durmiendo o reanudando las operaciones [2013.01]"
+  },
+  {
+    "code": "G06F 21/82",
+    "description": "••••Protegiendo los dispositivos de entrada, de salida o de interconexión [2013.01]"
+  },
+  {
+    "code": "G06F 21/83",
+    "description": "••••••dispositivos de entrada, p. ej.:teclados, ratones o los controladores de los mismos [2013.01]"
+  },
+  {
+    "code": "G06F 21/84",
+    "description": "••••••dispositivos de salida, p. ej.: pantallas o monitores [2013.01]"
+  },
+  {
+    "code": "G06F 21/85",
+    "description": "••••••dispositivos de interconexión, p. ej.:bus conectado o los dispositivos en línea [2013.01]"
+  },
+  {
+    "code": "G06F 21/86",
+    "description": "••••Seguros o carcasas a prueba de manipulaciones [2013.01]"
+  },
+  {
+    "code": "G06F 21/87",
+    "description": "••••••por medio de encapsulación, p. ej: por circuitos integrados [2013.01]"
+  },
+  {
+    "code": "G06F 21/88",
+    "description": "••••Detección o prevención de robo o pérdida [2013.01]"
+  },
+  {
+    "code": "G06F 30/00",
+    "description": "Diseño asistido por ordenador [CAD] [2020.01]"
+  },
+  {
+    "code": "G06F 30/10",
+    "description": "••CAD geométrico [2020.01]"
+  },
+  {
+    "code": "G06F 30/12",
+    "description": "••••que se caracterizan por entradas de diseño especialmente adaptadas para CAD, p. ej. interfaces gráficas de usuario [GUI] especialmente adaptadas para CAD [2020.01]"
+  },
+  {
+    "code": "G06F 30/13",
+    "description": "••••Diseño arquitectónico, p. ej. diseño arquitectónico asistido por ordenador [CAAD] relativo al diseño de edificios, puentes, paisajes, plantas de producción o carreteras [2020.01]"
+  },
+  {
+    "code": "G06F 30/15",
+    "description": "••••Diseño de vehículos, aeronaves o embarcaciones [2020.01]"
+  },
+  {
+    "code": "G06F 30/17",
+    "description": "••••Diseño mecánico paramétrico o variacional [2020.01]"
+  },
+  {
+    "code": "G06F 30/18",
+    "description": "••••Diseño de redes, p. ej. diseño basado en aspectos topológicos o de interconexión en sistemas de servicio, canalización, climatización [HVAC] o cableado (diseño de circuitos a nivel físico G06F 30/39; herramientas de planificación de redes para redes de comunicación inalámbrica H04W 16/18) [2020.01]"
+  },
+  {
+    "code": "G06F 30/20",
+    "description": "••Optimización, verificación o simulación del diseño (optimización, verificación o simulación del diseño de circuitos G06F 30/30) [2020.01]"
+  },
+  {
+    "code": "G06F 30/22",
+    "description": "••••que usan modelos de red de Petri [2020.01]"
+  },
+  {
+    "code": "G06F 30/23",
+    "description": "••••que usan métodos de elemento finito [FEM] o métodos de diferencia finita [FDM] [2020.01]"
+  },
+  {
+    "code": "G06F 30/25",
+    "description": "••••que usan métodos basados en partículas [2020.01]"
+  },
+  {
+    "code": "G06F 30/27",
+    "description": "••••que usan el aprendizaje automático, p. ej. inteligencia artificial, redes neuronales, máquinas de soporte vectorial [SVM] o entrenamiento del modelo [2020.01]"
+  },
+  {
+    "code": "G06F 30/28",
+    "description": "••••que usan la dinámica de fluido, p. ej. que usan las ecuaciones de Navier-Stokes o dinámica de fluidos computacional [CFD] [2020.01]"
+  },
+  {
+    "code": "G06F 30/30",
+    "description": "••Diseño de circuitos [2020.01]"
+  },
+  {
+    "code": "G06F 30/31",
+    "description": "••••Entrada de diseño, p. ej. editores especialmente adaptados para el diseño de circuitos [2020.01]"
+  },
+  {
+    "code": "G06F 30/32",
+    "description": "••••Diseño de circuitos a nivel digital (circuitos reconfigurables G06F 30/34) [2020.01]"
+  },
+  {
+    "code": "G06F 30/323",
+    "description": "••••••Traducción o migración, p. ej. de un sistema lógico a otro sistema lógico, traducción del lenguaje de descripción hardware [HDL] o traducción de netlists [2020.01]"
+  },
+  {
+    "code": "G06F 30/327",
+    "description": "••••••Síntesis lógica; Síntesis de comportamiento, p. ej. lógica de mapeo, HDL a netlist, lenguaje de alto nivel a RTL o netlist [2020.01]"
+  },
+  {
+    "code": "G06F 30/33",
+    "description": "••••••Verificación del diseño, p. ej. simulación funcional o chequeo del modelo [2020.01]"
+  },
+  {
+    "code": "G06F 30/3308",
+    "description": "••••••••que usan la simulación [2020.01]"
+  },
+  {
+    "code": "G06F 30/331",
+    "description": "••••••••••con aceleración del hardware, p. ej. por medio de una matriz de puertas lógicas programable en campo [FPGA] o emulación [2020.01]"
+  },
+  {
+    "code": "G06F 30/3312",
+    "description": "••••••••••Análisis de temporización [2020.01]"
+  },
+  {
+    "code": "G06F 30/3315",
+    "description": "••••••••que usan el análisis de temporización estática [STA] [2020.01]"
+  },
+  {
+    "code": "G06F 30/3323",
+    "description": "••••••••que usan métodos formales, p. ej. comprobación de la equivalencia o comprobación de propiedades [2020.01]"
+  },
+  {
+    "code": "G06F 30/333",
+    "description": "••••••Diseño para pruebas de ensayo [DFT], p. ej. cadena de escaneo o autocomprobación incorporada [BIST] [2020.01]"
+  },
+  {
+    "code": "G06F 30/337",
+    "description": "••••••Optimización del diseño [2020.01]"
+  },
+  {
+    "code": "G06F 30/34",
+    "description": "••••para circuitos reconfigurables, p. ej. matrices de puertas lógicas programables en campo [FPGA] o dispositivos lógicos programables [2020.01]"
+  },
+  {
+    "code": "G06F 30/343",
+    "description": "••••••Nivel lógico [2020.01]"
+  },
+  {
+    "code": "G06F 30/347",
+    "description": "••••••Nivel físico, p. ej. localización o enrutamiento [2020.01]"
+  },
+  {
+    "code": "G06F 30/35",
+    "description": "••••Diseño de circuitos insensibles al retardo, p. ej. asíncronos o autotemporizados [2020.01]"
+  },
+  {
+    "code": "G06F 30/36",
+    "description": "••••Diseño de circuitos a nivel analógico [2020.01]"
+  },
+  {
+    "code": "G06F 30/367",
+    "description": "••••••Verificación del diseño, p. ej. que usan la simulación, programa de simulación con énfasis en circuitos integrados [SPICE], métodos directos o métodos de relajación [2020.01]"
+  },
+  {
+    "code": "G06F 30/373",
+    "description": "••••••Optimización del diseño [2020.01]"
+  },
+  {
+    "code": "G06F 30/38",
+    "description": "••••Diseño de circuitos a nivel mixto respecto a señales analógicas y digitales [2020.01]"
+  },
+  {
+    "code": "G06F 30/39",
+    "description": "••••Diseño de circuitos a nivel físico (diseño de niveles físicos para circuitos reconfigurables G06F 30/347) [2020.01]"
+  },
+  {
+    "code": "G06F 30/392",
+    "description": "••••••Distribución en planta o trazado, p. ej. particiones o emplazamiento [2020.01]"
+  },
+  {
+    "code": "G06F 30/394",
+    "description": "••••••Enrutado (G06F 30/396 tiene prioridad) [2020.01]"
+  },
+  {
+    "code": "G06F 30/3947",
+    "description": "••••••••global [2020.01]"
+  },
+  {
+    "code": "G06F 30/3953",
+    "description": "••••••••detallado [2020.01]"
+  },
+  {
+    "code": "G06F 30/396",
+    "description": "••••••Metrónomo de coordinación de circuitos digitales [2020.01]"
+  },
+  {
+    "code": "G06F 30/398",
+    "description": "••••••Verificación u optimización del diseño, p. ej. que usan la comprobación de las reglas de diseño [DRC], trazados frente a esquemas [LVS] o métodos de elemento finito [FEM] (procesos de diseño de corrección óptica de proximidad [OPC] G03F 1/36) [2020.01]"
+  },
+  {
+    "code": "G06F 40/00",
+    "description": "Tratamiento de datos de lenguaje natural (análisis o síntesis de voz, reconocimiento de voz G10L) [2020.01]"
+  },
+  {
+    "code": "G06F 40/10",
+    "description": "••Procesamiento de texto (análisis del lenguaje natural G06F 40/20; análisis semántico G06F 40/30; procesamiento o traducción del lenguaje natural G06F 40/40) [2020.01]"
+  },
+  {
+    "code": "G06F 40/103",
+    "description": "••••Formateo, es decir, cambio de la presentación de documentos (justificación automática G06F 40/189; separación automática de saltos de línea G06F 40/191) [2020.01]"
+  },
+  {
+    "code": "G06F 40/106",
+    "description": "••••••Visualización del diseño de documentos; Vista previa [2020.01]"
+  },
+  {
+    "code": "G06F 40/109",
+    "description": "••••••Gestión de fuentes; Tipografía temporal o cinética [2020.01]"
+  },
+  {
+    "code": "G06F 40/111",
+    "description": "••••••Formato matemático o científico; Subíndices; Superíndices [2020.01]"
+  },
+  {
+    "code": "G06F 40/114",
+    "description": "••••••Paginación [2020.01]"
+  },
+  {
+    "code": "G06F 40/117",
+    "description": "••••••Etiquetado; Marcado (detalles de los lenguajes de marcado G06F 40/143); Designación de un bloque; Configuración de atributos (hojas de estilo, p.ej. eXtensible Stylesheet Language Transformation [XSLT], G06F 40/154) [2020.01]"
+  },
+  {
+    "code": "G06F 40/12",
+    "description": "••••Uso de códigos para el tratamiento de entidades textuales [2020.01]"
+  },
+  {
+    "code": "G06F 40/123",
+    "description": "••••••Facilidades de almacenamiento [2020.01]"
+  },
+  {
+    "code": "G06F 40/126",
+    "description": "••••••Codificación de caracteres [2020.01]"
+  },
+  {
+    "code": "G06F 40/129",
+    "description": "••••••••Tratamiento de carácteres no latinos, p.ej. conversión de kana-to-kanji [2020.01]"
+  },
+  {
+    "code": "G06F 40/131",
+    "description": "••••••Fragmentación de archivos de texto, p.ej. creación de bloques de texto reutilizables; Vinculación a fragmentos, p.ej. usando XInclude; Espacio de nombres (Namespaces) [2020.01]"
+  },
+  {
+    "code": "G06F 40/134",
+    "description": "••••••Hipervínculos [2020.01]"
+  },
+  {
+    "code": "G06F 40/137",
+    "description": "••••••Procesamiento jerárquico, p.ej. contornos [2020.01]"
+  },
+  {
+    "code": "G06F 40/14",
+    "description": "••••••Documentos estructurados en árbol (análisis G06F 40/205; validación G06F 40/226) [2020.01]"
+  },
+  {
+    "code": "G06F 40/143",
+    "description": "••••••••Marcado, p.ej. Lenguaje Generalizado Estándar de Marcas [SGML] o Definición de tipo de documento [DTD] [2020.01]"
+  },
+  {
+    "code": "G06F 40/146",
+    "description": "••••••••Codificación o compresión de datos estructurados en árbol [2020.01]"
+  },
+  {
+    "code": "G06F 40/149",
+    "description": "••••••Adaptación de datos de texto para fines de transmisión, p.ej. Formato eficiente de intercambio XML [EXI] [2020.01]"
+  },
+  {
+    "code": "G06F 40/151",
+    "description": "••••••Transformación [2020.01]"
+  },
+  {
+    "code": "G06F 40/154",
+    "description": "••••••••Transformación de árbol para documentos estructurados en árbol o de marcado, p.ej. XSLT, XSL-FO u hojas de estilos [2020.01]"
+  },
+  {
+    "code": "G06F 40/157",
+    "description": "••••••••mediante diccionarios o tablas [2020.01]"
+  },
+  {
+    "code": "G06F 40/16",
+    "description": "••••••••Aprendizaje automático de reglas de transformación, p.ej. de ejemplos [2020.01]"
+  },
+  {
+    "code": "G06F 40/163",
+    "description": "••••••Tratamiento de espacios en blanco [2020.01]"
+  },
+  {
+    "code": "G06F 40/166",
+    "description": "••••Edición, p.ej. inserción o eliminación [2020.01]"
+  },
+  {
+    "code": "G06F 40/169",
+    "description": "••••••Anotación, p.ej. comentar datos o notas a pie de página [2020.01]"
+  },
+  {
+    "code": "G06F 40/171",
+    "description": "••••••mediante el uso de tinta digital [2020.01]"
+  },
+  {
+    "code": "G06F 40/174",
+    "description": "••••••Cumplimentación de formularios; Mezcla [2020.01]"
+  },
+  {
+    "code": "G06F 40/177",
+    "description": "••••••de tablas; mediante líneas regladas [2020.01]"
+  },
+  {
+    "code": "G06F 40/18",
+    "description": "••••••••de hojas de cálculo (rellenar formularios G06F 40/174) [2020.01]"
+  },
+  {
+    "code": "G06F 40/183",
+    "description": "••••••Tabulación, es decir, posicionamiento unidimensional [2020.01]"
+  },
+  {
+    "code": "G06F 40/186",
+    "description": "••••••Plantillas [2020.01]"
+  },
+  {
+    "code": "G06F 40/189",
+    "description": "••••Justificación automática [2020.01]"
+  },
+  {
+    "code": "G06F 40/191",
+    "description": "••••Separación automática de líneas [2020.01]"
+  },
+  {
+    "code": "G06F 40/194",
+    "description": "••••Cálculo de diferencia entre archivos [2020.01]"
+  },
+  {
+    "code": "G06F 40/197",
+    "description": "••••Control de versiones (para software G06F 8/71) [2020.01]"
+  },
+  {
+    "code": "G06F 40/20",
+    "description": "••Análisis del lenguaje natural (análisis semántico del lenguaje natural G06F 40/30) [2020.01]"
+  },
+  {
+    "code": "G06F 40/205",
+    "description": "••••Análisis [2020.01]"
+  },
+  {
+    "code": "G06F 40/211",
+    "description": "••••••Análisis sintáctico, p.ej. basado en gramática libre de contexto [CFG] o gramáticas de unificación [2020.01]"
+  },
+  {
+    "code": "G06F 40/216",
+    "description": "••••••mediante métodos estadísticos [2020.01]"
+  },
+  {
+    "code": "G06F 40/221",
+    "description": "••••••Análisis de secuencias de lenguaje de marcado (transmisión G06F 40/149) [2020.01]"
+  },
+  {
+    "code": "G06F 40/226",
+    "description": "••••••Validación [2020.01]"
+  },
+  {
+    "code": "G06F 40/232",
+    "description": "••••Corrección ortográfica, p.ej. corrección ortográfica o vocalización [2020.01]"
+  },
+  {
+    "code": "G06F 40/237",
+    "description": "••••Herramientas léxicas [2020.01]"
+  },
+  {
+    "code": "G06F 40/242",
+    "description": "••••••Diccionarios [2020.01]"
+  },
+  {
+    "code": "G06F 40/247",
+    "description": "••••••Tesauros; Sinónimos [2020.01]"
+  },
+  {
+    "code": "G06F 40/253",
+    "description": "••••Análisis gramatical; Crítica de estilo [2020.01]"
+  },
+  {
+    "code": "G06F 40/258",
+    "description": "••••Obtención de encabezamientos; Titulación automática; Numeración [2020.01]"
+  },
+  {
+    "code": "G06F 40/263",
+    "description": "••••Identificación de idioma [2020.01]"
+  },
+  {
+    "code": "G06F 40/268",
+    "description": "••••Análisis morfológico [2020.01]"
+  },
+  {
+    "code": "G06F 40/274",
+    "description": "••••Que convierten códigos en palabras; Que adivinan entradas de palabras incompletas [2020.01]"
+  },
+  {
+    "code": "G06F 40/279",
+    "description": "••••Reconocimiento de entidades textuales [2020.01]"
+  },
+  {
+    "code": "G06F 40/284",
+    "description": "••••••Análisis léxico, p.ej. tokenización o colocaciones [2020.01]"
+  },
+  {
+    "code": "G06F 40/289",
+    "description": "••••••Análisis de frases, p.ej. métodos de elementos finitos o fragmentación [2020.01]"
+  },
+  {
+    "code": "G06F 40/295",
+    "description": "••••••••Reconocimiento de entidad nombrada [2020.01]"
+  },
+  {
+    "code": "G06F 40/30",
+    "description": "••Análisis semántico [2020.01]"
+  },
+  {
+    "code": "G06F 40/35",
+    "description": "••••Representación de discurso o diálogo [2020.01]"
+  },
+  {
+    "code": "G06F 40/40",
+    "description": "••Procesamiento o traducción del lenguaje natural (análisis del lenguaje natural G06F 40/20; análisis semántico G06F 40/30) [2020.01]"
+  },
+  {
+    "code": "G06F 40/42",
+    "description": "••••Traducción basada en datos [2020.01]"
+  },
+  {
+    "code": "G06F 40/44",
+    "description": "••••••Métodos estadísticos, p.ej. modelos de probabilidad [2020.01]"
+  },
+  {
+    "code": "G06F 40/45",
+    "description": "••••••Traducción automática basada en ejemplos; Armonización [2020.01]"
+  },
+  {
+    "code": "G06F 40/47",
+    "description": "••••••Traducción asistida por máquina, p.ej. mediante memoria de traducción [2020.01]"
+  },
+  {
+    "code": "G06F 40/49",
+    "description": "••••••que usan corpus muy grandes, p.ej. la Web [2020.01]"
+  },
+  {
+    "code": "G06F 40/51",
+    "description": "••••Evaluación de la traducción [2020.01]"
+  },
+  {
+    "code": "G06F 40/53",
+    "description": "••••Procesamiento de texto no latino (conversión de kana-to-kanji G06F 40/129; vocalización G06F 40/232) [2020.01]"
+  },
+  {
+    "code": "G06F 40/55",
+    "description": "••••Traducción basada en reglas [2020.01]"
+  },
+  {
+    "code": "G06F 40/56",
+    "description": "••••••Generación de lenguaje natural [2020.01]"
+  },
+  {
+    "code": "G06F 40/58",
+    "description": "••••Uso de traducción automática, p.ej. para recuperación multilingüe, para traducción del servidor para dispositivos de clientes o para la traducción en tiempo real [2020.01]"
+  },
+  {
+    "code": "G06F 111/00",
+    "description": "Partes constitutivas relativas a técnicas de CAD [2020.01]"
+  },
+  {
+    "code": "G06F 111/02",
+    "description": "••CAD en un entorno de red, p. ej. CAD colaborativo o distribución de una simulación [2020.01]"
+  },
+  {
+    "code": "G06F 111/04",
+    "description": "••CAD basado en restricciones [2020.01]"
+  },
+  {
+    "code": "G06F 111/06",
+    "description": "••Optimización multi-objetivo, p. ej. optimización de Pareto que usa el recocido simulado [SA], algoritmos de la colonia de hormigas o algoritmos genéticos [GA] [2020.01]"
+  },
+  {
+    "code": "G06F 111/08",
+    "description": "••CAD probabilístico o estocástico [2020.01]"
+  },
+  {
+    "code": "G06F 111/10",
+    "description": "••Modelización numérica [2020.01]"
+  },
+  {
+    "code": "G06F 111/12",
+    "description": "••Esquemas simbólicos [2020.01]"
+  },
+  {
+    "code": "G06F 111/14",
+    "description": "••relativos a la nanotecnología [2020.01]"
+  },
+  {
+    "code": "G06F 111/16",
+    "description": "••Customización o personalización [2020.01]"
+  },
+  {
+    "code": "G06F 111/18",
+    "description": "••que usan la realidad virtual o aumentada [2020.01]"
+  },
+  {
+    "code": "G06F 111/20",
+    "description": "••Configuración CAD, p. ej. diseño por medio del ensamblado o posicionamiento de módulos que se seleccionan de bibliotecas de módulos preconfigurados. [2020.01]"
+  },
+  {
+    "code": "G06F 113/00",
+    "description": "Partes constitutivas relativas al campo de aplicación [2020.01]"
+  },
+  {
+    "code": "G06F 113/02",
+    "description": "••Centros de datos [2020.01]"
+  },
+  {
+    "code": "G06F 113/04",
+    "description": "••Redes de distribución del suministro eléctrico [2020.01]"
+  },
+  {
+    "code": "G06F 113/06",
+    "description": "••Aerogeneradores o parques eólicos [2020.01]"
+  },
+  {
+    "code": "G06F 113/08",
+    "description": "••Fluidos [2020.01]"
+  },
+  {
+    "code": "G06F 113/10",
+    "description": "••Fabricación por adición, p. ej. impresión 3D [2020.01]"
+  },
+  {
+    "code": "G06F 113/12",
+    "description": "••Tela [2020.01]"
+  },
+  {
+    "code": "G06F 113/14",
+    "description": "••Tuberías [2020.01]"
+  },
+  {
+    "code": "G06F 113/16",
+    "description": "••Cables, soportes para cables o mazos de cables [2020.01]"
+  },
+  {
+    "code": "G06F 113/18",
+    "description": "••Encapsulado de circuitos integrados [2020.01]"
+  },
+  {
+    "code": "G06F 113/20",
+    "description": "••Empaquetado, p. ej. cajas o contenedores [2020.01]"
+  },
+  {
+    "code": "G06F 113/22",
+    "description": "••Moldeado [2020.01]"
+  },
+  {
+    "code": "G06F 113/24",
+    "description": "••Material en láminas [2020.01]"
+  },
+  {
+    "code": "G06F 113/26",
+    "description": "••Materiales compuestos [2020.01]"
+  },
+  {
+    "code": "G06F 113/28",
+    "description": "••Fuselaje, exterior o interior [2020.01]"
+  },
+  {
+    "code": "G06F 115/00",
+    "description": "Partes constitutivas relativas al tipo de circuito [2020.01]"
+  },
+  {
+    "code": "G06F 115/02",
+    "description": "••Diseño del sistema en chip [SoC] [2020.01]"
+  },
+  {
+    "code": "G06F 115/04",
+    "description": "••Sistemas microelectromecánicos [MEMS] [2020.01]"
+  },
+  {
+    "code": "G06F 115/06",
+    "description": "••ASICs estructurados [2020.01]"
+  },
+  {
+    "code": "G06F 115/08",
+    "description": "••Bloques de propiedad intelectual [IP] o núcleos IP [2020.01]"
+  },
+  {
+    "code": "G06F 115/10",
+    "description": "••Procesadores [2020.01]"
+  },
+  {
+    "code": "G06F 115/12",
+    "description": "••Placas de circuito impreso [PCB] o módulos multichip [MCM] [2020.01]"
+  },
+  {
+    "code": "G06F 117/00",
+    "description": "Partes constitutivas relativas al tipo u objetivo del diseño del circuito [2020.01]"
+  },
+  {
+    "code": "G06F 117/02",
+    "description": "••Tolerancia a fallos, p. ej. para la supresión de fallos transitorios [2020.01]"
+  },
+  {
+    "code": "G06F 117/04",
+    "description": "••Clock gating [2020.01]"
+  },
+  {
+    "code": "G06F 117/06",
+    "description": "••Recursos de repuesto, p. ej. para la supresión permanente de fallos [2020.01]"
+  },
+  {
+    "code": "G06F 117/08",
+    "description": "••Co-diseño HW-SW, p. ej. partición HW-SW [2020.01]"
+  },
+  {
+    "code": "G06F 117/10",
+    "description": "••Inserción de registro [2020.01]"
+  },
+  {
+    "code": "G06F 117/12",
+    "description": "••Dimensionado, p. ej. de transistores o compuertas [2020.01]"
+  },
+  {
+    "code": "G06F 119/00",
+    "description": "Partes constitutivas relativas al tipo u objetivo del análisis o de la optimización [2020.01]"
+  },
+  {
+    "code": "G06F 119/02",
+    "description": "••Análisis de fiabilidad u optimización de la fiabilidad; Análisis de fallos, p. ej. rendimiento en el peor de los escenarios posibles, análisis modal de fallos y efectos [FMEA] [2020.01]"
+  },
+  {
+    "code": "G06F 119/04",
+    "description": "••Análisis del envejecimiento u optimización contra el envejecimiento [2020.01]"
+  },
+  {
+    "code": "G06F 119/06",
+    "description": "••Análisis de potencia u optimización de la potencia [2020.01]"
+  },
+  {
+    "code": "G06F 119/08",
+    "description": "••Análisis térmico u optimización térmica [2020.01]"
+  },
+  {
+    "code": "G06F 119/10",
+    "description": "••Análisis de ruido u optimización del ruido [2020.01]"
+  },
+  {
+    "code": "G06F 119/12",
+    "description": "••Análisis de temporización u optimización de la termporización [2020.01]"
+  },
+  {
+    "code": "G06F 119/14",
+    "description": "••Análisis de fuerzas u optimización de las fuerzas, p. ej. fuerzas estáticas o dinámicas [2020.01]"
+  },
+  {
+    "code": "G06F 119/16",
+    "description": "••Verificación de las equivalencias [2020.01]"
+  },
+  {
+    "code": "G06F 119/18",
+    "description": "••Análisis de la viabilidad para la fabricación u optimización de la viabilidad para la fabricación [2020.01]"
+  },
+  {
+    "code": "G06F 119/20",
+    "description": "••Reutilización del diseño, análisis de la reutilización u optimización de la reutilización [2020.01]"
+  },
+  {
+    "code": "G06F 119/22",
+    "description": "••Análisis de rendimiento u optimización del rendimiento [2020.01]"
+  },
+  {
+    "code": "G06F 123/00",
+    "description": "Tipos de datos [2023.01]"
+  },
+  {
+    "code": "G06F 123/02",
+    "description": "••en el campo del tiempo, p. ej. datos de series temporales [2023.01]"
+  }
+]

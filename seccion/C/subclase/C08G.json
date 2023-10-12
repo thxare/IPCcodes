@@ -1,0 +1,1850 @@
+[
+  {
+    "code": "C08G 2/00",
+    "description": "Polímeros de adición de aldehídos o sus oligómeros cíclicos o de cetonas; Sus copolímeros de adición con menos del 50% molar de otras sustancias [2006.01]"
+  },
+  {
+    "code": "C08G 2/02",
+    "description": "••Polimerización iniciada por energía ondulatoria o por radiación corpuscular [2006.01]"
+  },
+  {
+    "code": "C08G 2/04",
+    "description": "••Polimerización por utilización de compuestos que actúan sobre el peso molecular, p. ej. agentes de transferencia de cadena [2006.01]"
+  },
+  {
+    "code": "C08G 2/06",
+    "description": "••Catalizadores [2006.01]"
+  },
+  {
+    "code": "C08G 2/08",
+    "description": "••Polimerización de formaldehído [2006.01]"
+  },
+  {
+    "code": "C08G 2/10",
+    "description": "••Polimerización de oligómeros cíclicos de formaldehído [2006.01]"
+  },
+  {
+    "code": "C08G 2/12",
+    "description": "••Polimerización de acetaldehído o sus oligómeros cíclicos [2006.01]"
+  },
+  {
+    "code": "C08G 2/14",
+    "description": "••Polimerización de aldehídos particulares no previstos por los grupos C08G 2/08-C08G 2/12 [2006.01]"
+  },
+  {
+    "code": "C08G 2/16",
+    "description": "••Polimerización de cetonas particulares [2006.01]"
+  },
+  {
+    "code": "C08G 2/18",
+    "description": "••Copolimerización de aldehídos o cetonas [2006.01]"
+  },
+  {
+    "code": "C08G 2/20",
+    "description": "••••con otros aldehídos o cetonas [2006.01]"
+  },
+  {
+    "code": "C08G 2/22",
+    "description": "••••con compuestos epoxi [2006.01]"
+  },
+  {
+    "code": "C08G 2/24",
+    "description": "••••con acetales [2006.01]"
+  },
+  {
+    "code": "C08G 2/26",
+    "description": "••••con compuestos que contienen una insaturación carbono-carbono [2006.01]"
+  },
+  {
+    "code": "C08G 2/28",
+    "description": "••Tratamientos posteriores a la polimerización [2006.01]"
+  },
+  {
+    "code": "C08G 2/30",
+    "description": "••Modificación química por tratamiento posterior [2006.01]"
+  },
+  {
+    "code": "C08G 2/32",
+    "description": "••••por esterificación [2006.01]"
+  },
+  {
+    "code": "C08G 2/34",
+    "description": "••••por eterificación [2006.01]"
+  },
+  {
+    "code": "C08G 2/36",
+    "description": "••••por despolimerización [2006.01]"
+  },
+  {
+    "code": "C08G 2/38",
+    "description": "••Polímeros en bloque o injertados, preparados por polimerización de aldehídos o cetonas sobre compuestos macromoleculares [2006.01]"
+  },
+  {
+    "code": "C08G 4/00",
+    "description": "Polímeros de condensación de aldehídos o cetonas y de polialcoholes; Polímeros de adición de compuestos heterocíclicos oxigenados que contienen en el ciclo al menos una vez el grupo — O— C— O— (de oligómeros cíclicos de aldehídos C08G 2/00) [2006.01]"
+  },
+  {
+    "code": "C08G 6/00",
+    "description": "Polímeros de condensación de aldehídos o cetonas solamente [2006.01]"
+  },
+  {
+    "code": "C08G 6/02",
+    "description": "••de aldehídos con cetonas [2006.01]"
+  },
+  {
+    "code": "C08G 8/00",
+    "description": "Polímeros de condensación de aldehídos o cetonas solamente con fenoles [2006.01]"
+  },
+  {
+    "code": "C08G 8/02",
+    "description": "••de cetonas [2006.01]"
+  },
+  {
+    "code": "C08G 8/04",
+    "description": "••de aldehídos [2006.01]"
+  },
+  {
+    "code": "C08G 8/06",
+    "description": "••••de furfural [2006.01]"
+  },
+  {
+    "code": "C08G 8/08",
+    "description": "••••de formaldehído, p. ej. de formaldehído formado in situ [2006.01]"
+  },
+  {
+    "code": "C08G 8/10",
+    "description": "••••••con fenol [2006.01]"
+  },
+  {
+    "code": "C08G 8/12",
+    "description": "••••••con fenoles monohídricos que tienen solamente un sustituyente hidrocarbonado en posición orto o para con respecto al grupo OH, p. ej. p-tert.-butilfenol [2006.01]"
+  },
+  {
+    "code": "C08G 8/14",
+    "description": "••••••con fenoles halogenados [2006.01]"
+  },
+  {
+    "code": "C08G 8/16",
+    "description": "••••••con amino- o nitrofenoles [2006.01]"
+  },
+  {
+    "code": "C08G 8/18",
+    "description": "••••••con fenoles sustituidos por grupos de ácidos carboxílico o sulfónico [2006.01]"
+  },
+  {
+    "code": "C08G 8/20",
+    "description": "••••••con fenoles polihídricos [2006.01]"
+  },
+  {
+    "code": "C08G 8/22",
+    "description": "••••••••Resorcinol [2006.01]"
+  },
+  {
+    "code": "C08G 8/24",
+    "description": "••••••con mezclas de dos o más fenoles que no están cubiertos por uno solo de los grupos C08G 8/10-C08G 8/20 [2006.01]"
+  },
+  {
+    "code": "C08G 8/26",
+    "description": "••de mezclas de aldehídos y cetonas [2006.01]"
+  },
+  {
+    "code": "C08G 8/28",
+    "description": "••Modificación química de policondensados [2006.01]"
+  },
+  {
+    "code": "C08G 8/30",
+    "description": "••••por compuestos insaturados, p. ej. terpenos [2006.01]"
+  },
+  {
+    "code": "C08G 8/32",
+    "description": "••••por ácidos orgánicos o sus derivados, p. ej. aceites grasos [2006.01]"
+  },
+  {
+    "code": "C08G 8/34",
+    "description": "••••por resinas naturales o ácidos de resinas, p. ej. ácido abiético [2006.01]"
+  },
+  {
+    "code": "C08G 8/36",
+    "description": "••••por eterificación [2006.01]"
+  },
+  {
+    "code": "C08G 8/38",
+    "description": "••Polímeros en bloque o injertados preparados por policondensación de aldehídos o cetonas sobre compuestos macromoleculares [2006.01]"
+  },
+  {
+    "code": "C08G 10/00",
+    "description": "Polímeros de condensación de aldehídos o cetonas con hidrocarburos aromáticos o hidrocarburos aromáticos halogenados solamente [2006.01]"
+  },
+  {
+    "code": "C08G 10/02",
+    "description": "••de aldehídos [2006.01]"
+  },
+  {
+    "code": "C08G 10/04",
+    "description": "••••Modificación química de policondensados [2006.01]"
+  },
+  {
+    "code": "C08G 10/06",
+    "description": "••Polímeros en bloque o injertados preparados por policondensación de aldehídos o cetonas sobre compuestos macromoleculares [2006.01]"
+  },
+  {
+    "code": "C08G 12/00",
+    "description": "Polímeros de condensación de aldehídos o cetonas con solamente compuestos que contienen hidrógeno unido al nitrógeno (aminofenoles C08G 8/16) [2006.01]"
+  },
+  {
+    "code": "C08G 12/02",
+    "description": "••de aldehídos [2006.01]"
+  },
+  {
+    "code": "C08G 12/04",
+    "description": "••••con compuestos acíclicos o carbocíclicos [2006.01]"
+  },
+  {
+    "code": "C08G 12/06",
+    "description": "••••••Aminas [2006.01]"
+  },
+  {
+    "code": "C08G 12/08",
+    "description": "••••••••aromáticas [2006.01]"
+  },
+  {
+    "code": "C08G 12/10",
+    "description": "••••••con compuestos acíclicos que tienen la parte X=C(—N )2 en la que X es O, S, o —N [2006.01]"
+  },
+  {
+    "code": "C08G 12/12",
+    "description": "••••••••Ureas; Tioureas [2006.01]"
+  },
+  {
+    "code": "C08G 12/14",
+    "description": "••••••••Diciandiamidas; Diciandiamidinas; Guanidinas; Biguanidinas; Biuret; Semicarbazidas [2006.01]"
+  },
+  {
+    "code": "C08G 12/16",
+    "description": "••••••••••Diciandiamidas [2006.01]"
+  },
+  {
+    "code": "C08G 12/18",
+    "description": "••••••con cianamida [2006.01]"
+  },
+  {
+    "code": "C08G 12/20",
+    "description": "••••••con uretanos o tiouretanos [2006.01]"
+  },
+  {
+    "code": "C08G 12/22",
+    "description": "••••••con amidas de ácido carboxílico [2006.01]"
+  },
+  {
+    "code": "C08G 12/24",
+    "description": "••••••con amidas de ácido sulfónico [2006.01]"
+  },
+  {
+    "code": "C08G 12/26",
+    "description": "••••con compuestos heterocíclicos [2006.01]"
+  },
+  {
+    "code": "C08G 12/28",
+    "description": "••••••con diazinas, diazoles o triazoles sustituidos [2006.01]"
+  },
+  {
+    "code": "C08G 12/30",
+    "description": "••••••con triazinas sustituidas [2006.01]"
+  },
+  {
+    "code": "C08G 12/32",
+    "description": "••••••••Melaminas [2006.01]"
+  },
+  {
+    "code": "C08G 12/34",
+    "description": "••••••y compuestos acíclicos o carbocíclicos [2006.01]"
+  },
+  {
+    "code": "C08G 12/36",
+    "description": "••••••••Ureas; Tioureas [2006.01]"
+  },
+  {
+    "code": "C08G 12/38",
+    "description": "••••••••••y melaminas [2006.01]"
+  },
+  {
+    "code": "C08G 12/40",
+    "description": "••••Modificación química de policondensados [2006.01]"
+  },
+  {
+    "code": "C08G 12/42",
+    "description": "••••••por eterificación [2006.01]"
+  },
+  {
+    "code": "C08G 12/44",
+    "description": "••••••por esterificación [2006.01]"
+  },
+  {
+    "code": "C08G 12/46",
+    "description": "••Polímeros en bloque o injertados preparados por policondensación de aldehídos o cetonas sobre compuestos macromoleculares [2006.01]"
+  },
+  {
+    "code": "C08G 14/00",
+    "description": "Polímeros de condensación de aldehídos o cetonas con dos o más monómeros distintos de ellos, cubiertos por al menos dos de los grupos C08G 8/00-C08G 12/00 [2006.01]"
+  },
+  {
+    "code": "C08G 14/02",
+    "description": "••de aldehídos [2006.01]"
+  },
+  {
+    "code": "C08G 14/04",
+    "description": "••••con fenoles [2006.01]"
+  },
+  {
+    "code": "C08G 14/06",
+    "description": "••••••y monómeros que contienen hidrógeno unido a nitrógeno [2006.01]"
+  },
+  {
+    "code": "C08G 14/067",
+    "description": "••••••••Monómeros acíclicos o carbocíclicos [2006.01]"
+  },
+  {
+    "code": "C08G 14/073",
+    "description": "••••••••••Aminas [2006.01]"
+  },
+  {
+    "code": "C08G 14/08",
+    "description": "••••••••••Ureas; Tioureas [2006.01]"
+  },
+  {
+    "code": "C08G 14/09",
+    "description": "••••••••Monómeros heterocíclicos [2006.01]"
+  },
+  {
+    "code": "C08G 14/10",
+    "description": "••••••••••Melaminas [2006.01]"
+  },
+  {
+    "code": "C08G 14/12",
+    "description": "••••••Modificación química de policondensados [2006.01]"
+  },
+  {
+    "code": "C08G 14/14",
+    "description": "••Polímeros en bloque o injertados preparados por policondensación de aldehídos o cetonas sobre compuestos macromoleculares [2006.01]"
+  },
+  {
+    "code": "C08G 16/00",
+    "description": "Polímeros de condensación de aldehídos o cetonas con monómeros no previstos por los grupos C08G 4/00-C08G 14/00 [2006.01]"
+  },
+  {
+    "code": "C08G 16/02",
+    "description": "••de aldehídos [2006.01]"
+  },
+  {
+    "code": "C08G 16/04",
+    "description": "••••Modificación química de policondensados [2006.01]"
+  },
+  {
+    "code": "C08G 16/06",
+    "description": "••Polímeros en bloque o injertados preparados por policondensación de aldehídos o cetonas sobre compuestos macromoleculares [2006.01]"
+  },
+  {
+    "code": "C08G 18/00",
+    "description": "Productos poliméricos de isocianatos o isotiocianatos [2006.01]"
+  },
+  {
+    "code": "C08G 18/02",
+    "description": "••de solamente isocianatos o isotiocianatos [2006.01]"
+  },
+  {
+    "code": "C08G 18/04",
+    "description": "••con compuestos de vinilo [2006.01]"
+  },
+  {
+    "code": "C08G 18/06",
+    "description": "••con compuestos que tienen hidrógeno activo [2006.01]"
+  },
+  {
+    "code": "C08G 18/08",
+    "description": "••••Procesos de preparación [2006.01]"
+  },
+  {
+    "code": "C08G 18/09",
+    "description": "••••••que comprenden oligomerización de isocianatos o isotiocianatos que incluyen reacción de una parte de los grupos isocianato o isotiocianato el uno con el otro en la mezcla de reacción [2006.01]"
+  },
+  {
+    "code": "C08G 18/10",
+    "description": "••••••Procesos de prepolimerización que incluyen reacción de isocianatos o isotiocianatos con compuestos que tienen hidrógeno activo en un primer paso de reacción [2006.01]"
+  },
+  {
+    "code": "C08G 18/12",
+    "description": "••••••••Procesos de prepolimerización [2006.01]"
+  },
+  {
+    "code": "C08G 18/16",
+    "description": "••••••Catalizadores [2006.01]"
+  },
+  {
+    "code": "C08G 18/18",
+    "description": "••••••••que contienen aminas secundarias o terciarias o sus sales [2006.01]"
+  },
+  {
+    "code": "C08G 18/20",
+    "description": "••••••••••Aminas heterocíclicas; Sus sales [2006.01]"
+  },
+  {
+    "code": "C08G 18/22",
+    "description": "••••••••que contienen compuestos metálicos [2006.01]"
+  },
+  {
+    "code": "C08G 18/24",
+    "description": "••••••••••de estaño [2006.01]"
+  },
+  {
+    "code": "C08G 18/26",
+    "description": "••••••••••de plomo [2006.01]"
+  },
+  {
+    "code": "C08G 18/28",
+    "description": "••••caracterizados por los compuestos utilizados que contienen hidrógeno activo [2006.01]"
+  },
+  {
+    "code": "C08G 18/30",
+    "description": "••••••Compuestos de bajo peso molecular [2006.01]"
+  },
+  {
+    "code": "C08G 18/32",
+    "description": "••••••••Compuestos polihidroxi; Poliaminas; Hidroxiaminas [2006.01]"
+  },
+  {
+    "code": "C08G 18/34",
+    "description": "••••••••Acidos carboxílicos; Sus ésteres con compuestos monohidroxilo [2006.01]"
+  },
+  {
+    "code": "C08G 18/36",
+    "description": "••••••••Esteres hidroxilados de ácidos grasos de alto peso molecular [2006.01]"
+  },
+  {
+    "code": "C08G 18/38",
+    "description": "••••••••que tienen heteroátomos distintos al oxígeno (C08G 18/32 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "C08G 18/40",
+    "description": "••••••Compuestos de alto peso molecular [2006.01]"
+  },
+  {
+    "code": "C08G 18/42",
+    "description": "••••••••Policondensados que tienen grupos éster carboxílico o carbónico en la cadena principal [2006.01]"
+  },
+  {
+    "code": "C08G 18/44",
+    "description": "••••••••••Policarbonatos [2006.01]"
+  },
+  {
+    "code": "C08G 18/46",
+    "description": "••••••••••que tienen heteroátomos distintos al oxígeno [2006.01]"
+  },
+  {
+    "code": "C08G 18/48",
+    "description": "••••••••Poliéteres [2006.01]"
+  },
+  {
+    "code": "C08G 18/50",
+    "description": "••••••••••que tienen heteroátomos distintos al oxígeno [2006.01]"
+  },
+  {
+    "code": "C08G 18/52",
+    "description": "••••••••Politioéteres [2006.01]"
+  },
+  {
+    "code": "C08G 18/54",
+    "description": "••••••••Policondensados de aldehídos [2006.01]"
+  },
+  {
+    "code": "C08G 18/56",
+    "description": "••••••••Poliacetales [2006.01]"
+  },
+  {
+    "code": "C08G 18/58",
+    "description": "••••••••Resinas epoxi [2006.01]"
+  },
+  {
+    "code": "C08G 18/60",
+    "description": "••••••••Poliamidas o poliesteramidas [2006.01]"
+  },
+  {
+    "code": "C08G 18/61",
+    "description": "••••••••Polisiloxanos [2006.01]"
+  },
+  {
+    "code": "C08G 18/62",
+    "description": "••••••••Polímeros de compuestos que tienen enlaces dobles carbono-carbono [2006.01]"
+  },
+  {
+    "code": "C08G 18/63",
+    "description": "••••••••Polímeros en bloque o injertados obtenidos por polimerización de compuestos que tienen enlaces dobles carbono-carbono sobre polímeros [2006.01]"
+  },
+  {
+    "code": "C08G 18/64",
+    "description": "••••••••Compuestos macromoleculares no previstos por los grupos C08G 18/42-C08G 18/63 [2006.01]"
+  },
+  {
+    "code": "C08G 18/65",
+    "description": "••••••Compuestos de bajo peso molecular que tienen hidrógeno activo con compuestos de alto peso molecular que tienen hidrógeno activo [2006.01]"
+  },
+  {
+    "code": "C08G 18/66",
+    "description": "••••••••Compuestos de los grupos C08G 18/42, C08G 18/48, ó C08G 18/52 [2006.01]"
+  },
+  {
+    "code": "C08G 18/67",
+    "description": "••••••Compuestos insaturados que tienen hidrógeno activo [2006.01]"
+  },
+  {
+    "code": "C08G 18/68",
+    "description": "••••••••Poliésteres insaturados [2006.01]"
+  },
+  {
+    "code": "C08G 18/69",
+    "description": "••••••••Polímeros de dienos conjugados [2006.01]"
+  },
+  {
+    "code": "C08G 18/70",
+    "description": "••••caracterizados por los isocianatos o isotiocianatos utilizados [2006.01]"
+  },
+  {
+    "code": "C08G 18/71",
+    "description": "••••••Monoisocianatos o monotiocianatos [2006.01]"
+  },
+  {
+    "code": "C08G 18/72",
+    "description": "••••••Polisocianatos o polisotiocianatos [2006.01]"
+  },
+  {
+    "code": "C08G 18/73",
+    "description": "••••••••acíclicos [2006.01]"
+  },
+  {
+    "code": "C08G 18/74",
+    "description": "••••••••cíclicos [2006.01]"
+  },
+  {
+    "code": "C08G 18/75",
+    "description": "••••••••••cicloalifáticos [2006.01]"
+  },
+  {
+    "code": "C08G 18/76",
+    "description": "••••••••••aromáticos [2006.01]"
+  },
+  {
+    "code": "C08G 18/77",
+    "description": "••••••••que tienen heteroátomos distintos al nitrógeno, oxígeno o azufre del isocianato o isotiocianato [2006.01]"
+  },
+  {
+    "code": "C08G 18/78",
+    "description": "••••••••••nitrógeno [2006.01]"
+  },
+  {
+    "code": "C08G 18/79",
+    "description": "••••••••••••caracterizados por los polisocianatos utilizados, los cuales tienen grupos formados por oligomerización de isocianatos o isotiocianatos [2006.01]"
+  },
+  {
+    "code": "C08G 18/80",
+    "description": "••••••••Polisocianatos enmascarados [2006.01]"
+  },
+  {
+    "code": "C08G 18/81",
+    "description": "••••••Isocianatos o isotiocianatos insaturados [2006.01]"
+  },
+  {
+    "code": "C08G 18/82",
+    "description": "••••Tratamiento tras la polimerización [2006.01]"
+  },
+  {
+    "code": "C08G 18/83",
+    "description": "••••Polímeros modificados químicamente [2006.01]"
+  },
+  {
+    "code": "C08G 18/84",
+    "description": "••••••por aldehídos [2006.01]"
+  },
+  {
+    "code": "C08G 18/85",
+    "description": "••••••por azocompuestos [2006.01]"
+  },
+  {
+    "code": "C08G 18/86",
+    "description": "••••••por peróxidos [2006.01]"
+  },
+  {
+    "code": "C08G 18/87",
+    "description": "••••••por azufre [2006.01]"
+  },
+  {
+    "code": "C08G 59/00",
+    "description": "Policondensados que contienen varios grupos epoxi por molécula; Macromoléculas obtenidas por reacción de policondensados poliepoxi con compuestos monofuncionales de bajo peso molecular; Macromoléculas obtenidas por polimerización de compuestos que contienen más de un grupo epoxi por molécula utilizando agentes de endurecimiento o catalizadores que reaccionan con los grupos epoxi [2006.01]"
+  },
+  {
+    "code": "C08G 59/02",
+    "description": "••Policondensados que contienen más de un grupo epoxi por molécula [2006.01]"
+  },
+  {
+    "code": "C08G 59/04",
+    "description": "••••de compuestos polihidroxi con epihalohidrina o sus precursores [2006.01]"
+  },
+  {
+    "code": "C08G 59/06",
+    "description": "••••••de polifenoles [2006.01]"
+  },
+  {
+    "code": "C08G 59/08",
+    "description": "••••••••a partir de condensados de fenol-aldehído [2006.01]"
+  },
+  {
+    "code": "C08G 59/10",
+    "description": "••••de poliaminas con epihalohidrina o sus precursores [2006.01]"
+  },
+  {
+    "code": "C08G 59/12",
+    "description": "••••de ácidos policarboxílicos con epihalohidrina o sus precursores [2006.01]"
+  },
+  {
+    "code": "C08G 59/14",
+    "description": "••Policondensados modificados por tratamiento químico posterior [2006.01]"
+  },
+  {
+    "code": "C08G 59/16",
+    "description": "••••por ácidos monocarboxílicos o por sus anhídridos, haluros o ésteres de bajo peso molecular [2006.01]"
+  },
+  {
+    "code": "C08G 59/17",
+    "description": "••••••por ácido acrílico o metacrílico [2006.01]"
+  },
+  {
+    "code": "C08G 59/18",
+    "description": "••Macromoléculas obtenidas por polimerización de compuestos que contienen más de un grupo epoxi por molécula utilizando agentes de curado o catalizadores que reaccionan con los grupos epoxi [2006.01]"
+  },
+  {
+    "code": "C08G 59/20",
+    "description": "••••caracterizadas por los compuestos epoxi utilizados [2006.01]"
+  },
+  {
+    "code": "C08G 59/22",
+    "description": "••••••Compuestos di-epoxi [2006.01]"
+  },
+  {
+    "code": "C08G 59/24",
+    "description": "••••••••carbocíclicos [2006.01]"
+  },
+  {
+    "code": "C08G 59/26",
+    "description": "••••••••heterocíclicos [2006.01]"
+  },
+  {
+    "code": "C08G 59/28",
+    "description": "••••••••que contienen átomos de nitrógeno acíclicos [2006.01]"
+  },
+  {
+    "code": "C08G 59/30",
+    "description": "••••••••que contienen átomos distintos del carbono, hidrógeno, oxígeno y nitrógeno [2006.01]"
+  },
+  {
+    "code": "C08G 59/32",
+    "description": "••••••Compuestos epoxi que contienen tres o más grupos epoxi [2006.01]"
+  },
+  {
+    "code": "C08G 59/34",
+    "description": "••••••••obtenidos por epoxidación de un polímero insaturado [2006.01]"
+  },
+  {
+    "code": "C08G 59/36",
+    "description": "••••••••junto con compuestos monoepoxi [2006.01]"
+  },
+  {
+    "code": "C08G 59/38",
+    "description": "••••••••junto con compuestos diepoxi [2006.01]"
+  },
+  {
+    "code": "C08G 59/40",
+    "description": "••••caracterizados por los agentes de curado utilizados [2006.01]"
+  },
+  {
+    "code": "C08G 59/42",
+    "description": "••••••Acidos policarboxílicos; Sus anhídridos, haluros o ésteres de bajo peso molecular [2006.01]"
+  },
+  {
+    "code": "C08G 59/44",
+    "description": "••••••Amidas [2006.01]"
+  },
+  {
+    "code": "C08G 59/46",
+    "description": "••••••••junto con otros agentes de curado [2006.01]"
+  },
+  {
+    "code": "C08G 59/48",
+    "description": "••••••••••con ácidos policarboxílicos o con anhídridos, haluros o ésteres de bajo peso molecular [2006.01]"
+  },
+  {
+    "code": "C08G 59/50",
+    "description": "••••••Aminas [2006.01]"
+  },
+  {
+    "code": "C08G 59/52",
+    "description": "••••••••Acidos aminocarboxílicos [2006.01]"
+  },
+  {
+    "code": "C08G 59/54",
+    "description": "••••••••Aminoamidas [2006.01]"
+  },
+  {
+    "code": "C08G 59/56",
+    "description": "••••••••junto con otros agentes de curado [2006.01]"
+  },
+  {
+    "code": "C08G 59/58",
+    "description": "••••••••••con ácidos policarboxílicos o con anhídridos, haluros o ésteres de bajo peso molecular [2006.01]"
+  },
+  {
+    "code": "C08G 59/60",
+    "description": "••••••••••con amidas [2006.01]"
+  },
+  {
+    "code": "C08G 59/62",
+    "description": "••••••Alcoholes o fenoles [2006.01]"
+  },
+  {
+    "code": "C08G 59/64",
+    "description": "••••••••Aminoalcoholes [2006.01]"
+  },
+  {
+    "code": "C08G 59/66",
+    "description": "••••••Mercaptanos [2006.01]"
+  },
+  {
+    "code": "C08G 59/68",
+    "description": "••••caracterizados por los catalizadores utilizados [2006.01]"
+  },
+  {
+    "code": "C08G 59/70",
+    "description": "••••••Quelatos [2006.01]"
+  },
+  {
+    "code": "C08G 59/72",
+    "description": "••••••Complejos de haluros de boro [2006.01]"
+  },
+  {
+    "code": "C08G 61/00",
+    "description": "Compuestos macromoleculares obtenidos por reacciones que forman un enlace carbono-carbono en la cadena principal de la macromolécula (C08G 2/00-C08G 16/00 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "C08G 61/02",
+    "description": "••Compuestos macromoleculares que contienen solamente átomos de carbono en la cadena principal de la macromolécula, p. ej. polixililenos [2006.01]"
+  },
+  {
+    "code": "C08G 61/04",
+    "description": "••••solamente átomos de carbono alifáticos [2006.01]"
+  },
+  {
+    "code": "C08G 61/06",
+    "description": "••••••preparados por rotura de ciclo de compuestos carbocíclicos [2006.01]"
+  },
+  {
+    "code": "C08G 61/08",
+    "description": "••••••••de compuestos carbocíclicos que contienen uno o más enlaces dobles carbono-carbono en el ciclo [2006.01]"
+  },
+  {
+    "code": "C08G 61/10",
+    "description": "••••solamente átomos de carbono aromáticos, p. ej. polifenilenos [2006.01]"
+  },
+  {
+    "code": "C08G 61/12",
+    "description": "••Compuestos macromoleculares que contienen átomos distintos del carbono en la cadena principal de la macromolécula [2006.01]"
+  },
+  {
+    "code": "C08G 63/00",
+    "description": "Compuestos macromoleculares obtenidos por reacciones que forman un enlace éster carboxílico en la cadena principal de la macromolécula (poliesteramidas C08G 69/44; poliesterimidas C08G 73/16) [2006.01]"
+  },
+  {
+    "code": "C08G 63/02",
+    "description": "••Poliésteres derivados a partir de ácidos hidroxicarboxílicos, o a partir de ácidos policarboxílicos y de compuestos polihidroxi [2006.01]"
+  },
+  {
+    "code": "C08G 63/06",
+    "description": "••••derivados a partir de ácidos hidroxicarboxílicos [2006.01]"
+  },
+  {
+    "code": "C08G 63/08",
+    "description": "••••••Lactonas o lactidas [2006.01]"
+  },
+  {
+    "code": "C08G 63/12",
+    "description": "••••derivados a partir de ácidos policarboxílicos y compuestos polihidroxi [2006.01]"
+  },
+  {
+    "code": "C08G 63/123",
+    "description": "••••••Acidos o compuestos hidroxilados que contienen carbociclos [2006.01]"
+  },
+  {
+    "code": "C08G 63/127",
+    "description": "••••••••Acidos que contienen ciclos aromáticos [2006.01]"
+  },
+  {
+    "code": "C08G 63/13",
+    "description": "••••••••••que contienen varios ciclos aromáticos [2006.01]"
+  },
+  {
+    "code": "C08G 63/133",
+    "description": "••••••••Compuestos hidroxilados que contienen ciclos aromáticos [2006.01]"
+  },
+  {
+    "code": "C08G 63/137",
+    "description": "••••••••Acidos o compuestos hidroxilados que contienen ciclos cicloalifáticos [2006.01]"
+  },
+  {
+    "code": "C08G 63/16",
+    "description": "••••••Acidos dicarboxílicos y compuestos dihidroxi [2006.01]"
+  },
+  {
+    "code": "C08G 63/18",
+    "description": "••••••••Acidos o compuestos hidroxi que contienen ciclos carbocíclicos [2006.01]"
+  },
+  {
+    "code": "C08G 63/181",
+    "description": "••••••••••Acidos que contienen ciclos aromáticos [2006.01]"
+  },
+  {
+    "code": "C08G 63/183",
+    "description": "••••••••••••Acidos tereftálicos [2006.01]"
+  },
+  {
+    "code": "C08G 63/185",
+    "description": "••••••••••••que contienen varios ciclos aromáticos [2006.01]"
+  },
+  {
+    "code": "C08G 63/187",
+    "description": "••••••••••••••que contienen ciclos aromáticos condensados [2006.01]"
+  },
+  {
+    "code": "C08G 63/189",
+    "description": "••••••••••••••••que contienen un ciclo naftalénico [2006.01]"
+  },
+  {
+    "code": "C08G 63/19",
+    "description": "••••••••••Compuestos hidroxilados que contienen ciclos aromáticos [2006.01]"
+  },
+  {
+    "code": "C08G 63/191",
+    "description": "••••••••••••Hidroquinonas [2006.01]"
+  },
+  {
+    "code": "C08G 63/193",
+    "description": "••••••••••••que contienen varios ciclos aromáticos [2006.01]"
+  },
+  {
+    "code": "C08G 63/195",
+    "description": "••••••••••••••Bisfenol A [2006.01]"
+  },
+  {
+    "code": "C08G 63/197",
+    "description": "••••••••••••••que contienen ciclos aromáticos condensados [2006.01]"
+  },
+  {
+    "code": "C08G 63/199",
+    "description": "••••••••••Acidos o compuestos hidroxilados que contienen ciclos cicloalifáticos [2006.01]"
+  },
+  {
+    "code": "C08G 63/20",
+    "description": "••••••••Poliésteres preparados en presencia de compuestos que tienen un grupo reactivo o más de dos grupos reactivos [2006.01]"
+  },
+  {
+    "code": "C08G 63/21",
+    "description": "••••••••••en presencia de ácidos monocarboxílicos insaturados o de alcoholes monohídricos insaturados o de sus derivados reactivos [2006.01]"
+  },
+  {
+    "code": "C08G 63/40",
+    "description": "••••••Poliésteres obtenidos a partir de derivados, formadores de ésteres, de ácidos policarboxílicos o de compuestos polihidroxi que forman ésteres, diferentes de sus ésteres [2006.01]"
+  },
+  {
+    "code": "C08G 63/42",
+    "description": "••••••••Eteres cíclicos (C08G 59/00 tiene prioridad); Carbonatos cíclicos; Sulfitos cíclicos; ortoésteres cíclicos [2006.01]"
+  },
+  {
+    "code": "C08G 63/44",
+    "description": "••••••••Poliamidas; Polinitrilos [2006.01]"
+  },
+  {
+    "code": "C08G 63/46",
+    "description": "••••••Poliésteres modificados químicamente por esterificación (C08G 63/20 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "C08G 63/47",
+    "description": "••••••••por ácidos monocarboxílicos insaturados, alcoholes monohídricos insaturados o sus derivados reactivos [2006.01]"
+  },
+  {
+    "code": "C08G 63/48",
+    "description": "••••••••por aceites grasos insaturados de alto peso molecular o sus ácidos; por ácidos de resinas [2006.01]"
+  },
+  {
+    "code": "C08G 63/49",
+    "description": "••••••••••Resinas alkídicas [2006.01]"
+  },
+  {
+    "code": "C08G 63/50",
+    "description": "••••••••por alcoholes monohídricos [2006.01]"
+  },
+  {
+    "code": "C08G 63/52",
+    "description": "••••••Acidos policarboxílicos o compuestos polihidroxi en los que al menos uno de los dos componentes contienen insaturación alifática [2006.01]"
+  },
+  {
+    "code": "C08G 63/54",
+    "description": "••••••••Acidos o compuestos hidroxi que contienen carbociclos [2006.01]"
+  },
+  {
+    "code": "C08G 63/547",
+    "description": "••••••••••Compuestos hidroxilados que contienen ciclos aromáticos [2006.01]"
+  },
+  {
+    "code": "C08G 63/553",
+    "description": "••••••••••Acidos o compuestos hidroxilados que contienen ciclos cicloalifáticos, p. ej. productos de adición de Diels-Alder [2006.01]"
+  },
+  {
+    "code": "C08G 63/56",
+    "description": "••••••••Poliésteres obtenidos a partir de derivados, formadores de ésteres, de ácidos policarboxílicos o de compuestos polihidroxi que forman ésteres, diferentes de sus ésteres [2006.01]"
+  },
+  {
+    "code": "C08G 63/58",
+    "description": "••••••••••Eteres cíclicos (C08G 59/00 tiene prioridad); Carbonatos cíclicos; Sulfitos cíclicos [2006.01]"
+  },
+  {
+    "code": "C08G 63/60",
+    "description": "••••derivados de la reacción de una mezcla de ácidos hidroxicarboxílicos, ácidos policarboxílicos y compuestos polihidroxilados [2006.01]"
+  },
+  {
+    "code": "C08G 63/64",
+    "description": "••Poliésteres que contienen a la vez grupos éster carboxílico y grupos carbonato [2006.01]"
+  },
+  {
+    "code": "C08G 63/66",
+    "description": "••Poliésteres que contienen oxígeno en la forma de grupos éter (C08G 63/42, C08G 63/58 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "C08G 63/664",
+    "description": "••••derivados de ácidos hidroxicarboxílicos [2006.01]"
+  },
+  {
+    "code": "C08G 63/668",
+    "description": "••••derivados de ácidos policarboxílicos y compuestos polihidroxilados [2006.01]"
+  },
+  {
+    "code": "C08G 63/672",
+    "description": "••••••Acidos dicarboxílicos y compuestos dihidroxilados [2006.01]"
+  },
+  {
+    "code": "C08G 63/676",
+    "description": "••••••en los cuales al menos uno de los dos componentes contiene una insaturación alifática [2006.01]"
+  },
+  {
+    "code": "C08G 63/68",
+    "description": "••Poliésteres que contienen átomos distintos del carbono, hidrógeno y oxígeno (C08G 63/64 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "C08G 63/682",
+    "description": "••••que contienen halógenos [2006.01]"
+  },
+  {
+    "code": "C08G 63/685",
+    "description": "••••que contienen nitrógeno [2006.01]"
+  },
+  {
+    "code": "C08G 63/688",
+    "description": "••••que contienen azufre [2006.01]"
+  },
+  {
+    "code": "C08G 63/692",
+    "description": "••••que contienen fósforo [2006.01]"
+  },
+  {
+    "code": "C08G 63/695",
+    "description": "••••que contienen silicio [2006.01]"
+  },
+  {
+    "code": "C08G 63/698",
+    "description": "••••que contienen boro [2006.01]"
+  },
+  {
+    "code": "C08G 63/78",
+    "description": "••Procedimientos de preparación [2006.01]"
+  },
+  {
+    "code": "C08G 63/79",
+    "description": "••••Procedimientos de interfase, es decir, procedimientos que hacen intervenir una reacción en la interfase de dos líquidos no miscibles [2006.01]"
+  },
+  {
+    "code": "C08G 63/80",
+    "description": "••••Policondensación en estado sólido [2006.01]"
+  },
+  {
+    "code": "C08G 63/81",
+    "description": "••••utilizando disolventes (C08G 63/79 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "C08G 63/82",
+    "description": "••••caracterizados por el catalizador empleado [2006.01]"
+  },
+  {
+    "code": "C08G 63/83",
+    "description": "••••••Metales alcalinos, metales alcalinotérreos, berilio, magnesio, cobre, plata, oro, zinc, cadmio, mercurio, manganeso o sus compuestos [2006.01]"
+  },
+  {
+    "code": "C08G 63/84",
+    "description": "••••••Boro, aluminio, galio, indio, talio, metales de las tierras raras o sus compuestos [2006.01]"
+  },
+  {
+    "code": "C08G 63/85",
+    "description": "••••••Germanio, estaño, plomo, arsénico, antimonio, bismuto, titanio, circonio, hafnio, vanadio, niobio, tántalo o sus compuestos [2006.01]"
+  },
+  {
+    "code": "C08G 63/86",
+    "description": "••••••••Germanio, antimonio o sus compuestos [2006.01]"
+  },
+  {
+    "code": "C08G 63/87",
+    "description": "••••••No metales o sus intercompuestos (boro C08G 63/84) [2006.01]"
+  },
+  {
+    "code": "C08G 63/88",
+    "description": "••Tratamiento de pospolimerización [2006.01]"
+  },
+  {
+    "code": "C08G 63/89",
+    "description": "••••Recuperación del polímero [2006.01]"
+  },
+  {
+    "code": "C08G 63/90",
+    "description": "••••Purificación; Secado [2006.01]"
+  },
+  {
+    "code": "C08G 63/91",
+    "description": "••Polímeros modificados por postratamiento químico [2006.01]"
+  },
+  {
+    "code": "C08G 64/00",
+    "description": "Compuestos macromoleculares obtenidos por reacciones que crean un enlace éster carbónico en la cadena principal de la macromolécula (policarbonato-amidas C08G 69/44; policarbonato-imidas C08G 73/16) [2006.01]"
+  },
+  {
+    "code": "C08G 64/02",
+    "description": "••Policarbonatos alifáticos [2006.01]"
+  },
+  {
+    "code": "C08G 64/04",
+    "description": "••Policarbonatos aromáticos [2006.01]"
+  },
+  {
+    "code": "C08G 64/06",
+    "description": "••••que no contienen insaturaciones alifáticas [2006.01]"
+  },
+  {
+    "code": "C08G 64/08",
+    "description": "••••••que contienen átomos diferentes del carbono, hidrógeno u oxígeno [2006.01]"
+  },
+  {
+    "code": "C08G 64/10",
+    "description": "••••••••que contienen halógenos [2006.01]"
+  },
+  {
+    "code": "C08G 64/12",
+    "description": "••••••••que contienen nitrógeno [2006.01]"
+  },
+  {
+    "code": "C08G 64/14",
+    "description": "••••••que contienen un agente de terminación o un agente de reticulación [2006.01]"
+  },
+  {
+    "code": "C08G 64/16",
+    "description": "••Policarbonatos alifático-aromáticos o arilalifáticos [2006.01]"
+  },
+  {
+    "code": "C08G 64/18",
+    "description": "••Polímeros en bloque o injertados [2006.01]"
+  },
+  {
+    "code": "C08G 64/20",
+    "description": "••Procedimientos generales de preparación [2006.01]"
+  },
+  {
+    "code": "C08G 64/22",
+    "description": "••••utilizando halogenuros de carbonilo [2006.01]"
+  },
+  {
+    "code": "C08G 64/24",
+    "description": "••••••y fenoles [2006.01]"
+  },
+  {
+    "code": "C08G 64/26",
+    "description": "••••utilizando halogenocarbonatos [2006.01]"
+  },
+  {
+    "code": "C08G 64/28",
+    "description": "••••••y fenoles [2006.01]"
+  },
+  {
+    "code": "C08G 64/30",
+    "description": "••••utilizando carbonatos [2006.01]"
+  },
+  {
+    "code": "C08G 64/32",
+    "description": "••••utilizando dióxido de carbono [2006.01]"
+  },
+  {
+    "code": "C08G 64/34",
+    "description": "••••••y éteres cíclicos [2006.01]"
+  },
+  {
+    "code": "C08G 64/36",
+    "description": "••••utilizando monóxido de carbono [2006.01]"
+  },
+  {
+    "code": "C08G 64/38",
+    "description": "••••utilizando otros monómeros [2006.01]"
+  },
+  {
+    "code": "C08G 64/40",
+    "description": "••Tratamiento de pospolimerización [2006.01]"
+  },
+  {
+    "code": "C08G 64/42",
+    "description": "••Postratamiento químico [2006.01]"
+  },
+  {
+    "code": "C08G 65/00",
+    "description": "Compuestos macromoleculares obtenidos por reacciones que forman un enlace éter en la cadena principal de la macromolécula (resinas epoxi C08G 59/00; politioéter-poliéteres C08G 75/12; poliéteres que contienen menos de once unidades monómeras C07C) [2006.01]"
+  },
+  {
+    "code": "C08G 65/02",
+    "description": "••a partir de éteres cíclicos por rotura del ciclo heterocíclico [2006.01]"
+  },
+  {
+    "code": "C08G 65/04",
+    "description": "••••a partir de éteres cíclicos solamente [2006.01]"
+  },
+  {
+    "code": "C08G 65/06",
+    "description": "••••••Eteres cíclicos que no tienen átomos distintos del carbono e hidrógeno fuera del ciclo [2006.01]"
+  },
+  {
+    "code": "C08G 65/08",
+    "description": "••••••••Oxiranos saturados [2006.01]"
+  },
+  {
+    "code": "C08G 65/10",
+    "description": "••••••••••caracterizados por los catalizadores utilizados [2006.01]"
+  },
+  {
+    "code": "C08G 65/12",
+    "description": "••••••••••••que contienen compuestos organometálicos o hidruros metálicos [2006.01]"
+  },
+  {
+    "code": "C08G 65/14",
+    "description": "••••••••Oxiranos insaturados [2006.01]"
+  },
+  {
+    "code": "C08G 65/16",
+    "description": "••••••••Eteres cíclicos que tienen cuatro o más átomos en el ciclo [2006.01]"
+  },
+  {
+    "code": "C08G 65/18",
+    "description": "••••••••••Oxetanos [2006.01]"
+  },
+  {
+    "code": "C08G 65/20",
+    "description": "••••••••••Tetrahidrofurano [2006.01]"
+  },
+  {
+    "code": "C08G 65/22",
+    "description": "••••••Eteres cíclicos que tienen al menos un átomo distinto del hidrógeno y carbono fuera del ciclo [2006.01]"
+  },
+  {
+    "code": "C08G 65/24",
+    "description": "••••••••Epihalohidrinas [2006.01]"
+  },
+  {
+    "code": "C08G 65/26",
+    "description": "••••a partir de éteres cíclicos y otros compuestos [2006.01]"
+  },
+  {
+    "code": "C08G 65/28",
+    "description": "••••••Eteres cíclicos y compuestos hidroxi [2006.01]"
+  },
+  {
+    "code": "C08G 65/30",
+    "description": "••••Tratamiento posterior a la polimerización, p. ej. recuperación, purificación, secado [2006.01]"
+  },
+  {
+    "code": "C08G 65/32",
+    "description": "••••Polímeros modificados por posterior tratamiento químico [2006.01]"
+  },
+  {
+    "code": "C08G 65/321",
+    "description": "••••••con compuestos inorgánicos [2006.01]"
+  },
+  {
+    "code": "C08G 65/322",
+    "description": "••••••••que contienen hidrógeno [2006.01]"
+  },
+  {
+    "code": "C08G 65/323",
+    "description": "••••••••que contienen halógenos [2006.01]"
+  },
+  {
+    "code": "C08G 65/324",
+    "description": "••••••••que contienen oxígeno [2006.01]"
+  },
+  {
+    "code": "C08G 65/325",
+    "description": "••••••••que contienen nitrógeno [2006.01]"
+  },
+  {
+    "code": "C08G 65/326",
+    "description": "••••••••que contienen azufre [2006.01]"
+  },
+  {
+    "code": "C08G 65/327",
+    "description": "••••••••que contienen fósforo [2006.01]"
+  },
+  {
+    "code": "C08G 65/328",
+    "description": "••••••••que contienen otros elementos [2006.01]"
+  },
+  {
+    "code": "C08G 65/329",
+    "description": "••••••con compuestos orgánicos [2006.01]"
+  },
+  {
+    "code": "C08G 65/331",
+    "description": "••••••••que contienen oxígeno [2006.01]"
+  },
+  {
+    "code": "C08G 65/332",
+    "description": "••••••••••que contienen grupos carboxilo, haluros o sus ésteres [2006.01]"
+  },
+  {
+    "code": "C08G 65/333",
+    "description": "••••••••que contiene nitrógeno [2006.01]"
+  },
+  {
+    "code": "C08G 65/334",
+    "description": "••••••••que contiene azufre [2006.01]"
+  },
+  {
+    "code": "C08G 65/335",
+    "description": "••••••••que contiene fósforo [2006.01]"
+  },
+  {
+    "code": "C08G 65/336",
+    "description": "••••••••que contiene silicio [2006.01]"
+  },
+  {
+    "code": "C08G 65/337",
+    "description": "••••••••que contienen otros elementos (compuestos orgánicos que contienen halógenos sólo como haluros de un grupo carboxilo C08G 65/332) [2006.01]"
+  },
+  {
+    "code": "C08G 65/338",
+    "description": "••••••con compuestos inorgánicos y orgánicos [2006.01]"
+  },
+  {
+    "code": "C08G 65/34",
+    "description": "••a partir de compuestos hidroxi o sus derivados metálicos (C08G 65/28 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "C08G 65/36",
+    "description": "••••Alcohol de furfurilo [2006.01]"
+  },
+  {
+    "code": "C08G 65/38",
+    "description": "••••derivados a partir de fenoles [2006.01]"
+  },
+  {
+    "code": "C08G 65/40",
+    "description": "••••••a partir de fenoles y otros compuestos [2006.01]"
+  },
+  {
+    "code": "C08G 65/42",
+    "description": "••••••••Fenoles y éteres polihidroxi [2006.01]"
+  },
+  {
+    "code": "C08G 65/44",
+    "description": "••••••por oxidación de fenoles [2006.01]"
+  },
+  {
+    "code": "C08G 65/46",
+    "description": "••••Tratamiento posterior a la polimerización, p. ej. recuperación, purificación, secado [2006.01]"
+  },
+  {
+    "code": "C08G 65/48",
+    "description": "••••Polímeros modificados por posterior tratamiento químico [2006.01]"
+  },
+  {
+    "code": "C08G 67/00",
+    "description": "Compuestos macromoleculares obtenidos por reacciones que forman en la cadena principal de la macromolécula un enlace que contiene oxígeno u oxígeno y carbono, no previstos por los grupos C08G 2/00-C08G 65/00 [2006.01]"
+  },
+  {
+    "code": "C08G 67/02",
+    "description": "••Copolímeros de monóxido de carbono y compuestos alifáticos insaturados [2006.01]"
+  },
+  {
+    "code": "C08G 67/04",
+    "description": "••Polianhídridos [2006.01]"
+  },
+  {
+    "code": "C08G 69/00",
+    "description": "Compuestos macromoleculares obtenidos por reacciones que forman un enlace amidocarboxílico en la cadena principal de la macromolécula (polihidrazidas C08G 73/08; poliamido-ácidos C08G 73/10; poliamida-imidas C08G 73/14) [2006.01]"
+  },
+  {
+    "code": "C08G 69/02",
+    "description": "••Poliamidas derivadas a partir de ácidos aminocarboxílicos o a partir de poliaminas y ácidos policarboxílicos [2006.01]"
+  },
+  {
+    "code": "C08G 69/04",
+    "description": "••••Procesos preparatorios [2006.01]"
+  },
+  {
+    "code": "C08G 69/06",
+    "description": "••••••Policondensación en estado sólido [2006.01]"
+  },
+  {
+    "code": "C08G 69/08",
+    "description": "••••derivados a partir de ácidos aminocarboxílicos [2006.01]"
+  },
+  {
+    "code": "C08G 69/10",
+    "description": "••••••ácidos alfa-aminocarboxílicos [2006.01]"
+  },
+  {
+    "code": "C08G 69/12",
+    "description": "••••••a la vez con grupos amino y carboxílico enlazados aromáticamente [2006.01]"
+  },
+  {
+    "code": "C08G 69/14",
+    "description": "••••••Lactamas [2006.01]"
+  },
+  {
+    "code": "C08G 69/16",
+    "description": "••••••••Procesos preparatorios [2006.01]"
+  },
+  {
+    "code": "C08G 69/18",
+    "description": "••••••••••Polimerización aniónica [2006.01]"
+  },
+  {
+    "code": "C08G 69/20",
+    "description": "••••••••••••caracterizada por los catalizadores utilizados [2006.01]"
+  },
+  {
+    "code": "C08G 69/22",
+    "description": "••••••••beta-Lactamas [2006.01]"
+  },
+  {
+    "code": "C08G 69/24",
+    "description": "••••••••Pirrolidonas o piperidonas [2006.01]"
+  },
+  {
+    "code": "C08G 69/26",
+    "description": "••••derivadas a partir de poliaminas y ácidos policarboxílicos [2006.01]"
+  },
+  {
+    "code": "C08G 69/28",
+    "description": "••••••Procesos preparatorios [2006.01]"
+  },
+  {
+    "code": "C08G 69/30",
+    "description": "••••••••Policondensación en estado sólido [2006.01]"
+  },
+  {
+    "code": "C08G 69/32",
+    "description": "••••••a partir de diaminas aromáticas y ácidos dicarboxílicos aromáticos con a la vez grupos amino y carboxílico unidos aromáticamente [2006.01]"
+  },
+  {
+    "code": "C08G 69/34",
+    "description": "••••••utilizando ácidos grasos insaturados polimerizados [2006.01]"
+  },
+  {
+    "code": "C08G 69/36",
+    "description": "••••derivados a partir de aminoácidos, poliaminas y ácidos policarboxílicos [2006.01]"
+  },
+  {
+    "code": "C08G 69/38",
+    "description": "••Poliamidas preparadas a partir de aldehídos y polinitrilos [2006.01]"
+  },
+  {
+    "code": "C08G 69/40",
+    "description": "••Poliamidas que contienen oxígeno en la forma de grupos éter (C08G 69/12, C08G 69/32 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "C08G 69/42",
+    "description": "••Poliamidas que contienen átomos distintos del carbono, hidrógeno, oxígeno y nitrógeno (C08G 69/12, C08G 69/32 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "C08G 69/44",
+    "description": "••Poliesteramidas [2006.01]"
+  },
+  {
+    "code": "C08G 69/46",
+    "description": "••Tratamiento posterior a la polimerización [2006.01]"
+  },
+  {
+    "code": "C08G 69/48",
+    "description": "••Polímeros modificados por posterior tratamiento químico [2006.01]"
+  },
+  {
+    "code": "C08G 69/50",
+    "description": "••••con aldehídos [2006.01]"
+  },
+  {
+    "code": "C08G 71/00",
+    "description": "Compuestos macromoleculares obtenidos por reacciones que forman un enlace ureído o uretano, diferentes a los radicales de isocianato, en la cadena principal de la macromolécula [2006.01]"
+  },
+  {
+    "code": "C08G 71/02",
+    "description": "••Poliureas [2006.01]"
+  },
+  {
+    "code": "C08G 71/04",
+    "description": "••Poliuretanos [2006.01]"
+  },
+  {
+    "code": "C08G 73/00",
+    "description": "Compuestos macromoleculares obtenidos por reacciones que forman un enlace que contiene nitrógeno con o sin oxígeno o carbono en la cadena principal de la macromolécula, no previstos por los grupos C08G 12/00-C08G 71/00 [2006.01]"
+  },
+  {
+    "code": "C08G 73/02",
+    "description": "••Poliaminas (que contienen menos de once unidades monómeras C07C) [2006.01]"
+  },
+  {
+    "code": "C08G 73/04",
+    "description": "••••derivadas a partir de alquilenoiminas [2006.01]"
+  },
+  {
+    "code": "C08G 73/06",
+    "description": "••Policondensados que tienen ciclos heterocíclicos que contienen nitrógeno en la cadena principal de la macromolécula; Polihidrazidas; Poliamido-ácidos o precursores similares de poliimidas [2006.01]"
+  },
+  {
+    "code": "C08G 73/08",
+    "description": "••••Polihidrazidas; Politriazoles; Poliaminotriazoles; Polioxadiazoles [2006.01]"
+  },
+  {
+    "code": "C08G 73/10",
+    "description": "••••Polimidas; Poliesterimidas; Poliamida-imidas; Acidos de poliamida o similares precursores de poliimidas [2006.01]"
+  },
+  {
+    "code": "C08G 73/12",
+    "description": "••••••Precursores de poliimida insaturada [2006.01]"
+  },
+  {
+    "code": "C08G 73/14",
+    "description": "••••••Poliamida-imidas [2006.01]"
+  },
+  {
+    "code": "C08G 73/16",
+    "description": "••••••Poliéster-imidas [2006.01]"
+  },
+  {
+    "code": "C08G 73/18",
+    "description": "••••Polibencimidazoles [2006.01]"
+  },
+  {
+    "code": "C08G 73/20",
+    "description": "••••Pirronas [2006.01]"
+  },
+  {
+    "code": "C08G 73/22",
+    "description": "••••Polibenzoxazoles [2006.01]"
+  },
+  {
+    "code": "C08G 73/24",
+    "description": "••Copolímeros de un compuesto orgánico fluoronitrosados y otro compuesto orgánico fluorados, p. ej. cauchos nitrosados [2006.01]"
+  },
+  {
+    "code": "C08G 73/26",
+    "description": "••••de trifluoronitrosometano con un flúor-olefina [2006.01]"
+  },
+  {
+    "code": "C08G 75/00",
+    "description": "Compuestos macromoleculares obtenidos por reacciones que forman un enlace que contiene azufre con o sin nitrógeno, oxígeno o carbono, en la cadena principal de la macromolécula [2006.01]"
+  },
+  {
+    "code": "C08G 75/02",
+    "description": "••Politioéteres [2016.01]"
+  },
+  {
+    "code": "C08G 75/0204",
+    "description": "••••Poliariltioéteres [2016.01]"
+  },
+  {
+    "code": "C08G 75/0209",
+    "description": "••••••derivados de monómeros que contienen un anillo aromático [2016.01]"
+  },
+  {
+    "code": "C08G 75/0213",
+    "description": "••••••••que contienen elementos distintos de carbono, hidrógeno o azufre [2016.01]"
+  },
+  {
+    "code": "C08G 75/0222",
+    "description": "••••••••••que contienen nitrógeno [2016.01]"
+  },
+  {
+    "code": "C08G 75/0227",
+    "description": "••••••derivados de monómeros que contienen dos o más anillos aromáticos [2016.01]"
+  },
+  {
+    "code": "C08G 75/0231",
+    "description": "••••••que contienen agentes de terminación o de ramificación de cadena [2016.01]"
+  },
+  {
+    "code": "C08G 75/0236",
+    "description": "••••••que contienen átomos distintos de carbono o azufre en una unión entre grupos arilo [2016.01]"
+  },
+  {
+    "code": "C08G 75/024",
+    "description": "••••••••que contienen grupos carbonilo [2016.01]"
+  },
+  {
+    "code": "C08G 75/0245",
+    "description": "••••••Polímeros de bloque o de injerto [2016.01]"
+  },
+  {
+    "code": "C08G 75/025",
+    "description": "••••••Procedimientos de preparación [2016.01]"
+  },
+  {
+    "code": "C08G 75/0254",
+    "description": "••••••••usando sulfuros metálicos [2016.01]"
+  },
+  {
+    "code": "C08G 75/0259",
+    "description": "••••••••usando hidrogenosulfuros metálicos [2016.01]"
+  },
+  {
+    "code": "C08G 75/0263",
+    "description": "••••••••usando azufre elemental [2016.01]"
+  },
+  {
+    "code": "C08G 75/0268",
+    "description": "••••••••usando disulfuros [2016.01]"
+  },
+  {
+    "code": "C08G 75/0277",
+    "description": "••••••Tratamiento posterior a la polimerización (tratamiento químico posterior C08G 75/0286) [2016.01]"
+  },
+  {
+    "code": "C08G 75/0281",
+    "description": "••••••••Recuperación o purificación [2016.01]"
+  },
+  {
+    "code": "C08G 75/0286",
+    "description": "••••••Tratamiento químico posterior [2016.01]"
+  },
+  {
+    "code": "C08G 75/029",
+    "description": "••••••••Modificación con compuestos orgánicos [2016.01]"
+  },
+  {
+    "code": "C08G 75/0295",
+    "description": "••••••••Modificación con compuestos inorgánicos [2016.01]"
+  },
+  {
+    "code": "C08G 75/04",
+    "description": "••••a partir de compuestos mercapto o sus derivados metálicos (C08G 75/0204 tiene prioridad) [2016.01]"
+  },
+  {
+    "code": "C08G 75/045",
+    "description": "••••••a partir de compuestos mercapto y compuestos insaturados [2016.01]"
+  },
+  {
+    "code": "C08G 75/06",
+    "description": "••••a partir de tioéteres cíclicos [2006.01]"
+  },
+  {
+    "code": "C08G 75/08",
+    "description": "••••••a partir de tiiranos [2006.01]"
+  },
+  {
+    "code": "C08G 75/10",
+    "description": "••••a partir de azufre o compuestos que contienen azufre y aldehídos o cetonas [2006.01]"
+  },
+  {
+    "code": "C08G 75/12",
+    "description": "••Politioéter-poliéteres (C08G 75/0245 tiene prioridad) [2016.01]"
+  },
+  {
+    "code": "C08G 75/14",
+    "description": "••Polisulfuros [2006.01]"
+  },
+  {
+    "code": "C08G 75/16",
+    "description": "••••por policondensación de compuestos orgánicos con polisulfuros inorgánicos [2006.01]"
+  },
+  {
+    "code": "C08G 75/18",
+    "description": "••Polisulfóxidos [2006.01]"
+  },
+  {
+    "code": "C08G 75/20",
+    "description": "••Polisulfonas [2016.01]"
+  },
+  {
+    "code": "C08G 75/205",
+    "description": "••••Copolímeros de dióxido de azufre con compuestos orgánicos insaturados [2016.01]"
+  },
+  {
+    "code": "C08G 75/22",
+    "description": "••••••Copolímeros de dióxido de azufre con compuestos alifáticos insaturados [2006.01]"
+  },
+  {
+    "code": "C08G 75/23",
+    "description": "••••Polietersulfonas [2006.01]"
+  },
+  {
+    "code": "C08G 75/24",
+    "description": "••Polisulfonatos [2006.01]"
+  },
+  {
+    "code": "C08G 75/26",
+    "description": "••Politioésteres [2006.01]"
+  },
+  {
+    "code": "C08G 75/28",
+    "description": "••Politiocarbonatos [2006.01]"
+  },
+  {
+    "code": "C08G 75/30",
+    "description": "••Polisulfonamidas; Polisulfonimidas [2006.01]"
+  },
+  {
+    "code": "C08G 75/32",
+    "description": "••Politiazoles; Politiadiazoles [2006.01]"
+  },
+  {
+    "code": "C08G 77/00",
+    "description": "Compuestos macromoleculares obtenidos por reacciones que forman un enlace que contiene silicio con o sin azufre, nitrógeno, oxígeno o carbono en la cadena principal de la macromolécula [2006.01]"
+  },
+  {
+    "code": "C08G 77/02",
+    "description": "••Polisilicatos [2006.01]"
+  },
+  {
+    "code": "C08G 77/04",
+    "description": "••Polisiloxanos [2006.01]"
+  },
+  {
+    "code": "C08G 77/06",
+    "description": "••••Procesos preparatorios [2006.01]"
+  },
+  {
+    "code": "C08G 77/08",
+    "description": "••••••caracterizados por los catalizadores utilizados [2006.01]"
+  },
+  {
+    "code": "C08G 77/10",
+    "description": "••••••Procesos de equilibrado [2006.01]"
+  },
+  {
+    "code": "C08G 77/12",
+    "description": "••••que contienen silicio enlazado al hidrógeno [2006.01]"
+  },
+  {
+    "code": "C08G 77/14",
+    "description": "••••que contienen silicio enlazado a grupos que contienen oxígeno [2006.01]"
+  },
+  {
+    "code": "C08G 77/16",
+    "description": "••••••a grupos hidroxilo [2006.01]"
+  },
+  {
+    "code": "C08G 77/18",
+    "description": "••••••a grupos alkoxi o ariloxi [2006.01]"
+  },
+  {
+    "code": "C08G 77/20",
+    "description": "••••que contienen silicio enlazado a grupos alifáticos insaturados [2006.01]"
+  },
+  {
+    "code": "C08G 77/22",
+    "description": "••••que contienen silicio enlazado a grupos orgánicos que contienen átomos distintos al carbono, hidrógeno y oxígeno [2006.01]"
+  },
+  {
+    "code": "C08G 77/24",
+    "description": "••••••grupos que contienen halógeno [2006.01]"
+  },
+  {
+    "code": "C08G 77/26",
+    "description": "••••••grupos que contienen nitrógeno [2006.01]"
+  },
+  {
+    "code": "C08G 77/28",
+    "description": "••••••grupos que contienen azufre [2006.01]"
+  },
+  {
+    "code": "C08G 77/30",
+    "description": "••••••grupos que contienen fósforo [2006.01]"
+  },
+  {
+    "code": "C08G 77/32",
+    "description": "••••Tratamiento posterior a la polimerización [2006.01]"
+  },
+  {
+    "code": "C08G 77/34",
+    "description": "••••••Purificación [2006.01]"
+  },
+  {
+    "code": "C08G 77/36",
+    "description": "••••••Fraccionamiento [2006.01]"
+  },
+  {
+    "code": "C08G 77/38",
+    "description": "••••Polisiloxanos modificados por posterior tratamiento químico [2006.01]"
+  },
+  {
+    "code": "C08G 77/382",
+    "description": "••••••que contienen átomos que no son carbono, hidrógeno, oxígeno o silicio [2006.01]"
+  },
+  {
+    "code": "C08G 77/385",
+    "description": "••••••••que contienen halógenos [2006.01]"
+  },
+  {
+    "code": "C08G 77/388",
+    "description": "••••••••que contienen nitrógeno [2006.01]"
+  },
+  {
+    "code": "C08G 77/392",
+    "description": "••••••••que contienen azufre [2006.01]"
+  },
+  {
+    "code": "C08G 77/395",
+    "description": "••••••••que contienen fósforo [2006.01]"
+  },
+  {
+    "code": "C08G 77/398",
+    "description": "••••••••que contienen boro o átomos metálicos [2006.01]"
+  },
+  {
+    "code": "C08G 77/42",
+    "description": "••Polímeros en bloque o injertados que contienen series de polisiloxanos (polimerización de monómeros insaturados alifáticos sobre un polixiloxano C08F 283/12) [2006.01]"
+  },
+  {
+    "code": "C08G 77/44",
+    "description": "••••que contienen solamente series de polisiloxanos [2006.01]"
+  },
+  {
+    "code": "C08G 77/442",
+    "description": "••••que contienen secuencias de polímeros vinílicos [2006.01]"
+  },
+  {
+    "code": "C08G 77/445",
+    "description": "••••que contienen secuencias de poliésteres [2006.01]"
+  },
+  {
+    "code": "C08G 77/448",
+    "description": "••••que contienen secuencias de policarbonatos [2006.01]"
+  },
+  {
+    "code": "C08G 77/452",
+    "description": "••••que contienen secuencias de polímeros que contienen nitrógeno [2006.01]"
+  },
+  {
+    "code": "C08G 77/455",
+    "description": "••••••que contienen secuencias de poliamidas, poliesteramidas o poliimidas [2006.01]"
+  },
+  {
+    "code": "C08G 77/458",
+    "description": "••••••que contienen secuencias de poliuretanos [2006.01]"
+  },
+  {
+    "code": "C08G 77/46",
+    "description": "••••que contienen series de poliéteres [2006.01]"
+  },
+  {
+    "code": "C08G 77/48",
+    "description": "••en los que al menos dos, pero no todos los átomos de silicio, están unidos por enlaces a otros átomos distintos del oxígeno (C08G 77/42 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "C08G 77/50",
+    "description": "••••por enlaces a carbono [2006.01]"
+  },
+  {
+    "code": "C08G 77/52",
+    "description": "••••••que contienen ciclos aromáticos [2006.01]"
+  },
+  {
+    "code": "C08G 77/54",
+    "description": "••••unidos por nitrógeno [2006.01]"
+  },
+  {
+    "code": "C08G 77/56",
+    "description": "••••unidos por boro [2006.01]"
+  },
+  {
+    "code": "C08G 77/58",
+    "description": "••••unidos por metal [2006.01]"
+  },
+  {
+    "code": "C08G 77/60",
+    "description": "••en los que todos los átomos de silicio están unidos por enlaces a átomos distintos del oxígeno [2006.01]"
+  },
+  {
+    "code": "C08G 77/62",
+    "description": "••••por átomos de nitrógeno [2006.01]"
+  },
+  {
+    "code": "C08G 79/00",
+    "description": "Compuestos macromoleculares obtenidos por reacciones que forman un enlace que contiene átomos distintos al silicio, azufre, nitrógeno, oxígeno y carbono con o sin los últimos elementos en la cadena principal de la macromolécula [2006.01]"
+  },
+  {
+    "code": "C08G 79/02",
+    "description": "••creando un enlace que contiene fósforo [2016.01]"
+  },
+  {
+    "code": "C08G 79/025",
+    "description": "••••Polifosfacenos [2016.01]"
+  },
+  {
+    "code": "C08G 79/04",
+    "description": "••••Fósforo unido a oxígeno, o a oxígeno y carbono [2006.01]"
+  },
+  {
+    "code": "C08G 79/06",
+    "description": "••••Fósforo unido solamente a carbono [2006.01]"
+  },
+  {
+    "code": "C08G 79/08",
+    "description": "••creando un enlace que contiene boro [2006.01]"
+  },
+  {
+    "code": "C08G 79/10",
+    "description": "••creando un enlace que contiene aluminio [2006.01]"
+  },
+  {
+    "code": "C08G 79/12",
+    "description": "••creando un enlace que contiene estaño [2006.01]"
+  },
+  {
+    "code": "C08G 79/14",
+    "description": "••creando un enlace que contiene dos o más elementos distintos al carbono, oxígeno, nitrógeno, azufre y silicio [2006.01]"
+  },
+  {
+    "code": "C08G 81/00",
+    "description": "Compuestos macromoleculares obtenidos por interreacción de polímeros en ausencia de monómeros, p. ej. polímeros en bloque (que implican solamente las reacciones enlace carbono-carbono insaturado C08F 299/00) [2006.01]"
+  },
+  {
+    "code": "C08G 81/02",
+    "description": "••siendo al menos uno de los polímeros obtenido por reacciones que implican solamente enlaces insaturados carbono-carbono [2006.01]"
+  },
+  {
+    "code": "C08G 83/00",
+    "description": "Compuestos macromoleculares no previstos por los grupos C08G 2/00-C08G 81/00 [2006.01]"
+  },
+  {
+    "code": "C08G 85/00",
+    "description": "Procesos generales para preparar compuestos previstos en la presente subclase [2006.01]"
+  },
+  {
+    "code": "C08G 101/00",
+    "description": "Fabricación de productos celulares [2006.01]"
+  }
+]

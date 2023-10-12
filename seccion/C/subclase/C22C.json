@@ -1,0 +1,706 @@
+[
+  {
+    "code": "C22C 1/00",
+    "description": "Fabricación de aleaciones no ferrosas (por electrotermia C22B 4/00; por electrólisis  C25C 1/24, C25C 3/36) [2023.01]"
+  },
+  {
+    "code": "C22C 1/02",
+    "description": "••por fusión [2006.01]"
+  },
+  {
+    "code": "C22C 1/03",
+    "description": "••••utilizando aleaciones maestras [2006.01]"
+  },
+  {
+    "code": "C22C 1/04",
+    "description": "••por metalurgia de polvo (C22C 1/08 tienen prioridad) [2023.01]"
+  },
+  {
+    "code": "C22C 1/047",
+    "description": "••••que comprende compuestos intermetálicos [2023.01]"
+  },
+  {
+    "code": "C22C 1/05",
+    "description": "••••Mezclas de polvo metálico con polvo no metálico (C22C 1/08 tienen prioridad) [2023.01]"
+  },
+  {
+    "code": "C22C 1/051",
+    "description": "••••••Fabricación de metales duros a base de boruros, carburos, nitruros, óxidos o siliciuros; Preparación de la mezcla de polvo utilizada como material de partida para ello [2023.01]"
+  },
+  {
+    "code": "C22C 1/053",
+    "description": "••••••••con formación in situ de compuestos duros [2023.01]"
+  },
+  {
+    "code": "C22C 1/055",
+    "description": "••••••••••utilizando carbono [2023.01]"
+  },
+  {
+    "code": "C22C 1/056",
+    "description": "••••••••••utilizando gas [2023.01]"
+  },
+  {
+    "code": "C22C 1/057",
+    "description": "••••••••con formación in situ de fases distintas de los compuestos duros por reacción de sinterización en estado sólido, p. ej. fase metálica formada por reacción de reducción [2023.01]"
+  },
+  {
+    "code": "C22C 1/059",
+    "description": "••••••Fabricación de aleaciones que comprenden menos del 5% en peso de fases dispersas de refuerzo [2023.01]"
+  },
+  {
+    "code": "C22C 1/06",
+    "description": "••con la utilización de agentes especiales para afinación o deoxidación [2006.01]"
+  },
+  {
+    "code": "C22C 1/08",
+    "description": "••Aleaciones con poros abiertos o cerrados [2006.01]"
+  },
+  {
+    "code": "C22C 1/10",
+    "description": "••Aleaciones que contienen elementos no metálicos (C22C 1/05, C22C 1/08 tiene prioridad) [2023.01]"
+  },
+  {
+    "code": "C22C 1/11",
+    "description": "••Fabricación de aleaciones amorfas [2023.01]"
+  },
+  {
+    "code": "C22C 1/12",
+    "description": "••mediante conformado en estado semisólido, p. ej. manteniendo la aleación en la fase sólido-líquida [2023.01]"
+  },
+  {
+    "code": "C22C 3/00",
+    "description": "Eliminación de material de aleaciones no ferrosas para producir aleaciones de diferente constitución [2006.01]"
+  },
+  {
+    "code": "C22C 5/00",
+    "description": "Aleaciones basadas en metales nobles [2006.01]"
+  },
+  {
+    "code": "C22C 5/02",
+    "description": "••Aleaciones basadas en oro [2006.01]"
+  },
+  {
+    "code": "C22C 5/04",
+    "description": "••Aleaciones basadas en un metal del grupo del platino [2006.01]"
+  },
+  {
+    "code": "C22C 5/06",
+    "description": "••Aleaciones basadas en plata [2006.01]"
+  },
+  {
+    "code": "C22C 5/08",
+    "description": "••••con cobre como constituyente que sigue al que está en mayor proporción [2006.01]"
+  },
+  {
+    "code": "C22C 5/10",
+    "description": "••••con cadmio como constituyente que sigue al que está en mayor proporción [2006.01]"
+  },
+  {
+    "code": "C22C 7/00",
+    "description": "Aleaciones basadas en mercurio [2006.01]"
+  },
+  {
+    "code": "C22C 9/00",
+    "description": "Aleaciones basadas en cobre [2006.01]"
+  },
+  {
+    "code": "C22C 9/01",
+    "description": "••con aluminio como constituyente que sigue al que está en mayor proporción [2006.01]"
+  },
+  {
+    "code": "C22C 9/02",
+    "description": "••con estaño como constituyente que sigue al que está en mayor proporción [2006.01]"
+  },
+  {
+    "code": "C22C 9/04",
+    "description": "••con cinc como constituyente que sigue al que está en mayor proporción [2006.01]"
+  },
+  {
+    "code": "C22C 9/05",
+    "description": "••con manganeso como constituyente que sigue al que está en mayor proporción [2006.01]"
+  },
+  {
+    "code": "C22C 9/06",
+    "description": "••con níquel o cobalto como el constituyente que sigue al que está en mayor proporción [2006.01]"
+  },
+  {
+    "code": "C22C 9/08",
+    "description": "••con plomo como el constituyente que sigue al que está en mayor proporción [2006.01]"
+  },
+  {
+    "code": "C22C 9/10",
+    "description": "••con silicio como constituyente que sigue al que está en mayor proporción [2006.01]"
+  },
+  {
+    "code": "C22C 11/00",
+    "description": "Aleaciones basadas en plomo [2006.01]"
+  },
+  {
+    "code": "C22C 11/02",
+    "description": "••con un metal alcalino o alcalinotérreo como constituyente que sigue al que está en mayor proporción [2006.01]"
+  },
+  {
+    "code": "C22C 11/04",
+    "description": "••con cobre como el constituyente que sigue al que está en mayor proporción [2006.01]"
+  },
+  {
+    "code": "C22C 11/06",
+    "description": "••con estaño como constituyente que sigue al que está en mayor proporción [2006.01]"
+  },
+  {
+    "code": "C22C 11/08",
+    "description": "••con antimonio o bismuto como constituyente que sigue al que está en mayor proporción [2006.01]"
+  },
+  {
+    "code": "C22C 11/10",
+    "description": "••••con estaño [2006.01]"
+  },
+  {
+    "code": "C22C 12/00",
+    "description": "Aleaciones basadas en antimonio o bismuto [2006.01]"
+  },
+  {
+    "code": "C22C 13/00",
+    "description": "Aleaciones basadas en estaño [2006.01]"
+  },
+  {
+    "code": "C22C 13/02",
+    "description": "••con antimonio o bismuto como constituyente que sigue al que está en mayor proporción [2006.01]"
+  },
+  {
+    "code": "C22C 14/00",
+    "description": "Aleaciones basadas en titanio [2006.01]"
+  },
+  {
+    "code": "C22C 16/00",
+    "description": "Aleaciones basadas en circonio [2006.01]"
+  },
+  {
+    "code": "C22C 18/00",
+    "description": "Aleaciones basadas en cinc [2006.01]"
+  },
+  {
+    "code": "C22C 18/02",
+    "description": "••con cobre como constituyente que sigue al que está en mayor proporción [2006.01]"
+  },
+  {
+    "code": "C22C 18/04",
+    "description": "••con aluminio como constituyente que sigue al que está en mayor proporción [2006.01]"
+  },
+  {
+    "code": "C22C 19/00",
+    "description": "Aleaciones basadas en níquel o cobalto, solos o juntos [2006.01]"
+  },
+  {
+    "code": "C22C 19/03",
+    "description": "••basadas en níquel [2006.01]"
+  },
+  {
+    "code": "C22C 19/05",
+    "description": "••••con cromo [2006.01]"
+  },
+  {
+    "code": "C22C 19/07",
+    "description": "••basadas en cobalto [2006.01]"
+  },
+  {
+    "code": "C22C 20/00",
+    "description": "Aleaciones basadas en cadmio [2006.01]"
+  },
+  {
+    "code": "C22C 21/00",
+    "description": "Aleaciones basadas en aluminio [2006.01]"
+  },
+  {
+    "code": "C22C 21/02",
+    "description": "••con silicio como constituyente que sigue al que está en mayor proporción [2006.01]"
+  },
+  {
+    "code": "C22C 21/04",
+    "description": "••••Aleaciones modificadas de aluminio-silicio [2006.01]"
+  },
+  {
+    "code": "C22C 21/06",
+    "description": "••con magnesio como constituyente que sigue al que está en mayor proporción [2006.01]"
+  },
+  {
+    "code": "C22C 21/08",
+    "description": "••••con silicio [2006.01]"
+  },
+  {
+    "code": "C22C 21/10",
+    "description": "••con cinc como constituyente que sigue al que está en mayor proporción [2006.01]"
+  },
+  {
+    "code": "C22C 21/12",
+    "description": "••con cobre como constituyente que sigue al que está en mayor proporción [2006.01]"
+  },
+  {
+    "code": "C22C 21/14",
+    "description": "••••con silicio [2006.01]"
+  },
+  {
+    "code": "C22C 21/16",
+    "description": "••••con magnesio [2006.01]"
+  },
+  {
+    "code": "C22C 21/18",
+    "description": "••••con cinc [2006.01]"
+  },
+  {
+    "code": "C22C 22/00",
+    "description": "Aleaciones basadas en manganeso [2006.01]"
+  },
+  {
+    "code": "C22C 23/00",
+    "description": "Aleaciones basadas en magnesio [2006.01]"
+  },
+  {
+    "code": "C22C 23/02",
+    "description": "••con aluminio como constituyente que sigue al que está en mayor proporción [2006.01]"
+  },
+  {
+    "code": "C22C 23/04",
+    "description": "••con cinc o cadmio como constituyente que sigue al que está en mayor proporción [2006.01]"
+  },
+  {
+    "code": "C22C 23/06",
+    "description": "••con un metal de las tierras raras como constituyente que sigue al que está en mayor proporción [2006.01]"
+  },
+  {
+    "code": "C22C 24/00",
+    "description": "Aleaciones basadas en un metal alcalino o alcalinotérreo [2006.01]"
+  },
+  {
+    "code": "C22C 25/00",
+    "description": "Aleaciones basadas en berilio [2006.01]"
+  },
+  {
+    "code": "C22C 26/00",
+    "description": "Aleaciones que contienen diamante [2006.01]"
+  },
+  {
+    "code": "C22C 27/00",
+    "description": "Aleaciones basadas en renio o un metal refractario no mencionado en los grupos C22C 14/00 ó C22C 16/00 [2006.01]"
+  },
+  {
+    "code": "C22C 27/02",
+    "description": "••Aleaciones basadas en vanadio, niobio o tántalo [2006.01]"
+  },
+  {
+    "code": "C22C 27/04",
+    "description": "••Aleaciones basadas en tungsteno o molibdeno [2006.01]"
+  },
+  {
+    "code": "C22C 27/06",
+    "description": "••Aleaciones basadas en cromo [2006.01]"
+  },
+  {
+    "code": "C22C 28/00",
+    "description": "Aleaciones basadas en un metal no previsto por los grupos C22C 5/00-C22C 27/00 [2006.01]"
+  },
+  {
+    "code": "C22C 29/00",
+    "description": "Aleaciones basadas en carburos, óxidos, boruros, nitruros o siliciuros, p. ej. cermets, u otros compuestos metálicos, p. ej. oxinitruros, sulfuros [2006.01]"
+  },
+  {
+    "code": "C22C 29/02",
+    "description": "••basadas en carburos o carbonitruros [2006.01]"
+  },
+  {
+    "code": "C22C 29/04",
+    "description": "••••basadas en carbonitruros [2006.01]"
+  },
+  {
+    "code": "C22C 29/06",
+    "description": "••••basadas en carburos pero no conteniendo otros compuestos metálicos [2006.01]"
+  },
+  {
+    "code": "C22C 29/08",
+    "description": "••••••basadas en carburo de tungsteno [2006.01]"
+  },
+  {
+    "code": "C22C 29/10",
+    "description": "••••••basadas en carburo de titanio [2006.01]"
+  },
+  {
+    "code": "C22C 29/12",
+    "description": "••basadas en óxidos [2006.01]"
+  },
+  {
+    "code": "C22C 29/14",
+    "description": "••basadas en boruros [2006.01]"
+  },
+  {
+    "code": "C22C 29/16",
+    "description": "••basadas en nitruros [2006.01]"
+  },
+  {
+    "code": "C22C 29/18",
+    "description": "••basadas en siliciuros [2006.01]"
+  },
+  {
+    "code": "C22C 30/00",
+    "description": "Aleaciones en las que ninguno de los constituyentes alcanza el 50% en peso [2006.01]"
+  },
+  {
+    "code": "C22C 30/02",
+    "description": "••que contienen cobre [2006.01]"
+  },
+  {
+    "code": "C22C 30/04",
+    "description": "••que contienen estaño o plomo [2006.01]"
+  },
+  {
+    "code": "C22C 30/06",
+    "description": "••que contienen cinc [2006.01]"
+  },
+  {
+    "code": "C22C 32/00",
+    "description": "Aleaciones no ferrosas que contienen entre 5 y 50% en peso de boruros, carburos, nitruros, óxidos, siliciuros u otros compuestos metálicos, p. ej. oxinitruros, sulfuros, añadidos como tales o formados in situ [2006.01]"
+  },
+  {
+    "code": "C22C 33/00",
+    "description": "Fabricación de aleaciones ferrosas (mediante tratamiento con calor C21D 5/00, C21D 6/00) [2006.01]"
+  },
+  {
+    "code": "C22C 33/02",
+    "description": "••por metalurgia de polvo [2006.01]"
+  },
+  {
+    "code": "C22C 33/04",
+    "description": "••por fusión [2006.01]"
+  },
+  {
+    "code": "C22C 33/06",
+    "description": "••••utilizando aleaciones maestras [2006.01]"
+  },
+  {
+    "code": "C22C 33/08",
+    "description": "••Fabricación de aleaciones de hierro colado [2006.01]"
+  },
+  {
+    "code": "C22C 33/10",
+    "description": "••••que incluyen procedimientos para la adición de magnesio [2006.01]"
+  },
+  {
+    "code": "C22C 33/12",
+    "description": "••••••por inyección fluidizada [2006.01]"
+  },
+  {
+    "code": "C22C 35/00",
+    "description": "Aleaciones maestras para hierro o acero [2006.01]"
+  },
+  {
+    "code": "C22C 37/00",
+    "description": "Aleaciones de hierro colado [2006.01]"
+  },
+  {
+    "code": "C22C 37/04",
+    "description": "••que contienen grafito esferoidal [2006.01]"
+  },
+  {
+    "code": "C22C 37/06",
+    "description": "••que contienen cromo [2006.01]"
+  },
+  {
+    "code": "C22C 37/08",
+    "description": "••••con níquel [2006.01]"
+  },
+  {
+    "code": "C22C 37/10",
+    "description": "••que contienen aluminio o silicio [2006.01]"
+  },
+  {
+    "code": "C22C 38/00",
+    "description": "Aleaciones ferrosas, p. ej. aleaciones del acero (aleaciones de hierro colado C22C 37/00) [2006.01]"
+  },
+  {
+    "code": "C22C 38/02",
+    "description": "••que contienen silicio [2006.01]"
+  },
+  {
+    "code": "C22C 38/04",
+    "description": "••que contienen manganeso [2006.01]"
+  },
+  {
+    "code": "C22C 38/06",
+    "description": "••que contienen aluminio [2006.01]"
+  },
+  {
+    "code": "C22C 38/08",
+    "description": "••que contienen níquel [2006.01]"
+  },
+  {
+    "code": "C22C 38/10",
+    "description": "••que contienen cobalto [2006.01]"
+  },
+  {
+    "code": "C22C 38/12",
+    "description": "••que contienen tungsteno, tántalo, molibdeno, vanadio o niobio [2006.01]"
+  },
+  {
+    "code": "C22C 38/14",
+    "description": "••que contienen titanio o circonio [2006.01]"
+  },
+  {
+    "code": "C22C 38/16",
+    "description": "••que contienen cobre [2006.01]"
+  },
+  {
+    "code": "C22C 38/18",
+    "description": "••que contienen cromo [2006.01]"
+  },
+  {
+    "code": "C22C 38/20",
+    "description": "••••con cobre [2006.01]"
+  },
+  {
+    "code": "C22C 38/22",
+    "description": "••••con molibdeno o tungsteno [2006.01]"
+  },
+  {
+    "code": "C22C 38/24",
+    "description": "••••con vanadio [2006.01]"
+  },
+  {
+    "code": "C22C 38/26",
+    "description": "••••con niobio o tántalo [2006.01]"
+  },
+  {
+    "code": "C22C 38/28",
+    "description": "••••con titanio o circonio [2006.01]"
+  },
+  {
+    "code": "C22C 38/30",
+    "description": "••••con cobalto [2006.01]"
+  },
+  {
+    "code": "C22C 38/32",
+    "description": "••••con boro [2006.01]"
+  },
+  {
+    "code": "C22C 38/34",
+    "description": "••••con más de 1,5% en peso de silicio [2006.01]"
+  },
+  {
+    "code": "C22C 38/36",
+    "description": "••••con más de 1,7% en peso de carbono [2006.01]"
+  },
+  {
+    "code": "C22C 38/38",
+    "description": "••••con más de 1,5% en peso de manganeso [2006.01]"
+  },
+  {
+    "code": "C22C 38/40",
+    "description": "••••con níquel [2006.01]"
+  },
+  {
+    "code": "C22C 38/42",
+    "description": "••••••con cobre [2006.01]"
+  },
+  {
+    "code": "C22C 38/44",
+    "description": "••••••con molibdeno o tungsteno [2006.01]"
+  },
+  {
+    "code": "C22C 38/46",
+    "description": "••••••con vanadio [2006.01]"
+  },
+  {
+    "code": "C22C 38/48",
+    "description": "••••••con niobio o tántalo [2006.01]"
+  },
+  {
+    "code": "C22C 38/50",
+    "description": "••••••con titanio o circonio [2006.01]"
+  },
+  {
+    "code": "C22C 38/52",
+    "description": "••••••con cobalto [2006.01]"
+  },
+  {
+    "code": "C22C 38/54",
+    "description": "••••••con boro [2006.01]"
+  },
+  {
+    "code": "C22C 38/56",
+    "description": "••••••con más de 1,7% en peso de carbono [2006.01]"
+  },
+  {
+    "code": "C22C 38/58",
+    "description": "••••••con más de 1,5% en peso de manganeso [2006.01]"
+  },
+  {
+    "code": "C22C 38/60",
+    "description": "••que contienen plomo, selenio, teluro o antimonio, o más de 0,04% en peso de azufre [2006.01]"
+  },
+  {
+    "code": "C22C 45/00",
+    "description": "Aleaciones amorfas (fabricación de aleaciones no ferrosas amorfas C22C 1/11) [2023.01]"
+  },
+  {
+    "code": "C22C 45/02",
+    "description": "••con hierro como principal constituyente [2006.01]"
+  },
+  {
+    "code": "C22C 45/04",
+    "description": "••con níquel o cobalto como principal constituyente [2006.01]"
+  },
+  {
+    "code": "C22C 45/06",
+    "description": "••con berilio como principal constituyente [2006.01]"
+  },
+  {
+    "code": "C22C 45/08",
+    "description": "••con aluminio como principal constituyente [2006.01]"
+  },
+  {
+    "code": "C22C 45/10",
+    "description": "••con molibdeno, wolframio, niobio, tántalo, titanio o zirconio como principal constituyente [2006.01]"
+  },
+  {
+    "code": "C22C 47/00",
+    "description": "Fabricación de aleaciones que contienen fibras o filamentos metálicos o no metálicos [2006.01]"
+  },
+  {
+    "code": "C22C 47/02",
+    "description": "••Pretratamiento de fibras o filamentos [2006.01]"
+  },
+  {
+    "code": "C22C 47/04",
+    "description": "••••por revestimiento, p. ej. con un recubrimiento protector o activado [2006.01]"
+  },
+  {
+    "code": "C22C 47/06",
+    "description": "••••por moldeado de fibras o filamentos en una estructura preformada.p. ej. utilizando un ligante temporal para formar un elemento análogo o una manta [2006.01]"
+  },
+  {
+    "code": "C22C 47/08",
+    "description": "••por puesta en contacto de fibras o filamentos con un metal fundido, p. ej. impregnando las fibras o filamentos colocados en un molde [2006.01]"
+  },
+  {
+    "code": "C22C 47/10",
+    "description": "••••Impregnación en presencia de una atmósfera reactiva; Impregnación reactiva [2006.01]"
+  },
+  {
+    "code": "C22C 47/12",
+    "description": "••••Impregnación o colada bajo presión mecánica [2006.01]"
+  },
+  {
+    "code": "C22C 47/14",
+    "description": "••por metalurgia de polvos, es decir, por tratamiento de mezclas de polvo metálico y de fibras o filamentos [2006.01]"
+  },
+  {
+    "code": "C22C 47/16",
+    "description": "••por pulverización térmica del metal, p. ej. por pulverización por plasma [2006.01]"
+  },
+  {
+    "code": "C22C 47/18",
+    "description": "••••utilizando una estructura preformada de fibras o filamentos [2006.01]"
+  },
+  {
+    "code": "C22C 47/20",
+    "description": "••sometiendo a presión y calor un agregado que comprende al menos una capa o una hoja metálica y una capa de fibras o filamentos [2006.01]"
+  },
+  {
+    "code": "C22C 49/00",
+    "description": "Aleaciones que contienen fibras o filamentos metálicos o no metálicos [2006.01]"
+  },
+  {
+    "code": "C22C 49/02",
+    "description": "••caracterizadas por el material de la matriz [2006.01]"
+  },
+  {
+    "code": "C22C 49/04",
+    "description": "••••Metales ligeros [2006.01]"
+  },
+  {
+    "code": "C22C 49/06",
+    "description": "••••••Aluminio [2006.01]"
+  },
+  {
+    "code": "C22C 49/08",
+    "description": "••••Metales del grupo del hierro [2006.01]"
+  },
+  {
+    "code": "C22C 49/10",
+    "description": "••••Metales refractarios [2006.01]"
+  },
+  {
+    "code": "C22C 49/11",
+    "description": "••••••Titanio [2006.01]"
+  },
+  {
+    "code": "C22C 49/12",
+    "description": "••••Materiales de matriz intermetálicos [2006.01]"
+  },
+  {
+    "code": "C22C 49/14",
+    "description": "••caracterizado por las fibras o filamentos [2006.01]"
+  },
+  {
+    "code": "C22C 101/00",
+    "description": "Fibras o filamentos no metálicos [2006.01]"
+  },
+  {
+    "code": "C22C 101/02",
+    "description": "••a base de óxidos, p. ej. fibras cerámicas a base de óxidos [2006.01]"
+  },
+  {
+    "code": "C22C 101/04",
+    "description": "••••Oxido de aluminio [2006.01]"
+  },
+  {
+    "code": "C22C 101/06",
+    "description": "••••Oxidos mixtos, p.ej. silicato de aluminio o vidrio [2006.01]"
+  },
+  {
+    "code": "C22C 101/08",
+    "description": "••a base de no óxidos, p.ej. fibras cerámicas a base de no óxidos [2006.01]"
+  },
+  {
+    "code": "C22C 101/10",
+    "description": "••••Carbono [2006.01]"
+  },
+  {
+    "code": "C22C 101/12",
+    "description": "••••Carburos [2006.01]"
+  },
+  {
+    "code": "C22C 101/14",
+    "description": "••••••Carburo de silicio [2006.01]"
+  },
+  {
+    "code": "C22C 101/16",
+    "description": "••••Nitruros [2006.01]"
+  },
+  {
+    "code": "C22C 101/18",
+    "description": "••••••Nitruro de silicio [2006.01]"
+  },
+  {
+    "code": "C22C 101/20",
+    "description": "••••Boro [2006.01]"
+  },
+  {
+    "code": "C22C 101/22",
+    "description": "••••Boruros [2006.01]"
+  },
+  {
+    "code": "C22C 111/00",
+    "description": "Fibras o filamentos metálicos [2006.01]"
+  },
+  {
+    "code": "C22C 111/02",
+    "description": "••Fibras o filamentos de metal refractario, p.ej. fibras de tungsteno [2006.01]"
+  },
+  {
+    "code": "C22C 121/00",
+    "description": "Fibras o filamentos pretratados [2006.01]"
+  },
+  {
+    "code": "C22C 121/02",
+    "description": "••Fibras o filamentos revestidos, p.ej. fibras cerámicas con revestimientos protectores [2006.01]"
+  }
+]

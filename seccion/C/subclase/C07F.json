@@ -1,0 +1,626 @@
+[
+  {
+    "code": "C07F 1/00",
+    "description": "Compuestos que contienen elementos de los grupos 1 o 11 del sistema periódico [2006.01]"
+  },
+  {
+    "code": "C07F 1/02",
+    "description": "••Compuestos de litio [2006.01]"
+  },
+  {
+    "code": "C07F 1/04",
+    "description": "••Compuestos de sodio [2006.01]"
+  },
+  {
+    "code": "C07F 1/06",
+    "description": "••Compuestos de potasio [2006.01]"
+  },
+  {
+    "code": "C07F 1/08",
+    "description": "••Compuestos de cobre [2006.01]"
+  },
+  {
+    "code": "C07F 1/10",
+    "description": "••Compuestos de plata [2006.01]"
+  },
+  {
+    "code": "C07F 1/12",
+    "description": "••Compuestos de oro [2006.01]"
+  },
+  {
+    "code": "C07F 3/00",
+    "description": "Compuestos que contienen elementos de los grupos 2 o 12 del sistema periódico [2006.01]"
+  },
+  {
+    "code": "C07F 3/02",
+    "description": "••Compuestos de magnesio [2006.01]"
+  },
+  {
+    "code": "C07F 3/04",
+    "description": "••Compuestos de calcio [2006.01]"
+  },
+  {
+    "code": "C07F 3/06",
+    "description": "••Compuestos de cinc [2006.01]"
+  },
+  {
+    "code": "C07F 3/08",
+    "description": "••Compuestos de cadmio [2006.01]"
+  },
+  {
+    "code": "C07F 3/10",
+    "description": "••Compuestos de mercurio [2006.01]"
+  },
+  {
+    "code": "C07F 3/12",
+    "description": "••••Sustancias aromáticas que contienen mercurio [2006.01]"
+  },
+  {
+    "code": "C07F 3/14",
+    "description": "••••Sustancias heterocíclicas que contienen mercurio [2006.01]"
+  },
+  {
+    "code": "C07F 5/00",
+    "description": "Compuestos que contienen elementos de los grupos 3 o 13 del sistema periódico [2006.01]"
+  },
+  {
+    "code": "C07F 5/02",
+    "description": "••Compuestos de boro [2006.01]"
+  },
+  {
+    "code": "C07F 5/04",
+    "description": "••••Esteres de los ácidos bóricos [2006.01]"
+  },
+  {
+    "code": "C07F 5/05",
+    "description": "••••Compuestos cíclicos que tienen al menos un ciclo que contiene boro pero no carbono en el ciclo [2006.01]"
+  },
+  {
+    "code": "C07F 5/06",
+    "description": "••Compuestos de aluminio [2006.01]"
+  },
+  {
+    "code": "C07F 7/00",
+    "description": "Compuestos que contienen elementos de los grupos 4 o 14 del sistema periódico [2006.01]"
+  },
+  {
+    "code": "C07F 7/02",
+    "description": "••Compuestos de silicio [2006.01]"
+  },
+  {
+    "code": "C07F 7/04",
+    "description": "••••Esteres de los ácidos silícicos [2006.01]"
+  },
+  {
+    "code": "C07F 7/06",
+    "description": "••••••con compuestos hidroxiarilo [2006.01]"
+  },
+  {
+    "code": "C07F 7/07",
+    "description": "••••••Esteres cíclicos [2006.01]"
+  },
+  {
+    "code": "C07F 7/08",
+    "description": "••••Compuestos que tienen uno o más enlaces C—  Si [2006.01]"
+  },
+  {
+    "code": "C07F 7/10",
+    "description": "••••••que contienen nitrógeno [2006.01]"
+  },
+  {
+    "code": "C07F 7/12",
+    "description": "••••••Haluros organosilícicos [2006.01]"
+  },
+  {
+    "code": "C07F 7/14",
+    "description": "••••••••Su preparación a partir de silanos halogenados e hidrocarburos [2006.01]"
+  },
+  {
+    "code": "C07F 7/16",
+    "description": "••••••••Su preparación a partir de silicio e hidrocarburos halogenados [2006.01]"
+  },
+  {
+    "code": "C07F 7/18",
+    "description": "••••••Compuestos que tienen uno o más enlaces C—  Si así como uno o más enlaces C—  O—  Si [2006.01]"
+  },
+  {
+    "code": "C07F 7/20",
+    "description": "••••••Purificación; Separación [2006.01]"
+  },
+  {
+    "code": "C07F 7/21",
+    "description": "••••Compuestos cíclicos que tienen al menos un ciclo que contiene silicio pero no carbono en el ciclo [2006.01]"
+  },
+  {
+    "code": "C07F 7/22",
+    "description": "••Compuestos de estaño [2006.01]"
+  },
+  {
+    "code": "C07F 7/24",
+    "description": "••Compuestos de plomo [2006.01]"
+  },
+  {
+    "code": "C07F 7/26",
+    "description": "••••Compuestos de tetraalquilplomo [2006.01]"
+  },
+  {
+    "code": "C07F 7/28",
+    "description": "••Compuestos de titanio [2006.01]"
+  },
+  {
+    "code": "C07F 7/30",
+    "description": "••Compuestos de germanio [2006.01]"
+  },
+  {
+    "code": "C07F 9/00",
+    "description": "Compuestos que contienen elementos de los grupos 5 o 15 del sistema periódico [2006.01]"
+  },
+  {
+    "code": "C07F 9/02",
+    "description": "••Compuestos de fósforo [2006.01]"
+  },
+  {
+    "code": "C07F 9/04",
+    "description": "••••Productos de reacción de compuestos de fósforo y azufre con hidrocarburos [2006.01]"
+  },
+  {
+    "code": "C07F 9/06",
+    "description": "••••sin enlaces P—  C [2006.01]"
+  },
+  {
+    "code": "C07F 9/08",
+    "description": "••••••Esteres de oxiácidos de fósforo [2006.01]"
+  },
+  {
+    "code": "C07F 9/09",
+    "description": "••••••••Esteres de ácidos fosfóricos [2006.01]"
+  },
+  {
+    "code": "C07F 9/10",
+    "description": "••••••••••Fosfátidos, p. ej. lecitina [2006.01]"
+  },
+  {
+    "code": "C07F 9/11",
+    "description": "••••••••••con compuestos hidroxialquilo sin sustituyentes adicionales en el alquilo [2006.01]"
+  },
+  {
+    "code": "C07F 9/113",
+    "description": "••••••••••con alcoholes acíclicos insaturados [2006.01]"
+  },
+  {
+    "code": "C07F 9/117",
+    "description": "••••••••••con alcoholes cicloalifáticos [2006.01]"
+  },
+  {
+    "code": "C07F 9/12",
+    "description": "••••••••••con compuestos hidroxiarilo [2006.01]"
+  },
+  {
+    "code": "C07F 9/14",
+    "description": "••••••••••que contienen grupos P-haluro [2006.01]"
+  },
+  {
+    "code": "C07F 9/141",
+    "description": "••••••••Esteres de ácidos fosforosos [2006.01]"
+  },
+  {
+    "code": "C07F 9/142",
+    "description": "••••••••••con compuestos hidroxialquilo sin sustituyentes adicionales en el alquilo [2006.01]"
+  },
+  {
+    "code": "C07F 9/143",
+    "description": "••••••••••con alcoholes acíclicos insaturados [2006.01]"
+  },
+  {
+    "code": "C07F 9/144",
+    "description": "••••••••••con alcoholes cicloalifáticos [2006.01]"
+  },
+  {
+    "code": "C07F 9/145",
+    "description": "••••••••••con compuestos hidroxiarilo [2006.01]"
+  },
+  {
+    "code": "C07F 9/146",
+    "description": "••••••••••que contienen grupos P-haluro [2006.01]"
+  },
+  {
+    "code": "C07F 9/16",
+    "description": "••••••Esteres de ácidos tiofosforosos o tiofosfóricos [2006.01]"
+  },
+  {
+    "code": "C07F 9/165",
+    "description": "••••••••Esteres de ácidos tiofosfóricos [2006.01]"
+  },
+  {
+    "code": "C07F 9/17",
+    "description": "••••••••••con compuestos hidroxialquilo sin sustituyentes adicionales en el alquilo [2006.01]"
+  },
+  {
+    "code": "C07F 9/173",
+    "description": "••••••••••con alcoholes acíclicos insaturados [2006.01]"
+  },
+  {
+    "code": "C07F 9/177",
+    "description": "••••••••••con alcoholes cicloalifáticos [2006.01]"
+  },
+  {
+    "code": "C07F 9/18",
+    "description": "••••••••••con compuestos hidroxiarilo [2006.01]"
+  },
+  {
+    "code": "C07F 9/20",
+    "description": "••••••••••que contienen grupos P-haluro [2006.01]"
+  },
+  {
+    "code": "C07F 9/201",
+    "description": "••••••••Esteres de ácidos tiofosforosos [2006.01]"
+  },
+  {
+    "code": "C07F 9/202",
+    "description": "••••••••••con compuestos hidroxialquilo sin sustituyentes adicionales en el alquilo [2006.01]"
+  },
+  {
+    "code": "C07F 9/203",
+    "description": "••••••••••con alcoholes acíclicos insaturados [2006.01]"
+  },
+  {
+    "code": "C07F 9/204",
+    "description": "••••••••••con alcoholes cicloalifáticos [2006.01]"
+  },
+  {
+    "code": "C07F 9/205",
+    "description": "••••••••••con compuestos hidroxiarilo [2006.01]"
+  },
+  {
+    "code": "C07F 9/206",
+    "description": "••••••••••que contienen grupos P-haluro [2006.01]"
+  },
+  {
+    "code": "C07F 9/22",
+    "description": "••••••Amidas de ácidos del fósforo [2006.01]"
+  },
+  {
+    "code": "C07F 9/24",
+    "description": "••••••••Esteramidas [2006.01]"
+  },
+  {
+    "code": "C07F 9/26",
+    "description": "••••••••que contienen grupos P-haluro [2006.01]"
+  },
+  {
+    "code": "C07F 9/28",
+    "description": "••••con uno o varios enlaces P—  C [2006.01]"
+  },
+  {
+    "code": "C07F 9/30",
+    "description": "••••••Acidos fosfínicos (R2 = P(:O)OH); Acidos tiofosfínicos [2006.01]"
+  },
+  {
+    "code": "C07F 9/32",
+    "description": "••••••••Sus ésteres [2006.01]"
+  },
+  {
+    "code": "C07F 9/34",
+    "description": "••••••••Sus haluros [2006.01]"
+  },
+  {
+    "code": "C07F 9/36",
+    "description": "••••••••Sus amidas [2006.01]"
+  },
+  {
+    "code": "C07F 9/38",
+    "description": "••••••Acidos fosfónicos (R— P(:O)(OH)2); Acidos tiofosfónicos [2006.01]"
+  },
+  {
+    "code": "C07F 9/40",
+    "description": "••••••••Sus ésteres [2006.01]"
+  },
+  {
+    "code": "C07F 9/42",
+    "description": "••••••••Sus haluros [2006.01]"
+  },
+  {
+    "code": "C07F 9/44",
+    "description": "••••••••Sus amidas [2006.01]"
+  },
+  {
+    "code": "C07F 9/46",
+    "description": "••••••Acidos fosfinosos (R2 = P— OH); Acidos tiofosfinosos [2006.01]"
+  },
+  {
+    "code": "C07F 9/48",
+    "description": "••••••Acidos fosfonosos (R— P (OH)2); Acidos tiofosfonosos [2006.01]"
+  },
+  {
+    "code": "C07F 9/50",
+    "description": "••••••Organofosfinas [2006.01]"
+  },
+  {
+    "code": "C07F 9/52",
+    "description": "••••••••Halofosfinas [2006.01]"
+  },
+  {
+    "code": "C07F 9/53",
+    "description": "••••••••Oxidos de organofosfinas; Sulfuro de organofosfinas [2006.01]"
+  },
+  {
+    "code": "C07F 9/535",
+    "description": "••••••Organofosforanos [2006.01]"
+  },
+  {
+    "code": "C07F 9/54",
+    "description": "••••••Compuestos de fosfonio cuaternario [2006.01]"
+  },
+  {
+    "code": "C07F 9/547",
+    "description": "••••Compuestos heterocíclicos, p. ej. que contienen fósforo como heteroátomo del ciclo [2006.01]"
+  },
+  {
+    "code": "C07F 9/553",
+    "description": "••••••que sólo tienen un átomo de nitrógeno como único heteroátomo del ciclo [2006.01]"
+  },
+  {
+    "code": "C07F 9/564",
+    "description": "••••••••Ciclos de tres miembros [2006.01]"
+  },
+  {
+    "code": "C07F 9/568",
+    "description": "••••••••Ciclos de cuatro miembros [2006.01]"
+  },
+  {
+    "code": "C07F 9/572",
+    "description": "••••••••Ciclos de cinco miembros [2006.01]"
+  },
+  {
+    "code": "C07F 9/576",
+    "description": "••••••••Ciclos de seis miembros [2006.01]"
+  },
+  {
+    "code": "C07F 9/58",
+    "description": "••••••••••Ciclos piridínicos [2006.01]"
+  },
+  {
+    "code": "C07F 9/59",
+    "description": "••••••••••Ciclos piridínicos hidrogenados [2006.01]"
+  },
+  {
+    "code": "C07F 9/60",
+    "description": "••••••••••Sistemas cíclicos quinoleínicos o quinoleínicos hidrogenados [2006.01]"
+  },
+  {
+    "code": "C07F 9/62",
+    "description": "••••••••••Sistemas cíclicos isoquinoleínicos o isoquinoleínicos hidrogenados [2006.01]"
+  },
+  {
+    "code": "C07F 9/64",
+    "description": "••••••••••Sistemas cíclicos acridínicos o acridínicos hidrogenados [2006.01]"
+  },
+  {
+    "code": "C07F 9/645",
+    "description": "••••••que tienen dos heteroátomos de nitrógeno como únicos heteroátomos del ciclo [2006.01]"
+  },
+  {
+    "code": "C07F 9/6503",
+    "description": "••••••••Ciclos de cinco miembros [2006.01]"
+  },
+  {
+    "code": "C07F 9/6506",
+    "description": "••••••••••cuyos átomos de nitrógeno están en posiciones 1 y 3 [2006.01]"
+  },
+  {
+    "code": "C07F 9/6509",
+    "description": "••••••••Ciclos de seis miembros [2006.01]"
+  },
+  {
+    "code": "C07F 9/6512",
+    "description": "••••••••••cuyos átomos de nitrógeno están en posiciones 1 y 3 [2006.01]"
+  },
+  {
+    "code": "C07F 9/6515",
+    "description": "••••••que tienen tres átomos de nitrógeno como únicos heteroátomos del ciclo [2006.01]"
+  },
+  {
+    "code": "C07F 9/6518",
+    "description": "••••••••Ciclos de cinco miembros [2006.01]"
+  },
+  {
+    "code": "C07F 9/6521",
+    "description": "••••••••Ciclos de seis miembros [2006.01]"
+  },
+  {
+    "code": "C07F 9/6524",
+    "description": "••••••que tienen al menos cuatro átomos de nitrógeno como únicos heteroátomos del ciclo [2006.01]"
+  },
+  {
+    "code": "C07F 9/6527",
+    "description": "••••••que tienen átomos de nitrógeno y de oxígeno como únicos heteroátomos del ciclo [2006.01]"
+  },
+  {
+    "code": "C07F 9/653",
+    "description": "••••••••Ciclos de cinco miembros [2006.01]"
+  },
+  {
+    "code": "C07F 9/6533",
+    "description": "••••••••Ciclos de seis miembros [2006.01]"
+  },
+  {
+    "code": "C07F 9/6536",
+    "description": "••••••que tienen átomos de nitrógeno y de azufre, con o sin átomos de oxígeno, como únicos heteroátomos del ciclo [2006.01]"
+  },
+  {
+    "code": "C07F 9/6539",
+    "description": "••••••••Ciclos de cinco miembros [2006.01]"
+  },
+  {
+    "code": "C07F 9/6541",
+    "description": "••••••••••condensados con carbociclos o sistemas carbocíclicos [2006.01]"
+  },
+  {
+    "code": "C07F 9/6544",
+    "description": "••••••••Ciclos de seis miembros [2006.01]"
+  },
+  {
+    "code": "C07F 9/6547",
+    "description": "••••••••••condensados con carbociclos o sistemas carbocíclicos [2006.01]"
+  },
+  {
+    "code": "C07F 9/655",
+    "description": "••••••que tienen átomos de oxígeno, con o sin átomos de azufre, de selenio o de teluro, como únicos heteroátomos del ciclo [2006.01]"
+  },
+  {
+    "code": "C07F 9/6553",
+    "description": "••••••que tienen átomos de azufre, con o sin átomos de selenio o de teluro, como únicos heteroátomos del ciclo [2006.01]"
+  },
+  {
+    "code": "C07F 9/6558",
+    "description": "••••••que contienen al menos dos heterociclos diferentes o diferentemente sustituidos no condensados entre sí ni con un carbociclo o sistema carbocíclico común [2006.01]"
+  },
+  {
+    "code": "C07F 9/6561",
+    "description": "••••••que contienen sistemas de dos o más heterociclos determinantes condensados entre ellos ó condensados con un carbociclo o un sistema carbocíclico común, con o sin otros heterociclos no condensados [2006.01]"
+  },
+  {
+    "code": "C07F 9/6564",
+    "description": "••••••que tienen átomos de fósforo, con o sin átomos de azufre, oxígeno, selenio o teluro, como heteroátomos del ciclo [2006.01]"
+  },
+  {
+    "code": "C07F 9/6568",
+    "description": "••••••••que tienen átomos de fósforo como únicos heteroátomos del ciclo [2006.01]"
+  },
+  {
+    "code": "C07F 9/6571",
+    "description": "••••••••que tienen átomos de fósforo y oxígeno como únicos heteroátomos del ciclo [2006.01]"
+  },
+  {
+    "code": "C07F 9/6574",
+    "description": "••••••••••Esteres de oxácidos de fósforo [2006.01]"
+  },
+  {
+    "code": "C07F 9/6578",
+    "description": "••••••••que tiene átomos de fósforo y de azufre, con o sin átomos de oxígeno, como heteroátomos del ciclo [2006.01]"
+  },
+  {
+    "code": "C07F 9/6581",
+    "description": "••••••••que tienen átomos de fósforo y de nitrógeno, con o sin átomos de oxígeno o de azufre, como heteroátomos del ciclo [2006.01]"
+  },
+  {
+    "code": "C07F 9/6584",
+    "description": "••••••••••que tienen un átomo de fósforo como heteroátomo del ciclo [2006.01]"
+  },
+  {
+    "code": "C07F 9/6587",
+    "description": "••••••••••que tienen dos átomos de fósforo como heteroátomos del ciclo [2006.01]"
+  },
+  {
+    "code": "C07F 9/659",
+    "description": "••••••••••que tienen tres átomos de fósforo como heteroátomos del ciclo [2006.01]"
+  },
+  {
+    "code": "C07F 9/6593",
+    "description": "••••••••••••1,3,5-Triaza-2,4,6-trifosforinas [2006.01]"
+  },
+  {
+    "code": "C07F 9/6596",
+    "description": "••••••que tienen átomos que no son oxígeno, azufre, selenio, teluro, nitrógeno o fósforo como heteroátomos del ciclo [2006.01]"
+  },
+  {
+    "code": "C07F 9/66",
+    "description": "••Compuestos de arsénico [2006.01]"
+  },
+  {
+    "code": "C07F 9/68",
+    "description": "••••sin enlaces As—  C [2006.01]"
+  },
+  {
+    "code": "C07F 9/70",
+    "description": "••••Compuestos organoarsénicos [2006.01]"
+  },
+  {
+    "code": "C07F 9/72",
+    "description": "••••••alifáticos [2006.01]"
+  },
+  {
+    "code": "C07F 9/74",
+    "description": "••••••aromáticos [2006.01]"
+  },
+  {
+    "code": "C07F 9/76",
+    "description": "••••••••que contienen grupos hidroxilo [2006.01]"
+  },
+  {
+    "code": "C07F 9/78",
+    "description": "••••••••que contienen grupos amino [2006.01]"
+  },
+  {
+    "code": "C07F 9/80",
+    "description": "••••••Compuestos heterocíclicos [2006.01]"
+  },
+  {
+    "code": "C07F 9/82",
+    "description": "••••••••Compuestos de arsénico que contienen uno o varios ciclos de piridina [2006.01]"
+  },
+  {
+    "code": "C07F 9/84",
+    "description": "••••••••Compuestos de arsénico que contienen uno o varios sistemas cíclicos quinoleínicos [2006.01]"
+  },
+  {
+    "code": "C07F 9/86",
+    "description": "••••••••Compuestos de arsénico que contienen uno o varios sistemas cíclicos isoquinoleínicos [2006.01]"
+  },
+  {
+    "code": "C07F 9/88",
+    "description": "••••••••Compuestos de arsénico que contienen uno o varios sistemas cíclicos acridínicos [2006.01]"
+  },
+  {
+    "code": "C07F 9/90",
+    "description": "••Compuestos de antimonio [2006.01]"
+  },
+  {
+    "code": "C07F 9/92",
+    "description": "••••aromáticos [2006.01]"
+  },
+  {
+    "code": "C07F 9/94",
+    "description": "••Compuestos del bismuto [2006.01]"
+  },
+  {
+    "code": "C07F 11/00",
+    "description": "Compuestos que contienen elementos de los grupos 6 o 16 del sistema periódico [2006.01]"
+  },
+  {
+    "code": "C07F 13/00",
+    "description": "Compuestos que contienen elementos de los grupos 7 o 17 del sistema periódico [2006.01]"
+  },
+  {
+    "code": "C07F 15/00",
+    "description": "Compuestos que contienen elementos de los grupos 8, 9, 10 o 18 del sistema periódico [2006.01]"
+  },
+  {
+    "code": "C07F 15/02",
+    "description": "••Compuestos de hierro [2006.01]"
+  },
+  {
+    "code": "C07F 15/03",
+    "description": "••••Sideraminas; Los correspondientes compuestos desferri [2006.01]"
+  },
+  {
+    "code": "C07F 15/04",
+    "description": "••Compuestos de níquel [2006.01]"
+  },
+  {
+    "code": "C07F 15/06",
+    "description": "••Compuestos de cobalto [2006.01]"
+  },
+  {
+    "code": "C07F 17/00",
+    "description": "Metalocenos [2006.01]"
+  },
+  {
+    "code": "C07F 17/02",
+    "description": "••de metales de los grupos 8, 9 o 10 del sistema periódico [2006.01]"
+  },
+  {
+    "code": "C07F 19/00",
+    "description": "Compuestos metálicos cubiertos por más de uno de los grupos principales C07F 1/00-C07F 17/00 [2006.01]"
+  }
+]

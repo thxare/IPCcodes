@@ -1,0 +1,150 @@
+[
+  {
+    "code": "G16B 5/00",
+    "description": "TIC especialmente adaptadas para modelizar o realizar simulaciones en sistemas biológicos, p. ej. redes de regulación genética, redes de interacción entre proteínas o redes metabólicas [2019.01]"
+  },
+  {
+    "code": "G16B 5/10",
+    "description": "••Modelos booleanos [2019.01]"
+  },
+  {
+    "code": "G16B 5/20",
+    "description": "••Modelos probabilísticos [2019.01]"
+  },
+  {
+    "code": "G16B 5/30",
+    "description": "••Modelos temporales dinámicos [2019.01]"
+  },
+  {
+    "code": "G16B 10/00",
+    "description": "TIC especialmente adaptadas para bioinformática evolutiva, p. ej. construcción o análisis del árbol filogenético [2019.01]"
+  },
+  {
+    "code": "G16B 15/00",
+    "description": "TIC especialmente adaptadas para el análisis de estructuras moleculares bidimensionales o tridimensionales, p. ej. relaciones estructurales o funcionales o alineamiento de estructuras [2019.01]"
+  },
+  {
+    "code": "G16B 15/10",
+    "description": "••Plegamiento de ácidos nucleicos [2019.01]"
+  },
+  {
+    "code": "G16B 15/20",
+    "description": "••Plegamiento de proteínas o de dominios [2019.01]"
+  },
+  {
+    "code": "G16B 15/30",
+    "description": "••Identificación de medicamentos usando datos estructurales; Predicción del acoplamiento o de la unión [2019.01]"
+  },
+  {
+    "code": "G16B 20/00",
+    "description": "TIC especialmente adaptadas a la genómica o proteómica funcional, p.ej. asociaciones genotipo o fenotipo [2019.01]"
+  },
+  {
+    "code": "G16B 20/10",
+    "description": "••Ploidía o detección del número de copias [2019.01]"
+  },
+  {
+    "code": "G16B 20/20",
+    "description": "••Detección de alelos o de sus variantes, p.ej. detección de polimorfismo de nucleótido simple [SNP] [2019.01]"
+  },
+  {
+    "code": "G16B 20/30",
+    "description": "••Detección de lugares o motivos de unión [2019.01]"
+  },
+  {
+    "code": "G16B 20/40",
+    "description": "••Genética de poblaciones; Desequilibrio de la unión [2019.01]"
+  },
+  {
+    "code": "G16B 20/50",
+    "description": "••Mutagénesis [2019.01]"
+  },
+  {
+    "code": "G16B 25/00",
+    "description": "TIC especialmente adaptadas a la hibridación; TIC especialmente adaptadas a la expresión de genes o de proteínas [2019.01]"
+  },
+  {
+    "code": "G16B 25/10",
+    "description": "••Perfil de expresión génica o de proteínas; Estimación de la proporción de expresiones o normalización [2019.01]"
+  },
+  {
+    "code": "G16B 25/20",
+    "description": "••Reacción en cadena de la polimerasa [PCR]; Diseño del primer o de sondas; Optimización de la sonda [2019.01]"
+  },
+  {
+    "code": "G16B 25/30",
+    "description": "••Diseño de microarrays [2019.01]"
+  },
+  {
+    "code": "G16B 30/00",
+    "description": "TIC especialmente adaptadas al análisis de secuencias que implican nucleótidos o aminoácidos [2019.01]"
+  },
+  {
+    "code": "G16B 30/10",
+    "description": "••Alineamiento de secuencias; Búsqueda de homología [2019.01]"
+  },
+  {
+    "code": "G16B 30/20",
+    "description": "••Ensamblaje de secuencias [2019.01]"
+  },
+  {
+    "code": "G16B 35/00",
+    "description": "TIC especialmente adaptadas a las bibliotecas combinatorias in silico de ácidos nucleicos, proteínas o péptidos [2019.01]"
+  },
+  {
+    "code": "G16B 35/10",
+    "description": "••Diseño de bibliotecas [2019.01]"
+  },
+  {
+    "code": "G16B 35/20",
+    "description": "••Cribado de bibliotecas [2019.01]"
+  },
+  {
+    "code": "G16B 40/00",
+    "description": "TIC especialmente adaptadas a la bioestadística; TIC especialmente adaptadas al aprendizaje automático o a la minería de datos relacionados con la bioinformática, p.ej. descubrimiento de conocimiento o detección de patrones [2019.01]"
+  },
+  {
+    "code": "G16B 40/10",
+    "description": "••Procesamiento de la señal, p.ej. a partir de la espectrometría de masas o de la reacción en cadena de la polimerasa [2019.01]"
+  },
+  {
+    "code": "G16B 40/20",
+    "description": "••Análisis supervisado de datos [2019.01]"
+  },
+  {
+    "code": "G16B 40/30",
+    "description": "••Análisis no supervisado de datos [2019.01]"
+  },
+  {
+    "code": "G16B 45/00",
+    "description": "TIC especialmente adaptadas a la visualización de datos relacionados con la bioinformática, p. ej. exposición de mapas o de redes [2019.01]"
+  },
+  {
+    "code": "G16B 50/00",
+    "description": "TIC para la programación de herramientas o de sistemas de bases de datos especialmente adaptadas a la bioinformática [2019.01]"
+  },
+  {
+    "code": "G16B 50/10",
+    "description": "••Ontologías; Anotaciones [2019.01]"
+  },
+  {
+    "code": "G16B 50/20",
+    "description": "••Integración de datos hetereogéneos [2019.01]"
+  },
+  {
+    "code": "G16B 50/30",
+    "description": "••Almacenamiento de datos; Arquitecturas informáticas [2019.01]"
+  },
+  {
+    "code": "G16B 50/40",
+    "description": "••Cifrado de datos genéticos [2019.01]"
+  },
+  {
+    "code": "G16B 50/50",
+    "description": "••Compresión de datos genéticos [2019.01]"
+  },
+  {
+    "code": "G16B 99/00",
+    "description": "Materia no prevista por otros grupos de esta subclase [2019.01]"
+  }
+]

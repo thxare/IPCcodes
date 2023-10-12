@@ -1,0 +1,654 @@
+[
+  {
+    "code": "H10K 10/00",
+    "description": "Dispositivos orgánicos especialmente adaptados para rectificar, amplificar, oscilar o conmutar; Condensadores o resistencias orgánicas que tienen una barrera de salto de potencial o una barrera de superficie (dispositivos integrados o conjuntos de dispositivos múltiples H10K 19/00) [2023.01]"
+  },
+  {
+    "code": "H10K 10/10",
+    "description": "••Condensadores o resistencias orgánicas que comprenden una barrera de salto de potencial o de superficie [2023.01]"
+  },
+  {
+    "code": "H10K 10/20",
+    "description": "••Diodos orgánicos [2023.01]"
+  },
+  {
+    "code": "H10K 10/23",
+    "description": "••••Diodos de barrera Schottky [2023.01]"
+  },
+  {
+    "code": "H10K 10/26",
+    "description": "••••Diodos con uniones orgánico-orgánico [2023.01]"
+  },
+  {
+    "code": "H10K 10/29",
+    "description": "••••Diodos con heterouniones orgánico-inorgánico [2023.01]"
+  },
+  {
+    "code": "H10K 10/40",
+    "description": "••Transistores orgánicos [2023.01]"
+  },
+  {
+    "code": "H10K 10/43",
+    "description": "••••Transistores bipolares, p. ej. transistores de unión bipolar orgánica [OBJT] [2023.01]"
+  },
+  {
+    "code": "H10K 10/46",
+    "description": "••••Transistores de efecto campo, p. ej. transistores orgánicos de película fina [OTFT] (H10K 10/43 tiene prioridad) [2023.01]"
+  },
+  {
+    "code": "H10K 10/50",
+    "description": "••Dispositivos de conmutación biestables [2023.01]"
+  },
+  {
+    "code": "H10K 10/80",
+    "description": "••Detalles de construcción [2023.01]"
+  },
+  {
+    "code": "H10K 10/82",
+    "description": "••••Electrodos [2023.01]"
+  },
+  {
+    "code": "H10K 10/84",
+    "description": "••••••Electrodos de contacto óhmicos, p. ej. electrodos de fuente o de drenaje [2023.01]"
+  },
+  {
+    "code": "H10K 10/86",
+    "description": "••••••Electrodos de barrera Schottky [2023.01]"
+  },
+  {
+    "code": "H10K 10/88",
+    "description": "••••Pasivación; Contenedores; Encapsulados [2023.01]"
+  },
+  {
+    "code": "H10K 19/00",
+    "description": "Dispositivos integrados, o conjuntos de dispositivos múltiples, que comprenden al menos un elemento orgánico especialmente adaptado para rectificar, amplificar, oscilar o conmutar, incluidos en el grupo H10K 10/00 [2023.01]"
+  },
+  {
+    "code": "H10K 19/10",
+    "description": "••que incluye transistores de efecto de campo [2023.01]"
+  },
+  {
+    "code": "H10K 19/20",
+    "description": "••que comprende componentes que tienen una región activa que incluye un semiconductor inorgánico [2023.01]"
+  },
+  {
+    "code": "H10K 19/80",
+    "description": "••Interconexiones, p. ej. terminales [2023.01]"
+  },
+  {
+    "code": "H10K 30/00",
+    "description": "Dispositivos orgánicos sensibles a la radiación infrarroja, a la luz, a la radiación electromagnética de longitud de onda más corta o a la radiación corpuscular (dispositivos integrados o conjuntos de dispositivos múltiples H10K 39/00, H10K 65/00; dispositivos electrolíticos sensibles a la luz H01G 9/20) [2023.01]"
+  },
+  {
+    "code": "H10K 30/10",
+    "description": "••que comprenden heterouniones entre semiconductores orgánicos y semiconductores inorgánicos [2023.01]"
+  },
+  {
+    "code": "H10K 30/15",
+    "description": "••••Dispositivos semiconductores sensibilizados de banda ancha, p. ej. TiO2 sensibilizado por colorantes (dispositivos fotoelectroquímicos que comprenden un electrolito líquido o un electrolito sólido H01G 9/20) [2023.01]"
+  },
+  {
+    "code": "H10K 30/20",
+    "description": "••que comprenden uniones orgánico-orgánico, p. ej. uniones donante-aceptor [2023.01]"
+  },
+  {
+    "code": "H10K 30/30",
+    "description": "••que comprenden heterouniones a granel, p. ej. redes interpenetrantes de dominios de material donante y aceptor [2023.01]"
+  },
+  {
+    "code": "H10K 30/35",
+    "description": "••••con nanoestructuras inorgánicas, p. ej. nanopartículas de CdSe [2023.01]"
+  },
+  {
+    "code": "H10K 30/40",
+    "description": "••que comprenda una estructura p-i-n, p. ej. con un absorbente de perovskita entre las capas de transporte de carga de tipo p y de tipo n [2023.01]"
+  },
+  {
+    "code": "H10K 30/50",
+    "description": "••Dispositivos fotovoltaicos [FV] [2023.01]"
+  },
+  {
+    "code": "H10K 30/53",
+    "description": "••••en forma de fibras o tubos, p. ej. fibras fotovoltaicas [2023.01]"
+  },
+  {
+    "code": "H10K 30/57",
+    "description": "••••que comprenden múltiples uniones, p. ej. células fotovoltaicas en tándem [2023.01]"
+  },
+  {
+    "code": "H10K 30/60",
+    "description": "••en los que la radiación controla el flujo de corriente a través de los dispositivos, p. ej. fotorresistencias [2023.01]"
+  },
+  {
+    "code": "H10K 30/65",
+    "description": "••••Dispositivos de efecto de campo sensibles a la luz, p. ej. fototransistores [2023.01]"
+  },
+  {
+    "code": "H10K 30/80",
+    "description": "••Detalles de construcción [2023.01]"
+  },
+  {
+    "code": "H10K 30/81",
+    "description": "••••Electrodos [2023.01]"
+  },
+  {
+    "code": "H10K 30/82",
+    "description": "••••••Electrodos transparentes, p. ej. electrodos de óxido de indio y estaño [ITO] [2023.01]"
+  },
+  {
+    "code": "H10K 30/83",
+    "description": "••••••••que comprende disposiciones para extraer la corriente de la celda, p. ej. sistemas de rejilla con líneas muy delgadas metálicas para reducir la resistencia en serie de los electrodos transparentes [2023.01]"
+  },
+  {
+    "code": "H10K 30/84",
+    "description": "••••Capas con alta movilidad de portadores de carga [2023.01]"
+  },
+  {
+    "code": "H10K 30/85",
+    "description": "••••••Capas con alta movilidad de electrones, p. ej. capas transportadoras de electrones o capas bloqueadoras de huecos [2023.01]"
+  },
+  {
+    "code": "H10K 30/86",
+    "description": "••••••Capas con alta movilidad de huecos, p. ej. capas transportadoras de huecos o capas bloqueadoras de electrones [2023.01]"
+  },
+  {
+    "code": "H10K 30/87",
+    "description": "••••Medios para atrapar la luz [2023.01]"
+  },
+  {
+    "code": "H10K 30/88",
+    "description": "••••Pasivación; Contenedores; Encapsulados [2023.01]"
+  },
+  {
+    "code": "H10K 30/89",
+    "description": "••••Terminales, p. ej. almohadillas adhesivas [2023.01]"
+  },
+  {
+    "code": "H10K 39/00",
+    "description": "Dispositivos integrados, o conjuntos de dispositivos múltiples, que comprenden al menos un elemento orgánico sensible a la radiación incluido en el grupo H10K 30/00 [2023.01]"
+  },
+  {
+    "code": "H10K 39/10",
+    "description": "••Módulos fotovoltaicos orgánicos; Conjuntos de celdas fotovoltaicas orgánicas individuales [2023.01]"
+  },
+  {
+    "code": "H10K 39/12",
+    "description": "••••Configuraciones eléctricas de las celdas fotovoltaicas, p. ej. conexiones en serie o en paralelo [2023.01]"
+  },
+  {
+    "code": "H10K 39/15",
+    "description": "••••que incluye tanto celdas fotovoltaicas orgánicas como inorgánicas [2023.01]"
+  },
+  {
+    "code": "H10K 39/18",
+    "description": "••••Interconexiones, p. ej. terminales [2023.01]"
+  },
+  {
+    "code": "H10K 39/30",
+    "description": "••Dispositivos controlados por radiación [2023.01]"
+  },
+  {
+    "code": "H10K 39/32",
+    "description": "••••Sensores de imagen orgánicos [2023.01]"
+  },
+  {
+    "code": "H10K 39/34",
+    "description": "••••••integrado con diodos orgánicos emisores de luz [OLED] [2023.01]"
+  },
+  {
+    "code": "H10K 39/36",
+    "description": "••••Dispositivos especialmente adaptados para detectar la radiación de rayos X [2023.01]"
+  },
+  {
+    "code": "H10K 39/38",
+    "description": "••••Interconexiones, p. ej. terminales [2023.01]"
+  },
+  {
+    "code": "H10K 50/00",
+    "description": "Dispositivos orgánicos de emisión de luz (dispositivos integrados o conjuntos de dispositivos múltiples H10K 59/00, H10K 65/00; láseres semiconductores orgánicos H01S 5/36) [2023.01]"
+  },
+  {
+    "code": "H10K 50/10",
+    "description": "••OLED o diodos emisores de luz de polímero [PLED] [2023.01]"
+  },
+  {
+    "code": "H10K 50/11",
+    "description": "••••caracterizado por las capas electroluminiscentes [EL] [2023.01]"
+  },
+  {
+    "code": "H10K 50/115",
+    "description": "••••••que comprende nanoestructuras inorgánicas activas, p. ej. puntos cuánticos luminiscentes [2023.01]"
+  },
+  {
+    "code": "H10K 50/12",
+    "description": "••••••que incluye dopantes [2023.01]"
+  },
+  {
+    "code": "H10K 50/125",
+    "description": "••••••especialmente adaptado para la emisión de luz multicolor, p. ej. para emitir luz blanca [2023.01]"
+  },
+  {
+    "code": "H10K 50/13",
+    "description": "••••••••que comprende capas EL apiladas dentro de una unidad EL [2023.01]"
+  },
+  {
+    "code": "H10K 50/135",
+    "description": "••••••que comprende iones móviles [2023.01]"
+  },
+  {
+    "code": "H10K 50/14",
+    "description": "••••Capas de transporte de portadores [2023.01]"
+  },
+  {
+    "code": "H10K 50/15",
+    "description": "••••••Capas de transporte de huecos [2023.01]"
+  },
+  {
+    "code": "H10K 50/155",
+    "description": "••••••••que incluye dopantes [2023.01]"
+  },
+  {
+    "code": "H10K 50/16",
+    "description": "••••••Capas de transporte de electrones [2023.01]"
+  },
+  {
+    "code": "H10K 50/165",
+    "description": "••••••••que incluye dopantes [2023.01]"
+  },
+  {
+    "code": "H10K 50/17",
+    "description": "••••Capas de inyección de portadores [2023.01]"
+  },
+  {
+    "code": "H10K 50/18",
+    "description": "••••Capas de bloqueo de portadores [2023.01]"
+  },
+  {
+    "code": "H10K 50/19",
+    "description": "••••OLED en tándem [2023.01]"
+  },
+  {
+    "code": "H10K 50/30",
+    "description": "••Transistores orgánicos emisores de luz [2023.01]"
+  },
+  {
+    "code": "H10K 50/80",
+    "description": "••Detalles de construcción [2023.01]"
+  },
+  {
+    "code": "H10K 50/805",
+    "description": "••••Electrodos [2023.01]"
+  },
+  {
+    "code": "H10K 50/81",
+    "description": "••••••Ánodos [2023.01]"
+  },
+  {
+    "code": "H10K 50/813",
+    "description": "••••••••caracterizados por su forma [2023.01]"
+  },
+  {
+    "code": "H10K 50/814",
+    "description": "••••••••combinado con electrodos auxiliares, p. ej. la capa ITO combinada con líneas metálicas [2023.01]"
+  },
+  {
+    "code": "H10K 50/816",
+    "description": "••••••••Multicapas, p. ej. multicapas transparentes [2023.01]"
+  },
+  {
+    "code": "H10K 50/818",
+    "description": "••••••••Ánodos reflectantes, p. ej. ITO combinado con capas metálicas gruesas [2023.01]"
+  },
+  {
+    "code": "H10K 50/82",
+    "description": "••••••Cátodos [2023.01]"
+  },
+  {
+    "code": "H10K 50/822",
+    "description": "••••••••caracterizados por su forma [2023.01]"
+  },
+  {
+    "code": "H10K 50/824",
+    "description": "••••••••combinado con electrodos auxiliares [2023.01]"
+  },
+  {
+    "code": "H10K 50/826",
+    "description": "••••••••Multicapas, p. ej. multicapas opacas [2023.01]"
+  },
+  {
+    "code": "H10K 50/828",
+    "description": "••••••••Cátodos transparentes, p. ej. con finas capas metálicas [2023.01]"
+  },
+  {
+    "code": "H10K 50/84",
+    "description": "••••Pasivación; Contenedores; Encapsulados [2023.01]"
+  },
+  {
+    "code": "H10K 50/842",
+    "description": "••••••Contenedores [2023.01]"
+  },
+  {
+    "code": "H10K 50/844",
+    "description": "••••••Encapsulados [2023.01]"
+  },
+  {
+    "code": "H10K 50/85",
+    "description": "••••Disposiciones para extraer la luz de los dispositivos [2023.01]"
+  },
+  {
+    "code": "H10K 50/852",
+    "description": "••••••que comprende una estructura de cavidad resonante, p. ej. par de reflectores de Bragg [2023.01]"
+  },
+  {
+    "code": "H10K 50/854",
+    "description": "••••••que comprende medios de dispersión [2023.01]"
+  },
+  {
+    "code": "H10K 50/856",
+    "description": "••••••que comprende medios reflectantes [2023.01]"
+  },
+  {
+    "code": "H10K 50/858",
+    "description": "••••••que comprende medios de refracción, p. ej. lentes [2023.01]"
+  },
+  {
+    "code": "H10K 50/86",
+    "description": "••••Disposiciones para mejorar el contraste, p. ej. evitando el reflejo de la luz ambiental [2023.01]"
+  },
+  {
+    "code": "H10K 50/87",
+    "description": "••••Disposiciones para la calefacción o la refrigeración [2023.01]"
+  },
+  {
+    "code": "H10K 50/88",
+    "description": "••••Terminales, p. ej. almohadillas adhesivas [2023.01]"
+  },
+  {
+    "code": "H10K 59/00",
+    "description": "Dispositivos integrados, o conjuntos de dispositivos múltiples, que comprenden al menos un elemento orgánico emisor de luz del grupo H10K 50/00 [2023.01]"
+  },
+  {
+    "code": "H10K 59/10",
+    "description": "••Pantallas OLED [2023.01]"
+  },
+  {
+    "code": "H10K 59/12",
+    "description": "••••Pantallas OLED de matriz activa [AMOLED] [2023.01]"
+  },
+  {
+    "code": "H10K 59/121",
+    "description": "••••••caracterizado por la geometría o la disposición de los elementos de los píxeles [2023.01]"
+  },
+  {
+    "code": "H10K 59/122",
+    "description": "••••••Estructuras o capas que definen los píxeles, p. ej. bancos [2023.01]"
+  },
+  {
+    "code": "H10K 59/123",
+    "description": "••••••Conexión de los electrodos de los píxeles a los transistores de película fina [TFT] [2023.01]"
+  },
+  {
+    "code": "H10K 59/124",
+    "description": "••••••Capas aislantes formadas entre los elementos TFT y los elementos OLED [2023.01]"
+  },
+  {
+    "code": "H10K 59/125",
+    "description": "••••••incluyendo los TFTs orgánicos [OTFT] [2023.01]"
+  },
+  {
+    "code": "H10K 59/126",
+    "description": "••••••Blindaje, p. ej. medios de bloqueo de la luz sobre los TFT [2023.01]"
+  },
+  {
+    "code": "H10K 59/127",
+    "description": "••••••que incluya dos sustratos, p. ej. una pantalla que incluya un panel OLED y un circuito de conducción TFT sobre diferentes sustratos [2023.01]"
+  },
+  {
+    "code": "H10K 59/128",
+    "description": "••••••que comprende dos pantallas independientes, p. ej. para emitir información desde dos lados principales de la pantalla [2023.01]"
+  },
+  {
+    "code": "H10K 59/129",
+    "description": "••••••Chiplets [2023.01]"
+  },
+  {
+    "code": "H10K 59/13",
+    "description": "••••••que incluye fotosensores que controlan la luminancia [2023.01]"
+  },
+  {
+    "code": "H10K 59/131",
+    "description": "••••••Interconexiones, p. ej. líneas de cableado o terminales [2023.01]"
+  },
+  {
+    "code": "H10K 59/17",
+    "description": "••••Pantallas OLED de matriz pasiva [2023.01]"
+  },
+  {
+    "code": "H10K 59/173",
+    "description": "••••••que comprenden bancos o máscaras de sombra [2023.01]"
+  },
+  {
+    "code": "H10K 59/176",
+    "description": "••••••que comprende dos pantallas independientes, p. ej. para emitir información desde dos lados principales de la pantalla [2023.01]"
+  },
+  {
+    "code": "H10K 59/179",
+    "description": "••••••Interconexiones, p. ej. líneas de cableado o terminales [2023.01]"
+  },
+  {
+    "code": "H10K 59/18",
+    "description": "••••Pantallas en mosaico [2023.01]"
+  },
+  {
+    "code": "H10K 59/19",
+    "description": "••••Pantallas de segmentos [2023.01]"
+  },
+  {
+    "code": "H10K 59/30",
+    "description": "••Dispositivos especialmente adaptados para la emisión de luz multicolor [2023.01]"
+  },
+  {
+    "code": "H10K 59/32",
+    "description": "••••Dispositivos apilados con dos o más capas, cada una de las cuales emite a diferentes longitudes de onda [2023.01]"
+  },
+  {
+    "code": "H10K 59/35",
+    "description": "••••compuesto por subpíxeles rojo-verde-azul [RGB] [2023.01]"
+  },
+  {
+    "code": "H10K 59/38",
+    "description": "••••que comprenden filtros de color o medios de cambio de color [CCM] [2023.01]"
+  },
+  {
+    "code": "H10K 59/40",
+    "description": "••OLED integrados con pantallas táctiles [2023.01]"
+  },
+  {
+    "code": "H10K 59/50",
+    "description": "••OLED integrados con elementos moduladores de luz, p. ej. con elementos electrocrómicos, fotocromáticos o de cristal líquido [2023.01]"
+  },
+  {
+    "code": "H10K 59/60",
+    "description": "••OLED integrados con elementos inorgánicos sensibles a la luz, p. ej. con células solares inorgánicas o fotodiodos inorgánicos [2023.01]"
+  },
+  {
+    "code": "H10K 59/65",
+    "description": "••••OLED integrados con sensores de imagen inorgánicos [2023.01]"
+  },
+  {
+    "code": "H10K 59/70",
+    "description": "••OLED integrados con elementos inorgánicos emisores de luz, p. ej. con elementos inorgánicos electroluminiscentes [2023.01]"
+  },
+  {
+    "code": "H10K 59/80",
+    "description": "••Detalles de construcción [2023.01]"
+  },
+  {
+    "code": "H10K 59/82",
+    "description": "••••Interconexiones, p. ej. terminales (H10K 59/131, H10K 59/179 tienen prioridad) [2023.01]"
+  },
+  {
+    "code": "H10K 59/84",
+    "description": "••••Configuraciones eléctricas paralelas de múltiples OLED [2023.01]"
+  },
+  {
+    "code": "H10K 59/86",
+    "description": "••••Configuraciones eléctricas en serie de múltiples OLED [2023.01]"
+  },
+  {
+    "code": "H10K 59/88",
+    "description": "••••Prototipos, es decir, elementos con características no funcionales [2023.01]"
+  },
+  {
+    "code": "H10K 59/90",
+    "description": "••Conjuntos de dispositivos múltiples que comprenden al menos un elemento orgánico emisor de luz [2023.01]"
+  },
+  {
+    "code": "H10K 59/95",
+    "description": "••••que sólo incluye elementos orgánicos de emisión de luz [2023.01]"
+  },
+  {
+    "code": "H10K 65/00",
+    "description": "Dispositivos integrados, o conjuntos de dispositivos múltiples, que comprenden al menos un elemento orgánico emisor de luz y al menos un elemento orgánico sensible a la radiación, p. ej. optoacopladores orgánicos (sensores de imagen orgánicos integrados con dispositivos orgánicos emisores de luz H10K 39/32; pantallas OLED integradas con fotosensores H10K 59/13) [2023.01]"
+  },
+  {
+    "code": "H10K 71/00",
+    "description": "Fabricación o tratamiento especialmente adaptado para los dispositivos orgánicos comprendidos en esta subclase [2023.01]"
+  },
+  {
+    "code": "H10K 71/10",
+    "description": "••Deposición de materia orgánica activa [2023.01]"
+  },
+  {
+    "code": "H10K 71/12",
+    "description": "••••utilizando deposición de líquidos, p. ej. recubrimiento por rotación [2023.01]"
+  },
+  {
+    "code": "H10K 71/13",
+    "description": "••••••mediante técnicas de impresión, como la impresión por chorro de tinta o la serigrafía [2023.01]"
+  },
+  {
+    "code": "H10K 71/15",
+    "description": "••••••caracterizado por el disolvente utilizado [2023.01]"
+  },
+  {
+    "code": "H10K 71/16",
+    "description": "••••mediante deposición física de vapor [PVD], p. ej. deposición al vacío o sputtering [2023.01]"
+  },
+  {
+    "code": "H10K 71/18",
+    "description": "••••utilizando técnicas de impresión no líquidas, p. ej. impresión por transferencia térmica a partir de una hoja de copia [2023.01]"
+  },
+  {
+    "code": "H10K 71/20",
+    "description": "••Modificación de la forma de la capa activa en los dispositivos, p. ej. mediante el estampado [2023.01]"
+  },
+  {
+    "code": "H10K 71/30",
+    "description": "••Dopado de capas activas, p. ej. capas transportadoras de electrones [2023.01]"
+  },
+  {
+    "code": "H10K 71/40",
+    "description": "••Tratamiento térmico, p. ej. recocido en presencia de un disolvente en vapor [2023.01]"
+  },
+  {
+    "code": "H10K 71/50",
+    "description": "••Formación de dispositivos mediante la unión de dos sustratos, p. ej. técnicas de laminación [2023.01]"
+  },
+  {
+    "code": "H10K 71/60",
+    "description": "••Formación de regiones o capas conductoras, p. ej. electrodos [2023.01]"
+  },
+  {
+    "code": "H10K 71/70",
+    "description": "••Pruebas, p. ej. de vida útil acelerada [2023.01]"
+  },
+  {
+    "code": "H10K 71/80",
+    "description": "••utilizando sustratos temporales [2023.01]"
+  },
+  {
+    "code": "H10K 77/00",
+    "description": "Detalles de construcción de los dispositivos cubiertos por esta subclase y no cubiertos por los grupos H10K 10/80, H10K 30/80, H10K 50/80 o H10K 59/80 [2023.01]"
+  },
+  {
+    "code": "H10K 77/10",
+    "description": "••Sustratos, p. ej. sustratos flexibles [2023.01]"
+  },
+  {
+    "code": "H10K 85/00",
+    "description": "Materiales orgánicos utilizados en el cuerpo o en los electrodos de los dispositivos incluidos en esta subclase [2023.01]"
+  },
+  {
+    "code": "H10K 85/10",
+    "description": "••Polímeros u oligómeros orgánicos [2023.01]"
+  },
+  {
+    "code": "H10K 85/20",
+    "description": "••Compuestos de carbono, p. ej. nanotubos de carbono o fullerenos [2023.01]"
+  },
+  {
+    "code": "H10K 85/30",
+    "description": "••Compuestos de coordinación [2023.01]"
+  },
+  {
+    "code": "H10K 85/40",
+    "description": "••Compuestos de organosilicio, p.ej. pentaceno TIPS [2023.01]"
+  },
+  {
+    "code": "H10K 85/50",
+    "description": "••Perovskitas orgánicas; Perovskitas híbridas orgánico-inorgánicas [HOIP], p. ej. CH3NH3PbI3 [2023.01]"
+  },
+  {
+    "code": "H10K 85/60",
+    "description": "••Compuestos orgánicos de bajo peso molecular (H10K 85/10-H10K 85/50 tienen prioridad) [2023.01]"
+  },
+  {
+    "code": "H10K 101/00",
+    "description": "Propiedades de los materiales orgánicos del grupo H10K 85/00 [2023.01]"
+  },
+  {
+    "code": "H10K 101/10",
+    "description": "••Emisión triplete [2023.01]"
+  },
+  {
+    "code": "H10K 101/20",
+    "description": "••Emisión de fluorescencia retardada [2023.01]"
+  },
+  {
+    "code": "H10K 101/25",
+    "description": "••••usando exciplex [2023.01]"
+  },
+  {
+    "code": "H10K 101/30",
+    "description": "••Orbital molecular ocupado de más energía [HOMO], orbital molecular no ocupado de más baja energía [LUMO] o valores de energía de Fermi [2023.01]"
+  },
+  {
+    "code": "H10K 101/40",
+    "description": "••Interrelación de parámetros entre múltiples capas o subcapas activas constituyentes, p. ej. valores HOMO en capas adyacentes [2023.01]"
+  },
+  {
+    "code": "H10K 101/50",
+    "description": "••Potenciales de oxidación-reducción, p. ej. potenciales redox de estado excitado [2023.01]"
+  },
+  {
+    "code": "H10K 101/60",
+    "description": "••Conversión ascendente, p. ej. por aniquilación triplete-triplete [2023.01]"
+  },
+  {
+    "code": "H10K 101/70",
+    "description": "••Conversión descendente, p. ej. por fisión de singletes [2023.01]"
+  },
+  {
+    "code": "H10K 102/00",
+    "description": "Detalles de construcción relativos a los dispositivos orgánicos incluidos en esta subclase [2023.01]"
+  },
+  {
+    "code": "H10K 102/10",
+    "description": "••Electrodos transparentes, p. ej. con grafeno [2023.01]"
+  },
+  {
+    "code": "H10K 102/20",
+    "description": "••Electrodos metálicos, p. ej. utilizando una pila de capas [2023.01]"
+  }
+]

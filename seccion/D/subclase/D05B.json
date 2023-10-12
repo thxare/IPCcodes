@@ -1,0 +1,858 @@
+[
+  {
+    "code": "D05B 1/00",
+    "description": "Principales tipos de aparatos o máquinas de coser sin mecanismo que permita el movimiento lateral de la aguja o el trabajo o ambos combinados [2006.01]"
+  },
+  {
+    "code": "D05B 1/02",
+    "description": "••para hacer costuras simples a un hilo [2006.01]"
+  },
+  {
+    "code": "D05B 1/04",
+    "description": "••••Costuras hilvanadas [2006.01]"
+  },
+  {
+    "code": "D05B 1/06",
+    "description": "••••Costuras con punto de cadeneta simple [2006.01]"
+  },
+  {
+    "code": "D05B 1/08",
+    "description": "••para hacer costuras con varios hilos [2006.01]"
+  },
+  {
+    "code": "D05B 1/10",
+    "description": "••••Costuras con punto de cadeneta doble [2006.01]"
+  },
+  {
+    "code": "D05B 1/12",
+    "description": "••••Costuras con punto de lanzadera [2006.01]"
+  },
+  {
+    "code": "D05B 1/14",
+    "description": "••••Costuras a punto de cadeneta y punto de lanzadera alternados o combinados [2006.01]"
+  },
+  {
+    "code": "D05B 1/16",
+    "description": "••••Costuras con imitación a punto de lanzadera en las cuales los bucles de hilo no se forman realmente (máquinas de coser para calzado o máquinas para ribetear D05B 15/02) [2006.01]"
+  },
+  {
+    "code": "D05B 1/18",
+    "description": "••••Costuras para proteger o consolidar los bordes (máquinas de coser para punto a zig-zag D05B 3/02, D05B 3/04) [2006.01]"
+  },
+  {
+    "code": "D05B 1/20",
+    "description": "••••••Costuras con punto de sobrehilo [2006.01]"
+  },
+  {
+    "code": "D05B 1/22",
+    "description": "••••••••combinadas con costuras de unión y de seguridad [2006.01]"
+  },
+  {
+    "code": "D05B 1/24",
+    "description": "••para hacer las costuras de puntos invisibles [2006.01]"
+  },
+  {
+    "code": "D05B 1/26",
+    "description": "••para hacer las costuras impermeables (máquinas de coser para hacer conjuntamente las costuras con hilos y las juntas D05B 17/00) [2006.01]"
+  },
+  {
+    "code": "D05B 3/00",
+    "description": "Aparatos o máquinas de coser que poseen un mecanismo que permite el movimiento lateral de la aguja o de la obra o los dos combinados, para hacer cosidos de adorno según un trazado, para hacer los ojales de los botones, para reforzar las aberturas o para fijar ciertos artículos, p. ej. botones por cosido (máquinas de coser reguladas por programa D05B 19/00; con dispositivos para regular automáticamente el movimiento del porta-obra D05B 21/00) [2006.01]"
+  },
+  {
+    "code": "D05B 3/02",
+    "description": "••con mecanismos que aseguran el movimiento de la barra de la aguja [2006.01]"
+  },
+  {
+    "code": "D05B 3/04",
+    "description": "••con mecanismos que aseguran el avance de la obra [2006.01]"
+  },
+  {
+    "code": "D05B 3/06",
+    "description": "••para confeccionar los ojales de botones (ojales de botones A41F 1/02) [2006.01]"
+  },
+  {
+    "code": "D05B 3/08",
+    "description": "••••para ojales de botones con ojetes [2006.01]"
+  },
+  {
+    "code": "D05B 3/10",
+    "description": "••para hacer aberturas ribeteadas [2006.01]"
+  },
+  {
+    "code": "D05B 3/12",
+    "description": "••para fijación de artículos por picado [2006.01]"
+  },
+  {
+    "code": "D05B 3/14",
+    "description": "••••botones con agujeros o botones-presión [2006.01]"
+  },
+  {
+    "code": "D05B 3/16",
+    "description": "••••botones de cola [2006.01]"
+  },
+  {
+    "code": "D05B 3/18",
+    "description": "••••corchetes u objetos [2006.01]"
+  },
+  {
+    "code": "D05B 3/20",
+    "description": "••••etiquetas (etiquetado de productos textiles de otro modo que por cosido B65C 5/00; etiquetas o sus medios de fijación en general G09F 3/00) [2006.01]"
+  },
+  {
+    "code": "D05B 3/22",
+    "description": "••••Mecanismos de alimentación de artículos, p. ej. botones [2006.01]"
+  },
+  {
+    "code": "D05B 3/24",
+    "description": "••formados por máquinas de coser de utilización general modificados por órganos anexos, p. ej. dispositivos amovibles [2006.01]"
+  },
+  {
+    "code": "D05B 5/00",
+    "description": "Máquinas de coser para unir los artículos de modo temporal, p. ej. pares de calcetines [2006.01]"
+  },
+  {
+    "code": "D05B 7/00",
+    "description": "Remalladoras, p. ej. para reunir los tejidos de mallas [2006.01]"
+  },
+  {
+    "code": "D05B 9/00",
+    "description": "Máquinas de coser con punzada para ribete [2006.01]"
+  },
+  {
+    "code": "D05B 11/00",
+    "description": "Máquinas para coser los edredones o colchones (mando del cuadro móvil portatejido o de la máquina de coser, para obtener una línea de cosido particular D05B 21/00) [2006.01]"
+  },
+  {
+    "code": "D05B 13/00",
+    "description": "Máquinas para coser los sacos [2006.01]"
+  },
+  {
+    "code": "D05B 13/02",
+    "description": "••para cerrar los sacos llenos (combinados con el aparato para llenar los sacos B65B) [2006.01]"
+  },
+  {
+    "code": "D05B 15/00",
+    "description": "Máquinas para coser los artículos de cuero (haciendo los cosidos con falso punto de lanzadera en sí D05B 1/16) [2006.01]"
+  },
+  {
+    "code": "D05B 15/02",
+    "description": "••Máquinas para coser los calzados [2006.01]"
+  },
+  {
+    "code": "D05B 15/04",
+    "description": "••••para el trabajo con punto de lanzadera (D05B 15/08 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "D05B 15/06",
+    "description": "••••Máquinas de ribetear [2006.01]"
+  },
+  {
+    "code": "D05B 15/08",
+    "description": "••••••para el trabajo a punto de lanzadera [2006.01]"
+  },
+  {
+    "code": "D05B 15/10",
+    "description": "••••Máquinas para coser los doblados [2006.01]"
+  },
+  {
+    "code": "D05B 17/00",
+    "description": "Máquinas de coser para hacer conjuntamente los cosidos de hilo y las soldaduras (para hacer cosidos impermeables no soldados D05B 1/26) [2006.01]"
+  },
+  {
+    "code": "D05B 19/00",
+    "description": "Máquinas de coser reguladas por programa (con dispositivos para regular automáticamente el movimiento del porta obra D05B 21/00; dispositivos para detener el avance cuando los útiles de costura han alcanzado una posición predeterminada D05B 69/22) [2006.01]"
+  },
+  {
+    "code": "D05B 19/02",
+    "description": "••que tienen una memoria electrónica o una unidad de regulación por microprocesador [2006.01]"
+  },
+  {
+    "code": "D05B 19/04",
+    "description": "••••caracterizadas por aspectos relativos a la memoria [2006.01]"
+  },
+  {
+    "code": "D05B 19/06",
+    "description": "••••••Cambio material de la memoria [2006.01]"
+  },
+  {
+    "code": "D05B 19/08",
+    "description": "••••••Disposiciones para introducir en la memoria datos relativos al punto o al modelo [2006.01]"
+  },
+  {
+    "code": "D05B 19/10",
+    "description": "••••••Disposiciones para seleccionar combinaciones de datos sobre el punto o el modelo a partir de la memoria [2006.01]"
+  },
+  {
+    "code": "D05B 19/12",
+    "description": "••••caracterizadas por la regulación del funcionamiento de la máquina [2006.01]"
+  },
+  {
+    "code": "D05B 19/14",
+    "description": "••••••Regulación del movimiento de la aguja, p. ej. variación de la amplitud o del período del movimiento de la aguja [2006.01]"
+  },
+  {
+    "code": "D05B 19/16",
+    "description": "••••••Regulación del movimiento de la pieza a trabajar, p. ej. modulación del desplazamiento de la reja de avance [2006.01]"
+  },
+  {
+    "code": "D05B 21/00",
+    "description": "Máquinas de coser con dispositivos para regular automáticamente el movimiento del porta-obra en unión con el mecanismo de formación del punto, a fin de obtener un trazado particular de cosido, p. ej. con programa para picar los cuellos de las camisas, para colocar los bolsillos [2006.01]"
+  },
+  {
+    "code": "D05B 23/00",
+    "description": "Aparatos o máquinas de coser no previstos en otro lugar (para la fabricación de cierres de cremallera A44B 19/00) [2006.01]"
+  },
+  {
+    "code": "D05B 27/00",
+    "description": "Medios de avance de la obra para máquinas de coser [2006.01]"
+  },
+  {
+    "code": "D05B 27/02",
+    "description": "••con garras de avance de movimientos horizontales y verticales [2006.01]"
+  },
+  {
+    "code": "D05B 27/04",
+    "description": "••••dispuestos por encima de la obra [2006.01]"
+  },
+  {
+    "code": "D05B 27/06",
+    "description": "••••dispuestos por encima y por debajo de la obra [2006.01]"
+  },
+  {
+    "code": "D05B 27/08",
+    "description": "••••con movimientos de arrastre diferenciales [2006.01]"
+  },
+  {
+    "code": "D05B 27/10",
+    "description": "••con órganos de avance rotativos y circulares [2006.01]"
+  },
+  {
+    "code": "D05B 27/12",
+    "description": "••••rotativos continuos [2006.01]"
+  },
+  {
+    "code": "D05B 27/14",
+    "description": "••••rotativos discontinuos [2006.01]"
+  },
+  {
+    "code": "D05B 27/16",
+    "description": "••••con movimientos de avance diferenciales [2006.01]"
+  },
+  {
+    "code": "D05B 27/18",
+    "description": "••••Copas de avance [2006.01]"
+  },
+  {
+    "code": "D05B 27/20",
+    "description": "••constituidos por las agujas de coser [2006.01]"
+  },
+  {
+    "code": "D05B 27/22",
+    "description": "••con medios para regular la longitud del punto [2006.01]"
+  },
+  {
+    "code": "D05B 27/24",
+    "description": "••Dispositivos para levantar o bajar las garras de avance [2006.01]"
+  },
+  {
+    "code": "D05B 27/26",
+    "description": "••en las máquinas de picar los cueros [2006.01]"
+  },
+  {
+    "code": "D05B 29/00",
+    "description": "Prensadores o pies prensadores para máquinas de coser (para avance D05B 27/04) [2006.01]"
+  },
+  {
+    "code": "D05B 29/02",
+    "description": "••Dispositivos de mando del prensador [2006.01]"
+  },
+  {
+    "code": "D05B 29/04",
+    "description": "••Prensadores para máquinas de picar el cuero [2006.01]"
+  },
+  {
+    "code": "D05B 29/06",
+    "description": "••Pies prensadores (pinzas) [2006.01]"
+  },
+  {
+    "code": "D05B 29/08",
+    "description": "••••constituidos de piezas relativamente móviles [2006.01]"
+  },
+  {
+    "code": "D05B 29/10",
+    "description": "••••con rodillos [2006.01]"
+  },
+  {
+    "code": "D05B 29/12",
+    "description": "••Fijación del pie prensador [2006.01]"
+  },
+  {
+    "code": "D05B 31/00",
+    "description": "Soporte para mantener o bajar la obra en las máquinas de picar el cuero [2006.01]"
+  },
+  {
+    "code": "D05B 31/02",
+    "description": "••Guías de ribetear (o de vira) [2006.01]"
+  },
+  {
+    "code": "D05B 33/00",
+    "description": "Dispositivos incorporados a las máquinas de coser para suministrar o retirar la obra [2006.01]"
+  },
+  {
+    "code": "D05B 33/02",
+    "description": "••y conectados, por un funcionamiento sincrónico, con los dispositivos de avance de la obra de la máquina de coser [2006.01]"
+  },
+  {
+    "code": "D05B 35/00",
+    "description": "Elementos de alimentación o elementos de manutención de la obra para máquinas de coser no previstos en otro lugar [2006.01]"
+  },
+  {
+    "code": "D05B 35/02",
+    "description": "••para facilitar el picado; Elementos de retorno del ribete; Guías-ribeteadoras [2006.01]"
+  },
+  {
+    "code": "D05B 35/04",
+    "description": "••••con útiles móviles [2006.01]"
+  },
+  {
+    "code": "D05B 35/06",
+    "description": "••para fijar las bandas, cintas, bandas estrechas o pasamanerías o para bordado [2006.01]"
+  },
+  {
+    "code": "D05B 35/08",
+    "description": "••para plisar, fruncir, cubrir o encañonar cintas o bordados; Dispositivos de plegado; Máquinas de aplanar; Pies fruncidores; Máquinas de estampar; Máquinas de rizar; Máquinas de encañonar [2006.01]"
+  },
+  {
+    "code": "D05B 35/10",
+    "description": "••Guías de orillos [2006.01]"
+  },
+  {
+    "code": "D05B 35/12",
+    "description": "••Indicadores para posicionar el trabajo, p. ej. con escalas graduadas [2006.01]"
+  },
+  {
+    "code": "D05B 37/00",
+    "description": "Dispositivos incorporados a las máquinas de coser para tallar, hundir, nervar o cortar (seccionamiento de los hilos de cosido D05B 65/00) [2006.01]"
+  },
+  {
+    "code": "D05B 37/02",
+    "description": "••Dispositivos para cortar bandas o nervar [2006.01]"
+  },
+  {
+    "code": "D05B 37/04",
+    "description": "••Dispositivos de corte [2006.01]"
+  },
+  {
+    "code": "D05B 37/06",
+    "description": "••••con útiles oscilantes [2006.01]"
+  },
+  {
+    "code": "D05B 37/08",
+    "description": "••••con útiles rotatorios [2006.01]"
+  },
+  {
+    "code": "D05B 37/10",
+    "description": "••••con útiles calentadores [2006.01]"
+  },
+  {
+    "code": "D05B 39/00",
+    "description": "Soportes de la obra para máquinas de coser (para el mando automático del movimiento de soporte a fin de obtener un trazado particular del cosido D05B 21/00; en general A41H 15/00) [2006.01]"
+  },
+  {
+    "code": "D05B 41/00",
+    "description": "Dispositivos de recogida de la obra para máquinas de coser [2006.01]"
+  },
+  {
+    "code": "D05B 43/00",
+    "description": "Conjuntos de agujas de bobina incorporados a las máquinas de coser [2006.01]"
+  },
+  {
+    "code": "D05B 45/00",
+    "description": "Adaptación de dispositivos de medida para determinar la longitud de hilos utilizados por las máquinas de coser (dispositivos de medida en las máquinas de bordar D05C, en general G01B) [2006.01]"
+  },
+  {
+    "code": "D05B 47/00",
+    "description": "Dispositivos de regulación de tensión del hilo de la aguja para máquinas de coser; Adaptaciones de aparatos de medida de la tensión [2006.01]"
+  },
+  {
+    "code": "D05B 47/02",
+    "description": "••Dispositivos de mando manual de la tensión del hilo [2006.01]"
+  },
+  {
+    "code": "D05B 47/04",
+    "description": "••Dispositivos de mando automático de tensión del hilo [2006.01]"
+  },
+  {
+    "code": "D05B 47/06",
+    "description": "••Adaptaciones de aparatos de medida de la tensión (aplicación de indicadores de la tensión en la manipulación de materiales finos o filamentosos B65H 59/40; para máquinas de bordar D05C 11/08; aparatos de medida de la tensión en sí G01L) [2006.01]"
+  },
+  {
+    "code": "D05B 49/00",
+    "description": "Dispositivos para levantar y tender el hilo de la aguja, p. ej. palancas para máquinas de coser [2006.01]"
+  },
+  {
+    "code": "D05B 49/02",
+    "description": "••mandados por medio de excéntricas o de articulación [2006.01]"
+  },
+  {
+    "code": "D05B 49/04",
+    "description": "••rotativos [2006.01]"
+  },
+  {
+    "code": "D05B 49/06",
+    "description": "••para las máquinas de picar el cuero [2006.01]"
+  },
+  {
+    "code": "D05B 51/00",
+    "description": "Adaptaciones de protector del hilo de aguja en máquinas de coser; Detectores de ruptura del hilo para máquinas de coser (para las máquinas de bordar D05C 11/00) [2006.01]"
+  },
+  {
+    "code": "D05B 53/00",
+    "description": "Mecanismos de guía para la puesta de hilo o del cordelillo para máquinas de coser; Dedos para la guía del hilo para máquinas de coser [2006.01]"
+  },
+  {
+    "code": "D05B 55/00",
+    "description": "Porta-agujas para máquinas de coser; Barras de agujas para máquinas de coser (agujas D05B 85/00) [2006.01]"
+  },
+  {
+    "code": "D05B 55/02",
+    "description": "••Dispositivos para fijar las agujas en las barras de agujas [2006.01]"
+  },
+  {
+    "code": "D05B 55/04",
+    "description": "••Dispositivos para poner las agujas en su lugar [2006.01]"
+  },
+  {
+    "code": "D05B 55/06",
+    "description": "••Guía-agujas; Protectores de agujas (dispositivos de protección de los dedos D05B 83/00) [2006.01]"
+  },
+  {
+    "code": "D05B 55/08",
+    "description": "••Estructuras de mando para agujas curvas [2006.01]"
+  },
+  {
+    "code": "D05B 55/10",
+    "description": "••Barras de agujas para las máquinas de coser de varias agujas [2006.01]"
+  },
+  {
+    "code": "D05B 55/12",
+    "description": "••••con disposición para hacer variar la distancia entre las agujas [2006.01]"
+  },
+  {
+    "code": "D05B 55/14",
+    "description": "••Mandos de barras de agujas [2006.01]"
+  },
+  {
+    "code": "D05B 55/16",
+    "description": "••••con disposición para el desembrague individual de las barras de agujas [2006.01]"
+  },
+  {
+    "code": "D05B 57/00",
+    "description": "Corchetes (tomadores de bucles) , p. ej. bucleadores, para máquinas de coser [2006.01]"
+  },
+  {
+    "code": "D05B 57/02",
+    "description": "••para las máquinas de coser con punto de cadeneta, p. ej. con movimiento oscilante [2006.01]"
+  },
+  {
+    "code": "D05B 57/04",
+    "description": "••••rotativos [2006.01]"
+  },
+  {
+    "code": "D05B 57/06",
+    "description": "••para las máquinas de coser a punto por encima [2006.01]"
+  },
+  {
+    "code": "D05B 57/08",
+    "description": "••para máquinas de coser con punto anudado [2006.01]"
+  },
+  {
+    "code": "D05B 57/10",
+    "description": "••••Lanzaderas [2006.01]"
+  },
+  {
+    "code": "D05B 57/12",
+    "description": "••••••oscilantes [2006.01]"
+  },
+  {
+    "code": "D05B 57/14",
+    "description": "••••••con corchetes rotatorios [2006.01]"
+  },
+  {
+    "code": "D05B 57/16",
+    "description": "••••••con cajas de canilla guiadas en un camino de rodamiento [2006.01]"
+  },
+  {
+    "code": "D05B 57/18",
+    "description": "••••••con cajas de canilla mantenidas por un capuchón móvil de protección [2006.01]"
+  },
+  {
+    "code": "D05B 57/20",
+    "description": "••••••con cajas de canilla mantenidas por un campo magnético [2006.01]"
+  },
+  {
+    "code": "D05B 57/22",
+    "description": "••••con canilla de la talla de un pequeño huso para el hilo inferior [2006.01]"
+  },
+  {
+    "code": "D05B 57/24",
+    "description": "••••••con el soporte del hilo inferior que se desplaza siguiendo un movimiento de deslizamiento controlado [2006.01]"
+  },
+  {
+    "code": "D05B 57/26",
+    "description": "••Porta-canillas o caja de canillas; Protección de porta-canillas o caja de canillas; Dispositivos de evacuación de la canilla [2006.01]"
+  },
+  {
+    "code": "D05B 57/28",
+    "description": "••Adaptaciones de canillas para alojar el hilo inferior [2006.01]"
+  },
+  {
+    "code": "D05B 57/30",
+    "description": "••Accionamiento para bucleadores [2006.01]"
+  },
+  {
+    "code": "D05B 57/32",
+    "description": "••••en las máquinas de coser con punto de cadeneta [2006.01]"
+  },
+  {
+    "code": "D05B 57/34",
+    "description": "••••en las máquinas a punto por encima [2006.01]"
+  },
+  {
+    "code": "D05B 57/36",
+    "description": "••••en las máquinas con punto anudado [2006.01]"
+  },
+  {
+    "code": "D05B 57/38",
+    "description": "••••••Accionamiento de la lanzadera [2006.01]"
+  },
+  {
+    "code": "D05B 59/00",
+    "description": "Adaptaciones de dispositivos de bobinado de la canilla o de cambio de canilla en máquinas de coser; Dispositivos indicadores o de mando asociados a estos dispositivos [2006.01]"
+  },
+  {
+    "code": "D05B 59/02",
+    "description": "••Dispositivos para determinar o indicar la longitud de hilo que queda todavía en la canilla [2006.01]"
+  },
+  {
+    "code": "D05B 59/04",
+    "description": "••Dispositivos para cambiar las canillas [2006.01]"
+  },
+  {
+    "code": "D05B 61/00",
+    "description": "Sostenedores de bucles; Extendedores de bucles para máquinas de coser; Dedos para formar el punto para máquinas de coser [2006.01]"
+  },
+  {
+    "code": "D05B 63/00",
+    "description": "Dispositivos asociados al hilo del bucleador de máquinas de coser, p. ej. para regular la tensión [2006.01]"
+  },
+  {
+    "code": "D05B 63/02",
+    "description": "••Palanca de levantamiento del hilo del bucleador [2006.01]"
+  },
+  {
+    "code": "D05B 63/04",
+    "description": "••Porta-hilo del bucleador [2006.01]"
+  },
+  {
+    "code": "D05B 65/00",
+    "description": "Dispositivos para seccionar el hilo de la aguja o el hilo inferior en máquinas de coser [2006.01]"
+  },
+  {
+    "code": "D05B 65/02",
+    "description": "••mandados por los mecanismos de picado [2006.01]"
+  },
+  {
+    "code": "D05B 65/04",
+    "description": "••mandados por la obra [2006.01]"
+  },
+  {
+    "code": "D05B 65/06",
+    "description": "••y para evacuar los extremos de los hilos seccionados [2006.01]"
+  },
+  {
+    "code": "D05B 67/00",
+    "description": "Dispositivos incorporados a las máquinas de coser, para lubrificar, parafinar o colorear los hilos [2006.01]"
+  },
+  {
+    "code": "D05B 69/00",
+    "description": "Dispositivos de accionamiento o dispositivos de control para máquinas de coser [2006.01]"
+  },
+  {
+    "code": "D05B 69/02",
+    "description": "••Accionamientos mecánicos [2006.01]"
+  },
+  {
+    "code": "D05B 69/04",
+    "description": "••••Accionamientos manuales [2006.01]"
+  },
+  {
+    "code": "D05B 69/06",
+    "description": "••••Accionamientos por pedales [2006.01]"
+  },
+  {
+    "code": "D05B 69/08",
+    "description": "••Accionamientos por fluido, p. ej. neumáticos [2006.01]"
+  },
+  {
+    "code": "D05B 69/10",
+    "description": "••Dispositivos eléctricos o electromagnéticos [2006.01]"
+  },
+  {
+    "code": "D05B 69/12",
+    "description": "••••que utilizan motores rotatorios eléctricos [2006.01]"
+  },
+  {
+    "code": "D05B 69/14",
+    "description": "••Dispositivos para cambiar de velocidad o invertir el sentido de rotación [2006.01]"
+  },
+  {
+    "code": "D05B 69/16",
+    "description": "••••mecánicos [2006.01]"
+  },
+  {
+    "code": "D05B 69/18",
+    "description": "••••eléctricos [2006.01]"
+  },
+  {
+    "code": "D05B 69/20",
+    "description": "••Dispositivos de control sensible al número de puntos efectuados [2006.01]"
+  },
+  {
+    "code": "D05B 69/22",
+    "description": "••Dispositivos para detener el accionamiento cuando los útiles de picado han alcanzado una posición predeterminada (sistemas de control por motor eléctrico, en general H02P) [2006.01]"
+  },
+  {
+    "code": "D05B 69/24",
+    "description": "••••Adaptaciones de dispositivos que indican o aseguran la posición de los útiles de picado [2006.01]"
+  },
+  {
+    "code": "D05B 69/26",
+    "description": "••••con medios automáticos para reducir la velocidad de accionamiento, p. ej. en uno o varios estadios [2006.01]"
+  },
+  {
+    "code": "D05B 69/28",
+    "description": "••Adaptaciones de dispositivos de servomandos de posicionamiento de útiles [2006.01]"
+  },
+  {
+    "code": "D05B 69/30",
+    "description": "••Partes constitutivas (medios de avance de la obra D05B 27/00; controles de barras de agujas D05B 55/14; accionamientos por bucleadores D05B 57/30) [2006.01]"
+  },
+  {
+    "code": "D05B 69/32",
+    "description": "••••Dispositivos para atenuar las vibraciones [2006.01]"
+  },
+  {
+    "code": "D05B 69/34",
+    "description": "••••Embragues por medio de un volante manual [2006.01]"
+  },
+  {
+    "code": "D05B 69/36",
+    "description": "••Dispositivos para detener el accionamiento cuando sobrevienen condiciones anormales, p. ej. rotura del hilo [2006.01]"
+  },
+  {
+    "code": "D05B 71/00",
+    "description": "Dispositivos de lubrificación o de enfriamiento para máquinas de coser [2006.01]"
+  },
+  {
+    "code": "D05B 71/02",
+    "description": "••Dispositivos de lubrificación del bucleador [2006.01]"
+  },
+  {
+    "code": "D05B 71/04",
+    "description": "••Dispositivos de enfriamiento de la aguja [2006.01]"
+  },
+  {
+    "code": "D05B 73/00",
+    "description": "Cárteres para máquinas de coser [2006.01]"
+  },
+  {
+    "code": "D05B 73/02",
+    "description": "••Cárteres superiores [2006.01]"
+  },
+  {
+    "code": "D05B 73/04",
+    "description": "••Cárteres inferiores [2006.01]"
+  },
+  {
+    "code": "D05B 73/06",
+    "description": "••••para máquinas de coser del tipo de brazo libre [2006.01]"
+  },
+  {
+    "code": "D05B 73/08",
+    "description": "••••para máquinas de coser del tipo de columna [2006.01]"
+  },
+  {
+    "code": "D05B 73/10",
+    "description": "••••Dispositivos para transformar las máquinas de coser de brazo libre en máquinas planas [2006.01]"
+  },
+  {
+    "code": "D05B 73/12",
+    "description": "••••Correderas; Placas de agujas [2006.01]"
+  },
+  {
+    "code": "D05B 75/00",
+    "description": "Chasis, pedestales, mesas u otros mobiliarios concebidos para sostener las máquinas de coser (aspectos de mobiliario A47B, A47C) [2006.01]"
+  },
+  {
+    "code": "D05B 75/02",
+    "description": "••para las máquinas de coser de cabeza entrante [2006.01]"
+  },
+  {
+    "code": "D05B 75/04",
+    "description": "••con dispositivos para amortiguar el ruido [2006.01]"
+  },
+  {
+    "code": "D05B 75/06",
+    "description": "••Dispositivos, p. ej. bisagras para subir los cárteres de las máquinas de coser, en chasis, en pedestales o en mesas [2006.01]"
+  },
+  {
+    "code": "D05B 77/00",
+    "description": "Tapaderas, cofres portátiles o maletas para máquinas de coser [2006.01]"
+  },
+  {
+    "code": "D05B 79/00",
+    "description": "Incorporación o adaptación de un equipo de iluminación para máquinas de coser [2006.01]"
+  },
+  {
+    "code": "D05B 81/00",
+    "description": "Máquinas de coser en las cuales están integrados dispositivos que sirven para otros trabajos distintos del picado, p. ej. para soplar el aire o pulverizar [2006.01]"
+  },
+  {
+    "code": "D05B 83/00",
+    "description": "Accesorios de seguridad o dispositivos similares de protección, para evitar que se hiera el operario de máquinas de coser (dispositivos de seguridad para las máquinas en general F16P) [2006.01]"
+  },
+  {
+    "code": "D05B 85/00",
+    "description": "Agujas (agujas quirúrgicas A61B 17/06; fabricación de agujas B21G 1/00) [2006.01]"
+  },
+  {
+    "code": "D05B 85/02",
+    "description": "••con ojos hendidos [2006.01]"
+  },
+  {
+    "code": "D05B 85/04",
+    "description": "••Agujas con resorte o de ganchillo [2006.01]"
+  },
+  {
+    "code": "D05B 85/06",
+    "description": "••Agujas curvas [2006.01]"
+  },
+  {
+    "code": "D05B 85/08",
+    "description": "••Agujas flexibles [2006.01]"
+  },
+  {
+    "code": "D05B 85/10",
+    "description": "••Agujas huecas [2006.01]"
+  },
+  {
+    "code": "D05B 85/12",
+    "description": "••Agujas endurecidas [2006.01]"
+  },
+  {
+    "code": "D05B 85/14",
+    "description": "••Agujas de lengüeta [2006.01]"
+  },
+  {
+    "code": "D05B 87/00",
+    "description": "Dispositivos de enhebrado de la aguja [2006.01]"
+  },
+  {
+    "code": "D05B 87/02",
+    "description": "••con medios mecánicos para hacer pasar el hilo a través del ojo de la aguja [2006.01]"
+  },
+  {
+    "code": "D05B 87/04",
+    "description": "••con dispositivos ópticos para facilitar el enfilado [2006.01]"
+  },
+  {
+    "code": "D05B 89/00",
+    "description": "Dispositivos para descoser los cosidos [2006.01]"
+  },
+  {
+    "code": "D05B 91/00",
+    "description": "Utiles, instrumentos o accesorios para el cosido a mano (agujas, enfiladores de agujas D05B 85/00, D05B 87/00; accesorios para la industria del vestido A41H) [2006.01]"
+  },
+  {
+    "code": "D05B 91/02",
+    "description": "••Punzones [2006.01]"
+  },
+  {
+    "code": "D05B 91/04",
+    "description": "••Dedales de coser; Protectores de dedos; Protectores de manos [2006.01]"
+  },
+  {
+    "code": "D05B 91/06",
+    "description": "••Porta-obras o soportes [2006.01]"
+  },
+  {
+    "code": "D05B 91/08",
+    "description": "••••Bucles; Huevos para zurcir [2006.01]"
+  },
+  {
+    "code": "D05B 91/10",
+    "description": "••••Círculos o cuadros (para el bordado D05C) [2006.01]"
+  },
+  {
+    "code": "D05B 91/12",
+    "description": "••Cajas de útiles [2006.01]"
+  },
+  {
+    "code": "D05B 91/14",
+    "description": "••Broches porta-bobina [2006.01]"
+  },
+  {
+    "code": "D05B 91/16",
+    "description": "••Receptáculos para las bobinas de hilo [2006.01]"
+  },
+  {
+    "code": "D05B 93/00",
+    "description": "Puntos; Costuras picadas para máquinas manuales [2006.01]"
+  },
+  {
+    "code": "D05B 93/02",
+    "description": "••reforzadas por elementos auxiliares, p. ej. remaches, corchetes [2006.01]"
+  },
+  {
+    "code": "D05B 95/00",
+    "description": "Operaciones de preparación o terminación unidas a los trabajos de cosido a mano [2006.01]"
+  },
+  {
+    "code": "D05B 95/04",
+    "description": "••Suavizado de los materiales antes del picado [2006.01]"
+  },
+  {
+    "code": "D05B 95/06",
+    "description": "••Aplanamiento, batido o presión de los cosidos (en la fabricación de calzado A43D 8/44) [2006.01]"
+  },
+  {
+    "code": "D05B 97/00",
+    "description": "Métodos de cosido a mano o aparato para un trabajo particular o no previsto en otro lugar [2006.01]"
+  },
+  {
+    "code": "D05B 97/02",
+    "description": "••Aparatos guiados a mano [2006.01]"
+  },
+  {
+    "code": "D05B 97/04",
+    "description": "••para zurcir o remendar [2006.01]"
+  },
+  {
+    "code": "D05B 97/06",
+    "description": "••••que utilizan aparatos provistos de agujas con resortes o con barbas [2006.01]"
+  },
+  {
+    "code": "D05B 97/08",
+    "description": "••que utilizan hilos especiales o mecánicos [2006.01]"
+  },
+  {
+    "code": "D05B 97/10",
+    "description": "••para fijar botones o cierres [2006.01]"
+  },
+  {
+    "code": "D05B 97/12",
+    "description": "••para fijar trozos o pequeñas partes de tejido [2006.01]"
+  }
+]

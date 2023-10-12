@@ -1,0 +1,890 @@
+[
+  {
+    "code": "H01F 1/00",
+    "description": "Imanes o cuerpos magnéticos, caracterizados por los materiales magnéticos pertinentes; Empleo de materiales específicos por sus propiedades magnéticas [2006.01]"
+  },
+  {
+    "code": "H01F 1/01",
+    "description": "••de materiales inorgánicos (H01F 1/44 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01F 1/03",
+    "description": "••••caracterizados por su coercitividad [2006.01]"
+  },
+  {
+    "code": "H01F 1/032",
+    "description": "••••••de materiales magnéticos duros [2006.01]"
+  },
+  {
+    "code": "H01F 1/04",
+    "description": "••••••••metales o aleaciones [2006.01]"
+  },
+  {
+    "code": "H01F 1/047",
+    "description": "••••••••••Aleaciones caracterizadas por su composición [2006.01]"
+  },
+  {
+    "code": "H01F 1/053",
+    "description": "••••••••••••que contienen metales de tierras raras [2006.01]"
+  },
+  {
+    "code": "H01F 1/055",
+    "description": "••••••••••••••y metales magnéticos de transición, p. ej. SmCo5 [2006.01]"
+  },
+  {
+    "code": "H01F 1/057",
+    "description": "••••••••••••••••y elementos del grupo IIIa, p. ej. Nd2Fe14B [2006.01]"
+  },
+  {
+    "code": "H01F 1/058",
+    "description": "••••••••••••••••y elementos del grupo IVa, p. ej. Gd2Fe14C [2006.01]"
+  },
+  {
+    "code": "H01F 1/059",
+    "description": "••••••••••••••••y elementos del grupo Va, p. ej. Sm2Fe17N2 [2006.01]"
+  },
+  {
+    "code": "H01F 1/06",
+    "description": "••••••••••en forma de partículas, p. ej. polvo (H01F 1/047 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01F 1/08",
+    "description": "••••••••••••comprimidos, sinterizados o aglomerados [2006.01]"
+  },
+  {
+    "code": "H01F 1/09",
+    "description": "••••••••mezclas de partículas metálicas y no metálicas; partículas metálicas que tienen un revestimiento de óxido [2006.01]"
+  },
+  {
+    "code": "H01F 1/10",
+    "description": "••••••••sustancias no metálicas, p. ej. ferritas [2006.01]"
+  },
+  {
+    "code": "H01F 1/11",
+    "description": "••••••••••en forma de partículas [2006.01]"
+  },
+  {
+    "code": "H01F 1/113",
+    "description": "••••••••••••con un agente ligador [2006.01]"
+  },
+  {
+    "code": "H01F 1/117",
+    "description": "••••••••••••••Cuerpos flexibles [2006.01]"
+  },
+  {
+    "code": "H01F 1/12",
+    "description": "••••••de materiales magnéticos dulces [2006.01]"
+  },
+  {
+    "code": "H01F 1/14",
+    "description": "••••••••metales o aleaciones [2006.01]"
+  },
+  {
+    "code": "H01F 1/147",
+    "description": "••••••••••Aleaciones caracterizadas por su composición [2006.01]"
+  },
+  {
+    "code": "H01F 1/153",
+    "description": "••••••••••••Aleaciones metálicas amorfas, p. ej. metales vítreos [2006.01]"
+  },
+  {
+    "code": "H01F 1/16",
+    "description": "••••••••••en forma de hojas (H01F 1/147 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01F 1/18",
+    "description": "••••••••••••con revestimiento aislante [2006.01]"
+  },
+  {
+    "code": "H01F 1/20",
+    "description": "••••••••••en forma de partículas, p. ej. en polvo (H01F 1/147 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01F 1/22",
+    "description": "••••••••••••comprimidos, sinterizados o aglomerados [2006.01]"
+  },
+  {
+    "code": "H01F 1/24",
+    "description": "••••••••••••••estando las partículas aisladas [2006.01]"
+  },
+  {
+    "code": "H01F 1/26",
+    "description": "••••••••••••••••por medio de sustancias orgánicas macromoleculares [2006.01]"
+  },
+  {
+    "code": "H01F 1/28",
+    "description": "••••••••••••dispersadas o suspendidas en un agente ligador [2006.01]"
+  },
+  {
+    "code": "H01F 1/33",
+    "description": "••••••••mezclas de partículas metálicas o no metálicas; partículas metálicas que tienen revestimiento de óxido [2006.01]"
+  },
+  {
+    "code": "H01F 1/34",
+    "description": "••••••••sustancias no metálicas, p. ej. ferritas [2006.01]"
+  },
+  {
+    "code": "H01F 1/36",
+    "description": "••••••••••en forma de partículas [2006.01]"
+  },
+  {
+    "code": "H01F 1/37",
+    "description": "••••••••••••con un agente ligador [2006.01]"
+  },
+  {
+    "code": "H01F 1/375",
+    "description": "••••••••••••••Cuerpos flexibles [2006.01]"
+  },
+  {
+    "code": "H01F 1/38",
+    "description": "••••••••••amorfas, p. ej. óxidos amorfos [2006.01]"
+  },
+  {
+    "code": "H01F 1/40",
+    "description": "••••de materiales semiconductores magnéticos, p. ej. CdCr 2S 4 [2006.01]"
+  },
+  {
+    "code": "H01F 1/42",
+    "description": "••de materiales orgánicos u organometálicos (H01F 1/44 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01F 1/44",
+    "description": "••de líquidos magnéticos, p. ej. ferrofluidos [2006.01]"
+  },
+  {
+    "code": "H01F 3/00",
+    "description": "Núcleos, culatas o inducidos [2006.01]"
+  },
+  {
+    "code": "H01F 3/02",
+    "description": "••hechos de hojas [2006.01]"
+  },
+  {
+    "code": "H01F 3/04",
+    "description": "••hechos de tiras o cintas [2006.01]"
+  },
+  {
+    "code": "H01F 3/06",
+    "description": "••hechos de hilos [2006.01]"
+  },
+  {
+    "code": "H01F 3/08",
+    "description": "••hechos de polvo [2006.01]"
+  },
+  {
+    "code": "H01F 3/10",
+    "description": "••Disposiciones compuestas de circuitos magnéticos [2006.01]"
+  },
+  {
+    "code": "H01F 3/12",
+    "description": "••••Circuitos magnéticos en derivación [2006.01]"
+  },
+  {
+    "code": "H01F 3/14",
+    "description": "••••Constricciones; Huecos, p. ej. entrehierros (en los circuitos magnéticos en derivación H01F 3/12) [2006.01]"
+  },
+  {
+    "code": "H01F 5/00",
+    "description": "Bobinas de inducción (bobinas superconductoras H01F 6/06; inductancias fijas del tipo por señal H01F 17/00) [2006.01]"
+  },
+  {
+    "code": "H01F 5/02",
+    "description": "••arrolladas sobre soportes no magnéticos, p. ej. moldes [2006.01]"
+  },
+  {
+    "code": "H01F 5/04",
+    "description": "••Disposiciones de conexiones eléctricas en las bobinas, p. ej. hilos de conexión [2006.01]"
+  },
+  {
+    "code": "H01F 5/06",
+    "description": "••Aislamiento de arrollamientos [2006.01]"
+  },
+  {
+    "code": "H01F 6/00",
+    "description": "Imanes superconductores; Bobinas superconductoras [2006.01]"
+  },
+  {
+    "code": "H01F 6/02",
+    "description": "••Extinción de la superconductividad; Disposiciones de protección durante la fase de transición hacia el estado de conductividad normal [2006.01]"
+  },
+  {
+    "code": "H01F 6/04",
+    "description": "••Refrigeración [2006.01]"
+  },
+  {
+    "code": "H01F 6/06",
+    "description": "••Bobinas, p. ej. disposiciones para el arrollamiento, aislamiento, envoltura o los bornes de las bobinas [2006.01]"
+  },
+  {
+    "code": "H01F 7/00",
+    "description": "Imanes (imanes superconductores H01F 6/00) [2006.01]"
+  },
+  {
+    "code": "H01F 7/02",
+    "description": "••Imanes permanentes [2006.01]"
+  },
+  {
+    "code": "H01F 7/04",
+    "description": "••••Medios para liberar la fuerza atractiva [2006.01]"
+  },
+  {
+    "code": "H01F 7/06",
+    "description": "••Electroimanes; Actuadores que incorporan electroimanes [2006.01]"
+  },
+  {
+    "code": "H01F 7/08",
+    "description": "••••con armaduras [2006.01]"
+  },
+  {
+    "code": "H01F 7/10",
+    "description": "••••••especialmente adaptados para corriente alterna [2006.01]"
+  },
+  {
+    "code": "H01F 7/11",
+    "description": "••••••••reduciendo o eliminando los efectos de las corrientes de Foucault [2006.01]"
+  },
+  {
+    "code": "H01F 7/12",
+    "description": "••••••••teniendo dispositivos antivibratorios [2006.01]"
+  },
+  {
+    "code": "H01F 7/121",
+    "description": "••••••Guiado o posicionamiento de armaduras, p. ej. retención de las armaduras en su posición extrema [2006.01]"
+  },
+  {
+    "code": "H01F 7/122",
+    "description": "••••••••por medio de un imán permanente [2006.01]"
+  },
+  {
+    "code": "H01F 7/123",
+    "description": "••••••••por medio de una bobina auxiliar [2006.01]"
+  },
+  {
+    "code": "H01F 7/124",
+    "description": "••••••••por medio de pestillos mecánicos, p. ej. trinquete [2006.01]"
+  },
+  {
+    "code": "H01F 7/126",
+    "description": "••••••Soporte o montaje [2006.01]"
+  },
+  {
+    "code": "H01F 7/127",
+    "description": "••••••Ensamblado [2006.01]"
+  },
+  {
+    "code": "H01F 7/128",
+    "description": "••••••Encapsulado, fijación a la envoltura o sellado [2006.01]"
+  },
+  {
+    "code": "H01F 7/129",
+    "description": "••••••••de armaduras [2006.01]"
+  },
+  {
+    "code": "H01F 7/13",
+    "description": "••••••caracterizado por la característica de fuerza de atracción [2006.01]"
+  },
+  {
+    "code": "H01F 7/14",
+    "description": "••••••Armaduras pivotantes (H01F 7/17 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01F 7/16",
+    "description": "••••••Armaduras móviles rectilíneamente (H01F 7/17 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01F 7/17",
+    "description": "••••••Armaduras con movimiento rectilíneo y pivotante [2006.01]"
+  },
+  {
+    "code": "H01F 7/18",
+    "description": "••••••Circuitos dispuestos para obtener las características de funcionamiento deseadas, p. ej. para un funcionamiento lento, para excitación sucesiva de arrollamientos, para excitación a gran velocidad de los arrollamientos [2006.01]"
+  },
+  {
+    "code": "H01F 7/20",
+    "description": "••••sin armadura [2006.01]"
+  },
+  {
+    "code": "H01F 10/00",
+    "description": "Películas magnéticas delgadas, p. ej. de estructura de un dominio [2006.01]"
+  },
+  {
+    "code": "H01F 10/06",
+    "description": "••caracterizadas por el contacto físico o acoplamiento con el conductor asociado o de conexión [2006.01]"
+  },
+  {
+    "code": "H01F 10/08",
+    "description": "••caracterizadas por las capas magnéticas (aplicación de películas magnéticas a los sustratos H01F 41/14) [2006.01]"
+  },
+  {
+    "code": "H01F 10/10",
+    "description": "••••caracterizadas por la composición [2006.01]"
+  },
+  {
+    "code": "H01F 10/12",
+    "description": "••••••Metales o aleaciones [2006.01]"
+  },
+  {
+    "code": "H01F 10/13",
+    "description": "••••••••Aleaciones metálicas amorfas, p. ej. metales vítreos [2006.01]"
+  },
+  {
+    "code": "H01F 10/14",
+    "description": "••••••••que contienen hierro o níquel (H01F 10/13, H01F 10/16 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H01F 10/16",
+    "description": "••••••••que contienen cobalto (H01F 10/13 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01F 10/18",
+    "description": "••••••Cuerpos compuestos [2006.01]"
+  },
+  {
+    "code": "H01F 10/187",
+    "description": "••••••••Compuestos amorfos [2006.01]"
+  },
+  {
+    "code": "H01F 10/193",
+    "description": "••••••••Compuestos semiconductores magnéticos [2006.01]"
+  },
+  {
+    "code": "H01F 10/20",
+    "description": "••••••••Ferritas [2006.01]"
+  },
+  {
+    "code": "H01F 10/22",
+    "description": "••••••••••Ortoferritas [2006.01]"
+  },
+  {
+    "code": "H01F 10/24",
+    "description": "••••••••••Granate [2006.01]"
+  },
+  {
+    "code": "H01F 10/26",
+    "description": "••caracterizados por el sustrato o por las capas intermedias (H01F 10/32 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01F 10/28",
+    "description": "••••caracterizadas por la composición del sustrato [2006.01]"
+  },
+  {
+    "code": "H01F 10/30",
+    "description": "••••caracterizadas por la composición de las capas intermedias [2006.01]"
+  },
+  {
+    "code": "H01F 10/32",
+    "description": "••Multicapas acopladas por cambio de spin, p. ej. superredes con estructura nanométrica [2006.01]"
+  },
+  {
+    "code": "H01F 13/00",
+    "description": "Aparatos o procedimientos para la imantación o para la desimantación [2006.01]"
+  },
+  {
+    "code": "H01F 17/00",
+    "description": "Inductancias fijas del tipo señal [2006.01]"
+  },
+  {
+    "code": "H01F 17/02",
+    "description": "••sin núcleo magnético [2006.01]"
+  },
+  {
+    "code": "H01F 17/03",
+    "description": "••••con armazón de cerámica [2006.01]"
+  },
+  {
+    "code": "H01F 17/04",
+    "description": "••con núcleo magnético [2006.01]"
+  },
+  {
+    "code": "H01F 17/06",
+    "description": "••••con núcleo sustancialmente cerrado sobre sí mismo, p. ej. toro [2006.01]"
+  },
+  {
+    "code": "H01F 17/08",
+    "description": "••••••Bobinas de carga para circuitos de telecomunicación [2006.01]"
+  },
+  {
+    "code": "H01F 19/00",
+    "description": "Transformadores fijos o inductancias mutuas del tipo señal (H01F 36/00 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01F 19/02",
+    "description": "••Transformadores o inductancias mutuas de baja frecuencia, es decir, no apropiadas para manejo con frecuencias que están considerablemente alejadas de la banda acústica [2006.01]"
+  },
+  {
+    "code": "H01F 19/04",
+    "description": "••Transformadores o inductancias mutuas apropiadas para el manejo de frecuencias considerablemente alejadas de la banda acústica [2006.01]"
+  },
+  {
+    "code": "H01F 19/06",
+    "description": "••••Transformadores de banda ancha, p. ej. apropiados para el manejo de frecuencias bastante bajas de la zona acústica [2006.01]"
+  },
+  {
+    "code": "H01F 19/08",
+    "description": "••••Transformadores con polarización magnética, p. ej. para el tratamiento de impulsos [2006.01]"
+  },
+  {
+    "code": "H01F 21/00",
+    "description": "Inductancias variables o transformadores variables del tipo señal (H01F 36/00 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01F 21/02",
+    "description": "••variables continuamente, p. ej. variómetros [2006.01]"
+  },
+  {
+    "code": "H01F 21/04",
+    "description": "••••por desplazamiento relativo de espiras o de partes de arrollamientos [2006.01]"
+  },
+  {
+    "code": "H01F 21/06",
+    "description": "••••por desplazamiento del núcleo o parte del núcleo respecto al arrollamiento o a los arrollamientos en el conjunto [2006.01]"
+  },
+  {
+    "code": "H01F 21/08",
+    "description": "••••por variación de la permeabilidad del núcleo, p. ej. por variación de la polarización magnética [2006.01]"
+  },
+  {
+    "code": "H01F 21/10",
+    "description": "••••por medio de un blindaje móvil [2006.01]"
+  },
+  {
+    "code": "H01F 21/12",
+    "description": "••variables discontinuamente, p. ej. tomas [2006.01]"
+  },
+  {
+    "code": "H01F 27/00",
+    "description": "Detalles de transformadores o de inductancias en general [2006.01]"
+  },
+  {
+    "code": "H01F 27/02",
+    "description": "••Envolturas [2006.01]"
+  },
+  {
+    "code": "H01F 27/04",
+    "description": "••••Pasos de conductores o ejes a través de envolturas, p. ej. para dispositivos de cambio de tomas [2006.01]"
+  },
+  {
+    "code": "H01F 27/06",
+    "description": "••Montajes, soportes o suspensiones de transformadores, reactancias o bobinas de choque [2006.01]"
+  },
+  {
+    "code": "H01F 27/08",
+    "description": "••Refrigeración; Ventilación [2006.01]"
+  },
+  {
+    "code": "H01F 27/10",
+    "description": "••••Refrigeración por líquidos [2006.01]"
+  },
+  {
+    "code": "H01F 27/12",
+    "description": "••••••Refrigeración por aceite [2006.01]"
+  },
+  {
+    "code": "H01F 27/14",
+    "description": "••••••••Cámaras de expansión; Conservadores de aceite; Almohadas de gas; Disposiciones para la purificación, el secado o el relleno [2006.01]"
+  },
+  {
+    "code": "H01F 27/16",
+    "description": "••••••Refrigeración por agua [2006.01]"
+  },
+  {
+    "code": "H01F 27/18",
+    "description": "••••••por evaporación de líquidos [2006.01]"
+  },
+  {
+    "code": "H01F 27/20",
+    "description": "••••Refrigeración por gases especiales o por aire no ambiental [2006.01]"
+  },
+  {
+    "code": "H01F 27/22",
+    "description": "••••Refrigeración por conducción de calor a través de elementos de relleno sólidos o en polvo [2006.01]"
+  },
+  {
+    "code": "H01F 27/23",
+    "description": "••Protección contra la corrosión [2006.01]"
+  },
+  {
+    "code": "H01F 27/24",
+    "description": "••Núcleos magnéticos [2006.01]"
+  },
+  {
+    "code": "H01F 27/245",
+    "description": "••••fabricados a partir de chapas, p. ej. de grano orientado (H01F 27/26 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01F 27/25",
+    "description": "••••fabricados a partir de bandas o de cintas (H01F 27/26 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01F 27/255",
+    "description": "••••fabricados a partir de partículas (H01F 27/26 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01F 27/26",
+    "description": "••••Fijación de las partes del núcleo entre sí; Fijación o montaje del núcleo en la envoltura o sobre un soporte [2006.01]"
+  },
+  {
+    "code": "H01F 27/28",
+    "description": "••Bobinas; Arrollamientos; Conexiones conductoras [2006.01]"
+  },
+  {
+    "code": "H01F 27/29",
+    "description": "••••Terminales; Disposiciones de las tomas [2006.01]"
+  },
+  {
+    "code": "H01F 27/30",
+    "description": "••••Fijación o sujeción de bobinas, arrollamientos o partes de ellas entre sí; Fijación o montaje de bobinas o arrollamientos sobre el núcleo, en las envolturas o sobre otros soportes [2006.01]"
+  },
+  {
+    "code": "H01F 27/32",
+    "description": "••••Aislamiento de bobinas, arrollamientos o de sus elementos [2006.01]"
+  },
+  {
+    "code": "H01F 27/33",
+    "description": "••Disposiciones para el amortiguamiento del ruido [2006.01]"
+  },
+  {
+    "code": "H01F 27/34",
+    "description": "••Medios especiales para evitar o reducir efectos eléctricos o magnéticos indeseables, p. ej. pérdidas en vacío, corrientes reactivas, armónicos, oscilaciones, campos de fuga [2006.01]"
+  },
+  {
+    "code": "H01F 27/36",
+    "description": "••••Blindaje o pantallas eléctricas o magnéticas (blindajes móviles para hacer variar la inductancia H01F 21/10) [2006.01]"
+  },
+  {
+    "code": "H01F 27/38",
+    "description": "••••Organos de núcleos auxiliares; Bobinas o arrollamientos auxiliares [2006.01]"
+  },
+  {
+    "code": "H01F 27/40",
+    "description": "••Asociación estructural de componentes eléctricos incorporados, p. ej. fusibles [2006.01]"
+  },
+  {
+    "code": "H01F 27/42",
+    "description": "••Circuitos especialmente adaptados para modificar o compensar las características eléctricas de los transformadores, reactancias o bobinas de choque [2006.01]"
+  },
+  {
+    "code": "H01F 29/00",
+    "description": "Transformadores variables o inductancias variables no cubiertos por el grupo H01F 21/00 [2006.01]"
+  },
+  {
+    "code": "H01F 29/02",
+    "description": "••con toma sobre las bobinas o arrollamientos; con posibilidades de reagrupamiento o de interconexión de los arrollamientos [2006.01]"
+  },
+  {
+    "code": "H01F 29/04",
+    "description": "••••con posibilidad de cambiar la toma sin interrumpir la corriente de carga [2006.01]"
+  },
+  {
+    "code": "H01F 29/06",
+    "description": "••con colector de corriente deslizante o rodante sobre o a lo largo del arrollamiento [2006.01]"
+  },
+  {
+    "code": "H01F 29/08",
+    "description": "••con núcleo, bobina, arrollamiento o pantalla móvil para compensar una variación de tensión o un desfasaje, p. ej. reguladores de inducción [2006.01]"
+  },
+  {
+    "code": "H01F 29/10",
+    "description": "••••con partes de circuito magnético móviles [2006.01]"
+  },
+  {
+    "code": "H01F 29/12",
+    "description": "••••con bobinas, arrollamientos o partes de ellos móviles; con pantalla móvil [2006.01]"
+  },
+  {
+    "code": "H01F 29/14",
+    "description": "••con polarización magnética variable [2006.01]"
+  },
+  {
+    "code": "H01F 30/00",
+    "description": "Transformadores fijos no cubiertos por el grupo H01F 19/00 [2006.01]"
+  },
+  {
+    "code": "H01F 30/02",
+    "description": "••Autotransformadores [2006.01]"
+  },
+  {
+    "code": "H01F 30/04",
+    "description": "••con dos o más arrollamientos secundarios, cada uno alimentando una carga separada, p. ej. para la alimentación de postes radio-eléctricos [2006.01]"
+  },
+  {
+    "code": "H01F 30/06",
+    "description": "••caracterizados por la estructura [2006.01]"
+  },
+  {
+    "code": "H01F 30/08",
+    "description": "••••sin núcleo magnético [2006.01]"
+  },
+  {
+    "code": "H01F 30/10",
+    "description": "••••Transformadores monofásicos (H01F 30/16 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01F 30/12",
+    "description": "••••Transformadores bifásicos, trifásicos o polifásicos [2006.01]"
+  },
+  {
+    "code": "H01F 30/14",
+    "description": "••••••para el cambio del número de fases [2006.01]"
+  },
+  {
+    "code": "H01F 30/16",
+    "description": "••••Transformadores toroidales [2006.01]"
+  },
+  {
+    "code": "H01F 36/00",
+    "description": "Transformadores provistos de arrollamientos superconductores o de arrollamientos que trabajan a temperaturas criogénicas [2006.01]"
+  },
+  {
+    "code": "H01F 37/00",
+    "description": "Inductancias fijas no cubiertas por el grupo H01F 17/00 [2006.01]"
+  },
+  {
+    "code": "H01F 38/00",
+    "description": "Adaptaciones de transformadores o inductancias a funciones o aplicaciones específicas [2006.01]"
+  },
+  {
+    "code": "H01F 38/02",
+    "description": "••para funcionamiento no lineal [2006.01]"
+  },
+  {
+    "code": "H01F 38/04",
+    "description": "••••para modificar la frecuencia [2006.01]"
+  },
+  {
+    "code": "H01F 38/06",
+    "description": "••••para modificar la forma de onda [2006.01]"
+  },
+  {
+    "code": "H01F 38/08",
+    "description": "••Transformadores o inductancias con fugas elevadas [2006.01]"
+  },
+  {
+    "code": "H01F 38/10",
+    "description": "••••Inductancias estabilizadoras, p. ej. para lámparas de descarga [2006.01]"
+  },
+  {
+    "code": "H01F 38/12",
+    "description": "••Ignición, p. ej. para motores de combustión interna [2006.01]"
+  },
+  {
+    "code": "H01F 38/14",
+    "description": "••Acoplamientos inductivos [2006.01]"
+  },
+  {
+    "code": "H01F 38/16",
+    "description": "••Transformadores en cascadas, p. ej. para la utilización con muy alta tensión [2006.01]"
+  },
+  {
+    "code": "H01F 38/18",
+    "description": "••Transformadores rotativos [2006.01]"
+  },
+  {
+    "code": "H01F 38/20",
+    "description": "••Transformadores de medida [2006.01]"
+  },
+  {
+    "code": "H01F 38/22",
+    "description": "••••para corriente alterna monofásica [2006.01]"
+  },
+  {
+    "code": "H01F 38/24",
+    "description": "••••••Transformadores de tensión [2006.01]"
+  },
+  {
+    "code": "H01F 38/26",
+    "description": "••••••••Construcción [2006.01]"
+  },
+  {
+    "code": "H01F 38/28",
+    "description": "••••••Transformadores de intensidad [2006.01]"
+  },
+  {
+    "code": "H01F 38/30",
+    "description": "••••••••Construcción [2006.01]"
+  },
+  {
+    "code": "H01F 38/32",
+    "description": "••••••••Disposiciones de circuitos [2006.01]"
+  },
+  {
+    "code": "H01F 38/34",
+    "description": "••••••Transformadores de tensión y de intensidad combinados [2006.01]"
+  },
+  {
+    "code": "H01F 38/36",
+    "description": "••••••••Construcción [2006.01]"
+  },
+  {
+    "code": "H01F 38/38",
+    "description": "••••para corriente alterna polifásica [2006.01]"
+  },
+  {
+    "code": "H01F 38/40",
+    "description": "••••para corriente continua [2006.01]"
+  },
+  {
+    "code": "H01F 38/42",
+    "description": "••Transformadores de retroceso [2006.01]"
+  },
+  {
+    "code": "H01F 41/00",
+    "description": "Aparatos o procedimientos especialmente adaptados a la fabricación o al montaje de imanes, inductancias o transformadores; Aparatos o procedimientos especialmente adaptados a la fabricación de materiales caracterizados por sus propiedades magnéticas [2006.01]"
+  },
+  {
+    "code": "H01F 41/02",
+    "description": "••para la fabricación de núcleos, bobinas o imanes (H01F 41/14 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01F 41/04",
+    "description": "••••para fabricar bobinas [2006.01]"
+  },
+  {
+    "code": "H01F 41/06",
+    "description": "••••••Arrollamiento de bobinas [2016.01]"
+  },
+  {
+    "code": "H01F 41/061",
+    "description": "••••••••Arrollamiento de hilos conductores planos o láminas [2016.01]"
+  },
+  {
+    "code": "H01F 41/063",
+    "description": "••••••••••con aislamiento [2016.01]"
+  },
+  {
+    "code": "H01F 41/064",
+    "description": "••••••••Arrollamiento de hilos conductores no planos, p. ej. varillas, cables o cordones [2016.01]"
+  },
+  {
+    "code": "H01F 41/066",
+    "description": "••••••••••con aislamiento [2016.01]"
+  },
+  {
+    "code": "H01F 41/068",
+    "description": "••••••••••••con el material en forma de tira o banda [2016.01]"
+  },
+  {
+    "code": "H01F 41/069",
+    "description": "••••••••••Arrollamiento de dos o más hilos, p. ej. arrollamiento bifilar [2016.01]"
+  },
+  {
+    "code": "H01F 41/07",
+    "description": "••••••••••••Torsión [2016.01]"
+  },
+  {
+    "code": "H01F 41/071",
+    "description": "••••••••Arrollamiento de bobinas de forma especial (arrollamiento de conductores sobre moldes o núcleos cerrados  H01F 41/08) [2016.01]"
+  },
+  {
+    "code": "H01F 41/073",
+    "description": "••••••••••Arrollamiento sobre moldes alargados [2016.01]"
+  },
+  {
+    "code": "H01F 41/074",
+    "description": "••••••••••Arrollamiento de bobinas planas [2016.01]"
+  },
+  {
+    "code": "H01F 41/076",
+    "description": "••••••••Formación de cintas o terminales a la vez que se bobina, p. ej. envolviendo o soldando el hilo sobre ejes, o mediante formación directa de los terminales sobre el hilo [2016.01]"
+  },
+  {
+    "code": "H01F 41/077",
+    "description": "••••••••Deformación de la sección transversal o la forma del material bobinado mientras se arrolla [2016.01]"
+  },
+  {
+    "code": "H01F 41/079",
+    "description": "••••••••Medida se las características eléctricas mientras se bobina [2016.01]"
+  },
+  {
+    "code": "H01F 41/08",
+    "description": "••••••••Arrollamiento de conductores sobre moldes o núcleos cerrados, p. ej. enhebrado de conductores a través de núcleos toroidales [2006.01]"
+  },
+  {
+    "code": "H01F 41/082",
+    "description": "••••••••Dispositivos para la guía o posicionamiento del material bobinado sobre el molde [2016.01]"
+  },
+  {
+    "code": "H01F 41/084",
+    "description": "••••••••••para la formación de bobinas planas [2016.01]"
+  },
+  {
+    "code": "H01F 41/086",
+    "description": "••••••••••en una configuración especial sobre el molde, p. ej. bobinas ortocíclicas o bobinas de malla abierta [2016.01]"
+  },
+  {
+    "code": "H01F 41/088",
+    "description": "••••••••••usando aletas giratorias [2016.01]"
+  },
+  {
+    "code": "H01F 41/09",
+    "description": "••••••••Máquinas de bobinado con dos o más soportes de trabajo o moldes [2016.01]"
+  },
+  {
+    "code": "H01F 41/092",
+    "description": "••••••••••Torretas; Plataformas giratorias [2016.01]"
+  },
+  {
+    "code": "H01F 41/094",
+    "description": "••••••••Dispositivos de tensado o frenado [2016.01]"
+  },
+  {
+    "code": "H01F 41/096",
+    "description": "••••••••Dispensadores o dispositivos de alimentación [2016.01]"
+  },
+  {
+    "code": "H01F 41/098",
+    "description": "••••••••Mandriles; Moldes [2016.01]"
+  },
+  {
+    "code": "H01F 41/10",
+    "description": "••••••Conductores de conexión a los arrollamientos [2006.01]"
+  },
+  {
+    "code": "H01F 41/12",
+    "description": "••••••Aislamiento de los arrollamientos [2006.01]"
+  },
+  {
+    "code": "H01F 41/14",
+    "description": "••para aplicar películas magnéticas sobre sustratos [2006.01]"
+  },
+  {
+    "code": "H01F 41/16",
+    "description": "••••siendo el material aplicado en forma de partículas, p. ej. por serigrafía (H01F 41/18 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01F 41/18",
+    "description": "••••por pulverización catódica [2006.01]"
+  },
+  {
+    "code": "H01F 41/20",
+    "description": "••••por evaporación [2006.01]"
+  },
+  {
+    "code": "H01F 41/22",
+    "description": "••••Tratamiento térmico; Descomposición térmica; Deposición química a partir de un vapor [2006.01]"
+  },
+  {
+    "code": "H01F 41/24",
+    "description": "••••a partir de líquidos [2006.01]"
+  },
+  {
+    "code": "H01F 41/26",
+    "description": "••••••utilizando corrientes eléctricas [2006.01]"
+  },
+  {
+    "code": "H01F 41/28",
+    "description": "••••••por epitasia en fase líquida [2006.01]"
+  },
+  {
+    "code": "H01F 41/30",
+    "description": "••••para aplicar nanoestructuras, p. ej. utilizando la epitaxia por haces moleculares (MBE) [2006.01]"
+  },
+  {
+    "code": "H01F 41/32",
+    "description": "••para aplicar material conductor, aislante o magnético sobre una película magnética [2006.01]"
+  },
+  {
+    "code": "H01F 41/34",
+    "description": "••••según configuraciones particulares, p. ej. por litografía [2006.01]"
+  }
+]

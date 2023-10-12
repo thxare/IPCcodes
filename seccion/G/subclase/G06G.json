@@ -1,0 +1,294 @@
+[
+  {
+    "code": "G06G 1/00",
+    "description": "Dispositivos de cálculo accionados manualmente (planímetros G01B 5/26) [2006.01]"
+  },
+  {
+    "code": "G06G 1/02",
+    "description": "••en los que el cálculo es efectuado por adición, sustracción o comparación de las longitudes de escalas graduadas paralelas o concéntricas [2006.01]"
+  },
+  {
+    "code": "G06G 1/04",
+    "description": "••••caracterizados por la construcción (G06G 1/10 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G06G 1/06",
+    "description": "••••••con escalas rectilíneas, p. ej. regla de cálculo [2006.01]"
+  },
+  {
+    "code": "G06G 1/08",
+    "description": "••••••con escalas circulares o helicoidales [2006.01]"
+  },
+  {
+    "code": "G06G 1/10",
+    "description": "••••caracterizados por la graduación [2006.01]"
+  },
+  {
+    "code": "G06G 1/12",
+    "description": "••••••Graduaciones logarítmicas, p. ej. para la multiplicación [2006.01]"
+  },
+  {
+    "code": "G06G 1/14",
+    "description": "••en los que una línea recta o una línea curva debe unir puntos dados sobre una o más escalas de entrada a uno o más puntos sobre una escala de resultado [2006.01]"
+  },
+  {
+    "code": "G06G 1/16",
+    "description": "••en los que una línea recta o una línea curva debe unir puntos relacionados sobre una o varias familias de curvas [2006.01]"
+  },
+  {
+    "code": "G06G 3/00",
+    "description": "Dispositivos en los que la operación de cálculo es efectuada mecánicamente (G06G 1/00 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G06G 3/02",
+    "description": "••para efectuar adiciones o sustracciones, p. ej. engranajes diferenciales [2006.01]"
+  },
+  {
+    "code": "G06G 3/04",
+    "description": "••para efectuar multiplicaciones o divisiones, p. ej. engranajes de relaciones variables [2006.01]"
+  },
+  {
+    "code": "G06G 3/06",
+    "description": "••para el cálculo de funciones por la utilización de levas y de poleas de levas [2006.01]"
+  },
+  {
+    "code": "G06G 3/08",
+    "description": "••para la integración o la diferenciación, p. ej. rueda y disco [2006.01]"
+  },
+  {
+    "code": "G06G 3/10",
+    "description": "••para simular procesos, sistemas o dispositivos específicos [2006.01]"
+  },
+  {
+    "code": "G06G 5/00",
+    "description": "Dispositivos en los que la operación de cálculo es efectuada por medio de elementos accionados por la presión de un fluido (estos elementos en general F15C) [2006.01]"
+  },
+  {
+    "code": "G06G 7/00",
+    "description": "Dispositivos en los que la operación de cálculo es efectuada haciendo variar valores eléctricos o magnéticos (redes neuronales para el tratamiento de datos de imagen G06T; análisis o síntesis de la voz G10L) [2006.01]"
+  },
+  {
+    "code": "G06G 7/02",
+    "description": "••Detalles no cubiertos por los grupos G06G 7/04-G06G 7/10 [2006.01]"
+  },
+  {
+    "code": "G06G 7/04",
+    "description": "••Dispositivos de entrada o de salida (lectura de un gráfico G06K 11/00; trazadores de funciones, trazadores de coordenadas G06K 15/22) [2006.01]"
+  },
+  {
+    "code": "G06G 7/06",
+    "description": "••Dispositivos de programación, p. ej. panel de conexión para la interconexión de unidades funcionales del computador; Programación digital [2006.01]"
+  },
+  {
+    "code": "G06G 7/10",
+    "description": "••Instalaciones de alimentación de corriente [2006.01]"
+  },
+  {
+    "code": "G06G 7/12",
+    "description": "••Disposiciones para la ejecución de programas de cálculo, p. ej. amplificadores especialmente adaptados a este efecto (amplificadores en general H03F) [2006.01]"
+  },
+  {
+    "code": "G06G 7/122",
+    "description": "••••para la optimización, p. ej. método de los mínimos cuadráticos, programación lineal, método del camino crítico, método del gradiente [2006.01]"
+  },
+  {
+    "code": "G06G 7/14",
+    "description": "••••para la adición o la sustracción (de valores vectoriales G06G 7/22) [2006.01]"
+  },
+  {
+    "code": "G06G 7/16",
+    "description": "••••para la multiplicación o la división [2006.01]"
+  },
+  {
+    "code": "G06G 7/161",
+    "description": "••••••con modulación de impulsos, p. ej. modulación de la amplitud, del ancho, de la frecuencia, de la fase o de la forma [2006.01]"
+  },
+  {
+    "code": "G06G 7/162",
+    "description": "••••••que utilizan efectos galvano-magnéticos, p. ej. efecto Hall; que utilizan efectos magnéticos similares [2006.01]"
+  },
+  {
+    "code": "G06G 7/163",
+    "description": "••••••que utilizan una impedancia variable controlada por señales de entrada, una amplificación variable, o una función de transferencia [2006.01]"
+  },
+  {
+    "code": "G06G 7/164",
+    "description": "••••••que utilizan medios para el cálculo de potencias, p. ej. multiplicadores de cuartos de cuadrado (cálculo de potencias G06G 7/20) [2006.01]"
+  },
+  {
+    "code": "G06G 7/18",
+    "description": "••••para la integración o diferenciación (G06G 7/19 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G06G 7/182",
+    "description": "••••••que utilizan elementos magnéticos [2006.01]"
+  },
+  {
+    "code": "G06G 7/184",
+    "description": "••••••que utilizan elementos capacitivos [2006.01]"
+  },
+  {
+    "code": "G06G 7/186",
+    "description": "••••••••que utilizan un amplificador operacional que comportan una capacidad o una resistencia en el bucle de retroacción [2006.01]"
+  },
+  {
+    "code": "G06G 7/188",
+    "description": "••••••que utilizan elementos electromecánicos [2006.01]"
+  },
+  {
+    "code": "G06G 7/19",
+    "description": "••••para formar integrales de productos, p. ej. integrales de Fourier, integrales de Laplace, integrales de correlación; para el análisis o la síntesis de funciones utilizando funciones ortogonales (análisis de espectros o análisis de Fourier G01R 23/16) [2006.01]"
+  },
+  {
+    "code": "G06G 7/195",
+    "description": "••••••que utilizan elementos electroacústicos [2006.01]"
+  },
+  {
+    "code": "G06G 7/20",
+    "description": "••••para el cálculo de potencias, de raíces, de polinomios, de valores medios cuadráticos, de desviaciones típicas (G06G 7/122, G06G 7/28 tienen prioridad; corrección de gamma en los sistemas de televisión H04N 5/202, H04N 9/69) [2006.01]"
+  },
+  {
+    "code": "G06G 7/22",
+    "description": "••••para el cálculo de funciones trigonométricas; para el cambio de coordenadas; para los cálculos que utilizan valores vectoriales (cálculos trigonométricos que utilizan ecuaciones simultáneas G06G 7/34) [2006.01]"
+  },
+  {
+    "code": "G06G 7/24",
+    "description": "••••para el cálculo de funciones logarítmicas o exponenciales, p. ej. funciones hiperbólicas [2006.01]"
+  },
+  {
+    "code": "G06G 7/25",
+    "description": "••••para funciones discontinuas, p. ej. histéresis, zona muerta, función limitativa, valor absoluto o valor de pico [2006.01]"
+  },
+  {
+    "code": "G06G 7/26",
+    "description": "••••Generadores de funciones arbitrarias (utilizando funciones ortogonales, p. ej. series de Fourier, G06G 7/19; utilizando seguidores de curva G06K 11/02) [2006.01]"
+  },
+  {
+    "code": "G06G 7/28",
+    "description": "••••••para la síntesis de funciones por aproximación fragmentaria [2006.01]"
+  },
+  {
+    "code": "G06G 7/30",
+    "description": "••••para la interpolación o la extrapolación (G06G 7/122 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G06G 7/32",
+    "description": "••••para la resolución de ecuaciones [2006.01]"
+  },
+  {
+    "code": "G06G 7/34",
+    "description": "••••••de ecuaciones simultáneas (G06G 7/122 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G06G 7/36",
+    "description": "••••••de ecuaciones simples de segundo grado o de grados más elevados (G06G 7/22, G06G 7/24 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G06G 7/38",
+    "description": "••••••de ecuaciones diferenciales o integrales [2006.01]"
+  },
+  {
+    "code": "G06G 7/40",
+    "description": "••••••••de ecuaciones diferenciales parciales (dispositivos específicos de simulación G06G 7/48) [2006.01]"
+  },
+  {
+    "code": "G06G 7/42",
+    "description": "••••••••••que utilizan un tanque electrolítico [2006.01]"
+  },
+  {
+    "code": "G06G 7/44",
+    "description": "••••••••••que utilizan un medio continuo, p. ej. papel sensible a la corriente [2006.01]"
+  },
+  {
+    "code": "G06G 7/46",
+    "description": "••••••••••que utilizan un medio discontinuo, p. ej. una red de resistencias [2006.01]"
+  },
+  {
+    "code": "G06G 7/48",
+    "description": "••Computadores analógicos para procesos, sistemas o dispositivos específicos, p. ej. simuladores [2006.01]"
+  },
+  {
+    "code": "G06G 7/50",
+    "description": "••••para redes de distribución, p. ej. para fluidos (G06G 7/62 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G06G 7/52",
+    "description": "••••para sistemas económicos; para estadísticas (G06G 7/122, G06G 7/19, G06G 7/20 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G06G 7/54",
+    "description": "••••para la física nuclear, p. ej. para reactores nucleares, para precipitaciones radiactivas [2006.01]"
+  },
+  {
+    "code": "G06G 7/56",
+    "description": "••••para flujo de calor (G06G 7/58 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G06G 7/57",
+    "description": "••••para flujo de fluido (G06G 7/50 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G06G 7/58",
+    "description": "••••para procesos químicos (G06G 7/75 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G06G 7/60",
+    "description": "••••para seres vivos, p. ej. su sistema nervioso [2006.01]"
+  },
+  {
+    "code": "G06G 7/62",
+    "description": "••••para sistemas o aparatos eléctricos [2006.01]"
+  },
+  {
+    "code": "G06G 7/625",
+    "description": "••••••para redes de impedancia, p. ej. determinando la respuesta, determinando los polos o ceros, determinando el diagrama de Nyquist (medida de la impedancia G01R 27/00) [2006.01]"
+  },
+  {
+    "code": "G06G 7/63",
+    "description": "••••••para aparatos de potencia, p. ej. motores, o redes de distribución de energía [2006.01]"
+  },
+  {
+    "code": "G06G 7/635",
+    "description": "••••••••para determinar la distribución más económica en los sistemas de potencia [2006.01]"
+  },
+  {
+    "code": "G06G 7/64",
+    "description": "••••para máquinas no eléctricas, p. ej. turbina [2006.01]"
+  },
+  {
+    "code": "G06G 7/66",
+    "description": "••••para sistemas de control [2006.01]"
+  },
+  {
+    "code": "G06G 7/68",
+    "description": "••••para estructuras de obra civil, p. ej. larguero, traviesa, viga [2006.01]"
+  },
+  {
+    "code": "G06G 7/70",
+    "description": "••••para vehículos, p. ej. para la determinación de la carga admisible de buques [2006.01]"
+  },
+  {
+    "code": "G06G 7/72",
+    "description": "••••••Simuladores de vuelo (bancos de entrenamiento de pilotaje sin visibilidad G09B 9/08) [2006.01]"
+  },
+  {
+    "code": "G06G 7/75",
+    "description": "••••para el análisis de los componentes, p. ej. de mezclas, de colores (G06G 7/122 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G06G 7/76",
+    "description": "••••de circulación, p. ej. circulación de carretera [2006.01]"
+  },
+  {
+    "code": "G06G 7/78",
+    "description": "••••para la radiogoniometría, para la localización, para la medida de la distancia o de la velocidad para de sistemas de navegación [2006.01]"
+  },
+  {
+    "code": "G06G 7/80",
+    "description": "••••para el apuntado de armas; para el lanzamiento de bombas; para el guiado de misiles [2006.01]"
+  },
+  {
+    "code": "G06G 99/00",
+    "description": "Materia no prevista en otros grupos de esta subclase [2009.01]"
+  }
+]

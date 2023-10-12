@@ -1,0 +1,206 @@
+[
+  {
+    "code": "F04F 1/00",
+    "description": "Bombas que utilizan un fluido intermediario en sobrepresión o en depresión, actuando directamente sobre el líquido a bombear (utilizando solamente una presión negativa F04F 3/00; bombas de chorro F04F 5/00; sifones F04F 10/00) [2006.01]"
+  },
+  {
+    "code": "F04F 1/02",
+    "description": "••utilizando a la vez un fluido intermediario en sobrepresión y en depresión, p. ej. alternativamente [2006.01]"
+  },
+  {
+    "code": "F04F 1/04",
+    "description": "••••producido por vaporización y condensación [2006.01]"
+  },
+  {
+    "code": "F04F 1/06",
+    "description": "••actuando el fluido intermediario sobre la superficie del líquido a bombear (F04F 1/02 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F04F 1/08",
+    "description": "••••especialmente adaptadas para elevar el líquido desde una gran profundidad, p. ej. en pozos [2006.01]"
+  },
+  {
+    "code": "F04F 1/10",
+    "description": "••••del tipo múltiple, p. ej. con dos o más unidades en paralelo (F04F 1/08 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F04F 1/12",
+    "description": "••••••en serie [2006.01]"
+  },
+  {
+    "code": "F04F 1/14",
+    "description": "••••adaptadas para bombear líquidos particulares, p. ej. líquidos corrosivos o calientes [2006.01]"
+  },
+  {
+    "code": "F04F 1/16",
+    "description": "••••caracterizadas por la puesta en presión repentina del fluido intermediario, p. ej. por explosión [2006.01]"
+  },
+  {
+    "code": "F04F 1/18",
+    "description": "••estando el fluido intermediario mezclado con el líquido a bombear o generado a partir de éste [2006.01]"
+  },
+  {
+    "code": "F04F 1/20",
+    "description": "••••especialmente adaptadas para elevar el líquido desde una gran profundidad, p. ej. en pozos [2006.01]"
+  },
+  {
+    "code": "F04F 3/00",
+    "description": "Bombas que utilizan una presión negativa actuando directamente sobre el líquido a bombear (sifones F04F 10/00) [2006.01]"
+  },
+  {
+    "code": "F04F 5/00",
+    "description": "Bombas a chorro, p. ej. dispositivos en los cuales el flujo está producido por la caída de presión causada por la velocidad de otro flujo de fluido (bombas de difusión F04F 9/00; combinación de bombas de chorro con bombas de otro tipo F04B; utilización de las bombas de chorro para el cebado o la sobrecompresión de las bombas de desplazamiento no positivo F04D) [2006.01]"
+  },
+  {
+    "code": "F04F 5/02",
+    "description": "••siendo el fluido inductor un líquido [2006.01]"
+  },
+  {
+    "code": "F04F 5/04",
+    "description": "••••desplazando fluidos compresibles [2006.01]"
+  },
+  {
+    "code": "F04F 5/06",
+    "description": "••••••siendo la bomba del tipo rotativo [2006.01]"
+  },
+  {
+    "code": "F04F 5/08",
+    "description": "••••••siendo el fluido compresible a bombear arrastrado en una columna de líquido en caída libre [2006.01]"
+  },
+  {
+    "code": "F04F 5/10",
+    "description": "••••desplazando líquidos, p. ej. que contienen sólidos o bien desplazando líquidos y fluidos compresibles [2006.01]"
+  },
+  {
+    "code": "F04F 5/12",
+    "description": "••••••siendo la bomba del tipo de etapas múltiples [2006.01]"
+  },
+  {
+    "code": "F04F 5/14",
+    "description": "••siendo el fluido inductor un fluido compresible [2006.01]"
+  },
+  {
+    "code": "F04F 5/16",
+    "description": "••••desplazando fluidos compresibles [2006.01]"
+  },
+  {
+    "code": "F04F 5/18",
+    "description": "••••••para comprimirlos [2006.01]"
+  },
+  {
+    "code": "F04F 5/20",
+    "description": "••••••para evacuarlos [2006.01]"
+  },
+  {
+    "code": "F04F 5/22",
+    "description": "••••••••del tipo de etapas múltiples [2006.01]"
+  },
+  {
+    "code": "F04F 5/24",
+    "description": "••••desplazando líquidos, p. ej. que contienen sólidos o bien desplazando líquidos y fluidos compresibles [2006.01]"
+  },
+  {
+    "code": "F04F 5/26",
+    "description": "••••••del tipo de etapas múltiples (F04F 5/28 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F04F 5/28",
+    "description": "••••••Restablecimiento de la acción de inducción [2006.01]"
+  },
+  {
+    "code": "F04F 5/30",
+    "description": "••••••••por tobera combinada con un movimiento de deslizamiento axial [2006.01]"
+  },
+  {
+    "code": "F04F 5/32",
+    "description": "••••••••por tobera combinada con una aleta articulada [2006.01]"
+  },
+  {
+    "code": "F04F 5/34",
+    "description": "••••caracterizadas por los medios de cambio de la fuente de fluido inductor [2006.01]"
+  },
+  {
+    "code": "F04F 5/36",
+    "description": "••••caracterizadas por la utilización de un fluido inductor particular [2006.01]"
+  },
+  {
+    "code": "F04F 5/38",
+    "description": "••••••siendo el fluido inductor vapor de mercurio [2006.01]"
+  },
+  {
+    "code": "F04F 5/40",
+    "description": "••••••siendo el fluido inductor vapor de aceite [2006.01]"
+  },
+  {
+    "code": "F04F 5/42",
+    "description": "••caracterizadas por el hecho de que el flujo de entrada del fluido inductor es radial o tangencial con relación al flujo de salida (ciclones B04C) [2006.01]"
+  },
+  {
+    "code": "F04F 5/44",
+    "description": "••Partes constitutivas, detalles o accesorios no cubiertos por, o con un interés distinto que, los grupos F04F 5/02-F04F 5/42 [2006.01]"
+  },
+  {
+    "code": "F04F 5/46",
+    "description": "••••Disposiciones de toberas [2006.01]"
+  },
+  {
+    "code": "F04F 5/48",
+    "description": "••••Control [2006.01]"
+  },
+  {
+    "code": "F04F 5/50",
+    "description": "••••••de las bombas de compresión [2006.01]"
+  },
+  {
+    "code": "F04F 5/52",
+    "description": "••••••de las bombas de evacuación [2006.01]"
+  },
+  {
+    "code": "F04F 5/54",
+    "description": "••Instalaciones caracterizadas por la utilización de bombas de chorro, p. ej. por combinaciones de varias bombas a chorro de tipos diferentes [2006.01]"
+  },
+  {
+    "code": "F04F 7/00",
+    "description": "Bombas que desplazan fluidos utilizando su inercia, p. ej. produciendo vibraciones en el fluido [2006.01]"
+  },
+  {
+    "code": "F04F 7/02",
+    "description": "••Arietes hidráulicos [2006.01]"
+  },
+  {
+    "code": "F04F 9/00",
+    "description": "Bombas de difusión [2006.01]"
+  },
+  {
+    "code": "F04F 9/02",
+    "description": "••del tipo de etapas múltiples [2006.01]"
+  },
+  {
+    "code": "F04F 9/04",
+    "description": "••en combinación con bombas rotativas de alto vacío, p. ej. utilización de válvulas de aislamiento [2006.01]"
+  },
+  {
+    "code": "F04F 9/06",
+    "description": "••Disposición de las purgas de vapor [2006.01]"
+  },
+  {
+    "code": "F04F 9/08",
+    "description": "••Control [2006.01]"
+  },
+  {
+    "code": "F04F 10/00",
+    "description": "Sifones [2006.01]"
+  },
+  {
+    "code": "F04F 10/02",
+    "description": "••accionados por gravedad [2006.01]"
+  },
+  {
+    "code": "F04F 13/00",
+    "description": "Intercambiadores de presión [2009.01]"
+  },
+  {
+    "code": "F04F 99/00",
+    "description": "Materia no prevista en otros grupos de esta subclase [2009.01]"
+  }
+]

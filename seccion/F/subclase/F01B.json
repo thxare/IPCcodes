@@ -1,0 +1,422 @@
+[
+  {
+    "code": "F01B 1/00",
+    "description": "Máquinas o motores de pistones alternativos caracterizados por el número o disposición relativa de los cilindros, o por ser construidos por elementos cilindros-cárter separados (F01B 3/00, F01B 5/00 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "F01B 1/01",
+    "description": "••con un solo cilindro [2006.01]"
+  },
+  {
+    "code": "F01B 1/02",
+    "description": "••con todos los cilindros en línea [2006.01]"
+  },
+  {
+    "code": "F01B 1/04",
+    "description": "••con los cilindros dispuestos en V [2006.01]"
+  },
+  {
+    "code": "F01B 1/06",
+    "description": "••con los cilindros dispuestos en estrella o en abanico [2006.01]"
+  },
+  {
+    "code": "F01B 1/08",
+    "description": "••con los cilindros dispuestos de forma opuesta con relación al árbol principal y del tipo \"plano\" [2006.01]"
+  },
+  {
+    "code": "F01B 1/10",
+    "description": "••con más de un árbol principal, p. ej. acoplados a un árbol de salida común (combinaciones de más de dos motores o máquinas F01B 21/00) [2006.01]"
+  },
+  {
+    "code": "F01B 1/12",
+    "description": "••Elementos cilindros-cárter separados acoplados juntos para formar un conjunto [2006.01]"
+  },
+  {
+    "code": "F01B 3/00",
+    "description": "Máquinas o motores de pistón alternativo con los ejes de los cilindros coaxiales, paralelos o inclinados con respecto al eje del árbol principal [2006.01]"
+  },
+  {
+    "code": "F01B 3/02",
+    "description": "••con distribuidor de plato oscilante [2006.01]"
+  },
+  {
+    "code": "F01B 3/04",
+    "description": "••el movimiento del pistón se transmite por medio de superficies curvadas [2006.01]"
+  },
+  {
+    "code": "F01B 3/06",
+    "description": "••••mediante superficies helicoidales con varias espiras y reversión automática [2006.01]"
+  },
+  {
+    "code": "F01B 3/08",
+    "description": "••••••estando dispuestas las hélices sobre los pistones [2006.01]"
+  },
+  {
+    "code": "F01B 3/10",
+    "description": "••Control de la admisión o escape del fluido de trabajo particular a este caso (relativo a aplicaciones más generales F01L) [2006.01]"
+  },
+  {
+    "code": "F01B 5/00",
+    "description": "Máquinas o motores de pistón alternativo con los ejes de los cilindros dispuestos prácticamente tangenciales a un círculo centrado en el eje del árbol principal [2006.01]"
+  },
+  {
+    "code": "F01B 7/00",
+    "description": "Máquinas o motores con dos o más pistones alternativos en un mismo cilindro o dentro de cilindros prácticamente coaxiales (opuestos en relación al árbol principal F01B 1/08) [2006.01]"
+  },
+  {
+    "code": "F01B 7/02",
+    "description": "••con pistones alternativos opuestos [2006.01]"
+  },
+  {
+    "code": "F01B 7/04",
+    "description": "••••actuando sobre el mismo árbol principal [2006.01]"
+  },
+  {
+    "code": "F01B 7/06",
+    "description": "••••••utilizando únicamente bielas para la conversión del movimiento alternativo en rotativo o viceversa [2006.01]"
+  },
+  {
+    "code": "F01B 7/08",
+    "description": "••••••••con bielas laterales [2006.01]"
+  },
+  {
+    "code": "F01B 7/10",
+    "description": "••••••••teniendo el vástago de un pistón atravesando al otro pistón [2006.01]"
+  },
+  {
+    "code": "F01B 7/12",
+    "description": "••••••utilizando balancines y bielas [2006.01]"
+  },
+  {
+    "code": "F01B 7/14",
+    "description": "••••actuando en diferentes árboles principales [2006.01]"
+  },
+  {
+    "code": "F01B 7/16",
+    "description": "••con pistones desplazándose sincrónicamente con disposición en tándem [2006.01]"
+  },
+  {
+    "code": "F01B 7/18",
+    "description": "••con pistón diferencial (F01B 7/20 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F01B 7/20",
+    "description": "••con dos o más pistones alternativos, funcionando uno dentro del otro, p. ej. un pistón siendo el cilindro del otro [2006.01]"
+  },
+  {
+    "code": "F01B 9/00",
+    "description": "Máquinas o motores de pistón alternativo caracterizados por uniones entre pistones y árboles principales no especificados en los grupos F01B 1/00-F01B 7/00 (conexiones desmontables al ralentí F01B 31/24) [2006.01]"
+  },
+  {
+    "code": "F01B 9/02",
+    "description": "••con cigüeñal [2006.01]"
+  },
+  {
+    "code": "F01B 9/04",
+    "description": "••con árbol principal rotativo distinto de un cigüeñal [2006.01]"
+  },
+  {
+    "code": "F01B 9/06",
+    "description": "••••siendo transmitido el movimiento del pistón por superficies curvadas [2006.01]"
+  },
+  {
+    "code": "F01B 9/08",
+    "description": "••••con áncora y trinquete [2006.01]"
+  },
+  {
+    "code": "F01B 11/00",
+    "description": "Máquinas o motores de pistón alternativo sin árbol principal rotativo, p. ej. del tipo de pistón libre [2006.01]"
+  },
+  {
+    "code": "F01B 11/02",
+    "description": "••Dispositivos de compensación o amortiguamiento [2006.01]"
+  },
+  {
+    "code": "F01B 11/04",
+    "description": "••Motores asociados con dispositivos de accionamiento alternativo, p. ej. martillos (con bombas F01B 23/08; si el aspecto de los dispositivos de accionamiento predomina, véanse las clases relativas a los dispositivos) [2006.01]"
+  },
+  {
+    "code": "F01B 11/06",
+    "description": "••••únicamente para generar vibraciones [2006.01]"
+  },
+  {
+    "code": "F01B 11/08",
+    "description": "••con transmisión directa mediante fluido (F01B 11/02 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F01B 13/00",
+    "description": "Máquinas o motores de pistón alternativo con cilindros rotatorios para obtener el movimiento alternativo del pistón (máquinas o motores del tipo de pared flexible F01B 19/00) [2006.01]"
+  },
+  {
+    "code": "F01B 13/02",
+    "description": "••con un solo cilindro [2006.01]"
+  },
+  {
+    "code": "F01B 13/04",
+    "description": "••con más de un cilindro [2006.01]"
+  },
+  {
+    "code": "F01B 13/06",
+    "description": "••••en disposición en estrella [2006.01]"
+  },
+  {
+    "code": "F01B 15/00",
+    "description": "Máquinas o motores de pistón alternativo con cilindros móviles distintos de los cubiertos por F01B 13/00 (con camisas móviles para el control del fluido de trabajo F01L) [2006.01]"
+  },
+  {
+    "code": "F01B 15/02",
+    "description": "••con cilindros alternativos (con un pistón dentro de otro F01B 7/20) [2006.01]"
+  },
+  {
+    "code": "F01B 15/04",
+    "description": "••con cilindro oscilante [2006.01]"
+  },
+  {
+    "code": "F01B 15/06",
+    "description": "••••Control de la admisión o escape del fluido de trabajo particular a este caso [2006.01]"
+  },
+  {
+    "code": "F01B 17/00",
+    "description": "Máquinas o motores de pistón alternativo caracterizadas por el uso del principio uniflujo [2006.01]"
+  },
+  {
+    "code": "F01B 17/02",
+    "description": "••Motores [2006.01]"
+  },
+  {
+    "code": "F01B 17/04",
+    "description": "••••Máquinas de vapor [2006.01]"
+  },
+  {
+    "code": "F01B 19/00",
+    "description": "Máquinas o motores con desplazamiento positivo del tipo de pared flexible [2006.01]"
+  },
+  {
+    "code": "F01B 19/02",
+    "description": "••con membranas flexibles del tipo bandeja [2006.01]"
+  },
+  {
+    "code": "F01B 19/04",
+    "description": "••con membranas flexibles tubulares [2006.01]"
+  },
+  {
+    "code": "F01B 21/00",
+    "description": "Combinaciones de dos o más máquinas o motores (F01B 23/00 tiene prioridad; combinaciones de dos o más bombas F04; transmisión por fluido F16H; regulación o mando, véanse los grupos apropiados) [2006.01]"
+  },
+  {
+    "code": "F01B 21/02",
+    "description": "••las máquinas o motores son todos del tipo de pistones alternativos [2006.01]"
+  },
+  {
+    "code": "F01B 21/04",
+    "description": "••las máquinas o motores no son todos de pistones alternativos, p. ej. de máquina de vapor alternativa con turbina de vapor [2006.01]"
+  },
+  {
+    "code": "F01B 23/00",
+    "description": "Adaptaciones de máquinas o motores para usos particulares; Combinaciones de motores con los dispositivos que ellos accionan (F01B 11/00 tiene prioridad; transmisión por fluido F16H; si los aspectos que predominan son relativos a los dispositivos accionados, véanse las clases correspondientes a estos dispositivos; regulación o control, véanse los grupos apropiados) [2006.01]"
+  },
+  {
+    "code": "F01B 23/02",
+    "description": "••Adaptaciones para vehículos de tracción, p. ej. locomotoras (dispositivos en los vehículos, véanse las clases apropiadas para vehículos) [2006.01]"
+  },
+  {
+    "code": "F01B 23/04",
+    "description": "••••siendo los vehículos buques [2006.01]"
+  },
+  {
+    "code": "F01B 23/06",
+    "description": "••Adaptaciones para accionar herramientas manuales u objetos análogos, o combinaciones con ellos [2006.01]"
+  },
+  {
+    "code": "F01B 23/08",
+    "description": "••Adaptaciones para accionar bombas o combinaciones con ellas [2006.01]"
+  },
+  {
+    "code": "F01B 23/10",
+    "description": "••Adaptaciones para accionar generadores eléctricos o combinaciones con ellos [2006.01]"
+  },
+  {
+    "code": "F01B 23/12",
+    "description": "••Adaptaciones para accionar laminadores u otra maquinaria pesada con inversión de marcha [2006.01]"
+  },
+  {
+    "code": "F01B 25/00",
+    "description": "Dispositivos de regulación, control o seguridad (regulación o control en general G05) [2006.01]"
+  },
+  {
+    "code": "F01B 25/02",
+    "description": "••Regulación o control variando la admisión o escape del fluido de trabajo, p. ej. por variación de la presión o el consumo (sistemas de válvulas de distribución o de expansión F01L) [2006.01]"
+  },
+  {
+    "code": "F01B 25/04",
+    "description": "••••Elementos sensibles [2006.01]"
+  },
+  {
+    "code": "F01B 25/06",
+    "description": "••••••sensibles a la velocidad [2006.01]"
+  },
+  {
+    "code": "F01B 25/08",
+    "description": "••••Organos terminales de control [2006.01]"
+  },
+  {
+    "code": "F01B 25/10",
+    "description": "••••••Dispositivos o adaptaciones de las válvulas de admisión o escape del fluido de trabajo (válvulas en sí F16K) [2006.01]"
+  },
+  {
+    "code": "F01B 25/12",
+    "description": "••••Dispositivos que manejan órganos sensores u órganos terminales de control o los medios de transmisión entre ellos, p. ej. dispositivos de control asistidos (elementos sensibles solos F01B 25/04; órganos terminales de control solos F01B 25/08) [2006.01]"
+  },
+  {
+    "code": "F01B 25/14",
+    "description": "••••peculiares a tipos particulares de máquinas o motores [2006.01]"
+  },
+  {
+    "code": "F01B 25/16",
+    "description": "••Dispositivos de seguridad que responden a condiciones específicas (contra los golpes de ariete o similares en las máquinas de vapor F01B 31/34) [2006.01]"
+  },
+  {
+    "code": "F01B 25/18",
+    "description": "••••que impiden la rotación en sentido incorrecto [2006.01]"
+  },
+  {
+    "code": "F01B 25/20",
+    "description": "••Verificación del funcionamiento de los dispositivos de seguridad [2006.01]"
+  },
+  {
+    "code": "F01B 25/22",
+    "description": "••Frenado por cambio de sentido del fluido de trabajo [2006.01]"
+  },
+  {
+    "code": "F01B 25/24",
+    "description": "••••Recuperación de energía por este medio [2006.01]"
+  },
+  {
+    "code": "F01B 25/26",
+    "description": "••Dispositivos de aviso [2006.01]"
+  },
+  {
+    "code": "F01B 27/00",
+    "description": "Puesta en marcha de máquinas o motores (puesta en marcha de motores de combustión F02N) [2006.01]"
+  },
+  {
+    "code": "F01B 27/02",
+    "description": "••de motores de pistones alternativos [2006.01]"
+  },
+  {
+    "code": "F01B 27/04",
+    "description": "••••controlando la alimentación del fluido de trabajo, p. ej. con ayuda de conductos by-pass del vapor [2006.01]"
+  },
+  {
+    "code": "F01B 27/06",
+    "description": "••••••especialmente para motores compound [2006.01]"
+  },
+  {
+    "code": "F01B 27/08",
+    "description": "••••Medios para desplazar la manivela del punto muerto (viradores en general F16H) [2006.01]"
+  },
+  {
+    "code": "F01B 29/00",
+    "description": "Máquinas o motores con características diferentes de las especificadas en los grupos principales F01B 1/00-F01B 27/00 [2006.01]"
+  },
+  {
+    "code": "F01B 29/02",
+    "description": "••Motores de presión atmosférica, es decir, donde la presión de la atmósfera actúa contra el vacío [2006.01]"
+  },
+  {
+    "code": "F01B 29/04",
+    "description": "••caracterizados por los medios de conversión de un tipo de aparato en otro diferente [2006.01]"
+  },
+  {
+    "code": "F01B 29/06",
+    "description": "••••de máquinas de vapor en motor de combustión [2006.01]"
+  },
+  {
+    "code": "F01B 29/08",
+    "description": "••Máquinas o motores de pistón alternativo no previstos en otro lugar [2006.01]"
+  },
+  {
+    "code": "F01B 29/10",
+    "description": "••••Motores (máquinas frigoríficas F25B) [2006.01]"
+  },
+  {
+    "code": "F01B 29/12",
+    "description": "••••••Máquinas de vapor (juguetes-máquinas de vapor A63H 25/00) [2006.01]"
+  },
+  {
+    "code": "F01B 31/00",
+    "description": "Partes constitutivas, detalles, o accesorios no previstos en otro lugar, o cuyas características interesantes no están cubiertas por otros grupos (cárteres de máquinas o motores distintos de los de las máquinas de vapor F16M) [2006.01]"
+  },
+  {
+    "code": "F01B 31/02",
+    "description": "••Dispositivos de deshielo para motores que sufran fenómenos de congelación [2006.01]"
+  },
+  {
+    "code": "F01B 31/04",
+    "description": "••Dispositivos para igualar el par en máquinas o motores de pistón alternativo (compensación de las fuerzas de inercia, supresión de las vibraciones en sistemas F16F) [2006.01]"
+  },
+  {
+    "code": "F01B 31/06",
+    "description": "••Dispositivos para compensar la dilatación relativa de las partes constitutivas [2006.01]"
+  },
+  {
+    "code": "F01B 31/08",
+    "description": "••Refrigeración de las máquinas de vapor (refrigeración de los motores o máquinas a fluido en general F01P); Calentamiento; Aislamiento térmico (aislamiento térmico en general F16L 59/00) [2006.01]"
+  },
+  {
+    "code": "F01B 31/10",
+    "description": "••Dispositivos de lubrificación de las máquinas de vapor (de máquinas o motores en general F01M) [2006.01]"
+  },
+  {
+    "code": "F01B 31/12",
+    "description": "••Dispositivos de medida o indicadores (aparatos de aviso F01B 25/26; instrumentos de medida o análogos en sí\n\t\t\t\t\t\t\t\t\t\tG01) [2006.01]"
+  },
+  {
+    "code": "F01B 31/14",
+    "description": "••Cambio de la relación de compresión [2006.01]"
+  },
+  {
+    "code": "F01B 31/16",
+    "description": "••Silenciadores especialmente adaptados para las máquinas de vapor (disposiciones de conductos o tubos de escape en las máquinas de vapor F01B 31/30; Silenciadores del flujo de gas o silenciadores de escape para máquinas o motores en general F01N) [2006.01]"
+  },
+  {
+    "code": "F01B 31/18",
+    "description": "••Purgado [2006.01]"
+  },
+  {
+    "code": "F01B 31/20",
+    "description": "••••de los cilindros [2006.01]"
+  },
+  {
+    "code": "F01B 31/22",
+    "description": "••Dispositivos de marcha al ralentí, p. ej. por medio de válvulas by-pass [2006.01]"
+  },
+  {
+    "code": "F01B 31/24",
+    "description": "••••Desembrague de las conexiones entre pistones y árboles principales [2006.01]"
+  },
+  {
+    "code": "F01B 31/26",
+    "description": "••Otras partes constitutivas, detalles o accesorios, peculiares de las máquinas de vapor [2006.01]"
+  },
+  {
+    "code": "F01B 31/28",
+    "description": "••••Cilindros o fondos de los cilindros [2006.01]"
+  },
+  {
+    "code": "F01B 31/30",
+    "description": "••••Disposiciones de conductos de vapor [2006.01]"
+  },
+  {
+    "code": "F01B 31/32",
+    "description": "••••Disposiciones o adaptaciones de los frenos de vacío [2006.01]"
+  },
+  {
+    "code": "F01B 31/34",
+    "description": "••••Medios de seguridad contra los golpes de ariete o contra la penetración de agua (purgadores del agua de condensación F16T) [2006.01]"
+  },
+  {
+    "code": "F01B 31/36",
+    "description": "••••••cortando automáticamente el suministro de vapor [2006.01]"
+  }
+]

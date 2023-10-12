@@ -1,0 +1,82 @@
+[
+  {
+    "code": "G03H 1/00",
+    "description": "Procesos o aparatos holográficos que utilizan la luz, infrarrojos o ultravioletas para obtener hologramas o para obtener una imagen; Sus detalles específicos [2006.01]"
+  },
+  {
+    "code": "G03H 1/02",
+    "description": "••Detalles [2006.01]"
+  },
+  {
+    "code": "G03H 1/04",
+    "description": "••Procesos o aparatos para producir hologramas (G03H 1/26 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G03H 1/06",
+    "description": "••••que utilizan luz no coherente [2006.01]"
+  },
+  {
+    "code": "G03H 1/08",
+    "description": "••••Hologramas sintéticos [2006.01]"
+  },
+  {
+    "code": "G03H 1/10",
+    "description": "••••que utilizan un haz de referencia modulado [2006.01]"
+  },
+  {
+    "code": "G03H 1/12",
+    "description": "••••••Modulación espacial, p. ej. para imágenes fantasmas [2006.01]"
+  },
+  {
+    "code": "G03H 1/14",
+    "description": "••••••Modulación temporal, p. ej. para aumentar la profundidad de campo o compensar en fase el efecto de un desplazamiento del objeto [2006.01]"
+  },
+  {
+    "code": "G03H 1/16",
+    "description": "••••que utilizan la transformada de Fourier (G03H 1/12, G03H 1/14 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G03H 1/18",
+    "description": "••••Procesos particulares de tratamiento de registros holográficos, p. ej. para obtener un holograma con efecto \"blaze\", es decir, que presentan un perfil destinado a favorecer un orden particular de difracción [2006.01]"
+  },
+  {
+    "code": "G03H 1/20",
+    "description": "••••para copiar hologramas por un método holográfico [2006.01]"
+  },
+  {
+    "code": "G03H 1/22",
+    "description": "••Métodos o aparatos para obtener una imagen óptica a partir de un holograma (G03H 1/26-G03H 1/34 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G03H 1/24",
+    "description": "••••que utilizan luz blanca [2006.01]"
+  },
+  {
+    "code": "G03H 1/26",
+    "description": "••Métodos o aparatos adaptados especialmente para producir hologramas múltiples o para obtener imágenes, p. ej. procesos para holografía a varios colores [2006.01]"
+  },
+  {
+    "code": "G03H 1/28",
+    "description": "••••únicamente hologramas superpuestos [2006.01]"
+  },
+  {
+    "code": "G03H 1/30",
+    "description": "••••únicamente hologramas separados [2006.01]"
+  },
+  {
+    "code": "G03H 1/32",
+    "description": "••Sistemas para eliminar la granulación de imagen [2006.01]"
+  },
+  {
+    "code": "G03H 1/34",
+    "description": "••Sistemas para reducir el producto espacio-anchura de banda de frecuencias espaciales [2006.01]"
+  },
+  {
+    "code": "G03H 3/00",
+    "description": "Procesos o aparatos holográficos que utilizan ondas ultrasonoras, sonoras o infrasonoras para obtener hologramas; Procesos o aparatos para obtener una imagen óptica (G03H 1/22 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G03H 5/00",
+    "description": "Procesos o aparatos holográficos que utilizan otras ondas electromagnéticas o partículas que las cubiertas por los grupos G03H 1/00 o G03H 3/00 para obtener hologramas; Procesos o aparatos para obtener una imagen óptica (G03H 1/22 tiene prioridad) [2006.01]"
+  }
+]

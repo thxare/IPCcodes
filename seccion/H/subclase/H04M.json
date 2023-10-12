@@ -1,0 +1,934 @@
+[
+  {
+    "code": "H04M 1/00",
+    "description": "Equipos de subestaciones, p. ej. para utilización por el abonado (servicios de abonado o instalaciones proporcionadas en las centrales H04M 3/00; aparatos con fichas de pago previo H04M 17/00; disposiciones de suministro de corriente H04M 19/08) [2006.01]"
+  },
+  {
+    "code": "H04M 1/02",
+    "description": "••Características constructivas de los aparatos telefónicos [2006.01]"
+  },
+  {
+    "code": "H04M 1/03",
+    "description": "••••Detalles de estructura de los micrófonos o audífonos telefónicos, p. ej. aparatos telefónicos portátiles [2006.01]"
+  },
+  {
+    "code": "H04M 1/04",
+    "description": "••••Soportes para micrófonos o auriculares [2006.01]"
+  },
+  {
+    "code": "H04M 1/05",
+    "description": "••••••adaptados para el uso sobre la cabeza, la garganta o el pecho [2006.01]"
+  },
+  {
+    "code": "H04M 1/06",
+    "description": "••••••Ganchos; Balancines [2006.01]"
+  },
+  {
+    "code": "H04M 1/08",
+    "description": "••••••••asociados con interruptores accionados por el peso del receptor o del combinado [2006.01]"
+  },
+  {
+    "code": "H04M 1/10",
+    "description": "••••••••asociados con interruptores controlados por efecto magnético debido a la proximidad del receptor o del combinado [2006.01]"
+  },
+  {
+    "code": "H04M 1/11",
+    "description": "••••Soportes de aparatos, p. ej. incorporando reposabrazos [2006.01]"
+  },
+  {
+    "code": "H04M 1/12",
+    "description": "••••••Soportes regulables, p. ej. extensibles [2006.01]"
+  },
+  {
+    "code": "H04M 1/13",
+    "description": "••••••••pantográficos [2006.01]"
+  },
+  {
+    "code": "H04M 1/14",
+    "description": "••••••con medios elásticos para suprimir las vibraciones externas [2006.01]"
+  },
+  {
+    "code": "H04M 1/15",
+    "description": "••••Protección o guiado de cable de teléfono [2006.01]"
+  },
+  {
+    "code": "H04M 1/17",
+    "description": "••••Dispositivos higiénicos o sanitarios en grupos telefónicos (para embocaduras o auriculares H04R 1/12) [2006.01]"
+  },
+  {
+    "code": "H04M 1/18",
+    "description": "••••Aparatos telefónicos especialmente adaptados para ser usados en el mar, minas u otros lugares expuestos a un medio ambiente adverso (H04M 1/19 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H04M 1/19",
+    "description": "••••Disposiciones de micrófonos, auriculares o aparatos completos para evitar la escucha indiscreta, para atenuar el ruido o para evitar la transmisión indeseada; Embocaduras o auriculares especialmente adaptados a este efecto (circuitos para evitar la escucha indiscreta H04M 1/68; cabinas telefónicas E04H 1/14) [2006.01]"
+  },
+  {
+    "code": "H04M 1/20",
+    "description": "••••Disposiciones para evitar la realimentación acústica (H04M 1/62 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H04M 1/21",
+    "description": "••••Combinaciones con equipamiento auxiliar, p. ej., con relojes o con \"pad\" de notas [2006.01]"
+  },
+  {
+    "code": "H04M 1/215",
+    "description": "••••••mediante dispositivos de acoplamiento no invasivos, p. ej. acopladores acústicos [2006.01]"
+  },
+  {
+    "code": "H04M 1/22",
+    "description": "••••Iluminación; Disposiciones para mejorar la visibilidad de caracteres sobre el disco combinador [2006.01]"
+  },
+  {
+    "code": "H04M 1/23",
+    "description": "••••Construcción o montaje de discos combinadores o de dispositivos equivalentes; Medios para facilitar su uso (por mejora de la visibilidad H04M 1/22) [2006.01]"
+  },
+  {
+    "code": "H04M 1/24",
+    "description": "••Disposiciones para las pruebas [2006.01]"
+  },
+  {
+    "code": "H04M 1/247",
+    "description": "••Aparatos telefónicos que incluyen asesoramiento para el usuario o disposiciones para la selección de funciones que facilitan su utilización (interfaces de usuario especialmente adaptadas para los teléfonos inalámbricos o móviles H04M 1/724) [2021.01]"
+  },
+  {
+    "code": "H04M 1/253",
+    "description": "••Aparatos telefónicos que utilizan transmisión digital de voz [2006.01]"
+  },
+  {
+    "code": "H04M 1/26",
+    "description": "••Dispositivos para llamar a un abonado (H04M 1/66 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H04M 1/27",
+    "description": "••••Dispositivos en los cuales varias señales pueden ser registradas simultáneamente [2006.01]"
+  },
+  {
+    "code": "H04M 1/272",
+    "description": "••••••con posibilidad de almacenar un único número de abonado a la vez, p. ej. por medio de un teclado o dial [2006.01]"
+  },
+  {
+    "code": "H04M 1/274",
+    "description": "••••••con posibilidad de almacenar más de un número de abonado a la vez, p. ej. utilizando un disco dentado [2006.01]"
+  },
+  {
+    "code": "H04M 1/2745",
+    "description": "••••••••utilizando memorias electrónicas estáticas, p. ej. chips electrónicos [2020.01]"
+  },
+  {
+    "code": "H04M 1/27453",
+    "description": "••••••••••Directorios para almacenar datos de abonados adicionales, p. ej. metadatos [2020.01]"
+  },
+  {
+    "code": "H04M 1/27457",
+    "description": "••••••••••••Gestión de los mismos, p.ej., edición manual de datos [2020.01]"
+  },
+  {
+    "code": "H04M 1/2746",
+    "description": "••••••••••••Clasificación, p.ej., según el historial o la frecuencia de uso [2020.01]"
+  },
+  {
+    "code": "H04M 1/27467",
+    "description": "••••••••••Métodos de búsqueda de datos [2020.01]"
+  },
+  {
+    "code": "H04M 1/2747",
+    "description": "••••••••••••Desplazamiento en una pantalla [2020.01]"
+  },
+  {
+    "code": "H04M 1/27475",
+    "description": "••••••••••••que usan medios gráficos interactivos o representaciones por imágenes [2020.01]"
+  },
+  {
+    "code": "H04M 1/2748",
+    "description": "••••••••••••que hacen coincidir las cadenas de carácteres [2020.01]"
+  },
+  {
+    "code": "H04M 1/27485",
+    "description": "••••••••••Adición de un prefijo o inserción de una pausa en la marcación de un número [2020.01]"
+  },
+  {
+    "code": "H04M 1/2749",
+    "description": "••••••••••Sistemas automáticos de marcado o remarcación de números, p.ej., con el auricular descolgado o la línea ocupada [2020.01]"
+  },
+  {
+    "code": "H04M 1/27495",
+    "description": "••••••••••implementado mediante componentes electrónicos discretos, es decir ni programable ni controlado por microprocesador (H04M 1/27457-H04M 1/2749 tiene prioridad) [2020.01]"
+  },
+  {
+    "code": "H04M 1/275",
+    "description": "••••••••••implementados por medio de agendas electrónicas portátiles [2006.01]"
+  },
+  {
+    "code": "H04M 1/2753",
+    "description": "••••••••••proporcionando contenido de datos [2020.01]"
+  },
+  {
+    "code": "H04M 1/2755",
+    "description": "••••••••••••por escáner óptico [2006.01]"
+  },
+  {
+    "code": "H04M 1/2757",
+    "description": "••••••••••••por transmisión de datos, p. ej. descarga [2020.01]"
+  },
+  {
+    "code": "H04M 1/276",
+    "description": "••••••••por medio de registro magnético, p. ej. en cinta [2006.01]"
+  },
+  {
+    "code": "H04M 1/278",
+    "description": "••••••••por medio de tarjetas o cintas perforadas [2006.01]"
+  },
+  {
+    "code": "H04M 1/30",
+    "description": "••••Dispositivos que emiten y transmiten un solo carácter a la vez [2006.01]"
+  },
+  {
+    "code": "H04M 1/31",
+    "description": "••••••por interrupción de la corriente para enviar trenes de impulsos; por apertura y cierre periódico de contactos para engendrar trenes de impulsos [2006.01]"
+  },
+  {
+    "code": "H04M 1/315",
+    "description": "••••••••Embragues , reguladores de velocidad, p. ej. frenos centrífugos; Mecanismos de resortes; Reguladores de velocidad, p. ej. frenos centrífugos (H04M 1/32-H04M 1/40 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H04M 1/32",
+    "description": "••••••••Dispositivos de cierre durante la transmisión para evitar una interferencia por el abonado [2006.01]"
+  },
+  {
+    "code": "H04M 1/34",
+    "description": "••••••••Movimiento retardador u otras disposiciones para asegurar una pausa entre emisiones sucesivas de caracteres [2006.01]"
+  },
+  {
+    "code": "H04M 1/38",
+    "description": "••••••••Impulsos emitidos por un movimiento limitado de forma variable por la imposición de una parada [2006.01]"
+  },
+  {
+    "code": "H04M 1/40",
+    "description": "••••••••en los mecanismos de transmisión de defectos de cortocircuitos debidos a una operación de montaje o de defectos de continuidad durante una parte variable de un ciclo [2006.01]"
+  },
+  {
+    "code": "H04M 1/50",
+    "description": "••••••por generación o selección de corriente de frecuencias predeterminadas o combinaciones de frecuencias [2006.01]"
+  },
+  {
+    "code": "H04M 1/515",
+    "description": "••••produciendo o seleccionando otras señales diferentes de los trenes de impulsos de formas parecidas u otras señales de corrientes de una o varias frecuencias diferentes, p. ej. producción de señales de corriente continua de polaridad alternada, impulsos codificados o selección por impedancias [2006.01]"
+  },
+  {
+    "code": "H04M 1/52",
+    "description": "••••Disposiciones en las cuales un dial o equivalente es acoplado mecánicamente a un selector de línea [2006.01]"
+  },
+  {
+    "code": "H04M 1/53",
+    "description": "••••Producción de señales adicionales, p. ej. impulsos adicionales [2006.01]"
+  },
+  {
+    "code": "H04M 1/54",
+    "description": "••••••Disposiciones en las cuales un dial o equivalente genera señales de identificación, p. ej. en sistemas de líneas compartidas [2006.01]"
+  },
+  {
+    "code": "H04M 1/56",
+    "description": "••Disposiciones para indicar o registrar el número pedido en el aparato del abonado que llama [2006.01]"
+  },
+  {
+    "code": "H04M 1/57",
+    "description": "••Disposiciones para indicar o registrar el número del abonado que llama en el aparato del abonado llamado (en el aparato de la operadora de una central manual H04M 5/20) [2006.01]"
+  },
+  {
+    "code": "H04M 1/58",
+    "description": "••Circuitos protegidos contra los ruidos del ambiente [2006.01]"
+  },
+  {
+    "code": "H04M 1/60",
+    "description": "••incluyendo amplificadores de voz [2006.01]"
+  },
+  {
+    "code": "H04M 1/62",
+    "description": "••••Disposiciones constructivas [2006.01]"
+  },
+  {
+    "code": "H04M 1/64",
+    "description": "••Disposiciones automáticas para responder a las llamadas; Disposiciones automáticas para registrar mensajes para abonados ausentes; disposiciones para grabar conversaciones (sistemas de dictado centralizado H04M 11/10) [2006.01]"
+  },
+  {
+    "code": "H04M 1/65",
+    "description": "••••Disposiciones de grabación [2006.01]"
+  },
+  {
+    "code": "H04M 1/652",
+    "description": "••••••Medios para reproducir los mensajes grabados utilizando control remoto a través de una línea telefónica (H04M 1/658 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H04M 1/654",
+    "description": "••••••Circuitos de control de la línea telefónica para ese fin, p. ej. detectores de timbre telefónico [2006.01]"
+  },
+  {
+    "code": "H04M 1/656",
+    "description": "••••••para grabación de conversaciones [2006.01]"
+  },
+  {
+    "code": "H04M 1/658",
+    "description": "••••••Medios para remitir mensajes grabados a otras extensiones o equipos [2006.01]"
+  },
+  {
+    "code": "H04M 1/66",
+    "description": "••con medios para evitar las llamadas no autorizadas o fraudulentas (verificación de la identidad o autoridad del usuario en comunicaciones digitales secretas o protegidas H04L 9/32) [2006.01]"
+  },
+  {
+    "code": "H04M 1/663",
+    "description": "••••Que impiden las llamadas no autorizadas a un terminal telefónico [2006.01]"
+  },
+  {
+    "code": "H04M 1/665",
+    "description": "••••••mediante la comprobación de la validez de un código [2006.01]"
+  },
+  {
+    "code": "H04M 1/667",
+    "description": "••••Que impiden las llamadas no autorizadas desde un terminal telefónico (H04M 1/677 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H04M 1/67",
+    "description": "••••••mediante medios electrónicos [2006.01]"
+  },
+  {
+    "code": "H04M 1/673",
+    "description": "••••••••requiriéndose al usuario teclear un código [2006.01]"
+  },
+  {
+    "code": "H04M 1/675",
+    "description": "••••••••requiriéndose al usuario introducir una tarjeta codificada, p. ej. una tarjeta inteligente que tiene un circuito integrado [2006.01]"
+  },
+  {
+    "code": "H04M 1/677",
+    "description": "••••Que impiden el marcaje o envío de números de teléfono predeterminados o tipos seleccionados de números de teléfono, p. ej. llamadas a larga distancia [2006.01]"
+  },
+  {
+    "code": "H04M 1/68",
+    "description": "••Circuitos para evitar la escucha indiscreta [2006.01]"
+  },
+  {
+    "code": "H04M 1/70",
+    "description": "••••Disposiciones de cierre o de secreto en los sistemas de líneas compartidas [2006.01]"
+  },
+  {
+    "code": "H04M 1/71",
+    "description": "••Disposiciones de extensión de la subestación [2021.01]"
+  },
+  {
+    "code": "H04M 1/715",
+    "description": "••••que usan dos o más extensiones por línea (teléfonos inalámbricos H04M 1/725) [2021.01]"
+  },
+  {
+    "code": "H04M 1/72",
+    "description": "••Teléfonos móviles; Teléfonos inalámbricos, es decir, dispositivos para establecer enlaces inalámbricos a estaciones base sin selección de ruta [2021.01]"
+  },
+  {
+    "code": "H04M 1/724",
+    "description": "••••Interfaces de usuario especialmente adaptadas para los teléfonos inalámbricos o móviles [2021.01]"
+  },
+  {
+    "code": "H04M 1/72403",
+    "description": "••••••con medios para soporte local de aplicaciones que aumenten la funcionalidad [2021.01]"
+  },
+  {
+    "code": "H04M 1/72406",
+    "description": "••••••••mediante la actualización o descarga de software [2021.01]"
+  },
+  {
+    "code": "H04M 1/72409",
+    "description": "••••••••mediante la interacción con accesorios externos (manos libres H04M 1/60) [2021.01]"
+  },
+  {
+    "code": "H04M 1/72412",
+    "description": "••••••••••usando interfaces inalámbricas de corto alcance de dos vías [2021.01]"
+  },
+  {
+    "code": "H04M 1/72415",
+    "description": "••••••••••para el control remoto de los equipos [2021.01]"
+  },
+  {
+    "code": "H04M 1/72418",
+    "description": "••••••••para soporte a los servicios de emergencia [2021.01]"
+  },
+  {
+    "code": "H04M 1/72421",
+    "description": "••••••••••con activación automática de las funciones de los servicios de emergencia, p. ej.  al percibir una alarma [2021.01]"
+  },
+  {
+    "code": "H04M 1/72424",
+    "description": "••••••••••con activación manual de las funciones de servicio de emergencia [2021.01]"
+  },
+  {
+    "code": "H04M 1/72427",
+    "description": "••••••••para soporte a juegos o animaciones gráficas [2021.01]"
+  },
+  {
+    "code": "H04M 1/7243",
+    "description": "••••••••con medios interactivos para la gestión interna de los mensajes [2021.01]"
+  },
+  {
+    "code": "H04M 1/72433",
+    "description": "••••••••••para la mensajería de voz, p. ej.  dictáfonos (para responder a las llamadas entrantes H04M 1/64) [2021.01]"
+  },
+  {
+    "code": "H04M 1/72436",
+    "description": "••••••••••para los mensajes de texto, p. ej.  SMS o correo electrónico [2021.01]"
+  },
+  {
+    "code": "H04M 1/72439",
+    "description": "••••••••••para la mensajería de imágenes o video [2021.01]"
+  },
+  {
+    "code": "H04M 1/72442",
+    "description": "••••••••para reproducir archivos de música [2021.01]"
+  },
+  {
+    "code": "H04M 1/72445",
+    "description": "••••••••para soporte a aplicaciones de los navegadores de Internet [2021.01]"
+  },
+  {
+    "code": "H04M 1/72448",
+    "description": "••••••con medios para adaptar la funcionalidad del dispositivo según las condiciones específicas [2021.01]"
+  },
+  {
+    "code": "H04M 1/72451",
+    "description": "••••••••de acuerdo con los calendarios, p. ej.  utilizando aplicaciones de calendario [2021.01]"
+  },
+  {
+    "code": "H04M 1/72454",
+    "description": "••••••••según las condiciones relacionadas con el contexto o el medio ambiente [2021.01]"
+  },
+  {
+    "code": "H04M 1/72457",
+    "description": "••••••••según la ubicación geográfica [2021.01]"
+  },
+  {
+    "code": "H04M 1/7246",
+    "description": "••••••••mediante la conexión de partes de la carcasa intercambiables [2021.01]"
+  },
+  {
+    "code": "H04M 1/72463",
+    "description": "••••••••para restringir la funcionalidad del dispositivo [2021.01]"
+  },
+  {
+    "code": "H04M 1/72466",
+    "description": "••••••con medios de selección, p. ej.  teclas, que tienen funciones definidas por el modo o el estado del dispositivo [2021.01]"
+  },
+  {
+    "code": "H04M 1/72469",
+    "description": "••••••para manejar el dispositivo seleccionando funciones de dos o más elementos mostrados, p. ej.  menús o iconos [2021.01]"
+  },
+  {
+    "code": "H04M 1/72472",
+    "description": "••••••••en las que los artículos se clasifican según criterios específicos, p. ej. la frecuencia de uso [2021.01]"
+  },
+  {
+    "code": "H04M 1/72475",
+    "description": "••••••especialmente adaptadas para usuarios con discapacidad [2021.01]"
+  },
+  {
+    "code": "H04M 1/72478",
+    "description": "••••••••para usuarios con discapacidad auditiva [2021.01]"
+  },
+  {
+    "code": "H04M 1/72481",
+    "description": "••••••••para usuarios con discapacidad visual [2021.01]"
+  },
+  {
+    "code": "H04M 1/72484",
+    "description": "••••••en las que las funciones se desencadenan por eventos de comunicación entrantes [2021.01]"
+  },
+  {
+    "code": "H04M 1/725",
+    "description": "••••Teléfonos inalámbricos (interfaces de usuario especialmente adaptadas para ello H04M 1/724) [2021.01]"
+  },
+  {
+    "code": "H04M 1/72502",
+    "description": "••••••con una estación base conectada a una sola línea [2021.01]"
+  },
+  {
+    "code": "H04M 1/72505",
+    "description": "••••••••Procedimientos de configuración del enlace de radio [2021.01]"
+  },
+  {
+    "code": "H04M 1/72508",
+    "description": "••••••••••usando un canal de control [2021.01]"
+  },
+  {
+    "code": "H04M 1/72511",
+    "description": "••••••••••Buscando canales disponibles [2021.01]"
+  },
+  {
+    "code": "H04M 1/72513",
+    "description": "••••••••••Modos de comunicación en espera, intercomunicación o transferencia [2021.01]"
+  },
+  {
+    "code": "H04M 1/72516",
+    "description": "••••••••con medios para alertar de fuera de cobertura [2021.01]"
+  },
+  {
+    "code": "H04M 1/727",
+    "description": "••••••Dispositivos de transferencia del código de identificación [2006.01]"
+  },
+  {
+    "code": "H04M 1/73",
+    "description": "••••••Dispositivos para el ahorro de batería [2006.01]"
+  },
+  {
+    "code": "H04M 1/733",
+    "description": "••••••con una pluralidad de estaciones base conectadas a una pluralidad de líneas [2006.01]"
+  },
+  {
+    "code": "H04M 1/737",
+    "description": "••••••caracterizados por la transmisión de ondas electromagnéticas distintas de las radioondas, p. ej. ondas infrarrojas [2006.01]"
+  },
+  {
+    "code": "H04M 1/738",
+    "description": "••Circuitos de interfaz para acoplar subestaciones a líneas de teléfono externas (H04M 1/78 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H04M 1/74",
+    "description": "••••con medios para reducir las interferencias; con medios para reducir efectos debidos a los defectos de línea [2006.01]"
+  },
+  {
+    "code": "H04M 1/76",
+    "description": "••••Compensación para las diferencias de impedancia de línea [2006.01]"
+  },
+  {
+    "code": "H04M 1/78",
+    "description": "••Circuitos en los cuales las señales vocales de baja frecuencia se desplazan en un sentido sobre una línea, mientras que en el otro sentido de la línea las señales de frecuencia vocal son moduladas en una señal portadora de alta frecuencia [2006.01]"
+  },
+  {
+    "code": "H04M 1/80",
+    "description": "••Circuitos para mantener la línea conectada [2006.01]"
+  },
+  {
+    "code": "H04M 1/82",
+    "description": "••Circuitos de control de la línea durante el desarrollo de la llamada o para el discernimiento de su estado [2006.01]"
+  },
+  {
+    "code": "H04M 3/00",
+    "description": "Centrales automáticas o semiautomáticas [2006.01]"
+  },
+  {
+    "code": "H04M 3/02",
+    "description": "••Subestaciones de llamada, p. ej. de timbre (llamada selectiva H04Q) [2006.01]"
+  },
+  {
+    "code": "H04M 3/04",
+    "description": "••••siendo suministrada la señal de llamada por un selector final [2006.01]"
+  },
+  {
+    "code": "H04M 3/06",
+    "description": "••••siendo suministrada la señal de llamada por un circuito de línea de abonado [2006.01]"
+  },
+  {
+    "code": "H04M 3/08",
+    "description": "••Indicación de defectos en circuitos o aparatos [2006.01]"
+  },
+  {
+    "code": "H04M 3/10",
+    "description": "••••Suministrando señales de defectos o averías [2006.01]"
+  },
+  {
+    "code": "H04M 3/12",
+    "description": "••••marcando los circuitos con avería con \"ocupado\"; permitiendo a los equipos liberarse de los circuitos con averías [2006.01]"
+  },
+  {
+    "code": "H04M 3/14",
+    "description": "••••señalización de la existencia del estado de \"descuelgue\" permanente [2006.01]"
+  },
+  {
+    "code": "H04M 3/16",
+    "description": "••con disposiciones de cierre o de secreto en los sistemas de líneas compartidas [2006.01]"
+  },
+  {
+    "code": "H04M 3/18",
+    "description": "••con medios para reducir las interferencias; con medios para reducir los efectos debidos a defectos de líneas [2006.01]"
+  },
+  {
+    "code": "H04M 3/20",
+    "description": "••con medios para interrumpir las conexiones existentes; con medios para intervenir en las conversaciones [2006.01]"
+  },
+  {
+    "code": "H04M 3/22",
+    "description": "••Disposiciones de supervisión, de control o de ensayo [2006.01]"
+  },
+  {
+    "code": "H04M 3/24",
+    "description": "••••con verificación del funcionamiento normal [2006.01]"
+  },
+  {
+    "code": "H04M 3/26",
+    "description": "••••con medios para aplicar señales de prueba [2006.01]"
+  },
+  {
+    "code": "H04M 3/28",
+    "description": "••••••Prueba del servicio automático [2006.01]"
+  },
+  {
+    "code": "H04M 3/30",
+    "description": "••••••••para líneas de abonados [2006.01]"
+  },
+  {
+    "code": "H04M 3/32",
+    "description": "••••••••para líneas entre centrales [2006.01]"
+  },
+  {
+    "code": "H04M 3/34",
+    "description": "••••••Prueba de diafonía [2006.01]"
+  },
+  {
+    "code": "H04M 3/36",
+    "description": "••••Cómputo estadístico, p. ej. registro de las ocasiones en que el tráfico sobrepasa la capacidad de la línea principal [2006.01]"
+  },
+  {
+    "code": "H04M 3/38",
+    "description": "••Disposiciones de servicio graduado, es decir, prohibición a algunos abonados de establecer ciertas conexiones (disposiciones de espera H04Q 3/64) [2006.01]"
+  },
+  {
+    "code": "H04M 3/40",
+    "description": "••Aplicaciones de amplificadores de la voz [2006.01]"
+  },
+  {
+    "code": "H04M 3/42",
+    "description": "••Sistemas que proporcionan servicios o funciones especiales a los abonados (especialmente adaptada para redes de comunicación inalámbricas H04W 4/00) [2006.01]"
+  },
+  {
+    "code": "H04M 3/424",
+    "description": "••••Disposiciones para rellamada automática (en el aparato del abonado H04M 1/27) [2006.01]"
+  },
+  {
+    "code": "H04M 3/428",
+    "description": "••••Disposiciones para situar las llamadas entrantes en espera [2006.01]"
+  },
+  {
+    "code": "H04M 3/432",
+    "description": "••••Disposiciones para llamar a un abonado en un momento determinado, p. ej. servicio despertador [2006.01]"
+  },
+  {
+    "code": "H04M 3/436",
+    "description": "••••Disposiciones para seleccionar llamadas entrantes [2006.01]"
+  },
+  {
+    "code": "H04M 3/44",
+    "description": "••••Disposiciones de conexiones adicionales que proporcionan un acceso a los abonados llamados frecuentemente, p. ej. llamada abreviada (en el aparato de abonado H04M 1/27; rellamada automática H04M 3/424) [2006.01]"
+  },
+  {
+    "code": "H04M 3/46",
+    "description": "••••Disposiciones para llamar a varias subcentrales en un orden determinado hasta que sea obtenida una respuesta [2006.01]"
+  },
+  {
+    "code": "H04M 3/48",
+    "description": "••••Disposiciones para volver a llamar al abonado que llama cuando el abonado llamado deja de estar ocupado [2006.01]"
+  },
+  {
+    "code": "H04M 3/487",
+    "description": "••••Disposiciones para proporcionar servicios de información, p. ej. servicios de voz grabados o indicación de la hora [2006.01]"
+  },
+  {
+    "code": "H04M 3/493",
+    "description": "••••••Servicios de información interactivos, p. ej. petición de información del directorio telefónico [2006.01]"
+  },
+  {
+    "code": "H04M 3/50",
+    "description": "••••Disposiciones centralizadas para responder a las llamadas; Dispositivos centralizados para registrar mensajes para abonados ausentes u ocupados (H04M 3/487 tiene prioridad; sistemas de dictado centralizado H04M 11/10) [2006.01]"
+  },
+  {
+    "code": "H04M 3/51",
+    "description": "••••••Disposiciones centralizadas de respuesta de llamadas que requieren la intervención de un operador [2006.01]"
+  },
+  {
+    "code": "H04M 3/52",
+    "description": "••••••••Disposiciones para dirigir hacia operadores las llamadas a números no asignados [2006.01]"
+  },
+  {
+    "code": "H04M 3/523",
+    "description": "••••••••con distribución o puesta en espera de las llamadas [2006.01]"
+  },
+  {
+    "code": "H04M 3/527",
+    "description": "••••••Disposiciones centralizadas para respuesta de llamadas que no requieren la intervención del operador [2006.01]"
+  },
+  {
+    "code": "H04M 3/53",
+    "description": "••••••Disposiciones centralizadas para grabar los mensajes entrantes [2006.01]"
+  },
+  {
+    "code": "H04M 3/533",
+    "description": "••••••••Sistemas de mensajería de voz [2006.01]"
+  },
+  {
+    "code": "H04M 3/537",
+    "description": "••••••••Disposiciones para indicar la presencia de un mensaje grabado [2006.01]"
+  },
+  {
+    "code": "H04M 3/54",
+    "description": "••••Disposiciones para derivar las llamadas de un abonado a otro abonado determinado [2006.01]"
+  },
+  {
+    "code": "H04M 3/56",
+    "description": "••••Disposiciones para conectar varios abonados a un circuito común, es decir, para permitir la transmisión de conferencias (sistemas de videoconferencia H04N 7/15) [2006.01]"
+  },
+  {
+    "code": "H04M 3/58",
+    "description": "••••Disposiciones para transferir las llamadas recibidas de un abonado a otro; Disposiciones para permitir conversaciones interinas entre el llamador o el llamado y una tercera persona (circuitos de la subestación para mantener la línea conectada H04M 1/80) [2006.01]"
+  },
+  {
+    "code": "H04M 3/60",
+    "description": "••Sistemas semiautomáticos, es decir, sistemas en los cuales la selección numérica de la línea saliente está bajo el control de un operador [2006.01]"
+  },
+  {
+    "code": "H04M 3/62",
+    "description": "••••Equipos de teclado [2006.01]"
+  },
+  {
+    "code": "H04M 3/64",
+    "description": "••••Disposiciones para señalar el número o la clase de la línea llamante al operador (entre operadores en una conexión de centrales H04M 5/18) [2006.01]"
+  },
+  {
+    "code": "H04M 5/00",
+    "description": "Centrales manuales (equipos de subestaciones en general H04M 1/00) [2006.01]"
+  },
+  {
+    "code": "H04M 5/02",
+    "description": "••Detalles constructivos (jacks, clavijas H01R 24/58) [2006.01]"
+  },
+  {
+    "code": "H04M 5/04",
+    "description": "••Disposiciones para indicar las llamadas o conexiones de control de llamadas o de fin de conversación [2006.01]"
+  },
+  {
+    "code": "H04M 5/06",
+    "description": "••••permitiendo una distribución de llamada automática [2006.01]"
+  },
+  {
+    "code": "H04M 5/08",
+    "description": "••utilizando otros medios de conexión distintos de los cordones [2006.01]"
+  },
+  {
+    "code": "H04M 5/10",
+    "description": "••utilizando una clavija separada para cada abonado [2006.01]"
+  },
+  {
+    "code": "H04M 5/12",
+    "description": "••Subestaciones de sonido, p. ej. de timbre [2006.01]"
+  },
+  {
+    "code": "H04M 5/14",
+    "description": "••Aplicaciones de amplificadores de voz [2006.01]"
+  },
+  {
+    "code": "H04M 5/16",
+    "description": "••con medios para reducir interferencias; con medios para reducir efectos debidos a defectos de línea [2006.01]"
+  },
+  {
+    "code": "H04M 5/18",
+    "description": "••Disposiciones para señalar la clase o el número de la línea del llamado o del que llama desde una central a otra [2006.01]"
+  },
+  {
+    "code": "H04M 5/20",
+    "description": "••••Dispositivos para indicar el número para líneas entrantes [2006.01]"
+  },
+  {
+    "code": "H04M 7/00",
+    "description": "Disposiciones de interconexión entre centros de conmutación [2006.01]"
+  },
+  {
+    "code": "H04M 7/02",
+    "description": "••para compensar las diferencias de potencial de tierra [2006.01]"
+  },
+  {
+    "code": "H04M 7/04",
+    "description": "••para compensar las diferencias de impedancia de línea [2006.01]"
+  },
+  {
+    "code": "H04M 7/06",
+    "description": "••utilizando conexiones auxiliares para control o supervisión [2006.01]"
+  },
+  {
+    "code": "H04M 7/08",
+    "description": "••para la explotación de circuitos fantasmas [2006.01]"
+  },
+  {
+    "code": "H04M 7/10",
+    "description": "••para la explotación en doble sentido, es decir, las llamadas pueden ser enviadas en cualquier dirección por la misma conexión [2006.01]"
+  },
+  {
+    "code": "H04M 7/12",
+    "description": "••para la explotación entre centrales que tienen diferentes tipos de equipos de conmutación, p. ej. accionado mecánicamente y paso a paso o decimal y no decimal [2006.01]"
+  },
+  {
+    "code": "H04M 7/14",
+    "description": "••en sistemas que comprenden centros de conmutación principales y subordinados (fuentes de suministro de corriente en un centro de conmutación subordinado cargado desde una central principal H04M 19/06) [2006.01]"
+  },
+  {
+    "code": "H04M 7/16",
+    "description": "••en sistemas que utilizan frecuencias portadoras [2006.01]"
+  },
+  {
+    "code": "H04M 9/00",
+    "description": "Disposiciones de interconexión no comprendiendo conmutación centralizada [2006.01]"
+  },
+  {
+    "code": "H04M 9/02",
+    "description": "••comprendiendo una línea común para todos los grupos [2006.01]"
+  },
+  {
+    "code": "H04M 9/04",
+    "description": "••comprendiendo una línea separada para cada par de grupos [2006.01]"
+  },
+  {
+    "code": "H04M 9/06",
+    "description": "••comprendiendo combinaciones de líneas de interconexión [2006.01]"
+  },
+  {
+    "code": "H04M 9/08",
+    "description": "••Sistemas telefónicos con altavoz de doble dirección con medios para acondicionara la señal, p. ej. para suprimir ecos para uno u otra dirección de tráfico [2006.01]"
+  },
+  {
+    "code": "H04M 9/10",
+    "description": "••••con conmutación de dirección de transmisión por frecuencia vocal [2006.01]"
+  },
+  {
+    "code": "H04M 11/00",
+    "description": "Sistemas de comunicación telefónica especialmente adaptados para ser combinados con otros sistemas eléctricos [2006.01]"
+  },
+  {
+    "code": "H04M 11/02",
+    "description": "••con timbres o sistemas anunciadores [2006.01]"
+  },
+  {
+    "code": "H04M 11/04",
+    "description": "••con sistemas de alarma, p. ej, para incendios, policía, antirrobos y otros sistemas de alarma [2006.01]"
+  },
+  {
+    "code": "H04M 11/06",
+    "description": "••Transmisión simultánea telefónica y telegráfica, p. ej. transmisión telegráficasobre los mismos conductores [2006.01]"
+  },
+  {
+    "code": "H04M 11/08",
+    "description": "••especilmente adaptados para recibir opcionalmente asuntos recreativos o informativos [2006.01]"
+  },
+  {
+    "code": "H04M 11/10",
+    "description": "••con sistemas de registro y de reproducción de dictados [2006.01]"
+  },
+  {
+    "code": "H04M 13/00",
+    "description": "Sistemas de líneas de teléfonos agrupados (equipos de subestaciones H04M 1/00; equipos de centrales H04M 3/00, H04M 5/00; dispositivos de cómputo H04M 15/36) [2006.01]"
+  },
+  {
+    "code": "H04M 15/00",
+    "description": "Disposiciones de cómputo, de control de duración o de indicación de duración [2006.01]"
+  },
+  {
+    "code": "H04M 15/02",
+    "description": "••para romper una conexión después de un tiempo predeterminado [2006.01]"
+  },
+  {
+    "code": "H04M 15/04",
+    "description": "••para registrar llamadas bajo forma impresa, perforada u otra forma permanente [2006.01]"
+  },
+  {
+    "code": "H04M 15/06",
+    "description": "••••para registrar la clase o el número del llamado o del que llama [2006.01]"
+  },
+  {
+    "code": "H04M 15/08",
+    "description": "••para contar las llamadas a la parte llamada [2006.01]"
+  },
+  {
+    "code": "H04M 15/10",
+    "description": "••para contar las llamadas desde la parte que llama [2006.01]"
+  },
+  {
+    "code": "H04M 15/12",
+    "description": "••••para discriminación de lo contado [2006.01]"
+  },
+  {
+    "code": "H04M 15/14",
+    "description": "••••••de acuerdo con la clase del demandador [2006.01]"
+  },
+  {
+    "code": "H04M 15/16",
+    "description": "••••••de acuerdo con la conexión obtenida [2006.01]"
+  },
+  {
+    "code": "H04M 15/18",
+    "description": "••••••de acuerdo con la duración de la llamada [2006.01]"
+  },
+  {
+    "code": "H04M 15/20",
+    "description": "••••••••Disposiciones de registro de duración o de la indicación de duración del operador [2006.01]"
+  },
+  {
+    "code": "H04M 15/22",
+    "description": "••••••de acuerdo con la hora del día [2006.01]"
+  },
+  {
+    "code": "H04M 15/24",
+    "description": "••••••impidiendo el contar llamadas gratuitas para ciertas líneas, p. ej. a las estaciones de bomberos o de ambulancias [2006.01]"
+  },
+  {
+    "code": "H04M 15/26",
+    "description": "••••con un contador en la central controlado por el operador [2006.01]"
+  },
+  {
+    "code": "H04M 15/28",
+    "description": "••con contador en la subestación [2006.01]"
+  },
+  {
+    "code": "H04M 15/30",
+    "description": "••••no estando controlado el contador desde la central [2006.01]"
+  },
+  {
+    "code": "H04M 15/32",
+    "description": "••Disposiciones de montaje para satélites o distribuidores que conectan una o más líneas de la central con un grupo de líneas locales [2006.01]"
+  },
+  {
+    "code": "H04M 15/34",
+    "description": "••Disposiciones de contaje para intercambios de ramas privadas [2006.01]"
+  },
+  {
+    "code": "H04M 15/36",
+    "description": "••Disposiciones de contaje para líneas compartidas [2006.01]"
+  },
+  {
+    "code": "H04M 15/38",
+    "description": "••Cómputo por aparatos distintos de los del tipo de contadormecánico de paso a paso [2006.01]"
+  },
+  {
+    "code": "H04M 17/00",
+    "description": "Sistemas telefónicos de pago previo (utilizando una tarjeta codificada para autorizar llamadas desde un aparato telefónico H04M 1/675) [2006.01]"
+  },
+  {
+    "code": "H04M 17/02",
+    "description": "••Sistemas de previo pago con moneda o con ficha [2006.01]"
+  },
+  {
+    "code": "H04M 19/00",
+    "description": "Disposiciones de suministro de corriente para sistemas telefónicos (para equipos de selección H04Q 1/28) [2006.01]"
+  },
+  {
+    "code": "H04M 19/02",
+    "description": "••suministrando una corriente sonora o tono de supervisión, p. ej. tonalidad de marcado o tonalidad de ocupación [2006.01]"
+  },
+  {
+    "code": "H04M 19/04",
+    "description": "••••siendo producida la corriente sonora en la subcentral [2006.01]"
+  },
+  {
+    "code": "H04M 19/06",
+    "description": "••en la que la fuente de alimentación de corriente de las centrales de conmutación subordinada se carga desde una central principalo [2006.01]"
+  },
+  {
+    "code": "H04M 19/08",
+    "description": "••con las fuentes de alimentación de corriente en la subestación (produciendo una corriente sonora H04M 19/04) [2006.01]"
+  },
+  {
+    "code": "H04M 99/00",
+    "description": "Materia no prevista en otros grupos de esta subclase [2006.01]"
+  }
+]

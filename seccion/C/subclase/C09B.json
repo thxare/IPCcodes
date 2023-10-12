@@ -1,0 +1,2438 @@
+[
+  {
+    "code": "C09B 1/00",
+    "description": "Colorantes con un núcleo de antraceno no condensado con cualquier otro ciclo [2006.01]"
+  },
+  {
+    "code": "C09B 1/02",
+    "description": "••Hidroxiantraquinonas; Sus éteres o ésteres [2006.01]"
+  },
+  {
+    "code": "C09B 1/04",
+    "description": "••••preparación por síntesis de los núcleos [2006.01]"
+  },
+  {
+    "code": "C09B 1/06",
+    "description": "••••preparación a partir de materiales de partida que contienen ya núcleos de antraceno [2006.01]"
+  },
+  {
+    "code": "C09B 1/08",
+    "description": "••••••Colorantes que contienen solamente grupos OH [2006.01]"
+  },
+  {
+    "code": "C09B 1/10",
+    "description": "••••••Colorantes que contienen halógeno [2006.01]"
+  },
+  {
+    "code": "C09B 1/12",
+    "description": "••••••Colorantes que contienen grupos de ácido sulfónico [2006.01]"
+  },
+  {
+    "code": "C09B 1/14",
+    "description": "••••••Colorantes que contienen otros grupos [2006.01]"
+  },
+  {
+    "code": "C09B 1/16",
+    "description": "••Aminoantraquinonas [2006.01]"
+  },
+  {
+    "code": "C09B 1/18",
+    "description": "••••preparación por síntesis de los núcleos [2006.01]"
+  },
+  {
+    "code": "C09B 1/20",
+    "description": "••••preparación a partir de materiales de partida que contienen ya núcleos de antraceno [2006.01]"
+  },
+  {
+    "code": "C09B 1/22",
+    "description": "••••••Colorantes con grupos amino insustituidos [2006.01]"
+  },
+  {
+    "code": "C09B 1/24",
+    "description": "••••••••sulfonados [2006.01]"
+  },
+  {
+    "code": "C09B 1/26",
+    "description": "••••••Colorantes con grupos amino sustituidos por radicales hidrocarbonados [2006.01]"
+  },
+  {
+    "code": "C09B 1/28",
+    "description": "••••••••sustituidos por grupos alquil, aralquil, o cicloalquil [2006.01]"
+  },
+  {
+    "code": "C09B 1/30",
+    "description": "••••••••••sulfonados [2006.01]"
+  },
+  {
+    "code": "C09B 1/32",
+    "description": "••••••••sustituidos por grupos arilo (antrimidas C09B 1/48) [2006.01]"
+  },
+  {
+    "code": "C09B 1/34",
+    "description": "••••••••••sulfonados [2006.01]"
+  },
+  {
+    "code": "C09B 1/36",
+    "description": "••••••Colorantes con grupos amino acilados [2006.01]"
+  },
+  {
+    "code": "C09B 1/38",
+    "description": "••••••••derivados de urea o tiourea [2006.01]"
+  },
+  {
+    "code": "C09B 1/40",
+    "description": "••••••••siendo los grupos acilo residuos de un ácido carboxílico alifático o aralifático [2006.01]"
+  },
+  {
+    "code": "C09B 1/42",
+    "description": "••••••••siendo los grupos acilo residuos de un ácido carboxílico aromático [2006.01]"
+  },
+  {
+    "code": "C09B 1/43",
+    "description": "••••••••••Acidos dicarboxílicos [2006.01]"
+  },
+  {
+    "code": "C09B 1/44",
+    "description": "••••••••siendo los grupos acilo residuos de un ácido carboxílico heterocíclico [2006.01]"
+  },
+  {
+    "code": "C09B 1/46",
+    "description": "••••••••siendo los grupos acilo residuos de ácido cianúrico o un compuesto heterocíclico análogo [2006.01]"
+  },
+  {
+    "code": "C09B 1/467",
+    "description": "••••••••••unidos a varios ciclo antraquinona [2006.01]"
+  },
+  {
+    "code": "C09B 1/473",
+    "description": "••••••••siendo los grupos acilo residuos de un ácido sulfónico [2006.01]"
+  },
+  {
+    "code": "C09B 1/48",
+    "description": "••••••Antrimidas [2006.01]"
+  },
+  {
+    "code": "C09B 1/50",
+    "description": "••Aminohidroxiantraquinonas; Sus éteres o ésteres [2006.01]"
+  },
+  {
+    "code": "C09B 1/503",
+    "description": "••••Aminohidroxiantraquinona insustituida [2006.01]"
+  },
+  {
+    "code": "C09B 1/51",
+    "description": "••••Aminohidroxiantraquinona N-sustituida [2006.01]"
+  },
+  {
+    "code": "C09B 1/514",
+    "description": "••••••derivados N-arilo (derivados N-aralquilo C09B 1/515) [2006.01]"
+  },
+  {
+    "code": "C09B 1/515",
+    "description": "••••••derivados N-alquil, N-aralquilo o derivados N-cicloalquilo [2006.01]"
+  },
+  {
+    "code": "C09B 1/516",
+    "description": "••••••derivados N-acilados [2006.01]"
+  },
+  {
+    "code": "C09B 1/52",
+    "description": "••••sulfonados [2006.01]"
+  },
+  {
+    "code": "C09B 1/54",
+    "description": "••••eterificados [2006.01]"
+  },
+  {
+    "code": "C09B 1/56",
+    "description": "••Mercaptoantraquinonas [2006.01]"
+  },
+  {
+    "code": "C09B 1/58",
+    "description": "••••con grupos mercapto sustituidos por radicales alifáticos, cicloalifáticos, aralifáticos o arilo [2006.01]"
+  },
+  {
+    "code": "C09B 1/60",
+    "description": "••••••sustituidos por grupos alifáticos, cicloalifáticos o aralifáticos [2006.01]"
+  },
+  {
+    "code": "C09B 1/62",
+    "description": "••••con grupo mercapto sustituidos por un heterociclo [2006.01]"
+  },
+  {
+    "code": "C09B 3/00",
+    "description": "Colorantes con un núcleo de antraceno condensado con uno o más ciclos carbocíclicos [2006.01]"
+  },
+  {
+    "code": "C09B 3/02",
+    "description": "••Benzantronas [2006.01]"
+  },
+  {
+    "code": "C09B 3/04",
+    "description": "••••Preparación por síntesis de los núcleos [2006.01]"
+  },
+  {
+    "code": "C09B 3/06",
+    "description": "••••Preparación a partir de materias primas que contienen ya núcleos de benzantrona [2006.01]"
+  },
+  {
+    "code": "C09B 3/08",
+    "description": "••••••por halogenación [2006.01]"
+  },
+  {
+    "code": "C09B 3/10",
+    "description": "••••••Amino derivados [2006.01]"
+  },
+  {
+    "code": "C09B 3/12",
+    "description": "••••Dibenzantronilos [2006.01]"
+  },
+  {
+    "code": "C09B 3/14",
+    "description": "••Derivados del perileno [2006.01]"
+  },
+  {
+    "code": "C09B 3/16",
+    "description": "••••Preparación por síntesis del núcleo [2006.01]"
+  },
+  {
+    "code": "C09B 3/18",
+    "description": "••••Preparación a partir de materias primas que ya contienen el núcleo perileno [2006.01]"
+  },
+  {
+    "code": "C09B 3/20",
+    "description": "••••••por halogenación [2006.01]"
+  },
+  {
+    "code": "C09B 3/22",
+    "description": "••Dibenzantronas; Isobenzantronas [2006.01]"
+  },
+  {
+    "code": "C09B 3/24",
+    "description": "••••Preparación por síntesis del núcleo [2006.01]"
+  },
+  {
+    "code": "C09B 3/26",
+    "description": "••••••a partir de dibenzantronilos [2006.01]"
+  },
+  {
+    "code": "C09B 3/28",
+    "description": "••••••a partir de derivados de perileno [2006.01]"
+  },
+  {
+    "code": "C09B 3/30",
+    "description": "••••Preparación a partir de materias primas que ya contienen el núcleo de dibenzantrona o isodibenzantrona [2006.01]"
+  },
+  {
+    "code": "C09B 3/32",
+    "description": "••••••por halogenación [2006.01]"
+  },
+  {
+    "code": "C09B 3/34",
+    "description": "••••••por oxidación [2006.01]"
+  },
+  {
+    "code": "C09B 3/36",
+    "description": "••••••por eterificación de compuestos hidroxi [2006.01]"
+  },
+  {
+    "code": "C09B 3/38",
+    "description": "••••••por introducción de residuos de hidrocarburos o acilo en grupos amino [2006.01]"
+  },
+  {
+    "code": "C09B 3/40",
+    "description": "••Pirantronas [2006.01]"
+  },
+  {
+    "code": "C09B 3/42",
+    "description": "••••Preparación por síntesis del núcleo [2006.01]"
+  },
+  {
+    "code": "C09B 3/44",
+    "description": "••••Preparación a partir de materias primas que ya contienen el núcleo de pirantrona [2006.01]"
+  },
+  {
+    "code": "C09B 3/46",
+    "description": "••••••por halogenación [2006.01]"
+  },
+  {
+    "code": "C09B 3/48",
+    "description": "••••••Amino derivados [2006.01]"
+  },
+  {
+    "code": "C09B 3/50",
+    "description": "••Dibenzopiranoquinonas [2006.01]"
+  },
+  {
+    "code": "C09B 3/52",
+    "description": "••••Preparación por síntesis del núcleo [2006.01]"
+  },
+  {
+    "code": "C09B 3/54",
+    "description": "••••Preparación a partir de materias primas que ya contienen el núcleo dibenzopiranoquinona [2006.01]"
+  },
+  {
+    "code": "C09B 3/56",
+    "description": "••••••Amino derivados [2006.01]"
+  },
+  {
+    "code": "C09B 3/58",
+    "description": "••Benzantraquinonas [2006.01]"
+  },
+  {
+    "code": "C09B 3/60",
+    "description": "••Antantronas [2006.01]"
+  },
+  {
+    "code": "C09B 3/62",
+    "description": "••••Preparación por síntesis del núcleo [2006.01]"
+  },
+  {
+    "code": "C09B 3/64",
+    "description": "••••Preparación a partir de materias primas que ya contienen el núcleo de antantrona [2006.01]"
+  },
+  {
+    "code": "C09B 3/66",
+    "description": "••••••por halogenación [2006.01]"
+  },
+  {
+    "code": "C09B 3/68",
+    "description": "••••••Amino derivados [2006.01]"
+  },
+  {
+    "code": "C09B 3/70",
+    "description": "••Benzo- nafto-, o antradiantronas [2006.01]"
+  },
+  {
+    "code": "C09B 3/72",
+    "description": "••••Preparación por síntesis del núcleo [2006.01]"
+  },
+  {
+    "code": "C09B 3/74",
+    "description": "••••Preparación a partir de materias primas que ya contienen el núcleo benzo-, nafto-, o antradiantrona [2006.01]"
+  },
+  {
+    "code": "C09B 3/76",
+    "description": "••••••por halogenación [2006.01]"
+  },
+  {
+    "code": "C09B 3/78",
+    "description": "••Otros colorantes en los que el núcleo de antraceno está condensado con uno o más ciclos carbocíclicos [2006.01]"
+  },
+  {
+    "code": "C09B 3/80",
+    "description": "••••Preparación por síntesis del núcleo [2006.01]"
+  },
+  {
+    "code": "C09B 3/82",
+    "description": "••••Preparación a partir de materias primas que ya contienen el núcleo de antraceno condensado [2006.01]"
+  },
+  {
+    "code": "C09B 5/00",
+    "description": "Colorantes con un núcleo de antraceno condensado con uno o más ciclos heterocíclicos con o sin ciclos carbocíclicos [2006.01]"
+  },
+  {
+    "code": "C09B 5/02",
+    "description": "••siendo el ciclo heterocíclico condensado en posición peri [2006.01]"
+  },
+  {
+    "code": "C09B 5/04",
+    "description": "••••Pirazolantronas [2006.01]"
+  },
+  {
+    "code": "C09B 5/06",
+    "description": "••••••Productos de condensación de benzantronilopirazolantrona [2006.01]"
+  },
+  {
+    "code": "C09B 5/08",
+    "description": "••••••Dipirazolantronas [2006.01]"
+  },
+  {
+    "code": "C09B 5/10",
+    "description": "••••Isotiazolantronas; Isoxazolantronas; Isoselenazolantronas [2006.01]"
+  },
+  {
+    "code": "C09B 5/12",
+    "description": "••••Tiofenantronas [2006.01]"
+  },
+  {
+    "code": "C09B 5/14",
+    "description": "••••Benz-azbenzantronas (antrapiridonas) [2006.01]"
+  },
+  {
+    "code": "C09B 5/16",
+    "description": "••••Benz-diazabenzantronas, p. ej. antrapirimidonas [2006.01]"
+  },
+  {
+    "code": "C09B 5/18",
+    "description": "••••Ceroxeno; Certieno; Ceramideno; Sus derivados [2006.01]"
+  },
+  {
+    "code": "C09B 5/20",
+    "description": "••••Flavantronas [2006.01]"
+  },
+  {
+    "code": "C09B 5/22",
+    "description": "••••••Preparación a partir de materias primas que ya contienen el núcleo de flavantrona [2006.01]"
+  },
+  {
+    "code": "C09B 5/24",
+    "description": "••estando el ciclo(s) heterocíclico condensado con un núcleo de antraquinona en posición 1-2 ó 2-3 [2006.01]"
+  },
+  {
+    "code": "C09B 5/26",
+    "description": "••••Carbazoles de las series de antraceno [2006.01]"
+  },
+  {
+    "code": "C09B 5/28",
+    "description": "••••••Antrimida-carbazoles [2006.01]"
+  },
+  {
+    "code": "C09B 5/30",
+    "description": "••••Azoles-1,2 de las series de antraceno [2006.01]"
+  },
+  {
+    "code": "C09B 5/32",
+    "description": "••••Azoles-1,3 de las series de antraceno [2006.01]"
+  },
+  {
+    "code": "C09B 5/34",
+    "description": "••••Antraquinona acridonas o tioxantonas [2006.01]"
+  },
+  {
+    "code": "C09B 5/36",
+    "description": "••••••Aminoacridonas [2006.01]"
+  },
+  {
+    "code": "C09B 5/38",
+    "description": "••••••Compuestos que contienen ciclos de acridona o carbazol [2006.01]"
+  },
+  {
+    "code": "C09B 5/40",
+    "description": "••••••Productos de condensación de benzantroniloamino-antraquinonas [2006.01]"
+  },
+  {
+    "code": "C09B 5/42",
+    "description": "••••Piridinoantraquinonas [2006.01]"
+  },
+  {
+    "code": "C09B 5/44",
+    "description": "••••Azinas de las series de antraceno [2006.01]"
+  },
+  {
+    "code": "C09B 5/46",
+    "description": "••••••Para-diazinas [2006.01]"
+  },
+  {
+    "code": "C09B 5/48",
+    "description": "••••••••Bisantraquinonadiazinas (indantrona) [2006.01]"
+  },
+  {
+    "code": "C09B 5/50",
+    "description": "••••••••••Preparación por fusión alcalina de amino-2 antraquinonas [2006.01]"
+  },
+  {
+    "code": "C09B 5/52",
+    "description": "••••••••••Preparación por condensación de halógeno-1 amino-2 antraquinonas [2006.01]"
+  },
+  {
+    "code": "C09B 5/54",
+    "description": "••••••••••Preparación a partir de amino-2 antrahidroquinonas [2006.01]"
+  },
+  {
+    "code": "C09B 5/56",
+    "description": "••••••••••Preparación a partir de materias primas que ya contienen el núcleo de indantreno [2006.01]"
+  },
+  {
+    "code": "C09B 5/58",
+    "description": "••••••••••••por halogenación [2006.01]"
+  },
+  {
+    "code": "C09B 5/60",
+    "description": "••••••Tiazinas; Oxazinas [2006.01]"
+  },
+  {
+    "code": "C09B 5/62",
+    "description": "••Imidas o amidinas cíclicas de los ácidos peridicarboxílicos de las series de antraceno, benzantreno o perileno [2006.01]"
+  },
+  {
+    "code": "C09B 6/00",
+    "description": "Colorantes de antraceno no previstos anteriormente [2006.01]"
+  },
+  {
+    "code": "C09B 7/00",
+    "description": "Colorantes indigoides [2006.01]"
+  },
+  {
+    "code": "C09B 7/02",
+    "description": "••Bis-indol indigos [2006.01]"
+  },
+  {
+    "code": "C09B 7/04",
+    "description": "••••Su halogenación [2006.01]"
+  },
+  {
+    "code": "C09B 7/06",
+    "description": "••Indigos de indona-tionafteno [2006.01]"
+  },
+  {
+    "code": "C09B 7/08",
+    "description": "••Otros indigos del indol [2006.01]"
+  },
+  {
+    "code": "C09B 7/10",
+    "description": "••Indigos del bi-tionafteno [2006.01]"
+  },
+  {
+    "code": "C09B 7/12",
+    "description": "••Otros indigos del tionafteno [2006.01]"
+  },
+  {
+    "code": "C09B 9/00",
+    "description": "Esteres o éster-sales de compuestos leuco de colorantes de tina [2006.01]"
+  },
+  {
+    "code": "C09B 9/02",
+    "description": "••de colorantes de antraceno [2006.01]"
+  },
+  {
+    "code": "C09B 9/04",
+    "description": "••de colorantes indigoides [2006.01]"
+  },
+  {
+    "code": "C09B 11/00",
+    "description": "Colorantes de diaril o triarilmetano [2006.01]"
+  },
+  {
+    "code": "C09B 11/02",
+    "description": "••derivados a partir de diarilmetanos [2006.01]"
+  },
+  {
+    "code": "C09B 11/04",
+    "description": "••derivados a partir de triarilmetanos [2006.01]"
+  },
+  {
+    "code": "C09B 11/06",
+    "description": "••••Derivados hidroxi de triarilmetanos en los que al menos un grupo —OH está unido a un núcleo arilo [2006.01]"
+  },
+  {
+    "code": "C09B 11/08",
+    "description": "••••••Ftaleínas [2006.01]"
+  },
+  {
+    "code": "C09B 11/10",
+    "description": "••••Amino derivados de triarilmetano [2006.01]"
+  },
+  {
+    "code": "C09B 11/12",
+    "description": "••••••sin ningún grupo —OH unido a un núcleo arilo [2006.01]"
+  },
+  {
+    "code": "C09B 11/14",
+    "description": "••••••••Preparación a partir de aldehídos aromáticos, ácidos carboxílicos aromáticos o sus derivados y aminas aromáticas [2006.01]"
+  },
+  {
+    "code": "C09B 11/16",
+    "description": "••••••••Preparación a partir de diarilcetonas o diarilcarbinoles [2006.01]"
+  },
+  {
+    "code": "C09B 11/18",
+    "description": "••••••••Preparación por oxidación [2006.01]"
+  },
+  {
+    "code": "C09B 11/20",
+    "description": "••••••••Preparación a partir de otros derivados del triarilmetano [2006.01]"
+  },
+  {
+    "code": "C09B 11/22",
+    "description": "••••••que contienen grupos —OH unidos a un núcleo arilo [2006.01]"
+  },
+  {
+    "code": "C09B 11/24",
+    "description": "••••••Ftaleínas que contienen grupos amino [2006.01]"
+  },
+  {
+    "code": "C09B 11/26",
+    "description": "••••Colorantes de triarilmetano en los que al menos uno de los núcleos aromáticos es un heterocíclo de carácter aromático [2006.01]"
+  },
+  {
+    "code": "C09B 11/28",
+    "description": "••Pironinas [2006.01]"
+  },
+  {
+    "code": "C09B 13/00",
+    "description": "Colorantes de oxicetona [2006.01]"
+  },
+  {
+    "code": "C09B 13/02",
+    "description": "••de las series de naftaleno, p. ej. naftazarina [2006.01]"
+  },
+  {
+    "code": "C09B 13/04",
+    "description": "••de las series del pirano [2006.01]"
+  },
+  {
+    "code": "C09B 13/06",
+    "description": "••de las series de acetofenona [2006.01]"
+  },
+  {
+    "code": "C09B 15/00",
+    "description": "Colorantes de acridina [2006.01]"
+  },
+  {
+    "code": "C09B 17/00",
+    "description": "Colorantes de azina [2006.01]"
+  },
+  {
+    "code": "C09B 17/02",
+    "description": "••de las series del benceno [2006.01]"
+  },
+  {
+    "code": "C09B 17/04",
+    "description": "••de las series del naftaleno [2006.01]"
+  },
+  {
+    "code": "C09B 17/06",
+    "description": "••Fluorindina o sus derivados [2006.01]"
+  },
+  {
+    "code": "C09B 19/00",
+    "description": "Colorantes de oxazina [2006.01]"
+  },
+  {
+    "code": "C09B 19/02",
+    "description": "••Bioxazinas preparadas a partir de aminoquinonas [2006.01]"
+  },
+  {
+    "code": "C09B 21/00",
+    "description": "Colorantes de tiazina [2006.01]"
+  },
+  {
+    "code": "C09B 23/00",
+    "description": "Colorantes de metina o polimetina, p. ej. de tipo cianina [2006.01]"
+  },
+  {
+    "code": "C09B 23/01",
+    "description": "••caracterizados por la cadena metínica [2006.01]"
+  },
+  {
+    "code": "C09B 23/02",
+    "description": "••••que contiene un número impar de grupos CH [2006.01]"
+  },
+  {
+    "code": "C09B 23/04",
+    "description": "••••••un solo grupo CH, p. ej. cianinas, isocianinas, pseudocianinas [2006.01]"
+  },
+  {
+    "code": "C09B 23/06",
+    "description": "••••••tres grupos CH, p. ej. carbocianinas [2006.01]"
+  },
+  {
+    "code": "C09B 23/08",
+    "description": "••••••más de tres grupos CH, p. ej. policarbocianinas [2006.01]"
+  },
+  {
+    "code": "C09B 23/10",
+    "description": "••••que contiene un número par de grupos CH [2006.01]"
+  },
+  {
+    "code": "C09B 23/12",
+    "description": "••siendo la cadena de polimetina ramificada [2006.01]"
+  },
+  {
+    "code": "C09B 23/14",
+    "description": "••Colorantes de estirilo [2006.01]"
+  },
+  {
+    "code": "C09B 23/16",
+    "description": "••la cadena de polimetina que contiene heteroátomos [2006.01]"
+  },
+  {
+    "code": "C09B 25/00",
+    "description": "Quinoftalonas [2006.01]"
+  },
+  {
+    "code": "C09B 26/02",
+    "description": "••Colorantes de hidrazona (colorantes ozoicos de hidrazona C09B 56/18) [2006.01]"
+  },
+  {
+    "code": "C09B 26/04",
+    "description": "••••catiónicos [2006.01]"
+  },
+  {
+    "code": "C09B 26/06",
+    "description": "••Colorantes de triazeno (colorantes azoicos de triazeno C09B 56/20) [2006.01]"
+  },
+  {
+    "code": "C09B 27/00",
+    "description": "Preparaciones en las que el grupo azo está formado en forma diferente a la diazoación y copulación [2006.01]"
+  },
+  {
+    "code": "C09B 27/06",
+    "description": "••Tartrazinas [2006.01]"
+  },
+  {
+    "code": "C09B 29/00",
+    "description": "Colorantes monoazo preparados por diazoación y copulación [2006.01]"
+  },
+  {
+    "code": "C09B 29/01",
+    "description": "••caracterizados por el componente diazo [2006.01]"
+  },
+  {
+    "code": "C09B 29/02",
+    "description": "••••a partir de compuestos o-aminohidroxi diazoados [2006.01]"
+  },
+  {
+    "code": "C09B 29/03",
+    "description": "••••a partir de ácidos o-aminocarboxílicos diazoados u o-aminosulfónicos diazoados [2006.01]"
+  },
+  {
+    "code": "C09B 29/033",
+    "description": "••••a partir de aminas diazoadas que contienen un heterociclo [2006.01]"
+  },
+  {
+    "code": "C09B 29/036",
+    "description": "••••••conteniendo el heterociclo solamente nitrógeno como heteroátomo [2006.01]"
+  },
+  {
+    "code": "C09B 29/039",
+    "description": "••••••conteniendo el heterociclo nitrógeno y azufre como heteroátomos [2006.01]"
+  },
+  {
+    "code": "C09B 29/042",
+    "description": "••••••••siendo el heterociclo un ciclo tiazol [2006.01]"
+  },
+  {
+    "code": "C09B 29/045",
+    "description": "••••••••••Benzotiazoles [2006.01]"
+  },
+  {
+    "code": "C09B 29/048",
+    "description": "••••••••siendo el heterociclo un ciclo tiadiazol [2006.01]"
+  },
+  {
+    "code": "C09B 29/06",
+    "description": "••a partir de componentes de copulación que contienen solamente el grupo amino como orientador [2006.01]"
+  },
+  {
+    "code": "C09B 29/08",
+    "description": "••••Aminobencenos [2006.01]"
+  },
+  {
+    "code": "C09B 29/085",
+    "description": "••••••copulados con anilinas diazoadas [2006.01]"
+  },
+  {
+    "code": "C09B 29/09",
+    "description": "••••••copulados con aminas diazoadas que contienen heterociclos [2006.01]"
+  },
+  {
+    "code": "C09B 29/095",
+    "description": "••••Aminonaftalenos [2006.01]"
+  },
+  {
+    "code": "C09B 29/10",
+    "description": "••a partir de componentes de copulación que contienen solamente el grupo hidroxilo como orientador [2006.01]"
+  },
+  {
+    "code": "C09B 29/12",
+    "description": "••••de las series del benceno [2006.01]"
+  },
+  {
+    "code": "C09B 29/14",
+    "description": "••••••Acidos hidroxicarboxílicos [2006.01]"
+  },
+  {
+    "code": "C09B 29/15",
+    "description": "••••de la serie del naftaleno [2006.01]"
+  },
+  {
+    "code": "C09B 29/16",
+    "description": "••••••Acidos naftolsulfónicos [2006.01]"
+  },
+  {
+    "code": "C09B 29/18",
+    "description": "••••orto-hidroxi-carbonamidas [2006.01]"
+  },
+  {
+    "code": "C09B 29/20",
+    "description": "••••••de las series del naftaleno [2006.01]"
+  },
+  {
+    "code": "C09B 29/22",
+    "description": "••••••de compuestos heterocíclicos [2006.01]"
+  },
+  {
+    "code": "C09B 29/24",
+    "description": "••a partir de componentes de copulación que contienen a la vez grupos hidroxilo y amino como orientadores [2006.01]"
+  },
+  {
+    "code": "C09B 29/26",
+    "description": "••••Aminofenoles [2006.01]"
+  },
+  {
+    "code": "C09B 29/28",
+    "description": "••••Aminonaftoles [2006.01]"
+  },
+  {
+    "code": "C09B 29/30",
+    "description": "••••••Acidos aminonaftolsulfónicos [2006.01]"
+  },
+  {
+    "code": "C09B 29/32",
+    "description": "••a partir de componentes de copulación que contienen un grupo metileno reactivo [2006.01]"
+  },
+  {
+    "code": "C09B 29/33",
+    "description": "••••Acetil-o bencil-acetilarilidas [2006.01]"
+  },
+  {
+    "code": "C09B 29/34",
+    "description": "••a partir de otros componentes de copulación [2006.01]"
+  },
+  {
+    "code": "C09B 29/36",
+    "description": "••••heterocíclicos [2006.01]"
+  },
+  {
+    "code": "C09B 29/40",
+    "description": "••••••conteniendo un ciclo de cinco miembros con un átomo de nitrógeno como único heteroátomo del ciclo [2006.01]"
+  },
+  {
+    "code": "C09B 29/42",
+    "description": "••••••conteniendo un ciclo de seis miembros con un átomo de nitrógeno como único heteroátomo del ciclo [2006.01]"
+  },
+  {
+    "code": "C09B 29/44",
+    "description": "••••••••Quinoleínas o quinoleínas hidrogenadas [2006.01]"
+  },
+  {
+    "code": "C09B 29/46",
+    "description": "••••••Diazoles-1,2 o diazoles-1,2 hidrogenados [2006.01]"
+  },
+  {
+    "code": "C09B 29/48",
+    "description": "••••••••Aminodiazoles-1,2 [2006.01]"
+  },
+  {
+    "code": "C09B 29/50",
+    "description": "••••••••Diazolonas-1,2 [2006.01]"
+  },
+  {
+    "code": "C09B 29/52",
+    "description": "••••••Diazinas [2006.01]"
+  },
+  {
+    "code": "C09B 31/00",
+    "description": "Colorantes diazo o poliazo del tipo A→B→C, A→B→C→D o similares, preparados por diazoación y copulación [2006.01]"
+  },
+  {
+    "code": "C09B 31/02",
+    "description": "••Colorantes diazo [2006.01]"
+  },
+  {
+    "code": "C09B 31/04",
+    "description": "••••a partir de un componente de copulación \"C\" que contiene un grupo amino como orientador [2006.01]"
+  },
+  {
+    "code": "C09B 31/043",
+    "description": "••••••Aminobencenos [2006.01]"
+  },
+  {
+    "code": "C09B 31/047",
+    "description": "••••••••que contienen grupos ácido, p. ej. grupos —COOH,—SO3H,—PO3H2,—OSO3H,—OPO2H2; Sus sales [2006.01]"
+  },
+  {
+    "code": "C09B 31/053",
+    "description": "••••••Aminonaftalenos [2006.01]"
+  },
+  {
+    "code": "C09B 31/057",
+    "description": "••••••••que contienen grupos ácido, p. ej. grupos -—COOH,—SO3H,—PO3H2,—OSO3H,—OPO2H2; Sus sales [2006.01]"
+  },
+  {
+    "code": "C09B 31/06",
+    "description": "••••a partir de un componente de copulación \"C\" que contiene un grupo hidroxilo como orientador [2006.01]"
+  },
+  {
+    "code": "C09B 31/062",
+    "description": "••••••Fenoles [2006.01]"
+  },
+  {
+    "code": "C09B 31/065",
+    "description": "••••••••que contienen grupos ácido, p. ej. grupos —COOH,—SO3H,—PO3H2,—OSO3H,—OPO2H2; Sus sales [2006.01]"
+  },
+  {
+    "code": "C09B 31/068",
+    "description": "••••••Naftoles [2006.01]"
+  },
+  {
+    "code": "C09B 31/072",
+    "description": "••••••••que contienen grupos ácido, p. ej. grupos —COOH,—SO3H,—PO3H2,—OSO3H,—OPO2H2; Sus sales [2006.01]"
+  },
+  {
+    "code": "C09B 31/075",
+    "description": "••••••Amidas de ácidos o-hidroxicarboxílicos [2006.01]"
+  },
+  {
+    "code": "C09B 31/078",
+    "description": "••••••••que contienen grupos ácido, p. ej. grupos —COOH,—SO3H,—PO3H2,—OSO3H,—OPO2H2; Sus sales [2006.01]"
+  },
+  {
+    "code": "C09B 31/08",
+    "description": "••••a partir de un componente de copulación \"C\" que contiene grupos hidroxilo y amino como orientadores [2006.01]"
+  },
+  {
+    "code": "C09B 31/10",
+    "description": "••••a partir de un componente \"C\" que contiene grupos de metileno reactivos [2006.01]"
+  },
+  {
+    "code": "C09B 31/11",
+    "description": "••••••Acetil- o bencil-acetilarilidas [2006.01]"
+  },
+  {
+    "code": "C09B 31/12",
+    "description": "••••a partir de otros componentes de copulación \"C\" [2006.01]"
+  },
+  {
+    "code": "C09B 31/14",
+    "description": "••••••heterocíclicos [2006.01]"
+  },
+  {
+    "code": "C09B 31/143",
+    "description": "••••••••Diazoles-1,2 [2006.01]"
+  },
+  {
+    "code": "C09B 31/147",
+    "description": "••••••••••Pirazoles [2006.01]"
+  },
+  {
+    "code": "C09B 31/15",
+    "description": "••••••••Indoles [2006.01]"
+  },
+  {
+    "code": "C09B 31/153",
+    "description": "••••••••que contienen un ciclo de seis miembros con un átomo de nitrógeno como único heteroátomo del ciclo [2006.01]"
+  },
+  {
+    "code": "C09B 31/157",
+    "description": "••••••••••Quinoleínas o quinoleínas hidrogenadas [2006.01]"
+  },
+  {
+    "code": "C09B 31/16",
+    "description": "••Colorantes triazo [2006.01]"
+  },
+  {
+    "code": "C09B 31/18",
+    "description": "••••a partir de un componente de copulación \"D\" que contiene un grupo amino como orientador [2006.01]"
+  },
+  {
+    "code": "C09B 31/20",
+    "description": "••••a partir de un componente de copulación \"D\" que contiene un grupo hidroxilo como orientador [2006.01]"
+  },
+  {
+    "code": "C09B 31/22",
+    "description": "••••a partir de un componente de copulación \"D\" que contiene grupos hidroxilo y amino como orientadores [2006.01]"
+  },
+  {
+    "code": "C09B 31/24",
+    "description": "••••a partir de un componente de copulación \"D\" que contiene grupos de metileno reactivos [2006.01]"
+  },
+  {
+    "code": "C09B 31/26",
+    "description": "••••a partir de otros componentes de copulación \"D\" [2006.01]"
+  },
+  {
+    "code": "C09B 31/28",
+    "description": "••••••heterocíclicos [2006.01]"
+  },
+  {
+    "code": "C09B 31/30",
+    "description": "••Otros colorantes poliazo [2006.01]"
+  },
+  {
+    "code": "C09B 33/00",
+    "description": "Colorantes diazo o poliazo de los tipos A→K←B, A→B→K←C o similares, preparados por diazoación y copulación [2006.01]"
+  },
+  {
+    "code": "C09B 33/02",
+    "description": "••Colorantes diazo [2006.01]"
+  },
+  {
+    "code": "C09B 33/04",
+    "description": "••••en los que el componente de copulación es un compuesto dihidroxi o polihidroxi [2006.01]"
+  },
+  {
+    "code": "C09B 33/044",
+    "description": "••••••siendo el componente de copulación un bisfenol [2006.01]"
+  },
+  {
+    "code": "C09B 33/048",
+    "description": "••••••siendo el componente de copulación un bisnaftol [2006.01]"
+  },
+  {
+    "code": "C09B 33/052",
+    "description": "••••••siendo el componente de copulación una bisnalftolamina [2006.01]"
+  },
+  {
+    "code": "C09B 33/056",
+    "description": "••••••siendo el componente de copulación una bisnaftolurea [2006.01]"
+  },
+  {
+    "code": "C09B 33/06",
+    "description": "••••en los que el componente de copulación es una diamina o poliamina [2006.01]"
+  },
+  {
+    "code": "C09B 33/08",
+    "description": "••••en los que el componente de copulación es un compuesto hidroxiamino [2006.01]"
+  },
+  {
+    "code": "C09B 33/10",
+    "description": "••••••en los que el componente de copulación es un aminonaftol [2006.01]"
+  },
+  {
+    "code": "C09B 33/12",
+    "description": "••••en los que el componente de copulación es un compuesto heterocíclico [2006.01]"
+  },
+  {
+    "code": "C09B 33/13",
+    "description": "••••••siendo el componente de copulación una bispirazolona [2006.01]"
+  },
+  {
+    "code": "C09B 33/147",
+    "description": "••••en los que el componente de copulación es un bis(o-hidroxicarboxamida) [2006.01]"
+  },
+  {
+    "code": "C09B 33/153",
+    "description": "••••en los que el componente de copulación es un bis(aceto-acetamida) o un bis-(bencilacetamida) [2006.01]"
+  },
+  {
+    "code": "C09B 33/16",
+    "description": "••••a partir de otros componentes de copulación [2006.01]"
+  },
+  {
+    "code": "C09B 33/18",
+    "description": "••Colorantes triazo o poliazo superiores [2006.01]"
+  },
+  {
+    "code": "C09B 33/22",
+    "description": "••••Colorantes triazo del tipo A→B→K←C [2006.01]"
+  },
+  {
+    "code": "C09B 33/24",
+    "description": "••••Colorantes triazo del tipo  [2006.01]"
+  },
+  {
+    "code": "C09B 33/26",
+    "description": "••••Colorantes tetrazo del tipo A→B→C→K←D [2006.01]"
+  },
+  {
+    "code": "C09B 33/28",
+    "description": "••••Colorantes tetrazo del tipo A→B→K←C←D [2006.01]"
+  },
+  {
+    "code": "C09B 33/30",
+    "description": "••••Colorantes tetrazo del tipo  [2006.01]"
+  },
+  {
+    "code": "C09B 33/32",
+    "description": "••••Colorantes tetrazo del tipo  [2006.01]"
+  },
+  {
+    "code": "C09B 35/00",
+    "description": "Colorantes diazo o poliazo del tipo A←D→B preparados por diazoación y copulación [2006.01]"
+  },
+  {
+    "code": "C09B 35/02",
+    "description": "••Colorantes diazo [2006.01]"
+  },
+  {
+    "code": "C09B 35/021",
+    "description": "••••caracterizados por dos componentes de copulación del mismo tipo [2006.01]"
+  },
+  {
+    "code": "C09B 35/023",
+    "description": "••••••siendo el componente de copulación un compuesto hidroxi o polihidroxi [2006.01]"
+  },
+  {
+    "code": "C09B 35/025",
+    "description": "••••••siendo el componente de copulación una amina o una poliamina [2006.01]"
+  },
+  {
+    "code": "C09B 35/027",
+    "description": "••••••siendo el componente de copulación un compuesto hidroxiamina [2006.01]"
+  },
+  {
+    "code": "C09B 35/029",
+    "description": "••••••••Aminonaftol [2006.01]"
+  },
+  {
+    "code": "C09B 35/03",
+    "description": "••••••siendo el componente de copulación un compuesto heterocíclico [2006.01]"
+  },
+  {
+    "code": "C09B 35/031",
+    "description": "••••••••que contiene un ciclo de seis miembros con un átomo de nitrógeno como único heteroátomo [2006.01]"
+  },
+  {
+    "code": "C09B 35/033",
+    "description": "••••••siendo el componente de copulación una arilamida de un ácido o-hidroxicarboxílico o de un ácido beta-cetocarboxílico [2006.01]"
+  },
+  {
+    "code": "C09B 35/035",
+    "description": "••••••siendo el componente de copulación un grupo metileno reactivo [2006.01]"
+  },
+  {
+    "code": "C09B 35/037",
+    "description": "••••caracterizados por dos componentes de copulación de tipos diferentes [2006.01]"
+  },
+  {
+    "code": "C09B 35/039",
+    "description": "••••caracterizados por el componente tetrazo [2006.01]"
+  },
+  {
+    "code": "C09B 35/04",
+    "description": "••••••siendo el componente tetrazo un derivado del benceno [2006.01]"
+  },
+  {
+    "code": "C09B 35/06",
+    "description": "••••••siendo el componente tetrazo un derivado de naftaleno [2006.01]"
+  },
+  {
+    "code": "C09B 35/08",
+    "description": "••••••siendo el componente tetrazo un derivado de bifenilo [2006.01]"
+  },
+  {
+    "code": "C09B 35/10",
+    "description": "••••••••a partir de dos componentes de copulación del mismo tipo [2006.01]"
+  },
+  {
+    "code": "C09B 35/12",
+    "description": "••••••••••a partir de aminas [2006.01]"
+  },
+  {
+    "code": "C09B 35/14",
+    "description": "••••••••••a partir de compuestos hidroxi [2006.01]"
+  },
+  {
+    "code": "C09B 35/16",
+    "description": "••••••••••a partir de hidroxiaminas [2006.01]"
+  },
+  {
+    "code": "C09B 35/18",
+    "description": "••••••••••a partir de compuestos heterocíclicos [2006.01]"
+  },
+  {
+    "code": "C09B 35/20",
+    "description": "••••••••a partir de dos componentes de copulación de tipos diferentes [2006.01]"
+  },
+  {
+    "code": "C09B 35/205",
+    "description": "••••••siendo el componente tetrazo un derivado de un diaril- o triaril-alcano o-alqueno [2006.01]"
+  },
+  {
+    "code": "C09B 35/21",
+    "description": "••••••••de diarilmetano o triarilmetano [2006.01]"
+  },
+  {
+    "code": "C09B 35/215",
+    "description": "••••••••de diariletano o diarileteno [2006.01]"
+  },
+  {
+    "code": "C09B 35/22",
+    "description": "••••••siendo el componente tetrazo un derivado de un diariléter [2006.01]"
+  },
+  {
+    "code": "C09B 35/227",
+    "description": "••••••siendo el componente tetrazo un derivado de un sulfuro de diarilo o de un polisulfuro de diarilo [2006.01]"
+  },
+  {
+    "code": "C09B 35/233",
+    "description": "••••••siendo el componente tetrazo un derivado de una diarilcetona o de dibencilo [2006.01]"
+  },
+  {
+    "code": "C09B 35/24",
+    "description": "••••••siendo el componente tetrazo un derivado de una diarilamina [2006.01]"
+  },
+  {
+    "code": "C09B 35/26",
+    "description": "••••••siendo el componente tetrazo un derivado de una diarilurea [2006.01]"
+  },
+  {
+    "code": "C09B 35/28",
+    "description": "••••••teniendo el componente tetrazo los núcleos arilo unidos por al menos uno de los grupos —CON ,—SO2N ,—SO2 —, o—SO2O— [2006.01]"
+  },
+  {
+    "code": "C09B 35/30",
+    "description": "••••••••a partir de dos componentes de copulación idénticos [2006.01]"
+  },
+  {
+    "code": "C09B 35/32",
+    "description": "••••••••a partir de dos componentes de copulación diferentes [2006.01]"
+  },
+  {
+    "code": "C09B 35/34",
+    "description": "••••••siendo el componente tetrazo heterocíclico [2006.01]"
+  },
+  {
+    "code": "C09B 35/35",
+    "description": "••Colorantes triazo en los que el componente tetrazo es un compuesto diamino-azo-arilo [2006.01]"
+  },
+  {
+    "code": "C09B 35/36",
+    "description": "••Colorantes triazo del tipo  [2006.01]"
+  },
+  {
+    "code": "C09B 35/362",
+    "description": "••••Siendo D benceno [2006.01]"
+  },
+  {
+    "code": "C09B 35/364",
+    "description": "••••Siendo D naftaleno [2006.01]"
+  },
+  {
+    "code": "C09B 35/366",
+    "description": "••••Siendo D bifenilo [2006.01]"
+  },
+  {
+    "code": "C09B 35/368",
+    "description": "••••Siendo D un éter, o un sulfuro de diarilo o un polisulfuro de diarilo [2006.01]"
+  },
+  {
+    "code": "C09B 35/37",
+    "description": "••••Siendo D una diarilamina [2006.01]"
+  },
+  {
+    "code": "C09B 35/372",
+    "description": "••••Siendo D una diarilurea [2006.01]"
+  },
+  {
+    "code": "C09B 35/374",
+    "description": "••••Conteniendo D dos núcleos arilo unidos por al menos uno de los grupos —CON ,—SO2N ,—SO2 —, o—SO2O— [2006.01]"
+  },
+  {
+    "code": "C09B 35/376",
+    "description": "••••Siendo D un compuesto heterocíclico [2006.01]"
+  },
+  {
+    "code": "C09B 35/378",
+    "description": "••Colorantes triazo del tipo  [2006.01]"
+  },
+  {
+    "code": "C09B 35/38",
+    "description": "••Colorantes triazo de los tipos  [2006.01]"
+  },
+  {
+    "code": "C09B 35/40",
+    "description": "••••siendo el componente K un compuesto dihidroxi o polihidroxi [2006.01]"
+  },
+  {
+    "code": "C09B 35/42",
+    "description": "••••siendo el componente K una diamina o poliamina [2006.01]"
+  },
+  {
+    "code": "C09B 35/44",
+    "description": "••••siendo el componente K una hidroxiamina [2006.01]"
+  },
+  {
+    "code": "C09B 35/46",
+    "description": "••••••siendo el componente K un aminonaftol [2006.01]"
+  },
+  {
+    "code": "C09B 35/48",
+    "description": "••••siendo el componente K heterocíclico [2006.01]"
+  },
+  {
+    "code": "C09B 35/50",
+    "description": "••Colorantes tetrazo [2006.01]"
+  },
+  {
+    "code": "C09B 35/52",
+    "description": "••••del tipo  [2006.01]"
+  },
+  {
+    "code": "C09B 35/54",
+    "description": "••••del tipo  [2006.01]"
+  },
+  {
+    "code": "C09B 35/56",
+    "description": "••••del tipo  [2006.01]"
+  },
+  {
+    "code": "C09B 35/58",
+    "description": "••••del tipo  [2006.01]"
+  },
+  {
+    "code": "C09B 35/60",
+    "description": "••••del tipo  [2006.01]"
+  },
+  {
+    "code": "C09B 35/62",
+    "description": "••••del tipo  [2006.01]"
+  },
+  {
+    "code": "C09B 35/64",
+    "description": "••Colorantes poliazo superiores, p. ej. de los tipos  [2006.01]"
+  },
+  {
+    "code": "C09B 37/00",
+    "description": "Colorantes azo preparados por copulación de aminas diazoadas consigo mismas [2006.01]"
+  },
+  {
+    "code": "C09B 39/00",
+    "description": "Otros colorantes azo preparados por diazoación y copulación [2006.01]"
+  },
+  {
+    "code": "C09B 41/00",
+    "description": "Métodos especiales de ejecución de la reacción de copulación [2006.01]"
+  },
+  {
+    "code": "C09B 43/00",
+    "description": "Preparación de colorantes azo a partir de otros azocompuestos [2006.01]"
+  },
+  {
+    "code": "C09B 43/02",
+    "description": "••por sulfonación [2006.01]"
+  },
+  {
+    "code": "C09B 43/04",
+    "description": "••por nitración [2006.01]"
+  },
+  {
+    "code": "C09B 43/06",
+    "description": "••por oxidación [2006.01]"
+  },
+  {
+    "code": "C09B 43/08",
+    "description": "••por reducción (desaminación C09B 43/44) [2006.01]"
+  },
+  {
+    "code": "C09B 43/10",
+    "description": "••••con formación de un nuevo puente azo o azoxi [2006.01]"
+  },
+  {
+    "code": "C09B 43/11",
+    "description": "••por introducción sobre grupos amina primaria o secundaria de radicales hidrocarbonados o hidrocarbonados sustituidos (formación de un grupo amino por reducción, p. ej. por reducción de un grupo nitro, C09B 43/08) [2006.01]"
+  },
+  {
+    "code": "C09B 43/12",
+    "description": "••por acilación de grupos amino [2006.01]"
+  },
+  {
+    "code": "C09B 43/124",
+    "description": "••••con ácidos monocarboxílicos, ésteres o haluros de ácido carbámico, monoisocianatos o ésteres de ácido halofórmico [2006.01]"
+  },
+  {
+    "code": "C09B 43/128",
+    "description": "••••••Acidos alifáticos, cicloalifáticos o aralifáticos [2006.01]"
+  },
+  {
+    "code": "C09B 43/132",
+    "description": "••••••estando el grupo carboxilo directamente unido a un ciclo carbocíclico aromático [2006.01]"
+  },
+  {
+    "code": "C09B 43/136",
+    "description": "••••con agentes de acilación polifuncionales [2006.01]"
+  },
+  {
+    "code": "C09B 43/14",
+    "description": "••••••con fosgeno o tiofosgeno [2006.01]"
+  },
+  {
+    "code": "C09B 43/145",
+    "description": "••••••con ácidos policarboxílicos [2006.01]"
+  },
+  {
+    "code": "C09B 43/15",
+    "description": "••••••••con formación de imidas cíclicas de ácidos orto- o peridicarboxílicos [2006.01]"
+  },
+  {
+    "code": "C09B 43/155",
+    "description": "••••••con di- o poliisocianatos [2006.01]"
+  },
+  {
+    "code": "C09B 43/16",
+    "description": "••••••condensando compuestos aminoazo con otros compuestos aminados por medio de ácido cianúrico o residuos de ácido cianúrico [2006.01]"
+  },
+  {
+    "code": "C09B 43/18",
+    "description": "••por acilación de grupos hidroxilo [2006.01]"
+  },
+  {
+    "code": "C09B 43/20",
+    "description": "••••con ácidos monocarboxílicos, ésteres o haluros de ácidos carbámico, monoisocianatos o ésteres de ácido halofórmico [2006.01]"
+  },
+  {
+    "code": "C09B 43/22",
+    "description": "••••••estando el grupo carboxilo directamente unido a un ciclo carbocíclico aromático [2006.01]"
+  },
+  {
+    "code": "C09B 43/24",
+    "description": "••••con formación de radicales—O—SO2 —R o—O—SO3H [2006.01]"
+  },
+  {
+    "code": "C09B 43/26",
+    "description": "••••con agentes de acilación polifuncionales [2006.01]"
+  },
+  {
+    "code": "C09B 43/28",
+    "description": "••por eterificación de grupos hidroxilo [2006.01]"
+  },
+  {
+    "code": "C09B 43/30",
+    "description": "••por esterificación de grupos —COOH o—SO3H [2006.01]"
+  },
+  {
+    "code": "C09B 43/32",
+    "description": "••por reacciones de grupos carboxilo o sulfónico o sus derivados con aminas; por reacción de grupos cetona con aminas [2006.01]"
+  },
+  {
+    "code": "C09B 43/34",
+    "description": "••••por reacciones de colorantes orto- o peridicarboxílicos [2006.01]"
+  },
+  {
+    "code": "C09B 43/36",
+    "description": "••••con colorantes aminoantracénicos o aminoantraquinónicos [2006.01]"
+  },
+  {
+    "code": "C09B 43/38",
+    "description": "••••por reacciones de varios colorantes orto-hidroxinaftoicos con poliaminas [2006.01]"
+  },
+  {
+    "code": "C09B 43/40",
+    "description": "••por sustitución de heteroátomos por radicales que contienen otros heteroátomos [2006.01]"
+  },
+  {
+    "code": "C09B 43/42",
+    "description": "••••por sustitución de radicales que contienen heteroátomos por radicales—CN [2006.01]"
+  },
+  {
+    "code": "C09B 43/44",
+    "description": "••por sustitución de grupos amino por grupos hidroxilo, o por sustitución de grupos hidroxilo por grupos amino; Desacilación de grupos aminoacilo; Desaminación [2006.01]"
+  },
+  {
+    "code": "C09B 44/00",
+    "description": "Colorantes azo que contienen grupos onio [2006.01]"
+  },
+  {
+    "code": "C09B 44/02",
+    "description": "••que contienen grupos amonio no unidos directamente a un grupo azo [2006.01]"
+  },
+  {
+    "code": "C09B 44/04",
+    "description": "••••a partir de componentes de copulación que sólo contienen como grupo orientador un grupo amino [2006.01]"
+  },
+  {
+    "code": "C09B 44/06",
+    "description": "••••a partir de componentes de copulación que sólo contienen como grupo orientador un grupo hidroxilo [2006.01]"
+  },
+  {
+    "code": "C09B 44/08",
+    "description": "••••a partir de componentes de copulación que contienen heterociclos [2006.01]"
+  },
+  {
+    "code": "C09B 44/10",
+    "description": "••que contienen grupos ciclo-amonio unidos a un grupo azo por un átomo de carbono del ciclo [2006.01]"
+  },
+  {
+    "code": "C09B 44/12",
+    "description": "••••que contienen un átomo de nitrógeno como único heteroátomo del ciclo [2006.01]"
+  },
+  {
+    "code": "C09B 44/14",
+    "description": "••••Diazoles-1,2 ó diazoles-1,2 hidrogenados [2006.01]"
+  },
+  {
+    "code": "C09B 44/16",
+    "description": "••••Diazoles-1,3 ó diazoles-1,3 hidrogenados [2006.01]"
+  },
+  {
+    "code": "C09B 44/18",
+    "description": "••••que contienen tres átomos de nitrógeno como únicos heteroátomos del ciclo [2006.01]"
+  },
+  {
+    "code": "C09B 44/20",
+    "description": "••••Tiazoles o tiazoles hidrogenados [2006.01]"
+  },
+  {
+    "code": "C09B 45/00",
+    "description": "Compuestos metálicos complejos de colorantes azo [2006.01]"
+  },
+  {
+    "code": "C09B 45/01",
+    "description": "••caracterizados por el proceso de metalización [2006.01]"
+  },
+  {
+    "code": "C09B 45/02",
+    "description": "••Preparación a partir de colorantes que contienen en posición o un grupo hidroxi y en posición o1-grupos hidroxi, alcoxi, carboxilo, amino o ceto [2006.01]"
+  },
+  {
+    "code": "C09B 45/04",
+    "description": "••••Compuestos azo en general [2006.01]"
+  },
+  {
+    "code": "C09B 45/06",
+    "description": "••••••Compuestos de cromo [2006.01]"
+  },
+  {
+    "code": "C09B 45/08",
+    "description": "••••••Compuestos de cobre [2006.01]"
+  },
+  {
+    "code": "C09B 45/10",
+    "description": "••••••Compuestos de cobalto [2006.01]"
+  },
+  {
+    "code": "C09B 45/12",
+    "description": "••••••Otros compuestos metálicos [2006.01]"
+  },
+  {
+    "code": "C09B 45/14",
+    "description": "••••Compuestos monoazo [2006.01]"
+  },
+  {
+    "code": "C09B 45/16",
+    "description": "••••••que contienen cromo [2006.01]"
+  },
+  {
+    "code": "C09B 45/18",
+    "description": "••••••que contienen cobre [2006.01]"
+  },
+  {
+    "code": "C09B 45/20",
+    "description": "••••••que contienen cobalto [2006.01]"
+  },
+  {
+    "code": "C09B 45/22",
+    "description": "••••••que contienen otros metales [2006.01]"
+  },
+  {
+    "code": "C09B 45/24",
+    "description": "••••Compuestos diazo o poliazo [2006.01]"
+  },
+  {
+    "code": "C09B 45/26",
+    "description": "••••••que contienen cromo [2006.01]"
+  },
+  {
+    "code": "C09B 45/28",
+    "description": "••••••que contienen cobre [2006.01]"
+  },
+  {
+    "code": "C09B 45/30",
+    "description": "••••••que contienen cobalto [2006.01]"
+  },
+  {
+    "code": "C09B 45/32",
+    "description": "••••••que contienen otros metales [2006.01]"
+  },
+  {
+    "code": "C09B 45/34",
+    "description": "••Preparación a partir de compuestos azo o-monohidroxi que tienen en posición o1-un átomo o un grupo funcional distinto de hidroxi, alcoxi, carboxilo, amino o ceto [2006.01]"
+  },
+  {
+    "code": "C09B 45/36",
+    "description": "••••por oxidación del hidrógeno en posición o1- [2006.01]"
+  },
+  {
+    "code": "C09B 45/38",
+    "description": "••Preparación a partir de compuestos con—OH y—COOH adyacentes en el mismo ciclo o en posición peri [2006.01]"
+  },
+  {
+    "code": "C09B 45/40",
+    "description": "••••Compuestos de cromo [2006.01]"
+  },
+  {
+    "code": "C09B 45/42",
+    "description": "••••Compuestos de cobre [2006.01]"
+  },
+  {
+    "code": "C09B 45/44",
+    "description": "••••Compuestos de cobalto [2006.01]"
+  },
+  {
+    "code": "C09B 45/46",
+    "description": "••••Otros compuestos metálicos [2006.01]"
+  },
+  {
+    "code": "C09B 45/48",
+    "description": "••Preparación a partir de otros compuestos metálicos complejos de colorantes azo [2006.01]"
+  },
+  {
+    "code": "C09B 46/00",
+    "description": "Colorantes azo no previstos por los grupos C09B 27/00-C09B 45/00 [2006.01]"
+  },
+  {
+    "code": "C09B 47/04",
+    "description": "••Ftalocianinas [2006.01]"
+  },
+  {
+    "code": "C09B 47/06",
+    "description": "••••Preparación a partir de ácidos carboxílicos o de sus derivados [2006.01]"
+  },
+  {
+    "code": "C09B 47/067",
+    "description": "••••••a partir de ftalodinitrilos [2006.01]"
+  },
+  {
+    "code": "C09B 47/073",
+    "description": "••••Preparación a partir de iso-indoleninas [2006.01]"
+  },
+  {
+    "code": "C09B 47/08",
+    "description": "••••Preparación a partir de otros compuestos de ftalocianina [2006.01]"
+  },
+  {
+    "code": "C09B 47/10",
+    "description": "••••••Obtención de compuestos que tienen átomos de halógeno directamente unidos a la estructura de ftalocianina [2006.01]"
+  },
+  {
+    "code": "C09B 47/12",
+    "description": "••••••Obtención de compuestos que tienen radicales alquilo, o alquilo sustituidos por heteroátomos, unidos a la estructura de ftalocianina [2006.01]"
+  },
+  {
+    "code": "C09B 47/14",
+    "description": "••••••••que tienen radicales alquilo sustituidos por átomos de halógeno [2006.01]"
+  },
+  {
+    "code": "C09B 47/16",
+    "description": "••••••••que tienen radicales alquilo sustituidos por átomos de nitrógeno [2006.01]"
+  },
+  {
+    "code": "C09B 47/18",
+    "description": "••••••Obtención de compuestos que tienen átomos de oxígeno directamente unidos a la estructura de ftalocianina [2006.01]"
+  },
+  {
+    "code": "C09B 47/20",
+    "description": "••••••Obtención de compuestos que tienen átomos de azufre directamente unidos a la estructura de ftalocianina [2006.01]"
+  },
+  {
+    "code": "C09B 47/22",
+    "description": "••••••Obtención de compuestos que tienen átomos de nitrógeno directamente unidos a la estructura de ftalocianina [2006.01]"
+  },
+  {
+    "code": "C09B 47/24",
+    "description": "••••••Obtención de compuestos que tienen radicales—COOH o—SO3H o sus derivados, directamente unidos a la estructura de ftalocianina [2006.01]"
+  },
+  {
+    "code": "C09B 47/26",
+    "description": "••••••••Radicales amida [2006.01]"
+  },
+  {
+    "code": "C09B 47/28",
+    "description": "••••Colorantes de ftalocianina que contienen radicales—S—SO3H [2006.01]"
+  },
+  {
+    "code": "C09B 47/30",
+    "description": "••••Ftalocianinas exentas de metal [2006.01]"
+  },
+  {
+    "code": "C09B 47/32",
+    "description": "••••Colorantes de ftalocianina catiónicos [2006.01]"
+  },
+  {
+    "code": "C09B 48/00",
+    "description": "Quinacridonas [2006.01]"
+  },
+  {
+    "code": "C09B 49/00",
+    "description": "Colorantes de azufre [2006.01]"
+  },
+  {
+    "code": "C09B 49/02",
+    "description": "••a partir de nitrocompuestos de las series del benceno, naftaleno o antraceno [2006.01]"
+  },
+  {
+    "code": "C09B 49/04",
+    "description": "••a partir de aminocompuestos de las series del benceno, naftaleno o antraceno [2006.01]"
+  },
+  {
+    "code": "C09B 49/06",
+    "description": "••a partir de azinas, oxazinas, tiazinas o tiazoles [2006.01]"
+  },
+  {
+    "code": "C09B 49/08",
+    "description": "••a partir de derivados de urea [2006.01]"
+  },
+  {
+    "code": "C09B 49/10",
+    "description": "••a partir de difenilaminas, indaminas o indofenoles [2006.01]"
+  },
+  {
+    "code": "C09B 49/12",
+    "description": "••a partir de otros compuestos [2006.01]"
+  },
+  {
+    "code": "C09B 50/00",
+    "description": "Colorantes formazane; Colorantes tetrazolio [2006.01]"
+  },
+  {
+    "code": "C09B 50/02",
+    "description": "••Colorantes tetrazolio [2006.01]"
+  },
+  {
+    "code": "C09B 50/04",
+    "description": "••Colorantes formazane exentos de metal [2006.01]"
+  },
+  {
+    "code": "C09B 50/06",
+    "description": "••Colorantes bis-formazane [2006.01]"
+  },
+  {
+    "code": "C09B 50/08",
+    "description": "••Colorantes formazane meso-acilados [2006.01]"
+  },
+  {
+    "code": "C09B 50/10",
+    "description": "••Colorantes formazane catiónicos [2006.01]"
+  },
+  {
+    "code": "C09B 51/00",
+    "description": "Colorantes nitro y nitroso [2006.01]"
+  },
+  {
+    "code": "C09B 53/00",
+    "description": "Quinona-imida [2006.01]"
+  },
+  {
+    "code": "C09B 53/02",
+    "description": "••Indaminas; Indofenoles [2006.01]"
+  },
+  {
+    "code": "C09B 55/00",
+    "description": "Colorantes de azometina [2006.01]"
+  },
+  {
+    "code": "C09B 56/00",
+    "description": "Colorantes azo que contienen otros sistemas cromóforos [2006.01]"
+  },
+  {
+    "code": "C09B 56/02",
+    "description": "••Colorantes azo-azometínicos [2006.01]"
+  },
+  {
+    "code": "C09B 56/04",
+    "description": "••Colorantes azo-estilbénicos [2006.01]"
+  },
+  {
+    "code": "C09B 56/06",
+    "description": "••••Colorantes azo-, bis- o poli-estilbénicos [2006.01]"
+  },
+  {
+    "code": "C09B 56/08",
+    "description": "••Colorantes azo-estirílicos [2006.01]"
+  },
+  {
+    "code": "C09B 56/10",
+    "description": "••Colorantes azo-formazane [2006.01]"
+  },
+  {
+    "code": "C09B 56/12",
+    "description": "••Colorantes azo-antraquinónicos [2006.01]"
+  },
+  {
+    "code": "C09B 56/14",
+    "description": "••Colorantes azo-ftalocianínicos [2006.01]"
+  },
+  {
+    "code": "C09B 56/16",
+    "description": "••Colorantes azo-metínicos o polimetínicos [2006.01]"
+  },
+  {
+    "code": "C09B 56/18",
+    "description": "••Colorantes azo-hidrazónicos [2006.01]"
+  },
+  {
+    "code": "C09B 56/20",
+    "description": "••Colorantes azo-triazénicos [2006.01]"
+  },
+  {
+    "code": "C09B 57/00",
+    "description": "Otros colorantes sintéticos de constitución conocida [2006.01]"
+  },
+  {
+    "code": "C09B 57/02",
+    "description": "••Colorantes cumarínicos [2006.01]"
+  },
+  {
+    "code": "C09B 57/04",
+    "description": "••Colorantes iso-indolínicos [2006.01]"
+  },
+  {
+    "code": "C09B 57/06",
+    "description": "••Colorantes de naftolactama [2006.01]"
+  },
+  {
+    "code": "C09B 57/08",
+    "description": "••Colorantes naftalimidínicos; Colorantes ftalimidínicos [2006.01]"
+  },
+  {
+    "code": "C09B 57/10",
+    "description": "••Complejos metálicos de compuestos orgánicos que no son colorantes bajo forma no compleja [2006.01]"
+  },
+  {
+    "code": "C09B 57/12",
+    "description": "••Perinonas, es decir, naftilen-aril-imidazoles [2006.01]"
+  },
+  {
+    "code": "C09B 57/14",
+    "description": "••Colorantes benzoxanténicos; Colorantes benzotioxanténicos [2006.01]"
+  },
+  {
+    "code": "C09B 59/00",
+    "description": "Colorantes artificiales de constitución desconocida [2006.01]"
+  },
+  {
+    "code": "C09B 61/00",
+    "description": "Colorantes de origen natural preparados a partir de fuentes naturales [2006.01]"
+  },
+  {
+    "code": "C09B 62/00",
+    "description": "Colorantes reactivos, es decir, colorantes que forman enlaces covalentes con los sustratos o que se polimerizan con ellos mismos [2006.01]"
+  },
+  {
+    "code": "C09B 62/002",
+    "description": "••pudiendo ser escogido el enlace del grupo reactivo entre diferentes enlaces específicos [2006.01]"
+  },
+  {
+    "code": "C09B 62/004",
+    "description": "••••Colorantes antracénicos [2006.01]"
+  },
+  {
+    "code": "C09B 62/006",
+    "description": "••••Colorantes azo [2006.01]"
+  },
+  {
+    "code": "C09B 62/008",
+    "description": "••••••Colorantes monoazo [2006.01]"
+  },
+  {
+    "code": "C09B 62/01",
+    "description": "••••••Colorantes diazo o poliazo [2006.01]"
+  },
+  {
+    "code": "C09B 62/012",
+    "description": "••••••Complejos metálicos de colorantes azo [2006.01]"
+  },
+  {
+    "code": "C09B 62/014",
+    "description": "••••Colorantes nitrados [2006.01]"
+  },
+  {
+    "code": "C09B 62/016",
+    "description": "••••Porfirinas; Porfirazinas [2006.01]"
+  },
+  {
+    "code": "C09B 62/018",
+    "description": "••••Colorantes formazane [2006.01]"
+  },
+  {
+    "code": "C09B 62/02",
+    "description": "••con el grupo reactivo unido directamente a un ciclo heterocíclico [2006.01]"
+  },
+  {
+    "code": "C09B 62/022",
+    "description": "••••pudiendo ser escogido el heterociclo entre diferentes heterociclos específicos [2006.01]"
+  },
+  {
+    "code": "C09B 62/024",
+    "description": "••••••Colorantes antracénicos [2006.01]"
+  },
+  {
+    "code": "C09B 62/026",
+    "description": "••••••Colorantes azo [2006.01]"
+  },
+  {
+    "code": "C09B 62/028",
+    "description": "••••••••Colorantes monoazo [2006.01]"
+  },
+  {
+    "code": "C09B 62/03",
+    "description": "••••••••Colorantes diazo o poliazo [2006.01]"
+  },
+  {
+    "code": "C09B 62/032",
+    "description": "••••••••Complejos metálicos de colorantes azo [2006.01]"
+  },
+  {
+    "code": "C09B 62/034",
+    "description": "••••••Colorantes nitrados [2006.01]"
+  },
+  {
+    "code": "C09B 62/036",
+    "description": "••••••Porfirinas; Porfirazinas [2006.01]"
+  },
+  {
+    "code": "C09B 62/038",
+    "description": "••••••Colorantes formazane [2006.01]"
+  },
+  {
+    "code": "C09B 62/04",
+    "description": "••••a un ciclo de triazina [2006.01]"
+  },
+  {
+    "code": "C09B 62/06",
+    "description": "••••••Colorantes de antraceno [2006.01]"
+  },
+  {
+    "code": "C09B 62/08",
+    "description": "••••••Colorantes azo [2006.01]"
+  },
+  {
+    "code": "C09B 62/085",
+    "description": "••••••••Colorantes monoazo [2006.01]"
+  },
+  {
+    "code": "C09B 62/09",
+    "description": "••••••••Colorantes diazo o poliazo [2006.01]"
+  },
+  {
+    "code": "C09B 62/095",
+    "description": "••••••••Complejos metálicos de colorantes azo [2006.01]"
+  },
+  {
+    "code": "C09B 62/10",
+    "description": "••••••Porfirinas; Porfirazinas [2006.01]"
+  },
+  {
+    "code": "C09B 62/12",
+    "description": "••••a un ciclo de piridazina [2006.01]"
+  },
+  {
+    "code": "C09B 62/14",
+    "description": "••••••Colorantes de antraceno [2006.01]"
+  },
+  {
+    "code": "C09B 62/16",
+    "description": "••••••Colorantes azo [2006.01]"
+  },
+  {
+    "code": "C09B 62/165",
+    "description": "••••••••Colorantes monoazo [2006.01]"
+  },
+  {
+    "code": "C09B 62/17",
+    "description": "••••••••Colorantes diazo o poliazo [2006.01]"
+  },
+  {
+    "code": "C09B 62/175",
+    "description": "••••••••Complejos metálicos de colorantes azo [2006.01]"
+  },
+  {
+    "code": "C09B 62/18",
+    "description": "••••••Porfirinas; Porfirazinas [2006.01]"
+  },
+  {
+    "code": "C09B 62/20",
+    "description": "••••a un ciclo de pirimidina [2006.01]"
+  },
+  {
+    "code": "C09B 62/22",
+    "description": "••••••Colorantes de antraceno [2006.01]"
+  },
+  {
+    "code": "C09B 62/24",
+    "description": "••••••Colorantes azo [2006.01]"
+  },
+  {
+    "code": "C09B 62/245",
+    "description": "••••••••Colorantes monoazo [2006.01]"
+  },
+  {
+    "code": "C09B 62/25",
+    "description": "••••••••Colorantes diazo o poliazo [2006.01]"
+  },
+  {
+    "code": "C09B 62/255",
+    "description": "••••••••Complejos metálicos de colorantes azo [2006.01]"
+  },
+  {
+    "code": "C09B 62/26",
+    "description": "••••••Porfirinas; Porfirazinas [2006.01]"
+  },
+  {
+    "code": "C09B 62/28",
+    "description": "••••a un ciclo de pirazina [2006.01]"
+  },
+  {
+    "code": "C09B 62/30",
+    "description": "••••••Colorantes de antraceno [2006.01]"
+  },
+  {
+    "code": "C09B 62/32",
+    "description": "••••••Colorantes azo [2006.01]"
+  },
+  {
+    "code": "C09B 62/325",
+    "description": "••••••••Colorantes monoazo [2006.01]"
+  },
+  {
+    "code": "C09B 62/33",
+    "description": "••••••••Colorantes diazo o poliazo [2006.01]"
+  },
+  {
+    "code": "C09B 62/335",
+    "description": "••••••••Complejos metálicos de colorantes azo [2006.01]"
+  },
+  {
+    "code": "C09B 62/34",
+    "description": "••••••Porfirinas; Porfirazinas [2006.01]"
+  },
+  {
+    "code": "C09B 62/343",
+    "description": "••••a un ciclo de cinco miembros [2006.01]"
+  },
+  {
+    "code": "C09B 62/345",
+    "description": "••••••Colorantes antracénicos [2006.01]"
+  },
+  {
+    "code": "C09B 62/347",
+    "description": "••••••Colorantes azo [2006.01]"
+  },
+  {
+    "code": "C09B 62/35",
+    "description": "••••••••Colorantes monoazo [2006.01]"
+  },
+  {
+    "code": "C09B 62/353",
+    "description": "••••••••Colorantes diazo o poliazo [2006.01]"
+  },
+  {
+    "code": "C09B 62/355",
+    "description": "••••••••Complejos metálicos de colorantes azo [2006.01]"
+  },
+  {
+    "code": "C09B 62/357",
+    "description": "••••••Porfirinas; Porfirazinas [2006.01]"
+  },
+  {
+    "code": "C09B 62/36",
+    "description": "••••a algún otro ciclo heterocíclico [2006.01]"
+  },
+  {
+    "code": "C09B 62/38",
+    "description": "••••••Colorantes de antraceno [2006.01]"
+  },
+  {
+    "code": "C09B 62/40",
+    "description": "••••••Colorantes azo [2006.01]"
+  },
+  {
+    "code": "C09B 62/405",
+    "description": "••••••••Colorantes monoazo [2006.01]"
+  },
+  {
+    "code": "C09B 62/41",
+    "description": "••••••••Colorantes diazo o poliazo [2006.01]"
+  },
+  {
+    "code": "C09B 62/415",
+    "description": "••••••••Complejos metálicos de colorantes azo [2006.01]"
+  },
+  {
+    "code": "C09B 62/42",
+    "description": "••••••Porfirinas; Porfirazinas [2006.01]"
+  },
+  {
+    "code": "C09B 62/44",
+    "description": "••con el grupo reactivo no unido directamente a un ciclo heterocíclico [2006.01]"
+  },
+  {
+    "code": "C09B 62/443",
+    "description": "••••pudiendo ser escogido el grupo reactivo entre diferentes grupos reactivos específicos [2006.01]"
+  },
+  {
+    "code": "C09B 62/445",
+    "description": "••••••Colorantes antracénicos [2006.01]"
+  },
+  {
+    "code": "C09B 62/447",
+    "description": "••••••Colorantes azo [2006.01]"
+  },
+  {
+    "code": "C09B 62/45",
+    "description": "••••••••Colorantes monoazo [2006.01]"
+  },
+  {
+    "code": "C09B 62/453",
+    "description": "••••••••Colorantes diazo o poliazo [2006.01]"
+  },
+  {
+    "code": "C09B 62/455",
+    "description": "••••••••Complejos metálicos de colorantes azo [2006.01]"
+  },
+  {
+    "code": "C09B 62/457",
+    "description": "••••••Porfirinas; Porfirazinas [2006.01]"
+  },
+  {
+    "code": "C09B 62/463",
+    "description": "••••••Colorantes formazane [2006.01]"
+  },
+  {
+    "code": "C09B 62/465",
+    "description": "••••siendo el grupo reactivo un grupo acrililo, un grupo aminoalquilcarbonilo cuaternizado o no cuaternizado, siendo un grupo (—N)n —CO—A—O—X o un grupo (—N)n —CO—A—siendo A un grupo alquileno o alquilideno, siendo X hidrógeno o un radical acilo de un ácido inorgánico u orgánico, siendo Hal un átomo de halógeno y n siendo igual a 0 ó 1 [2006.01]"
+  },
+  {
+    "code": "C09B 62/467",
+    "description": "••••••Colorantes antracénicos [2006.01]"
+  },
+  {
+    "code": "C09B 62/47",
+    "description": "••••••Colorantes azo [2006.01]"
+  },
+  {
+    "code": "C09B 62/473",
+    "description": "••••••••Colorantes monoazo [2006.01]"
+  },
+  {
+    "code": "C09B 62/475",
+    "description": "••••••••Colorantes diazo o poliazo [2006.01]"
+  },
+  {
+    "code": "C09B 62/477",
+    "description": "••••••••Complejos metálicos de colorantes azo [2006.01]"
+  },
+  {
+    "code": "C09B 62/483",
+    "description": "••••••Porfirinas; Porfirazinas [2006.01]"
+  },
+  {
+    "code": "C09B 62/485",
+    "description": "••••siendo el grupo reactivo un grupo ciclobutil carbonilo halogenado, ciclobutil vinil carbonilo halogenado, o un ciclobutenil carbonilo halogenado [2006.01]"
+  },
+  {
+    "code": "C09B 62/487",
+    "description": "••••••Colorantes antracénicos [2006.01]"
+  },
+  {
+    "code": "C09B 62/489",
+    "description": "••••••Colorantes azo [2006.01]"
+  },
+  {
+    "code": "C09B 62/491",
+    "description": "••••••••Colorantes monoazo [2006.01]"
+  },
+  {
+    "code": "C09B 62/493",
+    "description": "••••••••Colorantes diazo o poliazo [2006.01]"
+  },
+  {
+    "code": "C09B 62/495",
+    "description": "••••••••Complejos metálicos de colorantes azo [2006.01]"
+  },
+  {
+    "code": "C09B 62/497",
+    "description": "••••••Porfirinas; Porfirazinas [2006.01]"
+  },
+  {
+    "code": "C09B 62/503",
+    "description": "••••siendo el grupo reactivo un grupo hidroxialquilsufonilo o un grupo mercaptoalquilsulfonilo, esterificado o no esterificado, un grupo aminoalquilsufonilo cuaternizado o no cuaternizado, un grupo heterilmercaptoalquilsulfonilo, un grupo vinilsulfonilo, un grupo vinilsulfonilo sustituido, o un grupo dióxido de tiofeno [2006.01]"
+  },
+  {
+    "code": "C09B 62/505",
+    "description": "••••••Colorantes antracénicos [2006.01]"
+  },
+  {
+    "code": "C09B 62/507",
+    "description": "••••••Colorantes azo [2006.01]"
+  },
+  {
+    "code": "C09B 62/51",
+    "description": "••••••••Colorantes monoazo [2006.01]"
+  },
+  {
+    "code": "C09B 62/513",
+    "description": "••••••••Colorantes diazo o poliazo [2006.01]"
+  },
+  {
+    "code": "C09B 62/515",
+    "description": "••••••••Complejos metálicos de colorantes azo [2006.01]"
+  },
+  {
+    "code": "C09B 62/517",
+    "description": "••••••Porfirinas; Porfirazinas [2006.01]"
+  },
+  {
+    "code": "C09B 62/523",
+    "description": "••••siendo el grupo reactivo un grupo hidroxialquilsufonilamido o un grupo hidroxialquilaminosulfonilo, esterificado o no esterificado, un grupo aminoalquisulfonilamido cuaternizado o no cuaternizado, un grupo alquilominosulfonilo sustituido, un grupo haloalquisulfonilamido, un grupo haloalquilaminosulfonilo, un grupo vinilsulfonilamido o vinilsulfonilamido sustituido [2006.01]"
+  },
+  {
+    "code": "C09B 62/525",
+    "description": "••••••Colorantes antracénicos [2006.01]"
+  },
+  {
+    "code": "C09B 62/527",
+    "description": "••••••Colorantes azo [2006.01]"
+  },
+  {
+    "code": "C09B 62/53",
+    "description": "••••••••Colorantes monoazo [2006.01]"
+  },
+  {
+    "code": "C09B 62/533",
+    "description": "••••••••Colorantes diazo o poliazo [2006.01]"
+  },
+  {
+    "code": "C09B 62/535",
+    "description": "••••••••Complejos metálicos de colorantes azo [2006.01]"
+  },
+  {
+    "code": "C09B 62/537",
+    "description": "••••••Porfirinas; Porfirazinas [2006.01]"
+  },
+  {
+    "code": "C09B 62/54",
+    "description": "••••siendo el grupo reactivo un grupo epoxi o un grupo halohidrina [2006.01]"
+  },
+  {
+    "code": "C09B 62/56",
+    "description": "••••••Colorantes de antraceno [2006.01]"
+  },
+  {
+    "code": "C09B 62/58",
+    "description": "••••••Colorantes azo [2006.01]"
+  },
+  {
+    "code": "C09B 62/585",
+    "description": "••••••••Colorantes monoazo [2006.01]"
+  },
+  {
+    "code": "C09B 62/59",
+    "description": "••••••••Colorantes diazo o poliazo [2006.01]"
+  },
+  {
+    "code": "C09B 62/595",
+    "description": "••••••••Complejos metálicos de colorantes azo [2006.01]"
+  },
+  {
+    "code": "C09B 62/60",
+    "description": "••••••Porfirinas; Porfirazinas [2006.01]"
+  },
+  {
+    "code": "C09B 62/62",
+    "description": "••••siendo el grupo reactivo un grupo etilenimino o etilenimino N-acilado, un grupo —CO—NH—CH2 —CH2 —X, siendo X un átomo de halógeno, un grupo amonio cuaternario o un resto O-acilo, derivado de un ácido inorgánico u orgánico, o un grupo etilamino beta-sustituido [2006.01]"
+  },
+  {
+    "code": "C09B 62/64",
+    "description": "••••••Colorantes de antraceno [2006.01]"
+  },
+  {
+    "code": "C09B 62/66",
+    "description": "••••••Colorantes azo [2006.01]"
+  },
+  {
+    "code": "C09B 62/665",
+    "description": "••••••••Colorantes monoazo [2006.01]"
+  },
+  {
+    "code": "C09B 62/67",
+    "description": "••••••••Colorantes diazo o poliazo [2006.01]"
+  },
+  {
+    "code": "C09B 62/675",
+    "description": "••••••••Complejos metálicos de colorantes azo [2006.01]"
+  },
+  {
+    "code": "C09B 62/68",
+    "description": "••••••Porfirinas; Porfirazinas [2006.01]"
+  },
+  {
+    "code": "C09B 62/763",
+    "description": "••••siendo el grupo reactivo un grupo N-metilol o su O-derivado [2006.01]"
+  },
+  {
+    "code": "C09B 62/765",
+    "description": "••••••Colorantes antracénicos [2006.01]"
+  },
+  {
+    "code": "C09B 62/767",
+    "description": "••••••Colorantes azo [2006.01]"
+  },
+  {
+    "code": "C09B 62/77",
+    "description": "••••••••Colorantes monoazo [2006.01]"
+  },
+  {
+    "code": "C09B 62/773",
+    "description": "••••••••Colorantes diazo o poliazo [2006.01]"
+  },
+  {
+    "code": "C09B 62/775",
+    "description": "••••••••Complejos metálicos de colorantes azo [2006.01]"
+  },
+  {
+    "code": "C09B 62/777",
+    "description": "••••••Porfirinas; Porfirazinas [2006.01]"
+  },
+  {
+    "code": "C09B 62/78",
+    "description": "••••con otros grupos reactivos [2006.01]"
+  },
+  {
+    "code": "C09B 62/80",
+    "description": "••••••Colorantes de antraceno [2006.01]"
+  },
+  {
+    "code": "C09B 62/82",
+    "description": "••••••Colorantes azo [2006.01]"
+  },
+  {
+    "code": "C09B 62/825",
+    "description": "••••••••Colorantes monoazo [2006.01]"
+  },
+  {
+    "code": "C09B 62/83",
+    "description": "••••••••Colorantes diazo o poliazo [2006.01]"
+  },
+  {
+    "code": "C09B 62/835",
+    "description": "••••••••Complejos metálicos de colorantes azo [2006.01]"
+  },
+  {
+    "code": "C09B 62/84",
+    "description": "••••••Porfirinas; Porfirazinas [2006.01]"
+  },
+  {
+    "code": "C09B 63/00",
+    "description": "Lacas [2006.01]"
+  },
+  {
+    "code": "C09B 65/00",
+    "description": "Composiciones que contienen mordientes [2006.01]"
+  },
+  {
+    "code": "C09B 67/00",
+    "description": "Propiedades de las materias colorantes que influyen en el aspecto físico, p. ej. tinte o impresión, sin reacción química, p. ej. por tratamiento con solventes; Características de los procesos de fabricación de las preparaciones de materias colorantes; Preparaciones de materia colorante de una especial naturaleza física, p. ej. tabletas, películas [2006.01]"
+  },
+  {
+    "code": "C09B 67/02",
+    "description": "••Preparaciones de materia colorante caracterizadas por un aspecto físico particular, p. ej. tabletas, películas [2006.01]"
+  },
+  {
+    "code": "C09B 67/04",
+    "description": "••Trituración (C09B 67/14 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "C09B 67/06",
+    "description": "••Secado [2006.01]"
+  },
+  {
+    "code": "C09B 67/08",
+    "description": "••Colorantes o pigmentos particulares revestidos [2006.01]"
+  },
+  {
+    "code": "C09B 67/10",
+    "description": "••Modificación de las propiedades físicas por tratamiento con un líquido, p. ej. con un solvente (C09B 67/14, C09B 67/18, C09B 67/20 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "C09B 67/12",
+    "description": "••••de ftalocianinas [2006.01]"
+  },
+  {
+    "code": "C09B 67/14",
+    "description": "••Modificación de las propiedades físicas por tratamiento con un ácido [2006.01]"
+  },
+  {
+    "code": "C09B 67/16",
+    "description": "••••de ftalocianinas [2006.01]"
+  },
+  {
+    "code": "C09B 67/18",
+    "description": "••Modificación de las propiedades físicas por tratamiento con una amina [2006.01]"
+  },
+  {
+    "code": "C09B 67/20",
+    "description": "••Preparaciones a base de pigmentos orgánicos [2006.01]"
+  },
+  {
+    "code": "C09B 67/22",
+    "description": "••Mezclas de pigmentos o colorantes diferentes, o de soluciones sólidas de pigmentos o colorantes [2006.01]"
+  },
+  {
+    "code": "C09B 67/24",
+    "description": "••Preparaciones a base de colorantes ácidos o de colorantes reactivos [2006.01]"
+  },
+  {
+    "code": "C09B 67/26",
+    "description": "••••en estado líquido [2006.01]"
+  },
+  {
+    "code": "C09B 67/28",
+    "description": "••Preparaciones a base de colorantes de tina o de colorantes de azufre [2006.01]"
+  },
+  {
+    "code": "C09B 67/30",
+    "description": "••••en estado líquido [2006.01]"
+  },
+  {
+    "code": "C09B 67/32",
+    "description": "••Preparaciones a base de colorantes básicos o de colorantes catiónicos [2006.01]"
+  },
+  {
+    "code": "C09B 67/34",
+    "description": "••••en estado líquido [2006.01]"
+  },
+  {
+    "code": "C09B 67/36",
+    "description": "••Preparaciones a base de colorantes azo [2006.01]"
+  },
+  {
+    "code": "C09B 67/38",
+    "description": "••Preparaciones a base de colorantes dispersos [2006.01]"
+  },
+  {
+    "code": "C09B 67/40",
+    "description": "••••en estado líquido [2006.01]"
+  },
+  {
+    "code": "C09B 67/42",
+    "description": "••Preparaciones a base de colorantes no previstos en alguno de los grupos C09B 67/24-C09B 67/40 [2006.01]"
+  },
+  {
+    "code": "C09B 67/44",
+    "description": "••••Soluciones [2006.01]"
+  },
+  {
+    "code": "C09B 67/46",
+    "description": "••••Dispersiones [2006.01]"
+  },
+  {
+    "code": "C09B 67/48",
+    "description": "••Modificaciones cristalinas de colorantes o pigmentos (C09B 67/24 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "C09B 67/50",
+    "description": "••••de ftalocianinas [2006.01]"
+  },
+  {
+    "code": "C09B 67/52",
+    "description": "••••de quinacridonas [2006.01]"
+  },
+  {
+    "code": "C09B 67/54",
+    "description": "••Purificación; Separación (C09B 67/06, C09B 67/10 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "C09B 69/02",
+    "description": "••Materias colorantes en forma de sal, p. ej. sales de colorantes básicos con colorantes ácidos (para las sales de Na, K o NH4\n\t\t\t\t\t\t\t\t\t\t+de colorantes o para los cloruros, sulfatos o clorozinatos, ver los grupos de colorantes oportunos) [2006.01]"
+  },
+  {
+    "code": "C09B 69/04",
+    "description": "••••de colorantes aniónicos con compuestos que contienen nitrógeno [2006.01]"
+  },
+  {
+    "code": "C09B 69/06",
+    "description": "••••de colorantes catiónicos con ácidos orgánicos [2006.01]"
+  },
+  {
+    "code": "C09B 69/08",
+    "description": "••Colorantes que contienen un grupo hidrosoluble escindible [2006.01]"
+  },
+  {
+    "code": "C09B 69/10",
+    "description": "••Colorantes poliméricos; Productos de reacciones de colorantes con monómeros o con compuestos macromoleculares [2006.01]"
+  }
+]

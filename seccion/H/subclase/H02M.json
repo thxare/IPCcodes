@@ -1,0 +1,806 @@
+[
+  {
+    "code": "H02M 1/00",
+    "description": "Detalles de aparatos para transformación [2007.01]"
+  },
+  {
+    "code": "H02M 1/02",
+    "description": "••Circuitos especialmente adaptados a la producción de tensiones de control de rejilla o de control de encendido para los tubos de descarga incorporados en convertidores estáticos [2006.01]"
+  },
+  {
+    "code": "H02M 1/04",
+    "description": "••••para tubos de control de rejilla [2006.01]"
+  },
+  {
+    "code": "H02M 1/06",
+    "description": "••Circuitos especialmente adaptados para hacer no conductores los tubos de descarga o los dispositivos semiconductores equivalentes, p. ej. tiratrones, tiristores [2006.01]"
+  },
+  {
+    "code": "H02M 1/08",
+    "description": "••Circuitos especialmente adaptados para la generación de una tensión de control para los dispositivos semiconductores incorporados en los convertidores estáticos [2006.01]"
+  },
+  {
+    "code": "H02M 1/084",
+    "description": "••••que utilizan un circuito de control común a varias fases de un sistema polifásico [2006.01]"
+  },
+  {
+    "code": "H02M 1/088",
+    "description": "••••para el control simultáneo de dispositivos semiconductores conectados en serie o en paralelo [2006.01]"
+  },
+  {
+    "code": "H02M 1/092",
+    "description": "••••••transmitiendo ópticamente las señales de control [2006.01]"
+  },
+  {
+    "code": "H02M 1/096",
+    "description": "••••••estando la alimentación del circuito de control conectada en paralelo con el elemento de conmutación principal (H02M 1/092 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H02M 1/10",
+    "description": "••Dispositivos que comprenden medios de conversión para permitir la alimentación a voluntad de una carga desde diferentes clases de fuentes de potencia, p. ej. de corriente alterna o de corriente continua [2006.01]"
+  },
+  {
+    "code": "H02M 1/12",
+    "description": "••Disposiciones de reducción de armónicos de una entrada o de una salida en corriente alterna [2006.01]"
+  },
+  {
+    "code": "H02M 1/14",
+    "description": "••Disposiciones de reducción de ondulaciones de una entrada o de una salida en corriente continua [2006.01]"
+  },
+  {
+    "code": "H02M 1/15",
+    "description": "••••que utilizan elementos activos [2006.01]"
+  },
+  {
+    "code": "H02M 1/16",
+    "description": "••Medios para obtener un nivel de corriente sobre la conmutación, p. ej. con una reactancia saturable [2006.01]"
+  },
+  {
+    "code": "H02M 1/20",
+    "description": "••Mecanismos de contacto para convertidores dinámicos [2006.01]"
+  },
+  {
+    "code": "H02M 1/22",
+    "description": "••••comprendiendo colectores y escobillas [2006.01]"
+  },
+  {
+    "code": "H02M 1/24",
+    "description": "••••comprendiendo contactos giratorios o basculantes [2006.01]"
+  },
+  {
+    "code": "H02M 1/26",
+    "description": "••••comprendiendo contactos accionados por excéntrica [2006.01]"
+  },
+  {
+    "code": "H02M 1/28",
+    "description": "••••comprendiendo contactos vibrantes accionados electromagnéticamente [2006.01]"
+  },
+  {
+    "code": "H02M 1/30",
+    "description": "••••comprendiendo contactos líquidos [2006.01]"
+  },
+  {
+    "code": "H02M 1/32",
+    "description": "••Medios para proteger convertidores, distintos a la desconexión automática [2007.01]"
+  },
+  {
+    "code": "H02M 1/34",
+    "description": "••••Circuitos amortiguadores [2007.01]"
+  },
+  {
+    "code": "H02M 1/36",
+    "description": "••Medios para arrancar o parar convertidores [2007.01]"
+  },
+  {
+    "code": "H02M 1/38",
+    "description": "••Medios para prevenir la conducción simultánea de conmutadores [2007.01]"
+  },
+  {
+    "code": "H02M 1/40",
+    "description": "••Medios para prevenir la saturación magnética [2007.01]"
+  },
+  {
+    "code": "H02M 1/42",
+    "description": "••Circuitos o disposiciones para corregir o ajustar el factor de potencia en convertidores o inversores [2007.01]"
+  },
+  {
+    "code": "H02M 1/44",
+    "description": "••Circuitos o disposiciones para corregir las interferencias electromagnéticas en convertidores o inversores [2007.01]"
+  },
+  {
+    "code": "H02M 3/00",
+    "description": "Transformación de una potencia de entrada en corriente continua en una potencia de salida en corriente continua [2006.01]"
+  },
+  {
+    "code": "H02M 3/02",
+    "description": "••sin transformación intermedia en una corriente alterna [2006.01]"
+  },
+  {
+    "code": "H02M 3/04",
+    "description": "••••por convertidores estáticos [2006.01]"
+  },
+  {
+    "code": "H02M 3/06",
+    "description": "••••••utilizando resistencias o capacidades, p. ej. divisor de tensión [2006.01]"
+  },
+  {
+    "code": "H02M 3/07",
+    "description": "••••••••utilizando condensadores cargados y descargados alternativamente por dispositivos semiconductores con electrodo de control [2006.01]"
+  },
+  {
+    "code": "H02M 3/08",
+    "description": "••••••utilizando tubos de descarga sin electrodo de control o dispositivos semiconductores sin electrodo de control [2006.01]"
+  },
+  {
+    "code": "H02M 3/10",
+    "description": "••••••utilizando tubos de descarga con electrodo de control o dispositivos semiconductores con electrodo de control (H02M 3/07 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H02M 3/125",
+    "description": "••••••••utilizando dispositivos del tipo tiratrón o tiristor que exigen medios de extinción [2006.01]"
+  },
+  {
+    "code": "H02M 3/13",
+    "description": "••••••••••utilizando solamente tubos de descarga [2006.01]"
+  },
+  {
+    "code": "H02M 3/135",
+    "description": "••••••••••utilizando solamente dispositivos semiconductores [2006.01]"
+  },
+  {
+    "code": "H02M 3/137",
+    "description": "••••••••••••con control automático de la tensión o de la corriente de salida, p. ej. reguladores de conmutación [2006.01]"
+  },
+  {
+    "code": "H02M 3/139",
+    "description": "••••••••••••••con control digital [2006.01]"
+  },
+  {
+    "code": "H02M 3/142",
+    "description": "••••••••••••••comprendiendo varios dispositivos semiconductores como dispositivos de control final para una carga única [2006.01]"
+  },
+  {
+    "code": "H02M 3/145",
+    "description": "••••••••utilizando dispositivos del tipo triodo o transistor que exigen la aplicación continua de una señal de control [2006.01]"
+  },
+  {
+    "code": "H02M 3/15",
+    "description": "••••••••••utilizando solamente tubos de descarga [2006.01]"
+  },
+  {
+    "code": "H02M 3/155",
+    "description": "••••••••••utilizando solamente dispositivos semiconductores [2006.01]"
+  },
+  {
+    "code": "H02M 3/156",
+    "description": "••••••••••••con control automático de la tensión o de la corriente de salida, p. ej. reguladores de conmutación [2006.01]"
+  },
+  {
+    "code": "H02M 3/157",
+    "description": "••••••••••••••con control digital [2006.01]"
+  },
+  {
+    "code": "H02M 3/158",
+    "description": "••••••••••••••comprendiendo varios dispositivos semiconductores como dispositivos de control final para una carga única [2006.01]"
+  },
+  {
+    "code": "H02M 3/16",
+    "description": "••••por convertidores dinámicos [2006.01]"
+  },
+  {
+    "code": "H02M 3/18",
+    "description": "••••••utilizando condensadores o baterías cargadas o descargadas alternativamente, p. ej. cargadas en paralelo y descargadas en serie [2006.01]"
+  },
+  {
+    "code": "H02M 3/20",
+    "description": "••••por combinación de convertidores estáticos y dinámicos; por combinación de convertidores dinamoeléctricos con otros convertidores dinámicos o estáticos [2006.01]"
+  },
+  {
+    "code": "H02M 3/22",
+    "description": "••con transformación intermedia en una corriente alterna [2006.01]"
+  },
+  {
+    "code": "H02M 3/24",
+    "description": "••••por convertidores estáticos [2006.01]"
+  },
+  {
+    "code": "H02M 3/26",
+    "description": "••••••utilizando tubos de descarga sin electrodo de control o dispositivos semiconductores sin electrodo de control para producir la corriente alterna intermedia [2006.01]"
+  },
+  {
+    "code": "H02M 3/28",
+    "description": "••••••utilizando tubos de descarga con electrodo de control o dispositivos semiconductores con electrodos de control para producir la corriente alterna intermedia [2006.01]"
+  },
+  {
+    "code": "H02M 3/305",
+    "description": "••••••••utilizando dispositivos tipo tiratrón o tiristor que exigen medios de extinción [2006.01]"
+  },
+  {
+    "code": "H02M 3/31",
+    "description": "••••••••••utilizando solamente tubos de descarga [2006.01]"
+  },
+  {
+    "code": "H02M 3/315",
+    "description": "••••••••••utilizando solamente dispositivos semiconductores [2006.01]"
+  },
+  {
+    "code": "H02M 3/325",
+    "description": "••••••••utilizando dispositivos del tipo triodo o transistor que exigen la aplicación continua de una señal de control [2006.01]"
+  },
+  {
+    "code": "H02M 3/33",
+    "description": "••••••••••utilizando solamente tubos de descarga [2006.01]"
+  },
+  {
+    "code": "H02M 3/335",
+    "description": "••••••••••utilizando solamente dispositivos semiconductores [2006.01]"
+  },
+  {
+    "code": "H02M 3/337",
+    "description": "••••••••••••en configuración push-pull [2006.01]"
+  },
+  {
+    "code": "H02M 3/338",
+    "description": "••••••••••••en una disposición auto-oscilante (H02M 3/337 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H02M 3/34",
+    "description": "••••por convertidores dinámicos [2006.01]"
+  },
+  {
+    "code": "H02M 3/36",
+    "description": "••••••utilizando órganos mecánicos para seleccionar progresivamente o para variar continuamente la tensión de entrada [2006.01]"
+  },
+  {
+    "code": "H02M 3/38",
+    "description": "••••••utilizando órganos mecánicos de establecimiento y corte de contacto para interrumpir una tensión única [2006.01]"
+  },
+  {
+    "code": "H02M 3/40",
+    "description": "••••••••en donde estos órganos son giratorios y donde los colectores cooperan con escobillas o rodillos [2006.01]"
+  },
+  {
+    "code": "H02M 3/42",
+    "description": "••••••••con contactos vibrantes accionados electromagnéticamente, p. ej. ruptores [2006.01]"
+  },
+  {
+    "code": "H02M 3/44",
+    "description": "••••por combinación de convertidores estáticos con dinámicos; por combinación de convertidores dinamoeléctricos con otros convertidores dinámicos o estáticos [2006.01]"
+  },
+  {
+    "code": "H02M 5/00",
+    "description": "Transformación de una potencia de entrada en corriente alterna en una potencia de salida en corriente alterna, p. ej. para cambiar la tensión, para cambiar la frecuencia, para cambiar el número de fases [2006.01]"
+  },
+  {
+    "code": "H02M 5/02",
+    "description": "••sin transformación intermedia en corriente continua [2006.01]"
+  },
+  {
+    "code": "H02M 5/04",
+    "description": "••••por convertidores estáticos (control de transformadores, reactancias o bobinas de choque, p. ej. por cambio de tomas, H02P 13/00) [2006.01]"
+  },
+  {
+    "code": "H02M 5/06",
+    "description": "••••••utilizando impedancias [2006.01]"
+  },
+  {
+    "code": "H02M 5/08",
+    "description": "••••••••utilizando únicamente condensadores [2006.01]"
+  },
+  {
+    "code": "H02M 5/10",
+    "description": "••••••utilizando transformadores [2006.01]"
+  },
+  {
+    "code": "H02M 5/12",
+    "description": "••••••••para la transformación de la amplitud de la tensión o de la corriente solamente [2006.01]"
+  },
+  {
+    "code": "H02M 5/14",
+    "description": "••••••••para la transformación entre circuitos de diferente número de fases [2006.01]"
+  },
+  {
+    "code": "H02M 5/16",
+    "description": "••••••••para la transformación de frecuencia [2006.01]"
+  },
+  {
+    "code": "H02M 5/18",
+    "description": "••••••••para la transformación de la forma de onda [2006.01]"
+  },
+  {
+    "code": "H02M 5/20",
+    "description": "••••••utilizando tubos de descarga sin electrodo de control o dispositivos semiconductores sin electrodo de control [2006.01]"
+  },
+  {
+    "code": "H02M 5/22",
+    "description": "••••••utilizando tubos de descarga con electrodo de control o dispositivos semiconductores con electrodo de control [2006.01]"
+  },
+  {
+    "code": "H02M 5/25",
+    "description": "••••••••utilizando dispositivos del tipo tiratrón o tiristor que exigen medios de extinción [2006.01]"
+  },
+  {
+    "code": "H02M 5/253",
+    "description": "••••••••••utilizando únicamente tubos de descarga [2006.01]"
+  },
+  {
+    "code": "H02M 5/257",
+    "description": "••••••••••utilizando únicamente dispositivos semiconductores [2006.01]"
+  },
+  {
+    "code": "H02M 5/27",
+    "description": "••••••••••para transformación de la frecuencia [2006.01]"
+  },
+  {
+    "code": "H02M 5/275",
+    "description": "••••••••utilizando dispositivos tipo triodo o transistor que exigen la aplicación continua de una señal de control [2006.01]"
+  },
+  {
+    "code": "H02M 5/29",
+    "description": "••••••••••utilizando únicamente tubos de descarga [2006.01]"
+  },
+  {
+    "code": "H02M 5/293",
+    "description": "••••••••••utilizando solamente dispositivos semiconductores [2006.01]"
+  },
+  {
+    "code": "H02M 5/297",
+    "description": "••••••••••para transformación de la frecuencia [2006.01]"
+  },
+  {
+    "code": "H02M 5/32",
+    "description": "••••por convertidores dinámicos [2006.01]"
+  },
+  {
+    "code": "H02M 5/34",
+    "description": "••••••utilizando órganos mecánicos de establecimiento y de ruptura de contacto [2006.01]"
+  },
+  {
+    "code": "H02M 5/36",
+    "description": "••••••••en donde los órganos son giratorios y donde los colectores cooperan con escobillas o rodillos [2006.01]"
+  },
+  {
+    "code": "H02M 5/38",
+    "description": "••••por combinación de convertidores estáticos con convertidores dinámicos; por combinación de convertidores dinamoeléctricos con otros convertidores dinámicos o estáticos [2006.01]"
+  },
+  {
+    "code": "H02M 5/40",
+    "description": "••con transformación intermedia en corriente continua [2006.01]"
+  },
+  {
+    "code": "H02M 5/42",
+    "description": "••••por convertidores estáticos [2006.01]"
+  },
+  {
+    "code": "H02M 5/44",
+    "description": "••••••utilizando tubos de descarga o dispositivos semiconductores para transformar la corriente continua intermedia en una corriente alterna [2006.01]"
+  },
+  {
+    "code": "H02M 5/443",
+    "description": "••••••••utilizando dispositivos tipo tiratrón o tiristor que exigen medios de extinción [2006.01]"
+  },
+  {
+    "code": "H02M 5/447",
+    "description": "••••••••••utilizando únicamente tubos de descarga [2006.01]"
+  },
+  {
+    "code": "H02M 5/45",
+    "description": "••••••••••utilizando únicamente dispositivos semiconductores [2006.01]"
+  },
+  {
+    "code": "H02M 5/451",
+    "description": "••••••••••••con control automático de la tensión o de la frecuencia de salida [2006.01]"
+  },
+  {
+    "code": "H02M 5/452",
+    "description": "••••••••••••con control automático de la forma de la onda de salida [2006.01]"
+  },
+  {
+    "code": "H02M 5/453",
+    "description": "••••••••utilizando dispositivos tipo triodo o transistor que exigen la aplicación continua de una señal de control [2006.01]"
+  },
+  {
+    "code": "H02M 5/456",
+    "description": "••••••••••utilizando solamente tubos de descarga [2006.01]"
+  },
+  {
+    "code": "H02M 5/458",
+    "description": "••••••••••utilizando solamente dispositivos semiconductores [2006.01]"
+  },
+  {
+    "code": "H02M 5/46",
+    "description": "••••por convertidores dinámicos [2006.01]"
+  },
+  {
+    "code": "H02M 5/48",
+    "description": "••••por combinación de convertidores estáticos con convertidores dinámicos; por combinación de convertidores dinamoeléctricos con otros convertidores dinámicos o estáticos [2006.01]"
+  },
+  {
+    "code": "H02M 7/00",
+    "description": "Transformación de una potencia de entrada en corriente alterna en una potencia de salida en corriente continua; Transformación de una potencia de entrada en corriente continua en una potencia de salida en corriente alterna [2006.01]"
+  },
+  {
+    "code": "H02M 7/02",
+    "description": "••Transformación de una potencia de entrada en corriente alterna en una potencia de salida en corriente continua sin posibilidad de reversibilidad [2006.01]"
+  },
+  {
+    "code": "H02M 7/04",
+    "description": "••••por convertidores estáticos [2006.01]"
+  },
+  {
+    "code": "H02M 7/06",
+    "description": "••••••utilizando tubos de descarga sin electrodo de control o dispositivos semiconductores sin electrodo de control [2006.01]"
+  },
+  {
+    "code": "H02M 7/08",
+    "description": "••••••••dispuestos para la marcha en paralelo [2006.01]"
+  },
+  {
+    "code": "H02M 7/10",
+    "description": "••••••••dispuestos para la marcha en serie, p. ej. para la multiplicación de tensión [2006.01]"
+  },
+  {
+    "code": "H02M 7/12",
+    "description": "••••••utilizando tubos de descarga con electrodo de control o dispositivos semiconductores con electrodo de control [2006.01]"
+  },
+  {
+    "code": "H02M 7/145",
+    "description": "••••••••utilizando dispositivos del tipo tiratrón o tiristor que exigen medios de extinción [2006.01]"
+  },
+  {
+    "code": "H02M 7/15",
+    "description": "••••••••••utilizando únicamente tubos de descarga [2006.01]"
+  },
+  {
+    "code": "H02M 7/155",
+    "description": "••••••••••utilizando únicamente dispositivos semiconductores [2006.01]"
+  },
+  {
+    "code": "H02M 7/162",
+    "description": "••••••••••••en una configuración en puente [2006.01]"
+  },
+  {
+    "code": "H02M 7/17",
+    "description": "••••••••••••dispuestos para el funcionamiento en paralelo [2006.01]"
+  },
+  {
+    "code": "H02M 7/19",
+    "description": "••••••••••••dispuestos para el funcionamiento en serie, p. ej. para multiplicar la tensión [2006.01]"
+  },
+  {
+    "code": "H02M 7/21",
+    "description": "••••••••utilizando dispositivos tipo triodo o transistor que exigen la aplicación continua de una señal de control [2006.01]"
+  },
+  {
+    "code": "H02M 7/213",
+    "description": "••••••••••utilizando solamente tubos de descarga [2006.01]"
+  },
+  {
+    "code": "H02M 7/217",
+    "description": "••••••••••utilizando solamente dispositivos semiconductores [2006.01]"
+  },
+  {
+    "code": "H02M 7/219",
+    "description": "••••••••••••en una configuración en puente [2006.01]"
+  },
+  {
+    "code": "H02M 7/23",
+    "description": "••••••••••••dispuestos para el funcionamiento en paralelo [2006.01]"
+  },
+  {
+    "code": "H02M 7/25",
+    "description": "••••••••••••dispuestos para el funcionamiento en serie, p. ej. para multiplicar la tensión [2006.01]"
+  },
+  {
+    "code": "H02M 7/26",
+    "description": "••••••utilizando dispositivos de chispas al aire libre, p. ej. rectificador Marx [2006.01]"
+  },
+  {
+    "code": "H02M 7/28",
+    "description": "••••••utilizando rectificadores electrolíticos [2006.01]"
+  },
+  {
+    "code": "H02M 7/30",
+    "description": "••••por convertidores dinámicos [2006.01]"
+  },
+  {
+    "code": "H02M 7/32",
+    "description": "••••••utilizando órganos mecánicos de establecimiento y de ruptura de contacto [2006.01]"
+  },
+  {
+    "code": "H02M 7/34",
+    "description": "••••••••donde los órganos son giratorios y donde los colectores cooperan con escobillas o rodillos [2006.01]"
+  },
+  {
+    "code": "H02M 7/36",
+    "description": "••••••••con contactos vibrantes accionados electromagnéticamente, p. ej. ruptores [2006.01]"
+  },
+  {
+    "code": "H02M 7/38",
+    "description": "••••••utilizando uno o varios electrodos de chispa girando en frente de contra electrodos [2006.01]"
+  },
+  {
+    "code": "H02M 7/40",
+    "description": "••••por combinación de convertidores estáticos con convertidores dinámicos; por combinación de convertidores dinamoeléctricos con otros convertidores dinámicos o estáticos [2006.01]"
+  },
+  {
+    "code": "H02M 7/42",
+    "description": "••Transformación de una potencia de entrada en corriente continua en una potencia de salida en corriente alterna sin posibilidad de reversibilidad [2006.01]"
+  },
+  {
+    "code": "H02M 7/44",
+    "description": "••••por convertidores estáticos [2006.01]"
+  },
+  {
+    "code": "H02M 7/46",
+    "description": "••••••utilizando tubos de descarga sin electrodo o dispositivos semiconductores sin electrodo de control [2006.01]"
+  },
+  {
+    "code": "H02M 7/48",
+    "description": "••••••utilizando tubos de descarga con electrodo de control o dispositivos semiconductores con electrodo de control [2007.01]"
+  },
+  {
+    "code": "H02M 7/483",
+    "description": "••••••••Convertidores provistos de salidas pudiendo tener cada una más de dos niveles de tensión [2007.01]"
+  },
+  {
+    "code": "H02M 7/487",
+    "description": "••••••••••Inversores bloqueados en el punto neutro [2007.01]"
+  },
+  {
+    "code": "H02M 7/49",
+    "description": "••••••••••Combinación de las formas de onda de la tensión de salida de una pluralidad de convertidores [2007.01]"
+  },
+  {
+    "code": "H02M 7/493",
+    "description": "••••••••estando dispuestos los convertidores estáticos para el funcionamiento en paralelo [2007.01]"
+  },
+  {
+    "code": "H02M 7/497",
+    "description": "••••••••siendo obtenidas las tensiones de salida sinusoidales por combinación de varias tensiones desfasadas [2007.01]"
+  },
+  {
+    "code": "H02M 7/501",
+    "description": "••••••••siendo obtenidas las tensiones de salida sinusoidales por la combinación de varios impulsos de tensión de diferente amplitud y ancho [2007.01]"
+  },
+  {
+    "code": "H02M 7/505",
+    "description": "••••••••utilizando dispositivos tipo tiratrón o tiristor que exigen medios de extinción [2006.01]"
+  },
+  {
+    "code": "H02M 7/51",
+    "description": "••••••••••utilizando solamente tubos de descarga [2006.01]"
+  },
+  {
+    "code": "H02M 7/515",
+    "description": "••••••••••utilizando solamente dispositivos semiconductores [2007.01]"
+  },
+  {
+    "code": "H02M 7/516",
+    "description": "••••••••••••Configuraciones auto-oscilantes [2007.01]"
+  },
+  {
+    "code": "H02M 7/517",
+    "description": "••••••••••••con equipo especial de arranque [2006.01]"
+  },
+  {
+    "code": "H02M 7/519",
+    "description": "••••••••••••en una configuración push-pull (H02M 7/517 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H02M 7/521",
+    "description": "••••••••••••en una configuración en puente [2006.01]"
+  },
+  {
+    "code": "H02M 7/523",
+    "description": "••••••••••••con un circuito resonante LC en el circuito principal [2006.01]"
+  },
+  {
+    "code": "H02M 7/525",
+    "description": "••••••••••••con control automático de la forma de la onda o de la frecuencia de salida (H02M 7/517-H02M 7/523 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H02M 7/527",
+    "description": "••••••••••••••por modulación de impulsos en duración [2006.01]"
+  },
+  {
+    "code": "H02M 7/529",
+    "description": "••••••••••••••••con control digital [2006.01]"
+  },
+  {
+    "code": "H02M 7/53",
+    "description": "••••••••utilizando dispositivos tipo triodo o transistor que exigen la aplicación continua de una señal de control [2006.01]"
+  },
+  {
+    "code": "H02M 7/533",
+    "description": "••••••••••utilizando solamente tubos de descarga [2006.01]"
+  },
+  {
+    "code": "H02M 7/537",
+    "description": "••••••••••utilizando solamente dispositivos semiconductores, p. ej. inversores de impulsos de única conmutación [2006.01]"
+  },
+  {
+    "code": "H02M 7/5375",
+    "description": "••••••••••••con equipo especial de arranque [2006.01]"
+  },
+  {
+    "code": "H02M 7/538",
+    "description": "••••••••••••en una configuración push-pull (H02M 7/5375 tiene prioridad) [2007.01]"
+  },
+  {
+    "code": "H02M 7/5381",
+    "description": "••••••••••••••de tipo paralelo [2007.01]"
+  },
+  {
+    "code": "H02M 7/5383",
+    "description": "••••••••••••en una configuración auto-oscilante (H02M 7/538 tiene prioridad) [2007.01]"
+  },
+  {
+    "code": "H02M 7/53838",
+    "description": "••••••••••••••utilizando un único camino de conmutación [2007.01]"
+  },
+  {
+    "code": "H02M 7/53846",
+    "description": "••••••••••••••Circuitos de control [2007.01]"
+  },
+  {
+    "code": "H02M 7/53854",
+    "description": "••••••••••••••••utilizando convertidores de tiristores [2007.01]"
+  },
+  {
+    "code": "H02M 7/53862",
+    "description": "••••••••••••••••utilizando convertidores de transistores [2007.01]"
+  },
+  {
+    "code": "H02M 7/5387",
+    "description": "••••••••••••en una configuración en puente [2007.01]"
+  },
+  {
+    "code": "H02M 7/5388",
+    "description": "••••••••••••••con una configuración asimétrica de conmutadores [2007.01]"
+  },
+  {
+    "code": "H02M 7/539",
+    "description": "••••••••••••con control automático de la forma de la onda o de la frecuencia de salida (H02M 7/5375-H02M 7/5387 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H02M 7/5395",
+    "description": "••••••••••••••por modulación de impulsos en duración [2006.01]"
+  },
+  {
+    "code": "H02M 7/54",
+    "description": "••••por convertidores dinámicos [2006.01]"
+  },
+  {
+    "code": "H02M 7/56",
+    "description": "••••••utilizando órganos mecánicos para seleccionar progresivamente o hacer variar de forma continua la tensión de entrada [2006.01]"
+  },
+  {
+    "code": "H02M 7/58",
+    "description": "••••••utilizando órganos mecánicos de establecimiento y de ruptura de contacto para interrumpir una tensión única [2006.01]"
+  },
+  {
+    "code": "H02M 7/60",
+    "description": "••••••••donde estos órganos son giratorios y donde los colectores cooperan con escobillas o rodillos [2006.01]"
+  },
+  {
+    "code": "H02M 7/62",
+    "description": "••••••••con contactos vibrantes accionados electromagnéticamente, p. ej. ruptores [2006.01]"
+  },
+  {
+    "code": "H02M 7/64",
+    "description": "••••por combinación de convertidores estáticos con convertidores dinámicos; por combinación de convertidores dinamoeléctricos con otros convertidores dinámicos o estáticos [2006.01]"
+  },
+  {
+    "code": "H02M 7/66",
+    "description": "••con posibilidad de reversibilidad [2006.01]"
+  },
+  {
+    "code": "H02M 7/68",
+    "description": "••••por convertidores estáticos [2006.01]"
+  },
+  {
+    "code": "H02M 7/70",
+    "description": "••••••utilizando tubos de descarga sin electrodo de control o dispositivos semiconductores sin electrodo de control [2006.01]"
+  },
+  {
+    "code": "H02M 7/72",
+    "description": "••••••utilizando tubos de descarga con electrodo de control o dispositivos semiconductores con electrodo de control [2006.01]"
+  },
+  {
+    "code": "H02M 7/75",
+    "description": "••••••••utilizando dispositivos tipo tiratrón o tiristor que exigen medios de extinción [2006.01]"
+  },
+  {
+    "code": "H02M 7/753",
+    "description": "••••••••••utilizando solamente tubos de descarga [2006.01]"
+  },
+  {
+    "code": "H02M 7/757",
+    "description": "••••••••••utilizando solamente dispositivos semiconductores [2006.01]"
+  },
+  {
+    "code": "H02M 7/758",
+    "description": "••••••••••••con control automático de la forma de la onda o de la frecuencia de salida [2006.01]"
+  },
+  {
+    "code": "H02M 7/77",
+    "description": "••••••••••dispuestos para marcha en paralelo [2006.01]"
+  },
+  {
+    "code": "H02M 7/79",
+    "description": "••••••••utilizando dispositivos tipo triodo o transistor que exigen la aplicación continua de una señal de control [2006.01]"
+  },
+  {
+    "code": "H02M 7/793",
+    "description": "••••••••••utilizando solamente tubos de descarga [2006.01]"
+  },
+  {
+    "code": "H02M 7/797",
+    "description": "••••••••••utilizando solamente dispositivos semiconductores [2006.01]"
+  },
+  {
+    "code": "H02M 7/81",
+    "description": "••••••••••dispuestos para marcha en paralelo [2006.01]"
+  },
+  {
+    "code": "H02M 7/82",
+    "description": "••••••utilizando dispositivos de chispa al aire libre, p. ej. rectificador Marx [2006.01]"
+  },
+  {
+    "code": "H02M 7/84",
+    "description": "••••••utilizando rectificadores electrolíticos [2006.01]"
+  },
+  {
+    "code": "H02M 7/86",
+    "description": "••••por convertidores dinámicos [2006.01]"
+  },
+  {
+    "code": "H02M 7/88",
+    "description": "••••••utilizando órganos mecánicos para seleccionar progresivamente o hacer variar de forma continua la tensión de entrada [2006.01]"
+  },
+  {
+    "code": "H02M 7/90",
+    "description": "••••••utilizando órganos mecánicos de apertura y cierre de contacto para interrumpir una tensión única [2006.01]"
+  },
+  {
+    "code": "H02M 7/92",
+    "description": "••••••••donde estos órganos son giratorios y donde estos órganos cooperan con escobillas o rodillos [2006.01]"
+  },
+  {
+    "code": "H02M 7/94",
+    "description": "••••••••donde estos órganos son accionados por levas giratorias o dispositivos análogos [2006.01]"
+  },
+  {
+    "code": "H02M 7/95",
+    "description": "••••••••con contactos vibrantes accionados electromagnéticamente, p. ej. ruptores [2006.01]"
+  },
+  {
+    "code": "H02M 7/96",
+    "description": "••••••••con contactos por líquido en movimiento [2006.01]"
+  },
+  {
+    "code": "H02M 7/98",
+    "description": "••••por combinación de convertidores estáticos con convertidores dinámicos; por combinación de convertidores dinamoeléctricos con otros convertidores estáticos o dinámicos [2006.01]"
+  },
+  {
+    "code": "H02M 9/00",
+    "description": "Transformación de una potencia de entrada en corriente continua o alterna en una potencia de salida de choque [2006.01]"
+  },
+  {
+    "code": "H02M 9/02",
+    "description": "••con potencia de entrada en corriente continua [2006.01]"
+  },
+  {
+    "code": "H02M 9/04",
+    "description": "••••utilizando condensadores de acumulación [2006.01]"
+  },
+  {
+    "code": "H02M 9/06",
+    "description": "••con potencia de entrada en corriente alterna [2006.01]"
+  },
+  {
+    "code": "H02M 11/00",
+    "description": "Sistemas de transformación de potencia eléctrica no cubiertos por los grupos precedentes [2006.01]"
+  }
+]

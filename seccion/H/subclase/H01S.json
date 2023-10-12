@@ -1,0 +1,690 @@
+[
+  {
+    "code": "H01S 1/00",
+    "description": "Máser, es decir, dispositivos que utilizan la emisión estimulada de la radiación electromagnética en el rango de microondas [2006.01]"
+  },
+  {
+    "code": "H01S 1/02",
+    "description": "••sólidos [2006.01]"
+  },
+  {
+    "code": "H01S 1/04",
+    "description": "••líquidos [2006.01]"
+  },
+  {
+    "code": "H01S 1/06",
+    "description": "••gaseosos [2006.01]"
+  },
+  {
+    "code": "H01S 3/00",
+    "description": "Láseres, es decir, dispositivos que utilizan la emisión estimulada de la radiación electromagnética en el rango de infrarrojos, visible o ultravioleta (láseres de semiconductores H01S 5/00) [2006.01]"
+  },
+  {
+    "code": "H01S 3/02",
+    "description": "••Detalles de estructura [2006.01]"
+  },
+  {
+    "code": "H01S 3/03",
+    "description": "••••de tubos láser de descarga en el gas [2006.01]"
+  },
+  {
+    "code": "H01S 3/032",
+    "description": "••••••para el confinamiento de la descarga, p. ej. por características particulares del tubo para la contracción de la descarga [2006.01]"
+  },
+  {
+    "code": "H01S 3/034",
+    "description": "••••••Dispositivos ópticos situados en el interior del tubo o formando parte de él, p. ej. ventanas, espejos (reflectores con propiedades o posiciones variables para el reglaje inicial del resonador H01S 3/086) [2006.01]"
+  },
+  {
+    "code": "H01S 3/036",
+    "description": "••••••Medios para obtener o mantener la presión deseada del gas en el interior del tubo, p. ej. por medio de un getter o de una recarga; Medios para hacer circular el gas, p. ej. para uniformizar la presión en el interior del tubo [2006.01]"
+  },
+  {
+    "code": "H01S 3/038",
+    "description": "••••••Electrodos, p. ej. forma, configuración o composición particulares [2006.01]"
+  },
+  {
+    "code": "H01S 3/04",
+    "description": "••••Disposiciones para el control térmico [2006.01]"
+  },
+  {
+    "code": "H01S 3/041",
+    "description": "••••••para láser de gas [2006.01]"
+  },
+  {
+    "code": "H01S 3/042",
+    "description": "••••••para láser de estado sólido [2006.01]"
+  },
+  {
+    "code": "H01S 3/05",
+    "description": "••Construcción o forma de resonadores; Acomodación del medio activo en el interior de estos resonadores; Forma del medio activo [2006.01]"
+  },
+  {
+    "code": "H01S 3/06",
+    "description": "••••Construcción o forma del medio activo [2006.01]"
+  },
+  {
+    "code": "H01S 3/063",
+    "description": "••••••Láseres de guía de ondas, p. ej. amplificadores láser [2006.01]"
+  },
+  {
+    "code": "H01S 3/067",
+    "description": "••••••••Láseres de fibra óptica [2006.01]"
+  },
+  {
+    "code": "H01S 3/07",
+    "description": "••••••consistentes en una pluralidad de partes, p. ej. segmentos (H01S 3/067 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01S 3/08",
+    "description": "••••Construcción o forma de resonadores ópticos o de sus componentes [2023.01]"
+  },
+  {
+    "code": "H01S 3/08018",
+    "description": "••••••Modo de supresión [2023.01]"
+  },
+  {
+    "code": "H01S 3/08022",
+    "description": "••••••••Modos longitudinales (modo de supresión mediante una pluralidad de resonadores H01S 3/082) [2023.01]"
+  },
+  {
+    "code": "H01S 3/08031",
+    "description": "••••••••••Emisión monomodal [2023.01]"
+  },
+  {
+    "code": "H01S 3/08036",
+    "description": "••••••••••••utilizando elementos dispersivos intracavitarios, polarizantes o birrefringentes [2023.01]"
+  },
+  {
+    "code": "H01S 3/0804",
+    "description": "••••••••Modos transversales o laterales [2023.01]"
+  },
+  {
+    "code": "H01S 3/08045",
+    "description": "••••••••••Emisión monomodal [2023.01]"
+  },
+  {
+    "code": "H01S 3/0805",
+    "description": "••••••••••mediante aberturas, p. ej. agujeros para alfileres o bordes de cuchillas [2023.01]"
+  },
+  {
+    "code": "H01S 3/081",
+    "description": "••••••con tres o más reflectores [2006.01]"
+  },
+  {
+    "code": "H01S 3/082",
+    "description": "••••••••definiendo una pluralidad de resonadores, p. ej. para la selección de modos o supresión [2006.01]"
+  },
+  {
+    "code": "H01S 3/083",
+    "description": "••••••••Láseres en anillo [2006.01]"
+  },
+  {
+    "code": "H01S 3/086",
+    "description": "••••••teniendo uno o varios reflectores propiedades o posiciones variables para el reglaje inicial del resonador (haciendo variar un parámetro de la salida del láser durante su funcionamiento H01S 3/10; estabilización de la señal de salida del láser H01S 3/13) [2006.01]"
+  },
+  {
+    "code": "H01S 3/09",
+    "description": "••Procedimientos o aparatos para la excitación, p. ej. bombeo [2006.01]"
+  },
+  {
+    "code": "H01S 3/091",
+    "description": "••••utilizando el bombeo óptico [2006.01]"
+  },
+  {
+    "code": "H01S 3/0915",
+    "description": "••••••por luz incoherente [2006.01]"
+  },
+  {
+    "code": "H01S 3/092",
+    "description": "••••••••producida por una lámpara de destellos (H01S 3/0937 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01S 3/093",
+    "description": "••••••••••enfocando o dirigiendo la energía de excitación en el medio activo [2006.01]"
+  },
+  {
+    "code": "H01S 3/0933",
+    "description": "••••••••producida por un semiconductor, p. ej. un diodo emisor de luz [2006.01]"
+  },
+  {
+    "code": "H01S 3/0937",
+    "description": "••••••••producida por la explosión de un material o por un material combustible [2006.01]"
+  },
+  {
+    "code": "H01S 3/094",
+    "description": "••••••por luz coherente [2006.01]"
+  },
+  {
+    "code": "H01S 3/0941",
+    "description": "••••••••producida por un láser semiconductor, p. ej. un diodo láser [2006.01]"
+  },
+  {
+    "code": "H01S 3/0943",
+    "description": "••••••••producida por un láser de gas [2006.01]"
+  },
+  {
+    "code": "H01S 3/0947",
+    "description": "••••••••producida por un láser de colorante orgánico [2006.01]"
+  },
+  {
+    "code": "H01S 3/095",
+    "description": "••••utilizando el bombeo químico o térmico [2006.01]"
+  },
+  {
+    "code": "H01S 3/0951",
+    "description": "••••••aumentando la presión en el medio gaseoso del láser [2006.01]"
+  },
+  {
+    "code": "H01S 3/0953",
+    "description": "••••••••Láseres de gas dinámico, es decir, con expansión del medio gaseoso del láser a velocidades de circulación supersónicas [2006.01]"
+  },
+  {
+    "code": "H01S 3/0955",
+    "description": "••••utilizando el bombeo por partículas de alta energía [2006.01]"
+  },
+  {
+    "code": "H01S 3/0957",
+    "description": "••••••por partículas nucleares de alta energía [2006.01]"
+  },
+  {
+    "code": "H01S 3/0959",
+    "description": "••••••por un haz de electrones [2006.01]"
+  },
+  {
+    "code": "H01S 3/097",
+    "description": "••••por descarga en el gas de un láser de gas [2006.01]"
+  },
+  {
+    "code": "H01S 3/0971",
+    "description": "••••••excitado transversalmente (H01S 3/0975 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01S 3/0973",
+    "description": "••••••••teniendo una onda progresiva que atraviesa el medio activo [2006.01]"
+  },
+  {
+    "code": "H01S 3/0975",
+    "description": "••••••utilizando una excitación inductiva o capacitiva [2006.01]"
+  },
+  {
+    "code": "H01S 3/0977",
+    "description": "••••••con medios de ionización auxiliares [2006.01]"
+  },
+  {
+    "code": "H01S 3/0979",
+    "description": "••••••Láseres de gas dinámico, es decir, con expansión del medio gaseoso del láser a velocidades de circulación supersónicas [2006.01]"
+  },
+  {
+    "code": "H01S 3/098",
+    "description": ""
+  },
+  {
+    "code": "H01S 3/10",
+    "description": "••Control de la intensidad, frecuencia, fase, polarización o de la dirección de la radiación, p. ej. conmutación, apertura de puerta, modulación o demodulación [2006.01]"
+  },
+  {
+    "code": "H01S 3/101",
+    "description": "••••Láseres provistos de medios para cambiar el origen o la dirección de la radiación emitida [2006.01]"
+  },
+  {
+    "code": "H01S 3/102",
+    "description": "••••por control del medio activo, p. ej. por control de los procedimientos o de los aparatos para la excitación (H01S 3/13 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01S 3/104",
+    "description": "••••••en los láseres de gas [2006.01]"
+  },
+  {
+    "code": "H01S 3/105",
+    "description": "••••por control de la posición relativa o de las propiedades reflectantes de los reflectores de la cavidad (H01S 3/13 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01S 3/1055",
+    "description": "••••••estando constituido uno de los reflectores por una red de difracción [2006.01]"
+  },
+  {
+    "code": "H01S 3/106",
+    "description": "••••mediante control de dispositivos situados en la cavidad (H01S 3/13 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01S 3/107",
+    "description": "••••••utilizando dispositivos electroópticos, p. ej. que producen efecto Pockels o Kerr [2006.01]"
+  },
+  {
+    "code": "H01S 3/108",
+    "description": "••••••utilizando dispositivos ópticos no lineales, p. ej. que producen difusión por efecto Brillouin o Raman [2006.01]"
+  },
+  {
+    "code": "H01S 3/109",
+    "description": "••••••••Multiplicación de la frecuencia, p. ej. generación de armónicos [2006.01]"
+  },
+  {
+    "code": "H01S 3/11",
+    "description": "••••Modo de bloqueo; Conmutación Q; Otras técnicas de impulsos gigantes, p. ej. vaciado de cavidad [2023.01]"
+  },
+  {
+    "code": "H01S 3/1106",
+    "description": "••••••Modo de bloqueo [2023.01]"
+  },
+  {
+    "code": "H01S 3/1109",
+    "description": "••••••••Modo de bloqueo activo [2023.01]"
+  },
+  {
+    "code": "H01S 3/1112",
+    "description": "••••••••Modo de bloqueo pasivo [2023.01]"
+  },
+  {
+    "code": "H01S 3/1115",
+    "description": "••••••••••utilizando absorbentes saturables intracavitarios [2023.01]"
+  },
+  {
+    "code": "H01S 3/1118",
+    "description": "••••••••••••Absorbentes saturables de semiconductores, p. ej. espejos absorbentes saturables de semiconductores [SESAM]; Absorbentes saturables en estado sólido, p. ej. basados en nanotubos de carbono [CNT] [2023.01]"
+  },
+  {
+    "code": "H01S 3/1123",
+    "description": "••••••Conmutación Q [2023.01]"
+  },
+  {
+    "code": "H01S 3/113",
+    "description": "••••••••empleando absorbentes saturables intracavitarios [2006.01]"
+  },
+  {
+    "code": "H01S 3/115",
+    "description": "••••••••empleando dispositivos electroópticos intracavitarios [2006.01]"
+  },
+  {
+    "code": "H01S 3/117",
+    "description": "••••••••empleando dispositivos acusticoópticos intracavitarios [2006.01]"
+  },
+  {
+    "code": "H01S 3/121",
+    "description": "••••••••empleando dispositivos mecánicos intracavitarios [2006.01]"
+  },
+  {
+    "code": "H01S 3/123",
+    "description": "••••••••••empleando espejos giratorios [2006.01]"
+  },
+  {
+    "code": "H01S 3/125",
+    "description": "••••••••••empleando prismas giratorios [2006.01]"
+  },
+  {
+    "code": "H01S 3/127",
+    "description": "••••••••Conmutadores de factor de calidad tipo \"Q-switch\" múltiples [2006.01]"
+  },
+  {
+    "code": "H01S 3/13",
+    "description": "••••Estabilización de parámetros de salida de láser, p. ej. frecuencia o amplitud [2006.01]"
+  },
+  {
+    "code": "H01S 3/131",
+    "description": "••••••por control del medio activo, p. ej. por control de los procedimientos o aparatos para la excitación [2006.01]"
+  },
+  {
+    "code": "H01S 3/134",
+    "description": "••••••••en los láseres de gas [2006.01]"
+  },
+  {
+    "code": "H01S 3/136",
+    "description": "••••••por control de dispositivos situados en la cavidad [2006.01]"
+  },
+  {
+    "code": "H01S 3/137",
+    "description": "••••••••para estabilizar la frecuencia [2006.01]"
+  },
+  {
+    "code": "H01S 3/139",
+    "description": "••••••por control de la posición relativa o de las propiedades reflectantes de los reflectores de la cavidad [2006.01]"
+  },
+  {
+    "code": "H01S 3/14",
+    "description": "••caracterizados por el material utilizado como medio activo [2006.01]"
+  },
+  {
+    "code": "H01S 3/16",
+    "description": "••••Materiales sólidos [2006.01]"
+  },
+  {
+    "code": "H01S 3/17",
+    "description": "••••••amorfos, p. ej. vidrio [2006.01]"
+  },
+  {
+    "code": "H01S 3/20",
+    "description": "••••Líquidos [2006.01]"
+  },
+  {
+    "code": "H01S 3/207",
+    "description": "••••••incluyendo un quelato [2006.01]"
+  },
+  {
+    "code": "H01S 3/213",
+    "description": "••••••incluyendo un colorante orgánico [2006.01]"
+  },
+  {
+    "code": "H01S 3/22",
+    "description": "••••gaseosos [2006.01]"
+  },
+  {
+    "code": "H01S 3/223",
+    "description": "••••••siendo poliatómico el gas activo, es decir, conteniendo dos o más átomos (H01S 3/227 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01S 3/225",
+    "description": "••••••••incluyendo un \"excimer\" o \"exciplex\" [2006.01]"
+  },
+  {
+    "code": "H01S 3/227",
+    "description": "••••••Vapor metálico [2006.01]"
+  },
+  {
+    "code": "H01S 3/23",
+    "description": "••Disposiciones de varios láseres no previstas en H01S 3/02-H01S 3/14, p. ej. disposición en serie de dos medios activos separados (comprendiendo únicamente láseres de semiconductor H01S 5/40) [2006.01]"
+  },
+  {
+    "code": "H01S 3/30",
+    "description": "••utilizando efectos de difusión, p. ej. efecto Brillouin o Raman estimulado [2006.01]"
+  },
+  {
+    "code": "H01S 4/00",
+    "description": "Dispositivos que utilizan la emisión estimulada de la radiación electromagnética en otros rangos de frecuencia distintos a aquellos cubiertos por los grupos H01S 1/00, H01S 3/00 o H01S 5/00, p. ej. máser fonón, láseres de rayos X o láseres de rayos gamma [2006.01]"
+  },
+  {
+    "code": "H01S 5/00",
+    "description": "Láseres de semiconductor (diodos superluminiscentes H01L 33/00) [2006.01]"
+  },
+  {
+    "code": "H01S 5/02",
+    "description": "••Detalles o componentes estructurales no esenciales en el funcionamiento del láser [2006.01]"
+  },
+  {
+    "code": "H01S 5/022",
+    "description": "••••Soportes; Encapsulados [2021.01]"
+  },
+  {
+    "code": "H01S 5/02208",
+    "description": "••••••caracterizados por la forma de los encapsulados [2021.01]"
+  },
+  {
+    "code": "H01S 5/02212",
+    "description": "••••••••Tipo CAN, p. ej. encapsulados TO-CAN con emisión a lo largo o en paralelo al eje de simetría [2021.01]"
+  },
+  {
+    "code": "H01S 5/02216",
+    "description": "••••••••De tipo mariposa, es decir, con pines extendidos horizontalmente desde los encapsulados [2021.01]"
+  },
+  {
+    "code": "H01S 5/02218",
+    "description": "••••••Material de los encapsulados; Relleno de los encapsulados [2021.01]"
+  },
+  {
+    "code": "H01S 5/0222",
+    "description": "••••••••Encapsulados rellenos de gas [2021.01]"
+  },
+  {
+    "code": "H01S 5/02224",
+    "description": "••••••••••en los que el gas comprende oxígeno, p. ej. para evitar la contaminación de las facetas emisoras de luz [2021.01]"
+  },
+  {
+    "code": "H01S 5/02232",
+    "description": "••••••••Encapsulados rellenos de líquido [2021.01]"
+  },
+  {
+    "code": "H01S 5/02234",
+    "description": "••••••••Encapsulados rellenos de resina; estando los encapsulados hechos de resina [2021.01]"
+  },
+  {
+    "code": "H01S 5/02235",
+    "description": "••••••Getter o material  para absorber la contaminación [2021.01]"
+  },
+  {
+    "code": "H01S 5/0225",
+    "description": "••••••Desacoplamiento de la luz [2021.01]"
+  },
+  {
+    "code": "H01S 5/02251",
+    "description": "••••••••mediante fibras ópticas [2021.01]"
+  },
+  {
+    "code": "H01S 5/02253",
+    "description": "••••••••mediante lentes [2021.01]"
+  },
+  {
+    "code": "H01S 5/02255",
+    "description": "••••••••mediante elementos de deflectores del haz [2021.01]"
+  },
+  {
+    "code": "H01S 5/02257",
+    "description": "••••••••mediante ventanas, p. ej. especialmente adaptadas para retro-reflejar la luz hacia un detector en el interior del encapsulado [2021.01]"
+  },
+  {
+    "code": "H01S 5/023",
+    "description": "••••••Elementos de montaje, p. ej. elementos de submontaje [2021.01]"
+  },
+  {
+    "code": "H01S 5/0231",
+    "description": "••••••••Tubos [2021.01]"
+  },
+  {
+    "code": "H01S 5/02315",
+    "description": "••••••••Elementos de soporte, p. ej. bases o soportes [2021.01]"
+  },
+  {
+    "code": "H01S 5/0232",
+    "description": "••••••••Bastidores de plomo [2021.01]"
+  },
+  {
+    "code": "H01S 5/02325",
+    "description": "••••••••Componentes mecánicamente integrados sobre los elementos de montaje o micro-bancos ópticos [2021.01]"
+  },
+  {
+    "code": "H01S 5/02326",
+    "description": "••••••••••Disposiciones para el posicionamiento relativo de diodos láser y componentes ópticos, p. ej. ranuras en la montura para fijar fibras ópticas o lentes [2021.01]"
+  },
+  {
+    "code": "H01S 5/0233",
+    "description": "••••••Configuración de montaje de chips láser [2021.01]"
+  },
+  {
+    "code": "H01S 5/02335",
+    "description": "••••••••Montajes up-side por arriba, p. ej. montajes epi-side por arriba  o montajes de unión superior [2021.01]"
+  },
+  {
+    "code": "H01S 5/0234",
+    "description": "••••••••Montajes up-side por abajo, p. ej. Flip-chip, montajes epi-side por abajo o montajes de unión inferior [2021.01]"
+  },
+  {
+    "code": "H01S 5/02345",
+    "description": "••••••••Wire-bonding [2021.01]"
+  },
+  {
+    "code": "H01S 5/0235",
+    "description": "••••••Métodos para el montaje de chips láser [2021.01]"
+  },
+  {
+    "code": "H01S 5/02355",
+    "description": "••••••••Fijación de chips láser sobre monturas [2021.01]"
+  },
+  {
+    "code": "H01S 5/0236",
+    "description": "••••••••••utilizando un adhesivo [2021.01]"
+  },
+  {
+    "code": "H01S 5/02365",
+    "description": "••••••••••por apriete [2021.01]"
+  },
+  {
+    "code": "H01S 5/0237",
+    "description": "••••••••••por soldadura [2021.01]"
+  },
+  {
+    "code": "H01S 5/02375",
+    "description": "••••••••Colocación de chips láser [2021.01]"
+  },
+  {
+    "code": "H01S 5/0238",
+    "description": "••••••••••utilizando marcas [2021.01]"
+  },
+  {
+    "code": "H01S 5/02385",
+    "description": "••••••••••utilizando luz láser como referencia [2021.01]"
+  },
+  {
+    "code": "H01S 5/0239",
+    "description": "••••••Combinaciones de elementos eléctricos u ópticos [2021.01]"
+  },
+  {
+    "code": "H01S 5/024",
+    "description": "••••Disposiciones para el control térmico [2006.01]"
+  },
+  {
+    "code": "H01S 5/026",
+    "description": "••••Componentes integrados monolíticamente, p. ej. guías de ondas, fotodetectores de monitorización, dispositivos para la excitación (estabilización de la salida del láser H01S 5/06) [2006.01]"
+  },
+  {
+    "code": "H01S 5/028",
+    "description": "••••Revestimientos [2006.01]"
+  },
+  {
+    "code": "H01S 5/04",
+    "description": "••Procesos o aparatos para la excitación, p. ej. bombeo (H01S 5/06 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01S 5/042",
+    "description": "••••Excitación eléctrica [2006.01]"
+  },
+  {
+    "code": "H01S 5/06",
+    "description": "••Disposiciones para controlar los parámetros de salida del láser, p. ej. actuando sobre el medio activo [2006.01]"
+  },
+  {
+    "code": "H01S 5/062",
+    "description": "••••variando el potencial de los electrodos (H01S 5/065 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01S 5/0625",
+    "description": "••••••en láseres con varias secciones [2006.01]"
+  },
+  {
+    "code": "H01S 5/065",
+    "description": "••••Acoplamiento de modos (\"mode locking\"); Supresión de modos; Selección de modos [2006.01]"
+  },
+  {
+    "code": "H01S 5/068",
+    "description": "••••Estabilización de los parámetros de salida del láser (H01S 5/0625 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01S 5/0683",
+    "description": "••••••monitorizando los parámetros ópticos de salida [2006.01]"
+  },
+  {
+    "code": "H01S 5/0687",
+    "description": "••••••••Estabilización de la frecuencia del láser [2006.01]"
+  },
+  {
+    "code": "H01S 5/10",
+    "description": "••Estructura o forma del resonador óptico [2021.01]"
+  },
+  {
+    "code": "H01S 5/11",
+    "description": "••••que comprende una estructura fotónica de banda prohibida [2021.01]"
+  },
+  {
+    "code": "H01S 5/12",
+    "description": "••••teniendo el resonador una estructura periódica, p. ej. en láseres de realimentación distribuida [DFB] (que comprende una estructura fotónica de banda prohibida H01S 5/11; láseres de emisión superficial H01S 5/18) [2021.01]"
+  },
+  {
+    "code": "H01S 5/125",
+    "description": "••••••Láseres de reflectores de Bragg distribuidos [DBR] [2006.01]"
+  },
+  {
+    "code": "H01S 5/14",
+    "description": "••••Láseres de cavidad externa (H01S 5/18 tiene prioridad; acoplamiento de modos o \"mode-locking\" H01S 5/065) [2006.01]"
+  },
+  {
+    "code": "H01S 5/16",
+    "description": "••••Láseres del tipo de ventanas, p. ej. con una región de material no absorbente entre la región activa y la superficie reflectora (H01S 5/14 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01S 5/18",
+    "description": "••••Láseres de emisión superficial [SE], p. ej. que tienen cavidades tanto horizontales como verticales [2021.01]"
+  },
+  {
+    "code": "H01S 5/183",
+    "description": "••••••que tienen solamente cavidades verticales, p. ej. láseres de emisión superficial de cavidad vertical [VCSEL] [2006.01]"
+  },
+  {
+    "code": "H01S 5/185",
+    "description": "••••••que tienen solamente cavidades horizontales, p. ej. láseres de emisión superficial de cavidad horizontal [HCSEL] (que comprenden una estructura fotónica de banda prohibida H01S 5/11) [2021.01]"
+  },
+  {
+    "code": "H01S 5/187",
+    "description": "••••••••que utilizan reflexión Bragg [2006.01]"
+  },
+  {
+    "code": "H01S 5/20",
+    "description": "••Estructura o forma del cuerpo semiconductor para guiar la onda óptica [2006.01]"
+  },
+  {
+    "code": "H01S 5/22",
+    "description": "••••que tiene una estructura de tipo estriado o en forma de bandas [2006.01]"
+  },
+  {
+    "code": "H01S 5/223",
+    "description": "••••••Estructura de banda enterrada (H01S 5/227 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01S 5/227",
+    "description": "••••••Estructura de mesa enterrada [2006.01]"
+  },
+  {
+    "code": "H01S 5/24",
+    "description": "••••que tiene una estructura ranurada, p. ej. con ranuras en V [2006.01]"
+  },
+  {
+    "code": "H01S 5/30",
+    "description": "••Estructura o forma de la región activa; Materiales para la región activa [2006.01]"
+  },
+  {
+    "code": "H01S 5/32",
+    "description": "••••que comprenden uniones PN, p. ej. heteroestructuras o dobles heteroestructuras (H01S 5/34, H01S 5/36 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01S 5/323",
+    "description": "••••••en compuestos AIIIBV, p. ej. láser de AlGaAs [2006.01]"
+  },
+  {
+    "code": "H01S 5/327",
+    "description": "••••••en compuestos AIIBVI, p. ej. láser de ZnCdSe [2006.01]"
+  },
+  {
+    "code": "H01S 5/34",
+    "description": "••••que comprenden estructuras de pozos cuánticos o de superredes, p. ej. de pozo cuántico único [láseres SQW], de pozos cuánticos múltiples [láseres MQW] o con heteroestructura de confinamiento separada que tienen un índice progresivo [láseres GRINSCH] (H01S 5/36 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01S 5/343",
+    "description": "••••••en compuestos AIIIBV, p. ej. láser de AlGaAs [2006.01]"
+  },
+  {
+    "code": "H01S 5/347",
+    "description": "••••••en compuestos AIIBVI, p. ej. láser de ZnCdSe [2006.01]"
+  },
+  {
+    "code": "H01S 5/36",
+    "description": "••••que comprenden materiales orgánicos [2006.01]"
+  },
+  {
+    "code": "H01S 5/40",
+    "description": "••Disposición de dos o más láseres de semiconductor, no previstas en los grupos H01S 5/02-H01S 5/30 (H01S 5/50 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01S 5/42",
+    "description": "••••Matrices de láseres de emisión superficial [2006.01]"
+  },
+  {
+    "code": "H01S 5/50",
+    "description": "••Estructuras amplificadoras no previstas en los grupos H01S 5/02-H01S 5/30 [2006.01]"
+  }
+]

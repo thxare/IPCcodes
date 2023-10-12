@@ -1,0 +1,410 @@
+[
+  {
+    "code": "A23C 1/00",
+    "description": "Concentración, evaporación o desecación (A23C 3/00 tiene prioridad; productos obtenidos por estos procedimientos A23C 9/00) [2006.01]"
+  },
+  {
+    "code": "A23C 1/01",
+    "description": "••Desecación en capa fina [2006.01]"
+  },
+  {
+    "code": "A23C 1/03",
+    "description": "••••en tambores o cilindros [2006.01]"
+  },
+  {
+    "code": "A23C 1/04",
+    "description": "••por atomización en una corriente gaseosa [2006.01]"
+  },
+  {
+    "code": "A23C 1/05",
+    "description": "••••combinada con aglomeración [2006.01]"
+  },
+  {
+    "code": "A23C 1/06",
+    "description": "••Concentración por congelación del agua que se va a eliminar [2006.01]"
+  },
+  {
+    "code": "A23C 1/08",
+    "description": "••••Liofilización [2006.01]"
+  },
+  {
+    "code": "A23C 1/10",
+    "description": "••Desecación en forma de espuma (A23C 1/04, A23C 1/08 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "A23C 1/12",
+    "description": "••Concentración por evaporación [2006.01]"
+  },
+  {
+    "code": "A23C 1/14",
+    "description": "••combinados con otro tratamiento [2006.01]"
+  },
+  {
+    "code": "A23C 1/16",
+    "description": "••••utilizando aditivos [2006.01]"
+  },
+  {
+    "code": "A23C 3/00",
+    "description": "Conservación de la leche o de preparados lácteos (de la nata A23C 13/08; de la mantequilla A23C 15/18; del queso A23C 19/097) [2006.01]"
+  },
+  {
+    "code": "A23C 3/02",
+    "description": "••mediante calentamiento (A23C 3/07 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "A23C 3/023",
+    "description": "••••de los productos envasados [2006.01]"
+  },
+  {
+    "code": "A23C 3/027",
+    "description": "••••••y siendo transportados con movimiento progresivo a través de un aparato [2006.01]"
+  },
+  {
+    "code": "A23C 3/03",
+    "description": "••••de los productos a granel y no envasados [2006.01]"
+  },
+  {
+    "code": "A23C 3/033",
+    "description": "••••••y siendo transportados con movimiento progresivo a través de un aparato [2006.01]"
+  },
+  {
+    "code": "A23C 3/037",
+    "description": "••••••••en contacto directo con el medio de calentamiento, p. ej. con vapor [2006.01]"
+  },
+  {
+    "code": "A23C 3/04",
+    "description": "••por congelación o refrigeración [2006.01]"
+  },
+  {
+    "code": "A23C 3/05",
+    "description": "••••de los productos envasados [2006.01]"
+  },
+  {
+    "code": "A23C 3/07",
+    "description": "••por irradiación, p. ej. por microondas [2006.01]"
+  },
+  {
+    "code": "A23C 3/08",
+    "description": "••por adición de conservantes (adición de microorganismos o enzimas A23C 9/12, otras sustancias A23C 9/152) [2006.01]"
+  },
+  {
+    "code": "A23C 7/00",
+    "description": "Otros aspectos de la tecnología láctea [2006.01]"
+  },
+  {
+    "code": "A23C 7/02",
+    "description": "••Limpieza química del aparellaje; Utilización de métodos de esterilización al efecto [2006.01]"
+  },
+  {
+    "code": "A23C 7/04",
+    "description": "••Eliminación de impurezas presentes en la leche [2006.01]"
+  },
+  {
+    "code": "A23C 9/00",
+    "description": "Preparados a base de leche; Leche en polvo o preparados a base de leche en polvo (mezclas de suero con productos o componentes lácteos A23C 21/06) [2006.01]"
+  },
+  {
+    "code": "A23C 9/12",
+    "description": "••Preparados a base de leche fermentada; Tratamientos que utilizan microorganismos o enzimas [2006.01]"
+  },
+  {
+    "code": "A23C 9/123",
+    "description": "••••que utilizan solamente microorganismos de la familia de las lactobacterias; Yogur (A23C 9/13 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "A23C 9/127",
+    "description": "••••que utilizan microorganismos de la familia de las lactobacterias y otros microorganismos o enzimas, p. ej. kéfir, kumis (A23C 9/13 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "A23C 9/13",
+    "description": "••••utilizando aditivos [2006.01]"
+  },
+  {
+    "code": "A23C 9/133",
+    "description": "••••••Frutas o verduras [2006.01]"
+  },
+  {
+    "code": "A23C 9/137",
+    "description": "••••••Sustancias espesantes [2006.01]"
+  },
+  {
+    "code": "A23C 9/14",
+    "description": "••en los que la composición química de la leche está modificada por tratamientos no químicos [2006.01]"
+  },
+  {
+    "code": "A23C 9/142",
+    "description": "••••por diálisis, ósmosis inversa o ultrafiltración (A23C 9/144 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "A23C 9/144",
+    "description": "••••por medios eléctricos, p. ej. por electrodiálisis [2006.01]"
+  },
+  {
+    "code": "A23C 9/146",
+    "description": "••••por intercambio iónico [2006.01]"
+  },
+  {
+    "code": "A23C 9/148",
+    "description": "••••por tamiz molecular o filtración sobre gel [2006.01]"
+  },
+  {
+    "code": "A23C 9/15",
+    "description": "••Productos lácteos reconstituidos o recombinados que no contienen ninguna grasa o proteína distintas a las de la leche [2006.01]"
+  },
+  {
+    "code": "A23C 9/152",
+    "description": "••que contienen aditivos (preparados a base de leche fermentada que contienen aditivos A23C 9/13) [2006.01]"
+  },
+  {
+    "code": "A23C 9/154",
+    "description": "••••que contienen sustancias espesantes, huevos o preparados a base de cereales; Leche gelificada [2006.01]"
+  },
+  {
+    "code": "A23C 9/156",
+    "description": "••••Preparados de leche aromatizada [2006.01]"
+  },
+  {
+    "code": "A23C 9/158",
+    "description": "••••que contienen vitaminas o antibióticos [2006.01]"
+  },
+  {
+    "code": "A23C 9/16",
+    "description": "••Aglomeración o granulación de leche en polvo; fabricación de leche en polvo instantánea; productos obtenidos de esta manera (A23C 9/18 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "A23C 9/18",
+    "description": "••Leche en forma de producto comprimido seco o semisólido [2006.01]"
+  },
+  {
+    "code": "A23C 9/20",
+    "description": "••Productos dietéticos a base de leche no cubiertos por los grupos A23C 9/12-A23C 9/18 [2006.01]"
+  },
+  {
+    "code": "A23C 11/00",
+    "description": "Sucedáneos de la leche, p. ej. composiciones para reemplazar la leche en el café con leche (sucedáneos del queso A23C 20/00; sucedáneos de la mantequilla A23D) [2006.01]"
+  },
+  {
+    "code": "A23C 11/02",
+    "description": "••que contenga al menos un componente no lácteo como fuente de grasas o proteínas (adición de grasas o proteínas no lácteas en la elaboración de la cuajada del queso A23C 19/055; suero o preparados de suero que contengan componentes no lácteos como fuente de grasas o proteínas A23C 21/04 pr) [2006.01]"
+  },
+  {
+    "code": "A23C 11/04",
+    "description": "••••que contienen materias grasas no lácteas, pero no proteínas de origen no lácteo (A23C 11/08, A23C 11/10 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "A23C 11/06",
+    "description": "••••que contienen proteínas no lácteas (A23C 11/08, A23C 11/10 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "A23C 11/08",
+    "description": "••••que contienen caseinatos pero no otras proteínas ni grasas lácteas [2006.01]"
+  },
+  {
+    "code": "A23C 11/10",
+    "description": "••••que contienen o no lactosa pero no otro compuesto de origen lácteo como fuente de grasas, hidratos de carbono o proteínas [2021.01]"
+  },
+  {
+    "code": "A23C 13/00",
+    "description": "Nata; Preparados a base de nata (helados A23G 9/00); Su fabricación [2006.01]"
+  },
+  {
+    "code": "A23C 13/08",
+    "description": "••Conservación [2006.01]"
+  },
+  {
+    "code": "A23C 13/10",
+    "description": "••••por adición de agentes conservantes (A23C 13/14, A23C 13/16 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "A23C 13/12",
+    "description": "••Preparados a base de nata [2006.01]"
+  },
+  {
+    "code": "A23C 13/14",
+    "description": "••••que contienen productos lácteos o componentes de la leche [2006.01]"
+  },
+  {
+    "code": "A23C 13/16",
+    "description": "••••que contienen microorganismos, enzimas o antibióticos; Nata ácida [2006.01]"
+  },
+  {
+    "code": "A23C 15/00",
+    "description": "Mantequilla; Preparados a base de mantequilla; Su fabricación (sucedáneos de la mantequilla A23D) [2006.01]"
+  },
+  {
+    "code": "A23C 15/02",
+    "description": "••Su fabricación [2006.01]"
+  },
+  {
+    "code": "A23C 15/04",
+    "description": "••••a partir de aceite de mantequilla o de mantequilla anhidra [2006.01]"
+  },
+  {
+    "code": "A23C 15/06",
+    "description": "••••Tratamiento de la nata antes de la inversión de fases [2006.01]"
+  },
+  {
+    "code": "A23C 15/12",
+    "description": "••Preparaciones a base de mantequilla [2006.01]"
+  },
+  {
+    "code": "A23C 15/14",
+    "description": "••••Mantequilla en polvo; Aceite de mantequilla, es decir, mantequilla fundida, p. ej. \"ghee\" (mantequilla de búfala) [2006.01]"
+  },
+  {
+    "code": "A23C 15/16",
+    "description": "••••Mantequilla de bajo contenido en grasas [2006.01]"
+  },
+  {
+    "code": "A23C 15/18",
+    "description": "••Conservación [2006.01]"
+  },
+  {
+    "code": "A23C 15/20",
+    "description": "••••por adición de conservantes [2006.01]"
+  },
+  {
+    "code": "A23C 17/00",
+    "description": "Suero de leche; Preparaciones de suero de leche (preparaciones de leche, leche en polvo o preparaciones de leche en polvo en las que la composición química de la leche se modifica mediante un tratamiento no químico A23C 9/14) [2006.01]"
+  },
+  {
+    "code": "A23C 17/02",
+    "description": "••que contienen o que han sido tratados con microorganismos o enzimas [2006.01]"
+  },
+  {
+    "code": "A23C 19/00",
+    "description": "Queso; Preparados a base de queso; Fabricación de estos productos (sucedáneos del queso A23C 20/00) [2006.01]"
+  },
+  {
+    "code": "A23C 19/02",
+    "description": "••Fabricación de la cuajada de queso [2006.01]"
+  },
+  {
+    "code": "A23C 19/024",
+    "description": "••••utilizando un proceso continuo [2006.01]"
+  },
+  {
+    "code": "A23C 19/028",
+    "description": "••••sin separación sustancial del suero a partir de la leche coagulada [2006.01]"
+  },
+  {
+    "code": "A23C 19/032",
+    "description": "••••caracterizada por el empleo de microorganismos específicos o de enzimas de origen microbiano [2006.01]"
+  },
+  {
+    "code": "A23C 19/04",
+    "description": "••••caracterizada por el empleo de enzimas específicas de origen vegetal o animal (A23C 19/032 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "A23C 19/045",
+    "description": "••••Coagulación de la leche sin utilizar cuajo ni sucedáneo de cuajo [2006.01]"
+  },
+  {
+    "code": "A23C 19/05",
+    "description": "••••Tratamiento de la leche antes de la coagulación; Separación del suero de la cuajada (A23C 19/097 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "A23C 19/055",
+    "description": "••••Adición de materias grasas o proteínas de origen no lácteo [2006.01]"
+  },
+  {
+    "code": "A23C 19/06",
+    "description": "••Tratamiento de la cuajada tras la separación del suero; Productos así obtenidos (A23C 19/097 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "A23C 19/064",
+    "description": "••••Salado [2006.01]"
+  },
+  {
+    "code": "A23C 19/068",
+    "description": "••••Tipos particulares de quesos [2006.01]"
+  },
+  {
+    "code": "A23C 19/072",
+    "description": "••••••Quesos de pasta prensada (p.ej.Cheddar) [2006.01]"
+  },
+  {
+    "code": "A23C 19/076",
+    "description": "••••••Quesos de pasta blanda, p. ej. queso fresco o de nata [2006.01]"
+  },
+  {
+    "code": "A23C 19/08",
+    "description": "••••••Quesos fundidos; Su fabricación, p. ej. fusión, emulsificación, esterilización [2006.01]"
+  },
+  {
+    "code": "A23C 19/082",
+    "description": "••••••••Adición de sustancias a la cuajada antes o durante la fusión; Sales de fusión [2006.01]"
+  },
+  {
+    "code": "A23C 19/084",
+    "description": "••••••••Tratamiento de la cuajada o adición de sustancias a la cuajada, tras la fusión (adición de compuestos de origen no lácteo A23C 19/093) [2006.01]"
+  },
+  {
+    "code": "A23C 19/086",
+    "description": "••••Queso en polvo; Preparados a base de queso desecado [2006.01]"
+  },
+  {
+    "code": "A23C 19/09",
+    "description": "••••Otros preparados a base de queso; Mezclas de queso con otros productos alimentarios (conservación A23C 19/097) [2006.01]"
+  },
+  {
+    "code": "A23C 19/093",
+    "description": "••••••Adición de grasas o de proteínas de origen no lácteo [2006.01]"
+  },
+  {
+    "code": "A23C 19/097",
+    "description": "••Conservación [2006.01]"
+  },
+  {
+    "code": "A23C 19/10",
+    "description": "••••Adición de conservantes [2006.01]"
+  },
+  {
+    "code": "A23C 19/11",
+    "description": "••••••de antibióticos [2006.01]"
+  },
+  {
+    "code": "A23C 19/14",
+    "description": "••Tratamiento del queso tras la obtención de su forma definitiva, p. ej. maduración, ahumado (conservación A23C 19/097) [2006.01]"
+  },
+  {
+    "code": "A23C 19/16",
+    "description": "••••Recubrimiento de la superficie del queso, p. ej. con parafina [2006.01]"
+  },
+  {
+    "code": "A23C 20/00",
+    "description": "Sucedáneos del queso (A23C 19/055, A23C 19/093 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "A23C 20/02",
+    "description": "••que no contienen ni compuestos lácteos, ni caseinato, ni lactosa, como fuente de grasas, proteínas o hidratos de carbono [2021.01]"
+  },
+  {
+    "code": "A23C 21/00",
+    "description": "Suero de leche; Preparaciones de suero de leche (concentración, evaporación o secado A23C 1/00; conservación de la leche o de las preparaciones de leche A23C 3/00; preparaciones de leche, leche en polvo o preparaciones de leche en polvo en las que la composición química de la leche se modifica mediante un tratamiento no químico A23C 9/14) [2006.01]"
+  },
+  {
+    "code": "A23C 21/02",
+    "description": "••que contienen o que han sido tratados por medio de microorganismos o enzimas [2006.01]"
+  },
+  {
+    "code": "A23C 21/04",
+    "description": "••que contienen componentes de origen no lácteo como fuente de grasas o de proteínas [2006.01]"
+  },
+  {
+    "code": "A23C 21/06",
+    "description": "••Mezclas de suero con productos lácteos o componentes de la leche [2006.01]"
+  },
+  {
+    "code": "A23C 21/08",
+    "description": "••que contienen otros aditivos orgánicos, p. ej. productos vegetales o animales [2006.01]"
+  },
+  {
+    "code": "A23C 21/10",
+    "description": "••que contienen aditivos inorgánicos [2006.01]"
+  },
+  {
+    "code": "A23C 23/00",
+    "description": "Otros productos lácteos [2006.01]"
+  }
+]

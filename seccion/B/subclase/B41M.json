@@ -1,0 +1,322 @@
+[
+  {
+    "code": "B41M 1/00",
+    "description": "Entintado o impresión con una forma de impresión [2006.01]"
+  },
+  {
+    "code": "B41M 1/02",
+    "description": "••Impresión tipográfica, p. ej. impresión de libros [2006.01]"
+  },
+  {
+    "code": "B41M 1/04",
+    "description": "••••Impresión flexográfica [2006.01]"
+  },
+  {
+    "code": "B41M 1/06",
+    "description": "••Impresión litográfica [2006.01]"
+  },
+  {
+    "code": "B41M 1/08",
+    "description": "••••Impresión en seco [2006.01]"
+  },
+  {
+    "code": "B41M 1/10",
+    "description": "••Impresión en hueco [2006.01]"
+  },
+  {
+    "code": "B41M 1/12",
+    "description": "••Impresión por estarcido; Impresión por serigrafía [2006.01]"
+  },
+  {
+    "code": "B41M 1/14",
+    "description": "••Impresión policroma [2006.01]"
+  },
+  {
+    "code": "B41M 1/16",
+    "description": "••••por medio de tintas diferentes que se entrepenetran para dar efectos de irisación [2006.01]"
+  },
+  {
+    "code": "B41M 1/18",
+    "description": "••••Impresión de una tinta sobre otra [2006.01]"
+  },
+  {
+    "code": "B41M 1/20",
+    "description": "••••aplicando simultáneamente tintas de colores diferentes sobre diferentes partes de la superficie de impresión [2006.01]"
+  },
+  {
+    "code": "B41M 1/22",
+    "description": "••Impresión metálica; Impresión con tintas en polvo [2006.01]"
+  },
+  {
+    "code": "B41M 1/24",
+    "description": "••Impresión combinada con el repujado (máquinas de impresión que permiten la impresión combinada con el repujado B41F 19/02) [2006.01]"
+  },
+  {
+    "code": "B41M 1/26",
+    "description": "••Impresión sobre otras superficies diferentes del papel ordinario (B41M 1/40 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B41M 1/28",
+    "description": "••••sobre metales [2006.01]"
+  },
+  {
+    "code": "B41M 1/30",
+    "description": "••••sobre materias plásticas orgánicas, cuerno o materias análogas [2006.01]"
+  },
+  {
+    "code": "B41M 1/32",
+    "description": "••••sobre caucho [2006.01]"
+  },
+  {
+    "code": "B41M 1/34",
+    "description": "••••sobre vidrio o cerámica [2006.01]"
+  },
+  {
+    "code": "B41M 1/36",
+    "description": "••••sobre papel previamente tratado, p. ej. sobre pergamino, papel aceitado, papel utilizado con fines de registro [2006.01]"
+  },
+  {
+    "code": "B41M 1/38",
+    "description": "••••sobre madera, cuero o linóleo (impresión de cerillas o de cajas de cerillas, cuando esta impresión se combina con la fabricación de cerillas C06F 1/18) [2006.01]"
+  },
+  {
+    "code": "B41M 1/40",
+    "description": "••Impresión sobre objetos de forma particular [2006.01]"
+  },
+  {
+    "code": "B41M 1/42",
+    "description": "••Impresión sin contacto entre la forma y la superficie a imprimir, p. ej. utilizando campos electrostáticos [2006.01]"
+  },
+  {
+    "code": "B41M 3/00",
+    "description": "Procesos de impresión para trabajos impresos de un tipo particular, p. ej. motivos (dibujos particulares en sí\n\t\t\t\t\t\t\t\t\tB44F; fabricación de circuitos impresos utilizando técnicas de impresión H05K 3/12) [2006.01]"
+  },
+  {
+    "code": "B41M 3/02",
+    "description": "••Cartas geográficas; Cartas marinas o meteorológicas [2006.01]"
+  },
+  {
+    "code": "B41M 3/04",
+    "description": "••Música [2006.01]"
+  },
+  {
+    "code": "B41M 3/06",
+    "description": "••Impresiones veteadas; Impresiones fluorescentes; Impresiones estereoscópicas; Copias de motivos, p. ej. tejidos, textiles [2006.01]"
+  },
+  {
+    "code": "B41M 3/10",
+    "description": "••Marca de agua [2006.01]"
+  },
+  {
+    "code": "B41M 3/12",
+    "description": "••Imágenes-transferencia o similares, p. ej. de calcomanías [2006.01]"
+  },
+  {
+    "code": "B41M 3/14",
+    "description": "••Impresión de papel de seguridad, p.ej. papeles de valor [2006.01]"
+  },
+  {
+    "code": "B41M 3/16",
+    "description": "••Impresión en Braille (máquinas de escribir o mecanismos de impresión selectiva para la impresión en Braille B41J 3/32) [2006.01]"
+  },
+  {
+    "code": "B41M 3/18",
+    "description": "••Papeles pintados de tipo especial [2006.01]"
+  },
+  {
+    "code": "B41M 5/00",
+    "description": "Procesos de reproducción o de marcado; Materiales en hojas utilizadas con este fin (por empleo de materias fotosensibles G03; electrografía, magnetografía G03G) [2006.01]"
+  },
+  {
+    "code": "B41M 5/025",
+    "description": "••transferencia de tinta desde la hoja madre [2006.01]"
+  },
+  {
+    "code": "B41M 5/03",
+    "description": "••••por presión [2006.01]"
+  },
+  {
+    "code": "B41M 5/035",
+    "description": "••••por sublimación o volatilización de la imagen [2006.01]"
+  },
+  {
+    "code": "B41M 5/04",
+    "description": "••••por empleo de colorantes solubles en un disolvente sobre la hoja madre, p. ej. solubles en alcohol [2006.01]"
+  },
+  {
+    "code": "B41M 5/06",
+    "description": "••••por empleo de hojas madres revestidas de sustancias gelatinosas, p. ej. gelatina [2006.01]"
+  },
+  {
+    "code": "B41M 5/08",
+    "description": "••••••Materiales en hojas utilizadas con este fin [2006.01]"
+  },
+  {
+    "code": "B41M 5/10",
+    "description": "••por medio de papel carbón o similares [2006.01]"
+  },
+  {
+    "code": "B41M 5/124",
+    "description": "••por aplicación de una presión para hacer visibles colores ocultos, p. ej. para hacer visible un soporte coloreado, para generar un motivo opaco o transparente, o para formar un color reuniendo los componentes que formen el color [2006.01]"
+  },
+  {
+    "code": "B41M 5/128",
+    "description": "••••Desensibilizadores; Composición para la corrección de faltas, la detección o la identificación de capas [2006.01]"
+  },
+  {
+    "code": "B41M 5/132",
+    "description": "••••Componentes químicos que forman el color; Aditivos o aglutinantes apropiados [2006.01]"
+  },
+  {
+    "code": "B41M 5/136",
+    "description": "••••••Formadores de colorante orgánicos, p. ej. leucoderivados [2006.01]"
+  },
+  {
+    "code": "B41M 5/145",
+    "description": "••••••••con un ciclo lactona o lactama [2006.01]"
+  },
+  {
+    "code": "B41M 5/15",
+    "description": "••••••••Espiropiranos [2006.01]"
+  },
+  {
+    "code": "B41M 5/155",
+    "description": "••••••Componentes para el desarrollo de los colores, p. ej. compuestos ácidos; Aditivos o aglutinantes apropiados; Capas que contienen compuestos para el desarrollo de los colores, aditivos o aglutinantes [2006.01]"
+  },
+  {
+    "code": "B41M 5/165",
+    "description": "••••caracterizados por la utilización de microcápsulas; Disolventes particulares para la incorporación de los constituyentes [2006.01]"
+  },
+  {
+    "code": "B41M 5/20",
+    "description": "••utilizando corriente eléctrica (B41M 5/24 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B41M 5/24",
+    "description": "••Registro por ablación, p. ej. por quemado de marcas; Registro por chispa [2006.01]"
+  },
+  {
+    "code": "B41M 5/26",
+    "description": "••Termografía (B41M 5/20, B41M 5/24 tienen prioridad; sistemas fototermográficos G03C 1/498) [2006.01]"
+  },
+  {
+    "code": "B41M 5/28",
+    "description": "••••utilizando compuestos termocrómicos o capas que contienen cristales líquidos, microcápsulas, colorantes blanqueables o compuestos termodegradables, p. ej. liberando un gas [2006.01]"
+  },
+  {
+    "code": "B41M 5/30",
+    "description": "••••utilizando formadores de color químicos (B41M 5/34 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B41M 5/32",
+    "description": "••••••siendo uno de los compuestos un compuesto de metal pesado [2006.01]"
+  },
+  {
+    "code": "B41M 5/323",
+    "description": "••••••Formadores de color orgánicos, p.ej. leucoderivados [2006.01]"
+  },
+  {
+    "code": "B41M 5/327",
+    "description": "••••••••con un ciclo lactona o lactama [2006.01]"
+  },
+  {
+    "code": "B41M 5/333",
+    "description": "••••••Componentes para el desarrollo del color, p.ej. compuesto ácidos [2006.01]"
+  },
+  {
+    "code": "B41M 5/337",
+    "description": "••••••Aditivos; Aglutinantes [2006.01]"
+  },
+  {
+    "code": "B41M 5/34",
+    "description": "••••Termografía con varios colores [2006.01]"
+  },
+  {
+    "code": "B41M 5/36",
+    "description": "••••utilizando una película polimérica que puede ser de partículas y que está sometida a una modificación de forma o de estructura con modificación de sus características, p. ej. de sus características de hidrofobia o hidrofilia, de sus características de solubilidad o de permeabilidad [2006.01]"
+  },
+  {
+    "code": "B41M 5/382",
+    "description": "••••Procedimientos de transferencia o de sublimación por contacto (impresión subliestática B41M 5/035; recubrimientos para mejorar la receptividad a las tintas, los colorantes o los pigmentos B41M 5/50) [2006.01]"
+  },
+  {
+    "code": "B41M 5/385",
+    "description": "••••••caracterizados por los colorantes o los pigmentos transferibles [2006.01]"
+  },
+  {
+    "code": "B41M 5/388",
+    "description": "••••••••Azocolorantes [2006.01]"
+  },
+  {
+    "code": "B41M 5/39",
+    "description": "••••••••Colorantes con uno o más enlaces dobles carbono-nitrogeno, p.ej. azometino [2006.01]"
+  },
+  {
+    "code": "B41M 5/392",
+    "description": "••••••Aditivos aparte de las sustancias generadoras de colores, aditivos o pigmentos, p.ej. sensibilizadores, agentes facilitadores de la transferencia [2006.01]"
+  },
+  {
+    "code": "B41M 5/395",
+    "description": "••••••••Aditivos macromoleculares, p.ej. aglutinantes [2006.01]"
+  },
+  {
+    "code": "B41M 5/398",
+    "description": "••••Procedimientos basados en la formación de un motivo de adhesión utilizando polvos [2006.01]"
+  },
+  {
+    "code": "B41M 5/40",
+    "description": "••••caracterizada por las capas de base, las capas intermediarias o las capas de cubierta; Medios o capas de filtrado o de absorción del calor o de la radiación; combinada con capas o composiciones propias de otros procesos de registro de imágenes; Originales particulares para la reproducción termográfica [2006.01]"
+  },
+  {
+    "code": "B41M 5/41",
+    "description": "••••••Capas soporte [2006.01]"
+  },
+  {
+    "code": "B41M 5/42",
+    "description": "••••••Capas intermedias o de cobertura [2006.01]"
+  },
+  {
+    "code": "B41M 5/44",
+    "description": "••••••••caracterizadas por los compuestos macromoleculares [2006.01]"
+  },
+  {
+    "code": "B41M 5/46",
+    "description": "••••••caracterizadas por los medios para convertir la luz en calor; caracterizadas por los medios o las capas de filtración o de absorción del calor o de la radiación [2006.01]"
+  },
+  {
+    "code": "B41M 5/48",
+    "description": "••••••combinadas con otras capas o composiciones de grabación de imágenes; Originales particulares para la reproducción termográfica [2006.01]"
+  },
+  {
+    "code": "B41M 5/50",
+    "description": "••Hojas de grabación caracterizadas por el revestimiento utilizado para mejorar la receptividad de la tinta, colorantes o pigmentos, p.ej. para chorro de tinta o por grabación por transferencia térmica de colorantes (impresión en papel pretratado B41M 1/36) [2006.01]"
+  },
+  {
+    "code": "B41M 5/52",
+    "description": "••••Revestimientos macromoleculares [2006.01]"
+  },
+  {
+    "code": "B41M 7/00",
+    "description": "Tratamiento ulterior de trabajos impresos, p. ej. calentamiento, irradiación [2006.01]"
+  },
+  {
+    "code": "B41M 7/02",
+    "description": "••Empolvado; Barnizado (dispositivos de tratamiento de las superficies de hojas, bandas, otros artículos en relación con la impresión B41F 23/00, B41L 23/00) [2006.01]"
+  },
+  {
+    "code": "B41M 9/00",
+    "description": "Procesos en los cuales se utilizan dispositivos de puesta a punto (dispositivos de puesta a punto en sí\n\t\t\t\t\t\t\t\t\tB41N 6/00) [2006.01]"
+  },
+  {
+    "code": "B41M 9/02",
+    "description": "••Relieves de puesta a punto [2006.01]"
+  },
+  {
+    "code": "B41M 9/04",
+    "description": "••••fotomecánicos [2006.01]"
+  },
+  {
+    "code": "B41M 99/00",
+    "description": "Materia no prevista en otros grupos de esta subclase [2006.01]"
+  }
+]

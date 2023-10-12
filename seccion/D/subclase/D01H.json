@@ -1,0 +1,774 @@
+[
+  {
+    "code": "D01H 1/00",
+    "description": "Máquinas de hilar o retorcer en las cuales el enrollamiento del hilo se efectúa en continuo (máquinas de hilar de cabo abierto D01H 4/00) [2006.01]"
+  },
+  {
+    "code": "D01H 1/02",
+    "description": "••del tipo de anillos [2006.01]"
+  },
+  {
+    "code": "D01H 1/04",
+    "description": "••del tipo de aletas [2006.01]"
+  },
+  {
+    "code": "D01H 1/06",
+    "description": "••del tipo de campanas [2006.01]"
+  },
+  {
+    "code": "D01H 1/08",
+    "description": "••del tipo de copa, de pote, o de disco, en el cual las masas anulares de hilos están formadas por efecto centrífugo [2006.01]"
+  },
+  {
+    "code": "D01H 1/10",
+    "description": "••para conferir una torsión múltiple, p. ej. retorcido de doble torsión [2006.01]"
+  },
+  {
+    "code": "D01H 1/11",
+    "description": "••Hilatura por falsa torsión [2006.01]"
+  },
+  {
+    "code": "D01H 1/115",
+    "description": "••••utilizando medios neumáticos [2006.01]"
+  },
+  {
+    "code": "D01H 1/14",
+    "description": "••Partes constitutivas (dispositivos de estirado D01H 5/00; dispositivos de retorcido D01H 7/00) [2006.01]"
+  },
+  {
+    "code": "D01H 1/16",
+    "description": "••••Armazones; Carcasas; Guarniciones [2006.01]"
+  },
+  {
+    "code": "D01H 1/18",
+    "description": "••••Soportes para bobinas de alimentación o similares [2006.01]"
+  },
+  {
+    "code": "D01H 1/20",
+    "description": "••••Dispositivos de accionamiento o de parada (para máquinas de hilar de cabo abierto D01H 4/12, D01H 4/20, D01H 4/42; dispositivos de seguridad D01H 13/14) [2006.01]"
+  },
+  {
+    "code": "D01H 1/22",
+    "description": "••••••para cilindros (regulación o variación del estirado D01H 5/32) [2006.01]"
+  },
+  {
+    "code": "D01H 1/24",
+    "description": "••••••para dispositivos de retorcido, p. ej. husos (frenado de husos D01H 7/22; mecanismos de mando combinados de la aleta y del huso D01H 7/50) [2006.01]"
+  },
+  {
+    "code": "D01H 1/241",
+    "description": "••••••••accionados por correa [2006.01]"
+  },
+  {
+    "code": "D01H 1/242",
+    "description": "••••••••accionados por ruedas dentadas [2006.01]"
+  },
+  {
+    "code": "D01H 1/243",
+    "description": "••••••••accionados por discos de fricción [2006.01]"
+  },
+  {
+    "code": "D01H 1/244",
+    "description": "••••••••cada huso arrastrado por un motor eléctrico [2006.01]"
+  },
+  {
+    "code": "D01H 1/26",
+    "description": "••••••••con varias velocidades; con dispositivos de velocidad variable [2006.01]"
+  },
+  {
+    "code": "D01H 1/28",
+    "description": "••••••para dos o varios elementos de máquinas que presentan características diferentes pero cuyo funcionamiento está asociado [2006.01]"
+  },
+  {
+    "code": "D01H 1/30",
+    "description": "••••••••con dos o varias velocidades; con dispositivos de velocidad variable [2006.01]"
+  },
+  {
+    "code": "D01H 1/32",
+    "description": "••••••para máquinas completas [2006.01]"
+  },
+  {
+    "code": "D01H 1/34",
+    "description": "••••••••con dos velocidades o más; con dispositivos de velocidad variable [2006.01]"
+  },
+  {
+    "code": "D01H 1/36",
+    "description": "••••Dispositivos de formación de la bobina, p. ej. mecanismos de formación [2006.01]"
+  },
+  {
+    "code": "D01H 1/38",
+    "description": "••••Dispositivos para el enrollamiento de una reserva de longitud de hilo sobre el tubo receptor, p. ej. reserva de hilo para la transferencia [2006.01]"
+  },
+  {
+    "code": "D01H 1/40",
+    "description": "••••Dispositivos para reliar la materia entregada de una manera continua a bobinas o análogos [2006.01]"
+  },
+  {
+    "code": "D01H 1/42",
+    "description": "••••Dispositivos de protección para hilados o hilos, p. ej. placas de separación, dispositivos anti-balón (dispositivos anti-balón adaptados sobre los husos D01H 7/18) [2006.01]"
+  },
+  {
+    "code": "D01H 3/00",
+    "description": "Máquinas de hilar o de retorcer en los cuales el producto es enrollado por intermitente, p. ej. \"mules\" [2006.01]"
+  },
+  {
+    "code": "D01H 3/02",
+    "description": "••Partes constitutivas (dispositivos de estirado D01H 5/00; dispositivos de retorcido D01H 7/00) [2006.01]"
+  },
+  {
+    "code": "D01H 3/04",
+    "description": "••••Carros; Mecanismos que efectúan los desplazamientos de los carros [2006.01]"
+  },
+  {
+    "code": "D01H 3/06",
+    "description": "••••••Carros; Raíles para carros; Mecanismos de coordinación para la rigidez y el desplazamiento en línea del carro [2006.01]"
+  },
+  {
+    "code": "D01H 3/08",
+    "description": "••••••Movimientos de salida o de entrada [2006.01]"
+  },
+  {
+    "code": "D01H 3/10",
+    "description": "••••••Estizolas móviles, p. ej. para devanadoras para retorcer [2006.01]"
+  },
+  {
+    "code": "D01H 3/12",
+    "description": "••••Movimientos para la construcción de la bobina; Sistemas de baquetas [2006.01]"
+  },
+  {
+    "code": "D01H 3/14",
+    "description": "••••Dispositivos de accionamiento de cilindros [2006.01]"
+  },
+  {
+    "code": "D01H 3/16",
+    "description": "••••Accionamiento de husos (husos, placas de husos, soportes de husos D01H 7/04) [2006.01]"
+  },
+  {
+    "code": "D01H 3/18",
+    "description": "••••••Tambores impulsores; Dispositivos de arrastre estrechamente asociados con los tambores impulsores [2006.01]"
+  },
+  {
+    "code": "D01H 3/20",
+    "description": "••••••Dispositivos de arrastre de los husos durante la salida del carro o del despuntamiento [2006.01]"
+  },
+  {
+    "code": "D01H 3/22",
+    "description": "••••••Dispositivos de arrastre de los husos durante la entrada del carro [2006.01]"
+  },
+  {
+    "code": "D01H 3/24",
+    "description": "••••••••Movimientos de sector; Movimientos para apretar las puntas [2006.01]"
+  },
+  {
+    "code": "D01H 3/26",
+    "description": "••••Dispositivos de accionamiento o de parada no previstos en otro lugar; Mecanismos de inmovilización (dispositivos de seguridad D01H 13/14) [2006.01]"
+  },
+  {
+    "code": "D01H 4/00",
+    "description": "Máquinas de hilar de cabo abierto o dispositivos para conferir una torsión a las fibras separadas de las cintas que se mueven de forma independiente; Dispositivos de anudado a este efecto; Recubrimiento de hilos de núcleo continuo con fibras por técnicas de hilatura de cabo abierto [2006.01]"
+  },
+  {
+    "code": "D01H 4/02",
+    "description": "••confiriendo la torsión por un fluido, p. ej. por un torbellino de aire [2006.01]"
+  },
+  {
+    "code": "D01H 4/04",
+    "description": "••confiriendo la torsión por contacto de las fibras con una superficie en movimiento [2006.01]"
+  },
+  {
+    "code": "D01H 4/06",
+    "description": "••••cooperando con medios de aspiración (D01H 4/08, D01H 4/16  tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "D01H 4/08",
+    "description": "••••Hilatura con rotor, es decir estando constituida la superficie en movimiento por un rotor [2006.01]"
+  },
+  {
+    "code": "D01H 4/10",
+    "description": "••••••Rotores [2006.01]"
+  },
+  {
+    "code": "D01H 4/12",
+    "description": "••••••Cojinetes de rotor; Dispositivos de accionamiento o de parada (control a este efecto D01H 4/42) [2006.01]"
+  },
+  {
+    "code": "D01H 4/14",
+    "description": "••••••••Rotor accionado por un motor eléctrico [2006.01]"
+  },
+  {
+    "code": "D01H 4/16",
+    "description": "••••Hilatura por fricción, es decir estando constituida la superficie en movimiento por un par de tambores de fricción poco espaciados, p. ej. con al menos un tambor de aspiración [2006.01]"
+  },
+  {
+    "code": "D01H 4/18",
+    "description": "••••••Tambores de fricción, p. ej. disposición de los orificios de aspiración [2006.01]"
+  },
+  {
+    "code": "D01H 4/20",
+    "description": "••••••Cojinetes de tambores; Dispositivos de accionamiento o de parada (control a este efecto D01H 4/42) [2006.01]"
+  },
+  {
+    "code": "D01H 4/22",
+    "description": "••••Limpieza de las superficies en movimiento [2006.01]"
+  },
+  {
+    "code": "D01H 4/24",
+    "description": "••••••para la hilatura con rotor [2006.01]"
+  },
+  {
+    "code": "D01H 4/26",
+    "description": "••••••para la hilatura por fricción [2006.01]"
+  },
+  {
+    "code": "D01H 4/28",
+    "description": "••utilizando campos electrostáticos [2006.01]"
+  },
+  {
+    "code": "D01H 4/30",
+    "description": "••Dispositivos para separar las cintas en fibras; Orientación y enderezado de las fibras [2006.01]"
+  },
+  {
+    "code": "D01H 4/32",
+    "description": "••••utilizando cilindros peinadores [2006.01]"
+  },
+  {
+    "code": "D01H 4/34",
+    "description": "••••utilizando chorros de aire [2006.01]"
+  },
+  {
+    "code": "D01H 4/36",
+    "description": "••••con medios para eliminar las impurezas [2006.01]"
+  },
+  {
+    "code": "D01H 4/38",
+    "description": "••Canales para alimentar la zona de formación del hilo en fibras [2006.01]"
+  },
+  {
+    "code": "D01H 4/40",
+    "description": "••Traslado del hilo en movimiento de la zona de formación del hilo, p. ej. utilizando tubos [2006.01]"
+  },
+  {
+    "code": "D01H 4/42",
+    "description": "••Control de accionamiento o de parada [2006.01]"
+  },
+  {
+    "code": "D01H 4/44",
+    "description": "••••para la hilatura con rotor [2006.01]"
+  },
+  {
+    "code": "D01H 4/46",
+    "description": "••••para la hilatura por fricción [2006.01]"
+  },
+  {
+    "code": "D01H 4/48",
+    "description": "••Dispositivos de anudado; Control a este efecto [2006.01]"
+  },
+  {
+    "code": "D01H 4/50",
+    "description": "••••para la hilatura con rotor [2006.01]"
+  },
+  {
+    "code": "D01H 4/52",
+    "description": "••••para la hilatura por fricción [2006.01]"
+  },
+  {
+    "code": "D01H 5/00",
+    "description": "Máquinas o dispositivos de estirado [2006.01]"
+  },
+  {
+    "code": "D01H 5/02",
+    "description": "••Estiradoras de peines u otras máquinas que utilizan barretas guarnecidas de agujas o similares [2006.01]"
+  },
+  {
+    "code": "D01H 5/04",
+    "description": "••••con barretas arrastradas por tornillos sin fin [2006.01]"
+  },
+  {
+    "code": "D01H 5/06",
+    "description": "••••••Estiradoras de doble fila de barretas [2006.01]"
+  },
+  {
+    "code": "D01H 5/08",
+    "description": "••••con barretas unidas por articulaciones, cadenas o sistemas análogos [2006.01]"
+  },
+  {
+    "code": "D01H 5/10",
+    "description": "••••con barretas no ligadas conjuntamente, sino movidas por presión de unas contra las otras [2006.01]"
+  },
+  {
+    "code": "D01H 5/12",
+    "description": "••••Partes constitutivas [2006.01]"
+  },
+  {
+    "code": "D01H 5/14",
+    "description": "••••••Barretas de agujas [2006.01]"
+  },
+  {
+    "code": "D01H 5/16",
+    "description": "••••••Armazones; Carcasas; Guarniciones [2006.01]"
+  },
+  {
+    "code": "D01H 5/18",
+    "description": "••Máquinas o dispositivos de estirado sin barretas de agujas ni elementos similares [2006.01]"
+  },
+  {
+    "code": "D01H 5/20",
+    "description": "••••en las cuales las fibras están controladas por contacto con superficies estacionarias o se desplazan con un movimiento de vaivén [2006.01]"
+  },
+  {
+    "code": "D01H 5/22",
+    "description": "••••en los cuales las fibras están controladas únicamente por cilindros [2006.01]"
+  },
+  {
+    "code": "D01H 5/24",
+    "description": "••••••con cilindros de púas u órganos rotativos portadores de puntas [2006.01]"
+  },
+  {
+    "code": "D01H 5/26",
+    "description": "••••en las cuales las fibras están controladas por uno o varios manguitos [2006.01]"
+  },
+  {
+    "code": "D01H 5/28",
+    "description": "••••en las cuales las fibras están controladas por la inserción de una torsión durante el estirado [2006.01]"
+  },
+  {
+    "code": "D01H 5/30",
+    "description": "••••que llevan dispositivos para seccionar los filamentos continuos, p. ej. en la hilatura directa (transformación del cable de hilatura en cintas o en hilados D01G 1/06) [2006.01]"
+  },
+  {
+    "code": "D01H 5/32",
+    "description": "••••Regulación o variación del estirado [2006.01]"
+  },
+  {
+    "code": "D01H 5/34",
+    "description": "••••••por regulación manual [2006.01]"
+  },
+  {
+    "code": "D01H 5/36",
+    "description": "••••••según un modelo o sistema predeterminado, p. ej. para producir botones [2006.01]"
+  },
+  {
+    "code": "D01H 5/38",
+    "description": "••••••en reacción con las irregularidades de la materia [2006.01]"
+  },
+  {
+    "code": "D01H 5/40",
+    "description": "••••••••utilizando dispositivos mecánicos para retardar [2006.01]"
+  },
+  {
+    "code": "D01H 5/42",
+    "description": "••••••••utilizando dispositivos eléctricos para retardar [2006.01]"
+  },
+  {
+    "code": "D01H 5/44",
+    "description": "••••Regulación de los elementos de estirado, p. ej. modificación de la separación de los cilindros [2006.01]"
+  },
+  {
+    "code": "D01H 5/46",
+    "description": "••••Dispositivos de carga o de presión [2006.01]"
+  },
+  {
+    "code": "D01H 5/48",
+    "description": "••••••que utilizan pesos [2006.01]"
+  },
+  {
+    "code": "D01H 5/50",
+    "description": "••••••que utilizan resortes [2006.01]"
+  },
+  {
+    "code": "D01H 5/52",
+    "description": "••••••que utilizan la presión de un fluido [2006.01]"
+  },
+  {
+    "code": "D01H 5/54",
+    "description": "••••••que utilizan dispositivos magnéticos [2006.01]"
+  },
+  {
+    "code": "D01H 5/56",
+    "description": "••••Soportes para los elementos de estirado [2006.01]"
+  },
+  {
+    "code": "D01H 5/58",
+    "description": "••••Dispositivos para órganos de estirado dotados de un movimiento de vaivén [2006.01]"
+  },
+  {
+    "code": "D01H 5/60",
+    "description": "••••Dispositivos para evitar la acumulación de fibras en los órganos de estirado [2006.01]"
+  },
+  {
+    "code": "D01H 5/62",
+    "description": "••••••Tapones limpiadores o placas, no giratorios; Raspadores [2006.01]"
+  },
+  {
+    "code": "D01H 5/64",
+    "description": "••••••Cilindros o manguitos con superficies de limpieza [2006.01]"
+  },
+  {
+    "code": "D01H 5/66",
+    "description": "••••••Dispositivos de aspiración [2006.01]"
+  },
+  {
+    "code": "D01H 5/68",
+    "description": "••••••••Retención de la extremidad del hilo por aspiración [2006.01]"
+  },
+  {
+    "code": "D01H 5/70",
+    "description": "••••Características estructurales de los elementos de estirado [2006.01]"
+  },
+  {
+    "code": "D01H 5/72",
+    "description": "••••••Guías condensadoras de fibras [2006.01]"
+  },
+  {
+    "code": "D01H 5/74",
+    "description": "••••••Cilindros [2006.01]"
+  },
+  {
+    "code": "D01H 5/76",
+    "description": "••••••••Ensamblajes de casquillo loco [2006.01]"
+  },
+  {
+    "code": "D01H 5/78",
+    "description": "••••••••con acanaladuras u otras características estructurales superficiales [2006.01]"
+  },
+  {
+    "code": "D01H 5/80",
+    "description": "••••••••con guarniciones; Guarniciones tubulares o revestimientos [2006.01]"
+  },
+  {
+    "code": "D01H 5/82",
+    "description": "••••••••Acoplamiento de las diversas secciones de cilindros [2006.01]"
+  },
+  {
+    "code": "D01H 5/84",
+    "description": "••••••••Cilindros de púas [2006.01]"
+  },
+  {
+    "code": "D01H 5/86",
+    "description": "••••••Correas; Soportes de correas; Dispositivos de tensión de correas [2006.01]"
+  },
+  {
+    "code": "D01H 5/88",
+    "description": "••••••••Portacorreas; Tensores [2006.01]"
+  },
+  {
+    "code": "D01H 7/00",
+    "description": "Dispositivos para la hilatura o el retorcido (para la hilatura de cabo abierto D01H 4/00) [2006.01]"
+  },
+  {
+    "code": "D01H 7/02",
+    "description": "••para conferir una torsión permanente [2006.01]"
+  },
+  {
+    "code": "D01H 7/04",
+    "description": "••••Husos [2006.01]"
+  },
+  {
+    "code": "D01H 7/06",
+    "description": "••••••Husos inmóviles con tubo-soporte de enrollamiento [2006.01]"
+  },
+  {
+    "code": "D01H 7/08",
+    "description": "••••••Accesorios de montaje [2006.01]"
+  },
+  {
+    "code": "D01H 7/10",
+    "description": "••••••••Soportes de husos; Raíles; Soportes de raíles, p. ej. guías de candelas [2006.01]"
+  },
+  {
+    "code": "D01H 7/12",
+    "description": "••••••••Collarines; Cojinetes [2006.01]"
+  },
+  {
+    "code": "D01H 7/14",
+    "description": "••••••••Dispositivos de sujeción [2006.01]"
+  },
+  {
+    "code": "D01H 7/16",
+    "description": "••••••Dispositivos para la unión entre bobinas o análogos y husos [2006.01]"
+  },
+  {
+    "code": "D01H 7/18",
+    "description": "••••••Dispositivos montados sobre husos para suprimir los balones de hilo [2006.01]"
+  },
+  {
+    "code": "D01H 7/20",
+    "description": "••••••Lubrificación [2006.01]"
+  },
+  {
+    "code": "D01H 7/22",
+    "description": "••••••Dispositivos de frenado [2006.01]"
+  },
+  {
+    "code": "D01H 7/24",
+    "description": "••••Aletas o dispositivos similares [2006.01]"
+  },
+  {
+    "code": "D01H 7/26",
+    "description": "••••••Estructura de las aletas [2006.01]"
+  },
+  {
+    "code": "D01H 7/28",
+    "description": "••••••••concebidas para guiar la materia pasando exteriormente a los brazos de la aleta [2006.01]"
+  },
+  {
+    "code": "D01H 7/30",
+    "description": "••••••••con elementos de guía formados en los brazos, p. ej. aletas de bancos para husos [2006.01]"
+  },
+  {
+    "code": "D01H 7/32",
+    "description": "••••••••••con dispositivos de presión [2006.01]"
+  },
+  {
+    "code": "D01H 7/34",
+    "description": "••••••••con poleas de tracción o de transporte o sistemas similares [2006.01]"
+  },
+  {
+    "code": "D01H 7/36",
+    "description": "••••••••con dispositivos de vaivén [2006.01]"
+  },
+  {
+    "code": "D01H 7/38",
+    "description": "••••••••Aletas incorporadas a un anillo [2006.01]"
+  },
+  {
+    "code": "D01H 7/40",
+    "description": "••••••Soportes de aletas, p. ej. raíles [2006.01]"
+  },
+  {
+    "code": "D01H 7/42",
+    "description": "••••••Acoplamiento de las aletas a los husos [2006.01]"
+  },
+  {
+    "code": "D01H 7/44",
+    "description": "••••••Dispositivos de patines de detención o de retenida para bobinas o aletas [2006.01]"
+  },
+  {
+    "code": "D01H 7/46",
+    "description": "••••••Dispositivos fijados a las aletas o formando parte de las aletas para incrementar provisionalmente la torsión de la materia que los atraviesa [2006.01]"
+  },
+  {
+    "code": "D01H 7/48",
+    "description": "••••••Ojetes o dispositivos similares de guía (D01H 7/46  tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "D01H 7/50",
+    "description": "••••••Mecanismos interrelacionados de accionamiento de la aleta y de la bobina, p. ej. movimientos de hilado sobre los bancos de brocas para algodón [2006.01]"
+  },
+  {
+    "code": "D01H 7/52",
+    "description": "••••Dispositivos de anillo y cursor [2006.01]"
+  },
+  {
+    "code": "D01H 7/54",
+    "description": "••••••con anillos fijos [2006.01]"
+  },
+  {
+    "code": "D01H 7/56",
+    "description": "••••••con anillos que giran libremente; con frenado o retención de anillos [2006.01]"
+  },
+  {
+    "code": "D01H 7/58",
+    "description": "••••••con anillos arrastrados [2006.01]"
+  },
+  {
+    "code": "D01H 7/60",
+    "description": "••••••Anillos o cursores; Su fabricación no prevista en otro lugar [2006.01]"
+  },
+  {
+    "code": "D01H 7/62",
+    "description": "••••••Dispositivos que suministran el lubricante a los cursores [2006.01]"
+  },
+  {
+    "code": "D01H 7/64",
+    "description": "••••••Soportes de anillos, p. ej. platabanda porta-anillos [2006.01]"
+  },
+  {
+    "code": "D01H 7/66",
+    "description": "••••Dispositivos de campanas [2006.01]"
+  },
+  {
+    "code": "D01H 7/68",
+    "description": "••••••Estructura de las campanas de máquinas de hilar [2006.01]"
+  },
+  {
+    "code": "D01H 7/70",
+    "description": "••••••Dispositivos para soportar las campanas sobre los husos [2006.01]"
+  },
+  {
+    "code": "D01H 7/72",
+    "description": "••••••Dispositivos de soporte de bobinas, p. ej. platabanda porta-bobinas [2006.01]"
+  },
+  {
+    "code": "D01H 7/74",
+    "description": "••••Estructuras de sistemas de copas o similares [2006.01]"
+  },
+  {
+    "code": "D01H 7/76",
+    "description": "••••••Discos rotatorios [2006.01]"
+  },
+  {
+    "code": "D01H 7/78",
+    "description": "••••••Estructura de copas, p. ej. potes de hilatura centrífuga [2006.01]"
+  },
+  {
+    "code": "D01H 7/80",
+    "description": "••••••••adaptados para recoger los hilos mojados [2006.01]"
+  },
+  {
+    "code": "D01H 7/82",
+    "description": "••••••Carcasas o dispositivos de protección para copas giratorio o análogos [2006.01]"
+  },
+  {
+    "code": "D01H 7/84",
+    "description": "••••••Huso o porta-hilo que coopera con las copas giratorias [2006.01]"
+  },
+  {
+    "code": "D01H 7/86",
+    "description": "••••Dispositivos de torsión múltiple, p. ej. dispositivos de retorcido con doble torsión dos para uno [2006.01]"
+  },
+  {
+    "code": "D01H 7/88",
+    "description": "••••Dispositivos de husos huecos (D01H 7/86  tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "D01H 7/90",
+    "description": "••••Disposiciones con dos o más dispositivos de retorcido en combinación (D01H 7/88 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "D01H 7/92",
+    "description": "••para conferir una torsión provisional [2006.01]"
+  },
+  {
+    "code": "D01H 9/00",
+    "description": "Dispositivos para el reemplazamiento o mudada de bobinas, tubos, receptáculos o bobinas llenas en los puestos entregadores o de recepción [2006.01]"
+  },
+  {
+    "code": "D01H 9/02",
+    "description": "••para la retirada de bobinas receptoras llenas y reemplazamiento por bobinas, tubos o receptáculos en los puestos de recepción; Transferencia de la materia entre elementos receptores vecinos llenos y vacíos [2006.01]"
+  },
+  {
+    "code": "D01H 9/04",
+    "description": "••••Dispositivos de mudada que forman parte integrante de las máquinas de hilatura o de retorcido [2006.01]"
+  },
+  {
+    "code": "D01H 9/06",
+    "description": "••••••Levantamiento del hilo de los botes centrífugos para situarlos sobre soportes de hilos [2006.01]"
+  },
+  {
+    "code": "D01H 9/08",
+    "description": "••••Dispositivos de mudada independiente de las máquinas de hilatura o de retorcido [2006.01]"
+  },
+  {
+    "code": "D01H 9/10",
+    "description": "••••••Carros de mudada [2006.01]"
+  },
+  {
+    "code": "D01H 9/12",
+    "description": "••••••Aparato manual para la colocación de los tubos de canillas; Soportes para dicho aparato [2006.01]"
+  },
+  {
+    "code": "D01H 9/14",
+    "description": "••••para la preparación de máquinas para mudar los hilos [2006.01]"
+  },
+  {
+    "code": "D01H 9/16",
+    "description": "••••Dispositivos de seccionamiento del hilo [2006.01]"
+  },
+  {
+    "code": "D01H 9/18",
+    "description": "••para la alimentación de bobinas, núcleos-soportes, receptáculos o bobinas llenas hacia o para el transporte en dirección de los puestos liberadores o de recepción (D01H 9/10  tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "D01H 11/00",
+    "description": "Dispositivos para confinar o quitar el polvo, la pelusa o análogos (limpieza de las superficies en movimiento en las máquinas de hilar de cabo abierto D01H 4/22) [2006.01]"
+  },
+  {
+    "code": "D01H 13/00",
+    "description": "Otras características estructurales comunes, partes constitutivas, o accesorios [2006.01]"
+  },
+  {
+    "code": "D01H 13/02",
+    "description": "••Dispositivos de cilindros no previstos en otro lugar [2006.01]"
+  },
+  {
+    "code": "D01H 13/04",
+    "description": "••Guías para cintas, mechas o hilos; Matrices de alisado (guías de condensación de fibras D01H 5/72) [2006.01]"
+  },
+  {
+    "code": "D01H 13/06",
+    "description": "••••Dispositivos de vaivén [2006.01]"
+  },
+  {
+    "code": "D01H 13/08",
+    "description": "••Limitadores de torsión [2006.01]"
+  },
+  {
+    "code": "D01H 13/10",
+    "description": "••Dispositivos de tensión [2006.01]"
+  },
+  {
+    "code": "D01H 13/12",
+    "description": "••Dispositivos de prevención del enredado o de la unión de los hilos [2006.01]"
+  },
+  {
+    "code": "D01H 13/14",
+    "description": "••Dispositivos advertidores o de seguridad, p. ej. de detección automática de defectos, movimientos de parada [2006.01]"
+  },
+  {
+    "code": "D01H 13/16",
+    "description": "••••sensibles a una reducción de la tensión, a una falta de alimentación a una ruptura de la materia [2006.01]"
+  },
+  {
+    "code": "D01H 13/18",
+    "description": "••••••que detienen la alimentación solamente [2006.01]"
+  },
+  {
+    "code": "D01H 13/20",
+    "description": "••••sensibles a una tensión excesiva o a un funcionamiento irregular del aparellaje [2006.01]"
+  },
+  {
+    "code": "D01H 13/22",
+    "description": "••••sensibles a la presencia de irregularidades en la materia en movimiento [2006.01]"
+  },
+  {
+    "code": "D01H 13/24",
+    "description": "••••sensibles a la entrega de una longitud determinada de materia, a la terminación del bobinado de una bobina o del llenado de un receptáculo [2006.01]"
+  },
+  {
+    "code": "D01H 13/26",
+    "description": "••Dispositivos que facilitan la inspección o el ensayo de los hilos, o análogos, en relación con la hilatura o el retorcido [2006.01]"
+  },
+  {
+    "code": "D01H 13/28",
+    "description": "••Calentamiento o enfriamiento [2006.01]"
+  },
+  {
+    "code": "D01H 13/30",
+    "description": "••Humidificación, encolado, lubrificación, parafinación, coloración o secado de hilos en tanto que medidas accesorias relativas a la hilatura o al retorcido [2006.01]"
+  },
+  {
+    "code": "D01H 13/32",
+    "description": "••Dispositivos de computación, de medida, de registro [2006.01]"
+  },
+  {
+    "code": "D01H 15/00",
+    "description": "Sistemas de anudado (para las máquinas de hilar de cabo abierto D01H 4/48) [2006.01]"
+  },
+  {
+    "code": "D01H 15/007",
+    "description": "••para máquinas de retorcido con doble torsión [2006.01]"
+  },
+  {
+    "code": "D01H 15/013",
+    "description": "••Carros que se desplazan a lo largo de las máquinas [2006.01]"
+  },
+  {
+    "code": "D01H 17/00",
+    "description": "Instrumentos de mano [2006.01]"
+  },
+  {
+    "code": "D01H 17/02",
+    "description": "••Almacenamiento de cursores; Dispositivos para la aplicación de los cursores en los anillos [2006.01]"
+  }
+]

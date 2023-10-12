@@ -1,0 +1,570 @@
+[
+  {
+    "code": "C02F 1/00",
+    "description": "Tratamiento del agua, agua residual o de alcantarilla (C02F 3/00-C02F 9/00 tienen prioridad) [2023.01]"
+  },
+  {
+    "code": "C02F 1/02",
+    "description": "••por calentamiento [2023.01]"
+  },
+  {
+    "code": "C02F 1/04",
+    "description": "••••por destilación o evaporación [2023.01]"
+  },
+  {
+    "code": "C02F 1/06",
+    "description": "••••••Destilación por evaporación llamada evaporación \"flash\" [2023.01]"
+  },
+  {
+    "code": "C02F 1/08",
+    "description": "••••••Evaporación en capa fina [2023.01]"
+  },
+  {
+    "code": "C02F 1/10",
+    "description": "••••••por contacto directo con un sólido particular, o un fluido, como agente de transferencia de calor [2023.01]"
+  },
+  {
+    "code": "C02F 1/12",
+    "description": "••••••••Evaporación utilizando una pulverización [2023.01]"
+  },
+  {
+    "code": "C02F 1/14",
+    "description": "••••••utilizando energía solar [2023.01]"
+  },
+  {
+    "code": "C02F 1/16",
+    "description": "••••••utilizando el calor desprendido en otros procesos [2023.01]"
+  },
+  {
+    "code": "C02F 1/18",
+    "description": "••••••Dispositivos portátiles para obtener agua potable [2023.01]"
+  },
+  {
+    "code": "C02F 1/20",
+    "description": "••por desgasificación, es decir, por liberación de los gases disueltos [2023.01]"
+  },
+  {
+    "code": "C02F 1/22",
+    "description": "••por congelación [2023.01]"
+  },
+  {
+    "code": "C02F 1/24",
+    "description": "••por flotación (C02F 1/465 tiene prioridad) [2023.01]"
+  },
+  {
+    "code": "C02F 1/26",
+    "description": "••por extracción [2023.01]"
+  },
+  {
+    "code": "C02F 1/28",
+    "description": "••por absorción o adsorción (utilizando cambiadores de iones C02F 1/42; composiciones absorbentes o adsorbentes B01J) [2023.01]"
+  },
+  {
+    "code": "C02F 1/30",
+    "description": "••por irradiación [2023.01]"
+  },
+  {
+    "code": "C02F 1/32",
+    "description": "••••por luz ultravioleta [2023.01]"
+  },
+  {
+    "code": "C02F 1/34",
+    "description": "••por medio de oscilaciones mecánicas [2023.01]"
+  },
+  {
+    "code": "C02F 1/36",
+    "description": "••••por vibraciones ultrasónicas [2023.01]"
+  },
+  {
+    "code": "C02F 1/38",
+    "description": "••por separación centrífuga [2023.01]"
+  },
+  {
+    "code": "C02F 1/40",
+    "description": "••Dispositivos para separar o eliminar las sustancias grasas o aceitosas, o materias flotantes similares (limpieza de la superficie del agua, o medios para mantenerla limpia de aceite pesado o productos similares E02B 15/04; dispositivos en las alcantarillas para separar las materias líquidas o sólidas de las aguas residuales E03F 5/14) [2023.01]"
+  },
+  {
+    "code": "C02F 1/42",
+    "description": "••por intercambio de iones [2023.01]"
+  },
+  {
+    "code": "C02F 1/44",
+    "description": "••por diálisis, ósmosis u ósmosis inversa [2023.01]"
+  },
+  {
+    "code": "C02F 1/46",
+    "description": "••por procesos electroquímicos [2023.01]"
+  },
+  {
+    "code": "C02F 1/461",
+    "description": "••••por electrólisis [2023.01]"
+  },
+  {
+    "code": "C02F 1/463",
+    "description": "••••••por electrocoagulación [2023.01]"
+  },
+  {
+    "code": "C02F 1/465",
+    "description": "••••••por electroflotación [2023.01]"
+  },
+  {
+    "code": "C02F 1/467",
+    "description": "••••••por desinfección electroquímica [2023.01]"
+  },
+  {
+    "code": "C02F 1/469",
+    "description": "••••por separación electroquímica, p. ej. por electroósmosis, electrodiálisis, electroforesis [2023.01]"
+  },
+  {
+    "code": "C02F 1/48",
+    "description": "••por medio de campos magnéticos o eléctricos (C02F 1/46 tiene prioridad) [2023.01]"
+  },
+  {
+    "code": "C02F 1/50",
+    "description": "••por adición o empleo de un germicida, o por tratamiento oligodinámico (C02F 1/467 tiene prioridad) [2023.01]"
+  },
+  {
+    "code": "C02F 1/52",
+    "description": "••por floculación o precipitación de las impurezas en suspensión [2023.01]"
+  },
+  {
+    "code": "C02F 1/54",
+    "description": "••••utilizando productos orgánicos [2023.01]"
+  },
+  {
+    "code": "C02F 1/56",
+    "description": "••••••Compuestos macromoleculares [2023.01]"
+  },
+  {
+    "code": "C02F 1/58",
+    "description": "••por eliminación de compuestos especificados disueltos (utilizando intercambiadores de iones C02F 1/42; desendurecimiento del agua C02F 5/00) [2023.01]"
+  },
+  {
+    "code": "C02F 1/60",
+    "description": "••••Compuestos de silicio [2023.01]"
+  },
+  {
+    "code": "C02F 1/62",
+    "description": "••••Compuestos de metales pesados [2023.01]"
+  },
+  {
+    "code": "C02F 1/64",
+    "description": "••••••de hierro o manganeso [2023.01]"
+  },
+  {
+    "code": "C02F 1/66",
+    "description": "••por neutralización; Ajuste del pH (para desgasificar C02F 1/20; utilizando intercambiadores de iones C02F 1/42; para floculación o precipitación de impurezas en suspensión C02F 1/52; para eliminar compuestos disueltos C02F 1/58) [2023.01]"
+  },
+  {
+    "code": "C02F 1/68",
+    "description": "••por adición de sustancias específicas, para mejorar el agua potable, p. ej. por adición de elementos en estado de trazas [2023.01]"
+  },
+  {
+    "code": "C02F 1/70",
+    "description": "••por reducción [2023.01]"
+  },
+  {
+    "code": "C02F 1/72",
+    "description": "••por oxidación [2023.01]"
+  },
+  {
+    "code": "C02F 1/74",
+    "description": "••••por medio de aire (aireación de las plantas de agua C02F 7/00) [2023.01]"
+  },
+  {
+    "code": "C02F 1/76",
+    "description": "••••por medio de halógenos o compuestos halogenados [2023.01]"
+  },
+  {
+    "code": "C02F 1/78",
+    "description": "••••por medio de ozono [2023.01]"
+  },
+  {
+    "code": "C02F 3/00",
+    "description": "Tratamiento biológico del agua, agua residual o de alcantarilla [2023.01]"
+  },
+  {
+    "code": "C02F 3/02",
+    "description": "••Procedimientos aerobios [2023.01]"
+  },
+  {
+    "code": "C02F 3/04",
+    "description": "••••utilizando filtros lentos [2023.01]"
+  },
+  {
+    "code": "C02F 3/06",
+    "description": "••••utilizando filtros sumergidos [2023.01]"
+  },
+  {
+    "code": "C02F 3/08",
+    "description": "••••utilizando cuerpos de contacto móviles [2023.01]"
+  },
+  {
+    "code": "C02F 3/10",
+    "description": "••••Embalajes; Cargas; Rejillas [2023.01]"
+  },
+  {
+    "code": "C02F 3/12",
+    "description": "••••Procesos por fangos activados [2023.01]"
+  },
+  {
+    "code": "C02F 3/14",
+    "description": "••••••con aireación en superficie [2023.01]"
+  },
+  {
+    "code": "C02F 3/16",
+    "description": "••••••••teniendo el ventilador un eje vertical [2023.01]"
+  },
+  {
+    "code": "C02F 3/18",
+    "description": "••••••••teniendo el ventilador un eje horizontal [2023.01]"
+  },
+  {
+    "code": "C02F 3/20",
+    "description": "••••••utilizando difusores [2023.01]"
+  },
+  {
+    "code": "C02F 3/22",
+    "description": "••••••utilizando tubos de circulación [2023.01]"
+  },
+  {
+    "code": "C02F 3/24",
+    "description": "••••••con aireación por caída libre o pulverización [2023.01]"
+  },
+  {
+    "code": "C02F 3/26",
+    "description": "••••••utilizando oxígeno puro o un gas rico en oxígeno [2023.01]"
+  },
+  {
+    "code": "C02F 3/28",
+    "description": "••Procedimientos de digestión anaerobios [2023.01]"
+  },
+  {
+    "code": "C02F 3/30",
+    "description": "••Procedimientos aerobios y anaerobios [2023.01]"
+  },
+  {
+    "code": "C02F 3/32",
+    "description": "••caracterizado por los animales o vegetales utilizados, p. ej. algas [2023.01]"
+  },
+  {
+    "code": "C02F 3/34",
+    "description": "••caracterizado por los microorganismos utilizados [2023.01]"
+  },
+  {
+    "code": "C02F 5/00",
+    "description": "Desendurecimiento del agua; Prevención de las incrustaciones; Adición al agua de agentes anti incrustación o desincrustantes, p. ej. adición de agentes secuestrantes (desendurecimiento por intercambio de iones C02F 1/42) [2023.01]"
+  },
+  {
+    "code": "C02F 5/02",
+    "description": "••Desendurecimiento del agua por precipitación de sustancias que la hacen dura [2023.01]"
+  },
+  {
+    "code": "C02F 5/04",
+    "description": "••••utilizando fosfatos (C02F 5/06 tiene prioridad) [2023.01]"
+  },
+  {
+    "code": "C02F 5/06",
+    "description": "••••utilizando compuestos de calcio [2023.01]"
+  },
+  {
+    "code": "C02F 5/08",
+    "description": "••Tratamiento del agua con productos químicos complejantes o agentes solubilizantes para el desendurecimiento, prevención o eliminación de las incrustaciones, p. ej. por adición de agentes secuestrantes [2023.01]"
+  },
+  {
+    "code": "C02F 5/10",
+    "description": "••••utilizando sustancias orgánicas [2023.01]"
+  },
+  {
+    "code": "C02F 5/12",
+    "description": "••••••que contienen nitrógeno (C02F 5/14 tiene prioridad) [2023.01]"
+  },
+  {
+    "code": "C02F 5/14",
+    "description": "••••••que contienen fósforo [2023.01]"
+  },
+  {
+    "code": "C02F 7/00",
+    "description": "Aireación de las plantas de agua [2006.01]"
+  },
+  {
+    "code": "C02F 9/00",
+    "description": "Tratamiento en varias etapas del agua, agua residual o de alcantarilla [2023.01]"
+  },
+  {
+    "code": "C02F 9/02",
+    "description": ""
+  },
+  {
+    "code": "C02F 9/04",
+    "description": ""
+  },
+  {
+    "code": "C02F 9/06",
+    "description": ""
+  },
+  {
+    "code": "C02F 9/08",
+    "description": ""
+  },
+  {
+    "code": "C02F 9/10",
+    "description": ""
+  },
+  {
+    "code": "C02F 9/12",
+    "description": ""
+  },
+  {
+    "code": "C02F 9/14",
+    "description": ""
+  },
+  {
+    "code": "C02F 9/20",
+    "description": "••Dispositivos de tratamiento de varias etapas a pequeña escala portátiles o desmontables , p. ej. sistemas de purificación de agua en el punto de consumo o en laboratorio [2023.01]"
+  },
+  {
+    "code": "C02F 11/00",
+    "description": "Tratamiento de los fangos; Dispositivos a este efecto [2006.01]"
+  },
+  {
+    "code": "C02F 11/02",
+    "description": "••Tratamiento biológico [2006.01]"
+  },
+  {
+    "code": "C02F 11/04",
+    "description": "••••Tratamiento anaerobio; Producción del metano por tales procesos [2006.01]"
+  },
+  {
+    "code": "C02F 11/06",
+    "description": "••por oxidación [2006.01]"
+  },
+  {
+    "code": "C02F 11/08",
+    "description": "••••Oxidación por aire húmedo [2006.01]"
+  },
+  {
+    "code": "C02F 11/10",
+    "description": "••por pirólisis [2006.01]"
+  },
+  {
+    "code": "C02F 11/12",
+    "description": "••por deshidratación, secado o espesamiento [2019.01]"
+  },
+  {
+    "code": "C02F 11/121",
+    "description": "••••por deshidratación mecánica [2019.01]"
+  },
+  {
+    "code": "C02F 11/122",
+    "description": "••••••usando prensas de filtros (C02F 11/123 tiene prioridad) [2019.01]"
+  },
+  {
+    "code": "C02F 11/123",
+    "description": "••••••usando filtros en forma de cinturones o bandas [2019.01]"
+  },
+  {
+    "code": "C02F 11/125",
+    "description": "••••••usando filtros de tornillos [2019.01]"
+  },
+  {
+    "code": "C02F 11/126",
+    "description": "••••••usando filtros de tambor [2019.01]"
+  },
+  {
+    "code": "C02F 11/127",
+    "description": "••••••por centrifugación [2019.01]"
+  },
+  {
+    "code": "C02F 11/128",
+    "description": "••••••usando procesos discontinuos [2019.01]"
+  },
+  {
+    "code": "C02F 11/13",
+    "description": "••••por calentamiento [2019.01]"
+  },
+  {
+    "code": "C02F 11/131",
+    "description": "••••••usando ondas electromagnéticas o de ultrasonidos [2019.01]"
+  },
+  {
+    "code": "C02F 11/14",
+    "description": "••••con adición de productos químicos [2019.01]"
+  },
+  {
+    "code": "C02F 11/143",
+    "description": "••••••usando sustancias inorgánicas (C02F 11/148 tiene prioridad) [2019.01]"
+  },
+  {
+    "code": "C02F 11/145",
+    "description": "••••••••usando compuestos de calcio [2019.01]"
+  },
+  {
+    "code": "C02F 11/147",
+    "description": "••••••usando compuestos orgánicos (C02F 11/148 tiene prioridad) [2019.01]"
+  },
+  {
+    "code": "C02F 11/148",
+    "description": "••••••Uso combinado de compuestos orgánicos e inorgánicos, siendo añadidos en la misma etapa del tratamiento [2019.01]"
+  },
+  {
+    "code": "C02F 11/15",
+    "description": "••••por tratamiento con campos eléctricos, magnéticos o electromagnéticos; por tratamiento con ultrasonidos (para los fines de calentamiento C02F 11/131) [2019.01]"
+  },
+  {
+    "code": "C02F 11/16",
+    "description": "••••utilizando lechos para el secado o para el compostaje [2006.01]"
+  },
+  {
+    "code": "C02F 11/18",
+    "description": "••por acondicionamiento térmico (por pirólisis C02F 11/10) [2006.01]"
+  },
+  {
+    "code": "C02F 11/20",
+    "description": "••••por congelación [2006.01]"
+  },
+  {
+    "code": "C02F 101/00",
+    "description": "Naturaleza del contaminante [2006.01]"
+  },
+  {
+    "code": "C02F 101/10",
+    "description": "••Compuestos inorgánicos [2006.01]"
+  },
+  {
+    "code": "C02F 101/12",
+    "description": "••••Halógenos o compuestos que los contienen [2006.01]"
+  },
+  {
+    "code": "C02F 101/14",
+    "description": "••••••Flúor o compuestos que lo contienen [2006.01]"
+  },
+  {
+    "code": "C02F 101/16",
+    "description": "••••Compuestos nitrogenados, p. ej. amoníaco [2006.01]"
+  },
+  {
+    "code": "C02F 101/18",
+    "description": "••••••cianuros [2006.01]"
+  },
+  {
+    "code": "C02F 101/20",
+    "description": "••••Metales pesados o sus compuestos [2006.01]"
+  },
+  {
+    "code": "C02F 101/22",
+    "description": "••••••Cromo o sus compuestos, p. ej. cromatos [2006.01]"
+  },
+  {
+    "code": "C02F 101/30",
+    "description": "••Compuestos orgánicos [2006.01]"
+  },
+  {
+    "code": "C02F 101/32",
+    "description": "••••Hidrocarburos, p.ej. aceite [2006.01]"
+  },
+  {
+    "code": "C02F 101/34",
+    "description": "••••que contienen oxígeno [2006.01]"
+  },
+  {
+    "code": "C02F 101/36",
+    "description": "••••que contienen halógeno [2006.01]"
+  },
+  {
+    "code": "C02F 101/38",
+    "description": "••••que contienen nitrógeno [2006.01]"
+  },
+  {
+    "code": "C02F 103/00",
+    "description": "Naturaleza del agua, el agua residual, las aguas de alcantarilla o los fangos a tratar [2006.01]"
+  },
+  {
+    "code": "C02F 103/02",
+    "description": "••Agua no contaminada, p. ej. suministro industrial de agua [2006.01]"
+  },
+  {
+    "code": "C02F 103/04",
+    "description": "••••para obtener agua pura o ultra-pura [2006.01]"
+  },
+  {
+    "code": "C02F 103/06",
+    "description": "••Aguas subterráneas contaminadas o lixiviado contaminado [2006.01]"
+  },
+  {
+    "code": "C02F 103/08",
+    "description": "••Agua marina, p. ej. para desalinización [2006.01]"
+  },
+  {
+    "code": "C02F 103/10",
+    "description": "••procedente de canteras o actividades mineras [2006.01]"
+  },
+  {
+    "code": "C02F 103/12",
+    "description": "••procedente de industrias de silicatos o cerámicas, p. ej. aguas residuales de fábricas de cemento o vidrio [2006.01]"
+  },
+  {
+    "code": "C02F 103/14",
+    "description": "••Residuos de pinturas [2006.01]"
+  },
+  {
+    "code": "C02F 103/16",
+    "description": "••procedente de procesos metalúrgicos, es decir de la producción, refinado o tratamiento de metales, p. ej. residuos galvánicos [2006.01]"
+  },
+  {
+    "code": "C02F 103/18",
+    "description": "••procedente de la purificación húmeda de efluentes gaseosos [2006.01]"
+  },
+  {
+    "code": "C02F 103/20",
+    "description": "••procedente de la cría de ganado [2006.01]"
+  },
+  {
+    "code": "C02F 103/22",
+    "description": "••procedente del procesamiento de animales, p. ej. de aves, pescado o partes de ellos [2006.01]"
+  },
+  {
+    "code": "C02F 103/24",
+    "description": "••••procedente de curtidurías [2006.01]"
+  },
+  {
+    "code": "C02F 103/26",
+    "description": "••procedente del procesamiento de vegetales o de partes de ellos [2006.01]"
+  },
+  {
+    "code": "C02F 103/28",
+    "description": "••••procedente de la industria papelera o celulósica [2006.01]"
+  },
+  {
+    "code": "C02F 103/30",
+    "description": "••procedente de la industria textil [2006.01]"
+  },
+  {
+    "code": "C02F 103/32",
+    "description": "••procedente de la industria alimentaria, p. ej. aguas residuales de industrias cerveceras [2006.01]"
+  },
+  {
+    "code": "C02F 103/34",
+    "description": "••procedente de la industria química no prevista en los grupos C02F 103/12-C02F 103/32 [2006.01]"
+  },
+  {
+    "code": "C02F 103/36",
+    "description": "••••procedente de la fabricación de compuestos orgánicos [2006.01]"
+  },
+  {
+    "code": "C02F 103/38",
+    "description": "••••••Polímeros [2006.01]"
+  },
+  {
+    "code": "C02F 103/40",
+    "description": "••••procedente de la fabricación o el uso de materiales fotosensibles [2006.01]"
+  },
+  {
+    "code": "C02F 103/42",
+    "description": "••procedente de instalaciones acuáticas, p. ej. piscinas [2006.01]"
+  },
+  {
+    "code": "C02F 103/44",
+    "description": "••procedente de instalaciones de lavado de vehículos [2006.01]"
+  }
+]

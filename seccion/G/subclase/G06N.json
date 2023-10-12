@@ -1,0 +1,270 @@
+[
+  {
+    "code": "G06N 3/00",
+    "description": "Computadores basados en modelos biológicos [2023.01]"
+  },
+  {
+    "code": "G06N 3/004",
+    "description": "••Vida artificial, es decir, computadores que simulan la vida [2023.01]"
+  },
+  {
+    "code": "G06N 3/006",
+    "description": "••••basado en formas de vida virtuales simuladas individuales o colectivas, p. ej. simulaciones sociales u optimización por enjambre de partículas [PSO] [2023.01]"
+  },
+  {
+    "code": "G06N 3/008",
+    "description": "••••basados en entidades físicas controladas por una inteligencia simulada con el fin de replicar formas de vida inteligentes, p. ej. basados en robots que replican a las mascotas o a los seres humanos en su apariencia o comportamiento [2023.01]"
+  },
+  {
+    "code": "G06N 3/02",
+    "description": "••Redes neuronales [2006.01]"
+  },
+  {
+    "code": "G06N 3/04",
+    "description": "••••Arquitectura, p. ej. topología de interconexión [2023.01]"
+  },
+  {
+    "code": "G06N 3/042",
+    "description": "••••••Redes neuronales basadas en el conocimiento; Representaciones lógicas de las redes neuronales [2023.01]"
+  },
+  {
+    "code": "G06N 3/043",
+    "description": "••••••basados en la lógica difusa, la pertenencia difusa o la inferencia difusa, p. ej. sistemas de inferencia difusa adaptativos [ANFIS]. [2023.01]"
+  },
+  {
+    "code": "G06N 3/044",
+    "description": "••••••Redes recurrentes, p. ej. redes Hopfield [2023.01]"
+  },
+  {
+    "code": "G06N 3/0442",
+    "description": "••••••••caracterizadas por memoria o puertas, p. ej. memoria a corto plazo [LSTM] o unidades recurrentes cerradas [GRU] [2023.01]"
+  },
+  {
+    "code": "G06N 3/045",
+    "description": "••••••Combinaciones de redes [2023.01]"
+  },
+  {
+    "code": "G06N 3/0455",
+    "description": "••••••••Redes de autocodificación; redes de codificación-decodificación [2023.01]"
+  },
+  {
+    "code": "G06N 3/0464",
+    "description": "••••••Redes convolucionales [CNN, ConvNet] [2023.01]"
+  },
+  {
+    "code": "G06N 3/047",
+    "description": "••••••Redes probabilísticas o estocásticas [2023.01]"
+  },
+  {
+    "code": "G06N 3/0475",
+    "description": "••••••Redes generativas [2023.01]"
+  },
+  {
+    "code": "G06N 3/048",
+    "description": "••••••Funciones de activación [2023.01]"
+  },
+  {
+    "code": "G06N 3/049",
+    "description": "••••••Redes neuronales temporales, p. ej. elementos de retardo, neuronas oscilantes o entradas pulsantes [2023.01]"
+  },
+  {
+    "code": "G06N 3/0495",
+    "description": "••••••Redes cuantificadas; Redes dispersas; Redes comprimidas [2023.01]"
+  },
+  {
+    "code": "G06N 3/0499",
+    "description": "••••••Redes prealimentadas [2023.01]"
+  },
+  {
+    "code": "G06N 3/06",
+    "description": "••••Realización física, es decir materialización del hardware de redes neuronales, de neuronas o de partes de neuronas [2006.01]"
+  },
+  {
+    "code": "G06N 3/063",
+    "description": "••••••utilizando medios electrónicos [2023.01]"
+  },
+  {
+    "code": "G06N 3/065",
+    "description": "••••••••Medios analógicos [2023.01]"
+  },
+  {
+    "code": "G06N 3/067",
+    "description": "••••••utilizando medios ópticos [2006.01]"
+  },
+  {
+    "code": "G06N 3/08",
+    "description": "••••Métodos de aprendizaje [2023.01]"
+  },
+  {
+    "code": "G06N 3/082",
+    "description": "••••••modificando la arquitectura, p. ej. añadiendo, suprimiendo o silenciando nodos o conexiones [2023.01]"
+  },
+  {
+    "code": "G06N 3/084",
+    "description": "••••••Retropropagación, p. ej. mediante el descenso de gradiente [2023.01]"
+  },
+  {
+    "code": "G06N 3/086",
+    "description": "••••••utilizando algoritmos evolutivos, p. ej. algoritmos genéticos o programación genética [2023.01]"
+  },
+  {
+    "code": "G06N 3/088",
+    "description": "••••••Aprendizaje no supervisado, p. ej. aprendizaje competitivo [2023.01]"
+  },
+  {
+    "code": "G06N 3/0895",
+    "description": "••••••Aprendizaje débilmente supervisado, p. ej. aprendizaje semi-supervisado o auto-supervisado [2023.01]"
+  },
+  {
+    "code": "G06N 3/09",
+    "description": "••••••Aprendizaje supervisado [2023.01]"
+  },
+  {
+    "code": "G06N 3/091",
+    "description": "••••••Aprendizaje activo [2023.01]"
+  },
+  {
+    "code": "G06N 3/092",
+    "description": "••••••Aprendizaje por refuerzo [2023.01]"
+  },
+  {
+    "code": "G06N 3/094",
+    "description": "••••••Aprendizaje adverso [2023.01]"
+  },
+  {
+    "code": "G06N 3/096",
+    "description": "••••••Aprendizaje por transferencia [2023.01]"
+  },
+  {
+    "code": "G06N 3/098",
+    "description": "••••••Aprendizaje distribuido, p. ej. aprendizaje federado [2023.01]"
+  },
+  {
+    "code": "G06N 3/0985",
+    "description": "••••••Optimización de hiperparámetros; Meta-aprendizaje; Aprendiendo a aprender [2023.01]"
+  },
+  {
+    "code": "G06N 3/10",
+    "description": "••••Interfaces, lenguajes de programación o kits de desarrollo de software, p. ej. para simular redes neuronales [2006.01]"
+  },
+  {
+    "code": "G06N 3/12",
+    "description": "••que utilizan modelos genéticos [2023.01]"
+  },
+  {
+    "code": "G06N 3/123",
+    "description": "••••Computación del ADN [2023.01]"
+  },
+  {
+    "code": "G06N 3/126",
+    "description": "••••Algoritmos evolutivos, p. ej. algoritmos genéticos o programación genética [2023.01]"
+  },
+  {
+    "code": "G06N 5/00",
+    "description": "Computadores que utilizan modelos basados en el conocimiento [2023.01]"
+  },
+  {
+    "code": "G06N 5/01",
+    "description": "••Técnicas de búsqueda dinámicas; Heurística; Árboles dinámicos; Ramificación y acotamiento [2023.01]"
+  },
+  {
+    "code": "G06N 5/02",
+    "description": "••Representación del conocimiento; Representación simbólica [2023.01]"
+  },
+  {
+    "code": "G06N 5/022",
+    "description": "••••Ingeniería del conocimiento; Adquisición de conocimientos [2023.01]"
+  },
+  {
+    "code": "G06N 5/025",
+    "description": "••••••Extracción de reglas de datos [2023.01]"
+  },
+  {
+    "code": "G06N 5/04",
+    "description": "••Modelos de razonamiento de inferencia [2023.01]"
+  },
+  {
+    "code": "G06N 5/043",
+    "description": "••••Sistemas expertos distribuidos; Pizarras [2023.01]"
+  },
+  {
+    "code": "G06N 5/045",
+    "description": "••••Explicación de la inferencia; Inteligencia artificial explicable [XAI]; Inteligencia artificial interpretable [2023.01]"
+  },
+  {
+    "code": "G06N 5/046",
+    "description": "••••Inferencia anticipada; Sistemas de producción [2023.01]"
+  },
+  {
+    "code": "G06N 5/047",
+    "description": "••••••Redes de concordancia de patrones; Redes Rete [2023.01]"
+  },
+  {
+    "code": "G06N 5/048",
+    "description": "••••Inferencia difusa [2023.01]"
+  },
+  {
+    "code": "G06N 7/00",
+    "description": "Computadores basados en modelos matemáticos específicos [2023.01]"
+  },
+  {
+    "code": "G06N 7/01",
+    "description": "••Modelos gráficos probabilísticos, p. ej. redes probabilísticas [2023.01]"
+  },
+  {
+    "code": "G06N 7/02",
+    "description": "••que utilizan la lógica difusa (computadores basados en modelos biológicos G06N 3/00; computadores que utilizan modelos basados en el conocimiento G06N 5/00) [2006.01]"
+  },
+  {
+    "code": "G06N 7/04",
+    "description": "••••Realización física [2006.01]"
+  },
+  {
+    "code": "G06N 7/06",
+    "description": "••••Simulación utilizando computadores universales [2006.01]"
+  },
+  {
+    "code": "G06N 7/08",
+    "description": "••que utilizan modelos de caos o modelos de sistemas no lineales [2006.01]"
+  },
+  {
+    "code": "G06N 10/00",
+    "description": "Computación cuántica, es decir, procesamiento de la información basado en fenómenos mecánico-cuánticos [2022.01]"
+  },
+  {
+    "code": "G06N 10/20",
+    "description": "••Modelos de computación cuántica, p. ej., circuitos cuánticos u ordenadores cuánticos universales [2022.01]"
+  },
+  {
+    "code": "G06N 10/40",
+    "description": "••Realizaciones físicas o arquitecturas de procesadores cuánticos o componentes para manipular qubits, p. ej. acoplamiento de qubits o control de qubits [2022.01]"
+  },
+  {
+    "code": "G06N 10/60",
+    "description": "••Algoritmos cuánticos, p. ej. basados en la optimización cuántica, o en las transformadas cuánticas de Fourier o Hadamard [2022.01]"
+  },
+  {
+    "code": "G06N 10/70",
+    "description": "••Corrección, detección o prevención de errores cuánticos, p. ej., códigos de superficie o destilación de estados mágicos [2022.01]"
+  },
+  {
+    "code": "G06N 10/80",
+    "description": "••Programación cuántica, p. ej., interfaces, lenguajes o kits de desarrollo de software para crear o manejar programas capaces de funcionar en ordenadores cuánticos; Plataformas para simular o acceder a ordenadores cuánticos, p. ej., computación cuántica basada en la nube [2022.01]"
+  },
+  {
+    "code": "G06N 20/00",
+    "description": "Aprendizaje automático [2019.01]"
+  },
+  {
+    "code": "G06N 20/10",
+    "description": "••utilzando métodos de núcleo, p. ej. máquinas de vectores de soporte [SVM] [2019.01]"
+  },
+  {
+    "code": "G06N 20/20",
+    "description": "••Aprendizaje basado en conjuntos [2019.01]"
+  },
+  {
+    "code": "G06N 99/00",
+    "description": "Materia no prevista en otros grupos de esta subclase [2019.01]"
+  }
+]

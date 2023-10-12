@@ -1,0 +1,710 @@
+[
+  {
+    "code": "G01G 1/00",
+    "description": "Aparatos para pesar en los cuales se utiliza un contrapeso o cualquier otra masa de equilibrio [2006.01]"
+  },
+  {
+    "code": "G01G 1/02",
+    "description": "••Aparatos de péndulo [2006.01]"
+  },
+  {
+    "code": "G01G 1/04",
+    "description": "••••teniendo el péndulo un eje de pivotamiento fijo [2006.01]"
+  },
+  {
+    "code": "G01G 1/06",
+    "description": "••••••con varios péndulos [2006.01]"
+  },
+  {
+    "code": "G01G 1/08",
+    "description": "••••teniendo el péndulo un eje de pivotamiento móvil, p. ej. péndulo flotante [2006.01]"
+  },
+  {
+    "code": "G01G 1/10",
+    "description": "••••••con varios péndulos [2006.01]"
+  },
+  {
+    "code": "G01G 1/12",
+    "description": "••••Disposiciones estructurales para que las divisiones de la indicación de los pesos sean iguales [2006.01]"
+  },
+  {
+    "code": "G01G 1/14",
+    "description": "••••Disposiciones para compensar las variaciones de temperatura [2006.01]"
+  },
+  {
+    "code": "G01G 1/16",
+    "description": "••••Medios para compensar la inclinación del armazón [2006.01]"
+  },
+  {
+    "code": "G01G 1/18",
+    "description": "••Balanzas en las cuales se utiliza un astil montado sobre un pivote, es decir, balanzas de astil [2006.01]"
+  },
+  {
+    "code": "G01G 1/20",
+    "description": "••••Balanzas de astil que tienen los platos suspendidos por debajo del astil y a utilizar con contrapesos independientes [2006.01]"
+  },
+  {
+    "code": "G01G 1/22",
+    "description": "••••••para pesadas de precisión [2006.01]"
+  },
+  {
+    "code": "G01G 1/24",
+    "description": "••••Balanzas del tipo plataforma, es decir, que tiene los platos montados encima del astil [2006.01]"
+  },
+  {
+    "code": "G01G 1/26",
+    "description": "••••con un contrapeso o un juego de contrapesos solidarios del astil [2006.01]"
+  },
+  {
+    "code": "G01G 1/28",
+    "description": "••••••incluyendo medios para levantar automáticamente los contrapesos correspondientes a la carga [2006.01]"
+  },
+  {
+    "code": "G01G 1/29",
+    "description": "••••••••con medios de control eléctricos o electromecánicos [2006.01]"
+  },
+  {
+    "code": "G01G 1/30",
+    "description": "••••••en las cuales el contrapeso tiene la forma de una cadena [2006.01]"
+  },
+  {
+    "code": "G01G 1/32",
+    "description": "••••••en las cuales los contrapesos tienen la forma de caballete [2006.01]"
+  },
+  {
+    "code": "G01G 1/34",
+    "description": "••••••incluyendo un contrapeso fijo, el equilibrio se realiza por adición de pesos precisos por el lado de la carga [2006.01]"
+  },
+  {
+    "code": "G01G 1/36",
+    "description": "••••••en las cuales los contrapesos pueden deslizar a lo largo del astil, p. ej. romanas [2006.01]"
+  },
+  {
+    "code": "G01G 1/38",
+    "description": "••••••••con contrapesos accionados automáticamente [2006.01]"
+  },
+  {
+    "code": "G01G 1/40",
+    "description": "••••especialmente adaptadas para la pesada por sustitución [2006.01]"
+  },
+  {
+    "code": "G01G 1/42",
+    "description": "••••Disposiciones para compensar las variaciones de temperatura [2006.01]"
+  },
+  {
+    "code": "G01G 3/00",
+    "description": "Aparatos para pesar caracterizados por la utilización de órganos deformables por elasticidad, p. ej. balanzas de resorte [2006.01]"
+  },
+  {
+    "code": "G01G 3/02",
+    "description": "••en los cuales el elemento de pesada tiene la forma de un resorte helicoidal [2006.01]"
+  },
+  {
+    "code": "G01G 3/04",
+    "description": "••••utilizando varios resortes [2006.01]"
+  },
+  {
+    "code": "G01G 3/06",
+    "description": "••en las que el elemento de pesada tienen la forma de un resorte espiral [2006.01]"
+  },
+  {
+    "code": "G01G 3/08",
+    "description": "••en las cuales el elemento de pesada tiene la forma de un resorte de hojas [2006.01]"
+  },
+  {
+    "code": "G01G 3/10",
+    "description": "••en los cuales se mide la deformación por torsión de un elemento de pesada [2006.01]"
+  },
+  {
+    "code": "G01G 3/12",
+    "description": "••en las cuales el elemento de pesada está constituido por un cuerpo sólido sometido a una presión o una tracción durante la pesada [2006.01]"
+  },
+  {
+    "code": "G01G 3/13",
+    "description": "••••el cuerpo sólido presenta propiedades piezoeléctricas o piezorresistivas [2006.01]"
+  },
+  {
+    "code": "G01G 3/14",
+    "description": "••••utilizando la medida de variaciones de la resistencia eléctrica (G01G 3/13 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01G 3/142",
+    "description": "••••••Circuitos especialmente adaptados a este efecto [2006.01]"
+  },
+  {
+    "code": "G01G 3/145",
+    "description": "••••••••implicando una comparación con un valor de referencia (G01G 3/147 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01G 3/147",
+    "description": "••••••••implicando un cómputo digital [2006.01]"
+  },
+  {
+    "code": "G01G 3/15",
+    "description": "••••utilizando la medida de variaciones de propiedades magnéticas [2006.01]"
+  },
+  {
+    "code": "G01G 3/16",
+    "description": "••••utilizando la medida de variaciones de la frecuencia de oscilaciones del cuerpo [2006.01]"
+  },
+  {
+    "code": "G01G 3/18",
+    "description": "••Disposiciones para compensar las variaciones de temperatura [2006.01]"
+  },
+  {
+    "code": "G01G 5/00",
+    "description": "Aparatos para pesar en los cuales el equilibrio está asegurado por la acción de un fluido [2006.01]"
+  },
+  {
+    "code": "G01G 5/02",
+    "description": "••con un flotador o cualquier otro órgano cuya inmersión en el líquido varía [2006.01]"
+  },
+  {
+    "code": "G01G 5/04",
+    "description": "••con medios para medir la presión de la carga sobre un líquido [2006.01]"
+  },
+  {
+    "code": "G01G 5/06",
+    "description": "••••utilizando medios indicadores eléctricos [2006.01]"
+  },
+  {
+    "code": "G01G 7/00",
+    "description": "Aparatos para pesar en los cuales el equilibrio está asegurado por una acción magnética, electromagnética o electrostática, o por medios no previstos en los grupos G01G 1/00-G01G 5/00 [2006.01]"
+  },
+  {
+    "code": "G01G 7/02",
+    "description": "••por acción electromagnética [2006.01]"
+  },
+  {
+    "code": "G01G 7/04",
+    "description": "••••con medios para la regulación de la corriente que va a los solenoides [2006.01]"
+  },
+  {
+    "code": "G01G 7/06",
+    "description": "••por acción electrostática [2006.01]"
+  },
+  {
+    "code": "G01G 9/00",
+    "description": "Métodos o aparatos para la determinación del peso, no previstos en los grupos G01G 1/00-G01G 7/00 [2006.01]"
+  },
+  {
+    "code": "G01G 11/00",
+    "description": "Aparatos para pesar un producto a su paso cuyo flujo es continuo; Aparatos para pesar para banda transportadora [2006.01]"
+  },
+  {
+    "code": "G01G 11/02",
+    "description": "••con dispositivos mecánicos sensibles al peso [2006.01]"
+  },
+  {
+    "code": "G01G 11/04",
+    "description": "••con dispositivos eléctricos sensibles al peso [2006.01]"
+  },
+  {
+    "code": "G01G 11/06",
+    "description": "••con dispositivos fluidos sensibles al peso [2006.01]"
+  },
+  {
+    "code": "G01G 11/08",
+    "description": "••con medios para controlar la proporción de llenado o de vaciado [2006.01]"
+  },
+  {
+    "code": "G01G 11/10",
+    "description": "••••por control de la altura del producto sobre la banda transportadora [2006.01]"
+  },
+  {
+    "code": "G01G 11/12",
+    "description": "••••por control de la velocidad de desplazamiento de la banda transportadora [2006.01]"
+  },
+  {
+    "code": "G01G 11/14",
+    "description": "••utilizando dispositivos de totalización o de integración [2006.01]"
+  },
+  {
+    "code": "G01G 11/16",
+    "description": "••••constituidos por dispositivos eléctricos o electrónicos [2006.01]"
+  },
+  {
+    "code": "G01G 11/18",
+    "description": "••••••efectuando un cómputo digital [2006.01]"
+  },
+  {
+    "code": "G01G 11/20",
+    "description": "••••constituidos por dispositivos mecánicos [2006.01]"
+  },
+  {
+    "code": "G01G 13/00",
+    "description": "Aparatos para pesar con llenado o vaciado automáticos para pesar cantidades determinadas de un producto (para pesar un producto cuyo flujo es continuo G01G 11/00; pesadas de control G01G 15/00; para fluidos G01G 17/04; para la dosificación por peso de productos a mezclar G01G 19/22; para pesar por combinación G01G 19/387) [2006.01]"
+  },
+  {
+    "code": "G01G 13/02",
+    "description": "••Medios para cargar automáticamente los platos de pesada u otros recipientes, p. ej. recipientes que se tiran después de usar, bajo control del mecanismo de pesada [2006.01]"
+  },
+  {
+    "code": "G01G 13/04",
+    "description": "••••incluyendo medios de llenado gota a gota controlado por el mecanismo de pesada, que permiten llenar el recipiente con el peso deseado [2006.01]"
+  },
+  {
+    "code": "G01G 13/06",
+    "description": "••••••en los cuales el llenado principal está asegurado por gravedad a partir de una tolva o de un canal [2006.01]"
+  },
+  {
+    "code": "G01G 13/08",
+    "description": "••••••en los cuales el llenado principal está asegurado por medios de transporte mecánicos, p. ej. bandas transportadoras o transportadores con movimientos vibratorios [2006.01]"
+  },
+  {
+    "code": "G01G 13/10",
+    "description": "••••••en los cuales el llenado principal está asegurado por medio de transporte neumáticos, p. ej. llenado por colada de un producto granular [2006.01]"
+  },
+  {
+    "code": "G01G 13/12",
+    "description": "••••Dispositivos para corregir el excedente de producto con el momento de parar de llenar, es decir, la cantidad de producto que está aún cayendo del sistema de llenado en el momento en que el aparato pesador detiene el sistema de llenado [2006.01]"
+  },
+  {
+    "code": "G01G 13/14",
+    "description": "••••Disposiciones para determinar o compensar la tara de un recipiente vacío, p. ej. un recipiente que se desecha después de usado [2006.01]"
+  },
+  {
+    "code": "G01G 13/16",
+    "description": "••Medios para vaciar automáticamente los recipientes de pesada, estando accionada la operación por el mecanismo de pesada [2006.01]"
+  },
+  {
+    "code": "G01G 13/18",
+    "description": "••••por válvulas o cierres situados en el fondo del recipiente [2006.01]"
+  },
+  {
+    "code": "G01G 13/20",
+    "description": "••••por transportadores de tornillo sin fin en el recipiente de pesada [2006.01]"
+  },
+  {
+    "code": "G01G 13/22",
+    "description": "••••por basculación o rotación del recipiente [2006.01]"
+  },
+  {
+    "code": "G01G 13/24",
+    "description": "••Dispositivos adaptados a un mecanismo de pesada para controlar el llenado o el vaciado automático [2006.01]"
+  },
+  {
+    "code": "G01G 13/26",
+    "description": "••••comprendiendo sistemas de presión por fluido [2006.01]"
+  },
+  {
+    "code": "G01G 13/28",
+    "description": "••••comprendiendo la variación de una variable eléctrica que se utiliza para controlar el llenado o el vaciado del recipiente [2006.01]"
+  },
+  {
+    "code": "G01G 13/285",
+    "description": "••••••implicando una comparación con un valor de referencia (G01G 13/29 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01G 13/29",
+    "description": "••••••implicando un cómputo digital [2006.01]"
+  },
+  {
+    "code": "G01G 13/295",
+    "description": "••••••para controlar el llenado automático del recipiente [2006.01]"
+  },
+  {
+    "code": "G01G 13/30",
+    "description": "••••comprendiendo interruptores de límite o interruptores que funcionan cuando se alcanza una posición dada [2006.01]"
+  },
+  {
+    "code": "G01G 13/32",
+    "description": "••••••comprendiendo dispositivos fotoeléctricos [2006.01]"
+  },
+  {
+    "code": "G01G 13/34",
+    "description": "••••comprendiendo un enlace mecánico movido por el mecanismo de pesada [2006.01]"
+  },
+  {
+    "code": "G01G 15/00",
+    "description": "Dispositivos para controlar el peso de productos suministrados en recipientes amovibles [2006.01]"
+  },
+  {
+    "code": "G01G 15/02",
+    "description": "••con posibilidad de añadir o de retirar una cantidad deseada del producto para obtener el peso neto deseado (medios de llenado gota a gota para aparatos que pesan automáticamente una dosis G01G 13/04) [2006.01]"
+  },
+  {
+    "code": "G01G 15/04",
+    "description": "••con posibilidad de añadir o de retirar una cantidad deseada del producto para obtener el peso bruto deseado (medios de llenado gota a gota para aparatos de pesada automática de dosis G01G 13/04) [2006.01]"
+  },
+  {
+    "code": "G01G 17/00",
+    "description": "Aparatos o métodos para pesar un producto que tiene una forma o propiedades especiales (determinación del peso midiendo el volumen G01F) [2006.01]"
+  },
+  {
+    "code": "G01G 17/02",
+    "description": "••para pesar un producto en forma de filamento o de hoja [2006.01]"
+  },
+  {
+    "code": "G01G 17/04",
+    "description": "••para pesar fluidos, p. ej. gases, productos pastosos [2006.01]"
+  },
+  {
+    "code": "G01G 17/06",
+    "description": "••••teniendo medios para controlar el llenado o el vaciado [2006.01]"
+  },
+  {
+    "code": "G01G 17/08",
+    "description": "••para pesar ganado [2006.01]"
+  },
+  {
+    "code": "G01G 19/00",
+    "description": "Aparatos o métodos de pesada adaptados a fines particulares no previstos en los grupos G01G 11/00-G01G 17/00 [2006.01]"
+  },
+  {
+    "code": "G01G 19/02",
+    "description": "••para pesar objetos de ruedas o rodantes, p. ej. vehículos [2006.01]"
+  },
+  {
+    "code": "G01G 19/03",
+    "description": "••••para pesar durante el movimiento (G01G 19/04, G01G 19/07 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G01G 19/04",
+    "description": "••••para pesar vehículos de ferrocarril [2006.01]"
+  },
+  {
+    "code": "G01G 19/06",
+    "description": "••••••sobre raíles aéreos [2006.01]"
+  },
+  {
+    "code": "G01G 19/07",
+    "description": "••••para pesar aviones [2006.01]"
+  },
+  {
+    "code": "G01G 19/08",
+    "description": "••para incorporación en vehículos [2006.01]"
+  },
+  {
+    "code": "G01G 19/10",
+    "description": "••••teniendo dispositivos fluidos sensibles al peso [2006.01]"
+  },
+  {
+    "code": "G01G 19/12",
+    "description": "••••teniendo dispositivos eléctricos sensibles al peso [2006.01]"
+  },
+  {
+    "code": "G01G 19/14",
+    "description": "••para pesar cargas suspendidas (G01G 3/00 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01G 19/16",
+    "description": "••••teniendo dispositivos fluidos sensibles al peso [2006.01]"
+  },
+  {
+    "code": "G01G 19/18",
+    "description": "••••teniendo dispositivos eléctricos sensibles al peso [2006.01]"
+  },
+  {
+    "code": "G01G 19/20",
+    "description": "••••para pesar cargas no equilibradas [2006.01]"
+  },
+  {
+    "code": "G01G 19/22",
+    "description": "••para la dosificación de productos por pesada antes de mezclarlos [2006.01]"
+  },
+  {
+    "code": "G01G 19/24",
+    "description": "••••utilizando un aparato para pesar único [2006.01]"
+  },
+  {
+    "code": "G01G 19/26",
+    "description": "••••••combinando con dos o más astiles provistos de contrapesos [2006.01]"
+  },
+  {
+    "code": "G01G 19/28",
+    "description": "••••••teniendo dispositivos fluidos sensibles al peso [2006.01]"
+  },
+  {
+    "code": "G01G 19/30",
+    "description": "••••••teniendo dispositivos eléctricos sensibles al peso [2006.01]"
+  },
+  {
+    "code": "G01G 19/32",
+    "description": "••••utilizando dos o más aparatos pesadores [2006.01]"
+  },
+  {
+    "code": "G01G 19/34",
+    "description": "••••con medios de control eléctricos [2006.01]"
+  },
+  {
+    "code": "G01G 19/36",
+    "description": "••••con medios de control mecánicos [2006.01]"
+  },
+  {
+    "code": "G01G 19/38",
+    "description": "••••controlados por un programa, p. ej. por una cinta perforada [2006.01]"
+  },
+  {
+    "code": "G01G 19/387",
+    "description": "••para pesar por combinación, es decir eligiendo una combinación de artículos cuyo número o peso total resulta más próximo a un valor deseado [2006.01]"
+  },
+  {
+    "code": "G01G 19/393",
+    "description": "••••utilizando varias unidades de pesaje [2006.01]"
+  },
+  {
+    "code": "G01G 19/40",
+    "description": "••con disposiciones para indicar, registrar o calcular un precio u otras cantidades que dependen del peso (medios indicadores para aparatos de pesar G01G 23/18; medios de registro para aparatos de pesar G01G 23/18) [2006.01]"
+  },
+  {
+    "code": "G01G 19/41",
+    "description": "••••utilizando medios de cálculo mecánico [2006.01]"
+  },
+  {
+    "code": "G01G 19/413",
+    "description": "••••utilizando medios de cálculo electromecánico o electrónicos [2006.01]"
+  },
+  {
+    "code": "G01G 19/414",
+    "description": "••••••utilizando únicamente medios de cálculo electrónicos [2006.01]"
+  },
+  {
+    "code": "G01G 19/415",
+    "description": "••••••••combinados con medios de registro [2006.01]"
+  },
+  {
+    "code": "G01G 19/417",
+    "description": "••••con dispositivos para controlar la parte calculadora de la balanza [2006.01]"
+  },
+  {
+    "code": "G01G 19/42",
+    "description": "••••para contar por pesada (G01G 19/387 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01G 19/44",
+    "description": "••para pesar personas [2006.01]"
+  },
+  {
+    "code": "G01G 19/46",
+    "description": "••••Balanzas de resorte especialmente adaptadas para este fin [2006.01]"
+  },
+  {
+    "code": "G01G 19/48",
+    "description": "••••Balanzas de péndulo especialmente adaptadas para este fin [2006.01]"
+  },
+  {
+    "code": "G01G 19/50",
+    "description": "••••teniendo dispositivos de medida suplementarios, p. ej. para medir la talla [2006.01]"
+  },
+  {
+    "code": "G01G 19/52",
+    "description": "••Aparatos para pesar combinados con otros objetos, p. ej. con el amueblado (con bastones A45B 3/08) [2006.01]"
+  },
+  {
+    "code": "G01G 19/54",
+    "description": "••••combinados con accesorios de oficina o cortapapeles [2006.01]"
+  },
+  {
+    "code": "G01G 19/56",
+    "description": "••••combinados con mangos de herramientas o con utensilios domésticos [2006.01]"
+  },
+  {
+    "code": "G01G 19/58",
+    "description": "••••combinados con mangos de maleta o de baúl [2006.01]"
+  },
+  {
+    "code": "G01G 19/60",
+    "description": "••••combinados con equipos para la pesca, p. ej. con cañas de pescar [2006.01]"
+  },
+  {
+    "code": "G01G 19/62",
+    "description": "••Aparatos de pesada que indican que un peso determinado no es alcanzado o que es rebasado [2006.01]"
+  },
+  {
+    "code": "G01G 19/64",
+    "description": "••Aparatos de pesada que dan una indicación en porcentaje, es decir, expresan el peso en porcentaje respecto a un peso predeterminado o a un peso inicial [2006.01]"
+  },
+  {
+    "code": "G01G 21/00",
+    "description": "Partes constitutivas de los aparatos de pesar [2006.01]"
+  },
+  {
+    "code": "G01G 21/02",
+    "description": "••Disposiciones de cojinetes [2006.01]"
+  },
+  {
+    "code": "G01G 21/04",
+    "description": "••••de cojinetes de cuchillas [2006.01]"
+  },
+  {
+    "code": "G01G 21/06",
+    "description": "••••de cojinetes de bolas o rodillos [2006.01]"
+  },
+  {
+    "code": "G01G 21/07",
+    "description": "••••de cojinetes de lámina flexible [2006.01]"
+  },
+  {
+    "code": "G01G 21/08",
+    "description": "••••Soportes de cojinetes o medios de regulación para ellos [2006.01]"
+  },
+  {
+    "code": "G01G 21/10",
+    "description": "••••Suspensiones flotantes; Disposiciones de amortiguadores [2006.01]"
+  },
+  {
+    "code": "G01G 21/12",
+    "description": "••••Dispositivos para prevenir un desarreglo [2006.01]"
+  },
+  {
+    "code": "G01G 21/14",
+    "description": "••Astiles [2006.01]"
+  },
+  {
+    "code": "G01G 21/16",
+    "description": "••••de construcción compuesta; Conexión entre diferentes astiles [2006.01]"
+  },
+  {
+    "code": "G01G 21/18",
+    "description": "••Articulación de unión entre el astil y la bandeja pesadora [2006.01]"
+  },
+  {
+    "code": "G01G 21/20",
+    "description": "••••para los aparatos de pesada de precisión [2006.01]"
+  },
+  {
+    "code": "G01G 21/22",
+    "description": "••Bandejas u otros recipientes pesadores; Plataformas pesadoras [2006.01]"
+  },
+  {
+    "code": "G01G 21/23",
+    "description": "••Soportes o suspensiones de plataformas de pesada (G01G 21/24 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01G 21/24",
+    "description": "••Guías o articulaciones para asegurar un desplazamiento paralelo de las bandejas pesadoras [2006.01]"
+  },
+  {
+    "code": "G01G 21/26",
+    "description": "••Contrapesos; Pesos; Series de pesos; Soportes para pesos [2006.01]"
+  },
+  {
+    "code": "G01G 21/28",
+    "description": "••Armazones; Carcasas [2006.01]"
+  },
+  {
+    "code": "G01G 21/30",
+    "description": "••Medios para impedir la contaminación por el polvo [2006.01]"
+  },
+  {
+    "code": "G01G 23/00",
+    "description": "Dispositivos accesorios para aparatos pesadores [2006.01]"
+  },
+  {
+    "code": "G01G 23/01",
+    "description": "••Ensayo o calibrado de aparatos para pesar [2006.01]"
+  },
+  {
+    "code": "G01G 23/02",
+    "description": "••Mecanismos de desenganche; Mecanismos de bloqueo [2006.01]"
+  },
+  {
+    "code": "G01G 23/04",
+    "description": "••••para aparatos de pesada de precisión [2006.01]"
+  },
+  {
+    "code": "G01G 23/06",
+    "description": "••Medios para amortiguar las oscilaciones, p. ej. de fieles [2006.01]"
+  },
+  {
+    "code": "G01G 23/08",
+    "description": "••••por medio de un fluido [2006.01]"
+  },
+  {
+    "code": "G01G 23/10",
+    "description": "••••por medios eléctricos o magnéticos [2006.01]"
+  },
+  {
+    "code": "G01G 23/12",
+    "description": "••••especialmente adaptados para impedir oscilaciones debidas al movimiento de la carga [2006.01]"
+  },
+  {
+    "code": "G01G 23/14",
+    "description": "••Dispositivos para determinar el peso de la tara o para anular la tara por vuelta a cero, p. ej. por una operación mecánica (en conexión con una carga automática G01G 13/14) [2006.01]"
+  },
+  {
+    "code": "G01G 23/16",
+    "description": "••••por una operación eléctrica o magnética [2006.01]"
+  },
+  {
+    "code": "G01G 23/18",
+    "description": "••Dispositivos indicadores, p. ej. para indicación remota; Dispositivos registradores; Escalas, p. ej. graduadas [2006.01]"
+  },
+  {
+    "code": "G01G 23/20",
+    "description": "••••que indican el peso por medios mecánicos [2006.01]"
+  },
+  {
+    "code": "G01G 23/22",
+    "description": "••••••combinados con indicadores de precio [2006.01]"
+  },
+  {
+    "code": "G01G 23/24",
+    "description": "••••••con escalas logarítmicas [2006.01]"
+  },
+  {
+    "code": "G01G 23/26",
+    "description": "••••••Control del órgano indicador, p. ej. amplificadores mecánicos [2006.01]"
+  },
+  {
+    "code": "G01G 23/28",
+    "description": "••••••que tienen señales auxiliares o de memoria [2006.01]"
+  },
+  {
+    "code": "G01G 23/30",
+    "description": "••••••con medios de iluminación de la graduación [2006.01]"
+  },
+  {
+    "code": "G01G 23/32",
+    "description": "••••que indican el peso por medios de proyección óptica [2006.01]"
+  },
+  {
+    "code": "G01G 23/34",
+    "description": "••••••combinados con indicadores de precio [2006.01]"
+  },
+  {
+    "code": "G01G 23/35",
+    "description": "••••que indican el peso por registro fotográfico [2006.01]"
+  },
+  {
+    "code": "G01G 23/36",
+    "description": "••••que indican el peso por medios eléctricos, p. ej. por utilización de células fotoeléctricas [2006.01]"
+  },
+  {
+    "code": "G01G 23/365",
+    "description": "••••••que implican una comparación con un valor de referencia (G01G 23/37 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01G 23/37",
+    "description": "••••••que implican un cómputo digital [2006.01]"
+  },
+  {
+    "code": "G01G 23/375",
+    "description": "••••••••durante el desplazamiento de un elemento codificado [2006.01]"
+  },
+  {
+    "code": "G01G 23/38",
+    "description": "••••Dispositivos de registro o de codificación especialmente adaptados para aparatos de pesar [2006.01]"
+  },
+  {
+    "code": "G01G 23/40",
+    "description": "••••••de funcionamiento mecánico [2006.01]"
+  },
+  {
+    "code": "G01G 23/42",
+    "description": "••••••de funcionamiento eléctrico [2006.01]"
+  },
+  {
+    "code": "G01G 23/44",
+    "description": "••••••••Dispositivos de codificación a este efecto [2006.01]"
+  },
+  {
+    "code": "G01G 23/46",
+    "description": "••••••Dispositivos que impiden el registro mientras el mecanismo de pesada no queda en reposo [2006.01]"
+  },
+  {
+    "code": "G01G 23/48",
+    "description": "••Disposiciones para compensar las variaciones de temperatura (G01G 1/14, G01G 1/42, G01G 3/18 tienen prioridad) [2006.01]"
+  }
+]

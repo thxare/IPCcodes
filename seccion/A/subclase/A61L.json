@@ -1,0 +1,738 @@
+[
+  {
+    "code": "A61L 2/00",
+    "description": "Procedimientos o aparatos para desinfectar o esterilizar materiales u objetos distintos a los productos alimenticios y a las lentes de contacto; Sus accesorios (pulverizadores de desinfectantes A61M; esterilización de envases o del contenido del envase asociado a su contenedor B65B 55/00; tratamiento del agua, agua residual o de alcantarilla C02F; desinfección del papel D21H 21/36; dispositivos de desinfección para retretes E03D; artículos que incluyen accesorios para la desinfección, ver las subclases apropiadas para estos artículos, p. ej. H04R 1/12) [2006.01]"
+  },
+  {
+    "code": "A61L 2/02",
+    "description": "••que utilizan fenómenos físicos [2006.01]"
+  },
+  {
+    "code": "A61L 2/025",
+    "description": "••••Ultrasonidos [2006.01]"
+  },
+  {
+    "code": "A61L 2/03",
+    "description": "••••Corriente eléctrica, p. ej. electrolisis [2006.01]"
+  },
+  {
+    "code": "A61L 2/04",
+    "description": "••••Calor (A61L 2/08 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "A61L 2/06",
+    "description": "••••••Gases calientes [2006.01]"
+  },
+  {
+    "code": "A61L 2/07",
+    "description": "••••••••Vapor [2006.01]"
+  },
+  {
+    "code": "A61L 2/08",
+    "description": "••••Radiaciones [2006.01]"
+  },
+  {
+    "code": "A61L 2/10",
+    "description": "••••••Ultravioleta [2006.01]"
+  },
+  {
+    "code": "A61L 2/12",
+    "description": "••••••Onda corta [2006.01]"
+  },
+  {
+    "code": "A61L 2/14",
+    "description": "••••Plasma, es decir gases ionizados [2006.01]"
+  },
+  {
+    "code": "A61L 2/16",
+    "description": "••que utilizan sustancias químicas [2006.01]"
+  },
+  {
+    "code": "A61L 2/18",
+    "description": "••••Sustancias líquidas [2006.01]"
+  },
+  {
+    "code": "A61L 2/20",
+    "description": "••••Sustancias gaseosas, p. ej. vapores [2006.01]"
+  },
+  {
+    "code": "A61L 2/22",
+    "description": "••••Sustancias en fases, p. ej. humos, aerosoles [2006.01]"
+  },
+  {
+    "code": "A61L 2/23",
+    "description": "••••Sustancias sólidas, p. ej. gránulos, polvos, bloques, tabletas [2006.01]"
+  },
+  {
+    "code": "A61L 2/232",
+    "description": "••••••en capas o recubiertos [2006.01]"
+  },
+  {
+    "code": "A61L 2/235",
+    "description": "••••••celulares, porosos o en forma de espuma [2006.01]"
+  },
+  {
+    "code": "A61L 2/238",
+    "description": "••••••Metales o aleaciones, p. ej. metales oligodinámicos [2006.01]"
+  },
+  {
+    "code": "A61L 2/24",
+    "description": "••Aparatos que utilizan operaciones programadas o automáticas [2006.01]"
+  },
+  {
+    "code": "A61L 2/26",
+    "description": "••Accesorios [2006.01]"
+  },
+  {
+    "code": "A61L 2/28",
+    "description": "••••Dispositivos para comprobar la eficacia de la esterilización o que la esterilización es completa , p. ej. indicadores que cambian de color (aparatos que utilizan enzimas o microorganismos C12M 1/34) [2006.01]"
+  },
+  {
+    "code": "A61L 9/00",
+    "description": "Desinfección, esterilización o desodorización del aire (purificación del aire por medio de mascarillas respiratorias A62B, A62D 9/00; depuración química o biológica de gases residuales B01D 53/34; sistemas de acondicionamiento de aire que incorporan dispositivos de esterilización F24F 3/16,  F24F 8/20) [2006.01]"
+  },
+  {
+    "code": "A61L 9/01",
+    "description": "••Composiciones desodorantes [2006.01]"
+  },
+  {
+    "code": "A61L 9/012",
+    "description": "••••caracterizadas por presentarse en una forma especial, p. ej. geles, emulsiones [2006.01]"
+  },
+  {
+    "code": "A61L 9/013",
+    "description": "••••que contienen extractos animales o vegetales o materia vegetal [2006.01]"
+  },
+  {
+    "code": "A61L 9/014",
+    "description": "••••que contienen material absorbente, p. ej. carbón activado [2006.01]"
+  },
+  {
+    "code": "A61L 9/015",
+    "description": "••que utilizan sustancias gaseosas o en estado de vapor, p. ej. ozono (A61L 9/20 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "A61L 9/02",
+    "description": "••••que utilizan sustancias evaporadas en el aire por calor o combustión [2006.01]"
+  },
+  {
+    "code": "A61L 9/03",
+    "description": "••••••Aparatos correspondientes [2006.01]"
+  },
+  {
+    "code": "A61L 9/04",
+    "description": "••••que utilizan sustancias evaporadas en el aire sin calentamiento [2006.01]"
+  },
+  {
+    "code": "A61L 9/05",
+    "description": "••••••especialmente adaptadas para liberarse por contacto con un líquido, p. ej. para cuartos de baño [2006.01]"
+  },
+  {
+    "code": "A61L 9/12",
+    "description": "••••••Aparatos, p. ej. soportes al efecto [2006.01]"
+  },
+  {
+    "code": "A61L 9/14",
+    "description": "••que utilizan sustancias vaporizadas o pulverizadas [2006.01]"
+  },
+  {
+    "code": "A61L 9/16",
+    "description": "••que utilizan fenómenos físicos [2006.01]"
+  },
+  {
+    "code": "A61L 9/18",
+    "description": "••••Radiaciones (A61L 9/22 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "A61L 9/20",
+    "description": "••••••Ultravioletas [2006.01]"
+  },
+  {
+    "code": "A61L 9/22",
+    "description": "••••Ionización [2006.01]"
+  },
+  {
+    "code": "A61L 11/00",
+    "description": "Métodos de desinfección o esterilización especialmente destinados a residuos [2006.01]"
+  },
+  {
+    "code": "A61L 12/00",
+    "description": "Métodos o aparatos para desinfectar o esterilizar lentes de contacto; Accesorios correspondientes [2006.01]"
+  },
+  {
+    "code": "A61L 12/02",
+    "description": "••que utilizan fenómenos físicos, p. ej. electricidad, ultrasonidos o ultrafiltración [2006.01]"
+  },
+  {
+    "code": "A61L 12/04",
+    "description": "••••Calor (A61L 12/06 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "A61L 12/06",
+    "description": "••••Radiación, p. ej. ultravioleta o microondas [2006.01]"
+  },
+  {
+    "code": "A61L 12/08",
+    "description": "••que utilizan sustancias químicas [2006.01]"
+  },
+  {
+    "code": "A61L 12/10",
+    "description": "••••Halógenos o sus compuestos [2006.01]"
+  },
+  {
+    "code": "A61L 12/12",
+    "description": "••••Compuestos no macromoleculares que contienen oxígeno, p. ej. peróxido de hidrógeno u ozono (A61L 12/10 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "A61L 12/14",
+    "description": "••••Compuestos orgánicos no cubiertos por los grupos A61L 12/10o A61L 12/12 [2006.01]"
+  },
+  {
+    "code": "A61L 15/00",
+    "description": "Aspectos químicos de vendas, apósitos o compresas absorbentes o utilización de materiales para su fabricación (para vendas líquidas A61L 26/00; apósitos radiactivos A61M 36/14) [2006.01]"
+  },
+  {
+    "code": "A61L 15/07",
+    "description": "••Vendas que adquieren rigidez [2006.01]"
+  },
+  {
+    "code": "A61L 15/08",
+    "description": "••••que contienen materiales inorgánicos, p. ej. escayola [2006.01]"
+  },
+  {
+    "code": "A61L 15/10",
+    "description": "••••que contienen materiales orgánicos [2006.01]"
+  },
+  {
+    "code": "A61L 15/12",
+    "description": "••••que contienen materiales macromoleculares [2006.01]"
+  },
+  {
+    "code": "A61L 15/14",
+    "description": "••••Utilización de materiales caracterizados por su función o sus propiedades físicas [2006.01]"
+  },
+  {
+    "code": "A61L 15/16",
+    "description": "••Vendas, apósitos o compresas absorbentes para fluidos fisiológicos tales como orina, sangre, p. ej. paños higiénicos, tampones [2006.01]"
+  },
+  {
+    "code": "A61L 15/18",
+    "description": "••••que contienen materiales inorgánicos [2006.01]"
+  },
+  {
+    "code": "A61L 15/20",
+    "description": "••••que contienen materiales orgánicos [2006.01]"
+  },
+  {
+    "code": "A61L 15/22",
+    "description": "••••que contienen materiales macromoleculares [2006.01]"
+  },
+  {
+    "code": "A61L 15/24",
+    "description": "••••••Compuestos macromoleculares obtenidos por reacciones en las que intervienen solamente enlaces insaturados carbono-carbono; Sus derivados [2006.01]"
+  },
+  {
+    "code": "A61L 15/26",
+    "description": "••••••Compuestos macromoleculares obtenidos por reacciones distintas a aquellas en las que intervienen solamente enlaces insaturados carbono-carbono; Sus derivados [2006.01]"
+  },
+  {
+    "code": "A61L 15/28",
+    "description": "••••••Polisacáridos o sus derivados [2006.01]"
+  },
+  {
+    "code": "A61L 15/30",
+    "description": "••••••Cauchos o sus derivados [2006.01]"
+  },
+  {
+    "code": "A61L 15/32",
+    "description": "••••••Proteínas, polipéptidos; Sus productos de degradación o sus derivados, p. ej. albúmina, colágeno, fibrina, gelatina [2006.01]"
+  },
+  {
+    "code": "A61L 15/34",
+    "description": "••••••Aceites, grasas, ceras o resinas naturales [2006.01]"
+  },
+  {
+    "code": "A61L 15/36",
+    "description": "••••que contienen microorganismos [2006.01]"
+  },
+  {
+    "code": "A61L 15/38",
+    "description": "••••que contienen enzimas [2006.01]"
+  },
+  {
+    "code": "A61L 15/40",
+    "description": "••••que contienen ingredientes de constitución indeterminada o sus productos de reacción [2006.01]"
+  },
+  {
+    "code": "A61L 15/42",
+    "description": "••••Utilización de materiales caracterizados por su función o sus propiedades físicas [2006.01]"
+  },
+  {
+    "code": "A61L 15/44",
+    "description": "••••••Medicamentos [2006.01]"
+  },
+  {
+    "code": "A61L 15/46",
+    "description": "••••••Desodorantes o productos para neutralizar los malos olores, p. ej. para inhibir la formación de amoniaco o la multiplicación de bacterias [2006.01]"
+  },
+  {
+    "code": "A61L 15/48",
+    "description": "••••••Tensioactivos [2006.01]"
+  },
+  {
+    "code": "A61L 15/50",
+    "description": "••••••Lubricantes; Agentes antiadhesivos [2006.01]"
+  },
+  {
+    "code": "A61L 15/52",
+    "description": "••••••Repelentes de agua [2006.01]"
+  },
+  {
+    "code": "A61L 15/54",
+    "description": "••••••Materiales radio-opacos [2006.01]"
+  },
+  {
+    "code": "A61L 15/56",
+    "description": "••••••Indicadores de humedad o colorantes [2006.01]"
+  },
+  {
+    "code": "A61L 15/58",
+    "description": "••••••Adhesivos (adhesivos conductores de la electricidad que se utilizan en terapia o en examen in vivo\n\t\t\t\t\t\t\t\t\t\t\t\tA61K 50/00) [2006.01]"
+  },
+  {
+    "code": "A61L 15/60",
+    "description": "••••••Materiales que se hinchan con los líquidos para formar un gel, p. ej. superabsorbentes [2006.01]"
+  },
+  {
+    "code": "A61L 15/62",
+    "description": "••••••Materiales hidrosolubles o hidrodegradables [2006.01]"
+  },
+  {
+    "code": "A61L 15/64",
+    "description": "••••••especialmente adaptados para ser reabsorbibles en el interior del cuerpo [2006.01]"
+  },
+  {
+    "code": "A61L 17/00",
+    "description": "Materiales para sutura quirúrgica o para ligar los vasos sanguíneos [2006.01]"
+  },
+  {
+    "code": "A61L 17/04",
+    "description": "••Materiales no reabsorbibles [2006.01]"
+  },
+  {
+    "code": "A61L 17/06",
+    "description": "••Materiales al menos parcialmente reabsorbibles [2006.01]"
+  },
+  {
+    "code": "A61L 17/08",
+    "description": "••••de origen animal, p. ej. catgut, colágeno [2006.01]"
+  },
+  {
+    "code": "A61L 17/10",
+    "description": "••••que contienen materiales macromoleculares [2006.01]"
+  },
+  {
+    "code": "A61L 17/12",
+    "description": "••••••glicólico o láctico [2006.01]"
+  },
+  {
+    "code": "A61L 17/14",
+    "description": "••Tratamiento posterior para mejorar las propiedades físicas [2006.01]"
+  },
+  {
+    "code": "A61L 24/00",
+    "description": "Adhesivos o cementos quirúrgicos; Adhesivos para dispositivos de colostomía (adhesivos conductores de la electricidad que se utilizan en terapia o examen en vivo\n\t\t\t\t\t\t\t\t\tA61K 50/00) [2006.01]"
+  },
+  {
+    "code": "A61L 24/02",
+    "description": "••que contienen materiales inorgánicos [2006.01]"
+  },
+  {
+    "code": "A61L 24/04",
+    "description": "••que contienen materiales macromoleculares [2006.01]"
+  },
+  {
+    "code": "A61L 24/06",
+    "description": "••••obtenidos mediante reacciones en las que sólo participan enlaces insaturados carbono-carbono [2006.01]"
+  },
+  {
+    "code": "A61L 24/08",
+    "description": "••••Polisacáridos [2006.01]"
+  },
+  {
+    "code": "A61L 24/10",
+    "description": "••••Polipéptidos; Proteínas [2006.01]"
+  },
+  {
+    "code": "A61L 24/12",
+    "description": "••••Cementos ionómeros, p. ej. cementos vidrio-ionómero [2006.01]"
+  },
+  {
+    "code": "A61L 26/00",
+    "description": "Aspectos químicos de, o empleo de materiales para vendas líquidas [2006.01]"
+  },
+  {
+    "code": "A61L 27/00",
+    "description": "Materiales para prótesis o para revestimiento de prótesis (prótesis dentales A61C 13/00; forma o estructura de las prótesis A61F 2/00; empleo de preparaciones para la fabricación de dientes artificiales A61K 6/80; riñones artificiales A61M 1/14) [2006.01]"
+  },
+  {
+    "code": "A61L 27/02",
+    "description": "••Materiales inorgánicos [2006.01]"
+  },
+  {
+    "code": "A61L 27/04",
+    "description": "••••Metales o aleaciones [2006.01]"
+  },
+  {
+    "code": "A61L 27/06",
+    "description": "••••••Titanio o sus aleaciones [2006.01]"
+  },
+  {
+    "code": "A61L 27/08",
+    "description": "••••Carbono [2006.01]"
+  },
+  {
+    "code": "A61L 27/10",
+    "description": "••••Cerámicas o vidrios [2006.01]"
+  },
+  {
+    "code": "A61L 27/12",
+    "description": "••••Materiales que contienen fósforo, p. ej. apatito [2006.01]"
+  },
+  {
+    "code": "A61L 27/14",
+    "description": "••Materiales macromoleculares [2006.01]"
+  },
+  {
+    "code": "A61L 27/16",
+    "description": "••••obtenidos mediante reacciones en las que sólo participan enlaces insaturados carbono-carbono [2006.01]"
+  },
+  {
+    "code": "A61L 27/18",
+    "description": "••••obtenidos de otro modo que no sea mediante reacciones en las que sólo participan enlaces insaturados carbono-carbono [2006.01]"
+  },
+  {
+    "code": "A61L 27/20",
+    "description": "••••Polisacáridos [2006.01]"
+  },
+  {
+    "code": "A61L 27/22",
+    "description": "••••Polipéptidos o sus derivados [2006.01]"
+  },
+  {
+    "code": "A61L 27/24",
+    "description": "••••••Colágeno [2006.01]"
+  },
+  {
+    "code": "A61L 27/26",
+    "description": "••••Mezclas de materiales macromoleculares [2006.01]"
+  },
+  {
+    "code": "A61L 27/28",
+    "description": "••Materiales para el revestimiento de prótesis [2006.01]"
+  },
+  {
+    "code": "A61L 27/30",
+    "description": "••••Materiales inorgánicos [2006.01]"
+  },
+  {
+    "code": "A61L 27/32",
+    "description": "••••••Materiales que contienen fósforo, p. ej. apatito [2006.01]"
+  },
+  {
+    "code": "A61L 27/34",
+    "description": "••••Materiales macromoleculares [2006.01]"
+  },
+  {
+    "code": "A61L 27/36",
+    "description": "••que contienen ingredientes de composición indeterminada o sus productos de reacción [2006.01]"
+  },
+  {
+    "code": "A61L 27/38",
+    "description": "••••Células animales (para utilizar en piel artificial A61L 27/60) [2006.01]"
+  },
+  {
+    "code": "A61L 27/40",
+    "description": "••Materiales compuestos, p.ej. estratificados o que contienen un material disperso en una matriz del mismo material o de un material diferente [2006.01]"
+  },
+  {
+    "code": "A61L 27/42",
+    "description": "••••que tienen una matriz inorgánica [2006.01]"
+  },
+  {
+    "code": "A61L 27/44",
+    "description": "••••que tienen una matriz macromolecular [2006.01]"
+  },
+  {
+    "code": "A61L 27/46",
+    "description": "••••••con cargas inorgánicas que contienen fósforo [2006.01]"
+  },
+  {
+    "code": "A61L 27/48",
+    "description": "••••••con cargas macromoleculares [2006.01]"
+  },
+  {
+    "code": "A61L 27/50",
+    "description": "••Materiales caracterizados por su función o por sus propiedades físicas [2006.01]"
+  },
+  {
+    "code": "A61L 27/52",
+    "description": "••••Hidrogeles o hidrocoloides [2006.01]"
+  },
+  {
+    "code": "A61L 27/54",
+    "description": "••••Materiales biológicamente activos, p. ej. sustancias terapéuticas [2006.01]"
+  },
+  {
+    "code": "A61L 27/56",
+    "description": "••••Materiales porosos o celulares [2006.01]"
+  },
+  {
+    "code": "A61L 27/58",
+    "description": "••••Materiales al menos parcialmente reabsorbibles por el organismo [2006.01]"
+  },
+  {
+    "code": "A61L 27/60",
+    "description": "••••Materiales utilizables en piel artificial [2006.01]"
+  },
+  {
+    "code": "A61L 28/00",
+    "description": "Materiales para dispositivos de colostomía (adhesivos para dispositivos de colostomía A61L 24/00) [2006.01]"
+  },
+  {
+    "code": "A61L 29/00",
+    "description": "Materiales para catéteres o para su revestimiento (forma o estructura de los catéteres A61M 25/00) [2006.01]"
+  },
+  {
+    "code": "A61L 29/02",
+    "description": "••Materiales inorgánicos [2006.01]"
+  },
+  {
+    "code": "A61L 29/04",
+    "description": "••Materiales macromoleculares [2006.01]"
+  },
+  {
+    "code": "A61L 29/06",
+    "description": "••••obtenidos de otro modo que no sea mediante reacciones en las que sólo participan enlaces insaturados carbono-carbono [2006.01]"
+  },
+  {
+    "code": "A61L 29/08",
+    "description": "••Materiales para revestimientos [2006.01]"
+  },
+  {
+    "code": "A61L 29/10",
+    "description": "••••Materiales inorgánicos [2006.01]"
+  },
+  {
+    "code": "A61L 29/12",
+    "description": "••Materiales compuestos, p. ej. estratificados o que contienen un material disperso en una matriz del mismo material o de un material diferente [2006.01]"
+  },
+  {
+    "code": "A61L 29/14",
+    "description": "••Materiales caracterizados por su función o por sus propiedades físicas [2006.01]"
+  },
+  {
+    "code": "A61L 29/16",
+    "description": "••••Materiales biológicamente activos, p. ej. sustancias terapéuticas [2006.01]"
+  },
+  {
+    "code": "A61L 29/18",
+    "description": "••••Materiales al menos parcialmente opacos a los rayos X o al láser [2006.01]"
+  },
+  {
+    "code": "A61L 31/00",
+    "description": "Materiales para otros artículos quirúrgicos [2006.01]"
+  },
+  {
+    "code": "A61L 31/02",
+    "description": "••Materiales inorgánicos [2006.01]"
+  },
+  {
+    "code": "A61L 31/04",
+    "description": "••Materiales macromoleculares [2006.01]"
+  },
+  {
+    "code": "A61L 31/06",
+    "description": "••••obtenidos de otro modo que no sea mediante reacciones en las que sólo participan enlaces insaturados carbono-carbono [2006.01]"
+  },
+  {
+    "code": "A61L 31/08",
+    "description": "••Materiales para revestimientos [2006.01]"
+  },
+  {
+    "code": "A61L 31/10",
+    "description": "••••Materiales macromoleculares [2006.01]"
+  },
+  {
+    "code": "A61L 31/12",
+    "description": "••Materiales compuestos, p. ej. estratificados o que contienen un material disperso en una matriz del mismo material o de un material diferente [2006.01]"
+  },
+  {
+    "code": "A61L 31/14",
+    "description": "••Materiales caracterizados por su función o por sus propiedades físicas [2006.01]"
+  },
+  {
+    "code": "A61L 31/16",
+    "description": "••••Materiales biológicamente activos, p. ej. sustancias terapéuticas [2006.01]"
+  },
+  {
+    "code": "A61L 31/18",
+    "description": "••••Materiales al menos parcialmente opacos a los rayos X o al láser [2006.01]"
+  },
+  {
+    "code": "A61L 33/00",
+    "description": "Tratamiento antitrombogénico de artículos quirúrgicos, p. ej. de suturas, catéteres, prótesis o de artículos para la manipulación o el acondicionamiento de la sangre; Materiales para llevar a cabo dicho tratamiento [2006.01]"
+  },
+  {
+    "code": "A61L 33/02",
+    "description": "••Empleo de materiales inorgánicos [2006.01]"
+  },
+  {
+    "code": "A61L 33/04",
+    "description": "••Empleo de materiales orgánicos, p. ej. ácido acetilsalicílico [2006.01]"
+  },
+  {
+    "code": "A61L 33/06",
+    "description": "••Empleo de materiales macromoleculares [2006.01]"
+  },
+  {
+    "code": "A61L 33/08",
+    "description": "••••Polisacáridos [2006.01]"
+  },
+  {
+    "code": "A61L 33/10",
+    "description": "••••••Heparina, heparinoide o sus derivados [2006.01]"
+  },
+  {
+    "code": "A61L 33/12",
+    "description": "••••Polipéptidos, proteínas o sus derivados [2006.01]"
+  },
+  {
+    "code": "A61L 33/14",
+    "description": "••Empleo de agentes fibrinolíticos o de inhibidores de la agregación plaquetaria [2006.01]"
+  },
+  {
+    "code": "A61L 33/16",
+    "description": "••Empleo de enzimas, p. ej. uroquinasa, estreptoquinasa [2006.01]"
+  },
+  {
+    "code": "A61L 33/18",
+    "description": "••Empleo de ingredientes de composición indeterminada o de sus productos de reacción [2006.01]"
+  },
+  {
+    "code": "A61L 101/00",
+    "description": "Composición química de los materiales empleados para desinfección, esterilización o desodorización [2006.01]"
+  },
+  {
+    "code": "A61L 101/02",
+    "description": "••Materiales inorgánicos [2006.01]"
+  },
+  {
+    "code": "A61L 101/04",
+    "description": "••••Carbono elemental, p. ej. carbón activo [2006.01]"
+  },
+  {
+    "code": "A61L 101/06",
+    "description": "••••que contienen halógeno [2006.01]"
+  },
+  {
+    "code": "A61L 101/08",
+    "description": "••••••halógeno elemental [2006.01]"
+  },
+  {
+    "code": "A61L 101/10",
+    "description": "••••Ozono [2006.01]"
+  },
+  {
+    "code": "A61L 101/12",
+    "description": "••••que contienen silicio [2006.01]"
+  },
+  {
+    "code": "A61L 101/14",
+    "description": "••••que contienen azufre [2006.01]"
+  },
+  {
+    "code": "A61L 101/16",
+    "description": "••••que contienen fósforo [2006.01]"
+  },
+  {
+    "code": "A61L 101/18",
+    "description": "••••Amoniaco [2006.01]"
+  },
+  {
+    "code": "A61L 101/20",
+    "description": "••••ácidos [2006.01]"
+  },
+  {
+    "code": "A61L 101/22",
+    "description": "••••Peróxidos [2006.01]"
+  },
+  {
+    "code": "A61L 101/24",
+    "description": "••••que contienen aluminio [2006.01]"
+  },
+  {
+    "code": "A61L 101/26",
+    "description": "••••que contienen cobre [2006.01]"
+  },
+  {
+    "code": "A61L 101/28",
+    "description": "••••que contienen hierro [2006.01]"
+  },
+  {
+    "code": "A61L 101/30",
+    "description": "••••que contienen zinc [2006.01]"
+  },
+  {
+    "code": "A61L 101/32",
+    "description": "••Compuestos orgánicos [2006.01]"
+  },
+  {
+    "code": "A61L 101/34",
+    "description": "••••Compuestos hidroxilados [2006.01]"
+  },
+  {
+    "code": "A61L 101/36",
+    "description": "••••ácidos carboxílicos o sus derivados [2006.01]"
+  },
+  {
+    "code": "A61L 101/38",
+    "description": "••••Eteres [2006.01]"
+  },
+  {
+    "code": "A61L 101/40",
+    "description": "••••que contienen azufre [2006.01]"
+  },
+  {
+    "code": "A61L 101/42",
+    "description": "••••Compuestos o complejos organometálicos [2006.01]"
+  },
+  {
+    "code": "A61L 101/44",
+    "description": "••••Compuestos heterocíclicos [2006.01]"
+  },
+  {
+    "code": "A61L 101/46",
+    "description": "••••Compuestos macromoleculares [2006.01]"
+  },
+  {
+    "code": "A61L 101/48",
+    "description": "••••••obtenidos mediante reacciones en las que sólo participan enlaces insaturados carbono-carbono [2006.01]"
+  },
+  {
+    "code": "A61L 101/50",
+    "description": "••••••Polisacáridos o sus derivados [2006.01]"
+  },
+  {
+    "code": "A61L 101/52",
+    "description": "••Microorganismos o sustancias producidas o extraídas a partir de microorganismos [2006.01]"
+  },
+  {
+    "code": "A61L 101/54",
+    "description": "••Enzimas [2006.01]"
+  },
+  {
+    "code": "A61L 101/56",
+    "description": "••Extractos o productos vegetales de composición química indeterminada, p. ej. fibra vegetal [2006.01]"
+  }
+]

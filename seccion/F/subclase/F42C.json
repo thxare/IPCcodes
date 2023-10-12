@@ -1,0 +1,350 @@
+[
+  {
+    "code": "F42C 1/00",
+    "description": "Espoletas de percusión, es decir, espoletas accionadas únicamente por impacto de las municiones [2006.01]"
+  },
+  {
+    "code": "F42C 1/02",
+    "description": "••con un percutor asociado estructuralmente con la espoleta [2006.01]"
+  },
+  {
+    "code": "F42C 1/04",
+    "description": "••••que funciona por inercia de los órganos en el choque [2006.01]"
+  },
+  {
+    "code": "F42C 1/06",
+    "description": "••••••para cualquier dirección del impacto [2006.01]"
+  },
+  {
+    "code": "F42C 1/08",
+    "description": "••••con acción retardada después de la ignición de la espoleta (espoletas de tiempo F42C 9/00) [2006.01]"
+  },
+  {
+    "code": "F42C 1/09",
+    "description": "••••accionando la espoleta una carga propulsiva para proyectar en el aire las municiones o la carga militar, p. ej. en proyectiles rebotantes [2006.01]"
+  },
+  {
+    "code": "F42C 1/10",
+    "description": "••sin percutor [2006.01]"
+  },
+  {
+    "code": "F42C 1/12",
+    "description": "••••de acción retardada después de la ignición de la espoleta (espoletas de tiempo F42C 9/00) [2006.01]"
+  },
+  {
+    "code": "F42C 1/14",
+    "description": "••funcionando a una distancia predeterminada del suelo o del objetivo por medio de un órgano saliente [2006.01]"
+  },
+  {
+    "code": "F42C 3/00",
+    "description": "Espoletas accionadas por contacto de un líquido, p. ej. agua de mar (F42C 5/00 tiene prioridad; espoletas de tiempo F42C 9/00) [2006.01]"
+  },
+  {
+    "code": "F42C 5/00",
+    "description": "Espoletas accionadas por exposición a una presión predeterminada de un fluido ambiente [2006.01]"
+  },
+  {
+    "code": "F42C 5/02",
+    "description": "••por presión barométrica [2006.01]"
+  },
+  {
+    "code": "F42C 7/00",
+    "description": "Espoletas accionadas por aplicación de una fuerza mecánica predeterminada, p. ej. una tensión, una torsión, una presión (por impacto de las municiones F42C 1/00; por exposición a una presión predeterminada de un fluido ambiente F42C 5/00) [2006.01]"
+  },
+  {
+    "code": "F42C 7/02",
+    "description": "••Espoletas de contacto, es decir, espoletas accionadas por el contacto mecánico entre municiones fijas, p. ej. una mina terrestre, y un blanco en movimiento, p. ej. una persona (F42C 7/12 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F42C 7/04",
+    "description": "••••accionadas por aplicación de presión sobre la cabeza de la munición [2006.01]"
+  },
+  {
+    "code": "F42C 7/06",
+    "description": "••••••y que incluyen dispositivos de retardo neumáticos o hidráulicos [2006.01]"
+  },
+  {
+    "code": "F42C 7/08",
+    "description": "••••del tipo de disparo por liberación, es decir, accionadas por la liberación de una presión aplicada sobre la cabeza de la munición [2006.01]"
+  },
+  {
+    "code": "F42C 7/10",
+    "description": "••••del tipo de antena [2006.01]"
+  },
+  {
+    "code": "F42C 7/12",
+    "description": "••Espoletas de percusión del tipo de doble efecto, es decir espoletas armadas y encendidas con un solo movimiento, p. ej. actuando sobre un percutor o sobre la cabeza de un percutor incorporado (cápsulas fulminantes F42C 19/10) [2006.01]"
+  },
+  {
+    "code": "F42C 9/00",
+    "description": "Espoletas de tiempo; Espoletas combinadas de tiempo y de percusión o de presión; Espoletas para la autodestrucción temporizada de municiones [2006.01]"
+  },
+  {
+    "code": "F42C 9/02",
+    "description": "••estando determinado el momento por medios mecánicos [2006.01]"
+  },
+  {
+    "code": "F42C 9/04",
+    "description": "••••por motor de resorte [2006.01]"
+  },
+  {
+    "code": "F42C 9/06",
+    "description": "••••por derrame de un material fluente, p. ej. plomo, un fluido [2006.01]"
+  },
+  {
+    "code": "F42C 9/08",
+    "description": "••estando determinado el momento por una acción química, p. ej. de un ácido [2006.01]"
+  },
+  {
+    "code": "F42C 9/10",
+    "description": "••estando determinado el momento por una combustión [2006.01]"
+  },
+  {
+    "code": "F42C 9/12",
+    "description": "••••con elementos de combustión anulares [2006.01]"
+  },
+  {
+    "code": "F42C 9/14",
+    "description": "••Espoletas dobles; Espoletas múltiples [2006.01]"
+  },
+  {
+    "code": "F42C 9/16",
+    "description": "••••para la autodestrucción de municiones [2006.01]"
+  },
+  {
+    "code": "F42C 9/18",
+    "description": "••••••cuando la velocidad de rotación cae por debajo de un límite predeterminado, p. ej. si la fuerza de un resorte es mayor que la fuerza de bloqueo de un cierre accionado por una fuerza centrífuga [2006.01]"
+  },
+  {
+    "code": "F42C 11/00",
+    "description": "Espoletas eléctricas (espoletas de proximidad F42C 13/00; encendedores eléctricos F42C 19/12) [2006.01]"
+  },
+  {
+    "code": "F42C 11/02",
+    "description": "••de cristal piezo-eléctrico [2006.01]"
+  },
+  {
+    "code": "F42C 11/04",
+    "description": "••de inducción de corriente [2006.01]"
+  },
+  {
+    "code": "F42C 11/06",
+    "description": "••de retardo determinado por circuitos eléctricos [2006.01]"
+  },
+  {
+    "code": "F42C 13/00",
+    "description": "Espoletas de proximidad; Espoletas para explosión a distancia [2006.01]"
+  },
+  {
+    "code": "F42C 13/02",
+    "description": "••accionadas por la intensidad de la luz o de una radiación análoga [2006.01]"
+  },
+  {
+    "code": "F42C 13/04",
+    "description": "••accionadas por radioondas [2006.01]"
+  },
+  {
+    "code": "F42C 13/06",
+    "description": "••accionadas por ondas sonoras [2006.01]"
+  },
+  {
+    "code": "F42C 13/08",
+    "description": "••accionadas por variaciones del campo magnético [2006.01]"
+  },
+  {
+    "code": "F42C 14/00",
+    "description": "Espoletas caracterizadas por la categoría o por el tipo de municiones en cuestión (F42C 1/00, F42C 13/00, F42C 15/00 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "F42C 14/02",
+    "description": "••para granadas de mano [2006.01]"
+  },
+  {
+    "code": "F42C 14/04",
+    "description": "••para torpedos, minas marinas o granadas submarinas (minas marinas por influencia F42B 22/04) [2006.01]"
+  },
+  {
+    "code": "F42C 14/06",
+    "description": "••para bombas aéreas [2006.01]"
+  },
+  {
+    "code": "F42C 14/08",
+    "description": "••para minas terrestres [2006.01]"
+  },
+  {
+    "code": "F42C 15/00",
+    "description": "Dispositivos de armado de las espoletas; Dispositivos de seguridad para impedir una explosión prematura de las espoletas o de las cargas [2006.01]"
+  },
+  {
+    "code": "F42C 15/16",
+    "description": "••en los cuales el percutor se separa de la línea de acción como medida de seguridad (F42C 15/40 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F42C 15/18",
+    "description": "••en los cuales el soporte de un elemento de la cadena pirotécnica o explosiva es móvil (F42C 15/40 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F42C 15/184",
+    "description": "••••siendo el soporte deslizante [2006.01]"
+  },
+  {
+    "code": "F42C 15/188",
+    "description": "••••siendo el soporte rotativo [2006.01]"
+  },
+  {
+    "code": "F42C 15/192",
+    "description": "••••••en un plano paralelo al eje longitudinal del proyectil [2006.01]"
+  },
+  {
+    "code": "F42C 15/196",
+    "description": "••••••••por la acción de fuerzas centrífugas o de inercia sobre el soporte en sí, p. ej. estando el soporte provisto de masas excéntricas o teniendo un centro de gravedad excéntrico [2006.01]"
+  },
+  {
+    "code": "F42C 15/20",
+    "description": "••en los cuales un pasador de seguridad o cerrojo tiene que ser retirado para armar la espoleta, p. ej. separador del percutor (F42C 15/40 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F42C 15/21",
+    "description": "••••utilizando la fuerza de un resorte (F42C 15/23 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F42C 15/22",
+    "description": "••••utilizando la fuerza centrífuga (F42C 15/23 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F42C 15/23",
+    "description": "••••desenrollando un cordón o una cinta flexibles [2006.01]"
+  },
+  {
+    "code": "F42C 15/24",
+    "description": "••en los cuales la acción de seguridad o de armado se efectúa mediante dispositivos de inercia (F42C 15/196, F42C 15/20 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "F42C 15/26",
+    "description": "••••utilizando la fuerza centrífuga [2006.01]"
+  },
+  {
+    "code": "F42C 15/28",
+    "description": "••accionados por el derrame de un material fluente, p. ej. plomo, un fluido (F42C 15/26 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F42C 15/285",
+    "description": "••••alojados en la caja de la espoleta [2006.01]"
+  },
+  {
+    "code": "F42C 15/29",
+    "description": "••••accionados por osciladores fluídicos; Dispositivos de armado o de seguridad accionados por la presión dinámica de un fluido [2006.01]"
+  },
+  {
+    "code": "F42C 15/295",
+    "description": "••••accionados por una turbina o una hélice; Medios de montaje para éstas [2006.01]"
+  },
+  {
+    "code": "F42C 15/30",
+    "description": "••••de gases propulsores, es decir, derivados de la carga propulsiva de un proyectil o de un motor cohético [2006.01]"
+  },
+  {
+    "code": "F42C 15/31",
+    "description": "••••creados por la combustión de una carga pirotécnica o explosiva en el interior de la espoleta [2006.01]"
+  },
+  {
+    "code": "F42C 15/32",
+    "description": "••accionados por un cambio en la presión de un fluido (F42C 5/00, F42C 15/29 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "F42C 15/33",
+    "description": "••••por la ruptura de una ampolla con sobrepresión o con depresión interna [2006.01]"
+  },
+  {
+    "code": "F42C 15/34",
+    "description": "••en los cuales la acción de seguridad o de armado se efectúa por medio de un órgano de bloqueo situado en la cadena pirotécnica o explosiva entre el cebo y la carga explosiva (F42C 15/18, F42C 15/40 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "F42C 15/36",
+    "description": "••en los cuales el armado se produce por la combustión o la fusión de un elemento (F42C 15/31 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F42C 15/38",
+    "description": "••en los cuales el armado se efectúa por acción química (F42C 3/00 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F42C 15/40",
+    "description": "••en los cuales la acción de seguridad o de armado se efectúan eléctricamente [2006.01]"
+  },
+  {
+    "code": "F42C 15/42",
+    "description": "••••por una acción a distancia, p. ej. para minas o campos de minas controlados [2006.01]"
+  },
+  {
+    "code": "F42C 15/44",
+    "description": "••Disposiciones para desarmar espoletas o para volverlas inofensivas después del armado, p. ej. después del lanzamiento [2006.01]"
+  },
+  {
+    "code": "F42C 17/00",
+    "description": "Aparatos para la colocación de las espoletas [2006.01]"
+  },
+  {
+    "code": "F42C 17/02",
+    "description": "••Llaves de colocación de espoletas [2006.01]"
+  },
+  {
+    "code": "F42C 17/04",
+    "description": "••para espoletas eléctricas [2006.01]"
+  },
+  {
+    "code": "F42C 19/00",
+    "description": "Partes constitutivas de las espoletas (medios de armado, medios de seguridad para prevenir la detonación prematura F42C 15/00) [2006.01]"
+  },
+  {
+    "code": "F42C 19/02",
+    "description": "••Cuerpo de las espoletas; Alojamiento de la espoleta [2006.01]"
+  },
+  {
+    "code": "F42C 19/04",
+    "description": "••Caperuzas protectoras [2006.01]"
+  },
+  {
+    "code": "F42C 19/06",
+    "description": "••Piezas de contactos eléctricas adaptadas especialmente para el empleo en espoletas eléctricas [2006.01]"
+  },
+  {
+    "code": "F42C 19/07",
+    "description": "••••Contactores de ojiva para proyectiles [2006.01]"
+  },
+  {
+    "code": "F42C 19/08",
+    "description": "••Cebos (iniciadores para cartuchos de voladura F42B 3/10); Detonadores [2006.01]"
+  },
+  {
+    "code": "F42C 19/085",
+    "description": "••••Cebos para municiones sin vaina [2006.01]"
+  },
+  {
+    "code": "F42C 19/09",
+    "description": "••••Cebos o detonadores provistos de una carga hueca [2006.01]"
+  },
+  {
+    "code": "F42C 19/095",
+    "description": "••••Disposición de varios cebos o detonadores alrededor de una carga militar, seleccionándose uno de los cebos o uno de los detonadores para crear una onda de detonación dirigida [2006.01]"
+  },
+  {
+    "code": "F42C 19/10",
+    "description": "••••Cápsulas fulminantes [2006.01]"
+  },
+  {
+    "code": "F42C 19/12",
+    "description": "••••eléctricas [2006.01]"
+  },
+  {
+    "code": "F42C 19/14",
+    "description": "••••••con la posibilidad de encendido por percusión [2006.01]"
+  },
+  {
+    "code": "F42C 21/00",
+    "description": "Verificación de las espoletas; Ensayo de las espoletas [2006.01]"
+  },
+  {
+    "code": "F42C 99/00",
+    "description": "Materia no prevista en otros grupos de esta subclase [2006.01]"
+  }
+]

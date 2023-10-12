@@ -1,0 +1,654 @@
+[
+  {
+    "code": "B62J 1/00",
+    "description": "Sillines u otros asientos para ciclos; Su disposición; Partes constitutivas [2006.01]"
+  },
+  {
+    "code": "B62J 1/02",
+    "description": "••Sillines montados elásticamente sobre el cuadro; Su aparellaje, p. ej. resortes [2006.01]"
+  },
+  {
+    "code": "B62J 1/04",
+    "description": "••••Sillines que pueden oscilar alrededor de un eje horizontal [2006.01]"
+  },
+  {
+    "code": "B62J 1/06",
+    "description": "••••Sillines que pueden desplazarse por traslación de arriba abajo [2006.01]"
+  },
+  {
+    "code": "B62J 1/08",
+    "description": "••Armaduras de sillines; Ensamblado entre la armadura de sillín y el vástago de asiento; Vástagos de asientos (unión con el cuadro B62K 19/36) [2006.01]"
+  },
+  {
+    "code": "B62J 1/10",
+    "description": "••Regulación interna de sillines [2006.01]"
+  },
+  {
+    "code": "B62J 1/12",
+    "description": "••Asientos en forma de cubeta; Asientos del tipo banco, p. ej. dobles gemelos [2006.01]"
+  },
+  {
+    "code": "B62J 1/14",
+    "description": "••Asientos traseros separados [2006.01]"
+  },
+  {
+    "code": "B62J 1/16",
+    "description": "••••para niños [2006.01]"
+  },
+  {
+    "code": "B62J 1/18",
+    "description": "••Cubiertas para sillines u otros asientos; Colchones [2006.01]"
+  },
+  {
+    "code": "B62J 1/20",
+    "description": "••••Cubiertas móviles; Cojines móviles [2006.01]"
+  },
+  {
+    "code": "B62J 1/22",
+    "description": "••••Guarniciones con colchones incorporados [2006.01]"
+  },
+  {
+    "code": "B62J 1/24",
+    "description": "••••Colchones que tienen resortes de torsión o de flexión [2006.01]"
+  },
+  {
+    "code": "B62J 1/26",
+    "description": "••••Colchones que tienen un material elástico diferente, p. ej. de espuma de caucho con compartimientos hinchables [2006.01]"
+  },
+  {
+    "code": "B62J 1/28",
+    "description": "••Otros accesorios adicionales, p. ej. cuadernos para niños [2006.01]"
+  },
+  {
+    "code": "B62J 3/00",
+    "description": "Dispositivos señalizadores acústicos (disposiciones que indican el uso no autorizado de ciclos B62H 5/20); Disposiciones de dichos dispositivos sobre los ciclos [2020.01]"
+  },
+  {
+    "code": "B62J 3/02",
+    "description": "••Dispositivos mecánicos [2020.01]"
+  },
+  {
+    "code": "B62J 3/04",
+    "description": "••••accionados por el piloto, p. ej. timbres o bocinas [2020.01]"
+  },
+  {
+    "code": "B62J 3/06",
+    "description": "••••accionados por las partes rotativas de los ciclos, p. ej. cascabeles que golpean sobre los radios [2020.01]"
+  },
+  {
+    "code": "B62J 3/08",
+    "description": "••••accionados por el viento generado al circular, p. ej. flautas [2020.01]"
+  },
+  {
+    "code": "B62J 3/10",
+    "description": "••Dispositivos eléctricos [2020.01]"
+  },
+  {
+    "code": "B62J 3/12",
+    "description": "••••Zumbadores; Bocinas con caudal de aire dirigido eléctricamente [2020.01]"
+  },
+  {
+    "code": "B62J 3/14",
+    "description": "••••que indican el funcionamiento de otros dispositivos, p. ej. señales acústicas que indican que las luces están encendidas [2020.01]"
+  },
+  {
+    "code": "B62J 6/00",
+    "description": "Disposiciones de dispositivos de señalización óptica o de iluminación sobre los ciclos; Su montaje o soporte; Sus circuitos [2020.01]"
+  },
+  {
+    "code": "B62J 6/01",
+    "description": "••Circuitos eléctricos [2020.01]"
+  },
+  {
+    "code": "B62J 6/015",
+    "description": "••••que usan energía eléctrica no suministrada por el generador del ciclo motor, p. ej. que usan baterías o elementos piezoeléctricos [2020.01]"
+  },
+  {
+    "code": "B62J 6/02",
+    "description": "••Faros delanteros [2020.01]"
+  },
+  {
+    "code": "B62J 6/022",
+    "description": "••••especialmente adaptados para motocicletas o similares [2020.01]"
+  },
+  {
+    "code": "B62J 6/023",
+    "description": "••••••sensibles al ángulo de inclinación del ciclo, p. ej. cambiando la intensidad o encendiendo las luces de baja intensidad al tomar una curva [2020.01]"
+  },
+  {
+    "code": "B62J 6/024",
+    "description": "••••••Conmutación entre las luces de cruce y las luces largas (disposición de los conmutadores B62J 6/16) [2020.01]"
+  },
+  {
+    "code": "B62J 6/025",
+    "description": "••••••caracterizados por el ajuste vertical de la dirección del haz lumínico, p. ej. para compensar cargas pesadas [2020.01]"
+  },
+  {
+    "code": "B62J 6/026",
+    "description": "••••••caracterizados por la estructura, p. ej. marcos [2020.01]"
+  },
+  {
+    "code": "B62J 6/027",
+    "description": "••••••Por sus medios de soporte, p. ej. soportes de montaje [2020.01]"
+  },
+  {
+    "code": "B62J 6/028",
+    "description": "••••especialmente adaptados para ciclos impulsados por el piloto con o sin fuente de energía adicional [2020.01]"
+  },
+  {
+    "code": "B62J 6/029",
+    "description": "••••••que se caracterizan por la estructura, p. ej. marcos [2020.01]"
+  },
+  {
+    "code": "B62J 6/03",
+    "description": "••••••Medios de soporte, p. ej. soportes de montaje [2020.01]"
+  },
+  {
+    "code": "B62J 6/04",
+    "description": "••Faros traseros [2020.01]"
+  },
+  {
+    "code": "B62J 6/045",
+    "description": "••••que indican la frenada [2020.01]"
+  },
+  {
+    "code": "B62J 6/05",
+    "description": "••Intermitentes [2020.01]"
+  },
+  {
+    "code": "B62J 6/052",
+    "description": "••••Medios mecánicos, p. ej. brazos rotativos [2020.01]"
+  },
+  {
+    "code": "B62J 6/053",
+    "description": "••••••que se accionan por cuerdas o cadenas [2020.01]"
+  },
+  {
+    "code": "B62J 6/054",
+    "description": "••••••que funcionan manualmente [2020.01]"
+  },
+  {
+    "code": "B62J 6/055",
+    "description": "••••Medios eléctricos, p. ej. lámparas [2020.01]"
+  },
+  {
+    "code": "B62J 6/056",
+    "description": "••••••caracterizados por los medios de control [2020.01]"
+  },
+  {
+    "code": "B62J 6/057",
+    "description": "••••••••Activación automática, p. ej. por sensores [2020.01]"
+  },
+  {
+    "code": "B62J 6/06",
+    "description": "••Disposición de dinamos de iluminación o su accionamiento [2006.01]"
+  },
+  {
+    "code": "B62J 6/08",
+    "description": "••••Accionamiento por el neumático [2006.01]"
+  },
+  {
+    "code": "B62J 6/10",
+    "description": "••••Accionamiento por mecanismo (B62J 6/12 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B62J 6/12",
+    "description": "••••Dinamos dispuestas en medio de la rueda [2006.01]"
+  },
+  {
+    "code": "B62J 6/14",
+    "description": "••••Dinamos accionadas por correa [2006.01]"
+  },
+  {
+    "code": "B62J 6/16",
+    "description": "••Disposición de interruptores [2020.01]"
+  },
+  {
+    "code": "B62J 6/165",
+    "description": "••••Interruptores inalámbricos [2020.01]"
+  },
+  {
+    "code": "B62J 6/20",
+    "description": "••Disposiciones de catadióptricos o reflectores (pedales con reflectores B62M 3/12) [2006.01]"
+  },
+  {
+    "code": "B62J 6/22",
+    "description": "••Luces de alerta o información [2020.01]"
+  },
+  {
+    "code": "B62J 6/24",
+    "description": "••••que alertan o informan al piloto, p. ej. luces de aviso de entrada en reserva de combustible [2020.01]"
+  },
+  {
+    "code": "B62J 6/26",
+    "description": "••••que alertan o informan a otros usuarios de la carretera, p. ej. luces de policia [2020.01]"
+  },
+  {
+    "code": "B62J 7/00",
+    "description": "Portamaletas [2006.01]"
+  },
+  {
+    "code": "B62J 7/02",
+    "description": "••caracterizados por su disposición sobre los ciclos [2006.01]"
+  },
+  {
+    "code": "B62J 7/04",
+    "description": "••••que se sitúan encima o detrás de la rueda posterior [2006.01]"
+  },
+  {
+    "code": "B62J 7/06",
+    "description": "••••que se sitúan encima de la rueda delantera, p. ej. en el manillar [2006.01]"
+  },
+  {
+    "code": "B62J 7/08",
+    "description": "••Accesorios de fijación de maletas sobre los soportes [2006.01]"
+  },
+  {
+    "code": "B62J 9/00",
+    "description": "Contenedores especialmente adaptados para ciclos, p. ej. cestas o alforjas [2020.01]"
+  },
+  {
+    "code": "B62J 9/10",
+    "description": "••que van integrados en el ciclo [2020.01]"
+  },
+  {
+    "code": "B62J 9/12",
+    "description": "••••en el carenado [2020.01]"
+  },
+  {
+    "code": "B62J 9/14",
+    "description": "••••debajo del asiento [2020.01]"
+  },
+  {
+    "code": "B62J 9/16",
+    "description": "••••debajo del tablero de suelo [2020.01]"
+  },
+  {
+    "code": "B62J 9/18",
+    "description": "••••en un depósito de combustible falso [2020.01]"
+  },
+  {
+    "code": "B62J 9/20",
+    "description": "••que se fijan al ciclo como accesorios [2020.01]"
+  },
+  {
+    "code": "B62J 9/21",
+    "description": "••••sobre o al lado de la rueda delantera, p. ej. en el manillar [2020.01]"
+  },
+  {
+    "code": "B62J 9/22",
+    "description": "••••entre los tubos del marco principal, p. ej. suspendido del tubo superior [2020.01]"
+  },
+  {
+    "code": "B62J 9/23",
+    "description": "••••encima o al lado de la rueda trasera (B62J 9/26 tiene prioridad) [2020.01]"
+  },
+  {
+    "code": "B62J 9/24",
+    "description": "••••en bacas especialmente adaptadas, p. ej. para llevar las maletas por la parte superior o en los laterales [2020.01]"
+  },
+  {
+    "code": "B62J 9/25",
+    "description": "••••en el depósito de combustible, p. ej. bolsas magnéticas para el depósito [2020.01]"
+  },
+  {
+    "code": "B62J 9/26",
+    "description": "••••en el asiento, p. ej. alforjas [2020.01]"
+  },
+  {
+    "code": "B62J 9/27",
+    "description": "••••caracterizados por los dispositivos de montaje, p. ej. dispositivos de liberación rápida [2020.01]"
+  },
+  {
+    "code": "B62J 9/28",
+    "description": "••••especialmente adaptados para servicios de reparto, p. ej. cajas isotérmicas [2020.01]"
+  },
+  {
+    "code": "B62J 9/30",
+    "description": "••caracterizados por los dispositivos de cierre, p. ej. cerraduras de maleteros superiores integradas en el sistema de cierre centralizado del vehículo [2020.01]"
+  },
+  {
+    "code": "B62J 9/40",
+    "description": "••especialmente adaptados para herramientas o piezas de recambio [2020.01]"
+  },
+  {
+    "code": "B62J 11/00",
+    "description": "Dispositivos portantes especialmente adaptados para amarrar dispositivos específicos sobre ciclos, p. ej. soportes para sujetar mapas [2020.01]"
+  },
+  {
+    "code": "B62J 11/02",
+    "description": "••para bombas [2006.01]"
+  },
+  {
+    "code": "B62J 11/04",
+    "description": "••para botellas [2020.01]"
+  },
+  {
+    "code": "B62J 11/05",
+    "description": "••para artículos deportivos, p. ej. pelotas o palos de golf [2020.01]"
+  },
+  {
+    "code": "B62J 11/10",
+    "description": "••para cables mecánicos, mangueras, tuberías, cables eléctricos, p. ej. cables guía (montaje o guiado de cables en el cambio de velocidades trasero B62M 9/127; montaje o guiado de cables en el cambio de velocidades delantero B62M 9/137) [2020.01]"
+  },
+  {
+    "code": "B62J 11/13",
+    "description": "••••especialmente adaptados para cables mecánicos [2020.01]"
+  },
+  {
+    "code": "B62J 11/16",
+    "description": "••••especialmente adaptados para mangueras o tuberías, p. ej. hidráulicas, neumáticas, líquido refrigerante o mangueras del filtro de aire (mangueras del filtro de aire B62J 40/10) [2020.01]"
+  },
+  {
+    "code": "B62J 11/19",
+    "description": "••••especialmente adaptados para cables eléctricos [2020.01]"
+  },
+  {
+    "code": "B62J 11/20",
+    "description": "••Arneses; Brazos, p. ej. correas para perro [2020.01]"
+  },
+  {
+    "code": "B62J 11/22",
+    "description": "••especialmente adaptados para herramientas (contenedores para herramientas B62J 9/40) [2020.01]"
+  },
+  {
+    "code": "B62J 11/24",
+    "description": "••especialmente adaptados para cascos (contenedores debajo del asiento para cascos  B62J 9/14) [2020.01]"
+  },
+  {
+    "code": "B62J 11/26",
+    "description": "••especialmente adaptados para paraguas [2020.01]"
+  },
+  {
+    "code": "B62J 13/00",
+    "description": "Cubrecadenas, protector del accionamiento por cadena y órgano equivalente, p. ej. del accionamiento por correa [2006.01]"
+  },
+  {
+    "code": "B62J 13/02",
+    "description": "••que protegen solamente la parte superior de la cadena o del órgano similar [2006.01]"
+  },
+  {
+    "code": "B62J 13/04",
+    "description": "••que protegen la totalidad del accionamiento por cadena o por órgano similar [2006.01]"
+  },
+  {
+    "code": "B62J 13/06",
+    "description": "••••que permiten acceso rápido a la cadena o al órgano similar [2006.01]"
+  },
+  {
+    "code": "B62J 15/00",
+    "description": "Guardabarros para ruedas [2006.01]"
+  },
+  {
+    "code": "B62J 15/02",
+    "description": "••Dispositivos de fijación; Soportes [2006.01]"
+  },
+  {
+    "code": "B62J 15/04",
+    "description": "••Guardabarros [2006.01]"
+  },
+  {
+    "code": "B62J 17/00",
+    "description": "Dispositivos de protección contra la intemperie para los ciclistas; Carenados o partes perfiladas no previstos en otro lugar [2020.01]"
+  },
+  {
+    "code": "B62J 17/02",
+    "description": "••que protegen al ciclista únicamente por delante [2006.01]"
+  },
+  {
+    "code": "B62J 17/04",
+    "description": "••••Parabrisas [2006.01]"
+  },
+  {
+    "code": "B62J 17/06",
+    "description": "••••Protege piernas o polainas [2006.01]"
+  },
+  {
+    "code": "B62J 17/08",
+    "description": "••Capotas que protegen al conductor [2020.01]"
+  },
+  {
+    "code": "B62J 17/083",
+    "description": "••••Capotas con bastidor especialmente adaptadas para montarse en ciclos impulsados por el piloto [2020.01]"
+  },
+  {
+    "code": "B62J 17/086",
+    "description": "••••Capotas con bastidor especialmente adaptadas para montarse en motocicletas o similares. [2020.01]"
+  },
+  {
+    "code": "B62J 17/10",
+    "description": "••Dispositivos de ventilación o guiado del aire que forman parte de los carenados [2020.01]"
+  },
+  {
+    "code": "B62J 19/00",
+    "description": "Fundas protectoras para ciclos aparcados [2006.01]"
+  },
+  {
+    "code": "B62J 21/00",
+    "description": "Protectores de vestidos, p. ej. pinzas fijadas a los ciclos [2006.01]"
+  },
+  {
+    "code": "B62J 23/00",
+    "description": "Otros protectores adaptados especialmente a los ciclos [2006.01]"
+  },
+  {
+    "code": "B62J 25/00",
+    "description": "Reposapiés; Apoyos para las rodillas; Manillar para pasajeros [2020.01]"
+  },
+  {
+    "code": "B62J 25/02",
+    "description": "••Apoyos para las rodillas, p. ej. sobre el depósito de combustible [2020.01]"
+  },
+  {
+    "code": "B62J 25/04",
+    "description": "••Reposapiés en forma de suelo [2020.01]"
+  },
+  {
+    "code": "B62J 25/06",
+    "description": "••Reposapiés en forma de barras [2020.01]"
+  },
+  {
+    "code": "B62J 25/08",
+    "description": "••Manillares para pasajeros [2020.01]"
+  },
+  {
+    "code": "B62J 27/10",
+    "description": "••Cinturones de seguridad especialmente adaptados para motocicletas o similares [2020.01]"
+  },
+  {
+    "code": "B62J 27/20",
+    "description": "••Airbags especialmente adaptados para motocicletas o similares [2020.01]"
+  },
+  {
+    "code": "B62J 27/30",
+    "description": "••Barras parachoques; Tapones parachoques [2020.01]"
+  },
+  {
+    "code": "B62J 29/00",
+    "description": "Adaptaciones o instalaciones de retrovisores para utilización sobre los ciclos [2006.01]"
+  },
+  {
+    "code": "B62J 31/00",
+    "description": "Instalaciones de dispositivos de engrase [2006.01]"
+  },
+  {
+    "code": "B62J 33/00",
+    "description": "Dispositivos para calentar al conductor especialmente adaptados para ciclos [2006.01]"
+  },
+  {
+    "code": "B62J 35/00",
+    "description": "Depósitos de carburante especialmente adaptados a motocicletas o velomotores; Sus disposiciones [2006.01]"
+  },
+  {
+    "code": "B62J 37/00",
+    "description": "Instalaciones de canalizaciones de alimentación de carburante, válvulas o similares, sobre motocicletas o velomotores [2006.01]"
+  },
+  {
+    "code": "B62J 40/00",
+    "description": "Disposiciones del filtro de aire especialmente adaptadas para ciclos [2020.01]"
+  },
+  {
+    "code": "B62J 40/10",
+    "description": "••caracterizadas por las disposiciones de conducción de aire [2020.01]"
+  },
+  {
+    "code": "B62J 41/00",
+    "description": "Disposiciones de los radiadores, manguitos de refrigeración o tuberías en ciclos [2020.01]"
+  },
+  {
+    "code": "B62J 43/00",
+    "description": "Disposiciones de baterías [2020.01]"
+  },
+  {
+    "code": "B62J 43/10",
+    "description": "••para propulsión [2020.01]"
+  },
+  {
+    "code": "B62J 43/13",
+    "description": "••••de ciclos impulsados por el piloto con propulsión eléctrica adicional [2020.01]"
+  },
+  {
+    "code": "B62J 43/16",
+    "description": "••••en motocicletas o similares [2020.01]"
+  },
+  {
+    "code": "B62J 43/20",
+    "description": "••caracterizadas por el montaje [2020.01]"
+  },
+  {
+    "code": "B62J 43/23",
+    "description": "••••que se desmontan durante la carga [2020.01]"
+  },
+  {
+    "code": "B62J 43/26",
+    "description": "••••que se transportan en tráiler [2020.01]"
+  },
+  {
+    "code": "B62J 43/28",
+    "description": "••••que quedan escondidas por la estructura del ciclo [2020.01]"
+  },
+  {
+    "code": "B62J 43/30",
+    "description": "••para suministrar al equipamiento energía para una función distinta a la propulsión [2020.01]"
+  },
+  {
+    "code": "B62J 45/00",
+    "description": "Dispositivos de equipamiento eléctrico especialmente adaptados para su uso como accesorios de ciclos, no previstos en otro lugar [2020.01]"
+  },
+  {
+    "code": "B62J 45/10",
+    "description": "••Dispositivos de equipamiento de audio; Sus soportes [2020.01]"
+  },
+  {
+    "code": "B62J 45/20",
+    "description": "••Ordenadores de a bordo como accesorios de ciclos [2020.01]"
+  },
+  {
+    "code": "B62J 45/40",
+    "description": "••Dispositivos sensores (sensores de control de ciclos con asistencia eléctrica B62M 6/50); Su montaje [2020.01]"
+  },
+  {
+    "code": "B62J 45/41",
+    "description": "••••caracterizados por el tipo de sensor [2020.01]"
+  },
+  {
+    "code": "B62J 45/411",
+    "description": "••••••Sensores de torsión [2020.01]"
+  },
+  {
+    "code": "B62J 45/412",
+    "description": "••••••Sensores de velocidad [2020.01]"
+  },
+  {
+    "code": "B62J 45/413",
+    "description": "••••••Sensores de rotación [2020.01]"
+  },
+  {
+    "code": "B62J 45/414",
+    "description": "••••••Sensores de aceleración [2020.01]"
+  },
+  {
+    "code": "B62J 45/415",
+    "description": "••••••Sensores de inclinación [2020.01]"
+  },
+  {
+    "code": "B62J 45/416",
+    "description": "••••••Sensores fisiológicos, p. ej. sensores del ritmo cardíaco [2020.01]"
+  },
+  {
+    "code": "B62J 45/42",
+    "description": "••••caracterizados por su montaje [2020.01]"
+  },
+  {
+    "code": "B62J 45/421",
+    "description": "••••••en el pedal [2020.01]"
+  },
+  {
+    "code": "B62J 45/422",
+    "description": "••••••sobre el manillar [2020.01]"
+  },
+  {
+    "code": "B62J 45/423",
+    "description": "••••••sobre o junto a la rueda [2020.01]"
+  },
+  {
+    "code": "B62J 50/00",
+    "description": "Dispositivos especialmente adaptados para su uso en ciclos no previstos en los grupos B62J 1/00-B62J 45/00 [2020.01]"
+  },
+  {
+    "code": "B62J 50/10",
+    "description": "••Medios para transportar ciclos a mano [2020.01]"
+  },
+  {
+    "code": "B62J 50/15",
+    "description": "••Dispositivos de limpieza [2020.01]"
+  },
+  {
+    "code": "B62J 50/16",
+    "description": "••••para limpiar partes del ciclo, p. ej. limpiaparabrisas [2020.01]"
+  },
+  {
+    "code": "B62J 50/17",
+    "description": "••••que utilizan el ciclo como dispositivo de limpieza, p. ej. para barrer el suelo [2020.01]"
+  },
+  {
+    "code": "B62J 50/20",
+    "description": "••Dispositivos que proporcionan información [2020.01]"
+  },
+  {
+    "code": "B62J 50/21",
+    "description": "••••que proporcionan información al piloto o pasajero [2020.01]"
+  },
+  {
+    "code": "B62J 50/22",
+    "description": "••••••electrónicos, p. ej. pantallas [2020.01]"
+  },
+  {
+    "code": "B62J 50/23",
+    "description": "••••••mecánicos, p. ej. calculadores de distancias accionados por cable [2020.01]"
+  },
+  {
+    "code": "B62J 50/25",
+    "description": "••••que proporcionan información a otros usuarios de la carretera, p. ej. señales o banderas [2020.01]"
+  },
+  {
+    "code": "B62J 50/26",
+    "description": "••••••Matrículas [2020.01]"
+  },
+  {
+    "code": "B62J 50/28",
+    "description": "••••que se caracterizan por su liberación rápida, p. ej. medios de fijación a presión [2020.01]"
+  },
+  {
+    "code": "B62J 50/30",
+    "description": "••Medios de ventilación de dispositivos propios del ciclo, p. ej. medios de ventilación del contendor de la batería [2020.01]"
+  },
+  {
+    "code": "B62J 50/40",
+    "description": "••Ornamentos o juguetes [2020.01]"
+  },
+  {
+    "code": "B62J 99/00",
+    "description": "Materia no prevista en otros grupos de esta subclase [2020.01]"
+  }
+]

@@ -1,0 +1,210 @@
+[
+  {
+    "code": "B25J 1/00",
+    "description": "Manipuladores movidos en el espacio manualmente (del tipo control dominado B25J 3/00; micromanipuladores B25J 7/00) [2006.01]"
+  },
+  {
+    "code": "B25J 1/02",
+    "description": "••articulados o flexibles [2006.01]"
+  },
+  {
+    "code": "B25J 1/04",
+    "description": "••rígidos, p. ej. para alcanzar estanterías [2006.01]"
+  },
+  {
+    "code": "B25J 1/06",
+    "description": "••de tipo pantográfico [2006.01]"
+  },
+  {
+    "code": "B25J 1/08",
+    "description": "••móviles, montados sobre la pared [2006.01]"
+  },
+  {
+    "code": "B25J 1/10",
+    "description": "••••Montaje de virolas y de pivotes para estos manipuladores [2006.01]"
+  },
+  {
+    "code": "B25J 1/12",
+    "description": "••dotados de medios de fijación a un pedestal de soporte [2006.01]"
+  },
+  {
+    "code": "B25J 3/00",
+    "description": "Manipuladores del tipo control dominado, es decir, manipuladores en los que la unidad de control y la unidad controlada ejecutan movimientos correspondientes en el espacio [2006.01]"
+  },
+  {
+    "code": "B25J 3/02",
+    "description": "••dotados de un acoplamiento en paralelogramo entre la unidad de control y la unidad controlada (pantógrafos B43L 13/00) [2006.01]"
+  },
+  {
+    "code": "B25J 3/04",
+    "description": "••dotados de servomecanismos (cabezas servocontroladas en sí B25J 15/02) [2006.01]"
+  },
+  {
+    "code": "B25J 5/00",
+    "description": "Manipuladores montados sobre ruedas o sobre soportes móviles (B25J 1/00 tiene prioridad; manipuladores de control programado B25J 9/00) [2006.01]"
+  },
+  {
+    "code": "B25J 5/02",
+    "description": "••que se desplazan sobre un camino-guía [2006.01]"
+  },
+  {
+    "code": "B25J 5/04",
+    "description": "••••en los que el camino-guía es también móvil, p. ej. del tipo puente rodante [2006.01]"
+  },
+  {
+    "code": "B25J 5/06",
+    "description": "••Manipuladores combinados con una cabina de control para el operador [2006.01]"
+  },
+  {
+    "code": "B25J 7/00",
+    "description": "Micromanipuladores [2006.01]"
+  },
+  {
+    "code": "B25J 9/00",
+    "description": "Manipuladores de control programado [2006.01]"
+  },
+  {
+    "code": "B25J 9/02",
+    "description": "••caracterizado por el movimiento de los brazos, p. ej. del tipo coordenadas cartesianas (B25J 9/06 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B25J 9/04",
+    "description": "••••por rotación de un brazo al menos, excluyendo el movimiento de la mano, p. ej. del tipo coordenadas cilíndricas o coordenadas polares [2006.01]"
+  },
+  {
+    "code": "B25J 9/06",
+    "description": "••caracterizados por brazos de articulaciones múltiples [2006.01]"
+  },
+  {
+    "code": "B25J 9/08",
+    "description": "••caracterizado por elementos de construcción modulares [2006.01]"
+  },
+  {
+    "code": "B25J 9/10",
+    "description": "••caracterizado por los medios para regular la posición de los elementos del manipulador [2006.01]"
+  },
+  {
+    "code": "B25J 9/12",
+    "description": "••••eléctricos [2006.01]"
+  },
+  {
+    "code": "B25J 9/14",
+    "description": "••••fluidos [2006.01]"
+  },
+  {
+    "code": "B25J 9/16",
+    "description": "••Controles por programa (control total de una fábrica, es decir, control centralizado de varias máquinas, G05B 19/418) [2006.01]"
+  },
+  {
+    "code": "B25J 9/18",
+    "description": "••••eléctricos [2006.01]"
+  },
+  {
+    "code": "B25J 9/20",
+    "description": "••••fluidos [2006.01]"
+  },
+  {
+    "code": "B25J 9/22",
+    "description": "••••Sistemas de registro o sistemas de reproducción (en general G05B 19/42) [2006.01]"
+  },
+  {
+    "code": "B25J 11/00",
+    "description": "Manipuladores no previstos en otro lugar [2006.01]"
+  },
+  {
+    "code": "B25J 13/00",
+    "description": "Controles para manipuladores (controles por programa B25J 9/16) [2006.01]"
+  },
+  {
+    "code": "B25J 13/02",
+    "description": "••Medios de control por aprehensión manual [2006.01]"
+  },
+  {
+    "code": "B25J 13/04",
+    "description": "••Medios de control por el pie [2006.01]"
+  },
+  {
+    "code": "B25J 13/06",
+    "description": "••Puestos de control, p. ej. pupitres, cuadros de mando [2006.01]"
+  },
+  {
+    "code": "B25J 13/08",
+    "description": "••por medio de dispositivos sensores, p. ej. a la visión o al tacto [2006.01]"
+  },
+  {
+    "code": "B25J 15/00",
+    "description": "Cabezas de aprehensión [2006.01]"
+  },
+  {
+    "code": "B25J 15/02",
+    "description": "••servocontroladas [2006.01]"
+  },
+  {
+    "code": "B25J 15/04",
+    "description": "••con posibilidad para el levantamiento o el cambio a distancia de la cabeza o de partes de ésta [2006.01]"
+  },
+  {
+    "code": "B25J 15/06",
+    "description": "••con medios de retención magnéticos o que funcionan por succión [2006.01]"
+  },
+  {
+    "code": "B25J 15/08",
+    "description": "••teniendo elementos en forma de dedos (B25J 15/02, B25J 15/04 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "B25J 15/10",
+    "description": "••••con tres o más elementos en forma de dedos [2006.01]"
+  },
+  {
+    "code": "B25J 15/12",
+    "description": "••••con elementos en forma de dedos flexibles [2006.01]"
+  },
+  {
+    "code": "B25J 17/00",
+    "description": "Uniones [2006.01]"
+  },
+  {
+    "code": "B25J 17/02",
+    "description": "••Uniones articuladas [2006.01]"
+  },
+  {
+    "code": "B25J 18/00",
+    "description": "Brazos [2006.01]"
+  },
+  {
+    "code": "B25J 18/02",
+    "description": "••extensibles [2006.01]"
+  },
+  {
+    "code": "B25J 18/04",
+    "description": "••••rotativos [2006.01]"
+  },
+  {
+    "code": "B25J 18/06",
+    "description": "••flexibles [2006.01]"
+  },
+  {
+    "code": "B25J 19/00",
+    "description": "Accesorios adaptados a los manipuladores, p. ej. para controlar, para observar; Dispositivos de seguridad combinados con los manipuladores o especialmente concebidos para ser utilizados en asociación con estos manipuladores (dispositivos de seguridad en general F16P; protección contra las radiaciones en general G21F) [2006.01]"
+  },
+  {
+    "code": "B25J 19/02",
+    "description": "••Dispositivos sensibles [2006.01]"
+  },
+  {
+    "code": "B25J 19/04",
+    "description": "••••para la visión [2006.01]"
+  },
+  {
+    "code": "B25J 19/06",
+    "description": "••Dispositivos de seguridad [2006.01]"
+  },
+  {
+    "code": "B25J 21/00",
+    "description": "Recintos con dispositivos de manipulación integrados (características de estructura del montaje de un manipulador sobre la pared B25J 1/08) [2006.01]"
+  },
+  {
+    "code": "B25J 21/02",
+    "description": "••Cajas de guantes, es decir, recintos en los que las manipulaciones se ejecutan por manos humanas enfundadas en guantes que forman parte de la pared del recinto; Guantes para ellas [2006.01]"
+  }
+]

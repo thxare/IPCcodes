@@ -1,0 +1,326 @@
+[
+  {
+    "code": "H02J 1/00",
+    "description": "Circuitos para redes principales o de distribución, de corriente continua [2006.01]"
+  },
+  {
+    "code": "H02J 1/02",
+    "description": "••Disposiciones para reducir los armónicos o las ondulaciones [2006.01]"
+  },
+  {
+    "code": "H02J 1/04",
+    "description": "••Sistemas de alimentación de corriente constante [2006.01]"
+  },
+  {
+    "code": "H02J 1/06",
+    "description": "••Sistemas de dos hilos [2006.01]"
+  },
+  {
+    "code": "H02J 1/08",
+    "description": "••Sistemas de tres hilos; Sistemas que tienen más de tres hilos [2006.01]"
+  },
+  {
+    "code": "H02J 1/10",
+    "description": "••Funcionamiento de fuentes de corriente continua en paralelo [2006.01]"
+  },
+  {
+    "code": "H02J 1/12",
+    "description": "••••Funcionamiento de generadores de corriente continua en paralelo con convertidores, p. ej. con un rectificador de arco de mercurio [2006.01]"
+  },
+  {
+    "code": "H02J 1/14",
+    "description": "••Equilibrado de la carga en una red [2006.01]"
+  },
+  {
+    "code": "H02J 1/16",
+    "description": "••••utilizando máquinas dinamoeléctricas acopladas al volante [2006.01]"
+  },
+  {
+    "code": "H02J 3/00",
+    "description": "Circuitos para redes principales o de distribución, de corriente alterna [2006.01]"
+  },
+  {
+    "code": "H02J 3/01",
+    "description": "••Disposiciones para reducir los armónicos o las ondulaciones [2006.01]"
+  },
+  {
+    "code": "H02J 3/02",
+    "description": "••utilizando una red única para distribución simultánea de potencia a diferentes frecuencias; utilizando una sola red para distribución simultánea de potencia en corriente continua y en corriente alterna [2006.01]"
+  },
+  {
+    "code": "H02J 3/04",
+    "description": "••para conectar redes a la misma frecuencia, pero que provienen desde diferentes fuentes [2006.01]"
+  },
+  {
+    "code": "H02J 3/06",
+    "description": "••••Control de transferencia de potencia entre redes conectadas; Control del reparto de carga entre redes conectadas [2006.01]"
+  },
+  {
+    "code": "H02J 3/08",
+    "description": "••••Sincronización de redes [2006.01]"
+  },
+  {
+    "code": "H02J 3/10",
+    "description": "••Sistemas de alimentación en corriente constante [2006.01]"
+  },
+  {
+    "code": "H02J 3/12",
+    "description": "••para ajustar la tension en las redes de corriente alterna por cambio de una característica de la carga de la red [2006.01]"
+  },
+  {
+    "code": "H02J 3/14",
+    "description": "••••por interrupción o puesta en circuito de las cargas de la red, p. ej. carga equilibrada progresivamente [2006.01]"
+  },
+  {
+    "code": "H02J 3/16",
+    "description": "••••por ajuste de la potencia reactiva [2006.01]"
+  },
+  {
+    "code": "H02J 3/18",
+    "description": "••Disposiciones para ajustar, eliminar o compensar la potencia reactiva en las redes (para ajuste de la tensión H02J 3/16) [2006.01]"
+  },
+  {
+    "code": "H02J 3/20",
+    "description": "••••en líneas aéreas largas [2006.01]"
+  },
+  {
+    "code": "H02J 3/22",
+    "description": "••••en cables [2006.01]"
+  },
+  {
+    "code": "H02J 3/24",
+    "description": "••Disposiciones para evitar o reducir las oscilaciones de potencia en las redes (por control efectuado en un solo generador H02P 9/00) [2006.01]"
+  },
+  {
+    "code": "H02J 3/26",
+    "description": "••Disposiciones para la eliminación o reducción de asimetrías en las redes polifásicas [2006.01]"
+  },
+  {
+    "code": "H02J 3/28",
+    "description": "••Disposiciones para el equilibrado de carga en una red por almacenamiento de energía [2006.01]"
+  },
+  {
+    "code": "H02J 3/30",
+    "description": "••••utilizando máquinas dinamoeléctricas acopladas a volantes [2006.01]"
+  },
+  {
+    "code": "H02J 3/32",
+    "description": "••••utilizando baterías con medios de conversión [2006.01]"
+  },
+  {
+    "code": "H02J 3/34",
+    "description": "••Disposiciones para la transferencia de potencia eléctrica entre redes de frecuencia muy diferente [2006.01]"
+  },
+  {
+    "code": "H02J 3/36",
+    "description": "••Disposiciones para la transferencia de potencia eléctrica entre redes de corriente alterna vía una corriente continua a alta tensión [2006.01]"
+  },
+  {
+    "code": "H02J 3/38",
+    "description": "••Disposiciones para la alimentación en paralelo de una sola red por dos o más generadores, convertidores o transformadores [2006.01]"
+  },
+  {
+    "code": "H02J 3/40",
+    "description": "••••Sincronización de un generador para su conexión a una red o a otro generador [2006.01]"
+  },
+  {
+    "code": "H02J 3/42",
+    "description": "••••••con conexión automática en paralelo cuando se obtiene el sincronismo [2006.01]"
+  },
+  {
+    "code": "H02J 3/44",
+    "description": "••••••con medios para asegurar una secuencia de fase correcta [2006.01]"
+  },
+  {
+    "code": "H02J 3/46",
+    "description": "••••controlando el reparto de potencia entre los generadores convertidores o transformadores [2006.01]"
+  },
+  {
+    "code": "H02J 3/48",
+    "description": "••••••controlando el reparto de la componente en fase [2006.01]"
+  },
+  {
+    "code": "H02J 3/50",
+    "description": "••••••controlando el reparto de la componente desfasada [2006.01]"
+  },
+  {
+    "code": "H02J 4/00",
+    "description": "Circuitos para redes principales o de distribución, no estando especificada la naturaleza alterna o continua de la corriente [2006.01]"
+  },
+  {
+    "code": "H02J 5/00",
+    "description": "Circuitos para transferir  energía eléctrica entre redes de corriente alterna y de corriente continua (H02J 3/36 tiene prioridad) [2016.01]"
+  },
+  {
+    "code": "H02J 7/00",
+    "description": "Circuitos para la carga o despolarización de baterías o para suministrar cargas desde baterías [2006.01]"
+  },
+  {
+    "code": "H02J 7/02",
+    "description": "••para cargar baterías por redes de corriente alterna mediante convertidores [2016.01]"
+  },
+  {
+    "code": "H02J 7/04",
+    "description": "••••Regulación de la corriente o de la tensión de carga [2006.01]"
+  },
+  {
+    "code": "H02J 7/06",
+    "description": "••••••utilizando tubos de descarga o dispositivos semiconductores [2006.01]"
+  },
+  {
+    "code": "H02J 7/08",
+    "description": "••••••••utilizando solamente tubos de descarga [2006.01]"
+  },
+  {
+    "code": "H02J 7/10",
+    "description": "••••••••utilizando solamente dispositivos semiconductores [2006.01]"
+  },
+  {
+    "code": "H02J 7/12",
+    "description": "••••••utilizando dispositivos magnéticos que tienen un grado de saturación controlable, es decir, transductores [2006.01]"
+  },
+  {
+    "code": "H02J 7/14",
+    "description": "••para la carga de baterías por generadores dinamoeléctricos llevados a velocidad variable, p. ej. sobre vehículo [2006.01]"
+  },
+  {
+    "code": "H02J 7/16",
+    "description": "••••Regulación de la corriente o de la tensión de carga por variación de campo [2006.01]"
+  },
+  {
+    "code": "H02J 7/18",
+    "description": "••••••debido a la variación de resistencia óhmica en un circuito de campo, utilizando la inserción o la retirada gradual de una resistencia en un circuito [2006.01]"
+  },
+  {
+    "code": "H02J 7/20",
+    "description": "••••••debido a la variación de una resistencia óhmica continuamente variable [2006.01]"
+  },
+  {
+    "code": "H02J 7/22",
+    "description": "••••••debido a la variación de la relación de interrupción y del restablecimiento de los contactos que trabajan por intermitencia, p. ej. utilizando un regulador Tirrill [2006.01]"
+  },
+  {
+    "code": "H02J 7/24",
+    "description": "••••••utilizando tubos de descarga o dispositivos semiconductores [2006.01]"
+  },
+  {
+    "code": "H02J 7/26",
+    "description": "••••••utilizando dispositivos magnéticos con grado de saturación controlable [2006.01]"
+  },
+  {
+    "code": "H02J 7/28",
+    "description": "••••••utilizando dispositivos magnéticos con grado de saturación controlable, en combinación con un tubo de descarga o un dispositivo semiconductor controlado [2006.01]"
+  },
+  {
+    "code": "H02J 7/30",
+    "description": "••••••utilizando máquinas excitadas por inducidos de reacción [2006.01]"
+  },
+  {
+    "code": "H02J 7/32",
+    "description": "••para la carga de baterías por un conjunto de carga que comprende una máquina motriz no eléctrica [2006.01]"
+  },
+  {
+    "code": "H02J 7/34",
+    "description": "••Funcionamiento en paralelo, en las redes, de baterías con otras fuentes de corriente continua, p. ej. batería de compensación (H02J 7/14 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H02J 7/35",
+    "description": "••••con células sensibles a la luz [2006.01]"
+  },
+  {
+    "code": "H02J 7/36",
+    "description": "••Disposiciones que utilizan la conmutación de elementos de extremidad [2006.01]"
+  },
+  {
+    "code": "H02J 9/00",
+    "description": "Circuitos para alimentación de potencia de emergencia o de reserva, p. ej. para alumbrado de emergencia [2006.01]"
+  },
+  {
+    "code": "H02J 9/02",
+    "description": "••en los cuales un sistema de distribución auxiliar y sus lámparas asociadas son puestas en servicio [2006.01]"
+  },
+  {
+    "code": "H02J 9/04",
+    "description": "••en los cuales el sistema de distribución es desconectado de la fuente normal y conectado a una fuente de reserva [2006.01]"
+  },
+  {
+    "code": "H02J 9/06",
+    "description": "••••con conmutación automática [2006.01]"
+  },
+  {
+    "code": "H02J 9/08",
+    "description": "••••••requiriendo el arranque de una máquina motriz [2006.01]"
+  },
+  {
+    "code": "H02J 11/00",
+    "description": "Circuitos para proveer el servicio de alimentación de auxiliares de estaciones, en las cuales la potencia eléctrica es producida, distribuida o convertida [2006.01]"
+  },
+  {
+    "code": "H02J 13/00",
+    "description": "Circuitos para proveer de indicación a distancia de las condiciones de una red, p. ej. un registro instantáneo de las condiciones de apertura o de cierre de cada seccionador de red; Circuitos para proveer el mando a distancia de medios de conmutación en una red de distribución de energía, p. ej. conexión o desconexión de consumidores de corriente por utilización de señales de impulsos codificados transmitidos por la red [2006.01]"
+  },
+  {
+    "code": "H02J 15/00",
+    "description": "Sistemas de acumulación de energía eléctrica (sistemas mecánicos F01-F04; en forma química H01M) [2006.01]"
+  },
+  {
+    "code": "H02J 50/00",
+    "description": "Circuitos o sistemas para el suministro inalámbrico o la distribución de energía eléctrica [2016.01]"
+  },
+  {
+    "code": "H02J 50/05",
+    "description": "••que utilizan un acoplamiento capacitivo [2016.01]"
+  },
+  {
+    "code": "H02J 50/10",
+    "description": "••que utilizan un acoplamiento inductivo [2016.01]"
+  },
+  {
+    "code": "H02J 50/12",
+    "description": "••••de tipo resonante [2016.01]"
+  },
+  {
+    "code": "H02J 50/15",
+    "description": "••que utilizan ondas ultrasónicas [2016.01]"
+  },
+  {
+    "code": "H02J 50/20",
+    "description": "••que utilizan microondas u ondas de radiofrecuencia [2016.01]"
+  },
+  {
+    "code": "H02J 50/23",
+    "description": "••••caracterizados por el tipo de antenas de transmisión, p. ej. agrupaciones de antenas direccionales o antenas Yagi [2016.01]"
+  },
+  {
+    "code": "H02J 50/27",
+    "description": "••••ccaracterizados por el tipo de antenas receptoras, p. ej. antenas rectificadoras [2016.01]"
+  },
+  {
+    "code": "H02J 50/30",
+    "description": "••que utilizan luz, p. ej. láseres [2016.01]"
+  },
+  {
+    "code": "H02J 50/40",
+    "description": "••que utilizan dos o más dispositivos de transmisión o de recepción (H02J 50/50 tiene prioridad) [2016.01]"
+  },
+  {
+    "code": "H02J 50/50",
+    "description": "••que utilizan repetidores adicionales de energía entre los dispositivos de  transmisión y los dispositivos de  recepción [2016.01]"
+  },
+  {
+    "code": "H02J 50/60",
+    "description": "••sensibles a la presencia de objetos extraños, p. ej. detección de seres vivos [2016.01]"
+  },
+  {
+    "code": "H02J 50/70",
+    "description": "••que implican la reducción de los campos de fuga eléctricos, magnéticos o electromagnéticos [2016.01]"
+  },
+  {
+    "code": "H02J 50/80",
+    "description": "••que implican el intercambio de datos, en relación con el suministro o distribución de energía eléctrica, entre los dispositivos de transmisión y los dispositivos de recepción [2016.01]"
+  },
+  {
+    "code": "H02J 50/90",
+    "description": "••que implican detección u optimización de la posición, p. ej. alineación [2016.01]"
+  }
+]

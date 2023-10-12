@@ -1,0 +1,470 @@
+[
+  {
+    "code": "G06Q 10/00",
+    "description": "Administración; Gestión [2023.01]"
+  },
+  {
+    "code": "G06Q 10/02",
+    "description": "••Reservas, p. ej. de entradas, servicios o eventos [2012.01]"
+  },
+  {
+    "code": "G06Q 10/04",
+    "description": "••Previsión u optimización especialmente adaptadas para fines administrativos o de gestión, p. ej. programación lineal o \"problema de valores de corte\" (previsiones de mercado o pronóstico para actividades comerciales G06Q 30/0202) [2023.01]"
+  },
+  {
+    "code": "G06Q 10/047",
+    "description": "••••Optimización de rutas o trayectos, p. ej. el problema del vendedor ambulante [2023.01]"
+  },
+  {
+    "code": "G06Q 10/06",
+    "description": "••Recursos, flujos de trabajo, gestión de recursos humanos o de proyectos; Planificación empresarial; Modelización de empresas u organizaciones [2023.01]"
+  },
+  {
+    "code": "G06Q 10/063",
+    "description": "••••Estudio, análisis o gestión de operaciones [2023.01]"
+  },
+  {
+    "code": "G06Q 10/0631",
+    "description": "••••••Planificación, asignación, distribución o programación de recursos para empresas u organizaciones [2023.01]"
+  },
+  {
+    "code": "G06Q 10/0633",
+    "description": "••••••Análisis del flujo de trabajo [2023.01]"
+  },
+  {
+    "code": "G06Q 10/0635",
+    "description": "••••••Análisis de riesgos de las actividades de una empresa u organización [2023.01]"
+  },
+  {
+    "code": "G06Q 10/0637",
+    "description": "••••••Gestión o análisis estratégicos, p. ej. fijar un objetivo o una meta para una organización; Planificación de acciones basadas en objetivos; Análisis o evaluación de la eficacia de los objetivos [2023.01]"
+  },
+  {
+    "code": "G06Q 10/0639",
+    "description": "••••••Análisis del rendimiento de los empleados; Análisis del rendimiento de las operaciones de la empresa u organización [2023.01]"
+  },
+  {
+    "code": "G06Q 10/067",
+    "description": "••••Modelización de empresas u organizaciones [2023.01]"
+  },
+  {
+    "code": "G06Q 10/08",
+    "description": "••Logística, p. ej. almacenamiento, carga o distribución; Inventario o gestión de existencias [2023.01]"
+  },
+  {
+    "code": "G06Q 10/083",
+    "description": "••••Envíos [2023.01]"
+  },
+  {
+    "code": "G06Q 10/0831",
+    "description": "••••••Transacciones en el extranjero [2023.01]"
+  },
+  {
+    "code": "G06Q 10/0832",
+    "description": "••••••Mercancías especiales o procedimientos especiales de manipulación, p. ej. manipulación de mercancías peligrosas o frágiles [2023.01]"
+  },
+  {
+    "code": "G06Q 10/0833",
+    "description": "••••••Seguimiento [2023.01]"
+  },
+  {
+    "code": "G06Q 10/0834",
+    "description": "••••••Elección de transportistas [2023.01]"
+  },
+  {
+    "code": "G06Q 10/0835",
+    "description": "••••••Relaciones entre el remitente o el proveedor y los transportistas [2023.01]"
+  },
+  {
+    "code": "G06Q 10/0836",
+    "description": "••••••Recogidas de los destinatarios [2023.01]"
+  },
+  {
+    "code": "G06Q 10/0837",
+    "description": "••••••Transacciones de devolución [2023.01]"
+  },
+  {
+    "code": "G06Q 10/087",
+    "description": "••••Gestión de inventarios o existencias, p. ej. cumplimentación de pedidos, contratación o balance de pedidos [2023.01]"
+  },
+  {
+    "code": "G06Q 10/0875",
+    "description": "••••••Desglose o clasificación de piezas, suministros o servicios, p. ej. listas de materiales [2023.01]"
+  },
+  {
+    "code": "G06Q 10/10",
+    "description": "••Automatización de tareas en la oficina; Gestión del tiempo [2023.01]"
+  },
+  {
+    "code": "G06Q 10/101",
+    "description": "••••Creación colaborativa, p. ej. desarrollo colectivo de productos o servicios [2023.01]"
+  },
+  {
+    "code": "G06Q 10/105",
+    "description": "••••Recursos humanos [2023.01]"
+  },
+  {
+    "code": "G06Q 10/1053",
+    "description": "••••••Empleo o contratación [2023.01]"
+  },
+  {
+    "code": "G06Q 10/1057",
+    "description": "••••••Prestaciones o asistencia a los empleados, p. ej. seguros, vacaciones o paquetes de jubilación [2023.01]"
+  },
+  {
+    "code": "G06Q 10/107",
+    "description": "••••Gestión del correo electrónico asistida por ordenador [e-mailing] [2023.01]"
+  },
+  {
+    "code": "G06Q 10/109",
+    "description": "••••Gestión del tiempo, p. ej. calendarios, recordatorios, reuniones o contabilización del tiempo [2023.01]"
+  },
+  {
+    "code": "G06Q 10/1091",
+    "description": "••••••Registro del tiempo con fines administrativos o de gestión [2023.01]"
+  },
+  {
+    "code": "G06Q 10/1093",
+    "description": "••••••Planificación para personas o grupos basada en el calendario [2023.01]"
+  },
+  {
+    "code": "G06Q 10/20",
+    "description": "••Gestión de la reparación o el mantenimiento de los productos [2023.01]"
+  },
+  {
+    "code": "G06Q 10/30",
+    "description": "••Gestión del reciclaje o eliminación de productos [2023.01]"
+  },
+  {
+    "code": "G06Q 20/00",
+    "description": "Arquitectura, protocolos o esquemas de pago (aparatos para realizar o contabilizar transacciones de pagos G07F 7/08, G07F 19/00; cajas registradoras electrónicas G07G 1/12) [2012.01]"
+  },
+  {
+    "code": "G06Q 20/02",
+    "description": "••participación de una tercera parte neutral, p. ej. autoridades de certificación, notario o tercero de confianza [PTT] [2012.01]"
+  },
+  {
+    "code": "G06Q 20/04",
+    "description": "••Sistemas de pago [2012.01]"
+  },
+  {
+    "code": "G06Q 20/06",
+    "description": "••••Sistemas privados de pago, p. ej. con moneda electrónica utilizada solamente entre los participantes de un sistema de pago común [2012.01]"
+  },
+  {
+    "code": "G06Q 20/08",
+    "description": "••Arquitecturas de pago [2012.01]"
+  },
+  {
+    "code": "G06Q 20/10",
+    "description": "••••sistemas especialmente adaptados para la transferencia electrónica de fondos [EFT]; sistemas bancarios especialmente adaptados para el hogar [2012.01]"
+  },
+  {
+    "code": "G06Q 20/12",
+    "description": "••••sistemas de compras electrónicas especialmente adaptados [2012.01]"
+  },
+  {
+    "code": "G06Q 20/14",
+    "description": "••••sistemas especialmente adaptados para facturación [2012.01]"
+  },
+  {
+    "code": "G06Q 20/16",
+    "description": "••••Liquidación de pagos a través de sistemas de telecomunicaciones [2012.01]"
+  },
+  {
+    "code": "G06Q 20/18",
+    "description": "••••participación de  terminales de autoservicio [SST], máquinas expendedoras, kioscos o terminales multimedia [2012.01]"
+  },
+  {
+    "code": "G06Q 20/20",
+    "description": "••••Punto de venta [POS] de sistemas de red [2012.01]"
+  },
+  {
+    "code": "G06Q 20/22",
+    "description": "••Esquemas o modelos de pago [2012.01]"
+  },
+  {
+    "code": "G06Q 20/24",
+    "description": "••••Planes de crédito, p. ej. \"post-pago\" [2012.01]"
+  },
+  {
+    "code": "G06Q 20/26",
+    "description": "••••Esquemas de débito, p. ej. \"pago instantaneo\" [2012.01]"
+  },
+  {
+    "code": "G06Q 20/28",
+    "description": "••••Planes de pre-pago, p. ej. \"Pre-pago\" [2012.01]"
+  },
+  {
+    "code": "G06Q 20/30",
+    "description": "••caracterizado por el uso de dispositivos específicos [2012.01]"
+  },
+  {
+    "code": "G06Q 20/32",
+    "description": "••••uso de dispositivos inalámbricos [2012.01]"
+  },
+  {
+    "code": "G06Q 20/34",
+    "description": "••••uso de tarjetas, p. ej. tarjetas de circuito integrado [IC] o tarjetas magnéticas [2012.01]"
+  },
+  {
+    "code": "G06Q 20/36",
+    "description": "••••utilizando monederos electrónicos o dinero electrónico seguro [2012.01]"
+  },
+  {
+    "code": "G06Q 20/38",
+    "description": "••Protocolos de pago; Sus detalles [2012.01]"
+  },
+  {
+    "code": "G06Q 20/40",
+    "description": "••••Autorización, p. ej. identificación del ordenante o beneficiario, verificación de las credenciales del cliente o de la tienda; Revisión y aprobación de los contribuyentes, p. ej. verificación de las líneas de crédito o listas \"negras\" [2012.01]"
+  },
+  {
+    "code": "G06Q 20/42",
+    "description": "••••Confirmación, p. ej. cheque o permiso por parte del deudor legal del pago [2012.01]"
+  },
+  {
+    "code": "G06Q 30/00",
+    "description": "Comercio [2023.01]"
+  },
+  {
+    "code": "G06Q 30/01",
+    "description": "••Servicios de relación con el cliente [2023.01]"
+  },
+  {
+    "code": "G06Q 30/012",
+    "description": "••••Prestación de servicios de garantía [2023.01]"
+  },
+  {
+    "code": "G06Q 30/014",
+    "description": "••••Prestación de servicios de retirada de mercancías o productos [2023.01]"
+  },
+  {
+    "code": "G06Q 30/015",
+    "description": "••••Prestación de ayuda al cliente, p. ej. ayuda a un cliente dentro de las instalaciones de la empresa o a través del servicio de asistencia técnica [2023.01]"
+  },
+  {
+    "code": "G06Q 30/016",
+    "description": "••••••Posventa [2023.01]"
+  },
+  {
+    "code": "G06Q 30/018",
+    "description": "••Certificación de actividades o productos [2023.01]"
+  },
+  {
+    "code": "G06Q 30/02",
+    "description": "••Comercialización; Estimación o determinación de precios; Recaudación de fondos [2023.01]"
+  },
+  {
+    "code": "G06Q 30/0201",
+    "description": "••••Modelización del mercado; Análisis del mercado; Recogida de datos de mercado [2023.01]"
+  },
+  {
+    "code": "G06Q 30/0202",
+    "description": "••••••Predicciones de mercado o previsiones para actividades comerciales [2023.01]"
+  },
+  {
+    "code": "G06Q 30/0203",
+    "description": "••••••Estudios de mercado; Encuestas de mercado [2023.01]"
+  },
+  {
+    "code": "G06Q 30/0204",
+    "description": "••••••Segmentación de mercado [2023.01]"
+  },
+  {
+    "code": "G06Q 30/0207",
+    "description": "••••Descuentos o incentivos, p. ej. cupones o rebajas [2023.01]"
+  },
+  {
+    "code": "G06Q 30/0208",
+    "description": "••••••Comercio o intercambio de bienes o servicios a cambio de incentivos o recompensas [2023.01]"
+  },
+  {
+    "code": "G06Q 30/0211",
+    "description": "••••••Determinar la eficacia de los descuentos o incentivos [2023.01]"
+  },
+  {
+    "code": "G06Q 30/0214",
+    "description": "••••••Sistemas de recompensa por recomendación [2023.01]"
+  },
+  {
+    "code": "G06Q 30/0217",
+    "description": "••••••que implica la aportación de información sobre productos o servicios a cambio de incentivos o recompensas [2023.01]"
+  },
+  {
+    "code": "G06Q 30/0226",
+    "description": "••••••Sistemas de incentivos para el uso frecuente, p. ej. programas de millas de viajero frecuente o sistemas de puntos [2023.01]"
+  },
+  {
+    "code": "G06Q 30/0234",
+    "description": "••••••Rebajas después de completar la compra [2023.01]"
+  },
+  {
+    "code": "G06Q 30/0235",
+    "description": "••••••condicionados por el límite de tiempo o la fecha de caducidad [2023.01]"
+  },
+  {
+    "code": "G06Q 30/0238",
+    "description": "••••••en el punto de venta [POS] [2023.01]"
+  },
+  {
+    "code": "G06Q 30/0241",
+    "description": "••••Anuncios [2023.01]"
+  },
+  {
+    "code": "G06Q 30/0242",
+    "description": "••••••Determinación de la efectividad de los anuncios [2023.01]"
+  },
+  {
+    "code": "G06Q 30/0251",
+    "description": "••••••Anuncios personalizados o dirigidos [2023.01]"
+  },
+  {
+    "code": "G06Q 30/0272",
+    "description": "••••••Periodo de exposición al anuncio [2023.01]"
+  },
+  {
+    "code": "G06Q 30/0273",
+    "description": "••••••Determinación de las tarifas por publicidad [2023.01]"
+  },
+  {
+    "code": "G06Q 30/0279",
+    "description": "••••Gestión de la recaudación de fondos [2023.01]"
+  },
+  {
+    "code": "G06Q 30/0282",
+    "description": "••••Calificación o revisión de operadores comerciales o productos [2023.01]"
+  },
+  {
+    "code": "G06Q 30/0283",
+    "description": "••••Estimación o determinación de los precios [2023.01]"
+  },
+  {
+    "code": "G06Q 30/04",
+    "description": "••Pago o facturación [2012.01]"
+  },
+  {
+    "code": "G06Q 30/06",
+    "description": "••Compra, venta o transaciones de arrendamiento [2023.01]"
+  },
+  {
+    "code": "G06Q 30/0601",
+    "description": "••••Compras electrónicas [e-shopping] [2023.01]"
+  },
+  {
+    "code": "G06Q 30/0645",
+    "description": "••••Operaciones de alquiler; Operaciones de arrendamiento financiero [2023.01]"
+  },
+  {
+    "code": "G06Q 30/08",
+    "description": "••••Subastas [2012.01]"
+  },
+  {
+    "code": "G06Q 40/00",
+    "description": "Finanzas; Seguros; Estrategias fiscales; Procesamiento de ingresos o impuestos de sociedades [2023.01]"
+  },
+  {
+    "code": "G06Q 40/02",
+    "description": "••La banca, p. ej. cálculo de intereses o mantenimiento de cuentas (créditos o préstamos G06Q 40/03) [2023.01]"
+  },
+  {
+    "code": "G06Q 40/03",
+    "description": "••Crédito; Préstamos; Tramitación de los mismos [2023.01]"
+  },
+  {
+    "code": "G06Q 40/04",
+    "description": "••Comercio; Canje, p. ej. acciones, materias primas, derivados o cambio de divisa [2012.01]"
+  },
+  {
+    "code": "G06Q 40/06",
+    "description": "••Gestión de activos; Planificación o análisis financiero [2012.01]"
+  },
+  {
+    "code": "G06Q 40/08",
+    "description": "••Seguros [2012.01]"
+  },
+  {
+    "code": "G06Q 40/10",
+    "description": "••Estrategias fiscales [2023.01]"
+  },
+  {
+    "code": "G06Q 40/12",
+    "description": "••Contabilidad [2023.01]"
+  },
+  {
+    "code": "G06Q 50/00",
+    "description": "Sistemas o métodos especialmente adaptados para sectores de negocios específicos, p. ej. servicios públicos o turismo (informática para la atención sanitaria G16H) [2012.01]"
+  },
+  {
+    "code": "G06Q 50/02",
+    "description": "••Agricultura; Pesca; Minería [2012.01]"
+  },
+  {
+    "code": "G06Q 50/04",
+    "description": "••Fabricación [2012.01]"
+  },
+  {
+    "code": "G06Q 50/06",
+    "description": "••Electricidad, gas o abastecimiento de agua [2012.01]"
+  },
+  {
+    "code": "G06Q 50/08",
+    "description": "••Construcción [2012.01]"
+  },
+  {
+    "code": "G06Q 50/10",
+    "description": "••Servicios [2012.01]"
+  },
+  {
+    "code": "G06Q 50/12",
+    "description": "••••Hoteles o restaurantes [2012.01]"
+  },
+  {
+    "code": "G06Q 50/14",
+    "description": "••••Agencias de viaje [2012.01]"
+  },
+  {
+    "code": "G06Q 50/16",
+    "description": "••••Inmuebles [2012.01]"
+  },
+  {
+    "code": "G06Q 50/18",
+    "description": "••••Servicios legales; Manejo de documentos legales [2012.01]"
+  },
+  {
+    "code": "G06Q 50/20",
+    "description": "••••Educación [2012.01]"
+  },
+  {
+    "code": "G06Q 50/22",
+    "description": "••••Asistencia social [2018.01]"
+  },
+  {
+    "code": "G06Q 50/26",
+    "description": "••••Administración o servicios públicos [2012.01]"
+  },
+  {
+    "code": "G06Q 50/28",
+    "description": "••Logística, p. ej. almacenamiento, carga, distribución o transporte [2012.01]"
+  },
+  {
+    "code": "G06Q 50/30",
+    "description": "••Transporte; Comunicaciones [2012.01]"
+  },
+  {
+    "code": "G06Q 50/32",
+    "description": "••••Correos y telecomunicaciones (aparatos de franquear G07B 17/00) [2012.01]"
+  },
+  {
+    "code": "G06Q 50/34",
+    "description": "••Apuestas, p. ej. apuestas por Internet [2012.01]"
+  },
+  {
+    "code": "G06Q 90/00",
+    "description": "Sistemas o métodos especialmente adaptados para fines administrativos, comerciales, financieros, de gestión o de supervisión que no conllevan un procesado de datos significativo [2006.01]"
+  },
+  {
+    "code": "G06Q 99/00",
+    "description": "Materia no prevista en otros grupos de esta subclase [2006.01]"
+  }
+]

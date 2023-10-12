@@ -1,0 +1,162 @@
+[
+  {
+    "code": "G04F 1/00",
+    "description": "Aparatos que pueden ser puestos en marcha y parados para medir intervalos de tiempo predeterminados o elegidos a voluntad, sin mecanismo motor, p. ej. temporizadores para huevos [2006.01]"
+  },
+  {
+    "code": "G04F 1/02",
+    "description": "••por el consumo de cantidades determinadas de materiales, p. ej. por la combustión de bujías [2006.01]"
+  },
+  {
+    "code": "G04F 1/04",
+    "description": "••por un movimiento o una aceleración debidas a la gravedad [2006.01]"
+  },
+  {
+    "code": "G04F 1/06",
+    "description": "••••por el derrame de una cantidad determinada de materiales pulverulentos o líquidos, p. ej. de arena, clepsidra [2006.01]"
+  },
+  {
+    "code": "G04F 1/08",
+    "description": "••••por la caída de un cuerpo en el aire o en un material viscoso sobre una distancia determinada [2006.01]"
+  },
+  {
+    "code": "G04F 3/00",
+    "description": "Aparatos que pueden ser puestos en marcha y parados para medir intervalos de tiempo predeterminados o elegidos a voluntad, con mecanismos motores, p. ej. dosímetros con temporizador [2006.01]"
+  },
+  {
+    "code": "G04F 3/02",
+    "description": "••de mecanismos motores mecánicos [2006.01]"
+  },
+  {
+    "code": "G04F 3/04",
+    "description": "••••Instalaciones accesorias conexionadas con este fin a relojes ordinarios no eléctricos [2006.01]"
+  },
+  {
+    "code": "G04F 3/06",
+    "description": "••de mecanismos motores eléctricos [2006.01]"
+  },
+  {
+    "code": "G04F 3/08",
+    "description": "••••Instalaciones accesorias conexionadas con este fin a relojes eléctricos ordinarios [2006.01]"
+  },
+  {
+    "code": "G04F 5/00",
+    "description": "Aparatos para la obtención de intervalos de tiempo predeterminados para su uso como patrones de cronometraje (producción de señales de relojería para computadores digitales eléctricos G06F 1/04) [2006.01]"
+  },
+  {
+    "code": "G04F 5/02",
+    "description": "••Metrónomos [2006.01]"
+  },
+  {
+    "code": "G04F 5/04",
+    "description": "••que utilizan osciladores con resonadores electromecánicos [2006.01]"
+  },
+  {
+    "code": "G04F 5/06",
+    "description": "••••que utilizan resonadores piezoeléctricos [2006.01]"
+  },
+  {
+    "code": "G04F 5/08",
+    "description": "••••que utilizan resonadores magnetoestrictivos [2006.01]"
+  },
+  {
+    "code": "G04F 5/10",
+    "description": "••que utilizan resonadores eléctricos o electrónicos (G04F 5/14 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G04F 5/12",
+    "description": "••que utilizan dispositivos fluidos [2006.01]"
+  },
+  {
+    "code": "G04F 5/14",
+    "description": "••que utilizan relojes atómicos [2006.01]"
+  },
+  {
+    "code": "G04F 5/16",
+    "description": "••que utilizan impulsos producidos por radioisótopos [2006.01]"
+  },
+  {
+    "code": "G04F 7/00",
+    "description": "Aparatos para medir intervalos de tiempo desconocidos por medios no eléctricos (mediante fluidos G04F 13/06) [2006.01]"
+  },
+  {
+    "code": "G04F 7/02",
+    "description": "••midiendo la distancia de caída o la velocidad final de un cuerpo que cae [2006.01]"
+  },
+  {
+    "code": "G04F 7/04",
+    "description": "••utilizando un oscilador mecánico [2006.01]"
+  },
+  {
+    "code": "G04F 7/06",
+    "description": "••••que funcionan solamente durante el intervalo de tiempo a medir, p. ej. cronómetro [2006.01]"
+  },
+  {
+    "code": "G04F 7/08",
+    "description": "••••Relojes de pared o de bolsillo con dispositivos de parada, p. ej. cronógrafo [2006.01]"
+  },
+  {
+    "code": "G04F 7/10",
+    "description": "••Medios utilizados además del instrumento de medida del tiempo para pararlo o accionarlo [2006.01]"
+  },
+  {
+    "code": "G04F 8/00",
+    "description": "Aparatos para medir intervalos de tiempo desconocidos por medios electromecánicos [2006.01]"
+  },
+  {
+    "code": "G04F 8/02",
+    "description": "••utilizando un oscilador electromecánico [2006.01]"
+  },
+  {
+    "code": "G04F 8/04",
+    "description": "••••utilizando un oscilador piezoeléctrico [2006.01]"
+  },
+  {
+    "code": "G04F 8/06",
+    "description": "••••utilizando un oscilador magnetoestrictivo [2006.01]"
+  },
+  {
+    "code": "G04F 8/08",
+    "description": "••Medios utilizados además del instrumento de medida del tiempo para pararlo o accionarlo [2006.01]"
+  },
+  {
+    "code": "G04F 10/00",
+    "description": "Aparatos para medir intervalos de tiempos desconocidos por medios eléctricos [2006.01]"
+  },
+  {
+    "code": "G04F 10/02",
+    "description": "••que utilizan osciladores con resonador eléctrico pasivo, p. ej. del tipo LC localizado [2006.01]"
+  },
+  {
+    "code": "G04F 10/04",
+    "description": "••contando las pulsaciones o los semiperíodos de una corriente alterna [2006.01]"
+  },
+  {
+    "code": "G04F 10/06",
+    "description": "••midiendo la fase [2006.01]"
+  },
+  {
+    "code": "G04F 10/08",
+    "description": "••que utilizan los impulsos producidos por radioisótopos [2006.01]"
+  },
+  {
+    "code": "G04F 10/10",
+    "description": "••midiendo valores eléctricos o magnéticos que varían proporcionalmente en el tiempo [2006.01]"
+  },
+  {
+    "code": "G04F 13/00",
+    "description": "Aparatos para medir intervalos de tiempo desconocidos por medios no previstos en los grupos G04F 5/00-G04F 10/00 [2006.01]"
+  },
+  {
+    "code": "G04F 13/02",
+    "description": "••que utilizan medios ópticos [2006.01]"
+  },
+  {
+    "code": "G04F 13/04",
+    "description": "••que utilizan medios electroquímicos [2006.01]"
+  },
+  {
+    "code": "G04F 13/06",
+    "description": "••que utilizan medios fluidos [2006.01]"
+  }
+]

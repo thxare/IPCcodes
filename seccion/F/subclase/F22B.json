@@ -1,0 +1,710 @@
+[
+  {
+    "code": "F22B 1/00",
+    "description": "Métodos de producción de vapor caracterizados por la forma de producirse el calor (utilización del calor solar F24S; medios de refrigeración por camisa exterior u otros en los cuales se produce vapor que sirve para refrigerar otros aparatos, véanse las subclases correspondientes a tales aparatos) [2006.01]"
+  },
+  {
+    "code": "F22B 1/02",
+    "description": "••por explotación de la energía térmica contenida en una fuente de calor [2006.01]"
+  },
+  {
+    "code": "F22B 1/04",
+    "description": "••••siendo el portador de calor escorias calientes, residuos calientes o bloques calentados, p. ej. bloques de hierro [2006.01]"
+  },
+  {
+    "code": "F22B 1/06",
+    "description": "••••siendo los portadores de calor material fundido; Uso de metal fundido, p. ej. zinc, como medio transmisor del calor [2006.01]"
+  },
+  {
+    "code": "F22B 1/08",
+    "description": "••••siendo el portador del calor el vapor [2006.01]"
+  },
+  {
+    "code": "F22B 1/10",
+    "description": "••••••liberado por un acumulador de calor [2006.01]"
+  },
+  {
+    "code": "F22B 1/12",
+    "description": "••••••producido por un proceso cíclico indirecto [2006.01]"
+  },
+  {
+    "code": "F22B 1/14",
+    "description": "••••••entrando en contacto directo con el agua en masa o en gotitas [2006.01]"
+  },
+  {
+    "code": "F22B 1/16",
+    "description": "••••siendo el portador del calor líquido caliente o vapor caliente, p. ej. líquido residual, vapor residual [2006.01]"
+  },
+  {
+    "code": "F22B 1/18",
+    "description": "••••siendo el portador del calor un gas caliente, p. ej. gases residuales como los de escape de los motores de combustión interna (utilización del calor perdido en las máquinas motrices de combustión, en general, F02) [2006.01]"
+  },
+  {
+    "code": "F22B 1/20",
+    "description": "••utilizando el calor contenido en una solución que absorbe el vapor; Calderas de vapor de sosa [2006.01]"
+  },
+  {
+    "code": "F22B 1/22",
+    "description": "••utilizando combustión a presión que sobrepasa sensiblemente la presión atmosférica [2006.01]"
+  },
+  {
+    "code": "F22B 1/24",
+    "description": "••••Calderas de vapor presurizadas por fuego, p. ej. empleando turbocompresores de aire acondicionado por los gases calientes que provienen del hogar de la caldera [2006.01]"
+  },
+  {
+    "code": "F22B 1/26",
+    "description": "••••Calderas de vapor del tipo de llama sumergida, es decir, en el que la llama se encuentra rodeada por el agua a vaporizar o entra en contacto con ella [2006.01]"
+  },
+  {
+    "code": "F22B 1/28",
+    "description": "••en calderas calentadas eléctricamente [2006.01]"
+  },
+  {
+    "code": "F22B 1/30",
+    "description": "••••Calderas de electrodo [2006.01]"
+  },
+  {
+    "code": "F22B 3/00",
+    "description": "Otros métodos de producción de vapor; Calderas de vapor no provistos en otros grupos de esta subclase [2006.01]"
+  },
+  {
+    "code": "F22B 3/02",
+    "description": "••implicando el empleo de otros agentes energéticos diferentes del agua [2006.01]"
+  },
+  {
+    "code": "F22B 3/04",
+    "description": "••por descenso de presión del agua caliente a alta presión en el interior de cámaras de expansión (acumuladores de vapor en sí\n\t\t\t\t\t\t\t\t\t\tF01K 1/00) [2006.01]"
+  },
+  {
+    "code": "F22B 3/06",
+    "description": "••por transformación de energía mecánica, p. ej. energía cinética en energía térmica [2006.01]"
+  },
+  {
+    "code": "F22B 3/08",
+    "description": "••a vapores de presión críticos o supercríticos [2006.01]"
+  },
+  {
+    "code": "F22B 5/00",
+    "description": "Calderas de vapor de tipo hervidores, es decir, sin hogar interno o tubos de humos, estando el cuerpo de la caldera conectado externamente a los conductos de humos [2006.01]"
+  },
+  {
+    "code": "F22B 5/02",
+    "description": "••con tubos de agua auxiliares exteriores al cuerpo de la caldera [2006.01]"
+  },
+  {
+    "code": "F22B 5/04",
+    "description": "••Partes constitutivas de estos aparatos; Accesorios para ellos (tapas u órganos de cierre análogos para recipientes a presión en general F16J 13/00) [2006.01]"
+  },
+  {
+    "code": "F22B 7/00",
+    "description": "Calderas de vapor del tipo con horno, es decir, la combustión se produce en el interior de uno o varios hornos que forman parte integrante del cuerpo de la caldera [2006.01]"
+  },
+  {
+    "code": "F22B 7/02",
+    "description": "••sin tubos de agua auxiliares [2006.01]"
+  },
+  {
+    "code": "F22B 7/04",
+    "description": "••con tubos de agua auxiliares [2006.01]"
+  },
+  {
+    "code": "F22B 7/06",
+    "description": "••••dispuestos transversalmente en el interior del horno [2006.01]"
+  },
+  {
+    "code": "F22B 7/08",
+    "description": "••••dispuestos longitudinalmente en el interior del horno [2006.01]"
+  },
+  {
+    "code": "F22B 7/10",
+    "description": "••••en el exterior del cuerpo de la caldera [2006.01]"
+  },
+  {
+    "code": "F22B 7/12",
+    "description": "••con tubos de humos auxiliares; disposición de cabezales que aseguran el regreso del flujo de humos [2006.01]"
+  },
+  {
+    "code": "F22B 7/14",
+    "description": "••con tubos de agua auxiliares y tubos de humos auxiliares simultáneamente [2006.01]"
+  },
+  {
+    "code": "F22B 7/16",
+    "description": "••Partes constitutivas de estos aparatos; Accesorios para ellos, p. ej. espárragos de sujeción [2006.01]"
+  },
+  {
+    "code": "F22B 7/18",
+    "description": "••••Paredes de los conductos; Cabezales de conductos de humos [2006.01]"
+  },
+  {
+    "code": "F22B 7/20",
+    "description": "••••Hornos [2006.01]"
+  },
+  {
+    "code": "F22B 9/00",
+    "description": "Calderas de vapor del tipo tubos de humos, es decir, donde los humos que provienen de una cámara de combustión en el exterior del cuerpo de la caldera, circulan a lo largo de tubos que forman parte del cuerpo de la caldera [2006.01]"
+  },
+  {
+    "code": "F22B 9/02",
+    "description": "••estando colocado verticalmente el cuerpo de la caldera, p. ej. encima de la cámara de combustión [2006.01]"
+  },
+  {
+    "code": "F22B 9/04",
+    "description": "••••estando dispuestos los tubos de humos verticalmente [2006.01]"
+  },
+  {
+    "code": "F22B 9/06",
+    "description": "••••••Disposición de los cabezales de humos que aseguran el regreso del flujo de humos [2006.01]"
+  },
+  {
+    "code": "F22B 9/08",
+    "description": "••••estando dispuestos los tubos de humos horizontalmente [2006.01]"
+  },
+  {
+    "code": "F22B 9/10",
+    "description": "••estando sustancialmente dispuesto el cuerpo de la caldera horizontalmente, p. ej. al lado de la cámara de combustión [2006.01]"
+  },
+  {
+    "code": "F22B 9/12",
+    "description": "••••estando los tubos de humos sustancialmente dispuestos en horizontal [2006.01]"
+  },
+  {
+    "code": "F22B 9/14",
+    "description": "••••••Disposición de los cabezales de humos que aseguran el regreso del flujo de humos [2006.01]"
+  },
+  {
+    "code": "F22B 9/16",
+    "description": "••conteniendo el cuerpo de la caldera los tubos de humos cruzados, con inclinación hacia arriba [2006.01]"
+  },
+  {
+    "code": "F22B 9/18",
+    "description": "••Partes constitutivas de estos aparatos; Accesorios para ellos, p. ej. espárragos de sujeción [2006.01]"
+  },
+  {
+    "code": "F22B 11/00",
+    "description": "Calderas de vapor del tipo tubos de humos y tubos de agua combinados, es decir, calderas del tipo de tubos de humos con tubos de agua auxiliares [2006.01]"
+  },
+  {
+    "code": "F22B 11/02",
+    "description": "••estando los tubos de humos dispuestos verticalmente [2006.01]"
+  },
+  {
+    "code": "F22B 11/04",
+    "description": "••estando los tubos de humos dispuestos horizontalmente [2006.01]"
+  },
+  {
+    "code": "F22B 13/00",
+    "description": "Calderas de vapor del tipo hogar interno, es decir, donde la combustión se produce en una cámara u hogar interno seguida de un(os) conducto(s) o de un(os) tubo(s) de humos, la cámara y hogar interno y los canales o tubos de humos forman parte integrante del cuerpo de la caldera [2006.01]"
+  },
+  {
+    "code": "F22B 13/02",
+    "description": "••montados en posición fija con el cuerpo de caldera dispuesto verticalmente [2006.01]"
+  },
+  {
+    "code": "F22B 13/04",
+    "description": "••montados en posición fija con el cuerpo de caldera dispuesto sensiblemente horizontal [2006.01]"
+  },
+  {
+    "code": "F22B 13/06",
+    "description": "••Máquinas camineras, motores de tracción, rodillos de vapor o calderas de locomotoras [2006.01]"
+  },
+  {
+    "code": "F22B 13/08",
+    "description": "••••sin tubos de agua auxiliares en el interior del hogar [2006.01]"
+  },
+  {
+    "code": "F22B 13/10",
+    "description": "••••con tubos de agua auxiliares en el interior del hogar [2006.01]"
+  },
+  {
+    "code": "F22B 13/12",
+    "description": "••••••los tubos de agua auxiliares revisten el hogar [2006.01]"
+  },
+  {
+    "code": "F22B 13/14",
+    "description": "••Partes constitutivas de estos aparatos; Accesorios para ellos [2006.01]"
+  },
+  {
+    "code": "F22B 13/16",
+    "description": "••••Espárragos de sujeción, p. ej. sujeciones rígidas [2006.01]"
+  },
+  {
+    "code": "F22B 13/18",
+    "description": "••••••Sujeciones flexibles, p. ej. de tipo rótula [2006.01]"
+  },
+  {
+    "code": "F22B 15/00",
+    "description": "Calderas de tubos de agua del tipo horizontal, es decir, estando los conjuntos de tubos de agua dispuestos horizontalmente [2006.01]"
+  },
+  {
+    "code": "F22B 17/00",
+    "description": "Calderas de tubos de agua del tipo inclinados horizontalmente, es decir, los conjuntos de tubos de agua están ligeramente inclinados con relación al plano horizontal [2006.01]"
+  },
+  {
+    "code": "F22B 17/02",
+    "description": "••estructuras de conjuntos de tubos de agua en conexión lindante con dos cabezales comunes para todos los conjuntos, p. ej. con cabezales planos [2006.01]"
+  },
+  {
+    "code": "F22B 17/04",
+    "description": "••••estando los conjuntos de tubos de agua inclinados en direcciones opuestas, p. ej. en cruz [2006.01]"
+  },
+  {
+    "code": "F22B 17/06",
+    "description": "••••estando los conjuntos de tubos de agua acodados angularmente [2006.01]"
+  },
+  {
+    "code": "F22B 17/08",
+    "description": "••••estando los conjuntos de tubos de agua curvados [2006.01]"
+  },
+  {
+    "code": "F22B 17/10",
+    "description": "••estructuras de conjuntos de tubos de agua en conexión lindante con dos cabezales seccionales para cada conjunto, es decir, con cierto número de cabezales en cada sección dispuestos a lo largo o a lo alto de la caldera [2006.01]"
+  },
+  {
+    "code": "F22B 17/12",
+    "description": "••••estando los cabezales seccionales dispuestos verticalmente o prácticamente en la vertical [2006.01]"
+  },
+  {
+    "code": "F22B 17/14",
+    "description": "••••estando los cabezales seccionales dispuestos horizontalmente o prácticamente en la horizontal [2006.01]"
+  },
+  {
+    "code": "F22B 17/16",
+    "description": "••Partes constitutivas de estos aparatos; Accesorios para ellos [2006.01]"
+  },
+  {
+    "code": "F22B 17/18",
+    "description": "••••Bastidores de los cabezales; Cabezales seccionales [2006.01]"
+  },
+  {
+    "code": "F22B 19/00",
+    "description": "Calderas de tubos de agua del tipo que tiene combinados los tubos inclinados horizontalmente y los verticales, es decir, calderas de tubos de agua del tipo inclinados horizontalmente que tienen conjuntos de tubos auxiliares dispuestos verticalmente o prácticamente en la vertical [2006.01]"
+  },
+  {
+    "code": "F22B 21/00",
+    "description": "Calderas de tubos de agua de tipo vertical o inclinado, es decir, en las que los conjuntos de tubos de agua están colocados verticalmente o prácticamente en la vertical [2006.01]"
+  },
+  {
+    "code": "F22B 21/02",
+    "description": "••estructuras de tubos de agua prácticamente rectos [2006.01]"
+  },
+  {
+    "code": "F22B 21/04",
+    "description": "••••incorporando un hervidor superior sencillo y un hervidor inferior sencillo, p. ej. estando los hervidores dispuestos transversalmente [2006.01]"
+  },
+  {
+    "code": "F22B 21/06",
+    "description": "••••••estando los tubos de agua dispuestos en conjuntos anulares, p. ej. en conexión lindante con hervidores de forma anular [2006.01]"
+  },
+  {
+    "code": "F22B 21/08",
+    "description": "••••••estando los tubos de agua dispuestos seccionalmente en grupos o en hileras, p. ej. acodados en sus extremos [2006.01]"
+  },
+  {
+    "code": "F22B 21/10",
+    "description": "••••••estando los tubos de agua dispuestos en filas salteadas [2006.01]"
+  },
+  {
+    "code": "F22B 21/12",
+    "description": "••••incorporando dos o más hervidores superiores y dos o más hervidores inferiores, p. ej. con conjuntos de tubos de agua dispuestos atravesados, en conexión lindante con los hervidores [2006.01]"
+  },
+  {
+    "code": "F22B 21/14",
+    "description": "••••incorporando un hervidor superior único y dos o más hervidores inferiores [2006.01]"
+  },
+  {
+    "code": "F22B 21/16",
+    "description": "••••••estando los hervidores inferiores interconectados por tubos de agua suplementarios [2006.01]"
+  },
+  {
+    "code": "F22B 21/18",
+    "description": "••••incorporando dos o más hervidores superiores y su único hervidor inferior [2006.01]"
+  },
+  {
+    "code": "F22B 21/20",
+    "description": "••••incorporando cabezales seccionales o subdivididos dispuestos separadamente para cada conjunto de tubos de agua [2006.01]"
+  },
+  {
+    "code": "F22B 21/22",
+    "description": "••estructuras de tubos de agua de forma diferente de la rectilínea o sensiblemente rectilínea [2006.01]"
+  },
+  {
+    "code": "F22B 21/24",
+    "description": "••••acodados en serpentinas o en formas sinuosas [2006.01]"
+  },
+  {
+    "code": "F22B 21/26",
+    "description": "••••acodados helicoidalmente, es decir, enrollados [2006.01]"
+  },
+  {
+    "code": "F22B 21/28",
+    "description": "••••acodados espiralmente [2006.01]"
+  },
+  {
+    "code": "F22B 21/30",
+    "description": "••••acodados en lazos de forma de U [2006.01]"
+  },
+  {
+    "code": "F22B 21/32",
+    "description": "••••••colocadas horizontalmente en conexión lindante con los cabezales verticales o a las cañerías de agua principales ascendentes [2006.01]"
+  },
+  {
+    "code": "F22B 21/34",
+    "description": "••compuestos de tubos de agua agrupados en paneles que rodean a la cámara de combustión, es decir calderas de radiación [2006.01]"
+  },
+  {
+    "code": "F22B 21/36",
+    "description": "••••incluyendo un hervidor superior o cabezales montados en la parte superior de la cámara de combustión [2006.01]"
+  },
+  {
+    "code": "F22B 21/38",
+    "description": "••••Partes constitutivas de estos aparatos, p. ej. paneles prefabricados [2006.01]"
+  },
+  {
+    "code": "F22B 21/40",
+    "description": "••estructuras de tubos de agua colocados en una columna vertical relativamente larga, es decir, calderas torre [2006.01]"
+  },
+  {
+    "code": "F22B 23/00",
+    "description": "Calderas de tubos de agua compuestas de conjuntos de tubos de agua con dobles paredes espaciadas del tipo de retorno ligadas unilateralmente con un hervidor de la caldera o con un cabezal, es decir, compuestos de tubos Field que comprenden un tubo interior colocado dentro de otro tubo exterior cerrado por uno de sus extremos [2006.01]"
+  },
+  {
+    "code": "F22B 23/02",
+    "description": "••los tubos de agua, es decir, conjuntos de tubos Field colocados horizontalmente o sensiblemente en horizontal [2006.01]"
+  },
+  {
+    "code": "F22B 23/04",
+    "description": "••los tubos de agua, es decir, conjunto de tubos Field colocados verticalmente o sensiblemente en vertical [2006.01]"
+  },
+  {
+    "code": "F22B 23/06",
+    "description": "••Partes constitutivas de estos aparatos, p. ej. tubos de agua Field (tubos cambiadores de calor en general F28F) [2006.01]"
+  },
+  {
+    "code": "F22B 25/00",
+    "description": "Calderas de tubos de agua compuestas de conjuntos de tubos de agua con tubos de conducción dispuestos internamente, o tubos de humo, extendidos a través de los tubos de agua [2006.01]"
+  },
+  {
+    "code": "F22B 27/00",
+    "description": "Calderas de vapor instantáneo o del tipo flash [2006.01]"
+  },
+  {
+    "code": "F22B 27/02",
+    "description": "••compuestos de tubos de humo [2006.01]"
+  },
+  {
+    "code": "F22B 27/04",
+    "description": "••compuestos de tubos de agua (F22B 27/12-F22B 27/16 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "F22B 27/06",
+    "description": "••••acodados en serpentina o en forma sinuosa [2006.01]"
+  },
+  {
+    "code": "F22B 27/08",
+    "description": "••••acodados helicoidalmente, es decir, enrollados [2006.01]"
+  },
+  {
+    "code": "F22B 27/10",
+    "description": "••••acodados espiralmente [2006.01]"
+  },
+  {
+    "code": "F22B 27/12",
+    "description": "••compuestos de elementos de intercambio de calor rotativo, p. ej. con acoplamientos de tubos [2006.01]"
+  },
+  {
+    "code": "F22B 27/14",
+    "description": "••compuestos de elementos de intercambio en calor dispuestos en el interior de una cámara cuyas paredes retienen el calor [2006.01]"
+  },
+  {
+    "code": "F22B 27/16",
+    "description": "••incluyendo inyectores para rociar o pulverizar gotitas de agua sobre o en el interior de los elementos cambiadores de calor, p. ej. en el interior de los tubos [2006.01]"
+  },
+  {
+    "code": "F22B 29/00",
+    "description": "Calderas de vapor del tipo de circulación forzada [2006.01]"
+  },
+  {
+    "code": "F22B 29/02",
+    "description": "••del tipo de circulación cerrada (recirculación) [2006.01]"
+  },
+  {
+    "code": "F22B 29/04",
+    "description": "••del tipo de circulación combinada, es decir, en el que la circulación por convección debida a la diferencia de pesos específicos entre el agua caliente y la fría es acelerada por medios adicionales, p. ej. inyectando temporalmente agua bajo presión [2006.01]"
+  },
+  {
+    "code": "F22B 29/06",
+    "description": "••del tipo de circulación abierta, es decir, compuestas de tubos que admiten agua por un extremo y suministran vapor sobrecalentado por el otro (F22B 33/00 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F22B 29/08",
+    "description": "••••operando con un estado final determinado correspondiente a una evaporación completa [2006.01]"
+  },
+  {
+    "code": "F22B 29/10",
+    "description": "••••operando con un estado final variable pero que corresponde a una evaporación completa [2006.01]"
+  },
+  {
+    "code": "F22B 29/12",
+    "description": "••••operando con una recirculación superpuesta durante el comienzo y en los períodos de carga débil, p. ej. calderas mixtas [2006.01]"
+  },
+  {
+    "code": "F22B 31/00",
+    "description": "Modificaciones de la estructura de la caldera o de los sistemas de tubos, dependientes de la instalación de los aparatos de combustión; Disposiciones de los aparatos de combustión (producción de vapor caracterizada por el método de calefacción F22B 1/00; aparatos de combustión en sí\n\t\t\t\t\t\t\t\t\tF23) [2006.01]"
+  },
+  {
+    "code": "F22B 31/02",
+    "description": "••Instalación de calderas de tubos de agua en chimeneas, p. ej. en chimeneas convertidoras [2006.01]"
+  },
+  {
+    "code": "F22B 31/04",
+    "description": "••Suministro de calor por instalación de dos o más aparatos de combustión, p. ej. de aparatos de combustión separada para la caldera y el sobrecalentador respectivamente [2006.01]"
+  },
+  {
+    "code": "F22B 31/06",
+    "description": "••••Instalación de suministro de calor de emergencia [2006.01]"
+  },
+  {
+    "code": "F22B 31/08",
+    "description": "••Instalación de aparatos de intercambio de calor o de los medios necesarios en las calderas para el calentamiento de aire suministrado para la combustión [2006.01]"
+  },
+  {
+    "code": "F22B 33/00",
+    "description": "Plantas de producción de vapor, p. ej. asociación mutua de diferentes tipos de calderas de vapor (disposiciones de instalaciones de plantas de producción de vapor a bordo de buques B63H 21/00) [2006.01]"
+  },
+  {
+    "code": "F22B 33/02",
+    "description": "••Combinaciones de calderas que tienen un único aparato de combustión común [2006.01]"
+  },
+  {
+    "code": "F22B 33/04",
+    "description": "••••de calderas del tipo hogar con calderas del tipo agua [2006.01]"
+  },
+  {
+    "code": "F22B 33/06",
+    "description": "••••de caldera del tipo hogar con calderas del tipo tubos de humos [2006.01]"
+  },
+  {
+    "code": "F22B 33/08",
+    "description": "••••de calderas del tipo de tubos de agua con calderas del tipo de tubos de humos [2006.01]"
+  },
+  {
+    "code": "F22B 33/10",
+    "description": "••••de dos o más calderas superpuestas con volúmenes de agua diferentes y funcionando con dos o más niveles de agua diferentes [2006.01]"
+  },
+  {
+    "code": "F22B 33/12",
+    "description": "••Calderas de vapor autónomas, es decir, comprendiendo en un todo la caldera de vapor, el aparato de combustión, los conductos de humos, las máquinas y el equipo accesorio [2006.01]"
+  },
+  {
+    "code": "F22B 33/14",
+    "description": "••Combinaciones de calderas de alta y baja presión [2006.01]"
+  },
+  {
+    "code": "F22B 33/16",
+    "description": "••••del tipo de circulación forzada [2006.01]"
+  },
+  {
+    "code": "F22B 33/18",
+    "description": "••Combinación de calderas de vapor con otros aparatos [2006.01]"
+  },
+  {
+    "code": "F22B 35/00",
+    "description": "Sistemas de control para calderas de vapor (control o regulación de las instalaciones de centrales de vapor F01K 7/00; para regular la alimentación de agua F22D; para controlar la temperatura de sobrecalentamiento F22G 5/00; control de combustión F23N) [2006.01]"
+  },
+  {
+    "code": "F22B 35/02",
+    "description": "••para calderas de vapor con circulación por convección [2006.01]"
+  },
+  {
+    "code": "F22B 35/04",
+    "description": "••••durante los períodos de arranque, es decir, durante los períodos comprendidos entre el encendido del hogar y la obtención de la temperatura normal de funcionamiento de la caldera de vapor [2006.01]"
+  },
+  {
+    "code": "F22B 35/06",
+    "description": "••para calderas de vapor del tipo de circulación forzada [2006.01]"
+  },
+  {
+    "code": "F22B 35/08",
+    "description": "••••del tipo de circulación cerrada [2006.01]"
+  },
+  {
+    "code": "F22B 35/10",
+    "description": "••••del tipo de circulación abierta [2006.01]"
+  },
+  {
+    "code": "F22B 35/12",
+    "description": "••••••funcionando a presión crítica o supercrítica [2006.01]"
+  },
+  {
+    "code": "F22B 35/14",
+    "description": "••••durante los períodos de arranque, es decir, durante los períodos comprendidos entre el encendido del hogar y la obtención de la temperatura normal de funcionamiento de la caldera de vapor [2006.01]"
+  },
+  {
+    "code": "F22B 35/16",
+    "description": "••••sensible al porcentaje de vapor en la mezcla de vapor y agua [2006.01]"
+  },
+  {
+    "code": "F22B 35/18",
+    "description": "••Aplicación de computadores al control de calderas de vapor [2006.01]"
+  },
+  {
+    "code": "F22B 37/02",
+    "description": "••aplicables a más de una clase o tipo de caldera de vapor [2006.01]"
+  },
+  {
+    "code": "F22B 37/04",
+    "description": "••••y caracterizados por el material, p. ej. empleo de aleaciones de acero especiales [2006.01]"
+  },
+  {
+    "code": "F22B 37/06",
+    "description": "••••Conductos o tubos de humos; Accesorios para ellos, p. ej. guarnición de tubos de humos [2006.01]"
+  },
+  {
+    "code": "F22B 37/08",
+    "description": "••••••Accesorios preventivos del sobrecalentamiento de los extremos de los tubos [2006.01]"
+  },
+  {
+    "code": "F22B 37/10",
+    "description": "••••Tubos de agua; Accesorios para éstos (trabajo de los tubos metálicos B21D; tubos en general F16L; reparación de las fugas en los tubos de agua F16L 55/16, F28F 11/00; limpieza de los tubos de agua de las calderas F23J, F28G; desviadores, pantallas o reflectores en forma de tubos de agua F23M 9/10) [2006.01]"
+  },
+  {
+    "code": "F22B 37/12",
+    "description": "••••••Formas de los tubos de agua, p. ej. de sección variable [2006.01]"
+  },
+  {
+    "code": "F22B 37/14",
+    "description": "••••••Suministros principales, p. ej. tubos ascendentes principales y descendentes, en conexión con los tubos de agua [2006.01]"
+  },
+  {
+    "code": "F22B 37/16",
+    "description": "••••••Acodamientos de retorno [2006.01]"
+  },
+  {
+    "code": "F22B 37/18",
+    "description": "••••••Insertados, p. ej. para recibir los depósitos de agua [2006.01]"
+  },
+  {
+    "code": "F22B 37/20",
+    "description": "••••••Disposiciones para el soporte, p. ej. para la fijación de conjuntos de tubos de agua (construcción de las paredes de los tubos de los hogares incluidos en los hogares de calderas F23M 5/08) [2006.01]"
+  },
+  {
+    "code": "F22B 37/22",
+    "description": "••••Cuerpos; Cabeceras; Accesorios para ellos (fabricación de calderas a partir de chapa B21D 51/24; recipientes de presión en general F16J 12/00; tapas u órganos de cierre similares para recipientes a presión en general F16J 13/00) [2006.01]"
+  },
+  {
+    "code": "F22B 37/24",
+    "description": "••••Disposición de conjuntos de soporte o suspensión, p. ej. apantallamiento del calor (bastidores, bancadas de máquinas F16M) [2006.01]"
+  },
+  {
+    "code": "F22B 37/26",
+    "description": "••••Disposiciones para la separación del vapor (separadores vapor-líquido, p. ej. para recoger vapor B01D, B04) [2006.01]"
+  },
+  {
+    "code": "F22B 37/28",
+    "description": "••••••incluyendo una inversión del sentido de circulación [2006.01]"
+  },
+  {
+    "code": "F22B 37/30",
+    "description": "••••••empleando obstáculos sobre los separadores de desviación [2006.01]"
+  },
+  {
+    "code": "F22B 37/32",
+    "description": "••••••empleando la fuerza centrífuga [2006.01]"
+  },
+  {
+    "code": "F22B 37/34",
+    "description": "••••Adaptación de las calderas para mejorar la circulación del agua (aparatos auxiliares para favorecer la circulación del agua F22D 7/00) [2006.01]"
+  },
+  {
+    "code": "F22B 37/36",
+    "description": "••••Disposiciones para envolver o encamisar las calderas [2006.01]"
+  },
+  {
+    "code": "F22B 37/38",
+    "description": "••••Determinación o indicación de las condiciones de funcionamiento en las calderas de vapor, p. ej. monitores de dirección o proporción de flujo de agua a través de los tubos (instrumentos de medida o indicación en general G01) [2006.01]"
+  },
+  {
+    "code": "F22B 37/40",
+    "description": "••••Disposiciones de los tabiques separadores en los conductos de las calderas de vapor, p. ej. constituidos por desviadores (en las chimeneas o conductos de humos F23J 13/00) [2006.01]"
+  },
+  {
+    "code": "F22B 37/42",
+    "description": "••••Aplicaciones, disposiciones o dispositivos de alarma o dispositivos de seguridad automática (para calentadores de alimentación por agua F22D 1/14; alarmas que reaccionan a las condiciones no deseadas o anormales G08B) [2006.01]"
+  },
+  {
+    "code": "F22B 37/44",
+    "description": "••••••de válvulas de seguridad (válvulas de seguridad en sí\n\t\t\t\t\t\t\t\t\t\t\t\tF16K) [2006.01]"
+  },
+  {
+    "code": "F22B 37/46",
+    "description": "••••••sensibles, a los niveles de agua bajos o altos, p. ej. limitando, interrumpiendo o extinguiendo la combustión en las calderas (lucha contra el fuego, extinción del fuego en general A62) [2006.01]"
+  },
+  {
+    "code": "F22B 37/47",
+    "description": "••••••sensibles a una temperatura anormal, p. ej. actuados por fusibles (dichas alarmas o dispositivos en sí\n\t\t\t\t\t\t\t\t\t\t\t\tG08B) [2006.01]"
+  },
+  {
+    "code": "F22B 37/48",
+    "description": "••••Dispositivos o disposiciones para retirar el agua, los minerales o los lodos de las calderas (limpieza de los tubos del agua, de los hornos o similares en las calderas F23J, F28G) [2006.01]"
+  },
+  {
+    "code": "F22B 37/50",
+    "description": "••••••para la evacuación o la expulsión del agua [2006.01]"
+  },
+  {
+    "code": "F22B 37/52",
+    "description": "••••••Dispositivos de lavado exterior [2006.01]"
+  },
+  {
+    "code": "F22B 37/54",
+    "description": "••••••Dispositivos de eliminación o de extracción de lodos [2006.01]"
+  },
+  {
+    "code": "F22B 37/56",
+    "description": "••••Dispositivos de control para la limpieza de las calderas, p. ej. para asegurar una duración conveniente de la purga de la caldera [2006.01]"
+  },
+  {
+    "code": "F22B 37/58",
+    "description": "••••Desmontaje de los tubos de los cabezales o hervidores; Herramientas de extracción [2006.01]"
+  },
+  {
+    "code": "F22B 37/60",
+    "description": "••especialmente adaptados para calderas de vapor instantáneas o del tipo flash [2006.01]"
+  },
+  {
+    "code": "F22B 37/62",
+    "description": "••especialmente adaptados para calderas de vapor del tipo de circulación forzada [2006.01]"
+  },
+  {
+    "code": "F22B 37/64",
+    "description": "••••Montaje de los conjuntos de tubos o disposiciones de sus soportes (estructura de los tubos de paredes en los hogares, p. ej. en los hogares de calderas F23M 5/08) [2006.01]"
+  },
+  {
+    "code": "F22B 37/66",
+    "description": "••••••incluyendo tubos de agua dispuestos verticalmente [2006.01]"
+  },
+  {
+    "code": "F22B 37/68",
+    "description": "••••••incluyendo tubos de agua dispuestos horizontalmente [2006.01]"
+  },
+  {
+    "code": "F22B 37/70",
+    "description": "••••Dispositivos para la distribución del agua dentro de los tubos de agua [2006.01]"
+  },
+  {
+    "code": "F22B 37/72",
+    "description": "••••••incluyendo dispositivos de inyección [2006.01]"
+  },
+  {
+    "code": "F22B 37/74",
+    "description": "••••••Disposiciones de estrangulamiento para tubos o conjuntos de tubos [2006.01]"
+  },
+  {
+    "code": "F22B 37/76",
+    "description": "••Adaptaciones o montajes de dispositivos para observar la existencia o la dirección de la corriente del fluido (dispositivos en sí\n\t\t\t\t\t\t\t\t\t\tG01P) [2006.01]"
+  },
+  {
+    "code": "F22B 37/78",
+    "description": "••Adaptaciones o montajes de indicadores de nivel (indicadores de nivel en sí\n\t\t\t\t\t\t\t\t\t\tG01F) [2006.01]"
+  }
+]

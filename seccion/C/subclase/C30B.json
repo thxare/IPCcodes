@@ -1,0 +1,674 @@
+[
+  {
+    "code": "C30B 1/00",
+    "description": "Crecimiento de monocristales a partir del estado sólido (separación unidireccional de materiales eutectoides C30B 3/00; bajo un fluido protector C30B 27/00) [2006.01]"
+  },
+  {
+    "code": "C30B 1/02",
+    "description": "••por tratamiento térmico, p. ej. recocido bajo contracción (C30B 1/12 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "C30B 1/04",
+    "description": "••••Recristalización isotérmica [2006.01]"
+  },
+  {
+    "code": "C30B 1/06",
+    "description": "••••Recristalización en un gradiente de temperatura [2006.01]"
+  },
+  {
+    "code": "C30B 1/08",
+    "description": "••••••Recristalización por zona [2006.01]"
+  },
+  {
+    "code": "C30B 1/10",
+    "description": "••por reacción en estado sólido o difusión multifase [2006.01]"
+  },
+  {
+    "code": "C30B 1/12",
+    "description": "••por tratamiento bajo presión durante el crecimiento [2006.01]"
+  },
+  {
+    "code": "C30B 3/00",
+    "description": "Separación unidireccional de materiales eutectoides [2006.01]"
+  },
+  {
+    "code": "C30B 5/00",
+    "description": "Crecimiento de monocristales a partir de geles (bajo un fluido protector C30B 27/00) [2006.01]"
+  },
+  {
+    "code": "C30B 5/02",
+    "description": "••con adición de un material de dopado [2006.01]"
+  },
+  {
+    "code": "C30B 7/00",
+    "description": "Crecimiento de monocristales a partir de soluciones utilizando solventes líquidos a temperatura ordinaria, p. ej. a partir de soluciones acuosas (a partir de solventes fundidos C30B 9/00; por simple solidificación o en un gradiente de temperatura C30B 11/00; bajo un fluido protector C30B 27/00) [2006.01]"
+  },
+  {
+    "code": "C30B 7/02",
+    "description": "••por evaporación del solvente [2006.01]"
+  },
+  {
+    "code": "C30B 7/04",
+    "description": "••••utilizando solventes acuosos [2006.01]"
+  },
+  {
+    "code": "C30B 7/06",
+    "description": "••••utilizando solventes no acuosos [2006.01]"
+  },
+  {
+    "code": "C30B 7/08",
+    "description": "••por enfriamiento de la solución [2006.01]"
+  },
+  {
+    "code": "C30B 7/10",
+    "description": "••por aplicación de presión, p. ej. procesos hidrotérmicos [2006.01]"
+  },
+  {
+    "code": "C30B 7/12",
+    "description": "••por electrólisis [2006.01]"
+  },
+  {
+    "code": "C30B 7/14",
+    "description": "••produciéndose el material a cristalizar en la solución por reacciones químicas [2006.01]"
+  },
+  {
+    "code": "C30B 9/00",
+    "description": "Crecimiento de monocristales a partir de baños fundidos utilizando solventes fundidos (por simple solidificación o en un gradiente de temperatura C30B 11/00; por fusión de zona C30B 13/00; por estirado del cristal C30B 15/00; sobre un germen cristalino sumergido C30B 17/00; por crecimiento epitaxial a partir de la fase líquida C30B 19/00; bajo un fluido protector C30B 27/00) [2006.01]"
+  },
+  {
+    "code": "C30B 9/02",
+    "description": "••por evaporación del solvente fundido [2006.01]"
+  },
+  {
+    "code": "C30B 9/04",
+    "description": "••por enfriamiento del baño [2006.01]"
+  },
+  {
+    "code": "C30B 9/06",
+    "description": "••••utilizando uno de los constituyentes del cristal solvente [2006.01]"
+  },
+  {
+    "code": "C30B 9/08",
+    "description": "••••utilizando otros solventes [2006.01]"
+  },
+  {
+    "code": "C30B 9/10",
+    "description": "••••••Solventes metálicos [2006.01]"
+  },
+  {
+    "code": "C30B 9/12",
+    "description": "••••••Solventes formados por sales, p. ej. crecimiento en un fundente [2006.01]"
+  },
+  {
+    "code": "C30B 9/14",
+    "description": "••por electrólisis [2006.01]"
+  },
+  {
+    "code": "C30B 11/00",
+    "description": "Crecimiento de monocristales por simple solidificación o en un gradiente de temperatura, p. ej. método de Bridgman-Stockbarger (C30B 13/00, C30B 15/00, C30B 17/00, C30B 19/00 tienen prioridad; bajo un fluido protector C30B 27/00) [2006.01]"
+  },
+  {
+    "code": "C30B 11/02",
+    "description": "••sin solvente (C30B 11/06 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "C30B 11/04",
+    "description": "••introduciendo en el baño fundido el material a cristalizar o los reactivos que lo forman in situ [2006.01]"
+  },
+  {
+    "code": "C30B 11/06",
+    "description": "••••añadiendo al menos un constituyente del cristal, pero no todos [2006.01]"
+  },
+  {
+    "code": "C30B 11/08",
+    "description": "••••añadiendo todos los constituyentes del cristal durante la cristalización [2006.01]"
+  },
+  {
+    "code": "C30B 11/10",
+    "description": "••••••Constituyentes sólidos o líquidos, p. ej. método de Verneuil [2006.01]"
+  },
+  {
+    "code": "C30B 11/12",
+    "description": "••••••Constituyentes gaseosos, p. ej. crecimiento vapor-líquido-sólido [2006.01]"
+  },
+  {
+    "code": "C30B 11/14",
+    "description": "••caracterizado por el germen, p. ej. por su orientación cristalográfica [2006.01]"
+  },
+  {
+    "code": "C30B 13/00",
+    "description": "Crecimiento de monocristales por fusión de zona; Afinado por fusión de zona (C30B 17/00 tiene prioridad; por cambio de la sección transversal del sólido tratado C30B 15/00; bajo un fluido protector C30B 27/00; crecimiento de materiales policristalinos homogéneos de estructura determinada C30B 28/00; afinado por fusión de zona de materiales específicos, ver las subclases apropiadas para estos materiales) [2006.01]"
+  },
+  {
+    "code": "C30B 13/02",
+    "description": "••Fusión de zona con ayuda de un solvente, p. ej. proceso por desplazamiento del solvente [2006.01]"
+  },
+  {
+    "code": "C30B 13/04",
+    "description": "••Homogeneización por nivelado de zona [2006.01]"
+  },
+  {
+    "code": "C30B 13/06",
+    "description": "••no extendiéndose la zona fundida a toda la sección transversal [2006.01]"
+  },
+  {
+    "code": "C30B 13/08",
+    "description": "••introduciendo en la zona fundida el material a cristalizar o los reactivos que lo forman in situ [2006.01]"
+  },
+  {
+    "code": "C30B 13/10",
+    "description": "••••añadiendo un material de dopado [2006.01]"
+  },
+  {
+    "code": "C30B 13/12",
+    "description": "••••••en estado gas o vapor [2006.01]"
+  },
+  {
+    "code": "C30B 13/14",
+    "description": "••Crisoles o recipientes [2006.01]"
+  },
+  {
+    "code": "C30B 13/16",
+    "description": "••Calentamiento de la zona fundida [2006.01]"
+  },
+  {
+    "code": "C30B 13/18",
+    "description": "••••estando el elemento calefactor en contacto con, o sumergido en, la zona fundida [2006.01]"
+  },
+  {
+    "code": "C30B 13/20",
+    "description": "••••por inducción, p. ej. técnica del alambre caliente (C30B 13/18 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "C30B 13/22",
+    "description": "••••por irradiación o por descarga eléctrica [2006.01]"
+  },
+  {
+    "code": "C30B 13/24",
+    "description": "••••••utilizando radiaciones electromagnéticas [2006.01]"
+  },
+  {
+    "code": "C30B 13/26",
+    "description": "••Agitación de la zona fundida [2006.01]"
+  },
+  {
+    "code": "C30B 13/28",
+    "description": "••Control o regulación [2006.01]"
+  },
+  {
+    "code": "C30B 13/30",
+    "description": "••••Estabilización, o control de la forma, de la zona de fusión, p. ej. por concentradores, por campos electromagnéticos; Control de la sección de cristal [2006.01]"
+  },
+  {
+    "code": "C30B 13/32",
+    "description": "••Mecanismos para desplazar o bien la carga, o bien el dispositivo de calefacción [2006.01]"
+  },
+  {
+    "code": "C30B 13/34",
+    "description": "••caracterizado por el germen, p. ej. por su orientación cristalográfica [2006.01]"
+  },
+  {
+    "code": "C30B 15/00",
+    "description": "Crecimiento de monocristales por estirado fuera de un baño fundido, p. ej. método de Czochralski (bajo un fluido protector C30B 27/00) [2006.01]"
+  },
+  {
+    "code": "C30B 15/02",
+    "description": "••introduciendo en el material fundido el material a cristalizar o los reactivos que lo forman in situ [2006.01]"
+  },
+  {
+    "code": "C30B 15/04",
+    "description": "••••añadiendo un material de dopado, p. ej. para una unión n– p [2006.01]"
+  },
+  {
+    "code": "C30B 15/06",
+    "description": "••Estirado no vertical [2006.01]"
+  },
+  {
+    "code": "C30B 15/08",
+    "description": "••Estirado hacia abajo [2006.01]"
+  },
+  {
+    "code": "C30B 15/10",
+    "description": "••Crisoles o recipientes para sostener el baño fundido [2006.01]"
+  },
+  {
+    "code": "C30B 15/12",
+    "description": "••••Métodos que utilizan un crisol doble [2006.01]"
+  },
+  {
+    "code": "C30B 15/14",
+    "description": "••Calentamiento del baño fundido o del material cristalizado [2006.01]"
+  },
+  {
+    "code": "C30B 15/16",
+    "description": "••••por irradiación o por descarga eléctrica [2006.01]"
+  },
+  {
+    "code": "C30B 15/18",
+    "description": "••••utilizando una calefacción directa por resistencia además de otros medios de calefacción, p. ej. utilizando la calefacción por efecto Peltier [2006.01]"
+  },
+  {
+    "code": "C30B 15/20",
+    "description": "••Control o regulación (control o regulación en general G05) [2006.01]"
+  },
+  {
+    "code": "C30B 15/22",
+    "description": "••••Estabilización, o control de la forma, de la zona fundida próxima al cristal estirado; Control de la sección del cristal [2006.01]"
+  },
+  {
+    "code": "C30B 15/24",
+    "description": "••••••utilizando medios mecánicos, p. ej. guías de formación (matrices de formación para el crecimiento de cristales por alimentación del lecho con control de superficie C30B 15/34) [2006.01]"
+  },
+  {
+    "code": "C30B 15/26",
+    "description": "••••••utilizando detectores de televisión; utilizando detectores fotográficos o de rayos X [2006.01]"
+  },
+  {
+    "code": "C30B 15/28",
+    "description": "••••••utilizando el cambio de peso del cristal o del baño fundido, p. ej. por métodos de flotación [2006.01]"
+  },
+  {
+    "code": "C30B 15/30",
+    "description": "••Mecanismos para hacer girar o para desplazar bien el baño fundido, bien el cristal (métodos de flotación C30B 15/28) [2006.01]"
+  },
+  {
+    "code": "C30B 15/32",
+    "description": "••Portagérmenes, p. ej. mandriles [2006.01]"
+  },
+  {
+    "code": "C30B 15/34",
+    "description": "••Crecimiento de cristales por alimentación del lecho con control de superficie utilizando matrices de formación o grietas de conducción [2006.01]"
+  },
+  {
+    "code": "C30B 15/36",
+    "description": "••caracterizada por el germen, p. ej. por su orientación cristalográfica [2006.01]"
+  },
+  {
+    "code": "C30B 17/00",
+    "description": "Crecimiento de monocristales sobre un germen que queda en el baño fundido durante el crecimiento, p. ej. método de Nacken-Kyropoulos (C30B 15/00 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "C30B 19/00",
+    "description": "Crecimiento de un lecho epitaxial a partir de la fase líquida [2006.01]"
+  },
+  {
+    "code": "C30B 19/02",
+    "description": "••utilizando solventes fundidos, p. ej. fundentes [2006.01]"
+  },
+  {
+    "code": "C30B 19/04",
+    "description": "••••siendo el solvente un constituyente del cristal [2006.01]"
+  },
+  {
+    "code": "C30B 19/06",
+    "description": "••Cámaras de reacción; navecillas para baño fundido; Portasustrato [2006.01]"
+  },
+  {
+    "code": "C30B 19/08",
+    "description": "••Calentamiento de la cámara de reacción o del sustrato [2006.01]"
+  },
+  {
+    "code": "C30B 19/10",
+    "description": "••Control o regulación (control o regulación en general G05) [2006.01]"
+  },
+  {
+    "code": "C30B 19/12",
+    "description": "••caracterizada por el sustrato [2006.01]"
+  },
+  {
+    "code": "C30B 21/00",
+    "description": "Solidificación unidireccional de materiales eutécticos [2006.01]"
+  },
+  {
+    "code": "C30B 21/02",
+    "description": "••por simple colada o por solidificación en un gradiente de temperatura [2006.01]"
+  },
+  {
+    "code": "C30B 21/04",
+    "description": "••por fusión de zona [2006.01]"
+  },
+  {
+    "code": "C30B 21/06",
+    "description": "••por estirado a partir de un baño fundido [2006.01]"
+  },
+  {
+    "code": "C30B 23/00",
+    "description": "Crecimiento de monocristales por condensación de un material evaporado o sublimado [2006.01]"
+  },
+  {
+    "code": "C30B 23/02",
+    "description": "••Crecimiento de un lecho epitaxial [2006.01]"
+  },
+  {
+    "code": "C30B 23/04",
+    "description": "••••Depósito según una configuración determinada, p. ej. utilizando mascarillas [2006.01]"
+  },
+  {
+    "code": "C30B 23/06",
+    "description": "••••Calentamiento del recinto de depósito, del sustrato o del material a evaporar [2006.01]"
+  },
+  {
+    "code": "C30B 23/08",
+    "description": "••••por condensación de vapores ionizados (por pulverización reactiva C30B 25/06) [2006.01]"
+  },
+  {
+    "code": "C30B 25/00",
+    "description": "Crecimiento de monocristales por reacción química de gases reactivos, p. ej. crecimiento por depósito químico en fase vapor [2006.01]"
+  },
+  {
+    "code": "C30B 25/02",
+    "description": "••Crecimiento de un lecho epitaxial [2006.01]"
+  },
+  {
+    "code": "C30B 25/04",
+    "description": "••••Depósito según una configuración determinada, p. ej. utilizando mascarillas [2006.01]"
+  },
+  {
+    "code": "C30B 25/06",
+    "description": "••••por pulverización reactiva [2006.01]"
+  },
+  {
+    "code": "C30B 25/08",
+    "description": "••••Recintos de reacción; Empleo de un material específico para este fin [2006.01]"
+  },
+  {
+    "code": "C30B 25/10",
+    "description": "••••Calentamiento del recinto de reacción o del sustrato [2006.01]"
+  },
+  {
+    "code": "C30B 25/12",
+    "description": "••••Portasustrato o soportes [2006.01]"
+  },
+  {
+    "code": "C30B 25/14",
+    "description": "••••Medios de introducción y evacuación de gases; Modificación de la corriente de gases reactivos [2006.01]"
+  },
+  {
+    "code": "C30B 25/16",
+    "description": "••••Control o regulación (control o regulación en general G05) [2006.01]"
+  },
+  {
+    "code": "C30B 25/18",
+    "description": "••••caracterizado por el sustrato [2006.01]"
+  },
+  {
+    "code": "C30B 25/20",
+    "description": "••••••siendo el sustrato del mismo material que el lecho epitaxial [2006.01]"
+  },
+  {
+    "code": "C30B 25/22",
+    "description": "••••Procesos en los cuales el crecimiento interviene sobre las dos caras [2006.01]"
+  },
+  {
+    "code": "C30B 27/02",
+    "description": "••por estirado a partir de un baño fundido [2006.01]"
+  },
+  {
+    "code": "C30B 28/00",
+    "description": "Producción de materiales policristalinos homogéneos de estructura determinada [2006.01]"
+  },
+  {
+    "code": "C30B 28/02",
+    "description": "••directamente a partir del estado sólido [2006.01]"
+  },
+  {
+    "code": "C30B 28/04",
+    "description": "••a partir de líquidos [2006.01]"
+  },
+  {
+    "code": "C30B 28/06",
+    "description": "••••por solidificación simple o en un gradiente de temperatura [2006.01]"
+  },
+  {
+    "code": "C30B 28/08",
+    "description": "••••por fusión de zona [2006.01]"
+  },
+  {
+    "code": "C30B 28/10",
+    "description": "••••por retirado a partir de un baño fundido [2006.01]"
+  },
+  {
+    "code": "C30B 28/12",
+    "description": "••directamente a partir del estado gaseoso [2006.01]"
+  },
+  {
+    "code": "C30B 28/14",
+    "description": "••••por reacción química de gases reactivos [2006.01]"
+  },
+  {
+    "code": "C30B 29/00",
+    "description": "Monocristales o materiales policristalinos homogéneos de estructura determinada caracterizados por los materiales o por su forma [2006.01]"
+  },
+  {
+    "code": "C30B 29/02",
+    "description": "••Elementos [2006.01]"
+  },
+  {
+    "code": "C30B 29/04",
+    "description": "••••Diamante [2006.01]"
+  },
+  {
+    "code": "C30B 29/06",
+    "description": "••••Silicio [2006.01]"
+  },
+  {
+    "code": "C30B 29/08",
+    "description": "••••Germanio [2006.01]"
+  },
+  {
+    "code": "C30B 29/10",
+    "description": "••Compuestos inorgánicos o composiciones inorgánicas [2006.01]"
+  },
+  {
+    "code": "C30B 29/12",
+    "description": "••••Haluros [2006.01]"
+  },
+  {
+    "code": "C30B 29/14",
+    "description": "••••Fosfatos [2006.01]"
+  },
+  {
+    "code": "C30B 29/16",
+    "description": "••••Oxidos [2006.01]"
+  },
+  {
+    "code": "C30B 29/18",
+    "description": "••••••Cuarzo [2006.01]"
+  },
+  {
+    "code": "C30B 29/20",
+    "description": "••••••Oxidos de aluminio [2006.01]"
+  },
+  {
+    "code": "C30B 29/22",
+    "description": "••••••Oxidos complejos [2006.01]"
+  },
+  {
+    "code": "C30B 29/24",
+    "description": "••••••••de fórmula AMeO3, en la cual A es un metal de las tierras raras y Me es Fe, Ga, Sc, Cr, Co, o Al, p. ej. ortoferritas [2006.01]"
+  },
+  {
+    "code": "C30B 29/26",
+    "description": "••••••••de fórmula BMe2O4, en la cual B es Mg, Ni, Co, Al, Zn o Cd y Me es Fe, Ga, Sc, Cr, Co o Al [2006.01]"
+  },
+  {
+    "code": "C30B 29/28",
+    "description": "••••••••de fórmula A3Me5O12, en la cual A es un metal de las tierras raras y Me es Fe, Ga, Sc, Cr, Co o Al, p. ej. granates [2006.01]"
+  },
+  {
+    "code": "C30B 29/30",
+    "description": "••••••••Niobatos; Vanadatos; Tantalatos [2006.01]"
+  },
+  {
+    "code": "C30B 29/32",
+    "description": "••••••••Titanatos; Germanatos; Molibdatos; Tungstatos [2006.01]"
+  },
+  {
+    "code": "C30B 29/34",
+    "description": "••••Silicatos [2006.01]"
+  },
+  {
+    "code": "C30B 29/36",
+    "description": "••••Carburos [2006.01]"
+  },
+  {
+    "code": "C30B 29/38",
+    "description": "••••Nitruros [2006.01]"
+  },
+  {
+    "code": "C30B 29/40",
+    "description": "••••Compuestos AIIIBV [2006.01]"
+  },
+  {
+    "code": "C30B 29/42",
+    "description": "••••••Arseniuro de galio [2006.01]"
+  },
+  {
+    "code": "C30B 29/44",
+    "description": "••••••Fosfuro de galio [2006.01]"
+  },
+  {
+    "code": "C30B 29/46",
+    "description": "••••Compuestos que contienen azufre, selenio o teluro [2006.01]"
+  },
+  {
+    "code": "C30B 29/48",
+    "description": "••••••Compuestos AIIBVI [2006.01]"
+  },
+  {
+    "code": "C30B 29/50",
+    "description": "••••••••Sulfuro de cadmio [2006.01]"
+  },
+  {
+    "code": "C30B 29/52",
+    "description": "••••Aleaciones [2006.01]"
+  },
+  {
+    "code": "C30B 29/54",
+    "description": "••Compuestos orgánicos [2006.01]"
+  },
+  {
+    "code": "C30B 29/56",
+    "description": "••••Tartratos [2006.01]"
+  },
+  {
+    "code": "C30B 29/58",
+    "description": "••••Compuestos macromoleculares [2006.01]"
+  },
+  {
+    "code": "C30B 29/60",
+    "description": "••caracterizados por la forma [2006.01]"
+  },
+  {
+    "code": "C30B 29/62",
+    "description": "••••Agujas o limaduras [2006.01]"
+  },
+  {
+    "code": "C30B 29/64",
+    "description": "••••Cristales lisos, p. ej. placas, bandas o discos [2006.01]"
+  },
+  {
+    "code": "C30B 29/66",
+    "description": "••••Cristales de forma geométrica compleja, p. ej. tubos, cilindros [2006.01]"
+  },
+  {
+    "code": "C30B 29/68",
+    "description": "••••Cristales de estructura laminar, p. ej. redes superpuestas [2006.01]"
+  },
+  {
+    "code": "C30B 30/00",
+    "description": "Producción de monocristales o materiales policristalinos homogéneos de estructura determinada, caracterizado por la acción de campos eléctricos o magnéticos, de energía ondulatoria o de otras condiciones físicas específicas [2006.01]"
+  },
+  {
+    "code": "C30B 30/02",
+    "description": "••mediante utilización de campos eléctricos, p. ej. electrólisis [2006.01]"
+  },
+  {
+    "code": "C30B 30/04",
+    "description": "••mediante utilización de campos magnéticos [2006.01]"
+  },
+  {
+    "code": "C30B 30/06",
+    "description": "••mediante utilización de vibraciones mecánicas [2006.01]"
+  },
+  {
+    "code": "C30B 30/08",
+    "description": "••en condiciones de gravedad nula o microgravedad [2006.01]"
+  },
+  {
+    "code": "C30B 31/00",
+    "description": "Procesos de difusión o de dopado de monocristales o de materiales policristalinos homogéneos de estructura determinada; Aparatos para estos efectos [2006.01]"
+  },
+  {
+    "code": "C30B 31/02",
+    "description": "••por contacto con la sustancia de difusión en estado sólido [2006.01]"
+  },
+  {
+    "code": "C30B 31/04",
+    "description": "••por contacto con la sustancia de difusión en estado líquido [2006.01]"
+  },
+  {
+    "code": "C30B 31/06",
+    "description": "••por contacto con la sustancia de difusión en estado gaseoso [2006.01]"
+  },
+  {
+    "code": "C30B 31/08",
+    "description": "••••siendo la sustancia de difusión un compuesto de los elementos a difundir [2006.01]"
+  },
+  {
+    "code": "C30B 31/10",
+    "description": "••••Recintos de reacción; Empleo de un material específico para este fin [2006.01]"
+  },
+  {
+    "code": "C30B 31/12",
+    "description": "••••Calefacción del recinto de reacción [2006.01]"
+  },
+  {
+    "code": "C30B 31/14",
+    "description": "••••Portasustrato o soportes [2006.01]"
+  },
+  {
+    "code": "C30B 31/16",
+    "description": "••••Medios de introducción y evacuación de gases; Modificación de la corriente de los gases [2006.01]"
+  },
+  {
+    "code": "C30B 31/18",
+    "description": "••••Control o regulación [2006.01]"
+  },
+  {
+    "code": "C30B 31/20",
+    "description": "••Dopado por irradiación por medio de radiaciones electromagnéticas o por radiación corpuscular [2006.01]"
+  },
+  {
+    "code": "C30B 31/22",
+    "description": "••••por implantación de iones [2006.01]"
+  },
+  {
+    "code": "C30B 33/00",
+    "description": "Tratamiento posterior de monocristales o de materiales policristalinos homogéneos de estructura determinada (C30B 31/00 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "C30B 33/02",
+    "description": "••Tratamiento térmico (C30B 33/04, C30B 33/06 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "C30B 33/04",
+    "description": "••mediante utilización de campos eléctricos o magnéticos o de radiaciones corpusculares [2006.01]"
+  },
+  {
+    "code": "C30B 33/06",
+    "description": "••Ensamblaje de cristales [2006.01]"
+  },
+  {
+    "code": "C30B 33/08",
+    "description": "••Grabado [2006.01]"
+  },
+  {
+    "code": "C30B 33/10",
+    "description": "••••en soluciones o en baños fundidos [2006.01]"
+  },
+  {
+    "code": "C30B 33/12",
+    "description": "••••en atmósfera gaseosa o en plasma [2006.01]"
+  }
+]

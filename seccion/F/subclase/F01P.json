@@ -1,0 +1,198 @@
+[
+  {
+    "code": "F01P 1/00",
+    "description": "Refrigeración por aire (bombeo del aire de enfriamiento o del líquido de enfriamiento F01P 5/00; control de la circulación o de la alimentación de refrigerantes F01P 7/00) [2006.01]"
+  },
+  {
+    "code": "F01P 1/02",
+    "description": "••Disposición para el enfriamiento de los cilindros o de las cabezas de los cilindros, p. ej. canalización de aire desde su fuente de presión hasta los cilindros a lo largo de los cilindros [2006.01]"
+  },
+  {
+    "code": "F01P 1/04",
+    "description": "••Disposición para el enfriamiento de los pistones [2006.01]"
+  },
+  {
+    "code": "F01P 1/06",
+    "description": "••Disposición para el enfriamiento de otras partes del motor o de la máquina [2006.01]"
+  },
+  {
+    "code": "F01P 1/08",
+    "description": "••••para el enfriamiento de las válvulas de admisión o de escape [2006.01]"
+  },
+  {
+    "code": "F01P 1/10",
+    "description": "••••para el enfriamiento de los inyectores de combustible o de las bujías [2006.01]"
+  },
+  {
+    "code": "F01P 3/00",
+    "description": "Refrigeración por líquido (bombeo del aire de enfriamiento o del líquido de enfriamiento F01P 5/00; control de la circulación o de la alimentación de refrigerantes F01P 7/00) [2006.01]"
+  },
+  {
+    "code": "F01P 3/02",
+    "description": "••Disposición para el enfriamiento de los cilindros o de las cabezas de los cilindros [2006.01]"
+  },
+  {
+    "code": "F01P 3/04",
+    "description": "••••Cambiadores de calor \"líquido-aire\" combinados con o dispuestos en los cilindros o en las cabezas de los cilindros [2006.01]"
+  },
+  {
+    "code": "F01P 3/06",
+    "description": "••Disposición para el enfriamiento de los pistones [2006.01]"
+  },
+  {
+    "code": "F01P 3/08",
+    "description": "••••Enfriamiento del exterior de los pistones únicamente, p. ej. chorros [2006.01]"
+  },
+  {
+    "code": "F01P 3/10",
+    "description": "••••Enfriamiento mediante circulación de los refrigerantes a través de los pistones [2006.01]"
+  },
+  {
+    "code": "F01P 3/12",
+    "description": "••Disposición para el enfriamiento de otras partes de los motores o máquinas [2006.01]"
+  },
+  {
+    "code": "F01P 3/14",
+    "description": "••••para el enfriamiento de las válvulas de admisión o de escape [2006.01]"
+  },
+  {
+    "code": "F01P 3/16",
+    "description": "••••para el enfriamiento de los inyectores de combustible o de las bujías [2006.01]"
+  },
+  {
+    "code": "F01P 3/18",
+    "description": "••Disposiciones o montajes de cambiadores de calor \"líquido aire\" (cuando estas disposiciones están sobre los cilindros o sobre sus cabezas F01P 3/04; disposiciones relativas a los vehículos B60K 11/04) [2006.01]"
+  },
+  {
+    "code": "F01P 3/20",
+    "description": "••Circuitos de enfriamiento no específicos para una pieza particular de motor o de máquina (F01P 3/22 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F01P 3/22",
+    "description": "••caracterizada por la evaporación y la condensación en circuito cerrado del refrigerante (cualquier otro enfriamiento por evaporación F01P 9/02); caracterizada por temperaturas de refrigerante superiores al punto de ebullición atmosférico normal [2006.01]"
+  },
+  {
+    "code": "F01P 5/00",
+    "description": "Bombeo del aire de enfriamiento o del líquido de enfriamiento (control de la circulación o del suministro de refrigerantes por influencia sobre el accionamiento de las bombas F01P 7/00) [2006.01]"
+  },
+  {
+    "code": "F01P 5/02",
+    "description": "••Bombeo del aire de refrigeración; Disposiciones de las bombas de aire de refrigeración, p. ej. ventiladores o soplantes [2006.01]"
+  },
+  {
+    "code": "F01P 5/04",
+    "description": "••••Accionamiento de bombas [2006.01]"
+  },
+  {
+    "code": "F01P 5/06",
+    "description": "••••Conducción del aire hacia o desde los ventiladores [2006.01]"
+  },
+  {
+    "code": "F01P 5/08",
+    "description": "••••Utilización de los gases de escape para el bombeo de aire de refrigeración [2006.01]"
+  },
+  {
+    "code": "F01P 5/10",
+    "description": "••Bombeo del líquido de refrigeración; Disposiciones de las bombas de refrigeración [2006.01]"
+  },
+  {
+    "code": "F01P 5/12",
+    "description": "••••Accionamiento de bombas [2006.01]"
+  },
+  {
+    "code": "F01P 5/14",
+    "description": "••Medios de seguridad contra los fallos del accionamiento de las bombas de refrigeración, p. ej. parada del motor; Medios para indicar el funcionamiento de las bombas de refrigerante [2006.01]"
+  },
+  {
+    "code": "F01P 7/00",
+    "description": "Control del flujo de refrigerante [2006.01]"
+  },
+  {
+    "code": "F01P 7/02",
+    "description": "••siendo el refrigerante aire [2006.01]"
+  },
+  {
+    "code": "F01P 7/04",
+    "description": "••••variando la velocidad de la bomba, p. ej. haciendo cambiar la relación de su accionamiento [2006.01]"
+  },
+  {
+    "code": "F01P 7/06",
+    "description": "••••haciendo variar el paso de hélice [2006.01]"
+  },
+  {
+    "code": "F01P 7/08",
+    "description": "••••mediante retirada o puesta en circuito de las bombas [2006.01]"
+  },
+  {
+    "code": "F01P 7/10",
+    "description": "••••actuando sobre el caudal de aire que circula en los cambiadores de calor \"líquido-aire\" [2006.01]"
+  },
+  {
+    "code": "F01P 7/12",
+    "description": "••••••por regulación termostática [2006.01]"
+  },
+  {
+    "code": "F01P 7/14",
+    "description": "••siendo el refrigerante líquido [2006.01]"
+  },
+  {
+    "code": "F01P 7/16",
+    "description": "••••por control termostático [2006.01]"
+  },
+  {
+    "code": "F01P 9/02",
+    "description": "••Refrigeración por evaporación, p. ej. mediante proyección de gotitas de agua sobre los cilindros (evaporación y condensación de un agente líquido en circuito cerrado F01P 3/22) [2006.01]"
+  },
+  {
+    "code": "F01P 9/04",
+    "description": "••mediante utilización simultánea o alternativa de un enfriamiento por aire y de un enfriamiento por líquido (F01P 9/02 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F01P 9/06",
+    "description": "••mediante utilización de aparatos refrigerantes, p. ej. del tipo compresor o absorbedor [2006.01]"
+  },
+  {
+    "code": "F01P 11/00",
+    "description": "Partes constitutivas, detalles o accesorios no cubiertos por, o con un interés distinto que, los grupos F01P 1/00-F01P 9/00 [2006.01]"
+  },
+  {
+    "code": "F01P 11/02",
+    "description": "••Dispositivos anti-rebose, de evacuación o de vaciado del refrigerante (vaciado automático para temperaturas de congelación F01P 11/20) [2006.01]"
+  },
+  {
+    "code": "F01P 11/04",
+    "description": "••Disposiciones de tuberías o conductos para líquidos [2006.01]"
+  },
+  {
+    "code": "F01P 11/06",
+    "description": "••Limpieza (en general B08B); Lucha contra la corrosión (en general C23F) [2006.01]"
+  },
+  {
+    "code": "F01P 11/08",
+    "description": "••Disposiciones de refrigeradores del lubrificante (en los aparatos de lubrificación F01M) [2006.01]"
+  },
+  {
+    "code": "F01P 11/10",
+    "description": "••Conducción del aire de refrigeración hacia o desde los cambiadores de calor \"líquido-aire\" [2006.01]"
+  },
+  {
+    "code": "F01P 11/12",
+    "description": "••Filtrado, enfriamiento o silenciamiento para el aire de refrigeración [2006.01]"
+  },
+  {
+    "code": "F01P 11/14",
+    "description": "••Dispositivos indicadores; Otros dispositivos de seguridad [2006.01]"
+  },
+  {
+    "code": "F01P 11/16",
+    "description": "••••relativos a la temperatura del refrigerante (F01P 11/20 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F01P 11/18",
+    "description": "••••relativos a la presión, el gasto o el nivel de refrigerante [2006.01]"
+  },
+  {
+    "code": "F01P 11/20",
+    "description": "••••relativos a las condiciones atmosféricas de congelación, p. ej. vaciado o calentado automático bajo muy bajas temperaturas [2006.01]"
+  }
+]

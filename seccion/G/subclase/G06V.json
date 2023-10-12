@@ -1,0 +1,570 @@
+[
+  {
+    "code": "G06V 10/00",
+    "description": "Disposiciones para el reconocimiento o la comprensión de imágenes o vídeos (reconocimiento de caracteres en imágenes o vídeos G06V 30/10) [2022.01]"
+  },
+  {
+    "code": "G06V 10/10",
+    "description": "••Adquisición de imágenes (escaneo y transmisión de imágenes de documentos H04N 1/00; control de cámaras digitales H04N 23/60) [2022.01]"
+  },
+  {
+    "code": "G06V 10/12",
+    "description": "••••Detalles de las disposiciones de adquisición; Detalles constructivos de las mismas [2022.01]"
+  },
+  {
+    "code": "G06V 10/14",
+    "description": "••••••Características ópticas de los dispositivos que realizan la adquisición o de las disposiciones de iluminación [2022.01]"
+  },
+  {
+    "code": "G06V 10/141",
+    "description": "••••••••Control de la iluminación [2022.01]"
+  },
+  {
+    "code": "G06V 10/143",
+    "description": "••••••••Detección o iluminación a diferentes longitudes de onda [2022.01]"
+  },
+  {
+    "code": "G06V 10/145",
+    "description": "••••••••Iluminación especialmente adaptada para el reconocimiento de patrones, p. ej.  utilizando rejillas [2022.01]"
+  },
+  {
+    "code": "G06V 10/147",
+    "description": "••••••••Detalles de los sensores, p. ej. lentes de sensores (sensores de huellas dactilares o palmares G06V 40/13; sensores vasculares G06V 40/145; sensores oculares G06V 40/19) [2022.01]"
+  },
+  {
+    "code": "G06V 10/20",
+    "description": "••Preprocesamiento de imágenes [2022.01]"
+  },
+  {
+    "code": "G06V 10/22",
+    "description": "••••mediante la selección de una región específica que contenga o haga referencia a un patrón; Localización o procesamiento de regiones específicas para guiar la detección o el reconocimiento [2022.01]"
+  },
+  {
+    "code": "G06V 10/24",
+    "description": "••••Alineación, centrado, detección de la orientación o corrección de la imagen [2022.01]"
+  },
+  {
+    "code": "G06V 10/25",
+    "description": "••••Determinación de la región de interés [ROI] o de un volumen de interés [VOI] [2022.01]"
+  },
+  {
+    "code": "G06V 10/26",
+    "description": "••••Segmentación de patrones en el campo de la imagen; Corte o fusión de elementos de la imagen para establecer la región del patrón, p. ej. técnicas basadas en la agrupación; Detección de oclusión [2022.01]"
+  },
+  {
+    "code": "G06V 10/28",
+    "description": "••••Cuantificación de la imagen, p. ej. umbralización del histograma para discriminar entre el fondo y el primer plano [2022.01]"
+  },
+  {
+    "code": "G06V 10/30",
+    "description": "••••Filtro de ruido [2022.01]"
+  },
+  {
+    "code": "G06V 10/32",
+    "description": "••••Normalización de las dimensiones del patrón [2022.01]"
+  },
+  {
+    "code": "G06V 10/34",
+    "description": "••••Suavizado o adelgazamiento del patrón; Operaciones morfológicas; Esqueletización [2022.01]"
+  },
+  {
+    "code": "G06V 10/36",
+    "description": "••••Aplicación de un operador local, es decir, medios para operar sobre los puntos de la imagen situados en las proximidades de un punto determinado; Operaciones de filtrado local no lineal, p. ej. el filtrado de la mediana [2022.01]"
+  },
+  {
+    "code": "G06V 10/40",
+    "description": "••Extracción de características de imagen o vídeo [2022.01]"
+  },
+  {
+    "code": "G06V 10/42",
+    "description": "••••Extracción de características globales mediante el análisis de todo el patrón, p. ej. utilizando transformaciones en el dominio de la frecuencia o la autocorrelación [2022.01]"
+  },
+  {
+    "code": "G06V 10/422",
+    "description": "••••••para representar la estructura del patrón o la forma de un objeto a tal efecto [2022.01]"
+  },
+  {
+    "code": "G06V 10/424",
+    "description": "••••••••Representación sintáctica, p. ej. mediante el uso de alfabetos o gramáticas [2022.01]"
+  },
+  {
+    "code": "G06V 10/426",
+    "description": "••••••••Representaciones gráficas [2022.01]"
+  },
+  {
+    "code": "G06V 10/44",
+    "description": "••••Extracción de características locales mediante el análisis de partes del patrón, p. ej. detectando bordes, contornos, bucles, esquinas, trazos o intersecciones; Análisis de conectividad, por ejemplo, de componentes conectados [2022.01]"
+  },
+  {
+    "code": "G06V 10/46",
+    "description": "••••Descriptores de forma, de contorno o puntuales, p. ej. transformación de características invariantes de escala [SIFT] o bolsas de palabras [BoW]; Características regionales salientes (extracción de características de color G06V 10/56) [2022.01]"
+  },
+  {
+    "code": "G06V 10/48",
+    "description": "••••mediante la asignación de valores característicos del patrón a un espacio de parámetros, p. ej. transformación de Hough [2022.01]"
+  },
+  {
+    "code": "G06V 10/50",
+    "description": "••••realizando operaciones dentro de bloques de imágenes; utilizando histogramas, p. ej. el histograma de gradientes orientados [HoG]; sumando los valores de intensidad de la imagen; Análisis de proyección [2022.01]"
+  },
+  {
+    "code": "G06V 10/52",
+    "description": "••••Análisis del espacio de escala, p. ej. análisis wavelet (representaciones de límites multiescala G06V 10/42) [2022.01]"
+  },
+  {
+    "code": "G06V 10/54",
+    "description": "••••en relación con la textura [2022.01]"
+  },
+  {
+    "code": "G06V 10/56",
+    "description": "••••en relación con el color [2022.01]"
+  },
+  {
+    "code": "G06V 10/58",
+    "description": "••••en relación con los datos hiperespectrales [2022.01]"
+  },
+  {
+    "code": "G06V 10/60",
+    "description": "••••en relación con las propiedades de la iluminación, p. ej. utilizando un modelo de reflectancia o de iluminación [2022.01]"
+  },
+  {
+    "code": "G06V 10/62",
+    "description": "••••relacionados con una dimensión temporal, p. ej. extracción de características basadas en el tiempo; Seguimiento de patrones [2022.01]"
+  },
+  {
+    "code": "G06V 10/70",
+    "description": "••mediante el reconocimiento de patrones o el aprendizaje automático (reconocimiento óptico de patrones o cálculos electrónicos para ello G06V 10/88) [2022.01]"
+  },
+  {
+    "code": "G06V 10/72",
+    "description": "••••Preparación de datos, p. ej. preprocesamiento estadístico de las características de la imagen o el vídeo [2022.01]"
+  },
+  {
+    "code": "G06V 10/74",
+    "description": "••••Comparación de patrones de imagen o vídeo; Medidas de proximidad en espacios de características [2022.01]"
+  },
+  {
+    "code": "G06V 10/75",
+    "description": "••••••Organización de los procesos de emparejamiento, p. ej. comparaciones simultáneas o secuenciales de las características de la imagen o el vídeo; Enfoques gruesos y finos, p. ej. enfoques multiescala; Uso del análisis del contexto; Selección de diccionarios [2022.01]"
+  },
+  {
+    "code": "G06V 10/762",
+    "description": "••••mediante la agrupación, p. ej. de rostros similares en las redes sociales [2022.01]"
+  },
+  {
+    "code": "G06V 10/764",
+    "description": "••••mediante la clasificación, p. ej. de objetos de vídeo [2022.01]"
+  },
+  {
+    "code": "G06V 10/766",
+    "description": "••••mediante la regresión, p. ej. proyectando las características en hiperplanos [2022.01]"
+  },
+  {
+    "code": "G06V 10/77",
+    "description": "••••Procesamiento de las características de la imagen o el vídeo en espacios de características; Utilización de la integración o la reducción de datos, p. ej. el análisis de componentes principales [PCA] o el análisis de componentes independientes [ICA] o los mapas de autoorganización [SOM]; Separación de fuentes ciegas [2022.01]"
+  },
+  {
+    "code": "G06V 10/771",
+    "description": "••••••Selección de características, p. ej. selección de características representativas de un espacio de características multidimensional [2022.01]"
+  },
+  {
+    "code": "G06V 10/772",
+    "description": "••••••Determinación de patrones de referencia representativos, p. ej. promediando o distorsionando patrones; Generación de diccionarios [2022.01]"
+  },
+  {
+    "code": "G06V 10/774",
+    "description": "••••••Generación de conjuntos de patrones de entrenamiento; Métodos Bootstrap, p. ej. bagging o boosting [2022.01]"
+  },
+  {
+    "code": "G06V 10/776",
+    "description": "••••••Validación; Evaluación del rendimiento [2022.01]"
+  },
+  {
+    "code": "G06V 10/778",
+    "description": "••••••Aprendizaje activo de patrones, p. ej. aprendizaje en línea de características de imágenes o vídeos [2022.01]"
+  },
+  {
+    "code": "G06V 10/80",
+    "description": "••••••Fusión, es decir, combinación de datos procedentes de diversas fuentes a nivel de sensores, de preprocesamiento, de extracción de características o de clasificación (identificación o verificación multimodal de hablantes G10L 17/10) [2022.01]"
+  },
+  {
+    "code": "G06V 10/82",
+    "description": "••••utilizando redes neuronales [2022.01]"
+  },
+  {
+    "code": "G06V 10/84",
+    "description": "••••utilizando modelos gráficos probabilísticos a partir de las características de la imagen o el vídeo, p. ej. modelos de Markov o redes bayesianas [2022.01]"
+  },
+  {
+    "code": "G06V 10/86",
+    "description": "••••utilizando representaciones sintácticas o estructurales del patrón de imagen o vídeo, p. ej. reconocimiento de cadenas simbólicas; utilizando la coincidencia de gráficos [2022.01]"
+  },
+  {
+    "code": "G06V 10/88",
+    "description": "••Reconocimiento de imágenes o vídeos por medios ópticos, ej filtros de referencia, máscaras holográficas, filtros en el dominio de la frecuencia o filtros en el dominio espacial [2022.01]"
+  },
+  {
+    "code": "G06V 10/94",
+    "description": "••Arquitecturas de hardware o software especialmente adaptadas para la comprensión de imágenes o vídeos [2022.01]"
+  },
+  {
+    "code": "G06V 10/96",
+    "description": "••Gestión de tareas de reconocimiento de imágenes o vídeos [2022.01]"
+  },
+  {
+    "code": "G06V 10/98",
+    "description": "••Detección o corrección de errores, p. ej. volviendo a escanear el patrón o mediante intervención humana; Evaluación de la calidad de los patrones adquiridos [2022.01]"
+  },
+  {
+    "code": "G06V 20/00",
+    "description": "Escenas; Elementos específicos de la escena (control de cámaras digitales H04N 23/60) [2022.01]"
+  },
+  {
+    "code": "G06V 20/05",
+    "description": "••Escenas subacuáticas [2022.01]"
+  },
+  {
+    "code": "G06V 20/10",
+    "description": "••Escenas terrestres (escenas vigiladas con cámaras estáticas G06V 20/52; escenas percibidas desde el exterior de un vehículo G06V 20/56; escenas percibidas desde el interior de un vehículo G06V 20/59) [2022.01]"
+  },
+  {
+    "code": "G06V 20/13",
+    "description": "••••Imágenes de satélite [2022.01]"
+  },
+  {
+    "code": "G06V 20/17",
+    "description": "••••tomadas desde aviones o por drones [2022.01]"
+  },
+  {
+    "code": "G06V 20/20",
+    "description": "••en escenas de realidad aumentada [2022.01]"
+  },
+  {
+    "code": "G06V 20/30",
+    "description": "••en álbumes, colecciones o contenidos compartidos, p. ej. fotos o vídeos de redes sociales [2022.01]"
+  },
+  {
+    "code": "G06V 20/40",
+    "description": "••en contenido de vídeo (extracción de texto superpuesto G06V 20/62; recuperación de vídeo G06F 16/70; procesamiento de flujos elementales de vídeo en servidores de vídeo H04N 21/234; procesamiento de flujos elementales de vídeo en clientes de vídeo H04N 21/44) [2022.01]"
+  },
+  {
+    "code": "G06V 20/50",
+    "description": "••Contexto o entorno de la imagen [2022.01]"
+  },
+  {
+    "code": "G06V 20/52",
+    "description": "••••Vigilancia o seguimiento de actividades, p. ej. para reconocer objetos sospechosos (reconocimiento de objetos microscópicos G06V 20/69) [2022.01]"
+  },
+  {
+    "code": "G06V 20/54",
+    "description": "••••••de tráfico, p. ej. coches en la carretera, trenes o barcos [2022.01]"
+  },
+  {
+    "code": "G06V 20/56",
+    "description": "••••exterior de un vehículo mediante el uso de sensores montados en el vehículo [2022.01]"
+  },
+  {
+    "code": "G06V 20/58",
+    "description": "••••••Reconocimiento de objetos u obstáculos en movimiento, p. ej. vehículos o peatones; Reconocimiento de objetos de tráfico, p. ej. señales de tráfico, semáforos o carreteras [2022.01]"
+  },
+  {
+    "code": "G06V 20/59",
+    "description": "••••en el interior de un vehículo, p. ej. en relación con la ocupación de los asientos, el estado del conductor o las condiciones de iluminación interior [2022.01]"
+  },
+  {
+    "code": "G06V 20/60",
+    "description": "••Tipo de objetos [2022.01]"
+  },
+  {
+    "code": "G06V 20/62",
+    "description": "••••Texto, p. ej. de matrículas, textos superpuestos o subtítulos en imágenes de televisión [2022.01]"
+  },
+  {
+    "code": "G06V 20/64",
+    "description": "••••Objetos tridimensionales [2022.01]"
+  },
+  {
+    "code": "G06V 20/66",
+    "description": "••••Abalorios, p. ej. botones de camisa o artículos de joyería (reconocimiento de objetos microscópicos G06V 20/69) [2022.01]"
+  },
+  {
+    "code": "G06V 20/68",
+    "description": "••••Alimentos, p. ej. frutas o verduras [2022.01]"
+  },
+  {
+    "code": "G06V 20/69",
+    "description": "••••Objetos microscópicos, p. ej. células biológicas o partes celulares [2022.01]"
+  },
+  {
+    "code": "G06V 20/70",
+    "description": "••Etiquetado del contenido de la escena, p. ej. derivando representaciones sintácticas o semánticas [2022.01]"
+  },
+  {
+    "code": "G06V 20/80",
+    "description": "••Reconocimiento de objetos de imagen caracterizados por patrones aleatorios únicos [2022.01]"
+  },
+  {
+    "code": "G06V 20/90",
+    "description": "••Identificación de un sensor de imagen a partir de sus datos de salida [2022.01]"
+  },
+  {
+    "code": "G06V 30/00",
+    "description": "Reconocimiento de caracteres; Reconocimiento de tinta digital; Reconocimiento de patrones basados en imágenes orientadas a documentos (escaneo, transmisión o reproducción de documentos o similares H04N 1/00) [2022.01]"
+  },
+  {
+    "code": "G06V 30/10",
+    "description": "••Reconocimiento de caracteres [2022.01]"
+  },
+  {
+    "code": "G06V 30/12",
+    "description": "••••Detección o corrección de errores, p. ej. volviendo a escanear el patrón [2022.01]"
+  },
+  {
+    "code": "G06V 30/14",
+    "description": "••••Adquisición de imágenes [2022.01]"
+  },
+  {
+    "code": "G06V 30/142",
+    "description": "••••••utilizando instrumentos de mano; Detalles de construcción de los instrumentos [2022.01]"
+  },
+  {
+    "code": "G06V 30/144",
+    "description": "••••••utilizando una ranura desplazada sobre la imagen; utilizando elementos de detección discretos en puntos predeterminados; utilizando medios automáticos de seguimiento de curvas [2022.01]"
+  },
+  {
+    "code": "G06V 30/146",
+    "description": "••••••Alineación o centrado de la toma de imagen o del campo de imagen [2022.01]"
+  },
+  {
+    "code": "G06V 30/148",
+    "description": "••••••Segmentación de regiones de caracteres [2022.01]"
+  },
+  {
+    "code": "G06V 30/16",
+    "description": "••••Preprocesamiento de imágenes [2022.01]"
+  },
+  {
+    "code": "G06V 30/162",
+    "description": "••••••Cuantificación de la señal de la imagen [2022.01]"
+  },
+  {
+    "code": "G06V 30/164",
+    "description": "••••••Filtro de ruido [2022.01]"
+  },
+  {
+    "code": "G06V 30/166",
+    "description": "••••••Normalización de las dimensiones del patrón [2022.01]"
+  },
+  {
+    "code": "G06V 30/168",
+    "description": "••••••Alisamiento o adelgazamiento del patrón; Esqueletización [2022.01]"
+  },
+  {
+    "code": "G06V 30/18",
+    "description": "••••Extracción de rasgos o características de la imagen [2022.01]"
+  },
+  {
+    "code": "G06V 30/182",
+    "description": "••••••codificando el contorno del patrón [2022.01]"
+  },
+  {
+    "code": "G06V 30/184",
+    "description": "••••••analizando los segmentos que se cruzan con el patrón [2022.01]"
+  },
+  {
+    "code": "G06V 30/186",
+    "description": "••••••derivando propiedades matemáticas o geométricas de toda la imagen [2022.01]"
+  },
+  {
+    "code": "G06V 30/19",
+    "description": "••••Reconocimiento por medios electrónicos [2022.01]"
+  },
+  {
+    "code": "G06V 30/192",
+    "description": "••••••utilizando comparaciones o correlaciones simultáneas de las señales de imagen con una pluralidad de referencias [2022.01]"
+  },
+  {
+    "code": "G06V 30/194",
+    "description": "••••••••Referencias ajustables por un método adaptativo, p. ej. aprendizaje [2022.01]"
+  },
+  {
+    "code": "G06V 30/196",
+    "description": "••••••utilizando comparaciones secuenciales de las señales de imagen con una pluralidad de referencias [2022.01]"
+  },
+  {
+    "code": "G06V 30/198",
+    "description": "••••••••dependiendo la selección de la siguiente referencia del resultado de la comparación anterior [2022.01]"
+  },
+  {
+    "code": "G06V 30/199",
+    "description": "••••Disposiciones para el reconocimiento mediante máscaras ópticas de referencia, p. ej. máscaras holográficas [2022.01]"
+  },
+  {
+    "code": "G06V 30/20",
+    "description": "••••Combinación de funciones de adquisición, preprocesamiento o reconocimiento [2022.01]"
+  },
+  {
+    "code": "G06V 30/22",
+    "description": "••••caracterizado por el tipo de escritura [2022.01]"
+  },
+  {
+    "code": "G06V 30/222",
+    "description": "••••••de caracteres separados por espacios [2022.01]"
+  },
+  {
+    "code": "G06V 30/224",
+    "description": "••••••de caracteres impresos con marcas de código adicionales o que contienen marcas de código [2022.01]"
+  },
+  {
+    "code": "G06V 30/226",
+    "description": "••••••de escritura cursiva [2022.01]"
+  },
+  {
+    "code": "G06V 30/228",
+    "description": "••••••de escritura tridimensional, p. ej. escritura en el aire [2022.01]"
+  },
+  {
+    "code": "G06V 30/24",
+    "description": "••••caracterizado por el método de tratamiento o reconocimiento (segmentación de regiones de caracteres G06V 30/148) [2022.01]"
+  },
+  {
+    "code": "G06V 30/242",
+    "description": "••••••División de las secuencias de caracteres en grupos antes del reconocimiento; Selección de diccionarios [2022.01]"
+  },
+  {
+    "code": "G06V 30/244",
+    "description": "••••••••que utilizan propiedades gráficas, p. ej. tipo de alfabeto o de fuente [2022.01]"
+  },
+  {
+    "code": "G06V 30/246",
+    "description": "••••••••que utilizan propiedades lingüísticas, p. ej. específicas de la lengua inglesa o alemana [2022.01]"
+  },
+  {
+    "code": "G06V 30/26",
+    "description": "••••Técnicas de posprocesamiento, p. ej. para corregir el resultado del reconocimiento [2022.01]"
+  },
+  {
+    "code": "G06V 30/262",
+    "description": "••••••que utilizan el análisis del contexto, p. ej. contexto léxico, sintáctico o semántico [2022.01]"
+  },
+  {
+    "code": "G06V 30/28",
+    "description": "••••especialmente adaptado al tipo de alfabeto, p. ej. alfabeto latino [2022.01]"
+  },
+  {
+    "code": "G06V 30/30",
+    "description": "••••en función del tipo de datos [2022.01]"
+  },
+  {
+    "code": "G06V 30/302",
+    "description": "••••••Imágenes con caracteres para discriminar el acceso humano del automatizado por ordenador [2022.01]"
+  },
+  {
+    "code": "G06V 30/304",
+    "description": "••••••Notaciones musicales [2022.01]"
+  },
+  {
+    "code": "G06V 30/32",
+    "description": "••••Tinta digital [2022.01]"
+  },
+  {
+    "code": "G06V 30/40",
+    "description": "••Reconocimiento de patrones basado en imágenes orientadas a documentos [2022.01]"
+  },
+  {
+    "code": "G06V 30/41",
+    "description": "••••Análisis del contenido del documento (reconocimiento de los caracteres impresos a partir de las marcas de código G06V 30/224) [2022.01]"
+  },
+  {
+    "code": "G06V 30/412",
+    "description": "••••••Análisis de la maquetación de documentos estructurados con líneas impresas o cuadros de entrada, p. ej. formularios comerciales o tablas [2022.01]"
+  },
+  {
+    "code": "G06V 30/413",
+    "description": "••••••Clasificación del contenido, p. ej. texto, fotografías o tablas [2022.01]"
+  },
+  {
+    "code": "G06V 30/414",
+    "description": "••••••Extracción de la estructura geométrica, p. ej. el árbol de diseño; Segmentación de bloques, p. ej. cuadros delimitadores para gráficos o texto [2022.01]"
+  },
+  {
+    "code": "G06V 30/416",
+    "description": "••••••Extracción de la estructura lógica, p. ej. capítulos, secciones o números de página; Identificación de los elementos del documento, p. ej. los autores [2022.01]"
+  },
+  {
+    "code": "G06V 30/418",
+    "description": "••••••Cotejo de documentos, p. ej. de imágenes de documentos [2022.01]"
+  },
+  {
+    "code": "G06V 30/42",
+    "description": "••••en función del tipo de documento [2022.01]"
+  },
+  {
+    "code": "G06V 30/422",
+    "description": "••••••Dibujos técnicos; Mapas geográficos [2022.01]"
+  },
+  {
+    "code": "G06V 30/424",
+    "description": "••••••Imágenes postales, p. ej. etiquetas o direcciones en paquetes o sobres postales [2022.01]"
+  },
+  {
+    "code": "G06V 40/00",
+    "description": "Reconocimiento de patrones biométricos, relacionados con personas o animales, en datos de imagen o vídeo [2022.01]"
+  },
+  {
+    "code": "G06V 40/10",
+    "description": "••Cuerpos humanos o animales, p. ej. ocupantes de vehículos o peatones; Partes del cuerpo, p. ej. manos [2022.01]"
+  },
+  {
+    "code": "G06V 40/12",
+    "description": "••••Huellas dactilares o palmares [2022.01]"
+  },
+  {
+    "code": "G06V 40/13",
+    "description": "••••••Sensores a tal efecto [2022.01]"
+  },
+  {
+    "code": "G06V 40/14",
+    "description": "••••Patrones vasculares [2022.01]"
+  },
+  {
+    "code": "G06V 40/145",
+    "description": "••••••Sensores a tal efecto [2022.01]"
+  },
+  {
+    "code": "G06V 40/16",
+    "description": "••••Rostros humanos, p. ej. partes de la cara, bocetos o expresiones [2022.01]"
+  },
+  {
+    "code": "G06V 40/18",
+    "description": "••••Características del ojo, p. ej. del iris [2022.01]"
+  },
+  {
+    "code": "G06V 40/19",
+    "description": "••••••Sensores a tal efecto [2022.01]"
+  },
+  {
+    "code": "G06V 40/20",
+    "description": "••Movimientos o comportamientos, p. ej. reconocimiento de gestos (reconocimiento de expresiones faciales G06V 40/16) [2022.01]"
+  },
+  {
+    "code": "G06V 40/30",
+    "description": "••Reconocimiento de escritores; Lectura y verificación de firmas [2022.01]"
+  },
+  {
+    "code": "G06V 40/40",
+    "description": "••Detección de falsificaciones, p. ej. detección en vivo [2022.01]"
+  },
+  {
+    "code": "G06V 40/50",
+    "description": "••Mantenimiento de los datos biométricos o su registro [2022.01]"
+  },
+  {
+    "code": "G06V 40/60",
+    "description": "••Medios estáticos o dinámicos para ayudar al usuario a colocar una parte del cuerpo para la adquisición biométrica [2022.01]"
+  },
+  {
+    "code": "G06V 40/70",
+    "description": "••Biometría multimodal, p. ej. combinando información de diferentes modalidades biométricas [2022.01]"
+  }
+]

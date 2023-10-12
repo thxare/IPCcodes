@@ -1,0 +1,522 @@
+[
+  {
+    "code": "G09F 1/00",
+    "description": "Pancartas en cartón o similares hechas de un material plegable o flexible [2006.01]"
+  },
+  {
+    "code": "G09F 1/02",
+    "description": "••Pancartas simples esencialmente planas [2006.01]"
+  },
+  {
+    "code": "G09F 1/04",
+    "description": "••Pancartas plegadas [2006.01]"
+  },
+  {
+    "code": "G09F 1/06",
+    "description": "••••que pueden ser desplegadas en las tres dimensiones (G09F 1/08 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G09F 1/08",
+    "description": "••que imitan total o parcialmente la forma de un objeto, p. ej. del artículo al que se aplica la publicidad [2006.01]"
+  },
+  {
+    "code": "G09F 1/10",
+    "description": "••Soportes para pancartas o portapancartas [2006.01]"
+  },
+  {
+    "code": "G09F 1/12",
+    "description": "••••Marcos con este uso [2006.01]"
+  },
+  {
+    "code": "G09F 1/14",
+    "description": "••••en forma de patas [2006.01]"
+  },
+  {
+    "code": "G09F 3/00",
+    "description": "Etiquetas, fichas o medios análogos de identificación o de indicación; Precintos; Sellos de franqueo o sellos análogos [2006.01]"
+  },
+  {
+    "code": "G09F 3/02",
+    "description": "••Formas o estructuras [2006.01]"
+  },
+  {
+    "code": "G09F 3/03",
+    "description": "••••de precintos de seguridad [2006.01]"
+  },
+  {
+    "code": "G09F 3/04",
+    "description": "••sujetos o fijados por el material de la etiqueta en sí, p. ej. por termoadherencia (por una capa adhesiva separada G09F 3/10) [2006.01]"
+  },
+  {
+    "code": "G09F 3/06",
+    "description": "••••por una acción de cierre (por pinzas independientes G09F 3/16) [2006.01]"
+  },
+  {
+    "code": "G09F 3/08",
+    "description": "••Fijación o sujeción por medios que no entran en la composición del material de la etiqueta en sí [2006.01]"
+  },
+  {
+    "code": "G09F 3/10",
+    "description": "••••por una capa adhesiva [2006.01]"
+  },
+  {
+    "code": "G09F 3/12",
+    "description": "••••por alfileres, grapas, o medios análogos [2006.01]"
+  },
+  {
+    "code": "G09F 3/14",
+    "description": "••••por precintos, correas, cadenas o alambres [2006.01]"
+  },
+  {
+    "code": "G09F 3/16",
+    "description": "••••por pinzas [2006.01]"
+  },
+  {
+    "code": "G09F 3/18",
+    "description": "••••Armaduras, marcos o bordes para etiquetas [2006.01]"
+  },
+  {
+    "code": "G09F 3/20",
+    "description": "••••••para etiquetas regulables, móviles o intercambiables [2006.01]"
+  },
+  {
+    "code": "G09F 5/00",
+    "description": "Medios para presentar muestras [2006.01]"
+  },
+  {
+    "code": "G09F 5/02",
+    "description": "••Cofres portátiles para muestras [2006.01]"
+  },
+  {
+    "code": "G09F 5/04",
+    "description": "••Tarjetas de muestras; Libros de muestras [2006.01]"
+  },
+  {
+    "code": "G09F 7/00",
+    "description": "Carteles, placas que llevan un nombre o un número, letras, cifras o signos; Paneles o tableros (pancartas G09F 1/00; dispositivos de representación de información variable G09F 9/00, G09F 11/00; carteles luminosas G09F 13/00; tableros para avisos o anuncios G09F 15/00) [2006.01]"
+  },
+  {
+    "code": "G09F 7/02",
+    "description": "••Carteles, placas, paneles o tableros que utilizan elementos fácilmente separables que portan o forman símbolos [2006.01]"
+  },
+  {
+    "code": "G09F 7/04",
+    "description": "••••estando los elementos fijados o siendo susceptibles de fijación por medios magnéticos [2006.01]"
+  },
+  {
+    "code": "G09F 7/06",
+    "description": "••••estando los elementos fijados o siendo susceptibles de fijación por medio de clavijas y de agujeros [2006.01]"
+  },
+  {
+    "code": "G09F 7/08",
+    "description": "••••estando los elementos fijados o siendo susceptibles de fijación por medio de ranuras, de raíles o de hendiduras [2006.01]"
+  },
+  {
+    "code": "G09F 7/10",
+    "description": "••••••y montados de forma que puedan deslizar [2006.01]"
+  },
+  {
+    "code": "G09F 7/12",
+    "description": "••••estando los elementos fijados o siendo susceptibles de fijación por autoadherencia, humidificación, succión, acción de un adhesivo de secado lento, o cualquiera otro medio similar [2006.01]"
+  },
+  {
+    "code": "G09F 7/14",
+    "description": "••••Características estructurales de los elementos que portan o forman los símbolos [2006.01]"
+  },
+  {
+    "code": "G09F 7/16",
+    "description": "••Letras, números u otros símbolos, adaptados para ser fijados permanentemente a un soporte [2006.01]"
+  },
+  {
+    "code": "G09F 7/18",
+    "description": "••Medios para fijar carteles, placas, paneles o tableros a una estructura de soporte [2006.01]"
+  },
+  {
+    "code": "G09F 7/20",
+    "description": "••••con montaje regulable [2006.01]"
+  },
+  {
+    "code": "G09F 7/22",
+    "description": "••••con montaje que permite la rotación o el balanceo, p. ej. para paneles hechos para ser animados de un movimiento de rotación por el viento [2006.01]"
+  },
+  {
+    "code": "G09F 9/00",
+    "description": "Dispositivos de representación de información variable, en los que la información se forma sobre un soporte, por selección o combinación de elementos individuales (en los que la información variable se fija de manera permanente sobre un soporte móvil G09F 11/00) [2006.01]"
+  },
+  {
+    "code": "G09F 9/30",
+    "description": "••en los que el o los caracteres deseados se forman por una combinación de elementos individuales [2006.01]"
+  },
+  {
+    "code": "G09F 9/302",
+    "description": "••••caracterizado por la forma o disposición geométrica de los elementos individuales [2006.01]"
+  },
+  {
+    "code": "G09F 9/305",
+    "description": "••••de terminaciones de fibras ópticas (G09F 9/302 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G09F 9/307",
+    "description": "••••de filamentos incandescentes [2006.01]"
+  },
+  {
+    "code": "G09F 9/313",
+    "description": "••••de descarga en un gas [2006.01]"
+  },
+  {
+    "code": "G09F 9/33",
+    "description": "••••de semiconductores, p. ej. de diodos [2006.01]"
+  },
+  {
+    "code": "G09F 9/35",
+    "description": "••••de cristales líquidos [2006.01]"
+  },
+  {
+    "code": "G09F 9/37",
+    "description": "••••de elementos móviles [2006.01]"
+  },
+  {
+    "code": "G09F 9/40",
+    "description": "••en los que el carácter deseado se selecciona entre varios caracteres dispuestos los unos al lado de los otros, p. ej. sobre una placa soporte común [2006.01]"
+  },
+  {
+    "code": "G09F 9/46",
+    "description": "••en los que el carácter deseado es seleccionado entre varios tipos dispuestos unos detrás de otros [2006.01]"
+  },
+  {
+    "code": "G09F 11/00",
+    "description": "Dispositivos de representación de información variable, en los que la información completa se fija de manera permanente sobre un soporte móvil que la lleva a la posición de presentación [2006.01]"
+  },
+  {
+    "code": "G09F 11/02",
+    "description": "••los elementos de presentación están fijados a órganos animados de un movimiento de rotación, p. ej. tambores, ejes [2006.01]"
+  },
+  {
+    "code": "G09F 11/04",
+    "description": "••••los elementos están fijados a discos animados de un movimiento de rotación [2006.01]"
+  },
+  {
+    "code": "G09F 11/06",
+    "description": "••••siendo los elementos placas o tarjetas rígidas (sobre discos animados de un movimiento de rotación G09F 11/04) [2006.01]"
+  },
+  {
+    "code": "G09F 11/08",
+    "description": "••••siendo los elementos hojas flexibles (sobre discos animados de un movimiento de rotación G09F 11/04) [2006.01]"
+  },
+  {
+    "code": "G09F 11/10",
+    "description": "••••Controles eléctricos para esos aparatos [2006.01]"
+  },
+  {
+    "code": "G09F 11/12",
+    "description": "••los elementos de presentación son llevados por correas o cadenas sin fin, o por soportes análogos [2006.01]"
+  },
+  {
+    "code": "G09F 11/14",
+    "description": "••••teniendo los elementos forma de aletas, de tableros, de tarjetas o de otras formas similares rígidas [2006.01]"
+  },
+  {
+    "code": "G09F 11/15",
+    "description": "••••siendo los elementos hojas flexibles [2006.01]"
+  },
+  {
+    "code": "G09F 11/16",
+    "description": "••••Controles eléctricos para estos aparatos [2006.01]"
+  },
+  {
+    "code": "G09F 11/18",
+    "description": "••los elementos de presentación están llevados por correas, cadenas o soportes análogos distintos que los sin fin [2006.01]"
+  },
+  {
+    "code": "G09F 11/20",
+    "description": "••••teniendo los elementos la forma de aletas, de tableros, de tarjetas, u otras formas similares [2006.01]"
+  },
+  {
+    "code": "G09F 11/21",
+    "description": "••••siendo los elementos hojas flexibles [2006.01]"
+  },
+  {
+    "code": "G09F 11/22",
+    "description": "••••Controles eléctricos para estos aparatos [2006.01]"
+  },
+  {
+    "code": "G09F 11/23",
+    "description": "••los elementos de publicidad o de presentación forman parte de órganos giratorios, p. ej. en forma de perforaciones, de impresiones o de transparencias sobre un tambor o un disco [2006.01]"
+  },
+  {
+    "code": "G09F 11/235",
+    "description": "••••Su control eléctrico [2006.01]"
+  },
+  {
+    "code": "G09F 11/24",
+    "description": "••los elementos de publicidad o de presentación forman parte de una banda móvil, p. ej. en forma de perforaciones, de impresiones o de transparencias [2006.01]"
+  },
+  {
+    "code": "G09F 11/26",
+    "description": "••••siendo la banda sin fin [2006.01]"
+  },
+  {
+    "code": "G09F 11/28",
+    "description": "••••••Su control eléctrico [2006.01]"
+  },
+  {
+    "code": "G09F 11/29",
+    "description": "••••no siendo la banda sin fin [2006.01]"
+  },
+  {
+    "code": "G09F 11/295",
+    "description": "••••••Su control eléctrico [2006.01]"
+  },
+  {
+    "code": "G09F 11/30",
+    "description": "••los elementos de presentación son llevados uno por uno en posición de presentación a partir de un emplazamiento donde son almacenados [2006.01]"
+  },
+  {
+    "code": "G09F 11/32",
+    "description": "••••los medios de colocación incluyen correas o cadenas, p. ej. correas o cadenas sin fin [2006.01]"
+  },
+  {
+    "code": "G09F 11/34",
+    "description": "••••los medios de colocación incluyen electroimanes [2006.01]"
+  },
+  {
+    "code": "G09F 13/00",
+    "description": "Carteles luminosos; Publicidad luminosa (G09F 9/00, G09F 11/00 tienen prioridad; publicidad visual móvil G09F 21/00) [2006.01]"
+  },
+  {
+    "code": "G09F 13/02",
+    "description": "••Carteles, tableros o paneles iluminados por fuentes de luz artificiales colocados por delante de la ilustración [2006.01]"
+  },
+  {
+    "code": "G09F 13/04",
+    "description": "••Carteles, tableros o paneles iluminados por detrás de la ilustración [2006.01]"
+  },
+  {
+    "code": "G09F 13/06",
+    "description": "••••que utilizan símbolos o siluetas cortadas particulares, p. ej. carteles perforados [2006.01]"
+  },
+  {
+    "code": "G09F 13/08",
+    "description": "••••que utilizan a la vez capas de productos translúcidos y no translúcidos [2006.01]"
+  },
+  {
+    "code": "G09F 13/10",
+    "description": "••••••que utilizan transparencias [2006.01]"
+  },
+  {
+    "code": "G09F 13/12",
+    "description": "••••que utilizan un espejo transparente u otra superficie reflectante, transparente a la luz emitida, en los que un signo, un símbolo, una imagen u otra información no son visibles más que cuando son iluminados [2006.01]"
+  },
+  {
+    "code": "G09F 13/14",
+    "description": "••••Instalaciones de reflectores en estas carteles [2006.01]"
+  },
+  {
+    "code": "G09F 13/16",
+    "description": "••Carteles formados por elementos o superficies reflectantes, o que los tienen incorporados, p. ej. carteles de aviso que tienen una forma triangular o de otra forma geométrica [2006.01]"
+  },
+  {
+    "code": "G09F 13/18",
+    "description": "••Carteles iluminados por el borde [2006.01]"
+  },
+  {
+    "code": "G09F 13/20",
+    "description": "••con superficies o piezas luminiscentes [2006.01]"
+  },
+  {
+    "code": "G09F 13/22",
+    "description": "••••electroluminiscentes [2006.01]"
+  },
+  {
+    "code": "G09F 13/24",
+    "description": "••que utilizan tubos u objetos similares llenos de líquido, p. ej. de líquido que forma burbujas [2006.01]"
+  },
+  {
+    "code": "G09F 13/26",
+    "description": "••Carteles formados por tubos de descarga eléctrica (por alumbrado selectivo G09F 9/00) [2006.01]"
+  },
+  {
+    "code": "G09F 13/28",
+    "description": "••Carteles formados por lámparas de filamento (por alumbrado selectivo G09F 9/00) [2006.01]"
+  },
+  {
+    "code": "G09F 13/30",
+    "description": "••con fuentes de iluminación móviles, p. ej. tubos luminosos animados de un movimiento de rotación [2006.01]"
+  },
+  {
+    "code": "G09F 13/32",
+    "description": "••con una pieza o piezas ópticas móviles, p. ej. espejos [2006.01]"
+  },
+  {
+    "code": "G09F 13/34",
+    "description": "••con fuentes luminosas conjugadas con órganos móviles, p. ej. con obturadores para tapar o destapar la fuente luminosa (aparatos en los que el elemento de publicidad o de presentación se desplaza de forma continua o por intermitencia G09F 11/00) [2006.01]"
+  },
+  {
+    "code": "G09F 13/36",
+    "description": "••••conjugadas con medios para taparla, animados de un movimiento de rotación [2006.01]"
+  },
+  {
+    "code": "G09F 13/42",
+    "description": "••con fuentes luminosas accionadas por radiación no visible [2006.01]"
+  },
+  {
+    "code": "G09F 13/44",
+    "description": "••con gas como fuente luminosa [2006.01]"
+  },
+  {
+    "code": "G09F 13/46",
+    "description": "••Publicidad por fuegos artificiales [2006.01]"
+  },
+  {
+    "code": "G09F 15/00",
+    "description": "Tableros, paneles, columnas o estructuras análogas para anuncios, carteles, avisos o medios de información análogos [2006.01]"
+  },
+  {
+    "code": "G09F 15/02",
+    "description": "••Carteles, anuncios o medios de información análogos para éstos [2006.01]"
+  },
+  {
+    "code": "G09F 17/00",
+    "description": "Banderas; Estandartes; Soportes para éstos [2006.01]"
+  },
+  {
+    "code": "G09F 19/00",
+    "description": "Medios diversos de publicidad o de presentación no previstos en otro lugar [2006.01]"
+  },
+  {
+    "code": "G09F 19/02",
+    "description": "••que tienen órganos de presentación móviles [2006.01]"
+  },
+  {
+    "code": "G09F 19/04",
+    "description": "••••que funcionan por la apertura o el cierre de puertas, p. ej. puertas de almacenes [2006.01]"
+  },
+  {
+    "code": "G09F 19/06",
+    "description": "••••Dispositivos para escribir [2006.01]"
+  },
+  {
+    "code": "G09F 19/08",
+    "description": "••••Muñecas, figuras u otras representaciones de formas vivas con piezas móviles [2006.01]"
+  },
+  {
+    "code": "G09F 19/10",
+    "description": "••••Dispositivos que explican la acción de un artículo al que se aplica la publicidad [2006.01]"
+  },
+  {
+    "code": "G09F 19/12",
+    "description": "••que utilizan efectos ópticos especiales [2006.01]"
+  },
+  {
+    "code": "G09F 19/14",
+    "description": "••••que presentan signos diferentes según el punto desde donde les mire el observador [2006.01]"
+  },
+  {
+    "code": "G09F 19/16",
+    "description": "••••que implican la utilización de espejos [2006.01]"
+  },
+  {
+    "code": "G09F 19/18",
+    "description": "••••que implican la utilización de medios de proyección óptica, p. ej. proyección de imágenes sobre las nubes [2006.01]"
+  },
+  {
+    "code": "G09F 19/20",
+    "description": "••••con efectos de mezcla de colores [2006.01]"
+  },
+  {
+    "code": "G09F 19/22",
+    "description": "••Medios de publicidad o de presentación sobre carreteras, muros o superficies similares, p. ej. iluminados [2006.01]"
+  },
+  {
+    "code": "G09F 21/00",
+    "description": "Publicidad visual móvil (publicidad visual y audible combinada G09F 27/00) [2006.01]"
+  },
+  {
+    "code": "G09F 21/02",
+    "description": "••el portador es un ser humano o un animal [2006.01]"
+  },
+  {
+    "code": "G09F 21/04",
+    "description": "••por vehículos terrestres [2006.01]"
+  },
+  {
+    "code": "G09F 21/06",
+    "description": "••por aviones, aeronaves, globos o cometas [2006.01]"
+  },
+  {
+    "code": "G09F 21/08",
+    "description": "••••estando el reclamo colocado sobre la máquina volante [2006.01]"
+  },
+  {
+    "code": "G09F 21/10",
+    "description": "••••••e iluminado [2006.01]"
+  },
+  {
+    "code": "G09F 21/12",
+    "description": "••••siendo el reclamo remolcado por la aeronave [2006.01]"
+  },
+  {
+    "code": "G09F 21/14",
+    "description": "••••••e iluminado [2006.01]"
+  },
+  {
+    "code": "G09F 21/16",
+    "description": "••••Escritura en el cielo [2006.01]"
+  },
+  {
+    "code": "G09F 21/18",
+    "description": "••por navíos u otras embarcaciones [2006.01]"
+  },
+  {
+    "code": "G09F 21/20",
+    "description": "••••iluminados [2006.01]"
+  },
+  {
+    "code": "G09F 21/22",
+    "description": "••Distribuidores de octavillas o reclamos publicitarios análogos lanzados desde vehículos (desde aviones B64D 1/00) [2006.01]"
+  },
+  {
+    "code": "G09F 23/00",
+    "description": "Publicidad sobre o en artículos específicos, p. ej. ceniceros, buzones (sobre o en vehículos G09F 21/00) [2006.01]"
+  },
+  {
+    "code": "G09F 23/02",
+    "description": "••el reclamo siendo presentado por el funcionamiento del artículo [2006.01]"
+  },
+  {
+    "code": "G09F 23/04",
+    "description": "••••e iluminado [2006.01]"
+  },
+  {
+    "code": "G09F 23/06",
+    "description": "••el reclamo está combinado con artículos para restaurantes, tiendas u oficinas (sobre artículos de papel G09F 23/10) [2006.01]"
+  },
+  {
+    "code": "G09F 23/08",
+    "description": "••••con adornos de oficina [2006.01]"
+  },
+  {
+    "code": "G09F 23/10",
+    "description": "••sobre artículos de papel, p. ej. catálogos, periódicos [2006.01]"
+  },
+  {
+    "code": "G09F 23/12",
+    "description": "••••sobre el papel higiénico [2006.01]"
+  },
+  {
+    "code": "G09F 23/14",
+    "description": "••sobre juguetes, juegos, rompecabezas u objetos análogos [2006.01]"
+  },
+  {
+    "code": "G09F 23/16",
+    "description": "••sobre relojes, p. ej. controlados por el mecanismo del reloj [2006.01]"
+  },
+  {
+    "code": "G09F 25/00",
+    "description": "Publicidad sonora [2006.01]"
+  },
+  {
+    "code": "G09F 27/00",
+    "description": "Publicidad o presentación a la vez visual y sonora, p. ej. para información colectiva [2006.01]"
+  }
+]

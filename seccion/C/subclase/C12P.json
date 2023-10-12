@@ -1,0 +1,590 @@
+[
+  {
+    "code": "C12P 1/00",
+    "description": "Preparación de compuestos o de composiciones, no prevista en los grupos C12P 3/00-C12P 39/00, utilizando microorganismos o enzimas; Procedimientos generales de preparación de compuestos o composiciones que utilizan microorganismos o enzimas [2006.01]"
+  },
+  {
+    "code": "C12P 1/02",
+    "description": "••utilizando hongos [2006.01]"
+  },
+  {
+    "code": "C12P 1/04",
+    "description": "••utilizando bacterias [2006.01]"
+  },
+  {
+    "code": "C12P 1/06",
+    "description": "••utilizando actinomicetos [2006.01]"
+  },
+  {
+    "code": "C12P 3/00",
+    "description": "Preparación de elementos o compuestos inorgánicos excepto anhídrido carbónico [2006.01]"
+  },
+  {
+    "code": "C12P 5/00",
+    "description": "Preparación de hidrocarburos [2006.01]"
+  },
+  {
+    "code": "C12P 5/02",
+    "description": "••acíclicos [2006.01]"
+  },
+  {
+    "code": "C12P 7/00",
+    "description": "Preparación de compuestos orgánicos que contienen oxígeno [2006.01]"
+  },
+  {
+    "code": "C12P 7/02",
+    "description": "••que contienen un grupo hidroxilo [2006.01]"
+  },
+  {
+    "code": "C12P 7/04",
+    "description": "••••acíclicos [2006.01]"
+  },
+  {
+    "code": "C12P 7/06",
+    "description": "••••••Etanol como producto químico y no como bebida alcohólica [2006.01]"
+  },
+  {
+    "code": "C12P 7/08",
+    "description": "••••••••preparado como subproducto, o preparado a partir de un sustrato constituido por desechos o por materias celulósicas [2006.01]"
+  },
+  {
+    "code": "C12P 7/10",
+    "description": "••••••••••de un sustrato constituido por materias celulósicas [2006.01]"
+  },
+  {
+    "code": "C12P 7/12",
+    "description": "••••••••••de un sustrato constituido por licores sulfíticos residuales o por desechos de agrios [2006.01]"
+  },
+  {
+    "code": "C12P 7/14",
+    "description": "••••••••Fermentación en múltiples etapas; Fermentación con diferentes tipos de microorganismos o con reempleo de microorganismos [2006.01]"
+  },
+  {
+    "code": "C12P 7/16",
+    "description": "••••••Butanoles [2006.01]"
+  },
+  {
+    "code": "C12P 7/18",
+    "description": "••••••Polioles [2006.01]"
+  },
+  {
+    "code": "C12P 7/20",
+    "description": "••••••••Glicerol [2006.01]"
+  },
+  {
+    "code": "C12P 7/22",
+    "description": "••••aromáticos [2006.01]"
+  },
+  {
+    "code": "C12P 7/24",
+    "description": "••que contienen un grupo carbonilo [2006.01]"
+  },
+  {
+    "code": "C12P 7/26",
+    "description": "••••Cetonas [2006.01]"
+  },
+  {
+    "code": "C12P 7/28",
+    "description": "••••••Productos que contienen acetona [2006.01]"
+  },
+  {
+    "code": "C12P 7/30",
+    "description": "••••••••preparados a partir de un sustrato constituido por compuestos inorgánicos distintos del agua [2006.01]"
+  },
+  {
+    "code": "C12P 7/32",
+    "description": "••••••••preparados a partir de un sustrato constituido por una fuente de nitrógeno inorgánico [2006.01]"
+  },
+  {
+    "code": "C12P 7/34",
+    "description": "••••••••preparados a partir de un sustrato constituido por una proteína como fuente de nitrógeno [2006.01]"
+  },
+  {
+    "code": "C12P 7/36",
+    "description": "••••••••preparados a partir de un sustrato constituido por cereales o productos cereales [2006.01]"
+  },
+  {
+    "code": "C12P 7/38",
+    "description": "••••••Productos que contienen ciclopentanona o ciclopentadiona [2006.01]"
+  },
+  {
+    "code": "C12P 7/40",
+    "description": "••que contienen un grupo carboxilo [2006.01]"
+  },
+  {
+    "code": "C12P 7/42",
+    "description": "••••Acidos hidroxicarboxílicos [2006.01]"
+  },
+  {
+    "code": "C12P 7/44",
+    "description": "••••Acidos policarboxílicos [2006.01]"
+  },
+  {
+    "code": "C12P 7/46",
+    "description": "••••••Acidos dicarboxílicos con a lo más cuatro átomos de carbono, p. ej. ácido fumárico, ácido maleico [2006.01]"
+  },
+  {
+    "code": "C12P 7/48",
+    "description": "••••••Acidos tricarboxílicos, p. ej. ácido cítrico [2006.01]"
+  },
+  {
+    "code": "C12P 7/50",
+    "description": "••••••con grupos cetona, p. ej. ácido ceto-2 glutárico [2006.01]"
+  },
+  {
+    "code": "C12P 7/52",
+    "description": "••••Acido propiónico; Acidos butíricos [2006.01]"
+  },
+  {
+    "code": "C12P 7/54",
+    "description": "••••Acido acético [2006.01]"
+  },
+  {
+    "code": "C12P 7/56",
+    "description": "••••Acido láctico [2006.01]"
+  },
+  {
+    "code": "C12P 7/58",
+    "description": "••••Acido aldónico, cetoaldónico o sacárico (ácidos urónicos C12P 19/00) [2006.01]"
+  },
+  {
+    "code": "C12P 7/60",
+    "description": "••••••Acido ceto-2 gulónico [2006.01]"
+  },
+  {
+    "code": "C12P 7/62",
+    "description": "••Ésteres de ácidos carboxílicos [2022.01]"
+  },
+  {
+    "code": "C12P 7/625",
+    "description": "••••Poliésteres de ácidos hidroxicarboxílicos [2022.01]"
+  },
+  {
+    "code": "C12P 7/64",
+    "description": "••Grasas; Aceites grasos; Ceras de tipo éster; Ácidos grasos superiores, es decir, con al menos siete átomos de carbono en una cadena lineal unida a un grupo carboxilo; Aceites o grasas oxidados [2022.01]"
+  },
+  {
+    "code": "C12P 7/6409",
+    "description": "••••Ácidos grasos [2022.01]"
+  },
+  {
+    "code": "C12P 7/6418",
+    "description": "••••••por hidrólisis de ésteres de ácidos grasos [2022.01]"
+  },
+  {
+    "code": "C12P 7/6427",
+    "description": "••••••Ácidos grasos poliinsaturados [PUFA], es decir, que tienen dos o más dobles enlaces en su estructura [2022.01]"
+  },
+  {
+    "code": "C12P 7/6431",
+    "description": "••••••••Ácidos linoleicos [18:2[n-6]] [2022.01]"
+  },
+  {
+    "code": "C12P 7/6432",
+    "description": "••••••••Ácidos eicosapentaenoicos [EPA] [2022.01]"
+  },
+  {
+    "code": "C12P 7/6434",
+    "description": "••••••••Ácidos docosahexenoicos [DHA] [2022.01]"
+  },
+  {
+    "code": "C12P 7/6436",
+    "description": "••••Ésteres de ácidos grasos [2022.01]"
+  },
+  {
+    "code": "C12P 7/6445",
+    "description": "••••••Glicéridos [2022.01]"
+  },
+  {
+    "code": "C12P 7/6454",
+    "description": "••••••••por esterificación [2022.01]"
+  },
+  {
+    "code": "C12P 7/6458",
+    "description": "••••••••por transesterificación, p. ej. interesterificación, intercambio de ésteres, alcohólisis o acidólisis [2022.01]"
+  },
+  {
+    "code": "C12P 7/6463",
+    "description": "••••••••obtenidos de microorganismos productores de glicéridos, p. ej. aceite unicelular [2022.01]"
+  },
+  {
+    "code": "C12P 7/6472",
+    "description": "••••••••que contienen residuos de ácidos grasos poliinsaturados [PUFA], es decir, que tienen dos o más dobles enlaces en su estructura [2022.01]"
+  },
+  {
+    "code": "C12P 7/6481",
+    "description": "••••••••Fosfoglicéridos (fosfoglicéridos que tienen ácidos carboxílicos con menos de siete átomos de carbono C12P 7/62) [2022.01]"
+  },
+  {
+    "code": "C12P 7/649",
+    "description": "••••••Biodiésel, es decir, ésteres alquílicos de ácidos grasos [2022.01]"
+  },
+  {
+    "code": "C12P 7/66",
+    "description": "••que contienen la estructura quinoide [2006.01]"
+  },
+  {
+    "code": "C12P 9/00",
+    "description": "Preparación de compuestos orgánicos que contienen un metal o un átomo distinto al H, N, C, O, S o halógeno [2006.01]"
+  },
+  {
+    "code": "C12P 11/00",
+    "description": "Preparación de compuestos orgánicos que contienen azufre [2006.01]"
+  },
+  {
+    "code": "C12P 13/00",
+    "description": "Preparación de compuestos orgánicos que contienen nitrógeno [2006.01]"
+  },
+  {
+    "code": "C12P 13/02",
+    "description": "••Amidas, p. ej. cloramfenicol [2006.01]"
+  },
+  {
+    "code": "C12P 13/04",
+    "description": "••alfa- o beta-Aminoácidos [2006.01]"
+  },
+  {
+    "code": "C12P 13/06",
+    "description": "••••Alanina; Leucina; Isoleucina; Serina; Homoserina [2006.01]"
+  },
+  {
+    "code": "C12P 13/08",
+    "description": "••••Lisina; Acido diaminopimélico; Treonina; Valina [2006.01]"
+  },
+  {
+    "code": "C12P 13/10",
+    "description": "••••Citrulina; Arginina; Ornitina [2006.01]"
+  },
+  {
+    "code": "C12P 13/12",
+    "description": "••••Metionina; Cisteína; Cistina [2006.01]"
+  },
+  {
+    "code": "C12P 13/14",
+    "description": "••••Acido glutámico; Glutamina [2006.01]"
+  },
+  {
+    "code": "C12P 13/16",
+    "description": "••••••utilizando agentes tensioactivos, ácidos grasos o ésteres de ácidos grasos, es decir, ácidos con una cadena lineal de al menos siete átomos de carbono unida a un grupo carboxilo o a un grupo éster carboxílico [2006.01]"
+  },
+  {
+    "code": "C12P 13/18",
+    "description": "••••••utilizando la biotina o sus derivados [2006.01]"
+  },
+  {
+    "code": "C12P 13/20",
+    "description": "••••Acido aspártico; Asparagina [2006.01]"
+  },
+  {
+    "code": "C12P 13/22",
+    "description": "••••Triptófano; Tirosina; Fenilalanina; 3,4-Dihidroxifenilalanina [2006.01]"
+  },
+  {
+    "code": "C12P 13/24",
+    "description": "••••Prolina; Hidroxiprolina; Histidina [2006.01]"
+  },
+  {
+    "code": "C12P 15/00",
+    "description": "Preparación de compuestos que contienen al menos tres ciclos carbonosos condensados [2006.01]"
+  },
+  {
+    "code": "C12P 17/00",
+    "description": "Preparación de compuestos heterocíclicos que contienen O, N, S, Se o Te como únicos heteroátomos del ciclo (C12P 13/04-C12P 13/24 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "C12P 17/02",
+    "description": "••oxígeno como único heteroátomo del ciclo [2006.01]"
+  },
+  {
+    "code": "C12P 17/04",
+    "description": "••••que contienen un ciclo de cinco miembros, p. ej. griseofulvina [2006.01]"
+  },
+  {
+    "code": "C12P 17/06",
+    "description": "••••que contienen un ciclo de seis miembros, p. ej. fluoresceína [2006.01]"
+  },
+  {
+    "code": "C12P 17/08",
+    "description": "••••que contienen un heterociclo de al menos siete miembros, p. ej. zearalenona, agliconas macrólidas [2006.01]"
+  },
+  {
+    "code": "C12P 17/10",
+    "description": "••nitrógeno como único heteroátomo del ciclo [2006.01]"
+  },
+  {
+    "code": "C12P 17/12",
+    "description": "••••que contienen un ciclo de seis miembros [2006.01]"
+  },
+  {
+    "code": "C12P 17/14",
+    "description": "••nitrógeno u oxígeno como heteroátomo del ciclo y en el mismo ciclo al menos otro heteroátomo diferente [2006.01]"
+  },
+  {
+    "code": "C12P 17/16",
+    "description": "••que contienen varios heterociclos [2006.01]"
+  },
+  {
+    "code": "C12P 17/18",
+    "description": "••que contienen varios heterociclos condensados entre ellos o condensados con un sistema carbocíclico común, p. ej. rifamicina [2006.01]"
+  },
+  {
+    "code": "C12P 19/00",
+    "description": "Preparación de compuestos que contienen radicales sacárido (ácido cetoaldónico C12P 7/58) [2006.01]"
+  },
+  {
+    "code": "C12P 19/02",
+    "description": "••Monosacáridos [2006.01]"
+  },
+  {
+    "code": "C12P 19/04",
+    "description": "••Polisacáridos, es decir, compuestos que contienen más de cinco radicales sacárido unidos entre ellos por enlaces glucosídicos [2006.01]"
+  },
+  {
+    "code": "C12P 19/06",
+    "description": "••••Xantano, es decir, heteropolisacáridos del tipo Xantomonas [2006.01]"
+  },
+  {
+    "code": "C12P 19/08",
+    "description": "••••Dextrano [2006.01]"
+  },
+  {
+    "code": "C12P 19/10",
+    "description": "••••Pululano [2006.01]"
+  },
+  {
+    "code": "C12P 19/12",
+    "description": "••Disacáridos [2006.01]"
+  },
+  {
+    "code": "C12P 19/14",
+    "description": "••preparados por acción de una carbohidrasa, p. ej. por acción de la alfa-amilasa [2006.01]"
+  },
+  {
+    "code": "C12P 19/16",
+    "description": "••preparados por acción de una alfa-1,6 glucosidasa, p. ej. amilosa, amilopectina desramificada [2006.01]"
+  },
+  {
+    "code": "C12P 19/18",
+    "description": "••preparados por acción de una transferasa glicosílica, p. ej. alfa-, beta- o gamma-ciclodextrinas [2006.01]"
+  },
+  {
+    "code": "C12P 19/20",
+    "description": "••preparados por acción de una exo-1,4 alfa-glicosidasa, p. ej. dextrosa [2006.01]"
+  },
+  {
+    "code": "C12P 19/22",
+    "description": "••preparados por acción de una beta-amilasa, p. ej. maltosa [2006.01]"
+  },
+  {
+    "code": "C12P 19/24",
+    "description": "••preparados por acción de una isomerasa, p. ej. fructosa [2006.01]"
+  },
+  {
+    "code": "C12P 19/26",
+    "description": "••Preparación de hidratos de carbono que contienen nitrógeno [2006.01]"
+  },
+  {
+    "code": "C12P 19/28",
+    "description": "••••N-glucósidos [2006.01]"
+  },
+  {
+    "code": "C12P 19/30",
+    "description": "••••••Nucleótidos [2006.01]"
+  },
+  {
+    "code": "C12P 19/32",
+    "description": "••••••••con un sistema cíclico condensado, que contiene un ciclo de seis miembros, con dos átomos de nitrógeno en el mismo ciclo, p. ej. nucleótidos púricos, dinucleótido de la nicotinamida-ademina [2006.01]"
+  },
+  {
+    "code": "C12P 19/34",
+    "description": "••••••••Polinucleótidos, p. ej. ácidos nucleicos, oligorribonucleótidos [2006.01]"
+  },
+  {
+    "code": "C12P 19/36",
+    "description": "••••••••Dinucleótidos, p. ej. fosfato del dinucleótido de la nicotinamida-adenina [2006.01]"
+  },
+  {
+    "code": "C12P 19/38",
+    "description": "••••••Nucleósidos [2006.01]"
+  },
+  {
+    "code": "C12P 19/40",
+    "description": "••••••••con un sistema cíclico condensado, que contiene un ciclo de seis miembros, con dos átomos de nitrógeno en el mismo ciclo, p. ej. nucleósidos púricos [2006.01]"
+  },
+  {
+    "code": "C12P 19/42",
+    "description": "••••••Cobalaminas, es decir, vitaminas B12, factor LLD [2006.01]"
+  },
+  {
+    "code": "C12P 19/44",
+    "description": "••Preparación de O-glucósidos, p. ej. glucósidos [2006.01]"
+  },
+  {
+    "code": "C12P 19/46",
+    "description": "••••con un átomo de oxígeno del radical sacárido unido a un radical ciclohexilo, p. ej. kasugamicina [2006.01]"
+  },
+  {
+    "code": "C12P 19/48",
+    "description": "••••••estando el radical ciclohexilo sustituido por varios átomos de nitrógeno, p. ej. destomicina, neamina [2006.01]"
+  },
+  {
+    "code": "C12P 19/50",
+    "description": "••••••••con dos radicales sacárido unidos únicamente por un oxígeno a los átomos de carbono adyacentes del ciclo ciclohexilo p. ej. ambutirosina, ribostamicina [2006.01]"
+  },
+  {
+    "code": "C12P 19/52",
+    "description": "••••••••••que contienen al menos tres radicales sacárido, p. ej. neomicina, lividomicina [2006.01]"
+  },
+  {
+    "code": "C12P 19/54",
+    "description": "••••••estando el radical ciclohexilo unido directamente a un átomo de nitrógeno de varios radicales  p. ej. estreptomicina [2006.01]"
+  },
+  {
+    "code": "C12P 19/56",
+    "description": "••••con un átomo de oxígeno del radical sacárido unido directamente a un sistema cíclico condensado de al menos tres carbociclos, p. ej. daunomicina, adriamicina [2006.01]"
+  },
+  {
+    "code": "C12P 19/58",
+    "description": "••••con un átomo de oxígeno del radical sacárido unido directamente, sólo por átomos de carbono acíclicos, a un heterociclo que no sea sacárido, p. ej. bleomicina, fleomicina [2006.01]"
+  },
+  {
+    "code": "C12P 19/60",
+    "description": "••••con un átomo de oxígeno del radical sacárido unido directamente a un heterociclo que no sea sacárido o a un sistema cíclico condensado que contiene un heterociclo que no sea sacárido, p. ej. cumermicina, novobiocina [2006.01]"
+  },
+  {
+    "code": "C12P 19/62",
+    "description": "••••••teniendo el heterociclo al menos ocho miembros y sólo oxígeno como heteroátomo del ciclo, p. ej. eritromicina, espiramicina, nistatina [2006.01]"
+  },
+  {
+    "code": "C12P 19/64",
+    "description": "••Preparación de S-glucósidos, p. ej. lincomicina [2006.01]"
+  },
+  {
+    "code": "C12P 21/00",
+    "description": "Preparación de péptidos o de proteínas (proteína monocelular C12N 1/00) [2006.01]"
+  },
+  {
+    "code": "C12P 21/02",
+    "description": "••que tienen una secuencia conocida de varios aminoácidos, p. ej. glutation [2006.01]"
+  },
+  {
+    "code": "C12P 21/04",
+    "description": "••••Péptidos o polipéptidos cíclicos o puenteados, p. ej. bacitracina [2006.01]"
+  },
+  {
+    "code": "C12P 21/06",
+    "description": "••preparados por hidrólisis de un enlace peptídico, p. ej. hidrolizados [2006.01]"
+  },
+  {
+    "code": "C12P 21/08",
+    "description": "••Anticuerpos monoclonales [2006.01]"
+  },
+  {
+    "code": "C12P 23/00",
+    "description": "Preparación de compuestos que contienen un ciclo ciclohexeno con una cadena lateral insaturada de al menos diez átomos de carbono unidos por enlaces dobles conjugados, p. ej. carotenos (que contienen heterociclos C12P 17/00) [2006.01]"
+  },
+  {
+    "code": "C12P 25/00",
+    "description": "Preparación de compuestos que contienen núcleos aloxazina o iso-aloxazina, p. ej. riboflavina [2006.01]"
+  },
+  {
+    "code": "C12P 27/00",
+    "description": "Preparación de compuestos que contienen un sistema cíclico gibano, p. ej. giberelina [2006.01]"
+  },
+  {
+    "code": "C12P 29/00",
+    "description": "Preparación de compuestos que contienen un sistema cíclico naftaceno, p. ej. tetraciclina (C12P 19/00 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "C12P 31/00",
+    "description": "Preparación de compuestos que contienen un ciclo de cinco miembros con dos cadenas laterales en posición orto una respecto a otra, y con al menos un átomo de oxígeno unido directamente al ciclo en posición orto de una de las cadenas laterales conteniendo, no unido directamente al ciclo, un átomo de carbono con tres enlaces a heteroátomos, con a lo más un enlace a halógeno, y la otra cadena lateral teniendo al menos un oxígeno unido en posición gamma, p. ej. prostaglandinas [2006.01]"
+  },
+  {
+    "code": "C12P 33/00",
+    "description": "Preparación de esteroides [2006.01]"
+  },
+  {
+    "code": "C12P 33/02",
+    "description": "••Deshidrogenación; Deshidroxilación [2006.01]"
+  },
+  {
+    "code": "C12P 33/04",
+    "description": "••••Formación de un ciclo arilo a partir de un ciclo A [2006.01]"
+  },
+  {
+    "code": "C12P 33/06",
+    "description": "••Hidroxilación [2006.01]"
+  },
+  {
+    "code": "C12P 33/08",
+    "description": "••••en posición 11 [2006.01]"
+  },
+  {
+    "code": "C12P 33/10",
+    "description": "••••••en posición 11-alfa [2006.01]"
+  },
+  {
+    "code": "C12P 33/12",
+    "description": "••Acción sobre el ciclo D [2006.01]"
+  },
+  {
+    "code": "C12P 33/14",
+    "description": "••••Hidroxilación en posición 16 [2006.01]"
+  },
+  {
+    "code": "C12P 33/16",
+    "description": "••••Acción en posición 17 [2006.01]"
+  },
+  {
+    "code": "C12P 33/18",
+    "description": "••••••Hidroxilación en posición 17 [2006.01]"
+  },
+  {
+    "code": "C12P 33/20",
+    "description": "••que contienen heterociclos [2006.01]"
+  },
+  {
+    "code": "C12P 35/00",
+    "description": "Preparación de compuestos que contienen un sistema cíclico 5-tia, 1-aza biciclo [4.2.0] octano, p. ej. cefalosporina [2006.01]"
+  },
+  {
+    "code": "C12P 35/02",
+    "description": "••por desacilación del sustituyente en posición 7 [2006.01]"
+  },
+  {
+    "code": "C12P 35/04",
+    "description": "••por acilación del sustituyente en posición 7 [2006.01]"
+  },
+  {
+    "code": "C12P 35/06",
+    "description": "••Cefalosporina C; Sus derivados [2006.01]"
+  },
+  {
+    "code": "C12P 35/08",
+    "description": "••disustituidos en posición 7 [2006.01]"
+  },
+  {
+    "code": "C12P 37/00",
+    "description": "Preparación de compuestos que contienen un sistema cíclico 4-tia 1-aza biciclo [3.2.0] heptano, p. ej. penicilina [2006.01]"
+  },
+  {
+    "code": "C12P 37/02",
+    "description": "••en presencia de ácido fenilacético, de fenilacetamida o de sus derivados [2006.01]"
+  },
+  {
+    "code": "C12P 37/04",
+    "description": "••por acilación del sustituyente en posición 6 [2006.01]"
+  },
+  {
+    "code": "C12P 37/06",
+    "description": "••por desacilación del sustituyente en posición 6 [2006.01]"
+  },
+  {
+    "code": "C12P 39/00",
+    "description": "Procesos que hacen intervenir simultáneamente microorganismos de diferentes clases en el mismo proceso [2006.01]"
+  },
+  {
+    "code": "C12P 41/00",
+    "description": "Procesos que utilizan enzimas o microorganismos para la separación de isómeros ópticos a partir de una mezcla racémica [2006.01]"
+  }
+]

@@ -1,0 +1,254 @@
+[
+  {
+    "code": "G01Q 10/00",
+    "description": "Disposiciones para barrido o posicionamiento, es decir, disposiciones para controlar de forma activa el movimiento o posición de la sonda [2010.01]"
+  },
+  {
+    "code": "G01Q 10/02",
+    "description": "••Barrido o posicionamento basto [2010.01]"
+  },
+  {
+    "code": "G01Q 10/04",
+    "description": "••Barrido o posicionamiento fino [2010.01]"
+  },
+  {
+    "code": "G01Q 10/06",
+    "description": "••••Circuitos o algoritmos al efecto [2010.01]"
+  },
+  {
+    "code": "G01Q 20/00",
+    "description": "Monitorización del movimiento o de la posición de la sonda [2010.01]"
+  },
+  {
+    "code": "G01Q 20/02",
+    "description": "••por medios ópticos [2010.01]"
+  },
+  {
+    "code": "G01Q 20/04",
+    "description": "••Sondas auto detectoras, es decir, en las que la sonda en sí misma genera una señal representativa de su posición, p. ej. galgas piezoeléctricas [2010.01]"
+  },
+  {
+    "code": "G01Q 30/00",
+    "description": "Medios auxiliares destinados a asistir o mejorar las técnicas o aparatos de sonda de barrido, p. ej. dispositivos de visualización o de procesamiento de datos [2010.01]"
+  },
+  {
+    "code": "G01Q 30/02",
+    "description": "••Dispositivos de análisis de un tipo distinto al de microscopía de barrido [SPM], p. ej. microscopio electrónico de barrido [SME], espectrómetro o microscopio óptico [2010.01]"
+  },
+  {
+    "code": "G01Q 30/04",
+    "description": "••Dispositivos de visualización o de procesamiento de datos [2010.01]"
+  },
+  {
+    "code": "G01Q 30/06",
+    "description": "••••para compensar el error [2010.01]"
+  },
+  {
+    "code": "G01Q 30/08",
+    "description": "••Medios para crear o regular las condiciones ambientales dentro de una cámara de muestras [2010.01]"
+  },
+  {
+    "code": "G01Q 30/10",
+    "description": "••••Condiciones térmicas [2010.01]"
+  },
+  {
+    "code": "G01Q 30/12",
+    "description": "••••En medio fluido [2010.01]"
+  },
+  {
+    "code": "G01Q 30/14",
+    "description": "••••••En medio líquido [2010.01]"
+  },
+  {
+    "code": "G01Q 30/16",
+    "description": "••••Bajo vacío [2010.01]"
+  },
+  {
+    "code": "G01Q 30/18",
+    "description": "••Medios para proteger o aislar el interior de una cámara de muestras de las condiciones ambientales externas, p. ej. vibraciones o campos electromagnéticos [2010.01]"
+  },
+  {
+    "code": "G01Q 30/20",
+    "description": "••Dispositivos o métodos para manejar las muestras [2010.01]"
+  },
+  {
+    "code": "G01Q 40/00",
+    "description": "Calibración, p. ej. sondas [2010.01]"
+  },
+  {
+    "code": "G01Q 40/02",
+    "description": "••Patrones de calibración o métodos para fabricarlos [2010.01]"
+  },
+  {
+    "code": "G01Q 60/00",
+    "description": "Tipos particulares de microscopía por sonda de barrido [SPM] o aparatos empleados; Componentes esenciales al efecto [2010.01]"
+  },
+  {
+    "code": "G01Q 60/02",
+    "description": "••Microscopía por sonda de barrido [SPM] que emplea dos o más técnicas distintas [2010.01]"
+  },
+  {
+    "code": "G01Q 60/04",
+    "description": "••••STM [Microscopía de Efecto Túnel] combinada con AFM [Microscopía de Fuerza Atómica] [2010.01]"
+  },
+  {
+    "code": "G01Q 60/06",
+    "description": "••••SNOM [Microscopía Optica de Barrido en Campo Cercano] combinada con AFM [Microscopía de Fuerza Atómica] [2010.01]"
+  },
+  {
+    "code": "G01Q 60/08",
+    "description": "••••MFM [Microscopía de Fuerza Magnética] combinada con AFM [Microscopía de Fuerza Atómica] [2010.01]"
+  },
+  {
+    "code": "G01Q 60/10",
+    "description": "••STM [Microscopía de Efecto Túnel] o aparatos empleados, p. ej. sondas [2010.01]"
+  },
+  {
+    "code": "G01Q 60/12",
+    "description": "••••STS [Espectroscopía de Efecto Túnel] [2010.01]"
+  },
+  {
+    "code": "G01Q 60/14",
+    "description": "••••STP [Potenciometría de Efecto Túnel] [2010.01]"
+  },
+  {
+    "code": "G01Q 60/16",
+    "description": "••••Sondas, su fabricación o su instrumentación relacionada, p. ej. soportes [2010.01]"
+  },
+  {
+    "code": "G01Q 60/18",
+    "description": "••SNOM [Microscopía Optica de Barrido en Campo Cercano] o aparatos empleados, p. ej. sondas SNOM [2010.01]"
+  },
+  {
+    "code": "G01Q 60/20",
+    "description": "••••Fluorescencia [2010.01]"
+  },
+  {
+    "code": "G01Q 60/22",
+    "description": "••••Sondas, su fabricación o su instrumentación relacionada, p. ej. soportes [2010.01]"
+  },
+  {
+    "code": "G01Q 60/24",
+    "description": "••AFM [Microscopía de Fuerza Atómica] o aparatos empleados, p. ej. sondas AFM [2010.01]"
+  },
+  {
+    "code": "G01Q 60/26",
+    "description": "••••Microscopía de fuerza de fricción [2010.01]"
+  },
+  {
+    "code": "G01Q 60/28",
+    "description": "••••Microscopía de fuerza de adhesión [2010.01]"
+  },
+  {
+    "code": "G01Q 60/30",
+    "description": "••••Microscopía por barrido de potencial [2010.01]"
+  },
+  {
+    "code": "G01Q 60/32",
+    "description": "••••Modo AC [2010.01]"
+  },
+  {
+    "code": "G01Q 60/34",
+    "description": "••••••Modo de contacto intermitente [2010.01]"
+  },
+  {
+    "code": "G01Q 60/36",
+    "description": "••••Modo DC [2010.01]"
+  },
+  {
+    "code": "G01Q 60/38",
+    "description": "••••Sondas, su fabricación o su instrumentación relacionada, p. ej. soportes [2010.01]"
+  },
+  {
+    "code": "G01Q 60/40",
+    "description": "••••••Sondas conductoras [2010.01]"
+  },
+  {
+    "code": "G01Q 60/42",
+    "description": "••••••Funcionalización [2010.01]"
+  },
+  {
+    "code": "G01Q 60/44",
+    "description": "••SICM [Microscopía de Barrido de Conductancia Iénica] o aparatos empleados, p. ej. sondas SICM [2010.01]"
+  },
+  {
+    "code": "G01Q 60/46",
+    "description": "••SCM [Microscopía de Barrido de Capacitancia] o aparatos empleados, p. ej. sondas SCM [2010.01]"
+  },
+  {
+    "code": "G01Q 60/48",
+    "description": "••••Sondas, su fabricación o su instrumentación relacionada, p. ej. soportes [2010.01]"
+  },
+  {
+    "code": "G01Q 60/50",
+    "description": "••MFM [Microscopía de Fuerza Magnética] o aparatos empleados, p. ej. sondas MFM [2010.01]"
+  },
+  {
+    "code": "G01Q 60/52",
+    "description": "••••Resonancia [2010.01]"
+  },
+  {
+    "code": "G01Q 60/54",
+    "description": "••••Sondas, su fabricación o su instrumentación relacionada, p. ej. soportes [2010.01]"
+  },
+  {
+    "code": "G01Q 60/56",
+    "description": "••••••Sondas con recubrimiento magnético [2010.01]"
+  },
+  {
+    "code": "G01Q 60/58",
+    "description": "••SThM [Microscopía Térmica de Barrido] o aparatos empleados, p. ej. sondas SThM [2010.01]"
+  },
+  {
+    "code": "G01Q 60/60",
+    "description": "••SECM [Microscopía Electroquímica de Barrido] o aparatos empleados, p. ej., sondas SECM [2010.01]"
+  },
+  {
+    "code": "G01Q 70/00",
+    "description": "Aspectos generales de las sondas SPM, de su fabricación o de su instrumentación relacionada, en tanto en cuanto no están adaptados a una única técnica SPM cubierta por el grupo G01Q 60/00 [2010.01]"
+  },
+  {
+    "code": "G01Q 70/02",
+    "description": "••Soportes de sondas [2010.01]"
+  },
+  {
+    "code": "G01Q 70/04",
+    "description": "••••con compensación de los errores causados por la temperatura o las vibraciones [2010.01]"
+  },
+  {
+    "code": "G01Q 70/06",
+    "description": "••Conjuntos de puntas de sondas [2010.01]"
+  },
+  {
+    "code": "G01Q 70/08",
+    "description": "••Características de las sondas [2010.01]"
+  },
+  {
+    "code": "G01Q 70/10",
+    "description": "••••Forma o conicidad [2010.01]"
+  },
+  {
+    "code": "G01Q 70/12",
+    "description": "••••••Puntas de nanotubos [2010.01]"
+  },
+  {
+    "code": "G01Q 70/14",
+    "description": "••••Materiales particulares [2010.01]"
+  },
+  {
+    "code": "G01Q 70/16",
+    "description": "••Fabricación de las sondas [2010.01]"
+  },
+  {
+    "code": "G01Q 70/18",
+    "description": "••••Funcionalización [2010.01]"
+  },
+  {
+    "code": "G01Q 80/00",
+    "description": "Aplicaciones de las técnicas de sonda de barrido distintas de la SPM (fabricación o tratamiento de microestructuras B81C; fabricación o tratamiento de nanoestructuras B82B 3/00; grabación o reproducción de información empleando la interacción del campo próximo G11B 9/12, G11B 11/24 or G11B 13/08) [2010.01]"
+  },
+  {
+    "code": "G01Q 90/00",
+    "description": "Técnicas o aparatos de sonda de barrido no previstos en otro lugar [2010.01]"
+  }
+]

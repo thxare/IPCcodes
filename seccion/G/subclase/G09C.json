@@ -1,0 +1,62 @@
+[
+  {
+    "code": "G09C 1/00",
+    "description": "Aparatos o métodos por medio de los cuales una sucesión dada de signos, p. ej. un texto inteligible, se transforma en una sucesión de signos ininteligibles transponiendo los signos o grupos de signos o remplazándolos por otros según un sistema preestablecido (máquinas de escribir criptográficas G09C 3/00) [2006.01]"
+  },
+  {
+    "code": "G09C 1/02",
+    "description": "••utilizando un código de cifrado en forma de tabla [2006.01]"
+  },
+  {
+    "code": "G09C 1/04",
+    "description": "••con soportes o indicadores de signos desplazados el uno en relación al otro en posiciones determinadas por un código de permutación o una clave, que permiten indicar de forma apropiada el texto cifrado o en claro correspondiente [2006.01]"
+  },
+  {
+    "code": "G09C 1/06",
+    "description": "••en que los elementos que corresponden a los signos que componen el texto en claro están unidos funcionalmente con los elementos que corresponden a los signos que componen el texto cifrado, siendo las uniones, durante el funcionamiento de los aparatos, permutadas automáticamente y en permanencia por un órgano de codificación o una clave [2006.01]"
+  },
+  {
+    "code": "G09C 1/08",
+    "description": "••••siendo las uniones mecánicas [2006.01]"
+  },
+  {
+    "code": "G09C 1/10",
+    "description": "••••siendo las uniones eléctricas [2006.01]"
+  },
+  {
+    "code": "G09C 1/12",
+    "description": "••••••provistos de discos de permutación portadores de contactos [2006.01]"
+  },
+  {
+    "code": "G09C 1/14",
+    "description": "••••con órganos de codificación desmontables o intercambiables, p. ej. cintas maestras, tarjetas perforadas [2006.01]"
+  },
+  {
+    "code": "G09C 3/00",
+    "description": "Máquinas de escribir para el cifrado o el descifrado de textos criptográficos [2006.01]"
+  },
+  {
+    "code": "G09C 3/02",
+    "description": "••con teclas o teclados auxiliares que actúan sobre las teclas o teclados principales [2006.01]"
+  },
+  {
+    "code": "G09C 3/04",
+    "description": "••en que las uniones entre las teclas y los vástagos que portan los tipos son permutados automáticamente y en permanencia durante el funcionamiento por un órgano de codificación o una clave [2006.01]"
+  },
+  {
+    "code": "G09C 3/06",
+    "description": "••••siendo las uniones mecánicas [2006.01]"
+  },
+  {
+    "code": "G09C 3/08",
+    "description": "••••siendo las uniones eléctricas [2006.01]"
+  },
+  {
+    "code": "G09C 3/10",
+    "description": "••••que comprenden órganos de codificación desmontable o intercambiables, p. ej. cintas maestras, tarjetas perforadas [2006.01]"
+  },
+  {
+    "code": "G09C 5/00",
+    "description": "Aparatos o métodos de cifrado no previstos en los otros grupos de esta subclase, p. ej. que comprenden la disimulación o la deformación de datos gráficos tales como dibujos, mensajes escritos o impresos [2006.01]"
+  }
+]

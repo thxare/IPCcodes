@@ -1,0 +1,1578 @@
+[
+  {
+    "code": "G01R 1/00",
+    "description": "Detalles o disposiciones de aparatos de los tipos incluidos en los grupos G01R 5/00-G01R 13/00 y G01R 31/00 (detalles estructurales particulares a disposiciones electromecánicas para medir el consumo eléctrico G01R 11/02) [2006.01]"
+  },
+  {
+    "code": "G01R 1/02",
+    "description": "••Elementos estructurales generales [2006.01]"
+  },
+  {
+    "code": "G01R 1/04",
+    "description": "••••Carcasas; Organos de soporte; Disposiciones de bornas [2006.01]"
+  },
+  {
+    "code": "G01R 1/06",
+    "description": "••••Conductores de medida; Sondas de medida (G01R 19/145, G01R 19/165 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G01R 1/067",
+    "description": "••••••Sondas de medida [2006.01]"
+  },
+  {
+    "code": "G01R 1/07",
+    "description": "••••••••Sondas que no establecen contacto [2006.01]"
+  },
+  {
+    "code": "G01R 1/073",
+    "description": "••••••••Sondas múltiples [2006.01]"
+  },
+  {
+    "code": "G01R 1/08",
+    "description": "••••Indices; Escalas; Iluminación de escalas [2006.01]"
+  },
+  {
+    "code": "G01R 1/10",
+    "description": "••••Disposiciones de soporte [2006.01]"
+  },
+  {
+    "code": "G01R 1/12",
+    "description": "••••••de soportes en forma de bandas o de hilos [2006.01]"
+  },
+  {
+    "code": "G01R 1/14",
+    "description": "••••Dispositivos para el frenado; Disposiciones para el amortiguamiento [2006.01]"
+  },
+  {
+    "code": "G01R 1/16",
+    "description": "••••Imanes [2006.01]"
+  },
+  {
+    "code": "G01R 1/18",
+    "description": "••••Dispositivos de blindaje contra las propiedades eléctricas o magnéticas, p. ej. contra el campo terrestre [2006.01]"
+  },
+  {
+    "code": "G01R 1/20",
+    "description": "••Modificaciones de elementos eléctricos fundamentales para su utilización en los aparatos de medidas eléctricas; Combinaciones estructurales de estos elementos con estos aparatos [2006.01]"
+  },
+  {
+    "code": "G01R 1/22",
+    "description": "••••Aparatos de ensayo de pinzas que actúan como bobinados secundarios de transformadores de corriente [2006.01]"
+  },
+  {
+    "code": "G01R 1/24",
+    "description": "••••Secciones de medida, p. ej. sección ranurada, de líneas de transmisión, p. ej. del tipo guía de onda [2006.01]"
+  },
+  {
+    "code": "G01R 1/26",
+    "description": "••••••con desplazamiento lineal de la sonda [2006.01]"
+  },
+  {
+    "code": "G01R 1/28",
+    "description": "••Disposición prevista en los aparatos de medida para los valores de referencia, p. ej. tensión patrón, forma de onda patrón [2006.01]"
+  },
+  {
+    "code": "G01R 1/30",
+    "description": "••Combinación estructural de aparatos de medida eléctricos con circuitos electrónicos fundamentales, p. ej. con amplificadores [2006.01]"
+  },
+  {
+    "code": "G01R 1/36",
+    "description": "••Dispositivos o circuitos de protección contra las sobrecargas, para aparatos de medidas eléctricas [2006.01]"
+  },
+  {
+    "code": "G01R 1/38",
+    "description": "••Dispositivos para cambiar la característica de medida, p. ej. modificando el entrehierro [2006.01]"
+  },
+  {
+    "code": "G01R 1/40",
+    "description": "••Modificaciones de los aparatos para indicar el valor máximo o mínimo alcanzado en un intervalo de tiempo, p. ej. por aguja indicadora de máximo [2006.01]"
+  },
+  {
+    "code": "G01R 1/42",
+    "description": "••••que funcionan térmicamente [2006.01]"
+  },
+  {
+    "code": "G01R 1/44",
+    "description": "••Modificaciones de instrumentos para compensar las variaciones de temperatura [2006.01]"
+  },
+  {
+    "code": "G01R 3/00",
+    "description": "Aparatos o procedimientos especialmente adaptados a la fabricación de los aparatos de medida [2006.01]"
+  },
+  {
+    "code": "G01R 5/00",
+    "description": "Aparatos para convertir una sola tensión o una sola corriente en un desplazamiento mecánico [2006.01]"
+  },
+  {
+    "code": "G01R 5/02",
+    "description": "••Aparatos de bobina móvil [2006.01]"
+  },
+  {
+    "code": "G01R 5/04",
+    "description": "••••con imán exterior a la bobina [2006.01]"
+  },
+  {
+    "code": "G01R 5/06",
+    "description": "••••con imán formando núcleo [2006.01]"
+  },
+  {
+    "code": "G01R 5/08",
+    "description": "••••adaptados especialmente para un gran ángulo de desviación; con bobina móvil excéntrica montada sobre pivotes [2006.01]"
+  },
+  {
+    "code": "G01R 5/10",
+    "description": "••Galvanómetros de cuerda [2006.01]"
+  },
+  {
+    "code": "G01R 5/12",
+    "description": "••Galvanómetros de bucle [2006.01]"
+  },
+  {
+    "code": "G01R 5/14",
+    "description": "••Aparatos de hierro móvil [2006.01]"
+  },
+  {
+    "code": "G01R 5/16",
+    "description": "••••con imán giratorio [2006.01]"
+  },
+  {
+    "code": "G01R 5/18",
+    "description": "••••con hierro dulce giratorio, p. ej. galvanómetros de agua [2006.01]"
+  },
+  {
+    "code": "G01R 5/20",
+    "description": "••Aparatos de inducción, p. ej. aparatos Ferraris [2006.01]"
+  },
+  {
+    "code": "G01R 5/22",
+    "description": "••Aparatos termoeléctricos [2006.01]"
+  },
+  {
+    "code": "G01R 5/24",
+    "description": "••••que funcionan por alargamiento de una banda o de un hilo o por dilatación de un gas o de un fluido [2006.01]"
+  },
+  {
+    "code": "G01R 5/26",
+    "description": "••••que funcionan por deformación de un elemento bimetálico [2006.01]"
+  },
+  {
+    "code": "G01R 5/28",
+    "description": "••Aparatos electrostáticos [2006.01]"
+  },
+  {
+    "code": "G01R 5/30",
+    "description": "••••Electrómetros de hojas [2006.01]"
+  },
+  {
+    "code": "G01R 5/32",
+    "description": "••••Electrómetros de hilos; Electrómetros de aguja [2006.01]"
+  },
+  {
+    "code": "G01R 5/34",
+    "description": "••••Electrómetros de cuadrantes [2006.01]"
+  },
+  {
+    "code": "G01R 7/00",
+    "description": "Aparatos capaces de convertir dos o más corrientes o tensiones en un solo desplazamiento mecánico (G01R 9/00 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01R 7/02",
+    "description": "••para formar una suma o una diferencia [2006.01]"
+  },
+  {
+    "code": "G01R 7/04",
+    "description": "••para formar un cociente (para medir una resistencia G01R 27/08) [2006.01]"
+  },
+  {
+    "code": "G01R 7/06",
+    "description": "••••del tipo de hierro móvil [2006.01]"
+  },
+  {
+    "code": "G01R 7/08",
+    "description": "••••del tipo de bobina, p. ej. del tipo de bobinas cruzadas [2006.01]"
+  },
+  {
+    "code": "G01R 7/10",
+    "description": "••••••con más de dos bobinas móviles [2006.01]"
+  },
+  {
+    "code": "G01R 7/12",
+    "description": "••para formar un producto [2006.01]"
+  },
+  {
+    "code": "G01R 7/14",
+    "description": "••••del tipo de hierro móvil [2006.01]"
+  },
+  {
+    "code": "G01R 7/16",
+    "description": "••••que tienen a la vez bobinas móviles y fijas, es decir, dinamómetros [2006.01]"
+  },
+  {
+    "code": "G01R 7/18",
+    "description": "••••••con bobinas fijas y móviles acopladas magnéticamente por núcleo de hierro [2006.01]"
+  },
+  {
+    "code": "G01R 9/00",
+    "description": "Aparatos que utilizan una resonancia mecánica [2006.01]"
+  },
+  {
+    "code": "G01R 9/02",
+    "description": "••Galvanómetros de vibraciones, p. ej. para la medida de una corriente [2006.01]"
+  },
+  {
+    "code": "G01R 9/04",
+    "description": "••que utilizan láminas vibrantes, p. ej. para la medida de una frecuencia [2006.01]"
+  },
+  {
+    "code": "G01R 9/06",
+    "description": "••••accionadas magnéticamente [2006.01]"
+  },
+  {
+    "code": "G01R 9/08",
+    "description": "••••accionadas piezoeléctricamente [2006.01]"
+  },
+  {
+    "code": "G01R 11/00",
+    "description": "Disposiciones electromecánicas para la medida de la integral en el tiempo de una potencia eléctrica o de una corriente, p. ej. del consumo (control del consumo eléctrico de vehículos de tracción eléctrica B60L 3/00) [2006.01]"
+  },
+  {
+    "code": "G01R 11/02",
+    "description": "••Detalles estructurales [2006.01]"
+  },
+  {
+    "code": "G01R 11/04",
+    "description": "••••Carcasas; Bastidores soportes; Dispositivos de bornas [2006.01]"
+  },
+  {
+    "code": "G01R 11/06",
+    "description": "••••Circuitos magnéticos para contadores de inducción [2006.01]"
+  },
+  {
+    "code": "G01R 11/067",
+    "description": "••••••Bobinados para este efecto [2006.01]"
+  },
+  {
+    "code": "G01R 11/073",
+    "description": "••••••Armaduras para este efecto [2006.01]"
+  },
+  {
+    "code": "G01R 11/09",
+    "description": "••••••••Armaduras en forma de disco [2006.01]"
+  },
+  {
+    "code": "G01R 11/10",
+    "description": "••••Imanes de frenado; Dispositivos para el amortiguamiento [2006.01]"
+  },
+  {
+    "code": "G01R 11/12",
+    "description": "••••Dispositivos de soporte [2006.01]"
+  },
+  {
+    "code": "G01R 11/14",
+    "description": "••••••con alivio magnético [2006.01]"
+  },
+  {
+    "code": "G01R 11/16",
+    "description": "••••Adaptaciones a los contadores de electricidad [2006.01]"
+  },
+  {
+    "code": "G01R 11/17",
+    "description": "••••Compensación de errores; Medios de ajuste o de regulación para este efecto [2006.01]"
+  },
+  {
+    "code": "G01R 11/18",
+    "description": "••••••Compensación de las variaciones de las condiciones ambientes [2006.01]"
+  },
+  {
+    "code": "G01R 11/185",
+    "description": "••••••••Compensación de las variaciones de temperatura [2006.01]"
+  },
+  {
+    "code": "G01R 11/19",
+    "description": "••••••Compensación de errores causados por un par perturbador, p. ej. errores debidos al campo giratorio en los contadores polifásicos [2006.01]"
+  },
+  {
+    "code": "G01R 11/20",
+    "description": "••••••Compensación de los errores de fase en los contadores de inducción [2006.01]"
+  },
+  {
+    "code": "G01R 11/21",
+    "description": "••••••Compensación de los errores causados por los efectos de amortiguación de la corriente, p. ej. regulación en el radio de acción de la sobrecarga [2006.01]"
+  },
+  {
+    "code": "G01R 11/22",
+    "description": "••••••Regulación del par, p. ej. regulación del par de arranque regulación de los contadores polifásicos para obtener pares iguales [2006.01]"
+  },
+  {
+    "code": "G01R 11/23",
+    "description": "••••••Compensación de los errores causados por el frotamiento, p. ej. regulación en el radio de acción de cargas débiles [2006.01]"
+  },
+  {
+    "code": "G01R 11/24",
+    "description": "••••Disposiciones para evitar o indicar un uso fraudulento [2006.01]"
+  },
+  {
+    "code": "G01R 11/25",
+    "description": "••••Disposiciones para indicar o señalar defectos [2006.01]"
+  },
+  {
+    "code": "G01R 11/30",
+    "description": "••Contadores de motor dinamoeléctricos [2006.01]"
+  },
+  {
+    "code": "G01R 11/32",
+    "description": "••••Contadores de vatios-hora [2006.01]"
+  },
+  {
+    "code": "G01R 11/34",
+    "description": "••••Contadores de amperios-hora [2006.01]"
+  },
+  {
+    "code": "G01R 11/36",
+    "description": "••Contadores de inducción, p. ej. contadores Ferraris [2006.01]"
+  },
+  {
+    "code": "G01R 11/38",
+    "description": "••••para funcionamiento monofásico [2006.01]"
+  },
+  {
+    "code": "G01R 11/40",
+    "description": "••••para funcionamiento polifásico [2006.01]"
+  },
+  {
+    "code": "G01R 11/42",
+    "description": "••••••Circuitos para estos instrumentos [2006.01]"
+  },
+  {
+    "code": "G01R 11/46",
+    "description": "••Contadores de movimiento de relojería accionados eléctricamente; Contadores oscilatorios; Contadores de balancín [2006.01]"
+  },
+  {
+    "code": "G01R 11/48",
+    "description": "••Contadores adaptados especialmente a la medida de componentes reales o reactivos; Contadores adaptados especialmente a la medida de la energía aparente [2006.01]"
+  },
+  {
+    "code": "G01R 11/50",
+    "description": "••••a la medida de la componente real [2006.01]"
+  },
+  {
+    "code": "G01R 11/52",
+    "description": "••••a la medida de la componente reactiva [2006.01]"
+  },
+  {
+    "code": "G01R 11/54",
+    "description": "••••a la medida simultánea de al menos dos de las tres variables siguientes: componente real, componente reactiva, energía aparente [2006.01]"
+  },
+  {
+    "code": "G01R 11/56",
+    "description": "••Contadores de tarifas especiales [2006.01]"
+  },
+  {
+    "code": "G01R 11/57",
+    "description": "••••Contadores multitarifas (G01R 11/63 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01R 11/58",
+    "description": "••••••Dispositivos a este efecto para la conmutación de tarifas [2006.01]"
+  },
+  {
+    "code": "G01R 11/60",
+    "description": "••••Contadores de sustracción; Contadores para horas de carga máxima o mínima [2006.01]"
+  },
+  {
+    "code": "G01R 11/63",
+    "description": "••••Contadores de sobreconsumo, p. ej. midiendo el consumo hasta que un nivel predeterminado de potencias es sobrepasado [2006.01]"
+  },
+  {
+    "code": "G01R 11/64",
+    "description": "••••Contadores de máximo, p. ej. la tarifa para un cierto período de tiempo esté basada sobre una demanda máxima en el curso de este período de tiempo [2006.01]"
+  },
+  {
+    "code": "G01R 11/66",
+    "description": "••••••Circuitos [2006.01]"
+  },
+  {
+    "code": "G01R 13/00",
+    "description": "Disposiciones para la presentación de variables eléctricas o de formas de ondas [2006.01]"
+  },
+  {
+    "code": "G01R 13/02",
+    "description": "••para la presentación en forma digital de variables eléctricas medidas [2006.01]"
+  },
+  {
+    "code": "G01R 13/04",
+    "description": "••para la producción de registros permanentes [2006.01]"
+  },
+  {
+    "code": "G01R 13/06",
+    "description": "••••Modificaciones para el registro de perturbaciones transitorias, p. ej. por puesta en marcha o aceleración de un soporte de registro [2006.01]"
+  },
+  {
+    "code": "G01R 13/08",
+    "description": "••••Sistemas de registros electromecánicos que utilizan un método de inscripción mecánico directo [2006.01]"
+  },
+  {
+    "code": "G01R 13/10",
+    "description": "••••••con registro intermitente por representación del valor por la longitud de un trazo o por la posición de un punto [2006.01]"
+  },
+  {
+    "code": "G01R 13/12",
+    "description": "••••Registro químico, p. ej. clidonógrafos (G01R 13/14 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01R 13/14",
+    "description": "••••Registro sobre un material sensible a la luz [2006.01]"
+  },
+  {
+    "code": "G01R 13/16",
+    "description": "••••Registro sobre un medio magnético [2006.01]"
+  },
+  {
+    "code": "G01R 13/18",
+    "description": "••••••utilizando un desplazamiento de límite [2006.01]"
+  },
+  {
+    "code": "G01R 13/20",
+    "description": "••Osciloscopios de rayos catódicos [2006.01]"
+  },
+  {
+    "code": "G01R 13/22",
+    "description": "••••Circuitos para estos osciloscopios [2006.01]"
+  },
+  {
+    "code": "G01R 13/24",
+    "description": "••••••Circuitos de deflexión a base de tiempos [2006.01]"
+  },
+  {
+    "code": "G01R 13/26",
+    "description": "••••••Circuitos para el control de la intensidad [2006.01]"
+  },
+  {
+    "code": "G01R 13/28",
+    "description": "••••••Circuitos para la representación simultánea o sucesiva de más de una variable [2006.01]"
+  },
+  {
+    "code": "G01R 13/30",
+    "description": "••••••Circuitos para la inserción de marcadores de referencia, p. ej. para la determinación de un tiempo, para el calibrado, para el marcado de frecuencias [2006.01]"
+  },
+  {
+    "code": "G01R 13/32",
+    "description": "••••••Circuitos para la presentación de funciones no recurrentes tales como los fenómenos transitorios; Circuitos de disparo; Circuitos de sincronización; Circuitos para dilatar una base de tiempos [2006.01]"
+  },
+  {
+    "code": "G01R 13/34",
+    "description": "••••••Circuitos para representar una sola forma de onda por muestreo, p. ej. para muy altas frecuencias [2006.01]"
+  },
+  {
+    "code": "G01R 13/36",
+    "description": "••utilizando la longitud de una descarga luminiscente, p. ej. osciloscopios de luminiscencia [2006.01]"
+  },
+  {
+    "code": "G01R 13/38",
+    "description": "••utilizando el desplazamiento estable u oscilatorio de un haz luminoso por un sistema de medida electromecánico [2006.01]"
+  },
+  {
+    "code": "G01R 13/40",
+    "description": "••utilizando la modulación de un haz luminoso por medios distintos al desplazamiento mecánico, p. ej. por efecto Kerr [2006.01]"
+  },
+  {
+    "code": "G01R 13/42",
+    "description": "••Instrumentos que utilizan la longitud de una descarga por chispas, p. ej. midiendo la separación máxima de electrodos compatible con la producción de chispas [2006.01]"
+  },
+  {
+    "code": "G01R 15/00",
+    "description": "Detalles de dispositivos para proceder a las medidas de tipos previstos en los grupos G01R 17/00-G01R 29/00, G01R 33/00-G01R 33/26 o G01R 35/00 [2006.01]"
+  },
+  {
+    "code": "G01R 15/04",
+    "description": "••Divisores de tensión [2006.01]"
+  },
+  {
+    "code": "G01R 15/06",
+    "description": "••••que tienen componentes reactivos, p. ej. transformadores de capacidad [2006.01]"
+  },
+  {
+    "code": "G01R 15/08",
+    "description": "••Circuitos para modificar la escala de medida [2006.01]"
+  },
+  {
+    "code": "G01R 15/09",
+    "description": "••••Circuitos de modificación automática de la escala de medida [2006.01]"
+  },
+  {
+    "code": "G01R 15/12",
+    "description": "••Circuitos para aparatos de control de uso múltiple, p. ej. para medir, a elección, tensión, corriente o impedancia [2006.01]"
+  },
+  {
+    "code": "G01R 15/14",
+    "description": "••Adaptaciones que suministran un aislamiento en tensión o en corriente, p. ej. adaptaciones para las redes de alta tensión o de corriente elevada [2006.01]"
+  },
+  {
+    "code": "G01R 15/16",
+    "description": "••••que utilizan dispositivos capacitivos [2006.01]"
+  },
+  {
+    "code": "G01R 15/18",
+    "description": "••••que utilizan dispositivos inductivos, p. ej. transformadores [2006.01]"
+  },
+  {
+    "code": "G01R 15/20",
+    "description": "••••que utilizan dispositivos galvanomagnéticos, p. ej. dispositivos de efecto Hall [2006.01]"
+  },
+  {
+    "code": "G01R 15/22",
+    "description": "••••que utilizan dispositivos emisores de luz, p. ej. LED, optoacopladores [2006.01]"
+  },
+  {
+    "code": "G01R 15/24",
+    "description": "••••que utilizan dispositivos moduladores de luz [2006.01]"
+  },
+  {
+    "code": "G01R 15/26",
+    "description": "••••que utilizan modulación de ondas distintas de la luz, p. ej. ondas de radio, ondas acústicas [2006.01]"
+  },
+  {
+    "code": "G01R 17/00",
+    "description": "Dispositivos para realizar medidas que implican una comparación con un valor de referencia, p. ej. puente [2006.01]"
+  },
+  {
+    "code": "G01R 17/02",
+    "description": "••Dispositivos en los que el valor a medir está automáticamente comparado con un valor de referencia [2006.01]"
+  },
+  {
+    "code": "G01R 17/04",
+    "description": "••••en las cuales el valor de referencia es objeto de un barrido continuo o periódico en el intervalo de los valores a medir [2006.01]"
+  },
+  {
+    "code": "G01R 17/06",
+    "description": "••••Dispositivos de equilibrio automático [2006.01]"
+  },
+  {
+    "code": "G01R 17/08",
+    "description": "••••••en los cuales una fuerza o un par que representan el valor medio, está equilibrado por una fuerza o un par que representan el valor de referencia [2006.01]"
+  },
+  {
+    "code": "G01R 17/10",
+    "description": "••Puentes de medida alternativos o continuos [2006.01]"
+  },
+  {
+    "code": "G01R 17/12",
+    "description": "••••utilizando la comparación de corrientes, p. ej. puentes de salida de corriente diferencial [2006.01]"
+  },
+  {
+    "code": "G01R 17/14",
+    "description": "••••con indicación del valor medido por un indicador de cero calibrado, p. ej. puente de porcentaje, puente de tolerancias (G01R 17/12, G01R 17/16 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G01R 17/16",
+    "description": "••••con tubos de descarga o dispositivos semiconductores en uno o varios brazos del puente, p. ej. voltímetro que utiliza un amplificador diferencial [2006.01]"
+  },
+  {
+    "code": "G01R 17/18",
+    "description": "••••con más de cuatro ramas [2006.01]"
+  },
+  {
+    "code": "G01R 17/20",
+    "description": "••Dispositivos para proceder a las medidas potenciométricas de corriente continua o alterna [2006.01]"
+  },
+  {
+    "code": "G01R 17/22",
+    "description": "••••con indicación del valor medido por indicador de cero calibrado [2006.01]"
+  },
+  {
+    "code": "G01R 19/00",
+    "description": "Disposiciones para proceder a las medidas de corrientes o tensión o para indicar su existencia o el signo (G01R 5/00 tiene prioridad; para la medida de corrientes o tensiones bioeléctricas A61B 5/24) [2006.01]"
+  },
+  {
+    "code": "G01R 19/02",
+    "description": "••Medida de valores eficaces, es decir, de valores medios cuadráticos [2006.01]"
+  },
+  {
+    "code": "G01R 19/03",
+    "description": "••••utilizando termoconvertidores [2006.01]"
+  },
+  {
+    "code": "G01R 19/04",
+    "description": "••Medida de valores máximos de una corriente alterna o de impulsos [2006.01]"
+  },
+  {
+    "code": "G01R 19/06",
+    "description": "••Medida de la componente real; Medida de la componente reactiva [2006.01]"
+  },
+  {
+    "code": "G01R 19/08",
+    "description": "••Medida de la densidad de corriente [2006.01]"
+  },
+  {
+    "code": "G01R 19/10",
+    "description": "••Medida de una suma, diferencia o relación [2006.01]"
+  },
+  {
+    "code": "G01R 19/12",
+    "description": "••Medida de una tasa de variación [2006.01]"
+  },
+  {
+    "code": "G01R 19/14",
+    "description": "••Indicación del sentido de una corriente; Indicación del sentido de una corriente o de una tensión [2006.01]"
+  },
+  {
+    "code": "G01R 19/145",
+    "description": "••Indicación de la existencia de una corriente o de una tensión [2006.01]"
+  },
+  {
+    "code": "G01R 19/15",
+    "description": "••••Indicación de la existencia de una corriente [2006.01]"
+  },
+  {
+    "code": "G01R 19/155",
+    "description": "••••Indicación de la existencia de una tensión [2006.01]"
+  },
+  {
+    "code": "G01R 19/165",
+    "description": "••Indicación de cómo es una corriente o una tensión, bien superior o inferior a un valor predeterminado, bien interior o exterior a una zona de valores predeterminada [2006.01]"
+  },
+  {
+    "code": "G01R 19/17",
+    "description": "••••indicando el número de veces que el fenómeno se produce [2006.01]"
+  },
+  {
+    "code": "G01R 19/175",
+    "description": "••Indicaciones de los instantes de paso de corriente o de tensión por un valor determinado, p. ej. de paso por cero [2006.01]"
+  },
+  {
+    "code": "G01R 19/18",
+    "description": "••que utilizan la conversión de una corriente continua en corriente alterna, p. ej. con la ayuda de vibradores [2006.01]"
+  },
+  {
+    "code": "G01R 19/20",
+    "description": "••••utilizando transductores [2006.01]"
+  },
+  {
+    "code": "G01R 19/22",
+    "description": "••utilizando la conversión de corriente alterna en continua [2006.01]"
+  },
+  {
+    "code": "G01R 19/25",
+    "description": "••utilizando técnicas de medida digitales [2006.01]"
+  },
+  {
+    "code": "G01R 19/252",
+    "description": "••••utilizando convertidores analógico/digitales del tipo de conversión de la tensión o de la corriente en frecuencia y medida de esta frecuencia [2006.01]"
+  },
+  {
+    "code": "G01R 19/255",
+    "description": "••••utilizando convertidores analógico/digitales del tipo contador de impulsos, emitidos por un generador de impulsos de frecuencia fija, durante una duración proporcional a la tensión o a la corriente [2006.01]"
+  },
+  {
+    "code": "G01R 19/257",
+    "description": "••••utilizando convertidores analógico/digitales del tipo que efectúan la comparación de diferentes valores de referencia con el valor de la tensión o de la corriente, p. ej. utilizando un método por aproximaciones sucesivas [2006.01]"
+  },
+  {
+    "code": "G01R 19/28",
+    "description": "••adaptados a la medida en circuitos que tienen constantes repartidas [2006.01]"
+  },
+  {
+    "code": "G01R 19/30",
+    "description": "••Medida del valor máximo o mínimo de una corriente o de una tensión alcanzado en un intervalo de tiempo (G01R 19/04 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01R 19/32",
+    "description": "••Compensación de las variaciones de temperatura [2006.01]"
+  },
+  {
+    "code": "G01R 21/00",
+    "description": "Disposiciones para proceder a las medidas de la potencia o del factor de potencia (G01R 7/12 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01R 21/01",
+    "description": "••en circuitos que tienen constantes repartidas (G01R 21/04, G01R 21/07, G01R 21/09, G01R 21/12 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G01R 21/02",
+    "description": "••por métodos térmicos [2006.01]"
+  },
+  {
+    "code": "G01R 21/04",
+    "description": "••••en circuitos con constantes repartidas [2006.01]"
+  },
+  {
+    "code": "G01R 21/06",
+    "description": "••por medida de la corriente o de la tensión (G01R 21/08-G01R 21/133 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G01R 21/07",
+    "description": "••••en circuitos con constantes repartidas (G01R 21/09 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01R 21/08",
+    "description": "••utilizando dispositivos de efecto galvanomagnético, p. ej. dispositivos de efecto Hall [2006.01]"
+  },
+  {
+    "code": "G01R 21/09",
+    "description": "••••en circuitos con constantes repartidas [2006.01]"
+  },
+  {
+    "code": "G01R 21/10",
+    "description": "••utilizando características cuadráticas de elementos de circuito, p. ej. de diodos, para medir la potencia absorbida por cargas de impedancia conocida (G01R 21/02 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01R 21/12",
+    "description": "••••en circuitos con constantes repartidas [2006.01]"
+  },
+  {
+    "code": "G01R 21/127",
+    "description": "••utilizando la modulación de impulsos (G01R 21/133 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01R 21/133",
+    "description": "••utilizando técnicas digitales [2006.01]"
+  },
+  {
+    "code": "G01R 21/14",
+    "description": "••Compensación de variaciones de temperatura [2006.01]"
+  },
+  {
+    "code": "G01R 22/00",
+    "description": "Disposiciones para la medida de la integral en el tiempo de una potencia eléctrica o de una corriente, p. ej. por métodos electrónicos [2006.01]"
+  },
+  {
+    "code": "G01R 22/02",
+    "description": "••por métodos electrolíticos [2006.01]"
+  },
+  {
+    "code": "G01R 22/04",
+    "description": "••por métodos calorimétricos [2006.01]"
+  },
+  {
+    "code": "G01R 22/06",
+    "description": "••mediante métodos electrónicos [2006.01]"
+  },
+  {
+    "code": "G01R 22/08",
+    "description": "••••utilizando técnicas analógicas [2006.01]"
+  },
+  {
+    "code": "G01R 22/10",
+    "description": "••••utilizando técnicas digitales [2006.01]"
+  },
+  {
+    "code": "G01R 23/00",
+    "description": "Dispositivos para realizar medidas de frecuencia; Dispositivos para realizar análisis de espectros de frecuencia [2006.01]"
+  },
+  {
+    "code": "G01R 23/02",
+    "description": "••Dispositivos para realizar medidas de frecuencia, p. ej. relación de repetición de impulsos; Dispositivos para realizar medidas del período de una corriente o de una tensión [2006.01]"
+  },
+  {
+    "code": "G01R 23/04",
+    "description": "••••adaptados a la medida en circuitos con constantes repartidas [2006.01]"
+  },
+  {
+    "code": "G01R 23/06",
+    "description": "••••por conversión de la frecuencia en una amplitud de corriente o de tensión [2006.01]"
+  },
+  {
+    "code": "G01R 23/07",
+    "description": "••••••utilizando la respuesta de circuitos sintonizados de resonancia, p. ej. contador de absorción de ondas [2006.01]"
+  },
+  {
+    "code": "G01R 23/08",
+    "description": "••••••utilizando la respuesta de circuitos oscilantes fuera de resonancia [2006.01]"
+  },
+  {
+    "code": "G01R 23/09",
+    "description": "••••••utilizando integradores analógicos, p. ej. condensadores que establecen un valor medio haciendo el balance entre las señales de entrada y señales de descarga o pérdidas bien definidas [2006.01]"
+  },
+  {
+    "code": "G01R 23/10",
+    "description": "••••convirtiendo la frecuencia en un tren de impulsos, que son contados a continuación [2006.01]"
+  },
+  {
+    "code": "G01R 23/12",
+    "description": "••••por conversión de la frecuencia en desfase [2006.01]"
+  },
+  {
+    "code": "G01R 23/14",
+    "description": "••••por heterodino; por medida de las pulsaciones que resultan de una comparación de frecuencias [2006.01]"
+  },
+  {
+    "code": "G01R 23/15",
+    "description": "••••Indicación de cómo es una frecuencia de impulsos, bien superior o inferior a un valor predeterminado, bien interior o exterior a una zona de valores predeterminada, utilizando elementos no lineales o digitales [2006.01]"
+  },
+  {
+    "code": "G01R 23/16",
+    "description": "••Análisis de espectros; Análisis de Fourier [2006.01]"
+  },
+  {
+    "code": "G01R 23/163",
+    "description": "••••adaptados a la medida en circuitos con constantes repartidas [2006.01]"
+  },
+  {
+    "code": "G01R 23/165",
+    "description": "••••utilizando filtros [2006.01]"
+  },
+  {
+    "code": "G01R 23/167",
+    "description": "••••••filtros digitales [2006.01]"
+  },
+  {
+    "code": "G01R 23/17",
+    "description": "••••con dispositivos ópticos auxiliares [2006.01]"
+  },
+  {
+    "code": "G01R 23/173",
+    "description": "••••Dispositivos vobuladores del género de receptores panorámicos con barrido [2006.01]"
+  },
+  {
+    "code": "G01R 23/175",
+    "description": "••••por medios de retardo, p. ej. líneas de retardo de tomas múltiples [2006.01]"
+  },
+  {
+    "code": "G01R 23/177",
+    "description": "••••Análisis de frecuencias muy bajas [2006.01]"
+  },
+  {
+    "code": "G01R 23/18",
+    "description": "••••con posibilidad de registro del espectro de frecuencias [2006.01]"
+  },
+  {
+    "code": "G01R 23/20",
+    "description": "••••Medida de la distorsión no lineal [2006.01]"
+  },
+  {
+    "code": "G01R 25/00",
+    "description": "Dispositivos para realizar medidas del ángulo de fase entre una corriente y una tensión, o entre tensiones o entre corrientes [2006.01]"
+  },
+  {
+    "code": "G01R 25/02",
+    "description": "••en circuitos con constantes repartidas [2006.01]"
+  },
+  {
+    "code": "G01R 25/04",
+    "description": "••que hacen intervenir el ajuste de un desfasador para producir una diferencia de fase predeterminada, p. ej. una diferencia nula [2006.01]"
+  },
+  {
+    "code": "G01R 25/06",
+    "description": "••que utilizan un contador de cociente [2006.01]"
+  },
+  {
+    "code": "G01R 25/08",
+    "description": "••contando pulsaciones normalizadas [2006.01]"
+  },
+  {
+    "code": "G01R 27/00",
+    "description": "Dispositivos para realizar medidas de la resistencia, reactancia, impedancia, o de características eléctricas derivadas [2006.01]"
+  },
+  {
+    "code": "G01R 27/02",
+    "description": "••Medida de resistencias, reactancias, impedancias reales o complejas, o de otras características bipolares derivadas, p. ej. constante de tiempo (midiendo solamente el ángulo de la fase G01R 25/00) [2006.01]"
+  },
+  {
+    "code": "G01R 27/04",
+    "description": "••••en los circuitos con constantes distribuidas [2006.01]"
+  },
+  {
+    "code": "G01R 27/06",
+    "description": "••••••Medida de los coeficientes de reflexión; Medida de la relación de ondas estacionarias [2006.01]"
+  },
+  {
+    "code": "G01R 27/08",
+    "description": "••••Medida de la resistencia por medida a la vez de tensión y de la intensidad [2006.01]"
+  },
+  {
+    "code": "G01R 27/10",
+    "description": "••••••utilizando instrumentos de dos bobinas o de bobinas cruzadas para formar un cociente [2006.01]"
+  },
+  {
+    "code": "G01R 27/12",
+    "description": "••••••••utilizando generadores manuales, p. ej. megohómmetros [2006.01]"
+  },
+  {
+    "code": "G01R 27/14",
+    "description": "••••Medida de una resistencia por medida de una corriente o de una tensión producida por una fuente de referencia (G01R 27/16, G01R 27/20, G01R 27/22 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G01R 27/16",
+    "description": "••••Medida de la impedancia de un elemento o de una red por la cual pasa una corriente que proviene de otra fuente, p. ej. línea de transporte de energía, cables [2006.01]"
+  },
+  {
+    "code": "G01R 27/18",
+    "description": "••••••Medida de una resistencia a tierra [2006.01]"
+  },
+  {
+    "code": "G01R 27/20",
+    "description": "••••Medida de una resistencia de tierra; Medida de la resistencia de contacto de conexiones a tierra, p. ej. de placas [2006.01]"
+  },
+  {
+    "code": "G01R 27/22",
+    "description": "••••Medida de la resistencia de fluidos [2006.01]"
+  },
+  {
+    "code": "G01R 27/26",
+    "description": "••••Medida de la inductancia o de la capacitancia; Medida del factor de calidad, p. ej. utilizando el método por resonancia; Medida del factor de pérdidas; Medida de constantes dieléctricas [2006.01]"
+  },
+  {
+    "code": "G01R 27/28",
+    "description": "••Medida de la atenuación, de la ganancia, del desfase o de las características derivadas en redes eléctricas cuadripolares, es decir, redes de doble entrada; Medida de la respuesta transitoria (en los sistemas de transmisión por líneas H04B 3/46) [2006.01]"
+  },
+  {
+    "code": "G01R 27/30",
+    "description": "••••con dispositivos para el registro de las características, p. ej. por trazado de un diagrama de Nyquist [2006.01]"
+  },
+  {
+    "code": "G01R 27/32",
+    "description": "••••en circuitos con constantes repartidas [2006.01]"
+  },
+  {
+    "code": "G01R 29/00",
+    "description": "Dispositivos para realizar medidas o indicaciones de valores eléctricos no comprendidos en los grupos G01R 19/00-G01R 27/00 [2006.01]"
+  },
+  {
+    "code": "G01R 29/02",
+    "description": "••Medida de las características de impulsos individuales, p. ej. de la pendiente del impulso, del tiempo de subida, de la duración [2006.01]"
+  },
+  {
+    "code": "G01R 29/027",
+    "description": "••••Indicación de cómo es una característica del impulso, bien superior o inferior a un valor predeterminado, bien interior o exterior a una zona de valores predeterminada [2006.01]"
+  },
+  {
+    "code": "G01R 29/033",
+    "description": "••••••indicando el número de veces que el fenómeno se produce [2006.01]"
+  },
+  {
+    "code": "G01R 29/04",
+    "description": "••Medida del factor de forma, es decir, del cociente entre el valor medio cuadrático y la medida aritmética de valor instantáneo; Medida del factor de cresta, es decir, del cociente entre el valor máximo y el valor medio cuadrático [2006.01]"
+  },
+  {
+    "code": "G01R 29/06",
+    "description": "••Medida de la profundidad de modulación [2006.01]"
+  },
+  {
+    "code": "G01R 29/08",
+    "description": "••Medida de las características del campo electromagnético [2006.01]"
+  },
+  {
+    "code": "G01R 29/10",
+    "description": "••••Diagramas de radiación de antenas [2006.01]"
+  },
+  {
+    "code": "G01R 29/12",
+    "description": "••Medida del campo electrostático [2006.01]"
+  },
+  {
+    "code": "G01R 29/14",
+    "description": "••••Medida de la distribución del campo [2006.01]"
+  },
+  {
+    "code": "G01R 29/16",
+    "description": "••Medida de la asimetría de las redes polifásicas [2006.01]"
+  },
+  {
+    "code": "G01R 29/18",
+    "description": "••Indicación de la secuencia de fases; Indicación del sincronismo [2006.01]"
+  },
+  {
+    "code": "G01R 29/20",
+    "description": "••Medida del número de espiras; Medida de la relación de transformación o del factor de acoplamiento de bobinas [2006.01]"
+  },
+  {
+    "code": "G01R 29/22",
+    "description": "••Medida de propiedades piezoeléctricas [2006.01]"
+  },
+  {
+    "code": "G01R 29/24",
+    "description": "••Disposiciones para medir cantidades de carga [2006.01]"
+  },
+  {
+    "code": "G01R 29/26",
+    "description": "••Medida del coeficiente de ruido; Medida de la relación señal-ruido [2006.01]"
+  },
+  {
+    "code": "G01R 31/00",
+    "description": "Dispositivos para ensayo de propiedades eléctricas; Dispositivos para la localización de fallos eléctricos; Disposiciones para el ensayo eléctrico caracterizadas por lo que se está ensayando, no previstos en otro lugar (ensayo o medida de dispositivos semiconductores o de estado sólido, durante la fabricación H01L 21/66; ensayo de los sistemas de transmisión por líneas H04B 3/46) [2006.01]"
+  },
+  {
+    "code": "G01R 31/01",
+    "description": "••Ensayo sucesivo de artículos similares , p. ej. ensayos \"go/no-go\" en una producción en serie; Ensayo de objetos en ciertos puntos mientras pasan a través de una estación de ensayos (ensayo de cables continuos mientras pasan por aparatos de ensayo G01R 31/59; ensayo de la rigidez dieléctrica o la tensión de ruptura G01R 31/12) [2020.01]"
+  },
+  {
+    "code": "G01R 31/08",
+    "description": "••Localización de defectos en los cables, líneas de transmisión o redes [2020.01]"
+  },
+  {
+    "code": "G01R 31/10",
+    "description": "••••aumentado la destrucción en el lugar del fallo, p. ej. combustión por medio de un generador de impulsos que aplican un programa especial [2006.01]"
+  },
+  {
+    "code": "G01R 31/11",
+    "description": "••••utilizando métodos de reflexión de la impulsión [2006.01]"
+  },
+  {
+    "code": "G01R 31/12",
+    "description": "••Ensayo de la rigidez dieléctrica o de la tensión de ruptura [2020.01]"
+  },
+  {
+    "code": "G01R 31/14",
+    "description": "••••Circuitos para este efecto [2006.01]"
+  },
+  {
+    "code": "G01R 31/16",
+    "description": "••••Construcción de recipientes de ensayo; Electrodos para tales recipientes [2006.01]"
+  },
+  {
+    "code": "G01R 31/18",
+    "description": "••••Sometiendo a ensayo artículos similares de uno en uno, p. ej. ensayos de control (\"go/no-go\") en una producción en serie [2006.01]"
+  },
+  {
+    "code": "G01R 31/20",
+    "description": "••••Preparación de artículos o muestras para facilitar el ensayo [2006.01]"
+  },
+  {
+    "code": "G01R 31/24",
+    "description": "••Ensayo de tubos de descarga (durante la fabricación H01J 9/42) [2020.01]"
+  },
+  {
+    "code": "G01R 31/25",
+    "description": "••••Ensayo de tubos de vacío [2006.01]"
+  },
+  {
+    "code": "G01R 31/26",
+    "description": "••Ensayo de dispositivos individuales de semiconductores (prueba o medida durante la fabricación o el tratamiento H01L 21/66; pruebas de dispositivos fotovoltaicos H02S 50/10) [2020.01]"
+  },
+  {
+    "code": "G01R 31/265",
+    "description": "••••Ensayos sin contactos [2006.01]"
+  },
+  {
+    "code": "G01R 31/27",
+    "description": "••••Ensayos de dispositivos sin extraerlos físicamente del circuito del que forman parte, p. ej. compensación de efectos debidos a los elementos circundantes [2006.01]"
+  },
+  {
+    "code": "G01R 31/28",
+    "description": "••Ensayo de circuitos electrónicos, p. ej. con la ayuda de un trazador de señales (ensayo de computadores durante las operaciones de espera \"standby\" o los tiempos muertos G06F 11/22) [2006.01]"
+  },
+  {
+    "code": "G01R 31/30",
+    "description": "••••Ensayos marginales, p. ej. haciendo variar la tensión de alimentación (ensayo de computadores durante las operaciones de espera \"standby\" o los tiempos muertos G06F 11/22) [2006.01]"
+  },
+  {
+    "code": "G01R 31/302",
+    "description": "••••Ensayos sin contacto [2006.01]"
+  },
+  {
+    "code": "G01R 31/303",
+    "description": "••••••de circuitos integrados (G01R 31/305-G01R 31/315 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G01R 31/304",
+    "description": "••••••de circuitos impresos o híbridos (G01R 31/305-G01R 31/315 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G01R 31/305",
+    "description": "••••••utilizando haces electrónicos [2006.01]"
+  },
+  {
+    "code": "G01R 31/306",
+    "description": "••••••••de circuitos impresos o híbridos [2006.01]"
+  },
+  {
+    "code": "G01R 31/307",
+    "description": "••••••••de circuitos integrados [2006.01]"
+  },
+  {
+    "code": "G01R 31/308",
+    "description": "••••••utilizando radiaciones electromagnéticas no ionizantes, p. ej. radiaciones ópticas [2006.01]"
+  },
+  {
+    "code": "G01R 31/309",
+    "description": "••••••••de circuitos impresos o híbridos [2006.01]"
+  },
+  {
+    "code": "G01R 31/311",
+    "description": "••••••••de circuitos integrados [2006.01]"
+  },
+  {
+    "code": "G01R 31/312",
+    "description": "••••••por métodos capacitivos [2006.01]"
+  },
+  {
+    "code": "G01R 31/315",
+    "description": "••••••por métodos inductivos [2006.01]"
+  },
+  {
+    "code": "G01R 31/316",
+    "description": "••••Ensayos de circuitos analógicos [2006.01]"
+  },
+  {
+    "code": "G01R 31/3161",
+    "description": "••••••Ensayos marginales [2006.01]"
+  },
+  {
+    "code": "G01R 31/3163",
+    "description": "••••••Ensayos funcionales [2006.01]"
+  },
+  {
+    "code": "G01R 31/3167",
+    "description": "••••Ensayos de circuitos analógicos y digitales combinados [2006.01]"
+  },
+  {
+    "code": "G01R 31/317",
+    "description": "••••Ensayo de circuitos digitales [2006.01]"
+  },
+  {
+    "code": "G01R 31/3173",
+    "description": "••••••Ensayos marginales [2006.01]"
+  },
+  {
+    "code": "G01R 31/3177",
+    "description": "••••••Ensayo del funcionamiento lógico, p. ej. por medio de analizadores lógicos [2006.01]"
+  },
+  {
+    "code": "G01R 31/3181",
+    "description": "••••••Ensayos funcionales (G01R 31/3177 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01R 31/3183",
+    "description": "••••••••Generación de señales de entrada de prueba, p. ej. vectores, formas o secuencias de ensayo [2006.01]"
+  },
+  {
+    "code": "G01R 31/3185",
+    "description": "••••••••Reconfiguración para los ensayos, p. ej. LSSD, divisiones [2006.01]"
+  },
+  {
+    "code": "G01R 31/3187",
+    "description": "••••••••Ensayos integrados [2006.01]"
+  },
+  {
+    "code": "G01R 31/319",
+    "description": "••••••••Hardware de pruebas, es decir, circuitos de tratamiento de señales de salida [2006.01]"
+  },
+  {
+    "code": "G01R 31/3193",
+    "description": "••••••••••con una comparación entre la respuesta real y la respuesta conocida en ausencia de error [2006.01]"
+  },
+  {
+    "code": "G01R 31/327",
+    "description": "••Ensayo de interruptores de circuito, de interruptores o de disyuntores [2006.01]"
+  },
+  {
+    "code": "G01R 31/333",
+    "description": "••••Ensayo de la capacidad de corte de los disyuntores de alta tensión [2006.01]"
+  },
+  {
+    "code": "G01R 31/34",
+    "description": "••Ensayo de máquinas dinamoeléctricas [2020.01]"
+  },
+  {
+    "code": "G01R 31/36",
+    "description": "••Dispositivos para el ensayo, medida o monitorización del estado eléctrico de acumuladores o baterías, p. ej. de la capacidad o del estado de la carga [SoC] [2020.01]"
+  },
+  {
+    "code": "G01R 31/364",
+    "description": "••••Conectores terminales de baterías con dispositivos de medida integrados [2019.01]"
+  },
+  {
+    "code": "G01R 31/367",
+    "description": "••••Su software, p. ej. para ensayo de baterias usando modelización o tablas de consulta [2019.01]"
+  },
+  {
+    "code": "G01R 31/371",
+    "description": "••••con señalización remota, p. ej. sobre cargadores externos [2019.01]"
+  },
+  {
+    "code": "G01R 31/374",
+    "description": "••••con medios para corregir la medida de la temperatura o del envejecimiento [2019.01]"
+  },
+  {
+    "code": "G01R 31/378",
+    "description": "••••especialmente adaptados para el tipo de batería o acumulador [2019.01]"
+  },
+  {
+    "code": "G01R 31/379",
+    "description": "••••••para baterías de plomo y ácido [2019.01]"
+  },
+  {
+    "code": "G01R 31/382",
+    "description": "••••Dispositivos para monitorizar las variables de la bateria o del acumulador, p. ej. SoC [2019.01]"
+  },
+  {
+    "code": "G01R 31/3828",
+    "description": "••••••usando la integración de la corriente [2019.01]"
+  },
+  {
+    "code": "G01R 31/3832",
+    "description": "••••••••sin medición del voltaje de la batería [2019.01]"
+  },
+  {
+    "code": "G01R 31/3835",
+    "description": "••••••implicando únicamente medidas de voltaje [2019.01]"
+  },
+  {
+    "code": "G01R 31/3842",
+    "description": "••••••combinando las medidas de voltaje y de corriente [2019.01]"
+  },
+  {
+    "code": "G01R 31/385",
+    "description": "••••Dispositivos para medir las variables de la batería o del acumulador (para monitorización G01R 31/382) [2019.01]"
+  },
+  {
+    "code": "G01R 31/387",
+    "description": "••••••Determinando la capacidad de carga en amperios-hora o SoC [2019.01]"
+  },
+  {
+    "code": "G01R 31/388",
+    "description": "••••••••implicando medidas de voltaje [2019.01]"
+  },
+  {
+    "code": "G01R 31/389",
+    "description": "••••Medición de la impedancia interna, la conductancia interna o variables relacionadas [2019.01]"
+  },
+  {
+    "code": "G01R 31/392",
+    "description": "••••Determinación del envejecimiento o deterioro de la batería, p. ej. el estado de salud [2019.01]"
+  },
+  {
+    "code": "G01R 31/396",
+    "description": "••••Adquisición o procesamiento de datos para ensayo y para monitorización de celdas individuales o grupos de celdas en una batería [2019.01]"
+  },
+  {
+    "code": "G01R 31/40",
+    "description": "••Ensayo de fuentes de alimentación (ensayos de dispositivos fotovoltaicos H02S 50/10) [2020.01]"
+  },
+  {
+    "code": "G01R 31/42",
+    "description": "••••de alimentación de corriente alterna [2006.01]"
+  },
+  {
+    "code": "G01R 31/44",
+    "description": "••Ensayo de lámparas [2020.01]"
+  },
+  {
+    "code": "G01R 31/50",
+    "description": "••Ensayo de aparatos eléctricos, líneas, cables o componentes de cortocircuitos, continuidad, corrientes de descarga o conexiones de línea incorrectas (ensayo de bujías H01T 13/58) [2020.01]"
+  },
+  {
+    "code": "G01R 31/52",
+    "description": "••••Ensayo para cortocircuitos, corrientes de descarga o fallos en las tomas de tierra [2020.01]"
+  },
+  {
+    "code": "G01R 31/54",
+    "description": "••••Ensayo de continuidad [2020.01]"
+  },
+  {
+    "code": "G01R 31/55",
+    "description": "••••Ensayo de conexiones de línea incorrectas [2020.01]"
+  },
+  {
+    "code": "G01R 31/56",
+    "description": "••••Ensayo de aparatos eléctricos (ensayo de transformadores G01R 31/62; ensayo de conexiones G01R 31/66) [2020.01]"
+  },
+  {
+    "code": "G01R 31/58",
+    "description": "••••Ensayo de líneas, cables o conductores (ensayo de bobinas eléctricas G01R 31/72) [2020.01]"
+  },
+  {
+    "code": "G01R 31/59",
+    "description": "••••••mientras el cable continuo pasa por el aparato de ensayo, p. ej. durante la fabricación [2020.01]"
+  },
+  {
+    "code": "G01R 31/60",
+    "description": "••••••Identificación de los cables en un cable multinúcleo [2020.01]"
+  },
+  {
+    "code": "G01R 31/62",
+    "description": "••••Ensayo de transformadores [2020.01]"
+  },
+  {
+    "code": "G01R 31/64",
+    "description": "••••Ensayo de condensadores [2020.01]"
+  },
+  {
+    "code": "G01R 31/66",
+    "description": "••••Ensayo de conexiones, p. ej. de enchufes o juntas no desconectables (ensayo para conexiones de línea incorrectas G01R 31/55) [2020.01]"
+  },
+  {
+    "code": "G01R 31/67",
+    "description": "••••••Ensayo de la precisión de las conexiones de cables en aparatos o circuitos eléctricos [2020.01]"
+  },
+  {
+    "code": "G01R 31/68",
+    "description": "••••••Ensayo de conexiones que pueden desensamblarse, p. ej. de terminales montados en una placa de circuito impreso [2020.01]"
+  },
+  {
+    "code": "G01R 31/69",
+    "description": "••••••••de terminales en el extremo de un cable o conjunto de cables; de clavijas; de enchufes, p. ej. enchufes de pared o tomas de corriente en aparatos [2020.01]"
+  },
+  {
+    "code": "G01R 31/70",
+    "description": "••••••Ensayo de conexiones entre componentes y placas de circuito impreso (G01R 31/68 tiene prioridad) [2020.01]"
+  },
+  {
+    "code": "G01R 31/71",
+    "description": "••••••••Ensayo de juntas soldadas [2020.01]"
+  },
+  {
+    "code": "G01R 31/72",
+    "description": "••••Ensayo de bobinas eléctricas (ensayo de transformadores G01R 31/62) [2020.01]"
+  },
+  {
+    "code": "G01R 31/74",
+    "description": "••••Ensayo de fusibles [2020.01]"
+  },
+  {
+    "code": "G01R 33/00",
+    "description": "Dispositivos o aparatos para la medida de valores magnéticos [2006.01]"
+  },
+  {
+    "code": "G01R 33/02",
+    "description": "••Medida de la dirección o de la intensidad de campos magnéticos o de flujos magnéticos (G01R 33/20 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01R 33/022",
+    "description": "••••Medida del gradiente [2006.01]"
+  },
+  {
+    "code": "G01R 33/025",
+    "description": "••••Compensación de campos de dispersión [2006.01]"
+  },
+  {
+    "code": "G01R 33/028",
+    "description": "••••Magnetómetros electrodinámicos [2006.01]"
+  },
+  {
+    "code": "G01R 33/032",
+    "description": "••••utilizando dispositivos magnetoópticos, p. ej. por efecto Faraday [2006.01]"
+  },
+  {
+    "code": "G01R 33/035",
+    "description": "••••utilizando dispositivos supraconductores [2006.01]"
+  },
+  {
+    "code": "G01R 33/038",
+    "description": "••••utilizando imanes permanentes, p. ej. balanzas, dispositivos de torsión [2006.01]"
+  },
+  {
+    "code": "G01R 33/04",
+    "description": "••••utilizando el principio del accionamiento periódico del flujo [2006.01]"
+  },
+  {
+    "code": "G01R 33/05",
+    "description": "••••••en una película delgada [2006.01]"
+  },
+  {
+    "code": "G01R 33/06",
+    "description": "••••utilizando dispositivos galvanomagnéticos [2006.01]"
+  },
+  {
+    "code": "G01R 33/07",
+    "description": "••••••dispositivos de efecto Hall [2006.01]"
+  },
+  {
+    "code": "G01R 33/09",
+    "description": "••••••dispositivos magnetorresistivos [2006.01]"
+  },
+  {
+    "code": "G01R 33/10",
+    "description": "••••Trazado por puntos de la repartición de campo [2006.01]"
+  },
+  {
+    "code": "G01R 33/12",
+    "description": "••Medida de propiedades magnéticas de artículos o muestras de sólidos o de fluidos (en los que interviene la resonancia magnética G01R 33/20) [2006.01]"
+  },
+  {
+    "code": "G01R 33/14",
+    "description": "••••Medida o trazado por puntos de las curvas de histéresis [2006.01]"
+  },
+  {
+    "code": "G01R 33/16",
+    "description": "••••Medida de la susceptibilidad [2006.01]"
+  },
+  {
+    "code": "G01R 33/18",
+    "description": "••••Medida de las propiedades de magnetoestricción [2006.01]"
+  },
+  {
+    "code": "G01R 33/20",
+    "description": "••haciendo intervenir a la resonancia magnética (aspectos médicos A61B 5/055; girómetros de resonancia magnética G01C 19/60) [2006.01]"
+  },
+  {
+    "code": "G01R 33/24",
+    "description": "••••para la medida de la dirección o de la intensidad de campos magnéticos o de flujos magnéticos [2006.01]"
+  },
+  {
+    "code": "G01R 33/26",
+    "description": "••••••utilizando el bombeo óptico [2006.01]"
+  },
+  {
+    "code": "G01R 33/28",
+    "description": "••••Detalles de los aparatos previstos en los grupos G01R 33/44-G01R 33/64 [2006.01]"
+  },
+  {
+    "code": "G01R 33/30",
+    "description": "••••••Disposiciones para el tratamiento de muestras, p. ej. células de ensayo, mecanismos rotacionales [2006.01]"
+  },
+  {
+    "code": "G01R 33/31",
+    "description": "••••••••Control de su temperatura [2006.01]"
+  },
+  {
+    "code": "G01R 33/32",
+    "description": "••••••Sistemas de excitación o de detección, p. ej. que utilizan señales de radiofrecuencia [2006.01]"
+  },
+  {
+    "code": "G01R 33/34",
+    "description": "••••••••Detalles de estructura, p. ej. resonadores [2006.01]"
+  },
+  {
+    "code": "G01R 33/341",
+    "description": "••••••••••que comprenden bobinas de superficie [2006.01]"
+  },
+  {
+    "code": "G01R 33/3415",
+    "description": "••••••••••••que comprenden conjuntos de bobinas [2006.01]"
+  },
+  {
+    "code": "G01R 33/343",
+    "description": "••••••••••de tipo tubo de ranura o bucle hendido [2006.01]"
+  },
+  {
+    "code": "G01R 33/345",
+    "description": "••••••••••de tipo guía de onda (G01R 33/343 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01R 33/36",
+    "description": "••••••••Detalles eléctricos, p. ej. adaptaciones o acoplamiento de la bobina al receptor [2006.01]"
+  },
+  {
+    "code": "G01R 33/38",
+    "description": "••••••Sistemas para producir, homogeneizar o estabilizar el campo magnético director o el campo magnético de gradiente [2006.01]"
+  },
+  {
+    "code": "G01R 33/381",
+    "description": "••••••••que utilizan electroimanes [2006.01]"
+  },
+  {
+    "code": "G01R 33/3815",
+    "description": "••••••••••con bobinas superconductoras, p. ej. alimentaciones a este efecto [2006.01]"
+  },
+  {
+    "code": "G01R 33/383",
+    "description": "••••••••que utilizan imanes permanente [2006.01]"
+  },
+  {
+    "code": "G01R 33/385",
+    "description": "••••••••que utilizan bobinas de campo magnético con gradiente [2006.01]"
+  },
+  {
+    "code": "G01R 33/387",
+    "description": "••••••••Compensación de inhomogeneidades [2006.01]"
+  },
+  {
+    "code": "G01R 33/3873",
+    "description": "••••••••••utilizando cuerpos ferromagnéticos [2006.01]"
+  },
+  {
+    "code": "G01R 33/3875",
+    "description": "••••••••••utilizando conjuntos de bobinas de corrección, p. ej. compensación activa [2006.01]"
+  },
+  {
+    "code": "G01R 33/389",
+    "description": "••••••••Estabilización del campo [2006.01]"
+  },
+  {
+    "code": "G01R 33/42",
+    "description": "••••••Cribado [2006.01]"
+  },
+  {
+    "code": "G01R 33/421",
+    "description": "••••••••del campo magnético principal o del campo magnético con gradiente [2006.01]"
+  },
+  {
+    "code": "G01R 33/422",
+    "description": "••••••••del campo de radiofrecuencia [2006.01]"
+  },
+  {
+    "code": "G01R 33/44",
+    "description": "••••utilizando la resonancia magnética nuclear [NMR] (G01R 33/24, G01R 33/62 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G01R 33/46",
+    "description": "••••••Espectroscopia RMN [2006.01]"
+  },
+  {
+    "code": "G01R 33/465",
+    "description": "••••••••aplicado a material biológico, p. ej. ensayos in vitro [2006.01]"
+  },
+  {
+    "code": "G01R 33/48",
+    "description": "••••••Sistemas de visualización RMN [2006.01]"
+  },
+  {
+    "code": "G01R 33/483",
+    "description": "••••••••con selección de señales o de espectros de regiones particulares del volumen, p. ej. espectroscopía in vivo [2006.01]"
+  },
+  {
+    "code": "G01R 33/485",
+    "description": "••••••••••basadas en la información de desplazamiento químico [2006.01]"
+  },
+  {
+    "code": "G01R 33/50",
+    "description": "••••••••basados en la determinación de tiempos de relajación [2006.01]"
+  },
+  {
+    "code": "G01R 33/54",
+    "description": "••••••••Sistemas de tratamiento de la señal, p. ej. que utilizan secuencias de impulsos [2006.01]"
+  },
+  {
+    "code": "G01R 33/56",
+    "description": "••••••••••Mejora o corrección de la imagen, p. ej. por técnicas de sustracción o cálculo de medias [2006.01]"
+  },
+  {
+    "code": "G01R 33/561",
+    "description": "••••••••••••por reducción del tiempo de barrido, es decir, sistemas de adquisición rápida, p. ej. que utilizan secuencias de impulsos ecoplanares [2006.01]"
+  },
+  {
+    "code": "G01R 33/563",
+    "description": "••••••••••••de materiales en movimiento, p. ej. angiografía de contraste de flujo [2006.01]"
+  },
+  {
+    "code": "G01R 33/565",
+    "description": "••••••••••••Corrección de distorsiones de imagen, p. ej. debidos a las inhomogeneidades de campos magnéticos [2006.01]"
+  },
+  {
+    "code": "G01R 33/567",
+    "description": "••••••••••••desbloqueadas por señales fisiológicas [2006.01]"
+  },
+  {
+    "code": "G01R 33/58",
+    "description": "••••••••Calibrado de los sistemas de visualización, p. ej. mediante sondas de ensayo [2006.01]"
+  },
+  {
+    "code": "G01R 33/60",
+    "description": "••••mediante la resonancia paramagnética electrónica (G01R 33/24, G01R 33/62 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G01R 33/62",
+    "description": "••••utilizando la resonancia doble (G01R 33/24 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01R 33/64",
+    "description": "••••utilizando la resonancia ciclotrón (G01R 33/24 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01R 35/00",
+    "description": "Ensayo o calibrado de los aparatos cubiertos por los otros grupos de esta subclase [2006.01]"
+  },
+  {
+    "code": "G01R 35/02",
+    "description": "••de los dispositivos auxiliares, p. ej. transformadores para aparatos en función de la relación de transformación, del ángulo de fase o de la potencia de utilización [2006.01]"
+  },
+  {
+    "code": "G01R 35/04",
+    "description": "••de los instrumentos para medir la integral en el tiempo de una potencia o de una intensidad [2006.01]"
+  },
+  {
+    "code": "G01R 35/06",
+    "description": "••••por métodos estroboscópicos [2006.01]"
+  }
+]

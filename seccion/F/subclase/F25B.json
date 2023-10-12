@@ -1,0 +1,446 @@
+[
+  {
+    "code": "F25B 1/00",
+    "description": "Máquinas de compresión, plantas o sistemas con ciclo no reversible (F25B 3/00, F25B 5/00, F25B 6/00, F25B 7/00, F25B 9/00 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "F25B 1/02",
+    "description": "••con compresor de pistón alternativo (F25B 1/10 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F25B 1/04",
+    "description": "••con compresor de tipo rotativo (F25B 1/10 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F25B 1/047",
+    "description": "••••del tipo de tornillo [2006.01]"
+  },
+  {
+    "code": "F25B 1/053",
+    "description": "••••del tipo de turbina [2006.01]"
+  },
+  {
+    "code": "F25B 1/06",
+    "description": "••con compresor de eyección, p. ej. utilizando un líquido bajo presión (F25B 1/10 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F25B 1/08",
+    "description": "••••utilizando vapor bajo presión [2006.01]"
+  },
+  {
+    "code": "F25B 1/10",
+    "description": "••de compresión multiescalonada (funcionando en cascada F25B 7/00) [2006.01]"
+  },
+  {
+    "code": "F25B 3/00",
+    "description": "Máquinas de compresión rotativa autónomas, es decir, con compresor, condensador y evaporador que giran como una sola unidad [2006.01]"
+  },
+  {
+    "code": "F25B 5/00",
+    "description": "Máquinas, instalaciones o sistemas de compresión con varios circuitos de evaporación, p. ej.  para variar la capacidad de refrigeración (con funcionamiento en cascada F25B 7/00) [2006.01]"
+  },
+  {
+    "code": "F25B 5/02",
+    "description": "••dispuestos en paralelo [2006.01]"
+  },
+  {
+    "code": "F25B 5/04",
+    "description": "••dispuestos en serie [2006.01]"
+  },
+  {
+    "code": "F25B 6/00",
+    "description": "Máquinas, instalaciones o sistemas de compresión con varios circuitos de condensadores [2006.01]"
+  },
+  {
+    "code": "F25B 6/02",
+    "description": "••dispuestos en paralelo [2006.01]"
+  },
+  {
+    "code": "F25B 6/04",
+    "description": "••dispuestos en serie [2006.01]"
+  },
+  {
+    "code": "F25B 7/00",
+    "description": "Máquinas, instalaciones o sistemas de compresión, con funcionamiento en cascada, es decir, con dos o más circuitos, siendo el calor del condensador de un circuito absorbido por el evaporador del siguiente circuito (F25B 9/00 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F25B 9/00",
+    "description": "Máquinas, instalaciones o sistemas de compresión en los que el refrigerante es aire u otro gas de bajo punto de ebullición [2006.01]"
+  },
+  {
+    "code": "F25B 9/02",
+    "description": "••utilizando el efecto Joule-Thompson; utilizando el efecto de torbellino [2006.01]"
+  },
+  {
+    "code": "F25B 9/04",
+    "description": "••••utilizando el efecto torbellino [2006.01]"
+  },
+  {
+    "code": "F25B 9/06",
+    "description": "••utilizando reductores de presión (F25B 9/10 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F25B 9/08",
+    "description": "••utilizando eyectores (F25B 9/10 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F25B 9/10",
+    "description": "••con varias etapas de enfriamiento [2006.01]"
+  },
+  {
+    "code": "F25B 9/12",
+    "description": "••utilizando la dilución 3He-4He [2006.01]"
+  },
+  {
+    "code": "F25B 9/14",
+    "description": "••caracterizados por el ciclo utilizado, p. ej. ciclo de Stirling [2006.01]"
+  },
+  {
+    "code": "F25B 11/00",
+    "description": "Máquinas, instalaciones o sistemas de compresión que utilizan turbinas, p. ej. turbinas de gas [2006.01]"
+  },
+  {
+    "code": "F25B 11/02",
+    "description": "••como reductores de presión (F25B 9/06 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F25B 11/04",
+    "description": "••••de tipo centrífugo [2006.01]"
+  },
+  {
+    "code": "F25B 13/00",
+    "description": "Máquinas, instalaciones o sistemas de compresión con ciclo reversible (ciclos de desescarchado F25B 47/02) [2006.01]"
+  },
+  {
+    "code": "F25B 15/00",
+    "description": "Máquinas, instalaciones o sistemas de sorción que funcionan de forma continua, p. ej. del tipo absorción [2006.01]"
+  },
+  {
+    "code": "F25B 15/02",
+    "description": "••sin gas inerte (F25B 15/12, F25B 15/14, F25B 15/16 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "F25B 15/04",
+    "description": "••••siendo el refrigerante amoniaco procedente de una solución acuosa [2006.01]"
+  },
+  {
+    "code": "F25B 15/06",
+    "description": "••••siendo el refrigerante vapor de agua evaporado procedente de una solución salada, p. ej. bromuro de litio [2006.01]"
+  },
+  {
+    "code": "F25B 15/08",
+    "description": "••••siendo el refrigerante ácido sulfúrico [2006.01]"
+  },
+  {
+    "code": "F25B 15/09",
+    "description": "••••siendo el refrigerante hidrógeno desorbido a partir de un hidruro [2006.01]"
+  },
+  {
+    "code": "F25B 15/10",
+    "description": "••con un gas inerte (F25B 15/12, F25B 15/14, F25B 15/16 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "F25B 15/12",
+    "description": "••con un reabsorbedor (F25B 15/14 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F25B 15/14",
+    "description": "••utilizando la ósmosis [2006.01]"
+  },
+  {
+    "code": "F25B 15/16",
+    "description": "••utilizando el ciclo de desorción [2006.01]"
+  },
+  {
+    "code": "F25B 17/00",
+    "description": "Máquinas, instalaciones o sistemas de sorción que funcionan de forma intermitente, p. ej. de tipo absorción o adsorción [2006.01]"
+  },
+  {
+    "code": "F25B 17/02",
+    "description": "••siendo el absorbente o el adsorbente un líquido, p. ej. salmuera (F25B 17/10 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F25B 17/04",
+    "description": "••••con uno o varios hervidores que funcionan alternativamente [2006.01]"
+  },
+  {
+    "code": "F25B 17/06",
+    "description": "••••con un hervidor y evaporador conjuntados en un bloque que puede girar o bascular [2006.01]"
+  },
+  {
+    "code": "F25B 17/08",
+    "description": "••siendo el absorbente o el adsorbente un sólido, p. ej. sal (F25B 17/12 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F25B 17/10",
+    "description": "••utilizando la solución endotérmica de sal [2006.01]"
+  },
+  {
+    "code": "F25B 17/12",
+    "description": "••utilizando la desorción de hidrógeno a partir de un hidruro [2006.01]"
+  },
+  {
+    "code": "F25B 19/00",
+    "description": "Máquinas, instalaciones o sistemas que utilizan la evaporación de un refrigerante pero sin recuperación del vapor [2006.01]"
+  },
+  {
+    "code": "F25B 19/02",
+    "description": "••utilizando un chorro fluido, p. ej. de vapor [2006.01]"
+  },
+  {
+    "code": "F25B 19/04",
+    "description": "••••utilizando un chorro líquido, p. ej. de agua [2006.01]"
+  },
+  {
+    "code": "F25B 21/00",
+    "description": "Máquinas, instalaciones o sistemas que utilizan efectos eléctricos o magnéticos [2006.01]"
+  },
+  {
+    "code": "F25B 21/02",
+    "description": "••utilizando el efecto Peltier; utilizando el efecto Nerns-Ettinghausen [2006.01]"
+  },
+  {
+    "code": "F25B 21/04",
+    "description": "••••reversibles [2006.01]"
+  },
+  {
+    "code": "F25B 23/00",
+    "description": "Máquinas, instalaciones o sistemas, con un único modo de funcionamiento no cubierto por los grupos F25B 1/00-F25B 21/00, p. ej.  que utilizan el efecto de radiación selectiva [2006.01]"
+  },
+  {
+    "code": "F25B 25/02",
+    "description": "••Máquinas, instalaciones o sistemas de compresión-absorción [2006.01]"
+  },
+  {
+    "code": "F25B 27/00",
+    "description": "Máquinas, instalaciones o sistemas que utilizan determinadas fuentes de energía (F25B 30/06 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F25B 27/02",
+    "description": "••utilizando el calor perdido, p. ej. calor proveniente de motores de combustión interna [2006.01]"
+  },
+  {
+    "code": "F25B 29/00",
+    "description": "Sistemas combinados de calentamiento y refrigeración, p. ej. que funcionan alternativamente o simultáneamente [2006.01]"
+  },
+  {
+    "code": "F25B 30/00",
+    "description": "Bombas de calor (F25B 1/00-F25B 25/00, F25B 29/00 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "F25B 30/02",
+    "description": "••del tipo de compresión [2006.01]"
+  },
+  {
+    "code": "F25B 30/04",
+    "description": "••del tipo de sorción [2006.01]"
+  },
+  {
+    "code": "F25B 30/06",
+    "description": "••caracterizadas por la fuente de calor de potencial débil [2006.01]"
+  },
+  {
+    "code": "F25B 31/00",
+    "description": "Disposiciones de los compresores [2006.01]"
+  },
+  {
+    "code": "F25B 31/02",
+    "description": "••grupos motocompresores [2006.01]"
+  },
+  {
+    "code": "F25B 33/00",
+    "description": "Hervidores; Analizadores; Rectificadores (hervidores-absorbedores F25B 35/00) [2006.01]"
+  },
+  {
+    "code": "F25B 35/00",
+    "description": "Hervidores-absorbedores, es decir, hervidores utilizables para la absorción o la adsorción [2006.01]"
+  },
+  {
+    "code": "F25B 35/02",
+    "description": "••utilizando un líquido como sorbente, p. ej. salmuera [2006.01]"
+  },
+  {
+    "code": "F25B 35/04",
+    "description": "••utilizando un sólido como sorbente [2006.01]"
+  },
+  {
+    "code": "F25B 37/00",
+    "description": "Absorbedores; Adsorbedores (hervidores-absorbedores F25B 35/00) [2006.01]"
+  },
+  {
+    "code": "F25B 39/00",
+    "description": "Evaporadores; Condensadores [2006.01]"
+  },
+  {
+    "code": "F25B 39/02",
+    "description": "••Evaporadores [2006.01]"
+  },
+  {
+    "code": "F25B 39/04",
+    "description": "••Condensadores [2006.01]"
+  },
+  {
+    "code": "F25B 40/00",
+    "description": "Subenfriadores, desrecalentadores o recalentadores [2006.01]"
+  },
+  {
+    "code": "F25B 40/02",
+    "description": "••Subenfriadores [2006.01]"
+  },
+  {
+    "code": "F25B 40/04",
+    "description": "••Desrecalentadores [2006.01]"
+  },
+  {
+    "code": "F25B 40/06",
+    "description": "••Recalentadores [2006.01]"
+  },
+  {
+    "code": "F25B 41/00",
+    "description": "Circulación del fluido [2021.01]"
+  },
+  {
+    "code": "F25B 41/10",
+    "description": "••utilizando electro-ósmosis [2021.01]"
+  },
+  {
+    "code": "F25B 41/20",
+    "description": "••Disposición de válvulas, p. ej. válvulas on-off o válvulas de control del caudal (válvulas de expansión F25B 41/31) [2021.01]"
+  },
+  {
+    "code": "F25B 41/22",
+    "description": "••••entre el evaporador y el compresor [2021.01]"
+  },
+  {
+    "code": "F25B 41/24",
+    "description": "••••Disposición de válvulas de interrupción para desconectar una parte del ciclo refrigerante, p. ej. una parte exterior [2021.01]"
+  },
+  {
+    "code": "F25B 41/26",
+    "description": "••••válvulas de inversión de flujo de fluido [2021.01]"
+  },
+  {
+    "code": "F25B 41/28",
+    "description": "••••adaptadas especialmente para ciclos de sorción [2021.01]"
+  },
+  {
+    "code": "F25B 41/30",
+    "description": "••Medios de expansión; Sus disposiciones [2021.01]"
+  },
+  {
+    "code": "F25B 41/31",
+    "description": "••••Válvulas de expansión [2021.01]"
+  },
+  {
+    "code": "F25B 41/315",
+    "description": "••••••accionadas por flotadores [2021.01]"
+  },
+  {
+    "code": "F25B 41/32",
+    "description": "••••••que tienen medios de limitación de la velocidad de flujo aparte del cuerpo de la válvula, p. ej. con orificios de bypass en el cuerpo de la válvula [2021.01]"
+  },
+  {
+    "code": "F25B 41/325",
+    "description": "••••••que tienen dos o más cuerpos de válvula [2021.01]"
+  },
+  {
+    "code": "F25B 41/33",
+    "description": "••••••con el cuerpo de la válvula accionado por la presión del fluido, p. ej. por la presión del refrigerante [2021.01]"
+  },
+  {
+    "code": "F25B 41/335",
+    "description": "••••••••a través de diafragmas [2021.01]"
+  },
+  {
+    "code": "F25B 41/34",
+    "description": "••••••con el cuerpo de la válvula accionado por medios eléctricos, p. ej. por actuadores piezoeléctricos [2021.01]"
+  },
+  {
+    "code": "F25B 41/345",
+    "description": "••••••••por solenoides [2021.01]"
+  },
+  {
+    "code": "F25B 41/35",
+    "description": "••••••••por motores rotativos, p. ej. por motores paso a paso [2021.01]"
+  },
+  {
+    "code": "F25B 41/355",
+    "description": "••••••••por calentamiento eléctrico de elementos bimetálicos, elementos con memoria de forma o elementos de dilatación térmica [2021.01]"
+  },
+  {
+    "code": "F25B 41/36",
+    "description": "••••••con el cuerpo de válvula accionado por elementos bimetálicos o por elementos con memoria de forma accionados por fluidos, p. ej. por el refrigerante [2021.01]"
+  },
+  {
+    "code": "F25B 41/37",
+    "description": "••••Tubos capilares [2021.01]"
+  },
+  {
+    "code": "F25B 41/375",
+    "description": "••••••caracterizados por una restricción variable, p. ej. restrictores hechos de una aleación con memoria de forma [2021.01]"
+  },
+  {
+    "code": "F25B 41/38",
+    "description": "••••adaptados especialmente para ciclos reversibles, p. ej. restrictores de expansión bidireccionales [2021.01]"
+  },
+  {
+    "code": "F25B 41/385",
+    "description": "••••Disposiciones con dos o más medios de expansión dispuestos en paralelo sobre una línea de refrigeración que lleva al mismo evaporador [2021.01]"
+  },
+  {
+    "code": "F25B 41/39",
+    "description": "••••Disposiciones con dos o más medios de expansión dispuestos en serie, es decir, expansión multi-etapa sobre una línea de refrigeración que lleva al mismo evaporador [2021.01]"
+  },
+  {
+    "code": "F25B 41/40",
+    "description": "••Disposiciones de la línea de fluido [2021.01]"
+  },
+  {
+    "code": "F25B 41/42",
+    "description": "••••Disposiciones para flujos divergentes o convergentes, p. ej.ramales o uniones [2021.01]"
+  },
+  {
+    "code": "F25B 41/45",
+    "description": "••••••para controlar el flujo aguas arriba del punto divergente, p. ej. con estructura en espiral para generar turbulencia [2021.01]"
+  },
+  {
+    "code": "F25B 41/48",
+    "description": "••••••para controlar la resistencia a la trayectoria del flujo aguas abajo del punto divergente, p. ej. por un orificio [2021.01]"
+  },
+  {
+    "code": "F25B 43/00",
+    "description": "Disposiciones para la separación o la purificación de los gases o de los líquidos (en los analizadores o los rectificadores F25B 33/00); Disposiciones para la vaporización de los residuos de los fluidos refrigerantes, p. ej. mediante calor (F25B 40/00 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F25B 43/02",
+    "description": "••para la separación de los lubrificantes del refrigerante [2006.01]"
+  },
+  {
+    "code": "F25B 43/04",
+    "description": "••para la evacuación de gases no condensables [2006.01]"
+  },
+  {
+    "code": "F25B 45/00",
+    "description": "Disposiciones para la introducción o la evacuación del refrigerante [2006.01]"
+  },
+  {
+    "code": "F25B 47/00",
+    "description": "Disposiciones para prevenir o retirar los depósitos producidos por la corrosión, no previstos en otra subclase [2006.01]"
+  },
+  {
+    "code": "F25B 47/02",
+    "description": "••Ciclos de desescarchado [2006.01]"
+  },
+  {
+    "code": "F25B 49/00",
+    "description": "Disposición o montaje de los dispositivos de control o de seguridad [2006.01]"
+  },
+  {
+    "code": "F25B 49/02",
+    "description": "••para máquinas, instalaciones o sistemas de tipo compresión [2006.01]"
+  },
+  {
+    "code": "F25B 49/04",
+    "description": "••para máquinas, instalaciones o sistemas de tipo sorción [2006.01]"
+  }
+]

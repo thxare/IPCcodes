@@ -1,0 +1,618 @@
+[
+  {
+    "code": "H01G 2/00",
+    "description": "Detalles  de capacitadores no cubiertos unicamente por uno de los grupos H01G 4/00-H01G 11/00 [2006.01]"
+  },
+  {
+    "code": "H01G 2/02",
+    "description": "••Dispositivos de montaje [2006.01]"
+  },
+  {
+    "code": "H01G 2/04",
+    "description": "••••especialmente adaptados para el montaje sobre un chasis [2006.01]"
+  },
+  {
+    "code": "H01G 2/06",
+    "description": "••••especialmente adaptados para el montaje sobre un soporte de circuito impreso [2006.01]"
+  },
+  {
+    "code": "H01G 2/08",
+    "description": "••Disposiciones de refrigeración; Disposiciones de calefacción; Disposiciones de ventilación [2006.01]"
+  },
+  {
+    "code": "H01G 2/10",
+    "description": "••Cajas; Encapsulación [2006.01]"
+  },
+  {
+    "code": "H01G 2/12",
+    "description": "••Protección contra la corrosión (H01G 2/10 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01G 2/14",
+    "description": "••Protección contra la sobrecarga eléctrica o térmica (por enfriamiento H01G 2/08) [2006.01]"
+  },
+  {
+    "code": "H01G 2/16",
+    "description": "••••con elementos fusibles [2006.01]"
+  },
+  {
+    "code": "H01G 2/18",
+    "description": "••••con contactos de ruptura [2006.01]"
+  },
+  {
+    "code": "H01G 2/20",
+    "description": "••Disposiciones para evitar descargas por las aristas de los electrodos [2006.01]"
+  },
+  {
+    "code": "H01G 2/22",
+    "description": "••Blindaje electrostático o magnético [2006.01]"
+  },
+  {
+    "code": "H01G 2/24",
+    "description": "••Marcas distintivas, p. ej. código de colores [2006.01]"
+  },
+  {
+    "code": "H01G 4/00",
+    "description": "Condensadores de capacidad fija; Procesos de fabricación (condensadores electrolíticos H01G 9/00) [2006.01]"
+  },
+  {
+    "code": "H01G 4/002",
+    "description": "••Detalles [2006.01]"
+  },
+  {
+    "code": "H01G 4/005",
+    "description": "••••Electrodos [2006.01]"
+  },
+  {
+    "code": "H01G 4/008",
+    "description": "••••••Empleo de materiales específicos [2006.01]"
+  },
+  {
+    "code": "H01G 4/01",
+    "description": "••••••Forma de los electrodos autoportadores [2006.01]"
+  },
+  {
+    "code": "H01G 4/012",
+    "description": "••••••Forma de los electrodos no autoportadores [2006.01]"
+  },
+  {
+    "code": "H01G 4/015",
+    "description": "••••••Disposiciones especiales para la autorregeneración [2006.01]"
+  },
+  {
+    "code": "H01G 4/018",
+    "description": "••••Dieléctricos [2006.01]"
+  },
+  {
+    "code": "H01G 4/02",
+    "description": "••••••Dieléctricos gaseosos o en forma de vapor [2006.01]"
+  },
+  {
+    "code": "H01G 4/04",
+    "description": "••••••Dieléctricos líquidos [2006.01]"
+  },
+  {
+    "code": "H01G 4/06",
+    "description": "••••••Dieléctricos sólidos [2006.01]"
+  },
+  {
+    "code": "H01G 4/08",
+    "description": "••••••••Dieléctricos inorgánicos [2006.01]"
+  },
+  {
+    "code": "H01G 4/10",
+    "description": "••••••••••Dieléctricos a base de óxidos metálicos [2006.01]"
+  },
+  {
+    "code": "H01G 4/12",
+    "description": "••••••••••Dieléctricos cerámicos [2006.01]"
+  },
+  {
+    "code": "H01G 4/14",
+    "description": "••••••••Dieléctricos orgánicos [2006.01]"
+  },
+  {
+    "code": "H01G 4/16",
+    "description": "••••••••••en material fibroso, p. ej. en papel [2006.01]"
+  },
+  {
+    "code": "H01G 4/18",
+    "description": "••••••••••en material sintético, p. ej. derivados de celulosa (H01G 4/16 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01G 4/20",
+    "description": "••••••utilizando combinaciones de dieléctricos de al menos dos de los grupos H01G 4/02-H01G 4/06 (H01G 4/12 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01G 4/22",
+    "description": "••••••••impregnado [2006.01]"
+  },
+  {
+    "code": "H01G 4/224",
+    "description": "••••Cajas; Encapsulación [2006.01]"
+  },
+  {
+    "code": "H01G 4/228",
+    "description": "••••Bornes [2006.01]"
+  },
+  {
+    "code": "H01G 4/232",
+    "description": "••••••para conectar eléctricamente dos o más capas de un condensador laminado o de capas superpuestas [2006.01]"
+  },
+  {
+    "code": "H01G 4/236",
+    "description": "••••••para atravesar la envoltura, es decir, paso de entrada [2006.01]"
+  },
+  {
+    "code": "H01G 4/242",
+    "description": "••••••el elemento capacitivo rodeando el borne [2006.01]"
+  },
+  {
+    "code": "H01G 4/245",
+    "description": "••••••••Puntos de contacto entre capas de un condensador laminado [2006.01]"
+  },
+  {
+    "code": "H01G 4/248",
+    "description": "••••••los bornes envolviendo o rodeando el elemento capacitivo, p. ej. cápsulas (H01G 4/252 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01G 4/252",
+    "description": "••••••los bornes constituidos por un revestimiento aplicado sobre el elemento capacitivo (H01G 4/232 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01G 4/255",
+    "description": "••••Medios de corrección del valor de la capacidad [2006.01]"
+  },
+  {
+    "code": "H01G 4/258",
+    "description": "••••Medios de compensación de los efectos de la temperatura [2006.01]"
+  },
+  {
+    "code": "H01G 4/26",
+    "description": "••Condensadores plegados [2006.01]"
+  },
+  {
+    "code": "H01G 4/28",
+    "description": "••Condensadores tubulares [2006.01]"
+  },
+  {
+    "code": "H01G 4/30",
+    "description": "••Condensadores apilados (H01G 4/33 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01G 4/32",
+    "description": "••Condensadores enrollados [2006.01]"
+  },
+  {
+    "code": "H01G 4/33",
+    "description": "••Condensadores de película gruesa o delgada [2006.01]"
+  },
+  {
+    "code": "H01G 4/35",
+    "description": "••Condensadores pasantes o condensadores antiparasitarios [2006.01]"
+  },
+  {
+    "code": "H01G 4/38",
+    "description": "••Condensadores múltiples, es decir, combinaciones estructurales de condensadores de capacidad fija [2006.01]"
+  },
+  {
+    "code": "H01G 4/40",
+    "description": "••Combinaciones estructurales de condensadores de capacidad fija con otros elementos eléctricos, no cubiertos por la presente subclase, estando la estructura principalmente constituida por un condensador, p. ej. combinaciones RC [2006.01]"
+  },
+  {
+    "code": "H01G 5/00",
+    "description": "Condensadores en los cuales la capacidad se varía por medios mecánicos, p. ej. por giro de un eje; Procesos para su fabricación [2006.01]"
+  },
+  {
+    "code": "H01G 5/01",
+    "description": "••Detalles [2006.01]"
+  },
+  {
+    "code": "H01G 5/011",
+    "description": "••••Electrodos [2006.01]"
+  },
+  {
+    "code": "H01G 5/012",
+    "description": "••••••al menos uno de los electrodos es un líquido o un material en polvo desplazables [2006.01]"
+  },
+  {
+    "code": "H01G 5/013",
+    "description": "••••Dieléctricos [2006.01]"
+  },
+  {
+    "code": "H01G 5/014",
+    "description": "••••Cajas; Encapsulación [2006.01]"
+  },
+  {
+    "code": "H01G 5/015",
+    "description": "••••Colectores de corriente [2006.01]"
+  },
+  {
+    "code": "H01G 5/017",
+    "description": "••••Compensación de la temperatura [2006.01]"
+  },
+  {
+    "code": "H01G 5/019",
+    "description": "••••Medios para corregir las características capacitivas [2006.01]"
+  },
+  {
+    "code": "H01G 5/04",
+    "description": "••con variación de la superficie efectiva de la armadura [2006.01]"
+  },
+  {
+    "code": "H01G 5/06",
+    "description": "••••por rotación de armaduras planas o sustancialmente planas [2006.01]"
+  },
+  {
+    "code": "H01G 5/08",
+    "description": "••••••funcionando en sucesión [2006.01]"
+  },
+  {
+    "code": "H01G 5/10",
+    "description": "••••por rotación de armaduras helicoidales [2006.01]"
+  },
+  {
+    "code": "H01G 5/12",
+    "description": "••••por rotación de armaduras parcialmente cilíndricas, cónicas o esféricas [2006.01]"
+  },
+  {
+    "code": "H01G 5/14",
+    "description": "••••por movimiento longitudinal de las armaduras [2006.01]"
+  },
+  {
+    "code": "H01G 5/16",
+    "description": "••con variación de la distancia entre armaduras [2006.01]"
+  },
+  {
+    "code": "H01G 5/18",
+    "description": "••••por cambio de inclinación, p. ej. por flexión, por arrollamiento espiral o helicoidal [2006.01]"
+  },
+  {
+    "code": "H01G 5/38",
+    "description": "••Condensadores múltiples, p. ej. en grupo [2006.01]"
+  },
+  {
+    "code": "H01G 5/40",
+    "description": "••Combinaciones estructurales de condensadores variables con otros elementos eléctricos no cubiertos por la presente subclase, estando la estructura constituida principalmente por un condensador, p. ej. combinaciones RC [2006.01]"
+  },
+  {
+    "code": "H01G 7/00",
+    "description": "Condensadores en los cuales la capacidad se varía por medios no mecánicos; Procesos para su fabricación [2006.01]"
+  },
+  {
+    "code": "H01G 7/02",
+    "description": "••Electretos, es decir, que tiene dieléctrico polarizado permanentemente [2006.01]"
+  },
+  {
+    "code": "H01G 7/04",
+    "description": "••con un dieléctrico escogido por su variación de la permitividad en función de la temperatura aplicada [2006.01]"
+  },
+  {
+    "code": "H01G 7/06",
+    "description": "••con un dieléctrico escogido por su variación de la permitividad en función de la tensión aplicada, es decir, condensadores ferroeléctricos (electretos H01G 7/02) [2006.01]"
+  },
+  {
+    "code": "H01G 9/00",
+    "description": "Condensadores electrolíticos, rectificadores electrolíticos, detectores electrolíticos, conmutadores, dispositivos de conmutación electrolíticos, dispositivos electrolíticos fotosensibles o sensibles a la temperatura; Procesos para su fabricación [2006.01]"
+  },
+  {
+    "code": "H01G 9/004",
+    "description": "••Detalles [2006.01]"
+  },
+  {
+    "code": "H01G 9/008",
+    "description": "••••Bornes [2006.01]"
+  },
+  {
+    "code": "H01G 9/012",
+    "description": "••••••especialmente adaptados para condensadores sólidos [2006.01]"
+  },
+  {
+    "code": "H01G 9/02",
+    "description": "••••Diafragmas; Separadores [2006.01]"
+  },
+  {
+    "code": "H01G 9/022",
+    "description": "••••Electrolitos; Absorbentes [2006.01]"
+  },
+  {
+    "code": "H01G 9/025",
+    "description": "••••••Electrolitos sólidos (H01G 11/54 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01G 9/028",
+    "description": "••••••••Electrolitos orgánicos semiconductores, p. ej. TCNQ [2006.01]"
+  },
+  {
+    "code": "H01G 9/032",
+    "description": "••••••••Electrolitos inorgánicos semiconductores, p. ej. MnO2 [2006.01]"
+  },
+  {
+    "code": "H01G 9/035",
+    "description": "••••••Electrolitos líquidos, p. ej. materiales de impregnación (H01G 11/54 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01G 9/04",
+    "description": "••••Electrodos [2006.01]"
+  },
+  {
+    "code": "H01G 9/042",
+    "description": "••••••caracterizados por el material (H01G 11/22 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01G 9/045",
+    "description": "••••••••basados en aluminio [2006.01]"
+  },
+  {
+    "code": "H01G 9/048",
+    "description": "••••••caracterizados por su estructura (H01G 11/22 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01G 9/052",
+    "description": "••••••••Electrodos sinterizados [2006.01]"
+  },
+  {
+    "code": "H01G 9/055",
+    "description": "••••••••Electrodos de lámina fina atacada químicamente [2006.01]"
+  },
+  {
+    "code": "H01G 9/06",
+    "description": "••••••Montaje en los recipientes [2006.01]"
+  },
+  {
+    "code": "H01G 9/07",
+    "description": "••••Capas dieléctricas [2006.01]"
+  },
+  {
+    "code": "H01G 9/08",
+    "description": "••••Cajas; Encapsulación [2006.01]"
+  },
+  {
+    "code": "H01G 9/10",
+    "description": "••••••Cierres, p. ej. de hilos de conducción [2006.01]"
+  },
+  {
+    "code": "H01G 9/12",
+    "description": "••••••Orificios u otros medios para permitir la dilatación [2006.01]"
+  },
+  {
+    "code": "H01G 9/14",
+    "description": "••••Combinaciones estructurales para modificar, o compensar las características de condensadores electrolíticos [2006.01]"
+  },
+  {
+    "code": "H01G 9/145",
+    "description": "••Condensadores con electrolito líquido (H01G 11/00 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01G 9/15",
+    "description": "••Condensadores con electrolito sólido (H01G 11/00 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01G 9/16",
+    "description": "••especialmente adaptados para uso como rectificadores o detectores (H01G 9/22 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01G 9/18",
+    "description": "••Interruptores automáticos [2006.01]"
+  },
+  {
+    "code": "H01G 9/20",
+    "description": "••Dispositivos fotosensibles [2006.01]"
+  },
+  {
+    "code": "H01G 9/21",
+    "description": "••Dispositivos sensibles a la temperatura [2006.01]"
+  },
+  {
+    "code": "H01G 9/22",
+    "description": "••Dispositivos que utilizan oxidación y reducción combinados, p. ej. disposiciones Redox, solion [2013.01]"
+  },
+  {
+    "code": "H01G 9/26",
+    "description": "••Combinaciones estructurales de condensadores electrolíticos, rectificadores, detectores, conmutadores, dispositivos fotosensibles o sensibles a la temperatura [2006.01]"
+  },
+  {
+    "code": "H01G 9/28",
+    "description": "••Combinaciones estructurales de condensadores electrolíticos, rectificadores, detectores, conmutadores, con otros componentes eléctricos no cubiertos por la presente subclase [2006.01]"
+  },
+  {
+    "code": "H01G 11/00",
+    "description": "Condensadores híbridos, es decir, condensadores que tienen diferentes electrodos positivo y negativo; Condensadores eléctricos de doble capa [EDL]; Los procesos para la fabricación de los mismos o de sus partes constitutivas [2013.01]"
+  },
+  {
+    "code": "H01G 11/02",
+    "description": "••usando combinaciones de reacciones de oxidación-reducción, p. ej.: disposición redox o SOLION [2013.01]"
+  },
+  {
+    "code": "H01G 11/04",
+    "description": "••condensadores híbridos [2013.01]"
+  },
+  {
+    "code": "H01G 11/06",
+    "description": "••••con uno de los electrodos que permite iones ser reversiblemente dopados en su interior, p. ej. condensadores de ion litio [LIC] [2013.01]"
+  },
+  {
+    "code": "H01G 11/08",
+    "description": "••Combinaciones estructurales, p. ej.: montaje o  conexión, de condensadores híbridos o EDL con otros componentes eléctricos, siendo el componente principalal menos un condensador híbrido o EDL [2013.01]"
+  },
+  {
+    "code": "H01G 11/10",
+    "description": "••Varios condensadores híbridos o EDL, p. ej.:arrays o módulos (cajas, estuches, encapsulados o montaje de los mismos H01G 11/78) [2013.01]"
+  },
+  {
+    "code": "H01G 11/12",
+    "description": "••••hibridos apilados o condensadores EDL [2013.01]"
+  },
+  {
+    "code": "H01G 11/14",
+    "description": "••Dispositivos o procesos para el ajuste o la protección de los condensadores híbridos o EDL (circuitos de protección adaptados especialmente para los condensadores, y efectuar el cambio automático en el caso de un cambio indeseable de las condiciones de trabajo normales H02H 7/16; circuitos de protección para limitar el exceso de corriente o tensión sin desconexión H02H 9/00) [2013.01]"
+  },
+  {
+    "code": "H01G 11/16",
+    "description": "••••contra sobrecargas eléctricas, p. ej.: inclusión de fusibles [2013.01]"
+  },
+  {
+    "code": "H01G 11/18",
+    "description": "••••contra sobrecargas térmicas, p. ej.: calefacción, refrigeración o ventilación [2013.01]"
+  },
+  {
+    "code": "H01G 11/20",
+    "description": "••••Alteraciones o procesos para la eliminación de impurezas, p. ej.: barrido [2013.01]"
+  },
+  {
+    "code": "H01G 11/22",
+    "description": "••Electrodos [2013.01]"
+  },
+  {
+    "code": "H01G 11/24",
+    "description": "••••caracterizado por las características estructurales de los materiales que lo constituyen o comprenden los electrodos, p. ej.: forma, superficie o porosidad; caracterizado por las características estructurales de polvos o partículas utilizado para ello [2013.01]"
+  },
+  {
+    "code": "H01G 11/26",
+    "description": "••••caracterizan por su estructura, p. ej.: múltiples capas, la porosidad o las características superficiales [2013.01]"
+  },
+  {
+    "code": "H01G 11/28",
+    "description": "••••••establecido o dispuesto en un colector de corriente; Capas o fases entre los electrodos y los colectores de corriente, p. ej.: adhesivos [2013.01]"
+  },
+  {
+    "code": "H01G 11/30",
+    "description": "••••caracterizado por su material [2013.01]"
+  },
+  {
+    "code": "H01G 11/32",
+    "description": "••••••Basada en carbono [2013.01]"
+  },
+  {
+    "code": "H01G 11/34",
+    "description": "••••••••caracterizado por carbonización o la activación de carbono [2013.01]"
+  },
+  {
+    "code": "H01G 11/36",
+    "description": "••••••••Nanoestructuras, p. ej.: nanofibras, nanotubos o fulerenos [2013.01]"
+  },
+  {
+    "code": "H01G 11/38",
+    "description": "••••••••Pastas de carbono o mezclas; Aglutinantes o aditivos para ello [2013.01]"
+  },
+  {
+    "code": "H01G 11/40",
+    "description": "••••••••Fibras [2013.01]"
+  },
+  {
+    "code": "H01G 11/42",
+    "description": "••••••••Polvos o partículas, p. ej.:su composición [2013.01]"
+  },
+  {
+    "code": "H01G 11/44",
+    "description": "••••••••Materias primas para ello, p. ej.: resinas o carbón [2013.01]"
+  },
+  {
+    "code": "H01G 11/46",
+    "description": "••••••Óxidos metálicos [2013.01]"
+  },
+  {
+    "code": "H01G 11/48",
+    "description": "••••••Polímeros conductivos [2013.01]"
+  },
+  {
+    "code": "H01G 11/50",
+    "description": "••••••especialmente adaptados para los condensadores de iones de litio, p. ej.: para dopado de litio o intercalación [2013.01]"
+  },
+  {
+    "code": "H01G 11/52",
+    "description": "••Separadores [2013.01]"
+  },
+  {
+    "code": "H01G 11/54",
+    "description": "••Electrolitos [2013.01]"
+  },
+  {
+    "code": "H01G 11/56",
+    "description": "••••Electrolitos sólidos, p. ej.: geles; Aditivos en el mismo [2013.01]"
+  },
+  {
+    "code": "H01G 11/58",
+    "description": "••••Electrolitos líquidos [2013.01]"
+  },
+  {
+    "code": "H01G 11/60",
+    "description": "••••••caracterizado por el disolvente [2013.01]"
+  },
+  {
+    "code": "H01G 11/62",
+    "description": "••••••caracterizado por el soluto, p. ej.:sales, aniones o cationes en ella [2013.01]"
+  },
+  {
+    "code": "H01G 11/64",
+    "description": "••••••caracterizado por aditivos [2013.01]"
+  },
+  {
+    "code": "H01G 11/66",
+    "description": "••Colector de corriente [2013.01]"
+  },
+  {
+    "code": "H01G 11/68",
+    "description": "••••caracterizado por su material [2013.01]"
+  },
+  {
+    "code": "H01G 11/70",
+    "description": "••••caracterizados por su estructura [2013.01]"
+  },
+  {
+    "code": "H01G 11/72",
+    "description": "••••especialmente adaptado para la integración en condensadores múltiples o aplilamientos híbridos o EDL [2013.01]"
+  },
+  {
+    "code": "H01G 11/74",
+    "description": "••Terminales, p.ej.: extensiones de colectores de corriente [2013.01]"
+  },
+  {
+    "code": "H01G 11/76",
+    "description": "••••especialmente adaptado para la integración en condensadores múltiples o  apilamiento híbridos o EDL s [2013.01]"
+  },
+  {
+    "code": "H01G 11/78",
+    "description": "••Fundas; Carcasas; Encapsulados; Montajes [2013.01]"
+  },
+  {
+    "code": "H01G 11/80",
+    "description": "••••Juntas; Protecciones [2013.01]"
+  },
+  {
+    "code": "H01G 11/82",
+    "description": "••••fijación o montaje de un elemento capacitivo (condensador) en un alojamiento, p. ej.: electrodos de montaje, los colectores de corriente o terminales de contenedores o encapsulaciones [2013.01]"
+  },
+  {
+    "code": "H01G 11/84",
+    "description": "••Procesos para la fabricación de condensadores híbridos o EDL, o componentes de los mismosf [2013.01]"
+  },
+  {
+    "code": "H01G 11/86",
+    "description": "••••sespecialmente adaptados para electrodos (carbonización o la activación de carbono para la fabricación de electrodos H01G 11/34) [2013.01]"
+  },
+  {
+    "code": "H01G 13/00",
+    "description": "Aparatos especialmente adaptados para fabricar condensadores; Procesos especialmente adaptados a la fabricación de condensadores no previstos en los grupos H01G 4/00-H01G 11/00 [2013.01]"
+  },
+  {
+    "code": "H01G 13/02",
+    "description": "••Máquinas para bobinar condensadores [2006.01]"
+  },
+  {
+    "code": "H01G 13/04",
+    "description": "••Secado; Impregnación [2006.01]"
+  },
+  {
+    "code": "H01G 13/06",
+    "description": "••con disposiciones para quitar las superficies de metal [2006.01]"
+  },
+  {
+    "code": "H01G 15/00",
+    "description": "Combinaciones estructurales de condensadores o de otros dispositivos, cubiertos al menos por dos grupos principales diferentes de la presente subclase (incluya al menos un híbrido o eléctrico de doble capa [EDL] condensador como componente principal H01G 11/08) [2013.01]"
+  },
+  {
+    "code": "H01G 17/00",
+    "description": "Combinaciones estructurales de condensadores o de otros dispositivos cubiertos al menos por dos grupos principales diferentes de la presente subclase, con otros elementos eléctricos no cubiertos por la presente subclase, p. ej. combinaciones RC [2006.01]"
+  }
+]

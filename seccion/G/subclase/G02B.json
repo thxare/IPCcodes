@@ -1,0 +1,1258 @@
+[
+  {
+    "code": "G02B 1/00",
+    "description": "Elementos ópticos caracterizados por la sustancia de la que están hechos; Revestimientos ópticos para elementos ópticos [2006.01]"
+  },
+  {
+    "code": "G02B 1/02",
+    "description": "••hechos de cristales, p. ej. sal gema, semiconductores (G02B 1/08 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G02B 1/04",
+    "description": "••hechos de sustancias orgánicas, p. ej. plásticos (G02B 1/08 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G02B 1/06",
+    "description": "••hechos de fluidos en células transparentes [2006.01]"
+  },
+  {
+    "code": "G02B 1/08",
+    "description": "••hechos de sustancias polarizantes [2006.01]"
+  },
+  {
+    "code": "G02B 1/10",
+    "description": "••Revestimientos ópticos obtenidos por aplicación a elementos ópticos o por tratamiento de la superficie de éstos (G02B 1/08 tiene prioridad) [2015.01]"
+  },
+  {
+    "code": "G02B 1/11",
+    "description": "••••Revestimientos antirreflejantes [2015.01]"
+  },
+  {
+    "code": "G02B 1/111",
+    "description": "••••••que utilizan capas que comprenden materiales orgánicos [2015.01]"
+  },
+  {
+    "code": "G02B 1/113",
+    "description": "••••••que utilizan únicamente capas de materiales inorgánicos [2015.01]"
+  },
+  {
+    "code": "G02B 1/115",
+    "description": "••••••••Multicapas [2015.01]"
+  },
+  {
+    "code": "G02B 1/116",
+    "description": "••••••••••incluyendo capas conductoras electricamente [2015.01]"
+  },
+  {
+    "code": "G02B 1/118",
+    "description": "••••••que tienen estructuras superficiales de longitud de onda subóptica diseñadas para proporcionar una transmitancia mejorada, p. ej. estructuras de ojo de polilla o nanoestructuradas [2015.01]"
+  },
+  {
+    "code": "G02B 1/12",
+    "description": "••••por tratamiento de la superficie, p. ej. por irradiación [2006.01]"
+  },
+  {
+    "code": "G02B 1/14",
+    "description": "••••Revestimientos protectores, p. ej. revestimientos endurecidos [2015.01]"
+  },
+  {
+    "code": "G02B 1/16",
+    "description": "••••que tienen un efecto antiestático, p. ej. resvestimientos conductores eléctricamente [2015.01]"
+  },
+  {
+    "code": "G02B 1/18",
+    "description": "••••Revestimientos para mantener limpias las superficies ópticas, p. ej. películas hidrofóbicas o fotocatalíticas (G02B 1/16 tiene prioridad) [2015.01]"
+  },
+  {
+    "code": "G02B 3/00",
+    "description": "Lentes simples o compuestas [2006.01]"
+  },
+  {
+    "code": "G02B 3/02",
+    "description": "••de superficies no esféricas (G02B 3/10 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G02B 3/04",
+    "description": "••••de superficies continuas engendradas por una rotación alrededor de un eje, pero que se desvían de una verdadera esfera [2006.01]"
+  },
+  {
+    "code": "G02B 3/06",
+    "description": "••••de superficies cilíndricas o en forma tórica [2006.01]"
+  },
+  {
+    "code": "G02B 3/08",
+    "description": "••••de superficies discontinuas, p. ej. lente de Fresnel [2006.01]"
+  },
+  {
+    "code": "G02B 3/10",
+    "description": "••Lentes bifocales; Lentes multifocales [2006.01]"
+  },
+  {
+    "code": "G02B 3/12",
+    "description": "••Lentes llenas de un fluido o en cuyo interior se ha hecho el vacío [2006.01]"
+  },
+  {
+    "code": "G02B 3/14",
+    "description": "••••de distancia focal variable [2006.01]"
+  },
+  {
+    "code": "G02B 5/00",
+    "description": "Elementos ópticos distintos de las lentes (guías de luz G02B 6/00; elementos ópticos lógicos G02F 3/00) [2006.01]"
+  },
+  {
+    "code": "G02B 5/02",
+    "description": "••Difusores; Elementos afocales [2006.01]"
+  },
+  {
+    "code": "G02B 5/04",
+    "description": "••Prismas [2006.01]"
+  },
+  {
+    "code": "G02B 5/06",
+    "description": "••••llenos de un fluido o en cuyo interior se ha hecho el vacío [2006.01]"
+  },
+  {
+    "code": "G02B 5/08",
+    "description": "••Espejos [2006.01]"
+  },
+  {
+    "code": "G02B 5/09",
+    "description": "••••Espejos de caras múltiples o poligonales [2006.01]"
+  },
+  {
+    "code": "G02B 5/10",
+    "description": "••••de superficies curvas [2006.01]"
+  },
+  {
+    "code": "G02B 5/12",
+    "description": "••Reflectores reflex [2006.01]"
+  },
+  {
+    "code": "G02B 5/122",
+    "description": "••••del tipo con vértice cúbico, en triedro o en reflector triple [2006.01]"
+  },
+  {
+    "code": "G02B 5/124",
+    "description": "••••••formando parte varios elementos reflectantes de una placa o de una hoja que forma un todo [2006.01]"
+  },
+  {
+    "code": "G02B 5/126",
+    "description": "••••que comprende una superficie curva de refracción [2006.01]"
+  },
+  {
+    "code": "G02B 5/128",
+    "description": "••••••que comprende esferas transparentes embebidas en una matriz [2006.01]"
+  },
+  {
+    "code": "G02B 5/13",
+    "description": "••••••varios elementos refringentes de superficie curva que forman parte de un mismo cuerpo [2006.01]"
+  },
+  {
+    "code": "G02B 5/132",
+    "description": "••••••con medios de soporte individual de reflectores [2006.01]"
+  },
+  {
+    "code": "G02B 5/134",
+    "description": "••••••••que comprende una pieza de soporte fileteada [2006.01]"
+  },
+  {
+    "code": "G02B 5/136",
+    "description": "••••varios elementos reflectantes que forman parte de un mismo cuerpo (G02B 5/124 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G02B 5/18",
+    "description": "••Rejillas de difracción [2006.01]"
+  },
+  {
+    "code": "G02B 5/20",
+    "description": "••Filtros (elementos polarizantes G02B 5/30) [2006.01]"
+  },
+  {
+    "code": "G02B 5/22",
+    "description": "••••Filtros absorbentes [2006.01]"
+  },
+  {
+    "code": "G02B 5/23",
+    "description": "••••••Filtros fotocromáticos [2006.01]"
+  },
+  {
+    "code": "G02B 5/24",
+    "description": "••••••Filtros de líquido (G02B 5/23 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G02B 5/26",
+    "description": "••••Filtros reflectantes (G02B 5/28 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G02B 5/28",
+    "description": "••••Filtros de interferencia [2006.01]"
+  },
+  {
+    "code": "G02B 5/30",
+    "description": "••Elementos polarizadores (dispositivos moduladores de luz con elementos activos G02F 1/00) [2006.01]"
+  },
+  {
+    "code": "G02B 5/32",
+    "description": "••Hologramas utilizados como elementos ópticos [2006.01]"
+  },
+  {
+    "code": "G02B 6/00",
+    "description": "Guías de luz; Detalles de estructura de las disposiciones que comprenden guías de luz y otros elementos ópticos, p. ej. medios de acoplamiento [2006.01]"
+  },
+  {
+    "code": "G02B 6/02",
+    "description": "••Fibras ópticas con revestimiento [2006.01]"
+  },
+  {
+    "code": "G02B 6/024",
+    "description": "••••con propiedades de mantenimiento de polarización [2006.01]"
+  },
+  {
+    "code": "G02B 6/028",
+    "description": "••••con núcleo o revestimiento de índice de refracción calibrado [2006.01]"
+  },
+  {
+    "code": "G02B 6/032",
+    "description": "••••con núcleo o revestimiento no sólido [2006.01]"
+  },
+  {
+    "code": "G02B 6/036",
+    "description": "••••estando compuesto el núcleo o el revestimiento de múltiples capas [2006.01]"
+  },
+  {
+    "code": "G02B 6/04",
+    "description": "••formadas por haces de fibras (G02B 6/24 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G02B 6/06",
+    "description": "••••siendo la posición relativa de las fibras la misma en los dos extremos, p. ej. para transportar imágenes [2006.01]"
+  },
+  {
+    "code": "G02B 6/08",
+    "description": "••••••teniendo el haz de fibras la forma de una placa [2006.01]"
+  },
+  {
+    "code": "G02B 6/10",
+    "description": "••del tipo de guía de ondas ópticas (G02B 6/02, G02B 6/24 tienen prioridad; dispositivos o sistemas para el control de la luz por medios eléctricos, magnéticos, electromagnéticos o acústicos G02F 1/00; transferencia de la modulación de la luz modulada G02F 2/00; elementos ópticos lógicos G02F 3/00; convertidores ópticos analógico/digitales G02F 7/00) [2006.01]"
+  },
+  {
+    "code": "G02B 6/12",
+    "description": "••••del género de circuito integrado (circuitos integrados eléctricos H01L 27/00) [2006.01]"
+  },
+  {
+    "code": "G02B 6/122",
+    "description": "••••••Elemenos ópticos básicos, p. ej. caminos para el guiado de la luz [2006.01]"
+  },
+  {
+    "code": "G02B 6/124",
+    "description": "••••••••Lentes geodésicas o redes integradas [2006.01]"
+  },
+  {
+    "code": "G02B 6/125",
+    "description": "••••••••Curvaturas, ramificaciones o intersecciones [2006.01]"
+  },
+  {
+    "code": "G02B 6/126",
+    "description": "••••••que utilizan efectos de polarización [2006.01]"
+  },
+  {
+    "code": "G02B 6/13",
+    "description": "••••••Circuitos ópticos integrados caracterizados por el método de fabricación [2006.01]"
+  },
+  {
+    "code": "G02B 6/132",
+    "description": "••••••••por deposición de películas delgadas [2006.01]"
+  },
+  {
+    "code": "G02B 6/134",
+    "description": "••••••••por sustitución por átomos dopados [2006.01]"
+  },
+  {
+    "code": "G02B 6/136",
+    "description": "••••••••por grabado [2006.01]"
+  },
+  {
+    "code": "G02B 6/138",
+    "description": "••••••••que utilizan polimerización [2006.01]"
+  },
+  {
+    "code": "G02B 6/14",
+    "description": "••••Convertidores de modo [2006.01]"
+  },
+  {
+    "code": "G02B 6/24",
+    "description": "••Acoplamiento de guías de luz [2006.01]"
+  },
+  {
+    "code": "G02B 6/245",
+    "description": "••••Eliminación de recubrimientos protectores de las guías de luz antes del acoplamiento [2006.01]"
+  },
+  {
+    "code": "G02B 6/25",
+    "description": "••••Preparación de los extremos de las guías de luz para el acoplamiento, p. ej. recorte [2006.01]"
+  },
+  {
+    "code": "G02B 6/255",
+    "description": "••••Empalme de guías de luz, p. ej. por fusión o por conexión [2006.01]"
+  },
+  {
+    "code": "G02B 6/26",
+    "description": "••••Medios de acoplamiento óptico (G02B 6/36, G02B 6/42 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G02B 6/27",
+    "description": "••••••con medios de selección y de ajuste de la polarización [2006.01]"
+  },
+  {
+    "code": "G02B 6/28",
+    "description": "••••••teniendo buses de datos, es decir varios guías de ondas interconectados y asegurando un sistema bidireccional por naturaleza que mezcla y divide las señales [2006.01]"
+  },
+  {
+    "code": "G02B 6/287",
+    "description": "••••••••Estructuración de guías de luz para conformar elementos ópticos por aplicación de calor (G02B 6/255 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G02B 6/293",
+    "description": "••••••••con medios de selección de la longitud de onda [2006.01]"
+  },
+  {
+    "code": "G02B 6/30",
+    "description": "••••••para uso entre fibra y dispositivo de capa delgada [2006.01]"
+  },
+  {
+    "code": "G02B 6/32",
+    "description": "••••••teniendo medios de localización por lentes [2006.01]"
+  },
+  {
+    "code": "G02B 6/34",
+    "description": "••••••utilizando prismas o redes [2006.01]"
+  },
+  {
+    "code": "G02B 6/35",
+    "description": "••••••con medios de conmutación (mediante el cambio de propiedades ópticas del medio G02F 1/00) [2006.01]"
+  },
+  {
+    "code": "G02B 6/36",
+    "description": "••••Medios de acoplamiento mecánicos (G02B 6/255, G02B 6/42 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G02B 6/38",
+    "description": "••••••siendo los medios de acoplamiento fibra a fibra [2006.01]"
+  },
+  {
+    "code": "G02B 6/40",
+    "description": "••••••siendo los medios de acoplamiento de haces de fibras [2006.01]"
+  },
+  {
+    "code": "G02B 6/42",
+    "description": "••••Acoplamiento de guías de luz con elementos opto-electrónicos [2006.01]"
+  },
+  {
+    "code": "G02B 6/43",
+    "description": "••••••Disposiciones que comprenden una pluralidad de elementos optoelectrónicos e interconexiones ópticas asociadas [2006.01]"
+  },
+  {
+    "code": "G02B 6/44",
+    "description": "••Estructuras mecánicas para asegurar la resistencia a la tracción y la protección externa de fibras, p. ej. cables de transmisión óptica (cables que incorporan conductores eléctricos y fibras ópticas H01B 11/22) [2006.01]"
+  },
+  {
+    "code": "G02B 6/46",
+    "description": "••Procesos o aparatos adaptados a la instalación de fibras ópticas o de cables ópticos (instalación de cables que contienen a la vez conductores eléctricos y fibras ópticas H02G) [2006.01]"
+  },
+  {
+    "code": "G02B 6/48",
+    "description": "••••Instalación aérea [2006.01]"
+  },
+  {
+    "code": "G02B 6/50",
+    "description": "••••Instalación subterránea o bajo el agua; Instalación a través de tubos, conductos o canalizaciones [2006.01]"
+  },
+  {
+    "code": "G02B 6/52",
+    "description": "••••••que utilizan un fluido, p. ej. aire [2006.01]"
+  },
+  {
+    "code": "G02B 6/54",
+    "description": "••••••que utilizan medios mecánicos, p. ej. dispositivos para tirar o empujar [2006.01]"
+  },
+  {
+    "code": "G02B 7/00",
+    "description": "Monturas, medios de regulación o uniones estancas a la luz para elementos ópticos [2021.01]"
+  },
+  {
+    "code": "G02B 7/02",
+    "description": "••para lentes [2021.01]"
+  },
+  {
+    "code": "G02B 7/04",
+    "description": "••••con mecanismos de enfoque o para hacer variar el aumento [2021.01]"
+  },
+  {
+    "code": "G02B 7/06",
+    "description": "••••••Enfoque de gemelos binoculares [2021.01]"
+  },
+  {
+    "code": "G02B 7/08",
+    "description": "••••••adaptados para funcionar en combinación con un mecanismo de telemando [2021.01]"
+  },
+  {
+    "code": "G02B 7/09",
+    "description": "••••••adaptadas para el enfoque automático o para hacer variar el aumento de forma automática [2021.01]"
+  },
+  {
+    "code": "G02B 7/10",
+    "description": "••••••por desplazamiento axial relativo de varios lentes, p. ej. lentes de objetivo de distancia focal variable [2021.01]"
+  },
+  {
+    "code": "G02B 7/105",
+    "description": "••••••••con lentes móviles especialmente adaptados para el enfoque cercano [2021.01]"
+  },
+  {
+    "code": "G02B 7/12",
+    "description": "••••Regulación de la distancia pupilar de gemelos binoculares [2021.01]"
+  },
+  {
+    "code": "G02B 7/14",
+    "description": "••••equipados con lentes intercambiables [2021.01]"
+  },
+  {
+    "code": "G02B 7/16",
+    "description": "••••••Torretas rotativas [2021.01]"
+  },
+  {
+    "code": "G02B 7/18",
+    "description": "••para prismas; para espejos [2021.01]"
+  },
+  {
+    "code": "G02B 7/182",
+    "description": "••••para espejos [2021.01]"
+  },
+  {
+    "code": "G02B 7/183",
+    "description": "••••••especialmente adaptados a espejos muy grandes, p. ej. para astronomía (G02B 7/185, G02B 7/192, G02B 7/198 tiene prioridad) [2021.01]"
+  },
+  {
+    "code": "G02B 7/185",
+    "description": "••••••con medios para regular la forma de la superficie del espejo [2021.01]"
+  },
+  {
+    "code": "G02B 7/188",
+    "description": "••••••••Espejos de membrana [2021.01]"
+  },
+  {
+    "code": "G02B 7/192",
+    "description": "••••••con medios para reducir al mínimo las tensiones internas del espejo [2021.01]"
+  },
+  {
+    "code": "G02B 7/195",
+    "description": "••••••••Espejos con enfriamiento por fluido [2021.01]"
+  },
+  {
+    "code": "G02B 7/198",
+    "description": "••••••con medios para regular la posición del espejo con relación a su soporte [2021.01]"
+  },
+  {
+    "code": "G02B 7/20",
+    "description": "••Conexiones estancas a la luz para elementos ópticos móviles [2021.01]"
+  },
+  {
+    "code": "G02B 7/22",
+    "description": "••••Conexiones extensibles, p. ej. fuelles [2021.01]"
+  },
+  {
+    "code": "G02B 7/24",
+    "description": "••••Conexiones montadas sobre pivotes [2021.01]"
+  },
+  {
+    "code": "G02B 7/28",
+    "description": "••Sistemas para la generación automática de señales de enfoque [2021.01]"
+  },
+  {
+    "code": "G02B 7/30",
+    "description": "••••utilizando un triángulo paraláctico con una línea de base [2021.01]"
+  },
+  {
+    "code": "G02B 7/32",
+    "description": "••••••utilizando medios activos, p. ej. un emisor de luz [2021.01]"
+  },
+  {
+    "code": "G02B 7/34",
+    "description": "••••utilizando zonas diferentes en un plano pupilar [2021.01]"
+  },
+  {
+    "code": "G02B 7/36",
+    "description": "••••utilizando técnicas relacionadas con la nitidez de la imagen [2021.01]"
+  },
+  {
+    "code": "G02B 7/38",
+    "description": "••••••medida en diferentes puntos del eje óptico [2021.01]"
+  },
+  {
+    "code": "G02B 7/40",
+    "description": "••••utilizando el retardo de las ondas reflejadas, p. ej. de ondas ultrasónicas [2021.01]"
+  },
+  {
+    "code": "G02B 9/00",
+    "description": "Objetivos ópticos caracterizados a la vez por el número de sus componentes y por la manera que éstos están dispuestos según su signo, es decir, + o – (G02B 13/00, G02B 15/00 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G02B 9/02",
+    "description": "••que tiene un componente + (lentes simples G02B 3/00) [2006.01]"
+  },
+  {
+    "code": "G02B 9/04",
+    "description": "••que tienen solamente dos componentes [2006.01]"
+  },
+  {
+    "code": "G02B 9/06",
+    "description": "••••dos componentes + [2006.01]"
+  },
+  {
+    "code": "G02B 9/08",
+    "description": "••••••asociados a un diafragma [2006.01]"
+  },
+  {
+    "code": "G02B 9/10",
+    "description": "••••un componente + y otro – componente [2006.01]"
+  },
+  {
+    "code": "G02B 9/12",
+    "description": "••que tienen solamente tres componentes [2006.01]"
+  },
+  {
+    "code": "G02B 9/14",
+    "description": "••••dispuestos + – + [2006.01]"
+  },
+  {
+    "code": "G02B 9/16",
+    "description": "••••••siendo todos los componentes simples [2006.01]"
+  },
+  {
+    "code": "G02B 9/18",
+    "description": "••••••en el que uno sólo lleva una lente compuesta (G02B 9/30 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G02B 9/20",
+    "description": "••••••••siendo la componente trasera [2006.01]"
+  },
+  {
+    "code": "G02B 9/22",
+    "description": "••••••••siendo la componente central [2006.01]"
+  },
+  {
+    "code": "G02B 9/24",
+    "description": "••••••de los cuales dos llevan una lente compuesta (G02B 9/30 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G02B 9/26",
+    "description": "••••••••siendo las componentes trasera y delantera [2006.01]"
+  },
+  {
+    "code": "G02B 9/28",
+    "description": "••••••••siendo las componentes central y trasera [2006.01]"
+  },
+  {
+    "code": "G02B 9/30",
+    "description": "••••••siendo la componente central un menisco compuesto – que lleva una lente + [2006.01]"
+  },
+  {
+    "code": "G02B 9/32",
+    "description": "••••••••siendo esta lente + un menisco [2006.01]"
+  },
+  {
+    "code": "G02B 9/34",
+    "description": "••que tiene solamente cuatro componentes [2006.01]"
+  },
+  {
+    "code": "G02B 9/36",
+    "description": "••••dispuestos + – – + [2006.01]"
+  },
+  {
+    "code": "G02B 9/38",
+    "description": "••••••ambos – componentes son meniscos [2006.01]"
+  },
+  {
+    "code": "G02B 9/40",
+    "description": "••••••••un – componente es un compuesto [2006.01]"
+  },
+  {
+    "code": "G02B 9/42",
+    "description": "••••••••dos – componentes son compuestos [2006.01]"
+  },
+  {
+    "code": "G02B 9/44",
+    "description": "••••••ambos – componentes son bicóncavos [2006.01]"
+  },
+  {
+    "code": "G02B 9/46",
+    "description": "••••••••un – componente es compuesto [2006.01]"
+  },
+  {
+    "code": "G02B 9/48",
+    "description": "••••••••dos – componentes son compuestos [2006.01]"
+  },
+  {
+    "code": "G02B 9/50",
+    "description": "••••••ambos componentes + son meniscos [2006.01]"
+  },
+  {
+    "code": "G02B 9/52",
+    "description": "••••••el componente trasero + es compuesto [2006.01]"
+  },
+  {
+    "code": "G02B 9/54",
+    "description": "••••••el componente delantero + es compuesto [2006.01]"
+  },
+  {
+    "code": "G02B 9/56",
+    "description": "••••••siendo todos los componentes lentes simples [2006.01]"
+  },
+  {
+    "code": "G02B 9/58",
+    "description": "••••dispuestos – + + – [2006.01]"
+  },
+  {
+    "code": "G02B 9/60",
+    "description": "••que tienen solamente cinco componentes [2006.01]"
+  },
+  {
+    "code": "G02B 9/62",
+    "description": "••que tienen solamente seis componentes [2006.01]"
+  },
+  {
+    "code": "G02B 9/64",
+    "description": "••que tienen más de seis componentes [2006.01]"
+  },
+  {
+    "code": "G02B 11/00",
+    "description": "Objetivos ópticos caracterizados por el número total de lentes simples y compuestas que constituyen el objetivo y por su disposición (G02B 9/00 tiene prioridad; objetivos que no tienen más que una lente simple G02B 3/00) [2006.01]"
+  },
+  {
+    "code": "G02B 11/02",
+    "description": "••que tienen solamente dos lentes [2006.01]"
+  },
+  {
+    "code": "G02B 11/04",
+    "description": "••••dispuestas CC [2006.01]"
+  },
+  {
+    "code": "G02B 11/06",
+    "description": "••que tienen solamente tres lentes [2006.01]"
+  },
+  {
+    "code": "G02B 11/08",
+    "description": "••••dispuestas LLL [2006.01]"
+  },
+  {
+    "code": "G02B 11/10",
+    "description": "••••dispuestas LCL [2006.01]"
+  },
+  {
+    "code": "G02B 11/12",
+    "description": "••••dispuestas LLC [2006.01]"
+  },
+  {
+    "code": "G02B 11/14",
+    "description": "••••dispuestas CLC [2006.01]"
+  },
+  {
+    "code": "G02B 11/16",
+    "description": "••••dispuestas CCL [2006.01]"
+  },
+  {
+    "code": "G02B 11/18",
+    "description": "••••dispuestas CCC [2006.01]"
+  },
+  {
+    "code": "G02B 11/20",
+    "description": "••que tienen solamente cuatro lentes [2006.01]"
+  },
+  {
+    "code": "G02B 11/22",
+    "description": "••••dispuestas LLLL [2006.01]"
+  },
+  {
+    "code": "G02B 11/24",
+    "description": "••••dispuestas CLLC [2006.01]"
+  },
+  {
+    "code": "G02B 11/26",
+    "description": "••••dispuestas LCCL [2006.01]"
+  },
+  {
+    "code": "G02B 11/28",
+    "description": "••••dispuestas CCCC [2006.01]"
+  },
+  {
+    "code": "G02B 11/30",
+    "description": "••que tienen solamente cinco lentes [2006.01]"
+  },
+  {
+    "code": "G02B 11/32",
+    "description": "••que tienen solamente seis lentes [2006.01]"
+  },
+  {
+    "code": "G02B 11/34",
+    "description": "••que tienen más de seis lentes [2006.01]"
+  },
+  {
+    "code": "G02B 13/00",
+    "description": "Objetivos ópticos especialmente concebidos para empleos específicos detallados a continuación (con aumento variable G02B 15/00) [2006.01]"
+  },
+  {
+    "code": "G02B 13/02",
+    "description": "••Teleobjetivos fotográficos, es decir, sistemas de tipo + – en los que la distancia del vértice del ángulo delantero al plano de la imagen es inferior a la distancia focal equivalente [2006.01]"
+  },
+  {
+    "code": "G02B 13/04",
+    "description": "••Teleobjetivos fotográficos invertidos [2006.01]"
+  },
+  {
+    "code": "G02B 13/06",
+    "description": "••Objetivos panorámicos; Lentes llamadas \"de cielo\" [2006.01]"
+  },
+  {
+    "code": "G02B 13/08",
+    "description": "••Objetivos anamorfóticos [2006.01]"
+  },
+  {
+    "code": "G02B 13/10",
+    "description": "••••que tienen prismas (G02B 13/12 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G02B 13/12",
+    "description": "••••con aumento variable [2006.01]"
+  },
+  {
+    "code": "G02B 13/14",
+    "description": "••para utilizar con radiaciones infrarrojas o ultravioletas (G02B 13/16 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G02B 13/16",
+    "description": "••para utilizar en combinación con convertidores o amplificadores de imagen [2006.01]"
+  },
+  {
+    "code": "G02B 13/18",
+    "description": "••con dos lentes que tienen una o varias superficies no esféricas, p. ej. para reducir la aberración geométrica [2006.01]"
+  },
+  {
+    "code": "G02B 13/20",
+    "description": "••Objetivos de foco blando [2006.01]"
+  },
+  {
+    "code": "G02B 13/22",
+    "description": "••Objetivos o sistemas de lentes telecéntricas [2006.01]"
+  },
+  {
+    "code": "G02B 13/24",
+    "description": "••para reproducir o copiar a corta distancia del objeto [2006.01]"
+  },
+  {
+    "code": "G02B 13/26",
+    "description": "••••para reproducir con un aumento unidad [2006.01]"
+  },
+  {
+    "code": "G02B 15/00",
+    "description": "Objetivos ópticos con medios para hacer variar el aumento (objetivos anamorfóticos G02B 13/08) [2006.01]"
+  },
+  {
+    "code": "G02B 15/02",
+    "description": "••modificando, ajustando o retirando una parte del objetivo p. ej. objetivos transformables [2006.01]"
+  },
+  {
+    "code": "G02B 15/04",
+    "description": "••••por cambio de una parte [2006.01]"
+  },
+  {
+    "code": "G02B 15/06",
+    "description": "••••••siendo la parte delantera [2006.01]"
+  },
+  {
+    "code": "G02B 15/08",
+    "description": "••••••siendo la parte trasera [2006.01]"
+  },
+  {
+    "code": "G02B 15/10",
+    "description": "••••por añadidura de una pieza, p. ej. lente auxiliar de aproximación [2006.01]"
+  },
+  {
+    "code": "G02B 15/12",
+    "description": "••••••por añadidura de órganos anejos telescópicos (G02B 15/14 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G02B 15/14",
+    "description": "••por desplazamiento axial de al menos una lente o de grupos de lentes relativo al plano de la imagen a fin de hacer variar de forma continua la distancia focal equivalente del objetivo [2006.01]"
+  },
+  {
+    "code": "G02B 15/15",
+    "description": "••••compensación solamente por medio de un desplazamiento o solamente por medio de desplazamientos de relación lineal, p. ej. compensación óptica [2006.01]"
+  },
+  {
+    "code": "G02B 15/16",
+    "description": "••••con movimientos interdependientes en relación no lineal entre una lente o un grupo de lentes y otra lente u otro grupo de lentes (G02B 15/22 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G02B 15/163",
+    "description": "••••••teniendo una primera lente móvil o un grupo de lentes móvil y una segunda lente móvil o un grupo de lentes móvil ambas delante de una lente fija o grupo de lentes fijo (G02B 15/177 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G02B 15/167",
+    "description": "••••••••teniendo una lente adicional frontal fija o un grupo de lentes adicional frontal fijo [2006.01]"
+  },
+  {
+    "code": "G02B 15/17",
+    "description": "••••••••••dispuestas + – – [2006.01]"
+  },
+  {
+    "code": "G02B 15/173",
+    "description": "••••••••••dispuestas + – + [2006.01]"
+  },
+  {
+    "code": "G02B 15/177",
+    "description": "••••••teniendo una lente frontal negativa o un grupo de lentes frontal negativo [2006.01]"
+  },
+  {
+    "code": "G02B 15/20",
+    "description": "••••••teniendo una lente adicional móvil o un grupo de lentes adicional móvil para hacer variar la distancia focal del objetivo [2006.01]"
+  },
+  {
+    "code": "G02B 15/22",
+    "description": "••••con lentes móviles especialmente adaptadas para el enfoque cercano [2006.01]"
+  },
+  {
+    "code": "G02B 15/24",
+    "description": "••••••teniendo una lente frontal fija o un grupo de lentes frontal fijo y dos lentes o grupos de lentes móviles delante de una lente fija o grupo de lentes fijo [2006.01]"
+  },
+  {
+    "code": "G02B 15/26",
+    "description": "••••••••dispuestas + – – [2006.01]"
+  },
+  {
+    "code": "G02B 15/28",
+    "description": "••••••••dispuestas + – + [2006.01]"
+  },
+  {
+    "code": "G02B 17/00",
+    "description": "Sistemas con superficies reflectantes, con o sin elementos de refracción [2006.01]"
+  },
+  {
+    "code": "G02B 17/02",
+    "description": "••Sistemas catóptricos, p. ej. sistemas que enderezan e invierten una imagen [2006.01]"
+  },
+  {
+    "code": "G02B 17/04",
+    "description": "••••utilizando solamente prismas [2006.01]"
+  },
+  {
+    "code": "G02B 17/06",
+    "description": "••••utilizando solamente espejos [2006.01]"
+  },
+  {
+    "code": "G02B 17/08",
+    "description": "••Sistemas catadióptricos [2006.01]"
+  },
+  {
+    "code": "G02B 19/00",
+    "description": "Condensadores (para microscopios G02B 21/08) [2006.01]"
+  },
+  {
+    "code": "G02B 21/00",
+    "description": "Microscopios [2006.01]"
+  },
+  {
+    "code": "G02B 21/02",
+    "description": "••Objetivos [2006.01]"
+  },
+  {
+    "code": "G02B 21/04",
+    "description": "••••que tienen espejos [2006.01]"
+  },
+  {
+    "code": "G02B 21/06",
+    "description": "••Medios para iluminar una muestra [2006.01]"
+  },
+  {
+    "code": "G02B 21/08",
+    "description": "••••Condensadores [2006.01]"
+  },
+  {
+    "code": "G02B 21/10",
+    "description": "••••••que dan una iluminación sobre fondo negro (G02B 21/14 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G02B 21/12",
+    "description": "••••••que dan una iluminación sobre fondo claro (G02B 21/14 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G02B 21/14",
+    "description": "••••••que dan una iluminación para observación en contraste de fase [2006.01]"
+  },
+  {
+    "code": "G02B 21/16",
+    "description": "••adaptados para iluminación ultravioleta [2006.01]"
+  },
+  {
+    "code": "G02B 21/18",
+    "description": "••Distribuciones con más de un recorrido de luz, p. ej. para comparar dos muestras [2006.01]"
+  },
+  {
+    "code": "G02B 21/20",
+    "description": "••••Distribuciones binoculares [2006.01]"
+  },
+  {
+    "code": "G02B 21/22",
+    "description": "••••••Distribuciones estereoscópicas [2006.01]"
+  },
+  {
+    "code": "G02B 21/24",
+    "description": "••Estructura del bastidor o pedestal [2006.01]"
+  },
+  {
+    "code": "G02B 21/26",
+    "description": "••••Platinas; Medios de ajuste para éstas [2006.01]"
+  },
+  {
+    "code": "G02B 21/28",
+    "description": "••••con dispositivos de refrigeración [2006.01]"
+  },
+  {
+    "code": "G02B 21/30",
+    "description": "••••con dispositivos de calefacción [2006.01]"
+  },
+  {
+    "code": "G02B 21/32",
+    "description": "••Micromanipuladores combinados por construcción con microscopios [2006.01]"
+  },
+  {
+    "code": "G02B 21/33",
+    "description": "••Aceites de inmersión [2006.01]"
+  },
+  {
+    "code": "G02B 21/34",
+    "description": "••Platinas de microscopios, p. ej. montaje de muestras sobre las platinas de microscopio [2006.01]"
+  },
+  {
+    "code": "G02B 21/36",
+    "description": "••dispuestos para la fotografía o la proyección (G02B 21/18 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G02B 23/00",
+    "description": "Telescopios o lentes de aproximación, p. ej. binoculares; Periscopios; Instrumentos para ver el interior de cuerpos huecos; Visores; Apuntado óptico o aparatos de mira [2006.01]"
+  },
+  {
+    "code": "G02B 23/02",
+    "description": "••que contienen prismas o espejos (G02B 23/14 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G02B 23/04",
+    "description": "••••para compartir o combinar haces luminosos, p. ej. provistos de oculares para más de un observador (G02B 23/10 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G02B 23/06",
+    "description": "••••que tiene una acción de enfoque, p. ej. espejo parabólico [2006.01]"
+  },
+  {
+    "code": "G02B 23/08",
+    "description": "••••Periscopios [2006.01]"
+  },
+  {
+    "code": "G02B 23/10",
+    "description": "••••que proyectan en el campo de visión indicaciones suplementarias, p. ej. datos desde los colimadores [2006.01]"
+  },
+  {
+    "code": "G02B 23/12",
+    "description": "••con medios para invertir o intensificar la imagen [2006.01]"
+  },
+  {
+    "code": "G02B 23/14",
+    "description": "••Visores (para aparatos fotográficos G03B 13/02) [2006.01]"
+  },
+  {
+    "code": "G02B 23/16",
+    "description": "••Fundas; Cubiertas; Monturas; Soportes, p. ej. con contrapesos [2006.01]"
+  },
+  {
+    "code": "G02B 23/18",
+    "description": "••••para disposiciones de gemelos [2006.01]"
+  },
+  {
+    "code": "G02B 23/20",
+    "description": "••••Fundas extensibles o plegables (G02B 23/18 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G02B 23/22",
+    "description": "••••Equipos submarinos, p. ej. para periscopio submarino [2006.01]"
+  },
+  {
+    "code": "G02B 23/24",
+    "description": "••Instrumentos para mirar el interior de cuerpos huecos, p. ej. endoscopios de fibras [2006.01]"
+  },
+  {
+    "code": "G02B 23/26",
+    "description": "••••utilizando guías de luz [2006.01]"
+  },
+  {
+    "code": "G02B 25/00",
+    "description": "Oculares; Lupas [2006.01]"
+  },
+  {
+    "code": "G02B 25/02",
+    "description": "••con medios para iluminar el objeto observado [2006.01]"
+  },
+  {
+    "code": "G02B 25/04",
+    "description": "••que dan una visión bajo un gran ángulo, p. ej. a través de una mirilla [2006.01]"
+  },
+  {
+    "code": "G02B 26/00",
+    "description": "Dispositivos o sistemas ópticos para el control de la luz que utilizan elementos ópticos móviles o deformables (control de la luz mediante la modificación de las propiedades ópticas del medio de los elementos que constituyen dichos dispositivos o sistemas G02F 1/00) [2006.01]"
+  },
+  {
+    "code": "G02B 26/02",
+    "description": "••para controlar la intensidad de la luz [2006.01]"
+  },
+  {
+    "code": "G02B 26/04",
+    "description": "••••modificando periódicamente la intensidad de la luz, p. ej. utilizando troceadores [2006.01]"
+  },
+  {
+    "code": "G02B 26/06",
+    "description": "••para controlar la fase de la luz (G02B 26/08 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G02B 26/08",
+    "description": "••para controlar la dirección de la luz (en guías de luz G02B 6/35) [2006.01]"
+  },
+  {
+    "code": "G02B 26/10",
+    "description": "••••Sistemas de barrido [2006.01]"
+  },
+  {
+    "code": "G02B 26/12",
+    "description": "••••••que utilizan espejos de caras múltiples [2006.01]"
+  },
+  {
+    "code": "G02B 27/00",
+    "description": "Aparatos o sistemas ópticos no previstos en ninguno de los grupos G02B 1/00-G02B 26/00, G02B 30/00 [2006.01]"
+  },
+  {
+    "code": "G02B 27/01",
+    "description": "••Dispositivos de visualización de \"cabeza alta\" [2006.01]"
+  },
+  {
+    "code": "G02B 27/02",
+    "description": "••Aparatos para mirar o para leer (sistemas estereoscópicos en sí G02B 30/00) [2006.01]"
+  },
+  {
+    "code": "G02B 27/04",
+    "description": "••••con piezas extensibles o replegables [2006.01]"
+  },
+  {
+    "code": "G02B 27/06",
+    "description": "••••con un efecto cinematográfico [2006.01]"
+  },
+  {
+    "code": "G02B 27/08",
+    "description": "••••Calidoscopios [2006.01]"
+  },
+  {
+    "code": "G02B 27/09",
+    "description": "••Conformación del haz, p. ej. cambiando la sección transversal, no prevista en otro lugar [2006.01]"
+  },
+  {
+    "code": "G02B 27/10",
+    "description": "••Sistemas que dividen o cambian los haces (mezcla y división de señales de luz que utilizan guías de ondas ópticos G02B 6/28; sistemas para polarizar G02B 27/28) [2006.01]"
+  },
+  {
+    "code": "G02B 27/12",
+    "description": "••••que funcionan únicamente por refracción [2006.01]"
+  },
+  {
+    "code": "G02B 27/14",
+    "description": "••••que funcionan únicamente por reflexión [2006.01]"
+  },
+  {
+    "code": "G02B 27/16",
+    "description": "••••utilizando como medios auxiliares para el enfocado [2006.01]"
+  },
+  {
+    "code": "G02B 27/18",
+    "description": "••para proyección óptica, p. ej. combinación de espejo, de condensador y de objetivo [2006.01]"
+  },
+  {
+    "code": "G02B 27/20",
+    "description": "••••para dar una imagen de objetos minúsculos, p. ej. indicador luminoso [2006.01]"
+  },
+  {
+    "code": "G02B 27/28",
+    "description": "••para polarizar (utilizados en los estereoscopios G02B 30/25) [2006.01]"
+  },
+  {
+    "code": "G02B 27/30",
+    "description": "••Colimadores [2006.01]"
+  },
+  {
+    "code": "G02B 27/32",
+    "description": "••Marcas fiduciales o escalas de medida dentro del sistema óptico [2006.01]"
+  },
+  {
+    "code": "G02B 27/34",
+    "description": "••••iluminado [2006.01]"
+  },
+  {
+    "code": "G02B 27/36",
+    "description": "••••ajustable [2006.01]"
+  },
+  {
+    "code": "G02B 27/40",
+    "description": "••Medios ópticos auxiliares para enfocar [2006.01]"
+  },
+  {
+    "code": "G02B 27/42",
+    "description": "••Optica de difracción (G02B 27/60 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G02B 27/44",
+    "description": "••••Sistemas de redes; Redes con bandas concéntricas (G02B 27/46 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G02B 27/46",
+    "description": "••••Sistemas que utilizan filtros espaciales [2006.01]"
+  },
+  {
+    "code": "G02B 27/48",
+    "description": "••Sistemas ópticos que utilizan la granulación producida por láser [2006.01]"
+  },
+  {
+    "code": "G02B 27/50",
+    "description": "••Sistemas ópticos para la visualización de objetos de fase (en los microscopios G02B 21/14) [2006.01]"
+  },
+  {
+    "code": "G02B 27/52",
+    "description": "••••Optica de contraste de fase [2006.01]"
+  },
+  {
+    "code": "G02B 27/54",
+    "description": "••••Sistemas ópticos estrioscópicos [2006.01]"
+  },
+  {
+    "code": "G02B 27/56",
+    "description": "••Optica que utiliza ondas evanescentes, es decir, ondas no homogéneas [2006.01]"
+  },
+  {
+    "code": "G02B 27/58",
+    "description": "••Optica para la apodización o la superresolución; Sistemas ópticos con apertura sintetizada [2006.01]"
+  },
+  {
+    "code": "G02B 27/60",
+    "description": "••Sistemas que utilizan franjas muaré [2006.01]"
+  },
+  {
+    "code": "G02B 27/62",
+    "description": "••Aparatos ópticos especialmente adaptados para reglar los elementos ópticos durante el montaje de sistemas ópticos [2006.01]"
+  },
+  {
+    "code": "G02B 27/64",
+    "description": "••Sistemas para obtener imágenes que utilizan elementos ópticos para la estabilización lateral y angular de la imagen [2006.01]"
+  },
+  {
+    "code": "G02B 30/00",
+    "description": "Sistemas o aparatos ópticos para generar efectos tridimensionales [3D], p. ej. imágenes estereoscópicas (en microscopios G02B 21/22) [2020.01]"
+  },
+  {
+    "code": "G02B 30/10",
+    "description": "••que usan métodos de escaneo integral [2020.01]"
+  },
+  {
+    "code": "G02B 30/20",
+    "description": "••que proporcionan imágenes de primer y segundo paralaje a los ojos izquierdo y derecho de un observador [2020.01]"
+  },
+  {
+    "code": "G02B 30/22",
+    "description": "••••de tipo estereoscópico [2020.01]"
+  },
+  {
+    "code": "G02B 30/23",
+    "description": "••••••que usan la división por longitud de onda, p. ej. técnicas anaglíficas [2020.01]"
+  },
+  {
+    "code": "G02B 30/24",
+    "description": "••••••por multiplexación temporal, p. ej. que usan obturadores derecho e izquierdo activados de forma secuencial [2020.01]"
+  },
+  {
+    "code": "G02B 30/25",
+    "description": "••••••que usan técnicas de polarización [2020.01]"
+  },
+  {
+    "code": "G02B 30/26",
+    "description": "••••de tipo autoestereoscópico [2020.01]"
+  },
+  {
+    "code": "G02B 30/27",
+    "description": "••••••con matrices lenticulares [2020.01]"
+  },
+  {
+    "code": "G02B 30/28",
+    "description": "••••••••con matrices lenticulares activas [2020.01]"
+  },
+  {
+    "code": "G02B 30/29",
+    "description": "••••••••caracterizados por la geometría de las matrices lenticulares, p. ej. matrices inclinadas, matrices irregulares o matrices de forma o tamaño variable [2020.01]"
+  },
+  {
+    "code": "G02B 30/30",
+    "description": "••••••con barreras de paralaje [2020.01]"
+  },
+  {
+    "code": "G02B 30/31",
+    "description": "••••••••con barreras de paralaje activas (con luz direccional o fuentes de luz de fondo G02B 30/33) [2020.01]"
+  },
+  {
+    "code": "G02B 30/32",
+    "description": "••••••••caracterizados por la geometría de las barreras de paralaje, p. ej. barreras escalonadas, matrices de paralaje inclinadas o matrices de paralaje de forma o tamaño variable [2020.01]"
+  },
+  {
+    "code": "G02B 30/33",
+    "description": "••••••con luz direccional o fuentes de luz de fondo [2020.01]"
+  },
+  {
+    "code": "G02B 30/34",
+    "description": "••••Estereoscopios que proporcionan un par estereoscópico de imágenes separadas que corresponden a vistas de un mismo objeto pero con desplazamiento en paralelo de una respecto a la otra, p. ej. visores de diapositivas 3D [2020.01]"
+  },
+  {
+    "code": "G02B 30/35",
+    "description": "••••••que usan elementos ópticos reflectantes en la trayectoria óptica entre las imágenes y el observador [2020.01]"
+  },
+  {
+    "code": "G02B 30/36",
+    "description": "••••••que usan elementos ópticos refractivos, p. ej. prismas, en la trayectoria óptica entre las imágenes y el observador [2020.01]"
+  },
+  {
+    "code": "G02B 30/37",
+    "description": "••••••Estereoscopios plegables [2020.01]"
+  },
+  {
+    "code": "G02B 30/40",
+    "description": "••que generan en el observador de una sola imagen bidimensional [2D] una percepción de profundidad [2020.01]"
+  },
+  {
+    "code": "G02B 30/50",
+    "description": "••donde la imagen se genera a partir de elementos de imagen distribuidos sobre un volumen 3D [2020.01]"
+  },
+  {
+    "code": "G02B 30/52",
+    "description": "••••donde el volumen 3D se construye a partir de una pila o secuencia de planos 3D, p. ej. sistemas de muestreo en profundidad [2020.01]"
+  },
+  {
+    "code": "G02B 30/54",
+    "description": "••••donde el volumen 3D se genera moviendo una superficie 2D, p. ej. haciendo vibrar o rotar la superficie 2D [2020.01]"
+  },
+  {
+    "code": "G02B 30/56",
+    "description": "••••mediante la proyección de imágenes aéreas o flotantes [2020.01]"
+  },
+  {
+    "code": "G02B 30/60",
+    "description": "••sólo con prismas reflectantes y espejos [2020.01]"
+  }
+]

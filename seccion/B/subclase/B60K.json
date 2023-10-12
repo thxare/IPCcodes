@@ -1,0 +1,546 @@
+[
+  {
+    "code": "B60K 1/00",
+    "description": "Disposiciones o montaje de conjuntos de propulsión eléctricos (B60K 7/00 tiene prioridad; disposiciones o montaje de varios motores principales diferentes para una propulsión recíproca o común B60K 6/00; transmisiones eléctricas B60K 17/12; equipamiento eléctrico o propulsión de vehículos con tracción eléctrica en sí\n\t\t\t\t\t\t\t\t\tB60L; colectores de corriente para líneas de alimentación de energía sobre vehículos propulsados eléctricamente B60L 5/00) [2006.01]"
+  },
+  {
+    "code": "B60K 1/02",
+    "description": "••que comprenden más de un motor eléctrico [2006.01]"
+  },
+  {
+    "code": "B60K 1/04",
+    "description": "••de  dispositivos de almacenamiento de energía eléctrica para la propulsión (cambio de baterías para vehículos de propulsión eléctrica B60L 53/80; para necesidades auxiliares solamente B60R 16/04; aprovisionamiento de baterías para vehículos o retirada de baterías de vehículos B60S 5/06) [2019.01]"
+  },
+  {
+    "code": "B60K 3/00",
+    "description": "Disposiciones o montaje de conjuntos de propulsión a vapor o de gas bajo presión (B60K 7/00 tiene prioridad; disposiciones o montaje de varios motores principales diferentes para una propulsión recíproca o común B60K 6/00; transmisiones de gas bajo presión B60K 17/10) [2006.01]"
+  },
+  {
+    "code": "B60K 3/02",
+    "description": "••del tipo de pistón [2006.01]"
+  },
+  {
+    "code": "B60K 3/04",
+    "description": "••del tipo de turbina [2006.01]"
+  },
+  {
+    "code": "B60K 5/00",
+    "description": "Disposiciones o montaje de conjuntos de propulsión de combustión interna o de reacción (B60K 7/00 tiene prioridad; disposiciones o montaje de varios motores principales diferentes para una propulsión recíproca o común B60K 6/00) [2006.01]"
+  },
+  {
+    "code": "B60K 5/02",
+    "description": "••con el eje principal del motor, p. ej. el eje del cigüeñal dispuesto en paralelo con relación al eje longitudinal central del vehículo [2006.01]"
+  },
+  {
+    "code": "B60K 5/04",
+    "description": "••con el eje principal del motor, p. ej. del cigüeñal dispuesto transversalmente respecto al eje longitudinal central del vehículo [2006.01]"
+  },
+  {
+    "code": "B60K 5/06",
+    "description": "••••el eje principal del motor siendo sensiblemente vertical [2006.01]"
+  },
+  {
+    "code": "B60K 5/08",
+    "description": "••que tienen más de un motor [2006.01]"
+  },
+  {
+    "code": "B60K 5/10",
+    "description": "••que permiten el desmontaje rápido del motor [2006.01]"
+  },
+  {
+    "code": "B60K 5/12",
+    "description": "••Disposición de los soportes del motor [2006.01]"
+  },
+  {
+    "code": "B60K 6/00",
+    "description": "Disposiciones o montaje de varios motores principales diferentes para una propulsión recíproca o común, p.ej. sistemas de propulsión híbridos que comprenden motores eléctricos y de combustión interna [2007.10]"
+  },
+  {
+    "code": "B60K 6/08",
+    "description": "••Motores principales que comprenden motores de combustión y medios de acumulación de energía mecánicos o de fluido [2006.01]"
+  },
+  {
+    "code": "B60K 6/10",
+    "description": "••••por medio de un acumulador mecánico recargable, p. ej. de un volante de inercia [2006.01]"
+  },
+  {
+    "code": "B60K 6/12",
+    "description": "••••por medio de un acumulador de fluido recargable [2006.01]"
+  },
+  {
+    "code": "B60K 6/20",
+    "description": "••consistiendo los motores principales en motores eléctricos y de combustión interna, p. ej. vehículos eléctricos híbridos [2007.10]"
+  },
+  {
+    "code": "B60K 6/22",
+    "description": "••••caracterizados por aparatos, componentes o medios especialmente adaptados para vehículos eléctricos híbridos [2007.10]"
+  },
+  {
+    "code": "B60K 6/24",
+    "description": "••••••caracterizados por los motores de combustión [2007.10]"
+  },
+  {
+    "code": "B60K 6/26",
+    "description": "••••••caracterizados por los motores o los generadores [2007.10]"
+  },
+  {
+    "code": "B60K 6/28",
+    "description": "••••••caracterizados por los medios de acumulación de energía eléctrica, p. ej. baterías o condensadores [2007.10]"
+  },
+  {
+    "code": "B60K 6/30",
+    "description": "••••••caracterizados por acumuladores mecánicos recargables, p. ej. volantes de inercia [2007.10]"
+  },
+  {
+    "code": "B60K 6/32",
+    "description": "••••••caracterizados por pilas de combustible [2007.10]"
+  },
+  {
+    "code": "B60K 6/34",
+    "description": "••••••caracterizados por la ausencia de medios de acumulación de energía [2007.10]"
+  },
+  {
+    "code": "B60K 6/36",
+    "description": "••••••caracterizados por los engranajes de transmisión [2007.10]"
+  },
+  {
+    "code": "B60K 6/365",
+    "description": "••••••••con movimiento orbital de los engranajes [2007.10]"
+  },
+  {
+    "code": "B60K 6/38",
+    "description": "••••••caracterizados por los embragues en la línea de transmisión (embragues en los engranajes de transmisión B60K 6/36) [2007.10]"
+  },
+  {
+    "code": "B60K 6/383",
+    "description": "••••••••Embragues unidireccionales o dispositivos de rueda libre [2007.10]"
+  },
+  {
+    "code": "B60K 6/387",
+    "description": "••••••••Embragues actuados, es decir, embragues que se acoplan o desacoplan mediante actuadores eléctricos, hidráulicos o mecánicos [2007.10]"
+  },
+  {
+    "code": "B60K 6/40",
+    "description": "••••••caracterizados por el montaje o la disposición relativa de los componentes [2007.10]"
+  },
+  {
+    "code": "B60K 6/405",
+    "description": "••••••••Alojamientos [2007.10]"
+  },
+  {
+    "code": "B60K 6/42",
+    "description": "••••caracterizados por la arquitectura del vehículo eléctrico híbrido [2007.10]"
+  },
+  {
+    "code": "B60K 6/44",
+    "description": "••••••De tipo serie-paralelo [2007.10]"
+  },
+  {
+    "code": "B60K 6/442",
+    "description": "••••••••De tipo conmutación serie-paralelo [2007.10]"
+  },
+  {
+    "code": "B60K 6/445",
+    "description": "••••••••De tipo distribución por engranaje diferencial [2007.10]"
+  },
+  {
+    "code": "B60K 6/448",
+    "description": "••••••••De tipo distribución eléctrica [2007.10]"
+  },
+  {
+    "code": "B60K 6/46",
+    "description": "••••••De tipo serie [2007.10]"
+  },
+  {
+    "code": "B60K 6/48",
+    "description": "••••••De tipo paralelo [2007.10]"
+  },
+  {
+    "code": "B60K 6/485",
+    "description": "••••••••De tipo asistido por motor [2007.10]"
+  },
+  {
+    "code": "B60K 6/50",
+    "description": "••••Arquitectura de la línea de transmisión caracterizada por la disposición o tipo de unidades de transmisión [2007.10]"
+  },
+  {
+    "code": "B60K 6/52",
+    "description": "••••••Accionando varios ejes motores, p. ej. tracción a las cuatro ruedas [2007.10]"
+  },
+  {
+    "code": "B60K 6/54",
+    "description": "••••••Transmisión para cambiar la relación [2007.10]"
+  },
+  {
+    "code": "B60K 6/543",
+    "description": "••••••••siendo la transmisión una transmisión variable continua [2007.10]"
+  },
+  {
+    "code": "B60K 6/547",
+    "description": "••••••••siendo la transmisión una transmisión escalonada [2007.10]"
+  },
+  {
+    "code": "B60K 7/00",
+    "description": "Disposición del motor en la rueda motriz o adyacente a ella (mecanismos motores propulsando carretillas de patines A63C 17/12) [2006.01]"
+  },
+  {
+    "code": "B60K 8/00",
+    "description": "Disposiciones o montaje de conjuntos de propulsión no previstos en uno de los grupos principales B60K 1/00-B60K 7/00 [2006.01]"
+  },
+  {
+    "code": "B60K 11/00",
+    "description": "Disposiciones de conjuntos de propulsión relativas a la refrigeración (calefacción del interior del vehículo B60H; refrigeración de motores de combustión interna en sí\n\t\t\t\t\t\t\t\t\tF01P) [2006.01]"
+  },
+  {
+    "code": "B60K 11/02",
+    "description": "••con líquido de refrigeración [2006.01]"
+  },
+  {
+    "code": "B60K 11/04",
+    "description": "••••Disposición o montaje de los radiadores, persianas del radiador o pantallas de radiadores [2006.01]"
+  },
+  {
+    "code": "B60K 11/06",
+    "description": "••con refrigeración por aire [2006.01]"
+  },
+  {
+    "code": "B60K 11/08",
+    "description": "••Tomas de aire para refrigeración; Persianas o pantallas para esas tomas de aire [2006.01]"
+  },
+  {
+    "code": "B60K 13/00",
+    "description": "Disposiciones de conjuntos de propulsión relativas a la admisión de aire de combustión o al escape de gases (dispositivos para fundir la nieve o el hielo en las carreteras o superficies análogas E01H 5/00, E01H 6/00; formando parte del motor F01N; alimentación de motores de combustión con mezclas combustibles o con componentes de estas mezclas F02M) [2006.01]"
+  },
+  {
+    "code": "B60K 13/02",
+    "description": "••relativas a la admisión [2006.01]"
+  },
+  {
+    "code": "B60K 13/04",
+    "description": "••relativas al escape (silenciadores para motores de combustión interna en sí\n\t\t\t\t\t\t\t\t\t\tF01N) [2006.01]"
+  },
+  {
+    "code": "B60K 13/06",
+    "description": "••que utilizan partes estructurales del vehículo como conductos, p. ej. partes del chasis [2006.01]"
+  },
+  {
+    "code": "B60K 15/00",
+    "description": "Disposiciones de motores de combustión relativas a la alimentación de carburante; Montaje o estructura de los depósitos de carburante (depósitos en general B65D, F17C; alimentación de motores de combustión con mezclas combustibles o con componentes de estas mezclas F02M) [2006.01]"
+  },
+  {
+    "code": "B60K 15/01",
+    "description": "••Disposición de las canalizaciones de carburante (chasis formando conductos para fluido B62D 21/17) [2006.01]"
+  },
+  {
+    "code": "B60K 15/03",
+    "description": "••Depósitos de carburante (chasis que comporta compartimentos de almacenaje de fluido B62D 21/16) [2006.01]"
+  },
+  {
+    "code": "B60K 15/035",
+    "description": "••••caracterizados por medios de ventilación [2006.01]"
+  },
+  {
+    "code": "B60K 15/04",
+    "description": "••••Entradas de depósito (B60K 15/077 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B60K 15/05",
+    "description": "••••••Tapas de entrada de depósito [2006.01]"
+  },
+  {
+    "code": "B60K 15/06",
+    "description": "••••caracterizados por sistemas de reserva de carburante [2006.01]"
+  },
+  {
+    "code": "B60K 15/063",
+    "description": "••••Disposición de los depósitos [2006.01]"
+  },
+  {
+    "code": "B60K 15/067",
+    "description": "••••••Montaje de los depósitos [2006.01]"
+  },
+  {
+    "code": "B60K 15/07",
+    "description": "••••••••de depósitos de gas [2006.01]"
+  },
+  {
+    "code": "B60K 15/073",
+    "description": "••••Estructura de depósitos especialmente adaptada a los vehículos (B60K 15/077 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B60K 15/077",
+    "description": "••••con medios para modificar o controlar la distribución o los movimientos del carburante, p. ej. para impedir el ruido, las oscilaciones, las salpicaduras o la falta de carburante [2006.01]"
+  },
+  {
+    "code": "B60K 15/10",
+    "description": "••relativas a las instalaciones de producción de gas (instalaciones de producción de gas en sí\n\t\t\t\t\t\t\t\t\t\tC10J) [2006.01]"
+  },
+  {
+    "code": "B60K 16/00",
+    "description": "Disposiciones relativas a la alimentación de las unidades de propulsión de los vehiculos a partir de energía extraída de las fuerzas naturales, p. ej. del sol, del viento (propulsión eléctrica a partir de la energía extraída de las fuerzas naturales, p. ej. del sol, del viento, B60L 8/00; propulsión marina por motor de viento que acciona los elementos propulsores que actúan directamente sobre el agua B63H 13/00; motores de viento especialmente adaptados para su instalación en vehículos F03D 9/32) [2020.01]"
+  },
+  {
+    "code": "B60K 17/00",
+    "description": "Disposiciones o montaje de las transmisiones en los vehículos (ejes que transmiten el par B60B 35/12; transmisiones y mecanismos de dirección combinados para dirigir las ruedas no orientables B62D 11/00; embragues en sí, p. ej. su construcción, F16D; engranajes en sí, p. ej. su construcción, F16H) [2006.01]"
+  },
+  {
+    "code": "B60K 17/02",
+    "description": "••caracterizadas por la disposición, el emplazamiento o el tipo de embrague [2006.01]"
+  },
+  {
+    "code": "B60K 17/04",
+    "description": "••caracterizado por la disposición, el emplazamiento o el tipo de mecanismo de transmisión (equipamiento eléctrico o propulsión de vehículos con tracción eléctrica en sí B60L) [2006.01]"
+  },
+  {
+    "code": "B60K 17/06",
+    "description": "••••del cambio de velocidad (B60K 17/10-B60K 17/16 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "B60K 17/08",
+    "description": "••••••del tipo mecánico [2006.01]"
+  },
+  {
+    "code": "B60K 17/10",
+    "description": "••••por fluido (de los embragues de fluido B60K 17/02) [2006.01]"
+  },
+  {
+    "code": "B60K 17/12",
+    "description": "••••eléctrico (de los embragues accionados eléctricamente B60K 17/02) [2006.01]"
+  },
+  {
+    "code": "B60K 17/14",
+    "description": "••••estando el mecanismo de transmisión por fluido o eléctrico dispuestos en la rueda motriz o adyacente (B60K 7/00, B60K 17/356 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "B60K 17/16",
+    "description": "••••del diferencial [2006.01]"
+  },
+  {
+    "code": "B60K 17/22",
+    "description": "••caracterizadas por la disposición, el emplazamiento o el tipo de eje principal de accionamiento, p. ej. eje cardan [2006.01]"
+  },
+  {
+    "code": "B60K 17/24",
+    "description": "••••Disposición de conjuntos de árboles [2006.01]"
+  },
+  {
+    "code": "B60K 17/26",
+    "description": "••caracterizadas por la disposición, el emplazamiento o el tipo de dispositivo de rueda libre [2006.01]"
+  },
+  {
+    "code": "B60K 17/28",
+    "description": "••caracterizadas por la disposición, el emplazamiento o el tipo de toma de fuerza [2006.01]"
+  },
+  {
+    "code": "B60K 17/30",
+    "description": "••siendo los elementos de propulsión finales, p. ej. las ruedas, orientables [2006.01]"
+  },
+  {
+    "code": "B60K 17/32",
+    "description": "••siendo los elementos de propulsión finales, p. ej. las ruedas, basculantes alrededor de un gorrón horizontal [2006.01]"
+  },
+  {
+    "code": "B60K 17/34",
+    "description": "••para accionamiento simultáneo de las ruedas delanteras y traseras, p. ej. vehículos con cuatro ruedas motrices (dispositivos o montaje de los medios de control de los cambios del número de ruedas motrices B60K 23/08) [2006.01]"
+  },
+  {
+    "code": "B60K 17/342",
+    "description": "••••teniendo un elemento longitudinal sin fin, p. ej. correas o cadenas para transmitir el accionamiento a las ruedas [2006.01]"
+  },
+  {
+    "code": "B60K 17/344",
+    "description": "••••teniendo un mecanismo de engranaje de transferencia [2006.01]"
+  },
+  {
+    "code": "B60K 17/346",
+    "description": "••••••siendo el mecanismo de engranaje de transferencia un mecanismo diferencial [2006.01]"
+  },
+  {
+    "code": "B60K 17/348",
+    "description": "••••teniendo medios diferenciales para accionar un tren de ruedas, p. ej. el tren delantero a una velocidad, y el otro tren, p. ej. el trasero a una velocidad diferente (B60K 17/346 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B60K 17/35",
+    "description": "••••••incluyendo medios para suprimir o influenciar el poder de transmisión, p. ej. embragues viscosos (engranaje del diferencial con medios de bloqueo F16H 48/20) [2006.01]"
+  },
+  {
+    "code": "B60K 17/354",
+    "description": "••••teniendo conjuntos mecánicos separados para transmitir el accionamiento en las ruedas delanteras o traseras o en todas las ruedas [2006.01]"
+  },
+  {
+    "code": "B60K 17/356",
+    "description": "••••teniendo un motor de fluido o eléctrico para accionar una o más ruedas (disposición del motor en la rueda de tracción o adyacente a ella B60K 7/00) [2006.01]"
+  },
+  {
+    "code": "B60K 17/36",
+    "description": "••que accionan ruedas en tándem [2006.01]"
+  },
+  {
+    "code": "B60K 20/00",
+    "description": "Disposición o montaje sobre los vehículos de los dispositivos de mando de las cajas de cambio de velocidad (cabinas que pueden ser desplazadas y que comportan adaptaciones especiales de los dispositivos de control del vehículo B62D 33/073; estos dispositivos de control en sí\n\t\t\t\t\t\t\t\t\tF16H) [2006.01]"
+  },
+  {
+    "code": "B60K 20/02",
+    "description": "••elementos de ataque del movimiento de control (mecanismos de control en general G05G) [2006.01]"
+  },
+  {
+    "code": "B60K 20/04",
+    "description": "••••montado en el piso [2006.01]"
+  },
+  {
+    "code": "B60K 20/06",
+    "description": "••••montado sobre la columna de dirección o análogo [2006.01]"
+  },
+  {
+    "code": "B60K 20/08",
+    "description": "••••montados sobre el tablero de a bordo [2006.01]"
+  },
+  {
+    "code": "B60K 23/00",
+    "description": "Disposición o montaje de los dispositivos de control de transmisiones de vehículos o partes de ellas, no previstos en otro lugar (transmisiones y mecanismos de dirección combinados para dirigir las ruedas no orientables B62D 11/00; cabinas que pueden ser desplazadas y que comportan adaptaciones particulares de los dispositivos de control del vehículo B62D 33/073; tales dispositivos de control en sí\n\t\t\t\t\t\t\t\t\tF16D, F16H) [2006.01]"
+  },
+  {
+    "code": "B60K 23/02",
+    "description": "••para el embrague motor [2006.01]"
+  },
+  {
+    "code": "B60K 23/04",
+    "description": "••para mecanismos diferenciales [2006.01]"
+  },
+  {
+    "code": "B60K 23/06",
+    "description": "••para dispositivos de ruedas libres [2006.01]"
+  },
+  {
+    "code": "B60K 23/08",
+    "description": "••para el cambio del número de ruedas motrices [2006.01]"
+  },
+  {
+    "code": "B60K 25/02",
+    "description": "••directos a partir del eje del motor [2006.01]"
+  },
+  {
+    "code": "B60K 25/04",
+    "description": "••por presión estática o dinámica o bien por vacíos engendrados por el motor [2006.01]"
+  },
+  {
+    "code": "B60K 25/06",
+    "description": "••a partir de la toma de fuerza situada sobre la transmisión (transmisiones que tienen tales tomas de fuerza B60K 17/28) [2006.01]"
+  },
+  {
+    "code": "B60K 25/08",
+    "description": "••por una rueda portante, p. ej. por contacto con la banda de rodadura o la llanta [2006.01]"
+  },
+  {
+    "code": "B60K 25/10",
+    "description": "••directos a partir de los movimientos oscilantes debidos al desplazamiento del vehículo, p. ej. por movimientos de la suspensión (suspensiones elásticas que tienen amortiguadores que almacenan la energía en una forma utilizable, p. ej. comprimiendo el aire, B60G 13/14) [2006.01]"
+  },
+  {
+    "code": "B60K 26/00",
+    "description": "Disposición o montaje sobre vehículos de dispositivos de control de los conjuntos de propulsión (cabinas que pueden ser desplazadas y que comportan adaptaciones particulares de los dispositivos de control del vehículo B62D 33/073) [2006.01]"
+  },
+  {
+    "code": "B60K 26/02",
+    "description": "••de los medios u órganos para atacar el movimiento [2006.01]"
+  },
+  {
+    "code": "B60K 26/04",
+    "description": "••de los medios de unión entre los medios u órganos de ataque del movimiento y el conjunto de propulsión [2006.01]"
+  },
+  {
+    "code": "B60K 28/00",
+    "description": "Dispositivos de seguridad para el control de la unidad de propulsión, especialmente adaptados para o dispuestos en vehículos, p. ej. que impiden el suministro de combustible o el encendido en caso de condiciones potencialmente peligrosas (para vehículos propulsados eléctricamente B60L 3/00; sistemas para control de la conducción del vehículo para fines no relacionados con el control de una subunidad particular B60W 30/00; sistemas de control d la conducción especialmente adaptados para vehículos terrestres autónomos B60W 60/00) [2006.01]"
+  },
+  {
+    "code": "B60K 28/02",
+    "description": "••que responden a condiciones relativas al conductor [2006.01]"
+  },
+  {
+    "code": "B60K 28/04",
+    "description": "••••que responden a la presencia o ausencia del conductor, p. ej. el peso o la ausencia del mismo [2006.01]"
+  },
+  {
+    "code": "B60K 28/06",
+    "description": "••••que responden a una incapacidad del conductor [2006.01]"
+  },
+  {
+    "code": "B60K 28/08",
+    "description": "••que responden a condiciones relativas a la carga, p. ej. sobrecarga [2006.01]"
+  },
+  {
+    "code": "B60K 28/10",
+    "description": "••que responden a condiciones relativas al vehículo [2006.01]"
+  },
+  {
+    "code": "B60K 28/12",
+    "description": "••••que responden a condiciones relativas a puertas o a cierres de la mismas, p. ej. puerta abierta [2006.01]"
+  },
+  {
+    "code": "B60K 28/14",
+    "description": "••••que responden a accidentes o a emergencias, p. ej. deceleración, inclinación del vehículo [2006.01]"
+  },
+  {
+    "code": "B60K 28/16",
+    "description": "••••que responden o previenen el derrape o patinado de las ruedas (sistemas de control del frenado para la estabilidad del vehículo B60T 8/1755; dispositivos que regulan la fuerza de frenado sobre la rueda según una condición de velocidad B60T 8/32; control de la estabilidad del vehículo por otros medios distintos al control de la unidad propulsora únicamente B60W 30/02; prevención del patinado reduciendo la fuerza motriz en vehículos de raíl B61C 15/12) [2006.01]"
+  },
+  {
+    "code": "B60K 31/00",
+    "description": "Accesorios actuantes únicamente sobre una sola subunidad, para el control automático de la velocidad, p.ej. prevenir que la velocidad sobrepase un valor determinado o mantener una velocidad particular, seleccionada por el conductor del vehículo (accesorios actuantes sobre dos o más subunidades B60W 30/14; control del conjunto de propulsión en sí ver las clases o subclases apropiadas, p. ej. F02D; indicadores de velocidad G01P; sistemas o dispositivos para controlar la velocidad en general G05D 13/00) [2006.01]"
+  },
+  {
+    "code": "B60K 31/02",
+    "description": "••que comprenden un servomecanismo accionado eléctricamente [2006.01]"
+  },
+  {
+    "code": "B60K 31/04",
+    "description": "••••y medios para comparar una variable eléctrica, p. ej. voltaje, impulso, forma de onda, flujo o similar con otra variable de la misma clase, los medios de comparación desarrollan una señal eléctrica con la que se alimentan los medios de control [2006.01]"
+  },
+  {
+    "code": "B60K 31/06",
+    "description": "••que comprenden un servomecanismo accionado por presión de fluido [2006.01]"
+  },
+  {
+    "code": "B60K 31/08",
+    "description": "••••y uno o más componentes eléctricos para establecer o regular la presión de entrada [2006.01]"
+  },
+  {
+    "code": "B60K 31/10",
+    "description": "••••y medios para comparar una variable eléctrica, p. ej. voltaje, impulso, forma de onda, flujo o similar con otra variable de la misma clase, los medios de comparación desarrollan una presión con la que se alimentan los medios de control [2006.01]"
+  },
+  {
+    "code": "B60K 31/12",
+    "description": "••que comprenden un dispositivo sensible a la fuerza centrífuga [2006.01]"
+  },
+  {
+    "code": "B60K 31/14",
+    "description": "••••que comprenden un interruptor eléctrico accionado por fuerza centrífuga [2006.01]"
+  },
+  {
+    "code": "B60K 31/16",
+    "description": "••que comprenden un medio para impedir la utilización o ajuste no autorizado de los medios de control [2006.01]"
+  },
+  {
+    "code": "B60K 31/18",
+    "description": "••que comprenden un medio para señalar de forma audible, visible o de otra manera una velocidad no usual o no deseada [2006.01]"
+  },
+  {
+    "code": "B60K 35/00",
+    "description": "Disposiciones o adaptaciones de los instrumentos (dispositivos en tablero de a bordo B60K 37/02) [2006.01]"
+  },
+  {
+    "code": "B60K 37/00",
+    "description": "Tableros de a bordo (como subconjunto de la caja de los vehículos de carretera B62D) [2006.01]"
+  },
+  {
+    "code": "B60K 37/02",
+    "description": "••Disposición de los instrumentos (dispositivos para iluminación de los tableros de a bordo B60Q 3/10) [2006.01]"
+  },
+  {
+    "code": "B60K 37/04",
+    "description": "••Disposición de los accesorios sobre el tablero de a bordo (de instrumentos B60K 37/02) [2006.01]"
+  },
+  {
+    "code": "B60K 37/06",
+    "description": "••••de controles, p. ej. botones de control [2006.01]"
+  }
+]

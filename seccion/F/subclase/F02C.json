@@ -1,0 +1,462 @@
+[
+  {
+    "code": "F02C 1/00",
+    "description": "Plantas motrices de turbinas de gas caracterizadas por la utilización de gases calientes o gases presurizados no calentados, como fluido energético (caracterizadas por la utilización de productos de combustión F02C 3/00, F02C 5/00) [2006.01]"
+  },
+  {
+    "code": "F02C 1/02",
+    "description": "••siendo el fluido energético un gas presurizado no calentado [2006.01]"
+  },
+  {
+    "code": "F02C 1/04",
+    "description": "••siendo el fluido energético calentado indirectamente [2006.01]"
+  },
+  {
+    "code": "F02C 1/05",
+    "description": "••••caracterizado por el tipo de fuente de calor, p. ej. usando energía nuclear o solar [2006.01]"
+  },
+  {
+    "code": "F02C 1/06",
+    "description": "••••••utilizando gases de escape recalentados (F02C 1/08 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F02C 1/08",
+    "description": "••••Ciclos semicerrados [2006.01]"
+  },
+  {
+    "code": "F02C 1/10",
+    "description": "••••Ciclos cerrados [2006.01]"
+  },
+  {
+    "code": "F02C 3/00",
+    "description": "Plantas motrices de turbinas de gas caracterizadas por la utilización de productos de combustión como fluido energético (generado por combustión intermitente F02C 5/00) [2006.01]"
+  },
+  {
+    "code": "F02C 3/02",
+    "description": "••que utilizan la presión del gas de escape en un cambiador de presión para comprimir el aire de la combustión (cambiadores de presión en sí\n\t\t\t\t\t\t\t\t\t\tF04F 13/00) [2006.01]"
+  },
+  {
+    "code": "F02C 3/04",
+    "description": "••con una turbina que acciona un compresor (transmisiones de potencia F02C 7/36; control del flujo del fluido energético F02C 9/16) [2006.01]"
+  },
+  {
+    "code": "F02C 3/045",
+    "description": "••••teniendo la turbina y el compresor pasajes en un único rotor (F02C 3/073 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F02C 3/05",
+    "description": "••••••siendo el compresor y turbina del tipo de flujo radial [2006.01]"
+  },
+  {
+    "code": "F02C 3/055",
+    "description": "••••siendo el compresor del tipo de desplazamiento positivo [2006.01]"
+  },
+  {
+    "code": "F02C 3/06",
+    "description": "••••comprimiendo el compresor solamente en la fase axial (F02C 3/10 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F02C 3/067",
+    "description": "••••••teniendo rotores de giros contrarios (F02C 3/073 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F02C 3/073",
+    "description": "••••••siendo las fases del compresor y la turbina concéntricas [2006.01]"
+  },
+  {
+    "code": "F02C 3/08",
+    "description": "••••comprimiendo el compresor al menos una fase radial (F02C 3/10 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F02C 3/09",
+    "description": "••••••del tipo centrípeta [2006.01]"
+  },
+  {
+    "code": "F02C 3/10",
+    "description": "••••con otra turbina accionando un árbol de salida pero sin accionar el compresor [2006.01]"
+  },
+  {
+    "code": "F02C 3/107",
+    "description": "••••con varios rotores conectados por transmisión de potencia [2006.01]"
+  },
+  {
+    "code": "F02C 3/113",
+    "description": "••••••con transmisiones de potencia variables entre los rotores [2006.01]"
+  },
+  {
+    "code": "F02C 3/13",
+    "description": "••••con interconexiones variables del fluido energético entre turbinas o compresores o entre las fases de distintos rotores [2006.01]"
+  },
+  {
+    "code": "F02C 3/14",
+    "description": "••caracterizadas por la disposición de la cámara de combustión en la planta (cámaras de combustión en sí\n\t\t\t\t\t\t\t\t\t\tF23R) [2006.01]"
+  },
+  {
+    "code": "F02C 3/16",
+    "description": "••••estando formadas las cámaras de combustión al menos parcialmente en el rotor de la turbina [2006.01]"
+  },
+  {
+    "code": "F02C 3/20",
+    "description": "••que utilizan un combustible especial, oxidante, o fluido en dilución para generar los productos de combustión [2006.01]"
+  },
+  {
+    "code": "F02C 3/22",
+    "description": "••••siendo el combustible o el oxidante gaseoso a temperatura y presión normales (F02C 3/28 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F02C 3/24",
+    "description": "••••siendo el combustible o el oxidante líquido a temperatura y presión normales [2006.01]"
+  },
+  {
+    "code": "F02C 3/26",
+    "description": "••••siendo el combustible o el oxidante sólidos o pulverulentos, p. ej. en forma pastosa o en suspensión [2006.01]"
+  },
+  {
+    "code": "F02C 3/28",
+    "description": "••••••utilizando un productor de gas separado para gasificación del combustible antes de la combustión [2006.01]"
+  },
+  {
+    "code": "F02C 3/30",
+    "description": "••••Añadiendo agua, vapor u otros fluidos a los combustibles o al fluido energético antes de la descarga desde la turbina (calentamiento o tomas de aire para prevenir la formación de hielo F02C 7/047) [2006.01]"
+  },
+  {
+    "code": "F02C 3/32",
+    "description": "••Que introducen corrientes de aire mediante chorros de fluidos, p. ej. por acción de un eyector [2006.01]"
+  },
+  {
+    "code": "F02C 3/34",
+    "description": "••con reciclaje de parte del fluido energético, es decir, circuitos semicerrados con productos de combustión en la parte cerrada del circuito [2006.01]"
+  },
+  {
+    "code": "F02C 3/36",
+    "description": "••Circuitos abiertos [2006.01]"
+  },
+  {
+    "code": "F02C 5/00",
+    "description": "Plantas motrices de turbina de gas caracterizadas por un fluido energético producido en una combustión intermitente [2006.01]"
+  },
+  {
+    "code": "F02C 5/02",
+    "description": "••caracterizadas por la disposición de las cámaras de combustión en la planta motriz o instalación (cámaras de combustión en sí\n\t\t\t\t\t\t\t\t\t\tF23R) [2006.01]"
+  },
+  {
+    "code": "F02C 5/04",
+    "description": "••••estando las cámaras de combustión formadas al menos parcialmente en el rotor de la turbina [2006.01]"
+  },
+  {
+    "code": "F02C 5/06",
+    "description": "••siendo el fluido energético generado en un generador de gas de combustión interna del tipo de desplazamiento positivo que no tenga prácticamente ninguna salida de potencia mecánica (motores de combustión interna con expansión prolongada que utilizan turbina de gases de escape F02B) [2006.01]"
+  },
+  {
+    "code": "F02C 5/08",
+    "description": "••••siendo el generador de gas del tipo de pistón libre [2006.01]"
+  },
+  {
+    "code": "F02C 5/10",
+    "description": "••el fluido de trabajo forma una columna de gas resonante u oscilante, es decir, las cámaras de combustión no retienen válvulas accionadas directamente, p. ej. utilizando el efecto Helmholtz [2006.01]"
+  },
+  {
+    "code": "F02C 5/11",
+    "description": "••••utilizando cámaras de combustión sin válvulas [2006.01]"
+  },
+  {
+    "code": "F02C 5/12",
+    "description": "••disponiendo las cámaras de combustión de válvulas de entrada o salida, p. ej. plantas motrices de turbina de gas Holzwarth [2006.01]"
+  },
+  {
+    "code": "F02C 6/00",
+    "description": "Plantas motrices de turbinas de gas múltiples; Combinaciones de plantas motrices de turbinas de gas con otros aparatos (predominando los aspectos concernientes a tales aparatos, ver las clases apropiadas para los aparatos); Adaptaciones de plantas de turbina de gas para usos especiales [2006.01]"
+  },
+  {
+    "code": "F02C 6/02",
+    "description": "••Plantas motrices de turbinas de gas múltiples que tienen una potencia común de salida [2006.01]"
+  },
+  {
+    "code": "F02C 6/04",
+    "description": "••Plantas motrices de turbinas de gas provistas de fluido energético calentado o presurizado por otros aparatos, p. ej. sin potencia mecánica de salida (F02C 6/18 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F02C 6/06",
+    "description": "••••provistas de gas comprimido (F02C 6/10 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F02C 6/08",
+    "description": "••••••siendo el gas extraído desde el compresor de la turbina de gas [2006.01]"
+  },
+  {
+    "code": "F02C 6/10",
+    "description": "••••alimentación de fluido energético para un empleo, p. ej. un proceso químico, el cual devuelve el fluido energético a la turbina [2006.01]"
+  },
+  {
+    "code": "F02C 6/12",
+    "description": "••••••Turbocompresores, es decir, plantas que aumentan la potencia mecánica de salida de los pistones de los motores de combustión interna incrementando la presión de carga [2006.01]"
+  },
+  {
+    "code": "F02C 6/14",
+    "description": "••Plantas motrices de turbinas de gas que tienen medios para almacenar energía, p. ej. para emplearla en cargas de punta [2006.01]"
+  },
+  {
+    "code": "F02C 6/16",
+    "description": "••••para almacenar aire comprimido [2006.01]"
+  },
+  {
+    "code": "F02C 6/18",
+    "description": "••Utilización del calor perdido de las plantas motrices de turbinas de gas fuera de las plantas mismas, p. ej. potencia de las turbinas de gas para calentar plantas (utilización del calor perdido como fuente de energía para refrigeración de plantas F25B 27/02) [2006.01]"
+  },
+  {
+    "code": "F02C 6/20",
+    "description": "••Adaptaciones de plantas motrices de turbinas de gas para accionar vehículos [2006.01]"
+  },
+  {
+    "code": "F02C 7/00",
+    "description": "Características, partes constitutivas, detalles o accesorios, no cubiertos por, o con un interés distinto que, los grupos F02C 1/00-F02C 6/00; Tomas de aire para plantas motrices de propulsión a reacción (control F02C 9/00) [2006.01]"
+  },
+  {
+    "code": "F02C 7/04",
+    "description": "••Tomas de aire para plantas motrices de turbinas de gas o plantas de propulsión a reacción [2006.01]"
+  },
+  {
+    "code": "F02C 7/042",
+    "description": "••••que tienen una forma variable [2006.01]"
+  },
+  {
+    "code": "F02C 7/045",
+    "description": "••••que están provistas para eliminar el ruido [2006.01]"
+  },
+  {
+    "code": "F02C 7/047",
+    "description": "••••Calentamiento o prevención de hielo [2006.01]"
+  },
+  {
+    "code": "F02C 7/05",
+    "description": "••••que están previstas para evitar que penetren objetos dañinos o partículas [2006.01]"
+  },
+  {
+    "code": "F02C 7/052",
+    "description": "••••••con dispositivos de separación de polvo [2006.01]"
+  },
+  {
+    "code": "F02C 7/055",
+    "description": "••••••con rejillas de admisión, filtros o protectores [2006.01]"
+  },
+  {
+    "code": "F02C 7/057",
+    "description": "••••Control o regulación (conjuntamente con el control de alimentación de combustible F02C 9/50, con el control en el área de la tobera F02K 1/16) [2006.01]"
+  },
+  {
+    "code": "F02C 7/06",
+    "description": "••Disposición de cojinetes (cojinetes F16C); Lubricación (de motores en general F01M) [2006.01]"
+  },
+  {
+    "code": "F02C 7/08",
+    "description": "••Calentamiento del aire de alimentación antes de la combustión, p. ej. por los gases de escape [2006.01]"
+  },
+  {
+    "code": "F02C 7/10",
+    "description": "••••por medio de cambiadores de calor de recuperación [2006.01]"
+  },
+  {
+    "code": "F02C 7/105",
+    "description": "••••••de tipo rotativo (cambiadores de calor rotativos en sí\n\t\t\t\t\t\t\t\t\t\t\t\tF28D) [2006.01]"
+  },
+  {
+    "code": "F02C 7/12",
+    "description": "••Refrigeración de plantas motrices (de partes constitutivas en sí, ver las clases correspondientes, p. ej. F01D; refrigeración de motores en general F01P) [2006.01]"
+  },
+  {
+    "code": "F02C 7/14",
+    "description": "••••de fluidos en las plantas motrices [2006.01]"
+  },
+  {
+    "code": "F02C 7/141",
+    "description": "••••••del fluido energético (F02C 3/30 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F02C 7/143",
+    "description": "••••••••antes o entre las etapas del compresor [2006.01]"
+  },
+  {
+    "code": "F02C 7/16",
+    "description": "••••caracterizada por el agente refrigerante [2006.01]"
+  },
+  {
+    "code": "F02C 7/18",
+    "description": "••••••siendo el agente refrigerante gaseoso, p. ej. aire [2006.01]"
+  },
+  {
+    "code": "F02C 7/20",
+    "description": "••Montaje o soporte de la planta; Disposición que permite la dilatación calorífica o el desplazamiento [2006.01]"
+  },
+  {
+    "code": "F02C 7/22",
+    "description": "••Sistemas de alimentación del combustible [2006.01]"
+  },
+  {
+    "code": "F02C 7/224",
+    "description": "••••Calentamiento del combustible antes de su entrada al quemador [2006.01]"
+  },
+  {
+    "code": "F02C 7/228",
+    "description": "••••Repartición del combustible entre varios quemadores [2006.01]"
+  },
+  {
+    "code": "F02C 7/232",
+    "description": "••••Válvulas del combustible; Válvulas o sistemas de drenaje (válvulas en general F16K) [2006.01]"
+  },
+  {
+    "code": "F02C 7/236",
+    "description": "••••Sistemas de suministro de combustible que comprende dos o más bombas [2006.01]"
+  },
+  {
+    "code": "F02C 7/24",
+    "description": "••Aislamiento del calor o del ruido (tomas de aire que están provistas para eliminar el ruido F02C 7/045; amortiguadores de escape de las turbinas, cámaras o similares F01D 25/30; toberas silenciadoras de plantas de propulsión a reacción F02K 1/00) [2006.01]"
+  },
+  {
+    "code": "F02C 7/25",
+    "description": "••••Prevención o protección contra incendios (en general A62) [2006.01]"
+  },
+  {
+    "code": "F02C 7/26",
+    "description": "••Arranque; Encendido [2006.01]"
+  },
+  {
+    "code": "F02C 7/262",
+    "description": "••••Puesta en marcha después de haberse apagado [2006.01]"
+  },
+  {
+    "code": "F02C 7/264",
+    "description": "••••Encendido [2006.01]"
+  },
+  {
+    "code": "F02C 7/266",
+    "description": "••••••eléctrico (bujías de encendido H01T) [2006.01]"
+  },
+  {
+    "code": "F02C 7/268",
+    "description": "••••Accionamientos de arranque para el rotor [2006.01]"
+  },
+  {
+    "code": "F02C 7/27",
+    "description": "••••••por fluido (arrancadores de turbina F02C 7/277) [2006.01]"
+  },
+  {
+    "code": "F02C 7/272",
+    "description": "••••••••producido por cartuchos [2006.01]"
+  },
+  {
+    "code": "F02C 7/275",
+    "description": "••••••mecánicos [2006.01]"
+  },
+  {
+    "code": "F02C 7/277",
+    "description": "••••••••siendo el arrancador una turbina [2006.01]"
+  },
+  {
+    "code": "F02C 7/28",
+    "description": "••Disposición de las juntas [2006.01]"
+  },
+  {
+    "code": "F02C 7/30",
+    "description": "••Prevención de la corrosión en los espacios barridos por los gases [2006.01]"
+  },
+  {
+    "code": "F02C 7/32",
+    "description": "••Disposición, montaje, o accionamiento de dispositivos auxiliares [2006.01]"
+  },
+  {
+    "code": "F02C 7/36",
+    "description": "••Transmisión de potencia entre los diferentes ejes principales de la planta motriz de turbina de gas, o entre la planta motriz de turbina de gas y el utilizador de la potencia (F02C 7/32 tiene prioridad; acoplamientos en general F16D; transmisiones en general F16H) [2006.01]"
+  },
+  {
+    "code": "F02C 9/00",
+    "description": "Control de las plantas motrices de turbinas de gas; Control de la alimentación de combustible en las plantas de propulsión a reacción que consumen aire (control de las tomas de aire F02C 7/057; control de turbinas F01D; control de compresores F04D 27/00) [2006.01]"
+  },
+  {
+    "code": "F02C 9/16",
+    "description": "••Control del flujo del fluido energético (F02C 9/48 tiene prioridad; control del flujo de la toma de aire F02C 7/057) [2006.01]"
+  },
+  {
+    "code": "F02C 9/18",
+    "description": "••••por extracción, por derivación o actuando sobre las interconexiones variables del fluido energético entre turbinas o compresores o entre sus fases [2006.01]"
+  },
+  {
+    "code": "F02C 9/20",
+    "description": "••••por estrangulamiento; regulando los álabes o paletas [2006.01]"
+  },
+  {
+    "code": "F02C 9/22",
+    "description": "••••••regulando los álabes o paletas de la turbina [2006.01]"
+  },
+  {
+    "code": "F02C 9/24",
+    "description": "••••Control del nivel de presión en circuitos cerrados [2006.01]"
+  },
+  {
+    "code": "F02C 9/26",
+    "description": "••Control de la alimentación de combustible (F02C 9/48 tiene prioridad; válvulas de combustible F02C 7/232) [2006.01]"
+  },
+  {
+    "code": "F02C 9/28",
+    "description": "••••Sistemas de regulación que responden a parámetros establecidos o de ambiente, p. ej. temperatura, presión, velocidad del rotor (F02C 9/30-F02C 9/38, F02C 9/44 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "F02C 9/30",
+    "description": "••••caracterizado por tener la bomba una salida de combustible variable [2006.01]"
+  },
+  {
+    "code": "F02C 9/32",
+    "description": "••••caracterizado por el estrangulamiento del combustible (F02C 9/38 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F02C 9/34",
+    "description": "••••••Control conjunto de flujos separados para el quemado principal y los auxiliares [2006.01]"
+  },
+  {
+    "code": "F02C 9/36",
+    "description": "••••caracterizado por el retorno del combustible al colector (F02C 9/38 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F02C 9/38",
+    "description": "••••caracterizado por el estrangulamiento y retorno del combustible al colector [2006.01]"
+  },
+  {
+    "code": "F02C 9/40",
+    "description": "••••especialmente adaptado a la utilización de un combustible especial o de una variedad de combustibles [2006.01]"
+  },
+  {
+    "code": "F02C 9/42",
+    "description": "••••especialmente adaptado al control de dos o más plantas simultáneamente [2006.01]"
+  },
+  {
+    "code": "F02C 9/44",
+    "description": "••••que responde a la velocidad de la aeronave, p. ej. control del número de Mach, optimización del consumo de combustible [2006.01]"
+  },
+  {
+    "code": "F02C 9/46",
+    "description": "••••Control de seguridad de la alimentación de combustible [2006.01]"
+  },
+  {
+    "code": "F02C 9/48",
+    "description": "••Control de la alimentación de combustible conjuntamente con otro control de la planta (con control de la sección de las toberas F02K 1/17) [2006.01]"
+  },
+  {
+    "code": "F02C 9/50",
+    "description": "••••con control del flujo del fluido energético [2006.01]"
+  },
+  {
+    "code": "F02C 9/52",
+    "description": "••••••por extracción o derivación del fluido energético [2006.01]"
+  },
+  {
+    "code": "F02C 9/54",
+    "description": "••••••por estrangulamiento del fluido energético, regulando las paletas o álabes [2006.01]"
+  },
+  {
+    "code": "F02C 9/56",
+    "description": "••••con control de la transmisión de potencia [2006.01]"
+  },
+  {
+    "code": "F02C 9/58",
+    "description": "••••••con control de un propulsor de paso variable [2006.01]"
+  }
+]

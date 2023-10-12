@@ -1,0 +1,642 @@
+[
+  {
+    "code": "A63F 1/00",
+    "description": "Juegos de cartas (aspectos de juegos que utilizan una presentación en varias dimensiones generada electronicamente que muestra representaciones relativas al juego A63F 13/00) [2006.01]"
+  },
+  {
+    "code": "A63F 1/02",
+    "description": "••Cartas para jugar; Formas especiales de las cartas (métodos de impresión B41K, B41M) [2006.01]"
+  },
+  {
+    "code": "A63F 1/04",
+    "description": "••Juegos de cartas combinados con otros juegos [2006.01]"
+  },
+  {
+    "code": "A63F 1/06",
+    "description": "••Accesorios para juegos de cartas [2006.01]"
+  },
+  {
+    "code": "A63F 1/08",
+    "description": "••••Prensas para cartas [2006.01]"
+  },
+  {
+    "code": "A63F 1/10",
+    "description": "••••Aparatos para sujetar las cartas [2006.01]"
+  },
+  {
+    "code": "A63F 1/12",
+    "description": "••••Barajadores de cartas [2006.01]"
+  },
+  {
+    "code": "A63F 1/14",
+    "description": "••••Distribuidores de cartas [2006.01]"
+  },
+  {
+    "code": "A63F 1/16",
+    "description": "••••Aparatos para indicar la persona que da [2006.01]"
+  },
+  {
+    "code": "A63F 1/18",
+    "description": "••••dispositivos marcadores o de registro; Indicadores (A63F 1/16  tiene prioridad; controladores de tiempo G07C) [2006.01]"
+  },
+  {
+    "code": "A63F 3/00",
+    "description": "Juegos de mesa; Juegos de azar (carreras, juegos de circulación o juegos de obstáculos caracterizados porque las piezas son movidas por los jugadores A63F 9/14; aspectos de juegos que utilizan una presentación en varias dimensiones generada electronicamente que muestra representaciones relativas al juego A63F 13/00) [2006.01]"
+  },
+  {
+    "code": "A63F 3/02",
+    "description": "••Ajedrez; Juegos similares sobre tablero [2006.01]"
+  },
+  {
+    "code": "A63F 3/04",
+    "description": "••Juegos geográficos o análogos [2006.01]"
+  },
+  {
+    "code": "A63F 3/06",
+    "description": "••Lotería o juegos de bingo; Sistemas, aparatos o dispositivos para su verificación [2006.01]"
+  },
+  {
+    "code": "A63F 3/08",
+    "description": "••Juegos de azar para gran número de personas [2006.01]"
+  },
+  {
+    "code": "A63F 5/00",
+    "description": "Juegos de ruleta (aspectos de juegos que utilizan una presentación en varias dimensiones generada electronicamente que muestra representaciones relativas al juego A63F 13/00) [2006.01]"
+  },
+  {
+    "code": "A63F 5/02",
+    "description": "••Juegos de bolitas análogos a la ruleta [2006.01]"
+  },
+  {
+    "code": "A63F 5/04",
+    "description": "••Ruletas con disco; Ruletas con indicador; Peonzas; Peonzas marcadas como los dados [2006.01]"
+  },
+  {
+    "code": "A63F 7/00",
+    "description": "Juegos de interior que utilizan pequeños elementos de juego móviles, p. ej. bolas, discos o cubos (juegos que implican una mesa A63F 3/00; juegos de ruleta A63F 5/00; aspectos de juegos que utilizan una presentación en varias dimensiones generada electronicamente que muestra representaciones relativas al juego A63F 13/00; boleras miniaturas A63D 3/00; billar inglés o juegos análogos A63D 13/00; billar, billar de bolsillo A63D 15/00) [2006.01]"
+  },
+  {
+    "code": "A63F 7/02",
+    "description": "••que utilizan elementos de juego que se abaten o elementos de juego rodantes sobre una superficie inclinada, p. ej. \"pin-ball\" [2006.01]"
+  },
+  {
+    "code": "A63F 7/04",
+    "description": "••que utilizan bolas sacudidas o que ruedan en pequeñas cajas [2006.01]"
+  },
+  {
+    "code": "A63F 7/06",
+    "description": "••Juegos que simulan juegos de pelota al aire, p. ej. el hockey (para ejercicio físico del cuerpo A63B 67/00) [2006.01]"
+  },
+  {
+    "code": "A63F 7/07",
+    "description": "••••en los que los elementos de juego están continuamente en contacto con la superficie del juego o sostenidos por ella, p. ej. sostenidos por un colchón de aire [2006.01]"
+  },
+  {
+    "code": "A63F 7/20",
+    "description": "••••en los que los elementos de juego son proyectados en el aire [2006.01]"
+  },
+  {
+    "code": "A63F 7/22",
+    "description": "••Accesorios; Detalles [2006.01]"
+  },
+  {
+    "code": "A63F 7/24",
+    "description": "••••Dispositivos controlados por el jugador que permiten proyectar o hacer rodar los elementos de juego (disposición de estos dispositivos en los juegos de bolas de mesas, en las boleras miniaturas o juegos de bolas A63D 3/02; en billar inglés o billares A63D 13/00, A63D 15/00) [2006.01]"
+  },
+  {
+    "code": "A63F 7/26",
+    "description": "••••••eléctricos o magnéticos [2006.01]"
+  },
+  {
+    "code": "A63F 7/28",
+    "description": "••••••que utilizan la gravedad [2006.01]"
+  },
+  {
+    "code": "A63F 7/30",
+    "description": "••••Obstáculos; Blancos; Dispositivos para indicar el tanteo o recibir el elemento de juego; Contactores accionados por el elemento de juego, p. ej. interruptores; Indicadores de inclinación [2006.01]"
+  },
+  {
+    "code": "A63F 7/32",
+    "description": "••••••Aparatos destinados a cambiar los valores de los tanteos [2006.01]"
+  },
+  {
+    "code": "A63F 7/34",
+    "description": "••••Otros dispositivos para manipular los elementos de juego, p. ej. medios para devolver al juego las bolas de bonificación [2006.01]"
+  },
+  {
+    "code": "A63F 7/36",
+    "description": "••••Detalles constructivos no cubiertos por los grupos A63F 7/24-A63F 7/34, p. ej. armaduras, tableros de juego, pistas de guía [2006.01]"
+  },
+  {
+    "code": "A63F 7/38",
+    "description": "••••••Superficies de juego desplazables en el curso de la partida [2006.01]"
+  },
+  {
+    "code": "A63F 7/40",
+    "description": "••••••Bolas u otros elementos de juego móviles, p. ej. bolas de billar, discos [2006.01]"
+  },
+  {
+    "code": "A63F 9/00",
+    "description": "Juegos no previstos en otro lugar (aspectos de juegos que utilizan una presentación en varias dimensiones generada electronicamente que muestra representaciones relativas al juego A63F 13/00) [2006.01]"
+  },
+  {
+    "code": "A63F 9/02",
+    "description": "••Juegos de tiro o de lanzamiento (objetos para lanzar para el deporte o el ocio A63B 65/00; juguetes para arrojar o lanzar en sí\n\t\t\t\t\t\t\t\t\t\tA63H 33/18; blancos, campos de tiro, colectores de pelotas F41J) [2006.01]"
+  },
+  {
+    "code": "A63F 9/04",
+    "description": "••Dados (dados-peonza A63F 5/04); Cajas para dados; Dispositivos mecánicos para el lanzamiento de dados [2006.01]"
+  },
+  {
+    "code": "A63F 9/06",
+    "description": "••Solitarios; Otros juegos jugados por una persona sola (juegos de bolitas que han de ser llevadas rodando hasta unos pequeños recipientes A63F 7/04) [2006.01]"
+  },
+  {
+    "code": "A63F 9/08",
+    "description": "••••Rompecabezas dotados de elementos móviles relacionados entre sí [2006.01]"
+  },
+  {
+    "code": "A63F 9/10",
+    "description": "••••Rompecabezas de dos dimensiones [2006.01]"
+  },
+  {
+    "code": "A63F 9/12",
+    "description": "••••Rompecabezas de tres dimensiones [2006.01]"
+  },
+  {
+    "code": "A63F 9/14",
+    "description": "••Juegos de carreras, juegos de circulación o juegos de obstáculos caracterizados por piezas movidas por los jugadores (juegos que utilizan fichas A63F 3/00) [2006.01]"
+  },
+  {
+    "code": "A63F 9/16",
+    "description": "••Juegos de trompos [2006.01]"
+  },
+  {
+    "code": "A63F 9/18",
+    "description": "••Juegos de preguntas y respuestas [2006.01]"
+  },
+  {
+    "code": "A63F 9/20",
+    "description": "••Dominó o juegos análogos; Mah-jong [2006.01]"
+  },
+  {
+    "code": "A63F 9/24",
+    "description": "••Juegos que utilizan circuitos electrónicos, no previstos en otro lugar [2006.01]"
+  },
+  {
+    "code": "A63F 9/26",
+    "description": "••Juegos de equilibrio, es decir, pensados para poner los elmentos en o fuera de equilibrio [2006.01]"
+  },
+  {
+    "code": "A63F 9/28",
+    "description": "••Juegos de reacción en cadena con piezas que se derriban; Distribuidores o dispositivos de posicionamiento a tal efecto [2006.01]"
+  },
+  {
+    "code": "A63F 9/30",
+    "description": "••Juegos de captura por enganche o atrape de objetos, p. ej. juegos de pesca [2006.01]"
+  },
+  {
+    "code": "A63F 9/32",
+    "description": "••Juegos que comprenden un conjunto de palos, p. ej. mikado® (A63F 9/30  tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "A63F 9/34",
+    "description": "••Juegos que utilizan piezas movidas o sujetadas magnéticamente no previstos en otros subgrupos del grupo A63F 9/00 [2006.01]"
+  },
+  {
+    "code": "A63F 11/00",
+    "description": "Accesorios de juego de uso general [2006.01]"
+  },
+  {
+    "code": "A63F 13/00",
+    "description": "Videojuegos, p. ej. juegos que utilizan una presentación generada electronicamente en dos o más dimensiones [2014.01]"
+  },
+  {
+    "code": "A63F 13/20",
+    "description": "••Disposiciones de entrada para dispositivos de videojuegos [2014.01]"
+  },
+  {
+    "code": "A63F 13/21",
+    "description": "••••caracterizado por sus sensores, objetivos o tipos [2014.01]"
+  },
+  {
+    "code": "A63F 13/211",
+    "description": "••••••utilizando sensores internos, p. ej. acelerómetros o giroscopios [2014.01]"
+  },
+  {
+    "code": "A63F 13/212",
+    "description": "••••••utilizando sensores colocados sobre el jugador, p. ej. para medir los latidos o la actividad de las piernas [2014.01]"
+  },
+  {
+    "code": "A63F 13/213",
+    "description": "••••••comprendiendo medios de fotodetección, p.ej. cámaras, fotodiodos o células infrarrojas (A63F 13/219, A63F 13/655  tiene prioridad) [2014.01]"
+  },
+  {
+    "code": "A63F 13/214",
+    "description": "••••••para localización de contactos en una superficie, p.ej. alfombrillas para el suelo o superficies táctiles [2014.01]"
+  },
+  {
+    "code": "A63F 13/2145",
+    "description": "••••••••siendo la superficie también un dispositivo de pantalla, p.ej. pantallas táctiles [2014.01]"
+  },
+  {
+    "code": "A63F 13/215",
+    "description": "••••••comprendiendo medios para la detección de señales acústicas, p.ej. utilizando un micrófono [2014.01]"
+  },
+  {
+    "code": "A63F 13/216",
+    "description": "••••••utilizando información geográfica, p.ej. localización del dispositivo de juego o del jugador mediante GPS [2014.01]"
+  },
+  {
+    "code": "A63F 13/217",
+    "description": "••••••utilizando información relativa al ambiente, es decir, información no generada por el jugador, p. ej. temperatura o humedad ambiente [2014.01]"
+  },
+  {
+    "code": "A63F 13/218",
+    "description": "••••••utilizando sensores de presión, p.ej. generando una señal proporcional a la presión aplicada por el jugador [2014.01]"
+  },
+  {
+    "code": "A63F 13/219",
+    "description": "••••••para apuntar a áreas específicas en el monitor, p. ej. pistolas de luz [2014.01]"
+  },
+  {
+    "code": "A63F 13/22",
+    "description": "••••Operaciones de puesta en marcha, p.ej. calibración, configuración de teclas o asignación de botones [2014.01]"
+  },
+  {
+    "code": "A63F 13/23",
+    "description": "••••para interactuar con el dispositivo de juego, p.ej. interfaces específicas entre el controlador del juego y la consola [2014.01]"
+  },
+  {
+    "code": "A63F 13/235",
+    "description": "••••••utilizando una conexión sin cable, p.ej. por infrarrojos o piconet [2014.01]"
+  },
+  {
+    "code": "A63F 13/24",
+    "description": "••••Detalles constructivos, p.ej. controladores del juego con joystick desmontables [2014.01]"
+  },
+  {
+    "code": "A63F 13/245",
+    "description": "••••••especialmente adaptados a un tipo particular de juego, p.ej. volantes [2014.01]"
+  },
+  {
+    "code": "A63F 13/25",
+    "description": "••Disposiciones de salida para dispositivos de videojuegos [2014.01]"
+  },
+  {
+    "code": "A63F 13/26",
+    "description": "••••teniendo al menos un dispositivo de display adicional, p.ej. en el controlador del juego o fuera de la cabina de juego [2014.01]"
+  },
+  {
+    "code": "A63F 13/27",
+    "description": "••••caracterizado por disponer de un gran display en un recinto público, p.ej. en un teatro, estadio o campo [2014.01]"
+  },
+  {
+    "code": "A63F 13/28",
+    "description": "••••respondiendo a señales de control recibidas del dispositivo de juego para afectar a las condiciones ambientales, p.ej. para asientos vibradores, activar dispensadores de aromas o afectar a la temperatura o a la luz (controlando las señales de salida basandose en el progreso del juego A63F 13/50) [2014.01]"
+  },
+  {
+    "code": "A63F 13/285",
+    "description": "••••••Generando señales táctiles de realimentación a través del dispositivo de entrada del juego, p.ej. de la fuerza [2014.01]"
+  },
+  {
+    "code": "A63F 13/30",
+    "description": "••Disposiciones de interconexión entre dispositivos de juego y servidores; Disposiciones de interconexión entre dispositivos de juego; Disposiciones de interconexión entre servidores [2014.01]"
+  },
+  {
+    "code": "A63F 13/31",
+    "description": "••••Aspectos de comunicación específicos de videojuegos, p.ej. entre varios dispositivos de juego manuales en un rango cercano [2014.01]"
+  },
+  {
+    "code": "A63F 13/32",
+    "description": "••••utilizando conexiones de red de area local [LAN] [2014.01]"
+  },
+  {
+    "code": "A63F 13/323",
+    "description": "••••••entre dispositivos de juego con diferentes caracteríticas de hardware, p.ej. dispositivos de juegos manuales contectables a consolas o a máquinas de salón recreativo [2014.01]"
+  },
+  {
+    "code": "A63F 13/327",
+    "description": "••••••utilizando redes inalámbricas, p.ej. Wi-Fi o piconet [2014.01]"
+  },
+  {
+    "code": "A63F 13/33",
+    "description": "••••utilizando conexiones de red de área amplia [WAN] [2014.01]"
+  },
+  {
+    "code": "A63F 13/332",
+    "description": "••••••utilizando redes inalámbricas, p.ej. redes de teléfonos móviles [2014.01]"
+  },
+  {
+    "code": "A63F 13/335",
+    "description": "••••••utilizando Internet [2014.01]"
+  },
+  {
+    "code": "A63F 13/338",
+    "description": "••••••utilizando redes de televisión [2014.01]"
+  },
+  {
+    "code": "A63F 13/34",
+    "description": "••••utililizando conexiones de pares [P2P] [2014.01]"
+  },
+  {
+    "code": "A63F 13/35",
+    "description": "••••Partes constitutuvas de servidores de juego [2014.01]"
+  },
+  {
+    "code": "A63F 13/352",
+    "description": "••••••implicando disposiciones especiales de servidores de juego, p.ej. servidores regionales conectados a un servidor nacional o una pluralidad de servidores gestionando partes del juego [2014.01]"
+  },
+  {
+    "code": "A63F 13/355",
+    "description": "••••••Realización de operaciones en representación de clientes con capacidades de procesamiento limitadas, p.ej. cambio del la escena de juego em una cadena MPEG por transmisión a un teléfono móvil o un thin client [2014.01]"
+  },
+  {
+    "code": "A63F 13/358",
+    "description": "••••••Adaptando el curso del juego a la carga de la red o del servidor, p.ej. para la reducción de la latencia debida a las diferentes velocidades de conexión entre clientes [2014.01]"
+  },
+  {
+    "code": "A63F 13/40",
+    "description": "••Procesado las señales de control de entrada de los dispositivos de videojuego, p.ej. señales generadas por el jugador o derivadas del entorno [2014.01]"
+  },
+  {
+    "code": "A63F 13/42",
+    "description": "••••por transformación de las señales de entrada en los comandos del juego, p.ej. transformación del desplazamiento de un stylus sobre una pantalla táctil en el ángulo de giro de un vehículo virtual [2014.01]"
+  },
+  {
+    "code": "A63F 13/422",
+    "description": "••••••automáticamente con el propósito de ayudar al jugador, p.ej. frenado automático en un juego de conducción [2014.01]"
+  },
+  {
+    "code": "A63F 13/424",
+    "description": "••••••involucarndo señales acústicas de entrada, p.ej. utilizando los resultados de la extracción del tono o el ritmo o el reconocimiento de voz [2014.01]"
+  },
+  {
+    "code": "A63F 13/426",
+    "description": "••••••involucrando información de localización sobre la pantalla, p.ej. las coordenadas de pantalla del área a la que el jugador está apuntando con una pistola de luz [2014.01]"
+  },
+  {
+    "code": "A63F 13/428",
+    "description": "••••••involucrando información de movimiento o posición, p.ej. que representan señales de rotación de un controlador de entrada o de los movimientos de los brazos del jugador detectados por acelerómetros o giroscopios [2014.01]"
+  },
+  {
+    "code": "A63F 13/44",
+    "description": "••••involucrando medición del tiempo de las operaciones, p.ej. realización de una acción en un intervalo de tiempo [2014.01]"
+  },
+  {
+    "code": "A63F 13/45",
+    "description": "••Controlando el progreso del videojuego [2014.01]"
+  },
+  {
+    "code": "A63F 13/46",
+    "description": "••••Cómputo del marcador del juego [2014.01]"
+  },
+  {
+    "code": "A63F 13/47",
+    "description": "••••involucrando bifurcaciones, p.ej. elección de uno de los varios escenarios posibles en un determinado momento [2014.01]"
+  },
+  {
+    "code": "A63F 13/48",
+    "description": "••••Comienzo del juego, p.ej. activación de un dispositivo de juego o espera de otros jugadores para unirse a una sesión multijugador [2014.01]"
+  },
+  {
+    "code": "A63F 13/49",
+    "description": "••••Guardado del estado del juego; Pausado o finalizacion del juego [2014.01]"
+  },
+  {
+    "code": "A63F 13/493",
+    "description": "••••••Recuperación de un juego, p.ej. despues de una pausa, fallo de funcionamiento o fallo de alimentación [2014.01]"
+  },
+  {
+    "code": "A63F 13/497",
+    "description": "••••••Repetición total o parcial de las acciones de juego previas [2014.01]"
+  },
+  {
+    "code": "A63F 13/50",
+    "description": "••Control de la señal de salida basado en el progreso del juego [2014.01]"
+  },
+  {
+    "code": "A63F 13/52",
+    "description": "••••involucrando aspectos de la escena mostrada en pantalla [2014.01]"
+  },
+  {
+    "code": "A63F 13/525",
+    "description": "••••••Cambio de parámetros de cámaras virtuales [2014.01]"
+  },
+  {
+    "code": "A63F 13/5252",
+    "description": "••••••••utilizando dos o más cámaras virtuales de forma concurrente o secuencial, p.ej. cambiando automáticamente de cámaras virtuales fijas cuando un personaje cambia de habitación o mostrando una vista del espejo retrovisor en un juego de conducción [2014.01]"
+  },
+  {
+    "code": "A63F 13/5255",
+    "description": "••••••••de acuerdo a las instrucciones dadas por el jugador, p.ej. utilizando un joystick secundario para girar la cámara alrededor del personaje del jugador [2014.01]"
+  },
+  {
+    "code": "A63F 13/5258",
+    "description": "••••••••por adaptación dinámica de la posición de la cámara virtual para mantener el objeto o personaje en el campo de visión, p.ej. para seguir a un personaje o a una pelota [2014.01]"
+  },
+  {
+    "code": "A63F 13/53",
+    "description": "••••involucrando información visual adicional proporcionada al escenario del juego, p.ej. por composición de imágenes para simular a head-up display [HUD] o mostrando un puntero laser en los juegos de tiro [2014.01]"
+  },
+  {
+    "code": "A63F 13/533",
+    "description": "••••••para solicitar acción del jugador, p.ej. desplegando un menú de juego [2014.01]"
+  },
+  {
+    "code": "A63F 13/537",
+    "description": "••••••utilizando indicadores, p.ej. mostrando la condición de uno de los personajes del juego en pantalla [2014.01]"
+  },
+  {
+    "code": "A63F 13/5372",
+    "description": "••••••••para el rastreo de personajes, objetos o localizaciones en el escenario del juego, p.ej. mostrando un círculo debajo del personaje controlado por el jugador [2014.01]"
+  },
+  {
+    "code": "A63F 13/5375",
+    "description": "••••••••para sugerir una acción gráfica o textualmente, p.ej. mostrando una flecha indicando un giro en un juego de conducción [2014.01]"
+  },
+  {
+    "code": "A63F 13/5378",
+    "description": "••••••••para mostrar una visión desde arriba adicional, p.ej. pantallas de radar o mapas (utilizando dos o más cámaras virtuales de forma concurrente A63F 13/5252) [2014.01]"
+  },
+  {
+    "code": "A63F 13/54",
+    "description": "••••involucrando señales acústicas, p.ej. para simular un sonido de motor dependiente de las revoluciones a las que esté trabajando en un juego de conducción o reverberaciones contra una pared virtual [2014.01]"
+  },
+  {
+    "code": "A63F 13/55",
+    "description": "••Control de los personajes u objetivos del juego basándose en el progreso del mismo [2014.01]"
+  },
+  {
+    "code": "A63F 13/56",
+    "description": "••••Cálculo de los movimientos de los personajes del juego con respecto a otros personajes, objetos o elementos del escenario de juego, p.ej. para simular el comportamiento de un grupo de soldados virtuales o para rastrear [2014.01]"
+  },
+  {
+    "code": "A63F 13/57",
+    "description": "••••Simulando propiedades, comportamiento o movimiento de los objetos en el juego, p.ej. calculando la presión de los neumáticos en un juego de carreras de coches (A63F 13/56  tiene prioridad) [2014.01]"
+  },
+  {
+    "code": "A63F 13/573",
+    "description": "••••••utilizando las trayectorias de los objetos en el juego, p.ej. de una bola de golf en función del punto de impacto [2014.01]"
+  },
+  {
+    "code": "A63F 13/577",
+    "description": "••••••utilizando información sobre el contacto enre los personajes u objetos, p.ej. para evitar la colisión entre coches de carreras virtuales [2014.01]"
+  },
+  {
+    "code": "A63F 13/58",
+    "description": "••••por cálculo de condiciones de los personajes, p.ej. resistencia, fuerza, motivación o nivel de energía [2014.01]"
+  },
+  {
+    "code": "A63F 13/60",
+    "description": "••Generando o modificando el contenido del juego antes o durante la ejecución del programa, p.ej. autorizando herramientas especialmente adaptadas para el desarrollo del juego o editores de nivel integrados en el juego [2014.01]"
+  },
+  {
+    "code": "A63F 13/61",
+    "description": "••••utilizando información publicitaria [2014.01]"
+  },
+  {
+    "code": "A63F 13/63",
+    "description": "••••por el jugador, p.ej. autorizando la utilización de un editor de nivel [2014.01]"
+  },
+  {
+    "code": "A63F 13/65",
+    "description": "••••automáticamente por dispositivos o servidores del juego a partir de datos reales, p.ej. mediciones en competiciones de carrera reales [2014.01]"
+  },
+  {
+    "code": "A63F 13/655",
+    "description": "••••••por importación de fotos, p.ej. del jugador [2014.01]"
+  },
+  {
+    "code": "A63F 13/67",
+    "description": "••••adaptándose o aprendiendo de las acciones del jugador, p.ej. ajuste del nivel de habilidad o almacenando secuencias de combates ganados para reutilización [2014.01]"
+  },
+  {
+    "code": "A63F 13/69",
+    "description": "••••habilitando o actualizando elementos específicos del juego, p.ej. desbloquear características, artículos, niveles o versiones ocultos [2014.01]"
+  },
+  {
+    "code": "A63F 13/70",
+    "description": "••Aspectos de seguridad o gestión del juego [2014.01]"
+  },
+  {
+    "code": "A63F 13/71",
+    "description": "••••utilizando comunicación segura entre los dispositivos del juego y los servidores, p.ej. encriptando los datos del juego o autenticando a los jugadores [2014.01]"
+  },
+  {
+    "code": "A63F 13/73",
+    "description": "••••Autorización de programas o dispositivos del juego, p.ej. comprobando la autenticidad [2014.01]"
+  },
+  {
+    "code": "A63F 13/75",
+    "description": "••••Aseguramiento del cumplimiento de las normas, p.ej. detectando trampas o generando listas de jugadores que las hacen [2014.01]"
+  },
+  {
+    "code": "A63F 13/77",
+    "description": "••••involucrando datos relacionados con los dispositivos de juego o los servidores, p.ej. datos de configuración, versión de software o cantidad de memoria [2014.01]"
+  },
+  {
+    "code": "A63F 13/79",
+    "description": "••••involucrando datos relacionados con el jugador, p.ej. identidades, cuentas, preferencias o historico de juego [2014.01]"
+  },
+  {
+    "code": "A63F 13/792",
+    "description": "••••••para realizar pagos, p.ej. suscripciones mensuales [2014.01]"
+  },
+  {
+    "code": "A63F 13/795",
+    "description": "••••••para encontrar otros jugadores; para hacer un equipo; para proporcionar una lista de amigos [2014.01]"
+  },
+  {
+    "code": "A63F 13/798",
+    "description": "••••••para determinar habilidades o hacer un ranking de jugadores, p.ej. para generar una sala de la fama (calculando el marcador del juego A63F 13/46) [2014.01]"
+  },
+  {
+    "code": "A63F 13/80",
+    "description": "••Adaptapciones especiales para la ejecución de modos o tipos de juego específicos [2014.01]"
+  },
+  {
+    "code": "A63F 13/803",
+    "description": "••••Conducción de vehículos o naves, p.ej. coches, aviones, barcos, robots o tanques [2014.01]"
+  },
+  {
+    "code": "A63F 13/807",
+    "description": "••••Deslizamiento sobre superficies, p.ej. utilizando squíes, patines o tablas [2014.01]"
+  },
+  {
+    "code": "A63F 13/812",
+    "description": "••••Juegos de pelota, p.ej. fútbol o baseball [2014.01]"
+  },
+  {
+    "code": "A63F 13/814",
+    "description": "••••Actuación musical, p.ej. evaluando la habilidad del jugador para seguir una notación [2014.01]"
+  },
+  {
+    "code": "A63F 13/816",
+    "description": "••••Atletismo, p.ej. deportes de pista [2014.01]"
+  },
+  {
+    "code": "A63F 13/818",
+    "description": "••••Pesca [2014.01]"
+  },
+  {
+    "code": "A63F 13/822",
+    "description": "••••Juegos de estgrategia; Juegos de rol (A63F 13/825, A63F 13/828  tiene prioridad) [2014.01]"
+  },
+  {
+    "code": "A63F 13/825",
+    "description": "••••Acogida de personajes virtuales [2014.01]"
+  },
+  {
+    "code": "A63F 13/828",
+    "description": "••••Gestion de equipos deportivos virtuales [2014.01]"
+  },
+  {
+    "code": "A63F 13/833",
+    "description": "••••Lucha cuerpo a cuerpo, p.ej. competición de artes marciales (A63F 13/837  tiene prioridad) [2014.01]"
+  },
+  {
+    "code": "A63F 13/837",
+    "description": "••••Tiro al blanco [2014.01]"
+  },
+  {
+    "code": "A63F 13/843",
+    "description": "••••involucrando dos o más jugadores al mismo tiempo en el mismo dispositivo de juego, p.ej. requerimiento del uso de una pluralidad de controladores o de una vista específica de los datos del juego para cada jugador [2014.01]"
+  },
+  {
+    "code": "A63F 13/847",
+    "description": "••••Juego cooperativo, p.ej. que requiere acciones coordinadas de distintos jugadores para conseguir un objetivo común [2014.01]"
+  },
+  {
+    "code": "A63F 13/85",
+    "description": "••Proporcionando servicios adicionales a los jugadores [2014.01]"
+  },
+  {
+    "code": "A63F 13/86",
+    "description": "••••WVisualización de partidas jugadas por otros jugadores [2014.01]"
+  },
+  {
+    "code": "A63F 13/87",
+    "description": "••••Comunicación con otros jugadores durante el juego, p.ej. por e-mail o chat [2014.01]"
+  },
+  {
+    "code": "A63F 13/88",
+    "description": "••••Minijuegos ejecutados independientemente mientras los principales se cargan [2014.01]"
+  },
+  {
+    "code": "A63F 13/90",
+    "description": "••Detalles constructivos o disposiciones de dispositivos de videojuego no previstos en los grupos A63F 13/20  o A63F 13/25, p.ej. carcasas, cableado, conexiones o vitrinas [2014.01]"
+  },
+  {
+    "code": "A63F 13/92",
+    "description": "••••Dispositivos para videojuegos especialmente adaptados para ser sostenidos en las manos mientras se juega [2014.01]"
+  },
+  {
+    "code": "A63F 13/95",
+    "description": "••••Medios de almacenamiento especialmente adaptados para almacenar la información del juego, p.ej. cartuchos de videojuego [2014.01]"
+  },
+  {
+    "code": "A63F 13/98",
+    "description": "••••Accesorios, es decir, disposiciones desmontables opcionales para el uso de los dispositivos de videojuegos, p.ej. soportes para los controladores [2014.01]"
+  }
+]

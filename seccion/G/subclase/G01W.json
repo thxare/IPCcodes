@@ -1,0 +1,50 @@
+[
+  {
+    "code": "G01W 1/00",
+    "description": "Meteorología [2006.01]"
+  },
+  {
+    "code": "G01W 1/02",
+    "description": "••Instrumentos para indicar las condiciones atmosféricas por medida de dos o más variables, p. ej. humedad, presión, temperatura, nubosidad, velocidad del viento (G01W 1/10 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01W 1/04",
+    "description": "••••que dan solamente indicaciones separadas de las variables medidas [2006.01]"
+  },
+  {
+    "code": "G01W 1/06",
+    "description": "••••que dan la indicación de las condiciones meteorológicas por combinación de las variables medidas (catatermómetros que indican el \"poder refrigerante\" en relación, ya sea con las condiciones meteorológicas, ya sea con el ambiente de un hábitat humano G01W 1/17) [2006.01]"
+  },
+  {
+    "code": "G01W 1/08",
+    "description": "••Adaptación de globos, de cohetes, o de aeronaves con fines meteorológicos; Radiosondas [2006.01]"
+  },
+  {
+    "code": "G01W 1/10",
+    "description": "••Dispositivos para la previsión de las condiciones meteorológicas [2006.01]"
+  },
+  {
+    "code": "G01W 1/11",
+    "description": "••Dispositivos para indicar la humedad atmosférica [2006.01]"
+  },
+  {
+    "code": "G01W 1/12",
+    "description": "••Registradores de la duración de la insolación [2006.01]"
+  },
+  {
+    "code": "G01W 1/14",
+    "description": "••Pluviómetros o udómetros [2006.01]"
+  },
+  {
+    "code": "G01W 1/16",
+    "description": "••Medida del gradiente de potencial eléctrico de la atmósfera, p. ej. debido a las cargas eléctricas en las nubes [2006.01]"
+  },
+  {
+    "code": "G01W 1/17",
+    "description": "••Catatermómetros que indican \"el poder refrigerante\", en relación, ya sea con las condiciones meteorológicas, ya sea con el ambiente de un hábitat humano [2006.01]"
+  },
+  {
+    "code": "G01W 1/18",
+    "description": "••Ensayo o calibrado de los aparatos meteorológicos [2006.01]"
+  }
+]

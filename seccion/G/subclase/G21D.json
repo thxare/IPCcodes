@@ -1,0 +1,106 @@
+[
+  {
+    "code": "G21D 1/00",
+    "description": "Detalles de las instalaciones de energía nuclear (control G21D 3/00) [2006.01]"
+  },
+  {
+    "code": "G21D 1/02",
+    "description": "••Disposiciones de equipo auxiliar [2006.01]"
+  },
+  {
+    "code": "G21D 1/04",
+    "description": "••Disposiciones de bombeo (por medios en el interior de la vasija de presión del reactor G21C 15/24) [2006.01]"
+  },
+  {
+    "code": "G21D 3/00",
+    "description": "Control de las instalaciones de energía nuclear (control de la reacción nuclear en general  G21C 7/00) [2006.01]"
+  },
+  {
+    "code": "G21D 3/02",
+    "description": "••Control manual [2006.01]"
+  },
+  {
+    "code": "G21D 3/04",
+    "description": "••Disposiciones de seguridad (protección de emergencia del reactor G21C 9/00) [2006.01]"
+  },
+  {
+    "code": "G21D 3/06",
+    "description": "••••que reaccionan ante fallos en el interior de la instalación (en el reactor G21C 9/02) [2006.01]"
+  },
+  {
+    "code": "G21D 3/08",
+    "description": "••Regulación de diferentes parámetros en la instalación [2006.01]"
+  },
+  {
+    "code": "G21D 3/10",
+    "description": "••••por una combinación de una variable derivada del flujo de neutrones con otras variables de control, p. ej. derivadas de la temperatura, del flujo del refrigerante, de la presión [2006.01]"
+  },
+  {
+    "code": "G21D 3/12",
+    "description": "••••por reajuste del reactor en respuesta solamente a los cambios que se producen en la demanda del motor [2006.01]"
+  },
+  {
+    "code": "G21D 3/14",
+    "description": "••••••variando el flujo del refrigerante [2006.01]"
+  },
+  {
+    "code": "G21D 3/16",
+    "description": "••••••variando la reactividad [2006.01]"
+  },
+  {
+    "code": "G21D 3/18",
+    "description": "••••por ajuste de la instalación exterior al reactor en respuesta solamente al cambio de reactividad [2006.01]"
+  },
+  {
+    "code": "G21D 5/00",
+    "description": "Disposiciones de reactores y de motores en los que el calor producido por el reactor es convertido en energía mecánica [2006.01]"
+  },
+  {
+    "code": "G21D 5/02",
+    "description": "••Reactor y motor estructuralmente combinados, p. ej. portátiles [2006.01]"
+  },
+  {
+    "code": "G21D 5/04",
+    "description": "••Reactor y motor no estructuralmente combinados [2006.01]"
+  },
+  {
+    "code": "G21D 5/06",
+    "description": "••••con un agente intermediario de trabajo del motor circula a través del núcleo del reactor [2006.01]"
+  },
+  {
+    "code": "G21D 5/08",
+    "description": "••••con un agente intermediario de trabajo del motor que es calentado por el refrigerante del reactor en un intercambiador de calor [2006.01]"
+  },
+  {
+    "code": "G21D 5/10",
+    "description": "••••••Agente intermediario líquido parcialmente calentado por el reactor y vaporizado por una fuente exterior al núcleo, p. ej. por calentamiento con aceite [2006.01]"
+  },
+  {
+    "code": "G21D 5/12",
+    "description": "••••••Agente de trabajo líquido vaporizado por el refrigerante del reactor [2006.01]"
+  },
+  {
+    "code": "G21D 5/14",
+    "description": "••••••••y también sobrecalentado por el refrigerante del reactor [2006.01]"
+  },
+  {
+    "code": "G21D 5/16",
+    "description": "••••••••sobrecalentado por una fuente de calor separada [2006.01]"
+  },
+  {
+    "code": "G21D 7/00",
+    "description": "Disposiciones para la producción directa de energía eléctrica a partir de reacciones de fusión o de fisión (obtención de energía eléctrica a partir de fuentes radiactivas G21H 1/00) [2006.01]"
+  },
+  {
+    "code": "G21D 7/02",
+    "description": "••que utilizan generadores magnetohidrodinámicos [2006.01]"
+  },
+  {
+    "code": "G21D 7/04",
+    "description": "••que utilizan elementos termoeléctricos (combinación estructural del elemento combustible con un elemento termoeléctrico G21C 3/40) [2006.01]"
+  },
+  {
+    "code": "G21D 9/00",
+    "description": "Disposiciones para suministrar calor para fines distintos de la conversión en potencia, p. ej. para la calefacción de edificios [2006.01]"
+  }
+]

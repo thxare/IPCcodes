@@ -1,0 +1,738 @@
+[
+  {
+    "code": "C11D 1/00",
+    "description": "Composiciones de detergentes a base esencialmente de compuestos tensioactivos; Utilización de estos compuestos como detergentes [2006.01]"
+  },
+  {
+    "code": "C11D 1/02",
+    "description": "••Compuestos aniónicos [2006.01]"
+  },
+  {
+    "code": "C11D 1/04",
+    "description": "••••Acidos carboxílicos o sus sales (jabón C11D 9/00) [2006.01]"
+  },
+  {
+    "code": "C11D 1/06",
+    "description": "••••••Eteres o tioéteres de ácidos carboxílicos [2006.01]"
+  },
+  {
+    "code": "C11D 1/08",
+    "description": "••••••Acidos policarboxílicos que no contienen nitrógeno o azufre [2006.01]"
+  },
+  {
+    "code": "C11D 1/10",
+    "description": "••••••Acidos aminocarboxílicos; Acidos iminocarboxílicos; Sus condensados con ácidos grasos [2006.01]"
+  },
+  {
+    "code": "C11D 1/12",
+    "description": "••••Esteres de los ácidos sulfónicos o del sulfúrico; Sus sales (C11D 3/065 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "C11D 1/14",
+    "description": "••••••derivados a partir de hidrocarburos alifáticos o monoalcoholes [2006.01]"
+  },
+  {
+    "code": "C11D 1/16",
+    "description": "••••••derivados a partir de alcoholes divalentes o polivalentes [2006.01]"
+  },
+  {
+    "code": "C11D 1/18",
+    "description": "••••••derivados a partir de aminoalcoholes [2006.01]"
+  },
+  {
+    "code": "C11D 1/20",
+    "description": "••••••••Condensados de ácidos grasos [2006.01]"
+  },
+  {
+    "code": "C11D 1/22",
+    "description": "••••••derivados a partir de compuestos aromáticos [2006.01]"
+  },
+  {
+    "code": "C11D 1/24",
+    "description": "••••••••que contienen grupos éster o éter unidos directamente al núcleo [2006.01]"
+  },
+  {
+    "code": "C11D 1/26",
+    "description": "••••••derivados a partir de compuestos heterocíclicos [2006.01]"
+  },
+  {
+    "code": "C11D 1/28",
+    "description": "••••••Productos de sulfonación derivados de ácidos grasos o sus derivados, p. ej. ésteres, amidas [2006.01]"
+  },
+  {
+    "code": "C11D 1/29",
+    "description": "••••••Sulfatos de éteres de polioxialquileno [2006.01]"
+  },
+  {
+    "code": "C11D 1/30",
+    "description": "••••••Productos de sulfonación derivados de lignina [2006.01]"
+  },
+  {
+    "code": "C11D 1/32",
+    "description": "••••Proteínas hidrolizadas; Sus condensados de ácido graso [2006.01]"
+  },
+  {
+    "code": "C11D 1/34",
+    "description": "••••Derivados de los ácidos del fósforo [2006.01]"
+  },
+  {
+    "code": "C11D 1/36",
+    "description": "••••de constitución desconocida [2006.01]"
+  },
+  {
+    "code": "C11D 1/37",
+    "description": "••••Mezclas en las que todos los componentes son aniónicos [2006.01]"
+  },
+  {
+    "code": "C11D 1/38",
+    "description": "••Compuestos catiónicos [2006.01]"
+  },
+  {
+    "code": "C11D 1/40",
+    "description": "••••Monoaminas o poliaminas; Sus sales [2006.01]"
+  },
+  {
+    "code": "C11D 1/42",
+    "description": "••••Aminoalcoholes o aminoéteres [2006.01]"
+  },
+  {
+    "code": "C11D 1/44",
+    "description": "••••••Eteres de polioxialquilenos con aminoalcoholes; Productos de condensación de los epoxialcanos con aminas [2006.01]"
+  },
+  {
+    "code": "C11D 1/46",
+    "description": "••••Esteres de ácidos carboxílicos con aminoalcoholes; Esteres de los ácidos aminocarboxílicos con alcoholes [2006.01]"
+  },
+  {
+    "code": "C11D 1/48",
+    "description": "••••Productos de policondensación que contienen nitrógeno [2006.01]"
+  },
+  {
+    "code": "C11D 1/50",
+    "description": "••••Derivados de urea, tiourea, cianamida, guanidina o uretanos [2006.01]"
+  },
+  {
+    "code": "C11D 1/52",
+    "description": "••••Amidas, alquilolamidas o imidas carboxílicas (C11D 3/07 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "C11D 1/54",
+    "description": "••••Hidrazidas de ácidos carboxílicos [2006.01]"
+  },
+  {
+    "code": "C11D 1/56",
+    "description": "••••que contienen grupos nitro o nitroso [2006.01]"
+  },
+  {
+    "code": "C11D 1/58",
+    "description": "••••Compuestos heterocíclicos [2006.01]"
+  },
+  {
+    "code": "C11D 1/60",
+    "description": "••••Compuestos de sulfonio o fosfonio [2006.01]"
+  },
+  {
+    "code": "C11D 1/62",
+    "description": "••••Compuestos de amonio cuaternario [2006.01]"
+  },
+  {
+    "code": "C11D 1/64",
+    "description": "••••de constitución desconocida [2006.01]"
+  },
+  {
+    "code": "C11D 1/645",
+    "description": "••••Mezclas en las que todos los componentes son catiónicos [2006.01]"
+  },
+  {
+    "code": "C11D 1/65",
+    "description": "••••Mezclas de compuestos aniónicos con catiónicos [2006.01]"
+  },
+  {
+    "code": "C11D 1/655",
+    "description": "••••••de productos sulfonados con alquilolamidas de ácidos carboxílicos (C11D 3/066 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "C11D 1/66",
+    "description": "••Compuestos no iónicos [2006.01]"
+  },
+  {
+    "code": "C11D 1/68",
+    "description": "••••Alcoholes; Productos de oxidación de la cera de parafina que no sean ácidos [2006.01]"
+  },
+  {
+    "code": "C11D 1/70",
+    "description": "••••Fenoles [2006.01]"
+  },
+  {
+    "code": "C11D 1/72",
+    "description": "••••Eteres de polioxialquilenglicoles (C11D 3/075 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "C11D 1/722",
+    "description": "••••Eteres de polioxialquilenos que tienen mezclas de grupos oxialquileno [2006.01]"
+  },
+  {
+    "code": "C11D 1/74",
+    "description": "••••Carboxilatos o sulfonatos de polioxialquilenglicoles [2006.01]"
+  },
+  {
+    "code": "C11D 1/75",
+    "description": "••••Oxidos de amina [2006.01]"
+  },
+  {
+    "code": "C11D 1/755",
+    "description": "••••Sulfóxidos [2006.01]"
+  },
+  {
+    "code": "C11D 1/76",
+    "description": "••••Resinas sintéticas que no contienen nitrógeno [2006.01]"
+  },
+  {
+    "code": "C11D 1/78",
+    "description": "••••Esteres neutros de los ácidos del fósforo [2006.01]"
+  },
+  {
+    "code": "C11D 1/79",
+    "description": "••••Oxidos de fosfina [2006.01]"
+  },
+  {
+    "code": "C11D 1/80",
+    "description": "••••Derivados de lignina que no contienen grupos sulfo- o sulfato [2006.01]"
+  },
+  {
+    "code": "C11D 1/82",
+    "description": "••••Compuestos que contienen silicio [2006.01]"
+  },
+  {
+    "code": "C11D 1/825",
+    "description": "••••Mezclas en las que todos los componentes son no iónicos [2006.01]"
+  },
+  {
+    "code": "C11D 1/83",
+    "description": "••••Mezclas de compuestos no iónicos con aniónicos [2006.01]"
+  },
+  {
+    "code": "C11D 1/831",
+    "description": "••••••de sulfonatos con éteres de polioxialquilenos, sin fosfatos [2006.01]"
+  },
+  {
+    "code": "C11D 1/835",
+    "description": "••••Mezclas de compuestos no iónicos con catiónicos [2006.01]"
+  },
+  {
+    "code": "C11D 1/86",
+    "description": "••Mezclas de compuestos aniónicos, catiónicos y no iónicos [2006.01]"
+  },
+  {
+    "code": "C11D 1/88",
+    "description": "••Anfolitos; Compuestos eléctricamente neutros [2006.01]"
+  },
+  {
+    "code": "C11D 1/90",
+    "description": "••••Betaínas [2006.01]"
+  },
+  {
+    "code": "C11D 1/92",
+    "description": "••••Sulfobetaínas [2006.01]"
+  },
+  {
+    "code": "C11D 1/94",
+    "description": "••••Mezclas con compuestos aniónicos, catiónicos o no iónicos [2006.01]"
+  },
+  {
+    "code": "C11D 3/00",
+    "description": "Otros compuestos que entran en las composiciones detergentes cubiertas por C11D 1/00 [2006.01]"
+  },
+  {
+    "code": "C11D 3/02",
+    "description": "••Compuestos inorgánicos [2006.01]"
+  },
+  {
+    "code": "C11D 3/04",
+    "description": "••••compuestos solubles en agua [2006.01]"
+  },
+  {
+    "code": "C11D 3/06",
+    "description": "••••••Fosfatos, incluyendo los polifosfatos [2006.01]"
+  },
+  {
+    "code": "C11D 3/065",
+    "description": "••••••••en mezcla con productos sulfonados [2006.01]"
+  },
+  {
+    "code": "C11D 3/066",
+    "description": "••••••••••y con alquilolamidas de ácidos carboxílicos [2006.01]"
+  },
+  {
+    "code": "C11D 3/07",
+    "description": "••••••••en mezclas con alquilolamidas de ácidos carboxílicos [2006.01]"
+  },
+  {
+    "code": "C11D 3/075",
+    "description": "••••••••en mezcla con éteres de polioxialquilenos [2006.01]"
+  },
+  {
+    "code": "C11D 3/08",
+    "description": "••••••Silicatos [2006.01]"
+  },
+  {
+    "code": "C11D 3/10",
+    "description": "••••••Carbonatos [2006.01]"
+  },
+  {
+    "code": "C11D 3/12",
+    "description": "••••compuestos insolubles en agua [2006.01]"
+  },
+  {
+    "code": "C11D 3/14",
+    "description": "••••••Pigmentos; Cargas; Abrasivos [2006.01]"
+  },
+  {
+    "code": "C11D 3/16",
+    "description": "••Compuestos orgánicos [2006.01]"
+  },
+  {
+    "code": "C11D 3/18",
+    "description": "••••Hidrocarburos [2006.01]"
+  },
+  {
+    "code": "C11D 3/20",
+    "description": "••••que contienen oxígeno [2006.01]"
+  },
+  {
+    "code": "C11D 3/22",
+    "description": "••••••Carbohidratos o sus derivados [2006.01]"
+  },
+  {
+    "code": "C11D 3/24",
+    "description": "••••que contienen halógeno [2006.01]"
+  },
+  {
+    "code": "C11D 3/26",
+    "description": "••••que contienen nitrógeno [2006.01]"
+  },
+  {
+    "code": "C11D 3/28",
+    "description": "••••••Compuestos heterocíclicos que contienen nitrógeno en el ciclo [2006.01]"
+  },
+  {
+    "code": "C11D 3/30",
+    "description": "••••••Aminas; Aminas sustituidas [2006.01]"
+  },
+  {
+    "code": "C11D 3/32",
+    "description": "••••••Amidas; Amidas sustituidas [2006.01]"
+  },
+  {
+    "code": "C11D 3/33",
+    "description": "••••••Acidos aminocarboxílicos [2006.01]"
+  },
+  {
+    "code": "C11D 3/34",
+    "description": "••••que contienen azufre [2006.01]"
+  },
+  {
+    "code": "C11D 3/36",
+    "description": "••••que contienen fósforo [2006.01]"
+  },
+  {
+    "code": "C11D 3/37",
+    "description": "••••Polímeros [2006.01]"
+  },
+  {
+    "code": "C11D 3/38",
+    "description": "••••Productos de composición no bien definida [2006.01]"
+  },
+  {
+    "code": "C11D 3/382",
+    "description": "••••••Productos vegetales, p. ej. harina de soja, serrín de madera, harina de madera [2006.01]"
+  },
+  {
+    "code": "C11D 3/384",
+    "description": "••••••Productos animales [2006.01]"
+  },
+  {
+    "code": "C11D 3/386",
+    "description": "••••••Preparaciones que contienen enzimas [2006.01]"
+  },
+  {
+    "code": "C11D 3/39",
+    "description": "••Percompuestos orgánicos o inorgánicos [2006.01]"
+  },
+  {
+    "code": "C11D 3/395",
+    "description": "••Agentes de blanqueo [2006.01]"
+  },
+  {
+    "code": "C11D 3/40",
+    "description": "••Colorantes [2006.01]"
+  },
+  {
+    "code": "C11D 3/42",
+    "description": "••••Agentes de blanqueo óptico [2006.01]"
+  },
+  {
+    "code": "C11D 3/43",
+    "description": "••Solventes [2006.01]"
+  },
+  {
+    "code": "C11D 3/44",
+    "description": "••••Mezclas de solventes [2006.01]"
+  },
+  {
+    "code": "C11D 3/46",
+    "description": "••Agentes desengrasantes [2006.01]"
+  },
+  {
+    "code": "C11D 3/48",
+    "description": "••Agentes medicinales o desinfectantes [2006.01]"
+  },
+  {
+    "code": "C11D 3/50",
+    "description": "••Perfumes [2006.01]"
+  },
+  {
+    "code": "C11D 3/60",
+    "description": "••Mezclas de los ingredientes que entran en las composiciones [2006.01]"
+  },
+  {
+    "code": "C11D 7/02",
+    "description": "••Compuestos inorgánicos [2006.01]"
+  },
+  {
+    "code": "C11D 7/04",
+    "description": "••••compuestos solubles en agua [2006.01]"
+  },
+  {
+    "code": "C11D 7/06",
+    "description": "••••••Hidróxidos [2006.01]"
+  },
+  {
+    "code": "C11D 7/08",
+    "description": "••••••Acidos [2006.01]"
+  },
+  {
+    "code": "C11D 7/10",
+    "description": "••••••Sales [2006.01]"
+  },
+  {
+    "code": "C11D 7/12",
+    "description": "••••••••Carbonatos [2006.01]"
+  },
+  {
+    "code": "C11D 7/14",
+    "description": "••••••••Silicatos [2006.01]"
+  },
+  {
+    "code": "C11D 7/16",
+    "description": "••••••••Fosfatos, incluyendo los polifosfatos [2006.01]"
+  },
+  {
+    "code": "C11D 7/18",
+    "description": "••••Peróxidos; Persales [2006.01]"
+  },
+  {
+    "code": "C11D 7/20",
+    "description": "••••Oxidos insolubles en agua [2006.01]"
+  },
+  {
+    "code": "C11D 7/22",
+    "description": "••Compuestos orgánicos [2006.01]"
+  },
+  {
+    "code": "C11D 7/24",
+    "description": "••••Hidrocarburos [2006.01]"
+  },
+  {
+    "code": "C11D 7/26",
+    "description": "••••que contienen oxígeno [2006.01]"
+  },
+  {
+    "code": "C11D 7/28",
+    "description": "••••que contienen halógeno [2006.01]"
+  },
+  {
+    "code": "C11D 7/30",
+    "description": "••••••Hidrocarburos halogenados [2006.01]"
+  },
+  {
+    "code": "C11D 7/32",
+    "description": "••••que contienen nitrógeno [2006.01]"
+  },
+  {
+    "code": "C11D 7/34",
+    "description": "••••que contienen azufre [2006.01]"
+  },
+  {
+    "code": "C11D 7/36",
+    "description": "••••que contienen fósforo [2006.01]"
+  },
+  {
+    "code": "C11D 7/38",
+    "description": "••••Percompuestos [2006.01]"
+  },
+  {
+    "code": "C11D 7/40",
+    "description": "••••Productos en los que la composición no está bien definida [2006.01]"
+  },
+  {
+    "code": "C11D 7/42",
+    "description": "••••••Preparaciones que contienen enzimas [2006.01]"
+  },
+  {
+    "code": "C11D 7/44",
+    "description": "••••••Productos vegetales (C11D 7/42 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "C11D 7/46",
+    "description": "••••••Productos animales (C11D 7/42 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "C11D 7/50",
+    "description": "••Solventes [2006.01]"
+  },
+  {
+    "code": "C11D 7/52",
+    "description": "••••combinados con productos activantes [2006.01]"
+  },
+  {
+    "code": "C11D 7/54",
+    "description": "••Agentes de blanqueo [2006.01]"
+  },
+  {
+    "code": "C11D 7/56",
+    "description": "••••combinados con fosfatos [2006.01]"
+  },
+  {
+    "code": "C11D 7/60",
+    "description": "••Mezclas de compuestos no tensioactivos [2006.01]"
+  },
+  {
+    "code": "C11D 9/00",
+    "description": "Composiciones de detergentes basadas esencialmente en jabón (composiciones que contienen jabón de resina C11D 15/04) [2006.01]"
+  },
+  {
+    "code": "C11D 9/02",
+    "description": "••jabones alcalinos o amoniacales [2006.01]"
+  },
+  {
+    "code": "C11D 9/04",
+    "description": "••que contienen componentes distintos a los jabones [2006.01]"
+  },
+  {
+    "code": "C11D 9/06",
+    "description": "••••Compuestos inorgánicos [2006.01]"
+  },
+  {
+    "code": "C11D 9/08",
+    "description": "••••••compuestos solubles en agua [2006.01]"
+  },
+  {
+    "code": "C11D 9/10",
+    "description": "••••••••Sales [2006.01]"
+  },
+  {
+    "code": "C11D 9/12",
+    "description": "••••••••••Carbonatos [2006.01]"
+  },
+  {
+    "code": "C11D 9/14",
+    "description": "••••••••••Fosfatos; Polifosfatos [2006.01]"
+  },
+  {
+    "code": "C11D 9/16",
+    "description": "••••••••••Boratos [2006.01]"
+  },
+  {
+    "code": "C11D 9/18",
+    "description": "••••••compuestos insolubles en agua [2006.01]"
+  },
+  {
+    "code": "C11D 9/20",
+    "description": "••••••••Pigmentos; Cargas; Abrasivos [2006.01]"
+  },
+  {
+    "code": "C11D 9/22",
+    "description": "••••Compuestos orgánicos [2006.01]"
+  },
+  {
+    "code": "C11D 9/24",
+    "description": "••••••Hidrocarburos [2006.01]"
+  },
+  {
+    "code": "C11D 9/26",
+    "description": "••••••que contienen oxígeno [2006.01]"
+  },
+  {
+    "code": "C11D 9/28",
+    "description": "••••••que contienen halógeno [2006.01]"
+  },
+  {
+    "code": "C11D 9/30",
+    "description": "••••••que contienen nitrógeno [2006.01]"
+  },
+  {
+    "code": "C11D 9/32",
+    "description": "••••••que contienen azufre [2006.01]"
+  },
+  {
+    "code": "C11D 9/34",
+    "description": "••••••que contienen fósforo [2006.01]"
+  },
+  {
+    "code": "C11D 9/36",
+    "description": "••••••que contienen silicio [2006.01]"
+  },
+  {
+    "code": "C11D 9/38",
+    "description": "••••••Productos en los que la composición no está bien definida [2006.01]"
+  },
+  {
+    "code": "C11D 9/40",
+    "description": "••••••Proteínas [2006.01]"
+  },
+  {
+    "code": "C11D 9/42",
+    "description": "••••Percompuestos [2006.01]"
+  },
+  {
+    "code": "C11D 9/44",
+    "description": "••••Perfumes; Materiales colorantes; Agentes de blanqueo [2006.01]"
+  },
+  {
+    "code": "C11D 9/48",
+    "description": "••••Agentes desengrasantes [2006.01]"
+  },
+  {
+    "code": "C11D 9/50",
+    "description": "••••Agentes medicinales o desinfectantes [2006.01]"
+  },
+  {
+    "code": "C11D 9/60",
+    "description": "••••Mezclas de los ingredientes que entran en la composición [2006.01]"
+  },
+  {
+    "code": "C11D 10/00",
+    "description": "Composiciones de detergentes, no previstas por uno solo de los grupos principales C11D 1/00-C11D 9/00 [2006.01]"
+  },
+  {
+    "code": "C11D 10/02",
+    "description": "••basadas en mezclas de compuestos tensioactivos no jabonosos y no tensioactivos [2006.01]"
+  },
+  {
+    "code": "C11D 10/04",
+    "description": "••basadas en mezclas de compuestos tensioactivos no jabonosos y jabón [2006.01]"
+  },
+  {
+    "code": "C11D 10/06",
+    "description": "••basadas en mezclas de compuestos no tensioactivos y jabón [2006.01]"
+  },
+  {
+    "code": "C11D 11/00",
+    "description": "Métodos particulares para la preparación de composiciones que contienen mezclas de detergentes [2006.01]"
+  },
+  {
+    "code": "C11D 11/02",
+    "description": "••Preparación en forma de polvo por atomización [2006.01]"
+  },
+  {
+    "code": "C11D 11/04",
+    "description": "••por medios químicos, p. ej. sulfonación en presencia de otros componentes, seguida de neutralización [2006.01]"
+  },
+  {
+    "code": "C11D 13/00",
+    "description": "Fabricación de jabón o soluciones jabonosas en general; Sus aparatos (jabones de resina C11D 15/00) [2006.01]"
+  },
+  {
+    "code": "C11D 13/02",
+    "description": "••Cocción de jabón; Refino [2006.01]"
+  },
+  {
+    "code": "C11D 13/04",
+    "description": "••••procesos continuos [2006.01]"
+  },
+  {
+    "code": "C11D 13/06",
+    "description": "••••Blanqueo de jabón o soluciones jabonosas [2006.01]"
+  },
+  {
+    "code": "C11D 13/08",
+    "description": "••Coloración o perfumado [2006.01]"
+  },
+  {
+    "code": "C11D 13/10",
+    "description": "••Mezclado; Amasado [2006.01]"
+  },
+  {
+    "code": "C11D 13/12",
+    "description": "••Enfriamiento (C11D 13/14 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "C11D 13/14",
+    "description": "••Modelado [2006.01]"
+  },
+  {
+    "code": "C11D 13/16",
+    "description": "••••en moldes [2006.01]"
+  },
+  {
+    "code": "C11D 13/18",
+    "description": "••••por extrusión o por prensado [2006.01]"
+  },
+  {
+    "code": "C11D 13/20",
+    "description": "••••en forma de partículas pequeñas, p. ej. polvo, escamas [2006.01]"
+  },
+  {
+    "code": "C11D 13/22",
+    "description": "••Corte [2006.01]"
+  },
+  {
+    "code": "C11D 13/24",
+    "description": "••••Corte del jabón en el tambor de enfriamiento [2006.01]"
+  },
+  {
+    "code": "C11D 13/26",
+    "description": "••Secado [2006.01]"
+  },
+  {
+    "code": "C11D 13/28",
+    "description": "••Estampado; Pulimentado [2006.01]"
+  },
+  {
+    "code": "C11D 13/30",
+    "description": "••Recuperación de jabón, p. ej. a partir de soluciones gastadas [2006.01]"
+  },
+  {
+    "code": "C11D 15/00",
+    "description": "Fabricación de jabón de resina o derivados jabonosos de ácidos nafténicos; Composiciones [2006.01]"
+  },
+  {
+    "code": "C11D 15/02",
+    "description": "••Sus aparatos [2006.01]"
+  },
+  {
+    "code": "C11D 15/04",
+    "description": "••Composiciones que contienen jabón de resina o jabón derivado de ácidos nafténicos [2006.01]"
+  },
+  {
+    "code": "C11D 17/02",
+    "description": "••Cuerpos flotantes de detergentes [2006.01]"
+  },
+  {
+    "code": "C11D 17/04",
+    "description": "••combinados con otros objetos o conteniéndoles [2006.01]"
+  },
+  {
+    "code": "C11D 17/06",
+    "description": "••Polvo; Escamas; Mezclas que fluyen libremente; Láminas [2006.01]"
+  },
+  {
+    "code": "C11D 17/08",
+    "description": "••Jabón líquido; capsulado [2006.01]"
+  },
+  {
+    "code": "C11D 19/00",
+    "description": "Recuperación de glicerina del líquido de saponificación [2006.01]"
+  }
+]

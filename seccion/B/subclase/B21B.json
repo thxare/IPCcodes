@@ -1,0 +1,778 @@
+[
+  {
+    "code": "B21B 1/00",
+    "description": "Métodos de laminado o laminadores para la fabricación de productos semiacabados de sección llena o de perfilados (B21B 17/00-B21B 23/00 tienen prioridad; si dependen de la composición del material a laminar B21B 3/00; alargamiento de bandas de metal trabajadas en circuito cerrado, por laminación simultánea en varios puestos de laminado B21B 5/00; laminadores considerados en conjunto B21B 13/00; colada continua en moldes de paredes que se desplazan B22D 11/06); Secuencia de operaciones en los trenes de laminación; Instalaciones de una fábrica de laminación, p. ej. agrupamiento de cajas; Sucesión de pasadas o de alternancias de pasadas [2006.01]"
+  },
+  {
+    "code": "B21B 1/02",
+    "description": "••para laminar piezas gruesas, p. ej. lingotes, tochos, paquetes cuya sección transversal es indiferente [2006.01]"
+  },
+  {
+    "code": "B21B 1/04",
+    "description": "••••según un proceso continuo [2006.01]"
+  },
+  {
+    "code": "B21B 1/06",
+    "description": "••••según un proceso discontinuo [2006.01]"
+  },
+  {
+    "code": "B21B 1/08",
+    "description": "••para laminar piezas de sección especial, p. ej. escuadras (laminado de metal en longitudes indefinidas especialmente apropiadas para la fabricación en serie de objetos particulares B21H 8/00) [2006.01]"
+  },
+  {
+    "code": "B21B 1/082",
+    "description": "••••Secciones de tablestaca con los bordes laterales especialmente adaptados para enclavarse mutuamente para formar una pared [2006.01]"
+  },
+  {
+    "code": "B21B 1/085",
+    "description": "••••Perfiles de carril [2006.01]"
+  },
+  {
+    "code": "B21B 1/088",
+    "description": "••••Perfiles en H o en I [2006.01]"
+  },
+  {
+    "code": "B21B 1/09",
+    "description": "••••Perfiles en L [2006.01]"
+  },
+  {
+    "code": "B21B 1/092",
+    "description": "••••Perfiles en T [2006.01]"
+  },
+  {
+    "code": "B21B 1/095",
+    "description": "••••Perfiles en U o en forma de canal [2006.01]"
+  },
+  {
+    "code": "B21B 1/098",
+    "description": "••••Perfiles en Z [2006.01]"
+  },
+  {
+    "code": "B21B 1/10",
+    "description": "••••en un solo laminador a base de tren dúo o universal [2006.01]"
+  },
+  {
+    "code": "B21B 1/12",
+    "description": "••••según un proceso continuo [2006.01]"
+  },
+  {
+    "code": "B21B 1/14",
+    "description": "••••según un proceso discontinuo [2006.01]"
+  },
+  {
+    "code": "B21B 1/16",
+    "description": "••para laminar alambre o un material similar de pequeña sección [2006.01]"
+  },
+  {
+    "code": "B21B 1/18",
+    "description": "••••según un proceso continuo [2006.01]"
+  },
+  {
+    "code": "B21B 1/20",
+    "description": "••••según un proceso discontinuo [2006.01]"
+  },
+  {
+    "code": "B21B 1/22",
+    "description": "••para laminar bandas u hojas de longitud indefinida (B21B 1/42 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B21B 1/24",
+    "description": "••••según un proceso continuo [2006.01]"
+  },
+  {
+    "code": "B21B 1/26",
+    "description": "••••••por laminado en caliente [2006.01]"
+  },
+  {
+    "code": "B21B 1/28",
+    "description": "••••••por laminado en frío [2006.01]"
+  },
+  {
+    "code": "B21B 1/30",
+    "description": "••••según un proceso discontinuo [2006.01]"
+  },
+  {
+    "code": "B21B 1/32",
+    "description": "••••••en laminadores reversibles, p. ej. con bobinas intermedias de almacenamiento para acumular el material trabajado [2006.01]"
+  },
+  {
+    "code": "B21B 1/34",
+    "description": "••••••••por laminado en caliente [2006.01]"
+  },
+  {
+    "code": "B21B 1/36",
+    "description": "••••••••por laminado en frío [2006.01]"
+  },
+  {
+    "code": "B21B 1/38",
+    "description": "••para laminar hojas de longitud limitada, p. ej. hojas superpuestas (B21B 1/40 tiene prioridad; plegado antes del laminado y separación después del laminado B21B 47/00) [2006.01]"
+  },
+  {
+    "code": "B21B 1/40",
+    "description": "••para laminar flejes que presentan problemas especiales, p. ej. a causa de su débil espesor [2006.01]"
+  },
+  {
+    "code": "B21B 1/42",
+    "description": "••para el laminado progresivo e intermitente o por tren planetario (fabricación de tubos por movimiento de paso de peregrino B21B 21/00) [2006.01]"
+  },
+  {
+    "code": "B21B 1/46",
+    "description": "••para laminar el metal inmediatamente después de la colada continua (cajas a este efecto B21B 13/22; colada continua B22D 11/00, p. ej. en moldes dotados de rodillos B22D 11/06) [2006.01]"
+  },
+  {
+    "code": "B21B 3/00",
+    "description": "Laminado de materiales hechos a base de aleaciones especiales en la medida en que la naturaleza de la aleación exige o permite el empleo de métodos o de secuencias especiales (modificación de las propiedades metalúrgicas especiales de las aleaciones que no se refieren a la consolidación de la estructura, o a las propiedades mecánicas que resulten de ella C21D, C22F) [2006.01]"
+  },
+  {
+    "code": "B21B 3/02",
+    "description": "••Laminado de aleaciones ferrosas especiales [2006.01]"
+  },
+  {
+    "code": "B21B 5/00",
+    "description": "Alargamiento de bandas de metal formando un circuito cerrado (producción de piezas circulares, p. ej. de llantas de rueda, B21H 1/06) [2006.01]"
+  },
+  {
+    "code": "B21B 9/00",
+    "description": "Disposiciones tomadas para efectuar el laminado en condiciones especiales, p. ej. en vacío o en atmósfera inerte a fin de evitar la oxidación del material trabajado; Disposiciones especiales tomadas para evacuar los humos de los laminados [2006.01]"
+  },
+  {
+    "code": "B21B 11/00",
+    "description": "Ayuda aportada al proceso de laminación comunicando vibraciones a los cilindros o al material trabajado [2006.01]"
+  },
+  {
+    "code": "B21B 13/00",
+    "description": "Cajas de laminadores, es decir, conjuntos compuestos de un chasis, de cilindros y de accesorios (B21B 17/00-B21B 23/00 tienen prioridad; detalles, partes constitutivas, accesorios, dispositivos auxiliares, procedimientos de laminado, ver los grupos apropiados) [2006.01]"
+  },
+  {
+    "code": "B21B 13/02",
+    "description": "••en los que los ejes de los cilindros están dispuestos horizontalmente [2006.01]"
+  },
+  {
+    "code": "B21B 13/04",
+    "description": "••••Disposición de un tren trío [2006.01]"
+  },
+  {
+    "code": "B21B 13/06",
+    "description": "••en los que los ejes de los cilindros están dispuestos verticalmente [2006.01]"
+  },
+  {
+    "code": "B21B 13/08",
+    "description": "••en los que los ejes de los cilindros están dispuestos en direcciones diferentes, p. ej. para el llamado proceso \"universal\" de laminado [2006.01]"
+  },
+  {
+    "code": "B21B 13/10",
+    "description": "••••todos los ejes están situados en el mismo plano [2006.01]"
+  },
+  {
+    "code": "B21B 13/12",
+    "description": "••••todos los ejes están en planos diferentes [2006.01]"
+  },
+  {
+    "code": "B21B 13/14",
+    "description": "••dotados de dispositivos de contrapresión que actúan sobre los cilindros para impedir que éstos cedan ante el esfuerzo (dispositivos de contrapresión como tales B21B 29/00) [2006.01]"
+  },
+  {
+    "code": "B21B 13/16",
+    "description": "••dotados de cilindros de acción alternativa [2006.01]"
+  },
+  {
+    "code": "B21B 13/18",
+    "description": "••para el laminado progresivo intermitente o por tren planetario (métodos B21B 1/42; fabricación de tubos por laminación mediante movimiento de paso de peregrino B21B 21/00) [2006.01]"
+  },
+  {
+    "code": "B21B 13/20",
+    "description": "••••para laminado por tren planetario [2006.01]"
+  },
+  {
+    "code": "B21B 13/22",
+    "description": "••para laminar el metal inmediatamente después de la colada continua (métodos correspondientes B21B 1/46; colada continua B22D 11/00, p. ej. en moldes dotados de rodillos B22D 11/06) [2006.01]"
+  },
+  {
+    "code": "B21B 15/00",
+    "description": "Sistemas que permiten efectuar operaciones auxiliares para el trabajo de los metales, especialmente combinados, dispuestos o adaptados para ser asociados a los laminadores [2006.01]"
+  },
+  {
+    "code": "B21B 15/02",
+    "description": "••en los que las piezas trabajadas están sometidas a una torsión interna permanente, p. ej. para producir barras de armadura para el hormigón [2006.01]"
+  },
+  {
+    "code": "B21B 17/00",
+    "description": "Laminado de tubos por cilindros cuyos ejes son prácticamente perpendiculares al eje de las piezas trabajadas, p. ej. laminado \"axial\" [2006.01]"
+  },
+  {
+    "code": "B21B 17/02",
+    "description": "••con un mandril (B21B 17/08 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B21B 17/04",
+    "description": "••••según un proceso continuo [2006.01]"
+  },
+  {
+    "code": "B21B 17/06",
+    "description": "••••según un proceso discontinuo [2006.01]"
+  },
+  {
+    "code": "B21B 17/08",
+    "description": "••con un mandril dotado de una o varias protuberancias [2006.01]"
+  },
+  {
+    "code": "B21B 17/10",
+    "description": "••••según un proceso continuo [2006.01]"
+  },
+  {
+    "code": "B21B 17/12",
+    "description": "••••según un proceso discontinuo [2006.01]"
+  },
+  {
+    "code": "B21B 17/14",
+    "description": "••sin mandril [2006.01]"
+  },
+  {
+    "code": "B21B 19/00",
+    "description": "Laminado de tubos por medio de cilindros dispuestos en el exterior de la pieza trabajada y no teniendo sus ejes perpendiculares al eje de las piezas trabajadas (enderezamiento por laminación B21D) [2006.01]"
+  },
+  {
+    "code": "B21B 19/02",
+    "description": "••con los ejes de los cilindros dispuestos oblicuamente en relación con el eje de las piezas trabajadas, p. ej. laminado con cilindros cruzados [2006.01]"
+  },
+  {
+    "code": "B21B 19/04",
+    "description": "••••Laminación de materiales de estructura maciza, es decir, no huecos; Taladrado [2006.01]"
+  },
+  {
+    "code": "B21B 19/06",
+    "description": "••••Laminado de materiales huecos (B21B 19/04 tiene prioridad; separación de las piezas trabajadas de los mandriles B21C 45/00) [2006.01]"
+  },
+  {
+    "code": "B21B 19/08",
+    "description": "••••••Aumento del diámetro del tubo [2006.01]"
+  },
+  {
+    "code": "B21B 19/10",
+    "description": "••••••Acabado, p. ej. pulido, calibrado [2006.01]"
+  },
+  {
+    "code": "B21B 19/12",
+    "description": "••con los ejes de los cilindros prácticamente paralelos a los ejes de las piezas trabajadas [2006.01]"
+  },
+  {
+    "code": "B21B 19/14",
+    "description": "••••Laminado de tubos por medio de cilindros adicionales dispuestos en el interior de los tubos [2006.01]"
+  },
+  {
+    "code": "B21B 19/16",
+    "description": "••••Laminado de tubos sin cilindro adicional dispuesto en el interior de los tubos [2006.01]"
+  },
+  {
+    "code": "B21B 21/00",
+    "description": "Laminado de tubos por movimiento de paso de peregrino [2006.01]"
+  },
+  {
+    "code": "B21B 21/02",
+    "description": "••Cilindros apropiados [2006.01]"
+  },
+  {
+    "code": "B21B 21/04",
+    "description": "••Mecanismos de marcha para conseguir el movimiento de paso de peregrino (B21B 21/06 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B21B 21/06",
+    "description": "••Dispositivos para dar la vuelta a las piezas trabajadas entre las fases [2006.01]"
+  },
+  {
+    "code": "B21B 23/00",
+    "description": "Laminado de tubos, no limitado a uno de los métodos mencionados en uno solo de los grupos B21B 17/00-B21B 21/00, p. ej. por procedimientos combinados (B21B 25/00 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B21B 25/00",
+    "description": "Mandriles para laminadores de tubos metálicos, p. ej. mandriles de los utilizados para los procedimientos previstos en el grupo B21B 17/00; Accesorios que le son asociados [2006.01]"
+  },
+  {
+    "code": "B21B 25/02",
+    "description": "••Guías, soportes o estribos para mandriles, p. ej. carros; Dispositivos de regulación para mandriles [2006.01]"
+  },
+  {
+    "code": "B21B 25/04",
+    "description": "••Enfriamiento de los mandriles durante el trabajo [2006.01]"
+  },
+  {
+    "code": "B21B 25/06",
+    "description": "••Cambio de los mandriles [2006.01]"
+  },
+  {
+    "code": "B21B 27/02",
+    "description": "••Forma o estructura de los cilindros (para laminar metales de longitudes indefinidas especialmente adecuados para la fabricación en serie de objetos particulares B21H 8/02) [2006.01]"
+  },
+  {
+    "code": "B21B 27/03",
+    "description": "••••Cilindros con camisas [2006.01]"
+  },
+  {
+    "code": "B21B 27/05",
+    "description": "••••••con camisas deformables [2006.01]"
+  },
+  {
+    "code": "B21B 27/06",
+    "description": "••Lubrificación, enfriamiento o calentamiento de los cilindros [2006.01]"
+  },
+  {
+    "code": "B21B 27/08",
+    "description": "••••interiormente [2006.01]"
+  },
+  {
+    "code": "B21B 27/10",
+    "description": "••••exteriormente [2006.01]"
+  },
+  {
+    "code": "B21B 28/00",
+    "description": "Mantenimiento de los cilindros o del material de laminado en estado de funcionamiento (lubrificación, refrigeración o calentado de los cilindros en curso de utilización B21B 27/06) [2006.01]"
+  },
+  {
+    "code": "B21B 28/02",
+    "description": "••Mantenimiento de los cilindros en estado de funcionamiento, p. ej. volver de nuevo al estado primitivo [2006.01]"
+  },
+  {
+    "code": "B21B 28/04",
+    "description": "••••en curso de funcionamiento, p. ej. pulido [2006.01]"
+  },
+  {
+    "code": "B21B 29/00",
+    "description": "Dispositivos de contrapresión que actúan sobre los cilindros para impedir que éstos cedan ante el esfuerzo, p. ej. cilindros de apoyo [2006.01]"
+  },
+  {
+    "code": "B21B 31/00",
+    "description": "Estructura de las cajas de laminadores; Montaje, regulación o cambio de cilindros, de los soportes de cilindros o de los chasis [2006.01]"
+  },
+  {
+    "code": "B21B 31/02",
+    "description": "••Chasis del laminador; Soportes de los cilindros [2006.01]"
+  },
+  {
+    "code": "B21B 31/04",
+    "description": "••••con tirantes, p. ej. tirantes pretensados [2006.01]"
+  },
+  {
+    "code": "B21B 31/06",
+    "description": "••••Fijación de los chasis o de los bastidores a los cimientos, p. ej. a la placa de la plantilla (en general F16M) [2006.01]"
+  },
+  {
+    "code": "B21B 31/07",
+    "description": "••Adaptación de cojinetes (cojinetes en general F16C) [2006.01]"
+  },
+  {
+    "code": "B21B 31/08",
+    "description": "••Cambio de los cilindros, de los soportes de los cilindros o de los chasis [2006.01]"
+  },
+  {
+    "code": "B21B 31/10",
+    "description": "••••por desplazamiento horizontal [2006.01]"
+  },
+  {
+    "code": "B21B 31/12",
+    "description": "••••por desplazamiento vertical [2006.01]"
+  },
+  {
+    "code": "B21B 31/14",
+    "description": "••••por pivotamiento [2006.01]"
+  },
+  {
+    "code": "B21B 31/16",
+    "description": "••Regulación de los cilindros (dispositivos de control B21B 37/00) [2006.01]"
+  },
+  {
+    "code": "B21B 31/18",
+    "description": "••••desplazamiento de los cilindros en sentido axial [2006.01]"
+  },
+  {
+    "code": "B21B 31/20",
+    "description": "••••desplazamiento de los cilindros perpendicularmente a su eje [2006.01]"
+  },
+  {
+    "code": "B21B 31/22",
+    "description": "••••••mecánicamente [2006.01]"
+  },
+  {
+    "code": "B21B 31/24",
+    "description": "••••••••por medio de tornillos [2006.01]"
+  },
+  {
+    "code": "B21B 31/26",
+    "description": "••••••••Regulación de los palieres de los cilindros montados excéntricamente [2006.01]"
+  },
+  {
+    "code": "B21B 31/28",
+    "description": "••••••••por medio de mecanismos con palancas articuladas [2006.01]"
+  },
+  {
+    "code": "B21B 31/30",
+    "description": "••••••••por medio de cuñas o dispositivos equivalentes [2006.01]"
+  },
+  {
+    "code": "B21B 31/32",
+    "description": "••••••hidráulicamente [2006.01]"
+  },
+  {
+    "code": "B21B 33/00",
+    "description": "Dispositivos de seguridad no previstos en otro lugar (dispositivos de seguridad en general F16P); Disyuntores; Dispositivos para liberar los cilindros bloqueados [2006.01]"
+  },
+  {
+    "code": "B21B 33/02",
+    "description": "••Medios para evitar la rotura de los cilindros [2006.01]"
+  },
+  {
+    "code": "B21B 35/00",
+    "description": "Propulsión de los laminadores [2006.01]"
+  },
+  {
+    "code": "B21B 35/02",
+    "description": "••para laminadores de funcionamiento continuo (B21B 35/10, B21B 35/12 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "B21B 35/04",
+    "description": "••••cada caja tiene su o sus propios motores [2006.01]"
+  },
+  {
+    "code": "B21B 35/06",
+    "description": "••para laminadores de funcionamiento discontinuo o para cajas aisladas (B21B 35/10, B21B 35/12 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "B21B 35/08",
+    "description": "••••para laminadores reversibles [2006.01]"
+  },
+  {
+    "code": "B21B 35/10",
+    "description": "••Sistemas de propulsión de los cilindros que no utilizan más que una potencia débil; Sistemas de propulsión de cilindros que reciben la fuerza del eje de otro cilindro [2006.01]"
+  },
+  {
+    "code": "B21B 35/12",
+    "description": "••Mecanismos con ruedas dentadas especialmente adaptadas a los laminadores; Cárters o guarniciones de estos mecanismos [2006.01]"
+  },
+  {
+    "code": "B21B 35/14",
+    "description": "••Broches de acoplamiento o de propulsión, o soportes para árboles especialmente adaptados a los laminadores o especialmente dispuestos en éstos (acoplamientos o árboles en general F16) [2006.01]"
+  },
+  {
+    "code": "B21B 37/00",
+    "description": "Dispositivos de control o métodos especialmente adaptados al laminado o a los productos obtenidos por laminado (métodos o dispositivos de medida especialmente adaptados al laminado de metales B21B 38/00) [2006.01]"
+  },
+  {
+    "code": "B21B 37/16",
+    "description": "••Control del espesor, anchura, diámetro u otras dimensiones transversales (B21B 37/58 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B21B 37/18",
+    "description": "••••Control automático del calibrado [2006.01]"
+  },
+  {
+    "code": "B21B 37/20",
+    "description": "••••••con los laminadores en tandem [2006.01]"
+  },
+  {
+    "code": "B21B 37/22",
+    "description": "••••Control de la desviación lateral; Control de la anchura, p. ej. por compresión [2006.01]"
+  },
+  {
+    "code": "B21B 37/24",
+    "description": "••••Variación automática del espesor según un programa predeterminado [2006.01]"
+  },
+  {
+    "code": "B21B 37/26",
+    "description": "••••••para obtener una lámina que tenga una sucesión de longitudes con diferentes espesores constantes [2006.01]"
+  },
+  {
+    "code": "B21B 37/28",
+    "description": "••Control de la planta o perfil durante la laminación de las cintas, hojas o planchas [2006.01]"
+  },
+  {
+    "code": "B21B 37/30",
+    "description": "••••con control de la flexión de los cilindros [2006.01]"
+  },
+  {
+    "code": "B21B 37/32",
+    "description": "••••••mediante enfriamiento, calentamiento o lubrificación de los cilindros [2006.01]"
+  },
+  {
+    "code": "B21B 37/34",
+    "description": "••••••mediante expansión hidráulica de los cilindros [2006.01]"
+  },
+  {
+    "code": "B21B 37/36",
+    "description": "••••••mediante desplazamiento radial de la camisa del cilindro sobre un eje estacionario del cilindro por medio de soportes hidráulicos [2006.01]"
+  },
+  {
+    "code": "B21B 37/38",
+    "description": "••••utilizando la flexión de los cilindros (B21B 37/42 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B21B 37/40",
+    "description": "••••utilizando el desplazamiento axial de los cilindros (B21B 37/42 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B21B 37/42",
+    "description": "••••utilizando una combinación de la flexión y del desplazamiento axial de los cilindros [2006.01]"
+  },
+  {
+    "code": "B21B 37/44",
+    "description": "••••utilizando el calor, la lubrificación o la refrigeración por agua pulverizada, del producto [2006.01]"
+  },
+  {
+    "code": "B21B 37/46",
+    "description": "••Control de la velocidad del cilindro o de la tracción del motor (B21B 37/52, B21B 37/60 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "B21B 37/48",
+    "description": "••Control de la tensión; Control de la compresión [2006.01]"
+  },
+  {
+    "code": "B21B 37/50",
+    "description": "••••mediante el control del bucle [2006.01]"
+  },
+  {
+    "code": "B21B 37/52",
+    "description": "••••mediante el control de la tracción del motor [2006.01]"
+  },
+  {
+    "code": "B21B 37/54",
+    "description": "••••••incluyendo control de la tracción de la bobina, p. ej. en los laminadores reversibles [2006.01]"
+  },
+  {
+    "code": "B21B 37/56",
+    "description": "••Control del alargamiento [2006.01]"
+  },
+  {
+    "code": "B21B 37/58",
+    "description": "••Control de la fuerza de laminado; control de la separación de los cilindros [2006.01]"
+  },
+  {
+    "code": "B21B 37/60",
+    "description": "••••por control de un motor que mueve un tornillo de ajuste [2006.01]"
+  },
+  {
+    "code": "B21B 37/62",
+    "description": "••••por control de un dispositivo hidráulico de ajuste [2006.01]"
+  },
+  {
+    "code": "B21B 37/64",
+    "description": "••••Sistemas de compensación de la cesión de los cilindros o del conjunto, p. ej. control de los laminadores pretensados [2006.01]"
+  },
+  {
+    "code": "B21B 37/66",
+    "description": "••••Sistemas de compensación de la excentricidad de los cilindros [2006.01]"
+  },
+  {
+    "code": "B21B 37/68",
+    "description": "••Control de la flexión o dirección de las láminas, hojas o planchas, p. ej. prevención de meandros [2006.01]"
+  },
+  {
+    "code": "B21B 37/70",
+    "description": "••Control de la longitud (B21B 37/56 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B21B 37/72",
+    "description": "••Control de la terminación trasera; Control de la terminación delantera [2006.01]"
+  },
+  {
+    "code": "B21B 37/74",
+    "description": "••Control de la temperatura, p. ej. por refrigeración o calefacción de los cilindros o del producto obtenido (B21B 37/32, B21B 37/44 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "B21B 37/76",
+    "description": "••••Control de la refrigeración en la mesa de salida [2006.01]"
+  },
+  {
+    "code": "B21B 37/78",
+    "description": "••Control de la laminación de tubos [2006.01]"
+  },
+  {
+    "code": "B21B 38/00",
+    "description": "Métodos y dispositivos de medida especialmente adaptados a laminadores, p. ej. detección de la posición, inspección del producto [2006.01]"
+  },
+  {
+    "code": "B21B 38/02",
+    "description": "••para medida de la planta o perfil de las láminas [2006.01]"
+  },
+  {
+    "code": "B21B 38/04",
+    "description": "••para medida del espesor, anchura, diámetro u otras dimensiones transversales del producto [2006.01]"
+  },
+  {
+    "code": "B21B 38/06",
+    "description": "••para medida de la tensión o compresión [2006.01]"
+  },
+  {
+    "code": "B21B 38/08",
+    "description": "••para medida de la fuerza de laminado [2006.01]"
+  },
+  {
+    "code": "B21B 38/10",
+    "description": "••para medida de la separación de los cilindros, p. ej. indicadores de pase [2006.01]"
+  },
+  {
+    "code": "B21B 38/12",
+    "description": "••para medida de la flexión de los cilindros [2006.01]"
+  },
+  {
+    "code": "B21B 39/00",
+    "description": "Sistemas para hacer avanzar, sujetar o presentar el material, o para controlar su movimiento, combinados con laminadores, dispuestos en los laminadores, o especialmente concebidos para ser utilizados con laminadores (guiado, transporte o acumulación de materiales de gran flexibilidad en bucles o en arcos B21B 41/00; especialmente asociados a los lechos de enfriamiento B21B 43/00; transporte en general B65G) [2006.01]"
+  },
+  {
+    "code": "B21B 39/02",
+    "description": "••Avance del material o sujeción de éste; Sistemas de frenado o de tensión [2006.01]"
+  },
+  {
+    "code": "B21B 39/04",
+    "description": "••••Levantamiento o descendimiento de piezas trabajadas en los transportadores, p. ej. mesas basculantes colocadas inmediatamente delante o detrás de los pasajes (medios para dar la vuelta o para manipular similares, en cuanto a tales B21B 39/20) [2006.01]"
+  },
+  {
+    "code": "B21B 39/06",
+    "description": "••••Introducción del material en el hueco por impulsión o fuerza [2006.01]"
+  },
+  {
+    "code": "B21B 39/08",
+    "description": "••••Sistemas de frenado o de tensión [2006.01]"
+  },
+  {
+    "code": "B21B 39/10",
+    "description": "••••Disposición o instalación de rodillos alimentadores de material a las cajas de laminación [2006.01]"
+  },
+  {
+    "code": "B21B 39/12",
+    "description": "••••Sistemas o instalaciones de plataformas de rodillos asociadas a las cajas de laminación [2006.01]"
+  },
+  {
+    "code": "B21B 39/14",
+    "description": "••Guiado, presentación o alineamiento de las piezas trabajadas (B21B 43/12 tiene prioridad; guías en las cuales las piezas están sometidas a una torsión interna permanente B21B 15/02) [2006.01]"
+  },
+  {
+    "code": "B21B 39/16",
+    "description": "••••inmediatamente antes de entrar en la pasada o justamente después de haberla dejado [2006.01]"
+  },
+  {
+    "code": "B21B 39/18",
+    "description": "••••Agujas para dirigir el material en los laminadores o trenes de laminación [2006.01]"
+  },
+  {
+    "code": "B21B 39/20",
+    "description": "••Rotación, vuelta u otras manipulaciones análogas de las piezas trabajadas (guías en las que las piezas están sometidas a una torsión interna permanente B21B 15/02) [2006.01]"
+  },
+  {
+    "code": "B21B 39/22",
+    "description": "••••por movimiento de basculación, p. ej. levantando uno de los lados por medio de palancas o de cuñas (B21B 39/26, B21B 39/28 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "B21B 39/24",
+    "description": "••••por medio de pinzas o de ganchos [2006.01]"
+  },
+  {
+    "code": "B21B 39/26",
+    "description": "••••por medio de elementos, p. ej. de elementos estriados que se apoyan sobre los dos lados de las piezas trabajadas y desplazándose el uno respecto al otro de la forma que hacen dar la vuelta a la pieza [2006.01]"
+  },
+  {
+    "code": "B21B 39/28",
+    "description": "••••por medio de órganos de guía conformados de manera tal que hacen dar la vuelta a las piezas después de la pasada [2006.01]"
+  },
+  {
+    "code": "B21B 39/30",
+    "description": "••••introduciéndola en un manipulador rotativo de anillo o de segmento [2006.01]"
+  },
+  {
+    "code": "B21B 39/32",
+    "description": "••••Dispositivos especialmente concebidos para dar la vuelta a las hojas [2006.01]"
+  },
+  {
+    "code": "B21B 39/34",
+    "description": "••Sistemas o combinaciones estructurales especialmente concebidos para cumplir las operaciones cubiertas por más de uno de los grupos B21B 39/02, B21B 39/14, B21B 39/20 [2006.01]"
+  },
+  {
+    "code": "B21B 41/00",
+    "description": "Guía, transporte o acumulación de materiales de gran flexibilidad, p. ej. de hilos o cintas metálicas, en bucles o en arcos; Dispositivos elevadores de estos bucles [2006.01]"
+  },
+  {
+    "code": "B21B 41/02",
+    "description": "••Vuelta de las piezas trabajadas para repetir la o las pasadas [2006.01]"
+  },
+  {
+    "code": "B21B 41/04",
+    "description": "••••por encima o por debajo del puente de laminación o de los cilindros [2006.01]"
+  },
+  {
+    "code": "B21B 41/06",
+    "description": "••en los que la dirección de movimiento de las piezas trabajadas se modifica aproximadamente 180° [2006.01]"
+  },
+  {
+    "code": "B21B 41/08",
+    "description": "••sin cambio fundamental de la dirección general del movimiento de las piezas trabajadas [2006.01]"
+  },
+  {
+    "code": "B21B 41/10",
+    "description": "••••Deflectores de bucles [2006.01]"
+  },
+  {
+    "code": "B21B 41/12",
+    "description": "••Sistemas generales en la medida en que han sido previstos para indicar o controlar las operaciones [2006.01]"
+  },
+  {
+    "code": "B21B 43/00",
+    "description": "Lechos de enfriamiento fijos o móviles; Medios especialmente asociados a los lechos de enfriamiento, p. ej. para frenar las piezas trabajadas, para transferirlas sobre el lecho de enfriamiento o para retirarlas de él (transportadores en general B65G) [2006.01]"
+  },
+  {
+    "code": "B21B 43/02",
+    "description": "••Lechos de enfriamiento dotados de enrejados o de barras (B21B 43/10 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B21B 43/04",
+    "description": "••Lechos de enfriamiento dotados de rodillos o de tornillos sin fin [2006.01]"
+  },
+  {
+    "code": "B21B 43/06",
+    "description": "••Lechos de enfriamiento dotados de carros (B21B 43/08 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B21B 43/08",
+    "description": "••Lechos de enfriamiento dotados de tambores rotativos o de cadenas de reciclado [2006.01]"
+  },
+  {
+    "code": "B21B 43/10",
+    "description": "••Lechos de enfriamiento dotados de otros elementos que sobrepasen el lecho para desplazar las piezas [2006.01]"
+  },
+  {
+    "code": "B21B 43/12",
+    "description": "••Dispositivos para alinear las piezas, es decir, para disponer las piezas de manera que sus extremidades estén alineadas sobre el lecho de enfriamiento o sobre transportadores asociados [2006.01]"
+  },
+  {
+    "code": "B21B 45/00",
+    "description": "Dispositivos para el tratamiento de la superficie de piezas especialmente combinados con laminadores, adaptados para ser utilizados con los laminadores o dispuestos en los laminadores (B21B 15/00 tiene prioridad; características técnicas de los dispositivos de desincrustación B21C 43/00) [2006.01]"
+  },
+  {
+    "code": "B21B 45/02",
+    "description": "••para lubrificar, enfriar o limpiar [2006.01]"
+  },
+  {
+    "code": "B21B 45/04",
+    "description": "••para desincrustar, p. ej. descalaminado [2006.01]"
+  },
+  {
+    "code": "B21B 45/06",
+    "description": "••••de bandas de metal (B21B 45/08 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B21B 45/08",
+    "description": "••••hidráulicamente [2006.01]"
+  },
+  {
+    "code": "B21B 47/00",
+    "description": "Sistemas, dispositivos o métodos auxiliares, asociados al laminado de hojas de metal formadas por muchas capas (fosos de recalentamiento C21D 9/70) [2006.01]"
+  },
+  {
+    "code": "B21B 47/02",
+    "description": "••para plegar las hojas antes del laminado [2006.01]"
+  },
+  {
+    "code": "B21B 47/04",
+    "description": "••para separar las capas después del laminado [2006.01]"
+  },
+  {
+    "code": "B21B 99/00",
+    "description": "Materia no prevista en otros grupos de esta subclase [2006.01]"
+  }
+]

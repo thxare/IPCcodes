@@ -1,0 +1,546 @@
+[
+  {
+    "code": "G01K 1/00",
+    "description": "Detalles de los termómetros no especialmente adaptados a tipos particulares de termómetro (circuitos para reducir la inercia térmica G01K 7/42) [2006.01]"
+  },
+  {
+    "code": "G01K 1/02",
+    "description": "••Medios de indicación o registro especialmente adaptados para termómetros [2021.01]"
+  },
+  {
+    "code": "G01K 1/022",
+    "description": "••••para registro [2021.01]"
+  },
+  {
+    "code": "G01K 1/024",
+    "description": "••••para indicación a distancia [2021.01]"
+  },
+  {
+    "code": "G01K 1/04",
+    "description": "••••Escalas [2006.01]"
+  },
+  {
+    "code": "G01K 1/06",
+    "description": "••••••Disposiciones para facilitar la lectura, p. ej. iluminación, lupa [2006.01]"
+  },
+  {
+    "code": "G01K 1/08",
+    "description": "••Dispositivos de protección, p. ej. cubiertas [2021.01]"
+  },
+  {
+    "code": "G01K 1/10",
+    "description": "••••para prevenir daños de origen químico [2006.01]"
+  },
+  {
+    "code": "G01K 1/12",
+    "description": "••••para prevenir daños debidos a las sobrecargas térmicas [2006.01]"
+  },
+  {
+    "code": "G01K 1/14",
+    "description": "••Soportes; Dispositivos de fijación; Disposiciones para el montaje de termómetros en determinados lugares [2021.01]"
+  },
+  {
+    "code": "G01K 1/143",
+    "description": "••••para medir temperaturas de superficie [2021.01]"
+  },
+  {
+    "code": "G01K 1/16",
+    "description": "••Disposiciones particulares para conducir el calor del objeto al elemento sensible [2006.01]"
+  },
+  {
+    "code": "G01K 1/18",
+    "description": "••••para reducir la inercia térmica [2006.01]"
+  },
+  {
+    "code": "G01K 1/20",
+    "description": "••Compensación de los efectos de las variaciones de la temperatura diferentes a la que se quiere medir, p. ej. variaciones de la temperatura ambiente [2006.01]"
+  },
+  {
+    "code": "G01K 1/22",
+    "description": "••••por medio de un fluido contenido en un cuerpo hueco que tiene partes que son deformables o desplazables bajo el efecto de la presión desarrollada por el fluido [2006.01]"
+  },
+  {
+    "code": "G01K 1/24",
+    "description": "••••por medio de placas o de bandas compuestas, p. ej. bimetales [2006.01]"
+  },
+  {
+    "code": "G01K 1/26",
+    "description": "••Compensación de los efectos de las variaciones de presión [2006.01]"
+  },
+  {
+    "code": "G01K 3/00",
+    "description": "Termómetros que dan una indicación diferente al valor instantáneo de la temperatura (G01K 7/42 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01K 3/02",
+    "description": "••dando valores medios; dando valores integrados [2006.01]"
+  },
+  {
+    "code": "G01K 3/04",
+    "description": "••••con relación al tiempo [2006.01]"
+  },
+  {
+    "code": "G01K 3/06",
+    "description": "••••con relación al espacio [2006.01]"
+  },
+  {
+    "code": "G01K 3/08",
+    "description": "••dando diferencias de valores; dando valores diferenciados [2006.01]"
+  },
+  {
+    "code": "G01K 3/10",
+    "description": "••••con relación al tiempo, p. ej. reaccionando solamente a una variación rápida de temperatura [2006.01]"
+  },
+  {
+    "code": "G01K 3/12",
+    "description": "••••••basados en la dilatación o contracción de materiales [2006.01]"
+  },
+  {
+    "code": "G01K 3/14",
+    "description": "••••con relación al espacio [2006.01]"
+  },
+  {
+    "code": "G01K 5/00",
+    "description": "Medida de la temperatura basada en la dilatación o contracción de un material (G01K 9/00  tiene prioridad; que dan una indicación diferente al valor instantáneo de la temperatura G01K 3/00) [2006.01]"
+  },
+  {
+    "code": "G01K 5/02",
+    "description": "••siendo el material un líquido (G01K 5/32 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01K 5/04",
+    "description": "••••Detalles [2006.01]"
+  },
+  {
+    "code": "G01K 5/06",
+    "description": "••••••Dispositivos para volver atrás la columna de líquido [2006.01]"
+  },
+  {
+    "code": "G01K 5/08",
+    "description": "••••••Tubos capilares [2006.01]"
+  },
+  {
+    "code": "G01K 5/10",
+    "description": "••••••Recipientes para el líquido [2006.01]"
+  },
+  {
+    "code": "G01K 5/12",
+    "description": "••••••Selección de las composiciones especificadas del líquido [2006.01]"
+  },
+  {
+    "code": "G01K 5/14",
+    "description": "••••desplazando el líquido otra columna líquida o un cuerpo sólido (para indicación de máximo o mínimo G01K 5/20) [2006.01]"
+  },
+  {
+    "code": "G01K 5/16",
+    "description": "••••con contactos eléctricos [2006.01]"
+  },
+  {
+    "code": "G01K 5/18",
+    "description": "••••con medios de conversión eléctrica para indicación final [2006.01]"
+  },
+  {
+    "code": "G01K 5/20",
+    "description": "••••con medios para indicar un máximo o un mínimo o los dos (G01K 5/22 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01K 5/22",
+    "description": "••••con dispositivos para que las indicaciones no vayan más allá de algunos grados [2021.01]"
+  },
+  {
+    "code": "G01K 5/24",
+    "description": "••••con dispositivos para medir la diferencia entre dos temperaturas [2006.01]"
+  },
+  {
+    "code": "G01K 5/26",
+    "description": "••••con dispositivos para regular el cero de la escala, p. ej. termómetro de Beckmann [2006.01]"
+  },
+  {
+    "code": "G01K 5/28",
+    "description": "••siendo el material un gas (G01K 5/32  tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G01K 5/30",
+    "description": "••••desplazando el gas una columna de líquido [2006.01]"
+  },
+  {
+    "code": "G01K 5/32",
+    "description": "••siendo el material un fluido contenido en un cuerpo hueco que tiene partes que son deformables o desplazables bajo el efecto de la presión desarrollada por el material (bajo el efecto de la presión provocada por una evaporación G01K 11/04) [2006.01]"
+  },
+  {
+    "code": "G01K 5/34",
+    "description": "••••siendo el cuerpo una cápsula (G01K 5/36, G01K 5/42 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G01K 5/36",
+    "description": "••••siendo el cuerpo un resorte tubular, p. ej. un tubo de Bourdon [2006.01]"
+  },
+  {
+    "code": "G01K 5/38",
+    "description": "••••••en forma de espiral [2006.01]"
+  },
+  {
+    "code": "G01K 5/40",
+    "description": "••••••en forma de hélice [2006.01]"
+  },
+  {
+    "code": "G01K 5/42",
+    "description": "••••siendo el cuerpo un fuelle [2006.01]"
+  },
+  {
+    "code": "G01K 5/44",
+    "description": "••••siendo el cuerpo un cilindro con un pistón [2006.01]"
+  },
+  {
+    "code": "G01K 5/46",
+    "description": "••••con medios de conversión eléctricos para indicación final [2006.01]"
+  },
+  {
+    "code": "G01K 5/48",
+    "description": "••siendo el material un sólido [2006.01]"
+  },
+  {
+    "code": "G01K 5/50",
+    "description": "••••dispuesto para dilatarse o contraerse libremente [2006.01]"
+  },
+  {
+    "code": "G01K 5/52",
+    "description": "••••••con medios de conversión eléctricos para la indicación final [2006.01]"
+  },
+  {
+    "code": "G01K 5/54",
+    "description": "••••que consiste en elementos unidos por gorrones [2006.01]"
+  },
+  {
+    "code": "G01K 5/56",
+    "description": "••••manteniendo de manera que la dilatación provoque una deformación del sólido [2006.01]"
+  },
+  {
+    "code": "G01K 5/58",
+    "description": "••••••estando el sólido mantenido en más de un punto, p. ej. vástago, placa, diafragma (G01K 5/62 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01K 5/60",
+    "description": "••••••••siendo el cuerpo un hilo o una cinta flexible [2006.01]"
+  },
+  {
+    "code": "G01K 5/62",
+    "description": "••••••estando formado el cuerpo sólido de bandas o de placas compuestas, p. ej. bimetales [2006.01]"
+  },
+  {
+    "code": "G01K 5/64",
+    "description": "••••••••Detalles del sistema compuesto [2006.01]"
+  },
+  {
+    "code": "G01K 5/66",
+    "description": "••••••••••Selección de la composición de los componentes del sistema [2006.01]"
+  },
+  {
+    "code": "G01K 5/68",
+    "description": "••••••••••Forma del sistema [2006.01]"
+  },
+  {
+    "code": "G01K 5/70",
+    "description": "••••••••especialmente adaptado para la indicación o el registro [2006.01]"
+  },
+  {
+    "code": "G01K 5/72",
+    "description": "••••••••••con medios de transmisión eléctricos para la indicación final [2006.01]"
+  },
+  {
+    "code": "G01K 7/00",
+    "description": "Medida de la temperatura basada en la utilización de elementos eléctricos o magnéticos directamente sensibles al calor (que dan un resultado diferente al valor instantáneo de la temperatura G01K 3/00) [2006.01]"
+  },
+  {
+    "code": "G01K 7/01",
+    "description": "••usando elementos semiconductores con uniones PN (G01K 7/02, G01K 7/16, G01K 7/30 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G01K 7/02",
+    "description": "••utilizando elementos termoeléctricos, p. ej. termopares [2021.01]"
+  },
+  {
+    "code": "G01K 7/026",
+    "description": "••••Disposiciones para la señalización de fallos o desconexión de termopares [2021.01]"
+  },
+  {
+    "code": "G01K 7/04",
+    "description": "••••no formando parte el objeto a medir de uno de los materiales termoeléctricos [2006.01]"
+  },
+  {
+    "code": "G01K 7/06",
+    "description": "••••••estando los materiales termoeléctricos dispuestos uno en el interior del otro con la unión en una extremidad expuesta al objeto, p. ej. del tipo con vaina [2006.01]"
+  },
+  {
+    "code": "G01K 7/08",
+    "description": "••••formando el objeto a medir uno de los materiales termoeléctricos, p. ej. del tipo en punta [2006.01]"
+  },
+  {
+    "code": "G01K 7/10",
+    "description": "••••Disposiciones para compensar las variables auxiliares, p. ej. la longitud de los conductores [2006.01]"
+  },
+  {
+    "code": "G01K 7/12",
+    "description": "••••••Disposiciones relativas a la unión fría, p. ej. impidiendo la influencia de la temperatura del aire circundante [2006.01]"
+  },
+  {
+    "code": "G01K 7/13",
+    "description": "••••••••Circuitos de compensación de unión fría [2006.01]"
+  },
+  {
+    "code": "G01K 7/14",
+    "description": "••••Disposiciones para modificar la característica de salida, p. ej. linealización [2006.01]"
+  },
+  {
+    "code": "G01K 7/16",
+    "description": "••utilizando elementos resistivos [2006.01]"
+  },
+  {
+    "code": "G01K 7/18",
+    "description": "••••siendo el elemento una resistencia lineal, p. ej. un termómetro de resistencia de platino (G01K 7/26 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01K 7/20",
+    "description": "••••••en un circuito especialmente adaptado, p. ej. un circuito en puente [2006.01]"
+  },
+  {
+    "code": "G01K 7/21",
+    "description": "••••••••para modificar la característica de salida, p. ej. linealización [2006.01]"
+  },
+  {
+    "code": "G01K 7/22",
+    "description": "••••siendo el elemento una resistencia no lineal, p. ej. una termistancia (G01K 7/26 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01K 7/24",
+    "description": "••••••en un circuito especialmente adaptado, p. ej. un circuito en puente [2006.01]"
+  },
+  {
+    "code": "G01K 7/25",
+    "description": "••••••••para modificar la característica de salida, p. ej. linealización [2006.01]"
+  },
+  {
+    "code": "G01K 7/26",
+    "description": "••••siendo el elemento un electrólito [2006.01]"
+  },
+  {
+    "code": "G01K 7/28",
+    "description": "••••••en un circuito especialmente adaptado, p. ej. un circuito en puente [2006.01]"
+  },
+  {
+    "code": "G01K 7/30",
+    "description": "••utilizando el ruido térmico de resistencia o conductores [2006.01]"
+  },
+  {
+    "code": "G01K 7/32",
+    "description": "••utilizando la variación de la frecuencia de resonancia de un cristal [2006.01]"
+  },
+  {
+    "code": "G01K 7/34",
+    "description": "••utilizando elementos capacitivos [2006.01]"
+  },
+  {
+    "code": "G01K 7/36",
+    "description": "••utilizando elementos magnéticos, p. ej. imanes, bobinas [2006.01]"
+  },
+  {
+    "code": "G01K 7/38",
+    "description": "••••actuando las variaciones de temperatura sobre la permeabilidad magnética [2006.01]"
+  },
+  {
+    "code": "G01K 7/40",
+    "description": "••utilizando la ionización de gases [2006.01]"
+  },
+  {
+    "code": "G01K 7/42",
+    "description": "••Circuitos de compensación de la inercia térmica; Circuitos de predicción del valor estacionario de una temperatura [2006.01]"
+  },
+  {
+    "code": "G01K 9/00",
+    "description": "Medida de la temperatura basada en los movimientos provocados por una redistribución de peso, p. ej. termómetro basculante (que no dan un valor instantáneo de la temperatura G01K 3/00) [2006.01]"
+  },
+  {
+    "code": "G01K 11/00",
+    "description": "Medida de la temperatura basada en las variaciones físicas o químicas, que no entran en los grupos G01K 3/00, G01K 5/00, G01K 7/00, ó G01K 9/00 [2006.01]"
+  },
+  {
+    "code": "G01K 11/02",
+    "description": "••utilizando la evaporación o la sublimación, p. ej. observando la ebullición [2006.01]"
+  },
+  {
+    "code": "G01K 11/04",
+    "description": "••••de un material contenido en un cuerpo hueco que tiene partes que son deformables o desplazables bajo el efecto de la presión desarrollada por el vapor [2006.01]"
+  },
+  {
+    "code": "G01K 11/06",
+    "description": "••utilizando la fusión, la congelación o el ablandamiento [2006.01]"
+  },
+  {
+    "code": "G01K 11/08",
+    "description": "••••de cuerpos de ensayo consumibles, p. ej. cono [2006.01]"
+  },
+  {
+    "code": "G01K 11/10",
+    "description": "••utilizando la sinterización [2006.01]"
+  },
+  {
+    "code": "G01K 11/12",
+    "description": "••utilizando cambios en el color, la translucidez o la reflectancia [2021.01]"
+  },
+  {
+    "code": "G01K 11/125",
+    "description": "••••que utilizan cambios en la reflectancia [2021.01]"
+  },
+  {
+    "code": "G01K 11/14",
+    "description": "••••de materiales inorgánicos [2006.01]"
+  },
+  {
+    "code": "G01K 11/16",
+    "description": "••••de materiales orgánicos [2021.01]"
+  },
+  {
+    "code": "G01K 11/165",
+    "description": "••••••de cristales líquidos orgánicos [2021.01]"
+  },
+  {
+    "code": "G01K 11/18",
+    "description": "••••de materiales que cambian la translucidad [2006.01]"
+  },
+  {
+    "code": "G01K 11/20",
+    "description": "••utilizando materiales termoluminiscentes (G01K 11/32 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01K 11/22",
+    "description": "••utilizando la medida de efectos acústicos [2006.01]"
+  },
+  {
+    "code": "G01K 11/24",
+    "description": "••••de la velocidad del sonido [2006.01]"
+  },
+  {
+    "code": "G01K 11/26",
+    "description": "••••de la frecuencia de resonancia [2006.01]"
+  },
+  {
+    "code": "G01K 11/28",
+    "description": "••utilizando medidas de la densidad [2006.01]"
+  },
+  {
+    "code": "G01K 11/30",
+    "description": "••utilizando la medida del efecto de un material sobre una radiación X, una radiación gamma o una radiación corpuscular [2006.01]"
+  },
+  {
+    "code": "G01K 11/32",
+    "description": "••utilizando los cambios de transmitancia, dispersión o luminiscencia de las fibras ópticas [2021.01]"
+  },
+  {
+    "code": "G01K 11/3206",
+    "description": "••••en localizaciones discretas de la fibra, p. ej. usando la dispersión Bragg [2021.01]"
+  },
+  {
+    "code": "G01K 11/3213",
+    "description": "••••••utilizando los cambios en la luminiscencia, p. ej. en el extremo distal de las fibras [2021.01]"
+  },
+  {
+    "code": "G01K 11/322",
+    "description": "••••usando la dispersión de Brillouin [2021.01]"
+  },
+  {
+    "code": "G01K 11/324",
+    "description": "••••usando dispersión Raman [2021.01]"
+  },
+  {
+    "code": "G01K 13/00",
+    "description": "Termómetros especialmente adaptados para fines específicos [2021.01]"
+  },
+  {
+    "code": "G01K 13/02",
+    "description": "••para medir la temperatura de los fluidos en movimiento o de materiales granulares capaces de fluir [2021.01]"
+  },
+  {
+    "code": "G01K 13/024",
+    "description": "••••de gases en movimiento [2021.01]"
+  },
+  {
+    "code": "G01K 13/04",
+    "description": "••para medir la temperatura de cuerpos sólidos en movimiento [2006.01]"
+  },
+  {
+    "code": "G01K 13/06",
+    "description": "••••en movimiento lineal [2006.01]"
+  },
+  {
+    "code": "G01K 13/08",
+    "description": "••••en movimiento rotativo [2006.01]"
+  },
+  {
+    "code": "G01K 13/10",
+    "description": "••para medir la temperatura en el interior de materiales apilados o amontonados (con disposiciones especiales para conducir el calor del objeto al elemento sensible G01K 1/16) [2006.01]"
+  },
+  {
+    "code": "G01K 13/12",
+    "description": "••combinados con dispositivos de muestreo para medir las temperaturas de las muestras del material [2006.01]"
+  },
+  {
+    "code": "G01K 13/20",
+    "description": "••Termómetros de contacto clínicos para uso con humanos o animales [2021.01]"
+  },
+  {
+    "code": "G01K 13/25",
+    "description": "••••Dispositivos de protección de los mismos, p. ej. mangas que impiden la contaminación [2021.01]"
+  },
+  {
+    "code": "G01K 15/00",
+    "description": "Ensayo o calibrado de termómetros [2006.01]"
+  },
+  {
+    "code": "G01K 17/00",
+    "description": "Medida de una cantidad de calor [2006.01]"
+  },
+  {
+    "code": "G01K 17/02",
+    "description": "••Calorímetros que utilizan el transporte de una sustancia indicatriz, p. ej. calorímetros de evaporación [2006.01]"
+  },
+  {
+    "code": "G01K 17/04",
+    "description": "••Calorímetros que utilizan medios de compensación [2006.01]"
+  },
+  {
+    "code": "G01K 17/06",
+    "description": "••Medida de una cantidad de calor transportada por medios fluyentes, p. ej. en los sistemas de calefacción (G01K 17/02, G01K 17/04 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G01K 17/08",
+    "description": "••••basada en la medida de una diferencia de temperatura [2006.01]"
+  },
+  {
+    "code": "G01K 17/10",
+    "description": "••••••entre un punto de entrada y un punto de salida, combinada con la medida del caudal de flujo del medio [2006.01]"
+  },
+  {
+    "code": "G01K 17/12",
+    "description": "••••••••Indicación directa del producto de flujo por la diferencia de temperatura [2006.01]"
+  },
+  {
+    "code": "G01K 17/14",
+    "description": "••••••••••utilizando medios mecánicos para las dos medidas [2006.01]"
+  },
+  {
+    "code": "G01K 17/16",
+    "description": "••••••••••utilizando medios eléctricos para las dos medidas [2006.01]"
+  },
+  {
+    "code": "G01K 17/18",
+    "description": "••••••••••utilizando medios eléctricos para una medida y medios mecánicos para la otra medida [2006.01]"
+  },
+  {
+    "code": "G01K 17/20",
+    "description": "••••••a través de una superficie radiante, combinada con una determinación del coeficiente de transmisión del calor [2006.01]"
+  },
+  {
+    "code": "G01K 19/00",
+    "description": "Ensayo o calibrado de calorímetros [2006.01]"
+  }
+]

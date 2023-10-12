@@ -1,0 +1,1078 @@
+[
+  {
+    "code": "F16K 1/00",
+    "description": "Válvulas de cierre vertical, es decir, dispositivos obturadores cuyo elemento de cierre posee por lo menos una componente del movimiento de apertura o de cierre perpendicular a la superficie de obturación (dispositivos de obturación mediante diafragma F16K 7/00) [2006.01]"
+  },
+  {
+    "code": "F16K 1/02",
+    "description": "••con husillos (F16K 1/12-F16K 1/28 tienen prioridad; mecanismos de accionamiento de husillos F16K 31/50) [2006.01]"
+  },
+  {
+    "code": "F16K 1/04",
+    "description": "••••y cuyo elemento de cierre forma cuerpo con el husillo, p. ej. válvulas principales [2006.01]"
+  },
+  {
+    "code": "F16K 1/06",
+    "description": "••••Dispositivos especiales para mejorar el flujo, p. ej. formas particulares de los pasajes o de las cámaras [2006.01]"
+  },
+  {
+    "code": "F16K 1/08",
+    "description": "••••••en las cuales la varilla es perpendicular a la dirección general de flujo [2006.01]"
+  },
+  {
+    "code": "F16K 1/10",
+    "description": "••••••en las cuales el husillo está inclinado con relación a la dirección general del flujo [2006.01]"
+  },
+  {
+    "code": "F16K 1/12",
+    "description": "••con un cuerpo de válvula perfilado alrededor del cual el fluido corre cuando la válvula está abierta [2006.01]"
+  },
+  {
+    "code": "F16K 1/14",
+    "description": "••con un cuerpo de válvula en forma de esfera (válvulas de retención F16K 15/04) [2006.01]"
+  },
+  {
+    "code": "F16K 1/16",
+    "description": "••con elementos de cierre articulados con un pivote [2006.01]"
+  },
+  {
+    "code": "F16K 1/18",
+    "description": "••••implicando un disco o una charnela pivotante [2006.01]"
+  },
+  {
+    "code": "F16K 1/20",
+    "description": "••••••cuyo eje de rotación está dispuesto en el exterior del cuerpo de la válvula [2006.01]"
+  },
+  {
+    "code": "F16K 1/22",
+    "description": "••••••cuyo eje de rotación atraviesa el eje de la válvula, p. ej. reguladores de mariposa [2006.01]"
+  },
+  {
+    "code": "F16K 1/226",
+    "description": "••••••••Forma o disposición de la junta de estanqueidad [2006.01]"
+  },
+  {
+    "code": "F16K 1/228",
+    "description": "••••••••••Cuerpo de la junta de estanqueidad móvil [2006.01]"
+  },
+  {
+    "code": "F16K 1/24",
+    "description": "••cuyo cuerpo de la válvula está inicialmente levantado de su asiento y gira a continuación alrededor de un eje paralelo al asiento [2006.01]"
+  },
+  {
+    "code": "F16K 1/26",
+    "description": "••••Forma o disposición de la junta de estanqueidad [2006.01]"
+  },
+  {
+    "code": "F16K 1/28",
+    "description": "••••••Cuerpo de la junta de estanqueidad móvil [2006.01]"
+  },
+  {
+    "code": "F16K 1/30",
+    "description": "••especialmente adaptados para receptáculos bajo presión [2006.01]"
+  },
+  {
+    "code": "F16K 1/32",
+    "description": "••Detalles (detalles de aplicación general F16K 25/00-F16K 51/00) [2006.01]"
+  },
+  {
+    "code": "F16K 1/34",
+    "description": "••••Partes de obturación (F16K 1/06, F16K 1/12, F16K 1/14, F16K 1/26 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "F16K 1/36",
+    "description": "••••••Cuerpos de válvulas (para válvulas de doble asiento F16K 1/44) [2006.01]"
+  },
+  {
+    "code": "F16K 1/38",
+    "description": "••••••••de forma cónica [2006.01]"
+  },
+  {
+    "code": "F16K 1/40",
+    "description": "••••••••de forma helicoidal [2006.01]"
+  },
+  {
+    "code": "F16K 1/42",
+    "description": "••••••Asientos de válvulas (para válvulas de doble asiento F16K 1/44) [2006.01]"
+  },
+  {
+    "code": "F16K 1/44",
+    "description": "••••••Detalles del asiento o del cuerpo de la válvula para las válvulas de doble asiento [2006.01]"
+  },
+  {
+    "code": "F16K 1/46",
+    "description": "••••••Fijación de los segmentos de estanqueidad [2006.01]"
+  },
+  {
+    "code": "F16K 1/48",
+    "description": "••••Fijación de los cuerpos de válvula a los husillos roscados de las válvulas [2006.01]"
+  },
+  {
+    "code": "F16K 1/50",
+    "description": "••••Dispositivos que impiden la rotación de los cuerpos de válvula [2006.01]"
+  },
+  {
+    "code": "F16K 1/52",
+    "description": "••••Dispositivos para la regulación adicional del consumo [2006.01]"
+  },
+  {
+    "code": "F16K 1/54",
+    "description": "••••Dispositivos para modificar la forma en la que el consumo varía durante el funcionamiento de la válvula [2006.01]"
+  },
+  {
+    "code": "F16K 3/00",
+    "description": "Válvulas de compuerta o válvulas deslizantes, es decir, dispositivos obturadores cuyo elemento de cierre desliza a lo largo de un asiento para la apertura o el cierre (F16K 5/00 tiene prioridad; en las presas o aliviaderos E02B 8/04) [2006.01]"
+  },
+  {
+    "code": "F16K 3/02",
+    "description": "••con caras de obturación planas; Empaquetaduras de estanqueidad con este fin [2006.01]"
+  },
+  {
+    "code": "F16K 3/03",
+    "description": "••••cuyo elemento de cierre tiene forma de diafragma iris [2006.01]"
+  },
+  {
+    "code": "F16K 3/04",
+    "description": "••••con elementos de cierre articulados con pivote [2006.01]"
+  },
+  {
+    "code": "F16K 3/06",
+    "description": "••••••en forma de placas dispuestas entre la alimentación y la evacuación (F16K 3/10 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F16K 3/08",
+    "description": "••••••••siendo las placas circulares y girando alrededor de su centro [2006.01]"
+  },
+  {
+    "code": "F16K 3/10",
+    "description": "••••••con dispositivos particulares para mantener separadas las caras de obturación o para oprimirlas una contra otra [2006.01]"
+  },
+  {
+    "code": "F16K 3/12",
+    "description": "••••con caras de obturación en forma de cuña [2006.01]"
+  },
+  {
+    "code": "F16K 3/14",
+    "description": "••••••con dispositivos particulares para mantener separadas las caras de obturación o para oprimirlas una contra la otra [2006.01]"
+  },
+  {
+    "code": "F16K 3/16",
+    "description": "••••con dispositivos particulares para mantener separadas las caras de obturación o para oprimirlas una contra la otra (F16K 3/10, F16K 3/14 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "F16K 3/18",
+    "description": "••••••por movimiento de los órganos de cierre [2006.01]"
+  },
+  {
+    "code": "F16K 3/20",
+    "description": "••••••por movimiento de los asientos [2006.01]"
+  },
+  {
+    "code": "F16K 3/22",
+    "description": "••con caras de obturación en formas de superficies de sólidos de revolución (F16K 13/02 tiene prioridad; con cuerpos de válvulas elásticas F16K 3/28) [2006.01]"
+  },
+  {
+    "code": "F16K 3/24",
+    "description": "••••con cuerpos de válvula cilíndricos [2006.01]"
+  },
+  {
+    "code": "F16K 3/26",
+    "description": "••••••con conductos de fluido en el cuerpo de válvula [2006.01]"
+  },
+  {
+    "code": "F16K 3/28",
+    "description": "••con cuerpos de válvulas elásticos [2006.01]"
+  },
+  {
+    "code": "F16K 3/30",
+    "description": "••Detalles [2006.01]"
+  },
+  {
+    "code": "F16K 3/312",
+    "description": "••••Elementos de cierre articulados por pivote [2006.01]"
+  },
+  {
+    "code": "F16K 3/314",
+    "description": "••••Formas o estructuras de la parte deslizante; Su fijación sobre su vástago [2006.01]"
+  },
+  {
+    "code": "F16K 3/316",
+    "description": "••••Guía de la parte deslizante [2006.01]"
+  },
+  {
+    "code": "F16K 3/32",
+    "description": "••••Dispositivos para la regulación adicional del flujo o consumo [2006.01]"
+  },
+  {
+    "code": "F16K 3/34",
+    "description": "••••Dispositivos para modificar la manera en la cual el caudal de flujo varía durante el funcionamiento de la válvula [2006.01]"
+  },
+  {
+    "code": "F16K 3/36",
+    "description": "••••Características relativas a la lubrificación [2006.01]"
+  },
+  {
+    "code": "F16K 5/00",
+    "description": "Grifos o compuertas que comprenden solamente dispositivos de obturación que tienen al menos una de las caras de obturación con la forma más o menos completa, de la superficie de un sólido de revolución, siendo el movimiento de apertura y cierre predominantemente rotatorio (grifos del tipo válvula de cierre vertical F16K 1/00) [2006.01]"
+  },
+  {
+    "code": "F16K 5/02",
+    "description": "••cuyos tacos tienen una superficie cónica; Sus empaquetaduras de estanqueidad [2006.01]"
+  },
+  {
+    "code": "F16K 5/04",
+    "description": "••cuyos tacos tienen una superficie cilíndrica; Sus empaquetaduras de estanqueidad [2006.01]"
+  },
+  {
+    "code": "F16K 5/06",
+    "description": "••cuyos tacos tienen una superficie esférica; Sus empaquetamientos de estanqueidad [2006.01]"
+  },
+  {
+    "code": "F16K 5/08",
+    "description": "••Detalles [2006.01]"
+  },
+  {
+    "code": "F16K 5/10",
+    "description": "••••Dispositivos para el reglaje adicional del consumo [2006.01]"
+  },
+  {
+    "code": "F16K 5/12",
+    "description": "••••Dispositivos para modificar la manera en la que el consumo varía durante el funcionamiento del grifo o de la compuerta [2006.01]"
+  },
+  {
+    "code": "F16K 5/14",
+    "description": "••••Dispositivos particulares para mantener separadas las caras de obturación o para oprimirlas una contra otra [2006.01]"
+  },
+  {
+    "code": "F16K 5/16",
+    "description": "••••••en el caso de tacos de superficie cónica [2006.01]"
+  },
+  {
+    "code": "F16K 5/18",
+    "description": "••••••en el caso de tacos de superficie cilíndrica [2006.01]"
+  },
+  {
+    "code": "F16K 5/20",
+    "description": "••••••en el caso de tacos de superficie esférica [2006.01]"
+  },
+  {
+    "code": "F16K 5/22",
+    "description": "••••Características relativas a la lubrificación [2006.01]"
+  },
+  {
+    "code": "F16K 7/00",
+    "description": "Dispositivos de obturación con diafragma, p. ej. en los que un elemento se deforma sin ser desplazado completamente para cerrar la apertura (puertas o cierres para grandes receptáculos, que funcionan por deformación de paredes flexibles B65D 90/56; medios para obturar los tubos o las mangas F16L 55/10) [2006.01]"
+  },
+  {
+    "code": "F16K 7/02",
+    "description": "••con un diafragma tubular [2006.01]"
+  },
+  {
+    "code": "F16K 7/04",
+    "description": "••••cuyo estrangulamiento se asegura por una fuerza exterior radial [2006.01]"
+  },
+  {
+    "code": "F16K 7/06",
+    "description": "••••••por un husillo roscado, leva u otro medio mecánico [2006.01]"
+  },
+  {
+    "code": "F16K 7/07",
+    "description": "••••••por presión de un fluido [2006.01]"
+  },
+  {
+    "code": "F16K 7/08",
+    "description": "••••cuyo estrangulamiento se asegura por torsión [2006.01]"
+  },
+  {
+    "code": "F16K 7/10",
+    "description": "••con un elemento inflable [2006.01]"
+  },
+  {
+    "code": "F16K 7/12",
+    "description": "••con un diafragma llano, en forma de plato o en forma de tazón [2006.01]"
+  },
+  {
+    "code": "F16K 7/14",
+    "description": "••••colocado para ser deformado contra un asiento plano [2006.01]"
+  },
+  {
+    "code": "F16K 7/16",
+    "description": "••••••siendo el diafragma accionado mecánicamente, p. ej. por un husillo roscado o por una leva [2006.01]"
+  },
+  {
+    "code": "F16K 7/17",
+    "description": "••••••siendo el diafragma accionado por presión de un fluido [2006.01]"
+  },
+  {
+    "code": "F16K 7/18",
+    "description": "••con un diafragma fijo o un lado solamente, p. ej. de manera que pueda ser extendido sobre el asiento rodado [2006.01]"
+  },
+  {
+    "code": "F16K 7/20",
+    "description": "••con un órgano de cierre macizo compresible [2006.01]"
+  },
+  {
+    "code": "F16K 11/00",
+    "description": "Válvulas o llaves de vías múltiples, p. ej. mezcladores; Accesorios para tubos que comprenden tales válvulas; Instalación de válvulas y tubos de descarga especialmente concebidos para mezclar fluidos [2006.01]"
+  },
+  {
+    "code": "F16K 11/02",
+    "description": "••en las que todas las caras de obturación se desplazan solidariamente [2006.01]"
+  },
+  {
+    "code": "F16K 11/04",
+    "description": "••••incluyendo solamente las válvulas de cierre vertical [2006.01]"
+  },
+  {
+    "code": "F16K 11/044",
+    "description": "••••••con los órganos móviles de la válvula situados entre los asientos de la válvula [2006.01]"
+  },
+  {
+    "code": "F16K 11/048",
+    "description": "••••••con los asientos de la válvula situados entre los órganos de válvulas móviles [2006.01]"
+  },
+  {
+    "code": "F16K 11/052",
+    "description": "••••••con elementos de cierre articulados a pivote, p. ej. válvulas de mariposa [2006.01]"
+  },
+  {
+    "code": "F16K 11/056",
+    "description": "••••••con órganos de válvula en forma de esfera [2006.01]"
+  },
+  {
+    "code": "F16K 11/06",
+    "description": "••••incluyendo solamente válvulas que se deslizan [2006.01]"
+  },
+  {
+    "code": "F16K 11/065",
+    "description": "••••••con elementos de cierre deslizando linealmente [2006.01]"
+  },
+  {
+    "code": "F16K 11/07",
+    "description": "••••••••con deslizadores cilíndricos [2006.01]"
+  },
+  {
+    "code": "F16K 11/072",
+    "description": "••••••con elementos de cierre articulados a pivote [2006.01]"
+  },
+  {
+    "code": "F16K 11/074",
+    "description": "••••••••con superficies de obturación planas [2006.01]"
+  },
+  {
+    "code": "F16K 11/076",
+    "description": "••••••••con superficies de obturación formadas como la superficie de un sólido de revolución [2006.01]"
+  },
+  {
+    "code": "F16K 11/078",
+    "description": "••••••con elementos de cierre articulados a pivote y desplazándose linealmente [2006.01]"
+  },
+  {
+    "code": "F16K 11/08",
+    "description": "••••incluyendo solamente grifos o llaves [2006.01]"
+  },
+  {
+    "code": "F16K 11/083",
+    "description": "••••••con nuez cónica [2006.01]"
+  },
+  {
+    "code": "F16K 11/085",
+    "description": "••••••con nuez cilíndrica [2006.01]"
+  },
+  {
+    "code": "F16K 11/087",
+    "description": "••••••con nuez esférica [2006.01]"
+  },
+  {
+    "code": "F16K 11/10",
+    "description": "••cuyos dos o más elementos de cierre no se desplazan solidariamente como un todo [2006.01]"
+  },
+  {
+    "code": "F16K 11/12",
+    "description": "••••cuyo taco gira en otro [2006.01]"
+  },
+  {
+    "code": "F16K 11/14",
+    "description": "••••accionado por un único órgano de control, p. ej. una llave (cuyo taco gira en otro F16K 11/12) [2006.01]"
+  },
+  {
+    "code": "F16K 11/16",
+    "description": "••••••el cual desliza únicamente, o gira solamente u oscila únicamente en un solo plano [2006.01]"
+  },
+  {
+    "code": "F16K 11/18",
+    "description": "••••••cuyos movimientos de maniobra son distintos para cada uno de los elementos de cierre [2006.01]"
+  },
+  {
+    "code": "F16K 11/20",
+    "description": "••••accionados por órganos de control diferentes (cuyo taco gira en otro F16K 11/12) [2006.01]"
+  },
+  {
+    "code": "F16K 11/22",
+    "description": "••••••teniendo cada uno su propia válvula, p. ej. conjugados para formar válvulas de vías múltiples [2006.01]"
+  },
+  {
+    "code": "F16K 11/24",
+    "description": "••••••con válvula electromagnética, p. ej. para máquinas de lavar [2006.01]"
+  },
+  {
+    "code": "F16K 13/00",
+    "description": "Otros tipos estructurales de dispositivos obturadores (medios para obturar los tubos o las mangas F16L 55/10); Disposiciones para obturar [2006.01]"
+  },
+  {
+    "code": "F16K 13/02",
+    "description": "••Cuyas dos caras de obturación tienen la forma de pequeños segmentos de cilindro con un órgano móvil montado sobre una circulación de pivote [2006.01]"
+  },
+  {
+    "code": "F16K 13/08",
+    "description": "••Disposiciones para obturar [2006.01]"
+  },
+  {
+    "code": "F16K 13/10",
+    "description": "••••por medio de una sustancia líquida o granular [2006.01]"
+  },
+  {
+    "code": "F16K 15/00",
+    "description": "Válvulas o charnelas de retención (válvulas especialmente adaptadas para globos inflables A63B 41/00) [2006.01]"
+  },
+  {
+    "code": "F16K 15/02",
+    "description": "••con órganos de válvula de guiado rígidos [2006.01]"
+  },
+  {
+    "code": "F16K 15/03",
+    "description": "••••con un elemento de cierre de bisagra [2006.01]"
+  },
+  {
+    "code": "F16K 15/04",
+    "description": "••••en forma de esfera [2006.01]"
+  },
+  {
+    "code": "F16K 15/06",
+    "description": "••••con un vástago guía [2006.01]"
+  },
+  {
+    "code": "F16K 15/08",
+    "description": "••••en forma de anillos [2006.01]"
+  },
+  {
+    "code": "F16K 15/10",
+    "description": "••••••formando cuerpo o rígidamente ligados a una platina con válvulas común [2006.01]"
+  },
+  {
+    "code": "F16K 15/12",
+    "description": "••••••Resortes para válvulas de anillo [2006.01]"
+  },
+  {
+    "code": "F16K 15/14",
+    "description": "••con cuerpos de válvulas flexibles [2006.01]"
+  },
+  {
+    "code": "F16K 15/16",
+    "description": "••••con laminillas en forma de lengüeta [2006.01]"
+  },
+  {
+    "code": "F16K 15/18",
+    "description": "••con un mecanismo de control; Válvula de retención y válvula de mecanismo de control combinadas [2006.01]"
+  },
+  {
+    "code": "F16K 15/20",
+    "description": "••especialmente concebidas para cuerpos inflables, p. ej. los neumáticos (fijaciones de válvulas a cuerpos elásticos inflables B60C 29/00) [2006.01]"
+  },
+  {
+    "code": "F16K 17/00",
+    "description": "Válvulas o charnelas de seguridad; Válvulas o charnelas de equilibrado (dispositivos limitadores de presión para receptáculos aerosoles B65D 83/70) [2006.01]"
+  },
+  {
+    "code": "F16K 17/02",
+    "description": "••que se abren por exceso de presión de un lado; que se cierran por insuficiencia de presión de un lado (válvulas de retención F16K 15/00) [2006.01]"
+  },
+  {
+    "code": "F16K 17/04",
+    "description": "••••accionadas por resorte [2006.01]"
+  },
+  {
+    "code": "F16K 17/06",
+    "description": "••••••con dispositivos particulares para regular la presión de apertura [2006.01]"
+  },
+  {
+    "code": "F16K 17/08",
+    "description": "••••••con dispositivos particulares para realizar una amplia apertura de evacuación [2006.01]"
+  },
+  {
+    "code": "F16K 17/10",
+    "description": "••••••con una válvula auxiliar que actúa por un fluido sobre la válvula principal [2006.01]"
+  },
+  {
+    "code": "F16K 17/12",
+    "description": "••••accionadas por pesos [2006.01]"
+  },
+  {
+    "code": "F16K 17/14",
+    "description": "••••con un elemento de ruptura [2006.01]"
+  },
+  {
+    "code": "F16K 17/16",
+    "description": "••••••siendo el elemento un diafragma de ruptura [2006.01]"
+  },
+  {
+    "code": "F16K 17/164",
+    "description": "••••y volviendo a cerrarse después del retorno a la presión normal [2006.01]"
+  },
+  {
+    "code": "F16K 17/168",
+    "description": "••••combinados con válvulas controladas manualmente, p. ej. válvula con mecanismo de control y válvula de seguridad combinadas [2006.01]"
+  },
+  {
+    "code": "F16K 17/18",
+    "description": "••abriéndose por un exceso de presión en uno o en otro lugar [2006.01]"
+  },
+  {
+    "code": "F16K 17/19",
+    "description": "••••Válvulas o llaves de equilibrado, principalmente para depósitos [2006.01]"
+  },
+  {
+    "code": "F16K 17/192",
+    "description": "••••••con un elemento de cierre en forma de columna líquida móvil [2006.01]"
+  },
+  {
+    "code": "F16K 17/194",
+    "description": "••••••accionadas por pesos [2006.01]"
+  },
+  {
+    "code": "F16K 17/196",
+    "description": "••••••accionadas por un resorte [2006.01]"
+  },
+  {
+    "code": "F16K 17/20",
+    "description": "••Válvulas limitadoras de consumo (que funcionan por choque o por otra acción exterior F16K 17/36) [2006.01]"
+  },
+  {
+    "code": "F16K 17/22",
+    "description": "••••funcionando por diferencia de presión entre dos puntos de la corriente [2006.01]"
+  },
+  {
+    "code": "F16K 17/24",
+    "description": "••••••actuando directamente sobre el elemento de obturación [2006.01]"
+  },
+  {
+    "code": "F16K 17/26",
+    "description": "••••••••en los dos sentidos [2006.01]"
+  },
+  {
+    "code": "F16K 17/28",
+    "description": "••••••••en un solo sentido [2006.01]"
+  },
+  {
+    "code": "F16K 17/30",
+    "description": "••••••••••bajo la acción de un resorte [2006.01]"
+  },
+  {
+    "code": "F16K 17/32",
+    "description": "••••••y actuando sobre un servomecanismo o sobre un mecanismo de disparo [2006.01]"
+  },
+  {
+    "code": "F16K 17/34",
+    "description": "••••en los cuales la energía de la corriente de consumo acciona el mecanismo de cierre [2006.01]"
+  },
+  {
+    "code": "F16K 17/36",
+    "description": "••funcionando bajo la acción de circunstancias exteriores, p. ej. un choque, un cambio de posición [2006.01]"
+  },
+  {
+    "code": "F16K 17/38",
+    "description": "••••de una temperatura excesiva [2006.01]"
+  },
+  {
+    "code": "F16K 17/40",
+    "description": "••con un elemento de ruptura, p. ej. un diafragma de ruptura, una junta fusible (válvulas con elementos de ruptura que se abren por exceso de presión por un lado F16K 17/14) [2006.01]"
+  },
+  {
+    "code": "F16K 17/42",
+    "description": "••Válvulas que impiden las entradas de aire en los orificios de salida de los recipientes de líquidos [2006.01]"
+  },
+  {
+    "code": "F16K 21/00",
+    "description": "Válvulas distribuidoras de fluidos (especialmente adaptadas para receptáculos aerosoles B65D 83/44; para manipular líquidos B67D; para descarga de agua de retretes o similares E03D) [2006.01]"
+  },
+  {
+    "code": "F16K 21/02",
+    "description": "••asegurando un débil consumo continuo [2006.01]"
+  },
+  {
+    "code": "F16K 21/04",
+    "description": "••Válvulas de cierre automático, es decir, que se cierran automáticamente después de que funcionan [2006.01]"
+  },
+  {
+    "code": "F16K 21/06",
+    "description": "••••en las cuales el movimiento de cierre, ralentí o no, comienza inmediatamente después de la apertura [2006.01]"
+  },
+  {
+    "code": "F16K 21/08",
+    "description": "••••••con elementos de cierre en forma de esfera [2006.01]"
+  },
+  {
+    "code": "F16K 21/10",
+    "description": "••••••con un cilindro de freno hidráulico que actúa sobre el elemento de cierre [2006.01]"
+  },
+  {
+    "code": "F16K 21/12",
+    "description": "••••••con dispositivos de apertura accionados hidráulicamente; con dispositivos para aliviar la presión antes de la apertura [2006.01]"
+  },
+  {
+    "code": "F16K 21/14",
+    "description": "••••con medios particulares para impedir el cierre automático [2006.01]"
+  },
+  {
+    "code": "F16K 21/16",
+    "description": "••••asegurando el cierre después del paso de un volumen predeterminado de fluido (F16K 21/10 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F16K 21/18",
+    "description": "••••cerradas cuando el nivel del líquido alcanza una altura predeterminada (válvulas accionadas por flotador F16K 31/18) [2006.01]"
+  },
+  {
+    "code": "F16K 21/20",
+    "description": "••••••por medios que utilizan la succión del aire a través de una abertura cerrada por la subida del líquido [2006.01]"
+  },
+  {
+    "code": "F16K 23/00",
+    "description": "Válvulas contra el goteo de las boquillas [2006.01]"
+  },
+  {
+    "code": "F16K 24/00",
+    "description": "Dispositivos, p. ej. válvulas, para la ventilación o aireación de recintos (válvulas o llaves de equilibrado F16K 17/00; disposición o montaje en las tuberías o sistemas de tuberías F16L 55/07; aireación o ventilación en tanto que sea función adicional de purgadores de agua de condensación o aparatos análogos F16T; ventilación de los locales de los vehículos, ver subclases correspondientes, p. ej. F24F) [2006.01]"
+  },
+  {
+    "code": "F16K 24/02",
+    "description": "••constituyendo el recinto una válvula, un grifo o una compuerta [2006.01]"
+  },
+  {
+    "code": "F16K 24/04",
+    "description": "••solamente para la ventilación (F16K 24/02 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F16K 24/06",
+    "description": "••solamente para la aireación (F16K 24/02 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F16K 25/00",
+    "description": "Detalles relativos al contacto entre los cuerpos de la válvula y sus asientos (movimiento de los cuerpos de válvulas diferentes de los de apertura y cierre F16K 29/00; estructura de las juntas de estanqueidad, véanse los grupos apropiados según el tipo de válvula) [2006.01]"
+  },
+  {
+    "code": "F16K 25/02",
+    "description": "••Dispositivos que utilizan la salida de fluido de los cuerpos de válvula o de sus asientos [2006.01]"
+  },
+  {
+    "code": "F16K 25/04",
+    "description": "••Dispositivos para impedir la corrosión no previstos en otro lugar [2006.01]"
+  },
+  {
+    "code": "F16K 27/00",
+    "description": "Estructuras de alojamiento (procedimientos para soldar carcasas B23K); Utilización de materiales con este fin [2006.01]"
+  },
+  {
+    "code": "F16K 27/02",
+    "description": "••de las válvulas de cierre vertical (para reducir la resistencia a la corriente en las válvulas de cierre vertical de husillo roscado F16K 1/06) [2006.01]"
+  },
+  {
+    "code": "F16K 27/04",
+    "description": "••de compuertas [2006.01]"
+  },
+  {
+    "code": "F16K 27/06",
+    "description": "••de grifos o de llaves [2006.01]"
+  },
+  {
+    "code": "F16K 27/07",
+    "description": "••de dispositivos obturadores de depósitos, p. ej. de vagones cisterna [2006.01]"
+  },
+  {
+    "code": "F16K 27/08",
+    "description": "••Chapas de guía para ejes; Dispositivos de cierre de los alojamientos; Tapas de protección contra el polvo, p. ej. para válvulas de neumáticos [2006.01]"
+  },
+  {
+    "code": "F16K 27/10",
+    "description": "••Alojamientos soldados [2006.01]"
+  },
+  {
+    "code": "F16K 27/12",
+    "description": "••Cubiertas de los alojamientos [2006.01]"
+  },
+  {
+    "code": "F16K 29/00",
+    "description": "Dispositivos para el movimiento de los cuerpos de válvulas diferentes de los de apertura o cierre de la válvula, p. ej. para el rodaje, para impedir el agarrotamiento [2006.01]"
+  },
+  {
+    "code": "F16K 29/02",
+    "description": "••asegurando un movimiento continuo [2006.01]"
+  },
+  {
+    "code": "F16K 31/00",
+    "description": "Medios de accionamiento; Dispositivos de retorno a la posición de reposo [2006.01]"
+  },
+  {
+    "code": "F16K 31/02",
+    "description": "••eléctricos; magnéticos [2006.01]"
+  },
+  {
+    "code": "F16K 31/04",
+    "description": "••••utilizando un motor [2006.01]"
+  },
+  {
+    "code": "F16K 31/05",
+    "description": "••••••especialmente concebidos para maniobrar las válvulas de funcionamiento manual o para la maniobra conjugada con el motor y manual [2006.01]"
+  },
+  {
+    "code": "F16K 31/06",
+    "description": "••••utilizando un imán [2006.01]"
+  },
+  {
+    "code": "F16K 31/08",
+    "description": "••••••utilizando un imán permanente [2006.01]"
+  },
+  {
+    "code": "F16K 31/10",
+    "description": "••••••con un mecanismo adicional entre la armadura y el elemento de cierre [2006.01]"
+  },
+  {
+    "code": "F16K 31/11",
+    "description": "••••••••con medios adicionales de accionamiento manual [2006.01]"
+  },
+  {
+    "code": "F16K 31/12",
+    "description": "••accionados por un fluido (válvulas o válvulas de retención accionadas por un fluido F16K 15/00; válvulas o válvulas de seguridad por un fluido F16K 17/00) [2006.01]"
+  },
+  {
+    "code": "F16K 31/122",
+    "description": "••••el fluido actuando sobre un pistón (F16K 31/143, F16K 31/163, F16K 31/363, F16K 31/383 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "F16K 31/124",
+    "description": "••••••accionado por servomecanismo [2006.01]"
+  },
+  {
+    "code": "F16K 31/126",
+    "description": "••••actuando el fluido sobre un diafragma, un fuelle o un órgano similar (F16K 31/145, F16K 31/165, F16K 31/365, F16K 31/385 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "F16K 31/128",
+    "description": "••••••accionado por servomecanismo [2006.01]"
+  },
+  {
+    "code": "F16K 31/14",
+    "description": "••••montadas sobre válvulas de funcionamiento manual o conjugadas con las mismas [2006.01]"
+  },
+  {
+    "code": "F16K 31/143",
+    "description": "••••••actuando el fluido sobre un pistón [2006.01]"
+  },
+  {
+    "code": "F16K 31/145",
+    "description": "••••••actuando el fluido sobre un diafragma [2006.01]"
+  },
+  {
+    "code": "F16K 31/16",
+    "description": "••••y con un mecanismo diferente a un vástago de vaivén, entre el motor de fluido y el elemento de cierre (con flotador F16K 31/18) [2006.01]"
+  },
+  {
+    "code": "F16K 31/163",
+    "description": "••••••actuando el fluido sobre un pistón [2006.01]"
+  },
+  {
+    "code": "F16K 31/165",
+    "description": "••••••actuando el fluido sobre un diafragma [2006.01]"
+  },
+  {
+    "code": "F16K 31/18",
+    "description": "••••y accionadas por un flotador (flotadores F16K 33/00; válvulas de charnela controladas por flotador en los purgadores de agua de condensación F16T 1/20, en las calderas de vapor F22D 5/08) [2006.01]"
+  },
+  {
+    "code": "F16K 31/20",
+    "description": "••••••controlando una válvula de cierre vertical [2006.01]"
+  },
+  {
+    "code": "F16K 31/22",
+    "description": "••••••••estando el flotador rígidamente unido a la válvula [2006.01]"
+  },
+  {
+    "code": "F16K 31/24",
+    "description": "••••••••por intermedio de una transmisión cuyo encadenamiento de piezas liga un solo flotador a una sola válvula [2006.01]"
+  },
+  {
+    "code": "F16K 31/26",
+    "description": "••••••••••obedeciendo la válvula a un movimiento rectilíneo y estando el flotador montado sobre un brazo articulado de pivote [2006.01]"
+  },
+  {
+    "code": "F16K 31/28",
+    "description": "••••••••con dos o más flotadores que accionan una válvula [2006.01]"
+  },
+  {
+    "code": "F16K 31/30",
+    "description": "••••••controlando una llave, grifo o una compuerta [2006.01]"
+  },
+  {
+    "code": "F16K 31/32",
+    "description": "••••••controlando un grifo o una llave [2006.01]"
+  },
+  {
+    "code": "F16K 31/34",
+    "description": "••••••controlando una válvula piloto que controla a su vez el dispositivo obturador [2006.01]"
+  },
+  {
+    "code": "F16K 31/36",
+    "description": "••••en los cuales hay una alimentación constante del motor de fluido por el fluido procedente de la canalización [2006.01]"
+  },
+  {
+    "code": "F16K 31/363",
+    "description": "••••••actuando el fluido sobre un pistón (F16K 31/38 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F16K 31/365",
+    "description": "••••••actuando el fluido sobre un diafragma [2006.01]"
+  },
+  {
+    "code": "F16K 31/38",
+    "description": "••••••actuando el fluido directamente sobre los dos lados del motor del fluido, estando uno de los lados unido por un estrangulamiento y estando el motor accionado por la descarga efectuada desde este mismo lado (F16K 31/40 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F16K 31/383",
+    "description": "••••••••actuando el fluido sobre un pistón [2006.01]"
+  },
+  {
+    "code": "F16K 31/385",
+    "description": "••••••••actuando el fluido sobre un diafragma [2006.01]"
+  },
+  {
+    "code": "F16K 31/40",
+    "description": "••••••con un órgano accionado eléctricamente en la descarga del motor [2006.01]"
+  },
+  {
+    "code": "F16K 31/42",
+    "description": "••••y por medio de órganos accionados eléctricamente en las canalizaciones de entrada o de salida del motor de fluido (F16K 31/40 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F16K 31/44",
+    "description": "••Medios mecánicos de accionamiento [2006.01]"
+  },
+  {
+    "code": "F16K 31/46",
+    "description": "••••para funcionamiento a distancia [2006.01]"
+  },
+  {
+    "code": "F16K 31/48",
+    "description": "••••por dispositivo mecánico sincronizado, p. ej. con amortiguador (válvulas de cierre automático F16K 21/16) [2006.01]"
+  },
+  {
+    "code": "F16K 31/50",
+    "description": "••••con husillo roscado [2006.01]"
+  },
+  {
+    "code": "F16K 31/52",
+    "description": "••••con manivela, excéntrica o leva [2006.01]"
+  },
+  {
+    "code": "F16K 31/524",
+    "description": "••••••con una leva [2006.01]"
+  },
+  {
+    "code": "F16K 31/528",
+    "description": "••••••con un pasador y su alojamiento [2006.01]"
+  },
+  {
+    "code": "F16K 31/53",
+    "description": "••••con un engranaje [2006.01]"
+  },
+  {
+    "code": "F16K 31/54",
+    "description": "••••••con cremallera o piñón [2006.01]"
+  },
+  {
+    "code": "F16K 31/56",
+    "description": "••••sin una posición intermedia estable, p. ej. con acción rápida [2006.01]"
+  },
+  {
+    "code": "F16K 31/58",
+    "description": "••••comprendiendo una boca de descarga móvil [2006.01]"
+  },
+  {
+    "code": "F16K 31/60",
+    "description": "••••Empuñaduras [2006.01]"
+  },
+  {
+    "code": "F16K 31/62",
+    "description": "••••Pedales u órganos de accionamiento similares, p. ej. accionados por la rodilla o por la cadera [2006.01]"
+  },
+  {
+    "code": "F16K 31/64",
+    "description": "••sensibles a las variaciones de temperatura (funcionando bajo la acción de una temperatura excesiva F16K 17/38; control de las instalaciones fijas de lucha contra incendios A62C 37/00; dispositivos que impiden la rotura de las canalizaciones por efecto del hielo E03B 7/10) [2006.01]"
+  },
+  {
+    "code": "F16K 31/66",
+    "description": "••••accionados eléctrica o magnéticamente, p. ej. mediante uniones con características magnéticas variables [2006.01]"
+  },
+  {
+    "code": "F16K 31/68",
+    "description": "••••accionados por presión del fluido o por variación volumétrica en una cámara cerrada [2006.01]"
+  },
+  {
+    "code": "F16K 31/70",
+    "description": "••••accionados mecánicamente, p. ej. por una cinta bimetálica [2006.01]"
+  },
+  {
+    "code": "F16K 31/72",
+    "description": "••Medios de funcionamiento o dispositivos de puesta en movimiento adaptados para aumentar la velocidad de respuesta de la válvula [2006.01]"
+  },
+  {
+    "code": "F16K 33/00",
+    "description": "Flotadores para accionar las válvulas u otros dispositivos [2006.01]"
+  },
+  {
+    "code": "F16K 35/00",
+    "description": "Dispositivos que impidan la puesta en acción accidental o no autorizada [2006.01]"
+  },
+  {
+    "code": "F16K 35/02",
+    "description": "••con cierre o apertura mediante botón tirador [2006.01]"
+  },
+  {
+    "code": "F16K 35/04",
+    "description": "••ofreciendo débil resistencia al accionamiento [2006.01]"
+  },
+  {
+    "code": "F16K 35/06",
+    "description": "••utilizando un órgano de control o de bloqueo desmontable, p. ej. una llave (F16K 35/10, F16K 35/12 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "F16K 35/08",
+    "description": "••exigiendo una regulación según un código, p. ej. cerradura de combinaciones [2006.01]"
+  },
+  {
+    "code": "F16K 35/10",
+    "description": "••con cubiertas o barras de bloqueo [2006.01]"
+  },
+  {
+    "code": "F16K 35/12",
+    "description": "••con alambre de precintar [2006.01]"
+  },
+  {
+    "code": "F16K 35/14",
+    "description": "••por bloqueo conjugado de dos o más válvulas [2006.01]"
+  },
+  {
+    "code": "F16K 35/16",
+    "description": "••por un órgano de bloqueo accionado magnéticamente [2006.01]"
+  },
+  {
+    "code": "F16K 37/00",
+    "description": "Medios especiales en las válvulas o en otros dispositivos de obturación para indicar o registrar su funcionamiento o para permitir dar la alarma [2006.01]"
+  },
+  {
+    "code": "F16K 39/00",
+    "description": "Dispositivos para rebajar la presión sobre las caras de una junta de estanqueidad [2006.01]"
+  },
+  {
+    "code": "F16K 39/02",
+    "description": "••en el caso de válvulas de cierre vertical [2006.01]"
+  },
+  {
+    "code": "F16K 39/04",
+    "description": "••en el caso de compuertas [2006.01]"
+  },
+  {
+    "code": "F16K 39/06",
+    "description": "••en el caso de grifos o de llaves [2006.01]"
+  },
+  {
+    "code": "F16K 41/00",
+    "description": "Juntas de estanqueidad para husillos [2006.01]"
+  },
+  {
+    "code": "F16K 41/02",
+    "description": "••con un prensaestopa [2006.01]"
+  },
+  {
+    "code": "F16K 41/04",
+    "description": "••••con un anillo por lo menos, de goma o de material análogo, entre la varilla y su alojamiento [2006.01]"
+  },
+  {
+    "code": "F16K 41/06",
+    "description": "••••con un anillo por lo menos, fijo a la vez a la varilla y a su alojamiento [2006.01]"
+  },
+  {
+    "code": "F16K 41/08",
+    "description": "••••por un anillo por lo menos, que presente por su periferia un labio de cierre saliente [2006.01]"
+  },
+  {
+    "code": "F16K 41/10",
+    "description": "••con un diafragma, p. ej. en forma de fuelle o de tubo [2006.01]"
+  },
+  {
+    "code": "F16K 41/12",
+    "description": "••••siendo el diafragma sensiblemente plano [2006.01]"
+  },
+  {
+    "code": "F16K 41/14",
+    "description": "••con un saliente cónico llevado por el husillo que se aloja en una superficie cónica del alojamiento [2006.01]"
+  },
+  {
+    "code": "F16K 41/16",
+    "description": "••con un saliente llevado por el husillo que reposa sobre un anillo de estanqueidad [2006.01]"
+  },
+  {
+    "code": "F16K 41/18",
+    "description": "••••asegurando la estanqueidad solamente cuando el elemento de cierre está en posición de apertura [2006.01]"
+  },
+  {
+    "code": "F16K 43/00",
+    "description": "Medios de cierre auxiliares de las válvulas, que pueden tener en cuenta en caso de reparación de ella, p. ej. un reequipamiento de obturadores, la función de los medios normales de cierre; Dispositivos para el reemplazamiento temporal de partes de las válvulas con el mismo objetivo [2006.01]"
+  },
+  {
+    "code": "F16K 47/00",
+    "description": "Medios llevados por las válvulas para absorber la energía del fluido (para tuberías F16L 55/00) [2006.01]"
+  },
+  {
+    "code": "F16K 47/02",
+    "description": "••para impedir los golpes de ariete o el ruido [2006.01]"
+  },
+  {
+    "code": "F16K 47/04",
+    "description": "••para disminuir la presión, estando el órgano de regulación incorporado en el elemento de cierre [2006.01]"
+  },
+  {
+    "code": "F16K 47/06",
+    "description": "••••estando el órgano de regulación conformado como un canal helicoidal [2006.01]"
+  },
+  {
+    "code": "F16K 47/08",
+    "description": "••para disminuir la presión, siendo el órgano de regulación distinto del elemento de cierre [2006.01]"
+  },
+  {
+    "code": "F16K 47/10",
+    "description": "••••en el cual el medio fluido debe escaparse en un sentido por el canal de estrangulamiento, y puede correr en el otro sentido por un canal mucho más ancho paralelo al canal de estrangulamiento [2006.01]"
+  },
+  {
+    "code": "F16K 47/12",
+    "description": "••••teniendo el canal de estrangulamiento forma helicoidal [2006.01]"
+  },
+  {
+    "code": "F16K 47/14",
+    "description": "••••siendo el órgano de regulación una membrana perforada [2006.01]"
+  },
+  {
+    "code": "F16K 47/16",
+    "description": "••••siendo el órgano de regulación un cono [2006.01]"
+  },
+  {
+    "code": "F16K 49/00",
+    "description": "Medios colocados por o sobre las válvulas para calentar o enfriar (para las tuberías F16L 53/00; aislamiento térmico relativo a las tuberías o a los tubos F16L 59/16) [2006.01]"
+  },
+  {
+    "code": "F16K 51/00",
+    "description": "Otros detalles no particulares a los tipos de válvulas o llaves u otros aparatos de obturación [2006.01]"
+  },
+  {
+    "code": "F16K 51/02",
+    "description": "••especialmente concebidos para las instalaciones de vacío forzado [2006.01]"
+  }
+]

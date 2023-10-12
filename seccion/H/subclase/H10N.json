@@ -1,0 +1,430 @@
+[
+  {
+    "code": "H10N 10/00",
+    "description": "Dispositivos termoeléctricos que comprenden una unión de materiales diferentes, es decir, dispositivos que presentan efectos Seebeck o Peltier (dispositivos integrados o conjuntos de dispositivos múltiples H10N 19/00) [2023.01]"
+  },
+  {
+    "code": "H10N 10/01",
+    "description": "••Fabricación o tratamiento [2023.01]"
+  },
+  {
+    "code": "H10N 10/10",
+    "description": "••operando sólo con los efectos Peltier o Seebeck [2023.01]"
+  },
+  {
+    "code": "H10N 10/13",
+    "description": "••••caracterizado por los medios de intercambio de calor en la unión [2023.01]"
+  },
+  {
+    "code": "H10N 10/17",
+    "description": "••••caracterizado por la estructura o configuración de la celda o termopar que forma el dispositivo [2023.01]"
+  },
+  {
+    "code": "H10N 10/80",
+    "description": "••Detalles de construcción [2023.01]"
+  },
+  {
+    "code": "H10N 10/81",
+    "description": "••••Detalles estructurales de la unión [2023.01]"
+  },
+  {
+    "code": "H10N 10/813",
+    "description": "••••••que la unión sea separable, p. ej. mediante un muelle [2023.01]"
+  },
+  {
+    "code": "H10N 10/817",
+    "description": "••••••que la unión no sea separable, p. ej. que esté cementada, sinterizada o soldada [2023.01]"
+  },
+  {
+    "code": "H10N 10/82",
+    "description": "••••Conexión de las interconexiones [2023.01]"
+  },
+  {
+    "code": "H10N 10/85",
+    "description": "••••Materiales activos termoeléctricos [2023.01]"
+  },
+  {
+    "code": "H10N 10/851",
+    "description": "••••••con composiciones inorgánicas [2023.01]"
+  },
+  {
+    "code": "H10N 10/852",
+    "description": "••••••••con telurio, selenio o azufre [2023.01]"
+  },
+  {
+    "code": "H10N 10/853",
+    "description": "••••••••que contengan arsénico, antimonio o bismuto (H10N 10/852 tiene prioridad) [2023.01]"
+  },
+  {
+    "code": "H10N 10/854",
+    "description": "••••••••que comprenden sólo metales (H10N 10/852, H10N 10/853 tienen prioridad) [2023.01]"
+  },
+  {
+    "code": "H10N 10/855",
+    "description": "••••••••que comprenden compuestos que contienen boro, carbono, oxígeno o nitrógeno [2023.01]"
+  },
+  {
+    "code": "H10N 10/856",
+    "description": "••••••con composiciones orgánicas [2023.01]"
+  },
+  {
+    "code": "H10N 10/857",
+    "description": "••••••que comprende composiciones que cambian de forma continua o discontinua en el interior del material [2023.01]"
+  },
+  {
+    "code": "H10N 15/00",
+    "description": "Dispositivos termoeléctricos sin unión de materiales disímiles; Dispositivos termomagnéticos, p. ej. que utilizan el efecto Nernst-Ettingshausen (dispositivos integrados o conjuntos de dispositivos múltiples H10N 19/00) [2023.01]"
+  },
+  {
+    "code": "H10N 15/10",
+    "description": "••Dispositivos termoeléctricos que utilizan el cambio térmico de la constante dieléctrica, p. ej. trabajando por encima y por debajo del punto de Curie [2023.01]"
+  },
+  {
+    "code": "H10N 15/20",
+    "description": "••Dispositivos termomagnéticos que utilizan el cambio térmico de la permeabilidad magnética, p. ej. trabajando por encima y por debajo del punto de Curie [2023.01]"
+  },
+  {
+    "code": "H10N 19/00",
+    "description": "Dispositivos integrados, o conjuntos de dispositivos múltiples, que comprenden al menos un elemento termoeléctrico o termomagnético de los grupos H10N 10/00-H10N 15/00 [2023.01]"
+  },
+  {
+    "code": "H10N 30/00",
+    "description": "Dispositivos piezoeléctricos o electrostrictivos (dispositivos integrados o conjuntos de dispositivos múltiples H10N 39/00) [2023.01]"
+  },
+  {
+    "code": "H10N 30/01",
+    "description": "••Fabricación o tratamiento [2023.01]"
+  },
+  {
+    "code": "H10N 30/02",
+    "description": "••••Formación de recintos o carcasas [2023.01]"
+  },
+  {
+    "code": "H10N 30/03",
+    "description": "••••Ensamblaje de dispositivos que incluyen piezas piezoeléctricas o electroestrictivas [2023.01]"
+  },
+  {
+    "code": "H10N 30/04",
+    "description": "••••Tratamientos para modificar una propiedad piezoeléctrica o electroestrictiva, p. ej. características de polarización, características de vibración o sintonización de modos [2023.01]"
+  },
+  {
+    "code": "H10N 30/045",
+    "description": "••••••mediante polarización [2023.01]"
+  },
+  {
+    "code": "H10N 30/05",
+    "description": "••••Fabricación de dispositivos piezoeléctricos o electroestrictivos multicapa, o de partes de los mismos, p. ej. mediante apilamiento de cuerpos piezoeléctricos y electrodos [2023.01]"
+  },
+  {
+    "code": "H10N 30/053",
+    "description": "••••••mediante sinterización integral de cuerpos y electrodos piezoeléctricos o electroestrictivos [2023.01]"
+  },
+  {
+    "code": "H10N 30/057",
+    "description": "••••••apilando cuerpos y electrodos piezoeléctricos o electroestrictivos a granel [2023.01]"
+  },
+  {
+    "code": "H10N 30/06",
+    "description": "••••Formación de electrodos o interconexiones, p. ej. cables o terminales [2023.01]"
+  },
+  {
+    "code": "H10N 30/063",
+    "description": "••••••Formación de interconexiones, p. ej. electrodos de conexión de piezas piezoeléctricas o electroestrictivas multicapa [2023.01]"
+  },
+  {
+    "code": "H10N 30/067",
+    "description": "••••••Formación de electrodos monocapa de piezas piezoeléctricas o electroestrictivas multicapa [2023.01]"
+  },
+  {
+    "code": "H10N 30/07",
+    "description": "••••Conformación de piezas o cuerpos piezoeléctricos o electroestrictivos sobre un elemento eléctrico u otra base [2023.01]"
+  },
+  {
+    "code": "H10N 30/071",
+    "description": "••••••Montaje de piezas piezoeléctricas o electroestrictivas junto con elementos semiconductores, u otros elementos de circuito, en un sustrato común [2023.01]"
+  },
+  {
+    "code": "H10N 30/072",
+    "description": "••••••mediante el laminado o la unión de cuerpos piezoeléctricos o electroestrictivos [2023.01]"
+  },
+  {
+    "code": "H10N 30/073",
+    "description": "••••••••por fusión de metales o mediante adhesivos [2023.01]"
+  },
+  {
+    "code": "H10N 30/074",
+    "description": "••••••mediante el depósito de capas piezoeléctricas o electroestrictivas, p. ej. mediante aerosol o serigrafía [2023.01]"
+  },
+  {
+    "code": "H10N 30/076",
+    "description": "••••••••por deposición en fase de vapor [2023.01]"
+  },
+  {
+    "code": "H10N 30/077",
+    "description": "••••••••por deposición en fase líquida [2023.01]"
+  },
+  {
+    "code": "H10N 30/078",
+    "description": "••••••••••por deposición sol-gel [2023.01]"
+  },
+  {
+    "code": "H10N 30/079",
+    "description": "••••••••utilización de capas intermedias, p. ej. para el control del crecimiento [2023.01]"
+  },
+  {
+    "code": "H10N 30/08",
+    "description": "••••Conformación o mecanización de cuerpos piezoeléctricos o electroestrictivos [2023.01]"
+  },
+  {
+    "code": "H10N 30/081",
+    "description": "••••••mediante recubrimiento o deposición empleando máscaras, p. ej. de despegue [2023.01]"
+  },
+  {
+    "code": "H10N 30/082",
+    "description": "••••••mediante grabado, p. ej. litografía [2023.01]"
+  },
+  {
+    "code": "H10N 30/084",
+    "description": "••••••mediante moldeo o extrusión [2023.01]"
+  },
+  {
+    "code": "H10N 30/085",
+    "description": "••••••mediante mecanizado [2023.01]"
+  },
+  {
+    "code": "H10N 30/086",
+    "description": "••••••••mediante pulido o esmerilado [2023.01]"
+  },
+  {
+    "code": "H10N 30/088",
+    "description": "••••••••mediante corte o corte en dados [2023.01]"
+  },
+  {
+    "code": "H10N 30/089",
+    "description": "••••••••mediante perforación [2023.01]"
+  },
+  {
+    "code": "H10N 30/09",
+    "description": "••••Formación de materiales piezoeléctricos o electroestrictivos [2023.01]"
+  },
+  {
+    "code": "H10N 30/092",
+    "description": "••••••Formación de materiales compuestos [2023.01]"
+  },
+  {
+    "code": "H10N 30/093",
+    "description": "••••••Formación de materiales inorgánicos [2023.01]"
+  },
+  {
+    "code": "H10N 30/095",
+    "description": "••••••••mediante fusión [2023.01]"
+  },
+  {
+    "code": "H10N 30/097",
+    "description": "••••••••mediante sinterización [2023.01]"
+  },
+  {
+    "code": "H10N 30/098",
+    "description": "••••••Formación de materiales orgánicos [2023.01]"
+  },
+  {
+    "code": "H10N 30/20",
+    "description": "••con entrada eléctrica y salida mecánica, p. ej. funcionando como actuadores o vibradores [2023.01]"
+  },
+  {
+    "code": "H10N 30/30",
+    "description": "••con entrada mecánica y salida eléctrica, p. ej. funcionando como generadores o sensores [2023.01]"
+  },
+  {
+    "code": "H10N 30/40",
+    "description": "••con entrada y salida eléctrica, p. ej. funcionando como transformadores [2023.01]"
+  },
+  {
+    "code": "H10N 30/50",
+    "description": "••con una estructura apilada o multicapa [2023.01]"
+  },
+  {
+    "code": "H10N 30/60",
+    "description": "••con una estructura de cable coaxial [2023.01]"
+  },
+  {
+    "code": "H10N 30/80",
+    "description": "••Detalles de construcción [2023.01]"
+  },
+  {
+    "code": "H10N 30/85",
+    "description": "••••Materiales activos piezoeléctricos o electroestrictivos [2023.01]"
+  },
+  {
+    "code": "H10N 30/853",
+    "description": "••••••Composiciones cerámicas [2023.01]"
+  },
+  {
+    "code": "H10N 30/857",
+    "description": "••••••Composiciones macromoleculares [2023.01]"
+  },
+  {
+    "code": "H10N 30/87",
+    "description": "••••Electrodos o interconexiones, p. ej. cables o terminales [2023.01]"
+  },
+  {
+    "code": "H10N 30/88",
+    "description": "••••Monturas; Soportes; Recintos; Carcasas [2023.01]"
+  },
+  {
+    "code": "H10N 35/00",
+    "description": "Dispositivos magnetoestrictivos (dispositivos integrados o conjuntos de dispositivos múltiples H10N 39/00) [2023.01]"
+  },
+  {
+    "code": "H10N 35/01",
+    "description": "••Fabricación o tratamiento [2023.01]"
+  },
+  {
+    "code": "H10N 35/80",
+    "description": "••Detalles de construcción [2023.01]"
+  },
+  {
+    "code": "H10N 35/85",
+    "description": "••••Materiales activos magnetoestrictivos [2023.01]"
+  },
+  {
+    "code": "H10N 39/00",
+    "description": "Dispositivos integrados, o conjuntos de dispositivos múltiples, que comprenden al menos un elemento piezoeléctrico, electroestrictivo o magnetoestrictivo cubierto por los grupos H10N 30/00-H10N 35/00 [2023.01]"
+  },
+  {
+    "code": "H10N 50/00",
+    "description": "Dispositivos galvanomagnéticos (dispositivos de efecto Hall H10N 52/00; dispositivos integrados o conjuntos de dispositivos múltiples H10N 59/00) [2023.01]"
+  },
+  {
+    "code": "H10N 50/01",
+    "description": "••Fabricación o tratamiento [2023.01]"
+  },
+  {
+    "code": "H10N 50/10",
+    "description": "••Dispositivos magnetorresistivos [2023.01]"
+  },
+  {
+    "code": "H10N 50/20",
+    "description": "••Dispositivos controlados por corriente polarizada (dispositivos magnetorresistivos H10N 50/10) [2023.01]"
+  },
+  {
+    "code": "H10N 50/80",
+    "description": "••Detalles de construcción [2023.01]"
+  },
+  {
+    "code": "H10N 50/85",
+    "description": "••••Materiales activos magnéticos [2023.01]"
+  },
+  {
+    "code": "H10N 52/00",
+    "description": "Dispositivos de efecto Hall (dispositivos integrados o conjuntos de dispositivos múltiples H10N 59/00) [2023.01]"
+  },
+  {
+    "code": "H10N 52/01",
+    "description": "••Fabricación o tratamiento [2023.01]"
+  },
+  {
+    "code": "H10N 52/80",
+    "description": "••Detalles de construcción [2023.01]"
+  },
+  {
+    "code": "H10N 52/85",
+    "description": "••••Materiales activos magnéticos [2023.01]"
+  },
+  {
+    "code": "H10N 59/00",
+    "description": "Dispositivos integrados, o conjuntos de dispositivos múltiples, que comprenden al menos un elemento galvanomagnético o de efecto Hall de los grupos H10N 50/00-H10N 52/00 (dispositivos MRAM H10B 61/00) [2023.01]"
+  },
+  {
+    "code": "H10N 60/00",
+    "description": "Dispositivos superconductores (dispositivos integrados o conjuntos de dispositivos múltiples H10N 69/00) [2023.01]"
+  },
+  {
+    "code": "H10N 60/01",
+    "description": "••Fabricación o tratamiento [2023.01]"
+  },
+  {
+    "code": "H10N 60/10",
+    "description": "••Dispositivos basados en uniones [2023.01]"
+  },
+  {
+    "code": "H10N 60/12",
+    "description": "••••Dispositivos de efecto Josephson [2023.01]"
+  },
+  {
+    "code": "H10N 60/20",
+    "description": "••Dispositivos superconductores permanentes [2023.01]"
+  },
+  {
+    "code": "H10N 60/30",
+    "description": "••Dispositivos conmutables entre los estados superconductor y normal [2023.01]"
+  },
+  {
+    "code": "H10N 60/35",
+    "description": "••••Criotrones [2023.01]"
+  },
+  {
+    "code": "H10N 60/355",
+    "description": "••••••Criotrones de potencia [2023.01]"
+  },
+  {
+    "code": "H10N 60/80",
+    "description": "••Detalles de construcción [2023.01]"
+  },
+  {
+    "code": "H10N 60/81",
+    "description": "••••Contenedores; Montajes [2023.01]"
+  },
+  {
+    "code": "H10N 60/82",
+    "description": "••••Ruta actual [2023.01]"
+  },
+  {
+    "code": "H10N 60/83",
+    "description": "••••Forma del elemento [2023.01]"
+  },
+  {
+    "code": "H10N 60/84",
+    "description": "••••Medios de conmutación para dispositivos conmutables entre estados superconductores y normales [2023.01]"
+  },
+  {
+    "code": "H10N 60/85",
+    "description": "••••Materiales activos superconductores [2023.01]"
+  },
+  {
+    "code": "H10N 69/00",
+    "description": "Dispositivos integrados, o conjuntos de dispositivos múltiples, que comprenden al menos un elemento superconductor del grupo H10N 60/00 [2023.01]"
+  },
+  {
+    "code": "H10N 70/00",
+    "description": "Dispositivos de estado sólido sin barrera de salto de potencial o barrera de superficie, y especialmente adaptados para rectificar, amplificar, oscilar o conmutar (dispositivos integrados o conjuntos de dispositivos múltiples H10N 79/00) [2023.01]"
+  },
+  {
+    "code": "H10N 70/10",
+    "description": "••Dispositivos de ondas viajeras de estado sólido [2023.01]"
+  },
+  {
+    "code": "H10N 70/20",
+    "description": "••Dispositivos de conmutación multiestable, p. ej. memristores [2023.01]"
+  },
+  {
+    "code": "H10N 79/00",
+    "description": "Dispositivos integrados, o conjuntos de dispositivos múltiples, que comprenden al menos un elemento de estado sólido incluido en el grupo H10N 70/00 (dispositivos ReRAM H10B 63/00; dispositivos PCRAM H10B 63/10) [2023.01]"
+  },
+  {
+    "code": "H10N 80/00",
+    "description": "Dispositivos de efecto de resistencia negativa a granel (dispositivos integrados o conjuntos de dispositivos múltiples H10N 89/00) [2023.01]"
+  },
+  {
+    "code": "H10N 80/10",
+    "description": "••Dispositivos de efecto Gunn [2023.01]"
+  },
+  {
+    "code": "H10N 89/00",
+    "description": "Dispositivos integrados, o conjuntos de dispositivos múltiples, que comprenden al menos un elemento de efecto de resistencia negativa a granel incluido en el grupo H10N 80/00 [2023.01]"
+  },
+  {
+    "code": "H10N 97/00",
+    "description": "Dispositivos eléctricos de estado sólido de película fina o gruesa, no previstos en otra parte [2023.01]"
+  }
+]

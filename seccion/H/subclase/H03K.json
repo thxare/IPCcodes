@@ -1,0 +1,1510 @@
+[
+  {
+    "code": "H03K 3/00",
+    "description": "Circuitos para la generación de impulsos eléctricos; Circuitos monoestables, biestables o multiestables (H03K 4/00 tiene prioridad; para generadores de funciones digitales en ordenadores G06F 1/02) [2006.01]"
+  },
+  {
+    "code": "H03K 3/01",
+    "description": "••Detalles [2006.01]"
+  },
+  {
+    "code": "H03K 3/011",
+    "description": "••••Modificaciones del generador para compensar las variaciones de valores físicos, p. ej. tensión, temperatura [2006.01]"
+  },
+  {
+    "code": "H03K 3/012",
+    "description": "••••Modificaciones del generador para mejorar el tiempo de respuesta o para reducir el consumo de energía [2006.01]"
+  },
+  {
+    "code": "H03K 3/013",
+    "description": "••••Modificaciones del generador con objeto de evitar la acción del ruido o de las interferencias [2006.01]"
+  },
+  {
+    "code": "H03K 3/014",
+    "description": "••••Modificaciones del generador para asegurar la puesta en marcha de las oscilaciones [2006.01]"
+  },
+  {
+    "code": "H03K 3/015",
+    "description": "••••Modificaciones del generador para mantener una energía constante [2006.01]"
+  },
+  {
+    "code": "H03K 3/017",
+    "description": "••••Control del ancho o de la relación de duración del período de los impulsos (modulación de impulsos en anchura H03K 7/08) [2006.01]"
+  },
+  {
+    "code": "H03K 3/02",
+    "description": "••Generadores caracterizados por el tipo de circuito o por los medios utilizados para producir impulsos (H03K 3/64-H03K 3/84 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H03K 3/021",
+    "description": "••••por la utilización, como elementos activos, de más de un tipo de elementos o de medios, p. ej. BIMOS, dispositivos compuestos tales como IGBT [2006.01]"
+  },
+  {
+    "code": "H03K 3/023",
+    "description": "••••por la utilización de amplificadores diferenciales o comparadores, con realimentación positiva interna o externa [2006.01]"
+  },
+  {
+    "code": "H03K 3/0231",
+    "description": "••••••Circuitos astables [2006.01]"
+  },
+  {
+    "code": "H03K 3/0232",
+    "description": "••••••Circuitos monoestables [2006.01]"
+  },
+  {
+    "code": "H03K 3/0233",
+    "description": "••••••Circuitos biestables [2006.01]"
+  },
+  {
+    "code": "H03K 3/0234",
+    "description": "••••••Circuitos multiestables [2006.01]"
+  },
+  {
+    "code": "H03K 3/027",
+    "description": "••••por la utilización de circuitos lógicos, con realimentación positiva interna o externa [2006.01]"
+  },
+  {
+    "code": "H03K 3/03",
+    "description": "••••••Circuitos astables [2006.01]"
+  },
+  {
+    "code": "H03K 3/033",
+    "description": "••••••Circuitos monoestables [2006.01]"
+  },
+  {
+    "code": "H03K 3/037",
+    "description": "••••••Circuitos biestables [2006.01]"
+  },
+  {
+    "code": "H03K 3/038",
+    "description": "••••••Circuitos multiestables [2006.01]"
+  },
+  {
+    "code": "H03K 3/04",
+    "description": "••••por la utilización como elementos activos de tubos de vacío con realimentación positiva (H03K 3/023, H03K 3/027 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H03K 3/05",
+    "description": "••••••utilizando otro medio de realimentación que un transformador [2006.01]"
+  },
+  {
+    "code": "H03K 3/06",
+    "description": "••••••••utilizando al menos dos tubos acoplados de forma que la entrada de cada uno es derivada desde la salida del otro, p. ej. multivibrador [2006.01]"
+  },
+  {
+    "code": "H03K 3/08",
+    "description": "••••••••••astable [2006.01]"
+  },
+  {
+    "code": "H03K 3/09",
+    "description": "••••••••••••Estabilización del valor de salida [2006.01]"
+  },
+  {
+    "code": "H03K 3/10",
+    "description": "••••••••••monoestable [2006.01]"
+  },
+  {
+    "code": "H03K 3/12",
+    "description": "••••••••••biestable [2006.01]"
+  },
+  {
+    "code": "H03K 3/13",
+    "description": "••••••••••••biestables con histéresis, p. ej. disparador de Schmitt [2006.01]"
+  },
+  {
+    "code": "H03K 3/14",
+    "description": "••••••••••multiestable [2006.01]"
+  },
+  {
+    "code": "H03K 3/16",
+    "description": "••••••utilizando un transformador para la realimentación, p. ej. oscilador de bloqueo con núcleo saturable [2006.01]"
+  },
+  {
+    "code": "H03K 3/22",
+    "description": "••••••••especialmente adaptados como comparadores de amplitud, es decir, Multiar [2006.01]"
+  },
+  {
+    "code": "H03K 3/26",
+    "description": "••••por la utilización como elementos activos de transistores bipolares con realimentación positiva interna o externa (H03K 3/023, H03K 3/027 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H03K 3/28",
+    "description": "••••••utilizando otro medio de realimentación que un transformador [2006.01]"
+  },
+  {
+    "code": "H03K 3/281",
+    "description": "••••••••utilizando al menos dos transistores acoplados de forma que la entrada del uno deriva de la salida del otro, p. ej. multivibrador [2006.01]"
+  },
+  {
+    "code": "H03K 3/282",
+    "description": "••••••••••astable [2006.01]"
+  },
+  {
+    "code": "H03K 3/283",
+    "description": "••••••••••••Estabilización del valor de salida [2006.01]"
+  },
+  {
+    "code": "H03K 3/284",
+    "description": "••••••••••monoestable [2006.01]"
+  },
+  {
+    "code": "H03K 3/286",
+    "description": "••••••••••biestable [2006.01]"
+  },
+  {
+    "code": "H03K 3/287",
+    "description": "••••••••••••utilizando transistores adicionales en el circuito de realimentación (H03K 3/289 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H03K 3/288",
+    "description": "••••••••••••utilizando transistores adicionales en el circuito de entrada (H03K 3/289 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H03K 3/2885",
+    "description": "••••••••••••••teniendo una configuración diferencial el circuito de entrada [2006.01]"
+  },
+  {
+    "code": "H03K 3/289",
+    "description": "••••••••••••del tipo maestro-repetidor [2006.01]"
+  },
+  {
+    "code": "H03K 3/2893",
+    "description": "••••••••••••biestables con histéresis, p. ej. disparador Schmitt [2006.01]"
+  },
+  {
+    "code": "H03K 3/2897",
+    "description": "••••••••••••••con un circuito de entrada de configuración diferencial [2006.01]"
+  },
+  {
+    "code": "H03K 3/29",
+    "description": "••••••••••multiestable [2006.01]"
+  },
+  {
+    "code": "H03K 3/30",
+    "description": "••••••utilizando un transformador para la realimentación, p. ej. osciladores de bloqueo [2006.01]"
+  },
+  {
+    "code": "H03K 3/313",
+    "description": "••••por la utilización como elementos activos de dispositivos semiconductores con dos electrodos, una o dos barreras de potencial, y presentando una característica de resistencia negativa [2006.01]"
+  },
+  {
+    "code": "H03K 3/315",
+    "description": "••••••siendo los dispositivos diodos túnel [2006.01]"
+  },
+  {
+    "code": "H03K 3/33",
+    "description": "••••por la utilización como elementos activos de dispositivos semiconductores que presentan una acumulación de huecos o efectos acumulativos [2006.01]"
+  },
+  {
+    "code": "H03K 3/335",
+    "description": "••••por la utilización como elementos activos de dispositivos semiconductores con más de dos electrodos y que presentan el efecto de avalancha [2006.01]"
+  },
+  {
+    "code": "H03K 3/35",
+    "description": "••••por la utilización como elementos activos de dispositivos semiconductores bipolares con al menos tres uniones PN, o al menos cuatro electrodos o al menos dos electrodos conectados en la misma región de conductividad (H03K 3/023, H03K 3/027 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H03K 3/351",
+    "description": "••••••siendo los dispositivos transistores uniunión (H03K 3/352 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H03K 3/352",
+    "description": "••••••siendo los dispositivos tiristores [2006.01]"
+  },
+  {
+    "code": "H03K 3/3525",
+    "description": "••••••••Tiristores de puerta de ánodo o transistores uniunión programables [2006.01]"
+  },
+  {
+    "code": "H03K 3/353",
+    "description": "••••por la utilización como elementos activos de transistores de efecto de campo con realimentación positiva interna o externa (H03K 3/023, H03K 3/027 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H03K 3/354",
+    "description": "••••••Circuitos astables [2006.01]"
+  },
+  {
+    "code": "H03K 3/355",
+    "description": "••••••Circuitos monoestables [2006.01]"
+  },
+  {
+    "code": "H03K 3/356",
+    "description": "••••••Circuitos biestables [2006.01]"
+  },
+  {
+    "code": "H03K 3/3562",
+    "description": "••••••••del tipo maestro-esclavo [2006.01]"
+  },
+  {
+    "code": "H03K 3/3565",
+    "description": "••••••••biestables con histéresis, p. ej. disparador Schmitt [2006.01]"
+  },
+  {
+    "code": "H03K 3/3568",
+    "description": "••••••Circuitos multiestables [2006.01]"
+  },
+  {
+    "code": "H03K 3/357",
+    "description": "••••por la utilización como elementos activos de resistencias negativas de efecto de volumen, p. ej. dispositivos con efecto Gunn [2006.01]"
+  },
+  {
+    "code": "H03K 3/36",
+    "description": "••••por la utilización como elementos activos de dispositivos semiconductores no previstos en otro lugar [2006.01]"
+  },
+  {
+    "code": "H03K 3/37",
+    "description": "••••por la utilización como elementos activos de tubos de atmósfera gaseosa, p. ej. circuitos disparadores astables (H03K 3/55 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H03K 3/38",
+    "description": "••••por la utilización de dispositivos superconductores como elementos activos [2006.01]"
+  },
+  {
+    "code": "H03K 3/40",
+    "description": "••••por la utilización de células electroquímicas como elementos activos [2006.01]"
+  },
+  {
+    "code": "H03K 3/42",
+    "description": "••••por la utilización de dispositivos optoelectrónicos, es decir, dispositivos emisores de luz y dispositivos fotoeléctricos acoplados eléctrica u ópticamente, como elementos activos [2006.01]"
+  },
+  {
+    "code": "H03K 3/43",
+    "description": "••••por la utilización de tubos de desviación del haz como elementos activos [2006.01]"
+  },
+  {
+    "code": "H03K 3/45",
+    "description": "••••por la utilización, como elementos activos, de dispositivos magnéticos o dieléctricos no lineales [2006.01]"
+  },
+  {
+    "code": "H03K 3/47",
+    "description": "••••••siendo los dispositivos parametrones [2006.01]"
+  },
+  {
+    "code": "H03K 3/49",
+    "description": "••••••siendo los dispositivos ferroresonantes [2006.01]"
+  },
+  {
+    "code": "H03K 3/51",
+    "description": "••••••siendo los dispositivos núcleos magnéticos de varias aberturas, p. ej. transfluxores [2006.01]"
+  },
+  {
+    "code": "H03K 3/53",
+    "description": "••••por la utilización de un elemento que acumula la energía descargada en una carga por un dispositivo interruptor controlado por una señal exterior y no incorporando realimentación positiva (H03K 3/335 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H03K 3/537",
+    "description": "••••••siendo el dispositivo de conmutación un descargador [2006.01]"
+  },
+  {
+    "code": "H03K 3/543",
+    "description": "••••••siendo el dispositivo de conmutación un tubo de vacío [2006.01]"
+  },
+  {
+    "code": "H03K 3/55",
+    "description": "••••••siendo el dispositivo de conmutación un tubo de atmósfera gaseosa con electrodo de control [2006.01]"
+  },
+  {
+    "code": "H03K 3/57",
+    "description": "••••••siendo el dispositivo de conmutación un dispositivo de semiconductores [2006.01]"
+  },
+  {
+    "code": "H03K 3/59",
+    "description": "••••por la utilización de dispositivos galvanomagnéticos, p. ej. con efecto Hall [2006.01]"
+  },
+  {
+    "code": "H03K 3/64",
+    "description": "••Generadores que producen trenes de impulsos, es decir, secuencias de impulsos limitados [2006.01]"
+  },
+  {
+    "code": "H03K 3/66",
+    "description": "••••por interrupción de la corriente de salida de un generador [2006.01]"
+  },
+  {
+    "code": "H03K 3/70",
+    "description": "••••••siendo iguales los intervalos de tiempo entre todos los impulsos adyacentes de un tren [2006.01]"
+  },
+  {
+    "code": "H03K 3/72",
+    "description": "••••con medios para hacer variar la frecuencia de repetición de los trenes [2006.01]"
+  },
+  {
+    "code": "H03K 3/78",
+    "description": "••engendrando un tren único de impulsos que tiene una característica predeterminada, p. ej. un número predeterminado [2006.01]"
+  },
+  {
+    "code": "H03K 3/80",
+    "description": "••generando trenes de oscilaciones sinusoidales (por variación o interrupción de las oscilaciones sinusoidales H03C; para la transmisión de información digital H04L) [2006.01]"
+  },
+  {
+    "code": "H03K 3/84",
+    "description": "••Generación de impulsos que tienen una distribución estadística predeterminada de un parámetro, p. ej. generadores de impulsos aleatorios [2006.01]"
+  },
+  {
+    "code": "H03K 3/86",
+    "description": "••Generación de impulsos por medio de líneas de retardo no cubierto por los subgrupos precedentes [2006.01]"
+  },
+  {
+    "code": "H03K 4/00",
+    "description": "Generación de impulsos que tienen como característica esencial una pendiente definida o partes escalonadas [2006.01]"
+  },
+  {
+    "code": "H03K 4/02",
+    "description": "••con partes escalonadas, p. ej. en forma de escalera [2006.01]"
+  },
+  {
+    "code": "H03K 4/04",
+    "description": "••teniendo forma parabólica [2006.01]"
+  },
+  {
+    "code": "H03K 4/06",
+    "description": "••teniendo forma triangular [2006.01]"
+  },
+  {
+    "code": "H03K 4/08",
+    "description": "••••en de diente de sierra [2006.01]"
+  },
+  {
+    "code": "H03K 4/10",
+    "description": "••••••utilizando como elementos activos solamente tubos de descarga [2006.01]"
+  },
+  {
+    "code": "H03K 4/12",
+    "description": "••••••••en donde la tensión en diente de sierra es producida a través de un condensador [2006.01]"
+  },
+  {
+    "code": "H03K 4/14",
+    "description": "••••••••••utilizando dos tubos acoplados de forma que la entrada de cada uno deriva de la salida del otro, p. ej. multivibrador [2006.01]"
+  },
+  {
+    "code": "H03K 4/16",
+    "description": "••••••••••utilizando un solo tubo con realimentación positiva por transformador, p. ej. oscilador de bloqueo [2006.01]"
+  },
+  {
+    "code": "H03K 4/18",
+    "description": "••••••••••utilizando un solo tubo que presenta una resistencia negativa entre dos de sus electrodos, p. ej. transitrón, dinatrón [2006.01]"
+  },
+  {
+    "code": "H03K 4/20",
+    "description": "••••••••••utilizando un tubo con realimentación negativa por condensador, p. ej. integrador Miller [2006.01]"
+  },
+  {
+    "code": "H03K 4/22",
+    "description": "••••••••••••combinado con transitrón, p. ej. fantastrón, sanatrón [2006.01]"
+  },
+  {
+    "code": "H03K 4/24",
+    "description": "••••••••••Generadores \"Bootstrap\" [2006.01]"
+  },
+  {
+    "code": "H03K 4/26",
+    "description": "••••••••en los cuales la corriente en diente de sierra es producida a través de una inductancia [2006.01]"
+  },
+  {
+    "code": "H03K 4/28",
+    "description": "••••••••••utilizando un tubo que funciona como dispositivo de interrupción [2006.01]"
+  },
+  {
+    "code": "H03K 4/32",
+    "description": "••••••••••••combinados con medios para producir los impulsos de control [2006.01]"
+  },
+  {
+    "code": "H03K 4/34",
+    "description": "••••••••••••••utilizando un solo tubo con realimentación positiva por transformador [2006.01]"
+  },
+  {
+    "code": "H03K 4/36",
+    "description": "••••••••••••••utilizando un solo tubo que presenta una resistencia negativa entre dos de sus electrodos, p. ej. transitrón, dinatrón [2006.01]"
+  },
+  {
+    "code": "H03K 4/38",
+    "description": "••••••••••••••••combinado con un integrador de Miller [2006.01]"
+  },
+  {
+    "code": "H03K 4/39",
+    "description": "••••••••••utilizando un tubo que funciona como amplificador [2006.01]"
+  },
+  {
+    "code": "H03K 4/41",
+    "description": "••••••••••••con una realimentación negativa por condensador, p. ej. integrador de Miller [2006.01]"
+  },
+  {
+    "code": "H03K 4/43",
+    "description": "••••••••••••combinado con medios para producir impulsos de control [2006.01]"
+  },
+  {
+    "code": "H03K 4/48",
+    "description": "••••••utilizando como elementos activos dispositivos de semiconductores (H03K 4/787-H03K 4/84 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H03K 4/50",
+    "description": "••••••••en donde la tensión en diente de sierra es producida a través de un condensador [2006.01]"
+  },
+  {
+    "code": "H03K 4/501",
+    "description": "••••••••••estando determinado el inicio del período de retorno por la amplitud a la tensión que atraviesa el condensador, p. ej. por un comparador [2006.01]"
+  },
+  {
+    "code": "H03K 4/502",
+    "description": "••••••••••••estando cargado el condensador por una fuente de corriente constante [2006.01]"
+  },
+  {
+    "code": "H03K 4/52",
+    "description": "••••••••••utilizando dos dispositivos semiconductores acoplados de forma que la entrada de cada uno deriva de la salida del otro, p. ej. multivibrador [2006.01]"
+  },
+  {
+    "code": "H03K 4/54",
+    "description": "••••••••••utilizando un solo dispositivo con realimentación positiva por transformador, p. ej. oscilador de bloqueo [2006.01]"
+  },
+  {
+    "code": "H03K 4/56",
+    "description": "••••••••••utilizando un dispositivo de semiconductores con realimentación negativa por condensador, p. ej. integrador Miller [2006.01]"
+  },
+  {
+    "code": "H03K 4/58",
+    "description": "••••••••••Generadores \"Bootstrap\" [2006.01]"
+  },
+  {
+    "code": "H03K 4/60",
+    "description": "••••••••en donde la corriente en diente de sierra es producida a través de una inductancia [2006.01]"
+  },
+  {
+    "code": "H03K 4/62",
+    "description": "••••••••••utilizando un dispositivo semiconductor que funciona como dispositivo de interrupción [2006.01]"
+  },
+  {
+    "code": "H03K 4/64",
+    "description": "••••••••••••combinado con medios para producir impulsos de control [2006.01]"
+  },
+  {
+    "code": "H03K 4/66",
+    "description": "••••••••••••••utilizando un solo dispositivo con realimentación positiva, p. ej. oscilador de bloqueo [2006.01]"
+  },
+  {
+    "code": "H03K 4/68",
+    "description": "••••••••••••Generadores en los cuales el dispositivo interruptor es conductor durante el tiempo de retorno del ciclo [2006.01]"
+  },
+  {
+    "code": "H03K 4/69",
+    "description": "••••••••••utilizando un dispositivo semiconductor que funciona como amplificador [2006.01]"
+  },
+  {
+    "code": "H03K 4/71",
+    "description": "••••••••••••con una realimentación negativa por condensador, p. ej. integrador de Miller [2006.01]"
+  },
+  {
+    "code": "H03K 4/72",
+    "description": "••••••••••••combinado con medios para producir impulsos de control [2006.01]"
+  },
+  {
+    "code": "H03K 4/787",
+    "description": "••••••utilizando como elementos activos dispositivos semiconductores con dos electrodos y que presentan una característica de resistencia negativa [2006.01]"
+  },
+  {
+    "code": "H03K 4/793",
+    "description": "••••••••utilizando diodos túnel [2006.01]"
+  },
+  {
+    "code": "H03K 4/80",
+    "description": "••••••utilizando como elementos activos diodos multicapas [2006.01]"
+  },
+  {
+    "code": "H03K 4/83",
+    "description": "••••••utilizando como elementos activos dispositivos semiconductores con al menos tres uniones PN, o al menos cuatro electrodos o al menos dos electrodos conectados en la misma región de conductividad [2006.01]"
+  },
+  {
+    "code": "H03K 4/84",
+    "description": "••••••••Generadores en los cuales los dispositivos semiconductores son conductores durante el tiempo de retorno del ciclo [2006.01]"
+  },
+  {
+    "code": "H03K 4/86",
+    "description": "••••••utilizando como elementos activos tubos en atmósfera gaseosa [2006.01]"
+  },
+  {
+    "code": "H03K 4/88",
+    "description": "••••••utilizando como elementos activos elementos electroquímicos [2006.01]"
+  },
+  {
+    "code": "H03K 4/90",
+    "description": "••••••Linealización de pendiente (modificación de las pendientes de los impulsos H03K 6/04; corrección de la distorsión de los receptores de televisión H04N 3/23); Sincronización de impulsos [2006.01]"
+  },
+  {
+    "code": "H03K 4/92",
+    "description": "••con una forma de onda que tiene una porción de senoide (generación de impulsos senoidales H03B) [2006.01]"
+  },
+  {
+    "code": "H03K 4/94",
+    "description": "••de forma trapezoidal [2006.01]"
+  },
+  {
+    "code": "H03K 5/00",
+    "description": "Transformación de impulsos no cubiertos por ninguno de los otros grupos principales de la presente subclase (circuitos de realimentación H03K 3/00, H03K 4/00; utilizando dispositivos magnéticos o eléctricos no lineales H03K 3/45) [2006.01]"
+  },
+  {
+    "code": "H03K 5/003",
+    "description": "••Cambio del nivel de corriente continua (reincorporacion de la componente de corriente continua de una señal de televisión H04N 5/16) [2006.01]"
+  },
+  {
+    "code": "H03K 5/007",
+    "description": "••••Estabilización de la línea de base (aplicación de un umbral H03K 5/08) [2006.01]"
+  },
+  {
+    "code": "H03K 5/01",
+    "description": "••Para dar forma a los impulsos (discriminación del ruido o de las interferencias H03K 5/125) [2006.01]"
+  },
+  {
+    "code": "H03K 5/02",
+    "description": "••••por amplificación (H03K 5/04  tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H03K 5/04",
+    "description": "••••por aumento de la duración; por disminución de la duración [2006.01]"
+  },
+  {
+    "code": "H03K 5/05",
+    "description": "••••••por la utilización de señales de reloj o de otras señales de referencia de tiempos [2006.01]"
+  },
+  {
+    "code": "H03K 5/06",
+    "description": "••••••por la utilización de líneas de retardo o de otros elementos de retardo análogos [2006.01]"
+  },
+  {
+    "code": "H03K 5/07",
+    "description": "••••••por la utilización de circuitos resonantes [2006.01]"
+  },
+  {
+    "code": "H03K 5/08",
+    "description": "••••por limitación, por aplicación de un umbral, por corte, es decir, por aplicación combinada de una limitación y un umbral (H03K 5/07  tiene prioridad; comparación de un impulso con otro H03K 5/22; producción de un umbral determinado para la conmutación H03K 17/30) [2006.01]"
+  },
+  {
+    "code": "H03K 5/12",
+    "description": "••••por rectificación de los bordes de entrada o de salida [2006.01]"
+  },
+  {
+    "code": "H03K 5/125",
+    "description": "••Discriminación de impulsos (características de medición de pulsos individuales G01R 29/02; separación de señales de sincronización en sistemas de televisión H04N 5/08) [2006.01]"
+  },
+  {
+    "code": "H03K 5/1252",
+    "description": "••••Supresión o limitación de ruido o de interferencia (especialmente adaptada para sistemas de transmisión H04B 15/00, H04L 25/08) [2006.01]"
+  },
+  {
+    "code": "H03K 5/1254",
+    "description": "••••••especialmente adaptada para los impulsos generados por el cierre de interruptores, es decir, dispositivos anti-rebote (circuitos anti-rebote para relojes electrónicos G04G 5/00) [2006.01]"
+  },
+  {
+    "code": "H03K 5/13",
+    "description": "••Disposiciones que tienen una salida única y transforman la señal de entrada en impulsos transmitidos en intervalos de tiempo deseados [2014.01]"
+  },
+  {
+    "code": "H03K 5/131",
+    "description": "••••Control digital [2014.01]"
+  },
+  {
+    "code": "H03K 5/133",
+    "description": "••••utilizando una cadena de dispositivos de retardo activa [2014.01]"
+  },
+  {
+    "code": "H03K 5/134",
+    "description": "••••••con transistores de efecto de campo [2014.01]"
+  },
+  {
+    "code": "H03K 5/135",
+    "description": "••••por la utilización de señales de referencia de tiempo, p. ej. señales de reloj [2006.01]"
+  },
+  {
+    "code": "H03K 5/14",
+    "description": "••••por la utilización de líneas de retardo (H03K 5/133  tiene prioridad) [2014.01]"
+  },
+  {
+    "code": "H03K 5/145",
+    "description": "••••por la utilización de circuitos resonantes [2006.01]"
+  },
+  {
+    "code": "H03K 5/15",
+    "description": "••Disposiciones en las que los impulsos son suministrados en varias salidas en instantes diferentes, es decir, distribuidores de impulsos (dispositivos de distribución, de conmutación o de apertura de puertas H03K 17/00) [2006.01]"
+  },
+  {
+    "code": "H03K 5/151",
+    "description": "••••con dos salidas complementarias [2006.01]"
+  },
+  {
+    "code": "H03K 5/153",
+    "description": "••Dispositivos en los que un impulso es suministrado en el instante en que una característica predeterminada de un umbral de entrada se presenta, o después de un intervalo de tiempo fijado a continuación de ese instante (conmutación en el paso por cero H03K 17/13) [2006.01]"
+  },
+  {
+    "code": "H03K 5/1532",
+    "description": "••••Detectores de pico (medida de las características de impulsos individuales G01R 29/02) [2006.01]"
+  },
+  {
+    "code": "H03K 5/1534",
+    "description": "••••Detectores de transición o de frente [2006.01]"
+  },
+  {
+    "code": "H03K 5/1536",
+    "description": "••••Detectores de paso por cero (en circuitos de medida G01R 19/175) [2006.01]"
+  },
+  {
+    "code": "H03K 5/156",
+    "description": "••Disposiciones en las cuales un tren de impulsos es transformado en un tren que tiene una característica deseada [2006.01]"
+  },
+  {
+    "code": "H03K 5/159",
+    "description": "••Aplicaciones de líneas de retardo no cubiertas por los subgrupos precedentes [2006.01]"
+  },
+  {
+    "code": "H03K 5/19",
+    "description": "••Control de la configuración de trenes de impulsos (indicación de la amplitud G01R 19/00; indicación de la frecuencia G01R 23/00; medida de las características de impulsos individuales G01R 29/02) [2006.01]"
+  },
+  {
+    "code": "H03K 5/22",
+    "description": "••Circuitos que presentan varias entradas y una salida para comparar impulsos o trenes de impulsos entre ellos en lo que concierne a ciertas características de la señal de entrada, p. ej. la pendiente, la integral (indicación del desfase entre dos trenes de impulsos periódicos G01R 25/00) [2006.01]"
+  },
+  {
+    "code": "H03K 5/24",
+    "description": "••••siendo la característica la amplitud [2006.01]"
+  },
+  {
+    "code": "H03K 5/26",
+    "description": "••••siendo la característica la duración, el intervalo, la posición, la frecuencia o la secuencia [2006.01]"
+  },
+  {
+    "code": "H03K 6/00",
+    "description": "Transformación de impulsos de pendiente definida y no cubierta por ninguno de los otros grupos principales de la presente subclase (circuitos de realimentación H03K 4/00) [2006.01]"
+  },
+  {
+    "code": "H03K 6/02",
+    "description": "••Amplificación de impulsos [2006.01]"
+  },
+  {
+    "code": "H03K 6/04",
+    "description": "••Modificación de las pendientes de los impulsos, p. ej. corrección de la distorsión en S (corrección de la distorsión en S para la televisión H04N 3/23) [2006.01]"
+  },
+  {
+    "code": "H03K 7/00",
+    "description": "Modulación de impulsos por una señal moduladora de variación continua [2006.01]"
+  },
+  {
+    "code": "H03K 7/02",
+    "description": "••Modulación de amplitud, es decir, PAM [2006.01]"
+  },
+  {
+    "code": "H03K 7/04",
+    "description": "••Modulación de posición, es decir, PPM [2006.01]"
+  },
+  {
+    "code": "H03K 7/06",
+    "description": "••Modulación de frecuencia o de velocidad, es decir PFM o PRM [2006.01]"
+  },
+  {
+    "code": "H03K 7/08",
+    "description": "••Modulación de duración o de anchura [2006.01]"
+  },
+  {
+    "code": "H03K 7/10",
+    "description": "••Modulación combinada, p. ej. modulación de velocidad y modulación de amplitud [2006.01]"
+  },
+  {
+    "code": "H03K 9/00",
+    "description": "Demodulación de impulsos los cuales han sido modulados con una señal de variación continua [2006.01]"
+  },
+  {
+    "code": "H03K 9/02",
+    "description": "••de impulsos modulados en amplitud [2006.01]"
+  },
+  {
+    "code": "H03K 9/04",
+    "description": "••de impulsos modulados en posición [2006.01]"
+  },
+  {
+    "code": "H03K 9/06",
+    "description": "••de impulsos modulados en frecuencia o en velocidad [2006.01]"
+  },
+  {
+    "code": "H03K 9/08",
+    "description": "••de impulsos modulados en duración o en anchura [2006.01]"
+  },
+  {
+    "code": "H03K 9/10",
+    "description": "••de impulsos que tienen modulación combinada [2006.01]"
+  },
+  {
+    "code": "H03K 11/00",
+    "description": "Transformación de los tipos de modulación, p. ej. transformación de impulsos modulados en posición en impulsos modulados en duración [2006.01]"
+  },
+  {
+    "code": "H03K 12/00",
+    "description": "Producción de impulsos por distorsión o combinación de ondas sinusoidales (configuración de los impulsos H03K 5/01; combinación de ondas sinusoidales que utilizan elementos que funcionan de manera no conmutativa H03B 21/00) [2006.01]"
+  },
+  {
+    "code": "H03K 17/00",
+    "description": "Conmutación o apertura de puerta electrónica, es decir, por otros medios distintos al cierre y apertura de contactos (amplificadores controlados H03F 3/72; disposiciones de conmutación para los sistemas de centrales que utilizan dispositivos estáticos H04Q 3/52) [2006.01]"
+  },
+  {
+    "code": "H03K 17/04",
+    "description": "••Modificaciones para acelerar la conmutación [2006.01]"
+  },
+  {
+    "code": "H03K 17/041",
+    "description": "••••sin retroacción del circuito de salida hacia el circuito de control [2006.01]"
+  },
+  {
+    "code": "H03K 17/0412",
+    "description": "••••••por medidas dispuestas en el circuito de control [2006.01]"
+  },
+  {
+    "code": "H03K 17/0414",
+    "description": "••••••••Medidas contra la saturación [2006.01]"
+  },
+  {
+    "code": "H03K 17/0416",
+    "description": "••••••por medidas dispuestas en el circuito de salida [2006.01]"
+  },
+  {
+    "code": "H03K 17/042",
+    "description": "••••por retroacción del circuito de salida hacia el circuito de control [2006.01]"
+  },
+  {
+    "code": "H03K 17/0422",
+    "description": "••••••Medidas contra la saturación [2006.01]"
+  },
+  {
+    "code": "H03K 17/0424",
+    "description": "••••••por la utilización de un transformador [2006.01]"
+  },
+  {
+    "code": "H03K 17/06",
+    "description": "••Modificaciones para asegurar un estado completamente conductor [2006.01]"
+  },
+  {
+    "code": "H03K 17/08",
+    "description": "••Modificaciones para proteger el circuito de conmutación contra la sobreintensidad o sobretensión [2006.01]"
+  },
+  {
+    "code": "H03K 17/081",
+    "description": "••••sin retroacción del circuito de salida hacia el circuito de control [2006.01]"
+  },
+  {
+    "code": "H03K 17/0812",
+    "description": "••••••por medidas tomadas en el circuito de control [2006.01]"
+  },
+  {
+    "code": "H03K 17/0814",
+    "description": "••••••por medidas tomadas en el circuito de salida [2006.01]"
+  },
+  {
+    "code": "H03K 17/082",
+    "description": "••••por retroacción del circuito de salida hacia el circuito de control [2006.01]"
+  },
+  {
+    "code": "H03K 17/10",
+    "description": "••Modificaciones para aumentar la tensión conmutada máxima admisible [2006.01]"
+  },
+  {
+    "code": "H03K 17/12",
+    "description": "••Modificaciones para aumentar la corriente conmutada máxima admisible [2006.01]"
+  },
+  {
+    "code": "H03K 17/13",
+    "description": "••Modificaciones para conmutar en el momento del paso por cero (producción de un impulso en el momento del paso por cero H03K 5/1536) [2006.01]"
+  },
+  {
+    "code": "H03K 17/14",
+    "description": "••Modificaciones para compensar las variaciones de valores físicos, p. ej. de la temperatura [2006.01]"
+  },
+  {
+    "code": "H03K 17/16",
+    "description": "••Modificaciones para eliminar las tensiones o corrientes parásitas [2006.01]"
+  },
+  {
+    "code": "H03K 17/18",
+    "description": "••Modificaciones para indicar el estado de un conmutador [2006.01]"
+  },
+  {
+    "code": "H03K 17/20",
+    "description": "••Modificaciones para restablecer los órganos de conmutación con núcleo a un estado predeterminado [2006.01]"
+  },
+  {
+    "code": "H03K 17/22",
+    "description": "••Modificaciones para asegurar un estado inicial predeterminado cuando la tensión de alimentación ha sido aplicada (generadores biestables H03K 3/12) [2006.01]"
+  },
+  {
+    "code": "H03K 17/24",
+    "description": "••••almacenando en memoria el estado real cuando la tensión de alimentación es defectuosa [2006.01]"
+  },
+  {
+    "code": "H03K 17/26",
+    "description": "••Modificaciones para asegurar un blocaje temporal después de la recepción de impulsos de control [2006.01]"
+  },
+  {
+    "code": "H03K 17/28",
+    "description": "••Modificaciones para introducir un retardo antes de la conmutación (interruptores de programa que permiten una elección de intervalos de tiempo para ejecutar varias operaciones de conmutación H03K 17/296) [2006.01]"
+  },
+  {
+    "code": "H03K 17/284",
+    "description": "••••en los conmutadores de transistores con efecto de campo [2006.01]"
+  },
+  {
+    "code": "H03K 17/288",
+    "description": "••••en los conmutadores de tubos [2006.01]"
+  },
+  {
+    "code": "H03K 17/292",
+    "description": "••••en los conmutadores de tiristor, de transistor uniunión o de transistor uniunión programable [2006.01]"
+  },
+  {
+    "code": "H03K 17/296",
+    "description": "••Modificaciones para permitir una elección de intervalos de tiempo para ejecutar varias operaciones de conmutación y que paran automáticamente su funcionamiento cuando el programa ha terminado (relojes electrónicos con medios destinados a ser accionados en instantes elegidos de antemano o después de intervalos de tiempo predeterminados G04G 15/00) [2006.01]"
+  },
+  {
+    "code": "H03K 17/30",
+    "description": "••Modificaciones para suministrar un umbral predeterminado antes de la conmutación (formación de impulsos por aplicación de un umbral H03K 5/08) [2006.01]"
+  },
+  {
+    "code": "H03K 17/51",
+    "description": "••caracterizada por la utilización de componentes específicos (H03K 17/04-H03K 17/30, H03K 17/94 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H03K 17/52",
+    "description": "••••por la utilización, como elementos activos, de tubos de atmósfera gaseosa [2006.01]"
+  },
+  {
+    "code": "H03K 17/54",
+    "description": "••••por la utilización, como elementos activos, de tubos de vacío (utilizando diodos H03K 17/74) [2006.01]"
+  },
+  {
+    "code": "H03K 17/56",
+    "description": "••••por la utilización, como elementos activos, de dispositivos semiconductores (utilizando diodos H03K 17/74) [2006.01]"
+  },
+  {
+    "code": "H03K 17/567",
+    "description": "••••••Circuitos caracterizados por la utilización de al menos dos tipos de dispositivos semiconductores, p. ej. BIMOS, dispositivos compuestos tales como IGBT [2006.01]"
+  },
+  {
+    "code": "H03K 17/58",
+    "description": "••••••siendo los dispositivos diodos túnel [2006.01]"
+  },
+  {
+    "code": "H03K 17/60",
+    "description": "••••••siendo los dispositivos transistores bipolares (transistores bipolares con al menos cuatro electrodos H03K 17/72) [2006.01]"
+  },
+  {
+    "code": "H03K 17/605",
+    "description": "••••••••con aislamiento galvánico entre el circuito de control y el circuito de salida (H03K 17/78 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H03K 17/61",
+    "description": "••••••••••utilizando un acoplamiento por transformador [2006.01]"
+  },
+  {
+    "code": "H03K 17/615",
+    "description": "••••••••en una configuración Darlington [2006.01]"
+  },
+  {
+    "code": "H03K 17/62",
+    "description": "••••••••Dispositivos de conmutación que tienen varios bornes de entrada y de salida, p. ej. multiplexores, distribuidores (circuitos lógicos H03K 19/00; convertidores de código H03M 5/00, H03M 7/00) [2006.01]"
+  },
+  {
+    "code": "H03K 17/64",
+    "description": "••••••••con cargas inductivas [2006.01]"
+  },
+  {
+    "code": "H03K 17/66",
+    "description": "••••••••Dispositivos de conmutación para pasar la corriente en una u otra dirección a voluntad; Dispositivos de conmutación para invertir el sentido de la corriente a voluntad [2006.01]"
+  },
+  {
+    "code": "H03K 17/68",
+    "description": "••••••••especialmente adaptados para conmutar corrientes o tensiones alternas [2006.01]"
+  },
+  {
+    "code": "H03K 17/687",
+    "description": "••••••siendo los dispositivos transistores de efecto de campo [2006.01]"
+  },
+  {
+    "code": "H03K 17/689",
+    "description": "••••••••con aislamiento galvánico entre el circuito de control y el circuito de salida (H03K 17/78 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H03K 17/691",
+    "description": "••••••••••utilizando un acoplamiento por transformador [2006.01]"
+  },
+  {
+    "code": "H03K 17/693",
+    "description": "••••••••Dispositivos de conmutación que tienen varios bornes de entrada y de salida, p. ej. multiplexores, distribuidores (circuitos lógicos H03K 19/00; convertidores de código H03M 5/00, H03M 7/00) [2006.01]"
+  },
+  {
+    "code": "H03K 17/695",
+    "description": "••••••••con cargas inductivas (protección de los circuitos de conmutación contra una tensión inducida por el ciclo de retorno H03K 17/08) [2006.01]"
+  },
+  {
+    "code": "H03K 17/70",
+    "description": "••••••con sólo dos electrodos y presentando una resistencia negativa (utilizando diodos túnel H03K 17/58) [2006.01]"
+  },
+  {
+    "code": "H03K 17/72",
+    "description": "••••••Dispositivos semiconductores bipolares con al menos tres uniones PN, p. ej. tiristores, transistores uniunión programables, o con al menos cuatro electrodos, p. ej. conmutadores controlados por silicio, o con dos electrodos conectados a la misma región de conductividad, p. ej. transistores uniunión [2006.01]"
+  },
+  {
+    "code": "H03K 17/722",
+    "description": "••••••••con aislamiento galvánico entre el circuito de control y el circuito de salida (H03K 17/78 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H03K 17/723",
+    "description": "••••••••••utilizando un acoplamiento por transformador [2006.01]"
+  },
+  {
+    "code": "H03K 17/725",
+    "description": "••••••••para tensiones o corrientes alternas (H03K 17/722, H03K 17/735 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H03K 17/73",
+    "description": "••••••••para tensiones o corrientes continuas (H03K 17/722, H03K 17/735 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H03K 17/732",
+    "description": "••••••••••Medidas para permitir el bloqueo [2006.01]"
+  },
+  {
+    "code": "H03K 17/735",
+    "description": "••••••••Dispositivos de conmutación que tienen varios bornes de entrada y de salida, p. ej. multiplexores, distribuidores (H03K 17/722 tiene prioridad; circuitos lógicos H03K 19/00; convertidores de código H03M 5/00, H03M 7/00) [2006.01]"
+  },
+  {
+    "code": "H03K 17/74",
+    "description": "••••por la utilización, como elemento activo, de diodos (por la utilización, de al menos dos tipos de dispositivos semiconductores H03K 17/567; por la utilización de diodos túnel H03K 17/58; por la utilización de diodos de resistencia negativa H03K 17/70) [2006.01]"
+  },
+  {
+    "code": "H03K 17/76",
+    "description": "••••••Dispositivos de conmutación que tienen varios bornes de entrada y de salida, p. ej. multiplexores, distribuidores (circuitos lógicos H03K 19/00; convertidores de código H03M 5/00, H03M 7/00) [2006.01]"
+  },
+  {
+    "code": "H03K 17/78",
+    "description": "••••por la utilización, como elementos activos, de dispositivos opto-electrónicos, es decir, dispositivos emisores de luz y dispositivos fotoeléctricos acoplados eléctrica u ópticamente [2006.01]"
+  },
+  {
+    "code": "H03K 17/785",
+    "description": "••••••controlando conmutadores de transistores de efecto de campo [2006.01]"
+  },
+  {
+    "code": "H03K 17/79",
+    "description": "••••••controlando conmutadores de semiconductores con al menos tres uniones PN o al menos cuatro electrodos, o al menos dos electrodos conectados a la misma región de conductividad [2006.01]"
+  },
+  {
+    "code": "H03K 17/795",
+    "description": "••••••controlando transistores bipolares [2006.01]"
+  },
+  {
+    "code": "H03K 17/80",
+    "description": "••••por la utilización, como elementos activos, de dispositivos magnéticos o dieléctricos no lineales [2006.01]"
+  },
+  {
+    "code": "H03K 17/81",
+    "description": "••••••Dispositivos de conmutación que tienen varios bornes de entrada y de salida, p. ej. multiplexores, distribuidores (circuitos lógicos H03K 19/00; convertidores de código H03M 5/00, H03M 7/00) [2006.01]"
+  },
+  {
+    "code": "H03K 17/82",
+    "description": "••••••siendo los dispositivos transfluxores [2006.01]"
+  },
+  {
+    "code": "H03K 17/84",
+    "description": "••••••siendo los dispositivos de película delgada [2006.01]"
+  },
+  {
+    "code": "H03K 17/86",
+    "description": "••••••siendo los dispositivos \"twistors\" [2006.01]"
+  },
+  {
+    "code": "H03K 17/88",
+    "description": "••••por la utilización, como elementos activos, de tubos de desviación de haz [2006.01]"
+  },
+  {
+    "code": "H03K 17/90",
+    "description": "••••por la utilización, como elementos activos, de dispositivos galvanomagnéticos, p. ej. dispositivos de efecto Hall (H03K 17/95, H03K 17/97 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H03K 17/92",
+    "description": "••••por la utilización, como elementos activos, de dispositivos superconductores [2006.01]"
+  },
+  {
+    "code": "H03K 17/94",
+    "description": "••caracterizado por la manera en que son producidas las señales de control [2006.01]"
+  },
+  {
+    "code": "H03K 17/945",
+    "description": "••••Conmutadores de proximidad (H03K 17/96 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H03K 17/95",
+    "description": "••••••utilizando un detector magnético [2006.01]"
+  },
+  {
+    "code": "H03K 17/955",
+    "description": "••••••utilizando un detector capacitivo [2006.01]"
+  },
+  {
+    "code": "H03K 17/96",
+    "description": "••••Conmutadores de contacto (especialmente adaptados para su uso en relojes electrónicos sin partes móviles G04G 21/08) [2006.01]"
+  },
+  {
+    "code": "H03K 17/965",
+    "description": "••••Conmutadores accionados por el desplazamiento de un elemento incorporado en el conmutador [2006.01]"
+  },
+  {
+    "code": "H03K 17/967",
+    "description": "••••••que tienen una pluralidad de elementos de control, p. ej. teclados (H03K 17/969, H03K 17/972, H03K 17/98 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H03K 17/968",
+    "description": "••••••que utilizan dispositivos optoelectrónicos [2006.01]"
+  },
+  {
+    "code": "H03K 17/969",
+    "description": "••••••••que tienen una pluralidad de elementos de control, p. ej. teclados [2006.01]"
+  },
+  {
+    "code": "H03K 17/97",
+    "description": "••••••utilizando un elemento móvil magnético [2006.01]"
+  },
+  {
+    "code": "H03K 17/972",
+    "description": "••••••••que tienen una pluralidad de elementos de control, p. ej. teclados [2006.01]"
+  },
+  {
+    "code": "H03K 17/975",
+    "description": "••••••utilizando un elemento móvil capacitivo [2006.01]"
+  },
+  {
+    "code": "H03K 17/98",
+    "description": "••••••••que tienen una pluralidad de elementos de control, p. ej. teclados [2006.01]"
+  },
+  {
+    "code": "H03K 19/00",
+    "description": "Circuitos lógicos, es decir, teniendo al menos dos entradas que actúan sobre una salida (circuitos para sistemas de computadores que utilizan la lógica difusa G06N 7/02); Circuitos de inversión [2006.01]"
+  },
+  {
+    "code": "H03K 19/003",
+    "description": "••Modificaciones para aumentar la fiabilidad [2006.01]"
+  },
+  {
+    "code": "H03K 19/007",
+    "description": "••Circuitos que afirman la seguridad en caso de defecto [2006.01]"
+  },
+  {
+    "code": "H03K 19/01",
+    "description": "••Modificaciones para acelerar la conmutación [2006.01]"
+  },
+  {
+    "code": "H03K 19/013",
+    "description": "••••en los circuitos de transistor bipolar [2006.01]"
+  },
+  {
+    "code": "H03K 19/017",
+    "description": "••••en los circuitos de transistor de efecto de campo [2006.01]"
+  },
+  {
+    "code": "H03K 19/0175",
+    "description": "••Disposiciones para el acoplamiento; Disposiciones para la interfase (disposiciones para la interfase para computadores digitales G06F 3/00, G06F 13/00) [2006.01]"
+  },
+  {
+    "code": "H03K 19/018",
+    "description": "••••utilizando únicamente transistores bipolares [2006.01]"
+  },
+  {
+    "code": "H03K 19/0185",
+    "description": "••••utilizando únicamente transistores de efecto de campo [2006.01]"
+  },
+  {
+    "code": "H03K 19/02",
+    "description": "••que utilizan componentes específicos (H03K 19/003-H03K 19/0175 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H03K 19/04",
+    "description": "••••utilizando tubos de gas [2006.01]"
+  },
+  {
+    "code": "H03K 19/06",
+    "description": "••••utilizando tubos de vacío (utilizando rectificadores con diodos H03K 19/12) [2006.01]"
+  },
+  {
+    "code": "H03K 19/08",
+    "description": "••••utilizando dispositivos semiconductores (H03K 19/173 tiene prioridad; en los que los dispositivos semiconductores son exclusivamente rectificadores de diodos H03K 19/12) [2006.01]"
+  },
+  {
+    "code": "H03K 19/082",
+    "description": "••••••utilizando transistores bipolares [2006.01]"
+  },
+  {
+    "code": "H03K 19/084",
+    "description": "••••••••Lógica diodo-transistor [2006.01]"
+  },
+  {
+    "code": "H03K 19/086",
+    "description": "••••••••Lógica de acoplamiento por el emisor [2006.01]"
+  },
+  {
+    "code": "H03K 19/088",
+    "description": "••••••••Lógica transistor-transistor [2006.01]"
+  },
+  {
+    "code": "H03K 19/09",
+    "description": "••••••••Lógica resistencia – transistor [2006.01]"
+  },
+  {
+    "code": "H03K 19/091",
+    "description": "••••••••Lógica de inyección integrada [2006.01]"
+  },
+  {
+    "code": "H03K 19/094",
+    "description": "••••••utilizando transistores de efecto de campo [2006.01]"
+  },
+  {
+    "code": "H03K 19/0944",
+    "description": "••••••••utilizando transistores MOSFET (H03K 19/096 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H03K 19/0948",
+    "description": "••••••••••utilizando dispositivos CMOS [2006.01]"
+  },
+  {
+    "code": "H03K 19/0952",
+    "description": "••••••••utilizando transistores FET de tipo Schottky (H03K 19/096 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H03K 19/0956",
+    "description": "••••••••Lógica de transistores FET y de diodos Schottky (H03K 19/096 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H03K 19/096",
+    "description": "••••••••Circuitos síncronos, es decir, circuitos que utilizan señales de reloj [2006.01]"
+  },
+  {
+    "code": "H03K 19/098",
+    "description": "••••••utilizando tiristores [2006.01]"
+  },
+  {
+    "code": "H03K 19/10",
+    "description": "••••••utilizando diodos túnel [2006.01]"
+  },
+  {
+    "code": "H03K 19/12",
+    "description": "••••utilizando rectificadores de diodo [2006.01]"
+  },
+  {
+    "code": "H03K 19/14",
+    "description": "••••utilizando dispositivos optoelectrónicos, es decir, dispositivos emisores de luz y dispositivos fotoeléctricos acoplados eléctrica u ópticamente (elementos ópticos lógicos G02F 3/00) [2006.01]"
+  },
+  {
+    "code": "H03K 19/16",
+    "description": "••••utilizando dispositivos magnéticos saturables [2006.01]"
+  },
+  {
+    "code": "H03K 19/162",
+    "description": "••••••utilizando parametrones [2006.01]"
+  },
+  {
+    "code": "H03K 19/164",
+    "description": "••••••utilizando dispositivos ferrorresonantes [2006.01]"
+  },
+  {
+    "code": "H03K 19/166",
+    "description": "••••••utilizando transfluxores [2006.01]"
+  },
+  {
+    "code": "H03K 19/168",
+    "description": "••••••utilizando dispositivos de película delgada [2006.01]"
+  },
+  {
+    "code": "H03K 19/17",
+    "description": "••••utilizando \"twistors\" [2006.01]"
+  },
+  {
+    "code": "H03K 19/173",
+    "description": "••••utilizando circuitos lógicos elementales como componentes [2006.01]"
+  },
+  {
+    "code": "H03K 19/177",
+    "description": "••••••dispuestos en forma matricial [2020.01]"
+  },
+  {
+    "code": "H03K 19/17704",
+    "description": "••••••••donde las funciones lógicas se realizan mediante la interconexión de filas y columnas [2020.01]"
+  },
+  {
+    "code": "H03K 19/17724",
+    "description": "••••••••Partes constitutivas estructurales de los bloques lógicos [2020.01]"
+  },
+  {
+    "code": "H03K 19/17728",
+    "description": "••••••••••Bloques lógicos reconfigurables, p. ej. tablas de consulta [2020.01]"
+  },
+  {
+    "code": "H03K 19/17732",
+    "description": "••••••••••Macrobloques [2020.01]"
+  },
+  {
+    "code": "H03K 19/17736",
+    "description": "••••••••Partes constitutivas estructurales de los recursos de enrutamiento [2020.01]"
+  },
+  {
+    "code": "H03K 19/17748",
+    "description": "••••••••Partes constitutivas estructurales de los recursos de configuración [2020.01]"
+  },
+  {
+    "code": "H03K 19/17752",
+    "description": "••••••••••para reconfiguración en caliente [2020.01]"
+  },
+  {
+    "code": "H03K 19/17756",
+    "description": "••••••••••para configuración parcial o reconfiguración parcial [2020.01]"
+  },
+  {
+    "code": "H03K 19/17758",
+    "description": "••••••••••para acelerar la configuración o reconfiguración [2020.01]"
+  },
+  {
+    "code": "H03K 19/1776",
+    "description": "••••••••••para las memorias [2020.01]"
+  },
+  {
+    "code": "H03K 19/17764",
+    "description": "••••••••••para la fiabilidad [2020.01]"
+  },
+  {
+    "code": "H03K 19/17768",
+    "description": "••••••••••para la seguridad [2020.01]"
+  },
+  {
+    "code": "H03K 19/17772",
+    "description": "••••••••••para el encendido o apagado [2020.01]"
+  },
+  {
+    "code": "H03K 19/1778",
+    "description": "••••••••Partes constitutivas estructurales para la adaptación de los parámetros físicos [2020.01]"
+  },
+  {
+    "code": "H03K 19/17784",
+    "description": "••••••••••para la tensión de alimentación [2020.01]"
+  },
+  {
+    "code": "H03K 19/17788",
+    "description": "••••••••••para las tensiones de entrada/salida [I/O] [2020.01]"
+  },
+  {
+    "code": "H03K 19/17792",
+    "description": "••••••••••para la velocidad de funcionamiento [2020.01]"
+  },
+  {
+    "code": "H03K 19/17796",
+    "description": "••••••••••para la disposición física de los bloques [2020.01]"
+  },
+  {
+    "code": "H03K 19/18",
+    "description": "••••utilizando dispositivos galvanomagnéticos, p. ej. dispositivos de efecto Hall [2006.01]"
+  },
+  {
+    "code": "H03K 19/185",
+    "description": "••••utilizando elementos dieléctricos con una constante dieléctrica variable, p. ej. condensadores ferroeléctricos [2006.01]"
+  },
+  {
+    "code": "H03K 19/19",
+    "description": "••••••utilizando dispositivos ferrorresonantes [2006.01]"
+  },
+  {
+    "code": "H03K 19/195",
+    "description": "••••utilizando dispositivos superconductores [2006.01]"
+  },
+  {
+    "code": "H03K 19/20",
+    "description": "••caracterizados por la función lógica, p. ej. circuitos Y, O, NI, NO (H03K 19/003-H03K 19/01 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H03K 19/21",
+    "description": "••••Circuitos O EXCLUSIVO, es decir, que dan una señal de salida si existe una sola señal de entrada; Circuitos de COINCIDENCIA, es decir, dan una señal de salida si todas las señales de entrada son idénticas [2006.01]"
+  },
+  {
+    "code": "H03K 19/23",
+    "description": "••••Circuitos de mayoría o de minoría, es decir, que dan una señal de salida cuando el estado es el de la mayoría o minoría de las señales de entrada [2006.01]"
+  },
+  {
+    "code": "H03K 21/00",
+    "description": "Detalles de contadores de impulsos o de divisores de frecuencia [2006.01]"
+  },
+  {
+    "code": "H03K 21/02",
+    "description": "••Circuitos de entrada [2006.01]"
+  },
+  {
+    "code": "H03K 21/08",
+    "description": "••Circuitos de salida [2006.01]"
+  },
+  {
+    "code": "H03K 21/10",
+    "description": "••••comprendiendo circuitos lógicos [2006.01]"
+  },
+  {
+    "code": "H03K 21/12",
+    "description": "••••con lectura en paralelo [2006.01]"
+  },
+  {
+    "code": "H03K 21/14",
+    "description": "••••con lectura en serie del número en memoria [2006.01]"
+  },
+  {
+    "code": "H03K 21/16",
+    "description": "••Circuitos para transportar impulsos entre décadas sucesivas [2006.01]"
+  },
+  {
+    "code": "H03K 21/17",
+    "description": "••••con transistores de efecto de campo [2006.01]"
+  },
+  {
+    "code": "H03K 21/18",
+    "description": "••Circuitos para dar una indicación visual del resultado [2006.01]"
+  },
+  {
+    "code": "H03K 21/20",
+    "description": "••••utilizando lámparas de descarga luminosa [2006.01]"
+  },
+  {
+    "code": "H03K 21/38",
+    "description": "••Arranque, parada o vuelta a un valor inicial del contador (contadores con una base distinta de una potencia de dos H03K 23/48, H03K 23/66) [2006.01]"
+  },
+  {
+    "code": "H03K 21/40",
+    "description": "••Vigilancia; Detección de errores; Evitación o corrección del funcionamiento incorrecto del contador [2006.01]"
+  },
+  {
+    "code": "H03K 23/00",
+    "description": "Contadores de impulsos que comprenden cadenas de cómputo; Divisores de frecuencia que comprenden cadenas de cómputo (H03K 29/00 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H03K 23/40",
+    "description": "••Señales de apertura de puerta o de reloj aplicadas a todas las etapas, es decir, contadores síncronos [2006.01]"
+  },
+  {
+    "code": "H03K 23/42",
+    "description": "••••Señales desfasadas de apertura de puerta o de reloj aplicadas a las etapas de contado [2006.01]"
+  },
+  {
+    "code": "H03K 23/44",
+    "description": "••••••utilizando transistores de efecto de campo [2006.01]"
+  },
+  {
+    "code": "H03K 23/46",
+    "description": "••••••utilizando dispositivos de transferencia de carga, es decir, elementos de series o dispositivos de acoplamiento de carga [2006.01]"
+  },
+  {
+    "code": "H03K 23/48",
+    "description": "••••con una base o raíz diferente de una potencia de dos (H03K 23/42 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H03K 23/50",
+    "description": "••••utilizando circuitos desconectadores biestables a reacción (H03K 23/42-H03K 23/48 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H03K 23/52",
+    "description": "••••••utilizando transistores de efecto de campo [2006.01]"
+  },
+  {
+    "code": "H03K 23/54",
+    "description": "••••••Contadores anulares, es decir, contadores con registro de desplazamiento con retroacción (H03K 23/52 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H03K 23/56",
+    "description": "••••••Contadores reversibles (H03K 23/52 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H03K 23/58",
+    "description": "••Señales de apertura de puerta o de reloj no aplicados a todas las etapas, es decir, contadores asíncronos (H03K 23/74-H03K 23/84 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H03K 23/60",
+    "description": "••••con transistores de efecto de campo [2006.01]"
+  },
+  {
+    "code": "H03K 23/62",
+    "description": "••••reversibles [2006.01]"
+  },
+  {
+    "code": "H03K 23/64",
+    "description": "••con una base o raíz diferente de una potencia de dos (H03K 23/40-H03K 23/62 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H03K 23/66",
+    "description": "••••con una base de conteo variable, p. ej. por preajuste o por adición o supresión de impulsos [2006.01]"
+  },
+  {
+    "code": "H03K 23/68",
+    "description": "••••con una base diferente de un número entero [2006.01]"
+  },
+  {
+    "code": "H03K 23/70",
+    "description": "••••con una base que es un número impar (H03K 23/66 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H03K 23/72",
+    "description": "••••Contadores de décadas (H03K 23/66 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H03K 23/74",
+    "description": "••que utilizan relés [2006.01]"
+  },
+  {
+    "code": "H03K 23/76",
+    "description": "••que utilizan núcleos magnéticos o condensadores ferroeléctricos [2006.01]"
+  },
+  {
+    "code": "H03K 23/78",
+    "description": "••que utilizan dispositivos optoelectrónicos [2006.01]"
+  },
+  {
+    "code": "H03K 23/80",
+    "description": "••que utilizan dispositivos semiconductores que tienen dos electrodos solamente, p. ej. diodo túnel, diodo de varias capas [2006.01]"
+  },
+  {
+    "code": "H03K 23/82",
+    "description": "••que utilizan tubos de gas [2006.01]"
+  },
+  {
+    "code": "H03K 23/84",
+    "description": "••que utilizan tiristores o transistores de unión [2006.01]"
+  },
+  {
+    "code": "H03K 23/86",
+    "description": "••reversibles (H03K 23/40-H03K 23/84 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H03K 25/00",
+    "description": "Contadores de impulsos con integración paso a paso y acumulación estática; Divisores de frecuencia análogos [2006.01]"
+  },
+  {
+    "code": "H03K 25/02",
+    "description": "••comprendiendo una acumulación de carga, p. ej. condensador sin histéresis de polarización [2006.01]"
+  },
+  {
+    "code": "H03K 25/04",
+    "description": "••••utilizando un generador de impulsos auxiliar que se dispara por los impulsos incidentes [2006.01]"
+  },
+  {
+    "code": "H03K 25/12",
+    "description": "••comprendiendo una acumulación de histéresis [2006.01]"
+  },
+  {
+    "code": "H03K 27/00",
+    "description": "Contadores de impulsos en los cuales los impulsos circulan continuamente en bucle cerrado; Divisores de frecuencia análogos (contadores con registro de desplazamiento con retroacción H03K 23/54) [2006.01]"
+  },
+  {
+    "code": "H03K 29/00",
+    "description": "Contadores de impulsos que comprenden elementos multiestables, p. ej. para escala ternaria, para escala decimal; Divisores de frecuencia análogos [2006.01]"
+  },
+  {
+    "code": "H03K 29/04",
+    "description": "••utilizando tubos de descarga en gases de varios cátodos [2006.01]"
+  },
+  {
+    "code": "H03K 29/06",
+    "description": "••utilizando tubos del tipo de haz, p. ej. magnetrones, tubos de rayos catódicos [2006.01]"
+  },
+  {
+    "code": "H03K 99/00",
+    "description": "Materia no prevista en otros grupos de esta subclase [2013.01]"
+  }
+]

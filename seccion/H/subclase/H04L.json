@@ -1,0 +1,3006 @@
+[
+  {
+    "code": "H04L 1/00",
+    "description": "Disposiciones para detectar o evitar errores en la información recibida [2006.01]"
+  },
+  {
+    "code": "H04L 1/02",
+    "description": "••por recepción en diversidad [2006.01]"
+  },
+  {
+    "code": "H04L 1/04",
+    "description": "••••utilizando diversidad de frecuencia [2006.01]"
+  },
+  {
+    "code": "H04L 1/06",
+    "description": "••••utilizando diversidad de espacio [2006.01]"
+  },
+  {
+    "code": "H04L 1/08",
+    "description": "••por emisión repetida, p. ej. sistema Verdan [2006.01]"
+  },
+  {
+    "code": "H04L 1/12",
+    "description": "••utilizando un canal de retorno [2006.01]"
+  },
+  {
+    "code": "H04L 1/14",
+    "description": "••••en el cual las señales son reenviadas por el emisor para ser controladas [2006.01]"
+  },
+  {
+    "code": "H04L 1/16",
+    "description": "••••en el cual el canal de retorno lleva señales de control, p. ej. repetición de señales de demanda [2023.01]"
+  },
+  {
+    "code": "H04L 1/1607",
+    "description": "••••••Detalles de la señal de supervisión [2023.01]"
+  },
+  {
+    "code": "H04L 1/18",
+    "description": "••••••Sistemas de repetición automática, p. ej. sistemas Van Duuren [2023.01]"
+  },
+  {
+    "code": "H04L 1/1803",
+    "description": "••••••••Protocolos de parada y espera [2023.01]"
+  },
+  {
+    "code": "H04L 1/1806",
+    "description": "••••••••Protocolos Go-back-N [2023.01]"
+  },
+  {
+    "code": "H04L 1/1809",
+    "description": "••••••••Protocolos de repetición selectiva [2023.01]"
+  },
+  {
+    "code": "H04L 1/1812",
+    "description": "••••••••Protocolos híbridos; Solicitud de repetición automática híbrida [HARQ] [2023.01]"
+  },
+  {
+    "code": "H04L 1/1822",
+    "description": "••••••••que implica la configuración de la solicitud de repetición automática [ARQ] con procesos paralelos [2023.01]"
+  },
+  {
+    "code": "H04L 1/1825",
+    "description": "••••••••Adaptación de los parámetros específicos del protocolo ARQ según las condiciones de transmisión [2023.01]"
+  },
+  {
+    "code": "H04L 1/1829",
+    "description": "••••••••Disposiciones especialmente adaptadas para el receptor final [2023.01]"
+  },
+  {
+    "code": "H04L 1/1867",
+    "description": "••••••••Disposiciones especialmente adaptadas para el transmisor final [2023.01]"
+  },
+  {
+    "code": "H04L 1/20",
+    "description": "••utilizando un detector de la calidad de la señal [2006.01]"
+  },
+  {
+    "code": "H04L 1/22",
+    "description": "••utilizando un aparato redundante para aumentar la fiabilidad [2006.01]"
+  },
+  {
+    "code": "H04L 1/24",
+    "description": "••Ensayos para asegurar el funcionamiento correcto [2006.01]"
+  },
+  {
+    "code": "H04L 5/00",
+    "description": "Disposiciones destinadas a permitir la utilización múltiple de la vía de transmisión [2006.01]"
+  },
+  {
+    "code": "H04L 5/02",
+    "description": "••Canales caracterizados por el tipo de la señal [2006.01]"
+  },
+  {
+    "code": "H04L 5/04",
+    "description": "••••estando representadas las señales por diferentes amplitudes o polaridades, p. ej. cuádruplex [2006.01]"
+  },
+  {
+    "code": "H04L 5/06",
+    "description": "••••estando representadas las señales por diferentes frecuencias (combinadas con la multiplexación de división de tiempo H04L 5/26) [2006.01]"
+  },
+  {
+    "code": "H04L 5/08",
+    "description": "••••••estando representadas cada combinación de señales en diferentes canales por una frecuencia determinada [2006.01]"
+  },
+  {
+    "code": "H04L 5/10",
+    "description": "••••••con producción dinamoeléctrica de corrientes portadoras; con filtros mecánicos o demoduladores [2006.01]"
+  },
+  {
+    "code": "H04L 5/12",
+    "description": "••••estando representadas las señales por diferentes modulaciones de fase de una sola portadora [2006.01]"
+  },
+  {
+    "code": "H04L 5/14",
+    "description": "••Funcionamiento en dos direcciones utilizando el mismo tipo de señal, es decir, dúplex [2006.01]"
+  },
+  {
+    "code": "H04L 5/16",
+    "description": "••••Sistemas semidúplex; Conmutación dúplex-símplex; Transmisión de señales de ruptura [2006.01]"
+  },
+  {
+    "code": "H04L 5/18",
+    "description": "••••Cambio automático de la dirección del tráfico [2006.01]"
+  },
+  {
+    "code": "H04L 5/20",
+    "description": "••utilizando diferentes combinaciones de líneas, p. ej. explotación de circuitos fantasmas [2006.01]"
+  },
+  {
+    "code": "H04L 5/22",
+    "description": "••utilizando el múltiplex de división de tiempos [2006.01]"
+  },
+  {
+    "code": "H04L 5/24",
+    "description": "••••con convertidores sincrónicos de marcha-parada [2006.01]"
+  },
+  {
+    "code": "H04L 5/26",
+    "description": "••••combinados con el empleo de frecuencias diferentes [2006.01]"
+  },
+  {
+    "code": "H04L 7/00",
+    "description": "Disposiciones para sincronizar el receptor con el emisor [2006.01]"
+  },
+  {
+    "code": "H04L 7/02",
+    "description": "••Control de velocidad o de fase por medio de las señales de código recibidas, no conteniendo las señales ninguna información de sincronización especial [2006.01]"
+  },
+  {
+    "code": "H04L 7/027",
+    "description": "••••extrayendo la señal de reloj o de sincronización del espectro de la señal recibida, p. ej. utilizando un circuito resonante o pasa-banda [2006.01]"
+  },
+  {
+    "code": "H04L 7/033",
+    "description": "••••utilizando las transiciones de la señal recibida para controlar la fase de medios generadores de la señal de sincronización, p. ej. utilizando un bucle con enclavamiento de fase [2006.01]"
+  },
+  {
+    "code": "H04L 7/04",
+    "description": "••Control de velocidad o de fase por medio de señales de sincronización [2006.01]"
+  },
+  {
+    "code": "H04L 7/06",
+    "description": "••••diferiendo las señales de sincronización de las señales de información, en amplitud, polaridad o frecuencia [2006.01]"
+  },
+  {
+    "code": "H04L 7/08",
+    "description": "••••sucediéndose cíclicamente las señales de sincronización [2006.01]"
+  },
+  {
+    "code": "H04L 7/10",
+    "description": "••••Disposiciones para sincronización inicial [2006.01]"
+  },
+  {
+    "code": "H04L 9/00",
+    "description": "Disposiciones para las comunicaciones secretas o seguras; Protocolos de seguridad de la red [2022.01]"
+  },
+  {
+    "code": "H04L 9/06",
+    "description": "••utilizando el aparato de cifrado registros de desplazamiento o memorias para la codificación por bloques, p. ej. sistema DES [2006.01]"
+  },
+  {
+    "code": "H04L 9/08",
+    "description": "••distribución de claves [2006.01]"
+  },
+  {
+    "code": "H04L 9/10",
+    "description": "••con caja, características físicas o controles manuales especiales [2006.01]"
+  },
+  {
+    "code": "H04L 9/12",
+    "description": "••Dispositivos de cifrado de emisión y de recepción sincronizados o inicializados de manera especial [2006.01]"
+  },
+  {
+    "code": "H04L 9/14",
+    "description": "••utilizando varias claves o algoritmos [2006.01]"
+  },
+  {
+    "code": "H04L 9/16",
+    "description": "••••que son cambiados durante la operación [2006.01]"
+  },
+  {
+    "code": "H04L 9/18",
+    "description": "••Cifrado por modificación seriada y continua del flujo de elementos de datos, p. ej. sistemas de codificación en continuo [2006.01]"
+  },
+  {
+    "code": "H04L 9/20",
+    "description": "••••Secuencia de clave pseudoaleatoria combinada elemento por elemento con la secuencia de datos [2006.01]"
+  },
+  {
+    "code": "H04L 9/22",
+    "description": "••••••con un generador de secuencia pseudoaleatoria especial [2006.01]"
+  },
+  {
+    "code": "H04L 9/24",
+    "description": "••••••••siendo producida la secuencia por más de un generador [2006.01]"
+  },
+  {
+    "code": "H04L 9/26",
+    "description": "••••••••produciendo una secuencia pseudoaleatoria no lineal [2006.01]"
+  },
+  {
+    "code": "H04L 9/28",
+    "description": "••utilizando un algoritmo de cifrado especial [2006.01]"
+  },
+  {
+    "code": "H04L 9/30",
+    "description": "••••Clave pública, es decir, siendo imposible de invertir por computador el algoritmo de cifrado, y no exigiéndose secreto a las claves de cifrado de los utilizadores [2006.01]"
+  },
+  {
+    "code": "H04L 9/32",
+    "description": "••comprendiendo medios para verificar la identidad o la autorización de un utilizador del sistema [2006.01]"
+  },
+  {
+    "code": "H04L 9/34",
+    "description": "••Bits, o bloques de bits, del mensaje telegráfico intercambiados en el tiempo [2006.01]"
+  },
+  {
+    "code": "H04L 9/36",
+    "description": "••con medios para detectar caracteres no destinados a la transmisión [2006.01]"
+  },
+  {
+    "code": "H04L 9/38",
+    "description": "••Cifrado efectuado por un aparato mecánico, p. ej. levas rotativas, interruptores, perforadoras de cinta con teclado de clave [2006.01]"
+  },
+  {
+    "code": "H04L 9/40",
+    "description": "••Protocolos de seguridad de la red [2022.01]"
+  },
+  {
+    "code": "H04L 12/00",
+    "description": "Redes de datos de conmutación (interconexión o transferencia de información o de otras señales entre memorias, dispositivos de entrada/salida o unidades de tratamiento G06F 13/00) [2006.01]"
+  },
+  {
+    "code": "H04L 12/02",
+    "description": "••Detalles [2006.01]"
+  },
+  {
+    "code": "H04L 12/04",
+    "description": "••••Tableros de conmutación [2006.01]"
+  },
+  {
+    "code": "H04L 12/06",
+    "description": "••••Mecanismos o circuitos de respuesta [2006.01]"
+  },
+  {
+    "code": "H04L 12/08",
+    "description": "••••Distribución de números de mensajes; Conteo de caracteres, de palabras o de mensajes [2006.01]"
+  },
+  {
+    "code": "H04L 12/10",
+    "description": "••••Disposiciones para la alimentación [2006.01]"
+  },
+  {
+    "code": "H04L 12/12",
+    "description": "••••Disposiciones para la conexión o la desconexión a distancia de subestaciones o de su equipo [2006.01]"
+  },
+  {
+    "code": "H04L 12/14",
+    "description": "••••Disposiciones para el cobro [2006.01]"
+  },
+  {
+    "code": "H04L 12/16",
+    "description": "••••Disposiciones para el suministro de servicios especiales a los abonados [2006.01]"
+  },
+  {
+    "code": "H04L 12/18",
+    "description": "••••••para la difusión o las conferencias [2006.01]"
+  },
+  {
+    "code": "H04L 12/20",
+    "description": "••••••para convertir la velocidad de transmisión de la velocidad inherente de una subestación a la velocidad inherente de otras subestaciones [2006.01]"
+  },
+  {
+    "code": "H04L 12/22",
+    "description": "••••Disposiciones para impedir la toma de datos sin autorización en un canal de transmisión de datos (medios para verificar la identidad o la autorización de un usuario en un sistema de comunicaciones secretas o protegidas H04L 9/32) [2006.01]"
+  },
+  {
+    "code": "H04L 12/28",
+    "description": "••caracterizados por la configuración de los enlaces, p. ej. redes locales (LAN), redes extendidas (WAN) (redes de comunicación inalámbricas H04W) [2006.01]"
+  },
+  {
+    "code": "H04L 12/40",
+    "description": "••••Redes de bus de línea [2006.01]"
+  },
+  {
+    "code": "H04L 12/403",
+    "description": "••••••con control centralizado, p. ej. interrogación [2006.01]"
+  },
+  {
+    "code": "H04L 12/407",
+    "description": "••••••con control descentralizado [2006.01]"
+  },
+  {
+    "code": "H04L 12/413",
+    "description": "••••••••con acceso aleatorio, p. ej. acceso múltiple con detección de portadora y detección de colisión (CSMA-CD) [2006.01]"
+  },
+  {
+    "code": "H04L 12/417",
+    "description": "••••••••con acceso determinado, p. ej. paso de testigo [2006.01]"
+  },
+  {
+    "code": "H04L 12/42",
+    "description": "••••Redes en bucle [2006.01]"
+  },
+  {
+    "code": "H04L 12/423",
+    "description": "••••••con control centralizado, p. ej. interrogación [2006.01]"
+  },
+  {
+    "code": "H04L 12/427",
+    "description": "••••••con control descentralizado [2006.01]"
+  },
+  {
+    "code": "H04L 12/43",
+    "description": "••••••••con transmisión síncrona, p. ej. multiplex de división de tiempos (TDM), anillos con intervalos de tiempos [2006.01]"
+  },
+  {
+    "code": "H04L 12/433",
+    "description": "••••••••con transmisión asíncrona, p. ej. anillo con testigo circulante, inserción de registro [2006.01]"
+  },
+  {
+    "code": "H04L 12/437",
+    "description": "••••••Aislamiento o reconfiguración del fallo del anillo [2006.01]"
+  },
+  {
+    "code": "H04L 12/44",
+    "description": "••••Redes en estrella o redes en árbol [2006.01]"
+  },
+  {
+    "code": "H04L 12/46",
+    "description": "••••Interconexión de redes [2006.01]"
+  },
+  {
+    "code": "H04L 12/50",
+    "description": "••Sistemas de conmutación de circuitos, es decir, sistemas en los cuales la vía de transmisión es estable durante la comunicación [2006.01]"
+  },
+  {
+    "code": "H04L 12/52",
+    "description": "••••utilizando técnicas de división de tiempo (en sistemas de transmisión digital H04L 5/22) [2006.01]"
+  },
+  {
+    "code": "H04L 12/54",
+    "description": "••Sistemas de conmutación por memorización y restitución (sistema de conmutación de paquetes H04L 45/00, H04L 47/00) [2022.01]"
+  },
+  {
+    "code": "H04L 12/64",
+    "description": "••Sistemas de conmutación híbridos [2006.01]"
+  },
+  {
+    "code": "H04L 12/66",
+    "description": "••Disposiciones para la conexión entre redes que tienen diferentes tipos de sistemas de conmutación, p. ej. pasarelas [2006.01]"
+  },
+  {
+    "code": "H04L 13/00",
+    "description": "Detalles de los aparatos o circuitos cubiertos por los grupos H04L 15/00 o H04L 17/00 [2006.01]"
+  },
+  {
+    "code": "H04L 13/02",
+    "description": "••Detalles no particulares para receptores o emisores [2006.01]"
+  },
+  {
+    "code": "H04L 13/04",
+    "description": "••••Mecanismos de accionamiento; Embragues [2006.01]"
+  },
+  {
+    "code": "H04L 13/06",
+    "description": "••••Dispositivos de guía o de alimentación en cinta o papel [2006.01]"
+  },
+  {
+    "code": "H04L 13/08",
+    "description": "••••Medios de registros intermedios [2006.01]"
+  },
+  {
+    "code": "H04L 13/10",
+    "description": "••••Distribuidores [2006.01]"
+  },
+  {
+    "code": "H04L 13/12",
+    "description": "••••••Distribuidores no mecánicos, p. ej. distribuidores de relés [2006.01]"
+  },
+  {
+    "code": "H04L 13/14",
+    "description": "••••••••Distribuidores electrónicos [2006.01]"
+  },
+  {
+    "code": "H04L 13/16",
+    "description": "••Detalles de los emisores, p. ej. barras-código, discos-código [2006.01]"
+  },
+  {
+    "code": "H04L 13/18",
+    "description": "••Detalles de los receptores [2006.01]"
+  },
+  {
+    "code": "H04L 15/00",
+    "description": "Aparatos o circuitos locales para emitir o recibir códigos de puntos y trazos, p. ej. código Morse (aparatos para la enseñanza de estos códigos G09B; manipulación telegráfica H01H 21/86) [2006.01]"
+  },
+  {
+    "code": "H04L 15/03",
+    "description": "••Manipuladores combinados con generadores de sonido [2006.01]"
+  },
+  {
+    "code": "H04L 15/04",
+    "description": "••Aparatos o circuitos en la extremidad de la emisión [2006.01]"
+  },
+  {
+    "code": "H04L 15/06",
+    "description": "••••con un número limitado de claves, p. ej. clave separada por cada tipo de elemento de código [2006.01]"
+  },
+  {
+    "code": "H04L 15/08",
+    "description": "••••••con una sola clave que transmite los puntos en una posición y los trazos en una segunda posición [2006.01]"
+  },
+  {
+    "code": "H04L 15/10",
+    "description": "••••••combinados con un aparato perforador [2006.01]"
+  },
+  {
+    "code": "H04L 15/12",
+    "description": "••••con teclado cooperando con barras-código [2006.01]"
+  },
+  {
+    "code": "H04L 15/14",
+    "description": "••••••combinados con un aparato perforador [2006.01]"
+  },
+  {
+    "code": "H04L 15/16",
+    "description": "••••con teclado cooperando con discos-código [2006.01]"
+  },
+  {
+    "code": "H04L 15/18",
+    "description": "••••Emisores automáticos, p. ej. controlados por cinta perforada [2006.01]"
+  },
+  {
+    "code": "H04L 15/20",
+    "description": "••••••con medios de percepción óptica [2006.01]"
+  },
+  {
+    "code": "H04L 15/22",
+    "description": "••••Aparatos o circuitos para el envío de una o de un número limitado de señales, p. ej. señales de peligro [2006.01]"
+  },
+  {
+    "code": "H04L 15/24",
+    "description": "••Aparatos o circuitos en la extremidad de la recepción [2006.01]"
+  },
+  {
+    "code": "H04L 15/26",
+    "description": "••••funcionando solamente en la recepción de señales de código determinadas por adelantado, p. ej. señales de peligro, señales de llamada de líneas compartidas [2006.01]"
+  },
+  {
+    "code": "H04L 15/28",
+    "description": "••••Aparatos de reproducción de código [2006.01]"
+  },
+  {
+    "code": "H04L 15/30",
+    "description": "••••••Registradores impresores [2006.01]"
+  },
+  {
+    "code": "H04L 15/32",
+    "description": "••••••Registradores perforadores [2006.01]"
+  },
+  {
+    "code": "H04L 15/34",
+    "description": "••••Aparatos para registrar señales de código recibidas después de la traducción, p. ej. como caracteres tipo [2006.01]"
+  },
+  {
+    "code": "H04L 17/00",
+    "description": "Aparatos o circuitos locales para emitir o recibir códigos en los cuales cada carácter está representado por el mismo número de elementos de código de igual longitud, p. ej. código Baudot [2006.01]"
+  },
+  {
+    "code": "H04L 17/02",
+    "description": "••Aparatos o circuitos en la extremidad de la emisión [2006.01]"
+  },
+  {
+    "code": "H04L 17/04",
+    "description": "••••con teclado cooperando con barras-código [2006.01]"
+  },
+  {
+    "code": "H04L 17/06",
+    "description": "••••••Medios de accionamiento de contactos [2006.01]"
+  },
+  {
+    "code": "H04L 17/08",
+    "description": "••••••combinados con aparatos perforadores [2006.01]"
+  },
+  {
+    "code": "H04L 17/10",
+    "description": "••••con teclado cooperando con discos-código [2006.01]"
+  },
+  {
+    "code": "H04L 17/12",
+    "description": "••••Emisores automáticos, p. ej. controlados por cinta perforada [2006.01]"
+  },
+  {
+    "code": "H04L 17/14",
+    "description": "••••••con medios de percepción óptica [2006.01]"
+  },
+  {
+    "code": "H04L 17/16",
+    "description": "••Aparatos o circuitos en la extremidad de la recepción [2006.01]"
+  },
+  {
+    "code": "H04L 17/18",
+    "description": "••••Mecanismos de selección de código [2006.01]"
+  },
+  {
+    "code": "H04L 17/20",
+    "description": "••••utilizando registradores perforados [2006.01]"
+  },
+  {
+    "code": "H04L 17/22",
+    "description": "••••utilizando una traslación mecánica y una impresión por barra de caracteres [2006.01]"
+  },
+  {
+    "code": "H04L 17/24",
+    "description": "••••utilizando una traslación mecánica y una impresión con portador de caracteres, p. ej. tipo rueda, tipo cilindro [2006.01]"
+  },
+  {
+    "code": "H04L 17/26",
+    "description": "••••utilizando una traslación movimiento de conjunto [2006.01]"
+  },
+  {
+    "code": "H04L 17/28",
+    "description": "••••utilizando una traslación neumática o hidráulica [2006.01]"
+  },
+  {
+    "code": "H04L 17/30",
+    "description": "••••utilizando una traslación eléctrica o electrónica [2006.01]"
+  },
+  {
+    "code": "H04L 19/00",
+    "description": "Aparatos o circuitos locales para sistemas paso a paso [2006.01]"
+  },
+  {
+    "code": "H04L 21/00",
+    "description": "Aparatos o circuitos locales para sistemas telegráficos de impresor mosaico [2006.01]"
+  },
+  {
+    "code": "H04L 21/02",
+    "description": "••en la extremidad de la emisión [2006.01]"
+  },
+  {
+    "code": "H04L 21/04",
+    "description": "••en la extremidad de la recepción [2006.01]"
+  },
+  {
+    "code": "H04L 23/00",
+    "description": "Aparatos o circuitos locales para sistemas telegráficos que los cubiertos por los grupos H04L 15/00-H04L 21/00 [2006.01]"
+  },
+  {
+    "code": "H04L 23/02",
+    "description": "••adaptados para la señalización ortogonal [2006.01]"
+  },
+  {
+    "code": "H04L 25/00",
+    "description": "Sistemas de banda base [2006.01]"
+  },
+  {
+    "code": "H04L 25/02",
+    "description": "••Detalles [2006.01]"
+  },
+  {
+    "code": "H04L 25/03",
+    "description": "••••Redes de formación para emisor o receptor, p. ej. redes de formación adaptables [2006.01]"
+  },
+  {
+    "code": "H04L 25/04",
+    "description": "••••••Redes de formación pasivas [2006.01]"
+  },
+  {
+    "code": "H04L 25/05",
+    "description": "••••Almacenamiento eléctrico o magnético de señales antes de transmitir o retransmitir para cambiar la velocidad de transmisión [2006.01]"
+  },
+  {
+    "code": "H04L 25/06",
+    "description": "••••Medios para restablecer el nivel de corriente continua; Corrección de distorsión de polarización [2006.01]"
+  },
+  {
+    "code": "H04L 25/08",
+    "description": "••••Modificaciones para reducir interferencias; Modificaciones para reducir los efectos debidos a los defectos de línea [2006.01]"
+  },
+  {
+    "code": "H04L 25/10",
+    "description": "••••Compensación de las variaciones del equilibrado de la línea [2006.01]"
+  },
+  {
+    "code": "H04L 25/12",
+    "description": "••••Compensación de las variaciones en la impedancia de línea [2006.01]"
+  },
+  {
+    "code": "H04L 25/14",
+    "description": "••••Dispositivos divisores de canales [2006.01]"
+  },
+  {
+    "code": "H04L 25/17",
+    "description": "••••Dispositivos de interpolación [2006.01]"
+  },
+  {
+    "code": "H04L 25/18",
+    "description": "••••Dispositivos para engendrar por inducción señales telegráficas [2006.01]"
+  },
+  {
+    "code": "H04L 25/20",
+    "description": "••••Circuitos repetidores; Circuitos de relés [2006.01]"
+  },
+  {
+    "code": "H04L 25/22",
+    "description": "••••••Repetidores para convertir dos hilos en cuatro hilos; Repetidores para convertir corriente simple en corriente doble [2006.01]"
+  },
+  {
+    "code": "H04L 25/24",
+    "description": "••••••Circuitos de relés que utilizan tubos de descarga o dispositivos semiconductores [2006.01]"
+  },
+  {
+    "code": "H04L 25/26",
+    "description": "••••••Circuitos con medios de percepción óptica [2006.01]"
+  },
+  {
+    "code": "H04L 25/28",
+    "description": "••••••Repetidores utilizando una modulación y una demodulación subsecuente [2006.01]"
+  },
+  {
+    "code": "H04L 25/30",
+    "description": "••Sistemas no síncronos [2006.01]"
+  },
+  {
+    "code": "H04L 25/32",
+    "description": "••••caracterizados por el código empleado [2006.01]"
+  },
+  {
+    "code": "H04L 25/34",
+    "description": "••••••utilizando tres o más amplitudes diferentes, p. ej. código cifrado [2006.01]"
+  },
+  {
+    "code": "H04L 25/38",
+    "description": "••Sistemas síncronos o de marcha-parada, p. ej. código de Baudot [2006.01]"
+  },
+  {
+    "code": "H04L 25/40",
+    "description": "••••Circuitos de emisión; Circuitos de recepción [2006.01]"
+  },
+  {
+    "code": "H04L 25/42",
+    "description": "••••••con distribuidores mecánicos [2006.01]"
+  },
+  {
+    "code": "H04L 25/44",
+    "description": "••••••con distribuidores de relés [2006.01]"
+  },
+  {
+    "code": "H04L 25/45",
+    "description": "••••••con distribuidores electrónicos [2006.01]"
+  },
+  {
+    "code": "H04L 25/46",
+    "description": "••••••con diapasones o láminas vibrantes [2006.01]"
+  },
+  {
+    "code": "H04L 25/48",
+    "description": "••••••caracterizados por el código empleado (H04L 25/49 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H04L 25/49",
+    "description": "••••••con conversión de código al transmisor; con predistorsión; con inserción de intervalos muertos para obtener un espectro de frecuencia deseado; con al menos tres niveles de amplitud [2006.01]"
+  },
+  {
+    "code": "H04L 25/493",
+    "description": "••••••••por codificación de transición, es decir, por codificación antes de la transmisión de la posición temporal o del sentido de la variación del valor de la señal [2006.01]"
+  },
+  {
+    "code": "H04L 25/497",
+    "description": "••••••••por codificación correlativa, p. ej. por codificación de respuesta parcial o por codificación por modulación de ecos [2006.01]"
+  },
+  {
+    "code": "H04L 25/52",
+    "description": "••••Circuitos repetidores; Circuitos de relés [2006.01]"
+  },
+  {
+    "code": "H04L 25/54",
+    "description": "••••••con distribuidores mecánicos [2006.01]"
+  },
+  {
+    "code": "H04L 25/56",
+    "description": "••••••Repetidores regeneradores no eléctricos [2006.01]"
+  },
+  {
+    "code": "H04L 25/58",
+    "description": "••••••con distribuidores de relés [2006.01]"
+  },
+  {
+    "code": "H04L 25/60",
+    "description": "••••••Repetidores regeneradores con conmutadores electromagnéticos [2006.01]"
+  },
+  {
+    "code": "H04L 25/62",
+    "description": "••••••con diapasones o láminas vibrantes [2006.01]"
+  },
+  {
+    "code": "H04L 25/64",
+    "description": "••••••Repetidores regeneradores de marcha-parada que utilizan tubos de descarga o dispositivos semiconductores [2006.01]"
+  },
+  {
+    "code": "H04L 25/66",
+    "description": "••••••Repetidores síncronos que utilizan tubos de descarga o dispositivos semiconductores [2006.01]"
+  },
+  {
+    "code": "H04L 27/00",
+    "description": "Sistemas de portadora modulada [2006.01]"
+  },
+  {
+    "code": "H04L 27/01",
+    "description": "••Ecualizadores [2006.01]"
+  },
+  {
+    "code": "H04L 27/02",
+    "description": "••Sistemas de corriente portadora con modulación de amplitud, p. ej. utilizando un conmutador; Modulación de banda lateral única o de banda residual (H04L 27/32 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H04L 27/04",
+    "description": "••••Circuitos de modulación; Circuitos en el emisor [2006.01]"
+  },
+  {
+    "code": "H04L 27/06",
+    "description": "••••Circuitos de demodulación; Circuitos en el receptor [2006.01]"
+  },
+  {
+    "code": "H04L 27/08",
+    "description": "••••Dispositivos de regulación de amplitud [2006.01]"
+  },
+  {
+    "code": "H04L 27/10",
+    "description": "••Sistemas de corriente portadora con modulación de frecuencia, p. ej. utilizando una manipulación de desplazamiento de frecuencia (H04L 27/32 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H04L 27/12",
+    "description": "••••Circuitos de modulación; Circuitos en el emisor [2006.01]"
+  },
+  {
+    "code": "H04L 27/14",
+    "description": "••••Circuitos de demodulación; Circuitos en el receptor [2006.01]"
+  },
+  {
+    "code": "H04L 27/144",
+    "description": "••••••con demodulación utilizando las propiedades espectrales de la señal recibida, p. ej. utilizando elementos selectivos de la frecuencia o sensibles a la frecuencia [2006.01]"
+  },
+  {
+    "code": "H04L 27/148",
+    "description": "••••••••que utilizan filtros, incluyendo filtros del tipo PLL [2006.01]"
+  },
+  {
+    "code": "H04L 27/152",
+    "description": "••••••••que utilizan osciladores controlados, p. ej. disposiciones PLL [2006.01]"
+  },
+  {
+    "code": "H04L 27/156",
+    "description": "••••••con demodulación utilizando las propiedades temporales de la señal recibida, p. ej. detectando la anchura del impulso [2006.01]"
+  },
+  {
+    "code": "H04L 27/16",
+    "description": "••••Dispositivos de regulación de frecuencia [2006.01]"
+  },
+  {
+    "code": "H04L 27/18",
+    "description": "••Sistemas de corriente portadora con modulación de fase, es decir, utilizando una manipulación de desplazamiento de fase (H04L 27/32 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H04L 27/20",
+    "description": "••••Circuitos de modulación; Circuitos en el emisor [2006.01]"
+  },
+  {
+    "code": "H04L 27/22",
+    "description": "••••Circuitos de demodulación; Circuitos en el receptor [2006.01]"
+  },
+  {
+    "code": "H04L 27/227",
+    "description": "••••••que utilizan una demodulación coherente [2006.01]"
+  },
+  {
+    "code": "H04L 27/233",
+    "description": "••••••que utilizan una demodulación no coherente [2006.01]"
+  },
+  {
+    "code": "H04L 27/24",
+    "description": "••••Sistemas de señalización de semionda [2006.01]"
+  },
+  {
+    "code": "H04L 27/26",
+    "description": "••Sistemas utilizando códigos de frecuencias múltiples (H04L 27/32 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H04L 27/28",
+    "description": "••••con emisión simultánea de frecuencias diferentes, representando cada una un elemento de código [2006.01]"
+  },
+  {
+    "code": "H04L 27/30",
+    "description": "••••en los cuales cada elemento de código está representado por una combinación de frecuencias [2006.01]"
+  },
+  {
+    "code": "H04L 27/32",
+    "description": "••Sistemas de portadora caracterizados por combinaciones de varios tipos de sistemas cubiertos por los grupos H04L 27/02, H04L 27/10, H04L 27/18, o H04L 27/26 [2006.01]"
+  },
+  {
+    "code": "H04L 27/34",
+    "description": "••••Sistemas de portadora de modulación de fase y de amplitud, p. ej. en cuadratura de amplitud [2006.01]"
+  },
+  {
+    "code": "H04L 27/36",
+    "description": "••••••Circuitos de modulación; Circuitos en el emisor [2006.01]"
+  },
+  {
+    "code": "H04L 27/38",
+    "description": "••••••Circuitos de demodulación; Circuitos en el receptor [2006.01]"
+  },
+  {
+    "code": "H04L 41/00",
+    "description": "Disposiciones para el mantenimiento, la administración o la gestión de redes de conmutación de datos, p. ej. de redes de conmutación de paquetes [2022.01]"
+  },
+  {
+    "code": "H04L 41/02",
+    "description": "••Estandarización; Integración [2022.01]"
+  },
+  {
+    "code": "H04L 41/0213",
+    "description": "••••Protocolos estandarizados de gestión de redes, p. ej. protocolo simple de gestión de redes [SNMP] [2022.01]"
+  },
+  {
+    "code": "H04L 41/022",
+    "description": "••••Integración multiproveedor o multiestándar [2022.01]"
+  },
+  {
+    "code": "H04L 41/0226",
+    "description": "••••Mapeo o traducción de múltiples protocolos de gestión de red [2022.01]"
+  },
+  {
+    "code": "H04L 41/0233",
+    "description": "••••Técnicas orientadas a objetos, para la representación de los datos de gestión de la red, p. ej. arquitectura de negociación de petición de objetos comunes  [CORBA]. [2022.01]"
+  },
+  {
+    "code": "H04L 41/0246",
+    "description": "••••Intercambio o transporte de información de gestión de redes a través de Internet; Incorporación de servidores web de gestión de redes en elementos de red; Protocolos basados en servicios web [2022.01]"
+  },
+  {
+    "code": "H04L 41/0253",
+    "description": "••••••utilizando navegadores o páginas web para acceder a la información de gestión [2022.01]"
+  },
+  {
+    "code": "H04L 41/026",
+    "description": "••••••utilizando la mensajería electrónica para transportar información de gestión, p. ej. correo electrónico, mensajería instantánea o chat [2022.01]"
+  },
+  {
+    "code": "H04L 41/0266",
+    "description": "••••••utilizando metadatos, objetos o comandos para dar formato a la información de gestión, p. ej. utilizando el lenguaje de marcado eXtensible [XML] [2022.01]"
+  },
+  {
+    "code": "H04L 41/0273",
+    "description": "••••••utilizando servicios web para la gestión de la red, p. ej. protocolo simple de acceso a objetos [SOAP] [2022.01]"
+  },
+  {
+    "code": "H04L 41/04",
+    "description": "••Arquitecturas o circuitos de gestión de redes [2022.01]"
+  },
+  {
+    "code": "H04L 41/042",
+    "description": "••••que comprenden centros de gestión distribuidos que gestionan la red de forma cooperativa [2022.01]"
+  },
+  {
+    "code": "H04L 41/044",
+    "description": "••••que comprenden estructuras de gestión jerárquicas [2022.01]"
+  },
+  {
+    "code": "H04L 41/045",
+    "description": "••••que comprenden arquitecturas de gestión cliente-servidor [2022.01]"
+  },
+  {
+    "code": "H04L 41/046",
+    "description": "••••que comprenden agentes de gestión de la red o agentes móviles para la misma [2022.01]"
+  },
+  {
+    "code": "H04L 41/052",
+    "description": "••••utilizando arquitecturas de gestión de red normalizadas, p. ej. red de gestión de telecomunicaciones [RGT] o  arquitectura de gestión de red unificada [AMNU] [2022.01]"
+  },
+  {
+    "code": "H04L 41/06",
+    "description": "••Gestión de fallos, eventos, alarmas o notificaciones [2022.01]"
+  },
+  {
+    "code": "H04L 41/0604",
+    "description": "••••utilizando el filtrado, p. ej. reducción de la información mediante el uso de la prioridad, los tipos de elementos, la posición o el tiempo [2022.01]"
+  },
+  {
+    "code": "H04L 41/0631",
+    "description": "••••utilizando el análisis de la causa raíz; utilizando el análisis de la correlación entre las notificaciones, las alarmas o los sucesos en función de los criterios de decisión, p. ej. análisis de la jerarquía, del árbol o análisis temporal [2022.01]"
+  },
+  {
+    "code": "H04L 41/0654",
+    "description": "••••utilizando la recuperación de fallos de red (aislamiento de fallos en anillo o reconfiguración en redes de bucle sin acciones de recuperación por parte de un sistema de gestión de red H04L 12/437) [2022.01]"
+  },
+  {
+    "code": "H04L 41/0659",
+    "description": "••••••aislando o reconfigurando las entidades defectuosas [2022.01]"
+  },
+  {
+    "code": "H04L 41/0663",
+    "description": "••••••Realización de las acciones predefinidas por la planificación de la conmutación por error, p. ej. conmutación a elementos de red en espera [2022.01]"
+  },
+  {
+    "code": "H04L 41/0668",
+    "description": "••••••mediante la selección dinámica de los elementos de la red de recuperación, p. ej. sustitución por el elemento más adecuado tras un fallo [2022.01]"
+  },
+  {
+    "code": "H04L 41/0677",
+    "description": "••••Localización de fallos [2022.01]"
+  },
+  {
+    "code": "H04L 41/0681",
+    "description": "••••Configuración de las condiciones de activación [2022.01]"
+  },
+  {
+    "code": "H04L 41/0686",
+    "description": "••••Información adicional en la notificación, p. ej. mejora de metadatos específicos [2022.01]"
+  },
+  {
+    "code": "H04L 41/069",
+    "description": "••••utilizando los registros de notificaciones; Tratamiento posterior de las notificaciones [2022.01]"
+  },
+  {
+    "code": "H04L 41/0695",
+    "description": "••••siendo la disposición defectuosa el sistema de mantenimiento, administración o gestión [2022.01]"
+  },
+  {
+    "code": "H04L 41/08",
+    "description": "••Gestión de la configuración de redes o elementos de red (asignación de direcciones H04L 61/50) [2022.01]"
+  },
+  {
+    "code": "H04L 41/0803",
+    "description": "••••Ajuste de la configuración [2022.01]"
+  },
+  {
+    "code": "H04L 41/0806",
+    "description": "••••••para la configuración inicial o el aprovisionamiento, p. ej. plug-and-play [2022.01]"
+  },
+  {
+    "code": "H04L 41/0813",
+    "description": "••••••caracterizado por las condiciones que desencadenan un cambio de configuración [2022.01]"
+  },
+  {
+    "code": "H04L 41/0816",
+    "description": "••••••••siendo la condición  una adaptación, p. ej. en respuesta a eventos de la red [2022.01]"
+  },
+  {
+    "code": "H04L 41/082",
+    "description": "••••••••siendo la condición actualizaciones o mejoras de la funcionalidad de la red [2022.01]"
+  },
+  {
+    "code": "H04L 41/0823",
+    "description": "••••••caracterizado por los fines de un cambio de configuración, p. ej. optimización de la configuración para mejorar la fiabilidad (para optimizar las condiciones de funcionamiento de las redes inalámbricas H04W 24/02) [2022.01]"
+  },
+  {
+    "code": "H04L 41/0826",
+    "description": "••••••••para la reducción de los costes de la red (H04L 41/0833 tiene prioridad) [2022.01]"
+  },
+  {
+    "code": "H04L 41/083",
+    "description": "••••••••para aumentar la velocidad de la red [2022.01]"
+  },
+  {
+    "code": "H04L 41/0833",
+    "description": "••••••••para reducir el consumo de energía de la red [2022.01]"
+  },
+  {
+    "code": "H04L 41/084",
+    "description": "••••••Configuración mediante el uso de información preexistente, p. ej.  utilizando plantillas o copiando de otros elementos [2022.01]"
+  },
+  {
+    "code": "H04L 41/085",
+    "description": "••••Recuperación de la configuración de la red; Seguimiento del historial de configuración de la red [2022.01]"
+  },
+  {
+    "code": "H04L 41/0853",
+    "description": "••••••recogiendo activamente la información de configuración o haciendo una copia de seguridad de la misma [2022.01]"
+  },
+  {
+    "code": "H04L 41/0859",
+    "description": "••••••manteniendo el historial de las diferentes generaciones de configuraciones o retrocediendo a versiones de configuración anteriores [2022.01]"
+  },
+  {
+    "code": "H04L 41/0866",
+    "description": "••••Comprobación de la configuración [2022.01]"
+  },
+  {
+    "code": "H04L 41/0869",
+    "description": "••••••Validación de la configuración en un elemento de la red [2022.01]"
+  },
+  {
+    "code": "H04L 41/0873",
+    "description": "••••••Comprobación de conflictos de configuración entre elementos de la red [2022.01]"
+  },
+  {
+    "code": "H04L 41/0893",
+    "description": "••••Asignación de grupos lógicos a los elementos de la red [2022.01]"
+  },
+  {
+    "code": "H04L 41/0894",
+    "description": "••••Gestión de la configuración de la red basada en políticas [2022.01]"
+  },
+  {
+    "code": "H04L 41/0895",
+    "description": "••••Configuración de redes o elementos virtualizados, p. ej.  función de red virtualizada o elementos OpenFlow [2022.01]"
+  },
+  {
+    "code": "H04L 41/0896",
+    "description": "••••Gestión del ancho de banda o de la capacidad, es decir, aumento o disminución automática de las capacidades (control del flujo o de la congestión mediante la asignación dinámica de recursos, p. ej. renegociación en la llamada, H04L 47/76) [2022.01]"
+  },
+  {
+    "code": "H04L 41/0897",
+    "description": "••••••mediante el escalado horizontal o vertical de los recursos, o mediante la migración de entidades, p. ej. recursos o entidades virtuales [2022.01]"
+  },
+  {
+    "code": "H04L 41/12",
+    "description": "••Descubrimiento o gestión de topologías de red [2022.01]"
+  },
+  {
+    "code": "H04L 41/122",
+    "description": "••••de topologías virtualizadas, p. ej. redes definidas por software [SDN] o virtualización de funciones de red [NFV] [2022.01]"
+  },
+  {
+    "code": "H04L 41/14",
+    "description": "••Análisis o diseño de redes [2022.01]"
+  },
+  {
+    "code": "H04L 41/142",
+    "description": "••••utilizando métodos estadísticos o matemáticos [2022.01]"
+  },
+  {
+    "code": "H04L 41/147",
+    "description": "••••para predecir el comportamiento de la red [2022.01]"
+  },
+  {
+    "code": "H04L 41/149",
+    "description": "••••para predecir el mantenimiento [2022.01]"
+  },
+  {
+    "code": "H04L 41/16",
+    "description": "••utilizando el aprendizaje automático o la inteligencia artificial [2022.01]"
+  },
+  {
+    "code": "H04L 41/18",
+    "description": "••Delegación de la función de gestión de la red, p. ej.  gestión de la red del cliente [CNM] [2022.01]"
+  },
+  {
+    "code": "H04L 41/22",
+    "description": "••mediante interfaces gráficas de usuario [GUI] especialmente adaptadas [2022.01]"
+  },
+  {
+    "code": "H04L 41/28",
+    "description": "••Restricción del acceso a los sistemas o funciones de gestión de la red, p. ej. utilizando la función de autorización para acceder a la configuración de la red [2022.01]"
+  },
+  {
+    "code": "H04L 41/34",
+    "description": "••Canales de señalización para la comunicación de la gestión de la red [2022.01]"
+  },
+  {
+    "code": "H04L 41/342",
+    "description": "••••entre entidades virtuales, p. ej. orquestadores, entidades SDN o NFV [2022.01]"
+  },
+  {
+    "code": "H04L 41/344",
+    "description": "••••Transferencias fuera de banda [2022.01]"
+  },
+  {
+    "code": "H04L 41/40",
+    "description": "••utilizando la virtualización de funciones o recursos de red, p. ej. entidades SDN o NFV [2022.01]"
+  },
+  {
+    "code": "H04L 41/50",
+    "description": "••Gestión de servicios de red, p. ej. garantizando el correcto cumplimiento de los servicios según los acuerdos [2022.01]"
+  },
+  {
+    "code": "H04L 41/5003",
+    "description": "••••Gestión de SLA; Interacción entre SLA y QoS [2022.01]"
+  },
+  {
+    "code": "H04L 41/5006",
+    "description": "••••••Creación o negociación de contratos de SLA, garantías o penalizaciones [2022.01]"
+  },
+  {
+    "code": "H04L 41/5009",
+    "description": "••••••Determinación de los parámetros de rendimiento del nivel de servicio o de las violaciones de los contratos de nivel de servicio, p. ej. violaciones del tiempo de respuesta acordado o del tiempo medio entre fallos [MTBF] [2022.01]"
+  },
+  {
+    "code": "H04L 41/5019",
+    "description": "••••••Garantizando el cumplimiento del SLA [2022.01]"
+  },
+  {
+    "code": "H04L 41/5022",
+    "description": "••••••••dando prioridades, p. ej. asignando clases de servicio [2022.01]"
+  },
+  {
+    "code": "H04L 41/5025",
+    "description": "••••••••reaccionando de forma proactiva a los cambios en la calidad del servicio, p. ej. mediante la reconfiguración tras la degradación o mejora de la calidad del servicio [2022.01]"
+  },
+  {
+    "code": "H04L 41/5041",
+    "description": "••••caracterizada por la relación temporal entre la creación y el despliegue de un servicio [2022.01]"
+  },
+  {
+    "code": "H04L 41/5051",
+    "description": "••••••Servicio bajo demanda, p. ej.  definición y despliegue de servicios en tiempo real [2022.01]"
+  },
+  {
+    "code": "H04L 41/5054",
+    "description": "••••••Despliegue automático de servicios activado por el gestor de servicios, p. ej. implementación de servicios mediante la configuración automática de los componentes de la red [2022.01]"
+  },
+  {
+    "code": "H04L 41/5061",
+    "description": "••••caracterizada por la interacción entre los proveedores de servicios y sus clientes de la red, p. ej. gestión de las relaciones con los clientes [2022.01]"
+  },
+  {
+    "code": "H04L 41/5067",
+    "description": "••••••Mediciones de la calidad del servicio centradas en el cliente [2022.01]"
+  },
+  {
+    "code": "H04L 41/507",
+    "description": "••••••Filtrado de clientes afectados por problemas de servicio [2022.01]"
+  },
+  {
+    "code": "H04L 41/5074",
+    "description": "••••••Gestión de las quejas de los usuarios o de los tickets de problemas [2022.01]"
+  },
+  {
+    "code": "H04L 43/00",
+    "description": "Disposiciones para supervisar o probar las redes de conmutación de datos [2022.01]"
+  },
+  {
+    "code": "H04L 43/02",
+    "description": "••Mediante captura de datos de supervisión [2022.01]"
+  },
+  {
+    "code": "H04L 43/022",
+    "description": "••••mediante muestreo [2022.01]"
+  },
+  {
+    "code": "H04L 43/024",
+    "description": "••••••por muestreo adaptativo [2022.01]"
+  },
+  {
+    "code": "H04L 43/026",
+    "description": "••••mediante la identificación de flujos [2022.01]"
+  },
+  {
+    "code": "H04L 43/028",
+    "description": "••••por filtrado [2022.01]"
+  },
+  {
+    "code": "H04L 43/04",
+    "description": "••Procesamiento de los datos de supervisión capturados, p. ej. para la generación de archivos de registro [2022.01]"
+  },
+  {
+    "code": "H04L 43/045",
+    "description": "••••para la visualización gráfica de los datos de monitorización [2022.01]"
+  },
+  {
+    "code": "H04L 43/06",
+    "description": "••Generación de informes [2022.01]"
+  },
+  {
+    "code": "H04L 43/062",
+    "description": "••••relacionados con el tráfico de la red [2022.01]"
+  },
+  {
+    "code": "H04L 43/065",
+    "description": "••••relacionados con los dispositivos de red [2022.01]"
+  },
+  {
+    "code": "H04L 43/067",
+    "description": "••••utilizando informes de plazos [2022.01]"
+  },
+  {
+    "code": "H04L 43/08",
+    "description": "••Monitorización o pruebas basadas en métricas específicas, p. ej. QoS, consumo de energía o parámetros ambientales [2022.01]"
+  },
+  {
+    "code": "H04L 43/0805",
+    "description": "••••comprobando la disponibilidad [2022.01]"
+  },
+  {
+    "code": "H04L 43/0811",
+    "description": "••••••comprobando la conectividad [2022.01]"
+  },
+  {
+    "code": "H04L 43/0817",
+    "description": "••••••comprobando el funcionamiento [2022.01]"
+  },
+  {
+    "code": "H04L 43/0823",
+    "description": "••••Errores, p. ej.  de transmisión [2022.01]"
+  },
+  {
+    "code": "H04L 43/0829",
+    "description": "••••••Pérdida de paquetes [2022.01]"
+  },
+  {
+    "code": "H04L 43/0852",
+    "description": "••••Retrasos [2022.01]"
+  },
+  {
+    "code": "H04L 43/0864",
+    "description": "••••••Retrasos de ida y vuelta [2022.01]"
+  },
+  {
+    "code": "H04L 43/087",
+    "description": "••••••Fluctuación del retardo o \"jitter\" [2022.01]"
+  },
+  {
+    "code": "H04L 43/0876",
+    "description": "••••Utilización de la red, p. ej. volumen de carga o nivel de congestión [2022.01]"
+  },
+  {
+    "code": "H04L 43/0882",
+    "description": "••••••Utilización de la capacidad de los enlaces [2022.01]"
+  },
+  {
+    "code": "H04L 43/0888",
+    "description": "••••••Rendimiento [2022.01]"
+  },
+  {
+    "code": "H04L 43/0894",
+    "description": "••••••Tasa de paquetes [2022.01]"
+  },
+  {
+    "code": "H04L 43/091",
+    "description": "••••Medición de la contribución de los componentes individuales de la red al nivel de servicio real [2022.01]"
+  },
+  {
+    "code": "H04L 43/10",
+    "description": "••Monitorización activa, p. ej. pulsación, ping o trace-route [2022.01]"
+  },
+  {
+    "code": "H04L 43/103",
+    "description": "••••con sondeo adaptativo, es decir, adaptando dinámicamente la tasa de sondeo [2022.01]"
+  },
+  {
+    "code": "H04L 43/106",
+    "description": "••••utilizando la información relacionada con el tiempo en los paquetes, p. ej. añadiendo marcas de tiempo [2022.01]"
+  },
+  {
+    "code": "H04L 43/12",
+    "description": "••Sondas de monitorización de la red [2022.01]"
+  },
+  {
+    "code": "H04L 43/16",
+    "description": "••Monitorización de umbrales [2022.01]"
+  },
+  {
+    "code": "H04L 43/18",
+    "description": "••Analizadores de protocolos [2022.01]"
+  },
+  {
+    "code": "H04L 43/20",
+    "description": "••siendo el sistema de supervisión o los elementos supervisados entidades virtualizadas, abstraídas o definidas por software, p. ej. SDN o NFV [2022.01]"
+  },
+  {
+    "code": "H04L 43/50",
+    "description": "••Disposiciones de prueba [2022.01]"
+  },
+  {
+    "code": "H04L 43/55",
+    "description": "••••Pruebas de la calidad del nivel de servicio, p. ej.  simulación del uso del servicio [2022.01]"
+  },
+  {
+    "code": "H04L 45/00",
+    "description": "Enrutamiento o búsqueda de rutas de paquetes en redes de conmutación de datos (enrutamiento o búsqueda de rutas en redes inalámbricas H04W 40/00) [2022.01]"
+  },
+  {
+    "code": "H04L 45/02",
+    "description": "••Actualización o descubrimiento de la topología [2022.01]"
+  },
+  {
+    "code": "H04L 45/021",
+    "description": "••••Garantizando la coherencia de las actualizaciones de la tabla de enrutamiento, p. ej. mediante el uso de números de época [2022.01]"
+  },
+  {
+    "code": "H04L 45/023",
+    "description": "••••Retraso en el uso de las actualizaciones de la tabla de enrutamiento [2022.01]"
+  },
+  {
+    "code": "H04L 45/028",
+    "description": "••••Adaptación dinámica de los intervalos de actualización, p. ej. actualizaciones activadas por eventos [2022.01]"
+  },
+  {
+    "code": "H04L 45/03",
+    "description": "••••mediante la actualización de los protocolos de estado de enlace [2022.01]"
+  },
+  {
+    "code": "H04L 45/033",
+    "description": "••••mediante la actualización de los protocolos de vectores de distancia [2022.01]"
+  },
+  {
+    "code": "H04L 45/036",
+    "description": "••••Actualización de la topología entre elementos de cálculo de rutas, p. ej. entre controladores OpenFlow [2022.01]"
+  },
+  {
+    "code": "H04L 45/037",
+    "description": "••••••Rutas que atraviesan obligatoriamente nodos relacionados con el servicio [2022.01]"
+  },
+  {
+    "code": "H04L 45/0377",
+    "description": "••••••••para el encadenamiento de servicios [2022.01]"
+  },
+  {
+    "code": "H04L 45/12",
+    "description": "••Evaluación del camino más corto [2022.01]"
+  },
+  {
+    "code": "H04L 45/121",
+    "description": "••••minimizando los retrasos [2022.01]"
+  },
+  {
+    "code": "H04L 45/122",
+    "description": "••••minimizando las distancias, p. ej.  seleccionando una ruta con un número mínimo de saltos [2022.01]"
+  },
+  {
+    "code": "H04L 45/125",
+    "description": "••••basándose en el rendimiento o el ancho de banda [2022.01]"
+  },
+  {
+    "code": "H04L 45/128",
+    "description": "••••para encontrar rutas disjuntas [2022.01]"
+  },
+  {
+    "code": "H04L 45/16",
+    "description": "••Enrutamiento multipunto [2022.01]"
+  },
+  {
+    "code": "H04L 45/17",
+    "description": "••Enrutamiento de acceso directo, p. ej.  utilizando el protocolo de resolución de siguiente salto [NHRP]. [2022.01]"
+  },
+  {
+    "code": "H04L 45/18",
+    "description": "••Operaciones sin bucles [2022.01]"
+  },
+  {
+    "code": "H04L 45/24",
+    "description": "••Multitrayectoria [2022.01]"
+  },
+  {
+    "code": "H04L 45/243",
+    "description": "••••utilizando M+N caminos activos paralelos [2022.01]"
+  },
+  {
+    "code": "H04L 45/247",
+    "description": "••••utilizando M:N rutas activas o en espera [2022.01]"
+  },
+  {
+    "code": "H04L 45/28",
+    "description": "••utilizando la recuperación de fallos de ruta [2022.01]"
+  },
+  {
+    "code": "H04L 45/30",
+    "description": "••Enrutamiento del tráfico multiclase [2022.01]"
+  },
+  {
+    "code": "H04L 45/302",
+    "description": "••Determinación de la ruta basada en la QoS solicitada [2022.01]"
+  },
+  {
+    "code": "H04L 45/42",
+    "description": "••Enrutamiento centralizado [2022.01]"
+  },
+  {
+    "code": "H04L 45/44",
+    "description": "••Enrutamiento distribuido [2022.01]"
+  },
+  {
+    "code": "H04L 45/48",
+    "description": "••Cálculo del árbol de rutas [2022.01]"
+  },
+  {
+    "code": "H04L 45/484",
+    "description": "••••Utilizando múltiples árboles de enrutamiento [2022.01]"
+  },
+  {
+    "code": "H04L 45/488",
+    "description": "••••utilizando la determinación del nodo raíz [2022.01]"
+  },
+  {
+    "code": "H04L 45/50",
+    "description": "••utilizando el intercambio de etiquetas, p. ej. conmutador de etiquetas multiprotocolo [MPLS] [2022.01]"
+  },
+  {
+    "code": "H04L 45/52",
+    "description": "••Enrutadores multiprotocolo [2022.01]"
+  },
+  {
+    "code": "H04L 45/58",
+    "description": "••Asociación de enrutadores [2022.01]"
+  },
+  {
+    "code": "H04L 45/586",
+    "description": "••••de enrutadores virtuales [2022.01]"
+  },
+  {
+    "code": "H04L 45/60",
+    "description": "••Arquitecturas de enrutadores [2022.01]"
+  },
+  {
+    "code": "H04L 45/64",
+    "description": "••utilizando una capa de enrutamiento superpuesta [2022.01]"
+  },
+  {
+    "code": "H04L 45/645",
+    "description": "••División de la capa de cálculo de rutas y la capa de reenvío, p. ej. enrutamiento según el elemento de cálculo de rutas [PCE] o basado en la funcionalidad de OpenFlow [2022.01]"
+  },
+  {
+    "code": "H04L 45/655",
+    "description": "••••Interacción entre las entidades de cálculo de rutas y las entidades de reenvío, p. ej. para la determinación de rutas o para la actualización de la tabla de flujos [2022.01]"
+  },
+  {
+    "code": "H04L 45/74",
+    "description": "••Procesamiento de direcciones para el enrutamiento [2022.01]"
+  },
+  {
+    "code": "H04L 45/741",
+    "description": "••••Enrutamiento en redes con una pluralidad de esquemas de direccionamiento, p. ej. con IPv4 e IPv6 [2022.01]"
+  },
+  {
+    "code": "H04L 45/745",
+    "description": "••••Búsqueda en la tabla de direcciones; Filtrado de direcciones [2022.01]"
+  },
+  {
+    "code": "H04L 45/7452",
+    "description": "••••••Múltiples operaciones de búsqueda paralelas o consecutivas (operación de búsqueda con filtros Bloom H04L 45/7459) [2022.01]"
+  },
+  {
+    "code": "H04L 45/7453",
+    "description": "••••••utilizando hashing [2022.01]"
+  },
+  {
+    "code": "H04L 45/7459",
+    "description": "••••••••utilizando filtros de Bloom [2022.01]"
+  },
+  {
+    "code": "H04L 45/748",
+    "description": "••••••utilizando el prefijo más largo que coincida [2022.01]"
+  },
+  {
+    "code": "H04L 45/76",
+    "description": "••Enrutamiento en topologías definidas por software, p. ej., enrutamiento entre máquinas virtuales [2022.01]"
+  },
+  {
+    "code": "H04L 45/80",
+    "description": "••Selección del punto de entrada por el punto final de origen, p. ej.  selección de ISP o POP [2022.01]"
+  },
+  {
+    "code": "H04L 45/85",
+    "description": "••••Selección entre diferentes redes [2022.01]"
+  },
+  {
+    "code": "H04L 45/851",
+    "description": "••••••Selección o reselección dinámica de la red, p. ej. tras la degradación de la calidad [2022.01]"
+  },
+  {
+    "code": "H04L 47/00",
+    "description": "Control del tráfico en las redes de conmutación de datos (disposiciones para detectar o corregir errores en la información recibida H04L 1/00) [2022.01]"
+  },
+  {
+    "code": "H04L 47/10",
+    "description": "••Control de flujo; Control de congestión [2022.01]"
+  },
+  {
+    "code": "H04L 47/11",
+    "description": "••••Identificación de la congestión [2022.01]"
+  },
+  {
+    "code": "H04L 47/12",
+    "description": "••••Evitando la congestión; Recuperándose de la congestión [2022.01]"
+  },
+  {
+    "code": "H04L 47/122",
+    "description": "••••••desviando el tráfico de las entidades congestionadas [2022.01]"
+  },
+  {
+    "code": "H04L 47/125",
+    "description": "••••••equilibrando la carga, p. ej. ingeniería de tráfico [2022.01]"
+  },
+  {
+    "code": "H04L 47/127",
+    "description": "••••••utilizando la predicción de la congestión [2022.01]"
+  },
+  {
+    "code": "H04L 47/129",
+    "description": "••••••en el punto final de destino, p. ej.  reservando recursos terminales o espacio de búfer [2022.01]"
+  },
+  {
+    "code": "H04L 47/17",
+    "description": "••••Interacción entre los nodos intermedios, p. ej. salto a salto [2022.01]"
+  },
+  {
+    "code": "H04L 47/19",
+    "description": "••••en capas por encima de la capa de red (disposiciones de red para aplicaciones en red para programar u organizar el servicio de las solicitudes de las aplicaciones H04L 67/60) [2022.01]"
+  },
+  {
+    "code": "H04L 47/193",
+    "description": "••••••en la capa de transporte, p. ej. en relación con TCP [2022.01]"
+  },
+  {
+    "code": "H04L 47/20",
+    "description": "••••Vigilancia del tráfico [2022.01]"
+  },
+  {
+    "code": "H04L 47/21",
+    "description": "••••utilizando un algoritmo de cubeta con goteo o \"leaky-bucket\" [2022.01]"
+  },
+  {
+    "code": "H04L 47/215",
+    "description": "••••utilzando un algoritmo \"token-bucket\" [2022.01]"
+  },
+  {
+    "code": "H04L 47/22",
+    "description": "••••Conformación del tráfico [2022.01]"
+  },
+  {
+    "code": "H04L 47/24",
+    "description": "••••Tráfico caracterizado por atributos específicos, p. ej. prioridad o QoS [2022.01]"
+  },
+  {
+    "code": "H04L 47/2408",
+    "description": "••••••para soportar diferentes servicios, p. ej.  un servicio de tipo diferenciado [DiffServ] [2022.01]"
+  },
+  {
+    "code": "H04L 47/2416",
+    "description": "••••••Tráfico en tiempo real [2022.01]"
+  },
+  {
+    "code": "H04L 47/2425",
+    "description": "••••••para soportar la especificación de servicios, p. ej. SLA [2022.01]"
+  },
+  {
+    "code": "H04L 47/2441",
+    "description": "••••••basándose en la clasificación de flujos, p. ej.  utilizando servicios integrados [IntServ]. [2022.01]"
+  },
+  {
+    "code": "H04L 47/2466",
+    "description": "••••••utilizando tráfico de señalización [2022.01]"
+  },
+  {
+    "code": "H04L 47/2475",
+    "description": "••••••para soportar el tráfico caracterizado por el tipo de aplicaciones [2022.01]"
+  },
+  {
+    "code": "H04L 47/2483",
+    "description": "••••••que implica la identificación de flujos individuales [2022.01]"
+  },
+  {
+    "code": "H04L 47/2491",
+    "description": "••••••Asignación de requisitos de calidad de servicio [QoS] entre diferentes redes [2022.01]"
+  },
+  {
+    "code": "H04L 47/25",
+    "description": "••••con modificación de la tasa por parte de la fuente al detectar un cambio en las condiciones de la red [2022.01]"
+  },
+  {
+    "code": "H04L 47/26",
+    "description": "••••utilizando una retroalimentación explícita a la fuente, p. ej. paquetes de estrangulamiento [2022.01]"
+  },
+  {
+    "code": "H04L 47/263",
+    "description": "••••••Modificación de la tarifa en la fuente tras recibir la retroalimentación [2022.01]"
+  },
+  {
+    "code": "H04L 47/265",
+    "description": "••••••enviada por los nodos intermedios de la red [2022.01]"
+  },
+  {
+    "code": "H04L 47/267",
+    "description": "••••••enviada por el punto final de destino (flujo de red de paquetes multimedia con control de la fuente por el destino H04L 65/613) [2022.01]"
+  },
+  {
+    "code": "H04L 47/27",
+    "description": "••••Evaluación o actualización del tamaño de la ventana, p. ej. utilizando la información derivada de los paquetes [ACK] reconocidos [2022.01]"
+  },
+  {
+    "code": "H04L 47/28",
+    "description": "••••en relación con consideraciones temporales [2022.01]"
+  },
+  {
+    "code": "H04L 47/283",
+    "description": "••••••en respuesta a los retrasos de procesamiento,  p. ej. causados por la fluctuación de fase o el tiempo de ida y vuelta [RTT] [2022.01]"
+  },
+  {
+    "code": "H04L 47/30",
+    "description": "••••en combinación con la información sobre la ocupación del búfer en cualquiera de los extremos o en los nodos de tránsito [2022.01]"
+  },
+  {
+    "code": "H04L 47/31",
+    "description": "••••mediante el etiquetado de los paquetes, p. ej. utilizando los bits de elegibilidad de descarte [DE]. [2022.01]"
+  },
+  {
+    "code": "H04L 47/32",
+    "description": "••••descartando o retrasando unidades de datos, p. ej. paquetes o tramas [2022.01]"
+  },
+  {
+    "code": "H04L 47/33",
+    "description": "••••mediante la notificación de reenvío [2022.01]"
+  },
+  {
+    "code": "H04L 47/34",
+    "description": "••••garantizando la integridad de la secuencia, p. ej. utilizando números de secuencia [2022.01]"
+  },
+  {
+    "code": "H04L 47/35",
+    "description": "••••incorporando información de control de flujo en los paquetes normales, p. ej. mediante la inserción de paquetes. [2022.01]"
+  },
+  {
+    "code": "H04L 47/36",
+    "description": "••••determinando el tamaño del paquete, p. ej. unidad de transferencia máxima [MTU] [2022.01]"
+  },
+  {
+    "code": "H04L 47/38",
+    "description": "••••adaptando la tasa de codificación o compresión [2022.01]"
+  },
+  {
+    "code": "H04L 47/40",
+    "description": "••••utilizando conexiones divididas [2022.01]"
+  },
+  {
+    "code": "H04L 47/41",
+    "description": "••••actuando sobre flujos o enlaces agregados [2022.01]"
+  },
+  {
+    "code": "H04L 47/43",
+    "description": "••••ensamblaje o desensamblaje de paquetes, p. ej. segmentación y reensamblaje [SAR] [2022.01]"
+  },
+  {
+    "code": "H04L 47/431",
+    "description": "••••••utilizando padding o de-padding [2022.01]"
+  },
+  {
+    "code": "H04L 47/50",
+    "description": "••Programación de colas [2022.01]"
+  },
+  {
+    "code": "H04L 47/52",
+    "description": "••••atribuyendo el ancho de banda a las colas [2022.01]"
+  },
+  {
+    "code": "H04L 47/525",
+    "description": "••••••mediante la redistribución del ancho de banda residual [2022.01]"
+  },
+  {
+    "code": "H04L 47/56",
+    "description": "••••implementación de una programación que tenga en cuenta el retardo [2022.01]"
+  },
+  {
+    "code": "H04L 47/60",
+    "description": "••••implementación de la programación jerárquica [2022.01]"
+  },
+  {
+    "code": "H04L 47/62",
+    "description": "••••caracterizada por criterios de programación [2022.01]"
+  },
+  {
+    "code": "H04L 47/625",
+    "description": "••••••para las franjas de servicio o las órdenes de servicio [2022.01]"
+  },
+  {
+    "code": "H04L 47/6275",
+    "description": "••••••••basada en la prioridad [2022.01]"
+  },
+  {
+    "code": "H04L 47/628",
+    "description": "••••••••en función del tamaño de los paquetes, p. ej. el paquete más corto primero [2022.01]"
+  },
+  {
+    "code": "H04L 47/629",
+    "description": "••••••garantizando un reparto equitativo de los recursos, p. ej. colas justas ponderadas [WFQ] [2022.01]"
+  },
+  {
+    "code": "H04L 47/6295",
+    "description": "••••••utilizando múltiples colas, una para cada QoS, conexión, flujo o prioridad individual [2022.01]"
+  },
+  {
+    "code": "H04L 47/70",
+    "description": "••Control de admisión; Asignación de recursos [2022.01]"
+  },
+  {
+    "code": "H04L 47/72",
+    "description": "••••utilizando acciones de reserva durante el establecimiento de la conexión [2022.01]"
+  },
+  {
+    "code": "H04L 47/722",
+    "description": "••••••en el punto final de destino, p. ej. reserva de recursos del terminal o espacio en el búfer [2022.01]"
+  },
+  {
+    "code": "H04L 47/724",
+    "description": "••••••en los nodos intermedios, p. ej. protocolo de reserva de recursos [RSVP] [2022.01]"
+  },
+  {
+    "code": "H04L 47/726",
+    "description": "••••••Reserva de recursos en múltiples rutas para su uso simultáneo (equilibrando la carga H04L 47/125) [2022.01]"
+  },
+  {
+    "code": "H04L 47/74",
+    "description": "••••medidas en caso de indisponibilidad de recursos [2022.01]"
+  },
+  {
+    "code": "H04L 47/76",
+    "description": "••••utilización de la asignación dinámica de recursos, p. ej. renegociación en la llamada solicitada por el usuario o solicitada por la red en respuesta a las condiciones cambiantes de la red [2022.01]"
+  },
+  {
+    "code": "H04L 47/762",
+    "description": "••••••activada por la red [2022.01]"
+  },
+  {
+    "code": "H04L 47/765",
+    "description": "••••••activada por los puntos finales [2022.01]"
+  },
+  {
+    "code": "H04L 47/78",
+    "description": "••••Arquitecturas de asignación de recursos [2022.01]"
+  },
+  {
+    "code": "H04L 47/783",
+    "description": "••••••Asignación distribuida de recursos, p. ej. agentes de ancho de banda [2022.01]"
+  },
+  {
+    "code": "H04L 47/785",
+    "description": "••••••••entre múltiples dominios de la red, p. ej. acuerdos multilaterales [2022.01]"
+  },
+  {
+    "code": "H04L 47/80",
+    "description": "••••Acciones relacionadas con el perfil del usuario o el tipo de tráfico [2022.01]"
+  },
+  {
+    "code": "H04L 47/83",
+    "description": "••••basadas en la predicción de uso [2022.01]"
+  },
+  {
+    "code": "H04L 49/00",
+    "description": "Elementos de conmutación de paquetes [2022.01]"
+  },
+  {
+    "code": "H04L 49/10",
+    "description": "••caracterizados por la construcción del tejido de conmutación [2022.01]"
+  },
+  {
+    "code": "H04L 49/101",
+    "description": "••••mediante barra transversal o matriz [2022.01]"
+  },
+  {
+    "code": "H04L 49/102",
+    "description": "••••utilizando un medio compartido, p. ej. un bus o un anillo [2022.01]"
+  },
+  {
+    "code": "H04L 49/103",
+    "description": "••••utilizando un búfer central compartido; utilizando una memoria compartida [2022.01]"
+  },
+  {
+    "code": "H04L 49/104",
+    "description": "••••Tejidos de conmutación en modo de transferencia asíncrono [ATM] [2022.01]"
+  },
+  {
+    "code": "H04L 49/109",
+    "description": "••••Integrados en un microchip, p. ej. switch-on-chip [2022.01]"
+  },
+  {
+    "code": "H04L 49/111",
+    "description": "••••Interfaces del conmutador, p. ej. detalles del puerto [2022.01]"
+  },
+  {
+    "code": "H04L 49/112",
+    "description": "••••Control de los conmutadores, p. ej. el arbitraje [2022.01]"
+  },
+  {
+    "code": "H04L 49/113",
+    "description": "••••Disposiciones para la conmutación redundante, p. ej. el uso de planos paralelos [2022.01]"
+  },
+  {
+    "code": "H04L 49/115",
+    "description": "••••••Transferencia de un paquete o célula completa a través de cada plano [2022.01]"
+  },
+  {
+    "code": "H04L 49/116",
+    "description": "••••••Transferencia de una parte del paquete a través de cada plano, p. ej.  mediante el corte de bits [2022.01]"
+  },
+  {
+    "code": "H04L 49/118",
+    "description": "••••••Procesamiento de direcciones dentro de un dispositivo, p. ej. utilizando ID o etiquetas internas para el enrutamiento dentro de un conmutador [2022.01]"
+  },
+  {
+    "code": "H04L 49/15",
+    "description": "••Interconexión de módulos de conmutación [2022.01]"
+  },
+  {
+    "code": "H04L 49/1515",
+    "description": "••••Multietapa no bloqueante, p. ej. Clos [2022.01]"
+  },
+  {
+    "code": "H04L 49/1546",
+    "description": "••••••utilizando el funcionamiento en cadena [2022.01]"
+  },
+  {
+    "code": "H04L 49/20",
+    "description": "••Soporte a servicios [2022.01]"
+  },
+  {
+    "code": "H04L 49/201",
+    "description": "••••Operación de multidifusión; operación de difusión [2022.01]"
+  },
+  {
+    "code": "H04L 49/25",
+    "description": "••Enrutamiento o búsqueda de rutas en un tejido de conmutación [2022.01]"
+  },
+  {
+    "code": "H04L 49/253",
+    "description": "••••mediante el establecimiento o la liberación de conexiones entre puertos [2022.01]"
+  },
+  {
+    "code": "H04L 49/35",
+    "description": "••Conmutadores especialmente adaptados para aplicaciones específicas [2022.01]"
+  },
+  {
+    "code": "H04L 49/351",
+    "description": "••••para redes de área local [LAN], p. ej.  conmutadores Ethernet [2022.01]"
+  },
+  {
+    "code": "H04L 49/354",
+    "description": "••••para soportar redes de área local virtuales [VLAN] [2022.01]"
+  },
+  {
+    "code": "H04L 49/356",
+    "description": "••••para redes de área de almacenamiento [2022.01]"
+  },
+  {
+    "code": "H04L 49/40",
+    "description": "••Detalles de construcción, p. ej. suministro de energía, construcción mecánica o placa base [2022.01]"
+  },
+  {
+    "code": "H04L 49/45",
+    "description": "••Sistemas para proporcionar o apoyar la expansión [2022.01]"
+  },
+  {
+    "code": "H04L 49/50",
+    "description": "••Detección o protección de la sobrecarga en un solo elemento de conmutación [2022.01]"
+  },
+  {
+    "code": "H04L 49/505",
+    "description": "••••Medidas correctoras [2022.01]"
+  },
+  {
+    "code": "H04L 49/506",
+    "description": "••••••Contrapresión [2022.01]"
+  },
+  {
+    "code": "H04L 49/55",
+    "description": "••Prevención, detección o corrección de errores [2022.01]"
+  },
+  {
+    "code": "H04L 49/552",
+    "description": "••••garantizando la integridad de los paquetes recibidos a través de conexiones redundantes [2022.01]"
+  },
+  {
+    "code": "H04L 49/60",
+    "description": "••Conmutadores definidos por software [2022.01]"
+  },
+  {
+    "code": "H04L 49/65",
+    "description": "••Reconfiguración de los conmutadores de paquetes rápidos [2022.01]"
+  },
+  {
+    "code": "H04L 49/90",
+    "description": "••Disposiciones de almacenamiento [2022.01]"
+  },
+  {
+    "code": "H04L 49/9005",
+    "description": "••••mediante asignación dinámica del espacio en el búfer [2022.01]"
+  },
+  {
+    "code": "H04L 49/901",
+    "description": "••••utilizando un descriptor de almacenamiento, p. ej. punteros de lectura o escritura [2022.01]"
+  },
+  {
+    "code": "H04L 49/9015",
+    "description": "••••para soportar una lista enlazada [2022.01]"
+  },
+  {
+    "code": "H04L 49/9023",
+    "description": "••••para implementar un búfer jitter [2022.01]"
+  },
+  {
+    "code": "H04L 49/9047",
+    "description": "••••incluyendo múltiples búferes, p. ej. grupos de búferes [2022.01]"
+  },
+  {
+    "code": "H04L 49/9057",
+    "description": "••••Disposiciones para soportar el reensamblaje o la resecuenciación de paquetes [2022.01]"
+  },
+  {
+    "code": "H04L 51/00",
+    "description": "Mensajería de usuario a usuario en redes de conmutación de paquetes, transmitida según protocolos de almacenamiento y reenvío o en tiempo real, p. ej. correo electrónico [2022.01]"
+  },
+  {
+    "code": "H04L 51/02",
+    "description": "••utilizando reacciones automáticas o delegación del usuario, p. ej.  respuestas automáticas o mensajes generados por un chatbot [2022.01]"
+  },
+  {
+    "code": "H04L 51/04",
+    "description": "••Mensajería en tiempo real o casi real, p. ej.  mensajería instantánea [IM] [2022.01]"
+  },
+  {
+    "code": "H04L 51/043",
+    "description": "••••utilizando o manejando la información de presencia [2022.01]"
+  },
+  {
+    "code": "H04L 51/046",
+    "description": "••••Interoperabilidad con otras aplicaciones o servicios de red [2022.01]"
+  },
+  {
+    "code": "H04L 51/06",
+    "description": "••Adaptación de los mensajes a los requisitos del terminal o de la red [2022.01]"
+  },
+  {
+    "code": "H04L 51/063",
+    "description": "••••Adaptación de contenidos, p. ej. sustitución de contenidos inadecuados [2022.01]"
+  },
+  {
+    "code": "H04L 51/066",
+    "description": "••••Adaptación del formato, p. ej.  conversión o compresión del formato [2022.01]"
+  },
+  {
+    "code": "H04L 51/07",
+    "description": "••caracterizada por la inclusión de contenidos específicos [2022.01]"
+  },
+  {
+    "code": "H04L 51/08",
+    "description": "••••Información anexa, p. ej.  archivos adjuntos [2022.01]"
+  },
+  {
+    "code": "H04L 51/10",
+    "description": "••••Información multimedia [2022.01]"
+  },
+  {
+    "code": "H04L 51/18",
+    "description": "••••Comandos o códigos ejecutables [2022.01]"
+  },
+  {
+    "code": "H04L 51/21",
+    "description": "••Seguimiento o tratamiento de mensajes [2022.01]"
+  },
+  {
+    "code": "H04L 51/212",
+    "description": "••••mediante filtrado o bloqueo selectivo [2022.01]"
+  },
+  {
+    "code": "H04L 51/214",
+    "description": "••••mediante  reenvío selectivo [2022.01]"
+  },
+  {
+    "code": "H04L 51/216",
+    "description": "••••Gestión del historial de conversaciones, p. ej. agrupación de mensajes en sesiones o hilos [2022.01]"
+  },
+  {
+    "code": "H04L 51/222",
+    "description": "••••utilizando información de localización geográfica, p. ej. mensajes transmitidos o recibidos en las proximidades de un determinado lugar o zona [2022.01]"
+  },
+  {
+    "code": "H04L 51/224",
+    "description": "••••proporcionando notificaciones sobre los mensajes entrantes, p. ej. notificaciones push de los mensajes recibidos [2022.01]"
+  },
+  {
+    "code": "H04L 51/226",
+    "description": "••••Entrega en función de las prioridades [2022.01]"
+  },
+  {
+    "code": "H04L 51/23",
+    "description": "••••Controles de fiabilidad, p. ej.   acuses de recibo o notificación de fallos [2022.01]"
+  },
+  {
+    "code": "H04L 51/234",
+    "description": "••••para el seguimiento de los mensajes [2022.01]"
+  },
+  {
+    "code": "H04L 51/42",
+    "description": "••Aspectos relacionados con los buzones, p. ej. sincronización de buzones [2022.01]"
+  },
+  {
+    "code": "H04L 51/48",
+    "description": "••Direccionamiento de mensajes, p. ej.  formato de dirección o mensajes anónimos, alias [2022.01]"
+  },
+  {
+    "code": "H04L 51/52",
+    "description": "••para apoyar los servicios de redes sociales [2022.01]"
+  },
+  {
+    "code": "H04L 51/56",
+    "description": "••Mensajería unificada, p. ej. interacciones entre el correo electrónico, la mensajería instantánea o la mensajería IP convergente [CPM]. [2022.01]"
+  },
+  {
+    "code": "H04L 51/58",
+    "description": "••Adaptación de mensajes para la comunicación inalámbrica [2022.01]"
+  },
+  {
+    "code": "H04L 61/00",
+    "description": "Disposiciones, protocolos o servicios de red para direccionamiento o denominación [2022.01]"
+  },
+  {
+    "code": "H04L 61/09",
+    "description": "••Asignación de direcciones [2022.01]"
+  },
+  {
+    "code": "H04L 61/10",
+    "description": "••••de diferentes tipos [2022.01]"
+  },
+  {
+    "code": "H04L 61/103",
+    "description": "••••••a través de las capas de red, p. ej. resolución de la capa de red en direcciones de la capa física o protocolo de resolución de direcciones [ARP] [2022.01]"
+  },
+  {
+    "code": "H04L 61/106",
+    "description": "••••••a través de las redes, p. ej. asignación de números de teléfono a direcciones de redes de datos [2022.01]"
+  },
+  {
+    "code": "H04L 61/25",
+    "description": "••••del mismo tipo [2022.01]"
+  },
+  {
+    "code": "H04L 61/2503",
+    "description": "••••••Traducción de direcciones del protocolo de Internet [IP] [2022.01]"
+  },
+  {
+    "code": "H04L 61/251",
+    "description": "••••••••entre diferentes versiones de IP [2022.01]"
+  },
+  {
+    "code": "H04L 61/2514",
+    "description": "••••••••entre direcciones IP locales y globales [2022.01]"
+  },
+  {
+    "code": "H04L 61/2517",
+    "description": "••••••••utilizando números de puerto [2022.01]"
+  },
+  {
+    "code": "H04L 61/2521",
+    "description": "••••••••Arquitecturas de traducción distintas de los servidores NAT individuales [2022.01]"
+  },
+  {
+    "code": "H04L 61/2539",
+    "description": "••••••••Ocultación de direcciones; Mantenimiento del anonimato de las direcciones [2022.01]"
+  },
+  {
+    "code": "H04L 61/2546",
+    "description": "••••••••Disposiciones para evitar la traducción innecesaria [2022.01]"
+  },
+  {
+    "code": "H04L 61/255",
+    "description": "••••••••Mantenimiento o indexación de las tablas de mapeo [2022.01]"
+  },
+  {
+    "code": "H04L 61/2553",
+    "description": "••••••••••Aspectos vinculantes de la renovación, p. ej. usando mensajes persistentes [2022.01]"
+  },
+  {
+    "code": "H04L 61/2557",
+    "description": "••••••••Políticas o reglas de traducción [2022.01]"
+  },
+  {
+    "code": "H04L 61/256",
+    "description": "••••••••NAT traversal [2022.01]"
+  },
+  {
+    "code": "H04L 61/2567",
+    "description": "••••••••••para accesibilidad, p. ej. consulta de la dirección de un corresponsal detrás de un servidor NAT [2022.01]"
+  },
+  {
+    "code": "H04L 61/2575",
+    "description": "••••••••••utilizando la recuperación del mapeo de direcciones, p. ej. traversal simple del protocolo de datagramas de usuario a través de las utilidades traversal  de sesión para NAT [STUN] [2022.01]"
+  },
+  {
+    "code": "H04L 61/2578",
+    "description": "••••••••••sin intervención del servidor NAT [2022.01]"
+  },
+  {
+    "code": "H04L 61/2582",
+    "description": "••••••••••mediante el control del servidor NAT, p. ej. utilizando el sistema universal plug and play [UPnP]. [2022.01]"
+  },
+  {
+    "code": "H04L 61/2585",
+    "description": "••••••••••a través de la pasarela a nivel de aplicación [ALG] [2022.01]"
+  },
+  {
+    "code": "H04L 61/2589",
+    "description": "••••••••••en un servidor de retransmisión, p.ej. uso de la retransmisión para la traducción de direcciones de red [TURN] [2022.01]"
+  },
+  {
+    "code": "H04L 61/2592",
+    "description": "••••••••mediante tunelización o encapsulación [2022.01]"
+  },
+  {
+    "code": "H04L 61/2596",
+    "description": "••••••Traducción de direcciones del mismo tipo pero distintas de IP, p. ej. traducción de direcciones MAC a MAC [2022.01]"
+  },
+  {
+    "code": "H04L 61/30",
+    "description": "••Gestión de nombres de red, p. ej. uso de alias o apodos (mapeo de nombre a dirección H04L 61/45) [2022.01]"
+  },
+  {
+    "code": "H04L 61/301",
+    "description": "••••Conversión de nombres [2022.01]"
+  },
+  {
+    "code": "H04L 61/3015",
+    "description": "••••Registro, generación o asignación de nombres [2022.01]"
+  },
+  {
+    "code": "H04L 61/45",
+    "description": "••Directorios de red; Correspondencia nombre-dirección [2022.01]"
+  },
+  {
+    "code": "H04L 61/4505",
+    "description": "••••utilizando directorios estandarizados; utilizando protocolos de acceso a directorios estandarizados [2022.01]"
+  },
+  {
+    "code": "H04L 61/4511",
+    "description": "••••••utilizando el sistema de nombres de dominio [DNS] [2022.01]"
+  },
+  {
+    "code": "H04L 61/4517",
+    "description": "••••••utilizando directorios de interconexión de sistemas abiertos [OSI], p.ej. X.500 [2022.01]"
+  },
+  {
+    "code": "H04L 61/4523",
+    "description": "••••••utilizando el protocolo ligero de acceso a directorios [LDAP] [2022.01]"
+  },
+  {
+    "code": "H04L 61/4535",
+    "description": "••••utilizando una plataforma de intercambio de direcciones que establezca una sesión entre dos nodos, p. ej. servidores de encuentro, registradores de protocolos de iniciación de sesión [SIP] o gatekeepers H.323 [2022.01]"
+  },
+  {
+    "code": "H04L 61/4541",
+    "description": "••••Directorios para el descubrimiento de servicios [2022.01]"
+  },
+  {
+    "code": "H04L 61/4552",
+    "description": "••••Mecanismos de búsqueda entre una pluralidad de directorios; Sincronización de directorios, p. ej. metadirectorios [2022.01]"
+  },
+  {
+    "code": "H04L 61/4557",
+    "description": "••••Directorios para redes híbridas, p. ej. que incluyan números de teléfono [2022.01]"
+  },
+  {
+    "code": "H04L 61/4588",
+    "description": "••••que contengan información sobre los abonados móviles, p. ej. el servidor de abonados domésticos [HSS]. [2022.01]"
+  },
+  {
+    "code": "H04L 61/4594",
+    "description": "••••Libretas de direcciones, es decir, directorios que contienen información de contacto sobre los corresponsales (directorios telefónicos en terminales de usuario H04M 1/27453) [2022.01]"
+  },
+  {
+    "code": "H04L 61/50",
+    "description": "••Asignación de direcciones [2022.01]"
+  },
+  {
+    "code": "H04L 61/5007",
+    "description": "••••Direcciones del protocolo de Internet [IP] [2022.01]"
+  },
+  {
+    "code": "H04L 61/5014",
+    "description": "••••••utilizando el protocolo de configuración dinámica de host [DHCP] o el protocolo de arranque [BOOTP] [2022.01]"
+  },
+  {
+    "code": "H04L 61/503",
+    "description": "••••••utilizando un protocolo de autenticación, autorización y contabilidad [AAA], p. ej. servicio de autenticación remota de usuarios por marcación [RADIUS] o Diameter [2022.01]"
+  },
+  {
+    "code": "H04L 61/5038",
+    "description": "••••para uso local, p. ej. en redes LAN o USB, o en una red de área de controladores [CAN] [2022.01]"
+  },
+  {
+    "code": "H04L 61/5046",
+    "description": "••••Resolución de conflictos de asignación de direcciones; Comprobación de direcciones (comprobación al autoasignar una dirección H04L 61/5092) [2022.01]"
+  },
+  {
+    "code": "H04L 61/5053",
+    "description": "••••Tiempo de arrendamiento; Aspectos de la renovación [2022.01]"
+  },
+  {
+    "code": "H04L 61/5061",
+    "description": "••••Pools de direcciones [2022.01]"
+  },
+  {
+    "code": "H04L 61/5069",
+    "description": "••••para comunicación en grupo, comunicación multidifusión o comunicación en difusión [2022.01]"
+  },
+  {
+    "code": "H04L 61/5076",
+    "description": "••••Mecanismos de actualización o notificación, p. ej. DynDNS [2022.01]"
+  },
+  {
+    "code": "H04L 61/5084",
+    "description": "••••Proporcionando movilidad a los dispositivos (direccionamiento o numeración de la red para dar soporte a la movilidad en redes inalámbricas H04W 8/26; IP móvil H04W 80/04) [2022.01]"
+  },
+  {
+    "code": "H04L 61/5092",
+    "description": "••••mediante autoasignación, p. ej. eligiendo direcciones al azar y comprobando si ya están en uso [2022.01]"
+  },
+  {
+    "code": "H04L 61/58",
+    "description": "••Almacenamiento en caché de direcciones o nombres [2022.01]"
+  },
+  {
+    "code": "H04L 61/59",
+    "description": "••utilizando proxies para el direccionamiento [2022.01]"
+  },
+  {
+    "code": "H04L 65/00",
+    "description": "Disposiciones, protocolos o servicios de red para soportar aplicaciones en tiempo real en la comunicación de paquetes de datos (mensajería en tiempo real o casi real, por ejemplo, mensajería instantánea [IM] H04L 51/04; distribución selectiva de vídeo H04N 21/00) [2022.01]"
+  },
+  {
+    "code": "H04L 65/10",
+    "description": "••Arquitecturas o entidades [2022.01]"
+  },
+  {
+    "code": "H04L 65/1016",
+    "description": "••••Subsistema multimedia IP [IMS] [2022.01]"
+  },
+  {
+    "code": "H04L 65/102",
+    "description": "••••Pasarelas (disposiciones para la conexión entre redes con diferentes tipos de sistemas de conmutación, p. ej. pasarelas, H04L 12/66) [2022.01]"
+  },
+  {
+    "code": "H04L 65/1023",
+    "description": "••••••Pasarelas de medios [2022.01]"
+  },
+  {
+    "code": "H04L 65/1033",
+    "description": "••••••Pasarelas de señalización [2022.01]"
+  },
+  {
+    "code": "H04L 65/1043",
+    "description": "••••••Controladores de pasarela, p. ej. controladores del protocolo de control de pasarela de medios [MGCP]. [2022.01]"
+  },
+  {
+    "code": "H04L 65/1045",
+    "description": "••••Proxies,p. ej. para el protocolo de iniciación de sesión [SIP]. [2022.01]"
+  },
+  {
+    "code": "H04L 65/1046",
+    "description": "••••Controladores de llamadas; Servidores de llamadas [2022.01]"
+  },
+  {
+    "code": "H04L 65/1053",
+    "description": "••••Entidades o disposiciones de funcionalidad de centralita privada IP [PBX] (centralitas de conmutación de circuitos H04M 3/00) [2022.01]"
+  },
+  {
+    "code": "H04L 65/1055",
+    "description": "••••••Sitio único [2022.01]"
+  },
+  {
+    "code": "H04L 65/1056",
+    "description": "••••••Multisitio [2022.01]"
+  },
+  {
+    "code": "H04L 65/1059",
+    "description": "••••Funcionalidades de terminales de usuario final especialmente adaptadas para la comunicación en tiempo real [2022.01]"
+  },
+  {
+    "code": "H04L 65/1063",
+    "description": "••••Servidores de aplicaciones que prestan servicios de red (sistemas que prestan servicios especiales a los abonados telefónicos H04M 3/42) [2022.01]"
+  },
+  {
+    "code": "H04L 65/1066",
+    "description": "••Gestión de la sesión [2022.01]"
+  },
+  {
+    "code": "H04L 65/1069",
+    "description": "••••Establecimiento o desestablecimiento de la sesión [2022.01]"
+  },
+  {
+    "code": "H04L 65/1073",
+    "description": "••••Registro o desregistro [2022.01]"
+  },
+  {
+    "code": "H04L 65/1076",
+    "description": "••••Filtrado de las comunicaciones en tiempo real IP, p. ej. el spam en la telefonía por Internet [SPIT]. [2022.01]"
+  },
+  {
+    "code": "H04L 65/1083",
+    "description": "••••Procedimientos durante la sesión [2022.01]"
+  },
+  {
+    "code": "H04L 65/1089",
+    "description": "••••••añadiendo medios; eliminando medios [2022.01]"
+  },
+  {
+    "code": "H04L 65/1093",
+    "description": "••••••añadiendo participantes; eliminando participantes [2022.01]"
+  },
+  {
+    "code": "H04L 65/1094",
+    "description": "••••••Transferencia o compartición de sesiones entre usuarios y equipos [2022.01]"
+  },
+  {
+    "code": "H04L 65/1095",
+    "description": "••••••Transferencia o compartición de sesiones entre redes [2022.01]"
+  },
+  {
+    "code": "H04L 65/1096",
+    "description": "••••Funciones suplementarias, p. ej. desvío o retención de llamadas (sistemas que proporcionan servicios o facilidades especiales a los abonados de telefonía H04M 3/42) [2022.01]"
+  },
+  {
+    "code": "H04L 65/1101",
+    "description": "••••Protocolos de sesión [2022.01]"
+  },
+  {
+    "code": "H04L 65/1104",
+    "description": "••••••Protocolo de inicio de sesión [SIP] [2022.01]"
+  },
+  {
+    "code": "H04L 65/1106",
+    "description": "••••••Protocolos de señalización de llamadas; H.323 y relacionados [2022.01]"
+  },
+  {
+    "code": "H04L 65/1108",
+    "description": "••••••Protocolos basados en la web, p. ej. webRTC [2022.01]"
+  },
+  {
+    "code": "H04L 65/40",
+    "description": "••Soporte para servicios o aplicaciones [2022.01]"
+  },
+  {
+    "code": "H04L 65/401",
+    "description": "••••en los que los servicios implican una sesión principal en tiempo real y una o más sesiones paralelas en tiempo real o sensibles al tiempo, p. ej. compartir la pizarra o generar una subconferencia [2022.01]"
+  },
+  {
+    "code": "H04L 65/402",
+    "description": "••••en los que los servicios implican una sesión principal en tiempo real y una o más sesiones adicionales paralelas en tiempo no real, p. ej. la descarga de un archivo en una sesión FTP paralela, el inicio de un correo electrónico o servicios combinados [2022.01]"
+  },
+  {
+    "code": "H04L 65/403",
+    "description": "••••Disposiciones para la comunicación multipartita, p. ej. para conferencias (sistemas de conmutación de datos para conferencias H04L 12/18; disposiciones para la conexión de varios abonados a un circuito común, es decir, para ofrecer instalaciones de conferencia H04M 3/56; sistemas de conferencias por televisión H04N 7/15) [2022.01]"
+  },
+  {
+    "code": "H04L 65/4038",
+    "description": "••••••con control del turno de palabra [2022.01]"
+  },
+  {
+    "code": "H04L 65/4053",
+    "description": "••••••sin control del turno de palabra [2022.01]"
+  },
+  {
+    "code": "H04L 65/4061",
+    "description": "••••Servicios push-to, p. ej. push-to-talk o push-to-video [2022.01]"
+  },
+  {
+    "code": "H04L 65/60",
+    "description": "••Transmisión en red de paquetes multimedia [2022.01]"
+  },
+  {
+    "code": "H04L 65/61",
+    "description": "••••para soportar servicios de streaming unidireccionales, p. ej. radio por Internet [2022.01]"
+  },
+  {
+    "code": "H04L 65/611",
+    "description": "••••••para la multidifusión o la radiodifusión (disposiciones para la radiodifusión o la distribución combinada con la radiodifusión H04H 20/00; disposiciones para las aplicaciones de radiodifusión con un vínculo directo con la información de la radiodifusión o con el espacio-tiempo de la radiodifusión H04H 60/00; sistemas para la radiodifusión o la conferencia H04L 12/18; distribución selectiva de servicios de radiodifusión, p. ej. servicio de multidifusión multimedia [MBMS], H04W 4/06) [2022.01]"
+  },
+  {
+    "code": "H04L 65/612",
+    "description": "••••••para unidifusión o unicast [2022.01]"
+  },
+  {
+    "code": "H04L 65/613",
+    "description": "••••••para el control de la fuente por el destino (señales de control emitidas por el cliente dirigidas al servidor o a los componentes de la red especialmente adaptadas para la distribución selectiva de contenidos H04N 21/637) [2022.01]"
+  },
+  {
+    "code": "H04L 65/65",
+    "description": "••••Protocolos de transmisión en red, p. ej. protocolo de transporte en tiempo real [RTP] o protocolo de control en tiempo real [RTCP] [2022.01]"
+  },
+  {
+    "code": "H04L 65/70",
+    "description": "••••Paquetización de la red de medios [2022.01]"
+  },
+  {
+    "code": "H04L 65/75",
+    "description": "••••Gestión de paquetes de red de medios [2022.01]"
+  },
+  {
+    "code": "H04L 65/752",
+    "description": "••••••adaptación de los medios a las capacidades de la red [2022.01]"
+  },
+  {
+    "code": "H04L 65/756",
+    "description": "••••••adaptación de los medios a las capacidades del dispositivo [2022.01]"
+  },
+  {
+    "code": "H04L 65/80",
+    "description": "••Respuesta a la QoS [2022.01]"
+  },
+  {
+    "code": "H04L 67/00",
+    "description": "Disposiciones o protocolos de red para soportar servicios o aplicaciones de red (mensajería de usuario a usuario H04L 51/00; disposiciones, protocolos o servicios de red para soportar aplicaciones en tiempo real en redes de comunicaciones de paquetes de datos H04L 65/00) [2022.01]"
+  },
+  {
+    "code": "H04L 67/01",
+    "description": "••Protocolos [2022.01]"
+  },
+  {
+    "code": "H04L 67/02",
+    "description": "••••basados en la tecnología web, p. ej. protocolo de transferencia de hipertexto [HTTP] [2022.01]"
+  },
+  {
+    "code": "H04L 67/025",
+    "description": "••••••para el control remoto o la supervisión remota de aplicaciones [2022.01]"
+  },
+  {
+    "code": "H04L 67/04",
+    "description": "••••especialmente adaptados para terminales o redes con capacidades limitadas; especialmente adaptados para la portabilidad de terminales [2022.01]"
+  },
+  {
+    "code": "H04L 67/06",
+    "description": "••••especialmente adaptados para la transferencia de ficheros, p. ej. protocolo de transferencia de ficheros [FTP] [2022.01]"
+  },
+  {
+    "code": "H04L 67/08",
+    "description": "••••especialmente adaptados para la emulación de terminales, p. ej. Telnet [2022.01]"
+  },
+  {
+    "code": "H04L 67/10",
+    "description": "••••en los que una aplicación se distribuye entre los nodos de la red (acuerdos de multiprogramación G06F 9/46; despliegue de software G06F 8/60) [2022.01]"
+  },
+  {
+    "code": "H04L 67/1001",
+    "description": "••••••para acceder a uno entre una pluralidad de servidores replicados [2022.01]"
+  },
+  {
+    "code": "H04L 67/1004",
+    "description": "••••••••Selección de servidores para el equilibrio de la carga [2022.01]"
+  },
+  {
+    "code": "H04L 67/1006",
+    "description": "••••••••••con selección estática de servidores, p. ej. que se seleccione el mismo servidor para un cliente específico [2022.01]"
+  },
+  {
+    "code": "H04L 67/1008",
+    "description": "••••••••••en función de los parámetros de los servidores, p. ej. memoria disponible o carga de trabajo (supervisión de la actividad informática G06F 11/30) [2022.01]"
+  },
+  {
+    "code": "H04L 67/101",
+    "description": "••••••••••en función de las condiciones de la red [2022.01]"
+  },
+  {
+    "code": "H04L 67/1012",
+    "description": "••••••••••en función del cumplimiento de los requisitos o condiciones con los recursos disponibles del servidor [2022.01]"
+  },
+  {
+    "code": "H04L 67/1014",
+    "description": "••••••••••en función del contenido de una solicitud [2022.01]"
+  },
+  {
+    "code": "H04L 67/1017",
+    "description": "••••••••••basado en un mecanismo de rotación [2022.01]"
+  },
+  {
+    "code": "H04L 67/1019",
+    "description": "••••••••••Selección aleatoria o heurística de servidores [2022.01]"
+  },
+  {
+    "code": "H04L 67/1021",
+    "description": "••••••••••en función de la ubicación del cliente o del servidor [2022.01]"
+  },
+  {
+    "code": "H04L 67/1023",
+    "description": "••••••••••basado en un hash aplicado a las direcciones IP o a los costes [2022.01]"
+  },
+  {
+    "code": "H04L 67/1025",
+    "description": "••••••••••Adaptación dinámica de los criterios en los que se basa la selección del servidor [2022.01]"
+  },
+  {
+    "code": "H04L 67/1027",
+    "description": "••••••••Persistencia de las sesiones durante el equilibrado de carga [2022.01]"
+  },
+  {
+    "code": "H04L 67/1029",
+    "description": "••••••••utilizando datos relacionados con el estado de los servidores por un equilibrador de carga [2022.01]"
+  },
+  {
+    "code": "H04L 67/1031",
+    "description": "••••••••Control del funcionamiento de los servidores por parte de un equilibrador de carga, p. ej. añadiendo o eliminando servidores que sirvan solicitudes [2022.01]"
+  },
+  {
+    "code": "H04L 67/1034",
+    "description": "••••••••Reacción de un equilibrador de carga a los fallos del servidor [2022.01]"
+  },
+  {
+    "code": "H04L 67/1036",
+    "description": "••••••••Equilibrio de la carga de las solicitudes a los servidores para servicios distintos del suministro de contenidos a los usuarios, p. ej. equilibrio de la carga en los servidores de nombres de dominio [2022.01]"
+  },
+  {
+    "code": "H04L 67/1038",
+    "description": "••••••••Acuerdos de equilibrio de carga para evitar una única ruta a través de un equilibrador de carga [2022.01]"
+  },
+  {
+    "code": "H04L 67/104",
+    "description": "••••••Redes peer-to-peer [P2P] [2022.01]"
+  },
+  {
+    "code": "H04L 67/1042",
+    "description": "••••••••que utilizan mecanismos de gestión de la topología [2022.01]"
+  },
+  {
+    "code": "H04L 67/1061",
+    "description": "••••••••que utilizan mecanismos de descubrimiento de pares basados en nodos (acceso estático a servidores replicados H04L 67/1006; descubrimiento de servicios H04L 67/51) [2022.01]"
+  },
+  {
+    "code": "H04L 67/1074",
+    "description": "••••••••para apoyar los mecanismos de transmisión de bloques de datos (transferencia de archivos H04L 67/06) [2022.01]"
+  },
+  {
+    "code": "H04L 67/1087",
+    "description": "••••••••que utilizan aspectos interfuncionales de la red [2022.01]"
+  },
+  {
+    "code": "H04L 67/1095",
+    "description": "••••••Replicación o copia espejo de datos, p. ej. programación o transporte para la sincronización de datos entre nodos de la red [2022.01]"
+  },
+  {
+    "code": "H04L 67/1097",
+    "description": "••••••para el almacenamiento distribuido de datos en redes, p. ej. disposiciones de transporte para el sistema de archivos de red [NFS], las redes de área de almacenamiento [SAN] o el almacenamiento conectado a la red [NAS] [2022.01]"
+  },
+  {
+    "code": "H04L 67/12",
+    "description": "••••especialmente adaptados para entornos de red propios o con fines especiales, p. ej. redes médicas, redes de sensores, redes en vehículos o redes de medición a distancia [2022.01]"
+  },
+  {
+    "code": "H04L 67/125",
+    "description": "••••••que implican el control de las aplicaciones de los dispositivos finales a través de una red [2022.01]"
+  },
+  {
+    "code": "H04L 67/131",
+    "description": "••••Protocolos para juegos, simulaciones en red o realidad virtual [2022.01]"
+  },
+  {
+    "code": "H04L 67/133",
+    "description": "••••Protocolos para llamadas a procedimientos remotos [RPC] [2022.01]"
+  },
+  {
+    "code": "H04L 67/1396",
+    "description": "••••especialmente adaptados para el seguimiento de la actividad de los usuarios [2022.01]"
+  },
+  {
+    "code": "H04L 67/14",
+    "description": "••Gestión de sesiones (para aplicaciones en tiempo real en redes de comunicación de paquetes de datos H04L 65/1066) [2022.01]"
+  },
+  {
+    "code": "H04L 67/141",
+    "description": "••••Establecimiento de sesiones de aplicación (control de admisión o asignación de recursos en redes de conmutación de datos H04L 47/70) [2022.01]"
+  },
+  {
+    "code": "H04L 67/142",
+    "description": "••••Gestión de estados de sesión para protocolos sin estado; Señalización de estados de sesión; Transiciones de estado; Mecanismos de mantenimiento de estado [2022.01]"
+  },
+  {
+    "code": "H04L 67/143",
+    "description": "••••Terminación o inactivación de sesiones, p. ej. fin de sesión controlado por eventos [2022.01]"
+  },
+  {
+    "code": "H04L 67/145",
+    "description": "••••••evitando la finalización de la sesión, p. ej. 'keep-alive', 'heartbeats', mensaje de reanudación o 'wake-up' para sesiones inactivas o interrumpidas [2022.01]"
+  },
+  {
+    "code": "H04L 67/146",
+    "description": "••••Marcadores para la identificación inequívoca de una sesión concreta, p. ej. cookie de sesión o codificación de la URL [2022.01]"
+  },
+  {
+    "code": "H04L 67/147",
+    "description": "••••Métodos de señalización o mensajes que proporcionan extensiones a los protocolos definidos por la normalización [2022.01]"
+  },
+  {
+    "code": "H04L 67/148",
+    "description": "••••Migración o transferencia de sesiones [2022.01]"
+  },
+  {
+    "code": "H04L 67/2866",
+    "description": "••Arquitecturas; Disposiciones [2022.01]"
+  },
+  {
+    "code": "H04L 67/2869",
+    "description": "••••Terminales especialmente adaptados para la comunicación [2022.01]"
+  },
+  {
+    "code": "H04L 67/2871",
+    "description": "••••Detalles de implementación de entidades intermedias únicas [2022.01]"
+  },
+  {
+    "code": "H04L 67/2876",
+    "description": "••••Pares de entidades de interprocesamiento en cada lado de la red, p. ej. proxies divididos [2022.01]"
+  },
+  {
+    "code": "H04L 67/288",
+    "description": "••••Dispositivos intermedios distribuidos, es decir, dispositivos intermedios para la interacción con otros dispositivos intermedios del mismo nivel [2022.01]"
+  },
+  {
+    "code": "H04L 67/2885",
+    "description": "••••Dispositivos intermedios dispuestos jerárquicamente, p. ej. para el almacenamiento en caché jerárquico [2022.01]"
+  },
+  {
+    "code": "H04L 67/289",
+    "description": "••••Procesamiento intermedio localizado funcionalmente cerca de la aplicación consumidora de datos, p. ej. en la misma máquina, en el mismo hogar o en la misma subred [2022.01]"
+  },
+  {
+    "code": "H04L 67/2895",
+    "description": "••••Procesamiento intermedio localizado funcionalmente cerca de la aplicación del proveedor de datos, p. ej. proxies inversos [2022.01]"
+  },
+  {
+    "code": "H04L 67/30",
+    "description": "••••Perfiles [2022.01]"
+  },
+  {
+    "code": "H04L 67/303",
+    "description": "••••••Perfiles de los terminales [2022.01]"
+  },
+  {
+    "code": "H04L 67/306",
+    "description": "••••••Perfiles de usuario [2022.01]"
+  },
+  {
+    "code": "H04L 67/50",
+    "description": "••Servicios de red [2022.01]"
+  },
+  {
+    "code": "H04L 67/51",
+    "description": "••••Descubrimiento o gestión de los mismos, p. ej. protocolo de localización de servicios [SLP] o servicios web [2022.01]"
+  },
+  {
+    "code": "H04L 67/52",
+    "description": "••••especialmente adaptados a la ubicación del terminal de usuario [2022.01]"
+  },
+  {
+    "code": "H04L 67/53",
+    "description": "••••utilizando proveedores de servicios de terceros [2022.01]"
+  },
+  {
+    "code": "H04L 67/54",
+    "description": "••••Gestión de la presencia, p. ej. supervisión o registro para la recepción de la información de inicio de sesión de los usuarios, o el estado de conexión de los mismos [2022.01]"
+  },
+  {
+    "code": "H04L 67/55",
+    "description": "••••Servicios de red basados en el push [2022.01]"
+  },
+  {
+    "code": "H04L 67/56",
+    "description": "••••Provisión de servicios proxy (sistemas de conmutación de almacenamiento y reenvío en redes de conmutación de datos H04L 12/54) [2022.01]"
+  },
+  {
+    "code": "H04L 67/561",
+    "description": "••••••Añadiendo datos funcionales de la aplicación o datos para el control de la aplicación, p. ej. añadiendo metadatos [2022.01]"
+  },
+  {
+    "code": "H04L 67/562",
+    "description": "••••••Servicios de intermediación [2022.01]"
+  },
+  {
+    "code": "H04L 67/563",
+    "description": "••••••Redirección de flujos de red de datos [2022.01]"
+  },
+  {
+    "code": "H04L 67/564",
+    "description": "••••••Mejora del control de las aplicaciones a partir de los datos interceptados por las mismas [2022.01]"
+  },
+  {
+    "code": "H04L 67/565",
+    "description": "••••••Conversión o adaptación del formato o contenido de la aplicación (adición de datos de control de la aplicación o de datos funcionales de la aplicación H04L 67/561) [2022.01]"
+  },
+  {
+    "code": "H04L 67/5651",
+    "description": "••••••••reduciendo la cantidad o el tamaño de los datos de la aplicación intercambiados [2022.01]"
+  },
+  {
+    "code": "H04L 67/566",
+    "description": "••••••Agrupando o agregando solicitudes de servicio, p. ej. para un procesamiento unificado [2022.01]"
+  },
+  {
+    "code": "H04L 67/567",
+    "description": "••••••Integración de la prestación de servicios de una pluralidad de proveedores de servicios [2022.01]"
+  },
+  {
+    "code": "H04L 67/568",
+    "description": "••••••Almacenamiento temporal de los datos en una etapa intermedia, p. ej. almacenamiento en caché [2022.01]"
+  },
+  {
+    "code": "H04L 67/5681",
+    "description": "••••••••Pre-recarga o pre-entrega de datos en función de las características de la red [2022.01]"
+  },
+  {
+    "code": "H04L 67/5682",
+    "description": "••••••••Políticas o normas de actualización, eliminación o sustitución de los datos almacenados [2022.01]"
+  },
+  {
+    "code": "H04L 67/5683",
+    "description": "••••••••Almacenamiento de datos proporcionados por los terminales de los usuarios, es decir, caché inversa [2022.01]"
+  },
+  {
+    "code": "H04L 67/59",
+    "description": "••••••Proporcionando apoyo operativo a los dispositivos finales mediante la descarga en la red o la emulación, p. ej. cuando no están disponibles [2022.01]"
+  },
+  {
+    "code": "H04L 67/60",
+    "description": "••••Programación u organización del servicio de las solicitudes de aplicación, p. ej. solicitudes de transmisión de datos de aplicación que utilizan el análisis y la optimización de los recursos de red necesarios (control de admisión o asignación de recursos H04L 47/70) [2022.01]"
+  },
+  {
+    "code": "H04L 67/61",
+    "description": "••••••teniendo en cuenta los requisitos de calidad de servicio o de prioridad [2022.01]"
+  },
+  {
+    "code": "H04L 67/62",
+    "description": "••••••Establecimiento de un calendario para atender las solicitudes [2022.01]"
+  },
+  {
+    "code": "H04L 67/63",
+    "description": "••••••Enrutamiento de una solicitud de servicio en función del contenido o el contexto de la solicitud [2022.01]"
+  },
+  {
+    "code": "H04L 67/75",
+    "description": "••••Indicación de las condiciones de red o de uso en la pantalla del usuario [2022.01]"
+  },
+  {
+    "code": "H04L 69/00",
+    "description": "Disposiciones, protocolos o servicios de red independientes de la carga útil de la aplicación y no previstos en los demás grupos de esta subclase (protocolos de seguridad de redes H04L 9/40; redes de comunicación inalámbrica H04W) [2022.01]"
+  },
+  {
+    "code": "H04L 69/04",
+    "description": "••Protocolos de compresión de datos, p. ej. ROHC [2022.01]"
+  },
+  {
+    "code": "H04L 69/06",
+    "description": "••Notaciones para la estructuración de los datos del protocolo, p. ej. notación sintáctica abstracta uno [ASN.1] [2022.01]"
+  },
+  {
+    "code": "H04L 69/08",
+    "description": "••Protocolos de interfuncionamiento; Conversión de protocolos [2022.01]"
+  },
+  {
+    "code": "H04L 69/085",
+    "description": "••••especialmente adaptados para el interfuncionamiento de redes basadas en IP con otras redes [2022.01]"
+  },
+  {
+    "code": "H04L 69/10",
+    "description": "••Protocolos simplificados, ligeros o de alta velocidad, p. ej. protocolo de transferencia exprés [XTP] o flujo de bytes [2022.01]"
+  },
+  {
+    "code": "H04L 69/12",
+    "description": "••Motores de protocolo [2022.01]"
+  },
+  {
+    "code": "H04L 69/14",
+    "description": "••Protocolos multicanal o multilink [2022.01]"
+  },
+  {
+    "code": "H04L 69/16",
+    "description": "••Implementación o adaptación del protocolo de Internet [IP], del protocolo de control de transmisión [TCP] o del protocolo de datagramas de usuario [UDP] [2022.01]"
+  },
+  {
+    "code": "H04L 69/163",
+    "description": "••••Adaptación en banda del intercambio de datos TCP; Procedimientos de control en banda [2022.01]"
+  },
+  {
+    "code": "H04L 69/164",
+    "description": "••••Adaptación o usos especiales del protocolo UDP [2022.01]"
+  },
+  {
+    "code": "H04L 69/165",
+    "description": "••••Uso combinado de los protocolos TCP y UDP; criterios de selección de los mismos [2022.01]"
+  },
+  {
+    "code": "H04L 69/166",
+    "description": "••••Fragmentación IP; Segmentación TCP [2022.01]"
+  },
+  {
+    "code": "H04L 69/167",
+    "description": "••••Adaptación para la transición entre dos versiones de IP, p. ej. entre IPv4 e IPv6 (traducción de direcciones del protocolo de Internet [IP] H04L 61/2503) [2022.01]"
+  },
+  {
+    "code": "H04L 69/168",
+    "description": "••••especialmente adaptada para los protocolos de la capa de enlace, p. ej. modo de transferencia asíncrono [ATM], red óptica síncrona [SONET] o protocolo punto a punto [PPP] [2022.01]"
+  },
+  {
+    "code": "H04L 69/18",
+    "description": "••Gestores multiprotocolo, p. ej. dispositivos únicos capaces de gestionar varios protocolos [2022.01]"
+  },
+  {
+    "code": "H04L 69/22",
+    "description": "••Análisis de cabeceras [2022.01]"
+  },
+  {
+    "code": "H04L 69/24",
+    "description": "••Negociación de las capacidades de comunicación [2022.01]"
+  },
+  {
+    "code": "H04L 69/28",
+    "description": "••Temporizadores o mecanismos de temporización utilizados en los protocolos [2022.01]"
+  },
+  {
+    "code": "H04L 69/30",
+    "description": "••Definiciones, normas o aspectos arquitectónicos de las pilas de protocolos por capas [2022.01]"
+  },
+  {
+    "code": "H04L 69/32",
+    "description": "••••Arquitectura de las pilas de protocolos de tipo interconexión de sistemas abiertos [OSI] de 7 capas, p. ej. las interfaces entre el nivel de enlace de datos y el nivel físico [2022.01]"
+  },
+  {
+    "code": "H04L 69/321",
+    "description": "••••••Protocolos de comunicación entre capas o definiciones de unidades de datos de servicio [SDU]; Interfaces entre capas [2022.01]"
+  },
+  {
+    "code": "H04L 69/322",
+    "description": "••••••Protocolos de comunicación intracapa entre entidades pares o definiciones de unidades de datos de protocolo [PDU] [2022.01]"
+  },
+  {
+    "code": "H04L 69/323",
+    "description": "••••••••en la capa física [capa OSI 1] [2022.01]"
+  },
+  {
+    "code": "H04L 69/324",
+    "description": "••••••••en la capa de enlace de datos [capa OSI 2], p. ej. HDLC [2022.01]"
+  },
+  {
+    "code": "H04L 69/325",
+    "description": "••••••••en la capa de red [capa OSI 3], p. ej.  X.25 (H04L 69/16 tiene prioridad) [2022.01]"
+  },
+  {
+    "code": "H04L 69/326",
+    "description": "••••••••en la capa de transporte [capa OSI 4] (H04L 69/16 tiene prioridad) [2022.01]"
+  },
+  {
+    "code": "H04L 69/327",
+    "description": "••••••••en la capa de sesión [capa OSI 5] [2022.01]"
+  },
+  {
+    "code": "H04L 69/328",
+    "description": "••••••••en la capa de presentación [capa OSI 6] [2022.01]"
+  },
+  {
+    "code": "H04L 69/329",
+    "description": "••••••••en la capa de aplicación [capa OSI 7] [2022.01]"
+  },
+  {
+    "code": "H04L 69/40",
+    "description": "••para la recuperación de un fallo de una instancia o entidad de protocolo, p. ej. protocolos de redundancia de servicios, redundancia de estados de protocolo o redireccionamiento de servicios de protocolo (gestión de fallos, eventos, alarmas o notificaciones en redes de conmutación de datos H04L 41/06) [2022.01]"
+  },
+  {
+    "code": "H04L 101/00",
+    "description": "Esquema de indexación asociado al grupo H04L 61/00 [2022.01]"
+  },
+  {
+    "code": "H04L 101/30",
+    "description": "••Tipos de nombres de red [2022.01]"
+  },
+  {
+    "code": "H04L 101/32",
+    "description": "••••que contienen caracteres no latinos, p. ej. nombres de dominio chinos [2022.01]"
+  },
+  {
+    "code": "H04L 101/33",
+    "description": "••••que contienen direcciones o números de teléfono de protocolo [2022.01]"
+  },
+  {
+    "code": "H04L 101/345",
+    "description": "••••con caracteres comodín [2022.01]"
+  },
+  {
+    "code": "H04L 101/35",
+    "description": "••••que contienen prefijos especiales [2022.01]"
+  },
+  {
+    "code": "H04L 101/355",
+    "description": "••••que contienen sufijos especiales [2022.01]"
+  },
+  {
+    "code": "H04L 101/365",
+    "description": "••••Nombres de la capa de aplicación, p. ej. nombres de amigos, nombres no estructurados elegidos por un usuario o nombre del aparato doméstico [2022.01]"
+  },
+  {
+    "code": "H04L 101/37",
+    "description": "••••Direcciones de correo electrónico [2022.01]"
+  },
+  {
+    "code": "H04L 101/375",
+    "description": "••••Nombres de puntos de acceso [APN] [2022.01]"
+  },
+  {
+    "code": "H04L 101/38",
+    "description": "••••Identificador uniforme de recursos telefónicos [URI] [2022.01]"
+  },
+  {
+    "code": "H04L 101/385",
+    "description": "••••Identificador uniforme de recursos para el protocolo de inicio de sesión [SIP URI] [2022.01]"
+  },
+  {
+    "code": "H04L 101/39",
+    "description": "••••Identificador de recurso uniforme de agente de usuario globalmente enrutable [GRUU] para el protocolo de inicio de sesión [SIP] [2022.01]"
+  },
+  {
+    "code": "H04L 101/395",
+    "description": "••••Identidad privada multimedia del protocolo de Internet [IMPI]; Identidad pública multimedia del protocolo de Internet [IMPU] [2022.01]"
+  },
+  {
+    "code": "H04L 101/60",
+    "description": "••Tipos de direcciones de red [2022.01]"
+  },
+  {
+    "code": "H04L 101/604",
+    "description": "••••Estructuras o formatos de dirección [2022.01]"
+  },
+  {
+    "code": "H04L 101/618",
+    "description": "••••Detalles de las direcciones de red [2022.01]"
+  },
+  {
+    "code": "H04L 101/622",
+    "description": "••••••Direcciones de capa 2, p. ej.  direcciones de control de acceso al medio [MAC] [2022.01]"
+  },
+  {
+    "code": "H04L 101/627",
+    "description": "••••••Identificadores de la red de área de controladores [CAN] [2022.01]"
+  },
+  {
+    "code": "H04L 101/631",
+    "description": "••••••Direcciones del sistema de pequeños ordenadores [SCSI] [2022.01]"
+  },
+  {
+    "code": "H04L 101/636",
+    "description": "••••••Números de identificación IEEE1394 [2022.01]"
+  },
+  {
+    "code": "H04L 101/64",
+    "description": "••••••Direcciones del modo de transferencia asíncrono [ATM] [2022.01]"
+  },
+  {
+    "code": "H04L 101/645",
+    "description": "••••••Identificadores de canal de fibra [2022.01]"
+  },
+  {
+    "code": "H04L 101/65",
+    "description": "••••••Números de teléfono [2022.01]"
+  },
+  {
+    "code": "H04L 101/654",
+    "description": "••••••Números de identidad de abonado móvil internacional [IMSI] [2022.01]"
+  },
+  {
+    "code": "H04L 101/659",
+    "description": "••••••Direcciones del protocolo de Internet versión 6 [IPv6] [2022.01]"
+  },
+  {
+    "code": "H04L 101/663",
+    "description": "••••••Direcciones de la capa de transporte,  p. ej. aspectos de los puertos del protocolo de control de transmisión [TCP] o del protocolo de datagramas de usuario [UDP] [2022.01]"
+  },
+  {
+    "code": "H04L 101/668",
+    "description": "••••Subredes de direcciones del protocolo de Internet [IP] [2022.01]"
+  },
+  {
+    "code": "H04L 101/672",
+    "description": "••••Direcciones cortas [2022.01]"
+  },
+  {
+    "code": "H04L 101/677",
+    "description": "••••Múltiples interfaces,  p. ej. nodos multihomed [2022.01]"
+  },
+  {
+    "code": "H04L 101/681",
+    "description": "••••que utilizan direcciones para redes inalámbricas de área personal o redes inalámbricas de sensores p. ej. direcciones Zigbee [2022.01]"
+  },
+  {
+    "code": "H04L 101/686",
+    "description": "••••que utilizan hosts de doble pila, p. ej. en redes de protocolo de Internet versión 4 [IPv4]/protocolo de Internet versión 6 [IPv6] [2022.01]"
+  },
+  {
+    "code": "H04L 101/69",
+    "description": "••••que utilizan información geográfica, p. ej. el número de espacio [2022.01]"
+  },
+  {
+    "code": "H04L 101/695",
+    "description": "••••que utilizan máscaras o rangos de direcciones [2022.01]"
+  }
+]

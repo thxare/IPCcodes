@@ -1,0 +1,742 @@
+[
+  {
+    "code": "G01B 1/00",
+    "description": "Instrumentos de medida caracterizados por el uso de un material específico [2006.01]"
+  },
+  {
+    "code": "G01B 3/00",
+    "description": "Instrumentos de medición caracterizados por la utilización de técnicas mecánicas [2006.01]"
+  },
+  {
+    "code": "G01B 3/02",
+    "description": "••Reglas con escalas o marcas para la lectura directa (cintas de medición G01B 3/10) [2020.01]"
+  },
+  {
+    "code": "G01B 3/04",
+    "description": "••••rígidas [2006.01]"
+  },
+  {
+    "code": "G01B 3/06",
+    "description": "••••••plegables [2006.01]"
+  },
+  {
+    "code": "G01B 3/08",
+    "description": "••••••extensibles [2006.01]"
+  },
+  {
+    "code": "G01B 3/10",
+    "description": "••Cintas de medir [2020.01]"
+  },
+  {
+    "code": "G01B 3/1003",
+    "description": "••••caracterizadas por la estructura o el material; caracterizadas por el diseño o los indicios [2020.01]"
+  },
+  {
+    "code": "G01B 3/1005",
+    "description": "••••Medios para controlar el bobinado o desenrollado de cintas [2020.01]"
+  },
+  {
+    "code": "G01B 3/1007",
+    "description": "••••••Medios para bloquear [2020.01]"
+  },
+  {
+    "code": "G01B 3/102",
+    "description": "••••••Medios para amortiguar [2020.01]"
+  },
+  {
+    "code": "G01B 3/1041",
+    "description": "••••caracterizadas por las carcasas [2020.01]"
+  },
+  {
+    "code": "G01B 3/1043",
+    "description": "••••••Detalles de su estructura interna, p.ej. medios para acoplar mitades de carcasas moldeadas por separado [2020.01]"
+  },
+  {
+    "code": "G01B 3/1046",
+    "description": "••••••Detalles de su estructura externa, p.ej. formas para asegurar una sujeción más firme [2020.01]"
+  },
+  {
+    "code": "G01B 3/1048",
+    "description": "••••••••Medios integrados para fijar o sujetar [2020.01]"
+  },
+  {
+    "code": "G01B 3/1056",
+    "description": "••••Disposiciones del final de la cinta, p.ej. ganchos finales [2020.01]"
+  },
+  {
+    "code": "G01B 3/1061",
+    "description": "••••Medios para mostrar o asistir en la lectura de la medida de longitud [2020.01]"
+  },
+  {
+    "code": "G01B 3/1069",
+    "description": "••••••Dispositivos de visualización electrónicos o mecánicos [2020.01]"
+  },
+  {
+    "code": "G01B 3/1071",
+    "description": "••••Medios separados para soportar o fijar cintas de medición [2020.01]"
+  },
+  {
+    "code": "G01B 3/1084",
+    "description": "••••Cintas combinadas con dispositivos para funciones distintas a la medida de longitudes [2020.01]"
+  },
+  {
+    "code": "G01B 3/1089",
+    "description": "••••••para marcar, dibujar o cortar [2020.01]"
+  },
+  {
+    "code": "G01B 3/1092",
+    "description": "••••••para realizar medidas de longitud y al menos otra medida de diferente naturaleza, p.ej. nivel de burbuja [2020.01]"
+  },
+  {
+    "code": "G01B 3/1094",
+    "description": "••••••para registrar información o realizar cálculos [2020.01]"
+  },
+  {
+    "code": "G01B 3/11",
+    "description": "••Cadenas para la medida de longitudes [2006.01]"
+  },
+  {
+    "code": "G01B 3/12",
+    "description": "••Ruedas de medida [2006.01]"
+  },
+  {
+    "code": "G01B 3/14",
+    "description": "••Plantillas para la verificación de contornos [2006.01]"
+  },
+  {
+    "code": "G01B 3/16",
+    "description": "••Compases, p. ej. con un par de brazos pivotantes [2006.01]"
+  },
+  {
+    "code": "G01B 3/18",
+    "description": "••Micrómetros [2006.01]"
+  },
+  {
+    "code": "G01B 3/20",
+    "description": "••Galgas deslizantes [2006.01]"
+  },
+  {
+    "code": "G01B 3/22",
+    "description": "••Galgas palpadoras, p. ej. galgas de dial (para la medida de contornos o curvaturas G01B 5/20) [2006.01]"
+  },
+  {
+    "code": "G01B 3/24",
+    "description": "••••con horquilla abierta, p. ej. calibres [2006.01]"
+  },
+  {
+    "code": "G01B 3/26",
+    "description": "••••Galgas de clavija [2006.01]"
+  },
+  {
+    "code": "G01B 3/28",
+    "description": "••••Galgas de espesor [2006.01]"
+  },
+  {
+    "code": "G01B 3/30",
+    "description": "••Barras, bloques o bandas en los que la distancia entre dos caras es fija, pero que puede ser ajustada de antemano, p. ej. medida de extremo, banda palpadora [2006.01]"
+  },
+  {
+    "code": "G01B 3/32",
+    "description": "••••Sus soportes [2006.01]"
+  },
+  {
+    "code": "G01B 3/34",
+    "description": "••Galgas anulares u otras galgas con orificios, p. ej. calibres \"pasa/no pasa\" [2006.01]"
+  },
+  {
+    "code": "G01B 3/36",
+    "description": "••••para roscas de tornillo externas [2006.01]"
+  },
+  {
+    "code": "G01B 3/38",
+    "description": "••Galgas con horquilla abierta y caras opuestas, p. ej. calibres en los que la distancia interna entre caras es fija, aunque pueda ser preajustable [2006.01]"
+  },
+  {
+    "code": "G01B 3/40",
+    "description": "••••para roscas de tornillo externas [2006.01]"
+  },
+  {
+    "code": "G01B 3/42",
+    "description": "••••del tipo de calibre de límites, p. ej. \"pasa/no pasa\" (G01B 3/40 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01B 3/44",
+    "description": "••••••preajustables por desgaste o tolerancia [2006.01]"
+  },
+  {
+    "code": "G01B 3/46",
+    "description": "••Galgas de clavija para dimensiones internas con superficies de acoplamiento cuya separación es fija, aunque pueda ser preajustable [2006.01]"
+  },
+  {
+    "code": "G01B 3/48",
+    "description": "••••para roscas de tornillo internas [2006.01]"
+  },
+  {
+    "code": "G01B 3/50",
+    "description": "••••del tipo de calibre de límites, p. ej. \"pasa/no pasa\" (G01B 3/48 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01B 3/52",
+    "description": "••••••preajustables por desgaste o tolerancia [2006.01]"
+  },
+  {
+    "code": "G01B 3/56",
+    "description": "••Galgas para la medida de ángulos o conicidades, p. ej. calibres cónicos [2006.01]"
+  },
+  {
+    "code": "G01B 5/00",
+    "description": "Sistemas de medición caracterizados por el empleo de técnicas mecánicas [2006.01]"
+  },
+  {
+    "code": "G01B 5/004",
+    "description": "••para la medida de coordenadas de puntos [2006.01]"
+  },
+  {
+    "code": "G01B 5/008",
+    "description": "••••que utilizan máquinas de medida de coordenadas [2006.01]"
+  },
+  {
+    "code": "G01B 5/012",
+    "description": "••••••Cabezas palpadoras establecedoras de contacto para dichas máquinas [2006.01]"
+  },
+  {
+    "code": "G01B 5/016",
+    "description": "••••••••Detalles constructivos de los contactos [2006.01]"
+  },
+  {
+    "code": "G01B 5/02",
+    "description": "••para la medida de la longitud, el ancho o el espesor (G01B 5/004, G01B 5/08 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G01B 5/04",
+    "description": "••••especialmente adaptados para la medida de la longitud o el ancho de objetos en movimiento [2006.01]"
+  },
+  {
+    "code": "G01B 5/06",
+    "description": "••••para la medida del espesor [2006.01]"
+  },
+  {
+    "code": "G01B 5/08",
+    "description": "••para la medida de diámetros [2006.01]"
+  },
+  {
+    "code": "G01B 5/10",
+    "description": "••••de objetos en movimiento [2006.01]"
+  },
+  {
+    "code": "G01B 5/12",
+    "description": "••••diámetros internos [2006.01]"
+  },
+  {
+    "code": "G01B 5/14",
+    "description": "••para la medida de la distancia o la separación entre objetos espaciados o entre aberturas espaciadas (G01B 5/24 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01B 5/16",
+    "description": "••••entre una sucesión de objetos regularmente espaciados o de aberturas regularmente espaciadas [2006.01]"
+  },
+  {
+    "code": "G01B 5/18",
+    "description": "••para la medida de la profundidad [2006.01]"
+  },
+  {
+    "code": "G01B 5/20",
+    "description": "••para la medida de contornos o curvaturas [2006.01]"
+  },
+  {
+    "code": "G01B 5/207",
+    "description": "••••que utilizan una pluralidad de transductores fijos que funcionan simultáneamente (G01B 5/213-G01B 5/22 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G01B 5/213",
+    "description": "••••para la medida de radios de curvatura [2006.01]"
+  },
+  {
+    "code": "G01B 5/22",
+    "description": "••••Esferómetros [2006.01]"
+  },
+  {
+    "code": "G01B 5/24",
+    "description": "••para la medida de ángulos o conicidades; para ensayar la alineación de ejes [2006.01]"
+  },
+  {
+    "code": "G01B 5/245",
+    "description": "••••para ensayar la perpendicularidad [2006.01]"
+  },
+  {
+    "code": "G01B 5/25",
+    "description": "••••para ensayar la alineación de ejes [2006.01]"
+  },
+  {
+    "code": "G01B 5/252",
+    "description": "••••••para la medida de la excentricidad, p. ej. desviación lateral entre dos ejes paralelos [2006.01]"
+  },
+  {
+    "code": "G01B 5/255",
+    "description": "••••para ensayar la alineación de las ruedas [2006.01]"
+  },
+  {
+    "code": "G01B 5/26",
+    "description": "••para la medida de áreas, p. ej. planímetros [2006.01]"
+  },
+  {
+    "code": "G01B 5/28",
+    "description": "••para la medida de la rugosidad o la irregularidad de superficies [2006.01]"
+  },
+  {
+    "code": "G01B 5/30",
+    "description": "••para la medida de la deformación de un sólido, p. ej. galga extensiométrica mecánica [2006.01]"
+  },
+  {
+    "code": "G01B 7/00",
+    "description": "Sistemas de medición caracterizados por el empleo de técnicas eléctricas o magnéticas [2006.01]"
+  },
+  {
+    "code": "G01B 7/004",
+    "description": "••para la medida de coordenadas de puntos [2006.01]"
+  },
+  {
+    "code": "G01B 7/008",
+    "description": "••••que utilizan máquinas de medida de coordenadas [2006.01]"
+  },
+  {
+    "code": "G01B 7/012",
+    "description": "••••••Cabezas palpadoras establecedoras de contacto para dichas máquinas [2006.01]"
+  },
+  {
+    "code": "G01B 7/016",
+    "description": "••••••••Detalles constructivos de los contactos [2006.01]"
+  },
+  {
+    "code": "G01B 7/02",
+    "description": "••para la medida de la longitud, el ancho o el espesor (G01B 7/004, G01B 7/12 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01B 7/04",
+    "description": "••••especialmente adaptados para la medida de la longitud o el ancho de objetos en movimiento [2006.01]"
+  },
+  {
+    "code": "G01B 7/06",
+    "description": "••••para la medida del espesor [2006.01]"
+  },
+  {
+    "code": "G01B 7/12",
+    "description": "••para la medida de diámetros [2006.01]"
+  },
+  {
+    "code": "G01B 7/13",
+    "description": "••••diámetros internos [2006.01]"
+  },
+  {
+    "code": "G01B 7/14",
+    "description": "••para la medida de la distancia o la separación entre objetos espaciados o entre aberturas espaciadas (G01B 7/30 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01B 7/15",
+    "description": "••••que están uniformemente espaciados [2006.01]"
+  },
+  {
+    "code": "G01B 7/16",
+    "description": "••para la medida de la deformation de un sólido, p. ej. galga extensiométrica resistiva [2006.01]"
+  },
+  {
+    "code": "G01B 7/24",
+    "description": "••••que utilizan variaciones de las propiedades magnéticas [2006.01]"
+  },
+  {
+    "code": "G01B 7/26",
+    "description": "••para la medida de la profundidad [2006.01]"
+  },
+  {
+    "code": "G01B 7/28",
+    "description": "••para la medida de contornos o curvaturas [2006.01]"
+  },
+  {
+    "code": "G01B 7/287",
+    "description": "••••que utilizan una pluralidad de transductores fijos que funcionan simultáneamente (G01B 7/293 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01B 7/293",
+    "description": "••••para la medida de radios de curvatura [2006.01]"
+  },
+  {
+    "code": "G01B 7/30",
+    "description": "••para la medida de ángulos o conicidades; para ensayar la alineación de ejes [2006.01]"
+  },
+  {
+    "code": "G01B 7/305",
+    "description": "••••para ensayar la perpendicularidad [2006.01]"
+  },
+  {
+    "code": "G01B 7/31",
+    "description": "••••para ensayar la alineación de ejes [2006.01]"
+  },
+  {
+    "code": "G01B 7/312",
+    "description": "••••••para la medida de la excentricidad, p. ej. desviación lateral entre dos ejes paralelos [2006.01]"
+  },
+  {
+    "code": "G01B 7/315",
+    "description": "••••para ensayar la alineación de ruedas [2006.01]"
+  },
+  {
+    "code": "G01B 7/32",
+    "description": "••para medir áreas [2006.01]"
+  },
+  {
+    "code": "G01B 7/34",
+    "description": "••para la medida de la rugosidad o la irregularidad de superficies [2006.01]"
+  },
+  {
+    "code": "G01B 9/00",
+    "description": "Instrumentos de medición caracterizados por el empleo de técnicas ópticas [2006.01]"
+  },
+  {
+    "code": "G01B 9/02",
+    "description": "••Interferómetros [2022.01]"
+  },
+  {
+    "code": "G01B 9/02001",
+    "description": "••••caracterizados por controlar o generar propiedades de radiación intrínseca [2022.01]"
+  },
+  {
+    "code": "G01B 9/02002",
+    "description": "••••••que utilizan dos o más frecuencias [2022.01]"
+  },
+  {
+    "code": "G01B 9/02003",
+    "description": "••••••••utilizando frecuencias pulsadas [2022.01]"
+  },
+  {
+    "code": "G01B 9/02004",
+    "description": "••••••••utilizando barridos en frecuencia [2022.01]"
+  },
+  {
+    "code": "G01B 9/02015",
+    "description": "••••caracterizados por la configuración de la trayectoria del haz [2022.01]"
+  },
+  {
+    "code": "G01B 9/02017",
+    "description": "••••••con múltiples interacciones entre el objeto de destino y los haces de luz, p. ej. reflexiones del haz que se producen desde diferentes puntos [2022.01]"
+  },
+  {
+    "code": "G01B 9/02018",
+    "description": "••••••••Interferómetros de paso múltiple, p. ej. de paso doble [2022.01]"
+  },
+  {
+    "code": "G01B 9/02055",
+    "description": "••••Reducción o prevención de errores; Pruebas; Calibración [2022.01]"
+  },
+  {
+    "code": "G01B 9/02056",
+    "description": "••••••Reducción pasiva de errores [2022.01]"
+  },
+  {
+    "code": "G01B 9/02061",
+    "description": "••••••••Reducción o prevención de los efectos de las inclinaciones o desalineaciones [2022.01]"
+  },
+  {
+    "code": "G01B 9/0209",
+    "description": "••••Interferómetros de baja coherencia [2022.01]"
+  },
+  {
+    "code": "G01B 9/02091",
+    "description": "••••••Interferómetros tomográficos, p. ej. basados en coherencia óptica [2022.01]"
+  },
+  {
+    "code": "G01B 9/02097",
+    "description": "••••Autointerferómetros [2022.01]"
+  },
+  {
+    "code": "G01B 9/02098",
+    "description": "••••••Interferómetros de cizallamiento [2022.01]"
+  },
+  {
+    "code": "G01B 9/021",
+    "description": "••••que utilizan técnicas holográficas [2006.01]"
+  },
+  {
+    "code": "G01B 9/023",
+    "description": "••••••para la generación de contornos (G01B 9/025-G01B 9/029 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G01B 9/025",
+    "description": "••••••Técnica de doble exposición [2006.01]"
+  },
+  {
+    "code": "G01B 9/027",
+    "description": "••••••en tiempo real [2006.01]"
+  },
+  {
+    "code": "G01B 9/029",
+    "description": "••••••promediando en el tiempo [2006.01]"
+  },
+  {
+    "code": "G01B 9/04",
+    "description": "••Microscopios de medida [2006.01]"
+  },
+  {
+    "code": "G01B 9/06",
+    "description": "••Telescopios de medida [2006.01]"
+  },
+  {
+    "code": "G01B 9/08",
+    "description": "••Comparadores de proyección óptica [2006.01]"
+  },
+  {
+    "code": "G01B 9/10",
+    "description": "••Goniómetros para la medida de ángulos entre superficies [2006.01]"
+  },
+  {
+    "code": "G01B 11/00",
+    "description": "Sistemas de medición caracterizados por el empleo de técnicas ópticas [2006.01]"
+  },
+  {
+    "code": "G01B 11/02",
+    "description": "••para la medida de la longitud, la anchura o el espesor (G01B 11/08 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01B 11/03",
+    "description": "••••mediante la medida de coordenadas de puntos [2006.01]"
+  },
+  {
+    "code": "G01B 11/04",
+    "description": "••••especialmente adaptados para medir la longitud o la anchura de objetos en movimiento [2006.01]"
+  },
+  {
+    "code": "G01B 11/06",
+    "description": "••••para la medida del espesor [2006.01]"
+  },
+  {
+    "code": "G01B 11/08",
+    "description": "••para la medida de diámetros [2006.01]"
+  },
+  {
+    "code": "G01B 11/10",
+    "description": "••••de objetos en movimiento [2006.01]"
+  },
+  {
+    "code": "G01B 11/12",
+    "description": "••••diámetros internos [2006.01]"
+  },
+  {
+    "code": "G01B 11/14",
+    "description": "••para la medida de la distancia o la separación entre objetos espaciados o entre aberturas espaciadas (G01B 11/26 tiene prioridad; telémetros G01C 3/00) [2006.01]"
+  },
+  {
+    "code": "G01B 11/16",
+    "description": "••para la medida de la deformación de un sólido, p. ej. galga extensiométrica óptica [2006.01]"
+  },
+  {
+    "code": "G01B 11/22",
+    "description": "••para la medida de la profundidad [2006.01]"
+  },
+  {
+    "code": "G01B 11/24",
+    "description": "••para la medida de contornos o curvaturas [2006.01]"
+  },
+  {
+    "code": "G01B 11/245",
+    "description": "••••que utilizan una pluralidad de transductores fijos que funcionan simultáneamente (G01B 11/255 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01B 11/25",
+    "description": "••••mediante la proyección de un patrón, p. ej.franjas de Moiré, sobre el objeto (G01B 11/255 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01B 11/255",
+    "description": "••••para la medida de radios de curvatura [2006.01]"
+  },
+  {
+    "code": "G01B 11/26",
+    "description": "••para la medida de ángulos o conicidades; para ensayar la alineación de ejes [2006.01]"
+  },
+  {
+    "code": "G01B 11/27",
+    "description": "••••para ensayar la alineación de ejes [2006.01]"
+  },
+  {
+    "code": "G01B 11/275",
+    "description": "••••para ensayar la alineación de ruedas [2006.01]"
+  },
+  {
+    "code": "G01B 11/28",
+    "description": "••para medir áreas [2006.01]"
+  },
+  {
+    "code": "G01B 11/30",
+    "description": "••para la medida de la rugosidad o la irregularidad de superficies [2006.01]"
+  },
+  {
+    "code": "G01B 13/00",
+    "description": "Sistemas de medición caracterizados por el empleo de fluidos [2006.01]"
+  },
+  {
+    "code": "G01B 13/02",
+    "description": "••para la medida de la longitud, la anchura o el espesor (G01B 13/08 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01B 13/03",
+    "description": "••••mediante la medida de coordenadas de puntos [2006.01]"
+  },
+  {
+    "code": "G01B 13/04",
+    "description": "••••especialmente adaptados para medir la longitud o la anchura de objetos en movimiento [2006.01]"
+  },
+  {
+    "code": "G01B 13/06",
+    "description": "••••para la medida del espesor [2006.01]"
+  },
+  {
+    "code": "G01B 13/08",
+    "description": "••para la medida de diámetros [2006.01]"
+  },
+  {
+    "code": "G01B 13/10",
+    "description": "••••diámetros internos [2006.01]"
+  },
+  {
+    "code": "G01B 13/12",
+    "description": "••para la medida de la distancia o la separación entre objetos espaciados o entre aberturas espaciadas (G01B 13/18 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01B 13/14",
+    "description": "••para la medida de la profundidad [2006.01]"
+  },
+  {
+    "code": "G01B 13/16",
+    "description": "••para la medida de contornos o curvaturas [2006.01]"
+  },
+  {
+    "code": "G01B 13/18",
+    "description": "••para la medida de ángulos o conicidades; para ensayar la alineación de ejes [2006.01]"
+  },
+  {
+    "code": "G01B 13/19",
+    "description": "••••para ensayar la alineación de ejes [2006.01]"
+  },
+  {
+    "code": "G01B 13/195",
+    "description": "••••para ensayar la alineación de ruedas [2006.01]"
+  },
+  {
+    "code": "G01B 13/20",
+    "description": "••para medir áreas, p. ej. planímetros neumáticos [2006.01]"
+  },
+  {
+    "code": "G01B 13/22",
+    "description": "••para la medida de la rugosidad o la irregularidad de superficies [2006.01]"
+  },
+  {
+    "code": "G01B 13/24",
+    "description": "••para la medida de la deformación de un sólido [2006.01]"
+  },
+  {
+    "code": "G01B 15/00",
+    "description": "Sistemas de medición caracterizados por el empleo de ondas electromagnéticas o radiación de partículas, p.ej. mediante microondas, rayos X, rayos gamma o electrones (caracterizados por el empleo de técnicas ópticas G01B 9/00, G01B 11/00) [2006.01]"
+  },
+  {
+    "code": "G01B 15/02",
+    "description": "••para la medida del espesor [2006.01]"
+  },
+  {
+    "code": "G01B 15/04",
+    "description": "••para la medida de contornos o curvaturas [2006.01]"
+  },
+  {
+    "code": "G01B 15/06",
+    "description": "••para la medida de la deformación de un sólido [2006.01]"
+  },
+  {
+    "code": "G01B 15/08",
+    "description": "••para la medida de la rugosidad o la irregularidad de superficies [2006.01]"
+  },
+  {
+    "code": "G01B 17/00",
+    "description": "Sistemas de medición caracterizados por el empleo de vibraciones infrasónicas, sónicas o ultrasónicas [2006.01]"
+  },
+  {
+    "code": "G01B 17/02",
+    "description": "••para la medida del espesor [2006.01]"
+  },
+  {
+    "code": "G01B 17/04",
+    "description": "••para la medida de la deformación de un sólido, p. ej. mediante cuerda vibratoria [2006.01]"
+  },
+  {
+    "code": "G01B 17/06",
+    "description": "••para la medida de contornos o curvaturas [2006.01]"
+  },
+  {
+    "code": "G01B 17/08",
+    "description": "••para la medida de la rugosidad o la irregularidad de superficies [2006.01]"
+  },
+  {
+    "code": "G01B 21/00",
+    "description": "Sistemas de medición, o sus partes constitutivas, en los que la técnica de medida no está cubierta por los otros grupos de esta subclase, no está especificada o no es relevante [2006.01]"
+  },
+  {
+    "code": "G01B 21/02",
+    "description": "••para la medida de la longitud, la anchura o el espesor (G01B 21/10 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01B 21/04",
+    "description": "••••mediante la medida de coordenadas de puntos [2006.01]"
+  },
+  {
+    "code": "G01B 21/06",
+    "description": "••••especialmente adaptados para medir la longitud o la anchura de objetos en movimiento [2006.01]"
+  },
+  {
+    "code": "G01B 21/08",
+    "description": "••••para la medida del espesor [2006.01]"
+  },
+  {
+    "code": "G01B 21/10",
+    "description": "••para la medida de diámetros [2006.01]"
+  },
+  {
+    "code": "G01B 21/12",
+    "description": "••••de objetos en movimiento [2006.01]"
+  },
+  {
+    "code": "G01B 21/14",
+    "description": "••••diámetros internos [2006.01]"
+  },
+  {
+    "code": "G01B 21/16",
+    "description": "••para la medida de la distancia o la separación entre objetos espaciados [2006.01]"
+  },
+  {
+    "code": "G01B 21/18",
+    "description": "••para la medida de la profundidad [2006.01]"
+  },
+  {
+    "code": "G01B 21/20",
+    "description": "••para la medida de contornos o curvaturas, p. ej. determinación de perfiles [2006.01]"
+  },
+  {
+    "code": "G01B 21/22",
+    "description": "••para la medida de ángulos o conicidades; para ensayar la alineación de ejes [2006.01]"
+  },
+  {
+    "code": "G01B 21/24",
+    "description": "••••para ensayar la alineación de ejes [2006.01]"
+  },
+  {
+    "code": "G01B 21/26",
+    "description": "••••para ensayar la alineación de ruedas [2006.01]"
+  },
+  {
+    "code": "G01B 21/28",
+    "description": "••para medir áreas [2006.01]"
+  },
+  {
+    "code": "G01B 21/30",
+    "description": "••para la medida de la rugosidad o la irregularidad de superficies [2006.01]"
+  },
+  {
+    "code": "G01B 21/32",
+    "description": "••para la medida de la deformación de un sólido [2006.01]"
+  }
+]

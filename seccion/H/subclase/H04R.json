@@ -1,0 +1,398 @@
+[
+  {
+    "code": "H04R 1/00",
+    "description": "Detalles de los transductores (membranas H04R 7/00; caracterizado por la naturaleza del transductor, ver el grupo correspondiente de los grupos principales H04R 9/00-H04R 23/00; montajes adaptados especialmente para equipos telefónicos H04M 1/02) [2006.01]"
+  },
+  {
+    "code": "H04R 1/02",
+    "description": "••Cajas; Armarios; Montajes en el interior de éstos (H04R 1/28  tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H04R 1/04",
+    "description": "••••Asociación estructural de un micrófono con su circuito eléctrico (en aparatos para sordos H04R 25/00) [2006.01]"
+  },
+  {
+    "code": "H04R 1/06",
+    "description": "••Distribución de las ramificaciones de los circuitos; Alivio de los esfuerzos sobre las ramificaciones de los circuitos [2006.01]"
+  },
+  {
+    "code": "H04R 1/08",
+    "description": "••Embocaduras; Sus fijaciones [2006.01]"
+  },
+  {
+    "code": "H04R 1/10",
+    "description": "••Auriculares; Sus fijaciones [2006.01]"
+  },
+  {
+    "code": "H04R 1/12",
+    "description": "••Dispositivos sanitarios o higiénicos para embocaduras o auriculares, p. ej. para proteger contra la infección [2006.01]"
+  },
+  {
+    "code": "H04R 1/14",
+    "description": "••Montaje de micrófonos sobre la garganta [2006.01]"
+  },
+  {
+    "code": "H04R 1/16",
+    "description": "••Montaje o conexión de estiletes sobre transductores con o sin medios de amortiguamiento [2006.01]"
+  },
+  {
+    "code": "H04R 1/18",
+    "description": "••••Soportes para estiletes; Montaje de soportes sobre los transductores [2006.01]"
+  },
+  {
+    "code": "H04R 1/20",
+    "description": "••Disposiciones para obtener la frecuencia deseada o las características direccionales (para propositos de estereofonía H04R 5/00) [2006.01]"
+  },
+  {
+    "code": "H04R 1/22",
+    "description": "••••para obtener la característica de frecuencia deseada solamente [2006.01]"
+  },
+  {
+    "code": "H04R 1/24",
+    "description": "••••••Combinaciones estructurales de transductores separados o de partes del mismo transductor y sensibles respectivamente a dos o más bandas de frecuencia [2006.01]"
+  },
+  {
+    "code": "H04R 1/26",
+    "description": "••••••Disposiciones en el espacio de transductores separados sensibles a dos o varias bandas de frecuencia [2006.01]"
+  },
+  {
+    "code": "H04R 1/28",
+    "description": "••••••Soportes o recintos de transductores concebidos para respuesta de frecuencia específica; Recintos de transductores modificados por medio de impedancias mecánicas o acústicas, p. ej. resonadores, medios de amortiguamiento [2006.01]"
+  },
+  {
+    "code": "H04R 1/30",
+    "description": "••••••Combinaciones de transductores con sirenas, p. ej. con medios de equilibrio mecánicos [2006.01]"
+  },
+  {
+    "code": "H04R 1/32",
+    "description": "••••para obtener características direccionales deseadas solamente [2006.01]"
+  },
+  {
+    "code": "H04R 1/34",
+    "description": "••••••utilizando un solo transductor con medios de reflexión, difracción, dirección o guía del sonido [2006.01]"
+  },
+  {
+    "code": "H04R 1/36",
+    "description": "••••••••utilizando una sola abertura de dimensiones no superiores a la longitud de onda de funcionamiento más corta [2006.01]"
+  },
+  {
+    "code": "H04R 1/38",
+    "description": "••••••••en donde las ondas sonoras atacan los dos lados de una membrana y comprenden medios de desplazamiento de fase acústicos, p. ej. micrófono sensible al gradiente de presión [2006.01]"
+  },
+  {
+    "code": "H04R 1/40",
+    "description": "••••••por combinación de varios transductores idénticos [2006.01]"
+  },
+  {
+    "code": "H04R 1/42",
+    "description": "••Combinaciones de transductores con medios de presión por fluido u otros medios amplificadores no eléctricos [2006.01]"
+  },
+  {
+    "code": "H04R 1/44",
+    "description": "••Adaptaciones especiales para uso bajo el agua, p. ej. para hidrófonos [2006.01]"
+  },
+  {
+    "code": "H04R 1/46",
+    "description": "••Adaptaciones especiales para uso como micrófonos de contacto, p. ej. sobre instrumentos musicales, sobre estetoscopios (montaje de garganta H04R 1/14) [2006.01]"
+  },
+  {
+    "code": "H04R 3/00",
+    "description": "Circuitos para transductores (disposiciones para producir una reverberación sonora o un eco G10K 15/08; amplificadores H03F) [2006.01]"
+  },
+  {
+    "code": "H04R 3/02",
+    "description": "••para evitar la reacción acústica [2006.01]"
+  },
+  {
+    "code": "H04R 3/04",
+    "description": "••para corregir la de respuesta en frecuencia [2006.01]"
+  },
+  {
+    "code": "H04R 3/06",
+    "description": "••••de los transductores electrostáticos [2006.01]"
+  },
+  {
+    "code": "H04R 3/08",
+    "description": "••••de los transductores electromagnéticos [2006.01]"
+  },
+  {
+    "code": "H04R 3/10",
+    "description": "••••de los micrófonos de resistencia variable [2006.01]"
+  },
+  {
+    "code": "H04R 3/12",
+    "description": "••para distribuir señales a dos o más altavoces [2006.01]"
+  },
+  {
+    "code": "H04R 3/14",
+    "description": "••••Redes de recuperación [2006.01]"
+  },
+  {
+    "code": "H04R 5/00",
+    "description": "Dispositivos estereofónicos (cabezas de lectura estereofónicas H04R 9/16, H04R 11/12, H04R 17/08, H04R 19/10) [2006.01]"
+  },
+  {
+    "code": "H04R 5/02",
+    "description": "••Disposiciones espaciales o constructivas de los altavoces [2006.01]"
+  },
+  {
+    "code": "H04R 5/027",
+    "description": "••Disposiciones espaciales o estructurales de micrófonos, p. ej. dispositivos que simulan la cabeza humana [2006.01]"
+  },
+  {
+    "code": "H04R 5/033",
+    "description": "••Cascos para comunicación estereofónica [2006.01]"
+  },
+  {
+    "code": "H04R 5/04",
+    "description": "••Circuitos (sistemas estereofónicos H04S) [2006.01]"
+  },
+  {
+    "code": "H04R 7/00",
+    "description": "Membranas para transductores electromecánicos; Conos [2006.01]"
+  },
+  {
+    "code": "H04R 7/02",
+    "description": "••caracterizados por la estructura [2006.01]"
+  },
+  {
+    "code": "H04R 7/04",
+    "description": "••••Membranas planas [2006.01]"
+  },
+  {
+    "code": "H04R 7/06",
+    "description": "••••••comprendiendo varias secciones o capas [2006.01]"
+  },
+  {
+    "code": "H04R 7/08",
+    "description": "••••••••comprendiendo capas superpuestas separadas por el aire u otro fluido [2006.01]"
+  },
+  {
+    "code": "H04R 7/10",
+    "description": "••••••••comprendiendo capas superpuestas en contacto [2006.01]"
+  },
+  {
+    "code": "H04R 7/12",
+    "description": "••••Membranas no planas o conos [2006.01]"
+  },
+  {
+    "code": "H04R 7/14",
+    "description": "••••••onduladas, plegadas o nervadas [2006.01]"
+  },
+  {
+    "code": "H04R 7/16",
+    "description": "••Montajes o tensado de membranas o conos [2006.01]"
+  },
+  {
+    "code": "H04R 7/18",
+    "description": "••••en la periferia [2006.01]"
+  },
+  {
+    "code": "H04R 7/20",
+    "description": "••••••fijación de una membrana o cono elásticamente a un soporte por medio de un material flexible, resorte, hilos o cuerdas [2006.01]"
+  },
+  {
+    "code": "H04R 7/22",
+    "description": "••••••fijación del borde de la membrana o del cono sobre su asiento [2006.01]"
+  },
+  {
+    "code": "H04R 7/24",
+    "description": "••••tensión por medios que actúan directamente sobre la parte libre del diafragma o del cono [2006.01]"
+  },
+  {
+    "code": "H04R 7/26",
+    "description": "••Amortiguación por medios que actúan directamente sobre la parte libre del diafragma o del cono [2006.01]"
+  },
+  {
+    "code": "H04R 9/00",
+    "description": "Transductores del tipo de bobina móvil, de lámina móvil o de hilo móvil [2006.01]"
+  },
+  {
+    "code": "H04R 9/02",
+    "description": "••Detalles [2006.01]"
+  },
+  {
+    "code": "H04R 9/04",
+    "description": "••••Construcción, montaje o centrado de bobinas [2006.01]"
+  },
+  {
+    "code": "H04R 9/06",
+    "description": "••Altavoces [2006.01]"
+  },
+  {
+    "code": "H04R 9/08",
+    "description": "••Micrófonos [2006.01]"
+  },
+  {
+    "code": "H04R 9/10",
+    "description": "••Auriculares telefónicos [2006.01]"
+  },
+  {
+    "code": "H04R 9/12",
+    "description": "••Cabezas de lectura para gramófonos que utilizan un estilete; Registradores utilizando un estilete [2006.01]"
+  },
+  {
+    "code": "H04R 9/14",
+    "description": "••••comprendiendo dos o más estiletes o transductores (H04R 9/16  tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H04R 9/16",
+    "description": "••••señales registradas o reproducidas por vibración de un estilete en dos direcciones ortogonales simultáneamente [2006.01]"
+  },
+  {
+    "code": "H04R 9/18",
+    "description": "••Transductores resonantes, es decir, adaptados para producir una potencia de salida máxima para una frecuencia predeterminada [2006.01]"
+  },
+  {
+    "code": "H04R 11/00",
+    "description": "Transductores del tipo de armadura móvil o de núcleo móvil [2006.01]"
+  },
+  {
+    "code": "H04R 11/02",
+    "description": "••Altavoces [2006.01]"
+  },
+  {
+    "code": "H04R 11/04",
+    "description": "••Micrófonos [2006.01]"
+  },
+  {
+    "code": "H04R 11/06",
+    "description": "••Auriculares telefónicos [2006.01]"
+  },
+  {
+    "code": "H04R 11/08",
+    "description": "••Cabezas de lectura para gramófonos que utilizan un estilete; Registradores utilizando un estilete [2006.01]"
+  },
+  {
+    "code": "H04R 11/10",
+    "description": "••••comprendiendo varios estiletes o transductores (H04R 11/12  tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H04R 11/12",
+    "description": "••••señales registradas o reproducidas por vibración del estilete en dos direcciones ortogonales simultáneamente [2006.01]"
+  },
+  {
+    "code": "H04R 11/14",
+    "description": "••Transductores resonantes, es decir, adaptados para producir una potencia de salida máxima para una frecuencia predeterminada [2006.01]"
+  },
+  {
+    "code": "H04R 13/00",
+    "description": "Transductores que tienen una membrana acústica de material magnetizable actuando directamente con un electroimán [2006.01]"
+  },
+  {
+    "code": "H04R 13/02",
+    "description": "••Auriculares telefónicos [2006.01]"
+  },
+  {
+    "code": "H04R 15/00",
+    "description": "Transductores magnetoestrictivos [2006.01]"
+  },
+  {
+    "code": "H04R 15/02",
+    "description": "••Transductores resonantes, es decir, adaptados para producir una potencia de salida máxima para una frecuencia predeterminada [2006.01]"
+  },
+  {
+    "code": "H04R 17/00",
+    "description": "Transductores piezoeléctricos; Transductores electroestrictivos [2006.01]"
+  },
+  {
+    "code": "H04R 17/02",
+    "description": "••Micrófonos [2006.01]"
+  },
+  {
+    "code": "H04R 17/04",
+    "description": "••Cabezas de lectura para gramófonos que utilizan un estilete; Registradores utilizando un estilete [2006.01]"
+  },
+  {
+    "code": "H04R 17/06",
+    "description": "••••comprendiendo dos o más estiletes o transductores (H04R 17/08  tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H04R 17/08",
+    "description": "••••siendo las señales registradas o reproducidas por vibración de un estilete en dos direcciones ortogonales simultáneamente [2006.01]"
+  },
+  {
+    "code": "H04R 17/10",
+    "description": "••Transductores resonantes, es decir, adaptados para producir una potencia de salida máxima para una frecuencia predeterminada [2006.01]"
+  },
+  {
+    "code": "H04R 19/00",
+    "description": "Transductores electroestáticos [2006.01]"
+  },
+  {
+    "code": "H04R 19/01",
+    "description": "••caracterizados por la utilización de electrodos [2006.01]"
+  },
+  {
+    "code": "H04R 19/02",
+    "description": "••Altavoces (H04R 19/01  tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H04R 19/04",
+    "description": "••Micrófonos (H04R 19/01  tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H04R 19/06",
+    "description": "••Cabezas de lectura para gramófonos que utilizan un estilete; Registradores que utilizan estilete (H04R 19/01  tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H04R 19/08",
+    "description": "••••comprendiendo dos o varios estiletes o transductores (H04R 19/10  tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H04R 19/10",
+    "description": "••••siendo las señales registradas o reproducidas por vibración de un estilete en dos direcciones ortogonales simultáneamente [2006.01]"
+  },
+  {
+    "code": "H04R 21/00",
+    "description": "Transductores de resistencias variable (transductores de resistencia gaseosa H04R 23/00; transductores de reluctancia H04R 23/00) [2006.01]"
+  },
+  {
+    "code": "H04R 21/02",
+    "description": "••Micrófonos [2006.01]"
+  },
+  {
+    "code": "H04R 21/04",
+    "description": "••Captadores de fonógrafos que utilizan un estilete; Registradores que utilizan un estilete [2006.01]"
+  },
+  {
+    "code": "H04R 23/00",
+    "description": "Transductores distintos de los comprendidos por los grupos H04R 9/00-H04R 21/00 [2006.01]"
+  },
+  {
+    "code": "H04R 23/02",
+    "description": "••Transductores que utilizan varios principios simultáneamente [2006.01]"
+  },
+  {
+    "code": "H04R 25/00",
+    "description": "Aparatos para sordos [2006.01]"
+  },
+  {
+    "code": "H04R 25/02",
+    "description": "••adaptados para ser soportados enteramente por la oreja [2006.01]"
+  },
+  {
+    "code": "H04R 25/04",
+    "description": "••comprendiendo amplificadores de bolsillo [2006.01]"
+  },
+  {
+    "code": "H04R 27/00",
+    "description": "Sistemas de megafonia (circuitos para evitar la reacción acústica H04R 3/02) [2006.01]"
+  },
+  {
+    "code": "H04R 27/02",
+    "description": "••Sistemas amplificadores para sordos [2006.01]"
+  },
+  {
+    "code": "H04R 27/04",
+    "description": "••Megáfonos eléctricos [2006.01]"
+  },
+  {
+    "code": "H04R 29/00",
+    "description": "Dispositivos de monitorización; Dispositivos de ensayo [2006.01]"
+  },
+  {
+    "code": "H04R 31/00",
+    "description": "Aparatos o procedimientos especialmente adaptados a la fabricación de transductores o de sus diafragmas [2006.01]"
+  }
+]

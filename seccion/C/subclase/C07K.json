@@ -1,0 +1,1122 @@
+[
+  {
+    "code": "C07K 1/00",
+    "description": "Procedimientos generales de preparación de péptidos [2006.01]"
+  },
+  {
+    "code": "C07K 1/02",
+    "description": "••en solución [2006.01]"
+  },
+  {
+    "code": "C07K 1/04",
+    "description": "••sobre soportes [2006.01]"
+  },
+  {
+    "code": "C07K 1/06",
+    "description": "••utilizando grupos protectores o agentes de activación [2006.01]"
+  },
+  {
+    "code": "C07K 1/08",
+    "description": "••••utilizando agentes de activación [2006.01]"
+  },
+  {
+    "code": "C07K 1/10",
+    "description": "••utilizando agentes de acoplamiento [2006.01]"
+  },
+  {
+    "code": "C07K 1/107",
+    "description": "••por modificación química de los péptidos precursores [2006.01]"
+  },
+  {
+    "code": "C07K 1/113",
+    "description": "••••sin cambio de la estructura primaria [2006.01]"
+  },
+  {
+    "code": "C07K 1/12",
+    "description": "••por hidrólisis [2006.01]"
+  },
+  {
+    "code": "C07K 1/13",
+    "description": "••Marcaje de péptidos [2006.01]"
+  },
+  {
+    "code": "C07K 1/14",
+    "description": "••Extracción; Separación; Purificación [2006.01]"
+  },
+  {
+    "code": "C07K 1/16",
+    "description": "••••por cromatografía [2006.01]"
+  },
+  {
+    "code": "C07K 1/18",
+    "description": "••••••Cromatografía de intercambio iónico [2006.01]"
+  },
+  {
+    "code": "C07K 1/20",
+    "description": "••••••Cromatografía de partición, fase inversa o hidrófoba [2006.01]"
+  },
+  {
+    "code": "C07K 1/22",
+    "description": "••••••Cromatografía de afinidad o técnicas análogas basadas en procesos de absorción selectiva [2006.01]"
+  },
+  {
+    "code": "C07K 1/24",
+    "description": "••••por medios electroquímicos [2006.01]"
+  },
+  {
+    "code": "C07K 1/26",
+    "description": "••••••Electroforesis [2006.01]"
+  },
+  {
+    "code": "C07K 1/28",
+    "description": "••••••••Focalización isoeléctrica [2006.01]"
+  },
+  {
+    "code": "C07K 1/30",
+    "description": "••••por precipitación [2006.01]"
+  },
+  {
+    "code": "C07K 1/32",
+    "description": "••••••en forma de complejos [2006.01]"
+  },
+  {
+    "code": "C07K 1/34",
+    "description": "••••por filtración, ultrafiltración u ósmosis inversa [2006.01]"
+  },
+  {
+    "code": "C07K 1/36",
+    "description": "••••por una combinación de varios procesos de diferentes tipos [2006.01]"
+  },
+  {
+    "code": "C07K 2/00",
+    "description": "Péptidos con un número indeterminado de aminoácidos; Sus derivados [2006.01]"
+  },
+  {
+    "code": "C07K 4/00",
+    "description": "Péptidos con hasta 20 aminoácidos en una secuencia indeterminada o sólo parcialmente determinada; Sus derivados [2006.01]"
+  },
+  {
+    "code": "C07K 4/02",
+    "description": "••de virus [2006.01]"
+  },
+  {
+    "code": "C07K 4/04",
+    "description": "••de bacterias [2006.01]"
+  },
+  {
+    "code": "C07K 4/06",
+    "description": "••de hongos [2006.01]"
+  },
+  {
+    "code": "C07K 4/08",
+    "description": "••de algas; de líquenes [2006.01]"
+  },
+  {
+    "code": "C07K 4/10",
+    "description": "••de vegetales [2006.01]"
+  },
+  {
+    "code": "C07K 4/12",
+    "description": "••de animales; de humanos [2006.01]"
+  },
+  {
+    "code": "C07K 5/00",
+    "description": "Péptidos con hasta cuatro aminoácidos en una secuencia totalmente determinada; Sus derivados [2006.01]"
+  },
+  {
+    "code": "C07K 5/02",
+    "description": "••que contienen al menos un enlace peptídico anormal [2006.01]"
+  },
+  {
+    "code": "C07K 5/023",
+    "description": "••••que contienen al menos un beta-aminoácido [2006.01]"
+  },
+  {
+    "code": "C07K 5/027",
+    "description": "••••que contienen al menos un gamma-aminoácido, p. ej. estatina [2006.01]"
+  },
+  {
+    "code": "C07K 5/03",
+    "description": "••••que contienen al menos un delta-aminoácido, p. ej. isósteres [2006.01]"
+  },
+  {
+    "code": "C07K 5/033",
+    "description": "••••que contienen al menos un epsilon o un zeta-aminoácido [2006.01]"
+  },
+  {
+    "code": "C07K 5/037",
+    "description": "••••el enlace anormal lo forma la cadena lateral de un alfa-aminoácido, p. ej. gamma-Glu, epsilon-Lys, glutatión [2006.01]"
+  },
+  {
+    "code": "C07K 5/04",
+    "description": "••conteniendo sólo enlaces peptídicos normales [2006.01]"
+  },
+  {
+    "code": "C07K 5/06",
+    "description": "••••Dipéptidos [2006.01]"
+  },
+  {
+    "code": "C07K 5/062",
+    "description": "••••••la cadena lateral del primer aminoácido es acíclica, p. ej. Gly, Ala [2006.01]"
+  },
+  {
+    "code": "C07K 5/065",
+    "description": "••••••la cadena lateral del primer aminoácido contiene carbociclos, p. ej. Phe, Tyr [2006.01]"
+  },
+  {
+    "code": "C07K 5/068",
+    "description": "••••••la cadena lateral del primer aminoácido contiene más grupos amino que grupos carboxilo, o sus derivados, p. ej. Lys, Arg [2006.01]"
+  },
+  {
+    "code": "C07K 5/072",
+    "description": "••••••la cadena lateral del primer aminoácido contiene más grupos carboxilo que grupos amino, o sus derivados, p. ej. Asp, Glu, Asn [2006.01]"
+  },
+  {
+    "code": "C07K 5/075",
+    "description": "••••••••Asp-Phe; Sus derivados, p. ej. aspartamo [2006.01]"
+  },
+  {
+    "code": "C07K 5/078",
+    "description": "••••••el primer aminoácido es heterocíclico, p. ej. Pro, His, Trp [2006.01]"
+  },
+  {
+    "code": "C07K 5/08",
+    "description": "••••Tripéptidos [2006.01]"
+  },
+  {
+    "code": "C07K 5/083",
+    "description": "••••••la cadena lateral del primer aminoácido es acíclica, p. ej. Gly, Ala [2006.01]"
+  },
+  {
+    "code": "C07K 5/087",
+    "description": "••••••la cadena lateral del primer aminoácido contiene carbociclos, p. ej. Phe, Tyr [2006.01]"
+  },
+  {
+    "code": "C07K 5/09",
+    "description": "••••••la cadena lateral del primer aminoácido contiene más grupos amino que grupos carboxilo, o sus derivados, p. ej. Lys, Arg [2006.01]"
+  },
+  {
+    "code": "C07K 5/093",
+    "description": "••••••la cadena lateral del primer aminoácido contiene más grupos carboxilo que grupos amino, o sus derivados, p. ej. Asp, Glu, Asn [2006.01]"
+  },
+  {
+    "code": "C07K 5/097",
+    "description": "••••••el primer aminoácido es heterocíclico, p. ej. Pro, His, Trp, p. ej. tiroliberina, melanostatina [2006.01]"
+  },
+  {
+    "code": "C07K 5/10",
+    "description": "••••Tretapéptidos [2006.01]"
+  },
+  {
+    "code": "C07K 5/103",
+    "description": "••••••la cadena lateral del primer aminoácido es acíclica, p. ej. Gly, Ala [2006.01]"
+  },
+  {
+    "code": "C07K 5/107",
+    "description": "••••••la cadena lateral del primer aminoácido contiene carbociclos, p. ej. Phe, Tyr [2006.01]"
+  },
+  {
+    "code": "C07K 5/11",
+    "description": "••••••la cadena lateral del primer aminoácido contiene más grupos amino que grupos carboxilo, o sus derivados, p. ej. Lys, Arg [2006.01]"
+  },
+  {
+    "code": "C07K 5/113",
+    "description": "••••••la cadena lateral del primer aminoácido contiene más grupos carboxilo que grupos amino, o sus derivados, p. ej. Asp, Glu, Asn [2006.01]"
+  },
+  {
+    "code": "C07K 5/117",
+    "description": "••••••el primer aminoácido es heterocíclico, p. ej. Pro, His, Trp [2006.01]"
+  },
+  {
+    "code": "C07K 5/12",
+    "description": "••••Péptidos cíclicos [2006.01]"
+  },
+  {
+    "code": "C07K 7/00",
+    "description": "Péptidos con 5 a 20 aminoácidos en una secuencia totalmente determinada; Sus derivados [2006.01]"
+  },
+  {
+    "code": "C07K 7/02",
+    "description": "••Péptidos lineales que contienen al menos un enlace peptídico anormal [2006.01]"
+  },
+  {
+    "code": "C07K 7/04",
+    "description": "••Péptidos lineales que contienen solamente enlaces peptídicos normales [2006.01]"
+  },
+  {
+    "code": "C07K 7/06",
+    "description": "••••con 5 a 11 aminoácidos [2006.01]"
+  },
+  {
+    "code": "C07K 7/08",
+    "description": "••••con 12 a 20 aminoácidos [2006.01]"
+  },
+  {
+    "code": "C07K 7/14",
+    "description": "••••Angiotensinas; Péptidos semejantes [2006.01]"
+  },
+  {
+    "code": "C07K 7/16",
+    "description": "••••Oxitocinas; Vasopresinas; Péptidos semejantes [2006.01]"
+  },
+  {
+    "code": "C07K 7/18",
+    "description": "••••Kalidinas; Bradiquininas; Péptidos semejantes [2006.01]"
+  },
+  {
+    "code": "C07K 7/22",
+    "description": "••••Eledoisinas; Péptidos semejantes [2006.01]"
+  },
+  {
+    "code": "C07K 7/23",
+    "description": "••••Hormona liberadora de la hormona luteinizante (LHRH); Péptidos semejantes [2006.01]"
+  },
+  {
+    "code": "C07K 7/28",
+    "description": "••••Gramicidinas A, B, D; Péptidos semejantes [2006.01]"
+  },
+  {
+    "code": "C07K 7/50",
+    "description": "••Péptidos cíclicos que contienen al menos un enlace peptídico anormal [2006.01]"
+  },
+  {
+    "code": "C07K 7/52",
+    "description": "••••conteniendo sólo enlaces peptídicos normales en el ciclo [2006.01]"
+  },
+  {
+    "code": "C07K 7/54",
+    "description": "••••conteniendo al menos un enlace peptídico anormal en el ciclo [2006.01]"
+  },
+  {
+    "code": "C07K 7/56",
+    "description": "••••••ciclados de forma distinta que por el ácido diamino-2,4 butanoico [2006.01]"
+  },
+  {
+    "code": "C07K 7/58",
+    "description": "••••••••Bacitracinas; Péptidos semejantes [2006.01]"
+  },
+  {
+    "code": "C07K 7/60",
+    "description": "••••••ciclados por el grupo amino-4 del ácido diamino-2,4 butanoico [2006.01]"
+  },
+  {
+    "code": "C07K 7/62",
+    "description": "••••••••Polimixinas; Péptidos semejantes [2006.01]"
+  },
+  {
+    "code": "C07K 7/64",
+    "description": "••Péptidos cíclicos que contienen solamente enlaces peptídicos normales [2006.01]"
+  },
+  {
+    "code": "C07K 7/66",
+    "description": "••••Gramicidinas S, C; Tirocidinas A, B, C; Péptidos semejantes [2006.01]"
+  },
+  {
+    "code": "C07K 9/00",
+    "description": "Péptidos de hasta 20 aminoácidos, que contienen radicales sacáridos y una secuencia totalmente determinada; Sus derivados [2006.01]"
+  },
+  {
+    "code": "C07K 11/00",
+    "description": "Depsipéptidos que contienen hasta 20 aminoácidos en una secuencia totalmente determinada; Sus derivados [2006.01]"
+  },
+  {
+    "code": "C07K 11/02",
+    "description": "••cíclicos, p. ej. valinomicinas [2006.01]"
+  },
+  {
+    "code": "C07K 14/00",
+    "description": "Péptidos con más de 20 aminoácidos; Gastrinas; Somatostatinas; Melanotropinas; Sus derivados [2006.01]"
+  },
+  {
+    "code": "C07K 14/005",
+    "description": "••de origen vírico [2006.01]"
+  },
+  {
+    "code": "C07K 14/01",
+    "description": "••••virus ADN [2006.01]"
+  },
+  {
+    "code": "C07K 14/015",
+    "description": "••••••Parvoviridae, p. ej. virus de la panleucopenia felina, parvovirus humano [2006.01]"
+  },
+  {
+    "code": "C07K 14/02",
+    "description": "••••••Hepadnaviridae, p. ej. virus de la hepatitis B [2006.01]"
+  },
+  {
+    "code": "C07K 14/025",
+    "description": "••••••Papovaviridae, p. ej. virus de papiloma, virus del polioma, SV40, virus BK, virus JC [2006.01]"
+  },
+  {
+    "code": "C07K 14/03",
+    "description": "••••••Herpetoviridae, p. ej. virus de la pseudorrabia [2006.01]"
+  },
+  {
+    "code": "C07K 14/035",
+    "description": "••••••••Virus herpes simple I o II [2006.01]"
+  },
+  {
+    "code": "C07K 14/04",
+    "description": "••••••••Herpesvirus varicellae [2006.01]"
+  },
+  {
+    "code": "C07K 14/045",
+    "description": "••••••••Citomegalovirus [2006.01]"
+  },
+  {
+    "code": "C07K 14/05",
+    "description": "••••••••Virus Epstein-Barr [2006.01]"
+  },
+  {
+    "code": "C07K 14/055",
+    "description": "••••••••Virus de la enfermedad de Marek [2006.01]"
+  },
+  {
+    "code": "C07K 14/06",
+    "description": "••••••••Virus de la rinotraqueítis infeccionsa bovina [2006.01]"
+  },
+  {
+    "code": "C07K 14/065",
+    "description": "••••••Poxviridae, p. ej. avipoxvirus [2006.01]"
+  },
+  {
+    "code": "C07K 14/07",
+    "description": "••••••••Virus de la vacuna; Virus de la viruela [2006.01]"
+  },
+  {
+    "code": "C07K 14/075",
+    "description": "••••••Adenoviridae [2006.01]"
+  },
+  {
+    "code": "C07K 14/08",
+    "description": "••••Virus ARN [2006.01]"
+  },
+  {
+    "code": "C07K 14/085",
+    "description": "••••••Picornaviridae, p. ej. virus Coxsackie, ecovirus, enterovirus [2006.01]"
+  },
+  {
+    "code": "C07K 14/09",
+    "description": "••••••••Virus de la fiebre aftosa [2006.01]"
+  },
+  {
+    "code": "C07K 14/095",
+    "description": "••••••••Rhinovirus [2006.01]"
+  },
+  {
+    "code": "C07K 14/10",
+    "description": "••••••••Virus de la hepatitis A [2006.01]"
+  },
+  {
+    "code": "C07K 14/105",
+    "description": "••••••••Virus de la poliomelitis [2006.01]"
+  },
+  {
+    "code": "C07K 14/11",
+    "description": "••••••Orthomyxoviridae, p. ej. virus de la influenza [2006.01]"
+  },
+  {
+    "code": "C07K 14/115",
+    "description": "••••••Paramyxoviridae, p. ej. virus de la parainfluenza [2006.01]"
+  },
+  {
+    "code": "C07K 14/12",
+    "description": "••••••••Virus de la parotiditis; Virus del sarampión [2006.01]"
+  },
+  {
+    "code": "C07K 14/125",
+    "description": "••••••••Virus de la enfermedad de Newcastle [2006.01]"
+  },
+  {
+    "code": "C07K 14/13",
+    "description": "••••••••Virus del moquillo canino [2006.01]"
+  },
+  {
+    "code": "C07K 14/135",
+    "description": "••••••••Virus respiratorio sincitial [2006.01]"
+  },
+  {
+    "code": "C07K 14/14",
+    "description": "••••••Reoviridae, p. ej. rotavirus, virus de la lengua azul de la oveja, virus de la fiebre de garrapatas del Colorado [2006.01]"
+  },
+  {
+    "code": "C07K 14/145",
+    "description": "••••••Rhabdoviridae, p. ej. virus de la rabia, virus Duvenhage, virus Mokda, virus de la estomatitis vesicular [2006.01]"
+  },
+  {
+    "code": "C07K 14/15",
+    "description": "••••••Retroviridae, p. ej. virus de la leucemia bovina, virus de la leucemia felina, virus linfotrópico de células T humanas [2006.01]"
+  },
+  {
+    "code": "C07K 14/155",
+    "description": "••••••••Lentiviridae, p. ej. virus de la inmunodeficiencia humana (VIH), virus visnamaedi, virus de la anemia infecciosa equina [2006.01]"
+  },
+  {
+    "code": "C07K 14/16",
+    "description": "••••••••••VIH-1 [2006.01]"
+  },
+  {
+    "code": "C07K 14/165",
+    "description": "••••••Coronaviridae, p. ej. virus de la bronquitis infecciosa aviar [2006.01]"
+  },
+  {
+    "code": "C07K 14/17",
+    "description": "••••••••Virus de la gastroenteritis transmisible del cerdo [2006.01]"
+  },
+  {
+    "code": "C07K 14/175",
+    "description": "••••••Bunyaviridae, p. ej. virus de la encefalitis californiana, virus de la fiebre del Rift Valley, virus Hantaan [2006.01]"
+  },
+  {
+    "code": "C07K 14/18",
+    "description": "••••••Togaviridae, p. ej. Flavivirus, virus de la peste, virus de la fiebre amarilla, virus de la hepatitis C, virus de la encefalitis japonesa [2006.01]"
+  },
+  {
+    "code": "C07K 14/185",
+    "description": "••••••••Virus de la peste porcina [2006.01]"
+  },
+  {
+    "code": "C07K 14/19",
+    "description": "••••••••Virus de la rubeola [2006.01]"
+  },
+  {
+    "code": "C07K 14/195",
+    "description": "••de origen bacteriano [2006.01]"
+  },
+  {
+    "code": "C07K 14/20",
+    "description": "••••de Spirochaetales (O), p. ej. Treponema, Leptospira [2006.01]"
+  },
+  {
+    "code": "C07K 14/205",
+    "description": "••••de Campylobacter (G) [2006.01]"
+  },
+  {
+    "code": "C07K 14/21",
+    "description": "••••de Pseudomonadaceae (F) [2006.01]"
+  },
+  {
+    "code": "C07K 14/215",
+    "description": "••••de Halobacteriaceae (F) [2006.01]"
+  },
+  {
+    "code": "C07K 14/22",
+    "description": "••••de Neisseriaceae (F), p. ej. Acinetobacter [2006.01]"
+  },
+  {
+    "code": "C07K 14/225",
+    "description": "••••de Alcaligenes (G) [2006.01]"
+  },
+  {
+    "code": "C07K 14/23",
+    "description": "••••de Brucella (G) [2006.01]"
+  },
+  {
+    "code": "C07K 14/235",
+    "description": "••••de Bordetella (G) [2006.01]"
+  },
+  {
+    "code": "C07K 14/24",
+    "description": "••••de Enterobacteriaceae (F), p. ej. Citrobacter, Serratia, Proteus, Providencia, Morganella, Yersinia [2006.01]"
+  },
+  {
+    "code": "C07K 14/245",
+    "description": "••••••Escherichia (G) [2006.01]"
+  },
+  {
+    "code": "C07K 14/25",
+    "description": "••••••Shigella (G) [2006.01]"
+  },
+  {
+    "code": "C07K 14/255",
+    "description": "••••••Salmonella (G) [2006.01]"
+  },
+  {
+    "code": "C07K 14/26",
+    "description": "••••••Klebsiella (G) [2006.01]"
+  },
+  {
+    "code": "C07K 14/265",
+    "description": "••••••Enterobacter (G) [2006.01]"
+  },
+  {
+    "code": "C07K 14/27",
+    "description": "••••••Erwinia (G) [2006.01]"
+  },
+  {
+    "code": "C07K 14/275",
+    "description": "••••••Hafnia (G) [2006.01]"
+  },
+  {
+    "code": "C07K 14/28",
+    "description": "••••de Vibrionaceae (F) [2006.01]"
+  },
+  {
+    "code": "C07K 14/285",
+    "description": "••••de Pasteurellaceae (F), p. ej. Haemophilus influenza [2006.01]"
+  },
+  {
+    "code": "C07K 14/29",
+    "description": "••••de Rickettsiales (O) [2006.01]"
+  },
+  {
+    "code": "C07K 14/295",
+    "description": "••••de Chlamydiales (O) [2006.01]"
+  },
+  {
+    "code": "C07K 14/30",
+    "description": "••••de Mycoplasmatales, p. ej. microorganismos del tipo Pleuropneumonia (PPLO) [2006.01]"
+  },
+  {
+    "code": "C07K 14/305",
+    "description": "••••de Micrococcaceae (F) [2006.01]"
+  },
+  {
+    "code": "C07K 14/31",
+    "description": "••••••de Staphylococcus (G) [2006.01]"
+  },
+  {
+    "code": "C07K 14/315",
+    "description": "••••de Streptococcus (G), p. ej. Enterococci [2006.01]"
+  },
+  {
+    "code": "C07K 14/32",
+    "description": "••••de Bacillus (G) [2006.01]"
+  },
+  {
+    "code": "C07K 14/325",
+    "description": "••••••Péptido cristalino de Bacillus thuringiensis (delta-endotoxina) [2006.01]"
+  },
+  {
+    "code": "C07K 14/33",
+    "description": "••••de Clostridium (G) [2006.01]"
+  },
+  {
+    "code": "C07K 14/335",
+    "description": "••••de Lactobacillus (G) [2006.01]"
+  },
+  {
+    "code": "C07K 14/34",
+    "description": "••••de Corynebacterium (G) [2006.01]"
+  },
+  {
+    "code": "C07K 14/345",
+    "description": "••••de Brevibacterium (G) [2006.01]"
+  },
+  {
+    "code": "C07K 14/35",
+    "description": "••••de Mycobacteriaceae (F) [2006.01]"
+  },
+  {
+    "code": "C07K 14/355",
+    "description": "••••de Nocardia (G) [2006.01]"
+  },
+  {
+    "code": "C07K 14/36",
+    "description": "••••de Actinomyces; de Streptomyces (G) [2006.01]"
+  },
+  {
+    "code": "C07K 14/365",
+    "description": "••••de Actinoplanes (G) [2006.01]"
+  },
+  {
+    "code": "C07K 14/37",
+    "description": "••de hongos [2006.01]"
+  },
+  {
+    "code": "C07K 14/375",
+    "description": "••••de Basidiomycetes [2006.01]"
+  },
+  {
+    "code": "C07K 14/38",
+    "description": "••••de Aspergillus [2006.01]"
+  },
+  {
+    "code": "C07K 14/385",
+    "description": "••••de Penicillium [2006.01]"
+  },
+  {
+    "code": "C07K 14/39",
+    "description": "••••de levaduras [2006.01]"
+  },
+  {
+    "code": "C07K 14/395",
+    "description": "••••••de Saccharomyces [2006.01]"
+  },
+  {
+    "code": "C07K 14/40",
+    "description": "••••••de Candida [2006.01]"
+  },
+  {
+    "code": "C07K 14/405",
+    "description": "••de algas [2006.01]"
+  },
+  {
+    "code": "C07K 14/41",
+    "description": "••de líquenes [2006.01]"
+  },
+  {
+    "code": "C07K 14/415",
+    "description": "••de vegetales [2006.01]"
+  },
+  {
+    "code": "C07K 14/42",
+    "description": "••••Lectinas, p. ej. concanavalina, fitohemaglutinina [2006.01]"
+  },
+  {
+    "code": "C07K 14/425",
+    "description": "••••Zeínas [2006.01]"
+  },
+  {
+    "code": "C07K 14/43",
+    "description": "••••Taumatina [2006.01]"
+  },
+  {
+    "code": "C07K 14/435",
+    "description": "••de animales; de humanos [2006.01]"
+  },
+  {
+    "code": "C07K 14/44",
+    "description": "••••de protozoos [2006.01]"
+  },
+  {
+    "code": "C07K 14/445",
+    "description": "••••••Plasmodium [2006.01]"
+  },
+  {
+    "code": "C07K 14/45",
+    "description": "••••••Toxoplasma [2006.01]"
+  },
+  {
+    "code": "C07K 14/455",
+    "description": "••••••Eimeria [2006.01]"
+  },
+  {
+    "code": "C07K 14/46",
+    "description": "••••de vertebrados [2006.01]"
+  },
+  {
+    "code": "C07K 14/465",
+    "description": "••••••de aves [2006.01]"
+  },
+  {
+    "code": "C07K 14/47",
+    "description": "••••••de mamíferos [2006.01]"
+  },
+  {
+    "code": "C07K 14/475",
+    "description": "••••Factores de crecimiento; Reguladores de crecimiento [2006.01]"
+  },
+  {
+    "code": "C07K 14/48",
+    "description": "••••••Factor de crecimiento de tejido nervioso (NGF) [2006.01]"
+  },
+  {
+    "code": "C07K 14/485",
+    "description": "••••••Factor de crecimiento epidérmico (EGF) (urogastrona) [2006.01]"
+  },
+  {
+    "code": "C07K 14/49",
+    "description": "••••••Factor de crecimiento derivado de plaquetas (PDGF) [2006.01]"
+  },
+  {
+    "code": "C07K 14/495",
+    "description": "••••••Factor de crecimiento transformante (TGF) [2006.01]"
+  },
+  {
+    "code": "C07K 14/50",
+    "description": "••••••Factor de crecimiento de fibroblastos (FGF) [2006.01]"
+  },
+  {
+    "code": "C07K 14/505",
+    "description": "••••••Eritropoyetina (EPO) [2006.01]"
+  },
+  {
+    "code": "C07K 14/51",
+    "description": "••••••Factor morfogénico óseo; Osteogenina; Factor osteogénico; Factor óseoinductor [2006.01]"
+  },
+  {
+    "code": "C07K 14/515",
+    "description": "••••••Factor angiogénico; Angiogenina [2006.01]"
+  },
+  {
+    "code": "C07K 14/52",
+    "description": "••••Citoquinas; Linfoquinas; Interferones [2006.01]"
+  },
+  {
+    "code": "C07K 14/525",
+    "description": "••••••Factor de necrosis tumoral (TNF) [2006.01]"
+  },
+  {
+    "code": "C07K 14/53",
+    "description": "••••••Factor estimulante de colonias (CSF) [2006.01]"
+  },
+  {
+    "code": "C07K 14/535",
+    "description": "••••••••CSF de granulocitos; CSF de granulocitos-macrófagos [2006.01]"
+  },
+  {
+    "code": "C07K 14/54",
+    "description": "••••••Interleuquinas (IL) [2006.01]"
+  },
+  {
+    "code": "C07K 14/545",
+    "description": "••••••••IL-1 [2006.01]"
+  },
+  {
+    "code": "C07K 14/55",
+    "description": "••••••••IL-2 [2006.01]"
+  },
+  {
+    "code": "C07K 14/555",
+    "description": "••••••Interferones (IFN) [2006.01]"
+  },
+  {
+    "code": "C07K 14/56",
+    "description": "••••••••IFN alfa [2006.01]"
+  },
+  {
+    "code": "C07K 14/565",
+    "description": "••••••••IFN beta [2006.01]"
+  },
+  {
+    "code": "C07K 14/57",
+    "description": "••••••••IFN gamma [2006.01]"
+  },
+  {
+    "code": "C07K 14/575",
+    "description": "••••Hormonas [2006.01]"
+  },
+  {
+    "code": "C07K 14/58",
+    "description": "••••••Complejo del factor natriurético atrial; Atriopeptina; Péptido natriurético atrial (ANP); Cardionatrina; Cardiodilatina [2006.01]"
+  },
+  {
+    "code": "C07K 14/585",
+    "description": "••••••Calcitoninas [2006.01]"
+  },
+  {
+    "code": "C07K 14/59",
+    "description": "••••••Hormona estimulante del folículo (FSH); Gonadotropinas coriónicas, p. ej. HCG; Hormona luteinizante (LH); Hormona estimulante del tiroides (TSH) [2006.01]"
+  },
+  {
+    "code": "C07K 14/595",
+    "description": "••••••Gastrinas; Colecistoquininas (CCK) [2006.01]"
+  },
+  {
+    "code": "C07K 14/60",
+    "description": "••••••Factor de liberación de la hormona del crecimiento (GH-RF) (Somatoliberina) [2006.01]"
+  },
+  {
+    "code": "C07K 14/605",
+    "description": "••••••Glucagones [2006.01]"
+  },
+  {
+    "code": "C07K 14/61",
+    "description": "••••••Hormona del crecimiento (GH) (Somatotropina) [2006.01]"
+  },
+  {
+    "code": "C07K 14/615",
+    "description": "••••••••Extracción de fuentes naturales [2006.01]"
+  },
+  {
+    "code": "C07K 14/62",
+    "description": "••••••Insulinas [2006.01]"
+  },
+  {
+    "code": "C07K 14/625",
+    "description": "••••••••Extracción de fuentes naturales [2006.01]"
+  },
+  {
+    "code": "C07K 14/63",
+    "description": "••••••Motilinas [2006.01]"
+  },
+  {
+    "code": "C07K 14/635",
+    "description": "••••••Hormona paratiroidea (parathormona); Péptidos relacionados con la hormona paratiroidea [2006.01]"
+  },
+  {
+    "code": "C07K 14/64",
+    "description": "••••••Relaxinas [2006.01]"
+  },
+  {
+    "code": "C07K 14/645",
+    "description": "••••••Secretinas [2006.01]"
+  },
+  {
+    "code": "C07K 14/65",
+    "description": "••••••Factores de crecimiento de tipo insulina (Somatomedinas), p. ej. IGF-1, IGF-2 [2006.01]"
+  },
+  {
+    "code": "C07K 14/655",
+    "description": "••••••Somatostatinas [2006.01]"
+  },
+  {
+    "code": "C07K 14/66",
+    "description": "••••••Timopoietinas [2006.01]"
+  },
+  {
+    "code": "C07K 14/665",
+    "description": "••••derivadas de pro-opiomelanocortina, pro-encefalina o pro-dinorfina [2006.01]"
+  },
+  {
+    "code": "C07K 14/67",
+    "description": "••••••Lipotropinas, p. ej. lipotropina beta o gamma [2006.01]"
+  },
+  {
+    "code": "C07K 14/675",
+    "description": "••••••beta-endorfinas [2006.01]"
+  },
+  {
+    "code": "C07K 14/68",
+    "description": "••••••Hormona estimulante de los melanocitos (MSH) [2006.01]"
+  },
+  {
+    "code": "C07K 14/685",
+    "description": "••••••••alfa-melanotropina [2006.01]"
+  },
+  {
+    "code": "C07K 14/69",
+    "description": "••••••••beta-melanotropina [2006.01]"
+  },
+  {
+    "code": "C07K 14/695",
+    "description": "••••••Corticotropina (ACTH) [2006.01]"
+  },
+  {
+    "code": "C07K 14/70",
+    "description": "••••••Encefalinas [2006.01]"
+  },
+  {
+    "code": "C07K 14/705",
+    "description": "••••Receptores; Antígenos celulares de superficie; Determinantes celulares de superficie [2006.01]"
+  },
+  {
+    "code": "C07K 14/71",
+    "description": "••••••para factores de crecimiento; para reguladores de crecimiento [2006.01]"
+  },
+  {
+    "code": "C07K 14/715",
+    "description": "••••••para citoquinas; para linfoquinas; para interferones [2006.01]"
+  },
+  {
+    "code": "C07K 14/72",
+    "description": "••••••para hormonas [2006.01]"
+  },
+  {
+    "code": "C07K 14/725",
+    "description": "••••••receptores de células T [2006.01]"
+  },
+  {
+    "code": "C07K 14/73",
+    "description": "••••••••CD4 [2006.01]"
+  },
+  {
+    "code": "C07K 14/735",
+    "description": "••••••Receptores Fc [2006.01]"
+  },
+  {
+    "code": "C07K 14/74",
+    "description": "••••••Complejo mayor de histocompatibilidad (MHC) [2006.01]"
+  },
+  {
+    "code": "C07K 14/745",
+    "description": "••••Factores de coagulación sanguínea o de fibrinolisis [2006.01]"
+  },
+  {
+    "code": "C07K 14/75",
+    "description": "••••••Fibrinógeno [2006.01]"
+  },
+  {
+    "code": "C07K 14/755",
+    "description": "••••••Factores VIII [2006.01]"
+  },
+  {
+    "code": "C07K 14/76",
+    "description": "••••Albúminas [2006.01]"
+  },
+  {
+    "code": "C07K 14/765",
+    "description": "••••••Seroalbúmina, p. ej. HSA [2006.01]"
+  },
+  {
+    "code": "C07K 14/77",
+    "description": "••••••Ovoalbúmina [2006.01]"
+  },
+  {
+    "code": "C07K 14/775",
+    "description": "••••Apolipopéptidos [2006.01]"
+  },
+  {
+    "code": "C07K 14/78",
+    "description": "••••Péptidos del tejido conectivo, p. ej. colágeno, elastina, laminina, fibronectina, vitronectina, globulina insoluble en frío (CIG) [2006.01]"
+  },
+  {
+    "code": "C07K 14/785",
+    "description": "••••Péptidos surfactantes alveolares; Péptidos surfactantes pulmonares [2006.01]"
+  },
+  {
+    "code": "C07K 14/79",
+    "description": "••••Transferrinas, p. ej. lactoferrinas, ovotransferrinas [2006.01]"
+  },
+  {
+    "code": "C07K 14/795",
+    "description": "••Péptidos que contienen anillos de porfirina o corrina [2006.01]"
+  },
+  {
+    "code": "C07K 14/80",
+    "description": "••••Citocromos [2006.01]"
+  },
+  {
+    "code": "C07K 14/805",
+    "description": "••••Hemoglobinas; Mioglobinas [2006.01]"
+  },
+  {
+    "code": "C07K 14/81",
+    "description": "••Inhibidores de proteasa [2006.01]"
+  },
+  {
+    "code": "C07K 14/815",
+    "description": "••••de sanguijuelas, p. ej. hirudina, eglina [2006.01]"
+  },
+  {
+    "code": "C07K 14/82",
+    "description": "••Productos de traducción de oncogenes [2006.01]"
+  },
+  {
+    "code": "C07K 14/825",
+    "description": "••Metalotioneínas [2006.01]"
+  },
+  {
+    "code": "C07K 16/00",
+    "description": "Inmunoglobulinas, p. ej. anticuerpos mono o policlonales [2006.01]"
+  },
+  {
+    "code": "C07K 16/02",
+    "description": "••del huevo [2006.01]"
+  },
+  {
+    "code": "C07K 16/04",
+    "description": "••de la leche [2006.01]"
+  },
+  {
+    "code": "C07K 16/06",
+    "description": "••del suero [2006.01]"
+  },
+  {
+    "code": "C07K 16/08",
+    "description": "••contra materiales víricos [2006.01]"
+  },
+  {
+    "code": "C07K 16/10",
+    "description": "••••de virus ARN [2006.01]"
+  },
+  {
+    "code": "C07K 16/12",
+    "description": "••contra materiales bacterianos [2006.01]"
+  },
+  {
+    "code": "C07K 16/14",
+    "description": "••contra materiales de hongos, algas o líquenes [2006.01]"
+  },
+  {
+    "code": "C07K 16/16",
+    "description": "••contra materiales vegetales [2006.01]"
+  },
+  {
+    "code": "C07K 16/18",
+    "description": "••contra materiales animales o humanos [2006.01]"
+  },
+  {
+    "code": "C07K 16/20",
+    "description": "••••de protozoos [2006.01]"
+  },
+  {
+    "code": "C07K 16/22",
+    "description": "••••contra factores de crecimiento [2006.01]"
+  },
+  {
+    "code": "C07K 16/24",
+    "description": "••••contra citoquinas, linfoquinas o interferones [2006.01]"
+  },
+  {
+    "code": "C07K 16/26",
+    "description": "••••contra hormonas [2006.01]"
+  },
+  {
+    "code": "C07K 16/28",
+    "description": "••••contra receptores, antígenos celulares de superficie o determinantes celulares de superficie [2006.01]"
+  },
+  {
+    "code": "C07K 16/30",
+    "description": "••••••de células tumorales [2006.01]"
+  },
+  {
+    "code": "C07K 16/32",
+    "description": "••••contra productos de traducción de oncogenes [2006.01]"
+  },
+  {
+    "code": "C07K 16/34",
+    "description": "••••contra antígenos de grupo sanguíneo [2006.01]"
+  },
+  {
+    "code": "C07K 16/36",
+    "description": "••••contra factores de coagulación sanguínea [2006.01]"
+  },
+  {
+    "code": "C07K 16/38",
+    "description": "••contra inhibidores de proteasa de estructura peptídica [2006.01]"
+  },
+  {
+    "code": "C07K 16/40",
+    "description": "••contra enzimas [2006.01]"
+  },
+  {
+    "code": "C07K 16/42",
+    "description": "••contra inmunoglobulinas (anticuerpos anti-idiotípicos) [2006.01]"
+  },
+  {
+    "code": "C07K 16/44",
+    "description": "••contra material no previsto [2006.01]"
+  },
+  {
+    "code": "C07K 16/46",
+    "description": "••Inmoglobulinas híbridas (híbridos de una inmunoglobulina con un péptido distinto de una inmunoglobulina C07K 19/00) [2006.01]"
+  },
+  {
+    "code": "C07K 17/00",
+    "description": "Péptidos fijados sobre un soporte o inmovilizados; Su preparación [2006.01]"
+  },
+  {
+    "code": "C07K 17/02",
+    "description": "••Péptidos inmovilizados, o en, un soporte orgánico [2006.01]"
+  },
+  {
+    "code": "C07K 17/04",
+    "description": "••••encerrados en el interior del soporte, p. ej. en un gel, en una fibra hueca [2006.01]"
+  },
+  {
+    "code": "C07K 17/06",
+    "description": "••••unidos al soporte por medio de un agente de unión [2006.01]"
+  },
+  {
+    "code": "C07K 17/08",
+    "description": "••••siendo el soporte un polímero sintético [2006.01]"
+  },
+  {
+    "code": "C07K 17/10",
+    "description": "••••siendo el soporte un hidrato de carbono [2006.01]"
+  },
+  {
+    "code": "C07K 17/12",
+    "description": "••••••Celulosa o sus derivados [2006.01]"
+  },
+  {
+    "code": "C07K 17/14",
+    "description": "••Péptidos inmovilizados sobre, o en, un soporte inorgánico [2006.01]"
+  },
+  {
+    "code": "C07K 19/00",
+    "description": "Péptidos híbridos (Inmoglobulinas híbridas compuestas solamente de inmoglobulinas C07K 16/46) [2006.01]"
+  }
+]

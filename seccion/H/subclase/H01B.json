@@ -1,0 +1,658 @@
+[
+  {
+    "code": "H01B 1/00",
+    "description": "Conductores o cuerpos conductores caracterizados por los materiales conductores utilizados; Empleo de materiales específicos como conductores (conductores, cables o líneas de transmisión superconductores o hiperconductores caracterizados por los materiales utilizados H01B 12/00) [2006.01]"
+  },
+  {
+    "code": "H01B 1/02",
+    "description": "••compuestos principalmente de metales o aleaciones [2006.01]"
+  },
+  {
+    "code": "H01B 1/04",
+    "description": "••compuestos principalmente bien de composición a base de carbono-silicio, bien de carbono, bien de silicio [2006.01]"
+  },
+  {
+    "code": "H01B 1/06",
+    "description": "••compuestos principalmente de otras sustancias no metálicas [2006.01]"
+  },
+  {
+    "code": "H01B 1/08",
+    "description": "••••óxidos [2006.01]"
+  },
+  {
+    "code": "H01B 1/10",
+    "description": "••••sulfuros [2006.01]"
+  },
+  {
+    "code": "H01B 1/12",
+    "description": "••••sustancias orgánicas [2006.01]"
+  },
+  {
+    "code": "H01B 1/14",
+    "description": "••Material conductor disperso en un material inorgánico no conductor [2006.01]"
+  },
+  {
+    "code": "H01B 1/16",
+    "description": "••••el material conductor contiene metales o aleaciones [2006.01]"
+  },
+  {
+    "code": "H01B 1/18",
+    "description": "••••el material conductor contiene composiciones a base de carbono-silicio, de carbono o de silicio [2006.01]"
+  },
+  {
+    "code": "H01B 1/20",
+    "description": "••Material conductor disperso en un material orgánico no conductor [2006.01]"
+  },
+  {
+    "code": "H01B 1/22",
+    "description": "••••el material conductor contiene metales o aleaciones [2006.01]"
+  },
+  {
+    "code": "H01B 1/24",
+    "description": "••••el material conductor contiene composiciones a base de carbono-silicio, de carbono o de silicio [2006.01]"
+  },
+  {
+    "code": "H01B 3/00",
+    "description": "Aisladores o cuerpos aislantes caracterizados por el material aislante; Empleo de materiales por sus propiedades aislantes o dieléctricas [2006.01]"
+  },
+  {
+    "code": "H01B 3/02",
+    "description": "••compuestos principalmente de sustancias inorgánicas [2006.01]"
+  },
+  {
+    "code": "H01B 3/04",
+    "description": "••••mica [2006.01]"
+  },
+  {
+    "code": "H01B 3/06",
+    "description": "••••amianto [2006.01]"
+  },
+  {
+    "code": "H01B 3/08",
+    "description": "••••cuarzo; vidrio; lana de vidrio; lana de escoria; esmaltes vítreos [2006.01]"
+  },
+  {
+    "code": "H01B 3/10",
+    "description": "••••óxidos metálicos (cerámicas H01B 3/12) [2006.01]"
+  },
+  {
+    "code": "H01B 3/12",
+    "description": "••••cerámicas [2006.01]"
+  },
+  {
+    "code": "H01B 3/14",
+    "description": "••••cementos [2006.01]"
+  },
+  {
+    "code": "H01B 3/16",
+    "description": "••••gases [2006.01]"
+  },
+  {
+    "code": "H01B 3/18",
+    "description": "••compuestos principalmente de sustancias orgánicas [2006.01]"
+  },
+  {
+    "code": "H01B 3/20",
+    "description": "••••líquidos, p. ej. aceites (aceites de siliconas H01B 3/46) [2006.01]"
+  },
+  {
+    "code": "H01B 3/22",
+    "description": "••••••hidrocarburos [2006.01]"
+  },
+  {
+    "code": "H01B 3/24",
+    "description": "••••••que contienen halógenos en sus moléculas, p. ej. aceites halogenados [2006.01]"
+  },
+  {
+    "code": "H01B 3/26",
+    "description": "••••asfaltos; betunes; breas [2006.01]"
+  },
+  {
+    "code": "H01B 3/28",
+    "description": "••••cauchos naturales o sintéticos [2006.01]"
+  },
+  {
+    "code": "H01B 3/30",
+    "description": "••••materiales plásticos; resinas; ceras [2006.01]"
+  },
+  {
+    "code": "H01B 3/32",
+    "description": "••••••resinas naturales [2006.01]"
+  },
+  {
+    "code": "H01B 3/34",
+    "description": "••••••ceras (ceras de silicona H01B 3/46) [2006.01]"
+  },
+  {
+    "code": "H01B 3/36",
+    "description": "••••••productos de condensación de fenoles con aldehídos o cetonas [2006.01]"
+  },
+  {
+    "code": "H01B 3/38",
+    "description": "••••••productos de condensación de aldehídos con aminas o amidas [2006.01]"
+  },
+  {
+    "code": "H01B 3/40",
+    "description": "••••••resinas epoxi [2006.01]"
+  },
+  {
+    "code": "H01B 3/42",
+    "description": "••••••poliésteres; poliéteres; poliacetales [2006.01]"
+  },
+  {
+    "code": "H01B 3/44",
+    "description": "••••••resinas vinílicas; resinas acrílicas (siliconas H01B 3/46) [2006.01]"
+  },
+  {
+    "code": "H01B 3/46",
+    "description": "••••••siliconas [2006.01]"
+  },
+  {
+    "code": "H01B 3/47",
+    "description": "••••••materiales plásticos reforzados con fibra, por ej. reforzados con vidrio [2006.01]"
+  },
+  {
+    "code": "H01B 3/48",
+    "description": "••••materiales fibrosos (plásticos reforzados con fibra H01B 3/47) [2006.01]"
+  },
+  {
+    "code": "H01B 3/50",
+    "description": "••••••tejidos [2006.01]"
+  },
+  {
+    "code": "H01B 3/52",
+    "description": "••••••madera; papel; cartón (papel no conductor en sí\n\t\t\t\t\t\t\t\t\t\t\t\tD21H 27/12) [2006.01]"
+  },
+  {
+    "code": "H01B 3/54",
+    "description": "••••••papel endurecido; tejidos endurecidos [2006.01]"
+  },
+  {
+    "code": "H01B 3/56",
+    "description": "••••gases [2006.01]"
+  },
+  {
+    "code": "H01B 5/00",
+    "description": "Conductores o cuerpos conductores no aislados caracterizados por su forma [2006.01]"
+  },
+  {
+    "code": "H01B 5/02",
+    "description": "••Barras, varillas, alambres o cintas; barras ómnibus [2006.01]"
+  },
+  {
+    "code": "H01B 5/04",
+    "description": "••••enrollados o bobinados [2006.01]"
+  },
+  {
+    "code": "H01B 5/06",
+    "description": "••Tubos simples [2006.01]"
+  },
+  {
+    "code": "H01B 5/08",
+    "description": "••Varios hilos o análogos retorcidos en forma de cuerda [2006.01]"
+  },
+  {
+    "code": "H01B 5/10",
+    "description": "••••retorcidos alrededor de un espacio, de material aislante u otro material conductor [2006.01]"
+  },
+  {
+    "code": "H01B 5/12",
+    "description": "••Hilos trenzados o análogos [2006.01]"
+  },
+  {
+    "code": "H01B 5/14",
+    "description": "••que comprenden capas o películas conductoras sobre soportes aislantes [2006.01]"
+  },
+  {
+    "code": "H01B 5/16",
+    "description": "••que comprenden un material conductor incorporado a un material aislante o débilmente conductor, p. ej. caucho conductor (H01B 1/14, H01B 1/20 tienen prioridad; cuerpos aislantes combinados con elementos conductores mezclados H01B 17/64; pinturas conductoras C09D 5/24) [2006.01]"
+  },
+  {
+    "code": "H01B 7/00",
+    "description": "Conductores o cables aislados caracterizados por su forma [2006.01]"
+  },
+  {
+    "code": "H01B 7/02",
+    "description": "••Disposición del aislamiento [2006.01]"
+  },
+  {
+    "code": "H01B 7/04",
+    "description": "••Cables, conductores o cordones flexibles, p. ej. cables de arrastre [2006.01]"
+  },
+  {
+    "code": "H01B 7/06",
+    "description": "••Conductores o cables extensibles, p. ej. cordones autoenrollables [2006.01]"
+  },
+  {
+    "code": "H01B 7/08",
+    "description": "••Cables planos de cinta [2006.01]"
+  },
+  {
+    "code": "H01B 7/10",
+    "description": "••Cables de contacto, es decir, que tienen conductores que pueden ser puestos en contacto por distorsión del cable [2006.01]"
+  },
+  {
+    "code": "H01B 7/12",
+    "description": "••Cables flotantes [2006.01]"
+  },
+  {
+    "code": "H01B 7/14",
+    "description": "••Cables submarinos [2006.01]"
+  },
+  {
+    "code": "H01B 7/16",
+    "description": "••Cables en tubo rígido [2006.01]"
+  },
+  {
+    "code": "H01B 7/17",
+    "description": "••Protección contra los daños causados por factores externos, p. ej. fundas o armaduras [2006.01]"
+  },
+  {
+    "code": "H01B 7/18",
+    "description": "••••por el uso , los esfuerzos mecánicos o las presiones [2006.01]"
+  },
+  {
+    "code": "H01B 7/20",
+    "description": "••••••Tubos de metal, p. ej. fundas de plomo [2006.01]"
+  },
+  {
+    "code": "H01B 7/22",
+    "description": "••••••Hilos o cintas de metal, p. ej. de acero [2006.01]"
+  },
+  {
+    "code": "H01B 7/24",
+    "description": "••••••Dispositivos de protección localizada contra los esfuerzos mecánicos o presiones [2006.01]"
+  },
+  {
+    "code": "H01B 7/26",
+    "description": "••••••Reducción de pérdidas en las fundas o armaduras [2006.01]"
+  },
+  {
+    "code": "H01B 7/28",
+    "description": "••••por la humedad, la corrosión , los ataques químicos o las condiciones atmosféricas [2006.01]"
+  },
+  {
+    "code": "H01B 7/282",
+    "description": "••••••Prevención de la penetración de fluidos en el conductor o cable [2006.01]"
+  },
+  {
+    "code": "H01B 7/285",
+    "description": "••••••••rellenando total o parcialmente intersticios del cable [2006.01]"
+  },
+  {
+    "code": "H01B 7/288",
+    "description": "••••••••••utilizando material higroscópico o material inflable en presencia de líquido [2006.01]"
+  },
+  {
+    "code": "H01B 7/29",
+    "description": "••••por temperaturas extremas o por fuego (H01B 7/42 tiene preferencia) [2006.01]"
+  },
+  {
+    "code": "H01B 7/295",
+    "description": "••••••utilizando material resistente al fuego [2006.01]"
+  },
+  {
+    "code": "H01B 7/30",
+    "description": "••con disposiciones para reducir pérdidas en los conductores cuando llevan corriente alterna, p. ej. debidas al efecto pelicular [2006.01]"
+  },
+  {
+    "code": "H01B 7/32",
+    "description": "••con disposiciones para indicar defectos, p. ej. rupturas, fugas [2006.01]"
+  },
+  {
+    "code": "H01B 7/36",
+    "description": "••con señales de referencia distintivas o indicación de longitud [2006.01]"
+  },
+  {
+    "code": "H01B 7/38",
+    "description": "••con disposiciones para facilitar la retirada del aislamiento [2006.01]"
+  },
+  {
+    "code": "H01B 7/40",
+    "description": "••con disposiciones para facilitar el montaje o la fijación [2006.01]"
+  },
+  {
+    "code": "H01B 7/42",
+    "description": "••con disposiciones para la disipación o la conducción del calor [2006.01]"
+  },
+  {
+    "code": "H01B 9/00",
+    "description": "Cables de transporte de energía [2006.01]"
+  },
+  {
+    "code": "H01B 9/02",
+    "description": "••con pantallas o capas conductoras, p. ej. para evitar gradientes de potencial elevados [2006.01]"
+  },
+  {
+    "code": "H01B 9/04",
+    "description": "••Cables concéntricos [2006.01]"
+  },
+  {
+    "code": "H01B 9/06",
+    "description": "••Cables bajo presión de gas; Cables bajo presión de aceite; Cables utilizados en los conductos bajo presión de fluidos [2006.01]"
+  },
+  {
+    "code": "H01B 11/00",
+    "description": "Cables o conductores de comunicación [2006.01]"
+  },
+  {
+    "code": "H01B 11/02",
+    "description": "••Cables con pares o cuadretes retorcidos [2006.01]"
+  },
+  {
+    "code": "H01B 11/04",
+    "description": "••••con pares o cuadretes mutuamente dispuestos para reducir la diafonía [2006.01]"
+  },
+  {
+    "code": "H01B 11/06",
+    "description": "••••con medios para reducir los efectos de perturbaciones electromagnéticas o electrostáticas, p. ej. pantallas [2006.01]"
+  },
+  {
+    "code": "H01B 11/08",
+    "description": "••••••Pantallas especialmente adaptadas para reducir la diafonía [2006.01]"
+  },
+  {
+    "code": "H01B 11/10",
+    "description": "••••••Pantallas especialmente adaptadas para reducir interferencias de origen externo [2006.01]"
+  },
+  {
+    "code": "H01B 11/12",
+    "description": "••••Disposiciones para obtener características determinadas de transmisión [2006.01]"
+  },
+  {
+    "code": "H01B 11/14",
+    "description": "••••••Cables con carga inductiva continua, p. ej. cables krarupizados [2006.01]"
+  },
+  {
+    "code": "H01B 11/16",
+    "description": "••••••Cables, p. ej. cable submarino, con bobinas u otros elementos incorporados durante el curso de la fabricación del cable [2006.01]"
+  },
+  {
+    "code": "H01B 11/18",
+    "description": "••Cables coaxiales; Cables análogos que tienen varios conductores interiores dentro de un conductor exterior común [2006.01]"
+  },
+  {
+    "code": "H01B 11/20",
+    "description": "••••Cables con varias líneas coaxiales [2006.01]"
+  },
+  {
+    "code": "H01B 11/22",
+    "description": "••Cables que comprenden juntos al menos un conductor de electricidad y fibras ópticas [2006.01]"
+  },
+  {
+    "code": "H01B 12/00",
+    "description": "Conductores, cables o líneas de transmisión superconductores o hiperconductores (superconductores caracterizados por la técnica de formación de las cerámicas o por su composición cerámica C04B 35/00) [2006.01]"
+  },
+  {
+    "code": "H01B 12/02",
+    "description": "••caracterizados por sus formas [2006.01]"
+  },
+  {
+    "code": "H01B 12/04",
+    "description": "••••con un único hilo [2006.01]"
+  },
+  {
+    "code": "H01B 12/06",
+    "description": "••••con capas o hilos depositados sobre los soportes o núcleos [2006.01]"
+  },
+  {
+    "code": "H01B 12/08",
+    "description": "••••con hilos trenzados o formando malla [2006.01]"
+  },
+  {
+    "code": "H01B 12/10",
+    "description": "••••con varios filamentos incrustados en los conductores normales [2006.01]"
+  },
+  {
+    "code": "H01B 12/12",
+    "description": "••••Conductores huecos [2006.01]"
+  },
+  {
+    "code": "H01B 12/14",
+    "description": "••caracterizados por la disposición del aislamiento térmico [2006.01]"
+  },
+  {
+    "code": "H01B 12/16",
+    "description": "••caracterizados por la refrigeración [2006.01]"
+  },
+  {
+    "code": "H01B 13/00",
+    "description": "Aparatos o procedimientos especialmente adaptados para la fabricación de conductores o cables [2006.01]"
+  },
+  {
+    "code": "H01B 13/004",
+    "description": "••para la fabricación de cables de tubo rígido [2006.01]"
+  },
+  {
+    "code": "H01B 13/008",
+    "description": "••para la fabricación de conductores o cables extensibles [2006.01]"
+  },
+  {
+    "code": "H01B 13/012",
+    "description": "••para la fabricación de haces de hilos conductores [2006.01]"
+  },
+  {
+    "code": "H01B 13/016",
+    "description": "••para la fabricación de cables coaxiales (aplicando aislamiento discontinuo H01B 13/20) [2006.01]"
+  },
+  {
+    "code": "H01B 13/02",
+    "description": "••Retorcimientos [2006.01]"
+  },
+  {
+    "code": "H01B 13/04",
+    "description": "••••Disposición recíproca de pares o cuadretes para reducir la diafonía [2006.01]"
+  },
+  {
+    "code": "H01B 13/06",
+    "description": "••Aislamiento de conductores o cables (H01B 13/32 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01B 13/08",
+    "description": "••••por arrollamiento [2006.01]"
+  },
+  {
+    "code": "H01B 13/10",
+    "description": "••••por recubrimiento longitudinal [2006.01]"
+  },
+  {
+    "code": "H01B 13/12",
+    "description": "••••por aplicación de fibras sueltas [2006.01]"
+  },
+  {
+    "code": "H01B 13/14",
+    "description": "••••por extrusión [2006.01]"
+  },
+  {
+    "code": "H01B 13/16",
+    "description": "••••por paso a través de un baño líquido, o por inmersión en un baño líquido; por pulverización [2006.01]"
+  },
+  {
+    "code": "H01B 13/18",
+    "description": "••••Aplicación de aislantes discontinuos, p. ej. discos, perlas aisladoras [2006.01]"
+  },
+  {
+    "code": "H01B 13/20",
+    "description": "••••••para cables concéntricos o coaxiales [2006.01]"
+  },
+  {
+    "code": "H01B 13/22",
+    "description": "••Fundas; Armaduras; Pantallas; Aplicación de otras capas protectoras (H01B 13/32 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01B 13/24",
+    "description": "••••por extrusión [2006.01]"
+  },
+  {
+    "code": "H01B 13/26",
+    "description": "••••por arrollamiento, trenzado o recubrimiento longitudinal [2006.01]"
+  },
+  {
+    "code": "H01B 13/28",
+    "description": "••Aplicación de carga continua inductiva, p. ej. krarupización [2006.01]"
+  },
+  {
+    "code": "H01B 13/30",
+    "description": "••Secado; Impregnación (H01B 13/32 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01B 13/32",
+    "description": "••Relleno o revestimiento con un material impermeable [2006.01]"
+  },
+  {
+    "code": "H01B 13/34",
+    "description": "••para marcar conductores o cables [2006.01]"
+  },
+  {
+    "code": "H01B 15/00",
+    "description": "Aparatos o procedimientos de recuperación del material de los cables (conductores o cables aislados con disposiciones para facilitar la retirada del aislamiento H01B 7/38; métodos o aparatos especialmente adaptados para quitar el aislamiento de los conductores H02G 1/12) [2006.01]"
+  },
+  {
+    "code": "H01B 17/00",
+    "description": "Aisladores o cuerpos aislantes caracterizados por su forma [2006.01]"
+  },
+  {
+    "code": "H01B 17/02",
+    "description": "••Aisladores de suspensión; Aisladores de tracción [2006.01]"
+  },
+  {
+    "code": "H01B 17/04",
+    "description": "••••Cadenas; Cadenas múltiples [2006.01]"
+  },
+  {
+    "code": "H01B 17/06",
+    "description": "••••Fijación de los aisladores a los soportes, a los conductores o los aisladores contiguos [2006.01]"
+  },
+  {
+    "code": "H01B 17/08",
+    "description": "••••••por perno con cabeza [2006.01]"
+  },
+  {
+    "code": "H01B 17/10",
+    "description": "••••••por eslabón intermedio [2006.01]"
+  },
+  {
+    "code": "H01B 17/12",
+    "description": "••••Características particulares de los aisladores de tracción [2006.01]"
+  },
+  {
+    "code": "H01B 17/14",
+    "description": "••Aisladores de soporte (aisladores de vástago H01B 17/20; aisladores abiertos o perforados H01B 17/24) [2006.01]"
+  },
+  {
+    "code": "H01B 17/16",
+    "description": "••••Fijación de un aislador a un soporte, a un conductor o a un aislador vecino [2006.01]"
+  },
+  {
+    "code": "H01B 17/18",
+    "description": "••••para conductores muy pesados, p. ej. barras ómnibus, raíles [2006.01]"
+  },
+  {
+    "code": "H01B 17/20",
+    "description": "••Aisladores de vástago [2006.01]"
+  },
+  {
+    "code": "H01B 17/22",
+    "description": "••••Fijación de conductores a un aislador [2006.01]"
+  },
+  {
+    "code": "H01B 17/24",
+    "description": "••Aisladores abiertos o perforados para fijarse por clavos, tornillo, hilos o barras, p. ej. diábolo, bobina [2006.01]"
+  },
+  {
+    "code": "H01B 17/26",
+    "description": "••Aisladores de entrada; Aisladores de paso [2006.01]"
+  },
+  {
+    "code": "H01B 17/28",
+    "description": "••••del tipo condensador [2006.01]"
+  },
+  {
+    "code": "H01B 17/30",
+    "description": "••••De cierre [2006.01]"
+  },
+  {
+    "code": "H01B 17/32",
+    "description": "••Aisladores simples constituidos por al menos dos cuerpos aislantes desacoplables [2006.01]"
+  },
+  {
+    "code": "H01B 17/34",
+    "description": "••Aisladores con líquido, p. ej. aceite [2006.01]"
+  },
+  {
+    "code": "H01B 17/36",
+    "description": "••Aisladores con vacío o con gas [2006.01]"
+  },
+  {
+    "code": "H01B 17/38",
+    "description": "••Accesorios, guarniciones, p. ej. caperuzas; Elementos de fijación previstos a este efecto [2006.01]"
+  },
+  {
+    "code": "H01B 17/40",
+    "description": "••••sin cementos, masillas o colas [2006.01]"
+  },
+  {
+    "code": "H01B 17/42",
+    "description": "••Medios para obtener una distribución mejorada de tensión (aisladores de paso del tipo condensador H01B 17/28); Protección contra las descargas en arco [2006.01]"
+  },
+  {
+    "code": "H01B 17/44",
+    "description": "••••Asociación estructural de aisladores con anillos anticorona [2006.01]"
+  },
+  {
+    "code": "H01B 17/46",
+    "description": "••••Medios para prevenirse del curso de una descarga en arco exterior [2006.01]"
+  },
+  {
+    "code": "H01B 17/48",
+    "description": "••••sobre cadenas u otros aisladores dispuestos en serie [2006.01]"
+  },
+  {
+    "code": "H01B 17/50",
+    "description": "••con superficies tratadas apropiadamente para preservar las propiedades aislantes, p. ej. para proteger contra la humedad, suciedad [2006.01]"
+  },
+  {
+    "code": "H01B 17/52",
+    "description": "••con dispositivos de limpieza (H01B 17/54 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01B 17/54",
+    "description": "••con dispositivos de calefacción o de refrigeración [2006.01]"
+  },
+  {
+    "code": "H01B 17/56",
+    "description": "••Cuerpos aislantes [2006.01]"
+  },
+  {
+    "code": "H01B 17/58",
+    "description": "••••Tubos, manguitos, perlas aislantes o bobinas a través de las cuales pasa el conductor [2006.01]"
+  },
+  {
+    "code": "H01B 17/60",
+    "description": "••••Cuerpos aislantes compuestos [2006.01]"
+  },
+  {
+    "code": "H01B 17/62",
+    "description": "••••Capas o películas aislantes aplicadas sobre cuerpos metálicos [2006.01]"
+  },
+  {
+    "code": "H01B 17/64",
+    "description": "••••combinados con elementos conductores mezclados, insertados o en capas [2006.01]"
+  },
+  {
+    "code": "H01B 17/66",
+    "description": "••••Unión de cuerpos aislantes, p. ej. por conexión [2006.01]"
+  },
+  {
+    "code": "H01B 19/00",
+    "description": "Aparatos o procedimientos especialmente adaptados para la fabricación de aisladores o cuerpos aislantes [2006.01]"
+  },
+  {
+    "code": "H01B 19/02",
+    "description": "••Secado; Impregnación [2006.01]"
+  },
+  {
+    "code": "H01B 19/04",
+    "description": "••Tratamiento de superficies, p. ej. aplicación de revestimientos [2006.01]"
+  }
+]

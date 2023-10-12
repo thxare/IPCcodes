@@ -1,0 +1,358 @@
+[
+  {
+    "code": "B61F 1/00",
+    "description": "Chasis (fabricación de chasis de vehículos ferroviarios forjados o prensados B21K 7/12) [2006.01]"
+  },
+  {
+    "code": "B61F 1/02",
+    "description": "••con una sola viga central [2006.01]"
+  },
+  {
+    "code": "B61F 1/04",
+    "description": "••de tipo triangulado [2006.01]"
+  },
+  {
+    "code": "B61F 1/06",
+    "description": "••adaptados especialmente a las locomotoras o autorraíles movidos por motor [2006.01]"
+  },
+  {
+    "code": "B61F 1/08",
+    "description": "••Partes constitutivas [2006.01]"
+  },
+  {
+    "code": "B61F 1/10",
+    "description": "••••Estructuras de extremidades [2006.01]"
+  },
+  {
+    "code": "B61F 1/12",
+    "description": "••••Riostras transversales [2006.01]"
+  },
+  {
+    "code": "B61F 1/14",
+    "description": "••••Fijación o soporte del cuerpo del vehículo [2006.01]"
+  },
+  {
+    "code": "B61F 3/00",
+    "description": "Tipos de bogies (B61F 5/00 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B61F 3/02",
+    "description": "••con más de un eje [2006.01]"
+  },
+  {
+    "code": "B61F 3/04",
+    "description": "••••con ejes o ruedas accionadas [2006.01]"
+  },
+  {
+    "code": "B61F 3/06",
+    "description": "••••••con tres o más ruedas [2006.01]"
+  },
+  {
+    "code": "B61F 3/08",
+    "description": "••••sin ejes o ruedas accionadas [2006.01]"
+  },
+  {
+    "code": "B61F 3/10",
+    "description": "••••••con tres o más ejes [2006.01]"
+  },
+  {
+    "code": "B61F 3/12",
+    "description": "••modificados especialmente para llevar las cajas de vehículos adyacentes en los trenes articulados [2006.01]"
+  },
+  {
+    "code": "B61F 3/14",
+    "description": "••modificados especialmente para reducir la resistencia al aire [2006.01]"
+  },
+  {
+    "code": "B61F 3/16",
+    "description": "••con un eje distinto para cada rueda [2006.01]"
+  },
+  {
+    "code": "B61F 5/00",
+    "description": "Detalles de estructura de bogies; Uniones entre los bogies y el chasis del vehículo; Instalaciones o dispositivos para ajustar o permitir la autolineación de ejes de ruedas o de bogies en las curvas [2006.01]"
+  },
+  {
+    "code": "B61F 5/02",
+    "description": "••Disposiciones que permiten limitar los movimientos transversales relativos entre el chasis o marco giratorio sobre el carretón y el bogie; Uniones entre el chasis y los bogies [2006.01]"
+  },
+  {
+    "code": "B61F 5/04",
+    "description": "••••Soportes o montajes del marco giratorio sobre el carretón (apoyos laterales B61F 5/14) [2006.01]"
+  },
+  {
+    "code": "B61F 5/06",
+    "description": "••••••que tienen resortes metálicos [2006.01]"
+  },
+  {
+    "code": "B61F 5/08",
+    "description": "••••••que tienen resortes de caucho [2006.01]"
+  },
+  {
+    "code": "B61F 5/10",
+    "description": "••••••que tienen resortes hidráulicos [2006.01]"
+  },
+  {
+    "code": "B61F 5/12",
+    "description": "••••••que tienen amortiguadores [2006.01]"
+  },
+  {
+    "code": "B61F 5/14",
+    "description": "••••Apoyos laterales [2006.01]"
+  },
+  {
+    "code": "B61F 5/16",
+    "description": "••••Apoyos centrales u otras uniones giratorias entre los chasis y las traviesas bailantes o los bogies [2006.01]"
+  },
+  {
+    "code": "B61F 5/18",
+    "description": "••••••Bulones-pivotes [2006.01]"
+  },
+  {
+    "code": "B61F 5/20",
+    "description": "••••••con resortes que permiten movimientos transversales [2006.01]"
+  },
+  {
+    "code": "B61F 5/22",
+    "description": "••••Guiado de los chasis de los vehículos en relación con los bogies [2006.01]"
+  },
+  {
+    "code": "B61F 5/24",
+    "description": "••••••Medios para amortiguar o minimizar los movimientos de bandazos, lazo, galope o cabeceo de los chasis [2006.01]"
+  },
+  {
+    "code": "B61F 5/26",
+    "description": "••Montaje o fijación de cajas de ejes sobre los chasis de vehículos o de bogies [2006.01]"
+  },
+  {
+    "code": "B61F 5/28",
+    "description": "••••Cajas de ejes incorporadas a los chasis de vehículos o de bogies o directamente fijadas sobre dichos chasis o bogies [2006.01]"
+  },
+  {
+    "code": "B61F 5/30",
+    "description": "••••Cajas de ejes montadas móviles sobre resortes en el chasis de vehículos o de bogies [2006.01]"
+  },
+  {
+    "code": "B61F 5/32",
+    "description": "••••••Guías, p. ej. planchas para cajas de ejes [2006.01]"
+  },
+  {
+    "code": "B61F 5/34",
+    "description": "••••••••Dispositivos que tienen esquinas de recuperación del juego entre los chasis y los ejes [2006.01]"
+  },
+  {
+    "code": "B61F 5/36",
+    "description": "••••••Disposiciones para igualar o repartir la carga sobre las ruedas o sobre los resortes, p. ej. estribos [2006.01]"
+  },
+  {
+    "code": "B61F 5/38",
+    "description": "••Instalaciones o dispositivos para ajustar o para permitir el autoajustamiento de ejes de ruedas o de bogies en las curvas, p. ej. ejes de juego transversal, ejes oscilantes [2006.01]"
+  },
+  {
+    "code": "B61F 5/40",
+    "description": "••••Bogies con elementos laterales montados para permitir movimientos longitudinales relativos [2006.01]"
+  },
+  {
+    "code": "B61F 5/42",
+    "description": "••••Ajuste mandado por el dispositivo de choque o de tracción [2006.01]"
+  },
+  {
+    "code": "B61F 5/44",
+    "description": "••••Ajuste mandado por los movimientos de la caja del vehículo [2006.01]"
+  },
+  {
+    "code": "B61F 5/46",
+    "description": "••••Ajuste mandado por un eje deslizante bajo el mismo chasis del vehículo [2006.01]"
+  },
+  {
+    "code": "B61F 5/48",
+    "description": "••••Bogies traseros o delanteros para locomotoras o automotores (B61F 5/40 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B61F 5/50",
+    "description": "••Otras partes constitutivas [2006.01]"
+  },
+  {
+    "code": "B61F 5/52",
+    "description": "••••Chasis de bogies [2006.01]"
+  },
+  {
+    "code": "B61F 7/00",
+    "description": "Vehículos ferroviarios equipados para circular sobre vías de separación diferente [2006.01]"
+  },
+  {
+    "code": "B61F 9/00",
+    "description": "Vehículos ferroviarios caracterizados por medios de prevención de descarrilamientos, p. ej. por utilización de ruedas de guiado [2006.01]"
+  },
+  {
+    "code": "B61F 11/00",
+    "description": "Vehículos ferroviarios caracterizados por elementos de contacto con la vía diferente de las ruedas, p. ej. bolas [2006.01]"
+  },
+  {
+    "code": "B61F 13/00",
+    "description": "Vehículos ferroviarios caracterizados por sistemas de ruedas no previstas en otro lugar [2006.01]"
+  },
+  {
+    "code": "B61F 15/00",
+    "description": "Cajas de ejes (montaje o fijación de cajas de ejes B61F 5/26; engrase B61F 17/00; cojinetes en general F16C) [2006.01]"
+  },
+  {
+    "code": "B61F 15/02",
+    "description": "••con soportes de gorrones [2006.01]"
+  },
+  {
+    "code": "B61F 15/04",
+    "description": "••••para locomotoras [2006.01]"
+  },
+  {
+    "code": "B61F 15/06",
+    "description": "••••para vagones [2006.01]"
+  },
+  {
+    "code": "B61F 15/08",
+    "description": "••••pudiendo deslizar el eje o inclinarse en los soportes [2006.01]"
+  },
+  {
+    "code": "B61F 15/10",
+    "description": "••••••y teniendo resortes que se oponen a tales movimientos [2006.01]"
+  },
+  {
+    "code": "B61F 15/12",
+    "description": "••con rodamientos de rodillos, de agujas o de bolas [2006.01]"
+  },
+  {
+    "code": "B61F 15/14",
+    "description": "••••construidos para soportar la presión axial [2006.01]"
+  },
+  {
+    "code": "B61F 15/16",
+    "description": "••••pudiendo deslizar el eje o inclinarse en los soportes [2006.01]"
+  },
+  {
+    "code": "B61F 15/18",
+    "description": "••••••y teniendo resortes que se oponen a tales movimientos [2006.01]"
+  },
+  {
+    "code": "B61F 15/20",
+    "description": "••Partes constitutivas [2006.01]"
+  },
+  {
+    "code": "B61F 15/22",
+    "description": "••••Dispositivos de estanqueidad que se oponen a la entrada de polvo a la pérdida de aceite [2006.01]"
+  },
+  {
+    "code": "B61F 15/24",
+    "description": "••••••que se oponen a la pérdida de aceite cuando el vehículo esté inclinado o volcado [2006.01]"
+  },
+  {
+    "code": "B61F 15/26",
+    "description": "••••Tapas; Estanqueidad de ellas [2006.01]"
+  },
+  {
+    "code": "B61F 15/28",
+    "description": "••••Cajas de ejes modificadas para asegurar la conductibilidad eléctrica [2006.01]"
+  },
+  {
+    "code": "B61F 17/00",
+    "description": "Engrase adaptado especialmente para las cajas de ejes de vehículos ferroviarios (lubricantes en general F16N) [2006.01]"
+  },
+  {
+    "code": "B61F 17/02",
+    "description": "••de aceite [2006.01]"
+  },
+  {
+    "code": "B61F 17/04",
+    "description": "••••Engrase por dispositivos fijos [2006.01]"
+  },
+  {
+    "code": "B61F 17/06",
+    "description": "••••••por medio de una mecha o de un objeto similar [2006.01]"
+  },
+  {
+    "code": "B61F 17/08",
+    "description": "••••••••Dispositivos para prensar la mecha o el objeto similar contra el eje en rotación [2006.01]"
+  },
+  {
+    "code": "B61F 17/10",
+    "description": "••••••por medio de un baño de aceite [2006.01]"
+  },
+  {
+    "code": "B61F 17/12",
+    "description": "••••••por gravedad [2006.01]"
+  },
+  {
+    "code": "B61F 17/14",
+    "description": "••••Dispositivos de engrase rotativos [2006.01]"
+  },
+  {
+    "code": "B61F 17/16",
+    "description": "••••••con collares [2006.01]"
+  },
+  {
+    "code": "B61F 17/18",
+    "description": "••••••con cadenas [2006.01]"
+  },
+  {
+    "code": "B61F 17/20",
+    "description": "••••••con engrasadores u objetos similares fijados sobre el eje o acoplados a éste [2006.01]"
+  },
+  {
+    "code": "B61F 17/22",
+    "description": "••••••con discos, rodillos o correas en contacto con el eje [2006.01]"
+  },
+  {
+    "code": "B61F 17/24",
+    "description": "••••por bombas de engrase incorporadas [2006.01]"
+  },
+  {
+    "code": "B61F 17/26",
+    "description": "••••por medios de alimentación extremos, p. ej. dispositivos neumáticos [2006.01]"
+  },
+  {
+    "code": "B61F 17/28",
+    "description": "••••Empleo de purgadores de aceite no previstos en otro lugar [2006.01]"
+  },
+  {
+    "code": "B61F 17/30",
+    "description": "••de la grasa [2006.01]"
+  },
+  {
+    "code": "B61F 17/32",
+    "description": "••••por engrasadores manuales, p. ej. aceiteras de tornillo [2006.01]"
+  },
+  {
+    "code": "B61F 17/34",
+    "description": "••••por medios automáticos, p. ej. bajo la acción de resortes [2006.01]"
+  },
+  {
+    "code": "B61F 17/36",
+    "description": "••con otros agentes lubrificantes, p. ej. mezclados [2006.01]"
+  },
+  {
+    "code": "B61F 19/00",
+    "description": "Guardarruedas; Parachoques; Quita obstáculos o dispositivos similares (para vehículos en general B60R 19/00) [2006.01]"
+  },
+  {
+    "code": "B61F 19/02",
+    "description": "••Guardarruedas [2006.01]"
+  },
+  {
+    "code": "B61F 19/04",
+    "description": "••Tacos o dispositivos similares contra las colisiones [2006.01]"
+  },
+  {
+    "code": "B61F 19/06",
+    "description": "••Redes, brazos o dispositivos similares para sujetar los obstáculos o separarlos de la vía (dispositivos para sujetar los sacos postales B61K 1/02) [2006.01]"
+  },
+  {
+    "code": "B61F 19/08",
+    "description": "••••del tipo basculante [2006.01]"
+  },
+  {
+    "code": "B61F 19/10",
+    "description": "••••••que funcionan automáticamente al contacto del obstáculo [2006.01]"
+  },
+  {
+    "code": "B61F 99/00",
+    "description": "Materia no prevista en otros grupos de esta subclase [2006.01]"
+  }
+]

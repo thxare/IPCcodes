@@ -1,0 +1,798 @@
+[
+  {
+    "code": "C08K 3/00",
+    "description": "Utilización de sustancias inorgánicas como aditivos de la composición polimérica [2018.01]"
+  },
+  {
+    "code": "C08K 3/01",
+    "description": "••caracterizados por su función específica [2018.01]"
+  },
+  {
+    "code": "C08K 3/011",
+    "description": "••••Agentes reticulantes, agentes para el entrecruzamiento de cadenas o el vulcanizado, p. ej. aceleradores [2018.01]"
+  },
+  {
+    "code": "C08K 3/012",
+    "description": "••••Aditivos activadores de la degradación de compuestos macromoleculares [2018.01]"
+  },
+  {
+    "code": "C08K 3/013",
+    "description": "••••Cargas, pigmentos o agentes de refuerzo [2018.01]"
+  },
+  {
+    "code": "C08K 3/014",
+    "description": "••••Estabilizantes frente a la oxidación, el calor, la luz o el ozono [2018.01]"
+  },
+  {
+    "code": "C08K 3/015",
+    "description": "••••Biocidas (compuestos macromoleculares como portadores de material biocida A01N 25/10) [2018.01]"
+  },
+  {
+    "code": "C08K 3/016",
+    "description": "••••Aditivos ignífugos o retardantes de llama [2018.01]"
+  },
+  {
+    "code": "C08K 3/017",
+    "description": "••••Agentes antiestáticos [2018.01]"
+  },
+  {
+    "code": "C08K 3/02",
+    "description": "••Elementos [2006.01]"
+  },
+  {
+    "code": "C08K 3/04",
+    "description": "••••Carbono [2006.01]"
+  },
+  {
+    "code": "C08K 3/06",
+    "description": "••••Azufre [2006.01]"
+  },
+  {
+    "code": "C08K 3/08",
+    "description": "••••Metales [2006.01]"
+  },
+  {
+    "code": "C08K 3/10",
+    "description": "••Compuestos metálicos [2018.01]"
+  },
+  {
+    "code": "C08K 3/105",
+    "description": "••••Compuestos que contienen metales de los Grupos 1 a 3 o de los Grupos 11 a 13 del Sistema Periódico [2018.01]"
+  },
+  {
+    "code": "C08K 3/11",
+    "description": "••••Compuestos que contienen metales de los Grupos 4 a 10 o de los Grupos 14 a 16 del Sistema Periódico [2018.01]"
+  },
+  {
+    "code": "C08K 3/12",
+    "description": "••••Hidruros [2006.01]"
+  },
+  {
+    "code": "C08K 3/14",
+    "description": "••••Carburos [2006.01]"
+  },
+  {
+    "code": "C08K 3/16",
+    "description": "••Compuestos que contienen halógeno [2006.01]"
+  },
+  {
+    "code": "C08K 3/18",
+    "description": "••Compuestos que contienen oxígeno, p. ej. carbonilos metálicos [2006.01]"
+  },
+  {
+    "code": "C08K 3/20",
+    "description": "••••Oxidos; Hidróxidos [2006.01]"
+  },
+  {
+    "code": "C08K 3/22",
+    "description": "••••••de metales [2006.01]"
+  },
+  {
+    "code": "C08K 3/24",
+    "description": "••••Acidos; Sus sales [2006.01]"
+  },
+  {
+    "code": "C08K 3/26",
+    "description": "••••••Carbonatos; Bicarbonatos [2006.01]"
+  },
+  {
+    "code": "C08K 3/28",
+    "description": "••Compuestos que contienen nitrógeno [2006.01]"
+  },
+  {
+    "code": "C08K 3/30",
+    "description": "••Compuestos que contienen azufre, selenio o teluro [2006.01]"
+  },
+  {
+    "code": "C08K 3/32",
+    "description": "••Compuestos que contienen fósforo [2006.01]"
+  },
+  {
+    "code": "C08K 3/34",
+    "description": "••Compuestos que contienen silicio [2006.01]"
+  },
+  {
+    "code": "C08K 3/36",
+    "description": "••••Sílice [2006.01]"
+  },
+  {
+    "code": "C08K 3/38",
+    "description": "••Compuestos que contienen boro [2006.01]"
+  },
+  {
+    "code": "C08K 3/40",
+    "description": "••Vidrio [2006.01]"
+  },
+  {
+    "code": "C08K 5/00",
+    "description": "Utilización de ingredientes orgánicos [2006.01]"
+  },
+  {
+    "code": "C08K 5/01",
+    "description": "••Hidrocarburos [2006.01]"
+  },
+  {
+    "code": "C08K 5/02",
+    "description": "••Hidrocarburos halogenados [2006.01]"
+  },
+  {
+    "code": "C08K 5/03",
+    "description": "••••aromáticos [2006.01]"
+  },
+  {
+    "code": "C08K 5/04",
+    "description": "••Compuestos que contienen oxígeno [2006.01]"
+  },
+  {
+    "code": "C08K 5/05",
+    "description": "••••Alcoholes; Alcoholatos metálicos [2006.01]"
+  },
+  {
+    "code": "C08K 5/053",
+    "description": "••••••Alcoholes polihidroxílicos [2006.01]"
+  },
+  {
+    "code": "C08K 5/057",
+    "description": "••••••Alcoholatos metálicos [2006.01]"
+  },
+  {
+    "code": "C08K 5/06",
+    "description": "••••Eteres; Acetales; Cetales; Ortoésteres [2006.01]"
+  },
+  {
+    "code": "C08K 5/07",
+    "description": "••••Aldehídos; Cetonas [2006.01]"
+  },
+  {
+    "code": "C08K 5/08",
+    "description": "••••••Quinonas [2006.01]"
+  },
+  {
+    "code": "C08K 5/09",
+    "description": "••••Acidos carboxílicos; Sus sales metálicas; Sus anhídridos [2006.01]"
+  },
+  {
+    "code": "C08K 5/092",
+    "description": "••••••Acidos policarboxílicos [2006.01]"
+  },
+  {
+    "code": "C08K 5/095",
+    "description": "••••••Acidos carboxílicos que contienen halógenos [2006.01]"
+  },
+  {
+    "code": "C08K 5/098",
+    "description": "••••••Sales metálicas de ácidos carboxílicos [2006.01]"
+  },
+  {
+    "code": "C08K 5/10",
+    "description": "••••Esteres; Eter-ésteres [2006.01]"
+  },
+  {
+    "code": "C08K 5/101",
+    "description": "••••••de ácidos monocarboxílicos [2006.01]"
+  },
+  {
+    "code": "C08K 5/103",
+    "description": "••••••••con polialcoholes [2006.01]"
+  },
+  {
+    "code": "C08K 5/105",
+    "description": "••••••••con fenoles [2006.01]"
+  },
+  {
+    "code": "C08K 5/107",
+    "description": "••••••••••con polifenoles [2006.01]"
+  },
+  {
+    "code": "C08K 5/109",
+    "description": "••••••de ácido carbónico [2006.01]"
+  },
+  {
+    "code": "C08K 5/11",
+    "description": "••••••de ácidos policarboxílicos acíclicos [2006.01]"
+  },
+  {
+    "code": "C08K 5/12",
+    "description": "••••••de ácidos policarboxílicos cíclicos [2006.01]"
+  },
+  {
+    "code": "C08K 5/13",
+    "description": "••••Fenoles; Fenolatos [2006.01]"
+  },
+  {
+    "code": "C08K 5/132",
+    "description": "••••••Fenoles que contienen grupos ceto [2006.01]"
+  },
+  {
+    "code": "C08K 5/134",
+    "description": "••••••Fenoles que contienen grupos éster [2006.01]"
+  },
+  {
+    "code": "C08K 5/136",
+    "description": "••••••Fenoles que contienen halógenos [2006.01]"
+  },
+  {
+    "code": "C08K 5/138",
+    "description": "••••••Fenolatos [2006.01]"
+  },
+  {
+    "code": "C08K 5/14",
+    "description": "••••Peróxidos [2006.01]"
+  },
+  {
+    "code": "C08K 5/15",
+    "description": "••••Compuestos heterocíclicos que tienen oxígeno en el ciclo [2006.01]"
+  },
+  {
+    "code": "C08K 5/151",
+    "description": "••••••teniendo un átomo de oxígeno en el ciclo [2006.01]"
+  },
+  {
+    "code": "C08K 5/1515",
+    "description": "••••••••Ciclos de tres eslabones [2006.01]"
+  },
+  {
+    "code": "C08K 5/1525",
+    "description": "••••••••Ciclos de cuatro eslabones [2006.01]"
+  },
+  {
+    "code": "C08K 5/1535",
+    "description": "••••••••Ciclos de cinco eslabones [2006.01]"
+  },
+  {
+    "code": "C08K 5/1539",
+    "description": "••••••••••Anhídridos cíclicos [2006.01]"
+  },
+  {
+    "code": "C08K 5/1545",
+    "description": "••••••••Ciclos de seis eslabones [2006.01]"
+  },
+  {
+    "code": "C08K 5/156",
+    "description": "••••••teniendo dos átomos de oxígeno en el ciclo [2006.01]"
+  },
+  {
+    "code": "C08K 5/1565",
+    "description": "••••••••Ciclos de cinco eslabones [2006.01]"
+  },
+  {
+    "code": "C08K 5/1575",
+    "description": "••••••••Ciclos de seis eslabones [2006.01]"
+  },
+  {
+    "code": "C08K 5/159",
+    "description": "••••••teniendo más de dos átomos de oxígeno en el ciclo [2006.01]"
+  },
+  {
+    "code": "C08K 5/16",
+    "description": "••Compuestos que contienen nitrógeno [2006.01]"
+  },
+  {
+    "code": "C08K 5/17",
+    "description": "••••Aminas; Compuestos de amonio cuaternario [2006.01]"
+  },
+  {
+    "code": "C08K 5/18",
+    "description": "••••••con grupos amino enlazados aromáticamente [2006.01]"
+  },
+  {
+    "code": "C08K 5/19",
+    "description": "••••••Compuestos de amonio cuaternario [2006.01]"
+  },
+  {
+    "code": "C08K 5/20",
+    "description": "••••Amidas de ácido carboxílico [2006.01]"
+  },
+  {
+    "code": "C08K 5/205",
+    "description": "••••Compuestos que contienen grupos  p. ej. carbonatos [2006.01]"
+  },
+  {
+    "code": "C08K 5/21",
+    "description": "••••Urea; Sus derivados, p. ej. biuret [2006.01]"
+  },
+  {
+    "code": "C08K 5/22",
+    "description": "••••Compuestos conteniendo nitrógeno enlazado a otro átomo de nitrógeno [2006.01]"
+  },
+  {
+    "code": "C08K 5/23",
+    "description": "••••••Compuestos azo [2006.01]"
+  },
+  {
+    "code": "C08K 5/24",
+    "description": "••••••Derivados de hidrazina [2006.01]"
+  },
+  {
+    "code": "C08K 5/25",
+    "description": "••••••••Hidrazidas de ácidos carboxílicos [2006.01]"
+  },
+  {
+    "code": "C08K 5/26",
+    "description": "••••••••Semicarbazidas [2006.01]"
+  },
+  {
+    "code": "C08K 5/27",
+    "description": "••••••Compuestos que contienen un átomo de nitrógeno enlazado a dos átomos de nitrógeno, p. ej. compuestos diazoamino [2006.01]"
+  },
+  {
+    "code": "C08K 5/28",
+    "description": "••••••••Azidas [2006.01]"
+  },
+  {
+    "code": "C08K 5/29",
+    "description": "••••Compuestos que contienen enlaces dobles carbono-nitrógeno [2006.01]"
+  },
+  {
+    "code": "C08K 5/30",
+    "description": "••••••Hidrazonas; Semicarbazonas [2006.01]"
+  },
+  {
+    "code": "C08K 5/31",
+    "description": "••••••Guanidina; Sus derivados [2006.01]"
+  },
+  {
+    "code": "C08K 5/315",
+    "description": "••••Compuestos que contienen enlaces triples carbono-nitrógeno [2006.01]"
+  },
+  {
+    "code": "C08K 5/32",
+    "description": "••••Compuestos que contienen nitrógeno enlazados a oxígeno [2006.01]"
+  },
+  {
+    "code": "C08K 5/33",
+    "description": "••••••Oximas [2006.01]"
+  },
+  {
+    "code": "C08K 5/34",
+    "description": "••••Compuestos heterocíclicos que tienen nitrógeno en el ciclo [2006.01]"
+  },
+  {
+    "code": "C08K 5/3412",
+    "description": "••••••que tienen un solo átomo de nitrógeno en el ciclo [2006.01]"
+  },
+  {
+    "code": "C08K 5/3415",
+    "description": "••••••••Ciclos de cinco miembros [2006.01]"
+  },
+  {
+    "code": "C08K 5/3417",
+    "description": "••••••••••condensados con carbociclos [2006.01]"
+  },
+  {
+    "code": "C08K 5/3432",
+    "description": "••••••••Ciclos de seis miembros [2006.01]"
+  },
+  {
+    "code": "C08K 5/3435",
+    "description": "••••••••••Piperidinas [2006.01]"
+  },
+  {
+    "code": "C08K 5/3437",
+    "description": "••••••••••condensadas con carbociclos [2006.01]"
+  },
+  {
+    "code": "C08K 5/3442",
+    "description": "••••••que tienen dos átomos de nitrógeno en el ciclo [2006.01]"
+  },
+  {
+    "code": "C08K 5/3445",
+    "description": "••••••••Ciclos de cinco miembros [2006.01]"
+  },
+  {
+    "code": "C08K 5/3447",
+    "description": "••••••••••condensados con carbociclos [2006.01]"
+  },
+  {
+    "code": "C08K 5/3462",
+    "description": "••••••••Ciclos de seis miembros [2006.01]"
+  },
+  {
+    "code": "C08K 5/3465",
+    "description": "••••••••••condensados con carbociclos [2006.01]"
+  },
+  {
+    "code": "C08K 5/3467",
+    "description": "••••••que tienen más de dos átomos de nitrógeno en el ciclo [2006.01]"
+  },
+  {
+    "code": "C08K 5/3472",
+    "description": "••••••••Ciclos de cinco miembros [2006.01]"
+  },
+  {
+    "code": "C08K 5/3475",
+    "description": "••••••••••condensados con carbociclos [2006.01]"
+  },
+  {
+    "code": "C08K 5/3477",
+    "description": "••••••••Ciclos de seis miembros [2006.01]"
+  },
+  {
+    "code": "C08K 5/3492",
+    "description": "••••••••••Triazinas [2006.01]"
+  },
+  {
+    "code": "C08K 5/3495",
+    "description": "••••••••••condensados con carbociclos [2006.01]"
+  },
+  {
+    "code": "C08K 5/35",
+    "description": "••••••que también tienen oxígeno en el ciclo [2006.01]"
+  },
+  {
+    "code": "C08K 5/353",
+    "description": "••••••••Ciclos de cinco miembros [2006.01]"
+  },
+  {
+    "code": "C08K 5/357",
+    "description": "••••••••Ciclos de seis miembros [2006.01]"
+  },
+  {
+    "code": "C08K 5/36",
+    "description": "••Compuestos que contienen azufre, selenio o teluro [2006.01]"
+  },
+  {
+    "code": "C08K 5/37",
+    "description": "••••Tioles [2006.01]"
+  },
+  {
+    "code": "C08K 5/372",
+    "description": "••••Sulfuros [2006.01]"
+  },
+  {
+    "code": "C08K 5/375",
+    "description": "••••••que contienen ciclos aromáticos de seis miembros [2006.01]"
+  },
+  {
+    "code": "C08K 5/378",
+    "description": "••••••que contienen heterociclos [2006.01]"
+  },
+  {
+    "code": "C08K 5/38",
+    "description": "••••Acidos tiocarbónicos; Sus derivados, p. ej. xantatos [2006.01]"
+  },
+  {
+    "code": "C08K 5/39",
+    "description": "••••Acidos tiocarbámicos; Sus derivados, p. ej. ditiocarbamatos [2006.01]"
+  },
+  {
+    "code": "C08K 5/40",
+    "description": "••••••Sulfuros de tiurano; Polisulfuros de tiurano, p. ej. compuestos que contienen grupos  [2006.01]"
+  },
+  {
+    "code": "C08K 5/405",
+    "description": "••••Tioureas; Sus derivados [2006.01]"
+  },
+  {
+    "code": "C08K 5/41",
+    "description": "••••Compuestos que contienen azufre enlazado al oxígeno [2006.01]"
+  },
+  {
+    "code": "C08K 5/42",
+    "description": "••••••Acidos sulfónicos; Sus derivados [2006.01]"
+  },
+  {
+    "code": "C08K 5/43",
+    "description": "••••Compuestos que contienen azufre enlazado al nitrógeno [2006.01]"
+  },
+  {
+    "code": "C08K 5/435",
+    "description": "••••••Sulfonamidas [2006.01]"
+  },
+  {
+    "code": "C08K 5/44",
+    "description": "••••••Sulfenamidas [2006.01]"
+  },
+  {
+    "code": "C08K 5/45",
+    "description": "••••Compuestos heterocíclicos que tienen azufre en el ciclo [2006.01]"
+  },
+  {
+    "code": "C08K 5/46",
+    "description": "••••••con oxígeno o nitrógeno en el ciclo [2006.01]"
+  },
+  {
+    "code": "C08K 5/47",
+    "description": "••••••••Tiazoles [2006.01]"
+  },
+  {
+    "code": "C08K 5/48",
+    "description": "••••Compuestos que contienen selenio o teluro [2006.01]"
+  },
+  {
+    "code": "C08K 5/49",
+    "description": "••Compuestos que contienen fósforo [2006.01]"
+  },
+  {
+    "code": "C08K 5/50",
+    "description": "••••Fósforo unido únicamente a carbono [2006.01]"
+  },
+  {
+    "code": "C08K 5/51",
+    "description": "••••Fósforo enlazado a oxígeno [2006.01]"
+  },
+  {
+    "code": "C08K 5/52",
+    "description": "••••••enlazado solamente a oxígeno [2006.01]"
+  },
+  {
+    "code": "C08K 5/521",
+    "description": "••••••••Esteres de ácidos fosfóricos, p. ej. de H3PO4 [2006.01]"
+  },
+  {
+    "code": "C08K 5/523",
+    "description": "••••••••••con compuestos hidroxiarílicos [2006.01]"
+  },
+  {
+    "code": "C08K 5/524",
+    "description": "••••••••Esteres de ácidos fosfóricos, p. ej. de H3PO3 [2006.01]"
+  },
+  {
+    "code": "C08K 5/526",
+    "description": "••••••••••con compuestos hidroxiarílicos [2006.01]"
+  },
+  {
+    "code": "C08K 5/527",
+    "description": "••••••••Esteres cíclicos [2006.01]"
+  },
+  {
+    "code": "C08K 5/529",
+    "description": "••••••••Esteres que tienen heterociclos que no representan ésteres cíclicos de ácidos fosfóricos o fosforosos [2006.01]"
+  },
+  {
+    "code": "C08K 5/53",
+    "description": "••••••unido únicamente a oxígeno y carbono [2006.01]"
+  },
+  {
+    "code": "C08K 5/5313",
+    "description": "••••••••Compuestos fosfínicos, p. ej. R2 =P(:O)OR' [2006.01]"
+  },
+  {
+    "code": "C08K 5/5317",
+    "description": "••••••••Compuestos fosfónicos, p. ej. R—P(:O)(OR')2 [2006.01]"
+  },
+  {
+    "code": "C08K 5/5333",
+    "description": "••••••••••Esteres de ácidos fosfónicos [2006.01]"
+  },
+  {
+    "code": "C08K 5/5337",
+    "description": "••••••••••••que contienen también halógenos [2006.01]"
+  },
+  {
+    "code": "C08K 5/5353",
+    "description": "••••••••••••que contienen también nitrógeno [2006.01]"
+  },
+  {
+    "code": "C08K 5/5357",
+    "description": "••••••••••••cíclicos [2006.01]"
+  },
+  {
+    "code": "C08K 5/5373",
+    "description": "••••••••••••que contienen heterociclos que no representan ésteres cíclicos de ácidos fosfónicos [2006.01]"
+  },
+  {
+    "code": "C08K 5/5377",
+    "description": "••••••••Compuestos fosfinosos, p. ej. R2 =P—OR' [2006.01]"
+  },
+  {
+    "code": "C08K 5/5393",
+    "description": "••••••••Compuestos fosfonosos, p. ej. R—P(OR')2 [2006.01]"
+  },
+  {
+    "code": "C08K 5/5397",
+    "description": "••••••••Oxidos de fosfina [2006.01]"
+  },
+  {
+    "code": "C08K 5/5398",
+    "description": "••••Fósforo unido a azufre [2006.01]"
+  },
+  {
+    "code": "C08K 5/5399",
+    "description": "••••Fósforo unido a nitrógeno [2006.01]"
+  },
+  {
+    "code": "C08K 5/54",
+    "description": "••Compuestos que contienen silicio [2006.01]"
+  },
+  {
+    "code": "C08K 5/541",
+    "description": "••••conteniendo oxígeno [2006.01]"
+  },
+  {
+    "code": "C08K 5/5415",
+    "description": "••••••conteniendo al menos un enlace Si— O [2006.01]"
+  },
+  {
+    "code": "C08K 5/5419",
+    "description": "••••••••conteniendo al menos un enlace Si— C [2006.01]"
+  },
+  {
+    "code": "C08K 5/5425",
+    "description": "••••••conteniendo al menos un enlace C= C [2006.01]"
+  },
+  {
+    "code": "C08K 5/5435",
+    "description": "••••••conteniendo el oxígeno en un ciclo [2006.01]"
+  },
+  {
+    "code": "C08K 5/544",
+    "description": "••••conteniendo nitrógeno [2006.01]"
+  },
+  {
+    "code": "C08K 5/5445",
+    "description": "••••••conteniendo al menos un enlace Si— N [2006.01]"
+  },
+  {
+    "code": "C08K 5/5455",
+    "description": "••••••conteniendo al menos un grupo  [2006.01]"
+  },
+  {
+    "code": "C08K 5/5465",
+    "description": "••••••conteniendo al menos un enlace C= N [2006.01]"
+  },
+  {
+    "code": "C08K 5/5475",
+    "description": "••••••conteniendo al menos un enlace C≡ N [2006.01]"
+  },
+  {
+    "code": "C08K 5/548",
+    "description": "••••conteniendo azufre [2006.01]"
+  },
+  {
+    "code": "C08K 5/549",
+    "description": "••••conteniendo el Silicio en un ciclo [2006.01]"
+  },
+  {
+    "code": "C08K 5/55",
+    "description": "••Compuestos que contienen boro [2006.01]"
+  },
+  {
+    "code": "C08K 5/56",
+    "description": "••Compuestos organometálicos, es decir, compuestos orgánicos que contienen un metal enlazado a carbono [2006.01]"
+  },
+  {
+    "code": "C08K 5/57",
+    "description": "••••Compuestos órgano-estaño [2006.01]"
+  },
+  {
+    "code": "C08K 5/58",
+    "description": "••••••que contienen azufre [2006.01]"
+  },
+  {
+    "code": "C08K 5/59",
+    "description": "••Compuestos que contienen arsénico o antimonio [2006.01]"
+  },
+  {
+    "code": "C08K 7/00",
+    "description": "Utilización de ingredientes caracterizados por su forma [2006.01]"
+  },
+  {
+    "code": "C08K 7/02",
+    "description": "••Fibras o limaduras [2006.01]"
+  },
+  {
+    "code": "C08K 7/04",
+    "description": "••••inorgánicos [2006.01]"
+  },
+  {
+    "code": "C08K 7/06",
+    "description": "••••••Elementos [2006.01]"
+  },
+  {
+    "code": "C08K 7/08",
+    "description": "••••••Compuestos que contienen oxígeno [2006.01]"
+  },
+  {
+    "code": "C08K 7/10",
+    "description": "••••••Compuestos que contienen silicio [2006.01]"
+  },
+  {
+    "code": "C08K 7/12",
+    "description": "••••••••Amianto [2006.01]"
+  },
+  {
+    "code": "C08K 7/14",
+    "description": "••••••Vidrio [2006.01]"
+  },
+  {
+    "code": "C08K 7/16",
+    "description": "••Esferas sólidas [2006.01]"
+  },
+  {
+    "code": "C08K 7/18",
+    "description": "••••inorgánicas [2006.01]"
+  },
+  {
+    "code": "C08K 7/20",
+    "description": "••••••Vidrio [2006.01]"
+  },
+  {
+    "code": "C08K 7/22",
+    "description": "••Partículas expandidas, porosas o celulares [2006.01]"
+  },
+  {
+    "code": "C08K 7/24",
+    "description": "••••inorgánicas [2006.01]"
+  },
+  {
+    "code": "C08K 7/26",
+    "description": "••••••Compuestos que contienen silicio [2006.01]"
+  },
+  {
+    "code": "C08K 7/28",
+    "description": "••••••Vidrio [2006.01]"
+  },
+  {
+    "code": "C08K 9/00",
+    "description": "Utilización de ingredientes pretratados (utilización de materiales fibrosos pretratados para la fabricación de artículos o modelado de materiales que contienen sustancias macromoleculares C08J 5/06) [2006.01]"
+  },
+  {
+    "code": "C08K 9/02",
+    "description": "••Ingredientes tratados con sustancias inorgánicas [2006.01]"
+  },
+  {
+    "code": "C08K 9/04",
+    "description": "••Ingredientes tratados con sustancias orgánicas [2006.01]"
+  },
+  {
+    "code": "C08K 9/06",
+    "description": "••••con compuestos que contienen silicio [2006.01]"
+  },
+  {
+    "code": "C08K 9/08",
+    "description": "••Ingredientes aglomerados por tratamiento con un agente ligante [2006.01]"
+  },
+  {
+    "code": "C08K 9/10",
+    "description": "••Ingredientes encapsulados [2006.01]"
+  },
+  {
+    "code": "C08K 9/12",
+    "description": "••Ingredientes adsorbidos [2006.01]"
+  },
+  {
+    "code": "C08K 11/00",
+    "description": "Utilización de ingredientes de constitución desconocida, p. ej. productos de reacción indefinidos [2006.01]"
+  },
+  {
+    "code": "C08K 13/00",
+    "description": "Utilización de mezclas de ingredientes no previstos en uno solo de los grupos principales C08K 3/00-C08K 11/00, siendo esencial cada uno de estos compuestos [2006.01]"
+  },
+  {
+    "code": "C08K 13/02",
+    "description": "••Ingredientes orgánicos e inorgánicos [2006.01]"
+  },
+  {
+    "code": "C08K 13/04",
+    "description": "••Ingredientes caracterizados por su forma e ingredientes orgánicos o inorgánicos [2006.01]"
+  },
+  {
+    "code": "C08K 13/06",
+    "description": "••Ingredientes pretratados e ingredientes previstos en los grupos principales C08K 3/00-C08K 7/00 [2006.01]"
+  },
+  {
+    "code": "C08K 13/08",
+    "description": "••Ingredientes de constitución desconocida e ingredientes previstos en los grupos principales C08K 3/00-C08K 9/00 [2006.01]"
+  }
+]

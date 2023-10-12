@@ -1,0 +1,618 @@
+[
+  {
+    "code": "C25D 1/00",
+    "description": "Galvanoplastia [2006.01]"
+  },
+  {
+    "code": "C25D 1/02",
+    "description": "••Tubos; Anillos; Cuerpos huecos [2006.01]"
+  },
+  {
+    "code": "C25D 1/04",
+    "description": "••Alambre; Cintas; Chapas [2006.01]"
+  },
+  {
+    "code": "C25D 1/06",
+    "description": "••Espejos totalmente metálicos [2006.01]"
+  },
+  {
+    "code": "C25D 1/08",
+    "description": "••Objetos perforados o agujereados, p. ej. tamices (C25D 1/10 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "C25D 1/10",
+    "description": "••Moldes; Mandriles; Matrices [2006.01]"
+  },
+  {
+    "code": "C25D 1/12",
+    "description": "••por electroforesis [2006.01]"
+  },
+  {
+    "code": "C25D 1/14",
+    "description": "••••de material inorgánico [2006.01]"
+  },
+  {
+    "code": "C25D 1/16",
+    "description": "••••••Metales [2006.01]"
+  },
+  {
+    "code": "C25D 1/18",
+    "description": "••••de material orgánico [2006.01]"
+  },
+  {
+    "code": "C25D 1/20",
+    "description": "••Separación de los objetos formados de los electrodos [2006.01]"
+  },
+  {
+    "code": "C25D 1/22",
+    "description": "••••Compuestos separadores [2006.01]"
+  },
+  {
+    "code": "C25D 2/00",
+    "description": "Unión de piezas por electrolisis [2006.01]"
+  },
+  {
+    "code": "C25D 3/00",
+    "description": "Revestimientos electrolíticos; Baños utilizados [2006.01]"
+  },
+  {
+    "code": "C25D 3/02",
+    "description": "••a partir de soluciones (C25D 5/24-C25D 5/32  tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "C25D 3/04",
+    "description": "••••de cromo [2006.01]"
+  },
+  {
+    "code": "C25D 3/06",
+    "description": "••••••a partir de soluciones de cromo trivalente [2006.01]"
+  },
+  {
+    "code": "C25D 3/08",
+    "description": "••••••Deposición de cromo negro [2006.01]"
+  },
+  {
+    "code": "C25D 3/10",
+    "description": "••••••caracterizadas por los constituyentes orgánicos utilizados en el baño [2006.01]"
+  },
+  {
+    "code": "C25D 3/12",
+    "description": "••••de níquel o cobalto [2006.01]"
+  },
+  {
+    "code": "C25D 3/14",
+    "description": "••••••a partir de baños que contienen compuestos acetilénicos o heterocíclicos [2006.01]"
+  },
+  {
+    "code": "C25D 3/16",
+    "description": "••••••••Compuestos acetilénicos [2006.01]"
+  },
+  {
+    "code": "C25D 3/18",
+    "description": "••••••••Compuestos heterocíclicos [2006.01]"
+  },
+  {
+    "code": "C25D 3/20",
+    "description": "••••de hierro [2006.01]"
+  },
+  {
+    "code": "C25D 3/22",
+    "description": "••••de cinc [2006.01]"
+  },
+  {
+    "code": "C25D 3/24",
+    "description": "••••••a partir de baños de cianuro [2006.01]"
+  },
+  {
+    "code": "C25D 3/26",
+    "description": "••••de cadmio [2006.01]"
+  },
+  {
+    "code": "C25D 3/28",
+    "description": "••••••a partir de baños de cianuro [2006.01]"
+  },
+  {
+    "code": "C25D 3/30",
+    "description": "••••de estaño [2006.01]"
+  },
+  {
+    "code": "C25D 3/32",
+    "description": "••••••caracterizadas por los constituyentes orgánicos utilizados en el baño [2006.01]"
+  },
+  {
+    "code": "C25D 3/34",
+    "description": "••••de plomo [2006.01]"
+  },
+  {
+    "code": "C25D 3/36",
+    "description": "••••••caracterizadas por los constituyentes orgánicos utilizados en el baño [2006.01]"
+  },
+  {
+    "code": "C25D 3/38",
+    "description": "••••de cobre [2006.01]"
+  },
+  {
+    "code": "C25D 3/40",
+    "description": "••••••a partir de baños de cianuro [2006.01]"
+  },
+  {
+    "code": "C25D 3/42",
+    "description": "••••de metales ligeros [2006.01]"
+  },
+  {
+    "code": "C25D 3/44",
+    "description": "••••••Aluminio [2006.01]"
+  },
+  {
+    "code": "C25D 3/46",
+    "description": "••••de plata [2006.01]"
+  },
+  {
+    "code": "C25D 3/48",
+    "description": "••••de oro [2006.01]"
+  },
+  {
+    "code": "C25D 3/50",
+    "description": "••••de metales del grupo del platino [2006.01]"
+  },
+  {
+    "code": "C25D 3/52",
+    "description": "••••••caracterizadas por los constituyentes orgánicos utilizados en el baño [2006.01]"
+  },
+  {
+    "code": "C25D 3/54",
+    "description": "••••de metales no previstos en los grupos C25D 3/04-C25D 3/50 [2006.01]"
+  },
+  {
+    "code": "C25D 3/56",
+    "description": "••••de aleaciones [2006.01]"
+  },
+  {
+    "code": "C25D 3/58",
+    "description": "••••••que contienen más del 50% en peso de cobre [2006.01]"
+  },
+  {
+    "code": "C25D 3/60",
+    "description": "••••••que contienen más del 50% en peso de estaño [2006.01]"
+  },
+  {
+    "code": "C25D 3/62",
+    "description": "••••••que contienen más del 50% en peso de oro [2006.01]"
+  },
+  {
+    "code": "C25D 3/64",
+    "description": "••••••que contienen más del 50% en peso de plata [2006.01]"
+  },
+  {
+    "code": "C25D 3/66",
+    "description": "••a partir de baños fundidos [2006.01]"
+  },
+  {
+    "code": "C25D 5/00",
+    "description": "Revestimientos electrolíticos caracterizados por el proceso; Pretratamiento o tratamiento posterior de las piezas [2006.01]"
+  },
+  {
+    "code": "C25D 5/02",
+    "description": "••Deposiciones de áreas superficiales seleccionadas [2006.01]"
+  },
+  {
+    "code": "C25D 5/04",
+    "description": "••Deposiciones con electrodos móviles [2006.01]"
+  },
+  {
+    "code": "C25D 5/06",
+    "description": "••••Deposiciones al cepillo o la almohadilla [2006.01]"
+  },
+  {
+    "code": "C25D 5/08",
+    "description": "••Deposiciones con electrolito en movimiento, p. ej. deposiciones por proyección [2006.01]"
+  },
+  {
+    "code": "C25D 5/10",
+    "description": "••Deposiciones con más de una capa de iguales o diferentes metales (para cojinetes C25D 7/10) [2006.01]"
+  },
+  {
+    "code": "C25D 5/12",
+    "description": "••••siendo al menos una capa de níquel o cromo [2006.01]"
+  },
+  {
+    "code": "C25D 5/14",
+    "description": "••••••siendo dos o más capas de níquel o cromo, p. ej. capas dobles o triples [2006.01]"
+  },
+  {
+    "code": "C25D 5/16",
+    "description": "••Deposiciones con capas de espesor variable [2006.01]"
+  },
+  {
+    "code": "C25D 5/18",
+    "description": "••Deposiciones utilizando corriente modulada, pulsante o invertida [2006.01]"
+  },
+  {
+    "code": "C25D 5/20",
+    "description": "••Deposiciones utilizando ultrasonidos [2006.01]"
+  },
+  {
+    "code": "C25D 5/22",
+    "description": "••Deposiciones combinado con tratamiento mecánico durante la deposición [2006.01]"
+  },
+  {
+    "code": "C25D 5/24",
+    "description": "••Deposiciones de superficies metálicas en las que un revestimiento no puede ser fácilmente aplicado (C25D 5/34  tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "C25D 5/26",
+    "description": "••••de superficies de hierro o acero [2006.01]"
+  },
+  {
+    "code": "C25D 5/28",
+    "description": "••••de superficies de metales refractarios [2006.01]"
+  },
+  {
+    "code": "C25D 5/30",
+    "description": "••••de superficies de metales ligeros [2006.01]"
+  },
+  {
+    "code": "C25D 5/32",
+    "description": "••••de superficies de los actínidos [2006.01]"
+  },
+  {
+    "code": "C25D 5/34",
+    "description": "••Pretratamiento de superficies metálicas que van a ser revestidas por vía electrolítica [2006.01]"
+  },
+  {
+    "code": "C25D 5/36",
+    "description": "••••de hierro o acero [2006.01]"
+  },
+  {
+    "code": "C25D 5/38",
+    "description": "••••de metales refractarios o níquel [2006.01]"
+  },
+  {
+    "code": "C25D 5/40",
+    "description": "••••••Níquel; Cromo [2006.01]"
+  },
+  {
+    "code": "C25D 5/42",
+    "description": "••••de metales ligeros [2006.01]"
+  },
+  {
+    "code": "C25D 5/44",
+    "description": "••••••Aluminio [2006.01]"
+  },
+  {
+    "code": "C25D 5/46",
+    "description": "••••de actínidos [2006.01]"
+  },
+  {
+    "code": "C25D 5/48",
+    "description": "••Tratamiento posterior de las superficies revestidas de metales por vía electrolítica [2006.01]"
+  },
+  {
+    "code": "C25D 5/50",
+    "description": "••••por tratamiento térmico [2006.01]"
+  },
+  {
+    "code": "C25D 5/52",
+    "description": "••••por abrillantado o bruñido [2006.01]"
+  },
+  {
+    "code": "C25D 5/54",
+    "description": "••Deposiciones de superficies no metálicas (C25D 7/12  tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "C25D 5/56",
+    "description": "••••de materias plásticas [2006.01]"
+  },
+  {
+    "code": "C25D 7/00",
+    "description": "Deposiciones de metales por vía electrolítica caracterizadas por el objeto revestido [2006.01]"
+  },
+  {
+    "code": "C25D 7/02",
+    "description": "••Cierres de cursor [2006.01]"
+  },
+  {
+    "code": "C25D 7/04",
+    "description": "••Tubos; Anillos; Cuerpos huecos [2006.01]"
+  },
+  {
+    "code": "C25D 7/06",
+    "description": "••Alambres; Cintas; Chapas [2006.01]"
+  },
+  {
+    "code": "C25D 7/08",
+    "description": "••Espejos; Reflectores [2006.01]"
+  },
+  {
+    "code": "C25D 7/10",
+    "description": "••Cojinetes [2006.01]"
+  },
+  {
+    "code": "C25D 7/12",
+    "description": "••Semiconductores [2006.01]"
+  },
+  {
+    "code": "C25D 9/00",
+    "description": "Revestimientos electrolíticos que no sea con metales (C25D 11/00, C25D 15/00  tienen prioridad; revestimiento electroforético C25D 13/00) [2006.01]"
+  },
+  {
+    "code": "C25D 9/02",
+    "description": "••con materiales orgánicos [2006.01]"
+  },
+  {
+    "code": "C25D 9/04",
+    "description": "••con materiales inorgánicos [2006.01]"
+  },
+  {
+    "code": "C25D 9/06",
+    "description": "••••por procesos anódicos [2006.01]"
+  },
+  {
+    "code": "C25D 9/08",
+    "description": "••••por procesos catódicos [2006.01]"
+  },
+  {
+    "code": "C25D 9/10",
+    "description": "••••••sobre hierro o acero [2006.01]"
+  },
+  {
+    "code": "C25D 9/12",
+    "description": "••••••sobre metales ligeros [2006.01]"
+  },
+  {
+    "code": "C25D 11/00",
+    "description": "Revestimientos electrolíticos por reacción superficial, es decir, que forman capas de conversión [2006.01]"
+  },
+  {
+    "code": "C25D 11/02",
+    "description": "••Anodización [2006.01]"
+  },
+  {
+    "code": "C25D 11/04",
+    "description": "••••de aluminio o sus aleaciones [2006.01]"
+  },
+  {
+    "code": "C25D 11/06",
+    "description": "••••••caracterizada por los electrolitos utilizados [2006.01]"
+  },
+  {
+    "code": "C25D 11/08",
+    "description": "••••••••que contienen ácidos inorgánicos [2006.01]"
+  },
+  {
+    "code": "C25D 11/10",
+    "description": "••••••••que contienen ácidos orgánicos [2006.01]"
+  },
+  {
+    "code": "C25D 11/12",
+    "description": "••••••Anodización en varias etapas, p. ej. en baños diferentes [2006.01]"
+  },
+  {
+    "code": "C25D 11/14",
+    "description": "••••••Producción de capas coloreadas [2006.01]"
+  },
+  {
+    "code": "C25D 11/16",
+    "description": "••••••Pretratamiento [2006.01]"
+  },
+  {
+    "code": "C25D 11/18",
+    "description": "••••••Tratamiento posterior, p. ej. cerrado de poros [2006.01]"
+  },
+  {
+    "code": "C25D 11/20",
+    "description": "••••••••Tratamiento posterior electrolítico [2006.01]"
+  },
+  {
+    "code": "C25D 11/22",
+    "description": "••••••••••para colorear capas [2006.01]"
+  },
+  {
+    "code": "C25D 11/24",
+    "description": "••••••••Tratamiento posterior químico [2006.01]"
+  },
+  {
+    "code": "C25D 11/26",
+    "description": "••••de metales refractarios o sus aleaciones [2006.01]"
+  },
+  {
+    "code": "C25D 11/28",
+    "description": "••••de actínidos o sus aleaciones [2006.01]"
+  },
+  {
+    "code": "C25D 11/30",
+    "description": "••••de magnesio o sus aleaciones [2006.01]"
+  },
+  {
+    "code": "C25D 11/32",
+    "description": "••••de materiales semiconductores [2006.01]"
+  },
+  {
+    "code": "C25D 11/34",
+    "description": "••••de metales o aleaciones no previstos por los grupos C25D 11/04-C25D 11/32 [2006.01]"
+  },
+  {
+    "code": "C25D 11/36",
+    "description": "••Fosfatado [2006.01]"
+  },
+  {
+    "code": "C25D 11/38",
+    "description": "••Cromatado [2006.01]"
+  },
+  {
+    "code": "C25D 13/00",
+    "description": "Revestimientos electroforéticos caracterizados por el proceso (C25D 15/00  tiene prioridad; composiciones para revestimientos electroforéticos C09D 5/44) [2006.01]"
+  },
+  {
+    "code": "C25D 13/02",
+    "description": "••con material inorgánico [2006.01]"
+  },
+  {
+    "code": "C25D 13/04",
+    "description": "••con material orgánico [2006.01]"
+  },
+  {
+    "code": "C25D 13/06",
+    "description": "••••polímeros [2006.01]"
+  },
+  {
+    "code": "C25D 13/08",
+    "description": "••••••por polimerización in situ de monómeros [2006.01]"
+  },
+  {
+    "code": "C25D 13/10",
+    "description": "••caracterizados por los aditivos utilizados [2006.01]"
+  },
+  {
+    "code": "C25D 13/12",
+    "description": "••caracterizados por el artículo revestido [2006.01]"
+  },
+  {
+    "code": "C25D 13/14",
+    "description": "••••Tubos; Anillos; Cuerpos huecos [2006.01]"
+  },
+  {
+    "code": "C25D 13/16",
+    "description": "••••Alambres; Cintas; Chapas [2006.01]"
+  },
+  {
+    "code": "C25D 13/18",
+    "description": "••utilizando corriente modulada, pulsante o invertida [2006.01]"
+  },
+  {
+    "code": "C25D 13/20",
+    "description": "••Pretratamiento [2006.01]"
+  },
+  {
+    "code": "C25D 13/22",
+    "description": "••Operación o servicio [2006.01]"
+  },
+  {
+    "code": "C25D 13/24",
+    "description": "••••Regeneración de los baños [2006.01]"
+  },
+  {
+    "code": "C25D 15/00",
+    "description": "Producción electrolítica o electroforética de revestimientos que contienen materiales incorporados, p. ej. partículas, laminillas, hilos [2006.01]"
+  },
+  {
+    "code": "C25D 15/02",
+    "description": "••Procesos combinados electrolíticos y electroforéticos [2006.01]"
+  },
+  {
+    "code": "C25D 17/00",
+    "description": "Elementos estructurales, o sus ensambles, de células para revestimiento electrolítico [2006.01]"
+  },
+  {
+    "code": "C25D 17/02",
+    "description": "••Tanques; Sus instalaciones [2006.01]"
+  },
+  {
+    "code": "C25D 17/04",
+    "description": "••••Cuadros o estructuras de soporte externas [2006.01]"
+  },
+  {
+    "code": "C25D 17/06",
+    "description": "••Dispositivos de suspensión o soporte para los artículos que van a ser revestidos [2006.01]"
+  },
+  {
+    "code": "C25D 17/08",
+    "description": "••••Bastidores [2006.01]"
+  },
+  {
+    "code": "C25D 17/10",
+    "description": "••Electrodos [2006.01]"
+  },
+  {
+    "code": "C25D 17/12",
+    "description": "••••Forma o configuración (C25D 17/14 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "C25D 17/14",
+    "description": "••••para chapado a la almohadilla [2006.01]"
+  },
+  {
+    "code": "C25D 17/16",
+    "description": "••Aparatos para revestimiento electrolítico de pequeños objetos en conjunto [2006.01]"
+  },
+  {
+    "code": "C25D 17/18",
+    "description": "••••que tienen recipientes cerrados [2006.01]"
+  },
+  {
+    "code": "C25D 17/20",
+    "description": "••••••Barriles horizontales [2006.01]"
+  },
+  {
+    "code": "C25D 17/22",
+    "description": "••••que tienen recipientes abiertos [2006.01]"
+  },
+  {
+    "code": "C25D 17/24",
+    "description": "••••••Barriles inclinados [2006.01]"
+  },
+  {
+    "code": "C25D 17/26",
+    "description": "••••••Cestas oscilantes [2006.01]"
+  },
+  {
+    "code": "C25D 17/28",
+    "description": "••••con medios para mover los objetos individualmente a través de los aparatos durante el tratamiento [2006.01]"
+  },
+  {
+    "code": "C25D 19/00",
+    "description": "Instalaciones para revestimientos electrolíticos [2006.01]"
+  },
+  {
+    "code": "C25D 21/00",
+    "description": "Procedimientos para el servicio u operación de las células para revestimiento electrolítico [2006.01]"
+  },
+  {
+    "code": "C25D 21/02",
+    "description": "••Calentamiento o refrigeración [2006.01]"
+  },
+  {
+    "code": "C25D 21/04",
+    "description": "••Eliminación de gases o vapores [2006.01]"
+  },
+  {
+    "code": "C25D 21/06",
+    "description": "••Filtrado [2006.01]"
+  },
+  {
+    "code": "C25D 21/08",
+    "description": "••Enjuagado [2006.01]"
+  },
+  {
+    "code": "C25D 21/10",
+    "description": "••Agitación de electrolitos; Desplazamiento de bastidores [2006.01]"
+  },
+  {
+    "code": "C25D 21/11",
+    "description": "••Utilización de capas protectoras superficiales sobre los baños electrolíticos [2006.01]"
+  },
+  {
+    "code": "C25D 21/12",
+    "description": "••Control o regulación [2006.01]"
+  },
+  {
+    "code": "C25D 21/14",
+    "description": "••••Adición controlada de los componentes del electrolito [2006.01]"
+  },
+  {
+    "code": "C25D 21/16",
+    "description": "••Regeneración de los baños [2006.01]"
+  },
+  {
+    "code": "C25D 21/18",
+    "description": "••••de electrolitos (C25D 21/22 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "C25D 21/20",
+    "description": "••••de soluciones de lavado (C25D 21/22 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "C25D 21/22",
+    "description": "••••por cambio iónico [2006.01]"
+  }
+]

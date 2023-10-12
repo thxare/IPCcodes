@@ -1,0 +1,98 @@
+[
+  {
+    "code": "F15C 1/00",
+    "description": "Elementos de circuitos que no tienen partes móviles [2006.01]"
+  },
+  {
+    "code": "F15C 1/02",
+    "description": "••Partes constitutivas [2006.01]"
+  },
+  {
+    "code": "F15C 1/04",
+    "description": "••••Medios para controlar las corrientes de fluido hacia los dispositivos de fluido, p. ej. por señales eléctricas [2006.01]"
+  },
+  {
+    "code": "F15C 1/06",
+    "description": "••••Detalles de construcción; Empleo de materiales específicos [2006.01]"
+  },
+  {
+    "code": "F15C 1/08",
+    "description": "••Dispositivos de capa límite, p. ej. amplificadores fijados a la pared [2006.01]"
+  },
+  {
+    "code": "F15C 1/10",
+    "description": "••••para un funcionamiento digital, p. ej. para formar un circuito lógico \"flip-flop\", puerta \"OR\", puerta \"NOR\" [2006.01]"
+  },
+  {
+    "code": "F15C 1/12",
+    "description": "••••••Disposiciones múltiples de los mismos para realizar operaciones de la misma clase, p. ej. puertas mayoritarias, puertas de identidad [2006.01]"
+  },
+  {
+    "code": "F15C 1/14",
+    "description": "••Dispositivos de interacción de corriente; Dispositivos De intercambio de momento, p. ej. actuando por intercambio de dos chorros ortogonales de fluido [2006.01]"
+  },
+  {
+    "code": "F15C 1/16",
+    "description": "••Dispositivos de torbellino, es decir, dispositivos en los que se aprovecha la caída de presión con el movimiento turbillonario de un fluido [2006.01]"
+  },
+  {
+    "code": "F15C 1/18",
+    "description": "••Dispositivos de turbulencia, es decir, dispositivos en los cuales una corriente de control obliga a un flujo laminar a convertirse en turbulento [2006.01]"
+  },
+  {
+    "code": "F15C 1/20",
+    "description": "••Dispositivos de impacto directo, es decir, dispositivos en los cuales chocan dos corrientes opuestas en línea recta [2006.01]"
+  },
+  {
+    "code": "F15C 1/22",
+    "description": "••Osciladores [2006.01]"
+  },
+  {
+    "code": "F15C 3/00",
+    "description": "Elementos de circuitos que tienen partes móviles (válvulas, estructura de las válvulas F16K) [2006.01]"
+  },
+  {
+    "code": "F15C 3/02",
+    "description": "••utilizando válvulas de carrete [2006.01]"
+  },
+  {
+    "code": "F15C 3/04",
+    "description": "••utilizando diafragmas (uniones de válvulas a cuerpos elásticos inflables B60C 29/00) [2006.01]"
+  },
+  {
+    "code": "F15C 3/06",
+    "description": "••utilizando bolas [2006.01]"
+  },
+  {
+    "code": "F15C 3/08",
+    "description": "••utilizando láminas [2006.01]"
+  },
+  {
+    "code": "F15C 3/10",
+    "description": "••utilizando boquillas o tuberías de descarga [2006.01]"
+  },
+  {
+    "code": "F15C 3/12",
+    "description": "••••siendo móvil la boquilla o la tubería de descarga [2006.01]"
+  },
+  {
+    "code": "F15C 3/14",
+    "description": "••••siendo interceptado el chorro que sale de la boquilla por un \"Flap\" [2006.01]"
+  },
+  {
+    "code": "F15C 3/16",
+    "description": "••Osciladores [2006.01]"
+  },
+  {
+    "code": "F15C 4/00",
+    "description": "Elementos de circuitos caracterizados por sus funciones particulares [2006.01]"
+  },
+  {
+    "code": "F15C 5/00",
+    "description": "Fabricación de los elementos de circuito de fluido; Fabricación de los conjuntos de estos elementos [2006.01]"
+  },
+  {
+    "code": "F15C 7/00",
+    "description": "Elementos híbridos, es decir, elementos de circuitos que tienen características correspondientes a los grupos F15C 1/00 y F15C 3/00 [2006.01]"
+  }
+]

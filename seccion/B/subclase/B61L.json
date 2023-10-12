@@ -1,0 +1,530 @@
+[
+  {
+    "code": "B61L 1/00",
+    "description": "Dispositivos a lo largo de la vía mandados por la acción del vehículo o del tren (petardos B61L 5/20; maniobra de sistemas de agujas o señales por el paso del vehículo B61L 11/00, B61L 13/00; maniobra de barreras o de barreras y señales por el acercamiento del tren B61L 29/18) [2006.01]"
+  },
+  {
+    "code": "B61L 1/02",
+    "description": "••Dispositivos eléctricos asociados a la vía [2006.01]"
+  },
+  {
+    "code": "B61L 1/04",
+    "description": "••••accionados mecánicamente por un órgano del vehículo [2006.01]"
+  },
+  {
+    "code": "B61L 1/06",
+    "description": "••••accionados por deformación del raíl; accionados por vibración del raíl [2006.01]"
+  },
+  {
+    "code": "B61L 1/08",
+    "description": "••••accionados magnéticamente; accionados electrostáticamente [2006.01]"
+  },
+  {
+    "code": "B61L 1/10",
+    "description": "••••accionados por radiaciones electromagnéticas; accionados por radiaciones de partículas [2006.01]"
+  },
+  {
+    "code": "B61L 1/12",
+    "description": "••Dispositivos eléctricos asociados con los cables del trole [2006.01]"
+  },
+  {
+    "code": "B61L 1/14",
+    "description": "••Dispositivos para indicar el paso de la parte trasera de un vehículo o de la cola de un tren [2006.01]"
+  },
+  {
+    "code": "B61L 1/16",
+    "description": "••Dispositivos para contar ejes; Dispositivos para contar vehículos [2006.01]"
+  },
+  {
+    "code": "B61L 1/18",
+    "description": "••Circuitos eléctricos de vías férreas (juntas de raíl E01B 11/00, p. ej. juntas de raíl aislantes E01B 11/54) [2006.01]"
+  },
+  {
+    "code": "B61L 1/20",
+    "description": "••Instalaciones de seguridad para impedir o señalar el mal funcionamiento del dispositivo, p. ej. por pérdida de corriente, por el rayo [2006.01]"
+  },
+  {
+    "code": "B61L 3/00",
+    "description": "Dispositivos a lo largo de la vía que mandan dispositivos sobre el vehículo o sobre el tren, p. ej. para soltar los frenos, para maniobrar una señal de alarma [2006.01]"
+  },
+  {
+    "code": "B61L 3/02",
+    "description": "••en lugares elegidos a lo largo de la vía, p. ej. de mando intermitente [2006.01]"
+  },
+  {
+    "code": "B61L 3/04",
+    "description": "••••de mando mecánico [2006.01]"
+  },
+  {
+    "code": "B61L 3/06",
+    "description": "••••control por radiaciones electromagnéticas o de partículas, p. ej. por rayo luminoso [2006.01]"
+  },
+  {
+    "code": "B61L 3/08",
+    "description": "••••de mando eléctrico [2006.01]"
+  },
+  {
+    "code": "B61L 3/10",
+    "description": "••••••utilizando la corriente que pasa entre los dispositivos a lo largo de la vía y dispositivos sobre vehículo o sobre el tren [2006.01]"
+  },
+  {
+    "code": "B61L 3/12",
+    "description": "••••••utilizando una inducción magnética o electrostática; utilizando ondas radio [2006.01]"
+  },
+  {
+    "code": "B61L 3/14",
+    "description": "••••para cortar la alimentación a los motores de tracción de vehículos de propulsión eléctrica [2006.01]"
+  },
+  {
+    "code": "B61L 3/16",
+    "description": "••Control continuo a lo largo de la vía [2006.01]"
+  },
+  {
+    "code": "B61L 3/18",
+    "description": "••••utilizando la corriente eléctrica que pasa entre los dispositivos a lo largo de la vía y dispositivos sobre el vehículo o sobre el tren [2006.01]"
+  },
+  {
+    "code": "B61L 3/20",
+    "description": "••••••bajo forma de frecuencias diferentes o grupos de impulsión codificados [2006.01]"
+  },
+  {
+    "code": "B61L 3/22",
+    "description": "••••utilizando una inducción magnética o electrostática; utilizando una radiación electromagnética [2006.01]"
+  },
+  {
+    "code": "B61L 3/24",
+    "description": "••••••bajo forma de frecuencias diferentes o grupos de impulsión codificados [2006.01]"
+  },
+  {
+    "code": "B61L 5/00",
+    "description": "Mecanismos locales de maniobra para sistemas de agujas o bloques de parada montados sobre la vía; Señales visibles o sonoras; Mecanismos locales de mando para señales visibles o sonoras (B61L 11/00 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B61L 5/02",
+    "description": "••Dispositivos mecánicos de maniobra para sistemas de agujas o bloques de parada [2006.01]"
+  },
+  {
+    "code": "B61L 5/04",
+    "description": "••Dispositivos de presión de fluido de control de sistemas de agujas o de bloques de parada [2006.01]"
+  },
+  {
+    "code": "B61L 5/06",
+    "description": "••Dispositivos eléctricos de control de sistemas de agujas o de bloques de parada [2006.01]"
+  },
+  {
+    "code": "B61L 5/08",
+    "description": "••Instalaciones subterráneas, p. ej. para tranvías [2006.01]"
+  },
+  {
+    "code": "B61L 5/10",
+    "description": "••Mecanismos de cierre de agujas; Medios para indicar la posición de las agujas [2006.01]"
+  },
+  {
+    "code": "B61L 5/12",
+    "description": "••Señales visibles [2006.01]"
+  },
+  {
+    "code": "B61L 5/14",
+    "description": "••••Señales de posición, p. ej. los brazos de semáforos [2006.01]"
+  },
+  {
+    "code": "B61L 5/16",
+    "description": "••••••Mecanismos locales de maniobra de señales de posición [2006.01]"
+  },
+  {
+    "code": "B61L 5/18",
+    "description": "••••Señales luminosas; Mecanismos asociados a éstos, p. ej. contraventas [2006.01]"
+  },
+  {
+    "code": "B61L 5/20",
+    "description": "••Señales sonoras, p. ej. petardos [2006.01]"
+  },
+  {
+    "code": "B61L 5/22",
+    "description": "••••Disposiciones para soltar los petardos según una cierta posición de la señal [2006.01]"
+  },
+  {
+    "code": "B61L 5/24",
+    "description": "••••Reemplazamiento de petardos [2006.01]"
+  },
+  {
+    "code": "B61L 7/00",
+    "description": "Mando a distancia de dispositivos locales de maniobra por agujas, señales o bloques de parada (B61L 11/00, B61L 13/00 tienen prioridad; disposiciones de enclavamientos conjugados B61L 19/00) [2006.01]"
+  },
+  {
+    "code": "B61L 7/02",
+    "description": "••utilizando una transmisión mecánica, p. ej. un cable metálico, una palanca [2006.01]"
+  },
+  {
+    "code": "B61L 7/04",
+    "description": "••utilizando una transmisión de presión de fluido [2006.01]"
+  },
+  {
+    "code": "B61L 7/06",
+    "description": "••utilizando una transmisión eléctrica [2006.01]"
+  },
+  {
+    "code": "B61L 7/08",
+    "description": "••••Circuitos eléctricos [2006.01]"
+  },
+  {
+    "code": "B61L 7/10",
+    "description": "••••••para señales luminosas, p. ej. para vigilancia, para señalización testigo [2006.01]"
+  },
+  {
+    "code": "B61L 9/00",
+    "description": "Iluminación adaptada especialmente para sistemas de agujas, señales de posición o barreras [2006.01]"
+  },
+  {
+    "code": "B61L 9/02",
+    "description": "••no eléctrica [2006.01]"
+  },
+  {
+    "code": "B61L 9/04",
+    "description": "••eléctrica [2006.01]"
+  },
+  {
+    "code": "B61L 11/00",
+    "description": "Maniobra de sistemas de agujas a partir del vehículo o por el paso del vehículo [2006.01]"
+  },
+  {
+    "code": "B61L 11/02",
+    "description": "••utilizando la acción mecánica recíproca entre vehículo y vía [2006.01]"
+  },
+  {
+    "code": "B61L 11/04",
+    "description": "••••Fiadores de sistemas de agujas talonables [2006.01]"
+  },
+  {
+    "code": "B61L 11/06",
+    "description": "••••con transmisión de presión de fluido [2006.01]"
+  },
+  {
+    "code": "B61L 11/08",
+    "description": "••utilizando la acción recíproca eléctrica o magnética entre vehículos y vía [2006.01]"
+  },
+  {
+    "code": "B61L 13/00",
+    "description": "Maniobra de señales a partir del vehículo o por paso del vehículo [2006.01]"
+  },
+  {
+    "code": "B61L 13/02",
+    "description": "••utilizando la acción recíproca mecánica entre vehículo y vía [2006.01]"
+  },
+  {
+    "code": "B61L 13/04",
+    "description": "••utilizando la acción recíproca eléctrica o magnética entre vehículo y vía [2006.01]"
+  },
+  {
+    "code": "B61L 15/00",
+    "description": "Indicadores de señalización sobre el vehículo o sobre el tren [2006.01]"
+  },
+  {
+    "code": "B61L 15/02",
+    "description": "••Indicadores de cabeza o de cola, p. ej. luz [2006.01]"
+  },
+  {
+    "code": "B61L 17/00",
+    "description": "Sistemas de agujas para estación ferroviaria de clasificación [2006.01]"
+  },
+  {
+    "code": "B61L 17/02",
+    "description": "••Detalles, p. ej. indicando el grado de congestión de la vía [2006.01]"
+  },
+  {
+    "code": "B61L 19/00",
+    "description": "Sistemas de enclavamientos conjugados agujas-señales, por un solo dispositivo de enclavamiento [2006.01]"
+  },
+  {
+    "code": "B61L 19/02",
+    "description": "••Dispositivos de enclavamiento conjugado de funcionamiento mecánico o por presión de fluido [2006.01]"
+  },
+  {
+    "code": "B61L 19/04",
+    "description": "••••Partes constitutivas, p. ej. palanca de mando, dispositivo de señalización testigo [2006.01]"
+  },
+  {
+    "code": "B61L 19/06",
+    "description": "••Dispositivos de enclavamiento conjugado de funcionamiento eléctrico [2006.01]"
+  },
+  {
+    "code": "B61L 19/08",
+    "description": "••••Instalaciones especiales propias de la alimentación de fuerza de los dispositivos de enclavamiento [2006.01]"
+  },
+  {
+    "code": "B61L 19/10",
+    "description": "••••con fiadores mecánicos [2006.01]"
+  },
+  {
+    "code": "B61L 19/12",
+    "description": "••••••Partes constitutivas [2006.01]"
+  },
+  {
+    "code": "B61L 19/14",
+    "description": "••••con fiadores eléctricos [2006.01]"
+  },
+  {
+    "code": "B61L 19/16",
+    "description": "••••••Partes constitutivas [2006.01]"
+  },
+  {
+    "code": "B61L 21/00",
+    "description": "Sistemas de blocado en estación entre dos cajas de señales [2006.01]"
+  },
+  {
+    "code": "B61L 21/02",
+    "description": "••Cierre o apertura de la vía por medios mecánicos; Repetidores de fiadores; Acoplado de semáforos [2006.01]"
+  },
+  {
+    "code": "B61L 21/04",
+    "description": "••Cierre o apertura de la vía por medios eléctricos; Repetidores y fiadores eléctricos [2006.01]"
+  },
+  {
+    "code": "B61L 21/06",
+    "description": "••Indicación de ocupación de la vía; Control del cierre y de la apertura de la vía [2006.01]"
+  },
+  {
+    "code": "B61L 21/08",
+    "description": "••Instalaciones relativas a la transmisión y recepción de órdenes para dar o prohibir el paso [2006.01]"
+  },
+  {
+    "code": "B61L 21/10",
+    "description": "••Instalaciones para trenes que se siguen uno cerca del otro [2006.01]"
+  },
+  {
+    "code": "B61L 23/00",
+    "description": "Dispositivos de control, de aviso u otros dispositivos de seguridad a lo largo de la vía o entre los vehículos o los trenes [2006.01]"
+  },
+  {
+    "code": "B61L 23/02",
+    "description": "••para indicar el fallo de los frenos [2006.01]"
+  },
+  {
+    "code": "B61L 23/04",
+    "description": "••para controlar el estado mecánico de la vía [2006.01]"
+  },
+  {
+    "code": "B61L 23/06",
+    "description": "••para advertir a los hombres que trabajan sobre la vía [2006.01]"
+  },
+  {
+    "code": "B61L 23/08",
+    "description": "••para controlar el tráfico en una dirección solamente [2006.01]"
+  },
+  {
+    "code": "B61L 23/10",
+    "description": "••••de mando automático [2006.01]"
+  },
+  {
+    "code": "B61L 23/12",
+    "description": "••••accionados en parte por el tren [2006.01]"
+  },
+  {
+    "code": "B61L 23/14",
+    "description": "••••de mando automático [2006.01]"
+  },
+  {
+    "code": "B61L 23/16",
+    "description": "••••••Circuitos eléctricos de vía férrea adaptados especialmente para el bloqueo de tramos de vía [2006.01]"
+  },
+  {
+    "code": "B61L 23/18",
+    "description": "••••••especialmente adaptados para mantener una distancia de seguridad entre los vehículos o los trenes en función de la velocidad o la densidad de tráfico [2006.01]"
+  },
+  {
+    "code": "B61L 23/20",
+    "description": "••••••con transmisión de instrucciones a las estaciones a lo largo de la vía [2006.01]"
+  },
+  {
+    "code": "B61L 23/22",
+    "description": "••para controlar el tráfico en las dos direcciones sobre el mismo par de raíles [2006.01]"
+  },
+  {
+    "code": "B61L 23/24",
+    "description": "••••por utilización de un dispositivo de blocaje desmontable de la vía, quitado y colocado por el mecánico, p. ej. bastón piloto de ferrocarriles británicos [2006.01]"
+  },
+  {
+    "code": "B61L 23/26",
+    "description": "••••con medios para accionar las señales del vehículo o por el paso del vehículo [2006.01]"
+  },
+  {
+    "code": "B61L 23/28",
+    "description": "••••por utilización de una orden de parada no automática de un punto situado a lo largo de la vía [2006.01]"
+  },
+  {
+    "code": "B61L 23/30",
+    "description": "••••por utilización de una prohibición automática de una sección de la vía [2006.01]"
+  },
+  {
+    "code": "B61L 23/32",
+    "description": "••••••con posibilidad de prohibición de paso sobre una vía de apartadero [2006.01]"
+  },
+  {
+    "code": "B61L 23/34",
+    "description": "••para indicar la distancia entre los vehículos o los trenes para la transmisión de señales entre ellos [2006.01]"
+  },
+  {
+    "code": "B61L 25/00",
+    "description": "Registro o indicación de la posición o de la identidad de vehículos o de trenes o de la posición de aparatos de la vía [2006.01]"
+  },
+  {
+    "code": "B61L 25/02",
+    "description": "••Indicación o registro de la posición o de la identidad de vehículos o de trenes [2006.01]"
+  },
+  {
+    "code": "B61L 25/04",
+    "description": "••••Indicación o registro de la identidad de trenes [2006.01]"
+  },
+  {
+    "code": "B61L 25/06",
+    "description": "••Indicación o registro de la posición de aparatos de la vía, p. ej. de sistemas de agujas, de señales [2006.01]"
+  },
+  {
+    "code": "B61L 25/08",
+    "description": "••••Tableros-gráficos [2006.01]"
+  },
+  {
+    "code": "B61L 27/00",
+    "description": "Sistemas centrales de control del tráfico ferroviario; Control en tierra; Sistemas de comunicación especialmente adaptados a tal efecto [2022.01]"
+  },
+  {
+    "code": "B61L 27/02",
+    "description": "••Sistemas manuales [2006.01]"
+  },
+  {
+    "code": "B61L 27/04",
+    "description": "••Sistemas automáticos, p. ej. controlados por el tren; Cambio al control manual [2006.01]"
+  },
+  {
+    "code": "B61L 27/10",
+    "description": "••Operaciones, p. ej. programación u horarios [2022.01]"
+  },
+  {
+    "code": "B61L 27/12",
+    "description": "••••Preparación de horarios [2022.01]"
+  },
+  {
+    "code": "B61L 27/14",
+    "description": "••••Seguimiento de calendarios [2022.01]"
+  },
+  {
+    "code": "B61L 27/16",
+    "description": "••••Optimización en tierra del funcionamiento de los vehículos o trenes de vehículos [2022.01]"
+  },
+  {
+    "code": "B61L 27/18",
+    "description": "••••Listas de personal; Itinerarios [2022.01]"
+  },
+  {
+    "code": "B61L 27/20",
+    "description": "••Control en tierra de la circulación segura del vehículo o del tren de vehículos, p. ej.  cálculo de la curva de frenado [2022.01]"
+  },
+  {
+    "code": "B61L 27/30",
+    "description": "••Sistemas de control múltiple en tierra, p. ej. conmutación entre diferentes sistemas [2022.01]"
+  },
+  {
+    "code": "B61L 27/33",
+    "description": "••••Sistemas de reserva, p. ej. conmutación en caso de avería [2022.01]"
+  },
+  {
+    "code": "B61L 27/37",
+    "description": "••••Migración, p. ej.  instalaciones paralelas que funcionan simultáneamente [2022.01]"
+  },
+  {
+    "code": "B61L 27/40",
+    "description": "••Manejo de informes de posición o datos de vehículos en tierra [2022.01]"
+  },
+  {
+    "code": "B61L 27/50",
+    "description": "••Diagnóstico o mantenimiento en tierra, p. ej. actualizaciones de software [2022.01]"
+  },
+  {
+    "code": "B61L 27/53",
+    "description": "••••para elementos o sistemas en tierra, p. ej. supervisión en tierra de las condiciones del sistema de control en tierra [2022.01]"
+  },
+  {
+    "code": "B61L 27/57",
+    "description": "••••para vehículos o trenes de vehículos, p. ej. supervisión en tierra de las condiciones del tren [2022.01]"
+  },
+  {
+    "code": "B61L 27/60",
+    "description": "••Pruebas o simulación [2022.01]"
+  },
+  {
+    "code": "B61L 27/70",
+    "description": "••Detalles de la comunicación en tierra [2022.01]"
+  },
+  {
+    "code": "B61L 29/00",
+    "description": "Dispositivos de seguridad o de señalización para el crecimiento del tráfico raíl-carretera [2006.01]"
+  },
+  {
+    "code": "B61L 29/02",
+    "description": "••Barreras u obstáculos para prohibir el acceso a la vía (barreras de ganado unidas a la vía E01B 17/00) [2006.01]"
+  },
+  {
+    "code": "B61L 29/04",
+    "description": "••Barreras de pasos a nivel [2006.01]"
+  },
+  {
+    "code": "B61L 29/06",
+    "description": "••••cediendo el paso a los vehículos en un sentido pero accionados en un sentido diferente [2006.01]"
+  },
+  {
+    "code": "B61L 29/08",
+    "description": "••Maniobra de barreras; Maniobra combinada de barreras y de señales [2006.01]"
+  },
+  {
+    "code": "B61L 29/10",
+    "description": "••••Dispositivos para cerrar las barreras en la posición deseada [2006.01]"
+  },
+  {
+    "code": "B61L 29/12",
+    "description": "••••Maniobra manual [2006.01]"
+  },
+  {
+    "code": "B61L 29/14",
+    "description": "••••••por medios mecánicos [2006.01]"
+  },
+  {
+    "code": "B61L 29/16",
+    "description": "••••••por medios eléctricos [2006.01]"
+  },
+  {
+    "code": "B61L 29/18",
+    "description": "••••Maniobra por el acercamiento de vehículo ferroviario o de tren [2006.01]"
+  },
+  {
+    "code": "B61L 29/20",
+    "description": "••••••por medios mecánicos [2006.01]"
+  },
+  {
+    "code": "B61L 29/22",
+    "description": "••••••por medios eléctricos [2006.01]"
+  },
+  {
+    "code": "B61L 29/24",
+    "description": "••Dispositivos para advertir al tráfico de carretera que la barrera está cerrada o se va a cerrar o que se aproxima el tren, p. ej. por avisadores visibles o sonoros [2006.01]"
+  },
+  {
+    "code": "B61L 29/26",
+    "description": "••••por medios mecánicos [2006.01]"
+  },
+  {
+    "code": "B61L 29/28",
+    "description": "••••por medios eléctricos [2006.01]"
+  },
+  {
+    "code": "B61L 29/30",
+    "description": "••••••Vigilancia, p. ej. instalaciones de control [2006.01]"
+  },
+  {
+    "code": "B61L 29/32",
+    "description": "••••••Cronometraje, p. ej. señal precursora del acercamiento de un tren [2006.01]"
+  },
+  {
+    "code": "B61L 99/00",
+    "description": "Materia no prevista en otros grupos de esta subclase [2006.01]"
+  }
+]

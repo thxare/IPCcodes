@@ -1,0 +1,618 @@
+[
+  {
+    "code": "G09B 1/00",
+    "description": "Materiales con fin educativo de control manual o mecánico que utilizan elementos que forman o que llevan símbolos, signos, imágenes o similares, que están dispuestos o adaptados para ser colocados según uno o varios esquemas particulares [2006.01]"
+  },
+  {
+    "code": "G09B 1/02",
+    "description": "••y provistos de un soporte que recibe o destinado a recibir los elementos [2006.01]"
+  },
+  {
+    "code": "G09B 1/04",
+    "description": "••••cada uno de los elementos lleva un símbolo único o una combinación única de símbolos [2006.01]"
+  },
+  {
+    "code": "G09B 1/06",
+    "description": "••••••y que pueden ser fijados o montados sobre el soporte [2006.01]"
+  },
+  {
+    "code": "G09B 1/08",
+    "description": "••••••••con la ayuda de imanes [2006.01]"
+  },
+  {
+    "code": "G09B 1/10",
+    "description": "••••••••con ayuda de agujas y de agujeros [2006.01]"
+  },
+  {
+    "code": "G09B 1/12",
+    "description": "••••••••con la ayuda de piezas de fijación anulares [2006.01]"
+  },
+  {
+    "code": "G09B 1/14",
+    "description": "••••••••estando montados los elementos sobre el soporte de forma que puedan deslizar [2006.01]"
+  },
+  {
+    "code": "G09B 1/16",
+    "description": "••••cada uno de los elementos lleva varios símbolos o signos diferentes, o combinaciones de símbolos y signos, debiendo utilizarse a la vez un solo símbolo, signo o combinación de éstos de cada elemento [2006.01]"
+  },
+  {
+    "code": "G09B 1/18",
+    "description": "••••••siendo los elementos susceptibles de rotación [2006.01]"
+  },
+  {
+    "code": "G09B 1/20",
+    "description": "••••••••y que llevan los símbolos sobre una superficie paralela al eje de rotación [2006.01]"
+  },
+  {
+    "code": "G09B 1/22",
+    "description": "••••••••y que llevan los símbolos sobre una superficie perpendicular al eje de rotación [2006.01]"
+  },
+  {
+    "code": "G09B 1/24",
+    "description": "••••••teniendo los elementos la forma de una banda flexible, p. ej. bandas sin fin [2006.01]"
+  },
+  {
+    "code": "G09B 1/26",
+    "description": "••••••siendo los elementos dispuestos en abanico [2006.01]"
+  },
+  {
+    "code": "G09B 1/28",
+    "description": "••••••pudiendo los elementos deslizar uno con relación al otro [2006.01]"
+  },
+  {
+    "code": "G09B 1/30",
+    "description": "••••en los que los elementos están adaptados para ser dispuestos en unión con el soporte para formar los símbolos [2006.01]"
+  },
+  {
+    "code": "G09B 1/32",
+    "description": "••que comprenden elementos destinados a ser utilizados sin soporte especial [2006.01]"
+  },
+  {
+    "code": "G09B 1/34",
+    "description": "••••debiendo ser colocados los elementos los unos en relación con los otros en posición adyacente libre [2006.01]"
+  },
+  {
+    "code": "G09B 1/36",
+    "description": "••••pudiendo ser los elementos ensamblados los unos a los otros por partes salientes que se embuten en los huecos correspondientes [2006.01]"
+  },
+  {
+    "code": "G09B 1/38",
+    "description": "••••pudiendo los elementos ser conectados magnéticamente [2006.01]"
+  },
+  {
+    "code": "G09B 1/40",
+    "description": "••••para formar símbolos o signos gracias a una disposición apropiada [2006.01]"
+  },
+  {
+    "code": "G09B 3/00",
+    "description": "Materiales de enseñanza de control manual o mecánico que funcionan por preguntas y respuestas [2006.01]"
+  },
+  {
+    "code": "G09B 3/02",
+    "description": "••del tipo en que el alumno debe dar una respuesta a la pregunta hecha o en que la máquina da una respuesta a la pregunta hecha por un alumno [2006.01]"
+  },
+  {
+    "code": "G09B 3/04",
+    "description": "••••con forma de tabla [2006.01]"
+  },
+  {
+    "code": "G09B 3/06",
+    "description": "••del tipo de elección entre respuestas múltiples, es decir en que para una pregunta dada se facilita una serie de respuestas y en que debe hacerse una elección [2006.01]"
+  },
+  {
+    "code": "G09B 3/08",
+    "description": "••••bajo forma de tabla [2006.01]"
+  },
+  {
+    "code": "G09B 3/10",
+    "description": "••••en que sólo un grupo de respuestas es común a varias preguntas [2006.01]"
+  },
+  {
+    "code": "G09B 3/12",
+    "description": "••••••bajo forma de tabla [2006.01]"
+  },
+  {
+    "code": "G09B 5/00",
+    "description": "Material con fin educativo de control eléctrico [2006.01]"
+  },
+  {
+    "code": "G09B 5/02",
+    "description": "••con presentación visual del material a estudiar, p. ej. utilizando una banda filmada [2006.01]"
+  },
+  {
+    "code": "G09B 5/04",
+    "description": "••con presentación sonora del objeto a estudiar [2006.01]"
+  },
+  {
+    "code": "G09B 5/06",
+    "description": "••con presentación a la vez visual y sonora del objeto a estudiar [2006.01]"
+  },
+  {
+    "code": "G09B 5/08",
+    "description": "••con presentación individual de una información a una pluralidad de estaciones de alumnos [2006.01]"
+  },
+  {
+    "code": "G09B 5/10",
+    "description": "••••siendo capaces de presentar la misma información simultáneamente en todas las estaciones (G09B 5/14 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G09B 5/12",
+    "description": "••••siendo capaces de presentar diferentes informaciones en diferentes estaciones simultáneamente (G09B 5/14 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G09B 5/14",
+    "description": "••••permitiendo una comunicación individual entre profesor y alumno [2006.01]"
+  },
+  {
+    "code": "G09B 7/00",
+    "description": "Dispositivos o aparatos de enseñanza de control eléctrico que proceden por preguntas y respuestas [2006.01]"
+  },
+  {
+    "code": "G09B 7/02",
+    "description": "••del tipo en que el alumno debe dar una respuesta a la pregunta hecha o en que la máquina da una respuesta a la pregunta hecha por el alumno [2006.01]"
+  },
+  {
+    "code": "G09B 7/04",
+    "description": "••••caracterizados por una modificación del programa de enseñanza a continuación de una respuesta errónea, p. ej. repitiendo la pregunta, dando explicaciones suplementarias [2006.01]"
+  },
+  {
+    "code": "G09B 7/06",
+    "description": "••del tipo de elección entre respuestas múltiples, es decir, en que para una pregunta dada se facilita una serie de respuestas entre las que debe elegirse una [2006.01]"
+  },
+  {
+    "code": "G09B 7/07",
+    "description": "••••con presentación individual de preguntas a una pluralidad de estaciones de alumnos [2006.01]"
+  },
+  {
+    "code": "G09B 7/073",
+    "description": "••••••siendo capaces de presentar las mismas preguntas simultáneamente en todas las estaciones [2006.01]"
+  },
+  {
+    "code": "G09B 7/077",
+    "description": "••••••siendo capaces de presentar cuestiones diferentes simultáneamente en diferentes estaciones [2006.01]"
+  },
+  {
+    "code": "G09B 7/08",
+    "description": "••••caracterizados por una modificación del programa de enseñanza a continuación de una contestación errónea, p. ej. repitiendo la pregunta, facilitando informaciones suplementarias [2006.01]"
+  },
+  {
+    "code": "G09B 7/10",
+    "description": "••••en las que un grupo de respuestas es común a varias preguntas [2006.01]"
+  },
+  {
+    "code": "G09B 7/12",
+    "description": "••••••caracterizados por una modificación del programa de enseñanza a continuación de una contestación errónea, p. ej. repitiendo la pregunta facilitando informaciones suplementarias [2006.01]"
+  },
+  {
+    "code": "G09B 9/00",
+    "description": "Simuladores para la enseñanza o el entrenamiento [2006.01]"
+  },
+  {
+    "code": "G09B 9/02",
+    "description": "••para la enseñanza de la conducción de vehículos u otros medios de transporte [2006.01]"
+  },
+  {
+    "code": "G09B 9/04",
+    "description": "••••para la enseñanza de la conducción de vehículos terrestres [2006.01]"
+  },
+  {
+    "code": "G09B 9/042",
+    "description": "••••••con una simulación en un vehículo real (G09B 9/052, G09B 9/058 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G09B 9/048",
+    "description": "••••••siendo observado y maniobrado a distancia un modelo (G09B 9/052, G09B 9/058 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G09B 9/05",
+    "description": "••••••simulándose la visión desde dentro de un vehículo (G09B 9/052, G09B 9/058 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G09B 9/052",
+    "description": "••••••caracterizados por medios para medir o registrar el rendimiento del alumno [2006.01]"
+  },
+  {
+    "code": "G09B 9/058",
+    "description": "••••••para la enseñanza de la conducción de ciclos o de motocicletas [2006.01]"
+  },
+  {
+    "code": "G09B 9/06",
+    "description": "••••para la enseñanza de la maniobra de buques u otras embarcaciones [2006.01]"
+  },
+  {
+    "code": "G09B 9/08",
+    "description": "••••para la enseñanza del pilotaje de aeronaves, p. ej. bancos de entrenamiento de pilotaje sin visibilidad [2006.01]"
+  },
+  {
+    "code": "G09B 9/10",
+    "description": "••••••con medios de simulación de las fuerzas generadas por el vuelo o por los motores sobre el ocupante de la aeronave (G09B 9/28 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G09B 9/12",
+    "description": "••••••Sistemas de desplazamiento para simuladores de aeronave [2006.01]"
+  },
+  {
+    "code": "G09B 9/14",
+    "description": "••••••••controlados por accionamiento de pistón o por cilindros accionados por un fluido [2006.01]"
+  },
+  {
+    "code": "G09B 9/16",
+    "description": "••••••Simulación o indicación por un instrumento o una alarma de las condiciones ambientales o de los parámetros de la aeronave [2006.01]"
+  },
+  {
+    "code": "G09B 9/18",
+    "description": "••••••••de los parámetros del motor o de la alimentación de carburante [2006.01]"
+  },
+  {
+    "code": "G09B 9/20",
+    "description": "••••••••Simulación o indicación de la actitud de la aeronave [2006.01]"
+  },
+  {
+    "code": "G09B 9/22",
+    "description": "••••••que comprende una simulación del ruido de la aeronave [2006.01]"
+  },
+  {
+    "code": "G09B 9/24",
+    "description": "••••••que comprende la presentación o el registro de la trayectoria de vuelo simulado [2006.01]"
+  },
+  {
+    "code": "G09B 9/26",
+    "description": "••••••Simulación de radionavegación [2006.01]"
+  },
+  {
+    "code": "G09B 9/28",
+    "description": "••••••Simulación de fuerzas que actúan sobre el mando, del tipo palanca de mando, \"stick\" o similares [2006.01]"
+  },
+  {
+    "code": "G09B 9/30",
+    "description": "••••••Simulación de la visión desde la aeronave [2006.01]"
+  },
+  {
+    "code": "G09B 9/32",
+    "description": "••••••••con ayuda de una imagen proyectada (G09B 9/36 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G09B 9/34",
+    "description": "••••••••con ayuda de una pantalla de visualización de rayos catódicos (G09B 9/36 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G09B 9/36",
+    "description": "••••••••Simulación de vuelo nocturno o con visibilidad reducida [2006.01]"
+  },
+  {
+    "code": "G09B 9/38",
+    "description": "••••••••••Simulación de los límites de la pista o de las balizas de aproximación [2006.01]"
+  },
+  {
+    "code": "G09B 9/40",
+    "description": "••••••Simulación de radar aerotransportado [2006.01]"
+  },
+  {
+    "code": "G09B 9/42",
+    "description": "••••••Aeronaves, simuladores de aeronaves o medios que les son conectados, desplazándose sobre el suelo o sobre el agua durante el entrenamiento de vuelo simulado [2006.01]"
+  },
+  {
+    "code": "G09B 9/44",
+    "description": "••••••que permiten la simulación de una aeronave real que vuela a través de la atmósfera sin limitación de su trayectoria [2006.01]"
+  },
+  {
+    "code": "G09B 9/46",
+    "description": "••••••siendo la aeronave un helicóptero [2006.01]"
+  },
+  {
+    "code": "G09B 9/48",
+    "description": "••••••siendo observado y maniobrado a distancia un modelo [2006.01]"
+  },
+  {
+    "code": "G09B 9/50",
+    "description": "••••••Control automático de la ruta de la aeronave [2006.01]"
+  },
+  {
+    "code": "G09B 9/52",
+    "description": "••••para enseñar el pilotaje de un vehículo espacial [2006.01]"
+  },
+  {
+    "code": "G09B 9/54",
+    "description": "••Simulación de radar (G09B 9/40 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G09B 9/56",
+    "description": "••Simulación de sonar [2006.01]"
+  },
+  {
+    "code": "G09B 11/00",
+    "description": "Enseñanza de la escritura, de la estenografía, del dibujo o de la pintura [2006.01]"
+  },
+  {
+    "code": "G09B 11/02",
+    "description": "••Dispositivos de sujeción de dedos, de la mano o del brazo [2006.01]"
+  },
+  {
+    "code": "G09B 11/04",
+    "description": "••Hojas-guías o placas-guía; Modelos de calcar [2006.01]"
+  },
+  {
+    "code": "G09B 11/06",
+    "description": "••Dispositivos que comprenden la utilización de materiales de calcar transparentes o translúcidos, p. ej. cuadernos de escritura [2006.01]"
+  },
+  {
+    "code": "G09B 11/08",
+    "description": "••Enseñanza de la estenografía [2006.01]"
+  },
+  {
+    "code": "G09B 11/10",
+    "description": "••Enseñanza de la pintura [2006.01]"
+  },
+  {
+    "code": "G09B 13/00",
+    "description": "Enseñanza de la dactilografía [2006.01]"
+  },
+  {
+    "code": "G09B 13/02",
+    "description": "••Aparatos de falso teclado de ejercicio [2006.01]"
+  },
+  {
+    "code": "G09B 13/04",
+    "description": "••Dispositivos empleados en asociación con una máquina de escribir o un teletipo reales, o aparatos similares [2006.01]"
+  },
+  {
+    "code": "G09B 15/00",
+    "description": "Enseñanza de la música [2006.01]"
+  },
+  {
+    "code": "G09B 15/02",
+    "description": "••Teclados o medios similares para la indicación de [2006.01]"
+  },
+  {
+    "code": "G09B 15/04",
+    "description": "••••con fuentes sonoras [2006.01]"
+  },
+  {
+    "code": "G09B 15/06",
+    "description": "••Dispositivos para ejercer o fortificar los dedos o los brazos; Dispositivos para el mantenimiento de los dedos y los brazos en la posición apropiada para tocar [2006.01]"
+  },
+  {
+    "code": "G09B 15/08",
+    "description": "••Teclados de ejercicios [2006.01]"
+  },
+  {
+    "code": "G09B 17/00",
+    "description": "Enseñanza de la lectura [2006.01]"
+  },
+  {
+    "code": "G09B 17/02",
+    "description": "••Indicadores de líneas u otras guías o máscaras [2006.01]"
+  },
+  {
+    "code": "G09B 17/04",
+    "description": "••para el aumento de la velocidad de lectura; Control de la velocidad de lectura [2006.01]"
+  },
+  {
+    "code": "G09B 19/00",
+    "description": "Enseñanza no cubierta por otros grupos principales de la presente subclase (aparatos de instrucción o de entrenamiento para apuntar armas F41G 3/26) [2006.01]"
+  },
+  {
+    "code": "G09B 19/02",
+    "description": "••Cálculo; Aritmética [2006.01]"
+  },
+  {
+    "code": "G09B 19/04",
+    "description": "••Elocución (con presentación sonora del objeto a estudiar G09B 5/04) [2006.01]"
+  },
+  {
+    "code": "G09B 19/06",
+    "description": "••Lenguas extranjeras (con presentación sonora del objeto a estudiar G09B 5/04) [2006.01]"
+  },
+  {
+    "code": "G09B 19/08",
+    "description": "••••Impresos o manuscritos, p. ej. de textos, ensamblados bilingües de cartas, mapas [2006.01]"
+  },
+  {
+    "code": "G09B 19/10",
+    "description": "••Modelado [2006.01]"
+  },
+  {
+    "code": "G09B 19/12",
+    "description": "••Lectura de la hora [2006.01]"
+  },
+  {
+    "code": "G09B 19/14",
+    "description": "••Circulación vial, p. ej. código de la circulación [2006.01]"
+  },
+  {
+    "code": "G09B 19/16",
+    "description": "••Conducción de vehículos u otros medios de transporte [2006.01]"
+  },
+  {
+    "code": "G09B 19/18",
+    "description": "••Contabilidad o economía [2006.01]"
+  },
+  {
+    "code": "G09B 19/20",
+    "description": "••Costura [2006.01]"
+  },
+  {
+    "code": "G09B 19/22",
+    "description": "••Juegos, p. ej. juegos de cartas [2006.01]"
+  },
+  {
+    "code": "G09B 19/24",
+    "description": "••Empleo de herramientas [2006.01]"
+  },
+  {
+    "code": "G09B 19/26",
+    "description": "••Códigos telegráficos puntos-trazos [2006.01]"
+  },
+  {
+    "code": "G09B 21/00",
+    "description": "Medios de enseñanza o de comunicación destinados a los ciegos, sordos o mudos (presentación sonora del objeto a estudiar G09B 5/04) [2006.01]"
+  },
+  {
+    "code": "G09B 21/02",
+    "description": "••Dispositivos para la escritura Braille [2006.01]"
+  },
+  {
+    "code": "G09B 21/04",
+    "description": "••Dispositivos para la conversación con los sordos-ciegos [2006.01]"
+  },
+  {
+    "code": "G09B 21/06",
+    "description": "••Dispositivos para la enseñanza de la lectura sobre los labios [2006.01]"
+  },
+  {
+    "code": "G09B 23/00",
+    "description": "Modelos para usos científicos, médicos o matemáticos, p. ej. dispositivos a escala real para la demostración (bajo forma de juguetes A63H) [2006.01]"
+  },
+  {
+    "code": "G09B 23/02",
+    "description": "••para las matemáticas [2006.01]"
+  },
+  {
+    "code": "G09B 23/04",
+    "description": "••••para la geometría, la trigonometría, la proyección o la perspectiva (para la topografía G09B 25/06) [2006.01]"
+  },
+  {
+    "code": "G09B 23/06",
+    "description": "••para la física [2006.01]"
+  },
+  {
+    "code": "G09B 23/08",
+    "description": "••••para la estática o la dinámica [2006.01]"
+  },
+  {
+    "code": "G09B 23/10",
+    "description": "••••••de cuerpos sólidos [2006.01]"
+  },
+  {
+    "code": "G09B 23/12",
+    "description": "••••••de líquidos o de gases [2006.01]"
+  },
+  {
+    "code": "G09B 23/14",
+    "description": "••••para la acústica [2006.01]"
+  },
+  {
+    "code": "G09B 23/16",
+    "description": "••••para el estudio de fenómenos caloríficos [2006.01]"
+  },
+  {
+    "code": "G09B 23/18",
+    "description": "••••para la electricidad o el magnetismo [2006.01]"
+  },
+  {
+    "code": "G09B 23/20",
+    "description": "••••para la física atómica o nuclear [2006.01]"
+  },
+  {
+    "code": "G09B 23/22",
+    "description": "••••para la óptica [2006.01]"
+  },
+  {
+    "code": "G09B 23/24",
+    "description": "••para la química [2006.01]"
+  },
+  {
+    "code": "G09B 23/26",
+    "description": "••para el estudio de estructuras moleculares; para la cristalografía [2006.01]"
+  },
+  {
+    "code": "G09B 23/28",
+    "description": "••para la medicina [2006.01]"
+  },
+  {
+    "code": "G09B 23/30",
+    "description": "••••Modelos anatómicos (articuladores dentales A61C 11/00) [2006.01]"
+  },
+  {
+    "code": "G09B 23/32",
+    "description": "••••••con partes móviles [2006.01]"
+  },
+  {
+    "code": "G09B 23/34",
+    "description": "••••••con partes desmontables [2006.01]"
+  },
+  {
+    "code": "G09B 23/36",
+    "description": "••para la zoología [2006.01]"
+  },
+  {
+    "code": "G09B 23/38",
+    "description": "••para la botánica [2006.01]"
+  },
+  {
+    "code": "G09B 23/40",
+    "description": "••para la geología [2006.01]"
+  },
+  {
+    "code": "G09B 25/00",
+    "description": "Modelos para usos no previstos en G09B 23/00, p. ej. dispositivos a escala real para demostración (modelos de vehículos, pistas o raíles para éstos, modelos bajo forma de juguetes A63H) [2006.01]"
+  },
+  {
+    "code": "G09B 25/02",
+    "description": "••de procesos industriales; de máquinas [2006.01]"
+  },
+  {
+    "code": "G09B 25/04",
+    "description": "••de construcciones [2006.01]"
+  },
+  {
+    "code": "G09B 25/06",
+    "description": "••para la topografía; para la geografía, p. ej. modelos en relieve (globos G09B 27/00; mapas G09B 29/00) [2006.01]"
+  },
+  {
+    "code": "G09B 25/08",
+    "description": "••para decorado escénico, p. ej. árboles, rocas, superficies de agua (para preparación de escenarios de teatro A63J 1/00) [2006.01]"
+  },
+  {
+    "code": "G09B 27/00",
+    "description": "Planetarios; Globos [2006.01]"
+  },
+  {
+    "code": "G09B 27/02",
+    "description": "••Telurios; Planetarios [2006.01]"
+  },
+  {
+    "code": "G09B 27/04",
+    "description": "••Mapas celestes [2006.01]"
+  },
+  {
+    "code": "G09B 27/06",
+    "description": "••Globos celestes [2006.01]"
+  },
+  {
+    "code": "G09B 27/08",
+    "description": "••Globos (globos celestes G09B 27/06) [2006.01]"
+  },
+  {
+    "code": "G09B 29/00",
+    "description": "Mapas (mapas celestes G09B 27/04); Planos; Gráficos; Trayectorias, p. ej. trazado de carreteras [2006.01]"
+  },
+  {
+    "code": "G09B 29/02",
+    "description": "••divididos en secciones [2006.01]"
+  },
+  {
+    "code": "G09B 29/04",
+    "description": "••••estando las secciones dispuestas bajo la forma de una o más hojas plegables [2006.01]"
+  },
+  {
+    "code": "G09B 29/06",
+    "description": "••en forma de banda, p. ej. banda sin fin [2006.01]"
+  },
+  {
+    "code": "G09B 29/08",
+    "description": "••Mapas suspendidos o similares [2006.01]"
+  },
+  {
+    "code": "G09B 29/10",
+    "description": "••Spots para la lectura de mapas e indicaciones de posición por coordenadas; Ayudas para la lectura de mapas [2006.01]"
+  },
+  {
+    "code": "G09B 29/12",
+    "description": "••Mapas en relieve [2006.01]"
+  },
+  {
+    "code": "G09B 29/14",
+    "description": "••Tablas que indican la hora local [2006.01]"
+  }
+]

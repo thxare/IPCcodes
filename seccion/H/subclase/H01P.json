@@ -1,0 +1,362 @@
+[
+  {
+    "code": "H01P 1/00",
+    "description": "Dispositivos auxiliares (dispositivos de acoplamiento del tipo guía de ondas H01P 5/00) [2006.01]"
+  },
+  {
+    "code": "H01P 1/02",
+    "description": "••Codos; Esquinas; Torceduras [2006.01]"
+  },
+  {
+    "code": "H01P 1/04",
+    "description": "••Juntas fijas [2006.01]"
+  },
+  {
+    "code": "H01P 1/06",
+    "description": "••Juntas móviles, p. ej. juntas rotativas [2006.01]"
+  },
+  {
+    "code": "H01P 1/08",
+    "description": "••Ventanas dieléctricas [2006.01]"
+  },
+  {
+    "code": "H01P 1/10",
+    "description": "••Dispositivos conmutadores o interruptores [2006.01]"
+  },
+  {
+    "code": "H01P 1/11",
+    "description": "••••que utilizan dispositivos ferromagnéticos [2006.01]"
+  },
+  {
+    "code": "H01P 1/12",
+    "description": "••••utilizando un vibrador mecánico [2006.01]"
+  },
+  {
+    "code": "H01P 1/14",
+    "description": "••••utilizando un dispositivo de descarga eléctrica (dispositivos de descarga H01J 17/64) [2006.01]"
+  },
+  {
+    "code": "H01P 1/15",
+    "description": "••••utilizando dispositivos semiconductores [2006.01]"
+  },
+  {
+    "code": "H01P 1/16",
+    "description": "••Selectores de modo, p. ej. para impedir o favorecer la propagación según un modo dado; Convertidores de modo [2006.01]"
+  },
+  {
+    "code": "H01P 1/161",
+    "description": "••••que funcionan según dos modos ortogonales independientes, p. ej. transductores ortomodos [2006.01]"
+  },
+  {
+    "code": "H01P 1/162",
+    "description": "••••que absorben modos de propagación parásitos o indeseables [2006.01]"
+  },
+  {
+    "code": "H01P 1/163",
+    "description": "••••especialmente adaptados para seleccionar o favorecer el modo circular TE01 [2006.01]"
+  },
+  {
+    "code": "H01P 1/165",
+    "description": "••para hacer girar el plano de polarización [2006.01]"
+  },
+  {
+    "code": "H01P 1/17",
+    "description": "••••para producir una rotación continua del plano de polarización, p. ej. una polarización circular [2006.01]"
+  },
+  {
+    "code": "H01P 1/175",
+    "description": "••••que utilizan dispositivos de rotación de Faraday [2006.01]"
+  },
+  {
+    "code": "H01P 1/18",
+    "description": "••Desfasadores (H01P 1/165 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01P 1/185",
+    "description": "••••que utilizan un diodo o un tubo de descarga lleno de gas [2006.01]"
+  },
+  {
+    "code": "H01P 1/19",
+    "description": "••••que utilizan un dispositivo ferromagnético [2006.01]"
+  },
+  {
+    "code": "H01P 1/195",
+    "description": "••••••que tiene forma tórica [2006.01]"
+  },
+  {
+    "code": "H01P 1/20",
+    "description": "••Selectores de frecuencia, p. ej. filtros [2006.01]"
+  },
+  {
+    "code": "H01P 1/201",
+    "description": "••••Filtros de ondas electromagnéticas transversales (H01P 1/212, H01P 1/213, H01P 1/215, H01P 1/219 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H01P 1/202",
+    "description": "••••••Filtros coaxiales (cavidades coaxiales en cascada H01P 1/205) [2006.01]"
+  },
+  {
+    "code": "H01P 1/203",
+    "description": "••••••Filtros del tipo línea de bandas [2006.01]"
+  },
+  {
+    "code": "H01P 1/205",
+    "description": "••••••Filtros en forma de peine o interdigitales; Cavidades coaxiales en cascada (H01P 1/203 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01P 1/207",
+    "description": "••••Filtros en forma de guías de ondas huecas (H01P 1/212, H01P 1/213, H01P 1/215, H01P 1/219 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H01P 1/208",
+    "description": "••••••Cavidades en cascada; Resonadores en cascada situados dentro de una estructura en forma de guía de ondas hueca (H01P 1/205 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01P 1/209",
+    "description": "••••••con uno o varios brazos de derivación o bien cavidades situadas enteramente en el exterior de la guía de ondas principal [2006.01]"
+  },
+  {
+    "code": "H01P 1/211",
+    "description": "••••••Filtros del tipo colmena; Estructuras dentadas [2006.01]"
+  },
+  {
+    "code": "H01P 1/212",
+    "description": "••••que suprimen o atenúan las frecuencias armónicas (H01P 1/215 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01P 1/213",
+    "description": "••••que combinan o separan varias frecuencias diferentes (H01P 1/215 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01P 1/215",
+    "description": "••••que utilizan un material ferromagnético [2006.01]"
+  },
+  {
+    "code": "H01P 1/217",
+    "description": "••••••el material ferromagnético actúa como elemento de sintonización en los resonadores [2006.01]"
+  },
+  {
+    "code": "H01P 1/218",
+    "description": "••••••el material ferromagnético actúa como elemento de acoplamiento selectivo de frecuencia, p. ej. filtros YIG [2006.01]"
+  },
+  {
+    "code": "H01P 1/219",
+    "description": "••••Filtros de modo evanescente [2006.01]"
+  },
+  {
+    "code": "H01P 1/22",
+    "description": "••Atenuadores (cargas dispersivas en el extremo de la línea H01P 1/26) [2006.01]"
+  },
+  {
+    "code": "H01P 1/23",
+    "description": "••••que utilizan un material ferromagnético [2006.01]"
+  },
+  {
+    "code": "H01P 1/24",
+    "description": "••Cargas derivadas en la extremidad de las líneas de transmisión [2006.01]"
+  },
+  {
+    "code": "H01P 1/26",
+    "description": "••••Cargas dispersivas en la extremidad de las líneas de transmisión [2006.01]"
+  },
+  {
+    "code": "H01P 1/28",
+    "description": "••••Pistones de cortocircuito [2006.01]"
+  },
+  {
+    "code": "H01P 1/30",
+    "description": "••Dispositivos para compensar los efectos de la temperatura o humedad o de protección contra dichos efectos [2006.01]"
+  },
+  {
+    "code": "H01P 1/32",
+    "description": "••Dispositivos de transmisión no recíproca (H01P 1/02-H01P 1/30 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H01P 1/36",
+    "description": "••••Aisladores [2006.01]"
+  },
+  {
+    "code": "H01P 1/365",
+    "description": "••••••Aisladores de absorción por resonancia [2006.01]"
+  },
+  {
+    "code": "H01P 1/37",
+    "description": "••••••Aisladores de desplazamiento de campo [2006.01]"
+  },
+  {
+    "code": "H01P 1/375",
+    "description": "••••••que utilizan dispositivos de rotación de Faraday [2006.01]"
+  },
+  {
+    "code": "H01P 1/38",
+    "description": "••••Circuladores [2006.01]"
+  },
+  {
+    "code": "H01P 1/383",
+    "description": "••••••Circuladores de unión, p. ej. circuladores en Y [2006.01]"
+  },
+  {
+    "code": "H01P 1/387",
+    "description": "••••••••Circuladores del tipo línea de bandas [2006.01]"
+  },
+  {
+    "code": "H01P 1/39",
+    "description": "••••••••Circuladores de guía de ondas hueca [2006.01]"
+  },
+  {
+    "code": "H01P 1/393",
+    "description": "••••••que utilizan dispositivos de rotación de Faraday [2006.01]"
+  },
+  {
+    "code": "H01P 1/397",
+    "description": "••••••que utilizan desfasadores no recíprocos (H01P 1/393 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01P 3/00",
+    "description": "Guía de ondas; Líneas de transmisión del tipo guía de ondas [2006.01]"
+  },
+  {
+    "code": "H01P 3/02",
+    "description": "••con dos conductores longitudinales [2006.01]"
+  },
+  {
+    "code": "H01P 3/04",
+    "description": "••••Líneas bifilares del tipo Lecher [2006.01]"
+  },
+  {
+    "code": "H01P 3/06",
+    "description": "••••Líneas coaxiales [2006.01]"
+  },
+  {
+    "code": "H01P 3/08",
+    "description": "••••Microbandas; Triplacas [2006.01]"
+  },
+  {
+    "code": "H01P 3/10",
+    "description": "••Guías de ondas unifilares, es decir, con un conductor sólido longitudinal único [2006.01]"
+  },
+  {
+    "code": "H01P 3/12",
+    "description": "••Guías de ondas huecas (H01P 3/20 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01P 3/123",
+    "description": "••••que presentan una sección compleja o en forma de escalón, p. ej. guías de ondas estriadas o ranuradas (H01P 3/14 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01P 3/127",
+    "description": "••••que presentan una sección circular, elíptica o parabólica [2006.01]"
+  },
+  {
+    "code": "H01P 3/13",
+    "description": "••••especialmente adaptadas a la transmisión eléctrica del modo TE01 circular [2006.01]"
+  },
+  {
+    "code": "H01P 3/14",
+    "description": "••••flexibles [2006.01]"
+  },
+  {
+    "code": "H01P 3/16",
+    "description": "••Guías de ondas dieléctricas, es decir, sin un conductor longitudinal [2006.01]"
+  },
+  {
+    "code": "H01P 3/18",
+    "description": "••constituidas por varias capas para aumentar la superficie activa, es decir, capas conductoras y dieléctricas alternadas [2006.01]"
+  },
+  {
+    "code": "H01P 3/20",
+    "description": "••Dispositivos casi ópticos para guiar una onda, p. ej. enfocar por medio de lentes dieléctricas [2006.01]"
+  },
+  {
+    "code": "H01P 5/00",
+    "description": "Dispositivos de acoplamiento del tipo guía de ondas [2006.01]"
+  },
+  {
+    "code": "H01P 5/02",
+    "description": "••con coeficiente de acoplamiento invariable (H01P 5/12 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01P 5/04",
+    "description": "••con coeficiente de acoplamiento variable [2006.01]"
+  },
+  {
+    "code": "H01P 5/08",
+    "description": "••destinados al acoplamiento de líneas o dispositivos diferentes (H01P 1/16, H01P 5/04 tienen prioridad; acoplamiento de líneas del mismo tipo pero de dimensiones diferentes H01P 5/02) [2006.01]"
+  },
+  {
+    "code": "H01P 5/10",
+    "description": "••••destinados al acoplamiento de líneas o dispositivos equilibrados con líneas o dispositivos desequilibrados [2006.01]"
+  },
+  {
+    "code": "H01P 5/103",
+    "description": "••••••Transiciones entre guías de ondas huecas y líneas coaxiales [2006.01]"
+  },
+  {
+    "code": "H01P 5/107",
+    "description": "••••••Transiciones entre guías de ondas huecas y líneas de tiras [2006.01]"
+  },
+  {
+    "code": "H01P 5/12",
+    "description": "••Dispositivos de acoplamiento que presentan al menos tres entradas (H01P 5/04 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01P 5/16",
+    "description": "••••Dispositivos con entradas conjugadas, es decir, dispositivos que presentan al menos una entrada desacoplada de otra entrada [2006.01]"
+  },
+  {
+    "code": "H01P 5/18",
+    "description": "••••••que consisten en dos guías acopladas, p. ej. acopladores direccionales [2006.01]"
+  },
+  {
+    "code": "H01P 5/19",
+    "description": "••••••del tipo de unión [2006.01]"
+  },
+  {
+    "code": "H01P 5/20",
+    "description": "••••••••Uniones en T mágica [2006.01]"
+  },
+  {
+    "code": "H01P 5/22",
+    "description": "••••••••Uniones en anillo híbrido [2006.01]"
+  },
+  {
+    "code": "H01P 7/00",
+    "description": "Resonadores del tipo guía de ondas [2006.01]"
+  },
+  {
+    "code": "H01P 7/02",
+    "description": "••Resonadores del tipo Lecher [2006.01]"
+  },
+  {
+    "code": "H01P 7/04",
+    "description": "••Resonadores coaxiales [2006.01]"
+  },
+  {
+    "code": "H01P 7/06",
+    "description": "••Resonadores con cavidad [2006.01]"
+  },
+  {
+    "code": "H01P 7/08",
+    "description": "••Resonadores del tipo línea de bandas [2006.01]"
+  },
+  {
+    "code": "H01P 7/10",
+    "description": "••Resonadores dieléctricos [2006.01]"
+  },
+  {
+    "code": "H01P 9/00",
+    "description": "Líneas de retardo del tipo guía de ondas [2006.01]"
+  },
+  {
+    "code": "H01P 9/02",
+    "description": "••Líneas de retardo en hélice [2006.01]"
+  },
+  {
+    "code": "H01P 9/04",
+    "description": "••Líneas de retardo interdigitales [2006.01]"
+  },
+  {
+    "code": "H01P 11/00",
+    "description": "Aparatos o procedimientos especialmente adaptados a la fabricación de guías de ondas, resonadores, líneas u otros dispositivos del tipo guía de ondas [2006.01]"
+  }
+]

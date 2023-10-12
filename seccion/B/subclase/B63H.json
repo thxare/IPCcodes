@@ -1,0 +1,786 @@
+[
+  {
+    "code": "B63H 1/00",
+    "description": "Elementos de propulsión que actúan directamente sobre el agua (propulsión por reacción B63H 11/00) [2006.01]"
+  },
+  {
+    "code": "B63H 1/02",
+    "description": "••de tipo rotativo [2006.01]"
+  },
+  {
+    "code": "B63H 1/04",
+    "description": "••••con eje de rotación dispuesto esencialmente en ángulo recto con la dirección de propulsión, p. ej. ruedas de paletas [2006.01]"
+  },
+  {
+    "code": "B63H 1/06",
+    "description": "••••••con álabes o palas regulables [2006.01]"
+  },
+  {
+    "code": "B63H 1/08",
+    "description": "••••••••con sistema de regulación cíclico [2006.01]"
+  },
+  {
+    "code": "B63H 1/10",
+    "description": "••••••••••con palas que se prolongan axialmente a partir de un rotor en forma de disco [2006.01]"
+  },
+  {
+    "code": "B63H 1/12",
+    "description": "••••con eje de rotación dispuesto esencialmente en la dirección de la propulsión [2006.01]"
+  },
+  {
+    "code": "B63H 1/14",
+    "description": "••••••Hélices (de palas orientables B63H 3/00) [2006.01]"
+  },
+  {
+    "code": "B63H 1/15",
+    "description": "••••••••teniendo medios para amortiguar las vibraciones [2006.01]"
+  },
+  {
+    "code": "B63H 1/16",
+    "description": "••••••••teniendo un anillo sujetador de las juntas del paletaje [2006.01]"
+  },
+  {
+    "code": "B63H 1/18",
+    "description": "••••••••con medios para disminuir la cavitación, p. ej. hélices supercavitantes [2006.01]"
+  },
+  {
+    "code": "B63H 1/20",
+    "description": "••••••••Cubos; Fijación de palas [2006.01]"
+  },
+  {
+    "code": "B63H 1/22",
+    "description": "••••••••••siendo plegables las palas [2006.01]"
+  },
+  {
+    "code": "B63H 1/24",
+    "description": "••••••••••••plegables o desplegables automáticamente [2006.01]"
+  },
+  {
+    "code": "B63H 1/26",
+    "description": "••••••••Palas [2006.01]"
+  },
+  {
+    "code": "B63H 1/28",
+    "description": "••••••••Otros medios para mejorar el rendimiento de las hélices [2006.01]"
+  },
+  {
+    "code": "B63H 1/30",
+    "description": "••de tipo no rotativo [2006.01]"
+  },
+  {
+    "code": "B63H 1/32",
+    "description": "••••Aletas, pistones o similares de movimiento alternativo paralelo al sentido de la propulsión [2006.01]"
+  },
+  {
+    "code": "B63H 1/34",
+    "description": "••••de tipo de vía sin fin [2006.01]"
+  },
+  {
+    "code": "B63H 1/36",
+    "description": "••••Aletas con movimiento oscilante, p. ej. del tipo cola de pez [2006.01]"
+  },
+  {
+    "code": "B63H 1/37",
+    "description": "••••Propulsores con movimiento ondulante, es decir, que comprenden medios de propulsión formados por una estructura flexible ondulante [2006.01]"
+  },
+  {
+    "code": "B63H 1/38",
+    "description": "••caracterizados únicamente por las propiedades de flotabilidad, p. ej. tambores [2006.01]"
+  },
+  {
+    "code": "B63H 3/00",
+    "description": "Hélices de palas orientables [2006.01]"
+  },
+  {
+    "code": "B63H 3/02",
+    "description": "••accionadas por un elemento de mando de eje coaxial con el eje de la hélice, p. ej. elemento de mando de movimiento rotativo [2006.01]"
+  },
+  {
+    "code": "B63H 3/04",
+    "description": "••••teniendo el elemento de mando un movimiento de vaivén [2006.01]"
+  },
+  {
+    "code": "B63H 3/06",
+    "description": "••caracterizados por la utilización de medios motores no mecánicos, p. ej. eléctricos [2006.01]"
+  },
+  {
+    "code": "B63H 3/08",
+    "description": "••••por fluido [2006.01]"
+  },
+  {
+    "code": "B63H 3/10",
+    "description": "••caracterizadas por tener conjuntamente mando de la inclinación de las palas y del aparato de propulsión [2006.01]"
+  },
+  {
+    "code": "B63H 3/12",
+    "description": "••caracterizadas por un sistema de orientación de las palas que no puede accionarse más que a hélice parada [2006.01]"
+  },
+  {
+    "code": "B63H 5/00",
+    "description": "Instalaciones a bordo de buques de elementos propulsores que actúan directamente sobre el agua [2006.01]"
+  },
+  {
+    "code": "B63H 5/02",
+    "description": "••de ruedas de álabes, p. ej. de rueda a popa [2006.01]"
+  },
+  {
+    "code": "B63H 5/03",
+    "description": "••••con montaje móvil con respecto al casco, p. ej. teniendo medios para modificar la posición del conjunto de ruedas de álabes, para retraer el álabe o para cambiar su altura [2006.01]"
+  },
+  {
+    "code": "B63H 5/04",
+    "description": "••••con elementos fijos de guiado de los filetes de agua [2006.01]"
+  },
+  {
+    "code": "B63H 5/07",
+    "description": "••de hélices (formando parte de las unidades de propulsión fuera borda B63H 20/00) [2006.01]"
+  },
+  {
+    "code": "B63H 5/08",
+    "description": "••••que tienen más de una hélice [2006.01]"
+  },
+  {
+    "code": "B63H 5/10",
+    "description": "••••••de tipo coaxial, p. ej. del tipo contrarrotativo [2006.01]"
+  },
+  {
+    "code": "B63H 5/125",
+    "description": "••••con montaje móvil con respecto al casco, p.ej. ajustable en dirección (montaje móvil cuyo único fin es el gobierno del timón B63H 25/42) [2006.01]"
+  },
+  {
+    "code": "B63H 5/14",
+    "description": "••••caracterizadas por un montaje en tuberías o anillos no rotativos, p. ej. regulables para fines de gobernar (anillo sujetador de las juntas del paletaje B63H 1/16; propulsión a reacción B63H 11/00) [2006.01]"
+  },
+  {
+    "code": "B63H 5/15",
+    "description": "••••••Tuberías, p. ej. de tipo Kort [2006.01]"
+  },
+  {
+    "code": "B63H 5/16",
+    "description": "••••caracterizadas por el montaje en bóveda; con elementos fijos de guiado de los filetes de agua; Medios para evitar el atascamiento de la hélice, p. ej. protecciones, jaulas o pantallas [2006.01]"
+  },
+  {
+    "code": "B63H 5/18",
+    "description": "••••hélices de emergencia, p. ej. colocadas en los lados del buque [2006.01]"
+  },
+  {
+    "code": "B63H 5/20",
+    "description": "••••••móviles desde una posición de trabajo a una posición de reposo [2006.01]"
+  },
+  {
+    "code": "B63H 7/00",
+    "description": "Propulsión directa por aire (propulsión a reacción B63H 11/00) [2006.01]"
+  },
+  {
+    "code": "B63H 7/02",
+    "description": "••utilizando hélices [2006.01]"
+  },
+  {
+    "code": "B63H 8/00",
+    "description": "Dispositivos de velas o aparejos especialmente adaptados para tablas de deportes acuáticos, p. ej. para windsurf o kitesurf [2020.01]"
+  },
+  {
+    "code": "B63H 8/10",
+    "description": "••Velas de la cometa; Alas de la cometa; Control de las mismas; Sus medios de seguridad [2020.01]"
+  },
+  {
+    "code": "B63H 8/12",
+    "description": "••••Cometas con compartimentos cerrados hinchables [2020.01]"
+  },
+  {
+    "code": "B63H 8/14",
+    "description": "••••Cometas de aire de proa, p. ej. cometas al menos parcialmente hinchadas por aire que accede por sus bordes de ataque durante su uso [2020.01]"
+  },
+  {
+    "code": "B63H 8/16",
+    "description": "••••Dispositivos de control, p. ej. barras o líneas de control [2020.01]"
+  },
+  {
+    "code": "B63H 8/18",
+    "description": "••••Dispositivos que conectan al usuario a la cometa; Medios de seguridad, p. ej. chicken loops, correas de seguridad y mecanismos de liberación rápida [2020.01]"
+  },
+  {
+    "code": "B63H 8/20",
+    "description": "••Dispositivos de aparejos que usan mástiles, p. ej. para windsurf [2020.01]"
+  },
+  {
+    "code": "B63H 8/21",
+    "description": "••••Botavaras [2020.01]"
+  },
+  {
+    "code": "B63H 8/22",
+    "description": "••••que conectan las botavaras al mástil [2020.01]"
+  },
+  {
+    "code": "B63H 8/23",
+    "description": "••••para tensar o equilibrar el puño de escota de la vela, p. ej compensadores de escota [2020.01]"
+  },
+  {
+    "code": "B63H 8/24",
+    "description": "••••Dispositivos para conectar los aparejos a la tabla [2020.01]"
+  },
+  {
+    "code": "B63H 8/25",
+    "description": "••••Dispositivos para conectar la vela al pie de mástil, p. ej. tensores de escota o extensiones de pie de mástil [2020.01]"
+  },
+  {
+    "code": "B63H 8/40",
+    "description": "••Dispositivos para mejorar o mantener el perfil aerodinámico de las velas, p. ej. peraltes, tirantes o perfiles laminados [2020.01]"
+  },
+  {
+    "code": "B63H 8/50",
+    "description": "••Accesorios, p. ej. kit de reparaciones o ayudas al despegue de la cometa [2020.01]"
+  },
+  {
+    "code": "B63H 8/52",
+    "description": "••••Amarres, levas o ganchos de mano para tensar la escota inferior o externa de una vela de windsurf [2020.01]"
+  },
+  {
+    "code": "B63H 8/54",
+    "description": "••••Dispositivos para conectar al usuario o el arnés a la botavara, p. ej. líneas de trapecio o asas [2020.01]"
+  },
+  {
+    "code": "B63H 8/56",
+    "description": "••••Dispositivos para distribuir el peso del usuario, p. ej. arneses [2020.01]"
+  },
+  {
+    "code": "B63H 8/58",
+    "description": "••••••Barras distribuidoras; Dispositivos conectores por ganchos [2020.01]"
+  },
+  {
+    "code": "B63H 8/70",
+    "description": "••Dispositivos para su manipulación, estiba o transporte [2020.01]"
+  },
+  {
+    "code": "B63H 9/00",
+    "description": "Propulsión marina generada directamente por energía eólica (motores eólicos que accionan elementos propulsores sumergidos B63H 13/00) [2006.01]"
+  },
+  {
+    "code": "B63H 9/02",
+    "description": "••que utilizan el efecto Magnus [2006.01]"
+  },
+  {
+    "code": "B63H 9/04",
+    "description": "••que utilizan velas o superficies análogas que captan la acción del viento (dispositivos de velas o aparejos especialmente adaptados para tablas de deportes acuáticos, p. ej. para windsurf o kitesurf B63H 8/00) [2020.01]"
+  },
+  {
+    "code": "B63H 9/06",
+    "description": "••••Tipos de velas; Características estructurales de las velas; Disposiciones de las mismas sobre las embarcaciones [2020.01]"
+  },
+  {
+    "code": "B63H 9/061",
+    "description": "••••••Velas rígidas; Velas aerodinámicas [2020.01]"
+  },
+  {
+    "code": "B63H 9/065",
+    "description": "••••••Tirantes (para velas de tablas de deportes acuáticos B63H 8/40) [2020.01]"
+  },
+  {
+    "code": "B63H 9/067",
+    "description": "••••••Velas caracterizadas por sus procesos de construcción o fabricación [2020.01]"
+  },
+  {
+    "code": "B63H 9/068",
+    "description": "••••••Velas que se montan para pivotar en la punta del mástil [2020.01]"
+  },
+  {
+    "code": "B63H 9/069",
+    "description": "••••••Velas de cometa para embarcaciones [2020.01]"
+  },
+  {
+    "code": "B63H 9/071",
+    "description": "••••••••para su uso en combinación con otros medios de propulsión, p. ej. para reducir el gasto de combustible [2020.01]"
+  },
+  {
+    "code": "B63H 9/072",
+    "description": "••••••••Dispositivos de control, p. ej. para la botadura o la recuperación [2020.01]"
+  },
+  {
+    "code": "B63H 9/08",
+    "description": "••••Fijaciones de velas a los mástiles, palos o similares [2006.01]"
+  },
+  {
+    "code": "B63H 9/10",
+    "description": "••••••Palos; Maniobras corrientes, p. ej. equipos para toma de rizos (sujeción con cuerdas de los mástiles B63B 15/02) [2006.01]"
+  },
+  {
+    "code": "B63H 11/00",
+    "description": "Propulsión marina por reactores de agua [2006.01]"
+  },
+  {
+    "code": "B63H 11/01",
+    "description": "••teniendo medios para evitar que cuerpos extraños obstruyan el canal de fluido [2006.01]"
+  },
+  {
+    "code": "B63H 11/02",
+    "description": "••estando constituido el medio de propulsión por el agua ambiente [2006.01]"
+  },
+  {
+    "code": "B63H 11/04",
+    "description": "••••por medios de bombas [2006.01]"
+  },
+  {
+    "code": "B63H 11/06",
+    "description": "••••••de tipo alternativo [2006.01]"
+  },
+  {
+    "code": "B63H 11/08",
+    "description": "••••••de tipo rotativo [2006.01]"
+  },
+  {
+    "code": "B63H 11/09",
+    "description": "••••••por medio de impulsos de presión aplicados a una columna de líquido, p. ej. por inflamación de una mezcla de aire/gas o de una mezcla de vapores [2006.01]"
+  },
+  {
+    "code": "B63H 11/10",
+    "description": "••••que tiene medios de deflector el chorro o actuando sobre su sección transversal [2006.01]"
+  },
+  {
+    "code": "B63H 11/103",
+    "description": "••••••teniendo medios para aumentar la eficacia del fluido propulsivo, es decir, la tubería de descarga tiene medios para mejorar la corriente de fluido [2006.01]"
+  },
+  {
+    "code": "B63H 11/107",
+    "description": "••••••Control de la dirección del fluido propulsivo [2006.01]"
+  },
+  {
+    "code": "B63H 11/11",
+    "description": "••••••••con medios de cubeta o de tipo cuchara [2006.01]"
+  },
+  {
+    "code": "B63H 11/113",
+    "description": "••••••••Escapes pivotantes [2006.01]"
+  },
+  {
+    "code": "B63H 11/117",
+    "description": "••••••••Deflectores pivotantes [2006.01]"
+  },
+  {
+    "code": "B63H 11/12",
+    "description": "••estando constituido el medio de la propulsión por vapor u otro gas [2006.01]"
+  },
+  {
+    "code": "B63H 11/14",
+    "description": "••••siendo producidos los gases por combustión [2006.01]"
+  },
+  {
+    "code": "B63H 11/16",
+    "description": "••••siendo producidos los gases por otras reacciones químicas [2006.01]"
+  },
+  {
+    "code": "B63H 13/00",
+    "description": "Propulsión marina por motores eólicos que accionan los elementos propulsores que actúan directamente sobre el agua [2006.01]"
+  },
+  {
+    "code": "B63H 16/00",
+    "description": "Propulsión marina por energía muscular [2006.01]"
+  },
+  {
+    "code": "B63H 16/02",
+    "description": "••Bancos de natación móviles; Reposapiés [2006.01]"
+  },
+  {
+    "code": "B63H 16/04",
+    "description": "••Remos; Espadillas; Canaletes; Pértigas [2006.01]"
+  },
+  {
+    "code": "B63H 16/06",
+    "description": "••Toletes; Monturas correspondientes [2006.01]"
+  },
+  {
+    "code": "B63H 16/067",
+    "description": "••••Toletes montados en una estructura que se extiende debajo del borde plano o regala de las embarcaciones [2006.01]"
+  },
+  {
+    "code": "B63H 16/073",
+    "description": "••••teniendo medios para retener la pala del remo [2006.01]"
+  },
+  {
+    "code": "B63H 16/08",
+    "description": "••Otros aparatos para convertir la energía muscular en esfuerzo de propulsión [2006.01]"
+  },
+  {
+    "code": "B63H 16/10",
+    "description": "••••para remar cara a la proa [2006.01]"
+  },
+  {
+    "code": "B63H 16/16",
+    "description": "••••utilizando un cable de tracción alternativa, es decir, un elemento en forma de cuerda móvil alternativamente adelante y atrás [2006.01]"
+  },
+  {
+    "code": "B63H 16/18",
+    "description": "••••utilizando un pedal o manecilla deslizante, es decir, la fuerza motriz se transmite a los medios de propulsión por una palanca que se acciona por el pie o la mano del ocupante [2006.01]"
+  },
+  {
+    "code": "B63H 16/20",
+    "description": "••••utilizando un brazo de manivela rotativo [2006.01]"
+  },
+  {
+    "code": "B63H 19/00",
+    "description": "Propulsión marina no prevista en otro lugar [2006.01]"
+  },
+  {
+    "code": "B63H 19/02",
+    "description": "••que utilizan la energía debida al movimiento ambiente de la mar, p. ej. del balanceo o del cabeceo [2006.01]"
+  },
+  {
+    "code": "B63H 19/04",
+    "description": "••••por las corrientes marinas [2006.01]"
+  },
+  {
+    "code": "B63H 19/06",
+    "description": "••mediante escape de gas en el agua ambiente [2006.01]"
+  },
+  {
+    "code": "B63H 19/08",
+    "description": "••por ataque directo del fondo [2006.01]"
+  },
+  {
+    "code": "B63H 20/00",
+    "description": "Unidades de propulsión fuera borda, p.ej. motores fuera borda o transmisiones en Z; Su instalación en embarcaciones [2006.01]"
+  },
+  {
+    "code": "B63H 20/02",
+    "description": "••Montaje de las unidades de propulsión (B63H 20/08 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B63H 20/04",
+    "description": "••••en un pozo [2006.01]"
+  },
+  {
+    "code": "B63H 20/06",
+    "description": "••••sobre un soporte intermedio [2006.01]"
+  },
+  {
+    "code": "B63H 20/08",
+    "description": "••Medios capaces de permitir el desplazamiento de la posición de los elementos de propulsión, p.ej. para el estibado, inclinación o reglaje de la dirección; Control del estibado o inclinación (medios que inician el gobierno B63H 25/02) [2006.01]"
+  },
+  {
+    "code": "B63H 20/10",
+    "description": "••••Medios que permiten la estibación, inclinación o elevación del elemento propulsor en casos de contacto con obstáculos; Control del estibado o inclinación [2006.01]"
+  },
+  {
+    "code": "B63H 20/12",
+    "description": "••••Medios que actúan sobre la dirección [2006.01]"
+  },
+  {
+    "code": "B63H 20/14",
+    "description": "••Transmisión entre la unidad de propulsión y el elemento propulsor [2006.01]"
+  },
+  {
+    "code": "B63H 20/16",
+    "description": "••••permitiendo el movimiento del elemento de propulsión sólo en un plano horizontal, p.ej. para el gobierno [2006.01]"
+  },
+  {
+    "code": "B63H 20/18",
+    "description": "••••permitiendo el movimiento del elemento de propulsión en torno a un eje longitudinal, p.ej. en torno al árbol que atraviesa el peto de popa (B63H 20/22 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B63H 20/20",
+    "description": "••••con un sistema para invertir la marcha [2006.01]"
+  },
+  {
+    "code": "B63H 20/22",
+    "description": "••••permitiendo el movimiento del elemento de propulsión en torno al menos un eje horizontal sin desconectar la transmisión, p.ej. utilizando juntas universales [2006.01]"
+  },
+  {
+    "code": "B63H 20/24",
+    "description": "••Orificios de salida del gas de escape [2006.01]"
+  },
+  {
+    "code": "B63H 20/26",
+    "description": "••••atravesando la hélice o sus centros [2006.01]"
+  },
+  {
+    "code": "B63H 20/28",
+    "description": "••Entrada de agua de refrigeración [2006.01]"
+  },
+  {
+    "code": "B63H 20/30",
+    "description": "••••para limpieza [2006.01]"
+  },
+  {
+    "code": "B63H 20/32",
+    "description": "••Bastidores [2006.01]"
+  },
+  {
+    "code": "B63H 20/34",
+    "description": "••••que comprenden alábes de estabilización [2006.01]"
+  },
+  {
+    "code": "B63H 20/36",
+    "description": "••Base de transporte o mesa de ensayos; Protección del árbol motor [2006.01]"
+  },
+  {
+    "code": "B63H 21/00",
+    "description": "Utilización de plantas o grupos motrices de propulsión a bordo de embarcaciones [2006.01]"
+  },
+  {
+    "code": "B63H 21/02",
+    "description": "••siendo a vapor la propulsión del buque (B63H 21/18 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B63H 21/04",
+    "description": "••••por el desplazamiento positivo producido en la máquina de vapor [2006.01]"
+  },
+  {
+    "code": "B63H 21/06",
+    "description": "••••por turbinas de vapor [2006.01]"
+  },
+  {
+    "code": "B63H 21/08",
+    "description": "••••por calderas de vapor [2006.01]"
+  },
+  {
+    "code": "B63H 21/10",
+    "description": "••••por condensadores o intercambiadores térmicos de fluido de refrigeración de las máquinas [2006.01]"
+  },
+  {
+    "code": "B63H 21/12",
+    "description": "••siendo accionado el buque por motores (B63H 21/175, B63H 21/18 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "B63H 21/14",
+    "description": "••••de combustión interna [2006.01]"
+  },
+  {
+    "code": "B63H 21/16",
+    "description": "••••por turbinas de gas [2006.01]"
+  },
+  {
+    "code": "B63H 21/165",
+    "description": "••••por motor de fluido hidráulico, es decir, en los que un líquido bajo presión se utiliza para hacer girar los medios de propulsión [2006.01]"
+  },
+  {
+    "code": "B63H 21/17",
+    "description": "••••por motor eléctrico [2006.01]"
+  },
+  {
+    "code": "B63H 21/175",
+    "description": "••siendo el buque propulsado por un vehículo terrestre llevado por el buque [2006.01]"
+  },
+  {
+    "code": "B63H 21/18",
+    "description": "••siendo el buque propulsado por energía nuclear [2006.01]"
+  },
+  {
+    "code": "B63H 21/20",
+    "description": "••siendo el buque propulsado por una combinación de grupos motrices de diferentes tipos [2006.01]"
+  },
+  {
+    "code": "B63H 21/21",
+    "description": "••Medios de control del motor o de la transmisión especialmente adaptados a su utilización a bordo de buques [2006.01]"
+  },
+  {
+    "code": "B63H 21/22",
+    "description": "••siendo mandados los grupos motrices desde el exterior de la sala de máquinas, p. ej. de la pasarela de navegación; instalaciones relativas a los transmisores de órdenes [2006.01]"
+  },
+  {
+    "code": "B63H 21/30",
+    "description": "••Montaje de plantas o grupos motrices de propulsión, p. ej. con fines de antivibración (refuerzos del casco con este fin B63B 3/70) [2006.01]"
+  },
+  {
+    "code": "B63H 21/32",
+    "description": "••Instalaciones relativas a los conductos de escape de los grupos de propulsión; Chimeneas propias de las embarcaciones [2006.01]"
+  },
+  {
+    "code": "B63H 21/34",
+    "description": "••••que tienen medios para deflectar los gases de escape [2006.01]"
+  },
+  {
+    "code": "B63H 21/36",
+    "description": "••Cubiertas o recintos dispuestos para proteger el grupo o uno de sus elementos contra las condiciones ambientales marinas [2006.01]"
+  },
+  {
+    "code": "B63H 21/38",
+    "description": "••Aparatos o métodos especialmente adaptados para el uso en un buque, para manejar líquidos del grupo motor o de uno de sus elementos, p. ej. lubricantes, refrigerantes, carburantes o análogos [2006.01]"
+  },
+  {
+    "code": "B63H 23/00",
+    "description": "Transmisión de la energía desde la planta o grupo motriz de propulsión a los elementos propulsores (adaptación de la transmisión permitiendo la regulación en posición o en dirección de hélices B63H 5/125; transmisión entre motores de viento y elementos de propulsión B63H 13/00, en unidades de propulsión fuera borda B63H 20/14; adaptación de la transmisión que permita el reglaje de las hélices B63H 20/08) [2006.01]"
+  },
+  {
+    "code": "B63H 23/02",
+    "description": "••con transmisión mecánica [2006.01]"
+  },
+  {
+    "code": "B63H 23/04",
+    "description": "••••estando esencialmente vertical el elemento principal de transmisión, p. ej. el eje [2006.01]"
+  },
+  {
+    "code": "B63H 23/06",
+    "description": "••••para transmitir la acción desde un grupo de propulsión único [2006.01]"
+  },
+  {
+    "code": "B63H 23/08",
+    "description": "••••••con sistema para cambio de marcha [2006.01]"
+  },
+  {
+    "code": "B63H 23/10",
+    "description": "••••para transmitir la acción desde varios grupos de propulsión [2006.01]"
+  },
+  {
+    "code": "B63H 23/12",
+    "description": "••••••que permitan emplear combinados los grupos de propulsión [2006.01]"
+  },
+  {
+    "code": "B63H 23/14",
+    "description": "••••••••con mando en un solo sentido de marcha o cuando el cambio de sentido de marcha no tiene importancia [2006.01]"
+  },
+  {
+    "code": "B63H 23/16",
+    "description": "••••••••caracterizada por la aptitud para cambio de marcha [2006.01]"
+  },
+  {
+    "code": "B63H 23/18",
+    "description": "••••••para el empleo alternativo de la acción de los grupos de propulsión [2006.01]"
+  },
+  {
+    "code": "B63H 23/20",
+    "description": "••••••••con grupos distintos de propulsión de proa y de propulsión de popa, p. ej. turbinas [2006.01]"
+  },
+  {
+    "code": "B63H 23/22",
+    "description": "••con transmisión no mecánica [2006.01]"
+  },
+  {
+    "code": "B63H 23/24",
+    "description": "••••eléctrico [2006.01]"
+  },
+  {
+    "code": "B63H 23/26",
+    "description": "••••de fluido [2006.01]"
+  },
+  {
+    "code": "B63H 23/28",
+    "description": "••con sincronización de elementos propulsores [2006.01]"
+  },
+  {
+    "code": "B63H 23/30",
+    "description": "••caracterizada por el empleo de embragues [2006.01]"
+  },
+  {
+    "code": "B63H 23/32",
+    "description": "••Otras partes de la transmisión [2006.01]"
+  },
+  {
+    "code": "B63H 23/34",
+    "description": "••••Ejes portahélices; Ejes de ruedas de paletas; Fijación de las hélices a los ejes [2006.01]"
+  },
+  {
+    "code": "B63H 23/35",
+    "description": "••••••Frenado o bloqueo de árboles, es decir, medios para disminuir o parar la rotación de los árboles portahélices, o para evitar que comience a girar [2006.01]"
+  },
+  {
+    "code": "B63H 23/36",
+    "description": "••••Camisas de ejes portahélices [2006.01]"
+  },
+  {
+    "code": "B63H 25/00",
+    "description": "Gobierno; Disminución de marcha utilizando medios distintos a los elementos propulsores (que emplean unidades de propulsión fueraborda instaladas de forma amovible B63H 20/00); Anclaje o amarre dinámico, es decir, posicionamiento de los buques por medio de elementos propulsores auxiliares o principales [2006.01]"
+  },
+  {
+    "code": "B63H 25/02",
+    "description": "••Medios para iniciar el gobierno [2006.01]"
+  },
+  {
+    "code": "B63H 25/04",
+    "description": "••••de funcionamiento automático, p. ej. sujetos a la brújula [2006.01]"
+  },
+  {
+    "code": "B63H 25/06",
+    "description": "••gobernando por timón (que llevan las hélices B63H 25/42) [2006.01]"
+  },
+  {
+    "code": "B63H 25/08",
+    "description": "••••Aparato de gobierno [2006.01]"
+  },
+  {
+    "code": "B63H 25/10",
+    "description": "••••••de transmisión mecánica [2006.01]"
+  },
+  {
+    "code": "B63H 25/12",
+    "description": "••••••de transmisión por fluido [2006.01]"
+  },
+  {
+    "code": "B63H 25/14",
+    "description": "••••••asistida de potencia; de relé de potencia, es decir, empleando un motor de gobierno [2006.01]"
+  },
+  {
+    "code": "B63H 25/16",
+    "description": "••••••••con mando alternativo por potencia muscular o por motor de gobierno [2006.01]"
+  },
+  {
+    "code": "B63H 25/18",
+    "description": "••••••••Transmisión al motor de gobierno del movimiento de iniciación [2006.01]"
+  },
+  {
+    "code": "B63H 25/20",
+    "description": "••••••••••por medios mecánicos [2006.01]"
+  },
+  {
+    "code": "B63H 25/22",
+    "description": "••••••••••por fluidos [2006.01]"
+  },
+  {
+    "code": "B63H 25/24",
+    "description": "••••••••••por medios eléctricos [2006.01]"
+  },
+  {
+    "code": "B63H 25/26",
+    "description": "••••••••Motores de gobierno [2006.01]"
+  },
+  {
+    "code": "B63H 25/28",
+    "description": "••••••••••de tipo fluido [2006.01]"
+  },
+  {
+    "code": "B63H 25/30",
+    "description": "••••••••••••hidráulico [2006.01]"
+  },
+  {
+    "code": "B63H 25/32",
+    "description": "••••••••••••de vapor [2006.01]"
+  },
+  {
+    "code": "B63H 25/34",
+    "description": "••••••••Transmisión del movimiento del motor de gobierno al timón, p. ej. por empleo de sectores, de frenos [2006.01]"
+  },
+  {
+    "code": "B63H 25/36",
+    "description": "••••Indicador de posición del timón [2006.01]"
+  },
+  {
+    "code": "B63H 25/38",
+    "description": "••••Timones [2006.01]"
+  },
+  {
+    "code": "B63H 25/40",
+    "description": "••••••utilizando el efecto Magnus [2006.01]"
+  },
+  {
+    "code": "B63H 25/42",
+    "description": "••Gobierno o anclaje dinámico por elementos propulsores (con la ayuda de chorros B63H 25/46); Gobierno o anclaje dinámico por hélices utilizadas únicamente con este fin; Gobierno o anclaje dinámico por timones que llevan las hélices [2006.01]"
+  },
+  {
+    "code": "B63H 25/44",
+    "description": "••Gobierno o disminución de marcha por alerones extensibles o dispositivos análogos [2006.01]"
+  },
+  {
+    "code": "B63H 25/46",
+    "description": "••Gobierno o anclaje dinámico por chorros [2006.01]"
+  },
+  {
+    "code": "B63H 25/48",
+    "description": "••Gobierno o disminución de marcha por deflexión de la vena líquida de la hélice, de forma que no sea por timón [2006.01]"
+  },
+  {
+    "code": "B63H 25/50",
+    "description": "••Medios de disminución de marcha no previstos en otro lugar [2006.01]"
+  },
+  {
+    "code": "B63H 25/52",
+    "description": "••Partes del aparato de gobierno no previstos en otro lugar [2006.01]"
+  }
+]

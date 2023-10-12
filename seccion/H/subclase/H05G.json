@@ -1,0 +1,154 @@
+[
+  {
+    "code": "H05G 1/00",
+    "description": "Aparatos de rayos X que utilizan tubos de rayos X; Circuitos para esos aparatos [2006.01]"
+  },
+  {
+    "code": "H05G 1/02",
+    "description": "••Detalles de construcción [2006.01]"
+  },
+  {
+    "code": "H05G 1/04",
+    "description": "••••Montaje de un tubo de rayos X dentro de una funda cerrada [2006.01]"
+  },
+  {
+    "code": "H05G 1/06",
+    "description": "••••••Tubos de rayos X y al menos una parte del aparato de suministro de potencia montados en el interior de la misma funda [2006.01]"
+  },
+  {
+    "code": "H05G 1/08",
+    "description": "••Detalles eléctricos [2006.01]"
+  },
+  {
+    "code": "H05G 1/10",
+    "description": "••••Disposiciones de suministro de energía para alimentar el tubo de rayos X [2006.01]"
+  },
+  {
+    "code": "H05G 1/12",
+    "description": "••••••con corriente continua o con corriente alterna rectificada [2006.01]"
+  },
+  {
+    "code": "H05G 1/14",
+    "description": "••••••con corriente alterna monofásica de baja frecuencia [2006.01]"
+  },
+  {
+    "code": "H05G 1/16",
+    "description": "••••••••reducción de la tensión inversa de cresta [2006.01]"
+  },
+  {
+    "code": "H05G 1/18",
+    "description": "••••••con corriente alterna polifásica de baja frecuencia [2006.01]"
+  },
+  {
+    "code": "H05G 1/20",
+    "description": "••••••con corriente alterna de alta frecuencia; con trenes de impulsos [2006.01]"
+  },
+  {
+    "code": "H05G 1/22",
+    "description": "••••••con impulsos únicos [2006.01]"
+  },
+  {
+    "code": "H05G 1/24",
+    "description": "••••••••Obteniendo impulsos mediante el uso de dispositivos de almacenamiento de energía [2006.01]"
+  },
+  {
+    "code": "H05G 1/26",
+    "description": "••••Medida, control o protección (medida de radiación de los rayos X G01T) [2006.01]"
+  },
+  {
+    "code": "H05G 1/28",
+    "description": "••••••Medida o registro del tiempo de exposición efectivo; Cómputo del número de exposiciones; Medida del tiempo de exposición necesario [2006.01]"
+  },
+  {
+    "code": "H05G 1/30",
+    "description": "••••••Control [2006.01]"
+  },
+  {
+    "code": "H05G 1/32",
+    "description": "••••••••Tensión de alimentación de aparatos o tubos de rayos X [2006.01]"
+  },
+  {
+    "code": "H05G 1/34",
+    "description": "••••••••Corriente anódica, corriente de calefacción o tensión de calefacción de los tubos de rayos X [2006.01]"
+  },
+  {
+    "code": "H05G 1/36",
+    "description": "••••••••de la temperatura del ánodo; del brillo de la imagen [2006.01]"
+  },
+  {
+    "code": "H05G 1/38",
+    "description": "••••••••del tiempo de exposición [2006.01]"
+  },
+  {
+    "code": "H05G 1/40",
+    "description": "••••••••••utilizando un interruptor horario regulable [2006.01]"
+  },
+  {
+    "code": "H05G 1/42",
+    "description": "••••••••••utilización disposiciones para interrumpir cuando una dosis predeterminada de radiación ha sido aplicada, p. ej. en donde el instante de interrupción está determinado por la medida de la energía eléctrica suministrada al tubo [2006.01]"
+  },
+  {
+    "code": "H05G 1/44",
+    "description": "••••••••••••en donde el instante de interrupción está determinado directamente por la cantidad de radiación [2006.01]"
+  },
+  {
+    "code": "H05G 1/46",
+    "description": "••••••••Control combinado de diferentes cantidades, p. ej. tiempo de exposición así como tensión o corriente [2006.01]"
+  },
+  {
+    "code": "H05G 1/48",
+    "description": "••••••••Compensación de la caída de tensión que se produce en el momento de la puesta en marcha del aparato [2006.01]"
+  },
+  {
+    "code": "H05G 1/50",
+    "description": "••••••••pasando la corriente del tubo solamente durante una parte reducida de la forma de onda de tensión [2006.01]"
+  },
+  {
+    "code": "H05G 1/52",
+    "description": "••••••••tamaño o forma del objetivo; dirección del haz de electrones, p. ej. en tubos con un ánodo y más de un cátodo [2006.01]"
+  },
+  {
+    "code": "H05G 1/54",
+    "description": "••••••Protección (protección contra la sobrecarga combinada con el control H05G 1/46) [2006.01]"
+  },
+  {
+    "code": "H05G 1/56",
+    "description": "••••Puesta en marcha; Parada [2006.01]"
+  },
+  {
+    "code": "H05G 1/58",
+    "description": "••••Disposiciones de conmutación que permiten pasar de una forma de funcionamiento a otra, p. ej. de la radioscopia a la radiografía, de la radioscopia a la irradiación [2006.01]"
+  },
+  {
+    "code": "H05G 1/60",
+    "description": "••••Circuitos para obtener una serie de radiografías o radiocinematografías [2006.01]"
+  },
+  {
+    "code": "H05G 1/61",
+    "description": "••••••para la obtención de fotografías estereoscópicas [2006.01]"
+  },
+  {
+    "code": "H05G 1/62",
+    "description": "••••Circuitos para obtener radiofotografías en un instante predeterminado durante el movimiento de un objeto, p. ej. estroboscopio de rayos X [2006.01]"
+  },
+  {
+    "code": "H05G 1/64",
+    "description": "••••Circuitos para aparatos de rayos X que incorporan convertidores de imagen electrónicos, p. ej. intensificadores de imagen [2006.01]"
+  },
+  {
+    "code": "H05G 1/66",
+    "description": "••••Circuitos para tubos de rayos X con objetivo móvil en relación con el ánodo [2006.01]"
+  },
+  {
+    "code": "H05G 1/68",
+    "description": "••••Circuitos para tubos Lilienfeld; Circuitos para tubos de rayos X en atmósfera gaseosa [2006.01]"
+  },
+  {
+    "code": "H05G 1/70",
+    "description": "••••Circuitos para tubos de rayos X con más de un ánodo; Circuitos para aparatos que comprenden más de un tubo de rayos X [2006.01]"
+  },
+  {
+    "code": "H05G 2/00",
+    "description": "Aparatos o procedimientos especialmente adaptados a la producción de rayos X, sin utilizar tubos de rayos X, p. ej. utilizando la generación de un plasma (lásers de rayos X H01S 4/00) [2006.01]"
+  }
+]

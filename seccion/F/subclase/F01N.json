@@ -1,0 +1,250 @@
+[
+  {
+    "code": "F01N 1/00",
+    "description": "Silenciadores caracterizados por su principio de funcionamiento [2006.01]"
+  },
+  {
+    "code": "F01N 1/02",
+    "description": "••utilizando la resonancia [2006.01]"
+  },
+  {
+    "code": "F01N 1/04",
+    "description": "••••teniendo materiales absorbentes del sonido en cámaras de resonancia [2006.01]"
+  },
+  {
+    "code": "F01N 1/06",
+    "description": "••utilizando los efectos de interferencia [2006.01]"
+  },
+  {
+    "code": "F01N 1/08",
+    "description": "••reduciendo la energía de los gases de escape mediante estrangulación o torbellino [2006.01]"
+  },
+  {
+    "code": "F01N 1/10",
+    "description": "••••en combinación con materiales que absorben el sonido [2006.01]"
+  },
+  {
+    "code": "F01N 1/12",
+    "description": "••••utilizando canalizaciones en espiral o helicoidales (F01N 1/10 tiene prioridad; ciclones B04C) [2006.01]"
+  },
+  {
+    "code": "F01N 1/14",
+    "description": "••por adición de aire a los gases de escape [2006.01]"
+  },
+  {
+    "code": "F01N 1/16",
+    "description": "••por utilización de partes móviles [2006.01]"
+  },
+  {
+    "code": "F01N 1/18",
+    "description": "••••que tienen un movimiento rotativo [2006.01]"
+  },
+  {
+    "code": "F01N 1/20",
+    "description": "••••que tienen un movimiento oscilante o vibratorio (siendo las partes móviles paredes elásticas F01N 1/22) [2006.01]"
+  },
+  {
+    "code": "F01N 1/22",
+    "description": "••••siendo las partes móviles paredes elásticas [2006.01]"
+  },
+  {
+    "code": "F01N 1/24",
+    "description": "••por utilización de materiales que absorben el sonido (F01N 1/04, F01N 1/06, F01N 1/10, F01N 1/14, F01N 1/16 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "F01N 3/00",
+    "description": "Silenciadores o aparatos de escape que incluyen medios para purificar, volver inofensivos o cualquier otro tratamiento de los gases de escape (control eléctrico F01N 9/00; dispositivos de control o diagnóstico para los aparatos de tratamiento de gases de escape F01N 11/00) [2006.01]"
+  },
+  {
+    "code": "F01N 3/01",
+    "description": "••utilizando separadores eléctricos o electrostáticos [2006.01]"
+  },
+  {
+    "code": "F01N 3/02",
+    "description": "••para enfriar o para retirar los constituyentes sólidos de los gases de escape (utilizando separadores eléctricos o electrostáticos F01N 3/01) [2006.01]"
+  },
+  {
+    "code": "F01N 3/021",
+    "description": "••••utilizando filtros [2006.01]"
+  },
+  {
+    "code": "F01N 3/022",
+    "description": "••••••caracterizados por estructuras filtrantes especialmente adaptadas, p. ej. en forma de panal, de malla o fibrosas [2006.01]"
+  },
+  {
+    "code": "F01N 3/023",
+    "description": "••••••utilizando medios para regenerar los filtros, p. ej. quemando las partículas capturadas [2006.01]"
+  },
+  {
+    "code": "F01N 3/025",
+    "description": "••••••••utilizando un quemador de combustible o añadiendo combustible a los gases de escape [2006.01]"
+  },
+  {
+    "code": "F01N 3/027",
+    "description": "••••••••utilizando calentamiento eléctrico o magnético [2006.01]"
+  },
+  {
+    "code": "F01N 3/028",
+    "description": "••••••••••utilizando microondas [2006.01]"
+  },
+  {
+    "code": "F01N 3/029",
+    "description": "••••••••añadiendo sustancias no combustibles a los gases de escape [2006.01]"
+  },
+  {
+    "code": "F01N 3/031",
+    "description": "••••••con medios para contornear los filtros, p. ej. cuando están obstruidos o durante el arranque en frío del motor [2006.01]"
+  },
+  {
+    "code": "F01N 3/032",
+    "description": "••••••••solamente durante la regeneración del filtro [2006.01]"
+  },
+  {
+    "code": "F01N 3/033",
+    "description": "••••••en combinación con otros dispositivos [2006.01]"
+  },
+  {
+    "code": "F01N 3/035",
+    "description": "••••••••con reactores catalíticos [2006.01]"
+  },
+  {
+    "code": "F01N 3/037",
+    "description": "••••utilizando separadores centrífugos o inerciales, p. ej. asociados con aglomeradores [2006.01]"
+  },
+  {
+    "code": "F01N 3/038",
+    "description": "••••utilizando placas perforadas que definen cámaras de expansión asociadas con cámaras de condensación y recogida [2006.01]"
+  },
+  {
+    "code": "F01N 3/04",
+    "description": "••••utilizando líquidos [2006.01]"
+  },
+  {
+    "code": "F01N 3/05",
+    "description": "••••utilizando aire, p. ej. mezclando los gases de escape con aire (silenciadores que trabajan por adición de aire a los gases de escape F01N 1/14; disposiciones para el suministro de aire adicional en la conversión térmica o catalítica de los componentes nocivos de los gases de escape F01N 3/30) [2006.01]"
+  },
+  {
+    "code": "F01N 3/06",
+    "description": "••para eliminar las chispas [2006.01]"
+  },
+  {
+    "code": "F01N 3/08",
+    "description": "••para volverlos inofensivos (utilizando separadores eléctricos o electrostáticos F01N 3/01; aspectos químicos B01D 53/92) [2006.01]"
+  },
+  {
+    "code": "F01N 3/10",
+    "description": "••••por conversión térmica o catalítica de los componentes nocivos del escape [2006.01]"
+  },
+  {
+    "code": "F01N 3/18",
+    "description": "••••••caracterizados por los métodos de operar; Control [2006.01]"
+  },
+  {
+    "code": "F01N 3/20",
+    "description": "••••••••especialmente adaptados para conversión catalítica (F01N 3/22 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F01N 3/22",
+    "description": "••••••••Control del suministro de aire adicional solamente, p. ej. utilizando aire impulsado por bomba en derivación o en forma variable [2006.01]"
+  },
+  {
+    "code": "F01N 3/24",
+    "description": "••••••caracterizados por los aspectos constructivos de los aparatos de conversión (filtración combinada con reactores catalíticos F01N 3/035) [2006.01]"
+  },
+  {
+    "code": "F01N 3/26",
+    "description": "••••••••Estructura de reactores térmicos [2006.01]"
+  },
+  {
+    "code": "F01N 3/28",
+    "description": "••••••••Estructura de reactores catalíticos [2006.01]"
+  },
+  {
+    "code": "F01N 3/30",
+    "description": "••••••••Dispositivos para suministrar aire adicional (control, p. ej. utilizando aire impulsado por bomba en derivación o en forma variable, F01N 3/22) [2006.01]"
+  },
+  {
+    "code": "F01N 3/32",
+    "description": "••••••••••utilizando bombas de aire (utilizando bombas de aire a chorro F01N 3/34; bombas en general F04) [2006.01]"
+  },
+  {
+    "code": "F01N 3/34",
+    "description": "••••••••••utilizando conductos de aire o bombas de aire a chorro, p. ej. cerca de la salida de escape del motor [2006.01]"
+  },
+  {
+    "code": "F01N 3/36",
+    "description": "••••••••Dispositivos para la alimentación de combustible adicional [2006.01]"
+  },
+  {
+    "code": "F01N 3/38",
+    "description": "••••••••Dispositivos de encendido [2006.01]"
+  },
+  {
+    "code": "F01N 5/00",
+    "description": "Silenciadores o aparatos de escape combinados o asociados a dispositivos que aprovechan la energía de los gases de escape (utilización de la energía cinética o vibratoria de los gases de escape para la alimentación F02B; aspectos dominantes de tales dispositivos, ver las clases apropiadas que tratan de estos dispositivos) [2006.01]"
+  },
+  {
+    "code": "F01N 5/02",
+    "description": "••utilizando los dispositivos de calor [2006.01]"
+  },
+  {
+    "code": "F01N 5/04",
+    "description": "••utilizando los dispositivos de energía cinética [2006.01]"
+  },
+  {
+    "code": "F01N 9/00",
+    "description": "Control eléctrico de los aparatos de tratamiento de los gases de escape (dispositivos de control o diagnóstico para los aparatos de tratamiento de gases de escape F01N 11/00; control eléctrico simultáneo de varias funciones de los motores de combustión F02D 43/00) [2006.01]"
+  },
+  {
+    "code": "F01N 11/00",
+    "description": "Dispositivos de control o diagnóstico para los aparatos de tratamiento de gases de escape [2006.01]"
+  },
+  {
+    "code": "F01N 13/00",
+    "description": "Silenciadores o dispositivos de escape caracterizados por aspectos de su estructura [2010.01]"
+  },
+  {
+    "code": "F01N 13/02",
+    "description": "••con varios silenciadores separados dispuestos en serie [2010.01]"
+  },
+  {
+    "code": "F01N 13/04",
+    "description": "••con varios silenciadores dispuestos en paralelo, p. ej. con interconexión de silenciadores para motores multi cilindro [2010.01]"
+  },
+  {
+    "code": "F01N 13/06",
+    "description": "••especialmente adaptados para una disposición de cilindros en estrella, p. ej. colectores de escape [2010.01]"
+  },
+  {
+    "code": "F01N 13/08",
+    "description": "••Otras disposiciones o adaptaciones de conductos de escape [2010.01]"
+  },
+  {
+    "code": "F01N 13/10",
+    "description": "••••de colectores de escape [2010.01]"
+  },
+  {
+    "code": "F01N 13/12",
+    "description": "••especialmente adaptados para escape bajo el agua [2010.01]"
+  },
+  {
+    "code": "F01N 13/14",
+    "description": "••con aislamiento térmico [2010.01]"
+  },
+  {
+    "code": "F01N 13/16",
+    "description": "••Empleo de materiales particulares [2010.01]"
+  },
+  {
+    "code": "F01N 13/18",
+    "description": "••Estructura que facilita la fabricación, el montaje o el desmontaje [2010.01]"
+  },
+  {
+    "code": "F01N 13/20",
+    "description": "••con salidas abocinadas, p. ej. en forma de cola de pez [2010.01]"
+  },
+  {
+    "code": "F01N 99/00",
+    "description": "Materia no prevista en otros grupos de esta subclase [2010.01]"
+  }
+]

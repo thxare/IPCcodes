@@ -1,0 +1,270 @@
+[
+  {
+    "code": "H03J 1/00",
+    "description": "Detalles de disposiciones para la regulación, el accionamiento, la señalización o el control mecánico de circuitos resonantes en general [2006.01]"
+  },
+  {
+    "code": "H03J 1/02",
+    "description": "••Dispositivos indicadores [2006.01]"
+  },
+  {
+    "code": "H03J 1/04",
+    "description": "••••con medios de indicación óptica [2006.01]"
+  },
+  {
+    "code": "H03J 1/06",
+    "description": "••Disposiciones de accionamiento o de ajuste; combinados con otras disposiciones de accionamiento o de ajuste, p. ej. de control de ganancia [2006.01]"
+  },
+  {
+    "code": "H03J 1/08",
+    "description": "••••Accionamiento por ruedas dentadas; Accionamiento por tornillo sinfín [2006.01]"
+  },
+  {
+    "code": "H03J 1/10",
+    "description": "••••Accionamiento por hilo o correa; Accionamiento por cadena [2006.01]"
+  },
+  {
+    "code": "H03J 1/12",
+    "description": "••••Accionamiento por fricción [2006.01]"
+  },
+  {
+    "code": "H03J 1/14",
+    "description": "••••Disposiciones especiales para sintonización fina y sintonización grosera [2006.01]"
+  },
+  {
+    "code": "H03J 1/16",
+    "description": "••••Organos de control únicos que realizan independientemente dos o más funciones [2006.01]"
+  },
+  {
+    "code": "H03J 1/18",
+    "description": "••Control asistido por una energía auxiliar [2006.01]"
+  },
+  {
+    "code": "H03J 1/20",
+    "description": "••••estando la energía auxiliar en servicio tanto tiempo como pasa la corriente de control [2006.01]"
+  },
+  {
+    "code": "H03J 1/22",
+    "description": "••••con disposiciones de parada predeterminadas controladas por impulsos [2006.01]"
+  },
+  {
+    "code": "H03J 3/00",
+    "description": "Sintonización continua (H03J 7/00, H03J 9/00 tienen prioridad; combinación de sintonización continua y discontinua de otra forma que por ensanchamiento de banda H03J 5/00) [2006.01]"
+  },
+  {
+    "code": "H03J 3/02",
+    "description": "••Detalles [2006.01]"
+  },
+  {
+    "code": "H03J 3/04",
+    "description": "••••Disposiciones para compensar las variaciones de los parámetros físicos, p. ej. temperatura [2006.01]"
+  },
+  {
+    "code": "H03J 3/06",
+    "description": "••••Disposiciones para obtener un ancho de banda constante o una ganancia constante en toda la gama o todas las gamas de sintonización [2006.01]"
+  },
+  {
+    "code": "H03J 3/08",
+    "description": "••••••haciendo variar un segundo parámetro simultáneamente con la sintonización, p. ej. acoplamiento en un filtro de bandas [2006.01]"
+  },
+  {
+    "code": "H03J 3/10",
+    "description": "••••Circuitos para sintonización fina, p. ej. ensanche de banda [2006.01]"
+  },
+  {
+    "code": "H03J 3/12",
+    "description": "••••Disposiciones de funcionamiento eléctrico para indicar la sintonización correcta [2006.01]"
+  },
+  {
+    "code": "H03J 3/14",
+    "description": "••••••Indicación visual, p. ej. ojo mágico [2006.01]"
+  },
+  {
+    "code": "H03J 3/16",
+    "description": "••••Sintonización sin desplazamiento del elemento reactivo, p. ej. haciendo variar la permeabilidad [2006.01]"
+  },
+  {
+    "code": "H03J 3/18",
+    "description": "••••••por tubo de descarga o dispositivo de semiconductores simulando una reactancia variable [2006.01]"
+  },
+  {
+    "code": "H03J 3/20",
+    "description": "••de un solo circuito resonante haciendo variar únicamente la inductancia o únicamente la capacidad [2006.01]"
+  },
+  {
+    "code": "H03J 3/22",
+    "description": "••de un solo circuito resonante haciendo variar simultáneamente la inductancia y la capacidad [2006.01]"
+  },
+  {
+    "code": "H03J 3/24",
+    "description": "••de varios circuitos resonantes simultáneamente, estando estos circuitos sintonizados sensiblemente a la misma frecuencia, p. ej. para dispositivos de regulación con un solo botón [2006.01]"
+  },
+  {
+    "code": "H03J 3/26",
+    "description": "••••estando acoplados los circuitos de forma que constituyan un filtro de banda [2006.01]"
+  },
+  {
+    "code": "H03J 3/28",
+    "description": "••de varios circuitos resonantes simultáneamente, conservando las frecuencias de sintonización de estos circuitos una diferencia sensiblemente constante en toda la gama de sintonización [2006.01]"
+  },
+  {
+    "code": "H03J 3/30",
+    "description": "••••Disposiciones para asegurar el barrido por medio de inductancias variables [2006.01]"
+  },
+  {
+    "code": "H03J 3/32",
+    "description": "••••Disposiciones para asegurar el barrido por medio de condensadores variables [2006.01]"
+  },
+  {
+    "code": "H03J 5/00",
+    "description": "Sintonización discontinua; Selección de frecuencias predeterminadas; Selección de bandas de frecuencias con o sin sintonización continua en una o varias de estas bandas, p. ej. sintonización por botón pulsador, sintonizador de barrilete (H03J 7/00, H03J 9/00 tienen prioridad; para ensanche de banda H03J 3/10) [2006.01]"
+  },
+  {
+    "code": "H03J 5/02",
+    "description": "••con elemento de sintonización regulable, teniendo un cierto número de posiciones predeterminadas, y ajustables sobre una cualquiera de estas posiciones [2006.01]"
+  },
+  {
+    "code": "H03J 5/04",
+    "description": "••••de control manual [2006.01]"
+  },
+  {
+    "code": "H03J 5/06",
+    "description": "••••••Posición determinada por una sola graduación, de acción rápida [2006.01]"
+  },
+  {
+    "code": "H03J 5/08",
+    "description": "••••••Posición determinada por un cierto número de órganos de posicionamiento, accionados separadamente [2006.01]"
+  },
+  {
+    "code": "H03J 5/10",
+    "description": "••••••Posición determinada por un cierto número de órganos de posicionamiento montados sobre un soporte común, que es ajustable en las posiciones deseadas, estando un medio de posicionamiento diferente en funcionamiento por cada posición [2006.01]"
+  },
+  {
+    "code": "H03J 5/12",
+    "description": "••••••Posición determinada por un cierto número de órganos de arrastre accionados separadamente, que ajustan el elemento de regulación directamente a las posiciones deseadas [2006.01]"
+  },
+  {
+    "code": "H03J 5/14",
+    "description": "••••accionado por una fuente de energía auxiliar [2006.01]"
+  },
+  {
+    "code": "H03J 5/16",
+    "description": "••••••Posición determinada por un cierto número de órganos de posicionamiento separados accionados manualmente [2006.01]"
+  },
+  {
+    "code": "H03J 5/18",
+    "description": "••••••Posición asegurada por un cierto número de órganos de posicionamiento separados accionados por electroimanes [2006.01]"
+  },
+  {
+    "code": "H03J 5/20",
+    "description": "••••••Posición asegurada por un cierto número de órganos de posicionamiento accionados por un segundo elemento ajustable en diferentes posiciones por la misma o por una segunda fuente de energía auxiliar [2006.01]"
+  },
+  {
+    "code": "H03J 5/22",
+    "description": "••••••Posición asegurada por un cierto número de órganos de arrastre accionados separadamente, que ajustan el elemento de sintonización directamente a las posiciones deseadas [2006.01]"
+  },
+  {
+    "code": "H03J 5/24",
+    "description": "••con un cierto número de circuitos de sintonización presintonizados o de elementos de sintonización separados puestos selectivamente en el circuito, p. ej. para selección de banda o para selección de canal de televisión [2006.01]"
+  },
+  {
+    "code": "H03J 5/26",
+    "description": "••••de mando manual [2006.01]"
+  },
+  {
+    "code": "H03J 5/28",
+    "description": "••••••Circuitos o elementos de sintonización soportados por un órgano giratorio que tienen contactos dispuestos en un plano perpendicular a su eje [2006.01]"
+  },
+  {
+    "code": "H03J 5/30",
+    "description": "••••••Circuitos o elementos de sintonización soportados por órgano giratorio que tiene contactos dispuestos en líneas paralelas a su eje [2006.01]"
+  },
+  {
+    "code": "H03J 5/32",
+    "description": "••••••Circuitos o elementos de sintonización fijos seleccionados por medio de un botón pulsador [2006.01]"
+  },
+  {
+    "code": "H03J 7/00",
+    "description": "Control automático de frecuencia; Exploración automática de una banda de frecuencias [2006.01]"
+  },
+  {
+    "code": "H03J 7/02",
+    "description": "••Control automático de frecuencia (H03J 7/18 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H03J 7/04",
+    "description": "••••en el que el control de frecuencia se realiza haciendo variar las características eléctricas de un elemento ajustable por medios no mecánicos o bien en el que la naturaleza del elemento regulador de frecuencia no es significativo [2006.01]"
+  },
+  {
+    "code": "H03J 7/06",
+    "description": "••••••utilizando contadores o divisores de frecuencia [2006.01]"
+  },
+  {
+    "code": "H03J 7/08",
+    "description": "••••••utilizando varactores, es decir, diodos de capacidad variable con la tensión (H03J 7/06 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H03J 7/10",
+    "description": "••••••••Modificación de la sensibilidad del control automático de frecuencia o linearización de la operación de control automático de frecuencia [2006.01]"
+  },
+  {
+    "code": "H03J 7/12",
+    "description": "••••••••Combinación de la tensión de control automática de frecuencia con la tensión de alimentación estabilizada del varactor [2006.01]"
+  },
+  {
+    "code": "H03J 7/14",
+    "description": "••••••Control del estado magnético del núcleo de inductancias (H03J 7/06 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H03J 7/16",
+    "description": "••••en el que el control de frecuencia se realiza por medios mecánicos, p. ej. por un motor [2006.01]"
+  },
+  {
+    "code": "H03J 7/18",
+    "description": "••Exploración automática de una banda de frecuencias [2006.01]"
+  },
+  {
+    "code": "H03J 7/20",
+    "description": "••••en el que la exploración se realiza haciendo variar las características eléctricas de un elemento ajustable por medios no mecánicos [2006.01]"
+  },
+  {
+    "code": "H03J 7/22",
+    "description": "••••••en el que un circuito de control automático de frecuencia se pone en servicio una vez parada la acción de exploración (H03J 7/24 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H03J 7/24",
+    "description": "••••••utilizando varactores, es decir, diodos de capacidad variable con la tensión (H03J 7/28 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H03J 7/26",
+    "description": "••••••••en el que un circuito de control automático de frecuencia se pone en servicio una vez parada la acción de exploración [2006.01]"
+  },
+  {
+    "code": "H03J 7/28",
+    "description": "••••••utilizando contadores o divisores de frecuencia [2006.01]"
+  },
+  {
+    "code": "H03J 7/30",
+    "description": "••••en el que la exploración se realiza por medios mecánicos, p. ej. por un motor [2006.01]"
+  },
+  {
+    "code": "H03J 7/32",
+    "description": "••••con presentación simultánea de frecuencias recibidas, p. ej. receptores panorámicos [2006.01]"
+  },
+  {
+    "code": "H03J 9/00",
+    "description": "Control a distancia de circuitos sintonizados; Combinación del control a distancia de sintonización y otras funciones, p. ej. de la intensidad luminosa, de la amplificación (disposiciones para el control a distancia mecánico H03J 1/00) [2006.01]"
+  },
+  {
+    "code": "H03J 9/02",
+    "description": "••utilizando una transmisión radio; utilizando una transmisión por campo de proximidad [2006.01]"
+  },
+  {
+    "code": "H03J 9/04",
+    "description": "••utilizando ondas ultrasonoras, sonoras o infrasonoras [2006.01]"
+  },
+  {
+    "code": "H03J 9/06",
+    "description": "••utilizando ondas electromagnéticas distintas de las ondas radio, p. ej. de la luz [2006.01]"
+  }
+]

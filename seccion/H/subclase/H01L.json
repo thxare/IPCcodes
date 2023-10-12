@@ -1,0 +1,2566 @@
+[
+  {
+    "code": "H01L 21/00",
+    "description": "Procedimientos o aparatos especialmente adaptados para la fabricación o el tratamiento de dispositivos semiconductores o de dispositivos de estado sólido, o bien de sus partes constitutivas [2006.01]"
+  },
+  {
+    "code": "H01L 21/02",
+    "description": "••Fabricación o tratamiento de dispositivos semiconductores o de sus partes constitutivas [2006.01]"
+  },
+  {
+    "code": "H01L 21/027",
+    "description": "••••Fabricación de máscaras sobre cuerpos semiconductores para tratamiento fotolitográfico ulterior, no prevista en el grupo H01L 21/18o H01L 21/34 [2006.01]"
+  },
+  {
+    "code": "H01L 21/033",
+    "description": "••••••incluyendo capas inorgánicas [2006.01]"
+  },
+  {
+    "code": "H01L 21/04",
+    "description": "••••los dispositivos presentan al menos una barrera de potencial o una barrera de superficie, p. ej. una unión PN, una región de empobrecimiento, o una región de concentración de portadores de cargas [2006.01]"
+  },
+  {
+    "code": "H01L 21/06",
+    "description": "••••••los dispositivos tienen cuerpos semiconductores que incluyen selenio o teluro, en forma no combinada, no constituyendo impurezas para los cuerpos semiconductores de otros materiales [2006.01]"
+  },
+  {
+    "code": "H01L 21/08",
+    "description": "••••••••Preparación de la placa de soporte [2006.01]"
+  },
+  {
+    "code": "H01L 21/10",
+    "description": "••••••••Tratamiento preliminar del selenio o del teluro, aplicación sobre la placa de soporte, o tratamiento subsiguiente del conjunto [2006.01]"
+  },
+  {
+    "code": "H01L 21/103",
+    "description": "••••••••••Conversión del selenio o del teluro al estado conductor [2006.01]"
+  },
+  {
+    "code": "H01L 21/105",
+    "description": "••••••••••Tratamiento de la superficie de la capa de selenio o de teluro después de la conversión al estado conductor [2006.01]"
+  },
+  {
+    "code": "H01L 21/108",
+    "description": "••••••••••Producción de capas aislantes discretas, es decir, barreras de superficie no activas [2006.01]"
+  },
+  {
+    "code": "H01L 21/12",
+    "description": "••••••••Aplicación de un electrodo a la superficie libre del selenio o del teluro, después de la aplicación del selenio o del teluro a la placa de soporte [2006.01]"
+  },
+  {
+    "code": "H01L 21/14",
+    "description": "••••••••Tratamiento del dispositivo completo, p. ej. por electromoldeo para formar una barrera [2006.01]"
+  },
+  {
+    "code": "H01L 21/145",
+    "description": "••••••••••Envejecimiento [2006.01]"
+  },
+  {
+    "code": "H01L 21/16",
+    "description": "••••••los dispositivos tienen cuerpos semiconductores que incluyen óxido cuproso o ioduro cuproso [2006.01]"
+  },
+  {
+    "code": "H01L 21/18",
+    "description": "••••••los dispositivos tienen cuerpos semiconductores que incluyen elementos del Grupo IV de la Tabla Periódica, o de compuestos AIIIBVcon o sin impurezas, p. ej. materiales de dopado [2006.01]"
+  },
+  {
+    "code": "H01L 21/20",
+    "description": "••••••••Depósito de materiales semiconductores sobre un sustrato, p. ej. crecimiento epitaxial [2006.01]"
+  },
+  {
+    "code": "H01L 21/203",
+    "description": "••••••••••utilizando un depósito físico, p. ej. depósito en vacío, pulverización [2006.01]"
+  },
+  {
+    "code": "H01L 21/205",
+    "description": "••••••••••utilizando la reducción o la descomposición de un compuesto gaseoso dando un condensado sólido, es decir, un depósito químico [2006.01]"
+  },
+  {
+    "code": "H01L 21/208",
+    "description": "••••••••••utilizando un depósito líquido [2006.01]"
+  },
+  {
+    "code": "H01L 21/22",
+    "description": "••••••••Difusión de impurezas, p. ej. materiales de dopado, materiales para electrodos, en el interior o fuera del cuerpo semiconductor, o entre las regiones semiconductoras; Redistribución de las impurezas, p. ej. sin introducción o sin eliminación de dopante suplementario [2006.01]"
+  },
+  {
+    "code": "H01L 21/223",
+    "description": "••••••••••utilizando la difusión en o fuera de un sólido a partir de o en una fase gaseosa [2006.01]"
+  },
+  {
+    "code": "H01L 21/225",
+    "description": "••••••••••utilizando la difusión en o fuera de un sólido a partir de o en una fase sólida, p. ej. una capa de óxido dopada [2006.01]"
+  },
+  {
+    "code": "H01L 21/228",
+    "description": "••••••••••utilizando la difusión en o fuera de un sólido, a partir de o en una fase líquida, p. ej. procesos de difusión de aleación [2006.01]"
+  },
+  {
+    "code": "H01L 21/24",
+    "description": "••••••••Formación de aleaciones de impurezas, p. ej. materiales de dopado, materiales para electrodos, con un cuerpo semiconductor [2006.01]"
+  },
+  {
+    "code": "H01L 21/26",
+    "description": "••••••••Bombardeo con radiación ondulatoria o de partículas [2006.01]"
+  },
+  {
+    "code": "H01L 21/261",
+    "description": "••••••••••para producir una reacción nuclear que transmute elementos químicos [2006.01]"
+  },
+  {
+    "code": "H01L 21/263",
+    "description": "••••••••••con radiaciones de alta energía (H01L 21/261 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01L 21/265",
+    "description": "••••••••••••produciendo una implantación de iones [2006.01]"
+  },
+  {
+    "code": "H01L 21/266",
+    "description": "••••••••••••••utilizando máscaras [2006.01]"
+  },
+  {
+    "code": "H01L 21/268",
+    "description": "••••••••••••utilizando radiaciones electromagnéticas, p. ej. rayos láser [2006.01]"
+  },
+  {
+    "code": "H01L 21/28",
+    "description": "••••••••Fabricación de electrodos sobre los cuerpos semiconductores por empleo de procesos o aparatos no cubiertos por los grupos H01L 21/20-H01L 21/268 [2006.01]"
+  },
+  {
+    "code": "H01L 21/283",
+    "description": "••••••••••Depósito de materiales conductores o aislantes para los electrodos [2006.01]"
+  },
+  {
+    "code": "H01L 21/285",
+    "description": "••••••••••••a partir de un gas o vapor, p. ej. condensación [2006.01]"
+  },
+  {
+    "code": "H01L 21/288",
+    "description": "••••••••••••a partir de un líquido, p. ej. depósito electrolítico [2006.01]"
+  },
+  {
+    "code": "H01L 21/30",
+    "description": "••••••••Tratamiento de cuerpos semiconductores utilizando procesos o aparatos no cubiertos por los grupos H01L 21/20-H01L 21/26 (fabricación de electrodos sobre estos cuerpos H01L 21/28) [2006.01]"
+  },
+  {
+    "code": "H01L 21/301",
+    "description": "••••••••••para subdividir un cuerpo semiconductor en partes separadas, p. ej. realizando particiones (corte H01L 21/304) [2006.01]"
+  },
+  {
+    "code": "H01L 21/302",
+    "description": "••••••••••para cambiar las características físicas de sus superficies o para cambiar su forma, p. ej. grabado, pulido, recortado [2006.01]"
+  },
+  {
+    "code": "H01L 21/304",
+    "description": "••••••••••••Tratamiento mecánico, p. ej. trituración, pulido, corte [2006.01]"
+  },
+  {
+    "code": "H01L 21/306",
+    "description": "••••••••••••Tratamiento químico o eléctrico, p. ej. grabación electrolítica (para formar capas aislantes H01L 21/31; postratamiento de capas aislantes H01L 21/3105) [2006.01]"
+  },
+  {
+    "code": "H01L 21/3063",
+    "description": "••••••••••••••Grabado electrolítico [2006.01]"
+  },
+  {
+    "code": "H01L 21/3065",
+    "description": "••••••••••••••Grabado por plasma; Grabado mediante iones reactivos [2006.01]"
+  },
+  {
+    "code": "H01L 21/308",
+    "description": "••••••••••••••utilizando máscaras (H01L 21/3063, H01L 21/3065, tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H01L 21/31",
+    "description": "••••••••••para formar capas aislantes en superficie, p. ej. para enmascarar o utilizando técnicas fotolitográficas (capas de encapsulamiento H01L 21/56); Postratamiento de estas capas; Selección de materiales para estas capas [2006.01]"
+  },
+  {
+    "code": "H01L 21/3105",
+    "description": "••••••••••••Postratamiento [2006.01]"
+  },
+  {
+    "code": "H01L 21/311",
+    "description": "••••••••••••••Grabado de las capas aislantes [2006.01]"
+  },
+  {
+    "code": "H01L 21/3115",
+    "description": "••••••••••••••Dopado de las capas aislantes [2006.01]"
+  },
+  {
+    "code": "H01L 21/312",
+    "description": "••••••••••••Capas orgánicas, p. ej. capa fotosensible (H01L 21/3105, H01L 21/32 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H01L 21/314",
+    "description": "••••••••••••Capas inorgánicas (H01L 21/3105, H01L 21/32 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H01L 21/316",
+    "description": "••••••••••••••compuestas de óxidos o de óxidos vítreos o de vidrios a base de óxido [2006.01]"
+  },
+  {
+    "code": "H01L 21/318",
+    "description": "••••••••••••••compuestas de nitruros [2006.01]"
+  },
+  {
+    "code": "H01L 21/32",
+    "description": "••••••••••••utilizando máscaras [2006.01]"
+  },
+  {
+    "code": "H01L 21/3205",
+    "description": "••••••••••••Depósito de capas no aislantes, p. ej. conductoras o resistivas, sobre capas aislantes; Postratamiento de esas capas (fabricación de electrodos H01L 21/28) [2006.01]"
+  },
+  {
+    "code": "H01L 21/321",
+    "description": "••••••••••••••Postratamiento [2006.01]"
+  },
+  {
+    "code": "H01L 21/3213",
+    "description": "••••••••••••••••Grabado físico o químico de las capas, p. ej. para producir una capa con una configuración determinada a partir de una capa extendida predepositada [2006.01]"
+  },
+  {
+    "code": "H01L 21/3215",
+    "description": "••••••••••••••••Dopado de las capas [2006.01]"
+  },
+  {
+    "code": "H01L 21/322",
+    "description": "••••••••••para modificar sus propiedades internas, p. ej. para producir defectos internos [2006.01]"
+  },
+  {
+    "code": "H01L 21/324",
+    "description": "••••••••••Tratamiento térmico para modificar las propiedades de los cuerpos semiconductores, p. ej. recocido, sinterización (H01L 21/20-H01L 21/288,  H01L 21/302-H01L 21/322 tienen preferencia) [2006.01]"
+  },
+  {
+    "code": "H01L 21/326",
+    "description": "••••••••••Aplicación de corrientes o de campos eléctricos, p. ej. para electromoldeo (H01L 21/20-H01L 21/288, H01L 21/302-H01L 21/324 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H01L 21/328",
+    "description": "••••••••Procedimientos que comportan varias etapas para la fabricación de dispositivos de tipo bipolar, p. ej. diodos, transistores, tiristores [2006.01]"
+  },
+  {
+    "code": "H01L 21/329",
+    "description": "••••••••••teniendo los dispositivos uno o dos electrodos, p. ej. diodos [2006.01]"
+  },
+  {
+    "code": "H01L 21/33",
+    "description": "••••••••••teniendo los dispositivos tres o más electrodos [2006.01]"
+  },
+  {
+    "code": "H01L 21/331",
+    "description": "••••••••••••Transistores [2006.01]"
+  },
+  {
+    "code": "H01L 21/332",
+    "description": "••••••••••••Tiristores [2006.01]"
+  },
+  {
+    "code": "H01L 21/334",
+    "description": "••••••••Procedimientos que comportan varias etapas para la fabricación de dispositivos de tipo unipolar [2006.01]"
+  },
+  {
+    "code": "H01L 21/335",
+    "description": "••••••••••Transistores de efecto de campo [2006.01]"
+  },
+  {
+    "code": "H01L 21/336",
+    "description": "••••••••••••con puerta aislada [2006.01]"
+  },
+  {
+    "code": "H01L 21/337",
+    "description": "••••••••••••con unión PN [2006.01]"
+  },
+  {
+    "code": "H01L 21/338",
+    "description": "••••••••••••con puerta Schottky [2006.01]"
+  },
+  {
+    "code": "H01L 21/339",
+    "description": "••••••••••Dispositivos de transferencia de carga [2006.01]"
+  },
+  {
+    "code": "H01L 21/34",
+    "description": "••••••los dispositivos tienen cuerpos semiconductores no cubiertos por los grupos H01L 21/06, H01L 21/16, y H01L 21/18con o sin impurezas, p. ej. material de dopado [2006.01]"
+  },
+  {
+    "code": "H01L 21/36",
+    "description": "••••••••Depósito de materiales semiconductores sobre un sustrato, p. ej. crecimiento epitaxial [2006.01]"
+  },
+  {
+    "code": "H01L 21/363",
+    "description": "••••••••••utilizando un depósito físico, p. ej. depósito bajo vacío, pulverización [2006.01]"
+  },
+  {
+    "code": "H01L 21/365",
+    "description": "••••••••••utilizando la reducción o la descomposición de un compuesto gaseoso que dan un condensado sólido, es decir, un depósito químico [2006.01]"
+  },
+  {
+    "code": "H01L 21/368",
+    "description": "••••••••••utilizando un depósito líquido [2006.01]"
+  },
+  {
+    "code": "H01L 21/38",
+    "description": "••••••••Difusión de impurezas, p. ej. materiales de dopado, materiales para electrodos, en o fuera del cuerpo semiconductor, o entre las regiones semiconductoras [2006.01]"
+  },
+  {
+    "code": "H01L 21/383",
+    "description": "••••••••••utilizando la difusión en o fuera de un sólido, a partir de o en una fase gaseosa [2006.01]"
+  },
+  {
+    "code": "H01L 21/385",
+    "description": "••••••••••utilizando la difusión en o fuera de un sólido, a partir de o en una fase sólida, p. ej. una capa de óxido dopada [2006.01]"
+  },
+  {
+    "code": "H01L 21/388",
+    "description": "••••••••••utilizando la difusión en o fuera de un sólido, a partir de o en una fase líquida, p. ej. procesos de difusión de aleación [2006.01]"
+  },
+  {
+    "code": "H01L 21/40",
+    "description": "••••••••Formación de aleaciones de impurezas, p. ej. de los materiales de dopado, de los materiales para electrodos, con un cuerpo semiconductor [2006.01]"
+  },
+  {
+    "code": "H01L 21/42",
+    "description": "••••••••Bombardeo por radiaciones [2006.01]"
+  },
+  {
+    "code": "H01L 21/423",
+    "description": "••••••••••por radiaciones de energía elevada [2006.01]"
+  },
+  {
+    "code": "H01L 21/425",
+    "description": "••••••••••••que producen una implantación de iones [2006.01]"
+  },
+  {
+    "code": "H01L 21/426",
+    "description": "••••••••••••••utilizando máscaras [2006.01]"
+  },
+  {
+    "code": "H01L 21/428",
+    "description": "••••••••••••utilizando radiaciones electromagnéticas, p. ej. rayos láser [2006.01]"
+  },
+  {
+    "code": "H01L 21/44",
+    "description": "••••••••Fabricación de electrodos sobre los cuerpos semiconductores por empleo de procesos o aparatos no cubiertos por los grupos H01L 21/36-H01L 21/428 [2006.01]"
+  },
+  {
+    "code": "H01L 21/441",
+    "description": "••••••••••Depósito de materiales conductores o aislantes para los electrodos [2006.01]"
+  },
+  {
+    "code": "H01L 21/443",
+    "description": "••••••••••••a partir de un gas o vapor, p. ej. condensación [2006.01]"
+  },
+  {
+    "code": "H01L 21/445",
+    "description": "••••••••••••a partir de un líquido, p. ej. depósito electrolítico [2006.01]"
+  },
+  {
+    "code": "H01L 21/447",
+    "description": "••••••••••que implican la aplicación de una presión, p. ej. soldadura por termocompresión (H01L 21/607 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01L 21/449",
+    "description": "••••••••••que implican la aplicación de vibraciones mecánicas, p. ej. vibraciones ultrasónicas [2006.01]"
+  },
+  {
+    "code": "H01L 21/46",
+    "description": "••••••••Tratamiento de cuerpos semiconductores utilizando procesos o aparatos no cubiertos por los grupos H01L 21/36-H01L 21/428 (fabricación de electrodos sobre estos cuerpos H01L 21/44) [2006.01]"
+  },
+  {
+    "code": "H01L 21/461",
+    "description": "••••••••••para cambiar las características físicas o la forma de su superficie, p. ej. grabado, pulido, recortado [2006.01]"
+  },
+  {
+    "code": "H01L 21/463",
+    "description": "••••••••••••Tratamiento mecánico, p. ej. trituración, tratamiento por ultrasonidos [2006.01]"
+  },
+  {
+    "code": "H01L 21/465",
+    "description": "••••••••••••Tratamiento químico o eléctrico, p. ej. grabado electrolítico (para formar capas aislantes H01L 21/469) [2006.01]"
+  },
+  {
+    "code": "H01L 21/467",
+    "description": "••••••••••••••utilizando máscaras [2006.01]"
+  },
+  {
+    "code": "H01L 21/469",
+    "description": "••••••••••••para formar las capas aislantes sobre los cuerpos, p. ej. para enmascarar o que utilizan técnicas fotolitográficas (capas de encapsulación H01L 21/56); Postratamiento de esas capas [2006.01]"
+  },
+  {
+    "code": "H01L 21/47",
+    "description": "••••••••••••••Capas orgánicas, p. ej. capa fotosensible (H01L 21/475, H01L 21/4757 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H01L 21/471",
+    "description": "••••••••••••••Capas inorgánicas (H01L 21/475, H01L 21/4757 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H01L 21/473",
+    "description": "••••••••••••••••compuestas de óxido, óxidos vítreos o de cristales a base de óxido [2006.01]"
+  },
+  {
+    "code": "H01L 21/475",
+    "description": "••••••••••••••utilizando máscaras [2006.01]"
+  },
+  {
+    "code": "H01L 21/4757",
+    "description": "••••••••••••••Postratamiento [2006.01]"
+  },
+  {
+    "code": "H01L 21/4763",
+    "description": "••••••••••••Depósito de capas no aislantes, p. ej. conductoras, resistivas sobre capas aislantes; Postratamiento de esas capas (fabricación de electrodos H01L 21/28) [2006.01]"
+  },
+  {
+    "code": "H01L 21/477",
+    "description": "••••••••••Tratamiento térmico para modificar las propiedades de los cuerpos semiconductores, p. ej. recocido, sinterización (H01L 21/36-H01L 21/449, H01L 21/461-H01L 21/475 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H01L 21/479",
+    "description": "••••••••••Aplicación de corrientes o de campos eléctricos, p. ej. para electromoldeo (H01L 21/36-H01L 21/449, H01L 21/461-H01L 21/477 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H01L 21/48",
+    "description": "••••••Fabricación o tratamiento de partes, p. ej. de contenedores, antes del ensamblado de los dispositivos, utilizando procedimientos no cubiertos por un único grupo de H01L 21/06-H01L 21/326 [2006.01]"
+  },
+  {
+    "code": "H01L 21/50",
+    "description": "••••••Ensamblaje de dispositivos semiconductores utilizando procesos o aparatos no cubiertos por un único grupo de H01L 21/06-H01L 21/326 [2006.01]"
+  },
+  {
+    "code": "H01L 21/52",
+    "description": "••••••••Montaje de cuerpos semiconductores en los contenedores [2006.01]"
+  },
+  {
+    "code": "H01L 21/54",
+    "description": "••••••••Rellenado de contenedores, p. ej. rellenado gaseoso [2006.01]"
+  },
+  {
+    "code": "H01L 21/56",
+    "description": "••••••••Encapsulación, p. ej. capas de encapsulado, revestimientos [2006.01]"
+  },
+  {
+    "code": "H01L 21/58",
+    "description": "••••••••Montaje de los dispositivos semiconductores sobre los soportes [2006.01]"
+  },
+  {
+    "code": "H01L 21/60",
+    "description": "••••••••Fijación de hilos de conexión o de otras piezas conductoras, para conducir la corriente hacia o desde el dispositivo durante su funcionamiento [2006.01]"
+  },
+  {
+    "code": "H01L 21/603",
+    "description": "••••••••••implicando la aplicación de una presión, p. ej. soldadura por termocompresión (H01L 21/607 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01L 21/607",
+    "description": "••••••••••implicando la aplicación de vibraciones mecánicas, p. ej. vibraciones ultrasónicas [2006.01]"
+  },
+  {
+    "code": "H01L 21/62",
+    "description": "••••los dispositivos no tienen barrera de potencial ni de superficie [2006.01]"
+  },
+  {
+    "code": "H01L 21/64",
+    "description": "••Fabricación o tratamiento de dispositivos de estado sólido diferentes de los dispositivos de semiconductores, o de sus partes constitutivas, por métodos no concebidos especialmente para uno de los dispositivos cubiertos por los grupos H01L 31/00-H01L 33/00 o por las subclases H10K, H10N [2006.01]"
+  },
+  {
+    "code": "H01L 21/66",
+    "description": "••Ensayos o medidas durante la fabricación o tratamiento [2006.01]"
+  },
+  {
+    "code": "H01L 21/67",
+    "description": "••Aparatos especialmente adaptados para el manejo de dispositivos semiconductores o eléctricos de estado sólido durante su fabricación o tratamiento; Aparatos especialmente adaptados para el manejo de obleas durante la fabricación o tratamiento de dispositivos o componentes semiconductores o eléctricos de estado sólido [2006.01]"
+  },
+  {
+    "code": "H01L 21/673",
+    "description": "••••que utilizan portadores especialmente adaptados [2006.01]"
+  },
+  {
+    "code": "H01L 21/677",
+    "description": "••••para el transporte, p. ej. entre diferentes estaciones de trabajo [2006.01]"
+  },
+  {
+    "code": "H01L 21/68",
+    "description": "••••para el posicionado, orientación o alineación [2006.01]"
+  },
+  {
+    "code": "H01L 21/683",
+    "description": "••••para sostener o sujetar (para el posicionado, orientación o alineación H01L 21/68) [2006.01]"
+  },
+  {
+    "code": "H01L 21/687",
+    "description": "••••••que utilizan medios mecánicos, p. ej. mandiles, abrazaderas o pinzas [2006.01]"
+  },
+  {
+    "code": "H01L 21/70",
+    "description": "••Fabricación o tratamiento de dispositivos que consisten en una pluralidad de componentes de estado sólido o de circuitos integrados formados en o sobre un sustrato común, o de partes constitutivas específicas de éstos; Fabricación de dispositivos de circuito integrado o de partes constitutivas específicas de éstos (fabricación de conjuntos de componentes eléctricos prefabricados H05K 3/00, H05K 13/00) [2006.01]"
+  },
+  {
+    "code": "H01L 21/71",
+    "description": "••••Fabricación de partes constitutivas específicas de dispositivos definidos en el grupo H01L 21/70 (H01L 21/28, H01L 21/44, H01L 21/48 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H01L 21/74",
+    "description": "••••••Realización de regiones profundas de alta concentración de impurezas, p. ej. capas colectoras profundas, conexiones internas [2006.01]"
+  },
+  {
+    "code": "H01L 21/76",
+    "description": "••••••Realización de regiones aislantes entre los componentes [2006.01]"
+  },
+  {
+    "code": "H01L 21/761",
+    "description": "••••••••Uniones PN [2006.01]"
+  },
+  {
+    "code": "H01L 21/762",
+    "description": "••••••••Regiones dieléctricas [2006.01]"
+  },
+  {
+    "code": "H01L 21/763",
+    "description": "••••••••Regiones semiconductoras policristalinas [2006.01]"
+  },
+  {
+    "code": "H01L 21/764",
+    "description": "••••••••Espacios de aire [2006.01]"
+  },
+  {
+    "code": "H01L 21/765",
+    "description": "••••••••por efecto de campo [2006.01]"
+  },
+  {
+    "code": "H01L 21/768",
+    "description": "••••••Fijación de interconexiones que sirvan para conducir la corriente entre componentes separados en el interior de un dispositivo [2006.01]"
+  },
+  {
+    "code": "H01L 21/77",
+    "description": "••••Fabricación o tratamiento de dispositivos que consisten en una pluralidad de componentes de estado sólido o circuitos integrados formados en o sobre un sustrato común (fabricación o tratamiento de dispositivos de memoria electrónica H10B) [2017.01]"
+  },
+  {
+    "code": "H01L 21/78",
+    "description": "••••••con una división ulterior del sustrato en una pluralidad de componentes individuales (corte para cambiar las características físicas de superficie o la forma de los cuerpos semiconductores H01L 21/304) [2006.01]"
+  },
+  {
+    "code": "H01L 21/782",
+    "description": "••••••••para producir dispositivos que consisten cada uno en un solo elemento de circuito (H01L 21/82 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01L 21/784",
+    "description": "••••••••••siendo el sustrato un cuerpo semiconductor [2006.01]"
+  },
+  {
+    "code": "H01L 21/786",
+    "description": "••••••••••siendo el substrato distinto de un cuerpo semiconductor, p. ej. un cuerpo aislante [2006.01]"
+  },
+  {
+    "code": "H01L 21/82",
+    "description": "••••••••para producir dispositivos, p. ej. circuitos integrados que consisten cada uno en una pluralidad de componentes [2006.01]"
+  },
+  {
+    "code": "H01L 21/822",
+    "description": "••••••••••siendo el sustrato un semiconductor, utilizando tecnología de silicio (H01L 21/8258 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01L 21/8222",
+    "description": "••••••••••••Tecnología bipolar [2006.01]"
+  },
+  {
+    "code": "H01L 21/8224",
+    "description": "••••••••••••••que comprende una combinación de transistores verticales y laterales [2006.01]"
+  },
+  {
+    "code": "H01L 21/8226",
+    "description": "••••••••••••••que comprende una lógica de transistores fusionados o una lógica de inyección integrada [2006.01]"
+  },
+  {
+    "code": "H01L 21/8228",
+    "description": "••••••••••••••Dispositivos complementarios, p. ej. transistores complementarios [2006.01]"
+  },
+  {
+    "code": "H01L 21/8229",
+    "description": ""
+  },
+  {
+    "code": "H01L 21/8232",
+    "description": "••••••••••••Tecnología de efecto de campo [2006.01]"
+  },
+  {
+    "code": "H01L 21/8234",
+    "description": "••••••••••••••Tecnología MIS [2006.01]"
+  },
+  {
+    "code": "H01L 21/8236",
+    "description": "••••••••••••••••Combinación de transistores de enriquecimiento y transistores de empobrecimiento [2006.01]"
+  },
+  {
+    "code": "H01L 21/8238",
+    "description": "••••••••••••••••Transistores de efecto de campo complementarios, p. ej. CMOS [2006.01]"
+  },
+  {
+    "code": "H01L 21/8239",
+    "description": ""
+  },
+  {
+    "code": "H01L 21/8242",
+    "description": ""
+  },
+  {
+    "code": "H01L 21/8244",
+    "description": ""
+  },
+  {
+    "code": "H01L 21/8246",
+    "description": ""
+  },
+  {
+    "code": "H01L 21/8248",
+    "description": "••••••••••••Combinación de tecnología bipolar y tecnología de efecto de campo [2006.01]"
+  },
+  {
+    "code": "H01L 21/8249",
+    "description": "••••••••••••••Tecnología bipolar y MOS [2006.01]"
+  },
+  {
+    "code": "H01L 21/8252",
+    "description": "••••••••••siendo el sustrato un semiconductor, utilizando tecnología III-V (H01L 21/8258 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01L 21/8254",
+    "description": "••••••••••siendo el sustrato un semiconductor, utilizando tecnología II-IV (H01L 21/8258 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01L 21/8256",
+    "description": "••••••••••siendo el sustrato un semiconductor, utilizando tecnologías no cubiertas por uno de los grupos H01L 21/822, H01L 21/8252o H01L 21/8254 (H01L 21/8258 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01L 21/8258",
+    "description": "••••••••••siendo el sustrato un semiconductor, utilizando una combinación de tecnologías cubiertas por los grupos H01L 21/822, H01L 21/8252, H01L 21/8254o H01L 21/8256 [2006.01]"
+  },
+  {
+    "code": "H01L 21/84",
+    "description": "••••••••••siendo el sustrato diferente a un cuerpo semiconductor, p. ej. un cuerpo aislante [2006.01]"
+  },
+  {
+    "code": "H01L 21/86",
+    "description": "••••••••••••siendo el cuerpo aislante de zafiro, p. ej. silicio sobre una estructura de zafiro, es decir, S.O.S. [2006.01]"
+  },
+  {
+    "code": "H01L 21/98",
+    "description": "••••Ensamblaje de dispositivos que consisten en componentes de estado sólido formados en o sobre un sustrato común; Ensamblaje de dispositivos de circuito integrado (H01L 21/50 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01L 23/00",
+    "description": "Detalles de dispositivos semiconductores o de otros dispositivos de estado sólido (H01L 25/00 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01L 23/02",
+    "description": "••Contenedores; Sellado (H01L 23/12, H01L 23/34, H01L 23/48, H01L 23/552 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H01L 23/04",
+    "description": "••••caracterizados por la forma [2006.01]"
+  },
+  {
+    "code": "H01L 23/043",
+    "description": "••••••siendo el contenedor una estructura vacía con una base conductora que sirve de soporte y al mismo tiempo de conexión eléctrica para el cuerpo semiconductor [2006.01]"
+  },
+  {
+    "code": "H01L 23/045",
+    "description": "••••••••teniendo las otras conexiones un paso aislado a través de la base [2006.01]"
+  },
+  {
+    "code": "H01L 23/047",
+    "description": "••••••••siendo las otras conexiones paralelas a la base [2006.01]"
+  },
+  {
+    "code": "H01L 23/049",
+    "description": "••••••••siendo las otras conexiones perpendiculares a la base [2006.01]"
+  },
+  {
+    "code": "H01L 23/051",
+    "description": "••••••••estando constituida otra conexión por la cubierta paralela a la base, p. ej. de tipo \"sandwich\" [2006.01]"
+  },
+  {
+    "code": "H01L 23/053",
+    "description": "••••••siendo el contenedor una estructura vacía con una base aislante que sirve de soporte para el cuerpo semiconductor [2006.01]"
+  },
+  {
+    "code": "H01L 23/055",
+    "description": "••••••••teniendo las conexiones un paso a través de la base [2006.01]"
+  },
+  {
+    "code": "H01L 23/057",
+    "description": "••••••••siendo las conexiones paralelas a la base [2006.01]"
+  },
+  {
+    "code": "H01L 23/06",
+    "description": "••••caracterizados por el material del contenedor o por sus propiedades eléctricas [2006.01]"
+  },
+  {
+    "code": "H01L 23/08",
+    "description": "••••••siendo el material un cuerpo eléctricamente aislante , p. ej. vidrio [2006.01]"
+  },
+  {
+    "code": "H01L 23/10",
+    "description": "••••caracterizados por el material o por la disposición de los sellados entre las partes, p. ej. entre la cubierta y la base o entre las conexiones y las paredes del contenedor [2006.01]"
+  },
+  {
+    "code": "H01L 23/12",
+    "description": "••Soportes, p. ej. sustratos aislantes no amovibles [2006.01]"
+  },
+  {
+    "code": "H01L 23/13",
+    "description": "••••caracterizados por su forma [2006.01]"
+  },
+  {
+    "code": "H01L 23/14",
+    "description": "••••caracterizados por el material o por sus propiedades eléctricas [2006.01]"
+  },
+  {
+    "code": "H01L 23/15",
+    "description": "••••••Sustratos en cerámica o en vidrio [2006.01]"
+  },
+  {
+    "code": "H01L 23/16",
+    "description": "••Materiales de relleno o piezas auxiliares en el contenedor, p. ej. anillos de centrado (H01L 23/42, H01L 23/552 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H01L 23/18",
+    "description": "••••Materiales de relleno caracterizados por el material o por sus propiedades físicas o químicas, o por su disposición en el interior del dispositivo completo [2006.01]"
+  },
+  {
+    "code": "H01L 23/20",
+    "description": "••••••gaseosos a la temperatura normal de funcionamiento del dispositivo [2006.01]"
+  },
+  {
+    "code": "H01L 23/22",
+    "description": "••••••líquidos a la temperatura normal de funcionamiento del dispositivo [2006.01]"
+  },
+  {
+    "code": "H01L 23/24",
+    "description": "••••••sólidos o en estado de gel, a la temperatura normal del funcionamiento del dispositivo [2006.01]"
+  },
+  {
+    "code": "H01L 23/26",
+    "description": "••••••incluyendo materiales destinados a absorber o a reaccionar con la humedad u otras sustancias indeseables [2006.01]"
+  },
+  {
+    "code": "H01L 23/28",
+    "description": "••Encapsulados, p. ej. capas de encapsulado, revestimientos (H01L 23/552 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01L 23/29",
+    "description": "••••caracterizados por el material [2006.01]"
+  },
+  {
+    "code": "H01L 23/31",
+    "description": "••••caracterizados por su disposición [2006.01]"
+  },
+  {
+    "code": "H01L 23/32",
+    "description": "••Soportes para mantener el dispositivo completo durante su funcionamiento, es decir, elementos portantes amovibles (H01L 23/40 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01L 23/34",
+    "description": "••Disposiciones para la refrigeración, el calentamiento, la ventilación o la compensación de la temperatura [2006.01]"
+  },
+  {
+    "code": "H01L 23/36",
+    "description": "••••Selección de materiales, o su forma, para facilitar la refrigeración o el calentamiento, p. ej. disipadores de calor [2006.01]"
+  },
+  {
+    "code": "H01L 23/367",
+    "description": "••••••Refrigeración facilitada por la forma del dispositivo [2006.01]"
+  },
+  {
+    "code": "H01L 23/373",
+    "description": "••••••Refrigeración facilitada por el empleo de materiales particulares para el dispositivo [2006.01]"
+  },
+  {
+    "code": "H01L 23/38",
+    "description": "••••Dispositivos de refrigeración que utilizan el efecto Peltier [2006.01]"
+  },
+  {
+    "code": "H01L 23/40",
+    "description": "••••Soportes o medios de fijación para los dispositivos de refrigeración o calentamiento amovibles [2006.01]"
+  },
+  {
+    "code": "H01L 23/42",
+    "description": "••••Elección o disposición de materiales de relleno o de piezas auxiliares en el contenedor para facilitar el calentamiento o la refrigeración [2006.01]"
+  },
+  {
+    "code": "H01L 23/427",
+    "description": "••••••Refrigeración por cambio de estado, p. ej. uso de tubos caloríficos [2006.01]"
+  },
+  {
+    "code": "H01L 23/433",
+    "description": "••••••Piezas auxiliares caracterizadas por su forma, p. ej. pistones [2006.01]"
+  },
+  {
+    "code": "H01L 23/44",
+    "description": "••••estando el dispositivo completo totalmente sumergido en un fluido diferente al aire (H01L 23/427 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01L 23/46",
+    "description": "••••implicando la transferencia de calor por fluidos en circulación (H01L 23/42, H01L 23/44 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H01L 23/467",
+    "description": "••••••por circulación de gas, p. ej. aire [2006.01]"
+  },
+  {
+    "code": "H01L 23/473",
+    "description": "••••••por circulación de líquidos [2006.01]"
+  },
+  {
+    "code": "H01L 23/48",
+    "description": "••Disposiciones para conducir la corriente eléctrica hacia o desde el cuerpo de estado sólido durante su funcionamiento, p. ej. hilos de conexión o bornes [2006.01]"
+  },
+  {
+    "code": "H01L 23/482",
+    "description": "••••formadas por capas conductoras inseparables del cuerpo semiconductor sobre el que han sido depositadas [2006.01]"
+  },
+  {
+    "code": "H01L 23/485",
+    "description": "••••••formadas por estructuras laminares que comprenden capas conductoras y aislantes, p. ej. contactos planares [2006.01]"
+  },
+  {
+    "code": "H01L 23/488",
+    "description": "••••formadas por estructuras soldadas [2006.01]"
+  },
+  {
+    "code": "H01L 23/49",
+    "description": "••••••del tipo alambres de conexión [2006.01]"
+  },
+  {
+    "code": "H01L 23/492",
+    "description": "••••••Bases o placas [2006.01]"
+  },
+  {
+    "code": "H01L 23/495",
+    "description": "••••••Bastidores conductores [2006.01]"
+  },
+  {
+    "code": "H01L 23/498",
+    "description": "••••••Conexiones eléctricas sobre sustratos aislantes [2006.01]"
+  },
+  {
+    "code": "H01L 23/50",
+    "description": "••••para dispositivos de circuito integrado (H01L 23/482-H01L 23/498 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H01L 23/52",
+    "description": "••Disposiciones para conducir la corriente eléctrica en el interior del dispositivo durante su funcionamiento, de un componente a otro [2006.01]"
+  },
+  {
+    "code": "H01L 23/522",
+    "description": "••••que comprenden interconexiones externas formadas por una estructura multicapa de capas conductoras y aislantes inseparables del cuerpo semiconductor sobre el cual han sido depositadas [2006.01]"
+  },
+  {
+    "code": "H01L 23/525",
+    "description": "••••••con interconexiones modificables [2006.01]"
+  },
+  {
+    "code": "H01L 23/528",
+    "description": "••••••Configuración de la estructura de interconexión [2006.01]"
+  },
+  {
+    "code": "H01L 23/532",
+    "description": "••••••caracterizadas por los materiales [2006.01]"
+  },
+  {
+    "code": "H01L 23/535",
+    "description": "••••que comprenden interconexiones internas, p. ej. estructuras de interconexión enterradas [2006.01]"
+  },
+  {
+    "code": "H01L 23/538",
+    "description": "••••estando la estructura de interconexión entre una pluralidad de chips semiconductores situada en el interior o encima de sustratos aislantes [2006.01]"
+  },
+  {
+    "code": "H01L 23/544",
+    "description": "••Marcas aplicadas sobre el dispositivo semiconductor, p. ej. marcas de referencia, esquemas de ensayo [2006.01]"
+  },
+  {
+    "code": "H01L 23/552",
+    "description": "••Protección contra las radiaciones, p. ej. la luz [2006.01]"
+  },
+  {
+    "code": "H01L 23/556",
+    "description": "••••contra los rayos alfa [2006.01]"
+  },
+  {
+    "code": "H01L 23/58",
+    "description": "••Disposiciones eléctricas estructurales no previstas en otra parte para dispositivos semiconductores [2006.01]"
+  },
+  {
+    "code": "H01L 23/60",
+    "description": "••••Protección contra las cargas o las descargas electrostáticas, p. ej. pantallas Faraday [2006.01]"
+  },
+  {
+    "code": "H01L 23/62",
+    "description": "••••Protección contra las sobretensiones o sobrecargas, p. ej. fusibles, shunts [2006.01]"
+  },
+  {
+    "code": "H01L 23/64",
+    "description": "••••Disposiciones relativas a la impedancia [2006.01]"
+  },
+  {
+    "code": "H01L 23/66",
+    "description": "••••••Adaptaciones para la alta frecuencia [2006.01]"
+  },
+  {
+    "code": "H01L 25/00",
+    "description": "Conjuntos consistentes en una pluralidad de dispositivos semiconductores o de otros dispositivos de estado sólido (dispositivos consistentes en una pluralidad de componentes de estado sólido formados en o sobre un sustrato común H01L 27/00; módulos fotovoltaicos o conjuntos de células fotovoltaicas H01L 31/042) [2006.01]"
+  },
+  {
+    "code": "H01L 25/03",
+    "description": "••donde todos los dispositivos son de un tipo previsto en el mismo subgrupo de los grupos H01L 27/00-H01L 33/00, o a una misma de las subclases H10K o H10N, p. ej. conjuntos de diodos rectificadores [2006.01]"
+  },
+  {
+    "code": "H01L 25/04",
+    "description": "••••los dispositivos no tienen contenedores separados [2023.01]"
+  },
+  {
+    "code": "H01L 25/065",
+    "description": "••••••siendo los dispositivos de un tipo previsto en el grupo H01L 27/00 [2023.01]"
+  },
+  {
+    "code": "H01L 25/07",
+    "description": "••••••siendo los dispositivos de un tipo previsto en el grupo H01L 29/00 [2006.01]"
+  },
+  {
+    "code": "H01L 25/075",
+    "description": "••••••siendo los dispositivos de un tipo previsto en el grupo H01L 33/00 [2006.01]"
+  },
+  {
+    "code": "H01L 25/10",
+    "description": "••••los dispositivos tienen contenedores separados [2006.01]"
+  },
+  {
+    "code": "H01L 25/11",
+    "description": "••••••siendo los dispositivos de un tipo previsto en el grupo H01L 29/00 [2006.01]"
+  },
+  {
+    "code": "H01L 25/13",
+    "description": "••••••siendo los dispositivos de un tipo previsto en el grupo H01L 33/00 [2006.01]"
+  },
+  {
+    "code": "H01L 25/16",
+    "description": "••donde los dispositivos son de los tipos previstos en varios grupos principales diferentes entre H01L 27/00-H01L 33/00, o en una sola de las subclases H10K, H10N, p. ej. circuitos híbridos [2023.01]"
+  },
+  {
+    "code": "H01L 25/18",
+    "description": "••donde los dispositivos son de tipos previstos en varios subgrupos diferentes del mismo grupo principal de los grupos H01L 27/00-H01L 33/00, o en una sola de las subclases H10K, H10N [2023.01]"
+  },
+  {
+    "code": "H01L 27/00",
+    "description": "Dispositivos que consisten en una pluralidad de componentes semiconductores o de otros componentes de estado sólido formados en o sobre un sustrato común (partes constitutivas H01L 23/00, H01L 29/00-H01L 33/00, H10K, H10N; conjuntos que consisten en una pluralidad de dispositivos de estado sólido individuales H01L 25/00) [2006.01]"
+  },
+  {
+    "code": "H01L 27/01",
+    "description": "••que comprenden solamente elementos pasivos de película delgada o gruesa formados sobre un sustrato aislante común [2006.01]"
+  },
+  {
+    "code": "H01L 27/02",
+    "description": "••incluyendo componentes semiconductores especialmente adaptados para rectificación, amplificación, generación de oscilaciones, conmutación y teniendo al menos una barrera de potencial o una barrera de superficie.; incluyendo elementos de circuito pasivos integrados con al menos una barrera de potencial o una barrera de superficie [2006.01]"
+  },
+  {
+    "code": "H01L 27/04",
+    "description": "••••el sustrato común es un cuerpo semiconductor [2006.01]"
+  },
+  {
+    "code": "H01L 27/06",
+    "description": "••••••con una pluralidad de componentes individuales en una configuración no repetitiva [2006.01]"
+  },
+  {
+    "code": "H01L 27/07",
+    "description": "••••••••teniendo los componentes una región activa en común [2006.01]"
+  },
+  {
+    "code": "H01L 27/08",
+    "description": "••••••únicamente con componentes semiconductores de un solo tipo [2006.01]"
+  },
+  {
+    "code": "H01L 27/082",
+    "description": "••••••••comprendiendo únicamente componentes bipolares [2006.01]"
+  },
+  {
+    "code": "H01L 27/085",
+    "description": "••••••••comprendiendo únicamente componentes de efecto de campo [2006.01]"
+  },
+  {
+    "code": "H01L 27/088",
+    "description": "••••••••••siendo los componentes transistores de efecto de campo de puerta aislada [2006.01]"
+  },
+  {
+    "code": "H01L 27/092",
+    "description": "••••••••••••transistores de efecto de campo metal-aislante-semiconductor complementario [2006.01]"
+  },
+  {
+    "code": "H01L 27/095",
+    "description": "••••••••••siendo los componentes transistores de efecto de campo con puerta de barrera Schottky [2006.01]"
+  },
+  {
+    "code": "H01L 27/098",
+    "description": "••••••••••siendo los componentes transistores de efecto de campo con puerta de unión PN [2006.01]"
+  },
+  {
+    "code": "H01L 27/10",
+    "description": "••••••con una pluralidad de componentes individuales en una configuración repetitiva [2006.01]"
+  },
+  {
+    "code": "H01L 27/102",
+    "description": "••••••••comprendiendo componentes bipolares [2023.01]"
+  },
+  {
+    "code": "H01L 27/105",
+    "description": "••••••••comprendiendo componentes de efecto de campo [2023.01]"
+  },
+  {
+    "code": "H01L 27/108",
+    "description": ""
+  },
+  {
+    "code": "H01L 27/11",
+    "description": ""
+  },
+  {
+    "code": "H01L 27/112",
+    "description": ""
+  },
+  {
+    "code": "H01L 27/115",
+    "description": ""
+  },
+  {
+    "code": "H01L 27/11502",
+    "description": ""
+  },
+  {
+    "code": "H01L 27/11504",
+    "description": ""
+  },
+  {
+    "code": "H01L 27/11507",
+    "description": ""
+  },
+  {
+    "code": "H01L 27/11509",
+    "description": ""
+  },
+  {
+    "code": "H01L 27/11512",
+    "description": ""
+  },
+  {
+    "code": "H01L 27/11514",
+    "description": ""
+  },
+  {
+    "code": "H01L 27/11517",
+    "description": ""
+  },
+  {
+    "code": "H01L 27/11519",
+    "description": ""
+  },
+  {
+    "code": "H01L 27/11521",
+    "description": ""
+  },
+  {
+    "code": "H01L 27/11524",
+    "description": ""
+  },
+  {
+    "code": "H01L 27/11526",
+    "description": ""
+  },
+  {
+    "code": "H01L 27/11529",
+    "description": ""
+  },
+  {
+    "code": "H01L 27/11531",
+    "description": ""
+  },
+  {
+    "code": "H01L 27/11534",
+    "description": ""
+  },
+  {
+    "code": "H01L 27/11536",
+    "description": ""
+  },
+  {
+    "code": "H01L 27/11539",
+    "description": ""
+  },
+  {
+    "code": "H01L 27/11541",
+    "description": ""
+  },
+  {
+    "code": "H01L 27/11543",
+    "description": ""
+  },
+  {
+    "code": "H01L 27/11546",
+    "description": ""
+  },
+  {
+    "code": "H01L 27/11548",
+    "description": ""
+  },
+  {
+    "code": "H01L 27/11551",
+    "description": ""
+  },
+  {
+    "code": "H01L 27/11553",
+    "description": ""
+  },
+  {
+    "code": "H01L 27/11556",
+    "description": ""
+  },
+  {
+    "code": "H01L 27/11558",
+    "description": ""
+  },
+  {
+    "code": "H01L 27/1156",
+    "description": ""
+  },
+  {
+    "code": "H01L 27/11563",
+    "description": ""
+  },
+  {
+    "code": "H01L 27/11565",
+    "description": ""
+  },
+  {
+    "code": "H01L 27/11568",
+    "description": ""
+  },
+  {
+    "code": "H01L 27/1157",
+    "description": ""
+  },
+  {
+    "code": "H01L 27/11573",
+    "description": ""
+  },
+  {
+    "code": "H01L 27/11575",
+    "description": ""
+  },
+  {
+    "code": "H01L 27/11578",
+    "description": ""
+  },
+  {
+    "code": "H01L 27/1158",
+    "description": ""
+  },
+  {
+    "code": "H01L 27/11582",
+    "description": ""
+  },
+  {
+    "code": "H01L 27/11585",
+    "description": ""
+  },
+  {
+    "code": "H01L 27/11587",
+    "description": ""
+  },
+  {
+    "code": "H01L 27/1159",
+    "description": ""
+  },
+  {
+    "code": "H01L 27/11592",
+    "description": ""
+  },
+  {
+    "code": "H01L 27/11595",
+    "description": ""
+  },
+  {
+    "code": "H01L 27/11597",
+    "description": ""
+  },
+  {
+    "code": "H01L 27/118",
+    "description": "••••••••Circuitos integrados de capa matriz [2006.01]"
+  },
+  {
+    "code": "H01L 27/12",
+    "description": "••••el sustrato es diferente de un cuerpo semiconductor, p. ej. un cuerpo aislante [2006.01]"
+  },
+  {
+    "code": "H01L 27/13",
+    "description": "••••••combinado con componentes pasivos de película delgada o gruesa [2006.01]"
+  },
+  {
+    "code": "H01L 27/14",
+    "description": "••con componentes semiconductores sensibles a los rayos infrarrojos, a la luz, a la radiación electromagnética de ondas más cortas o a la radiación corpuscular, y adaptados para convertir la energía de tales radiaciones en energía eléctrica, o bien como dispositivos de control de la energía eléctrica por tales radiaciones (componentes sensibles a las radiaciones asociados estructuralmente a una o varias fuentes de luz eléctrica H01L 31/14; dispositivos de acoplamiento de guías de luz con elementos opto-electrónicos G02B 6/42) [2006.01]"
+  },
+  {
+    "code": "H01L 27/142",
+    "description": "••••Dispositivos de conversión de energía (módulos fotovoltaicos o conjuntos de células fotovoltaicas individuales que comprende diodos de derivación integrados o directamente asociado con las células fotovoltaicas sólo H01L 31/0443; módulos fotovoltaicos compuestas de una pluralidad de células solares de película delgada depositados en el mismo sustrato H01L 31/046) [2014.01]"
+  },
+  {
+    "code": "H01L 27/144",
+    "description": "••••Dispositivos controlados por radiación [2006.01]"
+  },
+  {
+    "code": "H01L 27/146",
+    "description": "••••••Estructuras de captadores de imágenes [2006.01]"
+  },
+  {
+    "code": "H01L 27/148",
+    "description": "••••••••Captadores de imágenes por acoplamiento de carga [2006.01]"
+  },
+  {
+    "code": "H01L 27/15",
+    "description": "••con componentes semiconductores con al menos una barrera de potencial o de superficie, adaptados para la emisión de luz [2006.01]"
+  },
+  {
+    "code": "H01L 27/16",
+    "description": ""
+  },
+  {
+    "code": "H01L 27/18",
+    "description": ""
+  },
+  {
+    "code": "H01L 27/20",
+    "description": ""
+  },
+  {
+    "code": "H01L 27/22",
+    "description": ""
+  },
+  {
+    "code": "H01L 27/24",
+    "description": ""
+  },
+  {
+    "code": "H01L 27/26",
+    "description": ""
+  },
+  {
+    "code": "H01L 27/28",
+    "description": ""
+  },
+  {
+    "code": "H01L 27/30",
+    "description": ""
+  },
+  {
+    "code": "H01L 27/32",
+    "description": ""
+  },
+  {
+    "code": "H01L 29/00",
+    "description": "Dispositivos semiconductores adaptados a la rectificación, amplificación, generación de oscilaciones o a la conmutación que tienen al menos una barrera de potencial o de superficie; Condensadores o resistencias, que tienen al menos una barrera de potencial o de superficie, p. ej. unión PN, región de empobrecimiento, o región de concentración de portadores de carga; Detalles de cuerpos semiconductores o de sus electrodos (H01L 31/00-H01L 33/00, H10K 10/00, H10N tienen prioridad; otros detalles de los cuerpos semiconductores o de sus electrodos H01L 23/00; consistentes en una pluralidad de componentes de estado sólido formados en o sobre un sustrato común H01L 27/00) [2006.01]"
+  },
+  {
+    "code": "H01L 29/02",
+    "description": "••Cuerpos semiconductores [2006.01]"
+  },
+  {
+    "code": "H01L 29/04",
+    "description": "••••caracterizados por su estructura cristalina, p. ej. policristalina, cúbica o con orientación especial en planos cristalinos (caracterizados por defectos físicos H01L 29/30) [2006.01]"
+  },
+  {
+    "code": "H01L 29/06",
+    "description": "••••caracterizados por su forma; caracterizado por las formas, las dimensiones relativas o las disposiciones de las regiones semiconductoras [2006.01]"
+  },
+  {
+    "code": "H01L 29/08",
+    "description": "••••••con regiones semiconductoras conectadas a un electrodo que transporta la corriente a rectificar, a amplificar o conmutar, formando parte este electrodo de un dispositivo semiconductor que tiene tres electrodos o más [2006.01]"
+  },
+  {
+    "code": "H01L 29/10",
+    "description": "••••••con regiones semiconductoras conectadas a un electrodo que no transporta la corriente a rectificar, amplificar o conmutar, formando parte este electrodo de un dispositivo semiconductor que tiene tres electrodos o más [2006.01]"
+  },
+  {
+    "code": "H01L 29/12",
+    "description": "••••caracterizados por los materiales de los que están constituidos [2006.01]"
+  },
+  {
+    "code": "H01L 29/15",
+    "description": "••••••Estructuras con variación de potencial periódica o casi periódica, p. ej. pozos cuánticos múltiples, superredes (sus aplicaciones en el control de la luz G02F 1/017; su aplicación en los láseres de semiconductor H01S 5/34) [2006.01]"
+  },
+  {
+    "code": "H01L 29/16",
+    "description": "••••••incluyendo aparte de los materiales de dopado u otras impurezas, solamente elementos del Grupo IV de la tabla periódica en forma no combinada [2006.01]"
+  },
+  {
+    "code": "H01L 29/161",
+    "description": "••••••••con dos o más de los elementos previstos en H01L 29/16 [2006.01]"
+  },
+  {
+    "code": "H01L 29/165",
+    "description": "••••••••••en diferentes regiones semiconductoras [2006.01]"
+  },
+  {
+    "code": "H01L 29/167",
+    "description": "••••••••caracterizados además por el material de dopado [2006.01]"
+  },
+  {
+    "code": "H01L 29/18",
+    "description": "••••••Selenio o teluro únicamente, aparte de los materiales de dopado u otras impurezas [2006.01]"
+  },
+  {
+    "code": "H01L 29/20",
+    "description": "••••••con únicamente compuestos AIIIBVaparte de los materiales de dopado u otras impurezas [2006.01]"
+  },
+  {
+    "code": "H01L 29/201",
+    "description": "••••••••con varios compuestos [2006.01]"
+  },
+  {
+    "code": "H01L 29/205",
+    "description": "••••••••••en diferentes regiones semiconductoras [2006.01]"
+  },
+  {
+    "code": "H01L 29/207",
+    "description": "••••••••caracterizados además por el material de dopado [2006.01]"
+  },
+  {
+    "code": "H01L 29/22",
+    "description": "••••••con únicamente compuestos AIIBVIaparte de los materiales de dopado u otras impurezas [2006.01]"
+  },
+  {
+    "code": "H01L 29/221",
+    "description": "••••••••con varios compuestos [2006.01]"
+  },
+  {
+    "code": "H01L 29/225",
+    "description": "••••••••••en diferentes regiones semiconductoras [2006.01]"
+  },
+  {
+    "code": "H01L 29/227",
+    "description": "••••••••caracterizados además por el material de dopado [2006.01]"
+  },
+  {
+    "code": "H01L 29/24",
+    "description": "••••••con únicamente materiales semiconductores inorgánicos, aparte de los materiales de dopado u otras impurezas, no previstos en los grupos H01L 29/16, H01L 29/18, H01L 29/20 o H01L 29/22 [2006.01]"
+  },
+  {
+    "code": "H01L 29/26",
+    "description": "••••••con elementos, aparte de los materiales de dopado u otras impurezas, cubiertos por varios de los grupos H01L 29/16, H01L 29/18, H01L 29/20, H01L 29/22, H01L 29/24 [2006.01]"
+  },
+  {
+    "code": "H01L 29/267",
+    "description": "••••••••en diferentes regiones semiconductoras [2006.01]"
+  },
+  {
+    "code": "H01L 29/30",
+    "description": "••••caracterizados por defectos físicos; que tienen superficies pulidas o rugosas [2006.01]"
+  },
+  {
+    "code": "H01L 29/32",
+    "description": "••••••los defectos están en el interior del cuerpo semiconductor [2006.01]"
+  },
+  {
+    "code": "H01L 29/34",
+    "description": "••••••los defectos están sobre la superficie [2006.01]"
+  },
+  {
+    "code": "H01L 29/36",
+    "description": "••••caracterizados por la concentración o la distribución de impurezas [2006.01]"
+  },
+  {
+    "code": "H01L 29/38",
+    "description": "••••caracterizados por las combinaciones de características cubiertas por varios de los grupos H01L 29/04, H01L 29/06, H01L 29/12, H01L 29/30, H01L 29/36 [2006.01]"
+  },
+  {
+    "code": "H01L 29/40",
+    "description": "••Electrodos [2006.01]"
+  },
+  {
+    "code": "H01L 29/41",
+    "description": "••••caracterizados por su forma, dimensiones relativas o disposición relativa [2006.01]"
+  },
+  {
+    "code": "H01L 29/417",
+    "description": "••••••que transportan la corriente a rectificar, amplificar o conmutar [2006.01]"
+  },
+  {
+    "code": "H01L 29/423",
+    "description": "••••••que no transportan la corriente a rectificar, amplificar o conmutar [2006.01]"
+  },
+  {
+    "code": "H01L 29/43",
+    "description": "••••caracterizados por los materiales de que están formados [2006.01]"
+  },
+  {
+    "code": "H01L 29/45",
+    "description": "••••••Electrodos de contacto óhmico [2006.01]"
+  },
+  {
+    "code": "H01L 29/47",
+    "description": "••••••Electrodos de barrera Schottky [2006.01]"
+  },
+  {
+    "code": "H01L 29/49",
+    "description": "••••••Electrodos del tipo metal-aislante-semiconductor [2006.01]"
+  },
+  {
+    "code": "H01L 29/51",
+    "description": "••••••••Materiales aislantes asociados a estos electrodos [2006.01]"
+  },
+  {
+    "code": "H01L 29/66",
+    "description": "••Tipos de dispositivos semiconductores [2006.01]"
+  },
+  {
+    "code": "H01L 29/68",
+    "description": "••••controlables únicamente por la corriente eléctrica suministrada, o la tensión eléctrica aplicada, a un electrodo que no transporta la corriente a rectificar, amplificar o conmutar (H01L 29/96 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01L 29/70",
+    "description": "••••••Dispositivos bipolares [2006.01]"
+  },
+  {
+    "code": "H01L 29/72",
+    "description": "••••••••Dispositivos del tipo transistor, es decir, capaces de responder continuamente a las señales de control aplicadas [2006.01]"
+  },
+  {
+    "code": "H01L 29/73",
+    "description": "••••••••••Transistores bipolares de unión [2006.01]"
+  },
+  {
+    "code": "H01L 29/732",
+    "description": "••••••••••••Transistores verticales [2006.01]"
+  },
+  {
+    "code": "H01L 29/735",
+    "description": "••••••••••••Transistores laterales [2006.01]"
+  },
+  {
+    "code": "H01L 29/737",
+    "description": "••••••••••••Transistores de heterounión [2006.01]"
+  },
+  {
+    "code": "H01L 29/739",
+    "description": "••••••••••controlados por efecto de campo [2006.01]"
+  },
+  {
+    "code": "H01L 29/74",
+    "description": "••••••••Dispositivos de tipo tiristor, es decir, con funcionamiento por regeneración en cuatro zonas [2006.01]"
+  },
+  {
+    "code": "H01L 29/744",
+    "description": "••••••••••Dispositivos de corte por puerta [2006.01]"
+  },
+  {
+    "code": "H01L 29/745",
+    "description": "••••••••••••con corte por efecto de campo [2006.01]"
+  },
+  {
+    "code": "H01L 29/747",
+    "description": "••••••••••Dispositivos bidireccionales, p. ej. triacs [2006.01]"
+  },
+  {
+    "code": "H01L 29/749",
+    "description": "••••••••••con encendido por efecto de campo [2006.01]"
+  },
+  {
+    "code": "H01L 29/76",
+    "description": "••••••Dispositivos unipolares [2006.01]"
+  },
+  {
+    "code": "H01L 29/762",
+    "description": "••••••••Dispositivos de transferencia de carga [2006.01]"
+  },
+  {
+    "code": "H01L 29/765",
+    "description": "••••••••••Dispositivos de acoplamiento de carga [2006.01]"
+  },
+  {
+    "code": "H01L 29/768",
+    "description": "••••••••••••con efecto de campo producido por una puerta aislada [2006.01]"
+  },
+  {
+    "code": "H01L 29/772",
+    "description": "••••••••Transistores de efecto de campo [2006.01]"
+  },
+  {
+    "code": "H01L 29/775",
+    "description": "••••••••••con un canal unidimensional de gas de portadores de carga, p. ej. FET de hilo cuántico [2006.01]"
+  },
+  {
+    "code": "H01L 29/778",
+    "description": "••••••••••con un canal bidimensional de gas de portadores de carga, p. ej. transistores de efecto de campo con alta movilidad electrónica (HEMT) [2006.01]"
+  },
+  {
+    "code": "H01L 29/78",
+    "description": "••••••••••estando producido el efecto de campo por una puerta aislada [2006.01]"
+  },
+  {
+    "code": "H01L 29/786",
+    "description": "••••••••••••Transistores de película delgada [2006.01]"
+  },
+  {
+    "code": "H01L 29/788",
+    "description": "••••••••••••de puerta flotante [2006.01]"
+  },
+  {
+    "code": "H01L 29/792",
+    "description": "••••••••••••de aislante de puerta por almacenaje de cargas, p. ej. transistor de memoria MNOS [2006.01]"
+  },
+  {
+    "code": "H01L 29/80",
+    "description": "••••••••••estando producido el efecto de campo por una puerta de unión PN u otra unión rectificadora [2006.01]"
+  },
+  {
+    "code": "H01L 29/808",
+    "description": "••••••••••••de unión PN [2006.01]"
+  },
+  {
+    "code": "H01L 29/812",
+    "description": "••••••••••••puerta Schottky [2006.01]"
+  },
+  {
+    "code": "H01L 29/82",
+    "description": "••••controlables por la variación del campo magnético aplicado al dispositivo (H01L 29/96 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01L 29/84",
+    "description": "••••controlables por la variación de una fuerza mecánica aplicada, p. ej. una presión (H01L 29/96 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01L 29/86",
+    "description": "••••controlables por la variación de la corriente eléctrica suministrada, o únicamente de la tensión aplicada a uno o varios de los electrodos que transportan la corriente a rectificar, amplificar, hacer oscilar o conmutar (H01L 29/96 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01L 29/8605",
+    "description": "••••••Resistencias de unión PN [2006.01]"
+  },
+  {
+    "code": "H01L 29/861",
+    "description": "••••••Diodos [2006.01]"
+  },
+  {
+    "code": "H01L 29/862",
+    "description": "••••••••Diodos de contacto de punta [2006.01]"
+  },
+  {
+    "code": "H01L 29/864",
+    "description": "••••••••Diodos de tiempo de tránsito, p. ej. diodos, IMPATT, TRAPATT [2006.01]"
+  },
+  {
+    "code": "H01L 29/866",
+    "description": "••••••••Diodos Zener [2006.01]"
+  },
+  {
+    "code": "H01L 29/868",
+    "description": "••••••••Diodos PIN [2006.01]"
+  },
+  {
+    "code": "H01L 29/87",
+    "description": "••••••••Diodos tiristor, p. ej. diodos Schockley, diodos de transición conductora (break-over diodes) [2006.01]"
+  },
+  {
+    "code": "H01L 29/872",
+    "description": "••••••••Diodos Schottky [2006.01]"
+  },
+  {
+    "code": "H01L 29/88",
+    "description": "••••••••Diodos de efecto túnel [2006.01]"
+  },
+  {
+    "code": "H01L 29/885",
+    "description": "••••••••••Diodos Esaki [2006.01]"
+  },
+  {
+    "code": "H01L 29/92",
+    "description": "••••••Condensadores con barrera de potencial o barrera de superficie [2006.01]"
+  },
+  {
+    "code": "H01L 29/93",
+    "description": "••••••••Diodos con capacidad variable, p. ej. varactores [2006.01]"
+  },
+  {
+    "code": "H01L 29/94",
+    "description": "••••••••Dispositivos de metal-aislante-semiconductor, p. ej. MOS [2006.01]"
+  },
+  {
+    "code": "H01L 29/96",
+    "description": "••••de un tipo cubierto por al menos dos de los grupos H01L 29/68, H01L 29/82, H01L 29/84o H01L 29/86 [2006.01]"
+  },
+  {
+    "code": "H01L 31/00",
+    "description": "Dispositivos semiconductores sensibles a la radiación infrarroja, a la luz, a la radiación electromagnética de ondas más cortas, o a la radiación corpuscular, y adaptados bien para la conversión de la energía de tales radiaciones en energía eléctrica, o bien para el control de la energía eléctrica por dicha radiación; Procesos o aparatos especialmente adaptados a la fabricación o el tratamiento de estos dispositivos o de sus partes constitutivas; Sus detalles (H10K 30/00 tiene prioridad; dispositivos consistentes en una pluralidad de componentes de estado sólido formados en o sobre un sustrato común, diferentes a las combinaciones de componentes sensibles a la radiación con una o varias fuentes de luz eléctrica H01L 27/00) [2006.01]"
+  },
+  {
+    "code": "H01L 31/02",
+    "description": "••Detalles [2006.01]"
+  },
+  {
+    "code": "H01L 31/0203",
+    "description": "••••Contenedores; Encapsulados (para dispositivos fotovoltaicos H01L 31/048; para dispositivos fotosensibles orgánicos H10K 30/88) [2014.01]"
+  },
+  {
+    "code": "H01L 31/0216",
+    "description": "••••Revestimientos (H01L 31/041  tiene prioridad) [2014.01]"
+  },
+  {
+    "code": "H01L 31/0224",
+    "description": "••••Electrodos [2006.01]"
+  },
+  {
+    "code": "H01L 31/0232",
+    "description": "••••Elementos o disposiciones ópticas asociados al dispositivo (H01L 31/0236  tiene prioridad; para las células fotovoltaicas H01L 31/054; para módulos fotovoltaicos H02S 40/20) [2014.01]"
+  },
+  {
+    "code": "H01L 31/0236",
+    "description": "••••Texturas de superficie particulares [2006.01]"
+  },
+  {
+    "code": "H01L 31/024",
+    "description": "••••Disposiciones para la refrigeración, el calentamiento, la ventilación o la compensación de temperatura (para dispositivos fotovoltaicos H01L 31/052) [2014.01]"
+  },
+  {
+    "code": "H01L 31/0248",
+    "description": "••caracterizados por sus cuerpos semiconductores [2006.01]"
+  },
+  {
+    "code": "H01L 31/0256",
+    "description": "••••caracterizados por los materiales [2006.01]"
+  },
+  {
+    "code": "H01L 31/0264",
+    "description": "••••••Materiales inorgánicos [2006.01]"
+  },
+  {
+    "code": "H01L 31/0272",
+    "description": "••••••••Selenio o teluro [2006.01]"
+  },
+  {
+    "code": "H01L 31/028",
+    "description": "••••••••comprendiendo, aparte de los materiales de dopado u otras impurezas, únicamente elementos del Grupo IV de la clasificación periódica [2006.01]"
+  },
+  {
+    "code": "H01L 31/0288",
+    "description": "••••••••••caracterizados por el material de dopado [2006.01]"
+  },
+  {
+    "code": "H01L 31/0296",
+    "description": "••••••••comprendiendo, aparte de los materiales de dopado u otras impurezas, únicamente compuestos AIIBVIp. ej. CdS, ZnS, HgCdTe [2006.01]"
+  },
+  {
+    "code": "H01L 31/0304",
+    "description": "••••••••comprendiendo, aparte de los materiales de dopado u otras impurezas, únicamente compuestos AIIIBV [2006.01]"
+  },
+  {
+    "code": "H01L 31/0312",
+    "description": "••••••••comprendiendo, aparte de los materiales de dopado u otras impurezas, únicamente compuestos AIVBIVp. ej. SiC [2006.01]"
+  },
+  {
+    "code": "H01L 31/032",
+    "description": "••••••••comprendiendo, aparte de los materiales de dopado u otras impurezas, únicamente compuestos no cubiertos por los grupos H01L 31/0272-H01L 31/0312 [2006.01]"
+  },
+  {
+    "code": "H01L 31/0328",
+    "description": "••••••••comprendiendo, aparte de los materiales de dopado u otras impurezas, materiales semiconductores cubiertos por varios de los grupos H01L 31/0272-H01L 31/032 [2006.01]"
+  },
+  {
+    "code": "H01L 31/0336",
+    "description": "••••••••••en regiones semiconductoras diferentes, p. ej. Cu 2X/CdX, hetero-uniones, siendo X un elemento del Grupo VI de la clasificación periódica [2006.01]"
+  },
+  {
+    "code": "H01L 31/0352",
+    "description": "••••caracterizados por su forma o por las formas, dimensiones relativas o disposición de las regiones semiconductoras [2006.01]"
+  },
+  {
+    "code": "H01L 31/036",
+    "description": "••••caracterizados por su estructura cristalina o por la orientación particular de los planos cristalinos [2006.01]"
+  },
+  {
+    "code": "H01L 31/0368",
+    "description": "••••••comprendiendo semiconductores policristalinos (H01L 31/0392 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01L 31/0376",
+    "description": "••••••comprendiendo semiconductores amorfos (H01L 31/0392 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01L 31/0384",
+    "description": "••••••comprendiendo otros materiales no monocristalinos, p. ej. partículas semiconductoras incorporadas en un material aislante (H01L 31/0392 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01L 31/0392",
+    "description": "••••••comprendiendo películas delgadas depositadas sobre sustratos metálicos o aislantes [2006.01]"
+  },
+  {
+    "code": "H01L 31/04",
+    "description": "••adaptados como dispositivos de conversión fotovoltaica [PV] (ensayos de los mismos durante la fabricación H01L 21/66; ensayos de los mismos después de la fabricación H02S 50/10) [2014.01]"
+  },
+  {
+    "code": "H01L 31/041",
+    "description": "••••Disposiciones para la prevención de daños causados por la radiación corpuscular, p. ej. para aplicaciones espaciales [2014.01]"
+  },
+  {
+    "code": "H01L 31/042",
+    "description": "••••Módulos fotovoltaicos o conjuntos de células individuales fotovoltaicas (las estructuras de soporte de los módulos fotovoltaicos H02S 20/00) [2014.01]"
+  },
+  {
+    "code": "H01L 31/043",
+    "description": "••••••Células fotovoltaicas mecánicamente apiladas [2014.01]"
+  },
+  {
+    "code": "H01L 31/044",
+    "description": "••••••incluyendo diodos de bypass (diodos de derivación en la caja de conexiones H02S 40/34) [2014.01]"
+  },
+  {
+    "code": "H01L 31/0443",
+    "description": "••••••••comprenden diodos de bypass integrados o directamente asociados con los dispositivos, p. ej. diodos de bypass integrados o formados en o sobre el mismo sustrato que las células fotovoltaicas [2014.01]"
+  },
+  {
+    "code": "H01L 31/0445",
+    "description": "••••••incluyendo células solares de película delgada, p. ej. células solares monocapa de a-Si, CIS o CdTe [2014.01]"
+  },
+  {
+    "code": "H01L 31/046",
+    "description": "••••••••Módulos fotovoltaicos compuestos de una pluralidad de células solares de película delgada depositadas en el mismo sustrato [2014.01]"
+  },
+  {
+    "code": "H01L 31/0463",
+    "description": "••••••••••caracterizados por métodos especiales de estructuración para conectar las células FV en un módulo, p. ej. corte por láser de las capas conductoras o activas [2014.01]"
+  },
+  {
+    "code": "H01L 31/0465",
+    "description": "••••••••••que comprenden estructuras particulares para la interconexión eléctrica de células fotovoltaicas adyacentes en el módulo (H01L 31/0463 tiene prioridad) [2014.01]"
+  },
+  {
+    "code": "H01L 31/0468",
+    "description": "••••••••••que comprenden medios específicos para la obtención de la transmisión parcial de luz a través del módulo, p. ej. módulos solares de película delgada parcialmente transparentes para ventanas [2014.01]"
+  },
+  {
+    "code": "H01L 31/047",
+    "description": "••••••Conjuntos de celdas fotovoltaicas, incluyendo células fotovoltaicas que tienen múltiples uniones verticales o múltiples uniones de ranura en V formadas en un sustrato semiconductor [2014.01]"
+  },
+  {
+    "code": "H01L 31/0475",
+    "description": "••••••Conjuntos de células fotovoltaicas constituidos por celdas en una configuración plana, p. ej. repetitiva, sobre un único sustrato semiconductor; micro-conjuntos de celdas FV (módulos FV compuestos de una pluralidad de células solares de película delgada depositadas en el mismo sustrato H01L 31/046) [2014.01]"
+  },
+  {
+    "code": "H01L 31/048",
+    "description": "••••••encapsulados de modulos [2014.01]"
+  },
+  {
+    "code": "H01L 31/049",
+    "description": "••••••••Láminas trasera de protección [2014.01]"
+  },
+  {
+    "code": "H01L 31/05",
+    "description": "••••••Medios de interconexión eléctrica entre las células fotovoltaicas dentro del módulo fotovoltaico, p. ej. conexión en serie de células fotovoltaicas (electrodos H01L 31/0224; interconexión eléctrica de células solares de película delgada formadas sobre un sustrato común H01L 31/046; estructuras particulares para la interconexión eléctrica de células solares de película delgada adyacentes en el módulo H01L 31/0465; medios de interconexión eléctrica especialmente adaptados para conectar eléctricamente dos o más módulos fotovoltaicos H02S 40/36) [2014.01]"
+  },
+  {
+    "code": "H01L 31/052",
+    "description": "••••Medios de refrigeración directamente asociados o integrados con la célula fotovoltaica, p. ej. elementos Peltier integrados para la refrigeración activa o disipadores de calor directamente asociados con las células fotovoltaicas (medios de refrigeración en combinación con el módulo fotovoltaico H02S 40/42) [2014.01]"
+  },
+  {
+    "code": "H01L 31/0525",
+    "description": "••••••que comprenden medios para utilizar la energía térmica asociada directamente con la célula fotovoltaica, p. ej. elementos Seebeck integrados [2014.01]"
+  },
+  {
+    "code": "H01L 31/053",
+    "description": "••••Medios de almacenamiento de energía asociados directamente o integrados con la célula fotovoltaica, p. ej. un condensador integrado con una célula fotovoltaica (medios de almacenamiento de energía asociados con el módulo fotovoltaico H02S 40/38) [2014.01]"
+  },
+  {
+    "code": "H01L 31/054",
+    "description": "••••Elementos ópticos directamente asociados o integrados en la célula fotovoltaica, p. ej. medios que reflejan la luz o medios concentradores de luz [2014.01]"
+  },
+  {
+    "code": "H01L 31/055",
+    "description": "••••••donde la luz es absorbida y re-emitida en una longitud de onda diferente por el elemento óptico directamente asociado o integrado con la célula fotovoltaica, p. ej. mediante el uso de material luminiscente, concentradores fluorescente o disposiciones de conversión ascendente [2014.01]"
+  },
+  {
+    "code": "H01L 31/056",
+    "description": "••••••medios para reflejar la luz del tipo reflector de superficie posterior  [BSR] [2014.01]"
+  },
+  {
+    "code": "H01L 31/06",
+    "description": "••••caracterizados por al menos una barrera de potencial o una barrera de superficie [2012.01]"
+  },
+  {
+    "code": "H01L 31/061",
+    "description": "••••••siendo las barreras de potencial del tipo de contacto de punta (H01L 31/07  tiene prioridad) [2012.01]"
+  },
+  {
+    "code": "H01L 31/062",
+    "description": "••••••siendo las barreras de potencial únicamente del tipo metal-aislante-semiconductor [2012.01]"
+  },
+  {
+    "code": "H01L 31/065",
+    "description": "••••••siendo las barreras de potencial únicamente del tipo de banda prohibida gradual [2012.01]"
+  },
+  {
+    "code": "H01L 31/068",
+    "description": "••••••siendo las barreras de potencial únicamente del tipo homounión PN, p. ej. células solares homounión PN en silicio masivo o  células solares homounión PN en láminas delgadas de silicio policristalino [2012.01]"
+  },
+  {
+    "code": "H01L 31/0687",
+    "description": "••••••••Células solares de unión múltiple o tándem [2012.01]"
+  },
+  {
+    "code": "H01L 31/0693",
+    "description": "••••••••incluyendo los dispositivos, aparte de materiales dopantes u otras impurezas, únicamente compuestos AIIIBV, p. ej. células solares de GaAs o InP [2012.01]"
+  },
+  {
+    "code": "H01L 31/07",
+    "description": "••••••siendo las barreras de potencial únicamente de tipo Schottky [2012.01]"
+  },
+  {
+    "code": "H01L 31/072",
+    "description": "••••••siendo las barreras de potencial únicamente del tipo heterounión PN [2012.01]"
+  },
+  {
+    "code": "H01L 31/0725",
+    "description": "••••••••Células solares de unión múltiple o tandem [2012.01]"
+  },
+  {
+    "code": "H01L 31/073",
+    "description": "••••••••comprendiendo únicamente semiconductores a base de compuestos AIIBVI , p. ej. células solares CdS/CdTe [2012.01]"
+  },
+  {
+    "code": "H01L 31/0735",
+    "description": "••••••••comprendiendo únicamente semiconductores a base de compuestos AIIIBV, p. ej. células solares GaAs/AlGaAs o InP/GaInAs [2012.01]"
+  },
+  {
+    "code": "H01L 31/074",
+    "description": "••••••••comprendiendo una heterounión con un elemento del grupo IV del Sistema Periódico, p. ej. células solares ITO/Si, GaAs/Si o CdTe/Si [2012.01]"
+  },
+  {
+    "code": "H01L 31/0745",
+    "description": "••••••••comprendiendo una heterounión AIVBIV, p. ej. células solares Si/Ge, SiGe/Si o Si/SiC [2012.01]"
+  },
+  {
+    "code": "H01L 31/0747",
+    "description": "••••••••••comprendiendo una heterounión de materiales cristalinos y amorfos, p. ej. heterounión con capa fina intrínseca o células solares HIT® [2012.01]"
+  },
+  {
+    "code": "H01L 31/0749",
+    "description": "••••••••incluyendo un compuesto AIBIIICVI, p. ej. células solares de heterounión CdS/CuInSe2 [CIS] [2012.01]"
+  },
+  {
+    "code": "H01L 31/075",
+    "description": "••••••siendo las barreras de potencial únicamente del tipo PIN, p. ej. células solares de sílice amorfo PIN [2012.01]"
+  },
+  {
+    "code": "H01L 31/076",
+    "description": "••••••••Células solares de unión múltiple o tándem [2012.01]"
+  },
+  {
+    "code": "H01L 31/077",
+    "description": "••••••••Comprendiendo los dispositivos materiales monocristalinos o policristalinos [2012.01]"
+  },
+  {
+    "code": "H01L 31/078",
+    "description": "••••••comprendiendo barreras de potencial de diferentes tipos cubiertas por dos o más de los grupos H01L 31/061-H01L 31/075 [2012.01]"
+  },
+  {
+    "code": "H01L 31/08",
+    "description": "••en los que la radiación controla el flujo de corriente a través del dispositivo, p. ej. fotorresistencias [2006.01]"
+  },
+  {
+    "code": "H01L 31/09",
+    "description": "••••Dispositivos sensibles a la radiación infrarroja, visible o ultravioleta (H01L 31/101 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01L 31/10",
+    "description": "••••caracterizados por al menos una barrera de potencial o una barrera de superficie, p. ej. fototransistores [2006.01]"
+  },
+  {
+    "code": "H01L 31/101",
+    "description": "••••••Dispositivos sensibles a la radiación infrarroja, visible o ultravioleta [2006.01]"
+  },
+  {
+    "code": "H01L 31/102",
+    "description": "••••••••caracterizados por una sola barrera de potencial o de superficie [2006.01]"
+  },
+  {
+    "code": "H01L 31/103",
+    "description": "••••••••••siendo la barrera de potencial de tipo homounión PN [2006.01]"
+  },
+  {
+    "code": "H01L 31/105",
+    "description": "••••••••••siendo la barrera de potencial de tipo PIN [2006.01]"
+  },
+  {
+    "code": "H01L 31/107",
+    "description": "••••••••••funcionando la barrera de potencial en régimen de avalancha, p. ej. fotodiodo de avalancha [2006.01]"
+  },
+  {
+    "code": "H01L 31/108",
+    "description": "••••••••••siendo la barrera de potencial del tipo Schottky [2006.01]"
+  },
+  {
+    "code": "H01L 31/109",
+    "description": "••••••••••siendo la barrera de potencial del tipo heterounión PN [2006.01]"
+  },
+  {
+    "code": "H01L 31/11",
+    "description": "••••••••caracterizados por dos barreras de potencial o de superficie, p. ej. fototransistor bipolar [2006.01]"
+  },
+  {
+    "code": "H01L 31/111",
+    "description": "••••••••caracterizados por al menos tres barreras de potencial, p. ej. fototiristor [2006.01]"
+  },
+  {
+    "code": "H01L 31/112",
+    "description": "••••••••caracterizados por un funcionamiento por efecto de campo, p. ej. fototransistor de efecto de campo de unión [2006.01]"
+  },
+  {
+    "code": "H01L 31/113",
+    "description": "••••••••••del tipo conductor-aislante-semiconductor, p. ej. transistor de efecto de campo metal-aislante-semiconductor [2006.01]"
+  },
+  {
+    "code": "H01L 31/115",
+    "description": "••••••Dispositivos sensibles a la radiación de ondas muy cortas, p. ej. rayos X, rayos gamma o radiación corpuscular [2006.01]"
+  },
+  {
+    "code": "H01L 31/117",
+    "description": "••••••••del tipo detectores de radiación con efecto de volumen, p. ej. detectores PIN en Ge compensados al Li para rayos gamma [2006.01]"
+  },
+  {
+    "code": "H01L 31/118",
+    "description": "••••••••del tipo detectores de barrera de superficie o de unión PN superficial, p. ej. detectores de partículas alfa de barrera de superficie [2006.01]"
+  },
+  {
+    "code": "H01L 31/119",
+    "description": "••••••••caracterizados por un funcionamiento por efecto de campo, p. ej. detectores de tipo MIS [2006.01]"
+  },
+  {
+    "code": "H01L 31/12",
+    "description": "••estructuralmente asociados, p. ej. formados en o sobre un sustrato común, con una o varias fuentes de luz eléctricas, p. ej. con fuentes de luz electroluminiscentes, y eléctrica u ópticamente acoplados con dichas fuentes (fuentes de luz electroluminiscentes per se H05B 33/00) [2006.01]"
+  },
+  {
+    "code": "H01L 31/14",
+    "description": "••••las fuentes de luz están controladas por el dispositivo semiconductor sensible a la radiación, p. ej. convertidores de imágenes, amplificadores de imágenes, dispositivos de almacenamiento de imagen [2006.01]"
+  },
+  {
+    "code": "H01L 31/147",
+    "description": "••••••siendo todas las fuentes de luz y todos los dispositivos sensibles a la radiación dispositivos semiconductores caracterizados por al menos una barrera de potencial o de superficie [2006.01]"
+  },
+  {
+    "code": "H01L 31/153",
+    "description": "••••••••formados en o sobre un sustrato común [2006.01]"
+  },
+  {
+    "code": "H01L 31/16",
+    "description": "••••el dispositivo semiconductor sensible a la radiación está controlado por la o las fuentes de luz [2006.01]"
+  },
+  {
+    "code": "H01L 31/167",
+    "description": "••••••siendo todas las fuentes de luz y todos los dispositivos sensibles a la radiación dispositivos semiconductores caracterizados por al menos una barrera de potencial o de superficie [2006.01]"
+  },
+  {
+    "code": "H01L 31/173",
+    "description": "••••••••formados en o sobre un sustrato común [2006.01]"
+  },
+  {
+    "code": "H01L 31/18",
+    "description": "••Procesos o aparatos especialmente adaptados para la fabricación o el tratamiento de estos dispositivos o de sus partes constitutivas [2006.01]"
+  },
+  {
+    "code": "H01L 31/20",
+    "description": "••••comprendiendo los dispositivos o sus partes constitutivas un material semiconductor amorfo [2006.01]"
+  },
+  {
+    "code": "H01L 33/00",
+    "description": "Dispositivos semiconductores que tienen al menos una barrera de potencial o de superficie especialmente adaptados para la emisión de luz; Procesos o aparatos especialmente adaptados para la fabricación o tratamiento de estos dispositivos o de sus partes constitutivas; Partes constitutivas (H10K 50/00 tiene prioridad; dispositivos que consisten en una pluralidad de componentes semiconductores formados en o sobre un sustrato común y que incluyen componentes semiconductores con al menos una barrera de potencial o de superficie, especialmente adaptados para la emisión de luz H01L 27/15; láseres de semiconductor H01S 5/00) [2010.01]"
+  },
+  {
+    "code": "H01L 33/02",
+    "description": "••caracterizados por los cuerpos de semiconductores [2010.01]"
+  },
+  {
+    "code": "H01L 33/04",
+    "description": "••••con una estructura de efecto cuántico o super-red, p. ej. unión túnel [2010.01]"
+  },
+  {
+    "code": "H01L 33/06",
+    "description": "••••••dentro de la región electroluminiscente, p. ej. estructura de confinamiento o barrera túnel [2010.01]"
+  },
+  {
+    "code": "H01L 33/08",
+    "description": "••••con una pluralidad de regiones electroluminiscentes, p. ej. capa de emisión de luz lateralmente discontinua o región fotoluminiscente integrada en el cuerpo de semiconductores (H01L 27/15 tiene prioridad) [2010.01]"
+  },
+  {
+    "code": "H01L 33/10",
+    "description": "••••con una estructura reflectante, p. ej. reflector de Bragg de semiconductor [2010.01]"
+  },
+  {
+    "code": "H01L 33/12",
+    "description": "••••con una estructura de relajación de esfuerzo, p. ej. capa tope [2010.01]"
+  },
+  {
+    "code": "H01L 33/14",
+    "description": "••••con una estructura de control de transporte de carga, p. ej. capa semiconductora altamente dopada o estructura de bloqueo de corriente [2010.01]"
+  },
+  {
+    "code": "H01L 33/16",
+    "description": "••••con una estructura cristalina o una orientación particular, p. ej. policristalina, amorfa o porosa [2010.01]"
+  },
+  {
+    "code": "H01L 33/18",
+    "description": "••••••dentro de la región electroluminiscente [2010.01]"
+  },
+  {
+    "code": "H01L 33/20",
+    "description": "••••con una forma particular, p. ej. sustrato curvado o truncado [2010.01]"
+  },
+  {
+    "code": "H01L 33/22",
+    "description": "••••••Superficies irregulares o rugosas, p. ej. en la interfaz entre capas epitaxiales [2010.01]"
+  },
+  {
+    "code": "H01L 33/24",
+    "description": "••••••de la región electroluminiscente, p. ej. unión de tipo no plana [2010.01]"
+  },
+  {
+    "code": "H01L 33/26",
+    "description": "••••Materiales de la región electroluminiscente [2010.01]"
+  },
+  {
+    "code": "H01L 33/28",
+    "description": "••••••que contienen únicamente elementos del grupo II y del grupo VI del sistema periódico [2010.01]"
+  },
+  {
+    "code": "H01L 33/30",
+    "description": "••••••que contienen únicamente elementos del grupo III y del grupo V del sistema periódico [2010.01]"
+  },
+  {
+    "code": "H01L 33/32",
+    "description": "••••••••que contienen nitrógeno [2010.01]"
+  },
+  {
+    "code": "H01L 33/34",
+    "description": "••••••que contienen únicamente elementos del grupo IV del sistema periódico [2010.01]"
+  },
+  {
+    "code": "H01L 33/36",
+    "description": "••caracterizados por los electrodos [2010.01]"
+  },
+  {
+    "code": "H01L 33/38",
+    "description": "••••con una forma particular [2010.01]"
+  },
+  {
+    "code": "H01L 33/40",
+    "description": "••••Materiales [2010.01]"
+  },
+  {
+    "code": "H01L 33/42",
+    "description": "••••••Materiales transparentes [2010.01]"
+  },
+  {
+    "code": "H01L 33/44",
+    "description": "••caracterizados por los revestimientos, p. ej. capa de pasivación o revestimiento anti-reflectante [2010.01]"
+  },
+  {
+    "code": "H01L 33/46",
+    "description": "••••Revestimiento reflectante, p. ej. reflector de Bragg de dieléctricos [2010.01]"
+  },
+  {
+    "code": "H01L 33/48",
+    "description": "••caracterizados por el empaquetamiento del cuerpo de semiconductores [2010.01]"
+  },
+  {
+    "code": "H01L 33/50",
+    "description": "••••Elementos de conversión de longitud de onda [2010.01]"
+  },
+  {
+    "code": "H01L 33/52",
+    "description": "••••Encapsulados [2010.01]"
+  },
+  {
+    "code": "H01L 33/54",
+    "description": "••••••que tienen una forma particular [2010.01]"
+  },
+  {
+    "code": "H01L 33/56",
+    "description": "••••••Materiales, p. ej. epoxy o resina de silicona [2010.01]"
+  },
+  {
+    "code": "H01L 33/58",
+    "description": "••••Elementos ópticos para modificación del campo [2010.01]"
+  },
+  {
+    "code": "H01L 33/60",
+    "description": "••••••Elementos reflectantes [2010.01]"
+  },
+  {
+    "code": "H01L 33/62",
+    "description": "••••Disposiciones para llevar la corriente eléctrica a o desde el cuerpo de semiconductores, p. ej. leadframes, hilos de conexión o bolas de soldadura [2010.01]"
+  },
+  {
+    "code": "H01L 33/64",
+    "description": "••••Elementos de extracción de calor o refrigerantes [2010.01]"
+  },
+  {
+    "code": "H01L 35/00",
+    "description": ""
+  },
+  {
+    "code": "H01L 35/02",
+    "description": ""
+  },
+  {
+    "code": "H01L 35/04",
+    "description": ""
+  },
+  {
+    "code": "H01L 35/06",
+    "description": ""
+  },
+  {
+    "code": "H01L 35/08",
+    "description": ""
+  },
+  {
+    "code": "H01L 35/10",
+    "description": ""
+  },
+  {
+    "code": "H01L 35/12",
+    "description": ""
+  },
+  {
+    "code": "H01L 35/14",
+    "description": ""
+  },
+  {
+    "code": "H01L 35/16",
+    "description": ""
+  },
+  {
+    "code": "H01L 35/18",
+    "description": ""
+  },
+  {
+    "code": "H01L 35/20",
+    "description": ""
+  },
+  {
+    "code": "H01L 35/22",
+    "description": ""
+  },
+  {
+    "code": "H01L 35/24",
+    "description": ""
+  },
+  {
+    "code": "H01L 35/26",
+    "description": ""
+  },
+  {
+    "code": "H01L 35/28",
+    "description": ""
+  },
+  {
+    "code": "H01L 35/30",
+    "description": ""
+  },
+  {
+    "code": "H01L 35/32",
+    "description": ""
+  },
+  {
+    "code": "H01L 35/34",
+    "description": ""
+  },
+  {
+    "code": "H01L 37/00",
+    "description": ""
+  },
+  {
+    "code": "H01L 37/02",
+    "description": ""
+  },
+  {
+    "code": "H01L 37/04",
+    "description": ""
+  },
+  {
+    "code": "H01L 39/00",
+    "description": ""
+  },
+  {
+    "code": "H01L 39/02",
+    "description": ""
+  },
+  {
+    "code": "H01L 39/04",
+    "description": ""
+  },
+  {
+    "code": "H01L 39/06",
+    "description": ""
+  },
+  {
+    "code": "H01L 39/08",
+    "description": ""
+  },
+  {
+    "code": "H01L 39/10",
+    "description": ""
+  },
+  {
+    "code": "H01L 39/12",
+    "description": ""
+  },
+  {
+    "code": "H01L 39/14",
+    "description": ""
+  },
+  {
+    "code": "H01L 39/16",
+    "description": ""
+  },
+  {
+    "code": "H01L 39/18",
+    "description": ""
+  },
+  {
+    "code": "H01L 39/20",
+    "description": ""
+  },
+  {
+    "code": "H01L 39/22",
+    "description": ""
+  },
+  {
+    "code": "H01L 39/24",
+    "description": ""
+  },
+  {
+    "code": "H01L 41/00",
+    "description": ""
+  },
+  {
+    "code": "H01L 41/02",
+    "description": ""
+  },
+  {
+    "code": "H01L 41/04",
+    "description": ""
+  },
+  {
+    "code": "H01L 41/047",
+    "description": ""
+  },
+  {
+    "code": "H01L 41/053",
+    "description": ""
+  },
+  {
+    "code": "H01L 41/06",
+    "description": ""
+  },
+  {
+    "code": "H01L 41/08",
+    "description": ""
+  },
+  {
+    "code": "H01L 41/083",
+    "description": ""
+  },
+  {
+    "code": "H01L 41/087",
+    "description": ""
+  },
+  {
+    "code": "H01L 41/09",
+    "description": ""
+  },
+  {
+    "code": "H01L 41/107",
+    "description": ""
+  },
+  {
+    "code": "H01L 41/113",
+    "description": ""
+  },
+  {
+    "code": "H01L 41/12",
+    "description": ""
+  },
+  {
+    "code": "H01L 41/16",
+    "description": ""
+  },
+  {
+    "code": "H01L 41/18",
+    "description": ""
+  },
+  {
+    "code": "H01L 41/187",
+    "description": ""
+  },
+  {
+    "code": "H01L 41/193",
+    "description": ""
+  },
+  {
+    "code": "H01L 41/20",
+    "description": ""
+  },
+  {
+    "code": "H01L 41/22",
+    "description": ""
+  },
+  {
+    "code": "H01L 41/23",
+    "description": ""
+  },
+  {
+    "code": "H01L 41/25",
+    "description": ""
+  },
+  {
+    "code": "H01L 41/253",
+    "description": ""
+  },
+  {
+    "code": "H01L 41/257",
+    "description": ""
+  },
+  {
+    "code": "H01L 41/27",
+    "description": ""
+  },
+  {
+    "code": "H01L 41/273",
+    "description": ""
+  },
+  {
+    "code": "H01L 41/277",
+    "description": ""
+  },
+  {
+    "code": "H01L 41/29",
+    "description": ""
+  },
+  {
+    "code": "H01L 41/293",
+    "description": ""
+  },
+  {
+    "code": "H01L 41/297",
+    "description": ""
+  },
+  {
+    "code": "H01L 41/31",
+    "description": ""
+  },
+  {
+    "code": "H01L 41/311",
+    "description": ""
+  },
+  {
+    "code": "H01L 41/312",
+    "description": ""
+  },
+  {
+    "code": "H01L 41/313",
+    "description": ""
+  },
+  {
+    "code": "H01L 41/314",
+    "description": ""
+  },
+  {
+    "code": "H01L 41/316",
+    "description": ""
+  },
+  {
+    "code": "H01L 41/317",
+    "description": ""
+  },
+  {
+    "code": "H01L 41/318",
+    "description": ""
+  },
+  {
+    "code": "H01L 41/319",
+    "description": ""
+  },
+  {
+    "code": "H01L 41/33",
+    "description": ""
+  },
+  {
+    "code": "H01L 41/331",
+    "description": ""
+  },
+  {
+    "code": "H01L 41/332",
+    "description": ""
+  },
+  {
+    "code": "H01L 41/333",
+    "description": ""
+  },
+  {
+    "code": "H01L 41/335",
+    "description": ""
+  },
+  {
+    "code": "H01L 41/337",
+    "description": ""
+  },
+  {
+    "code": "H01L 41/338",
+    "description": ""
+  },
+  {
+    "code": "H01L 41/339",
+    "description": ""
+  },
+  {
+    "code": "H01L 41/35",
+    "description": ""
+  },
+  {
+    "code": "H01L 41/37",
+    "description": ""
+  },
+  {
+    "code": "H01L 41/39",
+    "description": ""
+  },
+  {
+    "code": "H01L 41/41",
+    "description": ""
+  },
+  {
+    "code": "H01L 41/43",
+    "description": ""
+  },
+  {
+    "code": "H01L 41/45",
+    "description": ""
+  },
+  {
+    "code": "H01L 41/47",
+    "description": ""
+  },
+  {
+    "code": "H01L 43/00",
+    "description": ""
+  },
+  {
+    "code": "H01L 43/02",
+    "description": ""
+  },
+  {
+    "code": "H01L 43/04",
+    "description": ""
+  },
+  {
+    "code": "H01L 43/06",
+    "description": ""
+  },
+  {
+    "code": "H01L 43/08",
+    "description": ""
+  },
+  {
+    "code": "H01L 43/10",
+    "description": ""
+  },
+  {
+    "code": "H01L 43/12",
+    "description": ""
+  },
+  {
+    "code": "H01L 43/14",
+    "description": ""
+  },
+  {
+    "code": "H01L 45/00",
+    "description": ""
+  },
+  {
+    "code": "H01L 45/02",
+    "description": ""
+  },
+  {
+    "code": "H01L 47/00",
+    "description": ""
+  },
+  {
+    "code": "H01L 47/02",
+    "description": ""
+  },
+  {
+    "code": "H01L 49/00",
+    "description": ""
+  },
+  {
+    "code": "H01L 49/02",
+    "description": ""
+  },
+  {
+    "code": "H01L 51/00",
+    "description": ""
+  },
+  {
+    "code": "H01L 51/05",
+    "description": ""
+  },
+  {
+    "code": "H01L 51/10",
+    "description": ""
+  },
+  {
+    "code": "H01L 51/30",
+    "description": ""
+  },
+  {
+    "code": "H01L 51/40",
+    "description": ""
+  },
+  {
+    "code": "H01L 51/42",
+    "description": ""
+  },
+  {
+    "code": "H01L 51/44",
+    "description": ""
+  },
+  {
+    "code": "H01L 51/46",
+    "description": ""
+  },
+  {
+    "code": "H01L 51/48",
+    "description": ""
+  },
+  {
+    "code": "H01L 51/50",
+    "description": ""
+  },
+  {
+    "code": "H01L 51/52",
+    "description": ""
+  },
+  {
+    "code": "H01L 51/54",
+    "description": ""
+  },
+  {
+    "code": "H01L 51/56",
+    "description": ""
+  }
+]

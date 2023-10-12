@@ -1,0 +1,374 @@
+[
+  {
+    "code": "C08J 3/00",
+    "description": "Procesos para el tratamiento de sustancias macromoleculares o la formación de mezclas [2006.01]"
+  },
+  {
+    "code": "C08J 3/02",
+    "description": "••Preparación de soluciones, dispersiones, látex o geles por métodos diferentes a las técnicas de polimerización por solución, emulsión o suspensión [2006.01]"
+  },
+  {
+    "code": "C08J 3/03",
+    "description": "••••en medio acuoso [2006.01]"
+  },
+  {
+    "code": "C08J 3/05",
+    "description": "••••••a partir de polímeros sólidos [2006.01]"
+  },
+  {
+    "code": "C08J 3/07",
+    "description": "••••••a partir de soluciones de polímeros [2006.01]"
+  },
+  {
+    "code": "C08J 3/075",
+    "description": "••••••Geles macromoleculares [2006.01]"
+  },
+  {
+    "code": "C08J 3/09",
+    "description": "••••en líquidos orgánicos [2006.01]"
+  },
+  {
+    "code": "C08J 3/11",
+    "description": "••••••a partir de polímeros sólidos [2006.01]"
+  },
+  {
+    "code": "C08J 3/12",
+    "description": "••Pulverización o granulación [2006.01]"
+  },
+  {
+    "code": "C08J 3/14",
+    "description": "••••por precipitación de soluciones [2006.01]"
+  },
+  {
+    "code": "C08J 3/16",
+    "description": "••••por coagulación de dispersiones [2006.01]"
+  },
+  {
+    "code": "C08J 3/18",
+    "description": "••Plastificación de compuestos macromoleculares (plastificantes C08K) [2006.01]"
+  },
+  {
+    "code": "C08J 3/20",
+    "description": "••Mezcla de polímeros con aditivos, p. ej. coloración [2006.01]"
+  },
+  {
+    "code": "C08J 3/205",
+    "description": "••••en presencia de una fase líquida [2006.01]"
+  },
+  {
+    "code": "C08J 3/21",
+    "description": "••••••en que el polímero está premezclado con una fase líquida [2006.01]"
+  },
+  {
+    "code": "C08J 3/215",
+    "description": "••••••••en que al menos un aditivo está igualmente premezclado con una fase líquida [2006.01]"
+  },
+  {
+    "code": "C08J 3/22",
+    "description": "••••utilizando técnicas de cargas principales [2006.01]"
+  },
+  {
+    "code": "C08J 3/24",
+    "description": "••Reticulación, p. ej. vulcanización de macromoléculas (aspectos mecánicos B29C 35/00; agentes de reticulación C08K) [2006.01]"
+  },
+  {
+    "code": "C08J 3/26",
+    "description": "••••de látex [2006.01]"
+  },
+  {
+    "code": "C08J 3/28",
+    "description": "••Tratamiento por energía ondulatoria o radicación corpuscular [2006.01]"
+  },
+  {
+    "code": "C08J 5/00",
+    "description": "Fabricación de artículos o modelado de materiales que contienen sustancias macromoleculares (fabricación de membranas semipermeables B01D 67/00-B01D 71/00) [2006.01]"
+  },
+  {
+    "code": "C08J 5/02",
+    "description": "••Proceso directo de dispersiones, p. ej. látex, para producir artículos [2006.01]"
+  },
+  {
+    "code": "C08J 5/04",
+    "description": "••Refuerzo de compuestos macromoleculares con materiales fibrosos desunidos o coherentes [2006.01]"
+  },
+  {
+    "code": "C08J 5/06",
+    "description": "••••utilizando materiales fibrosos pretratados [2006.01]"
+  },
+  {
+    "code": "C08J 5/08",
+    "description": "••••••fibras de vidrio [2006.01]"
+  },
+  {
+    "code": "C08J 5/10",
+    "description": "••••caracterizados por los aditivos utilizados en la mezcla de polímeros [2006.01]"
+  },
+  {
+    "code": "C08J 5/12",
+    "description": "••Unión de un material macromolecular preformado a uno igual a él o a otro material sólido tal como metal, vidrio, cuero, p. ej. utilizando adhesivos [2006.01]"
+  },
+  {
+    "code": "C08J 5/14",
+    "description": "••Fabricación de artículos o materiales abrasivos o de fricción [2006.01]"
+  },
+  {
+    "code": "C08J 5/16",
+    "description": "••Fabricación de artículos o materiales que tienen fricción reducida [2006.01]"
+  },
+  {
+    "code": "C08J 5/18",
+    "description": "••Fabricación de películas u hojas [2006.01]"
+  },
+  {
+    "code": "C08J 5/20",
+    "description": "••Fabricación de estructuras modeladas de resinas cambiadoras de iones [2006.01]"
+  },
+  {
+    "code": "C08J 5/22",
+    "description": "••••Películas, membranas o diafragmas [2006.01]"
+  },
+  {
+    "code": "C08J 5/24",
+    "description": "••Impregnación de materiales con prepolímeros que pueden ser polimerizados in situ, p. ej. fabricación de productos preimpregnados [2006.01]"
+  },
+  {
+    "code": "C08J 7/00",
+    "description": "Tratamiento químico o revestimiento de materiales modelados hechos de sustancias macromoleculares (revestimiento con materiales metálicos C23C; deposición electrolítica de metales C25) [2006.01]"
+  },
+  {
+    "code": "C08J 7/02",
+    "description": "••con solventes, p. ej. agentes de hinchamiento [2006.01]"
+  },
+  {
+    "code": "C08J 7/04",
+    "description": "••Recubrimiento [2020.01]"
+  },
+  {
+    "code": "C08J 7/043",
+    "description": "••••Mejora de la adhesividad de recubrimientos por sí mismos, p. ej. mediante imprimaciones (adhesivos en forma de películas o de láminas caracterizados por las capas de imprimación entre los soportes poliméricos y los adhesivos C09J 7/50) [2020.01]"
+  },
+  {
+    "code": "C08J 7/044",
+    "description": "••••Formación de recubrimientos conductores; Formación de recubrimientos con propiedades antiestáticas [2020.01]"
+  },
+  {
+    "code": "C08J 7/046",
+    "description": "••••Formación de recubrimientos resistentes a la abrasión; Formación de recubrimientos que endurecen la superficie [2020.01]"
+  },
+  {
+    "code": "C08J 7/048",
+    "description": "••••Formación de recubrimientos que actúan como barrera de gases [2020.01]"
+  },
+  {
+    "code": "C08J 7/05",
+    "description": "••••Formación de recubrimientos retardantes de llama o recubrimientos resistentes al fuego [2020.01]"
+  },
+  {
+    "code": "C08J 7/052",
+    "description": "••••Formación de recubrimientos termosellables [2020.01]"
+  },
+  {
+    "code": "C08J 7/054",
+    "description": "••••Formación de recubrimientos anti-vaho o anti-goteo [2020.01]"
+  },
+  {
+    "code": "C08J 7/056",
+    "description": "••••Formación de recubrimientos hidrófilos [2020.01]"
+  },
+  {
+    "code": "C08J 7/06",
+    "description": "••••con composiciones que no contienen sustancias macromoleculares [2006.01]"
+  },
+  {
+    "code": "C08J 7/12",
+    "description": "••Modificación química [2006.01]"
+  },
+  {
+    "code": "C08J 7/14",
+    "description": "••••con ácidos, sus sales o anhídridos [2006.01]"
+  },
+  {
+    "code": "C08J 7/16",
+    "description": "••••con compuestos polimerizables [2006.01]"
+  },
+  {
+    "code": "C08J 7/18",
+    "description": "••••••utilizando energía ondulatoria o radiación corpuscular [2006.01]"
+  },
+  {
+    "code": "C08J 9/00",
+    "description": "Producción de sustancias macromoleculares para producir artículos o materiales porosos o celulares; Su tratamiento posterior (aspectos mecánicos del modelado de materias plásticas o sustancias en estado plástico para la fabricación de objetos porosos o celulares B29C) [2006.01]"
+  },
+  {
+    "code": "C08J 9/02",
+    "description": "••utilizando gases de soplado generados por la reacción de monómeros o agentes modificantes durante la preparación o modificación de macromoléculas [2006.01]"
+  },
+  {
+    "code": "C08J 9/04",
+    "description": "••utilizando gases de soplado generados por una adición previa de agente de soplado [2006.01]"
+  },
+  {
+    "code": "C08J 9/06",
+    "description": "••••por un agente de soplado químico [2006.01]"
+  },
+  {
+    "code": "C08J 9/08",
+    "description": "••••••que desprenden dióxido de carbono [2006.01]"
+  },
+  {
+    "code": "C08J 9/10",
+    "description": "••••••que desprenden nitrógeno [2006.01]"
+  },
+  {
+    "code": "C08J 9/12",
+    "description": "••••por un agente de soplado físico [2006.01]"
+  },
+  {
+    "code": "C08J 9/14",
+    "description": "••••••orgánico [2006.01]"
+  },
+  {
+    "code": "C08J 9/16",
+    "description": "••Fabricación de partículas expandibles [2006.01]"
+  },
+  {
+    "code": "C08J 9/18",
+    "description": "••••por impregnación de partículas de polímero con agente de soplado [2006.01]"
+  },
+  {
+    "code": "C08J 9/20",
+    "description": "••••por polimerización en suspensión en presencia de agentes de soplado [2006.01]"
+  },
+  {
+    "code": "C08J 9/22",
+    "description": "••Postratamiento de partículas expansibles; formación de productos espumosos [2006.01]"
+  },
+  {
+    "code": "C08J 9/224",
+    "description": "••••Tratamiento de superficie [2006.01]"
+  },
+  {
+    "code": "C08J 9/228",
+    "description": "••••Formación de productos espumosos [2006.01]"
+  },
+  {
+    "code": "C08J 9/232",
+    "description": "••••••por sinterización de partículas expansibles [2006.01]"
+  },
+  {
+    "code": "C08J 9/236",
+    "description": "••••••mediante uso de agentes ligantes [2006.01]"
+  },
+  {
+    "code": "C08J 9/24",
+    "description": "••por fusión y unión superficial de partículas para formar huecos, p. ej. sinterización (de partículas expansibles C08J 9/232) [2006.01]"
+  },
+  {
+    "code": "C08J 9/26",
+    "description": "••por eliminación de una fase sólida de una composición o artículo macromolecular, p. ej. lixiviación [2006.01]"
+  },
+  {
+    "code": "C08J 9/28",
+    "description": "••por eliminación de una fase líquida de una composición o artículo macromolecular, p. ej. secado del coágulo [2006.01]"
+  },
+  {
+    "code": "C08J 9/30",
+    "description": "••por mezcla de gases en composiciones o plastisoles líquidos, p. ej. espumado con aire [2006.01]"
+  },
+  {
+    "code": "C08J 9/32",
+    "description": "••a partir de composiciones que contienen microcápsulas, p. ej. espumas sintéticas [2006.01]"
+  },
+  {
+    "code": "C08J 9/33",
+    "description": "••Aglomeración de fragmentos de espuma, p. ej. desechos de espuma [2006.01]"
+  },
+  {
+    "code": "C08J 9/34",
+    "description": "••Características químicas en la fabricación de artículos que están formados por un núcleo macromolecular espumado y una capa superficial macromolecular que tiene una densidad más alta que el núcleo [2006.01]"
+  },
+  {
+    "code": "C08J 9/35",
+    "description": "••Espumas compuestas, es decir, espumas macromoleculares continuas que contienen partículas o fragmentos celulares discontinuos [2006.01]"
+  },
+  {
+    "code": "C08J 9/36",
+    "description": "••Tratamiento posterior (C08J 9/22 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "C08J 9/38",
+    "description": "••••Destrucción de membranas celulares [2006.01]"
+  },
+  {
+    "code": "C08J 9/40",
+    "description": "••••Impregnación [2006.01]"
+  },
+  {
+    "code": "C08J 9/42",
+    "description": "••••••con compuestos macromoleculares [2006.01]"
+  },
+  {
+    "code": "C08J 11/00",
+    "description": "Recuperación o tratamiento de residuos (tratamientos mecánicos B29B 17/00; procesos de polimerización en los que interviene una purificación o un reciclo de residuos polímeros o de sus productos de despolimerización C08B, C08C, C08F, C08G, C08H) [2006.01]"
+  },
+  {
+    "code": "C08J 11/02",
+    "description": "••de solventes, plastificantes o monómeros que no han reaccionado [2006.01]"
+  },
+  {
+    "code": "C08J 11/04",
+    "description": "••de polímeros [2006.01]"
+  },
+  {
+    "code": "C08J 11/06",
+    "description": "••••sin reacción química [2006.01]"
+  },
+  {
+    "code": "C08J 11/08",
+    "description": "••••••utilizando solventes selectivos de los constituyentes polímeros [2006.01]"
+  },
+  {
+    "code": "C08J 11/10",
+    "description": "••••por ruptura de cadenas moleculares de polímeros o ruptura de enlaces de reticulación por vía química, p. ej. desvulcanización (despolimerización en el monómero de origen C07) [2006.01]"
+  },
+  {
+    "code": "C08J 11/12",
+    "description": "••••••únicamente por tratamiento con calor seco [2006.01]"
+  },
+  {
+    "code": "C08J 11/14",
+    "description": "••••••por tratamiento con vapor o agua [2006.01]"
+  },
+  {
+    "code": "C08J 11/16",
+    "description": "••••••por tratamiento con una sustancia inorgánica (C08J 11/14 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "C08J 11/18",
+    "description": "••••••por tratamiento con una sustancia orgánica [2006.01]"
+  },
+  {
+    "code": "C08J 11/20",
+    "description": "••••••••por tratamiento con hidrocarburos o hidrocarburos halogenados [2006.01]"
+  },
+  {
+    "code": "C08J 11/22",
+    "description": "••••••••por tratamiento con compuestos orgánicos que contienen oxígeno [2006.01]"
+  },
+  {
+    "code": "C08J 11/24",
+    "description": "••••••••••que contienen grupos hidroxilo [2006.01]"
+  },
+  {
+    "code": "C08J 11/26",
+    "description": "••••••••••que contienen grupos ácido carboxílico, sus anhídridos o ésteres [2006.01]"
+  },
+  {
+    "code": "C08J 11/28",
+    "description": "••••••••por tratamiento con compuestos orgánicos que contienen nitrógeno, azufre o fósforo [2006.01]"
+  },
+  {
+    "code": "C08J 99/00",
+    "description": "Materia no prevista en otros grupos de esta subclase [2006.01]"
+  }
+]

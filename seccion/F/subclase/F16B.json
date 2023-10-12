@@ -1,0 +1,694 @@
+[
+  {
+    "code": "F16B 1/00",
+    "description": "Dispositivos para asegurar elementos estructurales o partes de máquinas o bien para impedir cualquier movimiento relativo entre los mismos [2006.01]"
+  },
+  {
+    "code": "F16B 1/02",
+    "description": "••Medios para asegurar los elementos de mecanismos después del funcionamiento (medios para llevar los órganos a un estado de reposo F16D) [2006.01]"
+  },
+  {
+    "code": "F16B 1/04",
+    "description": "••••liberados por el movimiento del órgano de maniobra del elemento (cierre de los órganos de control G05G, p. ej. G05G 5/00) [2006.01]"
+  },
+  {
+    "code": "F16B 2/00",
+    "description": "Sujeciones de presión por fricción que se pueden soltar (para cables o cuerdas, p. ej. mordazas para cables, F16G 11/00; soportes para tubos, para cables o para conductos protectores F16L 3/00) [2006.01]"
+  },
+  {
+    "code": "F16B 2/02",
+    "description": "••Gatos mecánicos, es decir, dispositivos de fijación en los que el apriete se efectúa por fuerzas diferentes a la resistencia, a la deformación inherente al material [2006.01]"
+  },
+  {
+    "code": "F16B 2/04",
+    "description": "••••internos, es decir, actuando por expansión (F16B 2/14-F16B 2/18 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "F16B 2/06",
+    "description": "••••externos, es decir, actuando por contracción (F16B 2/14-F16B 2/18 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "F16B 2/08",
+    "description": "••••••utilizando bandas (collares de presión para empalmar las mangas a órganos rígidos F16L 33/02) [2006.01]"
+  },
+  {
+    "code": "F16B 2/10",
+    "description": "••••••utilizando mandíbulas articuladas en un eje [2006.01]"
+  },
+  {
+    "code": "F16B 2/12",
+    "description": "••••••utilizando mandíbulas deslizantes [2006.01]"
+  },
+  {
+    "code": "F16B 2/14",
+    "description": "••••utilizando cuñas [2006.01]"
+  },
+  {
+    "code": "F16B 2/16",
+    "description": "••••utilizando rodillos o bolas [2006.01]"
+  },
+  {
+    "code": "F16B 2/18",
+    "description": "••••utilizando levas, palancas, excéntricas o rótulas [2006.01]"
+  },
+  {
+    "code": "F16B 2/20",
+    "description": "••Pinzas, es decir, dispositivos de fijación de presión efectuada únicamente por la resistencia a la deformación inherente al material [2006.01]"
+  },
+  {
+    "code": "F16B 2/22",
+    "description": "••••de material elástico, p. ej. un material de goma [2006.01]"
+  },
+  {
+    "code": "F16B 2/24",
+    "description": "••••••metálico [2006.01]"
+  },
+  {
+    "code": "F16B 2/26",
+    "description": "••••de material no elástico plegable, p. ej. ligaduras para plantas [2006.01]"
+  },
+  {
+    "code": "F16B 3/00",
+    "description": "Fijaciones del tipo chaveta; Chavetas (F16B 2/00 tiene prioridad; ensambladuras de barras o montaje de tubos F16B 7/00) [2006.01]"
+  },
+  {
+    "code": "F16B 3/04",
+    "description": "••utilizando chavetas de hilo metálico o de cualquier otro material flexible introducidas en una abertura que da acceso a las ranuras practicadas en las superficies adyacentes de las partes a unir [2006.01]"
+  },
+  {
+    "code": "F16B 3/06",
+    "description": "••utilizando manguitos cónicos de presión [2006.01]"
+  },
+  {
+    "code": "F16B 4/00",
+    "description": "Ensambladura por contracción, p. ej. ensamblando con las partes calentadas a diferente temperatura; Montaje forzado (restringido para objetos o elementos metálicos B23P 11/02); Sujeciones de presión por fricción que no se pueden soltar (F16B 2/00 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F16B 5/00",
+    "description": "Unión de hojas o placas bien sea entre ellas, o bien a bandas o barras paralelas a ellas (por pegado F16B 11/00; uniones por clavijas F16B 13/00; pasadores incluyendo elementos deformables F16B 19/00; revestimientos de las paredes E04F 13/00; fijación de las placas, carteles, tableros o paneles a estructuras de soporte, fijación de elementos fácilmente separables p. ej. letras a las placas, carteles, tableros o paneles, G09F 7/00) [2006.01]"
+  },
+  {
+    "code": "F16B 5/01",
+    "description": "••por órganos de fijación especialmente adaptados a tableros en nido de abeja [2006.01]"
+  },
+  {
+    "code": "F16B 5/02",
+    "description": "••por órganos de fijación que utilizan un roscado (construcción de las ensambladuras roscadas F16B 25/00-F16B 39/00) [2006.01]"
+  },
+  {
+    "code": "F16B 5/04",
+    "description": "••por remachado (remaches F16B 19/04) [2006.01]"
+  },
+  {
+    "code": "F16B 5/06",
+    "description": "••por gatos mecánicos o clips (sujeciones de presión por fricción que se pueden soltar F16B 2/00) [2006.01]"
+  },
+  {
+    "code": "F16B 5/07",
+    "description": "••por ajuste de unas protuberancias múltiples colocadas en las dos superficies, p. ej. ganchos, espirales [2006.01]"
+  },
+  {
+    "code": "F16B 5/08",
+    "description": "••por soldadura o procedimientos similares (soldadura B23K) [2006.01]"
+  },
+  {
+    "code": "F16B 5/10",
+    "description": "••por montaje de bayoneta (dispositivos de fijación que ajustan por rotación F16B 21/02) [2006.01]"
+  },
+  {
+    "code": "F16B 5/12",
+    "description": "••Fijación de bandas o de barras a hojas o placas, p. ej. bandas de goma, bandas decorativas para vehículos de motor fijadas por pinzas (sujeciones de presión por fricción que se pueden soltar F16B 2/00; fijación de varillas o partes tubulares a superficies planas en un ángulo F16B 9/00; collares de presión para empalmar las mangas a órganos rígidos F16L 33/02) [2006.01]"
+  },
+  {
+    "code": "F16B 7/00",
+    "description": "Montajes de varillas o de tubos, p. ej. de sección no circular incluyendo los montajes elásticos (armaduras de paraguas A45B 25/02; soldadura de las uniones con o sin aporte de metal B23K; uniones para vehículos en general B60D; acoplamientos para vehículos ferroviarios B61G; cuadros de bicicleta B62K; acoplamientos de ejes F16D; acoplamientos de tuberías de fluidos F16L) [2006.01]"
+  },
+  {
+    "code": "F16B 7/02",
+    "description": "••con partes cónicas [2006.01]"
+  },
+  {
+    "code": "F16B 7/04",
+    "description": "••Montajes mediante gatos o clips (sujeciones de presión por fricción que se pueden soltar en general F16B 2/00) [2006.01]"
+  },
+  {
+    "code": "F16B 7/06",
+    "description": "••Tensores de tornillo (para cables, cuerdas o hilos metálicos F16G 11/12) [2006.01]"
+  },
+  {
+    "code": "F16B 7/08",
+    "description": "••Abrazaderas para tubos (sujeciones de presión por fricción que se pueden soltar en general F16B 2/00) [2006.01]"
+  },
+  {
+    "code": "F16B 7/10",
+    "description": "••Sistemas telescópicos (para andamiajes E04G 25/04; puntales telescópicos para minas E21D 15/14-E21D 15/46; estanterías o caballetes utilizados como soportes de aparatos u objetos F16M 11/00) [2006.01]"
+  },
+  {
+    "code": "F16B 7/12",
+    "description": "••••fijos solamente en la posición de máxima elongación [2006.01]"
+  },
+  {
+    "code": "F16B 7/14",
+    "description": "••••fijos en posiciones intermedias [2006.01]"
+  },
+  {
+    "code": "F16B 7/16",
+    "description": "••••••fijos solamente contra el movimiento en una dirección [2006.01]"
+  },
+  {
+    "code": "F16B 7/18",
+    "description": "••utilizando elementos roscados [2006.01]"
+  },
+  {
+    "code": "F16B 7/20",
+    "description": "••utilizando medios de ensambladura de bayoneta [2006.01]"
+  },
+  {
+    "code": "F16B 7/22",
+    "description": "••utilizando ganchos o elementos similares [2006.01]"
+  },
+  {
+    "code": "F16B 9/00",
+    "description": "Montajes de varillas o partes tubulares a superficies planas o que forman ángulo (sujeciones de presión por fricción que se pueden soltar, en general F16B 2/00; uniones efectuadas por presión B23P 11/00, B23P 19/00; empalmes de tuberías de fluido hermético a depósitos, bandas o similares F16L, p. ej. uniones de tubos a las paredes F16L 41/00; soportes para tubos, para cables o para conductos protectores F16L 3/00) [2006.01]"
+  },
+  {
+    "code": "F16B 9/02",
+    "description": "••Uniones desmontables [2006.01]"
+  },
+  {
+    "code": "F16B 12/00",
+    "description": "Unión de muebles u objetos similares, p. ej. ocultados desde el exterior (F16B 2/00-F16B 11/00 tienen prioridad; medios de fijación en sí\n\t\t\t\t\t\t\t\t\tF16B 13/00-F16B 47/00; trabajo de la madera B27) [2006.01]"
+  },
+  {
+    "code": "F16B 12/02",
+    "description": "••Uniones entre paneles y montantes de ángulo [2006.01]"
+  },
+  {
+    "code": "F16B 12/04",
+    "description": "••Juntas inaflojables, p. ej. encoladas, para elementos de muebles no metálicos [2006.01]"
+  },
+  {
+    "code": "F16B 12/06",
+    "description": "••Juntas inaflojables para elementos de muebles metálicos [2006.01]"
+  },
+  {
+    "code": "F16B 12/08",
+    "description": "••••sin usar elementos de unión separados [2006.01]"
+  },
+  {
+    "code": "F16B 12/10",
+    "description": "••por clavijas, bulones, espigas, pinzas o dispositivos similares (encolado F16B 12/04; medios de fijación en sí\n\t\t\t\t\t\t\t\t\t\tF16B 15/00-F16B 47/00) [2006.01]"
+  },
+  {
+    "code": "F16B 12/12",
+    "description": "••••para elementos de muebles no metálicos, p. ej. de madera, de material plástico [2006.01]"
+  },
+  {
+    "code": "F16B 12/14",
+    "description": "••••••utilizando tuercas o tornillos roscados [2006.01]"
+  },
+  {
+    "code": "F16B 12/16",
+    "description": "••••••••siendo los tornillos autorroscantes [2006.01]"
+  },
+  {
+    "code": "F16B 12/18",
+    "description": "••••••••con tensores [2006.01]"
+  },
+  {
+    "code": "F16B 12/20",
+    "description": "••••••utilizando gatos, clips, cuñas, bulones deslizantes o dispositivos similares [2006.01]"
+  },
+  {
+    "code": "F16B 12/22",
+    "description": "••••••utilizando chaveteros y chavetas [2006.01]"
+  },
+  {
+    "code": "F16B 12/24",
+    "description": "••••••utilizando chavetas, clavijas o dispositivos similares independientes [2006.01]"
+  },
+  {
+    "code": "F16B 12/26",
+    "description": "••••••utilizando dispositivos de acción rápida [2006.01]"
+  },
+  {
+    "code": "F16B 12/28",
+    "description": "••••para elementos de muebles metálicos [2006.01]"
+  },
+  {
+    "code": "F16B 12/30",
+    "description": "••••••utilizando tuercas roscadas [2006.01]"
+  },
+  {
+    "code": "F16B 12/32",
+    "description": "••••••utilizando gatos, clips, cuñas, bulones deslizantes o dispositivos similares [2006.01]"
+  },
+  {
+    "code": "F16B 12/34",
+    "description": "••••••utilizando chaveteros y chavetas [2006.01]"
+  },
+  {
+    "code": "F16B 12/36",
+    "description": "••••••utilizando chavetas, clavijas o dispositivos similares independientes [2006.01]"
+  },
+  {
+    "code": "F16B 12/38",
+    "description": "••••••utilizando dispositivos de acción rápida [2006.01]"
+  },
+  {
+    "code": "F16B 12/40",
+    "description": "••Uniones para tubos de muebles [2006.01]"
+  },
+  {
+    "code": "F16B 12/42",
+    "description": "••••que unen las partes tubulares con las partes no tubulares [2006.01]"
+  },
+  {
+    "code": "F16B 12/44",
+    "description": "••Uniones para patas de muebles; Uniones de ángulo [2006.01]"
+  },
+  {
+    "code": "F16B 12/46",
+    "description": "••••Conexiones de ángulo no metálicas [2006.01]"
+  },
+  {
+    "code": "F16B 12/48",
+    "description": "••••Conexiones de patas no metálicas (F16B 12/46 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F16B 12/50",
+    "description": "••••Conexiones de ángulo metálicas [2006.01]"
+  },
+  {
+    "code": "F16B 12/52",
+    "description": "••••Conexiones de patas metálicas (F16B 12/50 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F16B 12/54",
+    "description": "••Accesorios para bastidores de cama o partes semejantes [2006.01]"
+  },
+  {
+    "code": "F16B 12/56",
+    "description": "••••Soportes para bastidores de cama; Uniones de acoplamiento consistentes en bulones o piezas parecidas; Pestillos al efecto [2006.01]"
+  },
+  {
+    "code": "F16B 12/58",
+    "description": "••••Empalmes oblicuos para barrotes de cama [2006.01]"
+  },
+  {
+    "code": "F16B 12/60",
+    "description": "••••Accesorios de unión para paneles laterales retirables [2006.01]"
+  },
+  {
+    "code": "F16B 13/00",
+    "description": "Espigas u otros dispositivos fijos a las paredes o a cualquier otro emplazamiento por inserción en agujeros preparados para esta finalidad (clavos F16B 15/00; pasadores o bulones de autobloqueo en general, medios de fijación de macho y hembra retirable F16B 21/00; clavijas o tirafondos para traviesas de vía férrea E01B 9/00; medios de anclaje de elementos de estructura o de cortinas de tablestacas especialmente concebidos para las obras de cimentación E02D 5/74; bulones o espigas utilizadas durante el montaje de los ladrillos o de la colada del hormigón E04B 1/38; colocación de pernos de anclaje para pozos, túneles o galerías E21D 20/00; pernos de anclaje para pozos, túneles o galerías E21D 21/00) [2006.01]"
+  },
+  {
+    "code": "F16B 13/02",
+    "description": "••en una sola pieza con protuberancias o cordones sobre el eje [2006.01]"
+  },
+  {
+    "code": "F16B 13/04",
+    "description": "••con partes que están fijadas en el agujero o en la parte posterior de la pared después de su inserción desde la parte frontal (sujeciones de presión por fricción que se pueden soltar F16B 2/00) [2006.01]"
+  },
+  {
+    "code": "F16B 13/06",
+    "description": "••••combinadas con un manguito extensible [2006.01]"
+  },
+  {
+    "code": "F16B 13/08",
+    "description": "••••con las partes que se fijan separadas y trasladadas a su posición final con respecto al cuerpo del dispositivo sin operación manual ulterior [2006.01]"
+  },
+  {
+    "code": "F16B 13/10",
+    "description": "••••con las partes que se fijan separadas y trasladadas a su posición final con respecto al cuerpo del dispositivo mediante una operación separada (F16B 13/06 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F16B 13/12",
+    "description": "••Espigas metálicas huecas fijadas por la inserción de un tornillo, un clavo o una pieza similar [2006.01]"
+  },
+  {
+    "code": "F16B 13/13",
+    "description": "••••autocortantes [2006.01]"
+  },
+  {
+    "code": "F16B 13/14",
+    "description": "••Manguitos o espigas no metálicas; Utilización de un material líquido, semi-sólido o maleable con esta finalidad [2006.01]"
+  },
+  {
+    "code": "F16B 15/00",
+    "description": "Clavos; Grapas (grapas para cirugía A61B 17/064; fabricación de clavos o grapas B21G; pernos para carriles E01B 9/06) [2006.01]"
+  },
+  {
+    "code": "F16B 15/02",
+    "description": "••con cabezas de forma especial, p. ej. con una superficie alargada (ornamentos para muebles A47B 95/04; cabezas ornamentales retirables para clavos A47G 3/00) [2006.01]"
+  },
+  {
+    "code": "F16B 15/04",
+    "description": "••con cuerpo extensible [2006.01]"
+  },
+  {
+    "code": "F16B 15/06",
+    "description": "••con púas, p. ej. para partes metálicas; Clavos con fileteado [2006.01]"
+  },
+  {
+    "code": "F16B 15/08",
+    "description": "••dispuestos en series integrales pero fácilmente separables [2006.01]"
+  },
+  {
+    "code": "F16B 17/00",
+    "description": "Medios de fijación sin roscado para elementos estructurales o partes de máquinas mediante la penetración de una parte de un elemento de una pieza colocada por un elemento en un agujero practicado en el otro (estructura de las espigas, pasadores o remaches F16B 19/00; remachado F16B 19/04; remache, dispositivos o cualquier otra pieza pueda impedir salirse de su alojamiento, medios de fijación de macho y hembras retirables F16B 21/00) [2006.01]"
+  },
+  {
+    "code": "F16B 19/00",
+    "description": "Bulones sin rosca; Pasadores incluyendo aquellos que se deforman (en ensambladuras atornilladas F16B 29/00); Remaches (medios para impedir que se salgan F16B 21/00) [2006.01]"
+  },
+  {
+    "code": "F16B 19/02",
+    "description": "••Bulones o manguitos para posicionar las partes de máquinas, p. ej. pasadores cónicos de muesca, pasadores de montaje, manguitos, anillos excéntricos de ajuste [2006.01]"
+  },
+  {
+    "code": "F16B 19/04",
+    "description": "••Remaches; Espigas o piezas análogas fijas por remachado (sellados de plomo G09F 3/00) [2006.01]"
+  },
+  {
+    "code": "F16B 19/05",
+    "description": "••••Bulones o clavijas fijadas por collaretes embutidos (F16B 19/08 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F16B 19/06",
+    "description": "••••Remaches macizos de una sola pieza [2006.01]"
+  },
+  {
+    "code": "F16B 19/08",
+    "description": "••••Remaches huecos; Remaches en varios pedazos [2006.01]"
+  },
+  {
+    "code": "F16B 19/10",
+    "description": "••••••fijos por una acción mecánica [2006.01]"
+  },
+  {
+    "code": "F16B 19/12",
+    "description": "••••••fijos por presión de un fluido, incluyendo por explosión (bulones clavados en estructuras de hormigón, en paredes metálicas o análogas por herramientas de detonación F16B 19/14) [2006.01]"
+  },
+  {
+    "code": "F16B 19/14",
+    "description": "••Bulones, clavijas o piezas similares que se clavan por disparo en construcciones de hormigón, paredes metálicas o análogas por medio de herramientas de clavar que funcionan por detonación (herramientas para este uso B25C, B27F) [2006.01]"
+  },
+  {
+    "code": "F16B 21/00",
+    "description": "Medios sin roscado para prevenir el movimiento axial relativo de pasadores, espigas, ejes o similares y el órgano que ellos abarcan (espigas ribeteadas o deformables F16B 19/04; para muñones del pistón F16J 1/18); Medios de fijación de pasador y casquillo que se pueden soltar sin roscado [2006.01]"
+  },
+  {
+    "code": "F16B 21/02",
+    "description": "••Dispositivos de fijación soltables que traban por rotación (de acción rápida F16B 21/06; pasadores o machos de montaje con protuberancias elásticas F16B 21/08) [2006.01]"
+  },
+  {
+    "code": "F16B 21/04",
+    "description": "••••de bayoneta [2006.01]"
+  },
+  {
+    "code": "F16B 21/06",
+    "description": "••Dispositivos de fijación soltables de acción rápida [2006.01]"
+  },
+  {
+    "code": "F16B 21/07",
+    "description": "••••en los cuales la hembra tiene una parte elástica [2006.01]"
+  },
+  {
+    "code": "F16B 21/08",
+    "description": "••••en los cuales el macho o el manguito tiene una parte elástica (clavijas para paredes F16B 13/00) [2006.01]"
+  },
+  {
+    "code": "F16B 21/09",
+    "description": "••Dispositivos de fijación soltables por macho que penetran en un alojamiento [2006.01]"
+  },
+  {
+    "code": "F16B 21/10",
+    "description": "••con partes separadas (montaje del tipo de clavija F16B 3/00; bloqueo de los tornillos o de las tuercas contra la rotación por tales dispositivos F16B 39/04) [2006.01]"
+  },
+  {
+    "code": "F16B 21/12",
+    "description": "••••por pasadores de bloqueo o pasadores de aletas embutidos en los agujeros [2006.01]"
+  },
+  {
+    "code": "F16B 21/14",
+    "description": "••••••Detalles de pasadores de bloqueo o pasadores de aletas [2006.01]"
+  },
+  {
+    "code": "F16B 21/16",
+    "description": "••••con gargantas o acanaladuras practicadas en el eje o en el pasador [2006.01]"
+  },
+  {
+    "code": "F16B 21/18",
+    "description": "••••••y con un anillo en forma de resorte insertado en la garganta (circlip) u otro dispositivo elástico de fijación del mismo género; Detalles (arandelas de resorte para bloquear las tuercas F16B 39/24; anillos de reglaje F16B 43/00) [2006.01]"
+  },
+  {
+    "code": "F16B 21/20",
+    "description": "••••para espigas o ejes sin agujeros, sin garganta ni acanaladuras para los órganos de bloqueo [2006.01]"
+  },
+  {
+    "code": "F16B 23/00",
+    "description": "Cabezas de bulones o de tornillos de forma especial para permitir su rotación con la ayuda de una herramienta [2006.01]"
+  },
+  {
+    "code": "F16B 25/00",
+    "description": "Tornillos que forman la rosca en el material en el cual se atornillan, p. ej. tirafondos, tornillo autorroscante [2006.01]"
+  },
+  {
+    "code": "F16B 25/02",
+    "description": "••por arranque y levantamiento del material, p. ej. tornillos roscantes acanalados [2006.01]"
+  },
+  {
+    "code": "F16B 25/04",
+    "description": "••por corte y desplazamiento del material, p. ej. tirafondos con rosca de aristas cortantes [2006.01]"
+  },
+  {
+    "code": "F16B 25/06",
+    "description": "••por estampado, es decir por deformación del material [2006.01]"
+  },
+  {
+    "code": "F16B 25/08",
+    "description": "••por combinación al menos de dos acciones previstas en los grupos F16B 25/02-F16B 25/06 [2006.01]"
+  },
+  {
+    "code": "F16B 25/10",
+    "description": "••Tornillos con una función distinta a la de formación de roscas, p. ej. tornillos perforadores [2006.01]"
+  },
+  {
+    "code": "F16B 27/00",
+    "description": "Bulones, tornillos o tuercas fabricados en series integrales, pero fácilmente separables, particularmente para su utilización en máquinas automáticas [2006.01]"
+  },
+  {
+    "code": "F16B 29/00",
+    "description": "Unión mediante tornillos con deformación de la tuerca o de un órgano auxiliar durante la fijación (clavijas para paredes F16B 13/00; miembros deformados por el bloqueo de los tornillos, bulones o tuercas F16B 39/22) [2006.01]"
+  },
+  {
+    "code": "F16B 31/00",
+    "description": "Uniones mediante tornillos especialmente modificados para soportar un esfuerzo de tracción; Bulones de ruptura (forma del roscado F16B 33/04) [2006.01]"
+  },
+  {
+    "code": "F16B 31/02",
+    "description": "••señalando o limitando la carga de tracción [2006.01]"
+  },
+  {
+    "code": "F16B 31/04",
+    "description": "••manteniendo constante la carga de tracción [2006.01]"
+  },
+  {
+    "code": "F16B 31/06",
+    "description": "••teniendo presente las posibilidades de ruptura por fatiga [2006.01]"
+  },
+  {
+    "code": "F16B 33/00",
+    "description": "Características comunes a los bulones y a las tuercas (clavijas para paredes F16B 13/00) [2006.01]"
+  },
+  {
+    "code": "F16B 33/02",
+    "description": "••Forma del roscado; Perfiles de roscado particulares (usados como bloqueo de tornillos F16B 39/30) [2006.01]"
+  },
+  {
+    "code": "F16B 33/04",
+    "description": "••••para soportar una carga de tracción [2006.01]"
+  },
+  {
+    "code": "F16B 33/06",
+    "description": "••Tratamiento de la superficie de las partes donde se encuentra realizado el roscado, para impedir el gripado [2006.01]"
+  },
+  {
+    "code": "F16B 35/00",
+    "description": "Bulones roscados; Bulones de anclaje; Pasadores roscados; Tornillos; Tornillos de presión Screw-bolts (clavijas para paredes F16B 13/00; tornillo que practican la rosca F16B 25/00) [2006.01]"
+  },
+  {
+    "code": "F16B 35/02",
+    "description": "••divididos en el sentido longitudinal [2006.01]"
+  },
+  {
+    "code": "F16B 35/04",
+    "description": "••con una cabeza o un eje de forma particular que permite fijar el bulón sobre o en un objeto (fijación del bulón para impedir su rotación en el objeto para el empleo de piezas accesorias F16B 39/00) [2006.01]"
+  },
+  {
+    "code": "F16B 35/06",
+    "description": "••••Cabezas de forma particular (forma particular para hacer girar el bulón F16B 23/00) [2006.01]"
+  },
+  {
+    "code": "F16B 37/00",
+    "description": "Tuercas o piezas similares con entradas de rosca (clavijas para paredes F16B 13/00) [2006.01]"
+  },
+  {
+    "code": "F16B 37/02",
+    "description": "••hechas de un material en hoja delgada (fijación a las superficies F16B 37/04) [2006.01]"
+  },
+  {
+    "code": "F16B 37/04",
+    "description": "••Dispositivos para fijar las tuercas a las superficies, p. ej. láminas, placas [2006.01]"
+  },
+  {
+    "code": "F16B 37/06",
+    "description": "••••por soldadura o remachado [2006.01]"
+  },
+  {
+    "code": "F16B 37/08",
+    "description": "••Tuercas rápidamente quitables, p. ej. constituidas de dos o más partes; Tuercas móviles a lo largo del vástago después de bascular la tuerca [2006.01]"
+  },
+  {
+    "code": "F16B 37/10",
+    "description": "••••dividida paralelamente o aproximadamente paralela al eje del bulón [2006.01]"
+  },
+  {
+    "code": "F16B 37/12",
+    "description": "••con superficies de entrada de rosca formadas por introducción de muelles en espiral, discos o análogos; Piezas independientes de bobinado de alambre usadas como bulones; Forma del roscado dentro de agujeros [2006.01]"
+  },
+  {
+    "code": "F16B 37/14",
+    "description": "••Tapón roscado; Tapas de tuercas o tapas de bulones [2006.01]"
+  },
+  {
+    "code": "F16B 37/16",
+    "description": "••Tuerca de aletas (F16B 37/14 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F16B 39/00",
+    "description": "Bloqueo de tornillos, bulones o tuercas (clavijas para paredes F16B 13/00; bloqueo de tapas para botellas B65D; bloqueo de los bulones de fijación de las traviesas ferroviarias permanentemente E01B 9/12; bloqueo de los medios de fijación en bridas de carriles ferroviarios E01B 11/38; dispositivos de bloqueo para válvulas o grifos F16K) [2006.01]"
+  },
+  {
+    "code": "F16B 39/01",
+    "description": "••especialmente adaptado para prevenir el aflojamiento en altas temperaturas [2006.01]"
+  },
+  {
+    "code": "F16B 39/02",
+    "description": "••en el cual el bloqueo tiene lugar después del atornillamiento (F16B 39/01 tiene prioridad; pasadores de aletas, anillos de fijación (circlips), o análogos para prevenir solamente el movimiento relativo axial F16B 21/10; fijación de tuercas por soldadura o remachado F16B 37/06) [2006.01]"
+  },
+  {
+    "code": "F16B 39/04",
+    "description": "••••con un órgano que penetra la superficie roscada de una de las piezas al menos, p. ej. un pasador, una cuña, una clavija hendida, un tornillo [2006.01]"
+  },
+  {
+    "code": "F16B 39/06",
+    "description": "••••••con un pasador o grapa paralela al eje del bulón [2006.01]"
+  },
+  {
+    "code": "F16B 39/08",
+    "description": "••••con un sombrerete que empuja contra la tuerca, unida al bulón por un pasador o una clavija hendida [2006.01]"
+  },
+  {
+    "code": "F16B 39/10",
+    "description": "••••por una placa o un anillo inmóvil con relación al bulón o al objeto (F16B 39/08 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F16B 39/12",
+    "description": "••••por tuercas de bloqueo, es decir, contratuercas [2006.01]"
+  },
+  {
+    "code": "F16B 39/14",
+    "description": "••••••hechas de un material en hoja delgada o presentándose como arandelas elásticas (contratuercas en sí en tanto en cuanto estén hechas de un material de hoja delgada F16B 37/02) [2006.01]"
+  },
+  {
+    "code": "F16B 39/16",
+    "description": "••••••siendo el roscado de la contratuerca diferente del de la tuerca de apriete [2006.01]"
+  },
+  {
+    "code": "F16B 39/18",
+    "description": "••••••••en el que la contratuerca agarra tanto en el roscado de la tuerca como en el del bulón [2006.01]"
+  },
+  {
+    "code": "F16B 39/20",
+    "description": "••••por medio de hilos de acero o elementos análogos (F16B 39/10 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F16B 39/22",
+    "description": "••en el que el blocaje se hace al mismo tiempo que el atornillado o el apriete (F16B 39/01 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F16B 39/24",
+    "description": "••••por arandelas, arandelas de resorte o placas elásticas que se bloquean contra el objeto (bloqueo sobre el roscado F16B 39/14, F16B 39/36) [2006.01]"
+  },
+  {
+    "code": "F16B 39/26",
+    "description": "••••••estando las arandelas de resorte fijas a la tuerca o a la cabeza del bulón [2006.01]"
+  },
+  {
+    "code": "F16B 39/28",
+    "description": "••••por órganos particulares colocados por la tuerca o el bulón o por la forma particular de estos mismos (F16B 39/26 tiene prioridad; tuercas de bloqueo F16B 39/12) [2006.01]"
+  },
+  {
+    "code": "F16B 39/282",
+    "description": "••••••Bloqueo por dispositivos cuyas superficies de trabajo tienen una forma especial, p. ej. tuercas con muescas o con dientes [2006.01]"
+  },
+  {
+    "code": "F16B 39/284",
+    "description": "••••••Bloqueo por deformación elástica (F16B 39/38 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F16B 39/286",
+    "description": "••••••••causada por cortes de sierra [2006.01]"
+  },
+  {
+    "code": "F16B 39/30",
+    "description": "••••••Bloqueo exclusivamente por la forma especial del roscado [2006.01]"
+  },
+  {
+    "code": "F16B 39/32",
+    "description": "••••••Bloqueo por trinquete o lengüeta en forma de trinquete [2006.01]"
+  },
+  {
+    "code": "F16B 39/34",
+    "description": "••••••Bloqueo por inserciones deformables o medios análogos [2006.01]"
+  },
+  {
+    "code": "F16B 39/36",
+    "description": "••••••con partes cónicas de bloqueo que pueden estar aleteadas incluyendo incluso los anillos separados utilizados con estas partes [2006.01]"
+  },
+  {
+    "code": "F16B 39/38",
+    "description": "••••••con una segunda parte de roscado que puede estar colocada elásticamente (F16B 39/30 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F16B 43/00",
+    "description": "Arandelas o dispositivos equivalentes; Otros dispositivos de soporte para cabezas de bulones, tuercas (alicates anulares (circlips) F16B 21/18; con medios especiales de bloqueo de los bulones o tuercas F16B 39/10, F16B 39/24) [2006.01]"
+  },
+  {
+    "code": "F16B 43/02",
+    "description": "••con dispositivos especiales para enganchar superficies que no son perpendiculares al eje del bulón o que no rodean a éste [2006.01]"
+  },
+  {
+    "code": "F16B 45/00",
+    "description": "Ganchos; Argollas (si las partes o medios de fijación conciernen a los grupos F16B 13/00, F16B 15/00, F16B 19/00, F16B 25/00, F16B 35/00, F16B 47/00 tienen prioridad; para suspender cuadros u objetos parecidos A47G 1/16; garfios de remolque para buques B63B 21/58; para elevar o arrastrar B66C; ganchos u ojales con partes para permitir su fijación rápida en cualquier punto de los cables o cuerdas F16G 11/14) [2006.01]"
+  },
+  {
+    "code": "F16B 45/02",
+    "description": "••Ganchos de broche pivotante [2006.01]"
+  },
+  {
+    "code": "F16B 45/04",
+    "description": "••Ganchos de broche deslizante [2006.01]"
+  },
+  {
+    "code": "F16B 45/06",
+    "description": "••Ganchos de dos partes simétricas giratorias [2006.01]"
+  },
+  {
+    "code": "F16B 47/00",
+    "description": "Ventosas para adherencias; Medios equivalentes utilizando adhesivos [2006.01]"
+  }
+]

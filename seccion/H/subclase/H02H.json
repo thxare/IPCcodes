@@ -1,0 +1,326 @@
+[
+  {
+    "code": "H02H 1/00",
+    "description": "Detalles de circuitos de protección de seguridad [2006.01]"
+  },
+  {
+    "code": "H02H 1/04",
+    "description": "••Disposiciones para evitar respuestas a condiciones anormales transitorias, p. ej. a los rayos [2006.01]"
+  },
+  {
+    "code": "H02H 1/06",
+    "description": "••Disposiciones para suministrar la potencia de accionamiento [2006.01]"
+  },
+  {
+    "code": "H02H 3/00",
+    "description": "Circuitos de protección de seguridad para desconexión automática respondiendo directamente a un cambio indeseado de las condiciones eléctricas normales de trabajo con o sin reconexión (especialmente adaptados para máquinas o aparatos de tipos especiales o para la protección seccional de sistemas de cables o líneas H02H 7/00; sistemas para conmutación de la alimentación de reserva H02J 9/00) [2006.01]"
+  },
+  {
+    "code": "H02H 3/02",
+    "description": "••Detalles [2006.01]"
+  },
+  {
+    "code": "H02H 3/027",
+    "description": "••••con desconexión automática después de una duración predeterminada (H02H 3/033, H02H 3/06 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H02H 3/033",
+    "description": "••••con varias desconexiones según un orden preferencial (H02H 3/06 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H02H 3/04",
+    "description": "••••con señalización o supervisión adicional a la desconexión, p. ej. para indicar que el aparato de protección ha funcionado [2006.01]"
+  },
+  {
+    "code": "H02H 3/05",
+    "description": "••••con medios para aumentar la fiabilidad, p. ej. dispositivos redundantes [2006.01]"
+  },
+  {
+    "code": "H02H 3/06",
+    "description": "••••con reconexión automática [2006.01]"
+  },
+  {
+    "code": "H02H 3/07",
+    "description": "••••••y con desconexión permanente después de un número predeterminado de ciclos de reconexión [2006.01]"
+  },
+  {
+    "code": "H02H 3/08",
+    "description": "••sensible a un exceso de corriente (sensibles a una temperatura anormal causada por un exceso de corriente H02H 5/04) [2006.01]"
+  },
+  {
+    "code": "H02H 3/087",
+    "description": "••••para sistemas de corriente continua [2006.01]"
+  },
+  {
+    "code": "H02H 3/093",
+    "description": "••••con medios de temporización [2006.01]"
+  },
+  {
+    "code": "H02H 3/10",
+    "description": "••••sensibles además a alguna otra condición eléctrica anormal [2006.01]"
+  },
+  {
+    "code": "H02H 3/12",
+    "description": "••sensibles a una falta de carga o a una carga nula [2006.01]"
+  },
+  {
+    "code": "H02H 3/13",
+    "description": "••••para sistemas polifásicos, p. ej. en caso de corte de una fase [2006.01]"
+  },
+  {
+    "code": "H02H 3/14",
+    "description": "••sensibles a la presencia de una tensión sobre las piezas, normalmente al potencial de tierra [2006.01]"
+  },
+  {
+    "code": "H02H 3/16",
+    "description": "••sensibles a una corriente de defecto a tierra o a masa (con disposiciones para medidas de equilibrio o diferenciales H02H 3/26) [2006.01]"
+  },
+  {
+    "code": "H02H 3/17",
+    "description": "••••por medios de una tensión auxiliar inyectada en la instalación a proteger [2006.01]"
+  },
+  {
+    "code": "H02H 3/18",
+    "description": "••sensibles a la inversión de corriente continua [2006.01]"
+  },
+  {
+    "code": "H02H 3/20",
+    "description": "••sensibles a un exceso de tensión [2006.01]"
+  },
+  {
+    "code": "H02H 3/22",
+    "description": "••••de corta duración, p. ej. rayos [2006.01]"
+  },
+  {
+    "code": "H02H 3/24",
+    "description": "••sensibles a una baja tensión o falta de tensión [2006.01]"
+  },
+  {
+    "code": "H02H 3/247",
+    "description": "••••teniendo medios de temporización [2006.01]"
+  },
+  {
+    "code": "H02H 3/253",
+    "description": "••••para sistemas polifásicos, p. ej. en caso de una fase [2006.01]"
+  },
+  {
+    "code": "H02H 3/26",
+    "description": "••sensibles a la diferencia de tensiones o de corrientes; sensibles a un ángulo de desfase entre tensiones o entre corrientes [2006.01]"
+  },
+  {
+    "code": "H02H 3/28",
+    "description": "••••comprendiendo la comparación de valores de tensión o de corriente de dos porciones separadas de un mismo sistema, p. ej. en los extremos opuestos de una línea, en la entrada y salida de una aparato [2006.01]"
+  },
+  {
+    "code": "H02H 3/30",
+    "description": "••••••utilizando hilos pilotos u otros canales de señalización [2006.01]"
+  },
+  {
+    "code": "H02H 3/32",
+    "description": "••••comprendiendo la comparación de dos valores de tensión o de corriente en dos puntos correspondientes de diferentes conductores de un mismo sistema, p. ej. de corrientes en conductores de ida y retorno [2006.01]"
+  },
+  {
+    "code": "H02H 3/33",
+    "description": "••••••utilizando transformadores sumadores de corriente (H02H 3/347 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H02H 3/34",
+    "description": "••••••de un sistema trifásico [2006.01]"
+  },
+  {
+    "code": "H02H 3/347",
+    "description": "••••••••utilizando transformadores sumadores de corriente [2006.01]"
+  },
+  {
+    "code": "H02H 3/353",
+    "description": "••••••••implicando una comparación de tensiones de fase [2006.01]"
+  },
+  {
+    "code": "H02H 3/36",
+    "description": "••••comprendiendo la comparación de valores de tensión o de corriente en dos puntos correspondientes de sistemas diferentes, p. ej. sistemas de alimentación en paralelo [2006.01]"
+  },
+  {
+    "code": "H02H 3/38",
+    "description": "••sensible a la vez a la tensión y a la corriente; sensibles a un ángulo de desfase entre tensión y corriente [2006.01]"
+  },
+  {
+    "code": "H02H 3/40",
+    "description": "••sensibles a la relación entre tensión y corriente [2006.01]"
+  },
+  {
+    "code": "H02H 3/42",
+    "description": "••sensibles al producto de la tensión por la corriente [2006.01]"
+  },
+  {
+    "code": "H02H 3/44",
+    "description": "••sensibles a las tasas de variación de cantidades eléctricas [2006.01]"
+  },
+  {
+    "code": "H02H 3/46",
+    "description": "••sensibles a las desviaciones de frecuencia [2006.01]"
+  },
+  {
+    "code": "H02H 3/48",
+    "description": "••sensibles a una ruptura de sincronismo [2006.01]"
+  },
+  {
+    "code": "H02H 3/50",
+    "description": "••sensibles a la aparición de ondas anormales, p. ej. de una corriente alterna en instalaciones de corriente continua [2006.01]"
+  },
+  {
+    "code": "H02H 3/52",
+    "description": "••••sensibles a la aparición de armónicos [2006.01]"
+  },
+  {
+    "code": "H02H 5/00",
+    "description": "Circuitos de protección de seguridad para desconexión automática debida directamente a un cambio indeseable de las condiciones no eléctricas normales de trabajo con o sin reconexión (que utilizan dispositivos simuladores del aparato a proteger H02H 6/00; especialmente adaptados a máquinas o aparatos eléctricos de tipos específicos o a la protección seccional de sistemas de cables o de líneas H02H 7/00) [2006.01]"
+  },
+  {
+    "code": "H02H 5/04",
+    "description": "••sensibles a una temperatura anormal [2006.01]"
+  },
+  {
+    "code": "H02H 5/06",
+    "description": "••••en aparatos eléctricos rellenos de aceite [2006.01]"
+  },
+  {
+    "code": "H02H 5/08",
+    "description": "••sensibles a una presión de fluido, a un nivel de líquido o a un desplazamiento de líquido anormal, p. ej. relés Buchholz [2006.01]"
+  },
+  {
+    "code": "H02H 5/10",
+    "description": "••sensibles a un deterioramiento mecánico, p. ej. ruptura de línea, ruptura de conexión de tierra [2006.01]"
+  },
+  {
+    "code": "H02H 5/12",
+    "description": "••sensibles a la presencia o contactos indeseables de un ser viviente sobre las partes que están bajo corriente [2006.01]"
+  },
+  {
+    "code": "H02H 6/00",
+    "description": "Circuitos de protección de seguridad sensibles a cambios indeseables de las condiciones no eléctricas normales de trabajo y que utilizan dispositivos simuladores del aparato protegido, p. ej. que utilizan imágenes térmicas [2006.01]"
+  },
+  {
+    "code": "H02H 7/00",
+    "description": "Circuitos de protección de seguridad especialmente adaptados para máquinas o aparatos eléctricos de tipos especiales o para la protección seccional de sistemas de cables o líneas, y efectuando una conmutación automática en el caso de un cambio indeseable de las condiciones normales de trabajo (asociación estructural de órganos de protección con máquinas o aparatos específicos y su protección sin desconexión automática, ver la subclase correspondiente a tales máquinas o aparatos) [2006.01]"
+  },
+  {
+    "code": "H02H 7/04",
+    "description": "••para transformadores [2006.01]"
+  },
+  {
+    "code": "H02H 7/045",
+    "description": "••••Protección diferencial de transformadores [2006.01]"
+  },
+  {
+    "code": "H02H 7/05",
+    "description": "••••para transformadores de tensión capacitivos, p. ej. contra las condiciones de resonancia [2006.01]"
+  },
+  {
+    "code": "H02H 7/055",
+    "description": "••••para transformadores de tomas o para los cambiadores de toma correspondientes [2006.01]"
+  },
+  {
+    "code": "H02H 7/06",
+    "description": "••para generadores dinamoeléctricos; para compensadores síncronos [2006.01]"
+  },
+  {
+    "code": "H02H 7/08",
+    "description": "••para motores dinamoeléctricos [2006.01]"
+  },
+  {
+    "code": "H02H 7/085",
+    "description": "••••contra una carga excesiva [2006.01]"
+  },
+  {
+    "code": "H02H 7/09",
+    "description": "••••contra una sobretensión; contra una reducción de tensión; contra una interrupción de fase [2006.01]"
+  },
+  {
+    "code": "H02H 7/093",
+    "description": "••••contra un aumento o disminución de un predeterminado nivel de velocidad rotacional (interruptores centrífugos H01H 35/10) [2006.01]"
+  },
+  {
+    "code": "H02H 7/097",
+    "description": "••••contra un sentido equivocado de rotación [2006.01]"
+  },
+  {
+    "code": "H02H 7/10",
+    "description": "••para convertidores; para rectificadores [2006.01]"
+  },
+  {
+    "code": "H02H 7/12",
+    "description": "••••para convertidores o para rectificadores estáticos [2006.01]"
+  },
+  {
+    "code": "H02H 7/122",
+    "description": "••••••para inversores, es decir, convertidores de corriente continua en corriente alterna [2006.01]"
+  },
+  {
+    "code": "H02H 7/125",
+    "description": "••••••para rectificadores [2006.01]"
+  },
+  {
+    "code": "H02H 7/127",
+    "description": "••••••••teniendo un electrodo de control auxiliar al que se aplican tensiones o corrientes de bloque en caso de condiciones indeseables [2006.01]"
+  },
+  {
+    "code": "H02H 7/16",
+    "description": "••para condensadores (para condensadores síncronos H02H 7/06) [2006.01]"
+  },
+  {
+    "code": "H02H 7/18",
+    "description": "••para pilas; para acumuladores [2006.01]"
+  },
+  {
+    "code": "H02H 7/20",
+    "description": "••para equipo electrónico (para convertidores H02H 7/10; para instrumentos de medida eléctricos G01R 1/36; para reguladores de tensión o de corriente continua con semiconductores G05F 1/569; para amplificadores H03F 1/52; para circuitos de conmutación electrónica H03K 17/08) [2006.01]"
+  },
+  {
+    "code": "H02H 7/22",
+    "description": "••para mecanismos de distribución, p. ej. sistemas de barra ómnibus; para dispositivos de conmutación [2006.01]"
+  },
+  {
+    "code": "H02H 7/24",
+    "description": "••para espinterómetros de chispa [2006.01]"
+  },
+  {
+    "code": "H02H 7/26",
+    "description": "••Protección seccional de sistemas de cables o líneas, p. ej. para desconectar una sección en la que un cortocircuito, un defecto de tierra, o una descarga de arco se ha producido (localización de defectos en los cables G01R 31/08) [2006.01]"
+  },
+  {
+    "code": "H02H 7/28",
+    "description": "••••por sistemas de malla [2006.01]"
+  },
+  {
+    "code": "H02H 7/30",
+    "description": "••••Desconexión escalonada [2006.01]"
+  },
+  {
+    "code": "H02H 9/00",
+    "description": "Circuitos de protección de seguridad para limitar el exceso de corriente o de tensión sin desconexión (asociación estructural de dispositivos de protección con máquinas o aparatos específicos ver las subclases relativas a estas máquinas o aparatos) [2006.01]"
+  },
+  {
+    "code": "H02H 9/02",
+    "description": "••sensibles a un exceso de corriente [2006.01]"
+  },
+  {
+    "code": "H02H 9/04",
+    "description": "••sensibles a un exceso de tensión (pararrayos H01C 7/12, H01C 8/04, H01G 9/18, H01T) [2006.01]"
+  },
+  {
+    "code": "H02H 9/06",
+    "description": "••••utilizando un espinterómetro de chispa [2006.01]"
+  },
+  {
+    "code": "H02H 9/08",
+    "description": "••Limitación o supresión de corrientes de defecto a tierra, p. ej. bobina Petersen [2006.01]"
+  },
+  {
+    "code": "H02H 11/00",
+    "description": "Circuitos de protección de seguridad para evitar la conmutación de puesta en servicio en el caso de que pudiera resultar una condición eléctrica de trabajo indeseada [2006.01]"
+  },
+  {
+    "code": "H02H 99/00",
+    "description": "Materia no prevista en otros grupos de esta subclase [2009.01]"
+  }
+]

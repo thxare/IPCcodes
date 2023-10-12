@@ -1,0 +1,242 @@
+[
+  {
+    "code": "F24D 1/00",
+    "description": "Sistemas de calefacción central de vapor (sistemas de calefacción urbana F24D 10/00; sistemas de calefacción central que utilizan el calor acumulado en masas de almacenamiento F24D 11/00) [2022.01]"
+  },
+  {
+    "code": "F24D 1/02",
+    "description": "••que utilizan vapor vivo [2006.01]"
+  },
+  {
+    "code": "F24D 1/04",
+    "description": "••que utilizan vapor de escape [2006.01]"
+  },
+  {
+    "code": "F24D 1/06",
+    "description": "••que utilizan vapor sobrecalentado [2006.01]"
+  },
+  {
+    "code": "F24D 1/08",
+    "description": "••Disposiciones de la tubería de alimentación, p. ej. a través de un conducto único [2006.01]"
+  },
+  {
+    "code": "F24D 3/00",
+    "description": "Sistemas de calefacción central por agua caliente (sistemas de calefacción urbana F24D 10/00; sistemas de calefacción central que utilizan el calor acumulado en masas de almacenamiento F24D 11/00) [2022.01]"
+  },
+  {
+    "code": "F24D 3/02",
+    "description": "••con circulación forzada, p. ej. por bombas [2006.01]"
+  },
+  {
+    "code": "F24D 3/04",
+    "description": "••con agua bajo alta presión [2006.01]"
+  },
+  {
+    "code": "F24D 3/06",
+    "description": "••••Dispositivos para mantener la alta presión [2006.01]"
+  },
+  {
+    "code": "F24D 3/08",
+    "description": "••combinados con sistemas de suministro doméstico de agua caliente [2006.01]"
+  },
+  {
+    "code": "F24D 3/10",
+    "description": "••Disposiciones de la tubería de alimentación, p. ej. provistas de acumuladores de calor, depósitos de expansión [2006.01]"
+  },
+  {
+    "code": "F24D 3/12",
+    "description": "••Instalaciones de tubos y paneles para la calefacción por el techo, muro o suelo (calefacción eléctrica a través del suelo F24D 13/02) [2006.01]"
+  },
+  {
+    "code": "F24D 3/14",
+    "description": "••••incorporados en el techo, muro o suelo [2006.01]"
+  },
+  {
+    "code": "F24D 3/16",
+    "description": "••••sujetos o adyacentes al techo, muro o suelo [2006.01]"
+  },
+  {
+    "code": "F24D 3/18",
+    "description": "••utilizando bombas de calor [2006.01]"
+  },
+  {
+    "code": "F24D 5/00",
+    "description": "Sistemas de calefacción central por aire caliente (sistemas de calefacción urbana F24D 10/00; sistemas de calefacción central que utilizan el calor acumulado en masas de almacenamiento F24D 11/00; aire acondicionado F24F); Sistemas de calefacción central por gases de escape [2022.01]"
+  },
+  {
+    "code": "F24D 5/02",
+    "description": "••funcionando con una emisión de aire caliente en el espacio o en el local a calentar [2006.01]"
+  },
+  {
+    "code": "F24D 5/04",
+    "description": "••••con reciclaje del aire al recalentador de aire [2006.01]"
+  },
+  {
+    "code": "F24D 5/06",
+    "description": "••funcionando sin emisión de aire caliente en el espacio o local a calentar [2006.01]"
+  },
+  {
+    "code": "F24D 5/08",
+    "description": "••••con aire caliente circulando en radiadores [2006.01]"
+  },
+  {
+    "code": "F24D 5/10",
+    "description": "••••con aire caliente circulando en los conductos cambiadores dentro de los muros, el suelo o el techo [2006.01]"
+  },
+  {
+    "code": "F24D 5/12",
+    "description": "••utilizando bombas de calor [2006.01]"
+  },
+  {
+    "code": "F24D 7/00",
+    "description": "Sistemas de calefacción central que utilizan fluidos intercambiadores de calor no cubiertos por los grupos F24D 1/00-F24D 5/00, p. ej. aceite, sal o gas (sistemas de calefacción urbana F24D 10/00; sistemas de calefacción central que utilizan calor acumulado en masas de almacenamiento F24D 11/00) [2022.01]"
+  },
+  {
+    "code": "F24D 9/00",
+    "description": "Sistemas de calefacción central que utilizan combinaciones de fluidos intercambiadores de calor cubiertos por dos o más de los grupos F24D 1/00-F24D 7/00 (sistemas de calefacción urbana F24D 10/00; sistemas de calefacción central que utilizan el calor acumulado en masas de almacenamiento F24D 11/00) [2022.01]"
+  },
+  {
+    "code": "F24D 9/02",
+    "description": "••Sistemas de agua caliente y de vapor [2006.01]"
+  },
+  {
+    "code": "F24D 10/00",
+    "description": "Sistemas de calefacción urbana [2022.01]"
+  },
+  {
+    "code": "F24D 11/00",
+    "description": "Sistemas de calefacción central que utilizan el calor acumulado en masas de almacenamiento (acumuladores de calor autónomos F24D 15/02) [2022.01]"
+  },
+  {
+    "code": "F24D 11/02",
+    "description": "••utilizando bombas de calor [2006.01]"
+  },
+  {
+    "code": "F24D 12/00",
+    "description": "Otros sistemas de calefacción central [2006.01]"
+  },
+  {
+    "code": "F24D 12/02",
+    "description": "••con más de una fuente de calor (que usan bombas de calor, en sistemas de calefacción central de agua F24D 3/18; en sistemas de calefacción central de aire F24D 5/12; en sistemas que utilizan bombas de calor F24D 11/02) [2006.01]"
+  },
+  {
+    "code": "F24D 13/00",
+    "description": "Sistemas de calefacción eléctrica [2006.01]"
+  },
+  {
+    "code": "F24D 13/02",
+    "description": "••utilizando únicamente el calentamiento por resistencia, p. ej. calentamiento a través del suelo [2006.01]"
+  },
+  {
+    "code": "F24D 13/04",
+    "description": "••utilizando el calentamiento eléctrico de un fluido cambiador de calor en elementos del sistema separados [2006.01]"
+  },
+  {
+    "code": "F24D 15/00",
+    "description": "Otros sistemas de calefacción doméstica o de espacios [2022.01]"
+  },
+  {
+    "code": "F24D 15/02",
+    "description": "••que consisten en unidades de calentamiento autónomas, p. ej. acumuladores de calor [2006.01]"
+  },
+  {
+    "code": "F24D 15/04",
+    "description": "••utilizando bombas de calor [2006.01]"
+  },
+  {
+    "code": "F24D 17/02",
+    "description": "••utilizando bombas de calor [2006.01]"
+  },
+  {
+    "code": "F24D 18/00",
+    "description": "Sistemas de generación combinada de calor y electricidad [CHP] a pequeña escala especialmente adaptados para la calefacción doméstica, la calefacción de espacios o el suministro de agua caliente sanitaria [2022.01]"
+  },
+  {
+    "code": "F24D 19/00",
+    "description": "Detalles (de calentadores de aire o de agua F24H 9/00; de dispositivos cambiadores de calor o de transferencia de calor, de aplicación general F28F) [2006.01]"
+  },
+  {
+    "code": "F24D 19/02",
+    "description": "••Dispositivos de montaje o soportes para radiadores [2006.01]"
+  },
+  {
+    "code": "F24D 19/04",
+    "description": "••••en la parte baja de la pared [2006.01]"
+  },
+  {
+    "code": "F24D 19/06",
+    "description": "••Fundas, cubrerradiadores o paneles ornamentales para radiadores [2006.01]"
+  },
+  {
+    "code": "F24D 19/08",
+    "description": "••Dispositivos de drenaje, ventilación o aireación (válvulas para ventilación o aireación F16K 24/00) [2006.01]"
+  },
+  {
+    "code": "F24D 19/10",
+    "description": "••Disposición o montaje de los dispositivos de control o de seguridad (siendo controlado solamente el calentador F24H 9/20) [2006.01]"
+  },
+  {
+    "code": "F24D 101/00",
+    "description": "Generadores eléctricos de sistemas de cogeneración a pequeña escala [2022.01]"
+  },
+  {
+    "code": "F24D 101/10",
+    "description": "••Turbinas de gas; Máquinas de vapor o turbinas de vapor; Turbinas de agua, p. ej. ubicadas en tuberías de agua [2022.01]"
+  },
+  {
+    "code": "F24D 101/20",
+    "description": "••Aerogeneradores [2022.01]"
+  },
+  {
+    "code": "F24D 101/30",
+    "description": "••Pilas de combustible [2022.01]"
+  },
+  {
+    "code": "F24D 101/40",
+    "description": "••Módulos fotovoltaicos [FV] [2022.01]"
+  },
+  {
+    "code": "F24D 101/50",
+    "description": "••Módulos termofotovoltaicos [TPV] [2022.01]"
+  },
+  {
+    "code": "F24D 101/60",
+    "description": "••Generadores termoeléctricos, p. ej. elementos Peltier o Seebeck [2022.01]"
+  },
+  {
+    "code": "F24D 101/70",
+    "description": "••Generadores eléctricos accionados por motores de combustión interna [ICE] [2022.01]"
+  },
+  {
+    "code": "F24D 101/80",
+    "description": "••Generadores eléctricos accionados por motores de combustión externa, p. ej. motores Stirling [2022.01]"
+  },
+  {
+    "code": "F24D 103/00",
+    "description": "Aspectos térmicos de los sistemas de cogeneración a pequeña escala [2022.01]"
+  },
+  {
+    "code": "F24D 103/10",
+    "description": "••Sistemas de cogeneración a pequeña escala  caracterizados por sus unidades de recuperación de calor [2022.01]"
+  },
+  {
+    "code": "F24D 103/13",
+    "description": "••••caracterizados por sus intercambiadores de calor [2022.01]"
+  },
+  {
+    "code": "F24D 103/17",
+    "description": "••••Tanques de almacenamiento [2022.01]"
+  },
+  {
+    "code": "F24D 103/20",
+    "description": "••Fuentes de calor adicionales para soportar las cargas térmicas máximas [2022.01]"
+  },
+  {
+    "code": "F24D 105/00",
+    "description": "Aspectos constructivos de los sistemas de cogeneración a pequeña escala [2022.01]"
+  },
+  {
+    "code": "F24D 105/10",
+    "description": "••Aislamiento acústico [2022.01]"
+  }
+]

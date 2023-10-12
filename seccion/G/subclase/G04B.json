@@ -1,0 +1,678 @@
+[
+  {
+    "code": "G04B 1/00",
+    "description": "Mecanismos motores [2006.01]"
+  },
+  {
+    "code": "G04B 1/02",
+    "description": "••de pesas [2006.01]"
+  },
+  {
+    "code": "G04B 1/04",
+    "description": "••••Mecanismos en los que el movimiento hace la función de las pesas [2006.01]"
+  },
+  {
+    "code": "G04B 1/06",
+    "description": "••••de pesas múltiples [2006.01]"
+  },
+  {
+    "code": "G04B 1/08",
+    "description": "••••Pesas; Cadenas; Ruedas de cadenas; Ejes para ruedas de cadenas [2006.01]"
+  },
+  {
+    "code": "G04B 1/10",
+    "description": "••de resorte motor [2006.01]"
+  },
+  {
+    "code": "G04B 1/12",
+    "description": "••••de resortes motores múltiples [2006.01]"
+  },
+  {
+    "code": "G04B 1/14",
+    "description": "••••Resorte motor; Bridas para resortes motores (resortes motores de bridas G04B 1/18; aleaciones C22C; resortes en general F16F) [2006.01]"
+  },
+  {
+    "code": "G04B 1/16",
+    "description": "••••Barriletes; Ejes; Ejes de barriletes (disposiciones que facilitan la retirada del resorte motor G04B 33/14) [2006.01]"
+  },
+  {
+    "code": "G04B 1/18",
+    "description": "••••Estructuras para la unión de extremidades de resortes motores al barrilete o al eje [2006.01]"
+  },
+  {
+    "code": "G04B 1/20",
+    "description": "••••••Disposiciones de protección contra la rotura o la sobretensión del resorte motor, colocados en el barrilete o fijados a éste (unidos a las llaves u órganos análogos G04B 3/06, G04B 3/10; unidos a los dispositivos de dar cuerda automáticamente G04B 5/24) [2006.01]"
+  },
+  {
+    "code": "G04B 1/22",
+    "description": "••••Compensación de las variaciones de la fuerza motriz del resorte motor (por perfilado mecánico del resorte motor G04B 1/14) [2006.01]"
+  },
+  {
+    "code": "G04B 1/24",
+    "description": "••con resortes motores y pesas a la vez [2006.01]"
+  },
+  {
+    "code": "G04B 1/26",
+    "description": "••movidos por líquidos o gases; Mecanismos motores de líquidos o de gases para relojes secundarios-controlados mecánicamente [2006.01]"
+  },
+  {
+    "code": "G04B 3/00",
+    "description": "Disposiciones normales para dar cuerda a relojes a mano o mecánicamente; Disposiciones para dar cuerda enrollando varios resortes motores o accionando varias pesas simultáneamente [2006.01]"
+  },
+  {
+    "code": "G04B 3/02",
+    "description": "••Llaves u órganos análogos amovibles [2006.01]"
+  },
+  {
+    "code": "G04B 3/04",
+    "description": "••Llaves, botones o coronas fijas (vástagos de dispositivos para dar cuerda divididos llamados vástagos partidos G04B 37/06) [2006.01]"
+  },
+  {
+    "code": "G04B 3/06",
+    "description": "••Llaves u órganos análogos que tienen medios para evitar la sobretensión (dispositivos de protección colocados en el barrilete o fijados a éste G04B 1/20; relacionados con los dispositivos para dar cuerda automáticamente G04B 5/24) [2006.01]"
+  },
+  {
+    "code": "G04B 3/08",
+    "description": "••por medio de las piezas de las cajas [2006.01]"
+  },
+  {
+    "code": "G04B 3/10",
+    "description": "••••Medios de protección que evitan la sobretensión (dispuestos en el barrilete o fijados a éste G04B 1/20; unidos a las llaves G04B 3/06; en relación con los dispositivos para dar cuerda automáticamente G04B 5/24) [2006.01]"
+  },
+  {
+    "code": "G04B 3/12",
+    "description": "••por medios mecánicos, p. ej. motores neumáticos (disposiciones para dar cuerda por medios eléctricos o electromecánicos G04C) [2006.01]"
+  },
+  {
+    "code": "G04B 5/00",
+    "description": "Disposiciones automáticas para dar cuerda [2006.01]"
+  },
+  {
+    "code": "G04B 5/02",
+    "description": "••que se dan cuerda a sí mismos por medio de los movimientos que se imprimen al reloj [2006.01]"
+  },
+  {
+    "code": "G04B 5/04",
+    "description": "••••por medio de masas oscilantes de camino limitado [2006.01]"
+  },
+  {
+    "code": "G04B 5/06",
+    "description": "••••••que actúan en un sentido solamente [2006.01]"
+  },
+  {
+    "code": "G04B 5/08",
+    "description": "••••••que actúan en los dos sentidos [2006.01]"
+  },
+  {
+    "code": "G04B 5/10",
+    "description": "••••por medio de masas oscilantes de camino ilimitado [2006.01]"
+  },
+  {
+    "code": "G04B 5/12",
+    "description": "••••••que actúan en un solo sentido [2006.01]"
+  },
+  {
+    "code": "G04B 5/14",
+    "description": "••••••que actúan en los dos sentidos [2006.01]"
+  },
+  {
+    "code": "G04B 5/16",
+    "description": "••••Estructura de las masas [2006.01]"
+  },
+  {
+    "code": "G04B 5/18",
+    "description": "••••Soportes, suspensiones o disposiciones de guiado para las masas oscilantes [2006.01]"
+  },
+  {
+    "code": "G04B 5/19",
+    "description": "••••••Suspensión de la masa oscilante en su centro de rotación [2006.01]"
+  },
+  {
+    "code": "G04B 5/20",
+    "description": "••por el movimiento de otros objetos, p. ej. por la abertura de maletines, de cajas, de puertas; por la acción del viento [2006.01]"
+  },
+  {
+    "code": "G04B 5/22",
+    "description": "••por efectos o variaciones termométricas, barométricas o similares [2006.01]"
+  },
+  {
+    "code": "G04B 5/24",
+    "description": "••Medios de protección que evitan la sobretensión (dispuestos en el barrilete o fijados a éste G04B 1/20; unidos a llaves u órganos análogos G04B 3/06; unidos a piezas de las cajas G04B 3/10) [2006.01]"
+  },
+  {
+    "code": "G04B 7/00",
+    "description": "Disposiciones para dar cuerda normales y automáticas combinadas [2006.01]"
+  },
+  {
+    "code": "G04B 9/00",
+    "description": "Vigilancia del estado de las disposiciones para dar cuerda, p. ej. indicación de cuanta cuerda se ha dado [2006.01]"
+  },
+  {
+    "code": "G04B 9/02",
+    "description": "••Dispositivos controlados por este estado, p. ej. dispositivos que aseguran una protección contra la sobretensión (medios de protección que evitan la sobretensión dispuestos en el barrilete o fijados sobre éste G04B 1/20; medios de protección unidos a llaves u órganos análogos G04B 3/06; unidos a piezas de las cajas G04B 3/10; relacionados con dispositivos para dar cuerda automáticamente G04B 5/24) [2006.01]"
+  },
+  {
+    "code": "G04B 11/00",
+    "description": "Trinquetes,  seguros o embragues [2006.01]"
+  },
+  {
+    "code": "G04B 11/02",
+    "description": "••Dispositivos que permiten el desplazamiento de una parte rotativa en un solo sentido [2006.01]"
+  },
+  {
+    "code": "G04B 11/04",
+    "description": "••••Seguros a este efecto, p. ej. seguro fijado a un elemento oscilante que acciona un trinquete [2006.01]"
+  },
+  {
+    "code": "G04B 13/02",
+    "description": "••Ruedas; Piñones; Ejes; Pivotes (cojinetes, rodamientos G04B 31/00) [2006.01]"
+  },
+  {
+    "code": "G04B 15/00",
+    "description": "Escapes (medios eléctricos o magnéticos para convertir un movimiento oscilatorio en un movimiento rotativo en los relojes de pared o en los de bolsillo electromecánicos G04C 5/00) [2006.01]"
+  },
+  {
+    "code": "G04B 15/02",
+    "description": "••de contacto permanente con el mecanismo regulador [2006.01]"
+  },
+  {
+    "code": "G04B 15/04",
+    "description": "••••Escapes de cilindro [2006.01]"
+  },
+  {
+    "code": "G04B 15/06",
+    "description": "••Escapes libres [2006.01]"
+  },
+  {
+    "code": "G04B 15/08",
+    "description": "••••Escapes de áncora [2006.01]"
+  },
+  {
+    "code": "G04B 15/10",
+    "description": "••de impulsiones constantes sobre el mecanismo regulador [2006.01]"
+  },
+  {
+    "code": "G04B 15/12",
+    "description": "••Regulación (herramientas de regulación G04D 1/02); Limitación de la amplitud de la oscilación de áncoras u órganos análogos [2006.01]"
+  },
+  {
+    "code": "G04B 15/14",
+    "description": "••Partes constitutivas o detalles de estructura, p. ej. estructura del áncora o de la rueda de escape [2006.01]"
+  },
+  {
+    "code": "G04B 17/00",
+    "description": "Mecanismos para estabilizar la frecuencia [2006.01]"
+  },
+  {
+    "code": "G04B 17/02",
+    "description": "••Osciladores que actúan por gravedad, p. ej. péndulo balanceándose en un plano [2006.01]"
+  },
+  {
+    "code": "G04B 17/04",
+    "description": "••Osciladores que actúan por el efecto de un resorte [2006.01]"
+  },
+  {
+    "code": "G04B 17/06",
+    "description": "••••Osciladores de espiral, p. ej. balancín [2006.01]"
+  },
+  {
+    "code": "G04B 17/08",
+    "description": "••••Osciladores de resortes helicoidales tensados y destensados axialmente [2006.01]"
+  },
+  {
+    "code": "G04B 17/10",
+    "description": "••••Osciladores de bandas de torsión o de resortes que actúan de la misma manera que las bandas de torsión, p. ej. peso que oscila en un plano horizontal [2006.01]"
+  },
+  {
+    "code": "G04B 17/20",
+    "description": "••Compensación en los mecanismos de estabilización de la frecuencia [2006.01]"
+  },
+  {
+    "code": "G04B 17/22",
+    "description": "••••del efecto de variaciones de temperatura (aleaciones independientes de variaciones de temperatura C22C) [2006.01]"
+  },
+  {
+    "code": "G04B 17/24",
+    "description": "••••del efecto de variaciones de la presión atmosférica [2006.01]"
+  },
+  {
+    "code": "G04B 17/26",
+    "description": "••••del efecto de variaciones de impulsiones [2006.01]"
+  },
+  {
+    "code": "G04B 17/28",
+    "description": "••••del efecto del desequilibrio del órgano oscilante, p. ej. torbellino [2006.01]"
+  },
+  {
+    "code": "G04B 17/30",
+    "description": "••Reguladores rotativos, p. ej. reguladores centrífugos, reguladores de aletas (para mecanismos de sonido G04B 21/06) [2006.01]"
+  },
+  {
+    "code": "G04B 17/32",
+    "description": "••Piezas constitutivas o elementos estructurales, p. ej. virola, espiga [2006.01]"
+  },
+  {
+    "code": "G04B 17/34",
+    "description": "••••para fijar la espiral en el balancín [2006.01]"
+  },
+  {
+    "code": "G04B 18/00",
+    "description": "Mecanismos para regular la frecuencia [2006.01]"
+  },
+  {
+    "code": "G04B 18/02",
+    "description": "••Dispositivos reguladores; Dispositivos de índexación [2006.01]"
+  },
+  {
+    "code": "G04B 18/04",
+    "description": "••Regulación del batido del péndulo, del balancín o de órganos similares, p. ej. colocado de referencias [2006.01]"
+  },
+  {
+    "code": "G04B 18/06",
+    "description": "••••por desplazamiento de la virola o del pitón de la espiral [2006.01]"
+  },
+  {
+    "code": "G04B 18/08",
+    "description": "••Partes constitutivas o detalles de estructura [2006.01]"
+  },
+  {
+    "code": "G04B 19/00",
+    "description": "Indicación de la hora por medios ópticos (por lámparas eléctricas G04C 17/02; disposiciones para la presentación en general G09) [2006.01]"
+  },
+  {
+    "code": "G04B 19/02",
+    "description": "••Engranajes intermediarios entre las ruedas y las manecillas [2006.01]"
+  },
+  {
+    "code": "G04B 19/04",
+    "description": "••Manecillas; Discos de signo indicador único o similares [2006.01]"
+  },
+  {
+    "code": "G04B 19/06",
+    "description": "••Esferas (para péndulos sin movimiento de relojería G04B 49/04) [2006.01]"
+  },
+  {
+    "code": "G04B 19/08",
+    "description": "••••Disposición geométrica de divisiones [2006.01]"
+  },
+  {
+    "code": "G04B 19/10",
+    "description": "••••Forma decorativa de las divisiones o de la superficie de la esfera; Fijación de divisiones en la esfera [2006.01]"
+  },
+  {
+    "code": "G04B 19/12",
+    "description": "••••Elección de materiales especificados para las esferas, o las divisiones [2006.01]"
+  },
+  {
+    "code": "G04B 19/14",
+    "description": "••••Fijación de esferas a las platinas de relojes de pared o relojes de bolsillo [2006.01]"
+  },
+  {
+    "code": "G04B 19/16",
+    "description": "••••Esferas móviles, p. ej. que indican alternativamente de 1 a 12 h. y de 13 a 24 h. [2006.01]"
+  },
+  {
+    "code": "G04B 19/18",
+    "description": "••••Divisiones sobre el globo o el cristal, sobre la luneta o sobre el aro [2006.01]"
+  },
+  {
+    "code": "G04B 19/20",
+    "description": "••Indicación por medio de bandas, tambores, de discos o de tarjetas numeradas [2006.01]"
+  },
+  {
+    "code": "G04B 19/21",
+    "description": "••••Tambores [2006.01]"
+  },
+  {
+    "code": "G04B 19/22",
+    "description": "••Disposiciones para indicar varias horas locales; Péndulos universales [2006.01]"
+  },
+  {
+    "code": "G04B 19/23",
+    "description": "••••por medio de agujas adicionales o de pares de agujas adicionales [2006.01]"
+  },
+  {
+    "code": "G04B 19/24",
+    "description": "••Relojes de pared o relojes de bolsillo con indicadores de fecha; Calendarios con movimiento de relojería [2006.01]"
+  },
+  {
+    "code": "G04B 19/243",
+    "description": "••••caracterizados por la forma de indicar la fecha [2006.01]"
+  },
+  {
+    "code": "G04B 19/247",
+    "description": "••••••en forma de disco [2006.01]"
+  },
+  {
+    "code": "G04B 19/25",
+    "description": "••••••••Dispositivo para regular los indicadores de fecha manualmente [2006.01]"
+  },
+  {
+    "code": "G04B 19/253",
+    "description": "••••••••Mecanismos de accionamiento o de desacoplamiento [2006.01]"
+  },
+  {
+    "code": "G04B 19/257",
+    "description": "••••••en forma de tambor [2006.01]"
+  },
+  {
+    "code": "G04B 19/26",
+    "description": "••Relojes de pared o relojes de bolsillo con indicadores de mareas, de fases de la luna o análogos [2006.01]"
+  },
+  {
+    "code": "G04B 19/28",
+    "description": "••Marcas o índices regulables para la indicación de momentos determinados [2006.01]"
+  },
+  {
+    "code": "G04B 19/30",
+    "description": "••Iluminación de esferas o de manecillas [2006.01]"
+  },
+  {
+    "code": "G04B 19/32",
+    "description": "••••por medio de sustancias luminiscentes [2006.01]"
+  },
+  {
+    "code": "G04B 19/34",
+    "description": "••Proyección óptica de la posición de las manecillas [2006.01]"
+  },
+  {
+    "code": "G04B 21/00",
+    "description": "Indicación de la hora por medios acústicos (en momentos escogidos de antemano G04B 23/00; por medios electroacústicos G04C 21/04; aparatos que producen sonidos en sí\n\t\t\t\t\t\t\t\t\tG10) [2006.01]"
+  },
+  {
+    "code": "G04B 21/02",
+    "description": "••Mecanismos de sonido regular que dan las horas enteras, las medias horas o los cuartos de hora [2006.01]"
+  },
+  {
+    "code": "G04B 21/04",
+    "description": "••••Ruedas horarias; Cremalleras o segmentos dentados; Levas espiraliformes o mecanismos de control similares [2006.01]"
+  },
+  {
+    "code": "G04B 21/06",
+    "description": "••••Partes constitutivas de mecanismos de sonido, p. ej. martillos, regulador de aleta [2006.01]"
+  },
+  {
+    "code": "G04B 21/08",
+    "description": "••••Cuerpos sonoros; Silbos; Aparatos musicales (con transmisores electroacústicos G04C 21/00) [2006.01]"
+  },
+  {
+    "code": "G04B 21/10",
+    "description": "••••Accionamiento o bloqueo del sonido regular, p. ej. para hacer el silencio durante la noche [2006.01]"
+  },
+  {
+    "code": "G04B 21/12",
+    "description": "••••Relojes de pared o relojes de bolsillo de repetición [2006.01]"
+  },
+  {
+    "code": "G04B 21/14",
+    "description": "••••Mecanismos de sonido a los que dan cuerda los mecanismos de relojería; Mecanismos de relojería a los que dan cuerda los mecanismos de sonido [2006.01]"
+  },
+  {
+    "code": "G04B 23/00",
+    "description": "Disposiciones para producir señales acústicas en momentos elegidos de antemano (señales avisadoras accionadas eléctricamente G04C 21/00; metrónomos G04F 5/02; aparatos que producen sonidos en sí\n\t\t\t\t\t\t\t\t\tG10) [2006.01]"
+  },
+  {
+    "code": "G04B 23/02",
+    "description": "••Despertadores [2006.01]"
+  },
+  {
+    "code": "G04B 23/03",
+    "description": "••••Disposiciones de parada de la señal de alarma [2006.01]"
+  },
+  {
+    "code": "G04B 23/04",
+    "description": "••••con doble regulación, aproximativo y preciso, sobre el momento elegido [2006.01]"
+  },
+  {
+    "code": "G04B 23/06",
+    "description": "••••Regulables para varias horas diferentes elegidas de antemano con parada automática de la señal [2006.01]"
+  },
+  {
+    "code": "G04B 23/08",
+    "description": "••••que funcionan varios días seguidos sin ser remitidos a la posición de marcha; que funcionan solamente una vez cada 24 horas [2006.01]"
+  },
+  {
+    "code": "G04B 23/10",
+    "description": "••••con señal previa; de repetición; de intensidad sonora regulable [2006.01]"
+  },
+  {
+    "code": "G04B 23/12",
+    "description": "••••Relojes-despertadores de bolsillo o de muñeca (con avisador táctil G04B 25/04) [2006.01]"
+  },
+  {
+    "code": "G04B 25/00",
+    "description": "Indicación del tiempo por otros medios o por medios combinados (indicación eléctrica o electromecánica G04C) [2006.01]"
+  },
+  {
+    "code": "G04B 25/02",
+    "description": "••táctil; Relojes de pared o relojes de bolsillo para ciegos [2006.01]"
+  },
+  {
+    "code": "G04B 25/04",
+    "description": "••••Despertadores o relojes-despertadores con dispositivos avisadores táctiles [2006.01]"
+  },
+  {
+    "code": "G04B 25/06",
+    "description": "••por medio de figuras animadas, p. ej. cucu, reloj de trompeta [2006.01]"
+  },
+  {
+    "code": "G04B 27/00",
+    "description": "Dispositivos mecánicos para la puesta en hora de los medios indicadores [2006.01]"
+  },
+  {
+    "code": "G04B 27/02",
+    "description": "••con ayuda de medios para dar de cuerda [2006.01]"
+  },
+  {
+    "code": "G04B 27/04",
+    "description": "••••con una rueda de embrague [2006.01]"
+  },
+  {
+    "code": "G04B 27/06",
+    "description": "••••de báscula [2006.01]"
+  },
+  {
+    "code": "G04B 27/08",
+    "description": "••con ayuda de piezas de la caja [2006.01]"
+  },
+  {
+    "code": "G04B 29/00",
+    "description": "Armazones [2006.01]"
+  },
+  {
+    "code": "G04B 29/02",
+    "description": "••Platinas; Puentes; Puente de volante [2006.01]"
+  },
+  {
+    "code": "G04B 29/04",
+    "description": "••Piezas de enlace o de soporte [2006.01]"
+  },
+  {
+    "code": "G04B 31/00",
+    "description": "Cojinetes o rodamientos; Suspensiones de punto o de contrapunto; Cojinetes de gorrón; Piezas separadas para éstos (cojinetes, rodamientos en general F16C) [2006.01]"
+  },
+  {
+    "code": "G04B 31/004",
+    "description": "••caracterizados por el material utilizado [2006.01]"
+  },
+  {
+    "code": "G04B 31/008",
+    "description": "••••Rodamientos de piedra (G04B 31/04 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G04B 31/012",
+    "description": "••••Rodamientos de metal [2006.01]"
+  },
+  {
+    "code": "G04B 31/016",
+    "description": "••••Rodamientos de plásticos [2006.01]"
+  },
+  {
+    "code": "G04B 31/02",
+    "description": "••Cojinetes amortiguadores de choques [2006.01]"
+  },
+  {
+    "code": "G04B 31/04",
+    "description": "••••con rodamiento y contra-gorrón [2006.01]"
+  },
+  {
+    "code": "G04B 31/06",
+    "description": "••Procesos de fabricación o de montaje [2006.01]"
+  },
+  {
+    "code": "G04B 31/08",
+    "description": "••Lubrificación [2006.01]"
+  },
+  {
+    "code": "G04B 33/00",
+    "description": "Calibres [2006.01]"
+  },
+  {
+    "code": "G04B 33/02",
+    "description": "••Calibres circulares [2006.01]"
+  },
+  {
+    "code": "G04B 33/04",
+    "description": "••Calibres no circulares [2006.01]"
+  },
+  {
+    "code": "G04B 33/06",
+    "description": "••extra-planos [2006.01]"
+  },
+  {
+    "code": "G04B 33/08",
+    "description": "••en los que el mecanismos de relojería está dispuesto sobre diferentes planos, p. ej. paralelos u oblicuos uno en relación al otro (G04B 33/10 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G04B 33/10",
+    "description": "••con aguja de segundos dispuesta en el centro de la esfera [2006.01]"
+  },
+  {
+    "code": "G04B 33/12",
+    "description": "••para duraciones de marcha extremadamente largas [2006.01]"
+  },
+  {
+    "code": "G04B 33/14",
+    "description": "••Calibres cuyos resortes motores o los barriletes son fáciles de retirar (resortes motores G04B 1/14; barriletes, ejes G04B 1/16) [2006.01]"
+  },
+  {
+    "code": "G04B 33/16",
+    "description": "••con disposiciones de protección del mecanismo de relojería contra los daños causados por la rotura del resorte motor [2006.01]"
+  },
+  {
+    "code": "G04B 35/00",
+    "description": "Ajuste de engranajes, p. ej. del juego de ejes, de la profundidad de toma de los engranajes [2006.01]"
+  },
+  {
+    "code": "G04B 37/00",
+    "description": "Cajas [2006.01]"
+  },
+  {
+    "code": "G04B 37/02",
+    "description": "••Cajas de vacío; Cajas llenas de gas o de líquidos; Cajas que contienen sustancias para absorber o fijar la humedad o el polvo [2006.01]"
+  },
+  {
+    "code": "G04B 37/04",
+    "description": "••Montaje del mecanismo de relojería en la caja; Montaje antichoques [2006.01]"
+  },
+  {
+    "code": "G04B 37/05",
+    "description": "••••Montajes rígidos para relojes de bolsillo o relojes de pulsera [2006.01]"
+  },
+  {
+    "code": "G04B 37/06",
+    "description": "••Formación del paso del vástago de dar cuerda en la caja; Vástagos de dar cuerda divididos [2006.01]"
+  },
+  {
+    "code": "G04B 37/08",
+    "description": "••Cierre hermético de aberturas, juntas, pasos o de ranuras [2006.01]"
+  },
+  {
+    "code": "G04B 37/10",
+    "description": "••••de vástagos de dar cuerda [2006.01]"
+  },
+  {
+    "code": "G04B 37/11",
+    "description": "••••del fondo de los relojes de bolsillo o de los relojes de pulsera [2006.01]"
+  },
+  {
+    "code": "G04B 37/12",
+    "description": "••Cajas con fines especiales, p. ej. reloj combinado con una sortija, con un botón (protección de relojes A45C 11/10, A45C 11/12; relojes combinados con polveras A45D 33/30) [2006.01]"
+  },
+  {
+    "code": "G04B 37/14",
+    "description": "••Dispositivos de suspensión, soportes o pedestales para aparatos para evaluar el tiempo en la medida en que forman parte de la caja (brazaletes para relojes de pulsera, sus sistemas de sujeción A44C 5/00) [2006.01]"
+  },
+  {
+    "code": "G04B 37/16",
+    "description": "••••Fijación de la caja a la pulsera [2006.01]"
+  },
+  {
+    "code": "G04B 37/18",
+    "description": "••para relojes de bolsillo o relojes de pulsera (G04B 37/02-G04B 37/16 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G04B 37/20",
+    "description": "••••con tapas o fondos con bisagras [2006.01]"
+  },
+  {
+    "code": "G04B 37/22",
+    "description": "••Materiales o procesos de fabricación de cajas para relojes de bolsillo o relojes de pulsera [2006.01]"
+  },
+  {
+    "code": "G04B 39/00",
+    "description": "Cristales de relojes de bolsillo; Fijación o cierre de cristales; Globos de péndulos [2006.01]"
+  },
+  {
+    "code": "G04B 39/02",
+    "description": "••Cierre de vidrios [2006.01]"
+  },
+  {
+    "code": "G04B 41/00",
+    "description": "Dispositivos de bloqueo y de mantenimiento para péndulos, carillones o similares, utilizados durante el transporte [2006.01]"
+  },
+  {
+    "code": "G04B 43/00",
+    "description": "Protección de los mecanismos de relojería por medio de pantallas o de otros medios contra las influencias exteriores, p. ej. el campo magnético [2006.01]"
+  },
+  {
+    "code": "G04B 45/00",
+    "description": "Aparatos para evaluar el tiempo cuyos órganos indicadores o cuyas cajas producen efectos especiales, p. ej. efectos estéticos (acabado artístico de esferas G04B 19/10) [2006.01]"
+  },
+  {
+    "code": "G04B 45/02",
+    "description": "••Aparatos para evaluar el tiempo cuyo mecanismo de relojería es visible en todo o en parte [2006.01]"
+  },
+  {
+    "code": "G04B 45/04",
+    "description": "••Aparatos para evaluar el tiempo, cuyo mecanismo motor es invisible, p. ej. con agujas fijadas sobre discos de cristal giratorios [2006.01]"
+  },
+  {
+    "code": "G04B 47/00",
+    "description": "Aparatos para evaluar el tiempo combinados con otros artículos que no influyen sobre su marcha o su regularidad (G04B 37/12 tiene prioridad; instrumentos para escribir o para dibujar con dispositivos para indicar el tiempo B43K 29/087; combinaciones con conjuntos de espejo en los vehículos B60R 1/12; combinados con cámaras, proyectores o aparatos de reproducción fotográfica G03B 29/00) [2006.01]"
+  },
+  {
+    "code": "G04B 47/02",
+    "description": "••Instalaciones en los espejos, cuadros, muebles u otros artículos domésticos [2006.01]"
+  },
+  {
+    "code": "G04B 47/04",
+    "description": "••que tienen accesorios ornamentales o aparatos de diversión [2006.01]"
+  },
+  {
+    "code": "G04B 47/06",
+    "description": "••combinados con instrumentos de medida, p. ej. podómetro, barómetro, termómetro, brújula [2006.01]"
+  },
+  {
+    "code": "G04B 49/02",
+    "description": "••Relojes de sol [2006.01]"
+  },
+  {
+    "code": "G04B 49/04",
+    "description": "••••Graduación o forma de los relojes de sol [2006.01]"
+  },
+  {
+    "code": "G04B 99/00",
+    "description": "Materia no prevista en otros grupos de esta subclase [2006.01]"
+  }
+]

@@ -1,0 +1,174 @@
+[
+  {
+    "code": "G06M 1/00",
+    "description": "Características de orden general [2006.01]"
+  },
+  {
+    "code": "G06M 1/02",
+    "description": "••Cajas (para los instrumentos de medida en general G01D) [2006.01]"
+  },
+  {
+    "code": "G06M 1/04",
+    "description": "••para mover la hilera del rango más bajo (con una relación de movimiento variable G06M 1/38) [2006.01]"
+  },
+  {
+    "code": "G06M 1/06",
+    "description": "••••que producen una revolución continua de las hileras, p. ej. con tren de engranaje [2006.01]"
+  },
+  {
+    "code": "G06M 1/08",
+    "description": "••para accionar el movimiento [2006.01]"
+  },
+  {
+    "code": "G06M 1/10",
+    "description": "••••por medios eléctricos o magnéticos [2006.01]"
+  },
+  {
+    "code": "G06M 1/12",
+    "description": "••••por fluidos [2006.01]"
+  },
+  {
+    "code": "G06M 1/14",
+    "description": "••para efectuar una transferencia de una hilera a otra hilera superior (con relación variable de transferencia G06M 1/38) [2006.01]"
+  },
+  {
+    "code": "G06M 1/16",
+    "description": "••••directamente, p. ej. por cruz de Malta [2006.01]"
+  },
+  {
+    "code": "G06M 1/18",
+    "description": "••••que exigen una intervención exterior, p. ej. por una fuerza electromagnética [2006.01]"
+  },
+  {
+    "code": "G06M 1/20",
+    "description": "••••adaptado especialmente al empleo de números fraccionarios de un nivel al otro, p. ej. grado y minutos de ángulo [2006.01]"
+  },
+  {
+    "code": "G06M 1/22",
+    "description": "••para indicación visual del resultado del cómputo sobre el mecanismo de contado, p. ej. ventana con lupa [2006.01]"
+  },
+  {
+    "code": "G06M 1/24",
+    "description": "••••Tambores; Cuadrantes; Agujas [2006.01]"
+  },
+  {
+    "code": "G06M 1/26",
+    "description": "••••Sistemas de alineación [2006.01]"
+  },
+  {
+    "code": "G06M 1/27",
+    "description": "••para representar el resultado de un contado bajo la forma de señales eléctricas, p. ej. por lectura de marcas sobre un tambor de contador [2006.01]"
+  },
+  {
+    "code": "G06M 1/272",
+    "description": "••••que utilizan medios fotoeléctricos [2006.01]"
+  },
+  {
+    "code": "G06M 1/274",
+    "description": "••••que utilizan medios magnéticos; que utilizan dispositivos de efecto Hall [2006.01]"
+  },
+  {
+    "code": "G06M 1/276",
+    "description": "••••que utilizan contactos accionados mecánicamente [2006.01]"
+  },
+  {
+    "code": "G06M 1/28",
+    "description": "••para poner a cero o regular sobre un valor particular [2006.01]"
+  },
+  {
+    "code": "G06M 1/30",
+    "description": "••••que utilizan levas de corazón o similares; que utilizan palancas [2006.01]"
+  },
+  {
+    "code": "G06M 1/32",
+    "description": "••••••Medios de accionamiento, p. ej. imán, resorte, pesos [2006.01]"
+  },
+  {
+    "code": "G06M 1/34",
+    "description": "••••que utilizan ejes de puesta a cero [2006.01]"
+  },
+  {
+    "code": "G06M 1/36",
+    "description": "••••••Medios de accionamiento, p. ej. imán, resorte, pesos [2006.01]"
+  },
+  {
+    "code": "G06M 1/38",
+    "description": "••para relaciones de accionamiento variables o mecanismos de transferencia, p. ej. utilizando trenes de contado alternativos [2006.01]"
+  },
+  {
+    "code": "G06M 3/00",
+    "description": "Contadores con posibilidades suplementarias (producción de impulsos a intervalos aleatorios H03K 3/84) [2006.01]"
+  },
+  {
+    "code": "G06M 3/02",
+    "description": "••para ejecutar una operación de un valor determinado antes del cómputo, p. ej. parar una máquina [2006.01]"
+  },
+  {
+    "code": "G06M 3/04",
+    "description": "••••con un tren de contado suplementario que opera en sentido inverso [2006.01]"
+  },
+  {
+    "code": "G06M 3/06",
+    "description": "••para imprimir o anunciar separadamente un resultado de contado (sistemas de representación G09) [2006.01]"
+  },
+  {
+    "code": "G06M 3/08",
+    "description": "••para contado a partir de varias fuentes; para contado de totales diferentes [2006.01]"
+  },
+  {
+    "code": "G06M 3/10",
+    "description": "••para contado de números fraccionarios de un nivel al otro, p. ej. de grados y minutos de ángulo (mecanismos de transferencia previstos para este fin G06M 1/20) [2006.01]"
+  },
+  {
+    "code": "G06M 3/12",
+    "description": "••para impedir un registro incorrecto, p. ej. para impedir una falsificación [2006.01]"
+  },
+  {
+    "code": "G06M 3/14",
+    "description": "••para registrar una diferencia de datos positivos y negativos [2006.01]"
+  },
+  {
+    "code": "G06M 7/00",
+    "description": "Contado de objetos transportados por un transportador [2006.01]"
+  },
+  {
+    "code": "G06M 7/02",
+    "description": "••en el que los objetos que avanzan hacia el elemento sensible son separados para crear un intervalo marcado entre los objetos sucesivos [2006.01]"
+  },
+  {
+    "code": "G06M 7/04",
+    "description": "••••Contado de mercancías en piezas, p. ej. de cajas [2006.01]"
+  },
+  {
+    "code": "G06M 7/06",
+    "description": "••••Contado de artículos planos, p. ej. de hojas de papel [2006.01]"
+  },
+  {
+    "code": "G06M 7/08",
+    "description": "••en el que la dirección del movimiento de objetos es cambiada al lugar donde son taladrados [2006.01]"
+  },
+  {
+    "code": "G06M 7/10",
+    "description": "••••Contado de objetos planos que se recubren, p. ej. de tarjetas [2006.01]"
+  },
+  {
+    "code": "G06M 9/00",
+    "description": "Contado de objetos en un apilamiento [2006.01]"
+  },
+  {
+    "code": "G06M 9/02",
+    "description": "••utilizando un separador que gira llevando una boquilla neumática de succión [2006.01]"
+  },
+  {
+    "code": "G06M 11/00",
+    "description": "Contado de objetos distribuidos al azar, p. ej. sobre una superficie [2006.01]"
+  },
+  {
+    "code": "G06M 11/02",
+    "description": "••que utilizan un haz de electrones que barren una superficie línea por línea, p. ej. de glóbulos de sangre sobre un sustrato [2006.01]"
+  },
+  {
+    "code": "G06M 11/04",
+    "description": "••••con disposiciones para distinguir diferentes dimensiones de objetos (investigación de la dimensión de partículas en general G01N 15/00) [2006.01]"
+  }
+]

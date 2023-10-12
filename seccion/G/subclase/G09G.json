@@ -1,0 +1,374 @@
+[
+  {
+    "code": "G09G 1/00",
+    "description": "Disposiciones o circuitos de control que presenten interés únicamente para la representación utilizando tubos de rayos catódicos [2006.01]"
+  },
+  {
+    "code": "G09G 1/02",
+    "description": "••Circuitos de memorización (G09G 1/06-G09G 1/28 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G09G 1/04",
+    "description": "••Circuitos de deflexión [2006.01]"
+  },
+  {
+    "code": "G09G 1/06",
+    "description": "••que utilizan tubos de haz único concentrado (G09G 1/26, G09G 1/28 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G09G 1/07",
+    "description": "••••con un barrido de trama y una presentación caligráfica combinados [2006.01]"
+  },
+  {
+    "code": "G09G 1/08",
+    "description": "••••el haz traza directamente el carácter, la información a visualizar controlando la deflexión del haz en función del tiempo, según dos coordenadas espaciales, p. ej. según un sistema de coordenadas cartesianas [2006.01]"
+  },
+  {
+    "code": "G09G 1/10",
+    "description": "••••••siendo elaborados los signos de deflexión por medios esencialmente digitales, p. ej. incrementos [2006.01]"
+  },
+  {
+    "code": "G09G 1/12",
+    "description": "••••••siendo elaborados los signos de deflexión por medios esencialmente analógicos [2006.01]"
+  },
+  {
+    "code": "G09G 1/14",
+    "description": "••••el haz traza una trama de barrido independiente de la información a visualizar, esta última determina las partes de trama que deben ser hechas respectivamente visibles o invisibles [2006.01]"
+  },
+  {
+    "code": "G09G 1/16",
+    "description": "••••••con trama en coordenadas rectangulares extendiéndose sobre toda la superficie de la pantalla, es decir, con trama de barrido del tipo televisión [2006.01]"
+  },
+  {
+    "code": "G09G 1/18",
+    "description": "••••••con minitrama de barrido local, cubriendo la extensión de un solo carácter, y saltando de una posición de carácter a la siguiente, p. ej. en coordenadas rectangulares o polares, o en forma de estrella enmarcada [2006.01]"
+  },
+  {
+    "code": "G09G 1/20",
+    "description": "••que utilizan tubos de varios haces concentrados (G09G 1/26, G09G 1/28 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G09G 1/22",
+    "description": "••que utilizan tubos con selección de un carácter completo entre varios caracteres [2006.01]"
+  },
+  {
+    "code": "G09G 1/24",
+    "description": "••que utilizan tubos con selección de varios elementos individuales que forman por combinación un carácter [2006.01]"
+  },
+  {
+    "code": "G09G 1/26",
+    "description": "••que utilizan tubos con memoria [2006.01]"
+  },
+  {
+    "code": "G09G 1/28",
+    "description": "••que utilizan tubos con colores [2006.01]"
+  },
+  {
+    "code": "G09G 3/00",
+    "description": "Disposiciones o circuitos de control que presentan interés únicamente para la representación utilizando medios de visualización que no sean tubos de rayos catódicos [2006.01]"
+  },
+  {
+    "code": "G09G 3/02",
+    "description": "••por trazado o barrido de un haz luminoso sobre una pantalla [2006.01]"
+  },
+  {
+    "code": "G09G 3/04",
+    "description": "••para la presentación de un solo carácter, bien seleccionando un solo carácter entre varios, bien componiendo el carácter por combinación de elementos individuales, p. ej. segmentos elementales [2006.01]"
+  },
+  {
+    "code": "G09G 3/06",
+    "description": "••••que utilizan fuentes de luz controladas [2006.01]"
+  },
+  {
+    "code": "G09G 3/08",
+    "description": "••••••que utilizan filamentos incandescentes [2006.01]"
+  },
+  {
+    "code": "G09G 3/10",
+    "description": "••••••que utilizan tubos de gas [2006.01]"
+  },
+  {
+    "code": "G09G 3/12",
+    "description": "••••••que utilizan elementos electroluminiscentes [2006.01]"
+  },
+  {
+    "code": "G09G 3/14",
+    "description": "••••••••con semiconductores, p. ej. con diodos [2006.01]"
+  },
+  {
+    "code": "G09G 3/16",
+    "description": "••••controlando la luz que proviene de una fuente independiente [2006.01]"
+  },
+  {
+    "code": "G09G 3/18",
+    "description": "••••••que utilizan cristales líquidos [2006.01]"
+  },
+  {
+    "code": "G09G 3/19",
+    "description": "••••••que utilizan dispositivos electrocrómicos [2006.01]"
+  },
+  {
+    "code": "G09G 3/20",
+    "description": "••para la presentación de un conjunto de varios caracteres, p. ej. de una página, componiendo el conjunto por combinación de elementos individuales colocados en una matriz [2006.01]"
+  },
+  {
+    "code": "G09G 3/22",
+    "description": "••••que utilizan fuentes de luz controladas [2006.01]"
+  },
+  {
+    "code": "G09G 3/24",
+    "description": "••••••que utilizan filamentos incandescentes [2006.01]"
+  },
+  {
+    "code": "G09G 3/26",
+    "description": "••••••••para dar la apariencia de signos que se desplazan [2006.01]"
+  },
+  {
+    "code": "G09G 3/28",
+    "description": "••••••que utilizan paneles de descarga luminosa en un gas, p. ej. paneles de plasma [2013.01]"
+  },
+  {
+    "code": "G09G 3/2807",
+    "description": "••••••••con descarga activado por señales de alta frecuencia especialmente adaptado para ello [2013.01]"
+  },
+  {
+    "code": "G09G 3/2813",
+    "description": "••••••••que utilizan corriente alterna [AC] - corriente continua [DC] paneles de tipo híbrido [2013.01]"
+  },
+  {
+    "code": "G09G 3/282",
+    "description": "••••••••que utilizan paneles de corriente contínua (DC) [2006.01]"
+  },
+  {
+    "code": "G09G 3/285",
+    "description": "••••••••••que utilizan autobarrido [2006.01]"
+  },
+  {
+    "code": "G09G 3/288",
+    "description": "••••••••que utilizan paneles de corriente alterna (CA) [2013.01]"
+  },
+  {
+    "code": "G09G 3/29",
+    "description": "••••••••••que utilizan paneles autodecalables [2006.01]"
+  },
+  {
+    "code": "G09G 3/291",
+    "description": "••••••••••controlar la descarga de gas para controlar una condición de la celda, p. ej.: por medio de formas de pulso específicos [2013.01]"
+  },
+  {
+    "code": "G09G 3/292",
+    "description": "••••••••••••para la descarga de reinicio, descarga de cebado o de descarga de borrado se produce en una fase distinta de direccionamiento [2013.01]"
+  },
+  {
+    "code": "G09G 3/293",
+    "description": "••••••••••••para descargas de direccion [2013.01]"
+  },
+  {
+    "code": "G09G 3/294",
+    "description": "••••••••••••para la iluminación o mantenimiento de la descarga [2013.01]"
+  },
+  {
+    "code": "G09G 3/296",
+    "description": "••••••••••Circuitos de accionamiento para la producción de las formas de onda aplicada a los electrodos de conducción [2013.01]"
+  },
+  {
+    "code": "G09G 3/297",
+    "description": "••••••••••que utilizan paneles tipo de descarga opuestos [2013.01]"
+  },
+  {
+    "code": "G09G 3/298",
+    "description": "••••••••••que utilizan paneles de descarga de superficie [2013.01]"
+  },
+  {
+    "code": "G09G 3/299",
+    "description": "••••••••••••que utilizan iluminación alternativa de paneles de tipo de superficie [2013.01]"
+  },
+  {
+    "code": "G09G 3/30",
+    "description": "••••••que utilizan paneles electroluminiscentes [2006.01]"
+  },
+  {
+    "code": "G09G 3/32",
+    "description": "••••••••semiconductores, p. ej. utilizando diodos emisores de luz [LED] [2016.01]"
+  },
+  {
+    "code": "G09G 3/3208",
+    "description": "••••••••••orgánicos, p. ej. utilizando diodos emisores de luz orgánicos [OLED] [2016.01]"
+  },
+  {
+    "code": "G09G 3/3216",
+    "description": "••••••••••••que utilizan una matriz pasiva [2016.01]"
+  },
+  {
+    "code": "G09G 3/3225",
+    "description": "••••••••••••que utilizan una matriz activa [2016.01]"
+  },
+  {
+    "code": "G09G 3/3233",
+    "description": "••••••••••••••con un circuito que controla la corriente a través del elemento emisor de luz del pixel [2016.01]"
+  },
+  {
+    "code": "G09G 3/3241",
+    "description": "••••••••••••••••ajustando la corriente a través del elemento emisor de luz mediante una corriente de datos proporcionada por el controlador de datos,  p. ej. mediante el uso de un espejo de corriente de dos transistores [2016.01]"
+  },
+  {
+    "code": "G09G 3/325",
+    "description": "••••••••••••••••••fluyendo la corriente de datos a través del transistor de conducción durante una fase de ajuste, p. ej.  utilizando un interruptor para conectar el transistor de conducción al controlador de datos [2016.01]"
+  },
+  {
+    "code": "G09G 3/3258",
+    "description": "••••••••••••••con un circuito para controlar el voltaje en del elemento emisor de luz del pixel [2016.01]"
+  },
+  {
+    "code": "G09G 3/3266",
+    "description": "••••••••••••Detalles de los controladores de electrodos de escaneado [2016.01]"
+  },
+  {
+    "code": "G09G 3/3275",
+    "description": "••••••••••••Detalles de los controladores para electrodos de datos [2016.01]"
+  },
+  {
+    "code": "G09G 3/3283",
+    "description": "••••••••••••••en el que el controlador de datos suministra una corriente variable de datos para ajustar la corriente a través de los elementos emisores de luz, o para ajustar la tensión en los bornes de estos [2016.01]"
+  },
+  {
+    "code": "G09G 3/3291",
+    "description": "••••••••••••••en el que el controlador de datos suministra una tensión variable de datos para ajustar la corriente a través de los elementos emisores de luz, o para ajustarla tensión en los bornes de estos [2016.01]"
+  },
+  {
+    "code": "G09G 3/34",
+    "description": "••••controlando la luz que proviene de una fuente independiente [2006.01]"
+  },
+  {
+    "code": "G09G 3/36",
+    "description": "••••••que utilizan cristales líquidos [2006.01]"
+  },
+  {
+    "code": "G09G 3/38",
+    "description": "••••••que utilizan dispositivos electrocrómicos [2006.01]"
+  },
+  {
+    "code": "G09G 5/00",
+    "description": "Disposiciones o circuitos de control de representación comunes a la representación utilizando tubos de rayos catódicos y a la representación utilizando otros medios de visualización [2006.01]"
+  },
+  {
+    "code": "G09G 5/02",
+    "description": "••caracterizados por la manera en que es visualizado el color [2006.01]"
+  },
+  {
+    "code": "G09G 5/04",
+    "description": "••••que utilizan circuitos como interfaz con la representación en colores [2006.01]"
+  },
+  {
+    "code": "G09G 5/06",
+    "description": "••••que utilizan paletas de colores, p. ej. tablas de consulta [2006.01]"
+  },
+  {
+    "code": "G09G 5/08",
+    "description": "••Circuitos de cursores [2006.01]"
+  },
+  {
+    "code": "G09G 5/10",
+    "description": "••Circuitos de intensidad [2006.01]"
+  },
+  {
+    "code": "G09G 5/12",
+    "description": "••Sincronización entre la unidad de representación y otras unidades, p. ej. otras unidades de representación, lectores de discos de vídeo [2006.01]"
+  },
+  {
+    "code": "G09G 5/14",
+    "description": "••Representación de ventanas múltiples [2006.01]"
+  },
+  {
+    "code": "G09G 5/16",
+    "description": "••Representación de lenguas escritas de derecha a izquierda [2006.01]"
+  },
+  {
+    "code": "G09G 5/18",
+    "description": "••Circuitos de sincronización para la representación con barrido por trama (especialmente adaptados a la televisión H04N) [2006.01]"
+  },
+  {
+    "code": "G09G 5/20",
+    "description": "••Circuitos generadores de funciones, p. ej. generadores de círculos [2006.01]"
+  },
+  {
+    "code": "G09G 5/22",
+    "description": "••caracterizados por la representación de caracteres o signos individuales utilizando señales de control de representación derivados de señales codificadas que representen caracteres o signos, p. ej. con una memoria de códigos de caracteres (G09G 5/42 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G09G 5/24",
+    "description": "••••Generación del trazado de caracteres individuales [2006.01]"
+  },
+  {
+    "code": "G09G 5/26",
+    "description": "••••••para modificar la dimensión del carácter, p. ej. doble anchura, doble altura [2006.01]"
+  },
+  {
+    "code": "G09G 5/28",
+    "description": "••••••para mejorar la forma del carácter, p. ej. alisado [2006.01]"
+  },
+  {
+    "code": "G09G 5/30",
+    "description": "••••Control de atributo en la representación [2006.01]"
+  },
+  {
+    "code": "G09G 5/32",
+    "description": "••••con medios para controlar la posición de la representación [2006.01]"
+  },
+  {
+    "code": "G09G 5/34",
+    "description": "••para el movimiento o para el desplazamiento [2006.01]"
+  },
+  {
+    "code": "G09G 5/36",
+    "description": "••caracterizados por la presentación de dibujos gráficos individuales utilizando una memoria con mapas de bits (G09G 5/42 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G09G 5/37",
+    "description": "••••Detalles del tratamiento de dibujos gráficos (G09G 5/38 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G09G 5/373",
+    "description": "••••••para modificar el tamaño del dibujo gráfico [2006.01]"
+  },
+  {
+    "code": "G09G 5/377",
+    "description": "••••••para combinar o superponer dos o más dibujos gráficos (G09G 5/02, G09G 5/397 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G09G 5/38",
+    "description": "••••con medios para controlar la posición de la representación [2006.01]"
+  },
+  {
+    "code": "G09G 5/39",
+    "description": "••••Control de la memoria con mapas de bits [2006.01]"
+  },
+  {
+    "code": "G09G 5/391",
+    "description": "••••••Circuitos de modificación de la resolución, p. ej. formatos de pantalla variable [2006.01]"
+  },
+  {
+    "code": "G09G 5/393",
+    "description": "••••••Disposiciones para actualizar el contenido de la memoria con mapas de bits [2006.01]"
+  },
+  {
+    "code": "G09G 5/395",
+    "description": "••••••Disposiciones especialmente adaptadas para transferir el contenido de la memoria con mapas de bits a la pantalla (G09G 5/399 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G09G 5/397",
+    "description": "••••••••Disposiciones especialmente adaptadas para transferir simultáneamente el contenido de dos o más memorias con mapas de bits a la pantalla, p. ej. para combinación o superposición (G09G 5/02 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G09G 5/399",
+    "description": "••••••que utilizan dos o más memorias con mapas de bits, cuyo funcionamiento es conmutado en el tiempo, p. ej. memorias intermedias tipo ping-pong [2006.01]"
+  },
+  {
+    "code": "G09G 5/40",
+    "description": "••caracterizados por la manera en que son representados simultáneamente los dibujos determinados por un código de caracteres y otros dibujos, o en que es representado de manera selectiva cada dibujo, p. ej. con una memoria de código de caracteres y una memoria con mapas de bits [2006.01]"
+  },
+  {
+    "code": "G09G 5/42",
+    "description": "••caracterizados por la presentación de dibujos utilizando una memoria para presentación sin correspondencia de posición fija entre el contenido de la memoria para presentación y la posición de la presentación en la pantalla [2006.01]"
+  }
+]

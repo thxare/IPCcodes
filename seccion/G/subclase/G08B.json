@@ -1,0 +1,502 @@
+[
+  {
+    "code": "G08B 1/00",
+    "description": "Sistemas de señalización caracterizados sólo por la forma de transmisión de la señal [2006.01]"
+  },
+  {
+    "code": "G08B 1/02",
+    "description": "••que utilizan únicamente una transmisión mecánica [2006.01]"
+  },
+  {
+    "code": "G08B 1/04",
+    "description": "••que utilizan una transmisión hidráulica; que utilizan una transmisión neumática [2006.01]"
+  },
+  {
+    "code": "G08B 1/06",
+    "description": "••••hidráulica solamente [2006.01]"
+  },
+  {
+    "code": "G08B 1/08",
+    "description": "••que utilizan una transmisión eléctrica [2006.01]"
+  },
+  {
+    "code": "G08B 3/00",
+    "description": "Sistemas de señalización audible; Sistemas de llamada sonora de personal [2006.01]"
+  },
+  {
+    "code": "G08B 3/02",
+    "description": "••que utilizan únicamente una transmisión mecánica [2006.01]"
+  },
+  {
+    "code": "G08B 3/06",
+    "description": "••que utilizan una transmisión hidráulica; que utilizan una transmisión neumática [2006.01]"
+  },
+  {
+    "code": "G08B 3/10",
+    "description": "••que utilizan una transmisión eléctrica; que utilizan una transmisión electromagnética [2006.01]"
+  },
+  {
+    "code": "G08B 3/14",
+    "description": "••que utilizan explosivos [2006.01]"
+  },
+  {
+    "code": "G08B 5/00",
+    "description": "Sistemas de señalización óptica, p. ej. dispositivos o sistemas de llamada de personas, indicación a distancia de la ocupación de asientos [2006.01]"
+  },
+  {
+    "code": "G08B 5/02",
+    "description": "••que utilizan únicamente una transmisión mecánica [2006.01]"
+  },
+  {
+    "code": "G08B 5/06",
+    "description": "••que utilizan una transmisión hidráulica; que utilizan una transmisión neumática [2006.01]"
+  },
+  {
+    "code": "G08B 5/14",
+    "description": "••••con elemento indicador que se desplaza alrededor de un gorrón, p. ej. aleta con bisagra o aleta giratoria [2006.01]"
+  },
+  {
+    "code": "G08B 5/16",
+    "description": "••••••con medios para volver a actuar que necesita una operación separada para el retorno del elemento indicador [2006.01]"
+  },
+  {
+    "code": "G08B 5/18",
+    "description": "••••con elemento indicador de desplazamiento rectilíneo [2006.01]"
+  },
+  {
+    "code": "G08B 5/20",
+    "description": "••••••con medios para volver a actuar que necesita una operación separada para el retorno del elemento indicador [2006.01]"
+  },
+  {
+    "code": "G08B 5/22",
+    "description": "••que utilizan una transmisión eléctrica; que utilizan una transmisión electromecánica [2006.01]"
+  },
+  {
+    "code": "G08B 5/24",
+    "description": "••••con elemento indicador que se desplaza alrededor de un gorrón, p. ej. aleta de bisagra o aleta giratoria [2006.01]"
+  },
+  {
+    "code": "G08B 5/26",
+    "description": "••••••con medios para volver a actuar que necesita una operación separada para el retorno del elemento indicador [2006.01]"
+  },
+  {
+    "code": "G08B 5/28",
+    "description": "••••••con aleta o brazo de bisagra [2006.01]"
+  },
+  {
+    "code": "G08B 5/30",
+    "description": "••••••con piezas giratorias u oscilantes, p. ej. aletas [2006.01]"
+  },
+  {
+    "code": "G08B 5/32",
+    "description": "••••con elemento indicador de desplazamiento rectilíneo [2006.01]"
+  },
+  {
+    "code": "G08B 5/34",
+    "description": "••••••con medios para volver a actuar que necesita una operación separada para la vuelta del elemento indicador [2006.01]"
+  },
+  {
+    "code": "G08B 5/36",
+    "description": "••••que utilizan fuentes de luz visible [2006.01]"
+  },
+  {
+    "code": "G08B 5/38",
+    "description": "••••••con luz intermitente [2006.01]"
+  },
+  {
+    "code": "G08B 5/40",
+    "description": "••que utilizan humo, fuego o gases coloreados [2006.01]"
+  },
+  {
+    "code": "G08B 6/00",
+    "description": "Sistemas de señalización táctil, p. ej. sistemas de llamada de personas [2006.01]"
+  },
+  {
+    "code": "G08B 7/00",
+    "description": "Sistemas de señalización según más de uno de los grupos G08B 3/00-G08B 6/00; Sistemas de llamada de personas según más de uno de los grupos G08B 3/00-G08B 6/00 [2006.01]"
+  },
+  {
+    "code": "G08B 7/02",
+    "description": "••que utilizan una transmisión mecánica [2006.01]"
+  },
+  {
+    "code": "G08B 7/04",
+    "description": "••que utilizan una transmisión hidráulica; que utilizan una transmisión neumática [2006.01]"
+  },
+  {
+    "code": "G08B 7/06",
+    "description": "••que utilizan una transmisión eléctrica [2006.01]"
+  },
+  {
+    "code": "G08B 7/08",
+    "description": "••que utilizan explosivos [2006.01]"
+  },
+  {
+    "code": "G08B 9/00",
+    "description": "Aparatos telegráficos para la transmisión de órdenes, es decir, medios que permiten a un usuario transmitir una orden eligiendo entre un cierto número de órdenes diferentes, p. ej. para la transmisión de órdenes en los barcos, del puente a la sala de máquinas [2006.01]"
+  },
+  {
+    "code": "G08B 9/02",
+    "description": "••Detalles [2006.01]"
+  },
+  {
+    "code": "G08B 9/04",
+    "description": "••••Medios para registrar el funcionamiento del aparellaje [2006.01]"
+  },
+  {
+    "code": "G08B 9/06",
+    "description": "••••Medios para indicar un desacuerdo entre las órdenes dadas y las ejecutadas [2006.01]"
+  },
+  {
+    "code": "G08B 9/08",
+    "description": "••mecánicos [2006.01]"
+  },
+  {
+    "code": "G08B 9/10",
+    "description": "••••que utilizan un disparador [2006.01]"
+  },
+  {
+    "code": "G08B 9/12",
+    "description": "••••que utilizan un eje giratorio [2006.01]"
+  },
+  {
+    "code": "G08B 9/14",
+    "description": "••hidráulicos; neumáticos [2006.01]"
+  },
+  {
+    "code": "G08B 9/16",
+    "description": "••••que utilizan un disparador [2006.01]"
+  },
+  {
+    "code": "G08B 9/18",
+    "description": "••••por variación del desplazamiento del fluido [2006.01]"
+  },
+  {
+    "code": "G08B 9/20",
+    "description": "••••por variación de la presión del fluido [2006.01]"
+  },
+  {
+    "code": "G08B 13/00",
+    "description": "Alarmas contra ladrones, los atracadores o cualquier intruso [2006.01]"
+  },
+  {
+    "code": "G08B 13/02",
+    "description": "••Accionamiento mecánico [2006.01]"
+  },
+  {
+    "code": "G08B 13/04",
+    "description": "••••por rotura de cristal [2006.01]"
+  },
+  {
+    "code": "G08B 13/06",
+    "description": "••••por intento de forzar los cierres [2006.01]"
+  },
+  {
+    "code": "G08B 13/08",
+    "description": "••••por abertura, p. ej. de puertas, de ventanas, de cajones, de contraventanas, de cortinas o de estantes [2006.01]"
+  },
+  {
+    "code": "G08B 13/10",
+    "description": "••••por presión sobre suelos, los revestimientos del suelo, los peldaños de escalera, los postigos o las gravetas [2006.01]"
+  },
+  {
+    "code": "G08B 13/12",
+    "description": "••••por la rotura o el desarreglo de cuerdas o de hilos tensados [2006.01]"
+  },
+  {
+    "code": "G08B 13/14",
+    "description": "••••por sustracción o intento de desplazamiento de artículos portátiles [2006.01]"
+  },
+  {
+    "code": "G08B 13/16",
+    "description": "••Accionamiento por intervención de vibraciones mecánicas en el aire o en otro fluido [2006.01]"
+  },
+  {
+    "code": "G08B 13/18",
+    "description": "••Accionamiento por intervención del calor, de la luz o de radiaciones de longitud de onda más cortas; Accionamiento por introducción de fuentes de calor, de luz o de radiaciones de longitudes de onda más cortas [2006.01]"
+  },
+  {
+    "code": "G08B 13/181",
+    "description": "••••utilizando sistemas detectores de radiaciones activos [2006.01]"
+  },
+  {
+    "code": "G08B 13/183",
+    "description": "••••••por interrupción de un haz o de una barrera de radiaciones [2006.01]"
+  },
+  {
+    "code": "G08B 13/184",
+    "description": "••••••••utilizando reflectores de radiaciones [2006.01]"
+  },
+  {
+    "code": "G08B 13/186",
+    "description": "••••••••utilizando guías de luz, p. ej. fibras ópticas [2006.01]"
+  },
+  {
+    "code": "G08B 13/187",
+    "description": "••••••por interferencia de un campo de radiaciones [2006.01]"
+  },
+  {
+    "code": "G08B 13/189",
+    "description": "••••utilizando sistemas detectores de radiación pasivos [2006.01]"
+  },
+  {
+    "code": "G08B 13/19",
+    "description": "••••••utilizando sistemas detectores de radiación infrarrojos [2006.01]"
+  },
+  {
+    "code": "G08B 13/191",
+    "description": "••••••••utilizando medios de detección piroeléctricos [2006.01]"
+  },
+  {
+    "code": "G08B 13/193",
+    "description": "••••••••utilizando medios de focalización [2006.01]"
+  },
+  {
+    "code": "G08B 13/194",
+    "description": "••••••utilizando sistemas de barrido y de comparación de imagen [2006.01]"
+  },
+  {
+    "code": "G08B 13/196",
+    "description": "••••••••utilizando cámaras de televisión [2006.01]"
+  },
+  {
+    "code": "G08B 13/20",
+    "description": "••Accionamiento por cambio de la presión de un fluido [2006.01]"
+  },
+  {
+    "code": "G08B 13/22",
+    "description": "••Accionamiento eléctrico [2006.01]"
+  },
+  {
+    "code": "G08B 13/24",
+    "description": "••••por una interferencia con la distribución de un campo electromagnético [2006.01]"
+  },
+  {
+    "code": "G08B 13/26",
+    "description": "••••por la proximidad de un intruso que provoca una variación en la capacidad o la inductancia de un circuito [2006.01]"
+  },
+  {
+    "code": "G08B 15/00",
+    "description": "Identificación, intimidación o incapacitación de los atracadores, ladrones u otros intrusos, p. ej. empleando explosivos [2006.01]"
+  },
+  {
+    "code": "G08B 15/02",
+    "description": "••con humo, gas, o polvo, o un líquido coloreado o perfumado [2006.01]"
+  },
+  {
+    "code": "G08B 17/00",
+    "description": "Alarmas de incendio; Alarmas que reaccionan a una explosión [2006.01]"
+  },
+  {
+    "code": "G08B 17/02",
+    "description": "••Accionamiento mecánico de la alarma, p. ej. por la rotura de un hilo metálico [2006.01]"
+  },
+  {
+    "code": "G08B 17/04",
+    "description": "••Accionamiento hidráulico o neumático de la alarma, p. ej. por cambio de presión de un fluido [2006.01]"
+  },
+  {
+    "code": "G08B 17/06",
+    "description": "••Accionamiento eléctrico de la alarma, p. ej. que utilizan un interruptor accionado térmicamente [2006.01]"
+  },
+  {
+    "code": "G08B 17/08",
+    "description": "••Accionamiento que comprende la utilización de medios explosivos [2006.01]"
+  },
+  {
+    "code": "G08B 17/10",
+    "description": "••Accionamiento por la presencia de humo o de gas [2006.01]"
+  },
+  {
+    "code": "G08B 17/103",
+    "description": "••••utilizando un dispositivo emisor y receptor de luz [2006.01]"
+  },
+  {
+    "code": "G08B 17/107",
+    "description": "••••••para detectar una difusión de luz debida al humo [2006.01]"
+  },
+  {
+    "code": "G08B 17/11",
+    "description": "••••utilizando una cámara de ionización para detectar humos o gases [2006.01]"
+  },
+  {
+    "code": "G08B 17/113",
+    "description": "••••••Detalles de estructura [2006.01]"
+  },
+  {
+    "code": "G08B 17/117",
+    "description": "••••utilizando un dispositivo de detección para gases específicos, p. ej. productos de combustión, producidos por el incendio (G08B 17/103, G08B 17/11 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G08B 17/12",
+    "description": "••Accionamiento por la presencia de radiación o de partículas, p. ej. de radiación infrarroja o de iones [2006.01]"
+  },
+  {
+    "code": "G08B 19/00",
+    "description": "Alarmas que reaccionan a dos o más condiciones diferentes, indeseables o anormales, p. ej. atraco e incendio, temperatura anormal y caudal de derrame anormal [2006.01]"
+  },
+  {
+    "code": "G08B 19/02",
+    "description": "••Alarmas que reaccionan a la formación o antes de la formación del hielo [2006.01]"
+  },
+  {
+    "code": "G08B 21/00",
+    "description": "Alarmas que reaccionan a una sola condición especificada, indeseable o anormal, y no previstas en otro lugar [2006.01]"
+  },
+  {
+    "code": "G08B 21/02",
+    "description": "••Alarmas para garantizar la seguridad de las personas [2006.01]"
+  },
+  {
+    "code": "G08B 21/04",
+    "description": "••••que reaccionan ante la falta de actividad, p. ej. personas mayores (G08B 21/06  tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G08B 21/06",
+    "description": "••••que indican un estado de sueño, p. ej. alarmas contra la somnolencia [2006.01]"
+  },
+  {
+    "code": "G08B 21/08",
+    "description": "••••que reaccionan ante la presencia de personas dentro de una masa de agua, p. ej. dentro de una piscina; que reaccionan ante una condición anormal de una masa de agua [2006.01]"
+  },
+  {
+    "code": "G08B 21/10",
+    "description": "••••que reaccionan ante sucesos catastróficos, p. ej. tornados, terremotos [2006.01]"
+  },
+  {
+    "code": "G08B 21/12",
+    "description": "••••que reaccionan ante la emisión no deseada de substancias, p. ej. alarmas contra la contaminación [2006.01]"
+  },
+  {
+    "code": "G08B 21/14",
+    "description": "••••••Alarmas que reaccionan ante gases tóxicos (G08B 21/16  tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G08B 21/16",
+    "description": "••••••Alarmas que reaccionan ante gases combustibles [2006.01]"
+  },
+  {
+    "code": "G08B 21/18",
+    "description": "••Alarmas de estado (G08B 21/02  tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G08B 21/20",
+    "description": "••••que reaccionan ante la humedad [2006.01]"
+  },
+  {
+    "code": "G08B 21/22",
+    "description": "••••que reaccionan ante la presencia o ausencia de personas [2006.01]"
+  },
+  {
+    "code": "G08B 21/24",
+    "description": "••••Alarmas para recordar, p. ej. alarmas contra la pérdida [2006.01]"
+  },
+  {
+    "code": "G08B 23/00",
+    "description": "Alarmas que reaccionan a condiciones indeseables o anormales, no especificadas [2006.01]"
+  },
+  {
+    "code": "G08B 25/00",
+    "description": "Sistemas de alarma en los que el emplazamiento del lugar donde existe la condición que acciona la alarma es señalado a una estación central, p. ej. sistemas telegráficos de incendio o de policía [2006.01]"
+  },
+  {
+    "code": "G08B 25/01",
+    "description": "••caracterizados por el medio de transmisión [2006.01]"
+  },
+  {
+    "code": "G08B 25/04",
+    "description": "••••utilizando una línea de señalización única, p. ej. en bucle cerrado [2006.01]"
+  },
+  {
+    "code": "G08B 25/06",
+    "description": "••••utilizando la red de alimentación de energía [2006.01]"
+  },
+  {
+    "code": "G08B 25/08",
+    "description": "••••utilizando las líneas de comunicación [2006.01]"
+  },
+  {
+    "code": "G08B 25/10",
+    "description": "••••utilizando sistemas de transmisión sin hilos [2006.01]"
+  },
+  {
+    "code": "G08B 25/12",
+    "description": "••Disposiciones para transmitir una alarma por control manual en caso de siniestro [2006.01]"
+  },
+  {
+    "code": "G08B 25/14",
+    "description": "••Disposiciones centrales para la recepción o la indicación de una alarma [2006.01]"
+  },
+  {
+    "code": "G08B 26/00",
+    "description": "Sistemas de alarma en los que las subestaciones son interrogadas sucesivamente por una estación central [2006.01]"
+  },
+  {
+    "code": "G08B 27/00",
+    "description": "Sistemas de alarma en los que la condición que acciona la alarma es señalada por una estación central a varias subestaciones [2006.01]"
+  },
+  {
+    "code": "G08B 29/00",
+    "description": "Verificación o control de sistemas de señalización de alarma; Prevención o corrección de errores de funcionamiento, p. ej. que impiden el accionamiento no autorizado [2006.01]"
+  },
+  {
+    "code": "G08B 29/02",
+    "description": "••Vigilancia continua de los sistemas de señalización o de alarma [2006.01]"
+  },
+  {
+    "code": "G08B 29/04",
+    "description": "••••Vigilancia de los circuitos detectores [2006.01]"
+  },
+  {
+    "code": "G08B 29/06",
+    "description": "••••Vigilancia de los circuitos de línea, p. ej. señalización de defectos de línea [2006.01]"
+  },
+  {
+    "code": "G08B 29/08",
+    "description": "••••••Señalización de una violación de circuito de línea [2006.01]"
+  },
+  {
+    "code": "G08B 29/10",
+    "description": "••••Vigilancia de los circuitos avisadores [2006.01]"
+  },
+  {
+    "code": "G08B 29/12",
+    "description": "••Verificación intermitente de los sistemas de señalización o de alarma [2006.01]"
+  },
+  {
+    "code": "G08B 29/14",
+    "description": "••••Verificación de los circuitos de detección [2006.01]"
+  },
+  {
+    "code": "G08B 29/16",
+    "description": "••Sistemas de señalización o de alarma de seguridad, p. ej. sistemas redundantes [2006.01]"
+  },
+  {
+    "code": "G08B 29/18",
+    "description": "••Prevención o corrección de errores de funcionamiento (G08B 29/02, G08B 29/12  tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G08B 29/20",
+    "description": "••••Calibrado, incluso los dispositivos de autocalibrado [2006.01]"
+  },
+  {
+    "code": "G08B 29/22",
+    "description": "••••••Disposiciones para facilitar el calibrado manual, p. ej. disposiciones de entrada o de salida para la verificación; Mantenimiento de valores intermitentes que permitan la medida [2006.01]"
+  },
+  {
+    "code": "G08B 29/24",
+    "description": "••••••Autocalibrado, p. ej. para la corrección de la deriva ambiente o del envejecimiento de componentes [2006.01]"
+  },
+  {
+    "code": "G08B 29/26",
+    "description": "••••••••por puesta al día y almacenaje de umbrales de referencia [2006.01]"
+  },
+  {
+    "code": "G08B 29/28",
+    "description": "••••••••por cambio de la ganancia de un amplificador [2006.01]"
+  },
+  {
+    "code": "G08B 31/00",
+    "description": "Sistemas de alarma de predicción, caracterizados por una extrapolación u otro tipo de cálculo utilizando datos históricos puestos al día [2006.01]"
+  }
+]

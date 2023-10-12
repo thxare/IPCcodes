@@ -1,0 +1,482 @@
+[
+  {
+    "code": "F02K 1/00",
+    "description": "Plantas o instalaciones caracterizadas por la forma o disposición del conducto del chorro o tobera; Conductos de chorros o toberas particulares a este fin (toberas de cohetes F02K 9/97) [2006.01]"
+  },
+  {
+    "code": "F02K 1/04",
+    "description": "••Montaje de un cono de escape en el conducto del chorro [2006.01]"
+  },
+  {
+    "code": "F02K 1/06",
+    "description": "••Variación de la sección útil del conducto del chorro o de la tobera (para variar el área útil del conducto del chorro o boquilla F02K 1/30) [2006.01]"
+  },
+  {
+    "code": "F02K 1/08",
+    "description": "••••desplazando axialmente o deformando transversalmente un órgano interno, p. ej. el cono de escape [2006.01]"
+  },
+  {
+    "code": "F02K 1/09",
+    "description": "••••desplazando axialmente un órgano externo, p. ej. una cubierta o refuerzo (F02K 1/12 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F02K 1/10",
+    "description": "••••por distorsión del conducto del chorro o de la tobera [2006.01]"
+  },
+  {
+    "code": "F02K 1/11",
+    "description": "••••por pivotado de cualquiera de las dos partes móviles que regulan la tobera de escape [2006.01]"
+  },
+  {
+    "code": "F02K 1/12",
+    "description": "••••por medio de aletas giratorias [2006.01]"
+  },
+  {
+    "code": "F02K 1/15",
+    "description": "••••Control o regulación [2006.01]"
+  },
+  {
+    "code": "F02K 1/16",
+    "description": "••••••conjuntamente con otro control [2006.01]"
+  },
+  {
+    "code": "F02K 1/17",
+    "description": "••••••••con control de la alimentación de combustible [2006.01]"
+  },
+  {
+    "code": "F02K 1/18",
+    "description": "••••••automático [2006.01]"
+  },
+  {
+    "code": "F02K 1/28",
+    "description": "••utilización de chorros de fluido para influenciar el flujo de chorro [2006.01]"
+  },
+  {
+    "code": "F02K 1/30",
+    "description": "••••para variar el área útil del conducto del chorro o boquilla [2006.01]"
+  },
+  {
+    "code": "F02K 1/32",
+    "description": "••••para invertir el impulso [2006.01]"
+  },
+  {
+    "code": "F02K 1/34",
+    "description": "••••para atenuar el ruido [2006.01]"
+  },
+  {
+    "code": "F02K 1/36",
+    "description": "••teniendo un eyector [2006.01]"
+  },
+  {
+    "code": "F02K 1/38",
+    "description": "••Introducción de aire dentro del chorro (F02K 1/28 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F02K 1/40",
+    "description": "••Toberas que disponen de medios para dividir el chorro en diversos chorros parciales o que tienen una salida de sección transversal alargada [2006.01]"
+  },
+  {
+    "code": "F02K 1/42",
+    "description": "••••siendo los medios movibles a una posición inoperativa [2006.01]"
+  },
+  {
+    "code": "F02K 1/44",
+    "description": "••Toberas que tienen medios, p. ej. una pantalla, que reduce la radiación del sonido en una dirección determinada (F02K 1/40 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F02K 1/46",
+    "description": "••Toberas que disponen de medios para añadir aire al chorro o para aumentar la zona de mezcla entre el chorro y el aire ambiental, p. ej. para silenciar (F02K 1/28, F02K 1/36, F02K 1/38 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "F02K 1/48",
+    "description": "••••Toberas acanaladas [2006.01]"
+  },
+  {
+    "code": "F02K 1/50",
+    "description": "••••Desviando hacia fuera una parte del chorro por deflectores con forma de paleta replegables [2006.01]"
+  },
+  {
+    "code": "F02K 1/52",
+    "description": "••Toberas especialmente construidas para ponerlas al lado de otra tobera o de un órgano fijado, p. ej. de encendido [2006.01]"
+  },
+  {
+    "code": "F02K 1/54",
+    "description": "••Toberas que disponen de medios para invertir el impulso del chorro (para invertir el impulso F02K 1/32) [2006.01]"
+  },
+  {
+    "code": "F02K 1/56",
+    "description": "••••Por inversión del chorro de flujo principal [2006.01]"
+  },
+  {
+    "code": "F02K 1/58",
+    "description": "••••••Inversores montados sobre el cono interior o el bastidor de la tobera [2006.01]"
+  },
+  {
+    "code": "F02K 1/60",
+    "description": "••••••por obstrucción de la descarga hacia atrás por medio de partes móviles que pivotan y regulan la salida en las toberas, p. ej. inversores de tipo escudo [2006.01]"
+  },
+  {
+    "code": "F02K 1/62",
+    "description": "••••••por obstrucción de la descarga hacia atrás por medio de aletas [2006.01]"
+  },
+  {
+    "code": "F02K 1/64",
+    "description": "••••Por inversión del flujo del ventilador [2006.01]"
+  },
+  {
+    "code": "F02K 1/66",
+    "description": "••••••utilizando paletas del ventilador que se invierten [2006.01]"
+  },
+  {
+    "code": "F02K 1/68",
+    "description": "••••••Inversores montados sobre la caja del motor aguas abajo de la sección de escape del ventilador [2006.01]"
+  },
+  {
+    "code": "F02K 1/70",
+    "description": "••••••utilizando aletas inversoras del empuje o puertas montadas sobre la caja del ventilador [2006.01]"
+  },
+  {
+    "code": "F02K 1/72",
+    "description": "••••••••siendo la extremidad posterior de la caja del ventilador movible a aberturas no cubiertas en la caja del ventilador para el flujo invertido [2006.01]"
+  },
+  {
+    "code": "F02K 1/74",
+    "description": "••••Invirtiendo al menos un flujo en relación con otro en un motor de varios flujos [2006.01]"
+  },
+  {
+    "code": "F02K 1/76",
+    "description": "••••Control o regulación de los inversores de empuje [2006.01]"
+  },
+  {
+    "code": "F02K 1/78",
+    "description": "••Otras construcciones de conductos del chorro [2006.01]"
+  },
+  {
+    "code": "F02K 1/80",
+    "description": "••••Acoplamientos o conexiones [2006.01]"
+  },
+  {
+    "code": "F02K 1/82",
+    "description": "••••Paredes de los conductos del chorro, p. ej. revestimientos [2006.01]"
+  },
+  {
+    "code": "F02K 3/00",
+    "description": "Plantas o instalaciones que implican una turbina de gas accionando un compresor o un ventilador de flujo guiado [2006.01]"
+  },
+  {
+    "code": "F02K 3/02",
+    "description": "••en los cuales una parte del fluido energético se deriva hacia afuera de la turbina y de la cámara de combustión [2006.01]"
+  },
+  {
+    "code": "F02K 3/04",
+    "description": "••••incluyendo la instalación ventiladores guiados es decir, ventiladores de gran volumen, baja presión de salida, para aumentar el impulso del chorro, p. ej. del tipo de doble flujo [2006.01]"
+  },
+  {
+    "code": "F02K 3/06",
+    "description": "••••••con ventilador frontal [2006.01]"
+  },
+  {
+    "code": "F02K 3/062",
+    "description": "••••••con ventilador posterior [2006.01]"
+  },
+  {
+    "code": "F02K 3/065",
+    "description": "••••••con ventiladores frontal y posterior [2006.01]"
+  },
+  {
+    "code": "F02K 3/068",
+    "description": "••••••estando caracterizada por una longitud axial corta relativa al diámetro [2006.01]"
+  },
+  {
+    "code": "F02K 3/072",
+    "description": "••••••con rotores que giran en sentido contrario [2006.01]"
+  },
+  {
+    "code": "F02K 3/075",
+    "description": "••••••control de la relación de flujo entre flujos [2006.01]"
+  },
+  {
+    "code": "F02K 3/077",
+    "description": "••••••siendo la instalación de las de tipo flujo múltiple, es decir, que tiene tres flujos o más [2006.01]"
+  },
+  {
+    "code": "F02K 3/08",
+    "description": "••con calentamiento suplementario del fluido energético; Control de los mismos (control de la alimentación de combustible F02C 9/26) [2006.01]"
+  },
+  {
+    "code": "F02K 3/10",
+    "description": "••••por quemadores posteriores (F02K 3/105 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F02K 3/105",
+    "description": "••••Calentando el flujo derivado [2006.01]"
+  },
+  {
+    "code": "F02K 3/11",
+    "description": "••••••por medio de quemadores o cámaras de combustión [2006.01]"
+  },
+  {
+    "code": "F02K 3/115",
+    "description": "••••••por medio de un intercambio de calor indirecto [2006.01]"
+  },
+  {
+    "code": "F02K 3/12",
+    "description": "••caracterizados por el hecho de tener más de una turbina de gas [2006.01]"
+  },
+  {
+    "code": "F02K 5/00",
+    "description": "Plantas o instalaciones que implican un motor diferente de una turbina de gas que acciona un compresor o un ventilador de flujo guiado [2006.01]"
+  },
+  {
+    "code": "F02K 5/02",
+    "description": "••siendo el motor del tipo de pistón alternativo [2006.01]"
+  },
+  {
+    "code": "F02K 7/00",
+    "description": "Plantas o instalaciones en las cuales el fluido energético se utiliza solamente bajo la forma de chorro, es decir, las plantas o instalaciones no tienen una turbina de gas u otro motor que accione un compresor o un ventilador guiado; Su control (instalaciones de motor cohético F02K 9/00) [2006.01]"
+  },
+  {
+    "code": "F02K 7/02",
+    "description": "••siendo el chorro intermitente, es decir, chorro por pulsaciones [2006.01]"
+  },
+  {
+    "code": "F02K 7/04",
+    "description": "••••con cámaras de combustión resonantes [2006.01]"
+  },
+  {
+    "code": "F02K 7/06",
+    "description": "••••con cámaras de combustión provistas de válvulas [2006.01]"
+  },
+  {
+    "code": "F02K 7/067",
+    "description": "••••••teniendo válvulas aerodinámicas [2006.01]"
+  },
+  {
+    "code": "F02K 7/075",
+    "description": "••••con motores a reacción por propulsiones múltiples [2006.01]"
+  },
+  {
+    "code": "F02K 7/08",
+    "description": "••siendo el chorro continuo [2006.01]"
+  },
+  {
+    "code": "F02K 7/10",
+    "description": "••caracterizado por tener una compresión de golpe de ariete, es decir, por conductos aerotermodinámicos o motores con chorros de golpe de ariete [2006.01]"
+  },
+  {
+    "code": "F02K 7/12",
+    "description": "••••Motores a reacción de inyección-inducción [2006.01]"
+  },
+  {
+    "code": "F02K 7/14",
+    "description": "••••con combustión externa, p. ej. estatorreactores con combustión supersónica [2006.01]"
+  },
+  {
+    "code": "F02K 7/16",
+    "description": "••••Combinaciones de estatorreactor/turborreactor [2006.01]"
+  },
+  {
+    "code": "F02K 7/18",
+    "description": "••••Combinaciones de estatorreactor/motor cohético [2006.01]"
+  },
+  {
+    "code": "F02K 7/20",
+    "description": "••••Combinaciones de estatorreactor/pulsorreactor [2006.01]"
+  },
+  {
+    "code": "F02K 9/00",
+    "description": "Plantas o instalaciones de motor cohético, es decir, instalaciones que llevan combustible y oxidante; Su control [2006.01]"
+  },
+  {
+    "code": "F02K 9/08",
+    "description": "••que utilizan propulsores sólidos (F02K 9/72 tiene prioridad; utilizando propulsores semisólidos o pulverulentos F02K 9/70) [2006.01]"
+  },
+  {
+    "code": "F02K 9/10",
+    "description": "••••Forma o estructura de las cargas de propulsión sólidas [2006.01]"
+  },
+  {
+    "code": "F02K 9/12",
+    "description": "••••••hechos de dos o más porciones que se queman en relaciones diferentes [2006.01]"
+  },
+  {
+    "code": "F02K 9/14",
+    "description": "••••••hechos de materiales de forma plana, p. ej. de tipo alargado, de estructura bandeada o en capas [2006.01]"
+  },
+  {
+    "code": "F02K 9/16",
+    "description": "••••••de estructura alveolar [2006.01]"
+  },
+  {
+    "code": "F02K 9/18",
+    "description": "••••••del tipo quemado interno que tiene una cavidad interior en estrella o en forma parecida [2006.01]"
+  },
+  {
+    "code": "F02K 9/20",
+    "description": "••••••del tipo quemado exterior [2006.01]"
+  },
+  {
+    "code": "F02K 9/22",
+    "description": "••••••del tipo quemado frontal [2006.01]"
+  },
+  {
+    "code": "F02K 9/24",
+    "description": "••••Cargado de motores cohéticos con propulsores sólidos; Métodos o aparatos especialmente adaptados para trabajar cargas de propulsión solidas [2006.01]"
+  },
+  {
+    "code": "F02K 9/26",
+    "description": "••••Control de la combustión [2006.01]"
+  },
+  {
+    "code": "F02K 9/28",
+    "description": "••••teniendo dos o más cargas propulsoras con los gases de propulsión saliendo a través de una tobera común [2006.01]"
+  },
+  {
+    "code": "F02K 9/30",
+    "description": "••••con los gases de propulsión saliendo a través de varias toberas [2006.01]"
+  },
+  {
+    "code": "F02K 9/32",
+    "description": "••••Partes constitutivas; Detalles [2006.01]"
+  },
+  {
+    "code": "F02K 9/34",
+    "description": "••••••Recubrimientos; Cámaras de combustión; Sus revestimientos de protección [2006.01]"
+  },
+  {
+    "code": "F02K 9/36",
+    "description": "••••••Soportes de la carga de propulsión [2006.01]"
+  },
+  {
+    "code": "F02K 9/38",
+    "description": "••••••Dispositivos de seguridad, p. ej. para prevenir un encendido accidental [2006.01]"
+  },
+  {
+    "code": "F02K 9/40",
+    "description": "••••••Dispositivos de refrigeración [2006.01]"
+  },
+  {
+    "code": "F02K 9/42",
+    "description": "••que utilizan propulsores líquidos o gaseosos (F02K 9/72 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F02K 9/44",
+    "description": "••••Alimentación de propulsores [2006.01]"
+  },
+  {
+    "code": "F02K 9/46",
+    "description": "••••••que utilizan bombas [2006.01]"
+  },
+  {
+    "code": "F02K 9/48",
+    "description": "••••••••accionadas por una turbina de gas alimentada por los gases de combustión de propulsión [2006.01]"
+  },
+  {
+    "code": "F02K 9/50",
+    "description": "••••••utilizando un fluido a presión para presurizar los propulsores [2006.01]"
+  },
+  {
+    "code": "F02K 9/52",
+    "description": "••••••Inyectores [2006.01]"
+  },
+  {
+    "code": "F02K 9/54",
+    "description": "••••••Detectores de fugas; Sistemas de purga; Sistemas de filtración [2006.01]"
+  },
+  {
+    "code": "F02K 9/56",
+    "description": "••••••Control [2006.01]"
+  },
+  {
+    "code": "F02K 9/58",
+    "description": "••••••••Válvulas alimentadoras de propulsión [2006.01]"
+  },
+  {
+    "code": "F02K 9/60",
+    "description": "••••Partes constitutivas; Detalles no previstos en otro lugar [2006.01]"
+  },
+  {
+    "code": "F02K 9/62",
+    "description": "••••••Cámaras de combustión o de impulso [2006.01]"
+  },
+  {
+    "code": "F02K 9/64",
+    "description": "••••••••con dispositivos de refrigeración [2006.01]"
+  },
+  {
+    "code": "F02K 9/66",
+    "description": "••••••••de tipo rotativo [2006.01]"
+  },
+  {
+    "code": "F02K 9/68",
+    "description": "••••••Cámaras de descomposición [2006.01]"
+  },
+  {
+    "code": "F02K 9/70",
+    "description": "••que utilizan propulsores semisólidos o pulverulentos [2006.01]"
+  },
+  {
+    "code": "F02K 9/72",
+    "description": "••que utilizan propulsores sólidos y líquidos, es decir, instalaciones de motores cohéticos híbridas [2006.01]"
+  },
+  {
+    "code": "F02K 9/74",
+    "description": "••combinadas con otra instalación de propulsión a reacción [2006.01]"
+  },
+  {
+    "code": "F02K 9/76",
+    "description": "••••con otra instalación de motor cohético; Instalaciones de motores cohéticos de varias etapas [2006.01]"
+  },
+  {
+    "code": "F02K 9/78",
+    "description": "••••con una instalación de propulsión a reacción con toma de aire (con un estato-reactor F02K 7/18) [2006.01]"
+  },
+  {
+    "code": "F02K 9/80",
+    "description": "••caracterizadas por el control del empuje o del vector de empuje (control de la combustión de propulsores sólidos F02K 9/26; control de la alimentación de propulsores líquidos o gaseosos F02K 9/56; instalaciones de motores cohéticos re-encendibles, reiniciables o que funcionan intermitentemente F02K 9/94) [2006.01]"
+  },
+  {
+    "code": "F02K 9/82",
+    "description": "••••por inyección de un fluido secundario dentro de los gases de escape del cohete [2006.01]"
+  },
+  {
+    "code": "F02K 9/84",
+    "description": "••••utilizando toberas movibles [2006.01]"
+  },
+  {
+    "code": "F02K 9/86",
+    "description": "••••utilizando gargantas de toberas de sección transversal regulable [2006.01]"
+  },
+  {
+    "code": "F02K 9/88",
+    "description": "••••utilizando toberas de cohetes auxiliares [2006.01]"
+  },
+  {
+    "code": "F02K 9/90",
+    "description": "••••utilizando deflectores (F02K 9/82 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F02K 9/92",
+    "description": "••••con medios incorporados para invertir o terminar el empuje [2006.01]"
+  },
+  {
+    "code": "F02K 9/94",
+    "description": "••Reencendido o puesta en marcha de nuevo de instalaciones de motores cohéticos; Instalaciones de motores cohéticos que funcionan intermitentemente [2006.01]"
+  },
+  {
+    "code": "F02K 9/95",
+    "description": "••caracterizadas por los medios o dispositivos de arranque o encendido (dispositivos de seguridad F02K 9/38) [2006.01]"
+  },
+  {
+    "code": "F02K 9/96",
+    "description": "••caracterizadas por llevar dispositivos especialmente adaptados para análisis o medidas [2006.01]"
+  },
+  {
+    "code": "F02K 9/97",
+    "description": "••Toberas de cohetes (control del empuje o del vector de empuje F02K 9/80) [2006.01]"
+  },
+  {
+    "code": "F02K 99/00",
+    "description": "Materia no prevista en otros grupos de esta subclase [2009.01]"
+  }
+]

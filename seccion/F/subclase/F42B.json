@@ -1,0 +1,1142 @@
+[
+  {
+    "code": "F42B 1/00",
+    "description": "Cargas explosivas caracterizadas por su forma o su configuración, pero sin depender de la forma de la envoltura [2006.01]"
+  },
+  {
+    "code": "F42B 1/02",
+    "description": "••Cargas huecas o modeladas (cartuchos de voladura con cavidades en la carga F42B 3/08; utilización de perforadores con carga hueca para la extracción del petróleo E21B 43/116) [2006.01]"
+  },
+  {
+    "code": "F42B 1/024",
+    "description": "••••que tienen partes de material inerte empotradas dentro de la carga explosiva [2006.01]"
+  },
+  {
+    "code": "F42B 1/028",
+    "description": "••••caracterizadas por la forma del revestimiento [2006.01]"
+  },
+  {
+    "code": "F42B 1/032",
+    "description": "••••caracterizados por el material del revestimiento [2006.01]"
+  },
+  {
+    "code": "F42B 1/036",
+    "description": "••••Procedimientos de fabricación de dichas cargas [2006.01]"
+  },
+  {
+    "code": "F42B 1/04",
+    "description": "••Cargas de detonadores que no forman parte de la espoleta [2006.01]"
+  },
+  {
+    "code": "F42B 3/00",
+    "description": "Cartuchos de voladura, es decir, envolturas con explosivo (mechas, cordeles detonantes C06C 5/00; aspectos químicos de los detonadores, de las cápsulas de voladura o de los cebos C06C 7/00) [2006.01]"
+  },
+  {
+    "code": "F42B 3/02",
+    "description": "••adaptados para estar unidos en un conjunto [2006.01]"
+  },
+  {
+    "code": "F42B 3/04",
+    "description": "••para la producción de gas bajo presión [2006.01]"
+  },
+  {
+    "code": "F42B 3/06",
+    "description": "••••con envoltura reutilizable [2006.01]"
+  },
+  {
+    "code": "F42B 3/08",
+    "description": "••con cavidades en la carga, p. ej. cartuchos de voladura con carga hueca [2006.01]"
+  },
+  {
+    "code": "F42B 3/087",
+    "description": "••Cartuchos de voladura flexibles o deformables, p. ej. saquitos o envolturas en forma de tubos flexibles (saquetes de cartuchos cargados F42B 5/38) [2006.01]"
+  },
+  {
+    "code": "F42B 3/093",
+    "description": "••••en forma de tapete o de cinta [2006.01]"
+  },
+  {
+    "code": "F42B 3/10",
+    "description": "••Iniciadores para estos cartuchos (espoletas de percusión F42C 7/00; cápsulas fulminantes F42C 19/10; cebos eléctricos F42C 19/12) [2006.01]"
+  },
+  {
+    "code": "F42B 3/103",
+    "description": "••••Montaje de las cabezas de encendido en iniciadores; Tapones de estanqueidad [2006.01]"
+  },
+  {
+    "code": "F42B 3/107",
+    "description": "••••••Tapones de estanqueidad caracterizados por el material utilizado [2006.01]"
+  },
+  {
+    "code": "F42B 3/11",
+    "description": "••••caracterizados por el material utilizado, p. ej. para la envoltura del iniciador o para los hilos eléctricos (F42B 3/107 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F42B 3/113",
+    "description": "••••activados por vía óptica, p. ej. por láser, por luz con destellos [2006.01]"
+  },
+  {
+    "code": "F42B 3/117",
+    "description": "••••activados por fricción [2006.01]"
+  },
+  {
+    "code": "F42B 3/12",
+    "description": "••••Iniciadores de puente [2006.01]"
+  },
+  {
+    "code": "F42B 3/13",
+    "description": "••••••de puente semiconductor [2006.01]"
+  },
+  {
+    "code": "F42B 3/14",
+    "description": "••••Iniciadores de chispa [2006.01]"
+  },
+  {
+    "code": "F42B 3/16",
+    "description": "••••Iniciadores de retraso [2006.01]"
+  },
+  {
+    "code": "F42B 3/18",
+    "description": "••••Iniciadores de seguridad contra una ignición prematura provocada por la electricidad estática o corrientes parásitas [2006.01]"
+  },
+  {
+    "code": "F42B 3/182",
+    "description": "••••••provistos de un elemento shunt [2006.01]"
+  },
+  {
+    "code": "F42B 3/185",
+    "description": "••••••provistos de un tapón de estanqueidad semiconductor [2006.01]"
+  },
+  {
+    "code": "F42B 3/188",
+    "description": "••••••provistos de un filtro de radiofrecuencia [2006.01]"
+  },
+  {
+    "code": "F42B 3/192",
+    "description": "••••con capacidad para ser neutralizados al entrar en contacto con agua [2006.01]"
+  },
+  {
+    "code": "F42B 3/195",
+    "description": "••••Fabricación [2006.01]"
+  },
+  {
+    "code": "F42B 3/198",
+    "description": "••••••de cabezas para iniciadores eléctricos [2006.01]"
+  },
+  {
+    "code": "F42B 3/22",
+    "description": "••Dispositivos para controlar o guiar la onda detonante, p. ej. tubos (utilización de partes de material inerte, empotrados en la carga explosiva F42B 1/024) [2006.01]"
+  },
+  {
+    "code": "F42B 3/24",
+    "description": "••Cierres, tapaderas o dispositivos de estanqueidad de los cartuchos (tapaderas para cartuchos de escopetas de caza F42B 7/12) [2006.01]"
+  },
+  {
+    "code": "F42B 3/26",
+    "description": "••Disposiciones para el montaje de iniciadores; Accesorios para ello, p. ej. herramientas [2006.01]"
+  },
+  {
+    "code": "F42B 3/28",
+    "description": "••Envolturas para cartuchos de voladura caracterizadas por el material utilizado, p. ej. revestimientos (envolturas para iniciadores F42B 3/11) [2006.01]"
+  },
+  {
+    "code": "F42B 4/00",
+    "description": "Fuegos artificiales, es decir, dispositivos pirotécnicos para divertir, indicar, iluminar o señalar (señalización utilizando explosivos G08B; publicidad por fuegos artificiales G09F 13/46) [2006.01]"
+  },
+  {
+    "code": "F42B 4/02",
+    "description": "••en forma de cartucho, es decir, envoltura, carga y cebo [2006.01]"
+  },
+  {
+    "code": "F42B 4/04",
+    "description": "••Petardos [2006.01]"
+  },
+  {
+    "code": "F42B 4/06",
+    "description": "••Cohetes aéreos de exhibición (cohetes en general F42B 15/00) [2006.01]"
+  },
+  {
+    "code": "F42B 4/08",
+    "description": "••••caracterizados por tener aletas, alas, paracaídas, o globos [2006.01]"
+  },
+  {
+    "code": "F42B 4/10",
+    "description": "••••caracterizados por tener medios para separar una pieza a la carga de la envoltura sin destruirla [2006.01]"
+  },
+  {
+    "code": "F42B 4/12",
+    "description": "••••••Separación del paracaídas o de las bengalas [2006.01]"
+  },
+  {
+    "code": "F42B 4/14",
+    "description": "••••caracterizados por tener varias cargas que se encienden sucesivamente [2006.01]"
+  },
+  {
+    "code": "F42B 4/16",
+    "description": "••Proyectiles lanzados a mano que explotan al impacto (pistolas con fulminantes F41C 3/06) [2006.01]"
+  },
+  {
+    "code": "F42B 4/18",
+    "description": "••Simulaciones de fuegos de artificio, p. ej. piñas de pino, casa que se destruye, barco de guerra, volcán [2006.01]"
+  },
+  {
+    "code": "F42B 4/20",
+    "description": "••Caracterizados por tener un mango o soporte distinto de la envoltura, p. ej. soporte de espiga o giratorios [2006.01]"
+  },
+  {
+    "code": "F42B 4/22",
+    "description": "••caracterizados por tener medios para separar una pieza o la carga de la envoltura sin destruirla (en cohetes aéreos de exhibición F42B 4/10) [2006.01]"
+  },
+  {
+    "code": "F42B 4/24",
+    "description": "••caracterizados por tener varias cargas que se encienden simultáneamente (en cohetes aéreos de exhibición F42B 4/14) [2006.01]"
+  },
+  {
+    "code": "F42B 4/26",
+    "description": "••Bengalas; Antorchas [2006.01]"
+  },
+  {
+    "code": "F42B 4/28",
+    "description": "••••Bengalas que descienden en paracaídas (F42B 4/12 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F42B 4/30",
+    "description": "••Fabricación [2006.01]"
+  },
+  {
+    "code": "F42B 5/00",
+    "description": "Municiones en cartucho, p. ej. cargas propulsivas sin proyectil (municiones para escopetas de caza F42B 7/00; municiones para entrenamiento o instrucción F42B 8/00; proyectiles para municiones en cartucho F42B 12/00, F42B 14/00, F42B 15/00) [2006.01]"
+  },
+  {
+    "code": "F42B 5/02",
+    "description": "••Cartuchos, es decir, proyectil y vaina con carga propulsiva que forman un todo [2006.01]"
+  },
+  {
+    "code": "F42B 5/03",
+    "description": "••••conteniendo varios proyectiles [2006.01]"
+  },
+  {
+    "code": "F42B 5/045",
+    "description": "••••de tipo telescópico (F42B 5/184 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F42B 5/05",
+    "description": "••••para cañones sin retroceso (cañones sin retroceso que utilizan un proyectil antagonista para equilibrar el retroceso F41A 1/10) [2006.01]"
+  },
+  {
+    "code": "F42B 5/067",
+    "description": "••••Montaje o bloqueo de proyectiles en las vainas de cartucho (F42B 5/18 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F42B 5/073",
+    "description": "••••••utilizando un dispositivo de bloqueo auxiliar [2006.01]"
+  },
+  {
+    "code": "F42B 5/08",
+    "description": "••••modificados para el encendido eléctrico [2006.01]"
+  },
+  {
+    "code": "F42B 5/10",
+    "description": "••••con bala autopropulsada [2006.01]"
+  },
+  {
+    "code": "F42B 5/14",
+    "description": "••••para el marcado del ganado [2006.01]"
+  },
+  {
+    "code": "F42B 5/145",
+    "description": "••••para liberar gases, vapores, polvos, partículas o sustancias químicamente reactivas (desde proyectiles F42B 12/46, F42B 12/70) [2006.01]"
+  },
+  {
+    "code": "F42B 5/15",
+    "description": "••••••para crear un efecto de niebla o de señuelo, p. ej. utilizando cintas metálicas antirradar o cuerpos de acción infrarroja (espoletas luminosas que trabajan en el infrarrojo F42B 4/26) [2006.01]"
+  },
+  {
+    "code": "F42B 5/155",
+    "description": "••••••••Lanzadores de botes de humo, p. ej. montados en vehículos [2006.01]"
+  },
+  {
+    "code": "F42B 5/16",
+    "description": "••••caracterizados por la composición o las dimensiones geométricas o la forma de la carga propulsiva o de la pólvora (composición química C06B) [2006.01]"
+  },
+  {
+    "code": "F42B 5/18",
+    "description": "••••Municiones sin vaina; Cartuchos con vaina combustible [2006.01]"
+  },
+  {
+    "code": "F42B 5/184",
+    "description": "••••••telescópicos [2006.01]"
+  },
+  {
+    "code": "F42B 5/188",
+    "description": "••••••Procedimientos de fabricación de estas municiones [2006.01]"
+  },
+  {
+    "code": "F42B 5/192",
+    "description": "••••••Vainas caracterizadas por el material utilizado [2006.01]"
+  },
+  {
+    "code": "F42B 5/196",
+    "description": "••••••••Revestimientos [2006.01]"
+  },
+  {
+    "code": "F42B 5/24",
+    "description": "••••para la limpieza; para la refrigeración; para la lubrificación [2006.01]"
+  },
+  {
+    "code": "F42B 5/26",
+    "description": "••Vainas (F42B 5/18 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F42B 5/28",
+    "description": "••••de metal [2006.01]"
+  },
+  {
+    "code": "F42B 5/285",
+    "description": "••••••constituida por la unión de varios elementos [2006.01]"
+  },
+  {
+    "code": "F42B 5/29",
+    "description": "••••••••enrolladas a partir de hojas o bandas [2006.01]"
+  },
+  {
+    "code": "F42B 5/295",
+    "description": "••••••con un revestimiento [2006.01]"
+  },
+  {
+    "code": "F42B 5/297",
+    "description": "••••••••con materia plástica [2006.01]"
+  },
+  {
+    "code": "F42B 5/30",
+    "description": "••••de material plástico [2006.01]"
+  },
+  {
+    "code": "F42B 5/307",
+    "description": "••••••constituidas por la unión de varios elementos [2006.01]"
+  },
+  {
+    "code": "F42B 5/313",
+    "description": "••••••••siendo todos los elementos de material plástico [2006.01]"
+  },
+  {
+    "code": "F42B 5/32",
+    "description": "••••de percusión anular [2006.01]"
+  },
+  {
+    "code": "F42B 5/34",
+    "description": "••••provistas de medios para modificar la longitud [2006.01]"
+  },
+  {
+    "code": "F42B 5/36",
+    "description": "••••modificadas para el alojamiento de un cebo que forme cuerpo con ellas [2006.01]"
+  },
+  {
+    "code": "F42B 5/38",
+    "description": "••Cargas propulsivas sin proyectil, p. ej. saquetes [2006.01]"
+  },
+  {
+    "code": "F42B 6/00",
+    "description": "Proyectiles especialmente adaptados para el tiro sin carga propulsiva explosiva o combustible, p. ej. para cerbatanas, arcos o ballestas, fusiles con muelle o de aire comprimido (para liberar una carga hipodérmica F42B 12/54; dardos para los juegos de puntería A63B 65/02; proyectiles en los cuales el muelle de proyección forma parte de ellos F41B 7/02) [2006.01]"
+  },
+  {
+    "code": "F42B 6/02",
+    "description": "••Flechas; Saetas para ballestas; Arpones para armas individuales de tiro con resorte o de aire comprimido [2006.01]"
+  },
+  {
+    "code": "F42B 6/04",
+    "description": "••••Flechas para el tiro al arco (F42B 6/08, F41B 5/06 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "F42B 6/06",
+    "description": "••••••Colas de flecha, p. ej. muescas, aletas [2006.01]"
+  },
+  {
+    "code": "F42B 6/08",
+    "description": "••••Puntas de flecha; Puntas de arpón [2006.01]"
+  },
+  {
+    "code": "F42B 6/10",
+    "description": "••Proyectiles para armas de tiro de aire comprimido [2006.01]"
+  },
+  {
+    "code": "F42B 7/00",
+    "description": "Municiones para escopetas [2006.01]"
+  },
+  {
+    "code": "F42B 7/02",
+    "description": "••Cartuchos, es decir, proyectil y vaina con carga propulsiva que forman un todo [2006.01]"
+  },
+  {
+    "code": "F42B 7/04",
+    "description": "••••del tipo perdigones [2006.01]"
+  },
+  {
+    "code": "F42B 7/06",
+    "description": "••••estando hecha la vaina de material plástico [2006.01]"
+  },
+  {
+    "code": "F42B 7/08",
+    "description": "••••Tacos para cartuchos de escopetas de caza [2006.01]"
+  },
+  {
+    "code": "F42B 7/10",
+    "description": "••••Cartuchos con bala o posta para escopetas [2006.01]"
+  },
+  {
+    "code": "F42B 7/12",
+    "description": "••••Tapaderas para cartuchos de escopetas de caza, es decir, situados al lado del proyectil (tapaderas para cartuchos de voladura F42B 3/24) [2006.01]"
+  },
+  {
+    "code": "F42B 8/00",
+    "description": "Municiones para entrenamiento o instrucción (disposiciones para reducir el alcance, para la desestabilización o el frenado F42B 10/00; con efecto señalizador F42B 12/02; F42B 19/00 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F42B 8/02",
+    "description": "••Cartuchos [2006.01]"
+  },
+  {
+    "code": "F42B 8/04",
+    "description": "••••Cartuchos de fogueo, es decir, cartuchos sin proyectiles, pero que contienen una carga de pólvora explosiva o combustible y un cebo [2006.01]"
+  },
+  {
+    "code": "F42B 8/06",
+    "description": "••••••para pistolas con cebo [2006.01]"
+  },
+  {
+    "code": "F42B 8/08",
+    "description": "••••Falsos cartuchos, es decir, cartuchos inertes sin cebo ni carga de pólvora explosiva o combustible [2006.01]"
+  },
+  {
+    "code": "F42B 8/10",
+    "description": "••••provistos de un dispositivo de reducción del calibre [2006.01]"
+  },
+  {
+    "code": "F42B 8/12",
+    "description": "••Proyectiles (F42B 19/36 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "F42B 8/14",
+    "description": "••••destruidos en el aire o en el impacto [2006.01]"
+  },
+  {
+    "code": "F42B 8/16",
+    "description": "••••••que contienen un material inerte, en forma de polvo o en forma granular [2006.01]"
+  },
+  {
+    "code": "F42B 8/18",
+    "description": "••••Granadas de fusil [2006.01]"
+  },
+  {
+    "code": "F42B 8/20",
+    "description": "••••Granadas para morteros [2006.01]"
+  },
+  {
+    "code": "F42B 8/22",
+    "description": "••••Bombas aéreas [2006.01]"
+  },
+  {
+    "code": "F42B 8/24",
+    "description": "••••Cohetes [2006.01]"
+  },
+  {
+    "code": "F42B 8/26",
+    "description": "••••Granadas de mano [2006.01]"
+  },
+  {
+    "code": "F42B 8/28",
+    "description": "••Minas terrestres o marinas; Granadas submarinas [2006.01]"
+  },
+  {
+    "code": "F42B 10/00",
+    "description": "Medios para variar, p. ej. para mejorar, las propiedades aerodinámicas de los proyectiles; Disposiciones instaladas en los proyectiles para la estabilización, el pilotaje, el frenado de la caída, la reducción o el aumento del alcance (F42B 6/00 tiene prioridad; proyectiles subcalibrados provistos de calzos F42B 14/00) [2006.01]"
+  },
+  {
+    "code": "F42B 10/02",
+    "description": "••Disposiciones para la estabilización [2006.01]"
+  },
+  {
+    "code": "F42B 10/04",
+    "description": "••••utilizando aletas fijas (F42B 10/22 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F42B 10/06",
+    "description": "••••••Aletas situadas en la parte posterior del proyectil [2006.01]"
+  },
+  {
+    "code": "F42B 10/08",
+    "description": "••••••••Proyectiles del tipo flecha [2006.01]"
+  },
+  {
+    "code": "F42B 10/10",
+    "description": "••••••••estando las aletas constituidas por la deformación de la envoltura del proyectil en el tubo del arma [2006.01]"
+  },
+  {
+    "code": "F42B 10/12",
+    "description": "••••que utilizan aletas deslizantes en dirección longitudinal con respecto al proyectil [2006.01]"
+  },
+  {
+    "code": "F42B 10/14",
+    "description": "••••que utilizan aletas que se desplegan después del lanzamiento, p. ej. después de la salida del tubo del arma [2006.01]"
+  },
+  {
+    "code": "F42B 10/16",
+    "description": "••••••Aletas enrolladas [2006.01]"
+  },
+  {
+    "code": "F42B 10/18",
+    "description": "••••••estando las aletas montadas en un soporte susceptible de deslizar longitudinalmente [2006.01]"
+  },
+  {
+    "code": "F42B 10/20",
+    "description": "••••••desplegadas por la presión de los gases de combustión, o por fuerzas hidráulicas o neumáticas [2006.01]"
+  },
+  {
+    "code": "F42B 10/22",
+    "description": "••••Proyectiles del tipo de acanaladuras [2006.01]"
+  },
+  {
+    "code": "F42B 10/24",
+    "description": "••••••con acanaladuras inclinadas [2006.01]"
+  },
+  {
+    "code": "F42B 10/26",
+    "description": "••••por rotación (F42B 10/04, F42B 10/12, F42B 10/14, F42B 10/24, F42B 14/02 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "F42B 10/28",
+    "description": "••••••activándose la rotación por la acción de los gases [2006.01]"
+  },
+  {
+    "code": "F42B 10/30",
+    "description": "••••••••que salen de las toberas de un motor cohético [2006.01]"
+  },
+  {
+    "code": "F42B 10/32",
+    "description": "••Disposiciones para reducir o aumentar el alcance; Medios para frenar la caída de proyectiles [2006.01]"
+  },
+  {
+    "code": "F42B 10/34",
+    "description": "••••Proyectiles tubulares [2006.01]"
+  },
+  {
+    "code": "F42B 10/36",
+    "description": "••••••Proyectiles en forma de ala anular cerrada [2006.01]"
+  },
+  {
+    "code": "F42B 10/38",
+    "description": "••••Disposiciones para aumentar el alcance (F42B 10/34 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "F42B 10/40",
+    "description": "••••••mediante la combustión de una carga con velocidad de combustión lenta, p. ej. proyectiles del tipo de descarga por el culote [2006.01]"
+  },
+  {
+    "code": "F42B 10/42",
+    "description": "••••••Proyectiles aerodinámicos [2006.01]"
+  },
+  {
+    "code": "F42B 10/44",
+    "description": "••••••••Culotes especialmente adaptados para reducir la resistencia al avance [2006.01]"
+  },
+  {
+    "code": "F42B 10/46",
+    "description": "••••••••Cabezas aerodinámicas; Parabrisas; Radomos [2006.01]"
+  },
+  {
+    "code": "F42B 10/48",
+    "description": "••••Disposiciones para reducir el alcance, para la desestabilización o el frenado; Medios para frenar la caída de un proyectil (F42B 10/34 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F42B 10/50",
+    "description": "••••••Flaps de frenado [2006.01]"
+  },
+  {
+    "code": "F42B 10/52",
+    "description": "••••••Cabezas [2006.01]"
+  },
+  {
+    "code": "F42B 10/54",
+    "description": "••••••Medios para frenar la rotación de un proyectil [2006.01]"
+  },
+  {
+    "code": "F42B 10/56",
+    "description": "••••••del tipo de paracaídas [2006.01]"
+  },
+  {
+    "code": "F42B 10/58",
+    "description": "••••••del tipo de paracaídas giratorio [2006.01]"
+  },
+  {
+    "code": "F42B 10/60",
+    "description": "••Disposiciones para el pilotaje (F42B 19/01 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F42B 10/62",
+    "description": "••••Pilotaje mediante el desplazamiento de superficies sustentadoras [2006.01]"
+  },
+  {
+    "code": "F42B 10/64",
+    "description": "••••••de aletas de pilotaje [2006.01]"
+  },
+  {
+    "code": "F42B 10/66",
+    "description": "••••Pilotaje mediante la variación de la intensidad o de la dirección del empuje (control del sector de empuje en los motores cohéticos F02K 9/80) [2006.01]"
+  },
+  {
+    "code": "F42B 12/00",
+    "description": "Proyectiles o minas caracterizados por la carga militar, el efecto buscado o el material (F42B 6/00, F42B 10/00, F42B 14/00 tienen prioridad; para entrenamiento o instrucción F42B 8/12, F42B 8/28; aspectos de autopropulsión o guiado F42B 15/00) [2006.01]"
+  },
+  {
+    "code": "F42B 12/02",
+    "description": "••caracterizados por la naturaleza de la carga militar o por el efecto buscado [2006.01]"
+  },
+  {
+    "code": "F42B 12/04",
+    "description": "••••del tipo perforante [2006.01]"
+  },
+  {
+    "code": "F42B 12/06",
+    "description": "••••••con núcleo pesado o duro; Penetradores de energía cinética (F42B 12/16, F42B 12/74 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "F42B 12/08",
+    "description": "••••••con cabeza perforante; con culote blindado [2006.01]"
+  },
+  {
+    "code": "F42B 12/10",
+    "description": "••••••con carga hueca o modelada (cargas huecas o modeladas en sí\n\t\t\t\t\t\t\t\t\t\t\t\tF42B 1/02) [2006.01]"
+  },
+  {
+    "code": "F42B 12/12",
+    "description": "••••••••montada de forma pivotante en su alojamiento [2006.01]"
+  },
+  {
+    "code": "F42B 12/14",
+    "description": "••••••••formando el eje de simetría de la carga un ángulo con el eje longitudinal del proyectil [2006.01]"
+  },
+  {
+    "code": "F42B 12/16",
+    "description": "••••••••con un proyectil o carga adicionales, actuando sucesivamente sobre el blanco [2006.01]"
+  },
+  {
+    "code": "F42B 12/18",
+    "description": "••••••••••Cargas huecas dispuestas en tándem [2006.01]"
+  },
+  {
+    "code": "F42B 12/20",
+    "description": "••••del tipo de alto explosivo (F42B 12/44 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F42B 12/22",
+    "description": "••••••con estructura que prevé su fragmentación [2006.01]"
+  },
+  {
+    "code": "F42B 12/24",
+    "description": "••••••••presentando la envoltura del proyectil ranuras, acanaladuras u otras zonas de menor resistencia [2006.01]"
+  },
+  {
+    "code": "F42B 12/26",
+    "description": "••••••••estando la envoltura del proyectil formada por un elemento enrollado en espiral [2006.01]"
+  },
+  {
+    "code": "F42B 12/28",
+    "description": "••••••••estando la envoltura del proyectil formada por superposición de elementos anulares [2006.01]"
+  },
+  {
+    "code": "F42B 12/30",
+    "description": "••••••••Cargas militares que despliegan un anillo de alambre de acero que se desplaza a raíz de la explosión [2006.01]"
+  },
+  {
+    "code": "F42B 12/32",
+    "description": "••••••••teniendo la envoltura o pared del proyectil un conjunto de cuerpos individuales empotrados, p. ej. esferas de acero [2006.01]"
+  },
+  {
+    "code": "F42B 12/34",
+    "description": "••••que se expanden antes o en el impacto, es decir, proyectiles del tipo dum-dum o proyectiles que adoptan la forma de un champiñón [2006.01]"
+  },
+  {
+    "code": "F42B 12/36",
+    "description": "••••para liberar materiales; para producir una reacción química o física; para señalizar [2006.01]"
+  },
+  {
+    "code": "F42B 12/38",
+    "description": "••••••del tipo trazador [2006.01]"
+  },
+  {
+    "code": "F42B 12/40",
+    "description": "••••••para el marcaje del objetivo, es decir del tipo con indicación de impacto (F42B 12/48 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F42B 12/42",
+    "description": "••••••del tipo bengalas, p. ej. bengalas de iluminación [2006.01]"
+  },
+  {
+    "code": "F42B 12/44",
+    "description": "••••••del tipo incendiario (F42B 12/46 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F42B 12/46",
+    "description": "••••••para liberar gases, vapores, polvo o sustancias químicamente reactivas (F42B 12/70 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F42B 12/48",
+    "description": "••••••••fumígenos [2006.01]"
+  },
+  {
+    "code": "F42B 12/50",
+    "description": "••••••••por dispersión [2006.01]"
+  },
+  {
+    "code": "F42B 12/52",
+    "description": "••••••••••Dispositivos explosivos combustible-aire [2006.01]"
+  },
+  {
+    "code": "F42B 12/54",
+    "description": "••••••••por implantación, p. ej. proyectiles de acción hipodérmica [2006.01]"
+  },
+  {
+    "code": "F42B 12/56",
+    "description": "••••••para liberar cuerpos sólidos individuales (F42B 12/70 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F42B 12/58",
+    "description": "••••••••Municiones en racimos o cargamento de municiones, es decir proyectiles con uno o varios subproyectiles (F42B 12/32 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F42B 12/60",
+    "description": "••••••••••siendo los subproyectiles expulsados radialmente [2006.01]"
+  },
+  {
+    "code": "F42B 12/62",
+    "description": "••••••••••siendo los subproyectiles expulsados en una dirección paralela al eje longitudinal del proyectil portador [2006.01]"
+  },
+  {
+    "code": "F42B 12/64",
+    "description": "••••••••••••siendo los subproyectiles del tipo posta o del tipo dardos [2006.01]"
+  },
+  {
+    "code": "F42B 12/66",
+    "description": "••••••••••Balas enramadas, es decir, estando los subproyectiles unidos entre sí por medio de cadenas o de dispositivos análogos [2006.01]"
+  },
+  {
+    "code": "F42B 12/68",
+    "description": "••••••••Proyectiles para lanzamiento de cables, p. ej. para salvamento (arpones F42B 30/14) [2006.01]"
+  },
+  {
+    "code": "F42B 12/70",
+    "description": "••••••••para la liberación de cintas metálicas antirradar o de materiales que emiten en el infrarrojo (blancos con reflector radar, blancos activos con emisión infrarroja F41J 2/00; superficies reflexivas para radar H01Q 15/14) [2006.01]"
+  },
+  {
+    "code": "F42B 12/72",
+    "description": "••caracterizados por el material utilizado (tratamiento térmico de las granadas explosivas C21D 9/16) [2006.01]"
+  },
+  {
+    "code": "F42B 12/74",
+    "description": "••••para el núcleo o cuerpo sólido [2006.01]"
+  },
+  {
+    "code": "F42B 12/76",
+    "description": "••••para la carcasa o la envoltura [2006.01]"
+  },
+  {
+    "code": "F42B 12/78",
+    "description": "••••••para las camisas de balas, utilizadas en armas de fuego individuales [2006.01]"
+  },
+  {
+    "code": "F42B 12/80",
+    "description": "••••••Revestimientos [2006.01]"
+  },
+  {
+    "code": "F42B 12/82",
+    "description": "••••••••para disminuir la fricción [2006.01]"
+  },
+  {
+    "code": "F42B 14/00",
+    "description": "Proyectiles caracterizados por disposiciones para guiarlos en el interior del cañón, para hacer estanca la superficie de contacto entre el proyectil y el cañón, para lubrificar o para limpiar el cañón [2006.01]"
+  },
+  {
+    "code": "F42B 14/02",
+    "description": "••Bandas de conducción; Bandas de rotación (F42B 14/04 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F42B 14/04",
+    "description": "••Medios de lubrificación en los proyectiles (revestimientos para disminuir la fricción F42B 12/82) [2006.01]"
+  },
+  {
+    "code": "F42B 14/06",
+    "description": "••Proyectiles subcalibrados provistos de calzos; Calzos para dichos proyectiles [2006.01]"
+  },
+  {
+    "code": "F42B 14/08",
+    "description": "••••Calzos que contienen una carga explosiva; Retirada de calzos utilizando la combustión de elementos pirotécnicos o la presión de gases propulsivos (disposiciones en los tubos de armas para separar los calzos de los proyectiles F41A 21/46) [2006.01]"
+  },
+  {
+    "code": "F42B 15/00",
+    "description": "Proyectiles autopropulsados, p. ej. cohetes; Misiles (F42B 10/00, F42B 12/00, F42B 14/00 tienen prioridad; para entrenamiento o instrucción F42B 8/12; torpedos-cohete F42B 17/00; torpedos marinos F42B 19/00; vehículos espaciales B64G; conjuntos funcionales de propulsión por reacción F02K) [2006.01]"
+  },
+  {
+    "code": "F42B 15/01",
+    "description": "••Disposiciones para el guiado o el pilotaje instaladas en los proyectiles autopropulsados o en los misiles (control de vuelo para aviones B64C; sistemas de guiado distintos de los instalados únicamente a bordo F41G 7/00, F41G 9/00; localización de objetivos por medio de proyectiles, p. ej. cohetes, G01S; control de vuelo en general G05D 1/00; aspectos de cálculo G06) [2006.01]"
+  },
+  {
+    "code": "F42B 15/04",
+    "description": "••••utilizando un hilo, p. ej. para el guiado de los cohetes tierra-tierra [2006.01]"
+  },
+  {
+    "code": "F42B 15/08",
+    "description": "••para el transporte de aparatos de medición (adaptaciones a la meteorología G01W 1/08) [2006.01]"
+  },
+  {
+    "code": "F42B 15/10",
+    "description": "••Misiles que tienen únicamente una trayectoria aérea [2006.01]"
+  },
+  {
+    "code": "F42B 15/12",
+    "description": "••••Misiles balísticos intercontinentales (F42B 15/01 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F42B 15/20",
+    "description": "••Misiles que tienen una trayectoria que comienza debajo de la superficie del agua (con dispositivos de propulsión adicionales para la trayectoria submarina F42B 17/00) [2006.01]"
+  },
+  {
+    "code": "F42B 15/22",
+    "description": "••Misiles que tienen una trayectoria que termina debajo de la superficie del agua (con dispositivos de propulsión adicionales para la trayectoria submarina F42B 17/00) [2006.01]"
+  },
+  {
+    "code": "F42B 15/34",
+    "description": "••Protección contra el sobrecalentamiento o la irradiación, p. ej. escudos térmicos; Disposiciones suplementarias para el enfriamiento [2006.01]"
+  },
+  {
+    "code": "F42B 15/36",
+    "description": "••Medios de interconexión entre el motor y el cuerpo de un cohete; Empalmes para unir las diferentes etapas; Medios de desmontaje [2006.01]"
+  },
+  {
+    "code": "F42B 15/38",
+    "description": "••••Elementos explosivos en forma de anillos para separar las partes de un cohete [2006.01]"
+  },
+  {
+    "code": "F42B 17/00",
+    "description": "Torpedos-cohete, es decir, misiles provistos de medios de propulsión independientes para su trayectoria aérea y submarina (F42B 12/00 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F42B 19/00",
+    "description": "Torpedos marinos, p. ej. lanzados desde embarcaciones de superficie o submarinos (con dispositivos de propulsión adicionales para trayectoria aérea F42B 17/00); Minas marinas que tienen medios de propulsión autónomos (F42B 12/00 tiene prioridad; medios de lanzamiento F41F; localización del objetivo G01S; control automático de la trayectoria G05D 1/00; direcciones de fuego o calculadores G06G) [2006.01]"
+  },
+  {
+    "code": "F42B 19/01",
+    "description": "••Control de navegación [2006.01]"
+  },
+  {
+    "code": "F42B 19/04",
+    "description": "••••de profundidad [2006.01]"
+  },
+  {
+    "code": "F42B 19/06",
+    "description": "••••de dirección [2006.01]"
+  },
+  {
+    "code": "F42B 19/08",
+    "description": "••••con dispositivos antibalanceo o anticabeceo [2006.01]"
+  },
+  {
+    "code": "F42B 19/10",
+    "description": "••••controles remotos, p. ej. por sonido o radio control (sistemas de guiado por hilo F41G 7/32) [2006.01]"
+  },
+  {
+    "code": "F42B 19/12",
+    "description": "••Propulsión especialmente adaptada para los torpedos (propulsión marina en general B63H) [2006.01]"
+  },
+  {
+    "code": "F42B 19/14",
+    "description": "••••por motores de gases comprimidos [2006.01]"
+  },
+  {
+    "code": "F42B 19/16",
+    "description": "••••••del tipo con cilindros [2006.01]"
+  },
+  {
+    "code": "F42B 19/18",
+    "description": "••••••del tipo con turbina [2006.01]"
+  },
+  {
+    "code": "F42B 19/20",
+    "description": "••••••caracterizados por la composición de los gases de propulsión; Producción o recalentamiento de estos gases en el torpedo [2006.01]"
+  },
+  {
+    "code": "F42B 19/22",
+    "description": "••••por motores de combustión interna [2006.01]"
+  },
+  {
+    "code": "F42B 19/24",
+    "description": "••••por motores eléctricos [2006.01]"
+  },
+  {
+    "code": "F42B 19/26",
+    "description": "••••por propulsión a reacción [2006.01]"
+  },
+  {
+    "code": "F42B 19/28",
+    "description": "••••con medios para suprimir la visibilidad de la estela [2006.01]"
+  },
+  {
+    "code": "F42B 19/30",
+    "description": "••••con un control del tiempo de la propulsión [2006.01]"
+  },
+  {
+    "code": "F42B 19/36",
+    "description": "••adaptados para poderse usar para prácticas, p. ej. indicando la posición o la trayectoria [2006.01]"
+  },
+  {
+    "code": "F42B 19/38",
+    "description": "••••con medios para hacer salir a la superficie el torpedo al final de su recorrido [2006.01]"
+  },
+  {
+    "code": "F42B 19/40",
+    "description": "••••••mediante la expulsión de un lastre líquido [2006.01]"
+  },
+  {
+    "code": "F42B 19/42",
+    "description": "••••••mediante expulsión de un lastre sólido [2006.01]"
+  },
+  {
+    "code": "F42B 19/44",
+    "description": "••••••por aumento del desplazamiento del torpedo [2006.01]"
+  },
+  {
+    "code": "F42B 19/46",
+    "description": "••adaptados para ser lanzados desde un avión [2006.01]"
+  },
+  {
+    "code": "F42B 21/00",
+    "description": "Cargas de profundidad (F42B 12/00 tiene prioridad; para entrenamiento o instrucción F42B 8/28; bajo el aspecto de su anclaje B63G) [2006.01]"
+  },
+  {
+    "code": "F42B 22/00",
+    "description": "Minas marinas, p. ej. lanzadas por embarcaciones de superficie o por submarinos (F42B 12/00 tiene prioridad; para entrenamiento o instrucción F42B 8/28; anclaje o dragado de las minas B63G) [2006.01]"
+  },
+  {
+    "code": "F42B 22/02",
+    "description": "••Minas de contacto (espoletas de contacto F42C 7/02) [2006.01]"
+  },
+  {
+    "code": "F42B 22/04",
+    "description": "••Minas por influencia, p. ej. mediante acción magnética o acústica [2006.01]"
+  },
+  {
+    "code": "F42B 22/06",
+    "description": "••Minas de fondo [2006.01]"
+  },
+  {
+    "code": "F42B 22/08",
+    "description": "••Minas derivantes o a la deriva (con medios de propulsión F42B 19/00) [2006.01]"
+  },
+  {
+    "code": "F42B 22/10",
+    "description": "••Minas amarradas [2006.01]"
+  },
+  {
+    "code": "F42B 22/12",
+    "description": "••••a una profundidad fija [2006.01]"
+  },
+  {
+    "code": "F42B 22/14",
+    "description": "••••a una profundidad variable [2006.01]"
+  },
+  {
+    "code": "F42B 22/16",
+    "description": "••••••por utilización de dispositivos mecánicos, p. ej. sonda y flotador [2006.01]"
+  },
+  {
+    "code": "F42B 22/18",
+    "description": "••••••mediante la utilización de dispositivos hidrostáticos [2006.01]"
+  },
+  {
+    "code": "F42B 22/20",
+    "description": "••••••con la utilización de un control magnético o acústico de la inmersión [2006.01]"
+  },
+  {
+    "code": "F42B 22/22",
+    "description": "••implicando un dispositivo para hundirse [2006.01]"
+  },
+  {
+    "code": "F42B 22/24",
+    "description": "••Colocación de minas en campos de minas o en barreras (redes de barrera para defensa de puertos F41H 11/05) [2006.01]"
+  },
+  {
+    "code": "F42B 22/42",
+    "description": "••con dispositivos antidragados, p. ej. eléctricos [2006.01]"
+  },
+  {
+    "code": "F42B 22/44",
+    "description": "••adaptados para ser fondeados por aeronaves [2006.01]"
+  },
+  {
+    "code": "F42B 23/00",
+    "description": "Minas terrestres (F42B 12/00 tiene prioridad; para entrenamiento o instrucción F42B 8/28) [2006.01]"
+  },
+  {
+    "code": "F42B 23/04",
+    "description": "••antivehículos [2006.01]"
+  },
+  {
+    "code": "F42B 23/08",
+    "description": "••••no metálicas [2006.01]"
+  },
+  {
+    "code": "F42B 23/10",
+    "description": "••antipersonal [2006.01]"
+  },
+  {
+    "code": "F42B 23/14",
+    "description": "••••no metálicas [2006.01]"
+  },
+  {
+    "code": "F42B 23/16",
+    "description": "••••del tipo proyectil, es decir, cuya detonación se produce después de su eyección desde el suelo (espoletas para iniciar la eyección de una mina F42C 1/09) [2006.01]"
+  },
+  {
+    "code": "F42B 23/24",
+    "description": "••Partes constitutivas [2006.01]"
+  },
+  {
+    "code": "F42B 25/00",
+    "description": "Bombas aéreas (F42B 10/00, F42B 12/00 tienen prioridad; para entrenamiento o instrucción F42B 8/12) [2006.01]"
+  },
+  {
+    "code": "F42B 27/00",
+    "description": "Granadas o bombas de mano (F42B 12/00 tiene prioridad; para entrenamiento o instrucción F42B 8/12) [2006.01]"
+  },
+  {
+    "code": "F42B 27/08",
+    "description": "••con mango [2006.01]"
+  },
+  {
+    "code": "F42B 29/00",
+    "description": "Proyectiles silenciosos, sin humo o sin luces, lanzados por su propio agente propulsor explosivo [2006.01]"
+  },
+  {
+    "code": "F42B 30/00",
+    "description": "Proyectiles no previstos en otro lugar, caracterizados por la categoría o el tipo de municiones, p. ej. por el dispositivo de lanzamiento o el arma utilizados (F42B 10/00, F42B 12/00, F42B 14/00 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "F42B 30/02",
+    "description": "••Balas para armas de fuego individuales [2006.01]"
+  },
+  {
+    "code": "F42B 30/04",
+    "description": "••Granadas de fusil [2006.01]"
+  },
+  {
+    "code": "F42B 30/06",
+    "description": "••••Dispositivos de retención o deceleradores de balas para granadas de fusil [2006.01]"
+  },
+  {
+    "code": "F42B 30/08",
+    "description": "••Proyectiles de artillería, p. ej. obuses [2006.01]"
+  },
+  {
+    "code": "F42B 30/10",
+    "description": "••••Obuses de mortero [2006.01]"
+  },
+  {
+    "code": "F42B 30/12",
+    "description": "••••••con la posibilidad de añadir cargas propulsivas; con la posibilidad de variar la longitud [2006.01]"
+  },
+  {
+    "code": "F42B 30/14",
+    "description": "••Arpones (para armas individuales de tiro con resorte o de aire comprimido F42B 6/02) [2006.01]"
+  },
+  {
+    "code": "F42B 33/00",
+    "description": "Fabricación de municiones; Desmontaje de municiones; Aparatos para ello (F42B 5/188 tiene prioridad; procedimientos de fabricación de cargas huecas F42B 1/036; fabricación de iniciadores para cartuchos de voladura F42B 3/195) [2006.01]"
+  },
+  {
+    "code": "F42B 33/02",
+    "description": "••Carga de cartuchos, de proyectiles o de espoletas; Introducción de cargas propulsivas o explosivas [2006.01]"
+  },
+  {
+    "code": "F42B 33/04",
+    "description": "••Montaje o extracción de cebos de las espoletas o de las cargas [2006.01]"
+  },
+  {
+    "code": "F42B 33/06",
+    "description": "••Desmontaje de espoletas, de cartuchos, de proyectiles, de cohetes o de bombas (F42B 33/04 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F42B 33/10",
+    "description": "••Reacondicionamiento de vainas después del uso [2006.01]"
+  },
+  {
+    "code": "F42B 33/12",
+    "description": "••Engarce de cartuchos para fusiles de caza [2006.01]"
+  },
+  {
+    "code": "F42B 33/14",
+    "description": "••Tratamiento de superficie de los cartuchos o de las vainas [2006.01]"
+  },
+  {
+    "code": "F42B 35/00",
+    "description": "Ensayo o verificación de las municiones [2006.01]"
+  },
+  {
+    "code": "F42B 35/02",
+    "description": "••Calibrado, selección, equilibrado o acortamiento de cartuchos o de proyectiles [2006.01]"
+  },
+  {
+    "code": "F42B 39/00",
+    "description": "Embalaje o almacenamiento de municiones o cargas explosivas; Medidas de seguridad para ello; Cintas cargadoras; Bolsas de cartucho [2006.01]"
+  },
+  {
+    "code": "F42B 39/02",
+    "description": "••Bolsas para cartuchos; Bandoleras [2006.01]"
+  },
+  {
+    "code": "F42B 39/08",
+    "description": "••Cintas cargadoras [2006.01]"
+  },
+  {
+    "code": "F42B 39/10",
+    "description": "••••Máquinas para el eslabonado o deseslabonado de los cartuchos en las cintas [2006.01]"
+  },
+  {
+    "code": "F42B 39/14",
+    "description": "••Disposiciones en los embalajes o en las municiones para su protección contra incendios o explosiones (F42B 39/20 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F42B 39/16",
+    "description": "••••Dispositivos de extinción de incendios [2006.01]"
+  },
+  {
+    "code": "F42B 39/18",
+    "description": "••••Pantallas térmicas; Aislamiento térmico [2006.01]"
+  },
+  {
+    "code": "F42B 39/20",
+    "description": "••Embalajes o municiones provistos de válvulas para equilibrar la presión; Embalajes o municiones provistos de tapones para reducir la presión, p. ej. de tapones fundibles [2006.01]"
+  },
+  {
+    "code": "F42B 39/22",
+    "description": "••Fijación de las municiones en sus embalajes de transporte [2006.01]"
+  },
+  {
+    "code": "F42B 39/24",
+    "description": "••Disposiciones para amortiguar los choques en los embalajes [2006.01]"
+  },
+  {
+    "code": "F42B 39/26",
+    "description": "••Embalajes o contenedores para guardar varias municiones, p. ej. cartuchos (F42B 39/14-F42B 39/24, F42B 39/28 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "F42B 39/28",
+    "description": "••Estantes para municiones, p. ej. en vehículos [2006.01]"
+  },
+  {
+    "code": "F42B 39/30",
+    "description": "••Contenedores para detonadores o espoletas (F42B 39/14, F42B 39/20 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "F42B 99/00",
+    "description": "Materia no prevista en otros grupos de esta subclase [2006.01]"
+  }
+]

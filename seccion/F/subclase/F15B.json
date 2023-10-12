@@ -1,0 +1,462 @@
+[
+  {
+    "code": "F15B 1/00",
+    "description": "Instalaciones o sistemas que comprenden acumuladores; Conjuntos de reserva o sumideros [2006.01]"
+  },
+  {
+    "code": "F15B 1/02",
+    "description": "••Instalaciones o sistemas con acumuladores [2006.01]"
+  },
+  {
+    "code": "F15B 1/027",
+    "description": "••••teniendo dispositivos de carga de los acumuladores [2006.01]"
+  },
+  {
+    "code": "F15B 1/033",
+    "description": "••••••con medios de control eléctrico [2006.01]"
+  },
+  {
+    "code": "F15B 1/04",
+    "description": "••••Acumuladores [2006.01]"
+  },
+  {
+    "code": "F15B 1/08",
+    "description": "••••••teniendo un colchón de gas; Dispositivos de carga de gas; Indicadores o flotadores a tal efecto [2006.01]"
+  },
+  {
+    "code": "F15B 1/10",
+    "description": "••••••••con medios de separación flexibles [2006.01]"
+  },
+  {
+    "code": "F15B 1/12",
+    "description": "••••••••••fijados a su periferia (medios de separación flexible en forma de tubo  F15B 1/16) [2006.01]"
+  },
+  {
+    "code": "F15B 1/14",
+    "description": "••••••••••••por medio de órganos rígidos anulares de soporte [2006.01]"
+  },
+  {
+    "code": "F15B 1/16",
+    "description": "••••••••••en forma de tubo [2006.01]"
+  },
+  {
+    "code": "F15B 1/18",
+    "description": "••••••••••medios antiextrusión [2006.01]"
+  },
+  {
+    "code": "F15B 1/20",
+    "description": "••••••••••••fijados a los medios de separación [2006.01]"
+  },
+  {
+    "code": "F15B 1/22",
+    "description": "••••••••Estructura de los orificios de paso de líquido [2006.01]"
+  },
+  {
+    "code": "F15B 1/24",
+    "description": "••••••••con medios de separación rígidos, p. ej. pistones [2006.01]"
+  },
+  {
+    "code": "F15B 1/26",
+    "description": "••Conjuntos de reserva o sumideros [2006.01]"
+  },
+  {
+    "code": "F15B 3/00",
+    "description": "Amplificadores o convertidores de la presión de un fluido, p. ej. cambiadores de presión; Transmisión de la presión de un sistema de fluido a otro sin contacto entre los fluidos [2006.01]"
+  },
+  {
+    "code": "F15B 5/00",
+    "description": "Transductores que convierten las variaciones de magnitudes físicas, p. ej. expresadas por las variaciones de posición de los órganos en variaciones de presión de un fluido o viceversa; Variación de la presión de un fluido en función de las variaciones de una pluralidad de presiones de este fluido o de las variaciones de otras magnitudes (F15B 9/00 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F15B 7/00",
+    "description": "Sistemas accionados por la presión de un fluído en los cuales el movimiento producido está necesariamente ligado a la salida de una bomba volumétrica; Telemotores [2006.01]"
+  },
+  {
+    "code": "F15B 7/02",
+    "description": "••Sistemas en los cuales los aparatos de entrada y salida funcionan de una manera continua [2006.01]"
+  },
+  {
+    "code": "F15B 7/04",
+    "description": "••en los cuales la relación entre las carreras de la bomba y del motor varía con la resistencia opuesta contra el motor [2006.01]"
+  },
+  {
+    "code": "F15B 7/06",
+    "description": "••Partes constitutivas (F15B 15/00 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F15B 7/08",
+    "description": "••••Conjuntos de entrada; Conjuntos maestros [2006.01]"
+  },
+  {
+    "code": "F15B 7/10",
+    "description": "••••Compensación del volumen de líquido contenido en un sistema (F15B 7/08 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F15B 9/00",
+    "description": "Servomotores con acción de seguimiento, es decir, en los cuales la posición del órgano accionado corresponde a la del órgano que controla [2006.01]"
+  },
+  {
+    "code": "F15B 9/02",
+    "description": "••con servomotores del tipo de movimiento alternativo u oscilante [2006.01]"
+  },
+  {
+    "code": "F15B 9/03",
+    "description": "••••con medios de control eléctricos [2006.01]"
+  },
+  {
+    "code": "F15B 9/04",
+    "description": "••••controlados por la variación de salida de una bomba de capacidad variable [2006.01]"
+  },
+  {
+    "code": "F15B 9/06",
+    "description": "••••controlados mediante la utilización de un chorro de fluido [2006.01]"
+  },
+  {
+    "code": "F15B 9/07",
+    "description": "••••••con medios de control eléctricos [2006.01]"
+  },
+  {
+    "code": "F15B 9/08",
+    "description": "••••controlados por válvulas que actúan sobre la alimentación del fluido o sobre la salida del fluido del servomotor (F15B 9/06 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F15B 9/09",
+    "description": "••••••con medios de control eléctricos [2006.01]"
+  },
+  {
+    "code": "F15B 9/10",
+    "description": "••••••en los cuales el elemento de control y el servomotor controlan cada uno un órgano distinto, actuando estos órganos sobre diferentes conductos del fluido o sobre el mismo [2006.01]"
+  },
+  {
+    "code": "F15B 9/12",
+    "description": "••••••en los cuales el elemento de control y el servomotor controlan ambos el mismo órgano actuando sobre un conducto de fluido y están ligados con este órgano mediante una transmisión diferencial [2006.01]"
+  },
+  {
+    "code": "F15B 9/14",
+    "description": "••con servomotores rotativos [2006.01]"
+  },
+  {
+    "code": "F15B 9/16",
+    "description": "••Sistemas que constan esencialmente de dos o más servomotores en interacción [2006.01]"
+  },
+  {
+    "code": "F15B 9/17",
+    "description": "••••con medios de control eléctricos [2006.01]"
+  },
+  {
+    "code": "F15B 11/00",
+    "description": "Sistemas de servomotores desprovistos de acción de seguimiento (F15B 3/00 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F15B 11/02",
+    "description": "••Sistemas que incorporan accesorios especiales para regular la velocidad o la fuerza de actuación de un órgano de salida [2006.01]"
+  },
+  {
+    "code": "F15B 11/024",
+    "description": "••••por medio de conexiones diferenciales de los circuitos del servomotor, p. ej. circuitos de recuperación de fluidos [2006.01]"
+  },
+  {
+    "code": "F15B 11/028",
+    "description": "••••para regular la fuerza de actuación (F15B 11/024 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F15B 11/032",
+    "description": "••••••por medio de convertidores por fluido a presión [2006.01]"
+  },
+  {
+    "code": "F15B 11/036",
+    "description": "••••••por medio de servomotores que contienen una pluralidad de cámaras de trabajo [2006.01]"
+  },
+  {
+    "code": "F15B 11/04",
+    "description": "••••para controlar la velocidad (F15B 11/024 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F15B 11/042",
+    "description": "••••••por medios  situados en el circuito de alimentación (F15B 11/046, F15B 11/05 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "F15B 11/044",
+    "description": "••••••por medios situados en el circuito de retorno (F15B 11/046, F15B 11/05 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "F15B 11/046",
+    "description": "••••••dependiendo de la posición del elemento de trabajo [2006.01]"
+  },
+  {
+    "code": "F15B 11/048",
+    "description": "••••••••con control de deceleración [2006.01]"
+  },
+  {
+    "code": "F15B 11/05",
+    "description": "••••••especialmente adaptados para mantener una velocidad constante, p. ej. con compensación de la presión, sensible a la carga [2006.01]"
+  },
+  {
+    "code": "F15B 11/06",
+    "description": "••incluyendo accesorios específicos para la utilización de un medio compresible, p. ej. aire, vapor de agua [2006.01]"
+  },
+  {
+    "code": "F15B 11/064",
+    "description": "••••con dispositivos para economizar el medio compresible [2006.01]"
+  },
+  {
+    "code": "F15B 11/068",
+    "description": "••••con válvulas que permiten poner gradualmente el sistema neumático bajo presión [2006.01]"
+  },
+  {
+    "code": "F15B 11/072",
+    "description": "••••sistemas combinados hidráulico-neumáticos [2006.01]"
+  },
+  {
+    "code": "F15B 11/076",
+    "description": "••••••con conducción o desplazamiento neumático y control de velocidad o parada por frenado hidráulico [2006.01]"
+  },
+  {
+    "code": "F15B 11/08",
+    "description": "••con un único servomotor [2006.01]"
+  },
+  {
+    "code": "F15B 11/10",
+    "description": "••••en los cuales la posición del servomotor es función de la presión [2006.01]"
+  },
+  {
+    "code": "F15B 11/12",
+    "description": "••••con posiciones intermedias distintas; con accionamiento paso a paso [2006.01]"
+  },
+  {
+    "code": "F15B 11/13",
+    "description": "••••••utilizando cámaras de volumen predeterminado [2006.01]"
+  },
+  {
+    "code": "F15B 11/15",
+    "description": "••••con dispositivos especiales para el retorno automático [2006.01]"
+  },
+  {
+    "code": "F15B 11/16",
+    "description": "••con dos o más servomotores [2006.01]"
+  },
+  {
+    "code": "F15B 11/17",
+    "description": "••••utilizando dos o más bombas [2006.01]"
+  },
+  {
+    "code": "F15B 11/18",
+    "description": "••••utilizados en combinación con objeto de obtener el funcionamiento paso a paso de un único órgano controlado [2006.01]"
+  },
+  {
+    "code": "F15B 11/20",
+    "description": "••••controlando varios órganos que actúan en interacción o que funcionan secuencialmente [2006.01]"
+  },
+  {
+    "code": "F15B 11/22",
+    "description": "••••Sincronización del movimiento de dos o más servomotores [2006.01]"
+  },
+  {
+    "code": "F15B 13/00",
+    "description": "Detalles de los sistemas de servomotores (F15B 15/00 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F15B 13/01",
+    "description": "••Válvulas de bloqueo u otros dispositivos de retención [2006.01]"
+  },
+  {
+    "code": "F15B 13/02",
+    "description": "••Dispositivos de distribución o de suministro, del fluido caracterizados por su adaptación al control del servomotor [2006.01]"
+  },
+  {
+    "code": "F15B 13/04",
+    "description": "••••para utilización con un único servomotor [2006.01]"
+  },
+  {
+    "code": "F15B 13/042",
+    "description": "••••••accionados por fluido a presión [2006.01]"
+  },
+  {
+    "code": "F15B 13/043",
+    "description": "••••••••con válvulas piloto controladas eléctricamente [2006.01]"
+  },
+  {
+    "code": "F15B 13/044",
+    "description": "••••••accionados por medios controlados eléctricamente, p. ej. solenoides, motores de par [2006.01]"
+  },
+  {
+    "code": "F15B 13/06",
+    "description": "••••para utilización con dos o más servomotores [2006.01]"
+  },
+  {
+    "code": "F15B 13/07",
+    "description": "••••••operando en secuencias distintas [2006.01]"
+  },
+  {
+    "code": "F15B 13/08",
+    "description": "••••••Conjuntos de elementos cada uno para el control de un único servomotor solamente [2006.01]"
+  },
+  {
+    "code": "F15B 13/10",
+    "description": "••Disposiciones especiales para hacer funcionar el dispositivo accionado sin utilizar fluido a presión, p. ej. en caso de emergencia [2006.01]"
+  },
+  {
+    "code": "F15B 13/12",
+    "description": "••Medidas especiales para aumentar la sensibilidad del sistema [2006.01]"
+  },
+  {
+    "code": "F15B 13/14",
+    "description": "••Medidas especiales que dan al operador una percepción táctil de la inmediata respuesta del dispositivo accionado [2006.01]"
+  },
+  {
+    "code": "F15B 13/16",
+    "description": "••Medidas especiales para la retroalimentación [2006.01]"
+  },
+  {
+    "code": "F15B 15/00",
+    "description": "Dispositivos accionados por presión de un fluido para desplazar un órgano de una posición a otra; Transmisión asociada con estos dispositivos [2006.01]"
+  },
+  {
+    "code": "F15B 15/02",
+    "description": "••Esquema mecánico de montaje caracterizado por los medios que transforman el movimiento del elemento accionado por el fluido en un movimiento del órgano terminal que es accionado [2006.01]"
+  },
+  {
+    "code": "F15B 15/04",
+    "description": "••••con un cilindro oscilante [2006.01]"
+  },
+  {
+    "code": "F15B 15/06",
+    "description": "••••para la transformación mecánica de un movimiento rectilíneo en un movimiento no rectilíneo [2006.01]"
+  },
+  {
+    "code": "F15B 15/08",
+    "description": "••caracterizados por la estructura del conjunto motor [2006.01]"
+  },
+  {
+    "code": "F15B 15/10",
+    "description": "••••siendo el motor del tipo de diafragma [2006.01]"
+  },
+  {
+    "code": "F15B 15/12",
+    "description": "••••siendo el motor del tipo de deflactor oscilante o de cilindro curvado [2006.01]"
+  },
+  {
+    "code": "F15B 15/14",
+    "description": "••••siendo el motor del tipo de cilindro recto [2006.01]"
+  },
+  {
+    "code": "F15B 15/16",
+    "description": "••••••del tipo telescópico [2006.01]"
+  },
+  {
+    "code": "F15B 15/17",
+    "description": "••••••del tipo de pistón diferencial [2006.01]"
+  },
+  {
+    "code": "F15B 15/18",
+    "description": "••Conjuntos combinados que comprenden motor y bomba [2006.01]"
+  },
+  {
+    "code": "F15B 15/19",
+    "description": "••Actuadores pirotécnicos [2006.01]"
+  },
+  {
+    "code": "F15B 15/20",
+    "description": "••Otros detalles [2006.01]"
+  },
+  {
+    "code": "F15B 15/22",
+    "description": "••••para acelerar o decelerar la carrera [2006.01]"
+  },
+  {
+    "code": "F15B 15/24",
+    "description": "••••para limitar la carrera [2006.01]"
+  },
+  {
+    "code": "F15B 15/26",
+    "description": "••••Mecanismos de bloqueo [2006.01]"
+  },
+  {
+    "code": "F15B 15/28",
+    "description": "••••Medios para indicar la posición, p. ej. fin de carrera [2006.01]"
+  },
+  {
+    "code": "F15B 17/00",
+    "description": "Combinaciones de sistemas de telemotores y de servomotores [2006.01]"
+  },
+  {
+    "code": "F15B 17/02",
+    "description": "••en los cuales un telemotor acciona el órgano de control de un servomotor [2006.01]"
+  },
+  {
+    "code": "F15B 18/00",
+    "description": "Disposición en paralelo de sistemas de servomotores independientes [2006.01]"
+  },
+  {
+    "code": "F15B 19/00",
+    "description": "Ensayos de los sistemas o aparatos accionados mediante fluído a presión, no previstos en otra parte [2006.01]"
+  },
+  {
+    "code": "F15B 20/00",
+    "description": "Disposiciones propias de seguridad para sistemas accionados mediante fluído; Aplicación de los dispositivos de seguridad en sistemas accionados mediante fluído; Medidas de emergencia para sistemas accionados mediante fluído [2006.01]"
+  },
+  {
+    "code": "F15B 21/00",
+    "description": "Caracterísiticas comunes de los sistemas accionados mediante fluído; Sistemas accionados mediante fluídos a presión o detalles de estos sistemas no cubiertos por ningún otro grupo de esta subclase [2006.01]"
+  },
+  {
+    "code": "F15B 21/02",
+    "description": "••Sistemas de servomotores de control programado en una memoria o en un dispositivo de temporización; Dispositivos de control para ello [2006.01]"
+  },
+  {
+    "code": "F15B 21/04",
+    "description": "••Medidas especiales tomadas en relación con las propiedades del fluido [2019.01]"
+  },
+  {
+    "code": "F15B 21/041",
+    "description": "••••Eliminación o medida de la contaminación sólida o líquida, p. ej. filtrado [2019.01]"
+  },
+  {
+    "code": "F15B 21/042",
+    "description": "••••Controlando la temperatura del fluido [2019.01]"
+  },
+  {
+    "code": "F15B 21/0423",
+    "description": "••••••Enfriamiento [2019.01]"
+  },
+  {
+    "code": "F15B 21/0427",
+    "description": "••••••Calentamiento [2019.01]"
+  },
+  {
+    "code": "F15B 21/044",
+    "description": "••••Eliminación o medida de gas insoluto, p. ej. de-aireación, ventilación [2019.01]"
+  },
+  {
+    "code": "F15B 21/045",
+    "description": "••••Compensando las variaciones en viscosidad o temperatura [2019.01]"
+  },
+  {
+    "code": "F15B 21/047",
+    "description": "••••Previniendo la formación de espuma, agitación o cavitación [2019.01]"
+  },
+  {
+    "code": "F15B 21/048",
+    "description": "••••Disposiciones para la preparación de aire comprimido, p. ej. que comprenden deshumidificadores, condensadores de aire, filtros, lubricadores o reguladores de la presión [2019.01]"
+  },
+  {
+    "code": "F15B 21/06",
+    "description": "••Utilización de fluidos especiales, p. ej. de metal líquido; Adaptaciones especiales de los sistemas de fluidos a presión o control de sus elementos para la utilización de tales fluidos [2006.01]"
+  },
+  {
+    "code": "F15B 21/08",
+    "description": "••Sistemas de servomotor con medios de control incorporados accionados eléctricamente (F15B 21/02 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F15B 21/10",
+    "description": "••Disposiciones o dispositivos de retardo [2006.01]"
+  },
+  {
+    "code": "F15B 21/12",
+    "description": "••Osciladores o generadores de impulsos por fluido [2006.01]"
+  },
+  {
+    "code": "F15B 21/14",
+    "description": "••Medios de recuperación de energía [2006.01]"
+  }
+]

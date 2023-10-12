@@ -1,0 +1,782 @@
+[
+  {
+    "code": "B32B 1/00",
+    "description": "Productos estratificados que tienen esencialmente una forma general que no sea plana [2006.01]"
+  },
+  {
+    "code": "B32B 1/02",
+    "description": "••Receptáculos, p. ej. depósitos [2006.01]"
+  },
+  {
+    "code": "B32B 1/04",
+    "description": "••caracterizados por particularidades de forma en lugares determinados, p. ej. en la proximidad de los bordes [2006.01]"
+  },
+  {
+    "code": "B32B 1/06",
+    "description": "••caracterizados por rellenos o elementos añadidos en partes huecas [2006.01]"
+  },
+  {
+    "code": "B32B 1/08",
+    "description": "••Productos tubulares [2006.01]"
+  },
+  {
+    "code": "B32B 3/00",
+    "description": "Productos estratificados caracterizados esencialmente por el hecho de que una de las capas tiene discontinuidades o rugosidades externas o internas, o bien que una de las capas es de forma no plana (capas de fibras o filamentos B32B 5/02; capas de partículas B32B 5/16; capas de estructura esponjosa B32B 5/18); Productos estratificados caracterizados esencialmente por particularidades de forma (B32B 1/00 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B32B 3/02",
+    "description": "••Caracterizados por características de forma en lugares determinados, p. ej. en la proximidad de los bordes [2006.01]"
+  },
+  {
+    "code": "B32B 3/04",
+    "description": "••••caracterizados por una capa plegada en el borde, p. ej. sobre otra capa [2006.01]"
+  },
+  {
+    "code": "B32B 3/06",
+    "description": "••••para unir las capas; para sujetar el producto a algún otro elemento, p. ej. a un soporte [2006.01]"
+  },
+  {
+    "code": "B32B 3/08",
+    "description": "••••caracterizados por elementos añadidos en lugares determinados [2006.01]"
+  },
+  {
+    "code": "B32B 3/10",
+    "description": "••caracterizados por una capa discontinua, es decir, ya sea continua y con perforaciones, o bien formada realmente por elementos individuales [2006.01]"
+  },
+  {
+    "code": "B32B 3/12",
+    "description": "••••caracterizados por una capa de alveolos dispuestos regularmente, bien formando un cuerpo único en un todo, bien estructurados individualmente o por ensamblado de bandas independientes, p. ej. estructuras en nidos de abejas [2006.01]"
+  },
+  {
+    "code": "B32B 3/14",
+    "description": "••••caracterizados por una capa de superficie formada por elementos individuales [2006.01]"
+  },
+  {
+    "code": "B32B 3/16",
+    "description": "••••••fijados a un \"dorso\" flexible [2006.01]"
+  },
+  {
+    "code": "B32B 3/18",
+    "description": "••••caracterizados por una capa interna formada por elementos individuales [2006.01]"
+  },
+  {
+    "code": "B32B 3/20",
+    "description": "••••••de piezas huecas, p. ej. tubos; de piezas que tienen ranuras o cavidades [2006.01]"
+  },
+  {
+    "code": "B32B 3/22",
+    "description": "••••••piezas espaciadas [2006.01]"
+  },
+  {
+    "code": "B32B 3/24",
+    "description": "••••caracterizados por una capa agujereada, p. ej. de metal desplegado [2006.01]"
+  },
+  {
+    "code": "B32B 3/26",
+    "description": "••caracterizados por una capa continua cuyo perímetro de la sección recta tenga una forma especial; caracterizados por una capa que tiene cavidades o huecos internos (alveolos regulares B32B 3/12) [2006.01]"
+  },
+  {
+    "code": "B32B 3/28",
+    "description": "••••caracterizados por una capa que tiene una lámina fina deformada, p. ej. ondulada, arrugada (B32B 29/08 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B32B 3/30",
+    "description": "••••caracterizados por una capa que tiene contracciones o resaltes, p. ej. ranuras, nervios [2006.01]"
+  },
+  {
+    "code": "B32B 5/00",
+    "description": "Productos estratificados caracterizados por la heterogeneidad o estructura física de una de las capas (B32B 9/00-B32B 29/00 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "B32B 5/02",
+    "description": "••caracterizados por las características de estructura de una capa que tiene fibras o filamentos [2006.01]"
+  },
+  {
+    "code": "B32B 5/04",
+    "description": "••••caracterizados por una capa que está especificada como extensible en razón de su estructura o de su disposición [2006.01]"
+  },
+  {
+    "code": "B32B 5/06",
+    "description": "••••caracterizados por una capa fibrosa imbricada o cosida con otra capa, p. ej. de fibras, de papel [2006.01]"
+  },
+  {
+    "code": "B32B 5/08",
+    "description": "••••las fibras o filamentos de una capa están dispuestos de una cierta manera o hechos de sustancias diferentes [2006.01]"
+  },
+  {
+    "code": "B32B 5/10",
+    "description": "••••caracterizados por una capa fibrosa reforzada por filamentos [2006.01]"
+  },
+  {
+    "code": "B32B 5/12",
+    "description": "••••caracterizados por la disposición relativa de fibras o filamentos de capas adyacentes [2006.01]"
+  },
+  {
+    "code": "B32B 5/14",
+    "description": "••caracterizados por una capa que difiere en ciertas partes por el hecho de su constitución o de su estructura física, p. ej. más densa superficialmente [2006.01]"
+  },
+  {
+    "code": "B32B 5/16",
+    "description": "••caracterizados por el hecho de que una de las capas está formada por partículas, p. ej. virutas, fibras cortadas, polvo [2006.01]"
+  },
+  {
+    "code": "B32B 5/18",
+    "description": "••caracterizados por el hecho de que una de las capas contiene un material en forma de esponja o esencialmente poroso [2006.01]"
+  },
+  {
+    "code": "B32B 5/20",
+    "description": "••••la estructura bajo forma de esponja es obtenida in situ [2006.01]"
+  },
+  {
+    "code": "B32B 5/22",
+    "description": "••caracterizados por la presencia de diversas capas que contienen fibras, filamentos, granos o polvo, o que están en forma de esponja o esencialmente porosas [2006.01]"
+  },
+  {
+    "code": "B32B 5/24",
+    "description": "••••siendo una de las capas fibrosa o filamentosa [2006.01]"
+  },
+  {
+    "code": "B32B 5/26",
+    "description": "••••••siendo otra capa asimismo fibrosa o filamentosa [2006.01]"
+  },
+  {
+    "code": "B32B 5/28",
+    "description": "••••••impregnada de materia plástica o cubierta con una materia plástica [2006.01]"
+  },
+  {
+    "code": "B32B 5/30",
+    "description": "••••teniendo una de las capas granos o polvo [2006.01]"
+  },
+  {
+    "code": "B32B 5/32",
+    "description": "••••estando formadas las dos capas en forma de esponja o esencialmente porosas [2006.01]"
+  },
+  {
+    "code": "B32B 7/00",
+    "description": "Productos estratificados caracterizados por la relación entre las capas; Productos estratificados caracterizados por la orientación relativa de elementos característicos entre capas, es decir, productos que comprenden capas que tienen propiedades físicas, químicas o fisicoquímicas diferentes; productos estratificados caracterizados por la unión entre capas [2019.01]"
+  },
+  {
+    "code": "B32B 7/02",
+    "description": "••Propiedades físicas, químicas o físico-químicas [2019.01]"
+  },
+  {
+    "code": "B32B 7/022",
+    "description": "••••Propiedades mecánicas [2019.01]"
+  },
+  {
+    "code": "B32B 7/023",
+    "description": "••••Propiedades ópticas [2019.01]"
+  },
+  {
+    "code": "B32B 7/025",
+    "description": "••••Propiedades eléctricas o magnéticas [2019.01]"
+  },
+  {
+    "code": "B32B 7/027",
+    "description": "••••Propiedades térmicas [2019.01]"
+  },
+  {
+    "code": "B32B 7/028",
+    "description": "••••••Termo-contractilidad [2019.01]"
+  },
+  {
+    "code": "B32B 7/03",
+    "description": "••en relación con la orientación de los elementos característicos (dirección de las fibras o filamentos B32B 5/12) [2019.01]"
+  },
+  {
+    "code": "B32B 7/035",
+    "description": "••••que utilizan disposiciones de films estirados, p. ej. films estirados en un sólo eje y dispuestos alternativamente en direcciones diferentes [2019.01]"
+  },
+  {
+    "code": "B32B 7/04",
+    "description": "••Unión entre capas. [2019.01]"
+  },
+  {
+    "code": "B32B 7/05",
+    "description": "••••donde las capas no se conectan en toda la superficie, p. ej. conexión discontinua o conexión siguiendo un patrón (utilizando adhesivos interpuestos o materiales de unión aplicados en espacios dispuestos B32B 7/14) [2019.01]"
+  },
+  {
+    "code": "B32B 7/06",
+    "description": "••••que permiten fácilmente la separación [2019.01]"
+  },
+  {
+    "code": "B32B 7/08",
+    "description": "••••por medios mecánicos [2019.01]"
+  },
+  {
+    "code": "B32B 7/09",
+    "description": "••••••por puntadas, imbricación o cosido (por cosido o imbricado de capas fibrosas B32B 5/06) [2019.01]"
+  },
+  {
+    "code": "B32B 7/10",
+    "description": "••••teniendo al menos una de las capas propiedades inter-reactivas [2006.01]"
+  },
+  {
+    "code": "B32B 7/12",
+    "description": "••••interponiendo adhesivos o materiales con propiedades adhesivas [2006.01]"
+  },
+  {
+    "code": "B32B 7/14",
+    "description": "••••••aplicados de forma espaciada, p.ej. en bandas [2006.01]"
+  },
+  {
+    "code": "B32B 9/00",
+    "description": "Productos estratificados compuestos esencialmente por una sustancia particular no cubierta por los grupos B32B 11/00-B32B 29/00 [2006.01]"
+  },
+  {
+    "code": "B32B 9/02",
+    "description": "••que tienen sustancias animales o vegetales [2006.01]"
+  },
+  {
+    "code": "B32B 9/04",
+    "description": "••que tienen una de tales sustancias como único componente o componente principal de una capa adyacente a otra capa de una sustancia específica [2006.01]"
+  },
+  {
+    "code": "B32B 9/06",
+    "description": "••••de papel o de cartón [2006.01]"
+  },
+  {
+    "code": "B32B 11/00",
+    "description": "Productos estratificados compuestos esencialmente de sustancias bituminosas o a base de alquitrán [2006.01]"
+  },
+  {
+    "code": "B32B 11/02",
+    "description": "••con fibras o partículas envueltas en esa sustancia o unidas a esas sustancias [2006.01]"
+  },
+  {
+    "code": "B32B 11/04",
+    "description": "••comprendiendo una de esas sustancias como único componente principal de una capa adyacente a otra capa de otro sistema específico [2006.01]"
+  },
+  {
+    "code": "B32B 11/06",
+    "description": "••••de papel o de cartón [2006.01]"
+  },
+  {
+    "code": "B32B 11/08",
+    "description": "••••de metal [2006.01]"
+  },
+  {
+    "code": "B32B 11/10",
+    "description": "••adyacentes a una capa fibrosa o filamentosa [2006.01]"
+  },
+  {
+    "code": "B32B 11/12",
+    "description": "••adyacentes a una capa particular [2006.01]"
+  },
+  {
+    "code": "B32B 13/00",
+    "description": "Productos estratificados compuestos esencialmente de una sustancia de fraguado hidráulico, p. ej. hormigón, yeso, cemento, u otros materiales que entran en la construcción [2006.01]"
+  },
+  {
+    "code": "B32B 13/02",
+    "description": "••con fibras o partículas cubiertas con sustancias o unidas a esas sustancias [2006.01]"
+  },
+  {
+    "code": "B32B 13/04",
+    "description": "••que llevan una de dichas sustancias como único componente o componente principal de una capa adyacente a otra capa de una sustancia específica [2006.01]"
+  },
+  {
+    "code": "B32B 13/06",
+    "description": "••••de metal [2006.01]"
+  },
+  {
+    "code": "B32B 13/08",
+    "description": "••••de papel o de cartón [2006.01]"
+  },
+  {
+    "code": "B32B 13/10",
+    "description": "••••de madera; de partículas de madera [2006.01]"
+  },
+  {
+    "code": "B32B 13/12",
+    "description": "••••de resina sintética [2006.01]"
+  },
+  {
+    "code": "B32B 13/14",
+    "description": "••adyacente a una capa fibrosa o filamentosa [2006.01]"
+  },
+  {
+    "code": "B32B 15/00",
+    "description": "Productos estratificados compuestos esencialmente de metal [2006.01]"
+  },
+  {
+    "code": "B32B 15/01",
+    "description": "••estando compuestas todas las capas exclusivamente de metal [2006.01]"
+  },
+  {
+    "code": "B32B 15/02",
+    "description": "••que no sea en forma de hoja, p. ej. en hilos, en partículas [2006.01]"
+  },
+  {
+    "code": "B32B 15/04",
+    "description": "••que tienen un metal como único componente o como componente principal de una capa adyacente a otra capa de una sustancia específica [2006.01]"
+  },
+  {
+    "code": "B32B 15/06",
+    "description": "••••de caucho [2006.01]"
+  },
+  {
+    "code": "B32B 15/08",
+    "description": "••••de resina sintética [2006.01]"
+  },
+  {
+    "code": "B32B 15/082",
+    "description": "••••••con resinas vinílicas; con resinas acrílicas [2006.01]"
+  },
+  {
+    "code": "B32B 15/085",
+    "description": "••••••con poliolefinas [2006.01]"
+  },
+  {
+    "code": "B32B 15/088",
+    "description": "••••••con poliamidas [2006.01]"
+  },
+  {
+    "code": "B32B 15/09",
+    "description": "••••••con poliésteres [2006.01]"
+  },
+  {
+    "code": "B32B 15/092",
+    "description": "••••••con resinas epoxi [2006.01]"
+  },
+  {
+    "code": "B32B 15/095",
+    "description": "••••••con poliuretanos [2006.01]"
+  },
+  {
+    "code": "B32B 15/098",
+    "description": "••••••con resinas de condensación de aldehídos, p.ej. con fenoles, ureas o melaminas [2006.01]"
+  },
+  {
+    "code": "B32B 15/10",
+    "description": "••••de madera [2006.01]"
+  },
+  {
+    "code": "B32B 15/12",
+    "description": "••••de papel o cartón [2006.01]"
+  },
+  {
+    "code": "B32B 15/14",
+    "description": "••adyacente a una capa fibrosa o filamentosa [2006.01]"
+  },
+  {
+    "code": "B32B 15/16",
+    "description": "••adyacente a una capa especial [2006.01]"
+  },
+  {
+    "code": "B32B 15/18",
+    "description": "••que tiene hierro o acero [2006.01]"
+  },
+  {
+    "code": "B32B 15/20",
+    "description": "••que tiene aluminio o cobre [2006.01]"
+  },
+  {
+    "code": "B32B 17/00",
+    "description": "Productos estratificados compuestos esencialmente de una hoja de vidrio o de fibras de vidrio, de escoria o una sustancia similar [2006.01]"
+  },
+  {
+    "code": "B32B 17/02",
+    "description": "••bajo forma de fibras o filamentos [2006.01]"
+  },
+  {
+    "code": "B32B 17/04",
+    "description": "••••encoladas o cubiertas con una sustancia plástica [2006.01]"
+  },
+  {
+    "code": "B32B 17/06",
+    "description": "••que tiene vidrio como único componente o como componente principal de una capa adyacente a otra capa de una sustancia específica [2006.01]"
+  },
+  {
+    "code": "B32B 17/08",
+    "description": "••••de una sustancia celulósica plástica [2006.01]"
+  },
+  {
+    "code": "B32B 17/10",
+    "description": "••••de resina sintética [2006.01]"
+  },
+  {
+    "code": "B32B 17/12",
+    "description": "••adyacentes a una capa fibrosa o filamentosa [2006.01]"
+  },
+  {
+    "code": "B32B 18/00",
+    "description": "Productos estratificados compuestos esencialmente de cerámica, p. ej. productos refractarios [2006.01]"
+  },
+  {
+    "code": "B32B 19/00",
+    "description": "Productos estratificados compuestos esencialmente de fibras o partículas minerales naturales, p. ej. amianto, mica [2006.01]"
+  },
+  {
+    "code": "B32B 19/02",
+    "description": "••encoladas con o envueltas con una sustancia plástica [2006.01]"
+  },
+  {
+    "code": "B32B 19/04",
+    "description": "••adyacentes a otra capa de una sustancia específica [2006.01]"
+  },
+  {
+    "code": "B32B 19/06",
+    "description": "••adyacentes a una capa fibrosa o filamentosa [2006.01]"
+  },
+  {
+    "code": "B32B 19/08",
+    "description": "••que tengan amianto [2006.01]"
+  },
+  {
+    "code": "B32B 21/00",
+    "description": "Productos estratificados compuestos esencialmente de madera, p. ej. una plancha de madera, una lámina de chapado, una hoja de madera aglomerada [2006.01]"
+  },
+  {
+    "code": "B32B 21/02",
+    "description": "••bajo forma de fibras, virutas o partículas [2006.01]"
+  },
+  {
+    "code": "B32B 21/04",
+    "description": "••teniendo madera como único componente o componente principal de una capa adyacente a otra capa de una sustancia específica [2006.01]"
+  },
+  {
+    "code": "B32B 21/06",
+    "description": "••••de papel o cartón [2006.01]"
+  },
+  {
+    "code": "B32B 21/08",
+    "description": "••••de resina sintética; resina reforzada de fibras [2006.01]"
+  },
+  {
+    "code": "B32B 21/10",
+    "description": "••adyacente a una capa fibrosa o filamentosa [2006.01]"
+  },
+  {
+    "code": "B32B 21/12",
+    "description": "••Adyacente a una capa particular [2006.01]"
+  },
+  {
+    "code": "B32B 21/13",
+    "description": "••estando compuestas todas las capas exclusivamente de madera [2006.01]"
+  },
+  {
+    "code": "B32B 21/14",
+    "description": "••teniendo una plancha de madera o una lámina de madera de placado [2006.01]"
+  },
+  {
+    "code": "B32B 23/00",
+    "description": "Productos estratificados compuestos esencialmente de sustancias celulósicas plásticas [2006.01]"
+  },
+  {
+    "code": "B32B 23/02",
+    "description": "••bajo forma de fibras o filamentos [2006.01]"
+  },
+  {
+    "code": "B32B 23/04",
+    "description": "••teniendo tales sustancias como único componente o como componente principal de una capa adyacente a otra capa de una sustancia específica [2006.01]"
+  },
+  {
+    "code": "B32B 23/06",
+    "description": "••••de papel o cartón [2006.01]"
+  },
+  {
+    "code": "B32B 23/08",
+    "description": "••••de resina sintética [2006.01]"
+  },
+  {
+    "code": "B32B 23/10",
+    "description": "••adyacente a una capa fibrosa o filamentosa [2006.01]"
+  },
+  {
+    "code": "B32B 23/12",
+    "description": "••adyacente a una capa particular [2006.01]"
+  },
+  {
+    "code": "B32B 23/14",
+    "description": "••caracterizados por su contenido en ingredientes compuestos particulares [2006.01]"
+  },
+  {
+    "code": "B32B 23/16",
+    "description": "••••Agentes modificadores [2006.01]"
+  },
+  {
+    "code": "B32B 23/18",
+    "description": "••••Cargas [2006.01]"
+  },
+  {
+    "code": "B32B 23/20",
+    "description": "••conteniendo éteres [2006.01]"
+  },
+  {
+    "code": "B32B 23/22",
+    "description": "••teniendo ésteres [2006.01]"
+  },
+  {
+    "code": "B32B 25/00",
+    "description": "Productos estratificados compuestos esencialmente de caucho natural o sintético [2006.01]"
+  },
+  {
+    "code": "B32B 25/02",
+    "description": "••con fibras o partículas envueltas en el caucho o liadas al caucho [2006.01]"
+  },
+  {
+    "code": "B32B 25/04",
+    "description": "••teniendo caucho como único componente o como componente principal de una capa adyacente a otra capa de una sustancia específica [2006.01]"
+  },
+  {
+    "code": "B32B 25/06",
+    "description": "••••de papel o cartón [2006.01]"
+  },
+  {
+    "code": "B32B 25/08",
+    "description": "••••de resina sintética [2006.01]"
+  },
+  {
+    "code": "B32B 25/10",
+    "description": "••adyacente a una capa fibrosa o filamentosa [2006.01]"
+  },
+  {
+    "code": "B32B 25/12",
+    "description": "••teniendo caucho natural [2006.01]"
+  },
+  {
+    "code": "B32B 25/14",
+    "description": "••teniendo copolímeros en los que predominan los componentes en caucho [2006.01]"
+  },
+  {
+    "code": "B32B 25/16",
+    "description": "••teniendo polidienos o polihalodienos [2006.01]"
+  },
+  {
+    "code": "B32B 25/18",
+    "description": "••teniendo caucho butilo o halobutilo [2006.01]"
+  },
+  {
+    "code": "B32B 25/20",
+    "description": "••teniendo caucho con silicona [2006.01]"
+  },
+  {
+    "code": "B32B 27/00",
+    "description": "Productos estratificados compuestos esencialmente de resina sintética [2006.01]"
+  },
+  {
+    "code": "B32B 27/02",
+    "description": "••en forma de fibras o filamentos [2006.01]"
+  },
+  {
+    "code": "B32B 27/04",
+    "description": "••como sustancia de impregnación, de pegado, o cubrimiento [2006.01]"
+  },
+  {
+    "code": "B32B 27/06",
+    "description": "••como único componente o componente principal de una capa adyacente a otra capa de una sustancia específica [2006.01]"
+  },
+  {
+    "code": "B32B 27/08",
+    "description": "••••de una resina sintética de una clase diferente [2006.01]"
+  },
+  {
+    "code": "B32B 27/10",
+    "description": "••••de papel o cartón [2006.01]"
+  },
+  {
+    "code": "B32B 27/12",
+    "description": "••adyacente a una capa fibrosa o filamentosa [2006.01]"
+  },
+  {
+    "code": "B32B 27/14",
+    "description": "••adyacente a una capa particular [2006.01]"
+  },
+  {
+    "code": "B32B 27/16",
+    "description": "••especialmente tratada, p. ej. irradiada [2006.01]"
+  },
+  {
+    "code": "B32B 27/18",
+    "description": "••caracterizada por el empleo de aditivos particulares [2006.01]"
+  },
+  {
+    "code": "B32B 27/20",
+    "description": "••••utilizando cargas, pigmentos, agentes tixotrópicos [2006.01]"
+  },
+  {
+    "code": "B32B 27/22",
+    "description": "••••utilizando plastificantes [2006.01]"
+  },
+  {
+    "code": "B32B 27/24",
+    "description": "••••utilizando disolventes o agentes de esponjamiento [2006.01]"
+  },
+  {
+    "code": "B32B 27/26",
+    "description": "••••utilizando endurecedores [2006.01]"
+  },
+  {
+    "code": "B32B 27/28",
+    "description": "••teniendo copolímeros de resinas sintéticas no completamente cubiertas por los siguientes subgrupos [2006.01]"
+  },
+  {
+    "code": "B32B 27/30",
+    "description": "••teniendo una resina vinílica; teniendo una resina acrílica [2006.01]"
+  },
+  {
+    "code": "B32B 27/32",
+    "description": "••teniendo poliolefinas [2006.01]"
+  },
+  {
+    "code": "B32B 27/34",
+    "description": "••teniendo poliamidas [2006.01]"
+  },
+  {
+    "code": "B32B 27/36",
+    "description": "••teniendo poliésteres [2006.01]"
+  },
+  {
+    "code": "B32B 27/38",
+    "description": "••teniendo resinas epoxi [2006.01]"
+  },
+  {
+    "code": "B32B 27/40",
+    "description": "••teniendo poliuretanos [2006.01]"
+  },
+  {
+    "code": "B32B 27/42",
+    "description": "••con resinas de condensación de aldehídos, p.ej. con fenoles, ureas o melaminas [2006.01]"
+  },
+  {
+    "code": "B32B 29/00",
+    "description": "Productos estratificados compuestos esencialmente de papel o de cartón [2006.01]"
+  },
+  {
+    "code": "B32B 29/02",
+    "description": "••adyacente a una capa fibrosa o filamentosa [2006.01]"
+  },
+  {
+    "code": "B32B 29/04",
+    "description": "••adyacente a una capa particular [2006.01]"
+  },
+  {
+    "code": "B32B 29/06",
+    "description": "••especialmente tratado, p. ej. satinado, apergaminado [2006.01]"
+  },
+  {
+    "code": "B32B 29/08",
+    "description": "••Papel o cartón ondulado [2006.01]"
+  },
+  {
+    "code": "B32B 37/00",
+    "description": "Procedimientos o aparatos para la estratificación, p.ej. por polimerización o curado o por unión por ultrasonidos [2006.01]"
+  },
+  {
+    "code": "B32B 37/02",
+    "description": "••caracterizado por la secuencia de operaciones de estratificación, p.ej. por adición de nuevas capas en estaciones de trabajo consecutivas [2006.01]"
+  },
+  {
+    "code": "B32B 37/04",
+    "description": "••caracterizada por la fusión parcial de al menos una capa [2006.01]"
+  },
+  {
+    "code": "B32B 37/06",
+    "description": "••caracterizado por el método de calentamiento [2006.01]"
+  },
+  {
+    "code": "B32B 37/08",
+    "description": "••caracterizado por el método de enfriamiento [2006.01]"
+  },
+  {
+    "code": "B32B 37/10",
+    "description": "••caracterizado por la técnica de compresión, p.ej. utilizando la acción directa del vacio o de un fluido bajo presión [2006.01]"
+  },
+  {
+    "code": "B32B 37/12",
+    "description": "••caracterizado por la utilización de adhesivos [2006.01]"
+  },
+  {
+    "code": "B32B 37/14",
+    "description": "••caracterizados por las propiedades de las capas [2006.01]"
+  },
+  {
+    "code": "B32B 37/15",
+    "description": "••••con al menos una capa fabricada e inmediatamente estratificada antes de alcanzar su estado estable, p.ej. en el cual una capa es extruída y estratificada en estado semi-pastoso [2006.01]"
+  },
+  {
+    "code": "B32B 37/16",
+    "description": "••••todas las capas existentes presentan una cohesión con anterioridad a la estratificación [2006.01]"
+  },
+  {
+    "code": "B32B 37/18",
+    "description": "••••••implicando únicamente la unión de hojas o paneles discretos [2006.01]"
+  },
+  {
+    "code": "B32B 37/20",
+    "description": "••••••implicando únicamente la unión de bandas continuas [2006.01]"
+  },
+  {
+    "code": "B32B 37/22",
+    "description": "••••••implicando la unión de tanto capas continuas como discretas [2006.01]"
+  },
+  {
+    "code": "B32B 37/24",
+    "description": "••••con al menos una capa que no es coherente antes de la estratificación, p.ej. constituido por un material granular proyectado sobre un substrato (B32B 37/15 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B32B 37/26",
+    "description": "••••con al menos una capa que tiene influencia en la unión durante la estratificación, p.ej. capas anti-adhesivas o capas equilibradoras de la presión [2006.01]"
+  },
+  {
+    "code": "B32B 37/28",
+    "description": "••implicando la unión de productos intermedios no planos que son aplanados en un paso posterior, p.ej. tubos [2006.01]"
+  },
+  {
+    "code": "B32B 37/30",
+    "description": "••Estratificación parcial [2006.01]"
+  },
+  {
+    "code": "B32B 38/00",
+    "description": "Operaciones auxiliares relacionadas con los procesos de estratificación [2006.01]"
+  },
+  {
+    "code": "B32B 38/04",
+    "description": "••Punzonado, corte o perforación [2006.01]"
+  },
+  {
+    "code": "B32B 38/06",
+    "description": "••Estampado [2006.01]"
+  },
+  {
+    "code": "B32B 38/08",
+    "description": "••Impregnación [2006.01]"
+  },
+  {
+    "code": "B32B 38/10",
+    "description": "••Retirada de capas o de partes de capas, mecánicamente o químicamente [2006.01]"
+  },
+  {
+    "code": "B32B 38/12",
+    "description": "••Embutición [2006.01]"
+  },
+  {
+    "code": "B32B 38/14",
+    "description": "••Impresión y coloración [2006.01]"
+  },
+  {
+    "code": "B32B 38/16",
+    "description": "••Secado; Reblandecimiento; Limpieza [2006.01]"
+  },
+  {
+    "code": "B32B 38/18",
+    "description": "••Manipulación de las hojas o del estratificado [2006.01]"
+  },
+  {
+    "code": "B32B 39/00",
+    "description": "Disposición de los aparatos o de las instalaciones, p.ej. sistemas modulares para la estratificación [2006.01]"
+  },
+  {
+    "code": "B32B 41/00",
+    "description": "Dispositivos para el control o el mando de los procedimientos de estratificación; Dispositivos de seguridad [2006.01]"
+  },
+  {
+    "code": "B32B 41/02",
+    "description": "••Dispositivos de seguridad [2006.01]"
+  },
+  {
+    "code": "B32B 43/00",
+    "description": "Operaciones especialmente adaptadas a los productos estratificados y no previstos en otro lugar, p.ej. reparación; Aparatos para ello [2006.01]"
+  }
+]

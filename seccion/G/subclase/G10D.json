@@ -1,0 +1,326 @@
+[
+  {
+    "code": "G10D 1/00",
+    "description": "Diseño general de instrumentos de cuerda [2020.01]"
+  },
+  {
+    "code": "G10D 1/02",
+    "description": "••Instrumentos de cuerda con arco o de cuerda frotada, p.ej. violines o zanfonas [2006.01]"
+  },
+  {
+    "code": "G10D 1/04",
+    "description": "••Instrumentos de cuerda pulsada o rasgada, p.ej. arpas o liras [2020.01]"
+  },
+  {
+    "code": "G10D 1/05",
+    "description": "••••con diapasones [2020.01]"
+  },
+  {
+    "code": "G10D 1/06",
+    "description": "••••••Mandolinas [2006.01]"
+  },
+  {
+    "code": "G10D 1/08",
+    "description": "••••••Guitarras [2006.01]"
+  },
+  {
+    "code": "G10D 1/10",
+    "description": "••••••Banjos [2006.01]"
+  },
+  {
+    "code": "G10D 1/12",
+    "description": "••Cítaras, p. ej. auto-arpas [2006.01]"
+  },
+  {
+    "code": "G10D 1/14",
+    "description": "••Instrumentos de cuerda percutida, p.ej. dulcimer [2020.01]"
+  },
+  {
+    "code": "G10D 3/00",
+    "description": "Partes constitutivas de los instrumentos de cuerda, o accesorios para estos instrumentos, p. ej. cejillas [2020.01]"
+  },
+  {
+    "code": "G10D 3/01",
+    "description": "••Picas o accesorios para las mismas [2020.01]"
+  },
+  {
+    "code": "G10D 3/02",
+    "description": "••Amplificadores, bocinas o diafragmas [2006.01]"
+  },
+  {
+    "code": "G10D 3/04",
+    "description": "••Puentes [2020.01]"
+  },
+  {
+    "code": "G10D 3/046",
+    "description": "••Sordinas; Soportes para sordinas [2020.01]"
+  },
+  {
+    "code": "G10D 3/053",
+    "description": "••Cejillas, es decir, capodastros o capotrastes [2020.01]"
+  },
+  {
+    "code": "G10D 3/06",
+    "description": "••Mástiles; Diapasones, p.ej. diapasones con trastes [2020.01]"
+  },
+  {
+    "code": "G10D 3/08",
+    "description": "••••Diapasones en forma de teclados [2020.01]"
+  },
+  {
+    "code": "G10D 3/09",
+    "description": "••••••para cítaras [2020.01]"
+  },
+  {
+    "code": "G10D 3/095",
+    "description": "••••Detalles de mástiles extraíbles o plegables, p.ej. adecuados para transporte o almacenamiento [2020.01]"
+  },
+  {
+    "code": "G10D 3/10",
+    "description": "••Cuerdas [2006.01]"
+  },
+  {
+    "code": "G10D 3/12",
+    "description": "••Dispositivos de fijación de cuerdas, p. ej. cordales o clavijas de enganche [2020.01]"
+  },
+  {
+    "code": "G10D 3/13",
+    "description": "••••Cordales [2020.01]"
+  },
+  {
+    "code": "G10D 3/14",
+    "description": "••Dispositivos de afinación , p. ej. clavijas, pins, discos de fricción o tornillos sin fin [2020.01]"
+  },
+  {
+    "code": "G10D 3/147",
+    "description": "••••Dispositivos para alterar la tensión de la cuerda durante la interpretación [2020.01]"
+  },
+  {
+    "code": "G10D 3/153",
+    "description": "••••••Dispositivos para trémolo [2020.01]"
+  },
+  {
+    "code": "G10D 3/16",
+    "description": "••Arcos; Guías para arcos; Pectros, púas o medios para tocar similares [2020.01]"
+  },
+  {
+    "code": "G10D 3/166",
+    "description": "••••Guías para arcos [2020.01]"
+  },
+  {
+    "code": "G10D 3/173",
+    "description": "••••Plectros, púas o accesorios similares para tocar; Soporte para plectros o púas [2020.01]"
+  },
+  {
+    "code": "G10D 3/18",
+    "description": "••Barbadas o mentoneras, soportes para la mano, almohadillas o soportes para el hombro extraíbles o integrados con el instrumento [2020.01]"
+  },
+  {
+    "code": "G10D 3/20",
+    "description": "••Herramientas para afinación separadas de los instrumentos musicales, p.ej. llaves de afinación [2020.01]"
+  },
+  {
+    "code": "G10D 3/22",
+    "description": "••Material para fabricar instrumentos de cuerda; Tratamiento del material [2020.01]"
+  },
+  {
+    "code": "G10D 7/00",
+    "description": "Diseño general de instrumentos de viento (acordeones o concertinas G10D 11/00; silbatos G10K 5/00) [2006.01]"
+  },
+  {
+    "code": "G10D 7/02",
+    "description": "••del tipo en los que el aire soplado es dirigido hacia un bisel [2020.01]"
+  },
+  {
+    "code": "G10D 7/026",
+    "description": "••••con corrientes de aire sopladas en una abertura dispuesta en la superficie cilíndrica del tubo, p.ej. flautas traveseras, pícolos o flautines [2020.01]"
+  },
+  {
+    "code": "G10D 7/03",
+    "description": "••••con una canal de viento para conducir el aire al labio, p.ej. flautas dulces [2020.01]"
+  },
+  {
+    "code": "G10D 7/04",
+    "description": "••••con resonadores Helmholtz, p. ej. ocarinas [2020.01]"
+  },
+  {
+    "code": "G10D 7/06",
+    "description": "••Instrumentos de lengüeta o caña, p. ej. instrumentos de una o de doble lengüeta [2020.01]"
+  },
+  {
+    "code": "G10D 7/063",
+    "description": "••••Oboes; Fagotes; Gaitas [2020.01]"
+  },
+  {
+    "code": "G10D 7/066",
+    "description": "••••Clarinetes [2020.01]"
+  },
+  {
+    "code": "G10D 7/08",
+    "description": "••••Saxofones [2006.01]"
+  },
+  {
+    "code": "G10D 7/10",
+    "description": "••Instrumentos de viento de lengüeta labial, es decir, que usan la vibración de los labios del músico, p.ej. cornetas, trompetas, trombones o trompas [2006.01]"
+  },
+  {
+    "code": "G10D 7/12",
+    "description": "••Instrumentos de viento sin lengueta [2020.01]"
+  },
+  {
+    "code": "G10D 7/14",
+    "description": "••••Armónicas [2020.01]"
+  },
+  {
+    "code": "G10D 7/16",
+    "description": "••••••con teclados [2020.01]"
+  },
+  {
+    "code": "G10D 9/00",
+    "description": "Partes constitutivas de, o accesorios para instrumentos de viento (acordeones o concertinas G10D 11/00) [2020.01]"
+  },
+  {
+    "code": "G10D 9/01",
+    "description": "••Dispositivos de afinación [2020.01]"
+  },
+  {
+    "code": "G10D 9/02",
+    "description": "••Boquillas; Lengüetas; Abrazaderas [2020.01]"
+  },
+  {
+    "code": "G10D 9/025",
+    "description": "••••Boquillas móviles [2020.01]"
+  },
+  {
+    "code": "G10D 9/03",
+    "description": "••••Boquillas con forma de copa [2020.01]"
+  },
+  {
+    "code": "G10D 9/035",
+    "description": "••••Lengüetas [2020.01]"
+  },
+  {
+    "code": "G10D 9/04",
+    "description": "••Pistones; Reguladores de pistones [2020.01]"
+  },
+  {
+    "code": "G10D 9/047",
+    "description": "••••para instrumentos de viento madera [2020.01]"
+  },
+  {
+    "code": "G10D 9/053",
+    "description": "••••con cambio continuo del tono [2020.01]"
+  },
+  {
+    "code": "G10D 9/06",
+    "description": "••Sordinas [2006.01]"
+  },
+  {
+    "code": "G10D 9/08",
+    "description": "••Material para fabricar instrumentos de viento; Tratamiento del material [2020.01]"
+  },
+  {
+    "code": "G10D 9/10",
+    "description": "••Cuerpos resonantes, p.ej. tubos [2020.01]"
+  },
+  {
+    "code": "G10D 9/11",
+    "description": "••••Campanas [2020.01]"
+  },
+  {
+    "code": "G10D 11/00",
+    "description": "Acordeones, concertinas o instrumentos similares; Teclados para esos instrumentos [2006.01]"
+  },
+  {
+    "code": "G10D 11/02",
+    "description": "••Mecanismos [2006.01]"
+  },
+  {
+    "code": "G10D 13/00",
+    "description": "Instrumentos de percusión; Partes constitutivas o sus accesorios (instrumentos de cuerda percutida G10D 1/14) [2020.01]"
+  },
+  {
+    "code": "G10D 13/01",
+    "description": "••Diseño general de instrumentos de percusión [2020.01]"
+  },
+  {
+    "code": "G10D 13/02",
+    "description": "••••Tambores; Panderetas con parches [2020.01]"
+  },
+  {
+    "code": "G10D 13/03",
+    "description": "••••Baterías o \"pads\" de estudio [2020.01]"
+  },
+  {
+    "code": "G10D 13/04",
+    "description": "••••Timbales [2006.01]"
+  },
+  {
+    "code": "G10D 13/06",
+    "description": "••••Castañuelas, platillos, triángulos, panderetas sin membrana o parche u otros instrumentos de percusión de tono único [2020.01]"
+  },
+  {
+    "code": "G10D 13/063",
+    "description": "••••••Platillos [2020.01]"
+  },
+  {
+    "code": "G10D 13/065",
+    "description": "••••••••Platos \"Hi-hat\" o \"Charles\" [2020.01]"
+  },
+  {
+    "code": "G10D 13/08",
+    "description": "••••Instrumentos de múltiples tonos con barras, bloques, horquillas, gongs, platillos, palillos o dientes sonoros [2020.01]"
+  },
+  {
+    "code": "G10D 13/09",
+    "description": "••••••con teclados [2020.01]"
+  },
+  {
+    "code": "G10D 13/10",
+    "description": "••Detalles o accesorios para instrumentos de percusión [2020.01]"
+  },
+  {
+    "code": "G10D 13/11",
+    "description": "••••Pedales; Mecanismos de pedal [2020.01]"
+  },
+  {
+    "code": "G10D 13/12",
+    "description": "••••Baquetas; Mazas (pedales para mezcladores G10D 13/11) [2020.01]"
+  },
+  {
+    "code": "G10D 13/14",
+    "description": "••••Sordinas o amortiguadores [2020.01]"
+  },
+  {
+    "code": "G10D 13/16",
+    "description": "••••Dispositivos de afinación; Ganchos; Llaves [2020.01]"
+  },
+  {
+    "code": "G10D 13/18",
+    "description": "••••Cajas o tambores; Tensores para cajas [2020.01]"
+  },
+  {
+    "code": "G10D 13/20",
+    "description": "••••Parches o membranas [2020.01]"
+  },
+  {
+    "code": "G10D 13/22",
+    "description": "••••Estuches o fundas [2020.01]"
+  },
+  {
+    "code": "G10D 13/24",
+    "description": "••••Material para fabricar instrumentos de percusión; Tratamiento del material [2020.01]"
+  },
+  {
+    "code": "G10D 15/00",
+    "description": "Combinaciones de diferentes instrumentos musicales [2006.01]"
+  },
+  {
+    "code": "G10D 17/00",
+    "description": "Arpas eólicas; Instrumentos musicales que utilizan combustión [2020.01]"
+  },
+  {
+    "code": "G10D 99/00",
+    "description": "Instrumentos musicales no previstos en otro lugar [2020.01]"
+  }
+]

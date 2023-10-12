@@ -1,0 +1,1506 @@
+[
+  {
+    "code": "B01F 21/00",
+    "description": "Disolución (separación por disolución B01D; disolución para efectuar el enfriamiento F25D 5/00) [2022.01]"
+  },
+  {
+    "code": "B01F 21/10",
+    "description": "••utilizando agitadores accionados [2022.01]"
+  },
+  {
+    "code": "B01F 21/20",
+    "description": "••utilizando la mezcla de flujos [2022.01]"
+  },
+  {
+    "code": "B01F 23/00",
+    "description": "Mezcla en función de las fases a mezclar, p. ej. dispersión o emulsión [2022.01]"
+  },
+  {
+    "code": "B01F 23/10",
+    "description": "••Mezcla de gases con gases [2022.01]"
+  },
+  {
+    "code": "B01F 23/20",
+    "description": "••Mezcla de gases con líquidos [2022.01]"
+  },
+  {
+    "code": "B01F 23/21",
+    "description": "••••introduciendo líquidos en medios gaseosos [2022.01]"
+  },
+  {
+    "code": "B01F 23/213",
+    "description": "••••••por pulverización o atomización de los líquidos [2022.01]"
+  },
+  {
+    "code": "B01F 23/23",
+    "description": "••••introduciendo gases en medios líquidos, p. ej.  para producir líquidos aireados [2022.01]"
+  },
+  {
+    "code": "B01F 23/231",
+    "description": "••••••por burbujeo (mezcladores con agitación de gas o líquido, p. ej.  con tubos de suministro de aire B01F 33/40) [2022.01]"
+  },
+  {
+    "code": "B01F 23/232",
+    "description": "••••••utilizando medios de mezcla de flujo para introducir los gases, p. ej. deflectores [2022.01]"
+  },
+  {
+    "code": "B01F 23/2326",
+    "description": "••••••••añadiendo el componente principal que fluye por medios de succión, p. ej. utilizando un eyector [2022.01]"
+  },
+  {
+    "code": "B01F 23/233",
+    "description": "••••••utilizando agitadores accionados con elementos de agitación completamente sumergidos [2022.01]"
+  },
+  {
+    "code": "B01F 23/234",
+    "description": "••••••Aireación de la superficie [2022.01]"
+  },
+  {
+    "code": "B01F 23/235",
+    "description": "••••••para la fabricación de espuma [2022.01]"
+  },
+  {
+    "code": "B01F 23/236",
+    "description": "••••••especialmente adaptada para airear o carbonatar bebidas [2022.01]"
+  },
+  {
+    "code": "B01F 23/2361",
+    "description": "••••••••dentro de pequeños contenedores, p. ej. dentro de botellas [2022.01]"
+  },
+  {
+    "code": "B01F 23/237",
+    "description": "••••••caracterizada por las propiedades físicas o químicas de los gases o vapores introducidos en el medio líquido [2022.01]"
+  },
+  {
+    "code": "B01F 23/2373",
+    "description": "••••••••para obtener burbujas finas, es decir, burbujas con un tamaño inferior a 100 µm [2022.01]"
+  },
+  {
+    "code": "B01F 23/2375",
+    "description": "••••••••••para obtener burbujas con un tamaño inferior a 1 µm [2022.01]"
+  },
+  {
+    "code": "B01F 23/30",
+    "description": "••Mezcla de gases con sólidos [2022.01]"
+  },
+  {
+    "code": "B01F 23/40",
+    "description": "••Mezcla de líquidos con líquidos; Emulsión [2022.01]"
+  },
+  {
+    "code": "B01F 23/41",
+    "description": "••••Emulsión [2022.01]"
+  },
+  {
+    "code": "B01F 23/411",
+    "description": "••••••utilizando campos eléctricos o magnéticos, calor o vibraciones [2022.01]"
+  },
+  {
+    "code": "B01F 23/43",
+    "description": "••••utilizando agitadores accionados [2022.01]"
+  },
+  {
+    "code": "B01F 23/45",
+    "description": "••••utilizando la mezcla de flujos [2022.01]"
+  },
+  {
+    "code": "B01F 23/451",
+    "description": "••••••inyectando un líquido en otro [2022.01]"
+  },
+  {
+    "code": "B01F 23/454",
+    "description": "••••••inyectando una mezcla de líquido y gas [2022.01]"
+  },
+  {
+    "code": "B01F 23/47",
+    "description": "••••con líquidos de alta viscosidad, p. ej. el asfalto [2022.01]"
+  },
+  {
+    "code": "B01F 23/50",
+    "description": "••Mezcla de líquidos con sólidos (desplazamiento de un líquido por otro en dispersiones de sólidos en líquidos B01D 12/00) [2022.01]"
+  },
+  {
+    "code": "B01F 23/53",
+    "description": "••••utilizando agitadores accionados [2022.01]"
+  },
+  {
+    "code": "B01F 23/57",
+    "description": "••••Mezcla de líquidos de alta viscosidad con sólidos [2022.01]"
+  },
+  {
+    "code": "B01F 23/60",
+    "description": "••Mezcla de sólidos con sólidos [2022.01]"
+  },
+  {
+    "code": "B01F 23/62",
+    "description": "••••utilizando un recipiente con descarga inferior con elementos de apertura y cierre oscilantes o vibratorios; utilizando un recipiente con descarga inferior con elementos montados sobre cadenas móviles [2022.01]"
+  },
+  {
+    "code": "B01F 23/64",
+    "description": "••••utilizando elementos de mezcla giratorios en el extremo inferior de las tolvas de descarga [2022.01]"
+  },
+  {
+    "code": "B01F 23/70",
+    "description": "••Tratamiento previo de los materiales a mezclar [2022.01]"
+  },
+  {
+    "code": "B01F 23/80",
+    "description": "••Tratamiento posterior de la mezcla [2022.01]"
+  },
+  {
+    "code": "B01F 25/00",
+    "description": "Mezcladores de flujo; Mezcladores para materiales que caen, p. ej.  partículas sólidas (mezcladores centrífugos B04) [2022.01]"
+  },
+  {
+    "code": "B01F 25/10",
+    "description": "••Mezcla mediante la creación de un flujo de vórtice, p. ej. mediante la introducción tangencial de los componentes del flujo [2022.01]"
+  },
+  {
+    "code": "B01F 25/20",
+    "description": "••Mezcladores de chorro, es decir, mezcladores que utilizan corrientes de fluido de alta velocidad (utilizando chorros para crear un flujo de vórtice B01F 25/10) [2022.01]"
+  },
+  {
+    "code": "B01F 25/21",
+    "description": "••••con inyectores sumergidos, p. ej. boquillas, para inyectar chorros de alta presión en un gran volumen o en cámaras de mezcla [2022.01]"
+  },
+  {
+    "code": "B01F 25/23",
+    "description": "••••Mezcla por intersección de chorros [2022.01]"
+  },
+  {
+    "code": "B01F 25/25",
+    "description": "••••Mezcla por chorros que impactan contra las placas de colisión [2022.01]"
+  },
+  {
+    "code": "B01F 25/27",
+    "description": "••••Mezcla por chorro de componentes en un conducto para agitar su contenido [2022.01]"
+  },
+  {
+    "code": "B01F 25/30",
+    "description": "••Mezcladores de inyectores (mezcla mediante la creación de un flujo de vórtice B01F 25/10) [2022.01]"
+  },
+  {
+    "code": "B01F 25/31",
+    "description": "••••en conductos o tubos por los que fluye el componente principal [2022.01]"
+  },
+  {
+    "code": "B01F 25/312",
+    "description": "••••••con elementos Venturi; Detalles de los mismos [2022.01]"
+  },
+  {
+    "code": "B01F 25/313",
+    "description": "••••••en los que se introducen componentes adicionales en el centro del conducto [2022.01]"
+  },
+  {
+    "code": "B01F 25/314",
+    "description": "••••••en los que se introducen componentes adicionales en la circunferencia del conducto [2022.01]"
+  },
+  {
+    "code": "B01F 25/315",
+    "description": "••••••donde una diferencia de presión en diferentes puntos del conducto provoca la introducción del componente adicional en el componente principal (B01F 25/316 tiene prioridad) [2022.01]"
+  },
+  {
+    "code": "B01F 25/316",
+    "description": "••••••con contenedores para componentes adicionales fijados al conducto [2022.01]"
+  },
+  {
+    "code": "B01F 25/32",
+    "description": "••••donde los componentes adicionales se añaden en un by-pass del flujo principal [2022.01]"
+  },
+  {
+    "code": "B01F 25/40",
+    "description": "••Mezcladores estáticos (molinos coloidales B02C; válvulas mezcladoras F16K 11/00) [2022.01]"
+  },
+  {
+    "code": "B01F 25/41",
+    "description": "••••Mezcladores de tipo fractal [2022.01]"
+  },
+  {
+    "code": "B01F 25/42",
+    "description": "••••en los que la mezcla se ve afectada por el movimiento conjunto de los componentes en direcciones cambiantes, p. ej. en tubos provistos de deflectores u obstrucciones [2022.01]"
+  },
+  {
+    "code": "B01F 25/421",
+    "description": "••••••moviendo los componentes en un camino enrevesado o laberíntico (B01F 25/433 tiene prioridad) [2022.01]"
+  },
+  {
+    "code": "B01F 25/422",
+    "description": "••••••••entre placas apiladas, p. ej. placas acanaladas o perforadas [2022.01]"
+  },
+  {
+    "code": "B01F 25/43",
+    "description": "••••••Tubos de mezcla, p. ej. en los que el material se mueve en dirección radial o parcialmente invertida [2022.01]"
+  },
+  {
+    "code": "B01F 25/431",
+    "description": "••••••••Tubos mezcladores rectos con deflectores u obstrucciones que no provocan una caída de presión sustancial; Deflectores a tal efecto [2022.01]"
+  },
+  {
+    "code": "B01F 25/4314",
+    "description": "••••••••••con deflectores helicoidales [2022.01]"
+  },
+  {
+    "code": "B01F 25/432",
+    "description": "••••••••con medios para dividir el flujo de material en subflujos separados y para reposicionar y recombinar estos subflujos; Mezcla cruzada, p. ej. conduciendo la capa exterior del material más cerca del eje del tubo o viceversa [2022.01]"
+  },
+  {
+    "code": "B01F 25/433",
+    "description": "••••••••Tubos mezcladores en los que la forma del tubo influye en la mezcla, p. ej. tubos mezcladores con sección transversal variable o provistos de perfiles que se extienden hacia el interior [2022.01]"
+  },
+  {
+    "code": "B01F 25/434",
+    "description": "••••••••Tubos mezcladores con insertos cilíndricos o cónicos provistos de ranuras o protuberancias [2022.01]"
+  },
+  {
+    "code": "B01F 25/435",
+    "description": "••••••••Tubos mezcladores compuestos por miembros tubulares concéntricos [2022.01]"
+  },
+  {
+    "code": "B01F 25/44",
+    "description": "••••Mezcladores en los que los componentes se presionan a través de ranuras [2022.01]"
+  },
+  {
+    "code": "B01F 25/441",
+    "description": "••••••caracterizados por la configuración de las superficies que forman las rendijas [2022.01]"
+  },
+  {
+    "code": "B01F 25/442",
+    "description": "••••••caracterizados por la posición relativa de las superficies durante el funcionamiento [2022.01]"
+  },
+  {
+    "code": "B01F 25/45",
+    "description": "••••Mezcladores en los que los materiales a mezclar se presionan entre sí a través de orificios o espacios intersticiales, p. ej. entre cuentas (B01F 25/44 tiene prioridad) [2022.01]"
+  },
+  {
+    "code": "B01F 25/451",
+    "description": "••••••caracterizados por medios para mover los materiales a mezclar o la mezcla [2022.01]"
+  },
+  {
+    "code": "B01F 25/452",
+    "description": "••••••caracterizados por elementos dotados de orificios o espacios intersticiales [2022.01]"
+  },
+  {
+    "code": "B01F 25/46",
+    "description": "••••Boquillas de homogeneización o emulsión [2022.01]"
+  },
+  {
+    "code": "B01F 25/50",
+    "description": "••Mezcladores de circulación, p. ej. en los que al menos una parte de la mezcla es descargada y reintroducida en un recipiente [2022.01]"
+  },
+  {
+    "code": "B01F 25/51",
+    "description": "••••en los que la mezcla circula a través de un conjunto de tubos, p. ej. con introducción gradual de un componente en el flujo circulante [2022.01]"
+  },
+  {
+    "code": "B01F 25/52",
+    "description": "••••con un agitador rotativo en el tubo de recirculación [2022.01]"
+  },
+  {
+    "code": "B01F 25/53",
+    "description": "••••en los que la mezcla se descarga y se reintroduce en un receptáculo a través de un tubo de recirculación, en el que se introduce un componente adicional [2022.01]"
+  },
+  {
+    "code": "B01F 25/54",
+    "description": "••••provisto de una bomba dentro del recipiente para recircular el material dentro del recipiente [2022.01]"
+  },
+  {
+    "code": "B01F 25/60",
+    "description": "••Mezcladores de bomba, es decir, mezcla dentro de una bomba [2022.01]"
+  },
+  {
+    "code": "B01F 25/62",
+    "description": "••••del tipo de engranaje [2022.01]"
+  },
+  {
+    "code": "B01F 25/64",
+    "description": "••••del tipo bomba centrífuga, es decir, turbo-mezcladores [2022.01]"
+  },
+  {
+    "code": "B01F 25/70",
+    "description": "••Mezcladores de pulverización, p. ej. para mezclar láminas de material que se cruzan [2022.01]"
+  },
+  {
+    "code": "B01F 25/72",
+    "description": "••••con boquillas [2022.01]"
+  },
+  {
+    "code": "B01F 25/721",
+    "description": "••••••para pulverizar un fluido sobre partículas que caen o sobre una cortina de líquido [2022.01]"
+  },
+  {
+    "code": "B01F 25/74",
+    "description": "••••con piezas giratorias, p. ej. discos [2022.01]"
+  },
+  {
+    "code": "B01F 25/80",
+    "description": "••Mezcladores de partículas en caída, p. ej. con agitación repetida a lo largo de un eje vertical [2022.01]"
+  },
+  {
+    "code": "B01F 25/82",
+    "description": "••••uniendo flujos de material tomados de diferentes partes de un recipiente o de un conjunto de recipientes diferentes [2022.01]"
+  },
+  {
+    "code": "B01F 25/83",
+    "description": "••••con receptáculos provistos de elementos fijos de guía en su interior, p. ej. deflectores; Mezcladores transversales con canales de cruce para guiar las partículas que caen [2022.01]"
+  },
+  {
+    "code": "B01F 25/85",
+    "description": "••••en los que las partículas caen sobre una película que fluye a lo largo de la pared interior de un mezclador [2022.01]"
+  },
+  {
+    "code": "B01F 25/90",
+    "description": "••••con medios móviles o vibratorios, p. ej. agitadores, para mejorar la mezcla [2022.01]"
+  },
+  {
+    "code": "B01F 27/00",
+    "description": "Mezcladores con dispositivos de agitación rotativos en receptáculos fijos (mezcladores magnéticos B01F 33/45); Amasadores [2022.01]"
+  },
+  {
+    "code": "B01F 27/05",
+    "description": "••Agitadores [2022.01]"
+  },
+  {
+    "code": "B01F 27/051",
+    "description": "••••caracterizados por sus elementos, materiales o propiedades mecánicas [2022.01]"
+  },
+  {
+    "code": "B01F 27/052",
+    "description": "••••••Agitadores con elementos de desgaste reemplazables; Elementos de desgaste para los mismos [2022.01]"
+  },
+  {
+    "code": "B01F 27/053",
+    "description": "••••••caracterizados por sus materiales [2022.01]"
+  },
+  {
+    "code": "B01F 27/054",
+    "description": "••••••Agitadores deformables, p. ej.  deformados por una fuerza centrífuga aplicada durante el funcionamiento [2022.01]"
+  },
+  {
+    "code": "B01F 27/07",
+    "description": "••••caracterizados por su montaje en el eje [2022.01]"
+  },
+  {
+    "code": "B01F 27/072",
+    "description": "••••••caracterizados por la disposición de los agitadores con respecto al eje de rotación [2022.01]"
+  },
+  {
+    "code": "B01F 27/09",
+    "description": "••••caracterizados por el montaje de los agitadores con respecto al receptáculo [2022.01]"
+  },
+  {
+    "code": "B01F 27/091",
+    "description": "••••••con elementos que cooperan con la pared o el fondo del receptáculo, p. ej.  para raspar la pared del receptáculo [2022.01]"
+  },
+  {
+    "code": "B01F 27/093",
+    "description": "••••••dispuestos excéntricamente [2022.01]"
+  },
+  {
+    "code": "B01F 27/11",
+    "description": "••••caracterizados por la configuración de los agitadores [2022.01]"
+  },
+  {
+    "code": "B01F 27/111",
+    "description": "••••••Agitadores centrífugos, es decir, agitadores con salidas radiales; Agitadores de tipo turbina, p. ej. con medios para guiar el flujo [2022.01]"
+  },
+  {
+    "code": "B01F 27/1111",
+    "description": "••••••••con un disco plano o con un elemento en forma de disco equipado con paletas, p. ej. turbina Rushton [2022.01]"
+  },
+  {
+    "code": "B01F 27/112",
+    "description": "••••••con brazos, palas, álabes o paletas [2022.01]"
+  },
+  {
+    "code": "B01F 27/1121",
+    "description": "••••••••en forma de espiga [2022.01]"
+  },
+  {
+    "code": "B01F 27/1122",
+    "description": "••••••••en forma de ancla [2022.01]"
+  },
+  {
+    "code": "B01F 27/1123",
+    "description": "••••••••con forma de hoz, es decir, curvada en al menos una dirección [2022.01]"
+  },
+  {
+    "code": "B01F 27/1124",
+    "description": "••••••••en forma de rastrillo o de rejilla [2022.01]"
+  },
+  {
+    "code": "B01F 27/1125",
+    "description": "••••••••con paletas o aspas que se extienden paralelas u oblicuas al eje del agitador [2022.01]"
+  },
+  {
+    "code": "B01F 27/1126",
+    "description": "••••••••siendo el agitador una varilla doblada que se apoya en un solo extremo [2022.01]"
+  },
+  {
+    "code": "B01F 27/1127",
+    "description": "••••••••en forma de cuchara [2022.01]"
+  },
+  {
+    "code": "B01F 27/113",
+    "description": "••••••Agitadores en forma de hélice para producir un flujo axial, p. ej. con forma de hélice de barco o de avión [2022.01]"
+  },
+  {
+    "code": "B01F 27/1131",
+    "description": "••••••••con agujeros en la superficie de las palas de la hélice [2022.01]"
+  },
+  {
+    "code": "B01F 27/1132",
+    "description": "••••••••con tubos de guía o segmentos tubulares fijados a las puntas de las palas de la hélice y que las rodean, p. ej.  para la mezcla suplementaria [2022.01]"
+  },
+  {
+    "code": "B01F 27/114",
+    "description": "••••••Agitadores con forma helicoidal, es decir, agitadores con una banda o secciones de banda con forma helicoidal [2022.01]"
+  },
+  {
+    "code": "B01F 27/1142",
+    "description": "••••••••de tipo sacacorchos [2022.01]"
+  },
+  {
+    "code": "B01F 27/1143",
+    "description": "••••••••con forma de tornillo, p. ej. gusanos [2022.01]"
+  },
+  {
+    "code": "B01F 27/1144",
+    "description": "••••••••con una pluralidad de palas que siguen una trayectoria helicoidal sobre un eje o un soporte de palas [2022.01]"
+  },
+  {
+    "code": "B01F 27/1145",
+    "description": "••••••••en forma de cinta con un espacio abierto entre el recorrido helicoidal de la cinta y el eje de rotación [2022.01]"
+  },
+  {
+    "code": "B01F 27/115",
+    "description": "••••••con discos o elementos en forma de disco esencialmente perpendiculares al eje del agitador [2022.01]"
+  },
+  {
+    "code": "B01F 27/1151",
+    "description": "••••••••con agujeros en la superficie [2022.01]"
+  },
+  {
+    "code": "B01F 27/1152",
+    "description": "••••••••con elementos separados que no sean discos fijados en los discos, p. ej. paletas fijadas en el disco [2022.01]"
+  },
+  {
+    "code": "B01F 27/116",
+    "description": "••••••Agitadores con forma de cilindros, bolas o rodillos [2022.01]"
+  },
+  {
+    "code": "B01F 27/117",
+    "description": "••••••Agitadores provistos de elementos de forma cónica, p. ej.  en forma de embudo [2022.01]"
+  },
+  {
+    "code": "B01F 27/118",
+    "description": "••••••Agitadores en forma de cepillos, tamices, rejillas, cadenas o muelles [2022.01]"
+  },
+  {
+    "code": "B01F 27/119",
+    "description": "••••••Agitadores con alambres rígidos o varillas flexibles [2022.01]"
+  },
+  {
+    "code": "B01F 27/13",
+    "description": "••••••Agitadores de bastidor o de jaula no previstos en otros grupos de esta subclase [2022.01]"
+  },
+  {
+    "code": "B01F 27/15",
+    "description": "••••••Agitadores con tubos para guiar el material [2022.01]"
+  },
+  {
+    "code": "B01F 27/17",
+    "description": "••••••Agitadores con elementos adicionales montados en el agitador, para fines distintos de la mezcla [2022.01]"
+  },
+  {
+    "code": "B01F 27/171",
+    "description": "••••••••para desintegrar, ej. para moler [2022.01]"
+  },
+  {
+    "code": "B01F 27/172",
+    "description": "••••••••para cortar, p. ej.  con cuchillas [2022.01]"
+  },
+  {
+    "code": "B01F 27/19",
+    "description": "••••••Agitadores con dos o más elementos de mezcla montados en secuencia en el mismo eje [2022.01]"
+  },
+  {
+    "code": "B01F 27/191",
+    "description": "••••••••con elementos similares [2022.01]"
+  },
+  {
+    "code": "B01F 27/192",
+    "description": "••••••••con elementos disímiles [2022.01]"
+  },
+  {
+    "code": "B01F 27/21",
+    "description": "••caracterizados por sus ejes de rotación [2022.01]"
+  },
+  {
+    "code": "B01F 27/211",
+    "description": "••••caracterizados por el material del eje [2022.01]"
+  },
+  {
+    "code": "B01F 27/2111",
+    "description": "••••••Ejes flexibles [2022.01]"
+  },
+  {
+    "code": "B01F 27/2121",
+    "description": "••••compuestos por piezas interconectadas [2022.01]"
+  },
+  {
+    "code": "B01F 27/2122",
+    "description": "••••Ejes huecos [2022.01]"
+  },
+  {
+    "code": "B01F 27/2123",
+    "description": "••••Ejes con medios de agitación y medios de alimentación o descarga [2022.01]"
+  },
+  {
+    "code": "B01F 27/2124",
+    "description": "••••Ejes con longitud ajustable, p. ej. ejes telescópicos [2022.01]"
+  },
+  {
+    "code": "B01F 27/213",
+    "description": "••••caracterizados por la conexión con el accionamiento [2022.01]"
+  },
+  {
+    "code": "B01F 27/23",
+    "description": "••caracterizados por la orientación o disposición del eje del rotor [2022.01]"
+  },
+  {
+    "code": "B01F 27/231",
+    "description": "••••con una orientación variable durante la operación de mezclado, p. ej. con eje de rotor inclinable [2022.01]"
+  },
+  {
+    "code": "B01F 27/232",
+    "description": "••••con dos o más ejes de rotación [2022.01]"
+  },
+  {
+    "code": "B01F 27/2322",
+    "description": "••••••con ejes paralelos [2022.01]"
+  },
+  {
+    "code": "B01F 27/2323",
+    "description": "••••••con ejes perpendiculares [2022.01]"
+  },
+  {
+    "code": "B01F 27/25",
+    "description": "••Mezcladores con el agitador y la unidad de accionamiento sumergidos en el material que se está mezclando [2022.01]"
+  },
+  {
+    "code": "B01F 27/27",
+    "description": "••Mezcladores con sistemas estator-rotor, p. ej. con dientes o cilindros entrelazados o con orificios (los agitadores con una entrada axial central y una salida sustancialmente radial B01F 27/81) [2022.01]"
+  },
+  {
+    "code": "B01F 27/271",
+    "description": "••••con medios para desplazar los materiales a mezclar radialmente entre las superficies del rotor y del estator [2022.01]"
+  },
+  {
+    "code": "B01F 27/272",
+    "description": "••••con medios para desplazar axialmente los materiales a mezclar entre las superficies del rotor y del estator, p. ej. el sistema rotor estator formado por superficies cónicas o cilíndricas [2022.01]"
+  },
+  {
+    "code": "B01F 27/40",
+    "description": "••Mezcladoras con sistema rotor-rotor, p. ej. con dientes entrelazados [2022.01]"
+  },
+  {
+    "code": "B01F 27/41",
+    "description": "••••con las superficies giratorias enfrentadas [2022.01]"
+  },
+  {
+    "code": "B01F 27/42",
+    "description": "••••con superficies giratorias contiguas, es decir, en ejes sustancialmente paralelos [2022.01]"
+  },
+  {
+    "code": "B01F 27/50",
+    "description": "••Mezcladores de tubo, es decir, mezcladores en los que los materiales a mezclar fluyen continuamente a través de tubos, p. ej. mezcladores de columna [2022.01]"
+  },
+  {
+    "code": "B01F 27/55",
+    "description": "••con agitadores accionados por el material en movimiento [2022.01]"
+  },
+  {
+    "code": "B01F 27/60",
+    "description": "••con agitadores que giran alrededor de un eje horizontal o inclinado [2022.01]"
+  },
+  {
+    "code": "B01F 27/61",
+    "description": "••••sobre un eje inclinado [2022.01]"
+  },
+  {
+    "code": "B01F 27/63",
+    "description": "••••con deflectores o deflectores fijados al recipiente [2022.01]"
+  },
+  {
+    "code": "B01F 27/65",
+    "description": "••••con cangilones [2022.01]"
+  },
+  {
+    "code": "B01F 27/70",
+    "description": "••••con palas, cuchillas o brazos [2022.01]"
+  },
+  {
+    "code": "B01F 27/701",
+    "description": "••••••con dos o más ejes, p. ej. en cámaras de mezcla consecutivas [2022.01]"
+  },
+  {
+    "code": "B01F 27/702",
+    "description": "••••••••con palas entrelazadas [2022.01]"
+  },
+  {
+    "code": "B01F 27/703",
+    "description": "••••••••con agitadores que giran a diferentes velocidades [2022.01]"
+  },
+  {
+    "code": "B01F 27/704",
+    "description": "••••••••con los agitadores enfrentados, es decir, apoyados en paredes opuestas del recipiente [2022.01]"
+  },
+  {
+    "code": "B01F 27/705",
+    "description": "••••••••con agitadores que giran en direcciones opuestas alrededor del mismo eje, p. ej. con un primer agitador rodeado por un tubo dentro de un segundo agitador [2022.01]"
+  },
+  {
+    "code": "B01F 27/706",
+    "description": "••••••••con todos los ejes en el mismo receptáculo (B01F 27/702-B01F 27/705 tienen prioridad) [2022.01]"
+  },
+  {
+    "code": "B01F 27/707",
+    "description": "••••••las palas cooperando, p. ej. entrelazándose, con elementos de la pared del receptáculo [2022.01]"
+  },
+  {
+    "code": "B01F 27/708",
+    "description": "••••••caracterizados por la forma del agitador en su conjunto, es decir, en forma de Z o de S [2022.01]"
+  },
+  {
+    "code": "B01F 27/71",
+    "description": "••••con hélices [2022.01]"
+  },
+  {
+    "code": "B01F 27/72",
+    "description": "••••con hélices o secciones de hélices [2022.01]"
+  },
+  {
+    "code": "B01F 27/721",
+    "description": "••••••con dos o más hélices en el mismo receptáculo [2022.01]"
+  },
+  {
+    "code": "B01F 27/722",
+    "description": "••••••••las hélices estrechamente rodeadas por una carcasa [2022.01]"
+  },
+  {
+    "code": "B01F 27/723",
+    "description": "••••••••las hélices se entrelazan para amasar la mezcla [2022.01]"
+  },
+  {
+    "code": "B01F 27/724",
+    "description": "••••••con una única hélice estrechamente rodeada por una carcasa [2022.01]"
+  },
+  {
+    "code": "B01F 27/726",
+    "description": "••••••con dos hélices de paso opuesto en el mismo eje; con dos hélices en el mismo eje, accionadas en direcciones opuestas o a diferentes velocidades [2022.01]"
+  },
+  {
+    "code": "B01F 27/73",
+    "description": "••••con discos giratorios [2022.01]"
+  },
+  {
+    "code": "B01F 27/74",
+    "description": "••••con cilindros rotativos [2022.01]"
+  },
+  {
+    "code": "B01F 27/75",
+    "description": "••••con agitadores de movimiento planetario, es decir, que giran alrededor de su propio eje y de un eje solar [2022.01]"
+  },
+  {
+    "code": "B01F 27/80",
+    "description": "••con agitadores que giran alrededor de un eje sustancialmente vertical [2022.01]"
+  },
+  {
+    "code": "B01F 27/805",
+    "description": "••••en el que los agitadores o los recipientes se mueven para ponerlos en posición operativa; Medios de fijación del recipiente [2022.01]"
+  },
+  {
+    "code": "B01F 27/806",
+    "description": "••••••con desplazamiento vertical del agitador, p. ej. en combinación con medios para girar el agitador alrededor de un eje vertical para cooperar con diferentes recipientes [2022.01]"
+  },
+  {
+    "code": "B01F 27/807",
+    "description": "••••••con el cabezal agitador pivotando alrededor de un eje horizontal para entrar y salir de la posición operativa, p. ej con rec.eptáculos pivotando alrededor de un eje horizontal para el vaciado [2022.01]"
+  },
+  {
+    "code": "B01F 27/808",
+    "description": "••••con agitadores accionados desde el fondo del recipiente [2022.01]"
+  },
+  {
+    "code": "B01F 27/81",
+    "description": "••••los agitadores tienen un flujo de entrada axial central y un flujo de salida sustancialmente radial [2022.01]"
+  },
+  {
+    "code": "B01F 27/82",
+    "description": "••••Mezcladores de tipo cacerola, es decir, mezcladores en los que los elementos de agitación se mueven a lo largo del fondo de un receptáculo en forma de cacerola (con elementos de agitación que se mueven a lo largo de la pared o del fondo del receptáculo B01F 27/091) [2022.01]"
+  },
+  {
+    "code": "B01F 27/83",
+    "description": "••••los agitadores se mueven adicionalmente de forma radial, u oscilan alrededor de un eje perpendicular al eje del agitador [2022.01]"
+  },
+  {
+    "code": "B01F 27/84",
+    "description": "••••con dos o más agitadores que giran a diferentes velocidades o en direcciones opuestas alrededor del mismo eje [2022.01]"
+  },
+  {
+    "code": "B01F 27/85",
+    "description": "••••con dos o más agitadores en ejes separados [2022.01]"
+  },
+  {
+    "code": "B01F 27/86",
+    "description": "••••que cooperan con los deflectores o separadores fijados en el receptáculo [2022.01]"
+  },
+  {
+    "code": "B01F 27/87",
+    "description": "••••el receptáculo está dividido en compartimentos superpuestos [2022.01]"
+  },
+  {
+    "code": "B01F 27/88",
+    "description": "••••con una unidad separada de receptáculo-agitador que está adaptada para ser acoplada a un mecanismo de accionamiento [2022.01]"
+  },
+  {
+    "code": "B01F 27/90",
+    "description": "••••con palas o brazos [2022.01]"
+  },
+  {
+    "code": "B01F 27/902",
+    "description": "••••••que cooperan con los elementos de interconexión fijados en las paredes del receptáculo [2022.01]"
+  },
+  {
+    "code": "B01F 27/906",
+    "description": "••••••con eje fijo [2022.01]"
+  },
+  {
+    "code": "B01F 27/91",
+    "description": "••••con hélices [2022.01]"
+  },
+  {
+    "code": "B01F 27/92",
+    "description": "••••con hélices o tornillos [2022.01]"
+  },
+  {
+    "code": "B01F 27/921",
+    "description": "••••••con hélices montadas en el centro del receptáculo [2022.01]"
+  },
+  {
+    "code": "B01F 27/9212",
+    "description": "••••••••con hélices cónicas [2022.01]"
+  },
+  {
+    "code": "B01F 27/922",
+    "description": "••••••con dos o más hélices, p. ej. con hélices entrelazadas [2022.01]"
+  },
+  {
+    "code": "B01F 27/93",
+    "description": "••••con discos giratorios [2022.01]"
+  },
+  {
+    "code": "B01F 27/94",
+    "description": "••••con cilindros o conos giratorios [2022.01]"
+  },
+  {
+    "code": "B01F 27/95",
+    "description": "••••con agitadores de movimiento planetario, es decir, que giran alrededor de su propio eje y de un eje solar [2022.01]"
+  },
+  {
+    "code": "B01F 27/952",
+    "description": "••••••siendo los mezcladores cilindros con su circunferencia en contacto con el fondo del recipiente y girando alrededor de un eje en ángulo con el eje solar, p. ej., mezcladores del tipo Muller [2022.01]"
+  },
+  {
+    "code": "B01F 27/96",
+    "description": "••••con marcos calados o jaulas [2022.01]"
+  },
+  {
+    "code": "B01F 29/00",
+    "description": "Mezcladores con receptáculos giratorios [2022.01]"
+  },
+  {
+    "code": "B01F 29/10",
+    "description": "••con receptáculos girados en torno a dos ejes diferentes, p. ej. receptáculos con movimiento planetario [2022.01]"
+  },
+  {
+    "code": "B01F 29/15",
+    "description": "••Uso de centrífugas para mezclar [2022.01]"
+  },
+  {
+    "code": "B01F 29/20",
+    "description": "••con recipientes que giran alrededor de un eje en ángulo con respecto a su eje longitudinal (B01F 29/62 tiene prioridad) [2022.01]"
+  },
+  {
+    "code": "B01F 29/25",
+    "description": "••con el material fluyendo continuamente a través de los receptáculos desde la entrada hasta la descarga [2022.01]"
+  },
+  {
+    "code": "B01F 29/30",
+    "description": "••Mezcla del contenido de los envases o contenedores individuales, p. ej. girando las latas o botellas [2022.01]"
+  },
+  {
+    "code": "B01F 29/31",
+    "description": "••••estando los contenedores apoyados en medios de accionamiento, p. ej. en rodillos giratorios [2022.01]"
+  },
+  {
+    "code": "B01F 29/32",
+    "description": "••••Contenedores especialmente adaptados para su acoplamiento a bastidores giratorios o similares; Medios de acoplamiento para los mismos [2022.01]"
+  },
+  {
+    "code": "B01F 29/321",
+    "description": "••••••de tubos de ensayo o similares [2022.01]"
+  },
+  {
+    "code": "B01F 29/322",
+    "description": "••••••de dos o más recipientes soportados para la mezcla simultánea, p. ej. para botellas en cajas [2022.01]"
+  },
+  {
+    "code": "B01F 29/33",
+    "description": "••••mediante la aplicación de una combinación de movimientos a dos o más recipientes [2022.01]"
+  },
+  {
+    "code": "B01F 29/34",
+    "description": "••••Detalles de construcción de los soportes para los envases o contenedores individuales [2022.01]"
+  },
+  {
+    "code": "B01F 29/60",
+    "description": "••que giran alrededor de un eje horizontal o inclinado, p. ej. mezcladores de tambor [2022.01]"
+  },
+  {
+    "code": "B01F 29/62",
+    "description": "••••sin barras, es decir, sin elementos de mezcla; caracterizado por la forma o la sección transversal del receptáculo, p. ej. en forma de Y, Z, S o X; con receptáculos cilíndricos que giran alrededor de un eje en ángulo con respecto a su eje longitudinal [2022.01]"
+  },
+  {
+    "code": "B01F 29/63",
+    "description": "••••con barras fijas, es decir, estacionarias, o fijas en el receptáculo [2022.01]"
+  },
+  {
+    "code": "B01F 29/64",
+    "description": "••••con dispositivos de agitación que se mueven en relación con el receptáculo, p. ej. girando [2022.01]"
+  },
+  {
+    "code": "B01F 29/80",
+    "description": "••girando alrededor de un eje sustancialmente vertical [2022.01]"
+  },
+  {
+    "code": "B01F 29/81",
+    "description": "••••con elementos de agitación estacionarios [2022.01]"
+  },
+  {
+    "code": "B01F 29/83",
+    "description": "••••con palas o brazos giratorios, p. ej. móviles fuera del receptáculo [2022.01]"
+  },
+  {
+    "code": "B01F 29/84",
+    "description": "••••con hélices [2022.01]"
+  },
+  {
+    "code": "B01F 29/85",
+    "description": "••••con hélices, p. ej. que giren en torno a un eje inclinado [2022.01]"
+  },
+  {
+    "code": "B01F 29/86",
+    "description": "••••con discos giratorios [2022.01]"
+  },
+  {
+    "code": "B01F 29/87",
+    "description": "••••con cilindros giratorios [2022.01]"
+  },
+  {
+    "code": "B01F 29/90",
+    "description": "••con agitadores con movimiento planetario [2022.01]"
+  },
+  {
+    "code": "B01F 31/00",
+    "description": "Mezcladores con mecanismos de agitación, oscilación o vibración [2022.01]"
+  },
+  {
+    "code": "B01F 31/10",
+    "description": "••con un receptáculo de mezcla que gira alternativamente en direcciones opuestas [2022.01]"
+  },
+  {
+    "code": "B01F 31/20",
+    "description": "••Mezcla de contenidos de recipientes independientes, p. ej. tubos de ensayo [2022.01]"
+  },
+  {
+    "code": "B01F 31/22",
+    "description": "••••con medios de soporte que se desplazan en un plano horizontal, p. ej.  describiendo una trayectoria orbital para desplazar los recipientes alrededor de un eje que interseca el eje del recipiente en un ángulo [2022.01]"
+  },
+  {
+    "code": "B01F 31/23",
+    "description": "••••haciendo pivotar los contenedores alrededor de un eje [2022.01]"
+  },
+  {
+    "code": "B01F 31/24",
+    "description": "••••estando los contenedores sometidos a un movimiento rectilíneo [2022.01]"
+  },
+  {
+    "code": "B01F 31/25",
+    "description": "••••estando los recipientes sometidos a una combinación de movimientos que no sean dentro de un plano horizontal, p. ej. movimiento rectilíneo y pivotante (con un recipiente sometido a una combinación de movimientos, es decir, que al menos un movimiento sea vibratorio u oscilatorio B01F 31/50) [2022.01]"
+  },
+  {
+    "code": "B01F 31/29",
+    "description": "••Mezcla mediante la deformación periódica de miembros tubulares flexibles a través de los cuales fluye el material [2022.01]"
+  },
+  {
+    "code": "B01F 31/30",
+    "description": "••que comprende un receptáculo al que sólo se le imparte el movimiento de agitación, oscilación o vibración [2022.01]"
+  },
+  {
+    "code": "B01F 31/31",
+    "description": "••••utilizando recipientes con partes deformables, p. ej. membranas, a las que se imparte un movimiento [2022.01]"
+  },
+  {
+    "code": "B01F 31/40",
+    "description": "••con un agitador rotatorio que oscila axialmente [2022.01]"
+  },
+  {
+    "code": "B01F 31/42",
+    "description": "••con agitadores pendulares, es decir, con agitadores suspendidos para que oscilen alrededor de puntos o ejes fijos [2022.01]"
+  },
+  {
+    "code": "B01F 31/44",
+    "description": "••con agitadores que realicen un movimiento oscilatorio, vibratorio o de agitación (B01F 31/40, B01F 31/42 tienen prioridad) [2022.01]"
+  },
+  {
+    "code": "B01F 31/441",
+    "description": "••••realizando un movimiento rectilíneo de vaivén [2022.01]"
+  },
+  {
+    "code": "B01F 31/445",
+    "description": "••••realizando un movimiento oscilante alrededor de un eje [2022.01]"
+  },
+  {
+    "code": "B01F 31/46",
+    "description": "••con una canaleta vibratoria anular [2022.01]"
+  },
+  {
+    "code": "B01F 31/50",
+    "description": "••con un receptáculo sometido a una combinación de movimientos, es decir, al menos un movimiento vibratorio u oscilatorio [2022.01]"
+  },
+  {
+    "code": "B01F 31/55",
+    "description": "••estando los materiales a mezclar contenidos en una bolsa flexible sometida a deformaciones periódicas [2022.01]"
+  },
+  {
+    "code": "B01F 31/60",
+    "description": "••con un receptáculo vibratorio (B01F 31/10, B01F 31/20, B01F 31/50 tienen prioridad) [2022.01]"
+  },
+  {
+    "code": "B01F 31/65",
+    "description": "••estando los materiales a mezclar sometidos directamente a un movimiento pulsante, p. ej. mediante un pistón oscilante o una columna de aire [2022.01]"
+  },
+  {
+    "code": "B01F 31/80",
+    "description": "••Mezcla mediante vibraciones de alta frecuencia superiores a 1 kHz, p. ej. vibraciones ultrasónicas [2022.01]"
+  },
+  {
+    "code": "B01F 31/81",
+    "description": "••••por vibraciones generadas en el interior de un dispositivo de mezcla que no proceden de un accionamiento externo, p. ej. por el flujo de material que hace vibrar una cuchilla o por boquillas vibratorias [2022.01]"
+  },
+  {
+    "code": "B01F 31/85",
+    "description": "••••con un elemento vibratorio dentro del receptáculo [2022.01]"
+  },
+  {
+    "code": "B01F 31/86",
+    "description": "••••con la vibración del receptáculo o de una parte del mismo [2022.01]"
+  },
+  {
+    "code": "B01F 31/87",
+    "description": "••••transmitiendo la energía vibratoria mediante un fluido, p. ej. mediante ondas de choque de aire [2022.01]"
+  },
+  {
+    "code": "B01F 33/00",
+    "description": "Otros mezcladores; Plantas mezcladoras; Combinaciones de mezcladoras [2022.01]"
+  },
+  {
+    "code": "B01F 33/05",
+    "description": "••Mezcladores que utilizan radiación, p. ej. campos magnéticos o microondas para mezclar el material (B01F 33/3031, B01F 33/3032 tienen prioridad) [2022.01]"
+  },
+  {
+    "code": "B01F 33/12",
+    "description": "••Mezcladores en los que la mezcla de los componentes se realiza por convección natural [2022.01]"
+  },
+  {
+    "code": "B01F 33/25",
+    "description": "••Mezcladores con elementos de mezcla sueltos, p. ej. bolas sueltas en un recipiente [2022.01]"
+  },
+  {
+    "code": "B01F 33/30",
+    "description": "••Micromezcladores [2022.01]"
+  },
+  {
+    "code": "B01F 33/301",
+    "description": "••••que utilizan medios específicos para la disposición de los flujos que se van a mezclar, p. ej. geometrías o disposiciones de los canales [2022.01]"
+  },
+  {
+    "code": "B01F 33/3011",
+    "description": "••••••que utilizan una corriente de revestimiento de un fluido que rodea una corriente central de un fluido diferente, p. ej. para reducir la sección transversal de la corriente central o para producir gotas de la corriente central [2022.01]"
+  },
+  {
+    "code": "B01F 33/3012",
+    "description": "••••••Corrientes interdigitales, p. ej. láminas [2022.01]"
+  },
+  {
+    "code": "B01F 33/302",
+    "description": "••••en los que los materiales a mezclar fluyen en forma de gotas [2022.01]"
+  },
+  {
+    "code": "B01F 33/3031",
+    "description": "••••que utilizan fenómenos electro-hidrodinámicos [EHD] o electro-cinéticos [EKI] para mezclar o mover los fluidos [2022.01]"
+  },
+  {
+    "code": "B01F 33/3032",
+    "description": "••••que utilizan fenómenos magneto-hidrodinámicos [MHD] para mezclar o mover los fluidos [2022.01]"
+  },
+  {
+    "code": "B01F 33/3033",
+    "description": "••••que utilizan el calor para mezclar o mover los fluidos [2022.01]"
+  },
+  {
+    "code": "B01F 33/3039",
+    "description": "••••con la mezcla conseguida por difusión entre capas [2022.01]"
+  },
+  {
+    "code": "B01F 33/35",
+    "description": "••Mezcla después de dar la vuelta al recipiente de mezclado [2022.01]"
+  },
+  {
+    "code": "B01F 33/40",
+    "description": "••Mezcladores con agitación de gases o líquidos, p. ej. con tubos de suministro de aire [2022.01]"
+  },
+  {
+    "code": "B01F 33/45",
+    "description": "••Mezcladores magnéticos; Mezcladores con agitadores accionados magnéticamente [2022.01]"
+  },
+  {
+    "code": "B01F 33/451",
+    "description": "••••en los que la mezcla se expone directamente a un campo electromagnético sin utilizar un agitador, p. ej. para el material que comprende partículas ferromagnéticas o para el metal fundido [2022.01]"
+  },
+  {
+    "code": "B01F 33/452",
+    "description": "••••que utilizan elementos de agitación flotantes independientes [2022.01]"
+  },
+  {
+    "code": "B01F 33/453",
+    "description": "••••que utilizan elementos de agitación apoyados o suspendidos [2022.01]"
+  },
+  {
+    "code": "B01F 33/50",
+    "description": "••Dispositivos o instalaciones de mezcla móviles o transportables [2022.01]"
+  },
+  {
+    "code": "B01F 33/501",
+    "description": "••••Dispositivos de mezcla móviles, es decir, que se pueden mover o desplazar fácilmente de un lugar a otro, p. ej. portátiles durante su uso [2022.01]"
+  },
+  {
+    "code": "B01F 33/502",
+    "description": "••••Dispositivos de mezcla montados en vehículos [2022.01]"
+  },
+  {
+    "code": "B01F 33/503",
+    "description": "••••Dispositivos de mezcla flotantes [2022.01]"
+  },
+  {
+    "code": "B01F 33/70",
+    "description": "••Mezcladores especialmente adaptados para trabajar a presión subatmosférica o superatmosférica, p. ej. combinados con antiespumantes [2022.01]"
+  },
+  {
+    "code": "B01F 33/71",
+    "description": "••••que trabajan a una presión superatmosférica, p. ej. en recipientes presurizados [2022.01]"
+  },
+  {
+    "code": "B01F 33/80",
+    "description": "••Plantas mezcladoras; Combinaciones de mezcladoras [2022.01]"
+  },
+  {
+    "code": "B01F 33/81",
+    "description": "••••Combinaciones de mezcladores similares, p. ej. con dispositivos de agitación rotativa en dos o más receptáculos [2022.01]"
+  },
+  {
+    "code": "B01F 33/82",
+    "description": "••••Combinaciones de mezcladores diferentes [2022.01]"
+  },
+  {
+    "code": "B01F 33/83",
+    "description": "••••Instalaciones de mezcla especialmente adaptadas para mezclar en combinación con operaciones de desintegración [2022.01]"
+  },
+  {
+    "code": "B01F 33/84",
+    "description": "••••Instalaciones de mezcla con recipientes de mezcla que reciben material dispensado de varios recipientes de componentes, p. ej.  latas de pintura [2022.01]"
+  },
+  {
+    "code": "B01F 33/841",
+    "description": "••••••con receptáculos de componentes fijados en una configuración circular en una mesa horizontal, p. ej. la mesa puede ser indexada alrededor de un eje vertical [2022.01]"
+  },
+  {
+    "code": "B01F 33/85",
+    "description": "••••Instalaciones de mezcla con receptáculos de mezcla o herramientas de mezcla que pueden ser indexadas en diferentes posiciones de trabajo [2022.01]"
+  },
+  {
+    "code": "B01F 33/87",
+    "description": "••Mezcladoras de rodillos [2022.01]"
+  },
+  {
+    "code": "B01F 35/00",
+    "description": "Accesorios para mezcladoras; Operaciones auxiliares o dispositivos auxiliares; Partes o detalles de aplicación general [2022.01]"
+  },
+  {
+    "code": "B01F 35/10",
+    "description": "••Mantenimiento de las mezcladoras [2022.01]"
+  },
+  {
+    "code": "B01F 35/11",
+    "description": "••••utilizando fluidos [2022.01]"
+  },
+  {
+    "code": "B01F 35/12",
+    "description": "••••utilizando medios mecánicos [2022.01]"
+  },
+  {
+    "code": "B01F 35/13",
+    "description": "••••utilizando uno o varios de los componentes de la mezcla para lavar el mezclador [2022.01]"
+  },
+  {
+    "code": "B01F 35/20",
+    "description": "••Medición; Control o regulación [2022.01]"
+  },
+  {
+    "code": "B01F 35/21",
+    "description": "••••Medida [2022.01]"
+  },
+  {
+    "code": "B01F 35/212",
+    "description": "••••••de datos del sistema de transmisión, p. ej. datos del par, velocidad o potencia [2022.01]"
+  },
+  {
+    "code": "B01F 35/213",
+    "description": "••••••de las propiedades de las mezclas, p. ej. la temperatura, la densidad o el color [2022.01]"
+  },
+  {
+    "code": "B01F 35/214",
+    "description": "••••••caracterizada por los medios de medición [2022.01]"
+  },
+  {
+    "code": "B01F 35/22",
+    "description": "••••Control o regulación [2022.01]"
+  },
+  {
+    "code": "B01F 35/221",
+    "description": "••••••de los parámetros operativos, p. ej. el nivel de material en la mezcladora, la temperatura o la presión [2022.01]"
+  },
+  {
+    "code": "B01F 35/222",
+    "description": "••••••del funcionamiento del sistema de accionamiento, p. ej. el par, la velocidad o la potencia de los motores; de la posición de los dispositivos o elementos de mezcla [2022.01]"
+  },
+  {
+    "code": "B01F 35/30",
+    "description": "••Disposiciones de conducción; Transmisiones; Acoplamientos; Frenos [2022.01]"
+  },
+  {
+    "code": "B01F 35/31",
+    "description": "••••Acoplamientos [2022.01]"
+  },
+  {
+    "code": "B01F 35/32",
+    "description": "••••Disposiciones para la conducción [2022.01]"
+  },
+  {
+    "code": "B01F 35/33",
+    "description": "••••Transmisiones; Medios para modificar la velocidad o el sentido de giro [2022.01]"
+  },
+  {
+    "code": "B01F 35/40",
+    "description": "••Montaje o soporte de los dispositivos de mezcla o de los recipientes; Dispositivos de sujeción o de retención de los mismos [2022.01]"
+  },
+  {
+    "code": "B01F 35/41",
+    "description": "••••Montaje o soporte de ejes agitadores o unidades agitadoras en receptáculos [2022.01]"
+  },
+  {
+    "code": "B01F 35/42",
+    "description": "••••Disposiciones de fijación o sujeción para el montaje de receptáculos en dispositivos de mezcla [2022.01]"
+  },
+  {
+    "code": "B01F 35/43",
+    "description": "••••Apoyando los receptáculos en marcos o soportes [2022.01]"
+  },
+  {
+    "code": "B01F 35/45",
+    "description": "••Cierres o puertas especialmente adaptados para recipientes de mezcla; mecanismos de funcionamiento de los mismos [2022.01]"
+  },
+  {
+    "code": "B01F 35/50",
+    "description": "••Recipientes de mezcla [2022.01]"
+  },
+  {
+    "code": "B01F 35/51",
+    "description": "••••caracterizados por su material [2022.01]"
+  },
+  {
+    "code": "B01F 35/511",
+    "description": "••••con revestimientos, p. ej.  resistentes al desgaste o flexibles [2022.01]"
+  },
+  {
+    "code": "B01F 35/512",
+    "description": "••••caracterizados por las propiedades de la superficie, p. ej. revestida o rugosa [2022.01]"
+  },
+  {
+    "code": "B01F 35/513",
+    "description": "••••Recipientes flexibles, p. ej.  bolsas apoyadas en contenedores rígidos [2022.01]"
+  },
+  {
+    "code": "B01F 35/52",
+    "description": "••••Recipientes con dos o más compartimentos [2022.01]"
+  },
+  {
+    "code": "B01F 35/53",
+    "description": "••••caracterizados por la configuración del interior, p. ej. deflectores para facilitar la mezcla de los componentes [2022.01]"
+  },
+  {
+    "code": "B01F 35/60",
+    "description": "••Disposiciones de seguridad [2022.01]"
+  },
+  {
+    "code": "B01F 35/71",
+    "description": "••Mecanismos de alimentación (con dosificación B01F 35/80) [2022.01]"
+  },
+  {
+    "code": "B01F 35/75",
+    "description": "••Mecanismos de descarga [2022.01]"
+  },
+  {
+    "code": "B01F 35/80",
+    "description": "••Formación de una relación predeterminada de las sustancias a mezclar (control de la relación de dos o más flujos de fluido o material fluido G05D 11/02) [2022.01]"
+  },
+  {
+    "code": "B01F 35/81",
+    "description": "••••Formación de mezclas con proporciones o gradientes cambiantes [2022.01]"
+  },
+  {
+    "code": "B01F 35/82",
+    "description": "••••añadiendo un material a mezclar a una mezcla en respuesta a una característica detectada, p. ej. densidad, radiactividad, potencia consumida o color [2022.01]"
+  },
+  {
+    "code": "B01F 35/83",
+    "description": "••••controlando la relación de dos o más flujos, p. ej. utilizando dispositivos de detección o control de flujo [2022.01]"
+  },
+  {
+    "code": "B01F 35/88",
+    "description": "••••alimentando los materiales por lotes [2022.01]"
+  },
+  {
+    "code": "B01F 35/90",
+    "description": "••Sistemas de calefacción o refrigeración [2022.01]"
+  },
+  {
+    "code": "B01F 35/91",
+    "description": "••••utilizando gas o líquido inyectado en el material, p. ej. utilizando dióxido de carbono licuado o vapor [2022.01]"
+  },
+  {
+    "code": "B01F 35/92",
+    "description": "••••para calentar el exterior del recipiente, p. ej. chaquetas o quemadores calefactados [2022.01]"
+  },
+  {
+    "code": "B01F 35/93",
+    "description": "••••dispuestos en el interior del recipiente [2022.01]"
+  },
+  {
+    "code": "B01F 35/94",
+    "description": "••••mediante radiaciones, p. ej.  microondas o radiaciones electromagnéticas [2022.01]"
+  },
+  {
+    "code": "B01F 35/95",
+    "description": "••••mediante agitadores calentados o refrigerados [2022.01]"
+  },
+  {
+    "code": "B01F 101/00",
+    "description": "Mezcla caracterizada por la naturaleza de los materiales mezclados o por el campo de aplicación [2022.01]"
+  },
+  {
+    "code": "B01F 101/02",
+    "description": "••Mezcla o agitación durante la cosecha o la siega, p. ej. mezcla con productos cosechados sólidos o partículas [2022.01]"
+  },
+  {
+    "code": "B01F 101/04",
+    "description": "••Mezcla de ingredientes biocidas, plaguicidas o herbicidas utilizados en la agricultura o la horticultura, p. ej. para la pulverización [2022.01]"
+  },
+  {
+    "code": "B01F 101/06",
+    "description": "••Mezcla de ingredientes alimentarios [2022.01]"
+  },
+  {
+    "code": "B01F 101/07",
+    "description": "••••Mezcla de ingredientes en la leche o la nata, p. ej. para airear [2022.01]"
+  },
+  {
+    "code": "B01F 101/08",
+    "description": "••••Mezcla de masas [2022.01]"
+  },
+  {
+    "code": "B01F 101/09",
+    "description": "••••Mezcla de materiales de cereales, granos o semillas [2022.01]"
+  },
+  {
+    "code": "B01F 101/10",
+    "description": "••••Mezcla de ingredientes de mantequilla o margarina [2022.01]"
+  },
+  {
+    "code": "B01F 101/11",
+    "description": "••••Mezcla de ingredientes de queso [2022.01]"
+  },
+  {
+    "code": "B01F 101/12",
+    "description": "••••Mezcla de ingredientes de chocolate [2022.01]"
+  },
+  {
+    "code": "B01F 101/13",
+    "description": "••••Mezcla de ingredientes para helados [2022.01]"
+  },
+  {
+    "code": "B01F 101/14",
+    "description": "••••Mezcla de ingredientes para bebidas no alcohólicas; Disolución de azúcar en agua [2022.01]"
+  },
+  {
+    "code": "B01F 101/15",
+    "description": "••••Mezcla de ingredientes de cerveza [2022.01]"
+  },
+  {
+    "code": "B01F 101/16",
+    "description": "••••Mezcla de vino u otras bebidas alcohólicas; Mezcla de sus ingredientes [2022.01]"
+  },
+  {
+    "code": "B01F 101/17",
+    "description": "••••••Aireación del vino [2022.01]"
+  },
+  {
+    "code": "B01F 101/18",
+    "description": "••••Mezcla de ingredientes de alimentos para animales [2022.01]"
+  },
+  {
+    "code": "B01F 101/19",
+    "description": "••Mezcla de composiciones odontológicas [2022.01]"
+  },
+  {
+    "code": "B01F 101/20",
+    "description": "••Mezcla de ingredientes para cemento óseo [2022.01]"
+  },
+  {
+    "code": "B01F 101/21",
+    "description": "••Mezcla de ingredientes para composiciones cosméticas o de perfumería [2022.01]"
+  },
+  {
+    "code": "B01F 101/22",
+    "description": "••Mezcla de ingredientes para composiciones farmacéuticas o médicas [2022.01]"
+  },
+  {
+    "code": "B01F 101/23",
+    "description": "••Mezcla de muestras de laboratorio, p. ej. para preparar el análisis o la prueba de las propiedades de los materiales [2022.01]"
+  },
+  {
+    "code": "B01F 101/24",
+    "description": "••Mezcla de ingredientes para composiciones de limpieza [2022.01]"
+  },
+  {
+    "code": "B01F 101/25",
+    "description": "••Mezcla de residuos con otros ingredientes [2022.01]"
+  },
+  {
+    "code": "B01F 101/26",
+    "description": "••Mezcla de ingredientes para la fundición de metales [2022.01]"
+  },
+  {
+    "code": "B01F 101/27",
+    "description": "••Mezcla de ingredientes para esmerilar, pulir o lapear materiales [2022.01]"
+  },
+  {
+    "code": "B01F 101/28",
+    "description": "••Mezcla de ingredientes de cemento, mortero, arcilla, yeso u hormigón [2022.01]"
+  },
+  {
+    "code": "B01F 101/30",
+    "description": "••Mezcla de pinturas o ingredientes de pinturas, p. ej.  pigmentos, tintes, colores, lacas o esmaltes [2022.01]"
+  },
+  {
+    "code": "B01F 101/32",
+    "description": "••Mezcla de ingredientes de fertilizantes [2022.01]"
+  },
+  {
+    "code": "B01F 101/33",
+    "description": "••••Mezcla de ingredientes de compost o residuos orgánicos [2022.01]"
+  },
+  {
+    "code": "B01F 101/34",
+    "description": "••Mezcla de combustible y prill, es decir, agua u otros fluidos mezclados con explosivos sólidos, para obtener emulsiones o lodos de combustible explosivo líquido [2022.01]"
+  },
+  {
+    "code": "B01F 101/35",
+    "description": "••Mezcla de tintas o tóneres [2022.01]"
+  },
+  {
+    "code": "B01F 101/36",
+    "description": "••Mezcla de ingredientes para adhesivos o colas; Mezcla de adhesivos y gas [2022.01]"
+  },
+  {
+    "code": "B01F 101/38",
+    "description": "••Mezcla de asfalto, betún, alquitrán o brea o sus ingredientes [2022.01]"
+  },
+  {
+    "code": "B01F 101/39",
+    "description": "••Mezcla de ingredientes para grasas o composiciones lubricantes [2022.01]"
+  },
+  {
+    "code": "B01F 101/40",
+    "description": "••Mezcla de ingredientes para aceites, grasas o ceras [2022.01]"
+  },
+  {
+    "code": "B01F 101/44",
+    "description": "••Mezcla de ingredientes para microbiología, enzimología, cultivo in vitro o manipulación genética [2022.01]"
+  },
+  {
+    "code": "B01F 101/45",
+    "description": "••Mezcla en procesos metalúrgicos de materiales ferrosos o no ferrosos [2022.01]"
+  },
+  {
+    "code": "B01F 101/47",
+    "description": "••Mezcla de ingredientes para fabricar pasta de papel, p. ej. fibras de madera o pasta de madera [2022.01]"
+  },
+  {
+    "code": "B01F 101/48",
+    "description": "••Mezcla del agua de los grifos con otros ingredientes, p. ej. aire, detergentes o desinfectantes [2022.01]"
+  },
+  {
+    "code": "B01F 101/49",
+    "description": "••Mezcla de material perforado o de ingredientes para composiciones de perforación de pozos, perforación de tierras o perforación profunda con líquidos para obtener lodos [2022.01]"
+  },
+  {
+    "code": "B01F 101/50",
+    "description": "••Mezcla de ingredientes mineros y líquidos para obtener lodos [2022.01]"
+  },
+  {
+    "code": "B01F 101/54",
+    "description": "••Mezcla de fragancias líquidas con aire [2022.01]"
+  },
+  {
+    "code": "B01F 101/55",
+    "description": "••Mezcla de humidificadores líquidos con aire [2022.01]"
+  },
+  {
+    "code": "B01F 101/56",
+    "description": "••Mezcla de productos químicos fotosensibles o materiales de base fotográfica [2022.01]"
+  },
+  {
+    "code": "B01F 101/57",
+    "description": "••Mezcla de materiales radiactivos, p. ej. materiales nucleares [2022.01]"
+  },
+  {
+    "code": "B01F 101/58",
+    "description": "••Mezcla de materiales semiconductores, p. ej.  durante los procesos de fabricación de semiconductores u obleas [2022.01]"
+  },
+  {
+    "code": "B01F 101/59",
+    "description": "••Mezcla de ingredientes de reacción para pilas de combustible [2022.01]"
+  }
+]

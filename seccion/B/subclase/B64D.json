@@ -1,0 +1,718 @@
+[
+  {
+    "code": "B64D 1/00",
+    "description": "Lanzamiento, eyección, soltado o recepción de objetos, líquidos o similares, durante el vuelo (en lo que respecta a miras para armamento, F41G tiene prioridad; paracaídas B64D 17/00; asientos eyectables B64D 25/10; cápsulas eyectables B64D 25/12; repostado de combustible en vuelo B64D 39/00; aparatos de lanzamiento para proyectiles o para misiles F41F 1/00, F41F 7/00; lanzadores de cohetes o torpedos F41F 3/00) [2006.01]"
+  },
+  {
+    "code": "B64D 1/02",
+    "description": "••Lanzamiento, eyección o soltado de objetos (depósitos de combustible eyectables B64D 37/12) [2006.01]"
+  },
+  {
+    "code": "B64D 1/04",
+    "description": "••••siendo los objetos explosivos, p. ej. bombas (armado o graduación de espoletas de bombas F42C) [2006.01]"
+  },
+  {
+    "code": "B64D 1/06",
+    "description": "••••••Lanzado de bombas; Trampillas de bombas [2006.01]"
+  },
+  {
+    "code": "B64D 1/08",
+    "description": "••••siendo los objetos dispositivos portacargas [2006.01]"
+  },
+  {
+    "code": "B64D 1/10",
+    "description": "••••••Disposiciones de alojamiento en la aeronave para los dispositivos [2006.01]"
+  },
+  {
+    "code": "B64D 1/12",
+    "description": "••••••Soltado [2006.01]"
+  },
+  {
+    "code": "B64D 1/14",
+    "description": "••••••Amortiguación de las sacudidas en el aterrizaje [2006.01]"
+  },
+  {
+    "code": "B64D 1/16",
+    "description": "••Lanzamiento o soltado de material en polvo, líquido o gaseoso, p. ej. para la lucha contra incendios (lanzamiento de combustible B64D 37/26) [2006.01]"
+  },
+  {
+    "code": "B64D 1/18",
+    "description": "••••mediante atomización, p. ej. insecticidas (aparatos de atomización en general B05B) [2006.01]"
+  },
+  {
+    "code": "B64D 1/20",
+    "description": "••••para escribir en el cielo [2006.01]"
+  },
+  {
+    "code": "B64D 1/22",
+    "description": "••Recogida de objetos de la superficie terrestre [2006.01]"
+  },
+  {
+    "code": "B64D 3/00",
+    "description": "Adaptaciones de aeronaves para poder remolcar o ser remolcadas (B64D 39/00 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B64D 3/02",
+    "description": "••para el remolcado de blancos (blancos remolcados en sí\n\t\t\t\t\t\t\t\t\t\tF41J) [2006.01]"
+  },
+  {
+    "code": "B64D 5/00",
+    "description": "Aeronaves transportadas por aeronaves, p. ej. para ser lanzadas o recogidas en vuelo (conjuntos volantes formados por aeronaves independientes B64C 37/02) [2006.01]"
+  },
+  {
+    "code": "B64D 7/00",
+    "description": "Disposición de equipamiento militar en aeronaves, p. ej. de armamento, accesorios de armamento o blindajes militares; Adaptaciones de instalaciones de armamento para aeronaves (lanzamiento de bombas o similares B64D 1/00; armamento o sus instalaciones en sí\n\t\t\t\t\t\t\t\t\tF41) [2006.01]"
+  },
+  {
+    "code": "B64D 7/02",
+    "description": "••siendo el armamento armas de fuego [2006.01]"
+  },
+  {
+    "code": "B64D 7/04",
+    "description": "••••de montaje fijo [2006.01]"
+  },
+  {
+    "code": "B64D 7/06",
+    "description": "••••de montaje móvil [2006.01]"
+  },
+  {
+    "code": "B64D 7/08",
+    "description": "••Disposición de lanzacohetes (lanzacohetes en sí, p. ej. barquillas lanzacohetes, F41F 3/06) [2006.01]"
+  },
+  {
+    "code": "B64D 9/00",
+    "description": "Equipamiento para la manipulación de la carga; Equipamiento para facilitar el embarque de pasajeros o similar (equipamiento de emergencia B64D 17/00, B64D 19/00, B64D 25/00; estructuras integrales al fuselaje para facilitar la carga, suelos de fuselaje especialmente adaptados para carga, escaleras montadas en aeronaves y retráctiles hacia su interior B64C; instalaciones en tierra B64F) [2006.01]"
+  },
+  {
+    "code": "B64D 10/00",
+    "description": "Ropa de vuelo (cascos en general A42B 3/00; cascos respiratorios A62B 18/00) [2006.01]"
+  },
+  {
+    "code": "B64D 11/00",
+    "description": "Acomodo de tripulación o pasajeros; Instalaciones de cabina de vuelo no previstas en otro lugar [2006.01]"
+  },
+  {
+    "code": "B64D 11/02",
+    "description": "••Instalaciones de sanitarios (de aplicación general A47K) [2006.01]"
+  },
+  {
+    "code": "B64D 11/04",
+    "description": "••Cocinas de a bordo [2006.01]"
+  },
+  {
+    "code": "B64D 11/06",
+    "description": "••Disposiciones o adaptaciones de asientos (estructura de asientos para casos de emergencias B64D 25/04) [2006.01]"
+  },
+  {
+    "code": "B64D 13/00",
+    "description": "Disposiciones o adaptaciones de aparatos de tratamiento de aire para la tripulación o pasajeros de aeronaves, o para la zona de carga (salas de tratamiento con climatización artificial para fines médicos A61G 10/02; aparatos respiratorios en general A62B; para vehículos en general B60H) [2006.01]"
+  },
+  {
+    "code": "B64D 13/02",
+    "description": "••estando el aire presurizado [2006.01]"
+  },
+  {
+    "code": "B64D 13/04",
+    "description": "••••Control automático de presión [2006.01]"
+  },
+  {
+    "code": "B64D 13/06",
+    "description": "••estando el aire acondicionado (presurización B64D 13/02) [2006.01]"
+  },
+  {
+    "code": "B64D 13/08",
+    "description": "••••siendo el aire calentado o enfriado [2006.01]"
+  },
+  {
+    "code": "B64D 15/00",
+    "description": "Descongelación o prevención de la formación de hielo en las superficies externas de aeronaves (vehículos a motor especialmente adaptados para el transporte de equipamiento de deshielo B60P) [2006.01]"
+  },
+  {
+    "code": "B64D 15/02",
+    "description": "••mediante líquido o gas caliente canalizado [2006.01]"
+  },
+  {
+    "code": "B64D 15/04",
+    "description": "••••Aplicación de gas caliente [2006.01]"
+  },
+  {
+    "code": "B64D 15/06",
+    "description": "••••Aplicación de líquido (en general B05) [2006.01]"
+  },
+  {
+    "code": "B64D 15/08",
+    "description": "••••••exudado desde la superficie [2006.01]"
+  },
+  {
+    "code": "B64D 15/10",
+    "description": "••••••atomizado sobre la superficie [2006.01]"
+  },
+  {
+    "code": "B64D 15/12",
+    "description": "••mediante calefacción eléctrica (H05B 3/84 tiene prioridad; elementos de calefacción eléctrica en general H05B) [2006.01]"
+  },
+  {
+    "code": "B64D 15/14",
+    "description": "••••controlado cíclicamente a lo largo de la longitud de la superficie [2006.01]"
+  },
+  {
+    "code": "B64D 15/16",
+    "description": "••mediante medios mecánicos, p. ej. esteras o zapatas vibrantes fijadas o integradas en la superficie [2006.01]"
+  },
+  {
+    "code": "B64D 15/18",
+    "description": "••••siendo la superficie un perfil de ala, un rotor o una hélice [2006.01]"
+  },
+  {
+    "code": "B64D 15/20",
+    "description": "••Medios para detectar la formación de hielo o para iniciar la descongelación [2006.01]"
+  },
+  {
+    "code": "B64D 15/22",
+    "description": "••••Iniciación automática mediante detector de hielo [2006.01]"
+  },
+  {
+    "code": "B64D 17/00",
+    "description": "Paracaídas (paracaídas sin campana B64D 19/00) [2006.01]"
+  },
+  {
+    "code": "B64D 17/02",
+    "description": "••Disposición o estructura de la campana [2006.01]"
+  },
+  {
+    "code": "B64D 17/04",
+    "description": "••••formada por dos o más campanas dispuestas alrededor de un eje común [2006.01]"
+  },
+  {
+    "code": "B64D 17/06",
+    "description": "••••formada por dos o más campanas dispuestas en racimo [2006.01]"
+  },
+  {
+    "code": "B64D 17/08",
+    "description": "••••Campanas secundarias o amortiguadoras fijadas a la cuerda de carga [2006.01]"
+  },
+  {
+    "code": "B64D 17/10",
+    "description": "••••De construcción a base de cintas o similares [2006.01]"
+  },
+  {
+    "code": "B64D 17/12",
+    "description": "••••construida de forma que presente una porosidad variable o no uniforme sobre la superficie de la campana [2006.01]"
+  },
+  {
+    "code": "B64D 17/14",
+    "description": "••••con faldones o paneles deflectores de aire [2006.01]"
+  },
+  {
+    "code": "B64D 17/16",
+    "description": "••••••fijados al borde libre de la campana principal [2006.01]"
+  },
+  {
+    "code": "B64D 17/18",
+    "description": "••••Disposición o estructura de la chimenea [2006.01]"
+  },
+  {
+    "code": "B64D 17/20",
+    "description": "••••••de superficie variable [2006.01]"
+  },
+  {
+    "code": "B64D 17/22",
+    "description": "••Suspensión de la carga [2006.01]"
+  },
+  {
+    "code": "B64D 17/24",
+    "description": "••••Cuerdas de suspensión [2006.01]"
+  },
+  {
+    "code": "B64D 17/26",
+    "description": "••••••fijadas al borde libre de la campana [2006.01]"
+  },
+  {
+    "code": "B64D 17/28",
+    "description": "••••••fijadas a la cúspide de la campana [2006.01]"
+  },
+  {
+    "code": "B64D 17/30",
+    "description": "••••Arneses [2006.01]"
+  },
+  {
+    "code": "B64D 17/32",
+    "description": "••••••Estructura de mochilas de desenganche rápido [2006.01]"
+  },
+  {
+    "code": "B64D 17/34",
+    "description": "••••adaptada para controlar la dirección o la velocidad de descenso [2006.01]"
+  },
+  {
+    "code": "B64D 17/36",
+    "description": "••••que incorporan dispositivos de fricción o conexiones frangibles para reducir la carga durante la apertura de la campana [2006.01]"
+  },
+  {
+    "code": "B64D 17/38",
+    "description": "••••Dispositivos desenganchables de fijación entre el paracaídas y la carga o mochila [2006.01]"
+  },
+  {
+    "code": "B64D 17/40",
+    "description": "••Mochilas [2006.01]"
+  },
+  {
+    "code": "B64D 17/42",
+    "description": "••••rígidas [2006.01]"
+  },
+  {
+    "code": "B64D 17/44",
+    "description": "••••••que forman parte de la carga [2006.01]"
+  },
+  {
+    "code": "B64D 17/46",
+    "description": "••••Medios de cierre [2006.01]"
+  },
+  {
+    "code": "B64D 17/48",
+    "description": "••••con mochila independiente para el extractor del paracaídas auxiliar [2006.01]"
+  },
+  {
+    "code": "B64D 17/50",
+    "description": "••••formadas con compartimientos independientes para la campana principal, las cuerdas de suspensión o el paracaídas auxiliar [2006.01]"
+  },
+  {
+    "code": "B64D 17/52",
+    "description": "••••Apertura, p. ej. manual [2006.01]"
+  },
+  {
+    "code": "B64D 17/54",
+    "description": "••••••automática [2006.01]"
+  },
+  {
+    "code": "B64D 17/56",
+    "description": "••••••••que responde a la presión barométrica [2006.01]"
+  },
+  {
+    "code": "B64D 17/58",
+    "description": "••••••••que responde a un mecanismo de retardo [2006.01]"
+  },
+  {
+    "code": "B64D 17/60",
+    "description": "••••••••mediante línea estática [2006.01]"
+  },
+  {
+    "code": "B64D 17/62",
+    "description": "••Despliegue [2006.01]"
+  },
+  {
+    "code": "B64D 17/64",
+    "description": "••••mediante paracaídas extractor [2006.01]"
+  },
+  {
+    "code": "B64D 17/66",
+    "description": "••••••fijado al borde libre de la campana principal [2006.01]"
+  },
+  {
+    "code": "B64D 17/68",
+    "description": "••••••fijado a la cúspide de la campana principal [2006.01]"
+  },
+  {
+    "code": "B64D 17/70",
+    "description": "••••mediante resortes [2006.01]"
+  },
+  {
+    "code": "B64D 17/72",
+    "description": "••••mediante medios explosivos o hinchables (conexión de válvulas a cuerpos elásticos hinchables B60C 29/00) [2006.01]"
+  },
+  {
+    "code": "B64D 17/74",
+    "description": "••••Despliegue secuencial de una pluralidad de campanas [2006.01]"
+  },
+  {
+    "code": "B64D 17/76",
+    "description": "••••facilitado por el método de plegado o empacado [2006.01]"
+  },
+  {
+    "code": "B64D 17/78",
+    "description": "••asociados con otros aparatos de retardo de carga [2006.01]"
+  },
+  {
+    "code": "B64D 17/80",
+    "description": "••asociados con aeronaves, p. ej. para el frenado [2006.01]"
+  },
+  {
+    "code": "B64D 19/00",
+    "description": "Paracaídas sin campana [2006.01]"
+  },
+  {
+    "code": "B64D 19/02",
+    "description": "••Paracaídas de ala giratoria [2006.01]"
+  },
+  {
+    "code": "B64D 21/00",
+    "description": "Ensayo de paracaídas [2006.01]"
+  },
+  {
+    "code": "B64D 23/00",
+    "description": "Entrenamiento de paracaidistas [2006.01]"
+  },
+  {
+    "code": "B64D 25/00",
+    "description": "Aparatos o dispositivos de emergencia, no previstos en otro lugar (paracaídas B64D 17/00, B64D 19/00; lanzamiento de combustible o de depósitos de combustible B64D 37/00; cinturones de seguridad o arneses corporales en general A62B 35/00; cinturones de seguridad o arneses corporales para vehículos terrestres B60R 22/00; elementos de fuselaje separables o lanzables que facilitan la evacuación de emergencia B64C) [2006.01]"
+  },
+  {
+    "code": "B64D 25/02",
+    "description": "••Medios de soporte o sujeción de cuerpos vivos (para asientos eyectables B64D 25/115) [2006.01]"
+  },
+  {
+    "code": "B64D 25/04",
+    "description": "••••Modificaciones de asientos [2006.01]"
+  },
+  {
+    "code": "B64D 25/06",
+    "description": "••••Arneses [2006.01]"
+  },
+  {
+    "code": "B64D 25/08",
+    "description": "••Medios de eyección o evacuación (escotillas de evacuación B64C) [2006.01]"
+  },
+  {
+    "code": "B64D 25/10",
+    "description": "••••Asientos eyectables [2006.01]"
+  },
+  {
+    "code": "B64D 25/102",
+    "description": "••••••Medios de propulsión, p. ej. mediante una combinación de medios de catapultado y cohetes (B64D 25/11, B64D 25/112 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "B64D 25/105",
+    "description": "••••••••mediante medios de catapultado únicamente [2006.01]"
+  },
+  {
+    "code": "B64D 25/108",
+    "description": "••••••••mediante cohetes únicamente [2006.01]"
+  },
+  {
+    "code": "B64D 25/11",
+    "description": "••••••Control de la actitud o la dirección del asiento eyectable o mecanismos asociados, previamente a la eyección [2006.01]"
+  },
+  {
+    "code": "B64D 25/112",
+    "description": "••••••Control de la actitud o la dirección del asiento eyectable tras la eyección [2006.01]"
+  },
+  {
+    "code": "B64D 25/115",
+    "description": "••••••Dispositivos de fijación, colocación o protección de ocupantes [2006.01]"
+  },
+  {
+    "code": "B64D 25/118",
+    "description": "••••••Separación de asiento y ocupante tras la eyección [2006.01]"
+  },
+  {
+    "code": "B64D 25/12",
+    "description": "••••Cápsulas eyectables [2006.01]"
+  },
+  {
+    "code": "B64D 25/14",
+    "description": "••••Rampas de evacuación hinchables (conexión de válvulas a cuerpos elásticos hinchables B60C 29/00) [2006.01]"
+  },
+  {
+    "code": "B64D 25/16",
+    "description": "••••Alojamiento de balsas de salvamento [2006.01]"
+  },
+  {
+    "code": "B64D 25/18",
+    "description": "••••Dispositivos de flotación (Dispositivos de aterrizaje de aeronaves B64C) [2006.01]"
+  },
+  {
+    "code": "B64D 25/20",
+    "description": "••••Lanzamiento de indicadores de posición de accidente [2006.01]"
+  },
+  {
+    "code": "B64D 27/00",
+    "description": "Disposición o montaje de grupos motores en aeronaves; Aeronaves así caracterizadas (Control de la actitud, la dirección de vuelo o la altitud por reacción a chorro B64C) [2006.01]"
+  },
+  {
+    "code": "B64D 27/02",
+    "description": "••Aeronaves caracterizadas por el tipo o posición de los grupos motores (fuselajes o alas adaptados para el montaje de los grupos motores B64C) [2006.01]"
+  },
+  {
+    "code": "B64D 27/04",
+    "description": "••••de tipo alternativo [2006.01]"
+  },
+  {
+    "code": "B64D 27/06",
+    "description": "••••••en el interior del ala o fijados a ella [2006.01]"
+  },
+  {
+    "code": "B64D 27/08",
+    "description": "••••••en el interior del fuselaje o fijados a él [2006.01]"
+  },
+  {
+    "code": "B64D 27/10",
+    "description": "••••del tipo turbina de gas (B64D 27/16 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B64D 27/12",
+    "description": "••••••en el interior del ala o fijados a ella [2006.01]"
+  },
+  {
+    "code": "B64D 27/14",
+    "description": "••••••en el interior del fuselaje o fijados a él [2006.01]"
+  },
+  {
+    "code": "B64D 27/16",
+    "description": "••••del tipo reactor [2006.01]"
+  },
+  {
+    "code": "B64D 27/18",
+    "description": "••••••en el interior del ala o fijados a ella [2006.01]"
+  },
+  {
+    "code": "B64D 27/20",
+    "description": "••••••en el interior del fuselaje o fijados a él [2006.01]"
+  },
+  {
+    "code": "B64D 27/22",
+    "description": "••••que utilizan energía atómica [2006.01]"
+  },
+  {
+    "code": "B64D 27/24",
+    "description": "••••que utilizan vapor, electricidad o energía elástica (B64D 27/16 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B64D 27/26",
+    "description": "••Aeronaves caracterizadas por la estructura del soporte del grupo motor [2006.01]"
+  },
+  {
+    "code": "B64D 29/00",
+    "description": "Góndolas, carenados o cubiertas de grupos motores (góndolas no previstas en otro lugar B64C) [2006.01]"
+  },
+  {
+    "code": "B64D 29/02",
+    "description": "••asociados con alas (alas adaptadas para el montaje del grupo motor B64C) [2006.01]"
+  },
+  {
+    "code": "B64D 29/04",
+    "description": "••asociados con fuselajes [2006.01]"
+  },
+  {
+    "code": "B64D 29/06",
+    "description": "••Fijación de góndolas, carenados o cubiertas [2006.01]"
+  },
+  {
+    "code": "B64D 29/08",
+    "description": "••Paneles de inspección de grupos motores [2006.01]"
+  },
+  {
+    "code": "B64D 31/00",
+    "description": "Control del grupo motor; Su disposición (controles de vuelo, control conjunto de grupo motor y hélice B64C) [2006.01]"
+  },
+  {
+    "code": "B64D 31/02",
+    "description": "••Medios de mando [2006.01]"
+  },
+  {
+    "code": "B64D 31/04",
+    "description": "••••accionados manualmente [2006.01]"
+  },
+  {
+    "code": "B64D 31/06",
+    "description": "••••accionados automáticamente [2006.01]"
+  },
+  {
+    "code": "B64D 31/08",
+    "description": "••••••para mantener constante la velocidad de crucero [2006.01]"
+  },
+  {
+    "code": "B64D 31/10",
+    "description": "••••••para evitar el empuje asimétrico tras el fallo de un grupo motor [2006.01]"
+  },
+  {
+    "code": "B64D 31/12",
+    "description": "••••••para compensar o sincronizar los grupos motores [2006.01]"
+  },
+  {
+    "code": "B64D 31/14",
+    "description": "••Medios de transmisión entre los medios de mando y los grupos motores [2006.01]"
+  },
+  {
+    "code": "B64D 33/00",
+    "description": "Disposición en las aeronaves de partes de los grupos motores, o auxiliares, no previstos en otro lugar [2006.01]"
+  },
+  {
+    "code": "B64D 33/02",
+    "description": "••de tomas de aire de combustión (tomas de aire para motores de propulsión a chorro o turbinas de gas en sí\n\t\t\t\t\t\t\t\t\t\tF02C 7/04; tomas de aire para motores de combustión en general F02M 35/00) [2006.01]"
+  },
+  {
+    "code": "B64D 33/04",
+    "description": "••de salidas de escape o conducciones del chorro (salidas de escape para motores de combustión en general F01N; conducciones del chorro o toberas para grupos de propulsión a chorro en sí\n\t\t\t\t\t\t\t\t\t\tF02K; grupos caracterizados por la forma o disposición del conducto de chorro o tobera F02K) [2006.01]"
+  },
+  {
+    "code": "B64D 33/08",
+    "description": "••de sistemas de refrigeración de grupos motores (refrigeración de motores de combustión interna en sí\n\t\t\t\t\t\t\t\t\t\tF01P; refrigeración de plantas de propulsión a chorro o turbinas de gas en sí\n\t\t\t\t\t\t\t\t\t\tF02C, F02K) [2006.01]"
+  },
+  {
+    "code": "B64D 33/10",
+    "description": "••••Disposición del radiador [2006.01]"
+  },
+  {
+    "code": "B64D 33/12",
+    "description": "••••••de tipo retráctil [2006.01]"
+  },
+  {
+    "code": "B64D 35/00",
+    "description": "Transmisión de la potencia del grupo motor a hélices o rotores; Disposiciones de las transmisiones (hélices o rotores en sí, transmisiones para helicópteros B64C) [2006.01]"
+  },
+  {
+    "code": "B64D 35/02",
+    "description": "••caracterizada por el tipo de grupo motor [2006.01]"
+  },
+  {
+    "code": "B64D 35/04",
+    "description": "••caracterizada porque la transmisión acciona una pluralidad de hélices o rotores [2006.01]"
+  },
+  {
+    "code": "B64D 35/06",
+    "description": "••••siendo las hélices o rotores contrarrotatorios [2006.01]"
+  },
+  {
+    "code": "B64D 35/08",
+    "description": "••caracterizada porque la transmisión es accionada por varios grupos motores [2006.01]"
+  },
+  {
+    "code": "B64D 37/00",
+    "description": "Disposiciones relativas a la alimentación de combustible al grupo motor (repostado en vuelo B64D 39/00) [2006.01]"
+  },
+  {
+    "code": "B64D 37/02",
+    "description": "••Depósitos (depósitos de construcción integral a las alas B64C; depósitos en general B65D) [2006.01]"
+  },
+  {
+    "code": "B64D 37/04",
+    "description": "••••Su disposición en, o sobre, aeronaves [2006.01]"
+  },
+  {
+    "code": "B64D 37/06",
+    "description": "••••Sus adaptaciones estructurales [2006.01]"
+  },
+  {
+    "code": "B64D 37/08",
+    "description": "••••••Compartimentación interna [2006.01]"
+  },
+  {
+    "code": "B64D 37/10",
+    "description": "••••••para facilitar la presurización del combustible [2006.01]"
+  },
+  {
+    "code": "B64D 37/12",
+    "description": "••••••eyectables [2006.01]"
+  },
+  {
+    "code": "B64D 37/14",
+    "description": "••••Llenado o vaciado (trasiego de combustible para ajustar el equilibrado de la aeronave B64C) [2006.01]"
+  },
+  {
+    "code": "B64D 37/16",
+    "description": "••••••Sistemas de llenado (instalaciones en tierra para el repostado de combustible de aeronaves B64F) [2006.01]"
+  },
+  {
+    "code": "B64D 37/18",
+    "description": "••••••••Acondicionamiento del combustible durante el llenado [2006.01]"
+  },
+  {
+    "code": "B64D 37/20",
+    "description": "••••••Sistemas de vaciado [2006.01]"
+  },
+  {
+    "code": "B64D 37/22",
+    "description": "••••••••que posibilitan el vaciado estando el depósito en cualquier posición [2006.01]"
+  },
+  {
+    "code": "B64D 37/24",
+    "description": "••••••••por presión de gas [2006.01]"
+  },
+  {
+    "code": "B64D 37/26",
+    "description": "••••••••Lanzamiento de combustible [2006.01]"
+  },
+  {
+    "code": "B64D 37/28",
+    "description": "••••••••Su control [2006.01]"
+  },
+  {
+    "code": "B64D 37/30",
+    "description": "••Sistemas de combustible para combustibles particulares [2006.01]"
+  },
+  {
+    "code": "B64D 37/32",
+    "description": "••Medidas de seguridad no previstas en otro lugar, p. ej. prevención de explosiones (extinción o prevención de incendios en aeronaves A62C) [2006.01]"
+  },
+  {
+    "code": "B64D 37/34",
+    "description": "••Acondicionamiento del combustible, p. ej. calentamiento (durante el llenado B64D 37/18) [2006.01]"
+  },
+  {
+    "code": "B64D 39/00",
+    "description": "Repostaje en vuelo (llenado o vaciado de depósitos de combustible B64D 37/14) [2006.01]"
+  },
+  {
+    "code": "B64D 39/02",
+    "description": "••Medios para largar o enrollar las mangueras [2006.01]"
+  },
+  {
+    "code": "B64D 39/04",
+    "description": "••Adaptaciones de la estructura de mangueras (conducciones en general F16L) [2006.01]"
+  },
+  {
+    "code": "B64D 39/06",
+    "description": "••Conexión de la manguera a la aeronave; Desconexión de la manguera [2006.01]"
+  },
+  {
+    "code": "B64D 41/00",
+    "description": "Instalaciones de potencia para servicios auxiliares [2006.01]"
+  },
+  {
+    "code": "B64D 43/00",
+    "description": "Disposiciones o adaptaciones de instrumentos (disposiciones de cámaras B64D 47/08; instrumentos de medida aeronáuticos en sí\n\t\t\t\t\t\t\t\t\tG01C) [2006.01]"
+  },
+  {
+    "code": "B64D 43/02",
+    "description": "••para indicar la velocidad o entrada en pérdida de aeronaves [2006.01]"
+  },
+  {
+    "code": "B64D 45/00",
+    "description": "Indicadores o dispositivos de protección de aeronaves no previstos en otro lugar (camuflaje F41H 3/00) [2006.01]"
+  },
+  {
+    "code": "B64D 45/02",
+    "description": "••protecciones contra rayos (pararrayos H01C 7/12, H01C 8/04, H01G 9/18, H01T; disposiciones de circuitos a este efecto H02H); Descargadores de electricidad estática (en general H05F 3/00) [2006.01]"
+  },
+  {
+    "code": "B64D 45/04",
+    "description": "••Ayudas al aterrizaje; Dispositivos de seguridad para prevenir colisiones con la superficie terrestre [2006.01]"
+  },
+  {
+    "code": "B64D 45/06",
+    "description": "••••mecánicas [2006.01]"
+  },
+  {
+    "code": "B64D 45/08",
+    "description": "••••ópticas [2006.01]"
+  },
+  {
+    "code": "B64D 47/00",
+    "description": "Equipamiento no previsto en otro lugar [2006.01]"
+  },
+  {
+    "code": "B64D 47/02",
+    "description": "••Disposiciones o adaptaciones de dispositivos de señalización o iluminación [2006.01]"
+  },
+  {
+    "code": "B64D 47/04",
+    "description": "••••siendo el objeto primordial de los dispositivos la iluminación del camino a seguir [2006.01]"
+  },
+  {
+    "code": "B64D 47/06",
+    "description": "••••para indicar la presencia de la aeronave [2006.01]"
+  },
+  {
+    "code": "B64D 47/08",
+    "description": "••Disposiciones de cámaras [2006.01]"
+  }
+]

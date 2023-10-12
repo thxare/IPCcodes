@@ -1,0 +1,870 @@
+[
+  {
+    "code": "A61F 2/00",
+    "description": "Filtros implantables en los vasos sanguíneos; Prótesis, es decir, elementos de sustitución o de reemplazo para partes del cuerpo; Dispositivos para unirlas al cuerpo; Dispositivos para proporcionar permeabilidad o para evitar que colapsen las estructuras tubulares del cuerpo, p. ej. stents (como artículos cosméticos, ver las subclases apropiadas, p. ej. pelucas o postizos, A41G 3/00, A41G 5/00, uñas artificiales A45D 31/00; prótesis dentales A61C 13/00; materiales para prótesis A61L 27/00; riñones artificiales A61M 1/14; corazones artificiales A61M 60/00) [2006.01]"
+  },
+  {
+    "code": "A61F 2/01",
+    "description": "••Filtros implantables en los vasos sanguíneos [2006.01]"
+  },
+  {
+    "code": "A61F 2/02",
+    "description": "••Prótesis implantables en el cuerpo [2006.01]"
+  },
+  {
+    "code": "A61F 2/04",
+    "description": "••••Elementos u órganos huecos o tubulares, p. ej. vejigas, tráqueas, bronquios, conductos biliares (A61F 2/18, A61F 2/20 tienen prioridad; disposistivos, distintos de los injertos stent, que mantienen la luz o evitan el colapso de las estructuras tubulares del cuerpo, p. ej. stents A61F 2/82; instrumentos especialmente adaptados para la colocación o eliminación de stents o injertos stent A61F 2/95) [2013.01]"
+  },
+  {
+    "code": "A61F 2/06",
+    "description": "••••••Vasos sanguíneos [2013.01]"
+  },
+  {
+    "code": "A61F 2/07",
+    "description": "••••••••Injertos stent [2013.01]"
+  },
+  {
+    "code": "A61F 2/08",
+    "description": "••••Músculos; Tendones; Ligamentos [2006.01]"
+  },
+  {
+    "code": "A61F 2/10",
+    "description": "••••Implantes capilares o injertos de piel [2006.01]"
+  },
+  {
+    "code": "A61F 2/12",
+    "description": "••••Prótesis mamarias [2006.01]"
+  },
+  {
+    "code": "A61F 2/14",
+    "description": "••••Partes de los ojos, p. ej. cristalinos, implantes de córnea (lentes de contacto amovibles G02C 7/04); Ojos artificiales (su fabricación a partir de materia plástica orgánica B29C, B29D 11/02) [2006.01]"
+  },
+  {
+    "code": "A61F 2/16",
+    "description": "••••••Lentes intraoculares [2006.01]"
+  },
+  {
+    "code": "A61F 2/18",
+    "description": "••••Partes internas de la oreja o de la nariz, p. ej. tímpanos [2006.01]"
+  },
+  {
+    "code": "A61F 2/20",
+    "description": "••••Laringes; Tráqueas combinadas con laringes o para su uso conjunto (tráqueas, bronquios en sí\n\t\t\t\t\t\t\t\t\t\t\tA61F 2/04) [2006.01]"
+  },
+  {
+    "code": "A61F 2/24",
+    "description": "••••Válvulas para el corazón [2006.01]"
+  },
+  {
+    "code": "A61F 2/26",
+    "description": "••••Implantes de pene [2006.01]"
+  },
+  {
+    "code": "A61F 2/28",
+    "description": "••••Huesos (articulaciones A61F 2/30) [2006.01]"
+  },
+  {
+    "code": "A61F 2/30",
+    "description": "••••Articulaciones [2006.01]"
+  },
+  {
+    "code": "A61F 2/32",
+    "description": "••••••para la cadera [2006.01]"
+  },
+  {
+    "code": "A61F 2/34",
+    "description": "••••••••Copas acetabulares [2006.01]"
+  },
+  {
+    "code": "A61F 2/36",
+    "description": "••••••••Cabezas femorales [2006.01]"
+  },
+  {
+    "code": "A61F 2/38",
+    "description": "••••••para los codos o las rodillas [2006.01]"
+  },
+  {
+    "code": "A61F 2/40",
+    "description": "••••••para los hombros [2006.01]"
+  },
+  {
+    "code": "A61F 2/42",
+    "description": "••••••para las muñecas o los tobillos; para las manos, p. ej. para los dedos; para los pies, p. ej. para los dedos de los pies [2006.01]"
+  },
+  {
+    "code": "A61F 2/44",
+    "description": "••••••para la columna vertebral, p. ej. vértebras, discos intervertebrales [2006.01]"
+  },
+  {
+    "code": "A61F 2/46",
+    "description": "••••••Herramientas especiales para la implantación de articulaciones artificiales (instrumentos quirúrgicos A61B 17/00) [2006.01]"
+  },
+  {
+    "code": "A61F 2/48",
+    "description": "••••Medios de accionamiento o de control, p. ej. desde el exterior del cuerpo, control de esfínteres [2006.01]"
+  },
+  {
+    "code": "A61F 2/50",
+    "description": "••Prótesis no implantables en el cuerpo [2006.01]"
+  },
+  {
+    "code": "A61F 2/52",
+    "description": "••••Prótesis mamarias (sujetadores A41C 3/00) [2006.01]"
+  },
+  {
+    "code": "A61F 2/54",
+    "description": "••••Manos o brazos artificiales o partes de los mismos [2006.01]"
+  },
+  {
+    "code": "A61F 2/56",
+    "description": "••••••regulables [2006.01]"
+  },
+  {
+    "code": "A61F 2/58",
+    "description": "••••••Codos; Muñecas [2006.01]"
+  },
+  {
+    "code": "A61F 2/60",
+    "description": "••••Piernas o pies artificiales, partes de los mismos [2006.01]"
+  },
+  {
+    "code": "A61F 2/62",
+    "description": "••••••regulables, p. ej. tibias, muslos o sistemas esqueléticos tubulares regulables [2006.01]"
+  },
+  {
+    "code": "A61F 2/64",
+    "description": "••••••Articulaciones de la rodilla [2006.01]"
+  },
+  {
+    "code": "A61F 2/66",
+    "description": "••••••Pies; Articulaciones del tobillo [2006.01]"
+  },
+  {
+    "code": "A61F 2/68",
+    "description": "••••Medios de accionamiento o de control [2006.01]"
+  },
+  {
+    "code": "A61F 2/70",
+    "description": "••••••eléctricos [2006.01]"
+  },
+  {
+    "code": "A61F 2/72",
+    "description": "••••••••Control bioeléctrico, p. ej. mioeléctrico [2006.01]"
+  },
+  {
+    "code": "A61F 2/74",
+    "description": "••••••mediante fluido [2006.01]"
+  },
+  {
+    "code": "A61F 2/76",
+    "description": "••••Medios para montar, fijar o ensayar las prótesis, p.ej. para medir o para equilibrar [2006.01]"
+  },
+  {
+    "code": "A61F 2/78",
+    "description": "••••Medios para proteger las prótesis o para sujetarlas al cuerpo, p. ej. vendajes, arneses, correas o medias para muñones [2006.01]"
+  },
+  {
+    "code": "A61F 2/80",
+    "description": "••••••Encajes o receptáculos, p. ej. del tipo de succión [2006.01]"
+  },
+  {
+    "code": "A61F 2/82",
+    "description": "••Dispositivos para mantener la luz o para evitar que se colapsen las estructuras tubulares del cuerpo, p. ej. stents (injertos stent para estructuras tubulares del cuerpo distintas de los vasos sanguíneos A61F 2/04; injertos stent para vasos sanguíneos A61F 2/07; instrumentos especialmente adaptados para la colocación o eliminación de stents o injertos stent A61F 2/95; para cerrar las heridas o para mantener las heridas cerradas A61B 17/03; dilatadores A61M 29/00) [2013.01]"
+  },
+  {
+    "code": "A61F 2/844",
+    "description": "••••plegados antes de su implantación [2013.01]"
+  },
+  {
+    "code": "A61F 2/848",
+    "description": "••••con medios de fijación a las paredes de los vasos, p. ej. lengüetas [2013.01]"
+  },
+  {
+    "code": "A61F 2/852",
+    "description": "••••Dos o más stent diferentes que se superponen [2013.01]"
+  },
+  {
+    "code": "A61F 2/856",
+    "description": "••••Stent tubular simple con conducto portal lateral [2013.01]"
+  },
+  {
+    "code": "A61F 2/86",
+    "description": "••••Stents formados por elementos filiformes; Stents formados por estructuras en forma de red o malla [2013.01]"
+  },
+  {
+    "code": "A61F 2/88",
+    "description": "••••••elementos filiformes formados como arrollamientos en forma de hélice o de espiral (formando una estructura en forma de red o malla A61F 2/90) [2006.01]"
+  },
+  {
+    "code": "A61F 2/89",
+    "description": "••••••comprendiendo los elementos filiformes dos o más anillos conectados de forma flexible por componentes distintos. [2013.01]"
+  },
+  {
+    "code": "A61F 2/90",
+    "description": "••••••caracterizados por una estructura en forma de red o malla [2013.01]"
+  },
+  {
+    "code": "A61F 2/91",
+    "description": "••••••••fabricadas a partir de hojas perforadas o tubos, p.ej. perforados por corte con laser o taladros grabados [2013.01]"
+  },
+  {
+    "code": "A61F 2/915",
+    "description": "••••••••••con bandas de estructura quebrada, bandas adyacentes conectadas entre sí [2013.01]"
+  },
+  {
+    "code": "A61F 2/92",
+    "description": "••••Stents en forma de una hoja enrollada que se expande tras su inserción en el vaso [2013.01]"
+  },
+  {
+    "code": "A61F 2/93",
+    "description": "••••••circunferencialmente expansible utilizando un cierre de trinquete [2013.01]"
+  },
+  {
+    "code": "A61F 2/94",
+    "description": "••••Stents que mantienen su forma después de su colocación en un lugar predeterminado, p.ej. indeforambles [2013.01]"
+  },
+  {
+    "code": "A61F 2/945",
+    "description": "••••••endurecibles , p. ej. stents formados in situ [2013.01]"
+  },
+  {
+    "code": "A61F 2/95",
+    "description": "••Instrumentos especialmente adaptados para la colocación o eliminación de stents o injertos stent [2013.01]"
+  },
+  {
+    "code": "A61F 2/954",
+    "description": "••••para la colocación de stents o injertos stent en una bifurcación [2013.01]"
+  },
+  {
+    "code": "A61F 2/958",
+    "description": "••••globos inflables para la colocación de stents o injertos stent [2013.01]"
+  },
+  {
+    "code": "A61F 2/962",
+    "description": "••••con un casquillo exterior [2013.01]"
+  },
+  {
+    "code": "A61F 2/966",
+    "description": "••••••con movimiento relativo longitudinal entre la prótesis y el casquillo exterior, p.ej. utilizando una barra de empuje [2013.01]"
+  },
+  {
+    "code": "A61F 2/97",
+    "description": "••••••con el casquillo exterior divisible [2013.01]"
+  },
+  {
+    "code": "A61F 3/00",
+    "description": "Piezas para aumentar la longitud de las piernas naturales [2006.01]"
+  },
+  {
+    "code": "A61F 4/00",
+    "description": "Métodos o dispositivos que permiten a los pacientes o a las personas con diversidad funcional manejar un aparato o un dispositivo que no forma parte del cuerpo (medios de manejo o control para prótesis A61F 2/48, A61F 2/68) [2006.01]"
+  },
+  {
+    "code": "A61F 5/01",
+    "description": "••Dispositivos ortopédicos, p. ej. dispositivos para inmovilizar o para ejercer presiones de forma duradera para el tratamiento de los huesos fracturados o deformados, tales como férulas, yesos ortopédicos o bragueros/tirantes [2006.01]"
+  },
+  {
+    "code": "A61F 5/02",
+    "description": "••••Corsés ortopédicos [2006.01]"
+  },
+  {
+    "code": "A61F 5/03",
+    "description": "••••Corsés o vendajes para sujetar el abdomen, el pecho o la caja torácica, con o sin almohadillas (sujetadores A41C 3/00) [2006.01]"
+  },
+  {
+    "code": "A61F 5/04",
+    "description": "••••Dispositivos para estirar o reducir los miembros fracturados; Dispositivos para la tracción; Férulas [2006.01]"
+  },
+  {
+    "code": "A61F 5/042",
+    "description": "••••••para traccionar o estirar los miembros fracturados [2006.01]"
+  },
+  {
+    "code": "A61F 5/045",
+    "description": "••••••••Equipamiento para camas, mesas de exploración, bastidores de suelo o análogos [2006.01]"
+  },
+  {
+    "code": "A61F 5/048",
+    "description": "••••••••Férulas de tracción [2006.01]"
+  },
+  {
+    "code": "A61F 5/05",
+    "description": "••••••para la inmovilización (A61F 5/042 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "A61F 5/052",
+    "description": "••••••••especialmente adaptados para facilitar la marcha, p. ej. tirantes ambulatorios [2006.01]"
+  },
+  {
+    "code": "A61F 5/055",
+    "description": "••••••••Collarines cervicales [2006.01]"
+  },
+  {
+    "code": "A61F 5/058",
+    "description": "••••••••Férulas (A61F 5/052 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "A61F 5/08",
+    "description": "••••Dispositivos para rectificar las deformidades de la nariz [2006.01]"
+  },
+  {
+    "code": "A61F 5/10",
+    "description": "••••Dispositivos para rectificar las deformidades de los dedos [2006.01]"
+  },
+  {
+    "code": "A61F 5/11",
+    "description": "••••Dispositivos para rectificar las deformidades de las uñas [2006.01]"
+  },
+  {
+    "code": "A61F 5/14",
+    "description": "••••Inserciones médicas especiales para zapatos para pies planos, pies de palo o similares [2022.01]"
+  },
+  {
+    "code": "A61F 5/24",
+    "description": "••••Bragueros para herniados [2006.01]"
+  },
+  {
+    "code": "A61F 5/26",
+    "description": "••••••con resortes de cintura [2006.01]"
+  },
+  {
+    "code": "A61F 5/28",
+    "description": "••••••Soportes de bragueros para herniados [2006.01]"
+  },
+  {
+    "code": "A61F 5/30",
+    "description": "••••Almohadillas de compresión (almohadillas para callos, anillos para callos A61F 13/06) [2006.01]"
+  },
+  {
+    "code": "A61F 5/32",
+    "description": "••••••Almohadillas de compresión regulables [2006.01]"
+  },
+  {
+    "code": "A61F 5/34",
+    "description": "••••••Almohadillas de compresión llenas de aire o de líquido (válvulas especialmente concebidas para uso médico A61M 39/00) [2006.01]"
+  },
+  {
+    "code": "A61F 5/37",
+    "description": "••Dispositivos para comprimir el cuerpo o partes del cuerpo; Camisas compresoras [2006.01]"
+  },
+  {
+    "code": "A61F 5/40",
+    "description": "••Suspensorios [2006.01]"
+  },
+  {
+    "code": "A61F 5/41",
+    "description": "••Dispositivos para provocar la erección del pene (implantes de pene A61F 2/26; masaje de los órganos genitales A61H 19/00) [2006.01]"
+  },
+  {
+    "code": "A61F 5/44",
+    "description": "••Dispositivos que lleva el paciente para recoger la orina, las heces, el flujo menstrual u otras secreciones (compresas absorbentes, p. ej. compresas higiénicas A61F 13/15; aparatos para el drenaje de heridas A61M 27/00); Dispositivos de colostomía (adhesivos para los dispositivos de colostomía A61L 24/00; materiales para los dispositivos de colostomía A61L 28/00) [2006.01]"
+  },
+  {
+    "code": "A61F 5/441",
+    "description": "••••con medios desodorantes, p. ej. filtros [2006.01]"
+  },
+  {
+    "code": "A61F 5/442",
+    "description": "••••con medios u orificios de irrigación (irrigadores A61M 3/02) [2006.01]"
+  },
+  {
+    "code": "A61F 5/443",
+    "description": "••••con juntas de estanqueidad de tipo hidrocoloidal, p. ej. geles, almidón, goma Karaya [2006.01]"
+  },
+  {
+    "code": "A61F 5/445",
+    "description": "••••Dispositivos de colostomía (A61F 5/441, A61F 5/442, A61F 5/443 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "A61F 5/447",
+    "description": "••••••Características antidesinflables de las bolsas [2006.01]"
+  },
+  {
+    "code": "A61F 5/448",
+    "description": "••••••Medios de sujeción de la bolsa al anillo de estanqueidad [2006.01]"
+  },
+  {
+    "code": "A61F 5/449",
+    "description": "••••••Medios de sujeción al cuerpo, p. ej. cinturones, vestidos [2006.01]"
+  },
+  {
+    "code": "A61F 5/451",
+    "description": "••••Receptáculos genitales (A61F 5/441, A61F 5/442, A61F 5/443 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "A61F 5/452",
+    "description": "••••••con compartimientos separados para recoger las heces [2006.01]"
+  },
+  {
+    "code": "A61F 5/453",
+    "description": "••••••para recoger la orina u otras secreciones de los órganos masculinos (A61F 6/04 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "A61F 5/455",
+    "description": "••••••para recoger la orina u otras secreciones de los órganos femeninos [2006.01]"
+  },
+  {
+    "code": "A61F 5/457",
+    "description": "••••••Medios de sujeción al cuerpo, p. ej. cinturones, bandas o arneses [2006.01]"
+  },
+  {
+    "code": "A61F 5/458",
+    "description": "••••••••del tipo adhesivo o inflable [2006.01]"
+  },
+  {
+    "code": "A61F 5/48",
+    "description": "••Dispositivos para impedir que la cama se moje o se ensucie [2006.01]"
+  },
+  {
+    "code": "A61F 5/50",
+    "description": "••Dispositivos para evitar la succión de los dedos [2006.01]"
+  },
+  {
+    "code": "A61F 5/56",
+    "description": "••Dispositivos para impedir el ronquido [2006.01]"
+  },
+  {
+    "code": "A61F 5/58",
+    "description": "••Aparatos para corregir el tartamudeo o el farfulleo [2006.01]"
+  },
+  {
+    "code": "A61F 6/00",
+    "description": "Dispositivos para la contracepción; Pesarios; Dispositivos para su introducción (aspectos químicos de la contracepción A61K) [2006.01]"
+  },
+  {
+    "code": "A61F 6/02",
+    "description": "••de uso masculino (A61F 6/20 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "A61F 6/04",
+    "description": "••••Condones, fundas o similares [2006.01]"
+  },
+  {
+    "code": "A61F 6/06",
+    "description": "••de uso femenino (A61F 6/20 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "A61F 6/08",
+    "description": "••••Pesarios, es decir dispositivos insertados en la vagina para sostener el útero, corregir una malposición o para impedir la concepción [2006.01]"
+  },
+  {
+    "code": "A61F 6/10",
+    "description": "••••••Diafragmas [2006.01]"
+  },
+  {
+    "code": "A61F 6/12",
+    "description": "••••••Dispositivos su introducción o para su retirada [2006.01]"
+  },
+  {
+    "code": "A61F 6/14",
+    "description": "••••de tipo intrauterino [2006.01]"
+  },
+  {
+    "code": "A61F 6/16",
+    "description": "••••••inflables [2006.01]"
+  },
+  {
+    "code": "A61F 6/18",
+    "description": "••••••Dispositivos para su introducción o su retirada [2006.01]"
+  },
+  {
+    "code": "A61F 6/20",
+    "description": "••Obturadores del canal deferente; Obturadores de las trompas de Falopio [2006.01]"
+  },
+  {
+    "code": "A61F 6/22",
+    "description": "••••implantables en el canal o en los oviductos [2006.01]"
+  },
+  {
+    "code": "A61F 6/24",
+    "description": "••••••caracterizados por las válvulas [2006.01]"
+  },
+  {
+    "code": "A61F 7/00",
+    "description": "Aparatos de calentamiento o de enfriamiento para el tratamiento médico o terapéutico del cuerpo humano (medios de calentamiento o de enfriamiento unidos a las camas o a los colchones A47C 21/00; hipertermia utilizando campos magnéticos o ultrasonidos A61N) [2006.01]"
+  },
+  {
+    "code": "A61F 7/02",
+    "description": "••Compresas o cataplasmas que procuran calor o frío [2006.01]"
+  },
+  {
+    "code": "A61F 7/03",
+    "description": "••••termóforos, es decir, que generan calor espontáneamente [2006.01]"
+  },
+  {
+    "code": "A61F 7/08",
+    "description": "••Calentadores, almohadillas o mantas calefactoras (A61F 7/02 tienen prioridad); Bolsas de agua caliente [2006.01]"
+  },
+  {
+    "code": "A61F 7/10",
+    "description": "••Bolsas refrigerantes, p. ej. bolsas de hielo [2006.01]"
+  },
+  {
+    "code": "A61F 7/12",
+    "description": "••Dispositivos para calentar o enfriar las cavidades internas del cuerpo [2006.01]"
+  },
+  {
+    "code": "A61F 9/00",
+    "description": "Métodos o dispositivos para el tratamiento de los ojos; Dispositivos para colocar las lentes de contacto; Dispositivos para corregir el estrabismo; Aparatos para guiar a los ciegos; Dispositivos protectores de los ojos que se llevan sobre el cuerpo o en la mano (gorras con medios para la protección de los ojos A42B 1/0181; viseras para cascos A42B 3/22; baños para los ojos A61H 35/02; gafas de sol o de protección con las mismas características que las gafas normales G02C) [2006.01]"
+  },
+  {
+    "code": "A61F 9/007",
+    "description": "••Métodos o dispositivos para la cirugía ocular [2006.01]"
+  },
+  {
+    "code": "A61F 9/008",
+    "description": "••••usando láser [2006.01]"
+  },
+  {
+    "code": "A61F 9/009",
+    "description": "••••••Dispositivos auxiliares para hacer contacto con el globo ocular y para acoplamiento del láser [2006.01]"
+  },
+  {
+    "code": "A61F 9/01",
+    "description": "••••••Tratamiento de la córnea [2006.01]"
+  },
+  {
+    "code": "A61F 9/011",
+    "description": "••••••invasivos [2006.01]"
+  },
+  {
+    "code": "A61F 9/013",
+    "description": "••••para la compensación de la refracción ocular (A61F 9/008 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "A61F 9/02",
+    "description": "••Gafas protectoras (para nadar A63B 33/00) [2006.01]"
+  },
+  {
+    "code": "A61F 9/04",
+    "description": "••Máscaras para los ojos [2006.01]"
+  },
+  {
+    "code": "A61F 9/06",
+    "description": "••••Máscaras, pantallas o viseras para soldadores (dispositivos de seguridad para la soldadura en general F16P 1/00) [2006.01]"
+  },
+  {
+    "code": "A61F 9/08",
+    "description": "••Dispositivos o métodos que permitan al paciente ver mediante la sustitución de la percepción visual directa por otro tipo de percepción [2006.01]"
+  },
+  {
+    "code": "A61F 11/00",
+    "description": "Métodos o dispositivos para el tratamiento de los oídos o del sentido de la audición (prótesis implantables que sustituyen o reemplazan partes internas del oído, p. ej. tímpanos, A61F 2/18; métodos o dispositivos para provocar un cambio en el estado de conciencia auditiva A61M 21/00; electroterapia que aplica la estimulación eléctrica del sistema auditivo, o circuitos para ello A61N 1/36; radioterapia que utiliza la estimulación óptica del sistema auditivo A61N 5/06; audífonos electroacústicos H04R 25/00); Audífonos no eléctricos; Métodos o dispositivos para permitir a los pacientes de oído lograr la percepción auditiva a través de sentidos fisiológicos distintos del sentido del oído; Dispositivos de protección para los oídos, llevados en el cuerpo o en la mano (gorros, p. ej. gorras o cascos, con medios para proteger los oídos A42B 1/0188, A42B 3/16) [2022.01]"
+  },
+  {
+    "code": "A61F 11/04",
+    "description": "••Métodos o dispositivos para permitir a los pacientes de oído lograr la percepción auditiva a través de sentidos fisiológicos distintos del sentido del oído, p. ej. a través del sentido del tacto [2006.01]"
+  },
+  {
+    "code": "A61F 11/06",
+    "description": "••Dispositivos de protección para los oídos [2006.01]"
+  },
+  {
+    "code": "A61F 11/08",
+    "description": "••••internos, p. ej. tapones para los oídos [2006.01]"
+  },
+  {
+    "code": "A61F 11/10",
+    "description": "••••••inflables o expansibles [2006.01]"
+  },
+  {
+    "code": "A61F 11/12",
+    "description": "••••••Medios de sujeción externos [2006.01]"
+  },
+  {
+    "code": "A61F 11/14",
+    "description": "••••externos, p. ej. capuchones para las orejas u orejeras [2006.01]"
+  },
+  {
+    "code": "A61F 11/20",
+    "description": "••Cirugía de oídos [2022.01]"
+  },
+  {
+    "code": "A61F 11/30",
+    "description": "••Audífonos no eléctricos, p. ej. trompetillas, amplificadores de sonido o cascos auditivos [2022.01]"
+  },
+  {
+    "code": "A61F 13/00",
+    "description": "Vendas o apósitos (suspensorios A61F 5/40; apósitos radiactivos A61M 36/14); Compresas absorbentes (aspectos químicos de las vendas, apósitos o compresas absorbentes* A61L 15/00, A61L 26/00) [2006.01]"
+  },
+  {
+    "code": "A61F 13/02",
+    "description": "••Emplastos o apósitos adhesivos (A61F 13/06-A61F 13/15 tienen prioridad; adhesivos o cementos quirúrgicos A61L 24/00) [2006.01]"
+  },
+  {
+    "code": "A61F 13/04",
+    "description": "••Vendas de escayola; Otros vendajes de materiales rígidos (A61F 13/06-A61F 13/15 tiene prioridad; yesos ortopédicos hechos a partir de materiales que se vuelven rígidos A61F 5/01) [2006.01]"
+  },
+  {
+    "code": "A61F 13/06",
+    "description": "••especialmente concebidos para los pies o las piernas; Almohadillas para los callos; Anillos para los callos [2006.01]"
+  },
+  {
+    "code": "A61F 13/08",
+    "description": "••••Medias elásticas; para comprimir los aneurismas [2006.01]"
+  },
+  {
+    "code": "A61F 13/10",
+    "description": "••especialmente concebidos para los dedos, las manos o los brazos; Dedales; Protectores de uñas [2006.01]"
+  },
+  {
+    "code": "A61F 13/12",
+    "description": "••especialmente concebidos para la cabeza o el cuello [2006.01]"
+  },
+  {
+    "code": "A61F 13/14",
+    "description": "••especialmente concebidos para el tórax o el abdomen (corsés o vendajes para sostener el tórax o el abdomen A61F 5/03) [2006.01]"
+  },
+  {
+    "code": "A61F 13/15",
+    "description": "••Compresas absorbentes, p. ej. paños higiénicos, torundas o tampones para aplicación externa o interna al cuerpo (receptáculos catameniales no absorbentes A61F 5/44); Medios para mantenerlos en su sitio o para fijarlos; Aplicadores de tampones [2006.01]"
+  },
+  {
+    "code": "A61F 13/20",
+    "description": "••••Tampones, p. ej. tampones menstruales; Sus accesorios [2006.01]"
+  },
+  {
+    "code": "A61F 13/22",
+    "description": "••••••Tampones hechos de material enrollado [2006.01]"
+  },
+  {
+    "code": "A61F 13/24",
+    "description": "••••••Tampones en forma de copa [2006.01]"
+  },
+  {
+    "code": "A61F 13/26",
+    "description": "••••••Medios para insertar los tampones [2006.01]"
+  },
+  {
+    "code": "A61F 13/28",
+    "description": "••••••••con lubricantes [2006.01]"
+  },
+  {
+    "code": "A61F 13/30",
+    "description": "••••••••estando la parte distal de los medios de inserción deformada, dilatada o con zonas de ruptura para permitir la expulsión del elemento a introducir [2006.01]"
+  },
+  {
+    "code": "A61F 13/32",
+    "description": "••••••••con un órgano de eyección, p. ej. un émbolo o un pulsador, deslizante en el interior del medio de inserción tubular [2006.01]"
+  },
+  {
+    "code": "A61F 13/34",
+    "description": "••••••Medios para retirar los tampones [2006.01]"
+  },
+  {
+    "code": "A61F 13/36",
+    "description": "••••Compresas quirúrgicas, p. ej. con fines de absorción o para rellenar cavidades del cuerpo durante las operaciones quirúrgicas (A61F 13/38, A61F 13/40 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "A61F 13/38",
+    "description": "••••Torundas con un asa en forma de bastoncillo (A61F 13/40 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "A61F 13/40",
+    "description": "••••con medios incorporados para suministrar una sustancia al material absorbente, p.ej. contenidos en un recipiente rompible [2006.01]"
+  },
+  {
+    "code": "A61F 13/42",
+    "description": "••••con un indicador o alarma de humedad [2006.01]"
+  },
+  {
+    "code": "A61F 13/44",
+    "description": "••••con un material radio-opaco o con medios para indicar la presencia de material residual [2006.01]"
+  },
+  {
+    "code": "A61F 13/45",
+    "description": "••••caracterizados por la forma (tampones en forma de copa A61F 13/24) [2006.01]"
+  },
+  {
+    "code": "A61F 13/47",
+    "description": "••••••Paños higiénicos, compresas o pañales para incontinencia (A61F 13/49 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "A61F 13/471",
+    "description": "••••••••especialmente adaptados para uso masculino [2006.01]"
+  },
+  {
+    "code": "A61F 13/472",
+    "description": "••••••••especialmente adaptados para uso femenino [2006.01]"
+  },
+  {
+    "code": "A61F 13/474",
+    "description": "••••••••ajustables [2006.01]"
+  },
+  {
+    "code": "A61F 13/475",
+    "description": "••••••••caracterizados por los medios de prevención de las fugas laterales [2006.01]"
+  },
+  {
+    "code": "A61F 13/476",
+    "description": "••••••••caracterizados por rodear la zona de entrepierna de la prenda interior, p. ej. con alas [2006.01]"
+  },
+  {
+    "code": "A61F 13/49",
+    "description": "••••••especialmente adaptados para ser llevados alrededor de la cintura, p. ej. pañales-braga [2006.01]"
+  },
+  {
+    "code": "A61F 13/491",
+    "description": "••••••••especialmente adaptados para un tipo de micción diferente según que el usuario sea de sexo masculino o de sexo femenino [2006.01]"
+  },
+  {
+    "code": "A61F 13/493",
+    "description": "••••••••ajustables [2006.01]"
+  },
+  {
+    "code": "A61F 13/494",
+    "description": "••••••••caracterizados por los medios de prevención de las fugas laterales [2006.01]"
+  },
+  {
+    "code": "A61F 13/495",
+    "description": "••••••••con una cavidad fecal [2006.01]"
+  },
+  {
+    "code": "A61F 13/496",
+    "description": "••••••••en forma de braga o de slip [2006.01]"
+  },
+  {
+    "code": "A61F 13/505",
+    "description": "••••con partes separables, p. ej. combinación de partes desechables y de partes reutilizables (A61F 13/20 tiene prioridad; medios para mantenerlos en su sitio o para fijarlos A61F 13/56) [2006.01]"
+  },
+  {
+    "code": "A61F 13/51",
+    "description": "••••caracterizados por las capas exteriores de las compresas absorbentes (A61F 13/20 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "A61F 13/511",
+    "description": "••••••Capa superior, es decir, cubierta o capa permeable dirigida hacia la piel [2006.01]"
+  },
+  {
+    "code": "A61F 13/512",
+    "description": "••••••••caracterizada por sus orificios, p. ej. perforaciones [2006.01]"
+  },
+  {
+    "code": "A61F 13/513",
+    "description": "••••••••con zonas de diferente permeabilidad [2006.01]"
+  },
+  {
+    "code": "A61F 13/514",
+    "description": "••••••Capa inferior, es decir, cubierta o capa impermeable más alejada de la piel [2006.01]"
+  },
+  {
+    "code": "A61F 13/515",
+    "description": "••••••caracterizados por la unión entre la capa superior y la inferior [2006.01]"
+  },
+  {
+    "code": "A61F 13/53",
+    "description": "••••caracterizados por el medio absorbente (A61F 13/20 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "A61F 13/531",
+    "description": "••••••teniendo una composición homogénea en todo el espesor del núcleo absorbente (A61F 13/538, A61F 13/539 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "A61F 13/532",
+    "description": "••••••••no homogénea en el plano de la almohadilla absorbente [2006.01]"
+  },
+  {
+    "code": "A61F 13/533",
+    "description": "••••••••••con zonas de compresión discontinuas [2006.01]"
+  },
+  {
+    "code": "A61F 13/534",
+    "description": "••••••con una composición no homogénea en todo el espesor del núcleo absorbente (A61F 13/538, A61F 13/539 tienen prioridad; núcleos homogéneos con una envoltura en tejido A61F 13/531) [2006.01]"
+  },
+  {
+    "code": "A61F 13/535",
+    "description": "••••••••no homogénea en el plano de la compresa absorbente, p. ej. con las capas absorbentes del núcleo de diferentes tamaños (A61F 13/537 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "A61F 13/536",
+    "description": "••••••••••con zonas de compresión discontinuas [2006.01]"
+  },
+  {
+    "code": "A61F 13/537",
+    "description": "••••••••caracterizados por una capa que facilita o inhibe el flujo en una dirección o un plano, p. ej. una capa con efecto de mecha [2006.01]"
+  },
+  {
+    "code": "A61F 13/538",
+    "description": "••••••caracterizados por una orientación o un tejido específicos de las fibras [2006.01]"
+  },
+  {
+    "code": "A61F 13/539",
+    "description": "••••••caracterizados por la unión de las capas absorbentes entre ellas o con las capas externas [2006.01]"
+  },
+  {
+    "code": "A61F 13/551",
+    "description": "••••Envases o disposiciones para envolver compresas usadas, p.ej para su tirarlas a la basura [2006.01]"
+  },
+  {
+    "code": "A61F 13/56",
+    "description": "••••Medios para mantenerlas en su sitio o para fijarlas [2006.01]"
+  },
+  {
+    "code": "A61F 13/58",
+    "description": "••••••Tiras de fijación adhesivas (A61F 13/66 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "A61F 13/60",
+    "description": "••••••••con medios para quitar las compresas asociados a las tiras de fijación [2006.01]"
+  },
+  {
+    "code": "A61F 13/62",
+    "description": "••••••Bandas de fijación en material textil, p. ej. tipo \"velcro\" (A61F 13/66 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "A61F 13/64",
+    "description": "••••••Correas, cinturones, cintas de atar o bandas sin fin (A61F 13/66 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "A61F 13/66",
+    "description": "••••••Prendas de vestir, dispositivos de sujeción o soporte de los que las compresas absorbentes no forman parte integrante [2006.01]"
+  },
+  {
+    "code": "A61F 13/68",
+    "description": "••••••••que cubren el abdomen [2006.01]"
+  },
+  {
+    "code": "A61F 13/70",
+    "description": "••••••••••con la zona de la entrepierna que se puede abrir o eliminar [2006.01]"
+  },
+  {
+    "code": "A61F 13/72",
+    "description": "••••••••••con banda sin fin rodeando la cintura, p.ej. tipo slip [2006.01]"
+  },
+  {
+    "code": "A61F 13/74",
+    "description": "••••••••con medios para retener las compresas absorbentes [2006.01]"
+  },
+  {
+    "code": "A61F 13/76",
+    "description": "••••••••••dispuestos perpendicularmente a la anchura de las compresas o a la de sus elementos de fijación, p. ej. correas, alas o pliegues [2006.01]"
+  },
+  {
+    "code": "A61F 13/78",
+    "description": "••••••••••••con botones o automáticos [2006.01]"
+  },
+  {
+    "code": "A61F 13/80",
+    "description": "••••••••con posición regulable en la entrepierna [2006.01]"
+  },
+  {
+    "code": "A61F 13/82",
+    "description": "••••••••con medios de sujeción al cuerpo [2006.01]"
+  },
+  {
+    "code": "A61F 13/84",
+    "description": "••••Accesorios, no previstos en otro lugar, para las compresas absorbentes [2006.01]"
+  },
+  {
+    "code": "A61F 15/00",
+    "description": "Accesorios auxiliares para curas; Recipientes distribuidores de curas o de vendas [2006.01]"
+  },
+  {
+    "code": "A61F 15/02",
+    "description": "••Dispositivos para cortar vendas de todo tipo, p. ej. tijeras, sierras para escayola [2006.01]"
+  },
+  {
+    "code": "A61F 17/00",
+    "description": "Botiquines de primeros auxilios [2006.01]"
+  }
+]

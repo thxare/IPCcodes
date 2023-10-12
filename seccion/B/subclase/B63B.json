@@ -1,0 +1,1574 @@
+[
+  {
+    "code": "B63B 1/00",
+    "description": "Características hidrodinámicas o hidrostáticas de cascos o aletas portantes (cascos para submarinos B63B 3/13; quillas B63B 3/38) [2006.01]"
+  },
+  {
+    "code": "B63B 1/02",
+    "description": "••obteniendo el empuje principalmente del desplazamiento de agua (B63B 1/16 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B63B 1/04",
+    "description": "••••con casco único [2006.01]"
+  },
+  {
+    "code": "B63B 1/06",
+    "description": "••••••Forma de la parte delantera [2006.01]"
+  },
+  {
+    "code": "B63B 1/08",
+    "description": "••••••Forma de la parte trasera [2006.01]"
+  },
+  {
+    "code": "B63B 1/10",
+    "description": "••••con cascos múltiples [2006.01]"
+  },
+  {
+    "code": "B63B 1/12",
+    "description": "••••••estando los cascos interconectados rígidamente [2006.01]"
+  },
+  {
+    "code": "B63B 1/14",
+    "description": "••••••estando los cascos interconectados elásticamente [2006.01]"
+  },
+  {
+    "code": "B63B 1/16",
+    "description": "••obteniendo empuje adicional de fuerzas hidrodinámicas [2006.01]"
+  },
+  {
+    "code": "B63B 1/18",
+    "description": "••••del tipo hidroplano [2006.01]"
+  },
+  {
+    "code": "B63B 1/20",
+    "description": "••••••teniendo más de una superficie portante (B63B 1/22 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B63B 1/22",
+    "description": "••••••de superficies portantes regulables [2006.01]"
+  },
+  {
+    "code": "B63B 1/24",
+    "description": "••••del tipo hidroala (hidroalas para tablas de deportes acuáticos B63B 32/60; hidroalas para otros dispositivos de soporte corporal de deportes acuáticos B63B 34/40) [2020.01]"
+  },
+  {
+    "code": "B63B 1/26",
+    "description": "••••••teniendo más de un ala portante (B63B 1/28 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B63B 1/28",
+    "description": "••••••de alas portantes regulables [2006.01]"
+  },
+  {
+    "code": "B63B 1/30",
+    "description": "••••••••desarmables o plegables [2006.01]"
+  },
+  {
+    "code": "B63B 1/32",
+    "description": "••Otros medios para hacer variar las características hidrodinámicas inherentes a los cascos [2006.01]"
+  },
+  {
+    "code": "B63B 1/34",
+    "description": "••••por reducción de la superficie de rozamiento [2006.01]"
+  },
+  {
+    "code": "B63B 1/36",
+    "description": "••••••utilizando medios mecánicos [2006.01]"
+  },
+  {
+    "code": "B63B 1/38",
+    "description": "••••••utilizando burbujas de aire o colchones de aire [2006.01]"
+  },
+  {
+    "code": "B63B 1/40",
+    "description": "••••por disminución de la resistencia a las olas [2006.01]"
+  },
+  {
+    "code": "B63B 3/00",
+    "description": "Cascos caracterizados por su estructura o componentes (cascos no metálicos B63B 5/00; métodos de diseño, construcción, mantenimiento o reparación B63B 71/00-B63B 83/00) [2006.01]"
+  },
+  {
+    "code": "B63B 3/02",
+    "description": "••Cascos ensamblados a partir de subconjuntos prefabricados [2006.01]"
+  },
+  {
+    "code": "B63B 3/04",
+    "description": "••••de subconjuntos unidos permanentemente [2006.01]"
+  },
+  {
+    "code": "B63B 3/06",
+    "description": "••••••siendo los subconjuntos esencialmente idénticos [2006.01]"
+  },
+  {
+    "code": "B63B 3/08",
+    "description": "••••de subconjuntos en unión no permanente [2006.01]"
+  },
+  {
+    "code": "B63B 3/09",
+    "description": "••Cascos de metal antimagnético [2006.01]"
+  },
+  {
+    "code": "B63B 3/10",
+    "description": "••Cascos blindados [2006.01]"
+  },
+  {
+    "code": "B63B 3/12",
+    "description": "••Cascos sin cuadernas [2006.01]"
+  },
+  {
+    "code": "B63B 3/13",
+    "description": "••Cascos resistentes a la presión hidrostática, cuando se hallan totalmente sumergidos, p. ej. cascos de submarinos [2006.01]"
+  },
+  {
+    "code": "B63B 3/14",
+    "description": "••Elementos de cascos (blindaje de casco B63B 3/10) [2006.01]"
+  },
+  {
+    "code": "B63B 3/16",
+    "description": "••••Tablazones exteriores (portañolas o cierres de tablazón B63B 19/00) [2006.01]"
+  },
+  {
+    "code": "B63B 3/18",
+    "description": "••••••cuyas características predominantes son el estar formadas de elementos que puedan ser desarrollados en el interior de superficies planas [2006.01]"
+  },
+  {
+    "code": "B63B 3/20",
+    "description": "••••••de tipo doble [2006.01]"
+  },
+  {
+    "code": "B63B 3/22",
+    "description": "••••••con ondulaciones [2006.01]"
+  },
+  {
+    "code": "B63B 3/24",
+    "description": "••••••Medios para disminuir las aristas o apéndices exteriores [2006.01]"
+  },
+  {
+    "code": "B63B 3/26",
+    "description": "••••Cuadernas [2006.01]"
+  },
+  {
+    "code": "B63B 3/28",
+    "description": "••••••de tipo transversal; Trancaniles de refuerzo [2006.01]"
+  },
+  {
+    "code": "B63B 3/30",
+    "description": "••••••••Cartabones de baos; Curvas de pantogue [2006.01]"
+  },
+  {
+    "code": "B63B 3/32",
+    "description": "••••••Bulárcama; Baos [2006.01]"
+  },
+  {
+    "code": "B63B 3/34",
+    "description": "••••••de tipo longitudinal; Uniones de mamparas [2006.01]"
+  },
+  {
+    "code": "B63B 3/36",
+    "description": "••••••Sistemas de estructuras combinadas [2006.01]"
+  },
+  {
+    "code": "B63B 3/38",
+    "description": "••••Quillas (quillas móviles B63B 41/00) [2006.01]"
+  },
+  {
+    "code": "B63B 3/40",
+    "description": "••••Codastes; Marcos de codaste [2006.01]"
+  },
+  {
+    "code": "B63B 3/42",
+    "description": "••••Soportes de eje [2006.01]"
+  },
+  {
+    "code": "B63B 3/44",
+    "description": "••••Quillas de balance (como estabilización B63B 39/06) [2006.01]"
+  },
+  {
+    "code": "B63B 3/46",
+    "description": "••••Rodas [2006.01]"
+  },
+  {
+    "code": "B63B 3/48",
+    "description": "••••Cubiertas (tablazón B63B 5/06) [2006.01]"
+  },
+  {
+    "code": "B63B 3/50",
+    "description": "••••••de tipo abovedado [2006.01]"
+  },
+  {
+    "code": "B63B 3/52",
+    "description": "••••••Puntales; Longitudinales [2006.01]"
+  },
+  {
+    "code": "B63B 3/54",
+    "description": "••••••Brazolas de escotilla [2006.01]"
+  },
+  {
+    "code": "B63B 3/56",
+    "description": "••••Mamparas; Refuerzos de mampara (disposiciones de puertas estancas B63B 43/24) [2006.01]"
+  },
+  {
+    "code": "B63B 3/58",
+    "description": "••••••con tablazón plano [2006.01]"
+  },
+  {
+    "code": "B63B 3/60",
+    "description": "••••••con tablazón curvo u ondulado [2006.01]"
+  },
+  {
+    "code": "B63B 3/62",
+    "description": "••••Fondos dobles; Partes altas de los sollados [2006.01]"
+  },
+  {
+    "code": "B63B 3/64",
+    "description": "••••••Carlingas [2006.01]"
+  },
+  {
+    "code": "B63B 3/66",
+    "description": "••••Enjaretados [2006.01]"
+  },
+  {
+    "code": "B63B 3/68",
+    "description": "••••Revestimiento; Forro, p. ej. para aislamiento [2006.01]"
+  },
+  {
+    "code": "B63B 3/70",
+    "description": "••••Refuerzos para soportar cargas localizadas, p. ej. aparatos de propulsión, cañones [2006.01]"
+  },
+  {
+    "code": "B63B 5/00",
+    "description": "Cascos caracterizados por su construcción en un material no metálico [2006.01]"
+  },
+  {
+    "code": "B63B 5/02",
+    "description": "••predominantemente de madera [2006.01]"
+  },
+  {
+    "code": "B63B 5/04",
+    "description": "••••Carcasas [2006.01]"
+  },
+  {
+    "code": "B63B 5/06",
+    "description": "••••Puentes; Tablazones exteriores [2006.01]"
+  },
+  {
+    "code": "B63B 5/08",
+    "description": "••••••con una sola capa de tablazones [2006.01]"
+  },
+  {
+    "code": "B63B 5/10",
+    "description": "••••••con varias capas de tablazones [2006.01]"
+  },
+  {
+    "code": "B63B 5/12",
+    "description": "••predominantemente de madera con refuerzos metálicos, es decir, construcción mixta [2006.01]"
+  },
+  {
+    "code": "B63B 5/14",
+    "description": "••predominantemente de cemento, p. ej. cemento armado [2006.01]"
+  },
+  {
+    "code": "B63B 5/16",
+    "description": "••••monolítico [2006.01]"
+  },
+  {
+    "code": "B63B 5/18",
+    "description": "••••construido por elementos [2006.01]"
+  },
+  {
+    "code": "B63B 5/20",
+    "description": "••••••en combinación con elementos de distintos materiales [2006.01]"
+  },
+  {
+    "code": "B63B 5/22",
+    "description": "••••reforzados por piezas exteriores al tablazón [2006.01]"
+  },
+  {
+    "code": "B63B 5/24",
+    "description": "••hechos principalmente de plásticos [2006.01]"
+  },
+  {
+    "code": "B63B 7/00",
+    "description": "Embarcaciones desmontables, plegables, inflables o similares (tablas de deportes acuáticos desmontables, plegables o inflables B63B 32/53; canoas, kayaks o similares desmontables, plegables o inflables, B63B 34/23; pontones plegables B63B 35/36) [2020.01]"
+  },
+  {
+    "code": "B63B 7/02",
+    "description": "••que comprenden solamente partes rígidas [2020.01]"
+  },
+  {
+    "code": "B63B 7/04",
+    "description": "••••divididas en partes desmontables (tablas de deportes acuáticos divididas en partes desmontables B63B 32/53; canoas, kayaks o similares divididas en partes desmontables B63B 34/23) [2020.01]"
+  },
+  {
+    "code": "B63B 7/06",
+    "description": "••teniendo partes de material no rígido [2020.01]"
+  },
+  {
+    "code": "B63B 7/08",
+    "description": "••••hinchables (tablas hinchables para deportes acuáticos B63B 32/51; canoas, kayaks o similares hinchables o que tienen partes hinchables B63B 34/22) [2020.01]"
+  },
+  {
+    "code": "B63B 11/00",
+    "description": "Subdivisión interior de cascos (estructura del espacio de mamparas B63B 3/56) [2006.01]"
+  },
+  {
+    "code": "B63B 11/02",
+    "description": "••Disposición de mamparas, p. ej. definición de los espacios de carga [2006.01]"
+  },
+  {
+    "code": "B63B 11/04",
+    "description": "••Características de construcción de sentinas o tanques de lastre, p. ej. con mamparas elásticas [2006.01]"
+  },
+  {
+    "code": "B63B 11/06",
+    "description": "••Túneles para los ejes de hélices [2006.01]"
+  },
+  {
+    "code": "B63B 13/00",
+    "description": "Conductos para desaguado o lastrado; Equipos de achicado automático; Embornales [2006.01]"
+  },
+  {
+    "code": "B63B 13/02",
+    "description": "••Portañolas para paso de agua a través del tablazón del buque [2006.01]"
+  },
+  {
+    "code": "B63B 15/00",
+    "description": "Superestructuras; Disposiciones o adaptaciones de mástiles [2006.01]"
+  },
+  {
+    "code": "B63B 15/02",
+    "description": "••Arriostramiento de mástiles u otras superestructuras [2006.01]"
+  },
+  {
+    "code": "B63B 17/00",
+    "description": "Partes de embarcaciones, detalles o accesorios, no previstos en otro lugar [2006.01]"
+  },
+  {
+    "code": "B63B 17/02",
+    "description": "••Toldillas [2006.01]"
+  },
+  {
+    "code": "B63B 17/04",
+    "description": "••Candeleros; Barandillas [2006.01]"
+  },
+  {
+    "code": "B63B 17/06",
+    "description": "••Evacuación de desechos, p. ej. para cenizas [2006.01]"
+  },
+  {
+    "code": "B63B 19/00",
+    "description": "Disposiciones o adaptaciones de portas, puertas, ventanas, tragaluces u otras aberturas o cubiertas (imbornales B63B 13/00; disposiciones de puertas estancas sobre mamparas B63B 43/24) [2006.01]"
+  },
+  {
+    "code": "B63B 19/02",
+    "description": "••Ventanas especialmente adaptadas para barcos u otros medios de transporte acuáticos, p.ej. pantallas para buena visibilidad u ojos de buey [2006.01]"
+  },
+  {
+    "code": "B63B 19/04",
+    "description": "••Instalaciones de toma de aire por ventanas o portillas [2006.01]"
+  },
+  {
+    "code": "B63B 19/06",
+    "description": "••••fácilmente desmontables [2006.01]"
+  },
+  {
+    "code": "B63B 19/08",
+    "description": "••Portas o aberturas análogas en los costados del buque (portañolas para paso de agua a través del tablazón del buque B63B 13/02) [2006.01]"
+  },
+  {
+    "code": "B63B 19/10",
+    "description": "••••Portas de carbón [2006.01]"
+  },
+  {
+    "code": "B63B 19/12",
+    "description": "••Escotillas; Paneles de escotillas (brazolas B63B 3/54) [2006.01]"
+  },
+  {
+    "code": "B63B 19/14",
+    "description": "••••Tapas de escotillas [2006.01]"
+  },
+  {
+    "code": "B63B 19/16",
+    "description": "••••••con paneles desmontables [2006.01]"
+  },
+  {
+    "code": "B63B 19/18",
+    "description": "••••••deslizantes [2006.01]"
+  },
+  {
+    "code": "B63B 19/19",
+    "description": "••••••replegables [2006.01]"
+  },
+  {
+    "code": "B63B 19/197",
+    "description": "••••••••accionadas por presión de fluido [2006.01]"
+  },
+  {
+    "code": "B63B 19/203",
+    "description": "••••••••accionadas por cables o similares [2006.01]"
+  },
+  {
+    "code": "B63B 19/21",
+    "description": "••••••de tipo giratorio [2006.01]"
+  },
+  {
+    "code": "B63B 19/22",
+    "description": "••••Baos móviles [2006.01]"
+  },
+  {
+    "code": "B63B 19/24",
+    "description": "••••Fijaciones de escotillas, p. ej. cornamusas [2006.01]"
+  },
+  {
+    "code": "B63B 19/26",
+    "description": "••••Juntas de estanqueidad; Medios de drenaje [2006.01]"
+  },
+  {
+    "code": "B63B 19/28",
+    "description": "••••Otros dispositivos de seguridad [2006.01]"
+  },
+  {
+    "code": "B63B 21/00",
+    "description": "Aparatos de maniobra; Aparatos de desplazamiento, remolque o empuje; Anclaje (anclaje dinámico B63H 25/00; equipos para embarque en costas, puertos o en otras estructuras marinas fijas, p.ej. para aterrizaje, E02B) [2006.01]"
+  },
+  {
+    "code": "B63B 21/02",
+    "description": "••Aparatos para amarre magnético [2006.01]"
+  },
+  {
+    "code": "B63B 21/04",
+    "description": "••Aparatos de fijación o de guía para cadenas, amarras, estachas o materiales análogos [2006.01]"
+  },
+  {
+    "code": "B63B 21/06",
+    "description": "••••Bitas [2006.01]"
+  },
+  {
+    "code": "B63B 21/08",
+    "description": "••••Dispositivos de bloqueo [2006.01]"
+  },
+  {
+    "code": "B63B 21/10",
+    "description": "••••Guiacabos [2006.01]"
+  },
+  {
+    "code": "B63B 21/12",
+    "description": "••••Guardarratas [2006.01]"
+  },
+  {
+    "code": "B63B 21/14",
+    "description": "••••Escobones; Falderos del escobar; Cierres de los agujeros del escobón [2006.01]"
+  },
+  {
+    "code": "B63B 21/16",
+    "description": "••Utilización de cabrias [2006.01]"
+  },
+  {
+    "code": "B63B 21/18",
+    "description": "••Estopores para cadenas de ancla [2006.01]"
+  },
+  {
+    "code": "B63B 21/20",
+    "description": "••Adaptación de cadenas, amarras, estachas o materiales análogos o partes de ellos [2006.01]"
+  },
+  {
+    "code": "B63B 21/22",
+    "description": "••Maniobra o amarre de anclas [2006.01]"
+  },
+  {
+    "code": "B63B 21/24",
+    "description": "••Anclas [2006.01]"
+  },
+  {
+    "code": "B63B 21/26",
+    "description": "••••con sistema de seguridad de anclaje en el fondo [2006.01]"
+  },
+  {
+    "code": "B63B 21/27",
+    "description": "••••••por succión [2006.01]"
+  },
+  {
+    "code": "B63B 21/28",
+    "description": "••••••por carga explosiva [2006.01]"
+  },
+  {
+    "code": "B63B 21/29",
+    "description": "••••••por pesos, p. ej. anclas de peso sin brazos [2006.01]"
+  },
+  {
+    "code": "B63B 21/30",
+    "description": "••••rígidos cuando se utilizan [2006.01]"
+  },
+  {
+    "code": "B63B 21/32",
+    "description": "••••••de una uña [2006.01]"
+  },
+  {
+    "code": "B63B 21/34",
+    "description": "••••••con dos o más uñas [2006.01]"
+  },
+  {
+    "code": "B63B 21/36",
+    "description": "••••••••plegable [2006.01]"
+  },
+  {
+    "code": "B63B 21/38",
+    "description": "••••que pivotan cuando se utilizan [2006.01]"
+  },
+  {
+    "code": "B63B 21/40",
+    "description": "••••••de una uña [2006.01]"
+  },
+  {
+    "code": "B63B 21/42",
+    "description": "••••••••del tipo de arado [2006.01]"
+  },
+  {
+    "code": "B63B 21/44",
+    "description": "••••••con dos o más uñas [2006.01]"
+  },
+  {
+    "code": "B63B 21/46",
+    "description": "••••en conexión con la cadena regulable, p. ej. deslizante [2006.01]"
+  },
+  {
+    "code": "B63B 21/48",
+    "description": "••••Anclas de mar; Anclas flotantes [2006.01]"
+  },
+  {
+    "code": "B63B 21/50",
+    "description": "••Dispositivos de anclaje para buques especiales, p. ej. para plataformas flotantes de perforación o drenajes [2006.01]"
+  },
+  {
+    "code": "B63B 21/54",
+    "description": "••Bicheros o similares [2006.01]"
+  },
+  {
+    "code": "B63B 21/56",
+    "description": "••Aparatos de remolque o de empuje (remolcadores B63B 35/66; aparatos de remolque para deportes acuáticos B63B 34/60) [2006.01]"
+  },
+  {
+    "code": "B63B 21/58",
+    "description": "••••Adaptación de garfios de remolque; Montaje de garfios de remolque [2006.01]"
+  },
+  {
+    "code": "B63B 21/60",
+    "description": "••••••Sistema de largado rápido [2006.01]"
+  },
+  {
+    "code": "B63B 21/62",
+    "description": "••••caracterizados por el empleo para desplazar varios buques [2006.01]"
+  },
+  {
+    "code": "B63B 21/64",
+    "description": "••••Equipo para remolcar o empujar los buques con la ayuda de vehículos o dispositivos que se desplazan sobre vías situadas en la tierra a lo largo de una ría de agua (bicheros o dispositivos análogos B63B 21/54) [2006.01]"
+  },
+  {
+    "code": "B63B 21/66",
+    "description": "••••Equipos especialmente adoptados para remolcar bajo el agua objetos o buques, p. ej. carenado hidrodinámico por cables de remolcar, enmaestrado [2006.01]"
+  },
+  {
+    "code": "B63B 22/00",
+    "description": "Boyas (medios para señalar el emplazamiento de objetos sumergidos B63C 7/26; boyas salvavidas, p. ej. en forma de corona B63C 9/08) [2006.01]"
+  },
+  {
+    "code": "B63B 22/02",
+    "description": "••especialmente adaptadas para el amarraje de un barco [2006.01]"
+  },
+  {
+    "code": "B63B 22/04",
+    "description": "••Dispositivos de anclaje [2006.01]"
+  },
+  {
+    "code": "B63B 22/06",
+    "description": "••••con medios para llamar la boya a la superficie en respuesta a una señal emitida [2006.01]"
+  },
+  {
+    "code": "B63B 22/08",
+    "description": "••••que tienen medios para liberar o empujar a la superficie una boya sumergida, p. ej. para marcar el emplazamiento de objetos sumergidos [2006.01]"
+  },
+  {
+    "code": "B63B 22/10",
+    "description": "••••••Medios solubles o frágiles para el agua, es decir, boyas soltadas por un medio de fijación boya-objeto que se destruye en contacto con el agua [2006.01]"
+  },
+  {
+    "code": "B63B 22/12",
+    "description": "••••••la vuelta a la superficie de la boya se facilita por la liberación o producción de un gas que está inmerso en la boya [2006.01]"
+  },
+  {
+    "code": "B63B 22/14",
+    "description": "••••••Medios de fijación boya-objeto que responden a la presión hidrostática [2006.01]"
+  },
+  {
+    "code": "B63B 22/16",
+    "description": "••especialmente adaptados para marcar una ruta de navegación [2006.01]"
+  },
+  {
+    "code": "B63B 22/18",
+    "description": "••que tienen medios para regular la actitud o posición, p. ej. superficies de reacción o cuerdas [2006.01]"
+  },
+  {
+    "code": "B63B 22/20",
+    "description": "••••Medios de balastro [2006.01]"
+  },
+  {
+    "code": "B63B 22/22",
+    "description": "••Boyas inflables con medios para producción de gas (B63B 22/12  tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B63B 22/24",
+    "description": "••de tipo contenedor, es decir, teniendo disposiciones para almacenar material [2006.01]"
+  },
+  {
+    "code": "B63B 22/26",
+    "description": "••••teniendo medios para liberar selectivamente el contenido, p. ej. conexiones pivotantes [2006.01]"
+  },
+  {
+    "code": "B63B 22/28",
+    "description": "••••sumergidos cuando no se utilizan [2006.01]"
+  },
+  {
+    "code": "B63B 23/00",
+    "description": "Aparatos para la maniobra de botes salvavidas [2006.01]"
+  },
+  {
+    "code": "B63B 23/02",
+    "description": "••Pescantes, es decir, sistemas de brazos para la colocación en el agua de las embarcaciones por cables o medios análogos [2006.01]"
+  },
+  {
+    "code": "B63B 23/04",
+    "description": "••••con brazos pivotando según un eje esencialmente horizontal, p. ej. del tipo de gravedad [2006.01]"
+  },
+  {
+    "code": "B63B 23/06",
+    "description": "••••••con pivotes reales [2006.01]"
+  },
+  {
+    "code": "B63B 23/08",
+    "description": "••••••••siendo los brazos articulados [2006.01]"
+  },
+  {
+    "code": "B63B 23/10",
+    "description": "••••••••con accionamiento directo de los brazos [2006.01]"
+  },
+  {
+    "code": "B63B 23/12",
+    "description": "••••••con pivotes ficticios [2006.01]"
+  },
+  {
+    "code": "B63B 23/14",
+    "description": "••••••••empleando un sistema de eslabones [2006.01]"
+  },
+  {
+    "code": "B63B 23/16",
+    "description": "••••••••empleando caminos de guía [2006.01]"
+  },
+  {
+    "code": "B63B 23/18",
+    "description": "••••de brazos pivotando según un eje esencialmente vertical [2006.01]"
+  },
+  {
+    "code": "B63B 23/20",
+    "description": "••••••Pescantes de un solo brazo [2006.01]"
+  },
+  {
+    "code": "B63B 23/22",
+    "description": "••••••••Eslingas o accesorios similares para pescantes [2006.01]"
+  },
+  {
+    "code": "B63B 23/24",
+    "description": "••••••Aparatos que giran para pescantes [2006.01]"
+  },
+  {
+    "code": "B63B 23/26",
+    "description": "••••con traslación rectilínea del bote antes de su puesta en agua [2006.01]"
+  },
+  {
+    "code": "B63B 23/28",
+    "description": "••Sistemas para hacer caer o liberar los botes en caída libre [2006.01]"
+  },
+  {
+    "code": "B63B 23/30",
+    "description": "••Sistemas para el guiado de botes a la superficie del agua [2006.01]"
+  },
+  {
+    "code": "B63B 23/32",
+    "description": "••••Guías rígidas, p. ej. que tengan brazos que giran cerca de la línea de flotación [2006.01]"
+  },
+  {
+    "code": "B63B 23/34",
+    "description": "••••Medios de guía para la colocación en el agua por cables, p. ej.para buques que tengan escora [2006.01]"
+  },
+  {
+    "code": "B63B 23/36",
+    "description": "••••••Defensas de corredera [2006.01]"
+  },
+  {
+    "code": "B63B 23/38",
+    "description": "••Transferencia de botes a los pescantes o dispositivos análogos [2006.01]"
+  },
+  {
+    "code": "B63B 23/40",
+    "description": "••Aparellaje de bajada o elevación [2006.01]"
+  },
+  {
+    "code": "B63B 23/42",
+    "description": "••••con equipo de frenado [2006.01]"
+  },
+  {
+    "code": "B63B 23/44",
+    "description": "••••••a bordo del buque [2006.01]"
+  },
+  {
+    "code": "B63B 23/46",
+    "description": "••••••en el bote [2006.01]"
+  },
+  {
+    "code": "B63B 23/48",
+    "description": "••••Empleo de cabrias para la maniobra de botes [2006.01]"
+  },
+  {
+    "code": "B63B 23/50",
+    "description": "••••••con aparato tensor [2006.01]"
+  },
+  {
+    "code": "B63B 23/52",
+    "description": "••••••con mando de las cabrias desde el bote [2006.01]"
+  },
+  {
+    "code": "B63B 23/54",
+    "description": "••••con equipo de estiba [2006.01]"
+  },
+  {
+    "code": "B63B 23/56",
+    "description": "••••••mandado desde el bote [2006.01]"
+  },
+  {
+    "code": "B63B 23/58",
+    "description": "••••con un aparato de fijación o de largado del aparejo [2006.01]"
+  },
+  {
+    "code": "B63B 23/60",
+    "description": "••••Conexiones adicionales entre botes y pescantes [2006.01]"
+  },
+  {
+    "code": "B63B 23/62",
+    "description": "••Fijación o puesta en su lugar de los botes en cubierta [2006.01]"
+  },
+  {
+    "code": "B63B 23/64",
+    "description": "••••Trincas; Cubiertas [2006.01]"
+  },
+  {
+    "code": "B63B 23/66",
+    "description": "••••Motones; Gradas de botes [2006.01]"
+  },
+  {
+    "code": "B63B 23/68",
+    "description": "••••••para botes apilados [2006.01]"
+  },
+  {
+    "code": "B63B 23/70",
+    "description": "••Equipamientos de maniobra que responden a la situación, p. ej. soltado automático del bote a partir de que los aparejos de bajado toman contacto con el agua [2006.01]"
+  },
+  {
+    "code": "B63B 25/00",
+    "description": "Instalaciones de acomodación de carga, p. ej. estiba, centrado o compensado; Buques caracterizados por ello (cubas para pescado de barcos de pesca B63B 35/24; equilibrado o compensación efectuado de otra forma que por división de la carga, p. ej. por empleo de lastre, B63B 43/06, B63B 43/08) [2006.01]"
+  },
+  {
+    "code": "B63B 25/02",
+    "description": "••para carga de mercancías [2006.01]"
+  },
+  {
+    "code": "B63B 25/04",
+    "description": "••••sólidas [2006.01]"
+  },
+  {
+    "code": "B63B 25/06",
+    "description": "••••••para cereales [2006.01]"
+  },
+  {
+    "code": "B63B 25/08",
+    "description": "••••fluidos [2006.01]"
+  },
+  {
+    "code": "B63B 25/10",
+    "description": "••••••abiertas al aire libre [2006.01]"
+  },
+  {
+    "code": "B63B 25/12",
+    "description": "••••••cerrados [2006.01]"
+  },
+  {
+    "code": "B63B 25/14",
+    "description": "••••••••presurizados [2006.01]"
+  },
+  {
+    "code": "B63B 25/16",
+    "description": "••••••••aisladas del calor [2006.01]"
+  },
+  {
+    "code": "B63B 25/18",
+    "description": "••Cubiertas desmontables [2006.01]"
+  },
+  {
+    "code": "B63B 25/20",
+    "description": "••••para vehículos de motor o similares [2006.01]"
+  },
+  {
+    "code": "B63B 25/22",
+    "description": "••para artículos paletizados [2006.01]"
+  },
+  {
+    "code": "B63B 25/24",
+    "description": "••Medios para evitar los desplazamientos indeseables de la carga, p. ej. fardaje [2006.01]"
+  },
+  {
+    "code": "B63B 25/26",
+    "description": "••para mercancías congeladas [2006.01]"
+  },
+  {
+    "code": "B63B 25/28",
+    "description": "••para cargas sobre el puente [2006.01]"
+  },
+  {
+    "code": "B63B 27/00",
+    "description": "Disposición de equipos a bordo para el embarque o el desembarque de carga o de pasajeros (gabarras o barcazas de descarga automática B63B 35/30; grúas flotantes B66C 23/52) [2006.01]"
+  },
+  {
+    "code": "B63B 27/04",
+    "description": "••de puntales de carga [2006.01]"
+  },
+  {
+    "code": "B63B 27/08",
+    "description": "••de cabrias [2006.01]"
+  },
+  {
+    "code": "B63B 27/10",
+    "description": "••de grúas [2006.01]"
+  },
+  {
+    "code": "B63B 27/12",
+    "description": "••••de tipo pórtico [2006.01]"
+  },
+  {
+    "code": "B63B 27/14",
+    "description": "••de rampas, pasarelas o escaleras exteriores [2006.01]"
+  },
+  {
+    "code": "B63B 27/16",
+    "description": "••de ascensores o aparatos de elevación [2006.01]"
+  },
+  {
+    "code": "B63B 27/18",
+    "description": "••de cables aéreos, p. ej. con dispositivo para transferir personas entre dos buques en el mar [2006.01]"
+  },
+  {
+    "code": "B63B 27/22",
+    "description": "••de transportadores, p. ej. correa sin fin o husillo [2006.01]"
+  },
+  {
+    "code": "B63B 27/24",
+    "description": "••de sistemas de canalizaciones por tuberías [2006.01]"
+  },
+  {
+    "code": "B63B 27/25",
+    "description": "••••para material a granel fluidificado [2006.01]"
+  },
+  {
+    "code": "B63B 27/26",
+    "description": "••de dispositivos de proyección [2006.01]"
+  },
+  {
+    "code": "B63B 27/28",
+    "description": "••de columnas de caída [2006.01]"
+  },
+  {
+    "code": "B63B 27/30",
+    "description": "••para transferir entre dos buques en el mar o entre un buque y una estructura situada en el mar [2006.01]"
+  },
+  {
+    "code": "B63B 27/32",
+    "description": "••••utilizando cable de transporte aéreo [2006.01]"
+  },
+  {
+    "code": "B63B 27/34",
+    "description": "••••utilizando canalizaciones de tuberías [2006.01]"
+  },
+  {
+    "code": "B63B 27/36",
+    "description": "••para cargas flotantes [2006.01]"
+  },
+  {
+    "code": "B63B 29/00",
+    "description": "Acomodación de la tripulación o pasajeros no prevista en otro lugar [2006.01]"
+  },
+  {
+    "code": "B63B 29/02",
+    "description": "••Camarotes u otros espacios para habitación; Su estructura o disposición [2006.01]"
+  },
+  {
+    "code": "B63B 29/04",
+    "description": "••••Mobiliario especialmente adaptado para barcos [2006.01]"
+  },
+  {
+    "code": "B63B 29/06",
+    "description": "••••••Fijación a los suelos [2006.01]"
+  },
+  {
+    "code": "B63B 29/08",
+    "description": "••••••Dispositivos antideslizantes para mesas, p. ej. elementos de sujeción [2006.01]"
+  },
+  {
+    "code": "B63B 29/10",
+    "description": "••••••Literas; Escalinatas de acceso a ellas [2006.01]"
+  },
+  {
+    "code": "B63B 29/12",
+    "description": "••••••Montajes de puesta horizontal automática [2006.01]"
+  },
+  {
+    "code": "B63B 29/14",
+    "description": "••••Sanitarios o similares con limpieza por descarga de agua; Lavabos o bañeras propios de barcos [2006.01]"
+  },
+  {
+    "code": "B63B 29/16",
+    "description": "••Evacuaciones de aguas sucias [2006.01]"
+  },
+  {
+    "code": "B63B 29/18",
+    "description": "••Instalaciones o adaptaciones relativas a las piscinas [2006.01]"
+  },
+  {
+    "code": "B63B 29/20",
+    "description": "••Instalaciones o adaptaciones para escalas (escalinatas de acceso o las literas B63B 29/10) [2006.01]"
+  },
+  {
+    "code": "B63B 29/22",
+    "description": "••Cocinas [2006.01]"
+  },
+  {
+    "code": "B63B 32/00",
+    "description": "Tablas de deportes acuáticos; Sus accesorios [2020.01]"
+  },
+  {
+    "code": "B63B 32/10",
+    "description": "••Tablas propulsadas ​​por motor para deportes acuáticos (embarcación individual a motor B63B 34/10) [2020.01]"
+  },
+  {
+    "code": "B63B 32/20",
+    "description": "••Tablas especialmente adaptadas para su uso en una posición prona, p.ej. patines en aguas bravas (patines acuáticos remolcados B63B 34/54) [2020.01]"
+  },
+  {
+    "code": "B63B 32/22",
+    "description": "••••Tablas de surf; Accesorios especialmente adaptados para los mismos [2020.01]"
+  },
+  {
+    "code": "B63B 32/30",
+    "description": "••Esquís acuáticos sujetos a los pies del usuario; Accesorios especialmente adaptados para los mismos [2020.01]"
+  },
+  {
+    "code": "B63B 32/40",
+    "description": "••Tablas Ttwintip; Wakeboards; Tablas de surf; Tablas de windsurf; Tablas de Paddle surf, p.ej. Tablas SUP; Accesorios especialmente adaptados para los mismos [2020.01]"
+  },
+  {
+    "code": "B63B 32/50",
+    "description": "••Tablas caracterizadas por sus características constructivas [2020.01]"
+  },
+  {
+    "code": "B63B 32/51",
+    "description": "••••Tablas hinchables, p.ej. tablas hinchables de punto [2020.01]"
+  },
+  {
+    "code": "B63B 32/53",
+    "description": "••••Tablas divisibles, p.ej. tablas modulares, desmontables o plegables [2020.01]"
+  },
+  {
+    "code": "B63B 32/55",
+    "description": "••••Tablas multicasco, p.ej. de tipo catamarán [2020.01]"
+  },
+  {
+    "code": "B63B 32/56",
+    "description": "••••Tablas convertibles en embarcaciones u otros tipos de tablas de deportes acuáticos, p.ej. en veleros, canoas o hidropedales [2020.01]"
+  },
+  {
+    "code": "B63B 32/57",
+    "description": "••Tablas caracterizadas por el material, p.ej. materiales laminares [2020.01]"
+  },
+  {
+    "code": "B63B 32/59",
+    "description": "••Tablas caracterizadas por su proceso de fabricación, p.ej. moldeado o impresión 3D [2020.01]"
+  },
+  {
+    "code": "B63B 32/60",
+    "description": "••Elementos de la tabla, p.ej. aletas, hidroalas o tableros centrales [2020.01]"
+  },
+  {
+    "code": "B63B 32/62",
+    "description": "••••caracterizado por el material, p.ej. materiales laminares; caracterizados por su proceso de fabricación [2020.01]"
+  },
+  {
+    "code": "B63B 32/64",
+    "description": "••••Ajustable, p.ej. agregando secciones, eliminando secciones o cambiando la orientación o el perfil [2020.01]"
+  },
+  {
+    "code": "B63B 32/66",
+    "description": "••••Disposiciones para el anclaje al tablero, p.ej. cuadros de aletas o cuadros de aluminio [2020.01]"
+  },
+  {
+    "code": "B63B 32/68",
+    "description": "••Accesorios para el pie del mástil, p.ej. rieles para los pies del mástil [2020.01]"
+  },
+  {
+    "code": "B63B 32/70",
+    "description": "••Accesorios no especialmente adaptados para un tipo particular de tabla, p.ej. elementos acolchados o de flotabilidad [2020.01]"
+  },
+  {
+    "code": "B63B 32/73",
+    "description": "••••para atar usuarios u objetos a la tabla, p.ej. correas [2020.01]"
+  },
+  {
+    "code": "B63B 32/77",
+    "description": "••Disposiciones para la fijación de accesorios a la tabla, p.ej. inserciones o rieles [2020.01]"
+  },
+  {
+    "code": "B63B 32/80",
+    "description": "••Disposiciones especialmente adaptadas para estibar o transportar tablas de deportes acuáticos [2020.01]"
+  },
+  {
+    "code": "B63B 32/83",
+    "description": "••••para estibar, p.ej. bastidores o correas [2020.01]"
+  },
+  {
+    "code": "B63B 32/87",
+    "description": "••••para llevar, p.ej. bolsas de tablas [2020.01]"
+  },
+  {
+    "code": "B63B 34/00",
+    "description": "Buques especialmente adaptados para deportes acuáticos u de ocio; Dispositivos de soporte corporal especialmente adaptados para deportes acuáticos u de ocio (tablas de deportes acuáticos B63B 32/00; armazones para nadar A63B 35/00; dispositivos de propulsión accionadas por la fuerza muscular B63H 16/00) [2020.01]"
+  },
+  {
+    "code": "B63B 34/10",
+    "description": "••Embarcaciones individuales accionadas por motor, p.ej. motos de agua (propulsión por chorro de agua B63H 11/00; manejo de chorro B63H 25/46); Sus accesorios [2020.01]"
+  },
+  {
+    "code": "B63B 34/15",
+    "description": "••••para deportes hydroflight [2020.01]"
+  },
+  {
+    "code": "B63B 34/20",
+    "description": "••Canoas, kayaks o similares [2020.01]"
+  },
+  {
+    "code": "B63B 34/21",
+    "description": "••••caracterizado por características constructivas [2020.01]"
+  },
+  {
+    "code": "B63B 34/22",
+    "description": "••••••Hinchable; que tiene partes hinchable [2020.01]"
+  },
+  {
+    "code": "B63B 34/23",
+    "description": "••••••Divisibles, p.ej. modular, desmontable o plegable [2020.01]"
+  },
+  {
+    "code": "B63B 34/26",
+    "description": "••Accesorios para canoas, kayaks o similares (efectuando la propulsión por la fuerza muscular B63H 16/00; unidades de propulsión de fueraborda B63H 20/00) [2020.01]"
+  },
+  {
+    "code": "B63B 34/30",
+    "description": "••Botes de remos especialmente adaptados para carreras; Accesorios para los mismos (propulsión por remo B63H 16/00) [2020.01]"
+  },
+  {
+    "code": "B63B 34/40",
+    "description": "••Estructuras de soporte del cuerpo soportadas dinámicamente por láminas bajo el agua [2020.01]"
+  },
+  {
+    "code": "B63B 34/45",
+    "description": "••••Accesorios para los mismos [2020.01]"
+  },
+  {
+    "code": "B63B 34/50",
+    "description": "••Dispositivos flotantes para soportar el cuerpo, p.ej. botes o hidropedales (ayudas para nadar A63B 31/00) [2020.01]"
+  },
+  {
+    "code": "B63B 34/52",
+    "description": "••••Hinchable o parcialmente hinchable [2020.01]"
+  },
+  {
+    "code": "B63B 34/54",
+    "description": "••••especialmente adaptado para ser remolcado, p.ej. barcos bananeros, trineos de agua o boyas remolcadas (disposiciones para remolcar B63B 34/60) [2020.01]"
+  },
+  {
+    "code": "B63B 34/56",
+    "description": "••••para usar en una posición de pie, p.ej. zapatos de agua, dispositivos para caminar o esquís flotantes [2020.01]"
+  },
+  {
+    "code": "B63B 34/565",
+    "description": "••••Accesorios, p.ej. bastones para caminar en el agua [2020.01]"
+  },
+  {
+    "code": "B63B 34/60",
+    "description": "••Dispositivos para remolcar, p.ej. para usar con esquís acuáticos o wakeboards [2020.01]"
+  },
+  {
+    "code": "B63B 34/63",
+    "description": "••••Medios de retención para el usuario, p.ej. manillares o arneses [2020.01]"
+  },
+  {
+    "code": "B63B 34/67",
+    "description": "••••Medios de conexión en la embarcación de remolque, p.ej. pilones, mástiles laterales o cabrestantes [2020.01]"
+  },
+  {
+    "code": "B63B 34/70",
+    "description": "••Disposiciones en embarcaciones especialmente adaptadas para generar olas para el surf, wakeboard o similares, p.ej. tanques de lastre [2020.01]"
+  },
+  {
+    "code": "B63B 34/75",
+    "description": "••••Disposiciones de láminas de estela [2020.01]"
+  },
+  {
+    "code": "B63B 35/00",
+    "description": "Buques o estructuras flotantes similares especialmente adaptadas a fines específicos y no previstas de otra manera [2020.01]"
+  },
+  {
+    "code": "B63B 35/03",
+    "description": "••Buques para la colocación de tuberías [2006.01]"
+  },
+  {
+    "code": "B63B 35/04",
+    "description": "••Buques colocadores de cable [2006.01]"
+  },
+  {
+    "code": "B63B 35/06",
+    "description": "••••para pasar los extremos de los cables del barco a la costa [2006.01]"
+  },
+  {
+    "code": "B63B 35/08",
+    "description": "••Rompehielos [2006.01]"
+  },
+  {
+    "code": "B63B 35/10",
+    "description": "••••que tengan un dispositivo creador de cabeceo o balanceo [2006.01]"
+  },
+  {
+    "code": "B63B 35/12",
+    "description": "••••teniendo cortadores de hielo [2006.01]"
+  },
+  {
+    "code": "B63B 35/14",
+    "description": "••Barcos de pesca [2006.01]"
+  },
+  {
+    "code": "B63B 35/16",
+    "description": "••••Arrastreros [2006.01]"
+  },
+  {
+    "code": "B63B 35/18",
+    "description": "••••••adaptados para la recogida a bordo de redes [2006.01]"
+  },
+  {
+    "code": "B63B 35/20",
+    "description": "••••••adaptados para la subida a bordo de las redes [2006.01]"
+  },
+  {
+    "code": "B63B 35/22",
+    "description": "••••Balleneros; Buques-factoría para tratamiento de las ballenas [2006.01]"
+  },
+  {
+    "code": "B63B 35/24",
+    "description": "••••Cubas de pescado [2006.01]"
+  },
+  {
+    "code": "B63B 35/26",
+    "description": "••••••para pescado vivo [2006.01]"
+  },
+  {
+    "code": "B63B 35/28",
+    "description": "••Gabarras o barcazas [2006.01]"
+  },
+  {
+    "code": "B63B 35/30",
+    "description": "••••autodescargables [2006.01]"
+  },
+  {
+    "code": "B63B 35/32",
+    "description": "••para la recogida de materias polucionantes al paso [2006.01]"
+  },
+  {
+    "code": "B63B 35/34",
+    "description": "••Pontones [2006.01]"
+  },
+  {
+    "code": "B63B 35/36",
+    "description": "••••replegables [2006.01]"
+  },
+  {
+    "code": "B63B 35/38",
+    "description": "••••Pontones de uniones rígidas [2006.01]"
+  },
+  {
+    "code": "B63B 35/40",
+    "description": "••para transporte de embarcaciones [2006.01]"
+  },
+  {
+    "code": "B63B 35/42",
+    "description": "••••con calado regulable [2006.01]"
+  },
+  {
+    "code": "B63B 35/44",
+    "description": "••Construcciones flotantes, almacenes, plataformas de perforación, o talleres flotantes, p. ej. que llevan dispositivos separadores agua-aceite [2006.01]"
+  },
+  {
+    "code": "B63B 35/50",
+    "description": "••Buques o estructuras flotantes para aviones (portaaviones B63G 11/00) [2006.01]"
+  },
+  {
+    "code": "B63B 35/52",
+    "description": "••••Redes, varaderos o dispositivos análogos para recuperación de aviones del agua [2006.01]"
+  },
+  {
+    "code": "B63B 35/53",
+    "description": "••••Pistas flotantes [2006.01]"
+  },
+  {
+    "code": "B63B 35/54",
+    "description": "••Transbordadores [2006.01]"
+  },
+  {
+    "code": "B63B 35/56",
+    "description": "••Buques faro (señalización de la ruta de navegación por buques faro anclados B63B 51/02) [2006.01]"
+  },
+  {
+    "code": "B63B 35/58",
+    "description": "••Balsas, es decir, embarcaciones soportadas por el agua y que flotan libremente, de diseño poco profundo, con poco o sin franco bordo, y teniendo una plataforma o plancha para soportar al usuario (balsas salvavidas o similares B63C 9/02) [2006.01]"
+  },
+  {
+    "code": "B63B 35/607",
+    "description": "••••teniendo una plataforma o plancha por debajo del nivel de los medios de flotación, p. ej. del tipo cesta suspendida [2006.01]"
+  },
+  {
+    "code": "B63B 35/613",
+    "description": "••••con elementos de flotación tubulares [2006.01]"
+  },
+  {
+    "code": "B63B 35/62",
+    "description": "••••formados por troncos o similares [2006.01]"
+  },
+  {
+    "code": "B63B 35/66",
+    "description": "••Remolcadores [2006.01]"
+  },
+  {
+    "code": "B63B 35/68",
+    "description": "••••para remolcar [2006.01]"
+  },
+  {
+    "code": "B63B 35/70",
+    "description": "••••para empujar [2006.01]"
+  },
+  {
+    "code": "B63B 39/00",
+    "description": "Equipo para reducir cabeceo, balanceo, o movimientos similares indeseados de embarcaciones; Aparatos para indicar la actitud de una embarcación [2006.01]"
+  },
+  {
+    "code": "B63B 39/02",
+    "description": "••que reducen los movimientos del buque por desplazamiento de masas [2006.01]"
+  },
+  {
+    "code": "B63B 39/03",
+    "description": "••••por desplazamiento de líquidos [2006.01]"
+  },
+  {
+    "code": "B63B 39/04",
+    "description": "••que reducen los movimientos del buque por el efecto directo de giróscopos [2006.01]"
+  },
+  {
+    "code": "B63B 39/06",
+    "description": "••que reducen los movimientos del buque por efecto de alerones que actúan sobre el agua ambiente (estructura de quillas de balanceo B63B 3/44) [2006.01]"
+  },
+  {
+    "code": "B63B 39/08",
+    "description": "••que reducen los movimientos del buque con la ayuda de reactores o hélices auxiliares (utilización de reactores o hélices auxiliares para el gobierno o el anclaje dinámico B63H 25/00) [2006.01]"
+  },
+  {
+    "code": "B63B 39/10",
+    "description": "••que reducen los movimientos del buque por reducción de las olas, p. ej. extendiendo aceite sobre el agua [2006.01]"
+  },
+  {
+    "code": "B63B 39/12",
+    "description": "••indicando el calado o la carga [2006.01]"
+  },
+  {
+    "code": "B63B 39/14",
+    "description": "••indicando el ángulo o la duración del balanceo [2006.01]"
+  },
+  {
+    "code": "B63B 41/00",
+    "description": "Quillas soltables, p. ej. de deriva central o lateral [2006.01]"
+  },
+  {
+    "code": "B63B 43/00",
+    "description": "Mejora de la seguridad de las embarcaciones, p. ej. control de daños, no previsto en otro lugar [2006.01]"
+  },
+  {
+    "code": "B63B 43/02",
+    "description": "••reduciendo el riesgo de zozobra o naufragio (por puertas estancas en las mamparas B63B 43/24) [2006.01]"
+  },
+  {
+    "code": "B63B 43/04",
+    "description": "••••por aumento de la estabilidad [2006.01]"
+  },
+  {
+    "code": "B63B 43/06",
+    "description": "••••••por empleo de tanques de lastre [2006.01]"
+  },
+  {
+    "code": "B63B 43/08",
+    "description": "••••••por transferencia de lastre sólido [2006.01]"
+  },
+  {
+    "code": "B63B 43/10",
+    "description": "••••por aumento de la flotabilidad [2006.01]"
+  },
+  {
+    "code": "B63B 43/12",
+    "description": "••••••empleando cajones de aire a bordo [2006.01]"
+  },
+  {
+    "code": "B63B 43/14",
+    "description": "••••••empleando elementos flotantes fueraborda [2006.01]"
+  },
+  {
+    "code": "B63B 43/16",
+    "description": "••••••Equipo temporal para tapar las vías de aguas, p. ej. palletes de abordaje [2006.01]"
+  },
+  {
+    "code": "B63B 43/18",
+    "description": "••por prevención de abordajes; por reducción de daños debidos a los abordajes [2006.01]"
+  },
+  {
+    "code": "B63B 43/20",
+    "description": "••••Sensores anticolisión [2006.01]"
+  },
+  {
+    "code": "B63B 43/24",
+    "description": "••Disposiciones de puertas estancas sobre mamparas [2006.01]"
+  },
+  {
+    "code": "B63B 43/26",
+    "description": "••••de tipo deslizante [2006.01]"
+  },
+  {
+    "code": "B63B 43/28",
+    "description": "••••••de accionamiento mecánico [2006.01]"
+  },
+  {
+    "code": "B63B 43/30",
+    "description": "••••••de accionamiento de fluido [2006.01]"
+  },
+  {
+    "code": "B63B 43/32",
+    "description": "••••de tipo no deslizante [2006.01]"
+  },
+  {
+    "code": "B63B 45/00",
+    "description": "Disposiciones o adaptaciones de dispositivos de señalización o de iluminación (sobre botes salvavidas, cinturones salvavidas, chalecos salvavidas, vestidos de salvamento o similares, caracterizados por dispositivos de señalización B63C 9/20) [2006.01]"
+  },
+  {
+    "code": "B63B 45/02",
+    "description": "••estando previstos los aparatos para iluminar la ruta u otras zonas circundantes [2006.01]"
+  },
+  {
+    "code": "B63B 45/04",
+    "description": "••estando previstos los aparatos para indicar al buque o partes de él [2006.01]"
+  },
+  {
+    "code": "B63B 45/06",
+    "description": "••estando previstos los aparatos para iluminar las cubiertas o el interior del buque [2006.01]"
+  },
+  {
+    "code": "B63B 45/08",
+    "description": "••siendo aparatos acústicos [2006.01]"
+  },
+  {
+    "code": "B63B 49/00",
+    "description": "Disposiciones de instrumentos náuticos o ayudas de navegación [2006.01]"
+  },
+  {
+    "code": "B63B 51/00",
+    "description": "Señalización de rutas de navegación de otra forma que por boyas [2006.01]"
+  },
+  {
+    "code": "B63B 51/02",
+    "description": "••por botes anclados; por utilización de faros [2006.01]"
+  },
+  {
+    "code": "B63B 51/04",
+    "description": "••por señales luminosas flotantes [2006.01]"
+  },
+  {
+    "code": "B63B 57/00",
+    "description": "Limpieza de pañoles o tanques adaptada especialmente para embarcaciones [2006.01]"
+  },
+  {
+    "code": "B63B 57/02",
+    "description": "••por lavado [2006.01]"
+  },
+  {
+    "code": "B63B 57/04",
+    "description": "••por ventilación [2006.01]"
+  },
+  {
+    "code": "B63B 59/00",
+    "description": "Protección de cascos especialmente adaptada para barcos; Dispositivos de limpieza especialmente adaptados para barcos [2006.01]"
+  },
+  {
+    "code": "B63B 59/02",
+    "description": "••Defensas integradas en los buques o especialmente adaptadas para el uso a bordo de buques; Cintones (defensas de corredera para botes salvavidas B63B 23/36) [2006.01]"
+  },
+  {
+    "code": "B63B 59/04",
+    "description": "••Medios para evitar la suciedad de los cascos [2006.01]"
+  },
+  {
+    "code": "B63B 59/06",
+    "description": "••Dispositivos de limpieza para cascos [2006.01]"
+  },
+  {
+    "code": "B63B 59/08",
+    "description": "••••de las partes sumergidas cuando están flotantes (B63B 59/10 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B63B 59/10",
+    "description": "••••utilizando carros transportadores o dispositivos análogos que se desplazan a lo largo de la superficie [2006.01]"
+  },
+  {
+    "code": "B63B 69/00",
+    "description": "Equipo para navegación no previsto en otro lugar [2013.01]"
+  },
+  {
+    "code": "B63B 71/00",
+    "description": "Diseño de embarcaciones; Predicción de su rendimiento [2020.01]"
+  },
+  {
+    "code": "B63B 71/10",
+    "description": "••que usan simulación por ordenador, p.ej. método de elementos finitos [FEM] o dinámica de fluidos computacional [CFD] [2020.01]"
+  },
+  {
+    "code": "B63B 71/20",
+    "description": "••que usan tanques de remolque o prototipos de dársena para diseñar [2020.01]"
+  },
+  {
+    "code": "B63B 73/00",
+    "description": "Construcción o ensamblaje de embarcaciones o estructuras marinas, p.ej. cascos o plataformas en alta mar [2020.01]"
+  },
+  {
+    "code": "B63B 73/10",
+    "description": "••Construcción o montaje de embarcaciones a partir de bloques de casco prefabricados, es decir, secciones transversales completas del casco [2020.01]"
+  },
+  {
+    "code": "B63B 73/20",
+    "description": "••Construcción o ensamblaje de módulos de recipientes prefabricados o piezas que no sean bloques de casco, p.ej. salas de máquinas, timones, hélices, superestructuras, literas, bodegas o tanques [2020.01]"
+  },
+  {
+    "code": "B63B 73/30",
+    "description": "••Movimiento o transporte de módulos o bloques de casco a sitios de ensamblaje, p.ej. por rodamiento, elevación o flotación [2020.01]"
+  },
+  {
+    "code": "B63B 73/40",
+    "description": "••caracterizado por los métodos de unión [2020.01]"
+  },
+  {
+    "code": "B63B 73/43",
+    "description": "••••Soldadura, p.ej. soldadura por láser [2020.01]"
+  },
+  {
+    "code": "B63B 73/46",
+    "description": "••••Pegado; Grabando; Unión en frío [2020.01]"
+  },
+  {
+    "code": "B63B 73/50",
+    "description": "••caracterizado por métodos de formación, p.ej. fabricación de bloques curvos [2020.01]"
+  },
+  {
+    "code": "B63B 73/60",
+    "description": "••caracterizado por el uso de herramientas o equipos específicos; caracterizado por la automatización, p.ej. uso de robots [2020.01]"
+  },
+  {
+    "code": "B63B 73/70",
+    "description": "••caracterizado por el uso de moldes; Moldes o tapones para los mismos [2020.01]"
+  },
+  {
+    "code": "B63B 73/72",
+    "description": "••••caracterizado por moldeo de plástico, p.ej. moldeo por inyección, moldeo por extrusión o moldeo por soplado [2020.01]"
+  },
+  {
+    "code": "B63B 73/74",
+    "description": "••••caracterizado por la laminación de materiales [2020.01]"
+  },
+  {
+    "code": "B63B 75/00",
+    "description": "Construcción o ensamblaje de estructuras flotantes en alta mar, p.ej. plataformas semisumergibles, plataformas SPAR o plataformas de aerogeneradores [2020.01]"
+  },
+  {
+    "code": "B63B 77/00",
+    "description": "Transporte o instalación de estructuras en alta mar in situ utilizando fuerzas de flotabilidad, p.ej. utilizando barcazas semisumergibles, lastrando la estructura o transportando plataformas de petróleo y gas [2020.01]"
+  },
+  {
+    "code": "B63B 77/10",
+    "description": "••especialmente adaptado para plantas de energía eléctrica, p.ej. aerogeneradores o generadores de energía mareomotriz [2020.01]"
+  },
+  {
+    "code": "B63B 79/00",
+    "description": "Monitoreo de propiedades o parámetros de funcionamiento de embarcaciones en operación [2020.01]"
+  },
+  {
+    "code": "B63B 79/10",
+    "description": "••que utilizan sensores, p.ej. sensores de presión, galgas extensométricas o acelerómetros [2020.01]"
+  },
+  {
+    "code": "B63B 79/15",
+    "description": "••••para monitorear variables ambientales, p.ej. altura de las olas o datos meteorológicos [2020.01]"
+  },
+  {
+    "code": "B63B 79/20",
+    "description": "••que utilizan modelos o simulación, p.ej. modelos estadísticos o modelos estocásticos [2020.01]"
+  },
+  {
+    "code": "B63B 79/30",
+    "description": "••para diagnosticar, probar o predecir la integridad o el rendimiento de las embarcaciones [2020.01]"
+  },
+  {
+    "code": "B63B 79/40",
+    "description": "••para controlar el funcionamiento de embarcaciones, p.ej. monitorear su velocidad, programas de ruta o mantenimiento [2020.01]"
+  },
+  {
+    "code": "B63B 81/00",
+    "description": "Reparación o mantenimiento de embarcaciones [2020.01]"
+  },
+  {
+    "code": "B63B 83/00",
+    "description": "Reconstrucción o modernización de embarcaciones, p.ej. modernización de sistemas de tratamiento de agua de lastre [2020.01]"
+  },
+  {
+    "code": "B63B 83/10",
+    "description": "••para aumentar la capacidad de carga [2020.01]"
+  },
+  {
+    "code": "B63B 83/20",
+    "description": "••para la conversión a un uso diferente, p.ej. para convertir camiones cisterna en unidades FPSO-FLNG [2020.01]"
+  },
+  {
+    "code": "B63B 83/30",
+    "description": "••para mejorar la eficiencia energética, p.ej. mejorando la hidrodinámica o actualizando la planta eléctrica [2020.01]"
+  },
+  {
+    "code": "B63B 83/40",
+    "description": "••para reducir los riesgos de polución o contaminación; para mejorar la seguridad [2020.01]"
+  },
+  {
+    "code": "B63B 85/00",
+    "description": "Desmantelamiento o desguace de embarcaciones [2020.01]"
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "code": "G04R 20/00",
+    "description": "Ajuste del tiempo de acuerdo con la información de portadora o implícito en la señal de radio [2013.01]"
+  },
+  {
+    "code": "G04R 20/02",
+    "description": "••la señal de radio que se envían por un satélite, p. ej. GPS [2013.01]"
+  },
+  {
+    "code": "G04R 20/04",
+    "description": "••••Sintonizadores o receptores; Circuitos para llevarlo acabo [2013.01]"
+  },
+  {
+    "code": "G04R 20/06",
+    "description": "••••Decodificación de datos de tiempo; Circuitos para llevarlo acabo [2013.01]"
+  },
+  {
+    "code": "G04R 20/08",
+    "description": "••la señal de radio emitiendo una señal de llamada de onda larga, p. ej.  DCF77, JJY40, JJY60, MSF60 o WWVB [2013.01]"
+  },
+  {
+    "code": "G04R 20/10",
+    "description": "••••Sintonizadores o receptores; Circuitos para llevarlo acabo [2013.01]"
+  },
+  {
+    "code": "G04R 20/12",
+    "description": "••••Decodificación de datos de tiempo; Circuitos para llevarlo acabo [2013.01]"
+  },
+  {
+    "code": "G04R 20/14",
+    "description": "••la señal de radio es una señal estándar de telecomunicaciones, p. ej. GSM, UMTS o 3G [2013.01]"
+  },
+  {
+    "code": "G04R 20/16",
+    "description": "••••Sintonizadores o receptores; Circuitos para llevarlo acabo [2013.01]"
+  },
+  {
+    "code": "G04R 20/18",
+    "description": "••••Decodificación de datos de tiempo; Circuitos para llevarlo acabo [2013.01]"
+  },
+  {
+    "code": "G04R 20/20",
+    "description": "••la señal de radio es una señal de AM / FM estándar, p. ej. RDS [2013.01]"
+  },
+  {
+    "code": "G04R 20/22",
+    "description": "••••Sintonizadores o receptores; Circuitos para llevarlo aca [2013.01]"
+  },
+  {
+    "code": "G04R 20/24",
+    "description": "••••Decodificación de datos de tiempo; Circuitos para llevarlo acabo [2013.01]"
+  },
+  {
+    "code": "G04R 20/26",
+    "description": "••la señal de radio es una señal de comunicación de campo cercano [2013.01]"
+  },
+  {
+    "code": "G04R 20/28",
+    "description": "••••Sintonizadores o receptores; Circuitos para llevarlo acabo [2013.01]"
+  },
+  {
+    "code": "G04R 20/30",
+    "description": "••••Decodificación de datos de tiempo; Circuitos para llevarlo acabo [2013.01]"
+  },
+  {
+    "code": "G04R 40/00",
+    "description": "Correcciones de la frecuencia del reloj [2013.01]"
+  },
+  {
+    "code": "G04R 40/02",
+    "description": "••por bloqueo de fase [2013.01]"
+  },
+  {
+    "code": "G04R 40/04",
+    "description": "••mediante la detección de la frecuencia de la señal de radio [2013.01]"
+  },
+  {
+    "code": "G04R 40/06",
+    "description": "••calculando el valor de tiempo implícito en la señal de radio [2013.01]"
+  },
+  {
+    "code": "G04R 60/00",
+    "description": "detalles de estructura [2013.01]"
+  },
+  {
+    "code": "G04R 60/02",
+    "description": "••Antenas que sirven también como componentes de los relojes, p. ej.bobinas de motor [2013.01]"
+  },
+  {
+    "code": "G04R 60/04",
+    "description": "••Antenas adjuntas o integradas en pulseras de reloj [2013.01]"
+  },
+  {
+    "code": "G04R 60/06",
+    "description": "••Antenas adjuntas o integradas en los cuerpos de relojería [2013.01]"
+  },
+  {
+    "code": "G04R 60/08",
+    "description": "••••dentro de marcos [2013.01]"
+  },
+  {
+    "code": "G04R 60/10",
+    "description": "••••dentro de la carcasa [2013.01]"
+  },
+  {
+    "code": "G04R 60/12",
+    "description": "••••••dentro de carcasas de metal [2013.01]"
+  },
+  {
+    "code": "G04R 60/14",
+    "description": "••específico para relojes electromecánicos, p. ej. partes móviles de los mismos [2013.01]"
+  }
+]

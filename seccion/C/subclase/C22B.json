@@ -1,0 +1,622 @@
+[
+  {
+    "code": "C22B 1/00",
+    "description": "Tratamiento preliminar de minerales o residuos metálicos [2006.01]"
+  },
+  {
+    "code": "C22B 1/02",
+    "description": "••Procesos de tostación (C22B 1/16 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "C22B 1/04",
+    "description": "••••Tostación con aire [2006.01]"
+  },
+  {
+    "code": "C22B 1/06",
+    "description": "••••Tostación sulfatante [2006.01]"
+  },
+  {
+    "code": "C22B 1/08",
+    "description": "••••Tostación clorurante [2006.01]"
+  },
+  {
+    "code": "C22B 1/10",
+    "description": "••••en forma fluidizada [2006.01]"
+  },
+  {
+    "code": "C22B 1/11",
+    "description": "••Eliminación de azufre, fósforo o arsénico por métodos diferentes a la tostación [2006.01]"
+  },
+  {
+    "code": "C22B 1/14",
+    "description": "••Aglomeración; Briqueteado; Aglutinación; Granulación [2006.01]"
+  },
+  {
+    "code": "C22B 1/16",
+    "description": "••••Sinterización; Aglomeración [2006.01]"
+  },
+  {
+    "code": "C22B 1/18",
+    "description": "••••••en cubas de sinterización [2006.01]"
+  },
+  {
+    "code": "C22B 1/20",
+    "description": "••••••en máquinas de sinterización con parrilla móvil [2006.01]"
+  },
+  {
+    "code": "C22B 1/212",
+    "description": "••••••en hornos de túnel [2006.01]"
+  },
+  {
+    "code": "C22B 1/214",
+    "description": "••••••en hornos de cuba [2006.01]"
+  },
+  {
+    "code": "C22B 1/216",
+    "description": "••••••en hornos rotativos [2006.01]"
+  },
+  {
+    "code": "C22B 1/22",
+    "description": "••••••en otros aparatos de sinterización [2006.01]"
+  },
+  {
+    "code": "C22B 1/24",
+    "description": "••••Aglutinación; Briqueteado [2006.01]"
+  },
+  {
+    "code": "C22B 1/242",
+    "description": "••••••con ligantes [2006.01]"
+  },
+  {
+    "code": "C22B 1/243",
+    "description": "••••••••inorgánicos [2006.01]"
+  },
+  {
+    "code": "C22B 1/244",
+    "description": "••••••••orgánicos [2006.01]"
+  },
+  {
+    "code": "C22B 1/245",
+    "description": "••••••••••con materia carbonosa para la producción de aglomerados coquificados [2006.01]"
+  },
+  {
+    "code": "C22B 1/248",
+    "description": "••••••de residuos metálicos o aleaciones coquificadas [2006.01]"
+  },
+  {
+    "code": "C22B 1/26",
+    "description": "••Enfriamiento de minerales tostados, sinterizados o aglomerados [2006.01]"
+  },
+  {
+    "code": "C22B 3/00",
+    "description": "Extracción de compuestos metálicos por vía húmeda a partir de minerales o de concentrados [2006.01]"
+  },
+  {
+    "code": "C22B 3/02",
+    "description": "••Sus aparatos [2006.01]"
+  },
+  {
+    "code": "C22B 3/04",
+    "description": "••por lixiviación (C22B 3/18 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "C22B 3/06",
+    "description": "••••en soluciones minerales ácidas [2006.01]"
+  },
+  {
+    "code": "C22B 3/08",
+    "description": "••••••Acido sulfúrico [2006.01]"
+  },
+  {
+    "code": "C22B 3/10",
+    "description": "••••••Acido clorhídrico [2006.01]"
+  },
+  {
+    "code": "C22B 3/12",
+    "description": "••••en soluciones minerales alcalinas [2006.01]"
+  },
+  {
+    "code": "C22B 3/14",
+    "description": "••••••que contienen amoniaco o sales de amonio [2006.01]"
+  },
+  {
+    "code": "C22B 3/16",
+    "description": "••••en soluciones orgánicas [2006.01]"
+  },
+  {
+    "code": "C22B 3/18",
+    "description": "••con la ayuda de microorganismos o de enzimas, p. ej. de bacterias o algas [2006.01]"
+  },
+  {
+    "code": "C22B 3/20",
+    "description": "••Tratamiento o purificación de soluciones, p. ej. de soluciones obtenidas por lixiviación (C22B 3/18 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "C22B 3/22",
+    "description": "••••por procedimientos físicos, p. ej. por filtración, por medios magnéticos (C22B 3/26 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "C22B 3/24",
+    "description": "••••••por adsorción sobre sustancias sólidas, p. ej. extracción con resinas sólidas [2006.01]"
+  },
+  {
+    "code": "C22B 3/26",
+    "description": "••••por extracción líquido-líquido utilizando compuestos orgánicos [2006.01]"
+  },
+  {
+    "code": "C22B 3/28",
+    "description": "••••••Aminas [2006.01]"
+  },
+  {
+    "code": "C22B 3/30",
+    "description": "••••••Oximas [2006.01]"
+  },
+  {
+    "code": "C22B 3/32",
+    "description": "••••••Acidos carboxílicos [2006.01]"
+  },
+  {
+    "code": "C22B 3/34",
+    "description": "••••••que contienen azufre [2006.01]"
+  },
+  {
+    "code": "C22B 3/36",
+    "description": "••••••Compuestos heterocíclicos (C22B 3/34 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "C22B 3/38",
+    "description": "••••••que contienen fósforo [2006.01]"
+  },
+  {
+    "code": "C22B 3/40",
+    "description": "••••••Mezclas [2006.01]"
+  },
+  {
+    "code": "C22B 3/42",
+    "description": "••••por extracción mediante intercambio de iones [2006.01]"
+  },
+  {
+    "code": "C22B 3/44",
+    "description": "••••por procedimientos químicos (C22B 3/26, C22B 3/42 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "C22B 3/46",
+    "description": "••••••por sustitución, p. ej. cementación [2006.01]"
+  },
+  {
+    "code": "C22B 4/00",
+    "description": "Tratamiento electrotérmico de minerales o productos metalúrgicos para obtener metales o aleaciones (métodos generales de afinado o refusión de metales C22B 9/00; obtención de hierro o acero C21B, C21C) [2006.01]"
+  },
+  {
+    "code": "C22B 4/02",
+    "description": "••Metales ligeros [2006.01]"
+  },
+  {
+    "code": "C22B 4/04",
+    "description": "••Metales pesados [2006.01]"
+  },
+  {
+    "code": "C22B 4/06",
+    "description": "••Aleaciones [2006.01]"
+  },
+  {
+    "code": "C22B 4/08",
+    "description": "••Aparatos [2006.01]"
+  },
+  {
+    "code": "C22B 5/00",
+    "description": "Procesos generales de reducción aplicados a los metales [2006.01]"
+  },
+  {
+    "code": "C22B 5/02",
+    "description": "••métodos secos [2006.01]"
+  },
+  {
+    "code": "C22B 5/04",
+    "description": "••••por aluminio, otros metales o silicio [2006.01]"
+  },
+  {
+    "code": "C22B 5/06",
+    "description": "••••por carburos o similares [2006.01]"
+  },
+  {
+    "code": "C22B 5/08",
+    "description": "••••por sulfuros; Procesos de reacción por tostación [2006.01]"
+  },
+  {
+    "code": "C22B 5/10",
+    "description": "••••por agentes reductores carbonosos sólidos [2006.01]"
+  },
+  {
+    "code": "C22B 5/12",
+    "description": "••••por gases [2006.01]"
+  },
+  {
+    "code": "C22B 5/14",
+    "description": "••••••material fluidizado [2006.01]"
+  },
+  {
+    "code": "C22B 5/16",
+    "description": "••••con volatilización o condensación del metal producido [2006.01]"
+  },
+  {
+    "code": "C22B 5/18",
+    "description": "••••Reducción paso a paso [2006.01]"
+  },
+  {
+    "code": "C22B 5/20",
+    "description": "••••a partir de carbonilos metálicos [2006.01]"
+  },
+  {
+    "code": "C22B 7/00",
+    "description": "Tratamiento de materias primas distintas a los minerales, p. ej. residuos, para producir metales no ferrosos o sus compuestos [2006.01]"
+  },
+  {
+    "code": "C22B 7/02",
+    "description": "••Tratamiento de cenizas [2006.01]"
+  },
+  {
+    "code": "C22B 7/04",
+    "description": "••Tratamiento de escorias [2006.01]"
+  },
+  {
+    "code": "C22B 9/00",
+    "description": "Procesos generales de afinado o refusión de metales; Aparatos para la refusión de metales bajo escorias electroconductoras o por arco [2006.01]"
+  },
+  {
+    "code": "C22B 9/02",
+    "description": "••Afinado por licuación, filtración, centrifugación, destilación o acción de ultrasonidos [2006.01]"
+  },
+  {
+    "code": "C22B 9/04",
+    "description": "••Afinado por tratamiento en vacío [2006.01]"
+  },
+  {
+    "code": "C22B 9/05",
+    "description": "••Afinado por tratamiento de gases, p. ej. por limpieza con un gas [2006.01]"
+  },
+  {
+    "code": "C22B 9/10",
+    "description": "••con agentes de afinado o fundentes; Empleo de sustancias para estos procesos (C22B 9/18 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "C22B 9/14",
+    "description": "••Afinado en estado sólido [2006.01]"
+  },
+  {
+    "code": "C22B 9/16",
+    "description": "••Refusión de metales (licuación C22B 9/02) [2006.01]"
+  },
+  {
+    "code": "C22B 9/18",
+    "description": "••••Refusión bajo escorias electroconductoras [2006.01]"
+  },
+  {
+    "code": "C22B 9/187",
+    "description": "••••••Equipos para estos efectos, p. ej. hornos [2006.01]"
+  },
+  {
+    "code": "C22B 9/193",
+    "description": "••••••••Moldes, placas de fondo o placas inferiores o de encendido [2006.01]"
+  },
+  {
+    "code": "C22B 9/20",
+    "description": "••••Refusión por arco [2006.01]"
+  },
+  {
+    "code": "C22B 9/21",
+    "description": "••••••Equipos para estos efectos [2006.01]"
+  },
+  {
+    "code": "C22B 9/22",
+    "description": "••••calentamiento por energía ondulatoria o por radiación corpuscular [2006.01]"
+  },
+  {
+    "code": "C22B 11/00",
+    "description": "Obtención de metales nobles [2006.01]"
+  },
+  {
+    "code": "C22B 11/02",
+    "description": "••por procesos secos [2006.01]"
+  },
+  {
+    "code": "C22B 11/06",
+    "description": "••cloruración [2006.01]"
+  },
+  {
+    "code": "C22B 11/08",
+    "description": "••por cianuración [2006.01]"
+  },
+  {
+    "code": "C22B 11/10",
+    "description": "••por amalgamación [2006.01]"
+  },
+  {
+    "code": "C22B 11/12",
+    "description": "••••Sus aparatos [2006.01]"
+  },
+  {
+    "code": "C22B 13/00",
+    "description": "Obtención de plomo [2006.01]"
+  },
+  {
+    "code": "C22B 13/02",
+    "description": "••por procesos secos [2006.01]"
+  },
+  {
+    "code": "C22B 13/06",
+    "description": "••Afinado [2006.01]"
+  },
+  {
+    "code": "C22B 13/08",
+    "description": "••••Separación del plomo por precipitación, p. ej. por proceso Parkes [2006.01]"
+  },
+  {
+    "code": "C22B 13/10",
+    "description": "••••Separación del plomo por cristalización, p. ej. por proceso Pattison [2006.01]"
+  },
+  {
+    "code": "C22B 15/00",
+    "description": "Obtención de cobre [2006.01]"
+  },
+  {
+    "code": "C22B 15/02",
+    "description": "••en altos hornos [2006.01]"
+  },
+  {
+    "code": "C22B 15/04",
+    "description": "••en hornos de reverbero [2006.01]"
+  },
+  {
+    "code": "C22B 15/06",
+    "description": "••en convertidores [2006.01]"
+  },
+  {
+    "code": "C22B 15/14",
+    "description": "••Afinado [2006.01]"
+  },
+  {
+    "code": "C22B 17/00",
+    "description": "Obtención de cadmio [2006.01]"
+  },
+  {
+    "code": "C22B 17/02",
+    "description": "••por procesos secos [2006.01]"
+  },
+  {
+    "code": "C22B 17/06",
+    "description": "••Afinado [2006.01]"
+  },
+  {
+    "code": "C22B 19/00",
+    "description": "Obtención de cinc u óxido de cinc [2006.01]"
+  },
+  {
+    "code": "C22B 19/02",
+    "description": "••Tratamiento preliminar de los minerales; Afinado preliminar del óxido de cinc [2006.01]"
+  },
+  {
+    "code": "C22B 19/04",
+    "description": "••Obtención de cinc por destilación [2006.01]"
+  },
+  {
+    "code": "C22B 19/06",
+    "description": "••••en hornos de mufla [2006.01]"
+  },
+  {
+    "code": "C22B 19/08",
+    "description": "••••en altos hornos [2006.01]"
+  },
+  {
+    "code": "C22B 19/10",
+    "description": "••••en hornos de reverbero [2006.01]"
+  },
+  {
+    "code": "C22B 19/12",
+    "description": "••••en hornos de crisol [2006.01]"
+  },
+  {
+    "code": "C22B 19/14",
+    "description": "••••en retortas verticales [2006.01]"
+  },
+  {
+    "code": "C22B 19/16",
+    "description": "••••Aparatos de destilación [2006.01]"
+  },
+  {
+    "code": "C22B 19/18",
+    "description": "••••••Condensadores; Aparatos receptores [2006.01]"
+  },
+  {
+    "code": "C22B 19/20",
+    "description": "••Obtención de cinc por método distinto a la destilación [2006.01]"
+  },
+  {
+    "code": "C22B 19/28",
+    "description": "••a partir de los residuos de los hornos de mufla [2006.01]"
+  },
+  {
+    "code": "C22B 19/30",
+    "description": "••a partir de residuos o desechos metálicos [2006.01]"
+  },
+  {
+    "code": "C22B 19/32",
+    "description": "••Afinado del cinc [2006.01]"
+  },
+  {
+    "code": "C22B 19/34",
+    "description": "••Obtención de óxido de cinc (purificación de óxido de cinc C01G 9/02) [2006.01]"
+  },
+  {
+    "code": "C22B 19/36",
+    "description": "••••en altos hornos o de reverbero [2006.01]"
+  },
+  {
+    "code": "C22B 19/38",
+    "description": "••••en hornos rotativos [2006.01]"
+  },
+  {
+    "code": "C22B 21/00",
+    "description": "Obtención de aluminio [2006.01]"
+  },
+  {
+    "code": "C22B 21/02",
+    "description": "••con reducción [2006.01]"
+  },
+  {
+    "code": "C22B 21/04",
+    "description": "••con metales alcalinos [2006.01]"
+  },
+  {
+    "code": "C22B 21/06",
+    "description": "••Afinado [2006.01]"
+  },
+  {
+    "code": "C22B 23/00",
+    "description": "Obtención del níquel o del cobalto [2006.01]"
+  },
+  {
+    "code": "C22B 23/02",
+    "description": "••por procesos secos [2006.01]"
+  },
+  {
+    "code": "C22B 23/06",
+    "description": "••Afinado [2006.01]"
+  },
+  {
+    "code": "C22B 25/00",
+    "description": "Obtención del estaño [2006.01]"
+  },
+  {
+    "code": "C22B 25/02",
+    "description": "••por procesos secos [2006.01]"
+  },
+  {
+    "code": "C22B 25/06",
+    "description": "••a partir de residuos, especialmente por residuos de estaño (por procesos electrolíticos C25C 1/14) [2006.01]"
+  },
+  {
+    "code": "C22B 25/08",
+    "description": "••Afinado [2006.01]"
+  },
+  {
+    "code": "C22B 26/00",
+    "description": "Obtención de metales alcalinos o alcalinotérreos o de magnesio [2006.01]"
+  },
+  {
+    "code": "C22B 26/10",
+    "description": "••Obtención de metales alcalinos [2006.01]"
+  },
+  {
+    "code": "C22B 26/12",
+    "description": "••••Obtención del litio [2006.01]"
+  },
+  {
+    "code": "C22B 26/20",
+    "description": "••Obtención de metales alcalinotérreos o del magnesio [2006.01]"
+  },
+  {
+    "code": "C22B 26/22",
+    "description": "••••Obtención del magnesio [2006.01]"
+  },
+  {
+    "code": "C22B 30/00",
+    "description": "Obtención de antimonio, arsénico o bismuto [2006.01]"
+  },
+  {
+    "code": "C22B 30/02",
+    "description": "••Obtención de antimonio [2006.01]"
+  },
+  {
+    "code": "C22B 30/04",
+    "description": "••Obtención de arsénico [2006.01]"
+  },
+  {
+    "code": "C22B 30/06",
+    "description": "••Obtención de bismuto [2006.01]"
+  },
+  {
+    "code": "C22B 34/00",
+    "description": "Obtención de metales refractarios [2006.01]"
+  },
+  {
+    "code": "C22B 34/10",
+    "description": "••Obtención de titanio, circonio o hafnio [2006.01]"
+  },
+  {
+    "code": "C22B 34/12",
+    "description": "••••Obtención de titanio [2006.01]"
+  },
+  {
+    "code": "C22B 34/14",
+    "description": "••••Obtención de circonio o hafnio [2006.01]"
+  },
+  {
+    "code": "C22B 34/20",
+    "description": "••Obtención de niobio, tántalo o vanadio [2006.01]"
+  },
+  {
+    "code": "C22B 34/22",
+    "description": "••••Obtención de vanadio [2006.01]"
+  },
+  {
+    "code": "C22B 34/24",
+    "description": "••••Obtención de niobio o tántalo [2006.01]"
+  },
+  {
+    "code": "C22B 34/30",
+    "description": "••Obtención de cromo, molibdeno o tungsteno [2006.01]"
+  },
+  {
+    "code": "C22B 34/32",
+    "description": "••••Obtención de cromo [2006.01]"
+  },
+  {
+    "code": "C22B 34/34",
+    "description": "••••Obtención de molibdeno [2006.01]"
+  },
+  {
+    "code": "C22B 34/36",
+    "description": "••••Obtención de tungsteno [2006.01]"
+  },
+  {
+    "code": "C22B 35/00",
+    "description": "Obtención de berilio [2006.01]"
+  },
+  {
+    "code": "C22B 41/00",
+    "description": "Obtención de germanio [2006.01]"
+  },
+  {
+    "code": "C22B 43/00",
+    "description": "Obtención de mercurio [2006.01]"
+  },
+  {
+    "code": "C22B 47/00",
+    "description": "Obtención de manganeso [2006.01]"
+  },
+  {
+    "code": "C22B 58/00",
+    "description": "Obtención de galio o indio [2006.01]"
+  },
+  {
+    "code": "C22B 59/00",
+    "description": "Obtención de los metales de las tierras raras [2006.01]"
+  },
+  {
+    "code": "C22B 60/00",
+    "description": "Obtención de metales que tienen un número atómico mayor o igual que 87, p. ej. metales radiactivos [2006.01]"
+  },
+  {
+    "code": "C22B 60/02",
+    "description": "••Obtención de torio, uranio u otros actínidos [2006.01]"
+  },
+  {
+    "code": "C22B 60/04",
+    "description": "••••Obtención de plutonio [2006.01]"
+  },
+  {
+    "code": "C22B 61/00",
+    "description": "Obtención de metales no previstos anteriormente en la presente subclase (hierro C21) [2006.01]"
+  }
+]

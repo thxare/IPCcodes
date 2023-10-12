@@ -1,0 +1,242 @@
+[
+  {
+    "code": "C10J 1/00",
+    "description": "Producción de gases combustibles por carburación del aire u otros gases (para motores de combustión interna F02M) [2006.01]"
+  },
+  {
+    "code": "C10J 1/02",
+    "description": "••Carburación del aire [2006.01]"
+  },
+  {
+    "code": "C10J 1/04",
+    "description": "••••Control del suministro de aire [2006.01]"
+  },
+  {
+    "code": "C10J 1/06",
+    "description": "••••con materiales líquidos a temperatura ordinaria [2006.01]"
+  },
+  {
+    "code": "C10J 1/08",
+    "description": "••••••por paso del aire a través o por encima de la superficie del líquido [2006.01]"
+  },
+  {
+    "code": "C10J 1/10",
+    "description": "••••••••con el líquido absorbido por soportes [2006.01]"
+  },
+  {
+    "code": "C10J 1/12",
+    "description": "••••••por atomización del líquido [2006.01]"
+  },
+  {
+    "code": "C10J 1/14",
+    "description": "••••••Control del suministro del líquido de acuerdo con el suministro de aire [2006.01]"
+  },
+  {
+    "code": "C10J 1/16",
+    "description": "••••con hidrocarburos sólidos (C10J 1/207, C10J 1/213 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "C10J 1/18",
+    "description": "••••en carburadores rotativos [2006.01]"
+  },
+  {
+    "code": "C10J 1/20",
+    "description": "••Carburación de gases distintos del aire [2006.01]"
+  },
+  {
+    "code": "C10J 1/207",
+    "description": "••Carburación por pirólisis de materiales carbonosos sólidos en lecho de combustible (C10J 3/66 tiene prioridad) [2012.01]"
+  },
+  {
+    "code": "C10J 1/213",
+    "description": "••Carburación por pirólisis de materiales carbonosos sólidos en un carburador [2012.01]"
+  },
+  {
+    "code": "C10J 1/22",
+    "description": "••Adición de materiales para prevenir la condensación del vapor [2006.01]"
+  },
+  {
+    "code": "C10J 1/24",
+    "description": "••Controlando la humedad del aire o gas a carburar [2006.01]"
+  },
+  {
+    "code": "C10J 1/26",
+    "description": "••por medio de temperaturas o presiones elevadas (C10J 1/207, C10J 1/213 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "C10J 1/28",
+    "description": "••Aromatización del aire [2006.01]"
+  },
+  {
+    "code": "C10J 3/00",
+    "description": "Producción de gases que contienen monóxido de carbono e hidrógeno, p.ej. gas de síntesis o gas ciudad, a partir de materiales carbonosos sólidos por procesos de oxidación parcial utilizando oxígeno o vapor [2006.01]"
+  },
+  {
+    "code": "C10J 3/02",
+    "description": "••Gasificación en lecho fijo de combustibles troceados [2006.01]"
+  },
+  {
+    "code": "C10J 3/04",
+    "description": "••••Procesos cíclicos, p. ej. combinando ráfagas y extracciones [2006.01]"
+  },
+  {
+    "code": "C10J 3/06",
+    "description": "••••Procesos continuos [2006.01]"
+  },
+  {
+    "code": "C10J 3/08",
+    "description": "••••••con separación de cenizas en estado líquido [2006.01]"
+  },
+  {
+    "code": "C10J 3/10",
+    "description": "••••••utilizando calor interno [2006.01]"
+  },
+  {
+    "code": "C10J 3/12",
+    "description": "••••••utilizando portadores de calor sólidos [2006.01]"
+  },
+  {
+    "code": "C10J 3/14",
+    "description": "••••••utilizando portadores de calor gaseosos [2006.01]"
+  },
+  {
+    "code": "C10J 3/16",
+    "description": "••••••reaccionando simultáneamente oxígeno y agua con el material carbonoso [2006.01]"
+  },
+  {
+    "code": "C10J 3/18",
+    "description": "••••••utilizando electricidad [2006.01]"
+  },
+  {
+    "code": "C10J 3/20",
+    "description": "••••Aparatos; Instalaciones [2006.01]"
+  },
+  {
+    "code": "C10J 3/22",
+    "description": "••••••Disposiciones de válvulas o chimeneas [2006.01]"
+  },
+  {
+    "code": "C10J 3/24",
+    "description": "••••••••para permitir el flujo de gases o vapores en sentido diferente de abajo a arriba a través del lecho de combustible [2006.01]"
+  },
+  {
+    "code": "C10J 3/26",
+    "description": "••••••••••de arriba a abajo [2006.01]"
+  },
+  {
+    "code": "C10J 3/28",
+    "description": "••••••••totalmente automática [2006.01]"
+  },
+  {
+    "code": "C10J 3/30",
+    "description": "••••••Dispositivos de carga del combustible [2006.01]"
+  },
+  {
+    "code": "C10J 3/32",
+    "description": "••••••Dispositivos para distribuir el combustible uniformemente sobre el lecho o para agitar el lecho de combustible [2006.01]"
+  },
+  {
+    "code": "C10J 3/34",
+    "description": "••••••Parrillas; Dispositivos para la eliminación mecánica de cenizas [2006.01]"
+  },
+  {
+    "code": "C10J 3/36",
+    "description": "••••••••Parrillas fijas [2006.01]"
+  },
+  {
+    "code": "C10J 3/38",
+    "description": "••••••••••con medios de agitación [2006.01]"
+  },
+  {
+    "code": "C10J 3/40",
+    "description": "••••••••Parrillas móviles [2006.01]"
+  },
+  {
+    "code": "C10J 3/42",
+    "description": "••••••••••Parrillas rotativas [2006.01]"
+  },
+  {
+    "code": "C10J 3/44",
+    "description": "••••••adaptadas para utilización sobre vehículos [2006.01]"
+  },
+  {
+    "code": "C10J 3/46",
+    "description": "••Gasificación de combustibles granulares o pulverulentos en suspensión [2006.01]"
+  },
+  {
+    "code": "C10J 3/48",
+    "description": "••••Aparatos; Instalación [2006.01]"
+  },
+  {
+    "code": "C10J 3/50",
+    "description": "••••••Dispositivos de carga del combustible [2006.01]"
+  },
+  {
+    "code": "C10J 3/52",
+    "description": "••••••Dispositivos de eliminación de cenizas [2006.01]"
+  },
+  {
+    "code": "C10J 3/54",
+    "description": "••••Gasificación de combustibles granulares o pulverulentos por la técnica de Winkler, es decir, por fluidificación [2006.01]"
+  },
+  {
+    "code": "C10J 3/56",
+    "description": "••••••Aparatos; Instalación [2006.01]"
+  },
+  {
+    "code": "C10J 3/57",
+    "description": "••Gasificación utilizando sales o metales fundidos (C10J 3/02, C10J 3/46 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "C10J 3/58",
+    "description": "••combinado con la predestilación del combustible [2006.01]"
+  },
+  {
+    "code": "C10J 3/60",
+    "description": "••••Procesos [2006.01]"
+  },
+  {
+    "code": "C10J 3/62",
+    "description": "••••••con extracción separada de los productos de destilación [2006.01]"
+  },
+  {
+    "code": "C10J 3/64",
+    "description": "••••••con descomposición de los productos de destilación [2006.01]"
+  },
+  {
+    "code": "C10J 3/66",
+    "description": "••••••••por introducción de los mismos en la zona de gasificación [2006.01]"
+  },
+  {
+    "code": "C10J 3/72",
+    "description": "••Otras características [2006.01]"
+  },
+  {
+    "code": "C10J 3/74",
+    "description": "••••Estructuras de las paredes o camisas [2006.01]"
+  },
+  {
+    "code": "C10J 3/76",
+    "description": "••••••Camisas de agua; Camisas de vapor [2006.01]"
+  },
+  {
+    "code": "C10J 3/78",
+    "description": "••••Aparatos de alta presión [2006.01]"
+  },
+  {
+    "code": "C10J 3/80",
+    "description": "••••con dispositivos para precalentamiento de las ráfagas o del vapor de agua [2006.01]"
+  },
+  {
+    "code": "C10J 3/82",
+    "description": "••••Medios de extracción de gases [2006.01]"
+  },
+  {
+    "code": "C10J 3/84",
+    "description": "••••••con medios para eliminar lodos o alquitrán del gas [2006.01]"
+  },
+  {
+    "code": "C10J 3/86",
+    "description": "••••combinado con calderas de recuperación del calor [2006.01]"
+  }
+]

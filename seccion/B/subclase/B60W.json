@@ -1,0 +1,430 @@
+[
+  {
+    "code": "B60W 10/00",
+    "description": "Control conjugado de subunidades de vehículo de diferentes tipos o funciones (para propulsión de vehículos de tracción exclusivamente eléctrica con una fuente de energía interior al vehículo B60L 50/00-B60L 58/00) [2006.01]"
+  },
+  {
+    "code": "B60W 10/02",
+    "description": "••incluyendo el control de los acoplamientos de la cadena cinemática [2006.01]"
+  },
+  {
+    "code": "B60W 10/04",
+    "description": "••incluyendo el control de las unidades de propulsión [2006.01]"
+  },
+  {
+    "code": "B60W 10/06",
+    "description": "••••incluyendo el control de motores de combustión [2006.01]"
+  },
+  {
+    "code": "B60W 10/08",
+    "description": "••••incluyendo el control de unidades de tracción eléctrica, p.ej. motores o generadores [2006.01]"
+  },
+  {
+    "code": "B60W 10/10",
+    "description": "••incluyendo el control de cajas de cambio de velocidades [2012.01]"
+  },
+  {
+    "code": "B60W 10/101",
+    "description": "••••Engranajes infinitamente variables [2012.01]"
+  },
+  {
+    "code": "B60W 10/103",
+    "description": "••••••de tipo fluido [2012.01]"
+  },
+  {
+    "code": "B60W 10/105",
+    "description": "••••••de tipo eléctrico [2012.01]"
+  },
+  {
+    "code": "B60W 10/107",
+    "description": "••••••con elementos flexibles sin fin [2012.01]"
+  },
+  {
+    "code": "B60W 10/108",
+    "description": "••••••Engranajes de fricción [2012.01]"
+  },
+  {
+    "code": "B60W 10/109",
+    "description": "••••••••de tipo toroidal [2012.01]"
+  },
+  {
+    "code": "B60W 10/11",
+    "description": "••••Engranajes escalonados [2012.01]"
+  },
+  {
+    "code": "B60W 10/111",
+    "description": "••••••con trenes de engranajes de cambio de velocidad separados y dispuestos en series [2012.01]"
+  },
+  {
+    "code": "B60W 10/113",
+    "description": "••••••con dos vías de entrada, p.ej. selección por transmisión de embrague doble de un camino de transmisión de la torsión mediante el correspondiente embrague de entrada [2012.01]"
+  },
+  {
+    "code": "B60W 10/115",
+    "description": "••••••con engranajes planetarios [2012.01]"
+  },
+  {
+    "code": "B60W 10/119",
+    "description": "••incluyendo control de la transmisión a todas las ruedas, p.ej engranajes de transferencia o embragues para dividir la torsión entre los ejes delanteros y traseros (B60W 10/14 tiene prioridad) [2012.01]"
+  },
+  {
+    "code": "B60W 10/12",
+    "description": "••incluyendo el control de diferenciales [2012.01]"
+  },
+  {
+    "code": "B60W 10/14",
+    "description": "••••Diferenciales centrales para dividir la torsión entre los ejes delantero y trasero [2012.01]"
+  },
+  {
+    "code": "B60W 10/16",
+    "description": "••••Diferenciales axiales, p.ej. para repartir la torsión entre las ruedas derecha e izquierda [2012.01]"
+  },
+  {
+    "code": "B60W 10/18",
+    "description": "••incluyendo el control de sistemas de frenado [2012.01]"
+  },
+  {
+    "code": "B60W 10/184",
+    "description": "••••con frenos en las ruedas [2012.01]"
+  },
+  {
+    "code": "B60W 10/188",
+    "description": "••••••frenos hidráulicos [2012.01]"
+  },
+  {
+    "code": "B60W 10/192",
+    "description": "••••••frenos eléctricos [2012.01]"
+  },
+  {
+    "code": "B60W 10/196",
+    "description": "••••actuando dentro de la transmisión, p. ej. ralentizadores [2012.01]"
+  },
+  {
+    "code": "B60W 10/198",
+    "description": "••••con frenos de escape [2012.01]"
+  },
+  {
+    "code": "B60W 10/20",
+    "description": "••incluyendo el control de sistemas de dirección [2006.01]"
+  },
+  {
+    "code": "B60W 10/22",
+    "description": "••incluyendo el control de la suspensión [2006.01]"
+  },
+  {
+    "code": "B60W 10/24",
+    "description": "••incluyendo el control de medios de acumulación de energía [2006.01]"
+  },
+  {
+    "code": "B60W 10/26",
+    "description": "••••para energía eléctrica, p.ej. baterías o condensadores [2006.01]"
+  },
+  {
+    "code": "B60W 10/28",
+    "description": "••incluyendo el control de células de combustible [2006.01]"
+  },
+  {
+    "code": "B60W 10/30",
+    "description": "••incluyendo el control de equipos auxiliares, p.ej. compresores para el aire acondicionado o bombas de aceite [2006.01]"
+  },
+  {
+    "code": "B60W 20/00",
+    "description": "Sistemas de control especialmente adaptados a vehículos híbridos [2016.01]"
+  },
+  {
+    "code": "B60W 20/10",
+    "description": "••Control de la contribución de energía de cada uno de los motores primarios para satisfacer la demanda de energía requerida [2016.01]"
+  },
+  {
+    "code": "B60W 20/11",
+    "description": "••••utilizando estrategias de control predictivo del modelo [MPC], es decir, métodos de control basados en modelos que predicen el rendimiento [2016.01]"
+  },
+  {
+    "code": "B60W 20/12",
+    "description": "••••utilizando estrategias de control que tienen en cuenta la ruta de la información [2016.01]"
+  },
+  {
+    "code": "B60W 20/13",
+    "description": "••••con el fin de mantenerse dentro de los límites de potencia de entrada o de salida de la batería; con el fin de evitar el agotamiento o la sobrecarga de la batería [2016.01]"
+  },
+  {
+    "code": "B60W 20/14",
+    "description": "••••••en relación con la regeneración de frenado [2016.01]"
+  },
+  {
+    "code": "B60W 20/15",
+    "description": "••••Estrategias de control especialmente adaptadas para la consecución de un efecto particular [2016.01]"
+  },
+  {
+    "code": "B60W 20/16",
+    "description": "••••••para reducir las emisiones de gases de escape del motor [2016.01]"
+  },
+  {
+    "code": "B60W 20/17",
+    "description": "••••••para reducir el ruido [2016.01]"
+  },
+  {
+    "code": "B60W 20/18",
+    "description": "••••••para evitar el envejecimiento de combustible [2016.01]"
+  },
+  {
+    "code": "B60W 20/19",
+    "description": "••••••para alcanzar una aceleración mejorada [2016.01]"
+  },
+  {
+    "code": "B60W 20/20",
+    "description": "••Estrategias de control que implican la selección de configuración híbrida, p. ej. la selección entre configuración en serie o en paralelo [2016.01]"
+  },
+  {
+    "code": "B60W 20/30",
+    "description": "••Estrategias de control que implican la selección de la relación de transmisión [2016.01]"
+  },
+  {
+    "code": "B60W 20/40",
+    "description": "••Controlando el acoplamiento o desacoplamiento de los motores primarios, p.ej.  para la transición entre los motores primarios [2016.01]"
+  },
+  {
+    "code": "B60W 20/50",
+    "description": "••Estrategias de control para responder a los fallos del sistema, p. ej. para el diagnóstico de fallos, el funcionamiento a prueba de fallos o en modo degradado [2016.01]"
+  },
+  {
+    "code": "B60W 30/00",
+    "description": "Funciones de sistemas de ayuda a la conducción de vehículos terrestres no relacionados con el control de una subunidad particular, p.ej. sistemas que utilizan el control conjugado de varias subunidades del vehículo [2006.01]"
+  },
+  {
+    "code": "B60W 30/02",
+    "description": "••Control de la estabilidad en la conducción del vehículo [2012.01]"
+  },
+  {
+    "code": "B60W 30/04",
+    "description": "••••destinada a la prevención de la basculación [2006.01]"
+  },
+  {
+    "code": "B60W 30/045",
+    "description": "••••Mejora del comportamiento en el giro [2012.01]"
+  },
+  {
+    "code": "B60W 30/06",
+    "description": "••Maniobra automática de estacionamiento [2006.01]"
+  },
+  {
+    "code": "B60W 30/08",
+    "description": "••Anticipación o prevención de colisiones probables o inminentes [2012.01]"
+  },
+  {
+    "code": "B60W 30/085",
+    "description": "••••Acciones automáticas para ajustar el comportamiento del vehículo en preparación del choque, p. ej. frenado para bajar el morro [2012.01]"
+  },
+  {
+    "code": "B60W 30/09",
+    "description": "••••Acciones automáticas para evitar el choque, p. ej. frenado y giro del volante [2012.01]"
+  },
+  {
+    "code": "B60W 30/095",
+    "description": "••••Predicción de la trayectoria o probabilidad de choque [2012.01]"
+  },
+  {
+    "code": "B60W 30/10",
+    "description": "••Mantenimiento de la trayectoria [2006.01]"
+  },
+  {
+    "code": "B60W 30/12",
+    "description": "••••en una vía de circulación [2020.01]"
+  },
+  {
+    "code": "B60W 30/14",
+    "description": "••Control de crucero [2006.01]"
+  },
+  {
+    "code": "B60W 30/16",
+    "description": "••••Control de la distancia entre vehículos, p. ej. para mantener una distancia con el vehículo que le precede [2020.01]"
+  },
+  {
+    "code": "B60W 30/165",
+    "description": "••••••seguimiento automático de la trayectoria de un vehículo precedente, p. ej. \"gancho de remolque electrónico\" [2020.01]"
+  },
+  {
+    "code": "B60W 30/17",
+    "description": "••••••con provisión de acciones especiales cuando el vehículo precedente se detiene, p. ej. paro y arranque [2020.01]"
+  },
+  {
+    "code": "B60W 30/18",
+    "description": "••Propulsión del vehículo [2012.01]"
+  },
+  {
+    "code": "B60W 30/182",
+    "description": "••••Selección entre modos de operación diferentes, p. ej. modo de rendimiento o de confort [2020.01]"
+  },
+  {
+    "code": "B60W 30/184",
+    "description": "••••Prevención del daño resultante de la sobrecarga o desgaste excesivo de la transmisión [2012.01]"
+  },
+  {
+    "code": "B60W 30/186",
+    "description": "••••••desgaste excesivo o quemado de elementos de fricción, p. ej. embragues [2012.01]"
+  },
+  {
+    "code": "B60W 30/188",
+    "description": "••••Control de parámetros de potencia de la transmisión, p. ej. determinación de la potencia requerida [2012.01]"
+  },
+  {
+    "code": "B60W 30/19",
+    "description": "••••Mejora del cambio de marcha, p. ej. por sincronización o suavizado del desplazamiento del engranaje [2012.01]"
+  },
+  {
+    "code": "B60W 30/192",
+    "description": "••••Reducción de problemas relacionados con la subida o bajada de potencia de la transmisión, p. ej. arranque de un motor en frío [2012.01]"
+  },
+  {
+    "code": "B60W 30/194",
+    "description": "••••••relacionados con condiciones de baja temperatura, p. ej. alta viscosidad del fluido hidráulico [2012.01]"
+  },
+  {
+    "code": "B60W 30/20",
+    "description": "••••Reducción de las vibraciones de la cadena de transmisión [2006.01]"
+  },
+  {
+    "code": "B60W 40/00",
+    "description": "Cálculo o estimación de los parámetros de funcionamiento para el sistema de ayuda a la conducción de vehículos terrestres que no están relacionados con el control de una subunidad particular [2006.01]"
+  },
+  {
+    "code": "B60W 40/02",
+    "description": "••relacionados con las condiciones ambientales [2006.01]"
+  },
+  {
+    "code": "B60W 40/04",
+    "description": "••••Condiciones de tráfico [2006.01]"
+  },
+  {
+    "code": "B60W 40/06",
+    "description": "••••Condiciones de la vía [2012.01]"
+  },
+  {
+    "code": "B60W 40/064",
+    "description": "••••••Grado de agarre [2012.01]"
+  },
+  {
+    "code": "B60W 40/068",
+    "description": "••••••Coeficiente de fricción de la vía [2012.01]"
+  },
+  {
+    "code": "B60W 40/072",
+    "description": "••••••Curvatura de la vía [2012.01]"
+  },
+  {
+    "code": "B60W 40/076",
+    "description": "••••••Pendiente de la vía [2012.01]"
+  },
+  {
+    "code": "B60W 40/08",
+    "description": "••relacionados con los conductores o los pasajeros [2012.01]"
+  },
+  {
+    "code": "B60W 40/09",
+    "description": "••••Estilo o comportamiento en la conducción [2012.01]"
+  },
+  {
+    "code": "B60W 40/10",
+    "description": "••relacionados con el movimiento del vehículo [2012.01]"
+  },
+  {
+    "code": "B60W 40/101",
+    "description": "••••Ángulo de deslizamiento de la rueda [2012.01]"
+  },
+  {
+    "code": "B60W 40/103",
+    "description": "••••Ángulo de deslizamiento del cuerpo del vehículo [2012.01]"
+  },
+  {
+    "code": "B60W 40/105",
+    "description": "••••Velocidad [2012.01]"
+  },
+  {
+    "code": "B60W 40/107",
+    "description": "••••Aceleración longitudinal [2012.01]"
+  },
+  {
+    "code": "B60W 40/109",
+    "description": "••••Aceleración lateral [2012.01]"
+  },
+  {
+    "code": "B60W 40/11",
+    "description": "••••Movimiento de cabeceo [2012.01]"
+  },
+  {
+    "code": "B60W 40/112",
+    "description": "••••Movimiento de balanceo [2012.01]"
+  },
+  {
+    "code": "B60W 40/114",
+    "description": "••••Movimiento de guiñada [2012.01]"
+  },
+  {
+    "code": "B60W 40/12",
+    "description": "••relacionados con parámetros del vehículo en sí mismo [2012.01]"
+  },
+  {
+    "code": "B60W 40/13",
+    "description": "••••Carga o peso [2012.01]"
+  },
+  {
+    "code": "B60W 50/00",
+    "description": "Detalles de los sistemas de ayuda a la conducción de vehículos terrestres que no están relacionados con el control de una subunidad particular [2006.01]"
+  },
+  {
+    "code": "B60W 50/02",
+    "description": "••Para preservar la seguridad en caso de fallo del sistema de ayuda a la conducción, p.ej. diagnosticando o solventando el disfuncionamiento [2012.01]"
+  },
+  {
+    "code": "B60W 50/023",
+    "description": "••••Evitar errores mediante piezas redundantes [2012.01]"
+  },
+  {
+    "code": "B60W 50/029",
+    "description": "••••Adecuación a fallos o rodeos con otras limitaciones, p. ej. puenteo evitando usar la pieza averiada [2012.01]"
+  },
+  {
+    "code": "B60W 50/032",
+    "description": "••••Corregir fallos mediante reparación de las piezas averiadas, p. ej. soltar una válvula bloqueada [2012.01]"
+  },
+  {
+    "code": "B60W 50/035",
+    "description": "••••Llevando a las unidades de control a un estado predefinido, p.ej. dando prioridad a accionadores particulares [2012.01]"
+  },
+  {
+    "code": "B60W 50/038",
+    "description": "••••Limitando la entrada de torsión, potencia o velocidad [2012.01]"
+  },
+  {
+    "code": "B60W 50/04",
+    "description": "••para vigilar el funcionamiento del sistema de ayuda a la conducción [2006.01]"
+  },
+  {
+    "code": "B60W 50/06",
+    "description": "••para mejorar la respuesta dinámica del sistema de ayuda a la conducción, p.ej. para mejorar la respuesta de regulación o evitar penduleo o inestabilidad [2006.01]"
+  },
+  {
+    "code": "B60W 50/08",
+    "description": "••Interacción entre el conductor y el sistema de control [2020.01]"
+  },
+  {
+    "code": "B60W 50/10",
+    "description": "••••Interpretación de las peticiones y necesidades del conductor [2012.01]"
+  },
+  {
+    "code": "B60W 50/12",
+    "description": "••••Limitar el control del conductor en función del estado del vehículo, p. ej. medios de bloqueo de la entrada de control para prevenir el funcionamiento inseguro [2012.01]"
+  },
+  {
+    "code": "B60W 50/14",
+    "description": "••••Medios para informar o avisar al conductor o provocar su intervención [2020.01]"
+  },
+  {
+    "code": "B60W 50/16",
+    "description": "••••••Retorno táctil al conductor, p. ej. vibración o retorno de fuerza en el volante o el acelerador [2020.01]"
+  },
+  {
+    "code": "B60W 60/00",
+    "description": "Sistemas de control de la conducción especialmente adaptados para vehículos terrestres autónomos [2020.01]"
+  }
+]

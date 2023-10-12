@@ -1,0 +1,1610 @@
+[
+  {
+    "code": "F41A 1/00",
+    "description": "Propulsión de proyectiles caracterizada por el uso de cargas propulsivas combustibles o explosivas (propulsión de proyectiles sin utilización de cargas explosivas o propulsivas F41B; lanzamiento de cohetes o de torpedos F41F 3/00; autopropulsión de proyectiles F42B 15/00) [2006.01]"
+  },
+  {
+    "code": "F41A 1/02",
+    "description": "••Propulsión de proyectiles con hipervelocidad utilizando medios sucesivos para aumentar la fuerza propulsiva, p. ej. utilizando la combustión de varias cargas propulsivas, encendidas una tras otra y dispuestas a lo largo del tubo del arma; Propulsión de proyectiles en multifase [2006.01]"
+  },
+  {
+    "code": "F41A 1/04",
+    "description": "••Propulsión de proyectiles utilizando la combustión de una carga propulsiva líquida o gaseosa, p. ej. de un hipergol [2006.01]"
+  },
+  {
+    "code": "F41A 1/06",
+    "description": "••Regulación del alcance sin cambiar el ángulo de elevación o los datos relativos a la carga propulsiva, p. ej. dejando escapar una parte de los gases de combustión de la carga propulsiva, o regulando el volumen de la recámara para el cartucho o de la cámara de combustión [2006.01]"
+  },
+  {
+    "code": "F41A 1/08",
+    "description": "••Cañones sin retroceso, es decir armas de fuego provistas de un sistema de propulsión que no produce retroceso [2006.01]"
+  },
+  {
+    "code": "F41A 1/10",
+    "description": "••••utilizando un proyectil antagonista para equilibrar el retroceso [2006.01]"
+  },
+  {
+    "code": "F41A 3/00",
+    "description": "Mecanismos de cierre, p. ej. cierres [2006.01]"
+  },
+  {
+    "code": "F41A 3/02",
+    "description": "••Cierres de cuña, es decir, cuyo movimiento principal de apertura es transversal con respecto al eje del tubo del arma [2006.01]"
+  },
+  {
+    "code": "F41A 3/04",
+    "description": "••••teniendo el bloque de cierre un mecanismo pivotante [2006.01]"
+  },
+  {
+    "code": "F41A 3/06",
+    "description": "••••••alrededor de un eje horizontal, dispuesto detrás del bloque de cierre y orientado transversalmente con respecto al eje del tubo del arma (F41A 3/08 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F41A 3/08",
+    "description": "••••••provistos de un tapón rotativo con rosca de tornillo o con rosca interrumpida (F41A 3/30 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F41A 3/10",
+    "description": "••••teniendo el bloque de cierre un mecanismo deslizante, p. ej. verticalmente [2006.01]"
+  },
+  {
+    "code": "F41A 3/12",
+    "description": "••Cierres móviles axialmente, es decir, cuyo movimiento principal de apertura es paralelo al eje del tubo del arma [2006.01]"
+  },
+  {
+    "code": "F41A 3/14",
+    "description": "••••Mecanismos de cierre rígidos, es decir, con elementos de cierre rígidamente montados con, respectivamente, el bloque de cierre o su dispositivo de maniobra y con el tubo del arma o la caja del bloque de cierre [2006.01]"
+  },
+  {
+    "code": "F41A 3/16",
+    "description": "••••••girando los cierres alrededor del eje del tubo del arma, p. ej. cierres cilíndricos rotativos [2006.01]"
+  },
+  {
+    "code": "F41A 3/18",
+    "description": "••••••••con control manual [2006.01]"
+  },
+  {
+    "code": "F41A 3/20",
+    "description": "••••••••••Cierres accionados por tracción rectilínea, es decir, el operador efectúa únicamente un movimiento rectilíneo paralelo al eje del tubo del arma [2006.01]"
+  },
+  {
+    "code": "F41A 3/22",
+    "description": "••••••••••efectuándose el cierre por la rotación del tirador o palanca de maniobra transversalmente con respecto al eje del tubo del arma [2006.01]"
+  },
+  {
+    "code": "F41A 3/24",
+    "description": "••••••••••••formando parte los cierres del tirador o palanca de maniobra [2006.01]"
+  },
+  {
+    "code": "F41A 3/26",
+    "description": "••••••••de acción semiautomática o automática, p. ej. incluyendo el bloque de cierre un soporte deslizante y una cabeza rotativa [2006.01]"
+  },
+  {
+    "code": "F41A 3/28",
+    "description": "••••••••••incluyendo cierres encajados en un bloque de cierre cilíndrico no rotativo y cierres rotativos montados en el tubo del arma o en la caja del bloque de cierre, p. ej. anillos rotativos de cierre [2006.01]"
+  },
+  {
+    "code": "F41A 3/30",
+    "description": "••••••••Elementos de cierre, p. ej. espigas de cierre, rosca de tornillo [2006.01]"
+  },
+  {
+    "code": "F41A 3/32",
+    "description": "••••••basculando el bloque de cierre alrededor de un eje ficticio, transversal con respecto al eje del tubo del arma [2006.01]"
+  },
+  {
+    "code": "F41A 3/34",
+    "description": "••••••efectuando el bloque de cierre un movimiento deslizante suplementario, transversal con respecto al eje del tubo del arma [2006.01]"
+  },
+  {
+    "code": "F41A 3/36",
+    "description": "••••Mecanismos de cierre semirrígidos, es decir, con elementos de cierre montados móviles en el bloque de cierre, o en el tubo del arma, o en la caja del bloque de cierre [2006.01]"
+  },
+  {
+    "code": "F41A 3/38",
+    "description": "••••••provistos de elementos de cierre basculantes, p. ej. de palancas o de paletas pivotantes [2006.01]"
+  },
+  {
+    "code": "F41A 3/40",
+    "description": "••••••••montados en el bloque de cierre (F41A 3/42 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F41A 3/42",
+    "description": "••••••••con control manual [2006.01]"
+  },
+  {
+    "code": "F41A 3/44",
+    "description": "••••••provistos de elementos de cierre deslizantes, p. ej. bolas o rodillos [2006.01]"
+  },
+  {
+    "code": "F41A 3/46",
+    "description": "••••••••montados en el bloque de cierre (F41A 3/48 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F41A 3/48",
+    "description": "••••••••con control manual [2006.01]"
+  },
+  {
+    "code": "F41A 3/50",
+    "description": "••••••Cierres de articulación de rodillera, p. ej. con control por palancas acodadas [2006.01]"
+  },
+  {
+    "code": "F41A 3/52",
+    "description": "••••••••con control manual [2006.01]"
+  },
+  {
+    "code": "F41A 3/54",
+    "description": "••••Mecanismos de cierre sin cerrojo, es decir, accionados por inercia [2006.01]"
+  },
+  {
+    "code": "F41A 3/56",
+    "description": "••••••estando provisto el bloque de cierre de una masa suplementaria deslizante [2006.01]"
+  },
+  {
+    "code": "F41A 3/58",
+    "description": "••basculantes, p. ej. para escopetas de caza [2006.01]"
+  },
+  {
+    "code": "F41A 3/60",
+    "description": "••Mecanismos de cierre para armas de fuego con varios cañones (F41A 3/58 tiene prioridad; para cañones giratorios F41F 1/10) [2006.01]"
+  },
+  {
+    "code": "F41A 3/62",
+    "description": "••que utilizan la presión de los gases de combustión para reforzar el cierre mecánico o para retrasar el movimiento de apertura del bloque de cierre [2006.01]"
+  },
+  {
+    "code": "F41A 3/64",
+    "description": "••Montaje de bloques de cierre; Accesorios para los bloques de cierre o para su montaje [2006.01]"
+  },
+  {
+    "code": "F41A 3/66",
+    "description": "••••Cajas o chasis de bloques de cierre; Carcasas [2006.01]"
+  },
+  {
+    "code": "F41A 3/68",
+    "description": "••••Topes para cierres, es decir, medios para limitar el movimiento de apertura del bloque de cierre [2006.01]"
+  },
+  {
+    "code": "F41A 3/70",
+    "description": "••••Dispositivos anti-rebote, es decir, dispositivos para prevenir el rebote del bloque de cierre a partir de su posición de disparo [2006.01]"
+  },
+  {
+    "code": "F41A 3/72",
+    "description": "••••Palancas o tiradores de maniobra; su montaje en los bloques de cierre [2006.01]"
+  },
+  {
+    "code": "F41A 3/74",
+    "description": "••••Dispositivos de obturación o de estanqueidad para prevenir las pérdidas de gas en los mecanismos de cierre [2006.01]"
+  },
+  {
+    "code": "F41A 3/76",
+    "description": "••••••especialmente adaptados para unir herméticamente el extremo anterior de la recámara para el cartucho y el extremo posterior del tubo del arma, p. ej. dispositivos de estanqueidad de las armas del tipo revólver [2006.01]"
+  },
+  {
+    "code": "F41A 3/78",
+    "description": "••••Amortiguadores o dispositivos recuperadores para los bloques de cierre [2006.01]"
+  },
+  {
+    "code": "F41A 3/80",
+    "description": "••••••Amortiguadores de resorte regulables [2006.01]"
+  },
+  {
+    "code": "F41A 3/82",
+    "description": "••••••Amortiguadores de muelle en espiral (F41A 3/80 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F41A 3/84",
+    "description": "••••••••montados en el interior de la culata [2006.01]"
+  },
+  {
+    "code": "F41A 3/86",
+    "description": "••••••••montados debajo del tubo del arma [2006.01]"
+  },
+  {
+    "code": "F41A 3/88",
+    "description": "••••••••montados alrededor del tubo del arma [2006.01]"
+  },
+  {
+    "code": "F41A 3/90",
+    "description": "••••••Amortiguadores que utilizan un fluido [2006.01]"
+  },
+  {
+    "code": "F41A 3/92",
+    "description": "••••••••regulables [2006.01]"
+  },
+  {
+    "code": "F41A 3/94",
+    "description": "••••••••combinados con amortiguadores de resorte [2006.01]"
+  },
+  {
+    "code": "F41A 5/00",
+    "description": "Mecanismos o sistemas automáticos de descerrojamiento del cierre con la ayuda de una fuerza creada por una carga propulsiva [2006.01]"
+  },
+  {
+    "code": "F41A 5/02",
+    "description": "••con retroceso [2006.01]"
+  },
+  {
+    "code": "F41A 5/04",
+    "description": "••••inclinándose el tubo del arma durante el retroceso [2006.01]"
+  },
+  {
+    "code": "F41A 5/06",
+    "description": "••••girando el tubo del arma alrededor de su eje longitudinal durante el retroceso [2006.01]"
+  },
+  {
+    "code": "F41A 5/08",
+    "description": "••••provistos de una palanca para acelerar el movimiento de apertura del bloque de cierre [2006.01]"
+  },
+  {
+    "code": "F41A 5/10",
+    "description": "••••provistos de una masa de inercia móvil [2006.01]"
+  },
+  {
+    "code": "F41A 5/12",
+    "description": "••••••montada sobre un arma de fuego con tubo fijo [2006.01]"
+  },
+  {
+    "code": "F41A 5/14",
+    "description": "••••Topes para tubos de arma, es decir dispositivos para retener el tubo del arma que retrocede en una posición predeterminada, p. ej. en la posición de retroceso [2006.01]"
+  },
+  {
+    "code": "F41A 5/16",
+    "description": "••••desplazándose el tubo del arma hacia adelante después de un disparo [2006.01]"
+  },
+  {
+    "code": "F41A 5/18",
+    "description": "••accionados mediante gases [2006.01]"
+  },
+  {
+    "code": "F41A 5/20",
+    "description": "••••con un pistón de gas montado concéntricamente alrededor del tubo del arma [2006.01]"
+  },
+  {
+    "code": "F41A 5/22",
+    "description": "••••con varios pistones de gas [2006.01]"
+  },
+  {
+    "code": "F41A 5/24",
+    "description": "••••actuando la presión de los gases directamente sobre el bloque de cierre o sobre los elementos de cierre [2006.01]"
+  },
+  {
+    "code": "F41A 5/26",
+    "description": "••••Disposiciones o sistemas para evacuar los gases del tubo del arma (F41A 5/20-F41A 5/24 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "F41A 5/28",
+    "description": "••••••Sistemas regulables [2006.01]"
+  },
+  {
+    "code": "F41A 5/30",
+    "description": "••Funcionamiento combinado con retroceso o mediante gases, p. ej. elección de uno de los dos modos de funcionamiento [2006.01]"
+  },
+  {
+    "code": "F41A 5/32",
+    "description": "••Sistemas acumuladores de energía, es decir, sistemas de descerrojamiento del bloque de cierre con la ayuda de la energía acumulada durante el retroceso del tubo del arma o del pistón de gas [2006.01]"
+  },
+  {
+    "code": "F41A 5/34",
+    "description": "••••con acumuladores de resorte [2006.01]"
+  },
+  {
+    "code": "F41A 5/36",
+    "description": "••••con acumuladores que utilizan un fluido [2006.01]"
+  },
+  {
+    "code": "F41A 7/00",
+    "description": "Mecanismos auxiliares para volver a llevar el bloque de cierre o el tubo del arma hacia su posición de partida antes de empezar a disparar automáticamente (tiradores o palancas de operación F41A 3/00); Mecanismos de accionamiento para armas de fuego con motor externo (cañones revólver F41F 1/00); Cargadores de armas de fuego con telemando [2006.01]"
+  },
+  {
+    "code": "F41A 7/02",
+    "description": "••Dispositivos de rearme para metralletas, p. ej. con control manual [2006.01]"
+  },
+  {
+    "code": "F41A 7/04",
+    "description": "••••accionados por un fluido [2006.01]"
+  },
+  {
+    "code": "F41A 7/06",
+    "description": "••••accionados por medios eléctricos [2006.01]"
+  },
+  {
+    "code": "F41A 7/08",
+    "description": "••Mecanismos de accionamiento para armas de fuego con motor externo, es decir, mecanismos de accionamiento para desplazar el bloque de cierre durante el disparo automático utilizando una fuerza externa [2006.01]"
+  },
+  {
+    "code": "F41A 7/10",
+    "description": "••••utilizando un tambor giratorio provisto de una ranura excéntrica [2006.01]"
+  },
+  {
+    "code": "F41A 9/00",
+    "description": "Carga o alimentación de municiones (adaptaciones para la alimentación o la carga de proyectiles en los cargadores de armas de aire comprimido F41B 11/50); Cargadores; Medios de guiado para la extracción de cartuchos (extractores o eyectores F41A 15/00) [2006.01]"
+  },
+  {
+    "code": "F41A 9/01",
+    "description": "••Alimentación de munición sin eslabonar [2006.01]"
+  },
+  {
+    "code": "F41A 9/02",
+    "description": "••••utilizando transportadores con ruedas rotativas, p. ej. transportadores con rueda dentada [2006.01]"
+  },
+  {
+    "code": "F41A 9/03",
+    "description": "••••utilizando transportadores de tornillo sin fin o de espiral rotativa [2006.01]"
+  },
+  {
+    "code": "F41A 9/04",
+    "description": "••••utilizando transportadores de cinta sin fin que llevan varias municiones [2006.01]"
+  },
+  {
+    "code": "F41A 9/05",
+    "description": "••••••en tándem [2006.01]"
+  },
+  {
+    "code": "F41A 9/06",
+    "description": "••••utilizando dispositivos de transporte de movimiento cíclico, es decir, con elementos para empujar o llevar las municiones, que son eliminadas o descargadas durante el retorno [2006.01]"
+  },
+  {
+    "code": "F41A 9/07",
+    "description": "••••••Transportadores con movimiento de vaivén, es decir, transportadores para empujar simultáneamente varias municiones durante el recorrido de alimentación [2006.01]"
+  },
+  {
+    "code": "F41A 9/09",
+    "description": "••••••Tejas o paletas móviles para cargar municiones, p. ej. para la alimentación a partir de cargadores [2006.01]"
+  },
+  {
+    "code": "F41A 9/10",
+    "description": "••••••••rotativas o basculantes [2006.01]"
+  },
+  {
+    "code": "F41A 9/11",
+    "description": "••••••••••en un plano horizontal [2006.01]"
+  },
+  {
+    "code": "F41A 9/12",
+    "description": "••••••••••••montadas en un arma individual [2006.01]"
+  },
+  {
+    "code": "F41A 9/13",
+    "description": "••••••••••en un plano vertical [2006.01]"
+  },
+  {
+    "code": "F41A 9/14",
+    "description": "••••••••••••perpendicular al eje del tubo del arma [2006.01]"
+  },
+  {
+    "code": "F41A 9/15",
+    "description": "••••••••••••••montadas en un arma individual [2006.01]"
+  },
+  {
+    "code": "F41A 9/16",
+    "description": "••••••••••••paralelo al eje del tubo del arma [2006.01]"
+  },
+  {
+    "code": "F41A 9/17",
+    "description": "••••••••••••••montadas en un arma individual [2006.01]"
+  },
+  {
+    "code": "F41A 9/18",
+    "description": "••••••••••••••••para la alimentación de municiones a partir de un cargador situado debajo del tubo del arma [2006.01]"
+  },
+  {
+    "code": "F41A 9/19",
+    "description": "••••••••••••••••para la alimentación de municiones a partir de un cargador montado en el interior de la culata del arma [2006.01]"
+  },
+  {
+    "code": "F41A 9/20",
+    "description": "••••••••deslizantes, p. ej. con movimiento de vaivén [2006.01]"
+  },
+  {
+    "code": "F41A 9/21",
+    "description": "••••••••••en dirección vertical (F41A 9/23  tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F41A 9/22",
+    "description": "••••••••••en dirección horizontal (F41A 9/23  tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F41A 9/23",
+    "description": "••••••••••montadas en un arma individual [2006.01]"
+  },
+  {
+    "code": "F41A 9/24",
+    "description": "••••utilizando un cargador o peine cargador móvil como dispositivo alimentador [2006.01]"
+  },
+  {
+    "code": "F41A 9/25",
+    "description": "••••••utilizando un cargador deslizante [2006.01]"
+  },
+  {
+    "code": "F41A 9/26",
+    "description": "••••••utilizando un cargador del tipo de tambor rotativo [2006.01]"
+  },
+  {
+    "code": "F41A 9/27",
+    "description": "••••••••en armas de fuego del tipo revólver [2006.01]"
+  },
+  {
+    "code": "F41A 9/28",
+    "description": "••••••••••de tipo individual (en revólveres F41C 3/14) [2006.01]"
+  },
+  {
+    "code": "F41A 9/29",
+    "description": "••Alimentación de munición eslabonada [2006.01]"
+  },
+  {
+    "code": "F41A 9/30",
+    "description": "••••Transportadores de cinta del tipo de rueda dentada [2006.01]"
+  },
+  {
+    "code": "F41A 9/31",
+    "description": "••••••con medios para desprenderse de los cartuchos [2006.01]"
+  },
+  {
+    "code": "F41A 9/32",
+    "description": "••••Transportadores de cinta con movimiento de vaivén deslizante [2006.01]"
+  },
+  {
+    "code": "F41A 9/33",
+    "description": "••••••con medios para desprenderse de los cartuchos [2006.01]"
+  },
+  {
+    "code": "F41A 9/34",
+    "description": "••••por medio de cargadores (cargadores para munición eslabonada en sí\n\t\t\t\t\t\t\t\t\t\t\tF41A 9/79) [2006.01]"
+  },
+  {
+    "code": "F41A 9/35",
+    "description": "••Alimentación de municiones para armas con varios cañones [2006.01]"
+  },
+  {
+    "code": "F41A 9/36",
+    "description": "••••Alimentación de los cañones giratorios [2006.01]"
+  },
+  {
+    "code": "F41A 9/37",
+    "description": "••Alimentación de una misma arma con varios tipos de municiones; Alimentación por dos lados [2006.01]"
+  },
+  {
+    "code": "F41A 9/38",
+    "description": "••Disposiciones para la carga, es decir para llevar las municiones a la posición de disparo [2006.01]"
+  },
+  {
+    "code": "F41A 9/39",
+    "description": "••••Disposiciones para atacar [2006.01]"
+  },
+  {
+    "code": "F41A 9/40",
+    "description": "••••••haciendo el bloque de cierre función de atacador [2006.01]"
+  },
+  {
+    "code": "F41A 9/41",
+    "description": "••••••••empujando la munición sin eslabonar, situada en la caja cargador del arma de fuego hacia la recámara [2006.01]"
+  },
+  {
+    "code": "F41A 9/42",
+    "description": "••••••Atacadores independientes del bloque de cierre [2006.01]"
+  },
+  {
+    "code": "F41A 9/43",
+    "description": "••••••••Atacadores del tipo de cadena [2006.01]"
+  },
+  {
+    "code": "F41A 9/44",
+    "description": "••••••••Pistones-atacadores que utilizan un fluido [2006.01]"
+  },
+  {
+    "code": "F41A 9/45",
+    "description": "••••basculando la recámara o el tubo del arma como un todo desde una posición de carga hacia una posición de disparo o viceversa [2006.01]"
+  },
+  {
+    "code": "F41A 9/46",
+    "description": "••••estando la recámara formada por dos elementos complementarios, móviles el uno con respecto al otro con vistas a la carga [2006.01]"
+  },
+  {
+    "code": "F41A 9/47",
+    "description": "••••Utilización de tubos de arma o de partes de tubo que se deslizan hacia adelante para la carga [2006.01]"
+  },
+  {
+    "code": "F41A 9/48",
+    "description": "••••Carga utilizando la fuerza de la gravedad [2006.01]"
+  },
+  {
+    "code": "F41A 9/49",
+    "description": "••Mecanismos de accionamiento interno, es decir, accionados por la fuerza creada por una carga propulsiva, p. ej. acoplamientos, embragues, acumuladores de energía [2006.01]"
+  },
+  {
+    "code": "F41A 9/50",
+    "description": "••Sistemas de accionamiento o de control externos [2006.01]"
+  },
+  {
+    "code": "F41A 9/51",
+    "description": "••••Impulsores, es decir, motores controlados desde el exterior [2006.01]"
+  },
+  {
+    "code": "F41A 9/52",
+    "description": "••Disposiciones para pasar de una carga automática o por medio de cargador a una carga manual [2006.01]"
+  },
+  {
+    "code": "F41A 9/53",
+    "description": "••Dispositivos que indican si el arma está cargada o no, es decir, que indican la presencia de un cartucho en la recámara [2006.01]"
+  },
+  {
+    "code": "F41A 9/54",
+    "description": "••Medios de guiado, de frenado o de posicionamiento de los cartuchos, p. ej. para la extracción de los cartuchos [2006.01]"
+  },
+  {
+    "code": "F41A 9/55",
+    "description": "••••Medios de guiado fijos montados sobre, o cerca de la recámara [2006.01]"
+  },
+  {
+    "code": "F41A 9/56",
+    "description": "••••Medios de guiado móviles [2006.01]"
+  },
+  {
+    "code": "F41A 9/57",
+    "description": "••••••Canales flexibles, p. ej. para guiar la munición elaborada del cargador hacia el arma de fuego [2006.01]"
+  },
+  {
+    "code": "F41A 9/58",
+    "description": "••••Topes de cartucho; Dispositivos de posicionamiento de los cartuchos [2006.01]"
+  },
+  {
+    "code": "F41A 9/59",
+    "description": "••Eyectores de peines cargadores o de cargadores, p. ej. de cargadores vacíos [2006.01]"
+  },
+  {
+    "code": "F41A 9/60",
+    "description": "••Dispositivos para recoger o agarrar las vainas de los cartuchos vacíos o las grapas o eslabones (F41A 9/81  tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F41A 9/61",
+    "description": "••Cargadores [2006.01]"
+  },
+  {
+    "code": "F41A 9/62",
+    "description": "••••provistos de dispositivos que indican el número de cartuchos que quedan en el cargador, p. ej. indicación del último cartucho (mecanismos de seguridad controlados por el disparo del último cartucho F41A 17/40) [2006.01]"
+  },
+  {
+    "code": "F41A 9/63",
+    "description": "••••especialmente adaptados para ser unidos de modo desmontable con otros cargadores [2006.01]"
+  },
+  {
+    "code": "F41A 9/64",
+    "description": "••••para munición sin eslabonar [2006.01]"
+  },
+  {
+    "code": "F41A 9/65",
+    "description": "••••••Cajas-cargador que incluyen un elevador de cartuchos [2006.01]"
+  },
+  {
+    "code": "F41A 9/66",
+    "description": "••••••••Disposiciones sobre los cargadores para facilitar su carga, es decir, su relleno (aparatos o herramientas para rellenar los cargadores F41A 9/83) [2006.01]"
+  },
+  {
+    "code": "F41A 9/67",
+    "description": "••••••••••con medios para hacer retroceder el elevador de cartuchos o para bloquearlo en posición inactiva [2006.01]"
+  },
+  {
+    "code": "F41A 9/68",
+    "description": "••••••••Cargadores múltiples, p. ej. cargadores en tándem [2006.01]"
+  },
+  {
+    "code": "F41A 9/69",
+    "description": "••••••••caracterizadas por la disposición de los cartuchos en zigzag o en varias filas [2006.01]"
+  },
+  {
+    "code": "F41A 9/70",
+    "description": "••••••••Disposiciones sobre los cargadores para facilitar su descarga, p. ej. elevadores de cartuchos, gargantas de retención [2006.01]"
+  },
+  {
+    "code": "F41A 9/71",
+    "description": "••••••••Disposiciones para hacer variar el volumen del cargador; Dispositivos insertables o dispositivos adaptadores que permiten el almacenamiento de cartuchos de tipo o de calibre diferentes [2006.01]"
+  },
+  {
+    "code": "F41A 9/72",
+    "description": "••••••Cargadores tubulares, es decir, cargadores en los cuales las municiones se colocan longitudinalmente en tándem [2006.01]"
+  },
+  {
+    "code": "F41A 9/73",
+    "description": "••••••Cargadores de tambor [2006.01]"
+  },
+  {
+    "code": "F41A 9/74",
+    "description": "••••••••en los cuales los cartuchos están dispuestos de modo radial [2006.01]"
+  },
+  {
+    "code": "F41A 9/75",
+    "description": "••••••••provistos de un conducto de guiado en espiral para los cartuchos [2006.01]"
+  },
+  {
+    "code": "F41A 9/76",
+    "description": "••••••Cargadores provistos de un transportador de cinta o de cadena sin fin [2006.01]"
+  },
+  {
+    "code": "F41A 9/77",
+    "description": "••••••Cargadores provistos de un transportador de tornillo o con espiral rotativa [2006.01]"
+  },
+  {
+    "code": "F41A 9/78",
+    "description": "••••••Cargadores provistos de un transportador con movimiento de vaivén [2006.01]"
+  },
+  {
+    "code": "F41A 9/79",
+    "description": "••••para munición eslabonada [2006.01]"
+  },
+  {
+    "code": "F41A 9/80",
+    "description": "••••••con medios para permitir el acoplamiento rápido de las cintas de dos cargadores adyacentes [2006.01]"
+  },
+  {
+    "code": "F41A 9/81",
+    "description": "••••••con medios para recoger las grapas o eslabones cargadoras o las vainas de los cartuchos vacíos [2006.01]"
+  },
+  {
+    "code": "F41A 9/82",
+    "description": "••Relleno de cargadores [2006.01]"
+  },
+  {
+    "code": "F41A 9/83",
+    "description": "••••Aparatos o herramientas para rellenar los cargadores de munición sin eslabonar, p. ej. peines cargadores [2006.01]"
+  },
+  {
+    "code": "F41A 9/84",
+    "description": "••••••Peines cargadores [2006.01]"
+  },
+  {
+    "code": "F41A 9/85",
+    "description": "••••••••para rellenar cargadores del tipo revólver [2006.01]"
+  },
+  {
+    "code": "F41A 9/86",
+    "description": "••••Carga de la munición eslabonada dentro de los cargadores [2006.01]"
+  },
+  {
+    "code": "F41A 9/87",
+    "description": "••Carros de transporte de municiones (F41A 9/86  tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F41A 11/00",
+    "description": "Características del montaje o del desmontaje; Concepción modular; Armas de fuego articuladas o plegables (F41A 3/64, F41A 19/10-F41A 19/15, F41A 21/48, F41A 25/26 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "F41A 11/02",
+    "description": "••Concepción modular, p. ej. familias de armas modulares [2006.01]"
+  },
+  {
+    "code": "F41A 11/04",
+    "description": "••Armas de fuego articuladas o plegables, es decir, con piezas articuladas o telescópicas para el transporte o el almacenamiento (fusiles o escopetas de caza articulados F41C 7/11; culatas o partes de culatas articuladas o telescópicas F41C 23/04) [2006.01]"
+  },
+  {
+    "code": "F41A 11/06",
+    "description": "••••Armas de fuego telescópicas [2006.01]"
+  },
+  {
+    "code": "F41A 13/00",
+    "description": "Sistemas de enfriamiento o de calentamiento (tubos de arma provistos de aletas o de nervaduras F41A 21/00); Sistemas para el soplado de los tubos del arma; Sistemas de ventilación [2006.01]"
+  },
+  {
+    "code": "F41A 13/02",
+    "description": "••Sistemas de calentamiento [2006.01]"
+  },
+  {
+    "code": "F41A 13/04",
+    "description": "••Inyección de fluidos en los tubos del arma o en las recámaras para el cartucho (F41A 13/08 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F41A 13/06",
+    "description": "••Evacuación de los gases de combustión a partir de los tubos del arma (F41A 13/10 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F41A 13/08",
+    "description": "••••Evacuadores de humo, es decir cámaras dispuestas alrededor de los tubos del arma para almacenar una parte de los gases de combustión y para inyectarlos seguidamente en dichos tubos con el fin de crear un efecto de aspiración [2006.01]"
+  },
+  {
+    "code": "F41A 13/10",
+    "description": "••Ventiladores o turbinas para la evacuación de los gases o el enfriamiento de las armas de fuego, p. ej. accionados por la presión de los gases de combustión o el retroceso [2006.01]"
+  },
+  {
+    "code": "F41A 13/12",
+    "description": "••Sistemas para el enfriamiento de la pared externa de los tubos del arma (F41A 13/10 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "F41A 15/00",
+    "description": "Extractores de cartucho, es decir, dispositivos para retirar los cartuchos o vainas, al menos parcialmente, de la recámara para el cartucho; Eyectores de cartucho, es decir, dispositivos para eyectar los cartuchos o las vainas retiradas del arma de fuego (F41A 9/54 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F41A 15/02",
+    "description": "••para armas de fuego del tipo revólver, p. ej. para revólveres [2006.01]"
+  },
+  {
+    "code": "F41A 15/04",
+    "description": "••especialmente adaptados para retirar las vainas que se han deformado durante el disparo, p. ej. vainas de plástico [2006.01]"
+  },
+  {
+    "code": "F41A 15/06",
+    "description": "••para armas de fuego basculantes [2006.01]"
+  },
+  {
+    "code": "F41A 15/08",
+    "description": "••para armas de fuego con cierres de cuña [2006.01]"
+  },
+  {
+    "code": "F41A 15/10",
+    "description": "••••del tipo de bloque de cierre deslizante [2006.01]"
+  },
+  {
+    "code": "F41A 15/12",
+    "description": "••para armas de fuego con cierre móvil axialmente [2006.01]"
+  },
+  {
+    "code": "F41A 15/14",
+    "description": "••••estando el eyector montado sobre o en el bloque de cierre [2006.01]"
+  },
+  {
+    "code": "F41A 15/16",
+    "description": "••••estando el eyector montado sobre la caja del bloque de cierre o la carcasa [2006.01]"
+  },
+  {
+    "code": "F41A 15/18",
+    "description": "••para armas de fuego con cañón deslizante hacia adelante [2006.01]"
+  },
+  {
+    "code": "F41A 15/20",
+    "description": "••especialmente adaptados para retirar las municiones sin vainas defectuosas [2006.01]"
+  },
+  {
+    "code": "F41A 15/22",
+    "description": "••Herramientas para extraer los cartuchos [2006.01]"
+  },
+  {
+    "code": "F41A 17/00",
+    "description": "Mecanismos de seguridad, p. ej. seguros [2006.01]"
+  },
+  {
+    "code": "F41A 17/02",
+    "description": "••Seguros accionados por una llave [2006.01]"
+  },
+  {
+    "code": "F41A 17/04",
+    "description": "••Seguros del tipo de cerradura con combinaciones (F41A 17/02 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F41A 17/06",
+    "description": "••Seguros eléctricos o electromecánicos (F41A 17/04, F41A 17/08 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "F41A 17/08",
+    "description": "••para impedir el disparo en una dirección predeterminada, p. ej. el disparo a una persona amiga o a un área protegida (F41A 27/02 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F41A 17/10",
+    "description": "••••Mecanismos de disparo con tope de elevación [2006.01]"
+  },
+  {
+    "code": "F41A 17/12",
+    "description": "••••Mecanismos de disparo con un seguro contra disparo fuera de la vertical [2006.01]"
+  },
+  {
+    "code": "F41A 17/14",
+    "description": "••Seguros para evitar una doble carga [2006.01]"
+  },
+  {
+    "code": "F41A 17/16",
+    "description": "••Prevención contra un encendido intempestivo, es decir, prevención contra un disparo espontáneo de un cartucho como consecuencia del calentamiento de la pared de la recámara para el cartucho [2006.01]"
+  },
+  {
+    "code": "F41A 17/18",
+    "description": "••Seguros para evitar el fuego estimado [2006.01]"
+  },
+  {
+    "code": "F41A 17/20",
+    "description": "••Seguros para la culata o para la empuñadura, es decir, seguros que se liberan al agarrar la culata o la empuñadura (seguros deslizantes manejados por el pulgar F41A 17/52, F41A 17/62, F41A 17/70, F41A 17/80) [2006.01]"
+  },
+  {
+    "code": "F41A 17/22",
+    "description": "••••que actúan sobre el disparador [2006.01]"
+  },
+  {
+    "code": "F41A 17/24",
+    "description": "••••que actúan sobre el percutor [2006.01]"
+  },
+  {
+    "code": "F41A 17/26",
+    "description": "••••que actúan sobre la cabeza del percutor [2006.01]"
+  },
+  {
+    "code": "F41A 17/28",
+    "description": "••••que actúan sobre la palanca del disparador [2006.01]"
+  },
+  {
+    "code": "F41A 17/30",
+    "description": "••Seguros múltiples, es decir, seguros que actúan sobre al menos un elemento del mecanismo de disparo, y sobre al menos otro elemento del arma de fuego, p. ej. el cañón móvil [2006.01]"
+  },
+  {
+    "code": "F41A 17/32",
+    "description": "••••siendo el otro elemento el bloque de cierre [2006.01]"
+  },
+  {
+    "code": "F41A 17/34",
+    "description": "••Seguros para cargadores [2006.01]"
+  },
+  {
+    "code": "F41A 17/36",
+    "description": "••••para bloquear el arma de fuego en posición de seguridad cuando el cargador está vacío o separado del arma [2006.01]"
+  },
+  {
+    "code": "F41A 17/38",
+    "description": "••••para bloquear el cargador sobre el arma de fuego [2006.01]"
+  },
+  {
+    "code": "F41A 17/40",
+    "description": "••Seguros controlados por el disparo del último cartucho (F41A 17/34 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F41A 17/42",
+    "description": "••Seguros para parar el bloque de cierre en posición de seguridad (F41A 17/32, F41A 17/36, F41A 17/40 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "F41A 17/44",
+    "description": "••Seguros con forma de tapón obturador, p. ej. para obturar la recámara del cartucho [2006.01]"
+  },
+  {
+    "code": "F41A 17/46",
+    "description": "••Seguros para el disparador, es decir, medios para prevenir el movimiento del disparador (F41A 17/02-F41A 17/40 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "F41A 17/48",
+    "description": "••••automáticos, es decir, controlados por la acción de apertura o de cierre del mecanismo de cierre [2006.01]"
+  },
+  {
+    "code": "F41A 17/50",
+    "description": "••••••controlados por una acción basculante [2006.01]"
+  },
+  {
+    "code": "F41A 17/52",
+    "description": "••••Seguros deslizantes, manejados por el pulgar y montados sobre la cara superior de la culata, p. ej. para fusiles de caza [2006.01]"
+  },
+  {
+    "code": "F41A 17/54",
+    "description": "••••Fundas de protección para guardamontes; Dispositivos de bloqueo del disparo situado sobre o en el guardamontes [2006.01]"
+  },
+  {
+    "code": "F41A 17/56",
+    "description": "••Seguros para la palanca del disparador, es decir, medios para neutralizar la acción de una palanca intermedia que transmite el movimiento del disparador al percutor, a la cabeza del percutor, al bloque de cierre o a la palanca del disparador (F41A 17/02-F41A 17/40 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "F41A 17/58",
+    "description": "••••automáticos, es decir, controlados por la acción de apertura o de cierre del mecanismo de cierre [2006.01]"
+  },
+  {
+    "code": "F41A 17/60",
+    "description": "••••••controlados por una acción basculante [2006.01]"
+  },
+  {
+    "code": "F41A 17/62",
+    "description": "••••Seguros deslizantes, manejados por el pulgar y montados sobre la cara superior de la culata, p. ej. para fusiles de caza [2006.01]"
+  },
+  {
+    "code": "F41A 17/64",
+    "description": "••Seguros para el percutor, es decir, medios para prevenir el movimiento de las piezas de percusión deslizantes (F41A 17/02-F41A 17/40 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "F41A 17/66",
+    "description": "••••automáticos, es decir, controlados por la acción de apertura o de cierre del mecanismo de cierre [2006.01]"
+  },
+  {
+    "code": "F41A 17/68",
+    "description": "••••••controlados por una acción basculante [2006.01]"
+  },
+  {
+    "code": "F41A 17/70",
+    "description": "••••Seguros deslizantes, manejados por el pulgar y montados sobre la cara superior de la culata, p. ej. para fusiles de caza [2006.01]"
+  },
+  {
+    "code": "F41A 17/72",
+    "description": "••••controlados por el disparador, es decir, en los cuales el movimiento del disparador inactiva el seguro del percutor durante el disparo [2006.01]"
+  },
+  {
+    "code": "F41A 17/74",
+    "description": "••Seguros para la cabeza del percutor, es decir, medios para impedir que la cabeza del percutor choque contra el cartucho o contra el percutor deslizante (F41A 17/02-F41A 17/40 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "F41A 17/76",
+    "description": "••••automáticos, es decir, controlados por la acción de apertura o de cierre del mecanismo de cierre [2006.01]"
+  },
+  {
+    "code": "F41A 17/78",
+    "description": "••••••controlados por una acción basculante [2006.01]"
+  },
+  {
+    "code": "F41A 17/80",
+    "description": "••••Seguros deslizantes, es decir, manejados por el pulgar y montados sobre la cara superior de la culata, p. ej. para las escopetas [2006.01]"
+  },
+  {
+    "code": "F41A 17/82",
+    "description": "••••controlados por el disparador, es decir, en los cuales el movimiento del disparador inactiva el seguro del percutor durante el disparo [2006.01]"
+  },
+  {
+    "code": "F41A 19/00",
+    "description": "Mecanismos de encendido o de disparo; Mecanismos de armado [2006.01]"
+  },
+  {
+    "code": "F41A 19/01",
+    "description": "••Contadores de disparos efectuados [2006.01]"
+  },
+  {
+    "code": "F41A 19/02",
+    "description": "••••Limitadores del número de disparos en una ráfaga (F41A 19/67 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F41A 19/03",
+    "description": "••Reguladores de la cadencia de tiro (F41A 3/78, F41A 5/28, F41A 19/05, F41A 19/66 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "F41A 19/04",
+    "description": "••••que controlan el momento en el que se libera el percutor o la cabeza del percutor [2006.01]"
+  },
+  {
+    "code": "F41A 19/05",
+    "description": "••Sincronización del tiro a través de la hélice de un avión [2006.01]"
+  },
+  {
+    "code": "F41A 19/06",
+    "description": "••Sistemas de disparo mecánicos (F41A 19/01-F41A 19/05, F41A 19/59 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "F41A 19/07",
+    "description": "••••desencadenados por un botón pulsador, p. ej. apoyando el pulgar [2006.01]"
+  },
+  {
+    "code": "F41A 19/08",
+    "description": "••••accionados a distancia; accionados por una cuerda de disparo [2006.01]"
+  },
+  {
+    "code": "F41A 19/09",
+    "description": "••••Dispositivos de disparo auxiliares (F41A 19/08 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F41A 19/10",
+    "description": "••••Disparadores; Su montaje [2006.01]"
+  },
+  {
+    "code": "F41A 19/11",
+    "description": "••••Guardamontes; Su montaje (F41A 19/15 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F41A 19/12",
+    "description": "••••Fiadores; Su montaje [2006.01]"
+  },
+  {
+    "code": "F41A 19/13",
+    "description": "••••Percutores, es decir, piezas de percusión fijas o deslizantes; Su montaje [2006.01]"
+  },
+  {
+    "code": "F41A 19/14",
+    "description": "••••Cabezas de percutor, es decir, piezas de percusión pivotantes; Su montaje [2006.01]"
+  },
+  {
+    "code": "F41A 19/15",
+    "description": "••••Conjuntos modulares de mecanismos de disparo [2006.01]"
+  },
+  {
+    "code": "F41A 19/16",
+    "description": "••••Mecanismos de encendido regulables; Mecanismos de disparo provistos de un dispositivo regulador de la presión de disparo (F41A 19/17 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F41A 19/17",
+    "description": "••••Mecanismos de trinquete [2006.01]"
+  },
+  {
+    "code": "F41A 19/18",
+    "description": "••••para armas de fuego con varios tubos (F41A 19/68 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F41A 19/19",
+    "description": "••••••que permiten el tiro de todos los tubos por medio de un solo disparador [2006.01]"
+  },
+  {
+    "code": "F41A 19/20",
+    "description": "••••••••Mecanismos de doble disparador que permiten el tiro por medio de un solo disparador [2006.01]"
+  },
+  {
+    "code": "F41A 19/21",
+    "description": "••••••••Mecanismos de disparador único [2006.01]"
+  },
+  {
+    "code": "F41A 19/22",
+    "description": "••••••••••y con pieza de percusión única [2006.01]"
+  },
+  {
+    "code": "F41A 19/23",
+    "description": "••••••••••••girando la pieza de percusión alrededor de un eje paralelo al eje de los tubos del arma para dispararlos uno tras otro [2006.01]"
+  },
+  {
+    "code": "F41A 19/24",
+    "description": "••••Mecanismos de disparo por aflojamiento, es decir, en los cuales la pieza de percusión es liberada durante el recorrido de retorno del disparador después de su accionamiento [2006.01]"
+  },
+  {
+    "code": "F41A 19/25",
+    "description": "••••Mecanismos de disparo que incluyen únicamente piezas de percusión deslizantes, es decir, percutores [2006.01]"
+  },
+  {
+    "code": "F41A 19/26",
+    "description": "••••••formando el percutor y el bloque de cierre una sola pieza [2006.01]"
+  },
+  {
+    "code": "F41A 19/27",
+    "description": "••••••pudiendo el percutor desplazarse con respecto al bloque de cierre [2006.01]"
+  },
+  {
+    "code": "F41A 19/28",
+    "description": "••••••••bajo la acción de una leva o de una palanca cuando el bloque de cierre alcanza la posición de cierre [2006.01]"
+  },
+  {
+    "code": "F41A 19/29",
+    "description": "••••••••bajo la acción de un resorte en tensión [2006.01]"
+  },
+  {
+    "code": "F41A 19/30",
+    "description": "••••••••••en armas de fuego con cierre móvil axialmente [2006.01]"
+  },
+  {
+    "code": "F41A 19/31",
+    "description": "••••••••••••Mecanismos de fiador (F41A 19/33 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F41A 19/32",
+    "description": "••••••••••••••para retener el percutor después de cada disparo, es decir, durante el disparo simple o el disparo semiautomático [2006.01]"
+  },
+  {
+    "code": "F41A 19/33",
+    "description": "••••••••••••Disposiciones para la selección del disparo automático o semiautomático [2006.01]"
+  },
+  {
+    "code": "F41A 19/34",
+    "description": "••••••••••••Mecanismos de armado [2006.01]"
+  },
+  {
+    "code": "F41A 19/35",
+    "description": "••••••••••••••Mecanismos de doble acción, es decir, en los cuales el armado se efectúa durante la primera parte del movimiento de presión sobre el disparador [2006.01]"
+  },
+  {
+    "code": "F41A 19/36",
+    "description": "••••••••••en armas de fuego con cierre de cuña [2006.01]"
+  },
+  {
+    "code": "F41A 19/37",
+    "description": "••••••••••••Mecanismos de armado [2006.01]"
+  },
+  {
+    "code": "F41A 19/38",
+    "description": "••••••••••••••Mecanismos de doble acción, es decir, en los cuales el armado se efectúa durante la primera parte del movimiento de presión sobre el disparador [2006.01]"
+  },
+  {
+    "code": "F41A 19/39",
+    "description": "••••••••••Mecanismos de armar para otros tipos de armas de fuego, p. ej. del tipo de bloque de cierre fijo, del tipo de tubo deslizante hacia adelante [2006.01]"
+  },
+  {
+    "code": "F41A 19/40",
+    "description": "••••••••••••Mecanismos de doble acción, es decir, en los cuales el armado se efectúa durante la primera parte del movimiento de presión sobre el disparador [2006.01]"
+  },
+  {
+    "code": "F41A 19/41",
+    "description": "••••••••••••para armas de fuego basculantes [2006.01]"
+  },
+  {
+    "code": "F41A 19/42",
+    "description": "••••Mecanismos de disparo que incluyen al menos una cabeza de percutor [2006.01]"
+  },
+  {
+    "code": "F41A 19/43",
+    "description": "••••••para armas de fuego con cierre axialmente móvil [2006.01]"
+  },
+  {
+    "code": "F41A 19/44",
+    "description": "••••••••Mecanismos de fiador (F41A 19/46 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F41A 19/45",
+    "description": "••••••••••para retener la cabeza del percutor después de cada disparo, es decir durante el disparo simple o el disparo semiautomático [2006.01]"
+  },
+  {
+    "code": "F41A 19/46",
+    "description": "••••••••Disposiciones para la selección del disparo automático o semiautomático [2006.01]"
+  },
+  {
+    "code": "F41A 19/47",
+    "description": "••••••••Mecanismos de armado [2006.01]"
+  },
+  {
+    "code": "F41A 19/48",
+    "description": "••••••••••Mecanismos de doble acción, es decir, en los cuales el armado se efectúa durante la primera parte del movimiento de presión sobre el disparador [2006.01]"
+  },
+  {
+    "code": "F41A 19/49",
+    "description": "••••••para armas de fuego con cierre de cuña [2006.01]"
+  },
+  {
+    "code": "F41A 19/50",
+    "description": "••••••••Mecanismos de armado [2006.01]"
+  },
+  {
+    "code": "F41A 19/51",
+    "description": "••••••••••Mecanismos de doble acción, es decir, en los cuales el armado se efectúa durante la primera parte del movimiento de presión sobre el disparador [2006.01]"
+  },
+  {
+    "code": "F41A 19/52",
+    "description": "••••••Mecanismos de armado para otros tipos de armas de fuego, p. ej. del tipo de bloque de cierre fijo, del tipo revólver [2006.01]"
+  },
+  {
+    "code": "F41A 19/53",
+    "description": "••••••••Mecanismos de doble acción, es decir, en los cuales el armado se efectúa durante la primera parte del movimiento de presión sobre el disparador [2006.01]"
+  },
+  {
+    "code": "F41A 19/54",
+    "description": "••••••••para armas de fuego basculantes [2006.01]"
+  },
+  {
+    "code": "F41A 19/55",
+    "description": "••Mecanismos de disparo accionados por un fluido [2006.01]"
+  },
+  {
+    "code": "F41A 19/56",
+    "description": "••••Encendido de una carga propulsiva por medio de aire calentado mediante una compresión adiabática [2006.01]"
+  },
+  {
+    "code": "F41A 19/57",
+    "description": "••Mecanismos de disparo con estopín [2006.01]"
+  },
+  {
+    "code": "F41A 19/58",
+    "description": "••Mecanismos de disparo eléctricos (F41A 17/10, F41A 17/12 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "F41A 19/59",
+    "description": "••••Mecanismos de disparo electromecánicos, es decir, en los cuales una pieza de percusión mecánica es movida o liberada por medios eléctricos [2006.01]"
+  },
+  {
+    "code": "F41A 19/60",
+    "description": "••••caracterizados por los generadores de energía eléctrica [2006.01]"
+  },
+  {
+    "code": "F41A 19/61",
+    "description": "••••••Generadores inductivos [2006.01]"
+  },
+  {
+    "code": "F41A 19/62",
+    "description": "••••••Generadores piezoeléctricos [2006.01]"
+  },
+  {
+    "code": "F41A 19/63",
+    "description": "••••que incluyen medios para la transmisión sin contacto de energía eléctrica, p. ej. por inducción, por chispa [2006.01]"
+  },
+  {
+    "code": "F41A 19/64",
+    "description": "••••para disparar automáticamente o a ráfagas [2006.01]"
+  },
+  {
+    "code": "F41A 19/65",
+    "description": "••••••para disparar en serie, es decir, lanzar varias municiones a intervalos con la ayuda de un conmutador secuencial, p. ej. en los lanzacohetes [2006.01]"
+  },
+  {
+    "code": "F41A 19/66",
+    "description": "••••••Reguladores electrónicos de la cadencia de disparo (F41A 19/65 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F41A 19/67",
+    "description": "••••••Limitadores del número de disparos en una ráfaga [2006.01]"
+  },
+  {
+    "code": "F41A 19/68",
+    "description": "••••para armas de fuego con varios tubos (F41A 19/65 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F41A 19/69",
+    "description": "••••Contactos o interruptores eléctricos especialmente adaptados (F41A 19/65 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F41A 19/70",
+    "description": "••••••Electrodos de encendido; Su montaje [2006.01]"
+  },
+  {
+    "code": "F41A 21/00",
+    "description": "Cañones o tubos de arma; Accesorios para bocas de cañón; Montaje de los tubos de arma (F41A 25/00 tiene prioridad; accesorios de cañones para lanzar granadas o municiones antidisturbios con armas de fuego individuales F41C 27/06; dispositivos de mira F41G 1/00) [2006.01]"
+  },
+  {
+    "code": "F41A 21/02",
+    "description": "••Tubos de arma compuestos, es decir, en los cuales la pared del tubo está constituida por varias capas, p. ej. de distintos materiales [2006.01]"
+  },
+  {
+    "code": "F41A 21/04",
+    "description": "••••Camisas para tubos de arma [2006.01]"
+  },
+  {
+    "code": "F41A 21/06",
+    "description": "••Tubos de arma múltiples [2006.01]"
+  },
+  {
+    "code": "F41A 21/08",
+    "description": "••••Uniones de tubos [2006.01]"
+  },
+  {
+    "code": "F41A 21/10",
+    "description": "••Tubos reductores, es decir, tubos para disparar municiones de calibre reducido insertados en los tubos estándar de las armas de fuego [2006.01]"
+  },
+  {
+    "code": "F41A 21/12",
+    "description": "••Recámaras para el cartucho; Encamisado interior de las recámaras (F41A 3/74, F41A 9/46, F41A 21/04 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "F41A 21/14",
+    "description": "••••Recámaras para el cartucho dispuestas lateralmente con respecto al eje de los tubos de arma [2006.01]"
+  },
+  {
+    "code": "F41A 21/16",
+    "description": "••Tubos de arma caracterizados por la forma de su ánima [2006.01]"
+  },
+  {
+    "code": "F41A 21/18",
+    "description": "••••Acanaladuras; Rayado [2006.01]"
+  },
+  {
+    "code": "F41A 21/20",
+    "description": "••Tubos de arma caracterizados por el material (F41A 21/02 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F41A 21/22",
+    "description": "••Tubos de arma que han sido sometidos a un tratamiento superficial, p. ej. fosfatación [2006.01]"
+  },
+  {
+    "code": "F41A 21/24",
+    "description": "••Tubos de arma provistos de aletas o de nervaduras, p. ej. para el enfriamiento [2006.01]"
+  },
+  {
+    "code": "F41A 21/26",
+    "description": "••especialmente adaptados para reforzar el retroceso, p. ej. para entrenamiento [2006.01]"
+  },
+  {
+    "code": "F41A 21/28",
+    "description": "••Cámaras de expansión de los gases; Tubos de arma provistos de orificios de evacuación de los gases (F41A 1/06, F41A 13/08 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "F41A 21/30",
+    "description": "••Silenciadores [2006.01]"
+  },
+  {
+    "code": "F41A 21/32",
+    "description": "••Accesorios para bocas de cañón (F41A 21/26, F41A 21/30, F41A 21/46 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "F41A 21/34",
+    "description": "••••Apagallamas [2006.01]"
+  },
+  {
+    "code": "F41A 21/36",
+    "description": "••••para reducir el retroceso (disposiciones para reducir el retroceso, en general F41A 25/00) [2006.01]"
+  },
+  {
+    "code": "F41A 21/38",
+    "description": "••••••regulables [2006.01]"
+  },
+  {
+    "code": "F41A 21/40",
+    "description": "••••Estranguladores para escopetas de caza [2006.01]"
+  },
+  {
+    "code": "F41A 21/42",
+    "description": "••••••regulables [2006.01]"
+  },
+  {
+    "code": "F41A 21/44",
+    "description": "••Camisas aislantes; Camisas protectoras [2006.01]"
+  },
+  {
+    "code": "F41A 21/46",
+    "description": "••Tubos de arma provistos de medios para separar los calzos de los proyectiles [2006.01]"
+  },
+  {
+    "code": "F41A 21/48",
+    "description": "••Medios para montar los tubos de arma, p. ej. monturas amovibles de los tubos de arma intercambiables [2006.01]"
+  },
+  {
+    "code": "F41A 23/00",
+    "description": "Soportes para armas de fuego, p. ej. sobre vehículos; Disposición de las armas de fuego sobre vehículos (F41A 25/00, F41A 27/00 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "F41A 23/02",
+    "description": "••Soportes sin ruedas [2006.01]"
+  },
+  {
+    "code": "F41A 23/04",
+    "description": "••••Soportes con un solo pie [2006.01]"
+  },
+  {
+    "code": "F41A 23/06",
+    "description": "••••••regulables [2006.01]"
+  },
+  {
+    "code": "F41A 23/08",
+    "description": "••••Bípodes [2006.01]"
+  },
+  {
+    "code": "F41A 23/10",
+    "description": "••••••regulables [2006.01]"
+  },
+  {
+    "code": "F41A 23/12",
+    "description": "••••Trípodes [2006.01]"
+  },
+  {
+    "code": "F41A 23/14",
+    "description": "••••••regulables [2006.01]"
+  },
+  {
+    "code": "F41A 23/16",
+    "description": "••••Caballetes de tiro para ensayar armas de fuego [2006.01]"
+  },
+  {
+    "code": "F41A 23/18",
+    "description": "••••Soportes para armas de fuego individuales que no están en posición de disparar (estanterías para guardar armas A47B 81/00; estantes en los vehículos B60R 11/00) [2006.01]"
+  },
+  {
+    "code": "F41A 23/20",
+    "description": "••para armas de fuego ocultables rápidamente [2006.01]"
+  },
+  {
+    "code": "F41A 23/22",
+    "description": "••••a bordo de submarinos [2006.01]"
+  },
+  {
+    "code": "F41A 23/24",
+    "description": "••Montaje de armas de fuego en torreta (alimentación, carga o guiado de municiones F41A 9/00; sistemas mecánicos de elevación o de dirección para armas de fuego montadas en torreta F41A 27/18) [2006.01]"
+  },
+  {
+    "code": "F41A 23/26",
+    "description": "••Dispositivos de soporte destinados únicamente al transporte; Disposiciones para la carga o descarga de armas de fuego destinadas a ser utilizadas sobre vehículos de transporte (F41A 23/50 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F41A 23/28",
+    "description": "••Soportes sobre ruedas para armas de fuego; Soportes de tipo oruga para armas de fuego [2006.01]"
+  },
+  {
+    "code": "F41A 23/30",
+    "description": "••••levantándose las ruedas del suelo durante el disparo [2006.01]"
+  },
+  {
+    "code": "F41A 23/32",
+    "description": "••••con rejas que se abren (F41A 23/30, F41A 23/46 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "F41A 23/34",
+    "description": "••montaje sobre vehículos de ruedas o de cadenas [2006.01]"
+  },
+  {
+    "code": "F41A 23/36",
+    "description": "••••sobre remolques (F41A 23/42 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F41A 23/38",
+    "description": "••••sobre motocicletas [2006.01]"
+  },
+  {
+    "code": "F41A 23/40",
+    "description": "••••sobre vehículos ferroviarios [2006.01]"
+  },
+  {
+    "code": "F41A 23/42",
+    "description": "••••para lanzacohetes [2006.01]"
+  },
+  {
+    "code": "F41A 23/44",
+    "description": "••sobre trineos [2006.01]"
+  },
+  {
+    "code": "F41A 23/46",
+    "description": "••Zapas [2006.01]"
+  },
+  {
+    "code": "F41A 23/48",
+    "description": "••••elásticas [2006.01]"
+  },
+  {
+    "code": "F41A 23/50",
+    "description": "••Dispositivos de bloqueo para el transporte; Frenos para bloquear la cureña de un cañón en una posición fija durante el transporte [2006.01]"
+  },
+  {
+    "code": "F41A 23/52",
+    "description": "••Plataformas o placas de base para soportes de armas de fuego [2006.01]"
+  },
+  {
+    "code": "F41A 23/54",
+    "description": "••••para morteros [2006.01]"
+  },
+  {
+    "code": "F41A 23/56",
+    "description": "••Disposiciones para enderezar la plataforma de un cañón hasta su posición vertical u horizontal (F41A 17/10, F41A 17/12 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "F41A 23/58",
+    "description": "••••Gatos estabilizadores hidráulicos [2006.01]"
+  },
+  {
+    "code": "F41A 23/60",
+    "description": "••••Gatos estabilizadores del tipo de tornillo giratorio [2006.01]"
+  },
+  {
+    "code": "F41A 25/00",
+    "description": "Soportes para armas de fuego que permiten el retroceso o la vuelta a la posición de batería, p. ej. cunas; Frenos o amortiguadores para los tubos de arma (cañones sin retroceso F41A 1/08) [2006.01]"
+  },
+  {
+    "code": "F41A 25/02",
+    "description": "••Sistemas de fluido [2006.01]"
+  },
+  {
+    "code": "F41A 25/04",
+    "description": "••••regulables [2006.01]"
+  },
+  {
+    "code": "F41A 25/06",
+    "description": "••Sistemas de fricción [2006.01]"
+  },
+  {
+    "code": "F41A 25/08",
+    "description": "••••regulables [2006.01]"
+  },
+  {
+    "code": "F41A 25/10",
+    "description": "••Sistemas de resorte [2006.01]"
+  },
+  {
+    "code": "F41A 25/12",
+    "description": "••••del tipo de resorte en espiral [2006.01]"
+  },
+  {
+    "code": "F41A 25/14",
+    "description": "••••••regulables [2006.01]"
+  },
+  {
+    "code": "F41A 25/16",
+    "description": "••Sistemas híbridos o combinados [2006.01]"
+  },
+  {
+    "code": "F41A 25/18",
+    "description": "••••Sistemas hidroelásticos [2006.01]"
+  },
+  {
+    "code": "F41A 25/20",
+    "description": "••••Sistemas hidroneumáticos [2006.01]"
+  },
+  {
+    "code": "F41A 25/22",
+    "description": "••Cojinetes para guiar la cuna o el tubo de arma durante su movimiento de vaivén [2006.01]"
+  },
+  {
+    "code": "F41A 25/24",
+    "description": "••••con rodamientos de bolas o de rodillos [2006.01]"
+  },
+  {
+    "code": "F41A 25/26",
+    "description": "••Montaje o desmontaje de los elementos o de los sistemas de retroceso [2006.01]"
+  },
+  {
+    "code": "F41A 27/00",
+    "description": "Soportes para armas de fuego que permiten el movimiento en altura o en dirección, p. ej. cureñas [2006.01]"
+  },
+  {
+    "code": "F41A 27/02",
+    "description": "••Sistemas de control para impedir que un arma de fuego choque contra una parte de su propio soporte durante su desplazamiento [2006.01]"
+  },
+  {
+    "code": "F41A 27/04",
+    "description": "••Disposiciones para dispersar el fuego, es decir, medios para proporcionar un movimiento oscilante automático a un arma de fuego durante el disparo [2006.01]"
+  },
+  {
+    "code": "F41A 27/06",
+    "description": "••Sistemas mecánicos (F41A 27/02, F41A 27/04, F41A 27/30 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "F41A 27/08",
+    "description": "••••Cojinetes, p. ej. muñones; Disposiciones para el frenado o el bloqueo [2006.01]"
+  },
+  {
+    "code": "F41A 27/10",
+    "description": "••••••Cojinetes para soportar un arma de fuego pivotante en una pared, p. ej. la pared de una torreta [2006.01]"
+  },
+  {
+    "code": "F41A 27/12",
+    "description": "••••••Frenos o cerrojos para bloquear los mecanismos de elevación o de dirección en una posición fija [2006.01]"
+  },
+  {
+    "code": "F41A 27/14",
+    "description": "••••••Cojinetes con pivote central [2006.01]"
+  },
+  {
+    "code": "F41A 27/16",
+    "description": "••••••que utilizan caminos de rodadura con bolas o con rodillos, p. ej. para soportar una torreta [2006.01]"
+  },
+  {
+    "code": "F41A 27/18",
+    "description": "••••para armas de fuego en torreta (F41A 27/08 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F41A 27/20",
+    "description": "••••••Dispositivos de transmisión para los movimientos de torreta [2006.01]"
+  },
+  {
+    "code": "F41A 27/22",
+    "description": "••••Mecanismos de transmisión para la acción de puntería en dirección (F41A 27/18 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F41A 27/24",
+    "description": "••••Mecanismos de transmisión para la acción de puntería en altura (F41A 27/18 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F41A 27/26",
+    "description": "••Sistemas de presión de fluido (F41A 27/02, F41A 27/04, F41A 27/30 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "F41A 27/28",
+    "description": "••Sistemas de maniobra eléctricos (F41A 27/02, F41A 27/04, F41A 27/30 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "F41A 27/30",
+    "description": "••Sistemas de estabilización o de compensación, p. ej. de compensación del peso del tubo del arma o de la fuerza del viento [2006.01]"
+  },
+  {
+    "code": "F41A 29/00",
+    "description": "Disposiciones para la limpieza o la lubrificación (inyección de fluidos en los tubos de arma o en las recámaras para el cartucho F41A 13/04) [2006.01]"
+  },
+  {
+    "code": "F41A 29/02",
+    "description": "••Raspadores o escobillas para limpieza [2006.01]"
+  },
+  {
+    "code": "F41A 29/04",
+    "description": "••Dispositivos de lubrificación, de aceitado o de engrase, p. ej. accionados durante el disparo [2006.01]"
+  },
+  {
+    "code": "F41A 31/00",
+    "description": "Disposiciones para el ensayo (caballetes de tiro para ensayar armas de fuego F41A 23/16) [2006.01]"
+  },
+  {
+    "code": "F41A 31/02",
+    "description": "••para la verificación de los tubos de arma [2006.01]"
+  },
+  {
+    "code": "F41A 33/00",
+    "description": "Adaptaciones para entrenamiento o instrucción (adaptaciones de los tubos de arma para reforzar el retroceso F41A 21/26); Simuladores de armas de fuego (aparatos de instrucción o de entrenamiento para la puntería F41G 3/26) [2006.01]"
+  },
+  {
+    "code": "F41A 33/02",
+    "description": "••Armas que emiten una proyección luminosa o una radiación [2006.01]"
+  },
+  {
+    "code": "F41A 33/04",
+    "description": "••Simulación acústica del disparo de un arma de fuego, p. ej. por medios pirotécnicos [2006.01]"
+  },
+  {
+    "code": "F41A 33/06",
+    "description": "••Simuladores del retroceso [2006.01]"
+  },
+  {
+    "code": "F41A 35/00",
+    "description": "Accesorios o detalles no previstos en otro lugar [2006.01]"
+  },
+  {
+    "code": "F41A 35/02",
+    "description": "••Fundas o tapas de protección contra el polvo o la intemperie (fundas de protección para guardamontes F41A 17/54) [2006.01]"
+  },
+  {
+    "code": "F41A 35/04",
+    "description": "••••Tapabocas [2006.01]"
+  },
+  {
+    "code": "F41A 35/06",
+    "description": "••Adaptaciones en las armas de fuego que permiten su uso a la vez por tiradores zurdos y por tiradores que utilizan la derecha [2006.01]"
+  },
+  {
+    "code": "F41A 99/00",
+    "description": "Materia no prevista en ningún grupo de esta subclase [2006.01]"
+  }
+]

@@ -1,0 +1,2962 @@
+[
+  {
+    "code": "C08F 2/00",
+    "description": "Procesos de polimerización [2006.01]"
+  },
+  {
+    "code": "C08F 2/01",
+    "description": "••caracterizados por elementos particulares del aparato de polimerización utilizado [2006.01]"
+  },
+  {
+    "code": "C08F 2/02",
+    "description": "••Polimerización en masa [2006.01]"
+  },
+  {
+    "code": "C08F 2/04",
+    "description": "••Polimerización en solución (C08F 2/32 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "C08F 2/06",
+    "description": "••••Solvente orgánico [2006.01]"
+  },
+  {
+    "code": "C08F 2/08",
+    "description": "••••••con ayuda de agentes dispersantes para el polímero [2006.01]"
+  },
+  {
+    "code": "C08F 2/10",
+    "description": "••••Solvente acuoso [2006.01]"
+  },
+  {
+    "code": "C08F 2/12",
+    "description": "••Polimerización en no solventes (C08F 2/32 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "C08F 2/14",
+    "description": "••••medio orgánico [2006.01]"
+  },
+  {
+    "code": "C08F 2/16",
+    "description": "••••medio acuoso [2006.01]"
+  },
+  {
+    "code": "C08F 2/18",
+    "description": "••••••Polimerización en suspensión [2006.01]"
+  },
+  {
+    "code": "C08F 2/20",
+    "description": "••••••••utilizando agentes dispersantes macromoleculares [2006.01]"
+  },
+  {
+    "code": "C08F 2/22",
+    "description": "••••••Polimerización en emulsión [2006.01]"
+  },
+  {
+    "code": "C08F 2/24",
+    "description": "••••••••utilizando agentes emulsificantes [2006.01]"
+  },
+  {
+    "code": "C08F 2/26",
+    "description": "••••••••••aniónicos [2006.01]"
+  },
+  {
+    "code": "C08F 2/28",
+    "description": "••••••••••catiónicos [2006.01]"
+  },
+  {
+    "code": "C08F 2/30",
+    "description": "••••••••••no iónicos [2006.01]"
+  },
+  {
+    "code": "C08F 2/32",
+    "description": "••Polimerización en emulsiones oleoacuosas [2006.01]"
+  },
+  {
+    "code": "C08F 2/34",
+    "description": "••Polimerización en estado gaseoso [2006.01]"
+  },
+  {
+    "code": "C08F 2/36",
+    "description": "••Polimerización en estado sólido [2006.01]"
+  },
+  {
+    "code": "C08F 2/38",
+    "description": "••Polimerización utilizando reguladores, p. ej. agentes de cierre de cadena [2006.01]"
+  },
+  {
+    "code": "C08F 2/40",
+    "description": "••••utilizando agentes de retardo [2006.01]"
+  },
+  {
+    "code": "C08F 2/42",
+    "description": "••••utilizando agentes de detención instantánea [2006.01]"
+  },
+  {
+    "code": "C08F 2/44",
+    "description": "••Polimerización en presencia de aditivos, p. ej. plastificantes, colorantes, cargas [2006.01]"
+  },
+  {
+    "code": "C08F 2/46",
+    "description": "••Polimerización iniciada por energía ondulatoria o radiación corpuscular [2006.01]"
+  },
+  {
+    "code": "C08F 2/48",
+    "description": "••••por luz ultravioleta o visible [2006.01]"
+  },
+  {
+    "code": "C08F 2/50",
+    "description": "••••••con agentes sensibilizantes [2006.01]"
+  },
+  {
+    "code": "C08F 2/52",
+    "description": "••••por descarga eléctrica, p. ej. voltolización [2006.01]"
+  },
+  {
+    "code": "C08F 2/54",
+    "description": "••••por rayos X o electrones [2006.01]"
+  },
+  {
+    "code": "C08F 2/56",
+    "description": "••••por vibraciones ultrasónicas [2006.01]"
+  },
+  {
+    "code": "C08F 2/58",
+    "description": "••Polimerización iniciada por aplicación directa de corriente eléctrica (procesos electrolíticos, p. ej. electroforesis, C25) [2006.01]"
+  },
+  {
+    "code": "C08F 2/60",
+    "description": "••Polimerización por síntesis diénica [2006.01]"
+  },
+  {
+    "code": "C08F 4/00",
+    "description": "Catalizadores de polimerización [2006.01]"
+  },
+  {
+    "code": "C08F 4/02",
+    "description": "••Sus soportes [2006.01]"
+  },
+  {
+    "code": "C08F 4/04",
+    "description": "••Azocompuestos [2006.01]"
+  },
+  {
+    "code": "C08F 4/06",
+    "description": "••Compuestos metálicos distintos a los hidruros y a los compuestos organometálicos; Complejos de haluros de boro o haluros de aluminio con compuestos orgánicos que contienen oxígeno [2006.01]"
+  },
+  {
+    "code": "C08F 4/08",
+    "description": "••••de metales alcalinos [2006.01]"
+  },
+  {
+    "code": "C08F 4/10",
+    "description": "••••de metales alcalinotérreos, cinc, cadmio, mercurio, cobre o plata [2006.01]"
+  },
+  {
+    "code": "C08F 4/12",
+    "description": "••••de boro, aluminio, galio, indio, talio o de las tierras raras [2006.01]"
+  },
+  {
+    "code": "C08F 4/14",
+    "description": "••••••Haluros de boro o haluros de aluminio; Sus complejos con compuestos orgánicos que contienen oxígeno [2006.01]"
+  },
+  {
+    "code": "C08F 4/16",
+    "description": "••••de silicio, germanio, estaño, plomo, titanio, circonio o hafnio [2006.01]"
+  },
+  {
+    "code": "C08F 4/18",
+    "description": "••••••Oxidos [2006.01]"
+  },
+  {
+    "code": "C08F 4/20",
+    "description": "••••de antimonio, bismuto, vanadio, niobio o tántalo [2006.01]"
+  },
+  {
+    "code": "C08F 4/22",
+    "description": "••••de cromo, molibdeno o tungsteno [2006.01]"
+  },
+  {
+    "code": "C08F 4/24",
+    "description": "••••••Oxidos [2006.01]"
+  },
+  {
+    "code": "C08F 4/26",
+    "description": "••••de manganeso, metales del grupo del hierro o metales del grupo del platino [2006.01]"
+  },
+  {
+    "code": "C08F 4/28",
+    "description": "••Oxígeno o compuestos que liberan oxígeno libre (sistemas redox C08F 4/40) [2006.01]"
+  },
+  {
+    "code": "C08F 4/30",
+    "description": "••••Compuestos inorgánicos [2006.01]"
+  },
+  {
+    "code": "C08F 4/32",
+    "description": "••••Compuestos orgánicos [2006.01]"
+  },
+  {
+    "code": "C08F 4/34",
+    "description": "••••••Percompuestos con un radical peroxi [2006.01]"
+  },
+  {
+    "code": "C08F 4/36",
+    "description": "••••••Percompuestos con más de un radical peroxi [2006.01]"
+  },
+  {
+    "code": "C08F 4/38",
+    "description": "••••••Mezclas de compuestos peroxi [2006.01]"
+  },
+  {
+    "code": "C08F 4/40",
+    "description": "••Sistemas redox [2006.01]"
+  },
+  {
+    "code": "C08F 4/42",
+    "description": "••Metales; Hidruros metálicos; Compuestos organometálicos; Su utilización como precursores de catálisis [2006.01]"
+  },
+  {
+    "code": "C08F 4/44",
+    "description": "••••seleccionados de entre los metales ligeros, cinc, cadmio, mercurio, cobre, plata, oro, boro, galio, indio, talio, de las tierras raras o actínidos [2006.01]"
+  },
+  {
+    "code": "C08F 4/46",
+    "description": "••••••seleccionados de entre los metales alcalinos [2006.01]"
+  },
+  {
+    "code": "C08F 4/48",
+    "description": "••••••••seleccionados de entre litio, rubidio, cesio o francio [2006.01]"
+  },
+  {
+    "code": "C08F 4/50",
+    "description": "••••••seleccionados de entre los metales alcalinotérreos, cinc, cadmio, mercurio, cobre o plata [2006.01]"
+  },
+  {
+    "code": "C08F 4/52",
+    "description": "••••••seleccionados de entre boro, aluminio, galio, indio, talio o de las tierras raras (C08F 4/14 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "C08F 4/54",
+    "description": "••••••junto con otros de sus compuestos [2006.01]"
+  },
+  {
+    "code": "C08F 4/56",
+    "description": "••••••••estando presentes solamente los metales alcalinos, p. ej. catalizadores Alfin [2006.01]"
+  },
+  {
+    "code": "C08F 4/58",
+    "description": "••••••junto con silicio, germanio, estaño, plomo, antimonio, bismuto o sus compuestos [2006.01]"
+  },
+  {
+    "code": "C08F 4/60",
+    "description": "••••••junto con metales refractarios, metales del grupo del hierro, metales del grupo del platino, manganeso, tecnecio, renio o sus compuestos [2006.01]"
+  },
+  {
+    "code": "C08F 4/602",
+    "description": "••••••••Componente cubierto por el grupo C08F 4/60 con un compuesto de organoaluminio [2006.01]"
+  },
+  {
+    "code": "C08F 4/603",
+    "description": "••••••••Componente cubierto por el grupo C08F 4/60 con un metal o un compuesto cubierto por el grupo C08F 4/44 que no es un compuesto de organoaluminio [2006.01]"
+  },
+  {
+    "code": "C08F 4/605",
+    "description": "••••••••Componente cubierto por el grupo C08F 4/60 con un metal o un compuesto cubierto por el grupo C08F 4/44, no previsto en uno sólo de los grupos C08F 4/602 ó C08F 4/603 [2006.01]"
+  },
+  {
+    "code": "C08F 4/606",
+    "description": "••••••••Catalizadores que comprenden al menos dos metales diferentes, en forma de metal o de compuesto metálico, además del componente cubierto por el grupo C08F 4/60 [2006.01]"
+  },
+  {
+    "code": "C08F 4/607",
+    "description": "••••••••Catalizadores que comprenden un no metal específico o un compuesto específico exento de átomos metálicos [2006.01]"
+  },
+  {
+    "code": "C08F 4/608",
+    "description": "••••••••••inorgánico [2006.01]"
+  },
+  {
+    "code": "C08F 4/609",
+    "description": "••••••••••orgánico [2006.01]"
+  },
+  {
+    "code": "C08F 4/61",
+    "description": "••••••••Pretratamiento del metal o del compuesto cubierto por el grupo C08F 4/60 antes del contacto final con el metal o con el compuesto cubierto por el grupo C08F 4/44 [2006.01]"
+  },
+  {
+    "code": "C08F 4/611",
+    "description": "••••••••••Pretratamiento con no metales o compuestos exentos de átomos metálicos [2006.01]"
+  },
+  {
+    "code": "C08F 4/612",
+    "description": "••••••••••Pretratamiento con metales o compuestos metálicos [2006.01]"
+  },
+  {
+    "code": "C08F 4/613",
+    "description": "••••••••••••con metales cubiertos por el grupo C08F 4/60 o sus compuestos [2006.01]"
+  },
+  {
+    "code": "C08F 4/614",
+    "description": "••••••••••••con magnesio o sus compuestos [2006.01]"
+  },
+  {
+    "code": "C08F 4/615",
+    "description": "••••••••••••con aluminio o sus compuestos [2006.01]"
+  },
+  {
+    "code": "C08F 4/616",
+    "description": "••••••••••••con silicio o sus compuestos [2006.01]"
+  },
+  {
+    "code": "C08F 4/617",
+    "description": "••••••••••••con metales o compuestos metálicos no previstos en los grupos C08F 4/613-C08F 4/616 [2006.01]"
+  },
+  {
+    "code": "C08F 4/618",
+    "description": "••••••••••••con metales o compuestos metálicos previstos en al menos dos de los grupos C08F 4/613-C08F 4/617 [2006.01]"
+  },
+  {
+    "code": "C08F 4/619",
+    "description": "••••••••Componente cubierto por el grupo C08F 4/60 con un enlace metal de transición-carbono [2006.01]"
+  },
+  {
+    "code": "C08F 4/6192",
+    "description": "••••••••••con al menos un anillo ciclopentadienilo, condensado o no, p. ej. un anillo indenilo o fluorenilo [2006.01]"
+  },
+  {
+    "code": "C08F 4/62",
+    "description": "••••••••Metales refractarios o sus compuestos [2006.01]"
+  },
+  {
+    "code": "C08F 4/622",
+    "description": "••••••••••Componente cubierto por el grupo C08F 4/62 con un compuesto de organoaluminio [2006.01]"
+  },
+  {
+    "code": "C08F 4/623",
+    "description": "••••••••••Componente cubierto por el grupo C08F 4/62 con un metal o un compuesto cubierto por el grupo C08F 4/44 que no es un compuesto de organoaluminio [2006.01]"
+  },
+  {
+    "code": "C08F 4/625",
+    "description": "••••••••••Componente cubierto por el grupo C08F 4/62 con un metal o un compuesto cubierto por el grupo C08F 4/44, no previsto en uno sólo de los grupos C08F 4/622 ó C08F 4/623 [2006.01]"
+  },
+  {
+    "code": "C08F 4/626",
+    "description": "••••••••••Catalizadores que comprenden al menos dos metales diferentes, en forma de metal o de compuesto metálico además del componente cubierto por el grupo C08F 4/62 [2006.01]"
+  },
+  {
+    "code": "C08F 4/627",
+    "description": "••••••••••Catalizadores que comprenden un no metal específico o un compuesto específico exento de átomos metálicos [2006.01]"
+  },
+  {
+    "code": "C08F 4/628",
+    "description": "••••••••••••mineral [2006.01]"
+  },
+  {
+    "code": "C08F 4/629",
+    "description": "••••••••••••orgánico [2006.01]"
+  },
+  {
+    "code": "C08F 4/63",
+    "description": "••••••••••Pretratamiento del metal o del compuesto cubierto por el grupo C08F 4/62 antes del contacto final con el metal o el compuesto cubierto por el grupo C08F 4/44 [2006.01]"
+  },
+  {
+    "code": "C08F 4/631",
+    "description": "••••••••••••Pretratamiento con no metales o compuestos exentos de átomos metálicos [2006.01]"
+  },
+  {
+    "code": "C08F 4/632",
+    "description": "••••••••••••Pretratamiento con metales o compuestos metálicos [2006.01]"
+  },
+  {
+    "code": "C08F 4/633",
+    "description": "••••••••••••••con metales cubiertos por el grupo C08F 4/62 o sus compuestos [2006.01]"
+  },
+  {
+    "code": "C08F 4/634",
+    "description": "••••••••••••••con magnesio o sus compuestos [2006.01]"
+  },
+  {
+    "code": "C08F 4/635",
+    "description": "••••••••••••••con aluminio o sus compuestos [2006.01]"
+  },
+  {
+    "code": "C08F 4/636",
+    "description": "••••••••••••••con silicio o sus compuestos [2006.01]"
+  },
+  {
+    "code": "C08F 4/637",
+    "description": "••••••••••••••con metales o compuestos metálicos no previstos en los grupos C08F 4/633-C08F 4/636 [2006.01]"
+  },
+  {
+    "code": "C08F 4/638",
+    "description": "••••••••••••••con metales o compuestos metálicos no previstos en uno sólo de los grupos C08F 4/633-C08F 4/637 [2006.01]"
+  },
+  {
+    "code": "C08F 4/639",
+    "description": "••••••••••Componente cubierto por el grupo C08F 4/62 con un enlace metal de transición-carbono [2006.01]"
+  },
+  {
+    "code": "C08F 4/6392",
+    "description": "••••••••••••con al menos un anillo ciclopentadienilo, condensado o no, p. ej. un anillo indenilo o fluorenilo [2006.01]"
+  },
+  {
+    "code": "C08F 4/64",
+    "description": "••••••••••Titanio, circonio, hafnio o sus compuestos [2006.01]"
+  },
+  {
+    "code": "C08F 4/642",
+    "description": "••••••••••••Componente cubierto por el grupo C08F 4/64 con un compuesto de organoaluminio [2006.01]"
+  },
+  {
+    "code": "C08F 4/643",
+    "description": "••••••••••••Componente cubierto por el grupo C08F 4/64 con un metal o un compuesto cubierto por el grupo C08F 4/44 que no es un compuesto de organoaluminio [2006.01]"
+  },
+  {
+    "code": "C08F 4/645",
+    "description": "••••••••••••CComponente cubierto por el grupo C08F 4/64 con un metal o un compuesto cubierto por el grupo C08F 4/44, no previsto en uno sólo de los grupos C08F 4/642-C08F 4/643 [2006.01]"
+  },
+  {
+    "code": "C08F 4/646",
+    "description": "••••••••••••Catalizadores que contienen al menos dos metales diferentes, en forma de metal o compuesto metálico, además del componente cubierto por el grupo C08F 4/64 [2006.01]"
+  },
+  {
+    "code": "C08F 4/647",
+    "description": "••••••••••••Catalizadores que comprenden un no metal específico o un compuesto específico exento de átomos metálicos [2006.01]"
+  },
+  {
+    "code": "C08F 4/648",
+    "description": "••••••••••••••mineral [2006.01]"
+  },
+  {
+    "code": "C08F 4/649",
+    "description": "••••••••••••••orgánico [2006.01]"
+  },
+  {
+    "code": "C08F 4/65",
+    "description": "••••••••••••Pretratamiento del metal o del compuesto cubierto por el grupo C08F 4/64 antes del contacto final con el metal o el compuesto cubierto por el grupo C08F 4/44 [2006.01]"
+  },
+  {
+    "code": "C08F 4/651",
+    "description": "••••••••••••••Pretratamiento con no metales o compuestos exentos de átomos metálicos [2006.01]"
+  },
+  {
+    "code": "C08F 4/652",
+    "description": "••••••••••••••Pretratamiento con metales o compuestos metálicos [2006.01]"
+  },
+  {
+    "code": "C08F 4/653",
+    "description": "••••••••••••••••con metales cubiertos por el grupo C08F 4/64 o sus compuestos [2006.01]"
+  },
+  {
+    "code": "C08F 4/654",
+    "description": "••••••••••••••••con magnesio o sus compuestos [2006.01]"
+  },
+  {
+    "code": "C08F 4/655",
+    "description": "••••••••••••••••con aluminio o sus compuestos [2006.01]"
+  },
+  {
+    "code": "C08F 4/656",
+    "description": "••••••••••••••••con silicio o sus compuestos [2006.01]"
+  },
+  {
+    "code": "C08F 4/657",
+    "description": "••••••••••••••••con metales o compuestos metálicos no previstos en los grupos C08F 4/653-C08F 4/656 [2006.01]"
+  },
+  {
+    "code": "C08F 4/658",
+    "description": "••••••••••••••••con metales o compuestos metálicos no previstos en uno solo de los grupos C08F 4/653-C08F 4/657 [2006.01]"
+  },
+  {
+    "code": "C08F 4/659",
+    "description": "••••••••••••Componente cubierto por el grupo C08F 4/64 con un enlace metal de transición-carbono [2006.01]"
+  },
+  {
+    "code": "C08F 4/6592",
+    "description": "••••••••••••••con al menos un anillo ciclopentadienilo, condensado o no, p. ej. un anillo indenilo o fluorenilo [2006.01]"
+  },
+  {
+    "code": "C08F 4/68",
+    "description": "••••••••••Vanadio, niobio, tántalo o sus compuestos [2006.01]"
+  },
+  {
+    "code": "C08F 4/685",
+    "description": "••••••••••••Vanadio o sus compuestos en combinación con titanio o sus compuestos [2006.01]"
+  },
+  {
+    "code": "C08F 4/69",
+    "description": "••••••••••Cromo, molibdeno, wolframio o sus compuestos [2006.01]"
+  },
+  {
+    "code": "C08F 4/695",
+    "description": "••••••••Manganeso, tecnecio, renio o sus compuestos [2006.01]"
+  },
+  {
+    "code": "C08F 4/70",
+    "description": "••••••••Metales del grupo del hierro, metales del grupo del platino o sus compuestos [2006.01]"
+  },
+  {
+    "code": "C08F 4/72",
+    "description": "••••seleccionados de entre los metales no previstos por el grupo C08F 4/44 (C08F 4/54-C08F 4/70 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "C08F 4/74",
+    "description": "••••••seleccionados de entre metales refractarios [2006.01]"
+  },
+  {
+    "code": "C08F 4/76",
+    "description": "••••••••seleccionados de entre titanio, circonio, hafnio, vanadio, niobio o tántalo [2006.01]"
+  },
+  {
+    "code": "C08F 4/78",
+    "description": "••••••••seleccionados de entre cromo, molibdeno o tungsteno [2006.01]"
+  },
+  {
+    "code": "C08F 4/80",
+    "description": "••••••seleccionados de entre los metales del grupo del hierro o metales del grupo del platino [2006.01]"
+  },
+  {
+    "code": "C08F 4/82",
+    "description": "••••••••Complejos de pi-alilo [2006.01]"
+  },
+  {
+    "code": "C08F 6/00",
+    "description": "Tratamientos posteriores a la polimerización (C08F 8/00 tiene prioridad; de cauchos de dieno conjugado C08C) [2006.01]"
+  },
+  {
+    "code": "C08F 6/02",
+    "description": "••Neutralización de la masa de polimerización, p. ej. inhibición del catalizador (detención instantánea C08F 2/42) [2006.01]"
+  },
+  {
+    "code": "C08F 6/04",
+    "description": "••Fraccionamiento [2006.01]"
+  },
+  {
+    "code": "C08F 6/06",
+    "description": "••Tratamiento de soluciones de polímero [2006.01]"
+  },
+  {
+    "code": "C08F 6/08",
+    "description": "••••Separación de los residuos de catalizadores [2006.01]"
+  },
+  {
+    "code": "C08F 6/10",
+    "description": "••••Separación de materiales volátiles, p. ej. monómeros, solventes [2006.01]"
+  },
+  {
+    "code": "C08F 6/12",
+    "description": "••••Separación de polímeros de las soluciones [2006.01]"
+  },
+  {
+    "code": "C08F 6/14",
+    "description": "••Tratamiento de las emulsiones de polímero [2006.01]"
+  },
+  {
+    "code": "C08F 6/16",
+    "description": "••••Purificación [2006.01]"
+  },
+  {
+    "code": "C08F 6/18",
+    "description": "••••Aumento del tamaño de las partículas dispersas [2006.01]"
+  },
+  {
+    "code": "C08F 6/20",
+    "description": "••••Concentración [2006.01]"
+  },
+  {
+    "code": "C08F 6/22",
+    "description": "••••Coagulación [2006.01]"
+  },
+  {
+    "code": "C08F 6/24",
+    "description": "••Tratamiento de las suspensiones de polímeros [2006.01]"
+  },
+  {
+    "code": "C08F 6/26",
+    "description": "••Tratamiento de polímeros preparados en masa [2006.01]"
+  },
+  {
+    "code": "C08F 6/28",
+    "description": "••••Purificación [2006.01]"
+  },
+  {
+    "code": "C08F 8/00",
+    "description": "Modificación química por tratamiento posterior (polímeros injertados, polímeros en bloque, reticulados con monómeros insaturados o con polímeros C08F 251/00-C08F 299/00; de cauchos de dieno conjugados C08C) [2006.01]"
+  },
+  {
+    "code": "C08F 8/02",
+    "description": "••Alquilación [2006.01]"
+  },
+  {
+    "code": "C08F 8/04",
+    "description": "••Reducción, p. ej. hidrogenación [2006.01]"
+  },
+  {
+    "code": "C08F 8/06",
+    "description": "••Oxidación [2006.01]"
+  },
+  {
+    "code": "C08F 8/08",
+    "description": "••Epoxidación [2006.01]"
+  },
+  {
+    "code": "C08F 8/10",
+    "description": "••Acilación [2006.01]"
+  },
+  {
+    "code": "C08F 8/12",
+    "description": "••Hidrólisis [2006.01]"
+  },
+  {
+    "code": "C08F 8/14",
+    "description": "••Esterificación [2006.01]"
+  },
+  {
+    "code": "C08F 8/16",
+    "description": "••••Lactonización [2006.01]"
+  },
+  {
+    "code": "C08F 8/18",
+    "description": "••Introducción de átomos de halógeno o grupos que contienen halógeno [2006.01]"
+  },
+  {
+    "code": "C08F 8/20",
+    "description": "••••Halogenación [2006.01]"
+  },
+  {
+    "code": "C08F 8/22",
+    "description": "••••••por reacción con halógenos libres [2006.01]"
+  },
+  {
+    "code": "C08F 8/24",
+    "description": "••••Haloalquilación [2006.01]"
+  },
+  {
+    "code": "C08F 8/26",
+    "description": "••Eliminación en la molécula de átomos de halógeno o grupos que contienen halógeno [2006.01]"
+  },
+  {
+    "code": "C08F 8/28",
+    "description": "••Condensación con aldehídos o cetonas [2006.01]"
+  },
+  {
+    "code": "C08F 8/30",
+    "description": "••Introducción de átomos de nitrógeno o grupos que contienen nitrógeno [2006.01]"
+  },
+  {
+    "code": "C08F 8/32",
+    "description": "••••por reacción con aminas [2006.01]"
+  },
+  {
+    "code": "C08F 8/34",
+    "description": "••Introducción de átomos de azufre o grupos que contienen azufre [2006.01]"
+  },
+  {
+    "code": "C08F 8/36",
+    "description": "••••Sulfonación; Sulfatación [2006.01]"
+  },
+  {
+    "code": "C08F 8/38",
+    "description": "••••Sulfohalogenación [2006.01]"
+  },
+  {
+    "code": "C08F 8/40",
+    "description": "••Introducción de átomos de fósforo o grupos que contienen fósforo [2006.01]"
+  },
+  {
+    "code": "C08F 8/42",
+    "description": "••Introducción de átomos de metal o grupos que contienen metal [2006.01]"
+  },
+  {
+    "code": "C08F 8/44",
+    "description": "••Preparación de sales de metal o de amonio [2006.01]"
+  },
+  {
+    "code": "C08F 8/46",
+    "description": "••Reacción con ácidos dicarboxílicos insaturados o sus anhídridos, p. ej. maleinisación [2006.01]"
+  },
+  {
+    "code": "C08F 8/48",
+    "description": "••Isomerización; Ciclación [2006.01]"
+  },
+  {
+    "code": "C08F 8/50",
+    "description": "••Despolimerización parcial [2006.01]"
+  },
+  {
+    "code": "C08F 10/00",
+    "description": "Homopolímeros y copolímeros de hidrocarburos alifáticos insaturados que tienen solamente un enlace doble carbono-carbono [2006.01]"
+  },
+  {
+    "code": "C08F 10/02",
+    "description": "••Eteno [2006.01]"
+  },
+  {
+    "code": "C08F 10/04",
+    "description": "••Monómeros que contienen tres o cuatro átomos de carbono [2006.01]"
+  },
+  {
+    "code": "C08F 10/06",
+    "description": "••••Propeno [2006.01]"
+  },
+  {
+    "code": "C08F 10/08",
+    "description": "••••Butenos [2006.01]"
+  },
+  {
+    "code": "C08F 10/10",
+    "description": "••••••Isobuteno [2006.01]"
+  },
+  {
+    "code": "C08F 10/14",
+    "description": "••Monómeros que contienen cinco o más átomos de carbono [2006.01]"
+  },
+  {
+    "code": "C08F 12/00",
+    "description": "Homopolímeros o copolímeros de compuestos que tienen uno o más radicales alifáticos insaturados, teniendo cada uno solamente un enlace doble carbono-carbono, y al menos uno estando terminado por un ciclo aromático carbocíclico [2006.01]"
+  },
+  {
+    "code": "C08F 12/02",
+    "description": "••Monómeros que contienen solamente un radical alifático o insaturado [2006.01]"
+  },
+  {
+    "code": "C08F 12/04",
+    "description": "••••que contienen un ciclo [2006.01]"
+  },
+  {
+    "code": "C08F 12/06",
+    "description": "••••••Hidrocarburos [2006.01]"
+  },
+  {
+    "code": "C08F 12/08",
+    "description": "••••••••Estireno [2006.01]"
+  },
+  {
+    "code": "C08F 12/12",
+    "description": "••••••••que poseen un radical alifático insaturado ramificado o un radical alquilo unido a un ciclo [2006.01]"
+  },
+  {
+    "code": "C08F 12/14",
+    "description": "••••••sustituido por heteroátomos o grupos que contienen heteroátomos [2006.01]"
+  },
+  {
+    "code": "C08F 12/16",
+    "description": "••••••••Halógenos [2006.01]"
+  },
+  {
+    "code": "C08F 12/18",
+    "description": "••••••••••Cloro [2006.01]"
+  },
+  {
+    "code": "C08F 12/20",
+    "description": "••••••••••Flúor [2006.01]"
+  },
+  {
+    "code": "C08F 12/22",
+    "description": "••••••••Oxígeno [2006.01]"
+  },
+  {
+    "code": "C08F 12/24",
+    "description": "••••••••••Fenoles o alcoholes [2006.01]"
+  },
+  {
+    "code": "C08F 12/26",
+    "description": "••••••••Nitrógeno [2006.01]"
+  },
+  {
+    "code": "C08F 12/28",
+    "description": "••••••••••Aminas [2006.01]"
+  },
+  {
+    "code": "C08F 12/30",
+    "description": "••••••••Azufre [2006.01]"
+  },
+  {
+    "code": "C08F 12/32",
+    "description": "••••que contienen dos o más ciclos [2006.01]"
+  },
+  {
+    "code": "C08F 12/34",
+    "description": "••Monómeros que contienen dos o más radicales alifáticos insaturados [2006.01]"
+  },
+  {
+    "code": "C08F 12/36",
+    "description": "••••Divinilbenceno [2006.01]"
+  },
+  {
+    "code": "C08F 14/00",
+    "description": "Homopolímeros o copolímeros de compuestos que tienen uno o más radicales alifáticos insaturados, teniendo cada uno solamente un enlace doble carbono-carbono, y estando al menos uno terminado por un halógeno [2006.01]"
+  },
+  {
+    "code": "C08F 14/02",
+    "description": "••Monómeros que contienen cloro [2006.01]"
+  },
+  {
+    "code": "C08F 14/04",
+    "description": "••••Monómeros que contienen dos átomos de carbono [2006.01]"
+  },
+  {
+    "code": "C08F 14/06",
+    "description": "••••••Cloruro de vinilo [2006.01]"
+  },
+  {
+    "code": "C08F 14/08",
+    "description": "••••••Cloruro de vinildeno [2006.01]"
+  },
+  {
+    "code": "C08F 14/12",
+    "description": "••••••Dicloro-1,2 etileno [2006.01]"
+  },
+  {
+    "code": "C08F 14/14",
+    "description": "••••Monómeros que contienen tres o más átomos de carbono [2006.01]"
+  },
+  {
+    "code": "C08F 14/16",
+    "description": "••Monómeros que contienen bromo o yodo [2006.01]"
+  },
+  {
+    "code": "C08F 14/18",
+    "description": "••Monómeros que contienen flúor [2006.01]"
+  },
+  {
+    "code": "C08F 14/20",
+    "description": "••••Fluoruro de vinilo [2006.01]"
+  },
+  {
+    "code": "C08F 14/22",
+    "description": "••••Fluoruro de vinildeno [2006.01]"
+  },
+  {
+    "code": "C08F 14/24",
+    "description": "••••Trifluorcloroeteno [2006.01]"
+  },
+  {
+    "code": "C08F 14/26",
+    "description": "••••Tetrafluoretileno [2006.01]"
+  },
+  {
+    "code": "C08F 14/28",
+    "description": "••••Hexafluorpropeno [2006.01]"
+  },
+  {
+    "code": "C08F 16/00",
+    "description": "Homopolímeros o copolímeros de compuestos que tienen uno o más radicales alifáticos insaturados, teniendo cada uno solamente un enlace doble carbono-carbono, y estando al menos uno terminando por un radical alcohol, éter, aldehído, cetónico, acetal o cetal [2006.01]"
+  },
+  {
+    "code": "C08F 16/02",
+    "description": "••por un radical alcohol [2006.01]"
+  },
+  {
+    "code": "C08F 16/04",
+    "description": "••••Compuestos acíclicos [2006.01]"
+  },
+  {
+    "code": "C08F 16/06",
+    "description": "••••••Alcohol de polivinilo [2006.01]"
+  },
+  {
+    "code": "C08F 16/08",
+    "description": "••••••Alcohol alílico [2006.01]"
+  },
+  {
+    "code": "C08F 16/10",
+    "description": "••••Compuestos carbocíclicos [2006.01]"
+  },
+  {
+    "code": "C08F 16/12",
+    "description": "••por un radical éter [2006.01]"
+  },
+  {
+    "code": "C08F 16/14",
+    "description": "••••Monómeros que contienen solamente un radical alifático insaturado [2006.01]"
+  },
+  {
+    "code": "C08F 16/16",
+    "description": "••••••Monómeros que no contienen heteroátomos distintos al oxígeno del éter [2006.01]"
+  },
+  {
+    "code": "C08F 16/18",
+    "description": "••••••••Compuestos acíclicos [2006.01]"
+  },
+  {
+    "code": "C08F 16/20",
+    "description": "••••••••••Monómeros que contienen tres o más átomos de carbono en el radical alifático insaturado [2006.01]"
+  },
+  {
+    "code": "C08F 16/22",
+    "description": "••••••••Compuestos carbocíclicos [2006.01]"
+  },
+  {
+    "code": "C08F 16/24",
+    "description": "••••••Monómeros que contienen halógenos [2006.01]"
+  },
+  {
+    "code": "C08F 16/26",
+    "description": "••••••Monómeros que contienen átomos de oxígeno en adición al oxígeno del éter [2006.01]"
+  },
+  {
+    "code": "C08F 16/28",
+    "description": "••••••Monómeros que contienen nitrógeno [2006.01]"
+  },
+  {
+    "code": "C08F 16/30",
+    "description": "••••••Monómeros que contienen azufre [2006.01]"
+  },
+  {
+    "code": "C08F 16/32",
+    "description": "••••Monómeros que contienen dos o más radicales alifáticos insaturados [2006.01]"
+  },
+  {
+    "code": "C08F 16/34",
+    "description": "••por un radical aldehído [2006.01]"
+  },
+  {
+    "code": "C08F 16/36",
+    "description": "••por un radical cetónico [2006.01]"
+  },
+  {
+    "code": "C08F 16/38",
+    "description": "••por un radical acetal o cetal [2006.01]"
+  },
+  {
+    "code": "C08F 18/00",
+    "description": "Homopolímeros o copolímeros de compuestos que tienen uno o más radicales alifáticos insaturados, teniendo cada uno solamente un enlace doble carbono-carbono, y estando al menos uno terminado por un radical aciloxi de un ácido carboxílico saturado, de ácido carbónico o de un ácido halofórmico [2006.01]"
+  },
+  {
+    "code": "C08F 18/02",
+    "description": "••Esteres de ácidos monocarboxílicos [2006.01]"
+  },
+  {
+    "code": "C08F 18/04",
+    "description": "••••Esteres de vinilo [2006.01]"
+  },
+  {
+    "code": "C08F 18/06",
+    "description": "••••••Formato de vinilo [2006.01]"
+  },
+  {
+    "code": "C08F 18/08",
+    "description": "••••••Acetato de vinilo [2006.01]"
+  },
+  {
+    "code": "C08F 18/10",
+    "description": "••••••de ácidos monocarboxílicos que contienen tres o más átomos de carbono [2006.01]"
+  },
+  {
+    "code": "C08F 18/12",
+    "description": "••••con alcoholes insaturados que contienen tres o más átomos de carbono [2006.01]"
+  },
+  {
+    "code": "C08F 18/14",
+    "description": "••Esteres de ácidos policarboxílicos [2006.01]"
+  },
+  {
+    "code": "C08F 18/16",
+    "description": "••••con alcoholes que contienen tres o más átomos de carbono [2006.01]"
+  },
+  {
+    "code": "C08F 18/18",
+    "description": "••••••Ftalato de dialilo [2006.01]"
+  },
+  {
+    "code": "C08F 18/20",
+    "description": "••Esteres que contienen halógeno [2006.01]"
+  },
+  {
+    "code": "C08F 18/22",
+    "description": "••Esteres que contienen nitrógeno [2006.01]"
+  },
+  {
+    "code": "C08F 18/24",
+    "description": "••Esteres de los ácidos carbónico o halofórmico [2006.01]"
+  },
+  {
+    "code": "C08F 20/00",
+    "description": "Homopolímeros o copolímeros de compuestos que tienen uno o más radicales alifáticos insaturados, teniendo cada uno solamente un enlace doble carbono-carbono, y estando solamente uno terminado por un radical carboxilo o una sal, anhídrido, éster, amida, imida o nitrilo del mismo [2006.01]"
+  },
+  {
+    "code": "C08F 20/02",
+    "description": "••Acidos monocarboxílicos que tienen menos de diez átomos de carbono; Sus derivados [2006.01]"
+  },
+  {
+    "code": "C08F 20/04",
+    "description": "••••Acidos; Sus sales metálicas o de amonio [2006.01]"
+  },
+  {
+    "code": "C08F 20/06",
+    "description": "••••••Acido acrílico; Acido metacrílico; Sus sales metálicas o de amonio [2006.01]"
+  },
+  {
+    "code": "C08F 20/08",
+    "description": "••••Anhídridos [2006.01]"
+  },
+  {
+    "code": "C08F 20/10",
+    "description": "••••Esteres [2006.01]"
+  },
+  {
+    "code": "C08F 20/12",
+    "description": "••••••de alcoholes o fenoles monohídricos [2006.01]"
+  },
+  {
+    "code": "C08F 20/14",
+    "description": "••••••••Esteres de metilo [2006.01]"
+  },
+  {
+    "code": "C08F 20/16",
+    "description": "••••••••de fenoles o de alcoholes que contienen dos o más átomos de carbono [2006.01]"
+  },
+  {
+    "code": "C08F 20/18",
+    "description": "••••••••••con ácidos acrílico o metacrílico [2006.01]"
+  },
+  {
+    "code": "C08F 20/20",
+    "description": "••••••de alcoholes o fenoles polihídricos [2006.01]"
+  },
+  {
+    "code": "C08F 20/22",
+    "description": "••••••Esteres que contienen halógeno [2006.01]"
+  },
+  {
+    "code": "C08F 20/24",
+    "description": "••••••••que contienen radicales perhaloalquilo [2006.01]"
+  },
+  {
+    "code": "C08F 20/26",
+    "description": "••••••Esteres que contienen oxígeno en adición al oxígeno del carboxi [2006.01]"
+  },
+  {
+    "code": "C08F 20/28",
+    "description": "••••••••que no contienen ciclos aromáticos en la parte alcohólica [2006.01]"
+  },
+  {
+    "code": "C08F 20/30",
+    "description": "••••••••que contienen ciclos aromáticos en la parte alcohólica [2006.01]"
+  },
+  {
+    "code": "C08F 20/32",
+    "description": "••••••••que contienen radicales epoxi [2006.01]"
+  },
+  {
+    "code": "C08F 20/34",
+    "description": "••••••Esteres que contienen nitrógeno [2006.01]"
+  },
+  {
+    "code": "C08F 20/36",
+    "description": "••••••••que contienen oxígeno en adición al oxígeno del radical carboxi [2006.01]"
+  },
+  {
+    "code": "C08F 20/38",
+    "description": "••••••Esteres que contienen azufre [2006.01]"
+  },
+  {
+    "code": "C08F 20/40",
+    "description": "••••••Esteres de alcoholes insaturados [2006.01]"
+  },
+  {
+    "code": "C08F 20/42",
+    "description": "••••Nitrilos [2006.01]"
+  },
+  {
+    "code": "C08F 20/44",
+    "description": "••••••Acrilonitrilo [2006.01]"
+  },
+  {
+    "code": "C08F 20/50",
+    "description": "••••••que contienen cuatro o más átomos de carbono [2006.01]"
+  },
+  {
+    "code": "C08F 20/52",
+    "description": "••••Amidas o imidas [2006.01]"
+  },
+  {
+    "code": "C08F 20/54",
+    "description": "••••••Amidas [2006.01]"
+  },
+  {
+    "code": "C08F 20/56",
+    "description": "••••••••Acrilamida; Metracrilamida [2006.01]"
+  },
+  {
+    "code": "C08F 20/58",
+    "description": "••••••••que contienen oxígeno en adición al oxígeno del carbonamido [2006.01]"
+  },
+  {
+    "code": "C08F 20/60",
+    "description": "••••••••que contienen nitrógeno en adición al nitrógeno del carbonamido [2006.01]"
+  },
+  {
+    "code": "C08F 20/62",
+    "description": "••Acidos monocarboxílicos que tienen diez o más átomos de carbono; Sus derivados [2006.01]"
+  },
+  {
+    "code": "C08F 20/64",
+    "description": "••••Acidos; Sus sales metálicas o de amonio [2006.01]"
+  },
+  {
+    "code": "C08F 20/66",
+    "description": "••••Anhídridos [2006.01]"
+  },
+  {
+    "code": "C08F 20/68",
+    "description": "••••Esteres [2006.01]"
+  },
+  {
+    "code": "C08F 20/70",
+    "description": "••••Nitrilos; Amidas; Imidas [2006.01]"
+  },
+  {
+    "code": "C08F 22/00",
+    "description": "Homopolímeros o copolímeros de compuestos que tienen uno o más radicales alifáticos insaturados teniendo cada uno solamente un enlace doble carbono-carbono, y estando al menos uno terminado por un radical carboxilo y conteniendo al menos otro radical carboxilo en la molécula; Sus sales, anhídridos, ésteres, amidas, imidas o nitrilos [2006.01]"
+  },
+  {
+    "code": "C08F 22/02",
+    "description": "••Acidos; Sus sales metálicas o de amonio [2006.01]"
+  },
+  {
+    "code": "C08F 22/04",
+    "description": "••Anhídridos, p. ej. anhídridos cíclicos [2006.01]"
+  },
+  {
+    "code": "C08F 22/06",
+    "description": "••••Anhídrido maleico [2006.01]"
+  },
+  {
+    "code": "C08F 22/10",
+    "description": "••Esteres [2006.01]"
+  },
+  {
+    "code": "C08F 22/12",
+    "description": "••••de fenoles o alcoholes saturados [2006.01]"
+  },
+  {
+    "code": "C08F 22/14",
+    "description": "••••••Esteres que no tienen grupos de ácido carboxílico libre [2006.01]"
+  },
+  {
+    "code": "C08F 22/16",
+    "description": "••••••Esteres que tienen grupos de ácido carboxílico libre [2006.01]"
+  },
+  {
+    "code": "C08F 22/18",
+    "description": "••••••Esteres que contienen halógeno [2006.01]"
+  },
+  {
+    "code": "C08F 22/20",
+    "description": "••••••Esteres que contienen oxígeno en adición al oxígeno del carboxi [2006.01]"
+  },
+  {
+    "code": "C08F 22/22",
+    "description": "••••••Esteres que contienen nitrógeno [2006.01]"
+  },
+  {
+    "code": "C08F 22/24",
+    "description": "••••••Esteres que contienen azufre [2006.01]"
+  },
+  {
+    "code": "C08F 22/26",
+    "description": "••••de alcoholes insaturados [2006.01]"
+  },
+  {
+    "code": "C08F 22/28",
+    "description": "••••••Maleato de dialilo [2006.01]"
+  },
+  {
+    "code": "C08F 22/30",
+    "description": "••Nitrilos [2006.01]"
+  },
+  {
+    "code": "C08F 22/32",
+    "description": "••••Acido alfa-cianoacrílico; Sus ésteres [2006.01]"
+  },
+  {
+    "code": "C08F 22/34",
+    "description": "••••Cianuro de vinildeno [2006.01]"
+  },
+  {
+    "code": "C08F 22/36",
+    "description": "••Amidas o imidas [2006.01]"
+  },
+  {
+    "code": "C08F 22/38",
+    "description": "••••Amidas [2006.01]"
+  },
+  {
+    "code": "C08F 22/40",
+    "description": "••••Imidas, p. ej. imidas cíclicas [2006.01]"
+  },
+  {
+    "code": "C08F 24/00",
+    "description": "Homopolímeros o copolímeros de compuestos que tienen uno o más radicales alifáticos insaturados, teniendo solamente cada uno un enlace doble carbono-carbono, y estando al menos uno terminado por un ciclo heterocíclico que contiene oxígeno (ésteres cíclicos de ácidos polifuncionales C08F 18/00; anhídridos cíclicos de ácidos insaturados C08F 20/00, C08F 22/00) [2006.01]"
+  },
+  {
+    "code": "C08F 26/00",
+    "description": "Homopolímeros o copolímeros de compuestos que tienen uno o más radicales alifáticos insaturados, teniendo solamente cada uno un enlace doble carbono-carbono, y estando al menos uno terminado por un enlace simple o doble a nitrógeno o por un ciclo heterocíclico que contiene nitrógeno [2006.01]"
+  },
+  {
+    "code": "C08F 26/02",
+    "description": "••por un enlace simple o doble a nitrógeno [2006.01]"
+  },
+  {
+    "code": "C08F 26/04",
+    "description": "••••Dialilamina [2006.01]"
+  },
+  {
+    "code": "C08F 26/06",
+    "description": "••por un ciclo heterocíclico que contiene nitrógeno [2006.01]"
+  },
+  {
+    "code": "C08F 26/08",
+    "description": "••••N-vinilpirrolidina [2006.01]"
+  },
+  {
+    "code": "C08F 26/10",
+    "description": "••••N-vinilpirrolidona [2006.01]"
+  },
+  {
+    "code": "C08F 26/12",
+    "description": "••••N-vinilcarbazol [2006.01]"
+  },
+  {
+    "code": "C08F 28/00",
+    "description": "Homopolímeros o copolímeros de compuestos que tienen uno o más radicales alifáticos insaturados, teniendo solamente cada uno un enlace doble carbono-carbono, y estando al menos uno terminado por un enlace a azufre o por un ciclo heterocíclico que contiene azufre [2006.01]"
+  },
+  {
+    "code": "C08F 28/02",
+    "description": "••por un enlace a azufre [2006.01]"
+  },
+  {
+    "code": "C08F 28/04",
+    "description": "••••Tioéteres [2006.01]"
+  },
+  {
+    "code": "C08F 28/06",
+    "description": "••por un heterociclo que contiene azufre [2006.01]"
+  },
+  {
+    "code": "C08F 30/00",
+    "description": "Homopolímeros o copolímeros de compuestos que tienen uno o más radicales alifáticos insaturados, teniendo solamente cada uno un enlace doble carbono-carbono, y que contienen fósforo, selenio, teluro o un metal (sales metálicas, p. ej. fenolatos o alcoholatos, ver los compuestos principales) [2006.01]"
+  },
+  {
+    "code": "C08F 30/02",
+    "description": "••que contienen fósforo [2006.01]"
+  },
+  {
+    "code": "C08F 30/04",
+    "description": "••que contienen un metal [2006.01]"
+  },
+  {
+    "code": "C08F 30/06",
+    "description": "••••que contienen boro [2006.01]"
+  },
+  {
+    "code": "C08F 30/08",
+    "description": "••••que contienen silicio [2006.01]"
+  },
+  {
+    "code": "C08F 30/10",
+    "description": "••••que contienen germanio [2006.01]"
+  },
+  {
+    "code": "C08F 32/00",
+    "description": "Homopolímeros o copolímeros de compuestos cíclicos que no tienen radicales alifáticos insaturados en una cadena lateral, y teniendo uno o más enlaces dobles carbono-carbono en un sistema cíclico carbocíclico [2006.01]"
+  },
+  {
+    "code": "C08F 32/02",
+    "description": "••que no tienen ciclos condensados [2006.01]"
+  },
+  {
+    "code": "C08F 32/04",
+    "description": "••••que tienen un enlace doble carbono-carbono [2006.01]"
+  },
+  {
+    "code": "C08F 32/06",
+    "description": "••••que tienen dos o más enlaces dobles carbono-carbono [2006.01]"
+  },
+  {
+    "code": "C08F 32/08",
+    "description": "••que tienen ciclos condensados [2006.01]"
+  },
+  {
+    "code": "C08F 34/00",
+    "description": "Homopolímeros o copolímeros de compuestos cíclicos que no tienen radicales alifáticos insaturados en una cadena lateral y que tienen uno o más enlaces dobles carbono-carbono en un ciclo heterocíclico (ésteres cíclicos de ácidos polifuncionales C08F 18/00; anhídridos o imidas cíclicos C08F 22/00) [2006.01]"
+  },
+  {
+    "code": "C08F 34/02",
+    "description": "••en un ciclo que contiene oxígeno [2006.01]"
+  },
+  {
+    "code": "C08F 34/04",
+    "description": "••en un ciclo que contiene azufre [2006.01]"
+  },
+  {
+    "code": "C08F 36/00",
+    "description": "Homopolímeros o copolímeros de compuestos que tienen uno o más radicales alifáticos insaturados, teniendo al menos uno, dos o más enlaces dobles carbono-carbono (C08F 32/00 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "C08F 36/02",
+    "description": "••teniendo solamente el radical dos enlaces dobles carbono-carbono [2006.01]"
+  },
+  {
+    "code": "C08F 36/04",
+    "description": "••••conjugados [2006.01]"
+  },
+  {
+    "code": "C08F 36/06",
+    "description": "••••••Butadieno [2006.01]"
+  },
+  {
+    "code": "C08F 36/08",
+    "description": "••••••Isopreno [2006.01]"
+  },
+  {
+    "code": "C08F 36/14",
+    "description": "••••••que contiene elementos distintos al hidrógeno y carbono [2006.01]"
+  },
+  {
+    "code": "C08F 36/16",
+    "description": "••••••••que contienen halógenos [2006.01]"
+  },
+  {
+    "code": "C08F 36/18",
+    "description": "••••••••••que contienen cloro [2006.01]"
+  },
+  {
+    "code": "C08F 36/20",
+    "description": "••••no conjugados [2006.01]"
+  },
+  {
+    "code": "C08F 36/22",
+    "description": "••teniendo el radical tres o más enlaces dobles carbono-carbono [2006.01]"
+  },
+  {
+    "code": "C08F 38/00",
+    "description": "Homopolímeros o copolímeros de compuestos que tienen uno o más enlaces triples carbono-carbono [2006.01]"
+  },
+  {
+    "code": "C08F 38/02",
+    "description": "••Acetileno [2006.01]"
+  },
+  {
+    "code": "C08F 38/04",
+    "description": "••Vinilacetileno [2006.01]"
+  },
+  {
+    "code": "C08F 110/00",
+    "description": "Homopolímeros de hidrocarburos alifáticos insaturados que tienen solamente un enlace doble carbono-carbono [2006.01]"
+  },
+  {
+    "code": "C08F 110/02",
+    "description": "••Eteno [2006.01]"
+  },
+  {
+    "code": "C08F 110/04",
+    "description": "••Monómeros que contienen tres o cuatro átomos de carbono [2006.01]"
+  },
+  {
+    "code": "C08F 110/06",
+    "description": "••••Propeno [2006.01]"
+  },
+  {
+    "code": "C08F 110/08",
+    "description": "••••Buteno [2006.01]"
+  },
+  {
+    "code": "C08F 110/10",
+    "description": "••••••Isobuteno [2006.01]"
+  },
+  {
+    "code": "C08F 110/14",
+    "description": "••Monómeros que contienen cinco o más átomos de carbono [2006.01]"
+  },
+  {
+    "code": "C08F 112/00",
+    "description": "Homopolímeros de compuestos que tienen uno o más radicales alifáticos insaturados, teniendo solamente cada uno un enlace doble carbono-carbono, y estando al menos uno terminado por un ciclo carbocíclico aromático [2006.01]"
+  },
+  {
+    "code": "C08F 112/02",
+    "description": "••Monómeros que contienen solamente un radical alifático insaturado [2006.01]"
+  },
+  {
+    "code": "C08F 112/04",
+    "description": "••••que contienen un ciclo [2006.01]"
+  },
+  {
+    "code": "C08F 112/06",
+    "description": "••••••Hidrocarburos [2006.01]"
+  },
+  {
+    "code": "C08F 112/08",
+    "description": "••••••••Estireno [2006.01]"
+  },
+  {
+    "code": "C08F 112/12",
+    "description": "••••••••que poseen un radical alifático insaturado ramificado o un radical alquilo unido a un ciclo [2006.01]"
+  },
+  {
+    "code": "C08F 112/14",
+    "description": "••••••sustituido por heteroátomos o grupos que contienen heteroátomos [2006.01]"
+  },
+  {
+    "code": "C08F 112/32",
+    "description": "••••que contienen dos o más ciclos [2006.01]"
+  },
+  {
+    "code": "C08F 112/34",
+    "description": "••Monómeros que contienen dos o más radicales alifáticos insaturados [2006.01]"
+  },
+  {
+    "code": "C08F 112/36",
+    "description": "••••Divinilbenceno [2006.01]"
+  },
+  {
+    "code": "C08F 114/00",
+    "description": "Homopolímeros de compuestos que tienen uno o más radicales alifáticos insaturados, teniendo solamente cada uno un enlace doble carbono-carbono, y estando al menos uno terminado por un halógeno [2006.01]"
+  },
+  {
+    "code": "C08F 114/02",
+    "description": "••Monómeros que contienen cloro [2006.01]"
+  },
+  {
+    "code": "C08F 114/04",
+    "description": "••••Monómeros que contienen dos átomos de carbono [2006.01]"
+  },
+  {
+    "code": "C08F 114/06",
+    "description": "••••••Cloruro de vinilo [2006.01]"
+  },
+  {
+    "code": "C08F 114/08",
+    "description": "••••••Cloruro de vinildeno [2006.01]"
+  },
+  {
+    "code": "C08F 114/12",
+    "description": "••••••Dicloro- 1,2 eteno [2006.01]"
+  },
+  {
+    "code": "C08F 114/14",
+    "description": "••••Monómeros que contienen tres o más átomos de carbono [2006.01]"
+  },
+  {
+    "code": "C08F 114/16",
+    "description": "••Monómeros que contienen bromo o yodo [2006.01]"
+  },
+  {
+    "code": "C08F 114/18",
+    "description": "••Monómeros que contienen flúor [2006.01]"
+  },
+  {
+    "code": "C08F 114/20",
+    "description": "••••Fluoruro de vinilo [2006.01]"
+  },
+  {
+    "code": "C08F 114/22",
+    "description": "••••Fluoruro de vinildeno [2006.01]"
+  },
+  {
+    "code": "C08F 114/24",
+    "description": "••••Trifluorcloroetileno [2006.01]"
+  },
+  {
+    "code": "C08F 114/26",
+    "description": "••••Tetrafluoretileno [2006.01]"
+  },
+  {
+    "code": "C08F 114/28",
+    "description": "••••Hexafluorpropeno [2006.01]"
+  },
+  {
+    "code": "C08F 116/00",
+    "description": "Homopolímeros de compuestos que tienen uno o más radicales alifáticos insaturados, teniendo solamente cada uno un enlace doble carbono-carbono, y estando al menos uno terminado por un radical alcohol, éter, aldehído, cetónico, acetal o cetal [2006.01]"
+  },
+  {
+    "code": "C08F 116/02",
+    "description": "••por un radical alcohol [2006.01]"
+  },
+  {
+    "code": "C08F 116/04",
+    "description": "••••Compuestos acíclicos [2006.01]"
+  },
+  {
+    "code": "C08F 116/06",
+    "description": "••••••Alcohol de polivinilo [2006.01]"
+  },
+  {
+    "code": "C08F 116/08",
+    "description": "••••••Alcohol alílico [2006.01]"
+  },
+  {
+    "code": "C08F 116/10",
+    "description": "••••Compuestos carbocíclicos [2006.01]"
+  },
+  {
+    "code": "C08F 116/12",
+    "description": "••por un radical éter [2006.01]"
+  },
+  {
+    "code": "C08F 116/14",
+    "description": "••••Monómeros que contienen solamente un radical alifático insaturado [2006.01]"
+  },
+  {
+    "code": "C08F 116/16",
+    "description": "••••••Monómeros que no contienen heteroátomos distintos al oxígeno del éter [2006.01]"
+  },
+  {
+    "code": "C08F 116/18",
+    "description": "••••••••Compuestos acíclicos [2006.01]"
+  },
+  {
+    "code": "C08F 116/20",
+    "description": "••••••••••Monómeros que contienen tres o más átomos de carbono en el radical alifático insaturado [2006.01]"
+  },
+  {
+    "code": "C08F 116/34",
+    "description": "••por un radical aldehído [2006.01]"
+  },
+  {
+    "code": "C08F 116/36",
+    "description": "••por un radical cetónico [2006.01]"
+  },
+  {
+    "code": "C08F 116/38",
+    "description": "••por un radical acetal o cetal [2006.01]"
+  },
+  {
+    "code": "C08F 118/00",
+    "description": "Homopolímeros de compuestos que tienen uno o más radicales alifáticos insaturados, teniendo solamente cada uno un enlace doble carbono-carbono, y estando al menos uno terminado por un radical aciloxi de un ácido carboxílico saturado, de ácido carbónico o de un ácido halofórmico [2006.01]"
+  },
+  {
+    "code": "C08F 118/02",
+    "description": "••Esteres de ácidos monocarboxílicos [2006.01]"
+  },
+  {
+    "code": "C08F 118/04",
+    "description": "••••Esteres de vinilo [2006.01]"
+  },
+  {
+    "code": "C08F 118/06",
+    "description": "••••••Formiato de vinilo [2006.01]"
+  },
+  {
+    "code": "C08F 118/08",
+    "description": "••••••Acetato de vinilo [2006.01]"
+  },
+  {
+    "code": "C08F 118/10",
+    "description": "••••••de ácidos monocarboxílicos que contienen tres o más átomos de carbono [2006.01]"
+  },
+  {
+    "code": "C08F 118/12",
+    "description": "••••con alcoholes insaturados que contienen tres o más átomos de carbono [2006.01]"
+  },
+  {
+    "code": "C08F 118/14",
+    "description": "••Esteres de ácidos policarboxílicos [2006.01]"
+  },
+  {
+    "code": "C08F 118/16",
+    "description": "••••con alcoholes que contienen tres o más átomos de carbono [2006.01]"
+  },
+  {
+    "code": "C08F 118/18",
+    "description": "••••••Ftalato de dialilo [2006.01]"
+  },
+  {
+    "code": "C08F 120/00",
+    "description": "Homopolímeros de compuestos que tienen uno o más radicales alifáticos insaturados, teniendo solamente cada uno un enlace doble carbono-carbono, y estando solamente uno terminado por un radical carboxilo o una sal, anhídrido, éster, amida, imida o nitrilo del mismo [2006.01]"
+  },
+  {
+    "code": "C08F 120/02",
+    "description": "••Acidos monocarboxílicos que tienen menos de diez átomos de carbono; Sus derivados [2006.01]"
+  },
+  {
+    "code": "C08F 120/04",
+    "description": "••••Acidos; Sus sales metálicas o de amonio [2006.01]"
+  },
+  {
+    "code": "C08F 120/06",
+    "description": "••••••Acido acrílico; Acido metacrílico; Sus sales metálicas o de amonio [2006.01]"
+  },
+  {
+    "code": "C08F 120/08",
+    "description": "••••Anhídridos [2006.01]"
+  },
+  {
+    "code": "C08F 120/10",
+    "description": "••••Esteres [2006.01]"
+  },
+  {
+    "code": "C08F 120/12",
+    "description": "••••••de alcoholes o fenoles monohídricos [2006.01]"
+  },
+  {
+    "code": "C08F 120/14",
+    "description": "••••••••Esteres de metilo [2006.01]"
+  },
+  {
+    "code": "C08F 120/16",
+    "description": "••••••••de fenoles o de alcoholes que contienen dos o más átomos de carbono [2006.01]"
+  },
+  {
+    "code": "C08F 120/18",
+    "description": "••••••••••con ácidos acrílico o metacrílico [2006.01]"
+  },
+  {
+    "code": "C08F 120/20",
+    "description": "••••••de alcoholes o fenoles polihídricos [2006.01]"
+  },
+  {
+    "code": "C08F 120/22",
+    "description": "••••••Esteres que contienen halógeno [2006.01]"
+  },
+  {
+    "code": "C08F 120/24",
+    "description": "••••••••que contienen radicales perhaloalquilo [2006.01]"
+  },
+  {
+    "code": "C08F 120/26",
+    "description": "••••••Esteres que contienen oxígeno en adición al oxígeno del carboxi [2006.01]"
+  },
+  {
+    "code": "C08F 120/28",
+    "description": "••••••••que no contienen ciclos aromáticos en la parte alcohólica [2006.01]"
+  },
+  {
+    "code": "C08F 120/30",
+    "description": "••••••••que contienen ciclos aromáticos en la parte alcohólica [2006.01]"
+  },
+  {
+    "code": "C08F 120/32",
+    "description": "••••••••que contienen radicales epoxi [2006.01]"
+  },
+  {
+    "code": "C08F 120/34",
+    "description": "••••••Esteres que contienen nitrógeno [2006.01]"
+  },
+  {
+    "code": "C08F 120/36",
+    "description": "••••••••que contienen oxígeno en adición al oxígeno del carboxi [2006.01]"
+  },
+  {
+    "code": "C08F 120/38",
+    "description": "••••••Esteres que contienen azufre [2006.01]"
+  },
+  {
+    "code": "C08F 120/40",
+    "description": "••••••Esteres de alcoholes insaturados [2006.01]"
+  },
+  {
+    "code": "C08F 120/42",
+    "description": "••••Nitrilos [2006.01]"
+  },
+  {
+    "code": "C08F 120/44",
+    "description": "••••••Acrilonitrilo [2006.01]"
+  },
+  {
+    "code": "C08F 120/50",
+    "description": "••••••que contienen cuatro o más átomos de carbono [2006.01]"
+  },
+  {
+    "code": "C08F 120/52",
+    "description": "••••Amidas o imidas [2006.01]"
+  },
+  {
+    "code": "C08F 120/54",
+    "description": "••••••Amidas [2006.01]"
+  },
+  {
+    "code": "C08F 120/56",
+    "description": "••••••••Acrilamida; Metacrilamida [2006.01]"
+  },
+  {
+    "code": "C08F 120/58",
+    "description": "••••••••que contienen oxígeno en adición al oxígeno del carbonamido [2006.01]"
+  },
+  {
+    "code": "C08F 120/60",
+    "description": "••••••••que contienen nitrógeno en adición al nitrógeno del carbonamido [2006.01]"
+  },
+  {
+    "code": "C08F 120/62",
+    "description": "••Acidos monocarboxílicos que tienen diez o más átomos de carbono; Sus derivados [2006.01]"
+  },
+  {
+    "code": "C08F 120/64",
+    "description": "••••Acidos; Sus sales metálicas o de amonio [2006.01]"
+  },
+  {
+    "code": "C08F 120/66",
+    "description": "••••Anhídridos [2006.01]"
+  },
+  {
+    "code": "C08F 120/68",
+    "description": "••••Esteres [2006.01]"
+  },
+  {
+    "code": "C08F 120/70",
+    "description": "••••Nitrilos; Amidas; Imidas [2006.01]"
+  },
+  {
+    "code": "C08F 122/00",
+    "description": "Homopolímeros de compuestos que tienen uno o más radicales alifáticos insaturados, teniendo solamente cada uno un enlace doble carbono-carbono, y estando al menos uno terminado por un radical carboxilo y conteniendo al menos otro radical carboxilo en la molécula; Sus sales, anhídridos, ésteres, amidas, imidas o nitrilos [2006.01]"
+  },
+  {
+    "code": "C08F 122/02",
+    "description": "••Acidos; Sus sales metálicas o de amonio [2006.01]"
+  },
+  {
+    "code": "C08F 122/04",
+    "description": "••Anhídridos, p. ej. anhídridos cíclicos [2006.01]"
+  },
+  {
+    "code": "C08F 122/06",
+    "description": "••••Anhídrido maleico [2006.01]"
+  },
+  {
+    "code": "C08F 122/10",
+    "description": "••Esteres [2006.01]"
+  },
+  {
+    "code": "C08F 122/12",
+    "description": "••••de fenoles o alcoholes saturados [2006.01]"
+  },
+  {
+    "code": "C08F 122/14",
+    "description": "••••••Esteres que no tienen grupos de ácido carboxílico libre [2006.01]"
+  },
+  {
+    "code": "C08F 122/16",
+    "description": "••••••Esteres que tienen grupos de ácido carboxílico libre [2006.01]"
+  },
+  {
+    "code": "C08F 122/18",
+    "description": "••••••Esteres que contienen halógeno [2006.01]"
+  },
+  {
+    "code": "C08F 122/20",
+    "description": "••••••Esteres que contienen oxígeno en adición al oxígeno del carboxi [2006.01]"
+  },
+  {
+    "code": "C08F 122/22",
+    "description": "••••••Esteres que contienen nitrógeno [2006.01]"
+  },
+  {
+    "code": "C08F 122/24",
+    "description": "••••••Esteres que contienen azufre [2006.01]"
+  },
+  {
+    "code": "C08F 122/26",
+    "description": "••••de alcoholes insaturados [2006.01]"
+  },
+  {
+    "code": "C08F 122/28",
+    "description": "••••••Maleato de dialilo [2006.01]"
+  },
+  {
+    "code": "C08F 122/30",
+    "description": "••Nitrilos [2006.01]"
+  },
+  {
+    "code": "C08F 122/32",
+    "description": "••••Acido alfa-cianoacrílico; Sus ésteres [2006.01]"
+  },
+  {
+    "code": "C08F 122/34",
+    "description": "••••Cianuro de vinildeno [2006.01]"
+  },
+  {
+    "code": "C08F 122/36",
+    "description": "••Amidas o imidas [2006.01]"
+  },
+  {
+    "code": "C08F 122/38",
+    "description": "••••Amidas [2006.01]"
+  },
+  {
+    "code": "C08F 122/40",
+    "description": "••••Imidas, p. ej. imidas cíclicas [2006.01]"
+  },
+  {
+    "code": "C08F 124/00",
+    "description": "Homopolímeros de compuestos que tienen uno o más radicales alifáticos insaturados, teniendo solamente cada uno un enlace doble carbono-carbono, y estando al menos uno terminado por un ciclo heterocíclico que contiene oxígeno (ésteres cíclicos de ácidos polifuncionales C08F 118/00; Anhídridos cíclicos de ácidos insaturados C08F 120/00, C08F 122/00) [2006.01]"
+  },
+  {
+    "code": "C08F 126/00",
+    "description": "Homopolímeros de compuestos que tienen uno o más radicales alifáticos insaturados, teniendo solamente cada uno un enlace doble carbono-carbono, y estando al menos uno terminado por un enlace simple o doble a nitrógeno o por un ciclo heterocíclico que contiene nitrógeno [2006.01]"
+  },
+  {
+    "code": "C08F 126/02",
+    "description": "••por un enlace simple o doble a nitrógeno [2006.01]"
+  },
+  {
+    "code": "C08F 126/04",
+    "description": "••••Dialilamina [2006.01]"
+  },
+  {
+    "code": "C08F 126/06",
+    "description": "••por un ciclo heterocíclico que contiene nitrógeno [2006.01]"
+  },
+  {
+    "code": "C08F 126/08",
+    "description": "••••N-vinilpirrolidina [2006.01]"
+  },
+  {
+    "code": "C08F 126/10",
+    "description": "••••N-vinilpirrolidona [2006.01]"
+  },
+  {
+    "code": "C08F 126/12",
+    "description": "••••N-vinilcarbazol [2006.01]"
+  },
+  {
+    "code": "C08F 128/00",
+    "description": "Homopolímeros de compuestos que tienen uno o más radicales alifáticos insaturados, teniendo solamente cada uno un enlace doble carbono-carbono, y estando al menos uno terminado por un enlace a azufre o por un ciclo heterocíclico que contiene azufre [2006.01]"
+  },
+  {
+    "code": "C08F 128/02",
+    "description": "••por un enlace a azufre [2006.01]"
+  },
+  {
+    "code": "C08F 128/04",
+    "description": "••••Tioéteres [2006.01]"
+  },
+  {
+    "code": "C08F 128/06",
+    "description": "••por un heterociclo que contiene azufre [2006.01]"
+  },
+  {
+    "code": "C08F 130/00",
+    "description": "Homopolímeros de compuestos que tienen uno o más radicales alifáticos insaturados, teniendo solamente cada uno un enlace doble carbono-carbono, y que contienen fósforo, selenio, teluro o un metal (sales metálicas, p. ej. fenolatos o alcoholatos, ver los compuestos principales) [2006.01]"
+  },
+  {
+    "code": "C08F 130/02",
+    "description": "••que contienen fósforo [2006.01]"
+  },
+  {
+    "code": "C08F 130/04",
+    "description": "••que contiene un metal [2006.01]"
+  },
+  {
+    "code": "C08F 130/06",
+    "description": "••••que contienen boro [2006.01]"
+  },
+  {
+    "code": "C08F 130/08",
+    "description": "••••que contienen silicio [2006.01]"
+  },
+  {
+    "code": "C08F 130/10",
+    "description": "••••que contienen germanio [2006.01]"
+  },
+  {
+    "code": "C08F 132/00",
+    "description": "Homopolímeros de compuestos cíclicos que no contienen radicales alifáticos insaturados en una cadena lateral, y que tienen uno o más enlaces dobles carbono-carbono en un sistema cíclico carbocíclico [2006.01]"
+  },
+  {
+    "code": "C08F 132/02",
+    "description": "••que no tienen ciclos condensados [2006.01]"
+  },
+  {
+    "code": "C08F 132/04",
+    "description": "••••que tienen un enlace doble carbono-carbono [2006.01]"
+  },
+  {
+    "code": "C08F 132/06",
+    "description": "••••que tienen dos o más enlaces dobles carbono-carbono [2006.01]"
+  },
+  {
+    "code": "C08F 132/08",
+    "description": "••que tienen ciclos condensados [2006.01]"
+  },
+  {
+    "code": "C08F 134/00",
+    "description": "Homopolímeros de compuestos cíclicos que no tienen radicales alifáticos insaturados en una cadena lateral, y que tienen uno o más enlaces dobles carbono-carbono en un ciclo heterocíclico (ésteres cíclicos de ácidos polifuncionales C08F 118/00; anhídridos o imidas cíclicas C08F 122/00) [2006.01]"
+  },
+  {
+    "code": "C08F 134/02",
+    "description": "••en un ciclo que contiene oxígeno [2006.01]"
+  },
+  {
+    "code": "C08F 134/04",
+    "description": "••en un ciclo que contiene azufre [2006.01]"
+  },
+  {
+    "code": "C08F 136/00",
+    "description": "Homopolímeros de compuestos que tienen uno o más radicales alifáticos insaturados, teniendo al menos uno, dos o más enlaces dobles carbono-carbono (C08F 132/00 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "C08F 136/02",
+    "description": "••teniendo solamente el radical dos enlaces dobles carbono-carbono [2006.01]"
+  },
+  {
+    "code": "C08F 136/04",
+    "description": "••••conjugados [2006.01]"
+  },
+  {
+    "code": "C08F 136/06",
+    "description": "••••••Butadieno [2006.01]"
+  },
+  {
+    "code": "C08F 136/08",
+    "description": "••••••Isopreno [2006.01]"
+  },
+  {
+    "code": "C08F 136/14",
+    "description": "••••••que contienen elementos distintos al carbono y al hidrógeno [2006.01]"
+  },
+  {
+    "code": "C08F 136/16",
+    "description": "••••••••que contienen halógeno [2006.01]"
+  },
+  {
+    "code": "C08F 136/18",
+    "description": "••••••••••que contienen cloro [2006.01]"
+  },
+  {
+    "code": "C08F 136/20",
+    "description": "••••no conjugados [2006.01]"
+  },
+  {
+    "code": "C08F 136/22",
+    "description": "••teniendo el radical tres o más enlaces dobles carbono-carbono [2006.01]"
+  },
+  {
+    "code": "C08F 138/00",
+    "description": "Homopolímeros de compuestos que tienen uno o más enlaces triples carbono-carbono [2006.01]"
+  },
+  {
+    "code": "C08F 138/02",
+    "description": "••Acetileno [2006.01]"
+  },
+  {
+    "code": "C08F 138/04",
+    "description": "••Vinilacetileno [2006.01]"
+  },
+  {
+    "code": "C08F 210/00",
+    "description": "Copolímeros de hidrocarburos alifáticos insaturados que tienen solamente un enlace doble carbono-carbono [2006.01]"
+  },
+  {
+    "code": "C08F 210/02",
+    "description": "••Eteno [2006.01]"
+  },
+  {
+    "code": "C08F 210/04",
+    "description": "••Monómeros que contienen tres o cuatro átomos de carbono [2006.01]"
+  },
+  {
+    "code": "C08F 210/06",
+    "description": "••••Propeno [2006.01]"
+  },
+  {
+    "code": "C08F 210/08",
+    "description": "••••Butenos [2006.01]"
+  },
+  {
+    "code": "C08F 210/10",
+    "description": "••••••Isobuteno [2006.01]"
+  },
+  {
+    "code": "C08F 210/12",
+    "description": "••••••••con diolefinas conjugadas, p. ej. caucho de butilo [2006.01]"
+  },
+  {
+    "code": "C08F 210/14",
+    "description": "••Monómeros que contienen cinco o más átomos de carbono [2006.01]"
+  },
+  {
+    "code": "C08F 210/16",
+    "description": "••Copolímeros de eteno con alfa-alquenos, p. ej. cauchos EP [2006.01]"
+  },
+  {
+    "code": "C08F 210/18",
+    "description": "••••con dienos no conjugados, p. ej. cauchos EPT [2006.01]"
+  },
+  {
+    "code": "C08F 212/00",
+    "description": "Copolímeros de compuestos que tienen uno o más radicales alifáticos insaturados, teniendo solamente cada uno un enlace doble carbono-carbono, y estando al menos uno terminado por un ciclo carbocíclico aromático [2006.01]"
+  },
+  {
+    "code": "C08F 212/02",
+    "description": "••Monómeros que contienen solamente un radical alifático insaturado [2006.01]"
+  },
+  {
+    "code": "C08F 212/04",
+    "description": "••••que contienen un ciclo [2006.01]"
+  },
+  {
+    "code": "C08F 212/06",
+    "description": "••••••Hidrocarburos [2006.01]"
+  },
+  {
+    "code": "C08F 212/08",
+    "description": "••••••••Estireno [2006.01]"
+  },
+  {
+    "code": "C08F 212/10",
+    "description": "••••••••••con nitrilos [2006.01]"
+  },
+  {
+    "code": "C08F 212/12",
+    "description": "••••••••que poseen un radical alifático insaturado ramificado con un radical alquilo unido a un ciclo [2006.01]"
+  },
+  {
+    "code": "C08F 212/14",
+    "description": "••••••sustituido por heteroátomos o grupos que contienen heteroátomos [2006.01]"
+  },
+  {
+    "code": "C08F 212/32",
+    "description": "••••que contienen dos o más ciclos [2006.01]"
+  },
+  {
+    "code": "C08F 212/34",
+    "description": "••Monómeros que contienen dos o más radicales alifáticos insaturados [2006.01]"
+  },
+  {
+    "code": "C08F 212/36",
+    "description": "••••Divinilbenceno [2006.01]"
+  },
+  {
+    "code": "C08F 214/00",
+    "description": "Copolímeros de compuestos que tienen uno o más radicales alifáticos insaturados, teniendo solamente cada uno un enlace doble carbono-carbono, y estando al menos uno terminado por un halógeno [2006.01]"
+  },
+  {
+    "code": "C08F 214/02",
+    "description": "••Monómeros que contienen cloro [2006.01]"
+  },
+  {
+    "code": "C08F 214/04",
+    "description": "••••Monómeros que contienen dos átomos de carbono [2006.01]"
+  },
+  {
+    "code": "C08F 214/06",
+    "description": "••••••Cloruro de vinilo [2006.01]"
+  },
+  {
+    "code": "C08F 214/08",
+    "description": "••••••Cloruro de vinildeno [2006.01]"
+  },
+  {
+    "code": "C08F 214/10",
+    "description": "••••••••con nitrilos [2006.01]"
+  },
+  {
+    "code": "C08F 214/12",
+    "description": "••••••1,2 -dicloroeteno [2006.01]"
+  },
+  {
+    "code": "C08F 214/14",
+    "description": "••••Monómeros que contienen tres o más átomos de carbono [2006.01]"
+  },
+  {
+    "code": "C08F 214/16",
+    "description": "••Monómeros que contienen bromo o yodo [2006.01]"
+  },
+  {
+    "code": "C08F 214/18",
+    "description": "••Monómeros que contienen flúor [2006.01]"
+  },
+  {
+    "code": "C08F 214/20",
+    "description": "••••Fluoruro de vinilo [2006.01]"
+  },
+  {
+    "code": "C08F 214/22",
+    "description": "••••Fluoruro de vinildeno [2006.01]"
+  },
+  {
+    "code": "C08F 214/24",
+    "description": "••••Trifluorcloroetileno [2006.01]"
+  },
+  {
+    "code": "C08F 214/26",
+    "description": "••••Tetrafluoretileno [2006.01]"
+  },
+  {
+    "code": "C08F 214/28",
+    "description": "••••Hexafluorpropeno [2006.01]"
+  },
+  {
+    "code": "C08F 216/00",
+    "description": "Copolímeros de compuestos que tienen uno o más radicales alifáticos insaturados, teniendo solamente cada uno, un enlace doble carbono-carbono, y estando al menos uno terminado por un radical alcohol, éter, aldehído, cetónico, acetal o cetal [2006.01]"
+  },
+  {
+    "code": "C08F 216/02",
+    "description": "••por un radical alcohol [2006.01]"
+  },
+  {
+    "code": "C08F 216/04",
+    "description": "••••Compuestos acíclicos [2006.01]"
+  },
+  {
+    "code": "C08F 216/06",
+    "description": "••••••Alcohol de polivinilo [2006.01]"
+  },
+  {
+    "code": "C08F 216/08",
+    "description": "••••••Alcohol alílico [2006.01]"
+  },
+  {
+    "code": "C08F 216/10",
+    "description": "••••Compuestos carbocíclicos [2006.01]"
+  },
+  {
+    "code": "C08F 216/12",
+    "description": "••por un radical éter [2006.01]"
+  },
+  {
+    "code": "C08F 216/14",
+    "description": "••••Monómeros que contienen solamente un radical alifático insaturado [2006.01]"
+  },
+  {
+    "code": "C08F 216/16",
+    "description": "••••••Monómeros que no contienen heteroátomos distintos del oxígeno del éter [2006.01]"
+  },
+  {
+    "code": "C08F 216/18",
+    "description": "••••••••Compuestos acíclicos [2006.01]"
+  },
+  {
+    "code": "C08F 216/20",
+    "description": "••••••••••Monómeros que contienen tres o más átomos de carbono en el radical alifático insaturado [2006.01]"
+  },
+  {
+    "code": "C08F 216/34",
+    "description": "••por un radical aldehído [2006.01]"
+  },
+  {
+    "code": "C08F 216/36",
+    "description": "••por un radical cetónico [2006.01]"
+  },
+  {
+    "code": "C08F 216/38",
+    "description": "••por un radical acetal o cetal [2006.01]"
+  },
+  {
+    "code": "C08F 218/00",
+    "description": "Copolímeros que tienen uno o más radicales alifáticos insaturados, teniendo solamente cada uno, un enlace doble carbono-carbono, y estando al menos uno terminado por un radical aciloxi de un ácido carboxílico saturado, de ácido carbónico o de un ácido halofórmico [2006.01]"
+  },
+  {
+    "code": "C08F 218/02",
+    "description": "••Esteres de ácidos monocarboxílicos [2006.01]"
+  },
+  {
+    "code": "C08F 218/04",
+    "description": "••••Esteres de vinilo [2006.01]"
+  },
+  {
+    "code": "C08F 218/06",
+    "description": "••••••Formiato de vinilo [2006.01]"
+  },
+  {
+    "code": "C08F 218/08",
+    "description": "••••••Acetato de vinilo [2006.01]"
+  },
+  {
+    "code": "C08F 218/10",
+    "description": "••••••de ácidos monocarboxílicos que contienen tres o más átomos de carbono [2006.01]"
+  },
+  {
+    "code": "C08F 218/12",
+    "description": "••••con alcoholes insaturados que contienen tres o más átomos de carbono [2006.01]"
+  },
+  {
+    "code": "C08F 218/14",
+    "description": "••Esteres de ácidos policarboxílicos [2006.01]"
+  },
+  {
+    "code": "C08F 218/16",
+    "description": "••••con alcoholes que contienen tres o más átomos de carbono [2006.01]"
+  },
+  {
+    "code": "C08F 218/18",
+    "description": "••••••Ftalato de dialilo [2006.01]"
+  },
+  {
+    "code": "C08F 220/00",
+    "description": "Copolímeros de compuestos que tienen uno o más radicales alifáticos insaturados, teniendo solamente cada uno un enlace doble carbono-carbono, y estando solamente terminado por un radical carboxi o una sal, anhídrido, éster, amida, imida o nitrilo del mismo [2006.01]"
+  },
+  {
+    "code": "C08F 220/02",
+    "description": "••Acidos monocarboxílicos que tienen menos de diez átomos de carbono; Sus derivados [2006.01]"
+  },
+  {
+    "code": "C08F 220/04",
+    "description": "••••Acidos; Sus sales metálicas o de amonio [2006.01]"
+  },
+  {
+    "code": "C08F 220/06",
+    "description": "••••••Acido acrílico; Acido metacrílico; Sus sales metálicas o de amonio [2006.01]"
+  },
+  {
+    "code": "C08F 220/08",
+    "description": "••••Anhídridos [2006.01]"
+  },
+  {
+    "code": "C08F 220/10",
+    "description": "••••Esteres [2006.01]"
+  },
+  {
+    "code": "C08F 220/12",
+    "description": "••••••de alcoholes o fenoles monohídricos [2006.01]"
+  },
+  {
+    "code": "C08F 220/14",
+    "description": "••••••••Esteres de metilo [2006.01]"
+  },
+  {
+    "code": "C08F 220/16",
+    "description": "••••••••de fenoles o de alcoholes que contienen dos o más átomos de carbono [2006.01]"
+  },
+  {
+    "code": "C08F 220/18",
+    "description": "••••••••••con ácidos acrílico o metacrílico [2006.01]"
+  },
+  {
+    "code": "C08F 220/20",
+    "description": "••••••de alcoholes o fenoles polihídricos [2006.01]"
+  },
+  {
+    "code": "C08F 220/22",
+    "description": "••••••Esteres que contienen halógeno [2006.01]"
+  },
+  {
+    "code": "C08F 220/24",
+    "description": "••••••••que contienen radicales perhaloalquilo [2006.01]"
+  },
+  {
+    "code": "C08F 220/26",
+    "description": "••••••Esteres que contienen oxígeno en adición al oxígeno del carboxi [2006.01]"
+  },
+  {
+    "code": "C08F 220/28",
+    "description": "••••••••que no contienen ciclos aromáticos en la parte alcohólica [2006.01]"
+  },
+  {
+    "code": "C08F 220/30",
+    "description": "••••••••que contienen ciclos aromáticos en la parte alcohólica [2006.01]"
+  },
+  {
+    "code": "C08F 220/32",
+    "description": "••••••••que contienen radicales epoxi [2006.01]"
+  },
+  {
+    "code": "C08F 220/34",
+    "description": "••••••Esteres que contienen nitrógeno [2006.01]"
+  },
+  {
+    "code": "C08F 220/36",
+    "description": "••••••••que contienen oxígeno en adición al oxígeno del carboxi [2006.01]"
+  },
+  {
+    "code": "C08F 220/38",
+    "description": "••••••Esteres que contienen azufre [2006.01]"
+  },
+  {
+    "code": "C08F 220/40",
+    "description": "••••••Esteres de alcoholes insaturados [2006.01]"
+  },
+  {
+    "code": "C08F 220/42",
+    "description": "••••Nitrilos [2006.01]"
+  },
+  {
+    "code": "C08F 220/44",
+    "description": "••••••Acrilonitrilo [2006.01]"
+  },
+  {
+    "code": "C08F 220/46",
+    "description": "••••••••con ácidos carboxílicos, ácidos sulfónicos o sus sales [2006.01]"
+  },
+  {
+    "code": "C08F 220/48",
+    "description": "••••••••con monómeros que contienen nitrógeno [2006.01]"
+  },
+  {
+    "code": "C08F 220/50",
+    "description": "••••••que contienen cuatro o más átomos de carbono [2006.01]"
+  },
+  {
+    "code": "C08F 220/52",
+    "description": "••••Amidas o imidas [2006.01]"
+  },
+  {
+    "code": "C08F 220/54",
+    "description": "••••••Amidas [2006.01]"
+  },
+  {
+    "code": "C08F 220/56",
+    "description": "••••••••Acrilamida; Metacrilamida [2006.01]"
+  },
+  {
+    "code": "C08F 220/58",
+    "description": "••••••••que contienen oxígeno en adición al oxígeno del carbonamido [2006.01]"
+  },
+  {
+    "code": "C08F 220/60",
+    "description": "••••••••que contienen nitrógeno en adición al nitrógeno del carbonamido [2006.01]"
+  },
+  {
+    "code": "C08F 220/62",
+    "description": "••Acidos monocarboxílicos que tienen diez o más átomos de carbono; Sus derivados [2006.01]"
+  },
+  {
+    "code": "C08F 220/64",
+    "description": "••••Acidos; Sus sales metálicas o de amonio [2006.01]"
+  },
+  {
+    "code": "C08F 220/66",
+    "description": "••••Anhídridos [2006.01]"
+  },
+  {
+    "code": "C08F 220/68",
+    "description": "••••Esteres [2006.01]"
+  },
+  {
+    "code": "C08F 220/70",
+    "description": "••••Nitrilos; Amidas; Imidas [2006.01]"
+  },
+  {
+    "code": "C08F 222/00",
+    "description": "Copolímeros de compuestos que tienen uno o más radicales alifáticos insaturados, teniendo solamente cada uno un enlace doble carbono-carbono, estando al menos uno terminado por un radical carboxilo y que contiene al menos otro radical carboxilo en la molécula; Sus sales, anhídridos, ésteres, amidas, imidas o nitrilos [2006.01]"
+  },
+  {
+    "code": "C08F 222/02",
+    "description": "••Acidos; Sus sales metálicas o de amonio [2006.01]"
+  },
+  {
+    "code": "C08F 222/04",
+    "description": "••Anhídridos, p. ej. anhídridos cíclicos [2006.01]"
+  },
+  {
+    "code": "C08F 222/06",
+    "description": "••••Anhídrido maleico [2006.01]"
+  },
+  {
+    "code": "C08F 222/08",
+    "description": "••••••con monómeros aromáticos de vinilo [2006.01]"
+  },
+  {
+    "code": "C08F 222/10",
+    "description": "••Esteres [2006.01]"
+  },
+  {
+    "code": "C08F 222/12",
+    "description": "••••de fenoles o alcoholes saturados [2006.01]"
+  },
+  {
+    "code": "C08F 222/14",
+    "description": "••••••Esteres que no tienen grupos de ácido carboxílico libre [2006.01]"
+  },
+  {
+    "code": "C08F 222/16",
+    "description": "••••••Esteres que tienen grupos de ácido carboxílico libre [2006.01]"
+  },
+  {
+    "code": "C08F 222/18",
+    "description": "••••••Esteres que contienen halógeno [2006.01]"
+  },
+  {
+    "code": "C08F 222/20",
+    "description": "••••••Esteres que contienen oxígeno en adición al oxígeno del carboxi [2006.01]"
+  },
+  {
+    "code": "C08F 222/22",
+    "description": "••••••Esteres que contienen nitrógeno [2006.01]"
+  },
+  {
+    "code": "C08F 222/24",
+    "description": "••••••Esteres que contienen azufre [2006.01]"
+  },
+  {
+    "code": "C08F 222/26",
+    "description": "••••de alcoholes insaturados [2006.01]"
+  },
+  {
+    "code": "C08F 222/28",
+    "description": "••••••Maleato de dialilo [2006.01]"
+  },
+  {
+    "code": "C08F 222/30",
+    "description": "••Nitrilos [2006.01]"
+  },
+  {
+    "code": "C08F 222/32",
+    "description": "••••Acido alfa-cianoacrílico; Sus ésteres [2006.01]"
+  },
+  {
+    "code": "C08F 222/34",
+    "description": "••••Cianuro de vinildeno [2006.01]"
+  },
+  {
+    "code": "C08F 222/36",
+    "description": "••Amidas o imidas [2006.01]"
+  },
+  {
+    "code": "C08F 222/38",
+    "description": "••••Amidas [2006.01]"
+  },
+  {
+    "code": "C08F 222/40",
+    "description": "••••Imidas, p. ej. imidas cíclicas [2006.01]"
+  },
+  {
+    "code": "C08F 224/00",
+    "description": "Copolímeros de compuestos que tienen uno o más radicales alifáticos insaturados, teniendo solamente cada uno un enlace doble carbono-carbono, y estando al menos uno terminado por un ciclo heterocíclico que contiene oxígeno (ésteres cíclicos de ácidos polifuncionales C08F 218/00; anhídridos cíclicos de ácidos insaturados C08F 220/00, C08F 222/00) [2006.01]"
+  },
+  {
+    "code": "C08F 226/00",
+    "description": "Copolímeros de compuestos que tienen uno o más radicales alifáticos insaturados, teniendo solamente cada uno un enlace doble carbono-carbono, y estando al menos uno terminado por un enlace simple o doble a nitrógeno o por un ciclo heterocíclico que contiene nitrógeno [2006.01]"
+  },
+  {
+    "code": "C08F 226/02",
+    "description": "••por un enlace simple o doble a nitrógeno [2006.01]"
+  },
+  {
+    "code": "C08F 226/04",
+    "description": "••••Dialilamina [2006.01]"
+  },
+  {
+    "code": "C08F 226/06",
+    "description": "••por un ciclo heterocíclico que contiene nitrógeno [2006.01]"
+  },
+  {
+    "code": "C08F 226/08",
+    "description": "••••N-vinilpirrolidina [2006.01]"
+  },
+  {
+    "code": "C08F 226/10",
+    "description": "••••N-vinilpirrolidona [2006.01]"
+  },
+  {
+    "code": "C08F 226/12",
+    "description": "••••N-vinilcarbazol [2006.01]"
+  },
+  {
+    "code": "C08F 228/00",
+    "description": "Copolímeros de compuestos que tienen uno o más radicales alifáticos insaturados, teniendo solamente cada uno un enlace doble carbono-carbono, y estando al menos uno terminado por un enlace a azufre o por un ciclo heterocíclico que contiene azufre [2006.01]"
+  },
+  {
+    "code": "C08F 228/02",
+    "description": "••por un enlace a azufre [2006.01]"
+  },
+  {
+    "code": "C08F 228/04",
+    "description": "••••Tioéteres [2006.01]"
+  },
+  {
+    "code": "C08F 228/06",
+    "description": "••por un ciclo heterocíclico que contiene azufre [2006.01]"
+  },
+  {
+    "code": "C08F 230/00",
+    "description": "Copolímeros de compuestos que tienen uno o más radicales alifáticos insaturados, teniendo solamente cada uno un enlace doble carbono-carbono, y que contienen fósforo, selenio, teluro o un metal (sales metálicas, p. ej. fenolatos o alcoholatos, ver los compuestos principales) [2006.01]"
+  },
+  {
+    "code": "C08F 230/02",
+    "description": "••que contienen fósforo [2006.01]"
+  },
+  {
+    "code": "C08F 230/04",
+    "description": "••que contienen un metal [2006.01]"
+  },
+  {
+    "code": "C08F 230/06",
+    "description": "••••que contienen boro [2006.01]"
+  },
+  {
+    "code": "C08F 230/08",
+    "description": "••••que contienen silicio [2006.01]"
+  },
+  {
+    "code": "C08F 230/10",
+    "description": "••••que contienen germanio [2006.01]"
+  },
+  {
+    "code": "C08F 232/00",
+    "description": "Copolímeros de compuestos cíclicos que no contienen radicales alifáticos insaturados en una cadena lateral, y que tienen uno o más enlaces dobles carbono-carbono en un sistema cíclico carbocíclico [2006.01]"
+  },
+  {
+    "code": "C08F 232/02",
+    "description": "••que no tienen ciclos condensados [2006.01]"
+  },
+  {
+    "code": "C08F 232/04",
+    "description": "••••que tienen un enlace doble carbono-carbono [2006.01]"
+  },
+  {
+    "code": "C08F 232/06",
+    "description": "••••que tienen dos o más enlaces dobles carbono-carbono [2006.01]"
+  },
+  {
+    "code": "C08F 232/08",
+    "description": "••que tienen ciclos condensados [2006.01]"
+  },
+  {
+    "code": "C08F 234/00",
+    "description": "Copolímeros de compuestos cíclicos que no tienen radicales alifáticos insaturados en una cadena lateral, y que tienen uno o más enlaces dobles carbono-carbono en un ciclo heterocíclico (ésteres cíclicos de ácidos polifuncionales C08F 218/00; anhídridos o imidas cíclicos C08F 222/00) [2006.01]"
+  },
+  {
+    "code": "C08F 234/02",
+    "description": "••en un ciclo que contiene oxígeno [2006.01]"
+  },
+  {
+    "code": "C08F 234/04",
+    "description": "••en un ciclo que contiene azufre [2006.01]"
+  },
+  {
+    "code": "C08F 236/00",
+    "description": "Copolímeros de compuestos que tienen uno o más radicales alifáticos insaturados, teniendo al menos uno, dos o más enlaces dobles carbono-carbono (C08F 232/00 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "C08F 236/02",
+    "description": "••teniendo solamente el radical dos enlaces dobles carbono-carbono [2006.01]"
+  },
+  {
+    "code": "C08F 236/04",
+    "description": "••••conjugados [2006.01]"
+  },
+  {
+    "code": "C08F 236/06",
+    "description": "••••••Butadieno [2006.01]"
+  },
+  {
+    "code": "C08F 236/08",
+    "description": "••••••Isopreno [2006.01]"
+  },
+  {
+    "code": "C08F 236/10",
+    "description": "••••••con monómeros aromáticos de vinilo [2006.01]"
+  },
+  {
+    "code": "C08F 236/12",
+    "description": "••••••con nitrilos [2006.01]"
+  },
+  {
+    "code": "C08F 236/14",
+    "description": "••••••que contienen elementos diferentes al carbono e hidrógeno [2006.01]"
+  },
+  {
+    "code": "C08F 236/16",
+    "description": "••••••••que contienen halógeno [2006.01]"
+  },
+  {
+    "code": "C08F 236/18",
+    "description": "••••••••••que contienen cloro [2006.01]"
+  },
+  {
+    "code": "C08F 236/20",
+    "description": "••••no conjugados [2006.01]"
+  },
+  {
+    "code": "C08F 236/22",
+    "description": "••teniendo el radical tres o más enlaces dobles carbono-carbono [2006.01]"
+  },
+  {
+    "code": "C08F 238/00",
+    "description": "Copolímeros de compuestos que tienen uno o más enlaces triples carbono-carbono [2006.01]"
+  },
+  {
+    "code": "C08F 238/02",
+    "description": "••Acetileno [2006.01]"
+  },
+  {
+    "code": "C08F 238/04",
+    "description": "••Vinilacetileno [2006.01]"
+  },
+  {
+    "code": "C08F 240/00",
+    "description": "Copolímeros de hidrocarburos y aceites minerales, p. ej. resinas de petróleo [2006.01]"
+  },
+  {
+    "code": "C08F 242/00",
+    "description": "Copolímeros de aceites secantes con otros monómeros [2006.01]"
+  },
+  {
+    "code": "C08F 244/00",
+    "description": "Copolímeros de cumarona-indeno [2006.01]"
+  },
+  {
+    "code": "C08F 246/00",
+    "description": "Copolímeros en los que solamente está definida la naturaleza de los monómeros en minoría [2006.01]"
+  },
+  {
+    "code": "C08F 251/00",
+    "description": "Compuestos macromoleculares obtenidos por polimerización de monómeros sobre polisacáridos o sus derivados [2006.01]"
+  },
+  {
+    "code": "C08F 251/02",
+    "description": "••sobre celulosa o sus derivados [2006.01]"
+  },
+  {
+    "code": "C08F 253/00",
+    "description": "Compuestos macromoleculares obtenidos por polimerización de monómeros sobre cauchos naturales o sus derivados [2006.01]"
+  },
+  {
+    "code": "C08F 255/00",
+    "description": "Compuestos macromoleculares obtenidos por polimerización de monómeros sobre polímeros de hidrocarburos como los definidos en el grupo C08F 10/00 [2006.01]"
+  },
+  {
+    "code": "C08F 255/02",
+    "description": "••sobre polímeros de olefinas que tienen dos o tres átomos de carbono [2006.01]"
+  },
+  {
+    "code": "C08F 255/04",
+    "description": "••••sobre copolímeros de etileno-propileno [2006.01]"
+  },
+  {
+    "code": "C08F 255/06",
+    "description": "••••sobre terpolímeros de etileno-propileno-dieno [2006.01]"
+  },
+  {
+    "code": "C08F 255/08",
+    "description": "••sobre polímeros de olefinas que tienen cuatro o más átomos de carbono [2006.01]"
+  },
+  {
+    "code": "C08F 255/10",
+    "description": "••••sobre polímeros de butenos [2006.01]"
+  },
+  {
+    "code": "C08F 257/00",
+    "description": "Compuestos macromoleculares obtenidos por polimerización de monómeros sobre polímeros de monómeros aromáticos como los definidos en el grupo C08F 12/00 [2006.01]"
+  },
+  {
+    "code": "C08F 257/02",
+    "description": "••sobre polímeros de estireno o estireno alquil-sustituido [2006.01]"
+  },
+  {
+    "code": "C08F 259/00",
+    "description": "Compuestos macromoleculares obtenidos por polimerización de monómeros sobre polímeros de monómeros que contienen halógeno como los definidos en el grupo C08F 14/00 [2006.01]"
+  },
+  {
+    "code": "C08F 259/02",
+    "description": "••sobre polímeros que contienen cloro [2006.01]"
+  },
+  {
+    "code": "C08F 259/04",
+    "description": "••••sobre polímeros de cloruro de vinilo [2006.01]"
+  },
+  {
+    "code": "C08F 259/06",
+    "description": "••••sobre polímeros de cloruro de vinildeno [2006.01]"
+  },
+  {
+    "code": "C08F 259/08",
+    "description": "••sobre polímeros que contienen flúor [2006.01]"
+  },
+  {
+    "code": "C08F 261/00",
+    "description": "Compuestos macromoleculares obtenidos por polimerización de monómeros sobre polímeros de monómeros que contienen oxígeno como los definidos en el grupo C08F 16/00 [2006.01]"
+  },
+  {
+    "code": "C08F 261/02",
+    "description": "••sobre polímeros de alcoholes insaturados [2006.01]"
+  },
+  {
+    "code": "C08F 261/04",
+    "description": "••••sobre alcohol polivinílico [2006.01]"
+  },
+  {
+    "code": "C08F 261/06",
+    "description": "••sobre polímeros de éteres insaturados [2006.01]"
+  },
+  {
+    "code": "C08F 261/08",
+    "description": "••sobre polímeros de aldehídos insaturados [2006.01]"
+  },
+  {
+    "code": "C08F 261/10",
+    "description": "••sobre polímeros de cetonas insaturadas [2006.01]"
+  },
+  {
+    "code": "C08F 261/12",
+    "description": "••sobre polímeros de acetales o cetales insaturados [2006.01]"
+  },
+  {
+    "code": "C08F 263/00",
+    "description": "Compuestos macromoleculares obtenidos por polimerización de monómeros sobre polímeros de ésteres de alcoholes insaturados con ácidos saturados como los definidos en el grupo C08F 18/00 [2006.01]"
+  },
+  {
+    "code": "C08F 263/02",
+    "description": "••sobre polímeros de ésteres de vinilo con ácidos monocarboxílicos [2006.01]"
+  },
+  {
+    "code": "C08F 263/04",
+    "description": "••••sobre polímeros de acetato de vinilo [2006.01]"
+  },
+  {
+    "code": "C08F 263/06",
+    "description": "••sobre polímeros de ésteres con ácidos policarboxílicos [2006.01]"
+  },
+  {
+    "code": "C08F 263/08",
+    "description": "••••Polimerización de prepolímeros de ftalato de dialilo [2006.01]"
+  },
+  {
+    "code": "C08F 265/00",
+    "description": "Compuestos macromoleculares obtenidos por polimerización de monómeros sobre polímeros de ácidos monocarboxílicos insaturados o sus derivados como los definidos en el grupo C08F 20/00 [2006.01]"
+  },
+  {
+    "code": "C08F 265/02",
+    "description": "••sobre polímeros de ácidos, sales o anhídridos [2006.01]"
+  },
+  {
+    "code": "C08F 265/04",
+    "description": "••sobre polímeros de ésteres [2006.01]"
+  },
+  {
+    "code": "C08F 265/06",
+    "description": "••••Polimerización de ésteres de acrilato o metacrilato sobre sus polímeros [2006.01]"
+  },
+  {
+    "code": "C08F 265/08",
+    "description": "••sobre polímeros de nitrilo [2006.01]"
+  },
+  {
+    "code": "C08F 265/10",
+    "description": "••sobre polímeros de amidas o imidas [2006.01]"
+  },
+  {
+    "code": "C08F 267/00",
+    "description": "Compuestos macromoleculares obtenidos por polimerización de monómeros sobre polímeros de ácidos policarboxílicos insaturados o sus derivados como los definidos en el grupo C08F 22/00 [2006.01]"
+  },
+  {
+    "code": "C08F 267/02",
+    "description": "••sobre polímeros de ácidos o sales [2006.01]"
+  },
+  {
+    "code": "C08F 267/04",
+    "description": "••sobre polímeros de anhídridos [2006.01]"
+  },
+  {
+    "code": "C08F 267/06",
+    "description": "••sobre polímeros de ésteres [2006.01]"
+  },
+  {
+    "code": "C08F 267/08",
+    "description": "••sobre polímeros de nitrilos [2006.01]"
+  },
+  {
+    "code": "C08F 267/10",
+    "description": "••sobre polímeros de amidas o imidas [2006.01]"
+  },
+  {
+    "code": "C08F 269/00",
+    "description": "Compuestos macromoleculares obtenidos por polimerización de monómeros sobre polímeros de monómeros heterocíclicos que contienen oxígeno como los definidos en el grupo C08F 24/00 [2006.01]"
+  },
+  {
+    "code": "C08F 271/00",
+    "description": "Compuestos macromoleculares obtenidos por polimerización de monómeros sobre polímeros de monómeros que contienen nitrógeno como los definidos en el grupo C08F 26/00 [2006.01]"
+  },
+  {
+    "code": "C08F 271/02",
+    "description": "••sobre polímeros de monómeros que contienen nitrógeno formando parte de un heterociclo [2006.01]"
+  },
+  {
+    "code": "C08F 273/00",
+    "description": "Compuestos macromoleculares obtenidos por polimerización de monómeros sobre polímeros o monómeros que contienen azufre como los definidos en el grupo C08F 28/00 [2006.01]"
+  },
+  {
+    "code": "C08F 275/00",
+    "description": "Compuestos macromoleculares obtenidos por polimerización de monómeros sobre polímeros de monómeros que contienen fósforo, selenio, teluro o un metal como los definidos en el grupo C08F 30/00 [2006.01]"
+  },
+  {
+    "code": "C08F 277/00",
+    "description": "Compuestos macromoleculares obtenidos por polimerización de monómeros sobre polímeros de monómeros carbocíclicos o heterocíclicos como los definidos en los grupos C08F 32/00 ó C08F 34/00 [2006.01]"
+  },
+  {
+    "code": "C08F 279/00",
+    "description": "Compuestos macromoleculares obtenidos por polimerización de monómeros sobre polímeros de monómeros que tienen dos o más enlaces dobles carbono-carbono como los definidos en el grupo C08F 36/00 [2006.01]"
+  },
+  {
+    "code": "C08F 279/02",
+    "description": "••sobre polímeros de dienos conjugados [2006.01]"
+  },
+  {
+    "code": "C08F 279/04",
+    "description": "••••Monómeros aromáticos de vinilo y nitrilos como únicos monómeros [2006.01]"
+  },
+  {
+    "code": "C08F 279/06",
+    "description": "••••Monómeros aromáticos de vinilo y metacrilato como únicos monómeros [2006.01]"
+  },
+  {
+    "code": "C08F 281/00",
+    "description": "Compuestos macromoleculares obtenidos por polimerización de monómeros sobre polímeros de monómeros que tienen enlaces triples carbono-carbono como los definidos en el grupo C08F 38/00 [2006.01]"
+  },
+  {
+    "code": "C08F 283/00",
+    "description": "Compuestos macromoleculares obtenidos por polimerización de monómeros sobre polímeros previstos por la subclase C08G [2006.01]"
+  },
+  {
+    "code": "C08F 283/01",
+    "description": "••sobre poliésteres insaturados [2006.01]"
+  },
+  {
+    "code": "C08F 283/02",
+    "description": "••sobre policarbonatos o poliésteres saturados [2006.01]"
+  },
+  {
+    "code": "C08F 283/04",
+    "description": "••sobre policarbonamidas, poliesteramidas o polimidas [2006.01]"
+  },
+  {
+    "code": "C08F 283/06",
+    "description": "••sobre poliéteres, polioximetilenos o poliacetales [2006.01]"
+  },
+  {
+    "code": "C08F 283/08",
+    "description": "••••sobre óxidos de polifenileno [2006.01]"
+  },
+  {
+    "code": "C08F 283/10",
+    "description": "••sobre polímeros que contienen más de un radical epoxi por molécula [2006.01]"
+  },
+  {
+    "code": "C08F 283/12",
+    "description": "••sobre polisiloxanos [2006.01]"
+  },
+  {
+    "code": "C08F 283/14",
+    "description": "••sobre polímeros obtenidos por polimerización en ciclo abierto de compuestos carbocíclicos que tienen uno o más enlaces dobles carbono-carbono en el ciclo carbocíclico, p. ej. polialquenámeros [2006.01]"
+  },
+  {
+    "code": "C08F 285/00",
+    "description": "Compuestos macromoleculares obtenidos por polimerización de monómeros sobre polímeros injertados preformados [2006.01]"
+  },
+  {
+    "code": "C08F 287/00",
+    "description": "Compuestos macromoleculares obtenidos por polimerización de monómeros sobre polímeros en bloque [2006.01]"
+  },
+  {
+    "code": "C08F 289/00",
+    "description": "Compuestos macromoleculares obtenidos por polimerización de monómeros sobre compuestos macromoleculares no previstos por los grupos C08F 251/00-C08F 287/00 [2006.01]"
+  },
+  {
+    "code": "C08F 290/00",
+    "description": "Compuestos macromoleculares obtenidos por polimerización de monómetos sobre polímeros modificados por introducción de grupos alifáticos insaturados terminales o laterales [2006.01]"
+  },
+  {
+    "code": "C08F 290/02",
+    "description": "••sobre polímeros modificados por introducción de grupos terminales insaturados [2006.01]"
+  },
+  {
+    "code": "C08F 290/04",
+    "description": "••••Polímeros previstos en las subclases C08C o C08F [2006.01]"
+  },
+  {
+    "code": "C08F 290/06",
+    "description": "••••Polímeros previstos en la subclase C08G [2006.01]"
+  },
+  {
+    "code": "C08F 290/08",
+    "description": "••sobre polímeros modificados por introducción de grupos laterales insaturados [2006.01]"
+  },
+  {
+    "code": "C08F 290/10",
+    "description": "••••Polímeros previstos en la subclase C08B [2006.01]"
+  },
+  {
+    "code": "C08F 290/12",
+    "description": "••••Polímeros previstos en las subclases C08C o C08F [2006.01]"
+  },
+  {
+    "code": "C08F 290/14",
+    "description": "••••Polímeros previstos en la subclase C08G [2006.01]"
+  },
+  {
+    "code": "C08F 291/00",
+    "description": "Compuestos macromoleculares obtenidos por polimerización de monómeros sobre compuestos macromoleculares de acuerdo con más de uno de los grupos C08F 251/00-C08F 289/00 [2006.01]"
+  },
+  {
+    "code": "C08F 291/02",
+    "description": "••sobre elastómeros [2006.01]"
+  },
+  {
+    "code": "C08F 291/04",
+    "description": "••sobre macromoléculas que contienen halógeno [2006.01]"
+  },
+  {
+    "code": "C08F 291/06",
+    "description": "••sobre macromoléculas que contienen oxígeno [2006.01]"
+  },
+  {
+    "code": "C08F 291/08",
+    "description": "••••sobre macromoléculas que contienen radicales hidroxi [2006.01]"
+  },
+  {
+    "code": "C08F 291/10",
+    "description": "••••sobre macromoléculas que contienen radicales epoxi [2006.01]"
+  },
+  {
+    "code": "C08F 291/12",
+    "description": "••sobre macromoléculas que contienen nitrógeno [2006.01]"
+  },
+  {
+    "code": "C08F 291/14",
+    "description": "••sobre macromoléculas que contienen azufre [2006.01]"
+  },
+  {
+    "code": "C08F 291/16",
+    "description": "••sobre macromoléculas que contienen más de los átomos metálicos [2006.01]"
+  },
+  {
+    "code": "C08F 291/18",
+    "description": "••sobre macromoléculas irradiadas u oxidadas (epoxidizadas C08F 291/10) [2006.01]"
+  },
+  {
+    "code": "C08F 292/00",
+    "description": "Compuestos macromoleculares obtenidos por polimerización de monómeros sobre sustancias inorgánicas [2006.01]"
+  },
+  {
+    "code": "C08F 293/00",
+    "description": "Compuestos macromoleculares obtenidos por polimerización sobre una macromolécula que tiene grupos capaces de inducir la formación de nuevas cadenas poliméricas exclusivamente enlazadas a uno o a ambos finales de la macromolécula inicial (sobre polímeros modificados por introducción de grupos terminales insaturados C08F 290/02) [2006.01]"
+  },
+  {
+    "code": "C08F 295/00",
+    "description": "Compuestos macromoleculares obtenidos por polimerización utilizando sucesivamente diferentes tipos de catalizadores sin desactivar el polímero intermedio [2006.01]"
+  },
+  {
+    "code": "C08F 297/00",
+    "description": "Compuestos macromoleculares obtenidos por sucesiva polimerización de diferentes sistemas monoméricos utilizando un catalizador de tipo iónico o de coordinación sin desactivar el polímero intermedio [2006.01]"
+  },
+  {
+    "code": "C08F 297/02",
+    "description": "••utilizando un catalizador de tipo aniónico [2006.01]"
+  },
+  {
+    "code": "C08F 297/04",
+    "description": "••••polimerizando monómeros aromáticos de vinilo y dienos conjugados [2006.01]"
+  },
+  {
+    "code": "C08F 297/06",
+    "description": "••utilizando un catalizador del tipo de coordinación [2006.01]"
+  },
+  {
+    "code": "C08F 297/08",
+    "description": "••••polimerizando monoolefinas [2006.01]"
+  },
+  {
+    "code": "C08F 299/02",
+    "description": "••a partir de policondensados insaturados [2006.01]"
+  },
+  {
+    "code": "C08F 299/04",
+    "description": "••••a partir de poliésteres [2006.01]"
+  },
+  {
+    "code": "C08F 299/06",
+    "description": "••••a partir de poliuretanos [2006.01]"
+  },
+  {
+    "code": "C08F 299/08",
+    "description": "••••a partir de polisiloxanos [2006.01]"
+  },
+  {
+    "code": "C08F 301/00",
+    "description": "Compuestos macromoleculares no previstos en los grupos C08F 10/00-C08F 299/00 [2006.01]"
+  }
+]

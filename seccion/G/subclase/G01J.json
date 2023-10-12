@@ -1,0 +1,486 @@
+[
+  {
+    "code": "G01J 1/00",
+    "description": "Fotometría, p. ej. medidores de la exposición fotográfica (espectrofotometría G01J 3/00; especialmente adaptado a la pirometría de las radiaciones G01J 5/00) [2006.01]"
+  },
+  {
+    "code": "G01J 1/02",
+    "description": "••Partes constitutivas [2006.01]"
+  },
+  {
+    "code": "G01J 1/04",
+    "description": "••••Piezas ópticas o mecánicas [2006.01]"
+  },
+  {
+    "code": "G01J 1/06",
+    "description": "••••••reduciendo el ángulo de la luz incidente [2006.01]"
+  },
+  {
+    "code": "G01J 1/08",
+    "description": "••••Instalaciones de fuentes luminosas especialmente adaptadas a la fotometría [2006.01]"
+  },
+  {
+    "code": "G01J 1/10",
+    "description": "••por comparación con una luz de referencia o con un valor eléctrico de referencia [2006.01]"
+  },
+  {
+    "code": "G01J 1/12",
+    "description": "••••utilizando medios enteramente visuales (G01J 1/20 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01J 1/14",
+    "description": "••••••utilizando una comparación con una superficie de brillo graduado [2006.01]"
+  },
+  {
+    "code": "G01J 1/16",
+    "description": "••••utilizando detectores eléctricos de radiaciones (G01J 1/20 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01J 1/18",
+    "description": "••••••utilizando una comparación con un valor eléctrico de referencia [2006.01]"
+  },
+  {
+    "code": "G01J 1/20",
+    "description": "••••modificando la intensidad del valor medido o el de referencia hasta igualar sus efectos en el detector, p. ej. haciendo variar el ángulo de incidencia [2006.01]"
+  },
+  {
+    "code": "G01J 1/22",
+    "description": "••••••utilizando un elemento variable sobre la trayectoria de la luz, p. ej. un filtro, medios polarizadores (G01J 1/34 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01J 1/24",
+    "description": "••••••••utilizando detectores eléctricos de radiaciones [2006.01]"
+  },
+  {
+    "code": "G01J 1/26",
+    "description": "••••••••••adaptados para una variación automática del valor medido o de referencia [2006.01]"
+  },
+  {
+    "code": "G01J 1/28",
+    "description": "••••••utilizando una variación de intensidad o de la distancia de la fuente (G01J 1/34 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01J 1/30",
+    "description": "••••••••utilizando detectores eléctricos de radiaciones [2006.01]"
+  },
+  {
+    "code": "G01J 1/32",
+    "description": "••••••••••adaptados para una variación automática del valor medido o el de referencia [2006.01]"
+  },
+  {
+    "code": "G01J 1/34",
+    "description": "••••••utilizando distintas trayectorias de la luz utilizadas alternativa o sucesivamente, p. ej. centelleo [2006.01]"
+  },
+  {
+    "code": "G01J 1/36",
+    "description": "••••••••utilizando detectores eléctricos de radiaciones [2006.01]"
+  },
+  {
+    "code": "G01J 1/38",
+    "description": "••utilizando medios enteramente visuales (G01J 1/10 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01J 1/40",
+    "description": "••••utilizando un umbral de visibilidad o un efecto de extinción [2006.01]"
+  },
+  {
+    "code": "G01J 1/42",
+    "description": "••utilizando detectores eléctricos de radiaciones (piezas ópticas o mecánicas G01J 1/04; por comparación con una luz de referencia o un valor eléctrico G01J 1/10) [2006.01]"
+  },
+  {
+    "code": "G01J 1/44",
+    "description": "••••Circuitos eléctricos [2006.01]"
+  },
+  {
+    "code": "G01J 1/46",
+    "description": "••••••utilizando una capacidad [2006.01]"
+  },
+  {
+    "code": "G01J 1/48",
+    "description": "••utilizando los efectos químicos [2006.01]"
+  },
+  {
+    "code": "G01J 1/50",
+    "description": "••••utilizando un cambio de color de un indicador, p. ej. actinómetro [2006.01]"
+  },
+  {
+    "code": "G01J 1/52",
+    "description": "••••utilizando efectos fotográficos [2006.01]"
+  },
+  {
+    "code": "G01J 1/54",
+    "description": "••••por observación de foto-reacciones entre gases [2006.01]"
+  },
+  {
+    "code": "G01J 1/56",
+    "description": "••utilizando la presión de radiación o un efecto de radiometría [2006.01]"
+  },
+  {
+    "code": "G01J 1/58",
+    "description": "••utilizando una luminiscencia producida por la luz [2006.01]"
+  },
+  {
+    "code": "G01J 1/60",
+    "description": "••midiendo la pupila del ojo [2006.01]"
+  },
+  {
+    "code": "G01J 3/00",
+    "description": "Espectrometría; Espectrofotometría; Monocromadores; Medida del color [2006.01]"
+  },
+  {
+    "code": "G01J 3/02",
+    "description": "••Partes constitutivas [2006.01]"
+  },
+  {
+    "code": "G01J 3/04",
+    "description": "••••Sistemas de ranura [2006.01]"
+  },
+  {
+    "code": "G01J 3/06",
+    "description": "••••Sistemas de barrido [2006.01]"
+  },
+  {
+    "code": "G01J 3/08",
+    "description": "••••Sistemas para la conmutación de haces [2006.01]"
+  },
+  {
+    "code": "G01J 3/10",
+    "description": "••••Instalación de fuentes luminosas especialmente adaptadas a la espectrometría o a la colorimetría [2006.01]"
+  },
+  {
+    "code": "G01J 3/12",
+    "description": "••Producción del espectro; Monocromadores [2006.01]"
+  },
+  {
+    "code": "G01J 3/14",
+    "description": "••••utilizando elementos refractantes, p. ej. prisma (G01J 3/18, G01J 3/26 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G01J 3/16",
+    "description": "••••••con autocolimación [2006.01]"
+  },
+  {
+    "code": "G01J 3/18",
+    "description": "••••utilizando elementos difractantes, p. ej. enrejado [2006.01]"
+  },
+  {
+    "code": "G01J 3/20",
+    "description": "••••••Espectrómetros de círculo de Rowland [2006.01]"
+  },
+  {
+    "code": "G01J 3/22",
+    "description": "••••••Espectrómetros de espejo de Littrow [2006.01]"
+  },
+  {
+    "code": "G01J 3/24",
+    "description": "••••••utilizando enrejados perfilados de forma que favorezcan un orden particular [2006.01]"
+  },
+  {
+    "code": "G01J 3/26",
+    "description": "••••utilizando una reflexión múltiple, p. ej. interferómetro de Fabry-Perot, filtro con interferencias variables [2006.01]"
+  },
+  {
+    "code": "G01J 3/28",
+    "description": "••Estudio del espectro (utilizando filtros de color G01J 3/51) [2006.01]"
+  },
+  {
+    "code": "G01J 3/30",
+    "description": "••••Medida de la intensidad de las rayas espectrales directamente sobre el mismo espectro (G01J 3/42, G01J 3/44 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G01J 3/32",
+    "description": "••••••estudiando las bandas de un espectro sucesivamente con la ayuda de un detector único [2006.01]"
+  },
+  {
+    "code": "G01J 3/36",
+    "description": "••••••Estudio de dos o más bandas de un espectro con la ayuda de detectores distintos [2006.01]"
+  },
+  {
+    "code": "G01J 3/40",
+    "description": "••••Medida de la intensidad de los rayos espectrales por determinación de la densidad de una fotografía del espectro; Espectrografía (G01J 3/42, G01J 3/44 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G01J 3/42",
+    "description": "••••Espectrometría de absorción; Espectrometría de doble haz; Espectrometría por centelleo; Espectrometría por reflexión (disposiciones para la conmutación de haces G01J 3/08) [2006.01]"
+  },
+  {
+    "code": "G01J 3/427",
+    "description": "••••••Espectrometría de doble longitud de onda [2006.01]"
+  },
+  {
+    "code": "G01J 3/433",
+    "description": "••••••Espectrometría por modulación; Espectrometría por derivación [2006.01]"
+  },
+  {
+    "code": "G01J 3/44",
+    "description": "••••Espectrometría Raman; Espectrometría por difusión [2006.01]"
+  },
+  {
+    "code": "G01J 3/443",
+    "description": "••••Espectrometría por emisión [2006.01]"
+  },
+  {
+    "code": "G01J 3/447",
+    "description": "••••Espectrometría por polarización [2006.01]"
+  },
+  {
+    "code": "G01J 3/45",
+    "description": "••••Espectrometría por interferencia [2006.01]"
+  },
+  {
+    "code": "G01J 3/453",
+    "description": "••••••por correlación de amplitudes [2006.01]"
+  },
+  {
+    "code": "G01J 3/457",
+    "description": "••••Espectrometría por correlación, p. ej. de la intensidad (G01J 3/453 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01J 3/46",
+    "description": "••Medida del color; Dispositivos de medida del color, p. ej. colorímetros (medida de la temperatura de color G01J 5/60) [2006.01]"
+  },
+  {
+    "code": "G01J 3/50",
+    "description": "••••utilizando detectores eléctricos de radiaciones [2006.01]"
+  },
+  {
+    "code": "G01J 3/51",
+    "description": "••••••utilizando filtros de color [2006.01]"
+  },
+  {
+    "code": "G01J 3/52",
+    "description": "••••utilizando escalas de colores [2006.01]"
+  },
+  {
+    "code": "G01J 4/00",
+    "description": "Medida de la polarización de la luz [2006.01]"
+  },
+  {
+    "code": "G01J 4/02",
+    "description": "••Polarímetros del tipo de campos separados; Polarímetros del tipo de penumbra [2006.01]"
+  },
+  {
+    "code": "G01J 4/04",
+    "description": "••Polarímetros que utilizan medios de detección eléctricos (G01J 4/02 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01J 5/00",
+    "description": "Pirometría de radiación, p. ej. termometría infrarroja u óptica [2022.01]"
+  },
+  {
+    "code": "G01J 5/02",
+    "description": "••Detalles constructivos [2022.01]"
+  },
+  {
+    "code": "G01J 5/03",
+    "description": "••••Dispositivos de indicación o registro especialmente adaptados para pirómetros de radiación [2022.01]"
+  },
+  {
+    "code": "G01J 5/04",
+    "description": "••••Carcasas [2006.01]"
+  },
+  {
+    "code": "G01J 5/05",
+    "description": "••••Medios para evitar la contaminación de los componentes del sistema óptico; Medios para evitar la obstrucción de la trayectoria de la radiación [2022.01]"
+  },
+  {
+    "code": "G01J 5/06",
+    "description": "••••Disposiciones para eliminar los efectos de las radiaciones perturbadoras; Disposiciones para compensar los cambios de sensibilidad (para ajustar el ángulo sólido de la radiación recogida G01J 5/07; medios para la selección de la longitud de onda G01J 5/0801) [2022.01]"
+  },
+  {
+    "code": "G01J 5/061",
+    "description": "••••••controlando la temperatura del aparato o de sus partes, p. ej. mediante medios de refrigeración o termostatos [2022.01]"
+  },
+  {
+    "code": "G01J 5/068",
+    "description": "••••••controlando otros parámetros además de la temperatura [2022.01]"
+  },
+  {
+    "code": "G01J 5/07",
+    "description": "••••Disposiciones para ajustar el ángulo sólido de la radiación recogida, p. ej. ajustar u orientar el campo de visión, seguir la posición o codificar la posición angular (elementos colimadores ópticos G01J 5/0806) [2022.01]"
+  },
+  {
+    "code": "G01J 5/08",
+    "description": "••••Disposiciones ópticas [2022.01]"
+  },
+  {
+    "code": "G01J 5/0801",
+    "description": "••••••Medios de selección o discriminación de la longitud de onda [2022.01]"
+  },
+  {
+    "code": "G01J 5/0802",
+    "description": "••••••••Filtros ópticos [2022.01]"
+  },
+  {
+    "code": "G01J 5/0803",
+    "description": "••••••Disposiciones para la atenuación en función del tiempo de las señales de radiación [2022.01]"
+  },
+  {
+    "code": "G01J 5/0804",
+    "description": "••••••••Obturadores [2022.01]"
+  },
+  {
+    "code": "G01J 5/0805",
+    "description": "••••••••Medios para cortar la radiación [2022.01]"
+  },
+  {
+    "code": "G01J 5/0806",
+    "description": "••••••Elementos de enfoque o colimación, p. ej. lentes o espejos cóncavos [2022.01]"
+  },
+  {
+    "code": "G01J 5/0808",
+    "description": "••••••Espejos convexos [2022.01]"
+  },
+  {
+    "code": "G01J 5/0813",
+    "description": "••••••Espejos planos; Placas de fase paralelas [2022.01]"
+  },
+  {
+    "code": "G01J 5/0818",
+    "description": "••••••Guías de onda [2022.01]"
+  },
+  {
+    "code": "G01J 5/0821",
+    "description": "••••••••Fibras ópticas [2022.01]"
+  },
+  {
+    "code": "G01J 5/0831",
+    "description": "••••••Máscaras; Placas de apertura; Moduladores espaciales de luz [2022.01]"
+  },
+  {
+    "code": "G01J 5/0875",
+    "description": "••••••Ventanas; Disposiciones para su fijación [2022.01]"
+  },
+  {
+    "code": "G01J 5/10",
+    "description": "••utilizando detectores eléctricos de radiaciones [2006.01]"
+  },
+  {
+    "code": "G01J 5/12",
+    "description": "••••utilizando elementos termoeléctricos, p. ej. termopares [2006.01]"
+  },
+  {
+    "code": "G01J 5/14",
+    "description": "••••••Características eléctricas de los mismos [2006.01]"
+  },
+  {
+    "code": "G01J 5/16",
+    "description": "••••••••Dispositivos relativos a la unión fría; Compensación de la influencia de la temperatura ambiente o de otras variables [2006.01]"
+  },
+  {
+    "code": "G01J 5/20",
+    "description": "••••utilizando elementos resistentes, termorresistentes o semiconductores sensibles a las radiaciones, p. ej. dispositivos fotoconductores [2006.01]"
+  },
+  {
+    "code": "G01J 5/22",
+    "description": "••••••Características eléctricas de los mismos [2006.01]"
+  },
+  {
+    "code": "G01J 5/24",
+    "description": "••••••••Utilización de circuitos especialmente adaptados, p. ej.  circuitos puente [2006.01]"
+  },
+  {
+    "code": "G01J 5/28",
+    "description": "••••utilizando células fotoemisivas o fotovoltaicas [2006.01]"
+  },
+  {
+    "code": "G01J 5/30",
+    "description": "••••••Particularidades eléctricas de las mismas [2006.01]"
+  },
+  {
+    "code": "G01J 5/34",
+    "description": "••••utilizando capacidades, p. ej. condensadores piroeléctricos [2022.01]"
+  },
+  {
+    "code": "G01J 5/35",
+    "description": "••••••Características eléctricas de las mismas [2022.01]"
+  },
+  {
+    "code": "G01J 5/36",
+    "description": "••••utilizando la ionización de los gases [2006.01]"
+  },
+  {
+    "code": "G01J 5/38",
+    "description": "••utilizando el alargamiento o la dilatación de sólidos o fluidos [2006.01]"
+  },
+  {
+    "code": "G01J 5/40",
+    "description": "••••utilizando elementos bimateriales [2006.01]"
+  },
+  {
+    "code": "G01J 5/42",
+    "description": "••••utilizando células Golay [2006.01]"
+  },
+  {
+    "code": "G01J 5/44",
+    "description": "••••utilizando la variación de una frecuencia de resonancia, p. ej. de los cristales piezoeléctricos [2006.01]"
+  },
+  {
+    "code": "G01J 5/46",
+    "description": "••utilizando la presión de radiación o un efecto de radiometría [2006.01]"
+  },
+  {
+    "code": "G01J 5/48",
+    "description": "••Termografía; Técnicas que utilizan medios completamente visuales [2022.01]"
+  },
+  {
+    "code": "G01J 5/52",
+    "description": "••utilizando la comparación con fuentes de referencia, p. ej. pirómetro de desaparición de filamento [2022.01]"
+  },
+  {
+    "code": "G01J 5/53",
+    "description": "••••Fuentes de referencia, p. ej. lámparas estándar; Cuerpos negros [2022.01]"
+  },
+  {
+    "code": "G01J 5/54",
+    "description": "••••Disposiciones ópticas [2006.01]"
+  },
+  {
+    "code": "G01J 5/56",
+    "description": "••••Características eléctricas a tal efecto [2006.01]"
+  },
+  {
+    "code": "G01J 5/58",
+    "description": "••utilizando la absorción; utilizando el efecto de extinción [2022.01]"
+  },
+  {
+    "code": "G01J 5/59",
+    "description": "••utilizando la polarización; Detalles a tal efecto [2022.01]"
+  },
+  {
+    "code": "G01J 5/60",
+    "description": "••utilizando la determinación de la temperatura de color [2006.01]"
+  },
+  {
+    "code": "G01J 5/70",
+    "description": "••Compensación pasiva de las mediciones del pirómetro, p. ej. mediante la detección de la temperatura ambiente o la detección de la temperatura dentro de la carcasa [2022.01]"
+  },
+  {
+    "code": "G01J 5/80",
+    "description": "••Calibración (mediante comparación con fuentes de referencia G01J 5/52) [2022.01]"
+  },
+  {
+    "code": "G01J 5/90",
+    "description": "••Comprobación, inspección o verificación de los pirómetros de radiación [2022.01]"
+  },
+  {
+    "code": "G01J 7/00",
+    "description": "Medida de la velocidad de la luz [2006.01]"
+  },
+  {
+    "code": "G01J 9/00",
+    "description": "Medida del desfase de rayos luminosos; Investigación del grado de coherencia; Medida óptica de la longitud de onda (espectrometría G01J 3/00) [2006.01]"
+  },
+  {
+    "code": "G01J 9/02",
+    "description": "••por métodos interferométricos [2006.01]"
+  },
+  {
+    "code": "G01J 9/04",
+    "description": "••por choque de dos ondas del mismo origen pero desplazadas en frecuencia y por medida del desfase de la onda base de frecuencia obtenida [2006.01]"
+  },
+  {
+    "code": "G01J 11/00",
+    "description": "Medida de características de impulsos luminosos individuales o de trenes de impulsos luminosos [2006.01]"
+  }
+]

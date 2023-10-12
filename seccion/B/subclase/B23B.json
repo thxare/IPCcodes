@@ -1,0 +1,878 @@
+[
+  {
+    "code": "B23B 1/00",
+    "description": "Métodos de torneado o métodos de trabajo que implican la utilización de tornos; Utilización de equipos auxiliares en relación con estos métodos [2006.01]"
+  },
+  {
+    "code": "B23B 3/00",
+    "description": "Máquinas o dispositivos para tornear de utilización general, p. ej. tornos paralelos con barras de carro de torno y rosca hembra; Conjunto de máquinas para tornear [2006.01]"
+  },
+  {
+    "code": "B23B 3/02",
+    "description": "••Tornos pequeños, p. ej. para fabricantes de herramientas (especialmente concebidos para los relojeros G04D 3/00) [2006.01]"
+  },
+  {
+    "code": "B23B 3/04",
+    "description": "••Máquinas de tornear en las que se hace girar la pieza que va a ser trabajada a cierta distancia del cabezal [2006.01]"
+  },
+  {
+    "code": "B23B 3/06",
+    "description": "••Máquinas o dispositivos de tornear caracterizados solamente por la estructura de sus elementos constitutivos (B23Q 37/00 tiene prioridad; características estructurales de las partes constitutivas, ver los grupos correspondientes; si estas características son de aplicación general, ver B23Q) [2006.01]"
+  },
+  {
+    "code": "B23B 3/08",
+    "description": "••Máquinas de tornear caracterizadas por la utilización del plato [2006.01]"
+  },
+  {
+    "code": "B23B 3/10",
+    "description": "••••con plato horizontal, es decir, máquinas verticales de tornear y perforar [2006.01]"
+  },
+  {
+    "code": "B23B 3/12",
+    "description": "••••con plato vertical, es decir, tornos al aire [2006.01]"
+  },
+  {
+    "code": "B23B 3/14",
+    "description": "••••Montajes o propulsión de los platos [2006.01]"
+  },
+  {
+    "code": "B23B 3/16",
+    "description": "••Tornos revólver para tornear piezas montadas individualmente sobre el mandril [2006.01]"
+  },
+  {
+    "code": "B23B 3/18",
+    "description": "••••con husillo de trabajo horizontal [2006.01]"
+  },
+  {
+    "code": "B23B 3/20",
+    "description": "••••con husillo de trabajo vertical [2006.01]"
+  },
+  {
+    "code": "B23B 3/22",
+    "description": "••Máquinas o dispositivos de tornear con cabezas portaherramientas rotativas [2006.01]"
+  },
+  {
+    "code": "B23B 3/24",
+    "description": "••••en los que las herramientas no efectúan un movimiento radial; Cabezas portaherramientas rotativas apropiadas [2006.01]"
+  },
+  {
+    "code": "B23B 3/26",
+    "description": "••••en los que las herramientas efectúan un movimiento radial; Cabezas portaherramientas apropiadas [2006.01]"
+  },
+  {
+    "code": "B23B 3/28",
+    "description": "••Máquinas de tornear en las que el avance está controlado por un dispositivo de copiado, es decir, tornos para copiar (características de los dispositivos de copiado B23Q 35/00) [2006.01]"
+  },
+  {
+    "code": "B23B 3/30",
+    "description": "••Máquinas de tornear con varios husillos de trabajo, p. ej. fijados de una manera permanente [2006.01]"
+  },
+  {
+    "code": "B23B 3/32",
+    "description": "••••para realizar simultáneamente operaciones idénticas sobre varias piezas [2006.01]"
+  },
+  {
+    "code": "B23B 3/34",
+    "description": "••Tornos de banco corto con uno o varios husillos de trabajo controlados por una extremidad (B23B 3/12 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B23B 3/36",
+    "description": "••Combinaciones de máquinas de tornear únicamente con vistas a la obtención de un resultado particular (si el resultado no es esencial B23Q 39/00) [2006.01]"
+  },
+  {
+    "code": "B23B 5/00",
+    "description": "Máquinas o dispositivos para tornear especialmente concebidos para realizar un trabajo particular; Accesorios correspondientes especialmente concebidos con este fin [2006.01]"
+  },
+  {
+    "code": "B23B 5/02",
+    "description": "••para tornear cubos de rueda o tambores de frenos (B23B 5/04 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B23B 5/04",
+    "description": "••para el reacondicionamiento de los cubos de las ruedas o de los tambores de los frenos o de los árboles de los vehículos sin necesidad de sacar estas piezas del vehículo [2006.01]"
+  },
+  {
+    "code": "B23B 5/06",
+    "description": "••para tornear válvulas o cuerpos de válvulas [2006.01]"
+  },
+  {
+    "code": "B23B 5/08",
+    "description": "••para tornear ejes, barras, vástagos, tubos, cilindros; Torneado sin centro [2006.01]"
+  },
+  {
+    "code": "B23B 5/10",
+    "description": "••••para tornear cilindros de laminadora con \"paso de peregrino\" [2006.01]"
+  },
+  {
+    "code": "B23B 5/12",
+    "description": "••••para descascarillar las barras o tubos por medio de herramientas cortantes dispuestas alrededor de la pieza que va a ser trabajada (utilización de herramientas cortantes dispuestas alrededor de la pieza y trabajando de forma distinta al torneado B23D 79/12) [2006.01]"
+  },
+  {
+    "code": "B23B 5/14",
+    "description": "••Tornos de trocear (cizallado B23D) [2006.01]"
+  },
+  {
+    "code": "B23B 5/16",
+    "description": "••para biselar, achaflanar, o desbarbar las extremidades de barras o tubos [2006.01]"
+  },
+  {
+    "code": "B23B 5/18",
+    "description": "••para tornear cigüeñales, excéntricas o levas, p. ej. tornos para muñequillas de cigüeñales [2006.01]"
+  },
+  {
+    "code": "B23B 5/20",
+    "description": "••••sin sacar las piezas del motor [2006.01]"
+  },
+  {
+    "code": "B23B 5/22",
+    "description": "••••Fijación a la máquina de la pieza que va a ser trabajada, p. ej. mandriles [2006.01]"
+  },
+  {
+    "code": "B23B 5/24",
+    "description": "••para tornear pistones u otras piezas a trabajar siguiendo una sección que no es exactamente circular [2006.01]"
+  },
+  {
+    "code": "B23B 5/26",
+    "description": "••para tornear simultáneamente las superficies interior y exterior de un cuerpo [2006.01]"
+  },
+  {
+    "code": "B23B 5/28",
+    "description": "••para tornear ruedas o trenes de ruedas o sus manivelas, es decir, tornos de ruedas [2006.01]"
+  },
+  {
+    "code": "B23B 5/30",
+    "description": "••••Dispositivos de control de la herramienta por medio de plantillas [2006.01]"
+  },
+  {
+    "code": "B23B 5/32",
+    "description": "••••para el reacondicionamiento de los trenes de ruedas, sin desmontarlos del vehículo; Tornos de ruedas, de foso, para vehículos de ferrocarril [2006.01]"
+  },
+  {
+    "code": "B23B 5/34",
+    "description": "••••Fijación sobre la máquina de la pieza que se va a trabajar, p. ej. mandriles de fijación; Propulsores apropiados [2006.01]"
+  },
+  {
+    "code": "B23B 5/36",
+    "description": "••para tornear superficies de formas especiales gracias al empleo de mecanismos geométricos que producen un movimiento relativo entre el útil y la pieza, es decir, tornos de conformado [2006.01]"
+  },
+  {
+    "code": "B23B 5/38",
+    "description": "••••para tornear superficies cónicas interior o exteriormente, p. ej. pasadores cónicos [2006.01]"
+  },
+  {
+    "code": "B23B 5/40",
+    "description": "••••para tornear superficies esféricas interior o exteriormente [2006.01]"
+  },
+  {
+    "code": "B23B 5/42",
+    "description": "••••para tornear superficies de retorneado, es decir, tornos de retorneo [2006.01]"
+  },
+  {
+    "code": "B23B 5/44",
+    "description": "••••para tornear superficies poligonales u otras superficies no circulares, con ayuda de mecanismos de piñones o de guías, es decir, tornos de excéntricas [2006.01]"
+  },
+  {
+    "code": "B23B 5/46",
+    "description": "••••para tornear superficies en forma de hélice o de espiral (fileteado B23G) [2006.01]"
+  },
+  {
+    "code": "B23B 5/48",
+    "description": "••••••para tallar ranuras, p. ej. ranuras de lubrificación de forma helicoidal [2006.01]"
+  },
+  {
+    "code": "B23B 7/00",
+    "description": "Máquinas de tornear automáticas o semiautomáticas dotadas de un solo husillo de trabajo, p. ej. controladas por levas; Equipo de estas máquinas; Características comunes a las máquinas de tornear automáticas o semiautomáticas dotadas de uno o más husillos de trabajo [2006.01]"
+  },
+  {
+    "code": "B23B 7/02",
+    "description": "••Máquinas automáticas o semiautomáticas para tornear productos en bruto [2006.01]"
+  },
+  {
+    "code": "B23B 7/04",
+    "description": "••••Máquinas de torreta de torno revólver [2006.01]"
+  },
+  {
+    "code": "B23B 7/06",
+    "description": "••••con cabezal deslizante [2006.01]"
+  },
+  {
+    "code": "B23B 7/08",
+    "description": "••••con husillo de trabajo vertical [2006.01]"
+  },
+  {
+    "code": "B23B 7/10",
+    "description": "••••Accesorios, p. ej. escudos protectores [2006.01]"
+  },
+  {
+    "code": "B23B 7/12",
+    "description": "••Máquinas automáticas o semiautomáticas para tornear productos semiacabados [2006.01]"
+  },
+  {
+    "code": "B23B 7/14",
+    "description": "••••con husillo de trabajo horizontal [2006.01]"
+  },
+  {
+    "code": "B23B 7/16",
+    "description": "••••con husillo de trabajo vertical [2006.01]"
+  },
+  {
+    "code": "B23B 9/00",
+    "description": "Máquinas de tornear automáticas o semiautomáticas dotadas de varios husillos de trabajo, p. ej. máquinas automáticas multihusillos en las que los husillos se encuentran dispuestos susceptible de ser colocados en posiciones determinadas; Equipo para estas máquinas (equipo aplicable a las máquinas de un solo husillo B23B 7/00) [2006.01]"
+  },
+  {
+    "code": "B23B 9/02",
+    "description": "••Máquinas automáticas o semiautomáticas para tornear productos brutos [2006.01]"
+  },
+  {
+    "code": "B23B 9/04",
+    "description": "••••con husillos de trabajo horizontales [2006.01]"
+  },
+  {
+    "code": "B23B 9/06",
+    "description": "••••con husillos de trabajo verticales [2006.01]"
+  },
+  {
+    "code": "B23B 9/08",
+    "description": "••Máquinas automáticas o semiautomáticas para tornear productos semiacabados [2006.01]"
+  },
+  {
+    "code": "B23B 9/10",
+    "description": "••••con husillos de trabajo horizontales [2006.01]"
+  },
+  {
+    "code": "B23B 9/12",
+    "description": "••••con husillos de trabajo verticales [2006.01]"
+  },
+  {
+    "code": "B23B 11/00",
+    "description": "Máquinas de tornear automáticas o semiautomáticas que están dotadas del equipo necesario para realizar otros procedimientos de trabajo, p. ej. para mortajado, fresado, laminado [2006.01]"
+  },
+  {
+    "code": "B23B 13/00",
+    "description": "Dispositivos automáticos de transporte, de ajuste sobre mandriles o de guiado de productos en bruto para máquinas de tornear [2006.01]"
+  },
+  {
+    "code": "B23B 13/02",
+    "description": "••para máquinas de tornear con un solo husillo [2006.01]"
+  },
+  {
+    "code": "B23B 13/04",
+    "description": "••para máquinas de tornear con varios husillos [2006.01]"
+  },
+  {
+    "code": "B23B 13/06",
+    "description": "••Dispositivos para interrumpir la marcha de las máquinas de tornear después de realizado el trabajo [2006.01]"
+  },
+  {
+    "code": "B23B 13/08",
+    "description": "••Dispositivos para disminuir las vibraciones en los circuitos de alimentación o para amortiguar los ruidos (amortiguación de ruidos en general G10K) [2006.01]"
+  },
+  {
+    "code": "B23B 13/10",
+    "description": "••con depósitos para los productos brutos [2006.01]"
+  },
+  {
+    "code": "B23B 13/12",
+    "description": "••Accesorios, p. ej. topes, fijadores [2006.01]"
+  },
+  {
+    "code": "B23B 15/00",
+    "description": "Dispositivos de transporte, carga, ajuste, volteo, fijación sobre mandriles, o de descarga, de las piezas a trabajar, especialmente concebidos para las máquinas de tornear automáticas o semiautomáticas [2006.01]"
+  },
+  {
+    "code": "B23B 17/00",
+    "description": "Bancos de torno (estructuras de base, vías de deslizamiento para carros en cuanto tales B23Q 1/00) [2006.01]"
+  },
+  {
+    "code": "B23B 19/00",
+    "description": "Cabezales; Piezas equivalentes para cualesquiera otras máquinas herramientas [2006.01]"
+  },
+  {
+    "code": "B23B 19/02",
+    "description": "••Husillos de trabajo; Características relacionadas con éstos, p. ej. dispositivos de los soportes (B23B 13/00 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B23B 21/00",
+    "description": "Carros de torno; Carros transversales; Carros porta-herramientas (porta-herramientas B23B 29/00); Piezas similares para cualesquiera otras máquinas herramienta [2006.01]"
+  },
+  {
+    "code": "B23B 23/00",
+    "description": "Contrapuntos; Puntos para centrar [2006.01]"
+  },
+  {
+    "code": "B23B 23/02",
+    "description": "••Puntos para centrar fijos [2006.01]"
+  },
+  {
+    "code": "B23B 23/04",
+    "description": "••Puntos para centrar giratorios [2006.01]"
+  },
+  {
+    "code": "B23B 25/00",
+    "description": "Accesorios o equipos auxiliares de las máquinas de tornear (de las máquinas herramientas en general B23Q; enfriamiento o lubrificación B23Q 11/12) [2006.01]"
+  },
+  {
+    "code": "B23B 25/02",
+    "description": "••Dispositivos para romper las virutas en las máquinas de tornear (colocadas sobre las herramientas de corte B23B 27/22) [2006.01]"
+  },
+  {
+    "code": "B23B 25/04",
+    "description": "••Escudos de protección especialmente concebidos para las máquinas de tornear (en general F16P) [2006.01]"
+  },
+  {
+    "code": "B23B 25/06",
+    "description": "••Equipo de medida, de calibrado o de ajuste de las máquinas de tornear para la colocación, avance, control o verificación de las herramientas de corte o de la pieza a trabajar (dispositivos de medida o calibrado G01B) [2006.01]"
+  },
+  {
+    "code": "B23B 27/02",
+    "description": "••Herramientas de corte cuya parte principal es rectilínea y comporta una arista cortante inclinada (B23B 27/04-B23B 27/08 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "B23B 27/04",
+    "description": "••Herramientas de corte en secciones (B23B 27/08 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B23B 27/06",
+    "description": "••Herramientas de corte perfiladas, es decir, herramientas para dar forma [2006.01]"
+  },
+  {
+    "code": "B23B 27/08",
+    "description": "••Herramientas de corte cuya parte principal tiene forma de hoja o de disco [2006.01]"
+  },
+  {
+    "code": "B23B 27/10",
+    "description": "••Herramientas de corte con un dispositivo especial para su enfriamiento [2006.01]"
+  },
+  {
+    "code": "B23B 27/12",
+    "description": "••••con una arista de corte circular en rotación continua; Porta-herramientas para estos útiles [2006.01]"
+  },
+  {
+    "code": "B23B 27/14",
+    "description": "••Herramientas de corte en las que los elementos que tallan o cortan están hechos de materiales especiales [2006.01]"
+  },
+  {
+    "code": "B23B 27/16",
+    "description": "••••con elementos cortantes intercambiables, p. ej. capaces de ser fijados por medio de bridas [2006.01]"
+  },
+  {
+    "code": "B23B 27/18",
+    "description": "••••con elementos cortantes fijados rígidamente, p. ej. por soldadura [2006.01]"
+  },
+  {
+    "code": "B23B 27/20",
+    "description": "••••con elementos cortantes a base de diamantes [2006.01]"
+  },
+  {
+    "code": "B23B 27/22",
+    "description": "••Herramientas de corte que comportan dispositivos para romper las virutas [2006.01]"
+  },
+  {
+    "code": "B23B 27/24",
+    "description": "••Herramientas de moletear [2006.01]"
+  },
+  {
+    "code": "B23B 29/00",
+    "description": "Porta-herramientas para herramientas de corte no rotativas (B23B 27/12 tiene prioridad); Barras o cabezas de escariado; Accesorios para los porta-herramientas [2006.01]"
+  },
+  {
+    "code": "B23B 29/02",
+    "description": "••Barras de escariar [2006.01]"
+  },
+  {
+    "code": "B23B 29/03",
+    "description": "••Cabezas de escariar [2006.01]"
+  },
+  {
+    "code": "B23B 29/034",
+    "description": "••••con herramientas de movimiento radial, p. ej. para hacer chaflanes o rebajes [2006.01]"
+  },
+  {
+    "code": "B23B 29/04",
+    "description": "••Porta-herramientas para un solo útil de corte [2006.01]"
+  },
+  {
+    "code": "B23B 29/06",
+    "description": "••••Porta-herramientas equipados de gargantas longitudinales para la colocación del útil de corte [2006.01]"
+  },
+  {
+    "code": "B23B 29/08",
+    "description": "••••Porta-herramientas equipados de gargantas transversales para la colocación del útil de corte [2006.01]"
+  },
+  {
+    "code": "B23B 29/10",
+    "description": "••••••colocando una base de apoyo regulable para el útil de corte [2006.01]"
+  },
+  {
+    "code": "B23B 29/12",
+    "description": "••••Dispositivos particulares de los porta-herramientas [2006.01]"
+  },
+  {
+    "code": "B23B 29/14",
+    "description": "••••••que permiten una fijación elástica del útil de corte, p. ej. por un ajuste de resorte [2006.01]"
+  },
+  {
+    "code": "B23B 29/16",
+    "description": "••••••para mantener la pieza que va a ser trabajada por medio de una luneta o soporte análogo [2006.01]"
+  },
+  {
+    "code": "B23B 29/18",
+    "description": "••••••para ocultar el útil de corte [2006.01]"
+  },
+  {
+    "code": "B23B 29/20",
+    "description": "••••••para colocar la parte posterior del porta-herramientas en las aberturas de la torreta [2006.01]"
+  },
+  {
+    "code": "B23B 29/22",
+    "description": "••••••para fijar el útil por medio de cuñas o de tirantes [2006.01]"
+  },
+  {
+    "code": "B23B 29/24",
+    "description": "••Porta-herramientas para distintos útiles de corte, p. ej. torretas porta-útiles [2006.01]"
+  },
+  {
+    "code": "B23B 29/26",
+    "description": "••••Porta-herramientas en posición fija [2006.01]"
+  },
+  {
+    "code": "B23B 29/28",
+    "description": "••••Torretas regulables manualmente alrededor de un pivote vertical [2006.01]"
+  },
+  {
+    "code": "B23B 29/30",
+    "description": "••••Torretas regulables manualmente alrededor de un pivote horizontal [2006.01]"
+  },
+  {
+    "code": "B23B 29/32",
+    "description": "••••Torretas accionadas por un motor [2006.01]"
+  },
+  {
+    "code": "B23B 29/34",
+    "description": "••••Torretas equipadas de pulsadores de resorte para desprender los útiles de corte [2006.01]"
+  },
+  {
+    "code": "B23B 31/00",
+    "description": "Mandriles de presión; Mandriles extensibles; Sus adaptaciones para el control a distancia (dispositivos destinados a fijarse sobre un mandril en general B23Q 3/12; fijación por fuerza magnética o eléctrica que actúa directamente sobre las piezas que van a ser trabajadas B23Q 3/152) [2006.01]"
+  },
+  {
+    "code": "B23B 31/02",
+    "description": "••Mandriles de presión [2006.01]"
+  },
+  {
+    "code": "B23B 31/06",
+    "description": "••••Características relativas a las operaciones para retirar las herramientas o las piezas; Accesorios con esta finalidad [2006.01]"
+  },
+  {
+    "code": "B23B 31/07",
+    "description": "••••••Chavetas de eyección [2006.01]"
+  },
+  {
+    "code": "B23B 31/08",
+    "description": "••••Fijación de las herramientas o de las piezas de un modo elástico [2006.01]"
+  },
+  {
+    "code": "B23B 31/10",
+    "description": "••••caracterizados por los dispositivos de retención o de apretado o por sus medios de acción directa [2006.01]"
+  },
+  {
+    "code": "B23B 31/103",
+    "description": "••••••Retención mediante elementos pivotantes, p. ej. mediante ganchos, mediante trinquetes [2006.01]"
+  },
+  {
+    "code": "B23B 31/107",
+    "description": "••••••estando asegurada la retención mediante elementos de detención que actúan lateralmente, p. ej. pernos, tuercas, chavetas; estando asegurada la retención mediante elementos móviles, p. ej. bolas [2006.01]"
+  },
+  {
+    "code": "B23B 31/11",
+    "description": "••••••estando asegurada la retención mediante un enlace roscado [2006.01]"
+  },
+  {
+    "code": "B23B 31/113",
+    "description": "••••••estando asegurada la retención mediante un enlace del tipo de bayoneta [2006.01]"
+  },
+  {
+    "code": "B23B 31/117",
+    "description": "••••••estando asegurada la retención solamente mediante fricción, p. ej. utilizando resortes, manguitos elásticos, conos [2006.01]"
+  },
+  {
+    "code": "B23B 31/12",
+    "description": "••••••Mandriles con mandíbulas de acción simultánea, tanto si son como si no regulables individualmente [2006.01]"
+  },
+  {
+    "code": "B23B 31/14",
+    "description": "••••••••que implican el empleo de la fuerza centrífuga [2006.01]"
+  },
+  {
+    "code": "B23B 31/16",
+    "description": "••••••••desplazables radialmente [2006.01]"
+  },
+  {
+    "code": "B23B 31/163",
+    "description": "••••••••••accionados por al menos una ranura helicoidal [2006.01]"
+  },
+  {
+    "code": "B23B 31/165",
+    "description": "••••••••••accionados por mecanismos de tuerca y tornillo [2006.01]"
+  },
+  {
+    "code": "B23B 31/167",
+    "description": "••••••••••accionados por cremalleras inclinadas [2006.01]"
+  },
+  {
+    "code": "B23B 31/169",
+    "description": "••••••••••accionados por ruedas dentadas (B23B 31/167 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B23B 31/171",
+    "description": "••••••••••accionados por una superficie de leva en un plano radial [2006.01]"
+  },
+  {
+    "code": "B23B 31/173",
+    "description": "••••••••••accionados por superficies cónicas coaxiales (B23B 31/177 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B23B 31/175",
+    "description": "••••••••••accionados por palancas desplazadas mediante un vástago de control coaxial [2006.01]"
+  },
+  {
+    "code": "B23B 31/177",
+    "description": "••••••••••accionados por las superficies oblicuas de un vástago de control coaxial (B23B 31/167 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B23B 31/18",
+    "description": "••••••••desplazables por pivotamiento en los planos del eje del mandril [2006.01]"
+  },
+  {
+    "code": "B23B 31/19",
+    "description": "••••••••desplazables paralelamente al eje del mandril [2006.01]"
+  },
+  {
+    "code": "B23B 31/20",
+    "description": "••••••••Manguitos hendidos longitudinalmente, p. ej. mandriles de tenaza [2006.01]"
+  },
+  {
+    "code": "B23B 31/22",
+    "description": "••••••••Mandíbulas esféricas [2006.01]"
+  },
+  {
+    "code": "B23B 31/24",
+    "description": "••••caracterizados por el sistema de control a distancia de los medios de apretado [2006.01]"
+  },
+  {
+    "code": "B23B 31/26",
+    "description": "••••••utilizando transmisiones mecánicas en el mandril de trabajo [2006.01]"
+  },
+  {
+    "code": "B23B 31/28",
+    "description": "••••••usando medios eléctricos o magnéticos en el mandril [2006.01]"
+  },
+  {
+    "code": "B23B 31/30",
+    "description": "••••••utilizando medios neumáticos o hidráulicos en el mandril [2006.01]"
+  },
+  {
+    "code": "B23B 31/32",
+    "description": "••••con mandíbulas soportadas por un diafragma [2006.01]"
+  },
+  {
+    "code": "B23B 31/34",
+    "description": "••••con medios que permiten volver a hacer bascular la pieza que va a ser trabajada [2006.01]"
+  },
+  {
+    "code": "B23B 31/36",
+    "description": "••••con medios para regular el mandril con relación a la broca de trabajo [2006.01]"
+  },
+  {
+    "code": "B23B 31/38",
+    "description": "••••con embragues para la sobrecarga [2006.01]"
+  },
+  {
+    "code": "B23B 31/39",
+    "description": "••••Cambiadores de mandíbulas [2006.01]"
+  },
+  {
+    "code": "B23B 31/40",
+    "description": "••Mandriles extensibles [2006.01]"
+  },
+  {
+    "code": "B23B 31/42",
+    "description": "••••caracterizados principalmente por el sistema de control a distancia de los medios de apretado [2006.01]"
+  },
+  {
+    "code": "B23B 33/00",
+    "description": "Dispositivos para propulsar las piezas que van a ser trabajadas; Puntos para centrar que transmiten el movimiento; Topes de arrastre [2006.01]"
+  },
+  {
+    "code": "B23B 35/00",
+    "description": "Métodos de escariado o de taladrado u otros métodos de trabajo que implican la utilización de máquinas de escariar o de perforar; Utilización de equipos auxiliares en relación con estos métodos [2006.01]"
+  },
+  {
+    "code": "B23B 37/00",
+    "description": "Escariado utilizando vibraciones de frecuencia ultrasonora (para trabajo de materiales utilizando productos o útiles abrasivos sometidos a vibraciones, p. ej. abrasivos en frecuencia ultrasonora, B24B 1/04) [2006.01]"
+  },
+  {
+    "code": "B23B 39/00",
+    "description": "Máquinas o dispositivos de utilización general, para el escariado o el taladrado; Conjunto de máquinas para escariar o perforar [2006.01]"
+  },
+  {
+    "code": "B23B 39/02",
+    "description": "••Máquinas de escariar; Máquinas horizontales combinadas para escariar y fresar [2006.01]"
+  },
+  {
+    "code": "B23B 39/04",
+    "description": "••Máquinas de escariar o de taladrar que trabajan en coordinación; Máquinas para taladrar orificios sin marca previa [2006.01]"
+  },
+  {
+    "code": "B23B 39/06",
+    "description": "••••Equipo para la colocación de las piezas que van a ser trabajadas [2006.01]"
+  },
+  {
+    "code": "B23B 39/08",
+    "description": "••••Dispositivos para el control programado [2006.01]"
+  },
+  {
+    "code": "B23B 39/10",
+    "description": "••caracterizados por el sistema de propulsión, p. ej. propulsión hidráulica, propulsión neumática [2006.01]"
+  },
+  {
+    "code": "B23B 39/12",
+    "description": "••Máquinas de taladrar radiales [2006.01]"
+  },
+  {
+    "code": "B23B 39/14",
+    "description": "••que comportan una disposición particular que permita a la máquina o a la cabeza de perforación o de escariado desplazarse hacia una posición deseada cualquiera, p. ej. con relación a una pieza fija que va a ser trabajada [2006.01]"
+  },
+  {
+    "code": "B23B 39/16",
+    "description": "••Máquinas de taladrar multi-brocas; Taladradoras automáticas [2006.01]"
+  },
+  {
+    "code": "B23B 39/18",
+    "description": "••••que desplazan las piezas a trabajar o los útiles a posiciones de trabajo sucesivas a lo largo de una línea recta [2006.01]"
+  },
+  {
+    "code": "B23B 39/20",
+    "description": "••••que desplazan las piezas a trabajar o los útiles a posiciones de trabajo sucesivas situadas sobre un círculo; Máquinas de taladrar de torreta revólver [2006.01]"
+  },
+  {
+    "code": "B23B 39/22",
+    "description": "••••en las que las brocas de trabajo se encuentran sobre cabezales opuestos [2006.01]"
+  },
+  {
+    "code": "B23B 39/24",
+    "description": "••••concebidas para un control programado [2006.01]"
+  },
+  {
+    "code": "B23B 39/26",
+    "description": "••en las que la posición de trabajo del útil o de la pieza está controlada por copiado a partir de puntos determinados de un modelo (características de los dispositivos para copiar B23Q 35/02) [2006.01]"
+  },
+  {
+    "code": "B23B 39/28",
+    "description": "••Asociaciones de máquinas capaces sólo de escariar o de taladrar, con vistas a un resultado particular (si no es con vistas a un resultado particular B23Q 39/00) [2006.01]"
+  },
+  {
+    "code": "B23B 41/00",
+    "description": "Máquinas o dispositivos para escariar o taladrar especialmente adaptados para un trabajo particular; Accesorios especialmente concebidos a estos fines [2006.01]"
+  },
+  {
+    "code": "B23B 41/02",
+    "description": "••para escariar orificios profundos; para escariar con ayuda de taladros de corona, p. ej. cañones de fusiles o de carabinas [2006.01]"
+  },
+  {
+    "code": "B23B 41/04",
+    "description": "••para escariar orificios poligonales u otros orificios no circulares [2006.01]"
+  },
+  {
+    "code": "B23B 41/06",
+    "description": "••para escariar orificios cónicos [2006.01]"
+  },
+  {
+    "code": "B23B 41/08",
+    "description": "••para escariar, perforar o aterrajar orificios en tubos sometidos a presión (características u operaciones en relaciones con la estanqueidad en combinación con la instalación de piezas de derivación F16L 41/04) [2006.01]"
+  },
+  {
+    "code": "B23B 41/10",
+    "description": "••para escariar orificios en calderas de vapor [2006.01]"
+  },
+  {
+    "code": "B23B 41/12",
+    "description": "••para formar las superficies de trabajo de los cilindros, de los palieres, p. ej. en las cabezas de bielas motrices, u otras piezas de motores [2006.01]"
+  },
+  {
+    "code": "B23B 41/14",
+    "description": "••para formar orificios muy pequeños [2006.01]"
+  },
+  {
+    "code": "B23B 41/16",
+    "description": "••para escariar orificios con superficies de alta calidad [2006.01]"
+  },
+  {
+    "code": "B23B 43/00",
+    "description": "Dispositivos de escariado o de taladrado susceptibles de ser montados sobre una máquina-herramienta, tanto si estos dispositivos reemplazan como si no a una parte de la máquina-herramienta (dispositivos especialmente adaptados a un trabajo particular B23B 41/00) [2006.01]"
+  },
+  {
+    "code": "B23B 43/02",
+    "description": "••susceptibles de ser montados sobre el contrapunto de un torno [2006.01]"
+  },
+  {
+    "code": "B23B 45/00",
+    "description": "Taladradoras manuales o taladradoras análogas portátiles, p. ej. en forma de pistola; Equipos a este efecto (detalles o partes constitutivas, p. ej. carcasa, cuerpos de herramientas portátiles con motor no particularmente relacionadas con la operación ejecutada B25F 5/00) [2006.01]"
+  },
+  {
+    "code": "B23B 45/02",
+    "description": "••propulsadas eléctricamente [2006.01]"
+  },
+  {
+    "code": "B23B 45/04",
+    "description": "••propulsadas hidráulicamente o neumáticamente [2006.01]"
+  },
+  {
+    "code": "B23B 45/06",
+    "description": "••propulsadas por la fuerza humana [2006.01]"
+  },
+  {
+    "code": "B23B 45/08",
+    "description": "••••para perforar raíles u otras piezas perfiladas [2006.01]"
+  },
+  {
+    "code": "B23B 45/10",
+    "description": "••••utilizando un arco o una correa [2006.01]"
+  },
+  {
+    "code": "B23B 45/12",
+    "description": "••••utilizando un dispositivo de rueda dentada [2006.01]"
+  },
+  {
+    "code": "B23B 45/14",
+    "description": "••Medios para sujetar o guiar la taladradora o para fijarla a la pieza que se va a trabajar (B23B 41/08 tiene prioridad); Soportes de topes [2006.01]"
+  },
+  {
+    "code": "B23B 45/16",
+    "description": "••con acción de percusión superpuesta (máquinas portátiles de percusión con rotación superpuesta B25D 16/00) [2006.01]"
+  },
+  {
+    "code": "B23B 47/00",
+    "description": "Características de estructura de los elementos constitutivos especialmente concebidos para las máquinas de escariar o de taladrar; Accesorios de estas máquinas (husillos de trabajo, palieres correspondientes B23B 19/02; para máquinas herramientas en general B23Q) [2006.01]"
+  },
+  {
+    "code": "B23B 47/02",
+    "description": "••Propulsión; Transmisiones (B23B 39/10 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B23B 47/04",
+    "description": "••••para hacer girar el husillo de trabajo [2006.01]"
+  },
+  {
+    "code": "B23B 47/06",
+    "description": "••••••principalmente por medios eléctricos [2006.01]"
+  },
+  {
+    "code": "B23B 47/08",
+    "description": "••••••principalmente por la presión de un fluido o una energía neumática [2006.01]"
+  },
+  {
+    "code": "B23B 47/10",
+    "description": "••••••••comportando turbinas u otras máquinas rotativas [2006.01]"
+  },
+  {
+    "code": "B23B 47/12",
+    "description": "••••••••comportando pistones oscilantes [2006.01]"
+  },
+  {
+    "code": "B23B 47/14",
+    "description": "••••••Transmisiones de cambio de velocidad; Mecanismos de inversión de la marcha [2006.01]"
+  },
+  {
+    "code": "B23B 47/16",
+    "description": "••••••Transmisión por correas o cadenas [2006.01]"
+  },
+  {
+    "code": "B23B 47/18",
+    "description": "••••para el avance o el retorno del útil o de la pieza [2006.01]"
+  },
+  {
+    "code": "B23B 47/20",
+    "description": "••••••principalmente por la energía eléctrica [2006.01]"
+  },
+  {
+    "code": "B23B 47/22",
+    "description": "••••••principalmente por la presión de un fluido o de una energía neumática [2006.01]"
+  },
+  {
+    "code": "B23B 47/24",
+    "description": "••••••Topes de freno o interrupción del avance debido a la ruptura o a la sobrecarga del útil de escariado o de perforado [2006.01]"
+  },
+  {
+    "code": "B23B 47/26",
+    "description": "••Puntas de taladro o cabezales portahusillos capaces de efectuar un movimiento ascendente o descendente; Dispositivos para el equilibrado de estos elementos [2006.01]"
+  },
+  {
+    "code": "B23B 47/28",
+    "description": "••Plantillas para perforar piezas (equipo para la colocación o el guiado del taladro B23B 49/00) [2006.01]"
+  },
+  {
+    "code": "B23B 47/30",
+    "description": "••Transmisión adicional a uno o a varios husillos capaces de ser fijados al husillo principal de trabajo; Montaje de la transmisión adicional [2006.01]"
+  },
+  {
+    "code": "B23B 47/32",
+    "description": "••Dispositivos que impiden el bloqueo o la ruptura de los taladros cuando son extraídos [2006.01]"
+  },
+  {
+    "code": "B23B 47/34",
+    "description": "••Dispositivos para retirar las virutas de los orificios durante la perforación; Dispositivos fijados al útil para romper las virutas [2006.01]"
+  },
+  {
+    "code": "B23B 49/00",
+    "description": "Sistemas de medida o de calibrado de las máquinas de escariar para la colocación o el guiado del taladro; Dispositivos para indicar los defectos de los taladros durante el escariado; Dispositivos para centrar los orificios que van a ser escariados (equipo demarcado B25H 7/00; dispositivos de medida, calibres G01B) [2006.01]"
+  },
+  {
+    "code": "B23B 49/02",
+    "description": "••Plantillas o guías de escariado [2006.01]"
+  },
+  {
+    "code": "B23B 49/04",
+    "description": "••Dispositivos para escariar o taladrar orificios de centrado en las piezas que van a ser trabajadas [2006.01]"
+  },
+  {
+    "code": "B23B 49/06",
+    "description": "••Dispositivos para taladrar orificios en las cintas o guarniciones de los frenos [2006.01]"
+  },
+  {
+    "code": "B23B 51/00",
+    "description": "Herramientas para máquinas de taladrar [2006.01]"
+  },
+  {
+    "code": "B23B 51/02",
+    "description": "••Brocas helicoidales [2006.01]"
+  },
+  {
+    "code": "B23B 51/04",
+    "description": "••para taladrar [2006.01]"
+  },
+  {
+    "code": "B23B 51/05",
+    "description": "••••para cortar discos de una chapa [2006.01]"
+  },
+  {
+    "code": "B23B 51/06",
+    "description": "••Brocas previstas para ser lubrificadas o enfriadas [2006.01]"
+  },
+  {
+    "code": "B23B 51/08",
+    "description": "••Brocas combinadas con otros útiles o partes de útiles para efectuar un trabajo adicional [2006.01]"
+  },
+  {
+    "code": "B23B 51/10",
+    "description": "••Brocas para biselar, p. ej. que trabajan como las fresas [2006.01]"
+  },
+  {
+    "code": "B23B 51/12",
+    "description": "••Adaptadores para brocas o mandriles; Guías de reducción cónicas [2006.01]"
+  },
+  {
+    "code": "B23B 51/14",
+    "description": "••••Adaptadores que permiten la utilización de brocas rotas [2006.01]"
+  }
+]

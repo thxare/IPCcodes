@@ -1,0 +1,446 @@
+[
+  {
+    "code": "H01C 1/00",
+    "description": "Detalles [2006.01]"
+  },
+  {
+    "code": "H01C 1/01",
+    "description": "••Montaje; Soporte [2006.01]"
+  },
+  {
+    "code": "H01C 1/012",
+    "description": "••••el elemento de base se extiende a lo largo de la resistencia para ponerla rígida o para reenforzarle (H01C 1/016 tiene prioridad; elemento resistivo formado de varias espiras o bucles que constituyen un arrollamiento espiral, helicoidal o toroidal H01C 3/18, H01C 3/20; elemento resistivo constituido por una o varias capas o revestimientos sobre un elemento de base H01C 7/00) [2006.01]"
+  },
+  {
+    "code": "H01C 1/014",
+    "description": "••••la resistencia está mantenida y soportada entre dos elementos de soporte (H01C 1/016 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01C 1/016",
+    "description": "••••con compensación de la dilatación o contracción de la resistencia [2006.01]"
+  },
+  {
+    "code": "H01C 1/02",
+    "description": "••Cubiertas; Envolturas; Revestido; Rellenado de cubiertas o de envolturas [2006.01]"
+  },
+  {
+    "code": "H01C 1/022",
+    "description": "••••la cubierta o envoltura puede estar abierta o separada del elemento resistivo [2006.01]"
+  },
+  {
+    "code": "H01C 1/024",
+    "description": "••••la cubierta o envoltura está cerrada herméticamente (H01C 1/028, H01C 1/032, H01C 1/034 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H01C 1/026",
+    "description": "••••••con un gas o el vacío entre el elemento resistivo y el cárter o la envoltura [2006.01]"
+  },
+  {
+    "code": "H01C 1/028",
+    "description": "••••el elemento resistivo está envuelto por un material aislante provisto de una funda exterior [2006.01]"
+  },
+  {
+    "code": "H01C 1/03",
+    "description": "••••••en un material aislante en polvo [2006.01]"
+  },
+  {
+    "code": "H01C 1/032",
+    "description": "••••con varias capas que rodean al elemento resistivo (H01C 1/028 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01C 1/034",
+    "description": "••••la cubierta o envoltura están constituidas por un revestimiento o un molde sin funda exterior (H01C 1/032 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01C 1/036",
+    "description": "••••••sobre un elemento resistivo enrollado [2006.01]"
+  },
+  {
+    "code": "H01C 1/04",
+    "description": "••Disposiciones de distinción, p. ej. código de colores [2006.01]"
+  },
+  {
+    "code": "H01C 1/06",
+    "description": "••Disposiciones de pantallas electrostáticas o electromagnéticas [2006.01]"
+  },
+  {
+    "code": "H01C 1/08",
+    "description": "••Disposiciones de refrigeración, calentamiento o ventilación [2006.01]"
+  },
+  {
+    "code": "H01C 1/082",
+    "description": "••••por medio de una circulación forzada de fluido [2006.01]"
+  },
+  {
+    "code": "H01C 1/084",
+    "description": "••••por refrigeración natural, p. ej. aletas, disipadores térmicos [2006.01]"
+  },
+  {
+    "code": "H01C 1/12",
+    "description": "••Disposiciones de colectores de corriente [2006.01]"
+  },
+  {
+    "code": "H01C 1/125",
+    "description": "••••de contactos fluidos [2006.01]"
+  },
+  {
+    "code": "H01C 1/14",
+    "description": "••Bornes o puntos de toma especialmente adaptados a las resistencias; Disposiciones de bornes o puntos de toma en las resistencias [2006.01]"
+  },
+  {
+    "code": "H01C 1/142",
+    "description": "••••los bornes o puntos de toma están constituidos por un revestimiento aplicado sobre el elemento resistivo [2006.01]"
+  },
+  {
+    "code": "H01C 1/144",
+    "description": "••••los bornes o puntos de toma están soldados o fundidos [2006.01]"
+  },
+  {
+    "code": "H01C 1/146",
+    "description": "••••el elemento resistivo rodea el terminal [2006.01]"
+  },
+  {
+    "code": "H01C 1/148",
+    "description": "••••los bornes envuelven o rodean el elemento resistivo (H01C 1/142 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01C 1/16",
+    "description": "••Redes de resistencias no previstos en otro lugar [2006.01]"
+  },
+  {
+    "code": "H01C 3/00",
+    "description": "Resistencias metálicas fijas en filamento o en cinta, p. ej. bobinadas, trenzadas o en forma de rejilla [2006.01]"
+  },
+  {
+    "code": "H01C 3/02",
+    "description": "••dispuestas o estructuradas para reducir la autoinducción, la capacidad o la variación en función de la frecuencia [2006.01]"
+  },
+  {
+    "code": "H01C 3/04",
+    "description": "••Resistencias de balastos en filamento de hierro; Resistencias similares de coeficiente de temperatura variable [2006.01]"
+  },
+  {
+    "code": "H01C 3/06",
+    "description": "••Resistencias flexibles o plegables, que pueden ponerse en bucle o replegarse sobre sí mismo [2006.01]"
+  },
+  {
+    "code": "H01C 3/08",
+    "description": "••Elemento resistivo en el que la dimensión o la característica cambia de manera continua o por pasos discretos desde un terminal a otro [2006.01]"
+  },
+  {
+    "code": "H01C 3/10",
+    "description": "••el elemento resistivo tiene una forma de zig-zag o sinuoso [2006.01]"
+  },
+  {
+    "code": "H01C 3/12",
+    "description": "••••situado en un plano [2006.01]"
+  },
+  {
+    "code": "H01C 3/14",
+    "description": "••el elemento resistivo está formado de varias espiras o bucles arrollados en espiral, hélice o en forma de toro (H01C 3/02-H01C 3/12 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H01C 3/16",
+    "description": "••••con varios elementos arrollados distintos o varias configuraciones de arrollamiento [2006.01]"
+  },
+  {
+    "code": "H01C 3/18",
+    "description": "••••arrollados sobre un elemento de base plano o en forma de cinta (H01C 3/16 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01C 3/20",
+    "description": "••••arrollados sobre un elemento de base cilíndrico o prismático (H01C 3/16 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01C 7/00",
+    "description": "Resistencias fijas constituidas por una o varias capas o revestimientos; Resistencias fijas constituidas de un material conductor en polvo o de un material semiconductor en polvo con o sin material aislante (constituidas de material pulverulento o granular H01C 8/00; resistencias con barrera de potencial o barrera de superficie, p. ej. resistencias de efecto de campo, H01L 29/00; dispositivos semiconductores sensibles a las radiaciones electromagnéticas o corpusculares, p. ej. células fotorresistentes, H01L 31/00; resistencia controladas por campo magneticos H10N 50/10; dispositivos de resistencia negativa de volumen H10N 80/00) [2006.01]"
+  },
+  {
+    "code": "H01C 7/02",
+    "description": "••con coeficiente positivo de temperatura [2006.01]"
+  },
+  {
+    "code": "H01C 7/04",
+    "description": "••con coeficiente negativo de temperatura [2006.01]"
+  },
+  {
+    "code": "H01C 7/06",
+    "description": "••que presentan medios para reducir al mínimo las variaciones de resistencia que dependen de las variaciones de temperatura [2006.01]"
+  },
+  {
+    "code": "H01C 7/10",
+    "description": "••sensibles a la tensión, p. ej. varistores [2006.01]"
+  },
+  {
+    "code": "H01C 7/102",
+    "description": "••••Capa de barrera de varistores, p. ej. capas de superficie (H01C 7/12 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01C 7/105",
+    "description": "••••Núcleos de varistores (H01C 7/12 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01C 7/108",
+    "description": "••••••de óxido metálico [2006.01]"
+  },
+  {
+    "code": "H01C 7/112",
+    "description": "••••••••del tipo ZnO [2006.01]"
+  },
+  {
+    "code": "H01C 7/115",
+    "description": "••••••••del tipo dióxido de titanio o titanato [2006.01]"
+  },
+  {
+    "code": "H01C 7/118",
+    "description": "••••••de carburo, p. ej. del tipo SiC [2006.01]"
+  },
+  {
+    "code": "H01C 7/12",
+    "description": "••••Resistencias de protección contra sobretensiones; Pararrayos [2006.01]"
+  },
+  {
+    "code": "H01C 7/13",
+    "description": "••sensibles a la corriente [2006.01]"
+  },
+  {
+    "code": "H01C 7/18",
+    "description": "••con varias capas apiladas entre terminales [2006.01]"
+  },
+  {
+    "code": "H01C 7/20",
+    "description": "••la capa o el revestimiento resistivo son de sección decreciente [2006.01]"
+  },
+  {
+    "code": "H01C 7/22",
+    "description": "••Elemento resistivo alargado, plegado o curvado, p. ej. senoidal o en hélice [2006.01]"
+  },
+  {
+    "code": "H01C 8/00",
+    "description": "Resistencias fijas en material conductor pulverulento o granular, o en material semiconductor pulverulento o granular [2006.01]"
+  },
+  {
+    "code": "H01C 8/02",
+    "description": "••Cohesores o resistencias imperfectas análogas para detección de ondas electromagnéticas [2006.01]"
+  },
+  {
+    "code": "H01C 8/04",
+    "description": "••Resistencias de protección contra sobretensiones; Pararrayos [2006.01]"
+  },
+  {
+    "code": "H01C 10/00",
+    "description": "Resistencias variables [2006.01]"
+  },
+  {
+    "code": "H01C 10/02",
+    "description": "••Resistencias líquidas [2006.01]"
+  },
+  {
+    "code": "H01C 10/04",
+    "description": "••con una relación matemática dada entre el movimiento del medio de control de la resistencia y el valor de la resistencia, siendo esta relación distinta de una relación directa de proporcionalidad [2006.01]"
+  },
+  {
+    "code": "H01C 10/06",
+    "description": "••variables por puesta en cortocircuito de diferentes porciones del elemento resistivo [2006.01]"
+  },
+  {
+    "code": "H01C 10/08",
+    "description": "••••con piezas conductoras interpuestas entre el elemento resistivo y los medios de puesta en cortocircuito, p. ej. tomas [2006.01]"
+  },
+  {
+    "code": "H01C 10/10",
+    "description": "••variables por presión o fuerza mecánica [2006.01]"
+  },
+  {
+    "code": "H01C 10/12",
+    "description": "••••por cambio de la presión entre dos masas resistivas o entre una masa resistiva y otra conductora, p. ej. del tipo apilado [2006.01]"
+  },
+  {
+    "code": "H01C 10/14",
+    "description": "••variables por medios de control auxiliares [2006.01]"
+  },
+  {
+    "code": "H01C 10/16",
+    "description": "••con una pluralidad de elementos resistivos [2006.01]"
+  },
+  {
+    "code": "H01C 10/18",
+    "description": "••••con elementos resistivos que presentan valores groseros y valores precisos [2006.01]"
+  },
+  {
+    "code": "H01C 10/20",
+    "description": "••••los órganos de contacto o los elementos resistivos móviles están asociados en movimiento [2006.01]"
+  },
+  {
+    "code": "H01C 10/22",
+    "description": "••las dimensiones del elemento resistivo varían de una forma continua en una dirección, p. ej. elemento resistivo cónico (H01C 10/04 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01C 10/23",
+    "description": "••las dimensiones del elemento resistivo varían por una serie de pasos progresivos [2006.01]"
+  },
+  {
+    "code": "H01C 10/24",
+    "description": "••el contacto se desplaza a lo largo de las espiras de un elemento resistivo en hélice, o viceversa [2006.01]"
+  },
+  {
+    "code": "H01C 10/26",
+    "description": "••el elemento resistivo se desplaza (H01C 10/16, H01C 10/24 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H01C 10/28",
+    "description": "••el contacto bascula o rueda a lo largo del elemento resistivo o de los puntos de toma [2006.01]"
+  },
+  {
+    "code": "H01C 10/30",
+    "description": "••el contacto desliza a lo largo del elemento resistivo [2006.01]"
+  },
+  {
+    "code": "H01C 10/32",
+    "description": "••••el contacto se desplaza según un arco [2006.01]"
+  },
+  {
+    "code": "H01C 10/34",
+    "description": "••••••el contacto o el medio conductor asociado se desplaza sobre un colector en forma de anillo o parte de anillo [2006.01]"
+  },
+  {
+    "code": "H01C 10/36",
+    "description": "••••••asociados estructuralmente a medios de conmutación [2006.01]"
+  },
+  {
+    "code": "H01C 10/38",
+    "description": "••••el contacto se desplaza en línea recta [2006.01]"
+  },
+  {
+    "code": "H01C 10/40",
+    "description": "••••••accionado por un tornillo [2006.01]"
+  },
+  {
+    "code": "H01C 10/42",
+    "description": "••••••••el contacto se desliza constituyendo un puente entre el elemento resistivo y una barra conductora o un colector paralelo [2006.01]"
+  },
+  {
+    "code": "H01C 10/44",
+    "description": "••••••el contacto se desliza constituyendo un puente entre el elemento resistivo y una barra conductora o un colector paralelo (H01C 10/42 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01C 10/46",
+    "description": "••Disposiciones de resistencias fijas provistas de medios de conexión, p. ej. clavijas (H01C 10/28, H01C 10/30 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H01C 10/48",
+    "description": "••••con un contacto que se desplaza según un arco [2006.01]"
+  },
+  {
+    "code": "H01C 10/50",
+    "description": "••asociados estructuralmente a un medio de conmutación (H01C 10/36 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H01C 11/00",
+    "description": "Resistencias líquidas fijas [2006.01]"
+  },
+  {
+    "code": "H01C 13/00",
+    "description": "Resistencias no previstas en otro lugar [2006.01]"
+  },
+  {
+    "code": "H01C 13/02",
+    "description": "••Combinaciones estructurales de resistencias [2006.01]"
+  },
+  {
+    "code": "H01C 17/00",
+    "description": "Aparatos o procesos especialmente adaptados a la fabricación de resistencias (guarniciones de cárters o de envolturas H01C 1/02; reducción en polvo del aislante que rodea una resistencia H01C 1/03; fabricación de resistencias dependientes de la temperatura H01C 7/02, H01C 7/04) [2006.01]"
+  },
+  {
+    "code": "H01C 17/02",
+    "description": "••adaptados a la fabricación de resistencias con envoltura o cárter (aparatos o procedimientos para rellenar o comprimir un material aislante en tubos de elementos calefactores H05B 3/52) [2006.01]"
+  },
+  {
+    "code": "H01C 17/04",
+    "description": "••adaptados para enrollar el elemento resistivo [2006.01]"
+  },
+  {
+    "code": "H01C 17/06",
+    "description": "••adaptados para depositar en capa el material resistivo sobre un elemento de base [2006.01]"
+  },
+  {
+    "code": "H01C 17/065",
+    "description": "••••por técnicas de película gruesa, p. ej. serigrafía [2006.01]"
+  },
+  {
+    "code": "H01C 17/07",
+    "description": "••••por conexión de hojas resistivas, p. ej. chapado [2006.01]"
+  },
+  {
+    "code": "H01C 17/075",
+    "description": "••••por técnicas de película delgada [2006.01]"
+  },
+  {
+    "code": "H01C 17/08",
+    "description": "••••••por depósito en fase vaporosa [2006.01]"
+  },
+  {
+    "code": "H01C 17/10",
+    "description": "••••••por proyección a la llama [2006.01]"
+  },
+  {
+    "code": "H01C 17/12",
+    "description": "••••••por pulverización [2006.01]"
+  },
+  {
+    "code": "H01C 17/14",
+    "description": "••••••por depósito químico [2006.01]"
+  },
+  {
+    "code": "H01C 17/16",
+    "description": "••••••••por medio de una corriente eléctrica [2006.01]"
+  },
+  {
+    "code": "H01C 17/18",
+    "description": "••••••••sin utilizar una corriente eléctrica [2006.01]"
+  },
+  {
+    "code": "H01C 17/20",
+    "description": "••••por procesos pirolíticos [2006.01]"
+  },
+  {
+    "code": "H01C 17/22",
+    "description": "••adaptados para ajustar el valor de la resistencia [2006.01]"
+  },
+  {
+    "code": "H01C 17/23",
+    "description": "••••cerrando o abriendo las bandas resistivas de un valor predeterminado [2006.01]"
+  },
+  {
+    "code": "H01C 17/232",
+    "description": "••••Ajustando el coeficiente de temperatura; Ajutando el valor de la resistencia de acuerdo con el ajuste del coeficiente de temperatura [2006.01]"
+  },
+  {
+    "code": "H01C 17/235",
+    "description": "••••Por ajuste inicial de las partes de un potenciómetro para el calibrado [2006.01]"
+  },
+  {
+    "code": "H01C 17/24",
+    "description": "••••suprimiendo o añadiendo material resistivo (H01C 17/23, H01C 17/232, H01C 17/235 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H01C 17/242",
+    "description": "••••••por láser [2006.01]"
+  },
+  {
+    "code": "H01C 17/245",
+    "description": "••••••por medios mecánicos, p. ej. chorro de arena, seccionado, tratamento ultrasónico [2006.01]"
+  },
+  {
+    "code": "H01C 17/26",
+    "description": "••••transformando el material resistivo [2006.01]"
+  },
+  {
+    "code": "H01C 17/28",
+    "description": "••adaptados para aplicar los terminales [2006.01]"
+  },
+  {
+    "code": "H01C 17/30",
+    "description": "••adaptados a la cocción [2006.01]"
+  }
+]

@@ -1,0 +1,230 @@
+[
+  {
+    "code": "H03D 1/00",
+    "description": "Demodulación de oscilaciones moduladas en amplitud (H03D 5/00, H03D 9/00, H03D 11/00 tienen prioridad; demoduladores de amplitud adaptado para sistemas de portadora moduladas digitalmente, p. ej., utilizando codificación on-off, banda lateral única o banda lateral vestigial H04L 27/06) [2006.01]"
+  },
+  {
+    "code": "H03D 1/02",
+    "description": "••Detalles [2006.01]"
+  },
+  {
+    "code": "H03D 1/04",
+    "description": "••••Modificaciones de demoduladores para reducir interferencias debidas a señales no deseadas [2006.01]"
+  },
+  {
+    "code": "H03D 1/06",
+    "description": "••••Modificaciones de demoduladores para reducir la distorsión, p. ej. por realimentación negativa [2006.01]"
+  },
+  {
+    "code": "H03D 1/08",
+    "description": "••por medio de dipolos no lineales (H03D 1/22, H03D 1/26, H03D 1/28 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H03D 1/10",
+    "description": "••••Diodos [2006.01]"
+  },
+  {
+    "code": "H03D 1/12",
+    "description": "••••••con medios para igualar las cargas en corriente alterna y en corriente continua [2006.01]"
+  },
+  {
+    "code": "H03D 1/14",
+    "description": "••por medio de elementos no lineales que tienen más de dos polos (H03D 1/22, H03D 1/26, H03D 1/28 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H03D 1/16",
+    "description": "••••Tubos de descarga [2006.01]"
+  },
+  {
+    "code": "H03D 1/18",
+    "description": "••••Dispositivos de semiconductores [2006.01]"
+  },
+  {
+    "code": "H03D 1/20",
+    "description": "••••con medios para evitar un tipo de demodulación no deseada, p. ej. evitando la detección por el ánodo de un circuito de detección por la rejilla [2006.01]"
+  },
+  {
+    "code": "H03D 1/22",
+    "description": "••Circuitos homodino o circuitos sincrodino [2006.01]"
+  },
+  {
+    "code": "H03D 1/24",
+    "description": "••••para demodulación de señales en las cuales una banda lateral o la portadora han sido suprimidas total o parcialmente [2006.01]"
+  },
+  {
+    "code": "H03D 1/26",
+    "description": "••por medio de tubos de tiempo de tránsito [2006.01]"
+  },
+  {
+    "code": "H03D 1/28",
+    "description": "••por desviación de un haz electrónico en un tubo de descarga (H03D 1/26 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H03D 3/00",
+    "description": "Demodulación de oscilaciones moduladas en ángulo (H03D 5/00, H03D 9/00, H03D 11/00 tienen prioridad; demoduladores de frecuencia adaptada para sistemas de portadora con modulación digital, p. ej. utilizando modulación por desplazamiento de frecuencia H04L 27/14; demoduladores de fase adaptado para sistemas de portadora con modulación digital, p. ej. utilizando codigo de desplazamiento enfase H04L 27/22) [2006.01]"
+  },
+  {
+    "code": "H03D 3/02",
+    "description": "••detectando la diferencia de fase entre dos señales obtenidas a partir de la señal de entrada (H03D 3/28-H03D 3/32 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H03D 3/04",
+    "description": "••••por recuento o integración de períodos de oscilaciones [2006.01]"
+  },
+  {
+    "code": "H03D 3/06",
+    "description": "••••por combinación de señales en adición o en demoduladores de producto [2006.01]"
+  },
+  {
+    "code": "H03D 3/08",
+    "description": "••••••por medio de diodos, p. ej. discriminador Foster-Seeley [2006.01]"
+  },
+  {
+    "code": "H03D 3/10",
+    "description": "••••••••en el cual los diodos están conduciendo simultáneamente durante la misma mitad de período de la señal, p. ej. detector de proporción [2006.01]"
+  },
+  {
+    "code": "H03D 3/12",
+    "description": "••••••por medio de tubos de descarga que tienen más de dos electrodos [2006.01]"
+  },
+  {
+    "code": "H03D 3/14",
+    "description": "••••••por medios de dispositivos de semiconductores que tienen más de dos electrodos [2006.01]"
+  },
+  {
+    "code": "H03D 3/16",
+    "description": "••••••por medio de resonadores electromecánicos [2006.01]"
+  },
+  {
+    "code": "H03D 3/18",
+    "description": "••••por medio de disposiciones de apertura síncronas [2006.01]"
+  },
+  {
+    "code": "H03D 3/20",
+    "description": "••••••produciendo impulsos cuya amplitud o duración depende de la diferencia de fase [2006.01]"
+  },
+  {
+    "code": "H03D 3/22",
+    "description": "••••por medio de elementos activos con más de dos electrodos a los cuales se aplican dos señales obtenidas de la señal a demodular y que tienen una diferencia de fase relacionada con a la desviación de frecuencia, p. ej. detector de fase [2006.01]"
+  },
+  {
+    "code": "H03D 3/24",
+    "description": "••••Modificaciones de demoduladores para rechazar o suprimir variaciones de amplitud por medio de circuitos osciladores enclavados [2006.01]"
+  },
+  {
+    "code": "H03D 3/26",
+    "description": "••por medio de una característica amplitud/frecuencia en pendiente de un circuito sintonizado o reactivo (H03D 3/28-H03D 3/32 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H03D 3/28",
+    "description": "••Modificaciones de demoduladores para reducir el efecto de las variaciones de temperatura [2006.01]"
+  },
+  {
+    "code": "H03D 3/30",
+    "description": "••por medio de tubos de tiempo de tránsito [2006.01]"
+  },
+  {
+    "code": "H03D 3/32",
+    "description": "••por desviación de un haz electrónico en un tubo de descarga (H03D 3/30 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H03D 3/34",
+    "description": "••por medio de dispositivos electromecánicos (H03D 3/16 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H03D 5/00",
+    "description": "Circuitos para la demodulación de oscilaciones moduladas en amplitud o moduladas en ángulo a voluntad (H03D 9/00, H03D 11/00 tienen prioridad; demoduladores adaptado para sistemas de portadora con modulación digital, caracterizados por combinaciones de modulación de amplitud y ángulo de, p. ej. modulación de amplitud en cuadratura H04L 27/38) [2006.01]"
+  },
+  {
+    "code": "H03D 7/00",
+    "description": "Transferencia de modulación de una portadora a otra, p. ej. cambio de frecuencia (H03D 9/00, H03D 11/00 tienen prioridad; amplificadores dieléctricos, amplificadores magnéticos, amplificadores paramétricos utilizados como cambiadores de frecuencia H03F) [2006.01]"
+  },
+  {
+    "code": "H03D 7/02",
+    "description": "••por medio de diodos (H03D 7/14-H03D 7/22 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H03D 7/04",
+    "description": "••••teniendo una característica de resistencia negativa, p. ej. diodo túnel [2006.01]"
+  },
+  {
+    "code": "H03D 7/06",
+    "description": "••por medio de tubos de descarga que tienen más de dos electrodos (H03D 7/14-H03D 7/22 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H03D 7/08",
+    "description": "••••siendo aplicadas las señales a ser mezcladas entre los dos mismos electrodos [2006.01]"
+  },
+  {
+    "code": "H03D 7/10",
+    "description": "••••siendo aplicadas las señales a ser mezcladas entre diferentes pares de electrodos [2006.01]"
+  },
+  {
+    "code": "H03D 7/12",
+    "description": "••por medio de dispositivos de semiconductores que tienen más de dos electrodos (H03D 7/14-H03D 7/22 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H03D 7/14",
+    "description": "••Montajes equilibrados [2006.01]"
+  },
+  {
+    "code": "H03D 7/16",
+    "description": "••Cambio de frecuencia múltiple (receptor superheterodino H04B 1/26) [2006.01]"
+  },
+  {
+    "code": "H03D 7/18",
+    "description": "••Modificaciones de los cambiadores de frecuencia para eliminar las frecuencias imágenes [2006.01]"
+  },
+  {
+    "code": "H03D 7/20",
+    "description": "••por medio de tubos de tiempo de tránsito [2006.01]"
+  },
+  {
+    "code": "H03D 7/22",
+    "description": "••por desviación de un haz electrónico en un tubo de descarga (H03D 7/20 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H03D 9/00",
+    "description": "Demodulación o transferencia de modulación de ondas electromagnéticas moduladas (dispositivos o sistemas para la demodulación de la luz, transferencia de modulación en luz modulada o por variación de la frecuencia de la luz     G02F 2/00) [2006.01]"
+  },
+  {
+    "code": "H03D 9/02",
+    "description": "••Demodulación utilizando una inductancia y una capacidad distribuidas, p. ej. en las líneas de alimentación [2006.01]"
+  },
+  {
+    "code": "H03D 9/04",
+    "description": "••••por oscilaciones moduladas en ángulo [2006.01]"
+  },
+  {
+    "code": "H03D 9/06",
+    "description": "••Transferencia de modulación utilizando inductancia y capacidad distribuidas [2006.01]"
+  },
+  {
+    "code": "H03D 11/00",
+    "description": "Circuitos demoduladores super-regenerativos [2006.01]"
+  },
+  {
+    "code": "H03D 11/02",
+    "description": "••para oscilaciones moduladas en amplitud [2006.01]"
+  },
+  {
+    "code": "H03D 11/04",
+    "description": "••••por medio de dispositivos semiconductores que tienen más de dos electrodos [2006.01]"
+  },
+  {
+    "code": "H03D 11/06",
+    "description": "••para oscilaciones moduladas en ángulo [2006.01]"
+  },
+  {
+    "code": "H03D 11/08",
+    "description": "••••por medio de dispositivos semiconductores que tienen más de dos electrodos [2006.01]"
+  },
+  {
+    "code": "H03D 13/00",
+    "description": "Circuitos de comparación de fase o de frecuencia de dos oscilaciones mutuamente independientes (dispositivos para medir el ángulo de fase entre el voltaje y la corriente, o entre tensiones o corrientes G01R 25/00) [2006.01]"
+  },
+  {
+    "code": "H03D 99/00",
+    "description": "Materia no prevista en otros grupos de esta subclase [2006.01]"
+  }
+]

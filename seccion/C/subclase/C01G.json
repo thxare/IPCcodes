@@ -1,0 +1,558 @@
+[
+  {
+    "code": "C01G 1/00",
+    "description": "Métodos de preparación de los compuestos de metales no cubiertos por C01B, C01C, C01D, C01F, en general (producción electrolítica de compuestos inorgánicos C25B 1/00) [2006.01]"
+  },
+  {
+    "code": "C01G 1/02",
+    "description": "••Oxidos [2006.01]"
+  },
+  {
+    "code": "C01G 1/04",
+    "description": "••Carbonilos [2006.01]"
+  },
+  {
+    "code": "C01G 1/06",
+    "description": "••Haluros [2006.01]"
+  },
+  {
+    "code": "C01G 1/08",
+    "description": "••Nitratos [2006.01]"
+  },
+  {
+    "code": "C01G 1/10",
+    "description": "••Sulfatos [2006.01]"
+  },
+  {
+    "code": "C01G 1/12",
+    "description": "••Sulfuros [2006.01]"
+  },
+  {
+    "code": "C01G 1/14",
+    "description": "••Sulfitos [2006.01]"
+  },
+  {
+    "code": "C01G 3/00",
+    "description": "Compuestos de cobre [2006.01]"
+  },
+  {
+    "code": "C01G 3/02",
+    "description": "••Oxidos; Hidróxidos [2006.01]"
+  },
+  {
+    "code": "C01G 3/04",
+    "description": "••Haluros [2006.01]"
+  },
+  {
+    "code": "C01G 3/05",
+    "description": "••••Cloruros [2006.01]"
+  },
+  {
+    "code": "C01G 3/06",
+    "description": "••••Oxicloruros [2006.01]"
+  },
+  {
+    "code": "C01G 3/08",
+    "description": "••Nitratos [2006.01]"
+  },
+  {
+    "code": "C01G 3/10",
+    "description": "••Sulfatos [2006.01]"
+  },
+  {
+    "code": "C01G 3/12",
+    "description": "••Sulfuros [2006.01]"
+  },
+  {
+    "code": "C01G 3/14",
+    "description": "••Complejos con amoniaco [2006.01]"
+  },
+  {
+    "code": "C01G 5/00",
+    "description": "Compuestos de plata [2006.01]"
+  },
+  {
+    "code": "C01G 5/02",
+    "description": "••Haluros [2006.01]"
+  },
+  {
+    "code": "C01G 7/00",
+    "description": "Compuestos de oro [2006.01]"
+  },
+  {
+    "code": "C01G 9/00",
+    "description": "Compuestos de zinc [2006.01]"
+  },
+  {
+    "code": "C01G 9/02",
+    "description": "••Oxidos; Hidróxidos [2006.01]"
+  },
+  {
+    "code": "C01G 9/03",
+    "description": "••••Procedimientos de obtención por vía seca, p. ej. procesos en fase vapor [2006.01]"
+  },
+  {
+    "code": "C01G 9/04",
+    "description": "••Haluros [2006.01]"
+  },
+  {
+    "code": "C01G 9/06",
+    "description": "••Sulfatos [2006.01]"
+  },
+  {
+    "code": "C01G 9/08",
+    "description": "••Sulfuros [2006.01]"
+  },
+  {
+    "code": "C01G 11/00",
+    "description": "Compuestos de cadmio [2006.01]"
+  },
+  {
+    "code": "C01G 11/02",
+    "description": "••Sulfuros [2006.01]"
+  },
+  {
+    "code": "C01G 13/00",
+    "description": "Compuestos de mercurio [2006.01]"
+  },
+  {
+    "code": "C01G 13/02",
+    "description": "••Oxidos [2006.01]"
+  },
+  {
+    "code": "C01G 13/04",
+    "description": "••Haluros [2006.01]"
+  },
+  {
+    "code": "C01G 15/00",
+    "description": "Compuestos de galio, indio o talio [2006.01]"
+  },
+  {
+    "code": "C01G 17/00",
+    "description": "Compuestos de germanio [2006.01]"
+  },
+  {
+    "code": "C01G 17/02",
+    "description": "••Dióxido de germanio [2006.01]"
+  },
+  {
+    "code": "C01G 17/04",
+    "description": "••Haluros de germanio [2006.01]"
+  },
+  {
+    "code": "C01G 19/00",
+    "description": "Compuestos de estaño [2006.01]"
+  },
+  {
+    "code": "C01G 19/02",
+    "description": "••Oxidos [2006.01]"
+  },
+  {
+    "code": "C01G 19/04",
+    "description": "••Haluros [2006.01]"
+  },
+  {
+    "code": "C01G 19/06",
+    "description": "••••Cloruro estannoso [2006.01]"
+  },
+  {
+    "code": "C01G 19/08",
+    "description": "••••Cloruro estánnico [2006.01]"
+  },
+  {
+    "code": "C01G 21/00",
+    "description": "Compuestos de plomo [2006.01]"
+  },
+  {
+    "code": "C01G 21/02",
+    "description": "••Oxidos [2006.01]"
+  },
+  {
+    "code": "C01G 21/04",
+    "description": "••••Subóxido de plomo (Pb2O) [2006.01]"
+  },
+  {
+    "code": "C01G 21/06",
+    "description": "••••Monóxido de plomo (PbO) [2006.01]"
+  },
+  {
+    "code": "C01G 21/08",
+    "description": "••••Dióxido de plomo (PbO2) [2006.01]"
+  },
+  {
+    "code": "C01G 21/10",
+    "description": "••••Plomo rojo (Pb3O4) [2006.01]"
+  },
+  {
+    "code": "C01G 21/12",
+    "description": "••Hidróxidos [2006.01]"
+  },
+  {
+    "code": "C01G 21/14",
+    "description": "••Carbonatos [2006.01]"
+  },
+  {
+    "code": "C01G 21/16",
+    "description": "••Haluros [2006.01]"
+  },
+  {
+    "code": "C01G 21/18",
+    "description": "••Nitratos [2006.01]"
+  },
+  {
+    "code": "C01G 21/20",
+    "description": "••Sulfatos [2006.01]"
+  },
+  {
+    "code": "C01G 21/21",
+    "description": "••Sulfuros [2006.01]"
+  },
+  {
+    "code": "C01G 21/22",
+    "description": "••Plumbatos; Plumbitos [2006.01]"
+  },
+  {
+    "code": "C01G 23/00",
+    "description": "Compuestos de titanio [2006.01]"
+  },
+  {
+    "code": "C01G 23/02",
+    "description": "••Haluros de titanio [2006.01]"
+  },
+  {
+    "code": "C01G 23/04",
+    "description": "••Oxidos; Hidróxidos [2006.01]"
+  },
+  {
+    "code": "C01G 23/047",
+    "description": "••••Dióxido de titanio [2006.01]"
+  },
+  {
+    "code": "C01G 23/053",
+    "description": "••••••Obtención por vía húmeda, p. ej. por hidrólisis de sales de titanio [2006.01]"
+  },
+  {
+    "code": "C01G 23/07",
+    "description": "••••••Obtención por procesos en fase vapor, p. ej. por oxidación de haluros [2006.01]"
+  },
+  {
+    "code": "C01G 23/08",
+    "description": "••••••Secado; Calcinación [2006.01]"
+  },
+  {
+    "code": "C01G 25/00",
+    "description": "Compuestos de circonio [2006.01]"
+  },
+  {
+    "code": "C01G 25/02",
+    "description": "••Oxidos [2006.01]"
+  },
+  {
+    "code": "C01G 25/04",
+    "description": "••Haluros [2006.01]"
+  },
+  {
+    "code": "C01G 25/06",
+    "description": "••Sulfatos [2006.01]"
+  },
+  {
+    "code": "C01G 27/00",
+    "description": "Compuestos de hafnio [2006.01]"
+  },
+  {
+    "code": "C01G 27/02",
+    "description": "••Oxidos [2006.01]"
+  },
+  {
+    "code": "C01G 27/04",
+    "description": "••Haluros [2006.01]"
+  },
+  {
+    "code": "C01G 27/06",
+    "description": "••Sulfatos [2006.01]"
+  },
+  {
+    "code": "C01G 28/00",
+    "description": "Compuestos de arsénico [2006.01]"
+  },
+  {
+    "code": "C01G 28/02",
+    "description": "••Arseniatos; Arsenitos [2006.01]"
+  },
+  {
+    "code": "C01G 29/00",
+    "description": "Compuestos de bismuto [2006.01]"
+  },
+  {
+    "code": "C01G 30/00",
+    "description": "Compuestos de antimonio [2006.01]"
+  },
+  {
+    "code": "C01G 30/02",
+    "description": "••Antimoniatos; Antimonitos [2006.01]"
+  },
+  {
+    "code": "C01G 31/00",
+    "description": "Compuestos de vanadio [2006.01]"
+  },
+  {
+    "code": "C01G 31/02",
+    "description": "••Oxidos [2006.01]"
+  },
+  {
+    "code": "C01G 31/04",
+    "description": "••Haluros [2006.01]"
+  },
+  {
+    "code": "C01G 33/00",
+    "description": "Compuestos de niobio [2006.01]"
+  },
+  {
+    "code": "C01G 35/00",
+    "description": "Compuestos de tántalo [2006.01]"
+  },
+  {
+    "code": "C01G 35/02",
+    "description": "••Haluros [2006.01]"
+  },
+  {
+    "code": "C01G 37/00",
+    "description": "Compuestos de cromo [2006.01]"
+  },
+  {
+    "code": "C01G 37/02",
+    "description": "••Oxidos o sus hidratos [2006.01]"
+  },
+  {
+    "code": "C01G 37/027",
+    "description": "••••Dióxido de cromo [2006.01]"
+  },
+  {
+    "code": "C01G 37/033",
+    "description": "••••Trióxido de cromo; Acido crómico [2006.01]"
+  },
+  {
+    "code": "C01G 37/04",
+    "description": "••Haluros de cromo [2006.01]"
+  },
+  {
+    "code": "C01G 37/06",
+    "description": "••••Haluros de cromilo [2006.01]"
+  },
+  {
+    "code": "C01G 37/08",
+    "description": "••Sulfatos de cromo [2006.01]"
+  },
+  {
+    "code": "C01G 37/10",
+    "description": "••••Alumbre de cromo [2006.01]"
+  },
+  {
+    "code": "C01G 37/14",
+    "description": "••Cromatos; Bicromatos [2006.01]"
+  },
+  {
+    "code": "C01G 39/00",
+    "description": "Compuestos de molibdeno [2006.01]"
+  },
+  {
+    "code": "C01G 39/02",
+    "description": "••Oxidos; Hidróxidos [2006.01]"
+  },
+  {
+    "code": "C01G 39/04",
+    "description": "••Haluros [2006.01]"
+  },
+  {
+    "code": "C01G 39/06",
+    "description": "••Sulfuros [2006.01]"
+  },
+  {
+    "code": "C01G 41/00",
+    "description": "Compuestos de tungsteno [2006.01]"
+  },
+  {
+    "code": "C01G 41/02",
+    "description": "••Oxidos; Hidróxidos [2006.01]"
+  },
+  {
+    "code": "C01G 41/04",
+    "description": "••Haluros [2006.01]"
+  },
+  {
+    "code": "C01G 43/00",
+    "description": "Compuestos de uranio [2006.01]"
+  },
+  {
+    "code": "C01G 43/01",
+    "description": "••Oxidos; Hidróxidos [2006.01]"
+  },
+  {
+    "code": "C01G 43/025",
+    "description": "••••Dióxido de uranio [2006.01]"
+  },
+  {
+    "code": "C01G 43/04",
+    "description": "••Haluros de uranio [2006.01]"
+  },
+  {
+    "code": "C01G 43/06",
+    "description": "••••Fluoruros [2006.01]"
+  },
+  {
+    "code": "C01G 43/08",
+    "description": "••••Cloruros [2006.01]"
+  },
+  {
+    "code": "C01G 43/10",
+    "description": "••••Bromuros [2006.01]"
+  },
+  {
+    "code": "C01G 43/12",
+    "description": "••••Yoduros [2006.01]"
+  },
+  {
+    "code": "C01G 45/00",
+    "description": "Compuestos de manganeso [2006.01]"
+  },
+  {
+    "code": "C01G 45/02",
+    "description": "••Oxidos; Hidróxidos [2006.01]"
+  },
+  {
+    "code": "C01G 45/04",
+    "description": "••Carbonilos [2006.01]"
+  },
+  {
+    "code": "C01G 45/06",
+    "description": "••Haluros [2006.01]"
+  },
+  {
+    "code": "C01G 45/08",
+    "description": "••Nitratos [2006.01]"
+  },
+  {
+    "code": "C01G 45/10",
+    "description": "••Sulfatos [2006.01]"
+  },
+  {
+    "code": "C01G 45/12",
+    "description": "••Manganatos; Permanganatos [2006.01]"
+  },
+  {
+    "code": "C01G 47/00",
+    "description": "Compuestos de renio [2006.01]"
+  },
+  {
+    "code": "C01G 49/00",
+    "description": "Compuestos de hierro [2006.01]"
+  },
+  {
+    "code": "C01G 49/02",
+    "description": "••Oxidos; Hidróxidos [2006.01]"
+  },
+  {
+    "code": "C01G 49/04",
+    "description": "••••Oxido ferroso (FeO) [2006.01]"
+  },
+  {
+    "code": "C01G 49/06",
+    "description": "••••Oxido férrico (Fe2O3) [2006.01]"
+  },
+  {
+    "code": "C01G 49/08",
+    "description": "••••Oxido ferroso-férrico (Fe3O4) [2006.01]"
+  },
+  {
+    "code": "C01G 49/10",
+    "description": "••Haluros [2006.01]"
+  },
+  {
+    "code": "C01G 49/12",
+    "description": "••Sulfuros [2006.01]"
+  },
+  {
+    "code": "C01G 49/14",
+    "description": "••Sulfatos [2006.01]"
+  },
+  {
+    "code": "C01G 49/16",
+    "description": "••Carbonilos [2006.01]"
+  },
+  {
+    "code": "C01G 51/00",
+    "description": "Compuestos de cobalto [2006.01]"
+  },
+  {
+    "code": "C01G 51/02",
+    "description": "••Carbonilos [2006.01]"
+  },
+  {
+    "code": "C01G 51/04",
+    "description": "••Oxidos; Hidróxidos [2006.01]"
+  },
+  {
+    "code": "C01G 51/06",
+    "description": "••Carbonatos [2006.01]"
+  },
+  {
+    "code": "C01G 51/08",
+    "description": "••Haluros [2006.01]"
+  },
+  {
+    "code": "C01G 51/10",
+    "description": "••Sulfatos [2006.01]"
+  },
+  {
+    "code": "C01G 51/12",
+    "description": "••Complejos con amoniaco [2006.01]"
+  },
+  {
+    "code": "C01G 53/00",
+    "description": "Compuestos de níquel [2006.01]"
+  },
+  {
+    "code": "C01G 53/02",
+    "description": "••Carbonilos [2006.01]"
+  },
+  {
+    "code": "C01G 53/04",
+    "description": "••Oxidos; Hidróxidos [2006.01]"
+  },
+  {
+    "code": "C01G 53/06",
+    "description": "••Carbonatos [2006.01]"
+  },
+  {
+    "code": "C01G 53/08",
+    "description": "••Haluros [2006.01]"
+  },
+  {
+    "code": "C01G 53/09",
+    "description": "••••Cloruros [2006.01]"
+  },
+  {
+    "code": "C01G 53/10",
+    "description": "••Sulfatos [2006.01]"
+  },
+  {
+    "code": "C01G 53/11",
+    "description": "••Sulfuros [2006.01]"
+  },
+  {
+    "code": "C01G 53/12",
+    "description": "••Complejos con amoniaco [2006.01]"
+  },
+  {
+    "code": "C01G 55/00",
+    "description": "Compuestos de rutenio, rodio, paladio, osmio, iridio o platino [2006.01]"
+  },
+  {
+    "code": "C01G 56/00",
+    "description": "Compuestos de elementos transuránicos [2006.01]"
+  },
+  {
+    "code": "C01G 99/00",
+    "description": "Compuestos de metales no cubiertos en otros lugares de la presente subclase [2010.01]"
+  }
+]

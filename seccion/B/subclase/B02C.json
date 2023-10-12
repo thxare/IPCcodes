@@ -1,0 +1,630 @@
+[
+  {
+    "code": "B02C 1/00",
+    "description": "Trituración o disgregación por medio de elementos dotados de movimiento alternativo [2006.01]"
+  },
+  {
+    "code": "B02C 1/02",
+    "description": "••Trituradores de mandíbulas [2006.01]"
+  },
+  {
+    "code": "B02C 1/04",
+    "description": "••••con mandíbulas de acción simple [2006.01]"
+  },
+  {
+    "code": "B02C 1/06",
+    "description": "••••con mandíbulas de acción doble [2006.01]"
+  },
+  {
+    "code": "B02C 1/08",
+    "description": "••••con mandíbulas que cooperan con un cilindro rotativo [2006.01]"
+  },
+  {
+    "code": "B02C 1/10",
+    "description": "••••Forma o estructura de las mandíbulas [2006.01]"
+  },
+  {
+    "code": "B02C 1/12",
+    "description": "••Aparatos con puntas no rotativos [2006.01]"
+  },
+  {
+    "code": "B02C 1/14",
+    "description": "••Molinos de bocartes [2006.01]"
+  },
+  {
+    "code": "B02C 2/00",
+    "description": "Trituración o disgregación por medio de trituradores giratorios o en forma de cono [2006.01]"
+  },
+  {
+    "code": "B02C 2/02",
+    "description": "••con movimiento excéntrico [2006.01]"
+  },
+  {
+    "code": "B02C 2/04",
+    "description": "••••con eje vertical [2006.01]"
+  },
+  {
+    "code": "B02C 2/06",
+    "description": "••••••y palier de apoyo en la parte superior [2006.01]"
+  },
+  {
+    "code": "B02C 2/08",
+    "description": "••••con eje horizontal [2006.01]"
+  },
+  {
+    "code": "B02C 2/10",
+    "description": "••con movimiento concéntrico; Trituradores cónicos [2006.01]"
+  },
+  {
+    "code": "B02C 4/00",
+    "description": "Trituración o disgregación por trituradores cilíndricos (por elementos trituradores en forma de cilindros o de bolas cooperando con coronas o discos B02C 15/00; molinos de cilindros o molinos de refinar utilizados exclusivamente para el chocolate A23G 1/10, A23G 1/12) [2006.01]"
+  },
+  {
+    "code": "B02C 4/02",
+    "description": "••por medio de varias muelas [2006.01]"
+  },
+  {
+    "code": "B02C 4/04",
+    "description": "••••especialmente adaptadas a materiales pastosos, p. ej. a la pintura, al chocolate, a los coloides [2006.01]"
+  },
+  {
+    "code": "B02C 4/06",
+    "description": "••••especialmente adaptadas a la molienda de granos [2006.01]"
+  },
+  {
+    "code": "B02C 4/08",
+    "description": "••••que cooperan con cilindros de trituración ondulados o dentados [2006.01]"
+  },
+  {
+    "code": "B02C 4/10",
+    "description": "••por medio de una muela que coopera con un órgano fijo [2006.01]"
+  },
+  {
+    "code": "B02C 4/12",
+    "description": "••••en forma de plato [2006.01]"
+  },
+  {
+    "code": "B02C 4/14",
+    "description": "••••••especialmente adaptadas a materiales pastosos, p. ej. a la pintura, al chocolate, a los coloides [2006.01]"
+  },
+  {
+    "code": "B02C 4/16",
+    "description": "••••••especialmente adaptadas a la molienda de granos [2006.01]"
+  },
+  {
+    "code": "B02C 4/18",
+    "description": "••••en forma de barra [2006.01]"
+  },
+  {
+    "code": "B02C 4/20",
+    "description": "••••••con la muela ondulada o dentada [2006.01]"
+  },
+  {
+    "code": "B02C 4/22",
+    "description": "••••••especialmente adaptada a materiales pastosos, p. ej. a la pintura, al chocolate, a los coloides [2006.01]"
+  },
+  {
+    "code": "B02C 4/24",
+    "description": "••••••especialmente adaptada a la molienda de granos [2006.01]"
+  },
+  {
+    "code": "B02C 4/26",
+    "description": "••••en forma de parrilla o enrejado [2006.01]"
+  },
+  {
+    "code": "B02C 4/28",
+    "description": "••Partes constitutivas [2006.01]"
+  },
+  {
+    "code": "B02C 4/30",
+    "description": "••••Forma o estructura de las muelas [2006.01]"
+  },
+  {
+    "code": "B02C 4/32",
+    "description": "••••Ajuste de las muelas, aplicación de presión sobre las muelas, o reglaje de la separación entre las muelas [2006.01]"
+  },
+  {
+    "code": "B02C 4/34",
+    "description": "••••••en los aparatos en los que una muela coopera con un órgano fijo [2006.01]"
+  },
+  {
+    "code": "B02C 4/36",
+    "description": "••••••en los aparatos especialmente adaptados a materiales pastosos [2006.01]"
+  },
+  {
+    "code": "B02C 4/38",
+    "description": "••••••en los molinos de granos [2006.01]"
+  },
+  {
+    "code": "B02C 4/40",
+    "description": "••••Desprendedores, p. ej. raspadores [2006.01]"
+  },
+  {
+    "code": "B02C 4/42",
+    "description": "••••Mecanismos de propulsión; Control de la velocidad de las muelas [2006.01]"
+  },
+  {
+    "code": "B02C 4/44",
+    "description": "••••Enfriamiento o calentamiento de las muelas o de las barras [2006.01]"
+  },
+  {
+    "code": "B02C 7/00",
+    "description": "Trituración o disgregación por aparatos con muelas en forma de disco (aparatos adaptados especialmente a la fabricación o al tratamiento exclusivo del cacao o de los productos a base de cacao A23G 1/04) [2006.01]"
+  },
+  {
+    "code": "B02C 7/02",
+    "description": "••con discos coaxiales [2006.01]"
+  },
+  {
+    "code": "B02C 7/04",
+    "description": "••••con coronas concéntricas dotadas de dientes de engranaje mutuo [2006.01]"
+  },
+  {
+    "code": "B02C 7/06",
+    "description": "••••con eje horizontal (B02C 7/04 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B02C 7/08",
+    "description": "••••con eje vertical (B02C 7/04 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B02C 7/10",
+    "description": "••con discos no coaxiales [2006.01]"
+  },
+  {
+    "code": "B02C 7/11",
+    "description": "••Partes constitutivas [2006.01]"
+  },
+  {
+    "code": "B02C 7/12",
+    "description": "••••Forma o estructura de los discos [2006.01]"
+  },
+  {
+    "code": "B02C 7/13",
+    "description": "••••••para la molienda de granos [2006.01]"
+  },
+  {
+    "code": "B02C 7/14",
+    "description": "••••Ajuste de los órganos de trituración, aplicación de presión sobre estos órganos, o regulación de la separación entre estos órganos [2006.01]"
+  },
+  {
+    "code": "B02C 7/16",
+    "description": "••••Mecanismos de propulsión [2006.01]"
+  },
+  {
+    "code": "B02C 7/17",
+    "description": "••••Enfriamiento o calefacción de los discos [2006.01]"
+  },
+  {
+    "code": "B02C 7/175",
+    "description": "••Aparatos con discos especialmente adaptados a materiales pastosos, p. ej. a la pintura, al chocolate, a los coloides [2006.01]"
+  },
+  {
+    "code": "B02C 7/18",
+    "description": "••Aparatos especialmente adaptados a la molienda de granos [2006.01]"
+  },
+  {
+    "code": "B02C 9/00",
+    "description": "Otros procedimientos de molienda o molinos especialmente adaptados a la molienda de granos [2006.01]"
+  },
+  {
+    "code": "B02C 9/02",
+    "description": "••Corte o división de los granos [2006.01]"
+  },
+  {
+    "code": "B02C 9/04",
+    "description": "••Sistemas o serie de operaciones; Instalaciones de molienda [2006.01]"
+  },
+  {
+    "code": "B02C 11/00",
+    "description": "Otros dispositivos auxiliares o accesorios especialmente adaptados a los molinos para granos [2006.01]"
+  },
+  {
+    "code": "B02C 11/02",
+    "description": "••Destrucción de los conglomerados de partículas, p. ej. de tamo [2006.01]"
+  },
+  {
+    "code": "B02C 11/04",
+    "description": "••Dispositivos de alimentación [2006.01]"
+  },
+  {
+    "code": "B02C 11/06",
+    "description": "••Sistemas para prevenir los incendios o las explosiones (procedimientos para prevenir o extinguir los incendios, dispositivos correspondientes A62C) [2006.01]"
+  },
+  {
+    "code": "B02C 11/08",
+    "description": "••Enfriamiento, calefacción, ventilación, acondicionamiento en función de la temperatura o de la humedad (acondicionamiento de los granos antes de la molturación B02B 1/08; acondicionamiento del aire o ventilación en general F24F) [2006.01]"
+  },
+  {
+    "code": "B02C 13/00",
+    "description": "Disgregación por aparatos dotados de batidores rotativos [2006.01]"
+  },
+  {
+    "code": "B02C 13/02",
+    "description": "••con árbol de rotor horizontal (con flujo axial B02C 13/10) [2006.01]"
+  },
+  {
+    "code": "B02C 13/04",
+    "description": "••••con batidores articulados sobre el rotor; Aparatos con martillos [2006.01]"
+  },
+  {
+    "code": "B02C 13/06",
+    "description": "••••con batidores fijados rígidamente al rotor [2006.01]"
+  },
+  {
+    "code": "B02C 13/08",
+    "description": "••••••y funcionando como un ventilador [2006.01]"
+  },
+  {
+    "code": "B02C 13/09",
+    "description": "••••••y proyectando el material contra una placa de impacto o percusión [2006.01]"
+  },
+  {
+    "code": "B02C 13/10",
+    "description": "••con árbol de rotor horizontal y flujo axial [2006.01]"
+  },
+  {
+    "code": "B02C 13/12",
+    "description": "••••con cámara de vértice [2006.01]"
+  },
+  {
+    "code": "B02C 13/13",
+    "description": "••con eje horizontal y combinados con dispositivos de tamizado, p. ej. para fabricar combustible en polvo [2006.01]"
+  },
+  {
+    "code": "B02C 13/14",
+    "description": "••con árbol de rotor vertical, p. ej. combinados con dispositivos de tamizado [2006.01]"
+  },
+  {
+    "code": "B02C 13/16",
+    "description": "••••con batidores articulados sobre el rotor [2006.01]"
+  },
+  {
+    "code": "B02C 13/18",
+    "description": "••••con batidores fijados rígidamente al rotor [2006.01]"
+  },
+  {
+    "code": "B02C 13/20",
+    "description": "••con varios rotores acoplados [2006.01]"
+  },
+  {
+    "code": "B02C 13/22",
+    "description": "••con dientes que se engranan mutuamente [2006.01]"
+  },
+  {
+    "code": "B02C 13/24",
+    "description": "••••dispuestos alrededor de un eje vertical [2006.01]"
+  },
+  {
+    "code": "B02C 13/26",
+    "description": "••Partes constitutivas [2006.01]"
+  },
+  {
+    "code": "B02C 13/28",
+    "description": "••••Forma o estructura de las batidoras [2006.01]"
+  },
+  {
+    "code": "B02C 13/282",
+    "description": "••••Forma o superficie interna de los alojamientos de los trituradores [2006.01]"
+  },
+  {
+    "code": "B02C 13/284",
+    "description": "••••••Tamices incorporados [2006.01]"
+  },
+  {
+    "code": "B02C 13/286",
+    "description": "••••Alimentación o descarga [2006.01]"
+  },
+  {
+    "code": "B02C 13/288",
+    "description": "••••Ventilación o circulación de aire [2006.01]"
+  },
+  {
+    "code": "B02C 13/30",
+    "description": "••••Mecanismos de propulsión [2006.01]"
+  },
+  {
+    "code": "B02C 13/31",
+    "description": "••••Dispositivos o medidas de seguridad [2006.01]"
+  },
+  {
+    "code": "B02C 15/00",
+    "description": "Disgregación por medio de elementos trituradores en forma de cilindros o bolas, que cooperan con coronas o discos [2006.01]"
+  },
+  {
+    "code": "B02C 15/02",
+    "description": "••Aparatos centrífugos de tipo pendular [2006.01]"
+  },
+  {
+    "code": "B02C 15/04",
+    "description": "••Aparatos con rodillos que hacen presión montados pendularmente, p. ej. resortes prensores [2006.01]"
+  },
+  {
+    "code": "B02C 15/06",
+    "description": "••Aparatos con rodillos que hacen fuerza contra el interior de un anillo rotativo, p. ej. bajo la acción de un resorte (B02C 15/04 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B02C 15/08",
+    "description": "••Aparatos dotados de bolas o de cilindros ajustados contra el interior de un anillo por efecto de la fuerza centrífuga, las bolas o los cilindros se mueven debido a una pieza situada en el centro (B02C 15/02 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B02C 15/10",
+    "description": "••Aparatos dotados de bolas o de cilindros ajustados contra el interior de un anillo por efecto de la fuerza centrífuga, las bolas o los cilindros se mueven por la acción de una pieza no situada en el centro [2006.01]"
+  },
+  {
+    "code": "B02C 15/12",
+    "description": "••Aparatos con al menos dos discos y con bolas o rodillos interpuestos montados como si fueran cojinetes de bolas o rodillos [2006.01]"
+  },
+  {
+    "code": "B02C 15/14",
+    "description": "••Trituradores de muelas verticales que se desplazan sobre una pista, p. ej. molinos de nitrato [2006.01]"
+  },
+  {
+    "code": "B02C 15/16",
+    "description": "••dotados de órganos de trabajo que tienen velocidades periféricas esencialmente diferentes, estos órganos tienen forma de cilindro o de cono hueco, y de cilindro o de cono interior [2006.01]"
+  },
+  {
+    "code": "B02C 17/00",
+    "description": "Disgregación por medio de toneles, es decir, por medio de aparatos constituidos por una cubeta en la que se cargan los productos que van a ser desintegrados, con o sin elementos particulares de disgregación como bolas o esferas (tambores de gran velocidad B02C 19/11) [2006.01]"
+  },
+  {
+    "code": "B02C 17/02",
+    "description": "••con cubetas perforadas [2006.01]"
+  },
+  {
+    "code": "B02C 17/04",
+    "description": "••con cubetas no perforadas [2006.01]"
+  },
+  {
+    "code": "B02C 17/06",
+    "description": "••••con varios compartimientos [2006.01]"
+  },
+  {
+    "code": "B02C 17/07",
+    "description": "••••••dispuestos radialmente [2006.01]"
+  },
+  {
+    "code": "B02C 17/08",
+    "description": "••••con cubetas dotadas de movimiento planetario [2006.01]"
+  },
+  {
+    "code": "B02C 17/10",
+    "description": "••con un número reducido de órganos de disgregación montados sobre la cubeta [2006.01]"
+  },
+  {
+    "code": "B02C 17/14",
+    "description": "••Aparatos en los que el contenido que va a ser triturado es revuelto por los movimientos de la cubeta siempre y cuando éstos no sean de rotación, p. ej. por oscilación, vibración, basculamiento [2006.01]"
+  },
+  {
+    "code": "B02C 17/16",
+    "description": "••Aparatos en los que una cubeta fija posee agitadores para remover la carga en movimiento [2006.01]"
+  },
+  {
+    "code": "B02C 17/18",
+    "description": "••Partes constitutivas [2006.01]"
+  },
+  {
+    "code": "B02C 17/20",
+    "description": "••••Organos de disgregación [2006.01]"
+  },
+  {
+    "code": "B02C 17/22",
+    "description": "••••Revestimientos de cubetas [2006.01]"
+  },
+  {
+    "code": "B02C 17/24",
+    "description": "••••Mecanismos de transmisión [2006.01]"
+  },
+  {
+    "code": "B02C 18/00",
+    "description": "Disgregación por medio de cuchillos u otros elementos cortantes o desgarrantes que transforman el material en fragmentos (corte B26D); Tajadoras o aparatos similares que utilizan tornillos o análogos (máquinas de uso doméstico no previstas en otro lugar A47J 43/04; máquinas de usos múltiples para preparar alimentos A47J 44/00) [2006.01]"
+  },
+  {
+    "code": "B02C 18/02",
+    "description": "••con cuchillos dotados de movimiento alternativo [2006.01]"
+  },
+  {
+    "code": "B02C 18/04",
+    "description": "••••Partes constitutivas [2006.01]"
+  },
+  {
+    "code": "B02C 18/06",
+    "description": "••con cuchillos rotativos [2006.01]"
+  },
+  {
+    "code": "B02C 18/08",
+    "description": "••••en el interior de recipientes verticales [2006.01]"
+  },
+  {
+    "code": "B02C 18/10",
+    "description": "••••••con órganos de transmisión situados en la parte superior del recipiente [2006.01]"
+  },
+  {
+    "code": "B02C 18/12",
+    "description": "••••••con los órganos de transmisión situados en la parte inferior del recipiente [2006.01]"
+  },
+  {
+    "code": "B02C 18/14",
+    "description": "••••en el interior de recipientes horizontales [2006.01]"
+  },
+  {
+    "code": "B02C 18/16",
+    "description": "••••Partes constitutivas [2006.01]"
+  },
+  {
+    "code": "B02C 18/18",
+    "description": "••••••Cuchillos; Su montaje [2006.01]"
+  },
+  {
+    "code": "B02C 18/20",
+    "description": "••••••••Cuchillos en forma de hoz [2006.01]"
+  },
+  {
+    "code": "B02C 18/22",
+    "description": "••••••Medios de alimentación o de descarga [2006.01]"
+  },
+  {
+    "code": "B02C 18/24",
+    "description": "••••••Transmisiones [2006.01]"
+  },
+  {
+    "code": "B02C 18/26",
+    "description": "••con cuchillos dotados de movimientos alternativos y rotativos combinados [2006.01]"
+  },
+  {
+    "code": "B02C 18/28",
+    "description": "••con cilindros guarnecidos de puntas [2006.01]"
+  },
+  {
+    "code": "B02C 18/30",
+    "description": "••Tajadoras con discos perforados y tornillos de alimentación [2006.01]"
+  },
+  {
+    "code": "B02C 18/32",
+    "description": "••••con afiladores [2006.01]"
+  },
+  {
+    "code": "B02C 18/34",
+    "description": "••••con medios para limpiar los discos perforados [2006.01]"
+  },
+  {
+    "code": "B02C 18/36",
+    "description": "••••Cuchillos o discos perforados [2006.01]"
+  },
+  {
+    "code": "B02C 18/38",
+    "description": "••••Transmisiones [2006.01]"
+  },
+  {
+    "code": "B02C 19/00",
+    "description": "Otros dispositivos o procedimientos de disgregación (para los granos B02C 9/00) [2006.01]"
+  },
+  {
+    "code": "B02C 19/06",
+    "description": "••Aparatos que utilizan una corriente de fluidos [2006.01]"
+  },
+  {
+    "code": "B02C 19/08",
+    "description": "••Pilones y morteros [2006.01]"
+  },
+  {
+    "code": "B02C 19/10",
+    "description": "••Aparatos en los que una pieza de fricción es arrastrada a lo largo de la superficie de un órgano cilíndrico o anular [2006.01]"
+  },
+  {
+    "code": "B02C 19/11",
+    "description": "••Tambores de gran velocidad (para la separación B04B) [2006.01]"
+  },
+  {
+    "code": "B02C 19/16",
+    "description": "••Trituradores equipados con vibradores (toneles de desagregación B02C 17/14) [2006.01]"
+  },
+  {
+    "code": "B02C 19/18",
+    "description": "••Utilización de efectos físicos auxiliares que ayudan a la disgregación, p. ej. ultrasonidos, irradiación [2006.01]"
+  },
+  {
+    "code": "B02C 19/20",
+    "description": "••Disgregación por raspadura [2006.01]"
+  },
+  {
+    "code": "B02C 19/22",
+    "description": "••Trituradores dotados de dispositivos de trituración en forma de tornillos [2006.01]"
+  },
+  {
+    "code": "B02C 21/00",
+    "description": "Instalaciones de disgregación con o sin secado de materiales (para granos B02C 9/04) [2006.01]"
+  },
+  {
+    "code": "B02C 21/02",
+    "description": "••Instalaciones de disgregación transportables [2006.01]"
+  },
+  {
+    "code": "B02C 23/00",
+    "description": "Procedimientos auxiliares, dispositivos auxiliares o accesorios especialmente adaptados al triturado o la disgregación no previstos en los grupos B02C 1/00-B02C 21/00 o no adaptados especialmente a los equipos cubiertos por uno solo de los grupos B02C 1/00-B02C 21/00 (separación y clasificación en general B03, B04, B07) [2006.01]"
+  },
+  {
+    "code": "B02C 23/02",
+    "description": "••Dispositivos de alimentación (dispositivos de transporte en general B65G) [2006.01]"
+  },
+  {
+    "code": "B02C 23/04",
+    "description": "••Dispositivos de seguridad (en general F16P) [2006.01]"
+  },
+  {
+    "code": "B02C 23/06",
+    "description": "••Empleo de aditivos para ayudar la disgregación [2006.01]"
+  },
+  {
+    "code": "B02C 23/08",
+    "description": "••Separación o clasificación de materiales, asociado al triturado o a la disgregación (B02C 23/18 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B02C 23/10",
+    "description": "••••por medio de un separador situado en el paso de descarga de la zona de triturado o de disgregación [2006.01]"
+  },
+  {
+    "code": "B02C 23/12",
+    "description": "••••••con retorno del material de mayor tamaño a las zonas de trituración o de disgregación [2006.01]"
+  },
+  {
+    "code": "B02C 23/14",
+    "description": "••••por medio de varios separadores [2006.01]"
+  },
+  {
+    "code": "B02C 23/16",
+    "description": "••••por medio de un separador delimitando la zona de triturado o de disgregación, p. ej. por medio de un tamiz que impida la salida de materiales de dimensiones mayores [2006.01]"
+  },
+  {
+    "code": "B02C 23/18",
+    "description": "••Adición de fluido, con fin distinto al de triturar o desintegrar por la energía del fluido (dispositivos de alimentación B02C 23/02) [2006.01]"
+  },
+  {
+    "code": "B02C 23/20",
+    "description": "••••después del triturado o disgregación [2006.01]"
+  },
+  {
+    "code": "B02C 23/22",
+    "description": "••••••con recirculación de los materiales hacia la zona de triturado o de disgregación [2006.01]"
+  },
+  {
+    "code": "B02C 23/24",
+    "description": "••••Paso de gas a través de la zona de triturado o de disgregación (B02C 23/38, B02C 23/40 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "B02C 23/26",
+    "description": "••••••caracterizado por la entrada donde es introducido el gas o evacuado o por el camino seguido por el gas [2006.01]"
+  },
+  {
+    "code": "B02C 23/28",
+    "description": "••••••estando los medios que aseguran el desplazamiento del gas integrados o fijados al elemento de triturado o de disgregación [2006.01]"
+  },
+  {
+    "code": "B02C 23/30",
+    "description": "••••••el gas utilizado interviene en la separación de los materiales (B02C 23/34 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B02C 23/32",
+    "description": "••••••con vuelta de los materiales de mayor dimensión a la zona de triturado o de disgregación (B02C 23/34 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B02C 23/34",
+    "description": "••••••el gas es reenviado a la zona de triturado o de disgregación [2006.01]"
+  },
+  {
+    "code": "B02C 23/36",
+    "description": "••••la zona de triturado o de disgregación está sumergida en un líquido [2006.01]"
+  },
+  {
+    "code": "B02C 23/38",
+    "description": "••••con aparatos dotados de varias zonas de trituración o de disgregación [2006.01]"
+  },
+  {
+    "code": "B02C 23/40",
+    "description": "••••con varios medios para ajustar el fluido al material en curso de triturado o de disgregación [2006.01]"
+  },
+  {
+    "code": "B02C 25/00",
+    "description": "Sistemas de control especialmente adaptados al triturado o a la disgregación [2006.01]"
+  }
+]

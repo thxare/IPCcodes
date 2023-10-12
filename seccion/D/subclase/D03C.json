@@ -1,0 +1,270 @@
+[
+  {
+    "code": "D03C 1/00",
+    "description": "Máquinas de armadura [2006.01]"
+  },
+  {
+    "code": "D03C 1/02",
+    "description": "••Máquinas de leva simple, es decir, máquinas en las cuales la misma cuchilla o su equivalente actúa en cada pasada (D03C 1/10 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "D03C 1/04",
+    "description": "••••Máquinas de leva simple de paso abierto [2006.01]"
+  },
+  {
+    "code": "D03C 1/06",
+    "description": "••Máquinas de doble leva, es decir, máquinas en las cuales cuchillas diferentes actúan por pasadas alternas [2006.01]"
+  },
+  {
+    "code": "D03C 1/08",
+    "description": "••••reversibles, es decir, pasadas con caladas sucesivas que son abiertas correctamente cuando el telar está en marcha atrás [2006.01]"
+  },
+  {
+    "code": "D03C 1/10",
+    "description": "••Máquinas de doble calada, es decir, con formación de la calada por elevación de ciertos hilos y bajada de otros a partir de una posición mediana de cierre de la calada [2006.01]"
+  },
+  {
+    "code": "D03C 1/12",
+    "description": "••Máquinas que utilizan engranajes en lugar de cuchillas [2006.01]"
+  },
+  {
+    "code": "D03C 1/14",
+    "description": "••Características comunes a máquinas de tipos diferentes (dispositivos de detención en caso de un fallo del mecanismo de calada D03D 51/46) [2006.01]"
+  },
+  {
+    "code": "D03C 1/16",
+    "description": "••••Dispositivos de mecánica en relación al telar [2006.01]"
+  },
+  {
+    "code": "D03C 1/18",
+    "description": "••••Cuchillas; Armazones porta-cuchillas [2006.01]"
+  },
+  {
+    "code": "D03C 1/20",
+    "description": "••••Ganchos; Platinas [2006.01]"
+  },
+  {
+    "code": "D03C 1/22",
+    "description": "••••Agujas; Cajas de agujas; Planchas de agujas [2006.01]"
+  },
+  {
+    "code": "D03C 1/24",
+    "description": "••••Cilindros; Prensa del cilindro [2006.01]"
+  },
+  {
+    "code": "D03C 1/26",
+    "description": "••••que facilitan la toma de los ganchos por las cuchillas [2006.01]"
+  },
+  {
+    "code": "D03C 1/28",
+    "description": "••••••por creación y eliminación consecutiva de juego entre los ganchos y las cuchillas [2006.01]"
+  },
+  {
+    "code": "D03C 1/30",
+    "description": "••••••en los cuales todos los ganchos están separados de las cuchillas, las cuchillas seleccionadas están inmediatamente unidas de nuevo [2006.01]"
+  },
+  {
+    "code": "D03C 1/32",
+    "description": "••••••en los cuales todos los ganchos son aprehendidos por las cuchillas, los ganchos no seleccionados son liberados inmediatamente [2006.01]"
+  },
+  {
+    "code": "D03C 1/34",
+    "description": "••••Dispositivos en los cuales los hilos de la urdimbre están situados a alturas diferentes con el fin de evitar la congestión [2006.01]"
+  },
+  {
+    "code": "D03C 1/36",
+    "description": "••••Dispositivos economizadores de cartón o de urdimbre, p. ej. ratiera de cambios [2006.01]"
+  },
+  {
+    "code": "D03C 3/00",
+    "description": "Máquinas Jacquard (mando de Jacquard por barrido de su dibujo D03C 17/06; para telares Axminster de pinzas D03D 39/08) [2006.01]"
+  },
+  {
+    "code": "D03C 3/02",
+    "description": "••Máquinas Jacquard de simple leva [2006.01]"
+  },
+  {
+    "code": "D03C 3/04",
+    "description": "••••del tipo de calada abierta [2006.01]"
+  },
+  {
+    "code": "D03C 3/06",
+    "description": "••Máquinas Jacquard de doble leva [2006.01]"
+  },
+  {
+    "code": "D03C 3/08",
+    "description": "••••del tipo de calada abierta [2006.01]"
+  },
+  {
+    "code": "D03C 3/10",
+    "description": "••Máquinas Jacquard de doble calada [2006.01]"
+  },
+  {
+    "code": "D03C 3/12",
+    "description": "••Máquinas Jacquard de calada múltiple, es decir, máquinas Jacquard que levantan los hilos a varias alturas diferentes, p. ej. para el tejido de los tejidos de pelos [2006.01]"
+  },
+  {
+    "code": "D03C 3/14",
+    "description": "••Máquinas Jacquard que no utilizan ganchos de elevación, p. ej. que utilizan cuerdas de nudos pasadas en ranuras [2006.01]"
+  },
+  {
+    "code": "D03C 3/16",
+    "description": "••Máquinas Verdol u otras máquinas Jacquard que tienen un juego de agujas dirigidas que sirven de mediación entre las agujas de lectura y los ganchos de elevación [2006.01]"
+  },
+  {
+    "code": "D03C 3/18",
+    "description": "••Máquinas Jacquard para orillos [2006.01]"
+  },
+  {
+    "code": "D03C 3/20",
+    "description": "••Máquinas Jacquard de mando eléctrico [2006.01]"
+  },
+  {
+    "code": "D03C 3/22",
+    "description": "••Máquinas Jacquard de mando por fluido [2006.01]"
+  },
+  {
+    "code": "D03C 3/24",
+    "description": "••Características comunes a máquinas Jacquard de tipos diferentes [2006.01]"
+  },
+  {
+    "code": "D03C 3/26",
+    "description": "••••Dispositivos en general de máquinas Jacquard o disposición en relación con el telar [2006.01]"
+  },
+  {
+    "code": "D03C 3/28",
+    "description": "••••Búsqueda de la pasada; Dispositivos para impedir la apertura de la calada siguiente durante la parada del telar [2006.01]"
+  },
+  {
+    "code": "D03C 3/30",
+    "description": "••••Dispositivos en los cuales los ganchos son dirigidos positivamente para cerrar la calada [2006.01]"
+  },
+  {
+    "code": "D03C 3/32",
+    "description": "••••Mecanismos para accionar las máquinas Jacquard [2006.01]"
+  },
+  {
+    "code": "D03C 3/34",
+    "description": "••••••Mecanismos que accionan el cilindro [2006.01]"
+  },
+  {
+    "code": "D03C 3/36",
+    "description": "••••••Mecanismos que accionan la grifa [2006.01]"
+  },
+  {
+    "code": "D03C 3/38",
+    "description": "••••Tablas de arcadas [2006.01]"
+  },
+  {
+    "code": "D03C 3/40",
+    "description": "••••Estructura del arnés [2006.01]"
+  },
+  {
+    "code": "D03C 3/42",
+    "description": "••••Dispositivos del arnés [2006.01]"
+  },
+  {
+    "code": "D03C 3/44",
+    "description": "••••Plomos o pesos (para lizos Jacquard) [2006.01]"
+  },
+  {
+    "code": "D03C 5/00",
+    "description": "Levas u otros mecanismos de la calada de acción directa, es decir, que regulan los cuadros de lizos sin intervención de un dispositivo que suministra la energía [2006.01]"
+  },
+  {
+    "code": "D03C 5/02",
+    "description": "••mandados por levas rotativas [2006.01]"
+  },
+  {
+    "code": "D03C 5/04",
+    "description": "••••Estructura o forma de las levas (levas en general F16H 53/00) [2006.01]"
+  },
+  {
+    "code": "D03C 5/06",
+    "description": "••mandados por dispositivos distintos de las levas rotativas [2006.01]"
+  },
+  {
+    "code": "D03C 7/00",
+    "description": "Mecanismos para \"gasa de vuelta\" o mecanismos similares para la formación de la calada [2006.01]"
+  },
+  {
+    "code": "D03C 7/02",
+    "description": "••Lizos de gasas [2006.01]"
+  },
+  {
+    "code": "D03C 7/04",
+    "description": "••Mecanismos que tienen discos oscilantes alrededor de un eje dirigido según la trama y teniendo aberturas para los hilos de la urdimbre [2006.01]"
+  },
+  {
+    "code": "D03C 7/06",
+    "description": "••Mecanismos que tienen agujas de ojete para hacer pasar hilos de urdimbre de una parte y de la otra, de otros hilos de la urdimbre [2006.01]"
+  },
+  {
+    "code": "D03C 7/08",
+    "description": "••Dispositivos para torcer los hilos de urdimbre de manera repetida en el mismo sentido [2006.01]"
+  },
+  {
+    "code": "D03C 9/00",
+    "description": "Lizos; Cuadros de lizos (para \"gasa de vuelta\" D03C 7/00) [2006.01]"
+  },
+  {
+    "code": "D03C 9/02",
+    "description": "••Lizos [2006.01]"
+  },
+  {
+    "code": "D03C 9/04",
+    "description": "••••Lizos metálicos [2006.01]"
+  },
+  {
+    "code": "D03C 9/06",
+    "description": "••Cuadros para lizos [2006.01]"
+  },
+  {
+    "code": "D03C 11/00",
+    "description": "Mecanismos de formación para la calada de los orillos, no formando parte del mecanismo de la calada principal (máquinas Jacquard para orillos D03C 3/18; mecanismos para orillos del tipo \"gasa de vuelta\" D03C 7/00) [2006.01]"
+  },
+  {
+    "code": "D03C 13/00",
+    "description": "Mecanismos de formación para la calada no previstos en otro lugar [2006.01]"
+  },
+  {
+    "code": "D03C 15/00",
+    "description": "Cartones o urdimbres de dibujos [2006.01]"
+  },
+  {
+    "code": "D03C 15/02",
+    "description": "••Urdimbres metálicas, en madera o en materiales similares con piezas que hacen saliente e indican el dibujo [2006.01]"
+  },
+  {
+    "code": "D03C 15/04",
+    "description": "••Cartones o papeles perforados para indicar el dibujo [2006.01]"
+  },
+  {
+    "code": "D03C 15/06",
+    "description": "••Aparatos para situar o para retirar las clavijas de cartones de los dibujos [2006.01]"
+  },
+  {
+    "code": "D03C 15/08",
+    "description": "••Aparatos para reunir, p. ej. por lazada, o para separar cartones de dibujos [2006.01]"
+  },
+  {
+    "code": "D03C 17/00",
+    "description": "Aparatos para perforar los cartones (marcado de los portadores de registros en la forma digital G06K) [2006.01]"
+  },
+  {
+    "code": "D03C 17/02",
+    "description": "••de mando manual, es decir, que los agujeros a perforar están determinados por el operador [2006.01]"
+  },
+  {
+    "code": "D03C 17/04",
+    "description": "••••de mando mecánico [2006.01]"
+  },
+  {
+    "code": "D03C 17/06",
+    "description": "••automáticos, es decir, para regular el aparato a perforar o para regular el telar Jacquard directamente por exploración óptica o de otro modo [2006.01]"
+  },
+  {
+    "code": "D03C 19/00",
+    "description": "Métodos diversos o dispositivos relativos a la puesta en cartón o a la creación de dibujos, no previstos en otros grupos de esta subclase [2006.01]"
+  }
+]

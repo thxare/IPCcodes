@@ -1,0 +1,370 @@
+[
+  {
+    "code": "G01M 1/00",
+    "description": "Ensayo del equilibrado estático o dinámico de máquinas o estructuras [2006.01]"
+  },
+  {
+    "code": "G01M 1/02",
+    "description": "••Detalles de máquinas o dispositivos de equilibrado [2006.01]"
+  },
+  {
+    "code": "G01M 1/04",
+    "description": "••••Adaptación de conjuntos de soporte destinados a recibir el objeto a ensayar [2006.01]"
+  },
+  {
+    "code": "G01M 1/06",
+    "description": "••••Adaptación de los conjuntos de accionamiento para el objeto a ensayar [2006.01]"
+  },
+  {
+    "code": "G01M 1/08",
+    "description": "••••Instrumentos que indican directamente la amplitud y la fase del desequilibrio [2006.01]"
+  },
+  {
+    "code": "G01M 1/10",
+    "description": "••Determinación del momento de inercia [2006.01]"
+  },
+  {
+    "code": "G01M 1/12",
+    "description": "••Equilibrado estático; Determinación de la posición del centro de gravedad (por determinación del desequilibrio G01M 1/14) [2006.01]"
+  },
+  {
+    "code": "G01M 1/14",
+    "description": "••Determinación del desequilibrio (G01M 1/30, G01M 1/38 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G01M 1/16",
+    "description": "••••dando al objeto a ensayar un movimiento de oscilación o de rotación [2006.01]"
+  },
+  {
+    "code": "G01M 1/18",
+    "description": "••••••y desacelerándole después de haberle lanzado a una velocidad superior a su velocidad normal [2006.01]"
+  },
+  {
+    "code": "G01M 1/20",
+    "description": "••••••y aplicándole fuerzas exteriores que compensen las debidas al desequilibrio [2006.01]"
+  },
+  {
+    "code": "G01M 1/22",
+    "description": "••••••y convirtiendo las vibraciones debidas al desequilibrio en variables eléctricas [2006.01]"
+  },
+  {
+    "code": "G01M 1/24",
+    "description": "••••••Realización del equilibrado sobre transmisiones elásticas, p. ej. para los cigüeñales [2006.01]"
+  },
+  {
+    "code": "G01M 1/26",
+    "description": "••••••con adaptaciones especiales para el marcado, p. ej. por perforación [2006.01]"
+  },
+  {
+    "code": "G01M 1/28",
+    "description": "••••••con adaptaciones particulares para determinar el desequilibrio del objeto in situ, p. ej. de ruedas de vehículos [2006.01]"
+  },
+  {
+    "code": "G01M 1/30",
+    "description": "••Compensación del desequilibrio (G01M 1/38 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01M 1/32",
+    "description": "••••por adición de material al objeto a ensayar, p. ej. por pesos correctores [2006.01]"
+  },
+  {
+    "code": "G01M 1/34",
+    "description": "••••por eliminación de material del objeto a ensayar, p. ej. de la superficie de rodadura de neumáticos [2006.01]"
+  },
+  {
+    "code": "G01M 1/36",
+    "description": "••••por modificación del emplazamiento de masas incrustadas en el objeto a ensayar [2006.01]"
+  },
+  {
+    "code": "G01M 1/38",
+    "description": "••Máquinas o dispositivos para determinar y corregir a la vez el desequilibrio [2006.01]"
+  },
+  {
+    "code": "G01M 3/00",
+    "description": "Examen de la estanqueidad de estructuras ante un fluido [2006.01]"
+  },
+  {
+    "code": "G01M 3/02",
+    "description": "••por utilización de un fluido o haciendo el vacío [2006.01]"
+  },
+  {
+    "code": "G01M 3/04",
+    "description": "••••por detección de la presencia del fluido en el emplazamiento de la fuga [2006.01]"
+  },
+  {
+    "code": "G01M 3/06",
+    "description": "••••••por observación de burbujas en un recipiente lleno de líquido [2006.01]"
+  },
+  {
+    "code": "G01M 3/08",
+    "description": "••••••••en tuberías, cables o tubos; en racores o juntas de estanqueidad de la tubería; en válvulas [2006.01]"
+  },
+  {
+    "code": "G01M 3/10",
+    "description": "••••••••en recipientes, p. ej. radiadores [2006.01]"
+  },
+  {
+    "code": "G01M 3/12",
+    "description": "••••••por observación de envolventes o de revestimientos elásticos, p. ej. agua jabonosa [2006.01]"
+  },
+  {
+    "code": "G01M 3/14",
+    "description": "••••••••en tuberías, cables o tubos; en racores o juntas de estanqueidad de tuberías; en válvulas [2006.01]"
+  },
+  {
+    "code": "G01M 3/16",
+    "description": "••••••utilizando medios de detección eléctrica (G01M 3/06, G01M 3/12, G01M 3/20, G01M 3/24, G01M 3/26 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G01M 3/18",
+    "description": "••••••••en tuberías, cables o tubos; en racores o juntas de estanqueidad de tuberías; en válvulas [2006.01]"
+  },
+  {
+    "code": "G01M 3/20",
+    "description": "••••••utilizando reveladores especiales, p. ej. tintura, productos fluorescentes, productos radiactivos [2006.01]"
+  },
+  {
+    "code": "G01M 3/22",
+    "description": "••••••••en tuberías, cables o tubos; en racores o estanqueidad de tuberías; en válvulas [2006.01]"
+  },
+  {
+    "code": "G01M 3/24",
+    "description": "••••••utilizando vibraciones infrasónicas, sónicas o ultrasónicas [2006.01]"
+  },
+  {
+    "code": "G01M 3/26",
+    "description": "••••por medida de la proporción de pérdida o ganancia de fluido, p. ej. con dispositivos que reaccionan a la presión, con indicadores de caudal [2006.01]"
+  },
+  {
+    "code": "G01M 3/28",
+    "description": "••••••en tuberías, cables o tubos; en racores o juntas de estanqueidad de tuberías; en válvulas [2006.01]"
+  },
+  {
+    "code": "G01M 3/30",
+    "description": "••••••••utilizando el desplazamiento progresivo de un fluido mediante otro fluido [2006.01]"
+  },
+  {
+    "code": "G01M 3/32",
+    "description": "••••••en recipientes, p. ej. radiadores [2006.01]"
+  },
+  {
+    "code": "G01M 3/34",
+    "description": "••••••••ensayando si el vacío puede ser mantenido en los recipientes, p. ej. en las máquinas para ensayar los botes de conserva [2006.01]"
+  },
+  {
+    "code": "G01M 3/36",
+    "description": "••••por detección de variaciones en las dimensiones de la estructura a ensayar [2006.01]"
+  },
+  {
+    "code": "G01M 3/38",
+    "description": "••por utilización de la luz (G01M 3/02 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01M 3/40",
+    "description": "••por utilización de medios eléctricos, p. ej. por observación de descargas eléctricas [2006.01]"
+  },
+  {
+    "code": "G01M 5/00",
+    "description": "Examen de la elasticidad de estructuras, p. ej. flechas de puentes o alas de aviones (G01M 9/00 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01M 7/00",
+    "description": "Ensayo de vibraciones de estructuras; Ensayo de resistencia al choque de las estructuras (G01M 9/00 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01M 7/02",
+    "description": "••Ensayo de vibración [2006.01]"
+  },
+  {
+    "code": "G01M 7/04",
+    "description": "••••Soportes para ensayo unidireccional [2006.01]"
+  },
+  {
+    "code": "G01M 7/06",
+    "description": "••••Soportes para ensayo multidireccional [2006.01]"
+  },
+  {
+    "code": "G01M 7/08",
+    "description": "••Ensayo de resistencia al choque [2006.01]"
+  },
+  {
+    "code": "G01M 9/00",
+    "description": "Ensayos aerodinámicos; Dispositivos en o sobre túneles aerodinámicos [2006.01]"
+  },
+  {
+    "code": "G01M 9/02",
+    "description": "••Túneles aerodinámicos [2006.01]"
+  },
+  {
+    "code": "G01M 9/04",
+    "description": "••••Detalles [2006.01]"
+  },
+  {
+    "code": "G01M 9/06",
+    "description": "••Dispositivos de medida especialmente adaptados para ensayos aerodinámicos [2006.01]"
+  },
+  {
+    "code": "G01M 9/08",
+    "description": "••Modelos aerodinámicos [2006.01]"
+  },
+  {
+    "code": "G01M 10/00",
+    "description": "Ensayos hidrodinámicos; Dispositivos en o sobre los canales de prueba de buques o los túneles hidráulicos [2006.01]"
+  },
+  {
+    "code": "G01M 11/00",
+    "description": "Ensayo de aparatos ópticos; Ensayo de aparatos y estructuras por métodos ópticos, no previstos en otro lugar [2006.01]"
+  },
+  {
+    "code": "G01M 11/02",
+    "description": "••Ensayos de las propiedades ópticas [2006.01]"
+  },
+  {
+    "code": "G01M 11/04",
+    "description": "••••Bancos ópticos a tal efecto [2006.01]"
+  },
+  {
+    "code": "G01M 11/06",
+    "description": "••••Ensayos de alineación de los dispositivos de iluminación delantera de vehículos [2006.01]"
+  },
+  {
+    "code": "G01M 11/08",
+    "description": "••Ensayos de las propiedades mecánicas [2006.01]"
+  },
+  {
+    "code": "G01M 13/00",
+    "description": "Ensayos de partes de la máquina [2019.01]"
+  },
+  {
+    "code": "G01M 13/003",
+    "description": "••Válvulas de la máquina (ensayos de las válvulas para ver la estanqueidad ante fluidos G01M 3/00) [2019.01]"
+  },
+  {
+    "code": "G01M 13/005",
+    "description": "••Juntas de estanqueidad [2019.01]"
+  },
+  {
+    "code": "G01M 13/02",
+    "description": "••Engranajes; Mecanismos de transmisión [2019.01]"
+  },
+  {
+    "code": "G01M 13/021",
+    "description": "••••Engranajes [2019.01]"
+  },
+  {
+    "code": "G01M 13/022",
+    "description": "••••Acoplamientos de transmisión de potencia o embragues [2019.01]"
+  },
+  {
+    "code": "G01M 13/023",
+    "description": "••••Elementos continuos para la transmisión de potencia, p. ej. cintas o cadenas [2019.01]"
+  },
+  {
+    "code": "G01M 13/025",
+    "description": "••••Bancos de ensayo con medios para la transmisión rotacional y para la carga; Simulación de carga y  transmisión [2019.01]"
+  },
+  {
+    "code": "G01M 13/026",
+    "description": "••••••Bancos de ensayo del tipo mecánico circuito cerrado, p. ej. teniendo un sistema de engranaje constituyendo un circuito cerrado en combinación con el objeto bajo ensayo [2019.01]"
+  },
+  {
+    "code": "G01M 13/027",
+    "description": "••••Bancos de ensayo con medios para aplicar fuerzas, p. ej. carga de ejes de transmisión a lo largo de varias direcciones [2019.01]"
+  },
+  {
+    "code": "G01M 13/028",
+    "description": "••••Análisis acústico o de vibraciones [2019.01]"
+  },
+  {
+    "code": "G01M 13/04",
+    "description": "••Rodamientos [2019.01]"
+  },
+  {
+    "code": "G01M 13/045",
+    "description": "••••Análisis acústico o de vibraciones [2019.01]"
+  },
+  {
+    "code": "G01M 15/00",
+    "description": "Ensayos de motores [2006.01]"
+  },
+  {
+    "code": "G01M 15/02",
+    "description": "••Detalles o accesorios de los aparatos de ensayo [2006.01]"
+  },
+  {
+    "code": "G01M 15/04",
+    "description": "••Ensayos de motores de combustión interna [2006.01]"
+  },
+  {
+    "code": "G01M 15/05",
+    "description": "••••mediante la monitorización combinada de dos o más parámetros diferentes del motor [2006.01]"
+  },
+  {
+    "code": "G01M 15/06",
+    "description": "••••mediante la monitorización de las posiciones de émbolos o cigüeñales [2006.01]"
+  },
+  {
+    "code": "G01M 15/08",
+    "description": "••••mediante la monitorización de la presión de los cilindros [2006.01]"
+  },
+  {
+    "code": "G01M 15/09",
+    "description": "••••mediante la monitorización de la presión de los conductos de fluido, p. ej. en los sistemas de refrigeración o lubricación [2006.01]"
+  },
+  {
+    "code": "G01M 15/10",
+    "description": "••••mediante la monitorización de los gases de escape [2006.01]"
+  },
+  {
+    "code": "G01M 15/11",
+    "description": "••••mediante la detección de fallos en el encendido (\"misfire\") [2006.01]"
+  },
+  {
+    "code": "G01M 15/12",
+    "description": "••••mediante la monitorización de vibraciones [2006.01]"
+  },
+  {
+    "code": "G01M 15/14",
+    "description": "••Ensayo de motores de turbinas de gas o de motores de propulsión a chorro [2006.01]"
+  },
+  {
+    "code": "G01M 17/00",
+    "description": "Ensayos de vehículos (ensayos de estanqueidad G01M 3/00; ensayos de las propiedades elásticas de carcasas o chasis, p. ej. ensayos de torsión G01M 5/00; ensayos de alineación de los dispositivos de iluminación delantera de vehículos G01M 11/06; ensayos de motores G01M 15/00) [2006.01]"
+  },
+  {
+    "code": "G01M 17/007",
+    "description": "••Vehículos de ruedas o vehículos oruga (G01M 17/08 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01M 17/013",
+    "description": "••••Ruedas [2006.01]"
+  },
+  {
+    "code": "G01M 17/02",
+    "description": "••••Neumáticos [2006.01]"
+  },
+  {
+    "code": "G01M 17/03",
+    "description": "••••Vehículos oruga [2006.01]"
+  },
+  {
+    "code": "G01M 17/04",
+    "description": "••••Suspensión o amortiguación [2006.01]"
+  },
+  {
+    "code": "G01M 17/06",
+    "description": "••••Comportamiento de la dirección; Comportamiento del tren de rodadura [2006.01]"
+  },
+  {
+    "code": "G01M 17/08",
+    "description": "••Vehículos ferroviarios [2006.01]"
+  },
+  {
+    "code": "G01M 17/10",
+    "description": "••••Suspensiones, ejes o ruedas [2006.01]"
+  },
+  {
+    "code": "G01M 99/00",
+    "description": "Ensayo de estructuras o aparatos, no previstos en los otros grupos de esta subclase [2011.01]"
+  }
+]

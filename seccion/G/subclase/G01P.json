@@ -1,0 +1,410 @@
+[
+  {
+    "code": "G01P 1/00",
+    "description": "Partes constitutivas de instrumentos [2006.01]"
+  },
+  {
+    "code": "G01P 1/02",
+    "description": "••Carcasas [2006.01]"
+  },
+  {
+    "code": "G01P 1/04",
+    "description": "••Adaptaciones particulares de los medios de accionamiento [2006.01]"
+  },
+  {
+    "code": "G01P 1/07",
+    "description": "••Dispositivos indicadores, p. ej. para la indicación a distancia [2006.01]"
+  },
+  {
+    "code": "G01P 1/08",
+    "description": "••••Disposiciones de escalas, agujas, lámparas o indicadores acústicos, p. ej. en los tacómetros de los vehículos automóviles [2006.01]"
+  },
+  {
+    "code": "G01P 1/10",
+    "description": "••••••para indicar velocidades predeterminadas [2006.01]"
+  },
+  {
+    "code": "G01P 1/11",
+    "description": "••••••••por detección de la posición de la aguja indicadora [2006.01]"
+  },
+  {
+    "code": "G01P 1/12",
+    "description": "••Dispositivos registradores [2006.01]"
+  },
+  {
+    "code": "G01P 1/14",
+    "description": "••••realizando registros permanentes [2006.01]"
+  },
+  {
+    "code": "G01P 1/16",
+    "description": "••••realizando registros borrables, p. ej. registros magnéticos [2006.01]"
+  },
+  {
+    "code": "G01P 3/00",
+    "description": "Medida de la velocidad lineal o angular; Medida de diferencias de velocidades lineales o angulares (G01P 5/00-G01P 11/00 tienen prioridad; midiendo la velocidad angular utilizando efectos giroscópicos G01C 19/00) [2006.01]"
+  },
+  {
+    "code": "G01P 3/02",
+    "description": "••Dispositivos caracterizados por el empleo de medios mecánicos [2006.01]"
+  },
+  {
+    "code": "G01P 3/04",
+    "description": "••••por comparación de dos velocidades [2006.01]"
+  },
+  {
+    "code": "G01P 3/06",
+    "description": "••••••utilizando un mecanismo de fricción [2006.01]"
+  },
+  {
+    "code": "G01P 3/08",
+    "description": "••••••utilizando una transmisión por diferencial [2006.01]"
+  },
+  {
+    "code": "G01P 3/10",
+    "description": "••••accionando un elemento indicador, p. ej. un índice, durante un tiempo fijo [2006.01]"
+  },
+  {
+    "code": "G01P 3/12",
+    "description": "••••utilizando un sistema excitado por choque [2006.01]"
+  },
+  {
+    "code": "G01P 3/14",
+    "description": "••••por excitación de uno o varios sistemas de resonancia mecánica [2006.01]"
+  },
+  {
+    "code": "G01P 3/16",
+    "description": "••••por utilización de fuerzas centrífugas de masas sólidas [2006.01]"
+  },
+  {
+    "code": "G01P 3/18",
+    "description": "••••••transferidas al indicador por medios mecánicos [2006.01]"
+  },
+  {
+    "code": "G01P 3/20",
+    "description": "••••••transferidos al indicador por medio de fluidos [2006.01]"
+  },
+  {
+    "code": "G01P 3/22",
+    "description": "••••••transferidos al indicador por medios eléctricos o magnéticos [2006.01]"
+  },
+  {
+    "code": "G01P 3/24",
+    "description": "••••utilizando efectos de fricción (G01P 3/06 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01P 3/26",
+    "description": "••Dispositivos caracterizados por el empleo de fluidos [2006.01]"
+  },
+  {
+    "code": "G01P 3/28",
+    "description": "••••utilizando bombas [2006.01]"
+  },
+  {
+    "code": "G01P 3/30",
+    "description": "••••utilizando las fuerzas centrífugas de los fluidos [2006.01]"
+  },
+  {
+    "code": "G01P 3/32",
+    "description": "••••••en un recipiente rotativo que comunica con un recipiente fijo [2006.01]"
+  },
+  {
+    "code": "G01P 3/34",
+    "description": "••••utilizando efectos de fricción [2006.01]"
+  },
+  {
+    "code": "G01P 3/36",
+    "description": "••Dispositivos caracterizados por el empleo de medios ópticos, p. ej. utilizando la luz infrarroja, visible o ultravioleta (G01P 3/68 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01P 3/38",
+    "description": "••••utilizando medios fotográficos [2006.01]"
+  },
+  {
+    "code": "G01P 3/40",
+    "description": "••••utilizando medios estroboscópicos [2006.01]"
+  },
+  {
+    "code": "G01P 3/42",
+    "description": "••Dispositivos caracterizados por la utilización de medios eléctricos o magnéticos (G01P 3/66 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01P 3/44",
+    "description": "••••para medir la velocidad angular (G01P 3/56 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01P 3/46",
+    "description": "••••••midiendo la amplitud de la corriente o tensión generadas [2006.01]"
+  },
+  {
+    "code": "G01P 3/48",
+    "description": "••••••midiendo la frecuencia de la corriente o tensión generadas [2006.01]"
+  },
+  {
+    "code": "G01P 3/481",
+    "description": "••••••••teniendo las señales la forma de impulsos [2006.01]"
+  },
+  {
+    "code": "G01P 3/482",
+    "description": "••••••••••emitidos por detectores de radiaciones nucleares [2006.01]"
+  },
+  {
+    "code": "G01P 3/483",
+    "description": "••••••••••emitidos por detectores con capacidad variable [2006.01]"
+  },
+  {
+    "code": "G01P 3/484",
+    "description": "••••••••••emitidos por interruptores con contactos móviles [2006.01]"
+  },
+  {
+    "code": "G01P 3/486",
+    "description": "••••••••••emitidos por detectores fotoeléctricos [2006.01]"
+  },
+  {
+    "code": "G01P 3/487",
+    "description": "••••••••••emitidos por imanes rotativos [2006.01]"
+  },
+  {
+    "code": "G01P 3/488",
+    "description": "••••••••••emitidos por detectores con reluctancia variable [2006.01]"
+  },
+  {
+    "code": "G01P 3/489",
+    "description": "••••••••••Circuitos digitales a este efecto [2006.01]"
+  },
+  {
+    "code": "G01P 3/49",
+    "description": "••••••utilizando las corrientes de Foucault [2006.01]"
+  },
+  {
+    "code": "G01P 3/495",
+    "description": "••••••••en las cuales el medio indicador responde a las fuerzas producidas por las corrientes de Foucault y el campo magnético inductor [2006.01]"
+  },
+  {
+    "code": "G01P 3/50",
+    "description": "••••para medir una velocidad lineal (G01P 3/56 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01P 3/52",
+    "description": "••••••midiendo la amplitud de corriente o tensión generadas [2006.01]"
+  },
+  {
+    "code": "G01P 3/54",
+    "description": "••••••midiendo la frecuencia de corriente o tensión generadas [2006.01]"
+  },
+  {
+    "code": "G01P 3/56",
+    "description": "••••para comparar dos velocidades [2006.01]"
+  },
+  {
+    "code": "G01P 3/58",
+    "description": "••••••midiendo o comparando las amplitudes de las corrientes o de las tensiones generadas [2006.01]"
+  },
+  {
+    "code": "G01P 3/60",
+    "description": "••••••midiendo o comparando la frecuencia de las corrientes o de tensiones generadas [2006.01]"
+  },
+  {
+    "code": "G01P 3/62",
+    "description": "••Dispositivos caracterizados por la utilización de la variación de la presión atmósferica con la altitud para medir la componente vertical de la velocidad [2006.01]"
+  },
+  {
+    "code": "G01P 3/64",
+    "description": "••Dispositivos caracterizados por la determinación del tiempo empleado en recorrer una distancia constante [2006.01]"
+  },
+  {
+    "code": "G01P 3/66",
+    "description": "••••utilizando medios eléctricos o magnéticos (G01P 3/80 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01P 3/68",
+    "description": "••••utilizando medios ópticos, es decir, utilizando la luz infrarroja, visible o ultravioleta (G01P 3/80 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01P 3/80",
+    "description": "••••utilizando medios de detección de autocorrelación o de intercorrelación [2006.01]"
+  },
+  {
+    "code": "G01P 5/00",
+    "description": "Medida de la velocidad de los fluidos, p. ej. de una corriente atmosférica; Medida de la velocidad de los cuerpos, p. ej. buques, aeronaves, en relación con los fluidos (aplicación de dispositivos de medida de la velocidad a la medida del volumen de los fluidos G01F) [2006.01]"
+  },
+  {
+    "code": "G01P 5/01",
+    "description": "••utilizando contadores de torbellinos [2006.01]"
+  },
+  {
+    "code": "G01P 5/02",
+    "description": "••midiendo las fuerzas ejercidas por el fluido sobre cuerpos sólidos, p. ej. anemómetros [2006.01]"
+  },
+  {
+    "code": "G01P 5/04",
+    "description": "••••utilizando la deflexión por placas en zig-zag [2006.01]"
+  },
+  {
+    "code": "G01P 5/06",
+    "description": "••••utilizando la rotación de paletas [2006.01]"
+  },
+  {
+    "code": "G01P 5/07",
+    "description": "••••••con acoplamiento eléctrico al dispositivo indicador [2006.01]"
+  },
+  {
+    "code": "G01P 5/08",
+    "description": "••midiendo la variación de una variable eléctrica directamente afectada por el flujo, p. ej. utilizando un efecto dinamoeléctrico [2006.01]"
+  },
+  {
+    "code": "G01P 5/10",
+    "description": "••midiendo variables térmicas [2006.01]"
+  },
+  {
+    "code": "G01P 5/12",
+    "description": "••••utilizando la variación de la resistencia de un conductor calentado [2006.01]"
+  },
+  {
+    "code": "G01P 5/14",
+    "description": "••midiendo las diferencias de presión en el fluido [2006.01]"
+  },
+  {
+    "code": "G01P 5/16",
+    "description": "••••utilizando tubos de Pitot [2006.01]"
+  },
+  {
+    "code": "G01P 5/165",
+    "description": "••••••Disposición o estructura de los tubos de Pitot [2006.01]"
+  },
+  {
+    "code": "G01P 5/17",
+    "description": "••••••Dispositivos de acoplamiento al dispositivo indicador [2006.01]"
+  },
+  {
+    "code": "G01P 5/175",
+    "description": "••••••••con determinación del número de Mach [2006.01]"
+  },
+  {
+    "code": "G01P 5/18",
+    "description": "••midiendo el tiempo que el fluido emplea en recorrer una distancia constante [2006.01]"
+  },
+  {
+    "code": "G01P 5/20",
+    "description": "••••utilizando partículas accionadas por una corriente de fluido (G01P 5/22 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01P 5/22",
+    "description": "••••utilizando medios de detección de autocorrelación o de intercorrelación [2006.01]"
+  },
+  {
+    "code": "G01P 5/24",
+    "description": "••midiendo la influencia directa de la corriente de fluido en las propiedades de una onda acústica de detección [2006.01]"
+  },
+  {
+    "code": "G01P 5/26",
+    "description": "••midiendo la influencia directa de la corriente de fluido en las propiedades de una onda luminosa de detección [2006.01]"
+  },
+  {
+    "code": "G01P 7/00",
+    "description": "Medida de la velocidad por integración de la aceleración (navegación inercial, p. ej. calculando la posición o la velocidad abordo del objeto, por integración de la velocidad o de la aceleración G01C 21/16) [2006.01]"
+  },
+  {
+    "code": "G01P 11/00",
+    "description": "Medida del valor medio de la velocidad (por determinación del tiempo empleado en recorrer una distancia constante G01P 3/64, G01P 5/18) [2006.01]"
+  },
+  {
+    "code": "G01P 11/02",
+    "description": "••Medida de la velocidad media de un cierto número de cuerpos, p. ej. de vehículos para control de la circulación [2006.01]"
+  },
+  {
+    "code": "G01P 13/00",
+    "description": "Indicación o registro de la existencia, ausencia o de la dirección de un movimiento; Indicación o registro de la dirección del movimiento [2006.01]"
+  },
+  {
+    "code": "G01P 13/02",
+    "description": "••Indicación de la dirección solamente, p. ej. con una veleta [2006.01]"
+  },
+  {
+    "code": "G01P 13/04",
+    "description": "••••Indicación del sentido positivo o negativo de un movimiento lineal o del sentido horario o antihorario de un movimiento de rotación [2006.01]"
+  },
+  {
+    "code": "G01P 15/00",
+    "description": "Medida de la aceleración; Medida de la deceleración; Medida de los choques, es decir, de una variación brusca de la aceleración [2006.01]"
+  },
+  {
+    "code": "G01P 15/02",
+    "description": "••haciendo uso de las fuerzas de inercia (G01P 15/14, tienen prioridad) [2013.01]"
+  },
+  {
+    "code": "G01P 15/03",
+    "description": "••••utilizando medios no eléctricos [2006.01]"
+  },
+  {
+    "code": "G01P 15/04",
+    "description": "••••para indicar un valor máximo [2006.01]"
+  },
+  {
+    "code": "G01P 15/06",
+    "description": "••••••utilizando órganos sometidos a una deformación permanente [2006.01]"
+  },
+  {
+    "code": "G01P 15/08",
+    "description": "••••con conversión en valores eléctricos o magnéticos [2006.01]"
+  },
+  {
+    "code": "G01P 15/09",
+    "description": "••••••por medio de captadores piezoeléctricos [2006.01]"
+  },
+  {
+    "code": "G01P 15/093",
+    "description": "••••••por medio de captadores fotoeléctricos [2006.01]"
+  },
+  {
+    "code": "G01P 15/097",
+    "description": "••••••por medio de elementos vibratorios [2006.01]"
+  },
+  {
+    "code": "G01P 15/10",
+    "description": "••••••••por cuerdas vibrantes [2006.01]"
+  },
+  {
+    "code": "G01P 15/105",
+    "description": "••••••por medio de dispositivos sensibles a los campos magnéticos [2006.01]"
+  },
+  {
+    "code": "G01P 15/11",
+    "description": "••••••••por medio de captadores de inducción [2006.01]"
+  },
+  {
+    "code": "G01P 15/12",
+    "description": "••••••por modificación de una resistencia eléctrica [2006.01]"
+  },
+  {
+    "code": "G01P 15/125",
+    "description": "••••••por medio de captadores de capacidad [2006.01]"
+  },
+  {
+    "code": "G01P 15/13",
+    "description": "••••••midiendo la fuerza necesaria para devolver a la posición de reposo una masa de prueba sometida a las fuerzas de inercia [2006.01]"
+  },
+  {
+    "code": "G01P 15/135",
+    "description": "••••••utilizando contactos que son accionados por una masa móvil [2006.01]"
+  },
+  {
+    "code": "G01P 15/14",
+    "description": "••utilizando un giróscopo [2013.01]"
+  },
+  {
+    "code": "G01P 15/16",
+    "description": "••calculando la derivada con relación al tiempo de una señal de velocidad medida [2013.01]"
+  },
+  {
+    "code": "G01P 15/18",
+    "description": "••en dos o más dimensiones [2013.01]"
+  },
+  {
+    "code": "G01P 21/00",
+    "description": "Ensayo o calibrado de aparatos o de dispositivos comprendidos en los otros grupos de esta subclase [2006.01]"
+  },
+  {
+    "code": "G01P 21/02",
+    "description": "••de tacómetros [2006.01]"
+  }
+]

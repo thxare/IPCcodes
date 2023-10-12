@@ -1,0 +1,2082 @@
+[
+  {
+    "code": "G11B 3/00",
+    "description": "Registro por grabado, deformación o prensado mecánicos, p. ej. de surcos o de huecos; Reproducción por lectura mecánica; Soportes de registros correspondientes (G11B 11/00 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G11B 3/02",
+    "description": "••Instalaciones de cabezas [2006.01]"
+  },
+  {
+    "code": "G11B 3/04",
+    "description": "••••Instalaciones de transductores múltiples, transformables, o de utilizaciones alternadas [2006.01]"
+  },
+  {
+    "code": "G11B 3/06",
+    "description": "••••Determinación o indicación de la posición de la cabeza [2006.01]"
+  },
+  {
+    "code": "G11B 3/08",
+    "description": "••••Levantamiento, abatimiento, desplazamiento transversal distinto de la transducción, parada o mantenimiento de las cabezas contra los soportes de registro [2006.01]"
+  },
+  {
+    "code": "G11B 3/085",
+    "description": "••••••utilizando medios automáticos (G11B 3/095 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G11B 3/09",
+    "description": "••••••utilizando sólo medios manuales (G11B 3/095 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G11B 3/095",
+    "description": "••••••para repetir una parte del registro; para comenzar o parar en un lugar deseado del registro [2006.01]"
+  },
+  {
+    "code": "G11B 3/10",
+    "description": "••••Disposiciones, soportes o accionamiento de cabezas o de transductores en relación a los soportes de registro [2006.01]"
+  },
+  {
+    "code": "G11B 3/12",
+    "description": "••••••Mantenimiento en posición de trabajo, equilibrado, contraequilibrado o cargado, p. ej. cargado en dirección transversal [2006.01]"
+  },
+  {
+    "code": "G11B 3/14",
+    "description": "••••••••utilizando los efectos de la gravedad o de la inercia, p. ej. contrapesos (G11B 3/28 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G11B 3/16",
+    "description": "••••••••••regulables [2006.01]"
+  },
+  {
+    "code": "G11B 3/18",
+    "description": "••••••••••Amortiguamiento utilizando un efecto de viscosidad [2006.01]"
+  },
+  {
+    "code": "G11B 3/20",
+    "description": "••••••••por medios elásticos, p. ej. resorte (G11B 3/28 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G11B 3/22",
+    "description": "••••••••••regulable [2006.01]"
+  },
+  {
+    "code": "G11B 3/24",
+    "description": "••••••••••que actúan para reducir la presión sobre el soporte de registro [2006.01]"
+  },
+  {
+    "code": "G11B 3/26",
+    "description": "••••••••••que actúan para aumentar la presión sobre el soporte de registro [2006.01]"
+  },
+  {
+    "code": "G11B 3/28",
+    "description": "••••••••suministrando una fuerza inicial transversal y paralela al soporte de registro [2006.01]"
+  },
+  {
+    "code": "G11B 3/30",
+    "description": "••••••Dispositivos de soporte en posición de reposo [2006.01]"
+  },
+  {
+    "code": "G11B 3/31",
+    "description": "••••••••Estructura de los brazos [2006.01]"
+  },
+  {
+    "code": "G11B 3/32",
+    "description": "••••••••Estructura o disposición de pilares-soportes [2006.01]"
+  },
+  {
+    "code": "G11B 3/34",
+    "description": "••••••Accionamiento o guiado de las cabezas durante la operación de transducción [2006.01]"
+  },
+  {
+    "code": "G11B 3/36",
+    "description": "••••••••Mecanismos de alimentación automática que aseguran el desplazamiento transversal progresivo a través de los soportes de registro, de forma diferente que por surcos, p. ej. por tornillos sin fin [2006.01]"
+  },
+  {
+    "code": "G11B 3/38",
+    "description": "••••••••Guiado, p. ej. estructuras o disposiciones que aseguran características de desplazamiento lineales u otras [2006.01]"
+  },
+  {
+    "code": "G11B 3/40",
+    "description": "••••••••Lectura de registro por desplazamiento de cabezas en relación a soportes de registro inmóviles [2006.01]"
+  },
+  {
+    "code": "G11B 3/42",
+    "description": "••••••con disposiciones para la adaptación o el cambio de cabezas [2006.01]"
+  },
+  {
+    "code": "G11B 3/44",
+    "description": "••Estiletes, p. ej. zafiro, diamante [2006.01]"
+  },
+  {
+    "code": "G11B 3/46",
+    "description": "••••Estructuras o formas, p. ej. fijación de la aguja sobre el vástago [2006.01]"
+  },
+  {
+    "code": "G11B 3/48",
+    "description": "••••••Agujas [2006.01]"
+  },
+  {
+    "code": "G11B 3/50",
+    "description": "••••Yunques u otros soportes que se oponen a las fuerzas del estilete [2006.01]"
+  },
+  {
+    "code": "G11B 3/52",
+    "description": "••••Disposiciones que permiten a los estiletes ceder bajo el efecto de una presión excesiva [2006.01]"
+  },
+  {
+    "code": "G11B 3/54",
+    "description": "••••Almacenado; Manipulación, p. ej. colocación del estilete sobre la cabeza y quitado [2006.01]"
+  },
+  {
+    "code": "G11B 3/56",
+    "description": "••••Afilado (por molido B24B 19/16) [2006.01]"
+  },
+  {
+    "code": "G11B 3/58",
+    "description": "••Limpieza de soportes de registro o de estiletes, p. ej. eliminación de copos o de polvo [2006.01]"
+  },
+  {
+    "code": "G11B 3/60",
+    "description": "••Platos giratorios para soportes de registro [2006.01]"
+  },
+  {
+    "code": "G11B 3/61",
+    "description": "••••Amortiguamiento de las vibraciones de los soportes de registro sobre los platos giratorios [2006.01]"
+  },
+  {
+    "code": "G11B 3/64",
+    "description": "••Registro de registro, es decir, transcripción de informaciones desde un soporte de registro de surcos sobre uno o más soportes de registro similares o diferentes [2006.01]"
+  },
+  {
+    "code": "G11B 3/66",
+    "description": "••Borrado de informaciones, p. ej. para reutilización del soporte de registro [2006.01]"
+  },
+  {
+    "code": "G11B 3/68",
+    "description": "••Soportes de registro [2006.01]"
+  },
+  {
+    "code": "G11B 3/70",
+    "description": "••••caracterizados por el empleo de un material específico o por su estructura; Procedimientos o aparatos especialmente adaptados para fabricar los soportes de registro [2006.01]"
+  },
+  {
+    "code": "G11B 3/72",
+    "description": "••••Formación de surcos, p. ej. surco inicial, surco de salida [2006.01]"
+  },
+  {
+    "code": "G11B 3/74",
+    "description": "••••••Pistas de salida múltiples, p. ej. estereofónicas de dos canales de registro [2006.01]"
+  },
+  {
+    "code": "G11B 3/76",
+    "description": "••••••que forman parte de una película cinematográfica [2006.01]"
+  },
+  {
+    "code": "G11B 3/78",
+    "description": "••••Dispositivos de pistas múltiples [2006.01]"
+  },
+  {
+    "code": "G11B 3/80",
+    "description": "••••que tienen medios de guiado accesorios para las cabezas, distintos de los surcos modulados; surcos no modulados parcialmente formados, para conversiones en surco de transducción [2006.01]"
+  },
+  {
+    "code": "G11B 3/90",
+    "description": "••••con medios que permiten describir un uso anterior o no autorizado [2006.01]"
+  },
+  {
+    "code": "G11B 5/00",
+    "description": "Registro por magnetización o desmagnetización de un soporte de registro; Reproducción por medios magnéticos; Soportes de registro correspondiente (G11B 11/00 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G11B 5/004",
+    "description": "••Registro, reproducción o borrado sobre tambores magnéticos (G11B 19/00 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G11B 5/008",
+    "description": "••Registro, reproducción o borrado sobre bandas o hilos magnéticos (G11B 15/00 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G11B 5/012",
+    "description": "••Registro, reproducción o borrado sobre discos magnéticos (G11B 17/00, G11B 19/00 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G11B 5/016",
+    "description": "••••que utilizan hojas magnéticas [2006.01]"
+  },
+  {
+    "code": "G11B 5/02",
+    "description": "••Procedimientos de registro, reproducción o borrado; Circuitos correspondientes para la lectura, escritura o borrado [2006.01]"
+  },
+  {
+    "code": "G11B 5/024",
+    "description": "••••Borrado [2006.01]"
+  },
+  {
+    "code": "G11B 5/027",
+    "description": "••••Registro analógico [2006.01]"
+  },
+  {
+    "code": "G11B 5/03",
+    "description": "••••••Polarización [2006.01]"
+  },
+  {
+    "code": "G11B 5/035",
+    "description": "••••••Compensación [2006.01]"
+  },
+  {
+    "code": "G11B 5/09",
+    "description": "••••Registro digital [2006.01]"
+  },
+  {
+    "code": "G11B 5/10",
+    "description": "••Estructura o fabricación de cajas o blindajes para cabezas [2006.01]"
+  },
+  {
+    "code": "G11B 5/105",
+    "description": "••••Montaje de la cabeza en el interior de la caja [2006.01]"
+  },
+  {
+    "code": "G11B 5/11",
+    "description": "••••Blindaje de la cabeza contra los campos eléctricos o magnéticos [2006.01]"
+  },
+  {
+    "code": "G11B 5/115",
+    "description": "••••••Blindajes dispuestos entre las cabezas o los enrollamientos (G11B 5/29 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G11B 5/127",
+    "description": "••Estructura o fabricación de cabezas, p. ej. cabezas de variación de inducción [2006.01]"
+  },
+  {
+    "code": "G11B 5/133",
+    "description": "••••con núcleos formados de partículas, p. ej. núcleos de polvo, núcleos de ferrita [2006.01]"
+  },
+  {
+    "code": "G11B 5/147",
+    "description": "••••con núcleos formados de hojas metálicas, es decir núcleos de laminillas [2006.01]"
+  },
+  {
+    "code": "G11B 5/153",
+    "description": "••••••Núcleos formados por una cinta arrollada [2006.01]"
+  },
+  {
+    "code": "G11B 5/17",
+    "description": "••••Estructura o disposición de arrollamientos [2006.01]"
+  },
+  {
+    "code": "G11B 5/187",
+    "description": "••••Estructura o fabricación de la superficie de la cabeza en contacto físico con el medio de registro o inmediatamente adyacente a éste; Piezas polares; Entrehierros (G11B 5/265, G11B 5/31 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G11B 5/193",
+    "description": "••••••siendo las piezas polares de ferrita [2006.01]"
+  },
+  {
+    "code": "G11B 5/21",
+    "description": "••••••siendo las piezas polares de hojas de metales ferrosos [2006.01]"
+  },
+  {
+    "code": "G11B 5/23",
+    "description": "••••••Entrehierros [2006.01]"
+  },
+  {
+    "code": "G11B 5/235",
+    "description": "••••••••Empleo de materiales específicos para llenar el entrehierro [2006.01]"
+  },
+  {
+    "code": "G11B 5/245",
+    "description": "••••••con medios para controlar la reluctancia del circuito magnético (G11B 5/255 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G11B 5/255",
+    "description": "••••••con medios para la protección contra el desgaste [2006.01]"
+  },
+  {
+    "code": "G11B 5/265",
+    "description": "••••Estructura o fabricación de una cabeza con varios entrehierros para el borrado, el registro o la reproducción sobre la misma pista (G11B 5/33 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G11B 5/29",
+    "description": "••••Estructura o fabricación de dispositivos unitarios formados de varias cabezas para más de una pista [2006.01]"
+  },
+  {
+    "code": "G11B 5/31",
+    "description": "••••utilizando películas delgadas (G11B 5/33 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G11B 5/325",
+    "description": "••••Cabezas de borrado que utilizan imanes permanentes (detalles generales correspondientes G11B 5/133-G11B 5/255) [2006.01]"
+  },
+  {
+    "code": "G11B 5/33",
+    "description": "••••Estructura o fabricación de cabezas sensibles a un flujo (detalles generales correspondientes G11B 5/133-G11B 5/255) [2006.01]"
+  },
+  {
+    "code": "G11B 5/335",
+    "description": "••••••con sección de hierro saturado, p. ej. para detectar el segundo armónico, cabeza de flujo equilibrado [2006.01]"
+  },
+  {
+    "code": "G11B 5/35",
+    "description": "••••••con elementos vibrantes [2006.01]"
+  },
+  {
+    "code": "G11B 5/37",
+    "description": "••••••utilizando dispositivos galvanomagnéticos, p. ej. dispositivos de efecto Hall (G11B 5/39 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G11B 5/39",
+    "description": "••••••utilizando dispositivos magneto-resistivos [2006.01]"
+  },
+  {
+    "code": "G11B 5/40",
+    "description": "••Medios de protección de las cabezas, p. ej. contra una temperatura excesiva (G11B 5/31 tiene prioridad; protección contra el desgaste G11B 5/255) [2006.01]"
+  },
+  {
+    "code": "G11B 5/41",
+    "description": "••Limpieza de cabezas [2006.01]"
+  },
+  {
+    "code": "G11B 5/455",
+    "description": "••Disposiciones para el ensayo funcional de cabezas; Disposiciones de medida para cabezas [2006.01]"
+  },
+  {
+    "code": "G11B 5/465",
+    "description": "••Disposiciones para desmagnetizar las cabezas [2006.01]"
+  },
+  {
+    "code": "G11B 5/48",
+    "description": "••Disposiciones o montajes de cabezas en relación con los soportes de registro [2006.01]"
+  },
+  {
+    "code": "G11B 5/49",
+    "description": "••••Montajes fijos [2006.01]"
+  },
+  {
+    "code": "G11B 5/50",
+    "description": "••••Montajes intercambiables, p. ej. para permitir el remplazamiento de una cabeza sin necesidad de retoque de regulación [2006.01]"
+  },
+  {
+    "code": "G11B 5/52",
+    "description": "••••por desplazamiento simultáneo de la cabeza y del soporte de registro, p. ej. por rotación de la cabeza (G11B 5/588 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G11B 5/53",
+    "description": "••••••Disposición o montaje de las cabezas sobre el soporte rotativo [2006.01]"
+  },
+  {
+    "code": "G11B 5/54",
+    "description": "••••con disposiciones para llevar la cabeza a su posición de trabajo, para separarla o para desplazarla a través de las pistas [2006.01]"
+  },
+  {
+    "code": "G11B 5/55",
+    "description": "••••••Cambio, selección o adquisición de la pista por desplazamiento de la cabeza [2006.01]"
+  },
+  {
+    "code": "G11B 5/56",
+    "description": "••••que tienen disposiciones para desplazar la cabeza, para regular la posición relativa de la cabeza y del soporte de registro, p. ej. regulación manual para la corrección del azimut o para el centrado de la pista (G11B 5/54, G11B 5/58 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G11B 5/58",
+    "description": "••••con disposiciones para desplazar la cabeza con el fin de mantener la alineación relativa de la cabeza y del soporte de registro durante la operación de transducción, p. ej. para compensar las irregularidades de superficie o para seguir las pistas del soporte [2006.01]"
+  },
+  {
+    "code": "G11B 5/584",
+    "description": "••••••para seguir las pistas de una cinta [2006.01]"
+  },
+  {
+    "code": "G11B 5/588",
+    "description": "••••••••por control de la posición de las cabezas rotativas (por control de la velocidad del soporte de registro G11B 15/467; por control de la velocidad de las cabezas rotativas G11B 15/473) [2006.01]"
+  },
+  {
+    "code": "G11B 5/592",
+    "description": "••••••••••utilizando elementos bimorfes que soportan las cabezas [2006.01]"
+  },
+  {
+    "code": "G11B 5/596",
+    "description": "••••••para seguir las pistas de un disco [2006.01]"
+  },
+  {
+    "code": "G11B 5/60",
+    "description": "••••••Mantenimiento dinámico de la separación entre cabezas y soportes de registro con la ayuda de un fluido [2006.01]"
+  },
+  {
+    "code": "G11B 5/62",
+    "description": "••Soportes de registro caracterizados por el empleo de un material específico [2006.01]"
+  },
+  {
+    "code": "G11B 5/627",
+    "description": "••••con elementos guiadores para cintas magnéticas, p. ej. zonas no magnéticas sobre las cintas, o para conexión [2006.01]"
+  },
+  {
+    "code": "G11B 5/633",
+    "description": "••••de películas cinematográficas o de diapositivas con pistas magnéticas incorporada [2006.01]"
+  },
+  {
+    "code": "G11B 5/64",
+    "description": "••••comprendiendo únicamente el material magnético, sin producto de unión [2006.01]"
+  },
+  {
+    "code": "G11B 5/65",
+    "description": "••••••caracterizado por su composición (G11B 5/66 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G11B 5/66",
+    "description": "••••••estando constituidos los soportes de registro por varias capas [2006.01]"
+  },
+  {
+    "code": "G11B 5/667",
+    "description": "••••••••incluyendo una capa magnética blanda [2006.01]"
+  },
+  {
+    "code": "G11B 5/673",
+    "description": "••••••••comprendiendo la repetición de al menos dos capas [2006.01]"
+  },
+  {
+    "code": "G11B 5/68",
+    "description": "••••que tienen una o varias capas de partículas magnetizables mezcladas de forma homogénea con un producto de unión [2006.01]"
+  },
+  {
+    "code": "G11B 5/70",
+    "description": "••••••sobre una capa de base [2006.01]"
+  },
+  {
+    "code": "G11B 5/702",
+    "description": "••••••••caracterizados por el producto de unión [2006.01]"
+  },
+  {
+    "code": "G11B 5/706",
+    "description": "••••••••caracterizados por la composición del material magnético [2006.01]"
+  },
+  {
+    "code": "G11B 5/708",
+    "description": "••••••••caracterizados por la adición de partículas no magnéticas a la capa magnética [2006.01]"
+  },
+  {
+    "code": "G11B 5/71",
+    "description": "••••••••caracterizados por el lubricante [2006.01]"
+  },
+  {
+    "code": "G11B 5/712",
+    "description": "••••••••caracterizados por el tratamiento superficial o el revestimiento de partículas magnéticas [2006.01]"
+  },
+  {
+    "code": "G11B 5/714",
+    "description": "••••••••caracterizados por la dimensión de las partículas magnéticas [2006.01]"
+  },
+  {
+    "code": "G11B 5/716",
+    "description": "••••••••caracterizados por varias capas magnéticas [2006.01]"
+  },
+  {
+    "code": "G11B 5/718",
+    "description": "••••••••••una al menos sobre cada lado de la capa base [2006.01]"
+  },
+  {
+    "code": "G11B 5/72",
+    "description": "••••Revestimientos protectores, p. ej. antiestáticos [2006.01]"
+  },
+  {
+    "code": "G11B 5/725",
+    "description": "••••••que contienen un lubricante [2006.01]"
+  },
+  {
+    "code": "G11B 5/73",
+    "description": "••••Capas base [2006.01]"
+  },
+  {
+    "code": "G11B 5/733",
+    "description": "••••••caracterizadas por la adición de partículas no magnéticas [2006.01]"
+  },
+  {
+    "code": "G11B 5/735",
+    "description": "••••••caracterizadas por la capa posterior [2006.01]"
+  },
+  {
+    "code": "G11B 5/738",
+    "description": "••••••caracterizadas por la capa intermedia [2006.01]"
+  },
+  {
+    "code": "G11B 5/74",
+    "description": "••Soportes de registro caracterizados por su forma, p. ej. hoja que tiene una forma que le permite enrollarse alrededor de un tambor [2006.01]"
+  },
+  {
+    "code": "G11B 5/76",
+    "description": "••••Tambores [2006.01]"
+  },
+  {
+    "code": "G11B 5/78",
+    "description": "••••Cintas [2006.01]"
+  },
+  {
+    "code": "G11B 5/80",
+    "description": "••••Tarjetas [2006.01]"
+  },
+  {
+    "code": "G11B 5/82",
+    "description": "••••Porta-discos [2006.01]"
+  },
+  {
+    "code": "G11B 5/84",
+    "description": "••Procedimientos o aparatos especialmente adaptados a la fabricación de soportes de registro [2006.01]"
+  },
+  {
+    "code": "G11B 5/842",
+    "description": "••••Revestimiento de un soporte con una dispersión magnética líquida [2006.01]"
+  },
+  {
+    "code": "G11B 5/845",
+    "description": "••••••en un campo magnético [2006.01]"
+  },
+  {
+    "code": "G11B 5/848",
+    "description": "••••Revestimiento de un soporte con una capa magnética por extrusión [2006.01]"
+  },
+  {
+    "code": "G11B 5/85",
+    "description": "••••Revestimiento de un soporte con una capa magnética por depósito en fase vapor [2006.01]"
+  },
+  {
+    "code": "G11B 5/851",
+    "description": "••••Revestimiento de un soporte con una capa magnética mediante pulverización catódica [2006.01]"
+  },
+  {
+    "code": "G11B 5/852",
+    "description": "••••Orientación en un campo magnético (G11B 5/845 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G11B 5/855",
+    "description": "••••Revestimiento solamente de una parte de un soporte con una capa magnética [2006.01]"
+  },
+  {
+    "code": "G11B 5/858",
+    "description": "••••Producción de una capa magnética por vía electrolítica o por vía no electrolítica [2006.01]"
+  },
+  {
+    "code": "G11B 5/86",
+    "description": "••Registro de registro, es decir, transcripción de la información desde un soporte magnetizable de registro sobre uno o varios soportes de registro similares o no [2006.01]"
+  },
+  {
+    "code": "G11B 7/00",
+    "description": "Registro o reproducción por medios ópticos, p. ej. registro utilizando un haz térmico de radiación óptica, reproducción utilizando un haz óptico de potencia reducida; Soportes de registro correspondientes (G11B 11/00, G11B 13/00 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G11B 7/002",
+    "description": "••Sistemas de registro, de reproducción o de borrado caracterizados por la forma del soporte [2006.01]"
+  },
+  {
+    "code": "G11B 7/0025",
+    "description": "••••con cilindros o soportes análogos, p. ej. conos truncados [2006.01]"
+  },
+  {
+    "code": "G11B 7/003",
+    "description": "••••con cintas, p. ej. correas, cintas bobinadas o películas de extensión quasi-infinita [2006.01]"
+  },
+  {
+    "code": "G11B 7/0033",
+    "description": "••••con tarjetas [2006.01]"
+  },
+  {
+    "code": "G11B 7/0037",
+    "description": "••••con discos [2006.01]"
+  },
+  {
+    "code": "G11B 7/004",
+    "description": "••Procedimientos de registro, reproducción o borrado; Circuitos correspondientes para la lectura, escritura o borrado [2006.01]"
+  },
+  {
+    "code": "G11B 7/0045",
+    "description": "••••Registro (G11B 7/006, G11B 7/0065 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G11B 7/005",
+    "description": "••••Reproducción (G11B 7/0065 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G11B 7/0055",
+    "description": "••••Borrado (G11B 7/006, G11B 7/0065 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G11B 7/006",
+    "description": "••••Sobreescritura (G11B 7/0065 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G11B 7/0065",
+    "description": "••••Registro, reproducción o borrado utilizando patrones de interferencia óptica, p. ej. hologramas [2006.01]"
+  },
+  {
+    "code": "G11B 7/007",
+    "description": "••Disposición de la información sobre el soporte de registro, p. ej. forma de pistas [2006.01]"
+  },
+  {
+    "code": "G11B 7/013",
+    "description": "••••para información discontinua, es decir soporte en el que cada unidad de información está registrada en un lugar distinto [2006.01]"
+  },
+  {
+    "code": "G11B 7/08",
+    "description": "••Disposiciones o montaje de cabezas o de fuentes de luz en relación con los soportes de registro [2006.01]"
+  },
+  {
+    "code": "G11B 7/085",
+    "description": "••••con disposiciones para llevar el rayo luminoso a su posición de trabajo o para separarla [2006.01]"
+  },
+  {
+    "code": "G11B 7/09",
+    "description": "••••con disposiciones para desplazar el rayo luminoso o su plano focal con el fin de mantener la alineación relativa del rayo luminoso y del soporte de registro durante la operación de transducción, p. ej. para compensar las irregularidades superficiales o para seguir las pistas del soporte [2006.01]"
+  },
+  {
+    "code": "G11B 7/095",
+    "description": "••••••especialmente adaptadas para los discos, p. ej. para compensar la excentricidad o la oscilación [2006.01]"
+  },
+  {
+    "code": "G11B 7/10",
+    "description": "••••Montajes intercambiables, p. ej. para el remplazamiento de cabezas sin regulación [2006.01]"
+  },
+  {
+    "code": "G11B 7/12",
+    "description": "••Cabezas, p. ej. formación del punto del haz óptico o modulación del haz óptico (Disposiciones o montaje de cabezas en una carcasa o con disposiciones para mover la fuente de luz, el haz óptico o el detector, irrelevantes para el método de transducción G11B 7/08) [2012.01]"
+  },
+  {
+    "code": "G11B 7/121",
+    "description": "••••Protección de la cabeza, p. ej. contra el polvo o el impacto contra el soporte de registro [2012.01]"
+  },
+  {
+    "code": "G11B 7/122",
+    "description": "••••Cabezas de tipo volante, p. ej. análogas a las de tipo Winchester en registro magnético [2012.01]"
+  },
+  {
+    "code": "G11B 7/123",
+    "description": "••••Disposiciones de cabezas integradas, p. ej. con la fuente y los detectores montados en el mismo substrato [2012.01]"
+  },
+  {
+    "code": "G11B 7/124",
+    "description": "••••••que incluyen guías de onda [2012.01]"
+  },
+  {
+    "code": "G11B 7/1245",
+    "description": "••••••••incluyendo las guías de onda medios para la deflexión electroóptica o acusticoóptica [2012.01]"
+  },
+  {
+    "code": "G11B 7/125",
+    "description": "••••Fuentes de haces ópticos correspondientes, p. ej. circuitería de control del laser especialmente adaptada para dispositivos de almacenaje óptico; Moduladores, p. ej. medios para controlar la amplitud o la intensidad del punto óptico o de la traza óptica [2012.01]"
+  },
+  {
+    "code": "G11B 7/126",
+    "description": "••••••Circuitos, métodos o disposiciones para el control o la estabilización del laser [2012.01]"
+  },
+  {
+    "code": "G11B 7/1263",
+    "description": "••••••••Control de la potencia durante la transducción, p. ej. por monitorización [2012.01]"
+  },
+  {
+    "code": "G11B 7/1267",
+    "description": "••••••••Calibración de la potencia [2012.01]"
+  },
+  {
+    "code": "G11B 7/127",
+    "description": "••••••Láseres; Series de múltiples láseres [2012.01]"
+  },
+  {
+    "code": "G11B 7/1275",
+    "description": "••••••••Dos o más láseres con diferente longitud de onda [2012.01]"
+  },
+  {
+    "code": "G11B 7/128",
+    "description": "••••••Moduladores (G11B 7/1245 tiene prioridad) [2012.01]"
+  },
+  {
+    "code": "G11B 7/13",
+    "description": "••••Detectores ópticos correspondientes [2012.01]"
+  },
+  {
+    "code": "G11B 7/131",
+    "description": "••••••Disposición de detectores en serie múltiple [2012.01]"
+  },
+  {
+    "code": "G11B 7/133",
+    "description": "••••••Forma de elementos detectores individuales [2012.01]"
+  },
+  {
+    "code": "G11B 7/135",
+    "description": "••••Medios para guiar el haz desde la fuente hasta el soporte de registro o desde el soporte de registro hasta el detector [2012.01]"
+  },
+  {
+    "code": "G11B 7/1353",
+    "description": "••••••Elementos difractivos, p. ej. hologramas o gratículas [2012.01]"
+  },
+  {
+    "code": "G11B 7/1356",
+    "description": "••••••Prismas dobles o múltiples, es decir, que tienen dos o más prismas en cooperación [2012.01]"
+  },
+  {
+    "code": "G11B 7/1359",
+    "description": "••••••Prismas simples [2012.01]"
+  },
+  {
+    "code": "G11B 7/1362",
+    "description": "••••••Espejos [2012.01]"
+  },
+  {
+    "code": "G11B 7/1365",
+    "description": "••••••Elementos refractivos separados o integrados, p. ej. placas de ondas [2012.01]"
+  },
+  {
+    "code": "G11B 7/1367",
+    "description": "••••••••Placas de fase progresivas [2012.01]"
+  },
+  {
+    "code": "G11B 7/1369",
+    "description": "••••••••Placas activas, p. ej. paneles de cristal líquido o elementos electrostrictivos [2012.01]"
+  },
+  {
+    "code": "G11B 7/1372",
+    "description": "••••••Lentes [2012.01]"
+  },
+  {
+    "code": "G11B 7/1374",
+    "description": "••••••••Lentes objetivo [2012.01]"
+  },
+  {
+    "code": "G11B 7/1376",
+    "description": "••••••••Lentes colimadoras [2012.01]"
+  },
+  {
+    "code": "G11B 7/1378",
+    "description": "••••••••Lentes de corrección de aberraciones; lentes cilíndricas para la generación de astigmatismo; Ensanchador del haz [2012.01]"
+  },
+  {
+    "code": "G11B 7/1381",
+    "description": "••••••Elementos distintos de las lentes que alteran las propiedades del haz, p. ej. filos, ranuras, filtros o diafragmas (G11B 7/1353-G11B 7/1369 take precedence) [2012.01]"
+  },
+  {
+    "code": "G11B 7/1384",
+    "description": "••••••Óptica de fibra [2012.01]"
+  },
+  {
+    "code": "G11B 7/1387",
+    "description": "••••••utilizando el efecto campo próximo [2012.01]"
+  },
+  {
+    "code": "G11B 7/139",
+    "description": "••••••Medios de control de la apertura numérica [2012.01]"
+  },
+  {
+    "code": "G11B 7/1392",
+    "description": "••••••Medios para el control del frente de onda del haz, p. ej. para corrección de la aberración [2012.01]"
+  },
+  {
+    "code": "G11B 7/1395",
+    "description": "••••••Separadores o combinadores de haces (G11B 7/1353, G11B 7/1356 tiene prioridad) [2012.01]"
+  },
+  {
+    "code": "G11B 7/1398",
+    "description": "••••••Medios para dar forma a la sección transversal del haz, p. ej. circular o elíptica [2012.01]"
+  },
+  {
+    "code": "G11B 7/14",
+    "description": "••••especialmente adaptadas para registrar sobre más de una pista simultáneamente, o para reproducir más de una pista simultáneamente [2012.01]"
+  },
+  {
+    "code": "G11B 7/22",
+    "description": "••••Aparatos o procesos para la fabricación de cabezas ópticas, p. ej. ensamblado [2006.01]"
+  },
+  {
+    "code": "G11B 7/24",
+    "description": "••Soportes de registro caracterizados por la forma, estructura o propiedades físicas, o bien por la selección del material (caracterizados por la disposición de la información sobre el soporte G11B 7/007) [2013.01]"
+  },
+  {
+    "code": "G11B 7/24003",
+    "description": "••••Soportes de registro con forma diferente a formato disco [2013.01]"
+  },
+  {
+    "code": "G11B 7/24006",
+    "description": "••••••Cilíndrico o con forma de eje [2013.01]"
+  },
+  {
+    "code": "G11B 7/24009",
+    "description": "••••••Cintas, películas largas o pliegos largos [2013.01]"
+  },
+  {
+    "code": "G11B 7/24012",
+    "description": "••••••Tarjetas ópticas [2013.01]"
+  },
+  {
+    "code": "G11B 7/24015",
+    "description": "••••Discos empaquetados en forma de bocadillo (air-sandwiched) [2013.01]"
+  },
+  {
+    "code": "G11B 7/24018",
+    "description": "••••Discos laminados (G11B 7/24015 tiene preferencia) [2013.01]"
+  },
+  {
+    "code": "G11B 7/24021",
+    "description": "••••••proporcionado con una forma o estructura especial para centrar o o evitar excentricidades, p. ej. alineación [2013.01]"
+  },
+  {
+    "code": "G11B 7/24024",
+    "description": "••••••Adhesión o adherencia, p. ej. capas específicas de adhesivo [2013.01]"
+  },
+  {
+    "code": "G11B 7/24027",
+    "description": "••••••Capas; Forma, estructura o propiedades físicas de las mismas (G11B 7/24021, G11B 7/24024 tiene prioridad) [2013.01]"
+  },
+  {
+    "code": "G11B 7/2403",
+    "description": "••••Capas; Forma, estructura o propiedades físicas de las mismas [2013.01]"
+  },
+  {
+    "code": "G11B 7/24033",
+    "description": "••••••Capas de electrodos [2013.01]"
+  },
+  {
+    "code": "G11B 7/24035",
+    "description": "••••••Capas de grabación (substratos también usados como capas de grabación G11B 7/24047) [2013.01]"
+  },
+  {
+    "code": "G11B 7/24038",
+    "description": "••••••••Múltiples capas de grabación laminadas [2013.01]"
+  },
+  {
+    "code": "G11B 7/24041",
+    "description": "••••••••••con diferentes características de grabación [2013.01]"
+  },
+  {
+    "code": "G11B 7/24044",
+    "description": "••••••••para almacenar modelos de interferencia ópticos, p. ej. hologramas; para almacenar datos en tres dimensiones, p. ej. almacenamiento de volumen (G11B 7/24038 tiene prioridad) [2013.01]"
+  },
+  {
+    "code": "G11B 7/24047",
+    "description": "••••••Substratos [2013.01]"
+  },
+  {
+    "code": "G11B 7/2405",
+    "description": "••••••••siendo también utilizados como capas de pistas de capas pre-formateadas (pistas o surcos G11B 7/2407) [2013.01]"
+  },
+  {
+    "code": "G11B 7/24053",
+    "description": "••••••Capas superiores protectoras situadas de forma opuesta a la entrada de luz, p.ej para evitar cargas electrostáticas [2013.01]"
+  },
+  {
+    "code": "G11B 7/24056",
+    "description": "••••••Capas transmisoras de luz situadas en el lado de entrada de luz y más delgadas que el substrato, p. ej. especialmente adaptadas para discos Blue-Ray        ® disks [2013.01]"
+  },
+  {
+    "code": "G11B 7/24059",
+    "description": "••••••••especialmente adaptadas para grabación o reproducción de corto alcance (near-field) [2013.01]"
+  },
+  {
+    "code": "G11B 7/24062",
+    "description": "••••••Capas reflectantes [2013.01]"
+  },
+  {
+    "code": "G11B 7/24065",
+    "description": "••••••Capas que realizan la grabación o reproducción por debajo del límite de difracción óptica, p. ej. capas o estructuras ópticas no lineares (capas de recubrimiento para medios de comunicación de campo cercano G11B 7/24059) [2013.01]"
+  },
+  {
+    "code": "G11B 7/24067",
+    "description": "••••••Combinaciones de dos o más capas con una interrelación específica [2013.01]"
+  },
+  {
+    "code": "G11B 7/2407",
+    "description": "••••Pistas o marcas; Forma, estructura o propiedades físicas de las mismas (trazado de pistas o surcos como información de identificación G11B 7/007) [2013.01]"
+  },
+  {
+    "code": "G11B 7/24073",
+    "description": "••••••Pistas [2013.01]"
+  },
+  {
+    "code": "G11B 7/24076",
+    "description": "••••••••Forma trasnversal en la dirección radial del disco, p. ej. forma transversal asimétrica [2013.01]"
+  },
+  {
+    "code": "G11B 7/24079",
+    "description": "••••••••Anchura o profundidad (G11B 7/24076 tiene prioridad) [2013.01]"
+  },
+  {
+    "code": "G11B 7/24082",
+    "description": "••••••••Serpenteantes [2013.01]"
+  },
+  {
+    "code": "G11B 7/24085",
+    "description": "••••••Surcos (pits) [2013.01]"
+  },
+  {
+    "code": "G11B 7/24088",
+    "description": "••••••••para almacenar más de dos valores, p. ej. grabación multivalor de datos o presurcos (prepits) [2013.01]"
+  },
+  {
+    "code": "G11B 7/24091",
+    "description": "••••••Combinaciones de surcos y pistas con interrelación específica [2013.01]"
+  },
+  {
+    "code": "G11B 7/24094",
+    "description": "••••Partes para indicación o partes de información para identificación [2013.01]"
+  },
+  {
+    "code": "G11B 7/24097",
+    "description": "••••Estructuras para operaciones de detección, control, grabación o transmisión; Formas especiales o estructuras para centrar o evitar excentricidades (con discos laminados G11B 7/24021); Disposiciones para pruebas, inspección o evaluación; Contenedores, cartuchos o cassettes [2013.01]"
+  },
+  {
+    "code": "G11B 7/241",
+    "description": "••••caracterizados por el uso de un material específico [2006.01]"
+  },
+  {
+    "code": "G11B 7/242",
+    "description": "••••••de capas de registro [2006.01]"
+  },
+  {
+    "code": "G11B 7/243",
+    "description": "••••••••que comprenden sólo material inorgánico, p. ej. capas ablativas [2013.01]"
+  },
+  {
+    "code": "G11B 7/2433",
+    "description": "••••••••••Metales o elementos de los grupos IIIA, IVA, VA o VIA del sistema periódico, p. ej. B, Si, Ge, As, Sb, Bi, Se o Te [2013.01]"
+  },
+  {
+    "code": "G11B 7/2437",
+    "description": "••••••••••Elementos no metálicos [2013.01]"
+  },
+  {
+    "code": "G11B 7/244",
+    "description": "••••••••que comprenden sólo materiales orgánicos [2006.01]"
+  },
+  {
+    "code": "G11B 7/245",
+    "description": "••••••••••que contienen un componente polimérico [2006.01]"
+  },
+  {
+    "code": "G11B 7/246",
+    "description": "••••••••••que contienen colorantes [2013.01]"
+  },
+  {
+    "code": "G11B 7/2463",
+    "description": "••••••••••••azuleno [2013.01]"
+  },
+  {
+    "code": "G11B 7/2467",
+    "description": "••••••••••••colorantes azoicos [2013.01]"
+  },
+  {
+    "code": "G11B 7/247",
+    "description": "••••••••••••colorantes de metina o polimetina [2013.01]"
+  },
+  {
+    "code": "G11B 7/2472",
+    "description": "••••••••••••••cianina [2013.01]"
+  },
+  {
+    "code": "G11B 7/2475",
+    "description": "••••••••••••••merocianina [2013.01]"
+  },
+  {
+    "code": "G11B 7/2478",
+    "description": "••••••••••••••oxonol [2013.01]"
+  },
+  {
+    "code": "G11B 7/248",
+    "description": "••••••••••••Porfinas; Azaporfinas, p. ej. ftalocianinas [2006.01]"
+  },
+  {
+    "code": "G11B 7/249",
+    "description": "••••••••••que contienen compuestos órgano metálicos (G11B 7/246 tiene prioridad) [2013.01]"
+  },
+  {
+    "code": "G11B 7/2492",
+    "description": "••••••••••••componentes neutrales [2013.01]"
+  },
+  {
+    "code": "G11B 7/2495",
+    "description": "••••••••••••como aniones [2013.01]"
+  },
+  {
+    "code": "G11B 7/2498",
+    "description": "••••••••••••como cationes [2013.01]"
+  },
+  {
+    "code": "G11B 7/25",
+    "description": "••••••••••que contienen cristales líquidos [2006.01]"
+  },
+  {
+    "code": "G11B 7/251",
+    "description": "••••••••que comprenden material inorgánico disperso en una matriz orgánica [2006.01]"
+  },
+  {
+    "code": "G11B 7/252",
+    "description": "••••••de capas que no sean capas de registro [2006.01]"
+  },
+  {
+    "code": "G11B 7/253",
+    "description": "••••••••de substratos [2013.01]"
+  },
+  {
+    "code": "G11B 7/2531",
+    "description": "••••••••••que comprenden vidrio [2013.01]"
+  },
+  {
+    "code": "G11B 7/2532",
+    "description": "••••••••••que comprenden metales [2013.01]"
+  },
+  {
+    "code": "G11B 7/2533",
+    "description": "••••••••••que comprenden resinas [2013.01]"
+  },
+  {
+    "code": "G11B 7/2534",
+    "description": "••••••••••••policarbonatos [PC] [2013.01]"
+  },
+  {
+    "code": "G11B 7/2535",
+    "description": "••••••••••••poliésteres, p. ej.PET, PETG o PEN [2013.01]"
+  },
+  {
+    "code": "G11B 7/2536",
+    "description": "••••••••••••poliestireno [PS] [2013.01]"
+  },
+  {
+    "code": "G11B 7/2537",
+    "description": "••••••••••••resinas epoxy [2013.01]"
+  },
+  {
+    "code": "G11B 7/2538",
+    "description": "••••••••••••olefinas policíclicas [PCO] [2013.01]"
+  },
+  {
+    "code": "G11B 7/2539",
+    "description": "••••••••••••polímeros biodegradables, p. ej. celulosa [2013.01]"
+  },
+  {
+    "code": "G11B 7/254",
+    "description": "••••••••de capas de recubrimiento protectoras [2013.01]"
+  },
+  {
+    "code": "G11B 7/2542",
+    "description": "••••••••••compuestas esencialmente de resinas orgánicas [2013.01]"
+  },
+  {
+    "code": "G11B 7/2545",
+    "description": "••••••••••••que contienen rellenos inorgánicos, p. ej. partículas de fibras [2013.01]"
+  },
+  {
+    "code": "G11B 7/2548",
+    "description": "••••••••••formadas esencialmente por materiales inorgánicos [2013.01]"
+  },
+  {
+    "code": "G11B 7/256",
+    "description": "••••••••de capas que mejoran la adhesión entre ellas [2006.01]"
+  },
+  {
+    "code": "G11B 7/257",
+    "description": "••••••••de capas que presentan propiedades implicadas en el registro o la reproducción, p. ej. capas de interferencia óptica o capas sensibilizadoras [2013.01]"
+  },
+  {
+    "code": "G11B 7/2572",
+    "description": "••••••••••que consiste esencialmente en capas de material orgánico [2013.01]"
+  },
+  {
+    "code": "G11B 7/2575",
+    "description": "••••••••••••resinas [2013.01]"
+  },
+  {
+    "code": "G11B 7/2578",
+    "description": "••••••••••que esencialmente consiste en capas de material inorgánico [2013.01]"
+  },
+  {
+    "code": "G11B 7/258",
+    "description": "••••••••de capas reflectantes [2013.01]"
+  },
+  {
+    "code": "G11B 7/2585",
+    "description": "••••••••••basado en aluminio [2013.01]"
+  },
+  {
+    "code": "G11B 7/259",
+    "description": "••••••••••basado en plata [2013.01]"
+  },
+  {
+    "code": "G11B 7/2595",
+    "description": "••••••••••basado en oro [2013.01]"
+  },
+  {
+    "code": "G11B 7/26",
+    "description": "••••Aparatos o procesos especialmente establecidos para la fabricación de soportes de registro [2006.01]"
+  },
+  {
+    "code": "G11B 7/28",
+    "description": "••Registro de registro, es decir transcripción de la información de un soporte de registro óptico a uno o varios soportes de registro parecidos o no utilizando medios ópticos de lectura [2006.01]"
+  },
+  {
+    "code": "G11B 7/30",
+    "description": "••Soportes para reescritura (G11B 7/24 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G11B 9/00",
+    "description": "Registro o reproducción por un procedimiento o medios no cubiertos por uno de los grupos principales G11B 3/00-G11B 7/00; Soportes de registro correspondientes (G11B 11/00 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G11B 9/02",
+    "description": "••que utilizan soportes de registro ferroeléctricos; Soportes de registro correspondientes [2006.01]"
+  },
+  {
+    "code": "G11B 9/04",
+    "description": "••que utilizan soportes de registro que tienen una resistencia eléctrica variable; Soportes de registro correspondientes [2006.01]"
+  },
+  {
+    "code": "G11B 9/06",
+    "description": "••que utilizan soportes de registro que tienen una capacidad eléctrica variable; Soportes de registro correspondientes (G11B 9/02 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G11B 9/07",
+    "description": "••••Cabezas para la reproducción de información capacitiva [2006.01]"
+  },
+  {
+    "code": "G11B 9/08",
+    "description": "••que utilizan la inyección de cargas electrostáticas; Soportes de registro correspondientes [2006.01]"
+  },
+  {
+    "code": "G11B 9/10",
+    "description": "••utilizando un haz de electrones; Soportes de registro correspondientes (G11B 9/08 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G11B 9/12",
+    "description": "••que utilizan interacciónes de campo próximo; Soportes de registro correspondientes [2006.01]"
+  },
+  {
+    "code": "G11B 9/14",
+    "description": "••••que utilizan medios con sonda microscópica [2006.01]"
+  },
+  {
+    "code": "G11B 11/00",
+    "description": "Registro sobre, o reproducción desde el mismo soporte de registro, en los que para estas dos operaciones, los procedimientos o medios están cubiertos por grupos principales distintos de los grupos G11B 3/00-G11B 7/00 o por diferentes subgrupos del grupo G11B 9/00; Soportes de registro correspondientes [2006.01]"
+  },
+  {
+    "code": "G11B 11/03",
+    "description": "••utilizando el registro por deformación producido por medios no mecánicos, p. ej. por láser, por haz de partículas [2006.01]"
+  },
+  {
+    "code": "G11B 11/05",
+    "description": "••••con reproducción por medios capacitivos [2006.01]"
+  },
+  {
+    "code": "G11B 11/06",
+    "description": "••••con reproducción por lectura mecánica [2006.01]"
+  },
+  {
+    "code": "G11B 11/08",
+    "description": "••utilizando el registro por carga eléctrica o por variación de resistencia eléctrica o de capacidad [2006.01]"
+  },
+  {
+    "code": "G11B 11/10",
+    "description": "••utilizando el registro magnetización o desmagnetización [2006.01]"
+  },
+  {
+    "code": "G11B 11/105",
+    "description": "••••utilizando un haz de luz o un campo magnético para el registro y un haz de luz para la reproducción, p. ej. registro termomagnético inducido por la luz, reproducción por el efecto Kerr [2006.01]"
+  },
+  {
+    "code": "G11B 11/11",
+    "description": "••••utilizando un haz diferente a un haz de luz para el registro [2006.01]"
+  },
+  {
+    "code": "G11B 11/115",
+    "description": "••••utilizando un haz diferente a un haz de luz para la reproducción [2006.01]"
+  },
+  {
+    "code": "G11B 11/12",
+    "description": "••utilizando el registro por medios ópticos (G11B 11/03 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G11B 11/14",
+    "description": "••••con reproducción por medios magnéticos [2006.01]"
+  },
+  {
+    "code": "G11B 11/16",
+    "description": "••utilizando el registro por grabado, deformación o presión mecánicas [2006.01]"
+  },
+  {
+    "code": "G11B 11/18",
+    "description": "••••con reproducción por medios ópticos [2006.01]"
+  },
+  {
+    "code": "G11B 11/20",
+    "description": "••••con reproducción por medios magnéticos [2006.01]"
+  },
+  {
+    "code": "G11B 11/22",
+    "description": "••••con reproducción por medios capacitivos [2006.01]"
+  },
+  {
+    "code": "G11B 11/24",
+    "description": "••utilizando el registro por interacciones de campo próximo [2006.01]"
+  },
+  {
+    "code": "G11B 11/26",
+    "description": "••••utilizando medios con sonda microscópica [2006.01]"
+  },
+  {
+    "code": "G11B 13/00",
+    "description": "Registro utilizando simultánea o selectivamente procedimientos o medios cubiertos por grupos principales diferentes; Soportes de registro correspondientes; Reproducción simultánea o selectiva correspondiente [2006.01]"
+  },
+  {
+    "code": "G11B 13/02",
+    "description": "••por proceso magnético y por estiletes (G11B 13/08 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G11B 13/04",
+    "description": "••por proceso magnético y proceso óptico (G11B 13/08 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G11B 13/06",
+    "description": "••por proceso óptico y por estiletes (G11B 13/08 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G11B 13/08",
+    "description": "••que utilizan interacciones o medios transductores de campo próximo y al menos otro procedimiento o medio para el registro o la reproducción [2006.01]"
+  },
+  {
+    "code": "G11B 15/00",
+    "description": "Accionamiento, arranque o parada de soportes de registro en forma de hilos o cintas; Accionamiento de estos soportes de registros y de las cabezas a la vez; Guiado de estos soportes de registro o de sus receptáculos; Control correspondiente; Control de funcionamiento (accionamiento o guiado de cabezas G11B 3/00-G11B 7/00, G11B 21/00) [2006.01]"
+  },
+  {
+    "code": "G11B 15/02",
+    "description": "••Control del funcionamiento, p. ej. conmutación \"registro-reproducción\" [2006.01]"
+  },
+  {
+    "code": "G11B 15/03",
+    "description": "••••utilizando contadores [2006.01]"
+  },
+  {
+    "code": "G11B 15/04",
+    "description": "••••Medios para evitar, impedir o prevenir el borrado accidental o la mezcla de varios registros (G11B 15/05 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G11B 15/05",
+    "description": "••••por detección de características presentes en el soporte de registro o en el receptáculo o que provienen de estos últimos (G11B 15/16 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G11B 15/06",
+    "description": "••••••por detección de características auxiliares de los soportes de registro o de sus receptáculos, p. ej. para parar la máquina poco antes del fin de una cinta [2006.01]"
+  },
+  {
+    "code": "G11B 15/07",
+    "description": "••••••••de sus receptáculos [2006.01]"
+  },
+  {
+    "code": "G11B 15/08",
+    "description": "••••••••por detección fotoeléctrica (G11B 15/07 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G11B 15/087",
+    "description": "••••••por detección de señales registradas [2006.01]"
+  },
+  {
+    "code": "G11B 15/093",
+    "description": "••••••por detección de las condiciones de accionamiento del soporte de registro, p. ej. del recorrido, de la tensión de la cinta [2006.01]"
+  },
+  {
+    "code": "G11B 15/10",
+    "description": "••••Control accionado a mano; Control accionado por electroimán [2006.01]"
+  },
+  {
+    "code": "G11B 15/12",
+    "description": "••••Utilización de tapas sobre las cabezas; Selección o conmutación de cabezas entre las funciones activas y no activas; Tapas que detienen haces, p. ej. haces luminosos [2006.01]"
+  },
+  {
+    "code": "G11B 15/14",
+    "description": "••••••dispositivos de tapa o de conmutación que funcionan a intervalos reguladores, p. ej. para cabezas rotativas [2006.01]"
+  },
+  {
+    "code": "G11B 15/16",
+    "description": "••••por detección de la presencia, ausencia o posición del soporte de registro o del receptáculo [2006.01]"
+  },
+  {
+    "code": "G11B 15/17",
+    "description": "••••••del receptáculo [2006.01]"
+  },
+  {
+    "code": "G11B 15/18",
+    "description": "••Accionamiento; Arranque; Parada; Disposiciones para el control o la regulación correspondiente [2006.01]"
+  },
+  {
+    "code": "G11B 15/20",
+    "description": "••••Desplazamiento hacia adelante o hacia atrás del soporte de registro de una cantidad limitada, es decir, espaciado atrás, espaciado adelante [2006.01]"
+  },
+  {
+    "code": "G11B 15/22",
+    "description": "••••Dispositivos de parada (deceleración previa a la parada por medios diferentes de los dispositivos de parada G11B 15/48; deceleración previa a la parada por una unión de deceleración mecánica que es diferente de los medios de parada previos G11B 15/50) [2006.01]"
+  },
+  {
+    "code": "G11B 15/24",
+    "description": "••••Medios de embrague [2006.01]"
+  },
+  {
+    "code": "G11B 15/26",
+    "description": "••••Accionamiento de soportes de registro por órganos que actúan directa o indirectamente sobre éstos [2006.01]"
+  },
+  {
+    "code": "G11B 15/28",
+    "description": "••••••por medio de cojinetes que accionan los soportes de registro por fricción sobre éstos, p. ej. cabrestantes; Sistemas múltiples de cabrestantes o de tambores acoplados a los medios que controlan la velocidad de accionamiento; Sistemas de cabrestantes múltiples que pueden cooperar con el soporte de registro para provocar el cambio del sentido de deslizamiento [2006.01]"
+  },
+  {
+    "code": "G11B 15/29",
+    "description": "••••••••por medio de rodillos de presión (G11B 15/295 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G11B 15/295",
+    "description": "••••••••con un solo cabrestante o un solo tambor accionado simultáneamente el soporte de registro en dos puntos separados de una parte aislada de éste, p. ej. el cabrestante acciona directamente sobre los rodillos de la cinta [2006.01]"
+  },
+  {
+    "code": "G11B 15/30",
+    "description": "••••••por medios para soportar los soportes de registro, p. ej. mandril, plato giratorio [2006.01]"
+  },
+  {
+    "code": "G11B 15/32",
+    "description": "••••••por medio de bobinas o núcleos, sobre los que el soporte de registro está devanado [2006.01]"
+  },
+  {
+    "code": "G11B 15/34",
+    "description": "••••••por medio de accionamiento sin deslizamiento, p. ej. tambor dentado [2006.01]"
+  },
+  {
+    "code": "G11B 15/38",
+    "description": "••••Accionamiento de soportes de registro por medios neumáticos [2006.01]"
+  },
+  {
+    "code": "G11B 15/40",
+    "description": "••••Accionamiento de soportes de registro por medios distintos del motor eléctrico [2006.01]"
+  },
+  {
+    "code": "G11B 15/42",
+    "description": "••••••por medios manuales [2006.01]"
+  },
+  {
+    "code": "G11B 15/43",
+    "description": "••••Control o regulación de la tensión mecánica del soporte de registro, p. ej. tensión de la cinta [2006.01]"
+  },
+  {
+    "code": "G11B 15/44",
+    "description": "••••Dispositivos de cambio de velocidad; Dispositivos de inversión de marcha; Medios de transferencia de accionamiento correspondientes [2006.01]"
+  },
+  {
+    "code": "G11B 15/46",
+    "description": "••••Dispositivos de control, regulación, o indicación de la velocidad [2006.01]"
+  },
+  {
+    "code": "G11B 15/467",
+    "description": "••••••con disposiciones para el registro o la reproducción en las que los soportes de registro y las cabezas son accionadas a la vez [2006.01]"
+  },
+  {
+    "code": "G11B 15/473",
+    "description": "••••••••controlando la velocidad de las cabezas [2006.01]"
+  },
+  {
+    "code": "G11B 15/48",
+    "description": "••••••Arranque; Aceleración; Deceleración; Disposiciones que evitan el funcionamiento de dispositivos durante un cambio de la velocidad [2006.01]"
+  },
+  {
+    "code": "G11B 15/50",
+    "description": "••••••por enlace mecánico, p. ej. embrague [2006.01]"
+  },
+  {
+    "code": "G11B 15/52",
+    "description": "••••••utilizando señales inscritas sobre el soporte de registro o derivados de éste [2006.01]"
+  },
+  {
+    "code": "G11B 15/54",
+    "description": "••••••por estroboscopio; por tacómetros [2006.01]"
+  },
+  {
+    "code": "G11B 15/56",
+    "description": "••el soporte de registro utiliza bucles de reserva, p. ej. para reducir la inercia durante la aceleración [2006.01]"
+  },
+  {
+    "code": "G11B 15/58",
+    "description": "••••con una columna de vacío [2006.01]"
+  },
+  {
+    "code": "G11B 15/60",
+    "description": "••Guiado de soportes de registro (dispositivos de guiado asociados estructuralmente a los almacenes o a los cassettes G11B 23/04) [2006.01]"
+  },
+  {
+    "code": "G11B 15/61",
+    "description": "••••sobre tambores, p. ej. sobre un tambor con cabezas rotativas [2006.01]"
+  },
+  {
+    "code": "G11B 15/62",
+    "description": "••••Mantenimiento de la separación deseada entre el soporte de registro y la cabeza [2006.01]"
+  },
+  {
+    "code": "G11B 15/64",
+    "description": "••••••por mantenimiento dinámico de la separación con la ayuda de un fluido [2006.01]"
+  },
+  {
+    "code": "G11B 15/66",
+    "description": "••••Inserción del soporte de registro; Carga; Carga automática [2006.01]"
+  },
+  {
+    "code": "G11B 15/665",
+    "description": "••••••por extracción del bucle del soporte de registro de su receptáculo [2006.01]"
+  },
+  {
+    "code": "G11B 15/67",
+    "description": "••••••por extracción de la extremidad del soporte de registro de su receptáculo o de su bobina [2006.01]"
+  },
+  {
+    "code": "G11B 15/675",
+    "description": "••Guiado de receptáculos [2006.01]"
+  },
+  {
+    "code": "G11B 15/68",
+    "description": "••••Disposiciones para cambiar automáticamente de cassette [2006.01]"
+  },
+  {
+    "code": "G11B 15/70",
+    "description": "••el soporte de registro tiene un bucle sin fin [2006.01]"
+  },
+  {
+    "code": "G11B 17/00",
+    "description": "Guiado de soportes de registro que no tienen específicamente la forma de un hilo o cinta así como sus soportes (guiado de tarjetas o de hojas G06K 13/00) [2006.01]"
+  },
+  {
+    "code": "G11B 17/02",
+    "description": "••Detalles [2006.01]"
+  },
+  {
+    "code": "G11B 17/022",
+    "description": "••••Posicionamiento o enclavamiento de discos individuales [2006.01]"
+  },
+  {
+    "code": "G11B 17/025",
+    "description": "••••••de discos parados durante la operación de transducción [2006.01]"
+  },
+  {
+    "code": "G11B 17/028",
+    "description": "••••••de discos en rotación durante la operación de transducción [2006.01]"
+  },
+  {
+    "code": "G11B 17/03",
+    "description": "••••••••en receptáculos o platos [2006.01]"
+  },
+  {
+    "code": "G11B 17/032",
+    "description": "••••••••Posicionamiento por desplazamiento de la tapa o de la cubierta [2006.01]"
+  },
+  {
+    "code": "G11B 17/035",
+    "description": "••••••••Posicionamiento por desplazamiento del puesto de carga [2006.01]"
+  },
+  {
+    "code": "G11B 17/038",
+    "description": "••••Centrado o enclavamiento de una pluralidad de discos en un solo cartucho [2006.01]"
+  },
+  {
+    "code": "G11B 17/04",
+    "description": "••••Colocación o guiado de un soporte de registro individual sobre la unidad de transducción o su retirada de la unidad de transducción [2006.01]"
+  },
+  {
+    "code": "G11B 17/041",
+    "description": "••••••especialmente adaptado para discos contenidos en cartuchos [2006.01]"
+  },
+  {
+    "code": "G11B 17/043",
+    "description": "••••••••Introducción directa, p. ej sin medios de carga externos [2006.01]"
+  },
+  {
+    "code": "G11B 17/044",
+    "description": "••••••••Introducción indirecta, p. ej con medios de carga externos [2006.01]"
+  },
+  {
+    "code": "G11B 17/046",
+    "description": "••••••••••con medios de carga pivotantes [2006.01]"
+  },
+  {
+    "code": "G11B 17/047",
+    "description": "••••••••••con medios de carga deslizantes [2006.01]"
+  },
+  {
+    "code": "G11B 17/049",
+    "description": "••••••••introducción de discos que tienen que ser extraídos del cartucho con anterioridad al registro o la reproducción [2006.01]"
+  },
+  {
+    "code": "G11B 17/05",
+    "description": "••••••especialmente adaptado para discos no contenidos en cartuchos [2006.01]"
+  },
+  {
+    "code": "G11B 17/051",
+    "description": "••••••••Introducción directa, p. ej sin medios de carga externos [2006.01]"
+  },
+  {
+    "code": "G11B 17/053",
+    "description": "••••••••Introducción indirecta, p. ej con medios de carga externos [2006.01]"
+  },
+  {
+    "code": "G11B 17/054",
+    "description": "••••••••••con medios de carga pivotantes [2006.01]"
+  },
+  {
+    "code": "G11B 17/056",
+    "description": "••••••••••con medios de carga deslizantes [2006.01]"
+  },
+  {
+    "code": "G11B 17/057",
+    "description": "••••••especialmente adaptados para el manejo tanto de discos contenidos en cartuchos como de discos no contenidos en cartuchos [2006.01]"
+  },
+  {
+    "code": "G11B 17/08",
+    "description": "••con almacén previsto para la toma de discos en un orden determinado [2006.01]"
+  },
+  {
+    "code": "G11B 17/10",
+    "description": "••••con transferencia horizontal sobre el plato giratorio de discos apilados a lo largo de un eje vertical [2006.01]"
+  },
+  {
+    "code": "G11B 17/12",
+    "description": "••••con transferencia axial sobre el plato giratorio de discos apilados a lo largo de un eje vertical [2006.01]"
+  },
+  {
+    "code": "G11B 17/14",
+    "description": "••••••por un mecanismo en el vástago central giratorio, p. ej. que permiten reproducir las dos caras de un registro [2006.01]"
+  },
+  {
+    "code": "G11B 17/16",
+    "description": "••••••por un mecanismo en el vástago central fijo, p. ej. con un vástago con muescas, que utilizan dedos sobre el vástago [2006.01]"
+  },
+  {
+    "code": "G11B 17/18",
+    "description": "••••••por un mecanismo que opera sobre el canto del disco [2006.01]"
+  },
+  {
+    "code": "G11B 17/20",
+    "description": "••••con retirada, después de audición, del disco de la pila que se halla sobre el plato giratorio [2006.01]"
+  },
+  {
+    "code": "G11B 17/22",
+    "description": "••con almacén previsto para la toma de disco al azar [2006.01]"
+  },
+  {
+    "code": "G11B 17/24",
+    "description": "••••el almacén tiene una forma toroidal o parcialmente toroidal [2006.01]"
+  },
+  {
+    "code": "G11B 17/26",
+    "description": "••••el almacén tiene una forma cilíndrica de eje vertical [2006.01]"
+  },
+  {
+    "code": "G11B 17/28",
+    "description": "••••el almacén tiene la forma de un cilindro de eje horizontal [2006.01]"
+  },
+  {
+    "code": "G11B 17/30",
+    "description": "••••el órgano lector se desplaza en función del emplazamiento del disco escogido [2006.01]"
+  },
+  {
+    "code": "G11B 17/32",
+    "description": "••Mantenimiento de la separación deseada entre el soporte de registro y la cabeza, p. ej. mantenimiento dinámico de la separación con la ayuda de un fluido [2006.01]"
+  },
+  {
+    "code": "G11B 17/34",
+    "description": "••Guiado de soportes de registro durante la operación de transducción, p. ej. para seguir las pistas (G11B 17/32 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G11B 19/00",
+    "description": "Accionamiento, arranque o parada de soportes de registro que no tienen específicamente la forma de un hilo o cinta, así como sus soportes; Control correspondiente; Control de funcionamiento [2006.01]"
+  },
+  {
+    "code": "G11B 19/02",
+    "description": "••Control de funcionamiento, p. ej. conmutación \"registro-reproducción\" [2006.01]"
+  },
+  {
+    "code": "G11B 19/04",
+    "description": "••••Disposiciones que evitan, previenen o señalan la sobreimpresión sobre el mismo soporte o de otros funcionamientos defectuosos del registro o de la reproducción [2006.01]"
+  },
+  {
+    "code": "G11B 19/06",
+    "description": "••••por contadores o temporizadores de las operaciones de máquinas [2006.01]"
+  },
+  {
+    "code": "G11B 19/08",
+    "description": "••••por dispositivos externos a los dispositivos de accionamiento, p. ej. interruptor accionado por una moneda (mecanismos accionados por monedas G07F 5/00) [2006.01]"
+  },
+  {
+    "code": "G11B 19/10",
+    "description": "••••por detección de la presencia o de la ausencia de un soporte de registro en posición de almacenamiento accesible o sobre el plato giratorio [2006.01]"
+  },
+  {
+    "code": "G11B 19/12",
+    "description": "••••por medios que distinguen características de discos, p. ej. su diámetro [2006.01]"
+  },
+  {
+    "code": "G11B 19/14",
+    "description": "••••por detección del desplazamiento o de la posición de la cabeza, p. ej. medios que se desplazan en correspondencia con los movimientos de la cabeza [2006.01]"
+  },
+  {
+    "code": "G11B 19/16",
+    "description": "••••Control manual [2006.01]"
+  },
+  {
+    "code": "G11B 19/18",
+    "description": "••••••Acción manual sobre un elemento que produce indirectamente un efecto de control en respuesta a una acción del mecanismo de accionamiento [2006.01]"
+  },
+  {
+    "code": "G11B 19/20",
+    "description": "••Accionamiento; Arranque; Parada; Control correspondiente [2006.01]"
+  },
+  {
+    "code": "G11B 19/22",
+    "description": "••••Frenos distintos de los frenos reguladores de velocidad [2006.01]"
+  },
+  {
+    "code": "G11B 19/24",
+    "description": "••••Disposiciones para asegurar una relación constante entre las velocidades del soporte de registro y de la cabeza [2006.01]"
+  },
+  {
+    "code": "G11B 19/247",
+    "description": "••••••utilizando medios eléctricos [2006.01]"
+  },
+  {
+    "code": "G11B 19/253",
+    "description": "••••••utilizando medios mecánicos [2006.01]"
+  },
+  {
+    "code": "G11B 19/26",
+    "description": "••••Disposiciones para cambiar la velocidad; Disposiciones de inversión de marcha; Medios para la transmisión correspondientes [2006.01]"
+  },
+  {
+    "code": "G11B 19/265",
+    "description": "••••••Accionamiento por rueda de fricción [2006.01]"
+  },
+  {
+    "code": "G11B 19/27",
+    "description": "••••••Accionamiento por correa [2006.01]"
+  },
+  {
+    "code": "G11B 19/275",
+    "description": "••••••Accionamiento por rueda dentada [2006.01]"
+  },
+  {
+    "code": "G11B 19/28",
+    "description": "••••Control, regulación o indicación de la velocidad (G11B 19/24 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G11B 20/00",
+    "description": "Tratamiento de la señal, no específica del procedimiento de registro o reproducción; Circuitos correspondientes [2006.01]"
+  },
+  {
+    "code": "G11B 20/02",
+    "description": "••Registro o reproducción analógicos [2006.01]"
+  },
+  {
+    "code": "G11B 20/04",
+    "description": "••••Registro o reproducción directos [2006.01]"
+  },
+  {
+    "code": "G11B 20/06",
+    "description": "••••Registro o reproducción por modulación de ángulo [2006.01]"
+  },
+  {
+    "code": "G11B 20/08",
+    "description": "••••Registro o reproducción por modulación de impulsos (registro por modulación de impulsos codificados G11B 20/10) [2006.01]"
+  },
+  {
+    "code": "G11B 20/10",
+    "description": "••Registro o reproducción digitales [2006.01]"
+  },
+  {
+    "code": "G11B 20/12",
+    "description": "••••Formación, p. ej. disposición del bloque de datos o de palabras sobre los soportes de registro [2006.01]"
+  },
+  {
+    "code": "G11B 20/14",
+    "description": "••••utilizando códigos autosincronizados [2006.01]"
+  },
+  {
+    "code": "G11B 20/16",
+    "description": "••••no utilizando códigos autosincronizados, es decir estando las señales de reloj bien registradas sobre una pista de reloj separada bien sobre una combinación de varias pistas de información [2006.01]"
+  },
+  {
+    "code": "G11B 20/18",
+    "description": "••••Detección o corrección de errores; Ensayos [2006.01]"
+  },
+  {
+    "code": "G11B 20/20",
+    "description": "••para corregir la oblicuidad de registros multipistas [2006.01]"
+  },
+  {
+    "code": "G11B 20/22",
+    "description": "••para reducir las distorsiones [2006.01]"
+  },
+  {
+    "code": "G11B 20/24",
+    "description": "••para reducir el ruido [2006.01]"
+  },
+  {
+    "code": "G11B 21/00",
+    "description": "Disposiciones de cabezas, no específicas del procedimiento de registro o reproducción [2006.01]"
+  },
+  {
+    "code": "G11B 21/02",
+    "description": "••Accionamiento o desplazamiento de cabezas [2006.01]"
+  },
+  {
+    "code": "G11B 21/03",
+    "description": "••••para corregir los errores de base de tiempos [2006.01]"
+  },
+  {
+    "code": "G11B 21/04",
+    "description": "••••Mecanismos de avance automático que producen, para asegurar la transducción, una traslación de la cabeza en un sentido transversal con relación a la dirección del movimiento del soporte de registro, p. ej. barrido helicoidal [2006.01]"
+  },
+  {
+    "code": "G11B 21/06",
+    "description": "••••••el soporte de registro tiene medios para provocar un desplazamiento transversal de la cabeza [2006.01]"
+  },
+  {
+    "code": "G11B 21/08",
+    "description": "••••Cambio o selección de pista (G11B 21/12 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G11B 21/10",
+    "description": "••••Búsqueda de la pista o alineación por desplazamiento de la cabeza [2006.01]"
+  },
+  {
+    "code": "G11B 21/12",
+    "description": "••••Elevación y descenso; Espaciado hacia atrás y hacia delante a lo largo de la pista; Retorno a la posición de partida [2006.01]"
+  },
+  {
+    "code": "G11B 21/14",
+    "description": "••••••manualmente [2006.01]"
+  },
+  {
+    "code": "G11B 21/16",
+    "description": "••Soportes de cabezas; Soportes de casquillos para las cabezas enchufables [2006.01]"
+  },
+  {
+    "code": "G11B 21/18",
+    "description": "••••que actúan cuando la cabeza está en movimiento [2006.01]"
+  },
+  {
+    "code": "G11B 21/20",
+    "description": "••••que actúan mientras la cabeza está en posición de trabajo, pero inmóvil, o que permiten pequeños desplazamientos para seguir las irregularidades de la superficie del soporte de registro [2006.01]"
+  },
+  {
+    "code": "G11B 21/21",
+    "description": "••••••con dispositivos para mantener una separación deseada entre la cabeza y el soporte de registro, p. ej. mantenimiento dinámico de la separación con ayuda de un fluido, con la ayuda de deslizador [2006.01]"
+  },
+  {
+    "code": "G11B 21/22",
+    "description": "••••mientras la cabeza está separada de su posición de trabajo [2006.01]"
+  },
+  {
+    "code": "G11B 21/24",
+    "description": "••••Regulación de soportes de cabezas [2006.01]"
+  },
+  {
+    "code": "G11B 21/26",
+    "description": "••••Medios para cambiar o reemplazar las cabezas o sus elementos [2006.01]"
+  },
+  {
+    "code": "G11B 23/00",
+    "description": "Soportes de registro, no específicos del procedimiento de registro o reproducción; Accesorios, p. ej. receptáculos, especialmente adaptados para cooperar con aparatos de registro o de reproducción [2006.01]"
+  },
+  {
+    "code": "G11B 23/02",
+    "description": "••Receptáculos; Medios de almacenamiento (ebanistería, cajas, estructuras, modificados para la colocación de soportes de registro G11B 33/04) [2006.01]"
+  },
+  {
+    "code": "G11B 23/023",
+    "description": "••••Receptáculos para almacenes o cassettes [2006.01]"
+  },
+  {
+    "code": "G11B 23/027",
+    "description": "••••Receptáculos para bobinas individuales [2006.01]"
+  },
+  {
+    "code": "G11B 23/03",
+    "description": "••••Receptáculos para soportes de registro planos [2006.01]"
+  },
+  {
+    "code": "G11B 23/033",
+    "description": "••••••para discos flexibles [2006.01]"
+  },
+  {
+    "code": "G11B 23/037",
+    "description": "••••Bobinas individuales [2006.01]"
+  },
+  {
+    "code": "G11B 23/04",
+    "description": "••••Almacenes; Cassettes (G11B 23/12 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G11B 23/06",
+    "description": "••••••para alojar soportes de registro constituidos por hilos o bandas sin fin [2006.01]"
+  },
+  {
+    "code": "G11B 23/07",
+    "description": "••••••••utilizando una sola bobina o un solo núcleo [2006.01]"
+  },
+  {
+    "code": "G11B 23/08",
+    "description": "••••••para alojar hilos o cintas que tienen dos extremos distintos [2006.01]"
+  },
+  {
+    "code": "G11B 23/087",
+    "description": "••••••••utilizando dos bobinas o dos núcleos diferentes [2006.01]"
+  },
+  {
+    "code": "G11B 23/093",
+    "description": "••••••••••siendo las bobinas o los núcleos coaxiales [2006.01]"
+  },
+  {
+    "code": "G11B 23/107",
+    "description": "••••••••utilizando una bobina o un núcleo, una extremidad del soporte de registro saliendo del almacén o de la cassette [2006.01]"
+  },
+  {
+    "code": "G11B 23/113",
+    "description": "••••Aparatos o procedimientos especialmente adaptados para la fabricación de almacenes o de cassettes [2006.01]"
+  },
+  {
+    "code": "G11B 23/12",
+    "description": "••••cajas para almacenamiento sin orden preestablecido de bandas o hilos [2006.01]"
+  },
+  {
+    "code": "G11B 23/14",
+    "description": "••que permiten repetir la colocación en un lugar dado, p. ej. que utilizan perforaciones de arrastre [2006.01]"
+  },
+  {
+    "code": "G11B 23/16",
+    "description": "••Soportes de registro de pista simple para registrar a intervalos determinados a lo largo de su pista, p. ej. para el entrenamiento en el arte oratorio o en la práctica de lenguas [2006.01]"
+  },
+  {
+    "code": "G11B 23/18",
+    "description": "••Soportes de registro de pistas múltiples, p. ej. con pistas accesorias o parciales, tales como las pistas en pares \"estéreo\" [2006.01]"
+  },
+  {
+    "code": "G11B 23/20",
+    "description": "••con disposiciones para el empalme con el fin de realizar uniones permanentes o provisionales entre dos soportes de registro [2006.01]"
+  },
+  {
+    "code": "G11B 23/22",
+    "description": "••••de correas sin fin; de cintas que forman bueles de Möbius [2006.01]"
+  },
+  {
+    "code": "G11B 23/24",
+    "description": "••••de cintas que tienen pistas múltiples, paralelas al borde del soporte de registro, enlazadas por conexiones decaladas de manera que formen bucles sin fin con una o varias pistas helicoidales [2006.01]"
+  },
+  {
+    "code": "G11B 23/26",
+    "description": "••••de elementos guiadores para la carga o la colocación, p. ej. para formar una conexión provisional [2006.01]"
+  },
+  {
+    "code": "G11B 23/28",
+    "description": "••que permiten indicar un uso anterior o no autorizado [2006.01]"
+  },
+  {
+    "code": "G11B 23/30",
+    "description": "••con disposiciones para registrar señales auxiliares [2006.01]"
+  },
+  {
+    "code": "G11B 23/32",
+    "description": "••••Organos de contacto eléctrico o mecánicos; Hojas de parada de banda [2006.01]"
+  },
+  {
+    "code": "G11B 23/34",
+    "description": "••••Señales adicionales sobre la pista principal de registro, p. ej. detección fotoeléctrica de perforaciones de arrastre para sincronización [2006.01]"
+  },
+  {
+    "code": "G11B 23/36",
+    "description": "••••Señales sobre los soportes de registro o sobre las cajas y registrados por el mismo procedimiento que el registro principal [2006.01]"
+  },
+  {
+    "code": "G11B 23/38",
+    "description": "••Características visuales distintas de las contenidas en las pistas de registro o representadas por perforaciones de arrastre [2006.01]"
+  },
+  {
+    "code": "G11B 23/40",
+    "description": "••••Medios de identificación o análogos aplicados o incorporados en los soportes de registro destinados a la visualización simultánea con la lectura del registro, p. ej. etiqueta, elemento guiador, fotografía [2006.01]"
+  },
+  {
+    "code": "G11B 23/42",
+    "description": "••••Marcas para indexación, control de velocidad, sincronización o temporización [2006.01]"
+  },
+  {
+    "code": "G11B 23/44",
+    "description": "••••Información para representación simultánea con la reproducción del registro, p. ej. fotografias (trabajo en asociación de aparatos fotográficos o proyectores con medios de registro o de reproducción del sonido G03B 31/00) [2006.01]"
+  },
+  {
+    "code": "G11B 23/50",
+    "description": "••Reacondicionamiento de los soportes de registro; Limpieza de los soportes de registro (G11B 3/58 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G11B 25/00",
+    "description": "Aparatos caracterizados por la forma del soporte de registro empleado pero no específicos del procedimiento de registro o de reproducción [2006.01]"
+  },
+  {
+    "code": "G11B 25/02",
+    "description": "••que utilizan soportes de registro cilíndricos [2006.01]"
+  },
+  {
+    "code": "G11B 25/04",
+    "description": "••que utilizan soportes de registro planos, p. ej. discos, tarjetas [2006.01]"
+  },
+  {
+    "code": "G11B 25/06",
+    "description": "••que utilizan soportes de registro bajo forma de banda, p. ej. cintas [2006.01]"
+  },
+  {
+    "code": "G11B 25/08",
+    "description": "••que utilizan soporte de registro filiforme, p. ej. hilo metálico [2006.01]"
+  },
+  {
+    "code": "G11B 25/10",
+    "description": "••Aparatos capaces de utilizar soportes de registro definidos en varios de los grupos G11B 25/02-G11B 25/08 [2006.01]"
+  },
+  {
+    "code": "G11B 27/00",
+    "description": "Montaje; Indexación; Direccionamiento; Temporización o sincronización; Monitorización; Medida del avance de una cinta [2006.01]"
+  },
+  {
+    "code": "G11B 27/02",
+    "description": "••Montaje, p. ej. variación del orden de señales de información registradas sobre, o reproducidas a partir de soportes de registro [2006.01]"
+  },
+  {
+    "code": "G11B 27/022",
+    "description": "••••Montaje electrónico de señales de información analógicas, p. ej. de señales audio, vídeo [2006.01]"
+  },
+  {
+    "code": "G11B 27/024",
+    "description": "••••••sobre cintas (G11B 27/028, G11B 27/029 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G11B 27/026",
+    "description": "••••••sobre discos (G11B 27/028, G11B 27/029 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G11B 27/028",
+    "description": "••••••asistido por computador [2006.01]"
+  },
+  {
+    "code": "G11B 27/029",
+    "description": "••••••Montaje por inserción [2006.01]"
+  },
+  {
+    "code": "G11B 27/031",
+    "description": "••••Montaje electrónico de señales de información analógicas digitalizadas, p. ej. de señales audio, vídeo [2006.01]"
+  },
+  {
+    "code": "G11B 27/032",
+    "description": "••••••sobre cintas (G11B 27/036, G11B 27/038 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G11B 27/034",
+    "description": "••••••sobre discos (G11B 27/036, G11B 27/038 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G11B 27/036",
+    "description": "••••••Montaje por inserción [2006.01]"
+  },
+  {
+    "code": "G11B 27/038",
+    "description": "••••••Atenuador de transiciones a este efecto [2006.01]"
+  },
+  {
+    "code": "G11B 27/04",
+    "description": "••••que utilizan un accionamiento diferencial del soporte de registro y de la cabeza [2006.01]"
+  },
+  {
+    "code": "G11B 27/06",
+    "description": "••••Recortado y reencolado; Entallado o perforación de soportes de registro por medios diferentes del estudio de registro (soportes de registro con posiciones para el empalme G11B 23/20) [2006.01]"
+  },
+  {
+    "code": "G11B 27/10",
+    "description": "••Indexación; Direccionamiento; Temporización o sincronización; Medida del avance de una cinta [2006.01]"
+  },
+  {
+    "code": "G11B 27/11",
+    "description": "••••utilizando una información no detectable sobre el soporte de registro [2006.01]"
+  },
+  {
+    "code": "G11B 27/13",
+    "description": "••••••la información proviene del movimiento del soporte de registro, p. ej. utilizando un tacómetro [2006.01]"
+  },
+  {
+    "code": "G11B 27/15",
+    "description": "••••••••utilizando medios de detección mecánicos [2006.01]"
+  },
+  {
+    "code": "G11B 27/17",
+    "description": "••••••••utilizando medios de detección eléctricos [2006.01]"
+  },
+  {
+    "code": "G11B 27/19",
+    "description": "••••utilizando una información detectable sobre el soporte de registro [2006.01]"
+  },
+  {
+    "code": "G11B 27/22",
+    "description": "••••••Medios sensibles a la presencia o ausencia de señales de información registradas [2006.01]"
+  },
+  {
+    "code": "G11B 27/24",
+    "description": "••••••por detección de características sobre el soporte de registro diferentes de la pista de transducción [2006.01]"
+  },
+  {
+    "code": "G11B 27/26",
+    "description": "••••••••por detección fotoeléctrica, p. ej. de perforaciones de arrastre [2006.01]"
+  },
+  {
+    "code": "G11B 27/28",
+    "description": "••••••utilizando señales de información registradas por el mismo procedimiento que para el registro principal [2006.01]"
+  },
+  {
+    "code": "G11B 27/30",
+    "description": "••••••••sobre la misma pista que el registro principal [2006.01]"
+  },
+  {
+    "code": "G11B 27/32",
+    "description": "••••••••sobre pistas auxiliares separadas del mismo soporte de registro o de un soporte auxiliar [2006.01]"
+  },
+  {
+    "code": "G11B 27/34",
+    "description": "••••Instalaciones indicadores [2006.01]"
+  },
+  {
+    "code": "G11B 27/36",
+    "description": "••Monitorización, es decir, vigilancia del desarrollo del registro o de la reproducción [2006.01]"
+  },
+  {
+    "code": "G11B 31/00",
+    "description": "Dispositivos para hacer funcionar los aparatos de registro o de reproducción en unión con aparatos asociados (con cámaras o aparatos de proyección G03B 31/00) [2006.01]"
+  },
+  {
+    "code": "G11B 31/02",
+    "description": "••con instrumentos musicales automáticos [2006.01]"
+  },
+  {
+    "code": "G11B 33/00",
+    "description": "Elementos de estructura, detalles o accesorios no previstos en los otros grupos de esta subclase [2006.01]"
+  },
+  {
+    "code": "G11B 33/02",
+    "description": "••Ebanistería; Cajas; Estructuras; Disposición de aparatos en o sobre éstos [2006.01]"
+  },
+  {
+    "code": "G11B 33/04",
+    "description": "••••modificados para la colocación de soportes de registro [2006.01]"
+  },
+  {
+    "code": "G11B 33/06",
+    "description": "••••combinados con otros aparatos que tienen una función principal diferente [2006.01]"
+  },
+  {
+    "code": "G11B 33/08",
+    "description": "••••Aislamiento o absorción de sonido o vibraciones indeseables [2006.01]"
+  },
+  {
+    "code": "G11B 33/10",
+    "description": "••Disposiciones para la indicación; Disposiciones para la señalización [2006.01]"
+  },
+  {
+    "code": "G11B 33/12",
+    "description": "••Disposición de los elementos de estructura en los aparatos, p. ej. de alimentación, de módulos [2006.01]"
+  },
+  {
+    "code": "G11B 33/14",
+    "description": "••Reducción de la influencia de parámetros físicos, p. ej. cambios de temperatura, humedad, polvo [2006.01]"
+  }
+]

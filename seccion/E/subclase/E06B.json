@@ -1,0 +1,882 @@
+[
+  {
+    "code": "E06B 1/00",
+    "description": "Estructuras de marcos de aberturas en muros, suelos o techos; Bastidores destinados a ser montados rígidamente en tales aberturas (E06B 5/00 tiene prioridad; características relativas igualmente a los bastidores interiores o bastidores de batientes, características relativas tan sólo al montaje de bastidores interiores E06B 3/00; uniones en ángulo o uniones esquinadas E06B 3/96) [2006.01]"
+  },
+  {
+    "code": "E06B 1/02",
+    "description": "••Marcos base, es decir marcos plantillas para aberturas en muros o superficies análogas, con elementos de sujeción en otro bastidor montado fijamente; Adaptación especial de estos últimos con miras a su fijación [2006.01]"
+  },
+  {
+    "code": "E06B 1/04",
+    "description": "••Marcos de puertas, ventanas o similares a fijar en los huecos (adaptación especial para su fijación en los marcos plantilla E06B 1/02; características relativas solamente al montaje de cristales u otros paneles E06B 3/00) [2006.01]"
+  },
+  {
+    "code": "E06B 1/06",
+    "description": "••••Marcos de puerta en madera [2006.01]"
+  },
+  {
+    "code": "E06B 1/08",
+    "description": "••••••compuestos de muchas partes en relación con la sección vertical del mismo marco de puerta [2006.01]"
+  },
+  {
+    "code": "E06B 1/10",
+    "description": "••••••••adaptables en relación con el espesor de los muros [2006.01]"
+  },
+  {
+    "code": "E06B 1/12",
+    "description": "••••Marcos de puerta metálicos [2006.01]"
+  },
+  {
+    "code": "E06B 1/14",
+    "description": "••••••de sección vertical en particular (E06B 1/18, E06B 1/22 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "E06B 1/16",
+    "description": "••••••••Marcos de puerta huecos [2006.01]"
+  },
+  {
+    "code": "E06B 1/18",
+    "description": "••••••compuestos de muchas partes en relación con la sección vertical del mismo marco de la puerta [2006.01]"
+  },
+  {
+    "code": "E06B 1/20",
+    "description": "••••••••adaptables en relación con el espesor de los muros [2006.01]"
+  },
+  {
+    "code": "E06B 1/22",
+    "description": "••••••con umbrales de forma especial formando parte integrante del marco de puerta [2006.01]"
+  },
+  {
+    "code": "E06B 1/24",
+    "description": "••••Marcos de puerta en piedra natural [2006.01]"
+  },
+  {
+    "code": "E06B 1/26",
+    "description": "••••Marcos de puerta en materia plástica [2006.01]"
+  },
+  {
+    "code": "E06B 1/28",
+    "description": "••••••Marcos de puerta huecos (E06B 1/30 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "E06B 1/30",
+    "description": "••••••compuestos de varias partes en relación con la sección vertical del mismo marco de puerta [2006.01]"
+  },
+  {
+    "code": "E06B 1/32",
+    "description": "••••Marcos de puerta fabricados con diferentes materiales [2006.01]"
+  },
+  {
+    "code": "E06B 1/34",
+    "description": "••••Revestimientos, p. ej. revestimientos protectores de la intemperie o con fines decorativos [2006.01]"
+  },
+  {
+    "code": "E06B 1/36",
+    "description": "••••Marcos de puerta adaptados para ventanas solamente [2006.01]"
+  },
+  {
+    "code": "E06B 1/38",
+    "description": "••••••para tiendas, escaparates o vitrinas [2006.01]"
+  },
+  {
+    "code": "E06B 1/40",
+    "description": "••••••Marcos de puerta con partes amovibles, para colocación de cristales (E06B 1/38 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "E06B 1/52",
+    "description": "••••Marcos adaptados sólo para puertas [2006.01]"
+  },
+  {
+    "code": "E06B 1/56",
+    "description": "••Fijación de bastidores o marcos en las aberturas [2006.01]"
+  },
+  {
+    "code": "E06B 1/58",
+    "description": "••••por acoplamiento, p. ej. con cemento [2006.01]"
+  },
+  {
+    "code": "E06B 1/60",
+    "description": "••••por medios mecánicos, p. ej. por anclaje [2006.01]"
+  },
+  {
+    "code": "E06B 1/62",
+    "description": "••Calafateo o recubrimiento de las juntas entre los encuadres de las aberturas y los bastidores (E06B 1/34 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "E06B 1/64",
+    "description": "••••por inserción de elementos no rígidos, p. ej. bandas, lengüetas elásticas [2006.01]"
+  },
+  {
+    "code": "E06B 1/66",
+    "description": "••••por guarniciones onduladas [2006.01]"
+  },
+  {
+    "code": "E06B 1/68",
+    "description": "••••por elementos externos perfilados [2006.01]"
+  },
+  {
+    "code": "E06B 1/70",
+    "description": "••Rebordes; Umbrales [2006.01]"
+  },
+  {
+    "code": "E06B 3/00",
+    "description": "Bastidores móviles de ventanas, batientes de puertas o elementos similares para cerrar huecos; Colocación de cierres fijos o móviles, p. ej. ventanas; Características de bastidores fijos, relativas al montaje de bastidores en los batientes (E06B 5/00 tiene prioridad; contraventanas o piezas análogas E06B 9/00; cristales C03; unión de hojas de vidrio por fusión C03B 23/203; unión vidrio a vidrio por procedimientos distintos a la fusión o unión de vidrios a otros materiales inorgánicos C03C 27/00) [2006.01]"
+  },
+  {
+    "code": "E06B 3/01",
+    "description": "••Tabiques móviles o eclipsables para hangares u otras naves, p. ej. para aviones (estructura de los muros E04B 2/00) [2006.01]"
+  },
+  {
+    "code": "E06B 3/02",
+    "description": "••Batientes hechos enteramente de vidrio [2006.01]"
+  },
+  {
+    "code": "E06B 3/04",
+    "description": "••Bastidores de batientes no caracterizados por su forma de movimiento (características relativas a la clase de movimiento E06B 3/32) [2006.01]"
+  },
+  {
+    "code": "E06B 3/06",
+    "description": "••••Bastidores sencillos [2006.01]"
+  },
+  {
+    "code": "E06B 3/08",
+    "description": "••••••Estructuras dependientes del empleo de materiales determinados (E06B 3/24 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "E06B 3/10",
+    "description": "••••••••en madera [2006.01]"
+  },
+  {
+    "code": "E06B 3/12",
+    "description": "••••••••en metal [2006.01]"
+  },
+  {
+    "code": "E06B 3/14",
+    "description": "••••••••••de sección particular [2006.01]"
+  },
+  {
+    "code": "E06B 3/16",
+    "description": "••••••••••••Bastidores huecos [2006.01]"
+  },
+  {
+    "code": "E06B 3/18",
+    "description": "••••••••en cemento o en otro material parecido a la piedra [2006.01]"
+  },
+  {
+    "code": "E06B 3/20",
+    "description": "••••••••en materia plástica [2006.01]"
+  },
+  {
+    "code": "E06B 3/22",
+    "description": "••••••••••Bastidores huecos [2006.01]"
+  },
+  {
+    "code": "E06B 3/24",
+    "description": "••••••especialmente adaptados para un doble acristalado (partes separables para fijar los cristales E06B 3/64) [2006.01]"
+  },
+  {
+    "code": "E06B 3/26",
+    "description": "••••Bastidores compuestos, es decir comprendiendo un bastidor en o detrás de otro (E06B 3/263, E06B 3/28 tiene prioridad; adaptaciones de bastidores móviles E06B 3/32) [2006.01]"
+  },
+  {
+    "code": "E06B 3/263",
+    "description": "••••Bastidores con disposiciones particulares para el aislamiento [2006.01]"
+  },
+  {
+    "code": "E06B 3/267",
+    "description": "••••••con elementos aislantes formados in situ [2006.01]"
+  },
+  {
+    "code": "E06B 3/273",
+    "description": "••••••con elementos aislantes prefabricados colocados en su lugar por deformación de partes de los elementos del bastidor [2006.01]"
+  },
+  {
+    "code": "E06B 3/277",
+    "description": "••••••con elementos aislantes prefabricados colocados en su lugar por dilatación de dichos elementos aislantes [2006.01]"
+  },
+  {
+    "code": "E06B 3/28",
+    "description": "••••con cristales o placas similares suplementarias amovibles, encuadradas o no [2006.01]"
+  },
+  {
+    "code": "E06B 3/30",
+    "description": "••Revestimientos, p. ej. para protección contra intemperie o con fines decorativos [2006.01]"
+  },
+  {
+    "code": "E06B 3/32",
+    "description": "••Instalaciones de batientes caracterizados por el tipo de movimiento; Instalaciones de batientes patrones en los huecos; Características de los batientes o bastidores teniendo en cuenta tan sólo el tipo de movimiento del batiente [2006.01]"
+  },
+  {
+    "code": "E06B 3/34",
+    "description": "••••para una sola clase de movimiento (E06B 3/48 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "E06B 3/36",
+    "description": "••••••con un eje de rotación vertical único sobre uno de los costados de la abertura, o con giro en la abertura (batientes que precisan de una maniobra de alzado antes del hueco E06B 3/52) [2006.01]"
+  },
+  {
+    "code": "E06B 3/38",
+    "description": "••••••con un eje de rotación arriba o debajo de la abertura [2006.01]"
+  },
+  {
+    "code": "E06B 3/40",
+    "description": "••••••con un eje de rotación vertical u horizontal no situado al costado de la abertura, p. ej. batiente oscilante [2006.01]"
+  },
+  {
+    "code": "E06B 3/42",
+    "description": "••••••Batientes deslizantes; Detalles de bastidores teniendo en cuenta su guía [2006.01]"
+  },
+  {
+    "code": "E06B 3/44",
+    "description": "••••••••Batientes con deslizamiento vertical [2006.01]"
+  },
+  {
+    "code": "E06B 3/46",
+    "description": "••••••••Batientes con deslizamiento horizontal [2006.01]"
+  },
+  {
+    "code": "E06B 3/48",
+    "description": "••••Batientes ensamblados por sus bordes, p. ej. batientes replegables [2006.01]"
+  },
+  {
+    "code": "E06B 3/50",
+    "description": "••••para diferentes clases de movimiento (E06B 3/48 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "E06B 3/52",
+    "description": "••••••Batientes que precisan de una maniobra de elevación delante del hueco [2006.01]"
+  },
+  {
+    "code": "E06B 3/54",
+    "description": "••Fijación de cristales o láminas parecidas [2006.01]"
+  },
+  {
+    "code": "E06B 3/56",
+    "description": "••••con mastic, cemento o solamente encolados (E06B 3/64 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "E06B 3/58",
+    "description": "••••con molduras, tarugos o análogos (E06B 3/64 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "E06B 3/60",
+    "description": "••••••con molduras metálicas de apriete [2006.01]"
+  },
+  {
+    "code": "E06B 3/62",
+    "description": "••••••con molduras elásticas semejantes al caucho [2006.01]"
+  },
+  {
+    "code": "E06B 3/64",
+    "description": "••••Fijación de más de una vidriera al bastidor [2006.01]"
+  },
+  {
+    "code": "E06B 3/66",
+    "description": "••Bloques constituidos por varias vidrieras paralelas, unidas entre sí de forma permanente, p. ej. a lo largo de los bordes (productos estratificados compuestos esencialmente de láminas de vidrio B32B 17/00; recubrimientos de vidrio C03C 17/00) [2006.01]"
+  },
+  {
+    "code": "E06B 3/663",
+    "description": "••••Elementos para espaciar los cristales [2006.01]"
+  },
+  {
+    "code": "E06B 3/667",
+    "description": "••••••Conectores para estos elementos [2006.01]"
+  },
+  {
+    "code": "E06B 3/67",
+    "description": "••••caracterizados por los acondicionamientos o dispositivos adiccionales para el aislamiento térmico o acústico [2006.01]"
+  },
+  {
+    "code": "E06B 3/673",
+    "description": "••••Ensamblaje de unidades (E06B 3/677 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "E06B 3/677",
+    "description": "••••Vaciado o rellenado del espacio entre los cristales; Prevención de la condensación en el espacio entre los cristales (por medio de elementos de espaciamiento E06B 3/663); Limpieza del espacio entre cristales [2006.01]"
+  },
+  {
+    "code": "E06B 3/68",
+    "description": "••Maderas pequeñas [2006.01]"
+  },
+  {
+    "code": "E06B 3/70",
+    "description": "••Batientes de puerta (bastidores de batientes E06B 3/04) [2006.01]"
+  },
+  {
+    "code": "E06B 3/72",
+    "description": "••••consistente en un marco y paneles [2006.01]"
+  },
+  {
+    "code": "E06B 3/74",
+    "description": "••••••siendo los paneles de madera [2006.01]"
+  },
+  {
+    "code": "E06B 3/76",
+    "description": "••••••paneles metálicos [2006.01]"
+  },
+  {
+    "code": "E06B 3/78",
+    "description": "••••••paneles de materia plástica [2006.01]"
+  },
+  {
+    "code": "E06B 3/80",
+    "description": "••••flexibles [2006.01]"
+  },
+  {
+    "code": "E06B 3/82",
+    "description": "••••Puertas lisas, es decir, con una superficie completamente lisa (E06B 3/02 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "E06B 3/84",
+    "description": "••••••en contraplaca [2006.01]"
+  },
+  {
+    "code": "E06B 3/86",
+    "description": "••••••en materia plástica [2006.01]"
+  },
+  {
+    "code": "E06B 3/88",
+    "description": "••••Dispositivos de protección de los bordes de los batientes de puerta (dispositivos de protección de dedos para puertas o ventanas E06B 7/36) [2006.01]"
+  },
+  {
+    "code": "E06B 3/90",
+    "description": "••Puertas giratorias; Sus alojamientos (torniquetes E06B 11/08) [2006.01]"
+  },
+  {
+    "code": "E06B 3/92",
+    "description": "••Puertas o ventanas extensibles una vez colocadas (batientes deslizables para ventanas E06B 3/42; batientes replegables E06B 3/48; dispositivos de cierre murales enrollables, p. ej. contraventanas giratorias, E06B 9/08) [2006.01]"
+  },
+  {
+    "code": "E06B 3/94",
+    "description": "••••Puertas del tipo de fuelle [2006.01]"
+  },
+  {
+    "code": "E06B 3/96",
+    "description": "••Uniones en ángulo o uniones esquinadas para ventanas, puertas, chasis, o batientes similares [2006.01]"
+  },
+  {
+    "code": "E06B 3/964",
+    "description": "••••utilizando piezas conectoras independientes, p. ej. piezas conectoras en forma de T (E06B 3/984, E06B 3/988, E06B 3/99 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "E06B 3/968",
+    "description": "••••••caracterizadas por el modo de fijación de las piezas conectoras en o sobre los elementos de chasis [2006.01]"
+  },
+  {
+    "code": "E06B 3/972",
+    "description": "••••••••incrementando la sección transversal de las piezas conectoras, p. ej. expandiendo las piezas conectoras por medio de cuñas (E06B 3/976 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "E06B 3/976",
+    "description": "••••••••deformando los elementos de chasis [2006.01]"
+  },
+  {
+    "code": "E06B 3/98",
+    "description": "••••••••estando las piezas conectoras especialmente adaptadas para atraer los elementos de chasis entre sí (E06B 3/972, E06B 3/976 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "E06B 3/984",
+    "description": "••••especialmente adaptadas para elementos de chasis de madera o de otro material que se trabaje de un modo similar (E06B 3/99 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "E06B 3/988",
+    "description": "••••especialmente adaptadas para elementos de chasis de chapa o de un material laminado similar, con una sección transversal abierta, generalmente en forma de U, p. ej. para marcos de puertas [2006.01]"
+  },
+  {
+    "code": "E06B 3/99",
+    "description": "••••para elementos de chasis continuos que se crucen ininterrumpidamente (maderas pequeñas E06B 3/68) [2006.01]"
+  },
+  {
+    "code": "E06B 5/00",
+    "description": "Puertas, ventanas o cierres adecuados a fines específicos; Estructuras de encuadre a tales efectos [2006.01]"
+  },
+  {
+    "code": "E06B 5/01",
+    "description": "••Trampillas [2006.01]"
+  },
+  {
+    "code": "E06B 5/02",
+    "description": "••para construcciones anexas o sótanos; Otras cerraduras de tipo sencillo no concebidas para estar bien ajustadas [2006.01]"
+  },
+  {
+    "code": "E06B 5/04",
+    "description": "••••con marcos hechos en madera [2006.01]"
+  },
+  {
+    "code": "E06B 5/06",
+    "description": "••••con marcos metálicos [2006.01]"
+  },
+  {
+    "code": "E06B 5/08",
+    "description": "••••con marcos en cemento o en otros materiales parecidos a la piedra, o en materia plástica [2006.01]"
+  },
+  {
+    "code": "E06B 5/10",
+    "description": "••para protección contra incursiones aéreas u otros actos de guerra; para otros fines protectores [2006.01]"
+  },
+  {
+    "code": "E06B 5/11",
+    "description": "••••contra el robo por fractura [2006.01]"
+  },
+  {
+    "code": "E06B 5/12",
+    "description": "••••contra la presión del aire, las explosiones o gases [2006.01]"
+  },
+  {
+    "code": "E06B 5/14",
+    "description": "••••••Puertas u otra clase de cierre a prueba de gases; Adaptación de construcciones permanentes con este fin [2006.01]"
+  },
+  {
+    "code": "E06B 5/16",
+    "description": "••••Puertas u otra clase de cierres a prueba de fuego; Adaptación de construcciones permanentes con este fin [2006.01]"
+  },
+  {
+    "code": "E06B 5/18",
+    "description": "••••contra las radiaciones nocivas (contra el calor E06B 5/16) [2006.01]"
+  },
+  {
+    "code": "E06B 5/20",
+    "description": "••para aislamiento contra ruidos [2006.01]"
+  },
+  {
+    "code": "E06B 7/00",
+    "description": "Arreglos especiales o dispositivos relacionados con puertas o ventanas (pantallas u otros dispositivos protectores semejantes E06B 9/00) [2006.01]"
+  },
+  {
+    "code": "E06B 7/02",
+    "description": "••para asegurar la ventilación, p. ej. a través de dobles ventanas; Arreglos a base de rosetones de ventilación (órganos de control del flujo de aire en sí\n\t\t\t\t\t\t\t\t\t\tF24F 13/08) [2006.01]"
+  },
+  {
+    "code": "E06B 7/03",
+    "description": "••••Dispositivos de ventilación a situar bajo las ventanas deslizantes hacia arriba (deflectores para la lluvia o las corrientes de aire E06B 7/26) [2006.01]"
+  },
+  {
+    "code": "E06B 7/04",
+    "description": "••••para contraventanas de ventilación (E06B 7/08 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "E06B 7/06",
+    "description": "••••••para una sola persiana de ventilación [2006.01]"
+  },
+  {
+    "code": "E06B 7/08",
+    "description": "••••Ventanas, puertas-ventanas o enrejados [2006.01]"
+  },
+  {
+    "code": "E06B 7/082",
+    "description": "••••••con hojas rígidas o deslizantes [2006.01]"
+  },
+  {
+    "code": "E06B 7/084",
+    "description": "••••••con hojas giratorias [2006.01]"
+  },
+  {
+    "code": "E06B 7/086",
+    "description": "••••••••relacionadas entre ellas por movimiento simultáneo [2006.01]"
+  },
+  {
+    "code": "E06B 7/088",
+    "description": "••••••••••con enrejado de protección facial o dispositivo protector de seguridad [2006.01]"
+  },
+  {
+    "code": "E06B 7/09",
+    "description": "••••••••••montados en un batiente móvil, p. ej. una puerta [2006.01]"
+  },
+  {
+    "code": "E06B 7/092",
+    "description": "••••••••••maniobrables en varios grupos distintos [2006.01]"
+  },
+  {
+    "code": "E06B 7/094",
+    "description": "••••••••••maniobrables en serie; caracterizadas por un movimiento adicional independiente [2006.01]"
+  },
+  {
+    "code": "E06B 7/096",
+    "description": "••••••••••maniobrables o relacionadas entre ellas por una transmisión (mecanismos de control de batientes con juego de engranajes en general E05F 11/00) [2006.01]"
+  },
+  {
+    "code": "E06B 7/098",
+    "description": "••••••••••con dispositivo de estanqueidad [2006.01]"
+  },
+  {
+    "code": "E06B 7/10",
+    "description": "••••por estructura especial de los elementos del bastidor [2006.01]"
+  },
+  {
+    "code": "E06B 7/12",
+    "description": "••Medios para evitar la condensación (dobles vidrieras E06B 3/24-E06B 3/28, E06B 3/64, E06B 3/66; dispositivos de calefacción especialmente adaptados a superficies transparentes o reflectantes H05B 3/84) [2006.01]"
+  },
+  {
+    "code": "E06B 7/14",
+    "description": "••Medios para evacuación de las aguas de condensación o infiltración [2006.01]"
+  },
+  {
+    "code": "E06B 7/16",
+    "description": "••Dispositivos de estanqueidad sobre los batientes o las partes que trabajan con ellos (E06B 7/098 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "E06B 7/18",
+    "description": "••••mediante burletes amovibles, p. ej. obturadores de aire utilizados adicionalmente para las cerraduras [2006.01]"
+  },
+  {
+    "code": "E06B 7/20",
+    "description": "••••••que se recogen automáticamente a la apertura del batiente [2006.01]"
+  },
+  {
+    "code": "E06B 7/205",
+    "description": "••••••••con cinta de estanqueidad montada sobre el reborde [2006.01]"
+  },
+  {
+    "code": "E06B 7/21",
+    "description": "••••••••con cinta de estanqueidad móvil en el plano del batiente [2006.01]"
+  },
+  {
+    "code": "E06B 7/215",
+    "description": "••••••••con cinta de estanqueidad desplazada en una posición contraída por medios elásticos, p. ej. por resortes [2006.01]"
+  },
+  {
+    "code": "E06B 7/22",
+    "description": "••••por burletes elásticos, p. ej. tubos de caucho; por burletes flexibles, p. ej. en fieltro o en peluche, en bandas de metal flexible (E06B 7/18 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "E06B 7/23",
+    "description": "••••••Bandas o tubos de plástico, caucho, espuma o similares [2006.01]"
+  },
+  {
+    "code": "E06B 7/232",
+    "description": "••••••Bandas flexibles en material duro, p. ej. metal [2006.01]"
+  },
+  {
+    "code": "E06B 7/24",
+    "description": "••••sin elementos de estanqueidad relacionados, p. ej. laberintos [2006.01]"
+  },
+  {
+    "code": "E06B 7/26",
+    "description": "••Dispositivos deflectores o protectores contra la lluvia, p. ej. bajo batientes deslizables [2006.01]"
+  },
+  {
+    "code": "E06B 7/28",
+    "description": "••Otros arreglos colocados en puertas y ventanas, p. ej. paneles en puertas, ventanas adaptadas para colocar plantas, ganchos para los lavadores de cristales [2006.01]"
+  },
+  {
+    "code": "E06B 7/30",
+    "description": "••••Mirillas; Dispositivos para hablar a través de la puerta; Puertas provistas de ventanillas [2006.01]"
+  },
+  {
+    "code": "E06B 7/32",
+    "description": "••••Puertas para servir a su través; Puertas con pasa-platos [2006.01]"
+  },
+  {
+    "code": "E06B 7/34",
+    "description": "••••Puertas dotadas de estantes (armarios en general A47B) [2006.01]"
+  },
+  {
+    "code": "E06B 7/36",
+    "description": "••••Dispositivos de protección de dedos [2006.01]"
+  },
+  {
+    "code": "E06B 9/00",
+    "description": "Pantallas o dispositivos de protección para aberturas, con o sin dispositivos de maniobra o fijación; Cerraduras de la misma estructura (E06B 5/10 tiene prioridad; batientes para puertas o ventanas unidas por sus bordes E06B 3/48; equipo accesorio interior de puertas y ventanas, no formando parte propiamente del trabajo de acabado del edificio, p. ej. telones, A47H; rejas como elementos de construcción E04C 2/42; cerraduras, sus accesorios E05B; pestillos o dispositivos de inmovilización para batientes E05C; mecanismos de control para batientes en general E05F) [2006.01]"
+  },
+  {
+    "code": "E06B 9/01",
+    "description": "••Enrejados fijos a muros, puertas o ventanas; Enrejados desplazables en puertas y ventanas; Muros o paredes con forma enrejada, p. ej. claustros [2006.01]"
+  },
+  {
+    "code": "E06B 9/02",
+    "description": "••Contraventanas, enrejados movibles u otros dispositivos de seguridad, p. ej. contra el robo (ventanas con persianas o enrejados E06B 7/08; persianas de láminas E06B 9/26) [2006.01]"
+  },
+  {
+    "code": "E06B 9/04",
+    "description": "••••del tipo batientes, p. ej. giratorias o de corredera [2006.01]"
+  },
+  {
+    "code": "E06B 9/06",
+    "description": "••••abatibles o replegables, p. ej. del tipo de fuelle o acordeón (puertas tipo fuelle E06B 3/94; enrejados de tipo de rodillo E06B 9/18) [2006.01]"
+  },
+  {
+    "code": "E06B 9/08",
+    "description": "••••Cierres de tipo de rodillo (persianas de rodillo E06B 9/40; dispositivos de maniobra, de guía o de bloqueo para cierres de tipo de rodillo E06B 9/56; utilizables únicamente como toldos E04F 10/06) [2006.01]"
+  },
+  {
+    "code": "E06B 9/11",
+    "description": "••••••Contraventanas de rodillo [2006.01]"
+  },
+  {
+    "code": "E06B 9/13",
+    "description": "••••••••con elementos de cierre de una sola pieza, p. ej. de chapa ondulada [2006.01]"
+  },
+  {
+    "code": "E06B 9/15",
+    "description": "••••••••con elementos de cierre formados por listones o similares [2006.01]"
+  },
+  {
+    "code": "E06B 9/165",
+    "description": "••••••••••con listones que se esconden uno dentro de otro; con listones cuya separación mutua puede ser modificada [2006.01]"
+  },
+  {
+    "code": "E06B 9/17",
+    "description": "••••••••Elementos o partes constitutivas de las contraventanas de rodillo, p. ej. dispositivos de suspensión, cajas de contraventanas, postigos, orificios de ventilación [2006.01]"
+  },
+  {
+    "code": "E06B 9/171",
+    "description": "••••••••••Rodillos para contraventanas; Fijación de las contraventanas de rodillo a los rodillos [2006.01]"
+  },
+  {
+    "code": "E06B 9/172",
+    "description": "••••••••••••por medio de clavijas [2006.01]"
+  },
+  {
+    "code": "E06B 9/173",
+    "description": "••••••••••••por pasadores [2006.01]"
+  },
+  {
+    "code": "E06B 9/174",
+    "description": "••••••••••Palieres especialmente adaptados a las contraventanas de rodillo [2006.01]"
+  },
+  {
+    "code": "E06B 9/18",
+    "description": "••••••Enrejados de tipo de rodillo [2006.01]"
+  },
+  {
+    "code": "E06B 9/24",
+    "description": "••Pantallas u otros dispositivos protectores de la luminosidad, en especial contra la luz solar; Pantallas similares para proteger la intimidad o por razones estéticas (disposiciones o dispositivos de maniobra, de guía o de bloqueo para cierres de tipo de rodillo E06B 9/56; pantallas flexibles durante la liberación A47H 23/00) [2006.01]"
+  },
+  {
+    "code": "E06B 9/26",
+    "description": "••••Persianas de laminillas o similares, p. ej. persianas venecianas [2006.01]"
+  },
+  {
+    "code": "E06B 9/262",
+    "description": "••••••con bandas horizontales o verticales acopladas entre sí en estructura simple; Persianas en acordeón [2006.01]"
+  },
+  {
+    "code": "E06B 9/264",
+    "description": "••••••Combinaciones de persianas laminadas con contraventanas enrollables, ventanas enrejadas, ventanas con doble vidriera; Persianas laminadas con dispositivos especiales [2006.01]"
+  },
+  {
+    "code": "E06B 9/266",
+    "description": "••••••Dispositivos o accesorios para fabricar o montar persianas de laminillas o elementos de éstas [2006.01]"
+  },
+  {
+    "code": "E06B 9/28",
+    "description": "••••••con láminas horizontales, p. ej. no alzables (ventanas con persianas o de enrejados E06B 7/08) [2006.01]"
+  },
+  {
+    "code": "E06B 9/30",
+    "description": "••••••••elevables [2006.01]"
+  },
+  {
+    "code": "E06B 9/302",
+    "description": "••••••••••sin correa de maniobra, p. ej. con pantógrafo o varillas a rosca [2006.01]"
+  },
+  {
+    "code": "E06B 9/303",
+    "description": "••••••••••con correa de maniobra [2006.01]"
+  },
+  {
+    "code": "E06B 9/304",
+    "description": "••••••••••••con varilla inclinable y árbol de elevación diferente [2006.01]"
+  },
+  {
+    "code": "E06B 9/305",
+    "description": "••••••••••••con varilla inclinable y cordones de alzado dirigidos a través de una varilla fija [2006.01]"
+  },
+  {
+    "code": "E06B 9/306",
+    "description": "••••••••••••con varilla inclinable a lo largo de la cual son guiados los cordones de alzado [2006.01]"
+  },
+  {
+    "code": "E06B 9/307",
+    "description": "••••••••••••detalles de varillas inclinables y su maniobra [2006.01]"
+  },
+  {
+    "code": "E06B 9/308",
+    "description": "••••••••••••con varilla inclinable y árbol de elevación coaxial [2006.01]"
+  },
+  {
+    "code": "E06B 9/32",
+    "description": "••••••••••Dispositivos de maniobra, de guiado o de cierre (maniobra con varillas inclinables E06B 9/307) [2006.01]"
+  },
+  {
+    "code": "E06B 9/322",
+    "description": "••••••••••••Detalles de los dispositivos de maniobra, p. ej. por poleas, frenos, tambores de muelle, controles (dispositivos de uso general especialmente adaptados o montados para almacenar, devanar de forma repetida y volver a almacenar longitudes dadas de material B65H 75/34) [2006.01]"
+  },
+  {
+    "code": "E06B 9/323",
+    "description": "••••••••••••Estructuras o soporte del cárter superior [2006.01]"
+  },
+  {
+    "code": "E06B 9/324",
+    "description": "••••••••••••Frenos de cinta [2006.01]"
+  },
+  {
+    "code": "E06B 9/325",
+    "description": "••••••••••••Dispositivos de inmovilización que impiden la elevación [2006.01]"
+  },
+  {
+    "code": "E06B 9/326",
+    "description": "••••••••••••Partes constitutivas de los cordones, p. ej. rizos, botones de arrastre [2006.01]"
+  },
+  {
+    "code": "E06B 9/327",
+    "description": "••••••••••••Guías para persianas de laminillas, levantables con láminas horizontales [2006.01]"
+  },
+  {
+    "code": "E06B 9/34",
+    "description": "••••••••de tipo de rodillo [2006.01]"
+  },
+  {
+    "code": "E06B 9/36",
+    "description": "••••••con láminas verticales [2006.01]"
+  },
+  {
+    "code": "E06B 9/38",
+    "description": "••••••Otros detalles [2006.01]"
+  },
+  {
+    "code": "E06B 9/382",
+    "description": "••••••••Detalles de las cintas o cadenas de maniobra de las persianas, p. ej. rizos para acortar las cintas [2006.01]"
+  },
+  {
+    "code": "E06B 9/384",
+    "description": "••••••••Detalles de interconexión o interacción de las cintas y las laminillas. [2006.01]"
+  },
+  {
+    "code": "E06B 9/386",
+    "description": "••••••••Detalles de las laminillas [2006.01]"
+  },
+  {
+    "code": "E06B 9/388",
+    "description": "••••••••Detalles de las tablillas inferiores o superiores y su fijación [2006.01]"
+  },
+  {
+    "code": "E06B 9/40",
+    "description": "••••Persianas de rodillo (utilizables únicamente como toldos E04F 10/06) [2006.01]"
+  },
+  {
+    "code": "E06B 9/42",
+    "description": "••••••Partes constitutivas o detalles de las persianas de rodillo, p. ej. dispositivos de suspensión, cajas de persiana (soportes o monturas regulables para persianas enrollables y cortinas deslizantes A47H 1/13) [2006.01]"
+  },
+  {
+    "code": "E06B 9/44",
+    "description": "••••••••Rodillos para persianas; Fijación de las persianas enrollables a los rodillos [2006.01]"
+  },
+  {
+    "code": "E06B 9/46",
+    "description": "••••••••••por medio de clavijas [2006.01]"
+  },
+  {
+    "code": "E06B 9/48",
+    "description": "••••••••••por medio de grapas o de pasadores [2006.01]"
+  },
+  {
+    "code": "E06B 9/50",
+    "description": "••••••••Palieres especialmente adaptados a las persianas de rodillo [2006.01]"
+  },
+  {
+    "code": "E06B 9/52",
+    "description": "••Dispositivos de protección contra los insectos, p. ej. mosquiteras; Ventanales de malla o red para otros fines [2006.01]"
+  },
+  {
+    "code": "E06B 9/54",
+    "description": "••••Mosquiteras de rodillos (sus dispositivos de maniobra, de guía o de bloqueo E06B 9/56) [2006.01]"
+  },
+  {
+    "code": "E06B 9/56",
+    "description": "••Disposiciones o dispositivos de maniobra, de guía o de bloqueo para cierres de rodillo; Tambores de muelle; Tambores de cinta; Sus dispositivos de contrapeso (dispositivos especialmente adaptados o montados para almacenar, devanar de forma repetida y volver a almacenar longitudes dadas de material B65H 75/34) [2006.01]"
+  },
+  {
+    "code": "E06B 9/58",
+    "description": "••••Dispositivos de guía [2006.01]"
+  },
+  {
+    "code": "E06B 9/60",
+    "description": "••••Tambores de muelle accionados únicamente por elementos de cierre [2006.01]"
+  },
+  {
+    "code": "E06B 9/62",
+    "description": "••••Dispositivos de contrapeso (E06B 9/60 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "E06B 9/64",
+    "description": "••••con rodillos descendentes [2006.01]"
+  },
+  {
+    "code": "E06B 9/66",
+    "description": "••••con un rodillo situado en la parte inferior [2006.01]"
+  },
+  {
+    "code": "E06B 9/68",
+    "description": "••••Dispositivos o mecanismos de maniobra, p. ej. con mando eléctrico [2006.01]"
+  },
+  {
+    "code": "E06B 9/70",
+    "description": "••••••incluyendo un motor eléctrico situado en el exterior del rodillo [2006.01]"
+  },
+  {
+    "code": "E06B 9/72",
+    "description": "••••••incluyendo un motor eléctrico situado en el interior del rodillo [2006.01]"
+  },
+  {
+    "code": "E06B 9/74",
+    "description": "••••••preparados para elegir entre maniobra eléctrica o manual [2006.01]"
+  },
+  {
+    "code": "E06B 9/76",
+    "description": "••••••utilizando manivelas [2006.01]"
+  },
+  {
+    "code": "E06B 9/78",
+    "description": "••••por control manual directo, p. ej. por medio de glándulas, o de empuñaduras [2006.01]"
+  },
+  {
+    "code": "E06B 9/80",
+    "description": "••••Medidas de seguridad para evitar desenrollamientos imprevistos o aperturas sin autorización; Dispositivos de frenado o de inmovilización; Dispositivos para limitar el desenrollamiento (dispositivos de cierre o disposiciones de control manual directo E06B 9/78) [2006.01]"
+  },
+  {
+    "code": "E06B 9/82",
+    "description": "••••••automáticos [2006.01]"
+  },
+  {
+    "code": "E06B 9/84",
+    "description": "••••••••contra desenrollamientos imprevistos [2006.01]"
+  },
+  {
+    "code": "E06B 9/86",
+    "description": "••••••••contra aperturas no autorizadas [2006.01]"
+  },
+  {
+    "code": "E06B 9/88",
+    "description": "••••••••para limitar el desenrollamiento [2006.01]"
+  },
+  {
+    "code": "E06B 9/90",
+    "description": "••••••••para inmovilizar el elemento de cierre, pudiéndose elegir entre distintas posiciones [2006.01]"
+  },
+  {
+    "code": "E06B 9/92",
+    "description": "••••Medios que permiten a los cierres ser desplazados fuera del plano de apertura [2006.01]"
+  },
+  {
+    "code": "E06B 11/00",
+    "description": "Medios para permitir el paso a través de cercas, barreras o similares, p. ej. vallados (características generales de las puertas E06B 1/00-E06B 9/00) [2006.01]"
+  },
+  {
+    "code": "E06B 11/02",
+    "description": "••Pórticos; Puertas [2006.01]"
+  },
+  {
+    "code": "E06B 11/04",
+    "description": "••••caracterizados por el sistema de suspensión (suspensiones en sí\n\t\t\t\t\t\t\t\t\t\t\tE05D) [2006.01]"
+  },
+  {
+    "code": "E06B 11/06",
+    "description": "••••caracterizados por el sistema de cierre (dispositivos de inmovilización para batientes E05C) [2006.01]"
+  },
+  {
+    "code": "E06B 11/08",
+    "description": "••Torniquetes (a bordo de vehículos B60N 5/00; con sistemas de registro G07C 9/10) [2006.01]"
+  }
+]

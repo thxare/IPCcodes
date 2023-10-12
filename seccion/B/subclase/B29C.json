@@ -1,0 +1,2870 @@
+[
+  {
+    "code": "B29C 31/00",
+    "description": "Manipulación, p. ej. alimentación del material a conformar [2006.01]"
+  },
+  {
+    "code": "B29C 31/02",
+    "description": "••Distribución a partir de depósitos, p. ej. tolvas [2006.01]"
+  },
+  {
+    "code": "B29C 31/04",
+    "description": "••Alimentación, p. ej. carga en una cavidad de moldeo [2006.01]"
+  },
+  {
+    "code": "B29C 31/06",
+    "description": "••••de cantidades determinadas [2006.01]"
+  },
+  {
+    "code": "B29C 31/08",
+    "description": "••••en preformas [2006.01]"
+  },
+  {
+    "code": "B29C 31/10",
+    "description": "••••de varias materias a conformar [2006.01]"
+  },
+  {
+    "code": "B29C 33/00",
+    "description": "Moldes o núcleos; Detalles o accesorios para ellos [2006.01]"
+  },
+  {
+    "code": "B29C 33/02",
+    "description": "••con medios de calentamiento o enfriamiento incorporados [2006.01]"
+  },
+  {
+    "code": "B29C 33/04",
+    "description": "••••utilizando líquido, gas o vapor de agua [2006.01]"
+  },
+  {
+    "code": "B29C 33/06",
+    "description": "••••utilizando radiaciones [2006.01]"
+  },
+  {
+    "code": "B29C 33/08",
+    "description": "••••Medios de calentamiento dieléctrico [2006.01]"
+  },
+  {
+    "code": "B29C 33/10",
+    "description": "••con medios de ventilación incorporados [2006.01]"
+  },
+  {
+    "code": "B29C 33/12",
+    "description": "••con medios incorporados para posicionar elementos insertos, p. ej. marcajes [2006.01]"
+  },
+  {
+    "code": "B29C 33/14",
+    "description": "••••contra la pared del molde [2006.01]"
+  },
+  {
+    "code": "B29C 33/16",
+    "description": "••••••utilizando medios magnéticos [2006.01]"
+  },
+  {
+    "code": "B29C 33/18",
+    "description": "••••••utilizando el vacío [2006.01]"
+  },
+  {
+    "code": "B29C 33/20",
+    "description": "••Apertura, cierre o apriete [2006.01]"
+  },
+  {
+    "code": "B29C 33/22",
+    "description": "••••por movimiento rectilíneo [2006.01]"
+  },
+  {
+    "code": "B29C 33/24",
+    "description": "••••••utilizando medios hidráulicos o neumáticos [2006.01]"
+  },
+  {
+    "code": "B29C 33/26",
+    "description": "••••por movimiento de pivotamiento [2006.01]"
+  },
+  {
+    "code": "B29C 33/28",
+    "description": "••••••utilizando medios hidráulicos o neumáticos [2006.01]"
+  },
+  {
+    "code": "B29C 33/30",
+    "description": "••Montaje, cambio o centraje [2006.01]"
+  },
+  {
+    "code": "B29C 33/32",
+    "description": "••••utilizando medios magnéticos [2006.01]"
+  },
+  {
+    "code": "B29C 33/34",
+    "description": "••móviles, p. ej. hacia, o desde el puesto de moldeo [2006.01]"
+  },
+  {
+    "code": "B29C 33/36",
+    "description": "••••con desplazamiento continuo [2006.01]"
+  },
+  {
+    "code": "B29C 33/38",
+    "description": "••caracterizados por el material o el procedimiento de fabricación (B29C 33/44 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B29C 33/40",
+    "description": "••••Materia plástica, p. ej. espumas o caucho [2006.01]"
+  },
+  {
+    "code": "B29C 33/42",
+    "description": "••caracterizados por la forma de la superficie del moldeo, p. ej. de nervios o de ranuras [2006.01]"
+  },
+  {
+    "code": "B29C 33/44",
+    "description": "••con medios para o especialmente concebidos para facilitar el desmoldeo de objetos, p. ej. de objetos con muescas o en sesgo [2006.01]"
+  },
+  {
+    "code": "B29C 33/46",
+    "description": "••••utilizando presión de fluido [2006.01]"
+  },
+  {
+    "code": "B29C 33/48",
+    "description": "••••con medios retráctiles o desmontables [2006.01]"
+  },
+  {
+    "code": "B29C 33/50",
+    "description": "••••••elásticos [2006.01]"
+  },
+  {
+    "code": "B29C 33/52",
+    "description": "••••solubles o fundibles [2006.01]"
+  },
+  {
+    "code": "B29C 33/54",
+    "description": "••••hechos de material en polvo o granular [2006.01]"
+  },
+  {
+    "code": "B29C 33/56",
+    "description": "••Revestimientos; Agentes de desmoldeo, de lubricación o de separación [2006.01]"
+  },
+  {
+    "code": "B29C 33/58",
+    "description": "••••Aplicación de agentes de desmoldeo [2006.01]"
+  },
+  {
+    "code": "B29C 33/60",
+    "description": "••••Agentes de desmoldeo, lubricación o separación [2006.01]"
+  },
+  {
+    "code": "B29C 33/62",
+    "description": "••••••a base de polímeros o de oligómeros [2006.01]"
+  },
+  {
+    "code": "B29C 33/64",
+    "description": "••••••••Silicona [2006.01]"
+  },
+  {
+    "code": "B29C 33/66",
+    "description": "••••••••Celulosa; Sus derivados [2006.01]"
+  },
+  {
+    "code": "B29C 33/68",
+    "description": "••••Hojas de desmoldeo [2006.01]"
+  },
+  {
+    "code": "B29C 33/70",
+    "description": "••Mantenimiento [2006.01]"
+  },
+  {
+    "code": "B29C 33/72",
+    "description": "••••Limpieza [2006.01]"
+  },
+  {
+    "code": "B29C 33/74",
+    "description": "••••Reparación [2006.01]"
+  },
+  {
+    "code": "B29C 33/76",
+    "description": "••Núcleos (B29C 33/02-B29C 33/70 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "B29C 35/00",
+    "description": "Calentamiento, enfriamiento o endurecimiento, p. ej. reticulación, vulcanización; Aparatos a este efecto (moldes con medios de calentamiento o de enfriamiento incorporados B29C 33/02; dispositivos para el endurecimiento de prótesis dentales de materia plástica A61C 13/14; antes del moldeo B29B 13/00) [2006.01]"
+  },
+  {
+    "code": "B29C 35/02",
+    "description": "••Calentamiento o endurecimiento, p. ej. reticulación o vulcanización (vulcanización en frío B29C 35/18) [2006.01]"
+  },
+  {
+    "code": "B29C 35/04",
+    "description": "••••con líquido, gas o vapor de agua [2006.01]"
+  },
+  {
+    "code": "B29C 35/06",
+    "description": "••••••para fabricar objetos de longitud indefinida [2006.01]"
+  },
+  {
+    "code": "B29C 35/08",
+    "description": "••••utilizando energía ondulatoria o radiación de partículas [2006.01]"
+  },
+  {
+    "code": "B29C 35/10",
+    "description": "••••••para fabricar objetos de longitud indefinida [2006.01]"
+  },
+  {
+    "code": "B29C 35/12",
+    "description": "••••Calentamiento dieléctrico [2006.01]"
+  },
+  {
+    "code": "B29C 35/14",
+    "description": "••••••para fabricar objetos de longitud indefinida [2006.01]"
+  },
+  {
+    "code": "B29C 35/16",
+    "description": "••Refrigeración [2006.01]"
+  },
+  {
+    "code": "B29C 35/18",
+    "description": "••Vulcanización en frío [2006.01]"
+  },
+  {
+    "code": "B29C 37/00",
+    "description": "Elementos constitutivos, detalles, accesorios u operaciones auxiliares no cubiertas por el grupo B29C 33/00 ó B29C 35/00 [2006.01]"
+  },
+  {
+    "code": "B29C 37/02",
+    "description": "••Desbarbado [2006.01]"
+  },
+  {
+    "code": "B29C 37/04",
+    "description": "••••de objetos soldados, p. ej. desbarbado o en combinación con el soldado [2006.01]"
+  },
+  {
+    "code": "B29C 39/00",
+    "description": "Conformación por moldeo, es decir, introduciendo el material a moldear en un molde o entre dos superficies que la encierran sin presión significativa de moldeo; Aparatos a este efecto (B29C 41/00 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B29C 39/02",
+    "description": "••para la fabricación de objetos de longitud definida, es decir, de objetos separados [2006.01]"
+  },
+  {
+    "code": "B29C 39/04",
+    "description": "••••utilizando moldes móviles (B29C 41/02 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B29C 39/06",
+    "description": "••••••que se desplazan continuamente, p. ej. a lo largo de líneas de producción [2006.01]"
+  },
+  {
+    "code": "B29C 39/08",
+    "description": "••••••introduciendo el material en un molde por fuerza centrífuga [2006.01]"
+  },
+  {
+    "code": "B29C 39/10",
+    "description": "••••incorporando partes o capas preformadas, p. ej. moldeo alrededor de elementos insertos o de objetos a recubrir [2006.01]"
+  },
+  {
+    "code": "B29C 39/12",
+    "description": "••••Fabricación de objetos multicapas o multicolores [2006.01]"
+  },
+  {
+    "code": "B29C 39/14",
+    "description": "••para la fabricación de objetos de longitud indefinida [2006.01]"
+  },
+  {
+    "code": "B29C 39/16",
+    "description": "••••entre correas sin fin [2006.01]"
+  },
+  {
+    "code": "B29C 39/18",
+    "description": "••••incorporando capas o partes preformadas, p. ej. moldeo alrededor de elementos insertos o de objetos a recubrir [2006.01]"
+  },
+  {
+    "code": "B29C 39/20",
+    "description": "••••Fabricación de objetos multicapas o multicolores [2006.01]"
+  },
+  {
+    "code": "B29C 39/22",
+    "description": "••Elementos constitutivos, detalles o accesorios; Operaciones auxiliares [2006.01]"
+  },
+  {
+    "code": "B29C 39/24",
+    "description": "••••Alimentación del material a los moldes [2006.01]"
+  },
+  {
+    "code": "B29C 39/26",
+    "description": "••••Moldes o núcleos [2006.01]"
+  },
+  {
+    "code": "B29C 39/28",
+    "description": "••••••con medios para evitar las rebabas [2006.01]"
+  },
+  {
+    "code": "B29C 39/30",
+    "description": "••••••con medios para el corte de objetos [2006.01]"
+  },
+  {
+    "code": "B29C 39/32",
+    "description": "••••••con juntas o similares para hacer los moldes impermeables o estancos [2006.01]"
+  },
+  {
+    "code": "B29C 39/34",
+    "description": "••••••para fabricar objetos con muescas o sesgo [2006.01]"
+  },
+  {
+    "code": "B29C 39/36",
+    "description": "••••Desmoldeo de objetos moldeados [2006.01]"
+  },
+  {
+    "code": "B29C 39/38",
+    "description": "••••Calentamiento o enfriamiento [2006.01]"
+  },
+  {
+    "code": "B29C 39/40",
+    "description": "••••Disposiciones para compensar el cambio de volumen, p. ej. la retracción [2006.01]"
+  },
+  {
+    "code": "B29C 39/42",
+    "description": "••••Moldeo en condiciones particulares, p. ej. en vacío [2006.01]"
+  },
+  {
+    "code": "B29C 39/44",
+    "description": "••••Medida, control o regulación [2006.01]"
+  },
+  {
+    "code": "B29C 41/00",
+    "description": "Conformación por revestimiento de un molde, núcleo u otro soporte, es decir, depositando material para moldear y desmoldear el objeto formado; Aparatos a este efecto (con presión de compactado B29C 43/00) [2006.01]"
+  },
+  {
+    "code": "B29C 41/02",
+    "description": "••para fabricar objetos de longitud definida, es decir, de objetos separados [2006.01]"
+  },
+  {
+    "code": "B29C 41/04",
+    "description": "••••Moldeo por rotación o centrifugación, es decir, revestimiento de la superficie interna de un molde por rotación del molde [2006.01]"
+  },
+  {
+    "code": "B29C 41/06",
+    "description": "••••••alrededor de dos o más ejes [2006.01]"
+  },
+  {
+    "code": "B29C 41/08",
+    "description": "••••Revestimiento de una forma, de un núcleo o de otro soporte por pulverización o fluidización, p. ej. pulverización de polvo [2006.01]"
+  },
+  {
+    "code": "B29C 41/10",
+    "description": "••••••por fluidización [2006.01]"
+  },
+  {
+    "code": "B29C 41/12",
+    "description": "••••Extendido del material a moldear sobre un soporte [2006.01]"
+  },
+  {
+    "code": "B29C 41/14",
+    "description": "••••Inmersión de un núcleo [2006.01]"
+  },
+  {
+    "code": "B29C 41/16",
+    "description": "••••Moldeo de suspensiones, es decir, aplicación de una suspensión o de una sustancia sobre una superficie perforada, porosa o absorbente con eliminación de líquido por drenaje [2006.01]"
+  },
+  {
+    "code": "B29C 41/18",
+    "description": "••••Moldeo en hueco, es decir, vertiendo el material a moldear en un molde hueco y decantado el exceso de material [2006.01]"
+  },
+  {
+    "code": "B29C 41/20",
+    "description": "••••incorporando partes o capas preformadas, p. ej. moldeo alrededor de elementos insertos o sobre objetos a recubrir [2006.01]"
+  },
+  {
+    "code": "B29C 41/22",
+    "description": "••••Fabricación de objetos multicapas o multicolores [2006.01]"
+  },
+  {
+    "code": "B29C 41/24",
+    "description": "••para fabricar objetos de longitud indefinida [2006.01]"
+  },
+  {
+    "code": "B29C 41/26",
+    "description": "••••depositando material fluyente sobre un tambor rotativo [2006.01]"
+  },
+  {
+    "code": "B29C 41/28",
+    "description": "••••depositando material fluyente sobre una correa sin fin [2006.01]"
+  },
+  {
+    "code": "B29C 41/30",
+    "description": "••••incorporando partes o capas preformadas, p. ej. moldeo alrededor de elementos insertos o sobre objetos a recubrir [2006.01]"
+  },
+  {
+    "code": "B29C 41/32",
+    "description": "••••Fabricación de objetos multicapas o multicolores [2006.01]"
+  },
+  {
+    "code": "B29C 41/34",
+    "description": "••Elementos constitutivos, detalles o accesorios; Operaciones auxiliares [2006.01]"
+  },
+  {
+    "code": "B29C 41/36",
+    "description": "••••Alimentación del material a los moldes, núcleos u otros soportes [2006.01]"
+  },
+  {
+    "code": "B29C 41/38",
+    "description": "••••Moldes, núcleos u otros soportes [2006.01]"
+  },
+  {
+    "code": "B29C 41/40",
+    "description": "••••••Núcleos [2006.01]"
+  },
+  {
+    "code": "B29C 41/42",
+    "description": "••••Desmoldeo de objetos formados, de los moldes, núcleos u otros soportes [2006.01]"
+  },
+  {
+    "code": "B29C 41/44",
+    "description": "••••••de objetos que tienen una longitud indefinida [2006.01]"
+  },
+  {
+    "code": "B29C 41/46",
+    "description": "••••Calentamiento o enfriamiento [2006.01]"
+  },
+  {
+    "code": "B29C 41/48",
+    "description": "••••Disposiciones para compensar el cambio de volumen, p. ej. la retracción [2006.01]"
+  },
+  {
+    "code": "B29C 41/50",
+    "description": "••••Moldeo en condiciones particulares, p. ej. en vacío [2006.01]"
+  },
+  {
+    "code": "B29C 41/52",
+    "description": "••••Medida, control o regulación [2006.01]"
+  },
+  {
+    "code": "B29C 43/00",
+    "description": "Moldeo por compresión, es decir, aplicando una presión externa para hacer que fluya el material de moldeo; Aparatos a este efecto [2006.01]"
+  },
+  {
+    "code": "B29C 43/02",
+    "description": "••para fabricar objetos de longitud definida, es decir, de objetos separados [2006.01]"
+  },
+  {
+    "code": "B29C 43/04",
+    "description": "••••utilizando moldes móviles [2006.01]"
+  },
+  {
+    "code": "B29C 43/06",
+    "description": "••••••que se desplazan continuamente [2006.01]"
+  },
+  {
+    "code": "B29C 43/08",
+    "description": "••••••••con un movimiento circular [2006.01]"
+  },
+  {
+    "code": "B29C 43/10",
+    "description": "••••Prensado isostático, es decir, utilizando órganos prensadores no rígidos que cooperan con órganos rígidos o matrices [2006.01]"
+  },
+  {
+    "code": "B29C 43/12",
+    "description": "••••••utilizando sacos que rodean el material a moldear [2006.01]"
+  },
+  {
+    "code": "B29C 43/14",
+    "description": "••••en varias etapas [2006.01]"
+  },
+  {
+    "code": "B29C 43/16",
+    "description": "••••Moldeo en frío [2006.01]"
+  },
+  {
+    "code": "B29C 43/18",
+    "description": "••••incorporando partes o capas preformadas, p. ej. moldeo por prensado alrededor de elementos insertos o sobre objetos a recubrir [2006.01]"
+  },
+  {
+    "code": "B29C 43/20",
+    "description": "••••Fabricación de objetos multicapas o multicolores [2006.01]"
+  },
+  {
+    "code": "B29C 43/22",
+    "description": "••para la fabricación de objetos de longitud indefinida [2006.01]"
+  },
+  {
+    "code": "B29C 43/24",
+    "description": "••••Calandrado [2006.01]"
+  },
+  {
+    "code": "B29C 43/26",
+    "description": "••••en varias etapas (B29C 43/30 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B29C 43/28",
+    "description": "••••incorporando partes o capas preformadas, p. ej. moldeo por compresión alrededor de elementos insertos o sobre objetos a revestir [2006.01]"
+  },
+  {
+    "code": "B29C 43/30",
+    "description": "••••Fabricación de objetos multicapas o multicolores [2006.01]"
+  },
+  {
+    "code": "B29C 43/32",
+    "description": "••Elementos constitutivos, detalles o accesorios; Operaciones auxiliares [2006.01]"
+  },
+  {
+    "code": "B29C 43/34",
+    "description": "••••Alimentación de materiales a moldear a los moldes o a los medios de prensado [2006.01]"
+  },
+  {
+    "code": "B29C 43/36",
+    "description": "••••Moldes para fabricar objetos de longitud definida, es decir, de objetos separados [2006.01]"
+  },
+  {
+    "code": "B29C 43/38",
+    "description": "••••••con medios para evitar las rebabas [2006.01]"
+  },
+  {
+    "code": "B29C 43/40",
+    "description": "••••••con medios para cortar los objetos [2006.01]"
+  },
+  {
+    "code": "B29C 43/42",
+    "description": "••••••para fabricar objetos con muescas o sesgo [2006.01]"
+  },
+  {
+    "code": "B29C 43/44",
+    "description": "••••Medios de presión para fabricar objetos de longitud indefinida [2006.01]"
+  },
+  {
+    "code": "B29C 43/46",
+    "description": "••••••Rodillos [2006.01]"
+  },
+  {
+    "code": "B29C 43/48",
+    "description": "••••••Correas sin fin [2006.01]"
+  },
+  {
+    "code": "B29C 43/50",
+    "description": "••••Desmoldeo de objetos moldeados [2006.01]"
+  },
+  {
+    "code": "B29C 43/52",
+    "description": "••••Calentamiento o enfriamiento [2006.01]"
+  },
+  {
+    "code": "B29C 43/54",
+    "description": "••••Disposiciones para compensar los cambios de volumen, p. ej. la retracción [2006.01]"
+  },
+  {
+    "code": "B29C 43/56",
+    "description": "••••Moldeo por compresión bajo condiciones particulares, p. ej. en vacío [2006.01]"
+  },
+  {
+    "code": "B29C 43/58",
+    "description": "••••Medida, control o regulación [2006.01]"
+  },
+  {
+    "code": "B29C 44/00",
+    "description": "Conformación por presión interna generada en el material, p. ej. por hinchamiento o por espumación [2006.01]"
+  },
+  {
+    "code": "B29C 44/02",
+    "description": "••para objetos de longitud definida, es decir, objetos separados [2006.01]"
+  },
+  {
+    "code": "B29C 44/04",
+    "description": "••••formados por al menos dos partes constituidas por materiales químicas o físicamente diferentes, p. ej. con densidades distintas [2006.01]"
+  },
+  {
+    "code": "B29C 44/06",
+    "description": "••••••Producción de artículos multicapa [2006.01]"
+  },
+  {
+    "code": "B29C 44/08",
+    "description": "••••empleando varias etapas de expansión [2006.01]"
+  },
+  {
+    "code": "B29C 44/10",
+    "description": "••••Aplicando contra-presión durante la expansión [2006.01]"
+  },
+  {
+    "code": "B29C 44/12",
+    "description": "••••Incorporando o moldeando sobre partes preformadas, p. ej. inserciones o refuerzos [2006.01]"
+  },
+  {
+    "code": "B29C 44/14",
+    "description": "••••••siendo la parte preformada un revestimiento [2006.01]"
+  },
+  {
+    "code": "B29C 44/16",
+    "description": "••••••••conformada por la expansión del material [2006.01]"
+  },
+  {
+    "code": "B29C 44/18",
+    "description": "••••••Llenado cavidades preformadas [2006.01]"
+  },
+  {
+    "code": "B29C 44/20",
+    "description": "••para objetos de longitud indefinida [2006.01]"
+  },
+  {
+    "code": "B29C 44/22",
+    "description": "••••formados por al menos dos partes constituidas por materiales química o físicamente diferentes, p. ej. con densidades distintas [2006.01]"
+  },
+  {
+    "code": "B29C 44/24",
+    "description": "••••••Producción de artículos multicapa [2006.01]"
+  },
+  {
+    "code": "B29C 44/26",
+    "description": "••••empleando varias etapas de expansión [2006.01]"
+  },
+  {
+    "code": "B29C 44/28",
+    "description": "••••Expandiendo el material de moldeo sobre superficies de desplazamiento continuo [2006.01]"
+  },
+  {
+    "code": "B29C 44/30",
+    "description": "••••Expaniendo el material de moldeo entre correas sin fin o rodillos [2006.01]"
+  },
+  {
+    "code": "B29C 44/32",
+    "description": "••••Incorporando o moldeando sobre partes preformadas, p. ej. revestimientos, inserciones o refuerzos [2006.01]"
+  },
+  {
+    "code": "B29C 44/34",
+    "description": "••Elementos constitutivos, detalles o accesorios; Operaciones auxiliares [2006.01]"
+  },
+  {
+    "code": "B29C 44/36",
+    "description": "••••Alimentación del material a conformar [2006.01]"
+  },
+  {
+    "code": "B29C 44/38",
+    "description": "••••••en un espacio cerrado, es decir, para fabricar objetos de longitud definida [2006.01]"
+  },
+  {
+    "code": "B29C 44/40",
+    "description": "••••••••por gravedad, p. ej. por colada [2006.01]"
+  },
+  {
+    "code": "B29C 44/42",
+    "description": "••••••••empleando diferencia de presión, p. ej. por inyección o en vacio [2006.01]"
+  },
+  {
+    "code": "B29C 44/44",
+    "description": "••••••••en forma de partículas o perlas expandibles [2006.01]"
+  },
+  {
+    "code": "B29C 44/46",
+    "description": "••••••en un espacio abierto o sobre una superficie en movimiento, es decir, para fabricar objetos de longitud indefinida [2006.01]"
+  },
+  {
+    "code": "B29C 44/48",
+    "description": "••••••••por gravedad, p. ej. colada sobre, o entre, superficies en movimiento [2006.01]"
+  },
+  {
+    "code": "B29C 44/50",
+    "description": "••••••••empleando diferencia de presión, p. ej. por extrusión o por pulverización [2006.01]"
+  },
+  {
+    "code": "B29C 44/52",
+    "description": "••••••••••entre superficies en movimiento [2006.01]"
+  },
+  {
+    "code": "B29C 44/54",
+    "description": "••••••••en forma de partículas o perlas expandibles [2006.01]"
+  },
+  {
+    "code": "B29C 44/56",
+    "description": "••••Post-tratamiento de objetos, p. ej. para cambiar su forma [2006.01]"
+  },
+  {
+    "code": "B29C 44/58",
+    "description": "••••Moldes [2006.01]"
+  },
+  {
+    "code": "B29C 44/60",
+    "description": "••••Medida, control o regulación [2006.01]"
+  },
+  {
+    "code": "B29C 45/00",
+    "description": "Moldeo por inyección, es decir, forzando un volumen determinado de material de moldeo a través de una boquilla en un molde cerrado; Aparatos a este efecto (moldeo por inyección-soplado B29C 49/06) [2006.01]"
+  },
+  {
+    "code": "B29C 45/02",
+    "description": "••Moldeo por transferencia, es decir, transfiriendo un volumen determinado de material de moldeo por un pistón desde una cavidad de carga a una cavidad de moldeo [2006.01]"
+  },
+  {
+    "code": "B29C 45/03",
+    "description": "••Aparatos de moldeo por inyección (moldeo por transferencia B29C 45/02) [2006.01]"
+  },
+  {
+    "code": "B29C 45/04",
+    "description": "••••utilizando moldes móviles (B29C 45/08 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B29C 45/06",
+    "description": "••••••montados en una mesa girable [2006.01]"
+  },
+  {
+    "code": "B29C 45/07",
+    "description": "••••utilizando unidades de inyección móviles [2006.01]"
+  },
+  {
+    "code": "B29C 45/08",
+    "description": "••••••que se mueven con el molde durante la operación de inyección [2006.01]"
+  },
+  {
+    "code": "B29C 45/10",
+    "description": "••••utilizando moldes o unidades de inyección utilizables en diferentes disposiciones o combinaciones de unas respecto a otras [2006.01]"
+  },
+  {
+    "code": "B29C 45/12",
+    "description": "••••utilizando dos o más moldes fijos, p. ej. en tándem [2006.01]"
+  },
+  {
+    "code": "B29C 45/13",
+    "description": "••••utilizando dos o más unidades de inyección que cooperan con un solo molde [2006.01]"
+  },
+  {
+    "code": "B29C 45/14",
+    "description": "••incorporando partes o capas preformadas, p. ej. moldeo por inyección alrededor de elementos insertos o sobre objetos a recubrir [2006.01]"
+  },
+  {
+    "code": "B29C 45/16",
+    "description": "••Fabricación de objetos multicapas o multicolores [2006.01]"
+  },
+  {
+    "code": "B29C 45/17",
+    "description": "••Elementos constitutivos, detalles o accesorios; Operaciones auxiliares [2006.01]"
+  },
+  {
+    "code": "B29C 45/18",
+    "description": "••••Alimentación del material dentro de los aparatos de moldeo por inyección [2006.01]"
+  },
+  {
+    "code": "B29C 45/20",
+    "description": "••••Boquillas de inyección [2006.01]"
+  },
+  {
+    "code": "B29C 45/22",
+    "description": "••••••Sistemas de boquillas de inyección múltiples [2006.01]"
+  },
+  {
+    "code": "B29C 45/23",
+    "description": "••••••Equipos para parar la alimentación [2006.01]"
+  },
+  {
+    "code": "B29C 45/24",
+    "description": "••••••Equipos de limpieza [2006.01]"
+  },
+  {
+    "code": "B29C 45/26",
+    "description": "••••Moldes [2006.01]"
+  },
+  {
+    "code": "B29C 45/27",
+    "description": "••••••Canales de inyección [2006.01]"
+  },
+  {
+    "code": "B29C 45/28",
+    "description": "••••••••Dispositivos de cierre para ellos [2006.01]"
+  },
+  {
+    "code": "B29C 45/30",
+    "description": "••••••••Medios para controlar la corriente de dispositivos en el canal de inyección, p. ej. construcción \"torpedo\" [2006.01]"
+  },
+  {
+    "code": "B29C 45/32",
+    "description": "••••••teniendo varias cavidades de moldeo espaciadas axialmente [2006.01]"
+  },
+  {
+    "code": "B29C 45/33",
+    "description": "••••••teniendo elementos del molde móviles transversalmente, p. ej. radialmente [2006.01]"
+  },
+  {
+    "code": "B29C 45/34",
+    "description": "••••••teniendo medios de ventilación [2006.01]"
+  },
+  {
+    "code": "B29C 45/36",
+    "description": "••••••teniendo medios para colocar o centrar los núcleos [2006.01]"
+  },
+  {
+    "code": "B29C 45/37",
+    "description": "••••••Paredes de la cavidad del molde [2006.01]"
+  },
+  {
+    "code": "B29C 45/38",
+    "description": "••••Equipos de corte para levantar las entradas de inyección [2006.01]"
+  },
+  {
+    "code": "B29C 45/40",
+    "description": "••••Desmoldeo o eyección de los objetos formados [2006.01]"
+  },
+  {
+    "code": "B29C 45/42",
+    "description": "••••••utilizando entre los elementos del molde medios móviles desde el exterior del molde [2006.01]"
+  },
+  {
+    "code": "B29C 45/43",
+    "description": "••••••utilizando fluidos bajo presión [2006.01]"
+  },
+  {
+    "code": "B29C 45/44",
+    "description": "••••••de objetos con muescas o sesgados [2006.01]"
+  },
+  {
+    "code": "B29C 45/46",
+    "description": "••••Medios para plastificar u homogeneizar la materia a moldear o para forzarla dentro del molde [2006.01]"
+  },
+  {
+    "code": "B29C 45/47",
+    "description": "••••••utilizando tornillos (B29C 45/54 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B29C 45/48",
+    "description": "••••••••Tornillo de plastificación y tornillo de inyección [2006.01]"
+  },
+  {
+    "code": "B29C 45/50",
+    "description": "••••••••Tornillos móviles axialmente [2006.01]"
+  },
+  {
+    "code": "B29C 45/52",
+    "description": "••••••••••Dispositivos antirretorno [2006.01]"
+  },
+  {
+    "code": "B29C 45/53",
+    "description": "••••••utilizando pilones o pistones de inyección [2006.01]"
+  },
+  {
+    "code": "B29C 45/54",
+    "description": "••••••••y tornillos de plastificación [2006.01]"
+  },
+  {
+    "code": "B29C 45/56",
+    "description": "••••••utilizando elementos de moldes móviles durante o después de la inyección, p. ej. para el moldeo de inyección-compresión [2006.01]"
+  },
+  {
+    "code": "B29C 45/57",
+    "description": "••••••ejerciendo una presión ulterior sobre el material para moldear [2006.01]"
+  },
+  {
+    "code": "B29C 45/58",
+    "description": "••••••Detalles [2006.01]"
+  },
+  {
+    "code": "B29C 45/60",
+    "description": "••••••••Tornillos [2006.01]"
+  },
+  {
+    "code": "B29C 45/62",
+    "description": "••••••••Forros o cilindros de inyección [2006.01]"
+  },
+  {
+    "code": "B29C 45/63",
+    "description": "••••••••Medios de ventilación o desgasificación [2006.01]"
+  },
+  {
+    "code": "B29C 45/64",
+    "description": "••••Dispositivos de apertura, cierre o apriete de moldes [2006.01]"
+  },
+  {
+    "code": "B29C 45/66",
+    "description": "••••••mecánicos [2006.01]"
+  },
+  {
+    "code": "B29C 45/67",
+    "description": "••••••hidráulicos [2006.01]"
+  },
+  {
+    "code": "B29C 45/68",
+    "description": "••••••hidromecánicos [2006.01]"
+  },
+  {
+    "code": "B29C 45/70",
+    "description": "••••Medios para plastificar u homogeneizar la materia a moldear o para forzarla dentro del molde, combinada con dispositivos de apertura, cierre o apriete del molde [2006.01]"
+  },
+  {
+    "code": "B29C 45/72",
+    "description": "••••Calentamiento o enfriamiento [2006.01]"
+  },
+  {
+    "code": "B29C 45/73",
+    "description": "••••••del molde [2006.01]"
+  },
+  {
+    "code": "B29C 45/74",
+    "description": "••••••de la unidad de inyección [2006.01]"
+  },
+  {
+    "code": "B29C 45/76",
+    "description": "••••Medida, control o regulación [2006.01]"
+  },
+  {
+    "code": "B29C 45/77",
+    "description": "••••••de la velocidad o presión de la materia a moldear [2006.01]"
+  },
+  {
+    "code": "B29C 45/78",
+    "description": "••••••de la temperatura [2006.01]"
+  },
+  {
+    "code": "B29C 45/80",
+    "description": "••••••de la posición relativa de las partes del molde [2006.01]"
+  },
+  {
+    "code": "B29C 45/82",
+    "description": "••••••Circuitos hidráulicos [2006.01]"
+  },
+  {
+    "code": "B29C 45/83",
+    "description": "••••Medios de lubricación [2006.01]"
+  },
+  {
+    "code": "B29C 45/84",
+    "description": "••••Dispositivos de seguridad [2006.01]"
+  },
+  {
+    "code": "B29C 48/00",
+    "description": "Moldeo por extrusión, p. ej. el material a moldear se hace pasar  por una salida o boquilla que proporciona al material la forma deseada; aparatos al efecto (moldeo por extrusión soplado B29C 49/04) [2019.01]"
+  },
+  {
+    "code": "B29C 48/02",
+    "description": "••Aparatos de extrusión de pequeño tamaño, p.ej. manuales, de juguete o extrusoras de laboratorio [2019.01]"
+  },
+  {
+    "code": "B29C 48/025",
+    "description": "••Disposición o concepción general de la planta [2019.01]"
+  },
+  {
+    "code": "B29C 48/03",
+    "description": "••caracterizada por la forma del material extruido durante la extrusión [2019.01]"
+  },
+  {
+    "code": "B29C 48/04",
+    "description": "••••En forma de partículas (fabricación de granulos B29B 9/00) [2019.01]"
+  },
+  {
+    "code": "B29C 48/05",
+    "description": "••••Filamentos, p. ej. hilos [2019.01]"
+  },
+  {
+    "code": "B29C 48/06",
+    "description": "••••En forma de varilla [2019.01]"
+  },
+  {
+    "code": "B29C 48/07",
+    "description": "••••Plano, p. ej. paneles [2019.01]"
+  },
+  {
+    "code": "B29C 48/08",
+    "description": "••••••flexible, p. ej. films [2019.01]"
+  },
+  {
+    "code": "B29C 48/09",
+    "description": "••••Artículos con sección transversal con cavidades parcial o totalmente cerradas, p. ej. tuberías o canales [2019.01]"
+  },
+  {
+    "code": "B29C 48/10",
+    "description": "••••••flexibles, p. ej. películas flexibles sopladas [2019.01]"
+  },
+  {
+    "code": "B29C 48/11",
+    "description": "••••••que tienen dos o más cavidades parcial o totalmente cerradas, p. ej. con forma de panel de abeja [2019.01]"
+  },
+  {
+    "code": "B29C 48/12",
+    "description": "••••Artículos con una circunferencia irregular vista en sección transversal, p.ej. perfiles para ventanas [2019.01]"
+  },
+  {
+    "code": "B29C 48/13",
+    "description": "••••Artículos con sección transversal variable en la dirección longitudinal, p. ej. tuberías corrugadas [2019.01]"
+  },
+  {
+    "code": "B29C 48/14",
+    "description": "••caracterizados por condiciones particulares de extrusión, p. ej. en atmósfera modificada o utilizando vibración [2019.01]"
+  },
+  {
+    "code": "B29C 48/15",
+    "description": "••incorporando capas o partes preformadas, p. ej. moldeo por extrusión alrededor de insertos [2019.01]"
+  },
+  {
+    "code": "B29C 48/151",
+    "description": "••••Recubrimiento de artículos huecos [2019.01]"
+  },
+  {
+    "code": "B29C 48/152",
+    "description": "••••••de las superficies internas [2019.01]"
+  },
+  {
+    "code": "B29C 48/153",
+    "description": "••••••••Que recubren ambas superficies, interior y exterior [2019.01]"
+  },
+  {
+    "code": "B29C 48/154",
+    "description": "••••Recubrimiento de artículos sólidos, p. ej. artículos que no son huecos [2019.01]"
+  },
+  {
+    "code": "B29C 48/155",
+    "description": "••••••Recubrimiento parcial [2019.01]"
+  },
+  {
+    "code": "B29C 48/156",
+    "description": "••••Recubrimiento de dos o más artículos simultáneamente [2019.01]"
+  },
+  {
+    "code": "B29C 48/157",
+    "description": "••••Recubrimiento de insertos vinculados, p.ej. cadenas [2019.01]"
+  },
+  {
+    "code": "B29C 48/16",
+    "description": "••Artículos que comprenden dos ó más componentes, p. ej. capas co - extruidas [2019.01]"
+  },
+  {
+    "code": "B29C 48/17",
+    "description": "••••donde los componentes tienen diferentes colores [2019.01]"
+  },
+  {
+    "code": "B29C 48/18",
+    "description": "••••donde los componentes son capas [2019.01]"
+  },
+  {
+    "code": "B29C 48/19",
+    "description": "••••••estando las capas unidas en sus bordes [2019.01]"
+  },
+  {
+    "code": "B29C 48/20",
+    "description": "••••••donde una de sus capas es una tira, p.ej. una tira parcialmente embebida [2019.01]"
+  },
+  {
+    "code": "B29C 48/21",
+    "description": "••••••donde las capas se unen en sus superficies [2019.01]"
+  },
+  {
+    "code": "B29C 48/22",
+    "description": "••••••con medios para conectar las capas, p. ej. capas adhesivas o capas rebajadas [2019.01]"
+  },
+  {
+    "code": "B29C 48/23",
+    "description": "••••••con medios para evitar la adhesión de las capas, p.ej. para formar capas despegables [2019.01]"
+  },
+  {
+    "code": "B29C 48/25",
+    "description": "••Partes constitutivas, detalles o accesorios; Operaciones auxiliares [2019.01]"
+  },
+  {
+    "code": "B29C 48/255",
+    "description": "••••Medios de control del caudal, p. ej. válvulas (divisores de caudal B29C 48/695) [2019.01]"
+  },
+  {
+    "code": "B29C 48/265",
+    "description": "••••Estructuras de soporte o bases para aparatos, p. ej. marcos [2019.01]"
+  },
+  {
+    "code": "B29C 48/27",
+    "description": "••••Limpieza; Purgado; Evitación de la contaminación [2019.01]"
+  },
+  {
+    "code": "B29C 48/275",
+    "description": "••••Recuperación o reutilización de la energía o materiales [2019.01]"
+  },
+  {
+    "code": "B29C 48/28",
+    "description": "••••Almacenamiento de material extruido, p. ej. enrollamiento o apilamiento [2019.01]"
+  },
+  {
+    "code": "B29C 48/285",
+    "description": "••••Alimentación de material al extrusor [2019.01]"
+  },
+  {
+    "code": "B29C 48/29",
+    "description": "••••••en forma líquida [2019.01]"
+  },
+  {
+    "code": "B29C 48/295",
+    "description": "••••••en forma gaseosa [2019.01]"
+  },
+  {
+    "code": "B29C 48/30",
+    "description": "••••Boquillas o matrices de extrusión (extrusión caracterizada por la forma o sección transversal del producto extruido B29C 48/03) [2019.01]"
+  },
+  {
+    "code": "B29C 48/305",
+    "description": "••••••que tienen una abertura amplia, p. ej. para formar hojas [2019.01]"
+  },
+  {
+    "code": "B29C 48/31",
+    "description": "••••••••regulable [2019.01]"
+  },
+  {
+    "code": "B29C 48/315",
+    "description": "••••••••con partes oscilantes unas en relación con otras [2019.01]"
+  },
+  {
+    "code": "B29C 48/32",
+    "description": "••••••con aberturas anulares, p. ej. para formar productos anulares [2019.01]"
+  },
+  {
+    "code": "B29C 48/325",
+    "description": "••••••••regulables [2019.01]"
+  },
+  {
+    "code": "B29C 48/33",
+    "description": "••••••••con partes que rotan unas con respecto a otras [2019.01]"
+  },
+  {
+    "code": "B29C 48/335",
+    "description": "••••••••Boquillas de extrusión con múltiples orificios anulares coaxiales, p. ej. para fabricar objetos tubulares multicapa. [2019.01]"
+  },
+  {
+    "code": "B29C 48/34",
+    "description": "••••••••Boquillas de extrusión anulares cruzadas, p. ej. para recibir simultáneamente el material de moldeo y la preforma a recubrir [2019.01]"
+  },
+  {
+    "code": "B29C 48/345",
+    "description": "••••••Boquillas de extrusión que poseen al menos dos orificios situados de forma adyacente, para extruir de forma simultanea múltiples objetos, p. ej. para hacer pellets [2019.01]"
+  },
+  {
+    "code": "B29C 48/35",
+    "description": "••••••con rodillos [2019.01]"
+  },
+  {
+    "code": "B29C 48/355",
+    "description": "••••Transportadores para los objetos extruidos [2019.01]"
+  },
+  {
+    "code": "B29C 48/36",
+    "description": "••••Medios para plastificar u homogeneizar el material de moldeo o forzarlo a través de la boquilla o matriz [2019.01]"
+  },
+  {
+    "code": "B29C 48/365",
+    "description": "••••••mediante bombas, p. ej. bombas de pistón [2019.01]"
+  },
+  {
+    "code": "B29C 48/37",
+    "description": "••••••••Bombas de engranajes [2019.01]"
+  },
+  {
+    "code": "B29C 48/375",
+    "description": "••••••Plastificantes, homogeneizadores o dispositivos de alimentación en dos o más etapas [2019.01]"
+  },
+  {
+    "code": "B29C 48/38",
+    "description": "••••••••que emplean dos o más tornillos dispuestos en serie en el mismo cilindro [2019.01]"
+  },
+  {
+    "code": "B29C 48/385",
+    "description": "••••••••que emplean dos o más tornillos en serie en cilindros separados [2019.01]"
+  },
+  {
+    "code": "B29C 48/39",
+    "description": "••••••••un primer extrusor que alimenta el material fundido en una localización intermedia de un segundo extrusor [2019.01]"
+  },
+  {
+    "code": "B29C 48/395",
+    "description": "••••••utilizando tornillos rodeados por un cilindro cooperativo, p. ej. extrusores de un único tornillo [2019.01]"
+  },
+  {
+    "code": "B29C 48/40",
+    "description": "••••••••que emplean dos o más tornillos en paralelo, p. ej. extrusores con dos tornillos [2019.01]"
+  },
+  {
+    "code": "B29C 48/405",
+    "description": "••••••••••Tornillos co-rotativos engranados [2019.01]"
+  },
+  {
+    "code": "B29C 48/41",
+    "description": "••••••••••Tornillos engranados que rotan en sentido antihorario [2019.01]"
+  },
+  {
+    "code": "B29C 48/415",
+    "description": "••••••••••y que tienen parcialmente tornillos no engranados [2019.01]"
+  },
+  {
+    "code": "B29C 48/42",
+    "description": "••••••••••Tornillos que no son idénticos o no son inversos [2019.01]"
+  },
+  {
+    "code": "B29C 48/425",
+    "description": "••••••••••que emplean tres o más tornillos (tornillos dispuestos en serie B29C 48/38, B29C 48/385) [2019.01]"
+  },
+  {
+    "code": "B29C 48/43",
+    "description": "••••••••••••Extrusores de anillo [2019.01]"
+  },
+  {
+    "code": "B29C 48/435",
+    "description": "••••••••••Tornillos auxiliares [2019.01]"
+  },
+  {
+    "code": "B29C 48/44",
+    "description": "••••••••••••Tornillos planetarios [2019.01]"
+  },
+  {
+    "code": "B29C 48/445",
+    "description": "••••••••Tornillos dispuestos coaxialmente, es decir uno dentro de otro [2019.01]"
+  },
+  {
+    "code": "B29C 48/45",
+    "description": "••••••••Tornillos que se mueven axialmente [2019.01]"
+  },
+  {
+    "code": "B29C 48/455",
+    "description": "••••••••Tornillos dispuestos para transportar el material de uno a otro, p. ej. tornillos separados dispuestos uno frente a otro y que alimentan el material en direcciones opuestas [2019.01]"
+  },
+  {
+    "code": "B29C 48/46",
+    "description": "••••••utilizando paletas [2019.01]"
+  },
+  {
+    "code": "B29C 48/465",
+    "description": "••••••utilizando rodillos [2019.01]"
+  },
+  {
+    "code": "B29C 48/47",
+    "description": "••••••utilizando discos, p. ej. plastificando el material de moldeo haciéndolo pasar entre un disco fijo y un disco rotativo que se disponen coaxialmente [2019.01]"
+  },
+  {
+    "code": "B29C 48/475",
+    "description": "••••••utilizando pistones, acumuladores o cilindros de presión [2019.01]"
+  },
+  {
+    "code": "B29C 48/48",
+    "description": "••••••••Dos o más cilindros o pistones [2019.01]"
+  },
+  {
+    "code": "B29C 48/485",
+    "description": "••••••••Extrusión hidrostática [2019.01]"
+  },
+  {
+    "code": "B29C 48/49",
+    "description": "••••••utilizando varios extrusores para alimentar la matriz o boquilla [2019.01]"
+  },
+  {
+    "code": "B29C 48/495",
+    "description": "••••••••Bloques de alimentación (moldeo por extrusión de artículos multi - componente B29C 48/16) [2019.01]"
+  },
+  {
+    "code": "B29C 48/50",
+    "description": "••••••Detalle de los extrusores [2019.01]"
+  },
+  {
+    "code": "B29C 48/505",
+    "description": "••••••••Tornillos [2019.01]"
+  },
+  {
+    "code": "B29C 48/51",
+    "description": "••••••••••con pasajes para el flujo interno, p.ej. para el material fundido [2019.01]"
+  },
+  {
+    "code": "B29C 48/515",
+    "description": "••••••••••••para fluidos auxiliares, p. ej. agentes espumantes [2019.01]"
+  },
+  {
+    "code": "B29C 48/52",
+    "description": "••••••••••con un diámetro externo variable a lo largo del eje longitudinal, p. ej. para obtener diferentes distancias al paso de rosca [2019.01]"
+  },
+  {
+    "code": "B29C 48/525",
+    "description": "••••••••••••Tornillos cónicos [2019.01]"
+  },
+  {
+    "code": "B29C 48/53",
+    "description": "••••••••••que tienen una profundidad de canal variable, p. ej. variando el diámetro del vástago del tornillo [2019.01]"
+  },
+  {
+    "code": "B29C 48/535",
+    "description": "••••••••••con paso de rosca variable a lo largo del eje longitudinal [2019.01]"
+  },
+  {
+    "code": "B29C 48/54",
+    "description": "••••••••••con elementos adicionales de alimentación adelante [2019.01]"
+  },
+  {
+    "code": "B29C 48/55",
+    "description": "••••••••••con elementos de alimentación hacia atrás [2019.01]"
+  },
+  {
+    "code": "B29C 48/56",
+    "description": "••••••••••con ranuras o cavidades diferentes a las del filete de rosca o a las de los canales [2019.01]"
+  },
+  {
+    "code": "B29C 48/565",
+    "description": "••••••••••que tienen proyecciones diferentes a la rosca, p. ej. puntas [2019.01]"
+  },
+  {
+    "code": "B29C 48/57",
+    "description": "••••••••••que poseen elementos de mezclado de tipo disco, p.ej. con elementos de forma ovalada [2019.01]"
+  },
+  {
+    "code": "B29C 48/575",
+    "description": "••••••••••que poseen elementos con una sección transversal de forma generalmente circular para la cizalla de la mezcla fundida, es decir anillos de cizallamiento [2019.01]"
+  },
+  {
+    "code": "B29C 48/58",
+    "description": "••••••••••que poseen anillos de obturación, es decir, elementos con forma generalmente circular y cónica que previenen el retroceso del flujo de material fundido [2019.01]"
+  },
+  {
+    "code": "B29C 48/585",
+    "description": "••••••••••con engranajes que interactúan con el flujo [2019.01]"
+  },
+  {
+    "code": "B29C 48/59",
+    "description": "••••••••••que se caracterizan por detalles de la rosca, es decir, la forma de la rosca del tornillo alimentador de material [2019.01]"
+  },
+  {
+    "code": "B29C 48/595",
+    "description": "••••••••••••con anchura no uniforme de la rosca [2019.01]"
+  },
+  {
+    "code": "B29C 48/60",
+    "description": "••••••••••••Cresta de la rosca [2019.01]"
+  },
+  {
+    "code": "B29C 48/605",
+    "description": "••••••••••••siendo el paso de rosca discontinuo [2019.01]"
+  },
+  {
+    "code": "B29C 48/61",
+    "description": "••••••••••••Roscas con perfiles dentados [2019.01]"
+  },
+  {
+    "code": "B29C 48/615",
+    "description": "••••••••••••Roscas con ángulos de hélice variables [2019.01]"
+  },
+  {
+    "code": "B29C 48/62",
+    "description": "••••••••••caracterizados por la forma del canal del filete de rosca p. ej. forma de U [2019.01]"
+  },
+  {
+    "code": "B29C 48/625",
+    "description": "••••••••••caracterizado por la relación entre la longitud del filete de rosca del tornillo y su diámetro externo (relación L/D) [2019.01]"
+  },
+  {
+    "code": "B29C 48/63",
+    "description": "••••••••••con secciones sin elementos o roscas para la mezcla, es decir, con secciones con forma cilíndrica [2019.01]"
+  },
+  {
+    "code": "B29C 48/635",
+    "description": "••••••••••Tornillos con rotación excéntrica; tornillos que giran alrededor de un eje diferente a su eje central [2019.01]"
+  },
+  {
+    "code": "B29C 48/64",
+    "description": "••••••••••Tornillos con al menos dos roscas [2019.01]"
+  },
+  {
+    "code": "B29C 48/645",
+    "description": "••••••••••••donde las roscas contiguas y los canales tienen configuraciones idénticas [2019.01]"
+  },
+  {
+    "code": "B29C 48/65",
+    "description": "••••••••••••donde las roscas contiguas o los canales tienen configuraciones diferentes, p. ej. una rosca más baja que la rosca contigua [2019.01]"
+  },
+  {
+    "code": "B29C 48/655",
+    "description": "••••••••••••con tres o más roscas [2019.01]"
+  },
+  {
+    "code": "B29C 48/66",
+    "description": "••••••••••••Roscas barrera, es decir, que comprenden roscas primarias y secundarias en la que la rosca secundaria proporciona un espacio libre hasta el cilindro para el movimiento del material [2019.01]"
+  },
+  {
+    "code": "B29C 48/67",
+    "description": "••••••••••con dispositivos de mezcla incorporados no previstos en los grupos B29C 48/52-B29C 48/66 [2019.01]"
+  },
+  {
+    "code": "B29C 48/68",
+    "description": "••••••••Carcasas o cilindros [2019.01]"
+  },
+  {
+    "code": "B29C 48/685",
+    "description": "••••••••••caracterizados por sus superficies internas, p. ej. que tienen ranuras, roscas o proyecciones [2019.01]"
+  },
+  {
+    "code": "B29C 48/69",
+    "description": "••••••••Filtros o tamices para el material de moldeo [2019.01]"
+  },
+  {
+    "code": "B29C 48/691",
+    "description": "••••••••••Disposiciones para el reemplazo de filtros, p. ej. con dos filtros paralelos para uso alternativo [2019.01]"
+  },
+  {
+    "code": "B29C 48/692",
+    "description": "••••••••••en forma de redes desplazables para su utilización consecutiva en zonas adyacentes [2019.01]"
+  },
+  {
+    "code": "B29C 48/693",
+    "description": "••••••••••Filtros substancialmente planos montados al final del tornillo extrusor perpendicularmente al eje de alimentación [2019.01]"
+  },
+  {
+    "code": "B29C 48/694",
+    "description": "••••••••••Filtros cilíndricos o cónicos [2019.01]"
+  },
+  {
+    "code": "B29C 48/695",
+    "description": "••••••••Divisores de flujo, p. ej. placas rompedoras [2019.01]"
+  },
+  {
+    "code": "B29C 48/70",
+    "description": "••••••••••comprendiendo medios para dividir, distribuir y recombinar el flujo de material fundido [2019.01]"
+  },
+  {
+    "code": "B29C 48/71",
+    "description": "••••••••••••para la multiplicación de capas (extrusión de artículos con múltiples componentes B29C 48/16) [2019.01]"
+  },
+  {
+    "code": "B29C 48/72",
+    "description": "••••••••Medios de retroalimentación, es decir, parte del material fundido se retroalimenta en etapas anteriores de la extrusión [2019.01]"
+  },
+  {
+    "code": "B29C 48/74",
+    "description": "••••••••Medios de derivación, es decir, parte del material fundido es dividido hacia diferentes corrientes en la extrusión [2019.01]"
+  },
+  {
+    "code": "B29C 48/76",
+    "description": "••••••••Medios de ventilación; Medios de desgasificación [2019.01]"
+  },
+  {
+    "code": "B29C 48/78",
+    "description": "••••Tratamiento térmico del material para moldeo por extrusión o de partes o capas preformadas, p. ej. por calentamiento o enfriado [2019.01]"
+  },
+  {
+    "code": "B29C 48/79",
+    "description": "••••••de piezas o capas preformadas [2019.01]"
+  },
+  {
+    "code": "B29C 48/793",
+    "description": "••••••antes de la zona de plastificación, p. ej. calentamiento en la tolva [2019.01]"
+  },
+  {
+    "code": "B29C 48/797",
+    "description": "••••••••Refrigeración [2019.01]"
+  },
+  {
+    "code": "B29C 48/80",
+    "description": "••••••en la zona de plastificación, p. ej. mediante cilindros de calentamiento [2019.01]"
+  },
+  {
+    "code": "B29C 48/82",
+    "description": "••••••••Refrigeración (B29C 48/84 tiene prioridad) [2019.01]"
+  },
+  {
+    "code": "B29C 48/84",
+    "description": "••••••••por calentamiento o refrigeración de los tornillos de alimentación (para tornillos huecos B29C 48/515) [2019.01]"
+  },
+  {
+    "code": "B29C 48/85",
+    "description": "••••••••••Refrigeración [2019.01]"
+  },
+  {
+    "code": "B29C 48/86",
+    "description": "••••••en la zona de la boquilla [2019.01]"
+  },
+  {
+    "code": "B29C 48/87",
+    "description": "••••••••Refrigeración [2019.01]"
+  },
+  {
+    "code": "B29C 48/875",
+    "description": "••••••para lograr una distribución de temperatura no uniforme, p. ej. utilizando cilindros que poseen a la vez zonas de enfriamiento y de calentamiento [2019.01]"
+  },
+  {
+    "code": "B29C 48/88",
+    "description": "••••Tratamiento térmico de la corriente de material extruido, p. ej. refrigeración [2019.01]"
+  },
+  {
+    "code": "B29C 48/885",
+    "description": "••••••Tratamiento externo, p. ej. utilizando anillos de aire para el enfriamiento de películas tubulares [2019.01]"
+  },
+  {
+    "code": "B29C 48/89",
+    "description": "••••••Tratamiento interno, p. ej. aplicando una corriente de fluido de enfriamiento interna [2019.01]"
+  },
+  {
+    "code": "B29C 48/90",
+    "description": "••••••con calibración o dimensionado, es decir, combinado con el ajuste o fijación de las dimensiones finales del artículo extruído [2019.01]"
+  },
+  {
+    "code": "B29C 48/91",
+    "description": "••••••Calentamiento, p. ej. para la reticulación [2019.01]"
+  },
+  {
+    "code": "B29C 48/92",
+    "description": "••••Medida, control o regulación [2019.01]"
+  },
+  {
+    "code": "B29C 48/94",
+    "description": "••••Lubricación [2019.01]"
+  },
+  {
+    "code": "B29C 48/95",
+    "description": "••••••por adición de lubricante al material de moldeo [2019.01]"
+  },
+  {
+    "code": "B29C 48/96",
+    "description": "••••Dispositivos de seguridad [2019.01]"
+  },
+  {
+    "code": "B29C 49/00",
+    "description": "Moldeo por soplado, es decir, soplando una preforma o un parisón en un molde por obtener la forma deseada; Aparatos a este efecto [2006.01]"
+  },
+  {
+    "code": "B29C 49/02",
+    "description": "••Moldeo por soplado combinado con la fabricación de la preforma o del parisón [2006.01]"
+  },
+  {
+    "code": "B29C 49/04",
+    "description": "••••Moldeo por extrusión-soplado [2006.01]"
+  },
+  {
+    "code": "B29C 49/06",
+    "description": "••••Moldeo por inyección-soplado [2006.01]"
+  },
+  {
+    "code": "B29C 49/08",
+    "description": "••Estirado biaxial durante el moldeo por soplado [2006.01]"
+  },
+  {
+    "code": "B29C 49/10",
+    "description": "••••utilizando medios mecánicos [2006.01]"
+  },
+  {
+    "code": "B29C 49/12",
+    "description": "••••••Punzones de estirado [2006.01]"
+  },
+  {
+    "code": "B29C 49/14",
+    "description": "••••••Organos de apretado [2006.01]"
+  },
+  {
+    "code": "B29C 49/16",
+    "description": "••••utilizando una diferencia de presiones, p. ej. presoplado [2006.01]"
+  },
+  {
+    "code": "B29C 49/18",
+    "description": "••utilizando diferentes etapas de soplado (B29C 49/16 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B29C 49/20",
+    "description": "••de objetos que tienen elementos insertos o refuerzos [2006.01]"
+  },
+  {
+    "code": "B29C 49/22",
+    "description": "••de preformas o parisones multicapas [2006.01]"
+  },
+  {
+    "code": "B29C 49/24",
+    "description": "••Revestimiento o marcado [2006.01]"
+  },
+  {
+    "code": "B29C 49/26",
+    "description": "••••Revestimiento interno de tubos [2006.01]"
+  },
+  {
+    "code": "B29C 49/28",
+    "description": "••Aparatos de moldeo por soplado [2006.01]"
+  },
+  {
+    "code": "B29C 49/30",
+    "description": "••••teniendo moldes o partes de molde móviles [2006.01]"
+  },
+  {
+    "code": "B29C 49/32",
+    "description": "••••••con movimiento de vaivén [2006.01]"
+  },
+  {
+    "code": "B29C 49/34",
+    "description": "••••••••los elementos del molde se desplazan uno sobre otro [2006.01]"
+  },
+  {
+    "code": "B29C 49/36",
+    "description": "••••••girando alrededor de un eje [2006.01]"
+  },
+  {
+    "code": "B29C 49/38",
+    "description": "••••••montados sobre soportes móviles sin fin [2006.01]"
+  },
+  {
+    "code": "B29C 49/40",
+    "description": "••••••••sobre tambores cooperantes [2006.01]"
+  },
+  {
+    "code": "B29C 49/42",
+    "description": "••Elementos constitutivos, detalles o accesorios; Operaciones auxiliares [2006.01]"
+  },
+  {
+    "code": "B29C 49/44",
+    "description": "••••para aplicar una presión a través de las paredes de un saco inflado [2006.01]"
+  },
+  {
+    "code": "B29C 49/46",
+    "description": "••••caracterizado por la utilización de un medio particular o de un fluido de soplado que no sean el aire [2006.01]"
+  },
+  {
+    "code": "B29C 49/48",
+    "description": "••••Moldes [2006.01]"
+  },
+  {
+    "code": "B29C 49/50",
+    "description": "••••••que tienen medios de corte o desbarbado [2006.01]"
+  },
+  {
+    "code": "B29C 49/52",
+    "description": "••••••que tienen medios de decoración o impresión [2006.01]"
+  },
+  {
+    "code": "B29C 49/54",
+    "description": "••••••para fabricar objetos con muesca o sesgados [2006.01]"
+  },
+  {
+    "code": "B29C 49/56",
+    "description": "••••Medios de apertura, cierre o apriete [2006.01]"
+  },
+  {
+    "code": "B29C 49/58",
+    "description": "••••Medios de soplado [2006.01]"
+  },
+  {
+    "code": "B29C 49/60",
+    "description": "••••••Agujas de soplado [2006.01]"
+  },
+  {
+    "code": "B29C 49/62",
+    "description": "••••Medios de ventilación [2006.01]"
+  },
+  {
+    "code": "B29C 49/64",
+    "description": "••••Calentamiento o enfriamiento de las preformas, parisones o de objetos soplados [2006.01]"
+  },
+  {
+    "code": "B29C 49/66",
+    "description": "••••••Enfriamiento por introducción de un refrigerante en el objeto soplado [2006.01]"
+  },
+  {
+    "code": "B29C 49/68",
+    "description": "••••••Hornos especialmente adaptados para calentar preformas o parisones [2006.01]"
+  },
+  {
+    "code": "B29C 49/70",
+    "description": "••••Desmoldeo o eyección de objetos soplados desde el molde [2006.01]"
+  },
+  {
+    "code": "B29C 49/72",
+    "description": "••••Eliminación de rebabas fuera del molde [2006.01]"
+  },
+  {
+    "code": "B29C 49/74",
+    "description": "••••••Eliminación de rebabas de la porción del cuello [2006.01]"
+  },
+  {
+    "code": "B29C 49/76",
+    "description": "••••Calibrado del cuello [2006.01]"
+  },
+  {
+    "code": "B29C 49/78",
+    "description": "••••Medida, control o regulación [2006.01]"
+  },
+  {
+    "code": "B29C 49/80",
+    "description": "••••••Pruebas, p. ej. de fugas [2006.01]"
+  },
+  {
+    "code": "B29C 51/00",
+    "description": "Conformación por termoformación, p. ej. conformación de hojas en los moldes en dos partes o por embutido profundo; Aparatos a este efecto [2006.01]"
+  },
+  {
+    "code": "B29C 51/02",
+    "description": "••Termoformación combinada con la fabricación de la preforma [2006.01]"
+  },
+  {
+    "code": "B29C 51/04",
+    "description": "••Termoformación combinada con un preestirado, p. ej. preestirado biaxial [2006.01]"
+  },
+  {
+    "code": "B29C 51/06",
+    "description": "••••utilizando una diferencia de presión [2006.01]"
+  },
+  {
+    "code": "B29C 51/08",
+    "description": "••Embutido profundo o conformación en moldes de dos partes, es decir, utilizando únicamente medios mecánicos [2006.01]"
+  },
+  {
+    "code": "B29C 51/10",
+    "description": "••Formación por diferencia de presión, p. ej. en vacío [2006.01]"
+  },
+  {
+    "code": "B29C 51/12",
+    "description": "••de objetos que tienen elementos insertos o refuerzos [2006.01]"
+  },
+  {
+    "code": "B29C 51/14",
+    "description": "••de preformas o de hojas multicapas [2006.01]"
+  },
+  {
+    "code": "B29C 51/16",
+    "description": "••Revestimiento o marcado [2006.01]"
+  },
+  {
+    "code": "B29C 51/18",
+    "description": "••Aparatos de termoformación [2006.01]"
+  },
+  {
+    "code": "B29C 51/20",
+    "description": "••••que tienen moldes o partes del molde móviles [2006.01]"
+  },
+  {
+    "code": "B29C 51/22",
+    "description": "••••••que giran alrededor de un eje [2006.01]"
+  },
+  {
+    "code": "B29C 51/24",
+    "description": "••••••montadas en un soporte móvil sin fin [2006.01]"
+  },
+  {
+    "code": "B29C 51/26",
+    "description": "••Elementos constitutivos, detalles o accesorios; Operaciones auxiliares [2006.01]"
+  },
+  {
+    "code": "B29C 51/28",
+    "description": "••••para aplicar una presión a través de las paredes de un saco inflado [2006.01]"
+  },
+  {
+    "code": "B29C 51/30",
+    "description": "••••Moldes [2006.01]"
+  },
+  {
+    "code": "B29C 51/32",
+    "description": "••••••que tienen medios de corte [2006.01]"
+  },
+  {
+    "code": "B29C 51/34",
+    "description": "••••••para fabricar objetos con muesca o sesgado [2006.01]"
+  },
+  {
+    "code": "B29C 51/36",
+    "description": "••••••especialmente adaptados a formaciones bajo vacío [2006.01]"
+  },
+  {
+    "code": "B29C 51/38",
+    "description": "••••••Medios de apertura, cierre o apriete [2006.01]"
+  },
+  {
+    "code": "B29C 51/40",
+    "description": "••••••Medios de ventilación [2006.01]"
+  },
+  {
+    "code": "B29C 51/42",
+    "description": "••••Calentamiento o enfriamiento [2006.01]"
+  },
+  {
+    "code": "B29C 51/44",
+    "description": "••••Desmoldeo o eyección de objetos formados [2006.01]"
+  },
+  {
+    "code": "B29C 51/46",
+    "description": "••••Medida, control o regulación [2006.01]"
+  },
+  {
+    "code": "B29C 53/00",
+    "description": "Conformación por curvado, doblado, torcido alargado o aplanado; Aparatos a este efecto (B29C 61/10 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B29C 53/02",
+    "description": "••Curvado o doblado (B29C 53/22, B29C 53/34, B29C 53/36, B29C 53/56 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "B29C 53/04",
+    "description": "••••de placas o de hojas [2006.01]"
+  },
+  {
+    "code": "B29C 53/06",
+    "description": "••••••Formación de líneas de doblado por prensado o incisión [2006.01]"
+  },
+  {
+    "code": "B29C 53/08",
+    "description": "••••de tubos [2006.01]"
+  },
+  {
+    "code": "B29C 53/10",
+    "description": "••••de películas tubulares sopladas, p. ej. en forma de fuelle [2006.01]"
+  },
+  {
+    "code": "B29C 53/12",
+    "description": "••••helicoidales, p. ej. para la fabricación de muelles [2006.01]"
+  },
+  {
+    "code": "B29C 53/14",
+    "description": "••Torsión [2006.01]"
+  },
+  {
+    "code": "B29C 53/16",
+    "description": "••Alargado o aplanado [2006.01]"
+  },
+  {
+    "code": "B29C 53/18",
+    "description": "••••de placas o de hojas [2006.01]"
+  },
+  {
+    "code": "B29C 53/20",
+    "description": "••••de tubos [2006.01]"
+  },
+  {
+    "code": "B29C 53/22",
+    "description": "••Ondulación [2006.01]"
+  },
+  {
+    "code": "B29C 53/24",
+    "description": "••••de placas o de hojas [2006.01]"
+  },
+  {
+    "code": "B29C 53/26",
+    "description": "••••••paralelas a la dirección de alimentación [2006.01]"
+  },
+  {
+    "code": "B29C 53/28",
+    "description": "••••••transversal a la dirección de alimentación [2006.01]"
+  },
+  {
+    "code": "B29C 53/30",
+    "description": "••••de tubos (para moldeo por soplado B29C 49/00) [2006.01]"
+  },
+  {
+    "code": "B29C 53/32",
+    "description": "••Enrollamiento (B29C 53/56 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B29C 53/34",
+    "description": "••Rodadura de bordes (de extremos de tubos B29C 57/12) [2006.01]"
+  },
+  {
+    "code": "B29C 53/36",
+    "description": "••Curvado y ensamblado, p. ej. para fabricar artículos huecos (B29C 53/56 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B29C 53/38",
+    "description": "••••por curvado de hojas o bandas perpendicularmente al eje longitudinal del objeto a formar y ensamblado de los bordes [2006.01]"
+  },
+  {
+    "code": "B29C 53/40",
+    "description": "••••••para la fabricación de objetos de longitud definida, es decir, de objetos separados [2006.01]"
+  },
+  {
+    "code": "B29C 53/42",
+    "description": "••••••••utilizando superficies de formación interna, p. ej. de mandriles [2006.01]"
+  },
+  {
+    "code": "B29C 53/44",
+    "description": "••••••••••girando alrededor del objeto a formar [2006.01]"
+  },
+  {
+    "code": "B29C 53/46",
+    "description": "••••••••utilizando superficies de formación externas, p. ej. manguitos [2006.01]"
+  },
+  {
+    "code": "B29C 53/48",
+    "description": "••••••para artículos de longitud indefinida, es decir, curvado progresivo [2006.01]"
+  },
+  {
+    "code": "B29C 53/50",
+    "description": "••••••••utilizando superficies de formación internas, p. ej. mandriles [2006.01]"
+  },
+  {
+    "code": "B29C 53/52",
+    "description": "••••••••utilizando superficies de formación externas, p. ej. manguitos [2006.01]"
+  },
+  {
+    "code": "B29C 53/54",
+    "description": "••••••••Guiado, alimentación o formación de bordes [2006.01]"
+  },
+  {
+    "code": "B29C 53/56",
+    "description": "••Enrollamiento y ensamblaje, p. ej. enrollamiento en espiral [2006.01]"
+  },
+  {
+    "code": "B29C 53/58",
+    "description": "••••helicoidal [2006.01]"
+  },
+  {
+    "code": "B29C 53/60",
+    "description": "••••••utilizando superficies de formación interna, p. ej. mandriles [2006.01]"
+  },
+  {
+    "code": "B29C 53/62",
+    "description": "••••••••que giran alrededor del eje de enrollamiento [2006.01]"
+  },
+  {
+    "code": "B29C 53/64",
+    "description": "••••••••••y se desplaza axialmente [2006.01]"
+  },
+  {
+    "code": "B29C 53/66",
+    "description": "••••••••••con un elemento de alimentación de enrollamiento que se mueve axialmente [2006.01]"
+  },
+  {
+    "code": "B29C 53/68",
+    "description": "••••••••con un elemento de alimentación de enrollamiento rotativo [2006.01]"
+  },
+  {
+    "code": "B29C 53/70",
+    "description": "••••••••••y que se desplaza axialmente [2006.01]"
+  },
+  {
+    "code": "B29C 53/72",
+    "description": "••••••utilizando superficies de formación externas [2006.01]"
+  },
+  {
+    "code": "B29C 53/74",
+    "description": "••••••utilizando superficies de formación en forma de correa sin fin, que se recicla después de la operación de formación [2006.01]"
+  },
+  {
+    "code": "B29C 53/76",
+    "description": "••••••alrededor de más de un eje [2006.01]"
+  },
+  {
+    "code": "B29C 53/78",
+    "description": "••••••utilizando hojas o bandas perfiladas [2006.01]"
+  },
+  {
+    "code": "B29C 53/80",
+    "description": "••Elementos constitutivos, detalles o accesorios; Operaciones auxiliares [2006.01]"
+  },
+  {
+    "code": "B29C 53/82",
+    "description": "••••Núcleos o mandriles [2006.01]"
+  },
+  {
+    "code": "B29C 53/84",
+    "description": "••••Calentamiento o enfriamiento [2006.01]"
+  },
+  {
+    "code": "B29C 55/00",
+    "description": "Conformación por estirado, p. ej. estirado a través de una matriz; Aparatos a este efecto (B29C 61/08 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B29C 55/02",
+    "description": "••de placas o de hojas [2006.01]"
+  },
+  {
+    "code": "B29C 55/04",
+    "description": "••••en un solo eje, p. ej. oblicuo [2006.01]"
+  },
+  {
+    "code": "B29C 55/06",
+    "description": "••••••paralelo a la dirección de alimentación [2006.01]"
+  },
+  {
+    "code": "B29C 55/08",
+    "description": "••••••transversal a la dirección de alimentación [2006.01]"
+  },
+  {
+    "code": "B29C 55/10",
+    "description": "••••Multiaxial [2006.01]"
+  },
+  {
+    "code": "B29C 55/12",
+    "description": "••••••biaxial [2006.01]"
+  },
+  {
+    "code": "B29C 55/14",
+    "description": "••••••••sucesivamente [2006.01]"
+  },
+  {
+    "code": "B29C 55/16",
+    "description": "••••••••simultáneamente [2006.01]"
+  },
+  {
+    "code": "B29C 55/18",
+    "description": "••••por apretado entre dos superficies, p. ej. rodillos [2006.01]"
+  },
+  {
+    "code": "B29C 55/20",
+    "description": "••••Dispositivos para apretar los bordes [2006.01]"
+  },
+  {
+    "code": "B29C 55/22",
+    "description": "••de tubos [2006.01]"
+  },
+  {
+    "code": "B29C 55/24",
+    "description": "••••Estirado radial [2006.01]"
+  },
+  {
+    "code": "B29C 55/26",
+    "description": "••••Estirado biaxial [2006.01]"
+  },
+  {
+    "code": "B29C 55/28",
+    "description": "••de películas tubulares sopladas, p. ej. infladas [2006.01]"
+  },
+  {
+    "code": "B29C 55/30",
+    "description": "••Estirado a través de una matriz [2006.01]"
+  },
+  {
+    "code": "B29C 57/00",
+    "description": "Conformación de extremos de tubos, p. ej. formación de rebordes, ensanches o cierres; Aparatos a este efecto [2006.01]"
+  },
+  {
+    "code": "B29C 57/02",
+    "description": "••Ensanche o agrandamiento, p. ej. combinado con la formación de una ranura [2006.01]"
+  },
+  {
+    "code": "B29C 57/04",
+    "description": "••••utilizando medios mecánicos [2006.01]"
+  },
+  {
+    "code": "B29C 57/06",
+    "description": "••••••deformables elásticamente [2006.01]"
+  },
+  {
+    "code": "B29C 57/08",
+    "description": "••••utilizando una diferencia de presión [2006.01]"
+  },
+  {
+    "code": "B29C 57/10",
+    "description": "••Cierre [2006.01]"
+  },
+  {
+    "code": "B29C 57/12",
+    "description": "••Rodadura de bordes [2006.01]"
+  },
+  {
+    "code": "B29C 59/00",
+    "description": "Conformación de superficies, p. ej. grabado o estampado en relieve; Aparatos a este efecto [2006.01]"
+  },
+  {
+    "code": "B29C 59/02",
+    "description": "••por medios mecánicos, p. ej. por prensado [2006.01]"
+  },
+  {
+    "code": "B29C 59/04",
+    "description": "••••utilizando rodillos o correas sin fin [2006.01]"
+  },
+  {
+    "code": "B29C 59/06",
+    "description": "••••utilizando tambores de vacío [2006.01]"
+  },
+  {
+    "code": "B29C 59/08",
+    "description": "••por tratamiento a la llama [2006.01]"
+  },
+  {
+    "code": "B29C 59/10",
+    "description": "••por descarga eléctrica [2006.01]"
+  },
+  {
+    "code": "B29C 59/12",
+    "description": "••••en un medio distinto al aire [2006.01]"
+  },
+  {
+    "code": "B29C 59/14",
+    "description": "••por tratamiento con plasma [2006.01]"
+  },
+  {
+    "code": "B29C 59/16",
+    "description": "••por energía ondulatoria o radiación de partículas [2006.01]"
+  },
+  {
+    "code": "B29C 59/18",
+    "description": "••por liberación de tensiones internas, p. ej. memoria plástica [2006.01]"
+  },
+  {
+    "code": "B29C 61/00",
+    "description": "Conformación por liberación de tensiones internas; Fabricación de preformas que tienen tensiones internas; Aparatos a este efecto (para la conformación de superficies B29C 59/18; para revestimiento de artículos B29C 63/38; para unir partes preformadas B29C 65/66) [2006.01]"
+  },
+  {
+    "code": "B29C 61/02",
+    "description": "••Contracción térmica [2006.01]"
+  },
+  {
+    "code": "B29C 61/04",
+    "description": "••Dilatación térmica [2006.01]"
+  },
+  {
+    "code": "B29C 61/06",
+    "description": "••Fabricación de preformas que tienen tensiones internas, p. ej. memoria plástica [2006.01]"
+  },
+  {
+    "code": "B29C 61/08",
+    "description": "••••por estirado de tubo [2006.01]"
+  },
+  {
+    "code": "B29C 61/10",
+    "description": "••••por curvado de placas o de hojas [2006.01]"
+  },
+  {
+    "code": "B29C 63/00",
+    "description": "Revestimiento o recubrimiento, es decir, aplicando capas preformadas o recubrimientos de plásticos; Aparatos a este efecto (B29C 73/00 tiene prioridad; por soplado B29C 49/00; por termoformación B29C 51/00) [2006.01]"
+  },
+  {
+    "code": "B29C 63/02",
+    "description": "••utilizando materiales en forma de hojas o de cintas (B29C 63/26 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B29C 63/04",
+    "description": "••••por doblado, enrollado, curvado u operaciones similares [2006.01]"
+  },
+  {
+    "code": "B29C 63/06",
+    "description": "••••••alrededor de objetos tubulares [2006.01]"
+  },
+  {
+    "code": "B29C 63/08",
+    "description": "••••••por enrollamiento helicoidal [2006.01]"
+  },
+  {
+    "code": "B29C 63/10",
+    "description": "••••••••alrededor de objetos tubulares [2006.01]"
+  },
+  {
+    "code": "B29C 63/12",
+    "description": "••••••por enrollamiento en espiral [2006.01]"
+  },
+  {
+    "code": "B29C 63/14",
+    "description": "••••••••alrededor de objetos tubulares [2006.01]"
+  },
+  {
+    "code": "B29C 63/16",
+    "description": "••••aplicados por medio de un saco o una membrana de caucho [2006.01]"
+  },
+  {
+    "code": "B29C 63/18",
+    "description": "••utilizando capas o recubrimientos tubulares (B29C 63/26 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B29C 63/20",
+    "description": "••••utilizando diferencia de presión, p. ej. en vacío [2006.01]"
+  },
+  {
+    "code": "B29C 63/22",
+    "description": "••utilizando capas o recubrimientos que tienen la forma adaptada a la del objeto (B29C 63/26 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B29C 63/24",
+    "description": "••utilizando hilos [2006.01]"
+  },
+  {
+    "code": "B29C 63/26",
+    "description": "••Revestimientos o recubrimientos de superficies internas (B29C 63/38 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B29C 63/28",
+    "description": "••••aplicadas por medio de un saco o una membrana de caucho [2006.01]"
+  },
+  {
+    "code": "B29C 63/30",
+    "description": "••••utilizando materiales en forma de hojas o de cintas [2006.01]"
+  },
+  {
+    "code": "B29C 63/32",
+    "description": "••••••por enrollamiento helicoidal [2006.01]"
+  },
+  {
+    "code": "B29C 63/34",
+    "description": "••••utilizando capas o recubrimientos tubulares [2006.01]"
+  },
+  {
+    "code": "B29C 63/36",
+    "description": "••••••por retorcimiento [2006.01]"
+  },
+  {
+    "code": "B29C 63/38",
+    "description": "••por liberación de tensiones internas [2006.01]"
+  },
+  {
+    "code": "B29C 63/40",
+    "description": "••••utilizando materiales en forma de hojas o de películas [2006.01]"
+  },
+  {
+    "code": "B29C 63/42",
+    "description": "••••utilizando capas o recubrimientos tubulares [2006.01]"
+  },
+  {
+    "code": "B29C 63/44",
+    "description": "••••utilizando capas o recubrimientos que tienen la forma adaptada a la de los objetos [2006.01]"
+  },
+  {
+    "code": "B29C 63/46",
+    "description": "••••de superficies internas [2006.01]"
+  },
+  {
+    "code": "B29C 63/48",
+    "description": "••Preparación de las superficies [2006.01]"
+  },
+  {
+    "code": "B29C 64/00",
+    "description": "Fabricación aditiva, p. ej. fabricación de objetos tridimensionales [3D] por deposición aditiva, aglomeración aditiva o estratificación aditiva, p. ej. impresión 3D, estereolitografía o sinterización láser selectiva [2017.01]"
+  },
+  {
+    "code": "B29C 64/10",
+    "description": "••Procesos de fabricación aditiva [2017.01]"
+  },
+  {
+    "code": "B29C 64/106",
+    "description": "••••usando únicamente materiales líquidos o viscosos, p. ej. depositando un hilo continuo de material viscoso [2017.01]"
+  },
+  {
+    "code": "B29C 64/112",
+    "description": "••••••usando gotas individuales, p. ej. desde cabezales de inyección [2017.01]"
+  },
+  {
+    "code": "B29C 64/118",
+    "description": "••••••usando un material filamentoso que es fundido, p. ej. modelado por deposición fundida [MDF] [2017.01]"
+  },
+  {
+    "code": "B29C 64/124",
+    "description": "••••••usando láminas de líquido que son solidificadas de forma selectiva [2017.01]"
+  },
+  {
+    "code": "B29C 64/129",
+    "description": "••••••••caracterizadas por su fuente de energía, p. ej. por irradiación global combinada con una máscara [2017.01]"
+  },
+  {
+    "code": "B29C 64/135",
+    "description": "••••••••••siendo la fuente de energía concentrada, p. ej. láseres de barrido o fuentes de luz focalizadas [2017.01]"
+  },
+  {
+    "code": "B29C 64/141",
+    "description": "••••usando únicamente materiales sólidos [2017.01]"
+  },
+  {
+    "code": "B29C 64/147",
+    "description": "••••••usando materiales en forma de lámina, p. ej. fabricación de objetos estratificados [LOM] o precorte del material en forma de lámina estratificado a la sección transversal local del objeto 3D [2017.01]"
+  },
+  {
+    "code": "B29C 64/153",
+    "description": "••••••usando capas de polvos que son unidas de forma selectiva, p. ej. por sinterización láser selectiva o por fusión [2017.01]"
+  },
+  {
+    "code": "B29C 64/159",
+    "description": "••••usando únicamente sustancias gaseosas, p ej. deposición de vapor [2017.01]"
+  },
+  {
+    "code": "B29C 64/165",
+    "description": "••••usando una combinación de materiales fluidos y sólidos, p. ej. material en forma de polvo unido selectivamente por un aglomerante líquido, un catalizador, un inhibidor o un absorbente de energía [2017.01]"
+  },
+  {
+    "code": "B29C 64/171",
+    "description": "••••especialmente adaptados para la fabricación de objetos 3D múltiples [2017.01]"
+  },
+  {
+    "code": "B29C 64/176",
+    "description": "••••••de forma secuencial [2017.01]"
+  },
+  {
+    "code": "B29C 64/182",
+    "description": "••••••en lotes paralelos [2017.01]"
+  },
+  {
+    "code": "B29C 64/188",
+    "description": "••••implicando operaciones adicionales llevadas a cabo sobre capas añadidas, p. ej. alisando, desbastando o controlando el espesor (conformado superficial B29C 59/00; tratamiento posterior de artículos sin alterar su forma B29C 71/00) [2017.01]"
+  },
+  {
+    "code": "B29C 64/194",
+    "description": "••••••durante el estratificado [2017.01]"
+  },
+  {
+    "code": "B29C 64/20",
+    "description": "••Aparatos para la fabricación aditiva; Sus partes constitutivas o sus accesorios [2017.01]"
+  },
+  {
+    "code": "B29C 64/205",
+    "description": "••••Medios para la aplicación de capas [2017.01]"
+  },
+  {
+    "code": "B29C 64/209",
+    "description": "••••••Cabezales; Boquillas [2017.01]"
+  },
+  {
+    "code": "B29C 64/214",
+    "description": "••••••Cuchillas [2017.01]"
+  },
+  {
+    "code": "B29C 64/218",
+    "description": "••••••Rodillos [2017.01]"
+  },
+  {
+    "code": "B29C 64/223",
+    "description": "••••••Láminas o películas, p. ej. para transferencia de capas de materiales de construcción desde una estación de trabajo a otra [2017.01]"
+  },
+  {
+    "code": "B29C 64/227",
+    "description": "••••Medios motores [2017.01]"
+  },
+  {
+    "code": "B29C 64/232",
+    "description": "••••••para movimientos a lo largo del eje ortogonal al plano de una capa [2017.01]"
+  },
+  {
+    "code": "B29C 64/236",
+    "description": "••••••para movimientos en una dirección en el plano de una capa [2017.01]"
+  },
+  {
+    "code": "B29C 64/241",
+    "description": "••••••para movimiento rotatorio [2017.01]"
+  },
+  {
+    "code": "B29C 64/245",
+    "description": "••••Plataformas o sustratos (estructuras soporte que se van a retirar después de la fabricación B29C 64/40) [2017.01]"
+  },
+  {
+    "code": "B29C 64/25",
+    "description": "••••Carcasas, p. ej. carcasa de la maquinaria [2017.01]"
+  },
+  {
+    "code": "B29C 64/255",
+    "description": "••••Cajas para el material de construcción, p. ej. recipientes para el material en polvo [2017.01]"
+  },
+  {
+    "code": "B29C 64/259",
+    "description": "••••••intercambiables [2017.01]"
+  },
+  {
+    "code": "B29C 64/264",
+    "description": "••••Disposiciones para irradiar [2017.01]"
+  },
+  {
+    "code": "B29C 64/268",
+    "description": "••••••usando haces láser; usando haces de electrones [EB] [2017.01]"
+  },
+  {
+    "code": "B29C 64/273",
+    "description": "••••••••pulsado; con modulación de frecuencia [2017.01]"
+  },
+  {
+    "code": "B29C 64/277",
+    "description": "••••••usando múltiples fuentes de radiación, p. ej. micro-espejos o diodos de emisión de luz [LED] [2017.01]"
+  },
+  {
+    "code": "B29C 64/282",
+    "description": "••••••••del mismo tipo, p. ej. usando diferentes niveles de energía [2017.01]"
+  },
+  {
+    "code": "B29C 64/286",
+    "description": "••••••Filtros ópticos, p. ej. máscaras [2017.01]"
+  },
+  {
+    "code": "B29C 64/291",
+    "description": "••••••para operar  a nivel global, p. ej. junto con activadores o inhibidores selectivamente aplicados [2017.01]"
+  },
+  {
+    "code": "B29C 64/295",
+    "description": "••••Elementos de calefacción [2017.01]"
+  },
+  {
+    "code": "B29C 64/30",
+    "description": "••Operaciones o equipos auxiliares [2017.01]"
+  },
+  {
+    "code": "B29C 64/307",
+    "description": "••••Manipulación del material para usar en la fabricación aditiva [2017.01]"
+  },
+  {
+    "code": "B29C 64/314",
+    "description": "••••••Preparación [2017.01]"
+  },
+  {
+    "code": "B29C 64/321",
+    "description": "••••••Alimentación [2017.01]"
+  },
+  {
+    "code": "B29C 64/329",
+    "description": "••••••••usando toberas [2017.01]"
+  },
+  {
+    "code": "B29C 64/336",
+    "description": "••••••••de dos o más materiales [2017.01]"
+  },
+  {
+    "code": "B29C 64/343",
+    "description": "••••••Medición [2017.01]"
+  },
+  {
+    "code": "B29C 64/35",
+    "description": "••••Limpieza [2017.01]"
+  },
+  {
+    "code": "B29C 64/357",
+    "description": "••••Reciclado [2017.01]"
+  },
+  {
+    "code": "B29C 64/364",
+    "description": "••••Acondicionamiento de la atmósfera [2017.01]"
+  },
+  {
+    "code": "B29C 64/371",
+    "description": "••••••usando una atmósfera diferente del aire, p. ej. un gas inerte [2017.01]"
+  },
+  {
+    "code": "B29C 64/379",
+    "description": "••••Manipulación de objetos fabricados de forma aditiva, p. ej. usando robots [2017.01]"
+  },
+  {
+    "code": "B29C 64/386",
+    "description": "••••Adquisición de datos o procesamiento de datos para fabricación aditiva [2017.01]"
+  },
+  {
+    "code": "B29C 64/393",
+    "description": "••••••para el control o la regulación de procesos de fabricación aditiva [2017.01]"
+  },
+  {
+    "code": "B29C 64/40",
+    "description": "••Estructuras para soportar objetos 3D durante su fabricación y que serán retiradas al acabar la fabricación de los mismos [2017.01]"
+  },
+  {
+    "code": "B29C 65/00",
+    "description": "Ensamblado de elementos preformados; Aparatos a este efecto [2006.01]"
+  },
+  {
+    "code": "B29C 65/02",
+    "description": "••por calor, con o sin presión [2006.01]"
+  },
+  {
+    "code": "B29C 65/04",
+    "description": "••••Calentamiento dieléctrico, p. ej. soldadura por alta frecuencia [2006.01]"
+  },
+  {
+    "code": "B29C 65/06",
+    "description": "••••utilizando fricción, p. ej. soldadura por rotación [2006.01]"
+  },
+  {
+    "code": "B29C 65/08",
+    "description": "••••utilizando vibraciones ultrasonoras [2006.01]"
+  },
+  {
+    "code": "B29C 65/10",
+    "description": "••••utilizando gases calientes [2006.01]"
+  },
+  {
+    "code": "B29C 65/12",
+    "description": "••••••y una barra de soldadura [2006.01]"
+  },
+  {
+    "code": "B29C 65/14",
+    "description": "••••utilizando energía ondulatoria o radiaciones de partículas [2006.01]"
+  },
+  {
+    "code": "B29C 65/16",
+    "description": "••••••Rayos láser [2006.01]"
+  },
+  {
+    "code": "B29C 65/18",
+    "description": "••••con una herramienta caliente [2006.01]"
+  },
+  {
+    "code": "B29C 65/20",
+    "description": "••••••en contacto directo, p. ej. con un \"espejo\" [2006.01]"
+  },
+  {
+    "code": "B29C 65/22",
+    "description": "••••••con un alambre caliente [2006.01]"
+  },
+  {
+    "code": "B29C 65/24",
+    "description": "••••••caracterizado por los medios para calentar la herramienta [2006.01]"
+  },
+  {
+    "code": "B29C 65/26",
+    "description": "••••••••Fluido caliente [2006.01]"
+  },
+  {
+    "code": "B29C 65/28",
+    "description": "••••••••Llamas o material combustible [2006.01]"
+  },
+  {
+    "code": "B29C 65/30",
+    "description": "••••••••Medios eléctricos [2006.01]"
+  },
+  {
+    "code": "B29C 65/32",
+    "description": "••••••••••Inducción [2006.01]"
+  },
+  {
+    "code": "B29C 65/34",
+    "description": "••••utilizando elementos calientes que quedan en la junta, p. ej. un elemento de soldadura perdida [2006.01]"
+  },
+  {
+    "code": "B29C 65/36",
+    "description": "••••••calentada por inducción [2006.01]"
+  },
+  {
+    "code": "B29C 65/38",
+    "description": "••••Calentamiento por inducción [2006.01]"
+  },
+  {
+    "code": "B29C 65/40",
+    "description": "••••Aplicando una materia plástica fundida, p. ej. aplicación de un \"hot melt\" (utilizando una barra de soldadura B29C 65/12; por moldeo B29C 65/70) [2006.01]"
+  },
+  {
+    "code": "B29C 65/42",
+    "description": "••••••entre elementos preensamblados [2006.01]"
+  },
+  {
+    "code": "B29C 65/44",
+    "description": "••••Ensamblado de un elemento no plástico caliente con un elemento plástico [2006.01]"
+  },
+  {
+    "code": "B29C 65/46",
+    "description": "••••••calentado por inducción [2006.01]"
+  },
+  {
+    "code": "B29C 65/48",
+    "description": "••utilizando adhesivos [2006.01]"
+  },
+  {
+    "code": "B29C 65/50",
+    "description": "••••utilizando cintas adhesivas [2006.01]"
+  },
+  {
+    "code": "B29C 65/52",
+    "description": "••••Aplicación de un adhesivo [2006.01]"
+  },
+  {
+    "code": "B29C 65/54",
+    "description": "••••••entre elementos preensamblados [2006.01]"
+  },
+  {
+    "code": "B29C 65/56",
+    "description": "••utilizando medios mecánicos [2006.01]"
+  },
+  {
+    "code": "B29C 65/58",
+    "description": "••••Conexiones de presión [2006.01]"
+  },
+  {
+    "code": "B29C 65/60",
+    "description": "••••Ribeteado [2006.01]"
+  },
+  {
+    "code": "B29C 65/62",
+    "description": "••••Cosido [2006.01]"
+  },
+  {
+    "code": "B29C 65/64",
+    "description": "••••Ensamblado de un elemento no plástico con un elemento de materia plástica, p. ej. por fuerza (B29C 65/44 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B29C 65/66",
+    "description": "••por eliminación de tensiones internas, p. ej. contracción de una de las partes a unir [2006.01]"
+  },
+  {
+    "code": "B29C 65/68",
+    "description": "••••utilizando un elemento auxiliar contraíble [2006.01]"
+  },
+  {
+    "code": "B29C 65/70",
+    "description": "••por moldeo (utilizando una técnica particular de moldeo, ver el lugar apropiado a esta técnica) [2006.01]"
+  },
+  {
+    "code": "B29C 65/72",
+    "description": "••por operaciones combinadas, p. ej. soldadura y costura [2006.01]"
+  },
+  {
+    "code": "B29C 65/74",
+    "description": "••por soldadura y corte [2006.01]"
+  },
+  {
+    "code": "B29C 65/76",
+    "description": "••Fabricación de juntas no permanentes o liberables [2006.01]"
+  },
+  {
+    "code": "B29C 65/78",
+    "description": "••Medios para manipular los elementos a ensamblar, p. ej. para fabricar recipientes u objetos huecos [2006.01]"
+  },
+  {
+    "code": "B29C 65/80",
+    "description": "••••Medios de transferencia rotativos [2006.01]"
+  },
+  {
+    "code": "B29C 65/82",
+    "description": "••Ensayo de las juntas [2006.01]"
+  },
+  {
+    "code": "B29C 67/00",
+    "description": "Técnicas de conformación no cubiertas por los grupos B29C 39/00-B29C 65/00, B29C 70/00 o B29C 73/00 [2017.01]"
+  },
+  {
+    "code": "B29C 67/02",
+    "description": "••Moldeo por aglomeración [2017.01]"
+  },
+  {
+    "code": "B29C 67/04",
+    "description": "••••Sinterización (combinado con compresión B29C 43/00) [2017.01]"
+  },
+  {
+    "code": "B29C 67/06",
+    "description": "••••Coagulación [2017.01]"
+  },
+  {
+    "code": "B29C 67/08",
+    "description": "••Moldeo a través de técnicas, p. ej. forzando la materia a moldear a través de una superficie perforada sobre una superficie de moldeo [2006.01]"
+  },
+  {
+    "code": "B29C 67/20",
+    "description": "••para la fabricación de objetos porosos o celulares, p. ej. espumas plásticas, espumas alveolares [2006.01]"
+  },
+  {
+    "code": "B29C 67/24",
+    "description": "••caracterizadas por la elección de material [2006.01]"
+  },
+  {
+    "code": "B29C 69/00",
+    "description": "Combinaciones de técnicas de conformación no previstas en un solo grupo principal B29C 39/00-B29C 67/00, p. ej. asociaciones de técnicas de moldeo y ensamblaje; Aparatos a este efecto [2006.01]"
+  },
+  {
+    "code": "B29C 69/02",
+    "description": "••de técnicas de moldeo solamente [2006.01]"
+  },
+  {
+    "code": "B29C 70/00",
+    "description": "Conformación de materiales compuestos, es decir, materiales plásticos con refuerzos, cargas o partes preformadas, p. ej. inserciones [2006.01]"
+  },
+  {
+    "code": "B29C 70/02",
+    "description": "••que contengan combinaciones de refuerzos y cargas incorporadas en una matriz, formando una o más capas, con o sin capas no reforzadas o no cargadas [2006.01]"
+  },
+  {
+    "code": "B29C 70/04",
+    "description": "••que sólo contengan refuerzos, p. ej. plásticos autoreforzados [2006.01]"
+  },
+  {
+    "code": "B29C 70/06",
+    "description": "••••refuerzos fibrosos solamente [2006.01]"
+  },
+  {
+    "code": "B29C 70/08",
+    "description": "••••••con combinaciones de distintos tipos de refuerzos fibrosos incorporados en una matriz, formando una o más capas, con o sin capas no reforzadas [2006.01]"
+  },
+  {
+    "code": "B29C 70/10",
+    "description": "••••••caracterizados por la estructura de los refuerzos fibrosos [2006.01]"
+  },
+  {
+    "code": "B29C 70/12",
+    "description": "••••••••utilizando fibras cortas, p. ej. en forma de mat [2006.01]"
+  },
+  {
+    "code": "B29C 70/14",
+    "description": "••••••••••orientadas [2006.01]"
+  },
+  {
+    "code": "B29C 70/16",
+    "description": "••••••••uilizando fibras largs, o continuas [2006.01]"
+  },
+  {
+    "code": "B29C 70/18",
+    "description": "••••••••••en forma de mat, p. ej. compuesto de moldeo en láminas [SMC] [2006.01]"
+  },
+  {
+    "code": "B29C 70/20",
+    "description": "••••••••••orientadas en una sola dirección, p. ej. mechas u otras fibras paralelas [2006.01]"
+  },
+  {
+    "code": "B29C 70/22",
+    "description": "••••••••••orientadas en al menos dos direcciones formando una estructura bidimensional [2006.01]"
+  },
+  {
+    "code": "B29C 70/24",
+    "description": "••••••••••orientadas en al menos tres direcciones formando una estructura tridimensional [2006.01]"
+  },
+  {
+    "code": "B29C 70/26",
+    "description": "••••refuerzos no fibrosos solamente [2006.01]"
+  },
+  {
+    "code": "B29C 70/28",
+    "description": "••••operaciones de conformación de los mismos [2006.01]"
+  },
+  {
+    "code": "B29C 70/30",
+    "description": "••••••Conformación por apilado (lay-up), es decir, aplicando fibras, bandas o grandes hojas en un molde, una plantilla o un núcleo; Conformación por pulverización, es decir, pulverizando las fibras sobre un molde, una plantilla o un núcleo [2006.01]"
+  },
+  {
+    "code": "B29C 70/32",
+    "description": "••••••••sobre un molde, una plantilla o un núcleo rotativos [2006.01]"
+  },
+  {
+    "code": "B29C 70/34",
+    "description": "••••••••conformación o impregnación por compresión [2006.01]"
+  },
+  {
+    "code": "B29C 70/36",
+    "description": "••••••••impregnación por colada, p. ej. colada en vacío [2006.01]"
+  },
+  {
+    "code": "B29C 70/38",
+    "description": "••••••••Apilado (lay-up) automático, es decir, utilizando robots, aplicando filamentos según modelos predeterminados [2006.01]"
+  },
+  {
+    "code": "B29C 70/40",
+    "description": "••••••Conformado o impregnado por comprensión (B29C 70/34 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B29C 70/42",
+    "description": "••••••••para producir objetos de longitud determinada, es decir, objetos independientes [2006.01]"
+  },
+  {
+    "code": "B29C 70/44",
+    "description": "••••••••••mediante presión isostática, p. ej. moldeo por diferencia de presión, moldeo con bomba de vacío, moldeo en autoclave o moldeo con caucho expandible [2006.01]"
+  },
+  {
+    "code": "B29C 70/46",
+    "description": "••••••••••con moldes enfrentados, p. ej. para deformar compuestos de moldeo en láminas [SMC] o preimpregnados [prepegs] [2006.01]"
+  },
+  {
+    "code": "B29C 70/48",
+    "description": "••••••••••••e impregnando los refuerzos en el molde cerrado, p. ej, moldeo por transferencia de resina [RTM] [2006.01]"
+  },
+  {
+    "code": "B29C 70/50",
+    "description": "••••••••para producir objetos de longitud indefinida, p. ej. [prepegs], compuestos de moldeo en láminas [SMC] o capas multiaxiales [XMC] [2006.01]"
+  },
+  {
+    "code": "B29C 70/52",
+    "description": "••••••••••Pultrusión, es decir, formación y comprensión por tracción continua a través de una matriz [2006.01]"
+  },
+  {
+    "code": "B29C 70/54",
+    "description": "••••••Elementos constitutivos, detalles o accesorios; Operaciones auxiliares [2006.01]"
+  },
+  {
+    "code": "B29C 70/56",
+    "description": "••••••••Tensado de los refuerzos antes o durante la conformación [2006.01]"
+  },
+  {
+    "code": "B29C 70/58",
+    "description": "••que sólo contengan cargas [2006.01]"
+  },
+  {
+    "code": "B29C 70/60",
+    "description": "••••con una combinación de distintos tipos de cargas incorporados en una matriz, formando una o más capas, y con o sin capas no cargadas [2006.01]"
+  },
+  {
+    "code": "B29C 70/62",
+    "description": "••••orientándose la carga durante el moldeo (para fibras cortas B29C 70/14) [2006.01]"
+  },
+  {
+    "code": "B29C 70/64",
+    "description": "••••las cargas ejercen una influencia sobre las características de la superficie del material, p. ej. concentrándose cerca de la superficie o incrustándose en la misma por la fuerza [2006.01]"
+  },
+  {
+    "code": "B29C 70/66",
+    "description": "••••las cargas comprenden constituyentes huecos, p. ej. espuma sintáctica [2006.01]"
+  },
+  {
+    "code": "B29C 70/68",
+    "description": "••por incorporación o moldeo de partes preformadas, p. ej. inserciones o capas [2006.01]"
+  },
+  {
+    "code": "B29C 70/70",
+    "description": "••••Inserciones completamente encapsuladas [2006.01]"
+  },
+  {
+    "code": "B29C 70/72",
+    "description": "••••Inserciones encapsuladas con proyecciones no encapsuladas, p. ej. extremidades o partes terminales de componentes eléctricos [2006.01]"
+  },
+  {
+    "code": "B29C 70/74",
+    "description": "••••Moldeo de material sobre una parte relativamente pequeña del objeto preformado, p. ej. moldeo sobre una pieza elaborada [2006.01]"
+  },
+  {
+    "code": "B29C 70/76",
+    "description": "••••••Moldeo de los bordes o extremidades del objeto preformado [2006.01]"
+  },
+  {
+    "code": "B29C 70/78",
+    "description": "••••Moldeo de materia en un sólo lado del objeto preformado [2006.01]"
+  },
+  {
+    "code": "B29C 70/80",
+    "description": "••••••Moldeo de materiales de estanqueidad en elementos de cierre [2006.01]"
+  },
+  {
+    "code": "B29C 70/82",
+    "description": "••••Incrustamiento parcial o total de hilos, redes o materiales análogos en la superficie de un objeto, p. ej. cortando y presionando [2006.01]"
+  },
+  {
+    "code": "B29C 70/84",
+    "description": "••••Moldeo de materia sobre en partes preformadas que van a ser unidas [2006.01]"
+  },
+  {
+    "code": "B29C 70/86",
+    "description": "••••Incorporación en capas de refuerzo impregnadas coherentes [2006.01]"
+  },
+  {
+    "code": "B29C 70/88",
+    "description": "••caracterizados principalmente por poseer propiedades específicas, p. ej. conductores eléctricos o reforzados localmente [2006.01]"
+  },
+  {
+    "code": "B29C 71/02",
+    "description": "••Postratamiento térmico [2006.01]"
+  },
+  {
+    "code": "B29C 71/04",
+    "description": "••por energía ondulatoria o radiación de partículas [2006.01]"
+  },
+  {
+    "code": "B29C 73/00",
+    "description": "Reparación de artículos hechos de materia plástica o de sustancias en estado plástico, p. ej. de objetos conformados o fabricados utilizando técnicas cubiertas por la presente subclase o la subclase B29D (recauchutado de neumáticos B29D 30/54; dispositivos para evitar las fugas en los tubos o en las mangas F16L 55/16) [2006.01]"
+  },
+  {
+    "code": "B29C 73/02",
+    "description": "••utilizando un líquido o un material pastoso (B29C 73/16 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B29C 73/04",
+    "description": "••utilizando elementos preformados [2006.01]"
+  },
+  {
+    "code": "B29C 73/06",
+    "description": "••••utilizando tapones insertados en la perforación y que la obturan [2006.01]"
+  },
+  {
+    "code": "B29C 73/08",
+    "description": "••••••Aparatos a este efecto, p. ej. para insertarlos [2006.01]"
+  },
+  {
+    "code": "B29C 73/10",
+    "description": "••••utilizando parches obturadores aplicados sobre la superficie del objeto (B29C 73/14 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B29C 73/12",
+    "description": "••••••Aparatos a este efecto, p. ej. para aplicarlos (B29C 73/30 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "B29C 73/14",
+    "description": "••••utilizando elementos compuestos de dos partes reunidas entre sí después de haber sido colocadas cada una a un lado del objeto [2006.01]"
+  },
+  {
+    "code": "B29C 73/16",
+    "description": "••Disposiciones o agentes de autorreparación o de auto-obturación [2006.01]"
+  },
+  {
+    "code": "B29C 73/18",
+    "description": "••••siendo el propio material del objeto auto-obturante, p. ej. por compresión [2006.01]"
+  },
+  {
+    "code": "B29C 73/20",
+    "description": "••••••estando el material del objeto compuesto solamente en parte por un material de obturación deformable [2006.01]"
+  },
+  {
+    "code": "B29C 73/22",
+    "description": "••••incorporando el objeto elementos que contienen una composición de sellado, p. ej. polvo que se libera cuando el objeto ha sido dañado [2006.01]"
+  },
+  {
+    "code": "B29C 73/24",
+    "description": "••Aparatos o accesorios no previstos en otro lugar [2006.01]"
+  },
+  {
+    "code": "B29C 73/26",
+    "description": "••••para el pretratamiento mecánico [2006.01]"
+  },
+  {
+    "code": "B29C 73/28",
+    "description": "••••para comprimir y estirar material flexible, p. ej. cámaras de aire [2006.01]"
+  },
+  {
+    "code": "B29C 73/30",
+    "description": "••••para comprimir localmente o para calentar localmente [2006.01]"
+  },
+  {
+    "code": "B29C 73/32",
+    "description": "••••••utilizando un elemento elástico, p. ej. una bolsa inflable [2006.01]"
+  },
+  {
+    "code": "B29C 73/34",
+    "description": "••••••para calentar localmente [2006.01]"
+  }
+]

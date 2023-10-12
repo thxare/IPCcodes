@@ -1,0 +1,366 @@
+[
+  {
+    "code": "G06K 1/00",
+    "description": "Métodos o disposiciones para marcar los soportes de registro en forma digital [2006.01]"
+  },
+  {
+    "code": "G06K 1/02",
+    "description": "••por perforación [2006.01]"
+  },
+  {
+    "code": "G06K 1/04",
+    "description": "••••control por la lectura de las marcas sobre el soporte de registro a perforar [2006.01]"
+  },
+  {
+    "code": "G06K 1/05",
+    "description": "••••Perforadoras de alta velocidad, p. ej. controladas por un computador eléctrico [2006.01]"
+  },
+  {
+    "code": "G06K 1/06",
+    "description": "••••Dispositivos controlados manualmente [2006.01]"
+  },
+  {
+    "code": "G06K 1/08",
+    "description": "••••••Perforadoras de tarjeta [2006.01]"
+  },
+  {
+    "code": "G06K 1/10",
+    "description": "••••••Perforadoras de bandas [2006.01]"
+  },
+  {
+    "code": "G06K 1/12",
+    "description": "••de forma distinta que por perforación [2006.01]"
+  },
+  {
+    "code": "G06K 1/14",
+    "description": "••por transferencia de datos a partir de un soporte de registros parecido o diferente [2006.01]"
+  },
+  {
+    "code": "G06K 1/16",
+    "description": "••••por reproducción de datos de una tarjeta perforada sobre una o varias tarjetas perforadas sin cambio de representación de código, es decir, duplicación [2006.01]"
+  },
+  {
+    "code": "G06K 1/18",
+    "description": "••••por transferencia de datos de un tipo de soporte de registro a otro tipo de soporte de registro, p. ej. de una banda magnética a una tarjeta perforada [2006.01]"
+  },
+  {
+    "code": "G06K 1/20",
+    "description": "••Marcado de un soporte de registro e impresión simultánea de datos, p. ej. perforación de impresión [2006.01]"
+  },
+  {
+    "code": "G06K 1/22",
+    "description": "••••Marcado e impresión simultáneos sobre diferentes soportes de registro, p. ej. sobre diferentes tipos de soporte de registro [2006.01]"
+  },
+  {
+    "code": "G06K 3/00",
+    "description": "Métodos o disposiciones para la impresión de datos bajo forma de caracteres alfanuméricos u otros a partir de un soporte de registro, p. ej. interpretación, impresión a partir de una banda magnética [2006.01]"
+  },
+  {
+    "code": "G06K 3/02",
+    "description": "••Transformación de marcas de un soporte de registro en datos impresos sobre el mismo soporte de registro, es decir, interpretación [2006.01]"
+  },
+  {
+    "code": "G06K 5/00",
+    "description": "Métodos o disposiciones para verificar la exactitud del marcado sobre un soporte de registro; Dispositivos de localización de columna [2006.01]"
+  },
+  {
+    "code": "G06K 5/02",
+    "description": "••la verificación constituye una parte de la operación de marcado [2006.01]"
+  },
+  {
+    "code": "G06K 5/04",
+    "description": "••Verificación de la alineación del marcado [2006.01]"
+  },
+  {
+    "code": "G06K 7/00",
+    "description": "Métodos o sistemas para la lectura de soportes de registro (métodos o sistemas para marcar los soportes de registro en forma digital G06K 1/00; reconocimiento de patrones G06F 18/00; sistemas para el reconocimiento o la comprensión de imágenes o vídeos G06V 10/00; reconocimiento de caracteres, reconocimiento de tinta digital o reconocimiento de patrones  basado en imágenes orientado a documentos G06V 30/00) [2006.01]"
+  },
+  {
+    "code": "G06K 7/01",
+    "description": "••Detalles [2006.01]"
+  },
+  {
+    "code": "G06K 7/015",
+    "description": "••••Alineación o centrado del dispositivo de lectura en relación al soporte de registro [2006.01]"
+  },
+  {
+    "code": "G06K 7/016",
+    "description": "••••Sincronización de procesos de lectura [2006.01]"
+  },
+  {
+    "code": "G06K 7/02",
+    "description": "••con medios neumáticos o hidráulicos, p. ej. lectura de perforaciones mediante aire comprimido; con medios acústicos [2006.01]"
+  },
+  {
+    "code": "G06K 7/04",
+    "description": "••con medios mecánicos, p. ej. con agujas que accionan contactos eléctricos [2006.01]"
+  },
+  {
+    "code": "G06K 7/06",
+    "description": "••con medios que son conductores de corriente cuando una marca está presente o está ausente, p. ej. escobilla o punta de contacto para perforación, escobilla de contacto para marcas conductoras [2006.01]"
+  },
+  {
+    "code": "G06K 7/08",
+    "description": "••con medios de percepción de las modificaciones de un campo electrostático o magnético, p. ej. por percepción de las modificaciones de la capacidad entre electrodos [2006.01]"
+  },
+  {
+    "code": "G06K 7/10",
+    "description": "••por radiación electromagnética, p. ej. lectura óptica; por radiación corpuscular [2006.01]"
+  },
+  {
+    "code": "G06K 7/12",
+    "description": "••••que utilizan una longitud de onda elegida, p. ej. para leer marcas rojas e ignorar las marcas azules [2006.01]"
+  },
+  {
+    "code": "G06K 7/14",
+    "description": "••••que utilizan la luz sin selección de longitudes de onda, p. ej. lectura de la luz blanca reflejada [2006.01]"
+  },
+  {
+    "code": "G06K 9/00",
+    "description": ""
+  },
+  {
+    "code": "G06K 9/62",
+    "description": ""
+  },
+  {
+    "code": "G06K 11/00",
+    "description": "Procedimientos y dispositivos para la lectura de un gráfico o para transformar la configuración de parámetros mecánicos, p. ej. fuerza o presencia, en señales eléctricas (en combinación con reconocimiento de patrones G06F 18/00; sistemas para el reconocimiento o la comprensión de imágenes o vídeos G06V 10/00; reconocimiento de caracteres, reconocimiento de tinta digital o reconocimiento de patrones basado en imágenes orientado a documentos G06V 30/00) [2006.01]"
+  },
+  {
+    "code": "G06K 11/02",
+    "description": "••Seguidores de curva automáticos [2006.01]"
+  },
+  {
+    "code": "G06K 11/04",
+    "description": "••••que utilizan un modelo de barrido auxiliar [2006.01]"
+  },
+  {
+    "code": "G06K 11/06",
+    "description": "••Dispositivos para convertir en señal eléctrica la posición de un elemento de escritura o de un aparato registrador accionado a mano [2006.01]"
+  },
+  {
+    "code": "G06K 13/00",
+    "description": "Transporte de soportes de registro de una posición a otra, p. ej. de una posición de alimentación a una posición de perforación (transporte de soportes de registro junto con otra operación, p. ej. con lectura G06K 17/00) [2006.01]"
+  },
+  {
+    "code": "G06K 13/02",
+    "description": "••el soporte de registro tiene una dimensión longitudinal comparable a la dimensión transversal, p. ej. tarjeta perforada [2006.01]"
+  },
+  {
+    "code": "G06K 13/04",
+    "description": "••••Partes constitutivas, p. ej. aleta en el aparato de selección de tarjetas [2006.01]"
+  },
+  {
+    "code": "G06K 13/05",
+    "description": "••••••Cabrestantes; Rodillos tensores [2006.01]"
+  },
+  {
+    "code": "G06K 13/06",
+    "description": "••••Guiado de tarjetas; Control del funcionamiento correcto de los mecanismos de transporte de tarjetas [2006.01]"
+  },
+  {
+    "code": "G06K 13/063",
+    "description": "••••••Alineación de tarjetas [2006.01]"
+  },
+  {
+    "code": "G06K 13/067",
+    "description": "••••••Control de la presencia, ausencia, de la posición correcta o del estado del movimiento de las tarjetas [2006.01]"
+  },
+  {
+    "code": "G06K 13/07",
+    "description": "••••Transporte de tarjetas entre estaciones [2006.01]"
+  },
+  {
+    "code": "G06K 13/073",
+    "description": "••••••con movimiento continuo [2006.01]"
+  },
+  {
+    "code": "G06K 13/077",
+    "description": "••••••con movimiento intermitente; Frenado o parada del movimiento [2006.01]"
+  },
+  {
+    "code": "G06K 13/08",
+    "description": "••••Alimentación de tarjetas o entrega de tarjetas [2006.01]"
+  },
+  {
+    "code": "G06K 13/10",
+    "description": "••••••de los almacenes a los dispositivos de transporte [2006.01]"
+  },
+  {
+    "code": "G06K 13/103",
+    "description": "••••••••utilizando medios mecánicos [2006.01]"
+  },
+  {
+    "code": "G06K 13/107",
+    "description": "••••••••utilizando medios neumáticos [2006.01]"
+  },
+  {
+    "code": "G06K 13/12",
+    "description": "••••••de los dispositivos de transporte a los almacenes [2006.01]"
+  },
+  {
+    "code": "G06K 13/14",
+    "description": "••••••Almacenes de tarjetas, p. ej. caja de recepción, almacén de alimentación [2006.01]"
+  },
+  {
+    "code": "G06K 13/16",
+    "description": "••••Manipulación de hojas flexibles, p. ej. de cheques [2006.01]"
+  },
+  {
+    "code": "G06K 13/18",
+    "description": "••siendo el soporte de registro alargado longitudinalmente, p. ej. cinta perforada [2006.01]"
+  },
+  {
+    "code": "G06K 13/20",
+    "description": "••••Detalles [2006.01]"
+  },
+  {
+    "code": "G06K 13/22",
+    "description": "••••••Cabrestantes; Rodillos tensores [2006.01]"
+  },
+  {
+    "code": "G06K 13/24",
+    "description": "••••Guiado de soportes de registro; Reconocimiento del fin del soporte de registro [2006.01]"
+  },
+  {
+    "code": "G06K 13/26",
+    "description": "••••Enrollado o desenrollado del soporte de registro; Accionamiento de soporte de registro [2006.01]"
+  },
+  {
+    "code": "G06K 13/28",
+    "description": "••••••de una manera continua [2006.01]"
+  },
+  {
+    "code": "G06K 13/30",
+    "description": "••••••de una manera intermitente [2006.01]"
+  },
+  {
+    "code": "G06K 15/00",
+    "description": "Disposiciones para producir una presentación visual permanente de los datos de salida (impresión o trazado combinado con otra operación, p. e., con traslado, G06K 17/00) [2006.01]"
+  },
+  {
+    "code": "G06K 15/02",
+    "description": "••que utilizan impresoras [2006.01]"
+  },
+  {
+    "code": "G06K 15/04",
+    "description": "••••por impresores del tipo de barras [2006.01]"
+  },
+  {
+    "code": "G06K 15/06",
+    "description": "••••por impresores de ruedas portacaracteres [2006.01]"
+  },
+  {
+    "code": "G06K 15/07",
+    "description": "••••••por impresores de rueda portacaracteres con rotación continua, p. ej. impresores de tambor portacaracteres giratorio [2006.01]"
+  },
+  {
+    "code": "G06K 15/08",
+    "description": "••••por impresión al vuelo, con los caracteres impresos desplazándose en la dirección de la línea impresa, p. ej. impresores de cadena [2006.01]"
+  },
+  {
+    "code": "G06K 15/10",
+    "description": "••••por impresores en matrices de puntos [2006.01]"
+  },
+  {
+    "code": "G06K 15/12",
+    "description": "••••por impresión fotográfica [2006.01]"
+  },
+  {
+    "code": "G06K 15/14",
+    "description": "••••por impresión electrográfica, p. ej. xerografía; por impresión magnetográfica [2006.01]"
+  },
+  {
+    "code": "G06K 15/16",
+    "description": "••••Medios para la alimentación de papel o de formularios [2006.01]"
+  },
+  {
+    "code": "G06K 15/22",
+    "description": "••que utilizan trazadores de plumilla (\"plotters\") [2006.01]"
+  },
+  {
+    "code": "G06K 17/00",
+    "description": "Métodos o disposiciones para hacer trabajar en cooperación los equipos comprendidos por varios de los grupos principales G06K 1/00-G06K 15/00, p. ej. ficheros automáticos de tarjetas incluyendo las operaciones de transporte y de lectura [2006.01]"
+  },
+  {
+    "code": "G06K 19/00",
+    "description": "Soportes de registro para utilización con máquinas y con al menos una parte prevista para soportar marcas digitales [2006.01]"
+  },
+  {
+    "code": "G06K 19/02",
+    "description": "••caracterizados por la utilización de materiales específicos, p. ej. para evitar el deterioro durante el transporte a través de la máquina [2006.01]"
+  },
+  {
+    "code": "G06K 19/04",
+    "description": "••caracterizado por la forma [2006.01]"
+  },
+  {
+    "code": "G06K 19/06",
+    "description": "••caracterizado por el tipo de marca digital, p. ej. forma, naturaleza, código [2006.01]"
+  },
+  {
+    "code": "G06K 19/063",
+    "description": "••••Teniendo el soporte perforaciones o entalladuras laterales, p. ej. ranuras alargadas [2006.01]"
+  },
+  {
+    "code": "G06K 19/067",
+    "description": "••••Soportes de registro con marcas conductoras, circuitos impresos o elementos de circuito con semiconductores, p. ej. tarjetas de identidad o tarjetas de crédito (utilizando una tarjeta codificada para autorizar llamadas desde un aparato telefónico H04M 1/675) [2006.01]"
+  },
+  {
+    "code": "G06K 19/07",
+    "description": "••••••con chips de circuito integrado [2006.01]"
+  },
+  {
+    "code": "G06K 19/073",
+    "description": "••••••••Disposiciones particulares para los circuitos, p. ej. para proteger el código de identificación en la memoria (protección contra la utilización no autorizada de la memoria de un computador G06F 12/14) [2006.01]"
+  },
+  {
+    "code": "G06K 19/077",
+    "description": "••••••••Detalles de estructura, p. ej. montaje de circuitos en el soporte [2006.01]"
+  },
+  {
+    "code": "G06K 19/08",
+    "description": "••••que utilizan marcados de diferentes tipos sobre el mismo soporte de registro, p. ej. un marcado que es leído ópticamente y el otro por medios magnéticos [2006.01]"
+  },
+  {
+    "code": "G06K 19/10",
+    "description": "••••••utilizándose al menos una clase de marcado para la autentificación, p. ej. de tarjetas de crédito o de identidad (verificación de tarjetas de identidad o de crédito en mecanismos accionados por estas tarjetas G07F 7/12) [2006.01]"
+  },
+  {
+    "code": "G06K 19/12",
+    "description": "••••••••siendo leído el marcado por medios magnéticos [2006.01]"
+  },
+  {
+    "code": "G06K 19/14",
+    "description": "••••••••siendo leído el marcado por irradiación [2006.01]"
+  },
+  {
+    "code": "G06K 19/16",
+    "description": "••••••••••estando constituido el marcado por un holograma o una red de difracción [2006.01]"
+  },
+  {
+    "code": "G06K 19/18",
+    "description": "••••••••Detalles de estructura [2006.01]"
+  },
+  {
+    "code": "G06K 21/00",
+    "description": "Búsqueda de informaciones a partir de tarjetas perforadas concebidas para uso manual o manipulación por máquinas (G06K 19/00 tiene prioridad; detección o corrección de errores por comprobación de patrones G06V 30/00; control del funcionamiento correcto de mecanismos de tarjetas de desplazamiento G06K 13/06); Aparatos para manipular estas tarjetas, p. ej. para el marcado o la corrección [2006.01]"
+  },
+  {
+    "code": "G06K 21/02",
+    "description": "••en la que la coincidencia de marcado es determinada mecánicamente, p. ej. con una aguja [2006.01]"
+  },
+  {
+    "code": "G06K 21/04",
+    "description": "••en las que la coincidencia de marcado es determinada ópticamente [2006.01]"
+  },
+  {
+    "code": "G06K 21/06",
+    "description": "••Aparatos o útiles adaptados para marcado por ranuras u otro marcado de tarjetas para compulsación de información [2006.01]"
+  },
+  {
+    "code": "G06K 21/08",
+    "description": "••Aparatos o útiles para corregir errores de perforación o de marcado [2006.01]"
+  }
+]

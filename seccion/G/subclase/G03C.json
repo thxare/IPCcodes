@@ -1,0 +1,790 @@
+[
+  {
+    "code": "G03C 1/00",
+    "description": "Materiales fotosensibles (materiales fotosensibles para procesos multicolores G03C 7/00; para procesos de difusión por transferencia G03C 8/00) [2006.01]"
+  },
+  {
+    "code": "G03C 1/005",
+    "description": "••Emulsiones al halogenuro de plata; Su preparación; Su tratamiento físico; Incorporación de aditivos (cantidades catalíticas de halogenuros de plata en los sistemas de formación de imágenes en seco G03C 1/498) [2006.01]"
+  },
+  {
+    "code": "G03C 1/015",
+    "description": "••••Aparatos o procesos para la preparación de emulsiones (formación de capas, secado G03C 1/74) [2006.01]"
+  },
+  {
+    "code": "G03C 1/025",
+    "description": "••••Tratamiento físico de las emulsiones, p. ej. por ultrasonidos, refrigeración, presión (formación de capas, secado G03C 1/74) [2006.01]"
+  },
+  {
+    "code": "G03C 1/035",
+    "description": "••••caracterizadas por la forma o por la composición del cristal, p. ej. de grano mixto [2006.01]"
+  },
+  {
+    "code": "G03C 1/04",
+    "description": "••••con aditivos macromoleculares; con sustancias para formar capas [2006.01]"
+  },
+  {
+    "code": "G03C 1/043",
+    "description": "••••••Oxidos de polialquileno; Sulfuros de polialquileno; Seleniuros de polialquileno; Telururos de polialquileno [2006.01]"
+  },
+  {
+    "code": "G03C 1/047",
+    "description": "••••••Proteínas, p. ej. derivados de la gelatina; Productos de hidrólisis o de extracción de proteínas [2006.01]"
+  },
+  {
+    "code": "G03C 1/053",
+    "description": "••••••Polímeros obtenidos por reacciones en que se hacen intervenir únicamente enlaces insaturados carbono-carbono, p. ej. polímeros vinílicos [2006.01]"
+  },
+  {
+    "code": "G03C 1/06",
+    "description": "••••con aditivos no macromoleculares (G03C 1/04 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G03C 1/07",
+    "description": "••••••Sustancias que influencian el crecimiento del grano durante la formación de la sal de plata [2006.01]"
+  },
+  {
+    "code": "G03C 1/08",
+    "description": "••••••Sustancias que aumentan la sensibilidad [2006.01]"
+  },
+  {
+    "code": "G03C 1/09",
+    "description": "••••••••Metales nobles o mercurio; Sus sales o compuestos; Azufre, selenio o teluro o sus compuestos, p. ej. para la sensibilización química (G03C 1/34, G03C 1/35 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G03C 1/10",
+    "description": "••••••••Sustancias órganicas [2006.01]"
+  },
+  {
+    "code": "G03C 1/12",
+    "description": "••••••••••Colorantes metínicos o polimetínicos [2006.01]"
+  },
+  {
+    "code": "G03C 1/14",
+    "description": "••••••••••••con un número impar de grupos CH [2006.01]"
+  },
+  {
+    "code": "G03C 1/16",
+    "description": "••••••••••••••con un grupo CH [2006.01]"
+  },
+  {
+    "code": "G03C 1/18",
+    "description": "••••••••••••••con tres grupos CH [2006.01]"
+  },
+  {
+    "code": "G03C 1/20",
+    "description": "••••••••••••••con más de tres grupos CH [2006.01]"
+  },
+  {
+    "code": "G03C 1/22",
+    "description": "••••••••••••con un número par de grupos CH [2006.01]"
+  },
+  {
+    "code": "G03C 1/24",
+    "description": "••••••••••••Colorantes estírilicos [2006.01]"
+  },
+  {
+    "code": "G03C 1/26",
+    "description": "••••••••••••la cadena polimetínica forma parte de un heterociclo [2006.01]"
+  },
+  {
+    "code": "G03C 1/28",
+    "description": "••••••••al mismo tiempo que las sustancias hipersensibilizantes [2006.01]"
+  },
+  {
+    "code": "G03C 1/29",
+    "description": "••••••••••estando la mezcla supersensibilizante únicamente compuesta de colorantes [2006.01]"
+  },
+  {
+    "code": "G03C 1/295",
+    "description": "••••••Aceleradores de revelado [2006.01]"
+  },
+  {
+    "code": "G03C 1/30",
+    "description": "••••••Endurecedores [2006.01]"
+  },
+  {
+    "code": "G03C 1/31",
+    "description": "••••••Plastificantes [2006.01]"
+  },
+  {
+    "code": "G03C 1/32",
+    "description": "••••••Agentes para hacer una superficie mate [2006.01]"
+  },
+  {
+    "code": "G03C 1/33",
+    "description": "••••••Agentes que impiden las manchas [2006.01]"
+  },
+  {
+    "code": "G03C 1/34",
+    "description": "••••••Antiveladura; Estabilizantes; Agentes que inhiben la regresión de la imagen latente [2006.01]"
+  },
+  {
+    "code": "G03C 1/35",
+    "description": "••••••Agentes antibronceado; Agentes de viraje [2006.01]"
+  },
+  {
+    "code": "G03C 1/36",
+    "description": "••••••Desensibilizadores (emulsiones positivas directas G03C 1/485) [2006.01]"
+  },
+  {
+    "code": "G03C 1/37",
+    "description": "••••••Agentes antisépticos [2006.01]"
+  },
+  {
+    "code": "G03C 1/38",
+    "description": "••••••Dispersantes; Agentes que facilitan la diseminación [2006.01]"
+  },
+  {
+    "code": "G03C 1/40",
+    "description": "••••••Colorantes no cubiertos por los grupos G03C 1/08-G03C 1/38 ó G03C 1/42 [2006.01]"
+  },
+  {
+    "code": "G03C 1/42",
+    "description": "••••••Reveladores o sus precursores [2006.01]"
+  },
+  {
+    "code": "G03C 1/43",
+    "description": "••••••Agentes de tratamiento o sus precursores, no cubiertos por los grupos G03C 1/07-G03C 1/42 [2006.01]"
+  },
+  {
+    "code": "G03C 1/46",
+    "description": "••••que tienen más de una capa fotosensible [2006.01]"
+  },
+  {
+    "code": "G03C 1/485",
+    "description": "••••Emulsiones positivas directas [2006.01]"
+  },
+  {
+    "code": "G03C 1/49",
+    "description": "••••Emulsiones de ennegrecimiento directo y fotorrevelables [2006.01]"
+  },
+  {
+    "code": "G03C 1/492",
+    "description": "••••Emulsiones fotosolubles [2006.01]"
+  },
+  {
+    "code": "G03C 1/494",
+    "description": "••Composiciones de sales de plata distintas de las emulsiones al halogenuro de plata; Sistemas fototermográficos [2006.01]"
+  },
+  {
+    "code": "G03C 1/496",
+    "description": "••••Composiciones sin aglutinantes, p. ej. evaporadas [2006.01]"
+  },
+  {
+    "code": "G03C 1/498",
+    "description": "••••Sistemas fototermográficos, p. ej. por formación de imagen en seco [2006.01]"
+  },
+  {
+    "code": "G03C 1/50",
+    "description": "••Composiciones que contienen sales de metales nobles, distintos de las sales de plata, como sustancias fotosensibles [2006.01]"
+  },
+  {
+    "code": "G03C 1/52",
+    "description": "••Composiciones que contienen compuestos diazoicos como sustancias fotosensibles (G03C 1/64 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G03C 1/54",
+    "description": "••••Sales de diazonio o diazoanhídridos [2006.01]"
+  },
+  {
+    "code": "G03C 1/56",
+    "description": "••••Diazosulfonatos [2006.01]"
+  },
+  {
+    "code": "G03C 1/58",
+    "description": "••••Sustancias copulantes a este efecto [2006.01]"
+  },
+  {
+    "code": "G03C 1/60",
+    "description": "••••con aditivos macromoleculares [2006.01]"
+  },
+  {
+    "code": "G03C 1/61",
+    "description": "••••con aditivos no macromoleculares [2006.01]"
+  },
+  {
+    "code": "G03C 1/62",
+    "description": "••••••Compuestos metálicos reducibles en metal [2006.01]"
+  },
+  {
+    "code": "G03C 1/64",
+    "description": "••Composiciones que contienen compuestos de hierro como sustancias fotosensibles [2006.01]"
+  },
+  {
+    "code": "G03C 1/66",
+    "description": "••Composiciones que contienen cromatos como sustancias fotosensibles [2006.01]"
+  },
+  {
+    "code": "G03C 1/67",
+    "description": "••Composiciones que contienen compuestos de cobalto como sustancias fotosensibles [2006.01]"
+  },
+  {
+    "code": "G03C 1/675",
+    "description": "••Composiciones que contienen compuestos polihalogenados como sustancias fotosensibles [2006.01]"
+  },
+  {
+    "code": "G03C 1/685",
+    "description": "••Composiciones que contienen compuestos espirocondensados del pirano, o bien derivados de ellos, como sustancias fotosensibles [2006.01]"
+  },
+  {
+    "code": "G03C 1/695",
+    "description": "••Composiciones que contienen azidas como sustancias fotosensibles [2006.01]"
+  },
+  {
+    "code": "G03C 1/705",
+    "description": "••Composiciones que contienen calcogenuros, metales o sus aleaciones como sustancias fotosensibles, p. ej. sistemas fotodopados [2006.01]"
+  },
+  {
+    "code": "G03C 1/72",
+    "description": "••Composiciones fotosensibles no cubiertas por los grupos G03C 1/005-G03C 1/705 [2006.01]"
+  },
+  {
+    "code": "G03C 1/725",
+    "description": "••••que contienen compuestos inorgánicos [2006.01]"
+  },
+  {
+    "code": "G03C 1/73",
+    "description": "••••que contienen compuestos orgánicos [2006.01]"
+  },
+  {
+    "code": "G03C 1/735",
+    "description": "••••••Compuestos organometálicos [2006.01]"
+  },
+  {
+    "code": "G03C 1/74",
+    "description": "••Aplicación de composiciones fotosensibles sobre el soporte; Procesos de secado a este efecto (G03C 1/496 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G03C 1/76",
+    "description": "••Materiales fotosensibles caracterizados por el soporte o las capas auxiliares [2006.01]"
+  },
+  {
+    "code": "G03C 1/765",
+    "description": "••••caracterizados por la forma del soporte, p. ej. por la disposición de perforaciones, entalladuras [2006.01]"
+  },
+  {
+    "code": "G03C 1/77",
+    "description": "••••siendo el soporte de metal [2006.01]"
+  },
+  {
+    "code": "G03C 1/775",
+    "description": "••••siendo el soporte de papel [2006.01]"
+  },
+  {
+    "code": "G03C 1/785",
+    "description": "••••••translúcido [2006.01]"
+  },
+  {
+    "code": "G03C 1/79",
+    "description": "••••••Revestimientos macromoleculares o impregnaciones a este efecto, p. ej. esmaltes [2006.01]"
+  },
+  {
+    "code": "G03C 1/795",
+    "description": "••••estando formado el soporte por sustancias macromoleculares (G03C 1/775 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G03C 1/805",
+    "description": "••••caracterizados por capas desprendibles o medios a este efecto [2006.01]"
+  },
+  {
+    "code": "G03C 1/81",
+    "description": "••••caracterizados por medios que impidan el enrollado [2006.01]"
+  },
+  {
+    "code": "G03C 1/815",
+    "description": "••••caracterizados por medios para filtrar o absorber la luz ultravioleta, p. ej. agentes para el blanqueo óptico (para la reproducción fotográfica G03C 5/10; para intensificar las imágenes obtenidas mediante rayos X G03C 5/17) [2006.01]"
+  },
+  {
+    "code": "G03C 1/825",
+    "description": "••••caracterizados por medios antirreflectantes o que filtren la luz visible, p. ej. antihalo [2006.01]"
+  },
+  {
+    "code": "G03C 1/83",
+    "description": "••••••Colorantes orgánicos a este efecto [2006.01]"
+  },
+  {
+    "code": "G03C 1/835",
+    "description": "••••••Sustancias macromoleculares a este efecto, p. ej. mordientes [2006.01]"
+  },
+  {
+    "code": "G03C 1/85",
+    "description": "••••caracterizados por aditivos o revestimientos antiestáticos [2006.01]"
+  },
+  {
+    "code": "G03C 1/89",
+    "description": "••••••Sustancias macromoleculares a este efecto [2006.01]"
+  },
+  {
+    "code": "G03C 1/91",
+    "description": "••••caracterizados por capas o medios de anclaje [2006.01]"
+  },
+  {
+    "code": "G03C 1/93",
+    "description": "••••••Sustancias macromoleculares a este efecto [2006.01]"
+  },
+  {
+    "code": "G03C 1/95",
+    "description": "••••convertidos en opacos o receptivos a la escritura, p. ej. mediante aditivos particulares inertes (G03C 1/775 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G03C 3/00",
+    "description": "Acondicionamiento de películas para su introducción en los aparatos, p. ej. películas en bobinas, \"film packs\"; Materiales de embalaje para placas, películas o papeles sensibles a la luz, p. ej. materiales caracterizados por el empleo de colorantes especiales, de tintas de imprenta especiales, de adhesivos especiales [2006.01]"
+  },
+  {
+    "code": "G03C 3/02",
+    "description": "••Películas fotográficas en bobinas con banda de papel [2006.01]"
+  },
+  {
+    "code": "G03C 5/00",
+    "description": "Procesos fotográficos o agentes a este efecto; Regeneración de tales agentes de tratamiento (procesos multicolores G03C 7/00; procesos de difusión por transferencia G03C 8/00; procesos estereofotográficos G03C 9/00) [2006.01]"
+  },
+  {
+    "code": "G03C 5/02",
+    "description": "••Procesos sensitométricos, p. ej. determinación de la sensibilidad, de la sensibilidad cromática, de la gradación, de la granularidad, de la densidad; Elaboración de esquinas sensitométricas [2006.01]"
+  },
+  {
+    "code": "G03C 5/04",
+    "description": "••Procesos de fotografía [2006.01]"
+  },
+  {
+    "code": "G03C 5/06",
+    "description": "••••Procesos con desvanecedor móvil [2006.01]"
+  },
+  {
+    "code": "G03C 5/08",
+    "description": "••Reproducción fotográfica (G03C 5/18 tiene prioridad); Procesos o medios para impedir la reproducción fotográfica [2006.01]"
+  },
+  {
+    "code": "G03C 5/10",
+    "description": "••••Reproducción por reflexión; Reproducción fotográfica utilizando medios fluorescentes o fosforescentes [2006.01]"
+  },
+  {
+    "code": "G03C 5/12",
+    "description": "••Procesos cinematográficos de fotografía o de reproducción [2006.01]"
+  },
+  {
+    "code": "G03C 5/14",
+    "description": "••••combinados con registro del sonido [2006.01]"
+  },
+  {
+    "code": "G03C 5/16",
+    "description": "••Procesos con rayos X, infrarrojos o ultravioletas [2006.01]"
+  },
+  {
+    "code": "G03C 5/17",
+    "description": "••••utilizando pantallas para reforzar las imágenes obtenidas por los rayos X [2006.01]"
+  },
+  {
+    "code": "G03C 5/18",
+    "description": "••Procesos de diazotipia, p. ej. revelado térmico, o agentes a este efecto [2006.01]"
+  },
+  {
+    "code": "G03C 5/20",
+    "description": "••••Reproducción por reflexión [2006.01]"
+  },
+  {
+    "code": "G03C 5/22",
+    "description": "••Procesos directos al cromato, es decir, sin pasar por la imagen argéntica, o agentes a este efecto [2006.01]"
+  },
+  {
+    "code": "G03C 5/26",
+    "description": "••Procesos que utilizan materiales fotosensibles que contienen una sal de plata o agentes a este efecto (revelado físico G03C 5/58) [2006.01]"
+  },
+  {
+    "code": "G03C 5/28",
+    "description": "••••Procesos para film cinematográfico [2006.01]"
+  },
+  {
+    "code": "G03C 5/29",
+    "description": "••••Procesos de revelado o agentes a este efecto (G03C 5/38, G03C 5/50 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G03C 5/30",
+    "description": "••••••Reveladores [2006.01]"
+  },
+  {
+    "code": "G03C 5/305",
+    "description": "••••••Aditivos diferentes a los reveladores [2006.01]"
+  },
+  {
+    "code": "G03C 5/31",
+    "description": "••••••Regeneración; Soluciones de relleno [2006.01]"
+  },
+  {
+    "code": "G03C 5/315",
+    "description": "••••••Revelado curtiente [2006.01]"
+  },
+  {
+    "code": "G03C 5/32",
+    "description": "••••Latensificación; Insensibilización [2006.01]"
+  },
+  {
+    "code": "G03C 5/38",
+    "description": "••••Fijado; Revelado-fijado; Curtido-fijado (blanqueo-fijado G03C 5/44) [2006.01]"
+  },
+  {
+    "code": "G03C 5/39",
+    "description": "••••••Estabilización, es decir, fijado sin lavado [2006.01]"
+  },
+  {
+    "code": "G03C 5/395",
+    "description": "••••Regeneración de los agentes de tratamiento fotográfico que no sean reveladores; Soluciones de relleno a este efecto [2006.01]"
+  },
+  {
+    "code": "G03C 5/40",
+    "description": "••••Transformación química de las imágenes reveladas (G03C 5/50 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G03C 5/42",
+    "description": "••••••Debilitado; Refuerzo [2006.01]"
+  },
+  {
+    "code": "G03C 5/44",
+    "description": "••••••Blanqueo; blanqueo-fijado [2006.01]"
+  },
+  {
+    "code": "G03C 5/46",
+    "description": "••••••Viraje [2006.01]"
+  },
+  {
+    "code": "G03C 5/48",
+    "description": "••••••Mordentado [2006.01]"
+  },
+  {
+    "code": "G03C 5/50",
+    "description": "••••Revelado por inversión; Procesos por contacto (G03C 5/315, G03C 8/00 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G03C 5/56",
+    "description": "••Procesos que utilizan composiciones fotosensibles cubiertas por los grupos G03C 1/64-G03C 1/72 o agentes a este efecto (G03C 5/58 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G03C 5/58",
+    "description": "••Procesos para obtener imágenes metálicas por depósito en fase vapor o por revelado físico [2006.01]"
+  },
+  {
+    "code": "G03C 5/60",
+    "description": "••Procesos para obtener imágenes vesiculares [2006.01]"
+  },
+  {
+    "code": "G03C 7/00",
+    "description": "Procesos fotográficos multicolores y agentes a este efecto; Regeneración de tales agentes de tratamiento; Materiales fotosensibles para procesos multicolores (procesos de difusión por transferencia G03C 8/00) [2006.01]"
+  },
+  {
+    "code": "G03C 7/02",
+    "description": "••Procesos por blanqueo directo; Materiales a este efecto; Preparación o tratamiento de tales materiales [2006.01]"
+  },
+  {
+    "code": "G03C 7/04",
+    "description": "••Procesos aditivos que utilizan filtros coloreados; Materiales a este efecto; Preparación o tratamiento de tales materiales [2006.01]"
+  },
+  {
+    "code": "G03C 7/06",
+    "description": "••••Fabricación de filtros coloreados [2006.01]"
+  },
+  {
+    "code": "G03C 7/08",
+    "description": "••••••a partir de granos diversamente coloreados repartidos irregularmente [2006.01]"
+  },
+  {
+    "code": "G03C 7/10",
+    "description": "••••••con zonas regulares de coloración, p. ej. bandas, líneas, puntos [2006.01]"
+  },
+  {
+    "code": "G03C 7/12",
+    "description": "••••••••por exposición fotográfica [2006.01]"
+  },
+  {
+    "code": "G03C 7/14",
+    "description": "••Procesos aditivos que utilizan filtros lenticulares; Materiales a este efecto; Preparación o tratamiento de tales materiales [2006.01]"
+  },
+  {
+    "code": "G03C 7/18",
+    "description": "••Procesos para la corrección de la imagen coloreada en la fotografía en colores por síntesis sustractiva (utilizando copuladores coloreados formadores de color G03C 7/333) [2006.01]"
+  },
+  {
+    "code": "G03C 7/20",
+    "description": "••Procesos en colores por síntesis sustractiva que utilizan películas diferentemente sensibilizadas, estando cada una de ellas depositada sobre su propio soporte, p. ej. bipacks, tripacks [2006.01]"
+  },
+  {
+    "code": "G03C 7/22",
+    "description": "••Procesos sustractivos cinematográficos; Materiales a este efecto; Preparación o tratamiento de tales materiales [2006.01]"
+  },
+  {
+    "code": "G03C 7/24",
+    "description": "••••combinada con el registro del sonido [2006.01]"
+  },
+  {
+    "code": "G03C 7/25",
+    "description": "••••Procesos por embebido de colorantes; Materiales a este efecto; Preparación o tratamiento de tales materiales [2006.01]"
+  },
+  {
+    "code": "G03C 7/26",
+    "description": "••Emulsiones al halogenuro de plata para los procesos en colores sustractivos (G03C 7/28-G03C 7/30 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G03C 7/28",
+    "description": "••Procesos de blanqueo de colores en plata; Materiales a este efecto; Preparación o tratamiento de tales materiales [2006.01]"
+  },
+  {
+    "code": "G03C 7/29",
+    "description": "••••Colorantes azoicos a este efecto [2006.01]"
+  },
+  {
+    "code": "G03C 7/30",
+    "description": "••Procesos en colores que utilizan copuladores formadores de color; Materiales a este efecto; Preparación o tratamiento de tales materiales [2006.01]"
+  },
+  {
+    "code": "G03C 7/305",
+    "description": "••••Sustancias que liberan agentes fotográficamente activos, p. ej. copuladores que liberan un inhibidor de revelado (G03C 7/388 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G03C 7/32",
+    "description": "••••Copuladores formadores de color (G03C 7/305, G03C 7/388 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G03C 7/327",
+    "description": "••••••Copuladores macromoleculares [2006.01]"
+  },
+  {
+    "code": "G03C 7/333",
+    "description": "••••••Copuladores coloreados, p. ej. para la corrección de la imagen coloreada [2006.01]"
+  },
+  {
+    "code": "G03C 7/34",
+    "description": "••••••Copuladores que contienen fenoles (G03C 7/327, G03C 7/333 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G03C 7/36",
+    "description": "••••••Copuladores que contienen compuestos con grupos metileno activos (G03C 7/327, G03C 7/333 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G03C 7/38",
+    "description": "••••••••en anillos [2006.01]"
+  },
+  {
+    "code": "G03C 7/384",
+    "description": "••••••••••en anillos de pirazolona [2006.01]"
+  },
+  {
+    "code": "G03C 7/388",
+    "description": "••••Procesos para la incorporación en la emulsión de copuladores formadores de color o de sustancias que liberen agentes fotográficamente activos; Disolventes a este efecto [2006.01]"
+  },
+  {
+    "code": "G03C 7/392",
+    "description": "••••Aditivos (G03C 7/305, G03C 7/32 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G03C 7/396",
+    "description": "••••••Aditivos macromoleculares [2006.01]"
+  },
+  {
+    "code": "G03C 7/407",
+    "description": "••••Procesos de revelado o agentes a este efecto [2006.01]"
+  },
+  {
+    "code": "G03C 7/413",
+    "description": "••••••Reveladores [2006.01]"
+  },
+  {
+    "code": "G03C 7/42",
+    "description": "••••Blanqueo-fijado o agentes a este efecto [2006.01]"
+  },
+  {
+    "code": "G03C 7/44",
+    "description": "••••Regeneración; Soluciones de relleno (G03C 7/42 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G03C 7/46",
+    "description": "••Procesos sustractivos en colores no cubiertos por el grupo G03C 7/26; Materiales a este efecto; Preparación o tratamiento de tales materiales [2006.01]"
+  },
+  {
+    "code": "G03C 8/00",
+    "description": "Procesos de difusión por transferencia o agentes a este efecto; Materiales fotosensibles para tales procesos [2006.01]"
+  },
+  {
+    "code": "G03C 8/02",
+    "description": "••Materiales fotosensibles caracterizados por la sección formadora de imagen [2006.01]"
+  },
+  {
+    "code": "G03C 8/04",
+    "description": "••••siendo las sustancias transferidas por difusión compuestos inorgánicos o compuestos organometálicos derivados de metales fotosensible nobles [2006.01]"
+  },
+  {
+    "code": "G03C 8/06",
+    "description": "••••••Difusión por transferencia de sales de plata [2006.01]"
+  },
+  {
+    "code": "G03C 8/08",
+    "description": "••••siendo las sustancias transferidas por difusión compuestos orgánicos (G03C 8/04 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G03C 8/10",
+    "description": "••••••de colorantes o de sus precursores [2006.01]"
+  },
+  {
+    "code": "G03C 8/12",
+    "description": "••••••••caracterizados por el mecanismo de liberación [2006.01]"
+  },
+  {
+    "code": "G03C 8/14",
+    "description": "••••••••••Oxidación de la sustancia cromógena [2006.01]"
+  },
+  {
+    "code": "G03C 8/16",
+    "description": "••••••••••••que es inicialmente difundible en un medio alcalino [2006.01]"
+  },
+  {
+    "code": "G03C 8/18",
+    "description": "••••••••••••••Colorantes de revelado [2006.01]"
+  },
+  {
+    "code": "G03C 8/20",
+    "description": "••••••••••••que es inicialmente no difundible en un medio alcalino [2006.01]"
+  },
+  {
+    "code": "G03C 8/22",
+    "description": "••••••••••Reducción de la sustancia cromógena [2006.01]"
+  },
+  {
+    "code": "G03C 8/24",
+    "description": "••Materiales fotosensibles caracterizados por la sección receptora de imagen [2006.01]"
+  },
+  {
+    "code": "G03C 8/26",
+    "description": "••••Capas receptoras de imagen (G03C 8/52 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G03C 8/28",
+    "description": "••••••que contienen núcleos de revelado o compuestos que forman tales núcleos [2006.01]"
+  },
+  {
+    "code": "G03C 8/30",
+    "description": "••Procesos aditivos que utilizan filtros de color; Materiales a este efecto; Preparación o tratamiento de tales materiales [2006.01]"
+  },
+  {
+    "code": "G03C 8/32",
+    "description": "••Procesos de revelado o agentes a este efecto (G03C 8/18 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G03C 8/34",
+    "description": "••••Depósitos para los agentes (G03C 8/48, G03B 17/50 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G03C 8/36",
+    "description": "••••Reveladores [2006.01]"
+  },
+  {
+    "code": "G03C 8/38",
+    "description": "••••••que contienen sustancias que aumentan la viscosidad [2006.01]"
+  },
+  {
+    "code": "G03C 8/40",
+    "description": "••••Revelado por calor [2006.01]"
+  },
+  {
+    "code": "G03C 8/42",
+    "description": "••Detalles de estructura [2006.01]"
+  },
+  {
+    "code": "G03C 8/44",
+    "description": "••••Unidades integrales, es decir, en que la sección formadora de imagen no está separada de la sección receptora de imagen [2006.01]"
+  },
+  {
+    "code": "G03C 8/46",
+    "description": "••••••caracterizadas por los medios de captación o medios de liberación de los gases [2006.01]"
+  },
+  {
+    "code": "G03C 8/48",
+    "description": "••••••caracterizadas por las sustancias empleadas para el enmascaramiento de la sección formadora de imagen [2006.01]"
+  },
+  {
+    "code": "G03C 8/50",
+    "description": "••••Unidades separables por arrancamiento, es decir, en que la sección formadora de imagen está separada de la sección receptora de imagen [2006.01]"
+  },
+  {
+    "code": "G03C 8/52",
+    "description": "••••Soportes o capas auxiliares; Sustancias utilizadas a este efecto [2006.01]"
+  },
+  {
+    "code": "G03C 8/54",
+    "description": "••••••Capas retardadoras [2006.01]"
+  },
+  {
+    "code": "G03C 8/56",
+    "description": "••••••Capas que contienen mordientes [2006.01]"
+  },
+  {
+    "code": "G03C 9/00",
+    "description": "Procesos estereofotográficos o análogos [2006.01]"
+  },
+  {
+    "code": "G03C 9/02",
+    "description": "••Estereograma paraláctico [2006.01]"
+  },
+  {
+    "code": "G03C 9/04",
+    "description": "••Imagen vectográfica [2006.01]"
+  },
+  {
+    "code": "G03C 9/06",
+    "description": "••Anaglifo [2006.01]"
+  },
+  {
+    "code": "G03C 9/08",
+    "description": "••que producen imágenes de tres dimensiones [2006.01]"
+  },
+  {
+    "code": "G03C 11/00",
+    "description": "Procesos auxiliares en fotografía (caracterizados por el aparellaje utilizado G03D 15/00) [2006.01]"
+  },
+  {
+    "code": "G03C 11/02",
+    "description": "••Marcado o aplicación de texto [2006.01]"
+  },
+  {
+    "code": "G03C 11/04",
+    "description": "••Retoque [2006.01]"
+  },
+  {
+    "code": "G03C 11/06",
+    "description": "••Suavizado; Renovación; Esmerilado; Tramado desplazable; Limpieza; Lubrificación; Tratamiento para retardar la combustión [2006.01]"
+  },
+  {
+    "code": "G03C 11/08",
+    "description": "••Esmaltado, es decir, aplicación de capas protectoras sobre copias fotográficas acabadas [2006.01]"
+  },
+  {
+    "code": "G03C 11/10",
+    "description": "••••para su protección contra los rayos ultravioletas [2006.01]"
+  },
+  {
+    "code": "G03C 11/12",
+    "description": "••Eliminación o transferencia de capas fotográficas intactas [2006.01]"
+  },
+  {
+    "code": "G03C 11/14",
+    "description": "••Encolado; Montaje [2006.01]"
+  },
+  {
+    "code": "G03C 11/16",
+    "description": "••Secado [2006.01]"
+  },
+  {
+    "code": "G03C 11/18",
+    "description": "••Coloreado [2006.01]"
+  },
+  {
+    "code": "G03C 11/20",
+    "description": "••••con ayuda de colores en polvo o en disolución [2006.01]"
+  },
+  {
+    "code": "G03C 11/22",
+    "description": "••Preparación de placas o películas para la fabricación de negativos fotográficos por procesos no fotográficos [2006.01]"
+  },
+  {
+    "code": "G03C 11/24",
+    "description": "••Eliminación de la emulsión de materiales fotográficos estropeados; Recuperación de las sustancias fotosensibles [2006.01]"
+  }
+]

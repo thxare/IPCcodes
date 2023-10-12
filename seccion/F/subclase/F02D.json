@@ -1,0 +1,418 @@
+[
+  {
+    "code": "F02D 1/00",
+    "description": "Control de las bombas de inyección de combustible, p. ej. del tipo de inyección a alta presión (F02D 3/00 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F02D 1/02",
+    "description": "••no limitado a regular el avance de la inyección, p. ej. variando la cantidad del combustible que suministra [2006.01]"
+  },
+  {
+    "code": "F02D 1/04",
+    "description": "••••por dispositivos mecánicos dependientes de la velocidad del motor, p. ej. utilizando reguladores centrífugos (F02D 1/08 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F02D 1/06",
+    "description": "••••por dispositivos dependientes de la presión del fluido de trabajo del motor (F02D 1/08 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F02D 1/08",
+    "description": "••••Transmisión de la impulsión de control al control de la bomba, p. ej. con servomotores de potencia o potencia asistida [2006.01]"
+  },
+  {
+    "code": "F02D 1/10",
+    "description": "••••••mecánica [2006.01]"
+  },
+  {
+    "code": "F02D 1/12",
+    "description": "••••••no mecánica, p. ej. hidráulica [2006.01]"
+  },
+  {
+    "code": "F02D 1/14",
+    "description": "••••••••neumática [2006.01]"
+  },
+  {
+    "code": "F02D 1/16",
+    "description": "••Regulación del avance de la inyección (F02D 1/02 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F02D 1/18",
+    "description": "••••por dispositivos no mecánicos para transmisión de la impulsión de control; con amplificación de la impulsión de control [2006.01]"
+  },
+  {
+    "code": "F02D 3/00",
+    "description": "Control de la inyección de combustible a baja presión, es decir, donde la mezcla aire-combustible que contiene el combustible así inyectado es esencialmente comprimida en la carrera de compresión del motor, por otros medios que el solo control de una bomba de inyección [2006.01]"
+  },
+  {
+    "code": "F02D 3/02",
+    "description": "••con inyección continua o con flujo continuo desde el inyector [2006.01]"
+  },
+  {
+    "code": "F02D 3/04",
+    "description": "••Control de la inyección de combustible y de la carburación, p. ej. de los dos sistemas alternativamente [2006.01]"
+  },
+  {
+    "code": "F02D 7/00",
+    "description": "Otro modo no eléctrico de control de la inyección de combustible [2006.01]"
+  },
+  {
+    "code": "F02D 7/02",
+    "description": "••Control de la inyección de combustible cuando el combustible se inyecta mediante aire comprimido [2006.01]"
+  },
+  {
+    "code": "F02D 9/02",
+    "description": "••por estrangulamiento de los conductos de toma (válvulas de estrangulamiento o sus disposiciones sobre estos conductos F02D 9/08) [2006.01]"
+  },
+  {
+    "code": "F02D 9/04",
+    "description": "••por estrangulamiento de los conductos de escape (válvulas de estrangulamiento o sus disposiciones sobre estos conductos F02D 9/08) [2006.01]"
+  },
+  {
+    "code": "F02D 9/06",
+    "description": "••••Frenado de los gases de escape [2006.01]"
+  },
+  {
+    "code": "F02D 9/08",
+    "description": "••Válvulas de estrangulamiento especialmente adaptadas a este efecto; Disposiciones de estas válvulas sobre los conductos [2006.01]"
+  },
+  {
+    "code": "F02D 9/10",
+    "description": "••••implicando aletas que pivotan [2006.01]"
+  },
+  {
+    "code": "F02D 9/12",
+    "description": "••••implicando elementos de válvulas de estrangulación deslizantes; implicando elementos de válvulas de estrangulación que se desplazan a lo largo del conducto [2006.01]"
+  },
+  {
+    "code": "F02D 9/14",
+    "description": "••••••desplazándose los elementos perpendicularmente al conducto [2006.01]"
+  },
+  {
+    "code": "F02D 9/16",
+    "description": "••••••siendo los elementos rotativos [2006.01]"
+  },
+  {
+    "code": "F02D 9/18",
+    "description": "••••implicando elementos de válvulas de estrangulamiento con paredes elásticas [2006.01]"
+  },
+  {
+    "code": "F02D 11/00",
+    "description": "Dispositivos o adaptaciones para el arranque no automático del control del motor, p. ej. arranque por operador (especialmente adaptados para ser reversibles F02D 27/00) [2006.01]"
+  },
+  {
+    "code": "F02D 11/02",
+    "description": "••caracterizados por medios de arranque controlados por un operador con la mano, con el pie o similares [2006.01]"
+  },
+  {
+    "code": "F02D 11/04",
+    "description": "••caracterizados por sistemas de control mecánicos (F02D 11/06 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F02D 11/06",
+    "description": "••caracterizados por sistemas de control no mecánicos, p. ej. sistemas de control que utilizan un fluido o sistema de control con relé de potencia o servoasistido [2006.01]"
+  },
+  {
+    "code": "F02D 11/08",
+    "description": "••••neumáticos [2006.01]"
+  },
+  {
+    "code": "F02D 11/10",
+    "description": "••••eléctricos [2006.01]"
+  },
+  {
+    "code": "F02D 13/00",
+    "description": "Control de la potencia del motor por variación de las características de funcionamiento de las válvulas de aspiración o de las válvulas de escape, p. ej. reglaje de la duración de admisión o de escape [2006.01]"
+  },
+  {
+    "code": "F02D 13/02",
+    "description": "••durante la marcha del motor [2006.01]"
+  },
+  {
+    "code": "F02D 13/04",
+    "description": "••••Utilización del motor como freno [2006.01]"
+  },
+  {
+    "code": "F02D 13/06",
+    "description": "••••Puesta fuera de servicio de los cilindros [2006.01]"
+  },
+  {
+    "code": "F02D 13/08",
+    "description": "••por funcionamiento en vacío o al ralentí del motor [2006.01]"
+  },
+  {
+    "code": "F02D 15/00",
+    "description": "Variación de la relación de compresión [2006.01]"
+  },
+  {
+    "code": "F02D 15/02",
+    "description": "••por alteración o desplazamiento de la carrera del pistón [2006.01]"
+  },
+  {
+    "code": "F02D 15/04",
+    "description": "••por cambio del volumen de la cámara de compresión sin cambio de la carrera del pistón [2006.01]"
+  },
+  {
+    "code": "F02D 17/00",
+    "description": "Control de los motores por puesta fuera de servicio individual de los cilindros; Funcionamiento en vacío o al ralentí de los motores (control o marcha en vacío por variación de las características de funcionamiento de las válvulas de admisión de las válvulas de escape F02D 13/00) [2006.01]"
+  },
+  {
+    "code": "F02D 17/02",
+    "description": "••Puesta fuera de servicio (puesta fuera de servicio de los motores en los conjuntos multimotores F02D 25/04) [2006.01]"
+  },
+  {
+    "code": "F02D 17/04",
+    "description": "••Funcionamiento en vacío o al ralentí de los motores, p. ej. por causa de condiciones anormales (dependientes de las condiciones de lubrificación F01M 1/22; condiciones dependientes de la refrigeración F01P 5/14) [2006.01]"
+  },
+  {
+    "code": "F02D 19/00",
+    "description": "Control de los motores caracterizado por el empleo de combustibles no líquidos, de combustibles múltiples o de sustancias no combustibles incorporadas a la mezcla carburante (siendo las sustancias no combustibles gaseosas F02D 21/00) [2006.01]"
+  },
+  {
+    "code": "F02D 19/02",
+    "description": "••característica de los motores que funcionan con combustibles gaseosos [2006.01]"
+  },
+  {
+    "code": "F02D 19/04",
+    "description": "••particular a los motores que funcionan con combustibles sólidos, p. ej. con carbón pulverizado [2006.01]"
+  },
+  {
+    "code": "F02D 19/06",
+    "description": "••particular a los motores que funcionan con combustibles múltiples, p. ej. alternativamente con fuel-ligero y fuel-pesado, distintos de los motores indiferentes al combustible que emplean [2006.01]"
+  },
+  {
+    "code": "F02D 19/08",
+    "description": "••••utilizando simultáneamente combustibles múltiples (F02D 19/12 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "F02D 19/10",
+    "description": "••••••particular a los motores de compresión por ignición en los cuales el combustible principal es gaseoso [2006.01]"
+  },
+  {
+    "code": "F02D 19/12",
+    "description": "••característica de los motores que funcionan con sustancias no combustibles o con productos antidetonantes, p. ej. con combustible antidetonante [2006.01]"
+  },
+  {
+    "code": "F02D 21/00",
+    "description": "Control de los motores caracterizados por su alimentación de oxígeno no extraído de aire u otro gas no combustible [2006.01]"
+  },
+  {
+    "code": "F02D 21/02",
+    "description": "••particular a los motores alimentados con oxígeno [2006.01]"
+  },
+  {
+    "code": "F02D 21/04",
+    "description": "••••con circulación de los gases de escape en circuito cerrado o semicerrado [2006.01]"
+  },
+  {
+    "code": "F02D 21/06",
+    "description": "••particular a los motores para los cuales otros gases no combustibles son incorporados al aire comburente [2006.01]"
+  },
+  {
+    "code": "F02D 21/08",
+    "description": "••••siendo el otro gas, el gas de escape del motor [2006.01]"
+  },
+  {
+    "code": "F02D 21/10",
+    "description": "••••habiendo incorporado aire secundario a la mezcla combustible-aire [2006.01]"
+  },
+  {
+    "code": "F02D 23/00",
+    "description": "Control de los motores caracterizados por ser sobrealimentados [2006.01]"
+  },
+  {
+    "code": "F02D 23/02",
+    "description": "••siendo los motores del tipo de inyección de combustible [2006.01]"
+  },
+  {
+    "code": "F02D 25/00",
+    "description": "Control de varios motores asociados [2006.01]"
+  },
+  {
+    "code": "F02D 25/02",
+    "description": "••para sincronizar la velocidad [2006.01]"
+  },
+  {
+    "code": "F02D 25/04",
+    "description": "••por puesto fuera de circuito de los motores [2006.01]"
+  },
+  {
+    "code": "F02D 27/00",
+    "description": "Control de motores caracterizados por ser reversibles [2006.01]"
+  },
+  {
+    "code": "F02D 27/02",
+    "description": "••por ejecución de un programa [2006.01]"
+  },
+  {
+    "code": "F02D 28/00",
+    "description": "Control programado de motores [2006.01]"
+  },
+  {
+    "code": "F02D 29/00",
+    "description": "Control de motores, siendo tal control específico de los dispositivos accionados por ellos, siendo los dispositivos distintos de las partes o accesorios esenciales para el funcionamiento del motor, p. ej. control de motores por los signos exteriores [2006.01]"
+  },
+  {
+    "code": "F02D 29/02",
+    "description": "••particular a los motores que accionan vehículos; particular o a los motores que accionan hélices de paso variable [2006.01]"
+  },
+  {
+    "code": "F02D 29/04",
+    "description": "••particular a los motores que accionan bombas [2006.01]"
+  },
+  {
+    "code": "F02D 29/06",
+    "description": "••particular a los motores que accionan generadores eléctricos [2006.01]"
+  },
+  {
+    "code": "F02D 31/00",
+    "description": "Utilización de reguladores no eléctricos sensibles a la velocidad para controlar los motores de combustión, no previsto en otro lugar [2006.01]"
+  },
+  {
+    "code": "F02D 33/00",
+    "description": "Control no eléctrico de la alimentación de combustible o de aire de combustión no previsto en otro lugar [2006.01]"
+  },
+  {
+    "code": "F02D 33/02",
+    "description": "••del aire de combustión [2006.01]"
+  },
+  {
+    "code": "F02D 35/00",
+    "description": "Control no eléctrico de los motores en función de las condiciones exteriores e interiores a los motores no previsto en otro lugar [2006.01]"
+  },
+  {
+    "code": "F02D 35/02",
+    "description": "••de las condiciones interiores [2006.01]"
+  },
+  {
+    "code": "F02D 37/00",
+    "description": "Control no eléctrico conjunto de  dos o varias funciones de los motores no previsto en otro lugar [2006.01]"
+  },
+  {
+    "code": "F02D 37/02",
+    "description": "••siendo una de las funciones el encendido [2006.01]"
+  },
+  {
+    "code": "F02D 39/00",
+    "description": "Otros controles no eléctricos [2006.01]"
+  },
+  {
+    "code": "F02D 39/02",
+    "description": "••para motores de cuatro tiempos [2006.01]"
+  },
+  {
+    "code": "F02D 39/04",
+    "description": "••para motores con otros ciclos diferentes del de cuatro tiempos, p. ej. de dos tiempos [2006.01]"
+  },
+  {
+    "code": "F02D 39/06",
+    "description": "••para motores en los cuales la introducción del combustible tiene lugar sensiblemente al final de la carrera de compresión [2006.01]"
+  },
+  {
+    "code": "F02D 39/08",
+    "description": "••para motores en los cuales la introducción del combustible tiene lugar sensiblemente antes de la carrera de compresión [2006.01]"
+  },
+  {
+    "code": "F02D 39/10",
+    "description": "••para motores de pistón libre; para motores sin eje principal rotativo [2006.01]"
+  },
+  {
+    "code": "F02D 41/00",
+    "description": "Control eléctrico de la alimentación de mezcla combustible o de sus constituyentes (F02D 43/00 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F02D 41/02",
+    "description": "••Disposiciones de los circuitos para producir señales de control [2006.01]"
+  },
+  {
+    "code": "F02D 41/04",
+    "description": "••••introduciendo correcciones para condiciones particulares de funcionamiento (F02D 41/14 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F02D 41/06",
+    "description": "••••••para el arranque o el recalentamiento del motor [2006.01]"
+  },
+  {
+    "code": "F02D 41/08",
+    "description": "••••••para el ralentí (F02D 41/06, F02D 41/16 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "F02D 41/10",
+    "description": "••••••para la aceleración [2006.01]"
+  },
+  {
+    "code": "F02D 41/12",
+    "description": "••••••para la deceleración [2006.01]"
+  },
+  {
+    "code": "F02D 41/14",
+    "description": "••••introduciendo las correcciones en bucle cerrado [2006.01]"
+  },
+  {
+    "code": "F02D 41/16",
+    "description": "••••••para el ralentí [2006.01]"
+  },
+  {
+    "code": "F02D 41/18",
+    "description": "••••midiendo el flujo de admisión de aire [2006.01]"
+  },
+  {
+    "code": "F02D 41/20",
+    "description": "••Circuitos de salida, p. ej. para el control de las corrientes en las bobinas de control [2006.01]"
+  },
+  {
+    "code": "F02D 41/22",
+    "description": "••Dispositivos de seguridad de aviso en caso de condiciones anormales [2006.01]"
+  },
+  {
+    "code": "F02D 41/24",
+    "description": "••caracterizado por la utilización de medios digitales [2006.01]"
+  },
+  {
+    "code": "F02D 41/26",
+    "description": "••••utilizando computadores, p. ej. microprocesadores [2006.01]"
+  },
+  {
+    "code": "F02D 41/28",
+    "description": "••••••Circuitos de interconexión [2006.01]"
+  },
+  {
+    "code": "F02D 41/30",
+    "description": "••Control de la inyección de combustible [2006.01]"
+  },
+  {
+    "code": "F02D 41/32",
+    "description": "••••del tipo de baja presión [2006.01]"
+  },
+  {
+    "code": "F02D 41/34",
+    "description": "••••••con medios para controlar el instante o la duración de la inyección [2006.01]"
+  },
+  {
+    "code": "F02D 41/36",
+    "description": "••••••con medios para controlar la distribución [2006.01]"
+  },
+  {
+    "code": "F02D 41/38",
+    "description": "••••del tipo de alta presión [2006.01]"
+  },
+  {
+    "code": "F02D 41/40",
+    "description": "••••••con medios para controlar el instante o la duración de la inyección [2006.01]"
+  },
+  {
+    "code": "F02D 43/00",
+    "description": "Control eléctrico simultáneo de varias funciones, p. ej. encendido, mezcla aire-combustible, recirculación, sobrealimentación o tratamiento de los gases de escape [2006.01]"
+  },
+  {
+    "code": "F02D 43/02",
+    "description": "••utilizando únicamente medios analógicos [2006.01]"
+  },
+  {
+    "code": "F02D 43/04",
+    "description": "••utilizando únicamente medios digitales [2006.01]"
+  },
+  {
+    "code": "F02D 45/00",
+    "description": "Control eléctrico no previsto en los grupos F02D 41/00-F02D 43/00 [2006.01]"
+  }
+]

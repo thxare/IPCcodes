@@ -1,0 +1,1090 @@
+[
+  {
+    "code": "H04B 1/00",
+    "description": "Detalles de los sistemas de transmision, no cubiertos por uno de los grupos H04B 3/00-H04B 13/00; Detalles de los sistemas de transmisión no caracterizados por el medio utilizado para la transmisión [2006.01]"
+  },
+  {
+    "code": "H04B 1/02",
+    "description": "••Emisores [2006.01]"
+  },
+  {
+    "code": "H04B 1/03",
+    "description": "••••Detalles de construcción, p. ej. cajas, fundas [2006.01]"
+  },
+  {
+    "code": "H04B 1/034",
+    "description": "••••••Emisores portátiles [2006.01]"
+  },
+  {
+    "code": "H04B 1/036",
+    "description": "••••••Disposiciones para la refrigeración [2006.01]"
+  },
+  {
+    "code": "H04B 1/04",
+    "description": "••••Circuitos [2006.01]"
+  },
+  {
+    "code": "H04B 1/06",
+    "description": "••Receptores [2006.01]"
+  },
+  {
+    "code": "H04B 1/08",
+    "description": "••••Detalles de construcción, p. ej. ebanistería [2006.01]"
+  },
+  {
+    "code": "H04B 1/10",
+    "description": "••••Dispositivos asociados al receptor para limitar o suprimir el ruido y las interferencias [2006.01]"
+  },
+  {
+    "code": "H04B 1/12",
+    "description": "••••••Montajes de neutralización, de equilibrado o de compensación [2006.01]"
+  },
+  {
+    "code": "H04B 1/14",
+    "description": "••••••Montajes de desintonización automáticos [2006.01]"
+  },
+  {
+    "code": "H04B 1/16",
+    "description": "••••Circuitos [2006.01]"
+  },
+  {
+    "code": "H04B 1/18",
+    "description": "••••••Circuitos de entrada, p. ej. para acoplamiento a una antena o a una línea de transmisión (redes de acoplamiento entre antenas o líneas y receptores, independientes de la naturaleza del receptor H03H) [2006.01]"
+  },
+  {
+    "code": "H04B 1/20",
+    "description": "••••••para el acoplamiento de un pick-up de gramófono, de los bornes de salida de un registrador o de un micrófono a un receptor [2006.01]"
+  },
+  {
+    "code": "H04B 1/22",
+    "description": "••••••para receptores en los cuales no se genera una onda local [2006.01]"
+  },
+  {
+    "code": "H04B 1/24",
+    "description": "••••••••comprendiendo el receptor al menos un dispositivo semiconductor que tiene tres electrodos o más [2006.01]"
+  },
+  {
+    "code": "H04B 1/26",
+    "description": "••••••para receptores superheterodinos (cambio de frecuencia múltiple H03D 7/16) [2006.01]"
+  },
+  {
+    "code": "H04B 1/28",
+    "description": "••••••••el receptor comprende al menos un dispositivo de semiconductores que tiene tres electrodos o más [2006.01]"
+  },
+  {
+    "code": "H04B 1/30",
+    "description": "••••••para receptores homodinos o sincrodinos (circuitos demoduladores H03D 1/22) [2006.01]"
+  },
+  {
+    "code": "H04B 1/38",
+    "description": "••Transceptores, es decir, dispositivos en los cuales el emisor y el receptor forman una unidad estructural y en la cual al menos una parte es utilizada para funciones de emisión y de recepción [2015.01]"
+  },
+  {
+    "code": "H04B 1/3805",
+    "description": "••••con receptores auxiliares incorporados [2015.01]"
+  },
+  {
+    "code": "H04B 1/3816",
+    "description": "••••Disposiciones mecánicas para colocar dispositivos de identificación, p. ej. tarjetas o chips; con conectores para programar dispositivos de identificación [2015.01]"
+  },
+  {
+    "code": "H04B 1/3818",
+    "description": "••••••Disposiciones para facilitar la inserción o extracción de dispositivos de identificación [2015.01]"
+  },
+  {
+    "code": "H04B 1/3822",
+    "description": "••••especialmente adaptados para su uso en vehículos (H04B 1/3827 tiene prioridad) [2015.01]"
+  },
+  {
+    "code": "H04B 1/3827",
+    "description": "••••Transceptores portátiles [2015.01]"
+  },
+  {
+    "code": "H04B 1/3877",
+    "description": "••••••Disposiciones para permitir el uso de transceptores portátiles en una posición fija, p. ej. cunas soporte o repetidores [2015.01]"
+  },
+  {
+    "code": "H04B 1/3883",
+    "description": "••••••Disposiciones para montar baterías o cargadores de baterías [2015.01]"
+  },
+  {
+    "code": "H04B 1/3888",
+    "description": "••••••Disposiciones para el transporte y la protección de transceptoress [2015.01]"
+  },
+  {
+    "code": "H04B 1/40",
+    "description": "••••Circuitos [2015.01]"
+  },
+  {
+    "code": "H04B 1/401",
+    "description": "••••••para seleccionar o indicar el modo de funcionamiento [2015.01]"
+  },
+  {
+    "code": "H04B 1/403",
+    "description": "••••••utilizando el mismo oscilador para generar tanto la frecuencia del emisor como la frecuencia del oscilador local del receptor [2015.01]"
+  },
+  {
+    "code": "H04B 1/405",
+    "description": "••••••••con múltiples canales discretos [2015.01]"
+  },
+  {
+    "code": "H04B 1/408",
+    "description": "••••••••siendo la frecuencia del oscilador del emisor idéntica a la frecuencia del oscilador local del receptor [2015.01]"
+  },
+  {
+    "code": "H04B 1/44",
+    "description": "••••••Conmutación transmisión-recepción [2006.01]"
+  },
+  {
+    "code": "H04B 1/46",
+    "description": "••••••••por señales de frecuencia vocal; por señales piloto [2006.01]"
+  },
+  {
+    "code": "H04B 1/48",
+    "description": "••••••••en circuitos para conectar el emisor y el receptor a una vía de transmisión común, p. ej. por la energía del emisor [2006.01]"
+  },
+  {
+    "code": "H04B 1/50",
+    "description": "••••••utilizando frecuencias diferentes para las dos direcciones de la comunicación [2006.01]"
+  },
+  {
+    "code": "H04B 1/52",
+    "description": "••••••••Montajes híbridos, es decir, para la transición bilateral de una vía a una sola transmisión sobre cada una de las dos vías o viceversa [2015.01]"
+  },
+  {
+    "code": "H04B 1/525",
+    "description": "••••••••••con medios para la reducción de las pérdidas de la señal del emisor en el receptor [2015.01]"
+  },
+  {
+    "code": "H04B 1/54",
+    "description": "••••••utilizando la misma frecuencia para dos direcciones de comunicación (H04B 1/44 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H04B 1/56",
+    "description": "••••••••con posibilidad de comunicación simultánea en dos direcciones [2006.01]"
+  },
+  {
+    "code": "H04B 1/58",
+    "description": "••••••••Montajes híbridos, es decir, para la transición de una transmisión bilateral sobre una vía a una transmisión sobre cada una de las dos vías o viceversa [2006.01]"
+  },
+  {
+    "code": "H04B 1/59",
+    "description": "••Respondedor; Transpondedor [2006.01]"
+  },
+  {
+    "code": "H04B 1/60",
+    "description": "••Supervisión de estaciones de repetidores no vigilados [2006.01]"
+  },
+  {
+    "code": "H04B 1/62",
+    "description": "••para producir una predistorsión de la señal en la emisión y una corrección correspondiente en la recepción, p. ej. para mejorar la relación señal ruido [2006.01]"
+  },
+  {
+    "code": "H04B 1/64",
+    "description": "••••Montajes para la compresión o expansión del volumen [2006.01]"
+  },
+  {
+    "code": "H04B 1/66",
+    "description": "••para reducir el ancho de banda de las señales; para mejorar la eficacia de la transmisión (H04B 1/68 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H04B 1/68",
+    "description": "••para suprimir total o parcialmente la portadora o una banda lateral [2006.01]"
+  },
+  {
+    "code": "H04B 1/69",
+    "description": "••Técnicas de ensanche del espectro [2011.01]"
+  },
+  {
+    "code": "H04B 1/692",
+    "description": "••••Técnicas híbridas que usan combinaciones de dos o más técnicas de ensanchamiento del espectro [2011.01]"
+  },
+  {
+    "code": "H04B 1/707",
+    "description": "••••que usa modulación en secuencia directa [2011.01]"
+  },
+  {
+    "code": "H04B 1/7073",
+    "description": "••••••Aspectos de sincronización [2011.01]"
+  },
+  {
+    "code": "H04B 1/7075",
+    "description": "••••••••con código de adquisición de fase [2011.01]"
+  },
+  {
+    "code": "H04B 1/7077",
+    "description": "••••••••••Adquisición multi-paso, p. ej. multiple intervalo programado (multi-dwell), grueso-fino o validación [2011.01]"
+  },
+  {
+    "code": "H04B 1/708",
+    "description": "••••••••••Implementación paralela [2011.01]"
+  },
+  {
+    "code": "H04B 1/7083",
+    "description": "••••••••Búsqueda de celda, p. ej. utilizando una aproximación en tres pasos [2011.01]"
+  },
+  {
+    "code": "H04B 1/7085",
+    "description": "••••••••que usa un lazo de seguimiento de código, p. ej. un lazo de retraso bloqueado [2011.01]"
+  },
+  {
+    "code": "H04B 1/7087",
+    "description": "••••••••Aspectos de sincronización de portadora [2011.01]"
+  },
+  {
+    "code": "H04B 1/709",
+    "description": "••••••Estructura de correlación [2011.01]"
+  },
+  {
+    "code": "H04B 1/7093",
+    "description": "••••••••Tipo de filtro adaptado [2011.01]"
+  },
+  {
+    "code": "H04B 1/7095",
+    "description": "••••••••Tipo correlado deslizante [2011.01]"
+  },
+  {
+    "code": "H04B 1/7097",
+    "description": "••••••Aspectos relacionados con las interferencias [2011.01]"
+  },
+  {
+    "code": "H04B 1/71",
+    "description": "••••••••siendo las interferencias interferencias de banda estrecha [2011.01]"
+  },
+  {
+    "code": "H04B 1/7103",
+    "description": "••••••••siendo las interferencias interferencias de múltiple acceso [2011.01]"
+  },
+  {
+    "code": "H04B 1/7105",
+    "description": "••••••••••Técnicas de detección de unión, p. ej. detectores lineales [2011.01]"
+  },
+  {
+    "code": "H04B 1/7107",
+    "description": "••••••••••Cancelación de interferencias substractivas [2011.01]"
+  },
+  {
+    "code": "H04B 1/711",
+    "description": "••••••••siendo las interferencias interferencias multicamino [2011.01]"
+  },
+  {
+    "code": "H04B 1/7113",
+    "description": "••••••••••Determinación del perfil del camino [2011.01]"
+  },
+  {
+    "code": "H04B 1/7115",
+    "description": "••••••••••Combinación constructiva de señales multicamino, p. ej. receptores RAKE [2018.01]"
+  },
+  {
+    "code": "H04B 1/7117",
+    "description": "••••••••••••Selección, reselección, asignación, reasignación de caminos a subreceptores (fingers), p. ej. control del tiempo de compensación de los subreceptores asignados [2011.01]"
+  },
+  {
+    "code": "H04B 1/712",
+    "description": "••••••••••••Peso de los subreceptores (fingers) para su combinación, p. ej. control de amplitud o rotación de fase que utiliza un lazo interno [2011.01]"
+  },
+  {
+    "code": "H04B 1/713",
+    "description": "••••que utiliza salto de frecuencia [2011.01]"
+  },
+  {
+    "code": "H04B 1/7136",
+    "description": "••••••Disposiciones para la generación del salto de frecuencia, p. ej.  utilizando bancos de fuentes de frecuencia, utilizando ajuste continuo o utilizando una transformación [2011.01]"
+  },
+  {
+    "code": "H04B 1/7143",
+    "description": "••••••Disposiciones para la generación de patrones de salto [2011.01]"
+  },
+  {
+    "code": "H04B 1/715",
+    "description": "••••••Aspectos relacionados con la interferencia [2011.01]"
+  },
+  {
+    "code": "H04B 1/7156",
+    "description": "••••••Disposiciones para sincronización de secuencias [2011.01]"
+  },
+  {
+    "code": "H04B 1/7163",
+    "description": "••••que utilizan impulsos de radio [2011.01]"
+  },
+  {
+    "code": "H04B 1/717",
+    "description": "••••••Aspectos relacionados con el pulso [2011.01]"
+  },
+  {
+    "code": "H04B 1/7176",
+    "description": "••••••Mapero de datos, p. ej. modulación [2011.01]"
+  },
+  {
+    "code": "H04B 1/7183",
+    "description": "••••••Sincronización [2011.01]"
+  },
+  {
+    "code": "H04B 1/719",
+    "description": "••••••Aspectos relacionados con la interferencia [2011.01]"
+  },
+  {
+    "code": "H04B 1/72",
+    "description": "••Circuitos o componentes para simular las antenas, p. ej. antena ficticia [2006.01]"
+  },
+  {
+    "code": "H04B 1/74",
+    "description": "••para aumentar la fiabilidad, p. ej. utilizando canales o aparatos suplementarios o de reserva [2006.01]"
+  },
+  {
+    "code": "H04B 1/76",
+    "description": "••Emisores o receptores pilotos para el control de la transmisión o para la igualación [2006.01]"
+  },
+  {
+    "code": "H04B 3/00",
+    "description": "Sistemas de líneas de transmisión (combinados con sistemas de transmisión de campo cercano H04B 5/00) [2006.01]"
+  },
+  {
+    "code": "H04B 3/02",
+    "description": "••Detalles [2006.01]"
+  },
+  {
+    "code": "H04B 3/03",
+    "description": "••••Circuitos híbridos (para emisores-receptores H04B 1/52, H04B 1/58) [2006.01]"
+  },
+  {
+    "code": "H04B 3/04",
+    "description": "••••Control de transmisión; Igualación [2006.01]"
+  },
+  {
+    "code": "H04B 3/06",
+    "description": "••••••por señal transmitida [2006.01]"
+  },
+  {
+    "code": "H04B 3/08",
+    "description": "••••••••en el bucle de realimentación negativa del amplificador de línea [2006.01]"
+  },
+  {
+    "code": "H04B 3/10",
+    "description": "••••••por señal piloto [2006.01]"
+  },
+  {
+    "code": "H04B 3/11",
+    "description": "••••••••utilizando un hilo piloto (H04B 3/12 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H04B 3/12",
+    "description": "••••••••en el bucle de realimentación negativa del amplificador de línea [2006.01]"
+  },
+  {
+    "code": "H04B 3/14",
+    "description": "••••••caracterizado por la red de igualación utilizada [2006.01]"
+  },
+  {
+    "code": "H04B 3/16",
+    "description": "••••••caracterizado por la red de impedancia negativa utilizada [2006.01]"
+  },
+  {
+    "code": "H04B 3/18",
+    "description": "••••••••en donde la red comprende dispositivos semiconductores [2006.01]"
+  },
+  {
+    "code": "H04B 3/20",
+    "description": "••••Reducción de efectos de ecos o zumbidos; Apertura o cierre de la vía de emisión; Control de la transmisión en una dirección o la otra [2006.01]"
+  },
+  {
+    "code": "H04B 3/21",
+    "description": "••••••utilizando un conjunto de filtros pasabandas [2006.01]"
+  },
+  {
+    "code": "H04B 3/23",
+    "description": "••••••utilizando una reproducción de la señal transmitida desplazada en el tiempo, p. ej. por dispositivo de anulación [2006.01]"
+  },
+  {
+    "code": "H04B 3/26",
+    "description": "••••Mejora de la característica de frecuencia por medio de bobinas de carga [2006.01]"
+  },
+  {
+    "code": "H04B 3/28",
+    "description": "••••Reducción de perturbaciones causadas por las corrientes inducidas en el revestimiento o armadura del cable [2006.01]"
+  },
+  {
+    "code": "H04B 3/30",
+    "description": "••••Reducción de perturbaciones debidas a la corriente de desequilibrio en una línea normalmente equilibrada [2006.01]"
+  },
+  {
+    "code": "H04B 3/32",
+    "description": "••••Reducción de la diafonía, p. ej. por compensación [2006.01]"
+  },
+  {
+    "code": "H04B 3/34",
+    "description": "••••••por interconexión sistemática de trozos de cable durante el tendido; por adición al cable de elementos equilibradores durante el tendido [2006.01]"
+  },
+  {
+    "code": "H04B 3/36",
+    "description": "••••Circuitos repetidores (H04B 3/58 takes precedence) [2006.01]"
+  },
+  {
+    "code": "H04B 3/38",
+    "description": "••••••para señales en dos gamas de frecuencia, transmitidas en direcciones opuestas, sobre la misma vía de transmisión [2006.01]"
+  },
+  {
+    "code": "H04B 3/40",
+    "description": "••••Líneas artificiales; Redes que simulan una línea de cierta longitud [2006.01]"
+  },
+  {
+    "code": "H04B 3/42",
+    "description": "••••Circuitos para derivar las señales de llamada [2006.01]"
+  },
+  {
+    "code": "H04B 3/44",
+    "description": "••••Montajes para la alimentación de un repetidor sobre una línea de transmisión [2006.01]"
+  },
+  {
+    "code": "H04B 3/46",
+    "description": "••••Monitorización; Ensayos [2015.01]"
+  },
+  {
+    "code": "H04B 3/462",
+    "description": "••••••Ensayos del retardo de grupo o del desplazamiento de fase, p. ej. fluctuación de la fase de la señal de temporización [2015.01]"
+  },
+  {
+    "code": "H04B 3/466",
+    "description": "••••••••Ensayos de la atenuación en combinación con al menos el retardo de grupo o el desplazamiento de fase [2015.01]"
+  },
+  {
+    "code": "H04B 3/48",
+    "description": "••••••Ensayos de la atenuación (H04B 3/466 tiene prioridad) [2015.01]"
+  },
+  {
+    "code": "H04B 3/487",
+    "description": "••••••Ensayos de los efectos de la diafonía [2015.01]"
+  },
+  {
+    "code": "H04B 3/493",
+    "description": "••••••Ensayos de los efectos de ecos o zumbidos [2015.01]"
+  },
+  {
+    "code": "H04B 3/50",
+    "description": "••Sistemas de transmisión entre estaciones fijas vía líneas de transmisión bifilares (H04B 3/54 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H04B 3/52",
+    "description": "••Sistemas de transmisión entre estaciones fijas vía guías de ondas [2006.01]"
+  },
+  {
+    "code": "H04B 3/54",
+    "description": "••Sistemas de transmisión vía líneas de distribución de energía (en los sistemas de señales de alarma G08B 25/06) [2006.01]"
+  },
+  {
+    "code": "H04B 3/56",
+    "description": "••••Circuitos de acoplamiento, bloqueo o derivación de señales [2006.01]"
+  },
+  {
+    "code": "H04B 3/58",
+    "description": "••••Circuitos repetidores [2006.01]"
+  },
+  {
+    "code": "H04B 3/60",
+    "description": "••Sistemas de comunicación entre estaciones relativamente móviles, p. ej. comunicación para los ascensores (H04B 3/54 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H04B 5/00",
+    "description": "Sistemas de transmisión de inducción directa, p. ej. del tipo de bucle inductivo [2006.01]"
+  },
+  {
+    "code": "H04B 5/02",
+    "description": "••utilizando un emisor-receptor [2006.01]"
+  },
+  {
+    "code": "H04B 5/04",
+    "description": "••Sistemas de llamada [2006.01]"
+  },
+  {
+    "code": "H04B 5/06",
+    "description": "••utilizando un emisor portátil asociado a un micrófono [2006.01]"
+  },
+  {
+    "code": "H04B 7/00",
+    "description": "Sistemas de radiotransmisión, es decir, utilizando un campo de radiación (H04B 10/00, H04B 15/00 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H04B 7/005",
+    "description": "••Control de la transmisión; Igualación [2006.01]"
+  },
+  {
+    "code": "H04B 7/01",
+    "description": "••Reducción del desplazamiento de fase [2006.01]"
+  },
+  {
+    "code": "H04B 7/015",
+    "description": "••Reducción de los efectos del eco [2006.01]"
+  },
+  {
+    "code": "H04B 7/02",
+    "description": "••Sistemas que utilizan técnicas de diversidad; Sistemas multi-antena, es decir, transmisión o recepción utilizando múltiples antenas (receptores RAKE H04B 1/7115) [2018.01]"
+  },
+  {
+    "code": "H04B 7/022",
+    "description": "••••Diversidad espacial; Macro-diversidad (utilizando dos o más antenas independientes espaciadas H04B 7/04) [2017.01]"
+  },
+  {
+    "code": "H04B 7/024",
+    "description": "••••••Utilización cooperativa de antenas en varios emplazamientos, p. ej. en sistemas multipunto coordinados o sistemas cooperativos de múltiple entrada y múltiple salida [MIMO] [2017.01]"
+  },
+  {
+    "code": "H04B 7/026",
+    "description": "••••••Diversidad cooperativa, p. ej. utilizando estaciones fijas o móviles como repetidores [2017.01]"
+  },
+  {
+    "code": "H04B 7/04",
+    "description": "••••utilizando una o más antenas independientes espaciadas [2017.01]"
+  },
+  {
+    "code": "H04B 7/0404",
+    "description": "••••••comprendiendo la estación móvil antenas múltiples, p. ej. para proporcionar diversidad  de enlace ascendente (uplink) [2017.01]"
+  },
+  {
+    "code": "H04B 7/0408",
+    "description": "••••••utilizando dos o más haces, es decir, diversidad de haz [2017.01]"
+  },
+  {
+    "code": "H04B 7/0413",
+    "description": "••••••sistemas MIMO (múltiple entrada - múltiple salida) [2017.01]"
+  },
+  {
+    "code": "H04B 7/0417",
+    "description": "••••••••Sistemas de retroalimentación [2017.01]"
+  },
+  {
+    "code": "H04B 7/0426",
+    "description": "••••••••Distribución de potencia [2017.01]"
+  },
+  {
+    "code": "H04B 7/0452",
+    "description": "••••••••Sistemas multiusuario MIMO (múltiple entrada - múltiple salida) [2017.01]"
+  },
+  {
+    "code": "H04B 7/0456",
+    "description": "••••••••Selección de matrices de precodificación o de libro de códigos, p. ej. utilizando matrices de ponderación de antenas [2017.01]"
+  },
+  {
+    "code": "H04B 7/0491",
+    "description": "••••••utilizando dos o más sectores, es decir, diversidad de sector [2017.01]"
+  },
+  {
+    "code": "H04B 7/0495",
+    "description": "••••••••utilizando sectores superpuestos en la misma estación base para implementar antenas MIMO (múltiple entrada - múltiple salida) [2017.01]"
+  },
+  {
+    "code": "H04B 7/06",
+    "description": "••••••en la estación de emisión [2006.01]"
+  },
+  {
+    "code": "H04B 7/08",
+    "description": "••••••en la estación de recepción [2006.01]"
+  },
+  {
+    "code": "H04B 7/10",
+    "description": "••••Diversidad de polarización; Diversidad direccional [2017.01]"
+  },
+  {
+    "code": "H04B 7/12",
+    "description": "••••Diversidad de frecuencia [2006.01]"
+  },
+  {
+    "code": "H04B 7/14",
+    "description": "••Sistemas repetidores [2006.01]"
+  },
+  {
+    "code": "H04B 7/145",
+    "description": "••••Sistemas repetidores pasivos [2006.01]"
+  },
+  {
+    "code": "H04B 7/15",
+    "description": "••••Sistemas repetidores activos [2006.01]"
+  },
+  {
+    "code": "H04B 7/155",
+    "description": "••••••Estaciones terrestres (H04B 7/204 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H04B 7/165",
+    "description": "••••••••que emplean modulación angular [2006.01]"
+  },
+  {
+    "code": "H04B 7/17",
+    "description": "••••••••que emplean modulación por impulsos, p. ej. modulación por impulsos codificados [2006.01]"
+  },
+  {
+    "code": "H04B 7/185",
+    "description": "••••••Estaciones espaciales o aéreas (H04B 7/204 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H04B 7/19",
+    "description": "••••••••Estaciones geo-sincrónicas [2006.01]"
+  },
+  {
+    "code": "H04B 7/195",
+    "description": "••••••••Estaciones no sincrónicas [2006.01]"
+  },
+  {
+    "code": "H04B 7/204",
+    "description": "••••••Acceso múltiple [2006.01]"
+  },
+  {
+    "code": "H04B 7/208",
+    "description": "••••••••Acceso múltiple por división de frecuencia [2006.01]"
+  },
+  {
+    "code": "H04B 7/212",
+    "description": "••••••••Acceso múltiple por reparto en el tiempo [2006.01]"
+  },
+  {
+    "code": "H04B 7/216",
+    "description": "••••••••Acceso múltiple por división en código o por ensanche de espectro [2006.01]"
+  },
+  {
+    "code": "H04B 7/22",
+    "description": "••Sistemas de propagación por difusión [2006.01]"
+  },
+  {
+    "code": "H04B 7/24",
+    "description": "••para comunicación entre varias estaciones (redes de comunicación inalámbricas H04W) [2006.01]"
+  },
+  {
+    "code": "H04B 7/26",
+    "description": "••••en que al menos una es móvil [2006.01]"
+  },
+  {
+    "code": "H04B 10/00",
+    "description": "Sistemas de transmisión que utilizan haces de radiación electromagnéticas u otro tipo de ondas, p. ej. la luz, los infrarrojos, ultravioletas o radiación corpuscular, p. ej. comunicación cuántica [2013.01]"
+  },
+  {
+    "code": "H04B 10/03",
+    "description": "••Disposiciones para la recuperación de fallos [2013.01]"
+  },
+  {
+    "code": "H04B 10/032",
+    "description": "••••utilizando sistemas de acceso y protección [2013.01]"
+  },
+  {
+    "code": "H04B 10/035",
+    "description": "••••utilizando conexión en bucle [2013.01]"
+  },
+  {
+    "code": "H04B 10/038",
+    "description": "••••utilizando desvios (bypass) [2013.01]"
+  },
+  {
+    "code": "H04B 10/07",
+    "description": "••Disposiciones para el seguimiento o prueba de los sistemas de transmisión; Disposiciones para la medición de fallos del sistema de transmisións [2013.01]"
+  },
+  {
+    "code": "H04B 10/071",
+    "description": "••••utilizando una señal reflejada, p. ej.: utilizando reflectómetros ópticas en el  dominio de tiempo [OTDR] [2013.01]"
+  },
+  {
+    "code": "H04B 10/073",
+    "description": "••••utilizando una señal sin servicio (H04B 10/071 tiene prioridad) [2013.01]"
+  },
+  {
+    "code": "H04B 10/075",
+    "description": "••••utilizando una señal en servicio (H04B 10/071 tiene prioridad) [2013.01]"
+  },
+  {
+    "code": "H04B 10/077",
+    "description": "••••••utilizando una señal de supervisión o adicional [2013.01]"
+  },
+  {
+    "code": "H04B 10/079",
+    "description": "••••••utilizando mediciones de la señal de datos [2013.01]"
+  },
+  {
+    "code": "H04B 10/11",
+    "description": "••Disposiciones específicas para la transmisión en el espacio libre, es decir, transmisión a través del aire o de vacío [2013.01]"
+  },
+  {
+    "code": "H04B 10/112",
+    "description": "••••Línea de visión directa a través de un rango amplio [2013.01]"
+  },
+  {
+    "code": "H04B 10/114",
+    "description": "••••Sistemas de interior o rango cercano [2013.01]"
+  },
+  {
+    "code": "H04B 10/116",
+    "description": "••••••Comunicaciones con luz visible [2013.01]"
+  },
+  {
+    "code": "H04B 10/118",
+    "description": "••••especialmente adaptados para la comunicación por satélite [2013.01]"
+  },
+  {
+    "code": "H04B 10/25",
+    "description": "••Disposiciones específicas para la transmisión por fibra [2013.01]"
+  },
+  {
+    "code": "H04B 10/2507",
+    "description": "••••para la reducción o eliminación de la distorsión o dispersión [2013.01]"
+  },
+  {
+    "code": "H04B 10/2513",
+    "description": "••••••debido a la dispersión cromática [2013.01]"
+  },
+  {
+    "code": "H04B 10/2519",
+    "description": "••••••••utilizando redes de Bragg [2013.01]"
+  },
+  {
+    "code": "H04B 10/2525",
+    "description": "••••••••utilizando compensadores de dispersión fibras [2013.01]"
+  },
+  {
+    "code": "H04B 10/2531",
+    "description": "••••••••utilizando la inversión espectral [2013.01]"
+  },
+  {
+    "code": "H04B 10/2537",
+    "description": "••••••debido a procesos de dispersión, p. ej.: Raman o dispersión Brillouin [2013.01]"
+  },
+  {
+    "code": "H04B 10/2543",
+    "description": "••••••debido a no linealidades de la fibra, p. ej.: efecto Kerr [2013.01]"
+  },
+  {
+    "code": "H04B 10/255",
+    "description": "••••••••Auto-modulación de fase [SPM] [2013.01]"
+  },
+  {
+    "code": "H04B 10/2557",
+    "description": "••••••••Modulación por cruce fase [XPM] [2013.01]"
+  },
+  {
+    "code": "H04B 10/2563",
+    "description": "••••••••Mezcla de cuatro ondas [FWM] [2013.01]"
+  },
+  {
+    "code": "H04B 10/2569",
+    "description": "••••••debido a la dispersión del modo de polarización [PMD] [2013.01]"
+  },
+  {
+    "code": "H04B 10/2575",
+    "description": "••••Radio-sobre-fibra, p. ej.: la señal de radio de frecuencia modulada sobre una portadora óptica [2013.01]"
+  },
+  {
+    "code": "H04B 10/2581",
+    "description": "••••transmisión multimodo [2013.01]"
+  },
+  {
+    "code": "H04B 10/2587",
+    "description": "••••utilizando una sola fuente de luz para múltiples estaciones [2013.01]"
+  },
+  {
+    "code": "H04B 10/27",
+    "description": "••Disposiciones para el funcionamiento de red [2013.01]"
+  },
+  {
+    "code": "H04B 10/272",
+    "description": "••••Redes tipo estrella [2013.01]"
+  },
+  {
+    "code": "H04B 10/275",
+    "description": "••••Redes tipo anillo [2013.01]"
+  },
+  {
+    "code": "H04B 10/278",
+    "description": "••••Redes tipo Bus [2013.01]"
+  },
+  {
+    "code": "H04B 10/29",
+    "description": "••Repetidores [2013.01]"
+  },
+  {
+    "code": "H04B 10/291",
+    "description": "••••en el cual tratamiento o la amplificación se lleva a cabo sin necesidad de conversión de la señal principal del dominio óptico [2013.01]"
+  },
+  {
+    "code": "H04B 10/293",
+    "description": "••••••Control de potencia de señal [2013.01]"
+  },
+  {
+    "code": "H04B 10/294",
+    "description": "••••••••en un sistema de múltiples longitudes de onda, p. ej.: ecualización de la ganancia [2013.01]"
+  },
+  {
+    "code": "H04B 10/296",
+    "description": "••••••••••Control de potencia transitoria, p. ej.: debido a inserción / extracción de canales o rápidas fluctuaciones en la potencia de entrada [2013.01]"
+  },
+  {
+    "code": "H04B 10/297",
+    "description": "••••••amplificación bidireccional [2013.01]"
+  },
+  {
+    "code": "H04B 10/299",
+    "description": "••••••Procesamiento de la forma de onda de  la señal, p. ej.:remodelación o reajuste tiempos [2013.01]"
+  },
+  {
+    "code": "H04B 10/40",
+    "description": "••Transceptores [2013.01]"
+  },
+  {
+    "code": "H04B 10/43",
+    "description": "••••usando un solo componente tanto como fuente  y receptor de luz, p. ej.: utilizando un fotoemisor como un fotorreceptor [2013.01]"
+  },
+  {
+    "code": "H04B 10/50",
+    "description": "••Transmisores [2013.01]"
+  },
+  {
+    "code": "H04B 10/508",
+    "description": "••••La generación de pulsos, p. ej.: generación de solitones [2013.01]"
+  },
+  {
+    "code": "H04B 10/516",
+    "description": "••••Detalles de codificación o modulación [2013.01]"
+  },
+  {
+    "code": "H04B 10/524",
+    "description": "••••••Modulación por pulsos [2013.01]"
+  },
+  {
+    "code": "H04B 10/532",
+    "description": "••••••Modulación por polarización [2013.01]"
+  },
+  {
+    "code": "H04B 10/54",
+    "description": "••••••Modulación por intensidad [2013.01]"
+  },
+  {
+    "code": "H04B 10/548",
+    "description": "••••••Modulación por fase o frecuencia [2013.01]"
+  },
+  {
+    "code": "H04B 10/556",
+    "description": "••••••••Modulación digital, p. ej.:modulación por desplazamiento de fase diferencial [DPSK] o modulación por desplazamiento de frecuencia [FSK] [2013.01]"
+  },
+  {
+    "code": "H04B 10/564",
+    "description": "••••Control de potencia [2013.01]"
+  },
+  {
+    "code": "H04B 10/572",
+    "description": "••••Control de la longitud de onda [2013.01]"
+  },
+  {
+    "code": "H04B 10/58",
+    "description": "••••Compensación de no linealidades de la salida del transmisor [2013.01]"
+  },
+  {
+    "code": "H04B 10/588",
+    "description": "••••••en sistemas externos de modulación [2013.01]"
+  },
+  {
+    "code": "H04B 10/60",
+    "description": "••Receptores [2013.01]"
+  },
+  {
+    "code": "H04B 10/61",
+    "description": "••••Receptores coherentes [2013.01]"
+  },
+  {
+    "code": "H04B 10/63",
+    "description": "••••••Homodino [2013.01]"
+  },
+  {
+    "code": "H04B 10/64",
+    "description": "••••••Heterodino [2013.01]"
+  },
+  {
+    "code": "H04B 10/66",
+    "description": "••••Receptores no coherentes, p. ej.: mediante la detección directa [2013.01]"
+  },
+  {
+    "code": "H04B 10/67",
+    "description": "••••••Disposiciones ópticas en el receptor [2013.01]"
+  },
+  {
+    "code": "H04B 10/69",
+    "description": "••••••Disposiciones eléctricas en el receptor [2013.01]"
+  },
+  {
+    "code": "H04B 10/70",
+    "description": "••Comunicación cuántica (fotonica) [2013.01]"
+  },
+  {
+    "code": "H04B 10/80",
+    "description": "••Aspectos ópticos relacionados con el uso de la transmisión óptica para aplicaciones específicas, no previstos en los grupos H04B 10/03-H04B 10/70, p. ej.:la alimentación de potencia óptica o transmisión óptica a través del agua [2013.01]"
+  },
+  {
+    "code": "H04B 10/85",
+    "description": "••••Protección contra el acceso no autorizado, p. ej. protección contra intercepción [2013.01]"
+  },
+  {
+    "code": "H04B 10/90",
+    "description": "••Sistemas de transmisión no ópticos, p. ej.:sistemas de transmisión que emplean radiación corposcular no fotónica [2013.01]"
+  },
+  {
+    "code": "H04B 11/00",
+    "description": "Sistemas de transmisión que emplean ondas ultrasonoras, sonoras o infrasonoras [2006.01]"
+  },
+  {
+    "code": "H04B 13/00",
+    "description": "Sistemas de transmisión caracterizados por el medio utilizado para la transmisión, no previstos en los grupos H04B 3/00-H04B 11/00 [2006.01]"
+  },
+  {
+    "code": "H04B 13/02",
+    "description": "••Sistemas de transmisión en los cuales el medio de propagación está constituido por la tierra o una gran masa de agua que lo recubre, p. ej. telegrafía de tierra [2006.01]"
+  },
+  {
+    "code": "H04B 14/00",
+    "description": "Sistemas de transmisión no caracterizados por el medio utilizado para la transmisión (sus detalles H04B 1/00) [2006.01]"
+  },
+  {
+    "code": "H04B 14/02",
+    "description": "••caracterizados por la utilización de la modulación por impulsos (en los repetidores de radio transmisión H04B 7/17) [2006.01]"
+  },
+  {
+    "code": "H04B 14/04",
+    "description": "••••que utilizan la modulación por impulsos codificados [2006.01]"
+  },
+  {
+    "code": "H04B 14/06",
+    "description": "••••que utilizan la modulación diferencial, p. ej. la modulación delta [2006.01]"
+  },
+  {
+    "code": "H04B 14/08",
+    "description": "••caracterizados por la utilización de una subportadora [2006.01]"
+  },
+  {
+    "code": "H04B 15/00",
+    "description": "Supresión o limitación del ruido o de las interferencias (por medios asociados al receptor H04B 1/10) [2006.01]"
+  },
+  {
+    "code": "H04B 15/02",
+    "description": "••Reducción de perturbaciones parásitas debidas a los aparatos eléctricos con medios dispuestos sobre o en la proximidad del origen de la perturbación [2006.01]"
+  },
+  {
+    "code": "H04B 15/04",
+    "description": "••••estando causadas las perturbaciones por ondas sustancialmente sinusoidales, p. ej. en un receptor o en un registrador de banda magnética [2006.01]"
+  },
+  {
+    "code": "H04B 15/06",
+    "description": "••••••por los osciladores locales de los receptores [2006.01]"
+  },
+  {
+    "code": "H04B 17/00",
+    "description": "Monitorización; Ensayos (de sistemas de líneas de transmisión H04B 3/46; disposiciones para el seguimiento o ensayo de los sistemas de transmisión empleando ondas electromagnéticas diferentes de las ondas de radio H04B 10/07) [2015.01]"
+  },
+  {
+    "code": "H04B 17/10",
+    "description": "••de emisores [2015.01]"
+  },
+  {
+    "code": "H04B 17/11",
+    "description": "••••para calibración [2015.01]"
+  },
+  {
+    "code": "H04B 17/12",
+    "description": "••••••de antenas de transmisión, p. ej. de amplitud o fase [2015.01]"
+  },
+  {
+    "code": "H04B 17/13",
+    "description": "••••••de amplificadores de potencia, p. ej. ganancia o no linealidad [2015.01]"
+  },
+  {
+    "code": "H04B 17/14",
+    "description": "••••••del conjunto de las vías de emisión y recepción, p. ej. autoprueba de conexión en bucle [2015.01]"
+  },
+  {
+    "code": "H04B 17/15",
+    "description": "••••Ensayos del comportamiento [2015.01]"
+  },
+  {
+    "code": "H04B 17/16",
+    "description": "••••••Equipo de medición localizado en el emisor [2015.01]"
+  },
+  {
+    "code": "H04B 17/17",
+    "description": "••••••Detección de mal funcionamiento o fallos, p. ej. desviaciones de respuesta (H04B 17/18 tiene prioridad) [2015.01]"
+  },
+  {
+    "code": "H04B 17/18",
+    "description": "••••••Seguimiento durante el funcionamiento normal [2015.01]"
+  },
+  {
+    "code": "H04B 17/19",
+    "description": "••••••Disposiciones de autoanálisis [2015.01]"
+  },
+  {
+    "code": "H04B 17/20",
+    "description": "••de receptores [2015.01]"
+  },
+  {
+    "code": "H04B 17/21",
+    "description": "••••para calibración; para corrección de medidas [2015.01]"
+  },
+  {
+    "code": "H04B 17/23",
+    "description": "••••Medios indicadores, p. ej. pantallas, alarmas o medios audibles [2015.01]"
+  },
+  {
+    "code": "H04B 17/24",
+    "description": "••••con realimentación de medidas al emisor [2015.01]"
+  },
+  {
+    "code": "H04B 17/26",
+    "description": "••••utilizando datos históricos, medias o estadísticas [2015.01]"
+  },
+  {
+    "code": "H04B 17/27",
+    "description": "••••para localizar o posicionar el emisor [2015.01]"
+  },
+  {
+    "code": "H04B 17/29",
+    "description": "••••Ensayos del comportamiento [2015.01]"
+  },
+  {
+    "code": "H04B 17/30",
+    "description": "••de canales de propagación [2015.01]"
+  },
+  {
+    "code": "H04B 17/309",
+    "description": "••••Medida o estimación de los parámetros de calidad del canal [2015.01]"
+  },
+  {
+    "code": "H04B 17/318",
+    "description": "••••••Potencia de la señal recibida [2015.01]"
+  },
+  {
+    "code": "H04B 17/327",
+    "description": "••••••••Potencia de código de señal recibida [RSCP] [2015.01]"
+  },
+  {
+    "code": "H04B 17/336",
+    "description": "••••••Ratio señal-interferencia [SIR] o ratio portadora-interferencia [CIR] [2015.01]"
+  },
+  {
+    "code": "H04B 17/345",
+    "description": "••••••Valores de interferencia (H04B 17/336 tiene prioridad) [2015.01]"
+  },
+  {
+    "code": "H04B 17/354",
+    "description": "••••••Potencia de fuga de canales adyacentes [2015.01]"
+  },
+  {
+    "code": "H04B 17/364",
+    "description": "••••••Perfiles de retardo [2015.01]"
+  },
+  {
+    "code": "H04B 17/373",
+    "description": "••••Predicción de parámetro de calidad de canal [2015.01]"
+  },
+  {
+    "code": "H04B 17/382",
+    "description": "••••para dotación de recursos, control de admisión o handover [2015.01]"
+  },
+  {
+    "code": "H04B 17/391",
+    "description": "••••Modelización del canal de propagación [2015.01]"
+  },
+  {
+    "code": "H04B 17/40",
+    "description": "••de sistemas repetidores [2015.01]"
+  }
+]

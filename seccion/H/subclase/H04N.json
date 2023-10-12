@@ -1,0 +1,3626 @@
+[
+  {
+    "code": "H04N 1/00",
+    "description": "Exploración, transmisión o reproducción de documentos o similares, p. ej. transmisión facsímil; Sus detalles [2006.01]"
+  },
+  {
+    "code": "H04N 1/024",
+    "description": "••Detalles de las cabezas de análisis [2006.01]"
+  },
+  {
+    "code": "H04N 1/028",
+    "description": "••••para la lectura de imágenes [2006.01]"
+  },
+  {
+    "code": "H04N 1/029",
+    "description": "••••••Cabezas enfocadas ópticamente sobre un único elemento de imagen en un momento dado [2006.01]"
+  },
+  {
+    "code": "H04N 1/03",
+    "description": "••••••con los fotodetectores dispuestos en un conjunto sustancialmente lineal [2006.01]"
+  },
+  {
+    "code": "H04N 1/031",
+    "description": "••••••••teniendo los fotodetectores una correspondencia biunívoca y ópticamente positiva con los elementos de imagen explorados, p. ej. sensores lineales de contacto [2006.01]"
+  },
+  {
+    "code": "H04N 1/032",
+    "description": "••••para la reproducción de imágenes [2006.01]"
+  },
+  {
+    "code": "H04N 1/034",
+    "description": "••••••utilizando tinta, p. ej. cabezas por chorro de tinta [2006.01]"
+  },
+  {
+    "code": "H04N 1/036",
+    "description": "••••••para la reproducción óptica [2006.01]"
+  },
+  {
+    "code": "H04N 1/04",
+    "description": "••Disposiciones de análisis (H04N 1/387 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H04N 1/047",
+    "description": "••••Detección, control o compensación de los errores de la velocidad o de la posición de exploración (H04N 1/17 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H04N 1/053",
+    "description": "••••••en la dirección principal de la exploración, p. ej. sincronización del principio de una línea o de los elementos de imagen en una línea [2006.01]"
+  },
+  {
+    "code": "H04N 1/06",
+    "description": "••••empleando superficies soporte de imagen cilíndricas [2006.01]"
+  },
+  {
+    "code": "H04N 1/08",
+    "description": "••••••Mecanismos para montar o fijar la hoja sobre el tambor [2006.01]"
+  },
+  {
+    "code": "H04N 1/10",
+    "description": "••••empleando soportes de imágenes planos [2006.01]"
+  },
+  {
+    "code": "H04N 1/107",
+    "description": "••••••con una exploración manual [2006.01]"
+  },
+  {
+    "code": "H04N 1/113",
+    "description": "••••utilizando espejos oscilantes o rotatorios [2006.01]"
+  },
+  {
+    "code": "H04N 1/12",
+    "description": "••••utilizando el avance de la hoja como elemento de análisis lento (utilizando conjuntos compuestos de varios elementos H04N 1/19) [2006.01]"
+  },
+  {
+    "code": "H04N 1/14",
+    "description": "••••••empleando una correa sinfín rotativa portando los elementos de exploración [2006.01]"
+  },
+  {
+    "code": "H04N 1/16",
+    "description": "••••••empleando un sistema giratorio helicoidal [2006.01]"
+  },
+  {
+    "code": "H04N 1/17",
+    "description": "••••dependiendo la velocidad del análisis del contenido de la imagen [2006.01]"
+  },
+  {
+    "code": "H04N 1/19",
+    "description": "••••utilizando conjuntos compuestos de varios elementos [2006.01]"
+  },
+  {
+    "code": "H04N 1/191",
+    "description": "••••••comprendiendo el conjunto un conjunto unidimensional [2006.01]"
+  },
+  {
+    "code": "H04N 1/192",
+    "description": "••••••••Exploración simultánea de los elementos de imagen sobre una línea principal de exploración [2006.01]"
+  },
+  {
+    "code": "H04N 1/193",
+    "description": "••••••••••utilizando conjuntos lineales explorados eléctricamente [2006.01]"
+  },
+  {
+    "code": "H04N 1/195",
+    "description": "••••••comprendiendo el conjunto un conjunto de dos dimensiones [2006.01]"
+  },
+  {
+    "code": "H04N 1/203",
+    "description": "••••Exploración simultánea de varias imagenes separadas [2006.01]"
+  },
+  {
+    "code": "H04N 1/207",
+    "description": "••••Exploración simultánea de la imagen original y de la imagen reproducida con un dispositivo de exploración común [2006.01]"
+  },
+  {
+    "code": "H04N 1/21",
+    "description": "••Registro intermedio de la información (H04N 1/387, H04N 1/41  tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H04N 1/23",
+    "description": "••Disposiciones para la reproducción [2006.01]"
+  },
+  {
+    "code": "H04N 1/27",
+    "description": "••••comprendiendo la formación de una imagen magnética intermedia [2006.01]"
+  },
+  {
+    "code": "H04N 1/29",
+    "description": "••••comprendiendo la formación de una imagen electrostática intermedia [2006.01]"
+  },
+  {
+    "code": "H04N 1/31",
+    "description": "••••Disposiciones mecánicas para la transmisión de imágenes, p. ej. adaptación de embragues, engranajes, transmisiones de engranajes [2006.01]"
+  },
+  {
+    "code": "H04N 1/32",
+    "description": "••Circuitos o dispositivos para control o supervisión entre el emisor y el receptor [2006.01]"
+  },
+  {
+    "code": "H04N 1/327",
+    "description": "••••Iniciación, continuación o finalización de una comunicación en modo único; Intercambio de señales a este efecto [2006.01]"
+  },
+  {
+    "code": "H04N 1/333",
+    "description": "••••Modo de señalización o modo de cambio; Intercambio de señales a este efecto [2006.01]"
+  },
+  {
+    "code": "H04N 1/34",
+    "description": "••••para sistemas a monedas [2006.01]"
+  },
+  {
+    "code": "H04N 1/36",
+    "description": "••••para la sincronización o la puesta en fase del receptor y del emisor [2006.01]"
+  },
+  {
+    "code": "H04N 1/38",
+    "description": "••Circuitos o disposiciones de supresión o de eliminación de partes no deseadas de la imagen (H04N 1/387 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H04N 1/387",
+    "description": "••Composición, reposicion u otra modificacion de las originales [2006.01]"
+  },
+  {
+    "code": "H04N 1/393",
+    "description": "••••Ampliación o reducción [2006.01]"
+  },
+  {
+    "code": "H04N 1/40",
+    "description": "••Circuitos de señales de imagen (H04N 1/387 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H04N 1/401",
+    "description": "••••Compensación de la respuesta desigual según la posición de la cabeza de lectura o de reproducción (H04N 1/403 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H04N 1/403",
+    "description": "••••Discriminación entre los dos tonos en la señal de imagen de un original con dos tonos [2006.01]"
+  },
+  {
+    "code": "H04N 1/405",
+    "description": "••••Conversión a semitono, es decir, conversión de la señal de imagen de un original de tonos continuos en una señal correspondiente presentando únicamente dos niveles [2006.01]"
+  },
+  {
+    "code": "H04N 1/407",
+    "description": "••••Control o modificación de la graduación de los tonos o de los niveles extremos, p. ej. del nivel de fondo [2006.01]"
+  },
+  {
+    "code": "H04N 1/409",
+    "description": "••••Perfeccionamiento de los contornos o de los detalles; Supresión del ruido o de los errores [2006.01]"
+  },
+  {
+    "code": "H04N 1/41",
+    "description": "••Reducción del ancho de banda o de la redundancia (para la exploración H04N 1/17) [2006.01]"
+  },
+  {
+    "code": "H04N 1/411",
+    "description": "••••para la transmisión o la reproducción de imágenes de dos tonos, p. ej. imágenes en blanco y negro [2006.01]"
+  },
+  {
+    "code": "H04N 1/413",
+    "description": "••••••Sistemas o disposiciones que permiten reproducir una imagen sin pérdida ni modificación de la información de la imagen [2006.01]"
+  },
+  {
+    "code": "H04N 1/415",
+    "description": "••••••••en los cuales los elementos de imagen están subdivididos o agrupados en bloques fijos unidimensionalmente o bidimensionalmente [2006.01]"
+  },
+  {
+    "code": "H04N 1/417",
+    "description": "••••••••utilizando la codificación predictiva o diferencial [2006.01]"
+  },
+  {
+    "code": "H04N 1/419",
+    "description": "••••••••en los cuales la codificación de la longitud de una sucesión de elementos de imagen del mismo valor, a lo largo de una línea de exploración, es el único proceso de codificación [2006.01]"
+  },
+  {
+    "code": "H04N 1/42",
+    "description": "••Sistemas para el funcionamiento en dos vías [2006.01]"
+  },
+  {
+    "code": "H04N 1/44",
+    "description": "••Sistemas de secreto [2006.01]"
+  },
+  {
+    "code": "H04N 1/46",
+    "description": "••Sistemas de transmisión de imágenes en color [2006.01]"
+  },
+  {
+    "code": "H04N 1/48",
+    "description": "••••Generadores de las señales de imagen (para la visualización sobre pantalla en semitono H04N 1/52) [2006.01]"
+  },
+  {
+    "code": "H04N 1/50",
+    "description": "••••Reproductores de imágenes (para la visualización sobre pantalla en semitono H04N 1/52) [2006.01]"
+  },
+  {
+    "code": "H04N 1/52",
+    "description": "••••Circuitos o disposiciones para la visualización sobre pantalla en semitono [2006.01]"
+  },
+  {
+    "code": "H04N 1/54",
+    "description": "••••Conversión de señales de imagen en color en un conjunto de señales algunas de las cuales representan colores compuestos particulares, p. ej. para la impresión textil [2006.01]"
+  },
+  {
+    "code": "H04N 1/56",
+    "description": "••••Tratamiento de señales de imagen en color (H04N 1/52 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H04N 1/58",
+    "description": "••••••Perfeccionamiento de los contornos o de los detalles; Supresión del ruido o de los errores, p. ej. corrección de la mala superposición de los colores (H04N 1/62 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H04N 1/60",
+    "description": "••••••Corrección o control de los colores [2006.01]"
+  },
+  {
+    "code": "H04N 1/62",
+    "description": "••••••••Retoques, es decir, modificación de colores aislados únicamente o en zonas de imagen aisladas únicamente [2006.01]"
+  },
+  {
+    "code": "H04N 1/64",
+    "description": "••••Sistemas para la transmisión o el almacenamiento de la señal de imagen en color; Sus detalles, p. ej. sus medios de codificación o de decodificación [2006.01]"
+  },
+  {
+    "code": "H04N 3/00",
+    "description": "Detalles de los dispositivos de análisis de los sistemas de televisión; Su combinación con la producción de la tensión de alimentación [2006.01]"
+  },
+  {
+    "code": "H04N 3/02",
+    "description": "••por medios ópticos-mecánicos solamente (H04N 3/36  tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H04N 3/04",
+    "description": "••••teniendo una apertura móvil [2006.01]"
+  },
+  {
+    "code": "H04N 3/06",
+    "description": "••••teniendo una lente móvil u otro refractor [2006.01]"
+  },
+  {
+    "code": "H04N 3/08",
+    "description": "••••teniendo un reflector móvil [2006.01]"
+  },
+  {
+    "code": "H04N 3/09",
+    "description": "••••••para radiaciones electromagnéticas en la región invisible, p. ej. para la infrarroja [2006.01]"
+  },
+  {
+    "code": "H04N 3/10",
+    "description": "••por medios no exclusivamente óptico-mecánicos (H04N 3/36 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H04N 3/12",
+    "description": "••••por conmutación de grupos de lámparas, células fotoeléctricas o relés de luz estacionarios [2006.01]"
+  },
+  {
+    "code": "H04N 3/14",
+    "description": "••••por medio de dispositivos semiconductores explorados eléctricamente (para la producción de señales de imagen H04N 25/00) [2006.01]"
+  },
+  {
+    "code": "H04N 3/16",
+    "description": "••••por desviación de un haz de electrones en un tubo de rayos catódicos [2006.01]"
+  },
+  {
+    "code": "H04N 3/18",
+    "description": "••••••Producción de las tensiones de alimentación en combinación con la desviación de un haz de electrones [2006.01]"
+  },
+  {
+    "code": "H04N 3/185",
+    "description": "••••••••Mantenimiento de la tensión de la corriente continua a un valor constante [2006.01]"
+  },
+  {
+    "code": "H04N 3/19",
+    "description": "••••••••Disposiciones o montajes de circuitos de alimentación con objeto de soportar la alta tensión [2006.01]"
+  },
+  {
+    "code": "H04N 3/20",
+    "description": "••••••Protección del tubo de rayos catódicos en caso de fallo de la exploración [2006.01]"
+  },
+  {
+    "code": "H04N 3/22",
+    "description": "••••••Circuitos para regular las dimensiones, la forma o el centrado de la imagen en la pantalla [2006.01]"
+  },
+  {
+    "code": "H04N 3/223",
+    "description": "••••••••Regulación de las dimensiones (manteniendo constante la alta tensión del tubo de rayos catódicos H04N 3/185) [2006.01]"
+  },
+  {
+    "code": "H04N 3/227",
+    "description": "••••••••Centrado [2006.01]"
+  },
+  {
+    "code": "H04N 3/23",
+    "description": "••••••••Corrección de la distorsión, p. ej. para corregir la distorsión en cojín o la distorsión en S [2006.01]"
+  },
+  {
+    "code": "H04N 3/233",
+    "description": "••••••••••utilizando elementos activos [2006.01]"
+  },
+  {
+    "code": "H04N 3/237",
+    "description": "••••••••••utilizando elementos pasivos [2006.01]"
+  },
+  {
+    "code": "H04N 3/24",
+    "description": "••••••Circuitos de supresión [2006.01]"
+  },
+  {
+    "code": "H04N 3/26",
+    "description": "••••••Modificaciones de los dispositivos de exploración para mejorar el enfoque [2006.01]"
+  },
+  {
+    "code": "H04N 3/27",
+    "description": "••••••Circuitos especiales para receptores multinormas [2006.01]"
+  },
+  {
+    "code": "H04N 3/28",
+    "description": "••••produciendo una exploración múltiple, es decir, utilizando más de un punto al mismo tiempo [2006.01]"
+  },
+  {
+    "code": "H04N 3/30",
+    "description": "••••de otro modo que con velocidad constante o de otro modo que con imágenes formadas por líneas unidireccionales, rectilíneas, esencialmente horizontales o verticales [2006.01]"
+  },
+  {
+    "code": "H04N 3/32",
+    "description": "••••••Velocidad variable en función de la información de la imagen [2006.01]"
+  },
+  {
+    "code": "H04N 3/34",
+    "description": "••••••Superficie de análisis elemental oscilando rápidamente en el sentido perpendicular a la dirección de análisis principal [2006.01]"
+  },
+  {
+    "code": "H04N 3/36",
+    "description": "••Análisis de películas cinematográficas, p. ej. para el telecine [2006.01]"
+  },
+  {
+    "code": "H04N 3/38",
+    "description": "••••con desplazamiento continuo de la película [2006.01]"
+  },
+  {
+    "code": "H04N 3/40",
+    "description": "••••con desplazamiento intermitente de la película [2006.01]"
+  },
+  {
+    "code": "H04N 5/00",
+    "description": "Detalles de los sistemas de televisión (Detalles de los dispositivos de análisis  o sus combinaciones con la producción de la tensión de alimentación H04N 3/00) [2011.01]"
+  },
+  {
+    "code": "H04N 5/04",
+    "description": "••Sincronización (para los sistemas de televisión que utilizan la modulación de impulsos codificados H04N 7/56) [2006.01]"
+  },
+  {
+    "code": "H04N 5/05",
+    "description": "••••Circuitos de sincronización con disposiciones para extender el grado de sincronización, p. ej. utilizando la conmutación entre varias constantes de tiempo [2006.01]"
+  },
+  {
+    "code": "H04N 5/06",
+    "description": "••••Producción de señales de sincronización [2006.01]"
+  },
+  {
+    "code": "H04N 5/067",
+    "description": "••••••Disposiciones o circuitos en el emisor [2006.01]"
+  },
+  {
+    "code": "H04N 5/073",
+    "description": "••••••••para sincronizar mutuamente varios generadores de señales de sincronización, p. ej. estudios o estaciones repetidoras de televisión [2006.01]"
+  },
+  {
+    "code": "H04N 5/08",
+    "description": "••••Separación de las señales de sincronización de la señal de imagen [2006.01]"
+  },
+  {
+    "code": "H04N 5/10",
+    "description": "••••••Separación de las señales de sincronización de línea de las señales de sincronización de imagen [2006.01]"
+  },
+  {
+    "code": "H04N 5/12",
+    "description": "••••Dispositivos en los cuales las señales de sincronización no son activas más que si una diferencia de fase se produce entre los dispositivos de sincronización y los dispositivos de análisis sincronizados, p. ej. sincronización de volantes [2006.01]"
+  },
+  {
+    "code": "H04N 5/14",
+    "description": "••Circuitos de señal de imagen para la región de frecuencias de video (cámaras o módulos de cámara con sensores electrónicos de imagen, o su control, H04N 23/00) [2006.01]"
+  },
+  {
+    "code": "H04N 5/16",
+    "description": "••••Circuitos para la reinserción de la componente continua y las componentes de variación lenta de la señal; Circuitos para la preservación de los niveles del blanco y del negro [2006.01]"
+  },
+  {
+    "code": "H04N 5/18",
+    "description": "••••••por medio de un circuito de bloqueo controlado por un circuito de conmutación [2006.01]"
+  },
+  {
+    "code": "H04N 5/20",
+    "description": "••••Circuitos para controlar la curva de respuesta en amplitud [2006.01]"
+  },
+  {
+    "code": "H04N 5/202",
+    "description": "••••••Control del gamma (circuitos para controlar la respuesta de la cámara con independencia de la luminosidad de la escena H04N 23/82) [2023.01]"
+  },
+  {
+    "code": "H04N 5/205",
+    "description": "••••••para corregir la amplitud en función de la característica de frecuencia [2006.01]"
+  },
+  {
+    "code": "H04N 5/208",
+    "description": "••••••••para compensar la atenuación de los componentes de alta frecuencia, p. ej. acentuación de contrastes, corrección de la distorsión de exploración [2006.01]"
+  },
+  {
+    "code": "H04N 5/21",
+    "description": "••••Circuitos para la supresión o la disminución de las perturbaciones, p. ej. muaré o halo [2006.01]"
+  },
+  {
+    "code": "H04N 5/213",
+    "description": "••••••Circuitos para suprimir o disminuir los ruidos de impulsos (para suprimir o minimizar las perturbaciones en la generación de señales de imagen H04N 23/81) [2006.01]"
+  },
+  {
+    "code": "H04N 5/217",
+    "description": ""
+  },
+  {
+    "code": "H04N 5/222",
+    "description": "••Circuitos de estudio; Dispositivos de estudio; Equipos de estudio (Cámaras o módulos de cámara con sensores electrónicos de imagen, o su control, H04N 23/00) [2006.01]"
+  },
+  {
+    "code": "H04N 5/225",
+    "description": ""
+  },
+  {
+    "code": "H04N 5/228",
+    "description": ""
+  },
+  {
+    "code": "H04N 5/232",
+    "description": ""
+  },
+  {
+    "code": "H04N 5/235",
+    "description": ""
+  },
+  {
+    "code": "H04N 5/238",
+    "description": ""
+  },
+  {
+    "code": "H04N 5/243",
+    "description": ""
+  },
+  {
+    "code": "H04N 5/247",
+    "description": ""
+  },
+  {
+    "code": "H04N 5/253",
+    "description": "••••Señal de imagen producida por análisis de películas cinematográficas o de diapositivas, p. ej. para el telecine (detalles de la exploración para este fin H04N 3/36) [2006.01]"
+  },
+  {
+    "code": "H04N 5/257",
+    "description": "••••Generadores de señales de imagen que utilizan analizadores de punto explorador (H04N 5/253 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H04N 5/262",
+    "description": "••••Circuitos de estudio, p. ej. para mezclar, conmutar, cambiar el carácter de la imagen, para otros efectos especiales [2006.01]"
+  },
+  {
+    "code": "H04N 5/265",
+    "description": "••••••Mezcla [2006.01]"
+  },
+  {
+    "code": "H04N 5/268",
+    "description": "••••••Distribución o conmutación de la señal [2006.01]"
+  },
+  {
+    "code": "H04N 5/272",
+    "description": "••••••Medios para introducir una imagen de primer plano en una imagen de fondo, es decir, incrustación, efecto inverso [2006.01]"
+  },
+  {
+    "code": "H04N 5/275",
+    "description": "••••••••Generación de señales de conmutación [2006.01]"
+  },
+  {
+    "code": "H04N 5/278",
+    "description": "••••••Subtitulado [2006.01]"
+  },
+  {
+    "code": "H04N 5/28",
+    "description": "••••Estudios móviles [2006.01]"
+  },
+  {
+    "code": "H04N 5/30",
+    "description": "••Transformación de información luminosa o análoga en información eléctrica (detalles de los analizadores H04N 3/00; cámaras o módulos de cámara con sensores electrónicos de imagen, o su control, H04N 23/00; circuitos de estado sólido de sensores de imagen [SSIS] o su control H04N 25/00) [2006.01]"
+  },
+  {
+    "code": "H04N 5/32",
+    "description": "••••Transformación de rayos X (cámaras o módulos de cámara para generar señales de imagen a partir de rayos X H04N 23/30; circuitos de SSIS para transformar rayos X en señales de imagen H04N 25/30) [2023.01]"
+  },
+  {
+    "code": "H04N 5/321",
+    "description": "••••••con transmisión vídeo de imágenes fluoroscópicas [2006.01]"
+  },
+  {
+    "code": "H04N 5/325",
+    "description": "••••••••Mejora de la imagen, p. ej. por técnicas sustractivas utilizando rayos X polienergéticos [2006.01]"
+  },
+  {
+    "code": "H04N 5/33",
+    "description": "••••Transformación de radiación infrarroja (cámaras o módulos de cámara para generar señales de imagen a partir de radiación infrarroja H04N 23/20; circuitos de SSIS para transformar radiación infrarroja en señales de imagen H04N 25/20) [2023.01]"
+  },
+  {
+    "code": "H04N 5/335",
+    "description": ""
+  },
+  {
+    "code": "H04N 5/341",
+    "description": ""
+  },
+  {
+    "code": "H04N 5/343",
+    "description": ""
+  },
+  {
+    "code": "H04N 5/345",
+    "description": ""
+  },
+  {
+    "code": "H04N 5/347",
+    "description": ""
+  },
+  {
+    "code": "H04N 5/349",
+    "description": ""
+  },
+  {
+    "code": "H04N 5/351",
+    "description": ""
+  },
+  {
+    "code": "H04N 5/353",
+    "description": ""
+  },
+  {
+    "code": "H04N 5/355",
+    "description": ""
+  },
+  {
+    "code": "H04N 5/357",
+    "description": ""
+  },
+  {
+    "code": "H04N 5/359",
+    "description": ""
+  },
+  {
+    "code": "H04N 5/361",
+    "description": ""
+  },
+  {
+    "code": "H04N 5/363",
+    "description": ""
+  },
+  {
+    "code": "H04N 5/365",
+    "description": ""
+  },
+  {
+    "code": "H04N 5/367",
+    "description": ""
+  },
+  {
+    "code": "H04N 5/369",
+    "description": ""
+  },
+  {
+    "code": "H04N 5/372",
+    "description": ""
+  },
+  {
+    "code": "H04N 5/3722",
+    "description": ""
+  },
+  {
+    "code": "H04N 5/3725",
+    "description": ""
+  },
+  {
+    "code": "H04N 5/3728",
+    "description": ""
+  },
+  {
+    "code": "H04N 5/374",
+    "description": ""
+  },
+  {
+    "code": "H04N 5/3745",
+    "description": ""
+  },
+  {
+    "code": "H04N 5/376",
+    "description": ""
+  },
+  {
+    "code": "H04N 5/378",
+    "description": ""
+  },
+  {
+    "code": "H04N 5/38",
+    "description": "••Circuitos del emisor (H04N 5/14 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H04N 5/40",
+    "description": "••••Circuitos de modulación [2006.01]"
+  },
+  {
+    "code": "H04N 5/42",
+    "description": "••••para la transmisión a voluntad de señales en blanco y negro o de señales en color [2006.01]"
+  },
+  {
+    "code": "H04N 5/44",
+    "description": "••Circuitos receptores (H04N 5/14 tiene prioridad) [2011.01]"
+  },
+  {
+    "code": "H04N 5/445",
+    "description": "••••para visualizar información adicional (H04N 5/50 tiene prioridad) [2011.01]"
+  },
+  {
+    "code": "H04N 5/45",
+    "description": "••••••Imagen en imagen [2011.01]"
+  },
+  {
+    "code": "H04N 5/455",
+    "description": "••••Circuitos de demodulación [2006.01]"
+  },
+  {
+    "code": "H04N 5/46",
+    "description": "••••para la recepción a voluntad de más de un tipo de norma de emisión (circuitos de desviación para receptores multinormas H04N 3/27) [2006.01]"
+  },
+  {
+    "code": "H04N 5/50",
+    "description": "••••Indicadores de sintonización; Ajuste automático de la sintonía [2006.01]"
+  },
+  {
+    "code": "H04N 5/52",
+    "description": "••••Control automático de la ganancia [2006.01]"
+  },
+  {
+    "code": "H04N 5/53",
+    "description": "••••••Control automatico de ganancia de acción rápida [2006.01]"
+  },
+  {
+    "code": "H04N 5/54",
+    "description": "••••••para señales de imagen de modulación positiva (H04N 5/53 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H04N 5/56",
+    "description": "••••••para señales de imagen de modulación negativa (H04N 5/53 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H04N 5/57",
+    "description": "••••Regulación del contraste o de la luminancia [2006.01]"
+  },
+  {
+    "code": "H04N 5/58",
+    "description": "••••••en función de la luz ambiente [2006.01]"
+  },
+  {
+    "code": "H04N 5/59",
+    "description": "••••••en función de la intensidad del haz del tubo de rayos catódicos [2006.01]"
+  },
+  {
+    "code": "H04N 5/60",
+    "description": "••••para las señales de sonido [2006.01]"
+  },
+  {
+    "code": "H04N 5/62",
+    "description": "••••••Circuitos interportadores, es decir, heterodinando las portadoras visión y sonido [2006.01]"
+  },
+  {
+    "code": "H04N 5/63",
+    "description": "••Producción de la energía de alimentación especialmente adaptada a los receptores de televisión [2006.01]"
+  },
+  {
+    "code": "H04N 5/64",
+    "description": "••Detalles constructivos de receptores, p. ej. ebanistería o fundas (aspectos de muebles A47B 81/06) [2006.01]"
+  },
+  {
+    "code": "H04N 5/645",
+    "description": "••••Montaje del tubo de imagen sobre el chasis o en la caja [2006.01]"
+  },
+  {
+    "code": "H04N 5/65",
+    "description": "••••Disposiciones de fijación de discos protectores o máscaras de imagen [2006.01]"
+  },
+  {
+    "code": "H04N 5/655",
+    "description": "••••Construcción o montaje de chasis, p. ej. para variar la elevación del tubo [2006.01]"
+  },
+  {
+    "code": "H04N 5/66",
+    "description": "••Transformación de la información eléctrica en información luminosa (detalles del analizador H04N 3/00) [2006.01]"
+  },
+  {
+    "code": "H04N 5/68",
+    "description": "••••Detalles de circuitos para tubos de rayos catódicos de imagen [2006.01]"
+  },
+  {
+    "code": "H04N 5/70",
+    "description": "••••Detalles de circuitos para dispositivos electroluminiscentes [2006.01]"
+  },
+  {
+    "code": "H04N 5/72",
+    "description": "••Modificaciones del aspecto  de la imagen de televisión por medio de filtros ópticos o pantallas difusoras [2006.01]"
+  },
+  {
+    "code": "H04N 5/74",
+    "description": "••Dispositivos de proyección para reproducción de imágenes, p. ej. utilizando eidóforo [2006.01]"
+  },
+  {
+    "code": "H04N 5/76",
+    "description": "••Registro de la señal de televisión [2006.01]"
+  },
+  {
+    "code": "H04N 5/761",
+    "description": "••••Sistemas para programar el momento en que se seleccionarán para la grabación unos canales de televisión predeterminados [2006.01]"
+  },
+  {
+    "code": "H04N 5/7613",
+    "description": "••••••utilizando datos introducidos por el usuario y un reloj de referencia incorporado en el grabador [2006.01]"
+  },
+  {
+    "code": "H04N 5/7617",
+    "description": "••••••utilizando datos introducidos por el usuario y datos de referencia transmitidos por la estación emisora [2006.01]"
+  },
+  {
+    "code": "H04N 5/765",
+    "description": "••••Circuitos de interfaz entre un aparato de registro y otro aparato [2006.01]"
+  },
+  {
+    "code": "H04N 5/77",
+    "description": "••••••entre un aparato de registro y una cámara de televisión [2006.01]"
+  },
+  {
+    "code": "H04N 5/775",
+    "description": "••••••entre un aparato de registro y un receptor de televisión [2006.01]"
+  },
+  {
+    "code": "H04N 5/78",
+    "description": "••••utilizando el registro magnético (H04N 5/91 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H04N 5/781",
+    "description": "••••••sobre discos o sobre tambores [2006.01]"
+  },
+  {
+    "code": "H04N 5/782",
+    "description": "••••••sobre banda [2006.01]"
+  },
+  {
+    "code": "H04N 5/7822",
+    "description": "••••••••con cabezas magnéticas estacionarias [2006.01]"
+  },
+  {
+    "code": "H04N 5/7824",
+    "description": "••••••••con cabezas magnéticas giratorias [2006.01]"
+  },
+  {
+    "code": "H04N 5/7826",
+    "description": "••••••••••que implican un barrido helicoidal de la banda magnética [2006.01]"
+  },
+  {
+    "code": "H04N 5/7828",
+    "description": "••••••••••que implican un barrido transversal de la banda magnética [2006.01]"
+  },
+  {
+    "code": "H04N 5/783",
+    "description": "••••••••Adaptaciones para reproducción a velocidad diferente de la del registro [2006.01]"
+  },
+  {
+    "code": "H04N 5/784",
+    "description": "••••••sobre una hoja [2006.01]"
+  },
+  {
+    "code": "H04N 5/80",
+    "description": "••••utilizando el registro electrostático (H04N 5/91 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H04N 5/82",
+    "description": "••••••utilizando el registro sobre un medio termoplástico [2006.01]"
+  },
+  {
+    "code": "H04N 5/83",
+    "description": "••••••••sobre discos o tambores [2006.01]"
+  },
+  {
+    "code": "H04N 5/84",
+    "description": "••••utilizando el registro óptico (H04N 5/80, H04N 5/89, H04N 5/91 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H04N 5/85",
+    "description": "••••••sobre discos o tambores [2006.01]"
+  },
+  {
+    "code": "H04N 5/87",
+    "description": "••••••Producción de una película cinematográfica a partir de una señal de televisión [2006.01]"
+  },
+  {
+    "code": "H04N 5/89",
+    "description": "••••utilizando el registro holográfico (H04N 5/91 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H04N 5/90",
+    "description": "••••••sobre discos o tambores [2006.01]"
+  },
+  {
+    "code": "H04N 5/903",
+    "description": "••••utilizando el registro capacitivo de una variable eléctrica (H04N 5/91 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H04N 5/907",
+    "description": "••••utilizando memorias estáticas, p. ej. tubos de memoria o memorias de semiconductores (H04N 5/91 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H04N 5/91",
+    "description": "••••Tratamiento de una señal de televisión para el registro [2006.01]"
+  },
+  {
+    "code": "H04N 5/911",
+    "description": "••••••para la supresión de ruido [2006.01]"
+  },
+  {
+    "code": "H04N 5/913",
+    "description": "••••••para la transposición [2006.01]"
+  },
+  {
+    "code": "H04N 5/915",
+    "description": "••••••para el registro o la reproducción con salto de trama o de imagen [2006.01]"
+  },
+  {
+    "code": "H04N 5/917",
+    "description": "••••••para la reducción de ancho de banda [2006.01]"
+  },
+  {
+    "code": "H04N 5/919",
+    "description": "••••••••mediante división de muestras o de segmentos de señales, p. ej. líneas de televisión, entre varios canales de registro [2006.01]"
+  },
+  {
+    "code": "H04N 5/92",
+    "description": "••••••Transformación de la señal de televisión para el registro, p. ej. modulación, cambio de frecuencia; Transformación inversa para la sincronización sonora [2006.01]"
+  },
+  {
+    "code": "H04N 5/921",
+    "description": "••••••••mediante el registro o la reproducción de la señal en banda base [2006.01]"
+  },
+  {
+    "code": "H04N 5/922",
+    "description": "••••••••mediante la modulación de la señal sobre una onda portadora, p. ej. modulación de amplitud o de frecuencia [2006.01]"
+  },
+  {
+    "code": "H04N 5/923",
+    "description": "••••••••que utilizan la preacentuación de la señal antes de la modulación y la desacentuación de la señal después de la modulación [2006.01]"
+  },
+  {
+    "code": "H04N 5/924",
+    "description": "••••••••que utilizan la modulación de rendimiento cíclico [2006.01]"
+  },
+  {
+    "code": "H04N 5/926",
+    "description": "••••••••mediante modulación por impulsos codificados (H04N 5/919 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H04N 5/928",
+    "description": "••••••••estando la señal sonora modulada por impulsos codificados y registrada en multiplex de división de tiempos con la señal de video modulada [2006.01]"
+  },
+  {
+    "code": "H04N 5/93",
+    "description": "••••••Regeneración de la señal de televisión o de partes seleccionadas de ésta [2006.01]"
+  },
+  {
+    "code": "H04N 5/931",
+    "description": "••••••••para restablecer los niveles de la señal reproducida [2006.01]"
+  },
+  {
+    "code": "H04N 5/932",
+    "description": "••••••••Regeneración de las señales de sincronización analógicas [2006.01]"
+  },
+  {
+    "code": "H04N 5/935",
+    "description": "••••••••Regeneración de las señales de sincronización digitales [2006.01]"
+  },
+  {
+    "code": "H04N 5/937",
+    "description": "••••••••mediante la unión de bloques de elementos de imagen en una memoria intermedia [2006.01]"
+  },
+  {
+    "code": "H04N 5/94",
+    "description": "••••••••Compensación de la pérdida de señal [2006.01]"
+  },
+  {
+    "code": "H04N 5/945",
+    "description": "••••••••••para las señales registradas mediante modulación por impulsos codificados [2006.01]"
+  },
+  {
+    "code": "H04N 5/95",
+    "description": "••••••••Compensación de error de la base de tiempo [2006.01]"
+  },
+  {
+    "code": "H04N 5/953",
+    "description": "••••••••••que utilizan una memoria analógica, p. ej. un registro de desplazamiento-CCD, cuyo retardo es controlado por un oscilador controlado en tensión [2006.01]"
+  },
+  {
+    "code": "H04N 5/956",
+    "description": "••••••••••que utilizan una memoria digital con los generadores de reloj de escritura y de lectura independientes [2006.01]"
+  },
+  {
+    "code": "H04N 7/00",
+    "description": "Sistemas de televisión (detalles H04N 3/00, H04N 5/00; métodos y arreglos, para la codificación, decodificación, compresión o descompresión de señales de vídeo digital H04N 19/00; distribución selectiva de contenido H04N 21/00) [2011.01]"
+  },
+  {
+    "code": "H04N 7/01",
+    "description": "••Conversión de normas [2006.01]"
+  },
+  {
+    "code": "H04N 7/015",
+    "description": "••Sistemas de televisión de alta definición [2006.01]"
+  },
+  {
+    "code": "H04N 7/025",
+    "description": "••Sistemas para la transmisión de datos digitales distintos de datos de imagen, p. ej. de texto durante la parte activa de una trama de televisión [2006.01]"
+  },
+  {
+    "code": "H04N 7/03",
+    "description": "••••Sistemas de suscripción a este efecto [2006.01]"
+  },
+  {
+    "code": "H04N 7/035",
+    "description": "••••Circuitos para datos digitales distintos de los datos de imagen, p. ej. para el recorte de la señal de datos, para la regeneración de la señal de reloj de datos, para la detección o la corrección de errores de la señal de datos [2006.01]"
+  },
+  {
+    "code": "H04N 7/04",
+    "description": "••Sistemas para la transmisión de una única señal de televisión, es decir, imagen y sonido son transmitidos por una sola portadora [2006.01]"
+  },
+  {
+    "code": "H04N 7/045",
+    "description": "••••estando la onda portadora modulada en frecuencia [2006.01]"
+  },
+  {
+    "code": "H04N 7/06",
+    "description": "••Sistemas para la transmisión simultánea de una única señal de televisión, es decir, la imagen y el sonido son transmitidos por más de una portadora [2006.01]"
+  },
+  {
+    "code": "H04N 7/08",
+    "description": "••Sistemas para la transmisión simultánea o secuencial de más de una señal de televisión, p. ej. señales de información adicional, señales que ocupan total o parcialmente la misma banda de frecuencia [2006.01]"
+  },
+  {
+    "code": "H04N 7/081",
+    "description": "••••señales de información adicional que están transmitidas por una sub-portadora [2006.01]"
+  },
+  {
+    "code": "H04N 7/083",
+    "description": "••••con inserción de la señal en el intervalo de supresión vertical y horizontal [2006.01]"
+  },
+  {
+    "code": "H04N 7/084",
+    "description": "••••con inserción de la señal en el intervalo de supresión horizontal [2006.01]"
+  },
+  {
+    "code": "H04N 7/085",
+    "description": "••••••siendo la señal insertada digital [2006.01]"
+  },
+  {
+    "code": "H04N 7/087",
+    "description": "••••con inserción de la señal en el intervalo de supresión vertical [2006.01]"
+  },
+  {
+    "code": "H04N 7/088",
+    "description": "••••••siendo la señal insertada digital [2006.01]"
+  },
+  {
+    "code": "H04N 7/10",
+    "description": "••Adaptaciones para la transmisión por cable eléctrico (H04N 7/12  tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H04N 7/12",
+    "description": "••Sistemas en los cuales la señal de televisión es transmitida vía uno o varios canales paralelos, siendo el ancho de banda de cada canal inferior al ancho de banda de la señal de televisión (H04N 7/24 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H04N 7/14",
+    "description": "••Sistemas de doble vía (H04N 7/173  tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H04N 7/15",
+    "description": "••••Sistemas para conferencias [2006.01]"
+  },
+  {
+    "code": "H04N 7/16",
+    "description": "••Sistemas de secreto analógicos; Sistemas de pago previo analógico [2011.01]"
+  },
+  {
+    "code": "H04N 7/167",
+    "description": "••••Sistemas que producen la señal de televisión ininteligible y después inteligible [2011.01]"
+  },
+  {
+    "code": "H04N 7/169",
+    "description": "••••••Sistemas que funcionan en el dominio del tiempo de la señal de televisión [2011.01]"
+  },
+  {
+    "code": "H04N 7/171",
+    "description": "••••••Sistemas que funcionan en el dominio de la amplitud de la señal de televisión [2011.01]"
+  },
+  {
+    "code": "H04N 7/173",
+    "description": "••••de dos vías, p. ej. enviando el abonado un señal de selección del programa [2011.01]"
+  },
+  {
+    "code": "H04N 7/18",
+    "description": "••Sistemas de televisión en circuito cerrado [CCTV], es decir, sistemas en los cuales no se difunde la señal de video [2006.01]"
+  },
+  {
+    "code": "H04N 7/20",
+    "description": "••Adaptaciones para la transmisión por una banda de frecuencias del dominio de los GHz, p. ej. por satélite [2006.01]"
+  },
+  {
+    "code": "H04N 7/22",
+    "description": "••Adaptaciones para la transmisión óptica [2006.01]"
+  },
+  {
+    "code": "H04N 7/24",
+    "description": "••Sistemas para la transmisión de señales de televisión que utilizan la modulación por impulsos codificados (H04N 21/00  tiene prioridad) [2011.01]"
+  },
+  {
+    "code": "H04N 7/52",
+    "description": "••••Sistema para la transmisión de un impulso codificado modulado con otras señales moduladas por impulsos codificados, p. ej. una señal de audio o una señal de sincronización  mediante la combinación de un flujo de video con otros datos de contenido o adicionales (multiplexado de flujos multiplexados, inserción de bits de relleno en un flujo multiplexado, para obtener una tasa de bits constante, ensamblado de flujo elemental en paquetes en el lado del servidor H04N 21/236; Desensamblado de un flujo multiplexado, multiplexación de flujo multiplexado, extracción o procesado de  Servicos de Información, desensamblado de un flujo elemental en paquetes H04N 21/434) [2011.01]"
+  },
+  {
+    "code": "H04N 7/54",
+    "description": "••••••siendo las señales síncronas [2006.01]"
+  },
+  {
+    "code": "H04N 7/56",
+    "description": "••••••••sistemas de sincronización a este efecto [2006.01]"
+  },
+  {
+    "code": "H04N 9/00",
+    "description": "Detalles de los sistemas de televisión en color [2006.01]"
+  },
+  {
+    "code": "H04N 9/01",
+    "description": "••Circuitos para la demodulación de señales de componentes de color moduladas espacialmente por filtros de rayas de color mediante la separación de fases [2023.01]"
+  },
+  {
+    "code": "H04N 9/03",
+    "description": "••Circuitos para la demodulación de señales de componentes de color moduladas espacialmente por filtros de rayas de color mediante la separación de frecuencias [2023.01]"
+  },
+  {
+    "code": "H04N 9/04",
+    "description": ""
+  },
+  {
+    "code": "H04N 9/07",
+    "description": ""
+  },
+  {
+    "code": "H04N 9/077",
+    "description": ""
+  },
+  {
+    "code": "H04N 9/083",
+    "description": ""
+  },
+  {
+    "code": "H04N 9/09",
+    "description": ""
+  },
+  {
+    "code": "H04N 9/093",
+    "description": ""
+  },
+  {
+    "code": "H04N 9/097",
+    "description": ""
+  },
+  {
+    "code": "H04N 9/10",
+    "description": ""
+  },
+  {
+    "code": "H04N 9/11",
+    "description": "••Análisis de películas cinematográficas en color, p. ej. para el telecine [2006.01]"
+  },
+  {
+    "code": "H04N 9/12",
+    "description": "••Reproductores de imágenes (H04N 9/11 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H04N 9/14",
+    "description": "••••que utiliza únicamente  medios de exploración óptico-mecánicos [2006.01]"
+  },
+  {
+    "code": "H04N 9/16",
+    "description": "••••que utiliza tubos de rayos catódicos (H04N 9/11 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H04N 9/18",
+    "description": "••••••utilizando haces de electrones separados para las señales de color primario (H04N 9/27 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H04N 9/20",
+    "description": "••••••••con varios haces por tubo [2006.01]"
+  },
+  {
+    "code": "H04N 9/22",
+    "description": "••••••empleando el mismo haz para más de una información de color primario (H04N 9/27 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H04N 9/24",
+    "description": "••••••••empleando medios integrados o exteriores al tubo para producir la señal indicadora de la posición instantánea del haz [2006.01]"
+  },
+  {
+    "code": "H04N 9/26",
+    "description": "••••••••empleando medios electro-ópticos para la selección del color, p. ej. rejilla de líneas, medios de desviación en o cerca del cañón o en las proximidades de la pantalla fluorescente [2006.01]"
+  },
+  {
+    "code": "H04N 9/27",
+    "description": "••••••con un haz de electrones con profundidad de penetración variable en la capa luminiscente, p. ej. penetrones [2006.01]"
+  },
+  {
+    "code": "H04N 9/28",
+    "description": "••••••Disposiciones de convergencia o de enfoque [2006.01]"
+  },
+  {
+    "code": "H04N 9/285",
+    "description": "••••••••que utiliza lentes cuadripolares [2006.01]"
+  },
+  {
+    "code": "H04N 9/29",
+    "description": "••••••utilizando la desmagnetización o la compensación de los campos magnéticos externos [2006.01]"
+  },
+  {
+    "code": "H04N 9/30",
+    "description": "••••utilizando dispositivos de representación en color de estado sólido [2006.01]"
+  },
+  {
+    "code": "H04N 9/31",
+    "description": "••••Dispositivos de proyección para la presentación de imágenes en color [2006.01]"
+  },
+  {
+    "code": "H04N 9/43",
+    "description": "••Conversión de señales de imagen monocroma en señales de imagen en color para visualizar una imagen en color [2006.01]"
+  },
+  {
+    "code": "H04N 9/44",
+    "description": "••Sincronización de colores [2006.01]"
+  },
+  {
+    "code": "H04N 9/45",
+    "description": "••••Generación o recuperación de las subportadoras de color [2006.01]"
+  },
+  {
+    "code": "H04N 9/455",
+    "description": "••••Generación de señales de sincronización cromática; Inserción o separación de las señales de sincronización cromática en las señales de imagen en color (H04N 9/45 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H04N 9/465",
+    "description": "••••Sincronización de la conmutación PAL [2006.01]"
+  },
+  {
+    "code": "H04N 9/47",
+    "description": "••••para señales secuenciales [2006.01]"
+  },
+  {
+    "code": "H04N 9/475",
+    "description": "••••para sincronizar mutuamente diferentes generadores de sincronización [2006.01]"
+  },
+  {
+    "code": "H04N 9/64",
+    "description": "••Circuitos para el tratamiento de las señales de color (H04N 9/77 tiene prioridad; proceso de imágenes de cámara para el tratamiento de las señales de color H04N 23/84) [2023.01]"
+  },
+  {
+    "code": "H04N 9/65",
+    "description": "••••para moduladores síncronos [2006.01]"
+  },
+  {
+    "code": "H04N 9/66",
+    "description": "••••para demoduladores síncronos [2006.01]"
+  },
+  {
+    "code": "H04N 9/67",
+    "description": "••••para combinación matricial (proceso de imágenes de cámara para combinación matricial de señales de color H04N 23/85) [2023.01]"
+  },
+  {
+    "code": "H04N 9/68",
+    "description": "••••para controlar la amplitud de las señales de color, p. ej. circuitos para el control automático de la saturación de color (H04N 9/71, H04N 9/73 tienen prioridad; proceso de imágenes de cámara para controlar la saturación de las señales de color H04N 23/86) [2023.01]"
+  },
+  {
+    "code": "H04N 9/69",
+    "description": "••••••Circuitos para modificar las señales de color por corrección gamma (control de la respuesta de la cámara para señales de color H04N 23/83) [2023.01]"
+  },
+  {
+    "code": "H04N 9/70",
+    "description": "••••para supresión de color [2006.01]"
+  },
+  {
+    "code": "H04N 9/71",
+    "description": "••••••combinados con el control de ganancias de color [2006.01]"
+  },
+  {
+    "code": "H04N 9/72",
+    "description": "••••para la reinserción de la componente de corriente continua y para variaciones lentas de las señales de color (proceso de imágenes de cámara para la reinserción de la componente de corriente continua o para variaciones lentas de las señales de color H04N 23/87) [2023.01]"
+  },
+  {
+    "code": "H04N 9/73",
+    "description": "••••Circuitos para el balance de color, p. ej. circuitos para balance de blancos o control de la temperatura del color (proceso de imágenes de cámara para balance de color H04N 23/88) [2023.01]"
+  },
+  {
+    "code": "H04N 9/74",
+    "description": "••••para obtener efectos especiales (H04N 9/65-H04N 9/73 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H04N 9/75",
+    "description": "••••••Conmutacion controlada por la saturación de color [2006.01]"
+  },
+  {
+    "code": "H04N 9/76",
+    "description": "••••••para la mezcla de señales de color (H04N 9/75 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H04N 9/77",
+    "description": "••Circuitos para el procesamiento de una respecto a la otra de las señales de luminancia y crominancia, p. ej. ajuste de la fase de la señal de luminancia respecto a la señal de color, corrección diferencial de la ganancia o de la fase (circuitos para combinación matricial H04N 9/67) [2006.01]"
+  },
+  {
+    "code": "H04N 9/78",
+    "description": "••••para separar la señal de luminancia o la de crominancia de la señal de televisión en color, p. ej. utilizando un filtro de característica en peine [2006.01]"
+  },
+  {
+    "code": "H04N 9/79",
+    "description": "••Tratamiento de las señales de televisión en color en combinación con el registro [2006.01]"
+  },
+  {
+    "code": "H04N 9/793",
+    "description": "••••para controlar el nivel de la señal de crominancia, p. ej. por los circuitos para el control automático de la ganancia de la señal de color [2006.01]"
+  },
+  {
+    "code": "H04N 9/797",
+    "description": "••••para registrar la señal en varios canales, siendo el ancho de banda de cada canal menor que el ancho de banda de la señal (H04N 9/804, H04N 9/81, H04N 9/82 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H04N 9/80",
+    "description": "••••Transformación de la señal de televisión para registrarla, p. ej. modulación, cambio de frecuencia; Transformación inversa para la reproducción [2006.01]"
+  },
+  {
+    "code": "H04N 9/802",
+    "description": "••••••que implican un procesamiento de la señal sonora (H04N 9/806, H04N 9/835 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H04N 9/804",
+    "description": "••••••que implican una modulación por impulsos codificados para los componentes de la señal de imagen en color [2006.01]"
+  },
+  {
+    "code": "H04N 9/806",
+    "description": "••••••••con un procesamiento de la señal sonora [2006.01]"
+  },
+  {
+    "code": "H04N 9/808",
+    "description": "••••••que implican una modulación por impulsos codificados de la señal de video compuesta en color [2006.01]"
+  },
+  {
+    "code": "H04N 9/81",
+    "description": "••••••siendo registradas las componentes individuales de las señales de imagen en color solamente de forma secuencial [2006.01]"
+  },
+  {
+    "code": "H04N 9/815",
+    "description": "••••••••estando registradas la señal de luminancia y las componentes secuenciales de las señales de color en canales de registro separados [2006.01]"
+  },
+  {
+    "code": "H04N 9/82",
+    "description": "••••••siendo registradas las componentes individuales de las señales de imagen solamente de forma simultánea [2006.01]"
+  },
+  {
+    "code": "H04N 9/825",
+    "description": "••••••••estando registradas las señales de luminancia y de crominancia en canales de registro separados [2006.01]"
+  },
+  {
+    "code": "H04N 9/83",
+    "description": "••••••••ocupando la señal de crominancia registrada una banda de frecuencia situada por debajo de la banda de frecuencia ocupada por la señal de luminancia [2006.01]"
+  },
+  {
+    "code": "H04N 9/835",
+    "description": "••••••••••que implican un procesamiento de la señal sonora [2006.01]"
+  },
+  {
+    "code": "H04N 9/84",
+    "description": "••••••••••la señal registrada presenta una característica que es diferente en pistas adyacentes, p. ej. fase o frecuencia diferente [2006.01]"
+  },
+  {
+    "code": "H04N 9/85",
+    "description": "••••••••la señal de luminancia registrada ocupa una banda de frecuencia totalmente superpuesta a la banda de frecuencia ocupada por la señal de crominancia, p. ej. entrelazado de frecuencias [2006.01]"
+  },
+  {
+    "code": "H04N 9/86",
+    "description": "••••••siendo registradas las componentes individuales de las señales de imagen en color secuencial y simultáneamente, p. ej. correspondiente al sistema SECAM [2006.01]"
+  },
+  {
+    "code": "H04N 9/87",
+    "description": "••••Regeneración de las señales de televisión en color (H04N 9/80 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H04N 9/873",
+    "description": "••••••para restablecer la secuencia de las componentes de color de la señal reproducida [2006.01]"
+  },
+  {
+    "code": "H04N 9/877",
+    "description": "••••••mediante la unión de bloque de elementos de imagen en una memoria intermedia [2006.01]"
+  },
+  {
+    "code": "H04N 9/88",
+    "description": "••••••Compensación de las caídas de señal [2006.01]"
+  },
+  {
+    "code": "H04N 9/882",
+    "description": "••••••••siendo la señal una señal de televisión en color compuesta [2006.01]"
+  },
+  {
+    "code": "H04N 9/885",
+    "description": "••••••••••que utilizan una memoria digital intermedia [2006.01]"
+  },
+  {
+    "code": "H04N 9/888",
+    "description": "••••••••para las señales registradas mediante modulación por impulsos codificados [2006.01]"
+  },
+  {
+    "code": "H04N 9/89",
+    "description": "••••••Compensación del error de la base de tiempos [2006.01]"
+  },
+  {
+    "code": "H04N 9/893",
+    "description": "••••••••que utilizan una memoria analógica, p. ej. un registro de desplazamiento-CCD, cuyo retardo es controlado mediante un oscilador controlado en tensión [2006.01]"
+  },
+  {
+    "code": "H04N 9/896",
+    "description": "••••••••que utilizan una memoria digital con los generadores de reloj de escritura y de lectura independientes [2006.01]"
+  },
+  {
+    "code": "H04N 9/898",
+    "description": "••••••que utilizan la multiplicación de frecuencia de la señal de color reproducida con otra señal auxiliar reproducida, p. ej. una portadora de señal piloto [2006.01]"
+  },
+  {
+    "code": "H04N 11/00",
+    "description": "Sistemas de televisión en color (detalles H04N 9/00) [2006.01]"
+  },
+  {
+    "code": "H04N 11/02",
+    "description": "••con reduccion del ancho de banda (H04N 11/04 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H04N 11/04",
+    "description": "••que utilizan la modulación por impulsos codificados [2006.01]"
+  },
+  {
+    "code": "H04N 11/06",
+    "description": "••Sistemas de transmisión caracterizados por la forma en que son combinadas las componentes individuales de la señal de imagen en color [2006.01]"
+  },
+  {
+    "code": "H04N 11/08",
+    "description": "••••que utilizan solamente señales secuenciales (sistemas de sucesión de puntos H04N 11/12) [2006.01]"
+  },
+  {
+    "code": "H04N 11/10",
+    "description": "••••••en los cuales las señales de color son insertadas en el intervalo de supresion de la señal de luminancia [2006.01]"
+  },
+  {
+    "code": "H04N 11/12",
+    "description": "••••que utilizan solamente señales simultáneas [2006.01]"
+  },
+  {
+    "code": "H04N 11/14",
+    "description": "••••••en los cuales una primera señal modulada en fase y en amplitud transporta la información de color y una segunda señal transporta la información de luminancia, p. ej. sistema N.T.S.C. [2006.01]"
+  },
+  {
+    "code": "H04N 11/16",
+    "description": "••••••••alternando en fase la señal de crominancia, p. ej. sistema PAL [2006.01]"
+  },
+  {
+    "code": "H04N 11/18",
+    "description": "••••que utilizan señales simultáneas y secuenciales, p. ej. sistema SECAM [2006.01]"
+  },
+  {
+    "code": "H04N 11/20",
+    "description": "••••Conversión del modo de combinación de las componentes individuales de la señal de imagen en color, p. ej. conversión de las normas de televisión en color [2006.01]"
+  },
+  {
+    "code": "H04N 11/22",
+    "description": "••••••en los que las señales simultáneas son convertidas en señales secuenciales o viceversa [2006.01]"
+  },
+  {
+    "code": "H04N 11/24",
+    "description": "••Sistemas de televisión de alta definición [2006.01]"
+  },
+  {
+    "code": "H04N 13/00",
+    "description": "Sistemas de video estereoscópico; Sistemas de video multivista; Sus detalles [2018.01]"
+  },
+  {
+    "code": "H04N 13/10",
+    "description": "••Procesamiento, registro o transmisión de imágenes estereoscópicas o multivista [2018.01]"
+  },
+  {
+    "code": "H04N 13/106",
+    "description": "••••Procesamiento de las señales de imagen (para codificación de secuencias de video multivista H04N 19/597) [2018.01]"
+  },
+  {
+    "code": "H04N 13/111",
+    "description": "••••••Transformación de señales de imagen correspondiente a unos puntos de vista virtuales, p. ej. interpolación espacial de la imagen [2018.01]"
+  },
+  {
+    "code": "H04N 13/117",
+    "description": "••••••••siendo seleccionadas las posiciones de los puntos de vista virtuales por los espectadores o determinadas por el seguimiento del espectador [2018.01]"
+  },
+  {
+    "code": "H04N 13/122",
+    "description": "••••••Mejora de la impresión 3D de imágenes estereocópicas por modificación de los contenidos de las señales de las imágenes, p. ej. por filtración o por adición de indicaciones monoscópicas de profundidad (H04N 13/128 tiene prioridad) [2018.01]"
+  },
+  {
+    "code": "H04N 13/125",
+    "description": "••••••••para la reducción de la diafonía [2018.01]"
+  },
+  {
+    "code": "H04N 13/128",
+    "description": "••••••Ajustando la profundidad o la disparidad [2018.01]"
+  },
+  {
+    "code": "H04N 13/133",
+    "description": "••••••Igualando las características de los diferentes componentes de las imágenes, p. ej. su luminosidad media o su equilibrio cromático [2018.01]"
+  },
+  {
+    "code": "H04N 13/139",
+    "description": "••••••Conversión del formato, p.ej. de la frecuencia de cuadro o del tamaño [2018.01]"
+  },
+  {
+    "code": "H04N 13/144",
+    "description": "••••••para reducción del titileo o parpadeo de la imagen [2018.01]"
+  },
+  {
+    "code": "H04N 13/15",
+    "description": "••••••para los aspectos cromáticos de las señales de imagen [2018.01]"
+  },
+  {
+    "code": "H04N 13/156",
+    "description": "••••••Combinación de las señales de imagen [2018.01]"
+  },
+  {
+    "code": "H04N 13/161",
+    "description": "••••••Codificación, multiplexación o desmultiplexación de los diferentes componentes de las señales (para codificación de secuencias de video multivista H04N 19/597) [2018.01]"
+  },
+  {
+    "code": "H04N 13/167",
+    "description": "••••••Sincronización o control de las señales de las imágenes [2018.01]"
+  },
+  {
+    "code": "H04N 13/172",
+    "description": "••••••señales de imágenes que comprenden componentes no necesarios para la visualización de la imagen, p. ej. títulos o información del formato [2018.01]"
+  },
+  {
+    "code": "H04N 13/178",
+    "description": "••••••••Metadatos, p. ej. informaciones sobre la disparidad [2018.01]"
+  },
+  {
+    "code": "H04N 13/183",
+    "description": "••••••••Informaciones de visualización en pantalla [OSD], p. ej. subtítulos o menús [2018.01]"
+  },
+  {
+    "code": "H04N 13/189",
+    "description": "••••Grabación de señales de imágenes; Reproduccción de las señales de imagen grabadas [2018.01]"
+  },
+  {
+    "code": "H04N 13/194",
+    "description": "••••Transmisión de las señales de imagen [2018.01]"
+  },
+  {
+    "code": "H04N 13/20",
+    "description": "••Generadores de las señales de imagen [2018.01]"
+  },
+  {
+    "code": "H04N 13/204",
+    "description": "••••utilizando cámaras de imágenes estereocópicas (fotografía estereocópica G03B 35/00) [2018.01]"
+  },
+  {
+    "code": "H04N 13/207",
+    "description": "••••••utilizando un único sensor de imágenes 2D [2018.01]"
+  },
+  {
+    "code": "H04N 13/211",
+    "description": "••••••••utilizando multiplexación temporal [2018.01]"
+  },
+  {
+    "code": "H04N 13/214",
+    "description": "••••••••utilizando multiplexación espectral [2018.01]"
+  },
+  {
+    "code": "H04N 13/218",
+    "description": "••••••••utilizando multiplexación espacial [2018.01]"
+  },
+  {
+    "code": "H04N 13/221",
+    "description": "••••••••utilizando el movimiento relativo entre cámara y objetos [2018.01]"
+  },
+  {
+    "code": "H04N 13/225",
+    "description": "••••••••utilizando barreras de paralaje [2018.01]"
+  },
+  {
+    "code": "H04N 13/229",
+    "description": "••••••••utilizando lentes lenticulares, p. ej. disposiciones de las lentes cilíndricas [2018.01]"
+  },
+  {
+    "code": "H04N 13/232",
+    "description": "••••••••utilizando lentes del tipo ojo de mosca, p. ej. disposiciones de lentes circulares [2018.01]"
+  },
+  {
+    "code": "H04N 13/236",
+    "description": "••••••••utilizando lentes progresivas o espejos [2018.01]"
+  },
+  {
+    "code": "H04N 13/239",
+    "description": "••••••utilizando sensores de imágenes 2D que tienen una posición relativa igual o relacionada con la distancia interocular (H04N 13/243 tiene prioridad) [2018.01]"
+  },
+  {
+    "code": "H04N 13/243",
+    "description": "••••••utilizando tres o más sensores de imágenes 2D [2018.01]"
+  },
+  {
+    "code": "H04N 13/246",
+    "description": "••••••Calibración de las cámaras [2018.01]"
+  },
+  {
+    "code": "H04N 13/25",
+    "description": "••••••utilizando dos o más sensores de imágenes con características diferentes a su localización o al campo visual, p. ej. teniendo diferentes resoluciones o propiedades para la obtención de colores; utilizando señales de imágenes a partir de un sensor para controlar las características de otro sensor [2018.01]"
+  },
+  {
+    "code": "H04N 13/254",
+    "description": "••••••en combinación con fuentes de radiación electromagnética para la iluminación de objetos [2018.01]"
+  },
+  {
+    "code": "H04N 13/257",
+    "description": "••••Aspectos del color [2018.01]"
+  },
+  {
+    "code": "H04N 13/261",
+    "description": "••••con conversión de imágenes de monoscópicas a estereocópicas [2018.01]"
+  },
+  {
+    "code": "H04N 13/264",
+    "description": "••••••utilizando el movimiento relativo de los objetos en dos campos o fotogramas de vídeo [2018.01]"
+  },
+  {
+    "code": "H04N 13/268",
+    "description": "••••••mediante la representación de la profundidad basada en imágenes [DIBR] [2018.01]"
+  },
+  {
+    "code": "H04N 13/271",
+    "description": "••••donde las señales de imagen generadas comprenden mapas de profundidad o mapas de disparidad [2018.01]"
+  },
+  {
+    "code": "H04N 13/275",
+    "description": "••••a partir de modelos 3D de objetos, p. ej. señales de imágenes estereocópicas generadas con ordenador [2018.01]"
+  },
+  {
+    "code": "H04N 13/279",
+    "description": "••••••las posiciones de los puntos de vista virtuales son seleccionadas por los espectadores o determinadas por su seguimiento [2018.01]"
+  },
+  {
+    "code": "H04N 13/282",
+    "description": "••••para la generación de señales de imágenes correspondientes a tres o más puntos de vista geometricos, p. ej. sistemas multi-visión [2018.01]"
+  },
+  {
+    "code": "H04N 13/286",
+    "description": "••••teniendo los modos monoscópicos y estereocópicos independientes [2018.01]"
+  },
+  {
+    "code": "H04N 13/289",
+    "description": "••••••Conmutación entre los modos monoscópicos y estererocópicos [2018.01]"
+  },
+  {
+    "code": "H04N 13/293",
+    "description": "••••Generación de imágenes estereocópicas mixtas; Generación de imágenes monoscópicas y estereocópicas mixtas, p. ej. una ventana con una imagen estereoscópica superpuesta sobre un fondo de imagen monoscópica [2018.01]"
+  },
+  {
+    "code": "H04N 13/296",
+    "description": "••••Su sincronización; Su control [2018.01]"
+  },
+  {
+    "code": "H04N 13/30",
+    "description": "••Reproductores de imágenes (sistemas ópticos para producir efectos estereocópicos u otros efectos tridimensionales G02B 30/00) [2018.01]"
+  },
+  {
+    "code": "H04N 13/302",
+    "description": "••••para la visualización sin la ayuda de gafas especiales, p. ej. utilizando visualizaciones autoestereocópicas [2018.01]"
+  },
+  {
+    "code": "H04N 13/305",
+    "description": "••••••utilizando lentes lenticulares, p. ej. disposiciones de lentes cilíndricas [2018.01]"
+  },
+  {
+    "code": "H04N 13/307",
+    "description": "••••••utilizando lentes de ojo de mosca, p. ej. disposiciones de lentes circulares [2018.01]"
+  },
+  {
+    "code": "H04N 13/31",
+    "description": "••••••utilizando barreras de paralaje [2018.01]"
+  },
+  {
+    "code": "H04N 13/312",
+    "description": "••••••••donde las barreras de paralaje están colocadas destrás del panel de visualización, p. ej. entre la retroiluminación y el modulador espacial de luz [SLM] [2018.01]"
+  },
+  {
+    "code": "H04N 13/315",
+    "description": "••••••••donde las barreras de paralaje cambian con el tiempo [2018.01]"
+  },
+  {
+    "code": "H04N 13/317",
+    "description": "••••••donde el paralaje procede de elementos ópticos inclinados [2018.01]"
+  },
+  {
+    "code": "H04N 13/32",
+    "description": "••••••utilizando matrices de fuentes luminosas controlables; utilizando las aperturas en movimiento o las fuentes de luz en movimiento [2018.01]"
+  },
+  {
+    "code": "H04N 13/322",
+    "description": "••••••utilizando lentes progresivas o espejos [2018.01]"
+  },
+  {
+    "code": "H04N 13/324",
+    "description": "••••Aspectos relacionados con el color [2018.01]"
+  },
+  {
+    "code": "H04N 13/327",
+    "description": "••••Su calibración [2018.01]"
+  },
+  {
+    "code": "H04N 13/332",
+    "description": "••••Pantallas para la visualización con la ayuda de gafas especiales o cascos de realidad virtual [HMD] [2018.01]"
+  },
+  {
+    "code": "H04N 13/334",
+    "description": "••••••utilizando multiplexación espectral [2018.01]"
+  },
+  {
+    "code": "H04N 13/337",
+    "description": "••••••utilizando multiplexación por polarización [2018.01]"
+  },
+  {
+    "code": "H04N 13/339",
+    "description": "••••••utilizando multiplexación espacial (H04N 13/337 tiene prioridad) [2018.01]"
+  },
+  {
+    "code": "H04N 13/341",
+    "description": "••••••utilizando multiplexación temporal [2018.01]"
+  },
+  {
+    "code": "H04N 13/344",
+    "description": "••••••con los cascos de realidad virtual llevando visualización izquierda-derecha [2018.01]"
+  },
+  {
+    "code": "H04N 13/346",
+    "description": "••••utilizando prismas o espejos semi-transparentes [2018.01]"
+  },
+  {
+    "code": "H04N 13/349",
+    "description": "••••Pantallas multivisión para visualizar tres o más puntos de vista geométricos sin seguimiento del espectador (para la visualización sin la ayuda de gafas especiales, utilizando lentes de ojo de mosca H04N 13/307) [2018.01]"
+  },
+  {
+    "code": "H04N 13/351",
+    "description": "••••••para la visualización simultánea [2018.01]"
+  },
+  {
+    "code": "H04N 13/354",
+    "description": "••••••para la visualización secuencial [2018.01]"
+  },
+  {
+    "code": "H04N 13/356",
+    "description": "••••teniendo los modos monoscópicos y estereocópicos independientes [2018.01]"
+  },
+  {
+    "code": "H04N 13/359",
+    "description": "••••••Conmutación entre los modos monoscópicos y estereoscópicos [2018.01]"
+  },
+  {
+    "code": "H04N 13/361",
+    "description": "••••Reproducción de imágenes estereoscópicas mixtas; Reproducción de imágenes monoscópicas y estereocópicas mixtas, p. ej. una ventana de una imagen estereoscópica se superpone sobre un fondo de imagen monoscópica [2018.01]"
+  },
+  {
+    "code": "H04N 13/363",
+    "description": "••••utilizando pantallas de proyección de imágenes (visualizaciones volumétricas H04N 13/388) [2018.01]"
+  },
+  {
+    "code": "H04N 13/365",
+    "description": "••••utilizando dispositivos digitales de microespejos [DMD] [2018.01]"
+  },
+  {
+    "code": "H04N 13/366",
+    "description": "••••utilizando el seguimiento del espectador [2018.01]"
+  },
+  {
+    "code": "H04N 13/368",
+    "description": "••••••para dos o más espectadores [2018.01]"
+  },
+  {
+    "code": "H04N 13/371",
+    "description": "••••••para el seguimiento de los espectadores con diferentes distancias interoculares; para visualización de los movimientos de la cabeza en rotación alrededor del eje equis [2018.01]"
+  },
+  {
+    "code": "H04N 13/373",
+    "description": "••••••para seguimiento de los movimientos de la cabeza en traslación delante-detrás, p. ej. movimientos longitudinales [2018.01]"
+  },
+  {
+    "code": "H04N 13/376",
+    "description": "••••••para seguimiento de los movimientos izquierda-derecha de la cabeza, p. ej. movimientos laterales [2018.01]"
+  },
+  {
+    "code": "H04N 13/378",
+    "description": "••••••para seguimiento de los movimientos rotacionales de la cabeza alrededor de un eje perpendicular a la pantalla [2018.01]"
+  },
+  {
+    "code": "H04N 13/38",
+    "description": "••••••para seguimiento de los movimientos verticales en translación de la cabeza [2018.01]"
+  },
+  {
+    "code": "H04N 13/383",
+    "description": "••••••para seguimiento con detección de la mirada, p. ej. detectando las líneas de visión de los ojos del espectador [2018.01]"
+  },
+  {
+    "code": "H04N 13/385",
+    "description": "••••alternando rápidamente la localización de los componentes de imagen izquierda-derecha en las pantallas de visualización (para ver sin la ayuda de gafas especiales usando barreras de paralaje variables con el tiempo H04N 13/315; pantallas para ver con la ayuda de gafas especiales o cascos de realidad virtual usando multiplexación temporal H04N 13/341) [2018.01]"
+  },
+  {
+    "code": "H04N 13/388",
+    "description": "••••Visualizaciones volumétricas, es decir, sistemas donde la imagen se construye a partir de los elementos que constituyen la imagen distribuidos a través de un volumen [2018.01]"
+  },
+  {
+    "code": "H04N 13/39",
+    "description": "••••••con los elementos emitiendo luz en los lugares donde un par de haces de luz se cruzan en un material transparente [2018.01]"
+  },
+  {
+    "code": "H04N 13/393",
+    "description": "••••••donde el volumen se genera por un movimiento, p. ej. vibración o rotación, de una superfice [2018.01]"
+  },
+  {
+    "code": "H04N 13/395",
+    "description": "••••••con muestreo de la profundidad, p. ej. el volumen se construye a partir de un conjunto o una secuencia de planos de imágenes 2D [2018.01]"
+  },
+  {
+    "code": "H04N 13/398",
+    "description": "••••Su sincronización; Su control [2018.01]"
+  },
+  {
+    "code": "H04N 17/00",
+    "description": "Diagnóstico, prueba o medida, o sus detalles, para los sistemas de televisión [2006.01]"
+  },
+  {
+    "code": "H04N 17/02",
+    "description": "••para las señales de televisión en color [2006.01]"
+  },
+  {
+    "code": "H04N 17/04",
+    "description": "••para los receptores [2006.01]"
+  },
+  {
+    "code": "H04N 17/06",
+    "description": "••para los registradores [2006.01]"
+  },
+  {
+    "code": "H04N 19/00",
+    "description": "Métodos o disposiciones para la codificación, decodificación, compresión o descompresión de señales de vídeo digital [2014.01]"
+  },
+  {
+    "code": "H04N 19/10",
+    "description": "••utilizando codificación adaptativa [2014.01]"
+  },
+  {
+    "code": "H04N 19/102",
+    "description": "••••caracterizado por el elemento, parámetro o selección afectada o, controlada por la codificación adaptativa [2014.01]"
+  },
+  {
+    "code": "H04N 19/103",
+    "description": "••••••Selección de modo de codificación o, de modo de predicción [2014.01]"
+  },
+  {
+    "code": "H04N 19/105",
+    "description": "••••••••Selección de la unidad de referencia para la predicción dentro de un modo de codificación o la predicción seleccionada, p. ej elección de adaptación de posición y el número de píxeles utilizados para la predicción [2014.01]"
+  },
+  {
+    "code": "H04N 19/107",
+    "description": "••••••••codificación de predicción entre espacial y temporal, p. ej actualización de fotograma [2014.01]"
+  },
+  {
+    "code": "H04N 19/109",
+    "description": "••••••••codificación predictiva entre una pluralidad de modos temporales [2014.01]"
+  },
+  {
+    "code": "H04N 19/11",
+    "description": "••••••••codificación predictiva entre una pluralidad de modos espaciales [2014.01]"
+  },
+  {
+    "code": "H04N 19/112",
+    "description": "••••••••según un modo de visualización dado, p. ej. para el modo de pantalla entrelazada o progresiva [2014.01]"
+  },
+  {
+    "code": "H04N 19/114",
+    "description": "••••••••La adaptación de la estrucutra del grupo de imágenes [GOP], p. ej número de B-fotogramas entre dos marcos de anclaje (H04N 19/107  tiene prioridad) [2014.01]"
+  },
+  {
+    "code": "H04N 19/115",
+    "description": "••••••Selección del volumen del código para una unidad de codificación antes de la codificación [2014.01]"
+  },
+  {
+    "code": "H04N 19/117",
+    "description": "••••••Filtros, p. ej. para el pre-tratamiento o post-procesamiento (bancos de filtros de subbanda H04N 19/635) [2014.01]"
+  },
+  {
+    "code": "H04N 19/119",
+    "description": "••••••Aspectos subdivisión adaptativa p. ej. subdivisión de una imagen en bloques rectangulares o no rectangulares de codificación [2014.01]"
+  },
+  {
+    "code": "H04N 19/12",
+    "description": "••••••Selección de entre una pluralidad de transformadas o estándares, p. ej. selección entre transformada discreta del coseno [DCT] y transformación de sub-banda o selección entre H.263 y H.264 [2014.01]"
+  },
+  {
+    "code": "H04N 19/122",
+    "description": "••••••••Selección de tamaño de transformación p. ej. DCT de 8x8 2x4x8; Selección de las transformadas de sub-bandas de diferente estructura o tipo [2014.01]"
+  },
+  {
+    "code": "H04N 19/124",
+    "description": "••••••Cuantificación [2014.01]"
+  },
+  {
+    "code": "H04N 19/126",
+    "description": "••••••••Detalles de las funciones de normalización o de ponderación, p. ej matrices de normalización o cuantificadores uniformes de variables [2014.01]"
+  },
+  {
+    "code": "H04N 19/127",
+    "description": "••••••Priorización de hardware o recursos computacionales [2014.01]"
+  },
+  {
+    "code": "H04N 19/129",
+    "description": "••••••Escaneado de unidades de codificación, p. ej. exploración en zig-zag de coeficientes de transformación, o ordenación flexible de macrobloque [FMO] [2014.01]"
+  },
+  {
+    "code": "H04N 19/13",
+    "description": "••••••Codificación de entropía adaptativa, p. ej. codificación adaptativa de longitud variable [AVLC] o codificación adaptativa de contexto de aritmética binaria [CABAC] [2014.01]"
+  },
+  {
+    "code": "H04N 19/132",
+    "description": "••••••Muestreo, enmascaramiento o truncamiento de las unidades de codificación, p. ej remuestreo adaptativo, salto de trama, interpolación de cuadros o transfromada de alta frecuencia de coeficiente de enmascaramiento [2014.01]"
+  },
+  {
+    "code": "H04N 19/134",
+    "description": "••••caracterizado porque el elemento, parámetro o criterio que afecte o el control de la codificación adaptativa [2014.01]"
+  },
+  {
+    "code": "H04N 19/136",
+    "description": "••••••Características o propiedades de la señal de vídeo de entranda [2014.01]"
+  },
+  {
+    "code": "H04N 19/137",
+    "description": "••••••••Movimiento dentro de una unidad de codificación, p. ej. media del campo, marco o diferencia de bloque [2014.01]"
+  },
+  {
+    "code": "H04N 19/139",
+    "description": "••••••••••Análisis de vectores de movimiento, p. ej. su magnitud, la dirección, la variación o la fiabilidad [2014.01]"
+  },
+  {
+    "code": "H04N 19/14",
+    "description": "••••••••Complejidad de la unidad de codificación, p. ej. cantidad de actividad o estimación de presencia de bordes (H04N 19/146 tiene prioridad) [2014.01]"
+  },
+  {
+    "code": "H04N 19/142",
+    "description": "••••••Detección de corte de escena o de cambio de escena [2014.01]"
+  },
+  {
+    "code": "H04N 19/146",
+    "description": "••••••Velocidad de datos o la cantidad de código en la salida del codificador [2014.01]"
+  },
+  {
+    "code": "H04N 19/147",
+    "description": "••••••••según el tipo de criterio de distorsión (tasa de distorsión como un criterio para la estimación del movimiento H04N 19/567) [2014.01]"
+  },
+  {
+    "code": "H04N 19/149",
+    "description": "••••••••estimando la cuantía de código por medio de un modelo, p. ej modelo matemático o un modelo estadístico [2014.01]"
+  },
+  {
+    "code": "H04N 19/15",
+    "description": "••••••••monitorizando el tamaño de datos comprimidos actual en la memoria antes de decidir el almacenamiento en la memoria intermedia (buffer) de transmisión [2014.01]"
+  },
+  {
+    "code": "H04N 19/152",
+    "description": "••••••••mediante la medición del llenado de la memoria intermedia (buffer) de transmisión [2014.01]"
+  },
+  {
+    "code": "H04N 19/154",
+    "description": "••••••Calidad visual medida o estimada subjetivamente después de la decodificación, p. ej medida de la distorsión (utilización de criterios tasa de distorsión H04N 19/147) [2014.01]"
+  },
+  {
+    "code": "H04N 19/156",
+    "description": "••••••Disponibilidad de hardware o recursos computacionales, p. ej codificación basada en criterios de ahorro de energía [2014.01]"
+  },
+  {
+    "code": "H04N 19/157",
+    "description": "••••••Modo de codificación asignado, es decir, el modo de codificación está predefinido o preseleccionado para ser utilizado adicionalmente para la selección de otro elemento o parámetro [2014.01]"
+  },
+  {
+    "code": "H04N 19/159",
+    "description": "••••••••Tipo de predicción, p. ej. intra-fotograma, entre-fotograma (frame) o predicción fotograma bidireccional [2014.01]"
+  },
+  {
+    "code": "H04N 19/16",
+    "description": "••••••••para un modo de visualización dado, p. ej. para el modo de pantalla entrelazada o progresiva [2014.01]"
+  },
+  {
+    "code": "H04N 19/162",
+    "description": "••••••Entrada de usuario [2014.01]"
+  },
+  {
+    "code": "H04N 19/164",
+    "description": "••••••Comentarios del receptor o del canal de transmisión [2014.01]"
+  },
+  {
+    "code": "H04N 19/166",
+    "description": "••••••••relativa a la cantidad de errores de transmisión, p. ej tasa de error de bit [BER] [2014.01]"
+  },
+  {
+    "code": "H04N 19/167",
+    "description": "••••••Posición de una imagen de vídeo dentro de una zona, p. ej. región de interés [ROI] [2014.01]"
+  },
+  {
+    "code": "H04N 19/169",
+    "description": "••••caracterizado por la unidad de codificación, es decir, la porción estructural o la parte semántica de la señal de vídeo que es el objeto o sujeto de la codificación adaptativa [2014.01]"
+  },
+  {
+    "code": "H04N 19/17",
+    "description": "••••••siendo la unidad una región de imagen, p. ej. un objeto [2014.01]"
+  },
+  {
+    "code": "H04N 19/172",
+    "description": "••••••••siendo la región una imagen, un fotograma o un campo [2014.01]"
+  },
+  {
+    "code": "H04N 19/174",
+    "description": "••••••••siendo la región de un sector, p. ej. una línea de bloques o un grupo de bloques [2014.01]"
+  },
+  {
+    "code": "H04N 19/176",
+    "description": "••••••••siendo la región de un bloque, p. ej. un macrobloque [2014.01]"
+  },
+  {
+    "code": "H04N 19/177",
+    "description": "••••••siendo la unidad un grupo de imágenes [GOP] [2014.01]"
+  },
+  {
+    "code": "H04N 19/179",
+    "description": "••••••siendo la unidad una escena o un disparo (shot) [2014.01]"
+  },
+  {
+    "code": "H04N 19/18",
+    "description": "••••••siendo la unidad un conjunto de coeficientes de transformación [2014.01]"
+  },
+  {
+    "code": "H04N 19/182",
+    "description": "••••••siendo la unidad un pixel [2014.01]"
+  },
+  {
+    "code": "H04N 19/184",
+    "description": "••••••siendo la unidad bits,  p. ej. el flujo de vídeo comprimido [2014.01]"
+  },
+  {
+    "code": "H04N 19/186",
+    "description": "••••••siendo la unidad un color o un componente de crominancia [2014.01]"
+  },
+  {
+    "code": "H04N 19/187",
+    "description": "••••••siendo la unidad una capa de vídeo escalable [2014.01]"
+  },
+  {
+    "code": "H04N 19/189",
+    "description": "••••caracterizado por el método de adaptación, herramienta de adaptación o el tipo de adaptación de las utilizadas para la codificación adaptativa [2014.01]"
+  },
+  {
+    "code": "H04N 19/19",
+    "description": "••••••mediante la optimización basada en multiplicadores de Lagranges [2014.01]"
+  },
+  {
+    "code": "H04N 19/192",
+    "description": "••••••el método de adaptación, la herramienta de adaptación o el tipo de adaptación siendo iterativo o recursivo [2014.01]"
+  },
+  {
+    "code": "H04N 19/194",
+    "description": "••••••••que participen sólo dos pases [2014.01]"
+  },
+  {
+    "code": "H04N 19/196",
+    "description": "••••••está especialmente adaptado para el cálculo de los parámetros de codificación, p. ej. promediando los parámetros de codificación previamente calculados (procesamiento de los vectores de movimiento H04N 19/513) [2014.01]"
+  },
+  {
+    "code": "H04N 19/20",
+    "description": "••usando codificación de objetos de vídeo [2014.01]"
+  },
+  {
+    "code": "H04N 19/21",
+    "description": "••••con codificación binaria en el plano-alfa para objetos de vídeo, p. ej basado en el contexto de codificación aritmética [CAE] [2014.01]"
+  },
+  {
+    "code": "H04N 19/23",
+    "description": "••••con la codificación de las regiones que están presentes a lo largo de un segmento de vídeo conjunto, p. ej sprites, de fondo o de mosaico [2014.01]"
+  },
+  {
+    "code": "H04N 19/25",
+    "description": "••••con codificación de la descripción de la escena, p. ej. formato binario para la compresión de la escenas [BIFS] [2014.01]"
+  },
+  {
+    "code": "H04N 19/27",
+    "description": "••••involucrando tanto componentes de la imagen sintéticas como naturales, p. ej codificación híbrida natural-sintético [SNHC] [2014.01]"
+  },
+  {
+    "code": "H04N 19/29",
+    "description": "••••que implica la escalabilidad a nivel de objeto, p. ej. capa de objeto de vídeo [VOL] [2014.01]"
+  },
+  {
+    "code": "H04N 19/30",
+    "description": "••utilizando técnicas jerárquicos, p. ej. escalabilidad (H04N 19/63 tiene prioridad) [2014.01]"
+  },
+  {
+    "code": "H04N 19/31",
+    "description": "••••en el dominio temporal [2014.01]"
+  },
+  {
+    "code": "H04N 19/33",
+    "description": "••••en el dominio espacial [2014.01]"
+  },
+  {
+    "code": "H04N 19/34",
+    "description": "••••Técnicas de escalabilidad que implican la codificación basada progresiva de plano binario de la capa de realzado, p. ej escalabilidad granular fino [FGS] [2014.01]"
+  },
+  {
+    "code": "H04N 19/36",
+    "description": "••••Técnicas de escalabilidad relacionados con el formateo de las capas en función de la distorsión de la imagen después de la codificación, p. ej escalabilidad señal-ruido [SNR] [2014.01]"
+  },
+  {
+    "code": "H04N 19/37",
+    "description": "••••de las disposiciones para la asignación de diferentes prioridades de transmisión de los datos de vídeo de entrada o de los datos de vídeo codificados [2014.01]"
+  },
+  {
+    "code": "H04N 19/39",
+    "description": "••••que implica múltiple codecs de descripción [MDC], es decir, con capas (layers) separadas están estructurando como descripciones independientemente descifrables de los datos de imagen de entrada [2014.01]"
+  },
+  {
+    "code": "H04N 19/40",
+    "description": "••utilizando transcodificación de vídeo, es decir, decodificación parcial o completa de un flujo de entrada codificados seguido de re-codificación de la secuencia de salida decodificada [2014.01]"
+  },
+  {
+    "code": "H04N 19/42",
+    "description": "••caracterizado por los detalles de implementación de hardware o especialmente adaptados para la compresión o descompresión de vídeo, p. ej software de aplicación dedicado (H04N 19/635 tiene prioridad) [2014.01]"
+  },
+  {
+    "code": "H04N 19/423",
+    "description": "••••caracterizado por las disposiciones de la memoria (H04N 19/433  tiene prioridad) [2014.01]"
+  },
+  {
+    "code": "H04N 19/426",
+    "description": "••••••usando métodos de reducción de tamaño de la memoria [2014.01]"
+  },
+  {
+    "code": "H04N 19/43",
+    "description": "••••Hardware especialmente adaptada para la estimación de movimiento o compensación [2014.01]"
+  },
+  {
+    "code": "H04N 19/433",
+    "description": "••••••caracterizado por técnicas de acceso a la memoria [2014.01]"
+  },
+  {
+    "code": "H04N 19/436",
+    "description": "••••utilizando disposiciones computacionales en paralelo [2014.01]"
+  },
+  {
+    "code": "H04N 19/44",
+    "description": "••Decodificadores adaptados especialmente para ello, p. ej. decodificadores de vídeo que son asimétricos con respecto al codificador [2014.01]"
+  },
+  {
+    "code": "H04N 19/46",
+    "description": "••Incorporación de información adicional en la señal de vídeo durante el proceso de compresión (H04N 19/517, H04N 19/68, H04N 19/70  tienen prioridad) [2014.01]"
+  },
+  {
+    "code": "H04N 19/463",
+    "description": "••••mediante la compresión de los parámetros de codificación antes de la transmisión [2014.01]"
+  },
+  {
+    "code": "H04N 19/467",
+    "description": "••••caracterizado por la información incrustada siendo invisible, p. ej marcas de agua [2014.01]"
+  },
+  {
+    "code": "H04N 19/48",
+    "description": "••utilizando técnicas de procesamiento de dominio comprimidos que no sea la descodificación, p. ej modificación de coeficientes de transformación, codigos de longitud variable de datos  [VLC] de datos o datos de \"run-length\" (estimación del movimiento en un dominio de la transformada H04N 19/547; procesamiento de los vectores de movimiento descodificados H04N 19/513) [2014.01]"
+  },
+  {
+    "code": "H04N 19/50",
+    "description": "••utilizando codificación predictiva (H04N 19/61  tiene prioridad) [2014.01]"
+  },
+  {
+    "code": "H04N 19/503",
+    "description": "••••que implica predicción temporal (codificación adaptativa con la selección adaptativa entre codificación predictiva espacial y temporal H04N 19/107; codificación adaptativa con la selección adaptativa entre una pluralidad de modos codificación predictiva temporales H04N 19/109) [2014.01]"
+  },
+  {
+    "code": "H04N 19/507",
+    "description": "••••••utilizando reposición condicional [2014.01]"
+  },
+  {
+    "code": "H04N 19/51",
+    "description": "••••••Estimación del movimiento o de compensación del movimiento [2014.01]"
+  },
+  {
+    "code": "H04N 19/513",
+    "description": "••••••••Procesamiento de los vectores de movimiento [2014.01]"
+  },
+  {
+    "code": "H04N 19/517",
+    "description": "••••••••••por codificación [2014.01]"
+  },
+  {
+    "code": "H04N 19/52",
+    "description": "••••••••••••por codificación predictiva [2014.01]"
+  },
+  {
+    "code": "H04N 19/523",
+    "description": "••••••••con precisión de sub-pixel [2014.01]"
+  },
+  {
+    "code": "H04N 19/527",
+    "description": "••••••••Estimación del vector de movimiento global [2014.01]"
+  },
+  {
+    "code": "H04N 19/53",
+    "description": "••••••••Estimación del movimiento en multirresolución; Estimación del movimiento jerárquicamente [2014.01]"
+  },
+  {
+    "code": "H04N 19/533",
+    "description": "••••••••La estimación de movimiento mediante la búsqueda en varios pasos, p. ej. búsqueda 2D-log o bunqueda en un tiempo [OTS] [2014.01]"
+  },
+  {
+    "code": "H04N 19/537",
+    "description": "••••••••Estimación del movimiento que no sea basado en bloques [2014.01]"
+  },
+  {
+    "code": "H04N 19/54",
+    "description": "••••••••••utilizando puntos de función o mallas [2014.01]"
+  },
+  {
+    "code": "H04N 19/543",
+    "description": "••••••••••utilizando regiones [2014.01]"
+  },
+  {
+    "code": "H04N 19/547",
+    "description": "••••••••Estimación del movimiento llevada a cabo en un dominio de la transformada [2014.01]"
+  },
+  {
+    "code": "H04N 19/55",
+    "description": "••••••••Estimación del movimiento con limitaciones espaciales, p. ej. en imágenes o región fronteras [2014.01]"
+  },
+  {
+    "code": "H04N 19/553",
+    "description": "••••••••Estimación del movimiento enfrentandose a oclusiones [2014.01]"
+  },
+  {
+    "code": "H04N 19/557",
+    "description": "••••••••Estimación del movimiento caracteriza por detener la computación o iteración en función de determinados criterios, p. ej. siendo la magnitud del error demasiado grande o salida temprana [2014.01]"
+  },
+  {
+    "code": "H04N 19/56",
+    "description": "••••••••Estimación del movimiento con la inicialización del vector de búsqueda, p. ej estimar un buen candidato para iniciar la búsqueda [2014.01]"
+  },
+  {
+    "code": "H04N 19/563",
+    "description": "••••••••Estimación del movimiento con relleno, es decir, con el relleno de valores que no pertenen al objeto de un bloque de la imagen de forma arbitraria o región para fines de estimación [2014.01]"
+  },
+  {
+    "code": "H04N 19/567",
+    "description": "••••••••Estimación del movimiento en base a criterios de la tasa de distorsión [2014.01]"
+  },
+  {
+    "code": "H04N 19/57",
+    "description": "••••••••Estimación del movimiento caracterizado por una ventana de búsqueda con tamaño o forma variable [2014.01]"
+  },
+  {
+    "code": "H04N 19/573",
+    "description": "••••••••Compensación del movimiento con predicción de  fotogrma (frame) múltiple utilizando dos o más sistemas de referencia en una dado una predicción de dirección [2014.01]"
+  },
+  {
+    "code": "H04N 19/577",
+    "description": "••••••••Compensación del movimiento con interpolación de fotogramas bidireccionales, es decir, utilizando imágenes B [2014.01]"
+  },
+  {
+    "code": "H04N 19/58",
+    "description": "••••••••Compensación del movimiento con predicción a largo plazo, es decir, siendo el fotograma de referencia para el fotograma actual lejano a éste (H04N 19/23  tiene prioridad) [2014.01]"
+  },
+  {
+    "code": "H04N 19/583",
+    "description": "••••••••Compensación del movimiento con bloques superpuestos [2014.01]"
+  },
+  {
+    "code": "H04N 19/587",
+    "description": "••••que implica un submuestreo o interpolación temporal, p. ej diezmado o  ulterior interpolación de imágenes en una secuencia de vídeo [2014.01]"
+  },
+  {
+    "code": "H04N 19/59",
+    "description": "••••que implica sub-muestreo espacial o interpolación, p. ej alteración del tamaño o la resolución de la imagen [2014.01]"
+  },
+  {
+    "code": "H04N 19/593",
+    "description": "••••implica técnicas de predicción espacial [2014.01]"
+  },
+  {
+    "code": "H04N 19/597",
+    "description": "••••especialmente adaptado para la codificación de secuencias de videos multivista [2014.01]"
+  },
+  {
+    "code": "H04N 19/60",
+    "description": "••utilizando codificación por transformada [2014.01]"
+  },
+  {
+    "code": "H04N 19/61",
+    "description": "••••en combinación con codificación predictiva [2014.01]"
+  },
+  {
+    "code": "H04N 19/615",
+    "description": "••••••utilizando filtrado temporal de movimiento compensado [MCTF] [2014.01]"
+  },
+  {
+    "code": "H04N 19/62",
+    "description": "••••mediante la transformación de frecuencia en tres dimensiones (H04N 19/63  tiene prioridad) [2014.01]"
+  },
+  {
+    "code": "H04N 19/625",
+    "description": "••••utilizando transformada de coseno discreta [DCT] [2014.01]"
+  },
+  {
+    "code": "H04N 19/63",
+    "description": "••••utilizando transformada basada en subbanda, p. ej. wavelets [2014.01]"
+  },
+  {
+    "code": "H04N 19/635",
+    "description": "••••••caracterizado por la definición del filtro o detalles de implementación [2014.01]"
+  },
+  {
+    "code": "H04N 19/64",
+    "description": "••••••caracterizado por la ordenación de los coeficientes o de los bits para la transmisión [2014.01]"
+  },
+  {
+    "code": "H04N 19/645",
+    "description": "••••••••mediante la agrupación de los coeficientes en bloques después de la transformación [2014.01]"
+  },
+  {
+    "code": "H04N 19/65",
+    "description": "••utilizando la capacidad de recuperación de errores [2014.01]"
+  },
+  {
+    "code": "H04N 19/66",
+    "description": "••••que implica la partición de datos, es decir, la separación de datos en paquetes o particiones según su importancia [2014.01]"
+  },
+  {
+    "code": "H04N 19/67",
+    "description": "••••que implica la protección contra errores diferentes [UEP], es decir, proporcionar protección de acuerdo con la importancia de los datos [2014.01]"
+  },
+  {
+    "code": "H04N 19/68",
+    "description": "••••que incluye la inserción de los marcadores de resincronización en el flujo binario [2014.01]"
+  },
+  {
+    "code": "H04N 19/69",
+    "description": "••••ique implica códigos de longitud variable reversibles [RVLC] [2014.01]"
+  },
+  {
+    "code": "H04N 19/70",
+    "description": "••caracterizado por los aspectos relacionados con la sintaxis de codificación de vídeo, p. ej en relación con los estándares de compresión [2014.01]"
+  },
+  {
+    "code": "H04N 19/80",
+    "description": "••Detalles de las operaciones de filtrado especialmente adaptados para la compresión de vídeo, p. ej para la interpolación de píxeles (H04N 19/635, H04N 19/86  tienen prioridad) [2014.01]"
+  },
+  {
+    "code": "H04N 19/82",
+    "description": "••••que implica el filtrado dentro del bucle de predicción [2014.01]"
+  },
+  {
+    "code": "H04N 19/85",
+    "description": "••utiliazando pre-tratamiento o post-procesamiento adaptado especialmente para la compresión de vídeo [2014.01]"
+  },
+  {
+    "code": "H04N 19/86",
+    "description": "••••que implica la reducción de artefactos de codificación, p. ej. de blockiness [2014.01]"
+  },
+  {
+    "code": "H04N 19/87",
+    "description": "••••que implica corte de escena o de detección de cambio de escena en combinación con la compresión de vídeo [2014.01]"
+  },
+  {
+    "code": "H04N 19/88",
+    "description": "••••que implica el reordenamiento de los datos entre diferentes unidades de codificación, p. ej arrastrando (shuffling), entrelazado, aleatorización o permutación de datos de pixel o permutación de los coeficientes de la transformada  entre los diferentes bloques [2014.01]"
+  },
+  {
+    "code": "H04N 19/89",
+    "description": "••••implica métodos o sistemas para la detección de errores de transmisión en el decodificador [2014.01]"
+  },
+  {
+    "code": "H04N 19/895",
+    "description": "••••••en combinación con la supresión de errores [2014.01]"
+  },
+  {
+    "code": "H04N 19/90",
+    "description": "••utilizando técnicas de codificación no previstos por los grupos H04N 19/10-H04N 19/85, p. ej. fractales [2014.01]"
+  },
+  {
+    "code": "H04N 19/91",
+    "description": "••••Codificación de entropía, p. ej. codificación de longitud variable [VLC] o la codificación aritmética [2014.01]"
+  },
+  {
+    "code": "H04N 19/93",
+    "description": "••••Codificación \"run-length\" [2014.01]"
+  },
+  {
+    "code": "H04N 19/94",
+    "description": "••••Vector de cuantificación [2014.01]"
+  },
+  {
+    "code": "H04N 19/96",
+    "description": "••••Codificación de árbol, p. ej. codificación en árbol cuádruple(quad-tree) [2014.01]"
+  },
+  {
+    "code": "H04N 19/97",
+    "description": "••••Coincidencia de codificación de búsqueda [2014.01]"
+  },
+  {
+    "code": "H04N 19/98",
+    "description": "••••Codificación  dinámico de rango adaptable [ADRC] [2014.01]"
+  },
+  {
+    "code": "H04N 21/00",
+    "description": "Distribución selectiva de contenido,  p. ej. televisión interactiva, VBD [Video Bajo Demanda] (transmisión bidireccional en tiempo real de datos de vídeo en movimiento H04N 7/14) [2011.01]"
+  },
+  {
+    "code": "H04N 21/20",
+    "description": "••Servidores especialmente adaptados para la distribución de contenido, p. ej. servidores de VBD; Operaciones del mismo [2011.01]"
+  },
+  {
+    "code": "H04N 21/21",
+    "description": "••••Componentes de servidores o arquitectura de servidores [2011.01]"
+  },
+  {
+    "code": "H04N 21/214",
+    "description": "••••••Plataforma de servidores especializadas, p. ej. servidor localizado en un avión, hotel u hospital [2011.01]"
+  },
+  {
+    "code": "H04N 21/218",
+    "description": "••••••Fuente de contenido de audio o vídeo, p. ej. matriz de disco local [2011.01]"
+  },
+  {
+    "code": "H04N 21/2183",
+    "description": "••••••••Memoria caché [2011.01]"
+  },
+  {
+    "code": "H04N 21/2187",
+    "description": "••••••••“Live feed” [2011.01]"
+  },
+  {
+    "code": "H04N 21/222",
+    "description": "••••••Servidores secundarios, p. ej. servidor proxy o cabecera de televisión por cable [2011.01]"
+  },
+  {
+    "code": "H04N 21/2225",
+    "description": "••••••••Servidores locales de VBD [2011.01]"
+  },
+  {
+    "code": "H04N 21/226",
+    "description": "••••••Componentes internos del servidor [2011.01]"
+  },
+  {
+    "code": "H04N 21/23",
+    "description": "••••Procesamiento de los datos de contenido o adicionales; Operaciones elementales del servidor.; Servidor intermedio [2011.01]"
+  },
+  {
+    "code": "H04N 21/231",
+    "description": "••••••Operación de almacenamiento de contenido, p. ej., almacenamiento de películas en caché para el almacenamiento a corto plazo, duplicación de  los datos en varios servidores o priorización para la eliminación [2011.01]"
+  },
+  {
+    "code": "H04N 21/2312",
+    "description": "••••••••Colocación de datos en matrices de discos [2011.01]"
+  },
+  {
+    "code": "H04N 21/2315",
+    "description": "••••••••••que utiliza entrelazado [2011.01]"
+  },
+  {
+    "code": "H04N 21/2318",
+    "description": "••••••••••mediante la creación de bandas [2011.01]"
+  },
+  {
+    "code": "H04N 21/232",
+    "description": "••••••Operación de recuperación de contenido dentro de un servidor, p. ej. lectura de un flujo de video desde matrices de disco [2011.01]"
+  },
+  {
+    "code": "H04N 21/233",
+    "description": "••••••• Procesamiento de flujos elementales de audio [2011.01]"
+  },
+  {
+    "code": "H04N 21/234",
+    "description": "••••••Procesamiento de flujos elementales de video, p. ej. unión de flujos de vídeo o transformación de los gráficos de escena MPEG-4 [2011.01]"
+  },
+  {
+    "code": "H04N 21/2343",
+    "description": "••••••••que implica operaciones de cambio de formato  de la señal de video para su distribución o el cumplimiento con las peticiones del usuario final o requisitos del dispositivo del usuario final [2011.01]"
+  },
+  {
+    "code": "H04N 21/2347",
+    "description": "••••••••que implica encriptación de flujo de vídeo [2011.01]"
+  },
+  {
+    "code": "H04N 21/235",
+    "description": "••••••Procesamiento de datos adicionales, p. ej. Transposición de datos adicionales  o tratamiento de descriptores de contenido [2011.01]"
+  },
+  {
+    "code": "H04N 21/236",
+    "description": "••••••Ensamblado de una corriente multiplexada, p. ej. Flujo de transporte,  mediante la combinación de un flujo de video con otros datos de contenido o adicionales, p. ej. insertando una URL [Localizador Uniforme de Recursos] en un flujo de vídeo, multiplexando datos de software en el flujo de vídeo; Multiplexado de flujos multiplexados; Inserción de bits de relleno en un flujo multiplexado, p. ej. para obtener una tasa de bits constante; Ensamblado de un flujo elemental en paquetes [2011.01]"
+  },
+  {
+    "code": "H04N 21/2362",
+    "description": "••••••••Generación o procesamiento de SI [Servicios de  Información] [2011.01]"
+  },
+  {
+    "code": "H04N 21/2365",
+    "description": "••••••••que multiplexa varios flujos de vídeo [2011.01]"
+  },
+  {
+    "code": "H04N 21/2368",
+    "description": "••••••••que multiplexa flujos de vídeo o audio [2011.01]"
+  },
+  {
+    "code": "H04N 21/237",
+    "description": "••••••Comunicación con servidor de datos adicionales [2011.01]"
+  },
+  {
+    "code": "H04N 21/238",
+    "description": "••••••Interfaz con el camino del flujo de bajada de la red de transmisión, p. ej. que adapta la tasa de transmisión del flujo de video al ancho de banda de la red; Tratamiento de flujos multiplexados [2011.01]"
+  },
+  {
+    "code": "H04N 21/2381",
+    "description": "••••••••Adaptanción de los flujos multiplexados a una red específica, p. ej. una red  IP [Protocolo de Internet] [2011.01]"
+  },
+  {
+    "code": "H04N 21/2383",
+    "description": "••••••••Codificación del canal del flujo de bits digitales, p. ej. modulación [2011.01]"
+  },
+  {
+    "code": "H04N 21/2385",
+    "description": "••••••••Asignación de canal (H04N 21/266  tiene prioridad); Asignación de ancho de banda (H04N 21/24 tiene prioridad) [2011.01]"
+  },
+  {
+    "code": "H04N 21/2387",
+    "description": "••••••••Tratamiento del flujo en respuesta a una solicitud de reproducción del usuario final, p. ej. para “trick-play” [2011.01]"
+  },
+  {
+    "code": "H04N 21/2389",
+    "description": "••••••••Tratamiento de flujos multiplexados, p ej. encriptado de flujos multiplexados [2011.01]"
+  },
+  {
+    "code": "H04N 21/239",
+    "description": "••••••Interfaz con el camino del flujo de subida de la red de transmisión, p. ej. priorizaciones de peticiones de cliente [2011.01]"
+  },
+  {
+    "code": "H04N 21/24",
+    "description": "••••••Seguimiento de los procesos o recursos p. ej. seguimiento de la carga del servidor, peticiones de ancho de banda disponible se subida o bajada [2011.01]"
+  },
+  {
+    "code": "H04N 21/241",
+    "description": "••••••Procesos del Sistema Operativo [SO], p. ej. establecimiento del servidor [2011.01]"
+  },
+  {
+    "code": "H04N 21/242",
+    "description": "••••••Sincronización de proceso, p. ej. procesamiento del  PCR [Referencias del Reloj del Programa] [2011.01]"
+  },
+  {
+    "code": "H04N 21/25",
+    "description": "••••Operaciones de gestión realizadas por el servidor para facilitar la distribución de contenido o administrar datos relacionados con los usuarios finales o el dispositivo del cliente p. ej. autenticación de usuarios finales o dispositivos del cliente o aprendizaje de la preferencias del usuario para recomendar películas [2011.01]"
+  },
+  {
+    "code": "H04N 21/254",
+    "description": "••••••Gestión en servidores de datos adicionales, p. ej. servidor de compras o servidor de gestión de derechos [2011.01]"
+  },
+  {
+    "code": "H04N 21/2543",
+    "description": "••••••••Facturación [2011.01]"
+  },
+  {
+    "code": "H04N 21/2547",
+    "description": "••••••••••Facturación a terceros, p. ej. facturación del anunciante [2011.01]"
+  },
+  {
+    "code": "H04N 21/258",
+    "description": "••••••Gestión de datos de usuarios finales o clientes, p. ej. gestión de las capacidades del cliente, la preferencias del usuario o datos demográficos o procesamiento de las preferencias de varios usuarios finales para obtener datos de colaboración [2011.01]"
+  },
+  {
+    "code": "H04N 21/262",
+    "description": "••••••Programación de la distribución de contenidos o datos adicionales, p. ej. envío de los datos adicionales fuera de las horas pico, actualización de módulos de software, cálculo de la frecuencia de transmisión del carrusel, retraso de la transmisión del flujo de vídeo o generación de listas de reproducción [2011.01]"
+  },
+  {
+    "code": "H04N 21/266",
+    "description": "••••••Gestión del canal o del contenido, p. ej. generación y gestión de claves y mensajes de derecho en un sistema de acceso condicional o la fusión de un canal de VBD de difusión única  con un canal de multidifusión [2011.01]"
+  },
+  {
+    "code": "H04N 21/2662",
+    "description": "••••••••Control de la complejidad del flujo de vídeo, p. ej. por la ampliación de la resolución o la tasa de bits del flujo de video basado en las capacidades del cliente [2011.01]"
+  },
+  {
+    "code": "H04N 21/2665",
+    "description": "••••••••Recopilación de contenidos de diferentes fuentes, p. ej. Internet y satélite [2011.01]"
+  },
+  {
+    "code": "H04N 21/2668",
+    "description": "••••••••Creación de un canal para un grupo dedicado de usuarios finales p. ej. por inserción de anuncios dirigidos en el flujo de vídeo basados en los perfiles de usuarios finales [2011.01]"
+  },
+  {
+    "code": "H04N 21/27",
+    "description": "••••Servidor basado en aplicaciones del usuario final [2011.01]"
+  },
+  {
+    "code": "H04N 21/274",
+    "description": "••••••Almacenamiento de contenido específico o datos adicionales en respuesta a una petición del usuario final [2011.01]"
+  },
+  {
+    "code": "H04N 21/2743",
+    "description": "••••••••Alojamiento de video (video hosting) de datos cargados desde el cliente [2011.01]"
+  },
+  {
+    "code": "H04N 21/2747",
+    "description": "••••••••Almacenamiento remoto de programas de vídeo recibidos vía el camino del flujo de  bajada, p. ej. desde el servidor [2011.01]"
+  },
+  {
+    "code": "H04N 21/278",
+    "description": "••••••Base de datos de descriptores de contenido o directorio de servicios para el acceso de usuario final [2011.01]"
+  },
+  {
+    "code": "H04N 21/40",
+    "description": "••Dispositivos de cliente específicamente adaptados para la recepción de, o interacción con, contenidos p. ej. decodificador (STB); Operaciones del mismo [2011.01]"
+  },
+  {
+    "code": "H04N 21/41",
+    "description": "••••Estructura de cliente; Estructura de los periféricos del cliente [2011.01]"
+  },
+  {
+    "code": "H04N 21/414",
+    "description": "••••••Plataformas de clientes especializadas, p. ej. receptores incorporados en un coche o en una aplicación móvil [2011.01]"
+  },
+  {
+    "code": "H04N 21/4143",
+    "description": "••••••••PC [Ordenador Personal] [2011.01]"
+  },
+  {
+    "code": "H04N 21/4147",
+    "description": "••••••••PVR [Grabador de Vídeo Personal] (H04N 5/76 tiene prioridad) [2011.01]"
+  },
+  {
+    "code": "H04N 21/418",
+    "description": "••••••Tarjeta externa para ser utilizado en combinación con el dispositivo cliente, p. ej., para el acceso condicional [2011.01]"
+  },
+  {
+    "code": "H04N 21/4185",
+    "description": "••••••••para pago [2011.01]"
+  },
+  {
+    "code": "H04N 21/422",
+    "description": "••••••Periféricos solo de entrada, p. ej. Sistema de Posicionamiento Global[GPS] [2011.01]"
+  },
+  {
+    "code": "H04N 21/4223",
+    "description": "••••••••Cámaras (H04N 23/00 tiene prioridad) [2011.01]"
+  },
+  {
+    "code": "H04N 21/4227",
+    "description": "••••••••Entrada remota por un usuario situado en una localización remota del dispositivo cliente p. ej. en el trabajo [2011.01]"
+  },
+  {
+    "code": "H04N 21/426",
+    "description": "••••••Componentes internos del cliente (H04N 5/44  tiene prioridad) [2011.01]"
+  },
+  {
+    "code": "H04N 21/43",
+    "description": "••••Procesamiento de contenido o datos adicionales, p. ej. demultiplexado de información adicional de un flujo de video digital; Operaciones elementales de clientes, p. ej. seguimiento de la red doméstica  o sincronización con el reloj del decodificador; Cliente intermedio [2011.01]"
+  },
+  {
+    "code": "H04N 21/431",
+    "description": "••••••Generación de interfaces visuales; Presentación de contenido o datos adicionales [2011.01]"
+  },
+  {
+    "code": "H04N 21/432",
+    "description": "••••••Operación de recuperación de contenido desde un medio local de almacenamiento, p. ej. disco duro [2011.01]"
+  },
+  {
+    "code": "H04N 21/433",
+    "description": "••••••Operación de almacenamiento de contenido, p. ej. operación de almacenamiento en respuesta a una petición de pausa u operaciones de almacenamiento en caché [2011.01]"
+  },
+  {
+    "code": "H04N 21/4335",
+    "description": "••••••••Operaciones de limpieza, p. ej. priorización de contenido para el borrado debido a restricciones en el espacio de almacenamiento [2011.01]"
+  },
+  {
+    "code": "H04N 21/434",
+    "description": "••••••Desensamblado de un flujo multiplexado p. ej.  desensamblado de un flujo de audio y vídeo o extracción de información adicional del flujo de vídeo; Multiplexación de flujo multiplexado; Extracción o procesado de  SI; Desensamblado de un flujo elemental en paquetes [2011.01]"
+  },
+  {
+    "code": "H04N 21/435",
+    "description": "••••••Procesamiento de datos adicionales, p. ej. desencriptado de información adicional o reconstrucción de software de módulos extraídos de un flujo de transporte [2011.01]"
+  },
+  {
+    "code": "H04N 21/436",
+    "description": "••••••Interfaz con red de distribución local, p. ej.  comunicación con otro decodificador (STB) o dentro de la casa [2011.01]"
+  },
+  {
+    "code": "H04N 21/4363",
+    "description": "••••••••que adapta el flujo de vídeo a una red específica local, p. ej. una red IEEE 1394 o Bluetooth ®  red [2011.01]"
+  },
+  {
+    "code": "H04N 21/4367",
+    "description": "••••••••Que establece una comunicación segura entre un cliente y una dispositivo periférico o tarjeta inteligente [2011.01]"
+  },
+  {
+    "code": "H04N 21/437",
+    "description": "••••••Interfaz del camino dl flujo de subida de la red de transmisión, p. ej. para transmitir una petición de cliente a un servidor de VBD [2011.01]"
+  },
+  {
+    "code": "H04N 21/438",
+    "description": "••••••Interfaz del camino del flujo de bajada de una red de transmisión con origen en un servidor, p. ej. recuperación de paquetes de una red IP [2011.01]"
+  },
+  {
+    "code": "H04N 21/4385",
+    "description": "••••••••Procesamiento de flujo multiplexado, p. ej. desencriptado de flujo multiplexado [2011.01]"
+  },
+  {
+    "code": "H04N 21/439",
+    "description": "••••••Procesamiento de flujos elementales de audio [2011.01]"
+  },
+  {
+    "code": "H04N 21/44",
+    "description": "••••••Procesamiento de flujos elementales de vídeo, p. ej. unión de un vídeo clip recuperado de un almacenamiento local con un flujo de vídeo entrante o presentación de escenas de acuerdo a gráficos de escena MPEG [2011.01]"
+  },
+  {
+    "code": "H04N 21/4402",
+    "description": "••••••••que implica operaciones de cambio de formato de la señal de vídeo de redistribución en los hogares, almacenamiento o visualización en tiempo real [2011.01]"
+  },
+  {
+    "code": "H04N 21/4405",
+    "description": "••••••••que implica desencriptación de un flujo de vídeo [2011.01]"
+  },
+  {
+    "code": "H04N 21/4408",
+    "description": "••••••••que implica encriptación de flujo de vídeo, p. ej. encriptación de un flujo de vídeo desencriptado para la redistribución en una red doméstica [2011.01]"
+  },
+  {
+    "code": "H04N 21/441",
+    "description": "••••••Adquisición de de la identificación de un usuario final [2011.01]"
+  },
+  {
+    "code": "H04N 21/4415",
+    "description": "••••••••que utiliza características biométrica del usuario, p. ej. por reconocimiento de voz o escaneado de huellas digitales [2011.01]"
+  },
+  {
+    "code": "H04N 21/442",
+    "description": "••••••Seguimiento de procesos o recursos, p. ej. detección de fallos de un dispositivo de grabación, seguimiento del ancho de banda del flujo de bajada, número  de veces que una película ha sido vista o espacio de almacenamiento disponible de un disco duro interno [2011.01]"
+  },
+  {
+    "code": "H04N 21/4425",
+    "description": "••••••••Seguimiento de errores de procesamiento de cliente o fallos de hardware [2011.01]"
+  },
+  {
+    "code": "H04N 21/443",
+    "description": "••••••Procesos del SO, p. ej. arranque de un decodificador (STB), implementación de una máquina virtual Java en un decodificador (STB) o gestión de energía en un decodificador (STB) [2011.01]"
+  },
+  {
+    "code": "H04N 21/45",
+    "description": "••••Gestión de operaciones realizadas por un cliente para facilitar la recepción o la interacción con el contenido o la  administración de datos relacionados con el usuario final o el propio dispositivo cliente, p. ej. aprendizaje de las preferencias de usuario para recomendar películas o resolver conflictos de programación [2011.01]"
+  },
+  {
+    "code": "H04N 21/454",
+    "description": "••••••Filtrado de contenido, p. ej. bloqueo de anuncios [2011.01]"
+  },
+  {
+    "code": "H04N 21/4545",
+    "description": "••••••••Entrada a algoritmos de filtrado, p. ej.  filtrado de una región de la imagen [2011.01]"
+  },
+  {
+    "code": "H04N 21/458",
+    "description": "••••••Programación de contenidos para la creación de un flujo personalizada, p. ej., mediante la combinación de un anuncio almacenado localmente con una corriente de entrada; Actualización de operaciones, p. ej., para módulos del SO [2011.01]"
+  },
+  {
+    "code": "H04N 21/462",
+    "description": "••••••Gestión de contenido o datos adicionales p. ej. creación de una guía electrónica de programación principal mediante los datos recibidos a través de Internet y de una cabecera o control de la complejidad de un flujo de vídeo mediante la escala de la resolución o la tasa de bits basado en las capacidades del cliente [2011.01]"
+  },
+  {
+    "code": "H04N 21/4623",
+    "description": "••••••••Procesamiento de mensajes de derecho, p. ej. ECM [Mensaje de Control de Derecho] o EMM [Mensaje de Gestión de Derecho] [2011.01]"
+  },
+  {
+    "code": "H04N 21/4627",
+    "description": "••••••••Gestión de derechos [2011.01]"
+  },
+  {
+    "code": "H04N 21/466",
+    "description": "••••••Proceso de aprendizaje para gestión inteligente, p. ej. aprendizaje de las preferencias del usuario para recomendar películas [2011.01]"
+  },
+  {
+    "code": "H04N 21/47",
+    "description": "••••Aplicaciones de usuario final [2011.01]"
+  },
+  {
+    "code": "H04N 21/472",
+    "description": "••••••Interfaz de usuario final para petición de contenido, datos adicionales o servicios; Interfaz de usuario final para interacción con el contenido, p. ej. para reservar el contenido o establecimientos de recordatorios, para petición de notificación de eventos o transformación de contenido mostrado [2011.01]"
+  },
+  {
+    "code": "H04N 21/4722",
+    "description": "••••••••para solicitar datos adicionales asociados con el contenido [2011.01]"
+  },
+  {
+    "code": "H04N 21/4725",
+    "description": "••••••••••que utiliza las regiones interactivas de la imagen, p. ej. puntos calientes [2011.01]"
+  },
+  {
+    "code": "H04N 21/4728",
+    "description": "••••••••para seleccionar una ROI [Región De Interés], p. ej. para solicitar una versión de mayor resolución  de una región seleccionada [2011.01]"
+  },
+  {
+    "code": "H04N 21/475",
+    "description": "••••••Interfaz de usuario para entrada de datos de usuario, p. ej. PIN [Número Personal de Identificación] o datos de preferencias [2011.01]"
+  },
+  {
+    "code": "H04N 21/478",
+    "description": "••••••Servicios suplementarios, p. ej.  mostrar la identificación del llamante o aplicaciones para la compra [2011.01]"
+  },
+  {
+    "code": "H04N 21/4782",
+    "description": "••••••••Navegador web [2011.01]"
+  },
+  {
+    "code": "H04N 21/4784",
+    "description": "••••••••recepción de recompensas [2011.01]"
+  },
+  {
+    "code": "H04N 21/4786",
+    "description": "••••••••correo electrónico [2011.01]"
+  },
+  {
+    "code": "H04N 21/4788",
+    "description": "••••••••comunicación con otro usuario, p. ej. chatear [2011.01]"
+  },
+  {
+    "code": "H04N 21/482",
+    "description": "••••••Interfaz de usuario final para selección de programa [2011.01]"
+  },
+  {
+    "code": "H04N 21/485",
+    "description": "••••••Interfaz de usuario final para la configuración de cliente [2011.01]"
+  },
+  {
+    "code": "H04N 21/488",
+    "description": "••••••Servicios de datos, p. ej. sobreimpresión de noticias (news ticker) [2011.01]"
+  },
+  {
+    "code": "H04N 21/60",
+    "description": "••Estructura de red o procesos para la distribución de vídeo entre servidor y cliente o entre clientes remotos; Señalización de control entre clientes, servidores y componentes de red; Transmisión de datos de gestión entre servidor y cliente; Detalles de comunicación entre servidor y cliente [2011.01]"
+  },
+  {
+    "code": "H04N 21/61",
+    "description": "••••Estructura física de la red; Procesamiento de señales [2011.01]"
+  },
+  {
+    "code": "H04N 21/63",
+    "description": "••••Señalización de control entre clientes, servidores y componentes de red; Procesos de red para distribución de vídeo entre servidor y clientes, p. ej. transmisión de capa básica y capas mejorada sobre diferentes caminos de transmisión, establecimiento de una comunicación entre iguales a través de internet entre decodificadores remoto; Protocolos de comunicación; Direccionamiento [2011.01]"
+  },
+  {
+    "code": "H04N 21/633",
+    "description": "••••••Control de señales emitidas por el servidor dirigidas a los componentes de red o cliente [2011.01]"
+  },
+  {
+    "code": "H04N 21/6332",
+    "description": "••••••••dirigido al cliente [2011.01]"
+  },
+  {
+    "code": "H04N 21/6334",
+    "description": "••••••••••para autorización, p. ej. por transmisión de clave [2011.01]"
+  },
+  {
+    "code": "H04N 21/6336",
+    "description": "••••••••••dirigida al decodificador [2011.01]"
+  },
+  {
+    "code": "H04N 21/6338",
+    "description": "••••••••dirigida a la red [2011.01]"
+  },
+  {
+    "code": "H04N 21/637",
+    "description": "••••••Control de señales emitidas por el cliente dirigidas al servidor o a los componentes de red [2011.01]"
+  },
+  {
+    "code": "H04N 21/6371",
+    "description": "••••••••dirigida a la red [2011.01]"
+  },
+  {
+    "code": "H04N 21/6373",
+    "description": "••••••••para control del ratio [2011.01]"
+  },
+  {
+    "code": "H04N 21/6375",
+    "description": "••••••••para solicitar retransmisión [2011.01]"
+  },
+  {
+    "code": "H04N 21/6377",
+    "description": "••••••••dirigida al servidor [2011.01]"
+  },
+  {
+    "code": "H04N 21/6379",
+    "description": "••••••••••dirigida al codificador [2011.01]"
+  },
+  {
+    "code": "H04N 21/64",
+    "description": "••••••Direccionaminto [2011.01]"
+  },
+  {
+    "code": "H04N 21/6402",
+    "description": "••••••••Asignación de direcciones para clientes [2011.01]"
+  },
+  {
+    "code": "H04N 21/6405",
+    "description": "••••••••Multidifusión [2011.01]"
+  },
+  {
+    "code": "H04N 21/6408",
+    "description": "••••••••Difusión a un usuario [2011.01]"
+  },
+  {
+    "code": "H04N 21/643",
+    "description": "••••••Protocolos de comunicación [2011.01]"
+  },
+  {
+    "code": "H04N 21/6433",
+    "description": "••••••••DSM-CC [Almacenamiento de Media Digital – Comandos y Protocolo de Control] [2011.01]"
+  },
+  {
+    "code": "H04N 21/6437",
+    "description": "••••••••RTP [Protocolo de Transporte en Tiempo Real] [2011.01]"
+  },
+  {
+    "code": "H04N 21/647",
+    "description": "••••••Señalización de control entre componentes de red y servidor o clientes; Procesos de red para distribución de vídeo, p. ej. control de la calidad del flujo de vídeo, descarte de paquetes, protección de contenido contra alteraciones no autorizadas dentro de la red, seguimiento de la carga de la red o  realización de  puentes ente dos redes diferentes, p. ej. entre IP e inalámbrica [2011.01]"
+  },
+  {
+    "code": "H04N 21/65",
+    "description": "••••Transmisión de datos de gestión entre cliente y servidor [2011.01]"
+  },
+  {
+    "code": "H04N 21/654",
+    "description": "••••••Transmisión del servidor dirigida al cliente [2011.01]"
+  },
+  {
+    "code": "H04N 21/6543",
+    "description": "••••••••para forzar algunas operaciones de cliente, p. ej. grabación [2011.01]"
+  },
+  {
+    "code": "H04N 21/6547",
+    "description": "••••••••que comprende parámetros, p. ej. para la instalación del cliente [2011.01]"
+  },
+  {
+    "code": "H04N 21/658",
+    "description": "••••••Transmisión del cliente dirigida al servidor [2011.01]"
+  },
+  {
+    "code": "H04N 21/6583",
+    "description": "••••••••Acuse de recibo [2011.01]"
+  },
+  {
+    "code": "H04N 21/6587",
+    "description": "••••••••Parámetros de control, p. ej. comandos de “trick play” o selección del punto de vista [2011.01]"
+  },
+  {
+    "code": "H04N 21/80",
+    "description": "••Generación o procesado de contenido o datos adicionales por el creador del contenido independientemente del proceso de distribución.; Contenido por si mismo  [2011.01]"
+  },
+  {
+    "code": "H04N 21/81",
+    "description": "••••Monomedia, componentes del mismo [2011.01]"
+  },
+  {
+    "code": "H04N 21/83",
+    "description": "••••Generación o procesamiento de datos de protección o descriptivos asociados con el contenido; Estructuración de contenidos [2011.01]"
+  },
+  {
+    "code": "H04N 21/835",
+    "description": "••••••Generación de datos de protección, p. ej. certificados [2011.01]"
+  },
+  {
+    "code": "H04N 21/8352",
+    "description": "••••••••que implica contenido o datos de identificación de fuente, p. ej. UMID [Identificador de Material Único] [2011.01]"
+  },
+  {
+    "code": "H04N 21/8355",
+    "description": "••••••••que implica datos de uso, p. ej. número de copias o visualizaciones permitidas [2011.01]"
+  },
+  {
+    "code": "H04N 21/8358",
+    "description": "••••••••que incluye marcas de agua [2011.01]"
+  },
+  {
+    "code": "H04N 21/84",
+    "description": "••••••Generación o procesamiento de datos descriptivos, p. ej. descriptores de contenido [2011.01]"
+  },
+  {
+    "code": "H04N 21/8405",
+    "description": "••••••••representados por palabras claves [2011.01]"
+  },
+  {
+    "code": "H04N 21/845",
+    "description": "••••••Estructura del contenido, p. ej. Descomposición del contenido en segmentos [2011.01]"
+  },
+  {
+    "code": "H04N 21/85",
+    "description": "••••Ensamblado de contenidos; Generación de aplicaciones multimedia [2011.01]"
+  },
+  {
+    "code": "H04N 21/854",
+    "description": "••••••Contenido de creación [2011.01]"
+  },
+  {
+    "code": "H04N 21/8541",
+    "description": "••••••••que incluye ramas, p. ej. para diferentes finales de historia [2011.01]"
+  },
+  {
+    "code": "H04N 21/8543",
+    "description": "••••••••que utiliza lenguaje descriptivo, p. ej. MHEG [Grupo Experto de Codificación de Información Multimedia e Hipermedia] o XML [Lenguaje de Extensible de Marcado] [2011.01]"
+  },
+  {
+    "code": "H04N 21/8545",
+    "description": "••••••••para generar aplicaciones interactivas [2011.01]"
+  },
+  {
+    "code": "H04N 21/8547",
+    "description": "••••••••que implica marcas de tiempo para sincronizar el contenido [2011.01]"
+  },
+  {
+    "code": "H04N 21/8549",
+    "description": "••••••••Creación de resúmenes de vídeo, p. ej. tráiler de la película [2011.01]"
+  },
+  {
+    "code": "H04N 21/858",
+    "description": "••••••que vincula los datos al contenido, p. ej. mediante la vinculación de una URL a un objeto de vídeo o mediante la creación de un punto caliente [2011.01]"
+  },
+  {
+    "code": "H04N 23/00",
+    "description": "Cámaras o módulos de cámara con sensores de imagen electrónicos; Sus controles [2023.01]"
+  },
+  {
+    "code": "H04N 23/10",
+    "description": "••para generar señales de imagen a partir de diferentes longitudes de onda [2023.01]"
+  },
+  {
+    "code": "H04N 23/11",
+    "description": "••••para generar señales de imagen a partir de longitudes de onda de luz visible e infrarroja [2023.01]"
+  },
+  {
+    "code": "H04N 23/12",
+    "description": "••••con un único sensor [2023.01]"
+  },
+  {
+    "code": "H04N 23/13",
+    "description": "••••con varios sensores [2023.01]"
+  },
+  {
+    "code": "H04N 23/15",
+    "description": "••••••Generación de señales de imagen con circuitos para evitar o corregir errores de registro de la imagen [2023.01]"
+  },
+  {
+    "code": "H04N 23/16",
+    "description": "••••••Disposiciones ópticas asociadas, p. ej. para la división del haz o para la corrección del color [2023.01]"
+  },
+  {
+    "code": "H04N 23/17",
+    "description": "••••mediante medios de análisis únicamente optomecánicos [2023.01]"
+  },
+  {
+    "code": "H04N 23/20",
+    "description": "••para generar señales de imagen a partir de radiación infrarroja únicamente [2023.01]"
+  },
+  {
+    "code": "H04N 23/21",
+    "description": "••••a partir de radiación de infrarrojo cercano [NIR] [2023.01]"
+  },
+  {
+    "code": "H04N 23/23",
+    "description": "••••a partir de radiación infrarroja de onda corta [2023.01]"
+  },
+  {
+    "code": "H04N 23/30",
+    "description": "••para generar señales de imagen a partir de rayos X [2023.01]"
+  },
+  {
+    "code": "H04N 23/40",
+    "description": "••Partes de circuitos para tubos de cámara [2023.01]"
+  },
+  {
+    "code": "H04N 23/45",
+    "description": "••para generar señales de imagen a partir de varios sensores de imagen, de diferentes tipos o que funcionan en modos diferentes, p. ej.  con un sensor CMOS para imágenes en movimiento combinado con un dispositivo de carga acoplada [CCD] para imágenes fijas [2023.01]"
+  },
+  {
+    "code": "H04N 23/50",
+    "description": "••Detalles constructivos [2023.01]"
+  },
+  {
+    "code": "H04N 23/51",
+    "description": "••••Carcasas, cubiertas [2023.01]"
+  },
+  {
+    "code": "H04N 23/52",
+    "description": "••••Elementos que optimizan el funcionamiento del sensor de imagen, p. ej. para la protección contra las interferencias electromagnéticas [EMI] o el control de la temperatura mediante elementos de transferencia de calor o refrigeración [2023.01]"
+  },
+  {
+    "code": "H04N 23/53",
+    "description": "••••de visores electrónicos, p. ej. giratorios o extraíbles [2023.01]"
+  },
+  {
+    "code": "H04N 23/54",
+    "description": "••••Montaje de tubos de cámara, sensores electrónicos de imagen, bobinas de desviación o de enfoque [2023.01]"
+  },
+  {
+    "code": "H04N 23/55",
+    "description": "••••Piezas ópticas especialmente adaptadas para sensores electrónicos de imagen; Montaje de las mismas [2023.01]"
+  },
+  {
+    "code": "H04N 23/56",
+    "description": "••provistas con medios de iluminación [2023.01]"
+  },
+  {
+    "code": "H04N 23/57",
+    "description": "••Partes mecánicas o eléctricas de cámaras o módulos de cámara especialmente adaptados para ser integrados a otros dispositivos [2023.01]"
+  },
+  {
+    "code": "H04N 23/58",
+    "description": "••Medios para cambiar el campo de visión de la cámara sin mover el cuerpo de la misma, p. ej. la torsión o el desplazamiento de las ópticas o los sensores de imagen [2023.01]"
+  },
+  {
+    "code": "H04N 23/60",
+    "description": "••Control de cámaras o módulos de cámara [2023.01]"
+  },
+  {
+    "code": "H04N 23/61",
+    "description": "••••basado en el reconocimiento de objetos [2023.01]"
+  },
+  {
+    "code": "H04N 23/611",
+    "description": "••••••donde los objetos reconocidos incluyen partes del cuerpo humano [2023.01]"
+  },
+  {
+    "code": "H04N 23/617",
+    "description": "••••Actualización o mejora de programas o aplicaciones para el control de la cámara [2023.01]"
+  },
+  {
+    "code": "H04N 23/62",
+    "description": "••••Control de parámetros a través de interfaces de usuario [2023.01]"
+  },
+  {
+    "code": "H04N 23/63",
+    "description": "••••mediante visores electrónicos [2023.01]"
+  },
+  {
+    "code": "H04N 23/65",
+    "description": "••••Control del funcionamiento de la cámara en relación con la alimentación eléctrica [2023.01]"
+  },
+  {
+    "code": "H04N 23/66",
+    "description": "••••Control remoto de cámaras o partes de las cámaras, p. ej. mediante dispositivos de control remoto [2023.01]"
+  },
+  {
+    "code": "H04N 23/661",
+    "description": "••••••Transmisión de señales de control de la cámara a través de redes, p. ej. control a través de Internet [2023.01]"
+  },
+  {
+    "code": "H04N 23/663",
+    "description": "••••••para controlar piezas intercambiables de la cámara, basándose en señales electrónicas del sensor de imagen [2023.01]"
+  },
+  {
+    "code": "H04N 23/667",
+    "description": "••••Cambio del modo de funcionamiento de la cámara, p. ej. entre los modos de fotografía y vídeo, deporte y normal o alta y baja resolución [2023.01]"
+  },
+  {
+    "code": "H04N 23/67",
+    "description": "••••Control de enfoque basado en señales electrónicas del sensor de imagen [2023.01]"
+  },
+  {
+    "code": "H04N 23/68",
+    "description": "••••para una captación estable de la escena, p. ej. compensando las vibraciones del cuerpo de la cámara [2023.01]"
+  },
+  {
+    "code": "H04N 23/69",
+    "description": "••••Control de los medios para cambiar el ángulo del campo de visión, p. ej. objetivos de zoom óptico o zoom electrónico [2023.01]"
+  },
+  {
+    "code": "H04N 23/695",
+    "description": "••••Control de la dirección de la cámara para cambiar el campo de visión, p. ej. panorámica, inclinación o control basado en el seguimiento de objetos [2023.01]"
+  },
+  {
+    "code": "H04N 23/698",
+    "description": "••••para conseguir un campo de visión ampliado, p. ej. captura de imágenes panorámicas [2023.01]"
+  },
+  {
+    "code": "H04N 23/70",
+    "description": "••Circuitos para compensar la variación de brillo en la escena [2023.01]"
+  },
+  {
+    "code": "H04N 23/71",
+    "description": "••••Circuitos para evaluar la variación de la luminosidad [2023.01]"
+  },
+  {
+    "code": "H04N 23/72",
+    "description": "••••Combinación de varios controles de compensación [2023.01]"
+  },
+  {
+    "code": "H04N 23/73",
+    "description": "••••influyendo en el tiempo de exposición [2023.01]"
+  },
+  {
+    "code": "H04N 23/74",
+    "description": "••••influyendo en el brillo de la escena mediante medios de iluminación [2023.01]"
+  },
+  {
+    "code": "H04N 23/741",
+    "description": "••••aumentando el rango dinámico de la imagen en comparación con el rango dinámico de los sensores electrónicos de imagen [2023.01]"
+  },
+  {
+    "code": "H04N 23/743",
+    "description": "••••Bracketing u horquillado, es decir, tomar una serie de imágenes con diferentes condiciones de exposición [2023.01]"
+  },
+  {
+    "code": "H04N 23/745",
+    "description": "••••Detección de la frecuencia de parpadeo o supresión del parpadeo cuando el parpadeo está causado por la iluminación, p. ej. debido a la iluminación por tubos fluorescentes o a la iluminación LED pulsada [2023.01]"
+  },
+  {
+    "code": "H04N 23/75",
+    "description": "••••influyendo en los componentes ópticos de la cámara [2023.01]"
+  },
+  {
+    "code": "H04N 23/76",
+    "description": "••••influyendo en las señales de imagen [2023.01]"
+  },
+  {
+    "code": "H04N 23/80",
+    "description": "••Proceso de imágenes de cámara; Componentes al efecto [2023.01]"
+  },
+  {
+    "code": "H04N 23/81",
+    "description": "••••para suprimir o minimizar perturbaciones en la generación de la señal de imagen [2023.01]"
+  },
+  {
+    "code": "H04N 23/82",
+    "description": "••••para controlar la respuesta de la cámara con independencia de la luminosidad de la escena, p. ej. la corrección gamma [2023.01]"
+  },
+  {
+    "code": "H04N 23/83",
+    "description": "••••••especialmente adaptado a las señales de color [2023.01]"
+  },
+  {
+    "code": "H04N 23/84",
+    "description": "••••para procesar señales de color [2023.01]"
+  },
+  {
+    "code": "H04N 23/85",
+    "description": "••••••por combinación matricial [2023.01]"
+  },
+  {
+    "code": "H04N 23/86",
+    "description": "••••••por control de la saturación de las señales de color, p. ej. circuitos automáticos de control de croma [2023.01]"
+  },
+  {
+    "code": "H04N 23/87",
+    "description": "••••••por reinserción de componentes de corriente continua o por variación lenta de las señales de color [2023.01]"
+  },
+  {
+    "code": "H04N 23/88",
+    "description": "••••••por balance de color, p. ej. circuitos de balance de blancos o control de la temperatura del color [2023.01]"
+  },
+  {
+    "code": "H04N 23/90",
+    "description": "••Sistemas de cámaras o de módulos de cámara, p. ej. múltiples cámaras en estudios de televisión o en estadios deportivos [2023.01]"
+  },
+  {
+    "code": "H04N 23/95",
+    "description": "••Sistemas de fotografía computacional, p. ej. sistemas de imagen de campo luminoso [2023.01]"
+  },
+  {
+    "code": "H04N 23/951",
+    "description": "••••utilizando varias imágenes para influir en la resolución, la frecuencia de imagen o la relación de aspecto [2023.01]"
+  },
+  {
+    "code": "H04N 23/955",
+    "description": "••••para la formación de imágenes sin lentes [2023.01]"
+  },
+  {
+    "code": "H04N 23/957",
+    "description": "••••Cámaras, o módulos de cámara, de campo luminoso o plenópticas [2023.01]"
+  },
+  {
+    "code": "H04N 23/958",
+    "description": "••••para obtener imágenes con mayor profundidad de campo [2023.01]"
+  },
+  {
+    "code": "H04N 23/959",
+    "description": "••••••ajustando la profundidad de campo durante la captura de la imagen, p. ej. maximizando o ajustando el alcance en función de las características de la escena [2023.01]"
+  },
+  {
+    "code": "H04N 25/00",
+    "description": "Circuitos de sensores de imagen de estado sólido  [SSIS]; Sus controles [2023.01]"
+  },
+  {
+    "code": "H04N 25/10",
+    "description": "••para transformar diferentes longitudes de onda en señales de imagen [2023.01]"
+  },
+  {
+    "code": "H04N 25/11",
+    "description": "••••Sistemas de matrices de filtros de color [CFA]; Mosaicos de filtros [2023.01]"
+  },
+  {
+    "code": "H04N 25/13",
+    "description": "••••••caracterizados por las propiedades espectrales de los elementos de filtro [2023.01]"
+  },
+  {
+    "code": "H04N 25/131",
+    "description": "••••••••que incluyen elementos que pasan por longitudes de onda infrarrojas [2023.01]"
+  },
+  {
+    "code": "H04N 25/133",
+    "description": "••••••••con elementos que pasan la luz pancromática, p. ej. filtros que pasan la luz blanca [2023.01]"
+  },
+  {
+    "code": "H04N 25/17",
+    "description": "••••Separación de colores basada en la profundidad de absorción de los fotones, p. ej. resolución a todo color obtenida simultáneamente en cada ubicación de pixel [2023.01]"
+  },
+  {
+    "code": "H04N 25/20",
+    "description": "••para transformar únicamente radiación infrarroja en señales de imagen [2023.01]"
+  },
+  {
+    "code": "H04N 25/21",
+    "description": "••••para transformar la radiación infrarroja térmica en señales de imagen [2023.01]"
+  },
+  {
+    "code": "H04N 25/30",
+    "description": "••para transformar rayos X en señal de imagen [2023.01]"
+  },
+  {
+    "code": "H04N 25/40",
+    "description": "••Extracción de datos de píxeles a partir de los sensores de imagen mediante el control de los circuitos de análisis, p. ej. modificando el número de píxeles muestreados o por muestrear [2023.01]"
+  },
+  {
+    "code": "H04N 25/42",
+    "description": "••••cambiando entre diferentes modos de funcionamiento que usan diferentes resoluciones o relaciones de aspecto, p. ej. cambiando entre el modo entrelazado y el no entrelazado [2023.01]"
+  },
+  {
+    "code": "H04N 25/44",
+    "description": "••••mediante la lectura parcial de una matriz SSIS [2023.01]"
+  },
+  {
+    "code": "H04N 25/441",
+    "description": "••••••leyendo píxeles contiguos de filas o columnas seleccionadas de la matriz, p. ej. exploración entrelazada [2023.01]"
+  },
+  {
+    "code": "H04N 25/443",
+    "description": "••••••mediante la lectura de regiones 2D seleccionadas de la matriz, p. ej. creación de ventanas o zoom digital [2023.01]"
+  },
+  {
+    "code": "H04N 25/445",
+    "description": "••••••mediante la omisión de algunos píxeles contiguos dentro de la zona de lectura de la matriz [2023.01]"
+  },
+  {
+    "code": "H04N 25/447",
+    "description": "••••••conservando el patrón de color con o sin pérdida de información [2023.01]"
+  },
+  {
+    "code": "H04N 25/46",
+    "description": "••••mediante la combinación o agrupación de píxeles [2023.01]"
+  },
+  {
+    "code": "H04N 25/47",
+    "description": "••Sensores de imagen con salida de direccionamiento de píxeles; Sensores de imagen accionados por eventos; Selección de los píxeles a leer en función de los datos de la imagen [2023.01]"
+  },
+  {
+    "code": "H04N 25/48",
+    "description": "••Aumento de la resolución mediante el desplazamiento del sensor con respecto a la escena [2023.01]"
+  },
+  {
+    "code": "H04N 25/50",
+    "description": "••Ajuste de la exposición SSIS [2023.01]"
+  },
+  {
+    "code": "H04N 25/51",
+    "description": "••••Ajuste de la ganancia [2023.01]"
+  },
+  {
+    "code": "H04N 25/53",
+    "description": "••••Ajuste del tiempo de integración [2023.01]"
+  },
+  {
+    "code": "H04N 25/531",
+    "description": "••••••mediante el ajuste del rolling shutter en CMOS SSIS [2023.01]"
+  },
+  {
+    "code": "H04N 25/532",
+    "description": "••••••mediante el ajuste del obturador global en CMOS SSIS [2023.01]"
+  },
+  {
+    "code": "H04N 25/533",
+    "description": "••••••empleando distintos tiempos de integración para diferentes zonas del sensor [2023.01]"
+  },
+  {
+    "code": "H04N 25/534",
+    "description": "••••••••en función del componente espectral [2023.01]"
+  },
+  {
+    "code": "H04N 25/535",
+    "description": "••••••••mediante una selección dinámica de las zonas [2023.01]"
+  },
+  {
+    "code": "H04N 25/57",
+    "description": "••••Ajuste del rango dinámico [2023.01]"
+  },
+  {
+    "code": "H04N 25/571",
+    "description": "••••••con una respuesta no lineal [2023.01]"
+  },
+  {
+    "code": "H04N 25/58",
+    "description": "••••••con varias exposiciones [2023.01]"
+  },
+  {
+    "code": "H04N 25/581",
+    "description": "••••••••adquiridas simultáneamente [2023.01]"
+  },
+  {
+    "code": "H04N 25/583",
+    "description": "••••••••••con distintos tiempos de integración [2023.01]"
+  },
+  {
+    "code": "H04N 25/585",
+    "description": "••••••••••con píxeles de distinta sensibilidad dentro del sensor, p. ej. píxeles rápidos o lentos o píxeles de diferente tamaño [2023.01]"
+  },
+  {
+    "code": "H04N 25/587",
+    "description": "••••••••obtenidas secuencialmente, p. ej. mediante la combinación de campos de imagen pares e impares [2023.01]"
+  },
+  {
+    "code": "H04N 25/589",
+    "description": "••••••••••con diferentes tiempos de integración, p. ej. con exposiciones cortas y largas [2023.01]"
+  },
+  {
+    "code": "H04N 25/59",
+    "description": "••••••controlando la cantidad de carga almacenada en el píxel, p. ej. modificando el ratio de conversión de carga de la capacidad del nodo flotante [2023.01]"
+  },
+  {
+    "code": "H04N 25/60",
+    "description": "••Procesamiento de ruido, p. ej. detección, corrección, reducción o eliminación de ruido [2023.01]"
+  },
+  {
+    "code": "H04N 25/61",
+    "description": "••••cuando el ruido procede únicamente de la unidad de lente, p. ej. destellos, sombreado, viñeteado o \"cos4\". [2023.01]"
+  },
+  {
+    "code": "H04N 25/611",
+    "description": "••••••Corrección de la aberración cromática [2023.01]"
+  },
+  {
+    "code": "H04N 25/615",
+    "description": "••••••con una función de transferencia que modela el sistema óptico, p. ej. función de transferencia óptica [OTF], función de transferencia de fase [PhTF] o función de transferencia de modulación [MTF] [2023.01]"
+  },
+  {
+    "code": "H04N 25/616",
+    "description": "••••con una función de muestreo correlacionada, p. ej. muestreo doble correlacionado [CDS] o muestreo triple [2023.01]"
+  },
+  {
+    "code": "H04N 25/617",
+    "description": "••••para reducir la interferencia electromagnética, p. ej. sincronizando el ruido [2023.01]"
+  },
+  {
+    "code": "H04N 25/618",
+    "description": "••••para ruidos aleatorios o de alta frecuencia [2023.01]"
+  },
+  {
+    "code": "H04N 25/62",
+    "description": "••••Detección o reducción del ruido debido a cargas excesivas producidas por la exposición, p. ej. borrosidad, brillos, imagen fantasma, interferencias, fugas [2023.01]"
+  },
+  {
+    "code": "H04N 25/621",
+    "description": "••••••para controlar los brillos [2023.01]"
+  },
+  {
+    "code": "H04N 25/625",
+    "description": "••••••para controlar la borrosidad [2023.01]"
+  },
+  {
+    "code": "H04N 25/626",
+    "description": "••••••Reducción del ruido debido a cargas residuales que quedan después de la lectura de la imagen, p. ej. para eliminar las imágenes fantasma o las imágenes persistentes [2023.01]"
+  },
+  {
+    "code": "H04N 25/627",
+    "description": "••••••Detección o reducción de los efectos de contraste invertido o de eclipse [2023.01]"
+  },
+  {
+    "code": "H04N 25/628",
+    "description": "••••••para reducir las rayas horizontales producidas por las regiones saturadas de los sensores CMOS [2023.01]"
+  },
+  {
+    "code": "H04N 25/63",
+    "description": "••••aplicado a la corriente oscura [2023.01]"
+  },
+  {
+    "code": "H04N 25/633",
+    "description": "••••••mediante píxeles negros ópticos [2023.01]"
+  },
+  {
+    "code": "H04N 25/65",
+    "description": "••••aplicado al ruido de reajuste, p. ej. ruido KTC asociado a estructuras CMOS mediante técnicas distintas al CDS [2023.01]"
+  },
+  {
+    "code": "H04N 25/67",
+    "description": "••••aplicado a ruido de patrón fijo, p. ej. respuesta no uniforme [2023.01]"
+  },
+  {
+    "code": "H04N 25/671",
+    "description": "••••••para detección o corrección de la falta de uniformidad [2023.01]"
+  },
+  {
+    "code": "H04N 25/672",
+    "description": "••••••••entre sensores adyacentes o registros de salida para leer una única imagen [2023.01]"
+  },
+  {
+    "code": "H04N 25/673",
+    "description": "••••••••mediante fuentes de referencia [2023.01]"
+  },
+  {
+    "code": "H04N 25/674",
+    "description": "••••••••••basadas en la propia escena, p. ej. desenfoque [2023.01]"
+  },
+  {
+    "code": "H04N 25/677",
+    "description": "••••••••para reducir el ruido de patrón fijo de columnas o de líneas [2023.01]"
+  },
+  {
+    "code": "H04N 25/68",
+    "description": "••••aplicado a defectos [2023.01]"
+  },
+  {
+    "code": "H04N 25/683",
+    "description": "••••••mediante la estimación de defectos realizada en la señal de la escena, p. ej. en tiempo real [2023.01]"
+  },
+  {
+    "code": "H04N 25/69",
+    "description": "••••••SSIS con estructuras de comprobación o corrección para circuitos que no sean celdas de píxeles [2023.01]"
+  },
+  {
+    "code": "H04N 25/70",
+    "description": "••Arquitecturas SSIS; Circuitos asociados a ellas [2023.01]"
+  },
+  {
+    "code": "H04N 25/701",
+    "description": "••••Sensores de línea [2023.01]"
+  },
+  {
+    "code": "H04N 25/702",
+    "description": "••••Arquitecturas SSIS caracterizadas por una distribución de píxeles no idéntica, no equidistante o no plana [2023.01]"
+  },
+  {
+    "code": "H04N 25/703",
+    "description": "••••Arquitecturas SSIS que incorporan píxeles para producir señales distintas de las de imagen [2023.01]"
+  },
+  {
+    "code": "H04N 25/704",
+    "description": "••••••Píxeles especialmente adaptados para el enfoque, p. ej. conjuntos de píxeles de desfase [2023.01]"
+  },
+  {
+    "code": "H04N 25/705",
+    "description": "••••••Píxeles para medición de profundidad, p. ej. RGBZ [2023.01]"
+  },
+  {
+    "code": "H04N 25/706",
+    "description": "••••••Píxeles para exposición o medición de la luz de ambiente [2023.01]"
+  },
+  {
+    "code": "H04N 25/707",
+    "description": "••••••Píxeles para detección de eventos [2023.01]"
+  },
+  {
+    "code": "H04N 25/708",
+    "description": "••••••Píxeles para la detección de bordes [2023.01]"
+  },
+  {
+    "code": "H04N 25/709",
+    "description": "••••Circuitos para el control de la fuente de alimentación [2023.01]"
+  },
+  {
+    "code": "H04N 25/71",
+    "description": "••••Sensores de dispositivos de carga acoplada [CCD]; Registros de transferencia de carga especialmente adaptados para sensores CCD [2023.01]"
+  },
+  {
+    "code": "H04N 25/711",
+    "description": "••••••Registros de retardo e integración [TDI]; Registros de desplazamiento TDI [2023.01]"
+  },
+  {
+    "code": "H04N 25/713",
+    "description": "••••••Registros de transferencia o lectura; Registros de lectura dividida o registros de lectura múltiple [2023.01]"
+  },
+  {
+    "code": "H04N 25/715",
+    "description": "••••••que emplean transferencia interlineal de tramas [FIT] [2023.01]"
+  },
+  {
+    "code": "H04N 25/72",
+    "description": "••••••que emplean transferencia de tramas [FIT] [2023.01]"
+  },
+  {
+    "code": "H04N 25/73",
+    "description": "••••••que emplean transferencia interlineal [IT] [2023.01]"
+  },
+  {
+    "code": "H04N 25/74",
+    "description": "••••••Circuitos para analizar o direccionar la matriz de píxeles [2023.01]"
+  },
+  {
+    "code": "H04N 25/75",
+    "description": "••••••Circuitos para proporcionar, modificar o procesar las señales de imagen de la matriz de píxeles [2023.01]"
+  },
+  {
+    "code": "H04N 25/76",
+    "description": "••••Sensores direccionados, p. ej. sensores MOS o CMOS [2023.01]"
+  },
+  {
+    "code": "H04N 25/766",
+    "description": "••••••que comprenden líneas de control o de salida utilizadas para una pluralidad de funciones, p. ej. para salida de píxeles, puesta en marcha, reinicio o alimentación [2023.01]"
+  },
+  {
+    "code": "H04N 25/767",
+    "description": "••••••Líneas horizontales de lectura, multiplexores o registros [2023.01]"
+  },
+  {
+    "code": "H04N 25/768",
+    "description": "••••••para el retardo y la integración [TDI] [2023.01]"
+  },
+  {
+    "code": "H04N 25/77",
+    "description": "••••••Circuitos de píxeles, p. ej. memorias, convertidores A/D, amplificadores de píxeles, circuitos compartidos o componentes compartidos [2023.01]"
+  },
+  {
+    "code": "H04N 25/771",
+    "description": "••••••••que comprenden medios de almacenamiento distintos de la difusión flotante [2023.01]"
+  },
+  {
+    "code": "H04N 25/772",
+    "description": "••••••••que comprenden convertidores A/D, V/T, V/F, I/T o I/F [2023.01]"
+  },
+  {
+    "code": "H04N 25/773",
+    "description": "••••••••••que comprenden circuitos de conteo de fotones, p. ej. detección de un único fotón [SPD] o diodos de avalancha de un solo fotón [SPAD] [2023.01]"
+  },
+  {
+    "code": "H04N 25/778",
+    "description": "••••••••que comprenden amplificadores compartidos entre una pluralidad de píxeles, es decir, al menos una parte del amplificador debe estar en el propio conjunto de sensores [2023.01]"
+  },
+  {
+    "code": "H04N 25/779",
+    "description": "••••••Circuitos para analizar o direccionar la matriz de píxeles [2023.01]"
+  },
+  {
+    "code": "H04N 25/78",
+    "description": "••••••Circuitos de lectura para sensores direccionados, p. ej. amplificadores de salida o convertidores A/D [2023.01]"
+  },
+  {
+    "code": "H04N 25/79",
+    "description": "••••Sistemas de circuitos que se dividen entre diferentes o múltiples sustratos, chips o placas de circuitos, p. ej. sensores de imagen apilados [2023.01]"
+  },
+  {
+    "code": "H04N 101/00",
+    "description": "Cámaras de vídeo para imágenes fijas [2006.01]"
+  }
+]

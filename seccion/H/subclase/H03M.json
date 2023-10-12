@@ -1,0 +1,522 @@
+[
+  {
+    "code": "H03M 1/00",
+    "description": "Conversión analógica/digital; Conversión digital/analógica (conversión de valores analógicos en, o a partir de una modulación diferencial H03M 3/00) [2006.01]"
+  },
+  {
+    "code": "H03M 1/02",
+    "description": "••Convertidores reversibles analógico/digitales [2006.01]"
+  },
+  {
+    "code": "H03M 1/04",
+    "description": "••utilizando técnicas estocásticas [2006.01]"
+  },
+  {
+    "code": "H03M 1/06",
+    "description": "••Compensación o prevención continua de la influencia indeseable de parámetros físicos (periódicamente H03M 1/10) [2006.01]"
+  },
+  {
+    "code": "H03M 1/08",
+    "description": "••••del ruido [2006.01]"
+  },
+  {
+    "code": "H03M 1/10",
+    "description": "••Calibración o ensayos [2006.01]"
+  },
+  {
+    "code": "H03M 1/12",
+    "description": "••Convertidores analógico/digitales (H03M 1/02-H03M 1/10 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H03M 1/14",
+    "description": "••••Conversión por etapas, poniendo en juego para cada etapa medios de conversión idénticos o diferentes y produciendo más de un bit [2006.01]"
+  },
+  {
+    "code": "H03M 1/16",
+    "description": "••••••con modificación de la escala, es decir, cambiando la amplificación entre las etapas [2006.01]"
+  },
+  {
+    "code": "H03M 1/18",
+    "description": "••••Control automático para modificar la gama de señales que el convertidor puede tratar, p. ej. regulación del margen de ganancia [2006.01]"
+  },
+  {
+    "code": "H03M 1/20",
+    "description": "••••Aumento de la resolución por la utilización de un sistema de n bits para obtener n + m bits, p. ej. por adición de una señal aleatoria [2006.01]"
+  },
+  {
+    "code": "H03M 1/22",
+    "description": "••••del tipo de lectura de imágenes [2006.01]"
+  },
+  {
+    "code": "H03M 1/24",
+    "description": "••••••que utilizan un lector y un disco o una cinta que se muevan uno en relación a otro [2006.01]"
+  },
+  {
+    "code": "H03M 1/26",
+    "description": "••••••••con codificación ponderada, es decir, que el peso dado a un dígito depende de su posición en el bloque o en la palabra código, p. ej. para una base determinada, los pesos son las potencias de esta base [2006.01]"
+  },
+  {
+    "code": "H03M 1/28",
+    "description": "••••••••con codificación no ponderada [2006.01]"
+  },
+  {
+    "code": "H03M 1/30",
+    "description": "••••••••••incremental [2006.01]"
+  },
+  {
+    "code": "H03M 1/32",
+    "description": "••••••utilizando tubos de rayos catódicos [2006.01]"
+  },
+  {
+    "code": "H03M 1/34",
+    "description": "••••Valor analógico comparado con los valores de referencia (H03M 1/48 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H03M 1/36",
+    "description": "••••••sólo simultáneamente, es decir, de tipo paralelo [2006.01]"
+  },
+  {
+    "code": "H03M 1/38",
+    "description": "••••••sólo secuencialmente, p. ej. del tipo de aproximaciones sucesivas (convirtiendo más de un bit por etapa H03M 1/14) [2006.01]"
+  },
+  {
+    "code": "H03M 1/40",
+    "description": "••••••••del tipo de recirculación [2006.01]"
+  },
+  {
+    "code": "H03M 1/42",
+    "description": "••••••••Comparaciones secuenciales en etapas dispuestas en serie, sin cambiar el valor de la señal analógica [2006.01]"
+  },
+  {
+    "code": "H03M 1/44",
+    "description": "••••••••Comparación secuencial en etapas dispuestas en serie con cambio de la señal analógica [2006.01]"
+  },
+  {
+    "code": "H03M 1/46",
+    "description": "••••••••con convertidor digital/analógico para suministrar los valores de referencia al convertidor [2006.01]"
+  },
+  {
+    "code": "H03M 1/48",
+    "description": "••••Servoconvertidores [2006.01]"
+  },
+  {
+    "code": "H03M 1/50",
+    "description": "••••con conversión intermedia en intervalo de tiempo (H03M 1/64 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H03M 1/52",
+    "description": "••••••Integración de la señal de entrada con retorno lineal al nivel de referencia [2006.01]"
+  },
+  {
+    "code": "H03M 1/54",
+    "description": "••••••Muestreo y memorización de la señal de entrada con retorno lineal al nivel de referencia [2006.01]"
+  },
+  {
+    "code": "H03M 1/56",
+    "description": "••••••Comparación de la señal de entrada con una rampa lineal [2006.01]"
+  },
+  {
+    "code": "H03M 1/58",
+    "description": "••••••Conversión no lineal [2006.01]"
+  },
+  {
+    "code": "H03M 1/60",
+    "description": "••••con conversión intermedia en frecuencia de impulsos [2006.01]"
+  },
+  {
+    "code": "H03M 1/62",
+    "description": "••••••Conversión no lineal [2006.01]"
+  },
+  {
+    "code": "H03M 1/64",
+    "description": "••••con conversión intermedia en fase de señales sinusoidales [2006.01]"
+  },
+  {
+    "code": "H03M 1/66",
+    "description": "••Convertidores digital/analógicos (H03M 1/02-H03M 1/10 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H03M 1/68",
+    "description": "••••con conversiones de sensibilidad diferente, es decir, que una conversión concierne a los bits más significativos y otra a los bits menos significativos [2006.01]"
+  },
+  {
+    "code": "H03M 1/70",
+    "description": "••••Control automático para modificar la gama del convertidor [2006.01]"
+  },
+  {
+    "code": "H03M 1/72",
+    "description": "••••Conversión secuencial en las etapas dispuestas en serie (H03M 1/68 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H03M 1/74",
+    "description": "••••Conversión simultánea [2006.01]"
+  },
+  {
+    "code": "H03M 1/76",
+    "description": "••••••utilizando un árbol de conmutación [2006.01]"
+  },
+  {
+    "code": "H03M 1/78",
+    "description": "••••••utilizando una red en escalera [2006.01]"
+  },
+  {
+    "code": "H03M 1/80",
+    "description": "••••••utilizando impedancias ponderadas (H03M 1/76 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H03M 1/82",
+    "description": "••••con conversión intermedia en intervalo de tiempos [2006.01]"
+  },
+  {
+    "code": "H03M 1/84",
+    "description": "••••••Conversión no lineal [2006.01]"
+  },
+  {
+    "code": "H03M 1/86",
+    "description": "••••con conversión intermedia en frecuencia de impulsos [2006.01]"
+  },
+  {
+    "code": "H03M 1/88",
+    "description": "••••••Conversión no lineal [2006.01]"
+  },
+  {
+    "code": "H03M 3/00",
+    "description": "Conversión de valores analógicos en, o a partir de una modulación diferencial [2006.01]"
+  },
+  {
+    "code": "H03M 3/02",
+    "description": "••Modulación delta, es decir, modulación diferencial con un bit [2006.01]"
+  },
+  {
+    "code": "H03M 3/04",
+    "description": "••Modulación diferencial con varios bits [2006.01]"
+  },
+  {
+    "code": "H03M 5/00",
+    "description": "Conversión de la forma de la representación de dígitos individuales [2006.01]"
+  },
+  {
+    "code": "H03M 5/02",
+    "description": "••Conversión en, o a partir de una representación por impulsos [2006.01]"
+  },
+  {
+    "code": "H03M 5/04",
+    "description": "••••teniendo los impulsos dos niveles [2006.01]"
+  },
+  {
+    "code": "H03M 5/06",
+    "description": "••••••Representación de código, p. ej. transición, para un elemento binario depende solamente de la información de este elemento binario [2006.01]"
+  },
+  {
+    "code": "H03M 5/08",
+    "description": "••••••••Representación del código por la anchura del impulso [2006.01]"
+  },
+  {
+    "code": "H03M 5/10",
+    "description": "••••••••Representación del código por la frecuencia del impulso [2006.01]"
+  },
+  {
+    "code": "H03M 5/12",
+    "description": "••••••••Código de nivel bifásico, p. ej. código de desplazamiento de fase, código Manchester; Codigo espacio-marea bifásico, p. ej. código de frecuencia doble [2006.01]"
+  },
+  {
+    "code": "H03M 5/14",
+    "description": "••••••Representación del código, p. ej. transición, dependiendo para un elemento binario dado de la información de uno o varios elementos binarios adyacentes, p. ej. código de modulación de retardo, código de doble densidad [2006.01]"
+  },
+  {
+    "code": "H03M 5/16",
+    "description": "••••teniendo los impulsos tres niveles [2006.01]"
+  },
+  {
+    "code": "H03M 5/18",
+    "description": "••••••siendo dos niveles simétricos con respecto a un tercer nivel, es decir, código ternario bipolar equilibrado [2006.01]"
+  },
+  {
+    "code": "H03M 5/20",
+    "description": "••••teniendo los impulsos más de tres niveles [2006.01]"
+  },
+  {
+    "code": "H03M 5/22",
+    "description": "••Conversión en, o a partir de una representación por señales sinusoidales [2006.01]"
+  },
+  {
+    "code": "H03M 7/00",
+    "description": "Conversión de un código, en el cual la información está representada por una secuencia dada o por un número de dígitos, en un código en el cual la misma información está representada por una secuencia o por un número de dígitos diferentes [2006.01]"
+  },
+  {
+    "code": "H03M 7/02",
+    "description": "••Conversión en, o a partir de códigos ponderados, es decir, el peso dado a un dígito dependiendo de su posición en el bloque o en la palabra código [2006.01]"
+  },
+  {
+    "code": "H03M 7/04",
+    "description": "••••siendo su base dos [2006.01]"
+  },
+  {
+    "code": "H03M 7/06",
+    "description": "••••siendo su base un número entero positivo diferente de dos [2006.01]"
+  },
+  {
+    "code": "H03M 7/08",
+    "description": "••••••siendo la base diez, es decir, un código decimal puro [2006.01]"
+  },
+  {
+    "code": "H03M 7/10",
+    "description": "••••siendo su base negativa [2006.01]"
+  },
+  {
+    "code": "H03M 7/12",
+    "description": "••••teniendo dos bases, p. ej. un código decimal código binario [2006.01]"
+  },
+  {
+    "code": "H03M 7/14",
+    "description": "••Conversión en, o a partir de códigos no ponderados [2006.01]"
+  },
+  {
+    "code": "H03M 7/16",
+    "description": "••••Conversión en, o a partir de códigos de distancia unitaria, p. ej. código de Gray, código binario reflejado [2006.01]"
+  },
+  {
+    "code": "H03M 7/18",
+    "description": "••••Conversión en, o a partir de códigos de residuos [2006.01]"
+  },
+  {
+    "code": "H03M 7/20",
+    "description": "••••Conversión en, o a partir de códigos n en medio de m [2006.01]"
+  },
+  {
+    "code": "H03M 7/22",
+    "description": "••••••en, o a partir de códigos uno en medio de m [2006.01]"
+  },
+  {
+    "code": "H03M 7/24",
+    "description": "••••Conversión en, o a partir de códigos de coma flotante [2006.01]"
+  },
+  {
+    "code": "H03M 7/26",
+    "description": "••Conversión en, o a partir de códigos estocásticos [2006.01]"
+  },
+  {
+    "code": "H03M 7/28",
+    "description": "••Estructuras programables, es decir, en las que el convertidor de código contiene un dispositivo que permite al operador modificar el procedimiento de conversión [2006.01]"
+  },
+  {
+    "code": "H03M 7/30",
+    "description": "••Compresión (análisis-síntesis de la voz para reducción de redundancia G10L 19/00; para transmisión de imágenes H04N); Expansión; Supresión de datos innecesarios, p. ej. reducción de redundancia [2006.01]"
+  },
+  {
+    "code": "H03M 7/32",
+    "description": "••••Conversión en, o a partir de una modulación delta, es decir, una modulación diferencial de un bit [2006.01]"
+  },
+  {
+    "code": "H03M 7/34",
+    "description": "••••••adaptativa [2006.01]"
+  },
+  {
+    "code": "H03M 7/36",
+    "description": "••••Conversión en, o a partir de una modulación diferencial de varios bits, es decir, la diferencia entre muestras sucesivas está codificada por más de un bit [2006.01]"
+  },
+  {
+    "code": "H03M 7/38",
+    "description": "••••••adaptativa [2006.01]"
+  },
+  {
+    "code": "H03M 7/40",
+    "description": "••••Conversión en, o a partir de códigos la longitud variable, p. ej. código Shanno-Fano, código Huffman, código Morse [2006.01]"
+  },
+  {
+    "code": "H03M 7/42",
+    "description": "••••••utilizando una tabla para el procedimiento de codificación o de decodificación, p. ej. utilizando una memoria de datos fijos [2006.01]"
+  },
+  {
+    "code": "H03M 7/44",
+    "description": "••••••Eliminación de ceros irrelevantes [2006.01]"
+  },
+  {
+    "code": "H03M 7/46",
+    "description": "••••Conversión en o a partir de códigos de coordenada diferencial, es decir, por representación del número de dígitos consecutivos o grupos de dígitos del mismo tipo con ayuda de una palabra código y de un dígito representativo de este tipo [2006.01]"
+  },
+  {
+    "code": "H03M 7/48",
+    "description": "••••••alternativamente con otros códigos durante el proceso de conversión, p. ej. siendo realizada la codificación de coordenada diferencial únicamente en tanto que series de dígitos, del mismo tipo, de longitud suficiente están presentes [2006.01]"
+  },
+  {
+    "code": "H03M 7/50",
+    "description": "••••Conversión en, o a partir de códigos no lineales, p. ej. compresión [2006.01]"
+  },
+  {
+    "code": "H03M 9/00",
+    "description": "Conversión paralelo/serie o viceversa (memorias digitales en las cuales la información es desplazada por escalones G11C 19/00) [2006.01]"
+  },
+  {
+    "code": "H03M 11/00",
+    "description": "Codificación en relación con los teclados o dispositivos similares, es decir, codificación de la posición de las teclas accionadas (dispositivos de conmutación para los teclados, asociación estructural de codificadores y teclados H01H 13/70, H03K 17/94) [2006.01]"
+  },
+  {
+    "code": "H03M 11/02",
+    "description": "••Detalles [2006.01]"
+  },
+  {
+    "code": "H03M 11/04",
+    "description": "••••Codificación de teclas multifunción [2006.01]"
+  },
+  {
+    "code": "H03M 11/06",
+    "description": "••••••accionando la tecla multifunción de diferentes maneras [2006.01]"
+  },
+  {
+    "code": "H03M 11/08",
+    "description": "••••••••accionando combinaciones determinadas de teclas multifunción [2006.01]"
+  },
+  {
+    "code": "H03M 11/10",
+    "description": "••••••••por métodos basados en la detección de la duración o la presión de accionamiento de las teclas [2006.01]"
+  },
+  {
+    "code": "H03M 11/12",
+    "description": "••••••••accionando una tecla un número determinado de veces consecutivas, tras lo cual se utiliza una tecla separada de validación para indicar el fin de la serie [2006.01]"
+  },
+  {
+    "code": "H03M 11/14",
+    "description": "••••••utilizando teclas suplementarias, p. ej. teclas de posicionamiento de teclado, que determinan la función realizada por la tecla multifunción [2006.01]"
+  },
+  {
+    "code": "H03M 11/16",
+    "description": "••••••••siendo accionadas las teclas de posicionamiento de teclado después de las teclas multifunción [2006.01]"
+  },
+  {
+    "code": "H03M 11/18",
+    "description": "••••••••siendo accionadas las teclas de posicionamiento de teclado antes de las teclas multifunción [2006.01]"
+  },
+  {
+    "code": "H03M 11/20",
+    "description": "••Codificación dinámica, es decir, por barrido de las teclas (H03M 11/26 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H03M 11/22",
+    "description": "••Codificación estática (H03M 11/26 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H03M 11/24",
+    "description": "••••utilizando medios analógicos [2006.01]"
+  },
+  {
+    "code": "H03M 11/26",
+    "description": "••utilizando medios optoelectrónicos [2006.01]"
+  },
+  {
+    "code": "H03M 13/00",
+    "description": "Codificación, decodificación o conversión de código para detectar o corregir errores; Hipótesis básicas sobre la teoría de codificación; Límites de codificación; Métodos de evaluación de la probabilidad de error; Modelos de canal; Simulación o prueba de códigos (detección o correción de errores para la conversión de código o la conversión analógico/digital, digital/analógica H03M 1/00-H03M 11/00; especialmente adaptados para los computadores digitales G06F 11/08; para el registro de la información basado en el movimiento relativo entre el soporte de registro y el transductor G11B, p. ej. G11B 20/18; para memorias estáticas G11C) [2006.01]"
+  },
+  {
+    "code": "H03M 13/01",
+    "description": "••Hipótesis básicas sobre la teoría de codificación; Límites de codificación; Métodos de evaluación de la probabilidad de error; Modelos de canal; Simulación o prueba de códigos [2006.01]"
+  },
+  {
+    "code": "H03M 13/03",
+    "description": "••Detección de errores o corrección de errores en transmisión por redundancia en la representación de los datos, es decir, palabras de código que contienen más dígitos que las palabras origen [2006.01]"
+  },
+  {
+    "code": "H03M 13/05",
+    "description": "••••usando códigos de bloque, es decir, un número predeterminado de bits de control junto a un número predeterminado de bits de información [2006.01]"
+  },
+  {
+    "code": "H03M 13/07",
+    "description": "••••••Códigos aritméticos [2006.01]"
+  },
+  {
+    "code": "H03M 13/09",
+    "description": "••••••Unicamente detección de errores, p. ej. , usando códigos de control de redundancia cíclica [CRC] o un único bit de paridad [2006.01]"
+  },
+  {
+    "code": "H03M 13/11",
+    "description": "••••••usando bits de paridad múltiple [2006.01]"
+  },
+  {
+    "code": "H03M 13/13",
+    "description": "••••••Códigos lineales [2006.01]"
+  },
+  {
+    "code": "H03M 13/15",
+    "description": "••••••••Códigos cíclicos, es decir, desplazamientos cíclicos de palabras de código que producen otras palabras de código, p. ej. códigos definidos por un generador polinomial, códigos de Bose-Chaudhuri- Hocquenghem [BCH] (H03M 13/17 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H03M 13/17",
+    "description": "••••••••Corrección de errores en ráfaga, p. ej. captura de errores, códigos Fire [2006.01]"
+  },
+  {
+    "code": "H03M 13/19",
+    "description": "••••••••Corrección de un sólo error sin usar propiedades particulares de los códigos cíclicos, p. ej. códigos Hamming, códigos Hamming extendidos o generalizados [2006.01]"
+  },
+  {
+    "code": "H03M 13/21",
+    "description": "••••••Códigos no lineales, p. ej. conversión de palabras de datos de m bits a palabras de código de n bits [mBnB] con detección o corrección de errores [2006.01]"
+  },
+  {
+    "code": "H03M 13/23",
+    "description": "••••usando códigos convolucionales, p. ej. códigos de memoria unidad [2006.01]"
+  },
+  {
+    "code": "H03M 13/25",
+    "description": "••Detección de errores o corrección de errores transmitidos por codificación espacial de la señal, es decir, añadiendo redundancia en la constelación de la señal, p. ej. modulación codificada de Trellis [TCM] [2006.01]"
+  },
+  {
+    "code": "H03M 13/27",
+    "description": "••usando técnicas de entrelazado [2006.01]"
+  },
+  {
+    "code": "H03M 13/29",
+    "description": "••combinando dos o más códigos o estructuras de códigos, p. ej. códigos de productos, códigos de producto generalizados, códigos concatenados, códigos internos y externos [2006.01]"
+  },
+  {
+    "code": "H03M 13/31",
+    "description": "••combinando la codificación para la detección o la corrección de errores y un uso eficiente del espectro (sin detección o corrección de errores H03M 5/14) [2006.01]"
+  },
+  {
+    "code": "H03M 13/33",
+    "description": "••Sincronización basada en la codificación o la decodificación de errores [2006.01]"
+  },
+  {
+    "code": "H03M 13/35",
+    "description": "••Protección desigual o adaptativa contra los errores, p. ej. proporcionando un nivel diferente de protección según la importancia de la información de origen o adaptando la codificación según la variación de las características del canal de transmisión [2006.01]"
+  },
+  {
+    "code": "H03M 13/37",
+    "description": "••Métodos o técnicas de decodificación que no son específicas de un tipo particular de codificación previsto en los grupo H03M 13/03-H03M 13/35 [2006.01]"
+  },
+  {
+    "code": "H03M 13/39",
+    "description": "••••Estimación de secuencia, es decir, usando métodos estadísticos para la reconstrucción de los códigos originales [2006.01]"
+  },
+  {
+    "code": "H03M 13/41",
+    "description": "••••••usando el algoritmo de Viterbi o procesadores de Viterbi [2006.01]"
+  },
+  {
+    "code": "H03M 13/43",
+    "description": "••••Decodificación por lógica mayoritaria o según el umbral [2006.01]"
+  },
+  {
+    "code": "H03M 13/45",
+    "description": "••••Decodificación discreta, es decir, usando información de fiabilidad de los símbolos (H03M 13/41 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H03M 13/47",
+    "description": "••Detección de errores, corrección de errores transmitidos o protección contra los errores, no previstas en los grupos H03M 13/01-H03M 13/37 [2006.01]"
+  },
+  {
+    "code": "H03M 13/49",
+    "description": "••••Detección o corrección de errores unidireccionales [2006.01]"
+  },
+  {
+    "code": "H03M 13/51",
+    "description": "••••Códigos de peso constante; Códigos n de m; Códigos Berger [2006.01]"
+  },
+  {
+    "code": "H03M 13/53",
+    "description": "••••Códigos que utilizan series de números Fibonacci [2006.01]"
+  },
+  {
+    "code": "H03M 99/00",
+    "description": "Materia no prevista en otros grupos de esta subclase [2006.01]"
+  }
+]

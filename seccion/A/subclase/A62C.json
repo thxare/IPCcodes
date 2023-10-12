@@ -1,0 +1,430 @@
+[
+  {
+    "code": "A62C 2/00",
+    "description": "Prevención o limitación de la extensión de los incendios (A62C 3/00 tiene prioridad; trampas para llamas A62C 4/00) [2006.01]"
+  },
+  {
+    "code": "A62C 2/04",
+    "description": "••Interrupción de la alimentación en materias inflamables o supresión de estas materias [2006.01]"
+  },
+  {
+    "code": "A62C 2/06",
+    "description": "••Barreras cortafuegos [2006.01]"
+  },
+  {
+    "code": "A62C 2/08",
+    "description": "••••Cortinas de agua (boquillas en sí A62C 31/02) [2006.01]"
+  },
+  {
+    "code": "A62C 2/10",
+    "description": "••••Cortinas a prueba de fuego [2006.01]"
+  },
+  {
+    "code": "A62C 2/12",
+    "description": "••••Cortafuegos articulados [2006.01]"
+  },
+  {
+    "code": "A62C 2/14",
+    "description": "••••••que tienen al menos dos hojas [2006.01]"
+  },
+  {
+    "code": "A62C 2/16",
+    "description": "••••••••del tipo con láminas múltiples que se enrollan o se doblan [2006.01]"
+  },
+  {
+    "code": "A62C 2/18",
+    "description": "••••Cortafuegos deslizantes [2006.01]"
+  },
+  {
+    "code": "A62C 2/20",
+    "description": "••••••a 90 grados con relación al plano de abertura [2006.01]"
+  },
+  {
+    "code": "A62C 2/22",
+    "description": "••••Cortafuegos con disposiciones para la supresión de un obstáculo, p. ej. raíles o transportadores, antes de la obstrucción de la abertura [2006.01]"
+  },
+  {
+    "code": "A62C 2/24",
+    "description": "••••Mecanismos de control o de accionamiento [2006.01]"
+  },
+  {
+    "code": "A62C 3/00",
+    "description": "Prevención, limitación o extinción de incendios especialmente adaptados para objetos o lugares particulares (para reactores nucleares G21C 9/04) [2006.01]"
+  },
+  {
+    "code": "A62C 3/02",
+    "description": "••para zonas de incendio, p. ej. incendios forestales, fuegos subterráneos [2006.01]"
+  },
+  {
+    "code": "A62C 3/04",
+    "description": "••para el polvo, para materiales en balas o en pilas no compactas, p. ej. en silos o chimeneas (trampas para llamas A62C 4/00) [2006.01]"
+  },
+  {
+    "code": "A62C 3/06",
+    "description": "••para materiales muy inflamables, p. ej. metales ligeros, productos del petróleo [2006.01]"
+  },
+  {
+    "code": "A62C 3/07",
+    "description": "••en vehículos, p. ej. vehículos de carretera [2006.01]"
+  },
+  {
+    "code": "A62C 3/08",
+    "description": "••••en aviones [2006.01]"
+  },
+  {
+    "code": "A62C 3/10",
+    "description": "••••en buques [2006.01]"
+  },
+  {
+    "code": "A62C 3/16",
+    "description": "••en instalaciones eléctricas, p. ej. cables aéreos [2006.01]"
+  },
+  {
+    "code": "A62C 4/00",
+    "description": "Trampas para llamas que permiten el paso del gas, pero no el de la llama o de la onda detonante [2006.01]"
+  },
+  {
+    "code": "A62C 4/02",
+    "description": "••en los conductores de gas (válvulas de seguridad F16K 17/00) [2006.01]"
+  },
+  {
+    "code": "A62C 4/04",
+    "description": "••en las chimeneas o conducciones de humo [2006.01]"
+  },
+  {
+    "code": "A62C 5/00",
+    "description": "Fabricación de sustancias extintoras inmediatamente antes del uso (boquillas A62C 31/02) [2006.01]"
+  },
+  {
+    "code": "A62C 5/02",
+    "description": "••de espuma [2006.01]"
+  },
+  {
+    "code": "A62C 5/027",
+    "description": "••••Espuma pesada [2006.01]"
+  },
+  {
+    "code": "A62C 5/033",
+    "description": "••de gel [2006.01]"
+  },
+  {
+    "code": "A62C 8/00",
+    "description": "Herramientas manuales o accesorios especialmente concebidos para la lucha contra incendios, p. ej. cajas de herramientas [2006.01]"
+  },
+  {
+    "code": "A62C 8/02",
+    "description": "••Cubos o baldes [2006.01]"
+  },
+  {
+    "code": "A62C 8/04",
+    "description": "••Picafuegos o batidores [2006.01]"
+  },
+  {
+    "code": "A62C 8/06",
+    "description": "••Cubiertas extintoras [2006.01]"
+  },
+  {
+    "code": "A62C 8/08",
+    "description": "••Pantallas [2006.01]"
+  },
+  {
+    "code": "A62C 11/00",
+    "description": "Extintores portátiles dotados de bombas manuales [2006.01]"
+  },
+  {
+    "code": "A62C 13/00",
+    "description": "Extintores portátiles con presión permanente o presurizados inmediatamente antes del uso (A62C 11/00 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "A62C 13/02",
+    "description": "••en los que la presión del gas se produce por reacción química [2006.01]"
+  },
+  {
+    "code": "A62C 13/04",
+    "description": "••••con un recipiente de ácido independiente [2006.01]"
+  },
+  {
+    "code": "A62C 13/06",
+    "description": "••••••con depósito de ácido sin dispositivo de cierre [2006.01]"
+  },
+  {
+    "code": "A62C 13/08",
+    "description": "••••••con depósito de ácido dotado de un dispositivo de cierre [2006.01]"
+  },
+  {
+    "code": "A62C 13/10",
+    "description": "••••••••con un dispositivo de cierre de tapadera móvil (tapaderas o cubiertas con cierre flojo para recipientes para líquidos sin medios para asegurar la estanqueidad del recipiente en general B65D 51/02) [2006.01]"
+  },
+  {
+    "code": "A62C 13/12",
+    "description": "••••••••con un dispositivo de cierre de válvula [2006.01]"
+  },
+  {
+    "code": "A62C 13/14",
+    "description": "••••••con un depósito de ácido cuyo envoltorio se rompe por medio de una punta, de un punzón en forma de tornillo o de una herramienta análoga [2006.01]"
+  },
+  {
+    "code": "A62C 13/16",
+    "description": "••••••con un depósito de ácido móvil susceptible de romperse por caída en el momento de su empleo [2006.01]"
+  },
+  {
+    "code": "A62C 13/18",
+    "description": "••••••con un depósito de ácido susceptible de romperse por el choque de un peso, p. ej. por la caída de una masa [2006.01]"
+  },
+  {
+    "code": "A62C 13/20",
+    "description": "••••con los productos químicos en un solo compartimiento, p. ej. en un cartucho [2006.01]"
+  },
+  {
+    "code": "A62C 13/22",
+    "description": "••••con sustancias incendiarias para producir una presión de gas [2006.01]"
+  },
+  {
+    "code": "A62C 13/62",
+    "description": "••con un solo recipiente con presión permanente [2006.01]"
+  },
+  {
+    "code": "A62C 13/64",
+    "description": "••••siendo descargada la sustancia extintora por medio de una válvula [2006.01]"
+  },
+  {
+    "code": "A62C 13/66",
+    "description": "••estando almacenados la sustancia extintora y el gas comprimido en recipientes distintos [2006.01]"
+  },
+  {
+    "code": "A62C 13/68",
+    "description": "••••caracterizados por los medios para descargar la sustancia extintora [2006.01]"
+  },
+  {
+    "code": "A62C 13/70",
+    "description": "••••caracterizados por los medios para descargar el gas comprimido [2006.01]"
+  },
+  {
+    "code": "A62C 13/72",
+    "description": "••••caracterizados en que los medios para descargar actúan de forma sensiblemente simultánea sobre los dos recipientes [2006.01]"
+  },
+  {
+    "code": "A62C 13/74",
+    "description": "••••••siendo el recipiente de gas comprimido perforado o plegable [2006.01]"
+  },
+  {
+    "code": "A62C 13/76",
+    "description": "••Detalles o accesorios [2006.01]"
+  },
+  {
+    "code": "A62C 13/78",
+    "description": "••••Dispositivos de suspensión o de soporte [2006.01]"
+  },
+  {
+    "code": "A62C 15/00",
+    "description": "Extintores de tipo mochila (mochilas, bastidores para transporte, armaduras para llevar sobre el cuerpo en sí A45F 3/00) [2006.01]"
+  },
+  {
+    "code": "A62C 17/00",
+    "description": "Extintores manuales esencialmente en forma de pistola o de fusil [2006.01]"
+  },
+  {
+    "code": "A62C 19/00",
+    "description": "Extintores manuales en los que la sustancia extintora es expulsada por una explosión; Recipientes explosivos para ser arrojados en el incendio [2006.01]"
+  },
+  {
+    "code": "A62C 25/00",
+    "description": "Extintores portátiles dotados de bombas con motor [2006.01]"
+  },
+  {
+    "code": "A62C 29/00",
+    "description": "Barcos destinados a la lucha contra incendios o estructuras flotantes análogas (aspectos de los barcos, ver las subclases apropiadas de las clases B63) [2006.01]"
+  },
+  {
+    "code": "A62C 31/00",
+    "description": "Emisión de sustancias extintoras (bombas F04; mangueras F16L) [2006.01]"
+  },
+  {
+    "code": "A62C 31/02",
+    "description": "••Boquillas especialmente concebidas para la lucha contra incendios [2006.01]"
+  },
+  {
+    "code": "A62C 31/03",
+    "description": "••••regulables, p. ej. desde la pulverización hasta el chorro concentrado o viceversa [2006.01]"
+  },
+  {
+    "code": "A62C 31/05",
+    "description": "••••con al menos dos salidas [2006.01]"
+  },
+  {
+    "code": "A62C 31/07",
+    "description": "••••••para sustancias diferentes [2006.01]"
+  },
+  {
+    "code": "A62C 31/12",
+    "description": "••••para liberar espuma o espuma pulverizada [2006.01]"
+  },
+  {
+    "code": "A62C 31/22",
+    "description": "••••especialmente adaptadas para atravesar paredes, materiales amontonados o análogos [2006.01]"
+  },
+  {
+    "code": "A62C 31/24",
+    "description": "••••fijas a escaleras, pértigas, torres u otras construcciones, con o sin cabezas giratorias [2006.01]"
+  },
+  {
+    "code": "A62C 31/28",
+    "description": "••Accesorios para dispositivos de lanzamiento, p. ej. soportes [2006.01]"
+  },
+  {
+    "code": "A62C 33/00",
+    "description": "Accesorios para mangueras [2006.01]"
+  },
+  {
+    "code": "A62C 33/02",
+    "description": "••Aparatos para la limpieza o el secado de los mangueras (estufas F26B) [2006.01]"
+  },
+  {
+    "code": "A62C 33/04",
+    "description": "••Soportes o bridas para mangueras de incendios [2006.01]"
+  },
+  {
+    "code": "A62C 33/06",
+    "description": "••Puentes para tubos o mangueras [2006.01]"
+  },
+  {
+    "code": "A62C 35/00",
+    "description": "Material instalado de forma fija (A62C 31/00, A62C 33/00, A62C 37/00 tienen prioiridad; para la formación de cortinas de agua A62C 2/08) [2006.01]"
+  },
+  {
+    "code": "A62C 35/02",
+    "description": "••con depósitos para liberar la sustancia extintora (para la formación de cortinas de agua A62C 2/08) [2006.01]"
+  },
+  {
+    "code": "A62C 35/04",
+    "description": "••••Depósitos oscilantes o basculantes [2006.01]"
+  },
+  {
+    "code": "A62C 35/06",
+    "description": "••••Depósitos que se rompen o se abren al caer [2006.01]"
+  },
+  {
+    "code": "A62C 35/08",
+    "description": "••••Depósitos que se rompen o se abren bajo la acción de una carga explosiva [2006.01]"
+  },
+  {
+    "code": "A62C 35/10",
+    "description": "••••Depósitos que se rompen o se abren bajo la acción de llamas o del calor [2006.01]"
+  },
+  {
+    "code": "A62C 35/11",
+    "description": "••••controlados por una señal que emana de la zona de peligro [2006.01]"
+  },
+  {
+    "code": "A62C 35/13",
+    "description": "••••••con reserva limitada de sustancia extintora [2006.01]"
+  },
+  {
+    "code": "A62C 35/15",
+    "description": "••••••con un sistema para completar automáticamente el relleno del depósito [2006.01]"
+  },
+  {
+    "code": "A62C 35/20",
+    "description": "••Tomas de agua, p. ej. mangueras murales, carretes de manguera murales, armarios de derivación (tomas de agua en las calles E03B 9/02) [2006.01]"
+  },
+  {
+    "code": "A62C 35/58",
+    "description": "••Redes de conducciones [2006.01]"
+  },
+  {
+    "code": "A62C 35/60",
+    "description": "••••húmedas, es decir que contienen la sustancia extintora incluso cuando no se utilizan [2006.01]"
+  },
+  {
+    "code": "A62C 35/62",
+    "description": "••••secas, es decir vacías de sustancia extintora cuando no se utilizan [2006.01]"
+  },
+  {
+    "code": "A62C 35/64",
+    "description": "••••con presión [2006.01]"
+  },
+  {
+    "code": "A62C 35/66",
+    "description": "••••••Aceleradores [2006.01]"
+  },
+  {
+    "code": "A62C 35/68",
+    "description": "••••Detalles, p. ej. de conducciones o de sistemas de válvulas (válvulas en sí F16K) [2006.01]"
+  },
+  {
+    "code": "A62C 37/00",
+    "description": "Control de las instalaciones de lucha contra incendios (dispositivos termosensibles G01K) [2006.01]"
+  },
+  {
+    "code": "A62C 37/08",
+    "description": "••comprendiendo una tubería que lleva un detector, o sirviendo ella misma de detector, es decir, cabezas de riego independientes [2006.01]"
+  },
+  {
+    "code": "A62C 37/09",
+    "description": "••••telescópica o regulable [2006.01]"
+  },
+  {
+    "code": "A62C 37/10",
+    "description": "••••Medios de descarga, p. ej. descargados eléctricamente [2006.01]"
+  },
+  {
+    "code": "A62C 37/11",
+    "description": "••••••termosensibles [2006.01]"
+  },
+  {
+    "code": "A62C 37/12",
+    "description": "••••••••con fusibles [2006.01]"
+  },
+  {
+    "code": "A62C 37/14",
+    "description": "••••••••con recipientes susceptibles de romperse [2006.01]"
+  },
+  {
+    "code": "A62C 37/16",
+    "description": "••••••••con placas de dilatación [2006.01]"
+  },
+  {
+    "code": "A62C 37/20",
+    "description": "••••Reajuste después del uso; Herramientas a este efecto [2006.01]"
+  },
+  {
+    "code": "A62C 37/21",
+    "description": "••••••automático [2006.01]"
+  },
+  {
+    "code": "A62C 37/36",
+    "description": "••siendo emitida la señal de puesta en marcha por un detector distinto de la tubería [2006.01]"
+  },
+  {
+    "code": "A62C 37/38",
+    "description": "••••por el detector y por el accionador, p. ej. una válvula, encontrándose ambos en la zona de peligro [2006.01]"
+  },
+  {
+    "code": "A62C 37/40",
+    "description": "••••••con una conexión eléctrica entre el detector y el accionador [2006.01]"
+  },
+  {
+    "code": "A62C 37/42",
+    "description": "••••••con una conexión mecánica entre el detector y el accionador, p. ej. bielas, palancas [2006.01]"
+  },
+  {
+    "code": "A62C 37/44",
+    "description": "••••estando sólo el detector en la zona de peligro [2006.01]"
+  },
+  {
+    "code": "A62C 37/46",
+    "description": "••••Estructura del accionador [2006.01]"
+  },
+  {
+    "code": "A62C 37/48",
+    "description": "••••••Accionadores termosensibles [2006.01]"
+  },
+  {
+    "code": "A62C 37/50",
+    "description": "••Dispositivos de ensayo o de indicación para determinar el estado de marcha de la instalación [2006.01]"
+  },
+  {
+    "code": "A62C 99/00",
+    "description": "Materia no prevista en otros grupos de esta subclase [2010.01]"
+  }
+]

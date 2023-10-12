@@ -1,0 +1,254 @@
+[
+  {
+    "code": "H03C 1/00",
+    "description": "Modulación de amplitud (H03C 5/00, H03C 7/00  tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H03C 1/02",
+    "description": "••Detalles [2006.01]"
+  },
+  {
+    "code": "H03C 1/04",
+    "description": "••••Medios comprendidos en un estado modulador o combinados con él para reducir la modulación de ángulo [2006.01]"
+  },
+  {
+    "code": "H03C 1/06",
+    "description": "••••Modificaciones del modulador para reducir la distorsión, p. ej., por realimentación, y claramente aplicable a más de un tipo de modulador [2006.01]"
+  },
+  {
+    "code": "H03C 1/08",
+    "description": "••por medio de un elemento de impedancia variable (H03C 1/28-H03C 1/34, H03C 1/46-H03C 1/52, H03C 1/62  tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H03C 1/10",
+    "description": "••••siendo el elemento una inductancia dependiente de la corriente [2006.01]"
+  },
+  {
+    "code": "H03C 1/12",
+    "description": "••••siendo el elemento una capacidad dependiente de la tensión [2006.01]"
+  },
+  {
+    "code": "H03C 1/14",
+    "description": "••••siendo el elemento un diodo [2006.01]"
+  },
+  {
+    "code": "H03C 1/16",
+    "description": "••por medio de un dispositivo de descarga que tiene al menos tres electrodos (H03C 1/28-H03C 1/34, H03C 1/50, H03C 1/52, H03C 1/62  tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H03C 1/18",
+    "description": "••••portadora aplicada a la rejilla de control [2006.01]"
+  },
+  {
+    "code": "H03C 1/20",
+    "description": "••••••señal moduladora aplicada al ánodo [2006.01]"
+  },
+  {
+    "code": "H03C 1/22",
+    "description": "••••••señal moduladora aplicada a la misma rejilla [2006.01]"
+  },
+  {
+    "code": "H03C 1/24",
+    "description": "••••••señal moduladora aplicada a una rejilla diferente [2006.01]"
+  },
+  {
+    "code": "H03C 1/26",
+    "description": "••••••señal moduladora aplicada al cátodo [2006.01]"
+  },
+  {
+    "code": "H03C 1/28",
+    "description": "••por medio de un tubo de tiempo de tránsito [2006.01]"
+  },
+  {
+    "code": "H03C 1/30",
+    "description": "••••por medio de un magnetrón [2006.01]"
+  },
+  {
+    "code": "H03C 1/32",
+    "description": "••por desviación de un haz electrónico en un tubo de descarga [2006.01]"
+  },
+  {
+    "code": "H03C 1/34",
+    "description": "••por medio de un elemento sensible a la luz [2006.01]"
+  },
+  {
+    "code": "H03C 1/36",
+    "description": "••por medio de un dispositivo de semiconductores que tiene al menos tres electrodos (H03C 1/34, H03C 1/50, H03C 1/52, H03C 1/62  tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H03C 1/38",
+    "description": "••••portadora aplicada a la base de un transistor [2006.01]"
+  },
+  {
+    "code": "H03C 1/40",
+    "description": "••••••señal moduladora aplicada al colector [2006.01]"
+  },
+  {
+    "code": "H03C 1/42",
+    "description": "••••••señal moduladora aplicada a la base [2006.01]"
+  },
+  {
+    "code": "H03C 1/44",
+    "description": "••••••señal moduladora aplicada al emisor [2006.01]"
+  },
+  {
+    "code": "H03C 1/46",
+    "description": "••Moduladores con accionamiento mecánico o acústicamente [2006.01]"
+  },
+  {
+    "code": "H03C 1/48",
+    "description": "••por medio de dispositivos de efecto Hall [2006.01]"
+  },
+  {
+    "code": "H03C 1/50",
+    "description": "••por conversión de modulación de ángulo en modulación de amplitud (H03C 1/28-H03C 1/34, H03C 1/46, H03C 1/48  tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H03C 1/52",
+    "description": "••Moduladores en los cuales la portadora o una banda lateral son total o parcialmente suprimidos (H03C 1/28-H03C 1/34, H03C 1/46, H03C 1/48  tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H03C 1/54",
+    "description": "••••Moduladores compensados, p. ej. de los tipos puente, anillo o de doble compensación [2006.01]"
+  },
+  {
+    "code": "H03C 1/56",
+    "description": "••••••comprendiendo solamente elementos bipolares variables [2006.01]"
+  },
+  {
+    "code": "H03C 1/58",
+    "description": "••••••••comprendiendo diodos [2006.01]"
+  },
+  {
+    "code": "H03C 1/60",
+    "description": "••••con una banda lateral total o parcialmente suprimida [2006.01]"
+  },
+  {
+    "code": "H03C 1/62",
+    "description": "••Moduladores en los cuales la amplitud de la componente de la portadora en la salida depende del nivel de la señal moduladora, p. ej. ausencia de portadora cuando no hay señal moduladora (H03C 1/28-H03C 1/34, H03C 1/46, H03C 1/48  tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H03C 3/00",
+    "description": "Modulación de ángulo (H03C 5/00, H03C 7/00  tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H03C 3/02",
+    "description": "••Detalles [2006.01]"
+  },
+  {
+    "code": "H03C 3/04",
+    "description": "••••Medios comprendidos en la etapa moduladora o combinados con ella para reducir la modulación de la amplitud [2006.01]"
+  },
+  {
+    "code": "H03C 3/06",
+    "description": "••••Medios para hacer variar la desviación de frecuencia [2006.01]"
+  },
+  {
+    "code": "H03C 3/08",
+    "description": "••••Modificaciones del modulador para hacer la modulación lineal, p. ej., por realimentación, y claramente aplicables a más de un tipo de modulador [2006.01]"
+  },
+  {
+    "code": "H03C 3/09",
+    "description": "••••Modificaciones del modulador con objeto de regular la frecuencia media [2006.01]"
+  },
+  {
+    "code": "H03C 3/10",
+    "description": "••por medio de una impedancia variable (H03C 3/30-H03C 3/38  tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "H03C 3/12",
+    "description": "••••por medio de un elemento de reactancia variable [2006.01]"
+  },
+  {
+    "code": "H03C 3/14",
+    "description": "••••••simulado por un circuito que comprende un elemento activo con al menos tres electrodos, p. ej. circuito de tubo de reactancia [2006.01]"
+  },
+  {
+    "code": "H03C 3/16",
+    "description": "••••••••en el cual el elemento activo constituye al mismo tiempo el elemento activo de un oscilador [2006.01]"
+  },
+  {
+    "code": "H03C 3/18",
+    "description": "••••••siendo el elemento una inductancia dependiente de la corriente [2006.01]"
+  },
+  {
+    "code": "H03C 3/20",
+    "description": "••••••siendo el elemento una capacidad dependiente de la tensión [2006.01]"
+  },
+  {
+    "code": "H03C 3/22",
+    "description": "••••••siendo el elemento un diodo semiconductor, p. ej., diodo varactor [2006.01]"
+  },
+  {
+    "code": "H03C 3/24",
+    "description": "••••por medio de un elemento de resistencia variable, p. ej. tubo [2006.01]"
+  },
+  {
+    "code": "H03C 3/26",
+    "description": "••••••comprendiendo dos elementos controlados en push-pull por la señal moduladora [2006.01]"
+  },
+  {
+    "code": "H03C 3/28",
+    "description": "••••utilizando una impedancia variable movida mecánica o acústicamente [2006.01]"
+  },
+  {
+    "code": "H03C 3/30",
+    "description": "••por medio de un tubo de tiempo de tránsito [2006.01]"
+  },
+  {
+    "code": "H03C 3/32",
+    "description": "••••siendo el tubo un magnetrón [2006.01]"
+  },
+  {
+    "code": "H03C 3/34",
+    "description": "••por desviación de un haz electrónico en un tubo de descarga [2006.01]"
+  },
+  {
+    "code": "H03C 3/36",
+    "description": "••por medio de un elemento sensible a la luz [2006.01]"
+  },
+  {
+    "code": "H03C 3/38",
+    "description": "••por conversión de modulación de amplitud a modulación de ángulo [2006.01]"
+  },
+  {
+    "code": "H03C 3/40",
+    "description": "••••utilizando dos vías de señales donde las salidas tienen una predeterminada diferencia de fase y al menos una salida está modulada en amplitud [2006.01]"
+  },
+  {
+    "code": "H03C 3/42",
+    "description": "••por medio de dispositivos electromecánicos (H03C 3/28  tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H03C 5/00",
+    "description": "Modulación de amplitud y modulación de ángulo producidas simultáneamente o a voluntad por la misma señal moduladora (H03C 7/00  tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "H03C 5/02",
+    "description": "••por medio de un tubo de tiempo de tránsito [2006.01]"
+  },
+  {
+    "code": "H03C 5/04",
+    "description": "••••siendo el tubo un magnetrón [2006.01]"
+  },
+  {
+    "code": "H03C 5/06",
+    "description": "••por desviación de un haz electrónico en un tubo de descarga [2006.01]"
+  },
+  {
+    "code": "H03C 7/00",
+    "description": "Modulación de ondas electromagnéticas (dispositivos o disposiciones para la modulación de la luz G02F 1/00) [2006.01]"
+  },
+  {
+    "code": "H03C 7/02",
+    "description": "••en una línea de transmisión, guía de ondas, resonadores de cavidad o campos de radiación de antenas [2006.01]"
+  },
+  {
+    "code": "H03C 7/04",
+    "description": "••••Polarización de ondas transmitidas que están moduladas [2006.01]"
+  },
+  {
+    "code": "H03C 99/00",
+    "description": "Materia no prevista en otros grupos de esta subclase [2006.01]"
+  }
+]

@@ -1,0 +1,378 @@
+[
+  {
+    "code": "G02F 1/00",
+    "description": "Dispositivos o sistemas para el control de la intensidad, color, fase, polarización o de la dirección de la luz que llega de una fuente de luz independiente, p. ej. conmutación, apertura de puerta o modulación; Optica no lineal [2006.01]"
+  },
+  {
+    "code": "G02F 1/01",
+    "description": "••para el control de la intensidad, de la fase, de la polarización o del color (G02F 1/29, G02F 1/35 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G02F 1/015",
+    "description": "••••basados en elementos semiconductores que tienen al menos una barrera de potencial, p. ej. unión PN, PIN (G02F 1/03 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G02F 1/017",
+    "description": "••••••Estructuras con una variación del potencial periódico o cuasiperiódico, p. ej. super-redes , pozos cuánticos [2006.01]"
+  },
+  {
+    "code": "G02F 1/025",
+    "description": "••••••en una estructura de guía de ondas óptica (G02F 1/017 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G02F 1/03",
+    "description": "••••basados en cerámicas o cristales electro-ópticos, p. ej. que producen un efecto Pockels o un efecto Kerr (G02F 1/061 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G02F 1/035",
+    "description": "••••••en una estructura de guía de ondas óptica [2006.01]"
+  },
+  {
+    "code": "G02F 1/05",
+    "description": "••••••con propiedades ferro-eléctricas (G02F 1/035, G02F 1/055 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G02F 1/055",
+    "description": "••••••siendo el material activo una cerámica (G02F 1/035 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G02F 1/061",
+    "description": "••••basado en materiales orgánicos electro-ópticos (G02F 1/07 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G02F 1/065",
+    "description": "••••••en una estructura de guía de ondas óptica [2006.01]"
+  },
+  {
+    "code": "G02F 1/07",
+    "description": "••••basados en líquidos electro-ópticos que producen un efecto Kerr [2006.01]"
+  },
+  {
+    "code": "G02F 1/09",
+    "description": "••••basados en elementos magneto-ópticos, p. ej. que producen un efecto Faraday [2006.01]"
+  },
+  {
+    "code": "G02F 1/095",
+    "description": "••••••en una estructura de guía de ondas óptica [2006.01]"
+  },
+  {
+    "code": "G02F 1/11",
+    "description": "••••basados en elementos acustico-ópticos, p. ej. utilizando la difracción variable por ondas sonoras o vibraciones mecánicas análogas (deflexión acustico-óptica G02F 1/33) [2006.01]"
+  },
+  {
+    "code": "G02F 1/125",
+    "description": "••••••en una estructura de guía de ondas óptica [2006.01]"
+  },
+  {
+    "code": "G02F 1/13",
+    "description": "••••basados en cristales líquidos, p. ej. celdas de presentación individuales de cristales líquidos [2006.01]"
+  },
+  {
+    "code": "G02F 1/133",
+    "description": "••••••Disposiciones relativas a la estructura; Excitación de celdas de cristales líquidos; Disposiciones relativas a los circuitos (disposiciones o circuitos para el control de elementos de cristal líquido en una matriz, no estructuralmente asociados a los elementos G09G 3/36) [2006.01]"
+  },
+  {
+    "code": "G02F 1/1333",
+    "description": "••••••••Disposiciones relativas a la estructura (G02F 1/135, G02F 1/136 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G02F 1/1334",
+    "description": "••••••••••basado en cristales líquidos dispersos en un polímero, p. ej. cristales líquidos micro-encapsulados [2006.01]"
+  },
+  {
+    "code": "G02F 1/1335",
+    "description": "••••••••••Asociación estructural de celdas con dispositivos ópticos, p. ej.  polarizadores o reflectores [2006.01]"
+  },
+  {
+    "code": "G02F 1/13357",
+    "description": "••••••••••••Dispositivos de iluminación [2006.01]"
+  },
+  {
+    "code": "G02F 1/13363",
+    "description": "••••••••••••Elementos de birrefringencia , p. ej. para la compensación óptica [2006.01]"
+  },
+  {
+    "code": "G02F 1/1337",
+    "description": "••••••••••Orientación de las moléculas de los cristales líquidos inducida por las características de superficie, p. ej. por capas de alineamiento [2006.01]"
+  },
+  {
+    "code": "G02F 1/1339",
+    "description": "••••••••••Juntas; Elementos de separación; Sellado de las celdas [2006.01]"
+  },
+  {
+    "code": "G02F 1/1341",
+    "description": "••••••••••Llenado o cerrado de las celdas [2006.01]"
+  },
+  {
+    "code": "G02F 1/1343",
+    "description": "••••••••••Electrodos [2006.01]"
+  },
+  {
+    "code": "G02F 1/1345",
+    "description": "••••••••••Conductores que conectan los electrodos a los bornes de la celda [2006.01]"
+  },
+  {
+    "code": "G02F 1/1347",
+    "description": "••••••••••Disposición de capas o de celdas de cristales líquidos en las cuales un haz luminoso es modificado por la suma de los efectos de varias capas o celdas [2006.01]"
+  },
+  {
+    "code": "G02F 1/135",
+    "description": "••••••••Celdas de cristales líquidos asociadas estructuralmente con una capa fotoconductora o ferro-eléctrica cuyas características pueden ser modificadas óptica o eléctricamente [2006.01]"
+  },
+  {
+    "code": "G02F 1/136",
+    "description": "••••••••Celdas de cristales líquidos asociados estructuralmente con una capa o un sustrato semiconductores, p. ej. celdas que forman parte de un circuito integrado (G02F 1/135 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G02F 1/1362",
+    "description": "••••••••••Celdas direccionadas por una matriz activa [2006.01]"
+  },
+  {
+    "code": "G02F 1/1365",
+    "description": "••••••••••••en las que el elemento de conmutación es un dispositivo de dos electrodos [2006.01]"
+  },
+  {
+    "code": "G02F 1/1368",
+    "description": "••••••••••••en los que el elemento de conmutación es un dispositivo de tres electrodos [2006.01]"
+  },
+  {
+    "code": "G02F 1/137",
+    "description": "••••••caracterizados por el efecto electro-óptico o magneto-óptico, p. ej. transición de fase inducida por un campo, efecto de orientación, interacción huésped-receptor o difusión dinámica [2006.01]"
+  },
+  {
+    "code": "G02F 1/139",
+    "description": "••••••••basados en efectos de orientación en los que el cristal líquido permanece transparente [2006.01]"
+  },
+  {
+    "code": "G02F 1/141",
+    "description": "••••••••••que utilizan cristales líquidos ferroeléctricos [2006.01]"
+  },
+  {
+    "code": "G02F 1/15",
+    "description": "••••basados en un efecto electrocrómico [2019.01]"
+  },
+  {
+    "code": "G02F 1/1503",
+    "description": "••••••causado por reacciones de oxidación-reducción en soluciones líquidas orgánicas, p. ej. soluciones de viológeno [2019.01]"
+  },
+  {
+    "code": "G02F 1/1506",
+    "description": "••••••basado en la electrodeposición, p.ej. la deposición electrolítica de un material inorgánico sobre un electrodo o próximo a un electrodo [2019.01]"
+  },
+  {
+    "code": "G02F 1/1514",
+    "description": "••••••caracterizado por el material electrocrómico, p.ej. por el material electrodepositado [2019.01]"
+  },
+  {
+    "code": "G02F 1/1516",
+    "description": "••••••••comprendiendo material orgánico [2019.01]"
+  },
+  {
+    "code": "G02F 1/1523",
+    "description": "••••••••comprendiendo material inorgánico [2019.01]"
+  },
+  {
+    "code": "G02F 1/1524",
+    "description": "••••••••••Compuestos de metales de transición [2019.01]"
+  },
+  {
+    "code": "G02F 1/153",
+    "description": "••••••Detalles de construcción [2006.01]"
+  },
+  {
+    "code": "G02F 1/155",
+    "description": "••••••••Electrodos [2006.01]"
+  },
+  {
+    "code": "G02F 1/157",
+    "description": "••••••••Asociación estructural de celdas con dispositivos ópticos, p. ej. de reflectores o de dispositivos de iluminación [2006.01]"
+  },
+  {
+    "code": "G02F 1/161",
+    "description": "••••••••Juntas; Elementos de separación; Sellado de las celdas; Llenado o cierre de las celdas [2006.01]"
+  },
+  {
+    "code": "G02F 1/163",
+    "description": "••••••Funcionamiento de las celdas electrocrómicas, p. ej. celdas de electrodeposición; Disposiciones relativas a los circuitos a tal efecto [2006.01]"
+  },
+  {
+    "code": "G02F 1/165",
+    "description": "••••basados en el movimiento de traslación de las partículas en un fluido bajo la influencia de un campo aplicado [2019.01]"
+  },
+  {
+    "code": "G02F 1/166",
+    "description": "••••••caracterizados por el efecto electro-óptico o el efecto electro-magnético [2019.01]"
+  },
+  {
+    "code": "G02F 1/167",
+    "description": "••••••••por electroforesis [2019.01]"
+  },
+  {
+    "code": "G02F 1/1671",
+    "description": "••••••••implicando tóners secos [2019.01]"
+  },
+  {
+    "code": "G02F 1/1673",
+    "description": "••••••••por magnetoforesis [2019.01]"
+  },
+  {
+    "code": "G02F 1/1675",
+    "description": "••••••Detalles de construcción [2019.01]"
+  },
+  {
+    "code": "G02F 1/16753",
+    "description": "••••••••Estructuras para soportar o montar celdas, p. ej. bastidores o marcos [2019.01]"
+  },
+  {
+    "code": "G02F 1/16755",
+    "description": "••••••••Sustratos [2019.01]"
+  },
+  {
+    "code": "G02F 1/16756",
+    "description": "••••••••Capas aislantes [2019.01]"
+  },
+  {
+    "code": "G02F 1/16757",
+    "description": "••••••••Microcápsulas [2019.01]"
+  },
+  {
+    "code": "G02F 1/1676",
+    "description": "••••••••Electrodos [2019.01]"
+  },
+  {
+    "code": "G02F 1/16761",
+    "description": "••••••••••Disposición lado a lado de los electrodos de trabajo y los contraelectrodos [2019.01]"
+  },
+  {
+    "code": "G02F 1/16762",
+    "description": "••••••••••teniendo tres o más electrodos por pixel [2019.01]"
+  },
+  {
+    "code": "G02F 1/16766",
+    "description": "••••••••••para matrices activas [2019.01]"
+  },
+  {
+    "code": "G02F 1/1677",
+    "description": "••••••••Asociación estructural de celdas con dispositivos ópticos, p. ej. de reflectores o de dispositivos de iluminación [2019.01]"
+  },
+  {
+    "code": "G02F 1/1679",
+    "description": "••••••••Juntas; Elementos de separación; Sellado de las celdas; LLenado o cierre de las celdas [2019.01]"
+  },
+  {
+    "code": "G02F 1/1681",
+    "description": "••••••••••teniendo dos o más microceldas divididas mediante paredes, p. ej. del tipo microcuenco [2019.01]"
+  },
+  {
+    "code": "G02F 1/1685",
+    "description": "••••••Funcionamiento de las celdas; Disposiciones del circuito que afecta a la totalidad de la celda [2019.01]"
+  },
+  {
+    "code": "G02F 1/169",
+    "description": "••••basados en partículas orientables no esféricas que tienen una característica óptica común, p. ej. partículas suspendidas de láminas metálicas reflectantes [2019.01]"
+  },
+  {
+    "code": "G02F 1/17",
+    "description": "••••basados en elementos de absorción variable  no previstos en los grupos G02F 1/015-G02F 1/169 [2019.01]"
+  },
+  {
+    "code": "G02F 1/19",
+    "description": "••••basados en elementos de reflexión o de refracción variables no previstos  en los grupos G02F 1/015-G02F 1/169 [2019.01]"
+  },
+  {
+    "code": "G02F 1/21",
+    "description": "••••por interferencia [2006.01]"
+  },
+  {
+    "code": "G02F 1/225",
+    "description": "••••••en una estructura de guía de ondas óptica [2006.01]"
+  },
+  {
+    "code": "G02F 1/23",
+    "description": "••••para el control del color (G02F 1/03-G02F 1/21 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G02F 1/25",
+    "description": "••••••en lo que concierne al tono o a la longitud de onda predominante [2006.01]"
+  },
+  {
+    "code": "G02F 1/29",
+    "description": "••para el control de la posición o de la dirección de rayos luminosos, es decir, deflexión [2006.01]"
+  },
+  {
+    "code": "G02F 1/295",
+    "description": "••••en una estructura de guía de ondas óptica (G02F 1/313, G02F 1/335 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G02F 1/31",
+    "description": "••••Dispositivos de deflexión digital (G02F 1/33 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G02F 1/313",
+    "description": "••••••en una estructura de guía de ondas óptica [2006.01]"
+  },
+  {
+    "code": "G02F 1/315",
+    "description": "••••••basados en una reflexión total interna controlada [2006.01]"
+  },
+  {
+    "code": "G02F 1/33",
+    "description": "••••Dispositivos de deflexión acustico-óptica [2006.01]"
+  },
+  {
+    "code": "G02F 1/335",
+    "description": "••••••teniendo una estructura de guía de ondas óptica [2006.01]"
+  },
+  {
+    "code": "G02F 1/35",
+    "description": "••Optica no lineal [2006.01]"
+  },
+  {
+    "code": "G02F 1/355",
+    "description": "••••caracterizado por los materiales utilizados [2006.01]"
+  },
+  {
+    "code": "G02F 1/361",
+    "description": "••••••Materiales orgánicos [2006.01]"
+  },
+  {
+    "code": "G02F 1/365",
+    "description": "••••en una estructura de guía de ondas óptica (G02F 1/377 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G02F 1/37",
+    "description": "••••para la generación del segundo armónico [2006.01]"
+  },
+  {
+    "code": "G02F 1/377",
+    "description": "••••••en una estructura de guía de ondas óptica [2006.01]"
+  },
+  {
+    "code": "G02F 1/383",
+    "description": "••••••••del tipo de fibra óptica [2006.01]"
+  },
+  {
+    "code": "G02F 1/39",
+    "description": "••••para la generación o la amplificación paramétrica de la luz, de las ondas infrarrojas o ultravioletas [2006.01]"
+  },
+  {
+    "code": "G02F 2/00",
+    "description": "Demodulación de la luz; Transferencia de la modulación de la luz modulada; Cambio de frecuencia de la luz (G02F 1/35 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G02F 2/02",
+    "description": "••Cambio de frecuencia de la luz, p. ej. por contadores cuánticos [2006.01]"
+  },
+  {
+    "code": "G02F 3/00",
+    "description": "Elementos ópticos lógicos; Dispositivos biestables ópticos [2006.01]"
+  },
+  {
+    "code": "G02F 3/02",
+    "description": "••Dispositivos biestables ópticos [2006.01]"
+  },
+  {
+    "code": "G02F 7/00",
+    "description": "Convertidores ópticos analógico/digitales [2006.01]"
+  }
+]

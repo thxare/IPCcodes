@@ -1,0 +1,418 @@
+[
+  {
+    "code": "G01V 1/00",
+    "description": "Sismología; Prospección o detección sísmica o acústica [2006.01]"
+  },
+  {
+    "code": "G01V 1/02",
+    "description": "••Producción de energía sísmica [2006.01]"
+  },
+  {
+    "code": "G01V 1/04",
+    "description": "••••Detalles [2006.01]"
+  },
+  {
+    "code": "G01V 1/047",
+    "description": "••••••Disposiciones para acoplar el generador al suelo [2006.01]"
+  },
+  {
+    "code": "G01V 1/053",
+    "description": "••••••••para producir ondas transversales [2006.01]"
+  },
+  {
+    "code": "G01V 1/06",
+    "description": "••••••Dispositivos de encendido (G01V 1/393 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01V 1/08",
+    "description": "••••••••con dispositivos de retardo [2006.01]"
+  },
+  {
+    "code": "G01V 1/09",
+    "description": "••••••Disposiciones para el transporte, p. ej. sobre vehículos (G01V 1/38 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01V 1/104",
+    "description": "••••utilizando cargas explosivas (G01V 1/157 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01V 1/108",
+    "description": "••••••deformando o desplazando superficies de recintos [2006.01]"
+  },
+  {
+    "code": "G01V 1/112",
+    "description": "••••••••para empleo en la superficie de la tierra [2006.01]"
+  },
+  {
+    "code": "G01V 1/116",
+    "description": "••••••donde los gases de combustión presurizados se liberan del generador de manera controlada, p. ej. para producir explosiones [2006.01]"
+  },
+  {
+    "code": "G01V 1/13",
+    "description": "••••••Instalaciones o disposiciones de las cargas para producir un oscilograma deseado en el tiempo o en el espacio [2006.01]"
+  },
+  {
+    "code": "G01V 1/133",
+    "description": "••••utilizando fluidos como medios de accionamiento hidráulicos, p. ej. utilizando fluidos a alta presión (G01V 1/104 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01V 1/135",
+    "description": "••••••deformando o desplazando las superficies del recinto [2006.01]"
+  },
+  {
+    "code": "G01V 1/137",
+    "description": "••••••cuyos fluidos se liberan del generador de manera controlada, p. ej. para producir explosiones [2006.01]"
+  },
+  {
+    "code": "G01V 1/143",
+    "description": "••••utilizando medios de accionamiento mecánicos (G01V 1/104, G01V 1/133 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G01V 1/145",
+    "description": "••••••deformando o desplazando las superficies [2006.01]"
+  },
+  {
+    "code": "G01V 1/147",
+    "description": "••••••utilizando el impacto de masas que caen [2006.01]"
+  },
+  {
+    "code": "G01V 1/153",
+    "description": "••••••utilizando masas rotativas no equilibradas [2006.01]"
+  },
+  {
+    "code": "G01V 1/155",
+    "description": "••••••utilizando masas con movimiento alternativo [2006.01]"
+  },
+  {
+    "code": "G01V 1/157",
+    "description": "••••utilizando descargas eléctricas; utilizando hilos explosivos [2006.01]"
+  },
+  {
+    "code": "G01V 1/16",
+    "description": "••Elementos receptores de señales sísmicas; Disposiciones o adaptaciones de los elementos receptores [2006.01]"
+  },
+  {
+    "code": "G01V 1/18",
+    "description": "••••Elementos receptores, p. ej. sismógrafos, geófonos [2006.01]"
+  },
+  {
+    "code": "G01V 1/20",
+    "description": "••••Disposiciones de elementos receptores, p. ej. oscilogramas geofónicos [2006.01]"
+  },
+  {
+    "code": "G01V 1/22",
+    "description": "••Transmisión de las señales sísmicas a los aparatos de registro o de tratamiento [2006.01]"
+  },
+  {
+    "code": "G01V 1/24",
+    "description": "••Registro de datos sísmicos [2006.01]"
+  },
+  {
+    "code": "G01V 1/26",
+    "description": "••••Dispositivos de emisión de señales de referencia, p. ej. que indican el momento de un barreno [2006.01]"
+  },
+  {
+    "code": "G01V 1/28",
+    "description": "••Tratamiento de los datos sísmicos, p. ej. para análisis, para interpretación, para corrección (G01V 1/48 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01V 1/30",
+    "description": "••••Análisis (G01V 1/50 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01V 1/32",
+    "description": "••••Transformación de una forma de registro en otro [2006.01]"
+  },
+  {
+    "code": "G01V 1/34",
+    "description": "••••Representación de registros sísmicos [2006.01]"
+  },
+  {
+    "code": "G01V 1/36",
+    "description": "••••Ejecución de correcciones estáticas o dinámicas sobre los registros, p. ej. corrección de la exposición; Establecimiento de una correlación entre señales sísmicas; Eliminación de los efectos producidos por un exceso de energía [2006.01]"
+  },
+  {
+    "code": "G01V 1/37",
+    "description": "••••••especialmente adaptados a los sistemas sísmicos que utilizan una agitación continua del suelo [2006.01]"
+  },
+  {
+    "code": "G01V 1/38",
+    "description": "••especialmente adaptado a las zonas recubiertas de agua (G01V 1/28 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01V 1/387",
+    "description": "••••Reducción de la burbuja de impulsión secundaria, es decir, reducción de las señales detectadas que resultan de la producción y de la liberación de las burbujas de gas después de la explosión inicial [2006.01]"
+  },
+  {
+    "code": "G01V 1/393",
+    "description": "••••Medios para la carga de explosivos submarinos, p. ej. combinados con los dispositivos de encendido [2006.01]"
+  },
+  {
+    "code": "G01V 1/40",
+    "description": "••especialmente adaptado para el sondeo [2006.01]"
+  },
+  {
+    "code": "G01V 1/42",
+    "description": "••••utilizando generadores en un pozo y receptores en otro lugar o viceversa (G01V 1/52 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01V 1/44",
+    "description": "••••utilizando generadores y receptores situados en el mismo pozo (G01V 1/52 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01V 1/46",
+    "description": "••••••Adquisición de datos [2006.01]"
+  },
+  {
+    "code": "G01V 1/48",
+    "description": "••••••Tratamiento de datos [2006.01]"
+  },
+  {
+    "code": "G01V 1/50",
+    "description": "••••••••Análisis de datos [2006.01]"
+  },
+  {
+    "code": "G01V 1/52",
+    "description": "••••Detalles de estructura [2006.01]"
+  },
+  {
+    "code": "G01V 3/00",
+    "description": "Prospección o detección eléctrica o magnética; Medida de las características del campo magnético terrestre, p. ej. de la declinación o de la desviación [2006.01]"
+  },
+  {
+    "code": "G01V 3/02",
+    "description": "••que funcionan por propagación de corriente eléctrica [2006.01]"
+  },
+  {
+    "code": "G01V 3/04",
+    "description": "••••utilizando corriente continua [2006.01]"
+  },
+  {
+    "code": "G01V 3/06",
+    "description": "••••utilizando corriente alterna [2006.01]"
+  },
+  {
+    "code": "G01V 3/08",
+    "description": "••que funcionan por medio de campos magnéticos o eléctricos producidos o modificados por los objetos o las estructuras geológicas, o por los dispositivos de detección (por medio de ondas electromagnéticas G01V 3/12) [2006.01]"
+  },
+  {
+    "code": "G01V 3/10",
+    "description": "••••utilizando cercos inductores [2006.01]"
+  },
+  {
+    "code": "G01V 3/11",
+    "description": "••••••para la detección de objetos conductores, p. ej. de armas de fuego, de cables o de tubos [2006.01]"
+  },
+  {
+    "code": "G01V 3/12",
+    "description": "••que funcionan por ondas electromagnéticas [2006.01]"
+  },
+  {
+    "code": "G01V 3/14",
+    "description": "••que funcionan por resonancia magnética electrónica o nuclear [2006.01]"
+  },
+  {
+    "code": "G01V 3/15",
+    "description": "••especialmente adaptada para la utilización durante el transporte, p. ej. por una persona, un vehículo o un barco [2006.01]"
+  },
+  {
+    "code": "G01V 3/16",
+    "description": "••••especialmente adaptada a la prospección aérea (G01V 3/165-G01V 3/175 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G01V 3/165",
+    "description": "••••que funcionan por medio de campos magnéticos o eléctricos producidos o modificados por el objeto o por el dispositivo de detección (por medio de ondas electromagnéticas G01V 3/17) [2006.01]"
+  },
+  {
+    "code": "G01V 3/17",
+    "description": "••••que funcionan por medios de ondas electromagnéticas [2006.01]"
+  },
+  {
+    "code": "G01V 3/175",
+    "description": "••••que funcionan por resonancia magnética electrónica o nuclear [2006.01]"
+  },
+  {
+    "code": "G01V 3/18",
+    "description": "••especialmente adaptada al sondeo [2006.01]"
+  },
+  {
+    "code": "G01V 3/20",
+    "description": "••••que funcionan por propagación de corriente eléctrica [2006.01]"
+  },
+  {
+    "code": "G01V 3/22",
+    "description": "••••••utilizando corriente continua [2006.01]"
+  },
+  {
+    "code": "G01V 3/24",
+    "description": "••••••utilizando corriente alterna [2006.01]"
+  },
+  {
+    "code": "G01V 3/26",
+    "description": "••••que funcionan por medio de campos magnéticos o eléctricos producidos o modificados por la formación terrestre circundante o por los dispositivos de detección (por medio de ondas electromagnéticas G01V 3/30) [2006.01]"
+  },
+  {
+    "code": "G01V 3/28",
+    "description": "••••••utilizando bobinas de inducción [2006.01]"
+  },
+  {
+    "code": "G01V 3/30",
+    "description": "••••que funcionan por medio de ondas electromagnéticas [2006.01]"
+  },
+  {
+    "code": "G01V 3/32",
+    "description": "••••que funcionan por resonancia magnética electrónica o nuclear [2006.01]"
+  },
+  {
+    "code": "G01V 3/34",
+    "description": "••••Transmisión de datos a los aparatos de registro o de tratamiento; Registro de datos [2006.01]"
+  },
+  {
+    "code": "G01V 3/36",
+    "description": "••Registro de datos (G01V 3/34 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G01V 3/38",
+    "description": "••Tratamiento de datos, p. ej. para análisis, para interpretación o para corrección [2006.01]"
+  },
+  {
+    "code": "G01V 3/40",
+    "description": "••especialmente adaptada a la medida de las características del campo magnético terrestre [2006.01]"
+  },
+  {
+    "code": "G01V 5/00",
+    "description": "Prospección o detección por medio de radiaciones nucleares, p. ej. de la radioactividad natural o provocada [2006.01]"
+  },
+  {
+    "code": "G01V 5/02",
+    "description": "••especialmente adaptada al reconocimiento de la superficie, p. ej. desde un avión [2006.01]"
+  },
+  {
+    "code": "G01V 5/04",
+    "description": "••especialmente adaptada para el sondeo [2006.01]"
+  },
+  {
+    "code": "G01V 5/06",
+    "description": "••••para detectar minerales con radiactividad natural [2006.01]"
+  },
+  {
+    "code": "G01V 5/08",
+    "description": "••••utilizando fuentes de radiación nuclear primaria o de rayos X [2006.01]"
+  },
+  {
+    "code": "G01V 5/10",
+    "description": "••••••utilizando fuentes de neutrones [2006.01]"
+  },
+  {
+    "code": "G01V 5/12",
+    "description": "••••••utilizando fuentes de rayos gamma o de rayos X [2006.01]"
+  },
+  {
+    "code": "G01V 5/14",
+    "description": "••••••utilizando una combinación de varias fuentes, p. ej. una fuente de neutrones y una fuente de rayos gamma [2006.01]"
+  },
+  {
+    "code": "G01V 7/00",
+    "description": "Medida de campos o de ondas de gravitación; Prospección o detección gravimétrica [2006.01]"
+  },
+  {
+    "code": "G01V 7/02",
+    "description": "••Detalles [2006.01]"
+  },
+  {
+    "code": "G01V 7/04",
+    "description": "••••Medios eléctricos, fotoeléctricos o magnéticos de indicación o de registro [2006.01]"
+  },
+  {
+    "code": "G01V 7/06",
+    "description": "••••Análisis o interpretación de los registros gravimétricos [2006.01]"
+  },
+  {
+    "code": "G01V 7/08",
+    "description": "••utilizando balanzas [2006.01]"
+  },
+  {
+    "code": "G01V 7/10",
+    "description": "••••utilizando balanzas de torsión, p. ej. balanza de Eötvös [2006.01]"
+  },
+  {
+    "code": "G01V 7/12",
+    "description": "••utilizando péndulos [2006.01]"
+  },
+  {
+    "code": "G01V 7/14",
+    "description": "••utilizando el tiempo de caída libre [2006.01]"
+  },
+  {
+    "code": "G01V 7/16",
+    "description": "••especialmente adaptado para ser utilizado sobre soportes móviles, p. ej. buques, aeronaves [2006.01]"
+  },
+  {
+    "code": "G01V 8/00",
+    "description": "Prospección o detección por medios ópticos [2006.01]"
+  },
+  {
+    "code": "G01V 8/02",
+    "description": "••Prospección [2006.01]"
+  },
+  {
+    "code": "G01V 8/10",
+    "description": "••Detección, p. ej. utilizando barreras de luz (por reflexión a partir de un objeto G01S 17/00) [2006.01]"
+  },
+  {
+    "code": "G01V 8/12",
+    "description": "••••utilizando un emisor y un receptor [2006.01]"
+  },
+  {
+    "code": "G01V 8/14",
+    "description": "••••••utilizando reflectores [2006.01]"
+  },
+  {
+    "code": "G01V 8/16",
+    "description": "••••••utilizando fibras ópticas [2006.01]"
+  },
+  {
+    "code": "G01V 8/18",
+    "description": "••••••utilizando sistemas de barrido mecánico [2006.01]"
+  },
+  {
+    "code": "G01V 8/20",
+    "description": "••••utilizando múltiples emisores o receptores [2006.01]"
+  },
+  {
+    "code": "G01V 8/22",
+    "description": "••••••utilizando reflectores [2006.01]"
+  },
+  {
+    "code": "G01V 8/24",
+    "description": "••••••utilizando fibras ópticas [2006.01]"
+  },
+  {
+    "code": "G01V 8/26",
+    "description": "••••••utilizando sistemas de barrido mecánico [2006.01]"
+  },
+  {
+    "code": "G01V 9/00",
+    "description": "Prospección o detección por métodos no previstos en los grupos G01V 1/00-G01V 8/00 [2006.01]"
+  },
+  {
+    "code": "G01V 9/02",
+    "description": "••Determinación de la existencia o del curso de agua subterránea [2006.01]"
+  },
+  {
+    "code": "G01V 11/00",
+    "description": "Prospección o detección por métodos que combinan técnicas cubiertas por dos o más de los grupos principales especificadas en los grupos G01V 1/00-G01V 9/00 [2006.01]"
+  },
+  {
+    "code": "G01V 13/00",
+    "description": "Fabricación, calibrado, limpieza o reparación de los instrumentos o dispositivos cubiertos por los grupos G01V 1/00-G01V 11/00 [2006.01]"
+  },
+  {
+    "code": "G01V 15/00",
+    "description": "Marcas o etiquetas de identificación fijadas o asociadas a un objeto para permitir la detección del objeto (soporte de registro para uso con máquinas teniendo un detector de etiquetas G06K 19/00) [2006.01]"
+  },
+  {
+    "code": "G01V 99/00",
+    "description": "Materia no prevista en otros grupos de esta subclase [2009.01]"
+  }
+]

@@ -1,0 +1,378 @@
+[
+  {
+    "code": "G04C 1/00",
+    "description": "Disposiciones eléctricas para dar cuerda a relojes mecánicos (disposiciones mecánicas para dar cuerda G04B 3/00) [2006.01]"
+  },
+  {
+    "code": "G04C 1/02",
+    "description": "••por medio de electroimanes [2006.01]"
+  },
+  {
+    "code": "G04C 1/04",
+    "description": "••por medio de motores eléctricos de movimiento rotativo o alternativo [2006.01]"
+  },
+  {
+    "code": "G04C 1/06",
+    "description": "••••que enrollan los resortes [2006.01]"
+  },
+  {
+    "code": "G04C 1/08",
+    "description": "••••que levantan las pesas [2006.01]"
+  },
+  {
+    "code": "G04C 1/10",
+    "description": "••Protección contra la sobretensión (en los relojes de pared o relojes de bolsillo mecánicos G04B 1/20, G04B 3/06, G04B 3/10) [2006.01]"
+  },
+  {
+    "code": "G04C 1/12",
+    "description": "••••del resorte [2006.01]"
+  },
+  {
+    "code": "G04C 1/14",
+    "description": "••••de las pesas [2006.01]"
+  },
+  {
+    "code": "G04C 3/00",
+    "description": "Relojes de pared o relojes de bolsillo electromecánicos independientes de otros relojes en los que el movimiento se mantiene por medios eléctricos (relojes movidos por motores síncronos G04C 15/00) [2006.01]"
+  },
+  {
+    "code": "G04C 3/02",
+    "description": "••en los que el movimiento se estabiliza por un péndulo [2006.01]"
+  },
+  {
+    "code": "G04C 3/027",
+    "description": "••••utilizando una conexión electromagnética entre la fuente de energía eléctrica y el péndulo (G04C 3/033 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G04C 3/033",
+    "description": "••••utilizando péndulos de torsión; utilizando péndulos cónicos (realización de péndulos G04B 17/00) [2006.01]"
+  },
+  {
+    "code": "G04C 3/04",
+    "description": "••en los que el movimiento se estabiliza por un balancín [2006.01]"
+  },
+  {
+    "code": "G04C 3/06",
+    "description": "••••utilizando una conexión electromagnética entre la fuente de energía eléctrica y el balancín [2006.01]"
+  },
+  {
+    "code": "G04C 3/08",
+    "description": "••en los que el movimiento se estabiliza por un oscilador mecánico distinto de un péndulo o un balancín, p. ej. por un diapasón [2006.01]"
+  },
+  {
+    "code": "G04C 3/10",
+    "description": "••••accionado por medios electromagnéticos [2006.01]"
+  },
+  {
+    "code": "G04C 3/12",
+    "description": "••••accionado por medios piezoeléctricos; accionado por medios magnetoestrictivos [2006.01]"
+  },
+  {
+    "code": "G04C 3/14",
+    "description": "••que comprenden un motor paso a paso (G04C 3/02-G04C 3/12 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G04C 3/16",
+    "description": "••que comprenden un motor electrodinámico de rotación continua (G04C 3/02-G04C 3/12 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G04C 3/18",
+    "description": "••que comprenden medios de accionamiento electrotérmicos o electroneumáticos [2006.01]"
+  },
+  {
+    "code": "G04C 5/00",
+    "description": "Medios eléctricos o magnéticos para convertir en movimiento oscilatorio un movimiento rotativo en un reloj de pared o de bolsillo, es decir, escapes eléctricos o magnéticos (reguladores G04C 3/00) [2006.01]"
+  },
+  {
+    "code": "G04C 9/00",
+    "description": "Dispositivos eléctricos de puesta en hora de los elementos indicadores (de relojes de pared secundarios G04C 13/03; controlado por radio relojes G04R) [2006.01]"
+  },
+  {
+    "code": "G04C 9/04",
+    "description": "••inmovilizando los medios de accionamiento [2006.01]"
+  },
+  {
+    "code": "G04C 9/06",
+    "description": "••soltando los medios de accionamiento (en combinación con los medios de inmovilización G04C 9/04) [2006.01]"
+  },
+  {
+    "code": "G04C 9/08",
+    "description": "••por un accionamiento eléctrico [2006.01]"
+  },
+  {
+    "code": "G04C 10/00",
+    "description": "Disposiciones de fuentes de energía eléctrica en los relojes de pared y de bolsillo [2006.01]"
+  },
+  {
+    "code": "G04C 10/02",
+    "description": "••siendo la fuente de energía una fuente radiactiva [2006.01]"
+  },
+  {
+    "code": "G04C 10/04",
+    "description": "••con medios para indicar el estado de la fuente de energía [2006.01]"
+  },
+  {
+    "code": "G04C 11/00",
+    "description": "Sincronización de relojes de sistemas motores independientes (controlado por radio relojes G04R) [2006.01]"
+  },
+  {
+    "code": "G04C 11/04",
+    "description": "••sobre una línea (transmisión de señales horarias por redes telefónicas H04M 11/06) [2006.01]"
+  },
+  {
+    "code": "G04C 11/06",
+    "description": "••con una acción mecánica directa sobre los medios de indicación de la hora [2006.01]"
+  },
+  {
+    "code": "G04C 11/08",
+    "description": "••utilizando un electroimán o un motor eléctrico [2006.01]"
+  },
+  {
+    "code": "G04C 13/00",
+    "description": "Mecanismos de control de relojes por relojes maestros [2006.01]"
+  },
+  {
+    "code": "G04C 13/02",
+    "description": "••Circuitos; Instalaciones de relojes eléctricos [2006.01]"
+  },
+  {
+    "code": "G04C 13/03",
+    "description": "••••Sistemas de transmisión de impulsos con medios complementarios para la puesta en hora de relojes de pared secundarios [2006.01]"
+  },
+  {
+    "code": "G04C 13/04",
+    "description": "••••Relojes maestros [2006.01]"
+  },
+  {
+    "code": "G04C 13/06",
+    "description": "••••••Dispositivos de contacto (para dar cuerda simultáneamente a varios relojes G04C 1/00) [2006.01]"
+  },
+  {
+    "code": "G04C 13/08",
+    "description": "••Relojes secundarios accionados de forma discontinua [2006.01]"
+  },
+  {
+    "code": "G04C 13/10",
+    "description": "••••por mecanismos electromecánicos que progresan por saltos [2006.01]"
+  },
+  {
+    "code": "G04C 13/11",
+    "description": "••••••con inducido rotativo [2006.01]"
+  },
+  {
+    "code": "G04C 13/12",
+    "description": "••••por motores eléctricos de rotación continua [2006.01]"
+  },
+  {
+    "code": "G04C 13/14",
+    "description": "••••por mecanismos motores mecánicos accionados eléctricamente [2006.01]"
+  },
+  {
+    "code": "G04C 15/00",
+    "description": "Relojes movidos por motores síncronos [2006.01]"
+  },
+  {
+    "code": "G04C 17/00",
+    "description": "Indicación óptica del tiempo por medios eléctricos (G04C 19/00 tiene prioridad; sustancias que forman cristales líquidos C09K 19/00; Por medios mecánicos G04B 19/00, G04B 19/20) [2006.01]"
+  },
+  {
+    "code": "G04C 17/02",
+    "description": "••por medio de lámparas eléctricas [2006.01]"
+  },
+  {
+    "code": "G04C 19/00",
+    "description": "Emisión de señales horarias ópticas en momentos predeterminados por medios eléctricos [2006.01]"
+  },
+  {
+    "code": "G04C 19/02",
+    "description": "••por medio de lámparas eléctricas [2006.01]"
+  },
+  {
+    "code": "G04C 19/04",
+    "description": "••por medio de órganos indicadores movidos eléctricamente, p. ej. aleta, banda [2006.01]"
+  },
+  {
+    "code": "G04C 21/00",
+    "description": "Emisión de señales horarias acústicas por medios eléctricos [2006.01]"
+  },
+  {
+    "code": "G04C 21/02",
+    "description": "••Elementos estructurales (G04C 21/04, G04C 21/16 tienen prioridad) [2006.01]"
+  },
+  {
+    "code": "G04C 21/04",
+    "description": "••que indican el momento del día (indicación acústica del tiempo G04B 21/00) [2006.01]"
+  },
+  {
+    "code": "G04C 21/06",
+    "description": "••••por un mecanismo de sonido [2006.01]"
+  },
+  {
+    "code": "G04C 21/08",
+    "description": "••••••con leva espiraliforme [2006.01]"
+  },
+  {
+    "code": "G04C 21/10",
+    "description": "••••••con platina de bloqueo [2006.01]"
+  },
+  {
+    "code": "G04C 21/12",
+    "description": "••••por medios electroacústicos [2006.01]"
+  },
+  {
+    "code": "G04C 21/14",
+    "description": "••••••Indicación electroacústica de la hora, es decir, reloj parlante [2006.01]"
+  },
+  {
+    "code": "G04C 21/16",
+    "description": "••que emiten las señales en hora fija, pudiendo ésta ser modificada a voluntad [2006.01]"
+  },
+  {
+    "code": "G04C 21/18",
+    "description": "••••liberando mecánicamente un vibrador electromecánico, p. ej. accionado por el flujo de dispersión de medios de accionamiento eléctricos [2006.01]"
+  },
+  {
+    "code": "G04C 21/20",
+    "description": "••••cerrando un contacto para hacer sonar una señal avisadora electromecánica [2006.01]"
+  },
+  {
+    "code": "G04C 21/22",
+    "description": "••••••puesto en acción por el eje de un mecanismo de alarma mecánica [2006.01]"
+  },
+  {
+    "code": "G04C 21/24",
+    "description": "••••••puesto en acción por el resorte de un mecanismo de alarma mecánica [2006.01]"
+  },
+  {
+    "code": "G04C 21/26",
+    "description": "••••••puesto en acción por las vibraciones provocadas por el funcionamiento de un mecanismo de alarma mecánico [2006.01]"
+  },
+  {
+    "code": "G04C 21/28",
+    "description": "••••cerrando un contacto para poner en acción medios electroacústicos, p. ej. para un despertador con música [2006.01]"
+  },
+  {
+    "code": "G04C 21/30",
+    "description": "••••susceptibles de funcionar con varias repeticiones en momentos diferentes, p. ej. para tocar las campanas de una escuela [2006.01]"
+  },
+  {
+    "code": "G04C 21/32",
+    "description": "••••••que se manifiestan en varios lugares y para cada uno en un momento diferente, p. ej. sistema de alarma en un hotel [2006.01]"
+  },
+  {
+    "code": "G04C 21/34",
+    "description": "••••Dispositivos sobre relojes o aparatos portátiles análogos para evaluar el tiempo [2006.01]"
+  },
+  {
+    "code": "G04C 21/36",
+    "description": "••••Dispositivos de repetición de una señal [2006.01]"
+  },
+  {
+    "code": "G04C 21/38",
+    "description": "••••Regulación de la duración de las señales [2006.01]"
+  },
+  {
+    "code": "G04C 23/02",
+    "description": "••Elementos estructurales [2006.01]"
+  },
+  {
+    "code": "G04C 23/04",
+    "description": "••••Carcasas, soportes, protección, o piezas fijas similares [2006.01]"
+  },
+  {
+    "code": "G04C 23/06",
+    "description": "••••Medios motores o reguladores [2006.01]"
+  },
+  {
+    "code": "G04C 23/08",
+    "description": "••••Medios de programación [2006.01]"
+  },
+  {
+    "code": "G04C 23/10",
+    "description": "••••para accionar un elemento cualquiera que hace funcionar o que provocan el funcionamiento del dispositivo en cuestión [2006.01]"
+  },
+  {
+    "code": "G04C 23/12",
+    "description": "••••Circuitos eléctricos [2006.01]"
+  },
+  {
+    "code": "G04C 23/14",
+    "description": "••Mecanismos que marchan sin parar para que el funcionamiento esté en correlación con el momento del día [2006.01]"
+  },
+  {
+    "code": "G04C 23/16",
+    "description": "••••que entran en acción únicamente en un momento elegido de antemano o durante un intervalo de tiempo regulable [2006.01]"
+  },
+  {
+    "code": "G04C 23/18",
+    "description": "••••para hacer funcionar un dispositivo en varios momentos diferentes [2006.01]"
+  },
+  {
+    "code": "G04C 23/20",
+    "description": "••••••con contactos accionados o formados, por agujas de reloj o elementos de una forma similar [2006.01]"
+  },
+  {
+    "code": "G04C 23/22",
+    "description": "••••••con el elemento de puesta en acción llevado por un disco [2006.01]"
+  },
+  {
+    "code": "G04C 23/24",
+    "description": "••••••••el elemento de puesta en acción controla mecánicamente otro elemento [2006.01]"
+  },
+  {
+    "code": "G04C 23/26",
+    "description": "••••para hacer funcionar varios dispositivos en diferentes momentos [2006.01]"
+  },
+  {
+    "code": "G04C 23/28",
+    "description": "••••••con contactos accionados, o formados, por agujas de reloj o elementos de una forma similar [2006.01]"
+  },
+  {
+    "code": "G04C 23/30",
+    "description": "••••••con el elemento de puesta en acción llevado por un disco [2006.01]"
+  },
+  {
+    "code": "G04C 23/32",
+    "description": "••••••••el elemento de puesta en acción controla mecánicamente otro elemento [2006.01]"
+  },
+  {
+    "code": "G04C 23/34",
+    "description": "••••con posibilidad de modificar automáticamente el programa, p. ej. el domingo [2006.01]"
+  },
+  {
+    "code": "G04C 23/36",
+    "description": "••••••por influencias exteriores [2006.01]"
+  },
+  {
+    "code": "G04C 23/38",
+    "description": "••Mecanismos que miden un intervalo de tiempo elegido sin tener en cuenta el momento del día en que comienza este intervalo [2006.01]"
+  },
+  {
+    "code": "G04C 23/40",
+    "description": "••••que utilizan mecanismos de marcha continua [2006.01]"
+  },
+  {
+    "code": "G04C 23/42",
+    "description": "••••que entran en acción solamente al final de un intervalo de tiempo único [2006.01]"
+  },
+  {
+    "code": "G04C 23/44",
+    "description": "••••••que permiten elegir entre varios intervalos preestablecidos [2006.01]"
+  },
+  {
+    "code": "G04C 23/46",
+    "description": "••••••que permiten regular el intervalo (G04C 23/44 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "G04C 23/48",
+    "description": "••••que entran en acción al término de intervalos de tiempo sucesivos [2006.01]"
+  },
+  {
+    "code": "G04C 23/50",
+    "description": "••••que permiten la modificación del intervalo (o de intervalos) por influencias externas [2006.01]"
+  },
+  {
+    "code": "G04C 99/00",
+    "description": "Materia no prevista en otros grupos de esta subclase [2006.01]"
+  }
+]

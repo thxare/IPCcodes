@@ -1,0 +1,698 @@
+[
+  {
+    "code": "C10B 1/00",
+    "description": "Retortas [2006.01]"
+  },
+  {
+    "code": "C10B 1/02",
+    "description": "••fijas [2006.01]"
+  },
+  {
+    "code": "C10B 1/04",
+    "description": "••••verticales [2006.01]"
+  },
+  {
+    "code": "C10B 1/06",
+    "description": "••••horizontales [2006.01]"
+  },
+  {
+    "code": "C10B 1/08",
+    "description": "••••inclinadas [2006.01]"
+  },
+  {
+    "code": "C10B 1/10",
+    "description": "••rotativas [2006.01]"
+  },
+  {
+    "code": "C10B 3/00",
+    "description": "Hornos de coque de cámaras verticales [2006.01]"
+  },
+  {
+    "code": "C10B 3/02",
+    "description": "••con dispositivos cambiadores de calor [2006.01]"
+  },
+  {
+    "code": "C10B 5/00",
+    "description": "Hornos de coque de cámaras horizontales [2006.01]"
+  },
+  {
+    "code": "C10B 5/02",
+    "description": "••con conductos calefactores verticales [2006.01]"
+  },
+  {
+    "code": "C10B 5/04",
+    "description": "••••con interconexiones transversales [2006.01]"
+  },
+  {
+    "code": "C10B 5/06",
+    "description": "••con conductos calefactores horizontales [2006.01]"
+  },
+  {
+    "code": "C10B 5/08",
+    "description": "••con conductos calefactores horizontales y verticales [2006.01]"
+  },
+  {
+    "code": "C10B 5/10",
+    "description": "••con dispositivos cambiadores de calor [2006.01]"
+  },
+  {
+    "code": "C10B 5/12",
+    "description": "••••con regeneradores [2006.01]"
+  },
+  {
+    "code": "C10B 5/14",
+    "description": "••••••situados en sentido longitudinal de las cámaras [2006.01]"
+  },
+  {
+    "code": "C10B 5/16",
+    "description": "••••••••con conductos separados [2006.01]"
+  },
+  {
+    "code": "C10B 5/18",
+    "description": "••••••situados en sentido longitudinal de la batería de hornos [2006.01]"
+  },
+  {
+    "code": "C10B 5/20",
+    "description": "••••con recuperadores de calor [2006.01]"
+  },
+  {
+    "code": "C10B 7/00",
+    "description": "Hornos de coque con medios de transporte mecánico para la alimentación de la materia prima [2006.01]"
+  },
+  {
+    "code": "C10B 7/02",
+    "description": "••con dispositivos de arrastre rotativos [2006.01]"
+  },
+  {
+    "code": "C10B 7/04",
+    "description": "••con dispositivos vibratorios o por sacudidas [2006.01]"
+  },
+  {
+    "code": "C10B 7/06",
+    "description": "••con dispositivos de cinta transportadora [2006.01]"
+  },
+  {
+    "code": "C10B 7/08",
+    "description": "••••en dirección vertical [2006.01]"
+  },
+  {
+    "code": "C10B 7/10",
+    "description": "••con transportadores de tornillo [2006.01]"
+  },
+  {
+    "code": "C10B 7/12",
+    "description": "••con dispositivos basculantes [2006.01]"
+  },
+  {
+    "code": "C10B 7/14",
+    "description": "••con vagones, contenedores o bandejas [2006.01]"
+  },
+  {
+    "code": "C10B 9/00",
+    "description": "Hornos de celdas o colmena [2006.01]"
+  },
+  {
+    "code": "C10B 11/00",
+    "description": "Hornos de coque de cámaras inclinadas [2006.01]"
+  },
+  {
+    "code": "C10B 13/00",
+    "description": "Hornos de coque con medios para conducir y mantener la carga bajo una presión mecánica [2006.01]"
+  },
+  {
+    "code": "C10B 15/00",
+    "description": "Otros hornos de coque [2006.01]"
+  },
+  {
+    "code": "C10B 15/02",
+    "description": "••con solera calefactora [2006.01]"
+  },
+  {
+    "code": "C10B 17/00",
+    "description": "Precalentamiento de los hornos de coque [2006.01]"
+  },
+  {
+    "code": "C10B 19/00",
+    "description": "Calentamiento de los hornos de coque por medios eléctricos [2006.01]"
+  },
+  {
+    "code": "C10B 21/00",
+    "description": "Calentamiento de los hornos de coque por medio de gases combustibles [2006.01]"
+  },
+  {
+    "code": "C10B 21/02",
+    "description": "••con gas pobre [2006.01]"
+  },
+  {
+    "code": "C10B 21/04",
+    "description": "••con gas rico [2006.01]"
+  },
+  {
+    "code": "C10B 21/06",
+    "description": "••en hornos de coque adaptados para la utilización de gas pobre o gas rico [2006.01]"
+  },
+  {
+    "code": "C10B 21/08",
+    "description": "••por medio de gases de calentamiento particulares [2006.01]"
+  },
+  {
+    "code": "C10B 21/10",
+    "description": "••Regulación o control de la combustión [2006.01]"
+  },
+  {
+    "code": "C10B 21/12",
+    "description": "••••Quemadores [2006.01]"
+  },
+  {
+    "code": "C10B 21/14",
+    "description": "••••Dispositivos para invertir el tiro [2006.01]"
+  },
+  {
+    "code": "C10B 21/16",
+    "description": "••••controlando o variando las aberturas entre los conductos calefactores y los conductos regeneradores [2006.01]"
+  },
+  {
+    "code": "C10B 21/18",
+    "description": "••••por recirculación de los gases de salida [2006.01]"
+  },
+  {
+    "code": "C10B 21/20",
+    "description": "••Métodos de calefacción de los hornos del tipo de cámara [2006.01]"
+  },
+  {
+    "code": "C10B 21/22",
+    "description": "••••por introducción de gas de calentamiento y aire a niveles diferentes [2006.01]"
+  },
+  {
+    "code": "C10B 21/24",
+    "description": "••••••en la cabeza y el fondo de los conductos calefactores verticales [2006.01]"
+  },
+  {
+    "code": "C10B 21/26",
+    "description": "••••por introducción de gas de calentamiento y aire solamente en la cabeza de los conductos verticales [2006.01]"
+  },
+  {
+    "code": "C10B 23/00",
+    "description": "Otros métodos de calentamiento de los hornos de coque [2006.01]"
+  },
+  {
+    "code": "C10B 25/02",
+    "description": "••Puertas; Marcos de puertas [2006.01]"
+  },
+  {
+    "code": "C10B 25/04",
+    "description": "••••para hornos de cámaras verticales [2006.01]"
+  },
+  {
+    "code": "C10B 25/06",
+    "description": "••••para hornos de cámaras horizontales [2006.01]"
+  },
+  {
+    "code": "C10B 25/08",
+    "description": "••••Dispositivos de cierre o apertura de puertas [2006.01]"
+  },
+  {
+    "code": "C10B 25/10",
+    "description": "••••••para hornos de cámaras verticales [2006.01]"
+  },
+  {
+    "code": "C10B 25/12",
+    "description": "••••••para hornos de cámaras horizontales [2006.01]"
+  },
+  {
+    "code": "C10B 25/14",
+    "description": "••••••Dispositivos para elevar puertas [2006.01]"
+  },
+  {
+    "code": "C10B 25/16",
+    "description": "••••Sellado; Medios para sellado [2006.01]"
+  },
+  {
+    "code": "C10B 25/18",
+    "description": "••••Enfriamiento [2006.01]"
+  },
+  {
+    "code": "C10B 25/20",
+    "description": "••Tapas o cierres para bocas de carga [2006.01]"
+  },
+  {
+    "code": "C10B 25/22",
+    "description": "••••para hornos de cámaras verticales [2006.01]"
+  },
+  {
+    "code": "C10B 25/24",
+    "description": "••••para hornos de cámaras horizontales [2006.01]"
+  },
+  {
+    "code": "C10B 27/00",
+    "description": "Dispositivos para la salida de los gases de destilación [2006.01]"
+  },
+  {
+    "code": "C10B 27/02",
+    "description": "••con dispositivos de salida a niveles diferentes de la cámara [2006.01]"
+  },
+  {
+    "code": "C10B 27/04",
+    "description": "••durante la operación de carga del horno [2006.01]"
+  },
+  {
+    "code": "C10B 27/06",
+    "description": "••Detalles de las conducciones, p. ej. válvulas [2006.01]"
+  },
+  {
+    "code": "C10B 29/00",
+    "description": "Otros detalles de los hornos de coque [2006.01]"
+  },
+  {
+    "code": "C10B 29/02",
+    "description": "••Enladrillado, p. ej. cubiertas, revestimientos, muros [2006.01]"
+  },
+  {
+    "code": "C10B 29/04",
+    "description": "••Control o prevención de la dilatación o contracción [2006.01]"
+  },
+  {
+    "code": "C10B 29/06",
+    "description": "••Prevención o reparación de fugas del enladrillado [2006.01]"
+  },
+  {
+    "code": "C10B 29/08",
+    "description": "••Anclado o fundaciones de los hornos [2006.01]"
+  },
+  {
+    "code": "C10B 31/00",
+    "description": "Dispositivos de carga para hornos de coque [2006.01]"
+  },
+  {
+    "code": "C10B 31/02",
+    "description": "••para carga vertical [2006.01]"
+  },
+  {
+    "code": "C10B 31/04",
+    "description": "••••hornos de coque de cámaras horizontales [2006.01]"
+  },
+  {
+    "code": "C10B 31/06",
+    "description": "••para carga horizontal [2006.01]"
+  },
+  {
+    "code": "C10B 31/08",
+    "description": "••••hornos de coque de cámaras horizontales [2006.01]"
+  },
+  {
+    "code": "C10B 31/10",
+    "description": "••••••con una carga compacta [2006.01]"
+  },
+  {
+    "code": "C10B 31/12",
+    "description": "••para materias líquidas [2006.01]"
+  },
+  {
+    "code": "C10B 33/00",
+    "description": "Dispositivos de descarga para hornos de coque; Salidas del coque [2006.01]"
+  },
+  {
+    "code": "C10B 33/02",
+    "description": "••Extracción del coque por mecanismos incorporados al horno, p. ej. transmisiones, tornillos [2006.01]"
+  },
+  {
+    "code": "C10B 33/04",
+    "description": "••Dispositivos de arranque [2006.01]"
+  },
+  {
+    "code": "C10B 33/06",
+    "description": "••••para cámaras horizontales [2006.01]"
+  },
+  {
+    "code": "C10B 33/08",
+    "description": "••Empujadores, p. ej. arietes [2006.01]"
+  },
+  {
+    "code": "C10B 33/10",
+    "description": "••••para cámaras horizontales [2006.01]"
+  },
+  {
+    "code": "C10B 33/12",
+    "description": "••Válvulas de descarga [2006.01]"
+  },
+  {
+    "code": "C10B 33/14",
+    "description": "••Salidas de coque [2006.01]"
+  },
+  {
+    "code": "C10B 35/00",
+    "description": "Dispositivos combinados de carga y descarga para hornos de coque [2006.01]"
+  },
+  {
+    "code": "C10B 37/00",
+    "description": "Tratamientos mecánicos de las cargas de hulla en el horno [2006.01]"
+  },
+  {
+    "code": "C10B 37/02",
+    "description": "••Enrasado de las cargas, p. ej. con barras [2006.01]"
+  },
+  {
+    "code": "C10B 37/04",
+    "description": "••Compresión de las cargas (durante la coquización C10B 47/12) [2006.01]"
+  },
+  {
+    "code": "C10B 37/06",
+    "description": "••Formación de agujeros en las cargas [2006.01]"
+  },
+  {
+    "code": "C10B 39/02",
+    "description": "••Enfriamiento seco fuera del horno [2006.01]"
+  },
+  {
+    "code": "C10B 39/04",
+    "description": "••Apagado húmedo [2006.01]"
+  },
+  {
+    "code": "C10B 39/06",
+    "description": "••••en el horno [2006.01]"
+  },
+  {
+    "code": "C10B 39/08",
+    "description": "••••Torres de apagado del coque [2006.01]"
+  },
+  {
+    "code": "C10B 39/10",
+    "description": "••combinado con medios de agitación, p. ej. platos o tambores rotativos [2006.01]"
+  },
+  {
+    "code": "C10B 39/12",
+    "description": "••combinado con medios de transporte [2006.01]"
+  },
+  {
+    "code": "C10B 39/14",
+    "description": "••Vagonetas [2006.01]"
+  },
+  {
+    "code": "C10B 39/16",
+    "description": "••combinado con clasificadores [2006.01]"
+  },
+  {
+    "code": "C10B 39/18",
+    "description": "••Rampas de coque [2006.01]"
+  },
+  {
+    "code": "C10B 41/00",
+    "description": "Dispositivos de seguridad, p. ej. dispositivos de señalización o control para uso en la descarga del coque [2006.01]"
+  },
+  {
+    "code": "C10B 41/02",
+    "description": "••para descarga de coque [2006.01]"
+  },
+  {
+    "code": "C10B 41/04",
+    "description": "••••por medios eléctricos [2006.01]"
+  },
+  {
+    "code": "C10B 41/06",
+    "description": "••••por medios neumáticos o hidráulicos [2006.01]"
+  },
+  {
+    "code": "C10B 41/08",
+    "description": "••para la salida de los gases de destilación [2006.01]"
+  },
+  {
+    "code": "C10B 43/00",
+    "description": "Prevención o eliminación de las incrustaciones [2006.01]"
+  },
+  {
+    "code": "C10B 43/02",
+    "description": "••Eliminación de las incrustaciones [2006.01]"
+  },
+  {
+    "code": "C10B 43/04",
+    "description": "••••por medios mecánicos [2006.01]"
+  },
+  {
+    "code": "C10B 43/06",
+    "description": "••••••en los conductos, válvulas y similares [2006.01]"
+  },
+  {
+    "code": "C10B 43/08",
+    "description": "••••con líquidos [2006.01]"
+  },
+  {
+    "code": "C10B 43/10",
+    "description": "••••por quemado [2006.01]"
+  },
+  {
+    "code": "C10B 43/12",
+    "description": "••••••Quemadores [2006.01]"
+  },
+  {
+    "code": "C10B 43/14",
+    "description": "••Prevención de las incrustaciones [2006.01]"
+  },
+  {
+    "code": "C10B 45/00",
+    "description": "Otros detalles [2006.01]"
+  },
+  {
+    "code": "C10B 45/02",
+    "description": "••Dispositivos para producir cargas de hulla compactadas y unificadas fuera del horno [2006.01]"
+  },
+  {
+    "code": "C10B 47/00",
+    "description": "Destilación destructiva de materias sólidas carbonosas  con calentamiento indirecto, p. ej. por combustión externa [2006.01]"
+  },
+  {
+    "code": "C10B 47/02",
+    "description": "••con carga fija [2006.01]"
+  },
+  {
+    "code": "C10B 47/04",
+    "description": "••••en hornos de cuba [2006.01]"
+  },
+  {
+    "code": "C10B 47/06",
+    "description": "••••en retortas [2006.01]"
+  },
+  {
+    "code": "C10B 47/08",
+    "description": "••••en hornos de colmena [2006.01]"
+  },
+  {
+    "code": "C10B 47/10",
+    "description": "••••en hornos de coque del tipo de cámara [2006.01]"
+  },
+  {
+    "code": "C10B 47/12",
+    "description": "••••en los que la carga está sometida a una presión mecánica durante la coquización [2006.01]"
+  },
+  {
+    "code": "C10B 47/14",
+    "description": "••••con ayuda de líquidos calientes, p. ej. sales fundidas [2006.01]"
+  },
+  {
+    "code": "C10B 47/16",
+    "description": "••••con medios de calentamiento indirecto fuera y dentro de las retortas a la vez [2006.01]"
+  },
+  {
+    "code": "C10B 47/18",
+    "description": "••con carga en movimiento [2006.01]"
+  },
+  {
+    "code": "C10B 47/20",
+    "description": "••••segun el método de lecho móvil (C10B 47/26 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "C10B 47/22",
+    "description": "••••en forma dispersa (C10B 47/26 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "C10B 47/24",
+    "description": "••••••según la técnica de lecho fluido [2006.01]"
+  },
+  {
+    "code": "C10B 47/26",
+    "description": "••••con ayuda de líquidos calientes, p. ej. sales fundidas [2006.01]"
+  },
+  {
+    "code": "C10B 47/28",
+    "description": "••Otros procesos [2006.01]"
+  },
+  {
+    "code": "C10B 47/30",
+    "description": "••••en hornos rotativos o retortas [2006.01]"
+  },
+  {
+    "code": "C10B 47/32",
+    "description": "••••en hornos con medios de transporte mecánicos [2006.01]"
+  },
+  {
+    "code": "C10B 47/34",
+    "description": "••••••con dispositivos de arrastre rotativos [2006.01]"
+  },
+  {
+    "code": "C10B 47/36",
+    "description": "••••••••en hornos de múltiples etapas [2006.01]"
+  },
+  {
+    "code": "C10B 47/38",
+    "description": "••••••con dispositivos vibratorios o por sacudidas [2006.01]"
+  },
+  {
+    "code": "C10B 47/40",
+    "description": "••••••con dispositivos de cinta transportadora [2006.01]"
+  },
+  {
+    "code": "C10B 47/42",
+    "description": "••••••••en dirección vertical [2006.01]"
+  },
+  {
+    "code": "C10B 47/44",
+    "description": "••••••con transportadores de tornillo [2006.01]"
+  },
+  {
+    "code": "C10B 47/46",
+    "description": "••••••con vagones, contenedores o bandejas [2006.01]"
+  },
+  {
+    "code": "C10B 47/48",
+    "description": "••••••con dispositivos basculantes [2006.01]"
+  },
+  {
+    "code": "C10B 49/00",
+    "description": "Destilación destructiva de materias carbonosas sólidas por calentamiento directo con agentes que son portadores de calor, incluyendo la combustión parcial de la materia sólida que va a ser tratada [2006.01]"
+  },
+  {
+    "code": "C10B 49/02",
+    "description": "••con gases o vapores calientes, p. ej. gases calientes obtenidos por combustión parcial de la carga [2006.01]"
+  },
+  {
+    "code": "C10B 49/04",
+    "description": "••••mientras la carga sólida a tratar está en movimiento [2006.01]"
+  },
+  {
+    "code": "C10B 49/06",
+    "description": "••••••según el método de lecho móvil [2006.01]"
+  },
+  {
+    "code": "C10B 49/08",
+    "description": "••••••en forma dispersa [2006.01]"
+  },
+  {
+    "code": "C10B 49/10",
+    "description": "••••••••según la técnica de lecho fluido [2006.01]"
+  },
+  {
+    "code": "C10B 49/12",
+    "description": "••••••••por mezcla tangencial, p. ej. en cámaras de remolino [2006.01]"
+  },
+  {
+    "code": "C10B 49/14",
+    "description": "••con líquidos calientes, p. ej. metales fundidos [2006.01]"
+  },
+  {
+    "code": "C10B 49/16",
+    "description": "••con portadores de calor sólidos, en movimiento, en forma dividida [2006.01]"
+  },
+  {
+    "code": "C10B 49/18",
+    "description": "••••según el método de lecho móvil [2006.01]"
+  },
+  {
+    "code": "C10B 49/20",
+    "description": "••••en forma dispersa [2006.01]"
+  },
+  {
+    "code": "C10B 49/22",
+    "description": "••••••según la técnica de lecho fluido [2006.01]"
+  },
+  {
+    "code": "C10B 51/00",
+    "description": "Destilación destructiva de materias carbonosas sólidas por calentamiento directo e indirecto combinado [2006.01]"
+  },
+  {
+    "code": "C10B 53/00",
+    "description": "Destilación destructiva, especialmente adaptada para materias primas sólidas particulares o en forma especial (carbonización de turba por vía húmeda C10F) [2006.01]"
+  },
+  {
+    "code": "C10B 53/02",
+    "description": "••de materias que contienen celulosa (producción del ácido piroleñoso C10C 5/00) [2006.01]"
+  },
+  {
+    "code": "C10B 53/04",
+    "description": "••de polvo de hulla [2006.01]"
+  },
+  {
+    "code": "C10B 53/06",
+    "description": "••de esquistos o rocas bituminosas [2006.01]"
+  },
+  {
+    "code": "C10B 53/07",
+    "description": "••de materiales poliméricos sintéticos, p. ej. neumáticos (recuperación o tratamiento de residuos de compuestos orgánicos macromoleculares o de composiciones basadas en tales compuestos por tratamiento térmico en seco para obtener materiales parcialmente despolimerizados C08J 11/10; producción de mezclas de hidrocarburos líquidos a partir de caucho o residuos de caucho C10G 1/10) [2006.01]"
+  },
+  {
+    "code": "C10B 53/08",
+    "description": "••en forma de briquetas, terrones o similares [2006.01]"
+  },
+  {
+    "code": "C10B 55/00",
+    "description": "Coquización de aceites minerales, betún, alquitrán o similares o sus mezclas con materias carbonosas sólidas (cracking de aceites C10G) [2006.01]"
+  },
+  {
+    "code": "C10B 55/02",
+    "description": "••con materias sólidas [2006.01]"
+  },
+  {
+    "code": "C10B 55/04",
+    "description": "••••con materias sólidas en movimiento [2006.01]"
+  },
+  {
+    "code": "C10B 55/06",
+    "description": "••••••según el método de lecho móvil [2006.01]"
+  },
+  {
+    "code": "C10B 55/08",
+    "description": "••••••en forma dispersa [2006.01]"
+  },
+  {
+    "code": "C10B 55/10",
+    "description": "••••••••según la técnica de lecho fluido [2006.01]"
+  },
+  {
+    "code": "C10B 57/00",
+    "description": "Otros procesos de carbonización o coquización; Características de los procesos de la destilación destructiva en general [2006.01]"
+  },
+  {
+    "code": "C10B 57/02",
+    "description": "••Procesos de carbonización o coquización en múltiples etapas [2006.01]"
+  },
+  {
+    "code": "C10B 57/04",
+    "description": "••utilizando cargas de composición especial [2006.01]"
+  },
+  {
+    "code": "C10B 57/06",
+    "description": "••••que contienen aditivos [2006.01]"
+  },
+  {
+    "code": "C10B 57/08",
+    "description": "••Pretratamiento no mecánico de la carga [2006.01]"
+  },
+  {
+    "code": "C10B 57/10",
+    "description": "••••Secado [2006.01]"
+  },
+  {
+    "code": "C10B 57/12",
+    "description": "••Aplicando aditivos durante la coquización [2006.01]"
+  },
+  {
+    "code": "C10B 57/14",
+    "description": "••Características de los procesos de carbonización a baja temperatura [2006.01]"
+  },
+  {
+    "code": "C10B 57/16",
+    "description": "••Características de los procesos de carbonización a alta temperatura [2006.01]"
+  },
+  {
+    "code": "C10B 57/18",
+    "description": "••Modificando las propiedades de los gases de destilación en el horno [2006.01]"
+  }
+]

@@ -1,0 +1,906 @@
+[
+  {
+    "code": "D04B 1/00",
+    "description": "Procedimientos de tricotado de trama para la producción de géneros de punto o de artículos que no dependen del empleo de máquinas especiales; Productos o artículos definidos por tales procedimientos [2006.01]"
+  },
+  {
+    "code": "D04B 1/02",
+    "description": "••Géneros de punto con capa de pelos o artículos que presentan características superficiales similares [2006.01]"
+  },
+  {
+    "code": "D04B 1/04",
+    "description": "••••caracterizados por la naturaleza del hilo [2006.01]"
+  },
+  {
+    "code": "D04B 1/06",
+    "description": "••Géneros de punto o artículos indesmallables [2006.01]"
+  },
+  {
+    "code": "D04B 1/08",
+    "description": "••••caracterizados por la materia del hilo [2006.01]"
+  },
+  {
+    "code": "D04B 1/10",
+    "description": "••Géneros de punto o artículos con dibujos [2006.01]"
+  },
+  {
+    "code": "D04B 1/12",
+    "description": "••••caracterizados por la naturaleza del hilo [2006.01]"
+  },
+  {
+    "code": "D04B 1/14",
+    "description": "••Otros géneros de punto o artículos caracterizados principalmente por el empleo de materias especiales para el hilo [2006.01]"
+  },
+  {
+    "code": "D04B 1/16",
+    "description": "••••hilos sintéticos [2006.01]"
+  },
+  {
+    "code": "D04B 1/18",
+    "description": "••••hilos elásticos [2006.01]"
+  },
+  {
+    "code": "D04B 1/20",
+    "description": "••••••hilos rizados [2006.01]"
+  },
+  {
+    "code": "D04B 1/22",
+    "description": "••especialmente concebidos para el tricotado de artículos de configuración particular [2006.01]"
+  },
+  {
+    "code": "D04B 1/24",
+    "description": "••••artículos de vestir [2006.01]"
+  },
+  {
+    "code": "D04B 1/26",
+    "description": "••••••medias [2006.01]"
+  },
+  {
+    "code": "D04B 1/28",
+    "description": "••••••guantes [2006.01]"
+  },
+  {
+    "code": "D04B 3/00",
+    "description": "Aparatos o útiles de mano para tricotrado de trama [2006.01]"
+  },
+  {
+    "code": "D04B 3/02",
+    "description": "••Agujas [2006.01]"
+  },
+  {
+    "code": "D04B 3/04",
+    "description": "••Protege-dedos; Tensores de hilo [2006.01]"
+  },
+  {
+    "code": "D04B 3/06",
+    "description": "••Soportes o receptáculos para ovillos [2006.01]"
+  },
+  {
+    "code": "D04B 5/00",
+    "description": "Aparatos o telares de tricotado de trama sin agujas para uso doméstico (con agujas D04B 7/08) [2006.01]"
+  },
+  {
+    "code": "D04B 7/00",
+    "description": "Telares de tricotar con lecho rectilíneo con agujas móviles independientes (telares rectilíneos con agujas fijas D04B 11/00) [2006.01]"
+  },
+  {
+    "code": "D04B 7/02",
+    "description": "••con un juego de agujas [2006.01]"
+  },
+  {
+    "code": "D04B 7/04",
+    "description": "••con dos juegos de agujas [2006.01]"
+  },
+  {
+    "code": "D04B 7/06",
+    "description": "••••para la formación de mallas de revés o de mallas vueltas [2006.01]"
+  },
+  {
+    "code": "D04B 7/08",
+    "description": "••para uso doméstico [2006.01]"
+  },
+  {
+    "code": "D04B 7/10",
+    "description": "••con posibilidad de disminuciones o de aumentos para la producción de géneros de punto enteramente dimensionados [2006.01]"
+  },
+  {
+    "code": "D04B 7/12",
+    "description": "••con posibilidad de incorporar hilos de pelo [2006.01]"
+  },
+  {
+    "code": "D04B 7/14",
+    "description": "••con posibilidad de incorporar hilos en el espesor del género de punto [2006.01]"
+  },
+  {
+    "code": "D04B 7/16",
+    "description": "••para la producción de géneros de punto hechos de hilos elásticos o que los contienen [2006.01]"
+  },
+  {
+    "code": "D04B 7/18",
+    "description": "••••incorporados como hilos tramados o depositados en el género de punto [2006.01]"
+  },
+  {
+    "code": "D04B 7/20",
+    "description": "••con posibilidad de modificar la contextura del género de punto, p. ej. de géneros de punto liso a género de punto acanalado [2006.01]"
+  },
+  {
+    "code": "D04B 7/22",
+    "description": "••con posibilidad particular para comenzar el artículo, p. ej. con bordes indesmallables [2006.01]"
+  },
+  {
+    "code": "D04B 7/24",
+    "description": "••para la producción de géneros de punto con dibujos [2006.01]"
+  },
+  {
+    "code": "D04B 7/26",
+    "description": "••••con dibujos de color [2006.01]"
+  },
+  {
+    "code": "D04B 7/28",
+    "description": "••••con dibujos de mallas [2006.01]"
+  },
+  {
+    "code": "D04B 7/30",
+    "description": "••especialmente adaptados para el tricotado de géneros de punto de configuración particular [2006.01]"
+  },
+  {
+    "code": "D04B 7/32",
+    "description": "••••géneros de punto tubulares [2006.01]"
+  },
+  {
+    "code": "D04B 7/34",
+    "description": "••••••guantes [2006.01]"
+  },
+  {
+    "code": "D04B 9/00",
+    "description": "Tramado circular  Telares de tricotar circulares con agujas móviles independientes (con agujas de pico o de barbas fijas D04B 13/00) [2006.01]"
+  },
+  {
+    "code": "D04B 9/02",
+    "description": "••con un juego de agujas [2006.01]"
+  },
+  {
+    "code": "D04B 9/04",
+    "description": "••••con agujas de pico o de barbas [2006.01]"
+  },
+  {
+    "code": "D04B 9/06",
+    "description": "••con cilindro de agujas y cuadrante para géneros de punto acanalados [2006.01]"
+  },
+  {
+    "code": "D04B 9/08",
+    "description": "••••para géneros de puntos entrelazados [2006.01]"
+  },
+  {
+    "code": "D04B 9/10",
+    "description": "••con dos cilindros de agujas para la formación de géneros de punto de mallas de revés o de mallas vueltas [2006.01]"
+  },
+  {
+    "code": "D04B 9/12",
+    "description": "••con posibilidad de incorporar hilos de pelo [2006.01]"
+  },
+  {
+    "code": "D04B 9/14",
+    "description": "••con posibilidad de incorporar fibras en borra, p. ej. en los géneros de punto de pelos largos [2006.01]"
+  },
+  {
+    "code": "D04B 9/16",
+    "description": "••con posibilidad de incorporar hilos en la espesura del género de punto [2006.01]"
+  },
+  {
+    "code": "D04B 9/18",
+    "description": "••con posibilidad de empalme por incorporación de los hilos de refuerzo [2006.01]"
+  },
+  {
+    "code": "D04B 9/20",
+    "description": "••con posibilidad de disminuciones o de aumentos; con movimiento de vaivén, p. ej. para el tricotado de partes rectilíneas [2006.01]"
+  },
+  {
+    "code": "D04B 9/22",
+    "description": "••con posibilidad de modificar la textura del género de punto, p. ej. de géneros de punto lisos a géneros de punto acanalados [2006.01]"
+  },
+  {
+    "code": "D04B 9/24",
+    "description": "••con posibilidad particular para comenzar un artículo, p. ej. con bordes indesmallables [2006.01]"
+  },
+  {
+    "code": "D04B 9/26",
+    "description": "••para la producción de géneros de punto con dibujos [2006.01]"
+  },
+  {
+    "code": "D04B 9/28",
+    "description": "••••con dibujos de color [2006.01]"
+  },
+  {
+    "code": "D04B 9/30",
+    "description": "••••••por rayados [2006.01]"
+  },
+  {
+    "code": "D04B 9/32",
+    "description": "••••••••por rayados bordados [2006.01]"
+  },
+  {
+    "code": "D04B 9/34",
+    "description": "••••••por vanisado [2006.01]"
+  },
+  {
+    "code": "D04B 9/36",
+    "description": "••••••Motivos de marquetería obtenidos por movimiento de vaivén [2006.01]"
+  },
+  {
+    "code": "D04B 9/38",
+    "description": "••••con dibujo de mallas [2006.01]"
+  },
+  {
+    "code": "D04B 9/40",
+    "description": "••con posibilidad de transferencia del género de punto de una máquina a otra [2006.01]"
+  },
+  {
+    "code": "D04B 9/42",
+    "description": "••concebidos especialmente para la producción del género de punto de configuración particular [2006.01]"
+  },
+  {
+    "code": "D04B 9/44",
+    "description": "••••artículos tubulares alargados de pequeño diámetro, p. ej. cubiertas para cables (cubiertas de cables eléctricos H01B 13/22) [2006.01]"
+  },
+  {
+    "code": "D04B 9/46",
+    "description": "••••medias o partes de medias [2006.01]"
+  },
+  {
+    "code": "D04B 9/48",
+    "description": "••••••medias indesmallables [2006.01]"
+  },
+  {
+    "code": "D04B 9/50",
+    "description": "••••••••medias con mallas invisibles [2006.01]"
+  },
+  {
+    "code": "D04B 9/52",
+    "description": "••••••medias ortopédicas [2006.01]"
+  },
+  {
+    "code": "D04B 9/54",
+    "description": "••••••reveses, p. ej. reveses dobles o remetidos [2006.01]"
+  },
+  {
+    "code": "D04B 9/56",
+    "description": "••••••partes de talón o punta [2006.01]"
+  },
+  {
+    "code": "D04B 9/58",
+    "description": "••••guantes [2006.01]"
+  },
+  {
+    "code": "D04B 11/00",
+    "description": "Telares de tricotar rectilíneos del tipo Cotton con agujas fijas (telares rectilíneos con agujas móviles independientes D04B 7/00) [2006.01]"
+  },
+  {
+    "code": "D04B 11/02",
+    "description": "••con un juego de agujas [2006.01]"
+  },
+  {
+    "code": "D04B 11/04",
+    "description": "••con dos juegos de agujas [2006.01]"
+  },
+  {
+    "code": "D04B 11/06",
+    "description": "••con posibilidad de disminuciones o de aumentos para la producción de géneros de punto enteramente dimensionados [2006.01]"
+  },
+  {
+    "code": "D04B 11/08",
+    "description": "••con posibilidad de incorporar hilos de pelo [2006.01]"
+  },
+  {
+    "code": "D04B 11/10",
+    "description": "••con posibilidad de incorporar hilos en la espesura del género de punto [2006.01]"
+  },
+  {
+    "code": "D04B 11/12",
+    "description": "••para la producción de géneros de punto a partir de hilos elásticos o por incorporación de hilos elásticos [2006.01]"
+  },
+  {
+    "code": "D04B 11/14",
+    "description": "••con posibilidad de cambiar la textura del género de punto, p. ej. del género de punto liso al género de punto acanalado [2006.01]"
+  },
+  {
+    "code": "D04B 11/16",
+    "description": "••con dispositivo especial para comenzar los artículos, p. ej. con bordes indesmallables [2006.01]"
+  },
+  {
+    "code": "D04B 11/18",
+    "description": "••para producir géneros de punto con dibujos [2006.01]"
+  },
+  {
+    "code": "D04B 11/20",
+    "description": "••••con dibujos de color [2006.01]"
+  },
+  {
+    "code": "D04B 11/22",
+    "description": "••••con dibujos de malla [2006.01]"
+  },
+  {
+    "code": "D04B 11/24",
+    "description": "••con posibilidad de transferir los artículos de género de punto de una máquina a otra [2006.01]"
+  },
+  {
+    "code": "D04B 11/26",
+    "description": "••especialmente adaptado para la producción de artículos de una configuración particular [2006.01]"
+  },
+  {
+    "code": "D04B 11/28",
+    "description": "••••medias o elementos de medias [2006.01]"
+  },
+  {
+    "code": "D04B 11/30",
+    "description": "••••••medias indesmallables [2006.01]"
+  },
+  {
+    "code": "D04B 11/32",
+    "description": "••••••reveses, p. ej. reveses dobles o remetidos [2006.01]"
+  },
+  {
+    "code": "D04B 11/34",
+    "description": "••••••partes de talón o punta [2006.01]"
+  },
+  {
+    "code": "D04B 11/36",
+    "description": "••••otros artículos de vestir [2006.01]"
+  },
+  {
+    "code": "D04B 13/00",
+    "description": "Telares de tricotado de trama circulares con agujas de pico o de barba, p. ej. máquinas para hacer mallas (con agujas móviles independientes D04B 9/00) [2006.01]"
+  },
+  {
+    "code": "D04B 13/02",
+    "description": "••con agujas horizontales [2006.01]"
+  },
+  {
+    "code": "D04B 15/00",
+    "description": "Partes constitutivas de telares de tricotar trama, o dispositivos auxiliares incorporados, limitados a este tipo de máquinas (dispositivos o accesorios no sometidos a esta limitación D04B 35/00) [2006.01]"
+  },
+  {
+    "code": "D04B 15/02",
+    "description": "••Punzones para transferir las mallas [2006.01]"
+  },
+  {
+    "code": "D04B 15/04",
+    "description": "••••para telares de tricotar rectilíneos tipo Cotton [2006.01]"
+  },
+  {
+    "code": "D04B 15/06",
+    "description": "••Platinas [2006.01]"
+  },
+  {
+    "code": "D04B 15/08",
+    "description": "••Dispositivo de apertura de cajas de agujas; Brochas [2006.01]"
+  },
+  {
+    "code": "D04B 15/10",
+    "description": "••Planchas de agujas [2006.01]"
+  },
+  {
+    "code": "D04B 15/12",
+    "description": "••••Dispositivos de caballete apropiados [2006.01]"
+  },
+  {
+    "code": "D04B 15/14",
+    "description": "••Cilindros de agujas [2006.01]"
+  },
+  {
+    "code": "D04B 15/16",
+    "description": "••••Dispositivos de mando para movimiento de vaivén [2006.01]"
+  },
+  {
+    "code": "D04B 15/18",
+    "description": "••Discos [2006.01]"
+  },
+  {
+    "code": "D04B 15/20",
+    "description": "••Barras de agujas [2006.01]"
+  },
+  {
+    "code": "D04B 15/22",
+    "description": "••••Dispositivos de accionamiento para este efecto [2006.01]"
+  },
+  {
+    "code": "D04B 15/24",
+    "description": "••Cabezas de platinas; Barras de platinas [2006.01]"
+  },
+  {
+    "code": "D04B 15/26",
+    "description": "••Levas lineales [2006.01]"
+  },
+  {
+    "code": "D04B 15/28",
+    "description": "••Prensa de agujas [2006.01]"
+  },
+  {
+    "code": "D04B 15/30",
+    "description": "••Dispositivos de mando de barras guía-hilos [2006.01]"
+  },
+  {
+    "code": "D04B 15/32",
+    "description": "••Sistemas de excéntrica o conjuntos de mandos de los órganos del tricotado [2006.01]"
+  },
+  {
+    "code": "D04B 15/34",
+    "description": "••••para discos [2006.01]"
+  },
+  {
+    "code": "D04B 15/36",
+    "description": "••••para telares de tricotar rectilíneos [2006.01]"
+  },
+  {
+    "code": "D04B 15/38",
+    "description": "••Dispositivos para suministrar, alimentar o guiar los hilos a las agujas [2006.01]"
+  },
+  {
+    "code": "D04B 15/40",
+    "description": "••••Soportes para bobinas de hilo o análogos [2006.01]"
+  },
+  {
+    "code": "D04B 15/42",
+    "description": "••••••Armaduras para uniones de dos dispositivos de arrollamiento o más [2006.01]"
+  },
+  {
+    "code": "D04B 15/44",
+    "description": "••••Dispositivo de tensión para hilos individuales [2006.01]"
+  },
+  {
+    "code": "D04B 15/46",
+    "description": "••••••para hilos elásticos [2006.01]"
+  },
+  {
+    "code": "D04B 15/48",
+    "description": "••••Dispositivos de alimentación del hilo [2006.01]"
+  },
+  {
+    "code": "D04B 15/50",
+    "description": "••••••para hilos elásticos [2006.01]"
+  },
+  {
+    "code": "D04B 15/52",
+    "description": "••••••para telares de tricotar rectilíneos tipo Cotton [2006.01]"
+  },
+  {
+    "code": "D04B 15/54",
+    "description": "••••Guía-hilos [2006.01]"
+  },
+  {
+    "code": "D04B 15/56",
+    "description": "••••••para telares de tricotar rectilíneos [2006.01]"
+  },
+  {
+    "code": "D04B 15/58",
+    "description": "••••••para telares de tricotar circulares; Dispositivos de cambio de hilos [2006.01]"
+  },
+  {
+    "code": "D04B 15/60",
+    "description": "••••••••con dispositivos para sujetar o seccionar el hilo [2006.01]"
+  },
+  {
+    "code": "D04B 15/61",
+    "description": "••••••••••dispuesto en el interior de un círculo de agujas [2006.01]"
+  },
+  {
+    "code": "D04B 15/62",
+    "description": "••••••••con anudadores de hilos [2006.01]"
+  },
+  {
+    "code": "D04B 15/64",
+    "description": "••••••para telares de tricotar rectilíneos tipo Cotton [2006.01]"
+  },
+  {
+    "code": "D04B 15/66",
+    "description": "••Dispositivos para determinar o controlar los dibujos [2006.01]"
+  },
+  {
+    "code": "D04B 15/68",
+    "description": "••••caracterizados por los órganos de tricotado utilizados [2006.01]"
+  },
+  {
+    "code": "D04B 15/70",
+    "description": "••••••en telares de tricotar rectilíneos [2006.01]"
+  },
+  {
+    "code": "D04B 15/72",
+    "description": "••••••en telares de tricotar tipo Cotton [2006.01]"
+  },
+  {
+    "code": "D04B 15/74",
+    "description": "••••••Tambores de dibujo [2006.01]"
+  },
+  {
+    "code": "D04B 15/76",
+    "description": "••••••Ruedas de dibujo [2006.01]"
+  },
+  {
+    "code": "D04B 15/78",
+    "description": "••••••Dispositivos eléctricos [2006.01]"
+  },
+  {
+    "code": "D04B 15/80",
+    "description": "••••caracterizados por las guía-hilos utilizadas [2006.01]"
+  },
+  {
+    "code": "D04B 15/82",
+    "description": "••••caracterizados por las excéntricas de agujas utilizadas [2006.01]"
+  },
+  {
+    "code": "D04B 15/84",
+    "description": "••••Cartones o mecanismos Jacquard (aparatos para perforar los cartones D03C) [2006.01]"
+  },
+  {
+    "code": "D04B 15/86",
+    "description": "••••••en telares de tricotar rectilíneos [2006.01]"
+  },
+  {
+    "code": "D04B 15/88",
+    "description": "••Dispositivos de enrollamiento o de avance para artículos de géneros de punto [2006.01]"
+  },
+  {
+    "code": "D04B 15/90",
+    "description": "••••para telares de tricotar rectilíneos [2006.01]"
+  },
+  {
+    "code": "D04B 15/92",
+    "description": "••••neumático [2006.01]"
+  },
+  {
+    "code": "D04B 15/94",
+    "description": "••Mecanismos de accionamiento no previstos en otro lugar [2006.01]"
+  },
+  {
+    "code": "D04B 15/96",
+    "description": "••••en telares de tricotar rectilíneos [2006.01]"
+  },
+  {
+    "code": "D04B 15/98",
+    "description": "••••en telares de tricotar rectilíneos tipo Cotton [2006.01]"
+  },
+  {
+    "code": "D04B 15/99",
+    "description": "••••controlados eléctricamente [2006.01]"
+  },
+  {
+    "code": "D04B 17/00",
+    "description": "Reparación de géneros de punto por operaciones de tricotaje [2006.01]"
+  },
+  {
+    "code": "D04B 17/02",
+    "description": "••por zurcido [2006.01]"
+  },
+  {
+    "code": "D04B 17/04",
+    "description": "••por remendado [2006.01]"
+  },
+  {
+    "code": "D04B 19/00",
+    "description": "Deshilado de géneros de punto [2006.01]"
+  },
+  {
+    "code": "D04B 21/00",
+    "description": "Procedimientos de tricotaje urdimbre para la producción de géneros de punto o de artículos, que no dependen del empleo de máquinas especiales; Géneros de punto o artículos determinados por tales procedimientos [2006.01]"
+  },
+  {
+    "code": "D04B 21/02",
+    "description": "••Géneros de punto de pelo o artículos que presentan características superficiales similares [2006.01]"
+  },
+  {
+    "code": "D04B 21/04",
+    "description": "••••caracterizados por la naturaleza del hilo [2006.01]"
+  },
+  {
+    "code": "D04B 21/06",
+    "description": "••Géneros de punto o artículos labrados (géneros de punto de calado D04B 21/10) [2006.01]"
+  },
+  {
+    "code": "D04B 21/08",
+    "description": "••••caracterizados por la naturaleza del hilo [2006.01]"
+  },
+  {
+    "code": "D04B 21/10",
+    "description": "••Géneros de punto de calado [2006.01]"
+  },
+  {
+    "code": "D04B 21/12",
+    "description": "••••caracterizados por la naturaleza del hilo [2006.01]"
+  },
+  {
+    "code": "D04B 21/14",
+    "description": "••Tejidos caracterizados por la incorporación por tricotado de hilos de refuerzo, de hilos de unión o de hilos decorativos, en uno o varios hilos, borra o capa de tejido; Géneros de punto que incorpora pequeños elementos auxiliares, p. ej. a fines decorativos (géneros de punto de pelo D04B 21/02; no tejidos en sí D04H) [2006.01]"
+  },
+  {
+    "code": "D04B 21/16",
+    "description": "••••que incorporan hilos sintéticos [2006.01]"
+  },
+  {
+    "code": "D04B 21/18",
+    "description": "••••que incorporan hilos elásticos [2006.01]"
+  },
+  {
+    "code": "D04B 21/20",
+    "description": "••especialmente concebido para el tricotado de artículos de configuración particular [2006.01]"
+  },
+  {
+    "code": "D04B 23/00",
+    "description": "Telares de tricotar urdimbre rectilínea [2006.01]"
+  },
+  {
+    "code": "D04B 23/02",
+    "description": "••con dos juegos de agujas [2006.01]"
+  },
+  {
+    "code": "D04B 23/04",
+    "description": "••con agujas de tricotar móviles independientes [2006.01]"
+  },
+  {
+    "code": "D04B 23/06",
+    "description": "••para producir géneros de punto con hilos elásticos o llevando éstos [2006.01]"
+  },
+  {
+    "code": "D04B 23/08",
+    "description": "••con posibilidad de incorporar hilos de pelo [2006.01]"
+  },
+  {
+    "code": "D04B 23/10",
+    "description": "••por tricotado a través de capas de hilo, borra o capas de tejido o alrededor de una materia alargada con ánima [2006.01]"
+  },
+  {
+    "code": "D04B 23/12",
+    "description": "••con posibilidad de incorporar tramas sin mallas de orillo a orillo [2006.01]"
+  },
+  {
+    "code": "D04B 23/14",
+    "description": "••con posibilidad de incorporar pequeños elementos auxiliares, p. ej. con fines decorativos [2006.01]"
+  },
+  {
+    "code": "D04B 23/16",
+    "description": "••especialmente adaptado para producir géneros de punto o artículos sin adornos de una forma o configuración particular [2006.01]"
+  },
+  {
+    "code": "D04B 23/18",
+    "description": "••••con posibilidad de disminuir o aumentar [2006.01]"
+  },
+  {
+    "code": "D04B 23/20",
+    "description": "••••para producir medias sin adornos [2006.01]"
+  },
+  {
+    "code": "D04B 23/22",
+    "description": "••con medios particulares de guía del hilo [2006.01]"
+  },
+  {
+    "code": "D04B 23/24",
+    "description": "••con dispositivos prensa-agujas entalladas para formar los dibujos [2006.01]"
+  },
+  {
+    "code": "D04B 25/00",
+    "description": "Telares de tricotar urdimbre no previstos en otro lugar [2006.01]"
+  },
+  {
+    "code": "D04B 25/02",
+    "description": "••Telares para géneros de punto tubulares [2006.01]"
+  },
+  {
+    "code": "D04B 25/04",
+    "description": "••Telares milaneses [2006.01]"
+  },
+  {
+    "code": "D04B 25/06",
+    "description": "••Telares de ganchillo para galones [2006.01]"
+  },
+  {
+    "code": "D04B 25/08",
+    "description": "••••para géneros de punto de pelo [2006.01]"
+  },
+  {
+    "code": "D04B 25/10",
+    "description": "••••para géneros de punto con dibujo [2006.01]"
+  },
+  {
+    "code": "D04B 25/12",
+    "description": "••••••con guía-hilos de trama independientemente móviles regulados por mecanismo Jacquard [2006.01]"
+  },
+  {
+    "code": "D04B 25/14",
+    "description": "••••especialmente adaptados para producir artículos de configuración particular [2006.01]"
+  },
+  {
+    "code": "D04B 27/00",
+    "description": "Partes constitutivas de telares de tricotar urdimbre, o dispositivos auxiliares incorporados a estos telares, limitados a este tipo de telares (partes constitutivas o dispositivos auxiliares no sometidos a esta limitación D04B 35/00) [2006.01]"
+  },
+  {
+    "code": "D04B 27/02",
+    "description": "••Guía-hilos de urdimbre [2006.01]"
+  },
+  {
+    "code": "D04B 27/04",
+    "description": "••Platinas [2006.01]"
+  },
+  {
+    "code": "D04B 27/06",
+    "description": "••Barras de agujas; Barras de platinas [2006.01]"
+  },
+  {
+    "code": "D04B 27/08",
+    "description": "••••Dispositivos de accionamiento para este efecto [2006.01]"
+  },
+  {
+    "code": "D04B 27/10",
+    "description": "••Dispositivos para aprovisionar, alimentar o guiar los hilos hacia las agujas [2006.01]"
+  },
+  {
+    "code": "D04B 27/12",
+    "description": "••••Dispositivos de tensión para hilos individuales [2006.01]"
+  },
+  {
+    "code": "D04B 27/14",
+    "description": "••••Estructuras de barras de tensión del hilo [2006.01]"
+  },
+  {
+    "code": "D04B 27/16",
+    "description": "••••Plegadores de urdimbre; Cojinetes a este efecto [2006.01]"
+  },
+  {
+    "code": "D04B 27/18",
+    "description": "••••••Dispositivos de frenado de plegador para poner en tensión el hilo [2006.01]"
+  },
+  {
+    "code": "D04B 27/20",
+    "description": "••••••Dispositivos de accionamiento del plegador de urdimbre [2006.01]"
+  },
+  {
+    "code": "D04B 27/22",
+    "description": "••••••••controlados eléctricamente [2006.01]"
+  },
+  {
+    "code": "D04B 27/24",
+    "description": "••••Conjuntos de barras de guía-hilos [2006.01]"
+  },
+  {
+    "code": "D04B 27/26",
+    "description": "••••••Dispositivos de caballete apropiados [2006.01]"
+  },
+  {
+    "code": "D04B 27/28",
+    "description": "••••••••con estructuras para reducir el número de elementos de urdimbre de dibujos [2006.01]"
+  },
+  {
+    "code": "D04B 27/30",
+    "description": "••••••••con transmisión que comprende dispositivos multiplicadores de potencia [2006.01]"
+  },
+  {
+    "code": "D04B 27/32",
+    "description": "••••••con guía-hilos independientemente móviles, controlados por mecanismos Jacquard [2006.01]"
+  },
+  {
+    "code": "D04B 27/34",
+    "description": "••Dispositivos de arrollamiento o de avance para artículos de géneros de punto [2006.01]"
+  },
+  {
+    "code": "D04B 27/36",
+    "description": "••••con varas [2006.01]"
+  },
+  {
+    "code": "D04B 31/00",
+    "description": "Procedimientos de labor de ganchillo utilizados para la producción de géneros de punto o de artículos [2006.01]"
+  },
+  {
+    "code": "D04B 31/02",
+    "description": "••Bandas o hilos de ganchillo [2006.01]"
+  },
+  {
+    "code": "D04B 33/00",
+    "description": "Utiles o aparatos para la labor de ganchillo (Telares de ganchillo para tricotar urdimbre para galones D04B 25/06) [2006.01]"
+  },
+  {
+    "code": "D04B 35/02",
+    "description": "••Utiles o instrumentos de tricotado no previstos en los grupos D04B 15/00 ó D04B 27/00 (fabricación de agujas B21G 1/00) [2006.01]"
+  },
+  {
+    "code": "D04B 35/04",
+    "description": "••••Agujas de lengüeta [2006.01]"
+  },
+  {
+    "code": "D04B 35/06",
+    "description": "••••Agujas con pistón (lengüeta deslizante) [2006.01]"
+  },
+  {
+    "code": "D04B 35/08",
+    "description": "••••Agujas de pico o de barba [2006.01]"
+  },
+  {
+    "code": "D04B 35/10",
+    "description": "••Dispositivos indicadores, advertidores o de seguridad, p. ej. movimientos de parada [2006.01]"
+  },
+  {
+    "code": "D04B 35/12",
+    "description": "••••sensibles al consumo del hilo [2006.01]"
+  },
+  {
+    "code": "D04B 35/14",
+    "description": "••••sensibles a las roturas del hilo [2006.01]"
+  },
+  {
+    "code": "D04B 35/16",
+    "description": "••••••con detectores asociados a una serie de hilos [2006.01]"
+  },
+  {
+    "code": "D04B 35/18",
+    "description": "••••sensibles a la ruptura, la mala posición o el funcionamiento defectuoso de mecanismos de tricotado [2006.01]"
+  },
+  {
+    "code": "D04B 35/20",
+    "description": "••••sensibles a los defectos, p. ej. agujeros, en los artículos tricotados [2006.01]"
+  },
+  {
+    "code": "D04B 35/22",
+    "description": "••Dispositivos para el tratamiento preparatorio de hilos [2006.01]"
+  },
+  {
+    "code": "D04B 35/24",
+    "description": "••••por humidificación o lubrificación [2006.01]"
+  },
+  {
+    "code": "D04B 35/26",
+    "description": "••••por calentamiento [2006.01]"
+  },
+  {
+    "code": "D04B 35/28",
+    "description": "••Dispositivos de engrasado para las piezas de máquinas (en general F16N) [2006.01]"
+  },
+  {
+    "code": "D04B 35/30",
+    "description": "••Dispositivos para la regulación de la temperatura de partes de máquinas [2006.01]"
+  },
+  {
+    "code": "D04B 35/32",
+    "description": "••Dispositivos para el levantamiento de plumones y pelusa [2006.01]"
+  },
+  {
+    "code": "D04B 35/34",
+    "description": "••Dispositivos de corte para los géneros de punto [2006.01]"
+  },
+  {
+    "code": "D04B 35/36",
+    "description": "••Dispositivos para la impresión, el embadurnamiento o el carduzado de los géneros de punto [2006.01]"
+  },
+  {
+    "code": "D04B 37/00",
+    "description": "Aparatos o dispositivos auxiliares empleados con los telares de tricotado (cartones de Jacquard, urdimbres de dibujos, aparatos para perforar los cartones D03C) [2006.01]"
+  },
+  {
+    "code": "D04B 37/02",
+    "description": "••con telares para tricotar trama [2006.01]"
+  },
+  {
+    "code": "D04B 37/04",
+    "description": "••••por inserción o regulación de las agujas de dibujo o elementos semejantes en los tambores o las ruedas de dibujo [2006.01]"
+  },
+  {
+    "code": "D04B 37/06",
+    "description": "••con telares de tricotar urdimbre [2006.01]"
+  },
+  {
+    "code": "D04B 39/00",
+    "description": "Procedimientos, aparatos o máquinas de tricotaje diversos, no previstos en otro lugar [2006.01]"
+  },
+  {
+    "code": "D04B 39/02",
+    "description": "••con soporte de la obra en forma de tornillo [2006.01]"
+  },
+  {
+    "code": "D04B 39/04",
+    "description": "••adaptados para el tricotado combinado de urdimbre y trama [2006.01]"
+  },
+  {
+    "code": "D04B 39/06",
+    "description": "••adaptados para tricotado y tejido combinados [2006.01]"
+  },
+  {
+    "code": "D04B 39/08",
+    "description": "••Máquinas para coser modificadas para el tricotado [2006.01]"
+  }
+]

@@ -1,0 +1,290 @@
+[
+  {
+    "code": "F02P 1/00",
+    "description": "Sistemas en los que la energía eléctrica de encendido está producida por generadores del tipo magnético o dinamo sin almacenamiento subsiguiente [2006.01]"
+  },
+  {
+    "code": "F02P 1/02",
+    "description": "••estando el rotor del generador formando parte del volante del motor [2006.01]"
+  },
+  {
+    "code": "F02P 1/04",
+    "description": "••estando el generador especialmente adaptado para ser utilizado con tipos específicos de motores, p. ej. motores con cilindros en V [2006.01]"
+  },
+  {
+    "code": "F02P 1/06",
+    "description": "••Accionamiento de generador, p. ej. por acoplamiento instantáneo [2006.01]"
+  },
+  {
+    "code": "F02P 1/08",
+    "description": "••Esquema de montaje de los circuitos [2006.01]"
+  },
+  {
+    "code": "F02P 3/00",
+    "description": "Otros sistemas de encendido por chispa eléctrica caracterizados por el tipo de almacenamiento de la energía de encendido [2006.01]"
+  },
+  {
+    "code": "F02P 3/01",
+    "description": "••Encendido por chispa eléctrica sin almacenamiento ulterior de energía, es decir estando producida la energía por un oscilador eléctrico (con magneto o dinamo F02P 1/00; encendido piezo-eléctrico F02P 3/12; a chispas eléctricas continuas F02P 15/10) [2006.01]"
+  },
+  {
+    "code": "F02P 3/02",
+    "description": "••implicando un almacenamiento de la energía inductiva, p. ej. dispositivos de las bobinas de inducción [2006.01]"
+  },
+  {
+    "code": "F02P 3/04",
+    "description": "••••Esquema de los circuitos [2006.01]"
+  },
+  {
+    "code": "F02P 3/045",
+    "description": "••••••para el control de los tiempos de cierre o apertura [2006.01]"
+  },
+  {
+    "code": "F02P 3/05",
+    "description": "••••••para el control de la intensidad de la corriente en la bobina de inducción (en el momento del arranque F02P 15/12) [2006.01]"
+  },
+  {
+    "code": "F02P 3/055",
+    "description": "••••••con medios de protección para prevenir desgastes en el circuito o en la bobina de inducción [2006.01]"
+  },
+  {
+    "code": "F02P 3/06",
+    "description": "••implicando un almacenamiento de energía capacitiva (encendido piezoeléctrico o electrostático F02P 3/12) [2006.01]"
+  },
+  {
+    "code": "F02P 3/08",
+    "description": "••••Esquema de los circuitos (para baja tensión F02P 3/10) [2006.01]"
+  },
+  {
+    "code": "F02P 3/09",
+    "description": "••••••para el control de la corriente de carga del condensador (F02P 15/12 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F02P 3/10",
+    "description": "••••Sistemas de baja tensión, p. ej. con bujías de descarga por la superficie [2006.01]"
+  },
+  {
+    "code": "F02P 3/12",
+    "description": "••Encendido piezoeléctrico; Encendido electrostático [2006.01]"
+  },
+  {
+    "code": "F02P 5/00",
+    "description": "Avance o retraso de la chispa eléctrica de encendido; Su control [2006.01]"
+  },
+  {
+    "code": "F02P 5/02",
+    "description": "••no automático; en función de la posición de los controles del motor por una persona, p. ej. de la posición del regulador [2006.01]"
+  },
+  {
+    "code": "F02P 5/04",
+    "description": "••automáticamente, en función de las condiciones de trabajo del motor, del vehículo o de las condiciones atmosféricas (función de la posición de los controles del motor por una persona F02P 5/02) [2006.01]"
+  },
+  {
+    "code": "F02P 5/05",
+    "description": "••••teniendo medios mecánicos [2006.01]"
+  },
+  {
+    "code": "F02P 5/06",
+    "description": "••••••en función de la velocidad [2006.01]"
+  },
+  {
+    "code": "F02P 5/07",
+    "description": "••••••••Mecanismo centrífugos de sincronización [2006.01]"
+  },
+  {
+    "code": "F02P 5/10",
+    "description": "••••••en función de la presión del fluido en el motor, p. ej. de la presión del aire de combustión [2006.01]"
+  },
+  {
+    "code": "F02P 5/12",
+    "description": "••••••••en función de una presión específica diferente de la del aire de combustión, p. ej. de los gases de escape, del fluido de refrigeración, del lubrificante [2006.01]"
+  },
+  {
+    "code": "F02P 5/14",
+    "description": "••••••en función de condiciones específicas diferentes de la velocidad del motor o de la presión del fluido, p. ej. de la temperatura [2006.01]"
+  },
+  {
+    "code": "F02P 5/145",
+    "description": "••••utilizando medios eléctricos [2006.01]"
+  },
+  {
+    "code": "F02P 5/15",
+    "description": "••••••Tratamiento digital de los datos [2006.01]"
+  },
+  {
+    "code": "F02P 5/152",
+    "description": "••••••••dependiendo de la detonación (detección o indicación de las sacudidas en motores de combustión intera G01L 23/22) [2006.01]"
+  },
+  {
+    "code": "F02P 5/153",
+    "description": "••••••••dependiendo de la presión de combustión [2006.01]"
+  },
+  {
+    "code": "F02P 5/155",
+    "description": "••••••Tratamiento analógico de los datos [2006.01]"
+  },
+  {
+    "code": "F02P 5/16",
+    "description": "••caracterizados por la transmisión mecánica entre los elementos sensibles o los órganos personales de control y los órganos terminales de la acción [2006.01]"
+  },
+  {
+    "code": "F02P 7/00",
+    "description": "Disposición de los distribuidores, conectores, ruptores o captadores para el encendido por chispa eléctrica (avance o retraso del encendido o su control F02P 5/00; estos dispositivos en sí, veánse las clases apropiadas de la sección H, p. ej. interruptores rotativos H01H 19/00, ruptores, distribuidores H01R 39/00, generadores H02K) [2006.01]"
+  },
+  {
+    "code": "F02P 7/02",
+    "description": "••de los distribuidores [2006.01]"
+  },
+  {
+    "code": "F02P 7/03",
+    "description": "••••con medios eléctricos (encendido simultáneo en diferentes partes de un mismo cilindro o en varios cilindros F02P 15/08) [2006.01]"
+  },
+  {
+    "code": "F02P 7/04",
+    "description": "••••teniendo distribuidores que tienen cajas estancas al aire [2006.01]"
+  },
+  {
+    "code": "F02P 7/06",
+    "description": "••de los contactores o de los ruptores o de los dispositivos captadores adaptados a la localización de puntos particulares del ciclo de encendido [2006.01]"
+  },
+  {
+    "code": "F02P 7/063",
+    "description": "••••Captadores mecánicos, contactores o ruptores, p. ej. ruptores de contacto [2006.01]"
+  },
+  {
+    "code": "F02P 7/067",
+    "description": "••••Captadores electromagnéticos [2006.01]"
+  },
+  {
+    "code": "F02P 7/07",
+    "description": "••••••Captadores de efecto Hall [2006.01]"
+  },
+  {
+    "code": "F02P 7/073",
+    "description": "••••Captadores ópticos [2006.01]"
+  },
+  {
+    "code": "F02P 7/077",
+    "description": "••••Sus circuitos, p. ej. generadores de impulsos [2006.01]"
+  },
+  {
+    "code": "F02P 7/08",
+    "description": "••••teniendo cajas estancas al aire [2006.01]"
+  },
+  {
+    "code": "F02P 7/10",
+    "description": "••Accionamiento de los distribuidores, de los contactores o de los ruptores [2006.01]"
+  },
+  {
+    "code": "F02P 9/00",
+    "description": "Control del encendido por chispa eléctrica, no previsto en otro lugar [2006.01]"
+  },
+  {
+    "code": "F02P 11/00",
+    "description": "Dispositivos de seguridad del encendido por chispa eléctrica no previsto en otro lugar [2006.01]"
+  },
+  {
+    "code": "F02P 11/02",
+    "description": "••Prevención contra daños a los motores o a la transmisión de su accionamiento [2006.01]"
+  },
+  {
+    "code": "F02P 11/04",
+    "description": "••Prevención contra el uso no autorizado de los motores (de los motores de vehículo B60R 25/04; conmutadores de encendido H01H 27/00) [2006.01]"
+  },
+  {
+    "code": "F02P 11/06",
+    "description": "••Indicación de funcionamiento anormal [2006.01]"
+  },
+  {
+    "code": "F02P 15/00",
+    "description": "Encendido por chispa eléctrica con características no cubiertas por, o con un interés distinto que, los grupos F02P 1/00-F02P 13/00 [2006.01]"
+  },
+  {
+    "code": "F02P 15/02",
+    "description": "••Sistemas con dos o más bujías de chispa [2006.01]"
+  },
+  {
+    "code": "F02P 15/04",
+    "description": "••teniendo uno de los electrodos situado en el pistón del motor [2006.01]"
+  },
+  {
+    "code": "F02P 15/06",
+    "description": "••saltando la chispa por la compresión en el cilindro motor [2006.01]"
+  },
+  {
+    "code": "F02P 15/08",
+    "description": "••con chispas múltiples, es decir encendido simultáneo en diferentes partes de un mismo cilindro o en varios cilindros [2006.01]"
+  },
+  {
+    "code": "F02P 15/10",
+    "description": "••con chispas eléctricas continuas [2006.01]"
+  },
+  {
+    "code": "F02P 15/12",
+    "description": "••con medios para reforzar la chispa durante el arranque [2006.01]"
+  },
+  {
+    "code": "F02P 17/00",
+    "description": "Pruebas de los sistemas de encendido, p. ej. combinadas con el reglaje de los sistemas de encendidos (prueba de los aparatos de inyección de combustible F02M 65/00; prueba de los sistemas de encendido en general F23Q 23/00); Pruebas de sincronismo del encendido en los motores de encendido por compresión [2006.01]"
+  },
+  {
+    "code": "F02P 17/02",
+    "description": "••Control o reglaje del sincronismo en el encendido [2006.01]"
+  },
+  {
+    "code": "F02P 17/04",
+    "description": "••••dinámicamente [2006.01]"
+  },
+  {
+    "code": "F02P 17/06",
+    "description": "••••••utilizando una lámpara estroboscópica [2006.01]"
+  },
+  {
+    "code": "F02P 17/08",
+    "description": "••••••utilizando un oscilógrafo de rayos catódicos (F02P 17/06 tiene prioridad) [2006.01]"
+  },
+  {
+    "code": "F02P 17/10",
+    "description": "••Medida de los tiempos de apertura y cierre [2006.01]"
+  },
+  {
+    "code": "F02P 17/12",
+    "description": "••Ensayos de las características de los electrodos, voltaje y tensión del encendido [2006.01]"
+  },
+  {
+    "code": "F02P 19/00",
+    "description": "Encendido por incandescencia, p. ej. durante el arranque de los motores de combustión interna; Combinación del encendido por incandescencia y por chispa [2006.01]"
+  },
+  {
+    "code": "F02P 19/02",
+    "description": "••eléctrico, p. ej. esquema de montaje de los circuitos con bujías de incandescencia [2006.01]"
+  },
+  {
+    "code": "F02P 19/04",
+    "description": "••no eléctrico, p. ej. calentamiento de los puntos incandescentes por quemadores (utilización de quemadores para encendido directo F02P 21/00) [2006.01]"
+  },
+  {
+    "code": "F02P 21/00",
+    "description": "Utilización directa de llama o de quemadores para el encendido [2006.01]"
+  },
+  {
+    "code": "F02P 21/02",
+    "description": "••manteniéndose la combustión de las llamas prácticamente fuera de las cámaras de combustión del motor [2006.01]"
+  },
+  {
+    "code": "F02P 21/04",
+    "description": "••Cartuchos combustibles o piezas especiales similares colocadas en el interior de las cámaras de combustión del motor (para facilitar el arranque F02N 19/02) [2006.01]"
+  },
+  {
+    "code": "F02P 23/00",
+    "description": "Otros sistemas de encendido [2006.01]"
+  },
+  {
+    "code": "F02P 23/02",
+    "description": "••Encendido por fricción, pirofórico o catalítico [2006.01]"
+  },
+  {
+    "code": "F02P 23/04",
+    "description": "••Otros medios físicos de encendido, p. ej. utilizando rayos láser [2006.01]"
+  }
+]
